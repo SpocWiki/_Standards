@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [_Text_Template](/_Standards/schema-org/Property/Texts/_Text_Template.md) 
+### #is_/same_as :: [_Text_Template](/_Standards/schema-org/Property/Texts/_Text_Template.md) 
 
-### [_Text_Template.public](/_public/schema-org/Property/Texts/_Text_Template.public.md) 
+### #is_/same_as :: [_Text_Template.public](/_public/schema-org/Property/Texts/_Text_Template.public.md) 
 
-### [_Text_Template.internal](/_internal/schema-org/Property/Texts/_Text_Template.internal.md) 
+### #is_/same_as :: [_Text_Template.internal](/_internal/schema-org/Property/Texts/_Text_Template.internal.md) 
 
-### [_Text_Template.protect](/_protect/schema-org/Property/Texts/_Text_Template.protect.md) 
+### #is_/same_as :: [_Text_Template.protect](/_protect/schema-org/Property/Texts/_Text_Template.protect.md) 
 
-### [_Text_Template.private](/_private/schema-org/Property/Texts/_Text_Template.private.md) 
+### #is_/same_as :: [_Text_Template.private](/_private/schema-org/Property/Texts/_Text_Template.private.md) 
 
-### [_Text_Template.personal](/_personal/schema-org/Property/Texts/_Text_Template.personal.md) 
+### #is_/same_as :: [_Text_Template.personal](/_personal/schema-org/Property/Texts/_Text_Template.personal.md) 
 
-### [_Text_Template.secret](/_secret/schema-org/Property/Texts/_Text_Template.secret.md)
+### #is_/same_as :: [_Text_Template.secret](/_secret/schema-org/Property/Texts/_Text_Template.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_food_establishment](/_Standards/schema-org/Relation/has/has_food_establishment.md) 
+### #is_/same_as :: [has_food_establishment](/_Standards/schema-org/Relation/has/has_food_establishment.md) 
 
-### [has_food_establishment.public](/_public/schema-org/Relation/has/has_food_establishment.public.md) 
+### #is_/same_as :: [has_food_establishment.public](/_public/schema-org/Relation/has/has_food_establishment.public.md) 
 
-### [has_food_establishment.internal](/_internal/schema-org/Relation/has/has_food_establishment.internal.md) 
+### #is_/same_as :: [has_food_establishment.internal](/_internal/schema-org/Relation/has/has_food_establishment.internal.md) 
 
-### [has_food_establishment.protect](/_protect/schema-org/Relation/has/has_food_establishment.protect.md) 
+### #is_/same_as :: [has_food_establishment.protect](/_protect/schema-org/Relation/has/has_food_establishment.protect.md) 
 
-### [has_food_establishment.private](/_private/schema-org/Relation/has/has_food_establishment.private.md) 
+### #is_/same_as :: [has_food_establishment.private](/_private/schema-org/Relation/has/has_food_establishment.private.md) 
 
-### [has_food_establishment.personal](/_personal/schema-org/Relation/has/has_food_establishment.personal.md) 
+### #is_/same_as :: [has_food_establishment.personal](/_personal/schema-org/Relation/has/has_food_establishment.personal.md) 
 
-### [has_food_establishment.secret](/_secret/schema-org/Relation/has/has_food_establishment.secret.md)
+### #is_/same_as :: [has_food_establishment.secret](/_secret/schema-org/Relation/has/has_food_establishment.secret.md)
 

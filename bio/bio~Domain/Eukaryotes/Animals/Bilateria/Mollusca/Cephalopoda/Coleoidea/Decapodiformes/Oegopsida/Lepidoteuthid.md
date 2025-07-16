@@ -156,17 +156,17 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### [Lepidoteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.md) 
+### #is_/same_as :: [Lepidoteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.md) 
 
-### [Lepidoteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.public.md) 
+### #is_/same_as :: [Lepidoteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.public.md) 
 
-### [Lepidoteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.internal.md) 
+### #is_/same_as :: [Lepidoteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.internal.md) 
 
-### [Lepidoteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.protect.md) 
+### #is_/same_as :: [Lepidoteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.protect.md) 
 
-### [Lepidoteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.private.md) 
+### #is_/same_as :: [Lepidoteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.private.md) 
 
-### [Lepidoteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.personal.md) 
+### #is_/same_as :: [Lepidoteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.personal.md) 
 
-### [Lepidoteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.secret.md)
+### #is_/same_as :: [Lepidoteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.secret.md)
 

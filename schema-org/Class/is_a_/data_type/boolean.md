@@ -43,17 +43,17 @@ Boolean: True or False.
 
 ## Confidential Links & Embeds: 
 
-### [boolean](/_Standards/schema-org/Class/is_a_/data_type/boolean.md) 
+### #is_/same_as :: [boolean](/_Standards/schema-org/Class/is_a_/data_type/boolean.md) 
 
-### [boolean.public](/_public/schema-org/Class/is_a_/data_type/boolean.public.md) 
+### #is_/same_as :: [boolean.public](/_public/schema-org/Class/is_a_/data_type/boolean.public.md) 
 
-### [boolean.internal](/_internal/schema-org/Class/is_a_/data_type/boolean.internal.md) 
+### #is_/same_as :: [boolean.internal](/_internal/schema-org/Class/is_a_/data_type/boolean.internal.md) 
 
-### [boolean.protect](/_protect/schema-org/Class/is_a_/data_type/boolean.protect.md) 
+### #is_/same_as :: [boolean.protect](/_protect/schema-org/Class/is_a_/data_type/boolean.protect.md) 
 
-### [boolean.private](/_private/schema-org/Class/is_a_/data_type/boolean.private.md) 
+### #is_/same_as :: [boolean.private](/_private/schema-org/Class/is_a_/data_type/boolean.private.md) 
 
-### [boolean.personal](/_personal/schema-org/Class/is_a_/data_type/boolean.personal.md) 
+### #is_/same_as :: [boolean.personal](/_personal/schema-org/Class/is_a_/data_type/boolean.personal.md) 
 
-### [boolean.secret](/_secret/schema-org/Class/is_a_/data_type/boolean.secret.md)
+### #is_/same_as :: [boolean.secret](/_secret/schema-org/Class/is_a_/data_type/boolean.secret.md)
 

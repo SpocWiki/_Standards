@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Micro-RNA](/_Standards/bio/Genetics/Micro-RNA.md) 
+### #is_/same_as :: [Micro-RNA](/_Standards/bio/Genetics/Micro-RNA.md) 
 
-### [Micro-RNA.public](/_public/bio/Genetics/Micro-RNA.public.md) 
+### #is_/same_as :: [Micro-RNA.public](/_public/bio/Genetics/Micro-RNA.public.md) 
 
-### [Micro-RNA.internal](/_internal/bio/Genetics/Micro-RNA.internal.md) 
+### #is_/same_as :: [Micro-RNA.internal](/_internal/bio/Genetics/Micro-RNA.internal.md) 
 
-### [Micro-RNA.protect](/_protect/bio/Genetics/Micro-RNA.protect.md) 
+### #is_/same_as :: [Micro-RNA.protect](/_protect/bio/Genetics/Micro-RNA.protect.md) 
 
-### [Micro-RNA.private](/_private/bio/Genetics/Micro-RNA.private.md) 
+### #is_/same_as :: [Micro-RNA.private](/_private/bio/Genetics/Micro-RNA.private.md) 
 
-### [Micro-RNA.personal](/_personal/bio/Genetics/Micro-RNA.personal.md) 
+### #is_/same_as :: [Micro-RNA.personal](/_personal/bio/Genetics/Micro-RNA.personal.md) 
 
-### [Micro-RNA.secret](/_secret/bio/Genetics/Micro-RNA.secret.md)
+### #is_/same_as :: [Micro-RNA.secret](/_secret/bio/Genetics/Micro-RNA.secret.md)
 

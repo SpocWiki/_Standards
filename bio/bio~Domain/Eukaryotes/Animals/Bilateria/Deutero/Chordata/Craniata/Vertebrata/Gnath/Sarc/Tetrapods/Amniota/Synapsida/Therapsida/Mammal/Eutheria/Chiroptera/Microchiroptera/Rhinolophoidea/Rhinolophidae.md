@@ -142,17 +142,17 @@ of Natural History. 235:1-182.
 
 ## Confidential Links & Embeds: 
 
-### [Rhinolophidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.md) 
+### #is_/same_as :: [Rhinolophidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.md) 
 
-### [Rhinolophidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.public.md) 
+### #is_/same_as :: [Rhinolophidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.public.md) 
 
-### [Rhinolophidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.internal.md) 
+### #is_/same_as :: [Rhinolophidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.internal.md) 
 
-### [Rhinolophidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.protect.md) 
+### #is_/same_as :: [Rhinolophidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.protect.md) 
 
-### [Rhinolophidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.private.md) 
+### #is_/same_as :: [Rhinolophidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.private.md) 
 
-### [Rhinolophidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.personal.md) 
+### #is_/same_as :: [Rhinolophidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.personal.md) 
 
-### [Rhinolophidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.secret.md)
+### #is_/same_as :: [Rhinolophidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.secret.md)
 

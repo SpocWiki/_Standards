@@ -268,23 +268,19 @@ These are pretty redundant though, e.g. the 5 concepts 1, 3, 4, 5 and 6 essentia
 #is_/part_of :: [[Gandhi,Mahatma]] 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gandhi,Mohandas_Karamchand](/_Standards/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand](/_Standards/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.md) 
 
-### [Gandhi,Mohandas_Karamchand.public](/_public/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.public.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.public](/_public/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.public.md) 
 
-### [Gandhi,Mohandas_Karamchand.internal](/_internal/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.internal.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.internal](/_internal/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.internal.md) 
 
-### [Gandhi,Mohandas_Karamchand.protect](/_protect/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.protect.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.protect](/_protect/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.protect.md) 
 
-### [Gandhi,Mohandas_Karamchand.private](/_private/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.private.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.private](/_private/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.private.md) 
 
-### [Gandhi,Mohandas_Karamchand.personal](/_personal/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.personal.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.personal](/_personal/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.personal.md) 
 
-### [Gandhi,Mohandas_Karamchand.secret](/_secret/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.secret.md)
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.secret](/_secret/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.secret.md)
 

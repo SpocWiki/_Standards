@@ -45,17 +45,17 @@ Web page type: Profile page.
 
 ## Confidential Links & Embeds: 
 
-### [profile_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/profile_page.md) 
+### #is_/same_as :: [profile_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/profile_page.md) 
 
-### [profile_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/profile_page.public.md) 
+### #is_/same_as :: [profile_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/profile_page.public.md) 
 
-### [profile_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/profile_page.internal.md) 
+### #is_/same_as :: [profile_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/profile_page.internal.md) 
 
-### [profile_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/profile_page.protect.md) 
+### #is_/same_as :: [profile_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/profile_page.protect.md) 
 
-### [profile_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/profile_page.private.md) 
+### #is_/same_as :: [profile_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/profile_page.private.md) 
 
-### [profile_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/profile_page.personal.md) 
+### #is_/same_as :: [profile_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/profile_page.personal.md) 
 
-### [profile_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/profile_page.secret.md)
+### #is_/same_as :: [profile_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/profile_page.secret.md)
 

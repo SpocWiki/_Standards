@@ -48,17 +48,17 @@ MeSH_tree_code: J01.576.655.875.400
 
 ## Confidential Links & Embeds: 
 
-### [Metallurgy](/_Standards/chemic/Material/Metallurgy.md) 
+### #is_/same_as :: [Metallurgy](/_Standards/chemic/Material/Metallurgy.md) 
 
-### [Metallurgy.public](/_public/chemic/Material/Metallurgy.public.md) 
+### #is_/same_as :: [Metallurgy.public](/_public/chemic/Material/Metallurgy.public.md) 
 
-### [Metallurgy.internal](/_internal/chemic/Material/Metallurgy.internal.md) 
+### #is_/same_as :: [Metallurgy.internal](/_internal/chemic/Material/Metallurgy.internal.md) 
 
-### [Metallurgy.protect](/_protect/chemic/Material/Metallurgy.protect.md) 
+### #is_/same_as :: [Metallurgy.protect](/_protect/chemic/Material/Metallurgy.protect.md) 
 
-### [Metallurgy.private](/_private/chemic/Material/Metallurgy.private.md) 
+### #is_/same_as :: [Metallurgy.private](/_private/chemic/Material/Metallurgy.private.md) 
 
-### [Metallurgy.personal](/_personal/chemic/Material/Metallurgy.personal.md) 
+### #is_/same_as :: [Metallurgy.personal](/_personal/chemic/Material/Metallurgy.personal.md) 
 
-### [Metallurgy.secret](/_secret/chemic/Material/Metallurgy.secret.md)
+### #is_/same_as :: [Metallurgy.secret](/_secret/chemic/Material/Metallurgy.secret.md)
 

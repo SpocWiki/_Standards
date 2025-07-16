@@ -16,23 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Julius%20Maggi) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Maggi,Julius](/_Standards/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.md) 
+### #is_/same_as :: [Maggi,Julius](/_Standards/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.md) 
 
-### [Maggi,Julius.public](/_public/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.public.md) 
+### #is_/same_as :: [Maggi,Julius.public](/_public/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.public.md) 
 
-### [Maggi,Julius.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.internal.md) 
+### #is_/same_as :: [Maggi,Julius.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.internal.md) 
 
-### [Maggi,Julius.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.protect.md) 
+### #is_/same_as :: [Maggi,Julius.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.protect.md) 
 
-### [Maggi,Julius.private](/_private/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.private.md) 
+### #is_/same_as :: [Maggi,Julius.private](/_private/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.private.md) 
 
-### [Maggi,Julius.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.personal.md) 
+### #is_/same_as :: [Maggi,Julius.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.personal.md) 
 
-### [Maggi,Julius.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.secret.md)
+### #is_/same_as :: [Maggi,Julius.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Maggi,Julius.secret.md)
 

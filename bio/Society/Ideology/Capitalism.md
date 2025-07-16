@@ -112,17 +112,17 @@ U.S. National Archives Identifier: "10638013"
 
 ## Confidential Links & Embeds: 
 
-### [Capitalism](/_Standards/bio/Society/Ideology/Capitalism.md) 
+### #is_/same_as :: [Capitalism](/_Standards/bio/Society/Ideology/Capitalism.md) 
 
-### [Capitalism.public](/_public/bio/Society/Ideology/Capitalism.public.md) 
+### #is_/same_as :: [Capitalism.public](/_public/bio/Society/Ideology/Capitalism.public.md) 
 
-### [Capitalism.internal](/_internal/bio/Society/Ideology/Capitalism.internal.md) 
+### #is_/same_as :: [Capitalism.internal](/_internal/bio/Society/Ideology/Capitalism.internal.md) 
 
-### [Capitalism.protect](/_protect/bio/Society/Ideology/Capitalism.protect.md) 
+### #is_/same_as :: [Capitalism.protect](/_protect/bio/Society/Ideology/Capitalism.protect.md) 
 
-### [Capitalism.private](/_private/bio/Society/Ideology/Capitalism.private.md) 
+### #is_/same_as :: [Capitalism.private](/_private/bio/Society/Ideology/Capitalism.private.md) 
 
-### [Capitalism.personal](/_personal/bio/Society/Ideology/Capitalism.personal.md) 
+### #is_/same_as :: [Capitalism.personal](/_personal/bio/Society/Ideology/Capitalism.personal.md) 
 
-### [Capitalism.secret](/_secret/bio/Society/Ideology/Capitalism.secret.md)
+### #is_/same_as :: [Capitalism.secret](/_secret/bio/Society/Ideology/Capitalism.secret.md)
 

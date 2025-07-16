@@ -47,17 +47,17 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 
 ## Confidential Links & Embeds: 
 
-### [landform](/_Standards/schema-org/Class/is_a_/place/landform.md) 
+### #is_/same_as :: [landform](/_Standards/schema-org/Class/is_a_/place/landform.md) 
 
-### [landform.public](/_public/schema-org/Class/is_a_/place/landform.public.md) 
+### #is_/same_as :: [landform.public](/_public/schema-org/Class/is_a_/place/landform.public.md) 
 
-### [landform.internal](/_internal/schema-org/Class/is_a_/place/landform.internal.md) 
+### #is_/same_as :: [landform.internal](/_internal/schema-org/Class/is_a_/place/landform.internal.md) 
 
-### [landform.protect](/_protect/schema-org/Class/is_a_/place/landform.protect.md) 
+### #is_/same_as :: [landform.protect](/_protect/schema-org/Class/is_a_/place/landform.protect.md) 
 
-### [landform.private](/_private/schema-org/Class/is_a_/place/landform.private.md) 
+### #is_/same_as :: [landform.private](/_private/schema-org/Class/is_a_/place/landform.private.md) 
 
-### [landform.personal](/_personal/schema-org/Class/is_a_/place/landform.personal.md) 
+### #is_/same_as :: [landform.personal](/_personal/schema-org/Class/is_a_/place/landform.personal.md) 
 
-### [landform.secret](/_secret/schema-org/Class/is_a_/place/landform.secret.md)
+### #is_/same_as :: [landform.secret](/_secret/schema-org/Class/is_a_/place/landform.secret.md)
 

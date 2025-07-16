@@ -35,17 +35,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Akrotiri_and_Dhekelia](/_Standards/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.md) 
+### #is_/same_as :: [Akrotiri_and_Dhekelia](/_Standards/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.md) 
 
-### [Akrotiri_and_Dhekelia.public](/_public/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.public.md) 
+### #is_/same_as :: [Akrotiri_and_Dhekelia.public](/_public/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.public.md) 
 
-### [Akrotiri_and_Dhekelia.internal](/_internal/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.internal.md) 
+### #is_/same_as :: [Akrotiri_and_Dhekelia.internal](/_internal/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.internal.md) 
 
-### [Akrotiri_and_Dhekelia.protect](/_protect/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.protect.md) 
+### #is_/same_as :: [Akrotiri_and_Dhekelia.protect](/_protect/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.protect.md) 
 
-### [Akrotiri_and_Dhekelia.private](/_private/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.private.md) 
+### #is_/same_as :: [Akrotiri_and_Dhekelia.private](/_private/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.private.md) 
 
-### [Akrotiri_and_Dhekelia.personal](/_personal/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.personal.md) 
+### #is_/same_as :: [Akrotiri_and_Dhekelia.personal](/_personal/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.personal.md) 
 
-### [Akrotiri_and_Dhekelia.secret](/_secret/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.secret.md)
+### #is_/same_as :: [Akrotiri_and_Dhekelia.secret](/_secret/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.secret.md)
 

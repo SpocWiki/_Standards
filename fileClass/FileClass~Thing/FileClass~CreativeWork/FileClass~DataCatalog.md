@@ -59,17 +59,17 @@ MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasure
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DataCatalog](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.md) 
+### #is_/same_as :: [FileClass~DataCatalog](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.md) 
 
-### [FileClass~DataCatalog.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.public.md) 
+### #is_/same_as :: [FileClass~DataCatalog.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.public.md) 
 
-### [FileClass~DataCatalog.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.internal.md) 
+### #is_/same_as :: [FileClass~DataCatalog.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.internal.md) 
 
-### [FileClass~DataCatalog.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.protect.md) 
+### #is_/same_as :: [FileClass~DataCatalog.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.protect.md) 
 
-### [FileClass~DataCatalog.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.private.md) 
+### #is_/same_as :: [FileClass~DataCatalog.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.private.md) 
 
-### [FileClass~DataCatalog.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.personal.md) 
+### #is_/same_as :: [FileClass~DataCatalog.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.personal.md) 
 
-### [FileClass~DataCatalog.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.secret.md)
+### #is_/same_as :: [FileClass~DataCatalog.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DataCatalog.secret.md)
 

@@ -47,17 +47,17 @@ The act of conveying information to another person via a communication medium (i
 
 ## Confidential Links & Embeds: 
 
-### [communicate_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action.md) 
+### #is_/same_as :: [communicate_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action.md) 
 
-### [communicate_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action.public.md) 
+### #is_/same_as :: [communicate_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action.public.md) 
 
-### [communicate_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action.internal.md) 
+### #is_/same_as :: [communicate_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action.internal.md) 
 
-### [communicate_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action.protect.md) 
+### #is_/same_as :: [communicate_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action.protect.md) 
 
-### [communicate_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action.private.md) 
+### #is_/same_as :: [communicate_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action.private.md) 
 
-### [communicate_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action.personal.md) 
+### #is_/same_as :: [communicate_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action.personal.md) 
 
-### [communicate_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action.secret.md)
+### #is_/same_as :: [communicate_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action.secret.md)
 

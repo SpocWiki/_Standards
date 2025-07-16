@@ -35,17 +35,17 @@ A theater or other performing art center.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PerformingArtsTheater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.md) 
+### #is_/same_as :: [FileClass~PerformingArtsTheater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.md) 
 
-### [FileClass~PerformingArtsTheater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.public.md) 
+### #is_/same_as :: [FileClass~PerformingArtsTheater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.public.md) 
 
-### [FileClass~PerformingArtsTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.internal.md) 
+### #is_/same_as :: [FileClass~PerformingArtsTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.internal.md) 
 
-### [FileClass~PerformingArtsTheater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.protect.md) 
+### #is_/same_as :: [FileClass~PerformingArtsTheater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.protect.md) 
 
-### [FileClass~PerformingArtsTheater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.private.md) 
+### #is_/same_as :: [FileClass~PerformingArtsTheater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.private.md) 
 
-### [FileClass~PerformingArtsTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.personal.md) 
+### #is_/same_as :: [FileClass~PerformingArtsTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.personal.md) 
 
-### [FileClass~PerformingArtsTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.secret.md)
+### #is_/same_as :: [FileClass~PerformingArtsTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.secret.md)
 

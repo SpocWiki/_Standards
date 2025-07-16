@@ -49,17 +49,17 @@ Represents the broad notion of 'desktop' browsers as a Web Platform.
 
 ## Confidential Links & Embeds: 
 
-### [desktop_web_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.md) 
+### #is_/same_as :: [desktop_web_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.md) 
 
-### [desktop_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.public.md) 
+### #is_/same_as :: [desktop_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.public.md) 
 
-### [desktop_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.internal.md) 
+### #is_/same_as :: [desktop_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.internal.md) 
 
-### [desktop_web_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.protect.md) 
+### #is_/same_as :: [desktop_web_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.protect.md) 
 
-### [desktop_web_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.private.md) 
+### #is_/same_as :: [desktop_web_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.private.md) 
 
-### [desktop_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.personal.md) 
+### #is_/same_as :: [desktop_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.personal.md) 
 
-### [desktop_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.secret.md)
+### #is_/same_as :: [desktop_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/desktop_web_platform.secret.md)
 

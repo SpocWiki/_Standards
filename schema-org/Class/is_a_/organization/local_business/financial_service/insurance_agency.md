@@ -45,17 +45,17 @@ An Insurance agency.
 
 ## Confidential Links & Embeds: 
 
-### [insurance_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.md) 
+### #is_/same_as :: [insurance_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.md) 
 
-### [insurance_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.public.md) 
+### #is_/same_as :: [insurance_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.public.md) 
 
-### [insurance_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.internal.md) 
+### #is_/same_as :: [insurance_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.internal.md) 
 
-### [insurance_agency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.protect.md) 
+### #is_/same_as :: [insurance_agency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.protect.md) 
 
-### [insurance_agency.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.private.md) 
+### #is_/same_as :: [insurance_agency.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.private.md) 
 
-### [insurance_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.personal.md) 
+### #is_/same_as :: [insurance_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.personal.md) 
 
-### [insurance_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.secret.md)
+### #is_/same_as :: [insurance_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/insurance_agency.secret.md)
 

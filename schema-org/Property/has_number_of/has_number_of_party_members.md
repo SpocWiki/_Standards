@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_party_members](/_Standards/schema-org/Property/has_number_of/has_number_of_party_members.md) 
+### #is_/same_as :: [has_number_of_party_members](/_Standards/schema-org/Property/has_number_of/has_number_of_party_members.md) 
 
-### [has_number_of_party_members.public](/_public/schema-org/Property/has_number_of/has_number_of_party_members.public.md) 
+### #is_/same_as :: [has_number_of_party_members.public](/_public/schema-org/Property/has_number_of/has_number_of_party_members.public.md) 
 
-### [has_number_of_party_members.internal](/_internal/schema-org/Property/has_number_of/has_number_of_party_members.internal.md) 
+### #is_/same_as :: [has_number_of_party_members.internal](/_internal/schema-org/Property/has_number_of/has_number_of_party_members.internal.md) 
 
-### [has_number_of_party_members.protect](/_protect/schema-org/Property/has_number_of/has_number_of_party_members.protect.md) 
+### #is_/same_as :: [has_number_of_party_members.protect](/_protect/schema-org/Property/has_number_of/has_number_of_party_members.protect.md) 
 
-### [has_number_of_party_members.private](/_private/schema-org/Property/has_number_of/has_number_of_party_members.private.md) 
+### #is_/same_as :: [has_number_of_party_members.private](/_private/schema-org/Property/has_number_of/has_number_of_party_members.private.md) 
 
-### [has_number_of_party_members.personal](/_personal/schema-org/Property/has_number_of/has_number_of_party_members.personal.md) 
+### #is_/same_as :: [has_number_of_party_members.personal](/_personal/schema-org/Property/has_number_of/has_number_of_party_members.personal.md) 
 
-### [has_number_of_party_members.secret](/_secret/schema-org/Property/has_number_of/has_number_of_party_members.secret.md)
+### #is_/same_as :: [has_number_of_party_members.secret](/_secret/schema-org/Property/has_number_of/has_number_of_party_members.secret.md)
 

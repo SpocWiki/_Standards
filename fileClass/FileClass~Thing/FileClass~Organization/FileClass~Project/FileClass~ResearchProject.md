@@ -35,17 +35,17 @@ A Research project.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ResearchProject](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.md) 
+### #is_/same_as :: [FileClass~ResearchProject](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.md) 
 
-### [FileClass~ResearchProject.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.public.md) 
+### #is_/same_as :: [FileClass~ResearchProject.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.public.md) 
 
-### [FileClass~ResearchProject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.internal.md) 
+### #is_/same_as :: [FileClass~ResearchProject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.internal.md) 
 
-### [FileClass~ResearchProject.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.protect.md) 
+### #is_/same_as :: [FileClass~ResearchProject.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.protect.md) 
 
-### [FileClass~ResearchProject.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.private.md) 
+### #is_/same_as :: [FileClass~ResearchProject.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.private.md) 
 
-### [FileClass~ResearchProject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.personal.md) 
+### #is_/same_as :: [FileClass~ResearchProject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.personal.md) 
 
-### [FileClass~ResearchProject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.secret.md)
+### #is_/same_as :: [FileClass~ResearchProject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.secret.md)
 

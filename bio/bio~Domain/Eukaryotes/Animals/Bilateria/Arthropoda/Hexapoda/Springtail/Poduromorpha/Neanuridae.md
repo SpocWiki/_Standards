@@ -54,17 +54,17 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 
 ## Confidential Links & Embeds: 
 
-### [Neanuridae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.md) 
+### #is_/same_as :: [Neanuridae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.md) 
 
-### [Neanuridae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.public.md) 
+### #is_/same_as :: [Neanuridae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.public.md) 
 
-### [Neanuridae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.internal.md) 
+### #is_/same_as :: [Neanuridae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.internal.md) 
 
-### [Neanuridae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.protect.md) 
+### #is_/same_as :: [Neanuridae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.protect.md) 
 
-### [Neanuridae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.private.md) 
+### #is_/same_as :: [Neanuridae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.private.md) 
 
-### [Neanuridae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.personal.md) 
+### #is_/same_as :: [Neanuridae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.personal.md) 
 
-### [Neanuridae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.secret.md)
+### #is_/same_as :: [Neanuridae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.secret.md)
 

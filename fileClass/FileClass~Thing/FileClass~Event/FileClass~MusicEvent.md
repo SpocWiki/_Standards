@@ -35,17 +35,17 @@ Event type: Music event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MusicEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.md) 
+### #is_/same_as :: [FileClass~MusicEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.md) 
 
-### [FileClass~MusicEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.public.md) 
+### #is_/same_as :: [FileClass~MusicEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.public.md) 
 
-### [FileClass~MusicEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.internal.md) 
+### #is_/same_as :: [FileClass~MusicEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.internal.md) 
 
-### [FileClass~MusicEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.protect.md) 
+### #is_/same_as :: [FileClass~MusicEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.protect.md) 
 
-### [FileClass~MusicEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.private.md) 
+### #is_/same_as :: [FileClass~MusicEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.private.md) 
 
-### [FileClass~MusicEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.personal.md) 
+### #is_/same_as :: [FileClass~MusicEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.personal.md) 
 
-### [FileClass~MusicEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.secret.md)
+### #is_/same_as :: [FileClass~MusicEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.secret.md)
 

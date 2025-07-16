@@ -49,17 +49,17 @@ The item is dangerous and requires careful handling and/or special training of t
 
 ## Confidential Links & Embeds: 
 
-### [dangerous_good_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.md) 
+### #is_/same_as :: [dangerous_good_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.md) 
 
-### [dangerous_good_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.public.md) 
+### #is_/same_as :: [dangerous_good_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.public.md) 
 
-### [dangerous_good_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.internal.md) 
+### #is_/same_as :: [dangerous_good_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.internal.md) 
 
-### [dangerous_good_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.protect.md) 
+### #is_/same_as :: [dangerous_good_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.protect.md) 
 
-### [dangerous_good_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.private.md) 
+### #is_/same_as :: [dangerous_good_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.private.md) 
 
-### [dangerous_good_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.personal.md) 
+### #is_/same_as :: [dangerous_good_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.personal.md) 
 
-### [dangerous_good_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.secret.md)
+### #is_/same_as :: [dangerous_good_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.secret.md)
 

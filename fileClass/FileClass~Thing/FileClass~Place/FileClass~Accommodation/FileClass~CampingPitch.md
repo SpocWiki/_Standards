@@ -42,17 +42,17 @@ A [[CampingPitch]] is an individual place for overnight stay in the outdoors, ty
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CampingPitch](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.md) 
+### #is_/same_as :: [FileClass~CampingPitch](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.md) 
 
-### [FileClass~CampingPitch.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.public.md) 
+### #is_/same_as :: [FileClass~CampingPitch.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.public.md) 
 
-### [FileClass~CampingPitch.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.internal.md) 
+### #is_/same_as :: [FileClass~CampingPitch.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.internal.md) 
 
-### [FileClass~CampingPitch.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.protect.md) 
+### #is_/same_as :: [FileClass~CampingPitch.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.protect.md) 
 
-### [FileClass~CampingPitch.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.private.md) 
+### #is_/same_as :: [FileClass~CampingPitch.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.private.md) 
 
-### [FileClass~CampingPitch.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.personal.md) 
+### #is_/same_as :: [FileClass~CampingPitch.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.personal.md) 
 
-### [FileClass~CampingPitch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.secret.md)
+### #is_/same_as :: [FileClass~CampingPitch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.secret.md)
 

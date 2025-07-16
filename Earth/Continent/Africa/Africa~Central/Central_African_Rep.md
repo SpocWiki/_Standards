@@ -70,17 +70,17 @@ Capital :: [[Bangui]]
 
 ## Confidential Links & Embeds: 
 
-### [Central_African_Rep](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep.md) 
+### #is_/same_as :: [Central_African_Rep](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep.md) 
 
-### [Central_African_Rep.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public.md) 
+### #is_/same_as :: [Central_African_Rep.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public.md) 
 
-### [Central_African_Rep.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal.md) 
+### #is_/same_as :: [Central_African_Rep.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal.md) 
 
-### [Central_African_Rep.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep.protect.md) 
+### #is_/same_as :: [Central_African_Rep.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep.protect.md) 
 
-### [Central_African_Rep.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep.private.md) 
+### #is_/same_as :: [Central_African_Rep.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep.private.md) 
 
-### [Central_African_Rep.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal.md) 
+### #is_/same_as :: [Central_African_Rep.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal.md) 
 
-### [Central_African_Rep.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret.md)
+### #is_/same_as :: [Central_African_Rep.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret.md)
 

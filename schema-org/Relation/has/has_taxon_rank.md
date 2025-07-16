@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_taxon_rank](/_Standards/schema-org/Relation/has/has_taxon_rank.md) 
+### #is_/same_as :: [has_taxon_rank](/_Standards/schema-org/Relation/has/has_taxon_rank.md) 
 
-### [has_taxon_rank.public](/_public/schema-org/Relation/has/has_taxon_rank.public.md) 
+### #is_/same_as :: [has_taxon_rank.public](/_public/schema-org/Relation/has/has_taxon_rank.public.md) 
 
-### [has_taxon_rank.internal](/_internal/schema-org/Relation/has/has_taxon_rank.internal.md) 
+### #is_/same_as :: [has_taxon_rank.internal](/_internal/schema-org/Relation/has/has_taxon_rank.internal.md) 
 
-### [has_taxon_rank.protect](/_protect/schema-org/Relation/has/has_taxon_rank.protect.md) 
+### #is_/same_as :: [has_taxon_rank.protect](/_protect/schema-org/Relation/has/has_taxon_rank.protect.md) 
 
-### [has_taxon_rank.private](/_private/schema-org/Relation/has/has_taxon_rank.private.md) 
+### #is_/same_as :: [has_taxon_rank.private](/_private/schema-org/Relation/has/has_taxon_rank.private.md) 
 
-### [has_taxon_rank.personal](/_personal/schema-org/Relation/has/has_taxon_rank.personal.md) 
+### #is_/same_as :: [has_taxon_rank.personal](/_personal/schema-org/Relation/has/has_taxon_rank.personal.md) 
 
-### [has_taxon_rank.secret](/_secret/schema-org/Relation/has/has_taxon_rank.secret.md)
+### #is_/same_as :: [has_taxon_rank.secret](/_secret/schema-org/Relation/has/has_taxon_rank.secret.md)
 

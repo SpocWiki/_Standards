@@ -59,17 +59,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [HTML](/_Standards/HTML.md) 
+### #is_/same_as :: [HTML](/_Standards/HTML.md) 
 
-### [HTML.public](/_public/HTML.public.md) 
+### #is_/same_as :: [HTML.public](/_public/HTML.public.md) 
 
-### [HTML.internal](/_internal/HTML.internal.md) 
+### #is_/same_as :: [HTML.internal](/_internal/HTML.internal.md) 
 
-### [HTML.protect](/_protect/HTML.protect.md) 
+### #is_/same_as :: [HTML.protect](/_protect/HTML.protect.md) 
 
-### [HTML.private](/_private/HTML.private.md) 
+### #is_/same_as :: [HTML.private](/_private/HTML.private.md) 
 
-### [HTML.personal](/_personal/HTML.personal.md) 
+### #is_/same_as :: [HTML.personal](/_personal/HTML.personal.md) 
 
-### [HTML.secret](/_secret/HTML.secret.md)
+### #is_/same_as :: [HTML.secret](/_secret/HTML.secret.md)
 

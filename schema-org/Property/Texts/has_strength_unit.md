@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_strength_unit](/_Standards/schema-org/Property/Texts/has_strength_unit.md) 
+### #is_/same_as :: [has_strength_unit](/_Standards/schema-org/Property/Texts/has_strength_unit.md) 
 
-### [has_strength_unit.public](/_public/schema-org/Property/Texts/has_strength_unit.public.md) 
+### #is_/same_as :: [has_strength_unit.public](/_public/schema-org/Property/Texts/has_strength_unit.public.md) 
 
-### [has_strength_unit.internal](/_internal/schema-org/Property/Texts/has_strength_unit.internal.md) 
+### #is_/same_as :: [has_strength_unit.internal](/_internal/schema-org/Property/Texts/has_strength_unit.internal.md) 
 
-### [has_strength_unit.protect](/_protect/schema-org/Property/Texts/has_strength_unit.protect.md) 
+### #is_/same_as :: [has_strength_unit.protect](/_protect/schema-org/Property/Texts/has_strength_unit.protect.md) 
 
-### [has_strength_unit.private](/_private/schema-org/Property/Texts/has_strength_unit.private.md) 
+### #is_/same_as :: [has_strength_unit.private](/_private/schema-org/Property/Texts/has_strength_unit.private.md) 
 
-### [has_strength_unit.personal](/_personal/schema-org/Property/Texts/has_strength_unit.personal.md) 
+### #is_/same_as :: [has_strength_unit.personal](/_personal/schema-org/Property/Texts/has_strength_unit.personal.md) 
 
-### [has_strength_unit.secret](/_secret/schema-org/Property/Texts/has_strength_unit.secret.md)
+### #is_/same_as :: [has_strength_unit.secret](/_secret/schema-org/Property/Texts/has_strength_unit.secret.md)
 

@@ -90,17 +90,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Stone-Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.md) 
+### #is_/same_as :: [Stone-Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.md) 
 
-### [Stone-Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.public.md) 
+### #is_/same_as :: [Stone-Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.public.md) 
 
-### [Stone-Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.internal.md) 
+### #is_/same_as :: [Stone-Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.internal.md) 
 
-### [Stone-Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.protect.md) 
+### #is_/same_as :: [Stone-Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.protect.md) 
 
-### [Stone-Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.private.md) 
+### #is_/same_as :: [Stone-Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.private.md) 
 
-### [Stone-Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.personal.md) 
+### #is_/same_as :: [Stone-Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.personal.md) 
 
-### [Stone-Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.secret.md)
+### #is_/same_as :: [Stone-Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Stone-Age.secret.md)
 

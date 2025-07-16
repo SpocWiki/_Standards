@@ -47,17 +47,17 @@ Neck assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [neck](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.md) 
+### #is_/same_as :: [neck](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.md) 
 
-### [neck.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.public.md) 
+### #is_/same_as :: [neck.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.public.md) 
 
-### [neck.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.internal.md) 
+### #is_/same_as :: [neck.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.internal.md) 
 
-### [neck.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.protect.md) 
+### #is_/same_as :: [neck.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.protect.md) 
 
-### [neck.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.private.md) 
+### #is_/same_as :: [neck.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.private.md) 
 
-### [neck.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.personal.md) 
+### #is_/same_as :: [neck.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.personal.md) 
 
-### [neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.secret.md)
+### #is_/same_as :: [neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.secret.md)
 

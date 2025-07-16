@@ -47,17 +47,17 @@ A specific branch of medical science that is concerned with poisons, their natur
 
 ## Confidential Links & Embeds: 
 
-### [toxicologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.md) 
+### #is_/same_as :: [toxicologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.md) 
 
-### [toxicologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.public.md) 
+### #is_/same_as :: [toxicologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.public.md) 
 
-### [toxicologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.internal.md) 
+### #is_/same_as :: [toxicologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.internal.md) 
 
-### [toxicologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.protect.md) 
+### #is_/same_as :: [toxicologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.protect.md) 
 
-### [toxicologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.private.md) 
+### #is_/same_as :: [toxicologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.private.md) 
 
-### [toxicologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.personal.md) 
+### #is_/same_as :: [toxicologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.personal.md) 
 
-### [toxicologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.secret.md)
+### #is_/same_as :: [toxicologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.secret.md)
 

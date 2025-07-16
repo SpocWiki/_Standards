@@ -76,21 +76,19 @@ Krugosvet_article: gumanitarnye_nauki/sociologiya/SAMOUBISTVO_SUITSID.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Suicide)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Suicide](/_Standards/bio/Metabolism/Death/Suicide.md) 
+### #is_/same_as :: [Suicide](/_Standards/bio/Metabolism/Death/Suicide.md) 
 
-### [Suicide.public](/_public/bio/Metabolism/Death/Suicide.public.md) 
+### #is_/same_as :: [Suicide.public](/_public/bio/Metabolism/Death/Suicide.public.md) 
 
-### [Suicide.internal](/_internal/bio/Metabolism/Death/Suicide.internal.md) 
+### #is_/same_as :: [Suicide.internal](/_internal/bio/Metabolism/Death/Suicide.internal.md) 
 
-### [Suicide.protect](/_protect/bio/Metabolism/Death/Suicide.protect.md) 
+### #is_/same_as :: [Suicide.protect](/_protect/bio/Metabolism/Death/Suicide.protect.md) 
 
-### [Suicide.private](/_private/bio/Metabolism/Death/Suicide.private.md) 
+### #is_/same_as :: [Suicide.private](/_private/bio/Metabolism/Death/Suicide.private.md) 
 
-### [Suicide.personal](/_personal/bio/Metabolism/Death/Suicide.personal.md) 
+### #is_/same_as :: [Suicide.personal](/_personal/bio/Metabolism/Death/Suicide.personal.md) 
 
-### [Suicide.secret](/_secret/bio/Metabolism/Death/Suicide.secret.md)
+### #is_/same_as :: [Suicide.secret](/_secret/bio/Metabolism/Death/Suicide.secret.md)
 

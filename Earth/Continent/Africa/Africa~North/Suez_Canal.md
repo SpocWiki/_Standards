@@ -72,22 +72,19 @@ Commons_gallery: "Suez Canal"
 > [Wikipedia](https://en.wikipedia.org/wiki/Suez%20Canal) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Suez_Canal](/_Standards/Earth/Continent/Africa/Africa~North/Suez_Canal.md) 
+### #is_/same_as :: [Suez_Canal](/_Standards/Earth/Continent/Africa/Africa~North/Suez_Canal.md) 
 
-### [Suez_Canal.public](/_public/Earth/Continent/Africa/Africa~North/Suez_Canal.public.md) 
+### #is_/same_as :: [Suez_Canal.public](/_public/Earth/Continent/Africa/Africa~North/Suez_Canal.public.md) 
 
-### [Suez_Canal.internal](/_internal/Earth/Continent/Africa/Africa~North/Suez_Canal.internal.md) 
+### #is_/same_as :: [Suez_Canal.internal](/_internal/Earth/Continent/Africa/Africa~North/Suez_Canal.internal.md) 
 
-### [Suez_Canal.protect](/_protect/Earth/Continent/Africa/Africa~North/Suez_Canal.protect.md) 
+### #is_/same_as :: [Suez_Canal.protect](/_protect/Earth/Continent/Africa/Africa~North/Suez_Canal.protect.md) 
 
-### [Suez_Canal.private](/_private/Earth/Continent/Africa/Africa~North/Suez_Canal.private.md) 
+### #is_/same_as :: [Suez_Canal.private](/_private/Earth/Continent/Africa/Africa~North/Suez_Canal.private.md) 
 
-### [Suez_Canal.personal](/_personal/Earth/Continent/Africa/Africa~North/Suez_Canal.personal.md) 
+### #is_/same_as :: [Suez_Canal.personal](/_personal/Earth/Continent/Africa/Africa~North/Suez_Canal.personal.md) 
 
-### [Suez_Canal.secret](/_secret/Earth/Continent/Africa/Africa~North/Suez_Canal.secret.md)
+### #is_/same_as :: [Suez_Canal.secret](/_secret/Earth/Continent/Africa/Africa~North/Suez_Canal.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_accessibility_api](/_Standards/schema-org/Property/Texts/has_accessibility_api.md) 
+### #is_/same_as :: [has_accessibility_api](/_Standards/schema-org/Property/Texts/has_accessibility_api.md) 
 
-### [has_accessibility_api.public](/_public/schema-org/Property/Texts/has_accessibility_api.public.md) 
+### #is_/same_as :: [has_accessibility_api.public](/_public/schema-org/Property/Texts/has_accessibility_api.public.md) 
 
-### [has_accessibility_api.internal](/_internal/schema-org/Property/Texts/has_accessibility_api.internal.md) 
+### #is_/same_as :: [has_accessibility_api.internal](/_internal/schema-org/Property/Texts/has_accessibility_api.internal.md) 
 
-### [has_accessibility_api.protect](/_protect/schema-org/Property/Texts/has_accessibility_api.protect.md) 
+### #is_/same_as :: [has_accessibility_api.protect](/_protect/schema-org/Property/Texts/has_accessibility_api.protect.md) 
 
-### [has_accessibility_api.private](/_private/schema-org/Property/Texts/has_accessibility_api.private.md) 
+### #is_/same_as :: [has_accessibility_api.private](/_private/schema-org/Property/Texts/has_accessibility_api.private.md) 
 
-### [has_accessibility_api.personal](/_personal/schema-org/Property/Texts/has_accessibility_api.personal.md) 
+### #is_/same_as :: [has_accessibility_api.personal](/_personal/schema-org/Property/Texts/has_accessibility_api.personal.md) 
 
-### [has_accessibility_api.secret](/_secret/schema-org/Property/Texts/has_accessibility_api.secret.md)
+### #is_/same_as :: [has_accessibility_api.secret](/_secret/schema-org/Property/Texts/has_accessibility_api.secret.md)
 

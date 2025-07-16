@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_ticker_symbol](/_Standards/schema-org/Property/has_name/has_ticker_symbol.md) 
+### #is_/same_as :: [has_ticker_symbol](/_Standards/schema-org/Property/has_name/has_ticker_symbol.md) 
 
-### [has_ticker_symbol.public](/_public/schema-org/Property/has_name/has_ticker_symbol.public.md) 
+### #is_/same_as :: [has_ticker_symbol.public](/_public/schema-org/Property/has_name/has_ticker_symbol.public.md) 
 
-### [has_ticker_symbol.internal](/_internal/schema-org/Property/has_name/has_ticker_symbol.internal.md) 
+### #is_/same_as :: [has_ticker_symbol.internal](/_internal/schema-org/Property/has_name/has_ticker_symbol.internal.md) 
 
-### [has_ticker_symbol.protect](/_protect/schema-org/Property/has_name/has_ticker_symbol.protect.md) 
+### #is_/same_as :: [has_ticker_symbol.protect](/_protect/schema-org/Property/has_name/has_ticker_symbol.protect.md) 
 
-### [has_ticker_symbol.private](/_private/schema-org/Property/has_name/has_ticker_symbol.private.md) 
+### #is_/same_as :: [has_ticker_symbol.private](/_private/schema-org/Property/has_name/has_ticker_symbol.private.md) 
 
-### [has_ticker_symbol.personal](/_personal/schema-org/Property/has_name/has_ticker_symbol.personal.md) 
+### #is_/same_as :: [has_ticker_symbol.personal](/_personal/schema-org/Property/has_name/has_ticker_symbol.personal.md) 
 
-### [has_ticker_symbol.secret](/_secret/schema-org/Property/has_name/has_ticker_symbol.secret.md)
+### #is_/same_as :: [has_ticker_symbol.secret](/_secret/schema-org/Property/has_name/has_ticker_symbol.secret.md)
 

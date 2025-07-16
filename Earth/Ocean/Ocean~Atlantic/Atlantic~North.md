@@ -34,17 +34,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Atlantic~North](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North.md) 
+### #is_/same_as :: [Atlantic~North](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North.md) 
 
-### [Atlantic~North.public](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North.public.md) 
+### #is_/same_as :: [Atlantic~North.public](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North.public.md) 
 
-### [Atlantic~North.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North.internal.md) 
+### #is_/same_as :: [Atlantic~North.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North.internal.md) 
 
-### [Atlantic~North.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North.protect.md) 
+### #is_/same_as :: [Atlantic~North.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North.protect.md) 
 
-### [Atlantic~North.private](/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North.private.md) 
+### #is_/same_as :: [Atlantic~North.private](/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North.private.md) 
 
-### [Atlantic~North.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North.personal.md) 
+### #is_/same_as :: [Atlantic~North.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North.personal.md) 
 
-### [Atlantic~North.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North.secret.md)
+### #is_/same_as :: [Atlantic~North.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North.secret.md)
 

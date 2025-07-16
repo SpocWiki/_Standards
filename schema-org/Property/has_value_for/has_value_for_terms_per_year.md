@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_terms_per_year](/_Standards/schema-org/Property/has_value_for/has_value_for_terms_per_year.md) 
+### #is_/same_as :: [has_value_for_terms_per_year](/_Standards/schema-org/Property/has_value_for/has_value_for_terms_per_year.md) 
 
-### [has_value_for_terms_per_year.public](/_public/schema-org/Property/has_value_for/has_value_for_terms_per_year.public.md) 
+### #is_/same_as :: [has_value_for_terms_per_year.public](/_public/schema-org/Property/has_value_for/has_value_for_terms_per_year.public.md) 
 
-### [has_value_for_terms_per_year.internal](/_internal/schema-org/Property/has_value_for/has_value_for_terms_per_year.internal.md) 
+### #is_/same_as :: [has_value_for_terms_per_year.internal](/_internal/schema-org/Property/has_value_for/has_value_for_terms_per_year.internal.md) 
 
-### [has_value_for_terms_per_year.protect](/_protect/schema-org/Property/has_value_for/has_value_for_terms_per_year.protect.md) 
+### #is_/same_as :: [has_value_for_terms_per_year.protect](/_protect/schema-org/Property/has_value_for/has_value_for_terms_per_year.protect.md) 
 
-### [has_value_for_terms_per_year.private](/_private/schema-org/Property/has_value_for/has_value_for_terms_per_year.private.md) 
+### #is_/same_as :: [has_value_for_terms_per_year.private](/_private/schema-org/Property/has_value_for/has_value_for_terms_per_year.private.md) 
 
-### [has_value_for_terms_per_year.personal](/_personal/schema-org/Property/has_value_for/has_value_for_terms_per_year.personal.md) 
+### #is_/same_as :: [has_value_for_terms_per_year.personal](/_personal/schema-org/Property/has_value_for/has_value_for_terms_per_year.personal.md) 
 
-### [has_value_for_terms_per_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_terms_per_year.secret.md)
+### #is_/same_as :: [has_value_for_terms_per_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_terms_per_year.secret.md)
 

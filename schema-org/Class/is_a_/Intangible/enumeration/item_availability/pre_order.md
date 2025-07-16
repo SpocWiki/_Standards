@@ -47,17 +47,17 @@ Indicates that the item is available for pre-order.
 
 ## Confidential Links & Embeds: 
 
-### [pre_order](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.md) 
+### #is_/same_as :: [pre_order](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.md) 
 
-### [pre_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.public.md) 
+### #is_/same_as :: [pre_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.public.md) 
 
-### [pre_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.internal.md) 
+### #is_/same_as :: [pre_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.internal.md) 
 
-### [pre_order.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.protect.md) 
+### #is_/same_as :: [pre_order.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.protect.md) 
 
-### [pre_order.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.private.md) 
+### #is_/same_as :: [pre_order.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.private.md) 
 
-### [pre_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.personal.md) 
+### #is_/same_as :: [pre_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.personal.md) 
 
-### [pre_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.secret.md)
+### #is_/same_as :: [pre_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.secret.md)
 

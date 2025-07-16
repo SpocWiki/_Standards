@@ -45,17 +45,17 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 
 ## Confidential Links & Embeds: 
 
-### [diet](/_Standards/schema-org/Class/is_a_/creative_work/diet.md) 
+### #is_/same_as :: [diet](/_Standards/schema-org/Class/is_a_/creative_work/diet.md) 
 
-### [diet.public](/_public/schema-org/Class/is_a_/creative_work/diet.public.md) 
+### #is_/same_as :: [diet.public](/_public/schema-org/Class/is_a_/creative_work/diet.public.md) 
 
-### [diet.internal](/_internal/schema-org/Class/is_a_/creative_work/diet.internal.md) 
+### #is_/same_as :: [diet.internal](/_internal/schema-org/Class/is_a_/creative_work/diet.internal.md) 
 
-### [diet.protect](/_protect/schema-org/Class/is_a_/creative_work/diet.protect.md) 
+### #is_/same_as :: [diet.protect](/_protect/schema-org/Class/is_a_/creative_work/diet.protect.md) 
 
-### [diet.private](/_private/schema-org/Class/is_a_/creative_work/diet.private.md) 
+### #is_/same_as :: [diet.private](/_private/schema-org/Class/is_a_/creative_work/diet.private.md) 
 
-### [diet.personal](/_personal/schema-org/Class/is_a_/creative_work/diet.personal.md) 
+### #is_/same_as :: [diet.personal](/_personal/schema-org/Class/is_a_/creative_work/diet.personal.md) 
 
-### [diet.secret](/_secret/schema-org/Class/is_a_/creative_work/diet.secret.md)
+### #is_/same_as :: [diet.secret](/_secret/schema-org/Class/is_a_/creative_work/diet.secret.md)
 

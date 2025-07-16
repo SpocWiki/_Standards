@@ -49,17 +49,17 @@ German size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_system_de](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.md) 
+### #is_/same_as :: [wearable_size_system_de](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.md) 
 
-### [wearable_size_system_de.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.public.md) 
+### #is_/same_as :: [wearable_size_system_de.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.public.md) 
 
-### [wearable_size_system_de.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.internal.md) 
+### #is_/same_as :: [wearable_size_system_de.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.internal.md) 
 
-### [wearable_size_system_de.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.protect.md) 
+### #is_/same_as :: [wearable_size_system_de.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.protect.md) 
 
-### [wearable_size_system_de.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.private.md) 
+### #is_/same_as :: [wearable_size_system_de.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.private.md) 
 
-### [wearable_size_system_de.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.personal.md) 
+### #is_/same_as :: [wearable_size_system_de.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.personal.md) 
 
-### [wearable_size_system_de.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.secret.md)
+### #is_/same_as :: [wearable_size_system_de.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.secret.md)
 

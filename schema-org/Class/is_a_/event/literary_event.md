@@ -45,17 +45,17 @@ Event type: Literary event.
 
 ## Confidential Links & Embeds: 
 
-### [literary_event](/_Standards/schema-org/Class/is_a_/event/literary_event.md) 
+### #is_/same_as :: [literary_event](/_Standards/schema-org/Class/is_a_/event/literary_event.md) 
 
-### [literary_event.public](/_public/schema-org/Class/is_a_/event/literary_event.public.md) 
+### #is_/same_as :: [literary_event.public](/_public/schema-org/Class/is_a_/event/literary_event.public.md) 
 
-### [literary_event.internal](/_internal/schema-org/Class/is_a_/event/literary_event.internal.md) 
+### #is_/same_as :: [literary_event.internal](/_internal/schema-org/Class/is_a_/event/literary_event.internal.md) 
 
-### [literary_event.protect](/_protect/schema-org/Class/is_a_/event/literary_event.protect.md) 
+### #is_/same_as :: [literary_event.protect](/_protect/schema-org/Class/is_a_/event/literary_event.protect.md) 
 
-### [literary_event.private](/_private/schema-org/Class/is_a_/event/literary_event.private.md) 
+### #is_/same_as :: [literary_event.private](/_private/schema-org/Class/is_a_/event/literary_event.private.md) 
 
-### [literary_event.personal](/_personal/schema-org/Class/is_a_/event/literary_event.personal.md) 
+### #is_/same_as :: [literary_event.personal](/_personal/schema-org/Class/is_a_/event/literary_event.personal.md) 
 
-### [literary_event.secret](/_secret/schema-org/Class/is_a_/event/literary_event.secret.md)
+### #is_/same_as :: [literary_event.secret](/_secret/schema-org/Class/is_a_/event/literary_event.secret.md)
 

@@ -472,17 +472,17 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 
 ## Confidential Links & Embeds: 
 
-### [Agaricales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.md) 
+### #is_/same_as :: [Agaricales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.md) 
 
-### [Agaricales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.public.md) 
+### #is_/same_as :: [Agaricales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.public.md) 
 
-### [Agaricales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.internal.md) 
+### #is_/same_as :: [Agaricales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.internal.md) 
 
-### [Agaricales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.protect.md) 
+### #is_/same_as :: [Agaricales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.protect.md) 
 
-### [Agaricales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.private.md) 
+### #is_/same_as :: [Agaricales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.private.md) 
 
-### [Agaricales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.personal.md) 
+### #is_/same_as :: [Agaricales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.personal.md) 
 
-### [Agaricales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.secret.md)
+### #is_/same_as :: [Agaricales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.secret.md)
 

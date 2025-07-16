@@ -73,17 +73,17 @@ Tag Term-Classes like this:
 
 ## Confidential Links & Embeds: 
 
-### [defined_term](/_Standards/schema-org/Class/is_a_/Intangible/defined_term.md) 
+### #is_/same_as :: [defined_term](/_Standards/schema-org/Class/is_a_/Intangible/defined_term.md) 
 
-### [defined_term.public](/_public/schema-org/Class/is_a_/Intangible/defined_term.public.md) 
+### #is_/same_as :: [defined_term.public](/_public/schema-org/Class/is_a_/Intangible/defined_term.public.md) 
 
-### [defined_term.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term.internal.md) 
+### #is_/same_as :: [defined_term.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term.internal.md) 
 
-### [defined_term.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term.protect.md) 
+### #is_/same_as :: [defined_term.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term.protect.md) 
 
-### [defined_term.private](/_private/schema-org/Class/is_a_/Intangible/defined_term.private.md) 
+### #is_/same_as :: [defined_term.private](/_private/schema-org/Class/is_a_/Intangible/defined_term.private.md) 
 
-### [defined_term.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term.personal.md) 
+### #is_/same_as :: [defined_term.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term.personal.md) 
 
-### [defined_term.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term.secret.md)
+### #is_/same_as :: [defined_term.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term.secret.md)
 

@@ -109,17 +109,17 @@ Unicode_character: 鐒
 
 ## Confidential Links & Embeds: 
 
-### [Lawrencium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.md) 
+### #is_/same_as :: [Lawrencium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.md) 
 
-### [Lawrencium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.public.md) 
+### #is_/same_as :: [Lawrencium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.public.md) 
 
-### [Lawrencium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.internal.md) 
+### #is_/same_as :: [Lawrencium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.internal.md) 
 
-### [Lawrencium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.protect.md) 
+### #is_/same_as :: [Lawrencium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.protect.md) 
 
-### [Lawrencium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.private.md) 
+### #is_/same_as :: [Lawrencium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.private.md) 
 
-### [Lawrencium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.personal.md) 
+### #is_/same_as :: [Lawrencium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.personal.md) 
 
-### [Lawrencium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.secret.md)
+### #is_/same_as :: [Lawrencium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.secret.md)
 

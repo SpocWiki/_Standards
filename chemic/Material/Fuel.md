@@ -53,17 +53,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TOPLIVO.html
 
 ## Confidential Links & Embeds: 
 
-### [Fuel](/_Standards/chemic/Material/Fuel.md) 
+### #is_/same_as :: [Fuel](/_Standards/chemic/Material/Fuel.md) 
 
-### [Fuel.public](/_public/chemic/Material/Fuel.public.md) 
+### #is_/same_as :: [Fuel.public](/_public/chemic/Material/Fuel.public.md) 
 
-### [Fuel.internal](/_internal/chemic/Material/Fuel.internal.md) 
+### #is_/same_as :: [Fuel.internal](/_internal/chemic/Material/Fuel.internal.md) 
 
-### [Fuel.protect](/_protect/chemic/Material/Fuel.protect.md) 
+### #is_/same_as :: [Fuel.protect](/_protect/chemic/Material/Fuel.protect.md) 
 
-### [Fuel.private](/_private/chemic/Material/Fuel.private.md) 
+### #is_/same_as :: [Fuel.private](/_private/chemic/Material/Fuel.private.md) 
 
-### [Fuel.personal](/_personal/chemic/Material/Fuel.personal.md) 
+### #is_/same_as :: [Fuel.personal](/_personal/chemic/Material/Fuel.personal.md) 
 
-### [Fuel.secret](/_secret/chemic/Material/Fuel.secret.md)
+### #is_/same_as :: [Fuel.secret](/_secret/chemic/Material/Fuel.secret.md)
 

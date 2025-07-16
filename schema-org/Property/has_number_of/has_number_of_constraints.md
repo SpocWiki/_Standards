@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_constraints](/_Standards/schema-org/Property/has_number_of/has_number_of_constraints.md) 
+### #is_/same_as :: [has_number_of_constraints](/_Standards/schema-org/Property/has_number_of/has_number_of_constraints.md) 
 
-### [has_number_of_constraints.public](/_public/schema-org/Property/has_number_of/has_number_of_constraints.public.md) 
+### #is_/same_as :: [has_number_of_constraints.public](/_public/schema-org/Property/has_number_of/has_number_of_constraints.public.md) 
 
-### [has_number_of_constraints.internal](/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal.md) 
+### #is_/same_as :: [has_number_of_constraints.internal](/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal.md) 
 
-### [has_number_of_constraints.protect](/_protect/schema-org/Property/has_number_of/has_number_of_constraints.protect.md) 
+### #is_/same_as :: [has_number_of_constraints.protect](/_protect/schema-org/Property/has_number_of/has_number_of_constraints.protect.md) 
 
-### [has_number_of_constraints.private](/_private/schema-org/Property/has_number_of/has_number_of_constraints.private.md) 
+### #is_/same_as :: [has_number_of_constraints.private](/_private/schema-org/Property/has_number_of/has_number_of_constraints.private.md) 
 
-### [has_number_of_constraints.personal](/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal.md) 
+### #is_/same_as :: [has_number_of_constraints.personal](/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal.md) 
 
-### [has_number_of_constraints.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret.md)
+### #is_/same_as :: [has_number_of_constraints.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret.md)
 

@@ -16,17 +16,17 @@ has_id_wikidata: Q11023
 
 ## Confidential Links & Embeds: 
 
-### [Engineering](/_Standards/Technology/Engineering.md) 
+### #is_/same_as :: [Engineering](/_Standards/Technology/Engineering.md) 
 
-### [Engineering.public](/_public/Technology/Engineering.public.md) 
+### #is_/same_as :: [Engineering.public](/_public/Technology/Engineering.public.md) 
 
-### [Engineering.internal](/_internal/Technology/Engineering.internal.md) 
+### #is_/same_as :: [Engineering.internal](/_internal/Technology/Engineering.internal.md) 
 
-### [Engineering.protect](/_protect/Technology/Engineering.protect.md) 
+### #is_/same_as :: [Engineering.protect](/_protect/Technology/Engineering.protect.md) 
 
-### [Engineering.private](/_private/Technology/Engineering.private.md) 
+### #is_/same_as :: [Engineering.private](/_private/Technology/Engineering.private.md) 
 
-### [Engineering.personal](/_personal/Technology/Engineering.personal.md) 
+### #is_/same_as :: [Engineering.personal](/_personal/Technology/Engineering.personal.md) 
 
-### [Engineering.secret](/_secret/Technology/Engineering.secret.md)
+### #is_/same_as :: [Engineering.secret](/_secret/Technology/Engineering.secret.md)
 

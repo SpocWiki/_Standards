@@ -101,21 +101,19 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/MarcoPo
 > [Wikipedia](https://en.wikipedia.org/wiki/Marco%20Polo)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Marco_Polo](/_Standards/bio/People/Explorers/Age_of_Discovery/Marco_Polo.md) 
+### #is_/same_as :: [Marco_Polo](/_Standards/bio/People/Explorers/Age_of_Discovery/Marco_Polo.md) 
 
-### [Marco_Polo.public](/_public/bio/People/Explorers/Age_of_Discovery/Marco_Polo.public.md) 
+### #is_/same_as :: [Marco_Polo.public](/_public/bio/People/Explorers/Age_of_Discovery/Marco_Polo.public.md) 
 
-### [Marco_Polo.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Marco_Polo.internal.md) 
+### #is_/same_as :: [Marco_Polo.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Marco_Polo.internal.md) 
 
-### [Marco_Polo.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Marco_Polo.protect.md) 
+### #is_/same_as :: [Marco_Polo.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Marco_Polo.protect.md) 
 
-### [Marco_Polo.private](/_private/bio/People/Explorers/Age_of_Discovery/Marco_Polo.private.md) 
+### #is_/same_as :: [Marco_Polo.private](/_private/bio/People/Explorers/Age_of_Discovery/Marco_Polo.private.md) 
 
-### [Marco_Polo.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Marco_Polo.personal.md) 
+### #is_/same_as :: [Marco_Polo.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Marco_Polo.personal.md) 
 
-### [Marco_Polo.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Marco_Polo.secret.md)
+### #is_/same_as :: [Marco_Polo.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Marco_Polo.secret.md)
 

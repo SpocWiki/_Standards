@@ -103,17 +103,17 @@ Unicode_character: 氙
 
 ## Confidential Links & Embeds: 
 
-### [Xenon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.md) 
+### #is_/same_as :: [Xenon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.md) 
 
-### [Xenon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.public.md) 
+### #is_/same_as :: [Xenon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.public.md) 
 
-### [Xenon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.internal.md) 
+### #is_/same_as :: [Xenon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.internal.md) 
 
-### [Xenon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.protect.md) 
+### #is_/same_as :: [Xenon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.protect.md) 
 
-### [Xenon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.private.md) 
+### #is_/same_as :: [Xenon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.private.md) 
 
-### [Xenon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.personal.md) 
+### #is_/same_as :: [Xenon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.personal.md) 
 
-### [Xenon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.secret.md)
+### #is_/same_as :: [Xenon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.secret.md)
 

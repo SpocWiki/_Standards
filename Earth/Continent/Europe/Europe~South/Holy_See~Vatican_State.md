@@ -39,17 +39,17 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 ## Confidential Links & Embeds: 
 
-### [Holy_See~Vatican_State](/_Standards/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.md) 
+### #is_/same_as :: [Holy_See~Vatican_State](/_Standards/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.md) 
 
-### [Holy_See~Vatican_State.public](/_public/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.public.md) 
+### #is_/same_as :: [Holy_See~Vatican_State.public](/_public/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.public.md) 
 
-### [Holy_See~Vatican_State.internal](/_internal/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.internal.md) 
+### #is_/same_as :: [Holy_See~Vatican_State.internal](/_internal/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.internal.md) 
 
-### [Holy_See~Vatican_State.protect](/_protect/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.protect.md) 
+### #is_/same_as :: [Holy_See~Vatican_State.protect](/_protect/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.protect.md) 
 
-### [Holy_See~Vatican_State.private](/_private/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.private.md) 
+### #is_/same_as :: [Holy_See~Vatican_State.private](/_private/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.private.md) 
 
-### [Holy_See~Vatican_State.personal](/_personal/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.personal.md) 
+### #is_/same_as :: [Holy_See~Vatican_State.personal](/_personal/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.personal.md) 
 
-### [Holy_See~Vatican_State.secret](/_secret/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.secret.md)
+### #is_/same_as :: [Holy_See~Vatican_State.secret](/_secret/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.secret.md)
 

@@ -47,17 +47,17 @@ A math solver which is capable of solving a subset of mathematical problems.
 
 ## Confidential Links & Embeds: 
 
-### [math_solver](/_Standards/schema-org/Class/is_a_/creative_work/math_solver.md) 
+### #is_/same_as :: [math_solver](/_Standards/schema-org/Class/is_a_/creative_work/math_solver.md) 
 
-### [math_solver.public](/_public/schema-org/Class/is_a_/creative_work/math_solver.public.md) 
+### #is_/same_as :: [math_solver.public](/_public/schema-org/Class/is_a_/creative_work/math_solver.public.md) 
 
-### [math_solver.internal](/_internal/schema-org/Class/is_a_/creative_work/math_solver.internal.md) 
+### #is_/same_as :: [math_solver.internal](/_internal/schema-org/Class/is_a_/creative_work/math_solver.internal.md) 
 
-### [math_solver.protect](/_protect/schema-org/Class/is_a_/creative_work/math_solver.protect.md) 
+### #is_/same_as :: [math_solver.protect](/_protect/schema-org/Class/is_a_/creative_work/math_solver.protect.md) 
 
-### [math_solver.private](/_private/schema-org/Class/is_a_/creative_work/math_solver.private.md) 
+### #is_/same_as :: [math_solver.private](/_private/schema-org/Class/is_a_/creative_work/math_solver.private.md) 
 
-### [math_solver.personal](/_personal/schema-org/Class/is_a_/creative_work/math_solver.personal.md) 
+### #is_/same_as :: [math_solver.personal](/_personal/schema-org/Class/is_a_/creative_work/math_solver.personal.md) 
 
-### [math_solver.secret](/_secret/schema-org/Class/is_a_/creative_work/math_solver.secret.md)
+### #is_/same_as :: [math_solver.secret](/_secret/schema-org/Class/is_a_/creative_work/math_solver.secret.md)
 

@@ -45,17 +45,17 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 
 ## Confidential Links & Embeds: 
 
-### [how_to_section](/_Standards/schema-org/Class/is_a_/creative_work/how_to_section.md) 
+### #is_/same_as :: [how_to_section](/_Standards/schema-org/Class/is_a_/creative_work/how_to_section.md) 
 
-### [how_to_section.public](/_public/schema-org/Class/is_a_/creative_work/how_to_section.public.md) 
+### #is_/same_as :: [how_to_section.public](/_public/schema-org/Class/is_a_/creative_work/how_to_section.public.md) 
 
-### [how_to_section.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_section.internal.md) 
+### #is_/same_as :: [how_to_section.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_section.internal.md) 
 
-### [how_to_section.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_section.protect.md) 
+### #is_/same_as :: [how_to_section.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_section.protect.md) 
 
-### [how_to_section.private](/_private/schema-org/Class/is_a_/creative_work/how_to_section.private.md) 
+### #is_/same_as :: [how_to_section.private](/_private/schema-org/Class/is_a_/creative_work/how_to_section.private.md) 
 
-### [how_to_section.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_section.personal.md) 
+### #is_/same_as :: [how_to_section.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_section.personal.md) 
 
-### [how_to_section.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_section.secret.md)
+### #is_/same_as :: [how_to_section.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_section.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_print_edition](/_Standards/schema-org/Property/Texts/has_print_edition.md) 
+### #is_/same_as :: [has_print_edition](/_Standards/schema-org/Property/Texts/has_print_edition.md) 
 
-### [has_print_edition.public](/_public/schema-org/Property/Texts/has_print_edition.public.md) 
+### #is_/same_as :: [has_print_edition.public](/_public/schema-org/Property/Texts/has_print_edition.public.md) 
 
-### [has_print_edition.internal](/_internal/schema-org/Property/Texts/has_print_edition.internal.md) 
+### #is_/same_as :: [has_print_edition.internal](/_internal/schema-org/Property/Texts/has_print_edition.internal.md) 
 
-### [has_print_edition.protect](/_protect/schema-org/Property/Texts/has_print_edition.protect.md) 
+### #is_/same_as :: [has_print_edition.protect](/_protect/schema-org/Property/Texts/has_print_edition.protect.md) 
 
-### [has_print_edition.private](/_private/schema-org/Property/Texts/has_print_edition.private.md) 
+### #is_/same_as :: [has_print_edition.private](/_private/schema-org/Property/Texts/has_print_edition.private.md) 
 
-### [has_print_edition.personal](/_personal/schema-org/Property/Texts/has_print_edition.personal.md) 
+### #is_/same_as :: [has_print_edition.personal](/_personal/schema-org/Property/Texts/has_print_edition.personal.md) 
 
-### [has_print_edition.secret](/_secret/schema-org/Property/Texts/has_print_edition.secret.md)
+### #is_/same_as :: [has_print_edition.secret](/_secret/schema-org/Property/Texts/has_print_edition.secret.md)
 

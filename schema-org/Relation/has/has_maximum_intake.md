@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_maximum_intake](/_Standards/schema-org/Relation/has/has_maximum_intake.md) 
+### #is_/same_as :: [has_maximum_intake](/_Standards/schema-org/Relation/has/has_maximum_intake.md) 
 
-### [has_maximum_intake.public](/_public/schema-org/Relation/has/has_maximum_intake.public.md) 
+### #is_/same_as :: [has_maximum_intake.public](/_public/schema-org/Relation/has/has_maximum_intake.public.md) 
 
-### [has_maximum_intake.internal](/_internal/schema-org/Relation/has/has_maximum_intake.internal.md) 
+### #is_/same_as :: [has_maximum_intake.internal](/_internal/schema-org/Relation/has/has_maximum_intake.internal.md) 
 
-### [has_maximum_intake.protect](/_protect/schema-org/Relation/has/has_maximum_intake.protect.md) 
+### #is_/same_as :: [has_maximum_intake.protect](/_protect/schema-org/Relation/has/has_maximum_intake.protect.md) 
 
-### [has_maximum_intake.private](/_private/schema-org/Relation/has/has_maximum_intake.private.md) 
+### #is_/same_as :: [has_maximum_intake.private](/_private/schema-org/Relation/has/has_maximum_intake.private.md) 
 
-### [has_maximum_intake.personal](/_personal/schema-org/Relation/has/has_maximum_intake.personal.md) 
+### #is_/same_as :: [has_maximum_intake.personal](/_personal/schema-org/Relation/has/has_maximum_intake.personal.md) 
 
-### [has_maximum_intake.secret](/_secret/schema-org/Relation/has/has_maximum_intake.secret.md)
+### #is_/same_as :: [has_maximum_intake.secret](/_secret/schema-org/Relation/has/has_maximum_intake.secret.md)
 

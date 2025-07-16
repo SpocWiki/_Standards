@@ -294,17 +294,17 @@ has_place_destroyed:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Thing](/_Standards/fileClass/FileClass~Thing.md) 
+### #is_/same_as :: [FileClass~Thing](/_Standards/fileClass/FileClass~Thing.md) 
 
-### [FileClass~Thing.public](/_public/fileClass/FileClass~Thing.public.md) 
+### #is_/same_as :: [FileClass~Thing.public](/_public/fileClass/FileClass~Thing.public.md) 
 
-### [FileClass~Thing.internal](/_internal/fileClass/FileClass~Thing.internal.md) 
+### #is_/same_as :: [FileClass~Thing.internal](/_internal/fileClass/FileClass~Thing.internal.md) 
 
-### [FileClass~Thing.protect](/_protect/fileClass/FileClass~Thing.protect.md) 
+### #is_/same_as :: [FileClass~Thing.protect](/_protect/fileClass/FileClass~Thing.protect.md) 
 
-### [FileClass~Thing.private](/_private/fileClass/FileClass~Thing.private.md) 
+### #is_/same_as :: [FileClass~Thing.private](/_private/fileClass/FileClass~Thing.private.md) 
 
-### [FileClass~Thing.personal](/_personal/fileClass/FileClass~Thing.personal.md) 
+### #is_/same_as :: [FileClass~Thing.personal](/_personal/fileClass/FileClass~Thing.personal.md) 
 
-### [FileClass~Thing.secret](/_secret/fileClass/FileClass~Thing.secret.md)
+### #is_/same_as :: [FileClass~Thing.secret](/_secret/fileClass/FileClass~Thing.secret.md)
 

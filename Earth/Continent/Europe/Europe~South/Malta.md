@@ -444,17 +444,17 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 
 ## Confidential Links & Embeds: 
 
-### [Malta](/_Standards/Earth/Continent/Europe/Europe~South/Malta.md) 
+### #is_/same_as :: [Malta](/_Standards/Earth/Continent/Europe/Europe~South/Malta.md) 
 
-### [Malta.public](/_public/Earth/Continent/Europe/Europe~South/Malta.public.md) 
+### #is_/same_as :: [Malta.public](/_public/Earth/Continent/Europe/Europe~South/Malta.public.md) 
 
-### [Malta.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta.internal.md) 
+### #is_/same_as :: [Malta.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta.internal.md) 
 
-### [Malta.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta.protect.md) 
+### #is_/same_as :: [Malta.protect](/_protect/Earth/Continent/Europe/Europe~South/Malta.protect.md) 
 
-### [Malta.private](/_private/Earth/Continent/Europe/Europe~South/Malta.private.md) 
+### #is_/same_as :: [Malta.private](/_private/Earth/Continent/Europe/Europe~South/Malta.private.md) 
 
-### [Malta.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta.personal.md) 
+### #is_/same_as :: [Malta.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta.personal.md) 
 
-### [Malta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta.secret.md)
+### #is_/same_as :: [Malta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta.secret.md)
 

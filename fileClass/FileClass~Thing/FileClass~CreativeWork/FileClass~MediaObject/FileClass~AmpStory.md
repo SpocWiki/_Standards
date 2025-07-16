@@ -35,17 +35,17 @@ A creative work with a visual storytelling format intended to be viewed online, 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AmpStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.md) 
+### #is_/same_as :: [FileClass~AmpStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.md) 
 
-### [FileClass~AmpStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.public.md) 
+### #is_/same_as :: [FileClass~AmpStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.public.md) 
 
-### [FileClass~AmpStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.internal.md) 
+### #is_/same_as :: [FileClass~AmpStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.internal.md) 
 
-### [FileClass~AmpStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.protect.md) 
+### #is_/same_as :: [FileClass~AmpStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.protect.md) 
 
-### [FileClass~AmpStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.private.md) 
+### #is_/same_as :: [FileClass~AmpStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.private.md) 
 
-### [FileClass~AmpStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.personal.md) 
+### #is_/same_as :: [FileClass~AmpStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.personal.md) 
 
-### [FileClass~AmpStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.secret.md)
+### #is_/same_as :: [FileClass~AmpStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.secret.md)
 

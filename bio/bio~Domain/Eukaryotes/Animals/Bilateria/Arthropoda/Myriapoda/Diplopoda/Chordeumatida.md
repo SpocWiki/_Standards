@@ -115,20 +115,19 @@ Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://
 Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chordeumatida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.md) 
+### #is_/same_as :: [Chordeumatida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.md) 
 
-### [Chordeumatida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.public.md) 
+### #is_/same_as :: [Chordeumatida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.public.md) 
 
-### [Chordeumatida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.internal.md) 
+### #is_/same_as :: [Chordeumatida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.internal.md) 
 
-### [Chordeumatida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.protect.md) 
+### #is_/same_as :: [Chordeumatida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.protect.md) 
 
-### [Chordeumatida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.private.md) 
+### #is_/same_as :: [Chordeumatida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.private.md) 
 
-### [Chordeumatida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.personal.md) 
+### #is_/same_as :: [Chordeumatida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.personal.md) 
 
-### [Chordeumatida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.secret.md)
+### #is_/same_as :: [Chordeumatida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.secret.md)
 

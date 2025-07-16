@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_experience_in_place_of_education](/_Standards/schema-org/Property/Flags/is_experience_in_place_of_education.md) 
+### #is_/same_as :: [is_experience_in_place_of_education](/_Standards/schema-org/Property/Flags/is_experience_in_place_of_education.md) 
 
-### [is_experience_in_place_of_education.public](/_public/schema-org/Property/Flags/is_experience_in_place_of_education.public.md) 
+### #is_/same_as :: [is_experience_in_place_of_education.public](/_public/schema-org/Property/Flags/is_experience_in_place_of_education.public.md) 
 
-### [is_experience_in_place_of_education.internal](/_internal/schema-org/Property/Flags/is_experience_in_place_of_education.internal.md) 
+### #is_/same_as :: [is_experience_in_place_of_education.internal](/_internal/schema-org/Property/Flags/is_experience_in_place_of_education.internal.md) 
 
-### [is_experience_in_place_of_education.protect](/_protect/schema-org/Property/Flags/is_experience_in_place_of_education.protect.md) 
+### #is_/same_as :: [is_experience_in_place_of_education.protect](/_protect/schema-org/Property/Flags/is_experience_in_place_of_education.protect.md) 
 
-### [is_experience_in_place_of_education.private](/_private/schema-org/Property/Flags/is_experience_in_place_of_education.private.md) 
+### #is_/same_as :: [is_experience_in_place_of_education.private](/_private/schema-org/Property/Flags/is_experience_in_place_of_education.private.md) 
 
-### [is_experience_in_place_of_education.personal](/_personal/schema-org/Property/Flags/is_experience_in_place_of_education.personal.md) 
+### #is_/same_as :: [is_experience_in_place_of_education.personal](/_personal/schema-org/Property/Flags/is_experience_in_place_of_education.personal.md) 
 
-### [is_experience_in_place_of_education.secret](/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret.md)
+### #is_/same_as :: [is_experience_in_place_of_education.secret](/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret.md)
 

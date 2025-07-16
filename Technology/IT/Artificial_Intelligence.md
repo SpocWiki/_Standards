@@ -177,17 +177,17 @@ This is frightening.
 
 ## Confidential Links & Embeds: 
 
-### [Artificial_Intelligence](/_Standards/Technology/IT/Artificial_Intelligence.md) 
+### #is_/same_as :: [Artificial_Intelligence](/_Standards/Technology/IT/Artificial_Intelligence.md) 
 
-### [Artificial_Intelligence.public](/_public/Technology/IT/Artificial_Intelligence.public.md) 
+### #is_/same_as :: [Artificial_Intelligence.public](/_public/Technology/IT/Artificial_Intelligence.public.md) 
 
-### [Artificial_Intelligence.internal](/_internal/Technology/IT/Artificial_Intelligence.internal.md) 
+### #is_/same_as :: [Artificial_Intelligence.internal](/_internal/Technology/IT/Artificial_Intelligence.internal.md) 
 
-### [Artificial_Intelligence.protect](/_protect/Technology/IT/Artificial_Intelligence.protect.md) 
+### #is_/same_as :: [Artificial_Intelligence.protect](/_protect/Technology/IT/Artificial_Intelligence.protect.md) 
 
-### [Artificial_Intelligence.private](/_private/Technology/IT/Artificial_Intelligence.private.md) 
+### #is_/same_as :: [Artificial_Intelligence.private](/_private/Technology/IT/Artificial_Intelligence.private.md) 
 
-### [Artificial_Intelligence.personal](/_personal/Technology/IT/Artificial_Intelligence.personal.md) 
+### #is_/same_as :: [Artificial_Intelligence.personal](/_personal/Technology/IT/Artificial_Intelligence.personal.md) 
 
-### [Artificial_Intelligence.secret](/_secret/Technology/IT/Artificial_Intelligence.secret.md)
+### #is_/same_as :: [Artificial_Intelligence.secret](/_secret/Technology/IT/Artificial_Intelligence.secret.md)
 

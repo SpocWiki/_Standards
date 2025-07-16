@@ -45,17 +45,17 @@ A graveyard.
 
 ## Confidential Links & Embeds: 
 
-### [cemetery](/_Standards/schema-org/Class/is_a_/place/civic_structure/cemetery.md) 
+### #is_/same_as :: [cemetery](/_Standards/schema-org/Class/is_a_/place/civic_structure/cemetery.md) 
 
-### [cemetery.public](/_public/schema-org/Class/is_a_/place/civic_structure/cemetery.public.md) 
+### #is_/same_as :: [cemetery.public](/_public/schema-org/Class/is_a_/place/civic_structure/cemetery.public.md) 
 
-### [cemetery.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/cemetery.internal.md) 
+### #is_/same_as :: [cemetery.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/cemetery.internal.md) 
 
-### [cemetery.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/cemetery.protect.md) 
+### #is_/same_as :: [cemetery.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/cemetery.protect.md) 
 
-### [cemetery.private](/_private/schema-org/Class/is_a_/place/civic_structure/cemetery.private.md) 
+### #is_/same_as :: [cemetery.private](/_private/schema-org/Class/is_a_/place/civic_structure/cemetery.private.md) 
 
-### [cemetery.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/cemetery.personal.md) 
+### #is_/same_as :: [cemetery.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/cemetery.personal.md) 
 
-### [cemetery.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/cemetery.secret.md)
+### #is_/same_as :: [cemetery.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/cemetery.secret.md)
 

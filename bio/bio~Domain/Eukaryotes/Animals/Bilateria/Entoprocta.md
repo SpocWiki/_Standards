@@ -75,22 +75,19 @@ Drawing by Stritch. Copyright © 2001
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Entoprocta](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.md) 
+### #is_/same_as :: [Entoprocta](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.md) 
 
-### [Entoprocta.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.public.md) 
+### #is_/same_as :: [Entoprocta.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.public.md) 
 
-### [Entoprocta.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.internal.md) 
+### #is_/same_as :: [Entoprocta.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.internal.md) 
 
-### [Entoprocta.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.protect.md) 
+### #is_/same_as :: [Entoprocta.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.protect.md) 
 
-### [Entoprocta.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.private.md) 
+### #is_/same_as :: [Entoprocta.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.private.md) 
 
-### [Entoprocta.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.personal.md) 
+### #is_/same_as :: [Entoprocta.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.personal.md) 
 
-### [Entoprocta.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.secret.md)
+### #is_/same_as :: [Entoprocta.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Entoprocta.secret.md)
 

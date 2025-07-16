@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_countries_not_supported](/_Standards/schema-org/Property/Texts/has_countries_not_supported.md) 
+### #is_/same_as :: [has_countries_not_supported](/_Standards/schema-org/Property/Texts/has_countries_not_supported.md) 
 
-### [has_countries_not_supported.public](/_public/schema-org/Property/Texts/has_countries_not_supported.public.md) 
+### #is_/same_as :: [has_countries_not_supported.public](/_public/schema-org/Property/Texts/has_countries_not_supported.public.md) 
 
-### [has_countries_not_supported.internal](/_internal/schema-org/Property/Texts/has_countries_not_supported.internal.md) 
+### #is_/same_as :: [has_countries_not_supported.internal](/_internal/schema-org/Property/Texts/has_countries_not_supported.internal.md) 
 
-### [has_countries_not_supported.protect](/_protect/schema-org/Property/Texts/has_countries_not_supported.protect.md) 
+### #is_/same_as :: [has_countries_not_supported.protect](/_protect/schema-org/Property/Texts/has_countries_not_supported.protect.md) 
 
-### [has_countries_not_supported.private](/_private/schema-org/Property/Texts/has_countries_not_supported.private.md) 
+### #is_/same_as :: [has_countries_not_supported.private](/_private/schema-org/Property/Texts/has_countries_not_supported.private.md) 
 
-### [has_countries_not_supported.personal](/_personal/schema-org/Property/Texts/has_countries_not_supported.personal.md) 
+### #is_/same_as :: [has_countries_not_supported.personal](/_personal/schema-org/Property/Texts/has_countries_not_supported.personal.md) 
 
-### [has_countries_not_supported.secret](/_secret/schema-org/Property/Texts/has_countries_not_supported.secret.md)
+### #is_/same_as :: [has_countries_not_supported.secret](/_secret/schema-org/Property/Texts/has_countries_not_supported.secret.md)
 

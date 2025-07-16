@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_return_policy_country](/_Standards/schema-org/Relation/has/has_return_policy_country.md) 
+### #is_/same_as :: [has_return_policy_country](/_Standards/schema-org/Relation/has/has_return_policy_country.md) 
 
-### [has_return_policy_country.public](/_public/schema-org/Relation/has/has_return_policy_country.public.md) 
+### #is_/same_as :: [has_return_policy_country.public](/_public/schema-org/Relation/has/has_return_policy_country.public.md) 
 
-### [has_return_policy_country.internal](/_internal/schema-org/Relation/has/has_return_policy_country.internal.md) 
+### #is_/same_as :: [has_return_policy_country.internal](/_internal/schema-org/Relation/has/has_return_policy_country.internal.md) 
 
-### [has_return_policy_country.protect](/_protect/schema-org/Relation/has/has_return_policy_country.protect.md) 
+### #is_/same_as :: [has_return_policy_country.protect](/_protect/schema-org/Relation/has/has_return_policy_country.protect.md) 
 
-### [has_return_policy_country.private](/_private/schema-org/Relation/has/has_return_policy_country.private.md) 
+### #is_/same_as :: [has_return_policy_country.private](/_private/schema-org/Relation/has/has_return_policy_country.private.md) 
 
-### [has_return_policy_country.personal](/_personal/schema-org/Relation/has/has_return_policy_country.personal.md) 
+### #is_/same_as :: [has_return_policy_country.personal](/_personal/schema-org/Relation/has/has_return_policy_country.personal.md) 
 
-### [has_return_policy_country.secret](/_secret/schema-org/Relation/has/has_return_policy_country.secret.md)
+### #is_/same_as :: [has_return_policy_country.secret](/_secret/schema-org/Relation/has/has_return_policy_country.secret.md)
 

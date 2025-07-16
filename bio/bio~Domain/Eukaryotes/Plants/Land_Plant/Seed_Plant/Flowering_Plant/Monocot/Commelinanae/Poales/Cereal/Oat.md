@@ -159,21 +159,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Oat)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Oat](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.md) 
+### #is_/same_as :: [Oat](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.md) 
 
-### [Oat.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.public.md) 
+### #is_/same_as :: [Oat.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.public.md) 
 
-### [Oat.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.internal.md) 
+### #is_/same_as :: [Oat.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.internal.md) 
 
-### [Oat.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.protect.md) 
+### #is_/same_as :: [Oat.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.protect.md) 
 
-### [Oat.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.private.md) 
+### #is_/same_as :: [Oat.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.private.md) 
 
-### [Oat.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.personal.md) 
+### #is_/same_as :: [Oat.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.personal.md) 
 
-### [Oat.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.secret.md)
+### #is_/same_as :: [Oat.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Oat.secret.md)
 

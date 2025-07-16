@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_sub_channel](/_Standards/schema-org/Property/Texts/has_broadcast_sub_channel.md) 
+### #is_/same_as :: [has_broadcast_sub_channel](/_Standards/schema-org/Property/Texts/has_broadcast_sub_channel.md) 
 
-### [has_broadcast_sub_channel.public](/_public/schema-org/Property/Texts/has_broadcast_sub_channel.public.md) 
+### #is_/same_as :: [has_broadcast_sub_channel.public](/_public/schema-org/Property/Texts/has_broadcast_sub_channel.public.md) 
 
-### [has_broadcast_sub_channel.internal](/_internal/schema-org/Property/Texts/has_broadcast_sub_channel.internal.md) 
+### #is_/same_as :: [has_broadcast_sub_channel.internal](/_internal/schema-org/Property/Texts/has_broadcast_sub_channel.internal.md) 
 
-### [has_broadcast_sub_channel.protect](/_protect/schema-org/Property/Texts/has_broadcast_sub_channel.protect.md) 
+### #is_/same_as :: [has_broadcast_sub_channel.protect](/_protect/schema-org/Property/Texts/has_broadcast_sub_channel.protect.md) 
 
-### [has_broadcast_sub_channel.private](/_private/schema-org/Property/Texts/has_broadcast_sub_channel.private.md) 
+### #is_/same_as :: [has_broadcast_sub_channel.private](/_private/schema-org/Property/Texts/has_broadcast_sub_channel.private.md) 
 
-### [has_broadcast_sub_channel.personal](/_personal/schema-org/Property/Texts/has_broadcast_sub_channel.personal.md) 
+### #is_/same_as :: [has_broadcast_sub_channel.personal](/_personal/schema-org/Property/Texts/has_broadcast_sub_channel.personal.md) 
 
-### [has_broadcast_sub_channel.secret](/_secret/schema-org/Property/Texts/has_broadcast_sub_channel.secret.md)
+### #is_/same_as :: [has_broadcast_sub_channel.secret](/_secret/schema-org/Property/Texts/has_broadcast_sub_channel.secret.md)
 

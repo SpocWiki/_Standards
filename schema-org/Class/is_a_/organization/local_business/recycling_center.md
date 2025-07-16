@@ -45,17 +45,17 @@ A recycling center.
 
 ## Confidential Links & Embeds: 
 
-### [recycling_center](/_Standards/schema-org/Class/is_a_/organization/local_business/recycling_center.md) 
+### #is_/same_as :: [recycling_center](/_Standards/schema-org/Class/is_a_/organization/local_business/recycling_center.md) 
 
-### [recycling_center.public](/_public/schema-org/Class/is_a_/organization/local_business/recycling_center.public.md) 
+### #is_/same_as :: [recycling_center.public](/_public/schema-org/Class/is_a_/organization/local_business/recycling_center.public.md) 
 
-### [recycling_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/recycling_center.internal.md) 
+### #is_/same_as :: [recycling_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/recycling_center.internal.md) 
 
-### [recycling_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/recycling_center.protect.md) 
+### #is_/same_as :: [recycling_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/recycling_center.protect.md) 
 
-### [recycling_center.private](/_private/schema-org/Class/is_a_/organization/local_business/recycling_center.private.md) 
+### #is_/same_as :: [recycling_center.private](/_private/schema-org/Class/is_a_/organization/local_business/recycling_center.private.md) 
 
-### [recycling_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/recycling_center.personal.md) 
+### #is_/same_as :: [recycling_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/recycling_center.personal.md) 
 
-### [recycling_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/recycling_center.secret.md)
+### #is_/same_as :: [recycling_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/recycling_center.secret.md)
 

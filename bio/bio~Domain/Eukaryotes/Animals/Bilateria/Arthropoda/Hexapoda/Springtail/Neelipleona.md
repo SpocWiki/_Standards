@@ -59,20 +59,19 @@ Reference         Drawing from C. Börner. 1906. Collembola. Symphypleona. Fam. 
 View              lateral
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Neelipleona](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.md) 
+### #is_/same_as :: [Neelipleona](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.md) 
 
-### [Neelipleona.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.public.md) 
+### #is_/same_as :: [Neelipleona.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.public.md) 
 
-### [Neelipleona.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.internal.md) 
+### #is_/same_as :: [Neelipleona.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.internal.md) 
 
-### [Neelipleona.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.protect.md) 
+### #is_/same_as :: [Neelipleona.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.protect.md) 
 
-### [Neelipleona.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.private.md) 
+### #is_/same_as :: [Neelipleona.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.private.md) 
 
-### [Neelipleona.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.personal.md) 
+### #is_/same_as :: [Neelipleona.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.personal.md) 
 
-### [Neelipleona.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.secret.md)
+### #is_/same_as :: [Neelipleona.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.secret.md)
 

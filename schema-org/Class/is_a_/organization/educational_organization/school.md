@@ -45,17 +45,17 @@ A school.
 
 ## Confidential Links & Embeds: 
 
-### [school](/_Standards/schema-org/Class/is_a_/organization/educational_organization/school.md) 
+### #is_/same_as :: [school](/_Standards/schema-org/Class/is_a_/organization/educational_organization/school.md) 
 
-### [school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/school.public.md) 
+### #is_/same_as :: [school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/school.public.md) 
 
-### [school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/school.internal.md) 
+### #is_/same_as :: [school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/school.internal.md) 
 
-### [school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/school.protect.md) 
+### #is_/same_as :: [school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/school.protect.md) 
 
-### [school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/school.private.md) 
+### #is_/same_as :: [school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/school.private.md) 
 
-### [school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/school.personal.md) 
+### #is_/same_as :: [school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/school.personal.md) 
 
-### [school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/school.secret.md)
+### #is_/same_as :: [school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/school.secret.md)
 

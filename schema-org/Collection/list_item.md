@@ -47,17 +47,17 @@ An list item, e.g. a step in a checklist or how-to description.
 
 ## Confidential Links & Embeds: 
 
-### [list_item](/_Standards/schema-org/Collection/list_item.md) 
+### #is_/same_as :: [list_item](/_Standards/schema-org/Collection/list_item.md) 
 
-### [list_item.public](/_public/schema-org/Collection/list_item.public.md) 
+### #is_/same_as :: [list_item.public](/_public/schema-org/Collection/list_item.public.md) 
 
-### [list_item.internal](/_internal/schema-org/Collection/list_item.internal.md) 
+### #is_/same_as :: [list_item.internal](/_internal/schema-org/Collection/list_item.internal.md) 
 
-### [list_item.protect](/_protect/schema-org/Collection/list_item.protect.md) 
+### #is_/same_as :: [list_item.protect](/_protect/schema-org/Collection/list_item.protect.md) 
 
-### [list_item.private](/_private/schema-org/Collection/list_item.private.md) 
+### #is_/same_as :: [list_item.private](/_private/schema-org/Collection/list_item.private.md) 
 
-### [list_item.personal](/_personal/schema-org/Collection/list_item.personal.md) 
+### #is_/same_as :: [list_item.personal](/_personal/schema-org/Collection/list_item.personal.md) 
 
-### [list_item.secret](/_secret/schema-org/Collection/list_item.secret.md)
+### #is_/same_as :: [list_item.secret](/_secret/schema-org/Collection/list_item.secret.md)
 

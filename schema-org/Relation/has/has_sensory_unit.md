@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sensory_unit](/_Standards/schema-org/Relation/has/has_sensory_unit.md) 
+### #is_/same_as :: [has_sensory_unit](/_Standards/schema-org/Relation/has/has_sensory_unit.md) 
 
-### [has_sensory_unit.public](/_public/schema-org/Relation/has/has_sensory_unit.public.md) 
+### #is_/same_as :: [has_sensory_unit.public](/_public/schema-org/Relation/has/has_sensory_unit.public.md) 
 
-### [has_sensory_unit.internal](/_internal/schema-org/Relation/has/has_sensory_unit.internal.md) 
+### #is_/same_as :: [has_sensory_unit.internal](/_internal/schema-org/Relation/has/has_sensory_unit.internal.md) 
 
-### [has_sensory_unit.protect](/_protect/schema-org/Relation/has/has_sensory_unit.protect.md) 
+### #is_/same_as :: [has_sensory_unit.protect](/_protect/schema-org/Relation/has/has_sensory_unit.protect.md) 
 
-### [has_sensory_unit.private](/_private/schema-org/Relation/has/has_sensory_unit.private.md) 
+### #is_/same_as :: [has_sensory_unit.private](/_private/schema-org/Relation/has/has_sensory_unit.private.md) 
 
-### [has_sensory_unit.personal](/_personal/schema-org/Relation/has/has_sensory_unit.personal.md) 
+### #is_/same_as :: [has_sensory_unit.personal](/_personal/schema-org/Relation/has/has_sensory_unit.personal.md) 
 
-### [has_sensory_unit.secret](/_secret/schema-org/Relation/has/has_sensory_unit.secret.md)
+### #is_/same_as :: [has_sensory_unit.secret](/_secret/schema-org/Relation/has/has_sensory_unit.secret.md)
 

@@ -26,17 +26,17 @@ SpocWebEntityId: {{Id}}
 
 ## Confidential Links & Embeds: 
 
-### [_LangTemplate](/_Standards/Language/_LangTemplate.md) 
+### #is_/same_as :: [_LangTemplate](/_Standards/Language/_LangTemplate.md) 
 
-### [_LangTemplate.public](/_public/Language/_LangTemplate.public.md) 
+### #is_/same_as :: [_LangTemplate.public](/_public/Language/_LangTemplate.public.md) 
 
-### [_LangTemplate.internal](/_internal/Language/_LangTemplate.internal.md) 
+### #is_/same_as :: [_LangTemplate.internal](/_internal/Language/_LangTemplate.internal.md) 
 
-### [_LangTemplate.protect](/_protect/Language/_LangTemplate.protect.md) 
+### #is_/same_as :: [_LangTemplate.protect](/_protect/Language/_LangTemplate.protect.md) 
 
-### [_LangTemplate.private](/_private/Language/_LangTemplate.private.md) 
+### #is_/same_as :: [_LangTemplate.private](/_private/Language/_LangTemplate.private.md) 
 
-### [_LangTemplate.personal](/_personal/Language/_LangTemplate.personal.md) 
+### #is_/same_as :: [_LangTemplate.personal](/_personal/Language/_LangTemplate.personal.md) 
 
-### [_LangTemplate.secret](/_secret/Language/_LangTemplate.secret.md)
+### #is_/same_as :: [_LangTemplate.secret](/_secret/Language/_LangTemplate.secret.md)
 

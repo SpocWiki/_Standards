@@ -51,17 +51,17 @@ for background on the underlying concepts.
 
 ## Confidential Links & Embeds: 
 
-### [offer_for_lease](/_Standards/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.md) 
+### #is_/same_as :: [offer_for_lease](/_Standards/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.md) 
 
-### [offer_for_lease.public](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.public.md) 
+### #is_/same_as :: [offer_for_lease.public](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.public.md) 
 
-### [offer_for_lease.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.internal.md) 
+### #is_/same_as :: [offer_for_lease.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.internal.md) 
 
-### [offer_for_lease.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.protect.md) 
+### #is_/same_as :: [offer_for_lease.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.protect.md) 
 
-### [offer_for_lease.private](/_private/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.private.md) 
+### #is_/same_as :: [offer_for_lease.private](/_private/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.private.md) 
 
-### [offer_for_lease.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.personal.md) 
+### #is_/same_as :: [offer_for_lease.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.personal.md) 
 
-### [offer_for_lease.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.secret.md)
+### #is_/same_as :: [offer_for_lease.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.secret.md)
 

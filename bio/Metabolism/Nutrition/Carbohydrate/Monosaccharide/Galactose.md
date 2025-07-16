@@ -16,23 +16,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Galactose)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Galactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.md) 
+### #is_/same_as :: [Galactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.md) 
 
-### [Galactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.public.md) 
+### #is_/same_as :: [Galactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.public.md) 
 
-### [Galactose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.internal.md) 
+### #is_/same_as :: [Galactose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.internal.md) 
 
-### [Galactose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.protect.md) 
+### #is_/same_as :: [Galactose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.protect.md) 
 
-### [Galactose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.private.md) 
+### #is_/same_as :: [Galactose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.private.md) 
 
-### [Galactose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.personal.md) 
+### #is_/same_as :: [Galactose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.personal.md) 
 
-### [Galactose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.secret.md)
+### #is_/same_as :: [Galactose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.secret.md)
 

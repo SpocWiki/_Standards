@@ -33,17 +33,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Melanesia](/_Standards/Earth/Continent/Australasia/Melanesia.md) 
+### #is_/same_as :: [Melanesia](/_Standards/Earth/Continent/Australasia/Melanesia.md) 
 
-### [Melanesia.public](/_public/Earth/Continent/Australasia/Melanesia.public.md) 
+### #is_/same_as :: [Melanesia.public](/_public/Earth/Continent/Australasia/Melanesia.public.md) 
 
-### [Melanesia.internal](/_internal/Earth/Continent/Australasia/Melanesia.internal.md) 
+### #is_/same_as :: [Melanesia.internal](/_internal/Earth/Continent/Australasia/Melanesia.internal.md) 
 
-### [Melanesia.protect](/_protect/Earth/Continent/Australasia/Melanesia.protect.md) 
+### #is_/same_as :: [Melanesia.protect](/_protect/Earth/Continent/Australasia/Melanesia.protect.md) 
 
-### [Melanesia.private](/_private/Earth/Continent/Australasia/Melanesia.private.md) 
+### #is_/same_as :: [Melanesia.private](/_private/Earth/Continent/Australasia/Melanesia.private.md) 
 
-### [Melanesia.personal](/_personal/Earth/Continent/Australasia/Melanesia.personal.md) 
+### #is_/same_as :: [Melanesia.personal](/_personal/Earth/Continent/Australasia/Melanesia.personal.md) 
 
-### [Melanesia.secret](/_secret/Earth/Continent/Australasia/Melanesia.secret.md)
+### #is_/same_as :: [Melanesia.secret](/_secret/Earth/Continent/Australasia/Melanesia.secret.md)
 

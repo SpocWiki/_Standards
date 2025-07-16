@@ -46,17 +46,17 @@ SpokenByCharacter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Quotation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.md) 
+### #is_/same_as :: [FileClass~Quotation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.md) 
 
-### [FileClass~Quotation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.public.md) 
+### #is_/same_as :: [FileClass~Quotation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.public.md) 
 
-### [FileClass~Quotation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.internal.md) 
+### #is_/same_as :: [FileClass~Quotation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.internal.md) 
 
-### [FileClass~Quotation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.protect.md) 
+### #is_/same_as :: [FileClass~Quotation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.protect.md) 
 
-### [FileClass~Quotation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.private.md) 
+### #is_/same_as :: [FileClass~Quotation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.private.md) 
 
-### [FileClass~Quotation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.personal.md) 
+### #is_/same_as :: [FileClass~Quotation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.personal.md) 
 
-### [FileClass~Quotation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.secret.md)
+### #is_/same_as :: [FileClass~Quotation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.secret.md)
 

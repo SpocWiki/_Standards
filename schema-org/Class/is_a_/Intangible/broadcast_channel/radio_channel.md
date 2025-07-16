@@ -47,17 +47,17 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 
 ## Confidential Links & Embeds: 
 
-### [radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.md) 
+### #is_/same_as :: [radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.md) 
 
-### [radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.public.md) 
+### #is_/same_as :: [radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.public.md) 
 
-### [radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.internal.md) 
+### #is_/same_as :: [radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.internal.md) 
 
-### [radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.protect.md) 
+### #is_/same_as :: [radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.protect.md) 
 
-### [radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.private.md) 
+### #is_/same_as :: [radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.private.md) 
 
-### [radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.personal.md) 
+### #is_/same_as :: [radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.personal.md) 
 
-### [radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.secret.md)
+### #is_/same_as :: [radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.secret.md)
 

@@ -77,23 +77,19 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PERSONAZH.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Character%20(arts)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fictional_Characters](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.md) 
+### #is_/same_as :: [Fictional_Characters](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.md) 
 
-### [Fictional_Characters.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.public.md) 
+### #is_/same_as :: [Fictional_Characters.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.public.md) 
 
-### [Fictional_Characters.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.internal.md) 
+### #is_/same_as :: [Fictional_Characters.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.internal.md) 
 
-### [Fictional_Characters.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.protect.md) 
+### #is_/same_as :: [Fictional_Characters.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.protect.md) 
 
-### [Fictional_Characters.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.private.md) 
+### #is_/same_as :: [Fictional_Characters.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.private.md) 
 
-### [Fictional_Characters.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.personal.md) 
+### #is_/same_as :: [Fictional_Characters.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.personal.md) 
 
-### [Fictional_Characters.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.secret.md)
+### #is_/same_as :: [Fictional_Characters.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Characters.secret.md)
 

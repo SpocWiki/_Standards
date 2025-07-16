@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_web_feed](/_Standards/schema-org/Relation/has/has_web_feed.md) 
+### #is_/same_as :: [has_web_feed](/_Standards/schema-org/Relation/has/has_web_feed.md) 
 
-### [has_web_feed.public](/_public/schema-org/Relation/has/has_web_feed.public.md) 
+### #is_/same_as :: [has_web_feed.public](/_public/schema-org/Relation/has/has_web_feed.public.md) 
 
-### [has_web_feed.internal](/_internal/schema-org/Relation/has/has_web_feed.internal.md) 
+### #is_/same_as :: [has_web_feed.internal](/_internal/schema-org/Relation/has/has_web_feed.internal.md) 
 
-### [has_web_feed.protect](/_protect/schema-org/Relation/has/has_web_feed.protect.md) 
+### #is_/same_as :: [has_web_feed.protect](/_protect/schema-org/Relation/has/has_web_feed.protect.md) 
 
-### [has_web_feed.private](/_private/schema-org/Relation/has/has_web_feed.private.md) 
+### #is_/same_as :: [has_web_feed.private](/_private/schema-org/Relation/has/has_web_feed.private.md) 
 
-### [has_web_feed.personal](/_personal/schema-org/Relation/has/has_web_feed.personal.md) 
+### #is_/same_as :: [has_web_feed.personal](/_personal/schema-org/Relation/has/has_web_feed.personal.md) 
 
-### [has_web_feed.secret](/_secret/schema-org/Relation/has/has_web_feed.secret.md)
+### #is_/same_as :: [has_web_feed.secret](/_secret/schema-org/Relation/has/has_web_feed.secret.md)
 

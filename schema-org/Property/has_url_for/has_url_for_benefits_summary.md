@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_benefits_summary](/_Standards/schema-org/Property/has_url_for/has_url_for_benefits_summary.md) 
+### #is_/same_as :: [has_url_for_benefits_summary](/_Standards/schema-org/Property/has_url_for/has_url_for_benefits_summary.md) 
 
-### [has_url_for_benefits_summary.public](/_public/schema-org/Property/has_url_for/has_url_for_benefits_summary.public.md) 
+### #is_/same_as :: [has_url_for_benefits_summary.public](/_public/schema-org/Property/has_url_for/has_url_for_benefits_summary.public.md) 
 
-### [has_url_for_benefits_summary.internal](/_internal/schema-org/Property/has_url_for/has_url_for_benefits_summary.internal.md) 
+### #is_/same_as :: [has_url_for_benefits_summary.internal](/_internal/schema-org/Property/has_url_for/has_url_for_benefits_summary.internal.md) 
 
-### [has_url_for_benefits_summary.protect](/_protect/schema-org/Property/has_url_for/has_url_for_benefits_summary.protect.md) 
+### #is_/same_as :: [has_url_for_benefits_summary.protect](/_protect/schema-org/Property/has_url_for/has_url_for_benefits_summary.protect.md) 
 
-### [has_url_for_benefits_summary.private](/_private/schema-org/Property/has_url_for/has_url_for_benefits_summary.private.md) 
+### #is_/same_as :: [has_url_for_benefits_summary.private](/_private/schema-org/Property/has_url_for/has_url_for_benefits_summary.private.md) 
 
-### [has_url_for_benefits_summary.personal](/_personal/schema-org/Property/has_url_for/has_url_for_benefits_summary.personal.md) 
+### #is_/same_as :: [has_url_for_benefits_summary.personal](/_personal/schema-org/Property/has_url_for/has_url_for_benefits_summary.personal.md) 
 
-### [has_url_for_benefits_summary.secret](/_secret/schema-org/Property/has_url_for/has_url_for_benefits_summary.secret.md)
+### #is_/same_as :: [has_url_for_benefits_summary.secret](/_secret/schema-org/Property/has_url_for/has_url_for_benefits_summary.secret.md)
 

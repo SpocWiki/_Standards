@@ -45,17 +45,17 @@ A post office.
 
 ## Confidential Links & Embeds: 
 
-### [post_office](/_Standards/schema-org/Class/is_a_/organization/local_business/government_office/post_office.md) 
+### #is_/same_as :: [post_office](/_Standards/schema-org/Class/is_a_/organization/local_business/government_office/post_office.md) 
 
-### [post_office.public](/_public/schema-org/Class/is_a_/organization/local_business/government_office/post_office.public.md) 
+### #is_/same_as :: [post_office.public](/_public/schema-org/Class/is_a_/organization/local_business/government_office/post_office.public.md) 
 
-### [post_office.internal](/_internal/schema-org/Class/is_a_/organization/local_business/government_office/post_office.internal.md) 
+### #is_/same_as :: [post_office.internal](/_internal/schema-org/Class/is_a_/organization/local_business/government_office/post_office.internal.md) 
 
-### [post_office.protect](/_protect/schema-org/Class/is_a_/organization/local_business/government_office/post_office.protect.md) 
+### #is_/same_as :: [post_office.protect](/_protect/schema-org/Class/is_a_/organization/local_business/government_office/post_office.protect.md) 
 
-### [post_office.private](/_private/schema-org/Class/is_a_/organization/local_business/government_office/post_office.private.md) 
+### #is_/same_as :: [post_office.private](/_private/schema-org/Class/is_a_/organization/local_business/government_office/post_office.private.md) 
 
-### [post_office.personal](/_personal/schema-org/Class/is_a_/organization/local_business/government_office/post_office.personal.md) 
+### #is_/same_as :: [post_office.personal](/_personal/schema-org/Class/is_a_/organization/local_business/government_office/post_office.personal.md) 
 
-### [post_office.secret](/_secret/schema-org/Class/is_a_/organization/local_business/government_office/post_office.secret.md)
+### #is_/same_as :: [post_office.secret](/_secret/schema-org/Class/is_a_/organization/local_business/government_office/post_office.secret.md)
 

@@ -129,17 +129,17 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 
 ## Confidential Links & Embeds: 
 
-### [City](/_Standards/Earth/Geography/City.md) 
+### #is_/same_as :: [City](/_Standards/Earth/Geography/City.md) 
 
-### [City.public](/_public/Earth/Geography/City.public.md) 
+### #is_/same_as :: [City.public](/_public/Earth/Geography/City.public.md) 
 
-### [City.internal](/_internal/Earth/Geography/City.internal.md) 
+### #is_/same_as :: [City.internal](/_internal/Earth/Geography/City.internal.md) 
 
-### [City.protect](/_protect/Earth/Geography/City.protect.md) 
+### #is_/same_as :: [City.protect](/_protect/Earth/Geography/City.protect.md) 
 
-### [City.private](/_private/Earth/Geography/City.private.md) 
+### #is_/same_as :: [City.private](/_private/Earth/Geography/City.private.md) 
 
-### [City.personal](/_personal/Earth/Geography/City.personal.md) 
+### #is_/same_as :: [City.personal](/_personal/Earth/Geography/City.personal.md) 
 
-### [City.secret](/_secret/Earth/Geography/City.secret.md)
+### #is_/same_as :: [City.secret](/_secret/Earth/Geography/City.secret.md)
 

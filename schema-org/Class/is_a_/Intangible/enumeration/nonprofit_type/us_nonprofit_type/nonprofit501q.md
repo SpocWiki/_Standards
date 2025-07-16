@@ -49,17 +49,17 @@ Nonprofit501q: Non-profit type referring to Credit Counseling Organizations.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501q](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.md) 
+### #is_/same_as :: [nonprofit501q](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.md) 
 
-### [nonprofit501q.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.public.md) 
+### #is_/same_as :: [nonprofit501q.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.public.md) 
 
-### [nonprofit501q.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.internal.md) 
+### #is_/same_as :: [nonprofit501q.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.internal.md) 
 
-### [nonprofit501q.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.protect.md) 
+### #is_/same_as :: [nonprofit501q.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.protect.md) 
 
-### [nonprofit501q.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.private.md) 
+### #is_/same_as :: [nonprofit501q.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.private.md) 
 
-### [nonprofit501q.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.personal.md) 
+### #is_/same_as :: [nonprofit501q.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.personal.md) 
 
-### [nonprofit501q.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.secret.md)
+### #is_/same_as :: [nonprofit501q.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.secret.md)
 

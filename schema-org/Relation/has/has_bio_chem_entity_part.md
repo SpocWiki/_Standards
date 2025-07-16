@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_bio_chem_entity_part](/_Standards/schema-org/Relation/has/has_bio_chem_entity_part.md) 
+### #is_/same_as :: [has_bio_chem_entity_part](/_Standards/schema-org/Relation/has/has_bio_chem_entity_part.md) 
 
-### [has_bio_chem_entity_part.public](/_public/schema-org/Relation/has/has_bio_chem_entity_part.public.md) 
+### #is_/same_as :: [has_bio_chem_entity_part.public](/_public/schema-org/Relation/has/has_bio_chem_entity_part.public.md) 
 
-### [has_bio_chem_entity_part.internal](/_internal/schema-org/Relation/has/has_bio_chem_entity_part.internal.md) 
+### #is_/same_as :: [has_bio_chem_entity_part.internal](/_internal/schema-org/Relation/has/has_bio_chem_entity_part.internal.md) 
 
-### [has_bio_chem_entity_part.protect](/_protect/schema-org/Relation/has/has_bio_chem_entity_part.protect.md) 
+### #is_/same_as :: [has_bio_chem_entity_part.protect](/_protect/schema-org/Relation/has/has_bio_chem_entity_part.protect.md) 
 
-### [has_bio_chem_entity_part.private](/_private/schema-org/Relation/has/has_bio_chem_entity_part.private.md) 
+### #is_/same_as :: [has_bio_chem_entity_part.private](/_private/schema-org/Relation/has/has_bio_chem_entity_part.private.md) 
 
-### [has_bio_chem_entity_part.personal](/_personal/schema-org/Relation/has/has_bio_chem_entity_part.personal.md) 
+### #is_/same_as :: [has_bio_chem_entity_part.personal](/_personal/schema-org/Relation/has/has_bio_chem_entity_part.personal.md) 
 
-### [has_bio_chem_entity_part.secret](/_secret/schema-org/Relation/has/has_bio_chem_entity_part.secret.md)
+### #is_/same_as :: [has_bio_chem_entity_part.secret](/_secret/schema-org/Relation/has/has_bio_chem_entity_part.secret.md)
 

@@ -406,17 +406,17 @@ Capital :: [[Monaco]]
 
 ## Confidential Links & Embeds: 
 
-### [Monaco](/_Standards/Earth/Continent/Europe/Europe~West/Monaco.md) 
+### #is_/same_as :: [Monaco](/_Standards/Earth/Continent/Europe/Europe~West/Monaco.md) 
 
-### [Monaco.public](/_public/Earth/Continent/Europe/Europe~West/Monaco.public.md) 
+### #is_/same_as :: [Monaco.public](/_public/Earth/Continent/Europe/Europe~West/Monaco.public.md) 
 
-### [Monaco.internal](/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal.md) 
+### #is_/same_as :: [Monaco.internal](/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal.md) 
 
-### [Monaco.protect](/_protect/Earth/Continent/Europe/Europe~West/Monaco.protect.md) 
+### #is_/same_as :: [Monaco.protect](/_protect/Earth/Continent/Europe/Europe~West/Monaco.protect.md) 
 
-### [Monaco.private](/_private/Earth/Continent/Europe/Europe~West/Monaco.private.md) 
+### #is_/same_as :: [Monaco.private](/_private/Earth/Continent/Europe/Europe~West/Monaco.private.md) 
 
-### [Monaco.personal](/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal.md) 
+### #is_/same_as :: [Monaco.personal](/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal.md) 
 
-### [Monaco.secret](/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret.md)
+### #is_/same_as :: [Monaco.secret](/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret.md)
 

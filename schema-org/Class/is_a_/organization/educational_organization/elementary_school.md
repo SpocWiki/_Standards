@@ -45,17 +45,17 @@ An elementary school.
 
 ## Confidential Links & Embeds: 
 
-### [elementary_school](/_Standards/schema-org/Class/is_a_/organization/educational_organization/elementary_school.md) 
+### #is_/same_as :: [elementary_school](/_Standards/schema-org/Class/is_a_/organization/educational_organization/elementary_school.md) 
 
-### [elementary_school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/elementary_school.public.md) 
+### #is_/same_as :: [elementary_school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/elementary_school.public.md) 
 
-### [elementary_school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/elementary_school.internal.md) 
+### #is_/same_as :: [elementary_school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/elementary_school.internal.md) 
 
-### [elementary_school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/elementary_school.protect.md) 
+### #is_/same_as :: [elementary_school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/elementary_school.protect.md) 
 
-### [elementary_school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/elementary_school.private.md) 
+### #is_/same_as :: [elementary_school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/elementary_school.private.md) 
 
-### [elementary_school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/elementary_school.personal.md) 
+### #is_/same_as :: [elementary_school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/elementary_school.personal.md) 
 
-### [elementary_school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/elementary_school.secret.md)
+### #is_/same_as :: [elementary_school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/elementary_school.secret.md)
 

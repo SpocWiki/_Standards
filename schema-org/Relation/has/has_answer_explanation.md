@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_answer_explanation](/_Standards/schema-org/Relation/has/has_answer_explanation.md) 
+### #is_/same_as :: [has_answer_explanation](/_Standards/schema-org/Relation/has/has_answer_explanation.md) 
 
-### [has_answer_explanation.public](/_public/schema-org/Relation/has/has_answer_explanation.public.md) 
+### #is_/same_as :: [has_answer_explanation.public](/_public/schema-org/Relation/has/has_answer_explanation.public.md) 
 
-### [has_answer_explanation.internal](/_internal/schema-org/Relation/has/has_answer_explanation.internal.md) 
+### #is_/same_as :: [has_answer_explanation.internal](/_internal/schema-org/Relation/has/has_answer_explanation.internal.md) 
 
-### [has_answer_explanation.protect](/_protect/schema-org/Relation/has/has_answer_explanation.protect.md) 
+### #is_/same_as :: [has_answer_explanation.protect](/_protect/schema-org/Relation/has/has_answer_explanation.protect.md) 
 
-### [has_answer_explanation.private](/_private/schema-org/Relation/has/has_answer_explanation.private.md) 
+### #is_/same_as :: [has_answer_explanation.private](/_private/schema-org/Relation/has/has_answer_explanation.private.md) 
 
-### [has_answer_explanation.personal](/_personal/schema-org/Relation/has/has_answer_explanation.personal.md) 
+### #is_/same_as :: [has_answer_explanation.personal](/_personal/schema-org/Relation/has/has_answer_explanation.personal.md) 
 
-### [has_answer_explanation.secret](/_secret/schema-org/Relation/has/has_answer_explanation.secret.md)
+### #is_/same_as :: [has_answer_explanation.secret](/_secret/schema-org/Relation/has/has_answer_explanation.secret.md)
 

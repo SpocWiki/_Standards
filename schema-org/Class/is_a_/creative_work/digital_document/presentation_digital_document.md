@@ -45,17 +45,17 @@ A file containing slides or used for a presentation.
 
 ## Confidential Links & Embeds: 
 
-### [presentation_digital_document](/_Standards/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.md) 
+### #is_/same_as :: [presentation_digital_document](/_Standards/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.md) 
 
-### [presentation_digital_document.public](/_public/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.public.md) 
+### #is_/same_as :: [presentation_digital_document.public](/_public/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.public.md) 
 
-### [presentation_digital_document.internal](/_internal/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.internal.md) 
+### #is_/same_as :: [presentation_digital_document.internal](/_internal/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.internal.md) 
 
-### [presentation_digital_document.protect](/_protect/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.protect.md) 
+### #is_/same_as :: [presentation_digital_document.protect](/_protect/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.protect.md) 
 
-### [presentation_digital_document.private](/_private/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.private.md) 
+### #is_/same_as :: [presentation_digital_document.private](/_private/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.private.md) 
 
-### [presentation_digital_document.personal](/_personal/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.personal.md) 
+### #is_/same_as :: [presentation_digital_document.personal](/_personal/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.personal.md) 
 
-### [presentation_digital_document.secret](/_secret/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.secret.md)
+### #is_/same_as :: [presentation_digital_document.secret](/_secret/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.secret.md)
 

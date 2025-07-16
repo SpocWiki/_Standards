@@ -20,21 +20,19 @@ has_id_wikidata: Q1074
 > [Wikipedia](https://en.wikipedia.org/wiki/Skin)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Skin](/_Standards/bio/Medicine/Anatomy/Skin.md) 
+### #is_/same_as :: [Skin](/_Standards/bio/Medicine/Anatomy/Skin.md) 
 
-### [Skin.public](/_public/bio/Medicine/Anatomy/Skin.public.md) 
+### #is_/same_as :: [Skin.public](/_public/bio/Medicine/Anatomy/Skin.public.md) 
 
-### [Skin.internal](/_internal/bio/Medicine/Anatomy/Skin.internal.md) 
+### #is_/same_as :: [Skin.internal](/_internal/bio/Medicine/Anatomy/Skin.internal.md) 
 
-### [Skin.protect](/_protect/bio/Medicine/Anatomy/Skin.protect.md) 
+### #is_/same_as :: [Skin.protect](/_protect/bio/Medicine/Anatomy/Skin.protect.md) 
 
-### [Skin.private](/_private/bio/Medicine/Anatomy/Skin.private.md) 
+### #is_/same_as :: [Skin.private](/_private/bio/Medicine/Anatomy/Skin.private.md) 
 
-### [Skin.personal](/_personal/bio/Medicine/Anatomy/Skin.personal.md) 
+### #is_/same_as :: [Skin.personal](/_personal/bio/Medicine/Anatomy/Skin.personal.md) 
 
-### [Skin.secret](/_secret/bio/Medicine/Anatomy/Skin.secret.md)
+### #is_/same_as :: [Skin.secret](/_secret/bio/Medicine/Anatomy/Skin.secret.md)
 

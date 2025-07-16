@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_work_featured](/_Standards/schema-org/Relation/has/has_work_featured.md) 
+### #is_/same_as :: [has_work_featured](/_Standards/schema-org/Relation/has/has_work_featured.md) 
 
-### [has_work_featured.public](/_public/schema-org/Relation/has/has_work_featured.public.md) 
+### #is_/same_as :: [has_work_featured.public](/_public/schema-org/Relation/has/has_work_featured.public.md) 
 
-### [has_work_featured.internal](/_internal/schema-org/Relation/has/has_work_featured.internal.md) 
+### #is_/same_as :: [has_work_featured.internal](/_internal/schema-org/Relation/has/has_work_featured.internal.md) 
 
-### [has_work_featured.protect](/_protect/schema-org/Relation/has/has_work_featured.protect.md) 
+### #is_/same_as :: [has_work_featured.protect](/_protect/schema-org/Relation/has/has_work_featured.protect.md) 
 
-### [has_work_featured.private](/_private/schema-org/Relation/has/has_work_featured.private.md) 
+### #is_/same_as :: [has_work_featured.private](/_private/schema-org/Relation/has/has_work_featured.private.md) 
 
-### [has_work_featured.personal](/_personal/schema-org/Relation/has/has_work_featured.personal.md) 
+### #is_/same_as :: [has_work_featured.personal](/_personal/schema-org/Relation/has/has_work_featured.personal.md) 
 
-### [has_work_featured.secret](/_secret/schema-org/Relation/has/has_work_featured.secret.md)
+### #is_/same_as :: [has_work_featured.secret](/_secret/schema-org/Relation/has/has_work_featured.secret.md)
 

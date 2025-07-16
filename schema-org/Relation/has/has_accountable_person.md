@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_accountable_person](/_Standards/schema-org/Relation/has/has_accountable_person.md) 
+### #is_/same_as :: [has_accountable_person](/_Standards/schema-org/Relation/has/has_accountable_person.md) 
 
-### [has_accountable_person.public](/_public/schema-org/Relation/has/has_accountable_person.public.md) 
+### #is_/same_as :: [has_accountable_person.public](/_public/schema-org/Relation/has/has_accountable_person.public.md) 
 
-### [has_accountable_person.internal](/_internal/schema-org/Relation/has/has_accountable_person.internal.md) 
+### #is_/same_as :: [has_accountable_person.internal](/_internal/schema-org/Relation/has/has_accountable_person.internal.md) 
 
-### [has_accountable_person.protect](/_protect/schema-org/Relation/has/has_accountable_person.protect.md) 
+### #is_/same_as :: [has_accountable_person.protect](/_protect/schema-org/Relation/has/has_accountable_person.protect.md) 
 
-### [has_accountable_person.private](/_private/schema-org/Relation/has/has_accountable_person.private.md) 
+### #is_/same_as :: [has_accountable_person.private](/_private/schema-org/Relation/has/has_accountable_person.private.md) 
 
-### [has_accountable_person.personal](/_personal/schema-org/Relation/has/has_accountable_person.personal.md) 
+### #is_/same_as :: [has_accountable_person.personal](/_personal/schema-org/Relation/has/has_accountable_person.personal.md) 
 
-### [has_accountable_person.secret](/_secret/schema-org/Relation/has/has_accountable_person.secret.md)
+### #is_/same_as :: [has_accountable_person.secret](/_secret/schema-org/Relation/has/has_accountable_person.secret.md)
 

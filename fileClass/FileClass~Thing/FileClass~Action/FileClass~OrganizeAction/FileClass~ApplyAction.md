@@ -39,17 +39,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ApplyAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.md) 
+### #is_/same_as :: [FileClass~ApplyAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.md) 
 
-### [FileClass~ApplyAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.public.md) 
+### #is_/same_as :: [FileClass~ApplyAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.public.md) 
 
-### [FileClass~ApplyAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.internal.md) 
+### #is_/same_as :: [FileClass~ApplyAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.internal.md) 
 
-### [FileClass~ApplyAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.protect.md) 
+### #is_/same_as :: [FileClass~ApplyAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.protect.md) 
 
-### [FileClass~ApplyAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.private.md) 
+### #is_/same_as :: [FileClass~ApplyAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.private.md) 
 
-### [FileClass~ApplyAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.personal.md) 
+### #is_/same_as :: [FileClass~ApplyAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.personal.md) 
 
-### [FileClass~ApplyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.secret.md)
+### #is_/same_as :: [FileClass~ApplyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~ApplyAction.secret.md)
 

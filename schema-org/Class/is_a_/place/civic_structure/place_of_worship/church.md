@@ -47,17 +47,17 @@ A church.
 
 ## Confidential Links & Embeds: 
 
-### [church](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.md) 
+### #is_/same_as :: [church](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.md) 
 
-### [church.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.public.md) 
+### #is_/same_as :: [church.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.public.md) 
 
-### [church.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.internal.md) 
+### #is_/same_as :: [church.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.internal.md) 
 
-### [church.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.protect.md) 
+### #is_/same_as :: [church.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.protect.md) 
 
-### [church.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.private.md) 
+### #is_/same_as :: [church.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.private.md) 
 
-### [church.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.personal.md) 
+### #is_/same_as :: [church.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.personal.md) 
 
-### [church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.secret.md)
+### #is_/same_as :: [church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.secret.md)
 

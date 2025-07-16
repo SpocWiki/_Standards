@@ -50,17 +50,17 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 
 ## Confidential Links & Embeds: 
 
-### [Onychiuridae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.md) 
+### #is_/same_as :: [Onychiuridae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.md) 
 
-### [Onychiuridae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.public.md) 
+### #is_/same_as :: [Onychiuridae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.public.md) 
 
-### [Onychiuridae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.internal.md) 
+### #is_/same_as :: [Onychiuridae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.internal.md) 
 
-### [Onychiuridae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.protect.md) 
+### #is_/same_as :: [Onychiuridae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.protect.md) 
 
-### [Onychiuridae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.private.md) 
+### #is_/same_as :: [Onychiuridae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.private.md) 
 
-### [Onychiuridae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.personal.md) 
+### #is_/same_as :: [Onychiuridae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.personal.md) 
 
-### [Onychiuridae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.secret.md)
+### #is_/same_as :: [Onychiuridae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.secret.md)
 

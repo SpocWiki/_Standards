@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_artist](/_Standards/schema-org/Relation/has/has_artist.md) 
+### #is_/same_as :: [has_artist](/_Standards/schema-org/Relation/has/has_artist.md) 
 
-### [has_artist.public](/_public/schema-org/Relation/has/has_artist.public.md) 
+### #is_/same_as :: [has_artist.public](/_public/schema-org/Relation/has/has_artist.public.md) 
 
-### [has_artist.internal](/_internal/schema-org/Relation/has/has_artist.internal.md) 
+### #is_/same_as :: [has_artist.internal](/_internal/schema-org/Relation/has/has_artist.internal.md) 
 
-### [has_artist.protect](/_protect/schema-org/Relation/has/has_artist.protect.md) 
+### #is_/same_as :: [has_artist.protect](/_protect/schema-org/Relation/has/has_artist.protect.md) 
 
-### [has_artist.private](/_private/schema-org/Relation/has/has_artist.private.md) 
+### #is_/same_as :: [has_artist.private](/_private/schema-org/Relation/has/has_artist.private.md) 
 
-### [has_artist.personal](/_personal/schema-org/Relation/has/has_artist.personal.md) 
+### #is_/same_as :: [has_artist.personal](/_personal/schema-org/Relation/has/has_artist.personal.md) 
 
-### [has_artist.secret](/_secret/schema-org/Relation/has/has_artist.secret.md)
+### #is_/same_as :: [has_artist.secret](/_secret/schema-org/Relation/has/has_artist.secret.md)
 

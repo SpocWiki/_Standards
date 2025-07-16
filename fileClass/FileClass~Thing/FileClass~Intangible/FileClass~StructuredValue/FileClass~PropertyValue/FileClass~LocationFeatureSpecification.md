@@ -70,17 +70,17 @@ ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInser
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LocationFeatureSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.md) 
+### #is_/same_as :: [FileClass~LocationFeatureSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.md) 
 
-### [FileClass~LocationFeatureSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.public.md) 
+### #is_/same_as :: [FileClass~LocationFeatureSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.public.md) 
 
-### [FileClass~LocationFeatureSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.internal.md) 
+### #is_/same_as :: [FileClass~LocationFeatureSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.internal.md) 
 
-### [FileClass~LocationFeatureSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.protect.md) 
+### #is_/same_as :: [FileClass~LocationFeatureSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.protect.md) 
 
-### [FileClass~LocationFeatureSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.private.md) 
+### #is_/same_as :: [FileClass~LocationFeatureSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.private.md) 
 
-### [FileClass~LocationFeatureSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.personal.md) 
+### #is_/same_as :: [FileClass~LocationFeatureSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.personal.md) 
 
-### [FileClass~LocationFeatureSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.secret.md)
+### #is_/same_as :: [FileClass~LocationFeatureSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.secret.md)
 

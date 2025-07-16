@@ -47,17 +47,17 @@ An [[OpinionNewsArticle]] is a [[NewsArticle]] that primarily expresses opinions
 
 ## Confidential Links & Embeds: 
 
-### [opinion_news_article](/_Standards/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.md) 
+### #is_/same_as :: [opinion_news_article](/_Standards/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.md) 
 
-### [opinion_news_article.public](/_public/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.public.md) 
+### #is_/same_as :: [opinion_news_article.public](/_public/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.public.md) 
 
-### [opinion_news_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.internal.md) 
+### #is_/same_as :: [opinion_news_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.internal.md) 
 
-### [opinion_news_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.protect.md) 
+### #is_/same_as :: [opinion_news_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.protect.md) 
 
-### [opinion_news_article.private](/_private/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.private.md) 
+### #is_/same_as :: [opinion_news_article.private](/_private/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.private.md) 
 
-### [opinion_news_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.personal.md) 
+### #is_/same_as :: [opinion_news_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.personal.md) 
 
-### [opinion_news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.secret.md)
+### #is_/same_as :: [opinion_news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article/opinion_news_article.secret.md)
 

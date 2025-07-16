@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_risk_factor](/_Standards/schema-org/Relation/has/has_risk_factor.md) 
+### #is_/same_as :: [has_risk_factor](/_Standards/schema-org/Relation/has/has_risk_factor.md) 
 
-### [has_risk_factor.public](/_public/schema-org/Relation/has/has_risk_factor.public.md) 
+### #is_/same_as :: [has_risk_factor.public](/_public/schema-org/Relation/has/has_risk_factor.public.md) 
 
-### [has_risk_factor.internal](/_internal/schema-org/Relation/has/has_risk_factor.internal.md) 
+### #is_/same_as :: [has_risk_factor.internal](/_internal/schema-org/Relation/has/has_risk_factor.internal.md) 
 
-### [has_risk_factor.protect](/_protect/schema-org/Relation/has/has_risk_factor.protect.md) 
+### #is_/same_as :: [has_risk_factor.protect](/_protect/schema-org/Relation/has/has_risk_factor.protect.md) 
 
-### [has_risk_factor.private](/_private/schema-org/Relation/has/has_risk_factor.private.md) 
+### #is_/same_as :: [has_risk_factor.private](/_private/schema-org/Relation/has/has_risk_factor.private.md) 
 
-### [has_risk_factor.personal](/_personal/schema-org/Relation/has/has_risk_factor.personal.md) 
+### #is_/same_as :: [has_risk_factor.personal](/_personal/schema-org/Relation/has/has_risk_factor.personal.md) 
 
-### [has_risk_factor.secret](/_secret/schema-org/Relation/has/has_risk_factor.secret.md)
+### #is_/same_as :: [has_risk_factor.secret](/_secret/schema-org/Relation/has/has_risk_factor.secret.md)
 

@@ -91,17 +91,17 @@ long: 10
 
 ## Confidential Links & Embeds: 
 
-### [Ocean](/_Standards/Earth/Ocean.md) 
+### #is_/same_as :: [Ocean](/_Standards/Earth/Ocean.md) 
 
-### [Ocean.public](/_public/Earth/Ocean.public.md) 
+### #is_/same_as :: [Ocean.public](/_public/Earth/Ocean.public.md) 
 
-### [Ocean.internal](/_internal/Earth/Ocean.internal.md) 
+### #is_/same_as :: [Ocean.internal](/_internal/Earth/Ocean.internal.md) 
 
-### [Ocean.protect](/_protect/Earth/Ocean.protect.md) 
+### #is_/same_as :: [Ocean.protect](/_protect/Earth/Ocean.protect.md) 
 
-### [Ocean.private](/_private/Earth/Ocean.private.md) 
+### #is_/same_as :: [Ocean.private](/_private/Earth/Ocean.private.md) 
 
-### [Ocean.personal](/_personal/Earth/Ocean.personal.md) 
+### #is_/same_as :: [Ocean.personal](/_personal/Earth/Ocean.personal.md) 
 
-### [Ocean.secret](/_secret/Earth/Ocean.secret.md)
+### #is_/same_as :: [Ocean.secret](/_secret/Earth/Ocean.secret.md)
 

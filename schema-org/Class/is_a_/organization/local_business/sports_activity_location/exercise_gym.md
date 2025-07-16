@@ -45,17 +45,17 @@ A gym.
 
 ## Confidential Links & Embeds: 
 
-### [exercise_gym](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.md) 
+### #is_/same_as :: [exercise_gym](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.md) 
 
-### [exercise_gym.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.public.md) 
+### #is_/same_as :: [exercise_gym.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.public.md) 
 
-### [exercise_gym.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.internal.md) 
+### #is_/same_as :: [exercise_gym.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.internal.md) 
 
-### [exercise_gym.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.protect.md) 
+### #is_/same_as :: [exercise_gym.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.protect.md) 
 
-### [exercise_gym.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.private.md) 
+### #is_/same_as :: [exercise_gym.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.private.md) 
 
-### [exercise_gym.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.personal.md) 
+### #is_/same_as :: [exercise_gym.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.personal.md) 
 
-### [exercise_gym.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.secret.md)
+### #is_/same_as :: [exercise_gym.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.secret.md)
 

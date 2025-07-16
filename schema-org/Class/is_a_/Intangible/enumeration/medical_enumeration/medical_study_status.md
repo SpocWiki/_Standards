@@ -43,17 +43,17 @@ The status of a medical study. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### [medical_study_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.md) 
+### #is_/same_as :: [medical_study_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.md) 
 
-### [medical_study_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.public.md) 
+### #is_/same_as :: [medical_study_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.public.md) 
 
-### [medical_study_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.internal.md) 
+### #is_/same_as :: [medical_study_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.internal.md) 
 
-### [medical_study_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.protect.md) 
+### #is_/same_as :: [medical_study_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.protect.md) 
 
-### [medical_study_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.private.md) 
+### #is_/same_as :: [medical_study_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.private.md) 
 
-### [medical_study_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.personal.md) 
+### #is_/same_as :: [medical_study_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.personal.md) 
 
-### [medical_study_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.secret.md)
+### #is_/same_as :: [medical_study_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.secret.md)
 

@@ -119,17 +119,17 @@ CAS_Registry_Number: 7782-49-2
 
 ## Confidential Links & Embeds: 
 
-### [Selenium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.md) 
+### #is_/same_as :: [Selenium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.md) 
 
-### [Selenium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.public.md) 
+### #is_/same_as :: [Selenium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.public.md) 
 
-### [Selenium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.internal.md) 
+### #is_/same_as :: [Selenium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.internal.md) 
 
-### [Selenium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.protect.md) 
+### #is_/same_as :: [Selenium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.protect.md) 
 
-### [Selenium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.private.md) 
+### #is_/same_as :: [Selenium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.private.md) 
 
-### [Selenium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.personal.md) 
+### #is_/same_as :: [Selenium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.personal.md) 
 
-### [Selenium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.secret.md)
+### #is_/same_as :: [Selenium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.secret.md)
 

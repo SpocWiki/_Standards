@@ -45,17 +45,17 @@ A distillery.
 
 ## Confidential Links & Embeds: 
 
-### [distillery](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.md) 
+### #is_/same_as :: [distillery](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.md) 
 
-### [distillery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.public.md) 
+### #is_/same_as :: [distillery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.public.md) 
 
-### [distillery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.internal.md) 
+### #is_/same_as :: [distillery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.internal.md) 
 
-### [distillery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.protect.md) 
+### #is_/same_as :: [distillery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.protect.md) 
 
-### [distillery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.private.md) 
+### #is_/same_as :: [distillery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.private.md) 
 
-### [distillery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.personal.md) 
+### #is_/same_as :: [distillery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.personal.md) 
 
-### [distillery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.secret.md)
+### #is_/same_as :: [distillery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.secret.md)
 

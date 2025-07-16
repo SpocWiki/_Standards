@@ -110,17 +110,17 @@ Unicode_character: 鋨
 
 ## Confidential Links & Embeds: 
 
-### [Osmium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Osmium.md) 
+### #is_/same_as :: [Osmium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Osmium.md) 
 
-### [Osmium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Osmium.public.md) 
+### #is_/same_as :: [Osmium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Osmium.public.md) 
 
-### [Osmium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Osmium.internal.md) 
+### #is_/same_as :: [Osmium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Osmium.internal.md) 
 
-### [Osmium.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Osmium.protect.md) 
+### #is_/same_as :: [Osmium.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Osmium.protect.md) 
 
-### [Osmium.private](/_private/chemic/chemic~Elements/Group-08-Iron/Osmium.private.md) 
+### #is_/same_as :: [Osmium.private](/_private/chemic/chemic~Elements/Group-08-Iron/Osmium.private.md) 
 
-### [Osmium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Osmium.personal.md) 
+### #is_/same_as :: [Osmium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Osmium.personal.md) 
 
-### [Osmium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Osmium.secret.md)
+### #is_/same_as :: [Osmium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Osmium.secret.md)
 

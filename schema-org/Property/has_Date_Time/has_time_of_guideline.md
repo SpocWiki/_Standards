@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_guideline](/_Standards/schema-org/Property/has_Date_Time/has_time_of_guideline.md) 
+### #is_/same_as :: [has_time_of_guideline](/_Standards/schema-org/Property/has_Date_Time/has_time_of_guideline.md) 
 
-### [has_time_of_guideline.public](/_public/schema-org/Property/has_Date_Time/has_time_of_guideline.public.md) 
+### #is_/same_as :: [has_time_of_guideline.public](/_public/schema-org/Property/has_Date_Time/has_time_of_guideline.public.md) 
 
-### [has_time_of_guideline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_guideline.internal.md) 
+### #is_/same_as :: [has_time_of_guideline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_guideline.internal.md) 
 
-### [has_time_of_guideline.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_guideline.protect.md) 
+### #is_/same_as :: [has_time_of_guideline.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_guideline.protect.md) 
 
-### [has_time_of_guideline.private](/_private/schema-org/Property/has_Date_Time/has_time_of_guideline.private.md) 
+### #is_/same_as :: [has_time_of_guideline.private](/_private/schema-org/Property/has_Date_Time/has_time_of_guideline.private.md) 
 
-### [has_time_of_guideline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_guideline.personal.md) 
+### #is_/same_as :: [has_time_of_guideline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_guideline.personal.md) 
 
-### [has_time_of_guideline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_guideline.secret.md)
+### #is_/same_as :: [has_time_of_guideline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_guideline.secret.md)
 

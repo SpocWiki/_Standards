@@ -425,17 +425,17 @@ Capital :: [[Brunei/Bandar_Seri_Begawan]]
 
 ## Confidential Links & Embeds: 
 
-### [Brunei](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei.md) 
+### #is_/same_as :: [Brunei](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei.md) 
 
-### [Brunei.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei.public.md) 
+### #is_/same_as :: [Brunei.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei.public.md) 
 
-### [Brunei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei.internal.md) 
+### #is_/same_as :: [Brunei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei.internal.md) 
 
-### [Brunei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei.protect.md) 
+### #is_/same_as :: [Brunei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei.protect.md) 
 
-### [Brunei.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei.private.md) 
+### #is_/same_as :: [Brunei.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei.private.md) 
 
-### [Brunei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei.personal.md) 
+### #is_/same_as :: [Brunei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei.personal.md) 
 
-### [Brunei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei.secret.md)
+### #is_/same_as :: [Brunei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei.secret.md)
 

@@ -83,22 +83,19 @@ subreddit:
 > [Wikipedia](https://en.wikipedia.org/wiki/Snake) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Snake](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.md) 
+### #is_/same_as :: [Snake](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.md) 
 
-### [Snake.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.public.md) 
+### #is_/same_as :: [Snake.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.public.md) 
 
-### [Snake.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.internal.md) 
+### #is_/same_as :: [Snake.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.internal.md) 
 
-### [Snake.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.protect.md) 
+### #is_/same_as :: [Snake.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.protect.md) 
 
-### [Snake.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.private.md) 
+### #is_/same_as :: [Snake.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.private.md) 
 
-### [Snake.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.personal.md) 
+### #is_/same_as :: [Snake.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.personal.md) 
 
-### [Snake.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.secret.md)
+### #is_/same_as :: [Snake.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.secret.md)
 

@@ -45,17 +45,17 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 ## Confidential Links & Embeds: 
 
-### [how_to_supply](/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply.md) 
+### #is_/same_as :: [how_to_supply](/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply.md) 
 
-### [how_to_supply.public](/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.public.md) 
+### #is_/same_as :: [how_to_supply.public](/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.public.md) 
 
-### [how_to_supply.internal](/_internal/schema-org/Collection/list_item/how_to_item/how_to_supply.internal.md) 
+### #is_/same_as :: [how_to_supply.internal](/_internal/schema-org/Collection/list_item/how_to_item/how_to_supply.internal.md) 
 
-### [how_to_supply.protect](/_protect/schema-org/Collection/list_item/how_to_item/how_to_supply.protect.md) 
+### #is_/same_as :: [how_to_supply.protect](/_protect/schema-org/Collection/list_item/how_to_item/how_to_supply.protect.md) 
 
-### [how_to_supply.private](/_private/schema-org/Collection/list_item/how_to_item/how_to_supply.private.md) 
+### #is_/same_as :: [how_to_supply.private](/_private/schema-org/Collection/list_item/how_to_item/how_to_supply.private.md) 
 
-### [how_to_supply.personal](/_personal/schema-org/Collection/list_item/how_to_item/how_to_supply.personal.md) 
+### #is_/same_as :: [how_to_supply.personal](/_personal/schema-org/Collection/list_item/how_to_item/how_to_supply.personal.md) 
 
-### [how_to_supply.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret.md)
+### #is_/same_as :: [how_to_supply.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret.md)
 

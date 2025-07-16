@@ -45,17 +45,17 @@ Residence type: Single-family home.
 
 ## Confidential Links & Embeds: 
 
-### [single_family_residence](/_Standards/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.md) 
+### #is_/same_as :: [single_family_residence](/_Standards/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.md) 
 
-### [single_family_residence.public](/_public/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.public.md) 
+### #is_/same_as :: [single_family_residence.public](/_public/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.public.md) 
 
-### [single_family_residence.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.internal.md) 
+### #is_/same_as :: [single_family_residence.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.internal.md) 
 
-### [single_family_residence.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.protect.md) 
+### #is_/same_as :: [single_family_residence.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.protect.md) 
 
-### [single_family_residence.private](/_private/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.private.md) 
+### #is_/same_as :: [single_family_residence.private](/_private/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.private.md) 
 
-### [single_family_residence.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.personal.md) 
+### #is_/same_as :: [single_family_residence.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.personal.md) 
 
-### [single_family_residence.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.secret.md)
+### #is_/same_as :: [single_family_residence.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.secret.md)
 

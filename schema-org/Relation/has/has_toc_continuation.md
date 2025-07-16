@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_toc_continuation](/_Standards/schema-org/Relation/has/has_toc_continuation.md) 
+### #is_/same_as :: [has_toc_continuation](/_Standards/schema-org/Relation/has/has_toc_continuation.md) 
 
-### [has_toc_continuation.public](/_public/schema-org/Relation/has/has_toc_continuation.public.md) 
+### #is_/same_as :: [has_toc_continuation.public](/_public/schema-org/Relation/has/has_toc_continuation.public.md) 
 
-### [has_toc_continuation.internal](/_internal/schema-org/Relation/has/has_toc_continuation.internal.md) 
+### #is_/same_as :: [has_toc_continuation.internal](/_internal/schema-org/Relation/has/has_toc_continuation.internal.md) 
 
-### [has_toc_continuation.protect](/_protect/schema-org/Relation/has/has_toc_continuation.protect.md) 
+### #is_/same_as :: [has_toc_continuation.protect](/_protect/schema-org/Relation/has/has_toc_continuation.protect.md) 
 
-### [has_toc_continuation.private](/_private/schema-org/Relation/has/has_toc_continuation.private.md) 
+### #is_/same_as :: [has_toc_continuation.private](/_private/schema-org/Relation/has/has_toc_continuation.private.md) 
 
-### [has_toc_continuation.personal](/_personal/schema-org/Relation/has/has_toc_continuation.personal.md) 
+### #is_/same_as :: [has_toc_continuation.personal](/_personal/schema-org/Relation/has/has_toc_continuation.personal.md) 
 
-### [has_toc_continuation.secret](/_secret/schema-org/Relation/has/has_toc_continuation.secret.md)
+### #is_/same_as :: [has_toc_continuation.secret](/_secret/schema-org/Relation/has/has_toc_continuation.secret.md)
 

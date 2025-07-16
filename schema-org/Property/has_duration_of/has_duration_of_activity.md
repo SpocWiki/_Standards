@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_activity](/_Standards/schema-org/Property/has_duration_of/has_duration_of_activity.md) 
+### #is_/same_as :: [has_duration_of_activity](/_Standards/schema-org/Property/has_duration_of/has_duration_of_activity.md) 
 
-### [has_duration_of_activity.public](/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public.md) 
+### #is_/same_as :: [has_duration_of_activity.public](/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public.md) 
 
-### [has_duration_of_activity.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_activity.internal.md) 
+### #is_/same_as :: [has_duration_of_activity.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_activity.internal.md) 
 
-### [has_duration_of_activity.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_activity.protect.md) 
+### #is_/same_as :: [has_duration_of_activity.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_activity.protect.md) 
 
-### [has_duration_of_activity.private](/_private/schema-org/Property/has_duration_of/has_duration_of_activity.private.md) 
+### #is_/same_as :: [has_duration_of_activity.private](/_private/schema-org/Property/has_duration_of/has_duration_of_activity.private.md) 
 
-### [has_duration_of_activity.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_activity.personal.md) 
+### #is_/same_as :: [has_duration_of_activity.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_activity.personal.md) 
 
-### [has_duration_of_activity.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_activity.secret.md)
+### #is_/same_as :: [has_duration_of_activity.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_activity.secret.md)
 

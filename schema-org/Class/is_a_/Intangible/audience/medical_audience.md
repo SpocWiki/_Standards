@@ -47,17 +47,17 @@ Target audiences for medical web pages.
 
 ## Confidential Links & Embeds: 
 
-### [medical_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/medical_audience.md) 
+### #is_/same_as :: [medical_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/medical_audience.md) 
 
-### [medical_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience.public.md) 
+### #is_/same_as :: [medical_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience.public.md) 
 
-### [medical_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/medical_audience.internal.md) 
+### #is_/same_as :: [medical_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/medical_audience.internal.md) 
 
-### [medical_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/medical_audience.protect.md) 
+### #is_/same_as :: [medical_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/medical_audience.protect.md) 
 
-### [medical_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/medical_audience.private.md) 
+### #is_/same_as :: [medical_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/medical_audience.private.md) 
 
-### [medical_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/medical_audience.personal.md) 
+### #is_/same_as :: [medical_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/medical_audience.personal.md) 
 
-### [medical_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience.secret.md)
+### #is_/same_as :: [medical_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience.secret.md)
 

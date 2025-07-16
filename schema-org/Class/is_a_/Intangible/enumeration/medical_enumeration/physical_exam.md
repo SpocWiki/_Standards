@@ -45,17 +45,17 @@ A type of physical examination of a patient performed by a physician.
 
 ## Confidential Links & Embeds: 
 
-### [physical_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.md) 
+### #is_/same_as :: [physical_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.md) 
 
-### [physical_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.public.md) 
+### #is_/same_as :: [physical_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.public.md) 
 
-### [physical_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.internal.md) 
+### #is_/same_as :: [physical_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.internal.md) 
 
-### [physical_exam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.protect.md) 
+### #is_/same_as :: [physical_exam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.protect.md) 
 
-### [physical_exam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.private.md) 
+### #is_/same_as :: [physical_exam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.private.md) 
 
-### [physical_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.personal.md) 
+### #is_/same_as :: [physical_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.personal.md) 
 
-### [physical_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.secret.md)
+### #is_/same_as :: [physical_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.secret.md)
 

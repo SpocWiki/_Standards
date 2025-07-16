@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_art_medium](/_Standards/schema-org/Property/Texts/has_art_medium.md) 
+### #is_/same_as :: [has_art_medium](/_Standards/schema-org/Property/Texts/has_art_medium.md) 
 
-### [has_art_medium.public](/_public/schema-org/Property/Texts/has_art_medium.public.md) 
+### #is_/same_as :: [has_art_medium.public](/_public/schema-org/Property/Texts/has_art_medium.public.md) 
 
-### [has_art_medium.internal](/_internal/schema-org/Property/Texts/has_art_medium.internal.md) 
+### #is_/same_as :: [has_art_medium.internal](/_internal/schema-org/Property/Texts/has_art_medium.internal.md) 
 
-### [has_art_medium.protect](/_protect/schema-org/Property/Texts/has_art_medium.protect.md) 
+### #is_/same_as :: [has_art_medium.protect](/_protect/schema-org/Property/Texts/has_art_medium.protect.md) 
 
-### [has_art_medium.private](/_private/schema-org/Property/Texts/has_art_medium.private.md) 
+### #is_/same_as :: [has_art_medium.private](/_private/schema-org/Property/Texts/has_art_medium.private.md) 
 
-### [has_art_medium.personal](/_personal/schema-org/Property/Texts/has_art_medium.personal.md) 
+### #is_/same_as :: [has_art_medium.personal](/_personal/schema-org/Property/Texts/has_art_medium.personal.md) 
 
-### [has_art_medium.secret](/_secret/schema-org/Property/Texts/has_art_medium.secret.md)
+### #is_/same_as :: [has_art_medium.secret](/_secret/schema-org/Property/Texts/has_art_medium.secret.md)
 

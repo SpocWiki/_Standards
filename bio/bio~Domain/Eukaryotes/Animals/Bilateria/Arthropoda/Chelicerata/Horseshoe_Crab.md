@@ -87,20 +87,19 @@ and H. W. Shimer (eds.), A. G. Seiler & Co., New York, 1910.
 ![](Horseshoe_Crab/Pseudoniscus_roosevelti.jpg)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Horseshoe_Crab](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.md) 
+### #is_/same_as :: [Horseshoe_Crab](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.md) 
 
-### [Horseshoe_Crab.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.public.md) 
+### #is_/same_as :: [Horseshoe_Crab.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.public.md) 
 
-### [Horseshoe_Crab.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.internal.md) 
+### #is_/same_as :: [Horseshoe_Crab.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.internal.md) 
 
-### [Horseshoe_Crab.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.protect.md) 
+### #is_/same_as :: [Horseshoe_Crab.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.protect.md) 
 
-### [Horseshoe_Crab.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.private.md) 
+### #is_/same_as :: [Horseshoe_Crab.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.private.md) 
 
-### [Horseshoe_Crab.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.personal.md) 
+### #is_/same_as :: [Horseshoe_Crab.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.personal.md) 
 
-### [Horseshoe_Crab.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.secret.md)
+### #is_/same_as :: [Horseshoe_Crab.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.secret.md)
 

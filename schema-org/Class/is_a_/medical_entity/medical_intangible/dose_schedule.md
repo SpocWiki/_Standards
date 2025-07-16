@@ -47,17 +47,17 @@ A specific dosing schedule for a drug or supplement.
 
 ## Confidential Links & Embeds: 
 
-### [dose_schedule](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.md) 
+### #is_/same_as :: [dose_schedule](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.md) 
 
-### [dose_schedule.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.public.md) 
+### #is_/same_as :: [dose_schedule.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.public.md) 
 
-### [dose_schedule.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.internal.md) 
+### #is_/same_as :: [dose_schedule.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.internal.md) 
 
-### [dose_schedule.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.protect.md) 
+### #is_/same_as :: [dose_schedule.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.protect.md) 
 
-### [dose_schedule.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.private.md) 
+### #is_/same_as :: [dose_schedule.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.private.md) 
 
-### [dose_schedule.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.personal.md) 
+### #is_/same_as :: [dose_schedule.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.personal.md) 
 
-### [dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.secret.md)
+### #is_/same_as :: [dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule.secret.md)
 

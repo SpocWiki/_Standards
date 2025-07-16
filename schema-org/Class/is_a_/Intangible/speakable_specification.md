@@ -45,17 +45,17 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 
 ## Confidential Links & Embeds: 
 
-### [speakable_specification](/_Standards/schema-org/Class/is_a_/Intangible/speakable_specification.md) 
+### #is_/same_as :: [speakable_specification](/_Standards/schema-org/Class/is_a_/Intangible/speakable_specification.md) 
 
-### [speakable_specification.public](/_public/schema-org/Class/is_a_/Intangible/speakable_specification.public.md) 
+### #is_/same_as :: [speakable_specification.public](/_public/schema-org/Class/is_a_/Intangible/speakable_specification.public.md) 
 
-### [speakable_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/speakable_specification.internal.md) 
+### #is_/same_as :: [speakable_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/speakable_specification.internal.md) 
 
-### [speakable_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/speakable_specification.protect.md) 
+### #is_/same_as :: [speakable_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/speakable_specification.protect.md) 
 
-### [speakable_specification.private](/_private/schema-org/Class/is_a_/Intangible/speakable_specification.private.md) 
+### #is_/same_as :: [speakable_specification.private](/_private/schema-org/Class/is_a_/Intangible/speakable_specification.private.md) 
 
-### [speakable_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/speakable_specification.personal.md) 
+### #is_/same_as :: [speakable_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/speakable_specification.personal.md) 
 
-### [speakable_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/speakable_specification.secret.md)
+### #is_/same_as :: [speakable_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/speakable_specification.secret.md)
 

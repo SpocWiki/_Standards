@@ -12,21 +12,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Preemption%20(computing)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Preemptive_Multitasking](/_Standards/Technology/IT/Software/Operating_System/Preemptive_Multitasking.md) 
+### #is_/same_as :: [Preemptive_Multitasking](/_Standards/Technology/IT/Software/Operating_System/Preemptive_Multitasking.md) 
 
-### [Preemptive_Multitasking.public](/_public/Technology/IT/Software/Operating_System/Preemptive_Multitasking.public.md) 
+### #is_/same_as :: [Preemptive_Multitasking.public](/_public/Technology/IT/Software/Operating_System/Preemptive_Multitasking.public.md) 
 
-### [Preemptive_Multitasking.internal](/_internal/Technology/IT/Software/Operating_System/Preemptive_Multitasking.internal.md) 
+### #is_/same_as :: [Preemptive_Multitasking.internal](/_internal/Technology/IT/Software/Operating_System/Preemptive_Multitasking.internal.md) 
 
-### [Preemptive_Multitasking.protect](/_protect/Technology/IT/Software/Operating_System/Preemptive_Multitasking.protect.md) 
+### #is_/same_as :: [Preemptive_Multitasking.protect](/_protect/Technology/IT/Software/Operating_System/Preemptive_Multitasking.protect.md) 
 
-### [Preemptive_Multitasking.private](/_private/Technology/IT/Software/Operating_System/Preemptive_Multitasking.private.md) 
+### #is_/same_as :: [Preemptive_Multitasking.private](/_private/Technology/IT/Software/Operating_System/Preemptive_Multitasking.private.md) 
 
-### [Preemptive_Multitasking.personal](/_personal/Technology/IT/Software/Operating_System/Preemptive_Multitasking.personal.md) 
+### #is_/same_as :: [Preemptive_Multitasking.personal](/_personal/Technology/IT/Software/Operating_System/Preemptive_Multitasking.personal.md) 
 
-### [Preemptive_Multitasking.secret](/_secret/Technology/IT/Software/Operating_System/Preemptive_Multitasking.secret.md)
+### #is_/same_as :: [Preemptive_Multitasking.secret](/_secret/Technology/IT/Software/Operating_System/Preemptive_Multitasking.secret.md)
 

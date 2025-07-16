@@ -97,17 +97,17 @@ TrainNumber:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TrainTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.md) 
+### #is_/same_as :: [FileClass~TrainTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.md) 
 
-### [FileClass~TrainTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.public.md) 
+### #is_/same_as :: [FileClass~TrainTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.public.md) 
 
-### [FileClass~TrainTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.internal.md) 
+### #is_/same_as :: [FileClass~TrainTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.internal.md) 
 
-### [FileClass~TrainTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.protect.md) 
+### #is_/same_as :: [FileClass~TrainTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.protect.md) 
 
-### [FileClass~TrainTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.private.md) 
+### #is_/same_as :: [FileClass~TrainTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.private.md) 
 
-### [FileClass~TrainTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.personal.md) 
+### #is_/same_as :: [FileClass~TrainTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.personal.md) 
 
-### [FileClass~TrainTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.secret.md)
+### #is_/same_as :: [FileClass~TrainTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~TrainTrip.secret.md)
 

@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_health_plan](/_Standards/schema-org/Property/has_name/has_id_health_plan.md) 
+### #is_/same_as :: [has_id_health_plan](/_Standards/schema-org/Property/has_name/has_id_health_plan.md) 
 
-### [has_id_health_plan.public](/_public/schema-org/Property/has_name/has_id_health_plan.public.md) 
+### #is_/same_as :: [has_id_health_plan.public](/_public/schema-org/Property/has_name/has_id_health_plan.public.md) 
 
-### [has_id_health_plan.internal](/_internal/schema-org/Property/has_name/has_id_health_plan.internal.md) 
+### #is_/same_as :: [has_id_health_plan.internal](/_internal/schema-org/Property/has_name/has_id_health_plan.internal.md) 
 
-### [has_id_health_plan.protect](/_protect/schema-org/Property/has_name/has_id_health_plan.protect.md) 
+### #is_/same_as :: [has_id_health_plan.protect](/_protect/schema-org/Property/has_name/has_id_health_plan.protect.md) 
 
-### [has_id_health_plan.private](/_private/schema-org/Property/has_name/has_id_health_plan.private.md) 
+### #is_/same_as :: [has_id_health_plan.private](/_private/schema-org/Property/has_name/has_id_health_plan.private.md) 
 
-### [has_id_health_plan.personal](/_personal/schema-org/Property/has_name/has_id_health_plan.personal.md) 
+### #is_/same_as :: [has_id_health_plan.personal](/_personal/schema-org/Property/has_name/has_id_health_plan.personal.md) 
 
-### [has_id_health_plan.secret](/_secret/schema-org/Property/has_name/has_id_health_plan.secret.md)
+### #is_/same_as :: [has_id_health_plan.secret](/_secret/schema-org/Property/has_name/has_id_health_plan.secret.md)
 

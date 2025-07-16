@@ -28,23 +28,19 @@ aliases:
 #has_/examples :: [ [[Vegemite]], [[Marmite]], [[Oxo]], [[Liebig_Cubes]], [[Soy_Sauce]], [[Maggi]], [[Worchester_Sauce]] ] 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Savoriness](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.md) 
+### #is_/same_as :: [Savoriness](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.md) 
 
-### [Savoriness.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.public.md) 
+### #is_/same_as :: [Savoriness.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.public.md) 
 
-### [Savoriness.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.internal.md) 
+### #is_/same_as :: [Savoriness.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.internal.md) 
 
-### [Savoriness.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.protect.md) 
+### #is_/same_as :: [Savoriness.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.protect.md) 
 
-### [Savoriness.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.private.md) 
+### #is_/same_as :: [Savoriness.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.private.md) 
 
-### [Savoriness.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.personal.md) 
+### #is_/same_as :: [Savoriness.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.personal.md) 
 
-### [Savoriness.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.secret.md)
+### #is_/same_as :: [Savoriness.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.secret.md)
 

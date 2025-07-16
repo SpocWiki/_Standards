@@ -54,17 +54,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_provider](/_Standards/schema-org/Relation/has/has_provider.md) 
+### #is_/same_as :: [has_provider](/_Standards/schema-org/Relation/has/has_provider.md) 
 
-### [has_provider.public](/_public/schema-org/Relation/has/has_provider.public.md) 
+### #is_/same_as :: [has_provider.public](/_public/schema-org/Relation/has/has_provider.public.md) 
 
-### [has_provider.internal](/_internal/schema-org/Relation/has/has_provider.internal.md) 
+### #is_/same_as :: [has_provider.internal](/_internal/schema-org/Relation/has/has_provider.internal.md) 
 
-### [has_provider.protect](/_protect/schema-org/Relation/has/has_provider.protect.md) 
+### #is_/same_as :: [has_provider.protect](/_protect/schema-org/Relation/has/has_provider.protect.md) 
 
-### [has_provider.private](/_private/schema-org/Relation/has/has_provider.private.md) 
+### #is_/same_as :: [has_provider.private](/_private/schema-org/Relation/has/has_provider.private.md) 
 
-### [has_provider.personal](/_personal/schema-org/Relation/has/has_provider.personal.md) 
+### #is_/same_as :: [has_provider.personal](/_personal/schema-org/Relation/has/has_provider.personal.md) 
 
-### [has_provider.secret](/_secret/schema-org/Relation/has/has_provider.secret.md)
+### #is_/same_as :: [has_provider.secret](/_secret/schema-org/Relation/has/has_provider.secret.md)
 

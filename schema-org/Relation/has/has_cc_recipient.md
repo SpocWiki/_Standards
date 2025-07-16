@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_cc_recipient](/_Standards/schema-org/Relation/has/has_cc_recipient.md) 
+### #is_/same_as :: [has_cc_recipient](/_Standards/schema-org/Relation/has/has_cc_recipient.md) 
 
-### [has_cc_recipient.public](/_public/schema-org/Relation/has/has_cc_recipient.public.md) 
+### #is_/same_as :: [has_cc_recipient.public](/_public/schema-org/Relation/has/has_cc_recipient.public.md) 
 
-### [has_cc_recipient.internal](/_internal/schema-org/Relation/has/has_cc_recipient.internal.md) 
+### #is_/same_as :: [has_cc_recipient.internal](/_internal/schema-org/Relation/has/has_cc_recipient.internal.md) 
 
-### [has_cc_recipient.protect](/_protect/schema-org/Relation/has/has_cc_recipient.protect.md) 
+### #is_/same_as :: [has_cc_recipient.protect](/_protect/schema-org/Relation/has/has_cc_recipient.protect.md) 
 
-### [has_cc_recipient.private](/_private/schema-org/Relation/has/has_cc_recipient.private.md) 
+### #is_/same_as :: [has_cc_recipient.private](/_private/schema-org/Relation/has/has_cc_recipient.private.md) 
 
-### [has_cc_recipient.personal](/_personal/schema-org/Relation/has/has_cc_recipient.personal.md) 
+### #is_/same_as :: [has_cc_recipient.personal](/_personal/schema-org/Relation/has/has_cc_recipient.personal.md) 
 
-### [has_cc_recipient.secret](/_secret/schema-org/Relation/has/has_cc_recipient.secret.md)
+### #is_/same_as :: [has_cc_recipient.secret](/_secret/schema-org/Relation/has/has_cc_recipient.secret.md)
 

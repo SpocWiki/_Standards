@@ -35,17 +35,17 @@ A volcano, like Fujisan.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Volcano](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.md) 
+### #is_/same_as :: [FileClass~Volcano](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.md) 
 
-### [FileClass~Volcano.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.public.md) 
+### #is_/same_as :: [FileClass~Volcano.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.public.md) 
 
-### [FileClass~Volcano.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.internal.md) 
+### #is_/same_as :: [FileClass~Volcano.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.internal.md) 
 
-### [FileClass~Volcano.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.protect.md) 
+### #is_/same_as :: [FileClass~Volcano.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.protect.md) 
 
-### [FileClass~Volcano.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.private.md) 
+### #is_/same_as :: [FileClass~Volcano.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.private.md) 
 
-### [FileClass~Volcano.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.personal.md) 
+### #is_/same_as :: [FileClass~Volcano.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.personal.md) 
 
-### [FileClass~Volcano.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.secret.md)
+### #is_/same_as :: [FileClass~Volcano.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.secret.md)
 

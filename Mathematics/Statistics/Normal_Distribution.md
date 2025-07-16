@@ -120,17 +120,17 @@ options:
 
 ## Confidential Links & Embeds: 
 
-### [Normal_Distribution](/_Standards/Mathematics/Statistics/Normal_Distribution.md) 
+### #is_/same_as :: [Normal_Distribution](/_Standards/Mathematics/Statistics/Normal_Distribution.md) 
 
-### [Normal_Distribution.public](/_public/Mathematics/Statistics/Normal_Distribution.public.md) 
+### #is_/same_as :: [Normal_Distribution.public](/_public/Mathematics/Statistics/Normal_Distribution.public.md) 
 
-### [Normal_Distribution.internal](/_internal/Mathematics/Statistics/Normal_Distribution.internal.md) 
+### #is_/same_as :: [Normal_Distribution.internal](/_internal/Mathematics/Statistics/Normal_Distribution.internal.md) 
 
-### [Normal_Distribution.protect](/_protect/Mathematics/Statistics/Normal_Distribution.protect.md) 
+### #is_/same_as :: [Normal_Distribution.protect](/_protect/Mathematics/Statistics/Normal_Distribution.protect.md) 
 
-### [Normal_Distribution.private](/_private/Mathematics/Statistics/Normal_Distribution.private.md) 
+### #is_/same_as :: [Normal_Distribution.private](/_private/Mathematics/Statistics/Normal_Distribution.private.md) 
 
-### [Normal_Distribution.personal](/_personal/Mathematics/Statistics/Normal_Distribution.personal.md) 
+### #is_/same_as :: [Normal_Distribution.personal](/_personal/Mathematics/Statistics/Normal_Distribution.personal.md) 
 
-### [Normal_Distribution.secret](/_secret/Mathematics/Statistics/Normal_Distribution.secret.md)
+### #is_/same_as :: [Normal_Distribution.secret](/_secret/Mathematics/Statistics/Normal_Distribution.secret.md)
 

@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_masthead](/_Standards/schema-org/Relation/has/has_masthead.md) 
+### #is_/same_as :: [has_masthead](/_Standards/schema-org/Relation/has/has_masthead.md) 
 
-### [has_masthead.public](/_public/schema-org/Relation/has/has_masthead.public.md) 
+### #is_/same_as :: [has_masthead.public](/_public/schema-org/Relation/has/has_masthead.public.md) 
 
-### [has_masthead.internal](/_internal/schema-org/Relation/has/has_masthead.internal.md) 
+### #is_/same_as :: [has_masthead.internal](/_internal/schema-org/Relation/has/has_masthead.internal.md) 
 
-### [has_masthead.protect](/_protect/schema-org/Relation/has/has_masthead.protect.md) 
+### #is_/same_as :: [has_masthead.protect](/_protect/schema-org/Relation/has/has_masthead.protect.md) 
 
-### [has_masthead.private](/_private/schema-org/Relation/has/has_masthead.private.md) 
+### #is_/same_as :: [has_masthead.private](/_private/schema-org/Relation/has/has_masthead.private.md) 
 
-### [has_masthead.personal](/_personal/schema-org/Relation/has/has_masthead.personal.md) 
+### #is_/same_as :: [has_masthead.personal](/_personal/schema-org/Relation/has/has_masthead.personal.md) 
 
-### [has_masthead.secret](/_secret/schema-org/Relation/has/has_masthead.secret.md)
+### #is_/same_as :: [has_masthead.secret](/_secret/schema-org/Relation/has/has_masthead.secret.md)
 

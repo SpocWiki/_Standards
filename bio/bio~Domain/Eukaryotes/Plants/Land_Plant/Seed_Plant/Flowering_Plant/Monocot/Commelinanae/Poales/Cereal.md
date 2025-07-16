@@ -105,22 +105,19 @@ Please note that "Triticale" is a hybrid of wheat (_Triticum_) and rye (_Secale_
 #### Maize (_Zea mays_)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Cereal](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.md) 
+### #is_/same_as :: [Cereal](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.md) 
 
-### [Cereal.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.public.md) 
+### #is_/same_as :: [Cereal.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.public.md) 
 
-### [Cereal.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.internal.md) 
+### #is_/same_as :: [Cereal.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.internal.md) 
 
-### [Cereal.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.protect.md) 
+### #is_/same_as :: [Cereal.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.protect.md) 
 
-### [Cereal.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.private.md) 
+### #is_/same_as :: [Cereal.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.private.md) 
 
-### [Cereal.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.personal.md) 
+### #is_/same_as :: [Cereal.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.personal.md) 
 
-### [Cereal.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.secret.md)
+### #is_/same_as :: [Cereal.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal.secret.md)
 

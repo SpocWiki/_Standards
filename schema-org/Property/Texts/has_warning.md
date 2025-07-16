@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_warning](/_Standards/schema-org/Property/Texts/has_warning.md) 
+### #is_/same_as :: [has_warning](/_Standards/schema-org/Property/Texts/has_warning.md) 
 
-### [has_warning.public](/_public/schema-org/Property/Texts/has_warning.public.md) 
+### #is_/same_as :: [has_warning.public](/_public/schema-org/Property/Texts/has_warning.public.md) 
 
-### [has_warning.internal](/_internal/schema-org/Property/Texts/has_warning.internal.md) 
+### #is_/same_as :: [has_warning.internal](/_internal/schema-org/Property/Texts/has_warning.internal.md) 
 
-### [has_warning.protect](/_protect/schema-org/Property/Texts/has_warning.protect.md) 
+### #is_/same_as :: [has_warning.protect](/_protect/schema-org/Property/Texts/has_warning.protect.md) 
 
-### [has_warning.private](/_private/schema-org/Property/Texts/has_warning.private.md) 
+### #is_/same_as :: [has_warning.private](/_private/schema-org/Property/Texts/has_warning.private.md) 
 
-### [has_warning.personal](/_personal/schema-org/Property/Texts/has_warning.personal.md) 
+### #is_/same_as :: [has_warning.personal](/_personal/schema-org/Property/Texts/has_warning.personal.md) 
 
-### [has_warning.secret](/_secret/schema-org/Property/Texts/has_warning.secret.md)
+### #is_/same_as :: [has_warning.secret](/_secret/schema-org/Property/Texts/has_warning.secret.md)
 

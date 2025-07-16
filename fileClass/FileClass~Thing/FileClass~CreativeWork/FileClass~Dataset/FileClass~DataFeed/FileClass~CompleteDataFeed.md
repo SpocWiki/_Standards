@@ -36,17 +36,17 @@ A [[CompleteDataFeed]] is a [[DataFeed]] whose standard representation includes 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CompleteDataFeed](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.md) 
+### #is_/same_as :: [FileClass~CompleteDataFeed](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.md) 
 
-### [FileClass~CompleteDataFeed.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.public.md) 
+### #is_/same_as :: [FileClass~CompleteDataFeed.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.public.md) 
 
-### [FileClass~CompleteDataFeed.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.internal.md) 
+### #is_/same_as :: [FileClass~CompleteDataFeed.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.internal.md) 
 
-### [FileClass~CompleteDataFeed.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.protect.md) 
+### #is_/same_as :: [FileClass~CompleteDataFeed.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.protect.md) 
 
-### [FileClass~CompleteDataFeed.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.private.md) 
+### #is_/same_as :: [FileClass~CompleteDataFeed.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.private.md) 
 
-### [FileClass~CompleteDataFeed.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.personal.md) 
+### #is_/same_as :: [FileClass~CompleteDataFeed.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.personal.md) 
 
-### [FileClass~CompleteDataFeed.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.secret.md)
+### #is_/same_as :: [FileClass~CompleteDataFeed.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.secret.md)
 

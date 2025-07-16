@@ -174,17 +174,17 @@ Common_Procurement_Vocabulary_code: 09341000
 
 ## Confidential Links & Embeds: 
 
-### [Uranium](/_Standards/chemic/chemic~Elements/Actinide-Group/Uranium.md) 
+### #is_/same_as :: [Uranium](/_Standards/chemic/chemic~Elements/Actinide-Group/Uranium.md) 
 
-### [Uranium.public](/_public/chemic/chemic~Elements/Actinide-Group/Uranium.public.md) 
+### #is_/same_as :: [Uranium.public](/_public/chemic/chemic~Elements/Actinide-Group/Uranium.public.md) 
 
-### [Uranium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Uranium.internal.md) 
+### #is_/same_as :: [Uranium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Uranium.internal.md) 
 
-### [Uranium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Uranium.protect.md) 
+### #is_/same_as :: [Uranium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Uranium.protect.md) 
 
-### [Uranium.private](/_private/chemic/chemic~Elements/Actinide-Group/Uranium.private.md) 
+### #is_/same_as :: [Uranium.private](/_private/chemic/chemic~Elements/Actinide-Group/Uranium.private.md) 
 
-### [Uranium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Uranium.personal.md) 
+### #is_/same_as :: [Uranium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Uranium.personal.md) 
 
-### [Uranium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Uranium.secret.md)
+### #is_/same_as :: [Uranium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Uranium.secret.md)
 

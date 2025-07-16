@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Writer](/_Standards/bio/People/Writer.md) 
+### #is_/same_as :: [Writer](/_Standards/bio/People/Writer.md) 
 
-### [Writer.public](/_public/bio/People/Writer.public.md) 
+### #is_/same_as :: [Writer.public](/_public/bio/People/Writer.public.md) 
 
-### [Writer.internal](/_internal/bio/People/Writer.internal.md) 
+### #is_/same_as :: [Writer.internal](/_internal/bio/People/Writer.internal.md) 
 
-### [Writer.protect](/_protect/bio/People/Writer.protect.md) 
+### #is_/same_as :: [Writer.protect](/_protect/bio/People/Writer.protect.md) 
 
-### [Writer.private](/_private/bio/People/Writer.private.md) 
+### #is_/same_as :: [Writer.private](/_private/bio/People/Writer.private.md) 
 
-### [Writer.personal](/_personal/bio/People/Writer.personal.md) 
+### #is_/same_as :: [Writer.personal](/_personal/bio/People/Writer.personal.md) 
 
-### [Writer.secret](/_secret/bio/People/Writer.secret.md)
+### #is_/same_as :: [Writer.secret](/_secret/bio/People/Writer.secret.md)
 

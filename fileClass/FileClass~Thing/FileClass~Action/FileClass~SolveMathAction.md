@@ -45,17 +45,17 @@ EduQuestionType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SolveMathAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.md) 
+### #is_/same_as :: [FileClass~SolveMathAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.md) 
 
-### [FileClass~SolveMathAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.public.md) 
+### #is_/same_as :: [FileClass~SolveMathAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.public.md) 
 
-### [FileClass~SolveMathAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.internal.md) 
+### #is_/same_as :: [FileClass~SolveMathAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.internal.md) 
 
-### [FileClass~SolveMathAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.protect.md) 
+### #is_/same_as :: [FileClass~SolveMathAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.protect.md) 
 
-### [FileClass~SolveMathAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.private.md) 
+### #is_/same_as :: [FileClass~SolveMathAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.private.md) 
 
-### [FileClass~SolveMathAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.personal.md) 
+### #is_/same_as :: [FileClass~SolveMathAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.personal.md) 
 
-### [FileClass~SolveMathAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.secret.md)
+### #is_/same_as :: [FileClass~SolveMathAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.secret.md)
 

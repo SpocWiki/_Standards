@@ -45,17 +45,17 @@ A service provided by a government organization, e.g. food stamps, veterans bene
 
 ## Confidential Links & Embeds: 
 
-### [government_service](/_Standards/schema-org/Class/is_a_/Intangible/service/government_service.md) 
+### #is_/same_as :: [government_service](/_Standards/schema-org/Class/is_a_/Intangible/service/government_service.md) 
 
-### [government_service.public](/_public/schema-org/Class/is_a_/Intangible/service/government_service.public.md) 
+### #is_/same_as :: [government_service.public](/_public/schema-org/Class/is_a_/Intangible/service/government_service.public.md) 
 
-### [government_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/government_service.internal.md) 
+### #is_/same_as :: [government_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/government_service.internal.md) 
 
-### [government_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/government_service.protect.md) 
+### #is_/same_as :: [government_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/government_service.protect.md) 
 
-### [government_service.private](/_private/schema-org/Class/is_a_/Intangible/service/government_service.private.md) 
+### #is_/same_as :: [government_service.private](/_private/schema-org/Class/is_a_/Intangible/service/government_service.private.md) 
 
-### [government_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/government_service.personal.md) 
+### #is_/same_as :: [government_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/government_service.personal.md) 
 
-### [government_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/government_service.secret.md)
+### #is_/same_as :: [government_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/government_service.secret.md)
 

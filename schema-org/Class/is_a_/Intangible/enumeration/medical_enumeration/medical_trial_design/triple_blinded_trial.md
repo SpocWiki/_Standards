@@ -47,17 +47,17 @@ A trial design in which neither the researcher, the person administering the the
 
 ## Confidential Links & Embeds: 
 
-### [triple_blinded_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.md) 
+### #is_/same_as :: [triple_blinded_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.md) 
 
-### [triple_blinded_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.public.md) 
+### #is_/same_as :: [triple_blinded_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.public.md) 
 
-### [triple_blinded_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.internal.md) 
+### #is_/same_as :: [triple_blinded_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.internal.md) 
 
-### [triple_blinded_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.protect.md) 
+### #is_/same_as :: [triple_blinded_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.protect.md) 
 
-### [triple_blinded_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.private.md) 
+### #is_/same_as :: [triple_blinded_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.private.md) 
 
-### [triple_blinded_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.personal.md) 
+### #is_/same_as :: [triple_blinded_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.personal.md) 
 
-### [triple_blinded_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.secret.md)
+### #is_/same_as :: [triple_blinded_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.secret.md)
 

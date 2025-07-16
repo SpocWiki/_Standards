@@ -74,21 +74,19 @@ Body Part            tree
 Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cembroides](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.md) 
+### #is_/same_as :: [Cembroides](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.md) 
 
-### [Cembroides.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.public.md) 
+### #is_/same_as :: [Cembroides.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.public.md) 
 
-### [Cembroides.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.internal.md) 
+### #is_/same_as :: [Cembroides.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.internal.md) 
 
-### [Cembroides.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.protect.md) 
+### #is_/same_as :: [Cembroides.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.protect.md) 
 
-### [Cembroides.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.private.md) 
+### #is_/same_as :: [Cembroides.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.private.md) 
 
-### [Cembroides.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.personal.md) 
+### #is_/same_as :: [Cembroides.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.personal.md) 
 
-### [Cembroides.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.secret.md)
+### #is_/same_as :: [Cembroides.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides.secret.md)
 

@@ -31,24 +31,19 @@ Kartoffeln,
 Linsen, Gemüse 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Satiation](/_Standards/bio/Metabolism/Digestion/Satiation.md) 
+### #is_/same_as :: [Satiation](/_Standards/bio/Metabolism/Digestion/Satiation.md) 
 
-### [Satiation.public](/_public/bio/Metabolism/Digestion/Satiation.public.md) 
+### #is_/same_as :: [Satiation.public](/_public/bio/Metabolism/Digestion/Satiation.public.md) 
 
-### [Satiation.internal](/_internal/bio/Metabolism/Digestion/Satiation.internal.md) 
+### #is_/same_as :: [Satiation.internal](/_internal/bio/Metabolism/Digestion/Satiation.internal.md) 
 
-### [Satiation.protect](/_protect/bio/Metabolism/Digestion/Satiation.protect.md) 
+### #is_/same_as :: [Satiation.protect](/_protect/bio/Metabolism/Digestion/Satiation.protect.md) 
 
-### [Satiation.private](/_private/bio/Metabolism/Digestion/Satiation.private.md) 
+### #is_/same_as :: [Satiation.private](/_private/bio/Metabolism/Digestion/Satiation.private.md) 
 
-### [Satiation.personal](/_personal/bio/Metabolism/Digestion/Satiation.personal.md) 
+### #is_/same_as :: [Satiation.personal](/_personal/bio/Metabolism/Digestion/Satiation.personal.md) 
 
-### [Satiation.secret](/_secret/bio/Metabolism/Digestion/Satiation.secret.md)
+### #is_/same_as :: [Satiation.secret](/_secret/bio/Metabolism/Digestion/Satiation.secret.md)
 

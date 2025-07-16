@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Kleisli,Heinrich](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.md) 
+### #is_/same_as :: [Kleisli,Heinrich](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.md) 
 
-### [Kleisli,Heinrich.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.public.md) 
+### #is_/same_as :: [Kleisli,Heinrich.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.public.md) 
 
-### [Kleisli,Heinrich.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.internal.md) 
+### #is_/same_as :: [Kleisli,Heinrich.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.internal.md) 
 
-### [Kleisli,Heinrich.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.protect.md) 
+### #is_/same_as :: [Kleisli,Heinrich.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.protect.md) 
 
-### [Kleisli,Heinrich.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.private.md) 
+### #is_/same_as :: [Kleisli,Heinrich.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.private.md) 
 
-### [Kleisli,Heinrich.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.personal.md) 
+### #is_/same_as :: [Kleisli,Heinrich.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.personal.md) 
 
-### [Kleisli,Heinrich.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.secret.md)
+### #is_/same_as :: [Kleisli,Heinrich.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Kleisli,Heinrich.secret.md)
 

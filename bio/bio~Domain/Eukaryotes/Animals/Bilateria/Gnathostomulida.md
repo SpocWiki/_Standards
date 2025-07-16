@@ -64,22 +64,19 @@ Drawing by Stritch. Copyright ©
 Copyright ::   © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gnathostomulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.md) 
+### #is_/same_as :: [Gnathostomulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.md) 
 
-### [Gnathostomulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.public.md) 
+### #is_/same_as :: [Gnathostomulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.public.md) 
 
-### [Gnathostomulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.internal.md) 
+### #is_/same_as :: [Gnathostomulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.internal.md) 
 
-### [Gnathostomulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.protect.md) 
+### #is_/same_as :: [Gnathostomulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.protect.md) 
 
-### [Gnathostomulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.private.md) 
+### #is_/same_as :: [Gnathostomulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.private.md) 
 
-### [Gnathostomulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.personal.md) 
+### #is_/same_as :: [Gnathostomulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.personal.md) 
 
-### [Gnathostomulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.secret.md)
+### #is_/same_as :: [Gnathostomulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gnathostomulida.secret.md)
 

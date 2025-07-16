@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_player_type](/_Standards/schema-org/Property/Texts/has_player_type.md) 
+### #is_/same_as :: [has_player_type](/_Standards/schema-org/Property/Texts/has_player_type.md) 
 
-### [has_player_type.public](/_public/schema-org/Property/Texts/has_player_type.public.md) 
+### #is_/same_as :: [has_player_type.public](/_public/schema-org/Property/Texts/has_player_type.public.md) 
 
-### [has_player_type.internal](/_internal/schema-org/Property/Texts/has_player_type.internal.md) 
+### #is_/same_as :: [has_player_type.internal](/_internal/schema-org/Property/Texts/has_player_type.internal.md) 
 
-### [has_player_type.protect](/_protect/schema-org/Property/Texts/has_player_type.protect.md) 
+### #is_/same_as :: [has_player_type.protect](/_protect/schema-org/Property/Texts/has_player_type.protect.md) 
 
-### [has_player_type.private](/_private/schema-org/Property/Texts/has_player_type.private.md) 
+### #is_/same_as :: [has_player_type.private](/_private/schema-org/Property/Texts/has_player_type.private.md) 
 
-### [has_player_type.personal](/_personal/schema-org/Property/Texts/has_player_type.personal.md) 
+### #is_/same_as :: [has_player_type.personal](/_personal/schema-org/Property/Texts/has_player_type.personal.md) 
 
-### [has_player_type.secret](/_secret/schema-org/Property/Texts/has_player_type.secret.md)
+### #is_/same_as :: [has_player_type.secret](/_secret/schema-org/Property/Texts/has_player_type.secret.md)
 

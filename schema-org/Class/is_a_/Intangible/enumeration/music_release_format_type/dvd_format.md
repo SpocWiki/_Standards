@@ -47,17 +47,17 @@ DVDFormat.
 
 ## Confidential Links & Embeds: 
 
-### [dvd_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.md) 
+### #is_/same_as :: [dvd_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.md) 
 
-### [dvd_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.public.md) 
+### #is_/same_as :: [dvd_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.public.md) 
 
-### [dvd_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.internal.md) 
+### #is_/same_as :: [dvd_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.internal.md) 
 
-### [dvd_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.protect.md) 
+### #is_/same_as :: [dvd_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.protect.md) 
 
-### [dvd_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.private.md) 
+### #is_/same_as :: [dvd_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.private.md) 
 
-### [dvd_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.personal.md) 
+### #is_/same_as :: [dvd_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.personal.md) 
 
-### [dvd_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.secret.md)
+### #is_/same_as :: [dvd_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.secret.md)
 

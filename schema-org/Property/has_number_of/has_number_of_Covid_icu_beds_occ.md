@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_icu_beds_occ](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.md) 
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.md) 
 
-### [has_number_of_Covid_icu_beds_occ.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.public.md) 
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.public.md) 
 
-### [has_number_of_Covid_icu_beds_occ.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.internal.md) 
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.internal.md) 
 
-### [has_number_of_Covid_icu_beds_occ.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.protect.md) 
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.protect.md) 
 
-### [has_number_of_Covid_icu_beds_occ.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.private.md) 
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.private.md) 
 
-### [has_number_of_Covid_icu_beds_occ.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.personal.md) 
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.personal.md) 
 
-### [has_number_of_Covid_icu_beds_occ.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.secret.md)
+### #is_/same_as :: [has_number_of_Covid_icu_beds_occ.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.secret.md)
 

@@ -114,22 +114,19 @@ IEV_number:
 > [Wikipedia](https://en.wikipedia.org/wiki/Information)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Information](/_Standards/bio/People/Philosopher/Epistemology/Information.md) 
+### #is_/same_as :: [Information](/_Standards/bio/People/Philosopher/Epistemology/Information.md) 
 
-### [Information.public](/_public/bio/People/Philosopher/Epistemology/Information.public.md) 
+### #is_/same_as :: [Information.public](/_public/bio/People/Philosopher/Epistemology/Information.public.md) 
 
-### [Information.internal](/_internal/bio/People/Philosopher/Epistemology/Information.internal.md) 
+### #is_/same_as :: [Information.internal](/_internal/bio/People/Philosopher/Epistemology/Information.internal.md) 
 
-### [Information.protect](/_protect/bio/People/Philosopher/Epistemology/Information.protect.md) 
+### #is_/same_as :: [Information.protect](/_protect/bio/People/Philosopher/Epistemology/Information.protect.md) 
 
-### [Information.private](/_private/bio/People/Philosopher/Epistemology/Information.private.md) 
+### #is_/same_as :: [Information.private](/_private/bio/People/Philosopher/Epistemology/Information.private.md) 
 
-### [Information.personal](/_personal/bio/People/Philosopher/Epistemology/Information.personal.md) 
+### #is_/same_as :: [Information.personal](/_personal/bio/People/Philosopher/Epistemology/Information.personal.md) 
 
-### [Information.secret](/_secret/bio/People/Philosopher/Epistemology/Information.secret.md)
+### #is_/same_as :: [Information.secret](/_secret/bio/People/Philosopher/Epistemology/Information.secret.md)
 

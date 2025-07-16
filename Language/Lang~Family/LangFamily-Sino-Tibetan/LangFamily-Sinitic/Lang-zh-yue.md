@@ -63,17 +63,17 @@ has_id_wikidata: Q7033959
 
 ## Confidential Links & Embeds: 
 
-### [Lang-zh-yue](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.md) 
+### #is_/same_as :: [Lang-zh-yue](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.md) 
 
-### [Lang-zh-yue.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.public.md) 
+### #is_/same_as :: [Lang-zh-yue.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.public.md) 
 
-### [Lang-zh-yue.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.internal.md) 
+### #is_/same_as :: [Lang-zh-yue.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.internal.md) 
 
-### [Lang-zh-yue.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.protect.md) 
+### #is_/same_as :: [Lang-zh-yue.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.protect.md) 
 
-### [Lang-zh-yue.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.private.md) 
+### #is_/same_as :: [Lang-zh-yue.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.private.md) 
 
-### [Lang-zh-yue.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.personal.md) 
+### #is_/same_as :: [Lang-zh-yue.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.personal.md) 
 
-### [Lang-zh-yue.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret.md)
+### #is_/same_as :: [Lang-zh-yue.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret.md)
 

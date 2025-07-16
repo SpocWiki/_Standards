@@ -35,17 +35,17 @@ A bus stop.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusStop](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.md) 
+### #is_/same_as :: [FileClass~BusStop](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.md) 
 
-### [FileClass~BusStop.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.public.md) 
+### #is_/same_as :: [FileClass~BusStop.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.public.md) 
 
-### [FileClass~BusStop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.internal.md) 
+### #is_/same_as :: [FileClass~BusStop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.internal.md) 
 
-### [FileClass~BusStop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.protect.md) 
+### #is_/same_as :: [FileClass~BusStop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.protect.md) 
 
-### [FileClass~BusStop.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.private.md) 
+### #is_/same_as :: [FileClass~BusStop.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.private.md) 
 
-### [FileClass~BusStop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.personal.md) 
+### #is_/same_as :: [FileClass~BusStop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.personal.md) 
 
-### [FileClass~BusStop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.secret.md)
+### #is_/same_as :: [FileClass~BusStop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.secret.md)
 

@@ -34,17 +34,17 @@ A bike store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BikeStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.md) 
+### #is_/same_as :: [FileClass~BikeStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.md) 
 
-### [FileClass~BikeStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.public.md) 
+### #is_/same_as :: [FileClass~BikeStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.public.md) 
 
-### [FileClass~BikeStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.internal.md) 
+### #is_/same_as :: [FileClass~BikeStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.internal.md) 
 
-### [FileClass~BikeStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.protect.md) 
+### #is_/same_as :: [FileClass~BikeStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.protect.md) 
 
-### [FileClass~BikeStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.private.md) 
+### #is_/same_as :: [FileClass~BikeStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.private.md) 
 
-### [FileClass~BikeStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.personal.md) 
+### #is_/same_as :: [FileClass~BikeStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.personal.md) 
 
-### [FileClass~BikeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.secret.md)
+### #is_/same_as :: [FileClass~BikeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.secret.md)
 

@@ -149,19 +149,24 @@ has_time_started: Date (and Time) of Creation/Birth
 has_time_destroyed: Date (and Time) of Destruction/Death/Dissolution/Demise 
 
 
+
+
+
+
+
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/ReadMe.md) 
+### #is_/same_as :: [ReadMe](/_Standards/ReadMe.md) 
 
-### [ReadMe.public](/_public/ReadMe.public.md) 
+### #is_/same_as :: [ReadMe.public](/_public/ReadMe.public.md) 
 
-### [ReadMe.internal](/_internal/ReadMe.internal.md) 
+### #is_/same_as :: [ReadMe.internal](/_internal/ReadMe.internal.md) 
 
-### [ReadMe.protect](/_protect/ReadMe.protect.md) 
+### #is_/same_as :: [ReadMe.protect](/_protect/ReadMe.protect.md) 
 
-### [ReadMe.private](/_private/ReadMe.private.md) 
+### #is_/same_as :: [ReadMe.private](/_private/ReadMe.private.md) 
 
-### [ReadMe.personal](/_personal/ReadMe.personal.md) 
+### #is_/same_as :: [ReadMe.personal](/_personal/ReadMe.personal.md) 
 
-### [ReadMe.secret](/_secret/ReadMe.secret.md)
+### #is_/same_as :: [ReadMe.secret](/_secret/ReadMe.secret.md)
 

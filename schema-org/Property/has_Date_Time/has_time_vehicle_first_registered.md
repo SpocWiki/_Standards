@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_vehicle_first_registered](/_Standards/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.md) 
+### #is_/same_as :: [has_time_vehicle_first_registered](/_Standards/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.md) 
 
-### [has_time_vehicle_first_registered.public](/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.public.md) 
+### #is_/same_as :: [has_time_vehicle_first_registered.public](/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.public.md) 
 
-### [has_time_vehicle_first_registered.internal](/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal.md) 
+### #is_/same_as :: [has_time_vehicle_first_registered.internal](/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal.md) 
 
-### [has_time_vehicle_first_registered.protect](/_protect/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.protect.md) 
+### #is_/same_as :: [has_time_vehicle_first_registered.protect](/_protect/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.protect.md) 
 
-### [has_time_vehicle_first_registered.private](/_private/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.private.md) 
+### #is_/same_as :: [has_time_vehicle_first_registered.private](/_private/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.private.md) 
 
-### [has_time_vehicle_first_registered.personal](/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal.md) 
+### #is_/same_as :: [has_time_vehicle_first_registered.personal](/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal.md) 
 
-### [has_time_vehicle_first_registered.secret](/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret.md)
+### #is_/same_as :: [has_time_vehicle_first_registered.secret](/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret.md)
 

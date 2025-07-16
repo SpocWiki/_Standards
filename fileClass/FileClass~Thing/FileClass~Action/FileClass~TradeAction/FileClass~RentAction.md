@@ -57,17 +57,17 @@ RealEstateAgent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RentAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.md) 
+### #is_/same_as :: [FileClass~RentAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.md) 
 
-### [FileClass~RentAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.public.md) 
+### #is_/same_as :: [FileClass~RentAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.public.md) 
 
-### [FileClass~RentAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.internal.md) 
+### #is_/same_as :: [FileClass~RentAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.internal.md) 
 
-### [FileClass~RentAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.protect.md) 
+### #is_/same_as :: [FileClass~RentAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.protect.md) 
 
-### [FileClass~RentAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.private.md) 
+### #is_/same_as :: [FileClass~RentAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.private.md) 
 
-### [FileClass~RentAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.personal.md) 
+### #is_/same_as :: [FileClass~RentAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.personal.md) 
 
-### [FileClass~RentAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.secret.md)
+### #is_/same_as :: [FileClass~RentAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.secret.md)
 

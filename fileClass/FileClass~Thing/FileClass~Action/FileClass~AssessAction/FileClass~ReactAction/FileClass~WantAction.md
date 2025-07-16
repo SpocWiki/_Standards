@@ -35,17 +35,17 @@ The act of expressing a desire about the object. An agent wants an object.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WantAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.md) 
+### #is_/same_as :: [FileClass~WantAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.md) 
 
-### [FileClass~WantAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.public.md) 
+### #is_/same_as :: [FileClass~WantAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.public.md) 
 
-### [FileClass~WantAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.internal.md) 
+### #is_/same_as :: [FileClass~WantAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.internal.md) 
 
-### [FileClass~WantAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.protect.md) 
+### #is_/same_as :: [FileClass~WantAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.protect.md) 
 
-### [FileClass~WantAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.private.md) 
+### #is_/same_as :: [FileClass~WantAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.private.md) 
 
-### [FileClass~WantAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.personal.md) 
+### #is_/same_as :: [FileClass~WantAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.personal.md) 
 
-### [FileClass~WantAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.secret.md)
+### #is_/same_as :: [FileClass~WantAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.secret.md)
 

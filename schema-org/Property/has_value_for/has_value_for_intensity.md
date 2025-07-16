@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_intensity](/_Standards/schema-org/Property/has_value_for/has_value_for_intensity.md) 
+### #is_/same_as :: [has_value_for_intensity](/_Standards/schema-org/Property/has_value_for/has_value_for_intensity.md) 
 
-### [has_value_for_intensity.public](/_public/schema-org/Property/has_value_for/has_value_for_intensity.public.md) 
+### #is_/same_as :: [has_value_for_intensity.public](/_public/schema-org/Property/has_value_for/has_value_for_intensity.public.md) 
 
-### [has_value_for_intensity.internal](/_internal/schema-org/Property/has_value_for/has_value_for_intensity.internal.md) 
+### #is_/same_as :: [has_value_for_intensity.internal](/_internal/schema-org/Property/has_value_for/has_value_for_intensity.internal.md) 
 
-### [has_value_for_intensity.protect](/_protect/schema-org/Property/has_value_for/has_value_for_intensity.protect.md) 
+### #is_/same_as :: [has_value_for_intensity.protect](/_protect/schema-org/Property/has_value_for/has_value_for_intensity.protect.md) 
 
-### [has_value_for_intensity.private](/_private/schema-org/Property/has_value_for/has_value_for_intensity.private.md) 
+### #is_/same_as :: [has_value_for_intensity.private](/_private/schema-org/Property/has_value_for/has_value_for_intensity.private.md) 
 
-### [has_value_for_intensity.personal](/_personal/schema-org/Property/has_value_for/has_value_for_intensity.personal.md) 
+### #is_/same_as :: [has_value_for_intensity.personal](/_personal/schema-org/Property/has_value_for/has_value_for_intensity.personal.md) 
 
-### [has_value_for_intensity.secret](/_secret/schema-org/Property/has_value_for/has_value_for_intensity.secret.md)
+### #is_/same_as :: [has_value_for_intensity.secret](/_secret/schema-org/Property/has_value_for/has_value_for_intensity.secret.md)
 

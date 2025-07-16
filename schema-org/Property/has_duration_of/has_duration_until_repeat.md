@@ -51,17 +51,17 @@ Is [sub_property_of::frequency]
 
 ## Confidential Links & Embeds: 
 
-### [has_duration_until_repeat](/_Standards/schema-org/Property/has_duration_of/has_duration_until_repeat.md) 
+### #is_/same_as :: [has_duration_until_repeat](/_Standards/schema-org/Property/has_duration_of/has_duration_until_repeat.md) 
 
-### [has_duration_until_repeat.public](/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public.md) 
+### #is_/same_as :: [has_duration_until_repeat.public](/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public.md) 
 
-### [has_duration_until_repeat.internal](/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal.md) 
+### #is_/same_as :: [has_duration_until_repeat.internal](/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal.md) 
 
-### [has_duration_until_repeat.protect](/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect.md) 
+### #is_/same_as :: [has_duration_until_repeat.protect](/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect.md) 
 
-### [has_duration_until_repeat.private](/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private.md) 
+### #is_/same_as :: [has_duration_until_repeat.private](/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private.md) 
 
-### [has_duration_until_repeat.personal](/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal.md) 
+### #is_/same_as :: [has_duration_until_repeat.personal](/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal.md) 
 
-### [has_duration_until_repeat.secret](/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret.md)
+### #is_/same_as :: [has_duration_until_repeat.secret](/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret.md)
 

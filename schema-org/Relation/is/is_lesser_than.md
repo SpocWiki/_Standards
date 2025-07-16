@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_lesser_than](/_Standards/schema-org/Relation/is/is_lesser_than.md) 
+### #is_/same_as :: [is_lesser_than](/_Standards/schema-org/Relation/is/is_lesser_than.md) 
 
-### [is_lesser_than.public](/_public/schema-org/Relation/is/is_lesser_than.public.md) 
+### #is_/same_as :: [is_lesser_than.public](/_public/schema-org/Relation/is/is_lesser_than.public.md) 
 
-### [is_lesser_than.internal](/_internal/schema-org/Relation/is/is_lesser_than.internal.md) 
+### #is_/same_as :: [is_lesser_than.internal](/_internal/schema-org/Relation/is/is_lesser_than.internal.md) 
 
-### [is_lesser_than.protect](/_protect/schema-org/Relation/is/is_lesser_than.protect.md) 
+### #is_/same_as :: [is_lesser_than.protect](/_protect/schema-org/Relation/is/is_lesser_than.protect.md) 
 
-### [is_lesser_than.private](/_private/schema-org/Relation/is/is_lesser_than.private.md) 
+### #is_/same_as :: [is_lesser_than.private](/_private/schema-org/Relation/is/is_lesser_than.private.md) 
 
-### [is_lesser_than.personal](/_personal/schema-org/Relation/is/is_lesser_than.personal.md) 
+### #is_/same_as :: [is_lesser_than.personal](/_personal/schema-org/Relation/is/is_lesser_than.personal.md) 
 
-### [is_lesser_than.secret](/_secret/schema-org/Relation/is/is_lesser_than.secret.md)
+### #is_/same_as :: [is_lesser_than.secret](/_secret/schema-org/Relation/is/is_lesser_than.secret.md)
 

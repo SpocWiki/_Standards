@@ -132,17 +132,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### [British_Indian_Ocean_Territory](/_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.md) 
+### #is_/same_as :: [British_Indian_Ocean_Territory](/_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.md) 
 
-### [British_Indian_Ocean_Territory.public](/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public.md) 
+### #is_/same_as :: [British_Indian_Ocean_Territory.public](/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public.md) 
 
-### [British_Indian_Ocean_Territory.internal](/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal.md) 
+### #is_/same_as :: [British_Indian_Ocean_Territory.internal](/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal.md) 
 
-### [British_Indian_Ocean_Territory.protect](/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect.md) 
+### #is_/same_as :: [British_Indian_Ocean_Territory.protect](/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect.md) 
 
-### [British_Indian_Ocean_Territory.private](/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private.md) 
+### #is_/same_as :: [British_Indian_Ocean_Territory.private](/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private.md) 
 
-### [British_Indian_Ocean_Territory.personal](/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal.md) 
+### #is_/same_as :: [British_Indian_Ocean_Territory.personal](/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal.md) 
 
-### [British_Indian_Ocean_Territory.secret](/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret.md)
+### #is_/same_as :: [British_Indian_Ocean_Territory.secret](/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret.md)
 

@@ -115,17 +115,17 @@ Common_Procurement_Vocabulary_code: 14761000
 
 ## Confidential Links & Embeds: 
 
-### [Iridium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Iridium.md) 
+### #is_/same_as :: [Iridium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Iridium.md) 
 
-### [Iridium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Iridium.public.md) 
+### #is_/same_as :: [Iridium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Iridium.public.md) 
 
-### [Iridium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.internal.md) 
+### #is_/same_as :: [Iridium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.internal.md) 
 
-### [Iridium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Iridium.protect.md) 
+### #is_/same_as :: [Iridium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Iridium.protect.md) 
 
-### [Iridium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Iridium.private.md) 
+### #is_/same_as :: [Iridium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Iridium.private.md) 
 
-### [Iridium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.personal.md) 
+### #is_/same_as :: [Iridium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.personal.md) 
 
-### [Iridium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Iridium.secret.md)
+### #is_/same_as :: [Iridium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Iridium.secret.md)
 

@@ -56,17 +56,17 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 
 ## Confidential Links & Embeds: 
 
-### [action](/_Standards/schema-org/Class/is_a_/action.md) 
+### #is_/same_as :: [action](/_Standards/schema-org/Class/is_a_/action.md) 
 
-### [action.public](/_public/schema-org/Class/is_a_/action.public.md) 
+### #is_/same_as :: [action.public](/_public/schema-org/Class/is_a_/action.public.md) 
 
-### [action.internal](/_internal/schema-org/Class/is_a_/action.internal.md) 
+### #is_/same_as :: [action.internal](/_internal/schema-org/Class/is_a_/action.internal.md) 
 
-### [action.protect](/_protect/schema-org/Class/is_a_/action.protect.md) 
+### #is_/same_as :: [action.protect](/_protect/schema-org/Class/is_a_/action.protect.md) 
 
-### [action.private](/_private/schema-org/Class/is_a_/action.private.md) 
+### #is_/same_as :: [action.private](/_private/schema-org/Class/is_a_/action.private.md) 
 
-### [action.personal](/_personal/schema-org/Class/is_a_/action.personal.md) 
+### #is_/same_as :: [action.personal](/_personal/schema-org/Class/is_a_/action.personal.md) 
 
-### [action.secret](/_secret/schema-org/Class/is_a_/action.secret.md)
+### #is_/same_as :: [action.secret](/_secret/schema-org/Class/is_a_/action.secret.md)
 

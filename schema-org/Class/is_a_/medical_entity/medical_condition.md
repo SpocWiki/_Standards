@@ -47,17 +47,17 @@ Any condition of the human body that affects the normal functioning of a person,
 
 ## Confidential Links & Embeds: 
 
-### [medical_condition](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition.md) 
+### #is_/same_as :: [medical_condition](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition.md) 
 
-### [medical_condition.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition.public.md) 
+### #is_/same_as :: [medical_condition.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition.public.md) 
 
-### [medical_condition.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition.internal.md) 
+### #is_/same_as :: [medical_condition.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition.internal.md) 
 
-### [medical_condition.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition.protect.md) 
+### #is_/same_as :: [medical_condition.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition.protect.md) 
 
-### [medical_condition.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition.private.md) 
+### #is_/same_as :: [medical_condition.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition.private.md) 
 
-### [medical_condition.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition.personal.md) 
+### #is_/same_as :: [medical_condition.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition.personal.md) 
 
-### [medical_condition.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition.secret.md)
+### #is_/same_as :: [medical_condition.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition.secret.md)
 

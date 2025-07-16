@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_epidemiology](/_Standards/schema-org/Property/Texts/has_epidemiology.md) 
+### #is_/same_as :: [has_epidemiology](/_Standards/schema-org/Property/Texts/has_epidemiology.md) 
 
-### [has_epidemiology.public](/_public/schema-org/Property/Texts/has_epidemiology.public.md) 
+### #is_/same_as :: [has_epidemiology.public](/_public/schema-org/Property/Texts/has_epidemiology.public.md) 
 
-### [has_epidemiology.internal](/_internal/schema-org/Property/Texts/has_epidemiology.internal.md) 
+### #is_/same_as :: [has_epidemiology.internal](/_internal/schema-org/Property/Texts/has_epidemiology.internal.md) 
 
-### [has_epidemiology.protect](/_protect/schema-org/Property/Texts/has_epidemiology.protect.md) 
+### #is_/same_as :: [has_epidemiology.protect](/_protect/schema-org/Property/Texts/has_epidemiology.protect.md) 
 
-### [has_epidemiology.private](/_private/schema-org/Property/Texts/has_epidemiology.private.md) 
+### #is_/same_as :: [has_epidemiology.private](/_private/schema-org/Property/Texts/has_epidemiology.private.md) 
 
-### [has_epidemiology.personal](/_personal/schema-org/Property/Texts/has_epidemiology.personal.md) 
+### #is_/same_as :: [has_epidemiology.personal](/_personal/schema-org/Property/Texts/has_epidemiology.personal.md) 
 
-### [has_epidemiology.secret](/_secret/schema-org/Property/Texts/has_epidemiology.secret.md)
+### #is_/same_as :: [has_epidemiology.secret](/_secret/schema-org/Property/Texts/has_epidemiology.secret.md)
 

@@ -45,17 +45,17 @@ HealthAspectEnumeration enumerates several aspects of health content online, eac
 
 ## Confidential Links & Embeds: 
 
-### [health_aspect_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.md) 
+### #is_/same_as :: [health_aspect_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.md) 
 
-### [health_aspect_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.public.md) 
+### #is_/same_as :: [health_aspect_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.public.md) 
 
-### [health_aspect_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.internal.md) 
+### #is_/same_as :: [health_aspect_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.internal.md) 
 
-### [health_aspect_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.protect.md) 
+### #is_/same_as :: [health_aspect_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.protect.md) 
 
-### [health_aspect_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.private.md) 
+### #is_/same_as :: [health_aspect_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.private.md) 
 
-### [health_aspect_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.personal.md) 
+### #is_/same_as :: [health_aspect_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.personal.md) 
 
-### [health_aspect_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.secret.md)
+### #is_/same_as :: [health_aspect_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.secret.md)
 

@@ -35,17 +35,17 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PsychologicalTreatment](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.md) 
+### #is_/same_as :: [FileClass~PsychologicalTreatment](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.md) 
 
-### [FileClass~PsychologicalTreatment.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.public.md) 
+### #is_/same_as :: [FileClass~PsychologicalTreatment.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.public.md) 
 
-### [FileClass~PsychologicalTreatment.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.internal.md) 
+### #is_/same_as :: [FileClass~PsychologicalTreatment.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.internal.md) 
 
-### [FileClass~PsychologicalTreatment.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.protect.md) 
+### #is_/same_as :: [FileClass~PsychologicalTreatment.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.protect.md) 
 
-### [FileClass~PsychologicalTreatment.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.private.md) 
+### #is_/same_as :: [FileClass~PsychologicalTreatment.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.private.md) 
 
-### [FileClass~PsychologicalTreatment.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.personal.md) 
+### #is_/same_as :: [FileClass~PsychologicalTreatment.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.personal.md) 
 
-### [FileClass~PsychologicalTreatment.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.secret.md)
+### #is_/same_as :: [FileClass~PsychologicalTreatment.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.secret.md)
 

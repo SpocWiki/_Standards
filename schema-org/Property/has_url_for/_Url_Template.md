@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [_Url_Template](/_Standards/schema-org/Property/has_url_for/_Url_Template.md) 
+### #is_/same_as :: [_Url_Template](/_Standards/schema-org/Property/has_url_for/_Url_Template.md) 
 
-### [_Url_Template.public](/_public/schema-org/Property/has_url_for/_Url_Template.public.md) 
+### #is_/same_as :: [_Url_Template.public](/_public/schema-org/Property/has_url_for/_Url_Template.public.md) 
 
-### [_Url_Template.internal](/_internal/schema-org/Property/has_url_for/_Url_Template.internal.md) 
+### #is_/same_as :: [_Url_Template.internal](/_internal/schema-org/Property/has_url_for/_Url_Template.internal.md) 
 
-### [_Url_Template.protect](/_protect/schema-org/Property/has_url_for/_Url_Template.protect.md) 
+### #is_/same_as :: [_Url_Template.protect](/_protect/schema-org/Property/has_url_for/_Url_Template.protect.md) 
 
-### [_Url_Template.private](/_private/schema-org/Property/has_url_for/_Url_Template.private.md) 
+### #is_/same_as :: [_Url_Template.private](/_private/schema-org/Property/has_url_for/_Url_Template.private.md) 
 
-### [_Url_Template.personal](/_personal/schema-org/Property/has_url_for/_Url_Template.personal.md) 
+### #is_/same_as :: [_Url_Template.personal](/_personal/schema-org/Property/has_url_for/_Url_Template.personal.md) 
 
-### [_Url_Template.secret](/_secret/schema-org/Property/has_url_for/_Url_Template.secret.md)
+### #is_/same_as :: [_Url_Template.secret](/_secret/schema-org/Property/has_url_for/_Url_Template.secret.md)
 

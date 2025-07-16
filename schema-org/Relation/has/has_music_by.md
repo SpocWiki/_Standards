@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_music_by](/_Standards/schema-org/Relation/has/has_music_by.md) 
+### #is_/same_as :: [has_music_by](/_Standards/schema-org/Relation/has/has_music_by.md) 
 
-### [has_music_by.public](/_public/schema-org/Relation/has/has_music_by.public.md) 
+### #is_/same_as :: [has_music_by.public](/_public/schema-org/Relation/has/has_music_by.public.md) 
 
-### [has_music_by.internal](/_internal/schema-org/Relation/has/has_music_by.internal.md) 
+### #is_/same_as :: [has_music_by.internal](/_internal/schema-org/Relation/has/has_music_by.internal.md) 
 
-### [has_music_by.protect](/_protect/schema-org/Relation/has/has_music_by.protect.md) 
+### #is_/same_as :: [has_music_by.protect](/_protect/schema-org/Relation/has/has_music_by.protect.md) 
 
-### [has_music_by.private](/_private/schema-org/Relation/has/has_music_by.private.md) 
+### #is_/same_as :: [has_music_by.private](/_private/schema-org/Relation/has/has_music_by.private.md) 
 
-### [has_music_by.personal](/_personal/schema-org/Relation/has/has_music_by.personal.md) 
+### #is_/same_as :: [has_music_by.personal](/_personal/schema-org/Relation/has/has_music_by.personal.md) 
 
-### [has_music_by.secret](/_secret/schema-org/Relation/has/has_music_by.secret.md)
+### #is_/same_as :: [has_music_by.secret](/_secret/schema-org/Relation/has/has_music_by.secret.md)
 

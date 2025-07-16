@@ -49,17 +49,17 @@ Nonprofit501c11: Non-profit type referring to Teachers' Retirement Fund Associat
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c11](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.md) 
+### #is_/same_as :: [nonprofit501c11](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.md) 
 
-### [nonprofit501c11.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.public.md) 
+### #is_/same_as :: [nonprofit501c11.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.public.md) 
 
-### [nonprofit501c11.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.internal.md) 
+### #is_/same_as :: [nonprofit501c11.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.internal.md) 
 
-### [nonprofit501c11.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.protect.md) 
+### #is_/same_as :: [nonprofit501c11.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.protect.md) 
 
-### [nonprofit501c11.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.private.md) 
+### #is_/same_as :: [nonprofit501c11.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.private.md) 
 
-### [nonprofit501c11.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.personal.md) 
+### #is_/same_as :: [nonprofit501c11.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.personal.md) 
 
-### [nonprofit501c11.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.secret.md)
+### #is_/same_as :: [nonprofit501c11.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.secret.md)
 

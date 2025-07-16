@@ -35,17 +35,17 @@ Event type: Sales event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SaleEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.md) 
+### #is_/same_as :: [FileClass~SaleEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.md) 
 
-### [FileClass~SaleEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.public.md) 
+### #is_/same_as :: [FileClass~SaleEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.public.md) 
 
-### [FileClass~SaleEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.internal.md) 
+### #is_/same_as :: [FileClass~SaleEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.internal.md) 
 
-### [FileClass~SaleEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.protect.md) 
+### #is_/same_as :: [FileClass~SaleEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.protect.md) 
 
-### [FileClass~SaleEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.private.md) 
+### #is_/same_as :: [FileClass~SaleEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.private.md) 
 
-### [FileClass~SaleEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.personal.md) 
+### #is_/same_as :: [FileClass~SaleEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.personal.md) 
 
-### [FileClass~SaleEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.secret.md)
+### #is_/same_as :: [FileClass~SaleEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.secret.md)
 

@@ -78,22 +78,19 @@ U_S_National_Archives_Identifier: 10637707
 > [Wikipedia](https://en.wikipedia.org/wiki/Sport%20of%20athletics)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Athletics(sport)](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).md) 
+### #is_/same_as :: [Athletics(sport)](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).md) 
 
-### [Athletics(sport).public](/_public/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).public.md) 
+### #is_/same_as :: [Athletics(sport).public](/_public/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).public.md) 
 
-### [Athletics(sport).internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).internal.md) 
+### #is_/same_as :: [Athletics(sport).internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).internal.md) 
 
-### [Athletics(sport).protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).protect.md) 
+### #is_/same_as :: [Athletics(sport).protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).protect.md) 
 
-### [Athletics(sport).private](/_private/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).private.md) 
+### #is_/same_as :: [Athletics(sport).private](/_private/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).private.md) 
 
-### [Athletics(sport).personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).personal.md) 
+### #is_/same_as :: [Athletics(sport).personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).personal.md) 
 
-### [Athletics(sport).secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).secret.md)
+### #is_/same_as :: [Athletics(sport).secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).secret.md)
 

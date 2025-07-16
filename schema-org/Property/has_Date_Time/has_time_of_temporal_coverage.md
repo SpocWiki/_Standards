@@ -60,17 +60,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_temporal_coverage](/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.md) 
+### #is_/same_as :: [has_time_of_temporal_coverage](/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.md) 
 
-### [has_time_of_temporal_coverage.public](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.public.md) 
+### #is_/same_as :: [has_time_of_temporal_coverage.public](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.public.md) 
 
-### [has_time_of_temporal_coverage.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal.md) 
+### #is_/same_as :: [has_time_of_temporal_coverage.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal.md) 
 
-### [has_time_of_temporal_coverage.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.protect.md) 
+### #is_/same_as :: [has_time_of_temporal_coverage.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.protect.md) 
 
-### [has_time_of_temporal_coverage.private](/_private/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.private.md) 
+### #is_/same_as :: [has_time_of_temporal_coverage.private](/_private/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.private.md) 
 
-### [has_time_of_temporal_coverage.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal.md) 
+### #is_/same_as :: [has_time_of_temporal_coverage.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal.md) 
 
-### [has_time_of_temporal_coverage.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret.md)
+### #is_/same_as :: [has_time_of_temporal_coverage.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret.md)
 

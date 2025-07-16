@@ -131,17 +131,17 @@ InChI: InChI=1S/Sr
 
 ## Confidential Links & Embeds: 
 
-### [Strontium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.md) 
+### #is_/same_as :: [Strontium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.md) 
 
-### [Strontium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.public.md) 
+### #is_/same_as :: [Strontium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.public.md) 
 
-### [Strontium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.internal.md) 
+### #is_/same_as :: [Strontium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.internal.md) 
 
-### [Strontium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.protect.md) 
+### #is_/same_as :: [Strontium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.protect.md) 
 
-### [Strontium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.private.md) 
+### #is_/same_as :: [Strontium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.private.md) 
 
-### [Strontium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.personal.md) 
+### #is_/same_as :: [Strontium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.personal.md) 
 
-### [Strontium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.secret.md)
+### #is_/same_as :: [Strontium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.secret.md)
 

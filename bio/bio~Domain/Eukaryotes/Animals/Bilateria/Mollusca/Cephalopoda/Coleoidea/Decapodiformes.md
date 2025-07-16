@@ -227,20 +227,19 @@ View              Dorsal view showing eight arms and two tentacles
 Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Decapodiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.md) 
+### #is_/same_as :: [Decapodiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.md) 
 
-### [Decapodiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.public.md) 
+### #is_/same_as :: [Decapodiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.public.md) 
 
-### [Decapodiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.internal.md) 
+### #is_/same_as :: [Decapodiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.internal.md) 
 
-### [Decapodiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.protect.md) 
+### #is_/same_as :: [Decapodiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.protect.md) 
 
-### [Decapodiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.private.md) 
+### #is_/same_as :: [Decapodiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.private.md) 
 
-### [Decapodiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.personal.md) 
+### #is_/same_as :: [Decapodiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.personal.md) 
 
-### [Decapodiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.secret.md)
+### #is_/same_as :: [Decapodiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.secret.md)
 

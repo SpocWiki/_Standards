@@ -45,17 +45,17 @@ The act of swallowing solid objects.
 
 ## Confidential Links & Embeds: 
 
-### [eat_action](/_Standards/schema-org/Class/is_a_/action/consume_action/eat_action.md) 
+### #is_/same_as :: [eat_action](/_Standards/schema-org/Class/is_a_/action/consume_action/eat_action.md) 
 
-### [eat_action.public](/_public/schema-org/Class/is_a_/action/consume_action/eat_action.public.md) 
+### #is_/same_as :: [eat_action.public](/_public/schema-org/Class/is_a_/action/consume_action/eat_action.public.md) 
 
-### [eat_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/eat_action.internal.md) 
+### #is_/same_as :: [eat_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/eat_action.internal.md) 
 
-### [eat_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/eat_action.protect.md) 
+### #is_/same_as :: [eat_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/eat_action.protect.md) 
 
-### [eat_action.private](/_private/schema-org/Class/is_a_/action/consume_action/eat_action.private.md) 
+### #is_/same_as :: [eat_action.private](/_private/schema-org/Class/is_a_/action/consume_action/eat_action.private.md) 
 
-### [eat_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/eat_action.personal.md) 
+### #is_/same_as :: [eat_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/eat_action.personal.md) 
 
-### [eat_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/eat_action.secret.md)
+### #is_/same_as :: [eat_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/eat_action.secret.md)
 

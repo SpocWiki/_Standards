@@ -48,17 +48,17 @@ This Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_next_item](/_Standards/schema-org/Relation/has/has_next_item.md) 
+### #is_/same_as :: [has_next_item](/_Standards/schema-org/Relation/has/has_next_item.md) 
 
-### [has_next_item.public](/_public/schema-org/Relation/has/has_next_item.public.md) 
+### #is_/same_as :: [has_next_item.public](/_public/schema-org/Relation/has/has_next_item.public.md) 
 
-### [has_next_item.internal](/_internal/schema-org/Relation/has/has_next_item.internal.md) 
+### #is_/same_as :: [has_next_item.internal](/_internal/schema-org/Relation/has/has_next_item.internal.md) 
 
-### [has_next_item.protect](/_protect/schema-org/Relation/has/has_next_item.protect.md) 
+### #is_/same_as :: [has_next_item.protect](/_protect/schema-org/Relation/has/has_next_item.protect.md) 
 
-### [has_next_item.private](/_private/schema-org/Relation/has/has_next_item.private.md) 
+### #is_/same_as :: [has_next_item.private](/_private/schema-org/Relation/has/has_next_item.private.md) 
 
-### [has_next_item.personal](/_personal/schema-org/Relation/has/has_next_item.personal.md) 
+### #is_/same_as :: [has_next_item.personal](/_personal/schema-org/Relation/has/has_next_item.personal.md) 
 
-### [has_next_item.secret](/_secret/schema-org/Relation/has/has_next_item.secret.md)
+### #is_/same_as :: [has_next_item.secret](/_secret/schema-org/Relation/has/has_next_item.secret.md)
 

@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_discussion](/_Standards/schema-org/Property/has_url_for/has_url_for_discussion.md) 
+### #is_/same_as :: [has_url_for_discussion](/_Standards/schema-org/Property/has_url_for/has_url_for_discussion.md) 
 
-### [has_url_for_discussion.public](/_public/schema-org/Property/has_url_for/has_url_for_discussion.public.md) 
+### #is_/same_as :: [has_url_for_discussion.public](/_public/schema-org/Property/has_url_for/has_url_for_discussion.public.md) 
 
-### [has_url_for_discussion.internal](/_internal/schema-org/Property/has_url_for/has_url_for_discussion.internal.md) 
+### #is_/same_as :: [has_url_for_discussion.internal](/_internal/schema-org/Property/has_url_for/has_url_for_discussion.internal.md) 
 
-### [has_url_for_discussion.protect](/_protect/schema-org/Property/has_url_for/has_url_for_discussion.protect.md) 
+### #is_/same_as :: [has_url_for_discussion.protect](/_protect/schema-org/Property/has_url_for/has_url_for_discussion.protect.md) 
 
-### [has_url_for_discussion.private](/_private/schema-org/Property/has_url_for/has_url_for_discussion.private.md) 
+### #is_/same_as :: [has_url_for_discussion.private](/_private/schema-org/Property/has_url_for/has_url_for_discussion.private.md) 
 
-### [has_url_for_discussion.personal](/_personal/schema-org/Property/has_url_for/has_url_for_discussion.personal.md) 
+### #is_/same_as :: [has_url_for_discussion.personal](/_personal/schema-org/Property/has_url_for/has_url_for_discussion.personal.md) 
 
-### [has_url_for_discussion.secret](/_secret/schema-org/Property/has_url_for/has_url_for_discussion.secret.md)
+### #is_/same_as :: [has_url_for_discussion.secret](/_secret/schema-org/Property/has_url_for/has_url_for_discussion.secret.md)
 

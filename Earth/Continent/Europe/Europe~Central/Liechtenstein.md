@@ -435,17 +435,17 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 
 ## Confidential Links & Embeds: 
 
-### [Liechtenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein.md) 
+### #is_/same_as :: [Liechtenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein.md) 
 
-### [Liechtenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein.public.md) 
+### #is_/same_as :: [Liechtenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein.public.md) 
 
-### [Liechtenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein.internal.md) 
+### #is_/same_as :: [Liechtenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein.internal.md) 
 
-### [Liechtenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein.protect.md) 
+### #is_/same_as :: [Liechtenstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Liechtenstein.protect.md) 
 
-### [Liechtenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein.private.md) 
+### #is_/same_as :: [Liechtenstein.private](/_private/Earth/Continent/Europe/Europe~Central/Liechtenstein.private.md) 
 
-### [Liechtenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein.personal.md) 
+### #is_/same_as :: [Liechtenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein.personal.md) 
 
-### [Liechtenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret.md)
+### #is_/same_as :: [Liechtenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret.md)
 

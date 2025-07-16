@@ -76,17 +76,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [Quantity](/_Standards/schema-org/Predicate/Quantity.md) 
+### #is_/same_as :: [Quantity](/_Standards/schema-org/Predicate/Quantity.md) 
 
-### [Quantity.public](/_public/schema-org/Predicate/Quantity.public.md) 
+### #is_/same_as :: [Quantity.public](/_public/schema-org/Predicate/Quantity.public.md) 
 
-### [Quantity.internal](/_internal/schema-org/Predicate/Quantity.internal.md) 
+### #is_/same_as :: [Quantity.internal](/_internal/schema-org/Predicate/Quantity.internal.md) 
 
-### [Quantity.protect](/_protect/schema-org/Predicate/Quantity.protect.md) 
+### #is_/same_as :: [Quantity.protect](/_protect/schema-org/Predicate/Quantity.protect.md) 
 
-### [Quantity.private](/_private/schema-org/Predicate/Quantity.private.md) 
+### #is_/same_as :: [Quantity.private](/_private/schema-org/Predicate/Quantity.private.md) 
 
-### [Quantity.personal](/_personal/schema-org/Predicate/Quantity.personal.md) 
+### #is_/same_as :: [Quantity.personal](/_personal/schema-org/Predicate/Quantity.personal.md) 
 
-### [Quantity.secret](/_secret/schema-org/Predicate/Quantity.secret.md)
+### #is_/same_as :: [Quantity.secret](/_secret/schema-org/Predicate/Quantity.secret.md)
 

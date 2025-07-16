@@ -186,22 +186,19 @@ Wolfram_Language_entity_type: Movie
 > [Wikipedia](https://en.wikipedia.org/wiki/Film) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Film](/_Standards/bio/Society/Communication/Film.md) 
+### #is_/same_as :: [Film](/_Standards/bio/Society/Communication/Film.md) 
 
-### [Film.public](/_public/bio/Society/Communication/Film.public.md) 
+### #is_/same_as :: [Film.public](/_public/bio/Society/Communication/Film.public.md) 
 
-### [Film.internal](/_internal/bio/Society/Communication/Film.internal.md) 
+### #is_/same_as :: [Film.internal](/_internal/bio/Society/Communication/Film.internal.md) 
 
-### [Film.protect](/_protect/bio/Society/Communication/Film.protect.md) 
+### #is_/same_as :: [Film.protect](/_protect/bio/Society/Communication/Film.protect.md) 
 
-### [Film.private](/_private/bio/Society/Communication/Film.private.md) 
+### #is_/same_as :: [Film.private](/_private/bio/Society/Communication/Film.private.md) 
 
-### [Film.personal](/_personal/bio/Society/Communication/Film.personal.md) 
+### #is_/same_as :: [Film.personal](/_personal/bio/Society/Communication/Film.personal.md) 
 
-### [Film.secret](/_secret/bio/Society/Communication/Film.secret.md)
+### #is_/same_as :: [Film.secret](/_secret/bio/Society/Communication/Film.secret.md)
 

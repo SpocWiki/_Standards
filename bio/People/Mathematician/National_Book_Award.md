@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [National_Book_Award](/_Standards/bio/People/Mathematician/National_Book_Award.md) 
+### #is_/same_as :: [National_Book_Award](/_Standards/bio/People/Mathematician/National_Book_Award.md) 
 
-### [National_Book_Award.public](/_public/bio/People/Mathematician/National_Book_Award.public.md) 
+### #is_/same_as :: [National_Book_Award.public](/_public/bio/People/Mathematician/National_Book_Award.public.md) 
 
-### [National_Book_Award.internal](/_internal/bio/People/Mathematician/National_Book_Award.internal.md) 
+### #is_/same_as :: [National_Book_Award.internal](/_internal/bio/People/Mathematician/National_Book_Award.internal.md) 
 
-### [National_Book_Award.protect](/_protect/bio/People/Mathematician/National_Book_Award.protect.md) 
+### #is_/same_as :: [National_Book_Award.protect](/_protect/bio/People/Mathematician/National_Book_Award.protect.md) 
 
-### [National_Book_Award.private](/_private/bio/People/Mathematician/National_Book_Award.private.md) 
+### #is_/same_as :: [National_Book_Award.private](/_private/bio/People/Mathematician/National_Book_Award.private.md) 
 
-### [National_Book_Award.personal](/_personal/bio/People/Mathematician/National_Book_Award.personal.md) 
+### #is_/same_as :: [National_Book_Award.personal](/_personal/bio/People/Mathematician/National_Book_Award.personal.md) 
 
-### [National_Book_Award.secret](/_secret/bio/People/Mathematician/National_Book_Award.secret.md)
+### #is_/same_as :: [National_Book_Award.secret](/_secret/bio/People/Mathematician/National_Book_Award.secret.md)
 

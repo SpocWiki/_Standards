@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_issn](/_Standards/schema-org/Property/has_name/has_id_issn.md) 
+### #is_/same_as :: [has_id_issn](/_Standards/schema-org/Property/has_name/has_id_issn.md) 
 
-### [has_id_issn.public](/_public/schema-org/Property/has_name/has_id_issn.public.md) 
+### #is_/same_as :: [has_id_issn.public](/_public/schema-org/Property/has_name/has_id_issn.public.md) 
 
-### [has_id_issn.internal](/_internal/schema-org/Property/has_name/has_id_issn.internal.md) 
+### #is_/same_as :: [has_id_issn.internal](/_internal/schema-org/Property/has_name/has_id_issn.internal.md) 
 
-### [has_id_issn.protect](/_protect/schema-org/Property/has_name/has_id_issn.protect.md) 
+### #is_/same_as :: [has_id_issn.protect](/_protect/schema-org/Property/has_name/has_id_issn.protect.md) 
 
-### [has_id_issn.private](/_private/schema-org/Property/has_name/has_id_issn.private.md) 
+### #is_/same_as :: [has_id_issn.private](/_private/schema-org/Property/has_name/has_id_issn.private.md) 
 
-### [has_id_issn.personal](/_personal/schema-org/Property/has_name/has_id_issn.personal.md) 
+### #is_/same_as :: [has_id_issn.personal](/_personal/schema-org/Property/has_name/has_id_issn.personal.md) 
 
-### [has_id_issn.secret](/_secret/schema-org/Property/has_name/has_id_issn.secret.md)
+### #is_/same_as :: [has_id_issn.secret](/_secret/schema-org/Property/has_name/has_id_issn.secret.md)
 

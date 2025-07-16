@@ -65,17 +65,17 @@ Dewey_Decimal_Classification: 530.11
 
 ## Confidential Links & Embeds: 
 
-### [General_Relativity](/_Standards/Science/Physics/General_Relativity.md) 
+### #is_/same_as :: [General_Relativity](/_Standards/Science/Physics/General_Relativity.md) 
 
-### [General_Relativity.public](/_public/Science/Physics/General_Relativity.public.md) 
+### #is_/same_as :: [General_Relativity.public](/_public/Science/Physics/General_Relativity.public.md) 
 
-### [General_Relativity.internal](/_internal/Science/Physics/General_Relativity.internal.md) 
+### #is_/same_as :: [General_Relativity.internal](/_internal/Science/Physics/General_Relativity.internal.md) 
 
-### [General_Relativity.protect](/_protect/Science/Physics/General_Relativity.protect.md) 
+### #is_/same_as :: [General_Relativity.protect](/_protect/Science/Physics/General_Relativity.protect.md) 
 
-### [General_Relativity.private](/_private/Science/Physics/General_Relativity.private.md) 
+### #is_/same_as :: [General_Relativity.private](/_private/Science/Physics/General_Relativity.private.md) 
 
-### [General_Relativity.personal](/_personal/Science/Physics/General_Relativity.personal.md) 
+### #is_/same_as :: [General_Relativity.personal](/_personal/Science/Physics/General_Relativity.personal.md) 
 
-### [General_Relativity.secret](/_secret/Science/Physics/General_Relativity.secret.md)
+### #is_/same_as :: [General_Relativity.secret](/_secret/Science/Physics/General_Relativity.secret.md)
 

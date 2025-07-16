@@ -80,21 +80,19 @@ Krugosvet_article: istoriya/GLOBALIZATSIYA.html
 [[../../../../Knowledge/Sociology/Politics/German_Politics/Jamaika-Koalition]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Globalization](/_Standards/bio/Society/Social_Issues/Globalization.md) 
+### #is_/same_as :: [Globalization](/_Standards/bio/Society/Social_Issues/Globalization.md) 
 
-### [Globalization.public](/_public/bio/Society/Social_Issues/Globalization.public.md) 
+### #is_/same_as :: [Globalization.public](/_public/bio/Society/Social_Issues/Globalization.public.md) 
 
-### [Globalization.internal](/_internal/bio/Society/Social_Issues/Globalization.internal.md) 
+### #is_/same_as :: [Globalization.internal](/_internal/bio/Society/Social_Issues/Globalization.internal.md) 
 
-### [Globalization.protect](/_protect/bio/Society/Social_Issues/Globalization.protect.md) 
+### #is_/same_as :: [Globalization.protect](/_protect/bio/Society/Social_Issues/Globalization.protect.md) 
 
-### [Globalization.private](/_private/bio/Society/Social_Issues/Globalization.private.md) 
+### #is_/same_as :: [Globalization.private](/_private/bio/Society/Social_Issues/Globalization.private.md) 
 
-### [Globalization.personal](/_personal/bio/Society/Social_Issues/Globalization.personal.md) 
+### #is_/same_as :: [Globalization.personal](/_personal/bio/Society/Social_Issues/Globalization.personal.md) 
 
-### [Globalization.secret](/_secret/bio/Society/Social_Issues/Globalization.secret.md)
+### #is_/same_as :: [Globalization.secret](/_secret/bio/Society/Social_Issues/Globalization.secret.md)
 

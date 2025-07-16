@@ -550,17 +550,17 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 ## Confidential Links & Embeds: 
 
-### [Ecuador](/_Standards/Earth/Continent/America~South/Ecuador.md) 
+### #is_/same_as :: [Ecuador](/_Standards/Earth/Continent/America~South/Ecuador.md) 
 
-### [Ecuador.public](/_public/Earth/Continent/America~South/Ecuador.public.md) 
+### #is_/same_as :: [Ecuador.public](/_public/Earth/Continent/America~South/Ecuador.public.md) 
 
-### [Ecuador.internal](/_internal/Earth/Continent/America~South/Ecuador.internal.md) 
+### #is_/same_as :: [Ecuador.internal](/_internal/Earth/Continent/America~South/Ecuador.internal.md) 
 
-### [Ecuador.protect](/_protect/Earth/Continent/America~South/Ecuador.protect.md) 
+### #is_/same_as :: [Ecuador.protect](/_protect/Earth/Continent/America~South/Ecuador.protect.md) 
 
-### [Ecuador.private](/_private/Earth/Continent/America~South/Ecuador.private.md) 
+### #is_/same_as :: [Ecuador.private](/_private/Earth/Continent/America~South/Ecuador.private.md) 
 
-### [Ecuador.personal](/_personal/Earth/Continent/America~South/Ecuador.personal.md) 
+### #is_/same_as :: [Ecuador.personal](/_personal/Earth/Continent/America~South/Ecuador.personal.md) 
 
-### [Ecuador.secret](/_secret/Earth/Continent/America~South/Ecuador.secret.md)
+### #is_/same_as :: [Ecuador.secret](/_secret/Earth/Continent/America~South/Ecuador.secret.md)
 

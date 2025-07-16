@@ -41,17 +41,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/DIFFERENTSIALNIE_URAVNENIYA.html
 
 ## Confidential Links & Embeds: 
 
-### [Differential_Equation](/_Standards/Mathematics/Calculus/Differential_Equation.md) 
+### #is_/same_as :: [Differential_Equation](/_Standards/Mathematics/Calculus/Differential_Equation.md) 
 
-### [Differential_Equation.public](/_public/Mathematics/Calculus/Differential_Equation.public.md) 
+### #is_/same_as :: [Differential_Equation.public](/_public/Mathematics/Calculus/Differential_Equation.public.md) 
 
-### [Differential_Equation.internal](/_internal/Mathematics/Calculus/Differential_Equation.internal.md) 
+### #is_/same_as :: [Differential_Equation.internal](/_internal/Mathematics/Calculus/Differential_Equation.internal.md) 
 
-### [Differential_Equation.protect](/_protect/Mathematics/Calculus/Differential_Equation.protect.md) 
+### #is_/same_as :: [Differential_Equation.protect](/_protect/Mathematics/Calculus/Differential_Equation.protect.md) 
 
-### [Differential_Equation.private](/_private/Mathematics/Calculus/Differential_Equation.private.md) 
+### #is_/same_as :: [Differential_Equation.private](/_private/Mathematics/Calculus/Differential_Equation.private.md) 
 
-### [Differential_Equation.personal](/_personal/Mathematics/Calculus/Differential_Equation.personal.md) 
+### #is_/same_as :: [Differential_Equation.personal](/_personal/Mathematics/Calculus/Differential_Equation.personal.md) 
 
-### [Differential_Equation.secret](/_secret/Mathematics/Calculus/Differential_Equation.secret.md)
+### #is_/same_as :: [Differential_Equation.secret](/_secret/Mathematics/Calculus/Differential_Equation.secret.md)
 

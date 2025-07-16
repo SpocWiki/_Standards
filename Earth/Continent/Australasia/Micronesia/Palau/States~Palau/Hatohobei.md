@@ -41,17 +41,17 @@ markerFolder: ./Hatobohei/
 
 ## Confidential Links & Embeds: 
 
-### [Hatohobei](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.md) 
+### #is_/same_as :: [Hatohobei](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.md) 
 
-### [Hatohobei.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.public.md) 
+### #is_/same_as :: [Hatohobei.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.public.md) 
 
-### [Hatohobei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.internal.md) 
+### #is_/same_as :: [Hatohobei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.internal.md) 
 
-### [Hatohobei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.protect.md) 
+### #is_/same_as :: [Hatohobei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.protect.md) 
 
-### [Hatohobei.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.private.md) 
+### #is_/same_as :: [Hatohobei.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.private.md) 
 
-### [Hatohobei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.personal.md) 
+### #is_/same_as :: [Hatohobei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.personal.md) 
 
-### [Hatohobei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret.md)
+### #is_/same_as :: [Hatohobei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret.md)
 

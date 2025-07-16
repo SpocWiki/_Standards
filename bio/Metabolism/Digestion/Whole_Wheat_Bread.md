@@ -10,21 +10,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Whole%20wheat%20bread) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Whole_Wheat_Bread](/_Standards/bio/Metabolism/Digestion/Whole_Wheat_Bread.md) 
+### #is_/same_as :: [Whole_Wheat_Bread](/_Standards/bio/Metabolism/Digestion/Whole_Wheat_Bread.md) 
 
-### [Whole_Wheat_Bread.public](/_public/bio/Metabolism/Digestion/Whole_Wheat_Bread.public.md) 
+### #is_/same_as :: [Whole_Wheat_Bread.public](/_public/bio/Metabolism/Digestion/Whole_Wheat_Bread.public.md) 
 
-### [Whole_Wheat_Bread.internal](/_internal/bio/Metabolism/Digestion/Whole_Wheat_Bread.internal.md) 
+### #is_/same_as :: [Whole_Wheat_Bread.internal](/_internal/bio/Metabolism/Digestion/Whole_Wheat_Bread.internal.md) 
 
-### [Whole_Wheat_Bread.protect](/_protect/bio/Metabolism/Digestion/Whole_Wheat_Bread.protect.md) 
+### #is_/same_as :: [Whole_Wheat_Bread.protect](/_protect/bio/Metabolism/Digestion/Whole_Wheat_Bread.protect.md) 
 
-### [Whole_Wheat_Bread.private](/_private/bio/Metabolism/Digestion/Whole_Wheat_Bread.private.md) 
+### #is_/same_as :: [Whole_Wheat_Bread.private](/_private/bio/Metabolism/Digestion/Whole_Wheat_Bread.private.md) 
 
-### [Whole_Wheat_Bread.personal](/_personal/bio/Metabolism/Digestion/Whole_Wheat_Bread.personal.md) 
+### #is_/same_as :: [Whole_Wheat_Bread.personal](/_personal/bio/Metabolism/Digestion/Whole_Wheat_Bread.personal.md) 
 
-### [Whole_Wheat_Bread.secret](/_secret/bio/Metabolism/Digestion/Whole_Wheat_Bread.secret.md)
+### #is_/same_as :: [Whole_Wheat_Bread.secret](/_secret/bio/Metabolism/Digestion/Whole_Wheat_Bread.secret.md)
 

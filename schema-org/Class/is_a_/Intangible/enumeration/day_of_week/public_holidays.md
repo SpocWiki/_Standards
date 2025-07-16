@@ -47,17 +47,17 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 ## Confidential Links & Embeds: 
 
-### [public_holidays](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.md) 
+### #is_/same_as :: [public_holidays](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.md) 
 
-### [public_holidays.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.public.md) 
+### #is_/same_as :: [public_holidays.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.public.md) 
 
-### [public_holidays.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.internal.md) 
+### #is_/same_as :: [public_holidays.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.internal.md) 
 
-### [public_holidays.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.protect.md) 
+### #is_/same_as :: [public_holidays.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.protect.md) 
 
-### [public_holidays.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.private.md) 
+### #is_/same_as :: [public_holidays.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.private.md) 
 
-### [public_holidays.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.personal.md) 
+### #is_/same_as :: [public_holidays.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.personal.md) 
 
-### [public_holidays.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.secret.md)
+### #is_/same_as :: [public_holidays.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.secret.md)
 

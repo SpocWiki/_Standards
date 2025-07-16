@@ -47,17 +47,17 @@ A service provided by an organization, e.g. delivery service, print services, et
 
 ## Confidential Links & Embeds: 
 
-### [service](/_Standards/schema-org/Class/is_a_/Intangible/service.md) 
+### #is_/same_as :: [service](/_Standards/schema-org/Class/is_a_/Intangible/service.md) 
 
-### [service.public](/_public/schema-org/Class/is_a_/Intangible/service.public.md) 
+### #is_/same_as :: [service.public](/_public/schema-org/Class/is_a_/Intangible/service.public.md) 
 
-### [service.internal](/_internal/schema-org/Class/is_a_/Intangible/service.internal.md) 
+### #is_/same_as :: [service.internal](/_internal/schema-org/Class/is_a_/Intangible/service.internal.md) 
 
-### [service.protect](/_protect/schema-org/Class/is_a_/Intangible/service.protect.md) 
+### #is_/same_as :: [service.protect](/_protect/schema-org/Class/is_a_/Intangible/service.protect.md) 
 
-### [service.private](/_private/schema-org/Class/is_a_/Intangible/service.private.md) 
+### #is_/same_as :: [service.private](/_private/schema-org/Class/is_a_/Intangible/service.private.md) 
 
-### [service.personal](/_personal/schema-org/Class/is_a_/Intangible/service.personal.md) 
+### #is_/same_as :: [service.personal](/_personal/schema-org/Class/is_a_/Intangible/service.personal.md) 
 
-### [service.secret](/_secret/schema-org/Class/is_a_/Intangible/service.secret.md)
+### #is_/same_as :: [service.secret](/_secret/schema-org/Class/is_a_/Intangible/service.secret.md)
 

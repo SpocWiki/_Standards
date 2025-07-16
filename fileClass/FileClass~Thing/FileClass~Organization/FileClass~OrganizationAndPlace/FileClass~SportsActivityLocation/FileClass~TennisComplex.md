@@ -35,17 +35,17 @@ A tennis complex.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TennisComplex](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.md) 
+### #is_/same_as :: [FileClass~TennisComplex](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.md) 
 
-### [FileClass~TennisComplex.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.public.md) 
+### #is_/same_as :: [FileClass~TennisComplex.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.public.md) 
 
-### [FileClass~TennisComplex.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.internal.md) 
+### #is_/same_as :: [FileClass~TennisComplex.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.internal.md) 
 
-### [FileClass~TennisComplex.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.protect.md) 
+### #is_/same_as :: [FileClass~TennisComplex.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.protect.md) 
 
-### [FileClass~TennisComplex.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.private.md) 
+### #is_/same_as :: [FileClass~TennisComplex.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.private.md) 
 
-### [FileClass~TennisComplex.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.personal.md) 
+### #is_/same_as :: [FileClass~TennisComplex.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.personal.md) 
 
-### [FileClass~TennisComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.secret.md)
+### #is_/same_as :: [FileClass~TennisComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.secret.md)
 

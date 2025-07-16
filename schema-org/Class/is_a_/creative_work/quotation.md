@@ -47,17 +47,17 @@ A quotation. Often but not necessarily from some written work, attributable to a
 
 ## Confidential Links & Embeds: 
 
-### [quotation](/_Standards/schema-org/Class/is_a_/creative_work/quotation.md) 
+### #is_/same_as :: [quotation](/_Standards/schema-org/Class/is_a_/creative_work/quotation.md) 
 
-### [quotation.public](/_public/schema-org/Class/is_a_/creative_work/quotation.public.md) 
+### #is_/same_as :: [quotation.public](/_public/schema-org/Class/is_a_/creative_work/quotation.public.md) 
 
-### [quotation.internal](/_internal/schema-org/Class/is_a_/creative_work/quotation.internal.md) 
+### #is_/same_as :: [quotation.internal](/_internal/schema-org/Class/is_a_/creative_work/quotation.internal.md) 
 
-### [quotation.protect](/_protect/schema-org/Class/is_a_/creative_work/quotation.protect.md) 
+### #is_/same_as :: [quotation.protect](/_protect/schema-org/Class/is_a_/creative_work/quotation.protect.md) 
 
-### [quotation.private](/_private/schema-org/Class/is_a_/creative_work/quotation.private.md) 
+### #is_/same_as :: [quotation.private](/_private/schema-org/Class/is_a_/creative_work/quotation.private.md) 
 
-### [quotation.personal](/_personal/schema-org/Class/is_a_/creative_work/quotation.personal.md) 
+### #is_/same_as :: [quotation.personal](/_personal/schema-org/Class/is_a_/creative_work/quotation.personal.md) 
 
-### [quotation.secret](/_secret/schema-org/Class/is_a_/creative_work/quotation.secret.md)
+### #is_/same_as :: [quotation.secret](/_secret/schema-org/Class/is_a_/creative_work/quotation.secret.md)
 

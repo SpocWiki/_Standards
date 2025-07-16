@@ -215,20 +215,19 @@ Location ::        Alabama
 Copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Desmognathus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.md) 
+### #is_/same_as :: [Desmognathus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.md) 
 
-### [Desmognathus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.public.md) 
+### #is_/same_as :: [Desmognathus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.public.md) 
 
-### [Desmognathus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.internal.md) 
+### #is_/same_as :: [Desmognathus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.internal.md) 
 
-### [Desmognathus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.protect.md) 
+### #is_/same_as :: [Desmognathus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.protect.md) 
 
-### [Desmognathus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.private.md) 
+### #is_/same_as :: [Desmognathus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.private.md) 
 
-### [Desmognathus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.personal.md) 
+### #is_/same_as :: [Desmognathus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.personal.md) 
 
-### [Desmognathus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.secret.md)
+### #is_/same_as :: [Desmognathus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae/Desmognathus.secret.md)
 

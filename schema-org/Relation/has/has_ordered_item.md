@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_ordered_item](/_Standards/schema-org/Relation/has/has_ordered_item.md) 
+### #is_/same_as :: [has_ordered_item](/_Standards/schema-org/Relation/has/has_ordered_item.md) 
 
-### [has_ordered_item.public](/_public/schema-org/Relation/has/has_ordered_item.public.md) 
+### #is_/same_as :: [has_ordered_item.public](/_public/schema-org/Relation/has/has_ordered_item.public.md) 
 
-### [has_ordered_item.internal](/_internal/schema-org/Relation/has/has_ordered_item.internal.md) 
+### #is_/same_as :: [has_ordered_item.internal](/_internal/schema-org/Relation/has/has_ordered_item.internal.md) 
 
-### [has_ordered_item.protect](/_protect/schema-org/Relation/has/has_ordered_item.protect.md) 
+### #is_/same_as :: [has_ordered_item.protect](/_protect/schema-org/Relation/has/has_ordered_item.protect.md) 
 
-### [has_ordered_item.private](/_private/schema-org/Relation/has/has_ordered_item.private.md) 
+### #is_/same_as :: [has_ordered_item.private](/_private/schema-org/Relation/has/has_ordered_item.private.md) 
 
-### [has_ordered_item.personal](/_personal/schema-org/Relation/has/has_ordered_item.personal.md) 
+### #is_/same_as :: [has_ordered_item.personal](/_personal/schema-org/Relation/has/has_ordered_item.personal.md) 
 
-### [has_ordered_item.secret](/_secret/schema-org/Relation/has/has_ordered_item.secret.md)
+### #is_/same_as :: [has_ordered_item.secret](/_secret/schema-org/Relation/has/has_ordered_item.secret.md)
 

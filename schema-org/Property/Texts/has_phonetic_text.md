@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_phonetic_text](/_Standards/schema-org/Property/Texts/has_phonetic_text.md) 
+### #is_/same_as :: [has_phonetic_text](/_Standards/schema-org/Property/Texts/has_phonetic_text.md) 
 
-### [has_phonetic_text.public](/_public/schema-org/Property/Texts/has_phonetic_text.public.md) 
+### #is_/same_as :: [has_phonetic_text.public](/_public/schema-org/Property/Texts/has_phonetic_text.public.md) 
 
-### [has_phonetic_text.internal](/_internal/schema-org/Property/Texts/has_phonetic_text.internal.md) 
+### #is_/same_as :: [has_phonetic_text.internal](/_internal/schema-org/Property/Texts/has_phonetic_text.internal.md) 
 
-### [has_phonetic_text.protect](/_protect/schema-org/Property/Texts/has_phonetic_text.protect.md) 
+### #is_/same_as :: [has_phonetic_text.protect](/_protect/schema-org/Property/Texts/has_phonetic_text.protect.md) 
 
-### [has_phonetic_text.private](/_private/schema-org/Property/Texts/has_phonetic_text.private.md) 
+### #is_/same_as :: [has_phonetic_text.private](/_private/schema-org/Property/Texts/has_phonetic_text.private.md) 
 
-### [has_phonetic_text.personal](/_personal/schema-org/Property/Texts/has_phonetic_text.personal.md) 
+### #is_/same_as :: [has_phonetic_text.personal](/_personal/schema-org/Property/Texts/has_phonetic_text.personal.md) 
 
-### [has_phonetic_text.secret](/_secret/schema-org/Property/Texts/has_phonetic_text.secret.md)
+### #is_/same_as :: [has_phonetic_text.secret](/_secret/schema-org/Property/Texts/has_phonetic_text.secret.md)
 

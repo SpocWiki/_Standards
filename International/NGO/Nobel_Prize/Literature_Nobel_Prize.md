@@ -328,21 +328,19 @@ aliases:
 | [2024](https://en.wikipedia.org/wiki/2024_Nobel_Prize_in_Literature "2024 Nobel Prize in Literature") | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Han_Kang_in_2017_%28cropped%29.png/75px-Han_Kang_in_2017_%28cropped%29.png)](https://en.wikipedia.org/wiki/File:Han_Kang_in_2017_\(cropped\).png)                                                                                                                                                                                                                                                                                                                                                                                                                     | [Han Kang](https://en.wikipedia.org/wiki/Han_Kang "Han Kang")  <br>(b. 1970)                                                       | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png)[South Korea](https://en.wikipedia.org/wiki/South_Korea "South Korea")                                                                                                                                                                                                                                                                                                                                                                                                 | [Korean](https://en.wikipedia.org/wiki/Korean_language "Korean language")                                                                                     | "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life"                                                                                                                                                                                                                                                | novel, poetry                                                            |
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Literature_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Literature_Nobel_Prize.md) 
+### #is_/same_as :: [Literature_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Literature_Nobel_Prize.md) 
 
-### [Literature_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Literature_Nobel_Prize.public.md) 
+### #is_/same_as :: [Literature_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Literature_Nobel_Prize.public.md) 
 
-### [Literature_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Literature_Nobel_Prize.internal.md) 
+### #is_/same_as :: [Literature_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Literature_Nobel_Prize.internal.md) 
 
-### [Literature_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Literature_Nobel_Prize.protect.md) 
+### #is_/same_as :: [Literature_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Literature_Nobel_Prize.protect.md) 
 
-### [Literature_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Literature_Nobel_Prize.private.md) 
+### #is_/same_as :: [Literature_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Literature_Nobel_Prize.private.md) 
 
-### [Literature_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Literature_Nobel_Prize.personal.md) 
+### #is_/same_as :: [Literature_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Literature_Nobel_Prize.personal.md) 
 
-### [Literature_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Literature_Nobel_Prize.secret.md)
+### #is_/same_as :: [Literature_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Literature_Nobel_Prize.secret.md)
 

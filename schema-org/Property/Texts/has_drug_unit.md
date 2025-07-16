@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_drug_unit](/_Standards/schema-org/Property/Texts/has_drug_unit.md) 
+### #is_/same_as :: [has_drug_unit](/_Standards/schema-org/Property/Texts/has_drug_unit.md) 
 
-### [has_drug_unit.public](/_public/schema-org/Property/Texts/has_drug_unit.public.md) 
+### #is_/same_as :: [has_drug_unit.public](/_public/schema-org/Property/Texts/has_drug_unit.public.md) 
 
-### [has_drug_unit.internal](/_internal/schema-org/Property/Texts/has_drug_unit.internal.md) 
+### #is_/same_as :: [has_drug_unit.internal](/_internal/schema-org/Property/Texts/has_drug_unit.internal.md) 
 
-### [has_drug_unit.protect](/_protect/schema-org/Property/Texts/has_drug_unit.protect.md) 
+### #is_/same_as :: [has_drug_unit.protect](/_protect/schema-org/Property/Texts/has_drug_unit.protect.md) 
 
-### [has_drug_unit.private](/_private/schema-org/Property/Texts/has_drug_unit.private.md) 
+### #is_/same_as :: [has_drug_unit.private](/_private/schema-org/Property/Texts/has_drug_unit.private.md) 
 
-### [has_drug_unit.personal](/_personal/schema-org/Property/Texts/has_drug_unit.personal.md) 
+### #is_/same_as :: [has_drug_unit.personal](/_personal/schema-org/Property/Texts/has_drug_unit.personal.md) 
 
-### [has_drug_unit.secret](/_secret/schema-org/Property/Texts/has_drug_unit.secret.md)
+### #is_/same_as :: [has_drug_unit.secret](/_secret/schema-org/Property/Texts/has_drug_unit.secret.md)
 

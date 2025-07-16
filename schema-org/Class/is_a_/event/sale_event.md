@@ -45,17 +45,17 @@ Event type: Sales event.
 
 ## Confidential Links & Embeds: 
 
-### [sale_event](/_Standards/schema-org/Class/is_a_/event/sale_event.md) 
+### #is_/same_as :: [sale_event](/_Standards/schema-org/Class/is_a_/event/sale_event.md) 
 
-### [sale_event.public](/_public/schema-org/Class/is_a_/event/sale_event.public.md) 
+### #is_/same_as :: [sale_event.public](/_public/schema-org/Class/is_a_/event/sale_event.public.md) 
 
-### [sale_event.internal](/_internal/schema-org/Class/is_a_/event/sale_event.internal.md) 
+### #is_/same_as :: [sale_event.internal](/_internal/schema-org/Class/is_a_/event/sale_event.internal.md) 
 
-### [sale_event.protect](/_protect/schema-org/Class/is_a_/event/sale_event.protect.md) 
+### #is_/same_as :: [sale_event.protect](/_protect/schema-org/Class/is_a_/event/sale_event.protect.md) 
 
-### [sale_event.private](/_private/schema-org/Class/is_a_/event/sale_event.private.md) 
+### #is_/same_as :: [sale_event.private](/_private/schema-org/Class/is_a_/event/sale_event.private.md) 
 
-### [sale_event.personal](/_personal/schema-org/Class/is_a_/event/sale_event.personal.md) 
+### #is_/same_as :: [sale_event.personal](/_personal/schema-org/Class/is_a_/event/sale_event.personal.md) 
 
-### [sale_event.secret](/_secret/schema-org/Class/is_a_/event/sale_event.secret.md)
+### #is_/same_as :: [sale_event.secret](/_secret/schema-org/Class/is_a_/event/sale_event.secret.md)
 

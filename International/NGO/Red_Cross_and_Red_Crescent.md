@@ -106,17 +106,17 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/RedCross%
 
 ## Confidential Links & Embeds: 
 
-### [Red_Cross_and_Red_Crescent](/_Standards/International/NGO/Red_Cross_and_Red_Crescent.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent](/_Standards/International/NGO/Red_Cross_and_Red_Crescent.md) 
 
-### [Red_Cross_and_Red_Crescent.public](/_public/International/NGO/Red_Cross_and_Red_Crescent.public.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.public](/_public/International/NGO/Red_Cross_and_Red_Crescent.public.md) 
 
-### [Red_Cross_and_Red_Crescent.internal](/_internal/International/NGO/Red_Cross_and_Red_Crescent.internal.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.internal](/_internal/International/NGO/Red_Cross_and_Red_Crescent.internal.md) 
 
-### [Red_Cross_and_Red_Crescent.protect](/_protect/International/NGO/Red_Cross_and_Red_Crescent.protect.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.protect](/_protect/International/NGO/Red_Cross_and_Red_Crescent.protect.md) 
 
-### [Red_Cross_and_Red_Crescent.private](/_private/International/NGO/Red_Cross_and_Red_Crescent.private.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.private](/_private/International/NGO/Red_Cross_and_Red_Crescent.private.md) 
 
-### [Red_Cross_and_Red_Crescent.personal](/_personal/International/NGO/Red_Cross_and_Red_Crescent.personal.md) 
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.personal](/_personal/International/NGO/Red_Cross_and_Red_Crescent.personal.md) 
 
-### [Red_Cross_and_Red_Crescent.secret](/_secret/International/NGO/Red_Cross_and_Red_Crescent.secret.md)
+### #is_/same_as :: [Red_Cross_and_Red_Crescent.secret](/_secret/International/NGO/Red_Cross_and_Red_Crescent.secret.md)
 

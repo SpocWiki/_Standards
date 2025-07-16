@@ -43,17 +43,17 @@ A list of possible conditions for the item.
 
 ## Confidential Links & Embeds: 
 
-### [offer_item_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.md) 
+### #is_/same_as :: [offer_item_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.md) 
 
-### [offer_item_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.public.md) 
+### #is_/same_as :: [offer_item_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.public.md) 
 
-### [offer_item_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.internal.md) 
+### #is_/same_as :: [offer_item_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.internal.md) 
 
-### [offer_item_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.protect.md) 
+### #is_/same_as :: [offer_item_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.protect.md) 
 
-### [offer_item_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.private.md) 
+### #is_/same_as :: [offer_item_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.private.md) 
 
-### [offer_item_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.personal.md) 
+### #is_/same_as :: [offer_item_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.personal.md) 
 
-### [offer_item_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.secret.md)
+### #is_/same_as :: [offer_item_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.secret.md)
 

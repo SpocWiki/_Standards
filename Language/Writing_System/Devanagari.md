@@ -90,17 +90,17 @@ has_time_started: 1100-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Devanagari](/_Standards/Language/Writing_System/Devanagari.md) 
+### #is_/same_as :: [Devanagari](/_Standards/Language/Writing_System/Devanagari.md) 
 
-### [Devanagari.public](/_public/Language/Writing_System/Devanagari.public.md) 
+### #is_/same_as :: [Devanagari.public](/_public/Language/Writing_System/Devanagari.public.md) 
 
-### [Devanagari.internal](/_internal/Language/Writing_System/Devanagari.internal.md) 
+### #is_/same_as :: [Devanagari.internal](/_internal/Language/Writing_System/Devanagari.internal.md) 
 
-### [Devanagari.protect](/_protect/Language/Writing_System/Devanagari.protect.md) 
+### #is_/same_as :: [Devanagari.protect](/_protect/Language/Writing_System/Devanagari.protect.md) 
 
-### [Devanagari.private](/_private/Language/Writing_System/Devanagari.private.md) 
+### #is_/same_as :: [Devanagari.private](/_private/Language/Writing_System/Devanagari.private.md) 
 
-### [Devanagari.personal](/_personal/Language/Writing_System/Devanagari.personal.md) 
+### #is_/same_as :: [Devanagari.personal](/_personal/Language/Writing_System/Devanagari.personal.md) 
 
-### [Devanagari.secret](/_secret/Language/Writing_System/Devanagari.secret.md)
+### #is_/same_as :: [Devanagari.secret](/_secret/Language/Writing_System/Devanagari.secret.md)
 

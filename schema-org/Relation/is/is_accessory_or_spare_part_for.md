@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_accessory_or_spare_part_for](/_Standards/schema-org/Relation/is/is_accessory_or_spare_part_for.md) 
+### #is_/same_as :: [is_accessory_or_spare_part_for](/_Standards/schema-org/Relation/is/is_accessory_or_spare_part_for.md) 
 
-### [is_accessory_or_spare_part_for.public](/_public/schema-org/Relation/is/is_accessory_or_spare_part_for.public.md) 
+### #is_/same_as :: [is_accessory_or_spare_part_for.public](/_public/schema-org/Relation/is/is_accessory_or_spare_part_for.public.md) 
 
-### [is_accessory_or_spare_part_for.internal](/_internal/schema-org/Relation/is/is_accessory_or_spare_part_for.internal.md) 
+### #is_/same_as :: [is_accessory_or_spare_part_for.internal](/_internal/schema-org/Relation/is/is_accessory_or_spare_part_for.internal.md) 
 
-### [is_accessory_or_spare_part_for.protect](/_protect/schema-org/Relation/is/is_accessory_or_spare_part_for.protect.md) 
+### #is_/same_as :: [is_accessory_or_spare_part_for.protect](/_protect/schema-org/Relation/is/is_accessory_or_spare_part_for.protect.md) 
 
-### [is_accessory_or_spare_part_for.private](/_private/schema-org/Relation/is/is_accessory_or_spare_part_for.private.md) 
+### #is_/same_as :: [is_accessory_or_spare_part_for.private](/_private/schema-org/Relation/is/is_accessory_or_spare_part_for.private.md) 
 
-### [is_accessory_or_spare_part_for.personal](/_personal/schema-org/Relation/is/is_accessory_or_spare_part_for.personal.md) 
+### #is_/same_as :: [is_accessory_or_spare_part_for.personal](/_personal/schema-org/Relation/is/is_accessory_or_spare_part_for.personal.md) 
 
-### [is_accessory_or_spare_part_for.secret](/_secret/schema-org/Relation/is/is_accessory_or_spare_part_for.secret.md)
+### #is_/same_as :: [is_accessory_or_spare_part_for.secret](/_secret/schema-org/Relation/is/is_accessory_or_spare_part_for.secret.md)
 

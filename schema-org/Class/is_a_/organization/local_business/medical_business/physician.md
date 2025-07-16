@@ -45,17 +45,17 @@ A doctor's office.
 
 ## Confidential Links & Embeds: 
 
-### [physician](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/physician.md) 
+### #is_/same_as :: [physician](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/physician.md) 
 
-### [physician.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/physician.public.md) 
+### #is_/same_as :: [physician.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/physician.public.md) 
 
-### [physician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/physician.internal.md) 
+### #is_/same_as :: [physician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/physician.internal.md) 
 
-### [physician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/physician.protect.md) 
+### #is_/same_as :: [physician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/physician.protect.md) 
 
-### [physician.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/physician.private.md) 
+### #is_/same_as :: [physician.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/physician.private.md) 
 
-### [physician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/physician.personal.md) 
+### #is_/same_as :: [physician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/physician.personal.md) 
 
-### [physician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/physician.secret.md)
+### #is_/same_as :: [physician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/physician.secret.md)
 

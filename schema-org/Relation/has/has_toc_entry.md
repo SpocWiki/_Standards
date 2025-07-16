@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_toc_entry](/_Standards/schema-org/Relation/has/has_toc_entry.md) 
+### #is_/same_as :: [has_toc_entry](/_Standards/schema-org/Relation/has/has_toc_entry.md) 
 
-### [has_toc_entry.public](/_public/schema-org/Relation/has/has_toc_entry.public.md) 
+### #is_/same_as :: [has_toc_entry.public](/_public/schema-org/Relation/has/has_toc_entry.public.md) 
 
-### [has_toc_entry.internal](/_internal/schema-org/Relation/has/has_toc_entry.internal.md) 
+### #is_/same_as :: [has_toc_entry.internal](/_internal/schema-org/Relation/has/has_toc_entry.internal.md) 
 
-### [has_toc_entry.protect](/_protect/schema-org/Relation/has/has_toc_entry.protect.md) 
+### #is_/same_as :: [has_toc_entry.protect](/_protect/schema-org/Relation/has/has_toc_entry.protect.md) 
 
-### [has_toc_entry.private](/_private/schema-org/Relation/has/has_toc_entry.private.md) 
+### #is_/same_as :: [has_toc_entry.private](/_private/schema-org/Relation/has/has_toc_entry.private.md) 
 
-### [has_toc_entry.personal](/_personal/schema-org/Relation/has/has_toc_entry.personal.md) 
+### #is_/same_as :: [has_toc_entry.personal](/_personal/schema-org/Relation/has/has_toc_entry.personal.md) 
 
-### [has_toc_entry.secret](/_secret/schema-org/Relation/has/has_toc_entry.secret.md)
+### #is_/same_as :: [has_toc_entry.secret](/_secret/schema-org/Relation/has/has_toc_entry.secret.md)
 

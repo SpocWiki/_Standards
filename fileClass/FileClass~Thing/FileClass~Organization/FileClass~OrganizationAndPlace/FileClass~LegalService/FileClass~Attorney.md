@@ -37,17 +37,17 @@ This type is deprecated - [[LegalService]] is more inclusive and less ambiguous.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Attorney](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.md) 
+### #is_/same_as :: [FileClass~Attorney](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.md) 
 
-### [FileClass~Attorney.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.public.md) 
+### #is_/same_as :: [FileClass~Attorney.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.public.md) 
 
-### [FileClass~Attorney.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.internal.md) 
+### #is_/same_as :: [FileClass~Attorney.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.internal.md) 
 
-### [FileClass~Attorney.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.protect.md) 
+### #is_/same_as :: [FileClass~Attorney.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.protect.md) 
 
-### [FileClass~Attorney.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.private.md) 
+### #is_/same_as :: [FileClass~Attorney.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.private.md) 
 
-### [FileClass~Attorney.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.personal.md) 
+### #is_/same_as :: [FileClass~Attorney.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.personal.md) 
 
-### [FileClass~Attorney.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.secret.md)
+### #is_/same_as :: [FileClass~Attorney.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Attorney.secret.md)
 

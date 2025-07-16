@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_functional_class](/_Standards/schema-org/Relation/has/has_functional_class.md) 
+### #is_/same_as :: [has_functional_class](/_Standards/schema-org/Relation/has/has_functional_class.md) 
 
-### [has_functional_class.public](/_public/schema-org/Relation/has/has_functional_class.public.md) 
+### #is_/same_as :: [has_functional_class.public](/_public/schema-org/Relation/has/has_functional_class.public.md) 
 
-### [has_functional_class.internal](/_internal/schema-org/Relation/has/has_functional_class.internal.md) 
+### #is_/same_as :: [has_functional_class.internal](/_internal/schema-org/Relation/has/has_functional_class.internal.md) 
 
-### [has_functional_class.protect](/_protect/schema-org/Relation/has/has_functional_class.protect.md) 
+### #is_/same_as :: [has_functional_class.protect](/_protect/schema-org/Relation/has/has_functional_class.protect.md) 
 
-### [has_functional_class.private](/_private/schema-org/Relation/has/has_functional_class.private.md) 
+### #is_/same_as :: [has_functional_class.private](/_private/schema-org/Relation/has/has_functional_class.private.md) 
 
-### [has_functional_class.personal](/_personal/schema-org/Relation/has/has_functional_class.personal.md) 
+### #is_/same_as :: [has_functional_class.personal](/_personal/schema-org/Relation/has/has_functional_class.personal.md) 
 
-### [has_functional_class.secret](/_secret/schema-org/Relation/has/has_functional_class.secret.md)
+### #is_/same_as :: [has_functional_class.secret](/_secret/schema-org/Relation/has/has_functional_class.secret.md)
 

@@ -58,17 +58,17 @@ GitHub_topic: paleontology
 
 ## Confidential Links & Embeds: 
 
-### [Paleontology](/_Standards/bio/Paleontology.md) 
+### #is_/same_as :: [Paleontology](/_Standards/bio/Paleontology.md) 
 
-### [Paleontology.public](/_public/bio/Paleontology.public.md) 
+### #is_/same_as :: [Paleontology.public](/_public/bio/Paleontology.public.md) 
 
-### [Paleontology.internal](/_internal/bio/Paleontology.internal.md) 
+### #is_/same_as :: [Paleontology.internal](/_internal/bio/Paleontology.internal.md) 
 
-### [Paleontology.protect](/_protect/bio/Paleontology.protect.md) 
+### #is_/same_as :: [Paleontology.protect](/_protect/bio/Paleontology.protect.md) 
 
-### [Paleontology.private](/_private/bio/Paleontology.private.md) 
+### #is_/same_as :: [Paleontology.private](/_private/bio/Paleontology.private.md) 
 
-### [Paleontology.personal](/_personal/bio/Paleontology.personal.md) 
+### #is_/same_as :: [Paleontology.personal](/_personal/bio/Paleontology.personal.md) 
 
-### [Paleontology.secret](/_secret/bio/Paleontology.secret.md)
+### #is_/same_as :: [Paleontology.secret](/_secret/bio/Paleontology.secret.md)
 

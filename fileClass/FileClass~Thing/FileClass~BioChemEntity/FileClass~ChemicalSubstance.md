@@ -67,17 +67,17 @@ PotentialUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ChemicalSubstance](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.md) 
+### #is_/same_as :: [FileClass~ChemicalSubstance](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.md) 
 
-### [FileClass~ChemicalSubstance.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.public.md) 
+### #is_/same_as :: [FileClass~ChemicalSubstance.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.public.md) 
 
-### [FileClass~ChemicalSubstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.internal.md) 
+### #is_/same_as :: [FileClass~ChemicalSubstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.internal.md) 
 
-### [FileClass~ChemicalSubstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.protect.md) 
+### #is_/same_as :: [FileClass~ChemicalSubstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.protect.md) 
 
-### [FileClass~ChemicalSubstance.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.private.md) 
+### #is_/same_as :: [FileClass~ChemicalSubstance.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.private.md) 
 
-### [FileClass~ChemicalSubstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.personal.md) 
+### #is_/same_as :: [FileClass~ChemicalSubstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.personal.md) 
 
-### [FileClass~ChemicalSubstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.secret.md)
+### #is_/same_as :: [FileClass~ChemicalSubstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.secret.md)
 

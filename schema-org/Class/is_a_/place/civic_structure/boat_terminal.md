@@ -47,17 +47,17 @@ A terminal for boats, ships, and other water vessels.
 
 ## Confidential Links & Embeds: 
 
-### [boat_terminal](/_Standards/schema-org/Class/is_a_/place/civic_structure/boat_terminal.md) 
+### #is_/same_as :: [boat_terminal](/_Standards/schema-org/Class/is_a_/place/civic_structure/boat_terminal.md) 
 
-### [boat_terminal.public](/_public/schema-org/Class/is_a_/place/civic_structure/boat_terminal.public.md) 
+### #is_/same_as :: [boat_terminal.public](/_public/schema-org/Class/is_a_/place/civic_structure/boat_terminal.public.md) 
 
-### [boat_terminal.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/boat_terminal.internal.md) 
+### #is_/same_as :: [boat_terminal.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/boat_terminal.internal.md) 
 
-### [boat_terminal.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/boat_terminal.protect.md) 
+### #is_/same_as :: [boat_terminal.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/boat_terminal.protect.md) 
 
-### [boat_terminal.private](/_private/schema-org/Class/is_a_/place/civic_structure/boat_terminal.private.md) 
+### #is_/same_as :: [boat_terminal.private](/_private/schema-org/Class/is_a_/place/civic_structure/boat_terminal.private.md) 
 
-### [boat_terminal.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/boat_terminal.personal.md) 
+### #is_/same_as :: [boat_terminal.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/boat_terminal.personal.md) 
 
-### [boat_terminal.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/boat_terminal.secret.md)
+### #is_/same_as :: [boat_terminal.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/boat_terminal.secret.md)
 

@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_archive_held](/_Standards/schema-org/Relation/has/has_archive_held.md) 
+### #is_/same_as :: [has_archive_held](/_Standards/schema-org/Relation/has/has_archive_held.md) 
 
-### [has_archive_held.public](/_public/schema-org/Relation/has/has_archive_held.public.md) 
+### #is_/same_as :: [has_archive_held.public](/_public/schema-org/Relation/has/has_archive_held.public.md) 
 
-### [has_archive_held.internal](/_internal/schema-org/Relation/has/has_archive_held.internal.md) 
+### #is_/same_as :: [has_archive_held.internal](/_internal/schema-org/Relation/has/has_archive_held.internal.md) 
 
-### [has_archive_held.protect](/_protect/schema-org/Relation/has/has_archive_held.protect.md) 
+### #is_/same_as :: [has_archive_held.protect](/_protect/schema-org/Relation/has/has_archive_held.protect.md) 
 
-### [has_archive_held.private](/_private/schema-org/Relation/has/has_archive_held.private.md) 
+### #is_/same_as :: [has_archive_held.private](/_private/schema-org/Relation/has/has_archive_held.private.md) 
 
-### [has_archive_held.personal](/_personal/schema-org/Relation/has/has_archive_held.personal.md) 
+### #is_/same_as :: [has_archive_held.personal](/_personal/schema-org/Relation/has/has_archive_held.personal.md) 
 
-### [has_archive_held.secret](/_secret/schema-org/Relation/has/has_archive_held.secret.md)
+### #is_/same_as :: [has_archive_held.secret](/_secret/schema-org/Relation/has/has_archive_held.secret.md)
 

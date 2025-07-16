@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_amount_of_this_good](/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.md) 
+### #is_/same_as :: [has_value_for_amount_of_this_good](/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.md) 
 
-### [has_value_for_amount_of_this_good.public](/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public.md) 
+### #is_/same_as :: [has_value_for_amount_of_this_good.public](/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public.md) 
 
-### [has_value_for_amount_of_this_good.internal](/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal.md) 
+### #is_/same_as :: [has_value_for_amount_of_this_good.internal](/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal.md) 
 
-### [has_value_for_amount_of_this_good.protect](/_protect/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.protect.md) 
+### #is_/same_as :: [has_value_for_amount_of_this_good.protect](/_protect/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.protect.md) 
 
-### [has_value_for_amount_of_this_good.private](/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private.md) 
+### #is_/same_as :: [has_value_for_amount_of_this_good.private](/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private.md) 
 
-### [has_value_for_amount_of_this_good.personal](/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal.md) 
+### #is_/same_as :: [has_value_for_amount_of_this_good.personal](/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal.md) 
 
-### [has_value_for_amount_of_this_good.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret.md)
+### #is_/same_as :: [has_value_for_amount_of_this_good.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret.md)
 

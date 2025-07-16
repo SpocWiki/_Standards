@@ -35,17 +35,17 @@ Web page type: Profile page.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProfilePage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.md) 
+### #is_/same_as :: [FileClass~ProfilePage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.md) 
 
-### [FileClass~ProfilePage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.public.md) 
+### #is_/same_as :: [FileClass~ProfilePage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.public.md) 
 
-### [FileClass~ProfilePage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.internal.md) 
+### #is_/same_as :: [FileClass~ProfilePage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.internal.md) 
 
-### [FileClass~ProfilePage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.protect.md) 
+### #is_/same_as :: [FileClass~ProfilePage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.protect.md) 
 
-### [FileClass~ProfilePage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.private.md) 
+### #is_/same_as :: [FileClass~ProfilePage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.private.md) 
 
-### [FileClass~ProfilePage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.personal.md) 
+### #is_/same_as :: [FileClass~ProfilePage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.personal.md) 
 
-### [FileClass~ProfilePage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.secret.md)
+### #is_/same_as :: [FileClass~ProfilePage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ProfilePage.secret.md)
 

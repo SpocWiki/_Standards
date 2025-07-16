@@ -53,21 +53,19 @@ Krugosvet_article: literatura/abu-nuvas
 > [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Nuwas)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Abu_Nuwas](/_Standards/bio/People/Writer/Abu_Nuwas.md) 
+### #is_/same_as :: [Abu_Nuwas](/_Standards/bio/People/Writer/Abu_Nuwas.md) 
 
-### [Abu_Nuwas.public](/_public/bio/People/Writer/Abu_Nuwas.public.md) 
+### #is_/same_as :: [Abu_Nuwas.public](/_public/bio/People/Writer/Abu_Nuwas.public.md) 
 
-### [Abu_Nuwas.internal](/_internal/bio/People/Writer/Abu_Nuwas.internal.md) 
+### #is_/same_as :: [Abu_Nuwas.internal](/_internal/bio/People/Writer/Abu_Nuwas.internal.md) 
 
-### [Abu_Nuwas.protect](/_protect/bio/People/Writer/Abu_Nuwas.protect.md) 
+### #is_/same_as :: [Abu_Nuwas.protect](/_protect/bio/People/Writer/Abu_Nuwas.protect.md) 
 
-### [Abu_Nuwas.private](/_private/bio/People/Writer/Abu_Nuwas.private.md) 
+### #is_/same_as :: [Abu_Nuwas.private](/_private/bio/People/Writer/Abu_Nuwas.private.md) 
 
-### [Abu_Nuwas.personal](/_personal/bio/People/Writer/Abu_Nuwas.personal.md) 
+### #is_/same_as :: [Abu_Nuwas.personal](/_personal/bio/People/Writer/Abu_Nuwas.personal.md) 
 
-### [Abu_Nuwas.secret](/_secret/bio/People/Writer/Abu_Nuwas.secret.md)
+### #is_/same_as :: [Abu_Nuwas.secret](/_secret/bio/People/Writer/Abu_Nuwas.secret.md)
 

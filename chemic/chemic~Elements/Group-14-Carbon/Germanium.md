@@ -129,17 +129,17 @@ DSSTOX_compound_identifier: DTXCID5031056
 
 ## Confidential Links & Embeds: 
 
-### [Germanium](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Germanium.md) 
+### #is_/same_as :: [Germanium](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Germanium.md) 
 
-### [Germanium.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Germanium.public.md) 
+### #is_/same_as :: [Germanium.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Germanium.public.md) 
 
-### [Germanium.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Germanium.internal.md) 
+### #is_/same_as :: [Germanium.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Germanium.internal.md) 
 
-### [Germanium.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Germanium.protect.md) 
+### #is_/same_as :: [Germanium.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Germanium.protect.md) 
 
-### [Germanium.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Germanium.private.md) 
+### #is_/same_as :: [Germanium.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Germanium.private.md) 
 
-### [Germanium.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Germanium.personal.md) 
+### #is_/same_as :: [Germanium.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Germanium.personal.md) 
 
-### [Germanium.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Germanium.secret.md)
+### #is_/same_as :: [Germanium.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Germanium.secret.md)
 

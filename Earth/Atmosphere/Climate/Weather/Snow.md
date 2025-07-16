@@ -58,21 +58,19 @@ Commons_category: Snow
 > [Wikipedia](https://en.wikipedia.org/wiki/Snow)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Snow](/_Standards/Earth/Atmosphere/Climate/Weather/Snow.md) 
+### #is_/same_as :: [Snow](/_Standards/Earth/Atmosphere/Climate/Weather/Snow.md) 
 
-### [Snow.public](/_public/Earth/Atmosphere/Climate/Weather/Snow.public.md) 
+### #is_/same_as :: [Snow.public](/_public/Earth/Atmosphere/Climate/Weather/Snow.public.md) 
 
-### [Snow.internal](/_internal/Earth/Atmosphere/Climate/Weather/Snow.internal.md) 
+### #is_/same_as :: [Snow.internal](/_internal/Earth/Atmosphere/Climate/Weather/Snow.internal.md) 
 
-### [Snow.protect](/_protect/Earth/Atmosphere/Climate/Weather/Snow.protect.md) 
+### #is_/same_as :: [Snow.protect](/_protect/Earth/Atmosphere/Climate/Weather/Snow.protect.md) 
 
-### [Snow.private](/_private/Earth/Atmosphere/Climate/Weather/Snow.private.md) 
+### #is_/same_as :: [Snow.private](/_private/Earth/Atmosphere/Climate/Weather/Snow.private.md) 
 
-### [Snow.personal](/_personal/Earth/Atmosphere/Climate/Weather/Snow.personal.md) 
+### #is_/same_as :: [Snow.personal](/_personal/Earth/Atmosphere/Climate/Weather/Snow.personal.md) 
 
-### [Snow.secret](/_secret/Earth/Atmosphere/Climate/Weather/Snow.secret.md)
+### #is_/same_as :: [Snow.secret](/_secret/Earth/Atmosphere/Climate/Weather/Snow.secret.md)
 

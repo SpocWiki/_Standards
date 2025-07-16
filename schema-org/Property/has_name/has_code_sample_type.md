@@ -54,17 +54,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_sample_type](/_Standards/schema-org/Property/has_name/has_code_sample_type.md) 
+### #is_/same_as :: [has_code_sample_type](/_Standards/schema-org/Property/has_name/has_code_sample_type.md) 
 
-### [has_code_sample_type.public](/_public/schema-org/Property/has_name/has_code_sample_type.public.md) 
+### #is_/same_as :: [has_code_sample_type.public](/_public/schema-org/Property/has_name/has_code_sample_type.public.md) 
 
-### [has_code_sample_type.internal](/_internal/schema-org/Property/has_name/has_code_sample_type.internal.md) 
+### #is_/same_as :: [has_code_sample_type.internal](/_internal/schema-org/Property/has_name/has_code_sample_type.internal.md) 
 
-### [has_code_sample_type.protect](/_protect/schema-org/Property/has_name/has_code_sample_type.protect.md) 
+### #is_/same_as :: [has_code_sample_type.protect](/_protect/schema-org/Property/has_name/has_code_sample_type.protect.md) 
 
-### [has_code_sample_type.private](/_private/schema-org/Property/has_name/has_code_sample_type.private.md) 
+### #is_/same_as :: [has_code_sample_type.private](/_private/schema-org/Property/has_name/has_code_sample_type.private.md) 
 
-### [has_code_sample_type.personal](/_personal/schema-org/Property/has_name/has_code_sample_type.personal.md) 
+### #is_/same_as :: [has_code_sample_type.personal](/_personal/schema-org/Property/has_name/has_code_sample_type.personal.md) 
 
-### [has_code_sample_type.secret](/_secret/schema-org/Property/has_name/has_code_sample_type.secret.md)
+### #is_/same_as :: [has_code_sample_type.secret](/_secret/schema-org/Property/has_name/has_code_sample_type.secret.md)
 

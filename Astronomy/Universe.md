@@ -107,17 +107,17 @@ Commons_category: Universe
 
 ## Confidential Links & Embeds: 
 
-### [Universe](/_Standards/Astronomy/Universe.md) 
+### #is_/same_as :: [Universe](/_Standards/Astronomy/Universe.md) 
 
-### [Universe.public](/_public/Astronomy/Universe.public.md) 
+### #is_/same_as :: [Universe.public](/_public/Astronomy/Universe.public.md) 
 
-### [Universe.internal](/_internal/Astronomy/Universe.internal.md) 
+### #is_/same_as :: [Universe.internal](/_internal/Astronomy/Universe.internal.md) 
 
-### [Universe.protect](/_protect/Astronomy/Universe.protect.md) 
+### #is_/same_as :: [Universe.protect](/_protect/Astronomy/Universe.protect.md) 
 
-### [Universe.private](/_private/Astronomy/Universe.private.md) 
+### #is_/same_as :: [Universe.private](/_private/Astronomy/Universe.private.md) 
 
-### [Universe.personal](/_personal/Astronomy/Universe.personal.md) 
+### #is_/same_as :: [Universe.personal](/_personal/Astronomy/Universe.personal.md) 
 
-### [Universe.secret](/_secret/Astronomy/Universe.secret.md)
+### #is_/same_as :: [Universe.secret](/_secret/Astronomy/Universe.secret.md)
 

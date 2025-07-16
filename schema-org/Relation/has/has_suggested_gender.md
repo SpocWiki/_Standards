@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_suggested_gender](/_Standards/schema-org/Relation/has/has_suggested_gender.md) 
+### #is_/same_as :: [has_suggested_gender](/_Standards/schema-org/Relation/has/has_suggested_gender.md) 
 
-### [has_suggested_gender.public](/_public/schema-org/Relation/has/has_suggested_gender.public.md) 
+### #is_/same_as :: [has_suggested_gender.public](/_public/schema-org/Relation/has/has_suggested_gender.public.md) 
 
-### [has_suggested_gender.internal](/_internal/schema-org/Relation/has/has_suggested_gender.internal.md) 
+### #is_/same_as :: [has_suggested_gender.internal](/_internal/schema-org/Relation/has/has_suggested_gender.internal.md) 
 
-### [has_suggested_gender.protect](/_protect/schema-org/Relation/has/has_suggested_gender.protect.md) 
+### #is_/same_as :: [has_suggested_gender.protect](/_protect/schema-org/Relation/has/has_suggested_gender.protect.md) 
 
-### [has_suggested_gender.private](/_private/schema-org/Relation/has/has_suggested_gender.private.md) 
+### #is_/same_as :: [has_suggested_gender.private](/_private/schema-org/Relation/has/has_suggested_gender.private.md) 
 
-### [has_suggested_gender.personal](/_personal/schema-org/Relation/has/has_suggested_gender.personal.md) 
+### #is_/same_as :: [has_suggested_gender.personal](/_personal/schema-org/Relation/has/has_suggested_gender.personal.md) 
 
-### [has_suggested_gender.secret](/_secret/schema-org/Relation/has/has_suggested_gender.secret.md)
+### #is_/same_as :: [has_suggested_gender.secret](/_secret/schema-org/Relation/has/has_suggested_gender.secret.md)
 

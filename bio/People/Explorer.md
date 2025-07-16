@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Explorer](/_Standards/bio/People/Explorer.md) 
+### #is_/same_as :: [Explorer](/_Standards/bio/People/Explorer.md) 
 
-### [Explorer.public](/_public/bio/People/Explorer.public.md) 
+### #is_/same_as :: [Explorer.public](/_public/bio/People/Explorer.public.md) 
 
-### [Explorer.internal](/_internal/bio/People/Explorer.internal.md) 
+### #is_/same_as :: [Explorer.internal](/_internal/bio/People/Explorer.internal.md) 
 
-### [Explorer.protect](/_protect/bio/People/Explorer.protect.md) 
+### #is_/same_as :: [Explorer.protect](/_protect/bio/People/Explorer.protect.md) 
 
-### [Explorer.private](/_private/bio/People/Explorer.private.md) 
+### #is_/same_as :: [Explorer.private](/_private/bio/People/Explorer.private.md) 
 
-### [Explorer.personal](/_personal/bio/People/Explorer.personal.md) 
+### #is_/same_as :: [Explorer.personal](/_personal/bio/People/Explorer.personal.md) 
 
-### [Explorer.secret](/_secret/bio/People/Explorer.secret.md)
+### #is_/same_as :: [Explorer.secret](/_secret/bio/People/Explorer.secret.md)
 

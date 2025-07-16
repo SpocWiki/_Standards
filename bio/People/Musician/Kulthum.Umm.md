@@ -77,21 +77,19 @@ date_of_death: "1975-02-03"
 > [Wikipedia](https://en.wikipedia.org/wiki/Umm%20Kulthum)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Kulthum.Umm](/_Standards/bio/People/Musician/Kulthum.Umm.md) 
+### #is_/same_as :: [Kulthum.Umm](/_Standards/bio/People/Musician/Kulthum.Umm.md) 
 
-### [Kulthum.Umm.public](/_public/bio/People/Musician/Kulthum.Umm.public.md) 
+### #is_/same_as :: [Kulthum.Umm.public](/_public/bio/People/Musician/Kulthum.Umm.public.md) 
 
-### [Kulthum.Umm.internal](/_internal/bio/People/Musician/Kulthum.Umm.internal.md) 
+### #is_/same_as :: [Kulthum.Umm.internal](/_internal/bio/People/Musician/Kulthum.Umm.internal.md) 
 
-### [Kulthum.Umm.protect](/_protect/bio/People/Musician/Kulthum.Umm.protect.md) 
+### #is_/same_as :: [Kulthum.Umm.protect](/_protect/bio/People/Musician/Kulthum.Umm.protect.md) 
 
-### [Kulthum.Umm.private](/_private/bio/People/Musician/Kulthum.Umm.private.md) 
+### #is_/same_as :: [Kulthum.Umm.private](/_private/bio/People/Musician/Kulthum.Umm.private.md) 
 
-### [Kulthum.Umm.personal](/_personal/bio/People/Musician/Kulthum.Umm.personal.md) 
+### #is_/same_as :: [Kulthum.Umm.personal](/_personal/bio/People/Musician/Kulthum.Umm.personal.md) 
 
-### [Kulthum.Umm.secret](/_secret/bio/People/Musician/Kulthum.Umm.secret.md)
+### #is_/same_as :: [Kulthum.Umm.secret](/_secret/bio/People/Musician/Kulthum.Umm.secret.md)
 

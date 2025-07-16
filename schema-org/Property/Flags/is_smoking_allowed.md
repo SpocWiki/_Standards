@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_smoking_allowed](/_Standards/schema-org/Property/Flags/is_smoking_allowed.md) 
+### #is_/same_as :: [is_smoking_allowed](/_Standards/schema-org/Property/Flags/is_smoking_allowed.md) 
 
-### [is_smoking_allowed.public](/_public/schema-org/Property/Flags/is_smoking_allowed.public.md) 
+### #is_/same_as :: [is_smoking_allowed.public](/_public/schema-org/Property/Flags/is_smoking_allowed.public.md) 
 
-### [is_smoking_allowed.internal](/_internal/schema-org/Property/Flags/is_smoking_allowed.internal.md) 
+### #is_/same_as :: [is_smoking_allowed.internal](/_internal/schema-org/Property/Flags/is_smoking_allowed.internal.md) 
 
-### [is_smoking_allowed.protect](/_protect/schema-org/Property/Flags/is_smoking_allowed.protect.md) 
+### #is_/same_as :: [is_smoking_allowed.protect](/_protect/schema-org/Property/Flags/is_smoking_allowed.protect.md) 
 
-### [is_smoking_allowed.private](/_private/schema-org/Property/Flags/is_smoking_allowed.private.md) 
+### #is_/same_as :: [is_smoking_allowed.private](/_private/schema-org/Property/Flags/is_smoking_allowed.private.md) 
 
-### [is_smoking_allowed.personal](/_personal/schema-org/Property/Flags/is_smoking_allowed.personal.md) 
+### #is_/same_as :: [is_smoking_allowed.personal](/_personal/schema-org/Property/Flags/is_smoking_allowed.personal.md) 
 
-### [is_smoking_allowed.secret](/_secret/schema-org/Property/Flags/is_smoking_allowed.secret.md)
+### #is_/same_as :: [is_smoking_allowed.secret](/_secret/schema-org/Property/Flags/is_smoking_allowed.secret.md)
 

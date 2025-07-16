@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~2~Ectasian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.md) 
+### #is_/same_as :: [Period~2~Ectasian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.md) 
 
-### [Period~2~Ectasian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.public.md) 
+### #is_/same_as :: [Period~2~Ectasian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.public.md) 
 
-### [Period~2~Ectasian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.internal.md) 
+### #is_/same_as :: [Period~2~Ectasian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.internal.md) 
 
-### [Period~2~Ectasian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.protect.md) 
+### #is_/same_as :: [Period~2~Ectasian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.protect.md) 
 
-### [Period~2~Ectasian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.private.md) 
+### #is_/same_as :: [Period~2~Ectasian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.private.md) 
 
-### [Period~2~Ectasian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.personal.md) 
+### #is_/same_as :: [Period~2~Ectasian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.personal.md) 
 
-### [Period~2~Ectasian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.secret.md)
+### #is_/same_as :: [Period~2~Ectasian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.secret.md)
 

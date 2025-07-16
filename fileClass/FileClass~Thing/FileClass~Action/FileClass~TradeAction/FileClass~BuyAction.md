@@ -46,17 +46,17 @@ Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BuyAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.md) 
+### #is_/same_as :: [FileClass~BuyAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.md) 
 
-### [FileClass~BuyAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.public.md) 
+### #is_/same_as :: [FileClass~BuyAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.public.md) 
 
-### [FileClass~BuyAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.internal.md) 
+### #is_/same_as :: [FileClass~BuyAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.internal.md) 
 
-### [FileClass~BuyAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.protect.md) 
+### #is_/same_as :: [FileClass~BuyAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.protect.md) 
 
-### [FileClass~BuyAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.private.md) 
+### #is_/same_as :: [FileClass~BuyAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.private.md) 
 
-### [FileClass~BuyAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.personal.md) 
+### #is_/same_as :: [FileClass~BuyAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.personal.md) 
 
-### [FileClass~BuyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.secret.md)
+### #is_/same_as :: [FileClass~BuyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.secret.md)
 

@@ -47,17 +47,17 @@ A particular physical or virtual business of an organization for medical purpose
 
 ## Confidential Links & Embeds: 
 
-### [medical_business](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business.md) 
+### #is_/same_as :: [medical_business](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business.md) 
 
-### [medical_business.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business.public.md) 
+### #is_/same_as :: [medical_business.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business.public.md) 
 
-### [medical_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business.internal.md) 
+### #is_/same_as :: [medical_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business.internal.md) 
 
-### [medical_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business.protect.md) 
+### #is_/same_as :: [medical_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business.protect.md) 
 
-### [medical_business.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business.private.md) 
+### #is_/same_as :: [medical_business.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business.private.md) 
 
-### [medical_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business.personal.md) 
+### #is_/same_as :: [medical_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business.personal.md) 
 
-### [medical_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business.secret.md)
+### #is_/same_as :: [medical_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business.secret.md)
 

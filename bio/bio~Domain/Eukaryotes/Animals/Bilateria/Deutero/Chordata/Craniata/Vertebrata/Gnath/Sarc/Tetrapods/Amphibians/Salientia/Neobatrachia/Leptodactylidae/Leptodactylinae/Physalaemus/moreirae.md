@@ -67,17 +67,17 @@ Containing group: [Physalaemus](../Physalaemus.md)
 
 ## Confidential Links & Embeds: 
 
-### [moreirae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.md) 
+### #is_/same_as :: [moreirae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.md) 
 
-### [moreirae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.public.md) 
+### #is_/same_as :: [moreirae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.public.md) 
 
-### [moreirae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.internal.md) 
+### #is_/same_as :: [moreirae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.internal.md) 
 
-### [moreirae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.protect.md) 
+### #is_/same_as :: [moreirae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.protect.md) 
 
-### [moreirae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.private.md) 
+### #is_/same_as :: [moreirae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.private.md) 
 
-### [moreirae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.personal.md) 
+### #is_/same_as :: [moreirae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.personal.md) 
 
-### [moreirae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.secret.md)
+### #is_/same_as :: [moreirae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/moreirae.secret.md)
 

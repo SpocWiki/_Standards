@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_destroyer](/_Standards/schema-org/Relation/has/has_destroyer.md) 
+### #is_/same_as :: [has_destroyer](/_Standards/schema-org/Relation/has/has_destroyer.md) 
 
-### [has_destroyer.public](/_public/schema-org/Relation/has/has_destroyer.public.md) 
+### #is_/same_as :: [has_destroyer.public](/_public/schema-org/Relation/has/has_destroyer.public.md) 
 
-### [has_destroyer.internal](/_internal/schema-org/Relation/has/has_destroyer.internal.md) 
+### #is_/same_as :: [has_destroyer.internal](/_internal/schema-org/Relation/has/has_destroyer.internal.md) 
 
-### [has_destroyer.protect](/_protect/schema-org/Relation/has/has_destroyer.protect.md) 
+### #is_/same_as :: [has_destroyer.protect](/_protect/schema-org/Relation/has/has_destroyer.protect.md) 
 
-### [has_destroyer.private](/_private/schema-org/Relation/has/has_destroyer.private.md) 
+### #is_/same_as :: [has_destroyer.private](/_private/schema-org/Relation/has/has_destroyer.private.md) 
 
-### [has_destroyer.personal](/_personal/schema-org/Relation/has/has_destroyer.personal.md) 
+### #is_/same_as :: [has_destroyer.personal](/_personal/schema-org/Relation/has/has_destroyer.personal.md) 
 
-### [has_destroyer.secret](/_secret/schema-org/Relation/has/has_destroyer.secret.md)
+### #is_/same_as :: [has_destroyer.secret](/_secret/schema-org/Relation/has/has_destroyer.secret.md)
 

@@ -42,21 +42,19 @@ aliases:
 	-   *Saurocytozoon*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Haemosporida](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.md) 
+### #is_/same_as :: [Haemosporida](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.md) 
 
-### [Haemosporida.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.public.md) 
+### #is_/same_as :: [Haemosporida.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.public.md) 
 
-### [Haemosporida.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.internal.md) 
+### #is_/same_as :: [Haemosporida.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.internal.md) 
 
-### [Haemosporida.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.protect.md) 
+### #is_/same_as :: [Haemosporida.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.protect.md) 
 
-### [Haemosporida.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.private.md) 
+### #is_/same_as :: [Haemosporida.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.private.md) 
 
-### [Haemosporida.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.personal.md) 
+### #is_/same_as :: [Haemosporida.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.personal.md) 
 
-### [Haemosporida.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.secret.md)
+### #is_/same_as :: [Haemosporida.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Haemosporida.secret.md)
 

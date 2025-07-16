@@ -56,17 +56,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### [business_function](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/business_function.md) 
+### #is_/same_as :: [business_function](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/business_function.md) 
 
-### [business_function.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/business_function.public.md) 
+### #is_/same_as :: [business_function.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/business_function.public.md) 
 
-### [business_function.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/business_function.internal.md) 
+### #is_/same_as :: [business_function.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/business_function.internal.md) 
 
-### [business_function.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/business_function.protect.md) 
+### #is_/same_as :: [business_function.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/business_function.protect.md) 
 
-### [business_function.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/business_function.private.md) 
+### #is_/same_as :: [business_function.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/business_function.private.md) 
 
-### [business_function.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/business_function.personal.md) 
+### #is_/same_as :: [business_function.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/business_function.personal.md) 
 
-### [business_function.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/business_function.secret.md)
+### #is_/same_as :: [business_function.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/business_function.secret.md)
 

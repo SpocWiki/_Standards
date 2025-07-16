@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_service_operator](/_Standards/schema-org/Relation/has/has_service_operator.md) 
+### #is_/same_as :: [has_service_operator](/_Standards/schema-org/Relation/has/has_service_operator.md) 
 
-### [has_service_operator.public](/_public/schema-org/Relation/has/has_service_operator.public.md) 
+### #is_/same_as :: [has_service_operator.public](/_public/schema-org/Relation/has/has_service_operator.public.md) 
 
-### [has_service_operator.internal](/_internal/schema-org/Relation/has/has_service_operator.internal.md) 
+### #is_/same_as :: [has_service_operator.internal](/_internal/schema-org/Relation/has/has_service_operator.internal.md) 
 
-### [has_service_operator.protect](/_protect/schema-org/Relation/has/has_service_operator.protect.md) 
+### #is_/same_as :: [has_service_operator.protect](/_protect/schema-org/Relation/has/has_service_operator.protect.md) 
 
-### [has_service_operator.private](/_private/schema-org/Relation/has/has_service_operator.private.md) 
+### #is_/same_as :: [has_service_operator.private](/_private/schema-org/Relation/has/has_service_operator.private.md) 
 
-### [has_service_operator.personal](/_personal/schema-org/Relation/has/has_service_operator.personal.md) 
+### #is_/same_as :: [has_service_operator.personal](/_personal/schema-org/Relation/has/has_service_operator.personal.md) 
 
-### [has_service_operator.secret](/_secret/schema-org/Relation/has/has_service_operator.secret.md)
+### #is_/same_as :: [has_service_operator.secret](/_secret/schema-org/Relation/has/has_service_operator.secret.md)
 

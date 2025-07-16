@@ -48,17 +48,17 @@ A tourist destination. In principle any [[Place]] can be a [[TouristDestination]
 
 ## Confidential Links & Embeds: 
 
-### [tourist_destination](/_Standards/schema-org/Class/is_a_/place/tourist_destination.md) 
+### #is_/same_as :: [tourist_destination](/_Standards/schema-org/Class/is_a_/place/tourist_destination.md) 
 
-### [tourist_destination.public](/_public/schema-org/Class/is_a_/place/tourist_destination.public.md) 
+### #is_/same_as :: [tourist_destination.public](/_public/schema-org/Class/is_a_/place/tourist_destination.public.md) 
 
-### [tourist_destination.internal](/_internal/schema-org/Class/is_a_/place/tourist_destination.internal.md) 
+### #is_/same_as :: [tourist_destination.internal](/_internal/schema-org/Class/is_a_/place/tourist_destination.internal.md) 
 
-### [tourist_destination.protect](/_protect/schema-org/Class/is_a_/place/tourist_destination.protect.md) 
+### #is_/same_as :: [tourist_destination.protect](/_protect/schema-org/Class/is_a_/place/tourist_destination.protect.md) 
 
-### [tourist_destination.private](/_private/schema-org/Class/is_a_/place/tourist_destination.private.md) 
+### #is_/same_as :: [tourist_destination.private](/_private/schema-org/Class/is_a_/place/tourist_destination.private.md) 
 
-### [tourist_destination.personal](/_personal/schema-org/Class/is_a_/place/tourist_destination.personal.md) 
+### #is_/same_as :: [tourist_destination.personal](/_personal/schema-org/Class/is_a_/place/tourist_destination.personal.md) 
 
-### [tourist_destination.secret](/_secret/schema-org/Class/is_a_/place/tourist_destination.secret.md)
+### #is_/same_as :: [tourist_destination.secret](/_secret/schema-org/Class/is_a_/place/tourist_destination.secret.md)
 

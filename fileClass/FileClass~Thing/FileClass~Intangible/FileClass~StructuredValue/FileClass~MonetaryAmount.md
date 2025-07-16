@@ -106,17 +106,17 @@ Value:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MonetaryAmount](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.md) 
+### #is_/same_as :: [FileClass~MonetaryAmount](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.md) 
 
-### [FileClass~MonetaryAmount.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.public.md) 
+### #is_/same_as :: [FileClass~MonetaryAmount.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.public.md) 
 
-### [FileClass~MonetaryAmount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.internal.md) 
+### #is_/same_as :: [FileClass~MonetaryAmount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.internal.md) 
 
-### [FileClass~MonetaryAmount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.protect.md) 
+### #is_/same_as :: [FileClass~MonetaryAmount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.protect.md) 
 
-### [FileClass~MonetaryAmount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.private.md) 
+### #is_/same_as :: [FileClass~MonetaryAmount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.private.md) 
 
-### [FileClass~MonetaryAmount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.personal.md) 
+### #is_/same_as :: [FileClass~MonetaryAmount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.personal.md) 
 
-### [FileClass~MonetaryAmount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.secret.md)
+### #is_/same_as :: [FileClass~MonetaryAmount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.secret.md)
 

@@ -83,21 +83,19 @@ title: Acerentomidae
 	-   *Zangentulus*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Acerentomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.md) 
+### #is_/same_as :: [Acerentomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.md) 
 
-### [Acerentomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.public.md) 
+### #is_/same_as :: [Acerentomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.public.md) 
 
-### [Acerentomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.internal.md) 
+### #is_/same_as :: [Acerentomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.internal.md) 
 
-### [Acerentomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.protect.md) 
+### #is_/same_as :: [Acerentomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.protect.md) 
 
-### [Acerentomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.private.md) 
+### #is_/same_as :: [Acerentomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.private.md) 
 
-### [Acerentomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.personal.md) 
+### #is_/same_as :: [Acerentomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.personal.md) 
 
-### [Acerentomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.secret.md)
+### #is_/same_as :: [Acerentomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.secret.md)
 

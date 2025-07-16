@@ -110,17 +110,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/TALLI.html
 
 ## Confidential Links & Embeds: 
 
-### [Thallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Thallium.md) 
+### #is_/same_as :: [Thallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Thallium.md) 
 
-### [Thallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Thallium.public.md) 
+### #is_/same_as :: [Thallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Thallium.public.md) 
 
-### [Thallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Thallium.internal.md) 
+### #is_/same_as :: [Thallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Thallium.internal.md) 
 
-### [Thallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Thallium.protect.md) 
+### #is_/same_as :: [Thallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Thallium.protect.md) 
 
-### [Thallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Thallium.private.md) 
+### #is_/same_as :: [Thallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Thallium.private.md) 
 
-### [Thallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Thallium.personal.md) 
+### #is_/same_as :: [Thallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Thallium.personal.md) 
 
-### [Thallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Thallium.secret.md)
+### #is_/same_as :: [Thallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Thallium.secret.md)
 

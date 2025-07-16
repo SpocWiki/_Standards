@@ -318,17 +318,17 @@ Capital :: [[Mbabane]]
 
 ## Confidential Links & Embeds: 
 
-### [Swaziland](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland.md) 
+### #is_/same_as :: [Swaziland](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland.md) 
 
-### [Swaziland.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland.public.md) 
+### #is_/same_as :: [Swaziland.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland.public.md) 
 
-### [Swaziland.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal.md) 
+### #is_/same_as :: [Swaziland.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal.md) 
 
-### [Swaziland.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland.protect.md) 
+### #is_/same_as :: [Swaziland.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland.protect.md) 
 
-### [Swaziland.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland.private.md) 
+### #is_/same_as :: [Swaziland.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland.private.md) 
 
-### [Swaziland.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal.md) 
+### #is_/same_as :: [Swaziland.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal.md) 
 
-### [Swaziland.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret.md)
+### #is_/same_as :: [Swaziland.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret.md)
 

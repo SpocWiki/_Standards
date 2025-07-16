@@ -45,17 +45,17 @@ The act of authoring written creative content.
 
 ## Confidential Links & Embeds: 
 
-### [write_action](/_Standards/schema-org/Class/is_a_/action/create_action/write_action.md) 
+### #is_/same_as :: [write_action](/_Standards/schema-org/Class/is_a_/action/create_action/write_action.md) 
 
-### [write_action.public](/_public/schema-org/Class/is_a_/action/create_action/write_action.public.md) 
+### #is_/same_as :: [write_action.public](/_public/schema-org/Class/is_a_/action/create_action/write_action.public.md) 
 
-### [write_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/write_action.internal.md) 
+### #is_/same_as :: [write_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/write_action.internal.md) 
 
-### [write_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/write_action.protect.md) 
+### #is_/same_as :: [write_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/write_action.protect.md) 
 
-### [write_action.private](/_private/schema-org/Class/is_a_/action/create_action/write_action.private.md) 
+### #is_/same_as :: [write_action.private](/_private/schema-org/Class/is_a_/action/create_action/write_action.private.md) 
 
-### [write_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/write_action.personal.md) 
+### #is_/same_as :: [write_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/write_action.personal.md) 
 
-### [write_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/write_action.secret.md)
+### #is_/same_as :: [write_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/write_action.secret.md)
 

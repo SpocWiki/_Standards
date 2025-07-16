@@ -76,17 +76,17 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
 
 ## Confidential Links & Embeds: 
 
-### [terricola](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.md) 
+### #is_/same_as :: [terricola](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.md) 
 
-### [terricola.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.public.md) 
+### #is_/same_as :: [terricola.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.public.md) 
 
-### [terricola.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.internal.md) 
+### #is_/same_as :: [terricola.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.internal.md) 
 
-### [terricola.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.protect.md) 
+### #is_/same_as :: [terricola.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.protect.md) 
 
-### [terricola.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.private.md) 
+### #is_/same_as :: [terricola.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.private.md) 
 
-### [terricola.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.personal.md) 
+### #is_/same_as :: [terricola.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.personal.md) 
 
-### [terricola.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.secret.md)
+### #is_/same_as :: [terricola.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.secret.md)
 

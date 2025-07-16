@@ -245,22 +245,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pterotracheoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.md) 
+### #is_/same_as :: [Pterotracheoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.md) 
 
-### [Pterotracheoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.public.md) 
+### #is_/same_as :: [Pterotracheoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.public.md) 
 
-### [Pterotracheoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.internal.md) 
+### #is_/same_as :: [Pterotracheoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.internal.md) 
 
-### [Pterotracheoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.protect.md) 
+### #is_/same_as :: [Pterotracheoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.protect.md) 
 
-### [Pterotracheoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.private.md) 
+### #is_/same_as :: [Pterotracheoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.private.md) 
 
-### [Pterotracheoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.personal.md) 
+### #is_/same_as :: [Pterotracheoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.personal.md) 
 
-### [Pterotracheoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.secret.md)
+### #is_/same_as :: [Pterotracheoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.secret.md)
 

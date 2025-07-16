@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_print_page](/_Standards/schema-org/Property/Texts/has_print_page.md) 
+### #is_/same_as :: [has_print_page](/_Standards/schema-org/Property/Texts/has_print_page.md) 
 
-### [has_print_page.public](/_public/schema-org/Property/Texts/has_print_page.public.md) 
+### #is_/same_as :: [has_print_page.public](/_public/schema-org/Property/Texts/has_print_page.public.md) 
 
-### [has_print_page.internal](/_internal/schema-org/Property/Texts/has_print_page.internal.md) 
+### #is_/same_as :: [has_print_page.internal](/_internal/schema-org/Property/Texts/has_print_page.internal.md) 
 
-### [has_print_page.protect](/_protect/schema-org/Property/Texts/has_print_page.protect.md) 
+### #is_/same_as :: [has_print_page.protect](/_protect/schema-org/Property/Texts/has_print_page.protect.md) 
 
-### [has_print_page.private](/_private/schema-org/Property/Texts/has_print_page.private.md) 
+### #is_/same_as :: [has_print_page.private](/_private/schema-org/Property/Texts/has_print_page.private.md) 
 
-### [has_print_page.personal](/_personal/schema-org/Property/Texts/has_print_page.personal.md) 
+### #is_/same_as :: [has_print_page.personal](/_personal/schema-org/Property/Texts/has_print_page.personal.md) 
 
-### [has_print_page.secret](/_secret/schema-org/Property/Texts/has_print_page.secret.md)
+### #is_/same_as :: [has_print_page.secret](/_secret/schema-org/Property/Texts/has_print_page.secret.md)
 

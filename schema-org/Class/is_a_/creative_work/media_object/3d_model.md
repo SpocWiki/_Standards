@@ -55,17 +55,17 @@ Geospatial, AR/VR, artistic/animation, gaming, engineering and scientific conten
 
 ## Confidential Links & Embeds: 
 
-### [3d_model](/_Standards/schema-org/Class/is_a_/creative_work/media_object/3d_model.md) 
+### #is_/same_as :: [3d_model](/_Standards/schema-org/Class/is_a_/creative_work/media_object/3d_model.md) 
 
-### [3d_model.public](/_public/schema-org/Class/is_a_/creative_work/media_object/3d_model.public.md) 
+### #is_/same_as :: [3d_model.public](/_public/schema-org/Class/is_a_/creative_work/media_object/3d_model.public.md) 
 
-### [3d_model.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/3d_model.internal.md) 
+### #is_/same_as :: [3d_model.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/3d_model.internal.md) 
 
-### [3d_model.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/3d_model.protect.md) 
+### #is_/same_as :: [3d_model.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/3d_model.protect.md) 
 
-### [3d_model.private](/_private/schema-org/Class/is_a_/creative_work/media_object/3d_model.private.md) 
+### #is_/same_as :: [3d_model.private](/_private/schema-org/Class/is_a_/creative_work/media_object/3d_model.private.md) 
 
-### [3d_model.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/3d_model.personal.md) 
+### #is_/same_as :: [3d_model.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/3d_model.personal.md) 
 
-### [3d_model.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/3d_model.secret.md)
+### #is_/same_as :: [3d_model.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/3d_model.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_security_screening](/_Standards/schema-org/Property/Texts/has_security_screening.md) 
+### #is_/same_as :: [has_security_screening](/_Standards/schema-org/Property/Texts/has_security_screening.md) 
 
-### [has_security_screening.public](/_public/schema-org/Property/Texts/has_security_screening.public.md) 
+### #is_/same_as :: [has_security_screening.public](/_public/schema-org/Property/Texts/has_security_screening.public.md) 
 
-### [has_security_screening.internal](/_internal/schema-org/Property/Texts/has_security_screening.internal.md) 
+### #is_/same_as :: [has_security_screening.internal](/_internal/schema-org/Property/Texts/has_security_screening.internal.md) 
 
-### [has_security_screening.protect](/_protect/schema-org/Property/Texts/has_security_screening.protect.md) 
+### #is_/same_as :: [has_security_screening.protect](/_protect/schema-org/Property/Texts/has_security_screening.protect.md) 
 
-### [has_security_screening.private](/_private/schema-org/Property/Texts/has_security_screening.private.md) 
+### #is_/same_as :: [has_security_screening.private](/_private/schema-org/Property/Texts/has_security_screening.private.md) 
 
-### [has_security_screening.personal](/_personal/schema-org/Property/Texts/has_security_screening.personal.md) 
+### #is_/same_as :: [has_security_screening.personal](/_personal/schema-org/Property/Texts/has_security_screening.personal.md) 
 
-### [has_security_screening.secret](/_secret/schema-org/Property/Texts/has_security_screening.secret.md)
+### #is_/same_as :: [has_security_screening.secret](/_secret/schema-org/Property/Texts/has_security_screening.secret.md)
 

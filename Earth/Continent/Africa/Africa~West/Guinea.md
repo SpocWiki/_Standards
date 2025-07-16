@@ -461,17 +461,17 @@ Capital :: [[Conakry]]
 
 ## Confidential Links & Embeds: 
 
-### [Guinea](/_Standards/Earth/Continent/Africa/Africa~West/Guinea.md) 
+### #is_/same_as :: [Guinea](/_Standards/Earth/Continent/Africa/Africa~West/Guinea.md) 
 
-### [Guinea.public](/_public/Earth/Continent/Africa/Africa~West/Guinea.public.md) 
+### #is_/same_as :: [Guinea.public](/_public/Earth/Continent/Africa/Africa~West/Guinea.public.md) 
 
-### [Guinea.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal.md) 
+### #is_/same_as :: [Guinea.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal.md) 
 
-### [Guinea.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea.protect.md) 
+### #is_/same_as :: [Guinea.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea.protect.md) 
 
-### [Guinea.private](/_private/Earth/Continent/Africa/Africa~West/Guinea.private.md) 
+### #is_/same_as :: [Guinea.private](/_private/Earth/Continent/Africa/Africa~West/Guinea.private.md) 
 
-### [Guinea.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal.md) 
+### #is_/same_as :: [Guinea.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal.md) 
 
-### [Guinea.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret.md)
+### #is_/same_as :: [Guinea.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret.md)
 

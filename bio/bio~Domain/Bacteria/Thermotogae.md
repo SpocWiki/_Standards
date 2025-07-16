@@ -58,22 +58,19 @@ aliases:
 	-   *Thermosipho*
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Thermotogae](/_Standards/bio/bio~Domain/Bacteria/Thermotogae.md) 
+### #is_/same_as :: [Thermotogae](/_Standards/bio/bio~Domain/Bacteria/Thermotogae.md) 
 
-### [Thermotogae.public](/_public/bio/bio~Domain/Bacteria/Thermotogae.public.md) 
+### #is_/same_as :: [Thermotogae.public](/_public/bio/bio~Domain/Bacteria/Thermotogae.public.md) 
 
-### [Thermotogae.internal](/_internal/bio/bio~Domain/Bacteria/Thermotogae.internal.md) 
+### #is_/same_as :: [Thermotogae.internal](/_internal/bio/bio~Domain/Bacteria/Thermotogae.internal.md) 
 
-### [Thermotogae.protect](/_protect/bio/bio~Domain/Bacteria/Thermotogae.protect.md) 
+### #is_/same_as :: [Thermotogae.protect](/_protect/bio/bio~Domain/Bacteria/Thermotogae.protect.md) 
 
-### [Thermotogae.private](/_private/bio/bio~Domain/Bacteria/Thermotogae.private.md) 
+### #is_/same_as :: [Thermotogae.private](/_private/bio/bio~Domain/Bacteria/Thermotogae.private.md) 
 
-### [Thermotogae.personal](/_personal/bio/bio~Domain/Bacteria/Thermotogae.personal.md) 
+### #is_/same_as :: [Thermotogae.personal](/_personal/bio/bio~Domain/Bacteria/Thermotogae.personal.md) 
 
-### [Thermotogae.secret](/_secret/bio/bio~Domain/Bacteria/Thermotogae.secret.md)
+### #is_/same_as :: [Thermotogae.secret](/_secret/bio/bio~Domain/Bacteria/Thermotogae.secret.md)
 

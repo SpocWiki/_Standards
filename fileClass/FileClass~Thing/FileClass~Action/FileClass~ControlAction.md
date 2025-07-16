@@ -34,17 +34,17 @@ An agent controls a device or application.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ControlAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.md) 
+### #is_/same_as :: [FileClass~ControlAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.md) 
 
-### [FileClass~ControlAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.public.md) 
+### #is_/same_as :: [FileClass~ControlAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.public.md) 
 
-### [FileClass~ControlAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.internal.md) 
+### #is_/same_as :: [FileClass~ControlAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.internal.md) 
 
-### [FileClass~ControlAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.protect.md) 
+### #is_/same_as :: [FileClass~ControlAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.protect.md) 
 
-### [FileClass~ControlAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.private.md) 
+### #is_/same_as :: [FileClass~ControlAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.private.md) 
 
-### [FileClass~ControlAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.personal.md) 
+### #is_/same_as :: [FileClass~ControlAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.personal.md) 
 
-### [FileClass~ControlAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.secret.md)
+### #is_/same_as :: [FileClass~ControlAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.secret.md)
 

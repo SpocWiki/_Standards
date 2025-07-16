@@ -98,22 +98,19 @@ Source Collection                   [Flickr](http://flickr.com/)
 Copyright ::                           © [Tom Gruber](http://flickr.com/people/51262603@N00/)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Stramenopiles](/_Standards/bio/bio~Domain/Eukaryotes/Stramenopiles.md) 
+### #is_/same_as :: [Stramenopiles](/_Standards/bio/bio~Domain/Eukaryotes/Stramenopiles.md) 
 
-### [Stramenopiles.public](/_public/bio/bio~Domain/Eukaryotes/Stramenopiles.public.md) 
+### #is_/same_as :: [Stramenopiles.public](/_public/bio/bio~Domain/Eukaryotes/Stramenopiles.public.md) 
 
-### [Stramenopiles.internal](/_internal/bio/bio~Domain/Eukaryotes/Stramenopiles.internal.md) 
+### #is_/same_as :: [Stramenopiles.internal](/_internal/bio/bio~Domain/Eukaryotes/Stramenopiles.internal.md) 
 
-### [Stramenopiles.protect](/_protect/bio/bio~Domain/Eukaryotes/Stramenopiles.protect.md) 
+### #is_/same_as :: [Stramenopiles.protect](/_protect/bio/bio~Domain/Eukaryotes/Stramenopiles.protect.md) 
 
-### [Stramenopiles.private](/_private/bio/bio~Domain/Eukaryotes/Stramenopiles.private.md) 
+### #is_/same_as :: [Stramenopiles.private](/_private/bio/bio~Domain/Eukaryotes/Stramenopiles.private.md) 
 
-### [Stramenopiles.personal](/_personal/bio/bio~Domain/Eukaryotes/Stramenopiles.personal.md) 
+### #is_/same_as :: [Stramenopiles.personal](/_personal/bio/bio~Domain/Eukaryotes/Stramenopiles.personal.md) 
 
-### [Stramenopiles.secret](/_secret/bio/bio~Domain/Eukaryotes/Stramenopiles.secret.md)
+### #is_/same_as :: [Stramenopiles.secret](/_secret/bio/bio~Domain/Eukaryotes/Stramenopiles.secret.md)
 

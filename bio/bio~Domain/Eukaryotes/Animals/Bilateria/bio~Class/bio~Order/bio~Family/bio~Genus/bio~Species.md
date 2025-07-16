@@ -98,21 +98,19 @@ U_S_National_Archives_Identifier: 10663903
 > [Wikipedia](https://en.wikipedia.org/wiki/Species)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [bio~Species](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.md) 
+### #is_/same_as :: [bio~Species](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.md) 
 
-### [bio~Species.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.public.md) 
+### #is_/same_as :: [bio~Species.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.public.md) 
 
-### [bio~Species.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.internal.md) 
+### #is_/same_as :: [bio~Species.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.internal.md) 
 
-### [bio~Species.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.protect.md) 
+### #is_/same_as :: [bio~Species.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.protect.md) 
 
-### [bio~Species.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.private.md) 
+### #is_/same_as :: [bio~Species.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.private.md) 
 
-### [bio~Species.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.personal.md) 
+### #is_/same_as :: [bio~Species.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.personal.md) 
 
-### [bio~Species.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.secret.md)
+### #is_/same_as :: [bio~Species.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.secret.md)
 

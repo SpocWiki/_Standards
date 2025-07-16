@@ -557,17 +557,17 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 ## Confidential Links & Embeds: 
 
-### [Venezuela](/_Standards/Earth/Continent/America~South/Venezuela.md) 
+### #is_/same_as :: [Venezuela](/_Standards/Earth/Continent/America~South/Venezuela.md) 
 
-### [Venezuela.public](/_public/Earth/Continent/America~South/Venezuela.public.md) 
+### #is_/same_as :: [Venezuela.public](/_public/Earth/Continent/America~South/Venezuela.public.md) 
 
-### [Venezuela.internal](/_internal/Earth/Continent/America~South/Venezuela.internal.md) 
+### #is_/same_as :: [Venezuela.internal](/_internal/Earth/Continent/America~South/Venezuela.internal.md) 
 
-### [Venezuela.protect](/_protect/Earth/Continent/America~South/Venezuela.protect.md) 
+### #is_/same_as :: [Venezuela.protect](/_protect/Earth/Continent/America~South/Venezuela.protect.md) 
 
-### [Venezuela.private](/_private/Earth/Continent/America~South/Venezuela.private.md) 
+### #is_/same_as :: [Venezuela.private](/_private/Earth/Continent/America~South/Venezuela.private.md) 
 
-### [Venezuela.personal](/_personal/Earth/Continent/America~South/Venezuela.personal.md) 
+### #is_/same_as :: [Venezuela.personal](/_personal/Earth/Continent/America~South/Venezuela.personal.md) 
 
-### [Venezuela.secret](/_secret/Earth/Continent/America~South/Venezuela.secret.md)
+### #is_/same_as :: [Venezuela.secret](/_secret/Earth/Continent/America~South/Venezuela.secret.md)
 

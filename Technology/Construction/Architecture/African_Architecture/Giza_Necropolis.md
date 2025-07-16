@@ -39,25 +39,19 @@ Commons_category: "Giza pyramid complex"
 > [Wikipedia](https://en.wikipedia.org/wiki/Giza%20pyramid%20complex) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Giza_Necropolis](/_Standards/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.md) 
+### #is_/same_as :: [Giza_Necropolis](/_Standards/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.md) 
 
-### [Giza_Necropolis.public](/_public/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.public.md) 
+### #is_/same_as :: [Giza_Necropolis.public](/_public/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.public.md) 
 
-### [Giza_Necropolis.internal](/_internal/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.internal.md) 
+### #is_/same_as :: [Giza_Necropolis.internal](/_internal/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.internal.md) 
 
-### [Giza_Necropolis.protect](/_protect/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.protect.md) 
+### #is_/same_as :: [Giza_Necropolis.protect](/_protect/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.protect.md) 
 
-### [Giza_Necropolis.private](/_private/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.private.md) 
+### #is_/same_as :: [Giza_Necropolis.private](/_private/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.private.md) 
 
-### [Giza_Necropolis.personal](/_personal/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.personal.md) 
+### #is_/same_as :: [Giza_Necropolis.personal](/_personal/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.personal.md) 
 
-### [Giza_Necropolis.secret](/_secret/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.secret.md)
+### #is_/same_as :: [Giza_Necropolis.secret](/_secret/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.secret.md)
 

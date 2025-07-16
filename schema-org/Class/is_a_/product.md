@@ -73,17 +73,17 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 ## Confidential Links & Embeds: 
 
-### [product](/_Standards/schema-org/Class/is_a_/product.md) 
+### #is_/same_as :: [product](/_Standards/schema-org/Class/is_a_/product.md) 
 
-### [product.public](/_public/schema-org/Class/is_a_/product.public.md) 
+### #is_/same_as :: [product.public](/_public/schema-org/Class/is_a_/product.public.md) 
 
-### [product.internal](/_internal/schema-org/Class/is_a_/product.internal.md) 
+### #is_/same_as :: [product.internal](/_internal/schema-org/Class/is_a_/product.internal.md) 
 
-### [product.protect](/_protect/schema-org/Class/is_a_/product.protect.md) 
+### #is_/same_as :: [product.protect](/_protect/schema-org/Class/is_a_/product.protect.md) 
 
-### [product.private](/_private/schema-org/Class/is_a_/product.private.md) 
+### #is_/same_as :: [product.private](/_private/schema-org/Class/is_a_/product.private.md) 
 
-### [product.personal](/_personal/schema-org/Class/is_a_/product.personal.md) 
+### #is_/same_as :: [product.personal](/_personal/schema-org/Class/is_a_/product.personal.md) 
 
-### [product.secret](/_secret/schema-org/Class/is_a_/product.secret.md)
+### #is_/same_as :: [product.secret](/_secret/schema-org/Class/is_a_/product.secret.md)
 

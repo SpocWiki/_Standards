@@ -187,17 +187,17 @@ coordinate_location: Point(14.42215841 50.091352242)
 
 ## Confidential Links & Embeds: 
 
-### [0800-Holy_Roman_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.md) 
+### #is_/same_as :: [0800-Holy_Roman_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.md) 
 
-### [0800-Holy_Roman_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.public.md) 
+### #is_/same_as :: [0800-Holy_Roman_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.public.md) 
 
-### [0800-Holy_Roman_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.internal.md) 
+### #is_/same_as :: [0800-Holy_Roman_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.internal.md) 
 
-### [0800-Holy_Roman_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.protect.md) 
+### #is_/same_as :: [0800-Holy_Roman_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.protect.md) 
 
-### [0800-Holy_Roman_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.private.md) 
+### #is_/same_as :: [0800-Holy_Roman_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.private.md) 
 
-### [0800-Holy_Roman_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.personal.md) 
+### #is_/same_as :: [0800-Holy_Roman_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.personal.md) 
 
-### [0800-Holy_Roman_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.secret.md)
+### #is_/same_as :: [0800-Holy_Roman_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0800-Holy_Roman_Empire.secret.md)
 

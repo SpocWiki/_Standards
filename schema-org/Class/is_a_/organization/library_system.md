@@ -47,17 +47,17 @@ A [[LibrarySystem]] is a collaborative system amongst several libraries.
 
 ## Confidential Links & Embeds: 
 
-### [library_system](/_Standards/schema-org/Class/is_a_/organization/library_system.md) 
+### #is_/same_as :: [library_system](/_Standards/schema-org/Class/is_a_/organization/library_system.md) 
 
-### [library_system.public](/_public/schema-org/Class/is_a_/organization/library_system.public.md) 
+### #is_/same_as :: [library_system.public](/_public/schema-org/Class/is_a_/organization/library_system.public.md) 
 
-### [library_system.internal](/_internal/schema-org/Class/is_a_/organization/library_system.internal.md) 
+### #is_/same_as :: [library_system.internal](/_internal/schema-org/Class/is_a_/organization/library_system.internal.md) 
 
-### [library_system.protect](/_protect/schema-org/Class/is_a_/organization/library_system.protect.md) 
+### #is_/same_as :: [library_system.protect](/_protect/schema-org/Class/is_a_/organization/library_system.protect.md) 
 
-### [library_system.private](/_private/schema-org/Class/is_a_/organization/library_system.private.md) 
+### #is_/same_as :: [library_system.private](/_private/schema-org/Class/is_a_/organization/library_system.private.md) 
 
-### [library_system.personal](/_personal/schema-org/Class/is_a_/organization/library_system.personal.md) 
+### #is_/same_as :: [library_system.personal](/_personal/schema-org/Class/is_a_/organization/library_system.personal.md) 
 
-### [library_system.secret](/_secret/schema-org/Class/is_a_/organization/library_system.secret.md)
+### #is_/same_as :: [library_system.secret](/_secret/schema-org/Class/is_a_/organization/library_system.secret.md)
 

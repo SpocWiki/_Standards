@@ -37,21 +37,19 @@ Ende 2024 verkündet er seinen Wechsel zu [[Red_Bull]].
 Seine weiße Kauleiste ist sehr markant. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Klopp,Jürgen](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.md) 
+### #is_/same_as :: [Klopp,Jürgen](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.md) 
 
-### [Klopp,Jürgen.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.public.md) 
+### #is_/same_as :: [Klopp,Jürgen.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.public.md) 
 
-### [Klopp,Jürgen.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.internal.md) 
+### #is_/same_as :: [Klopp,Jürgen.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.internal.md) 
 
-### [Klopp,Jürgen.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.protect.md) 
+### #is_/same_as :: [Klopp,Jürgen.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.protect.md) 
 
-### [Klopp,Jürgen.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.private.md) 
+### #is_/same_as :: [Klopp,Jürgen.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.private.md) 
 
-### [Klopp,Jürgen.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.personal.md) 
+### #is_/same_as :: [Klopp,Jürgen.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.personal.md) 
 
-### [Klopp,Jürgen.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.secret.md)
+### #is_/same_as :: [Klopp,Jürgen.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Klopp,Jürgen.secret.md)
 

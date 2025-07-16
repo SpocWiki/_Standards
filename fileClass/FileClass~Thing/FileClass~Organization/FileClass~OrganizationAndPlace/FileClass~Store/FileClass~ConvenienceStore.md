@@ -35,17 +35,17 @@ A convenience store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ConvenienceStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.md) 
+### #is_/same_as :: [FileClass~ConvenienceStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.md) 
 
-### [FileClass~ConvenienceStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.public.md) 
+### #is_/same_as :: [FileClass~ConvenienceStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.public.md) 
 
-### [FileClass~ConvenienceStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.internal.md) 
+### #is_/same_as :: [FileClass~ConvenienceStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.internal.md) 
 
-### [FileClass~ConvenienceStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.protect.md) 
+### #is_/same_as :: [FileClass~ConvenienceStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.protect.md) 
 
-### [FileClass~ConvenienceStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.private.md) 
+### #is_/same_as :: [FileClass~ConvenienceStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.private.md) 
 
-### [FileClass~ConvenienceStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.personal.md) 
+### #is_/same_as :: [FileClass~ConvenienceStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.personal.md) 
 
-### [FileClass~ConvenienceStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.secret.md)
+### #is_/same_as :: [FileClass~ConvenienceStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ConvenienceStore.secret.md)
 

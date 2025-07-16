@@ -462,17 +462,17 @@ Capital :: [[Bujumbura]]
 
 ## Confidential Links & Embeds: 
 
-### [Burundi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi.md) 
+### #is_/same_as :: [Burundi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi.md) 
 
-### [Burundi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi.public.md) 
+### #is_/same_as :: [Burundi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi.public.md) 
 
-### [Burundi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi.internal.md) 
+### #is_/same_as :: [Burundi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi.internal.md) 
 
-### [Burundi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi.protect.md) 
+### #is_/same_as :: [Burundi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi.protect.md) 
 
-### [Burundi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi.private.md) 
+### #is_/same_as :: [Burundi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi.private.md) 
 
-### [Burundi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi.personal.md) 
+### #is_/same_as :: [Burundi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi.personal.md) 
 
-### [Burundi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret.md)
+### #is_/same_as :: [Burundi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret.md)
 

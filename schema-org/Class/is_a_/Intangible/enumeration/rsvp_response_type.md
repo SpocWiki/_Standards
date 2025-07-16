@@ -43,17 +43,17 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 
 ## Confidential Links & Embeds: 
 
-### [rsvp_response_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.md) 
+### #is_/same_as :: [rsvp_response_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.md) 
 
-### [rsvp_response_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.public.md) 
+### #is_/same_as :: [rsvp_response_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.public.md) 
 
-### [rsvp_response_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.internal.md) 
+### #is_/same_as :: [rsvp_response_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.internal.md) 
 
-### [rsvp_response_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.protect.md) 
+### #is_/same_as :: [rsvp_response_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.protect.md) 
 
-### [rsvp_response_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.private.md) 
+### #is_/same_as :: [rsvp_response_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.private.md) 
 
-### [rsvp_response_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.personal.md) 
+### #is_/same_as :: [rsvp_response_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.personal.md) 
 
-### [rsvp_response_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.secret.md)
+### #is_/same_as :: [rsvp_response_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.secret.md)
 

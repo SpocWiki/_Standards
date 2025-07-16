@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~3~Orosirian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
+### #is_/same_as :: [Period~3~Orosirian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
 
-### [Period~3~Orosirian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.public.md) 
+### #is_/same_as :: [Period~3~Orosirian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.public.md) 
 
-### [Period~3~Orosirian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal.md) 
+### #is_/same_as :: [Period~3~Orosirian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal.md) 
 
-### [Period~3~Orosirian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.protect.md) 
+### #is_/same_as :: [Period~3~Orosirian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.protect.md) 
 
-### [Period~3~Orosirian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.private.md) 
+### #is_/same_as :: [Period~3~Orosirian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.private.md) 
 
-### [Period~3~Orosirian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal.md) 
+### #is_/same_as :: [Period~3~Orosirian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal.md) 
 
-### [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md)
+### #is_/same_as :: [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md)
 

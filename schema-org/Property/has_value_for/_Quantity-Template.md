@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [_Quantity-Template](/_Standards/schema-org/Property/has_value_for/_Quantity-Template.md) 
+### #is_/same_as :: [_Quantity-Template](/_Standards/schema-org/Property/has_value_for/_Quantity-Template.md) 
 
-### [_Quantity-Template.public](/_public/schema-org/Property/has_value_for/_Quantity-Template.public.md) 
+### #is_/same_as :: [_Quantity-Template.public](/_public/schema-org/Property/has_value_for/_Quantity-Template.public.md) 
 
-### [_Quantity-Template.internal](/_internal/schema-org/Property/has_value_for/_Quantity-Template.internal.md) 
+### #is_/same_as :: [_Quantity-Template.internal](/_internal/schema-org/Property/has_value_for/_Quantity-Template.internal.md) 
 
-### [_Quantity-Template.protect](/_protect/schema-org/Property/has_value_for/_Quantity-Template.protect.md) 
+### #is_/same_as :: [_Quantity-Template.protect](/_protect/schema-org/Property/has_value_for/_Quantity-Template.protect.md) 
 
-### [_Quantity-Template.private](/_private/schema-org/Property/has_value_for/_Quantity-Template.private.md) 
+### #is_/same_as :: [_Quantity-Template.private](/_private/schema-org/Property/has_value_for/_Quantity-Template.private.md) 
 
-### [_Quantity-Template.personal](/_personal/schema-org/Property/has_value_for/_Quantity-Template.personal.md) 
+### #is_/same_as :: [_Quantity-Template.personal](/_personal/schema-org/Property/has_value_for/_Quantity-Template.personal.md) 
 
-### [_Quantity-Template.secret](/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret.md)
+### #is_/same_as :: [_Quantity-Template.secret](/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret.md)
 

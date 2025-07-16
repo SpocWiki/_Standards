@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_spoken_by_character](/_Standards/schema-org/Relation/has/has_spoken_by_character.md) 
+### #is_/same_as :: [has_spoken_by_character](/_Standards/schema-org/Relation/has/has_spoken_by_character.md) 
 
-### [has_spoken_by_character.public](/_public/schema-org/Relation/has/has_spoken_by_character.public.md) 
+### #is_/same_as :: [has_spoken_by_character.public](/_public/schema-org/Relation/has/has_spoken_by_character.public.md) 
 
-### [has_spoken_by_character.internal](/_internal/schema-org/Relation/has/has_spoken_by_character.internal.md) 
+### #is_/same_as :: [has_spoken_by_character.internal](/_internal/schema-org/Relation/has/has_spoken_by_character.internal.md) 
 
-### [has_spoken_by_character.protect](/_protect/schema-org/Relation/has/has_spoken_by_character.protect.md) 
+### #is_/same_as :: [has_spoken_by_character.protect](/_protect/schema-org/Relation/has/has_spoken_by_character.protect.md) 
 
-### [has_spoken_by_character.private](/_private/schema-org/Relation/has/has_spoken_by_character.private.md) 
+### #is_/same_as :: [has_spoken_by_character.private](/_private/schema-org/Relation/has/has_spoken_by_character.private.md) 
 
-### [has_spoken_by_character.personal](/_personal/schema-org/Relation/has/has_spoken_by_character.personal.md) 
+### #is_/same_as :: [has_spoken_by_character.personal](/_personal/schema-org/Relation/has/has_spoken_by_character.personal.md) 
 
-### [has_spoken_by_character.secret](/_secret/schema-org/Relation/has/has_spoken_by_character.secret.md)
+### #is_/same_as :: [has_spoken_by_character.secret](/_secret/schema-org/Relation/has/has_spoken_by_character.secret.md)
 

@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [YAML-LD](/_Standards/YAML-LD.md) 
+### #is_/same_as :: [YAML-LD](/_Standards/YAML-LD.md) 
 
-### [YAML-LD.public](/_public/YAML-LD.public.md) 
+### #is_/same_as :: [YAML-LD.public](/_public/YAML-LD.public.md) 
 
-### [YAML-LD.internal](/_internal/YAML-LD.internal.md) 
+### #is_/same_as :: [YAML-LD.internal](/_internal/YAML-LD.internal.md) 
 
-### [YAML-LD.protect](/_protect/YAML-LD.protect.md) 
+### #is_/same_as :: [YAML-LD.protect](/_protect/YAML-LD.protect.md) 
 
-### [YAML-LD.private](/_private/YAML-LD.private.md) 
+### #is_/same_as :: [YAML-LD.private](/_private/YAML-LD.private.md) 
 
-### [YAML-LD.personal](/_personal/YAML-LD.personal.md) 
+### #is_/same_as :: [YAML-LD.personal](/_personal/YAML-LD.personal.md) 
 
-### [YAML-LD.secret](/_secret/YAML-LD.secret.md)
+### #is_/same_as :: [YAML-LD.secret](/_secret/YAML-LD.secret.md)
 

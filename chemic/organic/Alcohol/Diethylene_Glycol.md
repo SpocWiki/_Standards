@@ -42,22 +42,19 @@ was illegally added to Austrian wines to enhance sweetness.
 Several bulk-bottled German wines were contaminated
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Diethylene_Glycol](/_Standards/chemic/organic/Alcohol/Diethylene_Glycol.md) 
+### #is_/same_as :: [Diethylene_Glycol](/_Standards/chemic/organic/Alcohol/Diethylene_Glycol.md) 
 
-### [Diethylene_Glycol.public](/_public/chemic/organic/Alcohol/Diethylene_Glycol.public.md) 
+### #is_/same_as :: [Diethylene_Glycol.public](/_public/chemic/organic/Alcohol/Diethylene_Glycol.public.md) 
 
-### [Diethylene_Glycol.internal](/_internal/chemic/organic/Alcohol/Diethylene_Glycol.internal.md) 
+### #is_/same_as :: [Diethylene_Glycol.internal](/_internal/chemic/organic/Alcohol/Diethylene_Glycol.internal.md) 
 
-### [Diethylene_Glycol.protect](/_protect/chemic/organic/Alcohol/Diethylene_Glycol.protect.md) 
+### #is_/same_as :: [Diethylene_Glycol.protect](/_protect/chemic/organic/Alcohol/Diethylene_Glycol.protect.md) 
 
-### [Diethylene_Glycol.private](/_private/chemic/organic/Alcohol/Diethylene_Glycol.private.md) 
+### #is_/same_as :: [Diethylene_Glycol.private](/_private/chemic/organic/Alcohol/Diethylene_Glycol.private.md) 
 
-### [Diethylene_Glycol.personal](/_personal/chemic/organic/Alcohol/Diethylene_Glycol.personal.md) 
+### #is_/same_as :: [Diethylene_Glycol.personal](/_personal/chemic/organic/Alcohol/Diethylene_Glycol.personal.md) 
 
-### [Diethylene_Glycol.secret](/_secret/chemic/organic/Alcohol/Diethylene_Glycol.secret.md)
+### #is_/same_as :: [Diethylene_Glycol.secret](/_secret/chemic/organic/Alcohol/Diethylene_Glycol.secret.md)
 

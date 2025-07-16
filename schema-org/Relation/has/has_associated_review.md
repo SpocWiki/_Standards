@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_associated_review](/_Standards/schema-org/Relation/has/has_associated_review.md) 
+### #is_/same_as :: [has_associated_review](/_Standards/schema-org/Relation/has/has_associated_review.md) 
 
-### [has_associated_review.public](/_public/schema-org/Relation/has/has_associated_review.public.md) 
+### #is_/same_as :: [has_associated_review.public](/_public/schema-org/Relation/has/has_associated_review.public.md) 
 
-### [has_associated_review.internal](/_internal/schema-org/Relation/has/has_associated_review.internal.md) 
+### #is_/same_as :: [has_associated_review.internal](/_internal/schema-org/Relation/has/has_associated_review.internal.md) 
 
-### [has_associated_review.protect](/_protect/schema-org/Relation/has/has_associated_review.protect.md) 
+### #is_/same_as :: [has_associated_review.protect](/_protect/schema-org/Relation/has/has_associated_review.protect.md) 
 
-### [has_associated_review.private](/_private/schema-org/Relation/has/has_associated_review.private.md) 
+### #is_/same_as :: [has_associated_review.private](/_private/schema-org/Relation/has/has_associated_review.private.md) 
 
-### [has_associated_review.personal](/_personal/schema-org/Relation/has/has_associated_review.personal.md) 
+### #is_/same_as :: [has_associated_review.personal](/_personal/schema-org/Relation/has/has_associated_review.personal.md) 
 
-### [has_associated_review.secret](/_secret/schema-org/Relation/has/has_associated_review.secret.md)
+### #is_/same_as :: [has_associated_review.secret](/_secret/schema-org/Relation/has/has_associated_review.secret.md)
 

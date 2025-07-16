@@ -32,21 +32,19 @@ Commons_category: "Solids (matter)"
 > [Wikipedia](https://en.wikipedia.org/wiki/Solid)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Solid](/_Standards/Science/Physics/State_of_Matter/Solid.md) 
+### #is_/same_as :: [Solid](/_Standards/Science/Physics/State_of_Matter/Solid.md) 
 
-### [Solid.public](/_public/Science/Physics/State_of_Matter/Solid.public.md) 
+### #is_/same_as :: [Solid.public](/_public/Science/Physics/State_of_Matter/Solid.public.md) 
 
-### [Solid.internal](/_internal/Science/Physics/State_of_Matter/Solid.internal.md) 
+### #is_/same_as :: [Solid.internal](/_internal/Science/Physics/State_of_Matter/Solid.internal.md) 
 
-### [Solid.protect](/_protect/Science/Physics/State_of_Matter/Solid.protect.md) 
+### #is_/same_as :: [Solid.protect](/_protect/Science/Physics/State_of_Matter/Solid.protect.md) 
 
-### [Solid.private](/_private/Science/Physics/State_of_Matter/Solid.private.md) 
+### #is_/same_as :: [Solid.private](/_private/Science/Physics/State_of_Matter/Solid.private.md) 
 
-### [Solid.personal](/_personal/Science/Physics/State_of_Matter/Solid.personal.md) 
+### #is_/same_as :: [Solid.personal](/_personal/Science/Physics/State_of_Matter/Solid.personal.md) 
 
-### [Solid.secret](/_secret/Science/Physics/State_of_Matter/Solid.secret.md)
+### #is_/same_as :: [Solid.secret](/_secret/Science/Physics/State_of_Matter/Solid.secret.md)
 

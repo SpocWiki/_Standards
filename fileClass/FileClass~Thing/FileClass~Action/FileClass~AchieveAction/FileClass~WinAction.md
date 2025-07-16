@@ -46,17 +46,17 @@ Loser:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/P
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WinAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.md) 
+### #is_/same_as :: [FileClass~WinAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.md) 
 
-### [FileClass~WinAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.public.md) 
+### #is_/same_as :: [FileClass~WinAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.public.md) 
 
-### [FileClass~WinAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.internal.md) 
+### #is_/same_as :: [FileClass~WinAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.internal.md) 
 
-### [FileClass~WinAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.protect.md) 
+### #is_/same_as :: [FileClass~WinAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.protect.md) 
 
-### [FileClass~WinAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.private.md) 
+### #is_/same_as :: [FileClass~WinAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.private.md) 
 
-### [FileClass~WinAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.personal.md) 
+### #is_/same_as :: [FileClass~WinAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.personal.md) 
 
-### [FileClass~WinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.secret.md)
+### #is_/same_as :: [FileClass~WinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.secret.md)
 

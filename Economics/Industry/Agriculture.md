@@ -103,17 +103,17 @@ Commons_category: Agriculture
 
 ## Confidential Links & Embeds: 
 
-### [Agriculture](/_Standards/Economics/Industry/Agriculture.md) 
+### #is_/same_as :: [Agriculture](/_Standards/Economics/Industry/Agriculture.md) 
 
-### [Agriculture.public](/_public/Economics/Industry/Agriculture.public.md) 
+### #is_/same_as :: [Agriculture.public](/_public/Economics/Industry/Agriculture.public.md) 
 
-### [Agriculture.internal](/_internal/Economics/Industry/Agriculture.internal.md) 
+### #is_/same_as :: [Agriculture.internal](/_internal/Economics/Industry/Agriculture.internal.md) 
 
-### [Agriculture.protect](/_protect/Economics/Industry/Agriculture.protect.md) 
+### #is_/same_as :: [Agriculture.protect](/_protect/Economics/Industry/Agriculture.protect.md) 
 
-### [Agriculture.private](/_private/Economics/Industry/Agriculture.private.md) 
+### #is_/same_as :: [Agriculture.private](/_private/Economics/Industry/Agriculture.private.md) 
 
-### [Agriculture.personal](/_personal/Economics/Industry/Agriculture.personal.md) 
+### #is_/same_as :: [Agriculture.personal](/_personal/Economics/Industry/Agriculture.personal.md) 
 
-### [Agriculture.secret](/_secret/Economics/Industry/Agriculture.secret.md)
+### #is_/same_as :: [Agriculture.secret](/_secret/Economics/Industry/Agriculture.secret.md)
 

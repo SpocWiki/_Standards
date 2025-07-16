@@ -47,17 +47,17 @@ A collection of datasets.
 
 ## Confidential Links & Embeds: 
 
-### [data_catalog](/_Standards/schema-org/Class/is_a_/creative_work/data_catalog.md) 
+### #is_/same_as :: [data_catalog](/_Standards/schema-org/Class/is_a_/creative_work/data_catalog.md) 
 
-### [data_catalog.public](/_public/schema-org/Class/is_a_/creative_work/data_catalog.public.md) 
+### #is_/same_as :: [data_catalog.public](/_public/schema-org/Class/is_a_/creative_work/data_catalog.public.md) 
 
-### [data_catalog.internal](/_internal/schema-org/Class/is_a_/creative_work/data_catalog.internal.md) 
+### #is_/same_as :: [data_catalog.internal](/_internal/schema-org/Class/is_a_/creative_work/data_catalog.internal.md) 
 
-### [data_catalog.protect](/_protect/schema-org/Class/is_a_/creative_work/data_catalog.protect.md) 
+### #is_/same_as :: [data_catalog.protect](/_protect/schema-org/Class/is_a_/creative_work/data_catalog.protect.md) 
 
-### [data_catalog.private](/_private/schema-org/Class/is_a_/creative_work/data_catalog.private.md) 
+### #is_/same_as :: [data_catalog.private](/_private/schema-org/Class/is_a_/creative_work/data_catalog.private.md) 
 
-### [data_catalog.personal](/_personal/schema-org/Class/is_a_/creative_work/data_catalog.personal.md) 
+### #is_/same_as :: [data_catalog.personal](/_personal/schema-org/Class/is_a_/creative_work/data_catalog.personal.md) 
 
-### [data_catalog.secret](/_secret/schema-org/Class/is_a_/creative_work/data_catalog.secret.md)
+### #is_/same_as :: [data_catalog.secret](/_secret/schema-org/Class/is_a_/creative_work/data_catalog.secret.md)
 

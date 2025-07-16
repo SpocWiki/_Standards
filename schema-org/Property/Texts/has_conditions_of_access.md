@@ -53,17 +53,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_conditions_of_access](/_Standards/schema-org/Property/Texts/has_conditions_of_access.md) 
+### #is_/same_as :: [has_conditions_of_access](/_Standards/schema-org/Property/Texts/has_conditions_of_access.md) 
 
-### [has_conditions_of_access.public](/_public/schema-org/Property/Texts/has_conditions_of_access.public.md) 
+### #is_/same_as :: [has_conditions_of_access.public](/_public/schema-org/Property/Texts/has_conditions_of_access.public.md) 
 
-### [has_conditions_of_access.internal](/_internal/schema-org/Property/Texts/has_conditions_of_access.internal.md) 
+### #is_/same_as :: [has_conditions_of_access.internal](/_internal/schema-org/Property/Texts/has_conditions_of_access.internal.md) 
 
-### [has_conditions_of_access.protect](/_protect/schema-org/Property/Texts/has_conditions_of_access.protect.md) 
+### #is_/same_as :: [has_conditions_of_access.protect](/_protect/schema-org/Property/Texts/has_conditions_of_access.protect.md) 
 
-### [has_conditions_of_access.private](/_private/schema-org/Property/Texts/has_conditions_of_access.private.md) 
+### #is_/same_as :: [has_conditions_of_access.private](/_private/schema-org/Property/Texts/has_conditions_of_access.private.md) 
 
-### [has_conditions_of_access.personal](/_personal/schema-org/Property/Texts/has_conditions_of_access.personal.md) 
+### #is_/same_as :: [has_conditions_of_access.personal](/_personal/schema-org/Property/Texts/has_conditions_of_access.personal.md) 
 
-### [has_conditions_of_access.secret](/_secret/schema-org/Property/Texts/has_conditions_of_access.secret.md)
+### #is_/same_as :: [has_conditions_of_access.secret](/_secret/schema-org/Property/Texts/has_conditions_of_access.secret.md)
 

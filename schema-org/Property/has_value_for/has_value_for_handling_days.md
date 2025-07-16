@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_handling_days](/_Standards/schema-org/Property/has_value_for/has_value_for_handling_days.md) 
+### #is_/same_as :: [has_value_for_handling_days](/_Standards/schema-org/Property/has_value_for/has_value_for_handling_days.md) 
 
-### [has_value_for_handling_days.public](/_public/schema-org/Property/has_value_for/has_value_for_handling_days.public.md) 
+### #is_/same_as :: [has_value_for_handling_days.public](/_public/schema-org/Property/has_value_for/has_value_for_handling_days.public.md) 
 
-### [has_value_for_handling_days.internal](/_internal/schema-org/Property/has_value_for/has_value_for_handling_days.internal.md) 
+### #is_/same_as :: [has_value_for_handling_days.internal](/_internal/schema-org/Property/has_value_for/has_value_for_handling_days.internal.md) 
 
-### [has_value_for_handling_days.protect](/_protect/schema-org/Property/has_value_for/has_value_for_handling_days.protect.md) 
+### #is_/same_as :: [has_value_for_handling_days.protect](/_protect/schema-org/Property/has_value_for/has_value_for_handling_days.protect.md) 
 
-### [has_value_for_handling_days.private](/_private/schema-org/Property/has_value_for/has_value_for_handling_days.private.md) 
+### #is_/same_as :: [has_value_for_handling_days.private](/_private/schema-org/Property/has_value_for/has_value_for_handling_days.private.md) 
 
-### [has_value_for_handling_days.personal](/_personal/schema-org/Property/has_value_for/has_value_for_handling_days.personal.md) 
+### #is_/same_as :: [has_value_for_handling_days.personal](/_personal/schema-org/Property/has_value_for/has_value_for_handling_days.personal.md) 
 
-### [has_value_for_handling_days.secret](/_secret/schema-org/Property/has_value_for/has_value_for_handling_days.secret.md)
+### #is_/same_as :: [has_value_for_handling_days.secret](/_secret/schema-org/Property/has_value_for/has_value_for_handling_days.secret.md)
 

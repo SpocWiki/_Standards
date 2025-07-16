@@ -406,17 +406,17 @@ Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]
 
 ## Confidential Links & Embeds: 
 
-### [Fiji](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji.md) 
+### #is_/same_as :: [Fiji](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji.md) 
 
-### [Fiji.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji.public.md) 
+### #is_/same_as :: [Fiji.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji.public.md) 
 
-### [Fiji.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji.internal.md) 
+### #is_/same_as :: [Fiji.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji.internal.md) 
 
-### [Fiji.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji.protect.md) 
+### #is_/same_as :: [Fiji.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji.protect.md) 
 
-### [Fiji.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji.private.md) 
+### #is_/same_as :: [Fiji.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji.private.md) 
 
-### [Fiji.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji.personal.md) 
+### #is_/same_as :: [Fiji.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji.personal.md) 
 
-### [Fiji.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret.md)
+### #is_/same_as :: [Fiji.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret.md)
 

@@ -47,17 +47,17 @@ The action that takes in a math expression and directs users to a page potential
 
 ## Confidential Links & Embeds: 
 
-### [solve_math_action](/_Standards/schema-org/Class/is_a_/action/solve_math_action.md) 
+### #is_/same_as :: [solve_math_action](/_Standards/schema-org/Class/is_a_/action/solve_math_action.md) 
 
-### [solve_math_action.public](/_public/schema-org/Class/is_a_/action/solve_math_action.public.md) 
+### #is_/same_as :: [solve_math_action.public](/_public/schema-org/Class/is_a_/action/solve_math_action.public.md) 
 
-### [solve_math_action.internal](/_internal/schema-org/Class/is_a_/action/solve_math_action.internal.md) 
+### #is_/same_as :: [solve_math_action.internal](/_internal/schema-org/Class/is_a_/action/solve_math_action.internal.md) 
 
-### [solve_math_action.protect](/_protect/schema-org/Class/is_a_/action/solve_math_action.protect.md) 
+### #is_/same_as :: [solve_math_action.protect](/_protect/schema-org/Class/is_a_/action/solve_math_action.protect.md) 
 
-### [solve_math_action.private](/_private/schema-org/Class/is_a_/action/solve_math_action.private.md) 
+### #is_/same_as :: [solve_math_action.private](/_private/schema-org/Class/is_a_/action/solve_math_action.private.md) 
 
-### [solve_math_action.personal](/_personal/schema-org/Class/is_a_/action/solve_math_action.personal.md) 
+### #is_/same_as :: [solve_math_action.personal](/_personal/schema-org/Class/is_a_/action/solve_math_action.personal.md) 
 
-### [solve_math_action.secret](/_secret/schema-org/Class/is_a_/action/solve_math_action.secret.md)
+### #is_/same_as :: [solve_math_action.secret](/_secret/schema-org/Class/is_a_/action/solve_math_action.secret.md)
 

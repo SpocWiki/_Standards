@@ -72,21 +72,19 @@ Life Cycle Stage ::   adult
 Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sicariidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.md) 
+### #is_/same_as :: [Sicariidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.md) 
 
-### [Sicariidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.public.md) 
+### #is_/same_as :: [Sicariidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.public.md) 
 
-### [Sicariidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.internal.md) 
+### #is_/same_as :: [Sicariidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.internal.md) 
 
-### [Sicariidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.protect.md) 
+### #is_/same_as :: [Sicariidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.protect.md) 
 
-### [Sicariidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.private.md) 
+### #is_/same_as :: [Sicariidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.private.md) 
 
-### [Sicariidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.personal.md) 
+### #is_/same_as :: [Sicariidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.personal.md) 
 
-### [Sicariidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.secret.md)
+### #is_/same_as :: [Sicariidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.secret.md)
 

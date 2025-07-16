@@ -49,17 +49,17 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 ## Confidential Links & Embeds: 
 
-### [full_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.md) 
+### #is_/same_as :: [full_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.md) 
 
-### [full_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.public.md) 
+### #is_/same_as :: [full_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.public.md) 
 
-### [full_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.internal.md) 
+### #is_/same_as :: [full_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.internal.md) 
 
-### [full_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.protect.md) 
+### #is_/same_as :: [full_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.protect.md) 
 
-### [full_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.private.md) 
+### #is_/same_as :: [full_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.private.md) 
 
-### [full_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.personal.md) 
+### #is_/same_as :: [full_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.personal.md) 
 
-### [full_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.secret.md)
+### #is_/same_as :: [full_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.secret.md)
 

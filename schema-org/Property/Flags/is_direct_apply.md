@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_direct_apply](/_Standards/schema-org/Property/Flags/is_direct_apply.md) 
+### #is_/same_as :: [is_direct_apply](/_Standards/schema-org/Property/Flags/is_direct_apply.md) 
 
-### [is_direct_apply.public](/_public/schema-org/Property/Flags/is_direct_apply.public.md) 
+### #is_/same_as :: [is_direct_apply.public](/_public/schema-org/Property/Flags/is_direct_apply.public.md) 
 
-### [is_direct_apply.internal](/_internal/schema-org/Property/Flags/is_direct_apply.internal.md) 
+### #is_/same_as :: [is_direct_apply.internal](/_internal/schema-org/Property/Flags/is_direct_apply.internal.md) 
 
-### [is_direct_apply.protect](/_protect/schema-org/Property/Flags/is_direct_apply.protect.md) 
+### #is_/same_as :: [is_direct_apply.protect](/_protect/schema-org/Property/Flags/is_direct_apply.protect.md) 
 
-### [is_direct_apply.private](/_private/schema-org/Property/Flags/is_direct_apply.private.md) 
+### #is_/same_as :: [is_direct_apply.private](/_private/schema-org/Property/Flags/is_direct_apply.private.md) 
 
-### [is_direct_apply.personal](/_personal/schema-org/Property/Flags/is_direct_apply.personal.md) 
+### #is_/same_as :: [is_direct_apply.personal](/_personal/schema-org/Property/Flags/is_direct_apply.personal.md) 
 
-### [is_direct_apply.secret](/_secret/schema-org/Property/Flags/is_direct_apply.secret.md)
+### #is_/same_as :: [is_direct_apply.secret](/_secret/schema-org/Property/Flags/is_direct_apply.secret.md)
 

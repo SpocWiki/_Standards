@@ -39,22 +39,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ancient%20history) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Ancient_History](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.md) 
+### #is_/same_as :: [Ancient_History](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.md) 
 
-### [Ancient_History.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.public.md) 
+### #is_/same_as :: [Ancient_History.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.public.md) 
 
-### [Ancient_History.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.internal.md) 
+### #is_/same_as :: [Ancient_History.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.internal.md) 
 
-### [Ancient_History.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.protect.md) 
+### #is_/same_as :: [Ancient_History.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.protect.md) 
 
-### [Ancient_History.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.private.md) 
+### #is_/same_as :: [Ancient_History.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.private.md) 
 
-### [Ancient_History.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.personal.md) 
+### #is_/same_as :: [Ancient_History.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.personal.md) 
 
-### [Ancient_History.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.secret.md)
+### #is_/same_as :: [Ancient_History.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/Ancient_History.secret.md)
 

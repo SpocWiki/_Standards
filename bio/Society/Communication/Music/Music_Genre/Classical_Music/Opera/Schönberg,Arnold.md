@@ -27,25 +27,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Arnold%20Schoenberg)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Schönberg,Arnold](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.md) 
+### #is_/same_as :: [Schönberg,Arnold](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.md) 
 
-### [Schönberg,Arnold.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.public.md) 
+### #is_/same_as :: [Schönberg,Arnold.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.public.md) 
 
-### [Schönberg,Arnold.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.internal.md) 
+### #is_/same_as :: [Schönberg,Arnold.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.internal.md) 
 
-### [Schönberg,Arnold.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.protect.md) 
+### #is_/same_as :: [Schönberg,Arnold.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.protect.md) 
 
-### [Schönberg,Arnold.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.private.md) 
+### #is_/same_as :: [Schönberg,Arnold.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.private.md) 
 
-### [Schönberg,Arnold.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.personal.md) 
+### #is_/same_as :: [Schönberg,Arnold.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.personal.md) 
 
-### [Schönberg,Arnold.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.secret.md)
+### #is_/same_as :: [Schönberg,Arnold.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera/Schönberg,Arnold.secret.md)
 

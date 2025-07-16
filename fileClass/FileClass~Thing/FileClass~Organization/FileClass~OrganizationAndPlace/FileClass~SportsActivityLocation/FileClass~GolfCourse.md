@@ -35,17 +35,17 @@ A golf course.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GolfCourse](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.md) 
+### #is_/same_as :: [FileClass~GolfCourse](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.md) 
 
-### [FileClass~GolfCourse.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.public.md) 
+### #is_/same_as :: [FileClass~GolfCourse.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.public.md) 
 
-### [FileClass~GolfCourse.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.internal.md) 
+### #is_/same_as :: [FileClass~GolfCourse.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.internal.md) 
 
-### [FileClass~GolfCourse.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.protect.md) 
+### #is_/same_as :: [FileClass~GolfCourse.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.protect.md) 
 
-### [FileClass~GolfCourse.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.private.md) 
+### #is_/same_as :: [FileClass~GolfCourse.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.private.md) 
 
-### [FileClass~GolfCourse.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.personal.md) 
+### #is_/same_as :: [FileClass~GolfCourse.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.personal.md) 
 
-### [FileClass~GolfCourse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.secret.md)
+### #is_/same_as :: [FileClass~GolfCourse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.secret.md)
 

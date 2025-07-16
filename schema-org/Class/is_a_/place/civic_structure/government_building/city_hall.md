@@ -45,17 +45,17 @@ A city hall.
 
 ## Confidential Links & Embeds: 
 
-### [city_hall](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.md) 
+### #is_/same_as :: [city_hall](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.md) 
 
-### [city_hall.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.public.md) 
+### #is_/same_as :: [city_hall.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.public.md) 
 
-### [city_hall.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.internal.md) 
+### #is_/same_as :: [city_hall.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.internal.md) 
 
-### [city_hall.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.protect.md) 
+### #is_/same_as :: [city_hall.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.protect.md) 
 
-### [city_hall.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.private.md) 
+### #is_/same_as :: [city_hall.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.private.md) 
 
-### [city_hall.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.personal.md) 
+### #is_/same_as :: [city_hall.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.personal.md) 
 
-### [city_hall.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.secret.md)
+### #is_/same_as :: [city_hall.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.secret.md)
 

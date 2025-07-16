@@ -34,17 +34,17 @@ An historical landmark or building.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LandmarksOrHistoricalBuildings](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.md) 
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.md) 
 
-### [FileClass~LandmarksOrHistoricalBuildings.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.public.md) 
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.public.md) 
 
-### [FileClass~LandmarksOrHistoricalBuildings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.internal.md) 
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.internal.md) 
 
-### [FileClass~LandmarksOrHistoricalBuildings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.protect.md) 
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.protect.md) 
 
-### [FileClass~LandmarksOrHistoricalBuildings.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.private.md) 
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.private.md) 
 
-### [FileClass~LandmarksOrHistoricalBuildings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.personal.md) 
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.personal.md) 
 
-### [FileClass~LandmarksOrHistoricalBuildings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.secret.md)
+### #is_/same_as :: [FileClass~LandmarksOrHistoricalBuildings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.secret.md)
 

@@ -47,17 +47,17 @@ Branch of medicine that pertains to the health services to improve and protect c
 
 ## Confidential Links & Embeds: 
 
-### [public_health](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.md) 
+### #is_/same_as :: [public_health](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.md) 
 
-### [public_health.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.public.md) 
+### #is_/same_as :: [public_health.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.public.md) 
 
-### [public_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.internal.md) 
+### #is_/same_as :: [public_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.internal.md) 
 
-### [public_health.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.protect.md) 
+### #is_/same_as :: [public_health.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.protect.md) 
 
-### [public_health.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.private.md) 
+### #is_/same_as :: [public_health.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.private.md) 
 
-### [public_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.personal.md) 
+### #is_/same_as :: [public_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.personal.md) 
 
-### [public_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.secret.md)
+### #is_/same_as :: [public_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/public_health.secret.md)
 

@@ -60,17 +60,17 @@ LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RealEstateListing](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.md) 
+### #is_/same_as :: [FileClass~RealEstateListing](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.md) 
 
-### [FileClass~RealEstateListing.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.public.md) 
+### #is_/same_as :: [FileClass~RealEstateListing.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.public.md) 
 
-### [FileClass~RealEstateListing.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.internal.md) 
+### #is_/same_as :: [FileClass~RealEstateListing.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.internal.md) 
 
-### [FileClass~RealEstateListing.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.protect.md) 
+### #is_/same_as :: [FileClass~RealEstateListing.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.protect.md) 
 
-### [FileClass~RealEstateListing.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.private.md) 
+### #is_/same_as :: [FileClass~RealEstateListing.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.private.md) 
 
-### [FileClass~RealEstateListing.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.personal.md) 
+### #is_/same_as :: [FileClass~RealEstateListing.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.personal.md) 
 
-### [FileClass~RealEstateListing.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.secret.md)
+### #is_/same_as :: [FileClass~RealEstateListing.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.secret.md)
 

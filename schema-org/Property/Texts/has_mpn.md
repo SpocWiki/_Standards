@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_mpn](/_Standards/schema-org/Property/Texts/has_mpn.md) 
+### #is_/same_as :: [has_mpn](/_Standards/schema-org/Property/Texts/has_mpn.md) 
 
-### [has_mpn.public](/_public/schema-org/Property/Texts/has_mpn.public.md) 
+### #is_/same_as :: [has_mpn.public](/_public/schema-org/Property/Texts/has_mpn.public.md) 
 
-### [has_mpn.internal](/_internal/schema-org/Property/Texts/has_mpn.internal.md) 
+### #is_/same_as :: [has_mpn.internal](/_internal/schema-org/Property/Texts/has_mpn.internal.md) 
 
-### [has_mpn.protect](/_protect/schema-org/Property/Texts/has_mpn.protect.md) 
+### #is_/same_as :: [has_mpn.protect](/_protect/schema-org/Property/Texts/has_mpn.protect.md) 
 
-### [has_mpn.private](/_private/schema-org/Property/Texts/has_mpn.private.md) 
+### #is_/same_as :: [has_mpn.private](/_private/schema-org/Property/Texts/has_mpn.private.md) 
 
-### [has_mpn.personal](/_personal/schema-org/Property/Texts/has_mpn.personal.md) 
+### #is_/same_as :: [has_mpn.personal](/_personal/schema-org/Property/Texts/has_mpn.personal.md) 
 
-### [has_mpn.secret](/_secret/schema-org/Property/Texts/has_mpn.secret.md)
+### #is_/same_as :: [has_mpn.secret](/_secret/schema-org/Property/Texts/has_mpn.secret.md)
 

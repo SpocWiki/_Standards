@@ -47,17 +47,17 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 
 ## Confidential Links & Embeds: 
 
-### [wholesale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
+### #is_/same_as :: [wholesale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
 
-### [wholesale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.public.md) 
+### #is_/same_as :: [wholesale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.public.md) 
 
-### [wholesale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md) 
+### #is_/same_as :: [wholesale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md) 
 
-### [wholesale.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.protect.md) 
+### #is_/same_as :: [wholesale.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.protect.md) 
 
-### [wholesale.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.private.md) 
+### #is_/same_as :: [wholesale.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.private.md) 
 
-### [wholesale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal.md) 
+### #is_/same_as :: [wholesale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal.md) 
 
-### [wholesale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md)
+### #is_/same_as :: [wholesale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md)
 

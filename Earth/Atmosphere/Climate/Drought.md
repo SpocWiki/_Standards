@@ -68,21 +68,19 @@ IPTC_NewsCode: mediatopic/20000152
  
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Drought](/_Standards/Earth/Atmosphere/Climate/Drought.md) 
+### #is_/same_as :: [Drought](/_Standards/Earth/Atmosphere/Climate/Drought.md) 
 
-### [Drought.public](/_public/Earth/Atmosphere/Climate/Drought.public.md) 
+### #is_/same_as :: [Drought.public](/_public/Earth/Atmosphere/Climate/Drought.public.md) 
 
-### [Drought.internal](/_internal/Earth/Atmosphere/Climate/Drought.internal.md) 
+### #is_/same_as :: [Drought.internal](/_internal/Earth/Atmosphere/Climate/Drought.internal.md) 
 
-### [Drought.protect](/_protect/Earth/Atmosphere/Climate/Drought.protect.md) 
+### #is_/same_as :: [Drought.protect](/_protect/Earth/Atmosphere/Climate/Drought.protect.md) 
 
-### [Drought.private](/_private/Earth/Atmosphere/Climate/Drought.private.md) 
+### #is_/same_as :: [Drought.private](/_private/Earth/Atmosphere/Climate/Drought.private.md) 
 
-### [Drought.personal](/_personal/Earth/Atmosphere/Climate/Drought.personal.md) 
+### #is_/same_as :: [Drought.personal](/_personal/Earth/Atmosphere/Climate/Drought.personal.md) 
 
-### [Drought.secret](/_secret/Earth/Atmosphere/Climate/Drought.secret.md)
+### #is_/same_as :: [Drought.secret](/_secret/Earth/Atmosphere/Climate/Drought.secret.md)
 

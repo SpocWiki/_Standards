@@ -75,17 +75,17 @@ SMILES `O=C=O` ([carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide 
 
 ## Confidential Links & Embeds: 
 
-### [SMILES-Formula](/_Standards/chemic/SMILES-Formula.md) 
+### #is_/same_as :: [SMILES-Formula](/_Standards/chemic/SMILES-Formula.md) 
 
-### [SMILES-Formula.public](/_public/chemic/SMILES-Formula.public.md) 
+### #is_/same_as :: [SMILES-Formula.public](/_public/chemic/SMILES-Formula.public.md) 
 
-### [SMILES-Formula.internal](/_internal/chemic/SMILES-Formula.internal.md) 
+### #is_/same_as :: [SMILES-Formula.internal](/_internal/chemic/SMILES-Formula.internal.md) 
 
-### [SMILES-Formula.protect](/_protect/chemic/SMILES-Formula.protect.md) 
+### #is_/same_as :: [SMILES-Formula.protect](/_protect/chemic/SMILES-Formula.protect.md) 
 
-### [SMILES-Formula.private](/_private/chemic/SMILES-Formula.private.md) 
+### #is_/same_as :: [SMILES-Formula.private](/_private/chemic/SMILES-Formula.private.md) 
 
-### [SMILES-Formula.personal](/_personal/chemic/SMILES-Formula.personal.md) 
+### #is_/same_as :: [SMILES-Formula.personal](/_personal/chemic/SMILES-Formula.personal.md) 
 
-### [SMILES-Formula.secret](/_secret/chemic/SMILES-Formula.secret.md)
+### #is_/same_as :: [SMILES-Formula.secret](/_secret/chemic/SMILES-Formula.secret.md)
 

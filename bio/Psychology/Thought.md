@@ -33,17 +33,17 @@ Commons_category: Thinking
 
 ## Confidential Links & Embeds: 
 
-### [Thought](/_Standards/bio/Psychology/Thought.md) 
+### #is_/same_as :: [Thought](/_Standards/bio/Psychology/Thought.md) 
 
-### [Thought.public](/_public/bio/Psychology/Thought.public.md) 
+### #is_/same_as :: [Thought.public](/_public/bio/Psychology/Thought.public.md) 
 
-### [Thought.internal](/_internal/bio/Psychology/Thought.internal.md) 
+### #is_/same_as :: [Thought.internal](/_internal/bio/Psychology/Thought.internal.md) 
 
-### [Thought.protect](/_protect/bio/Psychology/Thought.protect.md) 
+### #is_/same_as :: [Thought.protect](/_protect/bio/Psychology/Thought.protect.md) 
 
-### [Thought.private](/_private/bio/Psychology/Thought.private.md) 
+### #is_/same_as :: [Thought.private](/_private/bio/Psychology/Thought.private.md) 
 
-### [Thought.personal](/_personal/bio/Psychology/Thought.personal.md) 
+### #is_/same_as :: [Thought.personal](/_personal/bio/Psychology/Thought.personal.md) 
 
-### [Thought.secret](/_secret/bio/Psychology/Thought.secret.md)
+### #is_/same_as :: [Thought.secret](/_secret/bio/Psychology/Thought.secret.md)
 

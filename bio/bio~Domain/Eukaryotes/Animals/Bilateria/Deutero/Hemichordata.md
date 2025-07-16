@@ -57,20 +57,19 @@ Photograph by David Remsen, copyright © 1995,
 ![saccoglossus](saccoglossus.gif)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Hemichordata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.md) 
+### #is_/same_as :: [Hemichordata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.md) 
 
-### [Hemichordata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.public.md) 
+### #is_/same_as :: [Hemichordata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.public.md) 
 
-### [Hemichordata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.internal.md) 
+### #is_/same_as :: [Hemichordata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.internal.md) 
 
-### [Hemichordata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.protect.md) 
+### #is_/same_as :: [Hemichordata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.protect.md) 
 
-### [Hemichordata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.private.md) 
+### #is_/same_as :: [Hemichordata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.private.md) 
 
-### [Hemichordata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.personal.md) 
+### #is_/same_as :: [Hemichordata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.personal.md) 
 
-### [Hemichordata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.secret.md)
+### #is_/same_as :: [Hemichordata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.secret.md)
 

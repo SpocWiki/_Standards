@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_runtime_platform](/_Standards/schema-org/Property/Texts/has_runtime_platform.md) 
+### #is_/same_as :: [has_runtime_platform](/_Standards/schema-org/Property/Texts/has_runtime_platform.md) 
 
-### [has_runtime_platform.public](/_public/schema-org/Property/Texts/has_runtime_platform.public.md) 
+### #is_/same_as :: [has_runtime_platform.public](/_public/schema-org/Property/Texts/has_runtime_platform.public.md) 
 
-### [has_runtime_platform.internal](/_internal/schema-org/Property/Texts/has_runtime_platform.internal.md) 
+### #is_/same_as :: [has_runtime_platform.internal](/_internal/schema-org/Property/Texts/has_runtime_platform.internal.md) 
 
-### [has_runtime_platform.protect](/_protect/schema-org/Property/Texts/has_runtime_platform.protect.md) 
+### #is_/same_as :: [has_runtime_platform.protect](/_protect/schema-org/Property/Texts/has_runtime_platform.protect.md) 
 
-### [has_runtime_platform.private](/_private/schema-org/Property/Texts/has_runtime_platform.private.md) 
+### #is_/same_as :: [has_runtime_platform.private](/_private/schema-org/Property/Texts/has_runtime_platform.private.md) 
 
-### [has_runtime_platform.personal](/_personal/schema-org/Property/Texts/has_runtime_platform.personal.md) 
+### #is_/same_as :: [has_runtime_platform.personal](/_personal/schema-org/Property/Texts/has_runtime_platform.personal.md) 
 
-### [has_runtime_platform.secret](/_secret/schema-org/Property/Texts/has_runtime_platform.secret.md)
+### #is_/same_as :: [has_runtime_platform.secret](/_secret/schema-org/Property/Texts/has_runtime_platform.secret.md)
 

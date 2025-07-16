@@ -45,17 +45,17 @@ A means for accessing a service, e.g. a government office location, web site, or
 
 ## Confidential Links & Embeds: 
 
-### [service_channel](/_Standards/schema-org/Class/is_a_/Intangible/service_channel.md) 
+### #is_/same_as :: [service_channel](/_Standards/schema-org/Class/is_a_/Intangible/service_channel.md) 
 
-### [service_channel.public](/_public/schema-org/Class/is_a_/Intangible/service_channel.public.md) 
+### #is_/same_as :: [service_channel.public](/_public/schema-org/Class/is_a_/Intangible/service_channel.public.md) 
 
-### [service_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/service_channel.internal.md) 
+### #is_/same_as :: [service_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/service_channel.internal.md) 
 
-### [service_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/service_channel.protect.md) 
+### #is_/same_as :: [service_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/service_channel.protect.md) 
 
-### [service_channel.private](/_private/schema-org/Class/is_a_/Intangible/service_channel.private.md) 
+### #is_/same_as :: [service_channel.private](/_private/schema-org/Class/is_a_/Intangible/service_channel.private.md) 
 
-### [service_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/service_channel.personal.md) 
+### #is_/same_as :: [service_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/service_channel.personal.md) 
 
-### [service_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/service_channel.secret.md)
+### #is_/same_as :: [service_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/service_channel.secret.md)
 

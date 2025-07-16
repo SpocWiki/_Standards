@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_permissions](/_Standards/schema-org/Property/Texts/has_permissions.md) 
+### #is_/same_as :: [has_permissions](/_Standards/schema-org/Property/Texts/has_permissions.md) 
 
-### [has_permissions.public](/_public/schema-org/Property/Texts/has_permissions.public.md) 
+### #is_/same_as :: [has_permissions.public](/_public/schema-org/Property/Texts/has_permissions.public.md) 
 
-### [has_permissions.internal](/_internal/schema-org/Property/Texts/has_permissions.internal.md) 
+### #is_/same_as :: [has_permissions.internal](/_internal/schema-org/Property/Texts/has_permissions.internal.md) 
 
-### [has_permissions.protect](/_protect/schema-org/Property/Texts/has_permissions.protect.md) 
+### #is_/same_as :: [has_permissions.protect](/_protect/schema-org/Property/Texts/has_permissions.protect.md) 
 
-### [has_permissions.private](/_private/schema-org/Property/Texts/has_permissions.private.md) 
+### #is_/same_as :: [has_permissions.private](/_private/schema-org/Property/Texts/has_permissions.private.md) 
 
-### [has_permissions.personal](/_personal/schema-org/Property/Texts/has_permissions.personal.md) 
+### #is_/same_as :: [has_permissions.personal](/_personal/schema-org/Property/Texts/has_permissions.personal.md) 
 
-### [has_permissions.secret](/_secret/schema-org/Property/Texts/has_permissions.secret.md)
+### #is_/same_as :: [has_permissions.secret](/_secret/schema-org/Property/Texts/has_permissions.secret.md)
 

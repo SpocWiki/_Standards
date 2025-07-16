@@ -196,22 +196,19 @@ generational_suffix: L252247-F2
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr.)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [King,Martin_Luther](/_Standards/bio/People/Leader/Modern_Leaders/King,Martin_Luther.md) 
+### #is_/same_as :: [King,Martin_Luther](/_Standards/bio/People/Leader/Modern_Leaders/King,Martin_Luther.md) 
 
-### [King,Martin_Luther.public](/_public/bio/People/Leader/Modern_Leaders/King,Martin_Luther.public.md) 
+### #is_/same_as :: [King,Martin_Luther.public](/_public/bio/People/Leader/Modern_Leaders/King,Martin_Luther.public.md) 
 
-### [King,Martin_Luther.internal](/_internal/bio/People/Leader/Modern_Leaders/King,Martin_Luther.internal.md) 
+### #is_/same_as :: [King,Martin_Luther.internal](/_internal/bio/People/Leader/Modern_Leaders/King,Martin_Luther.internal.md) 
 
-### [King,Martin_Luther.protect](/_protect/bio/People/Leader/Modern_Leaders/King,Martin_Luther.protect.md) 
+### #is_/same_as :: [King,Martin_Luther.protect](/_protect/bio/People/Leader/Modern_Leaders/King,Martin_Luther.protect.md) 
 
-### [King,Martin_Luther.private](/_private/bio/People/Leader/Modern_Leaders/King,Martin_Luther.private.md) 
+### #is_/same_as :: [King,Martin_Luther.private](/_private/bio/People/Leader/Modern_Leaders/King,Martin_Luther.private.md) 
 
-### [King,Martin_Luther.personal](/_personal/bio/People/Leader/Modern_Leaders/King,Martin_Luther.personal.md) 
+### #is_/same_as :: [King,Martin_Luther.personal](/_personal/bio/People/Leader/Modern_Leaders/King,Martin_Luther.personal.md) 
 
-### [King,Martin_Luther.secret](/_secret/bio/People/Leader/Modern_Leaders/King,Martin_Luther.secret.md)
+### #is_/same_as :: [King,Martin_Luther.secret](/_secret/bio/People/Leader/Modern_Leaders/King,Martin_Luther.secret.md)
 

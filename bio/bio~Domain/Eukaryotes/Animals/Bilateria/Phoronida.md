@@ -88,20 +88,19 @@ Copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 	-   *Phoronopsis malakhovi*
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Phoronida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.md) 
+### #is_/same_as :: [Phoronida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.md) 
 
-### [Phoronida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.public.md) 
+### #is_/same_as :: [Phoronida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.public.md) 
 
-### [Phoronida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.internal.md) 
+### #is_/same_as :: [Phoronida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.internal.md) 
 
-### [Phoronida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.protect.md) 
+### #is_/same_as :: [Phoronida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.protect.md) 
 
-### [Phoronida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.private.md) 
+### #is_/same_as :: [Phoronida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.private.md) 
 
-### [Phoronida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.personal.md) 
+### #is_/same_as :: [Phoronida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.personal.md) 
 
-### [Phoronida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.secret.md)
+### #is_/same_as :: [Phoronida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.secret.md)
 

@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 ## Confidential Links & Embeds: 
 
-### [plastic_surgery](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.md) 
+### #is_/same_as :: [plastic_surgery](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.md) 
 
-### [plastic_surgery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.public.md) 
+### #is_/same_as :: [plastic_surgery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.public.md) 
 
-### [plastic_surgery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.internal.md) 
+### #is_/same_as :: [plastic_surgery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.internal.md) 
 
-### [plastic_surgery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.protect.md) 
+### #is_/same_as :: [plastic_surgery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.protect.md) 
 
-### [plastic_surgery.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.private.md) 
+### #is_/same_as :: [plastic_surgery.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.private.md) 
 
-### [plastic_surgery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.personal.md) 
+### #is_/same_as :: [plastic_surgery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.personal.md) 
 
-### [plastic_surgery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.secret.md)
+### #is_/same_as :: [plastic_surgery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.secret.md)
 

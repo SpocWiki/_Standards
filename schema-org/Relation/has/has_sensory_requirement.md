@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sensory_requirement](/_Standards/schema-org/Relation/has/has_sensory_requirement.md) 
+### #is_/same_as :: [has_sensory_requirement](/_Standards/schema-org/Relation/has/has_sensory_requirement.md) 
 
-### [has_sensory_requirement.public](/_public/schema-org/Relation/has/has_sensory_requirement.public.md) 
+### #is_/same_as :: [has_sensory_requirement.public](/_public/schema-org/Relation/has/has_sensory_requirement.public.md) 
 
-### [has_sensory_requirement.internal](/_internal/schema-org/Relation/has/has_sensory_requirement.internal.md) 
+### #is_/same_as :: [has_sensory_requirement.internal](/_internal/schema-org/Relation/has/has_sensory_requirement.internal.md) 
 
-### [has_sensory_requirement.protect](/_protect/schema-org/Relation/has/has_sensory_requirement.protect.md) 
+### #is_/same_as :: [has_sensory_requirement.protect](/_protect/schema-org/Relation/has/has_sensory_requirement.protect.md) 
 
-### [has_sensory_requirement.private](/_private/schema-org/Relation/has/has_sensory_requirement.private.md) 
+### #is_/same_as :: [has_sensory_requirement.private](/_private/schema-org/Relation/has/has_sensory_requirement.private.md) 
 
-### [has_sensory_requirement.personal](/_personal/schema-org/Relation/has/has_sensory_requirement.personal.md) 
+### #is_/same_as :: [has_sensory_requirement.personal](/_personal/schema-org/Relation/has/has_sensory_requirement.personal.md) 
 
-### [has_sensory_requirement.secret](/_secret/schema-org/Relation/has/has_sensory_requirement.secret.md)
+### #is_/same_as :: [has_sensory_requirement.secret](/_secret/schema-org/Relation/has/has_sensory_requirement.secret.md)
 

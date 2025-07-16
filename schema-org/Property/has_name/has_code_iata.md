@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_iata](/_Standards/schema-org/Property/has_name/has_code_iata.md) 
+### #is_/same_as :: [has_code_iata](/_Standards/schema-org/Property/has_name/has_code_iata.md) 
 
-### [has_code_iata.public](/_public/schema-org/Property/has_name/has_code_iata.public.md) 
+### #is_/same_as :: [has_code_iata.public](/_public/schema-org/Property/has_name/has_code_iata.public.md) 
 
-### [has_code_iata.internal](/_internal/schema-org/Property/has_name/has_code_iata.internal.md) 
+### #is_/same_as :: [has_code_iata.internal](/_internal/schema-org/Property/has_name/has_code_iata.internal.md) 
 
-### [has_code_iata.protect](/_protect/schema-org/Property/has_name/has_code_iata.protect.md) 
+### #is_/same_as :: [has_code_iata.protect](/_protect/schema-org/Property/has_name/has_code_iata.protect.md) 
 
-### [has_code_iata.private](/_private/schema-org/Property/has_name/has_code_iata.private.md) 
+### #is_/same_as :: [has_code_iata.private](/_private/schema-org/Property/has_name/has_code_iata.private.md) 
 
-### [has_code_iata.personal](/_personal/schema-org/Property/has_name/has_code_iata.personal.md) 
+### #is_/same_as :: [has_code_iata.personal](/_personal/schema-org/Property/has_name/has_code_iata.personal.md) 
 
-### [has_code_iata.secret](/_secret/schema-org/Property/has_name/has_code_iata.secret.md)
+### #is_/same_as :: [has_code_iata.secret](/_secret/schema-org/Property/has_name/has_code_iata.secret.md)
 

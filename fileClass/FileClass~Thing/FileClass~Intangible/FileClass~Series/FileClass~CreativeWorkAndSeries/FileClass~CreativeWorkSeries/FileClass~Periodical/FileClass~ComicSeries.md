@@ -37,17 +37,17 @@ Wanderer".
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.md) 
+### #is_/same_as :: [FileClass~ComicSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.md) 
 
-### [FileClass~ComicSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.public.md) 
+### #is_/same_as :: [FileClass~ComicSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.public.md) 
 
-### [FileClass~ComicSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.internal.md) 
+### #is_/same_as :: [FileClass~ComicSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.internal.md) 
 
-### [FileClass~ComicSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.protect.md) 
+### #is_/same_as :: [FileClass~ComicSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.protect.md) 
 
-### [FileClass~ComicSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.private.md) 
+### #is_/same_as :: [FileClass~ComicSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.private.md) 
 
-### [FileClass~ComicSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.personal.md) 
+### #is_/same_as :: [FileClass~ComicSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.personal.md) 
 
-### [FileClass~ComicSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.secret.md)
+### #is_/same_as :: [FileClass~ComicSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.secret.md)
 

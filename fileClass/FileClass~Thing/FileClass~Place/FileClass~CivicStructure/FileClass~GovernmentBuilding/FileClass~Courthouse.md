@@ -35,17 +35,17 @@ A courthouse.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Courthouse](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.md) 
+### #is_/same_as :: [FileClass~Courthouse](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.md) 
 
-### [FileClass~Courthouse.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.public.md) 
+### #is_/same_as :: [FileClass~Courthouse.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.public.md) 
 
-### [FileClass~Courthouse.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.internal.md) 
+### #is_/same_as :: [FileClass~Courthouse.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.internal.md) 
 
-### [FileClass~Courthouse.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.protect.md) 
+### #is_/same_as :: [FileClass~Courthouse.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.protect.md) 
 
-### [FileClass~Courthouse.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.private.md) 
+### #is_/same_as :: [FileClass~Courthouse.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.private.md) 
 
-### [FileClass~Courthouse.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.personal.md) 
+### #is_/same_as :: [FileClass~Courthouse.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.personal.md) 
 
-### [FileClass~Courthouse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.secret.md)
+### #is_/same_as :: [FileClass~Courthouse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.secret.md)
 

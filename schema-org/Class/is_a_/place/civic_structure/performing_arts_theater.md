@@ -45,17 +45,17 @@ A theater or other performing art center.
 
 ## Confidential Links & Embeds: 
 
-### [performing_arts_theater](/_Standards/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.md) 
+### #is_/same_as :: [performing_arts_theater](/_Standards/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.md) 
 
-### [performing_arts_theater.public](/_public/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.public.md) 
+### #is_/same_as :: [performing_arts_theater.public](/_public/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.public.md) 
 
-### [performing_arts_theater.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.internal.md) 
+### #is_/same_as :: [performing_arts_theater.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.internal.md) 
 
-### [performing_arts_theater.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.protect.md) 
+### #is_/same_as :: [performing_arts_theater.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.protect.md) 
 
-### [performing_arts_theater.private](/_private/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.private.md) 
+### #is_/same_as :: [performing_arts_theater.private](/_private/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.private.md) 
 
-### [performing_arts_theater.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.personal.md) 
+### #is_/same_as :: [performing_arts_theater.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.personal.md) 
 
-### [performing_arts_theater.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.secret.md)
+### #is_/same_as :: [performing_arts_theater.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.secret.md)
 

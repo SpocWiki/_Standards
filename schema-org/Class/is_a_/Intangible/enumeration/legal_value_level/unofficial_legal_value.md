@@ -49,17 +49,17 @@ Indicates that a document has no particular or special standing (e.g. a republic
 
 ## Confidential Links & Embeds: 
 
-### [unofficial_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.md) 
+### #is_/same_as :: [unofficial_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.md) 
 
-### [unofficial_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.public.md) 
+### #is_/same_as :: [unofficial_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.public.md) 
 
-### [unofficial_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.internal.md) 
+### #is_/same_as :: [unofficial_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.internal.md) 
 
-### [unofficial_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.protect.md) 
+### #is_/same_as :: [unofficial_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.protect.md) 
 
-### [unofficial_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.private.md) 
+### #is_/same_as :: [unofficial_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.private.md) 
 
-### [unofficial_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.personal.md) 
+### #is_/same_as :: [unofficial_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.personal.md) 
 
-### [unofficial_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.secret.md)
+### #is_/same_as :: [unofficial_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.secret.md)
 

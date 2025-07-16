@@ -22,17 +22,17 @@ has_id_wikidata: Q8072
 
 ## Confidential Links & Embeds: 
 
-### [Volcano](/_Standards/Earth/Geology/Volcano.md) 
+### #is_/same_as :: [Volcano](/_Standards/Earth/Geology/Volcano.md) 
 
-### [Volcano.public](/_public/Earth/Geology/Volcano.public.md) 
+### #is_/same_as :: [Volcano.public](/_public/Earth/Geology/Volcano.public.md) 
 
-### [Volcano.internal](/_internal/Earth/Geology/Volcano.internal.md) 
+### #is_/same_as :: [Volcano.internal](/_internal/Earth/Geology/Volcano.internal.md) 
 
-### [Volcano.protect](/_protect/Earth/Geology/Volcano.protect.md) 
+### #is_/same_as :: [Volcano.protect](/_protect/Earth/Geology/Volcano.protect.md) 
 
-### [Volcano.private](/_private/Earth/Geology/Volcano.private.md) 
+### #is_/same_as :: [Volcano.private](/_private/Earth/Geology/Volcano.private.md) 
 
-### [Volcano.personal](/_personal/Earth/Geology/Volcano.personal.md) 
+### #is_/same_as :: [Volcano.personal](/_personal/Earth/Geology/Volcano.personal.md) 
 
-### [Volcano.secret](/_secret/Earth/Geology/Volcano.secret.md)
+### #is_/same_as :: [Volcano.secret](/_secret/Earth/Geology/Volcano.secret.md)
 

@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_action_option](/_Standards/schema-org/Property/Texts/has_action_option.md) 
+### #is_/same_as :: [has_action_option](/_Standards/schema-org/Property/Texts/has_action_option.md) 
 
-### [has_action_option.public](/_public/schema-org/Property/Texts/has_action_option.public.md) 
+### #is_/same_as :: [has_action_option.public](/_public/schema-org/Property/Texts/has_action_option.public.md) 
 
-### [has_action_option.internal](/_internal/schema-org/Property/Texts/has_action_option.internal.md) 
+### #is_/same_as :: [has_action_option.internal](/_internal/schema-org/Property/Texts/has_action_option.internal.md) 
 
-### [has_action_option.protect](/_protect/schema-org/Property/Texts/has_action_option.protect.md) 
+### #is_/same_as :: [has_action_option.protect](/_protect/schema-org/Property/Texts/has_action_option.protect.md) 
 
-### [has_action_option.private](/_private/schema-org/Property/Texts/has_action_option.private.md) 
+### #is_/same_as :: [has_action_option.private](/_private/schema-org/Property/Texts/has_action_option.private.md) 
 
-### [has_action_option.personal](/_personal/schema-org/Property/Texts/has_action_option.personal.md) 
+### #is_/same_as :: [has_action_option.personal](/_personal/schema-org/Property/Texts/has_action_option.personal.md) 
 
-### [has_action_option.secret](/_secret/schema-org/Property/Texts/has_action_option.secret.md)
+### #is_/same_as :: [has_action_option.secret](/_secret/schema-org/Property/Texts/has_action_option.secret.md)
 

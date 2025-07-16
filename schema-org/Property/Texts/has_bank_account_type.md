@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_bank_account_type](/_Standards/schema-org/Property/Texts/has_bank_account_type.md) 
+### #is_/same_as :: [has_bank_account_type](/_Standards/schema-org/Property/Texts/has_bank_account_type.md) 
 
-### [has_bank_account_type.public](/_public/schema-org/Property/Texts/has_bank_account_type.public.md) 
+### #is_/same_as :: [has_bank_account_type.public](/_public/schema-org/Property/Texts/has_bank_account_type.public.md) 
 
-### [has_bank_account_type.internal](/_internal/schema-org/Property/Texts/has_bank_account_type.internal.md) 
+### #is_/same_as :: [has_bank_account_type.internal](/_internal/schema-org/Property/Texts/has_bank_account_type.internal.md) 
 
-### [has_bank_account_type.protect](/_protect/schema-org/Property/Texts/has_bank_account_type.protect.md) 
+### #is_/same_as :: [has_bank_account_type.protect](/_protect/schema-org/Property/Texts/has_bank_account_type.protect.md) 
 
-### [has_bank_account_type.private](/_private/schema-org/Property/Texts/has_bank_account_type.private.md) 
+### #is_/same_as :: [has_bank_account_type.private](/_private/schema-org/Property/Texts/has_bank_account_type.private.md) 
 
-### [has_bank_account_type.personal](/_personal/schema-org/Property/Texts/has_bank_account_type.personal.md) 
+### #is_/same_as :: [has_bank_account_type.personal](/_personal/schema-org/Property/Texts/has_bank_account_type.personal.md) 
 
-### [has_bank_account_type.secret](/_secret/schema-org/Property/Texts/has_bank_account_type.secret.md)
+### #is_/same_as :: [has_bank_account_type.secret](/_secret/schema-org/Property/Texts/has_bank_account_type.secret.md)
 

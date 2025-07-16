@@ -41,17 +41,17 @@ Classes of agents or pathogens that transmit infectious diseases. Enumerated typ
 
 ## Confidential Links & Embeds: 
 
-### [infectious_agent](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.md) 
+### #is_/same_as :: [infectious_agent](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.md) 
 
-### [infectious_agent.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.public.md) 
+### #is_/same_as :: [infectious_agent.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.public.md) 
 
-### [infectious_agent.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.internal.md) 
+### #is_/same_as :: [infectious_agent.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.internal.md) 
 
-### [infectious_agent.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.protect.md) 
+### #is_/same_as :: [infectious_agent.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.protect.md) 
 
-### [infectious_agent.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.private.md) 
+### #is_/same_as :: [infectious_agent.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.private.md) 
 
-### [infectious_agent.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.personal.md) 
+### #is_/same_as :: [infectious_agent.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.personal.md) 
 
-### [infectious_agent.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.secret.md)
+### #is_/same_as :: [infectious_agent.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.secret.md)
 

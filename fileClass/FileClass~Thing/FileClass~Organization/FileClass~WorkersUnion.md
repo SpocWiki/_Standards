@@ -35,17 +35,17 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WorkersUnion](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.md) 
+### #is_/same_as :: [FileClass~WorkersUnion](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.md) 
 
-### [FileClass~WorkersUnion.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.public.md) 
+### #is_/same_as :: [FileClass~WorkersUnion.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.public.md) 
 
-### [FileClass~WorkersUnion.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.internal.md) 
+### #is_/same_as :: [FileClass~WorkersUnion.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.internal.md) 
 
-### [FileClass~WorkersUnion.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.protect.md) 
+### #is_/same_as :: [FileClass~WorkersUnion.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.protect.md) 
 
-### [FileClass~WorkersUnion.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.private.md) 
+### #is_/same_as :: [FileClass~WorkersUnion.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.private.md) 
 
-### [FileClass~WorkersUnion.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.personal.md) 
+### #is_/same_as :: [FileClass~WorkersUnion.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.personal.md) 
 
-### [FileClass~WorkersUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.secret.md)
+### #is_/same_as :: [FileClass~WorkersUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.secret.md)
 

@@ -48,17 +48,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [user_plus_ones](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.md) 
+### #is_/same_as :: [user_plus_ones](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.md) 
 
-### [user_plus_ones.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.public.md) 
+### #is_/same_as :: [user_plus_ones.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.public.md) 
 
-### [user_plus_ones.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.internal.md) 
+### #is_/same_as :: [user_plus_ones.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.internal.md) 
 
-### [user_plus_ones.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.protect.md) 
+### #is_/same_as :: [user_plus_ones.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.protect.md) 
 
-### [user_plus_ones.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.private.md) 
+### #is_/same_as :: [user_plus_ones.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.private.md) 
 
-### [user_plus_ones.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.personal.md) 
+### #is_/same_as :: [user_plus_ones.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.personal.md) 
 
-### [user_plus_ones.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.secret.md)
+### #is_/same_as :: [user_plus_ones.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.secret.md)
 

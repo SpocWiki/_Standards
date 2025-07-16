@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_related_anatomy](/_Standards/schema-org/Relation/has/has_related_anatomy.md) 
+### #is_/same_as :: [has_related_anatomy](/_Standards/schema-org/Relation/has/has_related_anatomy.md) 
 
-### [has_related_anatomy.public](/_public/schema-org/Relation/has/has_related_anatomy.public.md) 
+### #is_/same_as :: [has_related_anatomy.public](/_public/schema-org/Relation/has/has_related_anatomy.public.md) 
 
-### [has_related_anatomy.internal](/_internal/schema-org/Relation/has/has_related_anatomy.internal.md) 
+### #is_/same_as :: [has_related_anatomy.internal](/_internal/schema-org/Relation/has/has_related_anatomy.internal.md) 
 
-### [has_related_anatomy.protect](/_protect/schema-org/Relation/has/has_related_anatomy.protect.md) 
+### #is_/same_as :: [has_related_anatomy.protect](/_protect/schema-org/Relation/has/has_related_anatomy.protect.md) 
 
-### [has_related_anatomy.private](/_private/schema-org/Relation/has/has_related_anatomy.private.md) 
+### #is_/same_as :: [has_related_anatomy.private](/_private/schema-org/Relation/has/has_related_anatomy.private.md) 
 
-### [has_related_anatomy.personal](/_personal/schema-org/Relation/has/has_related_anatomy.personal.md) 
+### #is_/same_as :: [has_related_anatomy.personal](/_personal/schema-org/Relation/has/has_related_anatomy.personal.md) 
 
-### [has_related_anatomy.secret](/_secret/schema-org/Relation/has/has_related_anatomy.secret.md)
+### #is_/same_as :: [has_related_anatomy.secret](/_secret/schema-org/Relation/has/has_related_anatomy.secret.md)
 

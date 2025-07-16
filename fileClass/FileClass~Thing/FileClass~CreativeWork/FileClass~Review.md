@@ -137,17 +137,17 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Review](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.md) 
+### #is_/same_as :: [FileClass~Review](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.md) 
 
-### [FileClass~Review.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.public.md) 
+### #is_/same_as :: [FileClass~Review.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.public.md) 
 
-### [FileClass~Review.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.internal.md) 
+### #is_/same_as :: [FileClass~Review.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.internal.md) 
 
-### [FileClass~Review.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.protect.md) 
+### #is_/same_as :: [FileClass~Review.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.protect.md) 
 
-### [FileClass~Review.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.private.md) 
+### #is_/same_as :: [FileClass~Review.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.private.md) 
 
-### [FileClass~Review.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.personal.md) 
+### #is_/same_as :: [FileClass~Review.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.personal.md) 
 
-### [FileClass~Review.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.secret.md)
+### #is_/same_as :: [FileClass~Review.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review.secret.md)
 

@@ -52,17 +52,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_usage_info](/_Standards/schema-org/Relation/has/has_usage_info.md) 
+### #is_/same_as :: [has_usage_info](/_Standards/schema-org/Relation/has/has_usage_info.md) 
 
-### [has_usage_info.public](/_public/schema-org/Relation/has/has_usage_info.public.md) 
+### #is_/same_as :: [has_usage_info.public](/_public/schema-org/Relation/has/has_usage_info.public.md) 
 
-### [has_usage_info.internal](/_internal/schema-org/Relation/has/has_usage_info.internal.md) 
+### #is_/same_as :: [has_usage_info.internal](/_internal/schema-org/Relation/has/has_usage_info.internal.md) 
 
-### [has_usage_info.protect](/_protect/schema-org/Relation/has/has_usage_info.protect.md) 
+### #is_/same_as :: [has_usage_info.protect](/_protect/schema-org/Relation/has/has_usage_info.protect.md) 
 
-### [has_usage_info.private](/_private/schema-org/Relation/has/has_usage_info.private.md) 
+### #is_/same_as :: [has_usage_info.private](/_private/schema-org/Relation/has/has_usage_info.private.md) 
 
-### [has_usage_info.personal](/_personal/schema-org/Relation/has/has_usage_info.personal.md) 
+### #is_/same_as :: [has_usage_info.personal](/_personal/schema-org/Relation/has/has_usage_info.personal.md) 
 
-### [has_usage_info.secret](/_secret/schema-org/Relation/has/has_usage_info.secret.md)
+### #is_/same_as :: [has_usage_info.secret](/_secret/schema-org/Relation/has/has_usage_info.secret.md)
 

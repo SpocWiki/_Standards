@@ -47,17 +47,17 @@ Physical activity that is engaged in to improve joint and muscle flexibility.
 
 ## Confidential Links & Embeds: 
 
-### [flexibility](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.md) 
+### #is_/same_as :: [flexibility](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.md) 
 
-### [flexibility.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.public.md) 
+### #is_/same_as :: [flexibility.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.public.md) 
 
-### [flexibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.internal.md) 
+### #is_/same_as :: [flexibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.internal.md) 
 
-### [flexibility.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.protect.md) 
+### #is_/same_as :: [flexibility.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.protect.md) 
 
-### [flexibility.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.private.md) 
+### #is_/same_as :: [flexibility.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.private.md) 
 
-### [flexibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.personal.md) 
+### #is_/same_as :: [flexibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.personal.md) 
 
-### [flexibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.secret.md)
+### #is_/same_as :: [flexibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/flexibility.secret.md)
 

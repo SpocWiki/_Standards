@@ -35,17 +35,17 @@ A bookstore.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BookStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.md) 
+### #is_/same_as :: [FileClass~BookStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.md) 
 
-### [FileClass~BookStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.public.md) 
+### #is_/same_as :: [FileClass~BookStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.public.md) 
 
-### [FileClass~BookStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.internal.md) 
+### #is_/same_as :: [FileClass~BookStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.internal.md) 
 
-### [FileClass~BookStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.protect.md) 
+### #is_/same_as :: [FileClass~BookStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.protect.md) 
 
-### [FileClass~BookStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.private.md) 
+### #is_/same_as :: [FileClass~BookStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.private.md) 
 
-### [FileClass~BookStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.personal.md) 
+### #is_/same_as :: [FileClass~BookStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.personal.md) 
 
-### [FileClass~BookStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.secret.md)
+### #is_/same_as :: [FileClass~BookStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BookStore.secret.md)
 

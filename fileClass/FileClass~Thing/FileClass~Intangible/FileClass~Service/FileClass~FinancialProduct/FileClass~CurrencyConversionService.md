@@ -35,17 +35,17 @@ A service to convert funds from one currency to another currency.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CurrencyConversionService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.md) 
+### #is_/same_as :: [FileClass~CurrencyConversionService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.md) 
 
-### [FileClass~CurrencyConversionService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.public.md) 
+### #is_/same_as :: [FileClass~CurrencyConversionService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.public.md) 
 
-### [FileClass~CurrencyConversionService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.internal.md) 
+### #is_/same_as :: [FileClass~CurrencyConversionService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.internal.md) 
 
-### [FileClass~CurrencyConversionService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.protect.md) 
+### #is_/same_as :: [FileClass~CurrencyConversionService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.protect.md) 
 
-### [FileClass~CurrencyConversionService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.private.md) 
+### #is_/same_as :: [FileClass~CurrencyConversionService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.private.md) 
 
-### [FileClass~CurrencyConversionService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.personal.md) 
+### #is_/same_as :: [FileClass~CurrencyConversionService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.personal.md) 
 
-### [FileClass~CurrencyConversionService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.secret.md)
+### #is_/same_as :: [FileClass~CurrencyConversionService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.secret.md)
 

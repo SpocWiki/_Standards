@@ -49,17 +49,17 @@ Item contains alcohol or promotes alcohol consumption.
 
 ## Confidential Links & Embeds: 
 
-### [alcohol_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md) 
+### #is_/same_as :: [alcohol_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md) 
 
-### [alcohol_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.public.md) 
+### #is_/same_as :: [alcohol_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.public.md) 
 
-### [alcohol_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md) 
+### #is_/same_as :: [alcohol_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md) 
 
-### [alcohol_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.protect.md) 
+### #is_/same_as :: [alcohol_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.protect.md) 
 
-### [alcohol_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.private.md) 
+### #is_/same_as :: [alcohol_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.private.md) 
 
-### [alcohol_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md) 
+### #is_/same_as :: [alcohol_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md) 
 
-### [alcohol_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md)
+### #is_/same_as :: [alcohol_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md)
 

@@ -35,17 +35,17 @@ Place of worship, such as a church, synagogue, or mosque.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PlaceOfWorship](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.md) 
+### #is_/same_as :: [FileClass~PlaceOfWorship](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.md) 
 
-### [FileClass~PlaceOfWorship.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.public.md) 
+### #is_/same_as :: [FileClass~PlaceOfWorship.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.public.md) 
 
-### [FileClass~PlaceOfWorship.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.internal.md) 
+### #is_/same_as :: [FileClass~PlaceOfWorship.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.internal.md) 
 
-### [FileClass~PlaceOfWorship.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.protect.md) 
+### #is_/same_as :: [FileClass~PlaceOfWorship.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.protect.md) 
 
-### [FileClass~PlaceOfWorship.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.private.md) 
+### #is_/same_as :: [FileClass~PlaceOfWorship.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.private.md) 
 
-### [FileClass~PlaceOfWorship.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.personal.md) 
+### #is_/same_as :: [FileClass~PlaceOfWorship.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.personal.md) 
 
-### [FileClass~PlaceOfWorship.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.secret.md)
+### #is_/same_as :: [FileClass~PlaceOfWorship.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.secret.md)
 

@@ -35,17 +35,17 @@ A waterfall, like Niagara.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Waterfall](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.md) 
+### #is_/same_as :: [FileClass~Waterfall](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.md) 
 
-### [FileClass~Waterfall.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.public.md) 
+### #is_/same_as :: [FileClass~Waterfall.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.public.md) 
 
-### [FileClass~Waterfall.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.internal.md) 
+### #is_/same_as :: [FileClass~Waterfall.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.internal.md) 
 
-### [FileClass~Waterfall.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.protect.md) 
+### #is_/same_as :: [FileClass~Waterfall.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.protect.md) 
 
-### [FileClass~Waterfall.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.private.md) 
+### #is_/same_as :: [FileClass~Waterfall.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.private.md) 
 
-### [FileClass~Waterfall.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.personal.md) 
+### #is_/same_as :: [FileClass~Waterfall.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.personal.md) 
 
-### [FileClass~Waterfall.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.secret.md)
+### #is_/same_as :: [FileClass~Waterfall.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.secret.md)
 

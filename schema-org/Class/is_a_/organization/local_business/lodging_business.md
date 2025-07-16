@@ -47,17 +47,17 @@ A lodging business, such as a motel, hotel, or inn.
 
 ## Confidential Links & Embeds: 
 
-### [lodging_business](/_Standards/schema-org/Class/is_a_/organization/local_business/lodging_business.md) 
+### #is_/same_as :: [lodging_business](/_Standards/schema-org/Class/is_a_/organization/local_business/lodging_business.md) 
 
-### [lodging_business.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business.public.md) 
+### #is_/same_as :: [lodging_business.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business.public.md) 
 
-### [lodging_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business.internal.md) 
+### #is_/same_as :: [lodging_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business.internal.md) 
 
-### [lodging_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business.protect.md) 
+### #is_/same_as :: [lodging_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business.protect.md) 
 
-### [lodging_business.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business.private.md) 
+### #is_/same_as :: [lodging_business.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business.private.md) 
 
-### [lodging_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business.personal.md) 
+### #is_/same_as :: [lodging_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business.personal.md) 
 
-### [lodging_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business.secret.md)
+### #is_/same_as :: [lodging_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business.secret.md)
 

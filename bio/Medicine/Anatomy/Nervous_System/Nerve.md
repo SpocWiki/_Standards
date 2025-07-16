@@ -39,21 +39,19 @@ TA98_Latin_term: nervus
 > [Wikipedia](https://en.wikipedia.org/wiki/Nerve)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nerve](/_Standards/bio/Medicine/Anatomy/Nervous_System/Nerve.md) 
+### #is_/same_as :: [Nerve](/_Standards/bio/Medicine/Anatomy/Nervous_System/Nerve.md) 
 
-### [Nerve.public](/_public/bio/Medicine/Anatomy/Nervous_System/Nerve.public.md) 
+### #is_/same_as :: [Nerve.public](/_public/bio/Medicine/Anatomy/Nervous_System/Nerve.public.md) 
 
-### [Nerve.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Nerve.internal.md) 
+### #is_/same_as :: [Nerve.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Nerve.internal.md) 
 
-### [Nerve.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Nerve.protect.md) 
+### #is_/same_as :: [Nerve.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Nerve.protect.md) 
 
-### [Nerve.private](/_private/bio/Medicine/Anatomy/Nervous_System/Nerve.private.md) 
+### #is_/same_as :: [Nerve.private](/_private/bio/Medicine/Anatomy/Nervous_System/Nerve.private.md) 
 
-### [Nerve.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Nerve.personal.md) 
+### #is_/same_as :: [Nerve.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Nerve.personal.md) 
 
-### [Nerve.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Nerve.secret.md)
+### #is_/same_as :: [Nerve.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Nerve.secret.md)
 

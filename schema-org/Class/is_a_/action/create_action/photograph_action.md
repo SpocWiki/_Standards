@@ -45,17 +45,17 @@ The act of capturing still images of objects using a camera.
 
 ## Confidential Links & Embeds: 
 
-### [photograph_action](/_Standards/schema-org/Class/is_a_/action/create_action/photograph_action.md) 
+### #is_/same_as :: [photograph_action](/_Standards/schema-org/Class/is_a_/action/create_action/photograph_action.md) 
 
-### [photograph_action.public](/_public/schema-org/Class/is_a_/action/create_action/photograph_action.public.md) 
+### #is_/same_as :: [photograph_action.public](/_public/schema-org/Class/is_a_/action/create_action/photograph_action.public.md) 
 
-### [photograph_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/photograph_action.internal.md) 
+### #is_/same_as :: [photograph_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/photograph_action.internal.md) 
 
-### [photograph_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/photograph_action.protect.md) 
+### #is_/same_as :: [photograph_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/photograph_action.protect.md) 
 
-### [photograph_action.private](/_private/schema-org/Class/is_a_/action/create_action/photograph_action.private.md) 
+### #is_/same_as :: [photograph_action.private](/_private/schema-org/Class/is_a_/action/create_action/photograph_action.private.md) 
 
-### [photograph_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/photograph_action.personal.md) 
+### #is_/same_as :: [photograph_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/photograph_action.personal.md) 
 
-### [photograph_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/photograph_action.secret.md)
+### #is_/same_as :: [photograph_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/photograph_action.secret.md)
 

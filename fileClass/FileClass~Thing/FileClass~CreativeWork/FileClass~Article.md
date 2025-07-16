@@ -125,17 +125,17 @@ WordCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Article](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.md) 
+### #is_/same_as :: [FileClass~Article](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.md) 
 
-### [FileClass~Article.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.public.md) 
+### #is_/same_as :: [FileClass~Article.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.public.md) 
 
-### [FileClass~Article.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.internal.md) 
+### #is_/same_as :: [FileClass~Article.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.internal.md) 
 
-### [FileClass~Article.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.protect.md) 
+### #is_/same_as :: [FileClass~Article.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.protect.md) 
 
-### [FileClass~Article.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.private.md) 
+### #is_/same_as :: [FileClass~Article.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.private.md) 
 
-### [FileClass~Article.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.personal.md) 
+### #is_/same_as :: [FileClass~Article.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.personal.md) 
 
-### [FileClass~Article.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.secret.md)
+### #is_/same_as :: [FileClass~Article.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.secret.md)
 

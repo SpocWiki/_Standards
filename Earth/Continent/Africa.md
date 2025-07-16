@@ -224,17 +224,17 @@ long: 10
 
 ## Confidential Links & Embeds: 
 
-### [Africa](/_Standards/Earth/Continent/Africa.md) 
+### #is_/same_as :: [Africa](/_Standards/Earth/Continent/Africa.md) 
 
-### [Africa.public](/_public/Earth/Continent/Africa.public.md) 
+### #is_/same_as :: [Africa.public](/_public/Earth/Continent/Africa.public.md) 
 
-### [Africa.internal](/_internal/Earth/Continent/Africa.internal.md) 
+### #is_/same_as :: [Africa.internal](/_internal/Earth/Continent/Africa.internal.md) 
 
-### [Africa.protect](/_protect/Earth/Continent/Africa.protect.md) 
+### #is_/same_as :: [Africa.protect](/_protect/Earth/Continent/Africa.protect.md) 
 
-### [Africa.private](/_private/Earth/Continent/Africa.private.md) 
+### #is_/same_as :: [Africa.private](/_private/Earth/Continent/Africa.private.md) 
 
-### [Africa.personal](/_personal/Earth/Continent/Africa.personal.md) 
+### #is_/same_as :: [Africa.personal](/_personal/Earth/Continent/Africa.personal.md) 
 
-### [Africa.secret](/_secret/Earth/Continent/Africa.secret.md)
+### #is_/same_as :: [Africa.secret](/_secret/Earth/Continent/Africa.secret.md)
 

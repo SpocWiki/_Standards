@@ -109,17 +109,17 @@ Colon_Classification: "Q:361"
 
 ## Confidential Links & Embeds: 
 
-### [Death](/_Standards/bio/Metabolism/Death.md) 
+### #is_/same_as :: [Death](/_Standards/bio/Metabolism/Death.md) 
 
-### [Death.public](/_public/bio/Metabolism/Death.public.md) 
+### #is_/same_as :: [Death.public](/_public/bio/Metabolism/Death.public.md) 
 
-### [Death.internal](/_internal/bio/Metabolism/Death.internal.md) 
+### #is_/same_as :: [Death.internal](/_internal/bio/Metabolism/Death.internal.md) 
 
-### [Death.protect](/_protect/bio/Metabolism/Death.protect.md) 
+### #is_/same_as :: [Death.protect](/_protect/bio/Metabolism/Death.protect.md) 
 
-### [Death.private](/_private/bio/Metabolism/Death.private.md) 
+### #is_/same_as :: [Death.private](/_private/bio/Metabolism/Death.private.md) 
 
-### [Death.personal](/_personal/bio/Metabolism/Death.personal.md) 
+### #is_/same_as :: [Death.personal](/_personal/bio/Metabolism/Death.personal.md) 
 
-### [Death.secret](/_secret/bio/Metabolism/Death.secret.md)
+### #is_/same_as :: [Death.secret](/_secret/bio/Metabolism/Death.secret.md)
 

@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_membership_points_earned](/_Standards/schema-org/Property/has_value_for/has_value_for_membership_points_earned.md) 
+### #is_/same_as :: [has_value_for_membership_points_earned](/_Standards/schema-org/Property/has_value_for/has_value_for_membership_points_earned.md) 
 
-### [has_value_for_membership_points_earned.public](/_public/schema-org/Property/has_value_for/has_value_for_membership_points_earned.public.md) 
+### #is_/same_as :: [has_value_for_membership_points_earned.public](/_public/schema-org/Property/has_value_for/has_value_for_membership_points_earned.public.md) 
 
-### [has_value_for_membership_points_earned.internal](/_internal/schema-org/Property/has_value_for/has_value_for_membership_points_earned.internal.md) 
+### #is_/same_as :: [has_value_for_membership_points_earned.internal](/_internal/schema-org/Property/has_value_for/has_value_for_membership_points_earned.internal.md) 
 
-### [has_value_for_membership_points_earned.protect](/_protect/schema-org/Property/has_value_for/has_value_for_membership_points_earned.protect.md) 
+### #is_/same_as :: [has_value_for_membership_points_earned.protect](/_protect/schema-org/Property/has_value_for/has_value_for_membership_points_earned.protect.md) 
 
-### [has_value_for_membership_points_earned.private](/_private/schema-org/Property/has_value_for/has_value_for_membership_points_earned.private.md) 
+### #is_/same_as :: [has_value_for_membership_points_earned.private](/_private/schema-org/Property/has_value_for/has_value_for_membership_points_earned.private.md) 
 
-### [has_value_for_membership_points_earned.personal](/_personal/schema-org/Property/has_value_for/has_value_for_membership_points_earned.personal.md) 
+### #is_/same_as :: [has_value_for_membership_points_earned.personal](/_personal/schema-org/Property/has_value_for/has_value_for_membership_points_earned.personal.md) 
 
-### [has_value_for_membership_points_earned.secret](/_secret/schema-org/Property/has_value_for/has_value_for_membership_points_earned.secret.md)
+### #is_/same_as :: [has_value_for_membership_points_earned.secret](/_secret/schema-org/Property/has_value_for/has_value_for_membership_points_earned.secret.md)
 

@@ -42,21 +42,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Akbar)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Akbar](/_Standards/bio/People/Leader/Early_modern_Leaders/Akbar.md) 
+### #is_/same_as :: [Akbar](/_Standards/bio/People/Leader/Early_modern_Leaders/Akbar.md) 
 
-### [Akbar.public](/_public/bio/People/Leader/Early_modern_Leaders/Akbar.public.md) 
+### #is_/same_as :: [Akbar.public](/_public/bio/People/Leader/Early_modern_Leaders/Akbar.public.md) 
 
-### [Akbar.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Akbar.internal.md) 
+### #is_/same_as :: [Akbar.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Akbar.internal.md) 
 
-### [Akbar.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Akbar.protect.md) 
+### #is_/same_as :: [Akbar.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Akbar.protect.md) 
 
-### [Akbar.private](/_private/bio/People/Leader/Early_modern_Leaders/Akbar.private.md) 
+### #is_/same_as :: [Akbar.private](/_private/bio/People/Leader/Early_modern_Leaders/Akbar.private.md) 
 
-### [Akbar.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Akbar.personal.md) 
+### #is_/same_as :: [Akbar.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Akbar.personal.md) 
 
-### [Akbar.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Akbar.secret.md)
+### #is_/same_as :: [Akbar.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Akbar.secret.md)
 

@@ -60,23 +60,19 @@ speed: 299792458
 > [Wikipedia](https://en.wikipedia.org/wiki/Light)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Light](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light.md) 
+### #is_/same_as :: [Light](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light.md) 
 
-### [Light.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light.public.md) 
+### #is_/same_as :: [Light.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light.public.md) 
 
-### [Light.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation/Light.internal.md) 
+### #is_/same_as :: [Light.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation/Light.internal.md) 
 
-### [Light.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation/Light.protect.md) 
+### #is_/same_as :: [Light.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation/Light.protect.md) 
 
-### [Light.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation/Light.private.md) 
+### #is_/same_as :: [Light.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation/Light.private.md) 
 
-### [Light.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation/Light.personal.md) 
+### #is_/same_as :: [Light.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation/Light.personal.md) 
 
-### [Light.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation/Light.secret.md)
+### #is_/same_as :: [Light.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation/Light.secret.md)
 

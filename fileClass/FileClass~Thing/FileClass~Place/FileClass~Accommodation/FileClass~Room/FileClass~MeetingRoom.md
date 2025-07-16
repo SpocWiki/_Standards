@@ -41,17 +41,17 @@ provided for singular events such as business conferences and meetings
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MeetingRoom](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.md) 
+### #is_/same_as :: [FileClass~MeetingRoom](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.md) 
 
-### [FileClass~MeetingRoom.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.public.md) 
+### #is_/same_as :: [FileClass~MeetingRoom.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.public.md) 
 
-### [FileClass~MeetingRoom.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.internal.md) 
+### #is_/same_as :: [FileClass~MeetingRoom.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.internal.md) 
 
-### [FileClass~MeetingRoom.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.protect.md) 
+### #is_/same_as :: [FileClass~MeetingRoom.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.protect.md) 
 
-### [FileClass~MeetingRoom.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.private.md) 
+### #is_/same_as :: [FileClass~MeetingRoom.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.private.md) 
 
-### [FileClass~MeetingRoom.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.personal.md) 
+### #is_/same_as :: [FileClass~MeetingRoom.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.personal.md) 
 
-### [FileClass~MeetingRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.secret.md)
+### #is_/same_as :: [FileClass~MeetingRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.secret.md)
 

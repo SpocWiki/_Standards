@@ -27,21 +27,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ashoka)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ashoka](/_Standards/bio/People/Leader/Ancient_Leaders/Ashoka.md) 
+### #is_/same_as :: [Ashoka](/_Standards/bio/People/Leader/Ancient_Leaders/Ashoka.md) 
 
-### [Ashoka.public](/_public/bio/People/Leader/Ancient_Leaders/Ashoka.public.md) 
+### #is_/same_as :: [Ashoka.public](/_public/bio/People/Leader/Ancient_Leaders/Ashoka.public.md) 
 
-### [Ashoka.internal](/_internal/bio/People/Leader/Ancient_Leaders/Ashoka.internal.md) 
+### #is_/same_as :: [Ashoka.internal](/_internal/bio/People/Leader/Ancient_Leaders/Ashoka.internal.md) 
 
-### [Ashoka.protect](/_protect/bio/People/Leader/Ancient_Leaders/Ashoka.protect.md) 
+### #is_/same_as :: [Ashoka.protect](/_protect/bio/People/Leader/Ancient_Leaders/Ashoka.protect.md) 
 
-### [Ashoka.private](/_private/bio/People/Leader/Ancient_Leaders/Ashoka.private.md) 
+### #is_/same_as :: [Ashoka.private](/_private/bio/People/Leader/Ancient_Leaders/Ashoka.private.md) 
 
-### [Ashoka.personal](/_personal/bio/People/Leader/Ancient_Leaders/Ashoka.personal.md) 
+### #is_/same_as :: [Ashoka.personal](/_personal/bio/People/Leader/Ancient_Leaders/Ashoka.personal.md) 
 
-### [Ashoka.secret](/_secret/bio/People/Leader/Ancient_Leaders/Ashoka.secret.md)
+### #is_/same_as :: [Ashoka.secret](/_secret/bio/People/Leader/Ancient_Leaders/Ashoka.secret.md)
 

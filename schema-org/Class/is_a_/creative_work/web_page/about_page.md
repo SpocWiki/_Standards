@@ -45,17 +45,17 @@ Web page type: About page.
 
 ## Confidential Links & Embeds: 
 
-### [about_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/about_page.md) 
+### #is_/same_as :: [about_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/about_page.md) 
 
-### [about_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/about_page.public.md) 
+### #is_/same_as :: [about_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/about_page.public.md) 
 
-### [about_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/about_page.internal.md) 
+### #is_/same_as :: [about_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/about_page.internal.md) 
 
-### [about_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/about_page.protect.md) 
+### #is_/same_as :: [about_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/about_page.protect.md) 
 
-### [about_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/about_page.private.md) 
+### #is_/same_as :: [about_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/about_page.private.md) 
 
-### [about_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/about_page.personal.md) 
+### #is_/same_as :: [about_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/about_page.personal.md) 
 
-### [about_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/about_page.secret.md)
+### #is_/same_as :: [about_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/about_page.secret.md)
 

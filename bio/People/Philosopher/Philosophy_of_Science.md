@@ -41,24 +41,19 @@ Commons_category: "Philosophy of science"
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20science)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Philosophy_of_Science](/_Standards/bio/People/Philosopher/Philosophy_of_Science.md) 
+### #is_/same_as :: [Philosophy_of_Science](/_Standards/bio/People/Philosopher/Philosophy_of_Science.md) 
 
-### [Philosophy_of_Science.public](/_public/bio/People/Philosopher/Philosophy_of_Science.public.md) 
+### #is_/same_as :: [Philosophy_of_Science.public](/_public/bio/People/Philosopher/Philosophy_of_Science.public.md) 
 
-### [Philosophy_of_Science.internal](/_internal/bio/People/Philosopher/Philosophy_of_Science.internal.md) 
+### #is_/same_as :: [Philosophy_of_Science.internal](/_internal/bio/People/Philosopher/Philosophy_of_Science.internal.md) 
 
-### [Philosophy_of_Science.protect](/_protect/bio/People/Philosopher/Philosophy_of_Science.protect.md) 
+### #is_/same_as :: [Philosophy_of_Science.protect](/_protect/bio/People/Philosopher/Philosophy_of_Science.protect.md) 
 
-### [Philosophy_of_Science.private](/_private/bio/People/Philosopher/Philosophy_of_Science.private.md) 
+### #is_/same_as :: [Philosophy_of_Science.private](/_private/bio/People/Philosopher/Philosophy_of_Science.private.md) 
 
-### [Philosophy_of_Science.personal](/_personal/bio/People/Philosopher/Philosophy_of_Science.personal.md) 
+### #is_/same_as :: [Philosophy_of_Science.personal](/_personal/bio/People/Philosopher/Philosophy_of_Science.personal.md) 
 
-### [Philosophy_of_Science.secret](/_secret/bio/People/Philosopher/Philosophy_of_Science.secret.md)
+### #is_/same_as :: [Philosophy_of_Science.secret](/_secret/bio/People/Philosopher/Philosophy_of_Science.secret.md)
 

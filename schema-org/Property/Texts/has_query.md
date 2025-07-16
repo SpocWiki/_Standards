@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_query](/_Standards/schema-org/Property/Texts/has_query.md) 
+### #is_/same_as :: [has_query](/_Standards/schema-org/Property/Texts/has_query.md) 
 
-### [has_query.public](/_public/schema-org/Property/Texts/has_query.public.md) 
+### #is_/same_as :: [has_query.public](/_public/schema-org/Property/Texts/has_query.public.md) 
 
-### [has_query.internal](/_internal/schema-org/Property/Texts/has_query.internal.md) 
+### #is_/same_as :: [has_query.internal](/_internal/schema-org/Property/Texts/has_query.internal.md) 
 
-### [has_query.protect](/_protect/schema-org/Property/Texts/has_query.protect.md) 
+### #is_/same_as :: [has_query.protect](/_protect/schema-org/Property/Texts/has_query.protect.md) 
 
-### [has_query.private](/_private/schema-org/Property/Texts/has_query.private.md) 
+### #is_/same_as :: [has_query.private](/_private/schema-org/Property/Texts/has_query.private.md) 
 
-### [has_query.personal](/_personal/schema-org/Property/Texts/has_query.personal.md) 
+### #is_/same_as :: [has_query.personal](/_personal/schema-org/Property/Texts/has_query.personal.md) 
 
-### [has_query.secret](/_secret/schema-org/Property/Texts/has_query.secret.md)
+### #is_/same_as :: [has_query.secret](/_secret/schema-org/Property/Texts/has_query.secret.md)
 

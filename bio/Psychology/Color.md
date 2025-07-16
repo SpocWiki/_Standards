@@ -169,17 +169,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Color](/_Standards/bio/Psychology/Color.md) 
+### #is_/same_as :: [Color](/_Standards/bio/Psychology/Color.md) 
 
-### [Color.public](/_public/bio/Psychology/Color.public.md) 
+### #is_/same_as :: [Color.public](/_public/bio/Psychology/Color.public.md) 
 
-### [Color.internal](/_internal/bio/Psychology/Color.internal.md) 
+### #is_/same_as :: [Color.internal](/_internal/bio/Psychology/Color.internal.md) 
 
-### [Color.protect](/_protect/bio/Psychology/Color.protect.md) 
+### #is_/same_as :: [Color.protect](/_protect/bio/Psychology/Color.protect.md) 
 
-### [Color.private](/_private/bio/Psychology/Color.private.md) 
+### #is_/same_as :: [Color.private](/_private/bio/Psychology/Color.private.md) 
 
-### [Color.personal](/_personal/bio/Psychology/Color.personal.md) 
+### #is_/same_as :: [Color.personal](/_personal/bio/Psychology/Color.personal.md) 
 
-### [Color.secret](/_secret/bio/Psychology/Color.secret.md)
+### #is_/same_as :: [Color.secret](/_secret/bio/Psychology/Color.secret.md)
 

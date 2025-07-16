@@ -47,17 +47,17 @@ A collection of music tracks in playlist form.
 
 ## Confidential Links & Embeds: 
 
-### [music_playlist](/_Standards/schema-org/Class/is_a_/creative_work/music_playlist.md) 
+### #is_/same_as :: [music_playlist](/_Standards/schema-org/Class/is_a_/creative_work/music_playlist.md) 
 
-### [music_playlist.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist.public.md) 
+### #is_/same_as :: [music_playlist.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist.public.md) 
 
-### [music_playlist.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist.internal.md) 
+### #is_/same_as :: [music_playlist.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist.internal.md) 
 
-### [music_playlist.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist.protect.md) 
+### #is_/same_as :: [music_playlist.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist.protect.md) 
 
-### [music_playlist.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist.private.md) 
+### #is_/same_as :: [music_playlist.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist.private.md) 
 
-### [music_playlist.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist.personal.md) 
+### #is_/same_as :: [music_playlist.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist.personal.md) 
 
-### [music_playlist.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist.secret.md)
+### #is_/same_as :: [music_playlist.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist.secret.md)
 

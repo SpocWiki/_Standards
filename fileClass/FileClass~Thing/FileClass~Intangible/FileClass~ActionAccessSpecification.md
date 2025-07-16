@@ -111,17 +111,17 @@ RequiresSubscription:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ActionAccessSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.md) 
+### #is_/same_as :: [FileClass~ActionAccessSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.md) 
 
-### [FileClass~ActionAccessSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.public.md) 
+### #is_/same_as :: [FileClass~ActionAccessSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.public.md) 
 
-### [FileClass~ActionAccessSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.internal.md) 
+### #is_/same_as :: [FileClass~ActionAccessSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.internal.md) 
 
-### [FileClass~ActionAccessSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.protect.md) 
+### #is_/same_as :: [FileClass~ActionAccessSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.protect.md) 
 
-### [FileClass~ActionAccessSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.private.md) 
+### #is_/same_as :: [FileClass~ActionAccessSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.private.md) 
 
-### [FileClass~ActionAccessSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.personal.md) 
+### #is_/same_as :: [FileClass~ActionAccessSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.personal.md) 
 
-### [FileClass~ActionAccessSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.secret.md)
+### #is_/same_as :: [FileClass~ActionAccessSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.secret.md)
 

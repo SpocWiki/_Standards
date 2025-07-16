@@ -193,21 +193,19 @@ date_of_death: "1660-08-06"
 > [Wikipedia](https://en.wikipedia.org/wiki/Diego%20Vel%C3%A1zquez)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Velázquez,Diego](/_Standards/bio/People/Painter/Velázquez,Diego.md) 
+### #is_/same_as :: [Velázquez,Diego](/_Standards/bio/People/Painter/Velázquez,Diego.md) 
 
-### [Velázquez,Diego.public](/_public/bio/People/Painter/Velázquez,Diego.public.md) 
+### #is_/same_as :: [Velázquez,Diego.public](/_public/bio/People/Painter/Velázquez,Diego.public.md) 
 
-### [Velázquez,Diego.internal](/_internal/bio/People/Painter/Velázquez,Diego.internal.md) 
+### #is_/same_as :: [Velázquez,Diego.internal](/_internal/bio/People/Painter/Velázquez,Diego.internal.md) 
 
-### [Velázquez,Diego.protect](/_protect/bio/People/Painter/Velázquez,Diego.protect.md) 
+### #is_/same_as :: [Velázquez,Diego.protect](/_protect/bio/People/Painter/Velázquez,Diego.protect.md) 
 
-### [Velázquez,Diego.private](/_private/bio/People/Painter/Velázquez,Diego.private.md) 
+### #is_/same_as :: [Velázquez,Diego.private](/_private/bio/People/Painter/Velázquez,Diego.private.md) 
 
-### [Velázquez,Diego.personal](/_personal/bio/People/Painter/Velázquez,Diego.personal.md) 
+### #is_/same_as :: [Velázquez,Diego.personal](/_personal/bio/People/Painter/Velázquez,Diego.personal.md) 
 
-### [Velázquez,Diego.secret](/_secret/bio/People/Painter/Velázquez,Diego.secret.md)
+### #is_/same_as :: [Velázquez,Diego.secret](/_secret/bio/People/Painter/Velázquez,Diego.secret.md)
 

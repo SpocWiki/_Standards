@@ -33,21 +33,19 @@ title: Hesperentomidae
 	-   *Ionescuellum*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Hesperentomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.md) 
+### #is_/same_as :: [Hesperentomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.md) 
 
-### [Hesperentomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.public.md) 
+### #is_/same_as :: [Hesperentomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.public.md) 
 
-### [Hesperentomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.internal.md) 
+### #is_/same_as :: [Hesperentomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.internal.md) 
 
-### [Hesperentomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.protect.md) 
+### #is_/same_as :: [Hesperentomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.protect.md) 
 
-### [Hesperentomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.private.md) 
+### #is_/same_as :: [Hesperentomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.private.md) 
 
-### [Hesperentomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.personal.md) 
+### #is_/same_as :: [Hesperentomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.personal.md) 
 
-### [Hesperentomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.secret.md)
+### #is_/same_as :: [Hesperentomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.secret.md)
 

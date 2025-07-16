@@ -47,17 +47,17 @@ OrderStatus representing successful delivery of an order.
 
 ## Confidential Links & Embeds: 
 
-### [order_delivered](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.md) 
+### #is_/same_as :: [order_delivered](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.md) 
 
-### [order_delivered.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.public.md) 
+### #is_/same_as :: [order_delivered.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.public.md) 
 
-### [order_delivered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.internal.md) 
+### #is_/same_as :: [order_delivered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.internal.md) 
 
-### [order_delivered.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.protect.md) 
+### #is_/same_as :: [order_delivered.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.protect.md) 
 
-### [order_delivered.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.private.md) 
+### #is_/same_as :: [order_delivered.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.private.md) 
 
-### [order_delivered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.personal.md) 
+### #is_/same_as :: [order_delivered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.personal.md) 
 
-### [order_delivered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.secret.md)
+### #is_/same_as :: [order_delivered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.secret.md)
 

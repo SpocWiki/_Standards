@@ -43,17 +43,17 @@ A prion is an infectious agent composed of protein in a misfolded form.
 
 ## Confidential Links & Embeds: 
 
-### [prion](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.md) 
+### #is_/same_as :: [prion](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.md) 
 
-### [prion.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.public.md) 
+### #is_/same_as :: [prion.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.public.md) 
 
-### [prion.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.internal.md) 
+### #is_/same_as :: [prion.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.internal.md) 
 
-### [prion.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.protect.md) 
+### #is_/same_as :: [prion.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.protect.md) 
 
-### [prion.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.private.md) 
+### #is_/same_as :: [prion.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.private.md) 
 
-### [prion.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.personal.md) 
+### #is_/same_as :: [prion.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.personal.md) 
 
-### [prion.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.secret.md)
+### #is_/same_as :: [prion.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/prion.secret.md)
 

@@ -45,17 +45,17 @@ StartOffset:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SeekToAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.md) 
+### #is_/same_as :: [FileClass~SeekToAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.md) 
 
-### [FileClass~SeekToAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.public.md) 
+### #is_/same_as :: [FileClass~SeekToAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.public.md) 
 
-### [FileClass~SeekToAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.internal.md) 
+### #is_/same_as :: [FileClass~SeekToAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.internal.md) 
 
-### [FileClass~SeekToAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.protect.md) 
+### #is_/same_as :: [FileClass~SeekToAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.protect.md) 
 
-### [FileClass~SeekToAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.private.md) 
+### #is_/same_as :: [FileClass~SeekToAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.private.md) 
 
-### [FileClass~SeekToAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.personal.md) 
+### #is_/same_as :: [FileClass~SeekToAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.personal.md) 
 
-### [FileClass~SeekToAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.secret.md)
+### #is_/same_as :: [FileClass~SeekToAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.secret.md)
 

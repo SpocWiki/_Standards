@@ -35,17 +35,17 @@ A self-storage facility.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SelfStorage](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.md) 
+### #is_/same_as :: [FileClass~SelfStorage](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.md) 
 
-### [FileClass~SelfStorage.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.public.md) 
+### #is_/same_as :: [FileClass~SelfStorage.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.public.md) 
 
-### [FileClass~SelfStorage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.internal.md) 
+### #is_/same_as :: [FileClass~SelfStorage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.internal.md) 
 
-### [FileClass~SelfStorage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.protect.md) 
+### #is_/same_as :: [FileClass~SelfStorage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.protect.md) 
 
-### [FileClass~SelfStorage.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.private.md) 
+### #is_/same_as :: [FileClass~SelfStorage.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.private.md) 
 
-### [FileClass~SelfStorage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.personal.md) 
+### #is_/same_as :: [FileClass~SelfStorage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.personal.md) 
 
-### [FileClass~SelfStorage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.secret.md)
+### #is_/same_as :: [FileClass~SelfStorage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SelfStorage.secret.md)
 

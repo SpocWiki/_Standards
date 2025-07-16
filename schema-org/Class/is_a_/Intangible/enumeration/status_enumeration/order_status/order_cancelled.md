@@ -47,17 +47,17 @@ OrderStatus representing cancellation of an order.
 
 ## Confidential Links & Embeds: 
 
-### [order_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.md) 
+### #is_/same_as :: [order_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.md) 
 
-### [order_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.public.md) 
+### #is_/same_as :: [order_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.public.md) 
 
-### [order_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.internal.md) 
+### #is_/same_as :: [order_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.internal.md) 
 
-### [order_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.protect.md) 
+### #is_/same_as :: [order_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.protect.md) 
 
-### [order_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.private.md) 
+### #is_/same_as :: [order_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.private.md) 
 
-### [order_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.personal.md) 
+### #is_/same_as :: [order_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.personal.md) 
 
-### [order_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.secret.md)
+### #is_/same_as :: [order_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.secret.md)
 

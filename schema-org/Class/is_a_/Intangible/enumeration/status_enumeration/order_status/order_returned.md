@@ -47,17 +47,17 @@ OrderStatus representing that an order has been returned.
 
 ## Confidential Links & Embeds: 
 
-### [order_returned](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.md) 
+### #is_/same_as :: [order_returned](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.md) 
 
-### [order_returned.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.public.md) 
+### #is_/same_as :: [order_returned.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.public.md) 
 
-### [order_returned.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.internal.md) 
+### #is_/same_as :: [order_returned.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.internal.md) 
 
-### [order_returned.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.protect.md) 
+### #is_/same_as :: [order_returned.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.protect.md) 
 
-### [order_returned.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.private.md) 
+### #is_/same_as :: [order_returned.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.private.md) 
 
-### [order_returned.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.personal.md) 
+### #is_/same_as :: [order_returned.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.personal.md) 
 
-### [order_returned.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.secret.md)
+### #is_/same_as :: [order_returned.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_returned.secret.md)
 

@@ -150,17 +150,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.web
 
 ## Confidential Links & Embeds: 
 
-### [Sulfur](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.md) 
+### #is_/same_as :: [Sulfur](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.md) 
 
-### [Sulfur.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.public.md) 
+### #is_/same_as :: [Sulfur.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.public.md) 
 
-### [Sulfur.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.internal.md) 
+### #is_/same_as :: [Sulfur.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.internal.md) 
 
-### [Sulfur.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.protect.md) 
+### #is_/same_as :: [Sulfur.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.protect.md) 
 
-### [Sulfur.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.private.md) 
+### #is_/same_as :: [Sulfur.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.private.md) 
 
-### [Sulfur.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.personal.md) 
+### #is_/same_as :: [Sulfur.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.personal.md) 
 
-### [Sulfur.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.secret.md)
+### #is_/same_as :: [Sulfur.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Sulfur.secret.md)
 

@@ -288,17 +288,17 @@ native_label: "русский язык"
 
 ## Confidential Links & Embeds: 
 
-### [Lang-ru](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.md) 
+### #is_/same_as :: [Lang-ru](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.md) 
 
-### [Lang-ru.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.public.md) 
+### #is_/same_as :: [Lang-ru.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.public.md) 
 
-### [Lang-ru.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.internal.md) 
+### #is_/same_as :: [Lang-ru.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.internal.md) 
 
-### [Lang-ru.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.protect.md) 
+### #is_/same_as :: [Lang-ru.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.protect.md) 
 
-### [Lang-ru.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.private.md) 
+### #is_/same_as :: [Lang-ru.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.private.md) 
 
-### [Lang-ru.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.personal.md) 
+### #is_/same_as :: [Lang-ru.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.personal.md) 
 
-### [Lang-ru.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.secret.md)
+### #is_/same_as :: [Lang-ru.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ru.secret.md)
 

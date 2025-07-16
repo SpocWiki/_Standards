@@ -35,17 +35,17 @@ A day spa.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DaySpa](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.md) 
+### #is_/same_as :: [FileClass~DaySpa](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.md) 
 
-### [FileClass~DaySpa.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.public.md) 
+### #is_/same_as :: [FileClass~DaySpa.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.public.md) 
 
-### [FileClass~DaySpa.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.internal.md) 
+### #is_/same_as :: [FileClass~DaySpa.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.internal.md) 
 
-### [FileClass~DaySpa.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.protect.md) 
+### #is_/same_as :: [FileClass~DaySpa.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.protect.md) 
 
-### [FileClass~DaySpa.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.private.md) 
+### #is_/same_as :: [FileClass~DaySpa.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.private.md) 
 
-### [FileClass~DaySpa.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.personal.md) 
+### #is_/same_as :: [FileClass~DaySpa.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.personal.md) 
 
-### [FileClass~DaySpa.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.secret.md)
+### #is_/same_as :: [FileClass~DaySpa.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.secret.md)
 

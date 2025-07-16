@@ -47,17 +47,17 @@ Genitourinary system function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [genitourinary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
+### #is_/same_as :: [genitourinary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
 
-### [genitourinary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.public.md) 
+### #is_/same_as :: [genitourinary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.public.md) 
 
-### [genitourinary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md) 
+### #is_/same_as :: [genitourinary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md) 
 
-### [genitourinary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect.md) 
+### #is_/same_as :: [genitourinary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect.md) 
 
-### [genitourinary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private.md) 
+### #is_/same_as :: [genitourinary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private.md) 
 
-### [genitourinary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md) 
+### #is_/same_as :: [genitourinary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md) 
 
-### [genitourinary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md)
+### #is_/same_as :: [genitourinary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md)
 

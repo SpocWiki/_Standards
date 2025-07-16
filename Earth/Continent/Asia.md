@@ -191,17 +191,17 @@ markerFolder: ./Asia/
 
 ## Confidential Links & Embeds: 
 
-### [Asia](/_Standards/Earth/Continent/Asia.md) 
+### #is_/same_as :: [Asia](/_Standards/Earth/Continent/Asia.md) 
 
-### [Asia.public](/_public/Earth/Continent/Asia.public.md) 
+### #is_/same_as :: [Asia.public](/_public/Earth/Continent/Asia.public.md) 
 
-### [Asia.internal](/_internal/Earth/Continent/Asia.internal.md) 
+### #is_/same_as :: [Asia.internal](/_internal/Earth/Continent/Asia.internal.md) 
 
-### [Asia.protect](/_protect/Earth/Continent/Asia.protect.md) 
+### #is_/same_as :: [Asia.protect](/_protect/Earth/Continent/Asia.protect.md) 
 
-### [Asia.private](/_private/Earth/Continent/Asia.private.md) 
+### #is_/same_as :: [Asia.private](/_private/Earth/Continent/Asia.private.md) 
 
-### [Asia.personal](/_personal/Earth/Continent/Asia.personal.md) 
+### #is_/same_as :: [Asia.personal](/_personal/Earth/Continent/Asia.personal.md) 
 
-### [Asia.secret](/_secret/Earth/Continent/Asia.secret.md)
+### #is_/same_as :: [Asia.secret](/_secret/Earth/Continent/Asia.secret.md)
 

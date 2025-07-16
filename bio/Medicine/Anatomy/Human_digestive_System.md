@@ -61,25 +61,19 @@ TA98_Latin_term: "systema digestorium"
 > [Wikipedia](https://en.wikipedia.org/wiki/Human%20digestive%20system)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Human_digestive_System](/_Standards/bio/Medicine/Anatomy/Human_digestive_System.md) 
+### #is_/same_as :: [Human_digestive_System](/_Standards/bio/Medicine/Anatomy/Human_digestive_System.md) 
 
-### [Human_digestive_System.public](/_public/bio/Medicine/Anatomy/Human_digestive_System.public.md) 
+### #is_/same_as :: [Human_digestive_System.public](/_public/bio/Medicine/Anatomy/Human_digestive_System.public.md) 
 
-### [Human_digestive_System.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System.internal.md) 
+### #is_/same_as :: [Human_digestive_System.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System.internal.md) 
 
-### [Human_digestive_System.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System.protect.md) 
+### #is_/same_as :: [Human_digestive_System.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System.protect.md) 
 
-### [Human_digestive_System.private](/_private/bio/Medicine/Anatomy/Human_digestive_System.private.md) 
+### #is_/same_as :: [Human_digestive_System.private](/_private/bio/Medicine/Anatomy/Human_digestive_System.private.md) 
 
-### [Human_digestive_System.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System.personal.md) 
+### #is_/same_as :: [Human_digestive_System.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System.personal.md) 
 
-### [Human_digestive_System.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System.secret.md)
+### #is_/same_as :: [Human_digestive_System.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System.secret.md)
 

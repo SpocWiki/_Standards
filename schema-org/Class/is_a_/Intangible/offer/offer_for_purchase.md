@@ -51,17 +51,17 @@ for background on the underlying concepts.
 
 ## Confidential Links & Embeds: 
 
-### [offer_for_purchase](/_Standards/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.md) 
+### #is_/same_as :: [offer_for_purchase](/_Standards/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.md) 
 
-### [offer_for_purchase.public](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.public.md) 
+### #is_/same_as :: [offer_for_purchase.public](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.public.md) 
 
-### [offer_for_purchase.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.internal.md) 
+### #is_/same_as :: [offer_for_purchase.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.internal.md) 
 
-### [offer_for_purchase.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.protect.md) 
+### #is_/same_as :: [offer_for_purchase.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.protect.md) 
 
-### [offer_for_purchase.private](/_private/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.private.md) 
+### #is_/same_as :: [offer_for_purchase.private](/_private/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.private.md) 
 
-### [offer_for_purchase.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.personal.md) 
+### #is_/same_as :: [offer_for_purchase.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.personal.md) 
 
-### [offer_for_purchase.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.secret.md)
+### #is_/same_as :: [offer_for_purchase.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.secret.md)
 

@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Late_Cretaceous](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.md) 
+### #is_/same_as :: [Epoch~2~Late_Cretaceous](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.md) 
 
-### [Epoch~2~Late_Cretaceous.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.public.md) 
+### #is_/same_as :: [Epoch~2~Late_Cretaceous.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.public.md) 
 
-### [Epoch~2~Late_Cretaceous.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.internal.md) 
+### #is_/same_as :: [Epoch~2~Late_Cretaceous.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.internal.md) 
 
-### [Epoch~2~Late_Cretaceous.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.protect.md) 
+### #is_/same_as :: [Epoch~2~Late_Cretaceous.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.protect.md) 
 
-### [Epoch~2~Late_Cretaceous.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.private.md) 
+### #is_/same_as :: [Epoch~2~Late_Cretaceous.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.private.md) 
 
-### [Epoch~2~Late_Cretaceous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.personal.md) 
+### #is_/same_as :: [Epoch~2~Late_Cretaceous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.personal.md) 
 
-### [Epoch~2~Late_Cretaceous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.secret.md)
+### #is_/same_as :: [Epoch~2~Late_Cretaceous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_fax_number](/_Standards/schema-org/Property/Texts/has_fax_number.md) 
+### #is_/same_as :: [has_fax_number](/_Standards/schema-org/Property/Texts/has_fax_number.md) 
 
-### [has_fax_number.public](/_public/schema-org/Property/Texts/has_fax_number.public.md) 
+### #is_/same_as :: [has_fax_number.public](/_public/schema-org/Property/Texts/has_fax_number.public.md) 
 
-### [has_fax_number.internal](/_internal/schema-org/Property/Texts/has_fax_number.internal.md) 
+### #is_/same_as :: [has_fax_number.internal](/_internal/schema-org/Property/Texts/has_fax_number.internal.md) 
 
-### [has_fax_number.protect](/_protect/schema-org/Property/Texts/has_fax_number.protect.md) 
+### #is_/same_as :: [has_fax_number.protect](/_protect/schema-org/Property/Texts/has_fax_number.protect.md) 
 
-### [has_fax_number.private](/_private/schema-org/Property/Texts/has_fax_number.private.md) 
+### #is_/same_as :: [has_fax_number.private](/_private/schema-org/Property/Texts/has_fax_number.private.md) 
 
-### [has_fax_number.personal](/_personal/schema-org/Property/Texts/has_fax_number.personal.md) 
+### #is_/same_as :: [has_fax_number.personal](/_personal/schema-org/Property/Texts/has_fax_number.personal.md) 
 
-### [has_fax_number.secret](/_secret/schema-org/Property/Texts/has_fax_number.secret.md)
+### #is_/same_as :: [has_fax_number.secret](/_secret/schema-org/Property/Texts/has_fax_number.secret.md)
 

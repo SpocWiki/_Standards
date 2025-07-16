@@ -17,17 +17,17 @@ OmegaWiki_Defined_Meaning: 1195
 
 ## Confidential Links & Embeds: 
 
-### [Energy-Technology](/_Standards/Technology/Energy-Technology.md) 
+### #is_/same_as :: [Energy-Technology](/_Standards/Technology/Energy-Technology.md) 
 
-### [Energy-Technology.public](/_public/Technology/Energy-Technology.public.md) 
+### #is_/same_as :: [Energy-Technology.public](/_public/Technology/Energy-Technology.public.md) 
 
-### [Energy-Technology.internal](/_internal/Technology/Energy-Technology.internal.md) 
+### #is_/same_as :: [Energy-Technology.internal](/_internal/Technology/Energy-Technology.internal.md) 
 
-### [Energy-Technology.protect](/_protect/Technology/Energy-Technology.protect.md) 
+### #is_/same_as :: [Energy-Technology.protect](/_protect/Technology/Energy-Technology.protect.md) 
 
-### [Energy-Technology.private](/_private/Technology/Energy-Technology.private.md) 
+### #is_/same_as :: [Energy-Technology.private](/_private/Technology/Energy-Technology.private.md) 
 
-### [Energy-Technology.personal](/_personal/Technology/Energy-Technology.personal.md) 
+### #is_/same_as :: [Energy-Technology.personal](/_personal/Technology/Energy-Technology.personal.md) 
 
-### [Energy-Technology.secret](/_secret/Technology/Energy-Technology.secret.md)
+### #is_/same_as :: [Energy-Technology.secret](/_secret/Technology/Energy-Technology.secret.md)
 

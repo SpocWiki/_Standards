@@ -45,17 +45,17 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 
 ## Confidential Links & Embeds: 
 
-### [ligament](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.md) 
+### #is_/same_as :: [ligament](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.md) 
 
-### [ligament.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.public.md) 
+### #is_/same_as :: [ligament.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.public.md) 
 
-### [ligament.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.internal.md) 
+### #is_/same_as :: [ligament.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.internal.md) 
 
-### [ligament.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.protect.md) 
+### #is_/same_as :: [ligament.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.protect.md) 
 
-### [ligament.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.private.md) 
+### #is_/same_as :: [ligament.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.private.md) 
 
-### [ligament.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.personal.md) 
+### #is_/same_as :: [ligament.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.personal.md) 
 
-### [ligament.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.secret.md)
+### #is_/same_as :: [ligament.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.secret.md)
 

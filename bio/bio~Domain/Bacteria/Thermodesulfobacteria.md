@@ -50,22 +50,19 @@ title: Thermodesulfobacteria
 	-   *Thermodesulfatator*
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Thermodesulfobacteria](/_Standards/bio/bio~Domain/Bacteria/Thermodesulfobacteria.md) 
+### #is_/same_as :: [Thermodesulfobacteria](/_Standards/bio/bio~Domain/Bacteria/Thermodesulfobacteria.md) 
 
-### [Thermodesulfobacteria.public](/_public/bio/bio~Domain/Bacteria/Thermodesulfobacteria.public.md) 
+### #is_/same_as :: [Thermodesulfobacteria.public](/_public/bio/bio~Domain/Bacteria/Thermodesulfobacteria.public.md) 
 
-### [Thermodesulfobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.internal.md) 
+### #is_/same_as :: [Thermodesulfobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.internal.md) 
 
-### [Thermodesulfobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Thermodesulfobacteria.protect.md) 
+### #is_/same_as :: [Thermodesulfobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Thermodesulfobacteria.protect.md) 
 
-### [Thermodesulfobacteria.private](/_private/bio/bio~Domain/Bacteria/Thermodesulfobacteria.private.md) 
+### #is_/same_as :: [Thermodesulfobacteria.private](/_private/bio/bio~Domain/Bacteria/Thermodesulfobacteria.private.md) 
 
-### [Thermodesulfobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.personal.md) 
+### #is_/same_as :: [Thermodesulfobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.personal.md) 
 
-### [Thermodesulfobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Thermodesulfobacteria.secret.md)
+### #is_/same_as :: [Thermodesulfobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Thermodesulfobacteria.secret.md)
 

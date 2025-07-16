@@ -47,17 +47,17 @@ The day of the week between Thursday and Saturday.
 
 ## Confidential Links & Embeds: 
 
-### [friday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.md) 
+### #is_/same_as :: [friday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.md) 
 
-### [friday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.public.md) 
+### #is_/same_as :: [friday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.public.md) 
 
-### [friday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.internal.md) 
+### #is_/same_as :: [friday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.internal.md) 
 
-### [friday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.protect.md) 
+### #is_/same_as :: [friday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.protect.md) 
 
-### [friday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.private.md) 
+### #is_/same_as :: [friday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.private.md) 
 
-### [friday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.personal.md) 
+### #is_/same_as :: [friday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.personal.md) 
 
-### [friday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.secret.md)
+### #is_/same_as :: [friday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/friday.secret.md)
 

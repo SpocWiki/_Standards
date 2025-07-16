@@ -55,17 +55,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_fuel_efficiency](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.md) 
+### #is_/same_as :: [has_value_for_fuel_efficiency](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.md) 
 
-### [has_value_for_fuel_efficiency.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public.md) 
+### #is_/same_as :: [has_value_for_fuel_efficiency.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public.md) 
 
-### [has_value_for_fuel_efficiency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal.md) 
+### #is_/same_as :: [has_value_for_fuel_efficiency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal.md) 
 
-### [has_value_for_fuel_efficiency.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect.md) 
+### #is_/same_as :: [has_value_for_fuel_efficiency.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect.md) 
 
-### [has_value_for_fuel_efficiency.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private.md) 
+### #is_/same_as :: [has_value_for_fuel_efficiency.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private.md) 
 
-### [has_value_for_fuel_efficiency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal.md) 
+### #is_/same_as :: [has_value_for_fuel_efficiency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal.md) 
 
-### [has_value_for_fuel_efficiency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret.md)
+### #is_/same_as :: [has_value_for_fuel_efficiency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret.md)
 

@@ -47,17 +47,17 @@ A type of medical procedure that involves percutaneous techniques, where access 
 
 ## Confidential Links & Embeds: 
 
-### [percutaneous_procedure](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md) 
+### #is_/same_as :: [percutaneous_procedure](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md) 
 
-### [percutaneous_procedure.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.public.md) 
+### #is_/same_as :: [percutaneous_procedure.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.public.md) 
 
-### [percutaneous_procedure.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md) 
+### #is_/same_as :: [percutaneous_procedure.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md) 
 
-### [percutaneous_procedure.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect.md) 
+### #is_/same_as :: [percutaneous_procedure.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect.md) 
 
-### [percutaneous_procedure.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private.md) 
+### #is_/same_as :: [percutaneous_procedure.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private.md) 
 
-### [percutaneous_procedure.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal.md) 
+### #is_/same_as :: [percutaneous_procedure.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal.md) 
 
-### [percutaneous_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md)
+### #is_/same_as :: [percutaneous_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md)
 

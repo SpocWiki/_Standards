@@ -305,20 +305,19 @@ Since fallen sugary Fruits are often infected by yeasts,
 it is advantageous be able to digest them without severe intoxication. 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ethanol](/_Standards/chemic/organic/Alcohol/Ethanol.md) 
+### #is_/same_as :: [Ethanol](/_Standards/chemic/organic/Alcohol/Ethanol.md) 
 
-### [Ethanol.public](/_public/chemic/organic/Alcohol/Ethanol.public.md) 
+### #is_/same_as :: [Ethanol.public](/_public/chemic/organic/Alcohol/Ethanol.public.md) 
 
-### [Ethanol.internal](/_internal/chemic/organic/Alcohol/Ethanol.internal.md) 
+### #is_/same_as :: [Ethanol.internal](/_internal/chemic/organic/Alcohol/Ethanol.internal.md) 
 
-### [Ethanol.protect](/_protect/chemic/organic/Alcohol/Ethanol.protect.md) 
+### #is_/same_as :: [Ethanol.protect](/_protect/chemic/organic/Alcohol/Ethanol.protect.md) 
 
-### [Ethanol.private](/_private/chemic/organic/Alcohol/Ethanol.private.md) 
+### #is_/same_as :: [Ethanol.private](/_private/chemic/organic/Alcohol/Ethanol.private.md) 
 
-### [Ethanol.personal](/_personal/chemic/organic/Alcohol/Ethanol.personal.md) 
+### #is_/same_as :: [Ethanol.personal](/_personal/chemic/organic/Alcohol/Ethanol.personal.md) 
 
-### [Ethanol.secret](/_secret/chemic/organic/Alcohol/Ethanol.secret.md)
+### #is_/same_as :: [Ethanol.secret](/_secret/chemic/organic/Alcohol/Ethanol.secret.md)
 

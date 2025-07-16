@@ -47,17 +47,17 @@ The day of the week between Sunday and Tuesday.
 
 ## Confidential Links & Embeds: 
 
-### [monday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.md) 
+### #is_/same_as :: [monday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.md) 
 
-### [monday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.public.md) 
+### #is_/same_as :: [monday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.public.md) 
 
-### [monday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.internal.md) 
+### #is_/same_as :: [monday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.internal.md) 
 
-### [monday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.protect.md) 
+### #is_/same_as :: [monday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.protect.md) 
 
-### [monday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.private.md) 
+### #is_/same_as :: [monday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.private.md) 
 
-### [monday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.personal.md) 
+### #is_/same_as :: [monday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.personal.md) 
 
-### [monday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.secret.md)
+### #is_/same_as :: [monday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.secret.md)
 

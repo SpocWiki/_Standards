@@ -45,17 +45,17 @@ An order item is a line of an order. It includes the quantity and shipping detai
 
 ## Confidential Links & Embeds: 
 
-### [order_item](/_Standards/schema-org/Class/is_a_/Intangible/order_item.md) 
+### #is_/same_as :: [order_item](/_Standards/schema-org/Class/is_a_/Intangible/order_item.md) 
 
-### [order_item.public](/_public/schema-org/Class/is_a_/Intangible/order_item.public.md) 
+### #is_/same_as :: [order_item.public](/_public/schema-org/Class/is_a_/Intangible/order_item.public.md) 
 
-### [order_item.internal](/_internal/schema-org/Class/is_a_/Intangible/order_item.internal.md) 
+### #is_/same_as :: [order_item.internal](/_internal/schema-org/Class/is_a_/Intangible/order_item.internal.md) 
 
-### [order_item.protect](/_protect/schema-org/Class/is_a_/Intangible/order_item.protect.md) 
+### #is_/same_as :: [order_item.protect](/_protect/schema-org/Class/is_a_/Intangible/order_item.protect.md) 
 
-### [order_item.private](/_private/schema-org/Class/is_a_/Intangible/order_item.private.md) 
+### #is_/same_as :: [order_item.private](/_private/schema-org/Class/is_a_/Intangible/order_item.private.md) 
 
-### [order_item.personal](/_personal/schema-org/Class/is_a_/Intangible/order_item.personal.md) 
+### #is_/same_as :: [order_item.personal](/_personal/schema-org/Class/is_a_/Intangible/order_item.personal.md) 
 
-### [order_item.secret](/_secret/schema-org/Class/is_a_/Intangible/order_item.secret.md)
+### #is_/same_as :: [order_item.secret](/_secret/schema-org/Class/is_a_/Intangible/order_item.secret.md)
 

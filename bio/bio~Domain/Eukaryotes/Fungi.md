@@ -480,22 +480,19 @@ Auwera et al., 1995).
   Copyright ::            © 1996 [Joey Spatafora](http://www.bcc.orst.edu/bpp/faculty/spatafora/index.html) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fungi](/_Standards/bio/bio~Domain/Eukaryotes/Fungi.md) 
+### #is_/same_as :: [Fungi](/_Standards/bio/bio~Domain/Eukaryotes/Fungi.md) 
 
-### [Fungi.public](/_public/bio/bio~Domain/Eukaryotes/Fungi.public.md) 
+### #is_/same_as :: [Fungi.public](/_public/bio/bio~Domain/Eukaryotes/Fungi.public.md) 
 
-### [Fungi.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi.internal.md) 
+### #is_/same_as :: [Fungi.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi.internal.md) 
 
-### [Fungi.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi.protect.md) 
+### #is_/same_as :: [Fungi.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi.protect.md) 
 
-### [Fungi.private](/_private/bio/bio~Domain/Eukaryotes/Fungi.private.md) 
+### #is_/same_as :: [Fungi.private](/_private/bio/bio~Domain/Eukaryotes/Fungi.private.md) 
 
-### [Fungi.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi.personal.md) 
+### #is_/same_as :: [Fungi.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi.personal.md) 
 
-### [Fungi.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi.secret.md)
+### #is_/same_as :: [Fungi.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi.secret.md)
 

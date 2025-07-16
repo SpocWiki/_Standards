@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_expected_arrival_until](/_Standards/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.md) 
+### #is_/same_as :: [has_time_of_expected_arrival_until](/_Standards/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.md) 
 
-### [has_time_of_expected_arrival_until.public](/_public/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.public.md) 
+### #is_/same_as :: [has_time_of_expected_arrival_until.public](/_public/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.public.md) 
 
-### [has_time_of_expected_arrival_until.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.internal.md) 
+### #is_/same_as :: [has_time_of_expected_arrival_until.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.internal.md) 
 
-### [has_time_of_expected_arrival_until.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.protect.md) 
+### #is_/same_as :: [has_time_of_expected_arrival_until.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.protect.md) 
 
-### [has_time_of_expected_arrival_until.private](/_private/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.private.md) 
+### #is_/same_as :: [has_time_of_expected_arrival_until.private](/_private/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.private.md) 
 
-### [has_time_of_expected_arrival_until.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.personal.md) 
+### #is_/same_as :: [has_time_of_expected_arrival_until.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.personal.md) 
 
-### [has_time_of_expected_arrival_until.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.secret.md)
+### #is_/same_as :: [has_time_of_expected_arrival_until.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.secret.md)
 

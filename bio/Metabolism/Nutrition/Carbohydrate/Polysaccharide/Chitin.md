@@ -24,23 +24,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Chitin)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chitin](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.md) 
+### #is_/same_as :: [Chitin](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.md) 
 
-### [Chitin.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.public.md) 
+### #is_/same_as :: [Chitin.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.public.md) 
 
-### [Chitin.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.internal.md) 
+### #is_/same_as :: [Chitin.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.internal.md) 
 
-### [Chitin.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.protect.md) 
+### #is_/same_as :: [Chitin.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.protect.md) 
 
-### [Chitin.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.private.md) 
+### #is_/same_as :: [Chitin.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.private.md) 
 
-### [Chitin.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.personal.md) 
+### #is_/same_as :: [Chitin.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.personal.md) 
 
-### [Chitin.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.secret.md)
+### #is_/same_as :: [Chitin.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.secret.md)
 

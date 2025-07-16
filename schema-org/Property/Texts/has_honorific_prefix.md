@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_honorific_prefix](/_Standards/schema-org/Property/Texts/has_honorific_prefix.md) 
+### #is_/same_as :: [has_honorific_prefix](/_Standards/schema-org/Property/Texts/has_honorific_prefix.md) 
 
-### [has_honorific_prefix.public](/_public/schema-org/Property/Texts/has_honorific_prefix.public.md) 
+### #is_/same_as :: [has_honorific_prefix.public](/_public/schema-org/Property/Texts/has_honorific_prefix.public.md) 
 
-### [has_honorific_prefix.internal](/_internal/schema-org/Property/Texts/has_honorific_prefix.internal.md) 
+### #is_/same_as :: [has_honorific_prefix.internal](/_internal/schema-org/Property/Texts/has_honorific_prefix.internal.md) 
 
-### [has_honorific_prefix.protect](/_protect/schema-org/Property/Texts/has_honorific_prefix.protect.md) 
+### #is_/same_as :: [has_honorific_prefix.protect](/_protect/schema-org/Property/Texts/has_honorific_prefix.protect.md) 
 
-### [has_honorific_prefix.private](/_private/schema-org/Property/Texts/has_honorific_prefix.private.md) 
+### #is_/same_as :: [has_honorific_prefix.private](/_private/schema-org/Property/Texts/has_honorific_prefix.private.md) 
 
-### [has_honorific_prefix.personal](/_personal/schema-org/Property/Texts/has_honorific_prefix.personal.md) 
+### #is_/same_as :: [has_honorific_prefix.personal](/_personal/schema-org/Property/Texts/has_honorific_prefix.personal.md) 
 
-### [has_honorific_prefix.secret](/_secret/schema-org/Property/Texts/has_honorific_prefix.secret.md)
+### #is_/same_as :: [has_honorific_prefix.secret](/_secret/schema-org/Property/Texts/has_honorific_prefix.secret.md)
 

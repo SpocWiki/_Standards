@@ -48,17 +48,17 @@ MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasure
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DataDownload](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.md) 
+### #is_/same_as :: [FileClass~DataDownload](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.md) 
 
-### [FileClass~DataDownload.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.public.md) 
+### #is_/same_as :: [FileClass~DataDownload.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.public.md) 
 
-### [FileClass~DataDownload.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.internal.md) 
+### #is_/same_as :: [FileClass~DataDownload.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.internal.md) 
 
-### [FileClass~DataDownload.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.protect.md) 
+### #is_/same_as :: [FileClass~DataDownload.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.protect.md) 
 
-### [FileClass~DataDownload.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.private.md) 
+### #is_/same_as :: [FileClass~DataDownload.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.private.md) 
 
-### [FileClass~DataDownload.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.personal.md) 
+### #is_/same_as :: [FileClass~DataDownload.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.personal.md) 
 
-### [FileClass~DataDownload.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.secret.md)
+### #is_/same_as :: [FileClass~DataDownload.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.secret.md)
 

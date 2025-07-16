@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_place_latitude](/_Standards/schema-org/Property/has_value_for/has_place_latitude.md) 
+### #is_/same_as :: [has_place_latitude](/_Standards/schema-org/Property/has_value_for/has_place_latitude.md) 
 
-### [has_place_latitude.public](/_public/schema-org/Property/has_value_for/has_place_latitude.public.md) 
+### #is_/same_as :: [has_place_latitude.public](/_public/schema-org/Property/has_value_for/has_place_latitude.public.md) 
 
-### [has_place_latitude.internal](/_internal/schema-org/Property/has_value_for/has_place_latitude.internal.md) 
+### #is_/same_as :: [has_place_latitude.internal](/_internal/schema-org/Property/has_value_for/has_place_latitude.internal.md) 
 
-### [has_place_latitude.protect](/_protect/schema-org/Property/has_value_for/has_place_latitude.protect.md) 
+### #is_/same_as :: [has_place_latitude.protect](/_protect/schema-org/Property/has_value_for/has_place_latitude.protect.md) 
 
-### [has_place_latitude.private](/_private/schema-org/Property/has_value_for/has_place_latitude.private.md) 
+### #is_/same_as :: [has_place_latitude.private](/_private/schema-org/Property/has_value_for/has_place_latitude.private.md) 
 
-### [has_place_latitude.personal](/_personal/schema-org/Property/has_value_for/has_place_latitude.personal.md) 
+### #is_/same_as :: [has_place_latitude.personal](/_personal/schema-org/Property/has_value_for/has_place_latitude.personal.md) 
 
-### [has_place_latitude.secret](/_secret/schema-org/Property/has_value_for/has_place_latitude.secret.md)
+### #is_/same_as :: [has_place_latitude.secret](/_secret/schema-org/Property/has_value_for/has_place_latitude.secret.md)
 

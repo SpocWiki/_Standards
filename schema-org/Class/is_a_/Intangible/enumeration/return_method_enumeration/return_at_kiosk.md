@@ -49,17 +49,17 @@ Specifies that product returns must be made at a kiosk.
 
 ## Confidential Links & Embeds: 
 
-### [return_at_kiosk](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.md) 
+### #is_/same_as :: [return_at_kiosk](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.md) 
 
-### [return_at_kiosk.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.public.md) 
+### #is_/same_as :: [return_at_kiosk.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.public.md) 
 
-### [return_at_kiosk.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md) 
+### #is_/same_as :: [return_at_kiosk.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md) 
 
-### [return_at_kiosk.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.protect.md) 
+### #is_/same_as :: [return_at_kiosk.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.protect.md) 
 
-### [return_at_kiosk.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.private.md) 
+### #is_/same_as :: [return_at_kiosk.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.private.md) 
 
-### [return_at_kiosk.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.personal.md) 
+### #is_/same_as :: [return_at_kiosk.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.personal.md) 
 
-### [return_at_kiosk.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md)
+### #is_/same_as :: [return_at_kiosk.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md)
 

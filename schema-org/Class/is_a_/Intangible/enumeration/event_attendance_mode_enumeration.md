@@ -45,17 +45,17 @@ An EventAttendanceModeEnumeration value is one of potentially several modes of o
 
 ## Confidential Links & Embeds: 
 
-### [event_attendance_mode_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.md) 
+### #is_/same_as :: [event_attendance_mode_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.md) 
 
-### [event_attendance_mode_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.public.md) 
+### #is_/same_as :: [event_attendance_mode_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.public.md) 
 
-### [event_attendance_mode_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.internal.md) 
+### #is_/same_as :: [event_attendance_mode_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.internal.md) 
 
-### [event_attendance_mode_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.protect.md) 
+### #is_/same_as :: [event_attendance_mode_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.protect.md) 
 
-### [event_attendance_mode_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.private.md) 
+### #is_/same_as :: [event_attendance_mode_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.private.md) 
 
-### [event_attendance_mode_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.personal.md) 
+### #is_/same_as :: [event_attendance_mode_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.personal.md) 
 
-### [event_attendance_mode_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.secret.md)
+### #is_/same_as :: [event_attendance_mode_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration.secret.md)
 

@@ -34,17 +34,17 @@ Commons_category: Respiration
 
 ## Confidential Links & Embeds: 
 
-### [Breathing](/_Standards/bio/Metabolism/Breathing.md) 
+### #is_/same_as :: [Breathing](/_Standards/bio/Metabolism/Breathing.md) 
 
-### [Breathing.public](/_public/bio/Metabolism/Breathing.public.md) 
+### #is_/same_as :: [Breathing.public](/_public/bio/Metabolism/Breathing.public.md) 
 
-### [Breathing.internal](/_internal/bio/Metabolism/Breathing.internal.md) 
+### #is_/same_as :: [Breathing.internal](/_internal/bio/Metabolism/Breathing.internal.md) 
 
-### [Breathing.protect](/_protect/bio/Metabolism/Breathing.protect.md) 
+### #is_/same_as :: [Breathing.protect](/_protect/bio/Metabolism/Breathing.protect.md) 
 
-### [Breathing.private](/_private/bio/Metabolism/Breathing.private.md) 
+### #is_/same_as :: [Breathing.private](/_private/bio/Metabolism/Breathing.private.md) 
 
-### [Breathing.personal](/_personal/bio/Metabolism/Breathing.personal.md) 
+### #is_/same_as :: [Breathing.personal](/_personal/bio/Metabolism/Breathing.personal.md) 
 
-### [Breathing.secret](/_secret/bio/Metabolism/Breathing.secret.md)
+### #is_/same_as :: [Breathing.secret](/_secret/bio/Metabolism/Breathing.secret.md)
 

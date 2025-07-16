@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_children](/_Standards/schema-org/Relation/has/has_children.md) 
+### #is_/same_as :: [has_children](/_Standards/schema-org/Relation/has/has_children.md) 
 
-### [has_children.public](/_public/schema-org/Relation/has/has_children.public.md) 
+### #is_/same_as :: [has_children.public](/_public/schema-org/Relation/has/has_children.public.md) 
 
-### [has_children.internal](/_internal/schema-org/Relation/has/has_children.internal.md) 
+### #is_/same_as :: [has_children.internal](/_internal/schema-org/Relation/has/has_children.internal.md) 
 
-### [has_children.protect](/_protect/schema-org/Relation/has/has_children.protect.md) 
+### #is_/same_as :: [has_children.protect](/_protect/schema-org/Relation/has/has_children.protect.md) 
 
-### [has_children.private](/_private/schema-org/Relation/has/has_children.private.md) 
+### #is_/same_as :: [has_children.private](/_private/schema-org/Relation/has/has_children.private.md) 
 
-### [has_children.personal](/_personal/schema-org/Relation/has/has_children.personal.md) 
+### #is_/same_as :: [has_children.personal](/_personal/schema-org/Relation/has/has_children.personal.md) 
 
-### [has_children.secret](/_secret/schema-org/Relation/has/has_children.secret.md)
+### #is_/same_as :: [has_children.secret](/_secret/schema-org/Relation/has/has_children.secret.md)
 

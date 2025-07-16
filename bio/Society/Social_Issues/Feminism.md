@@ -91,21 +91,19 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/feminism"
 > [Wikipedia](https://en.wikipedia.org/wiki/Feminism)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Feminism](/_Standards/bio/Society/Social_Issues/Feminism.md) 
+### #is_/same_as :: [Feminism](/_Standards/bio/Society/Social_Issues/Feminism.md) 
 
-### [Feminism.public](/_public/bio/Society/Social_Issues/Feminism.public.md) 
+### #is_/same_as :: [Feminism.public](/_public/bio/Society/Social_Issues/Feminism.public.md) 
 
-### [Feminism.internal](/_internal/bio/Society/Social_Issues/Feminism.internal.md) 
+### #is_/same_as :: [Feminism.internal](/_internal/bio/Society/Social_Issues/Feminism.internal.md) 
 
-### [Feminism.protect](/_protect/bio/Society/Social_Issues/Feminism.protect.md) 
+### #is_/same_as :: [Feminism.protect](/_protect/bio/Society/Social_Issues/Feminism.protect.md) 
 
-### [Feminism.private](/_private/bio/Society/Social_Issues/Feminism.private.md) 
+### #is_/same_as :: [Feminism.private](/_private/bio/Society/Social_Issues/Feminism.private.md) 
 
-### [Feminism.personal](/_personal/bio/Society/Social_Issues/Feminism.personal.md) 
+### #is_/same_as :: [Feminism.personal](/_personal/bio/Society/Social_Issues/Feminism.personal.md) 
 
-### [Feminism.secret](/_secret/bio/Society/Social_Issues/Feminism.secret.md)
+### #is_/same_as :: [Feminism.secret](/_secret/bio/Society/Social_Issues/Feminism.secret.md)
 

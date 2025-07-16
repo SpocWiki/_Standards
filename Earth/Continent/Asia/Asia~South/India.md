@@ -1468,17 +1468,17 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 ## Confidential Links & Embeds: 
 
-### [India](/_Standards/Earth/Continent/Asia/Asia~South/India.md) 
+### #is_/same_as :: [India](/_Standards/Earth/Continent/Asia/Asia~South/India.md) 
 
-### [India.public](/_public/Earth/Continent/Asia/Asia~South/India.public.md) 
+### #is_/same_as :: [India.public](/_public/Earth/Continent/Asia/Asia~South/India.public.md) 
 
-### [India.internal](/_internal/Earth/Continent/Asia/Asia~South/India.internal.md) 
+### #is_/same_as :: [India.internal](/_internal/Earth/Continent/Asia/Asia~South/India.internal.md) 
 
-### [India.protect](/_protect/Earth/Continent/Asia/Asia~South/India.protect.md) 
+### #is_/same_as :: [India.protect](/_protect/Earth/Continent/Asia/Asia~South/India.protect.md) 
 
-### [India.private](/_private/Earth/Continent/Asia/Asia~South/India.private.md) 
+### #is_/same_as :: [India.private](/_private/Earth/Continent/Asia/Asia~South/India.private.md) 
 
-### [India.personal](/_personal/Earth/Continent/Asia/Asia~South/India.personal.md) 
+### #is_/same_as :: [India.personal](/_personal/Earth/Continent/Asia/Asia~South/India.personal.md) 
 
-### [India.secret](/_secret/Earth/Continent/Asia/Asia~South/India.secret.md)
+### #is_/same_as :: [India.secret](/_secret/Earth/Continent/Asia/Asia~South/India.secret.md)
 

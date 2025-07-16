@@ -86,20 +86,19 @@ Scans courtesy of [Kurt Stüber\'s online library of historic and classical biol
 ![](Cryptopontius_thorelli.jpg) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Siphonostomatoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.md) 
+### #is_/same_as :: [Siphonostomatoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.md) 
 
-### [Siphonostomatoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.public.md) 
+### #is_/same_as :: [Siphonostomatoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.public.md) 
 
-### [Siphonostomatoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.internal.md) 
+### #is_/same_as :: [Siphonostomatoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.internal.md) 
 
-### [Siphonostomatoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.protect.md) 
+### #is_/same_as :: [Siphonostomatoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.protect.md) 
 
-### [Siphonostomatoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.private.md) 
+### #is_/same_as :: [Siphonostomatoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.private.md) 
 
-### [Siphonostomatoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.personal.md) 
+### #is_/same_as :: [Siphonostomatoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.personal.md) 
 
-### [Siphonostomatoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.secret.md)
+### #is_/same_as :: [Siphonostomatoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.secret.md)
 

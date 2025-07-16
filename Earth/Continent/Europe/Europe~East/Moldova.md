@@ -473,17 +473,17 @@ Capital :: [[Chisinau]]
 
 ## Confidential Links & Embeds: 
 
-### [Moldova](/_Standards/Earth/Continent/Europe/Europe~East/Moldova.md) 
+### #is_/same_as :: [Moldova](/_Standards/Earth/Continent/Europe/Europe~East/Moldova.md) 
 
-### [Moldova.public](/_public/Earth/Continent/Europe/Europe~East/Moldova.public.md) 
+### #is_/same_as :: [Moldova.public](/_public/Earth/Continent/Europe/Europe~East/Moldova.public.md) 
 
-### [Moldova.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova.internal.md) 
+### #is_/same_as :: [Moldova.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova.internal.md) 
 
-### [Moldova.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova.protect.md) 
+### #is_/same_as :: [Moldova.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova.protect.md) 
 
-### [Moldova.private](/_private/Earth/Continent/Europe/Europe~East/Moldova.private.md) 
+### #is_/same_as :: [Moldova.private](/_private/Earth/Continent/Europe/Europe~East/Moldova.private.md) 
 
-### [Moldova.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova.personal.md) 
+### #is_/same_as :: [Moldova.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova.personal.md) 
 
-### [Moldova.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova.secret.md)
+### #is_/same_as :: [Moldova.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova.secret.md)
 

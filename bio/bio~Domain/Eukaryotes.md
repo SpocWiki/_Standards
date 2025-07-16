@@ -912,17 +912,17 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
 
 ## Confidential Links & Embeds: 
 
-### [Eukaryotes](/_Standards/bio/bio~Domain/Eukaryotes.md) 
+### #is_/same_as :: [Eukaryotes](/_Standards/bio/bio~Domain/Eukaryotes.md) 
 
-### [Eukaryotes.public](/_public/bio/bio~Domain/Eukaryotes.public.md) 
+### #is_/same_as :: [Eukaryotes.public](/_public/bio/bio~Domain/Eukaryotes.public.md) 
 
-### [Eukaryotes.internal](/_internal/bio/bio~Domain/Eukaryotes.internal.md) 
+### #is_/same_as :: [Eukaryotes.internal](/_internal/bio/bio~Domain/Eukaryotes.internal.md) 
 
-### [Eukaryotes.protect](/_protect/bio/bio~Domain/Eukaryotes.protect.md) 
+### #is_/same_as :: [Eukaryotes.protect](/_protect/bio/bio~Domain/Eukaryotes.protect.md) 
 
-### [Eukaryotes.private](/_private/bio/bio~Domain/Eukaryotes.private.md) 
+### #is_/same_as :: [Eukaryotes.private](/_private/bio/bio~Domain/Eukaryotes.private.md) 
 
-### [Eukaryotes.personal](/_personal/bio/bio~Domain/Eukaryotes.personal.md) 
+### #is_/same_as :: [Eukaryotes.personal](/_personal/bio/bio~Domain/Eukaryotes.personal.md) 
 
-### [Eukaryotes.secret](/_secret/bio/bio~Domain/Eukaryotes.secret.md)
+### #is_/same_as :: [Eukaryotes.secret](/_secret/bio/bio~Domain/Eukaryotes.secret.md)
 

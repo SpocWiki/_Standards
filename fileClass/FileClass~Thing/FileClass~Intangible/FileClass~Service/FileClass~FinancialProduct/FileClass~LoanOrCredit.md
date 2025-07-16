@@ -132,17 +132,17 @@ RequiredCollateral:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LoanOrCredit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.md) 
+### #is_/same_as :: [FileClass~LoanOrCredit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.md) 
 
-### [FileClass~LoanOrCredit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.public.md) 
+### #is_/same_as :: [FileClass~LoanOrCredit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.public.md) 
 
-### [FileClass~LoanOrCredit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.internal.md) 
+### #is_/same_as :: [FileClass~LoanOrCredit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.internal.md) 
 
-### [FileClass~LoanOrCredit.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.protect.md) 
+### #is_/same_as :: [FileClass~LoanOrCredit.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.protect.md) 
 
-### [FileClass~LoanOrCredit.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.private.md) 
+### #is_/same_as :: [FileClass~LoanOrCredit.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.private.md) 
 
-### [FileClass~LoanOrCredit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.personal.md) 
+### #is_/same_as :: [FileClass~LoanOrCredit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.personal.md) 
 
-### [FileClass~LoanOrCredit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.secret.md)
+### #is_/same_as :: [FileClass~LoanOrCredit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.secret.md)
 

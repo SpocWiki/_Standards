@@ -26,17 +26,17 @@ which possibly derives from the Middle Dutch term "droge".
 
 ## Confidential Links & Embeds: 
 
-### [Drug](/_Standards/bio/Medicine/Drug.md) 
+### #is_/same_as :: [Drug](/_Standards/bio/Medicine/Drug.md) 
 
-### [Drug.public](/_public/bio/Medicine/Drug.public.md) 
+### #is_/same_as :: [Drug.public](/_public/bio/Medicine/Drug.public.md) 
 
-### [Drug.internal](/_internal/bio/Medicine/Drug.internal.md) 
+### #is_/same_as :: [Drug.internal](/_internal/bio/Medicine/Drug.internal.md) 
 
-### [Drug.protect](/_protect/bio/Medicine/Drug.protect.md) 
+### #is_/same_as :: [Drug.protect](/_protect/bio/Medicine/Drug.protect.md) 
 
-### [Drug.private](/_private/bio/Medicine/Drug.private.md) 
+### #is_/same_as :: [Drug.private](/_private/bio/Medicine/Drug.private.md) 
 
-### [Drug.personal](/_personal/bio/Medicine/Drug.personal.md) 
+### #is_/same_as :: [Drug.personal](/_personal/bio/Medicine/Drug.personal.md) 
 
-### [Drug.secret](/_secret/bio/Medicine/Drug.secret.md)
+### #is_/same_as :: [Drug.secret](/_secret/bio/Medicine/Drug.secret.md)
 

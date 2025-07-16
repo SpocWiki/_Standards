@@ -45,21 +45,19 @@ montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%
 > [Wikipedia](https://en.wikipedia.org/wiki/Printing) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Printing](/_Standards/bio/Society/Communication/Printing.md) 
+### #is_/same_as :: [Printing](/_Standards/bio/Society/Communication/Printing.md) 
 
-### [Printing.public](/_public/bio/Society/Communication/Printing.public.md) 
+### #is_/same_as :: [Printing.public](/_public/bio/Society/Communication/Printing.public.md) 
 
-### [Printing.internal](/_internal/bio/Society/Communication/Printing.internal.md) 
+### #is_/same_as :: [Printing.internal](/_internal/bio/Society/Communication/Printing.internal.md) 
 
-### [Printing.protect](/_protect/bio/Society/Communication/Printing.protect.md) 
+### #is_/same_as :: [Printing.protect](/_protect/bio/Society/Communication/Printing.protect.md) 
 
-### [Printing.private](/_private/bio/Society/Communication/Printing.private.md) 
+### #is_/same_as :: [Printing.private](/_private/bio/Society/Communication/Printing.private.md) 
 
-### [Printing.personal](/_personal/bio/Society/Communication/Printing.personal.md) 
+### #is_/same_as :: [Printing.personal](/_personal/bio/Society/Communication/Printing.personal.md) 
 
-### [Printing.secret](/_secret/bio/Society/Communication/Printing.secret.md)
+### #is_/same_as :: [Printing.secret](/_secret/bio/Society/Communication/Printing.secret.md)
 

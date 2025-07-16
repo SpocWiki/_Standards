@@ -56,17 +56,17 @@ subreddit: LinearAlgebra
 
 ## Confidential Links & Embeds: 
 
-### [Linear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra.md) 
+### #is_/same_as :: [Linear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra.md) 
 
-### [Linear_Algebra.public](/_public/Mathematics/Algebra/Linear_Algebra.public.md) 
+### #is_/same_as :: [Linear_Algebra.public](/_public/Mathematics/Algebra/Linear_Algebra.public.md) 
 
-### [Linear_Algebra.internal](/_internal/Mathematics/Algebra/Linear_Algebra.internal.md) 
+### #is_/same_as :: [Linear_Algebra.internal](/_internal/Mathematics/Algebra/Linear_Algebra.internal.md) 
 
-### [Linear_Algebra.protect](/_protect/Mathematics/Algebra/Linear_Algebra.protect.md) 
+### #is_/same_as :: [Linear_Algebra.protect](/_protect/Mathematics/Algebra/Linear_Algebra.protect.md) 
 
-### [Linear_Algebra.private](/_private/Mathematics/Algebra/Linear_Algebra.private.md) 
+### #is_/same_as :: [Linear_Algebra.private](/_private/Mathematics/Algebra/Linear_Algebra.private.md) 
 
-### [Linear_Algebra.personal](/_personal/Mathematics/Algebra/Linear_Algebra.personal.md) 
+### #is_/same_as :: [Linear_Algebra.personal](/_personal/Mathematics/Algebra/Linear_Algebra.personal.md) 
 
-### [Linear_Algebra.secret](/_secret/Mathematics/Algebra/Linear_Algebra.secret.md)
+### #is_/same_as :: [Linear_Algebra.secret](/_secret/Mathematics/Algebra/Linear_Algebra.secret.md)
 

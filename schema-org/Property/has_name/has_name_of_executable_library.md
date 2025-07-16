@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_name_of_executable_library](/_Standards/schema-org/Property/has_name/has_name_of_executable_library.md) 
+### #is_/same_as :: [has_name_of_executable_library](/_Standards/schema-org/Property/has_name/has_name_of_executable_library.md) 
 
-### [has_name_of_executable_library.public](/_public/schema-org/Property/has_name/has_name_of_executable_library.public.md) 
+### #is_/same_as :: [has_name_of_executable_library.public](/_public/schema-org/Property/has_name/has_name_of_executable_library.public.md) 
 
-### [has_name_of_executable_library.internal](/_internal/schema-org/Property/has_name/has_name_of_executable_library.internal.md) 
+### #is_/same_as :: [has_name_of_executable_library.internal](/_internal/schema-org/Property/has_name/has_name_of_executable_library.internal.md) 
 
-### [has_name_of_executable_library.protect](/_protect/schema-org/Property/has_name/has_name_of_executable_library.protect.md) 
+### #is_/same_as :: [has_name_of_executable_library.protect](/_protect/schema-org/Property/has_name/has_name_of_executable_library.protect.md) 
 
-### [has_name_of_executable_library.private](/_private/schema-org/Property/has_name/has_name_of_executable_library.private.md) 
+### #is_/same_as :: [has_name_of_executable_library.private](/_private/schema-org/Property/has_name/has_name_of_executable_library.private.md) 
 
-### [has_name_of_executable_library.personal](/_personal/schema-org/Property/has_name/has_name_of_executable_library.personal.md) 
+### #is_/same_as :: [has_name_of_executable_library.personal](/_personal/schema-org/Property/has_name/has_name_of_executable_library.personal.md) 
 
-### [has_name_of_executable_library.secret](/_secret/schema-org/Property/has_name/has_name_of_executable_library.secret.md)
+### #is_/same_as :: [has_name_of_executable_library.secret](/_secret/schema-org/Property/has_name/has_name_of_executable_library.secret.md)
 

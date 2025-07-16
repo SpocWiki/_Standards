@@ -45,17 +45,17 @@ An over the air or online broadcast event.
 
 ## Confidential Links & Embeds: 
 
-### [broadcast_event](/_Standards/schema-org/Class/is_a_/event/publication_event/broadcast_event.md) 
+### #is_/same_as :: [broadcast_event](/_Standards/schema-org/Class/is_a_/event/publication_event/broadcast_event.md) 
 
-### [broadcast_event.public](/_public/schema-org/Class/is_a_/event/publication_event/broadcast_event.public.md) 
+### #is_/same_as :: [broadcast_event.public](/_public/schema-org/Class/is_a_/event/publication_event/broadcast_event.public.md) 
 
-### [broadcast_event.internal](/_internal/schema-org/Class/is_a_/event/publication_event/broadcast_event.internal.md) 
+### #is_/same_as :: [broadcast_event.internal](/_internal/schema-org/Class/is_a_/event/publication_event/broadcast_event.internal.md) 
 
-### [broadcast_event.protect](/_protect/schema-org/Class/is_a_/event/publication_event/broadcast_event.protect.md) 
+### #is_/same_as :: [broadcast_event.protect](/_protect/schema-org/Class/is_a_/event/publication_event/broadcast_event.protect.md) 
 
-### [broadcast_event.private](/_private/schema-org/Class/is_a_/event/publication_event/broadcast_event.private.md) 
+### #is_/same_as :: [broadcast_event.private](/_private/schema-org/Class/is_a_/event/publication_event/broadcast_event.private.md) 
 
-### [broadcast_event.personal](/_personal/schema-org/Class/is_a_/event/publication_event/broadcast_event.personal.md) 
+### #is_/same_as :: [broadcast_event.personal](/_personal/schema-org/Class/is_a_/event/publication_event/broadcast_event.personal.md) 
 
-### [broadcast_event.secret](/_secret/schema-org/Class/is_a_/event/publication_event/broadcast_event.secret.md)
+### #is_/same_as :: [broadcast_event.secret](/_secret/schema-org/Class/is_a_/event/publication_event/broadcast_event.secret.md)
 

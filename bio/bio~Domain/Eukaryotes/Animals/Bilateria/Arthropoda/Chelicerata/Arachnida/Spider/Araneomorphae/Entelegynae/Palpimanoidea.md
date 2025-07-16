@@ -42,17 +42,17 @@ spiders (Spider). Annual Review of Ecology and Systematics 22:565-592.
 
 ## Confidential Links & Embeds: 
 
-### [Palpimanoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.md) 
+### #is_/same_as :: [Palpimanoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.md) 
 
-### [Palpimanoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.public.md) 
+### #is_/same_as :: [Palpimanoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.public.md) 
 
-### [Palpimanoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.internal.md) 
+### #is_/same_as :: [Palpimanoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.internal.md) 
 
-### [Palpimanoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.protect.md) 
+### #is_/same_as :: [Palpimanoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.protect.md) 
 
-### [Palpimanoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.private.md) 
+### #is_/same_as :: [Palpimanoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.private.md) 
 
-### [Palpimanoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.personal.md) 
+### #is_/same_as :: [Palpimanoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.personal.md) 
 
-### [Palpimanoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.secret.md)
+### #is_/same_as :: [Palpimanoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.secret.md)
 

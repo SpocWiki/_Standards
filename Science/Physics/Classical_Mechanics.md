@@ -31,17 +31,17 @@ PhilPapers_topic: classical-mechanics
 
 ## Confidential Links & Embeds: 
 
-### [Classical_Mechanics](/_Standards/Science/Physics/Classical_Mechanics.md) 
+### #is_/same_as :: [Classical_Mechanics](/_Standards/Science/Physics/Classical_Mechanics.md) 
 
-### [Classical_Mechanics.public](/_public/Science/Physics/Classical_Mechanics.public.md) 
+### #is_/same_as :: [Classical_Mechanics.public](/_public/Science/Physics/Classical_Mechanics.public.md) 
 
-### [Classical_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics.internal.md) 
+### #is_/same_as :: [Classical_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics.internal.md) 
 
-### [Classical_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics.protect.md) 
+### #is_/same_as :: [Classical_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics.protect.md) 
 
-### [Classical_Mechanics.private](/_private/Science/Physics/Classical_Mechanics.private.md) 
+### #is_/same_as :: [Classical_Mechanics.private](/_private/Science/Physics/Classical_Mechanics.private.md) 
 
-### [Classical_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics.personal.md) 
+### #is_/same_as :: [Classical_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics.personal.md) 
 
-### [Classical_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics.secret.md)
+### #is_/same_as :: [Classical_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics.secret.md)
 

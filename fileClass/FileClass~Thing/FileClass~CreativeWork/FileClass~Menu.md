@@ -57,17 +57,17 @@ HasMenuSection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Menu](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.md) 
+### #is_/same_as :: [FileClass~Menu](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.md) 
 
-### [FileClass~Menu.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.public.md) 
+### #is_/same_as :: [FileClass~Menu.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.public.md) 
 
-### [FileClass~Menu.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.internal.md) 
+### #is_/same_as :: [FileClass~Menu.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.internal.md) 
 
-### [FileClass~Menu.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.protect.md) 
+### #is_/same_as :: [FileClass~Menu.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.protect.md) 
 
-### [FileClass~Menu.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.private.md) 
+### #is_/same_as :: [FileClass~Menu.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.private.md) 
 
-### [FileClass~Menu.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.personal.md) 
+### #is_/same_as :: [FileClass~Menu.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.personal.md) 
 
-### [FileClass~Menu.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.secret.md)
+### #is_/same_as :: [FileClass~Menu.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Menu.secret.md)
 

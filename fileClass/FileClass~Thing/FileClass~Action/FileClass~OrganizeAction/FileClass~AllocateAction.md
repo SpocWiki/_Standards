@@ -35,17 +35,17 @@ The act of organizing tasks/objects/events by associating resources to it.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AllocateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.md) 
+### #is_/same_as :: [FileClass~AllocateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.md) 
 
-### [FileClass~AllocateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.public.md) 
+### #is_/same_as :: [FileClass~AllocateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.public.md) 
 
-### [FileClass~AllocateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.internal.md) 
+### #is_/same_as :: [FileClass~AllocateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.internal.md) 
 
-### [FileClass~AllocateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.protect.md) 
+### #is_/same_as :: [FileClass~AllocateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.protect.md) 
 
-### [FileClass~AllocateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.private.md) 
+### #is_/same_as :: [FileClass~AllocateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.private.md) 
 
-### [FileClass~AllocateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.personal.md) 
+### #is_/same_as :: [FileClass~AllocateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.personal.md) 
 
-### [FileClass~AllocateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.secret.md)
+### #is_/same_as :: [FileClass~AllocateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction.secret.md)
 

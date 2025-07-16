@@ -151,22 +151,19 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
 	![Semibalanus_cariosus](Crustacea/Semibalanus_cariosus.jpg) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Crustacea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.md) 
+### #is_/same_as :: [Crustacea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.md) 
 
-### [Crustacea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.public.md) 
+### #is_/same_as :: [Crustacea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.public.md) 
 
-### [Crustacea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.internal.md) 
+### #is_/same_as :: [Crustacea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.internal.md) 
 
-### [Crustacea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.protect.md) 
+### #is_/same_as :: [Crustacea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.protect.md) 
 
-### [Crustacea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.private.md) 
+### #is_/same_as :: [Crustacea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.private.md) 
 
-### [Crustacea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.personal.md) 
+### #is_/same_as :: [Crustacea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.personal.md) 
 
-### [Crustacea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.secret.md)
+### #is_/same_as :: [Crustacea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea.secret.md)
 

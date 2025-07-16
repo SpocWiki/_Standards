@@ -102,21 +102,19 @@ Location ::        Hawaiian waters
 Copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Atlantidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.md) 
+### #is_/same_as :: [Atlantidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.md) 
 
-### [Atlantidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.public.md) 
+### #is_/same_as :: [Atlantidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.public.md) 
 
-### [Atlantidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.internal.md) 
+### #is_/same_as :: [Atlantidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.internal.md) 
 
-### [Atlantidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.protect.md) 
+### #is_/same_as :: [Atlantidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.protect.md) 
 
-### [Atlantidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.private.md) 
+### #is_/same_as :: [Atlantidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.private.md) 
 
-### [Atlantidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.personal.md) 
+### #is_/same_as :: [Atlantidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.personal.md) 
 
-### [Atlantidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.secret.md)
+### #is_/same_as :: [Atlantidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.secret.md)
 

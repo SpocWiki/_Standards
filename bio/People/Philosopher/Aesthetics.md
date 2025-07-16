@@ -51,21 +51,19 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/ESTETIKA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Aesthetics)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Aesthetics](/_Standards/bio/People/Philosopher/Aesthetics.md) 
+### #is_/same_as :: [Aesthetics](/_Standards/bio/People/Philosopher/Aesthetics.md) 
 
-### [Aesthetics.public](/_public/bio/People/Philosopher/Aesthetics.public.md) 
+### #is_/same_as :: [Aesthetics.public](/_public/bio/People/Philosopher/Aesthetics.public.md) 
 
-### [Aesthetics.internal](/_internal/bio/People/Philosopher/Aesthetics.internal.md) 
+### #is_/same_as :: [Aesthetics.internal](/_internal/bio/People/Philosopher/Aesthetics.internal.md) 
 
-### [Aesthetics.protect](/_protect/bio/People/Philosopher/Aesthetics.protect.md) 
+### #is_/same_as :: [Aesthetics.protect](/_protect/bio/People/Philosopher/Aesthetics.protect.md) 
 
-### [Aesthetics.private](/_private/bio/People/Philosopher/Aesthetics.private.md) 
+### #is_/same_as :: [Aesthetics.private](/_private/bio/People/Philosopher/Aesthetics.private.md) 
 
-### [Aesthetics.personal](/_personal/bio/People/Philosopher/Aesthetics.personal.md) 
+### #is_/same_as :: [Aesthetics.personal](/_personal/bio/People/Philosopher/Aesthetics.personal.md) 
 
-### [Aesthetics.secret](/_secret/bio/People/Philosopher/Aesthetics.secret.md)
+### #is_/same_as :: [Aesthetics.secret](/_secret/bio/People/Philosopher/Aesthetics.secret.md)
 

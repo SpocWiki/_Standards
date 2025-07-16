@@ -497,17 +497,17 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 
 ## Confidential Links & Embeds: 
 
-### [Kazakhstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan.md) 
+### #is_/same_as :: [Kazakhstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kazakhstan.md) 
 
-### [Kazakhstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan.public.md) 
+### #is_/same_as :: [Kazakhstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan.public.md) 
 
-### [Kazakhstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan.internal.md) 
+### #is_/same_as :: [Kazakhstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan.internal.md) 
 
-### [Kazakhstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan.protect.md) 
+### #is_/same_as :: [Kazakhstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan.protect.md) 
 
-### [Kazakhstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan.private.md) 
+### #is_/same_as :: [Kazakhstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan.private.md) 
 
-### [Kazakhstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan.personal.md) 
+### #is_/same_as :: [Kazakhstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan.personal.md) 
 
-### [Kazakhstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan.secret.md)
+### #is_/same_as :: [Kazakhstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan.secret.md)
 

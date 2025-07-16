@@ -106,21 +106,19 @@ Krugosvet_article: medicina/GRIPP.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Influenza)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Influenza](/_Standards/bio/Medicine/Disease/Infectious_Disease/Influenza.md) 
+### #is_/same_as :: [Influenza](/_Standards/bio/Medicine/Disease/Infectious_Disease/Influenza.md) 
 
-### [Influenza.public](/_public/bio/Medicine/Disease/Infectious_Disease/Influenza.public.md) 
+### #is_/same_as :: [Influenza.public](/_public/bio/Medicine/Disease/Infectious_Disease/Influenza.public.md) 
 
-### [Influenza.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Influenza.internal.md) 
+### #is_/same_as :: [Influenza.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Influenza.internal.md) 
 
-### [Influenza.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Influenza.protect.md) 
+### #is_/same_as :: [Influenza.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Influenza.protect.md) 
 
-### [Influenza.private](/_private/bio/Medicine/Disease/Infectious_Disease/Influenza.private.md) 
+### #is_/same_as :: [Influenza.private](/_private/bio/Medicine/Disease/Infectious_Disease/Influenza.private.md) 
 
-### [Influenza.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Influenza.personal.md) 
+### #is_/same_as :: [Influenza.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Influenza.personal.md) 
 
-### [Influenza.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Influenza.secret.md)
+### #is_/same_as :: [Influenza.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Influenza.secret.md)
 

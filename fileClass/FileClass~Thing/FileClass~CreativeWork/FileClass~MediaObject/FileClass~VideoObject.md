@@ -119,17 +119,17 @@ VideoQuality:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~VideoObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.md) 
+### #is_/same_as :: [FileClass~VideoObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.md) 
 
-### [FileClass~VideoObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.public.md) 
+### #is_/same_as :: [FileClass~VideoObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.public.md) 
 
-### [FileClass~VideoObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.internal.md) 
+### #is_/same_as :: [FileClass~VideoObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.internal.md) 
 
-### [FileClass~VideoObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.protect.md) 
+### #is_/same_as :: [FileClass~VideoObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.protect.md) 
 
-### [FileClass~VideoObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.private.md) 
+### #is_/same_as :: [FileClass~VideoObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.private.md) 
 
-### [FileClass~VideoObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.personal.md) 
+### #is_/same_as :: [FileClass~VideoObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.personal.md) 
 
-### [FileClass~VideoObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.secret.md)
+### #is_/same_as :: [FileClass~VideoObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject.secret.md)
 

@@ -54,21 +54,19 @@ aliases:
 -   » Sub-Groups 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Fibrobacteres](/_Standards/bio/bio~Domain/Bacteria/Fibrobacteres.md) 
+### #is_/same_as :: [Fibrobacteres](/_Standards/bio/bio~Domain/Bacteria/Fibrobacteres.md) 
 
-### [Fibrobacteres.public](/_public/bio/bio~Domain/Bacteria/Fibrobacteres.public.md) 
+### #is_/same_as :: [Fibrobacteres.public](/_public/bio/bio~Domain/Bacteria/Fibrobacteres.public.md) 
 
-### [Fibrobacteres.internal](/_internal/bio/bio~Domain/Bacteria/Fibrobacteres.internal.md) 
+### #is_/same_as :: [Fibrobacteres.internal](/_internal/bio/bio~Domain/Bacteria/Fibrobacteres.internal.md) 
 
-### [Fibrobacteres.protect](/_protect/bio/bio~Domain/Bacteria/Fibrobacteres.protect.md) 
+### #is_/same_as :: [Fibrobacteres.protect](/_protect/bio/bio~Domain/Bacteria/Fibrobacteres.protect.md) 
 
-### [Fibrobacteres.private](/_private/bio/bio~Domain/Bacteria/Fibrobacteres.private.md) 
+### #is_/same_as :: [Fibrobacteres.private](/_private/bio/bio~Domain/Bacteria/Fibrobacteres.private.md) 
 
-### [Fibrobacteres.personal](/_personal/bio/bio~Domain/Bacteria/Fibrobacteres.personal.md) 
+### #is_/same_as :: [Fibrobacteres.personal](/_personal/bio/bio~Domain/Bacteria/Fibrobacteres.personal.md) 
 
-### [Fibrobacteres.secret](/_secret/bio/bio~Domain/Bacteria/Fibrobacteres.secret.md)
+### #is_/same_as :: [Fibrobacteres.secret](/_secret/bio/bio~Domain/Bacteria/Fibrobacteres.secret.md)
 

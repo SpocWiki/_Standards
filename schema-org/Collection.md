@@ -135,17 +135,17 @@ Iterators allow the minimum Access to all elements of a Collection, no matter wh
 
 ## Confidential Links & Embeds: 
 
-### [Collection](/_Standards/schema-org/Collection.md) 
+### #is_/same_as :: [Collection](/_Standards/schema-org/Collection.md) 
 
-### [Collection.public](/_public/schema-org/Collection.public.md) 
+### #is_/same_as :: [Collection.public](/_public/schema-org/Collection.public.md) 
 
-### [Collection.internal](/_internal/schema-org/Collection.internal.md) 
+### #is_/same_as :: [Collection.internal](/_internal/schema-org/Collection.internal.md) 
 
-### [Collection.protect](/_protect/schema-org/Collection.protect.md) 
+### #is_/same_as :: [Collection.protect](/_protect/schema-org/Collection.protect.md) 
 
-### [Collection.private](/_private/schema-org/Collection.private.md) 
+### #is_/same_as :: [Collection.private](/_private/schema-org/Collection.private.md) 
 
-### [Collection.personal](/_personal/schema-org/Collection.personal.md) 
+### #is_/same_as :: [Collection.personal](/_personal/schema-org/Collection.personal.md) 
 
-### [Collection.secret](/_secret/schema-org/Collection.secret.md)
+### #is_/same_as :: [Collection.secret](/_secret/schema-org/Collection.secret.md)
 

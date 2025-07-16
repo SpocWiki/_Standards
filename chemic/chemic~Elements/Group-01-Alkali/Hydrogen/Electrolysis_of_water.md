@@ -69,21 +69,19 @@ Rather vent some Hydrogen, reducing [[#Efficiency]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrolysis%20of%20water) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Electrolysis_of_water](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.md) 
+### #is_/same_as :: [Electrolysis_of_water](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.md) 
 
-### [Electrolysis_of_water.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public.md) 
+### #is_/same_as :: [Electrolysis_of_water.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public.md) 
 
-### [Electrolysis_of_water.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal.md) 
+### #is_/same_as :: [Electrolysis_of_water.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal.md) 
 
-### [Electrolysis_of_water.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect.md) 
+### #is_/same_as :: [Electrolysis_of_water.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect.md) 
 
-### [Electrolysis_of_water.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private.md) 
+### #is_/same_as :: [Electrolysis_of_water.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private.md) 
 
-### [Electrolysis_of_water.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal.md) 
+### #is_/same_as :: [Electrolysis_of_water.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal.md) 
 
-### [Electrolysis_of_water.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret.md)
+### #is_/same_as :: [Electrolysis_of_water.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret.md)
 

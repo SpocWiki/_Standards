@@ -35,17 +35,17 @@ A moving company.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovingCompany](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.md) 
+### #is_/same_as :: [FileClass~MovingCompany](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.md) 
 
-### [FileClass~MovingCompany.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.public.md) 
+### #is_/same_as :: [FileClass~MovingCompany.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.public.md) 
 
-### [FileClass~MovingCompany.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.internal.md) 
+### #is_/same_as :: [FileClass~MovingCompany.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.internal.md) 
 
-### [FileClass~MovingCompany.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.protect.md) 
+### #is_/same_as :: [FileClass~MovingCompany.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.protect.md) 
 
-### [FileClass~MovingCompany.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.private.md) 
+### #is_/same_as :: [FileClass~MovingCompany.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.private.md) 
 
-### [FileClass~MovingCompany.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.personal.md) 
+### #is_/same_as :: [FileClass~MovingCompany.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.personal.md) 
 
-### [FileClass~MovingCompany.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.secret.md)
+### #is_/same_as :: [FileClass~MovingCompany.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.secret.md)
 

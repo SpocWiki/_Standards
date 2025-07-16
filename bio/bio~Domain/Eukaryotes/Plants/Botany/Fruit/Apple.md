@@ -118,21 +118,19 @@ water_footprint:
 > [Wikipedia](https://en.wikipedia.org/wiki/Apple)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Apple](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.md) 
+### #is_/same_as :: [Apple](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.md) 
 
-### [Apple.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.public.md) 
+### #is_/same_as :: [Apple.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.public.md) 
 
-### [Apple.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.internal.md) 
+### #is_/same_as :: [Apple.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.internal.md) 
 
-### [Apple.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.protect.md) 
+### #is_/same_as :: [Apple.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.protect.md) 
 
-### [Apple.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.private.md) 
+### #is_/same_as :: [Apple.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.private.md) 
 
-### [Apple.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.personal.md) 
+### #is_/same_as :: [Apple.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.personal.md) 
 
-### [Apple.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.secret.md)
+### #is_/same_as :: [Apple.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.secret.md)
 

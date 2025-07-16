@@ -155,21 +155,19 @@ nickname: "El manco de Lepanto"
 > [Wikipedia](https://en.wikipedia.org/wiki/Miguel%20de%20Cervantes)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cervantes,Miguel_de](/_Standards/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.md) 
+### #is_/same_as :: [Cervantes,Miguel_de](/_Standards/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.md) 
 
-### [Cervantes,Miguel_de.public](/_public/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.public.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.public](/_public/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.public.md) 
 
-### [Cervantes,Miguel_de.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.internal.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.internal.md) 
 
-### [Cervantes,Miguel_de.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.protect.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.protect.md) 
 
-### [Cervantes,Miguel_de.private](/_private/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.private.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.private](/_private/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.private.md) 
 
-### [Cervantes,Miguel_de.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.personal.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.personal.md) 
 
-### [Cervantes,Miguel_de.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.secret.md)
+### #is_/same_as :: [Cervantes,Miguel_de.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Cervantes,Miguel_de.secret.md)
 

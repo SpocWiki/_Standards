@@ -49,17 +49,17 @@ Measurement of the back section, for example of a jacket
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_back](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.md) 
+### #is_/same_as :: [wearable_measurement_back](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.md) 
 
-### [wearable_measurement_back.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.public.md) 
+### #is_/same_as :: [wearable_measurement_back.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.public.md) 
 
-### [wearable_measurement_back.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.internal.md) 
+### #is_/same_as :: [wearable_measurement_back.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.internal.md) 
 
-### [wearable_measurement_back.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.protect.md) 
+### #is_/same_as :: [wearable_measurement_back.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.protect.md) 
 
-### [wearable_measurement_back.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.private.md) 
+### #is_/same_as :: [wearable_measurement_back.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.private.md) 
 
-### [wearable_measurement_back.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.personal.md) 
+### #is_/same_as :: [wearable_measurement_back.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.personal.md) 
 
-### [wearable_measurement_back.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.secret.md)
+### #is_/same_as :: [wearable_measurement_back.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.secret.md)
 

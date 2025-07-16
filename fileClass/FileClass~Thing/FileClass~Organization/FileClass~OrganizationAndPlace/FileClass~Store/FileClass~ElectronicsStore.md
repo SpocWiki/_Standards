@@ -35,17 +35,17 @@ An electronics store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ElectronicsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.md) 
+### #is_/same_as :: [FileClass~ElectronicsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.md) 
 
-### [FileClass~ElectronicsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.public.md) 
+### #is_/same_as :: [FileClass~ElectronicsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.public.md) 
 
-### [FileClass~ElectronicsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.internal.md) 
+### #is_/same_as :: [FileClass~ElectronicsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.internal.md) 
 
-### [FileClass~ElectronicsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.protect.md) 
+### #is_/same_as :: [FileClass~ElectronicsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.protect.md) 
 
-### [FileClass~ElectronicsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.private.md) 
+### #is_/same_as :: [FileClass~ElectronicsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.private.md) 
 
-### [FileClass~ElectronicsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.personal.md) 
+### #is_/same_as :: [FileClass~ElectronicsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.personal.md) 
 
-### [FileClass~ElectronicsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.secret.md)
+### #is_/same_as :: [FileClass~ElectronicsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.secret.md)
 

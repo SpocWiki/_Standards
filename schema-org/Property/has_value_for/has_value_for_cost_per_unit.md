@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_cost_per_unit](/_Standards/schema-org/Property/has_value_for/has_value_for_cost_per_unit.md) 
+### #is_/same_as :: [has_value_for_cost_per_unit](/_Standards/schema-org/Property/has_value_for/has_value_for_cost_per_unit.md) 
 
-### [has_value_for_cost_per_unit.public](/_public/schema-org/Property/has_value_for/has_value_for_cost_per_unit.public.md) 
+### #is_/same_as :: [has_value_for_cost_per_unit.public](/_public/schema-org/Property/has_value_for/has_value_for_cost_per_unit.public.md) 
 
-### [has_value_for_cost_per_unit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cost_per_unit.internal.md) 
+### #is_/same_as :: [has_value_for_cost_per_unit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cost_per_unit.internal.md) 
 
-### [has_value_for_cost_per_unit.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cost_per_unit.protect.md) 
+### #is_/same_as :: [has_value_for_cost_per_unit.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cost_per_unit.protect.md) 
 
-### [has_value_for_cost_per_unit.private](/_private/schema-org/Property/has_value_for/has_value_for_cost_per_unit.private.md) 
+### #is_/same_as :: [has_value_for_cost_per_unit.private](/_private/schema-org/Property/has_value_for/has_value_for_cost_per_unit.private.md) 
 
-### [has_value_for_cost_per_unit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cost_per_unit.personal.md) 
+### #is_/same_as :: [has_value_for_cost_per_unit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cost_per_unit.personal.md) 
 
-### [has_value_for_cost_per_unit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cost_per_unit.secret.md)
+### #is_/same_as :: [has_value_for_cost_per_unit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cost_per_unit.secret.md)
 

@@ -13,17 +13,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Historian](/_Standards/bio/People/Historian.md) 
+### #is_/same_as :: [Historian](/_Standards/bio/People/Historian.md) 
 
-### [Historian.public](/_public/bio/People/Historian.public.md) 
+### #is_/same_as :: [Historian.public](/_public/bio/People/Historian.public.md) 
 
-### [Historian.internal](/_internal/bio/People/Historian.internal.md) 
+### #is_/same_as :: [Historian.internal](/_internal/bio/People/Historian.internal.md) 
 
-### [Historian.protect](/_protect/bio/People/Historian.protect.md) 
+### #is_/same_as :: [Historian.protect](/_protect/bio/People/Historian.protect.md) 
 
-### [Historian.private](/_private/bio/People/Historian.private.md) 
+### #is_/same_as :: [Historian.private](/_private/bio/People/Historian.private.md) 
 
-### [Historian.personal](/_personal/bio/People/Historian.personal.md) 
+### #is_/same_as :: [Historian.personal](/_personal/bio/People/Historian.personal.md) 
 
-### [Historian.secret](/_secret/bio/People/Historian.secret.md)
+### #is_/same_as :: [Historian.secret](/_secret/bio/People/Historian.secret.md)
 

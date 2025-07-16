@@ -120,21 +120,19 @@ View              dorsal
 Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [inconspicua](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.md) 
+### #is_/same_as :: [inconspicua](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.md) 
 
-### [inconspicua.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.public.md) 
+### #is_/same_as :: [inconspicua.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.public.md) 
 
-### [inconspicua.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.internal.md) 
+### #is_/same_as :: [inconspicua.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.internal.md) 
 
-### [inconspicua.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.protect.md) 
+### #is_/same_as :: [inconspicua.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.protect.md) 
 
-### [inconspicua.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.private.md) 
+### #is_/same_as :: [inconspicua.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.private.md) 
 
-### [inconspicua.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.personal.md) 
+### #is_/same_as :: [inconspicua.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.personal.md) 
 
-### [inconspicua.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.secret.md)
+### #is_/same_as :: [inconspicua.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/inconspicua.secret.md)
 

@@ -130,17 +130,17 @@ There is also a rev=Attribute for the Reverse Relation, but that was eliminated 
 
 ## Confidential Links & Embeds: 
 
-### [@rel](/_Standards/W3C/RDF(Resource_Description_Framework)/@rel.md) 
+### #is_/same_as :: [@rel](/_Standards/W3C/RDF(Resource_Description_Framework)/@rel.md) 
 
-### [@rel.public](/_public/W3C/RDF(Resource_Description_Framework)/@rel.public.md) 
+### #is_/same_as :: [@rel.public](/_public/W3C/RDF(Resource_Description_Framework)/@rel.public.md) 
 
-### [@rel.internal](/_internal/W3C/RDF(Resource_Description_Framework)/@rel.internal.md) 
+### #is_/same_as :: [@rel.internal](/_internal/W3C/RDF(Resource_Description_Framework)/@rel.internal.md) 
 
-### [@rel.protect](/_protect/W3C/RDF(Resource_Description_Framework)/@rel.protect.md) 
+### #is_/same_as :: [@rel.protect](/_protect/W3C/RDF(Resource_Description_Framework)/@rel.protect.md) 
 
-### [@rel.private](/_private/W3C/RDF(Resource_Description_Framework)/@rel.private.md) 
+### #is_/same_as :: [@rel.private](/_private/W3C/RDF(Resource_Description_Framework)/@rel.private.md) 
 
-### [@rel.personal](/_personal/W3C/RDF(Resource_Description_Framework)/@rel.personal.md) 
+### #is_/same_as :: [@rel.personal](/_personal/W3C/RDF(Resource_Description_Framework)/@rel.personal.md) 
 
-### [@rel.secret](/_secret/W3C/RDF(Resource_Description_Framework)/@rel.secret.md)
+### #is_/same_as :: [@rel.secret](/_secret/W3C/RDF(Resource_Description_Framework)/@rel.secret.md)
 

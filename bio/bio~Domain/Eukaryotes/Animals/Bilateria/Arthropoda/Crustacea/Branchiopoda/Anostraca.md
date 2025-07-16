@@ -27,21 +27,19 @@ title: Anostraca
 -   » Sub-Groups 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Anostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.md) 
+### #is_/same_as :: [Anostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.md) 
 
-### [Anostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.public.md) 
+### #is_/same_as :: [Anostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.public.md) 
 
-### [Anostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.internal.md) 
+### #is_/same_as :: [Anostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.internal.md) 
 
-### [Anostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.protect.md) 
+### #is_/same_as :: [Anostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.protect.md) 
 
-### [Anostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.private.md) 
+### #is_/same_as :: [Anostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.private.md) 
 
-### [Anostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.personal.md) 
+### #is_/same_as :: [Anostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.personal.md) 
 
-### [Anostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.secret.md)
+### #is_/same_as :: [Anostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.secret.md)
 

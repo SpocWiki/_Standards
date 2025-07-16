@@ -48,17 +48,17 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 
 ## Confidential Links & Embeds: 
 
-### [observation](/_Standards/schema-org/Class/is_a_/Intangible/observation.md) 
+### #is_/same_as :: [observation](/_Standards/schema-org/Class/is_a_/Intangible/observation.md) 
 
-### [observation.public](/_public/schema-org/Class/is_a_/Intangible/observation.public.md) 
+### #is_/same_as :: [observation.public](/_public/schema-org/Class/is_a_/Intangible/observation.public.md) 
 
-### [observation.internal](/_internal/schema-org/Class/is_a_/Intangible/observation.internal.md) 
+### #is_/same_as :: [observation.internal](/_internal/schema-org/Class/is_a_/Intangible/observation.internal.md) 
 
-### [observation.protect](/_protect/schema-org/Class/is_a_/Intangible/observation.protect.md) 
+### #is_/same_as :: [observation.protect](/_protect/schema-org/Class/is_a_/Intangible/observation.protect.md) 
 
-### [observation.private](/_private/schema-org/Class/is_a_/Intangible/observation.private.md) 
+### #is_/same_as :: [observation.private](/_private/schema-org/Class/is_a_/Intangible/observation.private.md) 
 
-### [observation.personal](/_personal/schema-org/Class/is_a_/Intangible/observation.personal.md) 
+### #is_/same_as :: [observation.personal](/_personal/schema-org/Class/is_a_/Intangible/observation.personal.md) 
 
-### [observation.secret](/_secret/schema-org/Class/is_a_/Intangible/observation.secret.md)
+### #is_/same_as :: [observation.secret](/_secret/schema-org/Class/is_a_/Intangible/observation.secret.md)
 

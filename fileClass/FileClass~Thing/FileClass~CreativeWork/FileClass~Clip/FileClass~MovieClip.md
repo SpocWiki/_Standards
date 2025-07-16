@@ -35,17 +35,17 @@ A short segment/part of a movie.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovieClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.md) 
+### #is_/same_as :: [FileClass~MovieClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.md) 
 
-### [FileClass~MovieClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.public.md) 
+### #is_/same_as :: [FileClass~MovieClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.public.md) 
 
-### [FileClass~MovieClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.internal.md) 
+### #is_/same_as :: [FileClass~MovieClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.internal.md) 
 
-### [FileClass~MovieClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.protect.md) 
+### #is_/same_as :: [FileClass~MovieClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.protect.md) 
 
-### [FileClass~MovieClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.private.md) 
+### #is_/same_as :: [FileClass~MovieClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.private.md) 
 
-### [FileClass~MovieClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.personal.md) 
+### #is_/same_as :: [FileClass~MovieClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.personal.md) 
 
-### [FileClass~MovieClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.secret.md)
+### #is_/same_as :: [FileClass~MovieClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.secret.md)
 

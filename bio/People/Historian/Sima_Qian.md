@@ -28,17 +28,17 @@ has_id_wikidata: Q9372
 
 ## Confidential Links & Embeds: 
 
-### [Sima_Qian](/_Standards/bio/People/Historian/Sima_Qian.md) 
+### #is_/same_as :: [Sima_Qian](/_Standards/bio/People/Historian/Sima_Qian.md) 
 
-### [Sima_Qian.public](/_public/bio/People/Historian/Sima_Qian.public.md) 
+### #is_/same_as :: [Sima_Qian.public](/_public/bio/People/Historian/Sima_Qian.public.md) 
 
-### [Sima_Qian.internal](/_internal/bio/People/Historian/Sima_Qian.internal.md) 
+### #is_/same_as :: [Sima_Qian.internal](/_internal/bio/People/Historian/Sima_Qian.internal.md) 
 
-### [Sima_Qian.protect](/_protect/bio/People/Historian/Sima_Qian.protect.md) 
+### #is_/same_as :: [Sima_Qian.protect](/_protect/bio/People/Historian/Sima_Qian.protect.md) 
 
-### [Sima_Qian.private](/_private/bio/People/Historian/Sima_Qian.private.md) 
+### #is_/same_as :: [Sima_Qian.private](/_private/bio/People/Historian/Sima_Qian.private.md) 
 
-### [Sima_Qian.personal](/_personal/bio/People/Historian/Sima_Qian.personal.md) 
+### #is_/same_as :: [Sima_Qian.personal](/_personal/bio/People/Historian/Sima_Qian.personal.md) 
 
-### [Sima_Qian.secret](/_secret/bio/People/Historian/Sima_Qian.secret.md)
+### #is_/same_as :: [Sima_Qian.secret](/_secret/bio/People/Historian/Sima_Qian.secret.md)
 

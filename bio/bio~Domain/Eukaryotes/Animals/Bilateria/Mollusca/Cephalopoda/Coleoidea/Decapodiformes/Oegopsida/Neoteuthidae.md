@@ -178,17 +178,17 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### [Neoteuthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.md) 
+### #is_/same_as :: [Neoteuthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.md) 
 
-### [Neoteuthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.public.md) 
+### #is_/same_as :: [Neoteuthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.public.md) 
 
-### [Neoteuthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.internal.md) 
+### #is_/same_as :: [Neoteuthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.internal.md) 
 
-### [Neoteuthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.protect.md) 
+### #is_/same_as :: [Neoteuthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.protect.md) 
 
-### [Neoteuthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.private.md) 
+### #is_/same_as :: [Neoteuthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.private.md) 
 
-### [Neoteuthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.personal.md) 
+### #is_/same_as :: [Neoteuthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.personal.md) 
 
-### [Neoteuthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.secret.md)
+### #is_/same_as :: [Neoteuthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.secret.md)
 

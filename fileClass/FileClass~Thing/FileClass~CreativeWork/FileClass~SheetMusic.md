@@ -35,17 +35,17 @@ Printed music, as opposed to performed or recorded music.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SheetMusic](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.md) 
+### #is_/same_as :: [FileClass~SheetMusic](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.md) 
 
-### [FileClass~SheetMusic.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.public.md) 
+### #is_/same_as :: [FileClass~SheetMusic.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.public.md) 
 
-### [FileClass~SheetMusic.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.internal.md) 
+### #is_/same_as :: [FileClass~SheetMusic.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.internal.md) 
 
-### [FileClass~SheetMusic.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.protect.md) 
+### #is_/same_as :: [FileClass~SheetMusic.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.protect.md) 
 
-### [FileClass~SheetMusic.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.private.md) 
+### #is_/same_as :: [FileClass~SheetMusic.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.private.md) 
 
-### [FileClass~SheetMusic.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.personal.md) 
+### #is_/same_as :: [FileClass~SheetMusic.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.personal.md) 
 
-### [FileClass~SheetMusic.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.secret.md)
+### #is_/same_as :: [FileClass~SheetMusic.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.secret.md)
 

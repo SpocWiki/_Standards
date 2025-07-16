@@ -35,17 +35,17 @@ A table on a Web page.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Table](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.md) 
+### #is_/same_as :: [FileClass~Table](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.md) 
 
-### [FileClass~Table.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.public.md) 
+### #is_/same_as :: [FileClass~Table.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.public.md) 
 
-### [FileClass~Table.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.internal.md) 
+### #is_/same_as :: [FileClass~Table.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.internal.md) 
 
-### [FileClass~Table.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.protect.md) 
+### #is_/same_as :: [FileClass~Table.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.protect.md) 
 
-### [FileClass~Table.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.private.md) 
+### #is_/same_as :: [FileClass~Table.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.private.md) 
 
-### [FileClass~Table.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.personal.md) 
+### #is_/same_as :: [FileClass~Table.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.personal.md) 
 
-### [FileClass~Table.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.secret.md)
+### #is_/same_as :: [FileClass~Table.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.secret.md)
 

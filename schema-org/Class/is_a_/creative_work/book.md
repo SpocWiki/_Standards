@@ -182,17 +182,17 @@ A book.
 
 ## Confidential Links & Embeds: 
 
-### [book](/_Standards/schema-org/Class/is_a_/creative_work/book.md) 
+### #is_/same_as :: [book](/_Standards/schema-org/Class/is_a_/creative_work/book.md) 
 
-### [book.public](/_public/schema-org/Class/is_a_/creative_work/book.public.md) 
+### #is_/same_as :: [book.public](/_public/schema-org/Class/is_a_/creative_work/book.public.md) 
 
-### [book.internal](/_internal/schema-org/Class/is_a_/creative_work/book.internal.md) 
+### #is_/same_as :: [book.internal](/_internal/schema-org/Class/is_a_/creative_work/book.internal.md) 
 
-### [book.protect](/_protect/schema-org/Class/is_a_/creative_work/book.protect.md) 
+### #is_/same_as :: [book.protect](/_protect/schema-org/Class/is_a_/creative_work/book.protect.md) 
 
-### [book.private](/_private/schema-org/Class/is_a_/creative_work/book.private.md) 
+### #is_/same_as :: [book.private](/_private/schema-org/Class/is_a_/creative_work/book.private.md) 
 
-### [book.personal](/_personal/schema-org/Class/is_a_/creative_work/book.personal.md) 
+### #is_/same_as :: [book.personal](/_personal/schema-org/Class/is_a_/creative_work/book.personal.md) 
 
-### [book.secret](/_secret/schema-org/Class/is_a_/creative_work/book.secret.md)
+### #is_/same_as :: [book.secret](/_secret/schema-org/Class/is_a_/creative_work/book.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_subject_of](/_Standards/schema-org/Relation/is/is_subject_of.md) 
+### #is_/same_as :: [is_subject_of](/_Standards/schema-org/Relation/is/is_subject_of.md) 
 
-### [is_subject_of.public](/_public/schema-org/Relation/is/is_subject_of.public.md) 
+### #is_/same_as :: [is_subject_of.public](/_public/schema-org/Relation/is/is_subject_of.public.md) 
 
-### [is_subject_of.internal](/_internal/schema-org/Relation/is/is_subject_of.internal.md) 
+### #is_/same_as :: [is_subject_of.internal](/_internal/schema-org/Relation/is/is_subject_of.internal.md) 
 
-### [is_subject_of.protect](/_protect/schema-org/Relation/is/is_subject_of.protect.md) 
+### #is_/same_as :: [is_subject_of.protect](/_protect/schema-org/Relation/is/is_subject_of.protect.md) 
 
-### [is_subject_of.private](/_private/schema-org/Relation/is/is_subject_of.private.md) 
+### #is_/same_as :: [is_subject_of.private](/_private/schema-org/Relation/is/is_subject_of.private.md) 
 
-### [is_subject_of.personal](/_personal/schema-org/Relation/is/is_subject_of.personal.md) 
+### #is_/same_as :: [is_subject_of.personal](/_personal/schema-org/Relation/is/is_subject_of.personal.md) 
 
-### [is_subject_of.secret](/_secret/schema-org/Relation/is/is_subject_of.secret.md)
+### #is_/same_as :: [is_subject_of.secret](/_secret/schema-org/Relation/is/is_subject_of.secret.md)
 

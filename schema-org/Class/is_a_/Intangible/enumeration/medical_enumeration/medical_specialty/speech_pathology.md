@@ -47,17 +47,17 @@ The scientific study and treatment of defects, disorders, and malfunctions of sp
 
 ## Confidential Links & Embeds: 
 
-### [speech_pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.md) 
+### #is_/same_as :: [speech_pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.md) 
 
-### [speech_pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.public.md) 
+### #is_/same_as :: [speech_pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.public.md) 
 
-### [speech_pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.internal.md) 
+### #is_/same_as :: [speech_pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.internal.md) 
 
-### [speech_pathology.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.protect.md) 
+### #is_/same_as :: [speech_pathology.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.protect.md) 
 
-### [speech_pathology.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.private.md) 
+### #is_/same_as :: [speech_pathology.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.private.md) 
 
-### [speech_pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.personal.md) 
+### #is_/same_as :: [speech_pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.personal.md) 
 
-### [speech_pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.secret.md)
+### #is_/same_as :: [speech_pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.secret.md)
 

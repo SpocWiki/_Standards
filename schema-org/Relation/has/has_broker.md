@@ -52,17 +52,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broker](/_Standards/schema-org/Relation/has/has_broker.md) 
+### #is_/same_as :: [has_broker](/_Standards/schema-org/Relation/has/has_broker.md) 
 
-### [has_broker.public](/_public/schema-org/Relation/has/has_broker.public.md) 
+### #is_/same_as :: [has_broker.public](/_public/schema-org/Relation/has/has_broker.public.md) 
 
-### [has_broker.internal](/_internal/schema-org/Relation/has/has_broker.internal.md) 
+### #is_/same_as :: [has_broker.internal](/_internal/schema-org/Relation/has/has_broker.internal.md) 
 
-### [has_broker.protect](/_protect/schema-org/Relation/has/has_broker.protect.md) 
+### #is_/same_as :: [has_broker.protect](/_protect/schema-org/Relation/has/has_broker.protect.md) 
 
-### [has_broker.private](/_private/schema-org/Relation/has/has_broker.private.md) 
+### #is_/same_as :: [has_broker.private](/_private/schema-org/Relation/has/has_broker.private.md) 
 
-### [has_broker.personal](/_personal/schema-org/Relation/has/has_broker.personal.md) 
+### #is_/same_as :: [has_broker.personal](/_personal/schema-org/Relation/has/has_broker.personal.md) 
 
-### [has_broker.secret](/_secret/schema-org/Relation/has/has_broker.secret.md)
+### #is_/same_as :: [has_broker.secret](/_secret/schema-org/Relation/has/has_broker.secret.md)
 

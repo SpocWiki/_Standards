@@ -47,17 +47,17 @@ A statement about something, for example a fun or interesting fact. If known, th
 
 ## Confidential Links & Embeds: 
 
-### [statement](/_Standards/schema-org/Class/is_a_/creative_work/statement.md) 
+### #is_/same_as :: [statement](/_Standards/schema-org/Class/is_a_/creative_work/statement.md) 
 
-### [statement.public](/_public/schema-org/Class/is_a_/creative_work/statement.public.md) 
+### #is_/same_as :: [statement.public](/_public/schema-org/Class/is_a_/creative_work/statement.public.md) 
 
-### [statement.internal](/_internal/schema-org/Class/is_a_/creative_work/statement.internal.md) 
+### #is_/same_as :: [statement.internal](/_internal/schema-org/Class/is_a_/creative_work/statement.internal.md) 
 
-### [statement.protect](/_protect/schema-org/Class/is_a_/creative_work/statement.protect.md) 
+### #is_/same_as :: [statement.protect](/_protect/schema-org/Class/is_a_/creative_work/statement.protect.md) 
 
-### [statement.private](/_private/schema-org/Class/is_a_/creative_work/statement.private.md) 
+### #is_/same_as :: [statement.private](/_private/schema-org/Class/is_a_/creative_work/statement.private.md) 
 
-### [statement.personal](/_personal/schema-org/Class/is_a_/creative_work/statement.personal.md) 
+### #is_/same_as :: [statement.personal](/_personal/schema-org/Class/is_a_/creative_work/statement.personal.md) 
 
-### [statement.secret](/_secret/schema-org/Class/is_a_/creative_work/statement.secret.md)
+### #is_/same_as :: [statement.secret](/_secret/schema-org/Class/is_a_/creative_work/statement.secret.md)
 

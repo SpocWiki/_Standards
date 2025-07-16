@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_tax](/_Standards/schema-org/Property/has_name/has_id_tax.md) 
+### #is_/same_as :: [has_id_tax](/_Standards/schema-org/Property/has_name/has_id_tax.md) 
 
-### [has_id_tax.public](/_public/schema-org/Property/has_name/has_id_tax.public.md) 
+### #is_/same_as :: [has_id_tax.public](/_public/schema-org/Property/has_name/has_id_tax.public.md) 
 
-### [has_id_tax.internal](/_internal/schema-org/Property/has_name/has_id_tax.internal.md) 
+### #is_/same_as :: [has_id_tax.internal](/_internal/schema-org/Property/has_name/has_id_tax.internal.md) 
 
-### [has_id_tax.protect](/_protect/schema-org/Property/has_name/has_id_tax.protect.md) 
+### #is_/same_as :: [has_id_tax.protect](/_protect/schema-org/Property/has_name/has_id_tax.protect.md) 
 
-### [has_id_tax.private](/_private/schema-org/Property/has_name/has_id_tax.private.md) 
+### #is_/same_as :: [has_id_tax.private](/_private/schema-org/Property/has_name/has_id_tax.private.md) 
 
-### [has_id_tax.personal](/_personal/schema-org/Property/has_name/has_id_tax.personal.md) 
+### #is_/same_as :: [has_id_tax.personal](/_personal/schema-org/Property/has_name/has_id_tax.personal.md) 
 
-### [has_id_tax.secret](/_secret/schema-org/Property/has_name/has_id_tax.secret.md)
+### #is_/same_as :: [has_id_tax.secret](/_secret/schema-org/Property/has_name/has_id_tax.secret.md)
 

@@ -45,17 +45,17 @@ A service which provides access to media programming like TV or radio. Access ma
 
 ## Confidential Links & Embeds: 
 
-### [cable_or_satellite_service](/_Standards/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.md) 
+### #is_/same_as :: [cable_or_satellite_service](/_Standards/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.md) 
 
-### [cable_or_satellite_service.public](/_public/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.public.md) 
+### #is_/same_as :: [cable_or_satellite_service.public](/_public/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.public.md) 
 
-### [cable_or_satellite_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.internal.md) 
+### #is_/same_as :: [cable_or_satellite_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.internal.md) 
 
-### [cable_or_satellite_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.protect.md) 
+### #is_/same_as :: [cable_or_satellite_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.protect.md) 
 
-### [cable_or_satellite_service.private](/_private/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.private.md) 
+### #is_/same_as :: [cable_or_satellite_service.private](/_private/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.private.md) 
 
-### [cable_or_satellite_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.personal.md) 
+### #is_/same_as :: [cable_or_satellite_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.personal.md) 
 
-### [cable_or_satellite_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.secret.md)
+### #is_/same_as :: [cable_or_satellite_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.secret.md)
 

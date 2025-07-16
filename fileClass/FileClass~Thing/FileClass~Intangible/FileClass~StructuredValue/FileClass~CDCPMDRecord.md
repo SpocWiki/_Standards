@@ -211,17 +211,17 @@ DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CDCPMDRecord](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.md) 
+### #is_/same_as :: [FileClass~CDCPMDRecord](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.md) 
 
-### [FileClass~CDCPMDRecord.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.public.md) 
+### #is_/same_as :: [FileClass~CDCPMDRecord.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.public.md) 
 
-### [FileClass~CDCPMDRecord.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.internal.md) 
+### #is_/same_as :: [FileClass~CDCPMDRecord.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.internal.md) 
 
-### [FileClass~CDCPMDRecord.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.protect.md) 
+### #is_/same_as :: [FileClass~CDCPMDRecord.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.protect.md) 
 
-### [FileClass~CDCPMDRecord.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.private.md) 
+### #is_/same_as :: [FileClass~CDCPMDRecord.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.private.md) 
 
-### [FileClass~CDCPMDRecord.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.personal.md) 
+### #is_/same_as :: [FileClass~CDCPMDRecord.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.personal.md) 
 
-### [FileClass~CDCPMDRecord.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.secret.md)
+### #is_/same_as :: [FileClass~CDCPMDRecord.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.secret.md)
 

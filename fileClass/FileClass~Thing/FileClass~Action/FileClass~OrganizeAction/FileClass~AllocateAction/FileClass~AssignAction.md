@@ -35,17 +35,17 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AssignAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.md) 
+### #is_/same_as :: [FileClass~AssignAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.md) 
 
-### [FileClass~AssignAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.public.md) 
+### #is_/same_as :: [FileClass~AssignAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.public.md) 
 
-### [FileClass~AssignAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.internal.md) 
+### #is_/same_as :: [FileClass~AssignAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.internal.md) 
 
-### [FileClass~AssignAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.protect.md) 
+### #is_/same_as :: [FileClass~AssignAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.protect.md) 
 
-### [FileClass~AssignAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.private.md) 
+### #is_/same_as :: [FileClass~AssignAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.private.md) 
 
-### [FileClass~AssignAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.personal.md) 
+### #is_/same_as :: [FileClass~AssignAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.personal.md) 
 
-### [FileClass~AssignAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.secret.md)
+### #is_/same_as :: [FileClass~AssignAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.secret.md)
 

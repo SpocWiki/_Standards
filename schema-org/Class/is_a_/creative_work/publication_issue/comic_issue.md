@@ -52,17 +52,17 @@ Individual comic issues are serially published as
 
 ## Confidential Links & Embeds: 
 
-### [comic_issue](/_Standards/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.md) 
+### #is_/same_as :: [comic_issue](/_Standards/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.md) 
 
-### [comic_issue.public](/_public/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.public.md) 
+### #is_/same_as :: [comic_issue.public](/_public/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.public.md) 
 
-### [comic_issue.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.internal.md) 
+### #is_/same_as :: [comic_issue.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.internal.md) 
 
-### [comic_issue.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.protect.md) 
+### #is_/same_as :: [comic_issue.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.protect.md) 
 
-### [comic_issue.private](/_private/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.private.md) 
+### #is_/same_as :: [comic_issue.private](/_private/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.private.md) 
 
-### [comic_issue.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.personal.md) 
+### #is_/same_as :: [comic_issue.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.personal.md) 
 
-### [comic_issue.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.secret.md)
+### #is_/same_as :: [comic_issue.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.secret.md)
 

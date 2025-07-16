@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_boarding_group](/_Standards/schema-org/Property/Texts/has_boarding_group.md) 
+### #is_/same_as :: [has_boarding_group](/_Standards/schema-org/Property/Texts/has_boarding_group.md) 
 
-### [has_boarding_group.public](/_public/schema-org/Property/Texts/has_boarding_group.public.md) 
+### #is_/same_as :: [has_boarding_group.public](/_public/schema-org/Property/Texts/has_boarding_group.public.md) 
 
-### [has_boarding_group.internal](/_internal/schema-org/Property/Texts/has_boarding_group.internal.md) 
+### #is_/same_as :: [has_boarding_group.internal](/_internal/schema-org/Property/Texts/has_boarding_group.internal.md) 
 
-### [has_boarding_group.protect](/_protect/schema-org/Property/Texts/has_boarding_group.protect.md) 
+### #is_/same_as :: [has_boarding_group.protect](/_protect/schema-org/Property/Texts/has_boarding_group.protect.md) 
 
-### [has_boarding_group.private](/_private/schema-org/Property/Texts/has_boarding_group.private.md) 
+### #is_/same_as :: [has_boarding_group.private](/_private/schema-org/Property/Texts/has_boarding_group.private.md) 
 
-### [has_boarding_group.personal](/_personal/schema-org/Property/Texts/has_boarding_group.personal.md) 
+### #is_/same_as :: [has_boarding_group.personal](/_personal/schema-org/Property/Texts/has_boarding_group.personal.md) 
 
-### [has_boarding_group.secret](/_secret/schema-org/Property/Texts/has_boarding_group.secret.md)
+### #is_/same_as :: [has_boarding_group.secret](/_secret/schema-org/Property/Texts/has_boarding_group.secret.md)
 

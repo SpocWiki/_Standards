@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_illustrator](/_Standards/schema-org/Relation/has/has_illustrator.md) 
+### #is_/same_as :: [has_illustrator](/_Standards/schema-org/Relation/has/has_illustrator.md) 
 
-### [has_illustrator.public](/_public/schema-org/Relation/has/has_illustrator.public.md) 
+### #is_/same_as :: [has_illustrator.public](/_public/schema-org/Relation/has/has_illustrator.public.md) 
 
-### [has_illustrator.internal](/_internal/schema-org/Relation/has/has_illustrator.internal.md) 
+### #is_/same_as :: [has_illustrator.internal](/_internal/schema-org/Relation/has/has_illustrator.internal.md) 
 
-### [has_illustrator.protect](/_protect/schema-org/Relation/has/has_illustrator.protect.md) 
+### #is_/same_as :: [has_illustrator.protect](/_protect/schema-org/Relation/has/has_illustrator.protect.md) 
 
-### [has_illustrator.private](/_private/schema-org/Relation/has/has_illustrator.private.md) 
+### #is_/same_as :: [has_illustrator.private](/_private/schema-org/Relation/has/has_illustrator.private.md) 
 
-### [has_illustrator.personal](/_personal/schema-org/Relation/has/has_illustrator.personal.md) 
+### #is_/same_as :: [has_illustrator.personal](/_personal/schema-org/Relation/has/has_illustrator.personal.md) 
 
-### [has_illustrator.secret](/_secret/schema-org/Relation/has/has_illustrator.secret.md)
+### #is_/same_as :: [has_illustrator.secret](/_secret/schema-org/Relation/has/has_illustrator.secret.md)
 

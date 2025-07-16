@@ -47,17 +47,17 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 ## Confidential Links & Embeds: 
 
-### [otolaryngologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.md) 
+### #is_/same_as :: [otolaryngologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.md) 
 
-### [otolaryngologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.public.md) 
+### #is_/same_as :: [otolaryngologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.public.md) 
 
-### [otolaryngologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md) 
+### #is_/same_as :: [otolaryngologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md) 
 
-### [otolaryngologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md) 
+### #is_/same_as :: [otolaryngologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md) 
 
-### [otolaryngologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.private.md) 
+### #is_/same_as :: [otolaryngologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.private.md) 
 
-### [otolaryngologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md) 
+### #is_/same_as :: [otolaryngologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md) 
 
-### [otolaryngologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md)
+### #is_/same_as :: [otolaryngologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md)
 

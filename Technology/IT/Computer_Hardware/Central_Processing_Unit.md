@@ -16,23 +16,19 @@ has_id_wikidata: Q5300
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20processing%20unit) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Central_Processing_Unit](/_Standards/Technology/IT/Computer_Hardware/Central_Processing_Unit.md) 
+### #is_/same_as :: [Central_Processing_Unit](/_Standards/Technology/IT/Computer_Hardware/Central_Processing_Unit.md) 
 
-### [Central_Processing_Unit.public](/_public/Technology/IT/Computer_Hardware/Central_Processing_Unit.public.md) 
+### #is_/same_as :: [Central_Processing_Unit.public](/_public/Technology/IT/Computer_Hardware/Central_Processing_Unit.public.md) 
 
-### [Central_Processing_Unit.internal](/_internal/Technology/IT/Computer_Hardware/Central_Processing_Unit.internal.md) 
+### #is_/same_as :: [Central_Processing_Unit.internal](/_internal/Technology/IT/Computer_Hardware/Central_Processing_Unit.internal.md) 
 
-### [Central_Processing_Unit.protect](/_protect/Technology/IT/Computer_Hardware/Central_Processing_Unit.protect.md) 
+### #is_/same_as :: [Central_Processing_Unit.protect](/_protect/Technology/IT/Computer_Hardware/Central_Processing_Unit.protect.md) 
 
-### [Central_Processing_Unit.private](/_private/Technology/IT/Computer_Hardware/Central_Processing_Unit.private.md) 
+### #is_/same_as :: [Central_Processing_Unit.private](/_private/Technology/IT/Computer_Hardware/Central_Processing_Unit.private.md) 
 
-### [Central_Processing_Unit.personal](/_personal/Technology/IT/Computer_Hardware/Central_Processing_Unit.personal.md) 
+### #is_/same_as :: [Central_Processing_Unit.personal](/_personal/Technology/IT/Computer_Hardware/Central_Processing_Unit.personal.md) 
 
-### [Central_Processing_Unit.secret](/_secret/Technology/IT/Computer_Hardware/Central_Processing_Unit.secret.md)
+### #is_/same_as :: [Central_Processing_Unit.secret](/_secret/Technology/IT/Computer_Hardware/Central_Processing_Unit.secret.md)
 

@@ -35,17 +35,17 @@ Event type: Festival.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Festival](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.md) 
+### #is_/same_as :: [FileClass~Festival](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.md) 
 
-### [FileClass~Festival.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.public.md) 
+### #is_/same_as :: [FileClass~Festival.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.public.md) 
 
-### [FileClass~Festival.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.internal.md) 
+### #is_/same_as :: [FileClass~Festival.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.internal.md) 
 
-### [FileClass~Festival.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.protect.md) 
+### #is_/same_as :: [FileClass~Festival.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.protect.md) 
 
-### [FileClass~Festival.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.private.md) 
+### #is_/same_as :: [FileClass~Festival.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.private.md) 
 
-### [FileClass~Festival.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.personal.md) 
+### #is_/same_as :: [FileClass~Festival.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.personal.md) 
 
-### [FileClass~Festival.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.secret.md)
+### #is_/same_as :: [FileClass~Festival.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.secret.md)
 

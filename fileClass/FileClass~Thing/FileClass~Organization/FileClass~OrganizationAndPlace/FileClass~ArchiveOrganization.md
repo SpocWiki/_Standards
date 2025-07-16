@@ -46,17 +46,17 @@ ArchiveHeld:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArchiveOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.md) 
+### #is_/same_as :: [FileClass~ArchiveOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.md) 
 
-### [FileClass~ArchiveOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.public.md) 
+### #is_/same_as :: [FileClass~ArchiveOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.public.md) 
 
-### [FileClass~ArchiveOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.internal.md) 
+### #is_/same_as :: [FileClass~ArchiveOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.internal.md) 
 
-### [FileClass~ArchiveOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.protect.md) 
+### #is_/same_as :: [FileClass~ArchiveOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.protect.md) 
 
-### [FileClass~ArchiveOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.private.md) 
+### #is_/same_as :: [FileClass~ArchiveOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.private.md) 
 
-### [FileClass~ArchiveOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.personal.md) 
+### #is_/same_as :: [FileClass~ArchiveOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.personal.md) 
 
-### [FileClass~ArchiveOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.secret.md)
+### #is_/same_as :: [FileClass~ArchiveOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.secret.md)
 

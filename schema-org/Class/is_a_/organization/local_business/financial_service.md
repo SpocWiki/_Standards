@@ -47,17 +47,17 @@ Financial services business.
 
 ## Confidential Links & Embeds: 
 
-### [financial_service](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service.md) 
+### #is_/same_as :: [financial_service](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service.md) 
 
-### [financial_service.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service.public.md) 
+### #is_/same_as :: [financial_service.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service.public.md) 
 
-### [financial_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service.internal.md) 
+### #is_/same_as :: [financial_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service.internal.md) 
 
-### [financial_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service.protect.md) 
+### #is_/same_as :: [financial_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service.protect.md) 
 
-### [financial_service.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service.private.md) 
+### #is_/same_as :: [financial_service.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service.private.md) 
 
-### [financial_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service.personal.md) 
+### #is_/same_as :: [financial_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service.personal.md) 
 
-### [financial_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service.secret.md)
+### #is_/same_as :: [financial_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service.secret.md)
 

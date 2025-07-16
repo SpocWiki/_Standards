@@ -47,17 +47,17 @@ Any physical activity engaged in for recreational purposes. Examples may include
 
 ## Confidential Links & Embeds: 
 
-### [leisure_time_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.md) 
+### #is_/same_as :: [leisure_time_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.md) 
 
-### [leisure_time_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.public.md) 
+### #is_/same_as :: [leisure_time_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.public.md) 
 
-### [leisure_time_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.internal.md) 
+### #is_/same_as :: [leisure_time_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.internal.md) 
 
-### [leisure_time_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.protect.md) 
+### #is_/same_as :: [leisure_time_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.protect.md) 
 
-### [leisure_time_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.private.md) 
+### #is_/same_as :: [leisure_time_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.private.md) 
 
-### [leisure_time_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.personal.md) 
+### #is_/same_as :: [leisure_time_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.personal.md) 
 
-### [leisure_time_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.secret.md)
+### #is_/same_as :: [leisure_time_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.secret.md)
 

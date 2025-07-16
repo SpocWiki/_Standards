@@ -46,17 +46,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [taxon](/_Standards/schema-org/Class/is_a_/taxon.md) 
+### #is_/same_as :: [taxon](/_Standards/schema-org/Class/is_a_/taxon.md) 
 
-### [taxon.public](/_public/schema-org/Class/is_a_/taxon.public.md) 
+### #is_/same_as :: [taxon.public](/_public/schema-org/Class/is_a_/taxon.public.md) 
 
-### [taxon.internal](/_internal/schema-org/Class/is_a_/taxon.internal.md) 
+### #is_/same_as :: [taxon.internal](/_internal/schema-org/Class/is_a_/taxon.internal.md) 
 
-### [taxon.protect](/_protect/schema-org/Class/is_a_/taxon.protect.md) 
+### #is_/same_as :: [taxon.protect](/_protect/schema-org/Class/is_a_/taxon.protect.md) 
 
-### [taxon.private](/_private/schema-org/Class/is_a_/taxon.private.md) 
+### #is_/same_as :: [taxon.private](/_private/schema-org/Class/is_a_/taxon.private.md) 
 
-### [taxon.personal](/_personal/schema-org/Class/is_a_/taxon.personal.md) 
+### #is_/same_as :: [taxon.personal](/_personal/schema-org/Class/is_a_/taxon.personal.md) 
 
-### [taxon.secret](/_secret/schema-org/Class/is_a_/taxon.secret.md)
+### #is_/same_as :: [taxon.secret](/_secret/schema-org/Class/is_a_/taxon.secret.md)
 

@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_account_minimum_inflow](/_Standards/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.md) 
+### #is_/same_as :: [has_value_for_account_minimum_inflow](/_Standards/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.md) 
 
-### [has_value_for_account_minimum_inflow.public](/_public/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.public.md) 
+### #is_/same_as :: [has_value_for_account_minimum_inflow.public](/_public/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.public.md) 
 
-### [has_value_for_account_minimum_inflow.internal](/_internal/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.internal.md) 
+### #is_/same_as :: [has_value_for_account_minimum_inflow.internal](/_internal/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.internal.md) 
 
-### [has_value_for_account_minimum_inflow.protect](/_protect/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.protect.md) 
+### #is_/same_as :: [has_value_for_account_minimum_inflow.protect](/_protect/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.protect.md) 
 
-### [has_value_for_account_minimum_inflow.private](/_private/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.private.md) 
+### #is_/same_as :: [has_value_for_account_minimum_inflow.private](/_private/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.private.md) 
 
-### [has_value_for_account_minimum_inflow.personal](/_personal/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.personal.md) 
+### #is_/same_as :: [has_value_for_account_minimum_inflow.personal](/_personal/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.personal.md) 
 
-### [has_value_for_account_minimum_inflow.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.secret.md)
+### #is_/same_as :: [has_value_for_account_minimum_inflow.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.secret.md)
 

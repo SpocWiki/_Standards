@@ -101,22 +101,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pseudotsuga](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.md) 
+### #is_/same_as :: [Pseudotsuga](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.md) 
 
-### [Pseudotsuga.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.public.md) 
+### #is_/same_as :: [Pseudotsuga.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.public.md) 
 
-### [Pseudotsuga.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.internal.md) 
+### #is_/same_as :: [Pseudotsuga.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.internal.md) 
 
-### [Pseudotsuga.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.protect.md) 
+### #is_/same_as :: [Pseudotsuga.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.protect.md) 
 
-### [Pseudotsuga.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.private.md) 
+### #is_/same_as :: [Pseudotsuga.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.private.md) 
 
-### [Pseudotsuga.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.personal.md) 
+### #is_/same_as :: [Pseudotsuga.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.personal.md) 
 
-### [Pseudotsuga.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.secret.md)
+### #is_/same_as :: [Pseudotsuga.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pseudotsuga.secret.md)
 

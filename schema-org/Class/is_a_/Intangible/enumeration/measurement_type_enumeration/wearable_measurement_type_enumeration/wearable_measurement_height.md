@@ -49,17 +49,17 @@ Measurement of the height, for example the heel height of a shoe
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_height](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.md) 
+### #is_/same_as :: [wearable_measurement_height](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.md) 
 
-### [wearable_measurement_height.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.public.md) 
+### #is_/same_as :: [wearable_measurement_height.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.public.md) 
 
-### [wearable_measurement_height.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.internal.md) 
+### #is_/same_as :: [wearable_measurement_height.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.internal.md) 
 
-### [wearable_measurement_height.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.protect.md) 
+### #is_/same_as :: [wearable_measurement_height.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.protect.md) 
 
-### [wearable_measurement_height.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.private.md) 
+### #is_/same_as :: [wearable_measurement_height.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.private.md) 
 
-### [wearable_measurement_height.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.personal.md) 
+### #is_/same_as :: [wearable_measurement_height.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.personal.md) 
 
-### [wearable_measurement_height.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.secret.md)
+### #is_/same_as :: [wearable_measurement_height.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.secret.md)
 

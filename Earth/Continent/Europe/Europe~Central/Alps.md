@@ -51,21 +51,19 @@ Commons_category: Gunpowder
 > [Wikipedia](https://en.wikipedia.org/wiki/Alps) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Alps](/_Standards/Earth/Continent/Europe/Europe~Central/Alps.md) 
+### #is_/same_as :: [Alps](/_Standards/Earth/Continent/Europe/Europe~Central/Alps.md) 
 
-### [Alps.public](/_public/Earth/Continent/Europe/Europe~Central/Alps.public.md) 
+### #is_/same_as :: [Alps.public](/_public/Earth/Continent/Europe/Europe~Central/Alps.public.md) 
 
-### [Alps.internal](/_internal/Earth/Continent/Europe/Europe~Central/Alps.internal.md) 
+### #is_/same_as :: [Alps.internal](/_internal/Earth/Continent/Europe/Europe~Central/Alps.internal.md) 
 
-### [Alps.protect](/_protect/Earth/Continent/Europe/Europe~Central/Alps.protect.md) 
+### #is_/same_as :: [Alps.protect](/_protect/Earth/Continent/Europe/Europe~Central/Alps.protect.md) 
 
-### [Alps.private](/_private/Earth/Continent/Europe/Europe~Central/Alps.private.md) 
+### #is_/same_as :: [Alps.private](/_private/Earth/Continent/Europe/Europe~Central/Alps.private.md) 
 
-### [Alps.personal](/_personal/Earth/Continent/Europe/Europe~Central/Alps.personal.md) 
+### #is_/same_as :: [Alps.personal](/_personal/Earth/Continent/Europe/Europe~Central/Alps.personal.md) 
 
-### [Alps.secret](/_secret/Earth/Continent/Europe/Europe~Central/Alps.secret.md)
+### #is_/same_as :: [Alps.secret](/_secret/Earth/Continent/Europe/Europe~Central/Alps.secret.md)
 

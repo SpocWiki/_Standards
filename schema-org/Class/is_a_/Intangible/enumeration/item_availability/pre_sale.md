@@ -47,17 +47,17 @@ Indicates that the item is available for ordering and delivery before general av
 
 ## Confidential Links & Embeds: 
 
-### [pre_sale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.md) 
+### #is_/same_as :: [pre_sale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.md) 
 
-### [pre_sale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.public.md) 
+### #is_/same_as :: [pre_sale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.public.md) 
 
-### [pre_sale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.internal.md) 
+### #is_/same_as :: [pre_sale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.internal.md) 
 
-### [pre_sale.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.protect.md) 
+### #is_/same_as :: [pre_sale.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.protect.md) 
 
-### [pre_sale.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.private.md) 
+### #is_/same_as :: [pre_sale.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.private.md) 
 
-### [pre_sale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.personal.md) 
+### #is_/same_as :: [pre_sale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.personal.md) 
 
-### [pre_sale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.secret.md)
+### #is_/same_as :: [pre_sale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.secret.md)
 

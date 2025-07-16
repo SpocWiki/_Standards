@@ -86,17 +86,17 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### [Acontiaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.md) 
+### #is_/same_as :: [Acontiaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.md) 
 
-### [Acontiaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.public.md) 
+### #is_/same_as :: [Acontiaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.public.md) 
 
-### [Acontiaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.internal.md) 
+### #is_/same_as :: [Acontiaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.internal.md) 
 
-### [Acontiaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.protect.md) 
+### #is_/same_as :: [Acontiaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.protect.md) 
 
-### [Acontiaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.private.md) 
+### #is_/same_as :: [Acontiaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.private.md) 
 
-### [Acontiaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.personal.md) 
+### #is_/same_as :: [Acontiaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.personal.md) 
 
-### [Acontiaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.secret.md)
+### #is_/same_as :: [Acontiaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.secret.md)
 

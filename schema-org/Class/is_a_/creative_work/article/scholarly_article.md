@@ -47,17 +47,17 @@ A scholarly article.
 
 ## Confidential Links & Embeds: 
 
-### [scholarly_article](/_Standards/schema-org/Class/is_a_/creative_work/article/scholarly_article.md) 
+### #is_/same_as :: [scholarly_article](/_Standards/schema-org/Class/is_a_/creative_work/article/scholarly_article.md) 
 
-### [scholarly_article.public](/_public/schema-org/Class/is_a_/creative_work/article/scholarly_article.public.md) 
+### #is_/same_as :: [scholarly_article.public](/_public/schema-org/Class/is_a_/creative_work/article/scholarly_article.public.md) 
 
-### [scholarly_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/scholarly_article.internal.md) 
+### #is_/same_as :: [scholarly_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/scholarly_article.internal.md) 
 
-### [scholarly_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/scholarly_article.protect.md) 
+### #is_/same_as :: [scholarly_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/scholarly_article.protect.md) 
 
-### [scholarly_article.private](/_private/schema-org/Class/is_a_/creative_work/article/scholarly_article.private.md) 
+### #is_/same_as :: [scholarly_article.private](/_private/schema-org/Class/is_a_/creative_work/article/scholarly_article.private.md) 
 
-### [scholarly_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/scholarly_article.personal.md) 
+### #is_/same_as :: [scholarly_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/scholarly_article.personal.md) 
 
-### [scholarly_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/scholarly_article.secret.md)
+### #is_/same_as :: [scholarly_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/scholarly_article.secret.md)
 

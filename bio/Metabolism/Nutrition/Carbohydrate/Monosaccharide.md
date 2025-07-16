@@ -44,21 +44,19 @@
 [[Monosaccharide/Galactose]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Monosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.md) 
+### #is_/same_as :: [Monosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.md) 
 
-### [Monosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.public.md) 
+### #is_/same_as :: [Monosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.public.md) 
 
-### [Monosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.internal.md) 
+### #is_/same_as :: [Monosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.internal.md) 
 
-### [Monosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.protect.md) 
+### #is_/same_as :: [Monosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.protect.md) 
 
-### [Monosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.private.md) 
+### #is_/same_as :: [Monosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.private.md) 
 
-### [Monosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.personal.md) 
+### #is_/same_as :: [Monosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.personal.md) 
 
-### [Monosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.secret.md)
+### #is_/same_as :: [Monosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.secret.md)
 

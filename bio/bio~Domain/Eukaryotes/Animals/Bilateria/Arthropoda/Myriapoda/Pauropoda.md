@@ -104,20 +104,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Pauropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.md) 
+### #is_/same_as :: [Pauropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.md) 
 
-### [Pauropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.public.md) 
+### #is_/same_as :: [Pauropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.public.md) 
 
-### [Pauropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.internal.md) 
+### #is_/same_as :: [Pauropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.internal.md) 
 
-### [Pauropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.protect.md) 
+### #is_/same_as :: [Pauropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.protect.md) 
 
-### [Pauropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.private.md) 
+### #is_/same_as :: [Pauropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.private.md) 
 
-### [Pauropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.personal.md) 
+### #is_/same_as :: [Pauropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.personal.md) 
 
-### [Pauropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.secret.md)
+### #is_/same_as :: [Pauropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda.secret.md)
 

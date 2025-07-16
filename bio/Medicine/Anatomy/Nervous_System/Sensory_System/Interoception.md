@@ -11,21 +11,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Interoception) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Interoception](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.md) 
+### #is_/same_as :: [Interoception](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.md) 
 
-### [Interoception.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.public.md) 
+### #is_/same_as :: [Interoception.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.public.md) 
 
-### [Interoception.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.internal.md) 
+### #is_/same_as :: [Interoception.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.internal.md) 
 
-### [Interoception.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.protect.md) 
+### #is_/same_as :: [Interoception.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.protect.md) 
 
-### [Interoception.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.private.md) 
+### #is_/same_as :: [Interoception.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.private.md) 
 
-### [Interoception.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.personal.md) 
+### #is_/same_as :: [Interoception.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.personal.md) 
 
-### [Interoception.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.secret.md)
+### #is_/same_as :: [Interoception.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Interoception.secret.md)
 

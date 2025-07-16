@@ -47,17 +47,17 @@ A specific branch of medical science that is concerned with the study of the cau
 
 ## Confidential Links & Embeds: 
 
-### [pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.md) 
+### #is_/same_as :: [pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.md) 
 
-### [pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.public.md) 
+### #is_/same_as :: [pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.public.md) 
 
-### [pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.internal.md) 
+### #is_/same_as :: [pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.internal.md) 
 
-### [pathology.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.protect.md) 
+### #is_/same_as :: [pathology.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.protect.md) 
 
-### [pathology.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.private.md) 
+### #is_/same_as :: [pathology.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.private.md) 
 
-### [pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.personal.md) 
+### #is_/same_as :: [pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.personal.md) 
 
-### [pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.secret.md)
+### #is_/same_as :: [pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.secret.md)
 

@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Lower_Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.md) 
+### #is_/same_as :: [Lower_Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.md) 
 
-### [Lower_Paleolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.public.md) 
+### #is_/same_as :: [Lower_Paleolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.public.md) 
 
-### [Lower_Paleolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.internal.md) 
+### #is_/same_as :: [Lower_Paleolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.internal.md) 
 
-### [Lower_Paleolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.protect.md) 
+### #is_/same_as :: [Lower_Paleolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.protect.md) 
 
-### [Lower_Paleolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.private.md) 
+### #is_/same_as :: [Lower_Paleolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.private.md) 
 
-### [Lower_Paleolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.personal.md) 
+### #is_/same_as :: [Lower_Paleolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.personal.md) 
 
-### [Lower_Paleolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.secret.md)
+### #is_/same_as :: [Lower_Paleolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.secret.md)
 

@@ -19,17 +19,17 @@ The Distribution depends on the Elements' Character:
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Temperature](/_Standards/Dimension/Dim~Temperature.md) 
+### #is_/same_as :: [Dim~Temperature](/_Standards/Dimension/Dim~Temperature.md) 
 
-### [Dim~Temperature.public](/_public/Dimension/Dim~Temperature.public.md) 
+### #is_/same_as :: [Dim~Temperature.public](/_public/Dimension/Dim~Temperature.public.md) 
 
-### [Dim~Temperature.internal](/_internal/Dimension/Dim~Temperature.internal.md) 
+### #is_/same_as :: [Dim~Temperature.internal](/_internal/Dimension/Dim~Temperature.internal.md) 
 
-### [Dim~Temperature.protect](/_protect/Dimension/Dim~Temperature.protect.md) 
+### #is_/same_as :: [Dim~Temperature.protect](/_protect/Dimension/Dim~Temperature.protect.md) 
 
-### [Dim~Temperature.private](/_private/Dimension/Dim~Temperature.private.md) 
+### #is_/same_as :: [Dim~Temperature.private](/_private/Dimension/Dim~Temperature.private.md) 
 
-### [Dim~Temperature.personal](/_personal/Dimension/Dim~Temperature.personal.md) 
+### #is_/same_as :: [Dim~Temperature.personal](/_personal/Dimension/Dim~Temperature.personal.md) 
 
-### [Dim~Temperature.secret](/_secret/Dimension/Dim~Temperature.secret.md)
+### #is_/same_as :: [Dim~Temperature.secret](/_secret/Dimension/Dim~Temperature.secret.md)
 

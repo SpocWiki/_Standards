@@ -52,17 +52,17 @@ Note that the application of these codes is with regard to a piece of media shar
 
 ## Confidential Links & Embeds: 
 
-### [media_manipulation_rating_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.md) 
+### #is_/same_as :: [media_manipulation_rating_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.md) 
 
-### [media_manipulation_rating_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.public.md) 
+### #is_/same_as :: [media_manipulation_rating_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.public.md) 
 
-### [media_manipulation_rating_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.internal.md) 
+### #is_/same_as :: [media_manipulation_rating_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.internal.md) 
 
-### [media_manipulation_rating_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.protect.md) 
+### #is_/same_as :: [media_manipulation_rating_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.protect.md) 
 
-### [media_manipulation_rating_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.private.md) 
+### #is_/same_as :: [media_manipulation_rating_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.private.md) 
 
-### [media_manipulation_rating_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.personal.md) 
+### #is_/same_as :: [media_manipulation_rating_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.personal.md) 
 
-### [media_manipulation_rating_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.secret.md)
+### #is_/same_as :: [media_manipulation_rating_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.secret.md)
 

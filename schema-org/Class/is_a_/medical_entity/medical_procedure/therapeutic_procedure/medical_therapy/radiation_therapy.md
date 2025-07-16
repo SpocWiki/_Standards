@@ -45,17 +45,17 @@ A process of care using radiation aimed at improving a health condition.
 
 ## Confidential Links & Embeds: 
 
-### [radiation_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.md) 
+### #is_/same_as :: [radiation_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.md) 
 
-### [radiation_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.public.md) 
+### #is_/same_as :: [radiation_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.public.md) 
 
-### [radiation_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.internal.md) 
+### #is_/same_as :: [radiation_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.internal.md) 
 
-### [radiation_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.protect.md) 
+### #is_/same_as :: [radiation_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.protect.md) 
 
-### [radiation_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.private.md) 
+### #is_/same_as :: [radiation_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.private.md) 
 
-### [radiation_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.personal.md) 
+### #is_/same_as :: [radiation_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.personal.md) 
 
-### [radiation_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.secret.md)
+### #is_/same_as :: [radiation_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.secret.md)
 

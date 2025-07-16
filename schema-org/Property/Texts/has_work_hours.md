@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_work_hours](/_Standards/schema-org/Property/Texts/has_work_hours.md) 
+### #is_/same_as :: [has_work_hours](/_Standards/schema-org/Property/Texts/has_work_hours.md) 
 
-### [has_work_hours.public](/_public/schema-org/Property/Texts/has_work_hours.public.md) 
+### #is_/same_as :: [has_work_hours.public](/_public/schema-org/Property/Texts/has_work_hours.public.md) 
 
-### [has_work_hours.internal](/_internal/schema-org/Property/Texts/has_work_hours.internal.md) 
+### #is_/same_as :: [has_work_hours.internal](/_internal/schema-org/Property/Texts/has_work_hours.internal.md) 
 
-### [has_work_hours.protect](/_protect/schema-org/Property/Texts/has_work_hours.protect.md) 
+### #is_/same_as :: [has_work_hours.protect](/_protect/schema-org/Property/Texts/has_work_hours.protect.md) 
 
-### [has_work_hours.private](/_private/schema-org/Property/Texts/has_work_hours.private.md) 
+### #is_/same_as :: [has_work_hours.private](/_private/schema-org/Property/Texts/has_work_hours.private.md) 
 
-### [has_work_hours.personal](/_personal/schema-org/Property/Texts/has_work_hours.personal.md) 
+### #is_/same_as :: [has_work_hours.personal](/_personal/schema-org/Property/Texts/has_work_hours.personal.md) 
 
-### [has_work_hours.secret](/_secret/schema-org/Property/Texts/has_work_hours.secret.md)
+### #is_/same_as :: [has_work_hours.secret](/_secret/schema-org/Property/Texts/has_work_hours.secret.md)
 

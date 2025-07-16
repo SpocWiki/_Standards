@@ -63,17 +63,17 @@ GOST_7_75_97_code: "дра 185"
 
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Dravidian](/_Standards/Language/Lang~Family/LangFamily-Dravidian.md) 
+### #is_/same_as :: [LangFamily-Dravidian](/_Standards/Language/Lang~Family/LangFamily-Dravidian.md) 
 
-### [LangFamily-Dravidian.public](/_public/Language/Lang~Family/LangFamily-Dravidian.public.md) 
+### #is_/same_as :: [LangFamily-Dravidian.public](/_public/Language/Lang~Family/LangFamily-Dravidian.public.md) 
 
-### [LangFamily-Dravidian.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian.internal.md) 
+### #is_/same_as :: [LangFamily-Dravidian.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian.internal.md) 
 
-### [LangFamily-Dravidian.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian.protect.md) 
+### #is_/same_as :: [LangFamily-Dravidian.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian.protect.md) 
 
-### [LangFamily-Dravidian.private](/_private/Language/Lang~Family/LangFamily-Dravidian.private.md) 
+### #is_/same_as :: [LangFamily-Dravidian.private](/_private/Language/Lang~Family/LangFamily-Dravidian.private.md) 
 
-### [LangFamily-Dravidian.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian.personal.md) 
+### #is_/same_as :: [LangFamily-Dravidian.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian.personal.md) 
 
-### [LangFamily-Dravidian.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian.secret.md)
+### #is_/same_as :: [LangFamily-Dravidian.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian.secret.md)
 

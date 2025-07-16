@@ -45,17 +45,17 @@ A bike store.
 
 ## Confidential Links & Embeds: 
 
-### [bike_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/bike_store.md) 
+### #is_/same_as :: [bike_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/bike_store.md) 
 
-### [bike_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/bike_store.public.md) 
+### #is_/same_as :: [bike_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/bike_store.public.md) 
 
-### [bike_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/bike_store.internal.md) 
+### #is_/same_as :: [bike_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/bike_store.internal.md) 
 
-### [bike_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/bike_store.protect.md) 
+### #is_/same_as :: [bike_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/bike_store.protect.md) 
 
-### [bike_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/bike_store.private.md) 
+### #is_/same_as :: [bike_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/bike_store.private.md) 
 
-### [bike_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/bike_store.personal.md) 
+### #is_/same_as :: [bike_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/bike_store.personal.md) 
 
-### [bike_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/bike_store.secret.md)
+### #is_/same_as :: [bike_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/bike_store.secret.md)
 

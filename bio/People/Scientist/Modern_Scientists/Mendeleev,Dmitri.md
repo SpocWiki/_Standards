@@ -23,21 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dmitri%20Mendeleev)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Mendeleev,Dmitri](/_Standards/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.md) 
+### #is_/same_as :: [Mendeleev,Dmitri](/_Standards/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.md) 
 
-### [Mendeleev,Dmitri.public](/_public/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.public.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.public](/_public/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.public.md) 
 
-### [Mendeleev,Dmitri.internal](/_internal/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.internal.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.internal](/_internal/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.internal.md) 
 
-### [Mendeleev,Dmitri.protect](/_protect/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.protect.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.protect](/_protect/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.protect.md) 
 
-### [Mendeleev,Dmitri.private](/_private/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.private.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.private](/_private/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.private.md) 
 
-### [Mendeleev,Dmitri.personal](/_personal/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.personal.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.personal](/_personal/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.personal.md) 
 
-### [Mendeleev,Dmitri.secret](/_secret/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.secret.md)
+### #is_/same_as :: [Mendeleev,Dmitri.secret](/_secret/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.secret.md)
 

@@ -45,17 +45,17 @@ Auto body shop.
 
 ## Confidential Links & Embeds: 
 
-### [auto_body_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.md) 
+### #is_/same_as :: [auto_body_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.md) 
 
-### [auto_body_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.public.md) 
+### #is_/same_as :: [auto_body_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.public.md) 
 
-### [auto_body_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.internal.md) 
+### #is_/same_as :: [auto_body_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.internal.md) 
 
-### [auto_body_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.protect.md) 
+### #is_/same_as :: [auto_body_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.protect.md) 
 
-### [auto_body_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.private.md) 
+### #is_/same_as :: [auto_body_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.private.md) 
 
-### [auto_body_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.personal.md) 
+### #is_/same_as :: [auto_body_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.personal.md) 
 
-### [auto_body_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.secret.md)
+### #is_/same_as :: [auto_body_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_body_shop.secret.md)
 

@@ -45,23 +45,19 @@ CXSMILES: "OC([*])=O |$;;R;$|"
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatty%20acid)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fatty_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid.md) 
+### #is_/same_as :: [Fatty_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid.md) 
 
-### [Fatty_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid.public.md) 
+### #is_/same_as :: [Fatty_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid.public.md) 
 
-### [Fatty_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.internal.md) 
+### #is_/same_as :: [Fatty_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.internal.md) 
 
-### [Fatty_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid.protect.md) 
+### #is_/same_as :: [Fatty_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid.protect.md) 
 
-### [Fatty_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid.private.md) 
+### #is_/same_as :: [Fatty_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid.private.md) 
 
-### [Fatty_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.personal.md) 
+### #is_/same_as :: [Fatty_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.personal.md) 
 
-### [Fatty_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid.secret.md)
+### #is_/same_as :: [Fatty_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid.secret.md)
 

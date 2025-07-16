@@ -45,17 +45,17 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 ## Confidential Links & Embeds: 
 
-### [occupational_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md) 
+### #is_/same_as :: [occupational_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md) 
 
-### [occupational_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.public.md) 
+### #is_/same_as :: [occupational_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.public.md) 
 
-### [occupational_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.internal.md) 
+### #is_/same_as :: [occupational_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.internal.md) 
 
-### [occupational_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.protect.md) 
+### #is_/same_as :: [occupational_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.protect.md) 
 
-### [occupational_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.private.md) 
+### #is_/same_as :: [occupational_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.private.md) 
 
-### [occupational_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.personal.md) 
+### #is_/same_as :: [occupational_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.personal.md) 
 
-### [occupational_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.secret.md)
+### #is_/same_as :: [occupational_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.secret.md)
 

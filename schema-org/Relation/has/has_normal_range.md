@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_normal_range](/_Standards/schema-org/Relation/has/has_normal_range.md) 
+### #is_/same_as :: [has_normal_range](/_Standards/schema-org/Relation/has/has_normal_range.md) 
 
-### [has_normal_range.public](/_public/schema-org/Relation/has/has_normal_range.public.md) 
+### #is_/same_as :: [has_normal_range.public](/_public/schema-org/Relation/has/has_normal_range.public.md) 
 
-### [has_normal_range.internal](/_internal/schema-org/Relation/has/has_normal_range.internal.md) 
+### #is_/same_as :: [has_normal_range.internal](/_internal/schema-org/Relation/has/has_normal_range.internal.md) 
 
-### [has_normal_range.protect](/_protect/schema-org/Relation/has/has_normal_range.protect.md) 
+### #is_/same_as :: [has_normal_range.protect](/_protect/schema-org/Relation/has/has_normal_range.protect.md) 
 
-### [has_normal_range.private](/_private/schema-org/Relation/has/has_normal_range.private.md) 
+### #is_/same_as :: [has_normal_range.private](/_private/schema-org/Relation/has/has_normal_range.private.md) 
 
-### [has_normal_range.personal](/_personal/schema-org/Relation/has/has_normal_range.personal.md) 
+### #is_/same_as :: [has_normal_range.personal](/_personal/schema-org/Relation/has/has_normal_range.personal.md) 
 
-### [has_normal_range.secret](/_secret/schema-org/Relation/has/has_normal_range.secret.md)
+### #is_/same_as :: [has_normal_range.secret](/_secret/schema-org/Relation/has/has_normal_range.secret.md)
 

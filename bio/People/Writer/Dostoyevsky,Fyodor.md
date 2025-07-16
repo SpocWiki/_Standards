@@ -207,21 +207,19 @@ NLC_authorities: 000082679
 > [Wikipedia](https://en.wikipedia.org/wiki/Fyodor%20Dostoevsky)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dostoyevsky,Fyodor](/_Standards/bio/People/Writer/Dostoyevsky,Fyodor.md) 
+### #is_/same_as :: [Dostoyevsky,Fyodor](/_Standards/bio/People/Writer/Dostoyevsky,Fyodor.md) 
 
-### [Dostoyevsky,Fyodor.public](/_public/bio/People/Writer/Dostoyevsky,Fyodor.public.md) 
+### #is_/same_as :: [Dostoyevsky,Fyodor.public](/_public/bio/People/Writer/Dostoyevsky,Fyodor.public.md) 
 
-### [Dostoyevsky,Fyodor.internal](/_internal/bio/People/Writer/Dostoyevsky,Fyodor.internal.md) 
+### #is_/same_as :: [Dostoyevsky,Fyodor.internal](/_internal/bio/People/Writer/Dostoyevsky,Fyodor.internal.md) 
 
-### [Dostoyevsky,Fyodor.protect](/_protect/bio/People/Writer/Dostoyevsky,Fyodor.protect.md) 
+### #is_/same_as :: [Dostoyevsky,Fyodor.protect](/_protect/bio/People/Writer/Dostoyevsky,Fyodor.protect.md) 
 
-### [Dostoyevsky,Fyodor.private](/_private/bio/People/Writer/Dostoyevsky,Fyodor.private.md) 
+### #is_/same_as :: [Dostoyevsky,Fyodor.private](/_private/bio/People/Writer/Dostoyevsky,Fyodor.private.md) 
 
-### [Dostoyevsky,Fyodor.personal](/_personal/bio/People/Writer/Dostoyevsky,Fyodor.personal.md) 
+### #is_/same_as :: [Dostoyevsky,Fyodor.personal](/_personal/bio/People/Writer/Dostoyevsky,Fyodor.personal.md) 
 
-### [Dostoyevsky,Fyodor.secret](/_secret/bio/People/Writer/Dostoyevsky,Fyodor.secret.md)
+### #is_/same_as :: [Dostoyevsky,Fyodor.secret](/_secret/bio/People/Writer/Dostoyevsky,Fyodor.secret.md)
 

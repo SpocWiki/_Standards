@@ -18,22 +18,19 @@ has_id_wikidata: Q12090
 > [Wikipedia](https://en.wikipedia.org/wiki/Cholera)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Cholera](/_Standards/bio/Medicine/Disease/Infectious_Disease/Cholera.md) 
+### #is_/same_as :: [Cholera](/_Standards/bio/Medicine/Disease/Infectious_Disease/Cholera.md) 
 
-### [Cholera.public](/_public/bio/Medicine/Disease/Infectious_Disease/Cholera.public.md) 
+### #is_/same_as :: [Cholera.public](/_public/bio/Medicine/Disease/Infectious_Disease/Cholera.public.md) 
 
-### [Cholera.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Cholera.internal.md) 
+### #is_/same_as :: [Cholera.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Cholera.internal.md) 
 
-### [Cholera.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Cholera.protect.md) 
+### #is_/same_as :: [Cholera.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Cholera.protect.md) 
 
-### [Cholera.private](/_private/bio/Medicine/Disease/Infectious_Disease/Cholera.private.md) 
+### #is_/same_as :: [Cholera.private](/_private/bio/Medicine/Disease/Infectious_Disease/Cholera.private.md) 
 
-### [Cholera.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Cholera.personal.md) 
+### #is_/same_as :: [Cholera.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Cholera.personal.md) 
 
-### [Cholera.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Cholera.secret.md)
+### #is_/same_as :: [Cholera.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Cholera.secret.md)
 

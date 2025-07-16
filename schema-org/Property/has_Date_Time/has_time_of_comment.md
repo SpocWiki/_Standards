@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_comment](/_Standards/schema-org/Property/has_Date_Time/has_time_of_comment.md) 
+### #is_/same_as :: [has_time_of_comment](/_Standards/schema-org/Property/has_Date_Time/has_time_of_comment.md) 
 
-### [has_time_of_comment.public](/_public/schema-org/Property/has_Date_Time/has_time_of_comment.public.md) 
+### #is_/same_as :: [has_time_of_comment.public](/_public/schema-org/Property/has_Date_Time/has_time_of_comment.public.md) 
 
-### [has_time_of_comment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_comment.internal.md) 
+### #is_/same_as :: [has_time_of_comment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_comment.internal.md) 
 
-### [has_time_of_comment.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_comment.protect.md) 
+### #is_/same_as :: [has_time_of_comment.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_comment.protect.md) 
 
-### [has_time_of_comment.private](/_private/schema-org/Property/has_Date_Time/has_time_of_comment.private.md) 
+### #is_/same_as :: [has_time_of_comment.private](/_private/schema-org/Property/has_Date_Time/has_time_of_comment.private.md) 
 
-### [has_time_of_comment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_comment.personal.md) 
+### #is_/same_as :: [has_time_of_comment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_comment.personal.md) 
 
-### [has_time_of_comment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_comment.secret.md)
+### #is_/same_as :: [has_time_of_comment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_comment.secret.md)
 

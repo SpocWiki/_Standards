@@ -49,17 +49,17 @@ Nonprofit501n: Non-profit type referring to Charitable Risk Pools.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501n](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.md) 
+### #is_/same_as :: [nonprofit501n](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.md) 
 
-### [nonprofit501n.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.public.md) 
+### #is_/same_as :: [nonprofit501n.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.public.md) 
 
-### [nonprofit501n.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.internal.md) 
+### #is_/same_as :: [nonprofit501n.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.internal.md) 
 
-### [nonprofit501n.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.protect.md) 
+### #is_/same_as :: [nonprofit501n.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.protect.md) 
 
-### [nonprofit501n.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.private.md) 
+### #is_/same_as :: [nonprofit501n.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.private.md) 
 
-### [nonprofit501n.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.personal.md) 
+### #is_/same_as :: [nonprofit501n.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.personal.md) 
 
-### [nonprofit501n.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.secret.md)
+### #is_/same_as :: [nonprofit501n.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.secret.md)
 

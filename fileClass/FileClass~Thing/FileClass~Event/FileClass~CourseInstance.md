@@ -77,17 +77,17 @@ Instructor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CourseInstance](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.md) 
+### #is_/same_as :: [FileClass~CourseInstance](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.md) 
 
-### [FileClass~CourseInstance.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.public.md) 
+### #is_/same_as :: [FileClass~CourseInstance.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.public.md) 
 
-### [FileClass~CourseInstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.internal.md) 
+### #is_/same_as :: [FileClass~CourseInstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.internal.md) 
 
-### [FileClass~CourseInstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.protect.md) 
+### #is_/same_as :: [FileClass~CourseInstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.protect.md) 
 
-### [FileClass~CourseInstance.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.private.md) 
+### #is_/same_as :: [FileClass~CourseInstance.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.private.md) 
 
-### [FileClass~CourseInstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.personal.md) 
+### #is_/same_as :: [FileClass~CourseInstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.personal.md) 
 
-### [FileClass~CourseInstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.secret.md)
+### #is_/same_as :: [FileClass~CourseInstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.secret.md)
 

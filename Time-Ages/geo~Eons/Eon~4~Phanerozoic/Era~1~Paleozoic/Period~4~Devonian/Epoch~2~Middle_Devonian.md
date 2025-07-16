@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Middle_Devonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.md) 
+### #is_/same_as :: [Epoch~2~Middle_Devonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.md) 
 
-### [Epoch~2~Middle_Devonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.public.md) 
+### #is_/same_as :: [Epoch~2~Middle_Devonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.public.md) 
 
-### [Epoch~2~Middle_Devonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.internal.md) 
+### #is_/same_as :: [Epoch~2~Middle_Devonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.internal.md) 
 
-### [Epoch~2~Middle_Devonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.protect.md) 
+### #is_/same_as :: [Epoch~2~Middle_Devonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.protect.md) 
 
-### [Epoch~2~Middle_Devonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.private.md) 
+### #is_/same_as :: [Epoch~2~Middle_Devonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.private.md) 
 
-### [Epoch~2~Middle_Devonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.personal.md) 
+### #is_/same_as :: [Epoch~2~Middle_Devonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.personal.md) 
 
-### [Epoch~2~Middle_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.secret.md)
+### #is_/same_as :: [Epoch~2~Middle_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.secret.md)
 

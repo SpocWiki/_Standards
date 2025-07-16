@@ -70,17 +70,17 @@ LiveBlogUpdate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LiveBlogPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.md) 
+### #is_/same_as :: [FileClass~LiveBlogPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.md) 
 
-### [FileClass~LiveBlogPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.public.md) 
+### #is_/same_as :: [FileClass~LiveBlogPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.public.md) 
 
-### [FileClass~LiveBlogPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.internal.md) 
+### #is_/same_as :: [FileClass~LiveBlogPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.internal.md) 
 
-### [FileClass~LiveBlogPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.protect.md) 
+### #is_/same_as :: [FileClass~LiveBlogPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.protect.md) 
 
-### [FileClass~LiveBlogPosting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.private.md) 
+### #is_/same_as :: [FileClass~LiveBlogPosting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.private.md) 
 
-### [FileClass~LiveBlogPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.personal.md) 
+### #is_/same_as :: [FileClass~LiveBlogPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.personal.md) 
 
-### [FileClass~LiveBlogPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.secret.md)
+### #is_/same_as :: [FileClass~LiveBlogPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.secret.md)
 

@@ -35,17 +35,17 @@ An eCommerce site.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OnlineStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.md) 
+### #is_/same_as :: [FileClass~OnlineStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.md) 
 
-### [FileClass~OnlineStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.public.md) 
+### #is_/same_as :: [FileClass~OnlineStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.public.md) 
 
-### [FileClass~OnlineStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.internal.md) 
+### #is_/same_as :: [FileClass~OnlineStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.internal.md) 
 
-### [FileClass~OnlineStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.protect.md) 
+### #is_/same_as :: [FileClass~OnlineStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.protect.md) 
 
-### [FileClass~OnlineStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.private.md) 
+### #is_/same_as :: [FileClass~OnlineStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.private.md) 
 
-### [FileClass~OnlineStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.personal.md) 
+### #is_/same_as :: [FileClass~OnlineStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.personal.md) 
 
-### [FileClass~OnlineStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.secret.md)
+### #is_/same_as :: [FileClass~OnlineStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.secret.md)
 

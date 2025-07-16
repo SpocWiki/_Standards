@@ -35,17 +35,17 @@ The act of manipulating/administering/supervising/controlling one or more object
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OrganizeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.md) 
+### #is_/same_as :: [FileClass~OrganizeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.md) 
 
-### [FileClass~OrganizeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.public.md) 
+### #is_/same_as :: [FileClass~OrganizeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.public.md) 
 
-### [FileClass~OrganizeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.internal.md) 
+### #is_/same_as :: [FileClass~OrganizeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.internal.md) 
 
-### [FileClass~OrganizeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.protect.md) 
+### #is_/same_as :: [FileClass~OrganizeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.protect.md) 
 
-### [FileClass~OrganizeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.private.md) 
+### #is_/same_as :: [FileClass~OrganizeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.private.md) 
 
-### [FileClass~OrganizeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.personal.md) 
+### #is_/same_as :: [FileClass~OrganizeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.personal.md) 
 
-### [FileClass~OrganizeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.secret.md)
+### #is_/same_as :: [FileClass~OrganizeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.secret.md)
 

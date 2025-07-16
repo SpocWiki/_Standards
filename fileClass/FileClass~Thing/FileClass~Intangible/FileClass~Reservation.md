@@ -169,17 +169,17 @@ UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Reservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.md) 
+### #is_/same_as :: [FileClass~Reservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.md) 
 
-### [FileClass~Reservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.public.md) 
+### #is_/same_as :: [FileClass~Reservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.public.md) 
 
-### [FileClass~Reservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.internal.md) 
+### #is_/same_as :: [FileClass~Reservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.internal.md) 
 
-### [FileClass~Reservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.protect.md) 
+### #is_/same_as :: [FileClass~Reservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.protect.md) 
 
-### [FileClass~Reservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.private.md) 
+### #is_/same_as :: [FileClass~Reservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.private.md) 
 
-### [FileClass~Reservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.personal.md) 
+### #is_/same_as :: [FileClass~Reservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.personal.md) 
 
-### [FileClass~Reservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.secret.md)
+### #is_/same_as :: [FileClass~Reservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.secret.md)
 

@@ -47,17 +47,17 @@ An [[EmployerReview]] is a review of an [[Organization]] regarding its role as a
 
 ## Confidential Links & Embeds: 
 
-### [employer_review](/_Standards/schema-org/Class/is_a_/creative_work/review/employer_review.md) 
+### #is_/same_as :: [employer_review](/_Standards/schema-org/Class/is_a_/creative_work/review/employer_review.md) 
 
-### [employer_review.public](/_public/schema-org/Class/is_a_/creative_work/review/employer_review.public.md) 
+### #is_/same_as :: [employer_review.public](/_public/schema-org/Class/is_a_/creative_work/review/employer_review.public.md) 
 
-### [employer_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/employer_review.internal.md) 
+### #is_/same_as :: [employer_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/employer_review.internal.md) 
 
-### [employer_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/employer_review.protect.md) 
+### #is_/same_as :: [employer_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/employer_review.protect.md) 
 
-### [employer_review.private](/_private/schema-org/Class/is_a_/creative_work/review/employer_review.private.md) 
+### #is_/same_as :: [employer_review.private](/_private/schema-org/Class/is_a_/creative_work/review/employer_review.private.md) 
 
-### [employer_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/employer_review.personal.md) 
+### #is_/same_as :: [employer_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/employer_review.personal.md) 
 
-### [employer_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/employer_review.secret.md)
+### #is_/same_as :: [employer_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/employer_review.secret.md)
 

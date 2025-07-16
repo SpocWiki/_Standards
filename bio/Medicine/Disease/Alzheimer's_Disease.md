@@ -185,24 +185,19 @@ subreddit: Alzheimers
 > [Wikipedia](https://en.wikipedia.org/wiki/Alzheimer's%20disease)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Alzheimer's_Disease](/_Standards/bio/Medicine/Disease/Alzheimer's_Disease.md) 
+### #is_/same_as :: [Alzheimer's_Disease](/_Standards/bio/Medicine/Disease/Alzheimer's_Disease.md) 
 
-### [Alzheimer's_Disease.public](/_public/bio/Medicine/Disease/Alzheimer's_Disease.public.md) 
+### #is_/same_as :: [Alzheimer's_Disease.public](/_public/bio/Medicine/Disease/Alzheimer's_Disease.public.md) 
 
-### [Alzheimer's_Disease.internal](/_internal/bio/Medicine/Disease/Alzheimer's_Disease.internal.md) 
+### #is_/same_as :: [Alzheimer's_Disease.internal](/_internal/bio/Medicine/Disease/Alzheimer's_Disease.internal.md) 
 
-### [Alzheimer's_Disease.protect](/_protect/bio/Medicine/Disease/Alzheimer's_Disease.protect.md) 
+### #is_/same_as :: [Alzheimer's_Disease.protect](/_protect/bio/Medicine/Disease/Alzheimer's_Disease.protect.md) 
 
-### [Alzheimer's_Disease.private](/_private/bio/Medicine/Disease/Alzheimer's_Disease.private.md) 
+### #is_/same_as :: [Alzheimer's_Disease.private](/_private/bio/Medicine/Disease/Alzheimer's_Disease.private.md) 
 
-### [Alzheimer's_Disease.personal](/_personal/bio/Medicine/Disease/Alzheimer's_Disease.personal.md) 
+### #is_/same_as :: [Alzheimer's_Disease.personal](/_personal/bio/Medicine/Disease/Alzheimer's_Disease.personal.md) 
 
-### [Alzheimer's_Disease.secret](/_secret/bio/Medicine/Disease/Alzheimer's_Disease.secret.md)
+### #is_/same_as :: [Alzheimer's_Disease.secret](/_secret/bio/Medicine/Disease/Alzheimer's_Disease.secret.md)
 

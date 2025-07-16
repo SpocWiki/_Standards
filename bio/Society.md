@@ -43,7 +43,9 @@ Krugosvet_article: gumanitarnye_nauki/sociologiya/OBSHCHESTVO.html
 IPTC_NewsCode: mediatopic/14000000
 ---
 
-#see [[../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History|History]]] 
+# [[Society]] 
+
+#see [[../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History|History]] 
 
 Pre-historic human Societies were hunters and gatherers, 
 usually living in Clans or larger Families. 
@@ -84,17 +86,17 @@ Smaller Structures like the Core Family were not robust enough to survive.
 
 ## Confidential Links & Embeds: 
 
-### [Society](/_Standards/bio/Society.md) 
+### #is_/same_as :: [Society](/_Standards/bio/Society.md) 
 
-### [Society.public](/_public/bio/Society.public.md) 
+### #is_/same_as :: [Society.public](/_public/bio/Society.public.md) 
 
-### [Society.internal](/_internal/bio/Society.internal.md) 
+### #is_/same_as :: [Society.internal](/_internal/bio/Society.internal.md) 
 
-### [Society.protect](/_protect/bio/Society.protect.md) 
+### #is_/same_as :: [Society.protect](/_protect/bio/Society.protect.md) 
 
-### [Society.private](/_private/bio/Society.private.md) 
+### #is_/same_as :: [Society.private](/_private/bio/Society.private.md) 
 
-### [Society.personal](/_personal/bio/Society.personal.md) 
+### #is_/same_as :: [Society.personal](/_personal/bio/Society.personal.md) 
 
-### [Society.secret](/_secret/bio/Society.secret.md)
+### #is_/same_as :: [Society.secret](/_secret/bio/Society.secret.md)
 

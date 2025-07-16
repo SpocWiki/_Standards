@@ -48,17 +48,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [user_checkins](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_checkins.md) 
+### #is_/same_as :: [user_checkins](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_checkins.md) 
 
-### [user_checkins.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_checkins.public.md) 
+### #is_/same_as :: [user_checkins.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_checkins.public.md) 
 
-### [user_checkins.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_checkins.internal.md) 
+### #is_/same_as :: [user_checkins.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_checkins.internal.md) 
 
-### [user_checkins.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_checkins.protect.md) 
+### #is_/same_as :: [user_checkins.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_checkins.protect.md) 
 
-### [user_checkins.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_checkins.private.md) 
+### #is_/same_as :: [user_checkins.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_checkins.private.md) 
 
-### [user_checkins.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_checkins.personal.md) 
+### #is_/same_as :: [user_checkins.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_checkins.personal.md) 
 
-### [user_checkins.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_checkins.secret.md)
+### #is_/same_as :: [user_checkins.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_checkins.secret.md)
 

@@ -53,17 +53,17 @@ The LearningResource type can be used to indicate [[CreativeWork]]s (whether phy
 
 ## Confidential Links & Embeds: 
 
-### [learning_resource](/_Standards/schema-org/Class/is_a_/creative_work/learning_resource.md) 
+### #is_/same_as :: [learning_resource](/_Standards/schema-org/Class/is_a_/creative_work/learning_resource.md) 
 
-### [learning_resource.public](/_public/schema-org/Class/is_a_/creative_work/learning_resource.public.md) 
+### #is_/same_as :: [learning_resource.public](/_public/schema-org/Class/is_a_/creative_work/learning_resource.public.md) 
 
-### [learning_resource.internal](/_internal/schema-org/Class/is_a_/creative_work/learning_resource.internal.md) 
+### #is_/same_as :: [learning_resource.internal](/_internal/schema-org/Class/is_a_/creative_work/learning_resource.internal.md) 
 
-### [learning_resource.protect](/_protect/schema-org/Class/is_a_/creative_work/learning_resource.protect.md) 
+### #is_/same_as :: [learning_resource.protect](/_protect/schema-org/Class/is_a_/creative_work/learning_resource.protect.md) 
 
-### [learning_resource.private](/_private/schema-org/Class/is_a_/creative_work/learning_resource.private.md) 
+### #is_/same_as :: [learning_resource.private](/_private/schema-org/Class/is_a_/creative_work/learning_resource.private.md) 
 
-### [learning_resource.personal](/_personal/schema-org/Class/is_a_/creative_work/learning_resource.personal.md) 
+### #is_/same_as :: [learning_resource.personal](/_personal/schema-org/Class/is_a_/creative_work/learning_resource.personal.md) 
 
-### [learning_resource.secret](/_secret/schema-org/Class/is_a_/creative_work/learning_resource.secret.md)
+### #is_/same_as :: [learning_resource.secret](/_secret/schema-org/Class/is_a_/creative_work/learning_resource.secret.md)
 

@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_estimated_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary.md) 
+### #is_/same_as :: [has_value_for_estimated_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary.md) 
 
-### [has_value_for_estimated_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_estimated_salary.public.md) 
+### #is_/same_as :: [has_value_for_estimated_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_estimated_salary.public.md) 
 
-### [has_value_for_estimated_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_estimated_salary.internal.md) 
+### #is_/same_as :: [has_value_for_estimated_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_estimated_salary.internal.md) 
 
-### [has_value_for_estimated_salary.protect](/_protect/schema-org/Property/has_value_for/has_value_for_estimated_salary.protect.md) 
+### #is_/same_as :: [has_value_for_estimated_salary.protect](/_protect/schema-org/Property/has_value_for/has_value_for_estimated_salary.protect.md) 
 
-### [has_value_for_estimated_salary.private](/_private/schema-org/Property/has_value_for/has_value_for_estimated_salary.private.md) 
+### #is_/same_as :: [has_value_for_estimated_salary.private](/_private/schema-org/Property/has_value_for/has_value_for_estimated_salary.private.md) 
 
-### [has_value_for_estimated_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_estimated_salary.personal.md) 
+### #is_/same_as :: [has_value_for_estimated_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_estimated_salary.personal.md) 
 
-### [has_value_for_estimated_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret.md)
+### #is_/same_as :: [has_value_for_estimated_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret.md)
 

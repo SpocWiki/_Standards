@@ -47,17 +47,17 @@ A diet appropriate for people with diabetes.
 
 ## Confidential Links & Embeds: 
 
-### [diabetic_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.md) 
+### #is_/same_as :: [diabetic_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.md) 
 
-### [diabetic_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.public.md) 
+### #is_/same_as :: [diabetic_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.public.md) 
 
-### [diabetic_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.internal.md) 
+### #is_/same_as :: [diabetic_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.internal.md) 
 
-### [diabetic_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.protect.md) 
+### #is_/same_as :: [diabetic_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.protect.md) 
 
-### [diabetic_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.private.md) 
+### #is_/same_as :: [diabetic_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.private.md) 
 
-### [diabetic_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.personal.md) 
+### #is_/same_as :: [diabetic_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.personal.md) 
 
-### [diabetic_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.secret.md)
+### #is_/same_as :: [diabetic_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.secret.md)
 

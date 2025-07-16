@@ -48,17 +48,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [interaction_counter](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.md) 
+### #is_/same_as :: [interaction_counter](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.md) 
 
-### [interaction_counter.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.public.md) 
+### #is_/same_as :: [interaction_counter.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.public.md) 
 
-### [interaction_counter.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.internal.md) 
+### #is_/same_as :: [interaction_counter.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.internal.md) 
 
-### [interaction_counter.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.protect.md) 
+### #is_/same_as :: [interaction_counter.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.protect.md) 
 
-### [interaction_counter.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.private.md) 
+### #is_/same_as :: [interaction_counter.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.private.md) 
 
-### [interaction_counter.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.personal.md) 
+### #is_/same_as :: [interaction_counter.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.personal.md) 
 
-### [interaction_counter.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.secret.md)
+### #is_/same_as :: [interaction_counter.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.secret.md)
 

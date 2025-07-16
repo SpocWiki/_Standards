@@ -91,17 +91,17 @@ Commons_category: Day
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Day](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Day.md) 
+### #is_/same_as :: [Unit~Day](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Day.md) 
 
-### [Unit~Day.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Day.public.md) 
+### #is_/same_as :: [Unit~Day.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Day.public.md) 
 
-### [Unit~Day.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Day.internal.md) 
+### #is_/same_as :: [Unit~Day.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Day.internal.md) 
 
-### [Unit~Day.protect](/_protect/Unit/SI-Unit/derived_Unit/Unit~Day.protect.md) 
+### #is_/same_as :: [Unit~Day.protect](/_protect/Unit/SI-Unit/derived_Unit/Unit~Day.protect.md) 
 
-### [Unit~Day.private](/_private/Unit/SI-Unit/derived_Unit/Unit~Day.private.md) 
+### #is_/same_as :: [Unit~Day.private](/_private/Unit/SI-Unit/derived_Unit/Unit~Day.private.md) 
 
-### [Unit~Day.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Day.personal.md) 
+### #is_/same_as :: [Unit~Day.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Day.personal.md) 
 
-### [Unit~Day.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Day.secret.md)
+### #is_/same_as :: [Unit~Day.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Day.secret.md)
 

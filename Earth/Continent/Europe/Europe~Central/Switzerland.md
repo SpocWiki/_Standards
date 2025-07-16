@@ -723,17 +723,17 @@ Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/S
 
 ## Confidential Links & Embeds: 
 
-### [Switzerland](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
+### #is_/same_as :: [Switzerland](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
 
-### [Switzerland.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public.md) 
+### #is_/same_as :: [Switzerland.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public.md) 
 
-### [Switzerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal.md) 
+### #is_/same_as :: [Switzerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal.md) 
 
-### [Switzerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect.md) 
+### #is_/same_as :: [Switzerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect.md) 
 
-### [Switzerland.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private.md) 
+### #is_/same_as :: [Switzerland.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private.md) 
 
-### [Switzerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal.md) 
+### #is_/same_as :: [Switzerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal.md) 
 
-### [Switzerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret.md)
+### #is_/same_as :: [Switzerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret.md)
 

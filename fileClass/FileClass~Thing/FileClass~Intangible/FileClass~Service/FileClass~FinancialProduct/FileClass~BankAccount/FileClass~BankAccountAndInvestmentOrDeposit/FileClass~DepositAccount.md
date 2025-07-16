@@ -35,17 +35,17 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DepositAccount](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.md) 
+### #is_/same_as :: [FileClass~DepositAccount](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.md) 
 
-### [FileClass~DepositAccount.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.public.md) 
+### #is_/same_as :: [FileClass~DepositAccount.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.public.md) 
 
-### [FileClass~DepositAccount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.internal.md) 
+### #is_/same_as :: [FileClass~DepositAccount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.internal.md) 
 
-### [FileClass~DepositAccount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.protect.md) 
+### #is_/same_as :: [FileClass~DepositAccount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.protect.md) 
 
-### [FileClass~DepositAccount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.private.md) 
+### #is_/same_as :: [FileClass~DepositAccount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.private.md) 
 
-### [FileClass~DepositAccount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.personal.md) 
+### #is_/same_as :: [FileClass~DepositAccount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.personal.md) 
 
-### [FileClass~DepositAccount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.secret.md)
+### #is_/same_as :: [FileClass~DepositAccount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~BankAccount/FileClass~BankAccountAndInvestmentOrDeposit/FileClass~DepositAccount.secret.md)
 

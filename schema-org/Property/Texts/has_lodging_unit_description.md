@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_lodging_unit_description](/_Standards/schema-org/Property/Texts/has_lodging_unit_description.md) 
+### #is_/same_as :: [has_lodging_unit_description](/_Standards/schema-org/Property/Texts/has_lodging_unit_description.md) 
 
-### [has_lodging_unit_description.public](/_public/schema-org/Property/Texts/has_lodging_unit_description.public.md) 
+### #is_/same_as :: [has_lodging_unit_description.public](/_public/schema-org/Property/Texts/has_lodging_unit_description.public.md) 
 
-### [has_lodging_unit_description.internal](/_internal/schema-org/Property/Texts/has_lodging_unit_description.internal.md) 
+### #is_/same_as :: [has_lodging_unit_description.internal](/_internal/schema-org/Property/Texts/has_lodging_unit_description.internal.md) 
 
-### [has_lodging_unit_description.protect](/_protect/schema-org/Property/Texts/has_lodging_unit_description.protect.md) 
+### #is_/same_as :: [has_lodging_unit_description.protect](/_protect/schema-org/Property/Texts/has_lodging_unit_description.protect.md) 
 
-### [has_lodging_unit_description.private](/_private/schema-org/Property/Texts/has_lodging_unit_description.private.md) 
+### #is_/same_as :: [has_lodging_unit_description.private](/_private/schema-org/Property/Texts/has_lodging_unit_description.private.md) 
 
-### [has_lodging_unit_description.personal](/_personal/schema-org/Property/Texts/has_lodging_unit_description.personal.md) 
+### #is_/same_as :: [has_lodging_unit_description.personal](/_personal/schema-org/Property/Texts/has_lodging_unit_description.personal.md) 
 
-### [has_lodging_unit_description.secret](/_secret/schema-org/Property/Texts/has_lodging_unit_description.secret.md)
+### #is_/same_as :: [has_lodging_unit_description.secret](/_secret/schema-org/Property/Texts/has_lodging_unit_description.secret.md)
 

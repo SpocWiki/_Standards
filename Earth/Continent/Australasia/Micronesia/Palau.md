@@ -394,17 +394,17 @@ Capital :: [[Melekeok]]
 
 ## Confidential Links & Embeds: 
 
-### [Palau](/_Standards/Earth/Continent/Australasia/Micronesia/Palau.md) 
+### #is_/same_as :: [Palau](/_Standards/Earth/Continent/Australasia/Micronesia/Palau.md) 
 
-### [Palau.public](/_public/Earth/Continent/Australasia/Micronesia/Palau.public.md) 
+### #is_/same_as :: [Palau.public](/_public/Earth/Continent/Australasia/Micronesia/Palau.public.md) 
 
-### [Palau.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal.md) 
+### #is_/same_as :: [Palau.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal.md) 
 
-### [Palau.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect.md) 
+### #is_/same_as :: [Palau.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect.md) 
 
-### [Palau.private](/_private/Earth/Continent/Australasia/Micronesia/Palau.private.md) 
+### #is_/same_as :: [Palau.private](/_private/Earth/Continent/Australasia/Micronesia/Palau.private.md) 
 
-### [Palau.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal.md) 
+### #is_/same_as :: [Palau.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal.md) 
 
-### [Palau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret.md)
+### #is_/same_as :: [Palau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret.md)
 

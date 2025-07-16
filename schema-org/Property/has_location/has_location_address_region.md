@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_address_region](/_Standards/schema-org/Property/has_location/has_location_address_region.md) 
+### #is_/same_as :: [has_location_address_region](/_Standards/schema-org/Property/has_location/has_location_address_region.md) 
 
-### [has_location_address_region.public](/_public/schema-org/Property/has_location/has_location_address_region.public.md) 
+### #is_/same_as :: [has_location_address_region.public](/_public/schema-org/Property/has_location/has_location_address_region.public.md) 
 
-### [has_location_address_region.internal](/_internal/schema-org/Property/has_location/has_location_address_region.internal.md) 
+### #is_/same_as :: [has_location_address_region.internal](/_internal/schema-org/Property/has_location/has_location_address_region.internal.md) 
 
-### [has_location_address_region.protect](/_protect/schema-org/Property/has_location/has_location_address_region.protect.md) 
+### #is_/same_as :: [has_location_address_region.protect](/_protect/schema-org/Property/has_location/has_location_address_region.protect.md) 
 
-### [has_location_address_region.private](/_private/schema-org/Property/has_location/has_location_address_region.private.md) 
+### #is_/same_as :: [has_location_address_region.private](/_private/schema-org/Property/has_location/has_location_address_region.private.md) 
 
-### [has_location_address_region.personal](/_personal/schema-org/Property/has_location/has_location_address_region.personal.md) 
+### #is_/same_as :: [has_location_address_region.personal](/_personal/schema-org/Property/has_location/has_location_address_region.personal.md) 
 
-### [has_location_address_region.secret](/_secret/schema-org/Property/has_location/has_location_address_region.secret.md)
+### #is_/same_as :: [has_location_address_region.secret](/_secret/schema-org/Property/has_location/has_location_address_region.secret.md)
 

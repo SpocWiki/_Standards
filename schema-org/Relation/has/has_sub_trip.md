@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sub_trip](/_Standards/schema-org/Relation/has/has_sub_trip.md) 
+### #is_/same_as :: [has_sub_trip](/_Standards/schema-org/Relation/has/has_sub_trip.md) 
 
-### [has_sub_trip.public](/_public/schema-org/Relation/has/has_sub_trip.public.md) 
+### #is_/same_as :: [has_sub_trip.public](/_public/schema-org/Relation/has/has_sub_trip.public.md) 
 
-### [has_sub_trip.internal](/_internal/schema-org/Relation/has/has_sub_trip.internal.md) 
+### #is_/same_as :: [has_sub_trip.internal](/_internal/schema-org/Relation/has/has_sub_trip.internal.md) 
 
-### [has_sub_trip.protect](/_protect/schema-org/Relation/has/has_sub_trip.protect.md) 
+### #is_/same_as :: [has_sub_trip.protect](/_protect/schema-org/Relation/has/has_sub_trip.protect.md) 
 
-### [has_sub_trip.private](/_private/schema-org/Relation/has/has_sub_trip.private.md) 
+### #is_/same_as :: [has_sub_trip.private](/_private/schema-org/Relation/has/has_sub_trip.private.md) 
 
-### [has_sub_trip.personal](/_personal/schema-org/Relation/has/has_sub_trip.personal.md) 
+### #is_/same_as :: [has_sub_trip.personal](/_personal/schema-org/Relation/has/has_sub_trip.personal.md) 
 
-### [has_sub_trip.secret](/_secret/schema-org/Relation/has/has_sub_trip.secret.md)
+### #is_/same_as :: [has_sub_trip.secret](/_secret/schema-org/Relation/has/has_sub_trip.secret.md)
 

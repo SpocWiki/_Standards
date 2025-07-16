@@ -47,17 +47,17 @@ A media object, such as an image, video, or audio object embedded in a web page 
 
 ## Confidential Links & Embeds: 
 
-### [media_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object.md) 
+### #is_/same_as :: [media_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object.md) 
 
-### [media_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object.public.md) 
+### #is_/same_as :: [media_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object.public.md) 
 
-### [media_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object.internal.md) 
+### #is_/same_as :: [media_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object.internal.md) 
 
-### [media_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object.protect.md) 
+### #is_/same_as :: [media_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object.protect.md) 
 
-### [media_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object.private.md) 
+### #is_/same_as :: [media_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object.private.md) 
 
-### [media_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object.personal.md) 
+### #is_/same_as :: [media_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object.personal.md) 
 
-### [media_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object.secret.md)
+### #is_/same_as :: [media_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object.secret.md)
 

@@ -47,17 +47,17 @@ Any physical manifestation of a person's medical condition discoverable by objec
 
 ## Confidential Links & Embeds: 
 
-### [medical_sign](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.md) 
+### #is_/same_as :: [medical_sign](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.md) 
 
-### [medical_sign.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.public.md) 
+### #is_/same_as :: [medical_sign.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.public.md) 
 
-### [medical_sign.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal.md) 
+### #is_/same_as :: [medical_sign.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal.md) 
 
-### [medical_sign.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect.md) 
+### #is_/same_as :: [medical_sign.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect.md) 
 
-### [medical_sign.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private.md) 
+### #is_/same_as :: [medical_sign.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private.md) 
 
-### [medical_sign.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal.md) 
+### #is_/same_as :: [medical_sign.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal.md) 
 
-### [medical_sign.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret.md)
+### #is_/same_as :: [medical_sign.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret.md)
 

@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_demand_for](/_Standards/schema-org/Relation/has/has_demand_for.md) 
+### #is_/same_as :: [has_demand_for](/_Standards/schema-org/Relation/has/has_demand_for.md) 
 
-### [has_demand_for.public](/_public/schema-org/Relation/has/has_demand_for.public.md) 
+### #is_/same_as :: [has_demand_for.public](/_public/schema-org/Relation/has/has_demand_for.public.md) 
 
-### [has_demand_for.internal](/_internal/schema-org/Relation/has/has_demand_for.internal.md) 
+### #is_/same_as :: [has_demand_for.internal](/_internal/schema-org/Relation/has/has_demand_for.internal.md) 
 
-### [has_demand_for.protect](/_protect/schema-org/Relation/has/has_demand_for.protect.md) 
+### #is_/same_as :: [has_demand_for.protect](/_protect/schema-org/Relation/has/has_demand_for.protect.md) 
 
-### [has_demand_for.private](/_private/schema-org/Relation/has/has_demand_for.private.md) 
+### #is_/same_as :: [has_demand_for.private](/_private/schema-org/Relation/has/has_demand_for.private.md) 
 
-### [has_demand_for.personal](/_personal/schema-org/Relation/has/has_demand_for.personal.md) 
+### #is_/same_as :: [has_demand_for.personal](/_personal/schema-org/Relation/has/has_demand_for.personal.md) 
 
-### [has_demand_for.secret](/_secret/schema-org/Relation/has/has_demand_for.secret.md)
+### #is_/same_as :: [has_demand_for.secret](/_secret/schema-org/Relation/has/has_demand_for.secret.md)
 

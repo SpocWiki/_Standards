@@ -93,20 +93,19 @@ Sex ::                Male
 Copyright ::            © 2004 Read S. Beaman
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Scyphostegia_borneensis](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.md) 
+### #is_/same_as :: [Scyphostegia_borneensis](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.md) 
 
-### [Scyphostegia_borneensis.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.public.md) 
+### #is_/same_as :: [Scyphostegia_borneensis.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.public.md) 
 
-### [Scyphostegia_borneensis.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.internal.md) 
+### #is_/same_as :: [Scyphostegia_borneensis.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.internal.md) 
 
-### [Scyphostegia_borneensis.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.protect.md) 
+### #is_/same_as :: [Scyphostegia_borneensis.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.protect.md) 
 
-### [Scyphostegia_borneensis.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.private.md) 
+### #is_/same_as :: [Scyphostegia_borneensis.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.private.md) 
 
-### [Scyphostegia_borneensis.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.personal.md) 
+### #is_/same_as :: [Scyphostegia_borneensis.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.personal.md) 
 
-### [Scyphostegia_borneensis.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.secret.md)
+### #is_/same_as :: [Scyphostegia_borneensis.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Scyphostegia_borneensis.secret.md)
 

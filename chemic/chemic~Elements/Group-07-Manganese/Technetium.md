@@ -121,17 +121,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/TEHNETSI.html
 
 ## Confidential Links & Embeds: 
 
-### [Technetium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Technetium.md) 
+### #is_/same_as :: [Technetium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Technetium.md) 
 
-### [Technetium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Technetium.public.md) 
+### #is_/same_as :: [Technetium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Technetium.public.md) 
 
-### [Technetium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Technetium.internal.md) 
+### #is_/same_as :: [Technetium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Technetium.internal.md) 
 
-### [Technetium.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Technetium.protect.md) 
+### #is_/same_as :: [Technetium.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Technetium.protect.md) 
 
-### [Technetium.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Technetium.private.md) 
+### #is_/same_as :: [Technetium.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Technetium.private.md) 
 
-### [Technetium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Technetium.personal.md) 
+### #is_/same_as :: [Technetium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Technetium.personal.md) 
 
-### [Technetium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Technetium.secret.md)
+### #is_/same_as :: [Technetium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Technetium.secret.md)
 

@@ -45,17 +45,17 @@ CollectionSize:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Creative_Collection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.md) 
+### #is_/same_as :: [FileClass~Creative_Collection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.md) 
 
-### [FileClass~Creative_Collection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.public.md) 
+### #is_/same_as :: [FileClass~Creative_Collection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.public.md) 
 
-### [FileClass~Creative_Collection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.internal.md) 
+### #is_/same_as :: [FileClass~Creative_Collection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.internal.md) 
 
-### [FileClass~Creative_Collection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.protect.md) 
+### #is_/same_as :: [FileClass~Creative_Collection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.protect.md) 
 
-### [FileClass~Creative_Collection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.private.md) 
+### #is_/same_as :: [FileClass~Creative_Collection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.private.md) 
 
-### [FileClass~Creative_Collection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.personal.md) 
+### #is_/same_as :: [FileClass~Creative_Collection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.personal.md) 
 
-### [FileClass~Creative_Collection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.secret.md)
+### #is_/same_as :: [FileClass~Creative_Collection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.secret.md)
 

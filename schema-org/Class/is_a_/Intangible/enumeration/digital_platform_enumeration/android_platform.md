@@ -49,17 +49,17 @@ Represents the broad notion of Android-based operating systems.
 
 ## Confidential Links & Embeds: 
 
-### [android_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
+### #is_/same_as :: [android_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
 
-### [android_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.public.md) 
+### #is_/same_as :: [android_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.public.md) 
 
-### [android_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.internal.md) 
+### #is_/same_as :: [android_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.internal.md) 
 
-### [android_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.protect.md) 
+### #is_/same_as :: [android_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.protect.md) 
 
-### [android_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.private.md) 
+### #is_/same_as :: [android_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.private.md) 
 
-### [android_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.personal.md) 
+### #is_/same_as :: [android_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.personal.md) 
 
-### [android_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.secret.md)
+### #is_/same_as :: [android_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.secret.md)
 

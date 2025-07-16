@@ -49,17 +49,17 @@ Side effects that can be observed from the usage of the topic.
 
 ## Confidential Links & Embeds: 
 
-### [side_effects_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.md) 
+### #is_/same_as :: [side_effects_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.md) 
 
-### [side_effects_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.public.md) 
+### #is_/same_as :: [side_effects_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.public.md) 
 
-### [side_effects_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.internal.md) 
+### #is_/same_as :: [side_effects_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.internal.md) 
 
-### [side_effects_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.protect.md) 
+### #is_/same_as :: [side_effects_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.protect.md) 
 
-### [side_effects_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.private.md) 
+### #is_/same_as :: [side_effects_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.private.md) 
 
-### [side_effects_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.personal.md) 
+### #is_/same_as :: [side_effects_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.personal.md) 
 
-### [side_effects_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.secret.md)
+### #is_/same_as :: [side_effects_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.secret.md)
 

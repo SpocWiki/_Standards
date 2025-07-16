@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_customer_remorse_return_label_source](/_Standards/schema-org/Relation/has/has_customer_remorse_return_label_source.md) 
+### #is_/same_as :: [has_customer_remorse_return_label_source](/_Standards/schema-org/Relation/has/has_customer_remorse_return_label_source.md) 
 
-### [has_customer_remorse_return_label_source.public](/_public/schema-org/Relation/has/has_customer_remorse_return_label_source.public.md) 
+### #is_/same_as :: [has_customer_remorse_return_label_source.public](/_public/schema-org/Relation/has/has_customer_remorse_return_label_source.public.md) 
 
-### [has_customer_remorse_return_label_source.internal](/_internal/schema-org/Relation/has/has_customer_remorse_return_label_source.internal.md) 
+### #is_/same_as :: [has_customer_remorse_return_label_source.internal](/_internal/schema-org/Relation/has/has_customer_remorse_return_label_source.internal.md) 
 
-### [has_customer_remorse_return_label_source.protect](/_protect/schema-org/Relation/has/has_customer_remorse_return_label_source.protect.md) 
+### #is_/same_as :: [has_customer_remorse_return_label_source.protect](/_protect/schema-org/Relation/has/has_customer_remorse_return_label_source.protect.md) 
 
-### [has_customer_remorse_return_label_source.private](/_private/schema-org/Relation/has/has_customer_remorse_return_label_source.private.md) 
+### #is_/same_as :: [has_customer_remorse_return_label_source.private](/_private/schema-org/Relation/has/has_customer_remorse_return_label_source.private.md) 
 
-### [has_customer_remorse_return_label_source.personal](/_personal/schema-org/Relation/has/has_customer_remorse_return_label_source.personal.md) 
+### #is_/same_as :: [has_customer_remorse_return_label_source.personal](/_personal/schema-org/Relation/has/has_customer_remorse_return_label_source.personal.md) 
 
-### [has_customer_remorse_return_label_source.secret](/_secret/schema-org/Relation/has/has_customer_remorse_return_label_source.secret.md)
+### #is_/same_as :: [has_customer_remorse_return_label_source.secret](/_secret/schema-org/Relation/has/has_customer_remorse_return_label_source.secret.md)
 

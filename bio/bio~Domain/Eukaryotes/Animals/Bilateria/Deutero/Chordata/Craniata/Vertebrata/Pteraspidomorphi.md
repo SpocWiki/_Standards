@@ -127,21 +127,19 @@ plates or \"shields\" (red). (after Janvier 1996)
   Copyright ::   © 1997 Philippe Janvier
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Pteraspidomorphi](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.md) 
+### #is_/same_as :: [Pteraspidomorphi](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.md) 
 
-### [Pteraspidomorphi.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.public.md) 
+### #is_/same_as :: [Pteraspidomorphi.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.public.md) 
 
-### [Pteraspidomorphi.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.internal.md) 
+### #is_/same_as :: [Pteraspidomorphi.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.internal.md) 
 
-### [Pteraspidomorphi.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.protect.md) 
+### #is_/same_as :: [Pteraspidomorphi.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.protect.md) 
 
-### [Pteraspidomorphi.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.private.md) 
+### #is_/same_as :: [Pteraspidomorphi.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.private.md) 
 
-### [Pteraspidomorphi.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.personal.md) 
+### #is_/same_as :: [Pteraspidomorphi.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.personal.md) 
 
-### [Pteraspidomorphi.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.secret.md)
+### #is_/same_as :: [Pteraspidomorphi.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.secret.md)
 

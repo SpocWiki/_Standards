@@ -55,17 +55,17 @@ TypeOfBed:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BedDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.md) 
+### #is_/same_as :: [FileClass~BedDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.md) 
 
-### [FileClass~BedDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.public.md) 
+### #is_/same_as :: [FileClass~BedDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.public.md) 
 
-### [FileClass~BedDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.internal.md) 
+### #is_/same_as :: [FileClass~BedDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.internal.md) 
 
-### [FileClass~BedDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.protect.md) 
+### #is_/same_as :: [FileClass~BedDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.protect.md) 
 
-### [FileClass~BedDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.private.md) 
+### #is_/same_as :: [FileClass~BedDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.private.md) 
 
-### [FileClass~BedDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.personal.md) 
+### #is_/same_as :: [FileClass~BedDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.personal.md) 
 
-### [FileClass~BedDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.secret.md)
+### #is_/same_as :: [FileClass~BedDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.secret.md)
 

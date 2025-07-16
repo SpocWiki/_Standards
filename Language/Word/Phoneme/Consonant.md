@@ -26,21 +26,19 @@ Commons_category: Consonants
 > [Wikipedia](https://en.wikipedia.org/wiki/Consonant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Consonant](/_Standards/Language/Word/Phoneme/Consonant.md) 
+### #is_/same_as :: [Consonant](/_Standards/Language/Word/Phoneme/Consonant.md) 
 
-### [Consonant.public](/_public/Language/Word/Phoneme/Consonant.public.md) 
+### #is_/same_as :: [Consonant.public](/_public/Language/Word/Phoneme/Consonant.public.md) 
 
-### [Consonant.internal](/_internal/Language/Word/Phoneme/Consonant.internal.md) 
+### #is_/same_as :: [Consonant.internal](/_internal/Language/Word/Phoneme/Consonant.internal.md) 
 
-### [Consonant.protect](/_protect/Language/Word/Phoneme/Consonant.protect.md) 
+### #is_/same_as :: [Consonant.protect](/_protect/Language/Word/Phoneme/Consonant.protect.md) 
 
-### [Consonant.private](/_private/Language/Word/Phoneme/Consonant.private.md) 
+### #is_/same_as :: [Consonant.private](/_private/Language/Word/Phoneme/Consonant.private.md) 
 
-### [Consonant.personal](/_personal/Language/Word/Phoneme/Consonant.personal.md) 
+### #is_/same_as :: [Consonant.personal](/_personal/Language/Word/Phoneme/Consonant.personal.md) 
 
-### [Consonant.secret](/_secret/Language/Word/Phoneme/Consonant.secret.md)
+### #is_/same_as :: [Consonant.secret](/_secret/Language/Word/Phoneme/Consonant.secret.md)
 

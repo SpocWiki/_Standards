@@ -49,17 +49,17 @@ Nonprofit501c24: Non-profit type referring to Section 4049 ERISA Trusts.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c24](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.md) 
+### #is_/same_as :: [nonprofit501c24](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.md) 
 
-### [nonprofit501c24.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.public.md) 
+### #is_/same_as :: [nonprofit501c24.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.public.md) 
 
-### [nonprofit501c24.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.internal.md) 
+### #is_/same_as :: [nonprofit501c24.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.internal.md) 
 
-### [nonprofit501c24.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.protect.md) 
+### #is_/same_as :: [nonprofit501c24.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.protect.md) 
 
-### [nonprofit501c24.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.private.md) 
+### #is_/same_as :: [nonprofit501c24.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.private.md) 
 
-### [nonprofit501c24.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.personal.md) 
+### #is_/same_as :: [nonprofit501c24.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.personal.md) 
 
-### [nonprofit501c24.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.secret.md)
+### #is_/same_as :: [nonprofit501c24.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.secret.md)
 

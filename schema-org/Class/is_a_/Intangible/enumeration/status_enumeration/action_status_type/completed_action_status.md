@@ -47,17 +47,17 @@ An action that has already taken place.
 
 ## Confidential Links & Embeds: 
 
-### [completed_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.md) 
+### #is_/same_as :: [completed_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.md) 
 
-### [completed_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.public.md) 
+### #is_/same_as :: [completed_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.public.md) 
 
-### [completed_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.internal.md) 
+### #is_/same_as :: [completed_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.internal.md) 
 
-### [completed_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.protect.md) 
+### #is_/same_as :: [completed_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.protect.md) 
 
-### [completed_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.private.md) 
+### #is_/same_as :: [completed_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.private.md) 
 
-### [completed_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.personal.md) 
+### #is_/same_as :: [completed_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.personal.md) 
 
-### [completed_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.secret.md)
+### #is_/same_as :: [completed_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/completed_action_status.secret.md)
 

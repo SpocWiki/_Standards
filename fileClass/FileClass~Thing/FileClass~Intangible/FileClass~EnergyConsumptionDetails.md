@@ -55,17 +55,17 @@ HasEnergyEfficiencyCategory:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EnergyConsumptionDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.md) 
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.md) 
 
-### [FileClass~EnergyConsumptionDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.public.md) 
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.public.md) 
 
-### [FileClass~EnergyConsumptionDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.internal.md) 
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.internal.md) 
 
-### [FileClass~EnergyConsumptionDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.protect.md) 
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.protect.md) 
 
-### [FileClass~EnergyConsumptionDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.private.md) 
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.private.md) 
 
-### [FileClass~EnergyConsumptionDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.personal.md) 
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.personal.md) 
 
-### [FileClass~EnergyConsumptionDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.secret.md)
+### #is_/same_as :: [FileClass~EnergyConsumptionDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.secret.md)
 

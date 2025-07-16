@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Rail_Transport](/_Standards/Technology/Transport/Rail_Transport.md) 
+### #is_/same_as :: [Rail_Transport](/_Standards/Technology/Transport/Rail_Transport.md) 
 
-### [Rail_Transport.public](/_public/Technology/Transport/Rail_Transport.public.md) 
+### #is_/same_as :: [Rail_Transport.public](/_public/Technology/Transport/Rail_Transport.public.md) 
 
-### [Rail_Transport.internal](/_internal/Technology/Transport/Rail_Transport.internal.md) 
+### #is_/same_as :: [Rail_Transport.internal](/_internal/Technology/Transport/Rail_Transport.internal.md) 
 
-### [Rail_Transport.protect](/_protect/Technology/Transport/Rail_Transport.protect.md) 
+### #is_/same_as :: [Rail_Transport.protect](/_protect/Technology/Transport/Rail_Transport.protect.md) 
 
-### [Rail_Transport.private](/_private/Technology/Transport/Rail_Transport.private.md) 
+### #is_/same_as :: [Rail_Transport.private](/_private/Technology/Transport/Rail_Transport.private.md) 
 
-### [Rail_Transport.personal](/_personal/Technology/Transport/Rail_Transport.personal.md) 
+### #is_/same_as :: [Rail_Transport.personal](/_personal/Technology/Transport/Rail_Transport.personal.md) 
 
-### [Rail_Transport.secret](/_secret/Technology/Transport/Rail_Transport.secret.md)
+### #is_/same_as :: [Rail_Transport.secret](/_secret/Technology/Transport/Rail_Transport.secret.md)
 

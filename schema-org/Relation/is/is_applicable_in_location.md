@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_applicable_in_location](/_Standards/schema-org/Relation/is/is_applicable_in_location.md) 
+### #is_/same_as :: [is_applicable_in_location](/_Standards/schema-org/Relation/is/is_applicable_in_location.md) 
 
-### [is_applicable_in_location.public](/_public/schema-org/Relation/is/is_applicable_in_location.public.md) 
+### #is_/same_as :: [is_applicable_in_location.public](/_public/schema-org/Relation/is/is_applicable_in_location.public.md) 
 
-### [is_applicable_in_location.internal](/_internal/schema-org/Relation/is/is_applicable_in_location.internal.md) 
+### #is_/same_as :: [is_applicable_in_location.internal](/_internal/schema-org/Relation/is/is_applicable_in_location.internal.md) 
 
-### [is_applicable_in_location.protect](/_protect/schema-org/Relation/is/is_applicable_in_location.protect.md) 
+### #is_/same_as :: [is_applicable_in_location.protect](/_protect/schema-org/Relation/is/is_applicable_in_location.protect.md) 
 
-### [is_applicable_in_location.private](/_private/schema-org/Relation/is/is_applicable_in_location.private.md) 
+### #is_/same_as :: [is_applicable_in_location.private](/_private/schema-org/Relation/is/is_applicable_in_location.private.md) 
 
-### [is_applicable_in_location.personal](/_personal/schema-org/Relation/is/is_applicable_in_location.personal.md) 
+### #is_/same_as :: [is_applicable_in_location.personal](/_personal/schema-org/Relation/is/is_applicable_in_location.personal.md) 
 
-### [is_applicable_in_location.secret](/_secret/schema-org/Relation/is/is_applicable_in_location.secret.md)
+### #is_/same_as :: [is_applicable_in_location.secret](/_secret/schema-org/Relation/is/is_applicable_in_location.secret.md)
 

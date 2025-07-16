@@ -41,22 +41,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tabak%209290019.JPG"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tobacco)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Tobacco](/_Standards/bio/Medicine/Drug/Tobacco.md) 
+### #is_/same_as :: [Tobacco](/_Standards/bio/Medicine/Drug/Tobacco.md) 
 
-### [Tobacco.public](/_public/bio/Medicine/Drug/Tobacco.public.md) 
+### #is_/same_as :: [Tobacco.public](/_public/bio/Medicine/Drug/Tobacco.public.md) 
 
-### [Tobacco.internal](/_internal/bio/Medicine/Drug/Tobacco.internal.md) 
+### #is_/same_as :: [Tobacco.internal](/_internal/bio/Medicine/Drug/Tobacco.internal.md) 
 
-### [Tobacco.protect](/_protect/bio/Medicine/Drug/Tobacco.protect.md) 
+### #is_/same_as :: [Tobacco.protect](/_protect/bio/Medicine/Drug/Tobacco.protect.md) 
 
-### [Tobacco.private](/_private/bio/Medicine/Drug/Tobacco.private.md) 
+### #is_/same_as :: [Tobacco.private](/_private/bio/Medicine/Drug/Tobacco.private.md) 
 
-### [Tobacco.personal](/_personal/bio/Medicine/Drug/Tobacco.personal.md) 
+### #is_/same_as :: [Tobacco.personal](/_personal/bio/Medicine/Drug/Tobacco.personal.md) 
 
-### [Tobacco.secret](/_secret/bio/Medicine/Drug/Tobacco.secret.md)
+### #is_/same_as :: [Tobacco.secret](/_secret/bio/Medicine/Drug/Tobacco.secret.md)
 

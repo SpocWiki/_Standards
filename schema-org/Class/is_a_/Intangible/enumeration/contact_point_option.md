@@ -43,17 +43,17 @@ Enumerated options related to a ContactPoint.
 
 ## Confidential Links & Embeds: 
 
-### [contact_point_option](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.md) 
+### #is_/same_as :: [contact_point_option](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.md) 
 
-### [contact_point_option.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.public.md) 
+### #is_/same_as :: [contact_point_option.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.public.md) 
 
-### [contact_point_option.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.internal.md) 
+### #is_/same_as :: [contact_point_option.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.internal.md) 
 
-### [contact_point_option.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.protect.md) 
+### #is_/same_as :: [contact_point_option.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.protect.md) 
 
-### [contact_point_option.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.private.md) 
+### #is_/same_as :: [contact_point_option.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.private.md) 
 
-### [contact_point_option.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.personal.md) 
+### #is_/same_as :: [contact_point_option.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.personal.md) 
 
-### [contact_point_option.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.secret.md)
+### #is_/same_as :: [contact_point_option.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option.secret.md)
 

@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagåtña](/_Standards/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.md) 
+### #is_/same_as :: [Hagåtña](/_Standards/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.md) 
 
-### [Hagåtña.public](/_public/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.public.md) 
+### #is_/same_as :: [Hagåtña.public](/_public/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.public.md) 
 
-### [Hagåtña.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.internal.md) 
+### #is_/same_as :: [Hagåtña.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.internal.md) 
 
-### [Hagåtña.protect](/_protect/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.protect.md) 
+### #is_/same_as :: [Hagåtña.protect](/_protect/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.protect.md) 
 
-### [Hagåtña.private](/_private/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.private.md) 
+### #is_/same_as :: [Hagåtña.private](/_private/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.private.md) 
 
-### [Hagåtña.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.personal.md) 
+### #is_/same_as :: [Hagåtña.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.personal.md) 
 
-### [Hagåtña.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.secret.md)
+### #is_/same_as :: [Hagåtña.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.secret.md)
 

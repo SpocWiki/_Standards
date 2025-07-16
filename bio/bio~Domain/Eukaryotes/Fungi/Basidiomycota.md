@@ -448,17 +448,17 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
 
 ## Confidential Links & Embeds: 
 
-### [Basidiomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.md) 
+### #is_/same_as :: [Basidiomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.md) 
 
-### [Basidiomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.public.md) 
+### #is_/same_as :: [Basidiomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.public.md) 
 
-### [Basidiomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.internal.md) 
+### #is_/same_as :: [Basidiomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.internal.md) 
 
-### [Basidiomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.protect.md) 
+### #is_/same_as :: [Basidiomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.protect.md) 
 
-### [Basidiomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.private.md) 
+### #is_/same_as :: [Basidiomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.private.md) 
 
-### [Basidiomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.personal.md) 
+### #is_/same_as :: [Basidiomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.personal.md) 
 
-### [Basidiomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.secret.md)
+### #is_/same_as :: [Basidiomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota.secret.md)
 

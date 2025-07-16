@@ -89,17 +89,17 @@ Nerve:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/M
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Muscle](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.md) 
+### #is_/same_as :: [FileClass~Muscle](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.md) 
 
-### [FileClass~Muscle.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.public.md) 
+### #is_/same_as :: [FileClass~Muscle.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.public.md) 
 
-### [FileClass~Muscle.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.internal.md) 
+### #is_/same_as :: [FileClass~Muscle.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.internal.md) 
 
-### [FileClass~Muscle.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.protect.md) 
+### #is_/same_as :: [FileClass~Muscle.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.protect.md) 
 
-### [FileClass~Muscle.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.private.md) 
+### #is_/same_as :: [FileClass~Muscle.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.private.md) 
 
-### [FileClass~Muscle.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.personal.md) 
+### #is_/same_as :: [FileClass~Muscle.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.personal.md) 
 
-### [FileClass~Muscle.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.secret.md)
+### #is_/same_as :: [FileClass~Muscle.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Muscle.secret.md)
 

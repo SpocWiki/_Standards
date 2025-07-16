@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_connected_to](/_Standards/schema-org/Relation/is/is_connected_to.md) 
+### #is_/same_as :: [is_connected_to](/_Standards/schema-org/Relation/is/is_connected_to.md) 
 
-### [is_connected_to.public](/_public/schema-org/Relation/is/is_connected_to.public.md) 
+### #is_/same_as :: [is_connected_to.public](/_public/schema-org/Relation/is/is_connected_to.public.md) 
 
-### [is_connected_to.internal](/_internal/schema-org/Relation/is/is_connected_to.internal.md) 
+### #is_/same_as :: [is_connected_to.internal](/_internal/schema-org/Relation/is/is_connected_to.internal.md) 
 
-### [is_connected_to.protect](/_protect/schema-org/Relation/is/is_connected_to.protect.md) 
+### #is_/same_as :: [is_connected_to.protect](/_protect/schema-org/Relation/is/is_connected_to.protect.md) 
 
-### [is_connected_to.private](/_private/schema-org/Relation/is/is_connected_to.private.md) 
+### #is_/same_as :: [is_connected_to.private](/_private/schema-org/Relation/is/is_connected_to.private.md) 
 
-### [is_connected_to.personal](/_personal/schema-org/Relation/is/is_connected_to.personal.md) 
+### #is_/same_as :: [is_connected_to.personal](/_personal/schema-org/Relation/is/is_connected_to.personal.md) 
 
-### [is_connected_to.secret](/_secret/schema-org/Relation/is/is_connected_to.secret.md)
+### #is_/same_as :: [is_connected_to.secret](/_secret/schema-org/Relation/is/is_connected_to.secret.md)
 

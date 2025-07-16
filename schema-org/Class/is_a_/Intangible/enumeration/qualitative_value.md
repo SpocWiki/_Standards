@@ -47,17 +47,17 @@ A predefined value for a product characteristic, e.g. the power cord plug type '
 
 ## Confidential Links & Embeds: 
 
-### [qualitative_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.md) 
+### #is_/same_as :: [qualitative_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.md) 
 
-### [qualitative_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.public.md) 
+### #is_/same_as :: [qualitative_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.public.md) 
 
-### [qualitative_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.internal.md) 
+### #is_/same_as :: [qualitative_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.internal.md) 
 
-### [qualitative_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.protect.md) 
+### #is_/same_as :: [qualitative_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.protect.md) 
 
-### [qualitative_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.private.md) 
+### #is_/same_as :: [qualitative_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.private.md) 
 
-### [qualitative_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.personal.md) 
+### #is_/same_as :: [qualitative_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.personal.md) 
 
-### [qualitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.secret.md)
+### #is_/same_as :: [qualitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.secret.md)
 

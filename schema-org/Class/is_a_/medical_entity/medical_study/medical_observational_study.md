@@ -45,17 +45,17 @@ An observational study is a type of medical study that attempts to infer the pos
 
 ## Confidential Links & Embeds: 
 
-### [medical_observational_study](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.md) 
+### #is_/same_as :: [medical_observational_study](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.md) 
 
-### [medical_observational_study.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.public.md) 
+### #is_/same_as :: [medical_observational_study.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.public.md) 
 
-### [medical_observational_study.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.internal.md) 
+### #is_/same_as :: [medical_observational_study.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.internal.md) 
 
-### [medical_observational_study.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.protect.md) 
+### #is_/same_as :: [medical_observational_study.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.protect.md) 
 
-### [medical_observational_study.private](/_private/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.private.md) 
+### #is_/same_as :: [medical_observational_study.private](/_private/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.private.md) 
 
-### [medical_observational_study.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.personal.md) 
+### #is_/same_as :: [medical_observational_study.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.personal.md) 
 
-### [medical_observational_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.secret.md)
+### #is_/same_as :: [medical_observational_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.secret.md)
 

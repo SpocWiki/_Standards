@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_originating_from](/_Standards/schema-org/Relation/is/is_originating_from.md) 
+### #is_/same_as :: [is_originating_from](/_Standards/schema-org/Relation/is/is_originating_from.md) 
 
-### [is_originating_from.public](/_public/schema-org/Relation/is/is_originating_from.public.md) 
+### #is_/same_as :: [is_originating_from.public](/_public/schema-org/Relation/is/is_originating_from.public.md) 
 
-### [is_originating_from.internal](/_internal/schema-org/Relation/is/is_originating_from.internal.md) 
+### #is_/same_as :: [is_originating_from.internal](/_internal/schema-org/Relation/is/is_originating_from.internal.md) 
 
-### [is_originating_from.protect](/_protect/schema-org/Relation/is/is_originating_from.protect.md) 
+### #is_/same_as :: [is_originating_from.protect](/_protect/schema-org/Relation/is/is_originating_from.protect.md) 
 
-### [is_originating_from.private](/_private/schema-org/Relation/is/is_originating_from.private.md) 
+### #is_/same_as :: [is_originating_from.private](/_private/schema-org/Relation/is/is_originating_from.private.md) 
 
-### [is_originating_from.personal](/_personal/schema-org/Relation/is/is_originating_from.personal.md) 
+### #is_/same_as :: [is_originating_from.personal](/_personal/schema-org/Relation/is/is_originating_from.personal.md) 
 
-### [is_originating_from.secret](/_secret/schema-org/Relation/is/is_originating_from.secret.md)
+### #is_/same_as :: [is_originating_from.secret](/_secret/schema-org/Relation/is/is_originating_from.secret.md)
 

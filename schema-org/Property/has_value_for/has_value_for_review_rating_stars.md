@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_review_rating_stars](/_Standards/schema-org/Property/has_value_for/has_value_for_review_rating_stars.md) 
+### #is_/same_as :: [has_value_for_review_rating_stars](/_Standards/schema-org/Property/has_value_for/has_value_for_review_rating_stars.md) 
 
-### [has_value_for_review_rating_stars.public](/_public/schema-org/Property/has_value_for/has_value_for_review_rating_stars.public.md) 
+### #is_/same_as :: [has_value_for_review_rating_stars.public](/_public/schema-org/Property/has_value_for/has_value_for_review_rating_stars.public.md) 
 
-### [has_value_for_review_rating_stars.internal](/_internal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.internal.md) 
+### #is_/same_as :: [has_value_for_review_rating_stars.internal](/_internal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.internal.md) 
 
-### [has_value_for_review_rating_stars.protect](/_protect/schema-org/Property/has_value_for/has_value_for_review_rating_stars.protect.md) 
+### #is_/same_as :: [has_value_for_review_rating_stars.protect](/_protect/schema-org/Property/has_value_for/has_value_for_review_rating_stars.protect.md) 
 
-### [has_value_for_review_rating_stars.private](/_private/schema-org/Property/has_value_for/has_value_for_review_rating_stars.private.md) 
+### #is_/same_as :: [has_value_for_review_rating_stars.private](/_private/schema-org/Property/has_value_for/has_value_for_review_rating_stars.private.md) 
 
-### [has_value_for_review_rating_stars.personal](/_personal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.personal.md) 
+### #is_/same_as :: [has_value_for_review_rating_stars.personal](/_personal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.personal.md) 
 
-### [has_value_for_review_rating_stars.secret](/_secret/schema-org/Property/has_value_for/has_value_for_review_rating_stars.secret.md)
+### #is_/same_as :: [has_value_for_review_rating_stars.secret](/_secret/schema-org/Property/has_value_for/has_value_for_review_rating_stars.secret.md)
 

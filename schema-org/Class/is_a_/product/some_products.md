@@ -45,17 +45,17 @@ A placeholder for multiple similar products of the same kind.
 
 ## Confidential Links & Embeds: 
 
-### [some_products](/_Standards/schema-org/Class/is_a_/product/some_products.md) 
+### #is_/same_as :: [some_products](/_Standards/schema-org/Class/is_a_/product/some_products.md) 
 
-### [some_products.public](/_public/schema-org/Class/is_a_/product/some_products.public.md) 
+### #is_/same_as :: [some_products.public](/_public/schema-org/Class/is_a_/product/some_products.public.md) 
 
-### [some_products.internal](/_internal/schema-org/Class/is_a_/product/some_products.internal.md) 
+### #is_/same_as :: [some_products.internal](/_internal/schema-org/Class/is_a_/product/some_products.internal.md) 
 
-### [some_products.protect](/_protect/schema-org/Class/is_a_/product/some_products.protect.md) 
+### #is_/same_as :: [some_products.protect](/_protect/schema-org/Class/is_a_/product/some_products.protect.md) 
 
-### [some_products.private](/_private/schema-org/Class/is_a_/product/some_products.private.md) 
+### #is_/same_as :: [some_products.private](/_private/schema-org/Class/is_a_/product/some_products.private.md) 
 
-### [some_products.personal](/_personal/schema-org/Class/is_a_/product/some_products.personal.md) 
+### #is_/same_as :: [some_products.personal](/_personal/schema-org/Class/is_a_/product/some_products.personal.md) 
 
-### [some_products.secret](/_secret/schema-org/Class/is_a_/product/some_products.secret.md)
+### #is_/same_as :: [some_products.secret](/_secret/schema-org/Class/is_a_/product/some_products.secret.md)
 

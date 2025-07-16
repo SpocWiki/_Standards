@@ -47,17 +47,17 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 ## Confidential Links & Embeds: 
 
-### [audiobook_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.md) 
+### #is_/same_as :: [audiobook_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.md) 
 
-### [audiobook_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.public.md) 
+### #is_/same_as :: [audiobook_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.public.md) 
 
-### [audiobook_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.internal.md) 
+### #is_/same_as :: [audiobook_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.internal.md) 
 
-### [audiobook_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.protect.md) 
+### #is_/same_as :: [audiobook_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.protect.md) 
 
-### [audiobook_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.private.md) 
+### #is_/same_as :: [audiobook_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.private.md) 
 
-### [audiobook_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.personal.md) 
+### #is_/same_as :: [audiobook_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.personal.md) 
 
-### [audiobook_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.secret.md)
+### #is_/same_as :: [audiobook_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.secret.md)
 

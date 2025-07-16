@@ -528,17 +528,17 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 ## Confidential Links & Embeds: 
 
-### [Argentina](/_Standards/Earth/Continent/America~South/Argentina.md) 
+### #is_/same_as :: [Argentina](/_Standards/Earth/Continent/America~South/Argentina.md) 
 
-### [Argentina.public](/_public/Earth/Continent/America~South/Argentina.public.md) 
+### #is_/same_as :: [Argentina.public](/_public/Earth/Continent/America~South/Argentina.public.md) 
 
-### [Argentina.internal](/_internal/Earth/Continent/America~South/Argentina.internal.md) 
+### #is_/same_as :: [Argentina.internal](/_internal/Earth/Continent/America~South/Argentina.internal.md) 
 
-### [Argentina.protect](/_protect/Earth/Continent/America~South/Argentina.protect.md) 
+### #is_/same_as :: [Argentina.protect](/_protect/Earth/Continent/America~South/Argentina.protect.md) 
 
-### [Argentina.private](/_private/Earth/Continent/America~South/Argentina.private.md) 
+### #is_/same_as :: [Argentina.private](/_private/Earth/Continent/America~South/Argentina.private.md) 
 
-### [Argentina.personal](/_personal/Earth/Continent/America~South/Argentina.personal.md) 
+### #is_/same_as :: [Argentina.personal](/_personal/Earth/Continent/America~South/Argentina.personal.md) 
 
-### [Argentina.secret](/_secret/Earth/Continent/America~South/Argentina.secret.md)
+### #is_/same_as :: [Argentina.secret](/_secret/Earth/Continent/America~South/Argentina.secret.md)
 

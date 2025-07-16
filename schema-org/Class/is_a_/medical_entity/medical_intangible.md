@@ -47,17 +47,17 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 ## Confidential Links & Embeds: 
 
-### [medical_intangible](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible.md) 
+### #is_/same_as :: [medical_intangible](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible.md) 
 
-### [medical_intangible.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible.public.md) 
+### #is_/same_as :: [medical_intangible.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible.public.md) 
 
-### [medical_intangible.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible.internal.md) 
+### #is_/same_as :: [medical_intangible.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible.internal.md) 
 
-### [medical_intangible.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible.protect.md) 
+### #is_/same_as :: [medical_intangible.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible.protect.md) 
 
-### [medical_intangible.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible.private.md) 
+### #is_/same_as :: [medical_intangible.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible.private.md) 
 
-### [medical_intangible.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible.personal.md) 
+### #is_/same_as :: [medical_intangible.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible.personal.md) 
 
-### [medical_intangible.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible.secret.md)
+### #is_/same_as :: [medical_intangible.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible.secret.md)
 

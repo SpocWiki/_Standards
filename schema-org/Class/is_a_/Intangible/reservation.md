@@ -49,17 +49,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation.md) 
+### #is_/same_as :: [reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation.md) 
 
-### [reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation.public.md) 
+### #is_/same_as :: [reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation.public.md) 
 
-### [reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation.internal.md) 
+### #is_/same_as :: [reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation.internal.md) 
 
-### [reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation.protect.md) 
+### #is_/same_as :: [reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation.protect.md) 
 
-### [reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation.private.md) 
+### #is_/same_as :: [reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation.private.md) 
 
-### [reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation.personal.md) 
+### #is_/same_as :: [reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation.personal.md) 
 
-### [reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation.secret.md)
+### #is_/same_as :: [reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation.secret.md)
 

@@ -45,17 +45,17 @@ The act of producing/preparing food.
 
 ## Confidential Links & Embeds: 
 
-### [cook_action](/_Standards/schema-org/Class/is_a_/action/create_action/cook_action.md) 
+### #is_/same_as :: [cook_action](/_Standards/schema-org/Class/is_a_/action/create_action/cook_action.md) 
 
-### [cook_action.public](/_public/schema-org/Class/is_a_/action/create_action/cook_action.public.md) 
+### #is_/same_as :: [cook_action.public](/_public/schema-org/Class/is_a_/action/create_action/cook_action.public.md) 
 
-### [cook_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/cook_action.internal.md) 
+### #is_/same_as :: [cook_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/cook_action.internal.md) 
 
-### [cook_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/cook_action.protect.md) 
+### #is_/same_as :: [cook_action.protect](/_protect/schema-org/Class/is_a_/action/create_action/cook_action.protect.md) 
 
-### [cook_action.private](/_private/schema-org/Class/is_a_/action/create_action/cook_action.private.md) 
+### #is_/same_as :: [cook_action.private](/_private/schema-org/Class/is_a_/action/create_action/cook_action.private.md) 
 
-### [cook_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/cook_action.personal.md) 
+### #is_/same_as :: [cook_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/cook_action.personal.md) 
 
-### [cook_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/cook_action.secret.md)
+### #is_/same_as :: [cook_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/cook_action.secret.md)
 

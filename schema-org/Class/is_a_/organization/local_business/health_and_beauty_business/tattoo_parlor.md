@@ -45,17 +45,17 @@ A tattoo parlor.
 
 ## Confidential Links & Embeds: 
 
-### [tattoo_parlor](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.md) 
+### #is_/same_as :: [tattoo_parlor](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.md) 
 
-### [tattoo_parlor.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.public.md) 
+### #is_/same_as :: [tattoo_parlor.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.public.md) 
 
-### [tattoo_parlor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.internal.md) 
+### #is_/same_as :: [tattoo_parlor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.internal.md) 
 
-### [tattoo_parlor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.protect.md) 
+### #is_/same_as :: [tattoo_parlor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.protect.md) 
 
-### [tattoo_parlor.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.private.md) 
+### #is_/same_as :: [tattoo_parlor.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.private.md) 
 
-### [tattoo_parlor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.personal.md) 
+### #is_/same_as :: [tattoo_parlor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.personal.md) 
 
-### [tattoo_parlor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.secret.md)
+### #is_/same_as :: [tattoo_parlor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.secret.md)
 

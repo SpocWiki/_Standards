@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_backstory](/_Standards/schema-org/Relation/has/has_backstory.md) 
+### #is_/same_as :: [has_backstory](/_Standards/schema-org/Relation/has/has_backstory.md) 
 
-### [has_backstory.public](/_public/schema-org/Relation/has/has_backstory.public.md) 
+### #is_/same_as :: [has_backstory.public](/_public/schema-org/Relation/has/has_backstory.public.md) 
 
-### [has_backstory.internal](/_internal/schema-org/Relation/has/has_backstory.internal.md) 
+### #is_/same_as :: [has_backstory.internal](/_internal/schema-org/Relation/has/has_backstory.internal.md) 
 
-### [has_backstory.protect](/_protect/schema-org/Relation/has/has_backstory.protect.md) 
+### #is_/same_as :: [has_backstory.protect](/_protect/schema-org/Relation/has/has_backstory.protect.md) 
 
-### [has_backstory.private](/_private/schema-org/Relation/has/has_backstory.private.md) 
+### #is_/same_as :: [has_backstory.private](/_private/schema-org/Relation/has/has_backstory.private.md) 
 
-### [has_backstory.personal](/_personal/schema-org/Relation/has/has_backstory.personal.md) 
+### #is_/same_as :: [has_backstory.personal](/_personal/schema-org/Relation/has/has_backstory.personal.md) 
 
-### [has_backstory.secret](/_secret/schema-org/Relation/has/has_backstory.secret.md)
+### #is_/same_as :: [has_backstory.secret](/_secret/schema-org/Relation/has/has_backstory.secret.md)
 

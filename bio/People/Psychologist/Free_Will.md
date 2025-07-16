@@ -39,20 +39,19 @@ On the other hand, conscious decisions can override these in the event of new Da
 The corresponding Experiment was a traffic-light simulation that allowed participants to speed up whenever they want, but randomly switched to red forcing to stop which mostly worked. 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Free_Will](/_Standards/bio/People/Psychologist/Free_Will.md) 
+### #is_/same_as :: [Free_Will](/_Standards/bio/People/Psychologist/Free_Will.md) 
 
-### [Free_Will.public](/_public/bio/People/Psychologist/Free_Will.public.md) 
+### #is_/same_as :: [Free_Will.public](/_public/bio/People/Psychologist/Free_Will.public.md) 
 
-### [Free_Will.internal](/_internal/bio/People/Psychologist/Free_Will.internal.md) 
+### #is_/same_as :: [Free_Will.internal](/_internal/bio/People/Psychologist/Free_Will.internal.md) 
 
-### [Free_Will.protect](/_protect/bio/People/Psychologist/Free_Will.protect.md) 
+### #is_/same_as :: [Free_Will.protect](/_protect/bio/People/Psychologist/Free_Will.protect.md) 
 
-### [Free_Will.private](/_private/bio/People/Psychologist/Free_Will.private.md) 
+### #is_/same_as :: [Free_Will.private](/_private/bio/People/Psychologist/Free_Will.private.md) 
 
-### [Free_Will.personal](/_personal/bio/People/Psychologist/Free_Will.personal.md) 
+### #is_/same_as :: [Free_Will.personal](/_personal/bio/People/Psychologist/Free_Will.personal.md) 
 
-### [Free_Will.secret](/_secret/bio/People/Psychologist/Free_Will.secret.md)
+### #is_/same_as :: [Free_Will.secret](/_secret/bio/People/Psychologist/Free_Will.secret.md)
 

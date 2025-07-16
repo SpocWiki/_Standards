@@ -43,17 +43,17 @@ An organization such as a [[organization/educational_organization/school|school]
 
 ## Confidential Links & Embeds: 
 
-### [organization](/_Standards/schema-org/Class/is_a_/organization.md) 
+### #is_/same_as :: [organization](/_Standards/schema-org/Class/is_a_/organization.md) 
 
-### [organization.public](/_public/schema-org/Class/is_a_/organization.public.md) 
+### #is_/same_as :: [organization.public](/_public/schema-org/Class/is_a_/organization.public.md) 
 
-### [organization.internal](/_internal/schema-org/Class/is_a_/organization.internal.md) 
+### #is_/same_as :: [organization.internal](/_internal/schema-org/Class/is_a_/organization.internal.md) 
 
-### [organization.protect](/_protect/schema-org/Class/is_a_/organization.protect.md) 
+### #is_/same_as :: [organization.protect](/_protect/schema-org/Class/is_a_/organization.protect.md) 
 
-### [organization.private](/_private/schema-org/Class/is_a_/organization.private.md) 
+### #is_/same_as :: [organization.private](/_private/schema-org/Class/is_a_/organization.private.md) 
 
-### [organization.personal](/_personal/schema-org/Class/is_a_/organization.personal.md) 
+### #is_/same_as :: [organization.personal](/_personal/schema-org/Class/is_a_/organization.personal.md) 
 
-### [organization.secret](/_secret/schema-org/Class/is_a_/organization.secret.md)
+### #is_/same_as :: [organization.secret](/_secret/schema-org/Class/is_a_/organization.secret.md)
 

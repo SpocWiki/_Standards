@@ -113,17 +113,17 @@ Natural History 34: 483-562.
 
 ## Confidential Links & Embeds: 
 
-### [debruynei](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.md) 
+### #is_/same_as :: [debruynei](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.md) 
 
-### [debruynei.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.public.md) 
+### #is_/same_as :: [debruynei.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.public.md) 
 
-### [debruynei.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.internal.md) 
+### #is_/same_as :: [debruynei.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.internal.md) 
 
-### [debruynei.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.protect.md) 
+### #is_/same_as :: [debruynei.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.protect.md) 
 
-### [debruynei.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.private.md) 
+### #is_/same_as :: [debruynei.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.private.md) 
 
-### [debruynei.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.personal.md) 
+### #is_/same_as :: [debruynei.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.personal.md) 
 
-### [debruynei.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.secret.md)
+### #is_/same_as :: [debruynei.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.secret.md)
 

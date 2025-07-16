@@ -95,17 +95,17 @@ Unicode_character: 鏑
 
 ## Confidential Links & Embeds: 
 
-### [Dysprosium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.md) 
+### #is_/same_as :: [Dysprosium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.md) 
 
-### [Dysprosium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.public.md) 
+### #is_/same_as :: [Dysprosium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.public.md) 
 
-### [Dysprosium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.internal.md) 
+### #is_/same_as :: [Dysprosium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.internal.md) 
 
-### [Dysprosium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.protect.md) 
+### #is_/same_as :: [Dysprosium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.protect.md) 
 
-### [Dysprosium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.private.md) 
+### #is_/same_as :: [Dysprosium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.private.md) 
 
-### [Dysprosium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.personal.md) 
+### #is_/same_as :: [Dysprosium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.personal.md) 
 
-### [Dysprosium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.secret.md)
+### #is_/same_as :: [Dysprosium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.secret.md)
 

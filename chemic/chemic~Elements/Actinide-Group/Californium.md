@@ -105,17 +105,17 @@ Unicode_character: 鉲
 
 ## Confidential Links & Embeds: 
 
-### [Californium](/_Standards/chemic/chemic~Elements/Actinide-Group/Californium.md) 
+### #is_/same_as :: [Californium](/_Standards/chemic/chemic~Elements/Actinide-Group/Californium.md) 
 
-### [Californium.public](/_public/chemic/chemic~Elements/Actinide-Group/Californium.public.md) 
+### #is_/same_as :: [Californium.public](/_public/chemic/chemic~Elements/Actinide-Group/Californium.public.md) 
 
-### [Californium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Californium.internal.md) 
+### #is_/same_as :: [Californium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Californium.internal.md) 
 
-### [Californium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Californium.protect.md) 
+### #is_/same_as :: [Californium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Californium.protect.md) 
 
-### [Californium.private](/_private/chemic/chemic~Elements/Actinide-Group/Californium.private.md) 
+### #is_/same_as :: [Californium.private](/_private/chemic/chemic~Elements/Actinide-Group/Californium.private.md) 
 
-### [Californium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Californium.personal.md) 
+### #is_/same_as :: [Californium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Californium.personal.md) 
 
-### [Californium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Californium.secret.md)
+### #is_/same_as :: [Californium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Californium.secret.md)
 

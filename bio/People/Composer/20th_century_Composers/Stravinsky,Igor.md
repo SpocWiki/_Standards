@@ -35,24 +35,19 @@ has_id_wikidata: Q7314
 > [Wikipedia](https://en.wikipedia.org/wiki/Igor%20Stravinsky)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Stravinsky,Igor](/_Standards/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.md) 
+### #is_/same_as :: [Stravinsky,Igor](/_Standards/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.md) 
 
-### [Stravinsky,Igor.public](/_public/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.public.md) 
+### #is_/same_as :: [Stravinsky,Igor.public](/_public/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.public.md) 
 
-### [Stravinsky,Igor.internal](/_internal/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.internal.md) 
+### #is_/same_as :: [Stravinsky,Igor.internal](/_internal/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.internal.md) 
 
-### [Stravinsky,Igor.protect](/_protect/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.protect.md) 
+### #is_/same_as :: [Stravinsky,Igor.protect](/_protect/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.protect.md) 
 
-### [Stravinsky,Igor.private](/_private/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.private.md) 
+### #is_/same_as :: [Stravinsky,Igor.private](/_private/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.private.md) 
 
-### [Stravinsky,Igor.personal](/_personal/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.personal.md) 
+### #is_/same_as :: [Stravinsky,Igor.personal](/_personal/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.personal.md) 
 
-### [Stravinsky,Igor.secret](/_secret/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.secret.md)
+### #is_/same_as :: [Stravinsky,Igor.secret](/_secret/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.secret.md)
 

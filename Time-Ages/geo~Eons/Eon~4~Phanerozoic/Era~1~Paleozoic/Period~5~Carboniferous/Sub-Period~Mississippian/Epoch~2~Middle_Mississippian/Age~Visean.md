@@ -73,17 +73,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~Visean](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.md) 
+### #is_/same_as :: [Age~Visean](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.md) 
 
-### [Age~Visean.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.public.md) 
+### #is_/same_as :: [Age~Visean.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.public.md) 
 
-### [Age~Visean.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.internal.md) 
+### #is_/same_as :: [Age~Visean.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.internal.md) 
 
-### [Age~Visean.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.protect.md) 
+### #is_/same_as :: [Age~Visean.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.protect.md) 
 
-### [Age~Visean.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.private.md) 
+### #is_/same_as :: [Age~Visean.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.private.md) 
 
-### [Age~Visean.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.personal.md) 
+### #is_/same_as :: [Age~Visean.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.personal.md) 
 
-### [Age~Visean.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.secret.md)
+### #is_/same_as :: [Age~Visean.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.secret.md)
 

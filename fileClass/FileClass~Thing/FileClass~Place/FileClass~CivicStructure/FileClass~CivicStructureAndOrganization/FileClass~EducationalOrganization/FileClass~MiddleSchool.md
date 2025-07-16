@@ -35,17 +35,17 @@ A middle school (typically for children aged around 11-14, although this varies 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MiddleSchool](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.md) 
+### #is_/same_as :: [FileClass~MiddleSchool](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.md) 
 
-### [FileClass~MiddleSchool.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.public.md) 
+### #is_/same_as :: [FileClass~MiddleSchool.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.public.md) 
 
-### [FileClass~MiddleSchool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.internal.md) 
+### #is_/same_as :: [FileClass~MiddleSchool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.internal.md) 
 
-### [FileClass~MiddleSchool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.protect.md) 
+### #is_/same_as :: [FileClass~MiddleSchool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.protect.md) 
 
-### [FileClass~MiddleSchool.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.private.md) 
+### #is_/same_as :: [FileClass~MiddleSchool.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.private.md) 
 
-### [FileClass~MiddleSchool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.personal.md) 
+### #is_/same_as :: [FileClass~MiddleSchool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.personal.md) 
 
-### [FileClass~MiddleSchool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.secret.md)
+### #is_/same_as :: [FileClass~MiddleSchool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.secret.md)
 

@@ -54,17 +54,17 @@ Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.md) 
+### #is_/same_as :: [FileClass~SendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.md) 
 
-### [FileClass~SendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.public.md) 
+### #is_/same_as :: [FileClass~SendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.public.md) 
 
-### [FileClass~SendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.internal.md) 
+### #is_/same_as :: [FileClass~SendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.internal.md) 
 
-### [FileClass~SendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.protect.md) 
+### #is_/same_as :: [FileClass~SendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.protect.md) 
 
-### [FileClass~SendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.private.md) 
+### #is_/same_as :: [FileClass~SendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.private.md) 
 
-### [FileClass~SendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.personal.md) 
+### #is_/same_as :: [FileClass~SendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.personal.md) 
 
-### [FileClass~SendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.secret.md)
+### #is_/same_as :: [FileClass~SendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.secret.md)
 

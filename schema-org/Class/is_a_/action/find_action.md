@@ -53,17 +53,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [find_action](/_Standards/schema-org/Class/is_a_/action/find_action.md) 
+### #is_/same_as :: [find_action](/_Standards/schema-org/Class/is_a_/action/find_action.md) 
 
-### [find_action.public](/_public/schema-org/Class/is_a_/action/find_action.public.md) 
+### #is_/same_as :: [find_action.public](/_public/schema-org/Class/is_a_/action/find_action.public.md) 
 
-### [find_action.internal](/_internal/schema-org/Class/is_a_/action/find_action.internal.md) 
+### #is_/same_as :: [find_action.internal](/_internal/schema-org/Class/is_a_/action/find_action.internal.md) 
 
-### [find_action.protect](/_protect/schema-org/Class/is_a_/action/find_action.protect.md) 
+### #is_/same_as :: [find_action.protect](/_protect/schema-org/Class/is_a_/action/find_action.protect.md) 
 
-### [find_action.private](/_private/schema-org/Class/is_a_/action/find_action.private.md) 
+### #is_/same_as :: [find_action.private](/_private/schema-org/Class/is_a_/action/find_action.private.md) 
 
-### [find_action.personal](/_personal/schema-org/Class/is_a_/action/find_action.personal.md) 
+### #is_/same_as :: [find_action.personal](/_personal/schema-org/Class/is_a_/action/find_action.personal.md) 
 
-### [find_action.secret](/_secret/schema-org/Class/is_a_/action/find_action.secret.md)
+### #is_/same_as :: [find_action.secret](/_secret/schema-org/Class/is_a_/action/find_action.secret.md)
 

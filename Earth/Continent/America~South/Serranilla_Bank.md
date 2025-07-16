@@ -53,17 +53,17 @@ markerFolder: ./Serranilla_Bank/
 
 ## Confidential Links & Embeds: 
 
-### [Serranilla_Bank](/_Standards/Earth/Continent/America~South/Serranilla_Bank.md) 
+### #is_/same_as :: [Serranilla_Bank](/_Standards/Earth/Continent/America~South/Serranilla_Bank.md) 
 
-### [Serranilla_Bank.public](/_public/Earth/Continent/America~South/Serranilla_Bank.public.md) 
+### #is_/same_as :: [Serranilla_Bank.public](/_public/Earth/Continent/America~South/Serranilla_Bank.public.md) 
 
-### [Serranilla_Bank.internal](/_internal/Earth/Continent/America~South/Serranilla_Bank.internal.md) 
+### #is_/same_as :: [Serranilla_Bank.internal](/_internal/Earth/Continent/America~South/Serranilla_Bank.internal.md) 
 
-### [Serranilla_Bank.protect](/_protect/Earth/Continent/America~South/Serranilla_Bank.protect.md) 
+### #is_/same_as :: [Serranilla_Bank.protect](/_protect/Earth/Continent/America~South/Serranilla_Bank.protect.md) 
 
-### [Serranilla_Bank.private](/_private/Earth/Continent/America~South/Serranilla_Bank.private.md) 
+### #is_/same_as :: [Serranilla_Bank.private](/_private/Earth/Continent/America~South/Serranilla_Bank.private.md) 
 
-### [Serranilla_Bank.personal](/_personal/Earth/Continent/America~South/Serranilla_Bank.personal.md) 
+### #is_/same_as :: [Serranilla_Bank.personal](/_personal/Earth/Continent/America~South/Serranilla_Bank.personal.md) 
 
-### [Serranilla_Bank.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank.secret.md)
+### #is_/same_as :: [Serranilla_Bank.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank.secret.md)
 

@@ -102,17 +102,17 @@ mass: 140.90766
 
 ## Confidential Links & Embeds: 
 
-### [Praseodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.md) 
+### #is_/same_as :: [Praseodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.md) 
 
-### [Praseodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.public.md) 
+### #is_/same_as :: [Praseodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.public.md) 
 
-### [Praseodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.internal.md) 
+### #is_/same_as :: [Praseodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.internal.md) 
 
-### [Praseodymium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.protect.md) 
+### #is_/same_as :: [Praseodymium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.protect.md) 
 
-### [Praseodymium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.private.md) 
+### #is_/same_as :: [Praseodymium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.private.md) 
 
-### [Praseodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.personal.md) 
+### #is_/same_as :: [Praseodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.personal.md) 
 
-### [Praseodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.secret.md)
+### #is_/same_as :: [Praseodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.secret.md)
 

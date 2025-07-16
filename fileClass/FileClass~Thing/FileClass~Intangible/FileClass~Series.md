@@ -35,17 +35,17 @@ A Series in schema.org is a group of related items, typically but not necessaril
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Series](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.md) 
+### #is_/same_as :: [FileClass~Series](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.md) 
 
-### [FileClass~Series.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.public.md) 
+### #is_/same_as :: [FileClass~Series.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.public.md) 
 
-### [FileClass~Series.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.internal.md) 
+### #is_/same_as :: [FileClass~Series.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.internal.md) 
 
-### [FileClass~Series.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.protect.md) 
+### #is_/same_as :: [FileClass~Series.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.protect.md) 
 
-### [FileClass~Series.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.private.md) 
+### #is_/same_as :: [FileClass~Series.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.private.md) 
 
-### [FileClass~Series.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.personal.md) 
+### #is_/same_as :: [FileClass~Series.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.personal.md) 
 
-### [FileClass~Series.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.secret.md)
+### #is_/same_as :: [FileClass~Series.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series.secret.md)
 

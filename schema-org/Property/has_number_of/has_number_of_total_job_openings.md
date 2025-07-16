@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_total_job_openings](/_Standards/schema-org/Property/has_number_of/has_number_of_total_job_openings.md) 
+### #is_/same_as :: [has_number_of_total_job_openings](/_Standards/schema-org/Property/has_number_of/has_number_of_total_job_openings.md) 
 
-### [has_number_of_total_job_openings.public](/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.public.md) 
+### #is_/same_as :: [has_number_of_total_job_openings.public](/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.public.md) 
 
-### [has_number_of_total_job_openings.internal](/_internal/schema-org/Property/has_number_of/has_number_of_total_job_openings.internal.md) 
+### #is_/same_as :: [has_number_of_total_job_openings.internal](/_internal/schema-org/Property/has_number_of/has_number_of_total_job_openings.internal.md) 
 
-### [has_number_of_total_job_openings.protect](/_protect/schema-org/Property/has_number_of/has_number_of_total_job_openings.protect.md) 
+### #is_/same_as :: [has_number_of_total_job_openings.protect](/_protect/schema-org/Property/has_number_of/has_number_of_total_job_openings.protect.md) 
 
-### [has_number_of_total_job_openings.private](/_private/schema-org/Property/has_number_of/has_number_of_total_job_openings.private.md) 
+### #is_/same_as :: [has_number_of_total_job_openings.private](/_private/schema-org/Property/has_number_of/has_number_of_total_job_openings.private.md) 
 
-### [has_number_of_total_job_openings.personal](/_personal/schema-org/Property/has_number_of/has_number_of_total_job_openings.personal.md) 
+### #is_/same_as :: [has_number_of_total_job_openings.personal](/_personal/schema-org/Property/has_number_of/has_number_of_total_job_openings.personal.md) 
 
-### [has_number_of_total_job_openings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret.md)
+### #is_/same_as :: [has_number_of_total_job_openings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret.md)
 

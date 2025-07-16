@@ -45,17 +45,17 @@ A legislative building—for example, the state capitol.
 
 ## Confidential Links & Embeds: 
 
-### [legislative_building](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.md) 
+### #is_/same_as :: [legislative_building](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.md) 
 
-### [legislative_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.public.md) 
+### #is_/same_as :: [legislative_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.public.md) 
 
-### [legislative_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.internal.md) 
+### #is_/same_as :: [legislative_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.internal.md) 
 
-### [legislative_building.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.protect.md) 
+### #is_/same_as :: [legislative_building.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.protect.md) 
 
-### [legislative_building.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.private.md) 
+### #is_/same_as :: [legislative_building.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.private.md) 
 
-### [legislative_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.personal.md) 
+### #is_/same_as :: [legislative_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.personal.md) 
 
-### [legislative_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.secret.md)
+### #is_/same_as :: [legislative_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.secret.md)
 

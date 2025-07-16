@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_additional_number_of_guests](/_Standards/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.md) 
+### #is_/same_as :: [has_number_of_additional_number_of_guests](/_Standards/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.md) 
 
-### [has_number_of_additional_number_of_guests.public](/_public/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.public.md) 
+### #is_/same_as :: [has_number_of_additional_number_of_guests.public](/_public/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.public.md) 
 
-### [has_number_of_additional_number_of_guests.internal](/_internal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.internal.md) 
+### #is_/same_as :: [has_number_of_additional_number_of_guests.internal](/_internal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.internal.md) 
 
-### [has_number_of_additional_number_of_guests.protect](/_protect/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.protect.md) 
+### #is_/same_as :: [has_number_of_additional_number_of_guests.protect](/_protect/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.protect.md) 
 
-### [has_number_of_additional_number_of_guests.private](/_private/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.private.md) 
+### #is_/same_as :: [has_number_of_additional_number_of_guests.private](/_private/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.private.md) 
 
-### [has_number_of_additional_number_of_guests.personal](/_personal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.personal.md) 
+### #is_/same_as :: [has_number_of_additional_number_of_guests.personal](/_personal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.personal.md) 
 
-### [has_number_of_additional_number_of_guests.secret](/_secret/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.secret.md)
+### #is_/same_as :: [has_number_of_additional_number_of_guests.secret](/_secret/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.secret.md)
 

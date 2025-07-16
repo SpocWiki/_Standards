@@ -45,17 +45,17 @@ Lists or enumerations dealing with status types.
 
 ## Confidential Links & Embeds: 
 
-### [status_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.md) 
+### #is_/same_as :: [status_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.md) 
 
-### [status_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.public.md) 
+### #is_/same_as :: [status_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.public.md) 
 
-### [status_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.internal.md) 
+### #is_/same_as :: [status_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.internal.md) 
 
-### [status_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.protect.md) 
+### #is_/same_as :: [status_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.protect.md) 
 
-### [status_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.private.md) 
+### #is_/same_as :: [status_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.private.md) 
 
-### [status_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.personal.md) 
+### #is_/same_as :: [status_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.personal.md) 
 
-### [status_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.secret.md)
+### #is_/same_as :: [status_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.secret.md)
 

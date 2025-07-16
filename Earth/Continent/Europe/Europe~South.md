@@ -29,17 +29,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Europe~South](/_Standards/Earth/Continent/Europe/Europe~South.md) 
+### #is_/same_as :: [Europe~South](/_Standards/Earth/Continent/Europe/Europe~South.md) 
 
-### [Europe~South.public](/_public/Earth/Continent/Europe/Europe~South.public.md) 
+### #is_/same_as :: [Europe~South.public](/_public/Earth/Continent/Europe/Europe~South.public.md) 
 
-### [Europe~South.internal](/_internal/Earth/Continent/Europe/Europe~South.internal.md) 
+### #is_/same_as :: [Europe~South.internal](/_internal/Earth/Continent/Europe/Europe~South.internal.md) 
 
-### [Europe~South.protect](/_protect/Earth/Continent/Europe/Europe~South.protect.md) 
+### #is_/same_as :: [Europe~South.protect](/_protect/Earth/Continent/Europe/Europe~South.protect.md) 
 
-### [Europe~South.private](/_private/Earth/Continent/Europe/Europe~South.private.md) 
+### #is_/same_as :: [Europe~South.private](/_private/Earth/Continent/Europe/Europe~South.private.md) 
 
-### [Europe~South.personal](/_personal/Earth/Continent/Europe/Europe~South.personal.md) 
+### #is_/same_as :: [Europe~South.personal](/_personal/Earth/Continent/Europe/Europe~South.personal.md) 
 
-### [Europe~South.secret](/_secret/Earth/Continent/Europe/Europe~South.secret.md)
+### #is_/same_as :: [Europe~South.secret](/_secret/Earth/Continent/Europe/Europe~South.secret.md)
 

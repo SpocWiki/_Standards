@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_aggregate_rating](/_Standards/schema-org/Relation/has/has_aggregate_rating.md) 
+### #is_/same_as :: [has_aggregate_rating](/_Standards/schema-org/Relation/has/has_aggregate_rating.md) 
 
-### [has_aggregate_rating.public](/_public/schema-org/Relation/has/has_aggregate_rating.public.md) 
+### #is_/same_as :: [has_aggregate_rating.public](/_public/schema-org/Relation/has/has_aggregate_rating.public.md) 
 
-### [has_aggregate_rating.internal](/_internal/schema-org/Relation/has/has_aggregate_rating.internal.md) 
+### #is_/same_as :: [has_aggregate_rating.internal](/_internal/schema-org/Relation/has/has_aggregate_rating.internal.md) 
 
-### [has_aggregate_rating.protect](/_protect/schema-org/Relation/has/has_aggregate_rating.protect.md) 
+### #is_/same_as :: [has_aggregate_rating.protect](/_protect/schema-org/Relation/has/has_aggregate_rating.protect.md) 
 
-### [has_aggregate_rating.private](/_private/schema-org/Relation/has/has_aggregate_rating.private.md) 
+### #is_/same_as :: [has_aggregate_rating.private](/_private/schema-org/Relation/has/has_aggregate_rating.private.md) 
 
-### [has_aggregate_rating.personal](/_personal/schema-org/Relation/has/has_aggregate_rating.personal.md) 
+### #is_/same_as :: [has_aggregate_rating.personal](/_personal/schema-org/Relation/has/has_aggregate_rating.personal.md) 
 
-### [has_aggregate_rating.secret](/_secret/schema-org/Relation/has/has_aggregate_rating.secret.md)
+### #is_/same_as :: [has_aggregate_rating.secret](/_secret/schema-org/Relation/has/has_aggregate_rating.secret.md)
 

@@ -45,17 +45,17 @@ A stadium.
 
 ## Confidential Links & Embeds: 
 
-### [stadium_or_arena](/_Standards/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.md) 
+### #is_/same_as :: [stadium_or_arena](/_Standards/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.md) 
 
-### [stadium_or_arena.public](/_public/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.public.md) 
+### #is_/same_as :: [stadium_or_arena.public](/_public/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.public.md) 
 
-### [stadium_or_arena.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.internal.md) 
+### #is_/same_as :: [stadium_or_arena.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.internal.md) 
 
-### [stadium_or_arena.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.protect.md) 
+### #is_/same_as :: [stadium_or_arena.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.protect.md) 
 
-### [stadium_or_arena.private](/_private/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.private.md) 
+### #is_/same_as :: [stadium_or_arena.private](/_private/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.private.md) 
 
-### [stadium_or_arena.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.personal.md) 
+### #is_/same_as :: [stadium_or_arena.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.personal.md) 
 
-### [stadium_or_arena.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.secret.md)
+### #is_/same_as :: [stadium_or_arena.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/stadium_or_arena.secret.md)
 

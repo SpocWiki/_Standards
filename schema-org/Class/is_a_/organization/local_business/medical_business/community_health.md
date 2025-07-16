@@ -47,17 +47,17 @@ A field of public health focusing on improving health characteristics of a defin
 
 ## Confidential Links & Embeds: 
 
-### [community_health](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.md) 
+### #is_/same_as :: [community_health](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.md) 
 
-### [community_health.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.public.md) 
+### #is_/same_as :: [community_health.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.public.md) 
 
-### [community_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.internal.md) 
+### #is_/same_as :: [community_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.internal.md) 
 
-### [community_health.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.protect.md) 
+### #is_/same_as :: [community_health.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.protect.md) 
 
-### [community_health.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.private.md) 
+### #is_/same_as :: [community_health.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.private.md) 
 
-### [community_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.personal.md) 
+### #is_/same_as :: [community_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.personal.md) 
 
-### [community_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.secret.md)
+### #is_/same_as :: [community_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.secret.md)
 

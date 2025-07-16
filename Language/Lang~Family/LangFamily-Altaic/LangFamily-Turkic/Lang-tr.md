@@ -153,17 +153,17 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhodiapolis%20%
 
 ## Confidential Links & Embeds: 
 
-### [Lang-tr](/_Standards/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.md) 
+### #is_/same_as :: [Lang-tr](/_Standards/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.md) 
 
-### [Lang-tr.public](/_public/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.public.md) 
+### #is_/same_as :: [Lang-tr.public](/_public/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.public.md) 
 
-### [Lang-tr.internal](/_internal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.internal.md) 
+### #is_/same_as :: [Lang-tr.internal](/_internal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.internal.md) 
 
-### [Lang-tr.protect](/_protect/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.protect.md) 
+### #is_/same_as :: [Lang-tr.protect](/_protect/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.protect.md) 
 
-### [Lang-tr.private](/_private/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.private.md) 
+### #is_/same_as :: [Lang-tr.private](/_private/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.private.md) 
 
-### [Lang-tr.personal](/_personal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.personal.md) 
+### #is_/same_as :: [Lang-tr.personal](/_personal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.personal.md) 
 
-### [Lang-tr.secret](/_secret/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.secret.md)
+### #is_/same_as :: [Lang-tr.secret](/_secret/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.secret.md)
 

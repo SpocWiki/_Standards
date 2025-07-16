@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_numbered_position](/_Standards/schema-org/Property/has_number_of/has_number_of_numbered_position.md) 
+### #is_/same_as :: [has_number_of_numbered_position](/_Standards/schema-org/Property/has_number_of/has_number_of_numbered_position.md) 
 
-### [has_number_of_numbered_position.public](/_public/schema-org/Property/has_number_of/has_number_of_numbered_position.public.md) 
+### #is_/same_as :: [has_number_of_numbered_position.public](/_public/schema-org/Property/has_number_of/has_number_of_numbered_position.public.md) 
 
-### [has_number_of_numbered_position.internal](/_internal/schema-org/Property/has_number_of/has_number_of_numbered_position.internal.md) 
+### #is_/same_as :: [has_number_of_numbered_position.internal](/_internal/schema-org/Property/has_number_of/has_number_of_numbered_position.internal.md) 
 
-### [has_number_of_numbered_position.protect](/_protect/schema-org/Property/has_number_of/has_number_of_numbered_position.protect.md) 
+### #is_/same_as :: [has_number_of_numbered_position.protect](/_protect/schema-org/Property/has_number_of/has_number_of_numbered_position.protect.md) 
 
-### [has_number_of_numbered_position.private](/_private/schema-org/Property/has_number_of/has_number_of_numbered_position.private.md) 
+### #is_/same_as :: [has_number_of_numbered_position.private](/_private/schema-org/Property/has_number_of/has_number_of_numbered_position.private.md) 
 
-### [has_number_of_numbered_position.personal](/_personal/schema-org/Property/has_number_of/has_number_of_numbered_position.personal.md) 
+### #is_/same_as :: [has_number_of_numbered_position.personal](/_personal/schema-org/Property/has_number_of/has_number_of_numbered_position.personal.md) 
 
-### [has_number_of_numbered_position.secret](/_secret/schema-org/Property/has_number_of/has_number_of_numbered_position.secret.md)
+### #is_/same_as :: [has_number_of_numbered_position.secret](/_secret/schema-org/Property/has_number_of/has_number_of_numbered_position.secret.md)
 

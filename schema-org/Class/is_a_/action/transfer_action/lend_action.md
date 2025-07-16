@@ -51,17 +51,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [lend_action](/_Standards/schema-org/Class/is_a_/action/transfer_action/lend_action.md) 
+### #is_/same_as :: [lend_action](/_Standards/schema-org/Class/is_a_/action/transfer_action/lend_action.md) 
 
-### [lend_action.public](/_public/schema-org/Class/is_a_/action/transfer_action/lend_action.public.md) 
+### #is_/same_as :: [lend_action.public](/_public/schema-org/Class/is_a_/action/transfer_action/lend_action.public.md) 
 
-### [lend_action.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/lend_action.internal.md) 
+### #is_/same_as :: [lend_action.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/lend_action.internal.md) 
 
-### [lend_action.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/lend_action.protect.md) 
+### #is_/same_as :: [lend_action.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/lend_action.protect.md) 
 
-### [lend_action.private](/_private/schema-org/Class/is_a_/action/transfer_action/lend_action.private.md) 
+### #is_/same_as :: [lend_action.private](/_private/schema-org/Class/is_a_/action/transfer_action/lend_action.private.md) 
 
-### [lend_action.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/lend_action.personal.md) 
+### #is_/same_as :: [lend_action.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/lend_action.personal.md) 
 
-### [lend_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/lend_action.secret.md)
+### #is_/same_as :: [lend_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/lend_action.secret.md)
 

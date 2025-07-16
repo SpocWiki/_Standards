@@ -36,21 +36,19 @@ has_id_wikidata: Q7322
 > [Wikipedia](https://en.wikipedia.org/wiki/Christopher%20Columbus)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Columbus,Christopher](/_Standards/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.md) 
+### #is_/same_as :: [Columbus,Christopher](/_Standards/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.md) 
 
-### [Columbus,Christopher.public](/_public/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.public.md) 
+### #is_/same_as :: [Columbus,Christopher.public](/_public/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.public.md) 
 
-### [Columbus,Christopher.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.internal.md) 
+### #is_/same_as :: [Columbus,Christopher.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.internal.md) 
 
-### [Columbus,Christopher.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.protect.md) 
+### #is_/same_as :: [Columbus,Christopher.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.protect.md) 
 
-### [Columbus,Christopher.private](/_private/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.private.md) 
+### #is_/same_as :: [Columbus,Christopher.private](/_private/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.private.md) 
 
-### [Columbus,Christopher.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.personal.md) 
+### #is_/same_as :: [Columbus,Christopher.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.personal.md) 
 
-### [Columbus,Christopher.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.secret.md)
+### #is_/same_as :: [Columbus,Christopher.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Columbus,Christopher.secret.md)
 

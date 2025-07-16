@@ -47,17 +47,17 @@ A performance group, such as a band, an orchestra, or a circus.
 
 ## Confidential Links & Embeds: 
 
-### [performing_group](/_Standards/schema-org/Class/is_a_/organization/performing_group.md) 
+### #is_/same_as :: [performing_group](/_Standards/schema-org/Class/is_a_/organization/performing_group.md) 
 
-### [performing_group.public](/_public/schema-org/Class/is_a_/organization/performing_group.public.md) 
+### #is_/same_as :: [performing_group.public](/_public/schema-org/Class/is_a_/organization/performing_group.public.md) 
 
-### [performing_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group.internal.md) 
+### #is_/same_as :: [performing_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group.internal.md) 
 
-### [performing_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group.protect.md) 
+### #is_/same_as :: [performing_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group.protect.md) 
 
-### [performing_group.private](/_private/schema-org/Class/is_a_/organization/performing_group.private.md) 
+### #is_/same_as :: [performing_group.private](/_private/schema-org/Class/is_a_/organization/performing_group.private.md) 
 
-### [performing_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group.personal.md) 
+### #is_/same_as :: [performing_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group.personal.md) 
 
-### [performing_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group.secret.md)
+### #is_/same_as :: [performing_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group.secret.md)
 

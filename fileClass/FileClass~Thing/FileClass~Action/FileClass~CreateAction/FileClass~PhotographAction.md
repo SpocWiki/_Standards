@@ -35,17 +35,17 @@ The act of capturing still images of objects using a camera.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PhotographAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.md) 
+### #is_/same_as :: [FileClass~PhotographAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.md) 
 
-### [FileClass~PhotographAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.public.md) 
+### #is_/same_as :: [FileClass~PhotographAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.public.md) 
 
-### [FileClass~PhotographAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.internal.md) 
+### #is_/same_as :: [FileClass~PhotographAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.internal.md) 
 
-### [FileClass~PhotographAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.protect.md) 
+### #is_/same_as :: [FileClass~PhotographAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.protect.md) 
 
-### [FileClass~PhotographAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.private.md) 
+### #is_/same_as :: [FileClass~PhotographAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.private.md) 
 
-### [FileClass~PhotographAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.personal.md) 
+### #is_/same_as :: [FileClass~PhotographAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.personal.md) 
 
-### [FileClass~PhotographAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret.md)
+### #is_/same_as :: [FileClass~PhotographAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret.md)
 

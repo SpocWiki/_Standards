@@ -199,21 +199,19 @@ dissolved_abolished_or_demolished_date: 1922-11-17T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Ottoman%20Empire) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [1300-Ottoman_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.md) 
+### #is_/same_as :: [1300-Ottoman_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.md) 
 
-### [1300-Ottoman_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.public.md) 
+### #is_/same_as :: [1300-Ottoman_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.public.md) 
 
-### [1300-Ottoman_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.internal.md) 
+### #is_/same_as :: [1300-Ottoman_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.internal.md) 
 
-### [1300-Ottoman_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.protect.md) 
+### #is_/same_as :: [1300-Ottoman_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.protect.md) 
 
-### [1300-Ottoman_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.private.md) 
+### #is_/same_as :: [1300-Ottoman_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.private.md) 
 
-### [1300-Ottoman_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.personal.md) 
+### #is_/same_as :: [1300-Ottoman_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.personal.md) 
 
-### [1300-Ottoman_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.secret.md)
+### #is_/same_as :: [1300-Ottoman_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire.secret.md)
 

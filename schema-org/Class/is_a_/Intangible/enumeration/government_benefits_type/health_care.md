@@ -49,17 +49,17 @@ HealthCare: this is a benefit for health care.
 
 ## Confidential Links & Embeds: 
 
-### [health_care](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.md) 
+### #is_/same_as :: [health_care](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.md) 
 
-### [health_care.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.public.md) 
+### #is_/same_as :: [health_care.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.public.md) 
 
-### [health_care.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.internal.md) 
+### #is_/same_as :: [health_care.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.internal.md) 
 
-### [health_care.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.protect.md) 
+### #is_/same_as :: [health_care.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.protect.md) 
 
-### [health_care.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.private.md) 
+### #is_/same_as :: [health_care.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.private.md) 
 
-### [health_care.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.personal.md) 
+### #is_/same_as :: [health_care.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.personal.md) 
 
-### [health_care.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.secret.md)
+### #is_/same_as :: [health_care.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.secret.md)
 

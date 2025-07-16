@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_is_yielding_servings](/_Standards/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.md) 
+### #is_/same_as :: [has_value_for_is_yielding_servings](/_Standards/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.md) 
 
-### [has_value_for_is_yielding_servings.public](/_public/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.public.md) 
+### #is_/same_as :: [has_value_for_is_yielding_servings.public](/_public/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.public.md) 
 
-### [has_value_for_is_yielding_servings.internal](/_internal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.internal.md) 
+### #is_/same_as :: [has_value_for_is_yielding_servings.internal](/_internal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.internal.md) 
 
-### [has_value_for_is_yielding_servings.protect](/_protect/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.protect.md) 
+### #is_/same_as :: [has_value_for_is_yielding_servings.protect](/_protect/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.protect.md) 
 
-### [has_value_for_is_yielding_servings.private](/_private/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.private.md) 
+### #is_/same_as :: [has_value_for_is_yielding_servings.private](/_private/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.private.md) 
 
-### [has_value_for_is_yielding_servings.personal](/_personal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.personal.md) 
+### #is_/same_as :: [has_value_for_is_yielding_servings.personal](/_personal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.personal.md) 
 
-### [has_value_for_is_yielding_servings.secret](/_secret/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.secret.md)
+### #is_/same_as :: [has_value_for_is_yielding_servings.secret](/_secret/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.secret.md)
 

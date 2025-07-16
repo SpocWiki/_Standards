@@ -167,17 +167,17 @@ time_of_discovery_or_invention: "1797"
 
 ## Confidential Links & Embeds: 
 
-### [Chromium](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Chromium.md) 
+### #is_/same_as :: [Chromium](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Chromium.md) 
 
-### [Chromium.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Chromium.public.md) 
+### #is_/same_as :: [Chromium.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Chromium.public.md) 
 
-### [Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Chromium.internal.md) 
+### #is_/same_as :: [Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Chromium.internal.md) 
 
-### [Chromium.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Chromium.protect.md) 
+### #is_/same_as :: [Chromium.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Chromium.protect.md) 
 
-### [Chromium.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Chromium.private.md) 
+### #is_/same_as :: [Chromium.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Chromium.private.md) 
 
-### [Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Chromium.personal.md) 
+### #is_/same_as :: [Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Chromium.personal.md) 
 
-### [Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Chromium.secret.md)
+### #is_/same_as :: [Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Chromium.secret.md)
 

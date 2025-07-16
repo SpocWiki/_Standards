@@ -35,17 +35,17 @@ An image of a visual machine-readable code such as a barcode or QR code.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Barcode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.md) 
+### #is_/same_as :: [FileClass~Barcode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.md) 
 
-### [FileClass~Barcode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.public.md) 
+### #is_/same_as :: [FileClass~Barcode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.public.md) 
 
-### [FileClass~Barcode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.internal.md) 
+### #is_/same_as :: [FileClass~Barcode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.internal.md) 
 
-### [FileClass~Barcode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.protect.md) 
+### #is_/same_as :: [FileClass~Barcode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.protect.md) 
 
-### [FileClass~Barcode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.private.md) 
+### #is_/same_as :: [FileClass~Barcode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.private.md) 
 
-### [FileClass~Barcode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.personal.md) 
+### #is_/same_as :: [FileClass~Barcode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.personal.md) 
 
-### [FileClass~Barcode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.secret.md)
+### #is_/same_as :: [FileClass~Barcode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.secret.md)
 

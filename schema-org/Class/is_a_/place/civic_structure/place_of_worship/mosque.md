@@ -45,17 +45,17 @@ A mosque.
 
 ## Confidential Links & Embeds: 
 
-### [mosque](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.md) 
+### #is_/same_as :: [mosque](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.md) 
 
-### [mosque.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.public.md) 
+### #is_/same_as :: [mosque.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.public.md) 
 
-### [mosque.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.internal.md) 
+### #is_/same_as :: [mosque.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.internal.md) 
 
-### [mosque.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.protect.md) 
+### #is_/same_as :: [mosque.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.protect.md) 
 
-### [mosque.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.private.md) 
+### #is_/same_as :: [mosque.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.private.md) 
 
-### [mosque.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.personal.md) 
+### #is_/same_as :: [mosque.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.personal.md) 
 
-### [mosque.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.secret.md)
+### #is_/same_as :: [mosque.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/mosque.secret.md)
 

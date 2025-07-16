@@ -45,17 +45,17 @@ A motorcycle repair shop.
 
 ## Confidential Links & Embeds: 
 
-### [motorcycle_repair](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.md) 
+### #is_/same_as :: [motorcycle_repair](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.md) 
 
-### [motorcycle_repair.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.public.md) 
+### #is_/same_as :: [motorcycle_repair.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.public.md) 
 
-### [motorcycle_repair.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.internal.md) 
+### #is_/same_as :: [motorcycle_repair.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.internal.md) 
 
-### [motorcycle_repair.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.protect.md) 
+### #is_/same_as :: [motorcycle_repair.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.protect.md) 
 
-### [motorcycle_repair.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.private.md) 
+### #is_/same_as :: [motorcycle_repair.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.private.md) 
 
-### [motorcycle_repair.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.personal.md) 
+### #is_/same_as :: [motorcycle_repair.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.personal.md) 
 
-### [motorcycle_repair.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.secret.md)
+### #is_/same_as :: [motorcycle_repair.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.secret.md)
 

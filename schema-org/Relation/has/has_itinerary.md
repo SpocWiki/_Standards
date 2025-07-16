@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_itinerary](/_Standards/schema-org/Relation/has/has_itinerary.md) 
+### #is_/same_as :: [has_itinerary](/_Standards/schema-org/Relation/has/has_itinerary.md) 
 
-### [has_itinerary.public](/_public/schema-org/Relation/has/has_itinerary.public.md) 
+### #is_/same_as :: [has_itinerary.public](/_public/schema-org/Relation/has/has_itinerary.public.md) 
 
-### [has_itinerary.internal](/_internal/schema-org/Relation/has/has_itinerary.internal.md) 
+### #is_/same_as :: [has_itinerary.internal](/_internal/schema-org/Relation/has/has_itinerary.internal.md) 
 
-### [has_itinerary.protect](/_protect/schema-org/Relation/has/has_itinerary.protect.md) 
+### #is_/same_as :: [has_itinerary.protect](/_protect/schema-org/Relation/has/has_itinerary.protect.md) 
 
-### [has_itinerary.private](/_private/schema-org/Relation/has/has_itinerary.private.md) 
+### #is_/same_as :: [has_itinerary.private](/_private/schema-org/Relation/has/has_itinerary.private.md) 
 
-### [has_itinerary.personal](/_personal/schema-org/Relation/has/has_itinerary.personal.md) 
+### #is_/same_as :: [has_itinerary.personal](/_personal/schema-org/Relation/has/has_itinerary.personal.md) 
 
-### [has_itinerary.secret](/_secret/schema-org/Relation/has/has_itinerary.secret.md)
+### #is_/same_as :: [has_itinerary.secret](/_secret/schema-org/Relation/has/has_itinerary.secret.md)
 

@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_of_branch](/_Standards/schema-org/Property/has_name/has_code_of_branch.md) 
+### #is_/same_as :: [has_code_of_branch](/_Standards/schema-org/Property/has_name/has_code_of_branch.md) 
 
-### [has_code_of_branch.public](/_public/schema-org/Property/has_name/has_code_of_branch.public.md) 
+### #is_/same_as :: [has_code_of_branch.public](/_public/schema-org/Property/has_name/has_code_of_branch.public.md) 
 
-### [has_code_of_branch.internal](/_internal/schema-org/Property/has_name/has_code_of_branch.internal.md) 
+### #is_/same_as :: [has_code_of_branch.internal](/_internal/schema-org/Property/has_name/has_code_of_branch.internal.md) 
 
-### [has_code_of_branch.protect](/_protect/schema-org/Property/has_name/has_code_of_branch.protect.md) 
+### #is_/same_as :: [has_code_of_branch.protect](/_protect/schema-org/Property/has_name/has_code_of_branch.protect.md) 
 
-### [has_code_of_branch.private](/_private/schema-org/Property/has_name/has_code_of_branch.private.md) 
+### #is_/same_as :: [has_code_of_branch.private](/_private/schema-org/Property/has_name/has_code_of_branch.private.md) 
 
-### [has_code_of_branch.personal](/_personal/schema-org/Property/has_name/has_code_of_branch.personal.md) 
+### #is_/same_as :: [has_code_of_branch.personal](/_personal/schema-org/Property/has_name/has_code_of_branch.personal.md) 
 
-### [has_code_of_branch.secret](/_secret/schema-org/Property/has_name/has_code_of_branch.secret.md)
+### #is_/same_as :: [has_code_of_branch.secret](/_secret/schema-org/Property/has_name/has_code_of_branch.secret.md)
 

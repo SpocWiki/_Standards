@@ -51,17 +51,17 @@ The term "story" is any indivisible, re-printable
 
 ## Confidential Links & Embeds: 
 
-### [comic_story](/_Standards/schema-org/Class/is_a_/creative_work/comic_story.md) 
+### #is_/same_as :: [comic_story](/_Standards/schema-org/Class/is_a_/creative_work/comic_story.md) 
 
-### [comic_story.public](/_public/schema-org/Class/is_a_/creative_work/comic_story.public.md) 
+### #is_/same_as :: [comic_story.public](/_public/schema-org/Class/is_a_/creative_work/comic_story.public.md) 
 
-### [comic_story.internal](/_internal/schema-org/Class/is_a_/creative_work/comic_story.internal.md) 
+### #is_/same_as :: [comic_story.internal](/_internal/schema-org/Class/is_a_/creative_work/comic_story.internal.md) 
 
-### [comic_story.protect](/_protect/schema-org/Class/is_a_/creative_work/comic_story.protect.md) 
+### #is_/same_as :: [comic_story.protect](/_protect/schema-org/Class/is_a_/creative_work/comic_story.protect.md) 
 
-### [comic_story.private](/_private/schema-org/Class/is_a_/creative_work/comic_story.private.md) 
+### #is_/same_as :: [comic_story.private](/_private/schema-org/Class/is_a_/creative_work/comic_story.private.md) 
 
-### [comic_story.personal](/_personal/schema-org/Class/is_a_/creative_work/comic_story.personal.md) 
+### #is_/same_as :: [comic_story.personal](/_personal/schema-org/Class/is_a_/creative_work/comic_story.personal.md) 
 
-### [comic_story.secret](/_secret/schema-org/Class/is_a_/creative_work/comic_story.secret.md)
+### #is_/same_as :: [comic_story.secret](/_secret/schema-org/Class/is_a_/creative_work/comic_story.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_taxonomic_range](/_Standards/schema-org/Relation/has/has_taxonomic_range.md) 
+### #is_/same_as :: [has_taxonomic_range](/_Standards/schema-org/Relation/has/has_taxonomic_range.md) 
 
-### [has_taxonomic_range.public](/_public/schema-org/Relation/has/has_taxonomic_range.public.md) 
+### #is_/same_as :: [has_taxonomic_range.public](/_public/schema-org/Relation/has/has_taxonomic_range.public.md) 
 
-### [has_taxonomic_range.internal](/_internal/schema-org/Relation/has/has_taxonomic_range.internal.md) 
+### #is_/same_as :: [has_taxonomic_range.internal](/_internal/schema-org/Relation/has/has_taxonomic_range.internal.md) 
 
-### [has_taxonomic_range.protect](/_protect/schema-org/Relation/has/has_taxonomic_range.protect.md) 
+### #is_/same_as :: [has_taxonomic_range.protect](/_protect/schema-org/Relation/has/has_taxonomic_range.protect.md) 
 
-### [has_taxonomic_range.private](/_private/schema-org/Relation/has/has_taxonomic_range.private.md) 
+### #is_/same_as :: [has_taxonomic_range.private](/_private/schema-org/Relation/has/has_taxonomic_range.private.md) 
 
-### [has_taxonomic_range.personal](/_personal/schema-org/Relation/has/has_taxonomic_range.personal.md) 
+### #is_/same_as :: [has_taxonomic_range.personal](/_personal/schema-org/Relation/has/has_taxonomic_range.personal.md) 
 
-### [has_taxonomic_range.secret](/_secret/schema-org/Relation/has/has_taxonomic_range.secret.md)
+### #is_/same_as :: [has_taxonomic_range.secret](/_secret/schema-org/Relation/has/has_taxonomic_range.secret.md)
 

@@ -67,17 +67,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~6~Permian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.md) 
+### #is_/same_as :: [Period~6~Permian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.md) 
 
-### [Period~6~Permian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.public.md) 
+### #is_/same_as :: [Period~6~Permian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.public.md) 
 
-### [Period~6~Permian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.internal.md) 
+### #is_/same_as :: [Period~6~Permian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.internal.md) 
 
-### [Period~6~Permian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.protect.md) 
+### #is_/same_as :: [Period~6~Permian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.protect.md) 
 
-### [Period~6~Permian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.private.md) 
+### #is_/same_as :: [Period~6~Permian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.private.md) 
 
-### [Period~6~Permian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.personal.md) 
+### #is_/same_as :: [Period~6~Permian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.personal.md) 
 
-### [Period~6~Permian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.secret.md)
+### #is_/same_as :: [Period~6~Permian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.secret.md)
 

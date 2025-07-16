@@ -964,17 +964,17 @@ Capital :: [[Mexico_City]]
 
 ## Confidential Links & Embeds: 
 
-### [Mexico](/_Standards/Earth/Continent/America~Central/Mexico.md) 
+### #is_/same_as :: [Mexico](/_Standards/Earth/Continent/America~Central/Mexico.md) 
 
-### [Mexico.public](/_public/Earth/Continent/America~Central/Mexico.public.md) 
+### #is_/same_as :: [Mexico.public](/_public/Earth/Continent/America~Central/Mexico.public.md) 
 
-### [Mexico.internal](/_internal/Earth/Continent/America~Central/Mexico.internal.md) 
+### #is_/same_as :: [Mexico.internal](/_internal/Earth/Continent/America~Central/Mexico.internal.md) 
 
-### [Mexico.protect](/_protect/Earth/Continent/America~Central/Mexico.protect.md) 
+### #is_/same_as :: [Mexico.protect](/_protect/Earth/Continent/America~Central/Mexico.protect.md) 
 
-### [Mexico.private](/_private/Earth/Continent/America~Central/Mexico.private.md) 
+### #is_/same_as :: [Mexico.private](/_private/Earth/Continent/America~Central/Mexico.private.md) 
 
-### [Mexico.personal](/_personal/Earth/Continent/America~Central/Mexico.personal.md) 
+### #is_/same_as :: [Mexico.personal](/_personal/Earth/Continent/America~Central/Mexico.personal.md) 
 
-### [Mexico.secret](/_secret/Earth/Continent/America~Central/Mexico.secret.md)
+### #is_/same_as :: [Mexico.secret](/_secret/Earth/Continent/America~Central/Mexico.secret.md)
 

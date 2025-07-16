@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_product_group](/_Standards/schema-org/Property/has_name/has_id_product_group.md) 
+### #is_/same_as :: [has_id_product_group](/_Standards/schema-org/Property/has_name/has_id_product_group.md) 
 
-### [has_id_product_group.public](/_public/schema-org/Property/has_name/has_id_product_group.public.md) 
+### #is_/same_as :: [has_id_product_group.public](/_public/schema-org/Property/has_name/has_id_product_group.public.md) 
 
-### [has_id_product_group.internal](/_internal/schema-org/Property/has_name/has_id_product_group.internal.md) 
+### #is_/same_as :: [has_id_product_group.internal](/_internal/schema-org/Property/has_name/has_id_product_group.internal.md) 
 
-### [has_id_product_group.protect](/_protect/schema-org/Property/has_name/has_id_product_group.protect.md) 
+### #is_/same_as :: [has_id_product_group.protect](/_protect/schema-org/Property/has_name/has_id_product_group.protect.md) 
 
-### [has_id_product_group.private](/_private/schema-org/Property/has_name/has_id_product_group.private.md) 
+### #is_/same_as :: [has_id_product_group.private](/_private/schema-org/Property/has_name/has_id_product_group.private.md) 
 
-### [has_id_product_group.personal](/_personal/schema-org/Property/has_name/has_id_product_group.personal.md) 
+### #is_/same_as :: [has_id_product_group.personal](/_personal/schema-org/Property/has_name/has_id_product_group.personal.md) 
 
-### [has_id_product_group.secret](/_secret/schema-org/Property/has_name/has_id_product_group.secret.md)
+### #is_/same_as :: [has_id_product_group.secret](/_secret/schema-org/Property/has_name/has_id_product_group.secret.md)
 

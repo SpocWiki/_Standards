@@ -35,17 +35,17 @@ An event venue.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EventVenue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.md) 
+### #is_/same_as :: [FileClass~EventVenue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.md) 
 
-### [FileClass~EventVenue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.public.md) 
+### #is_/same_as :: [FileClass~EventVenue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.public.md) 
 
-### [FileClass~EventVenue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.internal.md) 
+### #is_/same_as :: [FileClass~EventVenue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.internal.md) 
 
-### [FileClass~EventVenue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.protect.md) 
+### #is_/same_as :: [FileClass~EventVenue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.protect.md) 
 
-### [FileClass~EventVenue.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.private.md) 
+### #is_/same_as :: [FileClass~EventVenue.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.private.md) 
 
-### [FileClass~EventVenue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.personal.md) 
+### #is_/same_as :: [FileClass~EventVenue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.personal.md) 
 
-### [FileClass~EventVenue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.secret.md)
+### #is_/same_as :: [FileClass~EventVenue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~EventVenue.secret.md)
 

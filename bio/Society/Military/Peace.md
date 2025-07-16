@@ -49,21 +49,19 @@ Commons_category: Peace
 > [Wikipedia](https://en.wikipedia.org/wiki/Peace)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Peace](/_Standards/bio/Society/Military/Peace.md) 
+### #is_/same_as :: [Peace](/_Standards/bio/Society/Military/Peace.md) 
 
-### [Peace.public](/_public/bio/Society/Military/Peace.public.md) 
+### #is_/same_as :: [Peace.public](/_public/bio/Society/Military/Peace.public.md) 
 
-### [Peace.internal](/_internal/bio/Society/Military/Peace.internal.md) 
+### #is_/same_as :: [Peace.internal](/_internal/bio/Society/Military/Peace.internal.md) 
 
-### [Peace.protect](/_protect/bio/Society/Military/Peace.protect.md) 
+### #is_/same_as :: [Peace.protect](/_protect/bio/Society/Military/Peace.protect.md) 
 
-### [Peace.private](/_private/bio/Society/Military/Peace.private.md) 
+### #is_/same_as :: [Peace.private](/_private/bio/Society/Military/Peace.private.md) 
 
-### [Peace.personal](/_personal/bio/Society/Military/Peace.personal.md) 
+### #is_/same_as :: [Peace.personal](/_personal/bio/Society/Military/Peace.personal.md) 
 
-### [Peace.secret](/_secret/bio/Society/Military/Peace.secret.md)
+### #is_/same_as :: [Peace.secret](/_secret/bio/Society/Military/Peace.secret.md)
 

@@ -51,17 +51,17 @@ This Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_previous_item](/_Standards/schema-org/Relation/has/has_previous_item.md) 
+### #is_/same_as :: [has_previous_item](/_Standards/schema-org/Relation/has/has_previous_item.md) 
 
-### [has_previous_item.public](/_public/schema-org/Relation/has/has_previous_item.public.md) 
+### #is_/same_as :: [has_previous_item.public](/_public/schema-org/Relation/has/has_previous_item.public.md) 
 
-### [has_previous_item.internal](/_internal/schema-org/Relation/has/has_previous_item.internal.md) 
+### #is_/same_as :: [has_previous_item.internal](/_internal/schema-org/Relation/has/has_previous_item.internal.md) 
 
-### [has_previous_item.protect](/_protect/schema-org/Relation/has/has_previous_item.protect.md) 
+### #is_/same_as :: [has_previous_item.protect](/_protect/schema-org/Relation/has/has_previous_item.protect.md) 
 
-### [has_previous_item.private](/_private/schema-org/Relation/has/has_previous_item.private.md) 
+### #is_/same_as :: [has_previous_item.private](/_private/schema-org/Relation/has/has_previous_item.private.md) 
 
-### [has_previous_item.personal](/_personal/schema-org/Relation/has/has_previous_item.personal.md) 
+### #is_/same_as :: [has_previous_item.personal](/_personal/schema-org/Relation/has/has_previous_item.personal.md) 
 
-### [has_previous_item.secret](/_secret/schema-org/Relation/has/has_previous_item.secret.md)
+### #is_/same_as :: [has_previous_item.secret](/_secret/schema-org/Relation/has/has_previous_item.secret.md)
 

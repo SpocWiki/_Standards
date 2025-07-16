@@ -104,20 +104,19 @@ country_of_origin: "[[_Standards/WikiData/WD~Near_East,48214]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/One%20Thousand%20and%20One%20Nights)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [1001_Nights](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.md) 
+### #is_/same_as :: [1001_Nights](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.md) 
 
-### [1001_Nights.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.public.md) 
+### #is_/same_as :: [1001_Nights.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.public.md) 
 
-### [1001_Nights.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.internal.md) 
+### #is_/same_as :: [1001_Nights.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.internal.md) 
 
-### [1001_Nights.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.protect.md) 
+### #is_/same_as :: [1001_Nights.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.protect.md) 
 
-### [1001_Nights.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.private.md) 
+### #is_/same_as :: [1001_Nights.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.private.md) 
 
-### [1001_Nights.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.personal.md) 
+### #is_/same_as :: [1001_Nights.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.personal.md) 
 
-### [1001_Nights.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.secret.md)
+### #is_/same_as :: [1001_Nights.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/1001_Nights.secret.md)
 

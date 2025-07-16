@@ -83,21 +83,19 @@ Creator           Ivy Livingstone
 Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Tardigrade](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.md) 
+### #is_/same_as :: [Tardigrade](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.md) 
 
-### [Tardigrade.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.public.md) 
+### #is_/same_as :: [Tardigrade.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.public.md) 
 
-### [Tardigrade.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.internal.md) 
+### #is_/same_as :: [Tardigrade.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.internal.md) 
 
-### [Tardigrade.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.protect.md) 
+### #is_/same_as :: [Tardigrade.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.protect.md) 
 
-### [Tardigrade.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.private.md) 
+### #is_/same_as :: [Tardigrade.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.private.md) 
 
-### [Tardigrade.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.personal.md) 
+### #is_/same_as :: [Tardigrade.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.personal.md) 
 
-### [Tardigrade.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.secret.md)
+### #is_/same_as :: [Tardigrade.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Tardigrade.secret.md)
 

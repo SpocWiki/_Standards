@@ -47,17 +47,17 @@ A sports location, such as a playing field.
 
 ## Confidential Links & Embeds: 
 
-### [sports_activity_location](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location.md) 
+### #is_/same_as :: [sports_activity_location](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location.md) 
 
-### [sports_activity_location.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location.public.md) 
+### #is_/same_as :: [sports_activity_location.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location.public.md) 
 
-### [sports_activity_location.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location.internal.md) 
+### #is_/same_as :: [sports_activity_location.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location.internal.md) 
 
-### [sports_activity_location.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location.protect.md) 
+### #is_/same_as :: [sports_activity_location.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location.protect.md) 
 
-### [sports_activity_location.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location.private.md) 
+### #is_/same_as :: [sports_activity_location.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location.private.md) 
 
-### [sports_activity_location.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location.personal.md) 
+### #is_/same_as :: [sports_activity_location.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location.personal.md) 
 
-### [sports_activity_location.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location.secret.md)
+### #is_/same_as :: [sports_activity_location.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location.secret.md)
 

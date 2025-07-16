@@ -59,17 +59,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~3~Cambrian-Stage-10](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.md) 
+### #is_/same_as :: [Age~3~Cambrian-Stage-10](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.md) 
 
-### [Age~3~Cambrian-Stage-10.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.public.md) 
+### #is_/same_as :: [Age~3~Cambrian-Stage-10.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.public.md) 
 
-### [Age~3~Cambrian-Stage-10.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.internal.md) 
+### #is_/same_as :: [Age~3~Cambrian-Stage-10.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.internal.md) 
 
-### [Age~3~Cambrian-Stage-10.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.protect.md) 
+### #is_/same_as :: [Age~3~Cambrian-Stage-10.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.protect.md) 
 
-### [Age~3~Cambrian-Stage-10.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.private.md) 
+### #is_/same_as :: [Age~3~Cambrian-Stage-10.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.private.md) 
 
-### [Age~3~Cambrian-Stage-10.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.personal.md) 
+### #is_/same_as :: [Age~3~Cambrian-Stage-10.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.personal.md) 
 
-### [Age~3~Cambrian-Stage-10.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.secret.md)
+### #is_/same_as :: [Age~3~Cambrian-Stage-10.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.secret.md)
 

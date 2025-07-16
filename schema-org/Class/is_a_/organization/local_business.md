@@ -47,17 +47,17 @@ A particular physical business or branch of an organization. Examples of LocalBu
 
 ## Confidential Links & Embeds: 
 
-### [local_business](/_Standards/schema-org/Class/is_a_/organization/local_business.md) 
+### #is_/same_as :: [local_business](/_Standards/schema-org/Class/is_a_/organization/local_business.md) 
 
-### [local_business.public](/_public/schema-org/Class/is_a_/organization/local_business.public.md) 
+### #is_/same_as :: [local_business.public](/_public/schema-org/Class/is_a_/organization/local_business.public.md) 
 
-### [local_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business.internal.md) 
+### #is_/same_as :: [local_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business.internal.md) 
 
-### [local_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business.protect.md) 
+### #is_/same_as :: [local_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business.protect.md) 
 
-### [local_business.private](/_private/schema-org/Class/is_a_/organization/local_business.private.md) 
+### #is_/same_as :: [local_business.private](/_private/schema-org/Class/is_a_/organization/local_business.private.md) 
 
-### [local_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business.personal.md) 
+### #is_/same_as :: [local_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business.personal.md) 
 
-### [local_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business.secret.md)
+### #is_/same_as :: [local_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business.secret.md)
 

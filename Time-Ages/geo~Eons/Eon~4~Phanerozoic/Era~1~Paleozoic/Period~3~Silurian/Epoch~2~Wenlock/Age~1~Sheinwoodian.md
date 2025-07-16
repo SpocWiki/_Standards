@@ -58,17 +58,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~1~Sheinwoodian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.md) 
+### #is_/same_as :: [Age~1~Sheinwoodian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.md) 
 
-### [Age~1~Sheinwoodian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.public.md) 
+### #is_/same_as :: [Age~1~Sheinwoodian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.public.md) 
 
-### [Age~1~Sheinwoodian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.internal.md) 
+### #is_/same_as :: [Age~1~Sheinwoodian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.internal.md) 
 
-### [Age~1~Sheinwoodian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.protect.md) 
+### #is_/same_as :: [Age~1~Sheinwoodian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.protect.md) 
 
-### [Age~1~Sheinwoodian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.private.md) 
+### #is_/same_as :: [Age~1~Sheinwoodian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.private.md) 
 
-### [Age~1~Sheinwoodian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.personal.md) 
+### #is_/same_as :: [Age~1~Sheinwoodian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.personal.md) 
 
-### [Age~1~Sheinwoodian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.secret.md)
+### #is_/same_as :: [Age~1~Sheinwoodian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~1~Sheinwoodian.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_shipping_origin](/_Standards/schema-org/Relation/has/has_shipping_origin.md) 
+### #is_/same_as :: [has_shipping_origin](/_Standards/schema-org/Relation/has/has_shipping_origin.md) 
 
-### [has_shipping_origin.public](/_public/schema-org/Relation/has/has_shipping_origin.public.md) 
+### #is_/same_as :: [has_shipping_origin.public](/_public/schema-org/Relation/has/has_shipping_origin.public.md) 
 
-### [has_shipping_origin.internal](/_internal/schema-org/Relation/has/has_shipping_origin.internal.md) 
+### #is_/same_as :: [has_shipping_origin.internal](/_internal/schema-org/Relation/has/has_shipping_origin.internal.md) 
 
-### [has_shipping_origin.protect](/_protect/schema-org/Relation/has/has_shipping_origin.protect.md) 
+### #is_/same_as :: [has_shipping_origin.protect](/_protect/schema-org/Relation/has/has_shipping_origin.protect.md) 
 
-### [has_shipping_origin.private](/_private/schema-org/Relation/has/has_shipping_origin.private.md) 
+### #is_/same_as :: [has_shipping_origin.private](/_private/schema-org/Relation/has/has_shipping_origin.private.md) 
 
-### [has_shipping_origin.personal](/_personal/schema-org/Relation/has/has_shipping_origin.personal.md) 
+### #is_/same_as :: [has_shipping_origin.personal](/_personal/schema-org/Relation/has/has_shipping_origin.personal.md) 
 
-### [has_shipping_origin.secret](/_secret/schema-org/Relation/has/has_shipping_origin.secret.md)
+### #is_/same_as :: [has_shipping_origin.secret](/_secret/schema-org/Relation/has/has_shipping_origin.secret.md)
 

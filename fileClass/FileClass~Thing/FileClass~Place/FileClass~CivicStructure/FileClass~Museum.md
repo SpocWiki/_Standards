@@ -35,17 +35,17 @@ A museum.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Museum](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.md) 
+### #is_/same_as :: [FileClass~Museum](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.md) 
 
-### [FileClass~Museum.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.public.md) 
+### #is_/same_as :: [FileClass~Museum.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.public.md) 
 
-### [FileClass~Museum.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.internal.md) 
+### #is_/same_as :: [FileClass~Museum.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.internal.md) 
 
-### [FileClass~Museum.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.protect.md) 
+### #is_/same_as :: [FileClass~Museum.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.protect.md) 
 
-### [FileClass~Museum.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.private.md) 
+### #is_/same_as :: [FileClass~Museum.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.private.md) 
 
-### [FileClass~Museum.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.personal.md) 
+### #is_/same_as :: [FileClass~Museum.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.personal.md) 
 
-### [FileClass~Museum.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.secret.md)
+### #is_/same_as :: [FileClass~Museum.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.secret.md)
 

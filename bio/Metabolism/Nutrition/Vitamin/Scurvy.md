@@ -20,21 +20,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Scurvy)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Scurvy](/_Standards/bio/Metabolism/Nutrition/Vitamin/Scurvy.md) 
+### #is_/same_as :: [Scurvy](/_Standards/bio/Metabolism/Nutrition/Vitamin/Scurvy.md) 
 
-### [Scurvy.public](/_public/bio/Metabolism/Nutrition/Vitamin/Scurvy.public.md) 
+### #is_/same_as :: [Scurvy.public](/_public/bio/Metabolism/Nutrition/Vitamin/Scurvy.public.md) 
 
-### [Scurvy.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Scurvy.internal.md) 
+### #is_/same_as :: [Scurvy.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Scurvy.internal.md) 
 
-### [Scurvy.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Scurvy.protect.md) 
+### #is_/same_as :: [Scurvy.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Scurvy.protect.md) 
 
-### [Scurvy.private](/_private/bio/Metabolism/Nutrition/Vitamin/Scurvy.private.md) 
+### #is_/same_as :: [Scurvy.private](/_private/bio/Metabolism/Nutrition/Vitamin/Scurvy.private.md) 
 
-### [Scurvy.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Scurvy.personal.md) 
+### #is_/same_as :: [Scurvy.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Scurvy.personal.md) 
 
-### [Scurvy.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Scurvy.secret.md)
+### #is_/same_as :: [Scurvy.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Scurvy.secret.md)
 

@@ -149,17 +149,17 @@ Capital :: [[Honiara]]
 
 ## Confidential Links & Embeds: 
 
-### [Solomon~Islands](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands.md) 
+### #is_/same_as :: [Solomon~Islands](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands.md) 
 
-### [Solomon~Islands.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands.public.md) 
+### #is_/same_as :: [Solomon~Islands.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands.public.md) 
 
-### [Solomon~Islands.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.internal.md) 
+### #is_/same_as :: [Solomon~Islands.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.internal.md) 
 
-### [Solomon~Islands.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands.protect.md) 
+### #is_/same_as :: [Solomon~Islands.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands.protect.md) 
 
-### [Solomon~Islands.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands.private.md) 
+### #is_/same_as :: [Solomon~Islands.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands.private.md) 
 
-### [Solomon~Islands.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.personal.md) 
+### #is_/same_as :: [Solomon~Islands.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.personal.md) 
 
-### [Solomon~Islands.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands.secret.md)
+### #is_/same_as :: [Solomon~Islands.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands.secret.md)
 

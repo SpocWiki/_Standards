@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_director](/_Standards/schema-org/Relation/has/has_director.md) 
+### #is_/same_as :: [has_director](/_Standards/schema-org/Relation/has/has_director.md) 
 
-### [has_director.public](/_public/schema-org/Relation/has/has_director.public.md) 
+### #is_/same_as :: [has_director.public](/_public/schema-org/Relation/has/has_director.public.md) 
 
-### [has_director.internal](/_internal/schema-org/Relation/has/has_director.internal.md) 
+### #is_/same_as :: [has_director.internal](/_internal/schema-org/Relation/has/has_director.internal.md) 
 
-### [has_director.protect](/_protect/schema-org/Relation/has/has_director.protect.md) 
+### #is_/same_as :: [has_director.protect](/_protect/schema-org/Relation/has/has_director.protect.md) 
 
-### [has_director.private](/_private/schema-org/Relation/has/has_director.private.md) 
+### #is_/same_as :: [has_director.private](/_private/schema-org/Relation/has/has_director.private.md) 
 
-### [has_director.personal](/_personal/schema-org/Relation/has/has_director.personal.md) 
+### #is_/same_as :: [has_director.personal](/_personal/schema-org/Relation/has/has_director.personal.md) 
 
-### [has_director.secret](/_secret/schema-org/Relation/has/has_director.secret.md)
+### #is_/same_as :: [has_director.secret](/_secret/schema-org/Relation/has/has_director.secret.md)
 

@@ -49,17 +49,17 @@ A [[CriticReview]] is a more specialized form of Review written or published by 
 
 ## Confidential Links & Embeds: 
 
-### [critic_review](/_Standards/schema-org/Class/is_a_/creative_work/review/critic_review.md) 
+### #is_/same_as :: [critic_review](/_Standards/schema-org/Class/is_a_/creative_work/review/critic_review.md) 
 
-### [critic_review.public](/_public/schema-org/Class/is_a_/creative_work/review/critic_review.public.md) 
+### #is_/same_as :: [critic_review.public](/_public/schema-org/Class/is_a_/creative_work/review/critic_review.public.md) 
 
-### [critic_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/critic_review.internal.md) 
+### #is_/same_as :: [critic_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/critic_review.internal.md) 
 
-### [critic_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/critic_review.protect.md) 
+### #is_/same_as :: [critic_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/critic_review.protect.md) 
 
-### [critic_review.private](/_private/schema-org/Class/is_a_/creative_work/review/critic_review.private.md) 
+### #is_/same_as :: [critic_review.private](/_private/schema-org/Class/is_a_/creative_work/review/critic_review.private.md) 
 
-### [critic_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/critic_review.personal.md) 
+### #is_/same_as :: [critic_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/critic_review.personal.md) 
 
-### [critic_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/critic_review.secret.md)
+### #is_/same_as :: [critic_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/critic_review.secret.md)
 

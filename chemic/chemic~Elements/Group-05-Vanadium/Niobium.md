@@ -128,17 +128,17 @@ Commons_category: Niobium
 
 ## Confidential Links & Embeds: 
 
-### [Niobium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Niobium.md) 
+### #is_/same_as :: [Niobium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Niobium.md) 
 
-### [Niobium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Niobium.public.md) 
+### #is_/same_as :: [Niobium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Niobium.public.md) 
 
-### [Niobium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.internal.md) 
+### #is_/same_as :: [Niobium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.internal.md) 
 
-### [Niobium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Niobium.protect.md) 
+### #is_/same_as :: [Niobium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Niobium.protect.md) 
 
-### [Niobium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Niobium.private.md) 
+### #is_/same_as :: [Niobium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Niobium.private.md) 
 
-### [Niobium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.personal.md) 
+### #is_/same_as :: [Niobium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.personal.md) 
 
-### [Niobium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Niobium.secret.md)
+### #is_/same_as :: [Niobium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Niobium.secret.md)
 

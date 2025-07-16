@@ -77,17 +77,17 @@ IneligibleRegion:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DeliveryChargeSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.md) 
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.md) 
 
-### [FileClass~DeliveryChargeSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.public.md) 
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.public.md) 
 
-### [FileClass~DeliveryChargeSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.internal.md) 
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.internal.md) 
 
-### [FileClass~DeliveryChargeSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.protect.md) 
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.protect.md) 
 
-### [FileClass~DeliveryChargeSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.private.md) 
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.private.md) 
 
-### [FileClass~DeliveryChargeSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.personal.md) 
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.personal.md) 
 
-### [FileClass~DeliveryChargeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.secret.md)
+### #is_/same_as :: [FileClass~DeliveryChargeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.secret.md)
 

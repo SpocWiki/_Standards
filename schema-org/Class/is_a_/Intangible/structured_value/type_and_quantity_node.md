@@ -45,17 +45,17 @@ A structured value indicating the quantity, unit of measurement, and business fu
 
 ## Confidential Links & Embeds: 
 
-### [type_and_quantity_node](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.md) 
+### #is_/same_as :: [type_and_quantity_node](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.md) 
 
-### [type_and_quantity_node.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.public.md) 
+### #is_/same_as :: [type_and_quantity_node.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.public.md) 
 
-### [type_and_quantity_node.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.internal.md) 
+### #is_/same_as :: [type_and_quantity_node.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.internal.md) 
 
-### [type_and_quantity_node.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.protect.md) 
+### #is_/same_as :: [type_and_quantity_node.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.protect.md) 
 
-### [type_and_quantity_node.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.private.md) 
+### #is_/same_as :: [type_and_quantity_node.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.private.md) 
 
-### [type_and_quantity_node.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.personal.md) 
+### #is_/same_as :: [type_and_quantity_node.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.personal.md) 
 
-### [type_and_quantity_node.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.secret.md)
+### #is_/same_as :: [type_and_quantity_node.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/type_and_quantity_node.secret.md)
 

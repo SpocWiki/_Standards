@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palikir](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.md) 
+### #is_/same_as :: [Palikir](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.md) 
 
-### [Palikir.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public.md) 
+### #is_/same_as :: [Palikir.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public.md) 
 
-### [Palikir.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal.md) 
+### #is_/same_as :: [Palikir.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal.md) 
 
-### [Palikir.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect.md) 
+### #is_/same_as :: [Palikir.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect.md) 
 
-### [Palikir.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private.md) 
+### #is_/same_as :: [Palikir.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private.md) 
 
-### [Palikir.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal.md) 
+### #is_/same_as :: [Palikir.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal.md) 
 
-### [Palikir.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret.md)
+### #is_/same_as :: [Palikir.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret.md)
 

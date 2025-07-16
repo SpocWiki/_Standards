@@ -78,22 +78,19 @@ Wikidata_usage_instructions: "Use audio track (Q7302866) instead for track on a 
 > [Wikipedia](https://en.wikipedia.org/wiki/Song) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Song](/_Standards/bio/Society/Communication/Music/Song.md) 
+### #is_/same_as :: [Song](/_Standards/bio/Society/Communication/Music/Song.md) 
 
-### [Song.public](/_public/bio/Society/Communication/Music/Song.public.md) 
+### #is_/same_as :: [Song.public](/_public/bio/Society/Communication/Music/Song.public.md) 
 
-### [Song.internal](/_internal/bio/Society/Communication/Music/Song.internal.md) 
+### #is_/same_as :: [Song.internal](/_internal/bio/Society/Communication/Music/Song.internal.md) 
 
-### [Song.protect](/_protect/bio/Society/Communication/Music/Song.protect.md) 
+### #is_/same_as :: [Song.protect](/_protect/bio/Society/Communication/Music/Song.protect.md) 
 
-### [Song.private](/_private/bio/Society/Communication/Music/Song.private.md) 
+### #is_/same_as :: [Song.private](/_private/bio/Society/Communication/Music/Song.private.md) 
 
-### [Song.personal](/_personal/bio/Society/Communication/Music/Song.personal.md) 
+### #is_/same_as :: [Song.personal](/_personal/bio/Society/Communication/Music/Song.personal.md) 
 
-### [Song.secret](/_secret/bio/Society/Communication/Music/Song.secret.md)
+### #is_/same_as :: [Song.secret](/_secret/bio/Society/Communication/Music/Song.secret.md)
 

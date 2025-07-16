@@ -35,17 +35,17 @@ A retail good store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Store](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.md) 
+### #is_/same_as :: [FileClass~Store](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.md) 
 
-### [FileClass~Store.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.public.md) 
+### #is_/same_as :: [FileClass~Store.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.public.md) 
 
-### [FileClass~Store.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.internal.md) 
+### #is_/same_as :: [FileClass~Store.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.internal.md) 
 
-### [FileClass~Store.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.protect.md) 
+### #is_/same_as :: [FileClass~Store.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.protect.md) 
 
-### [FileClass~Store.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.private.md) 
+### #is_/same_as :: [FileClass~Store.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.private.md) 
 
-### [FileClass~Store.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.personal.md) 
+### #is_/same_as :: [FileClass~Store.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.personal.md) 
 
-### [FileClass~Store.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.secret.md)
+### #is_/same_as :: [FileClass~Store.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.secret.md)
 

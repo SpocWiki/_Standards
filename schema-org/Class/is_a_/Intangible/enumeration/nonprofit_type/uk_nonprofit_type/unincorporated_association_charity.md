@@ -49,17 +49,17 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 
 ## Confidential Links & Embeds: 
 
-### [unincorporated_association_charity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.md) 
+### #is_/same_as :: [unincorporated_association_charity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.md) 
 
-### [unincorporated_association_charity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.public.md) 
+### #is_/same_as :: [unincorporated_association_charity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.public.md) 
 
-### [unincorporated_association_charity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.internal.md) 
+### #is_/same_as :: [unincorporated_association_charity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.internal.md) 
 
-### [unincorporated_association_charity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.protect.md) 
+### #is_/same_as :: [unincorporated_association_charity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.protect.md) 
 
-### [unincorporated_association_charity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.private.md) 
+### #is_/same_as :: [unincorporated_association_charity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.private.md) 
 
-### [unincorporated_association_charity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.personal.md) 
+### #is_/same_as :: [unincorporated_association_charity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.personal.md) 
 
-### [unincorporated_association_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.secret.md)
+### #is_/same_as :: [unincorporated_association_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.secret.md)
 

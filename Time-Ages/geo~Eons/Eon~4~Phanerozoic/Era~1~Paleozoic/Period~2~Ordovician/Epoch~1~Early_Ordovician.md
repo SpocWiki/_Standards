@@ -63,17 +63,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Epoch~1~Early_Ordovician](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.md) 
+### #is_/same_as :: [Epoch~1~Early_Ordovician](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.md) 
 
-### [Epoch~1~Early_Ordovician.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.public.md) 
+### #is_/same_as :: [Epoch~1~Early_Ordovician.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.public.md) 
 
-### [Epoch~1~Early_Ordovician.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.internal.md) 
+### #is_/same_as :: [Epoch~1~Early_Ordovician.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.internal.md) 
 
-### [Epoch~1~Early_Ordovician.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.protect.md) 
+### #is_/same_as :: [Epoch~1~Early_Ordovician.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.protect.md) 
 
-### [Epoch~1~Early_Ordovician.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.private.md) 
+### #is_/same_as :: [Epoch~1~Early_Ordovician.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.private.md) 
 
-### [Epoch~1~Early_Ordovician.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.personal.md) 
+### #is_/same_as :: [Epoch~1~Early_Ordovician.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.personal.md) 
 
-### [Epoch~1~Early_Ordovician.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.secret.md)
+### #is_/same_as :: [Epoch~1~Early_Ordovician.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.secret.md)
 

@@ -335,20 +335,19 @@ Specimen Condition   Fossil
 Copyright ::            © 1995 Chris Brochu
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chordata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.md) 
+### #is_/same_as :: [Chordata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.md) 
 
-### [Chordata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.public.md) 
+### #is_/same_as :: [Chordata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.public.md) 
 
-### [Chordata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.internal.md) 
+### #is_/same_as :: [Chordata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.internal.md) 
 
-### [Chordata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.protect.md) 
+### #is_/same_as :: [Chordata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.protect.md) 
 
-### [Chordata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.private.md) 
+### #is_/same_as :: [Chordata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.private.md) 
 
-### [Chordata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.personal.md) 
+### #is_/same_as :: [Chordata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.personal.md) 
 
-### [Chordata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.secret.md)
+### #is_/same_as :: [Chordata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.secret.md)
 

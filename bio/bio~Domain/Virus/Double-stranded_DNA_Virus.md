@@ -61,17 +61,17 @@ Containing group: [Virus](../Virus.md)
 
 ## Confidential Links & Embeds: 
 
-### [Double-stranded_DNA_Virus](/_Standards/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.md) 
+### #is_/same_as :: [Double-stranded_DNA_Virus](/_Standards/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.md) 
 
-### [Double-stranded_DNA_Virus.public](/_public/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.public.md) 
+### #is_/same_as :: [Double-stranded_DNA_Virus.public](/_public/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.public.md) 
 
-### [Double-stranded_DNA_Virus.internal](/_internal/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.internal.md) 
+### #is_/same_as :: [Double-stranded_DNA_Virus.internal](/_internal/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.internal.md) 
 
-### [Double-stranded_DNA_Virus.protect](/_protect/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.protect.md) 
+### #is_/same_as :: [Double-stranded_DNA_Virus.protect](/_protect/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.protect.md) 
 
-### [Double-stranded_DNA_Virus.private](/_private/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.private.md) 
+### #is_/same_as :: [Double-stranded_DNA_Virus.private](/_private/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.private.md) 
 
-### [Double-stranded_DNA_Virus.personal](/_personal/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.personal.md) 
+### #is_/same_as :: [Double-stranded_DNA_Virus.personal](/_personal/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.personal.md) 
 
-### [Double-stranded_DNA_Virus.secret](/_secret/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.secret.md)
+### #is_/same_as :: [Double-stranded_DNA_Virus.secret](/_secret/bio/bio~Domain/Virus/Double-stranded_DNA_Virus.secret.md)
 

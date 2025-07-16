@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_example_of_work](/_Standards/schema-org/Relation/is/is_example_of_work.md) 
+### #is_/same_as :: [is_example_of_work](/_Standards/schema-org/Relation/is/is_example_of_work.md) 
 
-### [is_example_of_work.public](/_public/schema-org/Relation/is/is_example_of_work.public.md) 
+### #is_/same_as :: [is_example_of_work.public](/_public/schema-org/Relation/is/is_example_of_work.public.md) 
 
-### [is_example_of_work.internal](/_internal/schema-org/Relation/is/is_example_of_work.internal.md) 
+### #is_/same_as :: [is_example_of_work.internal](/_internal/schema-org/Relation/is/is_example_of_work.internal.md) 
 
-### [is_example_of_work.protect](/_protect/schema-org/Relation/is/is_example_of_work.protect.md) 
+### #is_/same_as :: [is_example_of_work.protect](/_protect/schema-org/Relation/is/is_example_of_work.protect.md) 
 
-### [is_example_of_work.private](/_private/schema-org/Relation/is/is_example_of_work.private.md) 
+### #is_/same_as :: [is_example_of_work.private](/_private/schema-org/Relation/is/is_example_of_work.private.md) 
 
-### [is_example_of_work.personal](/_personal/schema-org/Relation/is/is_example_of_work.personal.md) 
+### #is_/same_as :: [is_example_of_work.personal](/_personal/schema-org/Relation/is/is_example_of_work.personal.md) 
 
-### [is_example_of_work.secret](/_secret/schema-org/Relation/is/is_example_of_work.secret.md)
+### #is_/same_as :: [is_example_of_work.secret](/_secret/schema-org/Relation/is/is_example_of_work.secret.md)
 

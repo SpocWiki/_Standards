@@ -13,17 +13,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Musician](/_Standards/bio/People/Musician.md) 
+### #is_/same_as :: [Musician](/_Standards/bio/People/Musician.md) 
 
-### [Musician.public](/_public/bio/People/Musician.public.md) 
+### #is_/same_as :: [Musician.public](/_public/bio/People/Musician.public.md) 
 
-### [Musician.internal](/_internal/bio/People/Musician.internal.md) 
+### #is_/same_as :: [Musician.internal](/_internal/bio/People/Musician.internal.md) 
 
-### [Musician.protect](/_protect/bio/People/Musician.protect.md) 
+### #is_/same_as :: [Musician.protect](/_protect/bio/People/Musician.protect.md) 
 
-### [Musician.private](/_private/bio/People/Musician.private.md) 
+### #is_/same_as :: [Musician.private](/_private/bio/People/Musician.private.md) 
 
-### [Musician.personal](/_personal/bio/People/Musician.personal.md) 
+### #is_/same_as :: [Musician.personal](/_personal/bio/People/Musician.personal.md) 
 
-### [Musician.secret](/_secret/bio/People/Musician.secret.md)
+### #is_/same_as :: [Musician.secret](/_secret/bio/People/Musician.secret.md)
 

@@ -47,17 +47,17 @@ Musculoskeletal system clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [musculoskeletal_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.md) 
+### #is_/same_as :: [musculoskeletal_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.md) 
 
-### [musculoskeletal_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.public.md) 
+### #is_/same_as :: [musculoskeletal_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.public.md) 
 
-### [musculoskeletal_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.internal.md) 
+### #is_/same_as :: [musculoskeletal_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.internal.md) 
 
-### [musculoskeletal_exam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.protect.md) 
+### #is_/same_as :: [musculoskeletal_exam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.protect.md) 
 
-### [musculoskeletal_exam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.private.md) 
+### #is_/same_as :: [musculoskeletal_exam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.private.md) 
 
-### [musculoskeletal_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.personal.md) 
+### #is_/same_as :: [musculoskeletal_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.personal.md) 
 
-### [musculoskeletal_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.secret.md)
+### #is_/same_as :: [musculoskeletal_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.secret.md)
 

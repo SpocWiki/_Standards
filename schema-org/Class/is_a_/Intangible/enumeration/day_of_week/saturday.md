@@ -47,17 +47,17 @@ The day of the week between Friday and Sunday.
 
 ## Confidential Links & Embeds: 
 
-### [saturday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.md) 
+### #is_/same_as :: [saturday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.md) 
 
-### [saturday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.public.md) 
+### #is_/same_as :: [saturday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.public.md) 
 
-### [saturday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.internal.md) 
+### #is_/same_as :: [saturday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.internal.md) 
 
-### [saturday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.protect.md) 
+### #is_/same_as :: [saturday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.protect.md) 
 
-### [saturday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.private.md) 
+### #is_/same_as :: [saturday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.private.md) 
 
-### [saturday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.personal.md) 
+### #is_/same_as :: [saturday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.personal.md) 
 
-### [saturday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.secret.md)
+### #is_/same_as :: [saturday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.secret.md)
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_email](/_Standards/schema-org/Property/Texts/has_email.md) 
+### #is_/same_as :: [has_email](/_Standards/schema-org/Property/Texts/has_email.md) 
 
-### [has_email.public](/_public/schema-org/Property/Texts/has_email.public.md) 
+### #is_/same_as :: [has_email.public](/_public/schema-org/Property/Texts/has_email.public.md) 
 
-### [has_email.internal](/_internal/schema-org/Property/Texts/has_email.internal.md) 
+### #is_/same_as :: [has_email.internal](/_internal/schema-org/Property/Texts/has_email.internal.md) 
 
-### [has_email.protect](/_protect/schema-org/Property/Texts/has_email.protect.md) 
+### #is_/same_as :: [has_email.protect](/_protect/schema-org/Property/Texts/has_email.protect.md) 
 
-### [has_email.private](/_private/schema-org/Property/Texts/has_email.private.md) 
+### #is_/same_as :: [has_email.private](/_private/schema-org/Property/Texts/has_email.private.md) 
 
-### [has_email.personal](/_personal/schema-org/Property/Texts/has_email.personal.md) 
+### #is_/same_as :: [has_email.personal](/_personal/schema-org/Property/Texts/has_email.personal.md) 
 
-### [has_email.secret](/_secret/schema-org/Property/Texts/has_email.secret.md)
+### #is_/same_as :: [has_email.secret](/_secret/schema-org/Property/Texts/has_email.secret.md)
 

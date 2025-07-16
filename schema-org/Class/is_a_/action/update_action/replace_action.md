@@ -45,17 +45,17 @@ The act of editing a recipient by replacing an old object with a new object.
 
 ## Confidential Links & Embeds: 
 
-### [replace_action](/_Standards/schema-org/Class/is_a_/action/update_action/replace_action.md) 
+### #is_/same_as :: [replace_action](/_Standards/schema-org/Class/is_a_/action/update_action/replace_action.md) 
 
-### [replace_action.public](/_public/schema-org/Class/is_a_/action/update_action/replace_action.public.md) 
+### #is_/same_as :: [replace_action.public](/_public/schema-org/Class/is_a_/action/update_action/replace_action.public.md) 
 
-### [replace_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/replace_action.internal.md) 
+### #is_/same_as :: [replace_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/replace_action.internal.md) 
 
-### [replace_action.protect](/_protect/schema-org/Class/is_a_/action/update_action/replace_action.protect.md) 
+### #is_/same_as :: [replace_action.protect](/_protect/schema-org/Class/is_a_/action/update_action/replace_action.protect.md) 
 
-### [replace_action.private](/_private/schema-org/Class/is_a_/action/update_action/replace_action.private.md) 
+### #is_/same_as :: [replace_action.private](/_private/schema-org/Class/is_a_/action/update_action/replace_action.private.md) 
 
-### [replace_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/replace_action.personal.md) 
+### #is_/same_as :: [replace_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/replace_action.personal.md) 
 
-### [replace_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/replace_action.secret.md)
+### #is_/same_as :: [replace_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/replace_action.secret.md)
 

@@ -135,20 +135,19 @@ tail. (Based on Turner 1991, 1992; Wilson & Cadwell 1993.)
 Copyright ::   © 1997 Philippe Janvier
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Thelodonti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.md) 
+### #is_/same_as :: [Thelodonti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.md) 
 
-### [Thelodonti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.public.md) 
+### #is_/same_as :: [Thelodonti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.public.md) 
 
-### [Thelodonti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.internal.md) 
+### #is_/same_as :: [Thelodonti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.internal.md) 
 
-### [Thelodonti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.protect.md) 
+### #is_/same_as :: [Thelodonti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.protect.md) 
 
-### [Thelodonti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.private.md) 
+### #is_/same_as :: [Thelodonti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.private.md) 
 
-### [Thelodonti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.personal.md) 
+### #is_/same_as :: [Thelodonti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.personal.md) 
 
-### [Thelodonti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.secret.md)
+### #is_/same_as :: [Thelodonti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.secret.md)
 

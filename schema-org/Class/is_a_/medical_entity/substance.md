@@ -49,17 +49,17 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 ## Confidential Links & Embeds: 
 
-### [substance](/_Standards/schema-org/Class/is_a_/medical_entity/substance.md) 
+### #is_/same_as :: [substance](/_Standards/schema-org/Class/is_a_/medical_entity/substance.md) 
 
-### [substance.public](/_public/schema-org/Class/is_a_/medical_entity/substance.public.md) 
+### #is_/same_as :: [substance.public](/_public/schema-org/Class/is_a_/medical_entity/substance.public.md) 
 
-### [substance.internal](/_internal/schema-org/Class/is_a_/medical_entity/substance.internal.md) 
+### #is_/same_as :: [substance.internal](/_internal/schema-org/Class/is_a_/medical_entity/substance.internal.md) 
 
-### [substance.protect](/_protect/schema-org/Class/is_a_/medical_entity/substance.protect.md) 
+### #is_/same_as :: [substance.protect](/_protect/schema-org/Class/is_a_/medical_entity/substance.protect.md) 
 
-### [substance.private](/_private/schema-org/Class/is_a_/medical_entity/substance.private.md) 
+### #is_/same_as :: [substance.private](/_private/schema-org/Class/is_a_/medical_entity/substance.private.md) 
 
-### [substance.personal](/_personal/schema-org/Class/is_a_/medical_entity/substance.personal.md) 
+### #is_/same_as :: [substance.personal](/_personal/schema-org/Class/is_a_/medical_entity/substance.personal.md) 
 
-### [substance.secret](/_secret/schema-org/Class/is_a_/medical_entity/substance.secret.md)
+### #is_/same_as :: [substance.secret](/_secret/schema-org/Class/is_a_/medical_entity/substance.secret.md)
 

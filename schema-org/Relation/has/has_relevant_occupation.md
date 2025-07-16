@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_relevant_occupation](/_Standards/schema-org/Relation/has/has_relevant_occupation.md) 
+### #is_/same_as :: [has_relevant_occupation](/_Standards/schema-org/Relation/has/has_relevant_occupation.md) 
 
-### [has_relevant_occupation.public](/_public/schema-org/Relation/has/has_relevant_occupation.public.md) 
+### #is_/same_as :: [has_relevant_occupation.public](/_public/schema-org/Relation/has/has_relevant_occupation.public.md) 
 
-### [has_relevant_occupation.internal](/_internal/schema-org/Relation/has/has_relevant_occupation.internal.md) 
+### #is_/same_as :: [has_relevant_occupation.internal](/_internal/schema-org/Relation/has/has_relevant_occupation.internal.md) 
 
-### [has_relevant_occupation.protect](/_protect/schema-org/Relation/has/has_relevant_occupation.protect.md) 
+### #is_/same_as :: [has_relevant_occupation.protect](/_protect/schema-org/Relation/has/has_relevant_occupation.protect.md) 
 
-### [has_relevant_occupation.private](/_private/schema-org/Relation/has/has_relevant_occupation.private.md) 
+### #is_/same_as :: [has_relevant_occupation.private](/_private/schema-org/Relation/has/has_relevant_occupation.private.md) 
 
-### [has_relevant_occupation.personal](/_personal/schema-org/Relation/has/has_relevant_occupation.personal.md) 
+### #is_/same_as :: [has_relevant_occupation.personal](/_personal/schema-org/Relation/has/has_relevant_occupation.personal.md) 
 
-### [has_relevant_occupation.secret](/_secret/schema-org/Relation/has/has_relevant_occupation.secret.md)
+### #is_/same_as :: [has_relevant_occupation.secret](/_secret/schema-org/Relation/has/has_relevant_occupation.secret.md)
 

@@ -45,17 +45,17 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 ## Confidential Links & Embeds: 
 
-### [payment_service](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.md) 
+### #is_/same_as :: [payment_service](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.md) 
 
-### [payment_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.public.md) 
+### #is_/same_as :: [payment_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.public.md) 
 
-### [payment_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.internal.md) 
+### #is_/same_as :: [payment_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.internal.md) 
 
-### [payment_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.protect.md) 
+### #is_/same_as :: [payment_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.protect.md) 
 
-### [payment_service.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.private.md) 
+### #is_/same_as :: [payment_service.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.private.md) 
 
-### [payment_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.personal.md) 
+### #is_/same_as :: [payment_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.personal.md) 
 
-### [payment_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.secret.md)
+### #is_/same_as :: [payment_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.secret.md)
 

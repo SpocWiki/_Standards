@@ -657,17 +657,17 @@ WorksFor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalAudienceAndPerson](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.md) 
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.md) 
 
-### [FileClass~MedicalAudienceAndPerson.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.public.md) 
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.public.md) 
 
-### [FileClass~MedicalAudienceAndPerson.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.internal.md) 
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.internal.md) 
 
-### [FileClass~MedicalAudienceAndPerson.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.protect.md) 
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.protect.md) 
 
-### [FileClass~MedicalAudienceAndPerson.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.private.md) 
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.private.md) 
 
-### [FileClass~MedicalAudienceAndPerson.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.personal.md) 
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.personal.md) 
 
-### [FileClass~MedicalAudienceAndPerson.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.secret.md)
+### #is_/same_as :: [FileClass~MedicalAudienceAndPerson.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson.secret.md)
 

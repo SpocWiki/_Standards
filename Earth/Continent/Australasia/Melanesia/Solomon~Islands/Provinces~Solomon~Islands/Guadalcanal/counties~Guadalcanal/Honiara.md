@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Honiara](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.md) 
+### #is_/same_as :: [Honiara](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.md) 
 
-### [Honiara.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public.md) 
+### #is_/same_as :: [Honiara.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public.md) 
 
-### [Honiara.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal.md) 
+### #is_/same_as :: [Honiara.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal.md) 
 
-### [Honiara.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect.md) 
+### #is_/same_as :: [Honiara.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect.md) 
 
-### [Honiara.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private.md) 
+### #is_/same_as :: [Honiara.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private.md) 
 
-### [Honiara.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal.md) 
+### #is_/same_as :: [Honiara.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal.md) 
 
-### [Honiara.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret.md)
+### #is_/same_as :: [Honiara.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret.md)
 

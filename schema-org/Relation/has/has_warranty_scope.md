@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_warranty_scope](/_Standards/schema-org/Relation/has/has_warranty_scope.md) 
+### #is_/same_as :: [has_warranty_scope](/_Standards/schema-org/Relation/has/has_warranty_scope.md) 
 
-### [has_warranty_scope.public](/_public/schema-org/Relation/has/has_warranty_scope.public.md) 
+### #is_/same_as :: [has_warranty_scope.public](/_public/schema-org/Relation/has/has_warranty_scope.public.md) 
 
-### [has_warranty_scope.internal](/_internal/schema-org/Relation/has/has_warranty_scope.internal.md) 
+### #is_/same_as :: [has_warranty_scope.internal](/_internal/schema-org/Relation/has/has_warranty_scope.internal.md) 
 
-### [has_warranty_scope.protect](/_protect/schema-org/Relation/has/has_warranty_scope.protect.md) 
+### #is_/same_as :: [has_warranty_scope.protect](/_protect/schema-org/Relation/has/has_warranty_scope.protect.md) 
 
-### [has_warranty_scope.private](/_private/schema-org/Relation/has/has_warranty_scope.private.md) 
+### #is_/same_as :: [has_warranty_scope.private](/_private/schema-org/Relation/has/has_warranty_scope.private.md) 
 
-### [has_warranty_scope.personal](/_personal/schema-org/Relation/has/has_warranty_scope.personal.md) 
+### #is_/same_as :: [has_warranty_scope.personal](/_personal/schema-org/Relation/has/has_warranty_scope.personal.md) 
 
-### [has_warranty_scope.secret](/_secret/schema-org/Relation/has/has_warranty_scope.secret.md)
+### #is_/same_as :: [has_warranty_scope.secret](/_secret/schema-org/Relation/has/has_warranty_scope.secret.md)
 

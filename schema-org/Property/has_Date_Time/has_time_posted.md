@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_posted](/_Standards/schema-org/Property/has_Date_Time/has_time_posted.md) 
+### #is_/same_as :: [has_time_posted](/_Standards/schema-org/Property/has_Date_Time/has_time_posted.md) 
 
-### [has_time_posted.public](/_public/schema-org/Property/has_Date_Time/has_time_posted.public.md) 
+### #is_/same_as :: [has_time_posted.public](/_public/schema-org/Property/has_Date_Time/has_time_posted.public.md) 
 
-### [has_time_posted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_posted.internal.md) 
+### #is_/same_as :: [has_time_posted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_posted.internal.md) 
 
-### [has_time_posted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_posted.protect.md) 
+### #is_/same_as :: [has_time_posted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_posted.protect.md) 
 
-### [has_time_posted.private](/_private/schema-org/Property/has_Date_Time/has_time_posted.private.md) 
+### #is_/same_as :: [has_time_posted.private](/_private/schema-org/Property/has_Date_Time/has_time_posted.private.md) 
 
-### [has_time_posted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_posted.personal.md) 
+### #is_/same_as :: [has_time_posted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_posted.personal.md) 
 
-### [has_time_posted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_posted.secret.md)
+### #is_/same_as :: [has_time_posted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_posted.secret.md)
 

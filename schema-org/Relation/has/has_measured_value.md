@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_measured_value](/_Standards/schema-org/Relation/has/has_measured_value.md) 
+### #is_/same_as :: [has_measured_value](/_Standards/schema-org/Relation/has/has_measured_value.md) 
 
-### [has_measured_value.public](/_public/schema-org/Relation/has/has_measured_value.public.md) 
+### #is_/same_as :: [has_measured_value.public](/_public/schema-org/Relation/has/has_measured_value.public.md) 
 
-### [has_measured_value.internal](/_internal/schema-org/Relation/has/has_measured_value.internal.md) 
+### #is_/same_as :: [has_measured_value.internal](/_internal/schema-org/Relation/has/has_measured_value.internal.md) 
 
-### [has_measured_value.protect](/_protect/schema-org/Relation/has/has_measured_value.protect.md) 
+### #is_/same_as :: [has_measured_value.protect](/_protect/schema-org/Relation/has/has_measured_value.protect.md) 
 
-### [has_measured_value.private](/_private/schema-org/Relation/has/has_measured_value.private.md) 
+### #is_/same_as :: [has_measured_value.private](/_private/schema-org/Relation/has/has_measured_value.private.md) 
 
-### [has_measured_value.personal](/_personal/schema-org/Relation/has/has_measured_value.personal.md) 
+### #is_/same_as :: [has_measured_value.personal](/_personal/schema-org/Relation/has/has_measured_value.personal.md) 
 
-### [has_measured_value.secret](/_secret/schema-org/Relation/has/has_measured_value.secret.md)
+### #is_/same_as :: [has_measured_value.secret](/_secret/schema-org/Relation/has/has_measured_value.secret.md)
 

@@ -51,17 +51,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### [periodical](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.md) 
+### #is_/same_as :: [periodical](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.md) 
 
-### [periodical.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.public.md) 
+### #is_/same_as :: [periodical.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.public.md) 
 
-### [periodical.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.internal.md) 
+### #is_/same_as :: [periodical.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.internal.md) 
 
-### [periodical.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.protect.md) 
+### #is_/same_as :: [periodical.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.protect.md) 
 
-### [periodical.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.private.md) 
+### #is_/same_as :: [periodical.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.private.md) 
 
-### [periodical.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.personal.md) 
+### #is_/same_as :: [periodical.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.personal.md) 
 
-### [periodical.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.secret.md)
+### #is_/same_as :: [periodical.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.secret.md)
 

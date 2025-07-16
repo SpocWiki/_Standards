@@ -469,20 +469,19 @@ edit internet links
   -------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ascomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.md) 
+### #is_/same_as :: [Ascomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.md) 
 
-### [Ascomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.public.md) 
+### #is_/same_as :: [Ascomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.public.md) 
 
-### [Ascomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.internal.md) 
+### #is_/same_as :: [Ascomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.internal.md) 
 
-### [Ascomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.protect.md) 
+### #is_/same_as :: [Ascomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.protect.md) 
 
-### [Ascomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.private.md) 
+### #is_/same_as :: [Ascomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.private.md) 
 
-### [Ascomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.personal.md) 
+### #is_/same_as :: [Ascomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.personal.md) 
 
-### [Ascomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.secret.md)
+### #is_/same_as :: [Ascomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.secret.md)
 

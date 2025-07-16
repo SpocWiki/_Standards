@@ -35,17 +35,17 @@ Event type: Literary event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LiteraryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.md) 
+### #is_/same_as :: [FileClass~LiteraryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.md) 
 
-### [FileClass~LiteraryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.public.md) 
+### #is_/same_as :: [FileClass~LiteraryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.public.md) 
 
-### [FileClass~LiteraryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.internal.md) 
+### #is_/same_as :: [FileClass~LiteraryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.internal.md) 
 
-### [FileClass~LiteraryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.protect.md) 
+### #is_/same_as :: [FileClass~LiteraryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.protect.md) 
 
-### [FileClass~LiteraryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.private.md) 
+### #is_/same_as :: [FileClass~LiteraryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.private.md) 
 
-### [FileClass~LiteraryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.personal.md) 
+### #is_/same_as :: [FileClass~LiteraryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.personal.md) 
 
-### [FileClass~LiteraryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.secret.md)
+### #is_/same_as :: [FileClass~LiteraryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.secret.md)
 

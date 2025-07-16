@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_employment_unit](/_Standards/schema-org/Relation/has/has_employment_unit.md) 
+### #is_/same_as :: [has_employment_unit](/_Standards/schema-org/Relation/has/has_employment_unit.md) 
 
-### [has_employment_unit.public](/_public/schema-org/Relation/has/has_employment_unit.public.md) 
+### #is_/same_as :: [has_employment_unit.public](/_public/schema-org/Relation/has/has_employment_unit.public.md) 
 
-### [has_employment_unit.internal](/_internal/schema-org/Relation/has/has_employment_unit.internal.md) 
+### #is_/same_as :: [has_employment_unit.internal](/_internal/schema-org/Relation/has/has_employment_unit.internal.md) 
 
-### [has_employment_unit.protect](/_protect/schema-org/Relation/has/has_employment_unit.protect.md) 
+### #is_/same_as :: [has_employment_unit.protect](/_protect/schema-org/Relation/has/has_employment_unit.protect.md) 
 
-### [has_employment_unit.private](/_private/schema-org/Relation/has/has_employment_unit.private.md) 
+### #is_/same_as :: [has_employment_unit.private](/_private/schema-org/Relation/has/has_employment_unit.private.md) 
 
-### [has_employment_unit.personal](/_personal/schema-org/Relation/has/has_employment_unit.personal.md) 
+### #is_/same_as :: [has_employment_unit.personal](/_personal/schema-org/Relation/has/has_employment_unit.personal.md) 
 
-### [has_employment_unit.secret](/_secret/schema-org/Relation/has/has_employment_unit.secret.md)
+### #is_/same_as :: [has_employment_unit.secret](/_secret/schema-org/Relation/has/has_employment_unit.secret.md)
 

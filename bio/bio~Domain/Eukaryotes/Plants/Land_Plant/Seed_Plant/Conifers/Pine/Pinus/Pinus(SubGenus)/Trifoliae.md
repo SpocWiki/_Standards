@@ -25,21 +25,19 @@ title: section Trifoliae
 -   » Sub-Groups 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Trifoliae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.md) 
+### #is_/same_as :: [Trifoliae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.md) 
 
-### [Trifoliae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.public.md) 
+### #is_/same_as :: [Trifoliae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.public.md) 
 
-### [Trifoliae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.internal.md) 
+### #is_/same_as :: [Trifoliae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.internal.md) 
 
-### [Trifoliae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.protect.md) 
+### #is_/same_as :: [Trifoliae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.protect.md) 
 
-### [Trifoliae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.private.md) 
+### #is_/same_as :: [Trifoliae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.private.md) 
 
-### [Trifoliae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.personal.md) 
+### #is_/same_as :: [Trifoliae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.personal.md) 
 
-### [Trifoliae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.secret.md)
+### #is_/same_as :: [Trifoliae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)/Trifoliae.secret.md)
 

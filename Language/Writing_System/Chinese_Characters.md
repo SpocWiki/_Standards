@@ -69,17 +69,17 @@ Unicode_range: U+2E80-2EFF,U+3000-303F,U+3200-32FF,U+3300-33FF,U+3400-4DBF,U+4E0
 
 ## Confidential Links & Embeds: 
 
-### [Chinese_Characters](/_Standards/Language/Writing_System/Chinese_Characters.md) 
+### #is_/same_as :: [Chinese_Characters](/_Standards/Language/Writing_System/Chinese_Characters.md) 
 
-### [Chinese_Characters.public](/_public/Language/Writing_System/Chinese_Characters.public.md) 
+### #is_/same_as :: [Chinese_Characters.public](/_public/Language/Writing_System/Chinese_Characters.public.md) 
 
-### [Chinese_Characters.internal](/_internal/Language/Writing_System/Chinese_Characters.internal.md) 
+### #is_/same_as :: [Chinese_Characters.internal](/_internal/Language/Writing_System/Chinese_Characters.internal.md) 
 
-### [Chinese_Characters.protect](/_protect/Language/Writing_System/Chinese_Characters.protect.md) 
+### #is_/same_as :: [Chinese_Characters.protect](/_protect/Language/Writing_System/Chinese_Characters.protect.md) 
 
-### [Chinese_Characters.private](/_private/Language/Writing_System/Chinese_Characters.private.md) 
+### #is_/same_as :: [Chinese_Characters.private](/_private/Language/Writing_System/Chinese_Characters.private.md) 
 
-### [Chinese_Characters.personal](/_personal/Language/Writing_System/Chinese_Characters.personal.md) 
+### #is_/same_as :: [Chinese_Characters.personal](/_personal/Language/Writing_System/Chinese_Characters.personal.md) 
 
-### [Chinese_Characters.secret](/_secret/Language/Writing_System/Chinese_Characters.secret.md)
+### #is_/same_as :: [Chinese_Characters.secret](/_secret/Language/Writing_System/Chinese_Characters.secret.md)
 

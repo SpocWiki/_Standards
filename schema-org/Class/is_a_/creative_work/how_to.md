@@ -47,17 +47,17 @@ Instructions that explain how to achieve a result by performing a sequence of st
 
 ## Confidential Links & Embeds: 
 
-### [how_to](/_Standards/schema-org/Class/is_a_/creative_work/how_to.md) 
+### #is_/same_as :: [how_to](/_Standards/schema-org/Class/is_a_/creative_work/how_to.md) 
 
-### [how_to.public](/_public/schema-org/Class/is_a_/creative_work/how_to.public.md) 
+### #is_/same_as :: [how_to.public](/_public/schema-org/Class/is_a_/creative_work/how_to.public.md) 
 
-### [how_to.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to.internal.md) 
+### #is_/same_as :: [how_to.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to.internal.md) 
 
-### [how_to.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to.protect.md) 
+### #is_/same_as :: [how_to.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to.protect.md) 
 
-### [how_to.private](/_private/schema-org/Class/is_a_/creative_work/how_to.private.md) 
+### #is_/same_as :: [how_to.private](/_private/schema-org/Class/is_a_/creative_work/how_to.private.md) 
 
-### [how_to.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to.personal.md) 
+### #is_/same_as :: [how_to.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to.personal.md) 
 
-### [how_to.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to.secret.md)
+### #is_/same_as :: [how_to.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to.secret.md)
 

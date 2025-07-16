@@ -67,17 +67,17 @@ Containing group: [Physalaemus](../Physalaemus.md)
 
 ## Confidential Links & Embeds: 
 
-### [pustulosus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.md) 
+### #is_/same_as :: [pustulosus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.md) 
 
-### [pustulosus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.public.md) 
+### #is_/same_as :: [pustulosus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.public.md) 
 
-### [pustulosus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.internal.md) 
+### #is_/same_as :: [pustulosus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.internal.md) 
 
-### [pustulosus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.protect.md) 
+### #is_/same_as :: [pustulosus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.protect.md) 
 
-### [pustulosus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.private.md) 
+### #is_/same_as :: [pustulosus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.private.md) 
 
-### [pustulosus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.personal.md) 
+### #is_/same_as :: [pustulosus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.personal.md) 
 
-### [pustulosus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.secret.md)
+### #is_/same_as :: [pustulosus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/pustulosus.secret.md)
 

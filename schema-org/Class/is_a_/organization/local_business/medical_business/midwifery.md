@@ -47,17 +47,17 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 
 ## Confidential Links & Embeds: 
 
-### [midwifery](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.md) 
+### #is_/same_as :: [midwifery](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.md) 
 
-### [midwifery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.public.md) 
+### #is_/same_as :: [midwifery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.public.md) 
 
-### [midwifery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.internal.md) 
+### #is_/same_as :: [midwifery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.internal.md) 
 
-### [midwifery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.protect.md) 
+### #is_/same_as :: [midwifery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.protect.md) 
 
-### [midwifery.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.private.md) 
+### #is_/same_as :: [midwifery.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.private.md) 
 
-### [midwifery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.personal.md) 
+### #is_/same_as :: [midwifery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.personal.md) 
 
-### [midwifery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.secret.md)
+### #is_/same_as :: [midwifery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.secret.md)
 

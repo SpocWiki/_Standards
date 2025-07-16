@@ -43,17 +43,17 @@ GitHub_topic: renewable-energy
 
 ## Confidential Links & Embeds: 
 
-### [Renewable_Energy](/_Standards/Technology/Energy-Technology/Renewable_Energy.md) 
+### #is_/same_as :: [Renewable_Energy](/_Standards/Technology/Energy-Technology/Renewable_Energy.md) 
 
-### [Renewable_Energy.public](/_public/Technology/Energy-Technology/Renewable_Energy.public.md) 
+### #is_/same_as :: [Renewable_Energy.public](/_public/Technology/Energy-Technology/Renewable_Energy.public.md) 
 
-### [Renewable_Energy.internal](/_internal/Technology/Energy-Technology/Renewable_Energy.internal.md) 
+### #is_/same_as :: [Renewable_Energy.internal](/_internal/Technology/Energy-Technology/Renewable_Energy.internal.md) 
 
-### [Renewable_Energy.protect](/_protect/Technology/Energy-Technology/Renewable_Energy.protect.md) 
+### #is_/same_as :: [Renewable_Energy.protect](/_protect/Technology/Energy-Technology/Renewable_Energy.protect.md) 
 
-### [Renewable_Energy.private](/_private/Technology/Energy-Technology/Renewable_Energy.private.md) 
+### #is_/same_as :: [Renewable_Energy.private](/_private/Technology/Energy-Technology/Renewable_Energy.private.md) 
 
-### [Renewable_Energy.personal](/_personal/Technology/Energy-Technology/Renewable_Energy.personal.md) 
+### #is_/same_as :: [Renewable_Energy.personal](/_personal/Technology/Energy-Technology/Renewable_Energy.personal.md) 
 
-### [Renewable_Energy.secret](/_secret/Technology/Energy-Technology/Renewable_Energy.secret.md)
+### #is_/same_as :: [Renewable_Energy.secret](/_secret/Technology/Energy-Technology/Renewable_Energy.secret.md)
 

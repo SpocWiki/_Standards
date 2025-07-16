@@ -47,17 +47,17 @@ An emergency service, such as a fire station or ER.
 
 ## Confidential Links & Embeds: 
 
-### [emergency_service](/_Standards/schema-org/Class/is_a_/organization/local_business/emergency_service.md) 
+### #is_/same_as :: [emergency_service](/_Standards/schema-org/Class/is_a_/organization/local_business/emergency_service.md) 
 
-### [emergency_service.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service.public.md) 
+### #is_/same_as :: [emergency_service.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service.public.md) 
 
-### [emergency_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service.internal.md) 
+### #is_/same_as :: [emergency_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service.internal.md) 
 
-### [emergency_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service.protect.md) 
+### #is_/same_as :: [emergency_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service.protect.md) 
 
-### [emergency_service.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service.private.md) 
+### #is_/same_as :: [emergency_service.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service.private.md) 
 
-### [emergency_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service.personal.md) 
+### #is_/same_as :: [emergency_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service.personal.md) 
 
-### [emergency_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service.secret.md)
+### #is_/same_as :: [emergency_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service.secret.md)
 

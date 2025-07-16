@@ -33,17 +33,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [African](/_Standards/Earth/Ocean/Ocean~Atlantic/African.md) 
+### #is_/same_as :: [African](/_Standards/Earth/Ocean/Ocean~Atlantic/African.md) 
 
-### [African.public](/_public/Earth/Ocean/Ocean~Atlantic/African.public.md) 
+### #is_/same_as :: [African.public](/_public/Earth/Ocean/Ocean~Atlantic/African.public.md) 
 
-### [African.internal](/_internal/Earth/Ocean/Ocean~Atlantic/African.internal.md) 
+### #is_/same_as :: [African.internal](/_internal/Earth/Ocean/Ocean~Atlantic/African.internal.md) 
 
-### [African.protect](/_protect/Earth/Ocean/Ocean~Atlantic/African.protect.md) 
+### #is_/same_as :: [African.protect](/_protect/Earth/Ocean/Ocean~Atlantic/African.protect.md) 
 
-### [African.private](/_private/Earth/Ocean/Ocean~Atlantic/African.private.md) 
+### #is_/same_as :: [African.private](/_private/Earth/Ocean/Ocean~Atlantic/African.private.md) 
 
-### [African.personal](/_personal/Earth/Ocean/Ocean~Atlantic/African.personal.md) 
+### #is_/same_as :: [African.personal](/_personal/Earth/Ocean/Ocean~Atlantic/African.personal.md) 
 
-### [African.secret](/_secret/Earth/Ocean/Ocean~Atlantic/African.secret.md)
+### #is_/same_as :: [African.secret](/_secret/Earth/Ocean/Ocean~Atlantic/African.secret.md)
 

@@ -45,17 +45,17 @@ Nutritional information about the recipe.
 
 ## Confidential Links & Embeds: 
 
-### [nutrition_information](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.md) 
+### #is_/same_as :: [nutrition_information](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.md) 
 
-### [nutrition_information.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.public.md) 
+### #is_/same_as :: [nutrition_information.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.public.md) 
 
-### [nutrition_information.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.internal.md) 
+### #is_/same_as :: [nutrition_information.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.internal.md) 
 
-### [nutrition_information.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.protect.md) 
+### #is_/same_as :: [nutrition_information.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.protect.md) 
 
-### [nutrition_information.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.private.md) 
+### #is_/same_as :: [nutrition_information.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.private.md) 
 
-### [nutrition_information.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.personal.md) 
+### #is_/same_as :: [nutrition_information.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.personal.md) 
 
-### [nutrition_information.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.secret.md)
+### #is_/same_as :: [nutrition_information.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.secret.md)
 

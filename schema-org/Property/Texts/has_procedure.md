@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_procedure](/_Standards/schema-org/Property/Texts/has_procedure.md) 
+### #is_/same_as :: [has_procedure](/_Standards/schema-org/Property/Texts/has_procedure.md) 
 
-### [has_procedure.public](/_public/schema-org/Property/Texts/has_procedure.public.md) 
+### #is_/same_as :: [has_procedure.public](/_public/schema-org/Property/Texts/has_procedure.public.md) 
 
-### [has_procedure.internal](/_internal/schema-org/Property/Texts/has_procedure.internal.md) 
+### #is_/same_as :: [has_procedure.internal](/_internal/schema-org/Property/Texts/has_procedure.internal.md) 
 
-### [has_procedure.protect](/_protect/schema-org/Property/Texts/has_procedure.protect.md) 
+### #is_/same_as :: [has_procedure.protect](/_protect/schema-org/Property/Texts/has_procedure.protect.md) 
 
-### [has_procedure.private](/_private/schema-org/Property/Texts/has_procedure.private.md) 
+### #is_/same_as :: [has_procedure.private](/_private/schema-org/Property/Texts/has_procedure.private.md) 
 
-### [has_procedure.personal](/_personal/schema-org/Property/Texts/has_procedure.personal.md) 
+### #is_/same_as :: [has_procedure.personal](/_personal/schema-org/Property/Texts/has_procedure.personal.md) 
 
-### [has_procedure.secret](/_secret/schema-org/Property/Texts/has_procedure.secret.md)
+### #is_/same_as :: [has_procedure.secret](/_secret/schema-org/Property/Texts/has_procedure.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_of_bus](/_Standards/schema-org/Property/has_name/has_id_of_bus.md) 
+### #is_/same_as :: [has_id_of_bus](/_Standards/schema-org/Property/has_name/has_id_of_bus.md) 
 
-### [has_id_of_bus.public](/_public/schema-org/Property/has_name/has_id_of_bus.public.md) 
+### #is_/same_as :: [has_id_of_bus.public](/_public/schema-org/Property/has_name/has_id_of_bus.public.md) 
 
-### [has_id_of_bus.internal](/_internal/schema-org/Property/has_name/has_id_of_bus.internal.md) 
+### #is_/same_as :: [has_id_of_bus.internal](/_internal/schema-org/Property/has_name/has_id_of_bus.internal.md) 
 
-### [has_id_of_bus.protect](/_protect/schema-org/Property/has_name/has_id_of_bus.protect.md) 
+### #is_/same_as :: [has_id_of_bus.protect](/_protect/schema-org/Property/has_name/has_id_of_bus.protect.md) 
 
-### [has_id_of_bus.private](/_private/schema-org/Property/has_name/has_id_of_bus.private.md) 
+### #is_/same_as :: [has_id_of_bus.private](/_private/schema-org/Property/has_name/has_id_of_bus.private.md) 
 
-### [has_id_of_bus.personal](/_personal/schema-org/Property/has_name/has_id_of_bus.personal.md) 
+### #is_/same_as :: [has_id_of_bus.personal](/_personal/schema-org/Property/has_name/has_id_of_bus.personal.md) 
 
-### [has_id_of_bus.secret](/_secret/schema-org/Property/has_name/has_id_of_bus.secret.md)
+### #is_/same_as :: [has_id_of_bus.secret](/_secret/schema-org/Property/has_name/has_id_of_bus.secret.md)
 

@@ -45,17 +45,17 @@ A sports club.
 
 ## Confidential Links & Embeds: 
 
-### [sports_club](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.md) 
+### #is_/same_as :: [sports_club](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.md) 
 
-### [sports_club.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.public.md) 
+### #is_/same_as :: [sports_club.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.public.md) 
 
-### [sports_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.internal.md) 
+### #is_/same_as :: [sports_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.internal.md) 
 
-### [sports_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.protect.md) 
+### #is_/same_as :: [sports_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.protect.md) 
 
-### [sports_club.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.private.md) 
+### #is_/same_as :: [sports_club.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.private.md) 
 
-### [sports_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.personal.md) 
+### #is_/same_as :: [sports_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.personal.md) 
 
-### [sports_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.secret.md)
+### #is_/same_as :: [sports_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.secret.md)
 

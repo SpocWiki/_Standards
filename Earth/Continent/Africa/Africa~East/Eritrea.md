@@ -414,17 +414,17 @@ Capital :: [[Asmara]]
 
 ## Confidential Links & Embeds: 
 
-### [Eritrea](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea.md) 
+### #is_/same_as :: [Eritrea](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea.md) 
 
-### [Eritrea.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea.public.md) 
+### #is_/same_as :: [Eritrea.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea.public.md) 
 
-### [Eritrea.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal.md) 
+### #is_/same_as :: [Eritrea.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal.md) 
 
-### [Eritrea.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea.protect.md) 
+### #is_/same_as :: [Eritrea.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea.protect.md) 
 
-### [Eritrea.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea.private.md) 
+### #is_/same_as :: [Eritrea.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea.private.md) 
 
-### [Eritrea.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal.md) 
+### #is_/same_as :: [Eritrea.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal.md) 
 
-### [Eritrea.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret.md)
+### #is_/same_as :: [Eritrea.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret.md)
 

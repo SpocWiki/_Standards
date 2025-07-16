@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_vent](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_vent.md) 
+### #is_/same_as :: [has_number_of_Covid_vent](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_vent.md) 
 
-### [has_number_of_Covid_vent.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent.public.md) 
+### #is_/same_as :: [has_number_of_Covid_vent.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent.public.md) 
 
-### [has_number_of_Covid_vent.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_vent.internal.md) 
+### #is_/same_as :: [has_number_of_Covid_vent.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_vent.internal.md) 
 
-### [has_number_of_Covid_vent.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_vent.protect.md) 
+### #is_/same_as :: [has_number_of_Covid_vent.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_vent.protect.md) 
 
-### [has_number_of_Covid_vent.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_vent.private.md) 
+### #is_/same_as :: [has_number_of_Covid_vent.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_vent.private.md) 
 
-### [has_number_of_Covid_vent.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_vent.personal.md) 
+### #is_/same_as :: [has_number_of_Covid_vent.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_vent.personal.md) 
 
-### [has_number_of_Covid_vent.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent.secret.md)
+### #is_/same_as :: [has_number_of_Covid_vent.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent.secret.md)
 

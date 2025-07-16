@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_permit_audience](/_Standards/schema-org/Relation/has/has_permit_audience.md) 
+### #is_/same_as :: [has_permit_audience](/_Standards/schema-org/Relation/has/has_permit_audience.md) 
 
-### [has_permit_audience.public](/_public/schema-org/Relation/has/has_permit_audience.public.md) 
+### #is_/same_as :: [has_permit_audience.public](/_public/schema-org/Relation/has/has_permit_audience.public.md) 
 
-### [has_permit_audience.internal](/_internal/schema-org/Relation/has/has_permit_audience.internal.md) 
+### #is_/same_as :: [has_permit_audience.internal](/_internal/schema-org/Relation/has/has_permit_audience.internal.md) 
 
-### [has_permit_audience.protect](/_protect/schema-org/Relation/has/has_permit_audience.protect.md) 
+### #is_/same_as :: [has_permit_audience.protect](/_protect/schema-org/Relation/has/has_permit_audience.protect.md) 
 
-### [has_permit_audience.private](/_private/schema-org/Relation/has/has_permit_audience.private.md) 
+### #is_/same_as :: [has_permit_audience.private](/_private/schema-org/Relation/has/has_permit_audience.private.md) 
 
-### [has_permit_audience.personal](/_personal/schema-org/Relation/has/has_permit_audience.personal.md) 
+### #is_/same_as :: [has_permit_audience.personal](/_personal/schema-org/Relation/has/has_permit_audience.personal.md) 
 
-### [has_permit_audience.secret](/_secret/schema-org/Relation/has/has_permit_audience.secret.md)
+### #is_/same_as :: [has_permit_audience.secret](/_secret/schema-org/Relation/has/has_permit_audience.secret.md)
 

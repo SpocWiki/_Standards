@@ -42,17 +42,17 @@ A [[../../Class/is_a_/creative_work/review|review]] of the item.
 
 ## Confidential Links & Embeds: 
 
-### [has_review](/_Standards/schema-org/Relation/has/has_review.md) 
+### #is_/same_as :: [has_review](/_Standards/schema-org/Relation/has/has_review.md) 
 
-### [has_review.public](/_public/schema-org/Relation/has/has_review.public.md) 
+### #is_/same_as :: [has_review.public](/_public/schema-org/Relation/has/has_review.public.md) 
 
-### [has_review.internal](/_internal/schema-org/Relation/has/has_review.internal.md) 
+### #is_/same_as :: [has_review.internal](/_internal/schema-org/Relation/has/has_review.internal.md) 
 
-### [has_review.protect](/_protect/schema-org/Relation/has/has_review.protect.md) 
+### #is_/same_as :: [has_review.protect](/_protect/schema-org/Relation/has/has_review.protect.md) 
 
-### [has_review.private](/_private/schema-org/Relation/has/has_review.private.md) 
+### #is_/same_as :: [has_review.private](/_private/schema-org/Relation/has/has_review.private.md) 
 
-### [has_review.personal](/_personal/schema-org/Relation/has/has_review.personal.md) 
+### #is_/same_as :: [has_review.personal](/_personal/schema-org/Relation/has/has_review.personal.md) 
 
-### [has_review.secret](/_secret/schema-org/Relation/has/has_review.secret.md)
+### #is_/same_as :: [has_review.secret](/_secret/schema-org/Relation/has/has_review.secret.md)
 

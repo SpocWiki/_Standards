@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_genre](/_Standards/schema-org/Property/Texts/has_genre.md) 
+### #is_/same_as :: [has_genre](/_Standards/schema-org/Property/Texts/has_genre.md) 
 
-### [has_genre.public](/_public/schema-org/Property/Texts/has_genre.public.md) 
+### #is_/same_as :: [has_genre.public](/_public/schema-org/Property/Texts/has_genre.public.md) 
 
-### [has_genre.internal](/_internal/schema-org/Property/Texts/has_genre.internal.md) 
+### #is_/same_as :: [has_genre.internal](/_internal/schema-org/Property/Texts/has_genre.internal.md) 
 
-### [has_genre.protect](/_protect/schema-org/Property/Texts/has_genre.protect.md) 
+### #is_/same_as :: [has_genre.protect](/_protect/schema-org/Property/Texts/has_genre.protect.md) 
 
-### [has_genre.private](/_private/schema-org/Property/Texts/has_genre.private.md) 
+### #is_/same_as :: [has_genre.private](/_private/schema-org/Property/Texts/has_genre.private.md) 
 
-### [has_genre.personal](/_personal/schema-org/Property/Texts/has_genre.personal.md) 
+### #is_/same_as :: [has_genre.personal](/_personal/schema-org/Property/Texts/has_genre.personal.md) 
 
-### [has_genre.secret](/_secret/schema-org/Property/Texts/has_genre.secret.md)
+### #is_/same_as :: [has_genre.secret](/_secret/schema-org/Property/Texts/has_genre.secret.md)
 

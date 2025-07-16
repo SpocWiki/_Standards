@@ -43,17 +43,17 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 ## Confidential Links & Embeds: 
 
-### [restricted_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.md) 
+### #is_/same_as :: [restricted_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.md) 
 
-### [restricted_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.public.md) 
+### #is_/same_as :: [restricted_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.public.md) 
 
-### [restricted_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.internal.md) 
+### #is_/same_as :: [restricted_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.internal.md) 
 
-### [restricted_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.protect.md) 
+### #is_/same_as :: [restricted_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.protect.md) 
 
-### [restricted_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.private.md) 
+### #is_/same_as :: [restricted_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.private.md) 
 
-### [restricted_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.personal.md) 
+### #is_/same_as :: [restricted_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.personal.md) 
 
-### [restricted_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.secret.md)
+### #is_/same_as :: [restricted_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.secret.md)
 

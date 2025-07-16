@@ -10,17 +10,17 @@ could not be found nor synthesized.
 
 ## Confidential Links & Embeds: 
 
-### [Stoney-Mass](/_Standards/Unit/Stoney-Unit/Stoney-Mass.md) 
+### #is_/same_as :: [Stoney-Mass](/_Standards/Unit/Stoney-Unit/Stoney-Mass.md) 
 
-### [Stoney-Mass.public](/_public/Unit/Stoney-Unit/Stoney-Mass.public.md) 
+### #is_/same_as :: [Stoney-Mass.public](/_public/Unit/Stoney-Unit/Stoney-Mass.public.md) 
 
-### [Stoney-Mass.internal](/_internal/Unit/Stoney-Unit/Stoney-Mass.internal.md) 
+### #is_/same_as :: [Stoney-Mass.internal](/_internal/Unit/Stoney-Unit/Stoney-Mass.internal.md) 
 
-### [Stoney-Mass.protect](/_protect/Unit/Stoney-Unit/Stoney-Mass.protect.md) 
+### #is_/same_as :: [Stoney-Mass.protect](/_protect/Unit/Stoney-Unit/Stoney-Mass.protect.md) 
 
-### [Stoney-Mass.private](/_private/Unit/Stoney-Unit/Stoney-Mass.private.md) 
+### #is_/same_as :: [Stoney-Mass.private](/_private/Unit/Stoney-Unit/Stoney-Mass.private.md) 
 
-### [Stoney-Mass.personal](/_personal/Unit/Stoney-Unit/Stoney-Mass.personal.md) 
+### #is_/same_as :: [Stoney-Mass.personal](/_personal/Unit/Stoney-Unit/Stoney-Mass.personal.md) 
 
-### [Stoney-Mass.secret](/_secret/Unit/Stoney-Unit/Stoney-Mass.secret.md)
+### #is_/same_as :: [Stoney-Mass.secret](/_secret/Unit/Stoney-Unit/Stoney-Mass.secret.md)
 

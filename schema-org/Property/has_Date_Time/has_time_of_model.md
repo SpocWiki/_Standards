@@ -48,17 +48,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_model](/_Standards/schema-org/Property/has_Date_Time/has_time_of_model.md) 
+### #is_/same_as :: [has_time_of_model](/_Standards/schema-org/Property/has_Date_Time/has_time_of_model.md) 
 
-### [has_time_of_model.public](/_public/schema-org/Property/has_Date_Time/has_time_of_model.public.md) 
+### #is_/same_as :: [has_time_of_model.public](/_public/schema-org/Property/has_Date_Time/has_time_of_model.public.md) 
 
-### [has_time_of_model.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_model.internal.md) 
+### #is_/same_as :: [has_time_of_model.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_model.internal.md) 
 
-### [has_time_of_model.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_model.protect.md) 
+### #is_/same_as :: [has_time_of_model.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_model.protect.md) 
 
-### [has_time_of_model.private](/_private/schema-org/Property/has_Date_Time/has_time_of_model.private.md) 
+### #is_/same_as :: [has_time_of_model.private](/_private/schema-org/Property/has_Date_Time/has_time_of_model.private.md) 
 
-### [has_time_of_model.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_model.personal.md) 
+### #is_/same_as :: [has_time_of_model.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_model.personal.md) 
 
-### [has_time_of_model.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_model.secret.md)
+### #is_/same_as :: [has_time_of_model.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_model.secret.md)
 

@@ -82,17 +82,17 @@ OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OrderItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.md) 
+### #is_/same_as :: [FileClass~OrderItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.md) 
 
-### [FileClass~OrderItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.public.md) 
+### #is_/same_as :: [FileClass~OrderItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.public.md) 
 
-### [FileClass~OrderItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.internal.md) 
+### #is_/same_as :: [FileClass~OrderItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.internal.md) 
 
-### [FileClass~OrderItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.protect.md) 
+### #is_/same_as :: [FileClass~OrderItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.protect.md) 
 
-### [FileClass~OrderItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.private.md) 
+### #is_/same_as :: [FileClass~OrderItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.private.md) 
 
-### [FileClass~OrderItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.personal.md) 
+### #is_/same_as :: [FileClass~OrderItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.personal.md) 
 
-### [FileClass~OrderItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret.md)
+### #is_/same_as :: [FileClass~OrderItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret.md)
 

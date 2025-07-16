@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_educational_framework](/_Standards/schema-org/Property/Texts/has_educational_framework.md) 
+### #is_/same_as :: [has_educational_framework](/_Standards/schema-org/Property/Texts/has_educational_framework.md) 
 
-### [has_educational_framework.public](/_public/schema-org/Property/Texts/has_educational_framework.public.md) 
+### #is_/same_as :: [has_educational_framework.public](/_public/schema-org/Property/Texts/has_educational_framework.public.md) 
 
-### [has_educational_framework.internal](/_internal/schema-org/Property/Texts/has_educational_framework.internal.md) 
+### #is_/same_as :: [has_educational_framework.internal](/_internal/schema-org/Property/Texts/has_educational_framework.internal.md) 
 
-### [has_educational_framework.protect](/_protect/schema-org/Property/Texts/has_educational_framework.protect.md) 
+### #is_/same_as :: [has_educational_framework.protect](/_protect/schema-org/Property/Texts/has_educational_framework.protect.md) 
 
-### [has_educational_framework.private](/_private/schema-org/Property/Texts/has_educational_framework.private.md) 
+### #is_/same_as :: [has_educational_framework.private](/_private/schema-org/Property/Texts/has_educational_framework.private.md) 
 
-### [has_educational_framework.personal](/_personal/schema-org/Property/Texts/has_educational_framework.personal.md) 
+### #is_/same_as :: [has_educational_framework.personal](/_personal/schema-org/Property/Texts/has_educational_framework.personal.md) 
 
-### [has_educational_framework.secret](/_secret/schema-org/Property/Texts/has_educational_framework.secret.md)
+### #is_/same_as :: [has_educational_framework.secret](/_secret/schema-org/Property/Texts/has_educational_framework.secret.md)
 

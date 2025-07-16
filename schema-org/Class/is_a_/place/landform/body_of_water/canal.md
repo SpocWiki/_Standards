@@ -45,17 +45,17 @@ A canal, like the Panama Canal.
 
 ## Confidential Links & Embeds: 
 
-### [canal](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/canal.md) 
+### #is_/same_as :: [canal](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/canal.md) 
 
-### [canal.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/canal.public.md) 
+### #is_/same_as :: [canal.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/canal.public.md) 
 
-### [canal.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/canal.internal.md) 
+### #is_/same_as :: [canal.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/canal.internal.md) 
 
-### [canal.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/canal.protect.md) 
+### #is_/same_as :: [canal.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/canal.protect.md) 
 
-### [canal.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/canal.private.md) 
+### #is_/same_as :: [canal.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/canal.private.md) 
 
-### [canal.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/canal.personal.md) 
+### #is_/same_as :: [canal.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/canal.personal.md) 
 
-### [canal.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/canal.secret.md)
+### #is_/same_as :: [canal.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/canal.secret.md)
 

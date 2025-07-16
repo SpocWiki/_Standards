@@ -437,21 +437,19 @@ Royal_Academy_new_identifier: rembrandt
 > [Wikipedia](https://en.wikipedia.org/wiki/Rembrandt)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Rembrandt](/_Standards/bio/People/Painter/Rembrandt.md) 
+### #is_/same_as :: [Rembrandt](/_Standards/bio/People/Painter/Rembrandt.md) 
 
-### [Rembrandt.public](/_public/bio/People/Painter/Rembrandt.public.md) 
+### #is_/same_as :: [Rembrandt.public](/_public/bio/People/Painter/Rembrandt.public.md) 
 
-### [Rembrandt.internal](/_internal/bio/People/Painter/Rembrandt.internal.md) 
+### #is_/same_as :: [Rembrandt.internal](/_internal/bio/People/Painter/Rembrandt.internal.md) 
 
-### [Rembrandt.protect](/_protect/bio/People/Painter/Rembrandt.protect.md) 
+### #is_/same_as :: [Rembrandt.protect](/_protect/bio/People/Painter/Rembrandt.protect.md) 
 
-### [Rembrandt.private](/_private/bio/People/Painter/Rembrandt.private.md) 
+### #is_/same_as :: [Rembrandt.private](/_private/bio/People/Painter/Rembrandt.private.md) 
 
-### [Rembrandt.personal](/_personal/bio/People/Painter/Rembrandt.personal.md) 
+### #is_/same_as :: [Rembrandt.personal](/_personal/bio/People/Painter/Rembrandt.personal.md) 
 
-### [Rembrandt.secret](/_secret/bio/People/Painter/Rembrandt.secret.md)
+### #is_/same_as :: [Rembrandt.secret](/_secret/bio/People/Painter/Rembrandt.secret.md)
 

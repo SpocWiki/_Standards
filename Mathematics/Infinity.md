@@ -73,17 +73,17 @@ Dewey_Decimal_Classification: 111.6
 
 ## Confidential Links & Embeds: 
 
-### [Infinity](/_Standards/Mathematics/Infinity.md) 
+### #is_/same_as :: [Infinity](/_Standards/Mathematics/Infinity.md) 
 
-### [Infinity.public](/_public/Mathematics/Infinity.public.md) 
+### #is_/same_as :: [Infinity.public](/_public/Mathematics/Infinity.public.md) 
 
-### [Infinity.internal](/_internal/Mathematics/Infinity.internal.md) 
+### #is_/same_as :: [Infinity.internal](/_internal/Mathematics/Infinity.internal.md) 
 
-### [Infinity.protect](/_protect/Mathematics/Infinity.protect.md) 
+### #is_/same_as :: [Infinity.protect](/_protect/Mathematics/Infinity.protect.md) 
 
-### [Infinity.private](/_private/Mathematics/Infinity.private.md) 
+### #is_/same_as :: [Infinity.private](/_private/Mathematics/Infinity.private.md) 
 
-### [Infinity.personal](/_personal/Mathematics/Infinity.personal.md) 
+### #is_/same_as :: [Infinity.personal](/_personal/Mathematics/Infinity.personal.md) 
 
-### [Infinity.secret](/_secret/Mathematics/Infinity.secret.md)
+### #is_/same_as :: [Infinity.secret](/_secret/Mathematics/Infinity.secret.md)
 

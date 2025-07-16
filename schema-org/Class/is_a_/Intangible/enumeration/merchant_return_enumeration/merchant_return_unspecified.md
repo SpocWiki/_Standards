@@ -51,17 +51,17 @@ Specifies that a product return policy is not provided.
 
 ## Confidential Links & Embeds: 
 
-### [merchant_return_unspecified](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.md) 
+### #is_/same_as :: [merchant_return_unspecified](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.md) 
 
-### [merchant_return_unspecified.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.public.md) 
+### #is_/same_as :: [merchant_return_unspecified.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.public.md) 
 
-### [merchant_return_unspecified.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.internal.md) 
+### #is_/same_as :: [merchant_return_unspecified.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.internal.md) 
 
-### [merchant_return_unspecified.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.protect.md) 
+### #is_/same_as :: [merchant_return_unspecified.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.protect.md) 
 
-### [merchant_return_unspecified.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.private.md) 
+### #is_/same_as :: [merchant_return_unspecified.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.private.md) 
 
-### [merchant_return_unspecified.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.personal.md) 
+### #is_/same_as :: [merchant_return_unspecified.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.personal.md) 
 
-### [merchant_return_unspecified.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.secret.md)
+### #is_/same_as :: [merchant_return_unspecified.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.secret.md)
 

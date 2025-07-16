@@ -71,17 +71,17 @@ StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Role](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.md) 
+### #is_/same_as :: [FileClass~Role](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.md) 
 
-### [FileClass~Role.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.public.md) 
+### #is_/same_as :: [FileClass~Role.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.public.md) 
 
-### [FileClass~Role.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.internal.md) 
+### #is_/same_as :: [FileClass~Role.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.internal.md) 
 
-### [FileClass~Role.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.protect.md) 
+### #is_/same_as :: [FileClass~Role.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.protect.md) 
 
-### [FileClass~Role.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.private.md) 
+### #is_/same_as :: [FileClass~Role.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.private.md) 
 
-### [FileClass~Role.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.personal.md) 
+### #is_/same_as :: [FileClass~Role.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.personal.md) 
 
-### [FileClass~Role.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.secret.md)
+### #is_/same_as :: [FileClass~Role.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.secret.md)
 

@@ -45,17 +45,17 @@ A home goods store.
 
 ## Confidential Links & Embeds: 
 
-### [home_goods_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.md) 
+### #is_/same_as :: [home_goods_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.md) 
 
-### [home_goods_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.public.md) 
+### #is_/same_as :: [home_goods_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.public.md) 
 
-### [home_goods_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.internal.md) 
+### #is_/same_as :: [home_goods_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.internal.md) 
 
-### [home_goods_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.protect.md) 
+### #is_/same_as :: [home_goods_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.protect.md) 
 
-### [home_goods_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.private.md) 
+### #is_/same_as :: [home_goods_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.private.md) 
 
-### [home_goods_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.personal.md) 
+### #is_/same_as :: [home_goods_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.personal.md) 
 
-### [home_goods_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.secret.md)
+### #is_/same_as :: [home_goods_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/home_goods_store.secret.md)
 

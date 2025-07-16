@@ -70,23 +70,19 @@ aliases:
 	-   *Waddlia*
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chlamydiae](/_Standards/bio/bio~Domain/Bacteria/Chlamydiae.md) 
+### #is_/same_as :: [Chlamydiae](/_Standards/bio/bio~Domain/Bacteria/Chlamydiae.md) 
 
-### [Chlamydiae.public](/_public/bio/bio~Domain/Bacteria/Chlamydiae.public.md) 
+### #is_/same_as :: [Chlamydiae.public](/_public/bio/bio~Domain/Bacteria/Chlamydiae.public.md) 
 
-### [Chlamydiae.internal](/_internal/bio/bio~Domain/Bacteria/Chlamydiae.internal.md) 
+### #is_/same_as :: [Chlamydiae.internal](/_internal/bio/bio~Domain/Bacteria/Chlamydiae.internal.md) 
 
-### [Chlamydiae.protect](/_protect/bio/bio~Domain/Bacteria/Chlamydiae.protect.md) 
+### #is_/same_as :: [Chlamydiae.protect](/_protect/bio/bio~Domain/Bacteria/Chlamydiae.protect.md) 
 
-### [Chlamydiae.private](/_private/bio/bio~Domain/Bacteria/Chlamydiae.private.md) 
+### #is_/same_as :: [Chlamydiae.private](/_private/bio/bio~Domain/Bacteria/Chlamydiae.private.md) 
 
-### [Chlamydiae.personal](/_personal/bio/bio~Domain/Bacteria/Chlamydiae.personal.md) 
+### #is_/same_as :: [Chlamydiae.personal](/_personal/bio/bio~Domain/Bacteria/Chlamydiae.personal.md) 
 
-### [Chlamydiae.secret](/_secret/bio/bio~Domain/Bacteria/Chlamydiae.secret.md)
+### #is_/same_as :: [Chlamydiae.secret](/_secret/bio/bio~Domain/Bacteria/Chlamydiae.secret.md)
 

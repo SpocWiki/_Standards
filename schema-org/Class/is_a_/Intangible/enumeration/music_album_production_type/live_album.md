@@ -47,17 +47,17 @@ LiveAlbum.
 
 ## Confidential Links & Embeds: 
 
-### [live_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.md) 
+### #is_/same_as :: [live_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.md) 
 
-### [live_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.public.md) 
+### #is_/same_as :: [live_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.public.md) 
 
-### [live_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.internal.md) 
+### #is_/same_as :: [live_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.internal.md) 
 
-### [live_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.protect.md) 
+### #is_/same_as :: [live_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.protect.md) 
 
-### [live_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.private.md) 
+### #is_/same_as :: [live_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.private.md) 
 
-### [live_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.personal.md) 
+### #is_/same_as :: [live_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.personal.md) 
 
-### [live_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.secret.md)
+### #is_/same_as :: [live_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.secret.md)
 

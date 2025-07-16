@@ -76,21 +76,19 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/TEATR.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Theatre) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Theatre](/_Standards/bio/Society/Communication/Performing_Arts/Theatre.md) 
+### #is_/same_as :: [Theatre](/_Standards/bio/Society/Communication/Performing_Arts/Theatre.md) 
 
-### [Theatre.public](/_public/bio/Society/Communication/Performing_Arts/Theatre.public.md) 
+### #is_/same_as :: [Theatre.public](/_public/bio/Society/Communication/Performing_Arts/Theatre.public.md) 
 
-### [Theatre.internal](/_internal/bio/Society/Communication/Performing_Arts/Theatre.internal.md) 
+### #is_/same_as :: [Theatre.internal](/_internal/bio/Society/Communication/Performing_Arts/Theatre.internal.md) 
 
-### [Theatre.protect](/_protect/bio/Society/Communication/Performing_Arts/Theatre.protect.md) 
+### #is_/same_as :: [Theatre.protect](/_protect/bio/Society/Communication/Performing_Arts/Theatre.protect.md) 
 
-### [Theatre.private](/_private/bio/Society/Communication/Performing_Arts/Theatre.private.md) 
+### #is_/same_as :: [Theatre.private](/_private/bio/Society/Communication/Performing_Arts/Theatre.private.md) 
 
-### [Theatre.personal](/_personal/bio/Society/Communication/Performing_Arts/Theatre.personal.md) 
+### #is_/same_as :: [Theatre.personal](/_personal/bio/Society/Communication/Performing_Arts/Theatre.personal.md) 
 
-### [Theatre.secret](/_secret/bio/Society/Communication/Performing_Arts/Theatre.secret.md)
+### #is_/same_as :: [Theatre.secret](/_secret/bio/Society/Communication/Performing_Arts/Theatre.secret.md)
 

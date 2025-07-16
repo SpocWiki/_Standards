@@ -47,17 +47,17 @@ A medical device used for therapeutic purposes.
 
 ## Confidential Links & Embeds: 
 
-### [therapeutic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md) 
+### #is_/same_as :: [therapeutic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md) 
 
-### [therapeutic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.public.md) 
+### #is_/same_as :: [therapeutic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.public.md) 
 
-### [therapeutic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md) 
+### #is_/same_as :: [therapeutic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md) 
 
-### [therapeutic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.protect.md) 
+### #is_/same_as :: [therapeutic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.protect.md) 
 
-### [therapeutic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.private.md) 
+### #is_/same_as :: [therapeutic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.private.md) 
 
-### [therapeutic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md) 
+### #is_/same_as :: [therapeutic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md) 
 
-### [therapeutic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md)
+### #is_/same_as :: [therapeutic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md)
 

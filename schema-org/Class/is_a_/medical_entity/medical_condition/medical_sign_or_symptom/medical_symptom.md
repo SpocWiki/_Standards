@@ -45,17 +45,17 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 ## Confidential Links & Embeds: 
 
-### [medical_symptom](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.md) 
+### #is_/same_as :: [medical_symptom](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.md) 
 
-### [medical_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.public.md) 
+### #is_/same_as :: [medical_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.public.md) 
 
-### [medical_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.internal.md) 
+### #is_/same_as :: [medical_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.internal.md) 
 
-### [medical_symptom.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.protect.md) 
+### #is_/same_as :: [medical_symptom.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.protect.md) 
 
-### [medical_symptom.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.private.md) 
+### #is_/same_as :: [medical_symptom.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.private.md) 
 
-### [medical_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.personal.md) 
+### #is_/same_as :: [medical_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.personal.md) 
 
-### [medical_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret.md)
+### #is_/same_as :: [medical_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret.md)
 

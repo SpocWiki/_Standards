@@ -109,17 +109,17 @@ VariantCover:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicIssue](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.md) 
+### #is_/same_as :: [FileClass~ComicIssue](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.md) 
 
-### [FileClass~ComicIssue.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.public.md) 
+### #is_/same_as :: [FileClass~ComicIssue.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.public.md) 
 
-### [FileClass~ComicIssue.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.internal.md) 
+### #is_/same_as :: [FileClass~ComicIssue.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.internal.md) 
 
-### [FileClass~ComicIssue.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.protect.md) 
+### #is_/same_as :: [FileClass~ComicIssue.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.protect.md) 
 
-### [FileClass~ComicIssue.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.private.md) 
+### #is_/same_as :: [FileClass~ComicIssue.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.private.md) 
 
-### [FileClass~ComicIssue.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.personal.md) 
+### #is_/same_as :: [FileClass~ComicIssue.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.personal.md) 
 
-### [FileClass~ComicIssue.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.secret.md)
+### #is_/same_as :: [FileClass~ComicIssue.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.secret.md)
 

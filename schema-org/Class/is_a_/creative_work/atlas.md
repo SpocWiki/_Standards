@@ -47,17 +47,17 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ## Confidential Links & Embeds: 
 
-### [atlas](/_Standards/schema-org/Class/is_a_/creative_work/atlas.md) 
+### #is_/same_as :: [atlas](/_Standards/schema-org/Class/is_a_/creative_work/atlas.md) 
 
-### [atlas.public](/_public/schema-org/Class/is_a_/creative_work/atlas.public.md) 
+### #is_/same_as :: [atlas.public](/_public/schema-org/Class/is_a_/creative_work/atlas.public.md) 
 
-### [atlas.internal](/_internal/schema-org/Class/is_a_/creative_work/atlas.internal.md) 
+### #is_/same_as :: [atlas.internal](/_internal/schema-org/Class/is_a_/creative_work/atlas.internal.md) 
 
-### [atlas.protect](/_protect/schema-org/Class/is_a_/creative_work/atlas.protect.md) 
+### #is_/same_as :: [atlas.protect](/_protect/schema-org/Class/is_a_/creative_work/atlas.protect.md) 
 
-### [atlas.private](/_private/schema-org/Class/is_a_/creative_work/atlas.private.md) 
+### #is_/same_as :: [atlas.private](/_private/schema-org/Class/is_a_/creative_work/atlas.private.md) 
 
-### [atlas.personal](/_personal/schema-org/Class/is_a_/creative_work/atlas.personal.md) 
+### #is_/same_as :: [atlas.personal](/_personal/schema-org/Class/is_a_/creative_work/atlas.personal.md) 
 
-### [atlas.secret](/_secret/schema-org/Class/is_a_/creative_work/atlas.secret.md)
+### #is_/same_as :: [atlas.secret](/_secret/schema-org/Class/is_a_/creative_work/atlas.secret.md)
 

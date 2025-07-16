@@ -200,17 +200,17 @@ the average price of hot-rolled coil steel in the United States was approximatel
 
 ## Confidential Links & Embeds: 
 
-### [Iron](/_Standards/chemic/chemic~Elements/Group-08-Iron/Iron.md) 
+### #is_/same_as :: [Iron](/_Standards/chemic/chemic~Elements/Group-08-Iron/Iron.md) 
 
-### [Iron.public](/_public/chemic/chemic~Elements/Group-08-Iron/Iron.public.md) 
+### #is_/same_as :: [Iron.public](/_public/chemic/chemic~Elements/Group-08-Iron/Iron.public.md) 
 
-### [Iron.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Iron.internal.md) 
+### #is_/same_as :: [Iron.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Iron.internal.md) 
 
-### [Iron.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Iron.protect.md) 
+### #is_/same_as :: [Iron.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Iron.protect.md) 
 
-### [Iron.private](/_private/chemic/chemic~Elements/Group-08-Iron/Iron.private.md) 
+### #is_/same_as :: [Iron.private](/_private/chemic/chemic~Elements/Group-08-Iron/Iron.private.md) 
 
-### [Iron.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Iron.personal.md) 
+### #is_/same_as :: [Iron.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Iron.personal.md) 
 
-### [Iron.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Iron.secret.md)
+### #is_/same_as :: [Iron.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Iron.secret.md)
 

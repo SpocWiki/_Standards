@@ -58,17 +58,17 @@ U_S_National_Archives_Identifier: 10641550
 
 ## Confidential Links & Embeds: 
 
-### [Terrorism](/_Standards/bio/Society/Military/War/Terrorism.md) 
+### #is_/same_as :: [Terrorism](/_Standards/bio/Society/Military/War/Terrorism.md) 
 
-### [Terrorism.public](/_public/bio/Society/Military/War/Terrorism.public.md) 
+### #is_/same_as :: [Terrorism.public](/_public/bio/Society/Military/War/Terrorism.public.md) 
 
-### [Terrorism.internal](/_internal/bio/Society/Military/War/Terrorism.internal.md) 
+### #is_/same_as :: [Terrorism.internal](/_internal/bio/Society/Military/War/Terrorism.internal.md) 
 
-### [Terrorism.protect](/_protect/bio/Society/Military/War/Terrorism.protect.md) 
+### #is_/same_as :: [Terrorism.protect](/_protect/bio/Society/Military/War/Terrorism.protect.md) 
 
-### [Terrorism.private](/_private/bio/Society/Military/War/Terrorism.private.md) 
+### #is_/same_as :: [Terrorism.private](/_private/bio/Society/Military/War/Terrorism.private.md) 
 
-### [Terrorism.personal](/_personal/bio/Society/Military/War/Terrorism.personal.md) 
+### #is_/same_as :: [Terrorism.personal](/_personal/bio/Society/Military/War/Terrorism.personal.md) 
 
-### [Terrorism.secret](/_secret/bio/Society/Military/War/Terrorism.secret.md)
+### #is_/same_as :: [Terrorism.secret](/_secret/bio/Society/Military/War/Terrorism.secret.md)
 

@@ -120,17 +120,17 @@ Commons_category: Scandium
 
 ## Confidential Links & Embeds: 
 
-### [Scandium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Scandium.md) 
+### #is_/same_as :: [Scandium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Scandium.md) 
 
-### [Scandium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Scandium.public.md) 
+### #is_/same_as :: [Scandium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Scandium.public.md) 
 
-### [Scandium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Scandium.internal.md) 
+### #is_/same_as :: [Scandium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Scandium.internal.md) 
 
-### [Scandium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Scandium.protect.md) 
+### #is_/same_as :: [Scandium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Scandium.protect.md) 
 
-### [Scandium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Scandium.private.md) 
+### #is_/same_as :: [Scandium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Scandium.private.md) 
 
-### [Scandium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Scandium.personal.md) 
+### #is_/same_as :: [Scandium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Scandium.personal.md) 
 
-### [Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Scandium.secret.md)
+### #is_/same_as :: [Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Scandium.secret.md)
 

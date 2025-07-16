@@ -45,17 +45,17 @@ A wholesale store.
 
 ## Confidential Links & Embeds: 
 
-### [wholesale_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.md) 
+### #is_/same_as :: [wholesale_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.md) 
 
-### [wholesale_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.public.md) 
+### #is_/same_as :: [wholesale_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.public.md) 
 
-### [wholesale_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.internal.md) 
+### #is_/same_as :: [wholesale_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.internal.md) 
 
-### [wholesale_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.protect.md) 
+### #is_/same_as :: [wholesale_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.protect.md) 
 
-### [wholesale_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.private.md) 
+### #is_/same_as :: [wholesale_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.private.md) 
 
-### [wholesale_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.personal.md) 
+### #is_/same_as :: [wholesale_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.personal.md) 
 
-### [wholesale_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.secret.md)
+### #is_/same_as :: [wholesale_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.secret.md)
 

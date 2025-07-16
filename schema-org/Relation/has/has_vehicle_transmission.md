@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_transmission](/_Standards/schema-org/Relation/has/has_vehicle_transmission.md) 
+### #is_/same_as :: [has_vehicle_transmission](/_Standards/schema-org/Relation/has/has_vehicle_transmission.md) 
 
-### [has_vehicle_transmission.public](/_public/schema-org/Relation/has/has_vehicle_transmission.public.md) 
+### #is_/same_as :: [has_vehicle_transmission.public](/_public/schema-org/Relation/has/has_vehicle_transmission.public.md) 
 
-### [has_vehicle_transmission.internal](/_internal/schema-org/Relation/has/has_vehicle_transmission.internal.md) 
+### #is_/same_as :: [has_vehicle_transmission.internal](/_internal/schema-org/Relation/has/has_vehicle_transmission.internal.md) 
 
-### [has_vehicle_transmission.protect](/_protect/schema-org/Relation/has/has_vehicle_transmission.protect.md) 
+### #is_/same_as :: [has_vehicle_transmission.protect](/_protect/schema-org/Relation/has/has_vehicle_transmission.protect.md) 
 
-### [has_vehicle_transmission.private](/_private/schema-org/Relation/has/has_vehicle_transmission.private.md) 
+### #is_/same_as :: [has_vehicle_transmission.private](/_private/schema-org/Relation/has/has_vehicle_transmission.private.md) 
 
-### [has_vehicle_transmission.personal](/_personal/schema-org/Relation/has/has_vehicle_transmission.personal.md) 
+### #is_/same_as :: [has_vehicle_transmission.personal](/_personal/schema-org/Relation/has/has_vehicle_transmission.personal.md) 
 
-### [has_vehicle_transmission.secret](/_secret/schema-org/Relation/has/has_vehicle_transmission.secret.md)
+### #is_/same_as :: [has_vehicle_transmission.secret](/_secret/schema-org/Relation/has/has_vehicle_transmission.secret.md)
 

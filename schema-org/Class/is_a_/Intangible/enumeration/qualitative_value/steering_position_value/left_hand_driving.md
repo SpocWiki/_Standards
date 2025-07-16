@@ -47,17 +47,17 @@ The steering position is on the left side of the vehicle (viewed from the main d
 
 ## Confidential Links & Embeds: 
 
-### [left_hand_driving](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.md) 
+### #is_/same_as :: [left_hand_driving](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.md) 
 
-### [left_hand_driving.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.public.md) 
+### #is_/same_as :: [left_hand_driving.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.public.md) 
 
-### [left_hand_driving.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.internal.md) 
+### #is_/same_as :: [left_hand_driving.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.internal.md) 
 
-### [left_hand_driving.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.protect.md) 
+### #is_/same_as :: [left_hand_driving.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.protect.md) 
 
-### [left_hand_driving.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.private.md) 
+### #is_/same_as :: [left_hand_driving.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.private.md) 
 
-### [left_hand_driving.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.personal.md) 
+### #is_/same_as :: [left_hand_driving.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.personal.md) 
 
-### [left_hand_driving.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.secret.md)
+### #is_/same_as :: [left_hand_driving.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.secret.md)
 

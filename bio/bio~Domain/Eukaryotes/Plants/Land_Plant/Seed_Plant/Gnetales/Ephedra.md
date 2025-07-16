@@ -110,21 +110,19 @@ Image copyright © 1995 David R. Maddison
 	-   *Ephedra viridis*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ephedra](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.md) 
+### #is_/same_as :: [Ephedra](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.md) 
 
-### [Ephedra.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.public.md) 
+### #is_/same_as :: [Ephedra.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.public.md) 
 
-### [Ephedra.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.internal.md) 
+### #is_/same_as :: [Ephedra.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.internal.md) 
 
-### [Ephedra.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.protect.md) 
+### #is_/same_as :: [Ephedra.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.protect.md) 
 
-### [Ephedra.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.private.md) 
+### #is_/same_as :: [Ephedra.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.private.md) 
 
-### [Ephedra.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.personal.md) 
+### #is_/same_as :: [Ephedra.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.personal.md) 
 
-### [Ephedra.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.secret.md)
+### #is_/same_as :: [Ephedra.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.secret.md)
 

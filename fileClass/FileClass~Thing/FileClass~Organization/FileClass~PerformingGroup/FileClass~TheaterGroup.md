@@ -35,17 +35,17 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TheaterGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.md) 
+### #is_/same_as :: [FileClass~TheaterGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.md) 
 
-### [FileClass~TheaterGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.public.md) 
+### #is_/same_as :: [FileClass~TheaterGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.public.md) 
 
-### [FileClass~TheaterGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.internal.md) 
+### #is_/same_as :: [FileClass~TheaterGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.internal.md) 
 
-### [FileClass~TheaterGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.protect.md) 
+### #is_/same_as :: [FileClass~TheaterGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.protect.md) 
 
-### [FileClass~TheaterGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.private.md) 
+### #is_/same_as :: [FileClass~TheaterGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.private.md) 
 
-### [FileClass~TheaterGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.personal.md) 
+### #is_/same_as :: [FileClass~TheaterGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.personal.md) 
 
-### [FileClass~TheaterGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.secret.md)
+### #is_/same_as :: [FileClass~TheaterGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.secret.md)
 

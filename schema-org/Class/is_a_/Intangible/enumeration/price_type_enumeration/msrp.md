@@ -49,17 +49,17 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 
 ## Confidential Links & Embeds: 
 
-### [msrp](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.md) 
+### #is_/same_as :: [msrp](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.md) 
 
-### [msrp.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.public.md) 
+### #is_/same_as :: [msrp.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.public.md) 
 
-### [msrp.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.internal.md) 
+### #is_/same_as :: [msrp.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.internal.md) 
 
-### [msrp.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.protect.md) 
+### #is_/same_as :: [msrp.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.protect.md) 
 
-### [msrp.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.private.md) 
+### #is_/same_as :: [msrp.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.private.md) 
 
-### [msrp.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.personal.md) 
+### #is_/same_as :: [msrp.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.personal.md) 
 
-### [msrp.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.secret.md)
+### #is_/same_as :: [msrp.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.secret.md)
 

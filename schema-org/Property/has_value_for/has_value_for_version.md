@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_version](/_Standards/schema-org/Property/has_value_for/has_value_for_version.md) 
+### #is_/same_as :: [has_value_for_version](/_Standards/schema-org/Property/has_value_for/has_value_for_version.md) 
 
-### [has_value_for_version.public](/_public/schema-org/Property/has_value_for/has_value_for_version.public.md) 
+### #is_/same_as :: [has_value_for_version.public](/_public/schema-org/Property/has_value_for/has_value_for_version.public.md) 
 
-### [has_value_for_version.internal](/_internal/schema-org/Property/has_value_for/has_value_for_version.internal.md) 
+### #is_/same_as :: [has_value_for_version.internal](/_internal/schema-org/Property/has_value_for/has_value_for_version.internal.md) 
 
-### [has_value_for_version.protect](/_protect/schema-org/Property/has_value_for/has_value_for_version.protect.md) 
+### #is_/same_as :: [has_value_for_version.protect](/_protect/schema-org/Property/has_value_for/has_value_for_version.protect.md) 
 
-### [has_value_for_version.private](/_private/schema-org/Property/has_value_for/has_value_for_version.private.md) 
+### #is_/same_as :: [has_value_for_version.private](/_private/schema-org/Property/has_value_for/has_value_for_version.private.md) 
 
-### [has_value_for_version.personal](/_personal/schema-org/Property/has_value_for/has_value_for_version.personal.md) 
+### #is_/same_as :: [has_value_for_version.personal](/_personal/schema-org/Property/has_value_for/has_value_for_version.personal.md) 
 
-### [has_value_for_version.secret](/_secret/schema-org/Property/has_value_for/has_value_for_version.secret.md)
+### #is_/same_as :: [has_value_for_version.secret](/_secret/schema-org/Property/has_value_for/has_value_for_version.secret.md)
 

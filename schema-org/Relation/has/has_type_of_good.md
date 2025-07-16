@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_type_of_good](/_Standards/schema-org/Relation/has/has_type_of_good.md) 
+### #is_/same_as :: [has_type_of_good](/_Standards/schema-org/Relation/has/has_type_of_good.md) 
 
-### [has_type_of_good.public](/_public/schema-org/Relation/has/has_type_of_good.public.md) 
+### #is_/same_as :: [has_type_of_good.public](/_public/schema-org/Relation/has/has_type_of_good.public.md) 
 
-### [has_type_of_good.internal](/_internal/schema-org/Relation/has/has_type_of_good.internal.md) 
+### #is_/same_as :: [has_type_of_good.internal](/_internal/schema-org/Relation/has/has_type_of_good.internal.md) 
 
-### [has_type_of_good.protect](/_protect/schema-org/Relation/has/has_type_of_good.protect.md) 
+### #is_/same_as :: [has_type_of_good.protect](/_protect/schema-org/Relation/has/has_type_of_good.protect.md) 
 
-### [has_type_of_good.private](/_private/schema-org/Relation/has/has_type_of_good.private.md) 
+### #is_/same_as :: [has_type_of_good.private](/_private/schema-org/Relation/has/has_type_of_good.private.md) 
 
-### [has_type_of_good.personal](/_personal/schema-org/Relation/has/has_type_of_good.personal.md) 
+### #is_/same_as :: [has_type_of_good.personal](/_personal/schema-org/Relation/has/has_type_of_good.personal.md) 
 
-### [has_type_of_good.secret](/_secret/schema-org/Relation/has/has_type_of_good.secret.md)
+### #is_/same_as :: [has_type_of_good.secret](/_secret/schema-org/Relation/has/has_type_of_good.secret.md)
 

@@ -43,17 +43,17 @@ The publication format of the book.
 
 ## Confidential Links & Embeds: 
 
-### [book_format_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.md) 
+### #is_/same_as :: [book_format_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.md) 
 
-### [book_format_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.public.md) 
+### #is_/same_as :: [book_format_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.public.md) 
 
-### [book_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.internal.md) 
+### #is_/same_as :: [book_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.internal.md) 
 
-### [book_format_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.protect.md) 
+### #is_/same_as :: [book_format_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.protect.md) 
 
-### [book_format_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.private.md) 
+### #is_/same_as :: [book_format_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.private.md) 
 
-### [book_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.personal.md) 
+### #is_/same_as :: [book_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.personal.md) 
 
-### [book_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.secret.md)
+### #is_/same_as :: [book_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.secret.md)
 

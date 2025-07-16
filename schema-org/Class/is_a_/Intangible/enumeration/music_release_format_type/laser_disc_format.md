@@ -47,17 +47,17 @@ LaserDiscFormat.
 
 ## Confidential Links & Embeds: 
 
-### [laser_disc_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.md) 
+### #is_/same_as :: [laser_disc_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.md) 
 
-### [laser_disc_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.public.md) 
+### #is_/same_as :: [laser_disc_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.public.md) 
 
-### [laser_disc_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.internal.md) 
+### #is_/same_as :: [laser_disc_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.internal.md) 
 
-### [laser_disc_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.protect.md) 
+### #is_/same_as :: [laser_disc_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.protect.md) 
 
-### [laser_disc_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.private.md) 
+### #is_/same_as :: [laser_disc_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.private.md) 
 
-### [laser_disc_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.personal.md) 
+### #is_/same_as :: [laser_disc_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.personal.md) 
 
-### [laser_disc_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.secret.md)
+### #is_/same_as :: [laser_disc_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/laser_disc_format.secret.md)
 

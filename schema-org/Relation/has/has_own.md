@@ -48,17 +48,17 @@ Relation describes [[../../../../Knowledge/Business/Business-Entity/Ownership|Ow
 
 ## Confidential Links & Embeds: 
 
-### [has_own](/_Standards/schema-org/Relation/has/has_own.md) 
+### #is_/same_as :: [has_own](/_Standards/schema-org/Relation/has/has_own.md) 
 
-### [has_own.public](/_public/schema-org/Relation/has/has_own.public.md) 
+### #is_/same_as :: [has_own.public](/_public/schema-org/Relation/has/has_own.public.md) 
 
-### [has_own.internal](/_internal/schema-org/Relation/has/has_own.internal.md) 
+### #is_/same_as :: [has_own.internal](/_internal/schema-org/Relation/has/has_own.internal.md) 
 
-### [has_own.protect](/_protect/schema-org/Relation/has/has_own.protect.md) 
+### #is_/same_as :: [has_own.protect](/_protect/schema-org/Relation/has/has_own.protect.md) 
 
-### [has_own.private](/_private/schema-org/Relation/has/has_own.private.md) 
+### #is_/same_as :: [has_own.private](/_private/schema-org/Relation/has/has_own.private.md) 
 
-### [has_own.personal](/_personal/schema-org/Relation/has/has_own.personal.md) 
+### #is_/same_as :: [has_own.personal](/_personal/schema-org/Relation/has/has_own.personal.md) 
 
-### [has_own.secret](/_secret/schema-org/Relation/has/has_own.secret.md)
+### #is_/same_as :: [has_own.secret](/_secret/schema-org/Relation/has/has_own.secret.md)
 

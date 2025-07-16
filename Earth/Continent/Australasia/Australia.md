@@ -1090,17 +1090,17 @@ Capital :: [[Canberra]]
 
 ## Confidential Links & Embeds: 
 
-### [Australia](/_Standards/Earth/Continent/Australasia/Australia.md) 
+### #is_/same_as :: [Australia](/_Standards/Earth/Continent/Australasia/Australia.md) 
 
-### [Australia.public](/_public/Earth/Continent/Australasia/Australia.public.md) 
+### #is_/same_as :: [Australia.public](/_public/Earth/Continent/Australasia/Australia.public.md) 
 
-### [Australia.internal](/_internal/Earth/Continent/Australasia/Australia.internal.md) 
+### #is_/same_as :: [Australia.internal](/_internal/Earth/Continent/Australasia/Australia.internal.md) 
 
-### [Australia.protect](/_protect/Earth/Continent/Australasia/Australia.protect.md) 
+### #is_/same_as :: [Australia.protect](/_protect/Earth/Continent/Australasia/Australia.protect.md) 
 
-### [Australia.private](/_private/Earth/Continent/Australasia/Australia.private.md) 
+### #is_/same_as :: [Australia.private](/_private/Earth/Continent/Australasia/Australia.private.md) 
 
-### [Australia.personal](/_personal/Earth/Continent/Australasia/Australia.personal.md) 
+### #is_/same_as :: [Australia.personal](/_personal/Earth/Continent/Australasia/Australia.personal.md) 
 
-### [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md)
+### #is_/same_as :: [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md)
 

@@ -58,17 +58,17 @@ A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) (s
 
 ## Confidential Links & Embeds: 
 
-### [time](/_Standards/schema-org/Class/is_a_/data_type/time.md) 
+### #is_/same_as :: [time](/_Standards/schema-org/Class/is_a_/data_type/time.md) 
 
-### [time.public](/_public/schema-org/Class/is_a_/data_type/time.public.md) 
+### #is_/same_as :: [time.public](/_public/schema-org/Class/is_a_/data_type/time.public.md) 
 
-### [time.internal](/_internal/schema-org/Class/is_a_/data_type/time.internal.md) 
+### #is_/same_as :: [time.internal](/_internal/schema-org/Class/is_a_/data_type/time.internal.md) 
 
-### [time.protect](/_protect/schema-org/Class/is_a_/data_type/time.protect.md) 
+### #is_/same_as :: [time.protect](/_protect/schema-org/Class/is_a_/data_type/time.protect.md) 
 
-### [time.private](/_private/schema-org/Class/is_a_/data_type/time.private.md) 
+### #is_/same_as :: [time.private](/_private/schema-org/Class/is_a_/data_type/time.private.md) 
 
-### [time.personal](/_personal/schema-org/Class/is_a_/data_type/time.personal.md) 
+### #is_/same_as :: [time.personal](/_personal/schema-org/Class/is_a_/data_type/time.personal.md) 
 
-### [time.secret](/_secret/schema-org/Class/is_a_/data_type/time.secret.md)
+### #is_/same_as :: [time.secret](/_secret/schema-org/Class/is_a_/data_type/time.secret.md)
 

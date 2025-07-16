@@ -41,17 +41,17 @@ markerFolder: ./Föglö/
 
 ## Confidential Links & Embeds: 
 
-### [Föglö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.md) 
+### #is_/same_as :: [Föglö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.md) 
 
-### [Föglö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.public.md) 
+### #is_/same_as :: [Föglö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.public.md) 
 
-### [Föglö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.internal.md) 
+### #is_/same_as :: [Föglö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.internal.md) 
 
-### [Föglö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.protect.md) 
+### #is_/same_as :: [Föglö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.protect.md) 
 
-### [Föglö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.private.md) 
+### #is_/same_as :: [Föglö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.private.md) 
 
-### [Föglö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.personal.md) 
+### #is_/same_as :: [Föglö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.personal.md) 
 
-### [Föglö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.secret.md)
+### #is_/same_as :: [Föglö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.secret.md)
 

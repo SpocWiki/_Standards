@@ -35,17 +35,17 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToTip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.md) 
+### #is_/same_as :: [FileClass~HowToTip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.md) 
 
-### [FileClass~HowToTip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.public.md) 
+### #is_/same_as :: [FileClass~HowToTip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.public.md) 
 
-### [FileClass~HowToTip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.internal.md) 
+### #is_/same_as :: [FileClass~HowToTip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.internal.md) 
 
-### [FileClass~HowToTip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.protect.md) 
+### #is_/same_as :: [FileClass~HowToTip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.protect.md) 
 
-### [FileClass~HowToTip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.private.md) 
+### #is_/same_as :: [FileClass~HowToTip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.private.md) 
 
-### [FileClass~HowToTip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.personal.md) 
+### #is_/same_as :: [FileClass~HowToTip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.personal.md) 
 
-### [FileClass~HowToTip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.secret.md)
+### #is_/same_as :: [FileClass~HowToTip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.secret.md)
 

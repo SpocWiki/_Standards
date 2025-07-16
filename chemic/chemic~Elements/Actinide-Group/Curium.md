@@ -110,17 +110,17 @@ Unicode_character: 鋦
 
 ## Confidential Links & Embeds: 
 
-### [Curium](/_Standards/chemic/chemic~Elements/Actinide-Group/Curium.md) 
+### #is_/same_as :: [Curium](/_Standards/chemic/chemic~Elements/Actinide-Group/Curium.md) 
 
-### [Curium.public](/_public/chemic/chemic~Elements/Actinide-Group/Curium.public.md) 
+### #is_/same_as :: [Curium.public](/_public/chemic/chemic~Elements/Actinide-Group/Curium.public.md) 
 
-### [Curium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Curium.internal.md) 
+### #is_/same_as :: [Curium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Curium.internal.md) 
 
-### [Curium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Curium.protect.md) 
+### #is_/same_as :: [Curium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Curium.protect.md) 
 
-### [Curium.private](/_private/chemic/chemic~Elements/Actinide-Group/Curium.private.md) 
+### #is_/same_as :: [Curium.private](/_private/chemic/chemic~Elements/Actinide-Group/Curium.private.md) 
 
-### [Curium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Curium.personal.md) 
+### #is_/same_as :: [Curium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Curium.personal.md) 
 
-### [Curium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Curium.secret.md)
+### #is_/same_as :: [Curium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Curium.secret.md)
 

@@ -151,21 +151,19 @@ ATC_code: G03BA03
 > [Wikipedia](https://en.wikipedia.org/wiki/Testosterone)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Testosterone](/_Standards/chemic/organic/Biochemistry/Hormone/Testosterone.md) 
+### #is_/same_as :: [Testosterone](/_Standards/chemic/organic/Biochemistry/Hormone/Testosterone.md) 
 
-### [Testosterone.public](/_public/chemic/organic/Biochemistry/Hormone/Testosterone.public.md) 
+### #is_/same_as :: [Testosterone.public](/_public/chemic/organic/Biochemistry/Hormone/Testosterone.public.md) 
 
-### [Testosterone.internal](/_internal/chemic/organic/Biochemistry/Hormone/Testosterone.internal.md) 
+### #is_/same_as :: [Testosterone.internal](/_internal/chemic/organic/Biochemistry/Hormone/Testosterone.internal.md) 
 
-### [Testosterone.protect](/_protect/chemic/organic/Biochemistry/Hormone/Testosterone.protect.md) 
+### #is_/same_as :: [Testosterone.protect](/_protect/chemic/organic/Biochemistry/Hormone/Testosterone.protect.md) 
 
-### [Testosterone.private](/_private/chemic/organic/Biochemistry/Hormone/Testosterone.private.md) 
+### #is_/same_as :: [Testosterone.private](/_private/chemic/organic/Biochemistry/Hormone/Testosterone.private.md) 
 
-### [Testosterone.personal](/_personal/chemic/organic/Biochemistry/Hormone/Testosterone.personal.md) 
+### #is_/same_as :: [Testosterone.personal](/_personal/chemic/organic/Biochemistry/Hormone/Testosterone.personal.md) 
 
-### [Testosterone.secret](/_secret/chemic/organic/Biochemistry/Hormone/Testosterone.secret.md)
+### #is_/same_as :: [Testosterone.secret](/_secret/chemic/organic/Biochemistry/Hormone/Testosterone.secret.md)
 

@@ -497,17 +497,17 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 ## Confidential Links & Embeds: 
 
-### [Laos](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos.md) 
+### #is_/same_as :: [Laos](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos.md) 
 
-### [Laos.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos.public.md) 
+### #is_/same_as :: [Laos.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos.public.md) 
 
-### [Laos.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal.md) 
+### #is_/same_as :: [Laos.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal.md) 
 
-### [Laos.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect.md) 
+### #is_/same_as :: [Laos.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect.md) 
 
-### [Laos.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos.private.md) 
+### #is_/same_as :: [Laos.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos.private.md) 
 
-### [Laos.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal.md) 
+### #is_/same_as :: [Laos.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal.md) 
 
-### [Laos.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret.md)
+### #is_/same_as :: [Laos.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret.md)
 

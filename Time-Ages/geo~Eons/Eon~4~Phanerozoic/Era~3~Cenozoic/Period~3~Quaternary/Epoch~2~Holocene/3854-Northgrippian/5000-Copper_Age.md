@@ -92,17 +92,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [5000-Copper_Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.md) 
+### #is_/same_as :: [5000-Copper_Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.md) 
 
-### [5000-Copper_Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.public.md) 
+### #is_/same_as :: [5000-Copper_Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.public.md) 
 
-### [5000-Copper_Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.internal.md) 
+### #is_/same_as :: [5000-Copper_Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.internal.md) 
 
-### [5000-Copper_Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.protect.md) 
+### #is_/same_as :: [5000-Copper_Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.protect.md) 
 
-### [5000-Copper_Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.private.md) 
+### #is_/same_as :: [5000-Copper_Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.private.md) 
 
-### [5000-Copper_Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.personal.md) 
+### #is_/same_as :: [5000-Copper_Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.personal.md) 
 
-### [5000-Copper_Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.secret.md)
+### #is_/same_as :: [5000-Copper_Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/5000-Copper_Age.secret.md)
 

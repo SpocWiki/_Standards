@@ -45,17 +45,17 @@ A map.
 
 ## Confidential Links & Embeds: 
 
-### [map](/_Standards/schema-org/Class/is_a_/creative_work/map.md) 
+### #is_/same_as :: [map](/_Standards/schema-org/Class/is_a_/creative_work/map.md) 
 
-### [map.public](/_public/schema-org/Class/is_a_/creative_work/map.public.md) 
+### #is_/same_as :: [map.public](/_public/schema-org/Class/is_a_/creative_work/map.public.md) 
 
-### [map.internal](/_internal/schema-org/Class/is_a_/creative_work/map.internal.md) 
+### #is_/same_as :: [map.internal](/_internal/schema-org/Class/is_a_/creative_work/map.internal.md) 
 
-### [map.protect](/_protect/schema-org/Class/is_a_/creative_work/map.protect.md) 
+### #is_/same_as :: [map.protect](/_protect/schema-org/Class/is_a_/creative_work/map.protect.md) 
 
-### [map.private](/_private/schema-org/Class/is_a_/creative_work/map.private.md) 
+### #is_/same_as :: [map.private](/_private/schema-org/Class/is_a_/creative_work/map.private.md) 
 
-### [map.personal](/_personal/schema-org/Class/is_a_/creative_work/map.personal.md) 
+### #is_/same_as :: [map.personal](/_personal/schema-org/Class/is_a_/creative_work/map.personal.md) 
 
-### [map.secret](/_secret/schema-org/Class/is_a_/creative_work/map.secret.md)
+### #is_/same_as :: [map.secret](/_secret/schema-org/Class/is_a_/creative_work/map.secret.md)
 

@@ -45,17 +45,17 @@ An EducationalAudience.
 
 ## Confidential Links & Embeds: 
 
-### [educational_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/educational_audience.md) 
+### #is_/same_as :: [educational_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/educational_audience.md) 
 
-### [educational_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/educational_audience.public.md) 
+### #is_/same_as :: [educational_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/educational_audience.public.md) 
 
-### [educational_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/educational_audience.internal.md) 
+### #is_/same_as :: [educational_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/educational_audience.internal.md) 
 
-### [educational_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/educational_audience.protect.md) 
+### #is_/same_as :: [educational_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/educational_audience.protect.md) 
 
-### [educational_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/educational_audience.private.md) 
+### #is_/same_as :: [educational_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/educational_audience.private.md) 
 
-### [educational_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/educational_audience.personal.md) 
+### #is_/same_as :: [educational_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/educational_audience.personal.md) 
 
-### [educational_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/educational_audience.secret.md)
+### #is_/same_as :: [educational_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/educational_audience.secret.md)
 

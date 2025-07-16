@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_transit_time_label](/_Standards/schema-org/Property/Texts/has_transit_time_label.md) 
+### #is_/same_as :: [has_transit_time_label](/_Standards/schema-org/Property/Texts/has_transit_time_label.md) 
 
-### [has_transit_time_label.public](/_public/schema-org/Property/Texts/has_transit_time_label.public.md) 
+### #is_/same_as :: [has_transit_time_label.public](/_public/schema-org/Property/Texts/has_transit_time_label.public.md) 
 
-### [has_transit_time_label.internal](/_internal/schema-org/Property/Texts/has_transit_time_label.internal.md) 
+### #is_/same_as :: [has_transit_time_label.internal](/_internal/schema-org/Property/Texts/has_transit_time_label.internal.md) 
 
-### [has_transit_time_label.protect](/_protect/schema-org/Property/Texts/has_transit_time_label.protect.md) 
+### #is_/same_as :: [has_transit_time_label.protect](/_protect/schema-org/Property/Texts/has_transit_time_label.protect.md) 
 
-### [has_transit_time_label.private](/_private/schema-org/Property/Texts/has_transit_time_label.private.md) 
+### #is_/same_as :: [has_transit_time_label.private](/_private/schema-org/Property/Texts/has_transit_time_label.private.md) 
 
-### [has_transit_time_label.personal](/_personal/schema-org/Property/Texts/has_transit_time_label.personal.md) 
+### #is_/same_as :: [has_transit_time_label.personal](/_personal/schema-org/Property/Texts/has_transit_time_label.personal.md) 
 
-### [has_transit_time_label.secret](/_secret/schema-org/Property/Texts/has_transit_time_label.secret.md)
+### #is_/same_as :: [has_transit_time_label.secret](/_secret/schema-org/Property/Texts/has_transit_time_label.secret.md)
 

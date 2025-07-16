@@ -46,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [_CityTemplate](/_Standards/Earth/Continent/_CityTemplate.md) 
+### #is_/same_as :: [_CityTemplate](/_Standards/Earth/Continent/_CityTemplate.md) 
 
-### [_CityTemplate.public](/_public/Earth/Continent/_CityTemplate.public.md) 
+### #is_/same_as :: [_CityTemplate.public](/_public/Earth/Continent/_CityTemplate.public.md) 
 
-### [_CityTemplate.internal](/_internal/Earth/Continent/_CityTemplate.internal.md) 
+### #is_/same_as :: [_CityTemplate.internal](/_internal/Earth/Continent/_CityTemplate.internal.md) 
 
-### [_CityTemplate.protect](/_protect/Earth/Continent/_CityTemplate.protect.md) 
+### #is_/same_as :: [_CityTemplate.protect](/_protect/Earth/Continent/_CityTemplate.protect.md) 
 
-### [_CityTemplate.private](/_private/Earth/Continent/_CityTemplate.private.md) 
+### #is_/same_as :: [_CityTemplate.private](/_private/Earth/Continent/_CityTemplate.private.md) 
 
-### [_CityTemplate.personal](/_personal/Earth/Continent/_CityTemplate.personal.md) 
+### #is_/same_as :: [_CityTemplate.personal](/_personal/Earth/Continent/_CityTemplate.personal.md) 
 
-### [_CityTemplate.secret](/_secret/Earth/Continent/_CityTemplate.secret.md)
+### #is_/same_as :: [_CityTemplate.secret](/_secret/Earth/Continent/_CityTemplate.secret.md)
 

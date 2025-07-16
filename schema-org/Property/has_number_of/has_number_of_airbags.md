@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_airbags](/_Standards/schema-org/Property/has_number_of/has_number_of_airbags.md) 
+### #is_/same_as :: [has_number_of_airbags](/_Standards/schema-org/Property/has_number_of/has_number_of_airbags.md) 
 
-### [has_number_of_airbags.public](/_public/schema-org/Property/has_number_of/has_number_of_airbags.public.md) 
+### #is_/same_as :: [has_number_of_airbags.public](/_public/schema-org/Property/has_number_of/has_number_of_airbags.public.md) 
 
-### [has_number_of_airbags.internal](/_internal/schema-org/Property/has_number_of/has_number_of_airbags.internal.md) 
+### #is_/same_as :: [has_number_of_airbags.internal](/_internal/schema-org/Property/has_number_of/has_number_of_airbags.internal.md) 
 
-### [has_number_of_airbags.protect](/_protect/schema-org/Property/has_number_of/has_number_of_airbags.protect.md) 
+### #is_/same_as :: [has_number_of_airbags.protect](/_protect/schema-org/Property/has_number_of/has_number_of_airbags.protect.md) 
 
-### [has_number_of_airbags.private](/_private/schema-org/Property/has_number_of/has_number_of_airbags.private.md) 
+### #is_/same_as :: [has_number_of_airbags.private](/_private/schema-org/Property/has_number_of/has_number_of_airbags.private.md) 
 
-### [has_number_of_airbags.personal](/_personal/schema-org/Property/has_number_of/has_number_of_airbags.personal.md) 
+### #is_/same_as :: [has_number_of_airbags.personal](/_personal/schema-org/Property/has_number_of/has_number_of_airbags.personal.md) 
 
-### [has_number_of_airbags.secret](/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret.md)
+### #is_/same_as :: [has_number_of_airbags.secret](/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret.md)
 

@@ -51,17 +51,17 @@ Specifies that there is an unlimited window for product returns.
 
 ## Confidential Links & Embeds: 
 
-### [merchant_return_unlimited_window](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.md) 
+### #is_/same_as :: [merchant_return_unlimited_window](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.md) 
 
-### [merchant_return_unlimited_window.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.public.md) 
+### #is_/same_as :: [merchant_return_unlimited_window.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.public.md) 
 
-### [merchant_return_unlimited_window.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.internal.md) 
+### #is_/same_as :: [merchant_return_unlimited_window.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.internal.md) 
 
-### [merchant_return_unlimited_window.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.protect.md) 
+### #is_/same_as :: [merchant_return_unlimited_window.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.protect.md) 
 
-### [merchant_return_unlimited_window.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.private.md) 
+### #is_/same_as :: [merchant_return_unlimited_window.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.private.md) 
 
-### [merchant_return_unlimited_window.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.personal.md) 
+### #is_/same_as :: [merchant_return_unlimited_window.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.personal.md) 
 
-### [merchant_return_unlimited_window.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.secret.md)
+### #is_/same_as :: [merchant_return_unlimited_window.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.secret.md)
 

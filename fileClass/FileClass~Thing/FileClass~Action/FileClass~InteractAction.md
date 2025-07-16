@@ -35,17 +35,17 @@ The act of interacting with another person or organization.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~InteractAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.md) 
+### #is_/same_as :: [FileClass~InteractAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.md) 
 
-### [FileClass~InteractAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.public.md) 
+### #is_/same_as :: [FileClass~InteractAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.public.md) 
 
-### [FileClass~InteractAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.internal.md) 
+### #is_/same_as :: [FileClass~InteractAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.internal.md) 
 
-### [FileClass~InteractAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.protect.md) 
+### #is_/same_as :: [FileClass~InteractAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.protect.md) 
 
-### [FileClass~InteractAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.private.md) 
+### #is_/same_as :: [FileClass~InteractAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.private.md) 
 
-### [FileClass~InteractAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.personal.md) 
+### #is_/same_as :: [FileClass~InteractAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.personal.md) 
 
-### [FileClass~InteractAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.secret.md)
+### #is_/same_as :: [FileClass~InteractAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.secret.md)
 

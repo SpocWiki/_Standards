@@ -293,22 +293,19 @@ aliases:
 | ^^                                                                                                                                                                                                                 | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/75px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)](https://en.wikipedia.org/wiki/File:Gary_Ruvkun,_2024_Nobel_Prize_Laureate_in_Medicine_3_\(cropped\).jpg)                                                                                                                                        | [Gary Ruvkun](https://en.wikipedia.org/wiki/Gary_Ruvkun "Gary Ruvkun")  <br>(b. 1952)                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Medicine_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.md) 
+### #is_/same_as :: [Medicine_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.md) 
 
-### [Medicine_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.public.md) 
+### #is_/same_as :: [Medicine_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.public.md) 
 
-### [Medicine_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.internal.md) 
+### #is_/same_as :: [Medicine_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.internal.md) 
 
-### [Medicine_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.protect.md) 
+### #is_/same_as :: [Medicine_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.protect.md) 
 
-### [Medicine_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.private.md) 
+### #is_/same_as :: [Medicine_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.private.md) 
 
-### [Medicine_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.personal.md) 
+### #is_/same_as :: [Medicine_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.personal.md) 
 
-### [Medicine_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.secret.md)
+### #is_/same_as :: [Medicine_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Medicine_Nobel_Prize.secret.md)
 

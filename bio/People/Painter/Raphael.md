@@ -299,21 +299,19 @@ ethnic_group:
 > [Wikipedia](https://en.wikipedia.org/wiki/Raphael)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Raphael](/_Standards/bio/People/Painter/Raphael.md) 
+### #is_/same_as :: [Raphael](/_Standards/bio/People/Painter/Raphael.md) 
 
-### [Raphael.public](/_public/bio/People/Painter/Raphael.public.md) 
+### #is_/same_as :: [Raphael.public](/_public/bio/People/Painter/Raphael.public.md) 
 
-### [Raphael.internal](/_internal/bio/People/Painter/Raphael.internal.md) 
+### #is_/same_as :: [Raphael.internal](/_internal/bio/People/Painter/Raphael.internal.md) 
 
-### [Raphael.protect](/_protect/bio/People/Painter/Raphael.protect.md) 
+### #is_/same_as :: [Raphael.protect](/_protect/bio/People/Painter/Raphael.protect.md) 
 
-### [Raphael.private](/_private/bio/People/Painter/Raphael.private.md) 
+### #is_/same_as :: [Raphael.private](/_private/bio/People/Painter/Raphael.private.md) 
 
-### [Raphael.personal](/_personal/bio/People/Painter/Raphael.personal.md) 
+### #is_/same_as :: [Raphael.personal](/_personal/bio/People/Painter/Raphael.personal.md) 
 
-### [Raphael.secret](/_secret/bio/People/Painter/Raphael.secret.md)
+### #is_/same_as :: [Raphael.secret](/_secret/bio/People/Painter/Raphael.secret.md)
 

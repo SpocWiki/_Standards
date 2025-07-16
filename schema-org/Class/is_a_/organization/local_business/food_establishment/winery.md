@@ -45,17 +45,17 @@ A winery.
 
 ## Confidential Links & Embeds: 
 
-### [winery](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.md) 
+### #is_/same_as :: [winery](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.md) 
 
-### [winery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.public.md) 
+### #is_/same_as :: [winery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.public.md) 
 
-### [winery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.internal.md) 
+### #is_/same_as :: [winery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.internal.md) 
 
-### [winery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.protect.md) 
+### #is_/same_as :: [winery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.protect.md) 
 
-### [winery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.private.md) 
+### #is_/same_as :: [winery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.private.md) 
 
-### [winery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.personal.md) 
+### #is_/same_as :: [winery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.personal.md) 
 
-### [winery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.secret.md)
+### #is_/same_as :: [winery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/winery.secret.md)
 

@@ -54,17 +54,17 @@ Colon_Classification: "C28:76"
 
 ## Confidential Links & Embeds: 
 
-### [Vacuum](/_Standards/Science/Physics/Vacuum.md) 
+### #is_/same_as :: [Vacuum](/_Standards/Science/Physics/Vacuum.md) 
 
-### [Vacuum.public](/_public/Science/Physics/Vacuum.public.md) 
+### #is_/same_as :: [Vacuum.public](/_public/Science/Physics/Vacuum.public.md) 
 
-### [Vacuum.internal](/_internal/Science/Physics/Vacuum.internal.md) 
+### #is_/same_as :: [Vacuum.internal](/_internal/Science/Physics/Vacuum.internal.md) 
 
-### [Vacuum.protect](/_protect/Science/Physics/Vacuum.protect.md) 
+### #is_/same_as :: [Vacuum.protect](/_protect/Science/Physics/Vacuum.protect.md) 
 
-### [Vacuum.private](/_private/Science/Physics/Vacuum.private.md) 
+### #is_/same_as :: [Vacuum.private](/_private/Science/Physics/Vacuum.private.md) 
 
-### [Vacuum.personal](/_personal/Science/Physics/Vacuum.personal.md) 
+### #is_/same_as :: [Vacuum.personal](/_personal/Science/Physics/Vacuum.personal.md) 
 
-### [Vacuum.secret](/_secret/Science/Physics/Vacuum.secret.md)
+### #is_/same_as :: [Vacuum.secret](/_secret/Science/Physics/Vacuum.secret.md)
 

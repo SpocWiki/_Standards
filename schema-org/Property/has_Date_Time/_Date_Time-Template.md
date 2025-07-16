@@ -59,17 +59,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [_Date_Time-Template](/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template.md) 
+### #is_/same_as :: [_Date_Time-Template](/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template.md) 
 
-### [_Date_Time-Template.public](/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public.md) 
+### #is_/same_as :: [_Date_Time-Template.public](/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public.md) 
 
-### [_Date_Time-Template.internal](/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal.md) 
+### #is_/same_as :: [_Date_Time-Template.internal](/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal.md) 
 
-### [_Date_Time-Template.protect](/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect.md) 
+### #is_/same_as :: [_Date_Time-Template.protect](/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect.md) 
 
-### [_Date_Time-Template.private](/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private.md) 
+### #is_/same_as :: [_Date_Time-Template.private](/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private.md) 
 
-### [_Date_Time-Template.personal](/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal.md) 
+### #is_/same_as :: [_Date_Time-Template.personal](/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal.md) 
 
-### [_Date_Time-Template.secret](/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret.md)
+### #is_/same_as :: [_Date_Time-Template.secret](/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret.md)
 

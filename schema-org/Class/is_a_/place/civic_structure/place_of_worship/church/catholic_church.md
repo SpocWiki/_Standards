@@ -45,17 +45,17 @@ A Catholic church.
 
 ## Confidential Links & Embeds: 
 
-### [catholic_church](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.md) 
+### #is_/same_as :: [catholic_church](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.md) 
 
-### [catholic_church.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.public.md) 
+### #is_/same_as :: [catholic_church.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.public.md) 
 
-### [catholic_church.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.internal.md) 
+### #is_/same_as :: [catholic_church.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.internal.md) 
 
-### [catholic_church.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.protect.md) 
+### #is_/same_as :: [catholic_church.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.protect.md) 
 
-### [catholic_church.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.private.md) 
+### #is_/same_as :: [catholic_church.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.private.md) 
 
-### [catholic_church.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.personal.md) 
+### #is_/same_as :: [catholic_church.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.personal.md) 
 
-### [catholic_church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.secret.md)
+### #is_/same_as :: [catholic_church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.secret.md)
 

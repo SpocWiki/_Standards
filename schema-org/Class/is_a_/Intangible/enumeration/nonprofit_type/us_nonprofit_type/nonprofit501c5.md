@@ -49,17 +49,17 @@ Nonprofit501c5: Non-profit type referring to Labor, Agricultural and Horticultur
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c5](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.md) 
+### #is_/same_as :: [nonprofit501c5](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.md) 
 
-### [nonprofit501c5.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.public.md) 
+### #is_/same_as :: [nonprofit501c5.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.public.md) 
 
-### [nonprofit501c5.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.internal.md) 
+### #is_/same_as :: [nonprofit501c5.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.internal.md) 
 
-### [nonprofit501c5.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.protect.md) 
+### #is_/same_as :: [nonprofit501c5.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.protect.md) 
 
-### [nonprofit501c5.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.private.md) 
+### #is_/same_as :: [nonprofit501c5.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.private.md) 
 
-### [nonprofit501c5.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.personal.md) 
+### #is_/same_as :: [nonprofit501c5.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.personal.md) 
 
-### [nonprofit501c5.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.secret.md)
+### #is_/same_as :: [nonprofit501c5.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c5.secret.md)
 

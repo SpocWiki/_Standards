@@ -35,17 +35,17 @@ Event type: Visual arts event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~VisualArtsEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.md) 
+### #is_/same_as :: [FileClass~VisualArtsEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.md) 
 
-### [FileClass~VisualArtsEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.public.md) 
+### #is_/same_as :: [FileClass~VisualArtsEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.public.md) 
 
-### [FileClass~VisualArtsEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.internal.md) 
+### #is_/same_as :: [FileClass~VisualArtsEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.internal.md) 
 
-### [FileClass~VisualArtsEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.protect.md) 
+### #is_/same_as :: [FileClass~VisualArtsEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.protect.md) 
 
-### [FileClass~VisualArtsEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.private.md) 
+### #is_/same_as :: [FileClass~VisualArtsEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.private.md) 
 
-### [FileClass~VisualArtsEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.personal.md) 
+### #is_/same_as :: [FileClass~VisualArtsEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.personal.md) 
 
-### [FileClass~VisualArtsEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.secret.md)
+### #is_/same_as :: [FileClass~VisualArtsEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.secret.md)
 

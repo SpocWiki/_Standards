@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_circle](/_Standards/schema-org/Property/Texts/has_circle.md) 
+### #is_/same_as :: [has_circle](/_Standards/schema-org/Property/Texts/has_circle.md) 
 
-### [has_circle.public](/_public/schema-org/Property/Texts/has_circle.public.md) 
+### #is_/same_as :: [has_circle.public](/_public/schema-org/Property/Texts/has_circle.public.md) 
 
-### [has_circle.internal](/_internal/schema-org/Property/Texts/has_circle.internal.md) 
+### #is_/same_as :: [has_circle.internal](/_internal/schema-org/Property/Texts/has_circle.internal.md) 
 
-### [has_circle.protect](/_protect/schema-org/Property/Texts/has_circle.protect.md) 
+### #is_/same_as :: [has_circle.protect](/_protect/schema-org/Property/Texts/has_circle.protect.md) 
 
-### [has_circle.private](/_private/schema-org/Property/Texts/has_circle.private.md) 
+### #is_/same_as :: [has_circle.private](/_private/schema-org/Property/Texts/has_circle.private.md) 
 
-### [has_circle.personal](/_personal/schema-org/Property/Texts/has_circle.personal.md) 
+### #is_/same_as :: [has_circle.personal](/_personal/schema-org/Property/Texts/has_circle.personal.md) 
 
-### [has_circle.secret](/_secret/schema-org/Property/Texts/has_circle.secret.md)
+### #is_/same_as :: [has_circle.secret](/_secret/schema-org/Property/Texts/has_circle.secret.md)
 

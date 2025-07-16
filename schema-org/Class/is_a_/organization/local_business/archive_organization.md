@@ -47,17 +47,17 @@ An organization with archival holdings. An organization which keeps and preserve
 
 ## Confidential Links & Embeds: 
 
-### [archive_organization](/_Standards/schema-org/Class/is_a_/organization/local_business/archive_organization.md) 
+### #is_/same_as :: [archive_organization](/_Standards/schema-org/Class/is_a_/organization/local_business/archive_organization.md) 
 
-### [archive_organization.public](/_public/schema-org/Class/is_a_/organization/local_business/archive_organization.public.md) 
+### #is_/same_as :: [archive_organization.public](/_public/schema-org/Class/is_a_/organization/local_business/archive_organization.public.md) 
 
-### [archive_organization.internal](/_internal/schema-org/Class/is_a_/organization/local_business/archive_organization.internal.md) 
+### #is_/same_as :: [archive_organization.internal](/_internal/schema-org/Class/is_a_/organization/local_business/archive_organization.internal.md) 
 
-### [archive_organization.protect](/_protect/schema-org/Class/is_a_/organization/local_business/archive_organization.protect.md) 
+### #is_/same_as :: [archive_organization.protect](/_protect/schema-org/Class/is_a_/organization/local_business/archive_organization.protect.md) 
 
-### [archive_organization.private](/_private/schema-org/Class/is_a_/organization/local_business/archive_organization.private.md) 
+### #is_/same_as :: [archive_organization.private](/_private/schema-org/Class/is_a_/organization/local_business/archive_organization.private.md) 
 
-### [archive_organization.personal](/_personal/schema-org/Class/is_a_/organization/local_business/archive_organization.personal.md) 
+### #is_/same_as :: [archive_organization.personal](/_personal/schema-org/Class/is_a_/organization/local_business/archive_organization.personal.md) 
 
-### [archive_organization.secret](/_secret/schema-org/Class/is_a_/organization/local_business/archive_organization.secret.md)
+### #is_/same_as :: [archive_organization.secret](/_secret/schema-org/Class/is_a_/organization/local_business/archive_organization.secret.md)
 

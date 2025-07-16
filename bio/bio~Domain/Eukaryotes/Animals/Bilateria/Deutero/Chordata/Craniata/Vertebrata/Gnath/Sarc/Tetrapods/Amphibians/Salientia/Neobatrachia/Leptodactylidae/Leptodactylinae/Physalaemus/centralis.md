@@ -67,17 +67,17 @@ Containing group: [Physalaemus](../Physalaemus.md)
 
 ## Confidential Links & Embeds: 
 
-### [centralis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.md) 
+### #is_/same_as :: [centralis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.md) 
 
-### [centralis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.public.md) 
+### #is_/same_as :: [centralis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.public.md) 
 
-### [centralis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.internal.md) 
+### #is_/same_as :: [centralis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.internal.md) 
 
-### [centralis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.protect.md) 
+### #is_/same_as :: [centralis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.protect.md) 
 
-### [centralis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.private.md) 
+### #is_/same_as :: [centralis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.private.md) 
 
-### [centralis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.personal.md) 
+### #is_/same_as :: [centralis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.personal.md) 
 
-### [centralis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.secret.md)
+### #is_/same_as :: [centralis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Leptodactylidae/Leptodactylinae/Physalaemus/centralis.secret.md)
 

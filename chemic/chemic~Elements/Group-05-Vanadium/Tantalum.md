@@ -136,17 +136,17 @@ Unicode_character: 鉭
 
 ## Confidential Links & Embeds: 
 
-### [Tantalum](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.md) 
+### #is_/same_as :: [Tantalum](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.md) 
 
-### [Tantalum.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.public.md) 
+### #is_/same_as :: [Tantalum.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.public.md) 
 
-### [Tantalum.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.internal.md) 
+### #is_/same_as :: [Tantalum.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.internal.md) 
 
-### [Tantalum.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.protect.md) 
+### #is_/same_as :: [Tantalum.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.protect.md) 
 
-### [Tantalum.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.private.md) 
+### #is_/same_as :: [Tantalum.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.private.md) 
 
-### [Tantalum.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.personal.md) 
+### #is_/same_as :: [Tantalum.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.personal.md) 
 
-### [Tantalum.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.secret.md)
+### #is_/same_as :: [Tantalum.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.secret.md)
 

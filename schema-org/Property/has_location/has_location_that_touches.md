@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_that_touches](/_Standards/schema-org/Property/has_location/has_location_that_touches.md) 
+### #is_/same_as :: [has_location_that_touches](/_Standards/schema-org/Property/has_location/has_location_that_touches.md) 
 
-### [has_location_that_touches.public](/_public/schema-org/Property/has_location/has_location_that_touches.public.md) 
+### #is_/same_as :: [has_location_that_touches.public](/_public/schema-org/Property/has_location/has_location_that_touches.public.md) 
 
-### [has_location_that_touches.internal](/_internal/schema-org/Property/has_location/has_location_that_touches.internal.md) 
+### #is_/same_as :: [has_location_that_touches.internal](/_internal/schema-org/Property/has_location/has_location_that_touches.internal.md) 
 
-### [has_location_that_touches.protect](/_protect/schema-org/Property/has_location/has_location_that_touches.protect.md) 
+### #is_/same_as :: [has_location_that_touches.protect](/_protect/schema-org/Property/has_location/has_location_that_touches.protect.md) 
 
-### [has_location_that_touches.private](/_private/schema-org/Property/has_location/has_location_that_touches.private.md) 
+### #is_/same_as :: [has_location_that_touches.private](/_private/schema-org/Property/has_location/has_location_that_touches.private.md) 
 
-### [has_location_that_touches.personal](/_personal/schema-org/Property/has_location/has_location_that_touches.personal.md) 
+### #is_/same_as :: [has_location_that_touches.personal](/_personal/schema-org/Property/has_location/has_location_that_touches.personal.md) 
 
-### [has_location_that_touches.secret](/_secret/schema-org/Property/has_location/has_location_that_touches.secret.md)
+### #is_/same_as :: [has_location_that_touches.secret](/_secret/schema-org/Property/has_location/has_location_that_touches.secret.md)
 

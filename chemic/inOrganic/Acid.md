@@ -41,17 +41,17 @@ MeSH_tree_code: D01.029
 
 ## Confidential Links & Embeds: 
 
-### [Acid](/_Standards/chemic/inOrganic/Acid.md) 
+### #is_/same_as :: [Acid](/_Standards/chemic/inOrganic/Acid.md) 
 
-### [Acid.public](/_public/chemic/inOrganic/Acid.public.md) 
+### #is_/same_as :: [Acid.public](/_public/chemic/inOrganic/Acid.public.md) 
 
-### [Acid.internal](/_internal/chemic/inOrganic/Acid.internal.md) 
+### #is_/same_as :: [Acid.internal](/_internal/chemic/inOrganic/Acid.internal.md) 
 
-### [Acid.protect](/_protect/chemic/inOrganic/Acid.protect.md) 
+### #is_/same_as :: [Acid.protect](/_protect/chemic/inOrganic/Acid.protect.md) 
 
-### [Acid.private](/_private/chemic/inOrganic/Acid.private.md) 
+### #is_/same_as :: [Acid.private](/_private/chemic/inOrganic/Acid.private.md) 
 
-### [Acid.personal](/_personal/chemic/inOrganic/Acid.personal.md) 
+### #is_/same_as :: [Acid.personal](/_personal/chemic/inOrganic/Acid.personal.md) 
 
-### [Acid.secret](/_secret/chemic/inOrganic/Acid.secret.md)
+### #is_/same_as :: [Acid.secret](/_secret/chemic/inOrganic/Acid.secret.md)
 

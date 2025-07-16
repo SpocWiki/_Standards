@@ -56,17 +56,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### [delivery_method](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.md) 
+### #is_/same_as :: [delivery_method](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.md) 
 
-### [delivery_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.public.md) 
+### #is_/same_as :: [delivery_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.public.md) 
 
-### [delivery_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.internal.md) 
+### #is_/same_as :: [delivery_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.internal.md) 
 
-### [delivery_method.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.protect.md) 
+### #is_/same_as :: [delivery_method.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.protect.md) 
 
-### [delivery_method.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.private.md) 
+### #is_/same_as :: [delivery_method.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.private.md) 
 
-### [delivery_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.personal.md) 
+### #is_/same_as :: [delivery_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.personal.md) 
 
-### [delivery_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.secret.md)
+### #is_/same_as :: [delivery_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.secret.md)
 

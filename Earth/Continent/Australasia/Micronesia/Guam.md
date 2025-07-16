@@ -318,17 +318,17 @@ Capital :: [[Hagåtña]]
 
 ## Confidential Links & Embeds: 
 
-### [Guam](/_Standards/Earth/Continent/Australasia/Micronesia/Guam.md) 
+### #is_/same_as :: [Guam](/_Standards/Earth/Continent/Australasia/Micronesia/Guam.md) 
 
-### [Guam.public](/_public/Earth/Continent/Australasia/Micronesia/Guam.public.md) 
+### #is_/same_as :: [Guam.public](/_public/Earth/Continent/Australasia/Micronesia/Guam.public.md) 
 
-### [Guam.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal.md) 
+### #is_/same_as :: [Guam.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal.md) 
 
-### [Guam.protect](/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect.md) 
+### #is_/same_as :: [Guam.protect](/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect.md) 
 
-### [Guam.private](/_private/Earth/Continent/Australasia/Micronesia/Guam.private.md) 
+### #is_/same_as :: [Guam.private](/_private/Earth/Continent/Australasia/Micronesia/Guam.private.md) 
 
-### [Guam.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal.md) 
+### #is_/same_as :: [Guam.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal.md) 
 
-### [Guam.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret.md)
+### #is_/same_as :: [Guam.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret.md)
 

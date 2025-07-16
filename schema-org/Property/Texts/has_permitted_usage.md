@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_permitted_usage](/_Standards/schema-org/Property/Texts/has_permitted_usage.md) 
+### #is_/same_as :: [has_permitted_usage](/_Standards/schema-org/Property/Texts/has_permitted_usage.md) 
 
-### [has_permitted_usage.public](/_public/schema-org/Property/Texts/has_permitted_usage.public.md) 
+### #is_/same_as :: [has_permitted_usage.public](/_public/schema-org/Property/Texts/has_permitted_usage.public.md) 
 
-### [has_permitted_usage.internal](/_internal/schema-org/Property/Texts/has_permitted_usage.internal.md) 
+### #is_/same_as :: [has_permitted_usage.internal](/_internal/schema-org/Property/Texts/has_permitted_usage.internal.md) 
 
-### [has_permitted_usage.protect](/_protect/schema-org/Property/Texts/has_permitted_usage.protect.md) 
+### #is_/same_as :: [has_permitted_usage.protect](/_protect/schema-org/Property/Texts/has_permitted_usage.protect.md) 
 
-### [has_permitted_usage.private](/_private/schema-org/Property/Texts/has_permitted_usage.private.md) 
+### #is_/same_as :: [has_permitted_usage.private](/_private/schema-org/Property/Texts/has_permitted_usage.private.md) 
 
-### [has_permitted_usage.personal](/_personal/schema-org/Property/Texts/has_permitted_usage.personal.md) 
+### #is_/same_as :: [has_permitted_usage.personal](/_personal/schema-org/Property/Texts/has_permitted_usage.personal.md) 
 
-### [has_permitted_usage.secret](/_secret/schema-org/Property/Texts/has_permitted_usage.secret.md)
+### #is_/same_as :: [has_permitted_usage.secret](/_secret/schema-org/Property/Texts/has_permitted_usage.secret.md)
 

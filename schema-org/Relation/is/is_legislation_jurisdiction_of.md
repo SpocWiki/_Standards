@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_legislation_jurisdiction_of](/_Standards/schema-org/Relation/is/is_legislation_jurisdiction_of.md) 
+### #is_/same_as :: [is_legislation_jurisdiction_of](/_Standards/schema-org/Relation/is/is_legislation_jurisdiction_of.md) 
 
-### [is_legislation_jurisdiction_of.public](/_public/schema-org/Relation/is/is_legislation_jurisdiction_of.public.md) 
+### #is_/same_as :: [is_legislation_jurisdiction_of.public](/_public/schema-org/Relation/is/is_legislation_jurisdiction_of.public.md) 
 
-### [is_legislation_jurisdiction_of.internal](/_internal/schema-org/Relation/is/is_legislation_jurisdiction_of.internal.md) 
+### #is_/same_as :: [is_legislation_jurisdiction_of.internal](/_internal/schema-org/Relation/is/is_legislation_jurisdiction_of.internal.md) 
 
-### [is_legislation_jurisdiction_of.protect](/_protect/schema-org/Relation/is/is_legislation_jurisdiction_of.protect.md) 
+### #is_/same_as :: [is_legislation_jurisdiction_of.protect](/_protect/schema-org/Relation/is/is_legislation_jurisdiction_of.protect.md) 
 
-### [is_legislation_jurisdiction_of.private](/_private/schema-org/Relation/is/is_legislation_jurisdiction_of.private.md) 
+### #is_/same_as :: [is_legislation_jurisdiction_of.private](/_private/schema-org/Relation/is/is_legislation_jurisdiction_of.private.md) 
 
-### [is_legislation_jurisdiction_of.personal](/_personal/schema-org/Relation/is/is_legislation_jurisdiction_of.personal.md) 
+### #is_/same_as :: [is_legislation_jurisdiction_of.personal](/_personal/schema-org/Relation/is/is_legislation_jurisdiction_of.personal.md) 
 
-### [is_legislation_jurisdiction_of.secret](/_secret/schema-org/Relation/is/is_legislation_jurisdiction_of.secret.md)
+### #is_/same_as :: [is_legislation_jurisdiction_of.secret](/_secret/schema-org/Relation/is/is_legislation_jurisdiction_of.secret.md)
 

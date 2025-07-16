@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_seating_type](/_Standards/schema-org/Relation/has/has_seating_type.md) 
+### #is_/same_as :: [has_seating_type](/_Standards/schema-org/Relation/has/has_seating_type.md) 
 
-### [has_seating_type.public](/_public/schema-org/Relation/has/has_seating_type.public.md) 
+### #is_/same_as :: [has_seating_type.public](/_public/schema-org/Relation/has/has_seating_type.public.md) 
 
-### [has_seating_type.internal](/_internal/schema-org/Relation/has/has_seating_type.internal.md) 
+### #is_/same_as :: [has_seating_type.internal](/_internal/schema-org/Relation/has/has_seating_type.internal.md) 
 
-### [has_seating_type.protect](/_protect/schema-org/Relation/has/has_seating_type.protect.md) 
+### #is_/same_as :: [has_seating_type.protect](/_protect/schema-org/Relation/has/has_seating_type.protect.md) 
 
-### [has_seating_type.private](/_private/schema-org/Relation/has/has_seating_type.private.md) 
+### #is_/same_as :: [has_seating_type.private](/_private/schema-org/Relation/has/has_seating_type.private.md) 
 
-### [has_seating_type.personal](/_personal/schema-org/Relation/has/has_seating_type.personal.md) 
+### #is_/same_as :: [has_seating_type.personal](/_personal/schema-org/Relation/has/has_seating_type.personal.md) 
 
-### [has_seating_type.secret](/_secret/schema-org/Relation/has/has_seating_type.secret.md)
+### #is_/same_as :: [has_seating_type.secret](/_secret/schema-org/Relation/has/has_seating_type.secret.md)
 

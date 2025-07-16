@@ -35,17 +35,17 @@ An [[Article]] whose content is primarily [[satirical]](https://en.wikipedia.org
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SatiricalArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.md) 
+### #is_/same_as :: [FileClass~SatiricalArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.md) 
 
-### [FileClass~SatiricalArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.public.md) 
+### #is_/same_as :: [FileClass~SatiricalArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.public.md) 
 
-### [FileClass~SatiricalArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.internal.md) 
+### #is_/same_as :: [FileClass~SatiricalArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.internal.md) 
 
-### [FileClass~SatiricalArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.protect.md) 
+### #is_/same_as :: [FileClass~SatiricalArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.protect.md) 
 
-### [FileClass~SatiricalArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.private.md) 
+### #is_/same_as :: [FileClass~SatiricalArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.private.md) 
 
-### [FileClass~SatiricalArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.personal.md) 
+### #is_/same_as :: [FileClass~SatiricalArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.personal.md) 
 
-### [FileClass~SatiricalArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.secret.md)
+### #is_/same_as :: [FileClass~SatiricalArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.secret.md)
 

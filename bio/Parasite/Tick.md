@@ -21,17 +21,17 @@ Transfers:
 
 ## Confidential Links & Embeds: 
 
-### [Tick](/_Standards/bio/Parasite/Tick.md) 
+### #is_/same_as :: [Tick](/_Standards/bio/Parasite/Tick.md) 
 
-### [Tick.public](/_public/bio/Parasite/Tick.public.md) 
+### #is_/same_as :: [Tick.public](/_public/bio/Parasite/Tick.public.md) 
 
-### [Tick.internal](/_internal/bio/Parasite/Tick.internal.md) 
+### #is_/same_as :: [Tick.internal](/_internal/bio/Parasite/Tick.internal.md) 
 
-### [Tick.protect](/_protect/bio/Parasite/Tick.protect.md) 
+### #is_/same_as :: [Tick.protect](/_protect/bio/Parasite/Tick.protect.md) 
 
-### [Tick.private](/_private/bio/Parasite/Tick.private.md) 
+### #is_/same_as :: [Tick.private](/_private/bio/Parasite/Tick.private.md) 
 
-### [Tick.personal](/_personal/bio/Parasite/Tick.personal.md) 
+### #is_/same_as :: [Tick.personal](/_personal/bio/Parasite/Tick.personal.md) 
 
-### [Tick.secret](/_secret/bio/Parasite/Tick.secret.md)
+### #is_/same_as :: [Tick.secret](/_secret/bio/Parasite/Tick.secret.md)
 

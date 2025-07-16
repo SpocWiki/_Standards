@@ -96,17 +96,17 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### [Athenaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.md) 
+### #is_/same_as :: [Athenaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.md) 
 
-### [Athenaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.public.md) 
+### #is_/same_as :: [Athenaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.public.md) 
 
-### [Athenaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.internal.md) 
+### #is_/same_as :: [Athenaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.internal.md) 
 
-### [Athenaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.protect.md) 
+### #is_/same_as :: [Athenaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.protect.md) 
 
-### [Athenaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.private.md) 
+### #is_/same_as :: [Athenaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.private.md) 
 
-### [Athenaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.personal.md) 
+### #is_/same_as :: [Athenaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.personal.md) 
 
-### [Athenaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.secret.md)
+### #is_/same_as :: [Athenaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.secret.md)
 

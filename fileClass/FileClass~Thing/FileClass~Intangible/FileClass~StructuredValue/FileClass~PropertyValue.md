@@ -129,17 +129,17 @@ ValueReference:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PropertyValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.md) 
+### #is_/same_as :: [FileClass~PropertyValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.md) 
 
-### [FileClass~PropertyValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.public.md) 
+### #is_/same_as :: [FileClass~PropertyValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.public.md) 
 
-### [FileClass~PropertyValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.internal.md) 
+### #is_/same_as :: [FileClass~PropertyValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.internal.md) 
 
-### [FileClass~PropertyValue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.protect.md) 
+### #is_/same_as :: [FileClass~PropertyValue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.protect.md) 
 
-### [FileClass~PropertyValue.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.private.md) 
+### #is_/same_as :: [FileClass~PropertyValue.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.private.md) 
 
-### [FileClass~PropertyValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.personal.md) 
+### #is_/same_as :: [FileClass~PropertyValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.personal.md) 
 
-### [FileClass~PropertyValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.secret.md)
+### #is_/same_as :: [FileClass~PropertyValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.secret.md)
 

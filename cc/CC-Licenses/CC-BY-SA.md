@@ -41,17 +41,17 @@ Several perceived obstacles of this License proved to be beneficial in data sani
 
 ## Confidential Links & Embeds: 
 
-### [CC-BY-SA](/_Standards/cc/CC-Licenses/CC-BY-SA.md) 
+### #is_/same_as :: [CC-BY-SA](/_Standards/cc/CC-Licenses/CC-BY-SA.md) 
 
-### [CC-BY-SA.public](/_public/cc/CC-Licenses/CC-BY-SA.public.md) 
+### #is_/same_as :: [CC-BY-SA.public](/_public/cc/CC-Licenses/CC-BY-SA.public.md) 
 
-### [CC-BY-SA.internal](/_internal/cc/CC-Licenses/CC-BY-SA.internal.md) 
+### #is_/same_as :: [CC-BY-SA.internal](/_internal/cc/CC-Licenses/CC-BY-SA.internal.md) 
 
-### [CC-BY-SA.protect](/_protect/cc/CC-Licenses/CC-BY-SA.protect.md) 
+### #is_/same_as :: [CC-BY-SA.protect](/_protect/cc/CC-Licenses/CC-BY-SA.protect.md) 
 
-### [CC-BY-SA.private](/_private/cc/CC-Licenses/CC-BY-SA.private.md) 
+### #is_/same_as :: [CC-BY-SA.private](/_private/cc/CC-Licenses/CC-BY-SA.private.md) 
 
-### [CC-BY-SA.personal](/_personal/cc/CC-Licenses/CC-BY-SA.personal.md) 
+### #is_/same_as :: [CC-BY-SA.personal](/_personal/cc/CC-Licenses/CC-BY-SA.personal.md) 
 
-### [CC-BY-SA.secret](/_secret/cc/CC-Licenses/CC-BY-SA.secret.md)
+### #is_/same_as :: [CC-BY-SA.secret](/_secret/cc/CC-Licenses/CC-BY-SA.secret.md)
 

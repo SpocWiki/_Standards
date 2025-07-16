@@ -61,17 +61,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~2~Burdigalian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.md) 
+### #is_/same_as :: [Age~2~Burdigalian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.md) 
 
-### [Age~2~Burdigalian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.public.md) 
+### #is_/same_as :: [Age~2~Burdigalian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.public.md) 
 
-### [Age~2~Burdigalian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.internal.md) 
+### #is_/same_as :: [Age~2~Burdigalian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.internal.md) 
 
-### [Age~2~Burdigalian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.protect.md) 
+### #is_/same_as :: [Age~2~Burdigalian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.protect.md) 
 
-### [Age~2~Burdigalian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.private.md) 
+### #is_/same_as :: [Age~2~Burdigalian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.private.md) 
 
-### [Age~2~Burdigalian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.personal.md) 
+### #is_/same_as :: [Age~2~Burdigalian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.personal.md) 
 
-### [Age~2~Burdigalian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.secret.md)
+### #is_/same_as :: [Age~2~Burdigalian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.secret.md)
 

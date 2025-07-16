@@ -45,17 +45,17 @@ An advertising section of the page.
 
 ## Confidential Links & Embeds: 
 
-### [wp_ad_block](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.md) 
+### #is_/same_as :: [wp_ad_block](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.md) 
 
-### [wp_ad_block.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.public.md) 
+### #is_/same_as :: [wp_ad_block.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.public.md) 
 
-### [wp_ad_block.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.internal.md) 
+### #is_/same_as :: [wp_ad_block.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.internal.md) 
 
-### [wp_ad_block.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.protect.md) 
+### #is_/same_as :: [wp_ad_block.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.protect.md) 
 
-### [wp_ad_block.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.private.md) 
+### #is_/same_as :: [wp_ad_block.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.private.md) 
 
-### [wp_ad_block.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.personal.md) 
+### #is_/same_as :: [wp_ad_block.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.personal.md) 
 
-### [wp_ad_block.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.secret.md)
+### #is_/same_as :: [wp_ad_block.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.secret.md)
 

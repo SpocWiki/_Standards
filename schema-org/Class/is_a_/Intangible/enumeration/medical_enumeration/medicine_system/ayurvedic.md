@@ -47,17 +47,17 @@ A system of medicine that originated in India over thousands of years and that f
 
 ## Confidential Links & Embeds: 
 
-### [ayurvedic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md) 
+### #is_/same_as :: [ayurvedic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md) 
 
-### [ayurvedic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.public.md) 
+### #is_/same_as :: [ayurvedic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.public.md) 
 
-### [ayurvedic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.internal.md) 
+### #is_/same_as :: [ayurvedic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.internal.md) 
 
-### [ayurvedic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.protect.md) 
+### #is_/same_as :: [ayurvedic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.protect.md) 
 
-### [ayurvedic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.private.md) 
+### #is_/same_as :: [ayurvedic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.private.md) 
 
-### [ayurvedic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.personal.md) 
+### #is_/same_as :: [ayurvedic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.personal.md) 
 
-### [ayurvedic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.secret.md)
+### #is_/same_as :: [ayurvedic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.secret.md)
 

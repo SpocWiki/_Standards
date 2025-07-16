@@ -43,17 +43,17 @@ Design models for medical trials. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### [medical_trial_design](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.md) 
+### #is_/same_as :: [medical_trial_design](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.md) 
 
-### [medical_trial_design.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.public.md) 
+### #is_/same_as :: [medical_trial_design.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.public.md) 
 
-### [medical_trial_design.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.internal.md) 
+### #is_/same_as :: [medical_trial_design.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.internal.md) 
 
-### [medical_trial_design.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.protect.md) 
+### #is_/same_as :: [medical_trial_design.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.protect.md) 
 
-### [medical_trial_design.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.private.md) 
+### #is_/same_as :: [medical_trial_design.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.private.md) 
 
-### [medical_trial_design.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.personal.md) 
+### #is_/same_as :: [medical_trial_design.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.personal.md) 
 
-### [medical_trial_design.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.secret.md)
+### #is_/same_as :: [medical_trial_design.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.secret.md)
 

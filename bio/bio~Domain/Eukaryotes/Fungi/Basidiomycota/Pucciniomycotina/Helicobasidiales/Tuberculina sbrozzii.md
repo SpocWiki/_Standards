@@ -68,17 +68,17 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### [Tuberculina sbrozzii](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.md) 
+### #is_/same_as :: [Tuberculina sbrozzii](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.md) 
 
-### [Tuberculina sbrozzii.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.public.md) 
+### #is_/same_as :: [Tuberculina sbrozzii.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.public.md) 
 
-### [Tuberculina sbrozzii.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.internal.md) 
+### #is_/same_as :: [Tuberculina sbrozzii.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.internal.md) 
 
-### [Tuberculina sbrozzii.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.protect.md) 
+### #is_/same_as :: [Tuberculina sbrozzii.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.protect.md) 
 
-### [Tuberculina sbrozzii.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.private.md) 
+### #is_/same_as :: [Tuberculina sbrozzii.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.private.md) 
 
-### [Tuberculina sbrozzii.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.personal.md) 
+### #is_/same_as :: [Tuberculina sbrozzii.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.personal.md) 
 
-### [Tuberculina sbrozzii.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.secret.md)
+### #is_/same_as :: [Tuberculina sbrozzii.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina sbrozzii.secret.md)
 

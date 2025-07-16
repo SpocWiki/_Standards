@@ -65,21 +65,19 @@ PhilPapers_topic:
 > [Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Epistemology](/_Standards/bio/People/Philosopher/Epistemology.md) 
+### #is_/same_as :: [Epistemology](/_Standards/bio/People/Philosopher/Epistemology.md) 
 
-### [Epistemology.public](/_public/bio/People/Philosopher/Epistemology.public.md) 
+### #is_/same_as :: [Epistemology.public](/_public/bio/People/Philosopher/Epistemology.public.md) 
 
-### [Epistemology.internal](/_internal/bio/People/Philosopher/Epistemology.internal.md) 
+### #is_/same_as :: [Epistemology.internal](/_internal/bio/People/Philosopher/Epistemology.internal.md) 
 
-### [Epistemology.protect](/_protect/bio/People/Philosopher/Epistemology.protect.md) 
+### #is_/same_as :: [Epistemology.protect](/_protect/bio/People/Philosopher/Epistemology.protect.md) 
 
-### [Epistemology.private](/_private/bio/People/Philosopher/Epistemology.private.md) 
+### #is_/same_as :: [Epistemology.private](/_private/bio/People/Philosopher/Epistemology.private.md) 
 
-### [Epistemology.personal](/_personal/bio/People/Philosopher/Epistemology.personal.md) 
+### #is_/same_as :: [Epistemology.personal](/_personal/bio/People/Philosopher/Epistemology.personal.md) 
 
-### [Epistemology.secret](/_secret/bio/People/Philosopher/Epistemology.secret.md)
+### #is_/same_as :: [Epistemology.secret](/_secret/bio/People/Philosopher/Epistemology.secret.md)
 

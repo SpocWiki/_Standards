@@ -45,17 +45,17 @@ Usage guidelines:
 
 ## Confidential Links & Embeds: 
 
-### [number](/_Standards/schema-org/Class/is_a_/data_type/number.md) 
+### #is_/same_as :: [number](/_Standards/schema-org/Class/is_a_/data_type/number.md) 
 
-### [number.public](/_public/schema-org/Class/is_a_/data_type/number.public.md) 
+### #is_/same_as :: [number.public](/_public/schema-org/Class/is_a_/data_type/number.public.md) 
 
-### [number.internal](/_internal/schema-org/Class/is_a_/data_type/number.internal.md) 
+### #is_/same_as :: [number.internal](/_internal/schema-org/Class/is_a_/data_type/number.internal.md) 
 
-### [number.protect](/_protect/schema-org/Class/is_a_/data_type/number.protect.md) 
+### #is_/same_as :: [number.protect](/_protect/schema-org/Class/is_a_/data_type/number.protect.md) 
 
-### [number.private](/_private/schema-org/Class/is_a_/data_type/number.private.md) 
+### #is_/same_as :: [number.private](/_private/schema-org/Class/is_a_/data_type/number.private.md) 
 
-### [number.personal](/_personal/schema-org/Class/is_a_/data_type/number.personal.md) 
+### #is_/same_as :: [number.personal](/_personal/schema-org/Class/is_a_/data_type/number.personal.md) 
 
-### [number.secret](/_secret/schema-org/Class/is_a_/data_type/number.secret.md)
+### #is_/same_as :: [number.secret](/_secret/schema-org/Class/is_a_/data_type/number.secret.md)
 

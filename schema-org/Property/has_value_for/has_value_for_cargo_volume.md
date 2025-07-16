@@ -55,17 +55,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_cargo_volume](/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume.md) 
+### #is_/same_as :: [has_value_for_cargo_volume](/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume.md) 
 
-### [has_value_for_cargo_volume.public](/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.public.md) 
+### #is_/same_as :: [has_value_for_cargo_volume.public](/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.public.md) 
 
-### [has_value_for_cargo_volume.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal.md) 
+### #is_/same_as :: [has_value_for_cargo_volume.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal.md) 
 
-### [has_value_for_cargo_volume.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cargo_volume.protect.md) 
+### #is_/same_as :: [has_value_for_cargo_volume.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cargo_volume.protect.md) 
 
-### [has_value_for_cargo_volume.private](/_private/schema-org/Property/has_value_for/has_value_for_cargo_volume.private.md) 
+### #is_/same_as :: [has_value_for_cargo_volume.private](/_private/schema-org/Property/has_value_for/has_value_for_cargo_volume.private.md) 
 
-### [has_value_for_cargo_volume.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal.md) 
+### #is_/same_as :: [has_value_for_cargo_volume.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal.md) 
 
-### [has_value_for_cargo_volume.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret.md)
+### #is_/same_as :: [has_value_for_cargo_volume.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret.md)
 

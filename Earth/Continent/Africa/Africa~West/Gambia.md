@@ -408,17 +408,17 @@ Capital :: [[Banjul]]
 
 ## Confidential Links & Embeds: 
 
-### [Gambia](/_Standards/Earth/Continent/Africa/Africa~West/Gambia.md) 
+### #is_/same_as :: [Gambia](/_Standards/Earth/Continent/Africa/Africa~West/Gambia.md) 
 
-### [Gambia.public](/_public/Earth/Continent/Africa/Africa~West/Gambia.public.md) 
+### #is_/same_as :: [Gambia.public](/_public/Earth/Continent/Africa/Africa~West/Gambia.public.md) 
 
-### [Gambia.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal.md) 
+### #is_/same_as :: [Gambia.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal.md) 
 
-### [Gambia.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect.md) 
+### #is_/same_as :: [Gambia.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect.md) 
 
-### [Gambia.private](/_private/Earth/Continent/Africa/Africa~West/Gambia.private.md) 
+### #is_/same_as :: [Gambia.private](/_private/Earth/Continent/Africa/Africa~West/Gambia.private.md) 
 
-### [Gambia.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal.md) 
+### #is_/same_as :: [Gambia.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal.md) 
 
-### [Gambia.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret.md)
+### #is_/same_as :: [Gambia.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret.md)
 

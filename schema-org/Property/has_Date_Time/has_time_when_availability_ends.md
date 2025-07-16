@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_when_availability_ends](/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_ends.md) 
+### #is_/same_as :: [has_time_when_availability_ends](/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_ends.md) 
 
-### [has_time_when_availability_ends.public](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_ends.public.md) 
+### #is_/same_as :: [has_time_when_availability_ends.public](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_ends.public.md) 
 
-### [has_time_when_availability_ends.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.internal.md) 
+### #is_/same_as :: [has_time_when_availability_ends.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.internal.md) 
 
-### [has_time_when_availability_ends.protect](/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_ends.protect.md) 
+### #is_/same_as :: [has_time_when_availability_ends.protect](/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_ends.protect.md) 
 
-### [has_time_when_availability_ends.private](/_private/schema-org/Property/has_Date_Time/has_time_when_availability_ends.private.md) 
+### #is_/same_as :: [has_time_when_availability_ends.private](/_private/schema-org/Property/has_Date_Time/has_time_when_availability_ends.private.md) 
 
-### [has_time_when_availability_ends.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.personal.md) 
+### #is_/same_as :: [has_time_when_availability_ends.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.personal.md) 
 
-### [has_time_when_availability_ends.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_ends.secret.md)
+### #is_/same_as :: [has_time_when_availability_ends.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_ends.secret.md)
 

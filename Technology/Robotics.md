@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Robotics](/_Standards/Technology/Robotics.md) 
+### #is_/same_as :: [Robotics](/_Standards/Technology/Robotics.md) 
 
-### [Robotics.public](/_public/Technology/Robotics.public.md) 
+### #is_/same_as :: [Robotics.public](/_public/Technology/Robotics.public.md) 
 
-### [Robotics.internal](/_internal/Technology/Robotics.internal.md) 
+### #is_/same_as :: [Robotics.internal](/_internal/Technology/Robotics.internal.md) 
 
-### [Robotics.protect](/_protect/Technology/Robotics.protect.md) 
+### #is_/same_as :: [Robotics.protect](/_protect/Technology/Robotics.protect.md) 
 
-### [Robotics.private](/_private/Technology/Robotics.private.md) 
+### #is_/same_as :: [Robotics.private](/_private/Technology/Robotics.private.md) 
 
-### [Robotics.personal](/_personal/Technology/Robotics.personal.md) 
+### #is_/same_as :: [Robotics.personal](/_personal/Technology/Robotics.personal.md) 
 
-### [Robotics.secret](/_secret/Technology/Robotics.secret.md)
+### #is_/same_as :: [Robotics.secret](/_secret/Technology/Robotics.secret.md)
 

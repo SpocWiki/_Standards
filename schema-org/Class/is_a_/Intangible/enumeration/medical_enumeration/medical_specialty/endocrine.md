@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### [endocrine](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.md) 
+### #is_/same_as :: [endocrine](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.md) 
 
-### [endocrine.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.public.md) 
+### #is_/same_as :: [endocrine.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.public.md) 
 
-### [endocrine.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.internal.md) 
+### #is_/same_as :: [endocrine.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.internal.md) 
 
-### [endocrine.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.protect.md) 
+### #is_/same_as :: [endocrine.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.protect.md) 
 
-### [endocrine.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.private.md) 
+### #is_/same_as :: [endocrine.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.private.md) 
 
-### [endocrine.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.personal.md) 
+### #is_/same_as :: [endocrine.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.personal.md) 
 
-### [endocrine.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.secret.md)
+### #is_/same_as :: [endocrine.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/endocrine.secret.md)
 

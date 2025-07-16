@@ -43,17 +43,17 @@ An enumeration of genders.
 
 ## Confidential Links & Embeds: 
 
-### [gender_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/gender_type.md) 
+### #is_/same_as :: [gender_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/gender_type.md) 
 
-### [gender_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type.public.md) 
+### #is_/same_as :: [gender_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type.public.md) 
 
-### [gender_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type.internal.md) 
+### #is_/same_as :: [gender_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type.internal.md) 
 
-### [gender_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/gender_type.protect.md) 
+### #is_/same_as :: [gender_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/gender_type.protect.md) 
 
-### [gender_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/gender_type.private.md) 
+### #is_/same_as :: [gender_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/gender_type.private.md) 
 
-### [gender_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type.personal.md) 
+### #is_/same_as :: [gender_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type.personal.md) 
 
-### [gender_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type.secret.md)
+### #is_/same_as :: [gender_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type.secret.md)
 

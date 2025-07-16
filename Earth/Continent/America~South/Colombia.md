@@ -600,17 +600,17 @@ Capital :: [[Colombia/Counties/Bogota/City/Bogota]]
 
 ## Confidential Links & Embeds: 
 
-### [Colombia](/_Standards/Earth/Continent/America~South/Colombia.md) 
+### #is_/same_as :: [Colombia](/_Standards/Earth/Continent/America~South/Colombia.md) 
 
-### [Colombia.public](/_public/Earth/Continent/America~South/Colombia.public.md) 
+### #is_/same_as :: [Colombia.public](/_public/Earth/Continent/America~South/Colombia.public.md) 
 
-### [Colombia.internal](/_internal/Earth/Continent/America~South/Colombia.internal.md) 
+### #is_/same_as :: [Colombia.internal](/_internal/Earth/Continent/America~South/Colombia.internal.md) 
 
-### [Colombia.protect](/_protect/Earth/Continent/America~South/Colombia.protect.md) 
+### #is_/same_as :: [Colombia.protect](/_protect/Earth/Continent/America~South/Colombia.protect.md) 
 
-### [Colombia.private](/_private/Earth/Continent/America~South/Colombia.private.md) 
+### #is_/same_as :: [Colombia.private](/_private/Earth/Continent/America~South/Colombia.private.md) 
 
-### [Colombia.personal](/_personal/Earth/Continent/America~South/Colombia.personal.md) 
+### #is_/same_as :: [Colombia.personal](/_personal/Earth/Continent/America~South/Colombia.personal.md) 
 
-### [Colombia.secret](/_secret/Earth/Continent/America~South/Colombia.secret.md)
+### #is_/same_as :: [Colombia.secret](/_secret/Earth/Continent/America~South/Colombia.secret.md)
 

@@ -35,21 +35,19 @@ Krugosvet_article: nauka_i_tehnika/himiya/GAZ.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Gas)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Gas](/_Standards/Science/Physics/State_of_Matter/Gas.md) 
+### #is_/same_as :: [Gas](/_Standards/Science/Physics/State_of_Matter/Gas.md) 
 
-### [Gas.public](/_public/Science/Physics/State_of_Matter/Gas.public.md) 
+### #is_/same_as :: [Gas.public](/_public/Science/Physics/State_of_Matter/Gas.public.md) 
 
-### [Gas.internal](/_internal/Science/Physics/State_of_Matter/Gas.internal.md) 
+### #is_/same_as :: [Gas.internal](/_internal/Science/Physics/State_of_Matter/Gas.internal.md) 
 
-### [Gas.protect](/_protect/Science/Physics/State_of_Matter/Gas.protect.md) 
+### #is_/same_as :: [Gas.protect](/_protect/Science/Physics/State_of_Matter/Gas.protect.md) 
 
-### [Gas.private](/_private/Science/Physics/State_of_Matter/Gas.private.md) 
+### #is_/same_as :: [Gas.private](/_private/Science/Physics/State_of_Matter/Gas.private.md) 
 
-### [Gas.personal](/_personal/Science/Physics/State_of_Matter/Gas.personal.md) 
+### #is_/same_as :: [Gas.personal](/_personal/Science/Physics/State_of_Matter/Gas.personal.md) 
 
-### [Gas.secret](/_secret/Science/Physics/State_of_Matter/Gas.secret.md)
+### #is_/same_as :: [Gas.secret](/_secret/Science/Physics/State_of_Matter/Gas.secret.md)
 

@@ -45,17 +45,17 @@ Sport:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportsOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.md) 
+### #is_/same_as :: [FileClass~SportsOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.md) 
 
-### [FileClass~SportsOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.public.md) 
+### #is_/same_as :: [FileClass~SportsOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.public.md) 
 
-### [FileClass~SportsOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.internal.md) 
+### #is_/same_as :: [FileClass~SportsOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.internal.md) 
 
-### [FileClass~SportsOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.protect.md) 
+### #is_/same_as :: [FileClass~SportsOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.protect.md) 
 
-### [FileClass~SportsOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.private.md) 
+### #is_/same_as :: [FileClass~SportsOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.private.md) 
 
-### [FileClass~SportsOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.personal.md) 
+### #is_/same_as :: [FileClass~SportsOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.personal.md) 
 
-### [FileClass~SportsOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.secret.md)
+### #is_/same_as :: [FileClass~SportsOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization.secret.md)
 

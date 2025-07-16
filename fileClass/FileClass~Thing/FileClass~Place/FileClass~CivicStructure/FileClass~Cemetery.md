@@ -35,17 +35,17 @@ A graveyard.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Cemetery](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.md) 
+### #is_/same_as :: [FileClass~Cemetery](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.md) 
 
-### [FileClass~Cemetery.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.public.md) 
+### #is_/same_as :: [FileClass~Cemetery.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.public.md) 
 
-### [FileClass~Cemetery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.internal.md) 
+### #is_/same_as :: [FileClass~Cemetery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.internal.md) 
 
-### [FileClass~Cemetery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.protect.md) 
+### #is_/same_as :: [FileClass~Cemetery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.protect.md) 
 
-### [FileClass~Cemetery.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.private.md) 
+### #is_/same_as :: [FileClass~Cemetery.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.private.md) 
 
-### [FileClass~Cemetery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.personal.md) 
+### #is_/same_as :: [FileClass~Cemetery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.personal.md) 
 
-### [FileClass~Cemetery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.secret.md)
+### #is_/same_as :: [FileClass~Cemetery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.secret.md)
 

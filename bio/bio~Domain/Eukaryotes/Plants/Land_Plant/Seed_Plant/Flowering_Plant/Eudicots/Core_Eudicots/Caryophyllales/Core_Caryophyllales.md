@@ -153,22 +153,19 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Core_Caryophyllales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.md) 
+### #is_/same_as :: [Core_Caryophyllales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.md) 
 
-### [Core_Caryophyllales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.public.md) 
+### #is_/same_as :: [Core_Caryophyllales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.public.md) 
 
-### [Core_Caryophyllales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.internal.md) 
+### #is_/same_as :: [Core_Caryophyllales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.internal.md) 
 
-### [Core_Caryophyllales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.protect.md) 
+### #is_/same_as :: [Core_Caryophyllales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.protect.md) 
 
-### [Core_Caryophyllales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.private.md) 
+### #is_/same_as :: [Core_Caryophyllales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.private.md) 
 
-### [Core_Caryophyllales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.personal.md) 
+### #is_/same_as :: [Core_Caryophyllales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.personal.md) 
 
-### [Core_Caryophyllales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.secret.md)
+### #is_/same_as :: [Core_Caryophyllales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Core_Caryophyllales.secret.md)
 

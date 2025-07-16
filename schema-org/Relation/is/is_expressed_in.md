@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_expressed_in](/_Standards/schema-org/Relation/is/is_expressed_in.md) 
+### #is_/same_as :: [is_expressed_in](/_Standards/schema-org/Relation/is/is_expressed_in.md) 
 
-### [is_expressed_in.public](/_public/schema-org/Relation/is/is_expressed_in.public.md) 
+### #is_/same_as :: [is_expressed_in.public](/_public/schema-org/Relation/is/is_expressed_in.public.md) 
 
-### [is_expressed_in.internal](/_internal/schema-org/Relation/is/is_expressed_in.internal.md) 
+### #is_/same_as :: [is_expressed_in.internal](/_internal/schema-org/Relation/is/is_expressed_in.internal.md) 
 
-### [is_expressed_in.protect](/_protect/schema-org/Relation/is/is_expressed_in.protect.md) 
+### #is_/same_as :: [is_expressed_in.protect](/_protect/schema-org/Relation/is/is_expressed_in.protect.md) 
 
-### [is_expressed_in.private](/_private/schema-org/Relation/is/is_expressed_in.private.md) 
+### #is_/same_as :: [is_expressed_in.private](/_private/schema-org/Relation/is/is_expressed_in.private.md) 
 
-### [is_expressed_in.personal](/_personal/schema-org/Relation/is/is_expressed_in.personal.md) 
+### #is_/same_as :: [is_expressed_in.personal](/_personal/schema-org/Relation/is/is_expressed_in.personal.md) 
 
-### [is_expressed_in.secret](/_secret/schema-org/Relation/is/is_expressed_in.secret.md)
+### #is_/same_as :: [is_expressed_in.secret](/_secret/schema-org/Relation/is/is_expressed_in.secret.md)
 

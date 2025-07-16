@@ -36,23 +36,19 @@ GeoNames_feature_code: S.DARY
 > [Wikipedia](https://en.wikipedia.org/wiki/Dairy) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Dairy](/_Standards/Home_Economics/Cooking/Food/Dairy.md) 
+### #is_/same_as :: [Dairy](/_Standards/Home_Economics/Cooking/Food/Dairy.md) 
 
-### [Dairy.public](/_public/Home_Economics/Cooking/Food/Dairy.public.md) 
+### #is_/same_as :: [Dairy.public](/_public/Home_Economics/Cooking/Food/Dairy.public.md) 
 
-### [Dairy.internal](/_internal/Home_Economics/Cooking/Food/Dairy.internal.md) 
+### #is_/same_as :: [Dairy.internal](/_internal/Home_Economics/Cooking/Food/Dairy.internal.md) 
 
-### [Dairy.protect](/_protect/Home_Economics/Cooking/Food/Dairy.protect.md) 
+### #is_/same_as :: [Dairy.protect](/_protect/Home_Economics/Cooking/Food/Dairy.protect.md) 
 
-### [Dairy.private](/_private/Home_Economics/Cooking/Food/Dairy.private.md) 
+### #is_/same_as :: [Dairy.private](/_private/Home_Economics/Cooking/Food/Dairy.private.md) 
 
-### [Dairy.personal](/_personal/Home_Economics/Cooking/Food/Dairy.personal.md) 
+### #is_/same_as :: [Dairy.personal](/_personal/Home_Economics/Cooking/Food/Dairy.personal.md) 
 
-### [Dairy.secret](/_secret/Home_Economics/Cooking/Food/Dairy.secret.md)
+### #is_/same_as :: [Dairy.secret](/_secret/Home_Economics/Cooking/Food/Dairy.secret.md)
 

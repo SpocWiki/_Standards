@@ -57,17 +57,17 @@ TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TouristDestination](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.md) 
+### #is_/same_as :: [FileClass~TouristDestination](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.md) 
 
-### [FileClass~TouristDestination.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.public.md) 
+### #is_/same_as :: [FileClass~TouristDestination.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.public.md) 
 
-### [FileClass~TouristDestination.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.internal.md) 
+### #is_/same_as :: [FileClass~TouristDestination.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.internal.md) 
 
-### [FileClass~TouristDestination.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.protect.md) 
+### #is_/same_as :: [FileClass~TouristDestination.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.protect.md) 
 
-### [FileClass~TouristDestination.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.private.md) 
+### #is_/same_as :: [FileClass~TouristDestination.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.private.md) 
 
-### [FileClass~TouristDestination.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.personal.md) 
+### #is_/same_as :: [FileClass~TouristDestination.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.personal.md) 
 
-### [FileClass~TouristDestination.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.secret.md)
+### #is_/same_as :: [FileClass~TouristDestination.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.secret.md)
 

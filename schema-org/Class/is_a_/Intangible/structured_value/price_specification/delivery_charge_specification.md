@@ -45,17 +45,17 @@ The price for the delivery of an offer using a particular delivery method.
 
 ## Confidential Links & Embeds: 
 
-### [delivery_charge_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.md) 
+### #is_/same_as :: [delivery_charge_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.md) 
 
-### [delivery_charge_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.public.md) 
+### #is_/same_as :: [delivery_charge_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.public.md) 
 
-### [delivery_charge_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.internal.md) 
+### #is_/same_as :: [delivery_charge_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.internal.md) 
 
-### [delivery_charge_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.protect.md) 
+### #is_/same_as :: [delivery_charge_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.protect.md) 
 
-### [delivery_charge_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.private.md) 
+### #is_/same_as :: [delivery_charge_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.private.md) 
 
-### [delivery_charge_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.personal.md) 
+### #is_/same_as :: [delivery_charge_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.personal.md) 
 
-### [delivery_charge_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.secret.md)
+### #is_/same_as :: [delivery_charge_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.secret.md)
 

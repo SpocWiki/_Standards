@@ -35,17 +35,17 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShortStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.md) 
+### #is_/same_as :: [FileClass~ShortStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.md) 
 
-### [FileClass~ShortStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.public.md) 
+### #is_/same_as :: [FileClass~ShortStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.public.md) 
 
-### [FileClass~ShortStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.internal.md) 
+### #is_/same_as :: [FileClass~ShortStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.internal.md) 
 
-### [FileClass~ShortStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.protect.md) 
+### #is_/same_as :: [FileClass~ShortStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.protect.md) 
 
-### [FileClass~ShortStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.private.md) 
+### #is_/same_as :: [FileClass~ShortStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.private.md) 
 
-### [FileClass~ShortStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.personal.md) 
+### #is_/same_as :: [FileClass~ShortStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.personal.md) 
 
-### [FileClass~ShortStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.secret.md)
+### #is_/same_as :: [FileClass~ShortStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.secret.md)
 

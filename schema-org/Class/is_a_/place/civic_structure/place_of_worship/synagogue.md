@@ -45,17 +45,17 @@ A synagogue.
 
 ## Confidential Links & Embeds: 
 
-### [synagogue](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.md) 
+### #is_/same_as :: [synagogue](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.md) 
 
-### [synagogue.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.public.md) 
+### #is_/same_as :: [synagogue.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.public.md) 
 
-### [synagogue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md) 
+### #is_/same_as :: [synagogue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md) 
 
-### [synagogue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md) 
+### #is_/same_as :: [synagogue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md) 
 
-### [synagogue.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.private.md) 
+### #is_/same_as :: [synagogue.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.private.md) 
 
-### [synagogue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md) 
+### #is_/same_as :: [synagogue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md) 
 
-### [synagogue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md)
+### #is_/same_as :: [synagogue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md)
 

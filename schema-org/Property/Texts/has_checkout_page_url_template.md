@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_checkout_page_url_template](/_Standards/schema-org/Property/Texts/has_checkout_page_url_template.md) 
+### #is_/same_as :: [has_checkout_page_url_template](/_Standards/schema-org/Property/Texts/has_checkout_page_url_template.md) 
 
-### [has_checkout_page_url_template.public](/_public/schema-org/Property/Texts/has_checkout_page_url_template.public.md) 
+### #is_/same_as :: [has_checkout_page_url_template.public](/_public/schema-org/Property/Texts/has_checkout_page_url_template.public.md) 
 
-### [has_checkout_page_url_template.internal](/_internal/schema-org/Property/Texts/has_checkout_page_url_template.internal.md) 
+### #is_/same_as :: [has_checkout_page_url_template.internal](/_internal/schema-org/Property/Texts/has_checkout_page_url_template.internal.md) 
 
-### [has_checkout_page_url_template.protect](/_protect/schema-org/Property/Texts/has_checkout_page_url_template.protect.md) 
+### #is_/same_as :: [has_checkout_page_url_template.protect](/_protect/schema-org/Property/Texts/has_checkout_page_url_template.protect.md) 
 
-### [has_checkout_page_url_template.private](/_private/schema-org/Property/Texts/has_checkout_page_url_template.private.md) 
+### #is_/same_as :: [has_checkout_page_url_template.private](/_private/schema-org/Property/Texts/has_checkout_page_url_template.private.md) 
 
-### [has_checkout_page_url_template.personal](/_personal/schema-org/Property/Texts/has_checkout_page_url_template.personal.md) 
+### #is_/same_as :: [has_checkout_page_url_template.personal](/_personal/schema-org/Property/Texts/has_checkout_page_url_template.personal.md) 
 
-### [has_checkout_page_url_template.secret](/_secret/schema-org/Property/Texts/has_checkout_page_url_template.secret.md)
+### #is_/same_as :: [has_checkout_page_url_template.secret](/_secret/schema-org/Property/Texts/has_checkout_page_url_template.secret.md)
 

@@ -37,17 +37,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.md) 
+### #is_/same_as :: [FileClass~BusReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.md) 
 
-### [FileClass~BusReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.public.md) 
+### #is_/same_as :: [FileClass~BusReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.public.md) 
 
-### [FileClass~BusReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.internal.md) 
+### #is_/same_as :: [FileClass~BusReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.internal.md) 
 
-### [FileClass~BusReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.protect.md) 
+### #is_/same_as :: [FileClass~BusReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.protect.md) 
 
-### [FileClass~BusReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.private.md) 
+### #is_/same_as :: [FileClass~BusReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.private.md) 
 
-### [FileClass~BusReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.personal.md) 
+### #is_/same_as :: [FileClass~BusReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.personal.md) 
 
-### [FileClass~BusReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.secret.md)
+### #is_/same_as :: [FileClass~BusReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.secret.md)
 

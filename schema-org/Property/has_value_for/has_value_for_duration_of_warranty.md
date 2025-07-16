@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_duration_of_warranty](/_Standards/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.md) 
+### #is_/same_as :: [has_value_for_duration_of_warranty](/_Standards/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.md) 
 
-### [has_value_for_duration_of_warranty.public](/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.public.md) 
+### #is_/same_as :: [has_value_for_duration_of_warranty.public](/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.public.md) 
 
-### [has_value_for_duration_of_warranty.internal](/_internal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.internal.md) 
+### #is_/same_as :: [has_value_for_duration_of_warranty.internal](/_internal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.internal.md) 
 
-### [has_value_for_duration_of_warranty.protect](/_protect/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.protect.md) 
+### #is_/same_as :: [has_value_for_duration_of_warranty.protect](/_protect/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.protect.md) 
 
-### [has_value_for_duration_of_warranty.private](/_private/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.private.md) 
+### #is_/same_as :: [has_value_for_duration_of_warranty.private](/_private/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.private.md) 
 
-### [has_value_for_duration_of_warranty.personal](/_personal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.personal.md) 
+### #is_/same_as :: [has_value_for_duration_of_warranty.personal](/_personal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.personal.md) 
 
-### [has_value_for_duration_of_warranty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret.md)
+### #is_/same_as :: [has_value_for_duration_of_warranty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret.md)
 

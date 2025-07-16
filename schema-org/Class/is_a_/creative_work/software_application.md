@@ -47,17 +47,17 @@ A software application.
 
 ## Confidential Links & Embeds: 
 
-### [software_application](/_Standards/schema-org/Class/is_a_/creative_work/software_application.md) 
+### #is_/same_as :: [software_application](/_Standards/schema-org/Class/is_a_/creative_work/software_application.md) 
 
-### [software_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application.public.md) 
+### #is_/same_as :: [software_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application.public.md) 
 
-### [software_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application.internal.md) 
+### #is_/same_as :: [software_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application.internal.md) 
 
-### [software_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application.protect.md) 
+### #is_/same_as :: [software_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application.protect.md) 
 
-### [software_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application.private.md) 
+### #is_/same_as :: [software_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application.private.md) 
 
-### [software_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application.personal.md) 
+### #is_/same_as :: [software_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application.personal.md) 
 
-### [software_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application.secret.md)
+### #is_/same_as :: [software_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application.secret.md)
 

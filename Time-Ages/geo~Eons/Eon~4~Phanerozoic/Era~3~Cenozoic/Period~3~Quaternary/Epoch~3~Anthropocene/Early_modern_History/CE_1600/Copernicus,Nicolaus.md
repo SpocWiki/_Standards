@@ -183,24 +183,19 @@ described_at_URL:
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicolaus%20Copernicus) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Copernicus,Nicolaus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.md) 
+### #is_/same_as :: [Copernicus,Nicolaus](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.md) 
 
-### [Copernicus,Nicolaus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.public.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.public.md) 
 
-### [Copernicus,Nicolaus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.internal.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.internal.md) 
 
-### [Copernicus,Nicolaus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.protect.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.protect.md) 
 
-### [Copernicus,Nicolaus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.private.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.private.md) 
 
-### [Copernicus,Nicolaus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.personal.md) 
+### #is_/same_as :: [Copernicus,Nicolaus.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.personal.md) 
 
-### [Copernicus,Nicolaus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.secret.md)
+### #is_/same_as :: [Copernicus,Nicolaus.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/Copernicus,Nicolaus.secret.md)
 

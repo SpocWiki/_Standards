@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_occupational_credential_awarded](/_Standards/schema-org/Relation/has/has_occupational_credential_awarded.md) 
+### #is_/same_as :: [has_occupational_credential_awarded](/_Standards/schema-org/Relation/has/has_occupational_credential_awarded.md) 
 
-### [has_occupational_credential_awarded.public](/_public/schema-org/Relation/has/has_occupational_credential_awarded.public.md) 
+### #is_/same_as :: [has_occupational_credential_awarded.public](/_public/schema-org/Relation/has/has_occupational_credential_awarded.public.md) 
 
-### [has_occupational_credential_awarded.internal](/_internal/schema-org/Relation/has/has_occupational_credential_awarded.internal.md) 
+### #is_/same_as :: [has_occupational_credential_awarded.internal](/_internal/schema-org/Relation/has/has_occupational_credential_awarded.internal.md) 
 
-### [has_occupational_credential_awarded.protect](/_protect/schema-org/Relation/has/has_occupational_credential_awarded.protect.md) 
+### #is_/same_as :: [has_occupational_credential_awarded.protect](/_protect/schema-org/Relation/has/has_occupational_credential_awarded.protect.md) 
 
-### [has_occupational_credential_awarded.private](/_private/schema-org/Relation/has/has_occupational_credential_awarded.private.md) 
+### #is_/same_as :: [has_occupational_credential_awarded.private](/_private/schema-org/Relation/has/has_occupational_credential_awarded.private.md) 
 
-### [has_occupational_credential_awarded.personal](/_personal/schema-org/Relation/has/has_occupational_credential_awarded.personal.md) 
+### #is_/same_as :: [has_occupational_credential_awarded.personal](/_personal/schema-org/Relation/has/has_occupational_credential_awarded.personal.md) 
 
-### [has_occupational_credential_awarded.secret](/_secret/schema-org/Relation/has/has_occupational_credential_awarded.secret.md)
+### #is_/same_as :: [has_occupational_credential_awarded.secret](/_secret/schema-org/Relation/has/has_occupational_credential_awarded.secret.md)
 

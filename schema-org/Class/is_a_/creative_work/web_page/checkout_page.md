@@ -45,17 +45,17 @@ Web page type: Checkout page.
 
 ## Confidential Links & Embeds: 
 
-### [checkout_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/checkout_page.md) 
+### #is_/same_as :: [checkout_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/checkout_page.md) 
 
-### [checkout_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/checkout_page.public.md) 
+### #is_/same_as :: [checkout_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/checkout_page.public.md) 
 
-### [checkout_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/checkout_page.internal.md) 
+### #is_/same_as :: [checkout_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/checkout_page.internal.md) 
 
-### [checkout_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/checkout_page.protect.md) 
+### #is_/same_as :: [checkout_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/checkout_page.protect.md) 
 
-### [checkout_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/checkout_page.private.md) 
+### #is_/same_as :: [checkout_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/checkout_page.private.md) 
 
-### [checkout_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/checkout_page.personal.md) 
+### #is_/same_as :: [checkout_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/checkout_page.personal.md) 
 
-### [checkout_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/checkout_page.secret.md)
+### #is_/same_as :: [checkout_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/checkout_page.secret.md)
 

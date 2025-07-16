@@ -45,17 +45,17 @@ Reference documentation for application programming interfaces (APIs).
 
 ## Confidential Links & Embeds: 
 
-### [api_reference](/_Standards/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.md) 
+### #is_/same_as :: [api_reference](/_Standards/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.md) 
 
-### [api_reference.public](/_public/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.public.md) 
+### #is_/same_as :: [api_reference.public](/_public/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.public.md) 
 
-### [api_reference.internal](/_internal/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.internal.md) 
+### #is_/same_as :: [api_reference.internal](/_internal/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.internal.md) 
 
-### [api_reference.protect](/_protect/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.protect.md) 
+### #is_/same_as :: [api_reference.protect](/_protect/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.protect.md) 
 
-### [api_reference.private](/_private/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.private.md) 
+### #is_/same_as :: [api_reference.private](/_private/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.private.md) 
 
-### [api_reference.personal](/_personal/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.personal.md) 
+### #is_/same_as :: [api_reference.personal](/_personal/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.personal.md) 
 
-### [api_reference.secret](/_secret/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.secret.md)
+### #is_/same_as :: [api_reference.secret](/_secret/schema-org/Class/is_a_/creative_work/article/tech_article/api_reference.secret.md)
 

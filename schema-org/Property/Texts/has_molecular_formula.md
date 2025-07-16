@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_molecular_formula](/_Standards/schema-org/Property/Texts/has_molecular_formula.md) 
+### #is_/same_as :: [has_molecular_formula](/_Standards/schema-org/Property/Texts/has_molecular_formula.md) 
 
-### [has_molecular_formula.public](/_public/schema-org/Property/Texts/has_molecular_formula.public.md) 
+### #is_/same_as :: [has_molecular_formula.public](/_public/schema-org/Property/Texts/has_molecular_formula.public.md) 
 
-### [has_molecular_formula.internal](/_internal/schema-org/Property/Texts/has_molecular_formula.internal.md) 
+### #is_/same_as :: [has_molecular_formula.internal](/_internal/schema-org/Property/Texts/has_molecular_formula.internal.md) 
 
-### [has_molecular_formula.protect](/_protect/schema-org/Property/Texts/has_molecular_formula.protect.md) 
+### #is_/same_as :: [has_molecular_formula.protect](/_protect/schema-org/Property/Texts/has_molecular_formula.protect.md) 
 
-### [has_molecular_formula.private](/_private/schema-org/Property/Texts/has_molecular_formula.private.md) 
+### #is_/same_as :: [has_molecular_formula.private](/_private/schema-org/Property/Texts/has_molecular_formula.private.md) 
 
-### [has_molecular_formula.personal](/_personal/schema-org/Property/Texts/has_molecular_formula.personal.md) 
+### #is_/same_as :: [has_molecular_formula.personal](/_personal/schema-org/Property/Texts/has_molecular_formula.personal.md) 
 
-### [has_molecular_formula.secret](/_secret/schema-org/Property/Texts/has_molecular_formula.secret.md)
+### #is_/same_as :: [has_molecular_formula.secret](/_secret/schema-org/Property/Texts/has_molecular_formula.secret.md)
 

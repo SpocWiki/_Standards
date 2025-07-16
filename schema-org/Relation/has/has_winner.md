@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_winner](/_Standards/schema-org/Relation/has/has_winner.md) 
+### #is_/same_as :: [has_winner](/_Standards/schema-org/Relation/has/has_winner.md) 
 
-### [has_winner.public](/_public/schema-org/Relation/has/has_winner.public.md) 
+### #is_/same_as :: [has_winner.public](/_public/schema-org/Relation/has/has_winner.public.md) 
 
-### [has_winner.internal](/_internal/schema-org/Relation/has/has_winner.internal.md) 
+### #is_/same_as :: [has_winner.internal](/_internal/schema-org/Relation/has/has_winner.internal.md) 
 
-### [has_winner.protect](/_protect/schema-org/Relation/has/has_winner.protect.md) 
+### #is_/same_as :: [has_winner.protect](/_protect/schema-org/Relation/has/has_winner.protect.md) 
 
-### [has_winner.private](/_private/schema-org/Relation/has/has_winner.private.md) 
+### #is_/same_as :: [has_winner.private](/_private/schema-org/Relation/has/has_winner.private.md) 
 
-### [has_winner.personal](/_personal/schema-org/Relation/has/has_winner.personal.md) 
+### #is_/same_as :: [has_winner.personal](/_personal/schema-org/Relation/has/has_winner.personal.md) 
 
-### [has_winner.secret](/_secret/schema-org/Relation/has/has_winner.secret.md)
+### #is_/same_as :: [has_winner.secret](/_secret/schema-org/Relation/has/has_winner.secret.md)
 

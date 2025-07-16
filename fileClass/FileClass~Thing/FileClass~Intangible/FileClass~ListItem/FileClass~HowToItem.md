@@ -45,17 +45,17 @@ RequiredQuantity:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.md) 
+### #is_/same_as :: [FileClass~HowToItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.md) 
 
-### [FileClass~HowToItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.public.md) 
+### #is_/same_as :: [FileClass~HowToItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.public.md) 
 
-### [FileClass~HowToItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.internal.md) 
+### #is_/same_as :: [FileClass~HowToItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.internal.md) 
 
-### [FileClass~HowToItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.protect.md) 
+### #is_/same_as :: [FileClass~HowToItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.protect.md) 
 
-### [FileClass~HowToItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.private.md) 
+### #is_/same_as :: [FileClass~HowToItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.private.md) 
 
-### [FileClass~HowToItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.personal.md) 
+### #is_/same_as :: [FileClass~HowToItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.personal.md) 
 
-### [FileClass~HowToItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.secret.md)
+### #is_/same_as :: [FileClass~HowToItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.secret.md)
 

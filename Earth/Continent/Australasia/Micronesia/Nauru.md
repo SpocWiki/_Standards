@@ -365,17 +365,17 @@ Capital :: [[Yaren]]
 
 ## Confidential Links & Embeds: 
 
-### [Nauru](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru.md) 
+### #is_/same_as :: [Nauru](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru.md) 
 
-### [Nauru.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru.public.md) 
+### #is_/same_as :: [Nauru.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru.public.md) 
 
-### [Nauru.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru.internal.md) 
+### #is_/same_as :: [Nauru.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru.internal.md) 
 
-### [Nauru.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru.protect.md) 
+### #is_/same_as :: [Nauru.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru.protect.md) 
 
-### [Nauru.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru.private.md) 
+### #is_/same_as :: [Nauru.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru.private.md) 
 
-### [Nauru.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal.md) 
+### #is_/same_as :: [Nauru.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal.md) 
 
-### [Nauru.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret.md)
+### #is_/same_as :: [Nauru.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret.md)
 

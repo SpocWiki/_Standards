@@ -47,17 +47,17 @@ DJMixAlbum.
 
 ## Confidential Links & Embeds: 
 
-### [dj_mix_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.md) 
+### #is_/same_as :: [dj_mix_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.md) 
 
-### [dj_mix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.public.md) 
+### #is_/same_as :: [dj_mix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.public.md) 
 
-### [dj_mix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.internal.md) 
+### #is_/same_as :: [dj_mix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.internal.md) 
 
-### [dj_mix_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.protect.md) 
+### #is_/same_as :: [dj_mix_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.protect.md) 
 
-### [dj_mix_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.private.md) 
+### #is_/same_as :: [dj_mix_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.private.md) 
 
-### [dj_mix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.personal.md) 
+### #is_/same_as :: [dj_mix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.personal.md) 
 
-### [dj_mix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.secret.md)
+### #is_/same_as :: [dj_mix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.secret.md)
 

@@ -65,17 +65,17 @@ Usage guidelines:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_rating](/_Standards/schema-org/Property/has_value_for/has_value_for_rating.md) 
+### #is_/same_as :: [has_value_for_rating](/_Standards/schema-org/Property/has_value_for/has_value_for_rating.md) 
 
-### [has_value_for_rating.public](/_public/schema-org/Property/has_value_for/has_value_for_rating.public.md) 
+### #is_/same_as :: [has_value_for_rating.public](/_public/schema-org/Property/has_value_for/has_value_for_rating.public.md) 
 
-### [has_value_for_rating.internal](/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal.md) 
+### #is_/same_as :: [has_value_for_rating.internal](/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal.md) 
 
-### [has_value_for_rating.protect](/_protect/schema-org/Property/has_value_for/has_value_for_rating.protect.md) 
+### #is_/same_as :: [has_value_for_rating.protect](/_protect/schema-org/Property/has_value_for/has_value_for_rating.protect.md) 
 
-### [has_value_for_rating.private](/_private/schema-org/Property/has_value_for/has_value_for_rating.private.md) 
+### #is_/same_as :: [has_value_for_rating.private](/_private/schema-org/Property/has_value_for/has_value_for_rating.private.md) 
 
-### [has_value_for_rating.personal](/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal.md) 
+### #is_/same_as :: [has_value_for_rating.personal](/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal.md) 
 
-### [has_value_for_rating.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret.md)
+### #is_/same_as :: [has_value_for_rating.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret.md)
 

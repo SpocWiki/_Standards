@@ -47,17 +47,17 @@ The invitee may or may not attend.
 
 ## Confidential Links & Embeds: 
 
-### [rsvp_response_maybe](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md) 
+### #is_/same_as :: [rsvp_response_maybe](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md) 
 
-### [rsvp_response_maybe.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.public.md) 
+### #is_/same_as :: [rsvp_response_maybe.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.public.md) 
 
-### [rsvp_response_maybe.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md) 
+### #is_/same_as :: [rsvp_response_maybe.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md) 
 
-### [rsvp_response_maybe.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.protect.md) 
+### #is_/same_as :: [rsvp_response_maybe.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.protect.md) 
 
-### [rsvp_response_maybe.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.private.md) 
+### #is_/same_as :: [rsvp_response_maybe.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.private.md) 
 
-### [rsvp_response_maybe.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal.md) 
+### #is_/same_as :: [rsvp_response_maybe.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal.md) 
 
-### [rsvp_response_maybe.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md)
+### #is_/same_as :: [rsvp_response_maybe.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md)
 

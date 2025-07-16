@@ -35,17 +35,17 @@ A Childcare center.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ChildCare](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.md) 
+### #is_/same_as :: [FileClass~ChildCare](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.md) 
 
-### [FileClass~ChildCare.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.public.md) 
+### #is_/same_as :: [FileClass~ChildCare.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.public.md) 
 
-### [FileClass~ChildCare.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.internal.md) 
+### #is_/same_as :: [FileClass~ChildCare.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.internal.md) 
 
-### [FileClass~ChildCare.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.protect.md) 
+### #is_/same_as :: [FileClass~ChildCare.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.protect.md) 
 
-### [FileClass~ChildCare.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.private.md) 
+### #is_/same_as :: [FileClass~ChildCare.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.private.md) 
 
-### [FileClass~ChildCare.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.personal.md) 
+### #is_/same_as :: [FileClass~ChildCare.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.personal.md) 
 
-### [FileClass~ChildCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.secret.md)
+### #is_/same_as :: [FileClass~ChildCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.secret.md)
 

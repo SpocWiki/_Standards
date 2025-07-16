@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_previous_start](/_Standards/schema-org/Property/has_Date_Time/has_time_of_previous_start.md) 
+### #is_/same_as :: [has_time_of_previous_start](/_Standards/schema-org/Property/has_Date_Time/has_time_of_previous_start.md) 
 
-### [has_time_of_previous_start.public](/_public/schema-org/Property/has_Date_Time/has_time_of_previous_start.public.md) 
+### #is_/same_as :: [has_time_of_previous_start.public](/_public/schema-org/Property/has_Date_Time/has_time_of_previous_start.public.md) 
 
-### [has_time_of_previous_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_previous_start.internal.md) 
+### #is_/same_as :: [has_time_of_previous_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_previous_start.internal.md) 
 
-### [has_time_of_previous_start.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_previous_start.protect.md) 
+### #is_/same_as :: [has_time_of_previous_start.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_previous_start.protect.md) 
 
-### [has_time_of_previous_start.private](/_private/schema-org/Property/has_Date_Time/has_time_of_previous_start.private.md) 
+### #is_/same_as :: [has_time_of_previous_start.private](/_private/schema-org/Property/has_Date_Time/has_time_of_previous_start.private.md) 
 
-### [has_time_of_previous_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_previous_start.personal.md) 
+### #is_/same_as :: [has_time_of_previous_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_previous_start.personal.md) 
 
-### [has_time_of_previous_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_previous_start.secret.md)
+### #is_/same_as :: [has_time_of_previous_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_previous_start.secret.md)
 

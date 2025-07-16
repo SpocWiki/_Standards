@@ -35,17 +35,17 @@ Web page type: Collection page.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CollectionPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.md) 
+### #is_/same_as :: [FileClass~CollectionPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.md) 
 
-### [FileClass~CollectionPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.public.md) 
+### #is_/same_as :: [FileClass~CollectionPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.public.md) 
 
-### [FileClass~CollectionPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.internal.md) 
+### #is_/same_as :: [FileClass~CollectionPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.internal.md) 
 
-### [FileClass~CollectionPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.protect.md) 
+### #is_/same_as :: [FileClass~CollectionPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.protect.md) 
 
-### [FileClass~CollectionPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.private.md) 
+### #is_/same_as :: [FileClass~CollectionPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.private.md) 
 
-### [FileClass~CollectionPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.personal.md) 
+### #is_/same_as :: [FileClass~CollectionPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.personal.md) 
 
-### [FileClass~CollectionPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.secret.md)
+### #is_/same_as :: [FileClass~CollectionPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.secret.md)
 

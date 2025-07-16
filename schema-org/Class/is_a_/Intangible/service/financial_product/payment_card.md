@@ -47,17 +47,17 @@ A payment method using a credit, debit, store or other card to associate the pay
 
 ## Confidential Links & Embeds: 
 
-### [payment_card](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.md) 
+### #is_/same_as :: [payment_card](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.md) 
 
-### [payment_card.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.public.md) 
+### #is_/same_as :: [payment_card.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.public.md) 
 
-### [payment_card.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.internal.md) 
+### #is_/same_as :: [payment_card.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.internal.md) 
 
-### [payment_card.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.protect.md) 
+### #is_/same_as :: [payment_card.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.protect.md) 
 
-### [payment_card.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.private.md) 
+### #is_/same_as :: [payment_card.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.private.md) 
 
-### [payment_card.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.personal.md) 
+### #is_/same_as :: [payment_card.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.personal.md) 
 
-### [payment_card.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.secret.md)
+### #is_/same_as :: [payment_card.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_card.secret.md)
 

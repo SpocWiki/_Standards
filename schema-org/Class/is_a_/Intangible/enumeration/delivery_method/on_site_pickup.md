@@ -47,17 +47,17 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 
 ## Confidential Links & Embeds: 
 
-### [on_site_pickup](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.md) 
+### #is_/same_as :: [on_site_pickup](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.md) 
 
-### [on_site_pickup.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.public.md) 
+### #is_/same_as :: [on_site_pickup.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.public.md) 
 
-### [on_site_pickup.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.internal.md) 
+### #is_/same_as :: [on_site_pickup.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.internal.md) 
 
-### [on_site_pickup.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.protect.md) 
+### #is_/same_as :: [on_site_pickup.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.protect.md) 
 
-### [on_site_pickup.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.private.md) 
+### #is_/same_as :: [on_site_pickup.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.private.md) 
 
-### [on_site_pickup.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.personal.md) 
+### #is_/same_as :: [on_site_pickup.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.personal.md) 
 
-### [on_site_pickup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.secret.md)
+### #is_/same_as :: [on_site_pickup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.secret.md)
 

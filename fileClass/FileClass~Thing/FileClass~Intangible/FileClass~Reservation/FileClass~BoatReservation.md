@@ -36,17 +36,17 @@ A reservation for boat travel.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BoatReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.md) 
+### #is_/same_as :: [FileClass~BoatReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.md) 
 
-### [FileClass~BoatReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.public.md) 
+### #is_/same_as :: [FileClass~BoatReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.public.md) 
 
-### [FileClass~BoatReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.internal.md) 
+### #is_/same_as :: [FileClass~BoatReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.internal.md) 
 
-### [FileClass~BoatReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.protect.md) 
+### #is_/same_as :: [FileClass~BoatReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.protect.md) 
 
-### [FileClass~BoatReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.private.md) 
+### #is_/same_as :: [FileClass~BoatReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.private.md) 
 
-### [FileClass~BoatReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.personal.md) 
+### #is_/same_as :: [FileClass~BoatReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.personal.md) 
 
-### [FileClass~BoatReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.secret.md)
+### #is_/same_as :: [FileClass~BoatReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BoatReservation.secret.md)
 

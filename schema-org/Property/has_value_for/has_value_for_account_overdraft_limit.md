@@ -51,17 +51,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_account_overdraft_limit](/_Standards/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.md) 
+### #is_/same_as :: [has_value_for_account_overdraft_limit](/_Standards/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.md) 
 
-### [has_value_for_account_overdraft_limit.public](/_public/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.public.md) 
+### #is_/same_as :: [has_value_for_account_overdraft_limit.public](/_public/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.public.md) 
 
-### [has_value_for_account_overdraft_limit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.internal.md) 
+### #is_/same_as :: [has_value_for_account_overdraft_limit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.internal.md) 
 
-### [has_value_for_account_overdraft_limit.protect](/_protect/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.protect.md) 
+### #is_/same_as :: [has_value_for_account_overdraft_limit.protect](/_protect/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.protect.md) 
 
-### [has_value_for_account_overdraft_limit.private](/_private/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.private.md) 
+### #is_/same_as :: [has_value_for_account_overdraft_limit.private](/_private/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.private.md) 
 
-### [has_value_for_account_overdraft_limit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.personal.md) 
+### #is_/same_as :: [has_value_for_account_overdraft_limit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.personal.md) 
 
-### [has_value_for_account_overdraft_limit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.secret.md)
+### #is_/same_as :: [has_value_for_account_overdraft_limit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.secret.md)
 

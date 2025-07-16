@@ -47,17 +47,17 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 
 ## Confidential Links & Embeds: 
 
-### [bank_account](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.md) 
+### #is_/same_as :: [bank_account](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.md) 
 
-### [bank_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.public.md) 
+### #is_/same_as :: [bank_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.public.md) 
 
-### [bank_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.internal.md) 
+### #is_/same_as :: [bank_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.internal.md) 
 
-### [bank_account.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.protect.md) 
+### #is_/same_as :: [bank_account.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.protect.md) 
 
-### [bank_account.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.private.md) 
+### #is_/same_as :: [bank_account.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.private.md) 
 
-### [bank_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.personal.md) 
+### #is_/same_as :: [bank_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.personal.md) 
 
-### [bank_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.secret.md)
+### #is_/same_as :: [bank_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.secret.md)
 

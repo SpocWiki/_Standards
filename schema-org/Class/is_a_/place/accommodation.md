@@ -50,17 +50,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### [accommodation](/_Standards/schema-org/Class/is_a_/place/accommodation.md) 
+### #is_/same_as :: [accommodation](/_Standards/schema-org/Class/is_a_/place/accommodation.md) 
 
-### [accommodation.public](/_public/schema-org/Class/is_a_/place/accommodation.public.md) 
+### #is_/same_as :: [accommodation.public](/_public/schema-org/Class/is_a_/place/accommodation.public.md) 
 
-### [accommodation.internal](/_internal/schema-org/Class/is_a_/place/accommodation.internal.md) 
+### #is_/same_as :: [accommodation.internal](/_internal/schema-org/Class/is_a_/place/accommodation.internal.md) 
 
-### [accommodation.protect](/_protect/schema-org/Class/is_a_/place/accommodation.protect.md) 
+### #is_/same_as :: [accommodation.protect](/_protect/schema-org/Class/is_a_/place/accommodation.protect.md) 
 
-### [accommodation.private](/_private/schema-org/Class/is_a_/place/accommodation.private.md) 
+### #is_/same_as :: [accommodation.private](/_private/schema-org/Class/is_a_/place/accommodation.private.md) 
 
-### [accommodation.personal](/_personal/schema-org/Class/is_a_/place/accommodation.personal.md) 
+### #is_/same_as :: [accommodation.personal](/_personal/schema-org/Class/is_a_/place/accommodation.personal.md) 
 
-### [accommodation.secret](/_secret/schema-org/Class/is_a_/place/accommodation.secret.md)
+### #is_/same_as :: [accommodation.secret](/_secret/schema-org/Class/is_a_/place/accommodation.secret.md)
 

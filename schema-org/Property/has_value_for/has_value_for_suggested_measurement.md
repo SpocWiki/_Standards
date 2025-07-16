@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_suggested_measurement](/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_measurement.md) 
+### #is_/same_as :: [has_value_for_suggested_measurement](/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_measurement.md) 
 
-### [has_value_for_suggested_measurement.public](/_public/schema-org/Property/has_value_for/has_value_for_suggested_measurement.public.md) 
+### #is_/same_as :: [has_value_for_suggested_measurement.public](/_public/schema-org/Property/has_value_for/has_value_for_suggested_measurement.public.md) 
 
-### [has_value_for_suggested_measurement.internal](/_internal/schema-org/Property/has_value_for/has_value_for_suggested_measurement.internal.md) 
+### #is_/same_as :: [has_value_for_suggested_measurement.internal](/_internal/schema-org/Property/has_value_for/has_value_for_suggested_measurement.internal.md) 
 
-### [has_value_for_suggested_measurement.protect](/_protect/schema-org/Property/has_value_for/has_value_for_suggested_measurement.protect.md) 
+### #is_/same_as :: [has_value_for_suggested_measurement.protect](/_protect/schema-org/Property/has_value_for/has_value_for_suggested_measurement.protect.md) 
 
-### [has_value_for_suggested_measurement.private](/_private/schema-org/Property/has_value_for/has_value_for_suggested_measurement.private.md) 
+### #is_/same_as :: [has_value_for_suggested_measurement.private](/_private/schema-org/Property/has_value_for/has_value_for_suggested_measurement.private.md) 
 
-### [has_value_for_suggested_measurement.personal](/_personal/schema-org/Property/has_value_for/has_value_for_suggested_measurement.personal.md) 
+### #is_/same_as :: [has_value_for_suggested_measurement.personal](/_personal/schema-org/Property/has_value_for/has_value_for_suggested_measurement.personal.md) 
 
-### [has_value_for_suggested_measurement.secret](/_secret/schema-org/Property/has_value_for/has_value_for_suggested_measurement.secret.md)
+### #is_/same_as :: [has_value_for_suggested_measurement.secret](/_secret/schema-org/Property/has_value_for/has_value_for_suggested_measurement.secret.md)
 

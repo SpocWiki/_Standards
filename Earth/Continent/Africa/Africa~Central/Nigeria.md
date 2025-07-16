@@ -1039,17 +1039,17 @@ Capital :: [[Abuja]]
 
 ## Confidential Links & Embeds: 
 
-### [Nigeria](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria.md) 
+### #is_/same_as :: [Nigeria](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria.md) 
 
-### [Nigeria.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public.md) 
+### #is_/same_as :: [Nigeria.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public.md) 
 
-### [Nigeria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal.md) 
+### #is_/same_as :: [Nigeria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal.md) 
 
-### [Nigeria.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria.protect.md) 
+### #is_/same_as :: [Nigeria.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria.protect.md) 
 
-### [Nigeria.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria.private.md) 
+### #is_/same_as :: [Nigeria.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria.private.md) 
 
-### [Nigeria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal.md) 
+### #is_/same_as :: [Nigeria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal.md) 
 
-### [Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret.md)
+### #is_/same_as :: [Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret.md)
 

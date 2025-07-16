@@ -48,17 +48,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_excepted](/_Standards/schema-org/Property/has_Date_Time/has_time_excepted.md) 
+### #is_/same_as :: [has_time_excepted](/_Standards/schema-org/Property/has_Date_Time/has_time_excepted.md) 
 
-### [has_time_excepted.public](/_public/schema-org/Property/has_Date_Time/has_time_excepted.public.md) 
+### #is_/same_as :: [has_time_excepted.public](/_public/schema-org/Property/has_Date_Time/has_time_excepted.public.md) 
 
-### [has_time_excepted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_excepted.internal.md) 
+### #is_/same_as :: [has_time_excepted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_excepted.internal.md) 
 
-### [has_time_excepted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_excepted.protect.md) 
+### #is_/same_as :: [has_time_excepted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_excepted.protect.md) 
 
-### [has_time_excepted.private](/_private/schema-org/Property/has_Date_Time/has_time_excepted.private.md) 
+### #is_/same_as :: [has_time_excepted.private](/_private/schema-org/Property/has_Date_Time/has_time_excepted.private.md) 
 
-### [has_time_excepted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_excepted.personal.md) 
+### #is_/same_as :: [has_time_excepted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_excepted.personal.md) 
 
-### [has_time_excepted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_excepted.secret.md)
+### #is_/same_as :: [has_time_excepted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_excepted.secret.md)
 

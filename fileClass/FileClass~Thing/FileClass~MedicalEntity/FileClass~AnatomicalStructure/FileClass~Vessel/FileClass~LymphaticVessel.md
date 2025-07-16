@@ -68,17 +68,17 @@ RunsTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LymphaticVessel](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.md) 
+### #is_/same_as :: [FileClass~LymphaticVessel](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.md) 
 
-### [FileClass~LymphaticVessel.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.public.md) 
+### #is_/same_as :: [FileClass~LymphaticVessel.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.public.md) 
 
-### [FileClass~LymphaticVessel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.internal.md) 
+### #is_/same_as :: [FileClass~LymphaticVessel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.internal.md) 
 
-### [FileClass~LymphaticVessel.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.protect.md) 
+### #is_/same_as :: [FileClass~LymphaticVessel.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.protect.md) 
 
-### [FileClass~LymphaticVessel.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.private.md) 
+### #is_/same_as :: [FileClass~LymphaticVessel.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.private.md) 
 
-### [FileClass~LymphaticVessel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.personal.md) 
+### #is_/same_as :: [FileClass~LymphaticVessel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.personal.md) 
 
-### [FileClass~LymphaticVessel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.secret.md)
+### #is_/same_as :: [FileClass~LymphaticVessel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.secret.md)
 

@@ -132,22 +132,19 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/VELOSIPED.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Bicycle) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Bicycle](/_Standards/Technology/Transport/Road_Transport/Bicycle.md) 
+### #is_/same_as :: [Bicycle](/_Standards/Technology/Transport/Road_Transport/Bicycle.md) 
 
-### [Bicycle.public](/_public/Technology/Transport/Road_Transport/Bicycle.public.md) 
+### #is_/same_as :: [Bicycle.public](/_public/Technology/Transport/Road_Transport/Bicycle.public.md) 
 
-### [Bicycle.internal](/_internal/Technology/Transport/Road_Transport/Bicycle.internal.md) 
+### #is_/same_as :: [Bicycle.internal](/_internal/Technology/Transport/Road_Transport/Bicycle.internal.md) 
 
-### [Bicycle.protect](/_protect/Technology/Transport/Road_Transport/Bicycle.protect.md) 
+### #is_/same_as :: [Bicycle.protect](/_protect/Technology/Transport/Road_Transport/Bicycle.protect.md) 
 
-### [Bicycle.private](/_private/Technology/Transport/Road_Transport/Bicycle.private.md) 
+### #is_/same_as :: [Bicycle.private](/_private/Technology/Transport/Road_Transport/Bicycle.private.md) 
 
-### [Bicycle.personal](/_personal/Technology/Transport/Road_Transport/Bicycle.personal.md) 
+### #is_/same_as :: [Bicycle.personal](/_personal/Technology/Transport/Road_Transport/Bicycle.personal.md) 
 
-### [Bicycle.secret](/_secret/Technology/Transport/Road_Transport/Bicycle.secret.md)
+### #is_/same_as :: [Bicycle.secret](/_secret/Technology/Transport/Road_Transport/Bicycle.secret.md)
 

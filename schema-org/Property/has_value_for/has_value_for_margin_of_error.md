@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_margin_of_error](/_Standards/schema-org/Property/has_value_for/has_value_for_margin_of_error.md) 
+### #is_/same_as :: [has_value_for_margin_of_error](/_Standards/schema-org/Property/has_value_for/has_value_for_margin_of_error.md) 
 
-### [has_value_for_margin_of_error.public](/_public/schema-org/Property/has_value_for/has_value_for_margin_of_error.public.md) 
+### #is_/same_as :: [has_value_for_margin_of_error.public](/_public/schema-org/Property/has_value_for/has_value_for_margin_of_error.public.md) 
 
-### [has_value_for_margin_of_error.internal](/_internal/schema-org/Property/has_value_for/has_value_for_margin_of_error.internal.md) 
+### #is_/same_as :: [has_value_for_margin_of_error.internal](/_internal/schema-org/Property/has_value_for/has_value_for_margin_of_error.internal.md) 
 
-### [has_value_for_margin_of_error.protect](/_protect/schema-org/Property/has_value_for/has_value_for_margin_of_error.protect.md) 
+### #is_/same_as :: [has_value_for_margin_of_error.protect](/_protect/schema-org/Property/has_value_for/has_value_for_margin_of_error.protect.md) 
 
-### [has_value_for_margin_of_error.private](/_private/schema-org/Property/has_value_for/has_value_for_margin_of_error.private.md) 
+### #is_/same_as :: [has_value_for_margin_of_error.private](/_private/schema-org/Property/has_value_for/has_value_for_margin_of_error.private.md) 
 
-### [has_value_for_margin_of_error.personal](/_personal/schema-org/Property/has_value_for/has_value_for_margin_of_error.personal.md) 
+### #is_/same_as :: [has_value_for_margin_of_error.personal](/_personal/schema-org/Property/has_value_for/has_value_for_margin_of_error.personal.md) 
 
-### [has_value_for_margin_of_error.secret](/_secret/schema-org/Property/has_value_for/has_value_for_margin_of_error.secret.md)
+### #is_/same_as :: [has_value_for_margin_of_error.secret](/_secret/schema-org/Property/has_value_for/has_value_for_margin_of_error.secret.md)
 

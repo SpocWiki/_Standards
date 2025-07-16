@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broadcaster](/_Standards/schema-org/Relation/has/has_broadcaster.md) 
+### #is_/same_as :: [has_broadcaster](/_Standards/schema-org/Relation/has/has_broadcaster.md) 
 
-### [has_broadcaster.public](/_public/schema-org/Relation/has/has_broadcaster.public.md) 
+### #is_/same_as :: [has_broadcaster.public](/_public/schema-org/Relation/has/has_broadcaster.public.md) 
 
-### [has_broadcaster.internal](/_internal/schema-org/Relation/has/has_broadcaster.internal.md) 
+### #is_/same_as :: [has_broadcaster.internal](/_internal/schema-org/Relation/has/has_broadcaster.internal.md) 
 
-### [has_broadcaster.protect](/_protect/schema-org/Relation/has/has_broadcaster.protect.md) 
+### #is_/same_as :: [has_broadcaster.protect](/_protect/schema-org/Relation/has/has_broadcaster.protect.md) 
 
-### [has_broadcaster.private](/_private/schema-org/Relation/has/has_broadcaster.private.md) 
+### #is_/same_as :: [has_broadcaster.private](/_private/schema-org/Relation/has/has_broadcaster.private.md) 
 
-### [has_broadcaster.personal](/_personal/schema-org/Relation/has/has_broadcaster.personal.md) 
+### #is_/same_as :: [has_broadcaster.personal](/_personal/schema-org/Relation/has/has_broadcaster.personal.md) 
 
-### [has_broadcaster.secret](/_secret/schema-org/Relation/has/has_broadcaster.secret.md)
+### #is_/same_as :: [has_broadcaster.secret](/_secret/schema-org/Relation/has/has_broadcaster.secret.md)
 

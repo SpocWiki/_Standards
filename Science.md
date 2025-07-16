@@ -99,17 +99,17 @@ Library_of_Congress_Classification: Q
 
 ## Confidential Links & Embeds: 
 
-### [Science](/_Standards/Science.md) 
+### #is_/same_as :: [Science](/_Standards/Science.md) 
 
-### [Science.public](/_public/Science.public.md) 
+### #is_/same_as :: [Science.public](/_public/Science.public.md) 
 
-### [Science.internal](/_internal/Science.internal.md) 
+### #is_/same_as :: [Science.internal](/_internal/Science.internal.md) 
 
-### [Science.protect](/_protect/Science.protect.md) 
+### #is_/same_as :: [Science.protect](/_protect/Science.protect.md) 
 
-### [Science.private](/_private/Science.private.md) 
+### #is_/same_as :: [Science.private](/_private/Science.private.md) 
 
-### [Science.personal](/_personal/Science.personal.md) 
+### #is_/same_as :: [Science.personal](/_personal/Science.personal.md) 
 
-### [Science.secret](/_secret/Science.secret.md)
+### #is_/same_as :: [Science.secret](/_secret/Science.secret.md)
 

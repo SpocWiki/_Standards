@@ -60,21 +60,19 @@ Commons_category: "Epic of Gilgamesh"
 > [Wikipedia](https://en.wikipedia.org/wiki/Epic%20of%20Gilgamesh) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Gilgamesh_Epic](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.md) 
+### #is_/same_as :: [Gilgamesh_Epic](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.md) 
 
-### [Gilgamesh_Epic.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.public.md) 
+### #is_/same_as :: [Gilgamesh_Epic.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.public.md) 
 
-### [Gilgamesh_Epic.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.internal.md) 
+### #is_/same_as :: [Gilgamesh_Epic.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.internal.md) 
 
-### [Gilgamesh_Epic.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.protect.md) 
+### #is_/same_as :: [Gilgamesh_Epic.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.protect.md) 
 
-### [Gilgamesh_Epic.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.private.md) 
+### #is_/same_as :: [Gilgamesh_Epic.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.private.md) 
 
-### [Gilgamesh_Epic.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.personal.md) 
+### #is_/same_as :: [Gilgamesh_Epic.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.personal.md) 
 
-### [Gilgamesh_Epic.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.secret.md)
+### #is_/same_as :: [Gilgamesh_Epic.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Gilgamesh_Epic.secret.md)
 

@@ -61,17 +61,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [United_Nations_Observer](/_Standards/International/United_Nations_Observer.md) 
+### #is_/same_as :: [United_Nations_Observer](/_Standards/International/United_Nations_Observer.md) 
 
-### [United_Nations_Observer.public](/_public/International/United_Nations_Observer.public.md) 
+### #is_/same_as :: [United_Nations_Observer.public](/_public/International/United_Nations_Observer.public.md) 
 
-### [United_Nations_Observer.internal](/_internal/International/United_Nations_Observer.internal.md) 
+### #is_/same_as :: [United_Nations_Observer.internal](/_internal/International/United_Nations_Observer.internal.md) 
 
-### [United_Nations_Observer.protect](/_protect/International/United_Nations_Observer.protect.md) 
+### #is_/same_as :: [United_Nations_Observer.protect](/_protect/International/United_Nations_Observer.protect.md) 
 
-### [United_Nations_Observer.private](/_private/International/United_Nations_Observer.private.md) 
+### #is_/same_as :: [United_Nations_Observer.private](/_private/International/United_Nations_Observer.private.md) 
 
-### [United_Nations_Observer.personal](/_personal/International/United_Nations_Observer.personal.md) 
+### #is_/same_as :: [United_Nations_Observer.personal](/_personal/International/United_Nations_Observer.personal.md) 
 
-### [United_Nations_Observer.secret](/_secret/International/United_Nations_Observer.secret.md)
+### #is_/same_as :: [United_Nations_Observer.secret](/_secret/International/United_Nations_Observer.secret.md)
 

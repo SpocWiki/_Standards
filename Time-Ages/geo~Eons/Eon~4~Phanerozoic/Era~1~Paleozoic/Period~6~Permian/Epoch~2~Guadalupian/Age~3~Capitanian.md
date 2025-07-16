@@ -72,17 +72,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~3~Capitanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.md) 
+### #is_/same_as :: [Age~3~Capitanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.md) 
 
-### [Age~3~Capitanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.public.md) 
+### #is_/same_as :: [Age~3~Capitanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.public.md) 
 
-### [Age~3~Capitanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.internal.md) 
+### #is_/same_as :: [Age~3~Capitanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.internal.md) 
 
-### [Age~3~Capitanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.protect.md) 
+### #is_/same_as :: [Age~3~Capitanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.protect.md) 
 
-### [Age~3~Capitanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.private.md) 
+### #is_/same_as :: [Age~3~Capitanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.private.md) 
 
-### [Age~3~Capitanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.personal.md) 
+### #is_/same_as :: [Age~3~Capitanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.personal.md) 
 
-### [Age~3~Capitanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.secret.md)
+### #is_/same_as :: [Age~3~Capitanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.secret.md)
 

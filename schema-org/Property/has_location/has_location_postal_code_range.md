@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_postal_code_range](/_Standards/schema-org/Property/has_location/has_location_postal_code_range.md) 
+### #is_/same_as :: [has_location_postal_code_range](/_Standards/schema-org/Property/has_location/has_location_postal_code_range.md) 
 
-### [has_location_postal_code_range.public](/_public/schema-org/Property/has_location/has_location_postal_code_range.public.md) 
+### #is_/same_as :: [has_location_postal_code_range.public](/_public/schema-org/Property/has_location/has_location_postal_code_range.public.md) 
 
-### [has_location_postal_code_range.internal](/_internal/schema-org/Property/has_location/has_location_postal_code_range.internal.md) 
+### #is_/same_as :: [has_location_postal_code_range.internal](/_internal/schema-org/Property/has_location/has_location_postal_code_range.internal.md) 
 
-### [has_location_postal_code_range.protect](/_protect/schema-org/Property/has_location/has_location_postal_code_range.protect.md) 
+### #is_/same_as :: [has_location_postal_code_range.protect](/_protect/schema-org/Property/has_location/has_location_postal_code_range.protect.md) 
 
-### [has_location_postal_code_range.private](/_private/schema-org/Property/has_location/has_location_postal_code_range.private.md) 
+### #is_/same_as :: [has_location_postal_code_range.private](/_private/schema-org/Property/has_location/has_location_postal_code_range.private.md) 
 
-### [has_location_postal_code_range.personal](/_personal/schema-org/Property/has_location/has_location_postal_code_range.personal.md) 
+### #is_/same_as :: [has_location_postal_code_range.personal](/_personal/schema-org/Property/has_location/has_location_postal_code_range.personal.md) 
 
-### [has_location_postal_code_range.secret](/_secret/schema-org/Property/has_location/has_location_postal_code_range.secret.md)
+### #is_/same_as :: [has_location_postal_code_range.secret](/_secret/schema-org/Property/has_location/has_location_postal_code_range.secret.md)
 

@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_rxcui](/_Standards/schema-org/Property/has_name/has_id_rxcui.md) 
+### #is_/same_as :: [has_id_rxcui](/_Standards/schema-org/Property/has_name/has_id_rxcui.md) 
 
-### [has_id_rxcui.public](/_public/schema-org/Property/has_name/has_id_rxcui.public.md) 
+### #is_/same_as :: [has_id_rxcui.public](/_public/schema-org/Property/has_name/has_id_rxcui.public.md) 
 
-### [has_id_rxcui.internal](/_internal/schema-org/Property/has_name/has_id_rxcui.internal.md) 
+### #is_/same_as :: [has_id_rxcui.internal](/_internal/schema-org/Property/has_name/has_id_rxcui.internal.md) 
 
-### [has_id_rxcui.protect](/_protect/schema-org/Property/has_name/has_id_rxcui.protect.md) 
+### #is_/same_as :: [has_id_rxcui.protect](/_protect/schema-org/Property/has_name/has_id_rxcui.protect.md) 
 
-### [has_id_rxcui.private](/_private/schema-org/Property/has_name/has_id_rxcui.private.md) 
+### #is_/same_as :: [has_id_rxcui.private](/_private/schema-org/Property/has_name/has_id_rxcui.private.md) 
 
-### [has_id_rxcui.personal](/_personal/schema-org/Property/has_name/has_id_rxcui.personal.md) 
+### #is_/same_as :: [has_id_rxcui.personal](/_personal/schema-org/Property/has_name/has_id_rxcui.personal.md) 
 
-### [has_id_rxcui.secret](/_secret/schema-org/Property/has_name/has_id_rxcui.secret.md)
+### #is_/same_as :: [has_id_rxcui.secret](/_secret/schema-org/Property/has_name/has_id_rxcui.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_competency_required](/_Standards/schema-org/Relation/has/has_competency_required.md) 
+### #is_/same_as :: [has_competency_required](/_Standards/schema-org/Relation/has/has_competency_required.md) 
 
-### [has_competency_required.public](/_public/schema-org/Relation/has/has_competency_required.public.md) 
+### #is_/same_as :: [has_competency_required.public](/_public/schema-org/Relation/has/has_competency_required.public.md) 
 
-### [has_competency_required.internal](/_internal/schema-org/Relation/has/has_competency_required.internal.md) 
+### #is_/same_as :: [has_competency_required.internal](/_internal/schema-org/Relation/has/has_competency_required.internal.md) 
 
-### [has_competency_required.protect](/_protect/schema-org/Relation/has/has_competency_required.protect.md) 
+### #is_/same_as :: [has_competency_required.protect](/_protect/schema-org/Relation/has/has_competency_required.protect.md) 
 
-### [has_competency_required.private](/_private/schema-org/Relation/has/has_competency_required.private.md) 
+### #is_/same_as :: [has_competency_required.private](/_private/schema-org/Relation/has/has_competency_required.private.md) 
 
-### [has_competency_required.personal](/_personal/schema-org/Relation/has/has_competency_required.personal.md) 
+### #is_/same_as :: [has_competency_required.personal](/_personal/schema-org/Relation/has/has_competency_required.personal.md) 
 
-### [has_competency_required.secret](/_secret/schema-org/Relation/has/has_competency_required.secret.md)
+### #is_/same_as :: [has_competency_required.secret](/_secret/schema-org/Relation/has/has_competency_required.secret.md)
 

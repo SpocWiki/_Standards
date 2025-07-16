@@ -100,22 +100,19 @@ openings are situated more dorsally than in arandaspids. (After Janvier
 Copyright ::   © 1997 Philippe Janvier
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Astraspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.md) 
+### #is_/same_as :: [Astraspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.md) 
 
-### [Astraspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.public.md) 
+### #is_/same_as :: [Astraspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.public.md) 
 
-### [Astraspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.internal.md) 
+### #is_/same_as :: [Astraspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.internal.md) 
 
-### [Astraspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.protect.md) 
+### #is_/same_as :: [Astraspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.protect.md) 
 
-### [Astraspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.private.md) 
+### #is_/same_as :: [Astraspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.private.md) 
 
-### [Astraspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.personal.md) 
+### #is_/same_as :: [Astraspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.personal.md) 
 
-### [Astraspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.secret.md)
+### #is_/same_as :: [Astraspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.secret.md)
 

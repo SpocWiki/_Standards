@@ -33,21 +33,19 @@ Commons_category: "Electric current"
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20current)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Electric_Current](/_Standards/Science/Physics/Electricity/Electric_Current.md) 
+### #is_/same_as :: [Electric_Current](/_Standards/Science/Physics/Electricity/Electric_Current.md) 
 
-### [Electric_Current.public](/_public/Science/Physics/Electricity/Electric_Current.public.md) 
+### #is_/same_as :: [Electric_Current.public](/_public/Science/Physics/Electricity/Electric_Current.public.md) 
 
-### [Electric_Current.internal](/_internal/Science/Physics/Electricity/Electric_Current.internal.md) 
+### #is_/same_as :: [Electric_Current.internal](/_internal/Science/Physics/Electricity/Electric_Current.internal.md) 
 
-### [Electric_Current.protect](/_protect/Science/Physics/Electricity/Electric_Current.protect.md) 
+### #is_/same_as :: [Electric_Current.protect](/_protect/Science/Physics/Electricity/Electric_Current.protect.md) 
 
-### [Electric_Current.private](/_private/Science/Physics/Electricity/Electric_Current.private.md) 
+### #is_/same_as :: [Electric_Current.private](/_private/Science/Physics/Electricity/Electric_Current.private.md) 
 
-### [Electric_Current.personal](/_personal/Science/Physics/Electricity/Electric_Current.personal.md) 
+### #is_/same_as :: [Electric_Current.personal](/_personal/Science/Physics/Electricity/Electric_Current.personal.md) 
 
-### [Electric_Current.secret](/_secret/Science/Physics/Electricity/Electric_Current.secret.md)
+### #is_/same_as :: [Electric_Current.secret](/_secret/Science/Physics/Electricity/Electric_Current.secret.md)
 

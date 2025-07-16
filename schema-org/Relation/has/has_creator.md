@@ -53,17 +53,17 @@ is_definin
 
 ## Confidential Links & Embeds: 
 
-### [has_creator](/_Standards/schema-org/Relation/has/has_creator.md) 
+### #is_/same_as :: [has_creator](/_Standards/schema-org/Relation/has/has_creator.md) 
 
-### [has_creator.public](/_public/schema-org/Relation/has/has_creator.public.md) 
+### #is_/same_as :: [has_creator.public](/_public/schema-org/Relation/has/has_creator.public.md) 
 
-### [has_creator.internal](/_internal/schema-org/Relation/has/has_creator.internal.md) 
+### #is_/same_as :: [has_creator.internal](/_internal/schema-org/Relation/has/has_creator.internal.md) 
 
-### [has_creator.protect](/_protect/schema-org/Relation/has/has_creator.protect.md) 
+### #is_/same_as :: [has_creator.protect](/_protect/schema-org/Relation/has/has_creator.protect.md) 
 
-### [has_creator.private](/_private/schema-org/Relation/has/has_creator.private.md) 
+### #is_/same_as :: [has_creator.private](/_private/schema-org/Relation/has/has_creator.private.md) 
 
-### [has_creator.personal](/_personal/schema-org/Relation/has/has_creator.personal.md) 
+### #is_/same_as :: [has_creator.personal](/_personal/schema-org/Relation/has/has_creator.personal.md) 
 
-### [has_creator.secret](/_secret/schema-org/Relation/has/has_creator.secret.md)
+### #is_/same_as :: [has_creator.secret](/_secret/schema-org/Relation/has/has_creator.secret.md)
 

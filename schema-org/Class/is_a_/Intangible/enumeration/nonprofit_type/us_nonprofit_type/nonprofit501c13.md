@@ -49,17 +49,17 @@ Nonprofit501c13: Non-profit type referring to Cemetery Companies.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c13](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.md) 
+### #is_/same_as :: [nonprofit501c13](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.md) 
 
-### [nonprofit501c13.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.public.md) 
+### #is_/same_as :: [nonprofit501c13.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.public.md) 
 
-### [nonprofit501c13.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.internal.md) 
+### #is_/same_as :: [nonprofit501c13.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.internal.md) 
 
-### [nonprofit501c13.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.protect.md) 
+### #is_/same_as :: [nonprofit501c13.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.protect.md) 
 
-### [nonprofit501c13.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.private.md) 
+### #is_/same_as :: [nonprofit501c13.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.private.md) 
 
-### [nonprofit501c13.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.personal.md) 
+### #is_/same_as :: [nonprofit501c13.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.personal.md) 
 
-### [nonprofit501c13.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.secret.md)
+### #is_/same_as :: [nonprofit501c13.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c13.secret.md)
 

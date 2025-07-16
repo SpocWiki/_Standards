@@ -67,17 +67,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~3~Artinskian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.md) 
+### #is_/same_as :: [Age~3~Artinskian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.md) 
 
-### [Age~3~Artinskian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.public.md) 
+### #is_/same_as :: [Age~3~Artinskian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.public.md) 
 
-### [Age~3~Artinskian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.internal.md) 
+### #is_/same_as :: [Age~3~Artinskian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.internal.md) 
 
-### [Age~3~Artinskian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.protect.md) 
+### #is_/same_as :: [Age~3~Artinskian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.protect.md) 
 
-### [Age~3~Artinskian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.private.md) 
+### #is_/same_as :: [Age~3~Artinskian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.private.md) 
 
-### [Age~3~Artinskian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.personal.md) 
+### #is_/same_as :: [Age~3~Artinskian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.personal.md) 
 
-### [Age~3~Artinskian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.secret.md)
+### #is_/same_as :: [Age~3~Artinskian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.secret.md)
 

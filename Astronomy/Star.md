@@ -69,6 +69,8 @@ P8979: Q10884
 Commons_category: Stars
 ---
 
+# [[Star]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Star** is a luminous spheroid of plasma held together by self-gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night; their immense distances from Earth make them appear as fixed points of light. The most prominent stars have been categorised into constellations and asterisms, and many of the brightest stars have proper names. Astronomers have assembled star catalogues that identify the known stars and provide standardized stellar designations. The observable universe contains an estimated 1022 to 1024 stars. Only about 4,000 of these stars are visible to the naked eye—all within the Milky Way galaxy.
@@ -84,17 +86,17 @@ Commons_category: Stars
 
 ## Confidential Links & Embeds: 
 
-### [Star](/_Standards/Astronomy/Star.md) 
+### #is_/same_as :: [Star](/_Standards/Astronomy/Star.md) 
 
-### [Star.public](/_public/Astronomy/Star.public.md) 
+### #is_/same_as :: [Star.public](/_public/Astronomy/Star.public.md) 
 
-### [Star.internal](/_internal/Astronomy/Star.internal.md) 
+### #is_/same_as :: [Star.internal](/_internal/Astronomy/Star.internal.md) 
 
-### [Star.protect](/_protect/Astronomy/Star.protect.md) 
+### #is_/same_as :: [Star.protect](/_protect/Astronomy/Star.protect.md) 
 
-### [Star.private](/_private/Astronomy/Star.private.md) 
+### #is_/same_as :: [Star.private](/_private/Astronomy/Star.private.md) 
 
-### [Star.personal](/_personal/Astronomy/Star.personal.md) 
+### #is_/same_as :: [Star.personal](/_personal/Astronomy/Star.personal.md) 
 
-### [Star.secret](/_secret/Astronomy/Star.secret.md)
+### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
 

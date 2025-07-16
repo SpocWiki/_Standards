@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_price_range](/_Standards/schema-org/Property/Texts/has_price_range.md) 
+### #is_/same_as :: [has_price_range](/_Standards/schema-org/Property/Texts/has_price_range.md) 
 
-### [has_price_range.public](/_public/schema-org/Property/Texts/has_price_range.public.md) 
+### #is_/same_as :: [has_price_range.public](/_public/schema-org/Property/Texts/has_price_range.public.md) 
 
-### [has_price_range.internal](/_internal/schema-org/Property/Texts/has_price_range.internal.md) 
+### #is_/same_as :: [has_price_range.internal](/_internal/schema-org/Property/Texts/has_price_range.internal.md) 
 
-### [has_price_range.protect](/_protect/schema-org/Property/Texts/has_price_range.protect.md) 
+### #is_/same_as :: [has_price_range.protect](/_protect/schema-org/Property/Texts/has_price_range.protect.md) 
 
-### [has_price_range.private](/_private/schema-org/Property/Texts/has_price_range.private.md) 
+### #is_/same_as :: [has_price_range.private](/_private/schema-org/Property/Texts/has_price_range.private.md) 
 
-### [has_price_range.personal](/_personal/schema-org/Property/Texts/has_price_range.personal.md) 
+### #is_/same_as :: [has_price_range.personal](/_personal/schema-org/Property/Texts/has_price_range.personal.md) 
 
-### [has_price_range.secret](/_secret/schema-org/Property/Texts/has_price_range.secret.md)
+### #is_/same_as :: [has_price_range.secret](/_secret/schema-org/Property/Texts/has_price_range.secret.md)
 

@@ -47,17 +47,17 @@ A single episode of a podcast series.
 
 ## Confidential Links & Embeds: 
 
-### [podcast_episode](/_Standards/schema-org/Class/is_a_/creative_work/episode/podcast_episode.md) 
+### #is_/same_as :: [podcast_episode](/_Standards/schema-org/Class/is_a_/creative_work/episode/podcast_episode.md) 
 
-### [podcast_episode.public](/_public/schema-org/Class/is_a_/creative_work/episode/podcast_episode.public.md) 
+### #is_/same_as :: [podcast_episode.public](/_public/schema-org/Class/is_a_/creative_work/episode/podcast_episode.public.md) 
 
-### [podcast_episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode/podcast_episode.internal.md) 
+### #is_/same_as :: [podcast_episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode/podcast_episode.internal.md) 
 
-### [podcast_episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode/podcast_episode.protect.md) 
+### #is_/same_as :: [podcast_episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode/podcast_episode.protect.md) 
 
-### [podcast_episode.private](/_private/schema-org/Class/is_a_/creative_work/episode/podcast_episode.private.md) 
+### #is_/same_as :: [podcast_episode.private](/_private/schema-org/Class/is_a_/creative_work/episode/podcast_episode.private.md) 
 
-### [podcast_episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode/podcast_episode.personal.md) 
+### #is_/same_as :: [podcast_episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode/podcast_episode.personal.md) 
 
-### [podcast_episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode/podcast_episode.secret.md)
+### #is_/same_as :: [podcast_episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode/podcast_episode.secret.md)
 

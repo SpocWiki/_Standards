@@ -269,21 +269,19 @@ date_of_birth: "1904-05-11"
 > [Wikipedia](https://en.wikipedia.org/wiki/Salvador%20Dal%C3%AD)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dalí,Salvador](/_Standards/bio/People/Painter/Dalí,Salvador.md) 
+### #is_/same_as :: [Dalí,Salvador](/_Standards/bio/People/Painter/Dalí,Salvador.md) 
 
-### [Dalí,Salvador.public](/_public/bio/People/Painter/Dalí,Salvador.public.md) 
+### #is_/same_as :: [Dalí,Salvador.public](/_public/bio/People/Painter/Dalí,Salvador.public.md) 
 
-### [Dalí,Salvador.internal](/_internal/bio/People/Painter/Dalí,Salvador.internal.md) 
+### #is_/same_as :: [Dalí,Salvador.internal](/_internal/bio/People/Painter/Dalí,Salvador.internal.md) 
 
-### [Dalí,Salvador.protect](/_protect/bio/People/Painter/Dalí,Salvador.protect.md) 
+### #is_/same_as :: [Dalí,Salvador.protect](/_protect/bio/People/Painter/Dalí,Salvador.protect.md) 
 
-### [Dalí,Salvador.private](/_private/bio/People/Painter/Dalí,Salvador.private.md) 
+### #is_/same_as :: [Dalí,Salvador.private](/_private/bio/People/Painter/Dalí,Salvador.private.md) 
 
-### [Dalí,Salvador.personal](/_personal/bio/People/Painter/Dalí,Salvador.personal.md) 
+### #is_/same_as :: [Dalí,Salvador.personal](/_personal/bio/People/Painter/Dalí,Salvador.personal.md) 
 
-### [Dalí,Salvador.secret](/_secret/bio/People/Painter/Dalí,Salvador.secret.md)
+### #is_/same_as :: [Dalí,Salvador.secret](/_secret/bio/People/Painter/Dalí,Salvador.secret.md)
 

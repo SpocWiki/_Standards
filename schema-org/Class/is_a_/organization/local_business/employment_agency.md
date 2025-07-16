@@ -45,17 +45,17 @@ An employment agency.
 
 ## Confidential Links & Embeds: 
 
-### [employment_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/employment_agency.md) 
+### #is_/same_as :: [employment_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/employment_agency.md) 
 
-### [employment_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/employment_agency.public.md) 
+### #is_/same_as :: [employment_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/employment_agency.public.md) 
 
-### [employment_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/employment_agency.internal.md) 
+### #is_/same_as :: [employment_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/employment_agency.internal.md) 
 
-### [employment_agency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/employment_agency.protect.md) 
+### #is_/same_as :: [employment_agency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/employment_agency.protect.md) 
 
-### [employment_agency.private](/_private/schema-org/Class/is_a_/organization/local_business/employment_agency.private.md) 
+### #is_/same_as :: [employment_agency.private](/_private/schema-org/Class/is_a_/organization/local_business/employment_agency.private.md) 
 
-### [employment_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/employment_agency.personal.md) 
+### #is_/same_as :: [employment_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/employment_agency.personal.md) 
 
-### [employment_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/employment_agency.secret.md)
+### #is_/same_as :: [employment_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/employment_agency.secret.md)
 

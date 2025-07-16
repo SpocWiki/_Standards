@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_performer](/_Standards/schema-org/Relation/has/has_performer.md) 
+### #is_/same_as :: [has_performer](/_Standards/schema-org/Relation/has/has_performer.md) 
 
-### [has_performer.public](/_public/schema-org/Relation/has/has_performer.public.md) 
+### #is_/same_as :: [has_performer.public](/_public/schema-org/Relation/has/has_performer.public.md) 
 
-### [has_performer.internal](/_internal/schema-org/Relation/has/has_performer.internal.md) 
+### #is_/same_as :: [has_performer.internal](/_internal/schema-org/Relation/has/has_performer.internal.md) 
 
-### [has_performer.protect](/_protect/schema-org/Relation/has/has_performer.protect.md) 
+### #is_/same_as :: [has_performer.protect](/_protect/schema-org/Relation/has/has_performer.protect.md) 
 
-### [has_performer.private](/_private/schema-org/Relation/has/has_performer.private.md) 
+### #is_/same_as :: [has_performer.private](/_private/schema-org/Relation/has/has_performer.private.md) 
 
-### [has_performer.personal](/_personal/schema-org/Relation/has/has_performer.personal.md) 
+### #is_/same_as :: [has_performer.personal](/_personal/schema-org/Relation/has/has_performer.personal.md) 
 
-### [has_performer.secret](/_secret/schema-org/Relation/has/has_performer.secret.md)
+### #is_/same_as :: [has_performer.secret](/_secret/schema-org/Relation/has/has_performer.secret.md)
 

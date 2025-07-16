@@ -48,17 +48,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_term](/_Standards/schema-org/Property/has_duration_of/has_duration_of_term.md) 
+### #is_/same_as :: [has_duration_of_term](/_Standards/schema-org/Property/has_duration_of/has_duration_of_term.md) 
 
-### [has_duration_of_term.public](/_public/schema-org/Property/has_duration_of/has_duration_of_term.public.md) 
+### #is_/same_as :: [has_duration_of_term.public](/_public/schema-org/Property/has_duration_of/has_duration_of_term.public.md) 
 
-### [has_duration_of_term.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_term.internal.md) 
+### #is_/same_as :: [has_duration_of_term.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_term.internal.md) 
 
-### [has_duration_of_term.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_term.protect.md) 
+### #is_/same_as :: [has_duration_of_term.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_term.protect.md) 
 
-### [has_duration_of_term.private](/_private/schema-org/Property/has_duration_of/has_duration_of_term.private.md) 
+### #is_/same_as :: [has_duration_of_term.private](/_private/schema-org/Property/has_duration_of/has_duration_of_term.private.md) 
 
-### [has_duration_of_term.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_term.personal.md) 
+### #is_/same_as :: [has_duration_of_term.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_term.personal.md) 
 
-### [has_duration_of_term.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_term.secret.md)
+### #is_/same_as :: [has_duration_of_term.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_term.secret.md)
 

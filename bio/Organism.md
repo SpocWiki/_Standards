@@ -74,17 +74,17 @@ Commons_category: Organisms
 
 ## Confidential Links & Embeds: 
 
-### [Organism](/_Standards/bio/Organism.md) 
+### #is_/same_as :: [Organism](/_Standards/bio/Organism.md) 
 
-### [Organism.public](/_public/bio/Organism.public.md) 
+### #is_/same_as :: [Organism.public](/_public/bio/Organism.public.md) 
 
-### [Organism.internal](/_internal/bio/Organism.internal.md) 
+### #is_/same_as :: [Organism.internal](/_internal/bio/Organism.internal.md) 
 
-### [Organism.protect](/_protect/bio/Organism.protect.md) 
+### #is_/same_as :: [Organism.protect](/_protect/bio/Organism.protect.md) 
 
-### [Organism.private](/_private/bio/Organism.private.md) 
+### #is_/same_as :: [Organism.private](/_private/bio/Organism.private.md) 
 
-### [Organism.personal](/_personal/bio/Organism.personal.md) 
+### #is_/same_as :: [Organism.personal](/_personal/bio/Organism.personal.md) 
 
-### [Organism.secret](/_secret/bio/Organism.secret.md)
+### #is_/same_as :: [Organism.secret](/_secret/bio/Organism.secret.md)
 

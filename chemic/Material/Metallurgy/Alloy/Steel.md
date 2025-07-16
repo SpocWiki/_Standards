@@ -67,17 +67,17 @@ CPV_Supplementary_code: AA11
 
 ## Confidential Links & Embeds: 
 
-### [Steel](/_Standards/chemic/Material/Metallurgy/Alloy/Steel.md) 
+### #is_/same_as :: [Steel](/_Standards/chemic/Material/Metallurgy/Alloy/Steel.md) 
 
-### [Steel.public](/_public/chemic/Material/Metallurgy/Alloy/Steel.public.md) 
+### #is_/same_as :: [Steel.public](/_public/chemic/Material/Metallurgy/Alloy/Steel.public.md) 
 
-### [Steel.internal](/_internal/chemic/Material/Metallurgy/Alloy/Steel.internal.md) 
+### #is_/same_as :: [Steel.internal](/_internal/chemic/Material/Metallurgy/Alloy/Steel.internal.md) 
 
-### [Steel.protect](/_protect/chemic/Material/Metallurgy/Alloy/Steel.protect.md) 
+### #is_/same_as :: [Steel.protect](/_protect/chemic/Material/Metallurgy/Alloy/Steel.protect.md) 
 
-### [Steel.private](/_private/chemic/Material/Metallurgy/Alloy/Steel.private.md) 
+### #is_/same_as :: [Steel.private](/_private/chemic/Material/Metallurgy/Alloy/Steel.private.md) 
 
-### [Steel.personal](/_personal/chemic/Material/Metallurgy/Alloy/Steel.personal.md) 
+### #is_/same_as :: [Steel.personal](/_personal/chemic/Material/Metallurgy/Alloy/Steel.personal.md) 
 
-### [Steel.secret](/_secret/chemic/Material/Metallurgy/Alloy/Steel.secret.md)
+### #is_/same_as :: [Steel.secret](/_secret/chemic/Material/Metallurgy/Alloy/Steel.secret.md)
 

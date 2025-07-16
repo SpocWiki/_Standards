@@ -45,17 +45,17 @@ A painting.
 
 ## Confidential Links & Embeds: 
 
-### [painting](/_Standards/schema-org/Class/is_a_/creative_work/painting.md) 
+### #is_/same_as :: [painting](/_Standards/schema-org/Class/is_a_/creative_work/painting.md) 
 
-### [painting.public](/_public/schema-org/Class/is_a_/creative_work/painting.public.md) 
+### #is_/same_as :: [painting.public](/_public/schema-org/Class/is_a_/creative_work/painting.public.md) 
 
-### [painting.internal](/_internal/schema-org/Class/is_a_/creative_work/painting.internal.md) 
+### #is_/same_as :: [painting.internal](/_internal/schema-org/Class/is_a_/creative_work/painting.internal.md) 
 
-### [painting.protect](/_protect/schema-org/Class/is_a_/creative_work/painting.protect.md) 
+### #is_/same_as :: [painting.protect](/_protect/schema-org/Class/is_a_/creative_work/painting.protect.md) 
 
-### [painting.private](/_private/schema-org/Class/is_a_/creative_work/painting.private.md) 
+### #is_/same_as :: [painting.private](/_private/schema-org/Class/is_a_/creative_work/painting.private.md) 
 
-### [painting.personal](/_personal/schema-org/Class/is_a_/creative_work/painting.personal.md) 
+### #is_/same_as :: [painting.personal](/_personal/schema-org/Class/is_a_/creative_work/painting.personal.md) 
 
-### [painting.secret](/_secret/schema-org/Class/is_a_/creative_work/painting.secret.md)
+### #is_/same_as :: [painting.secret](/_secret/schema-org/Class/is_a_/creative_work/painting.secret.md)
 

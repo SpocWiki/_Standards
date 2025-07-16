@@ -86,17 +86,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_main_entity_of_page](/_Standards/schema-org/Relation/is/is_main_entity_of_page.md) 
+### #is_/same_as :: [is_main_entity_of_page](/_Standards/schema-org/Relation/is/is_main_entity_of_page.md) 
 
-### [is_main_entity_of_page.public](/_public/schema-org/Relation/is/is_main_entity_of_page.public.md) 
+### #is_/same_as :: [is_main_entity_of_page.public](/_public/schema-org/Relation/is/is_main_entity_of_page.public.md) 
 
-### [is_main_entity_of_page.internal](/_internal/schema-org/Relation/is/is_main_entity_of_page.internal.md) 
+### #is_/same_as :: [is_main_entity_of_page.internal](/_internal/schema-org/Relation/is/is_main_entity_of_page.internal.md) 
 
-### [is_main_entity_of_page.protect](/_protect/schema-org/Relation/is/is_main_entity_of_page.protect.md) 
+### #is_/same_as :: [is_main_entity_of_page.protect](/_protect/schema-org/Relation/is/is_main_entity_of_page.protect.md) 
 
-### [is_main_entity_of_page.private](/_private/schema-org/Relation/is/is_main_entity_of_page.private.md) 
+### #is_/same_as :: [is_main_entity_of_page.private](/_private/schema-org/Relation/is/is_main_entity_of_page.private.md) 
 
-### [is_main_entity_of_page.personal](/_personal/schema-org/Relation/is/is_main_entity_of_page.personal.md) 
+### #is_/same_as :: [is_main_entity_of_page.personal](/_personal/schema-org/Relation/is/is_main_entity_of_page.personal.md) 
 
-### [is_main_entity_of_page.secret](/_secret/schema-org/Relation/is/is_main_entity_of_page.secret.md)
+### #is_/same_as :: [is_main_entity_of_page.secret](/_secret/schema-org/Relation/is/is_main_entity_of_page.secret.md)
 

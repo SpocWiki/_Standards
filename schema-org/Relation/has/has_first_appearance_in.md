@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_first_appearance_in](/_Standards/schema-org/Relation/has/has_first_appearance_in.md) 
+### #is_/same_as :: [has_first_appearance_in](/_Standards/schema-org/Relation/has/has_first_appearance_in.md) 
 
-### [has_first_appearance_in.public](/_public/schema-org/Relation/has/has_first_appearance_in.public.md) 
+### #is_/same_as :: [has_first_appearance_in.public](/_public/schema-org/Relation/has/has_first_appearance_in.public.md) 
 
-### [has_first_appearance_in.internal](/_internal/schema-org/Relation/has/has_first_appearance_in.internal.md) 
+### #is_/same_as :: [has_first_appearance_in.internal](/_internal/schema-org/Relation/has/has_first_appearance_in.internal.md) 
 
-### [has_first_appearance_in.protect](/_protect/schema-org/Relation/has/has_first_appearance_in.protect.md) 
+### #is_/same_as :: [has_first_appearance_in.protect](/_protect/schema-org/Relation/has/has_first_appearance_in.protect.md) 
 
-### [has_first_appearance_in.private](/_private/schema-org/Relation/has/has_first_appearance_in.private.md) 
+### #is_/same_as :: [has_first_appearance_in.private](/_private/schema-org/Relation/has/has_first_appearance_in.private.md) 
 
-### [has_first_appearance_in.personal](/_personal/schema-org/Relation/has/has_first_appearance_in.personal.md) 
+### #is_/same_as :: [has_first_appearance_in.personal](/_personal/schema-org/Relation/has/has_first_appearance_in.personal.md) 
 
-### [has_first_appearance_in.secret](/_secret/schema-org/Relation/has/has_first_appearance_in.secret.md)
+### #is_/same_as :: [has_first_appearance_in.secret](/_secret/schema-org/Relation/has/has_first_appearance_in.secret.md)
 

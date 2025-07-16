@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_alcohol_warning](/_Standards/schema-org/Property/Texts/has_alcohol_warning.md) 
+### #is_/same_as :: [has_alcohol_warning](/_Standards/schema-org/Property/Texts/has_alcohol_warning.md) 
 
-### [has_alcohol_warning.public](/_public/schema-org/Property/Texts/has_alcohol_warning.public.md) 
+### #is_/same_as :: [has_alcohol_warning.public](/_public/schema-org/Property/Texts/has_alcohol_warning.public.md) 
 
-### [has_alcohol_warning.internal](/_internal/schema-org/Property/Texts/has_alcohol_warning.internal.md) 
+### #is_/same_as :: [has_alcohol_warning.internal](/_internal/schema-org/Property/Texts/has_alcohol_warning.internal.md) 
 
-### [has_alcohol_warning.protect](/_protect/schema-org/Property/Texts/has_alcohol_warning.protect.md) 
+### #is_/same_as :: [has_alcohol_warning.protect](/_protect/schema-org/Property/Texts/has_alcohol_warning.protect.md) 
 
-### [has_alcohol_warning.private](/_private/schema-org/Property/Texts/has_alcohol_warning.private.md) 
+### #is_/same_as :: [has_alcohol_warning.private](/_private/schema-org/Property/Texts/has_alcohol_warning.private.md) 
 
-### [has_alcohol_warning.personal](/_personal/schema-org/Property/Texts/has_alcohol_warning.personal.md) 
+### #is_/same_as :: [has_alcohol_warning.personal](/_personal/schema-org/Property/Texts/has_alcohol_warning.personal.md) 
 
-### [has_alcohol_warning.secret](/_secret/schema-org/Property/Texts/has_alcohol_warning.secret.md)
+### #is_/same_as :: [has_alcohol_warning.secret](/_secret/schema-org/Property/Texts/has_alcohol_warning.secret.md)
 

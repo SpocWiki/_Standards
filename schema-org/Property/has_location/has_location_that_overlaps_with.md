@@ -50,17 +50,17 @@ but these are too granular and create unnecessary Redundancy.
 
 ## Confidential Links & Embeds: 
 
-### [has_location_that_overlaps_with](/_Standards/schema-org/Property/has_location/has_location_that_overlaps_with.md) 
+### #is_/same_as :: [has_location_that_overlaps_with](/_Standards/schema-org/Property/has_location/has_location_that_overlaps_with.md) 
 
-### [has_location_that_overlaps_with.public](/_public/schema-org/Property/has_location/has_location_that_overlaps_with.public.md) 
+### #is_/same_as :: [has_location_that_overlaps_with.public](/_public/schema-org/Property/has_location/has_location_that_overlaps_with.public.md) 
 
-### [has_location_that_overlaps_with.internal](/_internal/schema-org/Property/has_location/has_location_that_overlaps_with.internal.md) 
+### #is_/same_as :: [has_location_that_overlaps_with.internal](/_internal/schema-org/Property/has_location/has_location_that_overlaps_with.internal.md) 
 
-### [has_location_that_overlaps_with.protect](/_protect/schema-org/Property/has_location/has_location_that_overlaps_with.protect.md) 
+### #is_/same_as :: [has_location_that_overlaps_with.protect](/_protect/schema-org/Property/has_location/has_location_that_overlaps_with.protect.md) 
 
-### [has_location_that_overlaps_with.private](/_private/schema-org/Property/has_location/has_location_that_overlaps_with.private.md) 
+### #is_/same_as :: [has_location_that_overlaps_with.private](/_private/schema-org/Property/has_location/has_location_that_overlaps_with.private.md) 
 
-### [has_location_that_overlaps_with.personal](/_personal/schema-org/Property/has_location/has_location_that_overlaps_with.personal.md) 
+### #is_/same_as :: [has_location_that_overlaps_with.personal](/_personal/schema-org/Property/has_location/has_location_that_overlaps_with.personal.md) 
 
-### [has_location_that_overlaps_with.secret](/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret.md)
+### #is_/same_as :: [has_location_that_overlaps_with.secret](/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret.md)
 

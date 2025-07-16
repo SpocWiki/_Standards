@@ -45,17 +45,17 @@ A music video file.
 
 ## Confidential Links & Embeds: 
 
-### [music_video_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object/music_video_object.md) 
+### #is_/same_as :: [music_video_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object/music_video_object.md) 
 
-### [music_video_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/music_video_object.public.md) 
+### #is_/same_as :: [music_video_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/music_video_object.public.md) 
 
-### [music_video_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/music_video_object.internal.md) 
+### #is_/same_as :: [music_video_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/music_video_object.internal.md) 
 
-### [music_video_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/music_video_object.protect.md) 
+### #is_/same_as :: [music_video_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/music_video_object.protect.md) 
 
-### [music_video_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/music_video_object.private.md) 
+### #is_/same_as :: [music_video_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/music_video_object.private.md) 
 
-### [music_video_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/music_video_object.personal.md) 
+### #is_/same_as :: [music_video_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/music_video_object.personal.md) 
 
-### [music_video_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/music_video_object.secret.md)
+### #is_/same_as :: [music_video_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/music_video_object.secret.md)
 

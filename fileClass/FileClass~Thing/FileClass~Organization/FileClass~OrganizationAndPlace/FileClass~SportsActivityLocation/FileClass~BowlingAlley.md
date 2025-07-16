@@ -35,17 +35,17 @@ A bowling alley.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BowlingAlley](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.md) 
+### #is_/same_as :: [FileClass~BowlingAlley](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.md) 
 
-### [FileClass~BowlingAlley.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.public.md) 
+### #is_/same_as :: [FileClass~BowlingAlley.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.public.md) 
 
-### [FileClass~BowlingAlley.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.internal.md) 
+### #is_/same_as :: [FileClass~BowlingAlley.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.internal.md) 
 
-### [FileClass~BowlingAlley.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.protect.md) 
+### #is_/same_as :: [FileClass~BowlingAlley.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.protect.md) 
 
-### [FileClass~BowlingAlley.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.private.md) 
+### #is_/same_as :: [FileClass~BowlingAlley.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.private.md) 
 
-### [FileClass~BowlingAlley.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.personal.md) 
+### #is_/same_as :: [FileClass~BowlingAlley.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.personal.md) 
 
-### [FileClass~BowlingAlley.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.secret.md)
+### #is_/same_as :: [FileClass~BowlingAlley.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.secret.md)
 

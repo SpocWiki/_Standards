@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_available_through](/_Standards/schema-org/Property/has_Date_Time/has_time_available_through.md) 
+### #is_/same_as :: [has_time_available_through](/_Standards/schema-org/Property/has_Date_Time/has_time_available_through.md) 
 
-### [has_time_available_through.public](/_public/schema-org/Property/has_Date_Time/has_time_available_through.public.md) 
+### #is_/same_as :: [has_time_available_through.public](/_public/schema-org/Property/has_Date_Time/has_time_available_through.public.md) 
 
-### [has_time_available_through.internal](/_internal/schema-org/Property/has_Date_Time/has_time_available_through.internal.md) 
+### #is_/same_as :: [has_time_available_through.internal](/_internal/schema-org/Property/has_Date_Time/has_time_available_through.internal.md) 
 
-### [has_time_available_through.protect](/_protect/schema-org/Property/has_Date_Time/has_time_available_through.protect.md) 
+### #is_/same_as :: [has_time_available_through.protect](/_protect/schema-org/Property/has_Date_Time/has_time_available_through.protect.md) 
 
-### [has_time_available_through.private](/_private/schema-org/Property/has_Date_Time/has_time_available_through.private.md) 
+### #is_/same_as :: [has_time_available_through.private](/_private/schema-org/Property/has_Date_Time/has_time_available_through.private.md) 
 
-### [has_time_available_through.personal](/_personal/schema-org/Property/has_Date_Time/has_time_available_through.personal.md) 
+### #is_/same_as :: [has_time_available_through.personal](/_personal/schema-org/Property/has_Date_Time/has_time_available_through.personal.md) 
 
-### [has_time_available_through.secret](/_secret/schema-org/Property/has_Date_Time/has_time_available_through.secret.md)
+### #is_/same_as :: [has_time_available_through.secret](/_secret/schema-org/Property/has_Date_Time/has_time_available_through.secret.md)
 

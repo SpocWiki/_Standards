@@ -49,17 +49,17 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-ps](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.md) 
+### #is_/same_as :: [Lang-ps](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.md) 
 
-### [Lang-ps.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.public.md) 
+### #is_/same_as :: [Lang-ps.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.public.md) 
 
-### [Lang-ps.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.internal.md) 
+### #is_/same_as :: [Lang-ps.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.internal.md) 
 
-### [Lang-ps.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.protect.md) 
+### #is_/same_as :: [Lang-ps.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.protect.md) 
 
-### [Lang-ps.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.private.md) 
+### #is_/same_as :: [Lang-ps.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.private.md) 
 
-### [Lang-ps.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.personal.md) 
+### #is_/same_as :: [Lang-ps.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.personal.md) 
 
-### [Lang-ps.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.secret.md)
+### #is_/same_as :: [Lang-ps.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.secret.md)
 

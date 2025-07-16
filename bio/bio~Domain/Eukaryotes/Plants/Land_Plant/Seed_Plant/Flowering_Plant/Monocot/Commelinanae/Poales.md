@@ -7,21 +7,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Poales) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Poales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.md) 
+### #is_/same_as :: [Poales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.md) 
 
-### [Poales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.public.md) 
+### #is_/same_as :: [Poales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.public.md) 
 
-### [Poales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.internal.md) 
+### #is_/same_as :: [Poales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.internal.md) 
 
-### [Poales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.protect.md) 
+### #is_/same_as :: [Poales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.protect.md) 
 
-### [Poales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.private.md) 
+### #is_/same_as :: [Poales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.private.md) 
 
-### [Poales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.personal.md) 
+### #is_/same_as :: [Poales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.personal.md) 
 
-### [Poales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.secret.md)
+### #is_/same_as :: [Poales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales.secret.md)
 

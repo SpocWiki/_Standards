@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_disambiguating_description](/_Standards/schema-org/Property/Texts/has_disambiguating_description.md) 
+### #is_/same_as :: [has_disambiguating_description](/_Standards/schema-org/Property/Texts/has_disambiguating_description.md) 
 
-### [has_disambiguating_description.public](/_public/schema-org/Property/Texts/has_disambiguating_description.public.md) 
+### #is_/same_as :: [has_disambiguating_description.public](/_public/schema-org/Property/Texts/has_disambiguating_description.public.md) 
 
-### [has_disambiguating_description.internal](/_internal/schema-org/Property/Texts/has_disambiguating_description.internal.md) 
+### #is_/same_as :: [has_disambiguating_description.internal](/_internal/schema-org/Property/Texts/has_disambiguating_description.internal.md) 
 
-### [has_disambiguating_description.protect](/_protect/schema-org/Property/Texts/has_disambiguating_description.protect.md) 
+### #is_/same_as :: [has_disambiguating_description.protect](/_protect/schema-org/Property/Texts/has_disambiguating_description.protect.md) 
 
-### [has_disambiguating_description.private](/_private/schema-org/Property/Texts/has_disambiguating_description.private.md) 
+### #is_/same_as :: [has_disambiguating_description.private](/_private/schema-org/Property/Texts/has_disambiguating_description.private.md) 
 
-### [has_disambiguating_description.personal](/_personal/schema-org/Property/Texts/has_disambiguating_description.personal.md) 
+### #is_/same_as :: [has_disambiguating_description.personal](/_personal/schema-org/Property/Texts/has_disambiguating_description.personal.md) 
 
-### [has_disambiguating_description.secret](/_secret/schema-org/Property/Texts/has_disambiguating_description.secret.md)
+### #is_/same_as :: [has_disambiguating_description.secret](/_secret/schema-org/Property/Texts/has_disambiguating_description.secret.md)
 

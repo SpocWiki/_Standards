@@ -127,17 +127,17 @@ SpocWebEntityId: 21923
 
 ## Confidential Links & Embeds: 
 
-### [Vanadium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.md) 
+### #is_/same_as :: [Vanadium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.md) 
 
-### [Vanadium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.public.md) 
+### #is_/same_as :: [Vanadium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.public.md) 
 
-### [Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.internal.md) 
+### #is_/same_as :: [Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.internal.md) 
 
-### [Vanadium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.protect.md) 
+### #is_/same_as :: [Vanadium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.protect.md) 
 
-### [Vanadium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.private.md) 
+### #is_/same_as :: [Vanadium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.private.md) 
 
-### [Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.personal.md) 
+### #is_/same_as :: [Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.personal.md) 
 
-### [Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.secret.md)
+### #is_/same_as :: [Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.secret.md)
 

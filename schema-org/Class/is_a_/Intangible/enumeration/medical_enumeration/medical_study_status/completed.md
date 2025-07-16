@@ -47,17 +47,17 @@ Completed.
 
 ## Confidential Links & Embeds: 
 
-### [completed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.md) 
+### #is_/same_as :: [completed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.md) 
 
-### [completed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.public.md) 
+### #is_/same_as :: [completed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.public.md) 
 
-### [completed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.internal.md) 
+### #is_/same_as :: [completed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.internal.md) 
 
-### [completed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.protect.md) 
+### #is_/same_as :: [completed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.protect.md) 
 
-### [completed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.private.md) 
+### #is_/same_as :: [completed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.private.md) 
 
-### [completed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.personal.md) 
+### #is_/same_as :: [completed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.personal.md) 
 
-### [completed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.secret.md)
+### #is_/same_as :: [completed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/completed.secret.md)
 

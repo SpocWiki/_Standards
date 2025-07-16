@@ -484,17 +484,17 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
 
 ## Confidential Links & Embeds: 
 
-### [Agaricomycotina](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.md) 
+### #is_/same_as :: [Agaricomycotina](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.md) 
 
-### [Agaricomycotina.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.public.md) 
+### #is_/same_as :: [Agaricomycotina.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.public.md) 
 
-### [Agaricomycotina.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.internal.md) 
+### #is_/same_as :: [Agaricomycotina.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.internal.md) 
 
-### [Agaricomycotina.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.protect.md) 
+### #is_/same_as :: [Agaricomycotina.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.protect.md) 
 
-### [Agaricomycotina.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.private.md) 
+### #is_/same_as :: [Agaricomycotina.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.private.md) 
 
-### [Agaricomycotina.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.personal.md) 
+### #is_/same_as :: [Agaricomycotina.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.personal.md) 
 
-### [Agaricomycotina.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.secret.md)
+### #is_/same_as :: [Agaricomycotina.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.secret.md)
 

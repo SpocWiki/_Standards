@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_of_course](/_Standards/schema-org/Property/has_name/has_code_of_course.md) 
+### #is_/same_as :: [has_code_of_course](/_Standards/schema-org/Property/has_name/has_code_of_course.md) 
 
-### [has_code_of_course.public](/_public/schema-org/Property/has_name/has_code_of_course.public.md) 
+### #is_/same_as :: [has_code_of_course.public](/_public/schema-org/Property/has_name/has_code_of_course.public.md) 
 
-### [has_code_of_course.internal](/_internal/schema-org/Property/has_name/has_code_of_course.internal.md) 
+### #is_/same_as :: [has_code_of_course.internal](/_internal/schema-org/Property/has_name/has_code_of_course.internal.md) 
 
-### [has_code_of_course.protect](/_protect/schema-org/Property/has_name/has_code_of_course.protect.md) 
+### #is_/same_as :: [has_code_of_course.protect](/_protect/schema-org/Property/has_name/has_code_of_course.protect.md) 
 
-### [has_code_of_course.private](/_private/schema-org/Property/has_name/has_code_of_course.private.md) 
+### #is_/same_as :: [has_code_of_course.private](/_private/schema-org/Property/has_name/has_code_of_course.private.md) 
 
-### [has_code_of_course.personal](/_personal/schema-org/Property/has_name/has_code_of_course.personal.md) 
+### #is_/same_as :: [has_code_of_course.personal](/_personal/schema-org/Property/has_name/has_code_of_course.personal.md) 
 
-### [has_code_of_course.secret](/_secret/schema-org/Property/has_name/has_code_of_course.secret.md)
+### #is_/same_as :: [has_code_of_course.secret](/_secret/schema-org/Property/has_name/has_code_of_course.secret.md)
 

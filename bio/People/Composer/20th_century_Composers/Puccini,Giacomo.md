@@ -114,21 +114,19 @@ date_of_death: "1924-11-29"
 > [Wikipedia](https://en.wikipedia.org/wiki/Giacomo%20Puccini)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Puccini,Giacomo](/_Standards/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.md) 
+### #is_/same_as :: [Puccini,Giacomo](/_Standards/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.md) 
 
-### [Puccini,Giacomo.public](/_public/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.public.md) 
+### #is_/same_as :: [Puccini,Giacomo.public](/_public/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.public.md) 
 
-### [Puccini,Giacomo.internal](/_internal/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.internal.md) 
+### #is_/same_as :: [Puccini,Giacomo.internal](/_internal/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.internal.md) 
 
-### [Puccini,Giacomo.protect](/_protect/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.protect.md) 
+### #is_/same_as :: [Puccini,Giacomo.protect](/_protect/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.protect.md) 
 
-### [Puccini,Giacomo.private](/_private/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.private.md) 
+### #is_/same_as :: [Puccini,Giacomo.private](/_private/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.private.md) 
 
-### [Puccini,Giacomo.personal](/_personal/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.personal.md) 
+### #is_/same_as :: [Puccini,Giacomo.personal](/_personal/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.personal.md) 
 
-### [Puccini,Giacomo.secret](/_secret/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.secret.md)
+### #is_/same_as :: [Puccini,Giacomo.secret](/_secret/bio/People/Composer/20th_century_Composers/Puccini,Giacomo.secret.md)
 

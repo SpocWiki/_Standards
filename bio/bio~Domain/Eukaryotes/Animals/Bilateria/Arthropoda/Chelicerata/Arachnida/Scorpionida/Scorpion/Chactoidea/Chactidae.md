@@ -38,20 +38,19 @@ title: Chactidae
 -   The [Scorpion     Emporium](http://wrbu.si.edu/www/stockwell/emporium/emporium.html)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chactidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.md) 
+### #is_/same_as :: [Chactidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.md) 
 
-### [Chactidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.public.md) 
+### #is_/same_as :: [Chactidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.public.md) 
 
-### [Chactidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.internal.md) 
+### #is_/same_as :: [Chactidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.internal.md) 
 
-### [Chactidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.protect.md) 
+### #is_/same_as :: [Chactidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.protect.md) 
 
-### [Chactidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.private.md) 
+### #is_/same_as :: [Chactidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.private.md) 
 
-### [Chactidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.personal.md) 
+### #is_/same_as :: [Chactidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.personal.md) 
 
-### [Chactidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.secret.md)
+### #is_/same_as :: [Chactidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.secret.md)
 

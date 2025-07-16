@@ -41,17 +41,17 @@ markerFolder: ./Ngaraard/
 
 ## Confidential Links & Embeds: 
 
-### [Ngaraard](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.md) 
+### #is_/same_as :: [Ngaraard](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.md) 
 
-### [Ngaraard.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.public.md) 
+### #is_/same_as :: [Ngaraard.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.public.md) 
 
-### [Ngaraard.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.internal.md) 
+### #is_/same_as :: [Ngaraard.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.internal.md) 
 
-### [Ngaraard.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.protect.md) 
+### #is_/same_as :: [Ngaraard.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.protect.md) 
 
-### [Ngaraard.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.private.md) 
+### #is_/same_as :: [Ngaraard.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.private.md) 
 
-### [Ngaraard.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.personal.md) 
+### #is_/same_as :: [Ngaraard.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.personal.md) 
 
-### [Ngaraard.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.secret.md)
+### #is_/same_as :: [Ngaraard.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.secret.md)
 

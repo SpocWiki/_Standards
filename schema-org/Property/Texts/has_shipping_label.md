@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_shipping_label](/_Standards/schema-org/Property/Texts/has_shipping_label.md) 
+### #is_/same_as :: [has_shipping_label](/_Standards/schema-org/Property/Texts/has_shipping_label.md) 
 
-### [has_shipping_label.public](/_public/schema-org/Property/Texts/has_shipping_label.public.md) 
+### #is_/same_as :: [has_shipping_label.public](/_public/schema-org/Property/Texts/has_shipping_label.public.md) 
 
-### [has_shipping_label.internal](/_internal/schema-org/Property/Texts/has_shipping_label.internal.md) 
+### #is_/same_as :: [has_shipping_label.internal](/_internal/schema-org/Property/Texts/has_shipping_label.internal.md) 
 
-### [has_shipping_label.protect](/_protect/schema-org/Property/Texts/has_shipping_label.protect.md) 
+### #is_/same_as :: [has_shipping_label.protect](/_protect/schema-org/Property/Texts/has_shipping_label.protect.md) 
 
-### [has_shipping_label.private](/_private/schema-org/Property/Texts/has_shipping_label.private.md) 
+### #is_/same_as :: [has_shipping_label.private](/_private/schema-org/Property/Texts/has_shipping_label.private.md) 
 
-### [has_shipping_label.personal](/_personal/schema-org/Property/Texts/has_shipping_label.personal.md) 
+### #is_/same_as :: [has_shipping_label.personal](/_personal/schema-org/Property/Texts/has_shipping_label.personal.md) 
 
-### [has_shipping_label.secret](/_secret/schema-org/Property/Texts/has_shipping_label.secret.md)
+### #is_/same_as :: [has_shipping_label.secret](/_secret/schema-org/Property/Texts/has_shipping_label.secret.md)
 

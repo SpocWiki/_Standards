@@ -47,17 +47,17 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 
 ## Confidential Links & Embeds: 
 
-### [geo_circle](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.md) 
+### #is_/same_as :: [geo_circle](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.md) 
 
-### [geo_circle.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.public.md) 
+### #is_/same_as :: [geo_circle.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.public.md) 
 
-### [geo_circle.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.internal.md) 
+### #is_/same_as :: [geo_circle.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.internal.md) 
 
-### [geo_circle.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.protect.md) 
+### #is_/same_as :: [geo_circle.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.protect.md) 
 
-### [geo_circle.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.private.md) 
+### #is_/same_as :: [geo_circle.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.private.md) 
 
-### [geo_circle.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.personal.md) 
+### #is_/same_as :: [geo_circle.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.personal.md) 
 
-### [geo_circle.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.secret.md)
+### #is_/same_as :: [geo_circle.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.secret.md)
 

@@ -443,17 +443,17 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 
 ## Confidential Links & Embeds: 
 
-### [Somalia](/_Standards/Earth/Continent/Africa/Africa~East/Somalia.md) 
+### #is_/same_as :: [Somalia](/_Standards/Earth/Continent/Africa/Africa~East/Somalia.md) 
 
-### [Somalia.public](/_public/Earth/Continent/Africa/Africa~East/Somalia.public.md) 
+### #is_/same_as :: [Somalia.public](/_public/Earth/Continent/Africa/Africa~East/Somalia.public.md) 
 
-### [Somalia.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal.md) 
+### #is_/same_as :: [Somalia.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal.md) 
 
-### [Somalia.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect.md) 
+### #is_/same_as :: [Somalia.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect.md) 
 
-### [Somalia.private](/_private/Earth/Continent/Africa/Africa~East/Somalia.private.md) 
+### #is_/same_as :: [Somalia.private](/_private/Earth/Continent/Africa/Africa~East/Somalia.private.md) 
 
-### [Somalia.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal.md) 
+### #is_/same_as :: [Somalia.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal.md) 
 
-### [Somalia.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret.md)
+### #is_/same_as :: [Somalia.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret.md)
 

@@ -181,22 +181,19 @@ Location ::        Great Barrier Reef, Australia
 Copyright ::         © 1999 Mark Norman
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Octopodiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.md) 
+### #is_/same_as :: [Octopodiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.md) 
 
-### [Octopodiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.public.md) 
+### #is_/same_as :: [Octopodiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.public.md) 
 
-### [Octopodiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.internal.md) 
+### #is_/same_as :: [Octopodiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.internal.md) 
 
-### [Octopodiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.protect.md) 
+### #is_/same_as :: [Octopodiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.protect.md) 
 
-### [Octopodiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.private.md) 
+### #is_/same_as :: [Octopodiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.private.md) 
 
-### [Octopodiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.personal.md) 
+### #is_/same_as :: [Octopodiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.personal.md) 
 
-### [Octopodiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.secret.md)
+### #is_/same_as :: [Octopodiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.secret.md)
 

@@ -45,17 +45,17 @@ A shop that will buy, or lend money against the security of, personal possession
 
 ## Confidential Links & Embeds: 
 
-### [pawn_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.md) 
+### #is_/same_as :: [pawn_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.md) 
 
-### [pawn_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.public.md) 
+### #is_/same_as :: [pawn_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.public.md) 
 
-### [pawn_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.internal.md) 
+### #is_/same_as :: [pawn_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.internal.md) 
 
-### [pawn_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.protect.md) 
+### #is_/same_as :: [pawn_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.protect.md) 
 
-### [pawn_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.private.md) 
+### #is_/same_as :: [pawn_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.private.md) 
 
-### [pawn_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.personal.md) 
+### #is_/same_as :: [pawn_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.personal.md) 
 
-### [pawn_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.secret.md)
+### #is_/same_as :: [pawn_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/pawn_shop.secret.md)
 

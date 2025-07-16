@@ -162,21 +162,19 @@ plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stele%20-%20Si
 > [Wikipedia](https://en.wikipedia.org/wiki/Sigmund%20Freud)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Freud,Sigmund](/_Standards/bio/People/Psychologist/Freud,Sigmund.md) 
+### #is_/same_as :: [Freud,Sigmund](/_Standards/bio/People/Psychologist/Freud,Sigmund.md) 
 
-### [Freud,Sigmund.public](/_public/bio/People/Psychologist/Freud,Sigmund.public.md) 
+### #is_/same_as :: [Freud,Sigmund.public](/_public/bio/People/Psychologist/Freud,Sigmund.public.md) 
 
-### [Freud,Sigmund.internal](/_internal/bio/People/Psychologist/Freud,Sigmund.internal.md) 
+### #is_/same_as :: [Freud,Sigmund.internal](/_internal/bio/People/Psychologist/Freud,Sigmund.internal.md) 
 
-### [Freud,Sigmund.protect](/_protect/bio/People/Psychologist/Freud,Sigmund.protect.md) 
+### #is_/same_as :: [Freud,Sigmund.protect](/_protect/bio/People/Psychologist/Freud,Sigmund.protect.md) 
 
-### [Freud,Sigmund.private](/_private/bio/People/Psychologist/Freud,Sigmund.private.md) 
+### #is_/same_as :: [Freud,Sigmund.private](/_private/bio/People/Psychologist/Freud,Sigmund.private.md) 
 
-### [Freud,Sigmund.personal](/_personal/bio/People/Psychologist/Freud,Sigmund.personal.md) 
+### #is_/same_as :: [Freud,Sigmund.personal](/_personal/bio/People/Psychologist/Freud,Sigmund.personal.md) 
 
-### [Freud,Sigmund.secret](/_secret/bio/People/Psychologist/Freud,Sigmund.secret.md)
+### #is_/same_as :: [Freud,Sigmund.secret](/_secret/bio/People/Psychologist/Freud,Sigmund.secret.md)
 

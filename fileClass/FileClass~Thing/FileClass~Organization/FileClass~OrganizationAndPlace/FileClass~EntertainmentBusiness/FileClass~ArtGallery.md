@@ -35,17 +35,17 @@ An art gallery.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArtGallery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.md) 
+### #is_/same_as :: [FileClass~ArtGallery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.md) 
 
-### [FileClass~ArtGallery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.public.md) 
+### #is_/same_as :: [FileClass~ArtGallery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.public.md) 
 
-### [FileClass~ArtGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.internal.md) 
+### #is_/same_as :: [FileClass~ArtGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.internal.md) 
 
-### [FileClass~ArtGallery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.protect.md) 
+### #is_/same_as :: [FileClass~ArtGallery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.protect.md) 
 
-### [FileClass~ArtGallery.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.private.md) 
+### #is_/same_as :: [FileClass~ArtGallery.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.private.md) 
 
-### [FileClass~ArtGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.personal.md) 
+### #is_/same_as :: [FileClass~ArtGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.personal.md) 
 
-### [FileClass~ArtGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.secret.md)
+### #is_/same_as :: [FileClass~ArtGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.secret.md)
 

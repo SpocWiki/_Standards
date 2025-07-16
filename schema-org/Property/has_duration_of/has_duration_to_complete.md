@@ -48,17 +48,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_duration_to_complete](/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete.md) 
+### #is_/same_as :: [has_duration_to_complete](/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete.md) 
 
-### [has_duration_to_complete.public](/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public.md) 
+### #is_/same_as :: [has_duration_to_complete.public](/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public.md) 
 
-### [has_duration_to_complete.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal.md) 
+### #is_/same_as :: [has_duration_to_complete.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal.md) 
 
-### [has_duration_to_complete.protect](/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect.md) 
+### #is_/same_as :: [has_duration_to_complete.protect](/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect.md) 
 
-### [has_duration_to_complete.private](/_private/schema-org/Property/has_duration_of/has_duration_to_complete.private.md) 
+### #is_/same_as :: [has_duration_to_complete.private](/_private/schema-org/Property/has_duration_of/has_duration_to_complete.private.md) 
 
-### [has_duration_to_complete.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal.md) 
+### #is_/same_as :: [has_duration_to_complete.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal.md) 
 
-### [has_duration_to_complete.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret.md)
+### #is_/same_as :: [has_duration_to_complete.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret.md)
 

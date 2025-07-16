@@ -57,23 +57,19 @@ aliases:
 	-   *Thermodesulfovibrio*
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nitrospira](/_Standards/bio/bio~Domain/Bacteria/Nitrospira.md) 
+### #is_/same_as :: [Nitrospira](/_Standards/bio/bio~Domain/Bacteria/Nitrospira.md) 
 
-### [Nitrospira.public](/_public/bio/bio~Domain/Bacteria/Nitrospira.public.md) 
+### #is_/same_as :: [Nitrospira.public](/_public/bio/bio~Domain/Bacteria/Nitrospira.public.md) 
 
-### [Nitrospira.internal](/_internal/bio/bio~Domain/Bacteria/Nitrospira.internal.md) 
+### #is_/same_as :: [Nitrospira.internal](/_internal/bio/bio~Domain/Bacteria/Nitrospira.internal.md) 
 
-### [Nitrospira.protect](/_protect/bio/bio~Domain/Bacteria/Nitrospira.protect.md) 
+### #is_/same_as :: [Nitrospira.protect](/_protect/bio/bio~Domain/Bacteria/Nitrospira.protect.md) 
 
-### [Nitrospira.private](/_private/bio/bio~Domain/Bacteria/Nitrospira.private.md) 
+### #is_/same_as :: [Nitrospira.private](/_private/bio/bio~Domain/Bacteria/Nitrospira.private.md) 
 
-### [Nitrospira.personal](/_personal/bio/bio~Domain/Bacteria/Nitrospira.personal.md) 
+### #is_/same_as :: [Nitrospira.personal](/_personal/bio/bio~Domain/Bacteria/Nitrospira.personal.md) 
 
-### [Nitrospira.secret](/_secret/bio/bio~Domain/Bacteria/Nitrospira.secret.md)
+### #is_/same_as :: [Nitrospira.secret](/_secret/bio/bio~Domain/Bacteria/Nitrospira.secret.md)
 

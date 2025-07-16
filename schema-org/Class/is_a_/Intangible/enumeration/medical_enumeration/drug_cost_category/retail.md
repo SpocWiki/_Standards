@@ -47,17 +47,17 @@ The drug's cost represents the retail cost of the drug.
 
 ## Confidential Links & Embeds: 
 
-### [retail](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.md) 
+### #is_/same_as :: [retail](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.md) 
 
-### [retail.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.public.md) 
+### #is_/same_as :: [retail.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.public.md) 
 
-### [retail.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.internal.md) 
+### #is_/same_as :: [retail.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.internal.md) 
 
-### [retail.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.protect.md) 
+### #is_/same_as :: [retail.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.protect.md) 
 
-### [retail.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.private.md) 
+### #is_/same_as :: [retail.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.private.md) 
 
-### [retail.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.personal.md) 
+### #is_/same_as :: [retail.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.personal.md) 
 
-### [retail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.secret.md)
+### #is_/same_as :: [retail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.secret.md)
 

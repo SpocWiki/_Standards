@@ -47,17 +47,17 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 
 ## Confidential Links & Embeds: 
 
-### [delivery_time_settings](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.md) 
+### #is_/same_as :: [delivery_time_settings](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.md) 
 
-### [delivery_time_settings.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.public.md) 
+### #is_/same_as :: [delivery_time_settings.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.public.md) 
 
-### [delivery_time_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.internal.md) 
+### #is_/same_as :: [delivery_time_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.internal.md) 
 
-### [delivery_time_settings.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.protect.md) 
+### #is_/same_as :: [delivery_time_settings.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.protect.md) 
 
-### [delivery_time_settings.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.private.md) 
+### #is_/same_as :: [delivery_time_settings.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.private.md) 
 
-### [delivery_time_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.personal.md) 
+### #is_/same_as :: [delivery_time_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.personal.md) 
 
-### [delivery_time_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.secret.md)
+### #is_/same_as :: [delivery_time_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.secret.md)
 

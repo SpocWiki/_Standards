@@ -53,17 +53,17 @@ Colon_Classification: "Y:1"
 
 ## Confidential Links & Embeds: 
 
-### [Civilization](/_Standards/bio/Society/Civilization.md) 
+### #is_/same_as :: [Civilization](/_Standards/bio/Society/Civilization.md) 
 
-### [Civilization.public](/_public/bio/Society/Civilization.public.md) 
+### #is_/same_as :: [Civilization.public](/_public/bio/Society/Civilization.public.md) 
 
-### [Civilization.internal](/_internal/bio/Society/Civilization.internal.md) 
+### #is_/same_as :: [Civilization.internal](/_internal/bio/Society/Civilization.internal.md) 
 
-### [Civilization.protect](/_protect/bio/Society/Civilization.protect.md) 
+### #is_/same_as :: [Civilization.protect](/_protect/bio/Society/Civilization.protect.md) 
 
-### [Civilization.private](/_private/bio/Society/Civilization.private.md) 
+### #is_/same_as :: [Civilization.private](/_private/bio/Society/Civilization.private.md) 
 
-### [Civilization.personal](/_personal/bio/Society/Civilization.personal.md) 
+### #is_/same_as :: [Civilization.personal](/_personal/bio/Society/Civilization.personal.md) 
 
-### [Civilization.secret](/_secret/bio/Society/Civilization.secret.md)
+### #is_/same_as :: [Civilization.secret](/_secret/bio/Society/Civilization.secret.md)
 

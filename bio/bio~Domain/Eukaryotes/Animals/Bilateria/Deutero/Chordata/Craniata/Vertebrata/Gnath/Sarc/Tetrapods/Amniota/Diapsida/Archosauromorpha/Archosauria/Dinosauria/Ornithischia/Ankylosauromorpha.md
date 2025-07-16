@@ -192,21 +192,19 @@ relationship, the *Ankylosauromorpha* consists of *Scelidosaurus* +
   Copyright ::            © 1987 Gregory Paul
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ankylosauromorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.md) 
+### #is_/same_as :: [Ankylosauromorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.md) 
 
-### [Ankylosauromorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.public.md) 
+### #is_/same_as :: [Ankylosauromorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.public.md) 
 
-### [Ankylosauromorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.internal.md) 
+### #is_/same_as :: [Ankylosauromorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.internal.md) 
 
-### [Ankylosauromorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.protect.md) 
+### #is_/same_as :: [Ankylosauromorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.protect.md) 
 
-### [Ankylosauromorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.private.md) 
+### #is_/same_as :: [Ankylosauromorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.private.md) 
 
-### [Ankylosauromorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.personal.md) 
+### #is_/same_as :: [Ankylosauromorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.personal.md) 
 
-### [Ankylosauromorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.secret.md)
+### #is_/same_as :: [Ankylosauromorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Ornithischia/Ankylosauromorpha.secret.md)
 

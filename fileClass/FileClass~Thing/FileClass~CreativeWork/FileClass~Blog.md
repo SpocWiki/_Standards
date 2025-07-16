@@ -56,17 +56,17 @@ Issn:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Blog](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.md) 
+### #is_/same_as :: [FileClass~Blog](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.md) 
 
-### [FileClass~Blog.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.public.md) 
+### #is_/same_as :: [FileClass~Blog.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.public.md) 
 
-### [FileClass~Blog.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.internal.md) 
+### #is_/same_as :: [FileClass~Blog.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.internal.md) 
 
-### [FileClass~Blog.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.protect.md) 
+### #is_/same_as :: [FileClass~Blog.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.protect.md) 
 
-### [FileClass~Blog.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.private.md) 
+### #is_/same_as :: [FileClass~Blog.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.private.md) 
 
-### [FileClass~Blog.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.personal.md) 
+### #is_/same_as :: [FileClass~Blog.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.personal.md) 
 
-### [FileClass~Blog.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.secret.md)
+### #is_/same_as :: [FileClass~Blog.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Blog.secret.md)
 

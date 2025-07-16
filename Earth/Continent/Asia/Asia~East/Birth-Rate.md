@@ -18,17 +18,17 @@ More descriptive is the [[Fertility-Rate]], which puts it into relation to the N
 
 ## Confidential Links & Embeds: 
 
-### [Birth-Rate](/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate.md) 
+### #is_/same_as :: [Birth-Rate](/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate.md) 
 
-### [Birth-Rate.public](/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public.md) 
+### #is_/same_as :: [Birth-Rate.public](/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public.md) 
 
-### [Birth-Rate.internal](/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal.md) 
+### #is_/same_as :: [Birth-Rate.internal](/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal.md) 
 
-### [Birth-Rate.protect](/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect.md) 
+### #is_/same_as :: [Birth-Rate.protect](/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect.md) 
 
-### [Birth-Rate.private](/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private.md) 
+### #is_/same_as :: [Birth-Rate.private](/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private.md) 
 
-### [Birth-Rate.personal](/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal.md) 
+### #is_/same_as :: [Birth-Rate.personal](/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal.md) 
 
-### [Birth-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret.md)
+### #is_/same_as :: [Birth-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret.md)
 

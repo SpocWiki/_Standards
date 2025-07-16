@@ -51,17 +51,17 @@ MeSH_tree_code: N01.400
 
 ## Confidential Links & Embeds: 
 
-### [Health](/_Standards/bio/Medicine/Health.md) 
+### #is_/same_as :: [Health](/_Standards/bio/Medicine/Health.md) 
 
-### [Health.public](/_public/bio/Medicine/Health.public.md) 
+### #is_/same_as :: [Health.public](/_public/bio/Medicine/Health.public.md) 
 
-### [Health.internal](/_internal/bio/Medicine/Health.internal.md) 
+### #is_/same_as :: [Health.internal](/_internal/bio/Medicine/Health.internal.md) 
 
-### [Health.protect](/_protect/bio/Medicine/Health.protect.md) 
+### #is_/same_as :: [Health.protect](/_protect/bio/Medicine/Health.protect.md) 
 
-### [Health.private](/_private/bio/Medicine/Health.private.md) 
+### #is_/same_as :: [Health.private](/_private/bio/Medicine/Health.private.md) 
 
-### [Health.personal](/_personal/bio/Medicine/Health.personal.md) 
+### #is_/same_as :: [Health.personal](/_personal/bio/Medicine/Health.personal.md) 
 
-### [Health.secret](/_secret/bio/Medicine/Health.secret.md)
+### #is_/same_as :: [Health.secret](/_secret/bio/Medicine/Health.secret.md)
 

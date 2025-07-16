@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_educational_level](/_Standards/schema-org/Relation/has/has_educational_level.md) 
+### #is_/same_as :: [has_educational_level](/_Standards/schema-org/Relation/has/has_educational_level.md) 
 
-### [has_educational_level.public](/_public/schema-org/Relation/has/has_educational_level.public.md) 
+### #is_/same_as :: [has_educational_level.public](/_public/schema-org/Relation/has/has_educational_level.public.md) 
 
-### [has_educational_level.internal](/_internal/schema-org/Relation/has/has_educational_level.internal.md) 
+### #is_/same_as :: [has_educational_level.internal](/_internal/schema-org/Relation/has/has_educational_level.internal.md) 
 
-### [has_educational_level.protect](/_protect/schema-org/Relation/has/has_educational_level.protect.md) 
+### #is_/same_as :: [has_educational_level.protect](/_protect/schema-org/Relation/has/has_educational_level.protect.md) 
 
-### [has_educational_level.private](/_private/schema-org/Relation/has/has_educational_level.private.md) 
+### #is_/same_as :: [has_educational_level.private](/_private/schema-org/Relation/has/has_educational_level.private.md) 
 
-### [has_educational_level.personal](/_personal/schema-org/Relation/has/has_educational_level.personal.md) 
+### #is_/same_as :: [has_educational_level.personal](/_personal/schema-org/Relation/has/has_educational_level.personal.md) 
 
-### [has_educational_level.secret](/_secret/schema-org/Relation/has/has_educational_level.secret.md)
+### #is_/same_as :: [has_educational_level.secret](/_secret/schema-org/Relation/has/has_educational_level.secret.md)
 

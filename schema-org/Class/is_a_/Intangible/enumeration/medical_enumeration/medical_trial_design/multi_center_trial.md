@@ -47,17 +47,17 @@ A trial that takes place at multiple centers.
 
 ## Confidential Links & Embeds: 
 
-### [multi_center_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.md) 
+### #is_/same_as :: [multi_center_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.md) 
 
-### [multi_center_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.public.md) 
+### #is_/same_as :: [multi_center_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.public.md) 
 
-### [multi_center_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.internal.md) 
+### #is_/same_as :: [multi_center_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.internal.md) 
 
-### [multi_center_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.protect.md) 
+### #is_/same_as :: [multi_center_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.protect.md) 
 
-### [multi_center_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.private.md) 
+### #is_/same_as :: [multi_center_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.private.md) 
 
-### [multi_center_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.personal.md) 
+### #is_/same_as :: [multi_center_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.personal.md) 
 
-### [multi_center_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.secret.md)
+### #is_/same_as :: [multi_center_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.secret.md)
 

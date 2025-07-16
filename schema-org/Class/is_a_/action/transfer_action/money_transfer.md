@@ -47,17 +47,17 @@ The act of transferring money from one place to another place. This may occur el
 
 ## Confidential Links & Embeds: 
 
-### [money_transfer](/_Standards/schema-org/Class/is_a_/action/transfer_action/money_transfer.md) 
+### #is_/same_as :: [money_transfer](/_Standards/schema-org/Class/is_a_/action/transfer_action/money_transfer.md) 
 
-### [money_transfer.public](/_public/schema-org/Class/is_a_/action/transfer_action/money_transfer.public.md) 
+### #is_/same_as :: [money_transfer.public](/_public/schema-org/Class/is_a_/action/transfer_action/money_transfer.public.md) 
 
-### [money_transfer.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/money_transfer.internal.md) 
+### #is_/same_as :: [money_transfer.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/money_transfer.internal.md) 
 
-### [money_transfer.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/money_transfer.protect.md) 
+### #is_/same_as :: [money_transfer.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/money_transfer.protect.md) 
 
-### [money_transfer.private](/_private/schema-org/Class/is_a_/action/transfer_action/money_transfer.private.md) 
+### #is_/same_as :: [money_transfer.private](/_private/schema-org/Class/is_a_/action/transfer_action/money_transfer.private.md) 
 
-### [money_transfer.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/money_transfer.personal.md) 
+### #is_/same_as :: [money_transfer.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/money_transfer.personal.md) 
 
-### [money_transfer.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/money_transfer.secret.md)
+### #is_/same_as :: [money_transfer.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/money_transfer.secret.md)
 

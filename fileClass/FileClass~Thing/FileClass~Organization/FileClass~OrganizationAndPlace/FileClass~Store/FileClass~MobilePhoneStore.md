@@ -35,17 +35,17 @@ A store that sells mobile phones and related accessories.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MobilePhoneStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.md) 
+### #is_/same_as :: [FileClass~MobilePhoneStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.md) 
 
-### [FileClass~MobilePhoneStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.public.md) 
+### #is_/same_as :: [FileClass~MobilePhoneStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.public.md) 
 
-### [FileClass~MobilePhoneStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.internal.md) 
+### #is_/same_as :: [FileClass~MobilePhoneStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.internal.md) 
 
-### [FileClass~MobilePhoneStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.protect.md) 
+### #is_/same_as :: [FileClass~MobilePhoneStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.protect.md) 
 
-### [FileClass~MobilePhoneStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.private.md) 
+### #is_/same_as :: [FileClass~MobilePhoneStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.private.md) 
 
-### [FileClass~MobilePhoneStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.personal.md) 
+### #is_/same_as :: [FileClass~MobilePhoneStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.personal.md) 
 
-### [FileClass~MobilePhoneStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.secret.md)
+### #is_/same_as :: [FileClass~MobilePhoneStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MobilePhoneStore.secret.md)
 

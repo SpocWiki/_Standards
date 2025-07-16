@@ -806,17 +806,17 @@ Capital :: [[Spain/Provinces~Spain/Madrid,Region]]
 
 ## Confidential Links & Embeds: 
 
-### [Spain](/_Standards/Earth/Continent/Europe/Europe~South/Spain.md) 
+### #is_/same_as :: [Spain](/_Standards/Earth/Continent/Europe/Europe~South/Spain.md) 
 
-### [Spain.public](/_public/Earth/Continent/Europe/Europe~South/Spain.public.md) 
+### #is_/same_as :: [Spain.public](/_public/Earth/Continent/Europe/Europe~South/Spain.public.md) 
 
-### [Spain.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain.internal.md) 
+### #is_/same_as :: [Spain.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain.internal.md) 
 
-### [Spain.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain.protect.md) 
+### #is_/same_as :: [Spain.protect](/_protect/Earth/Continent/Europe/Europe~South/Spain.protect.md) 
 
-### [Spain.private](/_private/Earth/Continent/Europe/Europe~South/Spain.private.md) 
+### #is_/same_as :: [Spain.private](/_private/Earth/Continent/Europe/Europe~South/Spain.private.md) 
 
-### [Spain.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain.personal.md) 
+### #is_/same_as :: [Spain.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain.personal.md) 
 
-### [Spain.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain.secret.md)
+### #is_/same_as :: [Spain.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain.secret.md)
 

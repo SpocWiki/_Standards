@@ -47,17 +47,17 @@ A publication containing information about varied topics that are pertinent to g
 
 ## Confidential Links & Embeds: 
 
-### [newspaper](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.md) 
+### #is_/same_as :: [newspaper](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.md) 
 
-### [newspaper.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.public.md) 
+### #is_/same_as :: [newspaper.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.public.md) 
 
-### [newspaper.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.internal.md) 
+### #is_/same_as :: [newspaper.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.internal.md) 
 
-### [newspaper.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.protect.md) 
+### #is_/same_as :: [newspaper.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.protect.md) 
 
-### [newspaper.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.private.md) 
+### #is_/same_as :: [newspaper.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.private.md) 
 
-### [newspaper.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.personal.md) 
+### #is_/same_as :: [newspaper.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.personal.md) 
 
-### [newspaper.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.secret.md)
+### #is_/same_as :: [newspaper.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.secret.md)
 

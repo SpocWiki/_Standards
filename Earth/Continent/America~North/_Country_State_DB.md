@@ -319,17 +319,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Country_State_DB](/_Standards/Earth/Continent/America~North/_Country_State_DB.md) 
+### #is_/same_as :: [_Country_State_DB](/_Standards/Earth/Continent/America~North/_Country_State_DB.md) 
 
-### [_Country_State_DB.public](/_public/Earth/Continent/America~North/_Country_State_DB.public.md) 
+### #is_/same_as :: [_Country_State_DB.public](/_public/Earth/Continent/America~North/_Country_State_DB.public.md) 
 
-### [_Country_State_DB.internal](/_internal/Earth/Continent/America~North/_Country_State_DB.internal.md) 
+### #is_/same_as :: [_Country_State_DB.internal](/_internal/Earth/Continent/America~North/_Country_State_DB.internal.md) 
 
-### [_Country_State_DB.protect](/_protect/Earth/Continent/America~North/_Country_State_DB.protect.md) 
+### #is_/same_as :: [_Country_State_DB.protect](/_protect/Earth/Continent/America~North/_Country_State_DB.protect.md) 
 
-### [_Country_State_DB.private](/_private/Earth/Continent/America~North/_Country_State_DB.private.md) 
+### #is_/same_as :: [_Country_State_DB.private](/_private/Earth/Continent/America~North/_Country_State_DB.private.md) 
 
-### [_Country_State_DB.personal](/_personal/Earth/Continent/America~North/_Country_State_DB.personal.md) 
+### #is_/same_as :: [_Country_State_DB.personal](/_personal/Earth/Continent/America~North/_Country_State_DB.personal.md) 
 
-### [_Country_State_DB.secret](/_secret/Earth/Continent/America~North/_Country_State_DB.secret.md)
+### #is_/same_as :: [_Country_State_DB.secret](/_secret/Earth/Continent/America~North/_Country_State_DB.secret.md)
 

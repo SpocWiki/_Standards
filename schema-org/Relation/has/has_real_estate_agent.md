@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_real_estate_agent](/_Standards/schema-org/Relation/has/has_real_estate_agent.md) 
+### #is_/same_as :: [has_real_estate_agent](/_Standards/schema-org/Relation/has/has_real_estate_agent.md) 
 
-### [has_real_estate_agent.public](/_public/schema-org/Relation/has/has_real_estate_agent.public.md) 
+### #is_/same_as :: [has_real_estate_agent.public](/_public/schema-org/Relation/has/has_real_estate_agent.public.md) 
 
-### [has_real_estate_agent.internal](/_internal/schema-org/Relation/has/has_real_estate_agent.internal.md) 
+### #is_/same_as :: [has_real_estate_agent.internal](/_internal/schema-org/Relation/has/has_real_estate_agent.internal.md) 
 
-### [has_real_estate_agent.protect](/_protect/schema-org/Relation/has/has_real_estate_agent.protect.md) 
+### #is_/same_as :: [has_real_estate_agent.protect](/_protect/schema-org/Relation/has/has_real_estate_agent.protect.md) 
 
-### [has_real_estate_agent.private](/_private/schema-org/Relation/has/has_real_estate_agent.private.md) 
+### #is_/same_as :: [has_real_estate_agent.private](/_private/schema-org/Relation/has/has_real_estate_agent.private.md) 
 
-### [has_real_estate_agent.personal](/_personal/schema-org/Relation/has/has_real_estate_agent.personal.md) 
+### #is_/same_as :: [has_real_estate_agent.personal](/_personal/schema-org/Relation/has/has_real_estate_agent.personal.md) 
 
-### [has_real_estate_agent.secret](/_secret/schema-org/Relation/has/has_real_estate_agent.secret.md)
+### #is_/same_as :: [has_real_estate_agent.secret](/_secret/schema-org/Relation/has/has_real_estate_agent.secret.md)
 

@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Economist](/_Standards/bio/People/Economist.md) 
+### #is_/same_as :: [Economist](/_Standards/bio/People/Economist.md) 
 
-### [Economist.public](/_public/bio/People/Economist.public.md) 
+### #is_/same_as :: [Economist.public](/_public/bio/People/Economist.public.md) 
 
-### [Economist.internal](/_internal/bio/People/Economist.internal.md) 
+### #is_/same_as :: [Economist.internal](/_internal/bio/People/Economist.internal.md) 
 
-### [Economist.protect](/_protect/bio/People/Economist.protect.md) 
+### #is_/same_as :: [Economist.protect](/_protect/bio/People/Economist.protect.md) 
 
-### [Economist.private](/_private/bio/People/Economist.private.md) 
+### #is_/same_as :: [Economist.private](/_private/bio/People/Economist.private.md) 
 
-### [Economist.personal](/_personal/bio/People/Economist.personal.md) 
+### #is_/same_as :: [Economist.personal](/_personal/bio/People/Economist.personal.md) 
 
-### [Economist.secret](/_secret/bio/People/Economist.secret.md)
+### #is_/same_as :: [Economist.secret](/_secret/bio/People/Economist.secret.md)
 

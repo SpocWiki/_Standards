@@ -35,17 +35,17 @@ fields:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Scenario](/_Standards/fileClass/Other/FileClass~Scenario.md) 
+### #is_/same_as :: [FileClass~Scenario](/_Standards/fileClass/Other/FileClass~Scenario.md) 
 
-### [FileClass~Scenario.public](/_public/fileClass/Other/FileClass~Scenario.public.md) 
+### #is_/same_as :: [FileClass~Scenario.public](/_public/fileClass/Other/FileClass~Scenario.public.md) 
 
-### [FileClass~Scenario.internal](/_internal/fileClass/Other/FileClass~Scenario.internal.md) 
+### #is_/same_as :: [FileClass~Scenario.internal](/_internal/fileClass/Other/FileClass~Scenario.internal.md) 
 
-### [FileClass~Scenario.protect](/_protect/fileClass/Other/FileClass~Scenario.protect.md) 
+### #is_/same_as :: [FileClass~Scenario.protect](/_protect/fileClass/Other/FileClass~Scenario.protect.md) 
 
-### [FileClass~Scenario.private](/_private/fileClass/Other/FileClass~Scenario.private.md) 
+### #is_/same_as :: [FileClass~Scenario.private](/_private/fileClass/Other/FileClass~Scenario.private.md) 
 
-### [FileClass~Scenario.personal](/_personal/fileClass/Other/FileClass~Scenario.personal.md) 
+### #is_/same_as :: [FileClass~Scenario.personal](/_personal/fileClass/Other/FileClass~Scenario.personal.md) 
 
-### [FileClass~Scenario.secret](/_secret/fileClass/Other/FileClass~Scenario.secret.md)
+### #is_/same_as :: [FileClass~Scenario.secret](/_secret/fileClass/Other/FileClass~Scenario.secret.md)
 

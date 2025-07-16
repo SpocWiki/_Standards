@@ -47,17 +47,17 @@ Indicates that the item is available only at physical locations.
 
 ## Confidential Links & Embeds: 
 
-### [in_store_only](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.md) 
+### #is_/same_as :: [in_store_only](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.md) 
 
-### [in_store_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.public.md) 
+### #is_/same_as :: [in_store_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.public.md) 
 
-### [in_store_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.internal.md) 
+### #is_/same_as :: [in_store_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.internal.md) 
 
-### [in_store_only.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.protect.md) 
+### #is_/same_as :: [in_store_only.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.protect.md) 
 
-### [in_store_only.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.private.md) 
+### #is_/same_as :: [in_store_only.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.private.md) 
 
-### [in_store_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.personal.md) 
+### #is_/same_as :: [in_store_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.personal.md) 
 
-### [in_store_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.secret.md)
+### #is_/same_as :: [in_store_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.secret.md)
 

@@ -45,17 +45,17 @@ A golf course.
 
 ## Confidential Links & Embeds: 
 
-### [golf_course](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.md) 
+### #is_/same_as :: [golf_course](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.md) 
 
-### [golf_course.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.public.md) 
+### #is_/same_as :: [golf_course.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.public.md) 
 
-### [golf_course.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.internal.md) 
+### #is_/same_as :: [golf_course.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.internal.md) 
 
-### [golf_course.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.protect.md) 
+### #is_/same_as :: [golf_course.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.protect.md) 
 
-### [golf_course.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.private.md) 
+### #is_/same_as :: [golf_course.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.private.md) 
 
-### [golf_course.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.personal.md) 
+### #is_/same_as :: [golf_course.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.personal.md) 
 
-### [golf_course.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.secret.md)
+### #is_/same_as :: [golf_course.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.secret.md)
 

@@ -45,17 +45,17 @@ A subway station.
 
 ## Confidential Links & Embeds: 
 
-### [subway_station](/_Standards/schema-org/Class/is_a_/place/civic_structure/subway_station.md) 
+### #is_/same_as :: [subway_station](/_Standards/schema-org/Class/is_a_/place/civic_structure/subway_station.md) 
 
-### [subway_station.public](/_public/schema-org/Class/is_a_/place/civic_structure/subway_station.public.md) 
+### #is_/same_as :: [subway_station.public](/_public/schema-org/Class/is_a_/place/civic_structure/subway_station.public.md) 
 
-### [subway_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/subway_station.internal.md) 
+### #is_/same_as :: [subway_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/subway_station.internal.md) 
 
-### [subway_station.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/subway_station.protect.md) 
+### #is_/same_as :: [subway_station.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/subway_station.protect.md) 
 
-### [subway_station.private](/_private/schema-org/Class/is_a_/place/civic_structure/subway_station.private.md) 
+### #is_/same_as :: [subway_station.private](/_private/schema-org/Class/is_a_/place/civic_structure/subway_station.private.md) 
 
-### [subway_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/subway_station.personal.md) 
+### #is_/same_as :: [subway_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/subway_station.personal.md) 
 
-### [subway_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/subway_station.secret.md)
+### #is_/same_as :: [subway_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/subway_station.secret.md)
 

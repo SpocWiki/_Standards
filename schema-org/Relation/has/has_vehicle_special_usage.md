@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_special_usage](/_Standards/schema-org/Relation/has/has_vehicle_special_usage.md) 
+### #is_/same_as :: [has_vehicle_special_usage](/_Standards/schema-org/Relation/has/has_vehicle_special_usage.md) 
 
-### [has_vehicle_special_usage.public](/_public/schema-org/Relation/has/has_vehicle_special_usage.public.md) 
+### #is_/same_as :: [has_vehicle_special_usage.public](/_public/schema-org/Relation/has/has_vehicle_special_usage.public.md) 
 
-### [has_vehicle_special_usage.internal](/_internal/schema-org/Relation/has/has_vehicle_special_usage.internal.md) 
+### #is_/same_as :: [has_vehicle_special_usage.internal](/_internal/schema-org/Relation/has/has_vehicle_special_usage.internal.md) 
 
-### [has_vehicle_special_usage.protect](/_protect/schema-org/Relation/has/has_vehicle_special_usage.protect.md) 
+### #is_/same_as :: [has_vehicle_special_usage.protect](/_protect/schema-org/Relation/has/has_vehicle_special_usage.protect.md) 
 
-### [has_vehicle_special_usage.private](/_private/schema-org/Relation/has/has_vehicle_special_usage.private.md) 
+### #is_/same_as :: [has_vehicle_special_usage.private](/_private/schema-org/Relation/has/has_vehicle_special_usage.private.md) 
 
-### [has_vehicle_special_usage.personal](/_personal/schema-org/Relation/has/has_vehicle_special_usage.personal.md) 
+### #is_/same_as :: [has_vehicle_special_usage.personal](/_personal/schema-org/Relation/has/has_vehicle_special_usage.personal.md) 
 
-### [has_vehicle_special_usage.secret](/_secret/schema-org/Relation/has/has_vehicle_special_usage.secret.md)
+### #is_/same_as :: [has_vehicle_special_usage.secret](/_secret/schema-org/Relation/has/has_vehicle_special_usage.secret.md)
 

@@ -88,17 +88,17 @@ ICD_O: 8000/3
 
 ## Confidential Links & Embeds: 
 
-### [Cancer](/_Standards/bio/Medicine/Disease/Cancer.md) 
+### #is_/same_as :: [Cancer](/_Standards/bio/Medicine/Disease/Cancer.md) 
 
-### [Cancer.public](/_public/bio/Medicine/Disease/Cancer.public.md) 
+### #is_/same_as :: [Cancer.public](/_public/bio/Medicine/Disease/Cancer.public.md) 
 
-### [Cancer.internal](/_internal/bio/Medicine/Disease/Cancer.internal.md) 
+### #is_/same_as :: [Cancer.internal](/_internal/bio/Medicine/Disease/Cancer.internal.md) 
 
-### [Cancer.protect](/_protect/bio/Medicine/Disease/Cancer.protect.md) 
+### #is_/same_as :: [Cancer.protect](/_protect/bio/Medicine/Disease/Cancer.protect.md) 
 
-### [Cancer.private](/_private/bio/Medicine/Disease/Cancer.private.md) 
+### #is_/same_as :: [Cancer.private](/_private/bio/Medicine/Disease/Cancer.private.md) 
 
-### [Cancer.personal](/_personal/bio/Medicine/Disease/Cancer.personal.md) 
+### #is_/same_as :: [Cancer.personal](/_personal/bio/Medicine/Disease/Cancer.personal.md) 
 
-### [Cancer.secret](/_secret/bio/Medicine/Disease/Cancer.secret.md)
+### #is_/same_as :: [Cancer.secret](/_secret/bio/Medicine/Disease/Cancer.secret.md)
 

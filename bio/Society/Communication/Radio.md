@@ -61,24 +61,19 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Radio) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Radio](/_Standards/bio/Society/Communication/Radio.md) 
+### #is_/same_as :: [Radio](/_Standards/bio/Society/Communication/Radio.md) 
 
-### [Radio.public](/_public/bio/Society/Communication/Radio.public.md) 
+### #is_/same_as :: [Radio.public](/_public/bio/Society/Communication/Radio.public.md) 
 
-### [Radio.internal](/_internal/bio/Society/Communication/Radio.internal.md) 
+### #is_/same_as :: [Radio.internal](/_internal/bio/Society/Communication/Radio.internal.md) 
 
-### [Radio.protect](/_protect/bio/Society/Communication/Radio.protect.md) 
+### #is_/same_as :: [Radio.protect](/_protect/bio/Society/Communication/Radio.protect.md) 
 
-### [Radio.private](/_private/bio/Society/Communication/Radio.private.md) 
+### #is_/same_as :: [Radio.private](/_private/bio/Society/Communication/Radio.private.md) 
 
-### [Radio.personal](/_personal/bio/Society/Communication/Radio.personal.md) 
+### #is_/same_as :: [Radio.personal](/_personal/bio/Society/Communication/Radio.personal.md) 
 
-### [Radio.secret](/_secret/bio/Society/Communication/Radio.secret.md)
+### #is_/same_as :: [Radio.secret](/_secret/bio/Society/Communication/Radio.secret.md)
 

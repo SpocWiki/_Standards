@@ -49,17 +49,17 @@ Size group "Misses" (also known as "Missy") for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_misses](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md) 
+### #is_/same_as :: [wearable_size_group_misses](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md) 
 
-### [wearable_size_group_misses.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.public.md) 
+### #is_/same_as :: [wearable_size_group_misses.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.public.md) 
 
-### [wearable_size_group_misses.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.internal.md) 
+### #is_/same_as :: [wearable_size_group_misses.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.internal.md) 
 
-### [wearable_size_group_misses.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.protect.md) 
+### #is_/same_as :: [wearable_size_group_misses.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.protect.md) 
 
-### [wearable_size_group_misses.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.private.md) 
+### #is_/same_as :: [wearable_size_group_misses.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.private.md) 
 
-### [wearable_size_group_misses.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.personal.md) 
+### #is_/same_as :: [wearable_size_group_misses.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.personal.md) 
 
-### [wearable_size_group_misses.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.secret.md)
+### #is_/same_as :: [wearable_size_group_misses.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.secret.md)
 

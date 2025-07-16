@@ -140,17 +140,17 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CriticReviewAndNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.md) 
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.public.md) 
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.public.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.internal.md) 
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.internal.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.protect.md) 
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.protect.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.private.md) 
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.private.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.personal.md) 
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.personal.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.secret.md)
+### #is_/same_as :: [FileClass~CriticReviewAndNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.secret.md)
 

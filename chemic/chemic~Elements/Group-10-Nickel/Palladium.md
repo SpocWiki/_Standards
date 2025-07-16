@@ -133,17 +133,17 @@ InChIKey: KDLHZDBZIXYQEI-UHFFFAOYSA-N
 
 ## Confidential Links & Embeds: 
 
-### [Palladium](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Palladium.md) 
+### #is_/same_as :: [Palladium](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Palladium.md) 
 
-### [Palladium.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Palladium.public.md) 
+### #is_/same_as :: [Palladium.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Palladium.public.md) 
 
-### [Palladium.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Palladium.internal.md) 
+### #is_/same_as :: [Palladium.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Palladium.internal.md) 
 
-### [Palladium.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Palladium.protect.md) 
+### #is_/same_as :: [Palladium.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Palladium.protect.md) 
 
-### [Palladium.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Palladium.private.md) 
+### #is_/same_as :: [Palladium.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Palladium.private.md) 
 
-### [Palladium.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Palladium.personal.md) 
+### #is_/same_as :: [Palladium.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Palladium.personal.md) 
 
-### [Palladium.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Palladium.secret.md)
+### #is_/same_as :: [Palladium.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Palladium.secret.md)
 

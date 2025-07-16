@@ -47,17 +47,17 @@ A single message from a sender to one or more organizations or people.
 
 ## Confidential Links & Embeds: 
 
-### [message](/_Standards/schema-org/Class/is_a_/creative_work/message.md) 
+### #is_/same_as :: [message](/_Standards/schema-org/Class/is_a_/creative_work/message.md) 
 
-### [message.public](/_public/schema-org/Class/is_a_/creative_work/message.public.md) 
+### #is_/same_as :: [message.public](/_public/schema-org/Class/is_a_/creative_work/message.public.md) 
 
-### [message.internal](/_internal/schema-org/Class/is_a_/creative_work/message.internal.md) 
+### #is_/same_as :: [message.internal](/_internal/schema-org/Class/is_a_/creative_work/message.internal.md) 
 
-### [message.protect](/_protect/schema-org/Class/is_a_/creative_work/message.protect.md) 
+### #is_/same_as :: [message.protect](/_protect/schema-org/Class/is_a_/creative_work/message.protect.md) 
 
-### [message.private](/_private/schema-org/Class/is_a_/creative_work/message.private.md) 
+### #is_/same_as :: [message.private](/_private/schema-org/Class/is_a_/creative_work/message.private.md) 
 
-### [message.personal](/_personal/schema-org/Class/is_a_/creative_work/message.personal.md) 
+### #is_/same_as :: [message.personal](/_personal/schema-org/Class/is_a_/creative_work/message.personal.md) 
 
-### [message.secret](/_secret/schema-org/Class/is_a_/creative_work/message.secret.md)
+### #is_/same_as :: [message.secret](/_secret/schema-org/Class/is_a_/creative_work/message.secret.md)
 

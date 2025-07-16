@@ -63,21 +63,19 @@ Metabolismus
 Maulwürfe und Spitzmäuse bauen Knochen, Muskeln und Gehirn im Winterschlaf ab, um Energie zu sparen. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Carbohydrate](/_Standards/bio/Metabolism/Nutrition/Carbohydrate.md) 
+### #is_/same_as :: [Carbohydrate](/_Standards/bio/Metabolism/Nutrition/Carbohydrate.md) 
 
-### [Carbohydrate.public](/_public/bio/Metabolism/Nutrition/Carbohydrate.public.md) 
+### #is_/same_as :: [Carbohydrate.public](/_public/bio/Metabolism/Nutrition/Carbohydrate.public.md) 
 
-### [Carbohydrate.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate.internal.md) 
+### #is_/same_as :: [Carbohydrate.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate.internal.md) 
 
-### [Carbohydrate.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate.protect.md) 
+### #is_/same_as :: [Carbohydrate.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate.protect.md) 
 
-### [Carbohydrate.private](/_private/bio/Metabolism/Nutrition/Carbohydrate.private.md) 
+### #is_/same_as :: [Carbohydrate.private](/_private/bio/Metabolism/Nutrition/Carbohydrate.private.md) 
 
-### [Carbohydrate.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate.personal.md) 
+### #is_/same_as :: [Carbohydrate.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate.personal.md) 
 
-### [Carbohydrate.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate.secret.md)
+### #is_/same_as :: [Carbohydrate.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate.secret.md)
 

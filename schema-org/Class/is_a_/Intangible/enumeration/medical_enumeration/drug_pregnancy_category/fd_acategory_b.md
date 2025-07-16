@@ -47,17 +47,17 @@ A designation by the US FDA signifying that animal reproduction studies have fai
 
 ## Confidential Links & Embeds: 
 
-### [fd_acategory_b](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.md) 
+### #is_/same_as :: [fd_acategory_b](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.md) 
 
-### [fd_acategory_b.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.public.md) 
+### #is_/same_as :: [fd_acategory_b.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.public.md) 
 
-### [fd_acategory_b.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.internal.md) 
+### #is_/same_as :: [fd_acategory_b.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.internal.md) 
 
-### [fd_acategory_b.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.protect.md) 
+### #is_/same_as :: [fd_acategory_b.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.protect.md) 
 
-### [fd_acategory_b.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.private.md) 
+### #is_/same_as :: [fd_acategory_b.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.private.md) 
 
-### [fd_acategory_b.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.personal.md) 
+### #is_/same_as :: [fd_acategory_b.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.personal.md) 
 
-### [fd_acategory_b.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.secret.md)
+### #is_/same_as :: [fd_acategory_b.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.secret.md)
 

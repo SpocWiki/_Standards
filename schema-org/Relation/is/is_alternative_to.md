@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_alternative_to](/_Standards/schema-org/Relation/is/is_alternative_to.md) 
+### #is_/same_as :: [is_alternative_to](/_Standards/schema-org/Relation/is/is_alternative_to.md) 
 
-### [is_alternative_to.public](/_public/schema-org/Relation/is/is_alternative_to.public.md) 
+### #is_/same_as :: [is_alternative_to.public](/_public/schema-org/Relation/is/is_alternative_to.public.md) 
 
-### [is_alternative_to.internal](/_internal/schema-org/Relation/is/is_alternative_to.internal.md) 
+### #is_/same_as :: [is_alternative_to.internal](/_internal/schema-org/Relation/is/is_alternative_to.internal.md) 
 
-### [is_alternative_to.protect](/_protect/schema-org/Relation/is/is_alternative_to.protect.md) 
+### #is_/same_as :: [is_alternative_to.protect](/_protect/schema-org/Relation/is/is_alternative_to.protect.md) 
 
-### [is_alternative_to.private](/_private/schema-org/Relation/is/is_alternative_to.private.md) 
+### #is_/same_as :: [is_alternative_to.private](/_private/schema-org/Relation/is/is_alternative_to.private.md) 
 
-### [is_alternative_to.personal](/_personal/schema-org/Relation/is/is_alternative_to.personal.md) 
+### #is_/same_as :: [is_alternative_to.personal](/_personal/schema-org/Relation/is/is_alternative_to.personal.md) 
 
-### [is_alternative_to.secret](/_secret/schema-org/Relation/is/is_alternative_to.secret.md)
+### #is_/same_as :: [is_alternative_to.secret](/_secret/schema-org/Relation/is/is_alternative_to.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_including_attraction](/_Standards/schema-org/Relation/is/is_including_attraction.md) 
+### #is_/same_as :: [is_including_attraction](/_Standards/schema-org/Relation/is/is_including_attraction.md) 
 
-### [is_including_attraction.public](/_public/schema-org/Relation/is/is_including_attraction.public.md) 
+### #is_/same_as :: [is_including_attraction.public](/_public/schema-org/Relation/is/is_including_attraction.public.md) 
 
-### [is_including_attraction.internal](/_internal/schema-org/Relation/is/is_including_attraction.internal.md) 
+### #is_/same_as :: [is_including_attraction.internal](/_internal/schema-org/Relation/is/is_including_attraction.internal.md) 
 
-### [is_including_attraction.protect](/_protect/schema-org/Relation/is/is_including_attraction.protect.md) 
+### #is_/same_as :: [is_including_attraction.protect](/_protect/schema-org/Relation/is/is_including_attraction.protect.md) 
 
-### [is_including_attraction.private](/_private/schema-org/Relation/is/is_including_attraction.private.md) 
+### #is_/same_as :: [is_including_attraction.private](/_private/schema-org/Relation/is/is_including_attraction.private.md) 
 
-### [is_including_attraction.personal](/_personal/schema-org/Relation/is/is_including_attraction.personal.md) 
+### #is_/same_as :: [is_including_attraction.personal](/_personal/schema-org/Relation/is/is_including_attraction.personal.md) 
 
-### [is_including_attraction.secret](/_secret/schema-org/Relation/is/is_including_attraction.secret.md)
+### #is_/same_as :: [is_including_attraction.secret](/_secret/schema-org/Relation/is/is_including_attraction.secret.md)
 

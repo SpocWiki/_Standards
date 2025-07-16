@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sub_structure](/_Standards/schema-org/Relation/has/has_sub_structure.md) 
+### #is_/same_as :: [has_sub_structure](/_Standards/schema-org/Relation/has/has_sub_structure.md) 
 
-### [has_sub_structure.public](/_public/schema-org/Relation/has/has_sub_structure.public.md) 
+### #is_/same_as :: [has_sub_structure.public](/_public/schema-org/Relation/has/has_sub_structure.public.md) 
 
-### [has_sub_structure.internal](/_internal/schema-org/Relation/has/has_sub_structure.internal.md) 
+### #is_/same_as :: [has_sub_structure.internal](/_internal/schema-org/Relation/has/has_sub_structure.internal.md) 
 
-### [has_sub_structure.protect](/_protect/schema-org/Relation/has/has_sub_structure.protect.md) 
+### #is_/same_as :: [has_sub_structure.protect](/_protect/schema-org/Relation/has/has_sub_structure.protect.md) 
 
-### [has_sub_structure.private](/_private/schema-org/Relation/has/has_sub_structure.private.md) 
+### #is_/same_as :: [has_sub_structure.private](/_private/schema-org/Relation/has/has_sub_structure.private.md) 
 
-### [has_sub_structure.personal](/_personal/schema-org/Relation/has/has_sub_structure.personal.md) 
+### #is_/same_as :: [has_sub_structure.personal](/_personal/schema-org/Relation/has/has_sub_structure.personal.md) 
 
-### [has_sub_structure.secret](/_secret/schema-org/Relation/has/has_sub_structure.secret.md)
+### #is_/same_as :: [has_sub_structure.secret](/_secret/schema-org/Relation/has/has_sub_structure.secret.md)
 

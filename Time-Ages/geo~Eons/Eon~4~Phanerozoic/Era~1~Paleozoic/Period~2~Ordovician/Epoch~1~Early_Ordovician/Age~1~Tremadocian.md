@@ -61,17 +61,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~1~Tremadocian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.md) 
+### #is_/same_as :: [Age~1~Tremadocian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.md) 
 
-### [Age~1~Tremadocian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.public.md) 
+### #is_/same_as :: [Age~1~Tremadocian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.public.md) 
 
-### [Age~1~Tremadocian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.internal.md) 
+### #is_/same_as :: [Age~1~Tremadocian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.internal.md) 
 
-### [Age~1~Tremadocian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.protect.md) 
+### #is_/same_as :: [Age~1~Tremadocian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.protect.md) 
 
-### [Age~1~Tremadocian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.private.md) 
+### #is_/same_as :: [Age~1~Tremadocian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.private.md) 
 
-### [Age~1~Tremadocian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.personal.md) 
+### #is_/same_as :: [Age~1~Tremadocian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.personal.md) 
 
-### [Age~1~Tremadocian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.secret.md)
+### #is_/same_as :: [Age~1~Tremadocian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.secret.md)
 

@@ -20,21 +20,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandalwood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sandalwood](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.md) 
+### #is_/same_as :: [Sandalwood](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.md) 
 
-### [Sandalwood.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.public.md) 
+### #is_/same_as :: [Sandalwood.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.public.md) 
 
-### [Sandalwood.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.internal.md) 
+### #is_/same_as :: [Sandalwood.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.internal.md) 
 
-### [Sandalwood.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.protect.md) 
+### #is_/same_as :: [Sandalwood.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.protect.md) 
 
-### [Sandalwood.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.private.md) 
+### #is_/same_as :: [Sandalwood.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.private.md) 
 
-### [Sandalwood.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.personal.md) 
+### #is_/same_as :: [Sandalwood.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.personal.md) 
 
-### [Sandalwood.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.secret.md)
+### #is_/same_as :: [Sandalwood.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood.secret.md)
 

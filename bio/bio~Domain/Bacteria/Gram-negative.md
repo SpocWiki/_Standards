@@ -34,23 +34,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gram-negative%20bacteria) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gram-negative](/_Standards/bio/bio~Domain/Bacteria/Gram-negative.md) 
+### #is_/same_as :: [Gram-negative](/_Standards/bio/bio~Domain/Bacteria/Gram-negative.md) 
 
-### [Gram-negative.public](/_public/bio/bio~Domain/Bacteria/Gram-negative.public.md) 
+### #is_/same_as :: [Gram-negative.public](/_public/bio/bio~Domain/Bacteria/Gram-negative.public.md) 
 
-### [Gram-negative.internal](/_internal/bio/bio~Domain/Bacteria/Gram-negative.internal.md) 
+### #is_/same_as :: [Gram-negative.internal](/_internal/bio/bio~Domain/Bacteria/Gram-negative.internal.md) 
 
-### [Gram-negative.protect](/_protect/bio/bio~Domain/Bacteria/Gram-negative.protect.md) 
+### #is_/same_as :: [Gram-negative.protect](/_protect/bio/bio~Domain/Bacteria/Gram-negative.protect.md) 
 
-### [Gram-negative.private](/_private/bio/bio~Domain/Bacteria/Gram-negative.private.md) 
+### #is_/same_as :: [Gram-negative.private](/_private/bio/bio~Domain/Bacteria/Gram-negative.private.md) 
 
-### [Gram-negative.personal](/_personal/bio/bio~Domain/Bacteria/Gram-negative.personal.md) 
+### #is_/same_as :: [Gram-negative.personal](/_personal/bio/bio~Domain/Bacteria/Gram-negative.personal.md) 
 
-### [Gram-negative.secret](/_secret/bio/bio~Domain/Bacteria/Gram-negative.secret.md)
+### #is_/same_as :: [Gram-negative.secret](/_secret/bio/bio~Domain/Bacteria/Gram-negative.secret.md)
 

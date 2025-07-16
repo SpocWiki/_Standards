@@ -52,17 +52,17 @@ sp. Journal of Eukaryotic Microbiology 40(3):272-287.
 
 ## Confidential Links & Embeds: 
 
-### [Luffisphaera](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.md) 
+### #is_/same_as :: [Luffisphaera](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.md) 
 
-### [Luffisphaera.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.public.md) 
+### #is_/same_as :: [Luffisphaera.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.public.md) 
 
-### [Luffisphaera.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.internal.md) 
+### #is_/same_as :: [Luffisphaera.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.internal.md) 
 
-### [Luffisphaera.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.protect.md) 
+### #is_/same_as :: [Luffisphaera.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.protect.md) 
 
-### [Luffisphaera.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.private.md) 
+### #is_/same_as :: [Luffisphaera.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.private.md) 
 
-### [Luffisphaera.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.personal.md) 
+### #is_/same_as :: [Luffisphaera.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.personal.md) 
 
-### [Luffisphaera.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.secret.md)
+### #is_/same_as :: [Luffisphaera.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.secret.md)
 

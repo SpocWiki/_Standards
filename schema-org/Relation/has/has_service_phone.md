@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_service_phone](/_Standards/schema-org/Relation/has/has_service_phone.md) 
+### #is_/same_as :: [has_service_phone](/_Standards/schema-org/Relation/has/has_service_phone.md) 
 
-### [has_service_phone.public](/_public/schema-org/Relation/has/has_service_phone.public.md) 
+### #is_/same_as :: [has_service_phone.public](/_public/schema-org/Relation/has/has_service_phone.public.md) 
 
-### [has_service_phone.internal](/_internal/schema-org/Relation/has/has_service_phone.internal.md) 
+### #is_/same_as :: [has_service_phone.internal](/_internal/schema-org/Relation/has/has_service_phone.internal.md) 
 
-### [has_service_phone.protect](/_protect/schema-org/Relation/has/has_service_phone.protect.md) 
+### #is_/same_as :: [has_service_phone.protect](/_protect/schema-org/Relation/has/has_service_phone.protect.md) 
 
-### [has_service_phone.private](/_private/schema-org/Relation/has/has_service_phone.private.md) 
+### #is_/same_as :: [has_service_phone.private](/_private/schema-org/Relation/has/has_service_phone.private.md) 
 
-### [has_service_phone.personal](/_personal/schema-org/Relation/has/has_service_phone.personal.md) 
+### #is_/same_as :: [has_service_phone.personal](/_personal/schema-org/Relation/has/has_service_phone.personal.md) 
 
-### [has_service_phone.secret](/_secret/schema-org/Relation/has/has_service_phone.secret.md)
+### #is_/same_as :: [has_service_phone.secret](/_secret/schema-org/Relation/has/has_service_phone.secret.md)
 

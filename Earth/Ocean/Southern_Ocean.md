@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Southern_Ocean](/_Standards/Earth/Ocean/Southern_Ocean.md) 
+### #is_/same_as :: [Southern_Ocean](/_Standards/Earth/Ocean/Southern_Ocean.md) 
 
-### [Southern_Ocean.public](/_public/Earth/Ocean/Southern_Ocean.public.md) 
+### #is_/same_as :: [Southern_Ocean.public](/_public/Earth/Ocean/Southern_Ocean.public.md) 
 
-### [Southern_Ocean.internal](/_internal/Earth/Ocean/Southern_Ocean.internal.md) 
+### #is_/same_as :: [Southern_Ocean.internal](/_internal/Earth/Ocean/Southern_Ocean.internal.md) 
 
-### [Southern_Ocean.protect](/_protect/Earth/Ocean/Southern_Ocean.protect.md) 
+### #is_/same_as :: [Southern_Ocean.protect](/_protect/Earth/Ocean/Southern_Ocean.protect.md) 
 
-### [Southern_Ocean.private](/_private/Earth/Ocean/Southern_Ocean.private.md) 
+### #is_/same_as :: [Southern_Ocean.private](/_private/Earth/Ocean/Southern_Ocean.private.md) 
 
-### [Southern_Ocean.personal](/_personal/Earth/Ocean/Southern_Ocean.personal.md) 
+### #is_/same_as :: [Southern_Ocean.personal](/_personal/Earth/Ocean/Southern_Ocean.personal.md) 
 
-### [Southern_Ocean.secret](/_secret/Earth/Ocean/Southern_Ocean.secret.md)
+### #is_/same_as :: [Southern_Ocean.secret](/_secret/Earth/Ocean/Southern_Ocean.secret.md)
 

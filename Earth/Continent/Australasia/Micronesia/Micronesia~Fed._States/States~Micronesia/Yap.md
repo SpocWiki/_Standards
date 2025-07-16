@@ -40,17 +40,17 @@ markerFolder: ./Yap/
 
 ## Confidential Links & Embeds: 
 
-### [Yap](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.md) 
+### #is_/same_as :: [Yap](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.md) 
 
-### [Yap.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.public.md) 
+### #is_/same_as :: [Yap.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.public.md) 
 
-### [Yap.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.internal.md) 
+### #is_/same_as :: [Yap.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.internal.md) 
 
-### [Yap.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.protect.md) 
+### #is_/same_as :: [Yap.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.protect.md) 
 
-### [Yap.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.private.md) 
+### #is_/same_as :: [Yap.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.private.md) 
 
-### [Yap.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.personal.md) 
+### #is_/same_as :: [Yap.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.personal.md) 
 
-### [Yap.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret.md)
+### #is_/same_as :: [Yap.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret.md)
 

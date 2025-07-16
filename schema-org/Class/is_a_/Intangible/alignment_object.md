@@ -47,17 +47,17 @@ Should not be used where the nature of the alignment can be described using a si
 
 ## Confidential Links & Embeds: 
 
-### [alignment_object](/_Standards/schema-org/Class/is_a_/Intangible/alignment_object.md) 
+### #is_/same_as :: [alignment_object](/_Standards/schema-org/Class/is_a_/Intangible/alignment_object.md) 
 
-### [alignment_object.public](/_public/schema-org/Class/is_a_/Intangible/alignment_object.public.md) 
+### #is_/same_as :: [alignment_object.public](/_public/schema-org/Class/is_a_/Intangible/alignment_object.public.md) 
 
-### [alignment_object.internal](/_internal/schema-org/Class/is_a_/Intangible/alignment_object.internal.md) 
+### #is_/same_as :: [alignment_object.internal](/_internal/schema-org/Class/is_a_/Intangible/alignment_object.internal.md) 
 
-### [alignment_object.protect](/_protect/schema-org/Class/is_a_/Intangible/alignment_object.protect.md) 
+### #is_/same_as :: [alignment_object.protect](/_protect/schema-org/Class/is_a_/Intangible/alignment_object.protect.md) 
 
-### [alignment_object.private](/_private/schema-org/Class/is_a_/Intangible/alignment_object.private.md) 
+### #is_/same_as :: [alignment_object.private](/_private/schema-org/Class/is_a_/Intangible/alignment_object.private.md) 
 
-### [alignment_object.personal](/_personal/schema-org/Class/is_a_/Intangible/alignment_object.personal.md) 
+### #is_/same_as :: [alignment_object.personal](/_personal/schema-org/Class/is_a_/Intangible/alignment_object.personal.md) 
 
-### [alignment_object.secret](/_secret/schema-org/Class/is_a_/Intangible/alignment_object.secret.md)
+### #is_/same_as :: [alignment_object.secret](/_secret/schema-org/Class/is_a_/Intangible/alignment_object.secret.md)
 

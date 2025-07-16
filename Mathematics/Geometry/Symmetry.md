@@ -46,17 +46,17 @@ Commons_category: Symmetry
 
 ## Confidential Links & Embeds: 
 
-### [Symmetry](/_Standards/Mathematics/Geometry/Symmetry.md) 
+### #is_/same_as :: [Symmetry](/_Standards/Mathematics/Geometry/Symmetry.md) 
 
-### [Symmetry.public](/_public/Mathematics/Geometry/Symmetry.public.md) 
+### #is_/same_as :: [Symmetry.public](/_public/Mathematics/Geometry/Symmetry.public.md) 
 
-### [Symmetry.internal](/_internal/Mathematics/Geometry/Symmetry.internal.md) 
+### #is_/same_as :: [Symmetry.internal](/_internal/Mathematics/Geometry/Symmetry.internal.md) 
 
-### [Symmetry.protect](/_protect/Mathematics/Geometry/Symmetry.protect.md) 
+### #is_/same_as :: [Symmetry.protect](/_protect/Mathematics/Geometry/Symmetry.protect.md) 
 
-### [Symmetry.private](/_private/Mathematics/Geometry/Symmetry.private.md) 
+### #is_/same_as :: [Symmetry.private](/_private/Mathematics/Geometry/Symmetry.private.md) 
 
-### [Symmetry.personal](/_personal/Mathematics/Geometry/Symmetry.personal.md) 
+### #is_/same_as :: [Symmetry.personal](/_personal/Mathematics/Geometry/Symmetry.personal.md) 
 
-### [Symmetry.secret](/_secret/Mathematics/Geometry/Symmetry.secret.md)
+### #is_/same_as :: [Symmetry.secret](/_secret/Mathematics/Geometry/Symmetry.secret.md)
 

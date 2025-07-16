@@ -60,17 +60,17 @@ MedicalSpecialty:: {"type":"Select","options":{"valuesList":{"Anesthesia","Cardi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.md) 
+### #is_/same_as :: [FileClass~MedicalOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.md) 
 
-### [FileClass~MedicalOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.public.md) 
+### #is_/same_as :: [FileClass~MedicalOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.public.md) 
 
-### [FileClass~MedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.internal.md) 
+### #is_/same_as :: [FileClass~MedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.internal.md) 
 
-### [FileClass~MedicalOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.protect.md) 
+### #is_/same_as :: [FileClass~MedicalOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.protect.md) 
 
-### [FileClass~MedicalOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.private.md) 
+### #is_/same_as :: [FileClass~MedicalOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.private.md) 
 
-### [FileClass~MedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.personal.md) 
+### #is_/same_as :: [FileClass~MedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.personal.md) 
 
-### [FileClass~MedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.secret.md)
+### #is_/same_as :: [FileClass~MedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.secret.md)
 

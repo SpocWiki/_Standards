@@ -45,17 +45,17 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 
 ## Confidential Links & Embeds: 
 
-### [palliative_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.md) 
+### #is_/same_as :: [palliative_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.md) 
 
-### [palliative_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.public.md) 
+### #is_/same_as :: [palliative_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.public.md) 
 
-### [palliative_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.internal.md) 
+### #is_/same_as :: [palliative_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.internal.md) 
 
-### [palliative_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.protect.md) 
+### #is_/same_as :: [palliative_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.protect.md) 
 
-### [palliative_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.private.md) 
+### #is_/same_as :: [palliative_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.private.md) 
 
-### [palliative_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.personal.md) 
+### #is_/same_as :: [palliative_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.personal.md) 
 
-### [palliative_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.secret.md)
+### #is_/same_as :: [palliative_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.secret.md)
 

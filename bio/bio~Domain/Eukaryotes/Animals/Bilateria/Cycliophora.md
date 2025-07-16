@@ -79,21 +79,19 @@ The three known hosts are
 	-   *Symbion americanus*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cycliophora](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.md) 
+### #is_/same_as :: [Cycliophora](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.md) 
 
-### [Cycliophora.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.public.md) 
+### #is_/same_as :: [Cycliophora.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.public.md) 
 
-### [Cycliophora.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.internal.md) 
+### #is_/same_as :: [Cycliophora.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.internal.md) 
 
-### [Cycliophora.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.protect.md) 
+### #is_/same_as :: [Cycliophora.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.protect.md) 
 
-### [Cycliophora.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.private.md) 
+### #is_/same_as :: [Cycliophora.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.private.md) 
 
-### [Cycliophora.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.personal.md) 
+### #is_/same_as :: [Cycliophora.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.personal.md) 
 
-### [Cycliophora.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.secret.md)
+### #is_/same_as :: [Cycliophora.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Cycliophora.secret.md)
 

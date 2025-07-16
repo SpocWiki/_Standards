@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_area_served](/_Standards/schema-org/Relation/has/has_area_served.md) 
+### #is_/same_as :: [has_area_served](/_Standards/schema-org/Relation/has/has_area_served.md) 
 
-### [has_area_served.public](/_public/schema-org/Relation/has/has_area_served.public.md) 
+### #is_/same_as :: [has_area_served.public](/_public/schema-org/Relation/has/has_area_served.public.md) 
 
-### [has_area_served.internal](/_internal/schema-org/Relation/has/has_area_served.internal.md) 
+### #is_/same_as :: [has_area_served.internal](/_internal/schema-org/Relation/has/has_area_served.internal.md) 
 
-### [has_area_served.protect](/_protect/schema-org/Relation/has/has_area_served.protect.md) 
+### #is_/same_as :: [has_area_served.protect](/_protect/schema-org/Relation/has/has_area_served.protect.md) 
 
-### [has_area_served.private](/_private/schema-org/Relation/has/has_area_served.private.md) 
+### #is_/same_as :: [has_area_served.private](/_private/schema-org/Relation/has/has_area_served.private.md) 
 
-### [has_area_served.personal](/_personal/schema-org/Relation/has/has_area_served.personal.md) 
+### #is_/same_as :: [has_area_served.personal](/_personal/schema-org/Relation/has/has_area_served.personal.md) 
 
-### [has_area_served.secret](/_secret/schema-org/Relation/has/has_area_served.secret.md)
+### #is_/same_as :: [has_area_served.secret](/_secret/schema-org/Relation/has/has_area_served.secret.md)
 

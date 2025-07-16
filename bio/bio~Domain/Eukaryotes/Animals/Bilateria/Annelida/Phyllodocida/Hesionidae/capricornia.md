@@ -99,23 +99,19 @@ View                 dorsal
 Copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [capricornia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.md) 
+### #is_/same_as :: [capricornia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.md) 
 
-### [capricornia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.public.md) 
+### #is_/same_as :: [capricornia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.public.md) 
 
-### [capricornia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.internal.md) 
+### #is_/same_as :: [capricornia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.internal.md) 
 
-### [capricornia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.protect.md) 
+### #is_/same_as :: [capricornia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.protect.md) 
 
-### [capricornia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.private.md) 
+### #is_/same_as :: [capricornia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.private.md) 
 
-### [capricornia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.personal.md) 
+### #is_/same_as :: [capricornia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.personal.md) 
 
-### [capricornia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.secret.md)
+### #is_/same_as :: [capricornia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.secret.md)
 

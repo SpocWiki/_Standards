@@ -59,21 +59,19 @@ Colon_Classification: J781
 > [Wikipedia](https://en.wikipedia.org/wiki/Cotton) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cotton](/_Standards/Economics/Industry/Agriculture/Crop/Cotton.md) 
+### #is_/same_as :: [Cotton](/_Standards/Economics/Industry/Agriculture/Crop/Cotton.md) 
 
-### [Cotton.public](/_public/Economics/Industry/Agriculture/Crop/Cotton.public.md) 
+### #is_/same_as :: [Cotton.public](/_public/Economics/Industry/Agriculture/Crop/Cotton.public.md) 
 
-### [Cotton.internal](/_internal/Economics/Industry/Agriculture/Crop/Cotton.internal.md) 
+### #is_/same_as :: [Cotton.internal](/_internal/Economics/Industry/Agriculture/Crop/Cotton.internal.md) 
 
-### [Cotton.protect](/_protect/Economics/Industry/Agriculture/Crop/Cotton.protect.md) 
+### #is_/same_as :: [Cotton.protect](/_protect/Economics/Industry/Agriculture/Crop/Cotton.protect.md) 
 
-### [Cotton.private](/_private/Economics/Industry/Agriculture/Crop/Cotton.private.md) 
+### #is_/same_as :: [Cotton.private](/_private/Economics/Industry/Agriculture/Crop/Cotton.private.md) 
 
-### [Cotton.personal](/_personal/Economics/Industry/Agriculture/Crop/Cotton.personal.md) 
+### #is_/same_as :: [Cotton.personal](/_personal/Economics/Industry/Agriculture/Crop/Cotton.personal.md) 
 
-### [Cotton.secret](/_secret/Economics/Industry/Agriculture/Crop/Cotton.secret.md)
+### #is_/same_as :: [Cotton.secret](/_secret/Economics/Industry/Agriculture/Crop/Cotton.secret.md)
 

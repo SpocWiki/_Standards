@@ -67,22 +67,19 @@ Krugosvet_article: nauka_i_tehnika/biologiya/MISHTSI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscle)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Muscle](/_Standards/bio/Medicine/Anatomy/Muscle.md) 
+### #is_/same_as :: [Muscle](/_Standards/bio/Medicine/Anatomy/Muscle.md) 
 
-### [Muscle.public](/_public/bio/Medicine/Anatomy/Muscle.public.md) 
+### #is_/same_as :: [Muscle.public](/_public/bio/Medicine/Anatomy/Muscle.public.md) 
 
-### [Muscle.internal](/_internal/bio/Medicine/Anatomy/Muscle.internal.md) 
+### #is_/same_as :: [Muscle.internal](/_internal/bio/Medicine/Anatomy/Muscle.internal.md) 
 
-### [Muscle.protect](/_protect/bio/Medicine/Anatomy/Muscle.protect.md) 
+### #is_/same_as :: [Muscle.protect](/_protect/bio/Medicine/Anatomy/Muscle.protect.md) 
 
-### [Muscle.private](/_private/bio/Medicine/Anatomy/Muscle.private.md) 
+### #is_/same_as :: [Muscle.private](/_private/bio/Medicine/Anatomy/Muscle.private.md) 
 
-### [Muscle.personal](/_personal/bio/Medicine/Anatomy/Muscle.personal.md) 
+### #is_/same_as :: [Muscle.personal](/_personal/bio/Medicine/Anatomy/Muscle.personal.md) 
 
-### [Muscle.secret](/_secret/bio/Medicine/Anatomy/Muscle.secret.md)
+### #is_/same_as :: [Muscle.secret](/_secret/bio/Medicine/Anatomy/Muscle.secret.md)
 

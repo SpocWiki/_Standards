@@ -45,17 +45,17 @@ The act of marrying a person.
 
 ## Confidential Links & Embeds: 
 
-### [marry_action](/_Standards/schema-org/Class/is_a_/action/interact_action/marry_action.md) 
+### #is_/same_as :: [marry_action](/_Standards/schema-org/Class/is_a_/action/interact_action/marry_action.md) 
 
-### [marry_action.public](/_public/schema-org/Class/is_a_/action/interact_action/marry_action.public.md) 
+### #is_/same_as :: [marry_action.public](/_public/schema-org/Class/is_a_/action/interact_action/marry_action.public.md) 
 
-### [marry_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/marry_action.internal.md) 
+### #is_/same_as :: [marry_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/marry_action.internal.md) 
 
-### [marry_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/marry_action.protect.md) 
+### #is_/same_as :: [marry_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/marry_action.protect.md) 
 
-### [marry_action.private](/_private/schema-org/Class/is_a_/action/interact_action/marry_action.private.md) 
+### #is_/same_as :: [marry_action.private](/_private/schema-org/Class/is_a_/action/interact_action/marry_action.private.md) 
 
-### [marry_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/marry_action.personal.md) 
+### #is_/same_as :: [marry_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/marry_action.personal.md) 
 
-### [marry_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/marry_action.secret.md)
+### #is_/same_as :: [marry_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/marry_action.secret.md)
 

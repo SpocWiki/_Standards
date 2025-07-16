@@ -45,17 +45,17 @@ A permission for a particular person or group to access a particular file.
 
 ## Confidential Links & Embeds: 
 
-### [digital_document_permission](/_Standards/schema-org/Class/is_a_/Intangible/digital_document_permission.md) 
+### #is_/same_as :: [digital_document_permission](/_Standards/schema-org/Class/is_a_/Intangible/digital_document_permission.md) 
 
-### [digital_document_permission.public](/_public/schema-org/Class/is_a_/Intangible/digital_document_permission.public.md) 
+### #is_/same_as :: [digital_document_permission.public](/_public/schema-org/Class/is_a_/Intangible/digital_document_permission.public.md) 
 
-### [digital_document_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/digital_document_permission.internal.md) 
+### #is_/same_as :: [digital_document_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/digital_document_permission.internal.md) 
 
-### [digital_document_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/digital_document_permission.protect.md) 
+### #is_/same_as :: [digital_document_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/digital_document_permission.protect.md) 
 
-### [digital_document_permission.private](/_private/schema-org/Class/is_a_/Intangible/digital_document_permission.private.md) 
+### #is_/same_as :: [digital_document_permission.private](/_private/schema-org/Class/is_a_/Intangible/digital_document_permission.private.md) 
 
-### [digital_document_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/digital_document_permission.personal.md) 
+### #is_/same_as :: [digital_document_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/digital_document_permission.personal.md) 
 
-### [digital_document_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/digital_document_permission.secret.md)
+### #is_/same_as :: [digital_document_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/digital_document_permission.secret.md)
 

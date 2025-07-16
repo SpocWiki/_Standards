@@ -267,22 +267,19 @@ Reference         from Young, R. E. 1972. The systematics and areal distribution
 Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Vampyromorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.md) 
+### #is_/same_as :: [Vampyromorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.md) 
 
-### [Vampyromorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.public.md) 
+### #is_/same_as :: [Vampyromorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.public.md) 
 
-### [Vampyromorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.internal.md) 
+### #is_/same_as :: [Vampyromorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.internal.md) 
 
-### [Vampyromorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.protect.md) 
+### #is_/same_as :: [Vampyromorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.protect.md) 
 
-### [Vampyromorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.private.md) 
+### #is_/same_as :: [Vampyromorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.private.md) 
 
-### [Vampyromorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.personal.md) 
+### #is_/same_as :: [Vampyromorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.personal.md) 
 
-### [Vampyromorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.secret.md)
+### #is_/same_as :: [Vampyromorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.secret.md)
 

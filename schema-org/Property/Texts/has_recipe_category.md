@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_recipe_category](/_Standards/schema-org/Property/Texts/has_recipe_category.md) 
+### #is_/same_as :: [has_recipe_category](/_Standards/schema-org/Property/Texts/has_recipe_category.md) 
 
-### [has_recipe_category.public](/_public/schema-org/Property/Texts/has_recipe_category.public.md) 
+### #is_/same_as :: [has_recipe_category.public](/_public/schema-org/Property/Texts/has_recipe_category.public.md) 
 
-### [has_recipe_category.internal](/_internal/schema-org/Property/Texts/has_recipe_category.internal.md) 
+### #is_/same_as :: [has_recipe_category.internal](/_internal/schema-org/Property/Texts/has_recipe_category.internal.md) 
 
-### [has_recipe_category.protect](/_protect/schema-org/Property/Texts/has_recipe_category.protect.md) 
+### #is_/same_as :: [has_recipe_category.protect](/_protect/schema-org/Property/Texts/has_recipe_category.protect.md) 
 
-### [has_recipe_category.private](/_private/schema-org/Property/Texts/has_recipe_category.private.md) 
+### #is_/same_as :: [has_recipe_category.private](/_private/schema-org/Property/Texts/has_recipe_category.private.md) 
 
-### [has_recipe_category.personal](/_personal/schema-org/Property/Texts/has_recipe_category.personal.md) 
+### #is_/same_as :: [has_recipe_category.personal](/_personal/schema-org/Property/Texts/has_recipe_category.personal.md) 
 
-### [has_recipe_category.secret](/_secret/schema-org/Property/Texts/has_recipe_category.secret.md)
+### #is_/same_as :: [has_recipe_category.secret](/_secret/schema-org/Property/Texts/has_recipe_category.secret.md)
 

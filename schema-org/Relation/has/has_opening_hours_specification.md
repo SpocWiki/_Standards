@@ -63,17 +63,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_opening_hours_specification](/_Standards/schema-org/Relation/has/has_opening_hours_specification.md) 
+### #is_/same_as :: [has_opening_hours_specification](/_Standards/schema-org/Relation/has/has_opening_hours_specification.md) 
 
-### [has_opening_hours_specification.public](/_public/schema-org/Relation/has/has_opening_hours_specification.public.md) 
+### #is_/same_as :: [has_opening_hours_specification.public](/_public/schema-org/Relation/has/has_opening_hours_specification.public.md) 
 
-### [has_opening_hours_specification.internal](/_internal/schema-org/Relation/has/has_opening_hours_specification.internal.md) 
+### #is_/same_as :: [has_opening_hours_specification.internal](/_internal/schema-org/Relation/has/has_opening_hours_specification.internal.md) 
 
-### [has_opening_hours_specification.protect](/_protect/schema-org/Relation/has/has_opening_hours_specification.protect.md) 
+### #is_/same_as :: [has_opening_hours_specification.protect](/_protect/schema-org/Relation/has/has_opening_hours_specification.protect.md) 
 
-### [has_opening_hours_specification.private](/_private/schema-org/Relation/has/has_opening_hours_specification.private.md) 
+### #is_/same_as :: [has_opening_hours_specification.private](/_private/schema-org/Relation/has/has_opening_hours_specification.private.md) 
 
-### [has_opening_hours_specification.personal](/_personal/schema-org/Relation/has/has_opening_hours_specification.personal.md) 
+### #is_/same_as :: [has_opening_hours_specification.personal](/_personal/schema-org/Relation/has/has_opening_hours_specification.personal.md) 
 
-### [has_opening_hours_specification.secret](/_secret/schema-org/Relation/has/has_opening_hours_specification.secret.md)
+### #is_/same_as :: [has_opening_hours_specification.secret](/_secret/schema-org/Relation/has/has_opening_hours_specification.secret.md)
 

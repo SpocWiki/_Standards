@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Why_Nations_Fail](/_Standards/Economics/Institution/Why_Nations_Fail.md) 
+### #is_/same_as :: [Why_Nations_Fail](/_Standards/Economics/Institution/Why_Nations_Fail.md) 
 
-### [Why_Nations_Fail.public](/_public/Economics/Institution/Why_Nations_Fail.public.md) 
+### #is_/same_as :: [Why_Nations_Fail.public](/_public/Economics/Institution/Why_Nations_Fail.public.md) 
 
-### [Why_Nations_Fail.internal](/_internal/Economics/Institution/Why_Nations_Fail.internal.md) 
+### #is_/same_as :: [Why_Nations_Fail.internal](/_internal/Economics/Institution/Why_Nations_Fail.internal.md) 
 
-### [Why_Nations_Fail.protect](/_protect/Economics/Institution/Why_Nations_Fail.protect.md) 
+### #is_/same_as :: [Why_Nations_Fail.protect](/_protect/Economics/Institution/Why_Nations_Fail.protect.md) 
 
-### [Why_Nations_Fail.private](/_private/Economics/Institution/Why_Nations_Fail.private.md) 
+### #is_/same_as :: [Why_Nations_Fail.private](/_private/Economics/Institution/Why_Nations_Fail.private.md) 
 
-### [Why_Nations_Fail.personal](/_personal/Economics/Institution/Why_Nations_Fail.personal.md) 
+### #is_/same_as :: [Why_Nations_Fail.personal](/_personal/Economics/Institution/Why_Nations_Fail.personal.md) 
 
-### [Why_Nations_Fail.secret](/_secret/Economics/Institution/Why_Nations_Fail.secret.md)
+### #is_/same_as :: [Why_Nations_Fail.secret](/_secret/Economics/Institution/Why_Nations_Fail.secret.md)
 

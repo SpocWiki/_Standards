@@ -48,17 +48,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_legislation_version](/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation_version.md) 
+### #is_/same_as :: [has_time_of_legislation_version](/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation_version.md) 
 
-### [has_time_of_legislation_version.public](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation_version.public.md) 
+### #is_/same_as :: [has_time_of_legislation_version.public](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation_version.public.md) 
 
-### [has_time_of_legislation_version.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.internal.md) 
+### #is_/same_as :: [has_time_of_legislation_version.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.internal.md) 
 
-### [has_time_of_legislation_version.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_legislation_version.protect.md) 
+### #is_/same_as :: [has_time_of_legislation_version.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_legislation_version.protect.md) 
 
-### [has_time_of_legislation_version.private](/_private/schema-org/Property/has_Date_Time/has_time_of_legislation_version.private.md) 
+### #is_/same_as :: [has_time_of_legislation_version.private](/_private/schema-org/Property/has_Date_Time/has_time_of_legislation_version.private.md) 
 
-### [has_time_of_legislation_version.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.personal.md) 
+### #is_/same_as :: [has_time_of_legislation_version.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.personal.md) 
 
-### [has_time_of_legislation_version.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation_version.secret.md)
+### #is_/same_as :: [has_time_of_legislation_version.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation_version.secret.md)
 

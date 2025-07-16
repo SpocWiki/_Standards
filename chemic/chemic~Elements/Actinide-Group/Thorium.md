@@ -141,17 +141,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/TORI.html
 
 ## Confidential Links & Embeds: 
 
-### [Thorium](/_Standards/chemic/chemic~Elements/Actinide-Group/Thorium.md) 
+### #is_/same_as :: [Thorium](/_Standards/chemic/chemic~Elements/Actinide-Group/Thorium.md) 
 
-### [Thorium.public](/_public/chemic/chemic~Elements/Actinide-Group/Thorium.public.md) 
+### #is_/same_as :: [Thorium.public](/_public/chemic/chemic~Elements/Actinide-Group/Thorium.public.md) 
 
-### [Thorium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Thorium.internal.md) 
+### #is_/same_as :: [Thorium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Thorium.internal.md) 
 
-### [Thorium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Thorium.protect.md) 
+### #is_/same_as :: [Thorium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Thorium.protect.md) 
 
-### [Thorium.private](/_private/chemic/chemic~Elements/Actinide-Group/Thorium.private.md) 
+### #is_/same_as :: [Thorium.private](/_private/chemic/chemic~Elements/Actinide-Group/Thorium.private.md) 
 
-### [Thorium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Thorium.personal.md) 
+### #is_/same_as :: [Thorium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Thorium.personal.md) 
 
-### [Thorium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Thorium.secret.md)
+### #is_/same_as :: [Thorium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Thorium.secret.md)
 

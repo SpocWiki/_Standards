@@ -45,17 +45,17 @@ Beach.
 
 ## Confidential Links & Embeds: 
 
-### [beach](/_Standards/schema-org/Class/is_a_/place/civic_structure/beach.md) 
+### #is_/same_as :: [beach](/_Standards/schema-org/Class/is_a_/place/civic_structure/beach.md) 
 
-### [beach.public](/_public/schema-org/Class/is_a_/place/civic_structure/beach.public.md) 
+### #is_/same_as :: [beach.public](/_public/schema-org/Class/is_a_/place/civic_structure/beach.public.md) 
 
-### [beach.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/beach.internal.md) 
+### #is_/same_as :: [beach.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/beach.internal.md) 
 
-### [beach.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/beach.protect.md) 
+### #is_/same_as :: [beach.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/beach.protect.md) 
 
-### [beach.private](/_private/schema-org/Class/is_a_/place/civic_structure/beach.private.md) 
+### #is_/same_as :: [beach.private](/_private/schema-org/Class/is_a_/place/civic_structure/beach.private.md) 
 
-### [beach.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/beach.personal.md) 
+### #is_/same_as :: [beach.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/beach.personal.md) 
 
-### [beach.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/beach.secret.md)
+### #is_/same_as :: [beach.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/beach.secret.md)
 

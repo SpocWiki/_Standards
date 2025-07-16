@@ -631,17 +631,17 @@ Congo has 80% of global [[../../../../chemic/chemic~Elements/Group-09-Cobalt/Cob
 
 ## Confidential Links & Embeds: 
 
-### [Congo~Kinshasa](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.md) 
+### #is_/same_as :: [Congo~Kinshasa](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.md) 
 
-### [Congo~Kinshasa.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public.md) 
+### #is_/same_as :: [Congo~Kinshasa.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public.md) 
 
-### [Congo~Kinshasa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal.md) 
+### #is_/same_as :: [Congo~Kinshasa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal.md) 
 
-### [Congo~Kinshasa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.protect.md) 
+### #is_/same_as :: [Congo~Kinshasa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.protect.md) 
 
-### [Congo~Kinshasa.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.private.md) 
+### #is_/same_as :: [Congo~Kinshasa.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.private.md) 
 
-### [Congo~Kinshasa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal.md) 
+### #is_/same_as :: [Congo~Kinshasa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal.md) 
 
-### [Congo~Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret.md)
+### #is_/same_as :: [Congo~Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret.md)
 

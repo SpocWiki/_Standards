@@ -47,17 +47,17 @@ Data derived from a single randomized trial, or nonrandomized studies.
 
 ## Confidential Links & Embeds: 
 
-### [evidence_level_b](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.md) 
+### #is_/same_as :: [evidence_level_b](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.md) 
 
-### [evidence_level_b.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.public.md) 
+### #is_/same_as :: [evidence_level_b.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.public.md) 
 
-### [evidence_level_b.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.internal.md) 
+### #is_/same_as :: [evidence_level_b.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.internal.md) 
 
-### [evidence_level_b.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.protect.md) 
+### #is_/same_as :: [evidence_level_b.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.protect.md) 
 
-### [evidence_level_b.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.private.md) 
+### #is_/same_as :: [evidence_level_b.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.private.md) 
 
-### [evidence_level_b.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.personal.md) 
+### #is_/same_as :: [evidence_level_b.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.personal.md) 
 
-### [evidence_level_b.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.secret.md)
+### #is_/same_as :: [evidence_level_b.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.secret.md)
 

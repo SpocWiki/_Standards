@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_tracking](/_Standards/schema-org/Property/has_url_for/has_url_for_tracking.md) 
+### #is_/same_as :: [has_url_for_tracking](/_Standards/schema-org/Property/has_url_for/has_url_for_tracking.md) 
 
-### [has_url_for_tracking.public](/_public/schema-org/Property/has_url_for/has_url_for_tracking.public.md) 
+### #is_/same_as :: [has_url_for_tracking.public](/_public/schema-org/Property/has_url_for/has_url_for_tracking.public.md) 
 
-### [has_url_for_tracking.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal.md) 
+### #is_/same_as :: [has_url_for_tracking.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal.md) 
 
-### [has_url_for_tracking.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect.md) 
+### #is_/same_as :: [has_url_for_tracking.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect.md) 
 
-### [has_url_for_tracking.private](/_private/schema-org/Property/has_url_for/has_url_for_tracking.private.md) 
+### #is_/same_as :: [has_url_for_tracking.private](/_private/schema-org/Property/has_url_for/has_url_for_tracking.private.md) 
 
-### [has_url_for_tracking.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal.md) 
+### #is_/same_as :: [has_url_for_tracking.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal.md) 
 
-### [has_url_for_tracking.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret.md)
+### #is_/same_as :: [has_url_for_tracking.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret.md)
 

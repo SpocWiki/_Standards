@@ -29,22 +29,19 @@ CAS_Registry_Number: 66455-18-3
 > [Wikipedia](https://en.wikipedia.org/wiki/Lipid)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Lipid](/_Standards/bio/Metabolism/Nutrition/Fat/Lipid.md) 
+### #is_/same_as :: [Lipid](/_Standards/bio/Metabolism/Nutrition/Fat/Lipid.md) 
 
-### [Lipid.public](/_public/bio/Metabolism/Nutrition/Fat/Lipid.public.md) 
+### #is_/same_as :: [Lipid.public](/_public/bio/Metabolism/Nutrition/Fat/Lipid.public.md) 
 
-### [Lipid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Lipid.internal.md) 
+### #is_/same_as :: [Lipid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Lipid.internal.md) 
 
-### [Lipid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Lipid.protect.md) 
+### #is_/same_as :: [Lipid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Lipid.protect.md) 
 
-### [Lipid.private](/_private/bio/Metabolism/Nutrition/Fat/Lipid.private.md) 
+### #is_/same_as :: [Lipid.private](/_private/bio/Metabolism/Nutrition/Fat/Lipid.private.md) 
 
-### [Lipid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Lipid.personal.md) 
+### #is_/same_as :: [Lipid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Lipid.personal.md) 
 
-### [Lipid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Lipid.secret.md)
+### #is_/same_as :: [Lipid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Lipid.secret.md)
 

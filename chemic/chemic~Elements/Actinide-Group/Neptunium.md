@@ -114,17 +114,17 @@ time_of_discovery_or_invention: "1940"
 
 ## Confidential Links & Embeds: 
 
-### [Neptunium](/_Standards/chemic/chemic~Elements/Actinide-Group/Neptunium.md) 
+### #is_/same_as :: [Neptunium](/_Standards/chemic/chemic~Elements/Actinide-Group/Neptunium.md) 
 
-### [Neptunium.public](/_public/chemic/chemic~Elements/Actinide-Group/Neptunium.public.md) 
+### #is_/same_as :: [Neptunium.public](/_public/chemic/chemic~Elements/Actinide-Group/Neptunium.public.md) 
 
-### [Neptunium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Neptunium.internal.md) 
+### #is_/same_as :: [Neptunium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Neptunium.internal.md) 
 
-### [Neptunium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Neptunium.protect.md) 
+### #is_/same_as :: [Neptunium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Neptunium.protect.md) 
 
-### [Neptunium.private](/_private/chemic/chemic~Elements/Actinide-Group/Neptunium.private.md) 
+### #is_/same_as :: [Neptunium.private](/_private/chemic/chemic~Elements/Actinide-Group/Neptunium.private.md) 
 
-### [Neptunium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Neptunium.personal.md) 
+### #is_/same_as :: [Neptunium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Neptunium.personal.md) 
 
-### [Neptunium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Neptunium.secret.md)
+### #is_/same_as :: [Neptunium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Neptunium.secret.md)
 

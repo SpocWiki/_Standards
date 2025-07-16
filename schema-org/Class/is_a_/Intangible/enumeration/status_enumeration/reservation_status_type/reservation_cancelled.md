@@ -47,17 +47,17 @@ The status for a previously confirmed reservation that is now cancelled.
 
 ## Confidential Links & Embeds: 
 
-### [reservation_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md) 
+### #is_/same_as :: [reservation_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md) 
 
-### [reservation_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.public.md) 
+### #is_/same_as :: [reservation_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.public.md) 
 
-### [reservation_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md) 
+### #is_/same_as :: [reservation_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md) 
 
-### [reservation_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.protect.md) 
+### #is_/same_as :: [reservation_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.protect.md) 
 
-### [reservation_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.private.md) 
+### #is_/same_as :: [reservation_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.private.md) 
 
-### [reservation_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.personal.md) 
+### #is_/same_as :: [reservation_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.personal.md) 
 
-### [reservation_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md)
+### #is_/same_as :: [reservation_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md)
 

@@ -35,17 +35,17 @@ A fire station. With firemen.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FireStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.md) 
+### #is_/same_as :: [FileClass~FireStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.md) 
 
-### [FileClass~FireStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.public.md) 
+### #is_/same_as :: [FileClass~FireStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.public.md) 
 
-### [FileClass~FireStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.internal.md) 
+### #is_/same_as :: [FileClass~FireStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.internal.md) 
 
-### [FileClass~FireStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.protect.md) 
+### #is_/same_as :: [FileClass~FireStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.protect.md) 
 
-### [FileClass~FireStation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.private.md) 
+### #is_/same_as :: [FileClass~FireStation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.private.md) 
 
-### [FileClass~FireStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.personal.md) 
+### #is_/same_as :: [FileClass~FireStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.personal.md) 
 
-### [FileClass~FireStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.secret.md)
+### #is_/same_as :: [FileClass~FireStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~FireStation.secret.md)
 

@@ -45,17 +45,17 @@ A medical trial is a type of medical study that uses a scientific process to com
 
 ## Confidential Links & Embeds: 
 
-### [medical_trial](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.md) 
+### #is_/same_as :: [medical_trial](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.md) 
 
-### [medical_trial.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.public.md) 
+### #is_/same_as :: [medical_trial.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.public.md) 
 
-### [medical_trial.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.internal.md) 
+### #is_/same_as :: [medical_trial.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.internal.md) 
 
-### [medical_trial.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.protect.md) 
+### #is_/same_as :: [medical_trial.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.protect.md) 
 
-### [medical_trial.private](/_private/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.private.md) 
+### #is_/same_as :: [medical_trial.private](/_private/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.private.md) 
 
-### [medical_trial.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.personal.md) 
+### #is_/same_as :: [medical_trial.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.personal.md) 
 
-### [medical_trial.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.secret.md)
+### #is_/same_as :: [medical_trial.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.secret.md)
 

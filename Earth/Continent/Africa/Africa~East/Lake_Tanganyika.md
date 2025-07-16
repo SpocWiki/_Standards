@@ -59,21 +59,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Tanganyika) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Lake_Tanganyika](/_Standards/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.md) 
+### #is_/same_as :: [Lake_Tanganyika](/_Standards/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.md) 
 
-### [Lake_Tanganyika.public](/_public/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.public.md) 
+### #is_/same_as :: [Lake_Tanganyika.public](/_public/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.public.md) 
 
-### [Lake_Tanganyika.internal](/_internal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.internal.md) 
+### #is_/same_as :: [Lake_Tanganyika.internal](/_internal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.internal.md) 
 
-### [Lake_Tanganyika.protect](/_protect/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.protect.md) 
+### #is_/same_as :: [Lake_Tanganyika.protect](/_protect/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.protect.md) 
 
-### [Lake_Tanganyika.private](/_private/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.private.md) 
+### #is_/same_as :: [Lake_Tanganyika.private](/_private/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.private.md) 
 
-### [Lake_Tanganyika.personal](/_personal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.personal.md) 
+### #is_/same_as :: [Lake_Tanganyika.personal](/_personal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.personal.md) 
 
-### [Lake_Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.secret.md)
+### #is_/same_as :: [Lake_Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.secret.md)
 

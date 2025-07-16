@@ -47,17 +47,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### [suite](/_Standards/schema-org/Class/is_a_/place/accommodation/suite.md) 
+### #is_/same_as :: [suite](/_Standards/schema-org/Class/is_a_/place/accommodation/suite.md) 
 
-### [suite.public](/_public/schema-org/Class/is_a_/place/accommodation/suite.public.md) 
+### #is_/same_as :: [suite.public](/_public/schema-org/Class/is_a_/place/accommodation/suite.public.md) 
 
-### [suite.internal](/_internal/schema-org/Class/is_a_/place/accommodation/suite.internal.md) 
+### #is_/same_as :: [suite.internal](/_internal/schema-org/Class/is_a_/place/accommodation/suite.internal.md) 
 
-### [suite.protect](/_protect/schema-org/Class/is_a_/place/accommodation/suite.protect.md) 
+### #is_/same_as :: [suite.protect](/_protect/schema-org/Class/is_a_/place/accommodation/suite.protect.md) 
 
-### [suite.private](/_private/schema-org/Class/is_a_/place/accommodation/suite.private.md) 
+### #is_/same_as :: [suite.private](/_private/schema-org/Class/is_a_/place/accommodation/suite.private.md) 
 
-### [suite.personal](/_personal/schema-org/Class/is_a_/place/accommodation/suite.personal.md) 
+### #is_/same_as :: [suite.personal](/_personal/schema-org/Class/is_a_/place/accommodation/suite.personal.md) 
 
-### [suite.secret](/_secret/schema-org/Class/is_a_/place/accommodation/suite.secret.md)
+### #is_/same_as :: [suite.secret](/_secret/schema-org/Class/is_a_/place/accommodation/suite.secret.md)
 

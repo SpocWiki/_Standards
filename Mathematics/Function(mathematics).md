@@ -26,17 +26,17 @@ has_id_wikidata: Q11348
 
 ## Confidential Links & Embeds: 
 
-### [Function(mathematics)](/_Standards/Mathematics/Function(mathematics).md) 
+### #is_/same_as :: [Function(mathematics)](/_Standards/Mathematics/Function(mathematics).md) 
 
-### [Function(mathematics).public](/_public/Mathematics/Function(mathematics).public.md) 
+### #is_/same_as :: [Function(mathematics).public](/_public/Mathematics/Function(mathematics).public.md) 
 
-### [Function(mathematics).internal](/_internal/Mathematics/Function(mathematics).internal.md) 
+### #is_/same_as :: [Function(mathematics).internal](/_internal/Mathematics/Function(mathematics).internal.md) 
 
-### [Function(mathematics).protect](/_protect/Mathematics/Function(mathematics).protect.md) 
+### #is_/same_as :: [Function(mathematics).protect](/_protect/Mathematics/Function(mathematics).protect.md) 
 
-### [Function(mathematics).private](/_private/Mathematics/Function(mathematics).private.md) 
+### #is_/same_as :: [Function(mathematics).private](/_private/Mathematics/Function(mathematics).private.md) 
 
-### [Function(mathematics).personal](/_personal/Mathematics/Function(mathematics).personal.md) 
+### #is_/same_as :: [Function(mathematics).personal](/_personal/Mathematics/Function(mathematics).personal.md) 
 
-### [Function(mathematics).secret](/_secret/Mathematics/Function(mathematics).secret.md)
+### #is_/same_as :: [Function(mathematics).secret](/_secret/Mathematics/Function(mathematics).secret.md)
 

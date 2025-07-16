@@ -102,17 +102,17 @@ element_symbol: Bk
 
 ## Confidential Links & Embeds: 
 
-### [Berkelium](/_Standards/chemic/chemic~Elements/Actinide-Group/Berkelium.md) 
+### #is_/same_as :: [Berkelium](/_Standards/chemic/chemic~Elements/Actinide-Group/Berkelium.md) 
 
-### [Berkelium.public](/_public/chemic/chemic~Elements/Actinide-Group/Berkelium.public.md) 
+### #is_/same_as :: [Berkelium.public](/_public/chemic/chemic~Elements/Actinide-Group/Berkelium.public.md) 
 
-### [Berkelium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Berkelium.internal.md) 
+### #is_/same_as :: [Berkelium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Berkelium.internal.md) 
 
-### [Berkelium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Berkelium.protect.md) 
+### #is_/same_as :: [Berkelium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Berkelium.protect.md) 
 
-### [Berkelium.private](/_private/chemic/chemic~Elements/Actinide-Group/Berkelium.private.md) 
+### #is_/same_as :: [Berkelium.private](/_private/chemic/chemic~Elements/Actinide-Group/Berkelium.private.md) 
 
-### [Berkelium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Berkelium.personal.md) 
+### #is_/same_as :: [Berkelium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Berkelium.personal.md) 
 
-### [Berkelium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Berkelium.secret.md)
+### #is_/same_as :: [Berkelium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Berkelium.secret.md)
 

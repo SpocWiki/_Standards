@@ -45,17 +45,17 @@ The act of consuming static visual content.
 
 ## Confidential Links & Embeds: 
 
-### [view_action](/_Standards/schema-org/Class/is_a_/action/consume_action/view_action.md) 
+### #is_/same_as :: [view_action](/_Standards/schema-org/Class/is_a_/action/consume_action/view_action.md) 
 
-### [view_action.public](/_public/schema-org/Class/is_a_/action/consume_action/view_action.public.md) 
+### #is_/same_as :: [view_action.public](/_public/schema-org/Class/is_a_/action/consume_action/view_action.public.md) 
 
-### [view_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/view_action.internal.md) 
+### #is_/same_as :: [view_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/view_action.internal.md) 
 
-### [view_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/view_action.protect.md) 
+### #is_/same_as :: [view_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/view_action.protect.md) 
 
-### [view_action.private](/_private/schema-org/Class/is_a_/action/consume_action/view_action.private.md) 
+### #is_/same_as :: [view_action.private](/_private/schema-org/Class/is_a_/action/consume_action/view_action.private.md) 
 
-### [view_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/view_action.personal.md) 
+### #is_/same_as :: [view_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/view_action.personal.md) 
 
-### [view_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/view_action.secret.md)
+### #is_/same_as :: [view_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/view_action.secret.md)
 

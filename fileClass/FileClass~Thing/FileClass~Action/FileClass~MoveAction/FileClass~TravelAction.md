@@ -45,17 +45,17 @@ Distance:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TravelAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.md) 
+### #is_/same_as :: [FileClass~TravelAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.md) 
 
-### [FileClass~TravelAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.public.md) 
+### #is_/same_as :: [FileClass~TravelAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.public.md) 
 
-### [FileClass~TravelAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.internal.md) 
+### #is_/same_as :: [FileClass~TravelAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.internal.md) 
 
-### [FileClass~TravelAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.protect.md) 
+### #is_/same_as :: [FileClass~TravelAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.protect.md) 
 
-### [FileClass~TravelAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.private.md) 
+### #is_/same_as :: [FileClass~TravelAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.private.md) 
 
-### [FileClass~TravelAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.personal.md) 
+### #is_/same_as :: [FileClass~TravelAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.personal.md) 
 
-### [FileClass~TravelAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.secret.md)
+### #is_/same_as :: [FileClass~TravelAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.secret.md)
 

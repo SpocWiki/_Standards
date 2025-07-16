@@ -45,17 +45,17 @@ A music recording (track), usually a single song.
 
 ## Confidential Links & Embeds: 
 
-### [music_recording](/_Standards/schema-org/Class/is_a_/creative_work/music_recording.md) 
+### #is_/same_as :: [music_recording](/_Standards/schema-org/Class/is_a_/creative_work/music_recording.md) 
 
-### [music_recording.public](/_public/schema-org/Class/is_a_/creative_work/music_recording.public.md) 
+### #is_/same_as :: [music_recording.public](/_public/schema-org/Class/is_a_/creative_work/music_recording.public.md) 
 
-### [music_recording.internal](/_internal/schema-org/Class/is_a_/creative_work/music_recording.internal.md) 
+### #is_/same_as :: [music_recording.internal](/_internal/schema-org/Class/is_a_/creative_work/music_recording.internal.md) 
 
-### [music_recording.protect](/_protect/schema-org/Class/is_a_/creative_work/music_recording.protect.md) 
+### #is_/same_as :: [music_recording.protect](/_protect/schema-org/Class/is_a_/creative_work/music_recording.protect.md) 
 
-### [music_recording.private](/_private/schema-org/Class/is_a_/creative_work/music_recording.private.md) 
+### #is_/same_as :: [music_recording.private](/_private/schema-org/Class/is_a_/creative_work/music_recording.private.md) 
 
-### [music_recording.personal](/_personal/schema-org/Class/is_a_/creative_work/music_recording.personal.md) 
+### #is_/same_as :: [music_recording.personal](/_personal/schema-org/Class/is_a_/creative_work/music_recording.personal.md) 
 
-### [music_recording.secret](/_secret/schema-org/Class/is_a_/creative_work/music_recording.secret.md)
+### #is_/same_as :: [music_recording.secret](/_secret/schema-org/Class/is_a_/creative_work/music_recording.secret.md)
 

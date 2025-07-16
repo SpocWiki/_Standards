@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_tool](/_Standards/schema-org/Relation/has/has_tool.md) 
+### #is_/same_as :: [has_tool](/_Standards/schema-org/Relation/has/has_tool.md) 
 
-### [has_tool.public](/_public/schema-org/Relation/has/has_tool.public.md) 
+### #is_/same_as :: [has_tool.public](/_public/schema-org/Relation/has/has_tool.public.md) 
 
-### [has_tool.internal](/_internal/schema-org/Relation/has/has_tool.internal.md) 
+### #is_/same_as :: [has_tool.internal](/_internal/schema-org/Relation/has/has_tool.internal.md) 
 
-### [has_tool.protect](/_protect/schema-org/Relation/has/has_tool.protect.md) 
+### #is_/same_as :: [has_tool.protect](/_protect/schema-org/Relation/has/has_tool.protect.md) 
 
-### [has_tool.private](/_private/schema-org/Relation/has/has_tool.private.md) 
+### #is_/same_as :: [has_tool.private](/_private/schema-org/Relation/has/has_tool.private.md) 
 
-### [has_tool.personal](/_personal/schema-org/Relation/has/has_tool.personal.md) 
+### #is_/same_as :: [has_tool.personal](/_personal/schema-org/Relation/has/has_tool.personal.md) 
 
-### [has_tool.secret](/_secret/schema-org/Relation/has/has_tool.secret.md)
+### #is_/same_as :: [has_tool.secret](/_secret/schema-org/Relation/has/has_tool.secret.md)
 

@@ -47,17 +47,17 @@ Game server status: OfflineTemporarily. Server is offline now but it can be onli
 
 ## Confidential Links & Embeds: 
 
-### [offline_temporarily](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.md) 
+### #is_/same_as :: [offline_temporarily](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.md) 
 
-### [offline_temporarily.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.public.md) 
+### #is_/same_as :: [offline_temporarily.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.public.md) 
 
-### [offline_temporarily.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.internal.md) 
+### #is_/same_as :: [offline_temporarily.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.internal.md) 
 
-### [offline_temporarily.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.protect.md) 
+### #is_/same_as :: [offline_temporarily.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.protect.md) 
 
-### [offline_temporarily.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.private.md) 
+### #is_/same_as :: [offline_temporarily.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.private.md) 
 
-### [offline_temporarily.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.personal.md) 
+### #is_/same_as :: [offline_temporarily.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.personal.md) 
 
-### [offline_temporarily.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.secret.md)
+### #is_/same_as :: [offline_temporarily.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.secret.md)
 

@@ -45,17 +45,17 @@ A photograph.
 
 ## Confidential Links & Embeds: 
 
-### [photograph](/_Standards/schema-org/Class/is_a_/creative_work/photograph.md) 
+### #is_/same_as :: [photograph](/_Standards/schema-org/Class/is_a_/creative_work/photograph.md) 
 
-### [photograph.public](/_public/schema-org/Class/is_a_/creative_work/photograph.public.md) 
+### #is_/same_as :: [photograph.public](/_public/schema-org/Class/is_a_/creative_work/photograph.public.md) 
 
-### [photograph.internal](/_internal/schema-org/Class/is_a_/creative_work/photograph.internal.md) 
+### #is_/same_as :: [photograph.internal](/_internal/schema-org/Class/is_a_/creative_work/photograph.internal.md) 
 
-### [photograph.protect](/_protect/schema-org/Class/is_a_/creative_work/photograph.protect.md) 
+### #is_/same_as :: [photograph.protect](/_protect/schema-org/Class/is_a_/creative_work/photograph.protect.md) 
 
-### [photograph.private](/_private/schema-org/Class/is_a_/creative_work/photograph.private.md) 
+### #is_/same_as :: [photograph.private](/_private/schema-org/Class/is_a_/creative_work/photograph.private.md) 
 
-### [photograph.personal](/_personal/schema-org/Class/is_a_/creative_work/photograph.personal.md) 
+### #is_/same_as :: [photograph.personal](/_personal/schema-org/Class/is_a_/creative_work/photograph.personal.md) 
 
-### [photograph.secret](/_secret/schema-org/Class/is_a_/creative_work/photograph.secret.md)
+### #is_/same_as :: [photograph.secret](/_secret/schema-org/Class/is_a_/creative_work/photograph.secret.md)
 

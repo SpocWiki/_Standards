@@ -135,17 +135,17 @@ IPTC_NewsCode: mediatopic/20000231
 
 ## Confidential Links & Embeds: 
 
-### [Software](/_Standards/Technology/IT/Software.md) 
+### #is_/same_as :: [Software](/_Standards/Technology/IT/Software.md) 
 
-### [Software.public](/_public/Technology/IT/Software.public.md) 
+### #is_/same_as :: [Software.public](/_public/Technology/IT/Software.public.md) 
 
-### [Software.internal](/_internal/Technology/IT/Software.internal.md) 
+### #is_/same_as :: [Software.internal](/_internal/Technology/IT/Software.internal.md) 
 
-### [Software.protect](/_protect/Technology/IT/Software.protect.md) 
+### #is_/same_as :: [Software.protect](/_protect/Technology/IT/Software.protect.md) 
 
-### [Software.private](/_private/Technology/IT/Software.private.md) 
+### #is_/same_as :: [Software.private](/_private/Technology/IT/Software.private.md) 
 
-### [Software.personal](/_personal/Technology/IT/Software.personal.md) 
+### #is_/same_as :: [Software.personal](/_personal/Technology/IT/Software.personal.md) 
 
-### [Software.secret](/_secret/Technology/IT/Software.secret.md)
+### #is_/same_as :: [Software.secret](/_secret/Technology/IT/Software.secret.md)
 

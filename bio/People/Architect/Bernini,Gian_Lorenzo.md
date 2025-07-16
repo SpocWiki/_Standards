@@ -48,21 +48,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Gian%20Lorenzo%20Bernini)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Bernini,Gian_Lorenzo](/_Standards/bio/People/Architect/Bernini,Gian_Lorenzo.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo](/_Standards/bio/People/Architect/Bernini,Gian_Lorenzo.md) 
 
-### [Bernini,Gian_Lorenzo.public](/_public/bio/People/Architect/Bernini,Gian_Lorenzo.public.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.public](/_public/bio/People/Architect/Bernini,Gian_Lorenzo.public.md) 
 
-### [Bernini,Gian_Lorenzo.internal](/_internal/bio/People/Architect/Bernini,Gian_Lorenzo.internal.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.internal](/_internal/bio/People/Architect/Bernini,Gian_Lorenzo.internal.md) 
 
-### [Bernini,Gian_Lorenzo.protect](/_protect/bio/People/Architect/Bernini,Gian_Lorenzo.protect.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.protect](/_protect/bio/People/Architect/Bernini,Gian_Lorenzo.protect.md) 
 
-### [Bernini,Gian_Lorenzo.private](/_private/bio/People/Architect/Bernini,Gian_Lorenzo.private.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.private](/_private/bio/People/Architect/Bernini,Gian_Lorenzo.private.md) 
 
-### [Bernini,Gian_Lorenzo.personal](/_personal/bio/People/Architect/Bernini,Gian_Lorenzo.personal.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.personal](/_personal/bio/People/Architect/Bernini,Gian_Lorenzo.personal.md) 
 
-### [Bernini,Gian_Lorenzo.secret](/_secret/bio/People/Architect/Bernini,Gian_Lorenzo.secret.md)
+### #is_/same_as :: [Bernini,Gian_Lorenzo.secret](/_secret/bio/People/Architect/Bernini,Gian_Lorenzo.secret.md)
 

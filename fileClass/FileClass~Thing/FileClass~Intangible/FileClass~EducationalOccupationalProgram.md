@@ -295,17 +295,17 @@ TypicalCreditsPerTerm:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EducationalOccupationalProgram](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.md) 
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.md) 
 
-### [FileClass~EducationalOccupationalProgram.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.public.md) 
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.public.md) 
 
-### [FileClass~EducationalOccupationalProgram.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.internal.md) 
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.internal.md) 
 
-### [FileClass~EducationalOccupationalProgram.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.protect.md) 
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.protect.md) 
 
-### [FileClass~EducationalOccupationalProgram.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.private.md) 
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.private.md) 
 
-### [FileClass~EducationalOccupationalProgram.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.personal.md) 
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.personal.md) 
 
-### [FileClass~EducationalOccupationalProgram.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.secret.md)
+### #is_/same_as :: [FileClass~EducationalOccupationalProgram.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.secret.md)
 

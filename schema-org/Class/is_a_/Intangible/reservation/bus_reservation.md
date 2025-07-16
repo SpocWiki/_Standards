@@ -47,17 +47,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [bus_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.md) 
+### #is_/same_as :: [bus_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.md) 
 
-### [bus_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.public.md) 
+### #is_/same_as :: [bus_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.public.md) 
 
-### [bus_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.internal.md) 
+### #is_/same_as :: [bus_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.internal.md) 
 
-### [bus_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.protect.md) 
+### #is_/same_as :: [bus_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.protect.md) 
 
-### [bus_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.private.md) 
+### #is_/same_as :: [bus_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.private.md) 
 
-### [bus_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.personal.md) 
+### #is_/same_as :: [bus_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.personal.md) 
 
-### [bus_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.secret.md)
+### #is_/same_as :: [bus_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/bus_reservation.secret.md)
 

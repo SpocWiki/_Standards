@@ -141,17 +141,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### [Country](/_Standards/Earth/Geography/Country.md) 
+### #is_/same_as :: [Country](/_Standards/Earth/Geography/Country.md) 
 
-### [Country.public](/_public/Earth/Geography/Country.public.md) 
+### #is_/same_as :: [Country.public](/_public/Earth/Geography/Country.public.md) 
 
-### [Country.internal](/_internal/Earth/Geography/Country.internal.md) 
+### #is_/same_as :: [Country.internal](/_internal/Earth/Geography/Country.internal.md) 
 
-### [Country.protect](/_protect/Earth/Geography/Country.protect.md) 
+### #is_/same_as :: [Country.protect](/_protect/Earth/Geography/Country.protect.md) 
 
-### [Country.private](/_private/Earth/Geography/Country.private.md) 
+### #is_/same_as :: [Country.private](/_private/Earth/Geography/Country.private.md) 
 
-### [Country.personal](/_personal/Earth/Geography/Country.personal.md) 
+### #is_/same_as :: [Country.personal](/_personal/Earth/Geography/Country.personal.md) 
 
-### [Country.secret](/_secret/Earth/Geography/Country.secret.md)
+### #is_/same_as :: [Country.secret](/_secret/Earth/Geography/Country.secret.md)
 

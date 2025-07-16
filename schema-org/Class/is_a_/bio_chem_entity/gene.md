@@ -50,17 +50,17 @@ Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-spe
 
 ## Confidential Links & Embeds: 
 
-### [gene](/_Standards/schema-org/Class/is_a_/bio_chem_entity/gene.md) 
+### #is_/same_as :: [gene](/_Standards/schema-org/Class/is_a_/bio_chem_entity/gene.md) 
 
-### [gene.public](/_public/schema-org/Class/is_a_/bio_chem_entity/gene.public.md) 
+### #is_/same_as :: [gene.public](/_public/schema-org/Class/is_a_/bio_chem_entity/gene.public.md) 
 
-### [gene.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/gene.internal.md) 
+### #is_/same_as :: [gene.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/gene.internal.md) 
 
-### [gene.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/gene.protect.md) 
+### #is_/same_as :: [gene.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/gene.protect.md) 
 
-### [gene.private](/_private/schema-org/Class/is_a_/bio_chem_entity/gene.private.md) 
+### #is_/same_as :: [gene.private](/_private/schema-org/Class/is_a_/bio_chem_entity/gene.private.md) 
 
-### [gene.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/gene.personal.md) 
+### #is_/same_as :: [gene.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/gene.personal.md) 
 
-### [gene.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/gene.secret.md)
+### #is_/same_as :: [gene.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/gene.secret.md)
 

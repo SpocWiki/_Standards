@@ -45,17 +45,17 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 ## Confidential Links & Embeds: 
 
-### [occupation](/_Standards/schema-org/Class/is_a_/Intangible/occupation.md) 
+### #is_/same_as :: [occupation](/_Standards/schema-org/Class/is_a_/Intangible/occupation.md) 
 
-### [occupation.public](/_public/schema-org/Class/is_a_/Intangible/occupation.public.md) 
+### #is_/same_as :: [occupation.public](/_public/schema-org/Class/is_a_/Intangible/occupation.public.md) 
 
-### [occupation.internal](/_internal/schema-org/Class/is_a_/Intangible/occupation.internal.md) 
+### #is_/same_as :: [occupation.internal](/_internal/schema-org/Class/is_a_/Intangible/occupation.internal.md) 
 
-### [occupation.protect](/_protect/schema-org/Class/is_a_/Intangible/occupation.protect.md) 
+### #is_/same_as :: [occupation.protect](/_protect/schema-org/Class/is_a_/Intangible/occupation.protect.md) 
 
-### [occupation.private](/_private/schema-org/Class/is_a_/Intangible/occupation.private.md) 
+### #is_/same_as :: [occupation.private](/_private/schema-org/Class/is_a_/Intangible/occupation.private.md) 
 
-### [occupation.personal](/_personal/schema-org/Class/is_a_/Intangible/occupation.personal.md) 
+### #is_/same_as :: [occupation.personal](/_personal/schema-org/Class/is_a_/Intangible/occupation.personal.md) 
 
-### [occupation.secret](/_secret/schema-org/Class/is_a_/Intangible/occupation.secret.md)
+### #is_/same_as :: [occupation.secret](/_secret/schema-org/Class/is_a_/Intangible/occupation.secret.md)
 

@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_award](/_Standards/schema-org/Property/Texts/has_award.md) 
+### #is_/same_as :: [has_award](/_Standards/schema-org/Property/Texts/has_award.md) 
 
-### [has_award.public](/_public/schema-org/Property/Texts/has_award.public.md) 
+### #is_/same_as :: [has_award.public](/_public/schema-org/Property/Texts/has_award.public.md) 
 
-### [has_award.internal](/_internal/schema-org/Property/Texts/has_award.internal.md) 
+### #is_/same_as :: [has_award.internal](/_internal/schema-org/Property/Texts/has_award.internal.md) 
 
-### [has_award.protect](/_protect/schema-org/Property/Texts/has_award.protect.md) 
+### #is_/same_as :: [has_award.protect](/_protect/schema-org/Property/Texts/has_award.protect.md) 
 
-### [has_award.private](/_private/schema-org/Property/Texts/has_award.private.md) 
+### #is_/same_as :: [has_award.private](/_private/schema-org/Property/Texts/has_award.private.md) 
 
-### [has_award.personal](/_personal/schema-org/Property/Texts/has_award.personal.md) 
+### #is_/same_as :: [has_award.personal](/_personal/schema-org/Property/Texts/has_award.personal.md) 
 
-### [has_award.secret](/_secret/schema-org/Property/Texts/has_award.secret.md)
+### #is_/same_as :: [has_award.secret](/_secret/schema-org/Property/Texts/has_award.secret.md)
 

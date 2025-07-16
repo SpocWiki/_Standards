@@ -43,17 +43,17 @@ Entities that have a somewhat fixed, physical extension.
 
 ## Confidential Links & Embeds: 
 
-### [place](/_Standards/schema-org/Class/is_a_/place.md) 
+### #is_/same_as :: [place](/_Standards/schema-org/Class/is_a_/place.md) 
 
-### [place.public](/_public/schema-org/Class/is_a_/place.public.md) 
+### #is_/same_as :: [place.public](/_public/schema-org/Class/is_a_/place.public.md) 
 
-### [place.internal](/_internal/schema-org/Class/is_a_/place.internal.md) 
+### #is_/same_as :: [place.internal](/_internal/schema-org/Class/is_a_/place.internal.md) 
 
-### [place.protect](/_protect/schema-org/Class/is_a_/place.protect.md) 
+### #is_/same_as :: [place.protect](/_protect/schema-org/Class/is_a_/place.protect.md) 
 
-### [place.private](/_private/schema-org/Class/is_a_/place.private.md) 
+### #is_/same_as :: [place.private](/_private/schema-org/Class/is_a_/place.private.md) 
 
-### [place.personal](/_personal/schema-org/Class/is_a_/place.personal.md) 
+### #is_/same_as :: [place.personal](/_personal/schema-org/Class/is_a_/place.personal.md) 
 
-### [place.secret](/_secret/schema-org/Class/is_a_/place.secret.md)
+### #is_/same_as :: [place.secret](/_secret/schema-org/Class/is_a_/place.secret.md)
 

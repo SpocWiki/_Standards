@@ -45,17 +45,17 @@ An adult entertainment establishment.
 
 ## Confidential Links & Embeds: 
 
-### [adult_entertainment](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.md) 
+### #is_/same_as :: [adult_entertainment](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.md) 
 
-### [adult_entertainment.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.public.md) 
+### #is_/same_as :: [adult_entertainment.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.public.md) 
 
-### [adult_entertainment.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.internal.md) 
+### #is_/same_as :: [adult_entertainment.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.internal.md) 
 
-### [adult_entertainment.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.protect.md) 
+### #is_/same_as :: [adult_entertainment.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.protect.md) 
 
-### [adult_entertainment.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.private.md) 
+### #is_/same_as :: [adult_entertainment.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.private.md) 
 
-### [adult_entertainment.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.personal.md) 
+### #is_/same_as :: [adult_entertainment.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.personal.md) 
 
-### [adult_entertainment.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.secret.md)
+### #is_/same_as :: [adult_entertainment.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.secret.md)
 

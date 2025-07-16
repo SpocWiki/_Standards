@@ -35,17 +35,17 @@ A toy store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ToyStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.md) 
+### #is_/same_as :: [FileClass~ToyStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.md) 
 
-### [FileClass~ToyStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.public.md) 
+### #is_/same_as :: [FileClass~ToyStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.public.md) 
 
-### [FileClass~ToyStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.internal.md) 
+### #is_/same_as :: [FileClass~ToyStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.internal.md) 
 
-### [FileClass~ToyStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.protect.md) 
+### #is_/same_as :: [FileClass~ToyStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.protect.md) 
 
-### [FileClass~ToyStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.private.md) 
+### #is_/same_as :: [FileClass~ToyStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.private.md) 
 
-### [FileClass~ToyStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.personal.md) 
+### #is_/same_as :: [FileClass~ToyStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.personal.md) 
 
-### [FileClass~ToyStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.secret.md)
+### #is_/same_as :: [FileClass~ToyStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.secret.md)
 

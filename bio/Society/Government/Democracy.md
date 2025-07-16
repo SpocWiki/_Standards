@@ -159,25 +159,19 @@ Each characteristic is given a binary distinction, representing possible alterna
 > [Wikipedia](https://en.wikipedia.org/wiki/Democracy)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Democracy](/_Standards/bio/Society/Government/Democracy.md) 
+### #is_/same_as :: [Democracy](/_Standards/bio/Society/Government/Democracy.md) 
 
-### [Democracy.public](/_public/bio/Society/Government/Democracy.public.md) 
+### #is_/same_as :: [Democracy.public](/_public/bio/Society/Government/Democracy.public.md) 
 
-### [Democracy.internal](/_internal/bio/Society/Government/Democracy.internal.md) 
+### #is_/same_as :: [Democracy.internal](/_internal/bio/Society/Government/Democracy.internal.md) 
 
-### [Democracy.protect](/_protect/bio/Society/Government/Democracy.protect.md) 
+### #is_/same_as :: [Democracy.protect](/_protect/bio/Society/Government/Democracy.protect.md) 
 
-### [Democracy.private](/_private/bio/Society/Government/Democracy.private.md) 
+### #is_/same_as :: [Democracy.private](/_private/bio/Society/Government/Democracy.private.md) 
 
-### [Democracy.personal](/_personal/bio/Society/Government/Democracy.personal.md) 
+### #is_/same_as :: [Democracy.personal](/_personal/bio/Society/Government/Democracy.personal.md) 
 
-### [Democracy.secret](/_secret/bio/Society/Government/Democracy.secret.md)
+### #is_/same_as :: [Democracy.secret](/_secret/bio/Society/Government/Democracy.secret.md)
 

@@ -695,17 +695,17 @@ Capital :: [[Istanbul]]
 
 ## Confidential Links & Embeds: 
 
-### [Turkey](/_Standards/Earth/Continent/Europe/Europe~East/Turkey.md) 
+### #is_/same_as :: [Turkey](/_Standards/Earth/Continent/Europe/Europe~East/Turkey.md) 
 
-### [Turkey.public](/_public/Earth/Continent/Europe/Europe~East/Turkey.public.md) 
+### #is_/same_as :: [Turkey.public](/_public/Earth/Continent/Europe/Europe~East/Turkey.public.md) 
 
-### [Turkey.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal.md) 
+### #is_/same_as :: [Turkey.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal.md) 
 
-### [Turkey.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect.md) 
+### #is_/same_as :: [Turkey.protect](/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect.md) 
 
-### [Turkey.private](/_private/Earth/Continent/Europe/Europe~East/Turkey.private.md) 
+### #is_/same_as :: [Turkey.private](/_private/Earth/Continent/Europe/Europe~East/Turkey.private.md) 
 
-### [Turkey.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal.md) 
+### #is_/same_as :: [Turkey.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal.md) 
 
-### [Turkey.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret.md)
+### #is_/same_as :: [Turkey.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret.md)
 

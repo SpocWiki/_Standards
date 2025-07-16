@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_related_therapy](/_Standards/schema-org/Relation/has/has_related_therapy.md) 
+### #is_/same_as :: [has_related_therapy](/_Standards/schema-org/Relation/has/has_related_therapy.md) 
 
-### [has_related_therapy.public](/_public/schema-org/Relation/has/has_related_therapy.public.md) 
+### #is_/same_as :: [has_related_therapy.public](/_public/schema-org/Relation/has/has_related_therapy.public.md) 
 
-### [has_related_therapy.internal](/_internal/schema-org/Relation/has/has_related_therapy.internal.md) 
+### #is_/same_as :: [has_related_therapy.internal](/_internal/schema-org/Relation/has/has_related_therapy.internal.md) 
 
-### [has_related_therapy.protect](/_protect/schema-org/Relation/has/has_related_therapy.protect.md) 
+### #is_/same_as :: [has_related_therapy.protect](/_protect/schema-org/Relation/has/has_related_therapy.protect.md) 
 
-### [has_related_therapy.private](/_private/schema-org/Relation/has/has_related_therapy.private.md) 
+### #is_/same_as :: [has_related_therapy.private](/_private/schema-org/Relation/has/has_related_therapy.private.md) 
 
-### [has_related_therapy.personal](/_personal/schema-org/Relation/has/has_related_therapy.personal.md) 
+### #is_/same_as :: [has_related_therapy.personal](/_personal/schema-org/Relation/has/has_related_therapy.personal.md) 
 
-### [has_related_therapy.secret](/_secret/schema-org/Relation/has/has_related_therapy.secret.md)
+### #is_/same_as :: [has_related_therapy.secret](/_secret/schema-org/Relation/has/has_related_therapy.secret.md)
 

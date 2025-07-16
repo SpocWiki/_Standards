@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_brand](/_Standards/schema-org/Relation/has/has_brand.md) 
+### #is_/same_as :: [has_brand](/_Standards/schema-org/Relation/has/has_brand.md) 
 
-### [has_brand.public](/_public/schema-org/Relation/has/has_brand.public.md) 
+### #is_/same_as :: [has_brand.public](/_public/schema-org/Relation/has/has_brand.public.md) 
 
-### [has_brand.internal](/_internal/schema-org/Relation/has/has_brand.internal.md) 
+### #is_/same_as :: [has_brand.internal](/_internal/schema-org/Relation/has/has_brand.internal.md) 
 
-### [has_brand.protect](/_protect/schema-org/Relation/has/has_brand.protect.md) 
+### #is_/same_as :: [has_brand.protect](/_protect/schema-org/Relation/has/has_brand.protect.md) 
 
-### [has_brand.private](/_private/schema-org/Relation/has/has_brand.private.md) 
+### #is_/same_as :: [has_brand.private](/_private/schema-org/Relation/has/has_brand.private.md) 
 
-### [has_brand.personal](/_personal/schema-org/Relation/has/has_brand.personal.md) 
+### #is_/same_as :: [has_brand.personal](/_personal/schema-org/Relation/has/has_brand.personal.md) 
 
-### [has_brand.secret](/_secret/schema-org/Relation/has/has_brand.secret.md)
+### #is_/same_as :: [has_brand.secret](/_secret/schema-org/Relation/has/has_brand.secret.md)
 

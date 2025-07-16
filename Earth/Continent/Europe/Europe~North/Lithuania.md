@@ -470,17 +470,17 @@ Capital :: [[Vilnius]]
 
 ## Confidential Links & Embeds: 
 
-### [Lithuania](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania.md) 
+### #is_/same_as :: [Lithuania](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania.md) 
 
-### [Lithuania.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania.public.md) 
+### #is_/same_as :: [Lithuania.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania.public.md) 
 
-### [Lithuania.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal.md) 
+### #is_/same_as :: [Lithuania.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal.md) 
 
-### [Lithuania.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania.protect.md) 
+### #is_/same_as :: [Lithuania.protect](/_protect/Earth/Continent/Europe/Europe~North/Lithuania.protect.md) 
 
-### [Lithuania.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania.private.md) 
+### #is_/same_as :: [Lithuania.private](/_private/Earth/Continent/Europe/Europe~North/Lithuania.private.md) 
 
-### [Lithuania.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal.md) 
+### #is_/same_as :: [Lithuania.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal.md) 
 
-### [Lithuania.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret.md)
+### #is_/same_as :: [Lithuania.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret.md)
 

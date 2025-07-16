@@ -88,21 +88,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Spelt)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Spelt](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.md) 
+### #is_/same_as :: [Spelt](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.md) 
 
-### [Spelt.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.public.md) 
+### #is_/same_as :: [Spelt.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.public.md) 
 
-### [Spelt.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.internal.md) 
+### #is_/same_as :: [Spelt.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.internal.md) 
 
-### [Spelt.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.protect.md) 
+### #is_/same_as :: [Spelt.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.protect.md) 
 
-### [Spelt.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.private.md) 
+### #is_/same_as :: [Spelt.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.private.md) 
 
-### [Spelt.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.personal.md) 
+### #is_/same_as :: [Spelt.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.personal.md) 
 
-### [Spelt.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.secret.md)
+### #is_/same_as :: [Spelt.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Spelt.secret.md)
 

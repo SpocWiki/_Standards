@@ -35,17 +35,17 @@ A recommended dosing schedule for a drug or supplement as prescribed or recommen
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RecommendedDoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.md) 
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.md) 
 
-### [FileClass~RecommendedDoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.public.md) 
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.public.md) 
 
-### [FileClass~RecommendedDoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.internal.md) 
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.internal.md) 
 
-### [FileClass~RecommendedDoseSchedule.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.protect.md) 
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.protect.md) 
 
-### [FileClass~RecommendedDoseSchedule.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.private.md) 
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.private.md) 
 
-### [FileClass~RecommendedDoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.personal.md) 
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.personal.md) 
 
-### [FileClass~RecommendedDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.secret.md)
+### #is_/same_as :: [FileClass~RecommendedDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_audience_type](/_Standards/schema-org/Property/Texts/has_audience_type.md) 
+### #is_/same_as :: [has_audience_type](/_Standards/schema-org/Property/Texts/has_audience_type.md) 
 
-### [has_audience_type.public](/_public/schema-org/Property/Texts/has_audience_type.public.md) 
+### #is_/same_as :: [has_audience_type.public](/_public/schema-org/Property/Texts/has_audience_type.public.md) 
 
-### [has_audience_type.internal](/_internal/schema-org/Property/Texts/has_audience_type.internal.md) 
+### #is_/same_as :: [has_audience_type.internal](/_internal/schema-org/Property/Texts/has_audience_type.internal.md) 
 
-### [has_audience_type.protect](/_protect/schema-org/Property/Texts/has_audience_type.protect.md) 
+### #is_/same_as :: [has_audience_type.protect](/_protect/schema-org/Property/Texts/has_audience_type.protect.md) 
 
-### [has_audience_type.private](/_private/schema-org/Property/Texts/has_audience_type.private.md) 
+### #is_/same_as :: [has_audience_type.private](/_private/schema-org/Property/Texts/has_audience_type.private.md) 
 
-### [has_audience_type.personal](/_personal/schema-org/Property/Texts/has_audience_type.personal.md) 
+### #is_/same_as :: [has_audience_type.personal](/_personal/schema-org/Property/Texts/has_audience_type.personal.md) 
 
-### [has_audience_type.secret](/_secret/schema-org/Property/Texts/has_audience_type.secret.md)
+### #is_/same_as :: [has_audience_type.secret](/_secret/schema-org/Property/Texts/has_audience_type.secret.md)
 

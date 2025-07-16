@@ -98,22 +98,19 @@ View                 left side
 Copyright ::            © 1998 David Wrobel
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Firoloida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.md) 
+### #is_/same_as :: [Firoloida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.md) 
 
-### [Firoloida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.public.md) 
+### #is_/same_as :: [Firoloida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.public.md) 
 
-### [Firoloida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.internal.md) 
+### #is_/same_as :: [Firoloida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.internal.md) 
 
-### [Firoloida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.protect.md) 
+### #is_/same_as :: [Firoloida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.protect.md) 
 
-### [Firoloida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.private.md) 
+### #is_/same_as :: [Firoloida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.private.md) 
 
-### [Firoloida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.personal.md) 
+### #is_/same_as :: [Firoloida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.personal.md) 
 
-### [Firoloida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.secret.md)
+### #is_/same_as :: [Firoloida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.secret.md)
 

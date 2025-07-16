@@ -41,24 +41,19 @@ Commons_category: Semiconductors
 > [Wikipedia](https://en.wikipedia.org/wiki/Semiconductor) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Semiconductor](/_Standards/Technology/Electronics/Electronic_Component/Semiconductor.md) 
+### #is_/same_as :: [Semiconductor](/_Standards/Technology/Electronics/Electronic_Component/Semiconductor.md) 
 
-### [Semiconductor.public](/_public/Technology/Electronics/Electronic_Component/Semiconductor.public.md) 
+### #is_/same_as :: [Semiconductor.public](/_public/Technology/Electronics/Electronic_Component/Semiconductor.public.md) 
 
-### [Semiconductor.internal](/_internal/Technology/Electronics/Electronic_Component/Semiconductor.internal.md) 
+### #is_/same_as :: [Semiconductor.internal](/_internal/Technology/Electronics/Electronic_Component/Semiconductor.internal.md) 
 
-### [Semiconductor.protect](/_protect/Technology/Electronics/Electronic_Component/Semiconductor.protect.md) 
+### #is_/same_as :: [Semiconductor.protect](/_protect/Technology/Electronics/Electronic_Component/Semiconductor.protect.md) 
 
-### [Semiconductor.private](/_private/Technology/Electronics/Electronic_Component/Semiconductor.private.md) 
+### #is_/same_as :: [Semiconductor.private](/_private/Technology/Electronics/Electronic_Component/Semiconductor.private.md) 
 
-### [Semiconductor.personal](/_personal/Technology/Electronics/Electronic_Component/Semiconductor.personal.md) 
+### #is_/same_as :: [Semiconductor.personal](/_personal/Technology/Electronics/Electronic_Component/Semiconductor.personal.md) 
 
-### [Semiconductor.secret](/_secret/Technology/Electronics/Electronic_Component/Semiconductor.secret.md)
+### #is_/same_as :: [Semiconductor.secret](/_secret/Technology/Electronics/Electronic_Component/Semiconductor.secret.md)
 

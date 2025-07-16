@@ -49,17 +49,17 @@ GS1 (formerly NRF) size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_system_gs1](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.md) 
+### #is_/same_as :: [wearable_size_system_gs1](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.md) 
 
-### [wearable_size_system_gs1.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.public.md) 
+### #is_/same_as :: [wearable_size_system_gs1.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.public.md) 
 
-### [wearable_size_system_gs1.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.internal.md) 
+### #is_/same_as :: [wearable_size_system_gs1.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.internal.md) 
 
-### [wearable_size_system_gs1.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.protect.md) 
+### #is_/same_as :: [wearable_size_system_gs1.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.protect.md) 
 
-### [wearable_size_system_gs1.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.private.md) 
+### #is_/same_as :: [wearable_size_system_gs1.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.private.md) 
 
-### [wearable_size_system_gs1.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.personal.md) 
+### #is_/same_as :: [wearable_size_system_gs1.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.personal.md) 
 
-### [wearable_size_system_gs1.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.secret.md)
+### #is_/same_as :: [wearable_size_system_gs1.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_gs1.secret.md)
 

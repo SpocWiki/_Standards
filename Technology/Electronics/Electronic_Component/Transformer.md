@@ -35,21 +35,19 @@ Commons_category: Transformers
 > [Wikipedia](https://en.wikipedia.org/wiki/Transformer) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Transformer](/_Standards/Technology/Electronics/Electronic_Component/Transformer.md) 
+### #is_/same_as :: [Transformer](/_Standards/Technology/Electronics/Electronic_Component/Transformer.md) 
 
-### [Transformer.public](/_public/Technology/Electronics/Electronic_Component/Transformer.public.md) 
+### #is_/same_as :: [Transformer.public](/_public/Technology/Electronics/Electronic_Component/Transformer.public.md) 
 
-### [Transformer.internal](/_internal/Technology/Electronics/Electronic_Component/Transformer.internal.md) 
+### #is_/same_as :: [Transformer.internal](/_internal/Technology/Electronics/Electronic_Component/Transformer.internal.md) 
 
-### [Transformer.protect](/_protect/Technology/Electronics/Electronic_Component/Transformer.protect.md) 
+### #is_/same_as :: [Transformer.protect](/_protect/Technology/Electronics/Electronic_Component/Transformer.protect.md) 
 
-### [Transformer.private](/_private/Technology/Electronics/Electronic_Component/Transformer.private.md) 
+### #is_/same_as :: [Transformer.private](/_private/Technology/Electronics/Electronic_Component/Transformer.private.md) 
 
-### [Transformer.personal](/_personal/Technology/Electronics/Electronic_Component/Transformer.personal.md) 
+### #is_/same_as :: [Transformer.personal](/_personal/Technology/Electronics/Electronic_Component/Transformer.personal.md) 
 
-### [Transformer.secret](/_secret/Technology/Electronics/Electronic_Component/Transformer.secret.md)
+### #is_/same_as :: [Transformer.secret](/_secret/Technology/Electronics/Electronic_Component/Transformer.secret.md)
 

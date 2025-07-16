@@ -422,17 +422,17 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 
 ## Confidential Links & Embeds: 
 
-### [Qatar](/_Standards/Earth/Continent/Asia/Asia~West/Qatar.md) 
+### #is_/same_as :: [Qatar](/_Standards/Earth/Continent/Asia/Asia~West/Qatar.md) 
 
-### [Qatar.public](/_public/Earth/Continent/Asia/Asia~West/Qatar.public.md) 
+### #is_/same_as :: [Qatar.public](/_public/Earth/Continent/Asia/Asia~West/Qatar.public.md) 
 
-### [Qatar.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal.md) 
+### #is_/same_as :: [Qatar.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal.md) 
 
-### [Qatar.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect.md) 
+### #is_/same_as :: [Qatar.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect.md) 
 
-### [Qatar.private](/_private/Earth/Continent/Asia/Asia~West/Qatar.private.md) 
+### #is_/same_as :: [Qatar.private](/_private/Earth/Continent/Asia/Asia~West/Qatar.private.md) 
 
-### [Qatar.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal.md) 
+### #is_/same_as :: [Qatar.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal.md) 
 
-### [Qatar.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret.md)
+### #is_/same_as :: [Qatar.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret.md)
 

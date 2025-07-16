@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_in_broadcast_lineup](/_Standards/schema-org/Relation/is/is_in_broadcast_lineup.md) 
+### #is_/same_as :: [is_in_broadcast_lineup](/_Standards/schema-org/Relation/is/is_in_broadcast_lineup.md) 
 
-### [is_in_broadcast_lineup.public](/_public/schema-org/Relation/is/is_in_broadcast_lineup.public.md) 
+### #is_/same_as :: [is_in_broadcast_lineup.public](/_public/schema-org/Relation/is/is_in_broadcast_lineup.public.md) 
 
-### [is_in_broadcast_lineup.internal](/_internal/schema-org/Relation/is/is_in_broadcast_lineup.internal.md) 
+### #is_/same_as :: [is_in_broadcast_lineup.internal](/_internal/schema-org/Relation/is/is_in_broadcast_lineup.internal.md) 
 
-### [is_in_broadcast_lineup.protect](/_protect/schema-org/Relation/is/is_in_broadcast_lineup.protect.md) 
+### #is_/same_as :: [is_in_broadcast_lineup.protect](/_protect/schema-org/Relation/is/is_in_broadcast_lineup.protect.md) 
 
-### [is_in_broadcast_lineup.private](/_private/schema-org/Relation/is/is_in_broadcast_lineup.private.md) 
+### #is_/same_as :: [is_in_broadcast_lineup.private](/_private/schema-org/Relation/is/is_in_broadcast_lineup.private.md) 
 
-### [is_in_broadcast_lineup.personal](/_personal/schema-org/Relation/is/is_in_broadcast_lineup.personal.md) 
+### #is_/same_as :: [is_in_broadcast_lineup.personal](/_personal/schema-org/Relation/is/is_in_broadcast_lineup.personal.md) 
 
-### [is_in_broadcast_lineup.secret](/_secret/schema-org/Relation/is/is_in_broadcast_lineup.secret.md)
+### #is_/same_as :: [is_in_broadcast_lineup.secret](/_secret/schema-org/Relation/is/is_in_broadcast_lineup.secret.md)
 

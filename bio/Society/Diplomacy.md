@@ -56,17 +56,17 @@ IPTC_NewsCode: mediatopic/20000639
 
 ## Confidential Links & Embeds: 
 
-### [Diplomacy](/_Standards/bio/Society/Diplomacy.md) 
+### #is_/same_as :: [Diplomacy](/_Standards/bio/Society/Diplomacy.md) 
 
-### [Diplomacy.public](/_public/bio/Society/Diplomacy.public.md) 
+### #is_/same_as :: [Diplomacy.public](/_public/bio/Society/Diplomacy.public.md) 
 
-### [Diplomacy.internal](/_internal/bio/Society/Diplomacy.internal.md) 
+### #is_/same_as :: [Diplomacy.internal](/_internal/bio/Society/Diplomacy.internal.md) 
 
-### [Diplomacy.protect](/_protect/bio/Society/Diplomacy.protect.md) 
+### #is_/same_as :: [Diplomacy.protect](/_protect/bio/Society/Diplomacy.protect.md) 
 
-### [Diplomacy.private](/_private/bio/Society/Diplomacy.private.md) 
+### #is_/same_as :: [Diplomacy.private](/_private/bio/Society/Diplomacy.private.md) 
 
-### [Diplomacy.personal](/_personal/bio/Society/Diplomacy.personal.md) 
+### #is_/same_as :: [Diplomacy.personal](/_personal/bio/Society/Diplomacy.personal.md) 
 
-### [Diplomacy.secret](/_secret/bio/Society/Diplomacy.secret.md)
+### #is_/same_as :: [Diplomacy.secret](/_secret/bio/Society/Diplomacy.secret.md)
 

@@ -51,17 +51,17 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 ## Confidential Links & Embeds: 
 
-### [offer](/_Standards/schema-org/Class/is_a_/Intangible/offer.md) 
+### #is_/same_as :: [offer](/_Standards/schema-org/Class/is_a_/Intangible/offer.md) 
 
-### [offer.public](/_public/schema-org/Class/is_a_/Intangible/offer.public.md) 
+### #is_/same_as :: [offer.public](/_public/schema-org/Class/is_a_/Intangible/offer.public.md) 
 
-### [offer.internal](/_internal/schema-org/Class/is_a_/Intangible/offer.internal.md) 
+### #is_/same_as :: [offer.internal](/_internal/schema-org/Class/is_a_/Intangible/offer.internal.md) 
 
-### [offer.protect](/_protect/schema-org/Class/is_a_/Intangible/offer.protect.md) 
+### #is_/same_as :: [offer.protect](/_protect/schema-org/Class/is_a_/Intangible/offer.protect.md) 
 
-### [offer.private](/_private/schema-org/Class/is_a_/Intangible/offer.private.md) 
+### #is_/same_as :: [offer.private](/_private/schema-org/Class/is_a_/Intangible/offer.private.md) 
 
-### [offer.personal](/_personal/schema-org/Class/is_a_/Intangible/offer.personal.md) 
+### #is_/same_as :: [offer.personal](/_personal/schema-org/Class/is_a_/Intangible/offer.personal.md) 
 
-### [offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer.secret.md)
+### #is_/same_as :: [offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer.secret.md)
 

@@ -47,17 +47,17 @@ CassetteFormat.
 
 ## Confidential Links & Embeds: 
 
-### [cassette_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.md) 
+### #is_/same_as :: [cassette_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.md) 
 
-### [cassette_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.public.md) 
+### #is_/same_as :: [cassette_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.public.md) 
 
-### [cassette_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.internal.md) 
+### #is_/same_as :: [cassette_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.internal.md) 
 
-### [cassette_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.protect.md) 
+### #is_/same_as :: [cassette_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.protect.md) 
 
-### [cassette_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.private.md) 
+### #is_/same_as :: [cassette_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.private.md) 
 
-### [cassette_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.personal.md) 
+### #is_/same_as :: [cassette_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.personal.md) 
 
-### [cassette_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.secret.md)
+### #is_/same_as :: [cassette_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.secret.md)
 

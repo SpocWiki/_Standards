@@ -17,17 +17,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### [Group-09-Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt.md) 
+### #is_/same_as :: [Group-09-Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt.md) 
 
-### [Group-09-Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt.public.md) 
+### #is_/same_as :: [Group-09-Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt.public.md) 
 
-### [Group-09-Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt.internal.md) 
+### #is_/same_as :: [Group-09-Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt.internal.md) 
 
-### [Group-09-Cobalt.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt.protect.md) 
+### #is_/same_as :: [Group-09-Cobalt.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt.protect.md) 
 
-### [Group-09-Cobalt.private](/_private/chemic/chemic~Elements/Group-09-Cobalt.private.md) 
+### #is_/same_as :: [Group-09-Cobalt.private](/_private/chemic/chemic~Elements/Group-09-Cobalt.private.md) 
 
-### [Group-09-Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt.personal.md) 
+### #is_/same_as :: [Group-09-Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt.personal.md) 
 
-### [Group-09-Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt.secret.md)
+### #is_/same_as :: [Group-09-Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt.secret.md)
 

@@ -45,17 +45,17 @@ Event type: A social dance.
 
 ## Confidential Links & Embeds: 
 
-### [dance_event](/_Standards/schema-org/Class/is_a_/event/dance_event.md) 
+### #is_/same_as :: [dance_event](/_Standards/schema-org/Class/is_a_/event/dance_event.md) 
 
-### [dance_event.public](/_public/schema-org/Class/is_a_/event/dance_event.public.md) 
+### #is_/same_as :: [dance_event.public](/_public/schema-org/Class/is_a_/event/dance_event.public.md) 
 
-### [dance_event.internal](/_internal/schema-org/Class/is_a_/event/dance_event.internal.md) 
+### #is_/same_as :: [dance_event.internal](/_internal/schema-org/Class/is_a_/event/dance_event.internal.md) 
 
-### [dance_event.protect](/_protect/schema-org/Class/is_a_/event/dance_event.protect.md) 
+### #is_/same_as :: [dance_event.protect](/_protect/schema-org/Class/is_a_/event/dance_event.protect.md) 
 
-### [dance_event.private](/_private/schema-org/Class/is_a_/event/dance_event.private.md) 
+### #is_/same_as :: [dance_event.private](/_private/schema-org/Class/is_a_/event/dance_event.private.md) 
 
-### [dance_event.personal](/_personal/schema-org/Class/is_a_/event/dance_event.personal.md) 
+### #is_/same_as :: [dance_event.personal](/_personal/schema-org/Class/is_a_/event/dance_event.personal.md) 
 
-### [dance_event.secret](/_secret/schema-org/Class/is_a_/event/dance_event.secret.md)
+### #is_/same_as :: [dance_event.secret](/_secret/schema-org/Class/is_a_/event/dance_event.secret.md)
 

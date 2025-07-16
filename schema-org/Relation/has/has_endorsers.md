@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_endorsers](/_Standards/schema-org/Relation/has/has_endorsers.md) 
+### #is_/same_as :: [has_endorsers](/_Standards/schema-org/Relation/has/has_endorsers.md) 
 
-### [has_endorsers.public](/_public/schema-org/Relation/has/has_endorsers.public.md) 
+### #is_/same_as :: [has_endorsers.public](/_public/schema-org/Relation/has/has_endorsers.public.md) 
 
-### [has_endorsers.internal](/_internal/schema-org/Relation/has/has_endorsers.internal.md) 
+### #is_/same_as :: [has_endorsers.internal](/_internal/schema-org/Relation/has/has_endorsers.internal.md) 
 
-### [has_endorsers.protect](/_protect/schema-org/Relation/has/has_endorsers.protect.md) 
+### #is_/same_as :: [has_endorsers.protect](/_protect/schema-org/Relation/has/has_endorsers.protect.md) 
 
-### [has_endorsers.private](/_private/schema-org/Relation/has/has_endorsers.private.md) 
+### #is_/same_as :: [has_endorsers.private](/_private/schema-org/Relation/has/has_endorsers.private.md) 
 
-### [has_endorsers.personal](/_personal/schema-org/Relation/has/has_endorsers.personal.md) 
+### #is_/same_as :: [has_endorsers.personal](/_personal/schema-org/Relation/has/has_endorsers.personal.md) 
 
-### [has_endorsers.secret](/_secret/schema-org/Relation/has/has_endorsers.secret.md)
+### #is_/same_as :: [has_endorsers.secret](/_secret/schema-org/Relation/has/has_endorsers.secret.md)
 

@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [RNA(Ribo-Nucleic_Acid)](/_Standards/bio/Genetics/RNA(Ribo-Nucleic_Acid).md) 
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid)](/_Standards/bio/Genetics/RNA(Ribo-Nucleic_Acid).md) 
 
-### [RNA(Ribo-Nucleic_Acid).public](/_public/bio/Genetics/RNA(Ribo-Nucleic_Acid).public.md) 
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).public](/_public/bio/Genetics/RNA(Ribo-Nucleic_Acid).public.md) 
 
-### [RNA(Ribo-Nucleic_Acid).internal](/_internal/bio/Genetics/RNA(Ribo-Nucleic_Acid).internal.md) 
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).internal](/_internal/bio/Genetics/RNA(Ribo-Nucleic_Acid).internal.md) 
 
-### [RNA(Ribo-Nucleic_Acid).protect](/_protect/bio/Genetics/RNA(Ribo-Nucleic_Acid).protect.md) 
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).protect](/_protect/bio/Genetics/RNA(Ribo-Nucleic_Acid).protect.md) 
 
-### [RNA(Ribo-Nucleic_Acid).private](/_private/bio/Genetics/RNA(Ribo-Nucleic_Acid).private.md) 
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).private](/_private/bio/Genetics/RNA(Ribo-Nucleic_Acid).private.md) 
 
-### [RNA(Ribo-Nucleic_Acid).personal](/_personal/bio/Genetics/RNA(Ribo-Nucleic_Acid).personal.md) 
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).personal](/_personal/bio/Genetics/RNA(Ribo-Nucleic_Acid).personal.md) 
 
-### [RNA(Ribo-Nucleic_Acid).secret](/_secret/bio/Genetics/RNA(Ribo-Nucleic_Acid).secret.md)
+### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).secret](/_secret/bio/Genetics/RNA(Ribo-Nucleic_Acid).secret.md)
 

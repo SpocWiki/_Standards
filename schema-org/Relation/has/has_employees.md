@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_employees](/_Standards/schema-org/Relation/has/has_employees.md) 
+### #is_/same_as :: [has_employees](/_Standards/schema-org/Relation/has/has_employees.md) 
 
-### [has_employees.public](/_public/schema-org/Relation/has/has_employees.public.md) 
+### #is_/same_as :: [has_employees.public](/_public/schema-org/Relation/has/has_employees.public.md) 
 
-### [has_employees.internal](/_internal/schema-org/Relation/has/has_employees.internal.md) 
+### #is_/same_as :: [has_employees.internal](/_internal/schema-org/Relation/has/has_employees.internal.md) 
 
-### [has_employees.protect](/_protect/schema-org/Relation/has/has_employees.protect.md) 
+### #is_/same_as :: [has_employees.protect](/_protect/schema-org/Relation/has/has_employees.protect.md) 
 
-### [has_employees.private](/_private/schema-org/Relation/has/has_employees.private.md) 
+### #is_/same_as :: [has_employees.private](/_private/schema-org/Relation/has/has_employees.private.md) 
 
-### [has_employees.personal](/_personal/schema-org/Relation/has/has_employees.personal.md) 
+### #is_/same_as :: [has_employees.personal](/_personal/schema-org/Relation/has/has_employees.personal.md) 
 
-### [has_employees.secret](/_secret/schema-org/Relation/has/has_employees.secret.md)
+### #is_/same_as :: [has_employees.secret](/_secret/schema-org/Relation/has/has_employees.secret.md)
 

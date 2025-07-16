@@ -46,17 +46,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [bed_details](/_Standards/schema-org/Class/is_a_/Intangible/bed_details.md) 
+### #is_/same_as :: [bed_details](/_Standards/schema-org/Class/is_a_/Intangible/bed_details.md) 
 
-### [bed_details.public](/_public/schema-org/Class/is_a_/Intangible/bed_details.public.md) 
+### #is_/same_as :: [bed_details.public](/_public/schema-org/Class/is_a_/Intangible/bed_details.public.md) 
 
-### [bed_details.internal](/_internal/schema-org/Class/is_a_/Intangible/bed_details.internal.md) 
+### #is_/same_as :: [bed_details.internal](/_internal/schema-org/Class/is_a_/Intangible/bed_details.internal.md) 
 
-### [bed_details.protect](/_protect/schema-org/Class/is_a_/Intangible/bed_details.protect.md) 
+### #is_/same_as :: [bed_details.protect](/_protect/schema-org/Class/is_a_/Intangible/bed_details.protect.md) 
 
-### [bed_details.private](/_private/schema-org/Class/is_a_/Intangible/bed_details.private.md) 
+### #is_/same_as :: [bed_details.private](/_private/schema-org/Class/is_a_/Intangible/bed_details.private.md) 
 
-### [bed_details.personal](/_personal/schema-org/Class/is_a_/Intangible/bed_details.personal.md) 
+### #is_/same_as :: [bed_details.personal](/_personal/schema-org/Class/is_a_/Intangible/bed_details.personal.md) 
 
-### [bed_details.secret](/_secret/schema-org/Class/is_a_/Intangible/bed_details.secret.md)
+### #is_/same_as :: [bed_details.secret](/_secret/schema-org/Class/is_a_/Intangible/bed_details.secret.md)
 

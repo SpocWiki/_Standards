@@ -152,17 +152,17 @@ electron_configuration: "[Ar] 3d⁵ 4s²"
 
 ## Confidential Links & Embeds: 
 
-### [Manganese](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Manganese.md) 
+### #is_/same_as :: [Manganese](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Manganese.md) 
 
-### [Manganese.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Manganese.public.md) 
+### #is_/same_as :: [Manganese.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Manganese.public.md) 
 
-### [Manganese.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Manganese.internal.md) 
+### #is_/same_as :: [Manganese.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Manganese.internal.md) 
 
-### [Manganese.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Manganese.protect.md) 
+### #is_/same_as :: [Manganese.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Manganese.protect.md) 
 
-### [Manganese.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Manganese.private.md) 
+### #is_/same_as :: [Manganese.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Manganese.private.md) 
 
-### [Manganese.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Manganese.personal.md) 
+### #is_/same_as :: [Manganese.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Manganese.personal.md) 
 
-### [Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Manganese.secret.md)
+### #is_/same_as :: [Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Manganese.secret.md)
 

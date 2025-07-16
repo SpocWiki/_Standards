@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_assembly_version](/_Standards/schema-org/Property/Texts/has_assembly_version.md) 
+### #is_/same_as :: [has_assembly_version](/_Standards/schema-org/Property/Texts/has_assembly_version.md) 
 
-### [has_assembly_version.public](/_public/schema-org/Property/Texts/has_assembly_version.public.md) 
+### #is_/same_as :: [has_assembly_version.public](/_public/schema-org/Property/Texts/has_assembly_version.public.md) 
 
-### [has_assembly_version.internal](/_internal/schema-org/Property/Texts/has_assembly_version.internal.md) 
+### #is_/same_as :: [has_assembly_version.internal](/_internal/schema-org/Property/Texts/has_assembly_version.internal.md) 
 
-### [has_assembly_version.protect](/_protect/schema-org/Property/Texts/has_assembly_version.protect.md) 
+### #is_/same_as :: [has_assembly_version.protect](/_protect/schema-org/Property/Texts/has_assembly_version.protect.md) 
 
-### [has_assembly_version.private](/_private/schema-org/Property/Texts/has_assembly_version.private.md) 
+### #is_/same_as :: [has_assembly_version.private](/_private/schema-org/Property/Texts/has_assembly_version.private.md) 
 
-### [has_assembly_version.personal](/_personal/schema-org/Property/Texts/has_assembly_version.personal.md) 
+### #is_/same_as :: [has_assembly_version.personal](/_personal/schema-org/Property/Texts/has_assembly_version.personal.md) 
 
-### [has_assembly_version.secret](/_secret/schema-org/Property/Texts/has_assembly_version.secret.md)
+### #is_/same_as :: [has_assembly_version.secret](/_secret/schema-org/Property/Texts/has_assembly_version.secret.md)
 

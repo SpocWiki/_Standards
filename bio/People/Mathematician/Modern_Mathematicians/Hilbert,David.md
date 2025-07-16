@@ -210,17 +210,17 @@ name_in_native_language: "David Hilbert"
 
 ## Confidential Links & Embeds: 
 
-### [Hilbert,David](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.md) 
+### #is_/same_as :: [Hilbert,David](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.md) 
 
-### [Hilbert,David.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.public.md) 
+### #is_/same_as :: [Hilbert,David.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.public.md) 
 
-### [Hilbert,David.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.internal.md) 
+### #is_/same_as :: [Hilbert,David.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.internal.md) 
 
-### [Hilbert,David.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.protect.md) 
+### #is_/same_as :: [Hilbert,David.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.protect.md) 
 
-### [Hilbert,David.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.private.md) 
+### #is_/same_as :: [Hilbert,David.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.private.md) 
 
-### [Hilbert,David.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.personal.md) 
+### #is_/same_as :: [Hilbert,David.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.personal.md) 
 
-### [Hilbert,David.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.secret.md)
+### #is_/same_as :: [Hilbert,David.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.secret.md)
 

@@ -161,17 +161,17 @@ Gujarati_Vishwakosh_entry: આર્સેનિક
 
 ## Confidential Links & Embeds: 
 
-### [Arsenic](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.md) 
+### #is_/same_as :: [Arsenic](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.md) 
 
-### [Arsenic.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.public.md) 
+### #is_/same_as :: [Arsenic.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.public.md) 
 
-### [Arsenic.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.internal.md) 
+### #is_/same_as :: [Arsenic.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.internal.md) 
 
-### [Arsenic.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.protect.md) 
+### #is_/same_as :: [Arsenic.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.protect.md) 
 
-### [Arsenic.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.private.md) 
+### #is_/same_as :: [Arsenic.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.private.md) 
 
-### [Arsenic.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.personal.md) 
+### #is_/same_as :: [Arsenic.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.personal.md) 
 
-### [Arsenic.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.secret.md)
+### #is_/same_as :: [Arsenic.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.secret.md)
 

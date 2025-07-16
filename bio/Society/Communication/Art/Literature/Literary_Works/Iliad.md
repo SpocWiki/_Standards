@@ -185,21 +185,19 @@ Libris_URI: 86lpxg5s21zpr23
 > [Wikipedia](https://en.wikipedia.org/wiki/Iliad) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Iliad](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.md) 
+### #is_/same_as :: [Iliad](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.md) 
 
-### [Iliad.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.public.md) 
+### #is_/same_as :: [Iliad.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.public.md) 
 
-### [Iliad.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.internal.md) 
+### #is_/same_as :: [Iliad.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.internal.md) 
 
-### [Iliad.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.protect.md) 
+### #is_/same_as :: [Iliad.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.protect.md) 
 
-### [Iliad.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.private.md) 
+### #is_/same_as :: [Iliad.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.private.md) 
 
-### [Iliad.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.personal.md) 
+### #is_/same_as :: [Iliad.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.personal.md) 
 
-### [Iliad.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.secret.md)
+### #is_/same_as :: [Iliad.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Iliad.secret.md)
 

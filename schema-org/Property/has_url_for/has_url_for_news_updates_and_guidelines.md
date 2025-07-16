@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_news_updates_and_guidelines](/_Standards/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.md) 
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines](/_Standards/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.md) 
 
-### [has_url_for_news_updates_and_guidelines.public](/_public/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.public.md) 
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines.public](/_public/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.public.md) 
 
-### [has_url_for_news_updates_and_guidelines.internal](/_internal/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.internal.md) 
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines.internal](/_internal/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.internal.md) 
 
-### [has_url_for_news_updates_and_guidelines.protect](/_protect/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.protect.md) 
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines.protect](/_protect/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.protect.md) 
 
-### [has_url_for_news_updates_and_guidelines.private](/_private/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.private.md) 
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines.private](/_private/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.private.md) 
 
-### [has_url_for_news_updates_and_guidelines.personal](/_personal/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.personal.md) 
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines.personal](/_personal/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.personal.md) 
 
-### [has_url_for_news_updates_and_guidelines.secret](/_secret/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.secret.md)
+### #is_/same_as :: [has_url_for_news_updates_and_guidelines.secret](/_secret/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.secret.md)
 

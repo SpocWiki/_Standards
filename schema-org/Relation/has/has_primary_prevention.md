@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_primary_prevention](/_Standards/schema-org/Relation/has/has_primary_prevention.md) 
+### #is_/same_as :: [has_primary_prevention](/_Standards/schema-org/Relation/has/has_primary_prevention.md) 
 
-### [has_primary_prevention.public](/_public/schema-org/Relation/has/has_primary_prevention.public.md) 
+### #is_/same_as :: [has_primary_prevention.public](/_public/schema-org/Relation/has/has_primary_prevention.public.md) 
 
-### [has_primary_prevention.internal](/_internal/schema-org/Relation/has/has_primary_prevention.internal.md) 
+### #is_/same_as :: [has_primary_prevention.internal](/_internal/schema-org/Relation/has/has_primary_prevention.internal.md) 
 
-### [has_primary_prevention.protect](/_protect/schema-org/Relation/has/has_primary_prevention.protect.md) 
+### #is_/same_as :: [has_primary_prevention.protect](/_protect/schema-org/Relation/has/has_primary_prevention.protect.md) 
 
-### [has_primary_prevention.private](/_private/schema-org/Relation/has/has_primary_prevention.private.md) 
+### #is_/same_as :: [has_primary_prevention.private](/_private/schema-org/Relation/has/has_primary_prevention.private.md) 
 
-### [has_primary_prevention.personal](/_personal/schema-org/Relation/has/has_primary_prevention.personal.md) 
+### #is_/same_as :: [has_primary_prevention.personal](/_personal/schema-org/Relation/has/has_primary_prevention.personal.md) 
 
-### [has_primary_prevention.secret](/_secret/schema-org/Relation/has/has_primary_prevention.secret.md)
+### #is_/same_as :: [has_primary_prevention.secret](/_secret/schema-org/Relation/has/has_primary_prevention.secret.md)
 

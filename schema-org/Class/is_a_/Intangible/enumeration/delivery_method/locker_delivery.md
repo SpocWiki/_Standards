@@ -47,17 +47,17 @@ A DeliveryMethod in which an item is made available via locker.
 
 ## Confidential Links & Embeds: 
 
-### [locker_delivery](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.md) 
+### #is_/same_as :: [locker_delivery](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.md) 
 
-### [locker_delivery.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.public.md) 
+### #is_/same_as :: [locker_delivery.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.public.md) 
 
-### [locker_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.internal.md) 
+### #is_/same_as :: [locker_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.internal.md) 
 
-### [locker_delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.protect.md) 
+### #is_/same_as :: [locker_delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.protect.md) 
 
-### [locker_delivery.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.private.md) 
+### #is_/same_as :: [locker_delivery.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.private.md) 
 
-### [locker_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.personal.md) 
+### #is_/same_as :: [locker_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.personal.md) 
 
-### [locker_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.secret.md)
+### #is_/same_as :: [locker_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.secret.md)
 

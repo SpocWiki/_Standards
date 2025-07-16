@@ -73,17 +73,17 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### [Helicobasidium longisporum](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.md) 
+### #is_/same_as :: [Helicobasidium longisporum](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.md) 
 
-### [Helicobasidium longisporum.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.public.md) 
+### #is_/same_as :: [Helicobasidium longisporum.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.public.md) 
 
-### [Helicobasidium longisporum.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.internal.md) 
+### #is_/same_as :: [Helicobasidium longisporum.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.internal.md) 
 
-### [Helicobasidium longisporum.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.protect.md) 
+### #is_/same_as :: [Helicobasidium longisporum.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.protect.md) 
 
-### [Helicobasidium longisporum.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.private.md) 
+### #is_/same_as :: [Helicobasidium longisporum.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.private.md) 
 
-### [Helicobasidium longisporum.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.personal.md) 
+### #is_/same_as :: [Helicobasidium longisporum.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.personal.md) 
 
-### [Helicobasidium longisporum.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.secret.md)
+### #is_/same_as :: [Helicobasidium longisporum.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium longisporum.secret.md)
 

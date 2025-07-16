@@ -164,22 +164,19 @@ country of citizenship: "[[_Standards/WikiData/WD~United States,30]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Lloyd%20Wright)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Wright,Frank_Lloyd](/_Standards/bio/People/Architects/Wright,Frank_Lloyd.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd](/_Standards/bio/People/Architects/Wright,Frank_Lloyd.md) 
 
-### [Wright,Frank_Lloyd.public](/_public/bio/People/Architects/Wright,Frank_Lloyd.public.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.public](/_public/bio/People/Architects/Wright,Frank_Lloyd.public.md) 
 
-### [Wright,Frank_Lloyd.internal](/_internal/bio/People/Architects/Wright,Frank_Lloyd.internal.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.internal](/_internal/bio/People/Architects/Wright,Frank_Lloyd.internal.md) 
 
-### [Wright,Frank_Lloyd.protect](/_protect/bio/People/Architects/Wright,Frank_Lloyd.protect.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.protect](/_protect/bio/People/Architects/Wright,Frank_Lloyd.protect.md) 
 
-### [Wright,Frank_Lloyd.private](/_private/bio/People/Architects/Wright,Frank_Lloyd.private.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.private](/_private/bio/People/Architects/Wright,Frank_Lloyd.private.md) 
 
-### [Wright,Frank_Lloyd.personal](/_personal/bio/People/Architects/Wright,Frank_Lloyd.personal.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.personal](/_personal/bio/People/Architects/Wright,Frank_Lloyd.personal.md) 
 
-### [Wright,Frank_Lloyd.secret](/_secret/bio/People/Architects/Wright,Frank_Lloyd.secret.md)
+### #is_/same_as :: [Wright,Frank_Lloyd.secret](/_secret/bio/People/Architects/Wright,Frank_Lloyd.secret.md)
 

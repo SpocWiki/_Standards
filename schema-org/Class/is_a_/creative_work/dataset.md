@@ -49,17 +49,17 @@ A body of structured information describing some topic(s) of interest.
 
 ## Confidential Links & Embeds: 
 
-### [dataset](/_Standards/schema-org/Class/is_a_/creative_work/dataset.md) 
+### #is_/same_as :: [dataset](/_Standards/schema-org/Class/is_a_/creative_work/dataset.md) 
 
-### [dataset.public](/_public/schema-org/Class/is_a_/creative_work/dataset.public.md) 
+### #is_/same_as :: [dataset.public](/_public/schema-org/Class/is_a_/creative_work/dataset.public.md) 
 
-### [dataset.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset.internal.md) 
+### #is_/same_as :: [dataset.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset.internal.md) 
 
-### [dataset.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset.protect.md) 
+### #is_/same_as :: [dataset.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset.protect.md) 
 
-### [dataset.private](/_private/schema-org/Class/is_a_/creative_work/dataset.private.md) 
+### #is_/same_as :: [dataset.private](/_private/schema-org/Class/is_a_/creative_work/dataset.private.md) 
 
-### [dataset.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset.personal.md) 
+### #is_/same_as :: [dataset.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset.personal.md) 
 
-### [dataset.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset.secret.md)
+### #is_/same_as :: [dataset.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset.secret.md)
 

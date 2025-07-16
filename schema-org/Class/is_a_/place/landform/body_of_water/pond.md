@@ -45,17 +45,17 @@ A pond.
 
 ## Confidential Links & Embeds: 
 
-### [pond](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/pond.md) 
+### #is_/same_as :: [pond](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/pond.md) 
 
-### [pond.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/pond.public.md) 
+### #is_/same_as :: [pond.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/pond.public.md) 
 
-### [pond.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/pond.internal.md) 
+### #is_/same_as :: [pond.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/pond.internal.md) 
 
-### [pond.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/pond.protect.md) 
+### #is_/same_as :: [pond.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/pond.protect.md) 
 
-### [pond.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/pond.private.md) 
+### #is_/same_as :: [pond.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/pond.private.md) 
 
-### [pond.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/pond.personal.md) 
+### #is_/same_as :: [pond.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/pond.personal.md) 
 
-### [pond.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/pond.secret.md)
+### #is_/same_as :: [pond.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/pond.secret.md)
 

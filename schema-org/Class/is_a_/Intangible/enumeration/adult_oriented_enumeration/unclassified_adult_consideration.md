@@ -49,17 +49,17 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 ## Confidential Links & Embeds: 
 
-### [unclassified_adult_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.md) 
+### #is_/same_as :: [unclassified_adult_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.md) 
 
-### [unclassified_adult_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.public.md) 
+### #is_/same_as :: [unclassified_adult_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.public.md) 
 
-### [unclassified_adult_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.internal.md) 
+### #is_/same_as :: [unclassified_adult_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.internal.md) 
 
-### [unclassified_adult_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.protect.md) 
+### #is_/same_as :: [unclassified_adult_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.protect.md) 
 
-### [unclassified_adult_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.private.md) 
+### #is_/same_as :: [unclassified_adult_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.private.md) 
 
-### [unclassified_adult_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.personal.md) 
+### #is_/same_as :: [unclassified_adult_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.personal.md) 
 
-### [unclassified_adult_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.secret.md)
+### #is_/same_as :: [unclassified_adult_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.secret.md)
 

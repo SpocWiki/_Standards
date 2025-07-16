@@ -55,17 +55,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_parts](/_Standards/schema-org/Composite/has_parts.md) 
+### #is_/same_as :: [has_parts](/_Standards/schema-org/Composite/has_parts.md) 
 
-### [has_parts.public](/_public/schema-org/Composite/has_parts.public.md) 
+### #is_/same_as :: [has_parts.public](/_public/schema-org/Composite/has_parts.public.md) 
 
-### [has_parts.internal](/_internal/schema-org/Composite/has_parts.internal.md) 
+### #is_/same_as :: [has_parts.internal](/_internal/schema-org/Composite/has_parts.internal.md) 
 
-### [has_parts.protect](/_protect/schema-org/Composite/has_parts.protect.md) 
+### #is_/same_as :: [has_parts.protect](/_protect/schema-org/Composite/has_parts.protect.md) 
 
-### [has_parts.private](/_private/schema-org/Composite/has_parts.private.md) 
+### #is_/same_as :: [has_parts.private](/_private/schema-org/Composite/has_parts.private.md) 
 
-### [has_parts.personal](/_personal/schema-org/Composite/has_parts.personal.md) 
+### #is_/same_as :: [has_parts.personal](/_personal/schema-org/Composite/has_parts.personal.md) 
 
-### [has_parts.secret](/_secret/schema-org/Composite/has_parts.secret.md)
+### #is_/same_as :: [has_parts.secret](/_secret/schema-org/Composite/has_parts.secret.md)
 

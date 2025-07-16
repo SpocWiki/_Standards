@@ -102,17 +102,17 @@ Unicode_character: 鑀
 
 ## Confidential Links & Embeds: 
 
-### [Einsteinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Einsteinium.md) 
+### #is_/same_as :: [Einsteinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Einsteinium.md) 
 
-### [Einsteinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Einsteinium.public.md) 
+### #is_/same_as :: [Einsteinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Einsteinium.public.md) 
 
-### [Einsteinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Einsteinium.internal.md) 
+### #is_/same_as :: [Einsteinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Einsteinium.internal.md) 
 
-### [Einsteinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Einsteinium.protect.md) 
+### #is_/same_as :: [Einsteinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Einsteinium.protect.md) 
 
-### [Einsteinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Einsteinium.private.md) 
+### #is_/same_as :: [Einsteinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Einsteinium.private.md) 
 
-### [Einsteinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Einsteinium.personal.md) 
+### #is_/same_as :: [Einsteinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Einsteinium.personal.md) 
 
-### [Einsteinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Einsteinium.secret.md)
+### #is_/same_as :: [Einsteinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Einsteinium.secret.md)
 

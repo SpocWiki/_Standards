@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_cause_of](/_Standards/schema-org/Relation/has/has_cause_of.md) 
+### #is_/same_as :: [has_cause_of](/_Standards/schema-org/Relation/has/has_cause_of.md) 
 
-### [has_cause_of.public](/_public/schema-org/Relation/has/has_cause_of.public.md) 
+### #is_/same_as :: [has_cause_of.public](/_public/schema-org/Relation/has/has_cause_of.public.md) 
 
-### [has_cause_of.internal](/_internal/schema-org/Relation/has/has_cause_of.internal.md) 
+### #is_/same_as :: [has_cause_of.internal](/_internal/schema-org/Relation/has/has_cause_of.internal.md) 
 
-### [has_cause_of.protect](/_protect/schema-org/Relation/has/has_cause_of.protect.md) 
+### #is_/same_as :: [has_cause_of.protect](/_protect/schema-org/Relation/has/has_cause_of.protect.md) 
 
-### [has_cause_of.private](/_private/schema-org/Relation/has/has_cause_of.private.md) 
+### #is_/same_as :: [has_cause_of.private](/_private/schema-org/Relation/has/has_cause_of.private.md) 
 
-### [has_cause_of.personal](/_personal/schema-org/Relation/has/has_cause_of.personal.md) 
+### #is_/same_as :: [has_cause_of.personal](/_personal/schema-org/Relation/has/has_cause_of.personal.md) 
 
-### [has_cause_of.secret](/_secret/schema-org/Relation/has/has_cause_of.secret.md)
+### #is_/same_as :: [has_cause_of.secret](/_secret/schema-org/Relation/has/has_cause_of.secret.md)
 

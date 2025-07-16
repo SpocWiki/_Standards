@@ -679,17 +679,17 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 
 ## Confidential Links & Embeds: 
 
-### [Sweden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden.md) 
+### #is_/same_as :: [Sweden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden.md) 
 
-### [Sweden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden.public.md) 
+### #is_/same_as :: [Sweden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden.public.md) 
 
-### [Sweden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden.internal.md) 
+### #is_/same_as :: [Sweden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden.internal.md) 
 
-### [Sweden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden.protect.md) 
+### #is_/same_as :: [Sweden.protect](/_protect/Earth/Continent/Europe/Europe~North/Sweden.protect.md) 
 
-### [Sweden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden.private.md) 
+### #is_/same_as :: [Sweden.private](/_private/Earth/Continent/Europe/Europe~North/Sweden.private.md) 
 
-### [Sweden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden.personal.md) 
+### #is_/same_as :: [Sweden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden.personal.md) 
 
-### [Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden.secret.md)
+### #is_/same_as :: [Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden.secret.md)
 

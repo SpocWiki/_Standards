@@ -46,17 +46,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [rating](/_Standards/schema-org/Class/is_a_/Intangible/rating.md) 
+### #is_/same_as :: [rating](/_Standards/schema-org/Class/is_a_/Intangible/rating.md) 
 
-### [rating.public](/_public/schema-org/Class/is_a_/Intangible/rating.public.md) 
+### #is_/same_as :: [rating.public](/_public/schema-org/Class/is_a_/Intangible/rating.public.md) 
 
-### [rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating.internal.md) 
+### #is_/same_as :: [rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating.internal.md) 
 
-### [rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating.protect.md) 
+### #is_/same_as :: [rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating.protect.md) 
 
-### [rating.private](/_private/schema-org/Class/is_a_/Intangible/rating.private.md) 
+### #is_/same_as :: [rating.private](/_private/schema-org/Class/is_a_/Intangible/rating.private.md) 
 
-### [rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating.personal.md) 
+### #is_/same_as :: [rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating.personal.md) 
 
-### [rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating.secret.md)
+### #is_/same_as :: [rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating.secret.md)
 

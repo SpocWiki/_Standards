@@ -45,17 +45,17 @@ A grocery store.
 
 ## Confidential Links & Embeds: 
 
-### [grocery_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/grocery_store.md) 
+### #is_/same_as :: [grocery_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/grocery_store.md) 
 
-### [grocery_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/grocery_store.public.md) 
+### #is_/same_as :: [grocery_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/grocery_store.public.md) 
 
-### [grocery_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/grocery_store.internal.md) 
+### #is_/same_as :: [grocery_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/grocery_store.internal.md) 
 
-### [grocery_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/grocery_store.protect.md) 
+### #is_/same_as :: [grocery_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/grocery_store.protect.md) 
 
-### [grocery_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/grocery_store.private.md) 
+### #is_/same_as :: [grocery_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/grocery_store.private.md) 
 
-### [grocery_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/grocery_store.personal.md) 
+### #is_/same_as :: [grocery_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/grocery_store.personal.md) 
 
-### [grocery_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/grocery_store.secret.md)
+### #is_/same_as :: [grocery_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/grocery_store.secret.md)
 

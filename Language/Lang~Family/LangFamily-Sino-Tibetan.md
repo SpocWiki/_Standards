@@ -59,17 +59,17 @@ ISO_639_6_code: snot
 
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Sino-Tibetan](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan.md) 
+### #is_/same_as :: [LangFamily-Sino-Tibetan](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan.md) 
 
-### [LangFamily-Sino-Tibetan.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan.public.md) 
+### #is_/same_as :: [LangFamily-Sino-Tibetan.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan.public.md) 
 
-### [LangFamily-Sino-Tibetan.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan.internal.md) 
+### #is_/same_as :: [LangFamily-Sino-Tibetan.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan.internal.md) 
 
-### [LangFamily-Sino-Tibetan.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan.protect.md) 
+### #is_/same_as :: [LangFamily-Sino-Tibetan.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan.protect.md) 
 
-### [LangFamily-Sino-Tibetan.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan.private.md) 
+### #is_/same_as :: [LangFamily-Sino-Tibetan.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan.private.md) 
 
-### [LangFamily-Sino-Tibetan.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan.personal.md) 
+### #is_/same_as :: [LangFamily-Sino-Tibetan.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan.personal.md) 
 
-### [LangFamily-Sino-Tibetan.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan.secret.md)
+### #is_/same_as :: [LangFamily-Sino-Tibetan.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan.secret.md)
 

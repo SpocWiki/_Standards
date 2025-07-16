@@ -35,17 +35,17 @@ Animal shelter.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AnimalShelter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.md) 
+### #is_/same_as :: [FileClass~AnimalShelter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.md) 
 
-### [FileClass~AnimalShelter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.public.md) 
+### #is_/same_as :: [FileClass~AnimalShelter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.public.md) 
 
-### [FileClass~AnimalShelter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.internal.md) 
+### #is_/same_as :: [FileClass~AnimalShelter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.internal.md) 
 
-### [FileClass~AnimalShelter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.protect.md) 
+### #is_/same_as :: [FileClass~AnimalShelter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.protect.md) 
 
-### [FileClass~AnimalShelter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.private.md) 
+### #is_/same_as :: [FileClass~AnimalShelter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.private.md) 
 
-### [FileClass~AnimalShelter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.personal.md) 
+### #is_/same_as :: [FileClass~AnimalShelter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.personal.md) 
 
-### [FileClass~AnimalShelter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.secret.md)
+### #is_/same_as :: [FileClass~AnimalShelter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.secret.md)
 

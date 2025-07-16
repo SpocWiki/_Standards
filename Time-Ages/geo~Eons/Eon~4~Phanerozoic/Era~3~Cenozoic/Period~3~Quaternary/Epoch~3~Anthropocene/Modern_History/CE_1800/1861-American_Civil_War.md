@@ -84,21 +84,19 @@ Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"AmericanCivilWar\"
 > [Wikipedia](https://en.wikipedia.org/wiki/American%20Civil%20War) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [1861-American_Civil_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.md) 
+### #is_/same_as :: [1861-American_Civil_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.md) 
 
-### [1861-American_Civil_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.public.md) 
+### #is_/same_as :: [1861-American_Civil_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.public.md) 
 
-### [1861-American_Civil_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.internal.md) 
+### #is_/same_as :: [1861-American_Civil_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.internal.md) 
 
-### [1861-American_Civil_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.protect.md) 
+### #is_/same_as :: [1861-American_Civil_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.protect.md) 
 
-### [1861-American_Civil_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.private.md) 
+### #is_/same_as :: [1861-American_Civil_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.private.md) 
 
-### [1861-American_Civil_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.personal.md) 
+### #is_/same_as :: [1861-American_Civil_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.personal.md) 
 
-### [1861-American_Civil_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.secret.md)
+### #is_/same_as :: [1861-American_Civil_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War.secret.md)
 

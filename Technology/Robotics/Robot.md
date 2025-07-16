@@ -53,17 +53,17 @@ time_of_earliest_written_record: "1920"
 
 ## Confidential Links & Embeds: 
 
-### [Robot](/_Standards/Technology/Robotics/Robot.md) 
+### #is_/same_as :: [Robot](/_Standards/Technology/Robotics/Robot.md) 
 
-### [Robot.public](/_public/Technology/Robotics/Robot.public.md) 
+### #is_/same_as :: [Robot.public](/_public/Technology/Robotics/Robot.public.md) 
 
-### [Robot.internal](/_internal/Technology/Robotics/Robot.internal.md) 
+### #is_/same_as :: [Robot.internal](/_internal/Technology/Robotics/Robot.internal.md) 
 
-### [Robot.protect](/_protect/Technology/Robotics/Robot.protect.md) 
+### #is_/same_as :: [Robot.protect](/_protect/Technology/Robotics/Robot.protect.md) 
 
-### [Robot.private](/_private/Technology/Robotics/Robot.private.md) 
+### #is_/same_as :: [Robot.private](/_private/Technology/Robotics/Robot.private.md) 
 
-### [Robot.personal](/_personal/Technology/Robotics/Robot.personal.md) 
+### #is_/same_as :: [Robot.personal](/_personal/Technology/Robotics/Robot.personal.md) 
 
-### [Robot.secret](/_secret/Technology/Robotics/Robot.secret.md)
+### #is_/same_as :: [Robot.secret](/_secret/Technology/Robotics/Robot.secret.md)
 

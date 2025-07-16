@@ -62,17 +62,17 @@ has_time_started: 0870-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### [Cyrillic_Script](/_Standards/Language/Writing_System/Cyrillic_Script.md) 
+### #is_/same_as :: [Cyrillic_Script](/_Standards/Language/Writing_System/Cyrillic_Script.md) 
 
-### [Cyrillic_Script.public](/_public/Language/Writing_System/Cyrillic_Script.public.md) 
+### #is_/same_as :: [Cyrillic_Script.public](/_public/Language/Writing_System/Cyrillic_Script.public.md) 
 
-### [Cyrillic_Script.internal](/_internal/Language/Writing_System/Cyrillic_Script.internal.md) 
+### #is_/same_as :: [Cyrillic_Script.internal](/_internal/Language/Writing_System/Cyrillic_Script.internal.md) 
 
-### [Cyrillic_Script.protect](/_protect/Language/Writing_System/Cyrillic_Script.protect.md) 
+### #is_/same_as :: [Cyrillic_Script.protect](/_protect/Language/Writing_System/Cyrillic_Script.protect.md) 
 
-### [Cyrillic_Script.private](/_private/Language/Writing_System/Cyrillic_Script.private.md) 
+### #is_/same_as :: [Cyrillic_Script.private](/_private/Language/Writing_System/Cyrillic_Script.private.md) 
 
-### [Cyrillic_Script.personal](/_personal/Language/Writing_System/Cyrillic_Script.personal.md) 
+### #is_/same_as :: [Cyrillic_Script.personal](/_personal/Language/Writing_System/Cyrillic_Script.personal.md) 
 
-### [Cyrillic_Script.secret](/_secret/Language/Writing_System/Cyrillic_Script.secret.md)
+### #is_/same_as :: [Cyrillic_Script.secret](/_secret/Language/Writing_System/Cyrillic_Script.secret.md)
 

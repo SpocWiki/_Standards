@@ -94,21 +94,19 @@ work_period_start_: "1924"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergei%20Eisenstein)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Eisenstein,Sergei](/_Standards/bio/People/Movie-Directors/Eisenstein,Sergei.md) 
+### #is_/same_as :: [Eisenstein,Sergei](/_Standards/bio/People/Movie-Directors/Eisenstein,Sergei.md) 
 
-### [Eisenstein,Sergei.public](/_public/bio/People/Movie-Directors/Eisenstein,Sergei.public.md) 
+### #is_/same_as :: [Eisenstein,Sergei.public](/_public/bio/People/Movie-Directors/Eisenstein,Sergei.public.md) 
 
-### [Eisenstein,Sergei.internal](/_internal/bio/People/Movie-Directors/Eisenstein,Sergei.internal.md) 
+### #is_/same_as :: [Eisenstein,Sergei.internal](/_internal/bio/People/Movie-Directors/Eisenstein,Sergei.internal.md) 
 
-### [Eisenstein,Sergei.protect](/_protect/bio/People/Movie-Directors/Eisenstein,Sergei.protect.md) 
+### #is_/same_as :: [Eisenstein,Sergei.protect](/_protect/bio/People/Movie-Directors/Eisenstein,Sergei.protect.md) 
 
-### [Eisenstein,Sergei.private](/_private/bio/People/Movie-Directors/Eisenstein,Sergei.private.md) 
+### #is_/same_as :: [Eisenstein,Sergei.private](/_private/bio/People/Movie-Directors/Eisenstein,Sergei.private.md) 
 
-### [Eisenstein,Sergei.personal](/_personal/bio/People/Movie-Directors/Eisenstein,Sergei.personal.md) 
+### #is_/same_as :: [Eisenstein,Sergei.personal](/_personal/bio/People/Movie-Directors/Eisenstein,Sergei.personal.md) 
 
-### [Eisenstein,Sergei.secret](/_secret/bio/People/Movie-Directors/Eisenstein,Sergei.secret.md)
+### #is_/same_as :: [Eisenstein,Sergei.secret](/_secret/bio/People/Movie-Directors/Eisenstein,Sergei.secret.md)
 

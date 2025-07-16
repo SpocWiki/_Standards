@@ -59,17 +59,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### [payment_method](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/payment_method.md) 
+### #is_/same_as :: [payment_method](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/payment_method.md) 
 
-### [payment_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/payment_method.public.md) 
+### #is_/same_as :: [payment_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/payment_method.public.md) 
 
-### [payment_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.internal.md) 
+### #is_/same_as :: [payment_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.internal.md) 
 
-### [payment_method.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/payment_method.protect.md) 
+### #is_/same_as :: [payment_method.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/payment_method.protect.md) 
 
-### [payment_method.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/payment_method.private.md) 
+### #is_/same_as :: [payment_method.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/payment_method.private.md) 
 
-### [payment_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.personal.md) 
+### #is_/same_as :: [payment_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.personal.md) 
 
-### [payment_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/payment_method.secret.md)
+### #is_/same_as :: [payment_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/payment_method.secret.md)
 

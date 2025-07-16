@@ -35,21 +35,19 @@ Dewey_Decimal_Classification: 615.5
 > [Wikipedia](https://en.wikipedia.org/wiki/Placebo)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Placebo](/_Standards/bio/Medicine/Drug/Placebo.md) 
+### #is_/same_as :: [Placebo](/_Standards/bio/Medicine/Drug/Placebo.md) 
 
-### [Placebo.public](/_public/bio/Medicine/Drug/Placebo.public.md) 
+### #is_/same_as :: [Placebo.public](/_public/bio/Medicine/Drug/Placebo.public.md) 
 
-### [Placebo.internal](/_internal/bio/Medicine/Drug/Placebo.internal.md) 
+### #is_/same_as :: [Placebo.internal](/_internal/bio/Medicine/Drug/Placebo.internal.md) 
 
-### [Placebo.protect](/_protect/bio/Medicine/Drug/Placebo.protect.md) 
+### #is_/same_as :: [Placebo.protect](/_protect/bio/Medicine/Drug/Placebo.protect.md) 
 
-### [Placebo.private](/_private/bio/Medicine/Drug/Placebo.private.md) 
+### #is_/same_as :: [Placebo.private](/_private/bio/Medicine/Drug/Placebo.private.md) 
 
-### [Placebo.personal](/_personal/bio/Medicine/Drug/Placebo.personal.md) 
+### #is_/same_as :: [Placebo.personal](/_personal/bio/Medicine/Drug/Placebo.personal.md) 
 
-### [Placebo.secret](/_secret/bio/Medicine/Drug/Placebo.secret.md)
+### #is_/same_as :: [Placebo.secret](/_secret/bio/Medicine/Drug/Placebo.secret.md)
 

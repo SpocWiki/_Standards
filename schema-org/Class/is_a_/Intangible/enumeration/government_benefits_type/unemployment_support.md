@@ -49,17 +49,17 @@ UnemploymentSupport: this is a benefit for unemployment support.
 
 ## Confidential Links & Embeds: 
 
-### [unemployment_support](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.md) 
+### #is_/same_as :: [unemployment_support](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.md) 
 
-### [unemployment_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.public.md) 
+### #is_/same_as :: [unemployment_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.public.md) 
 
-### [unemployment_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.internal.md) 
+### #is_/same_as :: [unemployment_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.internal.md) 
 
-### [unemployment_support.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.protect.md) 
+### #is_/same_as :: [unemployment_support.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.protect.md) 
 
-### [unemployment_support.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.private.md) 
+### #is_/same_as :: [unemployment_support.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.private.md) 
 
-### [unemployment_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.personal.md) 
+### #is_/same_as :: [unemployment_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.personal.md) 
 
-### [unemployment_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.secret.md)
+### #is_/same_as :: [unemployment_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.secret.md)
 

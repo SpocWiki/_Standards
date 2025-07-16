@@ -78,21 +78,19 @@ Drawing by Ivy Livingstone. Copyright © 2001
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Priapulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.md) 
+### #is_/same_as :: [Priapulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.md) 
 
-### [Priapulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.public.md) 
+### #is_/same_as :: [Priapulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.public.md) 
 
-### [Priapulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.internal.md) 
+### #is_/same_as :: [Priapulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.internal.md) 
 
-### [Priapulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.protect.md) 
+### #is_/same_as :: [Priapulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.protect.md) 
 
-### [Priapulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.private.md) 
+### #is_/same_as :: [Priapulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.private.md) 
 
-### [Priapulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.personal.md) 
+### #is_/same_as :: [Priapulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.personal.md) 
 
-### [Priapulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.secret.md)
+### #is_/same_as :: [Priapulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.secret.md)
 

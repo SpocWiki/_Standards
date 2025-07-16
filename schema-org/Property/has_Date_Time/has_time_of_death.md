@@ -47,17 +47,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_death](/_Standards/schema-org/Property/has_Date_Time/has_time_of_death.md) 
+### #is_/same_as :: [has_time_of_death](/_Standards/schema-org/Property/has_Date_Time/has_time_of_death.md) 
 
-### [has_time_of_death.public](/_public/schema-org/Property/has_Date_Time/has_time_of_death.public.md) 
+### #is_/same_as :: [has_time_of_death.public](/_public/schema-org/Property/has_Date_Time/has_time_of_death.public.md) 
 
-### [has_time_of_death.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_death.internal.md) 
+### #is_/same_as :: [has_time_of_death.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_death.internal.md) 
 
-### [has_time_of_death.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_death.protect.md) 
+### #is_/same_as :: [has_time_of_death.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_death.protect.md) 
 
-### [has_time_of_death.private](/_private/schema-org/Property/has_Date_Time/has_time_of_death.private.md) 
+### #is_/same_as :: [has_time_of_death.private](/_private/schema-org/Property/has_Date_Time/has_time_of_death.private.md) 
 
-### [has_time_of_death.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_death.personal.md) 
+### #is_/same_as :: [has_time_of_death.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_death.personal.md) 
 
-### [has_time_of_death.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_death.secret.md)
+### #is_/same_as :: [has_time_of_death.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_death.secret.md)
 

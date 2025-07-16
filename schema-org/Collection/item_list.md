@@ -56,17 +56,17 @@ A list of items of any sort — for example, Top 10 Movies About Weathermen, or 
 
 ## Confidential Links & Embeds: 
 
-### [item_list](/_Standards/schema-org/Collection/item_list.md) 
+### #is_/same_as :: [item_list](/_Standards/schema-org/Collection/item_list.md) 
 
-### [item_list.public](/_public/schema-org/Collection/item_list.public.md) 
+### #is_/same_as :: [item_list.public](/_public/schema-org/Collection/item_list.public.md) 
 
-### [item_list.internal](/_internal/schema-org/Collection/item_list.internal.md) 
+### #is_/same_as :: [item_list.internal](/_internal/schema-org/Collection/item_list.internal.md) 
 
-### [item_list.protect](/_protect/schema-org/Collection/item_list.protect.md) 
+### #is_/same_as :: [item_list.protect](/_protect/schema-org/Collection/item_list.protect.md) 
 
-### [item_list.private](/_private/schema-org/Collection/item_list.private.md) 
+### #is_/same_as :: [item_list.private](/_private/schema-org/Collection/item_list.private.md) 
 
-### [item_list.personal](/_personal/schema-org/Collection/item_list.personal.md) 
+### #is_/same_as :: [item_list.personal](/_personal/schema-org/Collection/item_list.personal.md) 
 
-### [item_list.secret](/_secret/schema-org/Collection/item_list.secret.md)
+### #is_/same_as :: [item_list.secret](/_secret/schema-org/Collection/item_list.secret.md)
 

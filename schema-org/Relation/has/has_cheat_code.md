@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_cheat_code](/_Standards/schema-org/Relation/has/has_cheat_code.md) 
+### #is_/same_as :: [has_cheat_code](/_Standards/schema-org/Relation/has/has_cheat_code.md) 
 
-### [has_cheat_code.public](/_public/schema-org/Relation/has/has_cheat_code.public.md) 
+### #is_/same_as :: [has_cheat_code.public](/_public/schema-org/Relation/has/has_cheat_code.public.md) 
 
-### [has_cheat_code.internal](/_internal/schema-org/Relation/has/has_cheat_code.internal.md) 
+### #is_/same_as :: [has_cheat_code.internal](/_internal/schema-org/Relation/has/has_cheat_code.internal.md) 
 
-### [has_cheat_code.protect](/_protect/schema-org/Relation/has/has_cheat_code.protect.md) 
+### #is_/same_as :: [has_cheat_code.protect](/_protect/schema-org/Relation/has/has_cheat_code.protect.md) 
 
-### [has_cheat_code.private](/_private/schema-org/Relation/has/has_cheat_code.private.md) 
+### #is_/same_as :: [has_cheat_code.private](/_private/schema-org/Relation/has/has_cheat_code.private.md) 
 
-### [has_cheat_code.personal](/_personal/schema-org/Relation/has/has_cheat_code.personal.md) 
+### #is_/same_as :: [has_cheat_code.personal](/_personal/schema-org/Relation/has/has_cheat_code.personal.md) 
 
-### [has_cheat_code.secret](/_secret/schema-org/Relation/has/has_cheat_code.secret.md)
+### #is_/same_as :: [has_cheat_code.secret](/_secret/schema-org/Relation/has/has_cheat_code.secret.md)
 

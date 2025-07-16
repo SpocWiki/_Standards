@@ -44,17 +44,17 @@ A series of [[Event]]s. Included events can relate with the series using the [[s
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EventSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.md) 
+### #is_/same_as :: [FileClass~EventSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.md) 
 
-### [FileClass~EventSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.public.md) 
+### #is_/same_as :: [FileClass~EventSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.public.md) 
 
-### [FileClass~EventSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.internal.md) 
+### #is_/same_as :: [FileClass~EventSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.internal.md) 
 
-### [FileClass~EventSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.protect.md) 
+### #is_/same_as :: [FileClass~EventSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.protect.md) 
 
-### [FileClass~EventSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.private.md) 
+### #is_/same_as :: [FileClass~EventSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.private.md) 
 
-### [FileClass~EventSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.personal.md) 
+### #is_/same_as :: [FileClass~EventSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.personal.md) 
 
-### [FileClass~EventSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.secret.md)
+### #is_/same_as :: [FileClass~EventSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.secret.md)
 

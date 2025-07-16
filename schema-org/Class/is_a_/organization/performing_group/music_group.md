@@ -43,17 +43,17 @@ A musical group, such as a band, an orchestra, or a choir. Can also be a solo mu
 
 ## Confidential Links & Embeds: 
 
-### [music_group](/_Standards/schema-org/Class/is_a_/organization/performing_group/music_group.md) 
+### #is_/same_as :: [music_group](/_Standards/schema-org/Class/is_a_/organization/performing_group/music_group.md) 
 
-### [music_group.public](/_public/schema-org/Class/is_a_/organization/performing_group/music_group.public.md) 
+### #is_/same_as :: [music_group.public](/_public/schema-org/Class/is_a_/organization/performing_group/music_group.public.md) 
 
-### [music_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group/music_group.internal.md) 
+### #is_/same_as :: [music_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group/music_group.internal.md) 
 
-### [music_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group/music_group.protect.md) 
+### #is_/same_as :: [music_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group/music_group.protect.md) 
 
-### [music_group.private](/_private/schema-org/Class/is_a_/organization/performing_group/music_group.private.md) 
+### #is_/same_as :: [music_group.private](/_private/schema-org/Class/is_a_/organization/performing_group/music_group.private.md) 
 
-### [music_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group/music_group.personal.md) 
+### #is_/same_as :: [music_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group/music_group.personal.md) 
 
-### [music_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group/music_group.secret.md)
+### #is_/same_as :: [music_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group/music_group.secret.md)
 

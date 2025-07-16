@@ -43,17 +43,17 @@ Enumerated categories of medical drug costs.
 
 ## Confidential Links & Embeds: 
 
-### [drug_cost_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.md) 
+### #is_/same_as :: [drug_cost_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.md) 
 
-### [drug_cost_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.public.md) 
+### #is_/same_as :: [drug_cost_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.public.md) 
 
-### [drug_cost_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.internal.md) 
+### #is_/same_as :: [drug_cost_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.internal.md) 
 
-### [drug_cost_category.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.protect.md) 
+### #is_/same_as :: [drug_cost_category.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.protect.md) 
 
-### [drug_cost_category.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.private.md) 
+### #is_/same_as :: [drug_cost_category.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.private.md) 
 
-### [drug_cost_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.personal.md) 
+### #is_/same_as :: [drug_cost_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.personal.md) 
 
-### [drug_cost_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.secret.md)
+### #is_/same_as :: [drug_cost_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.secret.md)
 

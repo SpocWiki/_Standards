@@ -45,17 +45,17 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 ## Confidential Links & Embeds: 
 
-### [suspend_action](/_Standards/schema-org/Class/is_a_/action/control_action/suspend_action.md) 
+### #is_/same_as :: [suspend_action](/_Standards/schema-org/Class/is_a_/action/control_action/suspend_action.md) 
 
-### [suspend_action.public](/_public/schema-org/Class/is_a_/action/control_action/suspend_action.public.md) 
+### #is_/same_as :: [suspend_action.public](/_public/schema-org/Class/is_a_/action/control_action/suspend_action.public.md) 
 
-### [suspend_action.internal](/_internal/schema-org/Class/is_a_/action/control_action/suspend_action.internal.md) 
+### #is_/same_as :: [suspend_action.internal](/_internal/schema-org/Class/is_a_/action/control_action/suspend_action.internal.md) 
 
-### [suspend_action.protect](/_protect/schema-org/Class/is_a_/action/control_action/suspend_action.protect.md) 
+### #is_/same_as :: [suspend_action.protect](/_protect/schema-org/Class/is_a_/action/control_action/suspend_action.protect.md) 
 
-### [suspend_action.private](/_private/schema-org/Class/is_a_/action/control_action/suspend_action.private.md) 
+### #is_/same_as :: [suspend_action.private](/_private/schema-org/Class/is_a_/action/control_action/suspend_action.private.md) 
 
-### [suspend_action.personal](/_personal/schema-org/Class/is_a_/action/control_action/suspend_action.personal.md) 
+### #is_/same_as :: [suspend_action.personal](/_personal/schema-org/Class/is_a_/action/control_action/suspend_action.personal.md) 
 
-### [suspend_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/suspend_action.secret.md)
+### #is_/same_as :: [suspend_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/suspend_action.secret.md)
 

@@ -45,17 +45,17 @@ Server that provides game interaction in a multiplayer game.
 
 ## Confidential Links & Embeds: 
 
-### [game_server](/_Standards/schema-org/Class/is_a_/Intangible/game_server.md) 
+### #is_/same_as :: [game_server](/_Standards/schema-org/Class/is_a_/Intangible/game_server.md) 
 
-### [game_server.public](/_public/schema-org/Class/is_a_/Intangible/game_server.public.md) 
+### #is_/same_as :: [game_server.public](/_public/schema-org/Class/is_a_/Intangible/game_server.public.md) 
 
-### [game_server.internal](/_internal/schema-org/Class/is_a_/Intangible/game_server.internal.md) 
+### #is_/same_as :: [game_server.internal](/_internal/schema-org/Class/is_a_/Intangible/game_server.internal.md) 
 
-### [game_server.protect](/_protect/schema-org/Class/is_a_/Intangible/game_server.protect.md) 
+### #is_/same_as :: [game_server.protect](/_protect/schema-org/Class/is_a_/Intangible/game_server.protect.md) 
 
-### [game_server.private](/_private/schema-org/Class/is_a_/Intangible/game_server.private.md) 
+### #is_/same_as :: [game_server.private](/_private/schema-org/Class/is_a_/Intangible/game_server.private.md) 
 
-### [game_server.personal](/_personal/schema-org/Class/is_a_/Intangible/game_server.personal.md) 
+### #is_/same_as :: [game_server.personal](/_personal/schema-org/Class/is_a_/Intangible/game_server.personal.md) 
 
-### [game_server.secret](/_secret/schema-org/Class/is_a_/Intangible/game_server.secret.md)
+### #is_/same_as :: [game_server.secret](/_secret/schema-org/Class/is_a_/Intangible/game_server.secret.md)
 

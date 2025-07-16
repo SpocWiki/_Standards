@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_carbohydrate_in_gram](/_Standards/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.md) 
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram](/_Standards/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.md) 
 
-### [has_value_for_carbohydrate_in_gram.public](/_public/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.public.md) 
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram.public](/_public/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.public.md) 
 
-### [has_value_for_carbohydrate_in_gram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.internal.md) 
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.internal.md) 
 
-### [has_value_for_carbohydrate_in_gram.protect](/_protect/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.protect.md) 
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram.protect](/_protect/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.protect.md) 
 
-### [has_value_for_carbohydrate_in_gram.private](/_private/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.private.md) 
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram.private](/_private/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.private.md) 
 
-### [has_value_for_carbohydrate_in_gram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.personal.md) 
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.personal.md) 
 
-### [has_value_for_carbohydrate_in_gram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.secret.md)
+### #is_/same_as :: [has_value_for_carbohydrate_in_gram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.secret.md)
 

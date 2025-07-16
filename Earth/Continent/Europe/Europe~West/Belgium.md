@@ -619,17 +619,17 @@ Population in 1000s as of @2024
 
 ## Confidential Links & Embeds: 
 
-### [Belgium](/_Standards/Earth/Continent/Europe/Europe~West/Belgium.md) 
+### #is_/same_as :: [Belgium](/_Standards/Earth/Continent/Europe/Europe~West/Belgium.md) 
 
-### [Belgium.public](/_public/Earth/Continent/Europe/Europe~West/Belgium.public.md) 
+### #is_/same_as :: [Belgium.public](/_public/Earth/Continent/Europe/Europe~West/Belgium.public.md) 
 
-### [Belgium.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium.internal.md) 
+### #is_/same_as :: [Belgium.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium.internal.md) 
 
-### [Belgium.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium.protect.md) 
+### #is_/same_as :: [Belgium.protect](/_protect/Earth/Continent/Europe/Europe~West/Belgium.protect.md) 
 
-### [Belgium.private](/_private/Earth/Continent/Europe/Europe~West/Belgium.private.md) 
+### #is_/same_as :: [Belgium.private](/_private/Earth/Continent/Europe/Europe~West/Belgium.private.md) 
 
-### [Belgium.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium.personal.md) 
+### #is_/same_as :: [Belgium.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium.personal.md) 
 
-### [Belgium.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret.md)
+### #is_/same_as :: [Belgium.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret.md)
 

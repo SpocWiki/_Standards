@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_of_event](/_Standards/schema-org/Relation/has/has_broadcast_of_event.md) 
+### #is_/same_as :: [has_broadcast_of_event](/_Standards/schema-org/Relation/has/has_broadcast_of_event.md) 
 
-### [has_broadcast_of_event.public](/_public/schema-org/Relation/has/has_broadcast_of_event.public.md) 
+### #is_/same_as :: [has_broadcast_of_event.public](/_public/schema-org/Relation/has/has_broadcast_of_event.public.md) 
 
-### [has_broadcast_of_event.internal](/_internal/schema-org/Relation/has/has_broadcast_of_event.internal.md) 
+### #is_/same_as :: [has_broadcast_of_event.internal](/_internal/schema-org/Relation/has/has_broadcast_of_event.internal.md) 
 
-### [has_broadcast_of_event.protect](/_protect/schema-org/Relation/has/has_broadcast_of_event.protect.md) 
+### #is_/same_as :: [has_broadcast_of_event.protect](/_protect/schema-org/Relation/has/has_broadcast_of_event.protect.md) 
 
-### [has_broadcast_of_event.private](/_private/schema-org/Relation/has/has_broadcast_of_event.private.md) 
+### #is_/same_as :: [has_broadcast_of_event.private](/_private/schema-org/Relation/has/has_broadcast_of_event.private.md) 
 
-### [has_broadcast_of_event.personal](/_personal/schema-org/Relation/has/has_broadcast_of_event.personal.md) 
+### #is_/same_as :: [has_broadcast_of_event.personal](/_personal/schema-org/Relation/has/has_broadcast_of_event.personal.md) 
 
-### [has_broadcast_of_event.secret](/_secret/schema-org/Relation/has/has_broadcast_of_event.secret.md)
+### #is_/same_as :: [has_broadcast_of_event.secret](/_secret/schema-org/Relation/has/has_broadcast_of_event.secret.md)
 

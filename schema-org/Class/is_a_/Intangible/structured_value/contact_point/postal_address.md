@@ -45,17 +45,17 @@ The mailing address.
 
 ## Confidential Links & Embeds: 
 
-### [postal_address](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.md) 
+### #is_/same_as :: [postal_address](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.md) 
 
-### [postal_address.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.public.md) 
+### #is_/same_as :: [postal_address.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.public.md) 
 
-### [postal_address.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.internal.md) 
+### #is_/same_as :: [postal_address.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.internal.md) 
 
-### [postal_address.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.protect.md) 
+### #is_/same_as :: [postal_address.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.protect.md) 
 
-### [postal_address.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.private.md) 
+### #is_/same_as :: [postal_address.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.private.md) 
 
-### [postal_address.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.personal.md) 
+### #is_/same_as :: [postal_address.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.personal.md) 
 
-### [postal_address.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.secret.md)
+### #is_/same_as :: [postal_address.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.secret.md)
 

@@ -35,17 +35,17 @@ The act of swallowing solid objects.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EatAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.md) 
+### #is_/same_as :: [FileClass~EatAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.md) 
 
-### [FileClass~EatAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.public.md) 
+### #is_/same_as :: [FileClass~EatAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.public.md) 
 
-### [FileClass~EatAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.internal.md) 
+### #is_/same_as :: [FileClass~EatAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.internal.md) 
 
-### [FileClass~EatAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.protect.md) 
+### #is_/same_as :: [FileClass~EatAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.protect.md) 
 
-### [FileClass~EatAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.private.md) 
+### #is_/same_as :: [FileClass~EatAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.private.md) 
 
-### [FileClass~EatAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.personal.md) 
+### #is_/same_as :: [FileClass~EatAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.personal.md) 
 
-### [FileClass~EatAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.secret.md)
+### #is_/same_as :: [FileClass~EatAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.secret.md)
 

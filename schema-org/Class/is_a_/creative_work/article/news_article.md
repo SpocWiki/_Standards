@@ -49,17 +49,17 @@ A more detailed overview of <a href="/docs/news.html">schema.org News markup</a>
 
 ## Confidential Links & Embeds: 
 
-### [news_article](/_Standards/schema-org/Class/is_a_/creative_work/article/news_article.md) 
+### #is_/same_as :: [news_article](/_Standards/schema-org/Class/is_a_/creative_work/article/news_article.md) 
 
-### [news_article.public](/_public/schema-org/Class/is_a_/creative_work/article/news_article.public.md) 
+### #is_/same_as :: [news_article.public](/_public/schema-org/Class/is_a_/creative_work/article/news_article.public.md) 
 
-### [news_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/news_article.internal.md) 
+### #is_/same_as :: [news_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/news_article.internal.md) 
 
-### [news_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/news_article.protect.md) 
+### #is_/same_as :: [news_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/news_article.protect.md) 
 
-### [news_article.private](/_private/schema-org/Class/is_a_/creative_work/article/news_article.private.md) 
+### #is_/same_as :: [news_article.private](/_private/schema-org/Class/is_a_/creative_work/article/news_article.private.md) 
 
-### [news_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/news_article.personal.md) 
+### #is_/same_as :: [news_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/news_article.personal.md) 
 
-### [news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article.secret.md)
+### #is_/same_as :: [news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article.secret.md)
 

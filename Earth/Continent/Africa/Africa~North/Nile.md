@@ -90,22 +90,19 @@ DPLA_subject_term: "Nile River"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nile) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nile](/_Standards/Earth/Continent/Africa/Africa~North/Nile.md) 
+### #is_/same_as :: [Nile](/_Standards/Earth/Continent/Africa/Africa~North/Nile.md) 
 
-### [Nile.public](/_public/Earth/Continent/Africa/Africa~North/Nile.public.md) 
+### #is_/same_as :: [Nile.public](/_public/Earth/Continent/Africa/Africa~North/Nile.public.md) 
 
-### [Nile.internal](/_internal/Earth/Continent/Africa/Africa~North/Nile.internal.md) 
+### #is_/same_as :: [Nile.internal](/_internal/Earth/Continent/Africa/Africa~North/Nile.internal.md) 
 
-### [Nile.protect](/_protect/Earth/Continent/Africa/Africa~North/Nile.protect.md) 
+### #is_/same_as :: [Nile.protect](/_protect/Earth/Continent/Africa/Africa~North/Nile.protect.md) 
 
-### [Nile.private](/_private/Earth/Continent/Africa/Africa~North/Nile.private.md) 
+### #is_/same_as :: [Nile.private](/_private/Earth/Continent/Africa/Africa~North/Nile.private.md) 
 
-### [Nile.personal](/_personal/Earth/Continent/Africa/Africa~North/Nile.personal.md) 
+### #is_/same_as :: [Nile.personal](/_personal/Earth/Continent/Africa/Africa~North/Nile.personal.md) 
 
-### [Nile.secret](/_secret/Earth/Continent/Africa/Africa~North/Nile.secret.md)
+### #is_/same_as :: [Nile.secret](/_secret/Earth/Continent/Africa/Africa~North/Nile.secret.md)
 

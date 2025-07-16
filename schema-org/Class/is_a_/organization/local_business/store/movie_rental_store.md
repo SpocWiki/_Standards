@@ -45,17 +45,17 @@ A movie rental store.
 
 ## Confidential Links & Embeds: 
 
-### [movie_rental_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.md) 
+### #is_/same_as :: [movie_rental_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.md) 
 
-### [movie_rental_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.public.md) 
+### #is_/same_as :: [movie_rental_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.public.md) 
 
-### [movie_rental_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.internal.md) 
+### #is_/same_as :: [movie_rental_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.internal.md) 
 
-### [movie_rental_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.protect.md) 
+### #is_/same_as :: [movie_rental_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.protect.md) 
 
-### [movie_rental_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.private.md) 
+### #is_/same_as :: [movie_rental_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.private.md) 
 
-### [movie_rental_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.personal.md) 
+### #is_/same_as :: [movie_rental_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.personal.md) 
 
-### [movie_rental_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.secret.md)
+### #is_/same_as :: [movie_rental_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/movie_rental_store.secret.md)
 

@@ -102,17 +102,17 @@ Commons_category: "International Court of Justice"
 
 ## Confidential Links & Embeds: 
 
-### [ICJ(International_Court_of_Justice)](/_Standards/UN(United_Nations)/ICJ(International_Court_of_Justice).md) 
+### #is_/same_as :: [ICJ(International_Court_of_Justice)](/_Standards/UN(United_Nations)/ICJ(International_Court_of_Justice).md) 
 
-### [ICJ(International_Court_of_Justice).public](/_public/UN(United_Nations)/ICJ(International_Court_of_Justice).public.md) 
+### #is_/same_as :: [ICJ(International_Court_of_Justice).public](/_public/UN(United_Nations)/ICJ(International_Court_of_Justice).public.md) 
 
-### [ICJ(International_Court_of_Justice).internal](/_internal/UN(United_Nations)/ICJ(International_Court_of_Justice).internal.md) 
+### #is_/same_as :: [ICJ(International_Court_of_Justice).internal](/_internal/UN(United_Nations)/ICJ(International_Court_of_Justice).internal.md) 
 
-### [ICJ(International_Court_of_Justice).protect](/_protect/UN(United_Nations)/ICJ(International_Court_of_Justice).protect.md) 
+### #is_/same_as :: [ICJ(International_Court_of_Justice).protect](/_protect/UN(United_Nations)/ICJ(International_Court_of_Justice).protect.md) 
 
-### [ICJ(International_Court_of_Justice).private](/_private/UN(United_Nations)/ICJ(International_Court_of_Justice).private.md) 
+### #is_/same_as :: [ICJ(International_Court_of_Justice).private](/_private/UN(United_Nations)/ICJ(International_Court_of_Justice).private.md) 
 
-### [ICJ(International_Court_of_Justice).personal](/_personal/UN(United_Nations)/ICJ(International_Court_of_Justice).personal.md) 
+### #is_/same_as :: [ICJ(International_Court_of_Justice).personal](/_personal/UN(United_Nations)/ICJ(International_Court_of_Justice).personal.md) 
 
-### [ICJ(International_Court_of_Justice).secret](/_secret/UN(United_Nations)/ICJ(International_Court_of_Justice).secret.md)
+### #is_/same_as :: [ICJ(International_Court_of_Justice).secret](/_secret/UN(United_Nations)/ICJ(International_Court_of_Justice).secret.md)
 

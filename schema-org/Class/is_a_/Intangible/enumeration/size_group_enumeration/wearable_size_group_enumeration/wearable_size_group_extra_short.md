@@ -49,17 +49,17 @@ Size group "Extra Short" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_extra_short](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.md) 
+### #is_/same_as :: [wearable_size_group_extra_short](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.md) 
 
-### [wearable_size_group_extra_short.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.public.md) 
+### #is_/same_as :: [wearable_size_group_extra_short.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.public.md) 
 
-### [wearable_size_group_extra_short.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.internal.md) 
+### #is_/same_as :: [wearable_size_group_extra_short.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.internal.md) 
 
-### [wearable_size_group_extra_short.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.protect.md) 
+### #is_/same_as :: [wearable_size_group_extra_short.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.protect.md) 
 
-### [wearable_size_group_extra_short.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.private.md) 
+### #is_/same_as :: [wearable_size_group_extra_short.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.private.md) 
 
-### [wearable_size_group_extra_short.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.personal.md) 
+### #is_/same_as :: [wearable_size_group_extra_short.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.personal.md) 
 
-### [wearable_size_group_extra_short.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.secret.md)
+### #is_/same_as :: [wearable_size_group_extra_short.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.secret.md)
 

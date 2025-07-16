@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_in_ch_i_key](/_Standards/schema-org/Property/has_name/has_in_ch_i_key.md) 
+### #is_/same_as :: [has_in_ch_i_key](/_Standards/schema-org/Property/has_name/has_in_ch_i_key.md) 
 
-### [has_in_ch_i_key.public](/_public/schema-org/Property/has_name/has_in_ch_i_key.public.md) 
+### #is_/same_as :: [has_in_ch_i_key.public](/_public/schema-org/Property/has_name/has_in_ch_i_key.public.md) 
 
-### [has_in_ch_i_key.internal](/_internal/schema-org/Property/has_name/has_in_ch_i_key.internal.md) 
+### #is_/same_as :: [has_in_ch_i_key.internal](/_internal/schema-org/Property/has_name/has_in_ch_i_key.internal.md) 
 
-### [has_in_ch_i_key.protect](/_protect/schema-org/Property/has_name/has_in_ch_i_key.protect.md) 
+### #is_/same_as :: [has_in_ch_i_key.protect](/_protect/schema-org/Property/has_name/has_in_ch_i_key.protect.md) 
 
-### [has_in_ch_i_key.private](/_private/schema-org/Property/has_name/has_in_ch_i_key.private.md) 
+### #is_/same_as :: [has_in_ch_i_key.private](/_private/schema-org/Property/has_name/has_in_ch_i_key.private.md) 
 
-### [has_in_ch_i_key.personal](/_personal/schema-org/Property/has_name/has_in_ch_i_key.personal.md) 
+### #is_/same_as :: [has_in_ch_i_key.personal](/_personal/schema-org/Property/has_name/has_in_ch_i_key.personal.md) 
 
-### [has_in_ch_i_key.secret](/_secret/schema-org/Property/has_name/has_in_ch_i_key.secret.md)
+### #is_/same_as :: [has_in_ch_i_key.secret](/_secret/schema-org/Property/has_name/has_in_ch_i_key.secret.md)
 

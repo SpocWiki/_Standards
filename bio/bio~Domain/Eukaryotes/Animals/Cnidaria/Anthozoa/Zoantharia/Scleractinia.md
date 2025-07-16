@@ -124,17 +124,17 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
 
 ## Confidential Links & Embeds: 
 
-### [Scleractinia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.md) 
+### #is_/same_as :: [Scleractinia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.md) 
 
-### [Scleractinia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.public.md) 
+### #is_/same_as :: [Scleractinia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.public.md) 
 
-### [Scleractinia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.internal.md) 
+### #is_/same_as :: [Scleractinia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.internal.md) 
 
-### [Scleractinia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.protect.md) 
+### #is_/same_as :: [Scleractinia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.protect.md) 
 
-### [Scleractinia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.private.md) 
+### #is_/same_as :: [Scleractinia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.private.md) 
 
-### [Scleractinia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.personal.md) 
+### #is_/same_as :: [Scleractinia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.personal.md) 
 
-### [Scleractinia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.secret.md)
+### #is_/same_as :: [Scleractinia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia.secret.md)
 

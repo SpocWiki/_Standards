@@ -20,21 +20,19 @@ has_id_wikidata: Q34049
 > [Wikipedia](https://en.wikipedia.org/wiki/Semitic%20languages)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily~Semitic](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.md) 
+### #is_/same_as :: [LangFamily~Semitic](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.md) 
 
-### [LangFamily~Semitic.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.public.md) 
+### #is_/same_as :: [LangFamily~Semitic.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.public.md) 
 
-### [LangFamily~Semitic.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.internal.md) 
+### #is_/same_as :: [LangFamily~Semitic.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.internal.md) 
 
-### [LangFamily~Semitic.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.protect.md) 
+### #is_/same_as :: [LangFamily~Semitic.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.protect.md) 
 
-### [LangFamily~Semitic.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.private.md) 
+### #is_/same_as :: [LangFamily~Semitic.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.private.md) 
 
-### [LangFamily~Semitic.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.personal.md) 
+### #is_/same_as :: [LangFamily~Semitic.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.personal.md) 
 
-### [LangFamily~Semitic.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.secret.md)
+### #is_/same_as :: [LangFamily~Semitic.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_required_gender](/_Standards/schema-org/Property/Texts/has_required_gender.md) 
+### #is_/same_as :: [has_required_gender](/_Standards/schema-org/Property/Texts/has_required_gender.md) 
 
-### [has_required_gender.public](/_public/schema-org/Property/Texts/has_required_gender.public.md) 
+### #is_/same_as :: [has_required_gender.public](/_public/schema-org/Property/Texts/has_required_gender.public.md) 
 
-### [has_required_gender.internal](/_internal/schema-org/Property/Texts/has_required_gender.internal.md) 
+### #is_/same_as :: [has_required_gender.internal](/_internal/schema-org/Property/Texts/has_required_gender.internal.md) 
 
-### [has_required_gender.protect](/_protect/schema-org/Property/Texts/has_required_gender.protect.md) 
+### #is_/same_as :: [has_required_gender.protect](/_protect/schema-org/Property/Texts/has_required_gender.protect.md) 
 
-### [has_required_gender.private](/_private/schema-org/Property/Texts/has_required_gender.private.md) 
+### #is_/same_as :: [has_required_gender.private](/_private/schema-org/Property/Texts/has_required_gender.private.md) 
 
-### [has_required_gender.personal](/_personal/schema-org/Property/Texts/has_required_gender.personal.md) 
+### #is_/same_as :: [has_required_gender.personal](/_personal/schema-org/Property/Texts/has_required_gender.personal.md) 
 
-### [has_required_gender.secret](/_secret/schema-org/Property/Texts/has_required_gender.secret.md)
+### #is_/same_as :: [has_required_gender.secret](/_secret/schema-org/Property/Texts/has_required_gender.secret.md)
 

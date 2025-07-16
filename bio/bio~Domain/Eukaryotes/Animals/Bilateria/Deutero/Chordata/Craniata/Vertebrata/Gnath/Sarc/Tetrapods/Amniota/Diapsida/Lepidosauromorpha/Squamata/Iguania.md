@@ -41,21 +41,19 @@ title: Iguania
     -   [Phrynosomatidae](Iguania/Phrynosomatidae.md)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Iguania](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.md) 
+### #is_/same_as :: [Iguania](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.md) 
 
-### [Iguania.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.public.md) 
+### #is_/same_as :: [Iguania.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.public.md) 
 
-### [Iguania.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.internal.md) 
+### #is_/same_as :: [Iguania.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.internal.md) 
 
-### [Iguania.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.protect.md) 
+### #is_/same_as :: [Iguania.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.protect.md) 
 
-### [Iguania.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.private.md) 
+### #is_/same_as :: [Iguania.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.private.md) 
 
-### [Iguania.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.personal.md) 
+### #is_/same_as :: [Iguania.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.personal.md) 
 
-### [Iguania.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.secret.md)
+### #is_/same_as :: [Iguania.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania.secret.md)
 

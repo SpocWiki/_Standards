@@ -46,17 +46,17 @@ SubReservation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReservationPackage](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.md) 
+### #is_/same_as :: [FileClass~ReservationPackage](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.md) 
 
-### [FileClass~ReservationPackage.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.public.md) 
+### #is_/same_as :: [FileClass~ReservationPackage.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.public.md) 
 
-### [FileClass~ReservationPackage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.internal.md) 
+### #is_/same_as :: [FileClass~ReservationPackage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.internal.md) 
 
-### [FileClass~ReservationPackage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.protect.md) 
+### #is_/same_as :: [FileClass~ReservationPackage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.protect.md) 
 
-### [FileClass~ReservationPackage.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.private.md) 
+### #is_/same_as :: [FileClass~ReservationPackage.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.private.md) 
 
-### [FileClass~ReservationPackage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.personal.md) 
+### #is_/same_as :: [FileClass~ReservationPackage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.personal.md) 
 
-### [FileClass~ReservationPackage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.secret.md)
+### #is_/same_as :: [FileClass~ReservationPackage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.secret.md)
 

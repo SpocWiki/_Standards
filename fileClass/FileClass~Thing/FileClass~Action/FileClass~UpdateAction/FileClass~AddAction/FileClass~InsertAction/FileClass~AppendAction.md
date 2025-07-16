@@ -35,17 +35,17 @@ The act of inserting at the end if an ordered collection.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AppendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.md) 
+### #is_/same_as :: [FileClass~AppendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.md) 
 
-### [FileClass~AppendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.public.md) 
+### #is_/same_as :: [FileClass~AppendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.public.md) 
 
-### [FileClass~AppendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.internal.md) 
+### #is_/same_as :: [FileClass~AppendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.internal.md) 
 
-### [FileClass~AppendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.protect.md) 
+### #is_/same_as :: [FileClass~AppendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.protect.md) 
 
-### [FileClass~AppendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.private.md) 
+### #is_/same_as :: [FileClass~AppendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.private.md) 
 
-### [FileClass~AppendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.personal.md) 
+### #is_/same_as :: [FileClass~AppendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.personal.md) 
 
-### [FileClass~AppendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.secret.md)
+### #is_/same_as :: [FileClass~AppendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~AppendAction.secret.md)
 

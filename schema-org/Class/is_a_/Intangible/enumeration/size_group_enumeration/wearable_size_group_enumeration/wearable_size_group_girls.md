@@ -49,17 +49,17 @@ Size group "Girls" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_girls](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.md) 
+### #is_/same_as :: [wearable_size_group_girls](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.md) 
 
-### [wearable_size_group_girls.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.public.md) 
+### #is_/same_as :: [wearable_size_group_girls.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.public.md) 
 
-### [wearable_size_group_girls.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.internal.md) 
+### #is_/same_as :: [wearable_size_group_girls.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.internal.md) 
 
-### [wearable_size_group_girls.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.protect.md) 
+### #is_/same_as :: [wearable_size_group_girls.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.protect.md) 
 
-### [wearable_size_group_girls.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.private.md) 
+### #is_/same_as :: [wearable_size_group_girls.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.private.md) 
 
-### [wearable_size_group_girls.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.personal.md) 
+### #is_/same_as :: [wearable_size_group_girls.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.personal.md) 
 
-### [wearable_size_group_girls.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.secret.md)
+### #is_/same_as :: [wearable_size_group_girls.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_girls.secret.md)
 

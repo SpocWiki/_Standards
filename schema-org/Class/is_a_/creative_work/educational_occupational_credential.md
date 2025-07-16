@@ -47,17 +47,17 @@ An educational or occupational credential. A diploma, academic degree, certifica
 
 ## Confidential Links & Embeds: 
 
-### [educational_occupational_credential](/_Standards/schema-org/Class/is_a_/creative_work/educational_occupational_credential.md) 
+### #is_/same_as :: [educational_occupational_credential](/_Standards/schema-org/Class/is_a_/creative_work/educational_occupational_credential.md) 
 
-### [educational_occupational_credential.public](/_public/schema-org/Class/is_a_/creative_work/educational_occupational_credential.public.md) 
+### #is_/same_as :: [educational_occupational_credential.public](/_public/schema-org/Class/is_a_/creative_work/educational_occupational_credential.public.md) 
 
-### [educational_occupational_credential.internal](/_internal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.internal.md) 
+### #is_/same_as :: [educational_occupational_credential.internal](/_internal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.internal.md) 
 
-### [educational_occupational_credential.protect](/_protect/schema-org/Class/is_a_/creative_work/educational_occupational_credential.protect.md) 
+### #is_/same_as :: [educational_occupational_credential.protect](/_protect/schema-org/Class/is_a_/creative_work/educational_occupational_credential.protect.md) 
 
-### [educational_occupational_credential.private](/_private/schema-org/Class/is_a_/creative_work/educational_occupational_credential.private.md) 
+### #is_/same_as :: [educational_occupational_credential.private](/_private/schema-org/Class/is_a_/creative_work/educational_occupational_credential.private.md) 
 
-### [educational_occupational_credential.personal](/_personal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.personal.md) 
+### #is_/same_as :: [educational_occupational_credential.personal](/_personal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.personal.md) 
 
-### [educational_occupational_credential.secret](/_secret/schema-org/Class/is_a_/creative_work/educational_occupational_credential.secret.md)
+### #is_/same_as :: [educational_occupational_credential.secret](/_secret/schema-org/Class/is_a_/creative_work/educational_occupational_credential.secret.md)
 

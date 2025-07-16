@@ -47,17 +47,17 @@ Lung and respiratory system clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [lung](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.md) 
+### #is_/same_as :: [lung](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.md) 
 
-### [lung.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.public.md) 
+### #is_/same_as :: [lung.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.public.md) 
 
-### [lung.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.internal.md) 
+### #is_/same_as :: [lung.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.internal.md) 
 
-### [lung.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.protect.md) 
+### #is_/same_as :: [lung.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.protect.md) 
 
-### [lung.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.private.md) 
+### #is_/same_as :: [lung.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.private.md) 
 
-### [lung.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.personal.md) 
+### #is_/same_as :: [lung.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.personal.md) 
 
-### [lung.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.secret.md)
+### #is_/same_as :: [lung.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.secret.md)
 

@@ -58,21 +58,19 @@ coordinate_location: "Point(-66.698 -21.826)"
 > [Wikipedia](https://en.wikipedia.org/wiki/Andes) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Andes](/_Standards/Earth/Continent/America~South/Andes.md) 
+### #is_/same_as :: [Andes](/_Standards/Earth/Continent/America~South/Andes.md) 
 
-### [Andes.public](/_public/Earth/Continent/America~South/Andes.public.md) 
+### #is_/same_as :: [Andes.public](/_public/Earth/Continent/America~South/Andes.public.md) 
 
-### [Andes.internal](/_internal/Earth/Continent/America~South/Andes.internal.md) 
+### #is_/same_as :: [Andes.internal](/_internal/Earth/Continent/America~South/Andes.internal.md) 
 
-### [Andes.protect](/_protect/Earth/Continent/America~South/Andes.protect.md) 
+### #is_/same_as :: [Andes.protect](/_protect/Earth/Continent/America~South/Andes.protect.md) 
 
-### [Andes.private](/_private/Earth/Continent/America~South/Andes.private.md) 
+### #is_/same_as :: [Andes.private](/_private/Earth/Continent/America~South/Andes.private.md) 
 
-### [Andes.personal](/_personal/Earth/Continent/America~South/Andes.personal.md) 
+### #is_/same_as :: [Andes.personal](/_personal/Earth/Continent/America~South/Andes.personal.md) 
 
-### [Andes.secret](/_secret/Earth/Continent/America~South/Andes.secret.md)
+### #is_/same_as :: [Andes.secret](/_secret/Earth/Continent/America~South/Andes.secret.md)
 

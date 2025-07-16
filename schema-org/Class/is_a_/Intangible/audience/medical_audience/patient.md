@@ -47,17 +47,17 @@ A patient is any person recipient of health care services.
 
 ## Confidential Links & Embeds: 
 
-### [patient](/_Standards/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.md) 
+### #is_/same_as :: [patient](/_Standards/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.md) 
 
-### [patient.public](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.public.md) 
+### #is_/same_as :: [patient.public](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.public.md) 
 
-### [patient.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.internal.md) 
+### #is_/same_as :: [patient.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.internal.md) 
 
-### [patient.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.protect.md) 
+### #is_/same_as :: [patient.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.protect.md) 
 
-### [patient.private](/_private/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.private.md) 
+### #is_/same_as :: [patient.private](/_private/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.private.md) 
 
-### [patient.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.personal.md) 
+### #is_/same_as :: [patient.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.personal.md) 
 
-### [patient.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.secret.md)
+### #is_/same_as :: [patient.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.secret.md)
 

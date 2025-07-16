@@ -41,17 +41,17 @@ markerFolder: ./Ngchesar/
 
 ## Confidential Links & Embeds: 
 
-### [Ngchesar](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.md) 
+### #is_/same_as :: [Ngchesar](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.md) 
 
-### [Ngchesar.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.public.md) 
+### #is_/same_as :: [Ngchesar.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.public.md) 
 
-### [Ngchesar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.internal.md) 
+### #is_/same_as :: [Ngchesar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.internal.md) 
 
-### [Ngchesar.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.protect.md) 
+### #is_/same_as :: [Ngchesar.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.protect.md) 
 
-### [Ngchesar.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.private.md) 
+### #is_/same_as :: [Ngchesar.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.private.md) 
 
-### [Ngchesar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.personal.md) 
+### #is_/same_as :: [Ngchesar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.personal.md) 
 
-### [Ngchesar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.secret.md)
+### #is_/same_as :: [Ngchesar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.secret.md)
 

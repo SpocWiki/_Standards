@@ -72,17 +72,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~1~Triassic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.md) 
+### #is_/same_as :: [Period~1~Triassic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.md) 
 
-### [Period~1~Triassic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.public.md) 
+### #is_/same_as :: [Period~1~Triassic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.public.md) 
 
-### [Period~1~Triassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.internal.md) 
+### #is_/same_as :: [Period~1~Triassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.internal.md) 
 
-### [Period~1~Triassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.protect.md) 
+### #is_/same_as :: [Period~1~Triassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.protect.md) 
 
-### [Period~1~Triassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.private.md) 
+### #is_/same_as :: [Period~1~Triassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.private.md) 
 
-### [Period~1~Triassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.personal.md) 
+### #is_/same_as :: [Period~1~Triassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.personal.md) 
 
-### [Period~1~Triassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.secret.md)
+### #is_/same_as :: [Period~1~Triassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.secret.md)
 

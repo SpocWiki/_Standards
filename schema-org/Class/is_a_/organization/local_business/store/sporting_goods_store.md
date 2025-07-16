@@ -45,17 +45,17 @@ A sporting goods store.
 
 ## Confidential Links & Embeds: 
 
-### [sporting_goods_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.md) 
+### #is_/same_as :: [sporting_goods_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.md) 
 
-### [sporting_goods_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.public.md) 
+### #is_/same_as :: [sporting_goods_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.public.md) 
 
-### [sporting_goods_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.internal.md) 
+### #is_/same_as :: [sporting_goods_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.internal.md) 
 
-### [sporting_goods_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.protect.md) 
+### #is_/same_as :: [sporting_goods_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.protect.md) 
 
-### [sporting_goods_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.private.md) 
+### #is_/same_as :: [sporting_goods_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.private.md) 
 
-### [sporting_goods_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.personal.md) 
+### #is_/same_as :: [sporting_goods_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.personal.md) 
 
-### [sporting_goods_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.secret.md)
+### #is_/same_as :: [sporting_goods_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/sporting_goods_store.secret.md)
 

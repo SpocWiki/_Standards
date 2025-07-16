@@ -35,17 +35,17 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DepartAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.md) 
+### #is_/same_as :: [FileClass~DepartAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.md) 
 
-### [FileClass~DepartAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.public.md) 
+### #is_/same_as :: [FileClass~DepartAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.public.md) 
 
-### [FileClass~DepartAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.internal.md) 
+### #is_/same_as :: [FileClass~DepartAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.internal.md) 
 
-### [FileClass~DepartAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.protect.md) 
+### #is_/same_as :: [FileClass~DepartAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.protect.md) 
 
-### [FileClass~DepartAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.private.md) 
+### #is_/same_as :: [FileClass~DepartAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.private.md) 
 
-### [FileClass~DepartAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.personal.md) 
+### #is_/same_as :: [FileClass~DepartAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.personal.md) 
 
-### [FileClass~DepartAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.secret.md)
+### #is_/same_as :: [FileClass~DepartAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~DepartAction.secret.md)
 

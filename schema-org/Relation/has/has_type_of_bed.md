@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_type_of_bed](/_Standards/schema-org/Relation/has/has_type_of_bed.md) 
+### #is_/same_as :: [has_type_of_bed](/_Standards/schema-org/Relation/has/has_type_of_bed.md) 
 
-### [has_type_of_bed.public](/_public/schema-org/Relation/has/has_type_of_bed.public.md) 
+### #is_/same_as :: [has_type_of_bed.public](/_public/schema-org/Relation/has/has_type_of_bed.public.md) 
 
-### [has_type_of_bed.internal](/_internal/schema-org/Relation/has/has_type_of_bed.internal.md) 
+### #is_/same_as :: [has_type_of_bed.internal](/_internal/schema-org/Relation/has/has_type_of_bed.internal.md) 
 
-### [has_type_of_bed.protect](/_protect/schema-org/Relation/has/has_type_of_bed.protect.md) 
+### #is_/same_as :: [has_type_of_bed.protect](/_protect/schema-org/Relation/has/has_type_of_bed.protect.md) 
 
-### [has_type_of_bed.private](/_private/schema-org/Relation/has/has_type_of_bed.private.md) 
+### #is_/same_as :: [has_type_of_bed.private](/_private/schema-org/Relation/has/has_type_of_bed.private.md) 
 
-### [has_type_of_bed.personal](/_personal/schema-org/Relation/has/has_type_of_bed.personal.md) 
+### #is_/same_as :: [has_type_of_bed.personal](/_personal/schema-org/Relation/has/has_type_of_bed.personal.md) 
 
-### [has_type_of_bed.secret](/_secret/schema-org/Relation/has/has_type_of_bed.secret.md)
+### #is_/same_as :: [has_type_of_bed.secret](/_secret/schema-org/Relation/has/has_type_of_bed.secret.md)
 

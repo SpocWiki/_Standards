@@ -594,17 +594,17 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
 
 ## Confidential Links & Embeds: 
 
-### [Zygomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.md) 
+### #is_/same_as :: [Zygomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.md) 
 
-### [Zygomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.public.md) 
+### #is_/same_as :: [Zygomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.public.md) 
 
-### [Zygomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.internal.md) 
+### #is_/same_as :: [Zygomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.internal.md) 
 
-### [Zygomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.protect.md) 
+### #is_/same_as :: [Zygomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.protect.md) 
 
-### [Zygomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.private.md) 
+### #is_/same_as :: [Zygomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.private.md) 
 
-### [Zygomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.personal.md) 
+### #is_/same_as :: [Zygomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.personal.md) 
 
-### [Zygomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.secret.md)
+### #is_/same_as :: [Zygomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.secret.md)
 

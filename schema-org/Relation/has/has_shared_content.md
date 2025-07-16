@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_shared_content](/_Standards/schema-org/Relation/has/has_shared_content.md) 
+### #is_/same_as :: [has_shared_content](/_Standards/schema-org/Relation/has/has_shared_content.md) 
 
-### [has_shared_content.public](/_public/schema-org/Relation/has/has_shared_content.public.md) 
+### #is_/same_as :: [has_shared_content.public](/_public/schema-org/Relation/has/has_shared_content.public.md) 
 
-### [has_shared_content.internal](/_internal/schema-org/Relation/has/has_shared_content.internal.md) 
+### #is_/same_as :: [has_shared_content.internal](/_internal/schema-org/Relation/has/has_shared_content.internal.md) 
 
-### [has_shared_content.protect](/_protect/schema-org/Relation/has/has_shared_content.protect.md) 
+### #is_/same_as :: [has_shared_content.protect](/_protect/schema-org/Relation/has/has_shared_content.protect.md) 
 
-### [has_shared_content.private](/_private/schema-org/Relation/has/has_shared_content.private.md) 
+### #is_/same_as :: [has_shared_content.private](/_private/schema-org/Relation/has/has_shared_content.private.md) 
 
-### [has_shared_content.personal](/_personal/schema-org/Relation/has/has_shared_content.personal.md) 
+### #is_/same_as :: [has_shared_content.personal](/_personal/schema-org/Relation/has/has_shared_content.personal.md) 
 
-### [has_shared_content.secret](/_secret/schema-org/Relation/has/has_shared_content.secret.md)
+### #is_/same_as :: [has_shared_content.secret](/_secret/schema-org/Relation/has/has_shared_content.secret.md)
 

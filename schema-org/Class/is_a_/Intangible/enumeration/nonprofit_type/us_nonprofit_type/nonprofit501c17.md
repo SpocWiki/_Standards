@@ -49,17 +49,17 @@ Nonprofit501c17: Non-profit type referring to Supplemental Unemployment Benefit 
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c17](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.md) 
+### #is_/same_as :: [nonprofit501c17](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.md) 
 
-### [nonprofit501c17.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.public.md) 
+### #is_/same_as :: [nonprofit501c17.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.public.md) 
 
-### [nonprofit501c17.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.internal.md) 
+### #is_/same_as :: [nonprofit501c17.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.internal.md) 
 
-### [nonprofit501c17.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.protect.md) 
+### #is_/same_as :: [nonprofit501c17.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.protect.md) 
 
-### [nonprofit501c17.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.private.md) 
+### #is_/same_as :: [nonprofit501c17.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.private.md) 
 
-### [nonprofit501c17.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.personal.md) 
+### #is_/same_as :: [nonprofit501c17.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.personal.md) 
 
-### [nonprofit501c17.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.secret.md)
+### #is_/same_as :: [nonprofit501c17.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c17.secret.md)
 

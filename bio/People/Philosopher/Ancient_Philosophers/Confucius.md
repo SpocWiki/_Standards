@@ -195,22 +195,19 @@ namely [[Xunzi]], who wants to enforce correctness.
 > [Wikipedia](https://en.wikipedia.org/wiki/Confucius)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Confucius](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Confucius.md) 
+### #is_/same_as :: [Confucius](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Confucius.md) 
 
-### [Confucius.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Confucius.public.md) 
+### #is_/same_as :: [Confucius.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Confucius.public.md) 
 
-### [Confucius.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Confucius.internal.md) 
+### #is_/same_as :: [Confucius.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Confucius.internal.md) 
 
-### [Confucius.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Confucius.protect.md) 
+### #is_/same_as :: [Confucius.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Confucius.protect.md) 
 
-### [Confucius.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Confucius.private.md) 
+### #is_/same_as :: [Confucius.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Confucius.private.md) 
 
-### [Confucius.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Confucius.personal.md) 
+### #is_/same_as :: [Confucius.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Confucius.personal.md) 
 
-### [Confucius.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Confucius.secret.md)
+### #is_/same_as :: [Confucius.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Confucius.secret.md)
 

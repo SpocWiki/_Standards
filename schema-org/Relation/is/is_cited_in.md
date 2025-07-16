@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_cited_in](/_Standards/schema-org/Relation/is/is_cited_in.md) 
+### #is_/same_as :: [is_cited_in](/_Standards/schema-org/Relation/is/is_cited_in.md) 
 
-### [is_cited_in.public](/_public/schema-org/Relation/is/is_cited_in.public.md) 
+### #is_/same_as :: [is_cited_in.public](/_public/schema-org/Relation/is/is_cited_in.public.md) 
 
-### [is_cited_in.internal](/_internal/schema-org/Relation/is/is_cited_in.internal.md) 
+### #is_/same_as :: [is_cited_in.internal](/_internal/schema-org/Relation/is/is_cited_in.internal.md) 
 
-### [is_cited_in.protect](/_protect/schema-org/Relation/is/is_cited_in.protect.md) 
+### #is_/same_as :: [is_cited_in.protect](/_protect/schema-org/Relation/is/is_cited_in.protect.md) 
 
-### [is_cited_in.private](/_private/schema-org/Relation/is/is_cited_in.private.md) 
+### #is_/same_as :: [is_cited_in.private](/_private/schema-org/Relation/is/is_cited_in.private.md) 
 
-### [is_cited_in.personal](/_personal/schema-org/Relation/is/is_cited_in.personal.md) 
+### #is_/same_as :: [is_cited_in.personal](/_personal/schema-org/Relation/is/is_cited_in.personal.md) 
 
-### [is_cited_in.secret](/_secret/schema-org/Relation/is/is_cited_in.secret.md)
+### #is_/same_as :: [is_cited_in.secret](/_secret/schema-org/Relation/is/is_cited_in.secret.md)
 

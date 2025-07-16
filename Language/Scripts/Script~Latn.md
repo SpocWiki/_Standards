@@ -87,17 +87,17 @@ either their native Script or a Latin Transcription:
 
 ## Confidential Links & Embeds: 
 
-### [Script~Latn](/_Standards/Language/Scripts/Script~Latn.md) 
+### #is_/same_as :: [Script~Latn](/_Standards/Language/Scripts/Script~Latn.md) 
 
-### [Script~Latn.public](/_public/Language/Scripts/Script~Latn.public.md) 
+### #is_/same_as :: [Script~Latn.public](/_public/Language/Scripts/Script~Latn.public.md) 
 
-### [Script~Latn.internal](/_internal/Language/Scripts/Script~Latn.internal.md) 
+### #is_/same_as :: [Script~Latn.internal](/_internal/Language/Scripts/Script~Latn.internal.md) 
 
-### [Script~Latn.protect](/_protect/Language/Scripts/Script~Latn.protect.md) 
+### #is_/same_as :: [Script~Latn.protect](/_protect/Language/Scripts/Script~Latn.protect.md) 
 
-### [Script~Latn.private](/_private/Language/Scripts/Script~Latn.private.md) 
+### #is_/same_as :: [Script~Latn.private](/_private/Language/Scripts/Script~Latn.private.md) 
 
-### [Script~Latn.personal](/_personal/Language/Scripts/Script~Latn.personal.md) 
+### #is_/same_as :: [Script~Latn.personal](/_personal/Language/Scripts/Script~Latn.personal.md) 
 
-### [Script~Latn.secret](/_secret/Language/Scripts/Script~Latn.secret.md)
+### #is_/same_as :: [Script~Latn.secret](/_secret/Language/Scripts/Script~Latn.secret.md)
 

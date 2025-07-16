@@ -23,17 +23,17 @@ Commons_category: "Endangered species"
 
 ## Confidential Links & Embeds: 
 
-### [Endangered_Species](/_Standards/bio/Ecology/Endangered_Species.md) 
+### #is_/same_as :: [Endangered_Species](/_Standards/bio/Ecology/Endangered_Species.md) 
 
-### [Endangered_Species.public](/_public/bio/Ecology/Endangered_Species.public.md) 
+### #is_/same_as :: [Endangered_Species.public](/_public/bio/Ecology/Endangered_Species.public.md) 
 
-### [Endangered_Species.internal](/_internal/bio/Ecology/Endangered_Species.internal.md) 
+### #is_/same_as :: [Endangered_Species.internal](/_internal/bio/Ecology/Endangered_Species.internal.md) 
 
-### [Endangered_Species.protect](/_protect/bio/Ecology/Endangered_Species.protect.md) 
+### #is_/same_as :: [Endangered_Species.protect](/_protect/bio/Ecology/Endangered_Species.protect.md) 
 
-### [Endangered_Species.private](/_private/bio/Ecology/Endangered_Species.private.md) 
+### #is_/same_as :: [Endangered_Species.private](/_private/bio/Ecology/Endangered_Species.private.md) 
 
-### [Endangered_Species.personal](/_personal/bio/Ecology/Endangered_Species.personal.md) 
+### #is_/same_as :: [Endangered_Species.personal](/_personal/bio/Ecology/Endangered_Species.personal.md) 
 
-### [Endangered_Species.secret](/_secret/bio/Ecology/Endangered_Species.secret.md)
+### #is_/same_as :: [Endangered_Species.secret](/_secret/bio/Ecology/Endangered_Species.secret.md)
 

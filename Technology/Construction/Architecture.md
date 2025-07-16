@@ -133,17 +133,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Architecture](/_Standards/Technology/Construction/Architecture.md) 
+### #is_/same_as :: [Architecture](/_Standards/Technology/Construction/Architecture.md) 
 
-### [Architecture.public](/_public/Technology/Construction/Architecture.public.md) 
+### #is_/same_as :: [Architecture.public](/_public/Technology/Construction/Architecture.public.md) 
 
-### [Architecture.internal](/_internal/Technology/Construction/Architecture.internal.md) 
+### #is_/same_as :: [Architecture.internal](/_internal/Technology/Construction/Architecture.internal.md) 
 
-### [Architecture.protect](/_protect/Technology/Construction/Architecture.protect.md) 
+### #is_/same_as :: [Architecture.protect](/_protect/Technology/Construction/Architecture.protect.md) 
 
-### [Architecture.private](/_private/Technology/Construction/Architecture.private.md) 
+### #is_/same_as :: [Architecture.private](/_private/Technology/Construction/Architecture.private.md) 
 
-### [Architecture.personal](/_personal/Technology/Construction/Architecture.personal.md) 
+### #is_/same_as :: [Architecture.personal](/_personal/Technology/Construction/Architecture.personal.md) 
 
-### [Architecture.secret](/_secret/Technology/Construction/Architecture.secret.md)
+### #is_/same_as :: [Architecture.secret](/_secret/Technology/Construction/Architecture.secret.md)
 

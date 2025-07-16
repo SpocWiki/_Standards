@@ -43,17 +43,17 @@ defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"
 
 ## Confidential Links & Embeds: 
 
-### [Pythagorean_Theorem](/_Standards/Mathematics/Theorem/Pythagorean_Theorem.md) 
+### #is_/same_as :: [Pythagorean_Theorem](/_Standards/Mathematics/Theorem/Pythagorean_Theorem.md) 
 
-### [Pythagorean_Theorem.public](/_public/Mathematics/Theorem/Pythagorean_Theorem.public.md) 
+### #is_/same_as :: [Pythagorean_Theorem.public](/_public/Mathematics/Theorem/Pythagorean_Theorem.public.md) 
 
-### [Pythagorean_Theorem.internal](/_internal/Mathematics/Theorem/Pythagorean_Theorem.internal.md) 
+### #is_/same_as :: [Pythagorean_Theorem.internal](/_internal/Mathematics/Theorem/Pythagorean_Theorem.internal.md) 
 
-### [Pythagorean_Theorem.protect](/_protect/Mathematics/Theorem/Pythagorean_Theorem.protect.md) 
+### #is_/same_as :: [Pythagorean_Theorem.protect](/_protect/Mathematics/Theorem/Pythagorean_Theorem.protect.md) 
 
-### [Pythagorean_Theorem.private](/_private/Mathematics/Theorem/Pythagorean_Theorem.private.md) 
+### #is_/same_as :: [Pythagorean_Theorem.private](/_private/Mathematics/Theorem/Pythagorean_Theorem.private.md) 
 
-### [Pythagorean_Theorem.personal](/_personal/Mathematics/Theorem/Pythagorean_Theorem.personal.md) 
+### #is_/same_as :: [Pythagorean_Theorem.personal](/_personal/Mathematics/Theorem/Pythagorean_Theorem.personal.md) 
 
-### [Pythagorean_Theorem.secret](/_secret/Mathematics/Theorem/Pythagorean_Theorem.secret.md)
+### #is_/same_as :: [Pythagorean_Theorem.secret](/_secret/Mathematics/Theorem/Pythagorean_Theorem.secret.md)
 

@@ -57,21 +57,19 @@ subreddit: socialism
 > [Wikipedia](https://en.wikipedia.org/wiki/Socialism)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Socialism](/_Standards/bio/Society/Ideology/Socialism.md) 
+### #is_/same_as :: [Socialism](/_Standards/bio/Society/Ideology/Socialism.md) 
 
-### [Socialism.public](/_public/bio/Society/Ideology/Socialism.public.md) 
+### #is_/same_as :: [Socialism.public](/_public/bio/Society/Ideology/Socialism.public.md) 
 
-### [Socialism.internal](/_internal/bio/Society/Ideology/Socialism.internal.md) 
+### #is_/same_as :: [Socialism.internal](/_internal/bio/Society/Ideology/Socialism.internal.md) 
 
-### [Socialism.protect](/_protect/bio/Society/Ideology/Socialism.protect.md) 
+### #is_/same_as :: [Socialism.protect](/_protect/bio/Society/Ideology/Socialism.protect.md) 
 
-### [Socialism.private](/_private/bio/Society/Ideology/Socialism.private.md) 
+### #is_/same_as :: [Socialism.private](/_private/bio/Society/Ideology/Socialism.private.md) 
 
-### [Socialism.personal](/_personal/bio/Society/Ideology/Socialism.personal.md) 
+### #is_/same_as :: [Socialism.personal](/_personal/bio/Society/Ideology/Socialism.personal.md) 
 
-### [Socialism.secret](/_secret/bio/Society/Ideology/Socialism.secret.md)
+### #is_/same_as :: [Socialism.secret](/_secret/bio/Society/Ideology/Socialism.secret.md)
 

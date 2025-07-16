@@ -58,17 +58,17 @@ TitleEIDR:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TVEpisode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.md) 
+### #is_/same_as :: [FileClass~TVEpisode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.md) 
 
-### [FileClass~TVEpisode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.public.md) 
+### #is_/same_as :: [FileClass~TVEpisode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.public.md) 
 
-### [FileClass~TVEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.internal.md) 
+### #is_/same_as :: [FileClass~TVEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.internal.md) 
 
-### [FileClass~TVEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.protect.md) 
+### #is_/same_as :: [FileClass~TVEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.protect.md) 
 
-### [FileClass~TVEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.private.md) 
+### #is_/same_as :: [FileClass~TVEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.private.md) 
 
-### [FileClass~TVEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.personal.md) 
+### #is_/same_as :: [FileClass~TVEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.personal.md) 
 
-### [FileClass~TVEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.secret.md)
+### #is_/same_as :: [FileClass~TVEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~TVEpisode.secret.md)
 

@@ -184,22 +184,19 @@ aliases:
 | [2024](https://en.wikipedia.org/wiki/2024_Nobel_Peace_Prize "2024 Nobel Peace Prize") | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Origami_-_Crane.svg/75px-Origami_-_Crane.svg.png)](https://en.wikipedia.org/wiki/File:Origami_-_Crane.svg)                                                                                                                                                                                                                                                                                                                                                                                                             | **[Nihon Hidankyo](https://en.wikipedia.org/wiki/Nihon_Hidankyo "Nihon Hidankyo")**  <br>(founded 1956)                                                                                                                                                                                                                                                                                                   | Japan                                                                                                                                                                 | "for its efforts to achieve a world free of nuclear weapons and for demonstrating through [witness testimony](https://en.wikipedia.org/wiki/Hibakusha "Hibakusha") that nuclear weapons must never be used again"                                                                                                                                                                                                                                                                   |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Peace_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Peace_Nobel_Prize.md) 
+### #is_/same_as :: [Peace_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Peace_Nobel_Prize.md) 
 
-### [Peace_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Peace_Nobel_Prize.public.md) 
+### #is_/same_as :: [Peace_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Peace_Nobel_Prize.public.md) 
 
-### [Peace_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Peace_Nobel_Prize.internal.md) 
+### #is_/same_as :: [Peace_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Peace_Nobel_Prize.internal.md) 
 
-### [Peace_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Peace_Nobel_Prize.protect.md) 
+### #is_/same_as :: [Peace_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Peace_Nobel_Prize.protect.md) 
 
-### [Peace_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Peace_Nobel_Prize.private.md) 
+### #is_/same_as :: [Peace_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Peace_Nobel_Prize.private.md) 
 
-### [Peace_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Peace_Nobel_Prize.personal.md) 
+### #is_/same_as :: [Peace_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Peace_Nobel_Prize.personal.md) 
 
-### [Peace_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Peace_Nobel_Prize.secret.md)
+### #is_/same_as :: [Peace_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Peace_Nobel_Prize.secret.md)
 

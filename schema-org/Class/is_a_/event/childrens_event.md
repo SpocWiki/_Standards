@@ -45,17 +45,17 @@ Event type: Children's event.
 
 ## Confidential Links & Embeds: 
 
-### [childrens_event](/_Standards/schema-org/Class/is_a_/event/childrens_event.md) 
+### #is_/same_as :: [childrens_event](/_Standards/schema-org/Class/is_a_/event/childrens_event.md) 
 
-### [childrens_event.public](/_public/schema-org/Class/is_a_/event/childrens_event.public.md) 
+### #is_/same_as :: [childrens_event.public](/_public/schema-org/Class/is_a_/event/childrens_event.public.md) 
 
-### [childrens_event.internal](/_internal/schema-org/Class/is_a_/event/childrens_event.internal.md) 
+### #is_/same_as :: [childrens_event.internal](/_internal/schema-org/Class/is_a_/event/childrens_event.internal.md) 
 
-### [childrens_event.protect](/_protect/schema-org/Class/is_a_/event/childrens_event.protect.md) 
+### #is_/same_as :: [childrens_event.protect](/_protect/schema-org/Class/is_a_/event/childrens_event.protect.md) 
 
-### [childrens_event.private](/_private/schema-org/Class/is_a_/event/childrens_event.private.md) 
+### #is_/same_as :: [childrens_event.private](/_private/schema-org/Class/is_a_/event/childrens_event.private.md) 
 
-### [childrens_event.personal](/_personal/schema-org/Class/is_a_/event/childrens_event.personal.md) 
+### #is_/same_as :: [childrens_event.personal](/_personal/schema-org/Class/is_a_/event/childrens_event.personal.md) 
 
-### [childrens_event.secret](/_secret/schema-org/Class/is_a_/event/childrens_event.secret.md)
+### #is_/same_as :: [childrens_event.secret](/_secret/schema-org/Class/is_a_/event/childrens_event.secret.md)
 

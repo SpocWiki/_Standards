@@ -75,21 +75,19 @@ MeSH_tree_code: K01.752.448
 > [Wikipedia](https://en.wikipedia.org/wiki/Logic)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Logic](/_Standards/bio/People/Philosopher/Logic.md) 
+### #is_/same_as :: [Logic](/_Standards/bio/People/Philosopher/Logic.md) 
 
-### [Logic.public](/_public/bio/People/Philosopher/Logic.public.md) 
+### #is_/same_as :: [Logic.public](/_public/bio/People/Philosopher/Logic.public.md) 
 
-### [Logic.internal](/_internal/bio/People/Philosopher/Logic.internal.md) 
+### #is_/same_as :: [Logic.internal](/_internal/bio/People/Philosopher/Logic.internal.md) 
 
-### [Logic.protect](/_protect/bio/People/Philosopher/Logic.protect.md) 
+### #is_/same_as :: [Logic.protect](/_protect/bio/People/Philosopher/Logic.protect.md) 
 
-### [Logic.private](/_private/bio/People/Philosopher/Logic.private.md) 
+### #is_/same_as :: [Logic.private](/_private/bio/People/Philosopher/Logic.private.md) 
 
-### [Logic.personal](/_personal/bio/People/Philosopher/Logic.personal.md) 
+### #is_/same_as :: [Logic.personal](/_personal/bio/People/Philosopher/Logic.personal.md) 
 
-### [Logic.secret](/_secret/bio/People/Philosopher/Logic.secret.md)
+### #is_/same_as :: [Logic.secret](/_secret/bio/People/Philosopher/Logic.secret.md)
 

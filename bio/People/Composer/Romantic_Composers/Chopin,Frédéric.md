@@ -23,21 +23,19 @@ has_id_wikidata: Q1268
 > [Wikipedia](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric%20Chopin)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Chopin,Frédéric](/_Standards/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.md) 
+### #is_/same_as :: [Chopin,Frédéric](/_Standards/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.md) 
 
-### [Chopin,Frédéric.public](/_public/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.public.md) 
+### #is_/same_as :: [Chopin,Frédéric.public](/_public/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.public.md) 
 
-### [Chopin,Frédéric.internal](/_internal/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.internal.md) 
+### #is_/same_as :: [Chopin,Frédéric.internal](/_internal/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.internal.md) 
 
-### [Chopin,Frédéric.protect](/_protect/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.protect.md) 
+### #is_/same_as :: [Chopin,Frédéric.protect](/_protect/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.protect.md) 
 
-### [Chopin,Frédéric.private](/_private/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.private.md) 
+### #is_/same_as :: [Chopin,Frédéric.private](/_private/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.private.md) 
 
-### [Chopin,Frédéric.personal](/_personal/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.personal.md) 
+### #is_/same_as :: [Chopin,Frédéric.personal](/_personal/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.personal.md) 
 
-### [Chopin,Frédéric.secret](/_secret/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.secret.md)
+### #is_/same_as :: [Chopin,Frédéric.secret](/_secret/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.secret.md)
 

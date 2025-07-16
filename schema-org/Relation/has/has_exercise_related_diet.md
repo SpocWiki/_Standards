@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_exercise_related_diet](/_Standards/schema-org/Relation/has/has_exercise_related_diet.md) 
+### #is_/same_as :: [has_exercise_related_diet](/_Standards/schema-org/Relation/has/has_exercise_related_diet.md) 
 
-### [has_exercise_related_diet.public](/_public/schema-org/Relation/has/has_exercise_related_diet.public.md) 
+### #is_/same_as :: [has_exercise_related_diet.public](/_public/schema-org/Relation/has/has_exercise_related_diet.public.md) 
 
-### [has_exercise_related_diet.internal](/_internal/schema-org/Relation/has/has_exercise_related_diet.internal.md) 
+### #is_/same_as :: [has_exercise_related_diet.internal](/_internal/schema-org/Relation/has/has_exercise_related_diet.internal.md) 
 
-### [has_exercise_related_diet.protect](/_protect/schema-org/Relation/has/has_exercise_related_diet.protect.md) 
+### #is_/same_as :: [has_exercise_related_diet.protect](/_protect/schema-org/Relation/has/has_exercise_related_diet.protect.md) 
 
-### [has_exercise_related_diet.private](/_private/schema-org/Relation/has/has_exercise_related_diet.private.md) 
+### #is_/same_as :: [has_exercise_related_diet.private](/_private/schema-org/Relation/has/has_exercise_related_diet.private.md) 
 
-### [has_exercise_related_diet.personal](/_personal/schema-org/Relation/has/has_exercise_related_diet.personal.md) 
+### #is_/same_as :: [has_exercise_related_diet.personal](/_personal/schema-org/Relation/has/has_exercise_related_diet.personal.md) 
 
-### [has_exercise_related_diet.secret](/_secret/schema-org/Relation/has/has_exercise_related_diet.secret.md)
+### #is_/same_as :: [has_exercise_related_diet.secret](/_secret/schema-org/Relation/has/has_exercise_related_diet.secret.md)
 

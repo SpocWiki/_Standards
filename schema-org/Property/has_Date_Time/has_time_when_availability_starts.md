@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_when_availability_starts](/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_starts.md) 
+### #is_/same_as :: [has_time_when_availability_starts](/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_starts.md) 
 
-### [has_time_when_availability_starts.public](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_starts.public.md) 
+### #is_/same_as :: [has_time_when_availability_starts.public](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_starts.public.md) 
 
-### [has_time_when_availability_starts.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.internal.md) 
+### #is_/same_as :: [has_time_when_availability_starts.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.internal.md) 
 
-### [has_time_when_availability_starts.protect](/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_starts.protect.md) 
+### #is_/same_as :: [has_time_when_availability_starts.protect](/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_starts.protect.md) 
 
-### [has_time_when_availability_starts.private](/_private/schema-org/Property/has_Date_Time/has_time_when_availability_starts.private.md) 
+### #is_/same_as :: [has_time_when_availability_starts.private](/_private/schema-org/Property/has_Date_Time/has_time_when_availability_starts.private.md) 
 
-### [has_time_when_availability_starts.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.personal.md) 
+### #is_/same_as :: [has_time_when_availability_starts.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.personal.md) 
 
-### [has_time_when_availability_starts.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_starts.secret.md)
+### #is_/same_as :: [has_time_when_availability_starts.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_starts.secret.md)
 

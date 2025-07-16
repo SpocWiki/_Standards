@@ -51,17 +51,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [_Predicate-Template](/_Standards/schema-org/Property/_Predicate-Template.md) 
+### #is_/same_as :: [_Predicate-Template](/_Standards/schema-org/Property/_Predicate-Template.md) 
 
-### [_Predicate-Template.public](/_public/schema-org/Property/_Predicate-Template.public.md) 
+### #is_/same_as :: [_Predicate-Template.public](/_public/schema-org/Property/_Predicate-Template.public.md) 
 
-### [_Predicate-Template.internal](/_internal/schema-org/Property/_Predicate-Template.internal.md) 
+### #is_/same_as :: [_Predicate-Template.internal](/_internal/schema-org/Property/_Predicate-Template.internal.md) 
 
-### [_Predicate-Template.protect](/_protect/schema-org/Property/_Predicate-Template.protect.md) 
+### #is_/same_as :: [_Predicate-Template.protect](/_protect/schema-org/Property/_Predicate-Template.protect.md) 
 
-### [_Predicate-Template.private](/_private/schema-org/Property/_Predicate-Template.private.md) 
+### #is_/same_as :: [_Predicate-Template.private](/_private/schema-org/Property/_Predicate-Template.private.md) 
 
-### [_Predicate-Template.personal](/_personal/schema-org/Property/_Predicate-Template.personal.md) 
+### #is_/same_as :: [_Predicate-Template.personal](/_personal/schema-org/Property/_Predicate-Template.personal.md) 
 
-### [_Predicate-Template.secret](/_secret/schema-org/Property/_Predicate-Template.secret.md)
+### #is_/same_as :: [_Predicate-Template.secret](/_secret/schema-org/Property/_Predicate-Template.secret.md)
 

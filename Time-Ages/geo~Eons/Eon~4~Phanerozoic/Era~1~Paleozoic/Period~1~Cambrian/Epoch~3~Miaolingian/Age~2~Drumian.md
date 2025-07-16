@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~2~Drumian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.md) 
+### #is_/same_as :: [Age~2~Drumian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.md) 
 
-### [Age~2~Drumian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.public.md) 
+### #is_/same_as :: [Age~2~Drumian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.public.md) 
 
-### [Age~2~Drumian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.internal.md) 
+### #is_/same_as :: [Age~2~Drumian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.internal.md) 
 
-### [Age~2~Drumian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.protect.md) 
+### #is_/same_as :: [Age~2~Drumian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.protect.md) 
 
-### [Age~2~Drumian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.private.md) 
+### #is_/same_as :: [Age~2~Drumian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.private.md) 
 
-### [Age~2~Drumian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.personal.md) 
+### #is_/same_as :: [Age~2~Drumian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.personal.md) 
 
-### [Age~2~Drumian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.secret.md)
+### #is_/same_as :: [Age~2~Drumian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~2~Drumian.secret.md)
 

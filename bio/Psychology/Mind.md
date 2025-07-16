@@ -41,17 +41,17 @@ native_label: Hiş
 
 ## Confidential Links & Embeds: 
 
-### [Mind](/_Standards/bio/Psychology/Mind.md) 
+### #is_/same_as :: [Mind](/_Standards/bio/Psychology/Mind.md) 
 
-### [Mind.public](/_public/bio/Psychology/Mind.public.md) 
+### #is_/same_as :: [Mind.public](/_public/bio/Psychology/Mind.public.md) 
 
-### [Mind.internal](/_internal/bio/Psychology/Mind.internal.md) 
+### #is_/same_as :: [Mind.internal](/_internal/bio/Psychology/Mind.internal.md) 
 
-### [Mind.protect](/_protect/bio/Psychology/Mind.protect.md) 
+### #is_/same_as :: [Mind.protect](/_protect/bio/Psychology/Mind.protect.md) 
 
-### [Mind.private](/_private/bio/Psychology/Mind.private.md) 
+### #is_/same_as :: [Mind.private](/_private/bio/Psychology/Mind.private.md) 
 
-### [Mind.personal](/_personal/bio/Psychology/Mind.personal.md) 
+### #is_/same_as :: [Mind.personal](/_personal/bio/Psychology/Mind.personal.md) 
 
-### [Mind.secret](/_secret/bio/Psychology/Mind.secret.md)
+### #is_/same_as :: [Mind.secret](/_secret/bio/Psychology/Mind.secret.md)
 

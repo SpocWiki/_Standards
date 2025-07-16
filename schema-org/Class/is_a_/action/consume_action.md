@@ -47,17 +47,17 @@ The act of ingesting information/resources/food.
 
 ## Confidential Links & Embeds: 
 
-### [consume_action](/_Standards/schema-org/Class/is_a_/action/consume_action.md) 
+### #is_/same_as :: [consume_action](/_Standards/schema-org/Class/is_a_/action/consume_action.md) 
 
-### [consume_action.public](/_public/schema-org/Class/is_a_/action/consume_action.public.md) 
+### #is_/same_as :: [consume_action.public](/_public/schema-org/Class/is_a_/action/consume_action.public.md) 
 
-### [consume_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action.internal.md) 
+### #is_/same_as :: [consume_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action.internal.md) 
 
-### [consume_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action.protect.md) 
+### #is_/same_as :: [consume_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action.protect.md) 
 
-### [consume_action.private](/_private/schema-org/Class/is_a_/action/consume_action.private.md) 
+### #is_/same_as :: [consume_action.private](/_private/schema-org/Class/is_a_/action/consume_action.private.md) 
 
-### [consume_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action.personal.md) 
+### #is_/same_as :: [consume_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action.personal.md) 
 
-### [consume_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action.secret.md)
+### #is_/same_as :: [consume_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action.secret.md)
 

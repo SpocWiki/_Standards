@@ -43,17 +43,17 @@ A type of boarding policy used by an airline.
 
 ## Confidential Links & Embeds: 
 
-### [boarding_policy_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.md) 
+### #is_/same_as :: [boarding_policy_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.md) 
 
-### [boarding_policy_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.public.md) 
+### #is_/same_as :: [boarding_policy_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.public.md) 
 
-### [boarding_policy_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.internal.md) 
+### #is_/same_as :: [boarding_policy_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.internal.md) 
 
-### [boarding_policy_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.protect.md) 
+### #is_/same_as :: [boarding_policy_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.protect.md) 
 
-### [boarding_policy_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.private.md) 
+### #is_/same_as :: [boarding_policy_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.private.md) 
 
-### [boarding_policy_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.personal.md) 
+### #is_/same_as :: [boarding_policy_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.personal.md) 
 
-### [boarding_policy_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.secret.md)
+### #is_/same_as :: [boarding_policy_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.secret.md)
 

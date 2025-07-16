@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_infectious_agent_class](/_Standards/schema-org/Relation/has/has_infectious_agent_class.md) 
+### #is_/same_as :: [has_infectious_agent_class](/_Standards/schema-org/Relation/has/has_infectious_agent_class.md) 
 
-### [has_infectious_agent_class.public](/_public/schema-org/Relation/has/has_infectious_agent_class.public.md) 
+### #is_/same_as :: [has_infectious_agent_class.public](/_public/schema-org/Relation/has/has_infectious_agent_class.public.md) 
 
-### [has_infectious_agent_class.internal](/_internal/schema-org/Relation/has/has_infectious_agent_class.internal.md) 
+### #is_/same_as :: [has_infectious_agent_class.internal](/_internal/schema-org/Relation/has/has_infectious_agent_class.internal.md) 
 
-### [has_infectious_agent_class.protect](/_protect/schema-org/Relation/has/has_infectious_agent_class.protect.md) 
+### #is_/same_as :: [has_infectious_agent_class.protect](/_protect/schema-org/Relation/has/has_infectious_agent_class.protect.md) 
 
-### [has_infectious_agent_class.private](/_private/schema-org/Relation/has/has_infectious_agent_class.private.md) 
+### #is_/same_as :: [has_infectious_agent_class.private](/_private/schema-org/Relation/has/has_infectious_agent_class.private.md) 
 
-### [has_infectious_agent_class.personal](/_personal/schema-org/Relation/has/has_infectious_agent_class.personal.md) 
+### #is_/same_as :: [has_infectious_agent_class.personal](/_personal/schema-org/Relation/has/has_infectious_agent_class.personal.md) 
 
-### [has_infectious_agent_class.secret](/_secret/schema-org/Relation/has/has_infectious_agent_class.secret.md)
+### #is_/same_as :: [has_infectious_agent_class.secret](/_secret/schema-org/Relation/has/has_infectious_agent_class.secret.md)
 

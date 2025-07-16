@@ -330,20 +330,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Holothuroidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.md) 
+### #is_/same_as :: [Holothuroidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.md) 
 
-### [Holothuroidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.public.md) 
+### #is_/same_as :: [Holothuroidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.public.md) 
 
-### [Holothuroidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.internal.md) 
+### #is_/same_as :: [Holothuroidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.internal.md) 
 
-### [Holothuroidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.protect.md) 
+### #is_/same_as :: [Holothuroidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.protect.md) 
 
-### [Holothuroidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.private.md) 
+### #is_/same_as :: [Holothuroidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.private.md) 
 
-### [Holothuroidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.personal.md) 
+### #is_/same_as :: [Holothuroidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.personal.md) 
 
-### [Holothuroidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.secret.md)
+### #is_/same_as :: [Holothuroidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Holothuroidea.secret.md)
 

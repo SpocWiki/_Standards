@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_tourist_type](/_Standards/schema-org/Relation/has/has_tourist_type.md) 
+### #is_/same_as :: [has_tourist_type](/_Standards/schema-org/Relation/has/has_tourist_type.md) 
 
-### [has_tourist_type.public](/_public/schema-org/Relation/has/has_tourist_type.public.md) 
+### #is_/same_as :: [has_tourist_type.public](/_public/schema-org/Relation/has/has_tourist_type.public.md) 
 
-### [has_tourist_type.internal](/_internal/schema-org/Relation/has/has_tourist_type.internal.md) 
+### #is_/same_as :: [has_tourist_type.internal](/_internal/schema-org/Relation/has/has_tourist_type.internal.md) 
 
-### [has_tourist_type.protect](/_protect/schema-org/Relation/has/has_tourist_type.protect.md) 
+### #is_/same_as :: [has_tourist_type.protect](/_protect/schema-org/Relation/has/has_tourist_type.protect.md) 
 
-### [has_tourist_type.private](/_private/schema-org/Relation/has/has_tourist_type.private.md) 
+### #is_/same_as :: [has_tourist_type.private](/_private/schema-org/Relation/has/has_tourist_type.private.md) 
 
-### [has_tourist_type.personal](/_personal/schema-org/Relation/has/has_tourist_type.personal.md) 
+### #is_/same_as :: [has_tourist_type.personal](/_personal/schema-org/Relation/has/has_tourist_type.personal.md) 
 
-### [has_tourist_type.secret](/_secret/schema-org/Relation/has/has_tourist_type.secret.md)
+### #is_/same_as :: [has_tourist_type.secret](/_secret/schema-org/Relation/has/has_tourist_type.secret.md)
 

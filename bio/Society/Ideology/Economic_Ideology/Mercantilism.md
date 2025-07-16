@@ -46,23 +46,19 @@ Commons_category: Mercantilism
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercantilism) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Mercantilism](/_Standards/bio/Society/Ideology/Economic_Ideology/Mercantilism.md) 
+### #is_/same_as :: [Mercantilism](/_Standards/bio/Society/Ideology/Economic_Ideology/Mercantilism.md) 
 
-### [Mercantilism.public](/_public/bio/Society/Ideology/Economic_Ideology/Mercantilism.public.md) 
+### #is_/same_as :: [Mercantilism.public](/_public/bio/Society/Ideology/Economic_Ideology/Mercantilism.public.md) 
 
-### [Mercantilism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Mercantilism.internal.md) 
+### #is_/same_as :: [Mercantilism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Mercantilism.internal.md) 
 
-### [Mercantilism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Mercantilism.protect.md) 
+### #is_/same_as :: [Mercantilism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Mercantilism.protect.md) 
 
-### [Mercantilism.private](/_private/bio/Society/Ideology/Economic_Ideology/Mercantilism.private.md) 
+### #is_/same_as :: [Mercantilism.private](/_private/bio/Society/Ideology/Economic_Ideology/Mercantilism.private.md) 
 
-### [Mercantilism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Mercantilism.personal.md) 
+### #is_/same_as :: [Mercantilism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Mercantilism.personal.md) 
 
-### [Mercantilism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Mercantilism.secret.md)
+### #is_/same_as :: [Mercantilism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Mercantilism.secret.md)
 

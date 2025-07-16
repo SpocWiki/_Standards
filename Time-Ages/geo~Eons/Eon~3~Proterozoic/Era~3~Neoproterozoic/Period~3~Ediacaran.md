@@ -70,17 +70,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~3~Ediacaran](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.md) 
+### #is_/same_as :: [Period~3~Ediacaran](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.md) 
 
-### [Period~3~Ediacaran.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.public.md) 
+### #is_/same_as :: [Period~3~Ediacaran.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.public.md) 
 
-### [Period~3~Ediacaran.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.internal.md) 
+### #is_/same_as :: [Period~3~Ediacaran.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.internal.md) 
 
-### [Period~3~Ediacaran.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.protect.md) 
+### #is_/same_as :: [Period~3~Ediacaran.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.protect.md) 
 
-### [Period~3~Ediacaran.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.private.md) 
+### #is_/same_as :: [Period~3~Ediacaran.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.private.md) 
 
-### [Period~3~Ediacaran.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.personal.md) 
+### #is_/same_as :: [Period~3~Ediacaran.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.personal.md) 
 
-### [Period~3~Ediacaran.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.secret.md)
+### #is_/same_as :: [Period~3~Ediacaran.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.secret.md)
 

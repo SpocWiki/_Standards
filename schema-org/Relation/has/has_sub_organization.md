@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sub_organization](/_Standards/schema-org/Relation/has/has_sub_organization.md) 
+### #is_/same_as :: [has_sub_organization](/_Standards/schema-org/Relation/has/has_sub_organization.md) 
 
-### [has_sub_organization.public](/_public/schema-org/Relation/has/has_sub_organization.public.md) 
+### #is_/same_as :: [has_sub_organization.public](/_public/schema-org/Relation/has/has_sub_organization.public.md) 
 
-### [has_sub_organization.internal](/_internal/schema-org/Relation/has/has_sub_organization.internal.md) 
+### #is_/same_as :: [has_sub_organization.internal](/_internal/schema-org/Relation/has/has_sub_organization.internal.md) 
 
-### [has_sub_organization.protect](/_protect/schema-org/Relation/has/has_sub_organization.protect.md) 
+### #is_/same_as :: [has_sub_organization.protect](/_protect/schema-org/Relation/has/has_sub_organization.protect.md) 
 
-### [has_sub_organization.private](/_private/schema-org/Relation/has/has_sub_organization.private.md) 
+### #is_/same_as :: [has_sub_organization.private](/_private/schema-org/Relation/has/has_sub_organization.private.md) 
 
-### [has_sub_organization.personal](/_personal/schema-org/Relation/has/has_sub_organization.personal.md) 
+### #is_/same_as :: [has_sub_organization.personal](/_personal/schema-org/Relation/has/has_sub_organization.personal.md) 
 
-### [has_sub_organization.secret](/_secret/schema-org/Relation/has/has_sub_organization.secret.md)
+### #is_/same_as :: [has_sub_organization.secret](/_secret/schema-org/Relation/has/has_sub_organization.secret.md)
 

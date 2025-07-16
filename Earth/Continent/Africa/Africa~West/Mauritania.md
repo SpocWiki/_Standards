@@ -468,17 +468,17 @@ Capital :: [[Nouakchott]]
 
 ## Confidential Links & Embeds: 
 
-### [Mauritania](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania.md) 
+### #is_/same_as :: [Mauritania](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania.md) 
 
-### [Mauritania.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania.public.md) 
+### #is_/same_as :: [Mauritania.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania.public.md) 
 
-### [Mauritania.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal.md) 
+### #is_/same_as :: [Mauritania.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal.md) 
 
-### [Mauritania.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect.md) 
+### #is_/same_as :: [Mauritania.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect.md) 
 
-### [Mauritania.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania.private.md) 
+### #is_/same_as :: [Mauritania.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania.private.md) 
 
-### [Mauritania.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal.md) 
+### #is_/same_as :: [Mauritania.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal.md) 
 
-### [Mauritania.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret.md)
+### #is_/same_as :: [Mauritania.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret.md)
 

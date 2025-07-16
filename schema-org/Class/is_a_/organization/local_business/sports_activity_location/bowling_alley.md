@@ -45,17 +45,17 @@ A bowling alley.
 
 ## Confidential Links & Embeds: 
 
-### [bowling_alley](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.md) 
+### #is_/same_as :: [bowling_alley](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.md) 
 
-### [bowling_alley.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.public.md) 
+### #is_/same_as :: [bowling_alley.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.public.md) 
 
-### [bowling_alley.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.internal.md) 
+### #is_/same_as :: [bowling_alley.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.internal.md) 
 
-### [bowling_alley.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.protect.md) 
+### #is_/same_as :: [bowling_alley.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.protect.md) 
 
-### [bowling_alley.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.private.md) 
+### #is_/same_as :: [bowling_alley.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.private.md) 
 
-### [bowling_alley.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.personal.md) 
+### #is_/same_as :: [bowling_alley.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.personal.md) 
 
-### [bowling_alley.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.secret.md)
+### #is_/same_as :: [bowling_alley.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.secret.md)
 

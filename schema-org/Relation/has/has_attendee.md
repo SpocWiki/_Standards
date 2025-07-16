@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_attendee](/_Standards/schema-org/Relation/has/has_attendee.md) 
+### #is_/same_as :: [has_attendee](/_Standards/schema-org/Relation/has/has_attendee.md) 
 
-### [has_attendee.public](/_public/schema-org/Relation/has/has_attendee.public.md) 
+### #is_/same_as :: [has_attendee.public](/_public/schema-org/Relation/has/has_attendee.public.md) 
 
-### [has_attendee.internal](/_internal/schema-org/Relation/has/has_attendee.internal.md) 
+### #is_/same_as :: [has_attendee.internal](/_internal/schema-org/Relation/has/has_attendee.internal.md) 
 
-### [has_attendee.protect](/_protect/schema-org/Relation/has/has_attendee.protect.md) 
+### #is_/same_as :: [has_attendee.protect](/_protect/schema-org/Relation/has/has_attendee.protect.md) 
 
-### [has_attendee.private](/_private/schema-org/Relation/has/has_attendee.private.md) 
+### #is_/same_as :: [has_attendee.private](/_private/schema-org/Relation/has/has_attendee.private.md) 
 
-### [has_attendee.personal](/_personal/schema-org/Relation/has/has_attendee.personal.md) 
+### #is_/same_as :: [has_attendee.personal](/_personal/schema-org/Relation/has/has_attendee.personal.md) 
 
-### [has_attendee.secret](/_secret/schema-org/Relation/has/has_attendee.secret.md)
+### #is_/same_as :: [has_attendee.secret](/_secret/schema-org/Relation/has/has_attendee.secret.md)
 

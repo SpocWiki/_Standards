@@ -49,17 +49,17 @@ Information about how or where to find a topic. Also may contain location data t
 
 ## Confidential Links & Embeds: 
 
-### [how_or_where_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.md) 
+### #is_/same_as :: [how_or_where_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.md) 
 
-### [how_or_where_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.public.md) 
+### #is_/same_as :: [how_or_where_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.public.md) 
 
-### [how_or_where_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.internal.md) 
+### #is_/same_as :: [how_or_where_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.internal.md) 
 
-### [how_or_where_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.protect.md) 
+### #is_/same_as :: [how_or_where_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.protect.md) 
 
-### [how_or_where_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.private.md) 
+### #is_/same_as :: [how_or_where_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.private.md) 
 
-### [how_or_where_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.personal.md) 
+### #is_/same_as :: [how_or_where_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.personal.md) 
 
-### [how_or_where_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.secret.md)
+### #is_/same_as :: [how_or_where_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.secret.md)
 

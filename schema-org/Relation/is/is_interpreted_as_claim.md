@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_interpreted_as_claim](/_Standards/schema-org/Relation/is/is_interpreted_as_claim.md) 
+### #is_/same_as :: [is_interpreted_as_claim](/_Standards/schema-org/Relation/is/is_interpreted_as_claim.md) 
 
-### [is_interpreted_as_claim.public](/_public/schema-org/Relation/is/is_interpreted_as_claim.public.md) 
+### #is_/same_as :: [is_interpreted_as_claim.public](/_public/schema-org/Relation/is/is_interpreted_as_claim.public.md) 
 
-### [is_interpreted_as_claim.internal](/_internal/schema-org/Relation/is/is_interpreted_as_claim.internal.md) 
+### #is_/same_as :: [is_interpreted_as_claim.internal](/_internal/schema-org/Relation/is/is_interpreted_as_claim.internal.md) 
 
-### [is_interpreted_as_claim.protect](/_protect/schema-org/Relation/is/is_interpreted_as_claim.protect.md) 
+### #is_/same_as :: [is_interpreted_as_claim.protect](/_protect/schema-org/Relation/is/is_interpreted_as_claim.protect.md) 
 
-### [is_interpreted_as_claim.private](/_private/schema-org/Relation/is/is_interpreted_as_claim.private.md) 
+### #is_/same_as :: [is_interpreted_as_claim.private](/_private/schema-org/Relation/is/is_interpreted_as_claim.private.md) 
 
-### [is_interpreted_as_claim.personal](/_personal/schema-org/Relation/is/is_interpreted_as_claim.personal.md) 
+### #is_/same_as :: [is_interpreted_as_claim.personal](/_personal/schema-org/Relation/is/is_interpreted_as_claim.personal.md) 
 
-### [is_interpreted_as_claim.secret](/_secret/schema-org/Relation/is/is_interpreted_as_claim.secret.md)
+### #is_/same_as :: [is_interpreted_as_claim.secret](/_secret/schema-org/Relation/is/is_interpreted_as_claim.secret.md)
 

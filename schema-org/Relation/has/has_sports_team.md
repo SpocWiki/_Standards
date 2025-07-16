@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sports_team](/_Standards/schema-org/Relation/has/has_sports_team.md) 
+### #is_/same_as :: [has_sports_team](/_Standards/schema-org/Relation/has/has_sports_team.md) 
 
-### [has_sports_team.public](/_public/schema-org/Relation/has/has_sports_team.public.md) 
+### #is_/same_as :: [has_sports_team.public](/_public/schema-org/Relation/has/has_sports_team.public.md) 
 
-### [has_sports_team.internal](/_internal/schema-org/Relation/has/has_sports_team.internal.md) 
+### #is_/same_as :: [has_sports_team.internal](/_internal/schema-org/Relation/has/has_sports_team.internal.md) 
 
-### [has_sports_team.protect](/_protect/schema-org/Relation/has/has_sports_team.protect.md) 
+### #is_/same_as :: [has_sports_team.protect](/_protect/schema-org/Relation/has/has_sports_team.protect.md) 
 
-### [has_sports_team.private](/_private/schema-org/Relation/has/has_sports_team.private.md) 
+### #is_/same_as :: [has_sports_team.private](/_private/schema-org/Relation/has/has_sports_team.private.md) 
 
-### [has_sports_team.personal](/_personal/schema-org/Relation/has/has_sports_team.personal.md) 
+### #is_/same_as :: [has_sports_team.personal](/_personal/schema-org/Relation/has/has_sports_team.personal.md) 
 
-### [has_sports_team.secret](/_secret/schema-org/Relation/has/has_sports_team.secret.md)
+### #is_/same_as :: [has_sports_team.secret](/_secret/schema-org/Relation/has/has_sports_team.secret.md)
 

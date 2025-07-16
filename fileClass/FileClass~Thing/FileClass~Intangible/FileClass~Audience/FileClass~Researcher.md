@@ -35,17 +35,17 @@ Researchers.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Researcher](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.md) 
+### #is_/same_as :: [FileClass~Researcher](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.md) 
 
-### [FileClass~Researcher.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.public.md) 
+### #is_/same_as :: [FileClass~Researcher.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.public.md) 
 
-### [FileClass~Researcher.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.internal.md) 
+### #is_/same_as :: [FileClass~Researcher.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.internal.md) 
 
-### [FileClass~Researcher.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.protect.md) 
+### #is_/same_as :: [FileClass~Researcher.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.protect.md) 
 
-### [FileClass~Researcher.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.private.md) 
+### #is_/same_as :: [FileClass~Researcher.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.private.md) 
 
-### [FileClass~Researcher.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.personal.md) 
+### #is_/same_as :: [FileClass~Researcher.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.personal.md) 
 
-### [FileClass~Researcher.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.secret.md)
+### #is_/same_as :: [FileClass~Researcher.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.secret.md)
 

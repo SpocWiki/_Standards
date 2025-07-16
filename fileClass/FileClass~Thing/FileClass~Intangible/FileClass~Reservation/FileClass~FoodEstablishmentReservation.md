@@ -75,17 +75,17 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FoodEstablishmentReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.md) 
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.md) 
 
-### [FileClass~FoodEstablishmentReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.public.md) 
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.public.md) 
 
-### [FileClass~FoodEstablishmentReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.internal.md) 
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.internal.md) 
 
-### [FileClass~FoodEstablishmentReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.protect.md) 
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.protect.md) 
 
-### [FileClass~FoodEstablishmentReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.private.md) 
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.private.md) 
 
-### [FileClass~FoodEstablishmentReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.personal.md) 
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.personal.md) 
 
-### [FileClass~FoodEstablishmentReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.secret.md)
+### #is_/same_as :: [FileClass~FoodEstablishmentReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.secret.md)
 

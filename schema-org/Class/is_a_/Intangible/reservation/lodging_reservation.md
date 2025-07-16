@@ -47,17 +47,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [lodging_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.md) 
+### #is_/same_as :: [lodging_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.md) 
 
-### [lodging_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.public.md) 
+### #is_/same_as :: [lodging_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.public.md) 
 
-### [lodging_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.internal.md) 
+### #is_/same_as :: [lodging_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.internal.md) 
 
-### [lodging_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.protect.md) 
+### #is_/same_as :: [lodging_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.protect.md) 
 
-### [lodging_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.private.md) 
+### #is_/same_as :: [lodging_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.private.md) 
 
-### [lodging_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.personal.md) 
+### #is_/same_as :: [lodging_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.personal.md) 
 
-### [lodging_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.secret.md)
+### #is_/same_as :: [lodging_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/lodging_reservation.secret.md)
 

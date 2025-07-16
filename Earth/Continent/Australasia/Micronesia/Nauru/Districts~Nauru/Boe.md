@@ -40,17 +40,17 @@ markerFolder: ./Boe/
 
 ## Confidential Links & Embeds: 
 
-### [Boe](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.md) 
+### #is_/same_as :: [Boe](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.md) 
 
-### [Boe.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.public.md) 
+### #is_/same_as :: [Boe.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.public.md) 
 
-### [Boe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.internal.md) 
+### #is_/same_as :: [Boe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.internal.md) 
 
-### [Boe.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.protect.md) 
+### #is_/same_as :: [Boe.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.protect.md) 
 
-### [Boe.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.private.md) 
+### #is_/same_as :: [Boe.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.private.md) 
 
-### [Boe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.personal.md) 
+### #is_/same_as :: [Boe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.personal.md) 
 
-### [Boe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret.md)
+### #is_/same_as :: [Boe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret.md)
 

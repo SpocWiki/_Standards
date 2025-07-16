@@ -433,21 +433,19 @@ GitHub_topic: obesity
 > [Wikipedia](https://en.wikipedia.org/wiki/Obesity)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Obesity](/_Standards/bio/Metabolism/Nutrition/Obesity.md) 
+### #is_/same_as :: [Obesity](/_Standards/bio/Metabolism/Nutrition/Obesity.md) 
 
-### [Obesity.public](/_public/bio/Metabolism/Nutrition/Obesity.public.md) 
+### #is_/same_as :: [Obesity.public](/_public/bio/Metabolism/Nutrition/Obesity.public.md) 
 
-### [Obesity.internal](/_internal/bio/Metabolism/Nutrition/Obesity.internal.md) 
+### #is_/same_as :: [Obesity.internal](/_internal/bio/Metabolism/Nutrition/Obesity.internal.md) 
 
-### [Obesity.protect](/_protect/bio/Metabolism/Nutrition/Obesity.protect.md) 
+### #is_/same_as :: [Obesity.protect](/_protect/bio/Metabolism/Nutrition/Obesity.protect.md) 
 
-### [Obesity.private](/_private/bio/Metabolism/Nutrition/Obesity.private.md) 
+### #is_/same_as :: [Obesity.private](/_private/bio/Metabolism/Nutrition/Obesity.private.md) 
 
-### [Obesity.personal](/_personal/bio/Metabolism/Nutrition/Obesity.personal.md) 
+### #is_/same_as :: [Obesity.personal](/_personal/bio/Metabolism/Nutrition/Obesity.personal.md) 
 
-### [Obesity.secret](/_secret/bio/Metabolism/Nutrition/Obesity.secret.md)
+### #is_/same_as :: [Obesity.secret](/_secret/bio/Metabolism/Nutrition/Obesity.secret.md)
 

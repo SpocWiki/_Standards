@@ -54,17 +54,17 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
 
 ## Confidential Links & Embeds: 
 
-### [Mygalomorphae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.md) 
+### #is_/same_as :: [Mygalomorphae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.md) 
 
-### [Mygalomorphae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.public.md) 
+### #is_/same_as :: [Mygalomorphae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.public.md) 
 
-### [Mygalomorphae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.internal.md) 
+### #is_/same_as :: [Mygalomorphae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.internal.md) 
 
-### [Mygalomorphae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.protect.md) 
+### #is_/same_as :: [Mygalomorphae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.protect.md) 
 
-### [Mygalomorphae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.private.md) 
+### #is_/same_as :: [Mygalomorphae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.private.md) 
 
-### [Mygalomorphae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.personal.md) 
+### #is_/same_as :: [Mygalomorphae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.personal.md) 
 
-### [Mygalomorphae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.secret.md)
+### #is_/same_as :: [Mygalomorphae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.secret.md)
 

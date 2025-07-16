@@ -107,17 +107,17 @@ Commons_category: "Diseases and disorders"
 
 ## Confidential Links & Embeds: 
 
-### [Disease](/_Standards/bio/Medicine/Disease.md) 
+### #is_/same_as :: [Disease](/_Standards/bio/Medicine/Disease.md) 
 
-### [Disease.public](/_public/bio/Medicine/Disease.public.md) 
+### #is_/same_as :: [Disease.public](/_public/bio/Medicine/Disease.public.md) 
 
-### [Disease.internal](/_internal/bio/Medicine/Disease.internal.md) 
+### #is_/same_as :: [Disease.internal](/_internal/bio/Medicine/Disease.internal.md) 
 
-### [Disease.protect](/_protect/bio/Medicine/Disease.protect.md) 
+### #is_/same_as :: [Disease.protect](/_protect/bio/Medicine/Disease.protect.md) 
 
-### [Disease.private](/_private/bio/Medicine/Disease.private.md) 
+### #is_/same_as :: [Disease.private](/_private/bio/Medicine/Disease.private.md) 
 
-### [Disease.personal](/_personal/bio/Medicine/Disease.personal.md) 
+### #is_/same_as :: [Disease.personal](/_personal/bio/Medicine/Disease.personal.md) 
 
-### [Disease.secret](/_secret/bio/Medicine/Disease.secret.md)
+### #is_/same_as :: [Disease.secret](/_secret/bio/Medicine/Disease.secret.md)
 

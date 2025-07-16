@@ -45,17 +45,17 @@ A courthouse.
 
 ## Confidential Links & Embeds: 
 
-### [courthouse](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.md) 
+### #is_/same_as :: [courthouse](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.md) 
 
-### [courthouse.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.public.md) 
+### #is_/same_as :: [courthouse.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.public.md) 
 
-### [courthouse.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.internal.md) 
+### #is_/same_as :: [courthouse.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.internal.md) 
 
-### [courthouse.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.protect.md) 
+### #is_/same_as :: [courthouse.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.protect.md) 
 
-### [courthouse.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.private.md) 
+### #is_/same_as :: [courthouse.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.private.md) 
 
-### [courthouse.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.personal.md) 
+### #is_/same_as :: [courthouse.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.personal.md) 
 
-### [courthouse.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.secret.md)
+### #is_/same_as :: [courthouse.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/courthouse.secret.md)
 

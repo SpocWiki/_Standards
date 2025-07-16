@@ -100,17 +100,17 @@ to the families of the order Teuthoidea. Smiths. contr. zool., 13:1-32.
 
 ## Confidential Links & Embeds: 
 
-### [Histioteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.md) 
+### #is_/same_as :: [Histioteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.md) 
 
-### [Histioteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.public.md) 
+### #is_/same_as :: [Histioteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.public.md) 
 
-### [Histioteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.internal.md) 
+### #is_/same_as :: [Histioteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.internal.md) 
 
-### [Histioteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.protect.md) 
+### #is_/same_as :: [Histioteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.protect.md) 
 
-### [Histioteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.private.md) 
+### #is_/same_as :: [Histioteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.private.md) 
 
-### [Histioteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.personal.md) 
+### #is_/same_as :: [Histioteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.personal.md) 
 
-### [Histioteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.secret.md)
+### #is_/same_as :: [Histioteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.secret.md)
 

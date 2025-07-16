@@ -52,21 +52,19 @@ Libris_URI: gdsvtjz04dk2szm
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Kilimanjaro) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Mount_Kilimanjaro](/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.md) 
+### #is_/same_as :: [Mount_Kilimanjaro](/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.md) 
 
-### [Mount_Kilimanjaro.public](/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public.md) 
+### #is_/same_as :: [Mount_Kilimanjaro.public](/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public.md) 
 
-### [Mount_Kilimanjaro.internal](/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal.md) 
+### #is_/same_as :: [Mount_Kilimanjaro.internal](/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal.md) 
 
-### [Mount_Kilimanjaro.protect](/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect.md) 
+### #is_/same_as :: [Mount_Kilimanjaro.protect](/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect.md) 
 
-### [Mount_Kilimanjaro.private](/_private/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.private.md) 
+### #is_/same_as :: [Mount_Kilimanjaro.private](/_private/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.private.md) 
 
-### [Mount_Kilimanjaro.personal](/_personal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.personal.md) 
+### #is_/same_as :: [Mount_Kilimanjaro.personal](/_personal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.personal.md) 
 
-### [Mount_Kilimanjaro.secret](/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret.md)
+### #is_/same_as :: [Mount_Kilimanjaro.secret](/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret.md)
 

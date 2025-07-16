@@ -45,17 +45,17 @@ CodingSystem:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalCode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.md) 
+### #is_/same_as :: [FileClass~MedicalCode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.md) 
 
-### [FileClass~MedicalCode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.public.md) 
+### #is_/same_as :: [FileClass~MedicalCode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.public.md) 
 
-### [FileClass~MedicalCode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.internal.md) 
+### #is_/same_as :: [FileClass~MedicalCode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.internal.md) 
 
-### [FileClass~MedicalCode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.protect.md) 
+### #is_/same_as :: [FileClass~MedicalCode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.protect.md) 
 
-### [FileClass~MedicalCode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.private.md) 
+### #is_/same_as :: [FileClass~MedicalCode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.private.md) 
 
-### [FileClass~MedicalCode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.personal.md) 
+### #is_/same_as :: [FileClass~MedicalCode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.personal.md) 
 
-### [FileClass~MedicalCode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.secret.md)
+### #is_/same_as :: [FileClass~MedicalCode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.secret.md)
 

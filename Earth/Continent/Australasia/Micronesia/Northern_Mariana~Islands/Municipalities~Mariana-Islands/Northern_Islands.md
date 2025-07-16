@@ -41,17 +41,17 @@ markerFolder: ./Northern_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Northern_Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.md) 
+### #is_/same_as :: [Northern_Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.md) 
 
-### [Northern_Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.public.md) 
+### #is_/same_as :: [Northern_Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.public.md) 
 
-### [Northern_Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.internal.md) 
+### #is_/same_as :: [Northern_Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.internal.md) 
 
-### [Northern_Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.protect.md) 
+### #is_/same_as :: [Northern_Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.protect.md) 
 
-### [Northern_Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.private.md) 
+### #is_/same_as :: [Northern_Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.private.md) 
 
-### [Northern_Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.personal.md) 
+### #is_/same_as :: [Northern_Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.personal.md) 
 
-### [Northern_Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.secret.md)
+### #is_/same_as :: [Northern_Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.secret.md)
 

@@ -41,23 +41,19 @@ OmegaWiki_Defined_Meaning: "801379"
 > [Wikipedia](https://en.wikipedia.org/wiki/Kingdom%20(biology)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [bio~Kingdom](/_Standards/bio/bio~Domain/Eukaryotes/bio~Kingdom.md) 
+### #is_/same_as :: [bio~Kingdom](/_Standards/bio/bio~Domain/Eukaryotes/bio~Kingdom.md) 
 
-### [bio~Kingdom.public](/_public/bio/bio~Domain/Eukaryotes/bio~Kingdom.public.md) 
+### #is_/same_as :: [bio~Kingdom.public](/_public/bio/bio~Domain/Eukaryotes/bio~Kingdom.public.md) 
 
-### [bio~Kingdom.internal](/_internal/bio/bio~Domain/Eukaryotes/bio~Kingdom.internal.md) 
+### #is_/same_as :: [bio~Kingdom.internal](/_internal/bio/bio~Domain/Eukaryotes/bio~Kingdom.internal.md) 
 
-### [bio~Kingdom.protect](/_protect/bio/bio~Domain/Eukaryotes/bio~Kingdom.protect.md) 
+### #is_/same_as :: [bio~Kingdom.protect](/_protect/bio/bio~Domain/Eukaryotes/bio~Kingdom.protect.md) 
 
-### [bio~Kingdom.private](/_private/bio/bio~Domain/Eukaryotes/bio~Kingdom.private.md) 
+### #is_/same_as :: [bio~Kingdom.private](/_private/bio/bio~Domain/Eukaryotes/bio~Kingdom.private.md) 
 
-### [bio~Kingdom.personal](/_personal/bio/bio~Domain/Eukaryotes/bio~Kingdom.personal.md) 
+### #is_/same_as :: [bio~Kingdom.personal](/_personal/bio/bio~Domain/Eukaryotes/bio~Kingdom.personal.md) 
 
-### [bio~Kingdom.secret](/_secret/bio/bio~Domain/Eukaryotes/bio~Kingdom.secret.md)
+### #is_/same_as :: [bio~Kingdom.secret](/_secret/bio/bio~Domain/Eukaryotes/bio~Kingdom.secret.md)
 

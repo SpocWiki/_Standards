@@ -120,21 +120,19 @@ U.S. National Archives Identifier: "10643327"
 > [Wikipedia](https://en.wikipedia.org/wiki/Statue%20of%20Liberty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Statue of Liberty](/_Standards/Technology/Construction/Architecture/Statue of Liberty.md) 
+### #is_/same_as :: [Statue of Liberty](/_Standards/Technology/Construction/Architecture/Statue of Liberty.md) 
 
-### [Statue of Liberty.public](/_public/Technology/Construction/Architecture/Statue of Liberty.public.md) 
+### #is_/same_as :: [Statue of Liberty.public](/_public/Technology/Construction/Architecture/Statue of Liberty.public.md) 
 
-### [Statue of Liberty.internal](/_internal/Technology/Construction/Architecture/Statue of Liberty.internal.md) 
+### #is_/same_as :: [Statue of Liberty.internal](/_internal/Technology/Construction/Architecture/Statue of Liberty.internal.md) 
 
-### [Statue of Liberty.protect](/_protect/Technology/Construction/Architecture/Statue of Liberty.protect.md) 
+### #is_/same_as :: [Statue of Liberty.protect](/_protect/Technology/Construction/Architecture/Statue of Liberty.protect.md) 
 
-### [Statue of Liberty.private](/_private/Technology/Construction/Architecture/Statue of Liberty.private.md) 
+### #is_/same_as :: [Statue of Liberty.private](/_private/Technology/Construction/Architecture/Statue of Liberty.private.md) 
 
-### [Statue of Liberty.personal](/_personal/Technology/Construction/Architecture/Statue of Liberty.personal.md) 
+### #is_/same_as :: [Statue of Liberty.personal](/_personal/Technology/Construction/Architecture/Statue of Liberty.personal.md) 
 
-### [Statue of Liberty.secret](/_secret/Technology/Construction/Architecture/Statue of Liberty.secret.md)
+### #is_/same_as :: [Statue of Liberty.secret](/_secret/Technology/Construction/Architecture/Statue of Liberty.secret.md)
 

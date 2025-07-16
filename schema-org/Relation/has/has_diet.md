@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_diet](/_Standards/schema-org/Relation/has/has_diet.md) 
+### #is_/same_as :: [has_diet](/_Standards/schema-org/Relation/has/has_diet.md) 
 
-### [has_diet.public](/_public/schema-org/Relation/has/has_diet.public.md) 
+### #is_/same_as :: [has_diet.public](/_public/schema-org/Relation/has/has_diet.public.md) 
 
-### [has_diet.internal](/_internal/schema-org/Relation/has/has_diet.internal.md) 
+### #is_/same_as :: [has_diet.internal](/_internal/schema-org/Relation/has/has_diet.internal.md) 
 
-### [has_diet.protect](/_protect/schema-org/Relation/has/has_diet.protect.md) 
+### #is_/same_as :: [has_diet.protect](/_protect/schema-org/Relation/has/has_diet.protect.md) 
 
-### [has_diet.private](/_private/schema-org/Relation/has/has_diet.private.md) 
+### #is_/same_as :: [has_diet.private](/_private/schema-org/Relation/has/has_diet.private.md) 
 
-### [has_diet.personal](/_personal/schema-org/Relation/has/has_diet.personal.md) 
+### #is_/same_as :: [has_diet.personal](/_personal/schema-org/Relation/has/has_diet.personal.md) 
 
-### [has_diet.secret](/_secret/schema-org/Relation/has/has_diet.secret.md)
+### #is_/same_as :: [has_diet.secret](/_secret/schema-org/Relation/has/has_diet.secret.md)
 

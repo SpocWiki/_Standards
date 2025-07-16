@@ -47,17 +47,17 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
 ## Confidential Links & Embeds: 
 
-### [health_insurance_plan](/_Standards/schema-org/Class/is_a_/Intangible/health_insurance_plan.md) 
+### #is_/same_as :: [health_insurance_plan](/_Standards/schema-org/Class/is_a_/Intangible/health_insurance_plan.md) 
 
-### [health_insurance_plan.public](/_public/schema-org/Class/is_a_/Intangible/health_insurance_plan.public.md) 
+### #is_/same_as :: [health_insurance_plan.public](/_public/schema-org/Class/is_a_/Intangible/health_insurance_plan.public.md) 
 
-### [health_insurance_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/health_insurance_plan.internal.md) 
+### #is_/same_as :: [health_insurance_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/health_insurance_plan.internal.md) 
 
-### [health_insurance_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/health_insurance_plan.protect.md) 
+### #is_/same_as :: [health_insurance_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/health_insurance_plan.protect.md) 
 
-### [health_insurance_plan.private](/_private/schema-org/Class/is_a_/Intangible/health_insurance_plan.private.md) 
+### #is_/same_as :: [health_insurance_plan.private](/_private/schema-org/Class/is_a_/Intangible/health_insurance_plan.private.md) 
 
-### [health_insurance_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/health_insurance_plan.personal.md) 
+### #is_/same_as :: [health_insurance_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/health_insurance_plan.personal.md) 
 
-### [health_insurance_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/health_insurance_plan.secret.md)
+### #is_/same_as :: [health_insurance_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/health_insurance_plan.secret.md)
 

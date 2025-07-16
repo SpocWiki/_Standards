@@ -172,17 +172,17 @@ zoomFeatures: false
 
 ## Confidential Links & Embeds: 
 
-### [America~South](/_Standards/Earth/Continent/America~South.md) 
+### #is_/same_as :: [America~South](/_Standards/Earth/Continent/America~South.md) 
 
-### [America~South.public](/_public/Earth/Continent/America~South.public.md) 
+### #is_/same_as :: [America~South.public](/_public/Earth/Continent/America~South.public.md) 
 
-### [America~South.internal](/_internal/Earth/Continent/America~South.internal.md) 
+### #is_/same_as :: [America~South.internal](/_internal/Earth/Continent/America~South.internal.md) 
 
-### [America~South.protect](/_protect/Earth/Continent/America~South.protect.md) 
+### #is_/same_as :: [America~South.protect](/_protect/Earth/Continent/America~South.protect.md) 
 
-### [America~South.private](/_private/Earth/Continent/America~South.private.md) 
+### #is_/same_as :: [America~South.private](/_private/Earth/Continent/America~South.private.md) 
 
-### [America~South.personal](/_personal/Earth/Continent/America~South.personal.md) 
+### #is_/same_as :: [America~South.personal](/_personal/Earth/Continent/America~South.personal.md) 
 
-### [America~South.secret](/_secret/Earth/Continent/America~South.secret.md)
+### #is_/same_as :: [America~South.secret](/_secret/Earth/Continent/America~South.secret.md)
 

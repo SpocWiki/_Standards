@@ -78,20 +78,19 @@ Comments          Garden centipede, Lithobiidae
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chilopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.md) 
+### #is_/same_as :: [Chilopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.md) 
 
-### [Chilopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.public.md) 
+### #is_/same_as :: [Chilopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.public.md) 
 
-### [Chilopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.internal.md) 
+### #is_/same_as :: [Chilopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.internal.md) 
 
-### [Chilopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.protect.md) 
+### #is_/same_as :: [Chilopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.protect.md) 
 
-### [Chilopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.private.md) 
+### #is_/same_as :: [Chilopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.private.md) 
 
-### [Chilopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.personal.md) 
+### #is_/same_as :: [Chilopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.personal.md) 
 
-### [Chilopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.secret.md)
+### #is_/same_as :: [Chilopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.secret.md)
 

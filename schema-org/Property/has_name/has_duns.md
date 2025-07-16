@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_duns](/_Standards/schema-org/Property/has_name/has_duns.md) 
+### #is_/same_as :: [has_duns](/_Standards/schema-org/Property/has_name/has_duns.md) 
 
-### [has_duns.public](/_public/schema-org/Property/has_name/has_duns.public.md) 
+### #is_/same_as :: [has_duns.public](/_public/schema-org/Property/has_name/has_duns.public.md) 
 
-### [has_duns.internal](/_internal/schema-org/Property/has_name/has_duns.internal.md) 
+### #is_/same_as :: [has_duns.internal](/_internal/schema-org/Property/has_name/has_duns.internal.md) 
 
-### [has_duns.protect](/_protect/schema-org/Property/has_name/has_duns.protect.md) 
+### #is_/same_as :: [has_duns.protect](/_protect/schema-org/Property/has_name/has_duns.protect.md) 
 
-### [has_duns.private](/_private/schema-org/Property/has_name/has_duns.private.md) 
+### #is_/same_as :: [has_duns.private](/_private/schema-org/Property/has_name/has_duns.private.md) 
 
-### [has_duns.personal](/_personal/schema-org/Property/has_name/has_duns.personal.md) 
+### #is_/same_as :: [has_duns.personal](/_personal/schema-org/Property/has_name/has_duns.personal.md) 
 
-### [has_duns.secret](/_secret/schema-org/Property/has_name/has_duns.secret.md)
+### #is_/same_as :: [has_duns.secret](/_secret/schema-org/Property/has_name/has_duns.secret.md)
 

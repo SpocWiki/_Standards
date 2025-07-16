@@ -45,17 +45,17 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 
 ## Confidential Links & Embeds: 
 
-### [medical_contraindication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_contraindication.md) 
+### #is_/same_as :: [medical_contraindication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_contraindication.md) 
 
-### [medical_contraindication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_contraindication.public.md) 
+### #is_/same_as :: [medical_contraindication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_contraindication.public.md) 
 
-### [medical_contraindication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_contraindication.internal.md) 
+### #is_/same_as :: [medical_contraindication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_contraindication.internal.md) 
 
-### [medical_contraindication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_contraindication.protect.md) 
+### #is_/same_as :: [medical_contraindication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_contraindication.protect.md) 
 
-### [medical_contraindication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_contraindication.private.md) 
+### #is_/same_as :: [medical_contraindication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_contraindication.private.md) 
 
-### [medical_contraindication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_contraindication.personal.md) 
+### #is_/same_as :: [medical_contraindication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_contraindication.personal.md) 
 
-### [medical_contraindication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_contraindication.secret.md)
+### #is_/same_as :: [medical_contraindication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_contraindication.secret.md)
 

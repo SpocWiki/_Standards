@@ -157,17 +157,17 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
 
 ## Confidential Links & Embeds: 
 
-### [Enoploteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.md) 
+### #is_/same_as :: [Enoploteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.md) 
 
-### [Enoploteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.public.md) 
+### #is_/same_as :: [Enoploteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.public.md) 
 
-### [Enoploteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.internal.md) 
+### #is_/same_as :: [Enoploteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.internal.md) 
 
-### [Enoploteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.protect.md) 
+### #is_/same_as :: [Enoploteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.protect.md) 
 
-### [Enoploteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.private.md) 
+### #is_/same_as :: [Enoploteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.private.md) 
 
-### [Enoploteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.personal.md) 
+### #is_/same_as :: [Enoploteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.personal.md) 
 
-### [Enoploteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.secret.md)
+### #is_/same_as :: [Enoploteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.secret.md)
 

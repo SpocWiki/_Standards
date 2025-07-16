@@ -35,17 +35,17 @@ Residence type: Single-family home.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SingleFamilyResidence](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.md) 
+### #is_/same_as :: [FileClass~SingleFamilyResidence](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.md) 
 
-### [FileClass~SingleFamilyResidence.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.public.md) 
+### #is_/same_as :: [FileClass~SingleFamilyResidence.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.public.md) 
 
-### [FileClass~SingleFamilyResidence.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.internal.md) 
+### #is_/same_as :: [FileClass~SingleFamilyResidence.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.internal.md) 
 
-### [FileClass~SingleFamilyResidence.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.protect.md) 
+### #is_/same_as :: [FileClass~SingleFamilyResidence.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.protect.md) 
 
-### [FileClass~SingleFamilyResidence.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.private.md) 
+### #is_/same_as :: [FileClass~SingleFamilyResidence.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.private.md) 
 
-### [FileClass~SingleFamilyResidence.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.personal.md) 
+### #is_/same_as :: [FileClass~SingleFamilyResidence.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.personal.md) 
 
-### [FileClass~SingleFamilyResidence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.secret.md)
+### #is_/same_as :: [FileClass~SingleFamilyResidence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House/FileClass~SingleFamilyResidence.secret.md)
 

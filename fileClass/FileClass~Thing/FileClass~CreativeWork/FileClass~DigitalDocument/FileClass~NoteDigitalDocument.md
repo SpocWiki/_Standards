@@ -35,17 +35,17 @@ A file containing a note, primarily for the author.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~NoteDigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.md) 
+### #is_/same_as :: [FileClass~NoteDigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.md) 
 
-### [FileClass~NoteDigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.public.md) 
+### #is_/same_as :: [FileClass~NoteDigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.public.md) 
 
-### [FileClass~NoteDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.internal.md) 
+### #is_/same_as :: [FileClass~NoteDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.internal.md) 
 
-### [FileClass~NoteDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.protect.md) 
+### #is_/same_as :: [FileClass~NoteDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.protect.md) 
 
-### [FileClass~NoteDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.private.md) 
+### #is_/same_as :: [FileClass~NoteDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.private.md) 
 
-### [FileClass~NoteDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.personal.md) 
+### #is_/same_as :: [FileClass~NoteDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.personal.md) 
 
-### [FileClass~NoteDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.secret.md)
+### #is_/same_as :: [FileClass~NoteDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.secret.md)
 

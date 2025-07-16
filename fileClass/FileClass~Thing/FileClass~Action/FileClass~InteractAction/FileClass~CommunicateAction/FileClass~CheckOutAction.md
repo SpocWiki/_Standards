@@ -41,17 +41,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CheckOutAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.md) 
+### #is_/same_as :: [FileClass~CheckOutAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.md) 
 
-### [FileClass~CheckOutAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.public.md) 
+### #is_/same_as :: [FileClass~CheckOutAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.public.md) 
 
-### [FileClass~CheckOutAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.internal.md) 
+### #is_/same_as :: [FileClass~CheckOutAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.internal.md) 
 
-### [FileClass~CheckOutAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.protect.md) 
+### #is_/same_as :: [FileClass~CheckOutAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.protect.md) 
 
-### [FileClass~CheckOutAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.private.md) 
+### #is_/same_as :: [FileClass~CheckOutAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.private.md) 
 
-### [FileClass~CheckOutAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.personal.md) 
+### #is_/same_as :: [FileClass~CheckOutAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.personal.md) 
 
-### [FileClass~CheckOutAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.secret.md)
+### #is_/same_as :: [FileClass~CheckOutAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckOutAction.secret.md)
 

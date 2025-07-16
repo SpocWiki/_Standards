@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_cost_origin](/_Standards/schema-org/Property/Texts/has_cost_origin.md) 
+### #is_/same_as :: [has_cost_origin](/_Standards/schema-org/Property/Texts/has_cost_origin.md) 
 
-### [has_cost_origin.public](/_public/schema-org/Property/Texts/has_cost_origin.public.md) 
+### #is_/same_as :: [has_cost_origin.public](/_public/schema-org/Property/Texts/has_cost_origin.public.md) 
 
-### [has_cost_origin.internal](/_internal/schema-org/Property/Texts/has_cost_origin.internal.md) 
+### #is_/same_as :: [has_cost_origin.internal](/_internal/schema-org/Property/Texts/has_cost_origin.internal.md) 
 
-### [has_cost_origin.protect](/_protect/schema-org/Property/Texts/has_cost_origin.protect.md) 
+### #is_/same_as :: [has_cost_origin.protect](/_protect/schema-org/Property/Texts/has_cost_origin.protect.md) 
 
-### [has_cost_origin.private](/_private/schema-org/Property/Texts/has_cost_origin.private.md) 
+### #is_/same_as :: [has_cost_origin.private](/_private/schema-org/Property/Texts/has_cost_origin.private.md) 
 
-### [has_cost_origin.personal](/_personal/schema-org/Property/Texts/has_cost_origin.personal.md) 
+### #is_/same_as :: [has_cost_origin.personal](/_personal/schema-org/Property/Texts/has_cost_origin.personal.md) 
 
-### [has_cost_origin.secret](/_secret/schema-org/Property/Texts/has_cost_origin.secret.md)
+### #is_/same_as :: [has_cost_origin.secret](/_secret/schema-org/Property/Texts/has_cost_origin.secret.md)
 

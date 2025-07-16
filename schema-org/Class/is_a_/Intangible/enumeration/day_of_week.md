@@ -45,17 +45,17 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 ## Confidential Links & Embeds: 
 
-### [day_of_week](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.md) 
+### #is_/same_as :: [day_of_week](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.md) 
 
-### [day_of_week.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.public.md) 
+### #is_/same_as :: [day_of_week.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.public.md) 
 
-### [day_of_week.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.internal.md) 
+### #is_/same_as :: [day_of_week.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.internal.md) 
 
-### [day_of_week.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.protect.md) 
+### #is_/same_as :: [day_of_week.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.protect.md) 
 
-### [day_of_week.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.private.md) 
+### #is_/same_as :: [day_of_week.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.private.md) 
 
-### [day_of_week.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.personal.md) 
+### #is_/same_as :: [day_of_week.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.personal.md) 
 
-### [day_of_week.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.secret.md)
+### #is_/same_as :: [day_of_week.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.secret.md)
 

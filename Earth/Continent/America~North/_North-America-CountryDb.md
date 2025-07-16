@@ -445,17 +445,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_North-America-CountryDb](/_Standards/Earth/Continent/America~North/_North-America-CountryDb.md) 
+### #is_/same_as :: [_North-America-CountryDb](/_Standards/Earth/Continent/America~North/_North-America-CountryDb.md) 
 
-### [_North-America-CountryDb.public](/_public/Earth/Continent/America~North/_North-America-CountryDb.public.md) 
+### #is_/same_as :: [_North-America-CountryDb.public](/_public/Earth/Continent/America~North/_North-America-CountryDb.public.md) 
 
-### [_North-America-CountryDb.internal](/_internal/Earth/Continent/America~North/_North-America-CountryDb.internal.md) 
+### #is_/same_as :: [_North-America-CountryDb.internal](/_internal/Earth/Continent/America~North/_North-America-CountryDb.internal.md) 
 
-### [_North-America-CountryDb.protect](/_protect/Earth/Continent/America~North/_North-America-CountryDb.protect.md) 
+### #is_/same_as :: [_North-America-CountryDb.protect](/_protect/Earth/Continent/America~North/_North-America-CountryDb.protect.md) 
 
-### [_North-America-CountryDb.private](/_private/Earth/Continent/America~North/_North-America-CountryDb.private.md) 
+### #is_/same_as :: [_North-America-CountryDb.private](/_private/Earth/Continent/America~North/_North-America-CountryDb.private.md) 
 
-### [_North-America-CountryDb.personal](/_personal/Earth/Continent/America~North/_North-America-CountryDb.personal.md) 
+### #is_/same_as :: [_North-America-CountryDb.personal](/_personal/Earth/Continent/America~North/_North-America-CountryDb.personal.md) 
 
-### [_North-America-CountryDb.secret](/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret.md)
+### #is_/same_as :: [_North-America-CountryDb.secret](/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret.md)
 

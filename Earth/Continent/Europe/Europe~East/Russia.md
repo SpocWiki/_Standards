@@ -1168,17 +1168,17 @@ Capital :: [Moskwa](Moskwa)
 
 ## Confidential Links & Embeds: 
 
-### [Russia](/_Standards/Earth/Continent/Europe/Europe~East/Russia.md) 
+### #is_/same_as :: [Russia](/_Standards/Earth/Continent/Europe/Europe~East/Russia.md) 
 
-### [Russia.public](/_public/Earth/Continent/Europe/Europe~East/Russia.public.md) 
+### #is_/same_as :: [Russia.public](/_public/Earth/Continent/Europe/Europe~East/Russia.public.md) 
 
-### [Russia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia.internal.md) 
+### #is_/same_as :: [Russia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia.internal.md) 
 
-### [Russia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia.protect.md) 
+### #is_/same_as :: [Russia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia.protect.md) 
 
-### [Russia.private](/_private/Earth/Continent/Europe/Europe~East/Russia.private.md) 
+### #is_/same_as :: [Russia.private](/_private/Earth/Continent/Europe/Europe~East/Russia.private.md) 
 
-### [Russia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia.personal.md) 
+### #is_/same_as :: [Russia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia.personal.md) 
 
-### [Russia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia.secret.md)
+### #is_/same_as :: [Russia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia.secret.md)
 

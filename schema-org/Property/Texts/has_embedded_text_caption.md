@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_embedded_text_caption](/_Standards/schema-org/Property/Texts/has_embedded_text_caption.md) 
+### #is_/same_as :: [has_embedded_text_caption](/_Standards/schema-org/Property/Texts/has_embedded_text_caption.md) 
 
-### [has_embedded_text_caption.public](/_public/schema-org/Property/Texts/has_embedded_text_caption.public.md) 
+### #is_/same_as :: [has_embedded_text_caption.public](/_public/schema-org/Property/Texts/has_embedded_text_caption.public.md) 
 
-### [has_embedded_text_caption.internal](/_internal/schema-org/Property/Texts/has_embedded_text_caption.internal.md) 
+### #is_/same_as :: [has_embedded_text_caption.internal](/_internal/schema-org/Property/Texts/has_embedded_text_caption.internal.md) 
 
-### [has_embedded_text_caption.protect](/_protect/schema-org/Property/Texts/has_embedded_text_caption.protect.md) 
+### #is_/same_as :: [has_embedded_text_caption.protect](/_protect/schema-org/Property/Texts/has_embedded_text_caption.protect.md) 
 
-### [has_embedded_text_caption.private](/_private/schema-org/Property/Texts/has_embedded_text_caption.private.md) 
+### #is_/same_as :: [has_embedded_text_caption.private](/_private/schema-org/Property/Texts/has_embedded_text_caption.private.md) 
 
-### [has_embedded_text_caption.personal](/_personal/schema-org/Property/Texts/has_embedded_text_caption.personal.md) 
+### #is_/same_as :: [has_embedded_text_caption.personal](/_personal/schema-org/Property/Texts/has_embedded_text_caption.personal.md) 
 
-### [has_embedded_text_caption.secret](/_secret/schema-org/Property/Texts/has_embedded_text_caption.secret.md)
+### #is_/same_as :: [has_embedded_text_caption.secret](/_secret/schema-org/Property/Texts/has_embedded_text_caption.secret.md)
 

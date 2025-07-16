@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sub_stage_suffix](/_Standards/schema-org/Property/Texts/has_sub_stage_suffix.md) 
+### #is_/same_as :: [has_sub_stage_suffix](/_Standards/schema-org/Property/Texts/has_sub_stage_suffix.md) 
 
-### [has_sub_stage_suffix.public](/_public/schema-org/Property/Texts/has_sub_stage_suffix.public.md) 
+### #is_/same_as :: [has_sub_stage_suffix.public](/_public/schema-org/Property/Texts/has_sub_stage_suffix.public.md) 
 
-### [has_sub_stage_suffix.internal](/_internal/schema-org/Property/Texts/has_sub_stage_suffix.internal.md) 
+### #is_/same_as :: [has_sub_stage_suffix.internal](/_internal/schema-org/Property/Texts/has_sub_stage_suffix.internal.md) 
 
-### [has_sub_stage_suffix.protect](/_protect/schema-org/Property/Texts/has_sub_stage_suffix.protect.md) 
+### #is_/same_as :: [has_sub_stage_suffix.protect](/_protect/schema-org/Property/Texts/has_sub_stage_suffix.protect.md) 
 
-### [has_sub_stage_suffix.private](/_private/schema-org/Property/Texts/has_sub_stage_suffix.private.md) 
+### #is_/same_as :: [has_sub_stage_suffix.private](/_private/schema-org/Property/Texts/has_sub_stage_suffix.private.md) 
 
-### [has_sub_stage_suffix.personal](/_personal/schema-org/Property/Texts/has_sub_stage_suffix.personal.md) 
+### #is_/same_as :: [has_sub_stage_suffix.personal](/_personal/schema-org/Property/Texts/has_sub_stage_suffix.personal.md) 
 
-### [has_sub_stage_suffix.secret](/_secret/schema-org/Property/Texts/has_sub_stage_suffix.secret.md)
+### #is_/same_as :: [has_sub_stage_suffix.secret](/_secret/schema-org/Property/Texts/has_sub_stage_suffix.secret.md)
 

@@ -55,17 +55,17 @@ Commons_category: Cells
 
 ## Confidential Links & Embeds: 
 
-### [Cell(Biology)](/_Standards/bio/Cell(Biology).md) 
+### #is_/same_as :: [Cell(Biology)](/_Standards/bio/Cell(Biology).md) 
 
-### [Cell(Biology).public](/_public/bio/Cell(Biology).public.md) 
+### #is_/same_as :: [Cell(Biology).public](/_public/bio/Cell(Biology).public.md) 
 
-### [Cell(Biology).internal](/_internal/bio/Cell(Biology).internal.md) 
+### #is_/same_as :: [Cell(Biology).internal](/_internal/bio/Cell(Biology).internal.md) 
 
-### [Cell(Biology).protect](/_protect/bio/Cell(Biology).protect.md) 
+### #is_/same_as :: [Cell(Biology).protect](/_protect/bio/Cell(Biology).protect.md) 
 
-### [Cell(Biology).private](/_private/bio/Cell(Biology).private.md) 
+### #is_/same_as :: [Cell(Biology).private](/_private/bio/Cell(Biology).private.md) 
 
-### [Cell(Biology).personal](/_personal/bio/Cell(Biology).personal.md) 
+### #is_/same_as :: [Cell(Biology).personal](/_personal/bio/Cell(Biology).personal.md) 
 
-### [Cell(Biology).secret](/_secret/bio/Cell(Biology).secret.md)
+### #is_/same_as :: [Cell(Biology).secret](/_secret/bio/Cell(Biology).secret.md)
 

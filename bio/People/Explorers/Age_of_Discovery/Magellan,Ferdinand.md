@@ -91,22 +91,19 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Magellan%20Signat
 > [Wikipedia](https://en.wikipedia.org/wiki/Ferdinand%20Magellan)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Magellan,Ferdinand](/_Standards/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.md) 
+### #is_/same_as :: [Magellan,Ferdinand](/_Standards/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.md) 
 
-### [Magellan,Ferdinand.public](/_public/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.public.md) 
+### #is_/same_as :: [Magellan,Ferdinand.public](/_public/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.public.md) 
 
-### [Magellan,Ferdinand.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.internal.md) 
+### #is_/same_as :: [Magellan,Ferdinand.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.internal.md) 
 
-### [Magellan,Ferdinand.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.protect.md) 
+### #is_/same_as :: [Magellan,Ferdinand.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.protect.md) 
 
-### [Magellan,Ferdinand.private](/_private/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.private.md) 
+### #is_/same_as :: [Magellan,Ferdinand.private](/_private/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.private.md) 
 
-### [Magellan,Ferdinand.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.personal.md) 
+### #is_/same_as :: [Magellan,Ferdinand.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.personal.md) 
 
-### [Magellan,Ferdinand.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.secret.md)
+### #is_/same_as :: [Magellan,Ferdinand.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Magellan,Ferdinand.secret.md)
 

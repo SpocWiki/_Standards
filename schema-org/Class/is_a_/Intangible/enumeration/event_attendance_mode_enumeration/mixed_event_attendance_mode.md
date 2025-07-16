@@ -49,17 +49,17 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 
 ## Confidential Links & Embeds: 
 
-### [mixed_event_attendance_mode](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md) 
+### #is_/same_as :: [mixed_event_attendance_mode](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md) 
 
-### [mixed_event_attendance_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.public.md) 
+### #is_/same_as :: [mixed_event_attendance_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.public.md) 
 
-### [mixed_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal.md) 
+### #is_/same_as :: [mixed_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal.md) 
 
-### [mixed_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.protect.md) 
+### #is_/same_as :: [mixed_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.protect.md) 
 
-### [mixed_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.private.md) 
+### #is_/same_as :: [mixed_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.private.md) 
 
-### [mixed_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.personal.md) 
+### #is_/same_as :: [mixed_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.personal.md) 
 
-### [mixed_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret.md)
+### #is_/same_as :: [mixed_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret.md)
 

@@ -45,17 +45,17 @@ A toy store.
 
 ## Confidential Links & Embeds: 
 
-### [toy_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/toy_store.md) 
+### #is_/same_as :: [toy_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/toy_store.md) 
 
-### [toy_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/toy_store.public.md) 
+### #is_/same_as :: [toy_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/toy_store.public.md) 
 
-### [toy_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/toy_store.internal.md) 
+### #is_/same_as :: [toy_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/toy_store.internal.md) 
 
-### [toy_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/toy_store.protect.md) 
+### #is_/same_as :: [toy_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/toy_store.protect.md) 
 
-### [toy_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/toy_store.private.md) 
+### #is_/same_as :: [toy_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/toy_store.private.md) 
 
-### [toy_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/toy_store.personal.md) 
+### #is_/same_as :: [toy_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/toy_store.personal.md) 
 
-### [toy_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/toy_store.secret.md)
+### #is_/same_as :: [toy_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/toy_store.secret.md)
 

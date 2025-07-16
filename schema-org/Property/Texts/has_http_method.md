@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_http_method](/_Standards/schema-org/Property/Texts/has_http_method.md) 
+### #is_/same_as :: [has_http_method](/_Standards/schema-org/Property/Texts/has_http_method.md) 
 
-### [has_http_method.public](/_public/schema-org/Property/Texts/has_http_method.public.md) 
+### #is_/same_as :: [has_http_method.public](/_public/schema-org/Property/Texts/has_http_method.public.md) 
 
-### [has_http_method.internal](/_internal/schema-org/Property/Texts/has_http_method.internal.md) 
+### #is_/same_as :: [has_http_method.internal](/_internal/schema-org/Property/Texts/has_http_method.internal.md) 
 
-### [has_http_method.protect](/_protect/schema-org/Property/Texts/has_http_method.protect.md) 
+### #is_/same_as :: [has_http_method.protect](/_protect/schema-org/Property/Texts/has_http_method.protect.md) 
 
-### [has_http_method.private](/_private/schema-org/Property/Texts/has_http_method.private.md) 
+### #is_/same_as :: [has_http_method.private](/_private/schema-org/Property/Texts/has_http_method.private.md) 
 
-### [has_http_method.personal](/_personal/schema-org/Property/Texts/has_http_method.personal.md) 
+### #is_/same_as :: [has_http_method.personal](/_personal/schema-org/Property/Texts/has_http_method.personal.md) 
 
-### [has_http_method.secret](/_secret/schema-org/Property/Texts/has_http_method.secret.md)
+### #is_/same_as :: [has_http_method.secret](/_secret/schema-org/Property/Texts/has_http_method.secret.md)
 

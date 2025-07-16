@@ -51,17 +51,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### [publication_issue](/_Standards/schema-org/Class/is_a_/creative_work/publication_issue.md) 
+### #is_/same_as :: [publication_issue](/_Standards/schema-org/Class/is_a_/creative_work/publication_issue.md) 
 
-### [publication_issue.public](/_public/schema-org/Class/is_a_/creative_work/publication_issue.public.md) 
+### #is_/same_as :: [publication_issue.public](/_public/schema-org/Class/is_a_/creative_work/publication_issue.public.md) 
 
-### [publication_issue.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_issue.internal.md) 
+### #is_/same_as :: [publication_issue.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_issue.internal.md) 
 
-### [publication_issue.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_issue.protect.md) 
+### #is_/same_as :: [publication_issue.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_issue.protect.md) 
 
-### [publication_issue.private](/_private/schema-org/Class/is_a_/creative_work/publication_issue.private.md) 
+### #is_/same_as :: [publication_issue.private](/_private/schema-org/Class/is_a_/creative_work/publication_issue.private.md) 
 
-### [publication_issue.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_issue.personal.md) 
+### #is_/same_as :: [publication_issue.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_issue.personal.md) 
 
-### [publication_issue.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_issue.secret.md)
+### #is_/same_as :: [publication_issue.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_issue.secret.md)
 

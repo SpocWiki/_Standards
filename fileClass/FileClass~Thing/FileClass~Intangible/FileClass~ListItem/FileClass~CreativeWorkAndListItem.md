@@ -1226,17 +1226,17 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWorkAndListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.md) 
 
-### [FileClass~CreativeWorkAndListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.public.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.public.md) 
 
-### [FileClass~CreativeWorkAndListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.internal.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.internal.md) 
 
-### [FileClass~CreativeWorkAndListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.protect.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.protect.md) 
 
-### [FileClass~CreativeWorkAndListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.private.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.private.md) 
 
-### [FileClass~CreativeWorkAndListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.personal.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.personal.md) 
 
-### [FileClass~CreativeWorkAndListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.secret.md)
+### #is_/same_as :: [FileClass~CreativeWorkAndListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem.secret.md)
 

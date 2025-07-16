@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_layout_image](/_Standards/schema-org/Relation/has/has_layout_image.md) 
+### #is_/same_as :: [has_layout_image](/_Standards/schema-org/Relation/has/has_layout_image.md) 
 
-### [has_layout_image.public](/_public/schema-org/Relation/has/has_layout_image.public.md) 
+### #is_/same_as :: [has_layout_image.public](/_public/schema-org/Relation/has/has_layout_image.public.md) 
 
-### [has_layout_image.internal](/_internal/schema-org/Relation/has/has_layout_image.internal.md) 
+### #is_/same_as :: [has_layout_image.internal](/_internal/schema-org/Relation/has/has_layout_image.internal.md) 
 
-### [has_layout_image.protect](/_protect/schema-org/Relation/has/has_layout_image.protect.md) 
+### #is_/same_as :: [has_layout_image.protect](/_protect/schema-org/Relation/has/has_layout_image.protect.md) 
 
-### [has_layout_image.private](/_private/schema-org/Relation/has/has_layout_image.private.md) 
+### #is_/same_as :: [has_layout_image.private](/_private/schema-org/Relation/has/has_layout_image.private.md) 
 
-### [has_layout_image.personal](/_personal/schema-org/Relation/has/has_layout_image.personal.md) 
+### #is_/same_as :: [has_layout_image.personal](/_personal/schema-org/Relation/has/has_layout_image.personal.md) 
 
-### [has_layout_image.secret](/_secret/schema-org/Relation/has/has_layout_image.secret.md)
+### #is_/same_as :: [has_layout_image.secret](/_secret/schema-org/Relation/has/has_layout_image.secret.md)
 

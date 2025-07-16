@@ -47,17 +47,17 @@ A delivery service through which content is provided via broadcast over the air 
 
 ## Confidential Links & Embeds: 
 
-### [broadcast_service](/_Standards/schema-org/Class/is_a_/Intangible/service/broadcast_service.md) 
+### #is_/same_as :: [broadcast_service](/_Standards/schema-org/Class/is_a_/Intangible/service/broadcast_service.md) 
 
-### [broadcast_service.public](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service.public.md) 
+### #is_/same_as :: [broadcast_service.public](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service.public.md) 
 
-### [broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service.internal.md) 
+### #is_/same_as :: [broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service.internal.md) 
 
-### [broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service.protect.md) 
+### #is_/same_as :: [broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service.protect.md) 
 
-### [broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service.private.md) 
+### #is_/same_as :: [broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service.private.md) 
 
-### [broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service.personal.md) 
+### #is_/same_as :: [broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service.personal.md) 
 
-### [broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service.secret.md)
+### #is_/same_as :: [broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service.secret.md)
 

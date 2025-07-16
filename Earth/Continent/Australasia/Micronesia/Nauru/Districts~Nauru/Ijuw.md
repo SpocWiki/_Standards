@@ -41,17 +41,17 @@ markerFolder: ./Ijuw/
 
 ## Confidential Links & Embeds: 
 
-### [Ijuw](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.md) 
+### #is_/same_as :: [Ijuw](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.md) 
 
-### [Ijuw.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.public.md) 
+### #is_/same_as :: [Ijuw.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.public.md) 
 
-### [Ijuw.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.internal.md) 
+### #is_/same_as :: [Ijuw.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.internal.md) 
 
-### [Ijuw.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.protect.md) 
+### #is_/same_as :: [Ijuw.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.protect.md) 
 
-### [Ijuw.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.private.md) 
+### #is_/same_as :: [Ijuw.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.private.md) 
 
-### [Ijuw.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.personal.md) 
+### #is_/same_as :: [Ijuw.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.personal.md) 
 
-### [Ijuw.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.secret.md)
+### #is_/same_as :: [Ijuw.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.secret.md)
 

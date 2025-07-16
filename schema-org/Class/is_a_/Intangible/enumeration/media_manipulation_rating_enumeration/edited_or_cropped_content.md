@@ -61,17 +61,17 @@ or editing out large portions from the recording.
 
 ## Confidential Links & Embeds: 
 
-### [edited_or_cropped_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md) 
+### #is_/same_as :: [edited_or_cropped_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md) 
 
-### [edited_or_cropped_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.public.md) 
+### #is_/same_as :: [edited_or_cropped_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.public.md) 
 
-### [edited_or_cropped_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md) 
+### #is_/same_as :: [edited_or_cropped_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md) 
 
-### [edited_or_cropped_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect.md) 
+### #is_/same_as :: [edited_or_cropped_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect.md) 
 
-### [edited_or_cropped_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private.md) 
+### #is_/same_as :: [edited_or_cropped_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private.md) 
 
-### [edited_or_cropped_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md) 
+### #is_/same_as :: [edited_or_cropped_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md) 
 
-### [edited_or_cropped_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md)
+### #is_/same_as :: [edited_or_cropped_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md)
 

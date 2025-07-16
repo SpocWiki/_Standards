@@ -50,17 +50,17 @@ Indicates a document for which the text is conclusively what the law says and is
 
 ## Confidential Links & Embeds: 
 
-### [definitive_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.md) 
+### #is_/same_as :: [definitive_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.md) 
 
-### [definitive_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.public.md) 
+### #is_/same_as :: [definitive_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.public.md) 
 
-### [definitive_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.internal.md) 
+### #is_/same_as :: [definitive_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.internal.md) 
 
-### [definitive_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.protect.md) 
+### #is_/same_as :: [definitive_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.protect.md) 
 
-### [definitive_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.private.md) 
+### #is_/same_as :: [definitive_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.private.md) 
 
-### [definitive_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.personal.md) 
+### #is_/same_as :: [definitive_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.personal.md) 
 
-### [definitive_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.secret.md)
+### #is_/same_as :: [definitive_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.secret.md)
 

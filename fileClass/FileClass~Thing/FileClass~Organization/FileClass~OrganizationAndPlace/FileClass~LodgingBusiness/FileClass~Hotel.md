@@ -39,17 +39,17 @@ A hotel is an establishment that provides lodging paid on a short-term basis (so
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Hotel](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.md) 
+### #is_/same_as :: [FileClass~Hotel](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.md) 
 
-### [FileClass~Hotel.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.public.md) 
+### #is_/same_as :: [FileClass~Hotel.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.public.md) 
 
-### [FileClass~Hotel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.internal.md) 
+### #is_/same_as :: [FileClass~Hotel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.internal.md) 
 
-### [FileClass~Hotel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.protect.md) 
+### #is_/same_as :: [FileClass~Hotel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.protect.md) 
 
-### [FileClass~Hotel.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.private.md) 
+### #is_/same_as :: [FileClass~Hotel.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.private.md) 
 
-### [FileClass~Hotel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.personal.md) 
+### #is_/same_as :: [FileClass~Hotel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.personal.md) 
 
-### [FileClass~Hotel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.secret.md)
+### #is_/same_as :: [FileClass~Hotel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.secret.md)
 

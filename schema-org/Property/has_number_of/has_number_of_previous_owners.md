@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_previous_owners](/_Standards/schema-org/Property/has_number_of/has_number_of_previous_owners.md) 
+### #is_/same_as :: [has_number_of_previous_owners](/_Standards/schema-org/Property/has_number_of/has_number_of_previous_owners.md) 
 
-### [has_number_of_previous_owners.public](/_public/schema-org/Property/has_number_of/has_number_of_previous_owners.public.md) 
+### #is_/same_as :: [has_number_of_previous_owners.public](/_public/schema-org/Property/has_number_of/has_number_of_previous_owners.public.md) 
 
-### [has_number_of_previous_owners.internal](/_internal/schema-org/Property/has_number_of/has_number_of_previous_owners.internal.md) 
+### #is_/same_as :: [has_number_of_previous_owners.internal](/_internal/schema-org/Property/has_number_of/has_number_of_previous_owners.internal.md) 
 
-### [has_number_of_previous_owners.protect](/_protect/schema-org/Property/has_number_of/has_number_of_previous_owners.protect.md) 
+### #is_/same_as :: [has_number_of_previous_owners.protect](/_protect/schema-org/Property/has_number_of/has_number_of_previous_owners.protect.md) 
 
-### [has_number_of_previous_owners.private](/_private/schema-org/Property/has_number_of/has_number_of_previous_owners.private.md) 
+### #is_/same_as :: [has_number_of_previous_owners.private](/_private/schema-org/Property/has_number_of/has_number_of_previous_owners.private.md) 
 
-### [has_number_of_previous_owners.personal](/_personal/schema-org/Property/has_number_of/has_number_of_previous_owners.personal.md) 
+### #is_/same_as :: [has_number_of_previous_owners.personal](/_personal/schema-org/Property/has_number_of/has_number_of_previous_owners.personal.md) 
 
-### [has_number_of_previous_owners.secret](/_secret/schema-org/Property/has_number_of/has_number_of_previous_owners.secret.md)
+### #is_/same_as :: [has_number_of_previous_owners.secret](/_secret/schema-org/Property/has_number_of/has_number_of_previous_owners.secret.md)
 

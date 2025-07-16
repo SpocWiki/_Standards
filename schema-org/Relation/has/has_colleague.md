@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_colleague](/_Standards/schema-org/Relation/has/has_colleague.md) 
+### #is_/same_as :: [has_colleague](/_Standards/schema-org/Relation/has/has_colleague.md) 
 
-### [has_colleague.public](/_public/schema-org/Relation/has/has_colleague.public.md) 
+### #is_/same_as :: [has_colleague.public](/_public/schema-org/Relation/has/has_colleague.public.md) 
 
-### [has_colleague.internal](/_internal/schema-org/Relation/has/has_colleague.internal.md) 
+### #is_/same_as :: [has_colleague.internal](/_internal/schema-org/Relation/has/has_colleague.internal.md) 
 
-### [has_colleague.protect](/_protect/schema-org/Relation/has/has_colleague.protect.md) 
+### #is_/same_as :: [has_colleague.protect](/_protect/schema-org/Relation/has/has_colleague.protect.md) 
 
-### [has_colleague.private](/_private/schema-org/Relation/has/has_colleague.private.md) 
+### #is_/same_as :: [has_colleague.private](/_private/schema-org/Relation/has/has_colleague.private.md) 
 
-### [has_colleague.personal](/_personal/schema-org/Relation/has/has_colleague.personal.md) 
+### #is_/same_as :: [has_colleague.personal](/_personal/schema-org/Relation/has/has_colleague.personal.md) 
 
-### [has_colleague.secret](/_secret/schema-org/Relation/has/has_colleague.secret.md)
+### #is_/same_as :: [has_colleague.secret](/_secret/schema-org/Relation/has/has_colleague.secret.md)
 

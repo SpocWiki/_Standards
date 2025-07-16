@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~Moscovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.md) 
+### #is_/same_as :: [Age~Moscovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.md) 
 
-### [Age~Moscovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.public.md) 
+### #is_/same_as :: [Age~Moscovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.public.md) 
 
-### [Age~Moscovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.internal.md) 
+### #is_/same_as :: [Age~Moscovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.internal.md) 
 
-### [Age~Moscovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.protect.md) 
+### #is_/same_as :: [Age~Moscovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.protect.md) 
 
-### [Age~Moscovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.private.md) 
+### #is_/same_as :: [Age~Moscovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.private.md) 
 
-### [Age~Moscovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.personal.md) 
+### #is_/same_as :: [Age~Moscovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.personal.md) 
 
-### [Age~Moscovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.secret.md)
+### #is_/same_as :: [Age~Moscovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.secret.md)
 

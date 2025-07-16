@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_scheduled_payment](/_Standards/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.md) 
+### #is_/same_as :: [has_time_of_scheduled_payment](/_Standards/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.md) 
 
-### [has_time_of_scheduled_payment.public](/_public/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.public.md) 
+### #is_/same_as :: [has_time_of_scheduled_payment.public](/_public/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.public.md) 
 
-### [has_time_of_scheduled_payment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.internal.md) 
+### #is_/same_as :: [has_time_of_scheduled_payment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.internal.md) 
 
-### [has_time_of_scheduled_payment.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.protect.md) 
+### #is_/same_as :: [has_time_of_scheduled_payment.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.protect.md) 
 
-### [has_time_of_scheduled_payment.private](/_private/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.private.md) 
+### #is_/same_as :: [has_time_of_scheduled_payment.private](/_private/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.private.md) 
 
-### [has_time_of_scheduled_payment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.personal.md) 
+### #is_/same_as :: [has_time_of_scheduled_payment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.personal.md) 
 
-### [has_time_of_scheduled_payment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.secret.md)
+### #is_/same_as :: [has_time_of_scheduled_payment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.secret.md)
 

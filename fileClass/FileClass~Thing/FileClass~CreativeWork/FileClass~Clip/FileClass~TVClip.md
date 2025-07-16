@@ -35,17 +35,17 @@ A short TV program or a segment/part of a TV program.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TVClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.md) 
+### #is_/same_as :: [FileClass~TVClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.md) 
 
-### [FileClass~TVClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.public.md) 
+### #is_/same_as :: [FileClass~TVClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.public.md) 
 
-### [FileClass~TVClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.internal.md) 
+### #is_/same_as :: [FileClass~TVClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.internal.md) 
 
-### [FileClass~TVClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.protect.md) 
+### #is_/same_as :: [FileClass~TVClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.protect.md) 
 
-### [FileClass~TVClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.private.md) 
+### #is_/same_as :: [FileClass~TVClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.private.md) 
 
-### [FileClass~TVClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.personal.md) 
+### #is_/same_as :: [FileClass~TVClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.personal.md) 
 
-### [FileClass~TVClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.secret.md)
+### #is_/same_as :: [FileClass~TVClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.secret.md)
 

@@ -50,17 +50,17 @@ IataCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Airline](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.md) 
+### #is_/same_as :: [FileClass~Airline](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.md) 
 
-### [FileClass~Airline.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.public.md) 
+### #is_/same_as :: [FileClass~Airline.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.public.md) 
 
-### [FileClass~Airline.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.internal.md) 
+### #is_/same_as :: [FileClass~Airline.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.internal.md) 
 
-### [FileClass~Airline.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.protect.md) 
+### #is_/same_as :: [FileClass~Airline.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.protect.md) 
 
-### [FileClass~Airline.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.private.md) 
+### #is_/same_as :: [FileClass~Airline.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.private.md) 
 
-### [FileClass~Airline.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.personal.md) 
+### #is_/same_as :: [FileClass~Airline.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.personal.md) 
 
-### [FileClass~Airline.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.secret.md)
+### #is_/same_as :: [FileClass~Airline.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.secret.md)
 

@@ -47,17 +47,17 @@ The airline boards by zones of the plane.
 
 ## Confidential Links & Embeds: 
 
-### [zone_boarding_policy](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.md) 
+### #is_/same_as :: [zone_boarding_policy](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.md) 
 
-### [zone_boarding_policy.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.public.md) 
+### #is_/same_as :: [zone_boarding_policy.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.public.md) 
 
-### [zone_boarding_policy.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.internal.md) 
+### #is_/same_as :: [zone_boarding_policy.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.internal.md) 
 
-### [zone_boarding_policy.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.protect.md) 
+### #is_/same_as :: [zone_boarding_policy.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.protect.md) 
 
-### [zone_boarding_policy.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.private.md) 
+### #is_/same_as :: [zone_boarding_policy.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.private.md) 
 
-### [zone_boarding_policy.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.personal.md) 
+### #is_/same_as :: [zone_boarding_policy.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.personal.md) 
 
-### [zone_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.secret.md)
+### #is_/same_as :: [zone_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.secret.md)
 

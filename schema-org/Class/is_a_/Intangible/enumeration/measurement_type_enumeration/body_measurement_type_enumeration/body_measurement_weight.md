@@ -49,17 +49,17 @@ Body weight. Used, for example, to measure pantyhose.
 
 ## Confidential Links & Embeds: 
 
-### [body_measurement_weight](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.md) 
+### #is_/same_as :: [body_measurement_weight](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.md) 
 
-### [body_measurement_weight.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.public.md) 
+### #is_/same_as :: [body_measurement_weight.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.public.md) 
 
-### [body_measurement_weight.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.internal.md) 
+### #is_/same_as :: [body_measurement_weight.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.internal.md) 
 
-### [body_measurement_weight.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.protect.md) 
+### #is_/same_as :: [body_measurement_weight.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.protect.md) 
 
-### [body_measurement_weight.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.private.md) 
+### #is_/same_as :: [body_measurement_weight.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.private.md) 
 
-### [body_measurement_weight.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.personal.md) 
+### #is_/same_as :: [body_measurement_weight.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.personal.md) 
 
-### [body_measurement_weight.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.secret.md)
+### #is_/same_as :: [body_measurement_weight.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.secret.md)
 

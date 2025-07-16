@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_wikidata](/_Standards/schema-org/Property/has_name/has_id_wikidata.md) 
+### #is_/same_as :: [has_id_wikidata](/_Standards/schema-org/Property/has_name/has_id_wikidata.md) 
 
-### [has_id_wikidata.public](/_public/schema-org/Property/has_name/has_id_wikidata.public.md) 
+### #is_/same_as :: [has_id_wikidata.public](/_public/schema-org/Property/has_name/has_id_wikidata.public.md) 
 
-### [has_id_wikidata.internal](/_internal/schema-org/Property/has_name/has_id_wikidata.internal.md) 
+### #is_/same_as :: [has_id_wikidata.internal](/_internal/schema-org/Property/has_name/has_id_wikidata.internal.md) 
 
-### [has_id_wikidata.protect](/_protect/schema-org/Property/has_name/has_id_wikidata.protect.md) 
+### #is_/same_as :: [has_id_wikidata.protect](/_protect/schema-org/Property/has_name/has_id_wikidata.protect.md) 
 
-### [has_id_wikidata.private](/_private/schema-org/Property/has_name/has_id_wikidata.private.md) 
+### #is_/same_as :: [has_id_wikidata.private](/_private/schema-org/Property/has_name/has_id_wikidata.private.md) 
 
-### [has_id_wikidata.personal](/_personal/schema-org/Property/has_name/has_id_wikidata.personal.md) 
+### #is_/same_as :: [has_id_wikidata.personal](/_personal/schema-org/Property/has_name/has_id_wikidata.personal.md) 
 
-### [has_id_wikidata.secret](/_secret/schema-org/Property/has_name/has_id_wikidata.secret.md)
+### #is_/same_as :: [has_id_wikidata.secret](/_secret/schema-org/Property/has_name/has_id_wikidata.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_departure_bus_stop](/_Standards/schema-org/Relation/has/has_departure_bus_stop.md) 
+### #is_/same_as :: [has_departure_bus_stop](/_Standards/schema-org/Relation/has/has_departure_bus_stop.md) 
 
-### [has_departure_bus_stop.public](/_public/schema-org/Relation/has/has_departure_bus_stop.public.md) 
+### #is_/same_as :: [has_departure_bus_stop.public](/_public/schema-org/Relation/has/has_departure_bus_stop.public.md) 
 
-### [has_departure_bus_stop.internal](/_internal/schema-org/Relation/has/has_departure_bus_stop.internal.md) 
+### #is_/same_as :: [has_departure_bus_stop.internal](/_internal/schema-org/Relation/has/has_departure_bus_stop.internal.md) 
 
-### [has_departure_bus_stop.protect](/_protect/schema-org/Relation/has/has_departure_bus_stop.protect.md) 
+### #is_/same_as :: [has_departure_bus_stop.protect](/_protect/schema-org/Relation/has/has_departure_bus_stop.protect.md) 
 
-### [has_departure_bus_stop.private](/_private/schema-org/Relation/has/has_departure_bus_stop.private.md) 
+### #is_/same_as :: [has_departure_bus_stop.private](/_private/schema-org/Relation/has/has_departure_bus_stop.private.md) 
 
-### [has_departure_bus_stop.personal](/_personal/schema-org/Relation/has/has_departure_bus_stop.personal.md) 
+### #is_/same_as :: [has_departure_bus_stop.personal](/_personal/schema-org/Relation/has/has_departure_bus_stop.personal.md) 
 
-### [has_departure_bus_stop.secret](/_secret/schema-org/Relation/has/has_departure_bus_stop.secret.md)
+### #is_/same_as :: [has_departure_bus_stop.secret](/_secret/schema-org/Relation/has/has_departure_bus_stop.secret.md)
 

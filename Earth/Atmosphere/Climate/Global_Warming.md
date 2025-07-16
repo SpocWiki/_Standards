@@ -72,22 +72,19 @@ OmegaWiki_Defined_Meaning: 1662
 > [Wikipedia](https://en.wikipedia.org/wiki/Climate%20change)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Global_Warming](/_Standards/Earth/Atmosphere/Climate/Global_Warming.md) 
+### #is_/same_as :: [Global_Warming](/_Standards/Earth/Atmosphere/Climate/Global_Warming.md) 
 
-### [Global_Warming.public](/_public/Earth/Atmosphere/Climate/Global_Warming.public.md) 
+### #is_/same_as :: [Global_Warming.public](/_public/Earth/Atmosphere/Climate/Global_Warming.public.md) 
 
-### [Global_Warming.internal](/_internal/Earth/Atmosphere/Climate/Global_Warming.internal.md) 
+### #is_/same_as :: [Global_Warming.internal](/_internal/Earth/Atmosphere/Climate/Global_Warming.internal.md) 
 
-### [Global_Warming.protect](/_protect/Earth/Atmosphere/Climate/Global_Warming.protect.md) 
+### #is_/same_as :: [Global_Warming.protect](/_protect/Earth/Atmosphere/Climate/Global_Warming.protect.md) 
 
-### [Global_Warming.private](/_private/Earth/Atmosphere/Climate/Global_Warming.private.md) 
+### #is_/same_as :: [Global_Warming.private](/_private/Earth/Atmosphere/Climate/Global_Warming.private.md) 
 
-### [Global_Warming.personal](/_personal/Earth/Atmosphere/Climate/Global_Warming.personal.md) 
+### #is_/same_as :: [Global_Warming.personal](/_personal/Earth/Atmosphere/Climate/Global_Warming.personal.md) 
 
-### [Global_Warming.secret](/_secret/Earth/Atmosphere/Climate/Global_Warming.secret.md)
+### #is_/same_as :: [Global_Warming.secret](/_secret/Earth/Atmosphere/Climate/Global_Warming.secret.md)
 

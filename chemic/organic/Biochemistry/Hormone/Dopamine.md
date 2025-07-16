@@ -63,23 +63,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Dopamine)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Dopamine](/_Standards/chemic/organic/Biochemistry/Hormone/Dopamine.md) 
+### #is_/same_as :: [Dopamine](/_Standards/chemic/organic/Biochemistry/Hormone/Dopamine.md) 
 
-### [Dopamine.public](/_public/chemic/organic/Biochemistry/Hormone/Dopamine.public.md) 
+### #is_/same_as :: [Dopamine.public](/_public/chemic/organic/Biochemistry/Hormone/Dopamine.public.md) 
 
-### [Dopamine.internal](/_internal/chemic/organic/Biochemistry/Hormone/Dopamine.internal.md) 
+### #is_/same_as :: [Dopamine.internal](/_internal/chemic/organic/Biochemistry/Hormone/Dopamine.internal.md) 
 
-### [Dopamine.protect](/_protect/chemic/organic/Biochemistry/Hormone/Dopamine.protect.md) 
+### #is_/same_as :: [Dopamine.protect](/_protect/chemic/organic/Biochemistry/Hormone/Dopamine.protect.md) 
 
-### [Dopamine.private](/_private/chemic/organic/Biochemistry/Hormone/Dopamine.private.md) 
+### #is_/same_as :: [Dopamine.private](/_private/chemic/organic/Biochemistry/Hormone/Dopamine.private.md) 
 
-### [Dopamine.personal](/_personal/chemic/organic/Biochemistry/Hormone/Dopamine.personal.md) 
+### #is_/same_as :: [Dopamine.personal](/_personal/chemic/organic/Biochemistry/Hormone/Dopamine.personal.md) 
 
-### [Dopamine.secret](/_secret/chemic/organic/Biochemistry/Hormone/Dopamine.secret.md)
+### #is_/same_as :: [Dopamine.secret](/_secret/chemic/organic/Biochemistry/Hormone/Dopamine.secret.md)
 

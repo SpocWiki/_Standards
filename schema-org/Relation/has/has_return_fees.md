@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_return_fees](/_Standards/schema-org/Relation/has/has_return_fees.md) 
+### #is_/same_as :: [has_return_fees](/_Standards/schema-org/Relation/has/has_return_fees.md) 
 
-### [has_return_fees.public](/_public/schema-org/Relation/has/has_return_fees.public.md) 
+### #is_/same_as :: [has_return_fees.public](/_public/schema-org/Relation/has/has_return_fees.public.md) 
 
-### [has_return_fees.internal](/_internal/schema-org/Relation/has/has_return_fees.internal.md) 
+### #is_/same_as :: [has_return_fees.internal](/_internal/schema-org/Relation/has/has_return_fees.internal.md) 
 
-### [has_return_fees.protect](/_protect/schema-org/Relation/has/has_return_fees.protect.md) 
+### #is_/same_as :: [has_return_fees.protect](/_protect/schema-org/Relation/has/has_return_fees.protect.md) 
 
-### [has_return_fees.private](/_private/schema-org/Relation/has/has_return_fees.private.md) 
+### #is_/same_as :: [has_return_fees.private](/_private/schema-org/Relation/has/has_return_fees.private.md) 
 
-### [has_return_fees.personal](/_personal/schema-org/Relation/has/has_return_fees.personal.md) 
+### #is_/same_as :: [has_return_fees.personal](/_personal/schema-org/Relation/has/has_return_fees.personal.md) 
 
-### [has_return_fees.secret](/_secret/schema-org/Relation/has/has_return_fees.secret.md)
+### #is_/same_as :: [has_return_fees.secret](/_secret/schema-org/Relation/has/has_return_fees.secret.md)
 

@@ -70,22 +70,19 @@ Creator           Photograph by Jean-François Cornuet
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Peracarida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.md) 
+### #is_/same_as :: [Peracarida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.md) 
 
-### [Peracarida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.public.md) 
+### #is_/same_as :: [Peracarida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.public.md) 
 
-### [Peracarida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.internal.md) 
+### #is_/same_as :: [Peracarida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.internal.md) 
 
-### [Peracarida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.protect.md) 
+### #is_/same_as :: [Peracarida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.protect.md) 
 
-### [Peracarida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.private.md) 
+### #is_/same_as :: [Peracarida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.private.md) 
 
-### [Peracarida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.personal.md) 
+### #is_/same_as :: [Peracarida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.personal.md) 
 
-### [Peracarida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.secret.md)
+### #is_/same_as :: [Peracarida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.secret.md)
 

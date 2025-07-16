@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [_geo-Template](/_Standards/schema-org/Property/has_location/_geo-Template.md) 
+### #is_/same_as :: [_geo-Template](/_Standards/schema-org/Property/has_location/_geo-Template.md) 
 
-### [_geo-Template.public](/_public/schema-org/Property/has_location/_geo-Template.public.md) 
+### #is_/same_as :: [_geo-Template.public](/_public/schema-org/Property/has_location/_geo-Template.public.md) 
 
-### [_geo-Template.internal](/_internal/schema-org/Property/has_location/_geo-Template.internal.md) 
+### #is_/same_as :: [_geo-Template.internal](/_internal/schema-org/Property/has_location/_geo-Template.internal.md) 
 
-### [_geo-Template.protect](/_protect/schema-org/Property/has_location/_geo-Template.protect.md) 
+### #is_/same_as :: [_geo-Template.protect](/_protect/schema-org/Property/has_location/_geo-Template.protect.md) 
 
-### [_geo-Template.private](/_private/schema-org/Property/has_location/_geo-Template.private.md) 
+### #is_/same_as :: [_geo-Template.private](/_private/schema-org/Property/has_location/_geo-Template.private.md) 
 
-### [_geo-Template.personal](/_personal/schema-org/Property/has_location/_geo-Template.personal.md) 
+### #is_/same_as :: [_geo-Template.personal](/_personal/schema-org/Property/has_location/_geo-Template.personal.md) 
 
-### [_geo-Template.secret](/_secret/schema-org/Property/has_location/_geo-Template.secret.md)
+### #is_/same_as :: [_geo-Template.secret](/_secret/schema-org/Property/has_location/_geo-Template.secret.md)
 

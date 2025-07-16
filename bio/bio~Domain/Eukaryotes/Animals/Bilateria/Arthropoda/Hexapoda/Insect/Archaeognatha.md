@@ -120,21 +120,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Archaeognatha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.md) 
+### #is_/same_as :: [Archaeognatha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.md) 
 
-### [Archaeognatha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.public.md) 
+### #is_/same_as :: [Archaeognatha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.public.md) 
 
-### [Archaeognatha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.internal.md) 
+### #is_/same_as :: [Archaeognatha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.internal.md) 
 
-### [Archaeognatha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.protect.md) 
+### #is_/same_as :: [Archaeognatha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.protect.md) 
 
-### [Archaeognatha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.private.md) 
+### #is_/same_as :: [Archaeognatha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.private.md) 
 
-### [Archaeognatha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.personal.md) 
+### #is_/same_as :: [Archaeognatha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.personal.md) 
 
-### [Archaeognatha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.secret.md)
+### #is_/same_as :: [Archaeognatha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.secret.md)
 

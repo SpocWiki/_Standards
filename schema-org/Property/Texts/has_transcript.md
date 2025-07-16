@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_transcript](/_Standards/schema-org/Property/Texts/has_transcript.md) 
+### #is_/same_as :: [has_transcript](/_Standards/schema-org/Property/Texts/has_transcript.md) 
 
-### [has_transcript.public](/_public/schema-org/Property/Texts/has_transcript.public.md) 
+### #is_/same_as :: [has_transcript.public](/_public/schema-org/Property/Texts/has_transcript.public.md) 
 
-### [has_transcript.internal](/_internal/schema-org/Property/Texts/has_transcript.internal.md) 
+### #is_/same_as :: [has_transcript.internal](/_internal/schema-org/Property/Texts/has_transcript.internal.md) 
 
-### [has_transcript.protect](/_protect/schema-org/Property/Texts/has_transcript.protect.md) 
+### #is_/same_as :: [has_transcript.protect](/_protect/schema-org/Property/Texts/has_transcript.protect.md) 
 
-### [has_transcript.private](/_private/schema-org/Property/Texts/has_transcript.private.md) 
+### #is_/same_as :: [has_transcript.private](/_private/schema-org/Property/Texts/has_transcript.private.md) 
 
-### [has_transcript.personal](/_personal/schema-org/Property/Texts/has_transcript.personal.md) 
+### #is_/same_as :: [has_transcript.personal](/_personal/schema-org/Property/Texts/has_transcript.personal.md) 
 
-### [has_transcript.secret](/_secret/schema-org/Property/Texts/has_transcript.secret.md)
+### #is_/same_as :: [has_transcript.secret](/_secret/schema-org/Property/Texts/has_transcript.secret.md)
 

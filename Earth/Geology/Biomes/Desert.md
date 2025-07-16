@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Desert](/_Standards/Earth/Geology/Biomes/Desert.md) 
+### #is_/same_as :: [Desert](/_Standards/Earth/Geology/Biomes/Desert.md) 
 
-### [Desert.public](/_public/Earth/Geology/Biomes/Desert.public.md) 
+### #is_/same_as :: [Desert.public](/_public/Earth/Geology/Biomes/Desert.public.md) 
 
-### [Desert.internal](/_internal/Earth/Geology/Biomes/Desert.internal.md) 
+### #is_/same_as :: [Desert.internal](/_internal/Earth/Geology/Biomes/Desert.internal.md) 
 
-### [Desert.protect](/_protect/Earth/Geology/Biomes/Desert.protect.md) 
+### #is_/same_as :: [Desert.protect](/_protect/Earth/Geology/Biomes/Desert.protect.md) 
 
-### [Desert.private](/_private/Earth/Geology/Biomes/Desert.private.md) 
+### #is_/same_as :: [Desert.private](/_private/Earth/Geology/Biomes/Desert.private.md) 
 
-### [Desert.personal](/_personal/Earth/Geology/Biomes/Desert.personal.md) 
+### #is_/same_as :: [Desert.personal](/_personal/Earth/Geology/Biomes/Desert.personal.md) 
 
-### [Desert.secret](/_secret/Earth/Geology/Biomes/Desert.secret.md)
+### #is_/same_as :: [Desert.secret](/_secret/Earth/Geology/Biomes/Desert.secret.md)
 

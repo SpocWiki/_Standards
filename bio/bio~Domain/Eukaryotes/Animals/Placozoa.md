@@ -65,20 +65,19 @@ Creator           Ivy Livingstone
 Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Placozoa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Placozoa.md) 
+### #is_/same_as :: [Placozoa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Placozoa.md) 
 
-### [Placozoa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Placozoa.public.md) 
+### #is_/same_as :: [Placozoa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Placozoa.public.md) 
 
-### [Placozoa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Placozoa.internal.md) 
+### #is_/same_as :: [Placozoa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Placozoa.internal.md) 
 
-### [Placozoa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Placozoa.protect.md) 
+### #is_/same_as :: [Placozoa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Placozoa.protect.md) 
 
-### [Placozoa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Placozoa.private.md) 
+### #is_/same_as :: [Placozoa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Placozoa.private.md) 
 
-### [Placozoa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Placozoa.personal.md) 
+### #is_/same_as :: [Placozoa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Placozoa.personal.md) 
 
-### [Placozoa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Placozoa.secret.md)
+### #is_/same_as :: [Placozoa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Placozoa.secret.md)
 

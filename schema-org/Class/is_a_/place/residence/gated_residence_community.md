@@ -45,17 +45,17 @@ Residence type: Gated community.
 
 ## Confidential Links & Embeds: 
 
-### [gated_residence_community](/_Standards/schema-org/Class/is_a_/place/residence/gated_residence_community.md) 
+### #is_/same_as :: [gated_residence_community](/_Standards/schema-org/Class/is_a_/place/residence/gated_residence_community.md) 
 
-### [gated_residence_community.public](/_public/schema-org/Class/is_a_/place/residence/gated_residence_community.public.md) 
+### #is_/same_as :: [gated_residence_community.public](/_public/schema-org/Class/is_a_/place/residence/gated_residence_community.public.md) 
 
-### [gated_residence_community.internal](/_internal/schema-org/Class/is_a_/place/residence/gated_residence_community.internal.md) 
+### #is_/same_as :: [gated_residence_community.internal](/_internal/schema-org/Class/is_a_/place/residence/gated_residence_community.internal.md) 
 
-### [gated_residence_community.protect](/_protect/schema-org/Class/is_a_/place/residence/gated_residence_community.protect.md) 
+### #is_/same_as :: [gated_residence_community.protect](/_protect/schema-org/Class/is_a_/place/residence/gated_residence_community.protect.md) 
 
-### [gated_residence_community.private](/_private/schema-org/Class/is_a_/place/residence/gated_residence_community.private.md) 
+### #is_/same_as :: [gated_residence_community.private](/_private/schema-org/Class/is_a_/place/residence/gated_residence_community.private.md) 
 
-### [gated_residence_community.personal](/_personal/schema-org/Class/is_a_/place/residence/gated_residence_community.personal.md) 
+### #is_/same_as :: [gated_residence_community.personal](/_personal/schema-org/Class/is_a_/place/residence/gated_residence_community.personal.md) 
 
-### [gated_residence_community.secret](/_secret/schema-org/Class/is_a_/place/residence/gated_residence_community.secret.md)
+### #is_/same_as :: [gated_residence_community.secret](/_secret/schema-org/Class/is_a_/place/residence/gated_residence_community.secret.md)
 

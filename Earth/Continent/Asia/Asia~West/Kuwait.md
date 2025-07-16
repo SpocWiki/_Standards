@@ -412,17 +412,17 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 
 ## Confidential Links & Embeds: 
 
-### [Kuwait](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait.md) 
+### #is_/same_as :: [Kuwait](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait.md) 
 
-### [Kuwait.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait.public.md) 
+### #is_/same_as :: [Kuwait.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait.public.md) 
 
-### [Kuwait.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal.md) 
+### #is_/same_as :: [Kuwait.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal.md) 
 
-### [Kuwait.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect.md) 
+### #is_/same_as :: [Kuwait.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect.md) 
 
-### [Kuwait.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait.private.md) 
+### #is_/same_as :: [Kuwait.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait.private.md) 
 
-### [Kuwait.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal.md) 
+### #is_/same_as :: [Kuwait.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal.md) 
 
-### [Kuwait.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret.md)
+### #is_/same_as :: [Kuwait.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret.md)
 

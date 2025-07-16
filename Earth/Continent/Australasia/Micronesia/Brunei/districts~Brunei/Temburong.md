@@ -41,17 +41,17 @@ markerFolder: ./Temburong/
 
 ## Confidential Links & Embeds: 
 
-### [Temburong](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.md) 
+### #is_/same_as :: [Temburong](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.md) 
 
-### [Temburong.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.public.md) 
+### #is_/same_as :: [Temburong.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.public.md) 
 
-### [Temburong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.internal.md) 
+### #is_/same_as :: [Temburong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.internal.md) 
 
-### [Temburong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.protect.md) 
+### #is_/same_as :: [Temburong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.protect.md) 
 
-### [Temburong.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.private.md) 
+### #is_/same_as :: [Temburong.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.private.md) 
 
-### [Temburong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.personal.md) 
+### #is_/same_as :: [Temburong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.personal.md) 
 
-### [Temburong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.secret.md)
+### #is_/same_as :: [Temburong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.secret.md)
 

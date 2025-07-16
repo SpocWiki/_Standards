@@ -53,22 +53,19 @@ EAGLE_id: decor/lod/147
 > [Wikipedia](https://en.wikipedia.org/wiki/Sword) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Sword](/_Standards/bio/Society/Military/Military_Engineering/Sword.md) 
+### #is_/same_as :: [Sword](/_Standards/bio/Society/Military/Military_Engineering/Sword.md) 
 
-### [Sword.public](/_public/bio/Society/Military/Military_Engineering/Sword.public.md) 
+### #is_/same_as :: [Sword.public](/_public/bio/Society/Military/Military_Engineering/Sword.public.md) 
 
-### [Sword.internal](/_internal/bio/Society/Military/Military_Engineering/Sword.internal.md) 
+### #is_/same_as :: [Sword.internal](/_internal/bio/Society/Military/Military_Engineering/Sword.internal.md) 
 
-### [Sword.protect](/_protect/bio/Society/Military/Military_Engineering/Sword.protect.md) 
+### #is_/same_as :: [Sword.protect](/_protect/bio/Society/Military/Military_Engineering/Sword.protect.md) 
 
-### [Sword.private](/_private/bio/Society/Military/Military_Engineering/Sword.private.md) 
+### #is_/same_as :: [Sword.private](/_private/bio/Society/Military/Military_Engineering/Sword.private.md) 
 
-### [Sword.personal](/_personal/bio/Society/Military/Military_Engineering/Sword.personal.md) 
+### #is_/same_as :: [Sword.personal](/_personal/bio/Society/Military/Military_Engineering/Sword.personal.md) 
 
-### [Sword.secret](/_secret/bio/Society/Military/Military_Engineering/Sword.secret.md)
+### #is_/same_as :: [Sword.secret](/_secret/bio/Society/Military/Military_Engineering/Sword.secret.md)
 

@@ -127,21 +127,19 @@ Universal_Decimal_Classification:
 > [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20Germany) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [1933-Nazi_Germany](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.md) 
+### #is_/same_as :: [1933-Nazi_Germany](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.md) 
 
-### [1933-Nazi_Germany.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.public.md) 
+### #is_/same_as :: [1933-Nazi_Germany.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.public.md) 
 
-### [1933-Nazi_Germany.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.internal.md) 
+### #is_/same_as :: [1933-Nazi_Germany.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.internal.md) 
 
-### [1933-Nazi_Germany.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.protect.md) 
+### #is_/same_as :: [1933-Nazi_Germany.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.protect.md) 
 
-### [1933-Nazi_Germany.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.private.md) 
+### #is_/same_as :: [1933-Nazi_Germany.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.private.md) 
 
-### [1933-Nazi_Germany.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.personal.md) 
+### #is_/same_as :: [1933-Nazi_Germany.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.personal.md) 
 
-### [1933-Nazi_Germany.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.secret.md)
+### #is_/same_as :: [1933-Nazi_Germany.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany.secret.md)
 

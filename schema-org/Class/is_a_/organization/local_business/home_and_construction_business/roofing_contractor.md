@@ -45,17 +45,17 @@ A roofing contractor.
 
 ## Confidential Links & Embeds: 
 
-### [roofing_contractor](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.md) 
+### #is_/same_as :: [roofing_contractor](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.md) 
 
-### [roofing_contractor.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.public.md) 
+### #is_/same_as :: [roofing_contractor.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.public.md) 
 
-### [roofing_contractor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.internal.md) 
+### #is_/same_as :: [roofing_contractor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.internal.md) 
 
-### [roofing_contractor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.protect.md) 
+### #is_/same_as :: [roofing_contractor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.protect.md) 
 
-### [roofing_contractor.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.private.md) 
+### #is_/same_as :: [roofing_contractor.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.private.md) 
 
-### [roofing_contractor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.personal.md) 
+### #is_/same_as :: [roofing_contractor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.personal.md) 
 
-### [roofing_contractor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.secret.md)
+### #is_/same_as :: [roofing_contractor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.secret.md)
 

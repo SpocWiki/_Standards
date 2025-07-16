@@ -47,17 +47,17 @@ A post to a social media platform, including blog posts, tweets, Facebook posts,
 
 ## Confidential Links & Embeds: 
 
-### [social_media_posting](/_Standards/schema-org/Class/is_a_/creative_work/article/social_media_posting.md) 
+### #is_/same_as :: [social_media_posting](/_Standards/schema-org/Class/is_a_/creative_work/article/social_media_posting.md) 
 
-### [social_media_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting.public.md) 
+### #is_/same_as :: [social_media_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting.public.md) 
 
-### [social_media_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting.internal.md) 
+### #is_/same_as :: [social_media_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting.internal.md) 
 
-### [social_media_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting.protect.md) 
+### #is_/same_as :: [social_media_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting.protect.md) 
 
-### [social_media_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting.private.md) 
+### #is_/same_as :: [social_media_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting.private.md) 
 
-### [social_media_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting.personal.md) 
+### #is_/same_as :: [social_media_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting.personal.md) 
 
-### [social_media_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting.secret.md)
+### #is_/same_as :: [social_media_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting.secret.md)
 

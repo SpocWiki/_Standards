@@ -493,17 +493,17 @@ Capital :: [[Tripolis=Tripoli]]
 
 ## Confidential Links & Embeds: 
 
-### [Libya](/_Standards/Earth/Continent/Africa/Africa~North/Libya.md) 
+### #is_/same_as :: [Libya](/_Standards/Earth/Continent/Africa/Africa~North/Libya.md) 
 
-### [Libya.public](/_public/Earth/Continent/Africa/Africa~North/Libya.public.md) 
+### #is_/same_as :: [Libya.public](/_public/Earth/Continent/Africa/Africa~North/Libya.public.md) 
 
-### [Libya.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya.internal.md) 
+### #is_/same_as :: [Libya.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya.internal.md) 
 
-### [Libya.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya.protect.md) 
+### #is_/same_as :: [Libya.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya.protect.md) 
 
-### [Libya.private](/_private/Earth/Continent/Africa/Africa~North/Libya.private.md) 
+### #is_/same_as :: [Libya.private](/_private/Earth/Continent/Africa/Africa~North/Libya.private.md) 
 
-### [Libya.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya.personal.md) 
+### #is_/same_as :: [Libya.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya.personal.md) 
 
-### [Libya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya.secret.md)
+### #is_/same_as :: [Libya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya.secret.md)
 

@@ -54,21 +54,19 @@ time_of_discovery_or_invention: "1902"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hormone)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Hormone](/_Standards/chemic/organic/Biochemistry/Hormone.md) 
+### #is_/same_as :: [Hormone](/_Standards/chemic/organic/Biochemistry/Hormone.md) 
 
-### [Hormone.public](/_public/chemic/organic/Biochemistry/Hormone.public.md) 
+### #is_/same_as :: [Hormone.public](/_public/chemic/organic/Biochemistry/Hormone.public.md) 
 
-### [Hormone.internal](/_internal/chemic/organic/Biochemistry/Hormone.internal.md) 
+### #is_/same_as :: [Hormone.internal](/_internal/chemic/organic/Biochemistry/Hormone.internal.md) 
 
-### [Hormone.protect](/_protect/chemic/organic/Biochemistry/Hormone.protect.md) 
+### #is_/same_as :: [Hormone.protect](/_protect/chemic/organic/Biochemistry/Hormone.protect.md) 
 
-### [Hormone.private](/_private/chemic/organic/Biochemistry/Hormone.private.md) 
+### #is_/same_as :: [Hormone.private](/_private/chemic/organic/Biochemistry/Hormone.private.md) 
 
-### [Hormone.personal](/_personal/chemic/organic/Biochemistry/Hormone.personal.md) 
+### #is_/same_as :: [Hormone.personal](/_personal/chemic/organic/Biochemistry/Hormone.personal.md) 
 
-### [Hormone.secret](/_secret/chemic/organic/Biochemistry/Hormone.secret.md)
+### #is_/same_as :: [Hormone.secret](/_secret/chemic/organic/Biochemistry/Hormone.secret.md)
 

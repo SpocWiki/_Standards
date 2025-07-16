@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_object](/_Standards/schema-org/Relation/has/has_object.md) 
+### #is_/same_as :: [has_object](/_Standards/schema-org/Relation/has/has_object.md) 
 
-### [has_object.public](/_public/schema-org/Relation/has/has_object.public.md) 
+### #is_/same_as :: [has_object.public](/_public/schema-org/Relation/has/has_object.public.md) 
 
-### [has_object.internal](/_internal/schema-org/Relation/has/has_object.internal.md) 
+### #is_/same_as :: [has_object.internal](/_internal/schema-org/Relation/has/has_object.internal.md) 
 
-### [has_object.protect](/_protect/schema-org/Relation/has/has_object.protect.md) 
+### #is_/same_as :: [has_object.protect](/_protect/schema-org/Relation/has/has_object.protect.md) 
 
-### [has_object.private](/_private/schema-org/Relation/has/has_object.private.md) 
+### #is_/same_as :: [has_object.private](/_private/schema-org/Relation/has/has_object.private.md) 
 
-### [has_object.personal](/_personal/schema-org/Relation/has/has_object.personal.md) 
+### #is_/same_as :: [has_object.personal](/_personal/schema-org/Relation/has/has_object.personal.md) 
 
-### [has_object.secret](/_secret/schema-org/Relation/has/has_object.secret.md)
+### #is_/same_as :: [has_object.secret](/_secret/schema-org/Relation/has/has_object.secret.md)
 

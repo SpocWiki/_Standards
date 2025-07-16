@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to the study of the respirato
 
 ## Confidential Links & Embeds: 
 
-### [pulmonary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md) 
+### #is_/same_as :: [pulmonary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md) 
 
-### [pulmonary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.public.md) 
+### #is_/same_as :: [pulmonary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.public.md) 
 
-### [pulmonary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal.md) 
+### #is_/same_as :: [pulmonary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal.md) 
 
-### [pulmonary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.protect.md) 
+### #is_/same_as :: [pulmonary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.protect.md) 
 
-### [pulmonary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.private.md) 
+### #is_/same_as :: [pulmonary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.private.md) 
 
-### [pulmonary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.personal.md) 
+### #is_/same_as :: [pulmonary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.personal.md) 
 
-### [pulmonary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret.md)
+### #is_/same_as :: [pulmonary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret.md)
 

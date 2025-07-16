@@ -49,17 +49,17 @@ Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exem
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c2](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.md) 
+### #is_/same_as :: [nonprofit501c2](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.md) 
 
-### [nonprofit501c2.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.public.md) 
+### #is_/same_as :: [nonprofit501c2.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.public.md) 
 
-### [nonprofit501c2.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.internal.md) 
+### #is_/same_as :: [nonprofit501c2.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.internal.md) 
 
-### [nonprofit501c2.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.protect.md) 
+### #is_/same_as :: [nonprofit501c2.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.protect.md) 
 
-### [nonprofit501c2.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.private.md) 
+### #is_/same_as :: [nonprofit501c2.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.private.md) 
 
-### [nonprofit501c2.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.personal.md) 
+### #is_/same_as :: [nonprofit501c2.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.personal.md) 
 
-### [nonprofit501c2.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.secret.md)
+### #is_/same_as :: [nonprofit501c2.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.secret.md)
 

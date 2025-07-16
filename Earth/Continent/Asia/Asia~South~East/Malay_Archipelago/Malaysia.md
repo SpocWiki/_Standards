@@ -706,17 +706,17 @@ Capital :: [[Kuala_Lumpur]]
 
 ## Confidential Links & Embeds: 
 
-### [Malaysia](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.md) 
+### #is_/same_as :: [Malaysia](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.md) 
 
-### [Malaysia.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public.md) 
+### #is_/same_as :: [Malaysia.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public.md) 
 
-### [Malaysia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal.md) 
+### #is_/same_as :: [Malaysia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal.md) 
 
-### [Malaysia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.protect.md) 
+### #is_/same_as :: [Malaysia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.protect.md) 
 
-### [Malaysia.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.private.md) 
+### #is_/same_as :: [Malaysia.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.private.md) 
 
-### [Malaysia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.personal.md) 
+### #is_/same_as :: [Malaysia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.personal.md) 
 
-### [Malaysia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret.md)
+### #is_/same_as :: [Malaysia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret.md)
 

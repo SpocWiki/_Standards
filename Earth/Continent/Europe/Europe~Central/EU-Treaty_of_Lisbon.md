@@ -69,17 +69,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [EU-Treaty_of_Lisbon](/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.md) 
+### #is_/same_as :: [EU-Treaty_of_Lisbon](/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.md) 
 
-### [EU-Treaty_of_Lisbon.public](/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public.md) 
+### #is_/same_as :: [EU-Treaty_of_Lisbon.public](/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public.md) 
 
-### [EU-Treaty_of_Lisbon.internal](/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal.md) 
+### #is_/same_as :: [EU-Treaty_of_Lisbon.internal](/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal.md) 
 
-### [EU-Treaty_of_Lisbon.protect](/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect.md) 
+### #is_/same_as :: [EU-Treaty_of_Lisbon.protect](/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect.md) 
 
-### [EU-Treaty_of_Lisbon.private](/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private.md) 
+### #is_/same_as :: [EU-Treaty_of_Lisbon.private](/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private.md) 
 
-### [EU-Treaty_of_Lisbon.personal](/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal.md) 
+### #is_/same_as :: [EU-Treaty_of_Lisbon.personal](/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal.md) 
 
-### [EU-Treaty_of_Lisbon.secret](/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret.md)
+### #is_/same_as :: [EU-Treaty_of_Lisbon.secret](/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret.md)
 

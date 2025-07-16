@@ -35,17 +35,17 @@ A bridge.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Bridge](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.md) 
+### #is_/same_as :: [FileClass~Bridge](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.md) 
 
-### [FileClass~Bridge.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.public.md) 
+### #is_/same_as :: [FileClass~Bridge.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.public.md) 
 
-### [FileClass~Bridge.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.internal.md) 
+### #is_/same_as :: [FileClass~Bridge.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.internal.md) 
 
-### [FileClass~Bridge.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.protect.md) 
+### #is_/same_as :: [FileClass~Bridge.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.protect.md) 
 
-### [FileClass~Bridge.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.private.md) 
+### #is_/same_as :: [FileClass~Bridge.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.private.md) 
 
-### [FileClass~Bridge.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.personal.md) 
+### #is_/same_as :: [FileClass~Bridge.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.personal.md) 
 
-### [FileClass~Bridge.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.secret.md)
+### #is_/same_as :: [FileClass~Bridge.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.secret.md)
 

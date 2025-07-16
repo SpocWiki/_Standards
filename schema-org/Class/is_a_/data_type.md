@@ -45,17 +45,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [data_type](/_Standards/schema-org/Class/is_a_/data_type.md) 
+### #is_/same_as :: [data_type](/_Standards/schema-org/Class/is_a_/data_type.md) 
 
-### [data_type.public](/_public/schema-org/Class/is_a_/data_type.public.md) 
+### #is_/same_as :: [data_type.public](/_public/schema-org/Class/is_a_/data_type.public.md) 
 
-### [data_type.internal](/_internal/schema-org/Class/is_a_/data_type.internal.md) 
+### #is_/same_as :: [data_type.internal](/_internal/schema-org/Class/is_a_/data_type.internal.md) 
 
-### [data_type.protect](/_protect/schema-org/Class/is_a_/data_type.protect.md) 
+### #is_/same_as :: [data_type.protect](/_protect/schema-org/Class/is_a_/data_type.protect.md) 
 
-### [data_type.private](/_private/schema-org/Class/is_a_/data_type.private.md) 
+### #is_/same_as :: [data_type.private](/_private/schema-org/Class/is_a_/data_type.private.md) 
 
-### [data_type.personal](/_personal/schema-org/Class/is_a_/data_type.personal.md) 
+### #is_/same_as :: [data_type.personal](/_personal/schema-org/Class/is_a_/data_type.personal.md) 
 
-### [data_type.secret](/_secret/schema-org/Class/is_a_/data_type.secret.md)
+### #is_/same_as :: [data_type.secret](/_secret/schema-org/Class/is_a_/data_type.secret.md)
 

@@ -50,17 +50,17 @@ and its topic via [[../../../Relation/is/is_about|is_about]] properties shared w
 
 ## Confidential Links & Embeds: 
 
-### [comment](/_Standards/schema-org/Class/is_a_/creative_work/comment.md) 
+### #is_/same_as :: [comment](/_Standards/schema-org/Class/is_a_/creative_work/comment.md) 
 
-### [comment.public](/_public/schema-org/Class/is_a_/creative_work/comment.public.md) 
+### #is_/same_as :: [comment.public](/_public/schema-org/Class/is_a_/creative_work/comment.public.md) 
 
-### [comment.internal](/_internal/schema-org/Class/is_a_/creative_work/comment.internal.md) 
+### #is_/same_as :: [comment.internal](/_internal/schema-org/Class/is_a_/creative_work/comment.internal.md) 
 
-### [comment.protect](/_protect/schema-org/Class/is_a_/creative_work/comment.protect.md) 
+### #is_/same_as :: [comment.protect](/_protect/schema-org/Class/is_a_/creative_work/comment.protect.md) 
 
-### [comment.private](/_private/schema-org/Class/is_a_/creative_work/comment.private.md) 
+### #is_/same_as :: [comment.private](/_private/schema-org/Class/is_a_/creative_work/comment.private.md) 
 
-### [comment.personal](/_personal/schema-org/Class/is_a_/creative_work/comment.personal.md) 
+### #is_/same_as :: [comment.personal](/_personal/schema-org/Class/is_a_/creative_work/comment.personal.md) 
 
-### [comment.secret](/_secret/schema-org/Class/is_a_/creative_work/comment.secret.md)
+### #is_/same_as :: [comment.secret](/_secret/schema-org/Class/is_a_/creative_work/comment.secret.md)
 

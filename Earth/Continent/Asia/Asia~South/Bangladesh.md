@@ -565,17 +565,17 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 
 ## Confidential Links & Embeds: 
 
-### [Bangladesh](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh.md) 
+### #is_/same_as :: [Bangladesh](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh.md) 
 
-### [Bangladesh.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh.public.md) 
+### #is_/same_as :: [Bangladesh.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh.public.md) 
 
-### [Bangladesh.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh.internal.md) 
+### #is_/same_as :: [Bangladesh.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh.internal.md) 
 
-### [Bangladesh.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh.protect.md) 
+### #is_/same_as :: [Bangladesh.protect](/_protect/Earth/Continent/Asia/Asia~South/Bangladesh.protect.md) 
 
-### [Bangladesh.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh.private.md) 
+### #is_/same_as :: [Bangladesh.private](/_private/Earth/Continent/Asia/Asia~South/Bangladesh.private.md) 
 
-### [Bangladesh.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh.personal.md) 
+### #is_/same_as :: [Bangladesh.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh.personal.md) 
 
-### [Bangladesh.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh.secret.md)
+### #is_/same_as :: [Bangladesh.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh.secret.md)
 

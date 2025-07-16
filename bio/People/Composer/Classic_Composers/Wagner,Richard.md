@@ -154,21 +154,19 @@ Stadtwiki_Dresden_article: Richard_Wagner
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Wagner)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Wagner,Richard](/_Standards/bio/People/Composer/Classic_Composers/Wagner,Richard.md) 
+### #is_/same_as :: [Wagner,Richard](/_Standards/bio/People/Composer/Classic_Composers/Wagner,Richard.md) 
 
-### [Wagner,Richard.public](/_public/bio/People/Composer/Classic_Composers/Wagner,Richard.public.md) 
+### #is_/same_as :: [Wagner,Richard.public](/_public/bio/People/Composer/Classic_Composers/Wagner,Richard.public.md) 
 
-### [Wagner,Richard.internal](/_internal/bio/People/Composer/Classic_Composers/Wagner,Richard.internal.md) 
+### #is_/same_as :: [Wagner,Richard.internal](/_internal/bio/People/Composer/Classic_Composers/Wagner,Richard.internal.md) 
 
-### [Wagner,Richard.protect](/_protect/bio/People/Composer/Classic_Composers/Wagner,Richard.protect.md) 
+### #is_/same_as :: [Wagner,Richard.protect](/_protect/bio/People/Composer/Classic_Composers/Wagner,Richard.protect.md) 
 
-### [Wagner,Richard.private](/_private/bio/People/Composer/Classic_Composers/Wagner,Richard.private.md) 
+### #is_/same_as :: [Wagner,Richard.private](/_private/bio/People/Composer/Classic_Composers/Wagner,Richard.private.md) 
 
-### [Wagner,Richard.personal](/_personal/bio/People/Composer/Classic_Composers/Wagner,Richard.personal.md) 
+### #is_/same_as :: [Wagner,Richard.personal](/_personal/bio/People/Composer/Classic_Composers/Wagner,Richard.personal.md) 
 
-### [Wagner,Richard.secret](/_secret/bio/People/Composer/Classic_Composers/Wagner,Richard.secret.md)
+### #is_/same_as :: [Wagner,Richard.secret](/_secret/bio/People/Composer/Classic_Composers/Wagner,Richard.secret.md)
 

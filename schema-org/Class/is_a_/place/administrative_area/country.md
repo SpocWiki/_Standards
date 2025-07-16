@@ -45,17 +45,17 @@ A country.
 
 ## Confidential Links & Embeds: 
 
-### [country](/_Standards/schema-org/Class/is_a_/place/administrative_area/country.md) 
+### #is_/same_as :: [country](/_Standards/schema-org/Class/is_a_/place/administrative_area/country.md) 
 
-### [country.public](/_public/schema-org/Class/is_a_/place/administrative_area/country.public.md) 
+### #is_/same_as :: [country.public](/_public/schema-org/Class/is_a_/place/administrative_area/country.public.md) 
 
-### [country.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/country.internal.md) 
+### #is_/same_as :: [country.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/country.internal.md) 
 
-### [country.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/country.protect.md) 
+### #is_/same_as :: [country.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/country.protect.md) 
 
-### [country.private](/_private/schema-org/Class/is_a_/place/administrative_area/country.private.md) 
+### #is_/same_as :: [country.private](/_private/schema-org/Class/is_a_/place/administrative_area/country.private.md) 
 
-### [country.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/country.personal.md) 
+### #is_/same_as :: [country.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/country.personal.md) 
 
-### [country.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/country.secret.md)
+### #is_/same_as :: [country.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/country.secret.md)
 

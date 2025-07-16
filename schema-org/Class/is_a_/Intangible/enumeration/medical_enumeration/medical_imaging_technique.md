@@ -43,17 +43,17 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 
 ## Confidential Links & Embeds: 
 
-### [medical_imaging_technique](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.md) 
+### #is_/same_as :: [medical_imaging_technique](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.md) 
 
-### [medical_imaging_technique.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.public.md) 
+### #is_/same_as :: [medical_imaging_technique.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.public.md) 
 
-### [medical_imaging_technique.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.internal.md) 
+### #is_/same_as :: [medical_imaging_technique.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.internal.md) 
 
-### [medical_imaging_technique.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.protect.md) 
+### #is_/same_as :: [medical_imaging_technique.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.protect.md) 
 
-### [medical_imaging_technique.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.private.md) 
+### #is_/same_as :: [medical_imaging_technique.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.private.md) 
 
-### [medical_imaging_technique.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.personal.md) 
+### #is_/same_as :: [medical_imaging_technique.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.personal.md) 
 
-### [medical_imaging_technique.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.secret.md)
+### #is_/same_as :: [medical_imaging_technique.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.secret.md)
 

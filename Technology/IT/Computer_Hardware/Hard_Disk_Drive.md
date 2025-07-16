@@ -52,24 +52,19 @@ Unicode_character: 🖴
 > [Wikipedia](https://en.wikipedia.org/wiki/Hard%20disk%20drive)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Hard_Disk_Drive](/_Standards/Technology/IT/Computer_Hardware/Hard_Disk_Drive.md) 
+### #is_/same_as :: [Hard_Disk_Drive](/_Standards/Technology/IT/Computer_Hardware/Hard_Disk_Drive.md) 
 
-### [Hard_Disk_Drive.public](/_public/Technology/IT/Computer_Hardware/Hard_Disk_Drive.public.md) 
+### #is_/same_as :: [Hard_Disk_Drive.public](/_public/Technology/IT/Computer_Hardware/Hard_Disk_Drive.public.md) 
 
-### [Hard_Disk_Drive.internal](/_internal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.internal.md) 
+### #is_/same_as :: [Hard_Disk_Drive.internal](/_internal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.internal.md) 
 
-### [Hard_Disk_Drive.protect](/_protect/Technology/IT/Computer_Hardware/Hard_Disk_Drive.protect.md) 
+### #is_/same_as :: [Hard_Disk_Drive.protect](/_protect/Technology/IT/Computer_Hardware/Hard_Disk_Drive.protect.md) 
 
-### [Hard_Disk_Drive.private](/_private/Technology/IT/Computer_Hardware/Hard_Disk_Drive.private.md) 
+### #is_/same_as :: [Hard_Disk_Drive.private](/_private/Technology/IT/Computer_Hardware/Hard_Disk_Drive.private.md) 
 
-### [Hard_Disk_Drive.personal](/_personal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.personal.md) 
+### #is_/same_as :: [Hard_Disk_Drive.personal](/_personal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.personal.md) 
 
-### [Hard_Disk_Drive.secret](/_secret/Technology/IT/Computer_Hardware/Hard_Disk_Drive.secret.md)
+### #is_/same_as :: [Hard_Disk_Drive.secret](/_secret/Technology/IT/Computer_Hardware/Hard_Disk_Drive.secret.md)
 

@@ -139,24 +139,19 @@ Photograph courtesy [CalPhotos](http://elib.cs.berkeley.edu/photos/),
 copyright © 2002 [Arie van der Meijden](mailto:Mail@arievandermeijden.nl).
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Arachnida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.md) 
+### #is_/same_as :: [Arachnida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.md) 
 
-### [Arachnida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.public.md) 
+### #is_/same_as :: [Arachnida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.public.md) 
 
-### [Arachnida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.internal.md) 
+### #is_/same_as :: [Arachnida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.internal.md) 
 
-### [Arachnida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.protect.md) 
+### #is_/same_as :: [Arachnida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.protect.md) 
 
-### [Arachnida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.private.md) 
+### #is_/same_as :: [Arachnida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.private.md) 
 
-### [Arachnida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.personal.md) 
+### #is_/same_as :: [Arachnida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.personal.md) 
 
-### [Arachnida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.secret.md)
+### #is_/same_as :: [Arachnida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida.secret.md)
 

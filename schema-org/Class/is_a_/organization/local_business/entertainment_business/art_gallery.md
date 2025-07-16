@@ -45,17 +45,17 @@ An art gallery.
 
 ## Confidential Links & Embeds: 
 
-### [art_gallery](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.md) 
+### #is_/same_as :: [art_gallery](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.md) 
 
-### [art_gallery.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.public.md) 
+### #is_/same_as :: [art_gallery.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.public.md) 
 
-### [art_gallery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.internal.md) 
+### #is_/same_as :: [art_gallery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.internal.md) 
 
-### [art_gallery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.protect.md) 
+### #is_/same_as :: [art_gallery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.protect.md) 
 
-### [art_gallery.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.private.md) 
+### #is_/same_as :: [art_gallery.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.private.md) 
 
-### [art_gallery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.personal.md) 
+### #is_/same_as :: [art_gallery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.personal.md) 
 
-### [art_gallery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.secret.md)
+### #is_/same_as :: [art_gallery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.secret.md)
 

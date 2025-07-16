@@ -40,23 +40,19 @@ Heat against cramps.
 Cool against Inflammation. 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Diclofenac](/_Standards/bio/Medicine/Drug/Diclofenac.md) 
+### #is_/same_as :: [Diclofenac](/_Standards/bio/Medicine/Drug/Diclofenac.md) 
 
-### [Diclofenac.public](/_public/bio/Medicine/Drug/Diclofenac.public.md) 
+### #is_/same_as :: [Diclofenac.public](/_public/bio/Medicine/Drug/Diclofenac.public.md) 
 
-### [Diclofenac.internal](/_internal/bio/Medicine/Drug/Diclofenac.internal.md) 
+### #is_/same_as :: [Diclofenac.internal](/_internal/bio/Medicine/Drug/Diclofenac.internal.md) 
 
-### [Diclofenac.protect](/_protect/bio/Medicine/Drug/Diclofenac.protect.md) 
+### #is_/same_as :: [Diclofenac.protect](/_protect/bio/Medicine/Drug/Diclofenac.protect.md) 
 
-### [Diclofenac.private](/_private/bio/Medicine/Drug/Diclofenac.private.md) 
+### #is_/same_as :: [Diclofenac.private](/_private/bio/Medicine/Drug/Diclofenac.private.md) 
 
-### [Diclofenac.personal](/_personal/bio/Medicine/Drug/Diclofenac.personal.md) 
+### #is_/same_as :: [Diclofenac.personal](/_personal/bio/Medicine/Drug/Diclofenac.personal.md) 
 
-### [Diclofenac.secret](/_secret/bio/Medicine/Drug/Diclofenac.secret.md)
+### #is_/same_as :: [Diclofenac.secret](/_secret/bio/Medicine/Drug/Diclofenac.secret.md)
 

@@ -47,17 +47,17 @@ An application programming interface accessible over Web/Internet technologies.
 
 ## Confidential Links & Embeds: 
 
-### [web_api](/_Standards/schema-org/Class/is_a_/Intangible/service/web_api.md) 
+### #is_/same_as :: [web_api](/_Standards/schema-org/Class/is_a_/Intangible/service/web_api.md) 
 
-### [web_api.public](/_public/schema-org/Class/is_a_/Intangible/service/web_api.public.md) 
+### #is_/same_as :: [web_api.public](/_public/schema-org/Class/is_a_/Intangible/service/web_api.public.md) 
 
-### [web_api.internal](/_internal/schema-org/Class/is_a_/Intangible/service/web_api.internal.md) 
+### #is_/same_as :: [web_api.internal](/_internal/schema-org/Class/is_a_/Intangible/service/web_api.internal.md) 
 
-### [web_api.protect](/_protect/schema-org/Class/is_a_/Intangible/service/web_api.protect.md) 
+### #is_/same_as :: [web_api.protect](/_protect/schema-org/Class/is_a_/Intangible/service/web_api.protect.md) 
 
-### [web_api.private](/_private/schema-org/Class/is_a_/Intangible/service/web_api.private.md) 
+### #is_/same_as :: [web_api.private](/_private/schema-org/Class/is_a_/Intangible/service/web_api.private.md) 
 
-### [web_api.personal](/_personal/schema-org/Class/is_a_/Intangible/service/web_api.personal.md) 
+### #is_/same_as :: [web_api.personal](/_personal/schema-org/Class/is_a_/Intangible/service/web_api.personal.md) 
 
-### [web_api.secret](/_secret/schema-org/Class/is_a_/Intangible/service/web_api.secret.md)
+### #is_/same_as :: [web_api.secret](/_secret/schema-org/Class/is_a_/Intangible/service/web_api.secret.md)
 

@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_volume](/_Standards/schema-org/Property/has_number_of/has_number_of_volume.md) 
+### #is_/same_as :: [has_number_of_volume](/_Standards/schema-org/Property/has_number_of/has_number_of_volume.md) 
 
-### [has_number_of_volume.public](/_public/schema-org/Property/has_number_of/has_number_of_volume.public.md) 
+### #is_/same_as :: [has_number_of_volume.public](/_public/schema-org/Property/has_number_of/has_number_of_volume.public.md) 
 
-### [has_number_of_volume.internal](/_internal/schema-org/Property/has_number_of/has_number_of_volume.internal.md) 
+### #is_/same_as :: [has_number_of_volume.internal](/_internal/schema-org/Property/has_number_of/has_number_of_volume.internal.md) 
 
-### [has_number_of_volume.protect](/_protect/schema-org/Property/has_number_of/has_number_of_volume.protect.md) 
+### #is_/same_as :: [has_number_of_volume.protect](/_protect/schema-org/Property/has_number_of/has_number_of_volume.protect.md) 
 
-### [has_number_of_volume.private](/_private/schema-org/Property/has_number_of/has_number_of_volume.private.md) 
+### #is_/same_as :: [has_number_of_volume.private](/_private/schema-org/Property/has_number_of/has_number_of_volume.private.md) 
 
-### [has_number_of_volume.personal](/_personal/schema-org/Property/has_number_of/has_number_of_volume.personal.md) 
+### #is_/same_as :: [has_number_of_volume.personal](/_personal/schema-org/Property/has_number_of/has_number_of_volume.personal.md) 
 
-### [has_number_of_volume.secret](/_secret/schema-org/Property/has_number_of/has_number_of_volume.secret.md)
+### #is_/same_as :: [has_number_of_volume.secret](/_secret/schema-org/Property/has_number_of/has_number_of_volume.secret.md)
 

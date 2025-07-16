@@ -15,21 +15,19 @@ has_id_wikidata: Q11420
 > [Wikipedia](https://en.wikipedia.org/wiki/Judo) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Judo](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.md) 
+### #is_/same_as :: [Judo](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.md) 
 
-### [Judo.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.public.md) 
+### #is_/same_as :: [Judo.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.public.md) 
 
-### [Judo.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.internal.md) 
+### #is_/same_as :: [Judo.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.internal.md) 
 
-### [Judo.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.protect.md) 
+### #is_/same_as :: [Judo.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.protect.md) 
 
-### [Judo.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.private.md) 
+### #is_/same_as :: [Judo.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.private.md) 
 
-### [Judo.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.personal.md) 
+### #is_/same_as :: [Judo.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.personal.md) 
 
-### [Judo.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.secret.md)
+### #is_/same_as :: [Judo.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts/Judo.secret.md)
 

@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_range](/_Standards/schema-org/Predicate/has_range.md) 
+### #is_/same_as :: [has_range](/_Standards/schema-org/Predicate/has_range.md) 
 
-### [has_range.public](/_public/schema-org/Predicate/has_range.public.md) 
+### #is_/same_as :: [has_range.public](/_public/schema-org/Predicate/has_range.public.md) 
 
-### [has_range.internal](/_internal/schema-org/Predicate/has_range.internal.md) 
+### #is_/same_as :: [has_range.internal](/_internal/schema-org/Predicate/has_range.internal.md) 
 
-### [has_range.protect](/_protect/schema-org/Predicate/has_range.protect.md) 
+### #is_/same_as :: [has_range.protect](/_protect/schema-org/Predicate/has_range.protect.md) 
 
-### [has_range.private](/_private/schema-org/Predicate/has_range.private.md) 
+### #is_/same_as :: [has_range.private](/_private/schema-org/Predicate/has_range.private.md) 
 
-### [has_range.personal](/_personal/schema-org/Predicate/has_range.personal.md) 
+### #is_/same_as :: [has_range.personal](/_personal/schema-org/Predicate/has_range.personal.md) 
 
-### [has_range.secret](/_secret/schema-org/Predicate/has_range.secret.md)
+### #is_/same_as :: [has_range.secret](/_secret/schema-org/Predicate/has_range.secret.md)
 

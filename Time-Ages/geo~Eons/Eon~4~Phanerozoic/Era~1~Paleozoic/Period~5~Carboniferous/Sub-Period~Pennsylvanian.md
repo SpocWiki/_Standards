@@ -56,17 +56,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Sub-Period~Pennsylvanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.md) 
+### #is_/same_as :: [Sub-Period~Pennsylvanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.md) 
 
-### [Sub-Period~Pennsylvanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.public.md) 
+### #is_/same_as :: [Sub-Period~Pennsylvanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.public.md) 
 
-### [Sub-Period~Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.internal.md) 
+### #is_/same_as :: [Sub-Period~Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.internal.md) 
 
-### [Sub-Period~Pennsylvanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.protect.md) 
+### #is_/same_as :: [Sub-Period~Pennsylvanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.protect.md) 
 
-### [Sub-Period~Pennsylvanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.private.md) 
+### #is_/same_as :: [Sub-Period~Pennsylvanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.private.md) 
 
-### [Sub-Period~Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.personal.md) 
+### #is_/same_as :: [Sub-Period~Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.personal.md) 
 
-### [Sub-Period~Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.secret.md)
+### #is_/same_as :: [Sub-Period~Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.secret.md)
 

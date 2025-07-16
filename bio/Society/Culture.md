@@ -73,17 +73,17 @@ exact_match: "http://cv.iptc.org/newscodes/subjectcode/01022000"
 
 ## Confidential Links & Embeds: 
 
-### [Culture](/_Standards/bio/Society/Culture.md) 
+### #is_/same_as :: [Culture](/_Standards/bio/Society/Culture.md) 
 
-### [Culture.public](/_public/bio/Society/Culture.public.md) 
+### #is_/same_as :: [Culture.public](/_public/bio/Society/Culture.public.md) 
 
-### [Culture.internal](/_internal/bio/Society/Culture.internal.md) 
+### #is_/same_as :: [Culture.internal](/_internal/bio/Society/Culture.internal.md) 
 
-### [Culture.protect](/_protect/bio/Society/Culture.protect.md) 
+### #is_/same_as :: [Culture.protect](/_protect/bio/Society/Culture.protect.md) 
 
-### [Culture.private](/_private/bio/Society/Culture.private.md) 
+### #is_/same_as :: [Culture.private](/_private/bio/Society/Culture.private.md) 
 
-### [Culture.personal](/_personal/bio/Society/Culture.personal.md) 
+### #is_/same_as :: [Culture.personal](/_personal/bio/Society/Culture.personal.md) 
 
-### [Culture.secret](/_secret/bio/Society/Culture.secret.md)
+### #is_/same_as :: [Culture.secret](/_secret/bio/Society/Culture.secret.md)
 

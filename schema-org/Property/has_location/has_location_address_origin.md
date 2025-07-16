@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_address_origin](/_Standards/schema-org/Property/has_location/has_location_address_origin.md) 
+### #is_/same_as :: [has_location_address_origin](/_Standards/schema-org/Property/has_location/has_location_address_origin.md) 
 
-### [has_location_address_origin.public](/_public/schema-org/Property/has_location/has_location_address_origin.public.md) 
+### #is_/same_as :: [has_location_address_origin.public](/_public/schema-org/Property/has_location/has_location_address_origin.public.md) 
 
-### [has_location_address_origin.internal](/_internal/schema-org/Property/has_location/has_location_address_origin.internal.md) 
+### #is_/same_as :: [has_location_address_origin.internal](/_internal/schema-org/Property/has_location/has_location_address_origin.internal.md) 
 
-### [has_location_address_origin.protect](/_protect/schema-org/Property/has_location/has_location_address_origin.protect.md) 
+### #is_/same_as :: [has_location_address_origin.protect](/_protect/schema-org/Property/has_location/has_location_address_origin.protect.md) 
 
-### [has_location_address_origin.private](/_private/schema-org/Property/has_location/has_location_address_origin.private.md) 
+### #is_/same_as :: [has_location_address_origin.private](/_private/schema-org/Property/has_location/has_location_address_origin.private.md) 
 
-### [has_location_address_origin.personal](/_personal/schema-org/Property/has_location/has_location_address_origin.personal.md) 
+### #is_/same_as :: [has_location_address_origin.personal](/_personal/schema-org/Property/has_location/has_location_address_origin.personal.md) 
 
-### [has_location_address_origin.secret](/_secret/schema-org/Property/has_location/has_location_address_origin.secret.md)
+### #is_/same_as :: [has_location_address_origin.secret](/_secret/schema-org/Property/has_location/has_location_address_origin.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_contact_point](/_Standards/schema-org/Relation/has/has_contact_point.md) 
+### #is_/same_as :: [has_contact_point](/_Standards/schema-org/Relation/has/has_contact_point.md) 
 
-### [has_contact_point.public](/_public/schema-org/Relation/has/has_contact_point.public.md) 
+### #is_/same_as :: [has_contact_point.public](/_public/schema-org/Relation/has/has_contact_point.public.md) 
 
-### [has_contact_point.internal](/_internal/schema-org/Relation/has/has_contact_point.internal.md) 
+### #is_/same_as :: [has_contact_point.internal](/_internal/schema-org/Relation/has/has_contact_point.internal.md) 
 
-### [has_contact_point.protect](/_protect/schema-org/Relation/has/has_contact_point.protect.md) 
+### #is_/same_as :: [has_contact_point.protect](/_protect/schema-org/Relation/has/has_contact_point.protect.md) 
 
-### [has_contact_point.private](/_private/schema-org/Relation/has/has_contact_point.private.md) 
+### #is_/same_as :: [has_contact_point.private](/_private/schema-org/Relation/has/has_contact_point.private.md) 
 
-### [has_contact_point.personal](/_personal/schema-org/Relation/has/has_contact_point.personal.md) 
+### #is_/same_as :: [has_contact_point.personal](/_personal/schema-org/Relation/has/has_contact_point.personal.md) 
 
-### [has_contact_point.secret](/_secret/schema-org/Relation/has/has_contact_point.secret.md)
+### #is_/same_as :: [has_contact_point.secret](/_secret/schema-org/Relation/has/has_contact_point.secret.md)
 

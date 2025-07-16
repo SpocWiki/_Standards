@@ -72,22 +72,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2003 Warren E. Savary
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Solifugae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.md) 
+### #is_/same_as :: [Solifugae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.md) 
 
-### [Solifugae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.public.md) 
+### #is_/same_as :: [Solifugae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.public.md) 
 
-### [Solifugae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.internal.md) 
+### #is_/same_as :: [Solifugae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.internal.md) 
 
-### [Solifugae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.protect.md) 
+### #is_/same_as :: [Solifugae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.protect.md) 
 
-### [Solifugae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.private.md) 
+### #is_/same_as :: [Solifugae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.private.md) 
 
-### [Solifugae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.personal.md) 
+### #is_/same_as :: [Solifugae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.personal.md) 
 
-### [Solifugae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.secret.md)
+### #is_/same_as :: [Solifugae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.secret.md)
 

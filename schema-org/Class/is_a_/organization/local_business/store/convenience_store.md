@@ -45,17 +45,17 @@ A convenience store.
 
 ## Confidential Links & Embeds: 
 
-### [convenience_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/convenience_store.md) 
+### #is_/same_as :: [convenience_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/convenience_store.md) 
 
-### [convenience_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/convenience_store.public.md) 
+### #is_/same_as :: [convenience_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/convenience_store.public.md) 
 
-### [convenience_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/convenience_store.internal.md) 
+### #is_/same_as :: [convenience_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/convenience_store.internal.md) 
 
-### [convenience_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/convenience_store.protect.md) 
+### #is_/same_as :: [convenience_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/convenience_store.protect.md) 
 
-### [convenience_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/convenience_store.private.md) 
+### #is_/same_as :: [convenience_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/convenience_store.private.md) 
 
-### [convenience_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/convenience_store.personal.md) 
+### #is_/same_as :: [convenience_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/convenience_store.personal.md) 
 
-### [convenience_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/convenience_store.secret.md)
+### #is_/same_as :: [convenience_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/convenience_store.secret.md)
 

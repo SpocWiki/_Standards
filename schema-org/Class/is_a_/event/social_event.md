@@ -45,17 +45,17 @@ Event type: Social event.
 
 ## Confidential Links & Embeds: 
 
-### [social_event](/_Standards/schema-org/Class/is_a_/event/social_event.md) 
+### #is_/same_as :: [social_event](/_Standards/schema-org/Class/is_a_/event/social_event.md) 
 
-### [social_event.public](/_public/schema-org/Class/is_a_/event/social_event.public.md) 
+### #is_/same_as :: [social_event.public](/_public/schema-org/Class/is_a_/event/social_event.public.md) 
 
-### [social_event.internal](/_internal/schema-org/Class/is_a_/event/social_event.internal.md) 
+### #is_/same_as :: [social_event.internal](/_internal/schema-org/Class/is_a_/event/social_event.internal.md) 
 
-### [social_event.protect](/_protect/schema-org/Class/is_a_/event/social_event.protect.md) 
+### #is_/same_as :: [social_event.protect](/_protect/schema-org/Class/is_a_/event/social_event.protect.md) 
 
-### [social_event.private](/_private/schema-org/Class/is_a_/event/social_event.private.md) 
+### #is_/same_as :: [social_event.private](/_private/schema-org/Class/is_a_/event/social_event.private.md) 
 
-### [social_event.personal](/_personal/schema-org/Class/is_a_/event/social_event.personal.md) 
+### #is_/same_as :: [social_event.personal](/_personal/schema-org/Class/is_a_/event/social_event.personal.md) 
 
-### [social_event.secret](/_secret/schema-org/Class/is_a_/event/social_event.secret.md)
+### #is_/same_as :: [social_event.secret](/_secret/schema-org/Class/is_a_/event/social_event.secret.md)
 

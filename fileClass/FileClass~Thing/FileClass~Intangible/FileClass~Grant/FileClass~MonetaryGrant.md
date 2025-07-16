@@ -45,17 +45,17 @@ Amount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MonetaryGrant](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.md) 
+### #is_/same_as :: [FileClass~MonetaryGrant](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.md) 
 
-### [FileClass~MonetaryGrant.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.public.md) 
+### #is_/same_as :: [FileClass~MonetaryGrant.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.public.md) 
 
-### [FileClass~MonetaryGrant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.internal.md) 
+### #is_/same_as :: [FileClass~MonetaryGrant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.internal.md) 
 
-### [FileClass~MonetaryGrant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.protect.md) 
+### #is_/same_as :: [FileClass~MonetaryGrant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.protect.md) 
 
-### [FileClass~MonetaryGrant.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.private.md) 
+### #is_/same_as :: [FileClass~MonetaryGrant.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.private.md) 
 
-### [FileClass~MonetaryGrant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.personal.md) 
+### #is_/same_as :: [FileClass~MonetaryGrant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.personal.md) 
 
-### [FileClass~MonetaryGrant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.secret.md)
+### #is_/same_as :: [FileClass~MonetaryGrant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.secret.md)
 

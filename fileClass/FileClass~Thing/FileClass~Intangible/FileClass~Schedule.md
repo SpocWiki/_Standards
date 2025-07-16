@@ -184,17 +184,17 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Schedule](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.md) 
+### #is_/same_as :: [FileClass~Schedule](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.md) 
 
-### [FileClass~Schedule.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.public.md) 
+### #is_/same_as :: [FileClass~Schedule.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.public.md) 
 
-### [FileClass~Schedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.internal.md) 
+### #is_/same_as :: [FileClass~Schedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.internal.md) 
 
-### [FileClass~Schedule.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.protect.md) 
+### #is_/same_as :: [FileClass~Schedule.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.protect.md) 
 
-### [FileClass~Schedule.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.private.md) 
+### #is_/same_as :: [FileClass~Schedule.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.private.md) 
 
-### [FileClass~Schedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.personal.md) 
+### #is_/same_as :: [FileClass~Schedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.personal.md) 
 
-### [FileClass~Schedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.secret.md)
+### #is_/same_as :: [FileClass~Schedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.secret.md)
 

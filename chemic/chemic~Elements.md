@@ -130,17 +130,17 @@ Wolfram_Language_entity_type: Element
 
 ## Confidential Links & Embeds: 
 
-### [chemic~Elements](/_Standards/chemic/chemic~Elements.md) 
+### #is_/same_as :: [chemic~Elements](/_Standards/chemic/chemic~Elements.md) 
 
-### [chemic~Elements.public](/_public/chemic/chemic~Elements.public.md) 
+### #is_/same_as :: [chemic~Elements.public](/_public/chemic/chemic~Elements.public.md) 
 
-### [chemic~Elements.internal](/_internal/chemic/chemic~Elements.internal.md) 
+### #is_/same_as :: [chemic~Elements.internal](/_internal/chemic/chemic~Elements.internal.md) 
 
-### [chemic~Elements.protect](/_protect/chemic/chemic~Elements.protect.md) 
+### #is_/same_as :: [chemic~Elements.protect](/_protect/chemic/chemic~Elements.protect.md) 
 
-### [chemic~Elements.private](/_private/chemic/chemic~Elements.private.md) 
+### #is_/same_as :: [chemic~Elements.private](/_private/chemic/chemic~Elements.private.md) 
 
-### [chemic~Elements.personal](/_personal/chemic/chemic~Elements.personal.md) 
+### #is_/same_as :: [chemic~Elements.personal](/_personal/chemic/chemic~Elements.personal.md) 
 
-### [chemic~Elements.secret](/_secret/chemic/chemic~Elements.secret.md)
+### #is_/same_as :: [chemic~Elements.secret](/_secret/chemic/chemic~Elements.secret.md)
 

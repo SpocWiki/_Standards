@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_cholesterol_in_milliGram](/_Standards/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.md) 
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram](/_Standards/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.md) 
 
-### [has_value_for_cholesterol_in_milliGram.public](/_public/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.public.md) 
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram.public](/_public/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.public.md) 
 
-### [has_value_for_cholesterol_in_milliGram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.internal.md) 
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.internal.md) 
 
-### [has_value_for_cholesterol_in_milliGram.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.protect.md) 
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.protect.md) 
 
-### [has_value_for_cholesterol_in_milliGram.private](/_private/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.private.md) 
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram.private](/_private/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.private.md) 
 
-### [has_value_for_cholesterol_in_milliGram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.personal.md) 
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.personal.md) 
 
-### [has_value_for_cholesterol_in_milliGram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.secret.md)
+### #is_/same_as :: [has_value_for_cholesterol_in_milliGram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.secret.md)
 

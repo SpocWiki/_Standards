@@ -178,17 +178,17 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
 
 ## Confidential Links & Embeds: 
 
-### [Lolliguncula](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.md) 
+### #is_/same_as :: [Lolliguncula](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.md) 
 
-### [Lolliguncula.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.public.md) 
+### #is_/same_as :: [Lolliguncula.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.public.md) 
 
-### [Lolliguncula.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.internal.md) 
+### #is_/same_as :: [Lolliguncula.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.internal.md) 
 
-### [Lolliguncula.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.protect.md) 
+### #is_/same_as :: [Lolliguncula.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.protect.md) 
 
-### [Lolliguncula.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.private.md) 
+### #is_/same_as :: [Lolliguncula.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.private.md) 
 
-### [Lolliguncula.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.personal.md) 
+### #is_/same_as :: [Lolliguncula.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.personal.md) 
 
-### [Lolliguncula.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.secret.md)
+### #is_/same_as :: [Lolliguncula.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.secret.md)
 

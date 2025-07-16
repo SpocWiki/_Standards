@@ -45,17 +45,17 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 ## Confidential Links & Embeds: 
 
-### [how_to_tip](/_Standards/schema-org/Class/is_a_/creative_work/how_to_tip.md) 
+### #is_/same_as :: [how_to_tip](/_Standards/schema-org/Class/is_a_/creative_work/how_to_tip.md) 
 
-### [how_to_tip.public](/_public/schema-org/Class/is_a_/creative_work/how_to_tip.public.md) 
+### #is_/same_as :: [how_to_tip.public](/_public/schema-org/Class/is_a_/creative_work/how_to_tip.public.md) 
 
-### [how_to_tip.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_tip.internal.md) 
+### #is_/same_as :: [how_to_tip.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_tip.internal.md) 
 
-### [how_to_tip.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_tip.protect.md) 
+### #is_/same_as :: [how_to_tip.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_tip.protect.md) 
 
-### [how_to_tip.private](/_private/schema-org/Class/is_a_/creative_work/how_to_tip.private.md) 
+### #is_/same_as :: [how_to_tip.private](/_private/schema-org/Class/is_a_/creative_work/how_to_tip.private.md) 
 
-### [how_to_tip.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_tip.personal.md) 
+### #is_/same_as :: [how_to_tip.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_tip.personal.md) 
 
-### [how_to_tip.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_tip.secret.md)
+### #is_/same_as :: [how_to_tip.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_tip.secret.md)
 

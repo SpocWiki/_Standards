@@ -47,17 +47,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [guide](/_Standards/schema-org/Class/is_a_/creative_work/guide.md) 
+### #is_/same_as :: [guide](/_Standards/schema-org/Class/is_a_/creative_work/guide.md) 
 
-### [guide.public](/_public/schema-org/Class/is_a_/creative_work/guide.public.md) 
+### #is_/same_as :: [guide.public](/_public/schema-org/Class/is_a_/creative_work/guide.public.md) 
 
-### [guide.internal](/_internal/schema-org/Class/is_a_/creative_work/guide.internal.md) 
+### #is_/same_as :: [guide.internal](/_internal/schema-org/Class/is_a_/creative_work/guide.internal.md) 
 
-### [guide.protect](/_protect/schema-org/Class/is_a_/creative_work/guide.protect.md) 
+### #is_/same_as :: [guide.protect](/_protect/schema-org/Class/is_a_/creative_work/guide.protect.md) 
 
-### [guide.private](/_private/schema-org/Class/is_a_/creative_work/guide.private.md) 
+### #is_/same_as :: [guide.private](/_private/schema-org/Class/is_a_/creative_work/guide.private.md) 
 
-### [guide.personal](/_personal/schema-org/Class/is_a_/creative_work/guide.personal.md) 
+### #is_/same_as :: [guide.personal](/_personal/schema-org/Class/is_a_/creative_work/guide.personal.md) 
 
-### [guide.secret](/_secret/schema-org/Class/is_a_/creative_work/guide.secret.md)
+### #is_/same_as :: [guide.secret](/_secret/schema-org/Class/is_a_/creative_work/guide.secret.md)
 

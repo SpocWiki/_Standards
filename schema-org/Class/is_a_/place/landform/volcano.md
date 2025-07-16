@@ -45,17 +45,17 @@ A volcano, like Fujisan.
 
 ## Confidential Links & Embeds: 
 
-### [volcano](/_Standards/schema-org/Class/is_a_/place/landform/volcano.md) 
+### #is_/same_as :: [volcano](/_Standards/schema-org/Class/is_a_/place/landform/volcano.md) 
 
-### [volcano.public](/_public/schema-org/Class/is_a_/place/landform/volcano.public.md) 
+### #is_/same_as :: [volcano.public](/_public/schema-org/Class/is_a_/place/landform/volcano.public.md) 
 
-### [volcano.internal](/_internal/schema-org/Class/is_a_/place/landform/volcano.internal.md) 
+### #is_/same_as :: [volcano.internal](/_internal/schema-org/Class/is_a_/place/landform/volcano.internal.md) 
 
-### [volcano.protect](/_protect/schema-org/Class/is_a_/place/landform/volcano.protect.md) 
+### #is_/same_as :: [volcano.protect](/_protect/schema-org/Class/is_a_/place/landform/volcano.protect.md) 
 
-### [volcano.private](/_private/schema-org/Class/is_a_/place/landform/volcano.private.md) 
+### #is_/same_as :: [volcano.private](/_private/schema-org/Class/is_a_/place/landform/volcano.private.md) 
 
-### [volcano.personal](/_personal/schema-org/Class/is_a_/place/landform/volcano.personal.md) 
+### #is_/same_as :: [volcano.personal](/_personal/schema-org/Class/is_a_/place/landform/volcano.personal.md) 
 
-### [volcano.secret](/_secret/schema-org/Class/is_a_/place/landform/volcano.secret.md)
+### #is_/same_as :: [volcano.secret](/_secret/schema-org/Class/is_a_/place/landform/volcano.secret.md)
 

@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_description](/_Standards/schema-org/Property/Texts/has_description.md) 
+### #is_/same_as :: [has_description](/_Standards/schema-org/Property/Texts/has_description.md) 
 
-### [has_description.public](/_public/schema-org/Property/Texts/has_description.public.md) 
+### #is_/same_as :: [has_description.public](/_public/schema-org/Property/Texts/has_description.public.md) 
 
-### [has_description.internal](/_internal/schema-org/Property/Texts/has_description.internal.md) 
+### #is_/same_as :: [has_description.internal](/_internal/schema-org/Property/Texts/has_description.internal.md) 
 
-### [has_description.protect](/_protect/schema-org/Property/Texts/has_description.protect.md) 
+### #is_/same_as :: [has_description.protect](/_protect/schema-org/Property/Texts/has_description.protect.md) 
 
-### [has_description.private](/_private/schema-org/Property/Texts/has_description.private.md) 
+### #is_/same_as :: [has_description.private](/_private/schema-org/Property/Texts/has_description.private.md) 
 
-### [has_description.personal](/_personal/schema-org/Property/Texts/has_description.personal.md) 
+### #is_/same_as :: [has_description.personal](/_personal/schema-org/Property/Texts/has_description.personal.md) 
 
-### [has_description.secret](/_secret/schema-org/Property/Texts/has_description.secret.md)
+### #is_/same_as :: [has_description.secret](/_secret/schema-org/Property/Texts/has_description.secret.md)
 

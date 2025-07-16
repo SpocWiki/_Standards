@@ -58,21 +58,19 @@ PhilPapers_topic: knowledge
 > [Wikipedia](https://en.wikipedia.org/wiki/Knowledge)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Knowledge](/_Standards/bio/People/Philosopher/Epistemology/Knowledge.md) 
+### #is_/same_as :: [Knowledge](/_Standards/bio/People/Philosopher/Epistemology/Knowledge.md) 
 
-### [Knowledge.public](/_public/bio/People/Philosopher/Epistemology/Knowledge.public.md) 
+### #is_/same_as :: [Knowledge.public](/_public/bio/People/Philosopher/Epistemology/Knowledge.public.md) 
 
-### [Knowledge.internal](/_internal/bio/People/Philosopher/Epistemology/Knowledge.internal.md) 
+### #is_/same_as :: [Knowledge.internal](/_internal/bio/People/Philosopher/Epistemology/Knowledge.internal.md) 
 
-### [Knowledge.protect](/_protect/bio/People/Philosopher/Epistemology/Knowledge.protect.md) 
+### #is_/same_as :: [Knowledge.protect](/_protect/bio/People/Philosopher/Epistemology/Knowledge.protect.md) 
 
-### [Knowledge.private](/_private/bio/People/Philosopher/Epistemology/Knowledge.private.md) 
+### #is_/same_as :: [Knowledge.private](/_private/bio/People/Philosopher/Epistemology/Knowledge.private.md) 
 
-### [Knowledge.personal](/_personal/bio/People/Philosopher/Epistemology/Knowledge.personal.md) 
+### #is_/same_as :: [Knowledge.personal](/_personal/bio/People/Philosopher/Epistemology/Knowledge.personal.md) 
 
-### [Knowledge.secret](/_secret/bio/People/Philosopher/Epistemology/Knowledge.secret.md)
+### #is_/same_as :: [Knowledge.secret](/_secret/bio/People/Philosopher/Epistemology/Knowledge.secret.md)
 

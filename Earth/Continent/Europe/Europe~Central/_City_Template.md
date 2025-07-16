@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [_City_Template](/_Standards/Earth/Continent/Europe/Europe~Central/_City_Template.md) 
+### #is_/same_as :: [_City_Template](/_Standards/Earth/Continent/Europe/Europe~Central/_City_Template.md) 
 
-### [_City_Template.public](/_public/Earth/Continent/Europe/Europe~Central/_City_Template.public.md) 
+### #is_/same_as :: [_City_Template.public](/_public/Earth/Continent/Europe/Europe~Central/_City_Template.public.md) 
 
-### [_City_Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/_City_Template.internal.md) 
+### #is_/same_as :: [_City_Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/_City_Template.internal.md) 
 
-### [_City_Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/_City_Template.protect.md) 
+### #is_/same_as :: [_City_Template.protect](/_protect/Earth/Continent/Europe/Europe~Central/_City_Template.protect.md) 
 
-### [_City_Template.private](/_private/Earth/Continent/Europe/Europe~Central/_City_Template.private.md) 
+### #is_/same_as :: [_City_Template.private](/_private/Earth/Continent/Europe/Europe~Central/_City_Template.private.md) 
 
-### [_City_Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/_City_Template.personal.md) 
+### #is_/same_as :: [_City_Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/_City_Template.personal.md) 
 
-### [_City_Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Template.secret.md)
+### #is_/same_as :: [_City_Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Template.secret.md)
 

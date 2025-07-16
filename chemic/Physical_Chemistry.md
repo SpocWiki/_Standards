@@ -62,17 +62,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_FIZICHESKAYA.html
 
 ## Confidential Links & Embeds: 
 
-### [Physical_Chemistry](/_Standards/chemic/Physical_Chemistry.md) 
+### #is_/same_as :: [Physical_Chemistry](/_Standards/chemic/Physical_Chemistry.md) 
 
-### [Physical_Chemistry.public](/_public/chemic/Physical_Chemistry.public.md) 
+### #is_/same_as :: [Physical_Chemistry.public](/_public/chemic/Physical_Chemistry.public.md) 
 
-### [Physical_Chemistry.internal](/_internal/chemic/Physical_Chemistry.internal.md) 
+### #is_/same_as :: [Physical_Chemistry.internal](/_internal/chemic/Physical_Chemistry.internal.md) 
 
-### [Physical_Chemistry.protect](/_protect/chemic/Physical_Chemistry.protect.md) 
+### #is_/same_as :: [Physical_Chemistry.protect](/_protect/chemic/Physical_Chemistry.protect.md) 
 
-### [Physical_Chemistry.private](/_private/chemic/Physical_Chemistry.private.md) 
+### #is_/same_as :: [Physical_Chemistry.private](/_private/chemic/Physical_Chemistry.private.md) 
 
-### [Physical_Chemistry.personal](/_personal/chemic/Physical_Chemistry.personal.md) 
+### #is_/same_as :: [Physical_Chemistry.personal](/_personal/chemic/Physical_Chemistry.personal.md) 
 
-### [Physical_Chemistry.secret](/_secret/chemic/Physical_Chemistry.secret.md)
+### #is_/same_as :: [Physical_Chemistry.secret](/_secret/chemic/Physical_Chemistry.secret.md)
 

@@ -765,17 +765,17 @@ Capital :: [[Warszawa]]
 
 ## Confidential Links & Embeds: 
 
-### [Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland.md) 
+### #is_/same_as :: [Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland.md) 
 
-### [Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland.public.md) 
+### #is_/same_as :: [Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland.public.md) 
 
-### [Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland.internal.md) 
+### #is_/same_as :: [Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland.internal.md) 
 
-### [Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland.protect.md) 
+### #is_/same_as :: [Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland.protect.md) 
 
-### [Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland.private.md) 
+### #is_/same_as :: [Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland.private.md) 
 
-### [Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland.personal.md) 
+### #is_/same_as :: [Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland.personal.md) 
 
-### [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md)
+### #is_/same_as :: [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md)
 

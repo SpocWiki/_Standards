@@ -62,17 +62,17 @@ At this time, Schema.org does not define any types of relationship between claim
 
 ## Confidential Links & Embeds: 
 
-### [claim](/_Standards/schema-org/Class/is_a_/creative_work/claim.md) 
+### #is_/same_as :: [claim](/_Standards/schema-org/Class/is_a_/creative_work/claim.md) 
 
-### [claim.public](/_public/schema-org/Class/is_a_/creative_work/claim.public.md) 
+### #is_/same_as :: [claim.public](/_public/schema-org/Class/is_a_/creative_work/claim.public.md) 
 
-### [claim.internal](/_internal/schema-org/Class/is_a_/creative_work/claim.internal.md) 
+### #is_/same_as :: [claim.internal](/_internal/schema-org/Class/is_a_/creative_work/claim.internal.md) 
 
-### [claim.protect](/_protect/schema-org/Class/is_a_/creative_work/claim.protect.md) 
+### #is_/same_as :: [claim.protect](/_protect/schema-org/Class/is_a_/creative_work/claim.protect.md) 
 
-### [claim.private](/_private/schema-org/Class/is_a_/creative_work/claim.private.md) 
+### #is_/same_as :: [claim.private](/_private/schema-org/Class/is_a_/creative_work/claim.private.md) 
 
-### [claim.personal](/_personal/schema-org/Class/is_a_/creative_work/claim.personal.md) 
+### #is_/same_as :: [claim.personal](/_personal/schema-org/Class/is_a_/creative_work/claim.personal.md) 
 
-### [claim.secret](/_secret/schema-org/Class/is_a_/creative_work/claim.secret.md)
+### #is_/same_as :: [claim.secret](/_secret/schema-org/Class/is_a_/creative_work/claim.secret.md)
 

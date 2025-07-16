@@ -47,17 +47,17 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 ## Confidential Links & Embeds: 
 
-### [osteopathic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.md) 
+### #is_/same_as :: [osteopathic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.md) 
 
-### [osteopathic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.public.md) 
+### #is_/same_as :: [osteopathic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.public.md) 
 
-### [osteopathic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.internal.md) 
+### #is_/same_as :: [osteopathic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.internal.md) 
 
-### [osteopathic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.protect.md) 
+### #is_/same_as :: [osteopathic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.protect.md) 
 
-### [osteopathic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.private.md) 
+### #is_/same_as :: [osteopathic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.private.md) 
 
-### [osteopathic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.personal.md) 
+### #is_/same_as :: [osteopathic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.personal.md) 
 
-### [osteopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.secret.md)
+### #is_/same_as :: [osteopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.secret.md)
 

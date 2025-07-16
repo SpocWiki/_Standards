@@ -72,17 +72,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~1~Kasimovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.md) 
+### #is_/same_as :: [Age~1~Kasimovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.md) 
 
-### [Age~1~Kasimovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.public.md) 
+### #is_/same_as :: [Age~1~Kasimovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.public.md) 
 
-### [Age~1~Kasimovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.internal.md) 
+### #is_/same_as :: [Age~1~Kasimovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.internal.md) 
 
-### [Age~1~Kasimovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.protect.md) 
+### #is_/same_as :: [Age~1~Kasimovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.protect.md) 
 
-### [Age~1~Kasimovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.private.md) 
+### #is_/same_as :: [Age~1~Kasimovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.private.md) 
 
-### [Age~1~Kasimovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.personal.md) 
+### #is_/same_as :: [Age~1~Kasimovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.personal.md) 
 
-### [Age~1~Kasimovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.secret.md)
+### #is_/same_as :: [Age~1~Kasimovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.secret.md)
 

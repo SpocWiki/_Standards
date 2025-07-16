@@ -35,17 +35,17 @@ A comedy club.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComedyClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.md) 
+### #is_/same_as :: [FileClass~ComedyClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.md) 
 
-### [FileClass~ComedyClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.public.md) 
+### #is_/same_as :: [FileClass~ComedyClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.public.md) 
 
-### [FileClass~ComedyClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.internal.md) 
+### #is_/same_as :: [FileClass~ComedyClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.internal.md) 
 
-### [FileClass~ComedyClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.protect.md) 
+### #is_/same_as :: [FileClass~ComedyClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.protect.md) 
 
-### [FileClass~ComedyClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.private.md) 
+### #is_/same_as :: [FileClass~ComedyClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.private.md) 
 
-### [FileClass~ComedyClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.personal.md) 
+### #is_/same_as :: [FileClass~ComedyClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.personal.md) 
 
-### [FileClass~ComedyClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.secret.md)
+### #is_/same_as :: [FileClass~ComedyClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.secret.md)
 

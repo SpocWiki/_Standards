@@ -35,17 +35,17 @@ A real-estate agent.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RealEstateAgent](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.md) 
+### #is_/same_as :: [FileClass~RealEstateAgent](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.md) 
 
-### [FileClass~RealEstateAgent.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.public.md) 
+### #is_/same_as :: [FileClass~RealEstateAgent.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.public.md) 
 
-### [FileClass~RealEstateAgent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.internal.md) 
+### #is_/same_as :: [FileClass~RealEstateAgent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.internal.md) 
 
-### [FileClass~RealEstateAgent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.protect.md) 
+### #is_/same_as :: [FileClass~RealEstateAgent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.protect.md) 
 
-### [FileClass~RealEstateAgent.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.private.md) 
+### #is_/same_as :: [FileClass~RealEstateAgent.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.private.md) 
 
-### [FileClass~RealEstateAgent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.personal.md) 
+### #is_/same_as :: [FileClass~RealEstateAgent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.personal.md) 
 
-### [FileClass~RealEstateAgent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.secret.md)
+### #is_/same_as :: [FileClass~RealEstateAgent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.secret.md)
 

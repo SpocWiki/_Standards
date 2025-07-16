@@ -35,17 +35,17 @@ A playground.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Playground](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.md) 
+### #is_/same_as :: [FileClass~Playground](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.md) 
 
-### [FileClass~Playground.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.public.md) 
+### #is_/same_as :: [FileClass~Playground.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.public.md) 
 
-### [FileClass~Playground.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.internal.md) 
+### #is_/same_as :: [FileClass~Playground.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.internal.md) 
 
-### [FileClass~Playground.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.protect.md) 
+### #is_/same_as :: [FileClass~Playground.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.protect.md) 
 
-### [FileClass~Playground.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.private.md) 
+### #is_/same_as :: [FileClass~Playground.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.private.md) 
 
-### [FileClass~Playground.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.personal.md) 
+### #is_/same_as :: [FileClass~Playground.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.personal.md) 
 
-### [FileClass~Playground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.secret.md)
+### #is_/same_as :: [FileClass~Playground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.secret.md)
 

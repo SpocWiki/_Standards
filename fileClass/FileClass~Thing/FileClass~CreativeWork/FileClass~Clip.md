@@ -131,17 +131,17 @@ StartOffset:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Clip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.md) 
+### #is_/same_as :: [FileClass~Clip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.md) 
 
-### [FileClass~Clip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.public.md) 
+### #is_/same_as :: [FileClass~Clip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.public.md) 
 
-### [FileClass~Clip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.internal.md) 
+### #is_/same_as :: [FileClass~Clip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.internal.md) 
 
-### [FileClass~Clip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.protect.md) 
+### #is_/same_as :: [FileClass~Clip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.protect.md) 
 
-### [FileClass~Clip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.private.md) 
+### #is_/same_as :: [FileClass~Clip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.private.md) 
 
-### [FileClass~Clip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.personal.md) 
+### #is_/same_as :: [FileClass~Clip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.personal.md) 
 
-### [FileClass~Clip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.secret.md)
+### #is_/same_as :: [FileClass~Clip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.secret.md)
 

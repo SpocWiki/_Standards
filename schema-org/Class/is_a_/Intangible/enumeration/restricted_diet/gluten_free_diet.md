@@ -47,17 +47,17 @@ A diet exclusive of gluten.
 
 ## Confidential Links & Embeds: 
 
-### [gluten_free_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.md) 
+### #is_/same_as :: [gluten_free_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.md) 
 
-### [gluten_free_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.public.md) 
+### #is_/same_as :: [gluten_free_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.public.md) 
 
-### [gluten_free_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.internal.md) 
+### #is_/same_as :: [gluten_free_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.internal.md) 
 
-### [gluten_free_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.protect.md) 
+### #is_/same_as :: [gluten_free_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.protect.md) 
 
-### [gluten_free_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.private.md) 
+### #is_/same_as :: [gluten_free_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.private.md) 
 
-### [gluten_free_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.personal.md) 
+### #is_/same_as :: [gluten_free_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.personal.md) 
 
-### [gluten_free_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.secret.md)
+### #is_/same_as :: [gluten_free_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.secret.md)
 

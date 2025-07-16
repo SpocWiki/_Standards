@@ -73,17 +73,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPLAVI.html
 
 ## Confidential Links & Embeds: 
 
-### [Alloy](/_Standards/chemic/Material/Metallurgy/Alloy.md) 
+### #is_/same_as :: [Alloy](/_Standards/chemic/Material/Metallurgy/Alloy.md) 
 
-### [Alloy.public](/_public/chemic/Material/Metallurgy/Alloy.public.md) 
+### #is_/same_as :: [Alloy.public](/_public/chemic/Material/Metallurgy/Alloy.public.md) 
 
-### [Alloy.internal](/_internal/chemic/Material/Metallurgy/Alloy.internal.md) 
+### #is_/same_as :: [Alloy.internal](/_internal/chemic/Material/Metallurgy/Alloy.internal.md) 
 
-### [Alloy.protect](/_protect/chemic/Material/Metallurgy/Alloy.protect.md) 
+### #is_/same_as :: [Alloy.protect](/_protect/chemic/Material/Metallurgy/Alloy.protect.md) 
 
-### [Alloy.private](/_private/chemic/Material/Metallurgy/Alloy.private.md) 
+### #is_/same_as :: [Alloy.private](/_private/chemic/Material/Metallurgy/Alloy.private.md) 
 
-### [Alloy.personal](/_personal/chemic/Material/Metallurgy/Alloy.personal.md) 
+### #is_/same_as :: [Alloy.personal](/_personal/chemic/Material/Metallurgy/Alloy.personal.md) 
 
-### [Alloy.secret](/_secret/chemic/Material/Metallurgy/Alloy.secret.md)
+### #is_/same_as :: [Alloy.secret](/_secret/chemic/Material/Metallurgy/Alloy.secret.md)
 

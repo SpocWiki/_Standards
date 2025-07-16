@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_physiological_benefits](/_Standards/schema-org/Property/Texts/has_physiological_benefits.md) 
+### #is_/same_as :: [has_physiological_benefits](/_Standards/schema-org/Property/Texts/has_physiological_benefits.md) 
 
-### [has_physiological_benefits.public](/_public/schema-org/Property/Texts/has_physiological_benefits.public.md) 
+### #is_/same_as :: [has_physiological_benefits.public](/_public/schema-org/Property/Texts/has_physiological_benefits.public.md) 
 
-### [has_physiological_benefits.internal](/_internal/schema-org/Property/Texts/has_physiological_benefits.internal.md) 
+### #is_/same_as :: [has_physiological_benefits.internal](/_internal/schema-org/Property/Texts/has_physiological_benefits.internal.md) 
 
-### [has_physiological_benefits.protect](/_protect/schema-org/Property/Texts/has_physiological_benefits.protect.md) 
+### #is_/same_as :: [has_physiological_benefits.protect](/_protect/schema-org/Property/Texts/has_physiological_benefits.protect.md) 
 
-### [has_physiological_benefits.private](/_private/schema-org/Property/Texts/has_physiological_benefits.private.md) 
+### #is_/same_as :: [has_physiological_benefits.private](/_private/schema-org/Property/Texts/has_physiological_benefits.private.md) 
 
-### [has_physiological_benefits.personal](/_personal/schema-org/Property/Texts/has_physiological_benefits.personal.md) 
+### #is_/same_as :: [has_physiological_benefits.personal](/_personal/schema-org/Property/Texts/has_physiological_benefits.personal.md) 
 
-### [has_physiological_benefits.secret](/_secret/schema-org/Property/Texts/has_physiological_benefits.secret.md)
+### #is_/same_as :: [has_physiological_benefits.secret](/_secret/schema-org/Property/Texts/has_physiological_benefits.secret.md)
 

@@ -49,17 +49,17 @@ Nonprofit501c21: Non-profit type referring to Black Lung Benefit Trusts.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c21](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.md) 
+### #is_/same_as :: [nonprofit501c21](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.md) 
 
-### [nonprofit501c21.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.public.md) 
+### #is_/same_as :: [nonprofit501c21.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.public.md) 
 
-### [nonprofit501c21.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.internal.md) 
+### #is_/same_as :: [nonprofit501c21.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.internal.md) 
 
-### [nonprofit501c21.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.protect.md) 
+### #is_/same_as :: [nonprofit501c21.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.protect.md) 
 
-### [nonprofit501c21.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.private.md) 
+### #is_/same_as :: [nonprofit501c21.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.private.md) 
 
-### [nonprofit501c21.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.personal.md) 
+### #is_/same_as :: [nonprofit501c21.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.personal.md) 
 
-### [nonprofit501c21.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.secret.md)
+### #is_/same_as :: [nonprofit501c21.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.secret.md)
 

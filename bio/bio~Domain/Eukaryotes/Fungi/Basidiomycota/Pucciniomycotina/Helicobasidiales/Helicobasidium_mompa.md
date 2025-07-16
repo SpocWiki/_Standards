@@ -44,17 +44,17 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### [Helicobasidium_mompa](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.md) 
+### #is_/same_as :: [Helicobasidium_mompa](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.md) 
 
-### [Helicobasidium_mompa.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.public.md) 
+### #is_/same_as :: [Helicobasidium_mompa.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.public.md) 
 
-### [Helicobasidium_mompa.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.internal.md) 
+### #is_/same_as :: [Helicobasidium_mompa.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.internal.md) 
 
-### [Helicobasidium_mompa.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.protect.md) 
+### #is_/same_as :: [Helicobasidium_mompa.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.protect.md) 
 
-### [Helicobasidium_mompa.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.private.md) 
+### #is_/same_as :: [Helicobasidium_mompa.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.private.md) 
 
-### [Helicobasidium_mompa.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.personal.md) 
+### #is_/same_as :: [Helicobasidium_mompa.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.personal.md) 
 
-### [Helicobasidium_mompa.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.secret.md)
+### #is_/same_as :: [Helicobasidium_mompa.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.secret.md)
 

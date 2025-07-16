@@ -35,17 +35,17 @@ A gas station.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GasStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.md) 
+### #is_/same_as :: [FileClass~GasStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.md) 
 
-### [FileClass~GasStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.public.md) 
+### #is_/same_as :: [FileClass~GasStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.public.md) 
 
-### [FileClass~GasStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.internal.md) 
+### #is_/same_as :: [FileClass~GasStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.internal.md) 
 
-### [FileClass~GasStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.protect.md) 
+### #is_/same_as :: [FileClass~GasStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.protect.md) 
 
-### [FileClass~GasStation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.private.md) 
+### #is_/same_as :: [FileClass~GasStation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.private.md) 
 
-### [FileClass~GasStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.personal.md) 
+### #is_/same_as :: [FileClass~GasStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.personal.md) 
 
-### [FileClass~GasStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.secret.md)
+### #is_/same_as :: [FileClass~GasStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~GasStation.secret.md)
 

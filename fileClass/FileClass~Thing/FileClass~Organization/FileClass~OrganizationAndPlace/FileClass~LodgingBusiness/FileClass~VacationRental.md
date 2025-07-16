@@ -35,17 +35,17 @@ A kind of lodging business that focuses on renting single properties for limited
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~VacationRental](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.md) 
+### #is_/same_as :: [FileClass~VacationRental](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.md) 
 
-### [FileClass~VacationRental.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.public.md) 
+### #is_/same_as :: [FileClass~VacationRental.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.public.md) 
 
-### [FileClass~VacationRental.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.internal.md) 
+### #is_/same_as :: [FileClass~VacationRental.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.internal.md) 
 
-### [FileClass~VacationRental.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.protect.md) 
+### #is_/same_as :: [FileClass~VacationRental.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.protect.md) 
 
-### [FileClass~VacationRental.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.private.md) 
+### #is_/same_as :: [FileClass~VacationRental.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.private.md) 
 
-### [FileClass~VacationRental.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.personal.md) 
+### #is_/same_as :: [FileClass~VacationRental.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.personal.md) 
 
-### [FileClass~VacationRental.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.secret.md)
+### #is_/same_as :: [FileClass~VacationRental.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.secret.md)
 

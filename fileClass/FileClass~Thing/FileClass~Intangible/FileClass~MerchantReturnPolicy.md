@@ -206,17 +206,17 @@ ReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pa
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MerchantReturnPolicy](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicy](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.md) 
 
-### [FileClass~MerchantReturnPolicy.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.public.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicy.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.public.md) 
 
-### [FileClass~MerchantReturnPolicy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.internal.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.internal.md) 
 
-### [FileClass~MerchantReturnPolicy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.protect.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.protect.md) 
 
-### [FileClass~MerchantReturnPolicy.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.private.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicy.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.private.md) 
 
-### [FileClass~MerchantReturnPolicy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.personal.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.personal.md) 
 
-### [FileClass~MerchantReturnPolicy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.secret.md)
+### #is_/same_as :: [FileClass~MerchantReturnPolicy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.secret.md)
 

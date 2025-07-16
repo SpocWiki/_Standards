@@ -601,17 +601,17 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProductAndSubstance](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.md) 
+### #is_/same_as :: [FileClass~ProductAndSubstance](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.md) 
 
-### [FileClass~ProductAndSubstance.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.public.md) 
+### #is_/same_as :: [FileClass~ProductAndSubstance.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.public.md) 
 
-### [FileClass~ProductAndSubstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.internal.md) 
+### #is_/same_as :: [FileClass~ProductAndSubstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.internal.md) 
 
-### [FileClass~ProductAndSubstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.protect.md) 
+### #is_/same_as :: [FileClass~ProductAndSubstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.protect.md) 
 
-### [FileClass~ProductAndSubstance.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.private.md) 
+### #is_/same_as :: [FileClass~ProductAndSubstance.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.private.md) 
 
-### [FileClass~ProductAndSubstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.personal.md) 
+### #is_/same_as :: [FileClass~ProductAndSubstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.personal.md) 
 
-### [FileClass~ProductAndSubstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.secret.md)
+### #is_/same_as :: [FileClass~ProductAndSubstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance.secret.md)
 

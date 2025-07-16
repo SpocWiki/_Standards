@@ -47,22 +47,19 @@ has_id_wikidata: Q483382
 > [Wikipedia](https://en.wikipedia.org/wiki/Steve%20Wozniak) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Wozniak,Steve](/_Standards/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.md) 
+### #is_/same_as :: [Wozniak,Steve](/_Standards/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.md) 
 
-### [Wozniak,Steve.public](/_public/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.public.md) 
+### #is_/same_as :: [Wozniak,Steve.public](/_public/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.public.md) 
 
-### [Wozniak,Steve.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.internal.md) 
+### #is_/same_as :: [Wozniak,Steve.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.internal.md) 
 
-### [Wozniak,Steve.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.protect.md) 
+### #is_/same_as :: [Wozniak,Steve.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.protect.md) 
 
-### [Wozniak,Steve.private](/_private/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.private.md) 
+### #is_/same_as :: [Wozniak,Steve.private](/_private/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.private.md) 
 
-### [Wozniak,Steve.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.personal.md) 
+### #is_/same_as :: [Wozniak,Steve.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.personal.md) 
 
-### [Wozniak,Steve.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.secret.md)
+### #is_/same_as :: [Wozniak,Steve.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Wozniak,Steve.secret.md)
 

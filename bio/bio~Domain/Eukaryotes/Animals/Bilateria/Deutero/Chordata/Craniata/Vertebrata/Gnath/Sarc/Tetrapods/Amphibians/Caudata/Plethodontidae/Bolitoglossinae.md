@@ -176,20 +176,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.edu)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Bolitoglossinae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.md) 
+### #is_/same_as :: [Bolitoglossinae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.md) 
 
-### [Bolitoglossinae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.public.md) 
+### #is_/same_as :: [Bolitoglossinae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.public.md) 
 
-### [Bolitoglossinae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.internal.md) 
+### #is_/same_as :: [Bolitoglossinae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.internal.md) 
 
-### [Bolitoglossinae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.protect.md) 
+### #is_/same_as :: [Bolitoglossinae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.protect.md) 
 
-### [Bolitoglossinae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.private.md) 
+### #is_/same_as :: [Bolitoglossinae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.private.md) 
 
-### [Bolitoglossinae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.personal.md) 
+### #is_/same_as :: [Bolitoglossinae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.personal.md) 
 
-### [Bolitoglossinae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.secret.md)
+### #is_/same_as :: [Bolitoglossinae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.secret.md)
 

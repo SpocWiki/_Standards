@@ -150,17 +150,17 @@ OmegaWiki_Defined_Meaning: 712247
 
 ## Confidential Links & Embeds: 
 
-### [WHO(World_Health_Organization)](/_Standards/UN(United_Nations)/WHO(World_Health_Organization).md) 
+### #is_/same_as :: [WHO(World_Health_Organization)](/_Standards/UN(United_Nations)/WHO(World_Health_Organization).md) 
 
-### [WHO(World_Health_Organization).public](/_public/UN(United_Nations)/WHO(World_Health_Organization).public.md) 
+### #is_/same_as :: [WHO(World_Health_Organization).public](/_public/UN(United_Nations)/WHO(World_Health_Organization).public.md) 
 
-### [WHO(World_Health_Organization).internal](/_internal/UN(United_Nations)/WHO(World_Health_Organization).internal.md) 
+### #is_/same_as :: [WHO(World_Health_Organization).internal](/_internal/UN(United_Nations)/WHO(World_Health_Organization).internal.md) 
 
-### [WHO(World_Health_Organization).protect](/_protect/UN(United_Nations)/WHO(World_Health_Organization).protect.md) 
+### #is_/same_as :: [WHO(World_Health_Organization).protect](/_protect/UN(United_Nations)/WHO(World_Health_Organization).protect.md) 
 
-### [WHO(World_Health_Organization).private](/_private/UN(United_Nations)/WHO(World_Health_Organization).private.md) 
+### #is_/same_as :: [WHO(World_Health_Organization).private](/_private/UN(United_Nations)/WHO(World_Health_Organization).private.md) 
 
-### [WHO(World_Health_Organization).personal](/_personal/UN(United_Nations)/WHO(World_Health_Organization).personal.md) 
+### #is_/same_as :: [WHO(World_Health_Organization).personal](/_personal/UN(United_Nations)/WHO(World_Health_Organization).personal.md) 
 
-### [WHO(World_Health_Organization).secret](/_secret/UN(United_Nations)/WHO(World_Health_Organization).secret.md)
+### #is_/same_as :: [WHO(World_Health_Organization).secret](/_secret/UN(United_Nations)/WHO(World_Health_Organization).secret.md)
 

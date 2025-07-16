@@ -46,21 +46,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Apple%20II) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Apple II](/_Standards/Technology/IT/Computer_Hardware/Computer/Apple II.md) 
+### #is_/same_as :: [Apple II](/_Standards/Technology/IT/Computer_Hardware/Computer/Apple II.md) 
 
-### [Apple II.public](/_public/Technology/IT/Computer_Hardware/Computer/Apple II.public.md) 
+### #is_/same_as :: [Apple II.public](/_public/Technology/IT/Computer_Hardware/Computer/Apple II.public.md) 
 
-### [Apple II.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Apple II.internal.md) 
+### #is_/same_as :: [Apple II.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Apple II.internal.md) 
 
-### [Apple II.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Apple II.protect.md) 
+### #is_/same_as :: [Apple II.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Apple II.protect.md) 
 
-### [Apple II.private](/_private/Technology/IT/Computer_Hardware/Computer/Apple II.private.md) 
+### #is_/same_as :: [Apple II.private](/_private/Technology/IT/Computer_Hardware/Computer/Apple II.private.md) 
 
-### [Apple II.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Apple II.personal.md) 
+### #is_/same_as :: [Apple II.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Apple II.personal.md) 
 
-### [Apple II.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Apple II.secret.md)
+### #is_/same_as :: [Apple II.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Apple II.secret.md)
 

@@ -46,20 +46,19 @@ Containing group: [Virus](../Virus.md)
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Single-stranded_Negative_RNA_Virus](/_Standards/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.md) 
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus](/_Standards/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.md) 
 
-### [Single-stranded_Negative_RNA_Virus.public](/_public/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.public.md) 
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus.public](/_public/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.public.md) 
 
-### [Single-stranded_Negative_RNA_Virus.internal](/_internal/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.internal.md) 
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus.internal](/_internal/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.internal.md) 
 
-### [Single-stranded_Negative_RNA_Virus.protect](/_protect/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.protect.md) 
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus.protect](/_protect/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.protect.md) 
 
-### [Single-stranded_Negative_RNA_Virus.private](/_private/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.private.md) 
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus.private](/_private/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.private.md) 
 
-### [Single-stranded_Negative_RNA_Virus.personal](/_personal/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.personal.md) 
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus.personal](/_personal/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.personal.md) 
 
-### [Single-stranded_Negative_RNA_Virus.secret](/_secret/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.secret.md)
+### #is_/same_as :: [Single-stranded_Negative_RNA_Virus.secret](/_secret/bio/bio~Domain/Virus/Single-stranded_Negative_RNA_Virus.secret.md)
 

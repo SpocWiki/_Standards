@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_additional_variable](/_Standards/schema-org/Property/Texts/has_additional_variable.md) 
+### #is_/same_as :: [has_additional_variable](/_Standards/schema-org/Property/Texts/has_additional_variable.md) 
 
-### [has_additional_variable.public](/_public/schema-org/Property/Texts/has_additional_variable.public.md) 
+### #is_/same_as :: [has_additional_variable.public](/_public/schema-org/Property/Texts/has_additional_variable.public.md) 
 
-### [has_additional_variable.internal](/_internal/schema-org/Property/Texts/has_additional_variable.internal.md) 
+### #is_/same_as :: [has_additional_variable.internal](/_internal/schema-org/Property/Texts/has_additional_variable.internal.md) 
 
-### [has_additional_variable.protect](/_protect/schema-org/Property/Texts/has_additional_variable.protect.md) 
+### #is_/same_as :: [has_additional_variable.protect](/_protect/schema-org/Property/Texts/has_additional_variable.protect.md) 
 
-### [has_additional_variable.private](/_private/schema-org/Property/Texts/has_additional_variable.private.md) 
+### #is_/same_as :: [has_additional_variable.private](/_private/schema-org/Property/Texts/has_additional_variable.private.md) 
 
-### [has_additional_variable.personal](/_personal/schema-org/Property/Texts/has_additional_variable.personal.md) 
+### #is_/same_as :: [has_additional_variable.personal](/_personal/schema-org/Property/Texts/has_additional_variable.personal.md) 
 
-### [has_additional_variable.secret](/_secret/schema-org/Property/Texts/has_additional_variable.secret.md)
+### #is_/same_as :: [has_additional_variable.secret](/_secret/schema-org/Property/Texts/has_additional_variable.secret.md)
 

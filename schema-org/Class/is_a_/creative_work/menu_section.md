@@ -45,17 +45,17 @@ A sub-grouping of food or drink items in a menu. E.g. courses (such as 'Dinner',
 
 ## Confidential Links & Embeds: 
 
-### [menu_section](/_Standards/schema-org/Class/is_a_/creative_work/menu_section.md) 
+### #is_/same_as :: [menu_section](/_Standards/schema-org/Class/is_a_/creative_work/menu_section.md) 
 
-### [menu_section.public](/_public/schema-org/Class/is_a_/creative_work/menu_section.public.md) 
+### #is_/same_as :: [menu_section.public](/_public/schema-org/Class/is_a_/creative_work/menu_section.public.md) 
 
-### [menu_section.internal](/_internal/schema-org/Class/is_a_/creative_work/menu_section.internal.md) 
+### #is_/same_as :: [menu_section.internal](/_internal/schema-org/Class/is_a_/creative_work/menu_section.internal.md) 
 
-### [menu_section.protect](/_protect/schema-org/Class/is_a_/creative_work/menu_section.protect.md) 
+### #is_/same_as :: [menu_section.protect](/_protect/schema-org/Class/is_a_/creative_work/menu_section.protect.md) 
 
-### [menu_section.private](/_private/schema-org/Class/is_a_/creative_work/menu_section.private.md) 
+### #is_/same_as :: [menu_section.private](/_private/schema-org/Class/is_a_/creative_work/menu_section.private.md) 
 
-### [menu_section.personal](/_personal/schema-org/Class/is_a_/creative_work/menu_section.personal.md) 
+### #is_/same_as :: [menu_section.personal](/_personal/schema-org/Class/is_a_/creative_work/menu_section.personal.md) 
 
-### [menu_section.secret](/_secret/schema-org/Class/is_a_/creative_work/menu_section.secret.md)
+### #is_/same_as :: [menu_section.secret](/_secret/schema-org/Class/is_a_/creative_work/menu_section.secret.md)
 

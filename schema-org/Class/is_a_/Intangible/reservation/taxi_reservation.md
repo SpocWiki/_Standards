@@ -47,17 +47,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [taxi_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.md) 
+### #is_/same_as :: [taxi_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.md) 
 
-### [taxi_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.public.md) 
+### #is_/same_as :: [taxi_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.public.md) 
 
-### [taxi_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.internal.md) 
+### #is_/same_as :: [taxi_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.internal.md) 
 
-### [taxi_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.protect.md) 
+### #is_/same_as :: [taxi_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.protect.md) 
 
-### [taxi_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.private.md) 
+### #is_/same_as :: [taxi_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.private.md) 
 
-### [taxi_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.personal.md) 
+### #is_/same_as :: [taxi_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.personal.md) 
 
-### [taxi_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.secret.md)
+### #is_/same_as :: [taxi_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/taxi_reservation.secret.md)
 

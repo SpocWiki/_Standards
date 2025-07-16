@@ -45,17 +45,17 @@ Residence type: Apartment complex.
 
 ## Confidential Links & Embeds: 
 
-### [apartment_complex](/_Standards/schema-org/Class/is_a_/place/residence/apartment_complex.md) 
+### #is_/same_as :: [apartment_complex](/_Standards/schema-org/Class/is_a_/place/residence/apartment_complex.md) 
 
-### [apartment_complex.public](/_public/schema-org/Class/is_a_/place/residence/apartment_complex.public.md) 
+### #is_/same_as :: [apartment_complex.public](/_public/schema-org/Class/is_a_/place/residence/apartment_complex.public.md) 
 
-### [apartment_complex.internal](/_internal/schema-org/Class/is_a_/place/residence/apartment_complex.internal.md) 
+### #is_/same_as :: [apartment_complex.internal](/_internal/schema-org/Class/is_a_/place/residence/apartment_complex.internal.md) 
 
-### [apartment_complex.protect](/_protect/schema-org/Class/is_a_/place/residence/apartment_complex.protect.md) 
+### #is_/same_as :: [apartment_complex.protect](/_protect/schema-org/Class/is_a_/place/residence/apartment_complex.protect.md) 
 
-### [apartment_complex.private](/_private/schema-org/Class/is_a_/place/residence/apartment_complex.private.md) 
+### #is_/same_as :: [apartment_complex.private](/_private/schema-org/Class/is_a_/place/residence/apartment_complex.private.md) 
 
-### [apartment_complex.personal](/_personal/schema-org/Class/is_a_/place/residence/apartment_complex.personal.md) 
+### #is_/same_as :: [apartment_complex.personal](/_personal/schema-org/Class/is_a_/place/residence/apartment_complex.personal.md) 
 
-### [apartment_complex.secret](/_secret/schema-org/Class/is_a_/place/residence/apartment_complex.secret.md)
+### #is_/same_as :: [apartment_complex.secret](/_secret/schema-org/Class/is_a_/place/residence/apartment_complex.secret.md)
 

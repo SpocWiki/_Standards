@@ -47,17 +47,17 @@ A system of medicine based on the principle that a disease can be cured by a sub
 
 ## Confidential Links & Embeds: 
 
-### [homeopathic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.md) 
+### #is_/same_as :: [homeopathic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.md) 
 
-### [homeopathic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.public.md) 
+### #is_/same_as :: [homeopathic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.public.md) 
 
-### [homeopathic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.internal.md) 
+### #is_/same_as :: [homeopathic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.internal.md) 
 
-### [homeopathic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.protect.md) 
+### #is_/same_as :: [homeopathic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.protect.md) 
 
-### [homeopathic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.private.md) 
+### #is_/same_as :: [homeopathic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.private.md) 
 
-### [homeopathic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.personal.md) 
+### #is_/same_as :: [homeopathic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.personal.md) 
 
-### [homeopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.secret.md)
+### #is_/same_as :: [homeopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.secret.md)
 

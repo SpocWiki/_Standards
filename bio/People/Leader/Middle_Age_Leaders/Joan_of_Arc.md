@@ -136,24 +136,19 @@ date_of_birth: "1412-01-15"
 > [Wikipedia](https://en.wikipedia.org/wiki/Joan%20of%20Arc)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Joan_of_Arc](/_Standards/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.md) 
+### #is_/same_as :: [Joan_of_Arc](/_Standards/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.md) 
 
-### [Joan_of_Arc.public](/_public/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.public.md) 
+### #is_/same_as :: [Joan_of_Arc.public](/_public/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.public.md) 
 
-### [Joan_of_Arc.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.internal.md) 
+### #is_/same_as :: [Joan_of_Arc.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.internal.md) 
 
-### [Joan_of_Arc.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.protect.md) 
+### #is_/same_as :: [Joan_of_Arc.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.protect.md) 
 
-### [Joan_of_Arc.private](/_private/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.private.md) 
+### #is_/same_as :: [Joan_of_Arc.private](/_private/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.private.md) 
 
-### [Joan_of_Arc.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.personal.md) 
+### #is_/same_as :: [Joan_of_Arc.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.personal.md) 
 
-### [Joan_of_Arc.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.secret.md)
+### #is_/same_as :: [Joan_of_Arc.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.secret.md)
 

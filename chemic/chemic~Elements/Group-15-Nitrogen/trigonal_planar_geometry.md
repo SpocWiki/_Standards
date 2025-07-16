@@ -37,22 +37,19 @@ H
 > [Wikipedia](https://en.wikipedia.org/wiki/Trigonal%20planar%20molecular%20geometry)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [trigonal_planar_geometry](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.md) 
+### #is_/same_as :: [trigonal_planar_geometry](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.md) 
 
-### [trigonal_planar_geometry.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.public.md) 
+### #is_/same_as :: [trigonal_planar_geometry.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.public.md) 
 
-### [trigonal_planar_geometry.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.internal.md) 
+### #is_/same_as :: [trigonal_planar_geometry.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.internal.md) 
 
-### [trigonal_planar_geometry.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.protect.md) 
+### #is_/same_as :: [trigonal_planar_geometry.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.protect.md) 
 
-### [trigonal_planar_geometry.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.private.md) 
+### #is_/same_as :: [trigonal_planar_geometry.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.private.md) 
 
-### [trigonal_planar_geometry.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.personal.md) 
+### #is_/same_as :: [trigonal_planar_geometry.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.personal.md) 
 
-### [trigonal_planar_geometry.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.secret.md)
+### #is_/same_as :: [trigonal_planar_geometry.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/trigonal_planar_geometry.secret.md)
 

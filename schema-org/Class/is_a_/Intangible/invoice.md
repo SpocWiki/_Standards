@@ -45,17 +45,17 @@ A statement of the money due for goods or services; a bill.
 
 ## Confidential Links & Embeds: 
 
-### [invoice](/_Standards/schema-org/Class/is_a_/Intangible/invoice.md) 
+### #is_/same_as :: [invoice](/_Standards/schema-org/Class/is_a_/Intangible/invoice.md) 
 
-### [invoice.public](/_public/schema-org/Class/is_a_/Intangible/invoice.public.md) 
+### #is_/same_as :: [invoice.public](/_public/schema-org/Class/is_a_/Intangible/invoice.public.md) 
 
-### [invoice.internal](/_internal/schema-org/Class/is_a_/Intangible/invoice.internal.md) 
+### #is_/same_as :: [invoice.internal](/_internal/schema-org/Class/is_a_/Intangible/invoice.internal.md) 
 
-### [invoice.protect](/_protect/schema-org/Class/is_a_/Intangible/invoice.protect.md) 
+### #is_/same_as :: [invoice.protect](/_protect/schema-org/Class/is_a_/Intangible/invoice.protect.md) 
 
-### [invoice.private](/_private/schema-org/Class/is_a_/Intangible/invoice.private.md) 
+### #is_/same_as :: [invoice.private](/_private/schema-org/Class/is_a_/Intangible/invoice.private.md) 
 
-### [invoice.personal](/_personal/schema-org/Class/is_a_/Intangible/invoice.personal.md) 
+### #is_/same_as :: [invoice.personal](/_personal/schema-org/Class/is_a_/Intangible/invoice.personal.md) 
 
-### [invoice.secret](/_secret/schema-org/Class/is_a_/Intangible/invoice.secret.md)
+### #is_/same_as :: [invoice.secret](/_secret/schema-org/Class/is_a_/Intangible/invoice.secret.md)
 

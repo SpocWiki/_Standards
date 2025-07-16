@@ -54,21 +54,19 @@ low G+C Gram positives
     -   [Bacilli](Bacilli)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Firmicutes](/_Standards/bio/bio~Domain/Bacteria/Firmicutes.md) 
+### #is_/same_as :: [Firmicutes](/_Standards/bio/bio~Domain/Bacteria/Firmicutes.md) 
 
-### [Firmicutes.public](/_public/bio/bio~Domain/Bacteria/Firmicutes.public.md) 
+### #is_/same_as :: [Firmicutes.public](/_public/bio/bio~Domain/Bacteria/Firmicutes.public.md) 
 
-### [Firmicutes.internal](/_internal/bio/bio~Domain/Bacteria/Firmicutes.internal.md) 
+### #is_/same_as :: [Firmicutes.internal](/_internal/bio/bio~Domain/Bacteria/Firmicutes.internal.md) 
 
-### [Firmicutes.protect](/_protect/bio/bio~Domain/Bacteria/Firmicutes.protect.md) 
+### #is_/same_as :: [Firmicutes.protect](/_protect/bio/bio~Domain/Bacteria/Firmicutes.protect.md) 
 
-### [Firmicutes.private](/_private/bio/bio~Domain/Bacteria/Firmicutes.private.md) 
+### #is_/same_as :: [Firmicutes.private](/_private/bio/bio~Domain/Bacteria/Firmicutes.private.md) 
 
-### [Firmicutes.personal](/_personal/bio/bio~Domain/Bacteria/Firmicutes.personal.md) 
+### #is_/same_as :: [Firmicutes.personal](/_personal/bio/bio~Domain/Bacteria/Firmicutes.personal.md) 
 
-### [Firmicutes.secret](/_secret/bio/bio~Domain/Bacteria/Firmicutes.secret.md)
+### #is_/same_as :: [Firmicutes.secret](/_secret/bio/bio~Domain/Bacteria/Firmicutes.secret.md)
 

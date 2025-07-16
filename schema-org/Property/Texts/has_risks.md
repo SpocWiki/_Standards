@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_risks](/_Standards/schema-org/Property/Texts/has_risks.md) 
+### #is_/same_as :: [has_risks](/_Standards/schema-org/Property/Texts/has_risks.md) 
 
-### [has_risks.public](/_public/schema-org/Property/Texts/has_risks.public.md) 
+### #is_/same_as :: [has_risks.public](/_public/schema-org/Property/Texts/has_risks.public.md) 
 
-### [has_risks.internal](/_internal/schema-org/Property/Texts/has_risks.internal.md) 
+### #is_/same_as :: [has_risks.internal](/_internal/schema-org/Property/Texts/has_risks.internal.md) 
 
-### [has_risks.protect](/_protect/schema-org/Property/Texts/has_risks.protect.md) 
+### #is_/same_as :: [has_risks.protect](/_protect/schema-org/Property/Texts/has_risks.protect.md) 
 
-### [has_risks.private](/_private/schema-org/Property/Texts/has_risks.private.md) 
+### #is_/same_as :: [has_risks.private](/_private/schema-org/Property/Texts/has_risks.private.md) 
 
-### [has_risks.personal](/_personal/schema-org/Property/Texts/has_risks.personal.md) 
+### #is_/same_as :: [has_risks.personal](/_personal/schema-org/Property/Texts/has_risks.personal.md) 
 
-### [has_risks.secret](/_secret/schema-org/Property/Texts/has_risks.secret.md)
+### #is_/same_as :: [has_risks.secret](/_secret/schema-org/Property/Texts/has_risks.secret.md)
 

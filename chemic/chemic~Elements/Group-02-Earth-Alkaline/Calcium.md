@@ -160,17 +160,17 @@ PubChem_CID: 5460341
 
 ## Confidential Links & Embeds: 
 
-### [Calcium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.md) 
+### #is_/same_as :: [Calcium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.md) 
 
-### [Calcium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.public.md) 
+### #is_/same_as :: [Calcium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.public.md) 
 
-### [Calcium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.internal.md) 
+### #is_/same_as :: [Calcium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.internal.md) 
 
-### [Calcium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.protect.md) 
+### #is_/same_as :: [Calcium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.protect.md) 
 
-### [Calcium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.private.md) 
+### #is_/same_as :: [Calcium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.private.md) 
 
-### [Calcium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.personal.md) 
+### #is_/same_as :: [Calcium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.personal.md) 
 
-### [Calcium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.secret.md)
+### #is_/same_as :: [Calcium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.secret.md)
 

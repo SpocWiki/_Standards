@@ -172,17 +172,17 @@ Unicode_character: 鎳
 
 ## Confidential Links & Embeds: 
 
-### [Nickel](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Nickel.md) 
+### #is_/same_as :: [Nickel](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Nickel.md) 
 
-### [Nickel.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Nickel.public.md) 
+### #is_/same_as :: [Nickel.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Nickel.public.md) 
 
-### [Nickel.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Nickel.internal.md) 
+### #is_/same_as :: [Nickel.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Nickel.internal.md) 
 
-### [Nickel.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Nickel.protect.md) 
+### #is_/same_as :: [Nickel.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Nickel.protect.md) 
 
-### [Nickel.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Nickel.private.md) 
+### #is_/same_as :: [Nickel.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Nickel.private.md) 
 
-### [Nickel.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Nickel.personal.md) 
+### #is_/same_as :: [Nickel.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Nickel.personal.md) 
 
-### [Nickel.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Nickel.secret.md)
+### #is_/same_as :: [Nickel.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Nickel.secret.md)
 

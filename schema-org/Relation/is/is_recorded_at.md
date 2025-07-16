@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_recorded_at](/_Standards/schema-org/Relation/is/is_recorded_at.md) 
+### #is_/same_as :: [is_recorded_at](/_Standards/schema-org/Relation/is/is_recorded_at.md) 
 
-### [is_recorded_at.public](/_public/schema-org/Relation/is/is_recorded_at.public.md) 
+### #is_/same_as :: [is_recorded_at.public](/_public/schema-org/Relation/is/is_recorded_at.public.md) 
 
-### [is_recorded_at.internal](/_internal/schema-org/Relation/is/is_recorded_at.internal.md) 
+### #is_/same_as :: [is_recorded_at.internal](/_internal/schema-org/Relation/is/is_recorded_at.internal.md) 
 
-### [is_recorded_at.protect](/_protect/schema-org/Relation/is/is_recorded_at.protect.md) 
+### #is_/same_as :: [is_recorded_at.protect](/_protect/schema-org/Relation/is/is_recorded_at.protect.md) 
 
-### [is_recorded_at.private](/_private/schema-org/Relation/is/is_recorded_at.private.md) 
+### #is_/same_as :: [is_recorded_at.private](/_private/schema-org/Relation/is/is_recorded_at.private.md) 
 
-### [is_recorded_at.personal](/_personal/schema-org/Relation/is/is_recorded_at.personal.md) 
+### #is_/same_as :: [is_recorded_at.personal](/_personal/schema-org/Relation/is/is_recorded_at.personal.md) 
 
-### [is_recorded_at.secret](/_secret/schema-org/Relation/is/is_recorded_at.secret.md)
+### #is_/same_as :: [is_recorded_at.secret](/_secret/schema-org/Relation/is/is_recorded_at.secret.md)
 

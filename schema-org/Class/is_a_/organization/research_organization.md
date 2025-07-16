@@ -47,17 +47,17 @@ A Research Organization (e.g. scientific institute, research company).
 
 ## Confidential Links & Embeds: 
 
-### [research_organization](/_Standards/schema-org/Class/is_a_/organization/research_organization.md) 
+### #is_/same_as :: [research_organization](/_Standards/schema-org/Class/is_a_/organization/research_organization.md) 
 
-### [research_organization.public](/_public/schema-org/Class/is_a_/organization/research_organization.public.md) 
+### #is_/same_as :: [research_organization.public](/_public/schema-org/Class/is_a_/organization/research_organization.public.md) 
 
-### [research_organization.internal](/_internal/schema-org/Class/is_a_/organization/research_organization.internal.md) 
+### #is_/same_as :: [research_organization.internal](/_internal/schema-org/Class/is_a_/organization/research_organization.internal.md) 
 
-### [research_organization.protect](/_protect/schema-org/Class/is_a_/organization/research_organization.protect.md) 
+### #is_/same_as :: [research_organization.protect](/_protect/schema-org/Class/is_a_/organization/research_organization.protect.md) 
 
-### [research_organization.private](/_private/schema-org/Class/is_a_/organization/research_organization.private.md) 
+### #is_/same_as :: [research_organization.private](/_private/schema-org/Class/is_a_/organization/research_organization.private.md) 
 
-### [research_organization.personal](/_personal/schema-org/Class/is_a_/organization/research_organization.personal.md) 
+### #is_/same_as :: [research_organization.personal](/_personal/schema-org/Class/is_a_/organization/research_organization.personal.md) 
 
-### [research_organization.secret](/_secret/schema-org/Class/is_a_/organization/research_organization.secret.md)
+### #is_/same_as :: [research_organization.secret](/_secret/schema-org/Class/is_a_/organization/research_organization.secret.md)
 

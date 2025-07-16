@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_preparation](/_Standards/schema-org/Relation/has/has_preparation.md) 
+### #is_/same_as :: [has_preparation](/_Standards/schema-org/Relation/has/has_preparation.md) 
 
-### [has_preparation.public](/_public/schema-org/Relation/has/has_preparation.public.md) 
+### #is_/same_as :: [has_preparation.public](/_public/schema-org/Relation/has/has_preparation.public.md) 
 
-### [has_preparation.internal](/_internal/schema-org/Relation/has/has_preparation.internal.md) 
+### #is_/same_as :: [has_preparation.internal](/_internal/schema-org/Relation/has/has_preparation.internal.md) 
 
-### [has_preparation.protect](/_protect/schema-org/Relation/has/has_preparation.protect.md) 
+### #is_/same_as :: [has_preparation.protect](/_protect/schema-org/Relation/has/has_preparation.protect.md) 
 
-### [has_preparation.private](/_private/schema-org/Relation/has/has_preparation.private.md) 
+### #is_/same_as :: [has_preparation.private](/_private/schema-org/Relation/has/has_preparation.private.md) 
 
-### [has_preparation.personal](/_personal/schema-org/Relation/has/has_preparation.personal.md) 
+### #is_/same_as :: [has_preparation.personal](/_personal/schema-org/Relation/has/has_preparation.personal.md) 
 
-### [has_preparation.secret](/_secret/schema-org/Relation/has/has_preparation.secret.md)
+### #is_/same_as :: [has_preparation.secret](/_secret/schema-org/Relation/has/has_preparation.secret.md)
 

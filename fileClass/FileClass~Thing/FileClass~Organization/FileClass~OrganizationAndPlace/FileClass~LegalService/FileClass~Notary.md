@@ -35,17 +35,17 @@ A notary.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Notary](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.md) 
+### #is_/same_as :: [FileClass~Notary](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.md) 
 
-### [FileClass~Notary.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.public.md) 
+### #is_/same_as :: [FileClass~Notary.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.public.md) 
 
-### [FileClass~Notary.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.internal.md) 
+### #is_/same_as :: [FileClass~Notary.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.internal.md) 
 
-### [FileClass~Notary.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.protect.md) 
+### #is_/same_as :: [FileClass~Notary.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.protect.md) 
 
-### [FileClass~Notary.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.private.md) 
+### #is_/same_as :: [FileClass~Notary.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.private.md) 
 
-### [FileClass~Notary.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.personal.md) 
+### #is_/same_as :: [FileClass~Notary.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.personal.md) 
 
-### [FileClass~Notary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.secret.md)
+### #is_/same_as :: [FileClass~Notary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.secret.md)
 

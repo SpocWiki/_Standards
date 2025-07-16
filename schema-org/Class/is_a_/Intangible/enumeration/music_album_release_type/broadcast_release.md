@@ -47,17 +47,17 @@ BroadcastRelease.
 
 ## Confidential Links & Embeds: 
 
-### [broadcast_release](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.md) 
+### #is_/same_as :: [broadcast_release](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.md) 
 
-### [broadcast_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.public.md) 
+### #is_/same_as :: [broadcast_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.public.md) 
 
-### [broadcast_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.internal.md) 
+### #is_/same_as :: [broadcast_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.internal.md) 
 
-### [broadcast_release.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.protect.md) 
+### #is_/same_as :: [broadcast_release.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.protect.md) 
 
-### [broadcast_release.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.private.md) 
+### #is_/same_as :: [broadcast_release.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.private.md) 
 
-### [broadcast_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.personal.md) 
+### #is_/same_as :: [broadcast_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.personal.md) 
 
-### [broadcast_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.secret.md)
+### #is_/same_as :: [broadcast_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.secret.md)
 

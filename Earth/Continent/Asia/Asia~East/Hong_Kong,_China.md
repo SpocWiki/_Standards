@@ -37,17 +37,17 @@ Capital :: [[China/Hong_Kong]]
 
 ## Confidential Links & Embeds: 
 
-### [Hong_Kong,_China](/_Standards/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.md) 
+### #is_/same_as :: [Hong_Kong,_China](/_Standards/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.md) 
 
-### [Hong_Kong,_China.public](/_public/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.public.md) 
+### #is_/same_as :: [Hong_Kong,_China.public](/_public/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.public.md) 
 
-### [Hong_Kong,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.internal.md) 
+### #is_/same_as :: [Hong_Kong,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.internal.md) 
 
-### [Hong_Kong,_China.protect](/_protect/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.protect.md) 
+### #is_/same_as :: [Hong_Kong,_China.protect](/_protect/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.protect.md) 
 
-### [Hong_Kong,_China.private](/_private/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.private.md) 
+### #is_/same_as :: [Hong_Kong,_China.private](/_private/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.private.md) 
 
-### [Hong_Kong,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.personal.md) 
+### #is_/same_as :: [Hong_Kong,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.personal.md) 
 
-### [Hong_Kong,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.secret.md)
+### #is_/same_as :: [Hong_Kong,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.secret.md)
 

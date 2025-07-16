@@ -712,17 +712,17 @@ Capital :: [[UK/London,City]]
 
 ## Confidential Links & Embeds: 
 
-### [UK](/_Standards/Earth/Continent/Europe/Europe~North/UK.md) 
+### #is_/same_as :: [UK](/_Standards/Earth/Continent/Europe/Europe~North/UK.md) 
 
-### [UK.public](/_public/Earth/Continent/Europe/Europe~North/UK.public.md) 
+### #is_/same_as :: [UK.public](/_public/Earth/Continent/Europe/Europe~North/UK.public.md) 
 
-### [UK.internal](/_internal/Earth/Continent/Europe/Europe~North/UK.internal.md) 
+### #is_/same_as :: [UK.internal](/_internal/Earth/Continent/Europe/Europe~North/UK.internal.md) 
 
-### [UK.protect](/_protect/Earth/Continent/Europe/Europe~North/UK.protect.md) 
+### #is_/same_as :: [UK.protect](/_protect/Earth/Continent/Europe/Europe~North/UK.protect.md) 
 
-### [UK.private](/_private/Earth/Continent/Europe/Europe~North/UK.private.md) 
+### #is_/same_as :: [UK.private](/_private/Earth/Continent/Europe/Europe~North/UK.private.md) 
 
-### [UK.personal](/_personal/Earth/Continent/Europe/Europe~North/UK.personal.md) 
+### #is_/same_as :: [UK.personal](/_personal/Earth/Continent/Europe/Europe~North/UK.personal.md) 
 
-### [UK.secret](/_secret/Earth/Continent/Europe/Europe~North/UK.secret.md)
+### #is_/same_as :: [UK.secret](/_secret/Earth/Continent/Europe/Europe~North/UK.secret.md)
 

@@ -35,17 +35,17 @@ A roofing contractor.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RoofingContractor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.md) 
+### #is_/same_as :: [FileClass~RoofingContractor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.md) 
 
-### [FileClass~RoofingContractor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.public.md) 
+### #is_/same_as :: [FileClass~RoofingContractor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.public.md) 
 
-### [FileClass~RoofingContractor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.internal.md) 
+### #is_/same_as :: [FileClass~RoofingContractor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.internal.md) 
 
-### [FileClass~RoofingContractor.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.protect.md) 
+### #is_/same_as :: [FileClass~RoofingContractor.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.protect.md) 
 
-### [FileClass~RoofingContractor.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.private.md) 
+### #is_/same_as :: [FileClass~RoofingContractor.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.private.md) 
 
-### [FileClass~RoofingContractor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.personal.md) 
+### #is_/same_as :: [FileClass~RoofingContractor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.personal.md) 
 
-### [FileClass~RoofingContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.secret.md)
+### #is_/same_as :: [FileClass~RoofingContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.secret.md)
 

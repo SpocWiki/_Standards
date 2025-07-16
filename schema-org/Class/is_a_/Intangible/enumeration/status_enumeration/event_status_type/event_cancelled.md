@@ -47,17 +47,17 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 
 ## Confidential Links & Embeds: 
 
-### [event_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md) 
+### #is_/same_as :: [event_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md) 
 
-### [event_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.public.md) 
+### #is_/same_as :: [event_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.public.md) 
 
-### [event_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md) 
+### #is_/same_as :: [event_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md) 
 
-### [event_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md) 
+### #is_/same_as :: [event_cancelled.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md) 
 
-### [event_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md) 
+### #is_/same_as :: [event_cancelled.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md) 
 
-### [event_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md) 
+### #is_/same_as :: [event_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md) 
 
-### [event_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md)
+### #is_/same_as :: [event_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md)
 

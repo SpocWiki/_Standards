@@ -47,21 +47,19 @@ Commons_category: Fat
 > [Wikipedia](https://en.wikipedia.org/wiki/Fat)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Fat](/_Standards/bio/Metabolism/Nutrition/Fat.md) 
+### #is_/same_as :: [Fat](/_Standards/bio/Metabolism/Nutrition/Fat.md) 
 
-### [Fat.public](/_public/bio/Metabolism/Nutrition/Fat.public.md) 
+### #is_/same_as :: [Fat.public](/_public/bio/Metabolism/Nutrition/Fat.public.md) 
 
-### [Fat.internal](/_internal/bio/Metabolism/Nutrition/Fat.internal.md) 
+### #is_/same_as :: [Fat.internal](/_internal/bio/Metabolism/Nutrition/Fat.internal.md) 
 
-### [Fat.protect](/_protect/bio/Metabolism/Nutrition/Fat.protect.md) 
+### #is_/same_as :: [Fat.protect](/_protect/bio/Metabolism/Nutrition/Fat.protect.md) 
 
-### [Fat.private](/_private/bio/Metabolism/Nutrition/Fat.private.md) 
+### #is_/same_as :: [Fat.private](/_private/bio/Metabolism/Nutrition/Fat.private.md) 
 
-### [Fat.personal](/_personal/bio/Metabolism/Nutrition/Fat.personal.md) 
+### #is_/same_as :: [Fat.personal](/_personal/bio/Metabolism/Nutrition/Fat.personal.md) 
 
-### [Fat.secret](/_secret/bio/Metabolism/Nutrition/Fat.secret.md)
+### #is_/same_as :: [Fat.secret](/_secret/bio/Metabolism/Nutrition/Fat.secret.md)
 

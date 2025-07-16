@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_tour_booking_page](/_Standards/schema-org/Property/has_url_for/has_url_for_tour_booking_page.md) 
+### #is_/same_as :: [has_url_for_tour_booking_page](/_Standards/schema-org/Property/has_url_for/has_url_for_tour_booking_page.md) 
 
-### [has_url_for_tour_booking_page.public](/_public/schema-org/Property/has_url_for/has_url_for_tour_booking_page.public.md) 
+### #is_/same_as :: [has_url_for_tour_booking_page.public](/_public/schema-org/Property/has_url_for/has_url_for_tour_booking_page.public.md) 
 
-### [has_url_for_tour_booking_page.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.internal.md) 
+### #is_/same_as :: [has_url_for_tour_booking_page.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.internal.md) 
 
-### [has_url_for_tour_booking_page.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tour_booking_page.protect.md) 
+### #is_/same_as :: [has_url_for_tour_booking_page.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tour_booking_page.protect.md) 
 
-### [has_url_for_tour_booking_page.private](/_private/schema-org/Property/has_url_for/has_url_for_tour_booking_page.private.md) 
+### #is_/same_as :: [has_url_for_tour_booking_page.private](/_private/schema-org/Property/has_url_for/has_url_for_tour_booking_page.private.md) 
 
-### [has_url_for_tour_booking_page.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.personal.md) 
+### #is_/same_as :: [has_url_for_tour_booking_page.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.personal.md) 
 
-### [has_url_for_tour_booking_page.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tour_booking_page.secret.md)
+### #is_/same_as :: [has_url_for_tour_booking_page.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tour_booking_page.secret.md)
 

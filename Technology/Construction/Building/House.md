@@ -75,23 +75,19 @@ GeoNames_feature_code: S.HSE
 > [Wikipedia](https://en.wikipedia.org/wiki/House) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [House](/_Standards/Technology/Construction/Building/House.md) 
+### #is_/same_as :: [House](/_Standards/Technology/Construction/Building/House.md) 
 
-### [House.public](/_public/Technology/Construction/Building/House.public.md) 
+### #is_/same_as :: [House.public](/_public/Technology/Construction/Building/House.public.md) 
 
-### [House.internal](/_internal/Technology/Construction/Building/House.internal.md) 
+### #is_/same_as :: [House.internal](/_internal/Technology/Construction/Building/House.internal.md) 
 
-### [House.protect](/_protect/Technology/Construction/Building/House.protect.md) 
+### #is_/same_as :: [House.protect](/_protect/Technology/Construction/Building/House.protect.md) 
 
-### [House.private](/_private/Technology/Construction/Building/House.private.md) 
+### #is_/same_as :: [House.private](/_private/Technology/Construction/Building/House.private.md) 
 
-### [House.personal](/_personal/Technology/Construction/Building/House.personal.md) 
+### #is_/same_as :: [House.personal](/_personal/Technology/Construction/Building/House.personal.md) 
 
-### [House.secret](/_secret/Technology/Construction/Building/House.secret.md)
+### #is_/same_as :: [House.secret](/_secret/Technology/Construction/Building/House.secret.md)
 

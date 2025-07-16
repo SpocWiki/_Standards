@@ -49,17 +49,17 @@ Nonprofit501a: Non-profit type referring to Farmersâ€™ Cooperative Associat
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.md) 
+### #is_/same_as :: [nonprofit501a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.md) 
 
-### [nonprofit501a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.public.md) 
+### #is_/same_as :: [nonprofit501a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.public.md) 
 
-### [nonprofit501a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.internal.md) 
+### #is_/same_as :: [nonprofit501a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.internal.md) 
 
-### [nonprofit501a.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.protect.md) 
+### #is_/same_as :: [nonprofit501a.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.protect.md) 
 
-### [nonprofit501a.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.private.md) 
+### #is_/same_as :: [nonprofit501a.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.private.md) 
 
-### [nonprofit501a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.personal.md) 
+### #is_/same_as :: [nonprofit501a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.personal.md) 
 
-### [nonprofit501a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.secret.md)
+### #is_/same_as :: [nonprofit501a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.secret.md)
 

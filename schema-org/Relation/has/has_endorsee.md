@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_endorsee](/_Standards/schema-org/Relation/has/has_endorsee.md) 
+### #is_/same_as :: [has_endorsee](/_Standards/schema-org/Relation/has/has_endorsee.md) 
 
-### [has_endorsee.public](/_public/schema-org/Relation/has/has_endorsee.public.md) 
+### #is_/same_as :: [has_endorsee.public](/_public/schema-org/Relation/has/has_endorsee.public.md) 
 
-### [has_endorsee.internal](/_internal/schema-org/Relation/has/has_endorsee.internal.md) 
+### #is_/same_as :: [has_endorsee.internal](/_internal/schema-org/Relation/has/has_endorsee.internal.md) 
 
-### [has_endorsee.protect](/_protect/schema-org/Relation/has/has_endorsee.protect.md) 
+### #is_/same_as :: [has_endorsee.protect](/_protect/schema-org/Relation/has/has_endorsee.protect.md) 
 
-### [has_endorsee.private](/_private/schema-org/Relation/has/has_endorsee.private.md) 
+### #is_/same_as :: [has_endorsee.private](/_private/schema-org/Relation/has/has_endorsee.private.md) 
 
-### [has_endorsee.personal](/_personal/schema-org/Relation/has/has_endorsee.personal.md) 
+### #is_/same_as :: [has_endorsee.personal](/_personal/schema-org/Relation/has/has_endorsee.personal.md) 
 
-### [has_endorsee.secret](/_secret/schema-org/Relation/has/has_endorsee.secret.md)
+### #is_/same_as :: [has_endorsee.secret](/_secret/schema-org/Relation/has/has_endorsee.secret.md)
 

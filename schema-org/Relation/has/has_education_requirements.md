@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_education_requirements](/_Standards/schema-org/Relation/has/has_education_requirements.md) 
+### #is_/same_as :: [has_education_requirements](/_Standards/schema-org/Relation/has/has_education_requirements.md) 
 
-### [has_education_requirements.public](/_public/schema-org/Relation/has/has_education_requirements.public.md) 
+### #is_/same_as :: [has_education_requirements.public](/_public/schema-org/Relation/has/has_education_requirements.public.md) 
 
-### [has_education_requirements.internal](/_internal/schema-org/Relation/has/has_education_requirements.internal.md) 
+### #is_/same_as :: [has_education_requirements.internal](/_internal/schema-org/Relation/has/has_education_requirements.internal.md) 
 
-### [has_education_requirements.protect](/_protect/schema-org/Relation/has/has_education_requirements.protect.md) 
+### #is_/same_as :: [has_education_requirements.protect](/_protect/schema-org/Relation/has/has_education_requirements.protect.md) 
 
-### [has_education_requirements.private](/_private/schema-org/Relation/has/has_education_requirements.private.md) 
+### #is_/same_as :: [has_education_requirements.private](/_private/schema-org/Relation/has/has_education_requirements.private.md) 
 
-### [has_education_requirements.personal](/_personal/schema-org/Relation/has/has_education_requirements.personal.md) 
+### #is_/same_as :: [has_education_requirements.personal](/_personal/schema-org/Relation/has/has_education_requirements.personal.md) 
 
-### [has_education_requirements.secret](/_secret/schema-org/Relation/has/has_education_requirements.secret.md)
+### #is_/same_as :: [has_education_requirements.secret](/_secret/schema-org/Relation/has/has_education_requirements.secret.md)
 

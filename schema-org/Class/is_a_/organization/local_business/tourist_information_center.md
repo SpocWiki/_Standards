@@ -45,17 +45,17 @@ A tourist information center.
 
 ## Confidential Links & Embeds: 
 
-### [tourist_information_center](/_Standards/schema-org/Class/is_a_/organization/local_business/tourist_information_center.md) 
+### #is_/same_as :: [tourist_information_center](/_Standards/schema-org/Class/is_a_/organization/local_business/tourist_information_center.md) 
 
-### [tourist_information_center.public](/_public/schema-org/Class/is_a_/organization/local_business/tourist_information_center.public.md) 
+### #is_/same_as :: [tourist_information_center.public](/_public/schema-org/Class/is_a_/organization/local_business/tourist_information_center.public.md) 
 
-### [tourist_information_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/tourist_information_center.internal.md) 
+### #is_/same_as :: [tourist_information_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/tourist_information_center.internal.md) 
 
-### [tourist_information_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/tourist_information_center.protect.md) 
+### #is_/same_as :: [tourist_information_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/tourist_information_center.protect.md) 
 
-### [tourist_information_center.private](/_private/schema-org/Class/is_a_/organization/local_business/tourist_information_center.private.md) 
+### #is_/same_as :: [tourist_information_center.private](/_private/schema-org/Class/is_a_/organization/local_business/tourist_information_center.private.md) 
 
-### [tourist_information_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/tourist_information_center.personal.md) 
+### #is_/same_as :: [tourist_information_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/tourist_information_center.personal.md) 
 
-### [tourist_information_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/tourist_information_center.secret.md)
+### #is_/same_as :: [tourist_information_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/tourist_information_center.secret.md)
 

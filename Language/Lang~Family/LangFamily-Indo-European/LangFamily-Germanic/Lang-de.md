@@ -218,17 +218,17 @@ ABS_ASCL_2011_code: 1301
 
 ## Confidential Links & Embeds: 
 
-### [Lang-de](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.md) 
+### #is_/same_as :: [Lang-de](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.md) 
 
-### [Lang-de.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.public.md) 
+### #is_/same_as :: [Lang-de.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.public.md) 
 
-### [Lang-de.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.internal.md) 
+### #is_/same_as :: [Lang-de.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.internal.md) 
 
-### [Lang-de.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.protect.md) 
+### #is_/same_as :: [Lang-de.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.protect.md) 
 
-### [Lang-de.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.private.md) 
+### #is_/same_as :: [Lang-de.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.private.md) 
 
-### [Lang-de.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.personal.md) 
+### #is_/same_as :: [Lang-de.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.personal.md) 
 
-### [Lang-de.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.secret.md)
+### #is_/same_as :: [Lang-de.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.secret.md)
 

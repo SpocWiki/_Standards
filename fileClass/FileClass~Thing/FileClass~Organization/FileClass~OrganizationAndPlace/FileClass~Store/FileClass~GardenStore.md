@@ -35,17 +35,17 @@ A garden store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GardenStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.md) 
+### #is_/same_as :: [FileClass~GardenStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.md) 
 
-### [FileClass~GardenStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.public.md) 
+### #is_/same_as :: [FileClass~GardenStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.public.md) 
 
-### [FileClass~GardenStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.internal.md) 
+### #is_/same_as :: [FileClass~GardenStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.internal.md) 
 
-### [FileClass~GardenStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.protect.md) 
+### #is_/same_as :: [FileClass~GardenStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.protect.md) 
 
-### [FileClass~GardenStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.private.md) 
+### #is_/same_as :: [FileClass~GardenStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.private.md) 
 
-### [FileClass~GardenStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.personal.md) 
+### #is_/same_as :: [FileClass~GardenStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.personal.md) 
 
-### [FileClass~GardenStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.secret.md)
+### #is_/same_as :: [FileClass~GardenStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GardenStore.secret.md)
 

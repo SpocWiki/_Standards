@@ -207,20 +207,19 @@ Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons Licen
 Copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Spelerpinae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.md) 
+### #is_/same_as :: [Spelerpinae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.md) 
 
-### [Spelerpinae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.public.md) 
+### #is_/same_as :: [Spelerpinae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.public.md) 
 
-### [Spelerpinae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.internal.md) 
+### #is_/same_as :: [Spelerpinae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.internal.md) 
 
-### [Spelerpinae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.protect.md) 
+### #is_/same_as :: [Spelerpinae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.protect.md) 
 
-### [Spelerpinae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.private.md) 
+### #is_/same_as :: [Spelerpinae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.private.md) 
 
-### [Spelerpinae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.personal.md) 
+### #is_/same_as :: [Spelerpinae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.personal.md) 
 
-### [Spelerpinae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.secret.md)
+### #is_/same_as :: [Spelerpinae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.secret.md)
 

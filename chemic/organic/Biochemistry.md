@@ -56,17 +56,17 @@ All_Science_Journal_Classification_Codes: 1303
 
 ## Confidential Links & Embeds: 
 
-### [Biochemistry](/_Standards/chemic/organic/Biochemistry.md) 
+### #is_/same_as :: [Biochemistry](/_Standards/chemic/organic/Biochemistry.md) 
 
-### [Biochemistry.public](/_public/chemic/organic/Biochemistry.public.md) 
+### #is_/same_as :: [Biochemistry.public](/_public/chemic/organic/Biochemistry.public.md) 
 
-### [Biochemistry.internal](/_internal/chemic/organic/Biochemistry.internal.md) 
+### #is_/same_as :: [Biochemistry.internal](/_internal/chemic/organic/Biochemistry.internal.md) 
 
-### [Biochemistry.protect](/_protect/chemic/organic/Biochemistry.protect.md) 
+### #is_/same_as :: [Biochemistry.protect](/_protect/chemic/organic/Biochemistry.protect.md) 
 
-### [Biochemistry.private](/_private/chemic/organic/Biochemistry.private.md) 
+### #is_/same_as :: [Biochemistry.private](/_private/chemic/organic/Biochemistry.private.md) 
 
-### [Biochemistry.personal](/_personal/chemic/organic/Biochemistry.personal.md) 
+### #is_/same_as :: [Biochemistry.personal](/_personal/chemic/organic/Biochemistry.personal.md) 
 
-### [Biochemistry.secret](/_secret/chemic/organic/Biochemistry.secret.md)
+### #is_/same_as :: [Biochemistry.secret](/_secret/chemic/organic/Biochemistry.secret.md)
 

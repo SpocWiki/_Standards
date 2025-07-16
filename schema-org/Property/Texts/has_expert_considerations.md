@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_expert_considerations](/_Standards/schema-org/Property/Texts/has_expert_considerations.md) 
+### #is_/same_as :: [has_expert_considerations](/_Standards/schema-org/Property/Texts/has_expert_considerations.md) 
 
-### [has_expert_considerations.public](/_public/schema-org/Property/Texts/has_expert_considerations.public.md) 
+### #is_/same_as :: [has_expert_considerations.public](/_public/schema-org/Property/Texts/has_expert_considerations.public.md) 
 
-### [has_expert_considerations.internal](/_internal/schema-org/Property/Texts/has_expert_considerations.internal.md) 
+### #is_/same_as :: [has_expert_considerations.internal](/_internal/schema-org/Property/Texts/has_expert_considerations.internal.md) 
 
-### [has_expert_considerations.protect](/_protect/schema-org/Property/Texts/has_expert_considerations.protect.md) 
+### #is_/same_as :: [has_expert_considerations.protect](/_protect/schema-org/Property/Texts/has_expert_considerations.protect.md) 
 
-### [has_expert_considerations.private](/_private/schema-org/Property/Texts/has_expert_considerations.private.md) 
+### #is_/same_as :: [has_expert_considerations.private](/_private/schema-org/Property/Texts/has_expert_considerations.private.md) 
 
-### [has_expert_considerations.personal](/_personal/schema-org/Property/Texts/has_expert_considerations.personal.md) 
+### #is_/same_as :: [has_expert_considerations.personal](/_personal/schema-org/Property/Texts/has_expert_considerations.personal.md) 
 
-### [has_expert_considerations.secret](/_secret/schema-org/Property/Texts/has_expert_considerations.secret.md)
+### #is_/same_as :: [has_expert_considerations.secret](/_secret/schema-org/Property/Texts/has_expert_considerations.secret.md)
 

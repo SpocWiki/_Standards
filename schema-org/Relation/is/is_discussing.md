@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_discussing](/_Standards/schema-org/Relation/is/is_discussing.md) 
+### #is_/same_as :: [is_discussing](/_Standards/schema-org/Relation/is/is_discussing.md) 
 
-### [is_discussing.public](/_public/schema-org/Relation/is/is_discussing.public.md) 
+### #is_/same_as :: [is_discussing.public](/_public/schema-org/Relation/is/is_discussing.public.md) 
 
-### [is_discussing.internal](/_internal/schema-org/Relation/is/is_discussing.internal.md) 
+### #is_/same_as :: [is_discussing.internal](/_internal/schema-org/Relation/is/is_discussing.internal.md) 
 
-### [is_discussing.protect](/_protect/schema-org/Relation/is/is_discussing.protect.md) 
+### #is_/same_as :: [is_discussing.protect](/_protect/schema-org/Relation/is/is_discussing.protect.md) 
 
-### [is_discussing.private](/_private/schema-org/Relation/is/is_discussing.private.md) 
+### #is_/same_as :: [is_discussing.private](/_private/schema-org/Relation/is/is_discussing.private.md) 
 
-### [is_discussing.personal](/_personal/schema-org/Relation/is/is_discussing.personal.md) 
+### #is_/same_as :: [is_discussing.personal](/_personal/schema-org/Relation/is/is_discussing.personal.md) 
 
-### [is_discussing.secret](/_secret/schema-org/Relation/is/is_discussing.secret.md)
+### #is_/same_as :: [is_discussing.secret](/_secret/schema-org/Relation/is/is_discussing.secret.md)
 

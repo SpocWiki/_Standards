@@ -45,17 +45,17 @@ A bar or pub.
 
 ## Confidential Links & Embeds: 
 
-### [bar_or_pub](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.md) 
+### #is_/same_as :: [bar_or_pub](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.md) 
 
-### [bar_or_pub.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.public.md) 
+### #is_/same_as :: [bar_or_pub.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.public.md) 
 
-### [bar_or_pub.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.internal.md) 
+### #is_/same_as :: [bar_or_pub.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.internal.md) 
 
-### [bar_or_pub.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.protect.md) 
+### #is_/same_as :: [bar_or_pub.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.protect.md) 
 
-### [bar_or_pub.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.private.md) 
+### #is_/same_as :: [bar_or_pub.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.private.md) 
 
-### [bar_or_pub.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.personal.md) 
+### #is_/same_as :: [bar_or_pub.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.personal.md) 
 
-### [bar_or_pub.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.secret.md)
+### #is_/same_as :: [bar_or_pub.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.secret.md)
 

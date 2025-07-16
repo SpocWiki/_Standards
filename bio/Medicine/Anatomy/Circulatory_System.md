@@ -50,20 +50,19 @@ MeSH_tree_code: A07
 > [Wikipedia](https://en.wikipedia.org/wiki/Circulatory%20system)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Circulatory_System](/_Standards/bio/Medicine/Anatomy/Circulatory_System.md) 
+### #is_/same_as :: [Circulatory_System](/_Standards/bio/Medicine/Anatomy/Circulatory_System.md) 
 
-### [Circulatory_System.public](/_public/bio/Medicine/Anatomy/Circulatory_System.public.md) 
+### #is_/same_as :: [Circulatory_System.public](/_public/bio/Medicine/Anatomy/Circulatory_System.public.md) 
 
-### [Circulatory_System.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System.internal.md) 
+### #is_/same_as :: [Circulatory_System.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System.internal.md) 
 
-### [Circulatory_System.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System.protect.md) 
+### #is_/same_as :: [Circulatory_System.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System.protect.md) 
 
-### [Circulatory_System.private](/_private/bio/Medicine/Anatomy/Circulatory_System.private.md) 
+### #is_/same_as :: [Circulatory_System.private](/_private/bio/Medicine/Anatomy/Circulatory_System.private.md) 
 
-### [Circulatory_System.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System.personal.md) 
+### #is_/same_as :: [Circulatory_System.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System.personal.md) 
 
-### [Circulatory_System.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System.secret.md)
+### #is_/same_as :: [Circulatory_System.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System.secret.md)
 

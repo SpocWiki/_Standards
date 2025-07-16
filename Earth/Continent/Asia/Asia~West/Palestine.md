@@ -187,17 +187,17 @@ Sub-region_Name ::  [[Western Asia]]
 
 ## Confidential Links & Embeds: 
 
-### [Palestine](/_Standards/Earth/Continent/Asia/Asia~West/Palestine.md) 
+### #is_/same_as :: [Palestine](/_Standards/Earth/Continent/Asia/Asia~West/Palestine.md) 
 
-### [Palestine.public](/_public/Earth/Continent/Asia/Asia~West/Palestine.public.md) 
+### #is_/same_as :: [Palestine.public](/_public/Earth/Continent/Asia/Asia~West/Palestine.public.md) 
 
-### [Palestine.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal.md) 
+### #is_/same_as :: [Palestine.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal.md) 
 
-### [Palestine.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect.md) 
+### #is_/same_as :: [Palestine.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect.md) 
 
-### [Palestine.private](/_private/Earth/Continent/Asia/Asia~West/Palestine.private.md) 
+### #is_/same_as :: [Palestine.private](/_private/Earth/Continent/Asia/Asia~West/Palestine.private.md) 
 
-### [Palestine.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal.md) 
+### #is_/same_as :: [Palestine.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal.md) 
 
-### [Palestine.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret.md)
+### #is_/same_as :: [Palestine.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret.md)
 

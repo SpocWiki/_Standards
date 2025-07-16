@@ -45,17 +45,17 @@ CarrierRequirements:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MobileApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.md) 
+### #is_/same_as :: [FileClass~MobileApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.md) 
 
-### [FileClass~MobileApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.public.md) 
+### #is_/same_as :: [FileClass~MobileApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.public.md) 
 
-### [FileClass~MobileApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.internal.md) 
+### #is_/same_as :: [FileClass~MobileApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.internal.md) 
 
-### [FileClass~MobileApplication.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.protect.md) 
+### #is_/same_as :: [FileClass~MobileApplication.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.protect.md) 
 
-### [FileClass~MobileApplication.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.private.md) 
+### #is_/same_as :: [FileClass~MobileApplication.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.private.md) 
 
-### [FileClass~MobileApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.personal.md) 
+### #is_/same_as :: [FileClass~MobileApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.personal.md) 
 
-### [FileClass~MobileApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.secret.md)
+### #is_/same_as :: [FileClass~MobileApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Ngarchelong/
 
 ## Confidential Links & Embeds: 
 
-### [Ngarchelong](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.md) 
+### #is_/same_as :: [Ngarchelong](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.md) 
 
-### [Ngarchelong.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.public.md) 
+### #is_/same_as :: [Ngarchelong.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.public.md) 
 
-### [Ngarchelong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.internal.md) 
+### #is_/same_as :: [Ngarchelong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.internal.md) 
 
-### [Ngarchelong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.protect.md) 
+### #is_/same_as :: [Ngarchelong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.protect.md) 
 
-### [Ngarchelong.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.private.md) 
+### #is_/same_as :: [Ngarchelong.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.private.md) 
 
-### [Ngarchelong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.personal.md) 
+### #is_/same_as :: [Ngarchelong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.personal.md) 
 
-### [Ngarchelong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.secret.md)
+### #is_/same_as :: [Ngarchelong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.secret.md)
 

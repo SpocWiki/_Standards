@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_significance](/_Standards/schema-org/Property/Texts/has_significance.md) 
+### #is_/same_as :: [has_significance](/_Standards/schema-org/Property/Texts/has_significance.md) 
 
-### [has_significance.public](/_public/schema-org/Property/Texts/has_significance.public.md) 
+### #is_/same_as :: [has_significance.public](/_public/schema-org/Property/Texts/has_significance.public.md) 
 
-### [has_significance.internal](/_internal/schema-org/Property/Texts/has_significance.internal.md) 
+### #is_/same_as :: [has_significance.internal](/_internal/schema-org/Property/Texts/has_significance.internal.md) 
 
-### [has_significance.protect](/_protect/schema-org/Property/Texts/has_significance.protect.md) 
+### #is_/same_as :: [has_significance.protect](/_protect/schema-org/Property/Texts/has_significance.protect.md) 
 
-### [has_significance.private](/_private/schema-org/Property/Texts/has_significance.private.md) 
+### #is_/same_as :: [has_significance.private](/_private/schema-org/Property/Texts/has_significance.private.md) 
 
-### [has_significance.personal](/_personal/schema-org/Property/Texts/has_significance.personal.md) 
+### #is_/same_as :: [has_significance.personal](/_personal/schema-org/Property/Texts/has_significance.personal.md) 
 
-### [has_significance.secret](/_secret/schema-org/Property/Texts/has_significance.secret.md)
+### #is_/same_as :: [has_significance.secret](/_secret/schema-org/Property/Texts/has_significance.secret.md)
 

@@ -125,17 +125,17 @@ e.g. "application/rss+xml" or "application/atom+xml".
 
 ## Confidential Links & Embeds: 
 
-### [special_announcement](/_Standards/schema-org/Class/is_a_/creative_work/special_announcement.md) 
+### #is_/same_as :: [special_announcement](/_Standards/schema-org/Class/is_a_/creative_work/special_announcement.md) 
 
-### [special_announcement.public](/_public/schema-org/Class/is_a_/creative_work/special_announcement.public.md) 
+### #is_/same_as :: [special_announcement.public](/_public/schema-org/Class/is_a_/creative_work/special_announcement.public.md) 
 
-### [special_announcement.internal](/_internal/schema-org/Class/is_a_/creative_work/special_announcement.internal.md) 
+### #is_/same_as :: [special_announcement.internal](/_internal/schema-org/Class/is_a_/creative_work/special_announcement.internal.md) 
 
-### [special_announcement.protect](/_protect/schema-org/Class/is_a_/creative_work/special_announcement.protect.md) 
+### #is_/same_as :: [special_announcement.protect](/_protect/schema-org/Class/is_a_/creative_work/special_announcement.protect.md) 
 
-### [special_announcement.private](/_private/schema-org/Class/is_a_/creative_work/special_announcement.private.md) 
+### #is_/same_as :: [special_announcement.private](/_private/schema-org/Class/is_a_/creative_work/special_announcement.private.md) 
 
-### [special_announcement.personal](/_personal/schema-org/Class/is_a_/creative_work/special_announcement.personal.md) 
+### #is_/same_as :: [special_announcement.personal](/_personal/schema-org/Class/is_a_/creative_work/special_announcement.personal.md) 
 
-### [special_announcement.secret](/_secret/schema-org/Class/is_a_/creative_work/special_announcement.secret.md)
+### #is_/same_as :: [special_announcement.secret](/_secret/schema-org/Class/is_a_/creative_work/special_announcement.secret.md)
 

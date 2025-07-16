@@ -45,17 +45,17 @@ A notary.
 
 ## Confidential Links & Embeds: 
 
-### [notary](/_Standards/schema-org/Class/is_a_/organization/local_business/legal_service/notary.md) 
+### #is_/same_as :: [notary](/_Standards/schema-org/Class/is_a_/organization/local_business/legal_service/notary.md) 
 
-### [notary.public](/_public/schema-org/Class/is_a_/organization/local_business/legal_service/notary.public.md) 
+### #is_/same_as :: [notary.public](/_public/schema-org/Class/is_a_/organization/local_business/legal_service/notary.public.md) 
 
-### [notary.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.internal.md) 
+### #is_/same_as :: [notary.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.internal.md) 
 
-### [notary.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service/notary.protect.md) 
+### #is_/same_as :: [notary.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service/notary.protect.md) 
 
-### [notary.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service/notary.private.md) 
+### #is_/same_as :: [notary.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service/notary.private.md) 
 
-### [notary.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.personal.md) 
+### #is_/same_as :: [notary.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.personal.md) 
 
-### [notary.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service/notary.secret.md)
+### #is_/same_as :: [notary.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service/notary.secret.md)
 

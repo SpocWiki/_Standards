@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Klaproth,Martin_Heinrich](/_Standards/chemic/Chemist/Klaproth,Martin_Heinrich.md) 
+### #is_/same_as :: [Klaproth,Martin_Heinrich](/_Standards/chemic/Chemist/Klaproth,Martin_Heinrich.md) 
 
-### [Klaproth,Martin_Heinrich.public](/_public/chemic/Chemist/Klaproth,Martin_Heinrich.public.md) 
+### #is_/same_as :: [Klaproth,Martin_Heinrich.public](/_public/chemic/Chemist/Klaproth,Martin_Heinrich.public.md) 
 
-### [Klaproth,Martin_Heinrich.internal](/_internal/chemic/Chemist/Klaproth,Martin_Heinrich.internal.md) 
+### #is_/same_as :: [Klaproth,Martin_Heinrich.internal](/_internal/chemic/Chemist/Klaproth,Martin_Heinrich.internal.md) 
 
-### [Klaproth,Martin_Heinrich.protect](/_protect/chemic/Chemist/Klaproth,Martin_Heinrich.protect.md) 
+### #is_/same_as :: [Klaproth,Martin_Heinrich.protect](/_protect/chemic/Chemist/Klaproth,Martin_Heinrich.protect.md) 
 
-### [Klaproth,Martin_Heinrich.private](/_private/chemic/Chemist/Klaproth,Martin_Heinrich.private.md) 
+### #is_/same_as :: [Klaproth,Martin_Heinrich.private](/_private/chemic/Chemist/Klaproth,Martin_Heinrich.private.md) 
 
-### [Klaproth,Martin_Heinrich.personal](/_personal/chemic/Chemist/Klaproth,Martin_Heinrich.personal.md) 
+### #is_/same_as :: [Klaproth,Martin_Heinrich.personal](/_personal/chemic/Chemist/Klaproth,Martin_Heinrich.personal.md) 
 
-### [Klaproth,Martin_Heinrich.secret](/_secret/chemic/Chemist/Klaproth,Martin_Heinrich.secret.md)
+### #is_/same_as :: [Klaproth,Martin_Heinrich.secret](/_secret/chemic/Chemist/Klaproth,Martin_Heinrich.secret.md)
 

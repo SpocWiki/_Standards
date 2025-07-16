@@ -47,17 +47,17 @@ A delivery service through which radio content is provided via broadcast over th
 
 ## Confidential Links & Embeds: 
 
-### [radio_broadcast_service](/_Standards/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.md) 
+### #is_/same_as :: [radio_broadcast_service](/_Standards/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.md) 
 
-### [radio_broadcast_service.public](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.public.md) 
+### #is_/same_as :: [radio_broadcast_service.public](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.public.md) 
 
-### [radio_broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.internal.md) 
+### #is_/same_as :: [radio_broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.internal.md) 
 
-### [radio_broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.protect.md) 
+### #is_/same_as :: [radio_broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.protect.md) 
 
-### [radio_broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.private.md) 
+### #is_/same_as :: [radio_broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.private.md) 
 
-### [radio_broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.personal.md) 
+### #is_/same_as :: [radio_broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.personal.md) 
 
-### [radio_broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.secret.md)
+### #is_/same_as :: [radio_broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service/radio_broadcast_service.secret.md)
 

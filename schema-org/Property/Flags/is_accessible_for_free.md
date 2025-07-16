@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_accessible_for_free](/_Standards/schema-org/Property/Flags/is_accessible_for_free.md) 
+### #is_/same_as :: [is_accessible_for_free](/_Standards/schema-org/Property/Flags/is_accessible_for_free.md) 
 
-### [is_accessible_for_free.public](/_public/schema-org/Property/Flags/is_accessible_for_free.public.md) 
+### #is_/same_as :: [is_accessible_for_free.public](/_public/schema-org/Property/Flags/is_accessible_for_free.public.md) 
 
-### [is_accessible_for_free.internal](/_internal/schema-org/Property/Flags/is_accessible_for_free.internal.md) 
+### #is_/same_as :: [is_accessible_for_free.internal](/_internal/schema-org/Property/Flags/is_accessible_for_free.internal.md) 
 
-### [is_accessible_for_free.protect](/_protect/schema-org/Property/Flags/is_accessible_for_free.protect.md) 
+### #is_/same_as :: [is_accessible_for_free.protect](/_protect/schema-org/Property/Flags/is_accessible_for_free.protect.md) 
 
-### [is_accessible_for_free.private](/_private/schema-org/Property/Flags/is_accessible_for_free.private.md) 
+### #is_/same_as :: [is_accessible_for_free.private](/_private/schema-org/Property/Flags/is_accessible_for_free.private.md) 
 
-### [is_accessible_for_free.personal](/_personal/schema-org/Property/Flags/is_accessible_for_free.personal.md) 
+### #is_/same_as :: [is_accessible_for_free.personal](/_personal/schema-org/Property/Flags/is_accessible_for_free.personal.md) 
 
-### [is_accessible_for_free.secret](/_secret/schema-org/Property/Flags/is_accessible_for_free.secret.md)
+### #is_/same_as :: [is_accessible_for_free.secret](/_secret/schema-org/Property/Flags/is_accessible_for_free.secret.md)
 

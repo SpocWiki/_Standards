@@ -52,17 +52,17 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~JoinAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.md) 
+### #is_/same_as :: [FileClass~JoinAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.md) 
 
-### [FileClass~JoinAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.public.md) 
+### #is_/same_as :: [FileClass~JoinAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.public.md) 
 
-### [FileClass~JoinAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.internal.md) 
+### #is_/same_as :: [FileClass~JoinAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.internal.md) 
 
-### [FileClass~JoinAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.protect.md) 
+### #is_/same_as :: [FileClass~JoinAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.protect.md) 
 
-### [FileClass~JoinAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.private.md) 
+### #is_/same_as :: [FileClass~JoinAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.private.md) 
 
-### [FileClass~JoinAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.personal.md) 
+### #is_/same_as :: [FileClass~JoinAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.personal.md) 
 
-### [FileClass~JoinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.secret.md)
+### #is_/same_as :: [FileClass~JoinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.secret.md)
 

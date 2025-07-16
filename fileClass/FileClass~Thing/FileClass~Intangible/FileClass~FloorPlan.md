@@ -163,17 +163,17 @@ PetsAllowed:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FloorPlan](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.md) 
+### #is_/same_as :: [FileClass~FloorPlan](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.md) 
 
-### [FileClass~FloorPlan.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.public.md) 
+### #is_/same_as :: [FileClass~FloorPlan.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.public.md) 
 
-### [FileClass~FloorPlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.internal.md) 
+### #is_/same_as :: [FileClass~FloorPlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.internal.md) 
 
-### [FileClass~FloorPlan.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.protect.md) 
+### #is_/same_as :: [FileClass~FloorPlan.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.protect.md) 
 
-### [FileClass~FloorPlan.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.private.md) 
+### #is_/same_as :: [FileClass~FloorPlan.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.private.md) 
 
-### [FileClass~FloorPlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.personal.md) 
+### #is_/same_as :: [FileClass~FloorPlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.personal.md) 
 
-### [FileClass~FloorPlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.secret.md)
+### #is_/same_as :: [FileClass~FloorPlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~FloorPlan.secret.md)
 

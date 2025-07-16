@@ -117,17 +117,17 @@ EPPO_Code: TXCHLO
 
 ## Confidential Links & Embeds: 
 
-### [Chlorine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Chlorine.md) 
+### #is_/same_as :: [Chlorine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Chlorine.md) 
 
-### [Chlorine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Chlorine.public.md) 
+### #is_/same_as :: [Chlorine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Chlorine.public.md) 
 
-### [Chlorine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Chlorine.internal.md) 
+### #is_/same_as :: [Chlorine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Chlorine.internal.md) 
 
-### [Chlorine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Chlorine.protect.md) 
+### #is_/same_as :: [Chlorine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Chlorine.protect.md) 
 
-### [Chlorine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Chlorine.private.md) 
+### #is_/same_as :: [Chlorine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Chlorine.private.md) 
 
-### [Chlorine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Chlorine.personal.md) 
+### #is_/same_as :: [Chlorine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Chlorine.personal.md) 
 
-### [Chlorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Chlorine.secret.md)
+### #is_/same_as :: [Chlorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Chlorine.secret.md)
 

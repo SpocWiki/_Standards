@@ -87,17 +87,17 @@ ProgramName:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProgramMembership](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.md) 
+### #is_/same_as :: [FileClass~ProgramMembership](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.md) 
 
-### [FileClass~ProgramMembership.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.public.md) 
+### #is_/same_as :: [FileClass~ProgramMembership.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.public.md) 
 
-### [FileClass~ProgramMembership.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.internal.md) 
+### #is_/same_as :: [FileClass~ProgramMembership.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.internal.md) 
 
-### [FileClass~ProgramMembership.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.protect.md) 
+### #is_/same_as :: [FileClass~ProgramMembership.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.protect.md) 
 
-### [FileClass~ProgramMembership.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.private.md) 
+### #is_/same_as :: [FileClass~ProgramMembership.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.private.md) 
 
-### [FileClass~ProgramMembership.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.personal.md) 
+### #is_/same_as :: [FileClass~ProgramMembership.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.personal.md) 
 
-### [FileClass~ProgramMembership.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.secret.md)
+### #is_/same_as :: [FileClass~ProgramMembership.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ProgramMembership.secret.md)
 

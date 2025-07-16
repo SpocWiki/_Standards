@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_disease_spread_statistics](/_Standards/schema-org/Relation/has/has_disease_spread_statistics.md) 
+### #is_/same_as :: [has_disease_spread_statistics](/_Standards/schema-org/Relation/has/has_disease_spread_statistics.md) 
 
-### [has_disease_spread_statistics.public](/_public/schema-org/Relation/has/has_disease_spread_statistics.public.md) 
+### #is_/same_as :: [has_disease_spread_statistics.public](/_public/schema-org/Relation/has/has_disease_spread_statistics.public.md) 
 
-### [has_disease_spread_statistics.internal](/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal.md) 
+### #is_/same_as :: [has_disease_spread_statistics.internal](/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal.md) 
 
-### [has_disease_spread_statistics.protect](/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect.md) 
+### #is_/same_as :: [has_disease_spread_statistics.protect](/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect.md) 
 
-### [has_disease_spread_statistics.private](/_private/schema-org/Relation/has/has_disease_spread_statistics.private.md) 
+### #is_/same_as :: [has_disease_spread_statistics.private](/_private/schema-org/Relation/has/has_disease_spread_statistics.private.md) 
 
-### [has_disease_spread_statistics.personal](/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal.md) 
+### #is_/same_as :: [has_disease_spread_statistics.personal](/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal.md) 
 
-### [has_disease_spread_statistics.secret](/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret.md)
+### #is_/same_as :: [has_disease_spread_statistics.secret](/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret.md)
 

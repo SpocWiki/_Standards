@@ -79,20 +79,19 @@ Key notes:
 - "pen" indicates penalty shootouts after a draw in regular and extra time. 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FIFA_World_Cup](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.md) 
+### #is_/same_as :: [FIFA_World_Cup](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.md) 
 
-### [FIFA_World_Cup.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.public.md) 
+### #is_/same_as :: [FIFA_World_Cup.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.public.md) 
 
-### [FIFA_World_Cup.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.internal.md) 
+### #is_/same_as :: [FIFA_World_Cup.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.internal.md) 
 
-### [FIFA_World_Cup.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.protect.md) 
+### #is_/same_as :: [FIFA_World_Cup.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.protect.md) 
 
-### [FIFA_World_Cup.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.private.md) 
+### #is_/same_as :: [FIFA_World_Cup.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.private.md) 
 
-### [FIFA_World_Cup.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.personal.md) 
+### #is_/same_as :: [FIFA_World_Cup.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.personal.md) 
 
-### [FIFA_World_Cup.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.secret.md)
+### #is_/same_as :: [FIFA_World_Cup.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/FIFA_World_Cup.secret.md)
 

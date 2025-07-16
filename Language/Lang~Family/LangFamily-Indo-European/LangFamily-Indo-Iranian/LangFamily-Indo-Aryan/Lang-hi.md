@@ -99,17 +99,17 @@ Commons_category: "Hindustani language"
 
 ## Confidential Links & Embeds: 
 
-### [Lang-hi](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.md) 
+### #is_/same_as :: [Lang-hi](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.md) 
 
-### [Lang-hi.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.public.md) 
+### #is_/same_as :: [Lang-hi.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.public.md) 
 
-### [Lang-hi.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.internal.md) 
+### #is_/same_as :: [Lang-hi.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.internal.md) 
 
-### [Lang-hi.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.protect.md) 
+### #is_/same_as :: [Lang-hi.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.protect.md) 
 
-### [Lang-hi.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.private.md) 
+### #is_/same_as :: [Lang-hi.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.private.md) 
 
-### [Lang-hi.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.personal.md) 
+### #is_/same_as :: [Lang-hi.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.personal.md) 
 
-### [Lang-hi.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.secret.md)
+### #is_/same_as :: [Lang-hi.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.secret.md)
 

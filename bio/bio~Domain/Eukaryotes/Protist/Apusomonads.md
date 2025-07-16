@@ -111,17 +111,17 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Confidential Links & Embeds: 
 
-### [Apusomonads](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.md) 
+### #is_/same_as :: [Apusomonads](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.md) 
 
-### [Apusomonads.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.public.md) 
+### #is_/same_as :: [Apusomonads.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.public.md) 
 
-### [Apusomonads.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.internal.md) 
+### #is_/same_as :: [Apusomonads.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.internal.md) 
 
-### [Apusomonads.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.protect.md) 
+### #is_/same_as :: [Apusomonads.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.protect.md) 
 
-### [Apusomonads.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.private.md) 
+### #is_/same_as :: [Apusomonads.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.private.md) 
 
-### [Apusomonads.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.personal.md) 
+### #is_/same_as :: [Apusomonads.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.personal.md) 
 
-### [Apusomonads.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.secret.md)
+### #is_/same_as :: [Apusomonads.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads.secret.md)
 

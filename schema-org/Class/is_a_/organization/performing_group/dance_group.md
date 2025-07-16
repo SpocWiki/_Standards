@@ -45,17 +45,17 @@ A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 
 ## Confidential Links & Embeds: 
 
-### [dance_group](/_Standards/schema-org/Class/is_a_/organization/performing_group/dance_group.md) 
+### #is_/same_as :: [dance_group](/_Standards/schema-org/Class/is_a_/organization/performing_group/dance_group.md) 
 
-### [dance_group.public](/_public/schema-org/Class/is_a_/organization/performing_group/dance_group.public.md) 
+### #is_/same_as :: [dance_group.public](/_public/schema-org/Class/is_a_/organization/performing_group/dance_group.public.md) 
 
-### [dance_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group/dance_group.internal.md) 
+### #is_/same_as :: [dance_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group/dance_group.internal.md) 
 
-### [dance_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group/dance_group.protect.md) 
+### #is_/same_as :: [dance_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group/dance_group.protect.md) 
 
-### [dance_group.private](/_private/schema-org/Class/is_a_/organization/performing_group/dance_group.private.md) 
+### #is_/same_as :: [dance_group.private](/_private/schema-org/Class/is_a_/organization/performing_group/dance_group.private.md) 
 
-### [dance_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group/dance_group.personal.md) 
+### #is_/same_as :: [dance_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group/dance_group.personal.md) 
 
-### [dance_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group/dance_group.secret.md)
+### #is_/same_as :: [dance_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group/dance_group.secret.md)
 

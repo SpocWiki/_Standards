@@ -49,17 +49,17 @@ Represents the cleaning fee part of the total price for an offered product, for 
 
 ## Confidential Links & Embeds: 
 
-### [cleaning_fee](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.md) 
+### #is_/same_as :: [cleaning_fee](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.md) 
 
-### [cleaning_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.public.md) 
+### #is_/same_as :: [cleaning_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.public.md) 
 
-### [cleaning_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.internal.md) 
+### #is_/same_as :: [cleaning_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.internal.md) 
 
-### [cleaning_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.protect.md) 
+### #is_/same_as :: [cleaning_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.protect.md) 
 
-### [cleaning_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.private.md) 
+### #is_/same_as :: [cleaning_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.private.md) 
 
-### [cleaning_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.personal.md) 
+### #is_/same_as :: [cleaning_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.personal.md) 
 
-### [cleaning_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.secret.md)
+### #is_/same_as :: [cleaning_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_expected_prognosis](/_Standards/schema-org/Property/Texts/has_expected_prognosis.md) 
+### #is_/same_as :: [has_expected_prognosis](/_Standards/schema-org/Property/Texts/has_expected_prognosis.md) 
 
-### [has_expected_prognosis.public](/_public/schema-org/Property/Texts/has_expected_prognosis.public.md) 
+### #is_/same_as :: [has_expected_prognosis.public](/_public/schema-org/Property/Texts/has_expected_prognosis.public.md) 
 
-### [has_expected_prognosis.internal](/_internal/schema-org/Property/Texts/has_expected_prognosis.internal.md) 
+### #is_/same_as :: [has_expected_prognosis.internal](/_internal/schema-org/Property/Texts/has_expected_prognosis.internal.md) 
 
-### [has_expected_prognosis.protect](/_protect/schema-org/Property/Texts/has_expected_prognosis.protect.md) 
+### #is_/same_as :: [has_expected_prognosis.protect](/_protect/schema-org/Property/Texts/has_expected_prognosis.protect.md) 
 
-### [has_expected_prognosis.private](/_private/schema-org/Property/Texts/has_expected_prognosis.private.md) 
+### #is_/same_as :: [has_expected_prognosis.private](/_private/schema-org/Property/Texts/has_expected_prognosis.private.md) 
 
-### [has_expected_prognosis.personal](/_personal/schema-org/Property/Texts/has_expected_prognosis.personal.md) 
+### #is_/same_as :: [has_expected_prognosis.personal](/_personal/schema-org/Property/Texts/has_expected_prognosis.personal.md) 
 
-### [has_expected_prognosis.secret](/_secret/schema-org/Property/Texts/has_expected_prognosis.secret.md)
+### #is_/same_as :: [has_expected_prognosis.secret](/_secret/schema-org/Property/Texts/has_expected_prognosis.secret.md)
 

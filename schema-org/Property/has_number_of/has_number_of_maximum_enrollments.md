@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_maximum_enrollments](/_Standards/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.md) 
+### #is_/same_as :: [has_number_of_maximum_enrollments](/_Standards/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.md) 
 
-### [has_number_of_maximum_enrollments.public](/_public/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.public.md) 
+### #is_/same_as :: [has_number_of_maximum_enrollments.public](/_public/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.public.md) 
 
-### [has_number_of_maximum_enrollments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.internal.md) 
+### #is_/same_as :: [has_number_of_maximum_enrollments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.internal.md) 
 
-### [has_number_of_maximum_enrollments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.protect.md) 
+### #is_/same_as :: [has_number_of_maximum_enrollments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.protect.md) 
 
-### [has_number_of_maximum_enrollments.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.private.md) 
+### #is_/same_as :: [has_number_of_maximum_enrollments.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.private.md) 
 
-### [has_number_of_maximum_enrollments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.personal.md) 
+### #is_/same_as :: [has_number_of_maximum_enrollments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.personal.md) 
 
-### [has_number_of_maximum_enrollments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.secret.md)
+### #is_/same_as :: [has_number_of_maximum_enrollments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.secret.md)
 

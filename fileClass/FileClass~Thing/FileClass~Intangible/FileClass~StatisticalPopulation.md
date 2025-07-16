@@ -37,17 +37,17 @@ A StatisticalPopulation is a set of instances of a certain given type that satis
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~StatisticalPopulation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.md) 
+### #is_/same_as :: [FileClass~StatisticalPopulation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.md) 
 
-### [FileClass~StatisticalPopulation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.public.md) 
+### #is_/same_as :: [FileClass~StatisticalPopulation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.public.md) 
 
-### [FileClass~StatisticalPopulation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.internal.md) 
+### #is_/same_as :: [FileClass~StatisticalPopulation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.internal.md) 
 
-### [FileClass~StatisticalPopulation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.protect.md) 
+### #is_/same_as :: [FileClass~StatisticalPopulation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.protect.md) 
 
-### [FileClass~StatisticalPopulation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.private.md) 
+### #is_/same_as :: [FileClass~StatisticalPopulation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.private.md) 
 
-### [FileClass~StatisticalPopulation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.personal.md) 
+### #is_/same_as :: [FileClass~StatisticalPopulation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.personal.md) 
 
-### [FileClass~StatisticalPopulation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.secret.md)
+### #is_/same_as :: [FileClass~StatisticalPopulation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.secret.md)
 

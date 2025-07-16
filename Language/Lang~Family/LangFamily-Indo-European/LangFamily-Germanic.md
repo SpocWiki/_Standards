@@ -21,22 +21,19 @@ Wikidata_property: Q21200
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanic%20languages) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Germanic](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.md) 
+### #is_/same_as :: [LangFamily-Germanic](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.md) 
 
-### [LangFamily-Germanic.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.public.md) 
+### #is_/same_as :: [LangFamily-Germanic.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.public.md) 
 
-### [LangFamily-Germanic.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.internal.md) 
+### #is_/same_as :: [LangFamily-Germanic.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.internal.md) 
 
-### [LangFamily-Germanic.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.protect.md) 
+### #is_/same_as :: [LangFamily-Germanic.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.protect.md) 
 
-### [LangFamily-Germanic.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.private.md) 
+### #is_/same_as :: [LangFamily-Germanic.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.private.md) 
 
-### [LangFamily-Germanic.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.personal.md) 
+### #is_/same_as :: [LangFamily-Germanic.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.personal.md) 
 
-### [LangFamily-Germanic.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.secret.md)
+### #is_/same_as :: [LangFamily-Germanic.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic.secret.md)
 

@@ -35,17 +35,17 @@ A pharmacy or drugstore.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Pharmacy](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.md) 
+### #is_/same_as :: [FileClass~Pharmacy](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.md) 
 
-### [FileClass~Pharmacy.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.public.md) 
+### #is_/same_as :: [FileClass~Pharmacy.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.public.md) 
 
-### [FileClass~Pharmacy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.internal.md) 
+### #is_/same_as :: [FileClass~Pharmacy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.internal.md) 
 
-### [FileClass~Pharmacy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.protect.md) 
+### #is_/same_as :: [FileClass~Pharmacy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.protect.md) 
 
-### [FileClass~Pharmacy.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.private.md) 
+### #is_/same_as :: [FileClass~Pharmacy.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.private.md) 
 
-### [FileClass~Pharmacy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.personal.md) 
+### #is_/same_as :: [FileClass~Pharmacy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.personal.md) 
 
-### [FileClass~Pharmacy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.secret.md)
+### #is_/same_as :: [FileClass~Pharmacy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Pharmacy.secret.md)
 

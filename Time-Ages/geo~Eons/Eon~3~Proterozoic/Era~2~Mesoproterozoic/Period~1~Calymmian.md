@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~1~Calymmian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.md) 
+### #is_/same_as :: [Period~1~Calymmian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.md) 
 
-### [Period~1~Calymmian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.public.md) 
+### #is_/same_as :: [Period~1~Calymmian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.public.md) 
 
-### [Period~1~Calymmian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.internal.md) 
+### #is_/same_as :: [Period~1~Calymmian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.internal.md) 
 
-### [Period~1~Calymmian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.protect.md) 
+### #is_/same_as :: [Period~1~Calymmian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.protect.md) 
 
-### [Period~1~Calymmian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.private.md) 
+### #is_/same_as :: [Period~1~Calymmian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.private.md) 
 
-### [Period~1~Calymmian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.personal.md) 
+### #is_/same_as :: [Period~1~Calymmian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.personal.md) 
 
-### [Period~1~Calymmian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret.md)
+### #is_/same_as :: [Period~1~Calymmian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret.md)
 

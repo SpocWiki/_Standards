@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_borrower](/_Standards/schema-org/Relation/has/has_borrower.md) 
+### #is_/same_as :: [has_borrower](/_Standards/schema-org/Relation/has/has_borrower.md) 
 
-### [has_borrower.public](/_public/schema-org/Relation/has/has_borrower.public.md) 
+### #is_/same_as :: [has_borrower.public](/_public/schema-org/Relation/has/has_borrower.public.md) 
 
-### [has_borrower.internal](/_internal/schema-org/Relation/has/has_borrower.internal.md) 
+### #is_/same_as :: [has_borrower.internal](/_internal/schema-org/Relation/has/has_borrower.internal.md) 
 
-### [has_borrower.protect](/_protect/schema-org/Relation/has/has_borrower.protect.md) 
+### #is_/same_as :: [has_borrower.protect](/_protect/schema-org/Relation/has/has_borrower.protect.md) 
 
-### [has_borrower.private](/_private/schema-org/Relation/has/has_borrower.private.md) 
+### #is_/same_as :: [has_borrower.private](/_private/schema-org/Relation/has/has_borrower.private.md) 
 
-### [has_borrower.personal](/_personal/schema-org/Relation/has/has_borrower.personal.md) 
+### #is_/same_as :: [has_borrower.personal](/_personal/schema-org/Relation/has/has_borrower.personal.md) 
 
-### [has_borrower.secret](/_secret/schema-org/Relation/has/has_borrower.secret.md)
+### #is_/same_as :: [has_borrower.secret](/_secret/schema-org/Relation/has/has_borrower.secret.md)
 

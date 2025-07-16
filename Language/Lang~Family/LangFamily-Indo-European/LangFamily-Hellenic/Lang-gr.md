@@ -138,17 +138,17 @@ entry_in_abbreviations_table: греч.
 
 ## Confidential Links & Embeds: 
 
-### [Lang-gr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.md) 
+### #is_/same_as :: [Lang-gr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.md) 
 
-### [Lang-gr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.public.md) 
+### #is_/same_as :: [Lang-gr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.public.md) 
 
-### [Lang-gr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.internal.md) 
+### #is_/same_as :: [Lang-gr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.internal.md) 
 
-### [Lang-gr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.protect.md) 
+### #is_/same_as :: [Lang-gr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.protect.md) 
 
-### [Lang-gr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.private.md) 
+### #is_/same_as :: [Lang-gr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.private.md) 
 
-### [Lang-gr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.personal.md) 
+### #is_/same_as :: [Lang-gr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.personal.md) 
 
-### [Lang-gr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.secret.md)
+### #is_/same_as :: [Lang-gr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.secret.md)
 

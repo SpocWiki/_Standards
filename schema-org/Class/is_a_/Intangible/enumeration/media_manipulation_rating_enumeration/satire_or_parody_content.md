@@ -59,17 +59,17 @@ Audio that was created as political or humorous commentary and is presented in t
 
 ## Confidential Links & Embeds: 
 
-### [satire_or_parody_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md) 
+### #is_/same_as :: [satire_or_parody_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md) 
 
-### [satire_or_parody_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.public.md) 
+### #is_/same_as :: [satire_or_parody_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.public.md) 
 
-### [satire_or_parody_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md) 
+### #is_/same_as :: [satire_or_parody_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md) 
 
-### [satire_or_parody_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.protect.md) 
+### #is_/same_as :: [satire_or_parody_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.protect.md) 
 
-### [satire_or_parody_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.private.md) 
+### #is_/same_as :: [satire_or_parody_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.private.md) 
 
-### [satire_or_parody_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.personal.md) 
+### #is_/same_as :: [satire_or_parody_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.personal.md) 
 
-### [satire_or_parody_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md)
+### #is_/same_as :: [satire_or_parody_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md)
 

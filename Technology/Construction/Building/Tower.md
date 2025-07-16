@@ -44,21 +44,19 @@ Commons_category: Towers
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Tower](/_Standards/Technology/Construction/Building/Tower.md) 
+### #is_/same_as :: [Tower](/_Standards/Technology/Construction/Building/Tower.md) 
 
-### [Tower.public](/_public/Technology/Construction/Building/Tower.public.md) 
+### #is_/same_as :: [Tower.public](/_public/Technology/Construction/Building/Tower.public.md) 
 
-### [Tower.internal](/_internal/Technology/Construction/Building/Tower.internal.md) 
+### #is_/same_as :: [Tower.internal](/_internal/Technology/Construction/Building/Tower.internal.md) 
 
-### [Tower.protect](/_protect/Technology/Construction/Building/Tower.protect.md) 
+### #is_/same_as :: [Tower.protect](/_protect/Technology/Construction/Building/Tower.protect.md) 
 
-### [Tower.private](/_private/Technology/Construction/Building/Tower.private.md) 
+### #is_/same_as :: [Tower.private](/_private/Technology/Construction/Building/Tower.private.md) 
 
-### [Tower.personal](/_personal/Technology/Construction/Building/Tower.personal.md) 
+### #is_/same_as :: [Tower.personal](/_personal/Technology/Construction/Building/Tower.personal.md) 
 
-### [Tower.secret](/_secret/Technology/Construction/Building/Tower.secret.md)
+### #is_/same_as :: [Tower.secret](/_secret/Technology/Construction/Building/Tower.secret.md)
 

@@ -47,17 +47,17 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 
 ## Confidential Links & Embeds: 
 
-### [image_object_snapshot](/_Standards/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.md) 
+### #is_/same_as :: [image_object_snapshot](/_Standards/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.md) 
 
-### [image_object_snapshot.public](/_public/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.public.md) 
+### #is_/same_as :: [image_object_snapshot.public](/_public/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.public.md) 
 
-### [image_object_snapshot.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.internal.md) 
+### #is_/same_as :: [image_object_snapshot.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.internal.md) 
 
-### [image_object_snapshot.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.protect.md) 
+### #is_/same_as :: [image_object_snapshot.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.protect.md) 
 
-### [image_object_snapshot.private](/_private/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.private.md) 
+### #is_/same_as :: [image_object_snapshot.private](/_private/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.private.md) 
 
-### [image_object_snapshot.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.personal.md) 
+### #is_/same_as :: [image_object_snapshot.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.personal.md) 
 
-### [image_object_snapshot.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.secret.md)
+### #is_/same_as :: [image_object_snapshot.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/image_object/image_object_snapshot.secret.md)
 

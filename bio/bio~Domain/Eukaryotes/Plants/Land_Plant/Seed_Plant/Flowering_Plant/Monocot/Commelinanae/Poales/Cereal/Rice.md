@@ -68,21 +68,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rice)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Rice](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.md) 
+### #is_/same_as :: [Rice](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.md) 
 
-### [Rice.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.public.md) 
+### #is_/same_as :: [Rice.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.public.md) 
 
-### [Rice.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.internal.md) 
+### #is_/same_as :: [Rice.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.internal.md) 
 
-### [Rice.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.protect.md) 
+### #is_/same_as :: [Rice.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.protect.md) 
 
-### [Rice.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.private.md) 
+### #is_/same_as :: [Rice.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.private.md) 
 
-### [Rice.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.personal.md) 
+### #is_/same_as :: [Rice.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.personal.md) 
 
-### [Rice.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.secret.md)
+### #is_/same_as :: [Rice.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Rice.secret.md)
 

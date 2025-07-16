@@ -45,17 +45,17 @@ A general contractor.
 
 ## Confidential Links & Embeds: 
 
-### [general_contractor](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.md) 
+### #is_/same_as :: [general_contractor](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.md) 
 
-### [general_contractor.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.public.md) 
+### #is_/same_as :: [general_contractor.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.public.md) 
 
-### [general_contractor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.internal.md) 
+### #is_/same_as :: [general_contractor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.internal.md) 
 
-### [general_contractor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.protect.md) 
+### #is_/same_as :: [general_contractor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.protect.md) 
 
-### [general_contractor.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.private.md) 
+### #is_/same_as :: [general_contractor.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.private.md) 
 
-### [general_contractor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.personal.md) 
+### #is_/same_as :: [general_contractor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.personal.md) 
 
-### [general_contractor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.secret.md)
+### #is_/same_as :: [general_contractor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/general_contractor.secret.md)
 

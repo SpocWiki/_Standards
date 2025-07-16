@@ -148,17 +148,17 @@ OmegaWiki_Defined_Meaning: 6227
 
 ## Confidential Links & Embeds: 
 
-### [Lang-la](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.md) 
+### #is_/same_as :: [Lang-la](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.md) 
 
-### [Lang-la.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.public.md) 
+### #is_/same_as :: [Lang-la.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.public.md) 
 
-### [Lang-la.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.internal.md) 
+### #is_/same_as :: [Lang-la.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.internal.md) 
 
-### [Lang-la.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.protect.md) 
+### #is_/same_as :: [Lang-la.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.protect.md) 
 
-### [Lang-la.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.private.md) 
+### #is_/same_as :: [Lang-la.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.private.md) 
 
-### [Lang-la.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.personal.md) 
+### #is_/same_as :: [Lang-la.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.personal.md) 
 
-### [Lang-la.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.secret.md)
+### #is_/same_as :: [Lang-la.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.secret.md)
 

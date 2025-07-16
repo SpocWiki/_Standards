@@ -49,17 +49,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### [dermatology](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.md) 
+### #is_/same_as :: [dermatology](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.md) 
 
-### [dermatology.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.public.md) 
+### #is_/same_as :: [dermatology.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.public.md) 
 
-### [dermatology.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.internal.md) 
+### #is_/same_as :: [dermatology.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.internal.md) 
 
-### [dermatology.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.protect.md) 
+### #is_/same_as :: [dermatology.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.protect.md) 
 
-### [dermatology.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.private.md) 
+### #is_/same_as :: [dermatology.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.private.md) 
 
-### [dermatology.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.personal.md) 
+### #is_/same_as :: [dermatology.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.personal.md) 
 
-### [dermatology.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.secret.md)
+### #is_/same_as :: [dermatology.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.secret.md)
 

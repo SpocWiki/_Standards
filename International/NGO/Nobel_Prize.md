@@ -109,17 +109,17 @@ GitHub_topic: nobel-laureates
 
 ## Confidential Links & Embeds: 
 
-### [Nobel_Prize](/_Standards/International/NGO/Nobel_Prize.md) 
+### #is_/same_as :: [Nobel_Prize](/_Standards/International/NGO/Nobel_Prize.md) 
 
-### [Nobel_Prize.public](/_public/International/NGO/Nobel_Prize.public.md) 
+### #is_/same_as :: [Nobel_Prize.public](/_public/International/NGO/Nobel_Prize.public.md) 
 
-### [Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize.internal.md) 
+### #is_/same_as :: [Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize.internal.md) 
 
-### [Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize.protect.md) 
+### #is_/same_as :: [Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize.protect.md) 
 
-### [Nobel_Prize.private](/_private/International/NGO/Nobel_Prize.private.md) 
+### #is_/same_as :: [Nobel_Prize.private](/_private/International/NGO/Nobel_Prize.private.md) 
 
-### [Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize.personal.md) 
+### #is_/same_as :: [Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize.personal.md) 
 
-### [Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize.secret.md)
+### #is_/same_as :: [Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize.secret.md)
 

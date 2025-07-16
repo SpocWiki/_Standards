@@ -48,17 +48,17 @@ Unicode_character: ∠
 
 ## Confidential Links & Embeds: 
 
-### [Angle](/_Standards/Mathematics/Geometry/Angle.md) 
+### #is_/same_as :: [Angle](/_Standards/Mathematics/Geometry/Angle.md) 
 
-### [Angle.public](/_public/Mathematics/Geometry/Angle.public.md) 
+### #is_/same_as :: [Angle.public](/_public/Mathematics/Geometry/Angle.public.md) 
 
-### [Angle.internal](/_internal/Mathematics/Geometry/Angle.internal.md) 
+### #is_/same_as :: [Angle.internal](/_internal/Mathematics/Geometry/Angle.internal.md) 
 
-### [Angle.protect](/_protect/Mathematics/Geometry/Angle.protect.md) 
+### #is_/same_as :: [Angle.protect](/_protect/Mathematics/Geometry/Angle.protect.md) 
 
-### [Angle.private](/_private/Mathematics/Geometry/Angle.private.md) 
+### #is_/same_as :: [Angle.private](/_private/Mathematics/Geometry/Angle.private.md) 
 
-### [Angle.personal](/_personal/Mathematics/Geometry/Angle.personal.md) 
+### #is_/same_as :: [Angle.personal](/_personal/Mathematics/Geometry/Angle.personal.md) 
 
-### [Angle.secret](/_secret/Mathematics/Geometry/Angle.secret.md)
+### #is_/same_as :: [Angle.secret](/_secret/Mathematics/Geometry/Angle.secret.md)
 

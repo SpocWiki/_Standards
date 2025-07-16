@@ -90,17 +90,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~1~Paleogene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.md) 
+### #is_/same_as :: [Period~1~Paleogene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.md) 
 
-### [Period~1~Paleogene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.public.md) 
+### #is_/same_as :: [Period~1~Paleogene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.public.md) 
 
-### [Period~1~Paleogene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.internal.md) 
+### #is_/same_as :: [Period~1~Paleogene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.internal.md) 
 
-### [Period~1~Paleogene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.protect.md) 
+### #is_/same_as :: [Period~1~Paleogene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.protect.md) 
 
-### [Period~1~Paleogene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.private.md) 
+### #is_/same_as :: [Period~1~Paleogene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.private.md) 
 
-### [Period~1~Paleogene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.personal.md) 
+### #is_/same_as :: [Period~1~Paleogene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.personal.md) 
 
-### [Period~1~Paleogene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.secret.md)
+### #is_/same_as :: [Period~1~Paleogene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.secret.md)
 

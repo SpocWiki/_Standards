@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_works_for](/_Standards/schema-org/Relation/has/has_works_for.md) 
+### #is_/same_as :: [has_works_for](/_Standards/schema-org/Relation/has/has_works_for.md) 
 
-### [has_works_for.public](/_public/schema-org/Relation/has/has_works_for.public.md) 
+### #is_/same_as :: [has_works_for.public](/_public/schema-org/Relation/has/has_works_for.public.md) 
 
-### [has_works_for.internal](/_internal/schema-org/Relation/has/has_works_for.internal.md) 
+### #is_/same_as :: [has_works_for.internal](/_internal/schema-org/Relation/has/has_works_for.internal.md) 
 
-### [has_works_for.protect](/_protect/schema-org/Relation/has/has_works_for.protect.md) 
+### #is_/same_as :: [has_works_for.protect](/_protect/schema-org/Relation/has/has_works_for.protect.md) 
 
-### [has_works_for.private](/_private/schema-org/Relation/has/has_works_for.private.md) 
+### #is_/same_as :: [has_works_for.private](/_private/schema-org/Relation/has/has_works_for.private.md) 
 
-### [has_works_for.personal](/_personal/schema-org/Relation/has/has_works_for.personal.md) 
+### #is_/same_as :: [has_works_for.personal](/_personal/schema-org/Relation/has/has_works_for.personal.md) 
 
-### [has_works_for.secret](/_secret/schema-org/Relation/has/has_works_for.secret.md)
+### #is_/same_as :: [has_works_for.secret](/_secret/schema-org/Relation/has/has_works_for.secret.md)
 

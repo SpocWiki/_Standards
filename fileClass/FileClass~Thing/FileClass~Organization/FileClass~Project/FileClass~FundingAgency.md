@@ -38,17 +38,17 @@ A FundingAgency is an organization that implements one or more [[FundingScheme]]
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FundingAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.md) 
+### #is_/same_as :: [FileClass~FundingAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.md) 
 
-### [FileClass~FundingAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.public.md) 
+### #is_/same_as :: [FileClass~FundingAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.public.md) 
 
-### [FileClass~FundingAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.internal.md) 
+### #is_/same_as :: [FileClass~FundingAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.internal.md) 
 
-### [FileClass~FundingAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.protect.md) 
+### #is_/same_as :: [FileClass~FundingAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.protect.md) 
 
-### [FileClass~FundingAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.private.md) 
+### #is_/same_as :: [FileClass~FundingAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.private.md) 
 
-### [FileClass~FundingAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.personal.md) 
+### #is_/same_as :: [FileClass~FundingAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.personal.md) 
 
-### [FileClass~FundingAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.secret.md)
+### #is_/same_as :: [FileClass~FundingAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.secret.md)
 

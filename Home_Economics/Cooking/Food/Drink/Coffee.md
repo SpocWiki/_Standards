@@ -82,21 +82,19 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Coffee\"]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Coffee) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Coffee](/_Standards/Home_Economics/Cooking/Food/Drink/Coffee.md) 
+### #is_/same_as :: [Coffee](/_Standards/Home_Economics/Cooking/Food/Drink/Coffee.md) 
 
-### [Coffee.public](/_public/Home_Economics/Cooking/Food/Drink/Coffee.public.md) 
+### #is_/same_as :: [Coffee.public](/_public/Home_Economics/Cooking/Food/Drink/Coffee.public.md) 
 
-### [Coffee.internal](/_internal/Home_Economics/Cooking/Food/Drink/Coffee.internal.md) 
+### #is_/same_as :: [Coffee.internal](/_internal/Home_Economics/Cooking/Food/Drink/Coffee.internal.md) 
 
-### [Coffee.protect](/_protect/Home_Economics/Cooking/Food/Drink/Coffee.protect.md) 
+### #is_/same_as :: [Coffee.protect](/_protect/Home_Economics/Cooking/Food/Drink/Coffee.protect.md) 
 
-### [Coffee.private](/_private/Home_Economics/Cooking/Food/Drink/Coffee.private.md) 
+### #is_/same_as :: [Coffee.private](/_private/Home_Economics/Cooking/Food/Drink/Coffee.private.md) 
 
-### [Coffee.personal](/_personal/Home_Economics/Cooking/Food/Drink/Coffee.personal.md) 
+### #is_/same_as :: [Coffee.personal](/_personal/Home_Economics/Cooking/Food/Drink/Coffee.personal.md) 
 
-### [Coffee.secret](/_secret/Home_Economics/Cooking/Food/Drink/Coffee.secret.md)
+### #is_/same_as :: [Coffee.secret](/_secret/Home_Economics/Cooking/Food/Drink/Coffee.secret.md)
 

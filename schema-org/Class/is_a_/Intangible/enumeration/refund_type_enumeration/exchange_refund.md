@@ -49,17 +49,17 @@ Specifies that a refund can be done as an exchange for the same product.
 
 ## Confidential Links & Embeds: 
 
-### [exchange_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.md) 
+### #is_/same_as :: [exchange_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.md) 
 
-### [exchange_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.public.md) 
+### #is_/same_as :: [exchange_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.public.md) 
 
-### [exchange_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md) 
+### #is_/same_as :: [exchange_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md) 
 
-### [exchange_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.protect.md) 
+### #is_/same_as :: [exchange_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.protect.md) 
 
-### [exchange_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.private.md) 
+### #is_/same_as :: [exchange_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.private.md) 
 
-### [exchange_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md) 
+### #is_/same_as :: [exchange_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md) 
 
-### [exchange_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md)
+### #is_/same_as :: [exchange_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md)
 

@@ -47,17 +47,17 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 ## Confidential Links & Embeds: 
 
-### [energy_consumption_details](/_Standards/schema-org/Class/is_a_/Intangible/energy_consumption_details.md) 
+### #is_/same_as :: [energy_consumption_details](/_Standards/schema-org/Class/is_a_/Intangible/energy_consumption_details.md) 
 
-### [energy_consumption_details.public](/_public/schema-org/Class/is_a_/Intangible/energy_consumption_details.public.md) 
+### #is_/same_as :: [energy_consumption_details.public](/_public/schema-org/Class/is_a_/Intangible/energy_consumption_details.public.md) 
 
-### [energy_consumption_details.internal](/_internal/schema-org/Class/is_a_/Intangible/energy_consumption_details.internal.md) 
+### #is_/same_as :: [energy_consumption_details.internal](/_internal/schema-org/Class/is_a_/Intangible/energy_consumption_details.internal.md) 
 
-### [energy_consumption_details.protect](/_protect/schema-org/Class/is_a_/Intangible/energy_consumption_details.protect.md) 
+### #is_/same_as :: [energy_consumption_details.protect](/_protect/schema-org/Class/is_a_/Intangible/energy_consumption_details.protect.md) 
 
-### [energy_consumption_details.private](/_private/schema-org/Class/is_a_/Intangible/energy_consumption_details.private.md) 
+### #is_/same_as :: [energy_consumption_details.private](/_private/schema-org/Class/is_a_/Intangible/energy_consumption_details.private.md) 
 
-### [energy_consumption_details.personal](/_personal/schema-org/Class/is_a_/Intangible/energy_consumption_details.personal.md) 
+### #is_/same_as :: [energy_consumption_details.personal](/_personal/schema-org/Class/is_a_/Intangible/energy_consumption_details.personal.md) 
 
-### [energy_consumption_details.secret](/_secret/schema-org/Class/is_a_/Intangible/energy_consumption_details.secret.md)
+### #is_/same_as :: [energy_consumption_details.secret](/_secret/schema-org/Class/is_a_/Intangible/energy_consumption_details.secret.md)
 

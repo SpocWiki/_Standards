@@ -17,20 +17,19 @@ and think only of responses to objections.
  
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Pörksen,Bernhard](/_Standards/bio/Society/Communication/Pörksen,Bernhard.md) 
+### #is_/same_as :: [Pörksen,Bernhard](/_Standards/bio/Society/Communication/Pörksen,Bernhard.md) 
 
-### [Pörksen,Bernhard.public](/_public/bio/Society/Communication/Pörksen,Bernhard.public.md) 
+### #is_/same_as :: [Pörksen,Bernhard.public](/_public/bio/Society/Communication/Pörksen,Bernhard.public.md) 
 
-### [Pörksen,Bernhard.internal](/_internal/bio/Society/Communication/Pörksen,Bernhard.internal.md) 
+### #is_/same_as :: [Pörksen,Bernhard.internal](/_internal/bio/Society/Communication/Pörksen,Bernhard.internal.md) 
 
-### [Pörksen,Bernhard.protect](/_protect/bio/Society/Communication/Pörksen,Bernhard.protect.md) 
+### #is_/same_as :: [Pörksen,Bernhard.protect](/_protect/bio/Society/Communication/Pörksen,Bernhard.protect.md) 
 
-### [Pörksen,Bernhard.private](/_private/bio/Society/Communication/Pörksen,Bernhard.private.md) 
+### #is_/same_as :: [Pörksen,Bernhard.private](/_private/bio/Society/Communication/Pörksen,Bernhard.private.md) 
 
-### [Pörksen,Bernhard.personal](/_personal/bio/Society/Communication/Pörksen,Bernhard.personal.md) 
+### #is_/same_as :: [Pörksen,Bernhard.personal](/_personal/bio/Society/Communication/Pörksen,Bernhard.personal.md) 
 
-### [Pörksen,Bernhard.secret](/_secret/bio/Society/Communication/Pörksen,Bernhard.secret.md)
+### #is_/same_as :: [Pörksen,Bernhard.secret](/_secret/bio/Society/Communication/Pörksen,Bernhard.secret.md)
 

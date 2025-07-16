@@ -138,17 +138,17 @@ mass: 102.90549
 
 ## Confidential Links & Embeds: 
 
-### [Rhodium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.md) 
+### #is_/same_as :: [Rhodium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.md) 
 
-### [Rhodium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.public.md) 
+### #is_/same_as :: [Rhodium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.public.md) 
 
-### [Rhodium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.internal.md) 
+### #is_/same_as :: [Rhodium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.internal.md) 
 
-### [Rhodium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.protect.md) 
+### #is_/same_as :: [Rhodium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.protect.md) 
 
-### [Rhodium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.private.md) 
+### #is_/same_as :: [Rhodium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.private.md) 
 
-### [Rhodium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.personal.md) 
+### #is_/same_as :: [Rhodium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.personal.md) 
 
-### [Rhodium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.secret.md)
+### #is_/same_as :: [Rhodium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.secret.md)
 

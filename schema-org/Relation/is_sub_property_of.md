@@ -19,17 +19,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_sub_property_of](/_Standards/schema-org/Relation/is_sub_property_of.md) 
+### #is_/same_as :: [is_sub_property_of](/_Standards/schema-org/Relation/is_sub_property_of.md) 
 
-### [is_sub_property_of.public](/_public/schema-org/Relation/is_sub_property_of.public.md) 
+### #is_/same_as :: [is_sub_property_of.public](/_public/schema-org/Relation/is_sub_property_of.public.md) 
 
-### [is_sub_property_of.internal](/_internal/schema-org/Relation/is_sub_property_of.internal.md) 
+### #is_/same_as :: [is_sub_property_of.internal](/_internal/schema-org/Relation/is_sub_property_of.internal.md) 
 
-### [is_sub_property_of.protect](/_protect/schema-org/Relation/is_sub_property_of.protect.md) 
+### #is_/same_as :: [is_sub_property_of.protect](/_protect/schema-org/Relation/is_sub_property_of.protect.md) 
 
-### [is_sub_property_of.private](/_private/schema-org/Relation/is_sub_property_of.private.md) 
+### #is_/same_as :: [is_sub_property_of.private](/_private/schema-org/Relation/is_sub_property_of.private.md) 
 
-### [is_sub_property_of.personal](/_personal/schema-org/Relation/is_sub_property_of.personal.md) 
+### #is_/same_as :: [is_sub_property_of.personal](/_personal/schema-org/Relation/is_sub_property_of.personal.md) 
 
-### [is_sub_property_of.secret](/_secret/schema-org/Relation/is_sub_property_of.secret.md)
+### #is_/same_as :: [is_sub_property_of.secret](/_secret/schema-org/Relation/is_sub_property_of.secret.md)
 

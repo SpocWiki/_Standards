@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to hereditary transmission an
 
 ## Confidential Links & Embeds: 
 
-### [genetic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.md) 
+### #is_/same_as :: [genetic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.md) 
 
-### [genetic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.public.md) 
+### #is_/same_as :: [genetic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.public.md) 
 
-### [genetic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.internal.md) 
+### #is_/same_as :: [genetic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.internal.md) 
 
-### [genetic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.protect.md) 
+### #is_/same_as :: [genetic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.protect.md) 
 
-### [genetic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.private.md) 
+### #is_/same_as :: [genetic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.private.md) 
 
-### [genetic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.personal.md) 
+### #is_/same_as :: [genetic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.personal.md) 
 
-### [genetic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.secret.md)
+### #is_/same_as :: [genetic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/genetic.secret.md)
 

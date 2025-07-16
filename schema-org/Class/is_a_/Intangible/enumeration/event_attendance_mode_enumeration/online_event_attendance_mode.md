@@ -49,17 +49,17 @@ OnlineEventAttendanceMode - an event that is primarily conducted online.
 
 ## Confidential Links & Embeds: 
 
-### [online_event_attendance_mode](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.md) 
+### #is_/same_as :: [online_event_attendance_mode](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.md) 
 
-### [online_event_attendance_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.public.md) 
+### #is_/same_as :: [online_event_attendance_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.public.md) 
 
-### [online_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.internal.md) 
+### #is_/same_as :: [online_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.internal.md) 
 
-### [online_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.protect.md) 
+### #is_/same_as :: [online_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.protect.md) 
 
-### [online_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.private.md) 
+### #is_/same_as :: [online_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.private.md) 
 
-### [online_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.personal.md) 
+### #is_/same_as :: [online_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.personal.md) 
 
-### [online_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.secret.md)
+### #is_/same_as :: [online_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.secret.md)
 

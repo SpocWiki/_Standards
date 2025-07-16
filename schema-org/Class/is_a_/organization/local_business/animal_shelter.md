@@ -45,17 +45,17 @@ Animal shelter.
 
 ## Confidential Links & Embeds: 
 
-### [animal_shelter](/_Standards/schema-org/Class/is_a_/organization/local_business/animal_shelter.md) 
+### #is_/same_as :: [animal_shelter](/_Standards/schema-org/Class/is_a_/organization/local_business/animal_shelter.md) 
 
-### [animal_shelter.public](/_public/schema-org/Class/is_a_/organization/local_business/animal_shelter.public.md) 
+### #is_/same_as :: [animal_shelter.public](/_public/schema-org/Class/is_a_/organization/local_business/animal_shelter.public.md) 
 
-### [animal_shelter.internal](/_internal/schema-org/Class/is_a_/organization/local_business/animal_shelter.internal.md) 
+### #is_/same_as :: [animal_shelter.internal](/_internal/schema-org/Class/is_a_/organization/local_business/animal_shelter.internal.md) 
 
-### [animal_shelter.protect](/_protect/schema-org/Class/is_a_/organization/local_business/animal_shelter.protect.md) 
+### #is_/same_as :: [animal_shelter.protect](/_protect/schema-org/Class/is_a_/organization/local_business/animal_shelter.protect.md) 
 
-### [animal_shelter.private](/_private/schema-org/Class/is_a_/organization/local_business/animal_shelter.private.md) 
+### #is_/same_as :: [animal_shelter.private](/_private/schema-org/Class/is_a_/organization/local_business/animal_shelter.private.md) 
 
-### [animal_shelter.personal](/_personal/schema-org/Class/is_a_/organization/local_business/animal_shelter.personal.md) 
+### #is_/same_as :: [animal_shelter.personal](/_personal/schema-org/Class/is_a_/organization/local_business/animal_shelter.personal.md) 
 
-### [animal_shelter.secret](/_secret/schema-org/Class/is_a_/organization/local_business/animal_shelter.secret.md)
+### #is_/same_as :: [animal_shelter.secret](/_secret/schema-org/Class/is_a_/organization/local_business/animal_shelter.secret.md)
 

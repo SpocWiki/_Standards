@@ -91,21 +91,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Des
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Computer](/_Standards/Technology/IT/Computer_Hardware/Computer.md) 
+### #is_/same_as :: [Computer](/_Standards/Technology/IT/Computer_Hardware/Computer.md) 
 
-### [Computer.public](/_public/Technology/IT/Computer_Hardware/Computer.public.md) 
+### #is_/same_as :: [Computer.public](/_public/Technology/IT/Computer_Hardware/Computer.public.md) 
 
-### [Computer.internal](/_internal/Technology/IT/Computer_Hardware/Computer.internal.md) 
+### #is_/same_as :: [Computer.internal](/_internal/Technology/IT/Computer_Hardware/Computer.internal.md) 
 
-### [Computer.protect](/_protect/Technology/IT/Computer_Hardware/Computer.protect.md) 
+### #is_/same_as :: [Computer.protect](/_protect/Technology/IT/Computer_Hardware/Computer.protect.md) 
 
-### [Computer.private](/_private/Technology/IT/Computer_Hardware/Computer.private.md) 
+### #is_/same_as :: [Computer.private](/_private/Technology/IT/Computer_Hardware/Computer.private.md) 
 
-### [Computer.personal](/_personal/Technology/IT/Computer_Hardware/Computer.personal.md) 
+### #is_/same_as :: [Computer.personal](/_personal/Technology/IT/Computer_Hardware/Computer.personal.md) 
 
-### [Computer.secret](/_secret/Technology/IT/Computer_Hardware/Computer.secret.md)
+### #is_/same_as :: [Computer.secret](/_secret/Technology/IT/Computer_Hardware/Computer.secret.md)
 

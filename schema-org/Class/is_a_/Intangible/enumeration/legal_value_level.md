@@ -45,17 +45,17 @@ A list of possible levels for the legal validity of a legislation.
 
 ## Confidential Links & Embeds: 
 
-### [legal_value_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.md) 
+### #is_/same_as :: [legal_value_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.md) 
 
-### [legal_value_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.public.md) 
+### #is_/same_as :: [legal_value_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.public.md) 
 
-### [legal_value_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.internal.md) 
+### #is_/same_as :: [legal_value_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.internal.md) 
 
-### [legal_value_level.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.protect.md) 
+### #is_/same_as :: [legal_value_level.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.protect.md) 
 
-### [legal_value_level.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.private.md) 
+### #is_/same_as :: [legal_value_level.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.private.md) 
 
-### [legal_value_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.personal.md) 
+### #is_/same_as :: [legal_value_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.personal.md) 
 
-### [legal_value_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.secret.md)
+### #is_/same_as :: [legal_value_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.secret.md)
 

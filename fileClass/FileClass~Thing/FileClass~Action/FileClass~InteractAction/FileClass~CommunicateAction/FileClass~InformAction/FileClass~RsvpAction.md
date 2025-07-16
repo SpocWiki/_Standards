@@ -61,17 +61,17 @@ RsvpResponse:: {"type":"Select","options":{"valuesList":{"RsvpResponseMaybe","Rs
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RsvpAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.md) 
+### #is_/same_as :: [FileClass~RsvpAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.md) 
 
-### [FileClass~RsvpAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.public.md) 
+### #is_/same_as :: [FileClass~RsvpAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.public.md) 
 
-### [FileClass~RsvpAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.internal.md) 
+### #is_/same_as :: [FileClass~RsvpAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.internal.md) 
 
-### [FileClass~RsvpAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.protect.md) 
+### #is_/same_as :: [FileClass~RsvpAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.protect.md) 
 
-### [FileClass~RsvpAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.private.md) 
+### #is_/same_as :: [FileClass~RsvpAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.private.md) 
 
-### [FileClass~RsvpAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.personal.md) 
+### #is_/same_as :: [FileClass~RsvpAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.personal.md) 
 
-### [FileClass~RsvpAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.secret.md)
+### #is_/same_as :: [FileClass~RsvpAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.secret.md)
 

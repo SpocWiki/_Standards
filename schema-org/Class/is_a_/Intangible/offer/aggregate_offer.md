@@ -47,17 +47,17 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 ## Confidential Links & Embeds: 
 
-### [aggregate_offer](/_Standards/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.md) 
+### #is_/same_as :: [aggregate_offer](/_Standards/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.md) 
 
-### [aggregate_offer.public](/_public/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.public.md) 
+### #is_/same_as :: [aggregate_offer.public](/_public/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.public.md) 
 
-### [aggregate_offer.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.internal.md) 
+### #is_/same_as :: [aggregate_offer.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.internal.md) 
 
-### [aggregate_offer.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.protect.md) 
+### #is_/same_as :: [aggregate_offer.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.protect.md) 
 
-### [aggregate_offer.private](/_private/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.private.md) 
+### #is_/same_as :: [aggregate_offer.private](/_private/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.private.md) 
 
-### [aggregate_offer.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.personal.md) 
+### #is_/same_as :: [aggregate_offer.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.personal.md) 
 
-### [aggregate_offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.secret.md)
+### #is_/same_as :: [aggregate_offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.secret.md)
 

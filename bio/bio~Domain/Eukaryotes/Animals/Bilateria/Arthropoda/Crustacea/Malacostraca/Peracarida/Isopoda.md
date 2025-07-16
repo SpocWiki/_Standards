@@ -301,21 +301,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 1994 G. M. Branch
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Isopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.md) 
+### #is_/same_as :: [Isopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.md) 
 
-### [Isopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.public.md) 
+### #is_/same_as :: [Isopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.public.md) 
 
-### [Isopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.internal.md) 
+### #is_/same_as :: [Isopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.internal.md) 
 
-### [Isopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.protect.md) 
+### #is_/same_as :: [Isopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.protect.md) 
 
-### [Isopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.private.md) 
+### #is_/same_as :: [Isopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.private.md) 
 
-### [Isopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.personal.md) 
+### #is_/same_as :: [Isopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.personal.md) 
 
-### [Isopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.secret.md)
+### #is_/same_as :: [Isopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.secret.md)
 

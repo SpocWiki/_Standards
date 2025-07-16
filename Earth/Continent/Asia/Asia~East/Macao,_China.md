@@ -37,17 +37,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### [Macao,_China](/_Standards/Earth/Continent/Asia/Asia~East/Macao,_China.md) 
+### #is_/same_as :: [Macao,_China](/_Standards/Earth/Continent/Asia/Asia~East/Macao,_China.md) 
 
-### [Macao,_China.public](/_public/Earth/Continent/Asia/Asia~East/Macao,_China.public.md) 
+### #is_/same_as :: [Macao,_China.public](/_public/Earth/Continent/Asia/Asia~East/Macao,_China.public.md) 
 
-### [Macao,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal.md) 
+### #is_/same_as :: [Macao,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal.md) 
 
-### [Macao,_China.protect](/_protect/Earth/Continent/Asia/Asia~East/Macao,_China.protect.md) 
+### #is_/same_as :: [Macao,_China.protect](/_protect/Earth/Continent/Asia/Asia~East/Macao,_China.protect.md) 
 
-### [Macao,_China.private](/_private/Earth/Continent/Asia/Asia~East/Macao,_China.private.md) 
+### #is_/same_as :: [Macao,_China.private](/_private/Earth/Continent/Asia/Asia~East/Macao,_China.private.md) 
 
-### [Macao,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal.md) 
+### #is_/same_as :: [Macao,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal.md) 
 
-### [Macao,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret.md)
+### #is_/same_as :: [Macao,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret.md)
 

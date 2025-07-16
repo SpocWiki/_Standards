@@ -178,21 +178,19 @@ date_of_birth: "1770-12-16"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20van%20Beethoven)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Beethoven,Ludwig_van](/_Standards/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van](/_Standards/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.md) 
 
-### [Beethoven,Ludwig_van.public](/_public/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.public.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.public](/_public/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.public.md) 
 
-### [Beethoven,Ludwig_van.internal](/_internal/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.internal.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.internal](/_internal/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.internal.md) 
 
-### [Beethoven,Ludwig_van.protect](/_protect/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.protect.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.protect](/_protect/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.protect.md) 
 
-### [Beethoven,Ludwig_van.private](/_private/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.private.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.private](/_private/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.private.md) 
 
-### [Beethoven,Ludwig_van.personal](/_personal/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.personal.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.personal](/_personal/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.personal.md) 
 
-### [Beethoven,Ludwig_van.secret](/_secret/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.secret.md)
+### #is_/same_as :: [Beethoven,Ludwig_van.secret](/_secret/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.secret.md)
 

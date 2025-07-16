@@ -146,20 +146,19 @@ Birds, tyrannosaurs, velociraptors, etc.
   -------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Coelurosauria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.md) 
+### #is_/same_as :: [Coelurosauria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.md) 
 
-### [Coelurosauria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.public.md) 
+### #is_/same_as :: [Coelurosauria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.public.md) 
 
-### [Coelurosauria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.internal.md) 
+### #is_/same_as :: [Coelurosauria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.internal.md) 
 
-### [Coelurosauria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.protect.md) 
+### #is_/same_as :: [Coelurosauria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.protect.md) 
 
-### [Coelurosauria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.private.md) 
+### #is_/same_as :: [Coelurosauria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.private.md) 
 
-### [Coelurosauria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.personal.md) 
+### #is_/same_as :: [Coelurosauria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.personal.md) 
 
-### [Coelurosauria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.secret.md)
+### #is_/same_as :: [Coelurosauria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.secret.md)
 

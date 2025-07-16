@@ -47,17 +47,17 @@ Indicates that the item has sold out.
 
 ## Confidential Links & Embeds: 
 
-### [sold_out](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.md) 
+### #is_/same_as :: [sold_out](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.md) 
 
-### [sold_out.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.public.md) 
+### #is_/same_as :: [sold_out.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.public.md) 
 
-### [sold_out.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.internal.md) 
+### #is_/same_as :: [sold_out.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.internal.md) 
 
-### [sold_out.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.protect.md) 
+### #is_/same_as :: [sold_out.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.protect.md) 
 
-### [sold_out.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.private.md) 
+### #is_/same_as :: [sold_out.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.private.md) 
 
-### [sold_out.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.personal.md) 
+### #is_/same_as :: [sold_out.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.personal.md) 
 
-### [sold_out.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.secret.md)
+### #is_/same_as :: [sold_out.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.secret.md)
 

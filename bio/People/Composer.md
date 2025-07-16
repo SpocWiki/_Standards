@@ -12,17 +12,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Composer](/_Standards/bio/People/Composer.md) 
+### #is_/same_as :: [Composer](/_Standards/bio/People/Composer.md) 
 
-### [Composer.public](/_public/bio/People/Composer.public.md) 
+### #is_/same_as :: [Composer.public](/_public/bio/People/Composer.public.md) 
 
-### [Composer.internal](/_internal/bio/People/Composer.internal.md) 
+### #is_/same_as :: [Composer.internal](/_internal/bio/People/Composer.internal.md) 
 
-### [Composer.protect](/_protect/bio/People/Composer.protect.md) 
+### #is_/same_as :: [Composer.protect](/_protect/bio/People/Composer.protect.md) 
 
-### [Composer.private](/_private/bio/People/Composer.private.md) 
+### #is_/same_as :: [Composer.private](/_private/bio/People/Composer.private.md) 
 
-### [Composer.personal](/_personal/bio/People/Composer.personal.md) 
+### #is_/same_as :: [Composer.personal](/_personal/bio/People/Composer.personal.md) 
 
-### [Composer.secret](/_secret/bio/People/Composer.secret.md)
+### #is_/same_as :: [Composer.secret](/_secret/bio/People/Composer.secret.md)
 

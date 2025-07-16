@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_service_output](/_Standards/schema-org/Relation/has/has_service_output.md) 
+### #is_/same_as :: [has_service_output](/_Standards/schema-org/Relation/has/has_service_output.md) 
 
-### [has_service_output.public](/_public/schema-org/Relation/has/has_service_output.public.md) 
+### #is_/same_as :: [has_service_output.public](/_public/schema-org/Relation/has/has_service_output.public.md) 
 
-### [has_service_output.internal](/_internal/schema-org/Relation/has/has_service_output.internal.md) 
+### #is_/same_as :: [has_service_output.internal](/_internal/schema-org/Relation/has/has_service_output.internal.md) 
 
-### [has_service_output.protect](/_protect/schema-org/Relation/has/has_service_output.protect.md) 
+### #is_/same_as :: [has_service_output.protect](/_protect/schema-org/Relation/has/has_service_output.protect.md) 
 
-### [has_service_output.private](/_private/schema-org/Relation/has/has_service_output.private.md) 
+### #is_/same_as :: [has_service_output.private](/_private/schema-org/Relation/has/has_service_output.private.md) 
 
-### [has_service_output.personal](/_personal/schema-org/Relation/has/has_service_output.personal.md) 
+### #is_/same_as :: [has_service_output.personal](/_personal/schema-org/Relation/has/has_service_output.personal.md) 
 
-### [has_service_output.secret](/_secret/schema-org/Relation/has/has_service_output.secret.md)
+### #is_/same_as :: [has_service_output.secret](/_secret/schema-org/Relation/has/has_service_output.secret.md)
 

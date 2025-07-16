@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_exif_data](/_Standards/schema-org/Relation/has/has_exif_data.md) 
+### #is_/same_as :: [has_exif_data](/_Standards/schema-org/Relation/has/has_exif_data.md) 
 
-### [has_exif_data.public](/_public/schema-org/Relation/has/has_exif_data.public.md) 
+### #is_/same_as :: [has_exif_data.public](/_public/schema-org/Relation/has/has_exif_data.public.md) 
 
-### [has_exif_data.internal](/_internal/schema-org/Relation/has/has_exif_data.internal.md) 
+### #is_/same_as :: [has_exif_data.internal](/_internal/schema-org/Relation/has/has_exif_data.internal.md) 
 
-### [has_exif_data.protect](/_protect/schema-org/Relation/has/has_exif_data.protect.md) 
+### #is_/same_as :: [has_exif_data.protect](/_protect/schema-org/Relation/has/has_exif_data.protect.md) 
 
-### [has_exif_data.private](/_private/schema-org/Relation/has/has_exif_data.private.md) 
+### #is_/same_as :: [has_exif_data.private](/_private/schema-org/Relation/has/has_exif_data.private.md) 
 
-### [has_exif_data.personal](/_personal/schema-org/Relation/has/has_exif_data.personal.md) 
+### #is_/same_as :: [has_exif_data.personal](/_personal/schema-org/Relation/has/has_exif_data.personal.md) 
 
-### [has_exif_data.secret](/_secret/schema-org/Relation/has/has_exif_data.secret.md)
+### #is_/same_as :: [has_exif_data.secret](/_secret/schema-org/Relation/has/has_exif_data.secret.md)
 

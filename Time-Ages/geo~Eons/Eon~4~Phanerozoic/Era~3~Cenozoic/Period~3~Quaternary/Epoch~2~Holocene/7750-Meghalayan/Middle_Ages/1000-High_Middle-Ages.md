@@ -36,22 +36,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/High%20Middle%20Ages) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [1000-High_Middle-Ages](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.md) 
+### #is_/same_as :: [1000-High_Middle-Ages](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.md) 
 
-### [1000-High_Middle-Ages.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.public.md) 
+### #is_/same_as :: [1000-High_Middle-Ages.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.public.md) 
 
-### [1000-High_Middle-Ages.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.internal.md) 
+### #is_/same_as :: [1000-High_Middle-Ages.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.internal.md) 
 
-### [1000-High_Middle-Ages.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.protect.md) 
+### #is_/same_as :: [1000-High_Middle-Ages.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.protect.md) 
 
-### [1000-High_Middle-Ages.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.private.md) 
+### #is_/same_as :: [1000-High_Middle-Ages.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.private.md) 
 
-### [1000-High_Middle-Ages.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.personal.md) 
+### #is_/same_as :: [1000-High_Middle-Ages.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.personal.md) 
 
-### [1000-High_Middle-Ages.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.secret.md)
+### #is_/same_as :: [1000-High_Middle-Ages.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.secret.md)
 

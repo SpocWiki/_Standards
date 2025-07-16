@@ -54,17 +54,17 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### [Faviina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.md) 
+### #is_/same_as :: [Faviina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.md) 
 
-### [Faviina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.public.md) 
+### #is_/same_as :: [Faviina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.public.md) 
 
-### [Faviina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.internal.md) 
+### #is_/same_as :: [Faviina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.internal.md) 
 
-### [Faviina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.protect.md) 
+### #is_/same_as :: [Faviina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.protect.md) 
 
-### [Faviina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.private.md) 
+### #is_/same_as :: [Faviina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.private.md) 
 
-### [Faviina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.personal.md) 
+### #is_/same_as :: [Faviina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.personal.md) 
 
-### [Faviina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.secret.md)
+### #is_/same_as :: [Faviina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.secret.md)
 

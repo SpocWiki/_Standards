@@ -45,17 +45,17 @@ A public swimming pool.
 
 ## Confidential Links & Embeds: 
 
-### [public_swimming_pool](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.md) 
+### #is_/same_as :: [public_swimming_pool](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.md) 
 
-### [public_swimming_pool.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.public.md) 
+### #is_/same_as :: [public_swimming_pool.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.public.md) 
 
-### [public_swimming_pool.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.internal.md) 
+### #is_/same_as :: [public_swimming_pool.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.internal.md) 
 
-### [public_swimming_pool.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.protect.md) 
+### #is_/same_as :: [public_swimming_pool.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.protect.md) 
 
-### [public_swimming_pool.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.private.md) 
+### #is_/same_as :: [public_swimming_pool.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.private.md) 
 
-### [public_swimming_pool.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.personal.md) 
+### #is_/same_as :: [public_swimming_pool.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.personal.md) 
 
-### [public_swimming_pool.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.secret.md)
+### #is_/same_as :: [public_swimming_pool.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.secret.md)
 

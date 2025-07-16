@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_result](/_Standards/schema-org/Relation/has/has_result.md) 
+### #is_/same_as :: [has_result](/_Standards/schema-org/Relation/has/has_result.md) 
 
-### [has_result.public](/_public/schema-org/Relation/has/has_result.public.md) 
+### #is_/same_as :: [has_result.public](/_public/schema-org/Relation/has/has_result.public.md) 
 
-### [has_result.internal](/_internal/schema-org/Relation/has/has_result.internal.md) 
+### #is_/same_as :: [has_result.internal](/_internal/schema-org/Relation/has/has_result.internal.md) 
 
-### [has_result.protect](/_protect/schema-org/Relation/has/has_result.protect.md) 
+### #is_/same_as :: [has_result.protect](/_protect/schema-org/Relation/has/has_result.protect.md) 
 
-### [has_result.private](/_private/schema-org/Relation/has/has_result.private.md) 
+### #is_/same_as :: [has_result.private](/_private/schema-org/Relation/has/has_result.private.md) 
 
-### [has_result.personal](/_personal/schema-org/Relation/has/has_result.personal.md) 
+### #is_/same_as :: [has_result.personal](/_personal/schema-org/Relation/has/has_result.personal.md) 
 
-### [has_result.secret](/_secret/schema-org/Relation/has/has_result.secret.md)
+### #is_/same_as :: [has_result.secret](/_secret/schema-org/Relation/has/has_result.secret.md)
 

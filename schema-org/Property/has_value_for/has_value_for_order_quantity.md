@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_order_quantity](/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity.md) 
+### #is_/same_as :: [has_value_for_order_quantity](/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity.md) 
 
-### [has_value_for_order_quantity.public](/_public/schema-org/Property/has_value_for/has_value_for_order_quantity.public.md) 
+### #is_/same_as :: [has_value_for_order_quantity.public](/_public/schema-org/Property/has_value_for/has_value_for_order_quantity.public.md) 
 
-### [has_value_for_order_quantity.internal](/_internal/schema-org/Property/has_value_for/has_value_for_order_quantity.internal.md) 
+### #is_/same_as :: [has_value_for_order_quantity.internal](/_internal/schema-org/Property/has_value_for/has_value_for_order_quantity.internal.md) 
 
-### [has_value_for_order_quantity.protect](/_protect/schema-org/Property/has_value_for/has_value_for_order_quantity.protect.md) 
+### #is_/same_as :: [has_value_for_order_quantity.protect](/_protect/schema-org/Property/has_value_for/has_value_for_order_quantity.protect.md) 
 
-### [has_value_for_order_quantity.private](/_private/schema-org/Property/has_value_for/has_value_for_order_quantity.private.md) 
+### #is_/same_as :: [has_value_for_order_quantity.private](/_private/schema-org/Property/has_value_for/has_value_for_order_quantity.private.md) 
 
-### [has_value_for_order_quantity.personal](/_personal/schema-org/Property/has_value_for/has_value_for_order_quantity.personal.md) 
+### #is_/same_as :: [has_value_for_order_quantity.personal](/_personal/schema-org/Property/has_value_for/has_value_for_order_quantity.personal.md) 
 
-### [has_value_for_order_quantity.secret](/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret.md)
+### #is_/same_as :: [has_value_for_order_quantity.secret](/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret.md)
 

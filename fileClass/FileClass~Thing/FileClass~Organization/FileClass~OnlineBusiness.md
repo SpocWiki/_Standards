@@ -35,17 +35,17 @@ A particular online business, either standalone or the online part of a broader 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OnlineBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.md) 
+### #is_/same_as :: [FileClass~OnlineBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.md) 
 
-### [FileClass~OnlineBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.public.md) 
+### #is_/same_as :: [FileClass~OnlineBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.public.md) 
 
-### [FileClass~OnlineBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.internal.md) 
+### #is_/same_as :: [FileClass~OnlineBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.internal.md) 
 
-### [FileClass~OnlineBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.protect.md) 
+### #is_/same_as :: [FileClass~OnlineBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.protect.md) 
 
-### [FileClass~OnlineBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.private.md) 
+### #is_/same_as :: [FileClass~OnlineBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.private.md) 
 
-### [FileClass~OnlineBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.personal.md) 
+### #is_/same_as :: [FileClass~OnlineBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.personal.md) 
 
-### [FileClass~OnlineBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.secret.md)
+### #is_/same_as :: [FileClass~OnlineBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.secret.md)
 

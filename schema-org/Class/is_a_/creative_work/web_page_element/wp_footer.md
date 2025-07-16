@@ -45,17 +45,17 @@ The footer section of the page.
 
 ## Confidential Links & Embeds: 
 
-### [wp_footer](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.md) 
+### #is_/same_as :: [wp_footer](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.md) 
 
-### [wp_footer.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.public.md) 
+### #is_/same_as :: [wp_footer.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.public.md) 
 
-### [wp_footer.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.internal.md) 
+### #is_/same_as :: [wp_footer.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.internal.md) 
 
-### [wp_footer.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.protect.md) 
+### #is_/same_as :: [wp_footer.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.protect.md) 
 
-### [wp_footer.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.private.md) 
+### #is_/same_as :: [wp_footer.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.private.md) 
 
-### [wp_footer.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.personal.md) 
+### #is_/same_as :: [wp_footer.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.personal.md) 
 
-### [wp_footer.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.secret.md)
+### #is_/same_as :: [wp_footer.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_footer.secret.md)
 

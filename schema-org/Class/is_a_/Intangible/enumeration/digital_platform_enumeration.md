@@ -45,17 +45,17 @@ Enumerates some common technology platforms, for use with properties such as [[a
 
 ## Confidential Links & Embeds: 
 
-### [digital_platform_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.md) 
+### #is_/same_as :: [digital_platform_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.md) 
 
-### [digital_platform_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.public.md) 
+### #is_/same_as :: [digital_platform_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.public.md) 
 
-### [digital_platform_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.internal.md) 
+### #is_/same_as :: [digital_platform_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.internal.md) 
 
-### [digital_platform_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.protect.md) 
+### #is_/same_as :: [digital_platform_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.protect.md) 
 
-### [digital_platform_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.private.md) 
+### #is_/same_as :: [digital_platform_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.private.md) 
 
-### [digital_platform_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.personal.md) 
+### #is_/same_as :: [digital_platform_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.personal.md) 
 
-### [digital_platform_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.secret.md)
+### #is_/same_as :: [digital_platform_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.secret.md)
 

@@ -45,17 +45,17 @@ A service to convert funds from one currency to another currency.
 
 ## Confidential Links & Embeds: 
 
-### [currency_conversion_service](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.md) 
+### #is_/same_as :: [currency_conversion_service](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.md) 
 
-### [currency_conversion_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.public.md) 
+### #is_/same_as :: [currency_conversion_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.public.md) 
 
-### [currency_conversion_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.internal.md) 
+### #is_/same_as :: [currency_conversion_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.internal.md) 
 
-### [currency_conversion_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.protect.md) 
+### #is_/same_as :: [currency_conversion_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.protect.md) 
 
-### [currency_conversion_service.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.private.md) 
+### #is_/same_as :: [currency_conversion_service.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.private.md) 
 
-### [currency_conversion_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.personal.md) 
+### #is_/same_as :: [currency_conversion_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.personal.md) 
 
-### [currency_conversion_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.secret.md)
+### #is_/same_as :: [currency_conversion_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.secret.md)
 

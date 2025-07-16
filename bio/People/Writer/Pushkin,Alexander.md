@@ -205,22 +205,19 @@ IPI_name_number: 00025078792
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Pushkin)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pushkin,Alexander](/_Standards/bio/People/Writer/Pushkin,Alexander.md) 
+### #is_/same_as :: [Pushkin,Alexander](/_Standards/bio/People/Writer/Pushkin,Alexander.md) 
 
-### [Pushkin,Alexander.public](/_public/bio/People/Writer/Pushkin,Alexander.public.md) 
+### #is_/same_as :: [Pushkin,Alexander.public](/_public/bio/People/Writer/Pushkin,Alexander.public.md) 
 
-### [Pushkin,Alexander.internal](/_internal/bio/People/Writer/Pushkin,Alexander.internal.md) 
+### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/bio/People/Writer/Pushkin,Alexander.internal.md) 
 
-### [Pushkin,Alexander.protect](/_protect/bio/People/Writer/Pushkin,Alexander.protect.md) 
+### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/bio/People/Writer/Pushkin,Alexander.protect.md) 
 
-### [Pushkin,Alexander.private](/_private/bio/People/Writer/Pushkin,Alexander.private.md) 
+### #is_/same_as :: [Pushkin,Alexander.private](/_private/bio/People/Writer/Pushkin,Alexander.private.md) 
 
-### [Pushkin,Alexander.personal](/_personal/bio/People/Writer/Pushkin,Alexander.personal.md) 
+### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/bio/People/Writer/Pushkin,Alexander.personal.md) 
 
-### [Pushkin,Alexander.secret](/_secret/bio/People/Writer/Pushkin,Alexander.secret.md)
+### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/bio/People/Writer/Pushkin,Alexander.secret.md)
 

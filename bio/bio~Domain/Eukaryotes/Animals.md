@@ -256,21 +256,19 @@ of animals and their sibling groups within the broader context of eukaryotic div
   Copyright ::            © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Animals](/_Standards/bio/bio~Domain/Eukaryotes/Animals.md) 
+### #is_/same_as :: [Animals](/_Standards/bio/bio~Domain/Eukaryotes/Animals.md) 
 
-### [Animals.public](/_public/bio/bio~Domain/Eukaryotes/Animals.public.md) 
+### #is_/same_as :: [Animals.public](/_public/bio/bio~Domain/Eukaryotes/Animals.public.md) 
 
-### [Animals.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals.internal.md) 
+### #is_/same_as :: [Animals.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals.internal.md) 
 
-### [Animals.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals.protect.md) 
+### #is_/same_as :: [Animals.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals.protect.md) 
 
-### [Animals.private](/_private/bio/bio~Domain/Eukaryotes/Animals.private.md) 
+### #is_/same_as :: [Animals.private](/_private/bio/bio~Domain/Eukaryotes/Animals.private.md) 
 
-### [Animals.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals.personal.md) 
+### #is_/same_as :: [Animals.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals.personal.md) 
 
-### [Animals.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals.secret.md)
+### #is_/same_as :: [Animals.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals.secret.md)
 

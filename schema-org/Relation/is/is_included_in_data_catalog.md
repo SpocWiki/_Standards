@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_included_in_data_catalog](/_Standards/schema-org/Relation/is/is_included_in_data_catalog.md) 
+### #is_/same_as :: [is_included_in_data_catalog](/_Standards/schema-org/Relation/is/is_included_in_data_catalog.md) 
 
-### [is_included_in_data_catalog.public](/_public/schema-org/Relation/is/is_included_in_data_catalog.public.md) 
+### #is_/same_as :: [is_included_in_data_catalog.public](/_public/schema-org/Relation/is/is_included_in_data_catalog.public.md) 
 
-### [is_included_in_data_catalog.internal](/_internal/schema-org/Relation/is/is_included_in_data_catalog.internal.md) 
+### #is_/same_as :: [is_included_in_data_catalog.internal](/_internal/schema-org/Relation/is/is_included_in_data_catalog.internal.md) 
 
-### [is_included_in_data_catalog.protect](/_protect/schema-org/Relation/is/is_included_in_data_catalog.protect.md) 
+### #is_/same_as :: [is_included_in_data_catalog.protect](/_protect/schema-org/Relation/is/is_included_in_data_catalog.protect.md) 
 
-### [is_included_in_data_catalog.private](/_private/schema-org/Relation/is/is_included_in_data_catalog.private.md) 
+### #is_/same_as :: [is_included_in_data_catalog.private](/_private/schema-org/Relation/is/is_included_in_data_catalog.private.md) 
 
-### [is_included_in_data_catalog.personal](/_personal/schema-org/Relation/is/is_included_in_data_catalog.personal.md) 
+### #is_/same_as :: [is_included_in_data_catalog.personal](/_personal/schema-org/Relation/is/is_included_in_data_catalog.personal.md) 
 
-### [is_included_in_data_catalog.secret](/_secret/schema-org/Relation/is/is_included_in_data_catalog.secret.md)
+### #is_/same_as :: [is_included_in_data_catalog.secret](/_secret/schema-org/Relation/is/is_included_in_data_catalog.secret.md)
 

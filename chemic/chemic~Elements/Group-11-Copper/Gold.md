@@ -155,17 +155,17 @@ OpenStreetMap_tag_or_key: "Tag:resource=gold"
 
 ## Confidential Links & Embeds: 
 
-### [Gold](/_Standards/chemic/chemic~Elements/Group-11-Copper/Gold.md) 
+### #is_/same_as :: [Gold](/_Standards/chemic/chemic~Elements/Group-11-Copper/Gold.md) 
 
-### [Gold.public](/_public/chemic/chemic~Elements/Group-11-Copper/Gold.public.md) 
+### #is_/same_as :: [Gold.public](/_public/chemic/chemic~Elements/Group-11-Copper/Gold.public.md) 
 
-### [Gold.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Gold.internal.md) 
+### #is_/same_as :: [Gold.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Gold.internal.md) 
 
-### [Gold.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Gold.protect.md) 
+### #is_/same_as :: [Gold.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Gold.protect.md) 
 
-### [Gold.private](/_private/chemic/chemic~Elements/Group-11-Copper/Gold.private.md) 
+### #is_/same_as :: [Gold.private](/_private/chemic/chemic~Elements/Group-11-Copper/Gold.private.md) 
 
-### [Gold.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Gold.personal.md) 
+### #is_/same_as :: [Gold.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Gold.personal.md) 
 
-### [Gold.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Gold.secret.md)
+### #is_/same_as :: [Gold.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Gold.secret.md)
 

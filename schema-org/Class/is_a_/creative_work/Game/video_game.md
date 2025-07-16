@@ -45,17 +45,17 @@ A video game is an electronic game that involves human interaction with a user i
 
 ## Confidential Links & Embeds: 
 
-### [video_game](/_Standards/schema-org/Class/is_a_/creative_work/Game/video_game.md) 
+### #is_/same_as :: [video_game](/_Standards/schema-org/Class/is_a_/creative_work/Game/video_game.md) 
 
-### [video_game.public](/_public/schema-org/Class/is_a_/creative_work/Game/video_game.public.md) 
+### #is_/same_as :: [video_game.public](/_public/schema-org/Class/is_a_/creative_work/Game/video_game.public.md) 
 
-### [video_game.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/video_game.internal.md) 
+### #is_/same_as :: [video_game.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/video_game.internal.md) 
 
-### [video_game.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/video_game.protect.md) 
+### #is_/same_as :: [video_game.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/video_game.protect.md) 
 
-### [video_game.private](/_private/schema-org/Class/is_a_/creative_work/Game/video_game.private.md) 
+### #is_/same_as :: [video_game.private](/_private/schema-org/Class/is_a_/creative_work/Game/video_game.private.md) 
 
-### [video_game.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/video_game.personal.md) 
+### #is_/same_as :: [video_game.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/video_game.personal.md) 
 
-### [video_game.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/video_game.secret.md)
+### #is_/same_as :: [video_game.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/video_game.secret.md)
 

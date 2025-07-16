@@ -47,17 +47,17 @@ Printed music, as opposed to performed or recorded music.
 
 ## Confidential Links & Embeds: 
 
-### [sheet_music](/_Standards/schema-org/Class/is_a_/creative_work/sheet_music.md) 
+### #is_/same_as :: [sheet_music](/_Standards/schema-org/Class/is_a_/creative_work/sheet_music.md) 
 
-### [sheet_music.public](/_public/schema-org/Class/is_a_/creative_work/sheet_music.public.md) 
+### #is_/same_as :: [sheet_music.public](/_public/schema-org/Class/is_a_/creative_work/sheet_music.public.md) 
 
-### [sheet_music.internal](/_internal/schema-org/Class/is_a_/creative_work/sheet_music.internal.md) 
+### #is_/same_as :: [sheet_music.internal](/_internal/schema-org/Class/is_a_/creative_work/sheet_music.internal.md) 
 
-### [sheet_music.protect](/_protect/schema-org/Class/is_a_/creative_work/sheet_music.protect.md) 
+### #is_/same_as :: [sheet_music.protect](/_protect/schema-org/Class/is_a_/creative_work/sheet_music.protect.md) 
 
-### [sheet_music.private](/_private/schema-org/Class/is_a_/creative_work/sheet_music.private.md) 
+### #is_/same_as :: [sheet_music.private](/_private/schema-org/Class/is_a_/creative_work/sheet_music.private.md) 
 
-### [sheet_music.personal](/_personal/schema-org/Class/is_a_/creative_work/sheet_music.personal.md) 
+### #is_/same_as :: [sheet_music.personal](/_personal/schema-org/Class/is_a_/creative_work/sheet_music.personal.md) 
 
-### [sheet_music.secret](/_secret/schema-org/Class/is_a_/creative_work/sheet_music.secret.md)
+### #is_/same_as :: [sheet_music.secret](/_secret/schema-org/Class/is_a_/creative_work/sheet_music.secret.md)
 

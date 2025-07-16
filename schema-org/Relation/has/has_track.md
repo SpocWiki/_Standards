@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_track](/_Standards/schema-org/Relation/has/has_track.md) 
+### #is_/same_as :: [has_track](/_Standards/schema-org/Relation/has/has_track.md) 
 
-### [has_track.public](/_public/schema-org/Relation/has/has_track.public.md) 
+### #is_/same_as :: [has_track.public](/_public/schema-org/Relation/has/has_track.public.md) 
 
-### [has_track.internal](/_internal/schema-org/Relation/has/has_track.internal.md) 
+### #is_/same_as :: [has_track.internal](/_internal/schema-org/Relation/has/has_track.internal.md) 
 
-### [has_track.protect](/_protect/schema-org/Relation/has/has_track.protect.md) 
+### #is_/same_as :: [has_track.protect](/_protect/schema-org/Relation/has/has_track.protect.md) 
 
-### [has_track.private](/_private/schema-org/Relation/has/has_track.private.md) 
+### #is_/same_as :: [has_track.private](/_private/schema-org/Relation/has/has_track.private.md) 
 
-### [has_track.personal](/_personal/schema-org/Relation/has/has_track.personal.md) 
+### #is_/same_as :: [has_track.personal](/_personal/schema-org/Relation/has/has_track.personal.md) 
 
-### [has_track.secret](/_secret/schema-org/Relation/has/has_track.secret.md)
+### #is_/same_as :: [has_track.secret](/_secret/schema-org/Relation/has/has_track.secret.md)
 

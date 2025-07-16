@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_tissue_sample](/_Standards/schema-org/Property/Texts/has_tissue_sample.md) 
+### #is_/same_as :: [has_tissue_sample](/_Standards/schema-org/Property/Texts/has_tissue_sample.md) 
 
-### [has_tissue_sample.public](/_public/schema-org/Property/Texts/has_tissue_sample.public.md) 
+### #is_/same_as :: [has_tissue_sample.public](/_public/schema-org/Property/Texts/has_tissue_sample.public.md) 
 
-### [has_tissue_sample.internal](/_internal/schema-org/Property/Texts/has_tissue_sample.internal.md) 
+### #is_/same_as :: [has_tissue_sample.internal](/_internal/schema-org/Property/Texts/has_tissue_sample.internal.md) 
 
-### [has_tissue_sample.protect](/_protect/schema-org/Property/Texts/has_tissue_sample.protect.md) 
+### #is_/same_as :: [has_tissue_sample.protect](/_protect/schema-org/Property/Texts/has_tissue_sample.protect.md) 
 
-### [has_tissue_sample.private](/_private/schema-org/Property/Texts/has_tissue_sample.private.md) 
+### #is_/same_as :: [has_tissue_sample.private](/_private/schema-org/Property/Texts/has_tissue_sample.private.md) 
 
-### [has_tissue_sample.personal](/_personal/schema-org/Property/Texts/has_tissue_sample.personal.md) 
+### #is_/same_as :: [has_tissue_sample.personal](/_personal/schema-org/Property/Texts/has_tissue_sample.personal.md) 
 
-### [has_tissue_sample.secret](/_secret/schema-org/Property/Texts/has_tissue_sample.secret.md)
+### #is_/same_as :: [has_tissue_sample.secret](/_secret/schema-org/Property/Texts/has_tissue_sample.secret.md)
 

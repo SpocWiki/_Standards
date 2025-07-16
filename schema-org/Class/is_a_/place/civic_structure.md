@@ -47,17 +47,17 @@ A public structure, such as a town hall or concert hall.
 
 ## Confidential Links & Embeds: 
 
-### [civic_structure](/_Standards/schema-org/Class/is_a_/place/civic_structure.md) 
+### #is_/same_as :: [civic_structure](/_Standards/schema-org/Class/is_a_/place/civic_structure.md) 
 
-### [civic_structure.public](/_public/schema-org/Class/is_a_/place/civic_structure.public.md) 
+### #is_/same_as :: [civic_structure.public](/_public/schema-org/Class/is_a_/place/civic_structure.public.md) 
 
-### [civic_structure.internal](/_internal/schema-org/Class/is_a_/place/civic_structure.internal.md) 
+### #is_/same_as :: [civic_structure.internal](/_internal/schema-org/Class/is_a_/place/civic_structure.internal.md) 
 
-### [civic_structure.protect](/_protect/schema-org/Class/is_a_/place/civic_structure.protect.md) 
+### #is_/same_as :: [civic_structure.protect](/_protect/schema-org/Class/is_a_/place/civic_structure.protect.md) 
 
-### [civic_structure.private](/_private/schema-org/Class/is_a_/place/civic_structure.private.md) 
+### #is_/same_as :: [civic_structure.private](/_private/schema-org/Class/is_a_/place/civic_structure.private.md) 
 
-### [civic_structure.personal](/_personal/schema-org/Class/is_a_/place/civic_structure.personal.md) 
+### #is_/same_as :: [civic_structure.personal](/_personal/schema-org/Class/is_a_/place/civic_structure.personal.md) 
 
-### [civic_structure.secret](/_secret/schema-org/Class/is_a_/place/civic_structure.secret.md)
+### #is_/same_as :: [civic_structure.secret](/_secret/schema-org/Class/is_a_/place/civic_structure.secret.md)
 

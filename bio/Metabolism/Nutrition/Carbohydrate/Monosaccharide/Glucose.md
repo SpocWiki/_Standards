@@ -36,24 +36,19 @@
 The North-American [[Wood_Frog]] accumulates Urea and Glucoses in Cells and Blood to survive up to -20°C. 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Glucose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.md) 
+### #is_/same_as :: [Glucose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.md) 
 
-### [Glucose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.public.md) 
+### #is_/same_as :: [Glucose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.public.md) 
 
-### [Glucose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.internal.md) 
+### #is_/same_as :: [Glucose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.internal.md) 
 
-### [Glucose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.protect.md) 
+### #is_/same_as :: [Glucose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.protect.md) 
 
-### [Glucose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.private.md) 
+### #is_/same_as :: [Glucose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.private.md) 
 
-### [Glucose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.personal.md) 
+### #is_/same_as :: [Glucose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.personal.md) 
 
-### [Glucose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.secret.md)
+### #is_/same_as :: [Glucose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Glucose.secret.md)
 

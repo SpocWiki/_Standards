@@ -45,17 +45,17 @@ A movie.
 
 ## Confidential Links & Embeds: 
 
-### [movie](/_Standards/schema-org/Class/is_a_/creative_work/movie.md) 
+### #is_/same_as :: [movie](/_Standards/schema-org/Class/is_a_/creative_work/movie.md) 
 
-### [movie.public](/_public/schema-org/Class/is_a_/creative_work/movie.public.md) 
+### #is_/same_as :: [movie.public](/_public/schema-org/Class/is_a_/creative_work/movie.public.md) 
 
-### [movie.internal](/_internal/schema-org/Class/is_a_/creative_work/movie.internal.md) 
+### #is_/same_as :: [movie.internal](/_internal/schema-org/Class/is_a_/creative_work/movie.internal.md) 
 
-### [movie.protect](/_protect/schema-org/Class/is_a_/creative_work/movie.protect.md) 
+### #is_/same_as :: [movie.protect](/_protect/schema-org/Class/is_a_/creative_work/movie.protect.md) 
 
-### [movie.private](/_private/schema-org/Class/is_a_/creative_work/movie.private.md) 
+### #is_/same_as :: [movie.private](/_private/schema-org/Class/is_a_/creative_work/movie.private.md) 
 
-### [movie.personal](/_personal/schema-org/Class/is_a_/creative_work/movie.personal.md) 
+### #is_/same_as :: [movie.personal](/_personal/schema-org/Class/is_a_/creative_work/movie.personal.md) 
 
-### [movie.secret](/_secret/schema-org/Class/is_a_/creative_work/movie.secret.md)
+### #is_/same_as :: [movie.secret](/_secret/schema-org/Class/is_a_/creative_work/movie.secret.md)
 

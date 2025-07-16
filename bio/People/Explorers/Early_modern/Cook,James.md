@@ -112,21 +112,19 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Cook)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cook,James](/_Standards/bio/People/Explorers/Early_modern/Cook,James.md) 
+### #is_/same_as :: [Cook,James](/_Standards/bio/People/Explorers/Early_modern/Cook,James.md) 
 
-### [Cook,James.public](/_public/bio/People/Explorers/Early_modern/Cook,James.public.md) 
+### #is_/same_as :: [Cook,James.public](/_public/bio/People/Explorers/Early_modern/Cook,James.public.md) 
 
-### [Cook,James.internal](/_internal/bio/People/Explorers/Early_modern/Cook,James.internal.md) 
+### #is_/same_as :: [Cook,James.internal](/_internal/bio/People/Explorers/Early_modern/Cook,James.internal.md) 
 
-### [Cook,James.protect](/_protect/bio/People/Explorers/Early_modern/Cook,James.protect.md) 
+### #is_/same_as :: [Cook,James.protect](/_protect/bio/People/Explorers/Early_modern/Cook,James.protect.md) 
 
-### [Cook,James.private](/_private/bio/People/Explorers/Early_modern/Cook,James.private.md) 
+### #is_/same_as :: [Cook,James.private](/_private/bio/People/Explorers/Early_modern/Cook,James.private.md) 
 
-### [Cook,James.personal](/_personal/bio/People/Explorers/Early_modern/Cook,James.personal.md) 
+### #is_/same_as :: [Cook,James.personal](/_personal/bio/People/Explorers/Early_modern/Cook,James.personal.md) 
 
-### [Cook,James.secret](/_secret/bio/People/Explorers/Early_modern/Cook,James.secret.md)
+### #is_/same_as :: [Cook,James.secret](/_secret/bio/People/Explorers/Early_modern/Cook,James.secret.md)
 

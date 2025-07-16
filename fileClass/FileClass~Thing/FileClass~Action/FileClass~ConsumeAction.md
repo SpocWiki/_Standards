@@ -57,17 +57,17 @@ ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ConsumeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.md) 
+### #is_/same_as :: [FileClass~ConsumeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.md) 
 
-### [FileClass~ConsumeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.public.md) 
+### #is_/same_as :: [FileClass~ConsumeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.public.md) 
 
-### [FileClass~ConsumeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.internal.md) 
+### #is_/same_as :: [FileClass~ConsumeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.internal.md) 
 
-### [FileClass~ConsumeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.protect.md) 
+### #is_/same_as :: [FileClass~ConsumeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.protect.md) 
 
-### [FileClass~ConsumeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.private.md) 
+### #is_/same_as :: [FileClass~ConsumeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.private.md) 
 
-### [FileClass~ConsumeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.personal.md) 
+### #is_/same_as :: [FileClass~ConsumeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.personal.md) 
 
-### [FileClass~ConsumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.secret.md)
+### #is_/same_as :: [FileClass~ConsumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.secret.md)
 

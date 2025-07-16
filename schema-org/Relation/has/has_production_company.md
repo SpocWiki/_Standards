@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_production_company](/_Standards/schema-org/Relation/has/has_production_company.md) 
+### #is_/same_as :: [has_production_company](/_Standards/schema-org/Relation/has/has_production_company.md) 
 
-### [has_production_company.public](/_public/schema-org/Relation/has/has_production_company.public.md) 
+### #is_/same_as :: [has_production_company.public](/_public/schema-org/Relation/has/has_production_company.public.md) 
 
-### [has_production_company.internal](/_internal/schema-org/Relation/has/has_production_company.internal.md) 
+### #is_/same_as :: [has_production_company.internal](/_internal/schema-org/Relation/has/has_production_company.internal.md) 
 
-### [has_production_company.protect](/_protect/schema-org/Relation/has/has_production_company.protect.md) 
+### #is_/same_as :: [has_production_company.protect](/_protect/schema-org/Relation/has/has_production_company.protect.md) 
 
-### [has_production_company.private](/_private/schema-org/Relation/has/has_production_company.private.md) 
+### #is_/same_as :: [has_production_company.private](/_private/schema-org/Relation/has/has_production_company.private.md) 
 
-### [has_production_company.personal](/_personal/schema-org/Relation/has/has_production_company.personal.md) 
+### #is_/same_as :: [has_production_company.personal](/_personal/schema-org/Relation/has/has_production_company.personal.md) 
 
-### [has_production_company.secret](/_secret/schema-org/Relation/has/has_production_company.secret.md)
+### #is_/same_as :: [has_production_company.secret](/_secret/schema-org/Relation/has/has_production_company.secret.md)
 

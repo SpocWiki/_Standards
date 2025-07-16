@@ -128,17 +128,17 @@ InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
 
 ## Confidential Links & Embeds: 
 
-### [Protactinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Protactinium.md) 
+### #is_/same_as :: [Protactinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Protactinium.md) 
 
-### [Protactinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Protactinium.public.md) 
+### #is_/same_as :: [Protactinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Protactinium.public.md) 
 
-### [Protactinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Protactinium.internal.md) 
+### #is_/same_as :: [Protactinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Protactinium.internal.md) 
 
-### [Protactinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Protactinium.protect.md) 
+### #is_/same_as :: [Protactinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Protactinium.protect.md) 
 
-### [Protactinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Protactinium.private.md) 
+### #is_/same_as :: [Protactinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Protactinium.private.md) 
 
-### [Protactinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Protactinium.personal.md) 
+### #is_/same_as :: [Protactinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Protactinium.personal.md) 
 
-### [Protactinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Protactinium.secret.md)
+### #is_/same_as :: [Protactinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Protactinium.secret.md)
 

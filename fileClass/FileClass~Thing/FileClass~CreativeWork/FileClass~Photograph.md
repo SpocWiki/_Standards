@@ -35,17 +35,17 @@ A photograph.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Photograph](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.md) 
+### #is_/same_as :: [FileClass~Photograph](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.md) 
 
-### [FileClass~Photograph.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.public.md) 
+### #is_/same_as :: [FileClass~Photograph.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.public.md) 
 
-### [FileClass~Photograph.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.internal.md) 
+### #is_/same_as :: [FileClass~Photograph.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.internal.md) 
 
-### [FileClass~Photograph.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.protect.md) 
+### #is_/same_as :: [FileClass~Photograph.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.protect.md) 
 
-### [FileClass~Photograph.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.private.md) 
+### #is_/same_as :: [FileClass~Photograph.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.private.md) 
 
-### [FileClass~Photograph.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.personal.md) 
+### #is_/same_as :: [FileClass~Photograph.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.personal.md) 
 
-### [FileClass~Photograph.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.secret.md)
+### #is_/same_as :: [FileClass~Photograph.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.secret.md)
 

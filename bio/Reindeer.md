@@ -60,17 +60,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Reindeer](/_Standards/bio/Reindeer.md) 
+### #is_/same_as :: [Reindeer](/_Standards/bio/Reindeer.md) 
 
-### [Reindeer.public](/_public/bio/Reindeer.public.md) 
+### #is_/same_as :: [Reindeer.public](/_public/bio/Reindeer.public.md) 
 
-### [Reindeer.internal](/_internal/bio/Reindeer.internal.md) 
+### #is_/same_as :: [Reindeer.internal](/_internal/bio/Reindeer.internal.md) 
 
-### [Reindeer.protect](/_protect/bio/Reindeer.protect.md) 
+### #is_/same_as :: [Reindeer.protect](/_protect/bio/Reindeer.protect.md) 
 
-### [Reindeer.private](/_private/bio/Reindeer.private.md) 
+### #is_/same_as :: [Reindeer.private](/_private/bio/Reindeer.private.md) 
 
-### [Reindeer.personal](/_personal/bio/Reindeer.personal.md) 
+### #is_/same_as :: [Reindeer.personal](/_personal/bio/Reindeer.personal.md) 
 
-### [Reindeer.secret](/_secret/bio/Reindeer.secret.md)
+### #is_/same_as :: [Reindeer.secret](/_secret/bio/Reindeer.secret.md)
 

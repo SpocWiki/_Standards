@@ -75,17 +75,17 @@ TargetPlatform:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~APIReference](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.md) 
+### #is_/same_as :: [FileClass~APIReference](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.md) 
 
-### [FileClass~APIReference.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.public.md) 
+### #is_/same_as :: [FileClass~APIReference.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.public.md) 
 
-### [FileClass~APIReference.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.internal.md) 
+### #is_/same_as :: [FileClass~APIReference.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.internal.md) 
 
-### [FileClass~APIReference.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.protect.md) 
+### #is_/same_as :: [FileClass~APIReference.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.protect.md) 
 
-### [FileClass~APIReference.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.private.md) 
+### #is_/same_as :: [FileClass~APIReference.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.private.md) 
 
-### [FileClass~APIReference.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.personal.md) 
+### #is_/same_as :: [FileClass~APIReference.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.personal.md) 
 
-### [FileClass~APIReference.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.secret.md)
+### #is_/same_as :: [FileClass~APIReference.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.secret.md)
 

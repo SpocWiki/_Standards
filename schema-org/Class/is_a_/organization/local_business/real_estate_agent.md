@@ -45,17 +45,17 @@ A real-estate agent.
 
 ## Confidential Links & Embeds: 
 
-### [real_estate_agent](/_Standards/schema-org/Class/is_a_/organization/local_business/real_estate_agent.md) 
+### #is_/same_as :: [real_estate_agent](/_Standards/schema-org/Class/is_a_/organization/local_business/real_estate_agent.md) 
 
-### [real_estate_agent.public](/_public/schema-org/Class/is_a_/organization/local_business/real_estate_agent.public.md) 
+### #is_/same_as :: [real_estate_agent.public](/_public/schema-org/Class/is_a_/organization/local_business/real_estate_agent.public.md) 
 
-### [real_estate_agent.internal](/_internal/schema-org/Class/is_a_/organization/local_business/real_estate_agent.internal.md) 
+### #is_/same_as :: [real_estate_agent.internal](/_internal/schema-org/Class/is_a_/organization/local_business/real_estate_agent.internal.md) 
 
-### [real_estate_agent.protect](/_protect/schema-org/Class/is_a_/organization/local_business/real_estate_agent.protect.md) 
+### #is_/same_as :: [real_estate_agent.protect](/_protect/schema-org/Class/is_a_/organization/local_business/real_estate_agent.protect.md) 
 
-### [real_estate_agent.private](/_private/schema-org/Class/is_a_/organization/local_business/real_estate_agent.private.md) 
+### #is_/same_as :: [real_estate_agent.private](/_private/schema-org/Class/is_a_/organization/local_business/real_estate_agent.private.md) 
 
-### [real_estate_agent.personal](/_personal/schema-org/Class/is_a_/organization/local_business/real_estate_agent.personal.md) 
+### #is_/same_as :: [real_estate_agent.personal](/_personal/schema-org/Class/is_a_/organization/local_business/real_estate_agent.personal.md) 
 
-### [real_estate_agent.secret](/_secret/schema-org/Class/is_a_/organization/local_business/real_estate_agent.secret.md)
+### #is_/same_as :: [real_estate_agent.secret](/_secret/schema-org/Class/is_a_/organization/local_business/real_estate_agent.secret.md)
 

@@ -167,17 +167,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Aluminium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Aluminium.md) 
+### #is_/same_as :: [Aluminium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Aluminium.md) 
 
-### [Aluminium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Aluminium.public.md) 
+### #is_/same_as :: [Aluminium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Aluminium.public.md) 
 
-### [Aluminium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Aluminium.internal.md) 
+### #is_/same_as :: [Aluminium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Aluminium.internal.md) 
 
-### [Aluminium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Aluminium.protect.md) 
+### #is_/same_as :: [Aluminium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Aluminium.protect.md) 
 
-### [Aluminium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Aluminium.private.md) 
+### #is_/same_as :: [Aluminium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Aluminium.private.md) 
 
-### [Aluminium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Aluminium.personal.md) 
+### #is_/same_as :: [Aluminium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Aluminium.personal.md) 
 
-### [Aluminium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Aluminium.secret.md)
+### #is_/same_as :: [Aluminium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Aluminium.secret.md)
 

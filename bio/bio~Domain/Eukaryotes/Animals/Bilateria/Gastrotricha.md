@@ -63,22 +63,19 @@ Drawing by Ivy Livingstone. Copyright © 1995
 Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gastrotricha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.md) 
+### #is_/same_as :: [Gastrotricha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.md) 
 
-### [Gastrotricha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.public.md) 
+### #is_/same_as :: [Gastrotricha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.public.md) 
 
-### [Gastrotricha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.internal.md) 
+### #is_/same_as :: [Gastrotricha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.internal.md) 
 
-### [Gastrotricha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.protect.md) 
+### #is_/same_as :: [Gastrotricha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.protect.md) 
 
-### [Gastrotricha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.private.md) 
+### #is_/same_as :: [Gastrotricha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.private.md) 
 
-### [Gastrotricha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.personal.md) 
+### #is_/same_as :: [Gastrotricha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.personal.md) 
 
-### [Gastrotricha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.secret.md)
+### #is_/same_as :: [Gastrotricha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Gastrotricha.secret.md)
 

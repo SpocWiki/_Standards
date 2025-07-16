@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_applicant_location_requirements](/_Standards/schema-org/Relation/has/has_applicant_location_requirements.md) 
+### #is_/same_as :: [has_applicant_location_requirements](/_Standards/schema-org/Relation/has/has_applicant_location_requirements.md) 
 
-### [has_applicant_location_requirements.public](/_public/schema-org/Relation/has/has_applicant_location_requirements.public.md) 
+### #is_/same_as :: [has_applicant_location_requirements.public](/_public/schema-org/Relation/has/has_applicant_location_requirements.public.md) 
 
-### [has_applicant_location_requirements.internal](/_internal/schema-org/Relation/has/has_applicant_location_requirements.internal.md) 
+### #is_/same_as :: [has_applicant_location_requirements.internal](/_internal/schema-org/Relation/has/has_applicant_location_requirements.internal.md) 
 
-### [has_applicant_location_requirements.protect](/_protect/schema-org/Relation/has/has_applicant_location_requirements.protect.md) 
+### #is_/same_as :: [has_applicant_location_requirements.protect](/_protect/schema-org/Relation/has/has_applicant_location_requirements.protect.md) 
 
-### [has_applicant_location_requirements.private](/_private/schema-org/Relation/has/has_applicant_location_requirements.private.md) 
+### #is_/same_as :: [has_applicant_location_requirements.private](/_private/schema-org/Relation/has/has_applicant_location_requirements.private.md) 
 
-### [has_applicant_location_requirements.personal](/_personal/schema-org/Relation/has/has_applicant_location_requirements.personal.md) 
+### #is_/same_as :: [has_applicant_location_requirements.personal](/_personal/schema-org/Relation/has/has_applicant_location_requirements.personal.md) 
 
-### [has_applicant_location_requirements.secret](/_secret/schema-org/Relation/has/has_applicant_location_requirements.secret.md)
+### #is_/same_as :: [has_applicant_location_requirements.secret](/_secret/schema-org/Relation/has/has_applicant_location_requirements.secret.md)
 

@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_public_access](/_Standards/schema-org/Property/Flags/is_public_access.md) 
+### #is_/same_as :: [is_public_access](/_Standards/schema-org/Property/Flags/is_public_access.md) 
 
-### [is_public_access.public](/_public/schema-org/Property/Flags/is_public_access.public.md) 
+### #is_/same_as :: [is_public_access.public](/_public/schema-org/Property/Flags/is_public_access.public.md) 
 
-### [is_public_access.internal](/_internal/schema-org/Property/Flags/is_public_access.internal.md) 
+### #is_/same_as :: [is_public_access.internal](/_internal/schema-org/Property/Flags/is_public_access.internal.md) 
 
-### [is_public_access.protect](/_protect/schema-org/Property/Flags/is_public_access.protect.md) 
+### #is_/same_as :: [is_public_access.protect](/_protect/schema-org/Property/Flags/is_public_access.protect.md) 
 
-### [is_public_access.private](/_private/schema-org/Property/Flags/is_public_access.private.md) 
+### #is_/same_as :: [is_public_access.private](/_private/schema-org/Property/Flags/is_public_access.private.md) 
 
-### [is_public_access.personal](/_personal/schema-org/Property/Flags/is_public_access.personal.md) 
+### #is_/same_as :: [is_public_access.personal](/_personal/schema-org/Property/Flags/is_public_access.personal.md) 
 
-### [is_public_access.secret](/_secret/schema-org/Property/Flags/is_public_access.secret.md)
+### #is_/same_as :: [is_public_access.secret](/_secret/schema-org/Property/Flags/is_public_access.secret.md)
 

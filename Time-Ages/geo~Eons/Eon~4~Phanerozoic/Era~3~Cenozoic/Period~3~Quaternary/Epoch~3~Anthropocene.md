@@ -86,21 +86,19 @@ The onset of the Anthropocene epoch is still debated. Proposed starting points i
 - **The Great Acceleration (~1950 CE)**: Highlighting the exponential growth in population, industrialization, and environmental impacts.
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~3~Anthropocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.md) 
+### #is_/same_as :: [Epoch~3~Anthropocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.md) 
 
-### [Epoch~3~Anthropocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.public.md) 
+### #is_/same_as :: [Epoch~3~Anthropocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.public.md) 
 
-### [Epoch~3~Anthropocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.internal.md) 
+### #is_/same_as :: [Epoch~3~Anthropocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.internal.md) 
 
-### [Epoch~3~Anthropocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.protect.md) 
+### #is_/same_as :: [Epoch~3~Anthropocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.protect.md) 
 
-### [Epoch~3~Anthropocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.private.md) 
+### #is_/same_as :: [Epoch~3~Anthropocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.private.md) 
 
-### [Epoch~3~Anthropocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.personal.md) 
+### #is_/same_as :: [Epoch~3~Anthropocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.personal.md) 
 
-### [Epoch~3~Anthropocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.secret.md)
+### #is_/same_as :: [Epoch~3~Anthropocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.secret.md)
 

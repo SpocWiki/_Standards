@@ -47,17 +47,17 @@ Physical activity of relatively low intensity that depends primarily on the aero
 
 ## Confidential Links & Embeds: 
 
-### [aerobic_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.md) 
+### #is_/same_as :: [aerobic_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.md) 
 
-### [aerobic_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.public.md) 
+### #is_/same_as :: [aerobic_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.public.md) 
 
-### [aerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.internal.md) 
+### #is_/same_as :: [aerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.internal.md) 
 
-### [aerobic_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.protect.md) 
+### #is_/same_as :: [aerobic_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.protect.md) 
 
-### [aerobic_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.private.md) 
+### #is_/same_as :: [aerobic_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.private.md) 
 
-### [aerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.personal.md) 
+### #is_/same_as :: [aerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.personal.md) 
 
-### [aerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.secret.md)
+### #is_/same_as :: [aerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/aerobic_activity.secret.md)
 

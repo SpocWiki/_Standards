@@ -45,17 +45,17 @@ A recommended dosing schedule for a drug or supplement as prescribed or recommen
 
 ## Confidential Links & Embeds: 
 
-### [recommended_dose_schedule](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.md) 
+### #is_/same_as :: [recommended_dose_schedule](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.md) 
 
-### [recommended_dose_schedule.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.public.md) 
+### #is_/same_as :: [recommended_dose_schedule.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.public.md) 
 
-### [recommended_dose_schedule.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.internal.md) 
+### #is_/same_as :: [recommended_dose_schedule.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.internal.md) 
 
-### [recommended_dose_schedule.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.protect.md) 
+### #is_/same_as :: [recommended_dose_schedule.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.protect.md) 
 
-### [recommended_dose_schedule.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.private.md) 
+### #is_/same_as :: [recommended_dose_schedule.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.private.md) 
 
-### [recommended_dose_schedule.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.personal.md) 
+### #is_/same_as :: [recommended_dose_schedule.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.personal.md) 
 
-### [recommended_dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.secret.md)
+### #is_/same_as :: [recommended_dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/recommended_dose_schedule.secret.md)
 

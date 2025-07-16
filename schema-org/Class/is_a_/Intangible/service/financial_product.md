@@ -47,17 +47,17 @@ A product provided to consumers and businesses by financial institutions such as
 
 ## Confidential Links & Embeds: 
 
-### [financial_product](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product.md) 
+### #is_/same_as :: [financial_product](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product.md) 
 
-### [financial_product.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product.public.md) 
+### #is_/same_as :: [financial_product.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product.public.md) 
 
-### [financial_product.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product.internal.md) 
+### #is_/same_as :: [financial_product.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product.internal.md) 
 
-### [financial_product.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product.protect.md) 
+### #is_/same_as :: [financial_product.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product.protect.md) 
 
-### [financial_product.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product.private.md) 
+### #is_/same_as :: [financial_product.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product.private.md) 
 
-### [financial_product.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product.personal.md) 
+### #is_/same_as :: [financial_product.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product.personal.md) 
 
-### [financial_product.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product.secret.md)
+### #is_/same_as :: [financial_product.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product.secret.md)
 

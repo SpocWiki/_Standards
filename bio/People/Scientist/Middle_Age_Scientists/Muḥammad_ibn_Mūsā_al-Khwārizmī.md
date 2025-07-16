@@ -109,21 +109,19 @@ Libris_URI: 1zcf8rck5jh8jzf
 > [Wikipedia](https://en.wikipedia.org/wiki/Al-Khwarizmi)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.md) 
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.md) 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.public.md) 
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.public.md) 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.internal.md) 
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.internal.md) 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.protect.md) 
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.protect.md) 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.private.md) 
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.private.md) 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.personal.md) 
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.personal.md) 
 
-### [Muḥammad_ibn_Mūsā_al-Khwārizmī.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.secret.md)
+### #is_/same_as :: [Muḥammad_ibn_Mūsā_al-Khwārizmī.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Muḥammad_ibn_Mūsā_al-Khwārizmī.secret.md)
 

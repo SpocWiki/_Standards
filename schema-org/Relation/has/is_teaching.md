@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_teaching](/_Standards/schema-org/Relation/has/is_teaching.md) 
+### #is_/same_as :: [is_teaching](/_Standards/schema-org/Relation/has/is_teaching.md) 
 
-### [is_teaching.public](/_public/schema-org/Relation/has/is_teaching.public.md) 
+### #is_/same_as :: [is_teaching.public](/_public/schema-org/Relation/has/is_teaching.public.md) 
 
-### [is_teaching.internal](/_internal/schema-org/Relation/has/is_teaching.internal.md) 
+### #is_/same_as :: [is_teaching.internal](/_internal/schema-org/Relation/has/is_teaching.internal.md) 
 
-### [is_teaching.protect](/_protect/schema-org/Relation/has/is_teaching.protect.md) 
+### #is_/same_as :: [is_teaching.protect](/_protect/schema-org/Relation/has/is_teaching.protect.md) 
 
-### [is_teaching.private](/_private/schema-org/Relation/has/is_teaching.private.md) 
+### #is_/same_as :: [is_teaching.private](/_private/schema-org/Relation/has/is_teaching.private.md) 
 
-### [is_teaching.personal](/_personal/schema-org/Relation/has/is_teaching.personal.md) 
+### #is_/same_as :: [is_teaching.personal](/_personal/schema-org/Relation/has/is_teaching.personal.md) 
 
-### [is_teaching.secret](/_secret/schema-org/Relation/has/is_teaching.secret.md)
+### #is_/same_as :: [is_teaching.secret](/_secret/schema-org/Relation/has/is_teaching.secret.md)
 

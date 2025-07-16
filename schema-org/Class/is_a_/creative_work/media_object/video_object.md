@@ -73,17 +73,17 @@ A video file.
 
 ## Confidential Links & Embeds: 
 
-### [video_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object/video_object.md) 
+### #is_/same_as :: [video_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object/video_object.md) 
 
-### [video_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/video_object.public.md) 
+### #is_/same_as :: [video_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/video_object.public.md) 
 
-### [video_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/video_object.internal.md) 
+### #is_/same_as :: [video_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/video_object.internal.md) 
 
-### [video_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/video_object.protect.md) 
+### #is_/same_as :: [video_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/video_object.protect.md) 
 
-### [video_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/video_object.private.md) 
+### #is_/same_as :: [video_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/video_object.private.md) 
 
-### [video_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/video_object.personal.md) 
+### #is_/same_as :: [video_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/video_object.personal.md) 
 
-### [video_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/video_object.secret.md)
+### #is_/same_as :: [video_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/video_object.secret.md)
 

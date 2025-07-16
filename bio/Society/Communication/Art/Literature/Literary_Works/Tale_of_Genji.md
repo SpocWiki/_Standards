@@ -164,21 +164,19 @@ time_of_earliest_written_record: "1008-12-07"
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Tale%20of%20Genji) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Tale_of_Genji](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.md) 
+### #is_/same_as :: [Tale_of_Genji](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.md) 
 
-### [Tale_of_Genji.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.public.md) 
+### #is_/same_as :: [Tale_of_Genji.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.public.md) 
 
-### [Tale_of_Genji.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.internal.md) 
+### #is_/same_as :: [Tale_of_Genji.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.internal.md) 
 
-### [Tale_of_Genji.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.protect.md) 
+### #is_/same_as :: [Tale_of_Genji.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.protect.md) 
 
-### [Tale_of_Genji.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.private.md) 
+### #is_/same_as :: [Tale_of_Genji.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.private.md) 
 
-### [Tale_of_Genji.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.personal.md) 
+### #is_/same_as :: [Tale_of_Genji.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.personal.md) 
 
-### [Tale_of_Genji.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.secret.md)
+### #is_/same_as :: [Tale_of_Genji.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Tale_of_Genji.secret.md)
 

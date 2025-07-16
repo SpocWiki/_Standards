@@ -48,25 +48,19 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOENNO-INZHENERNOE_DELO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20engineering) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Military_Engineering](/_Standards/bio/Society/Military/Military_Engineering.md) 
+### #is_/same_as :: [Military_Engineering](/_Standards/bio/Society/Military/Military_Engineering.md) 
 
-### [Military_Engineering.public](/_public/bio/Society/Military/Military_Engineering.public.md) 
+### #is_/same_as :: [Military_Engineering.public](/_public/bio/Society/Military/Military_Engineering.public.md) 
 
-### [Military_Engineering.internal](/_internal/bio/Society/Military/Military_Engineering.internal.md) 
+### #is_/same_as :: [Military_Engineering.internal](/_internal/bio/Society/Military/Military_Engineering.internal.md) 
 
-### [Military_Engineering.protect](/_protect/bio/Society/Military/Military_Engineering.protect.md) 
+### #is_/same_as :: [Military_Engineering.protect](/_protect/bio/Society/Military/Military_Engineering.protect.md) 
 
-### [Military_Engineering.private](/_private/bio/Society/Military/Military_Engineering.private.md) 
+### #is_/same_as :: [Military_Engineering.private](/_private/bio/Society/Military/Military_Engineering.private.md) 
 
-### [Military_Engineering.personal](/_personal/bio/Society/Military/Military_Engineering.personal.md) 
+### #is_/same_as :: [Military_Engineering.personal](/_personal/bio/Society/Military/Military_Engineering.personal.md) 
 
-### [Military_Engineering.secret](/_secret/bio/Society/Military/Military_Engineering.secret.md)
+### #is_/same_as :: [Military_Engineering.secret](/_secret/bio/Society/Military/Military_Engineering.secret.md)
 

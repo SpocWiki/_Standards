@@ -46,17 +46,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [Intangible](/_Standards/schema-org/Class/is_a_/Intangible.md) 
+### #is_/same_as :: [Intangible](/_Standards/schema-org/Class/is_a_/Intangible.md) 
 
-### [Intangible.public](/_public/schema-org/Class/is_a_/Intangible.public.md) 
+### #is_/same_as :: [Intangible.public](/_public/schema-org/Class/is_a_/Intangible.public.md) 
 
-### [Intangible.internal](/_internal/schema-org/Class/is_a_/Intangible.internal.md) 
+### #is_/same_as :: [Intangible.internal](/_internal/schema-org/Class/is_a_/Intangible.internal.md) 
 
-### [Intangible.protect](/_protect/schema-org/Class/is_a_/Intangible.protect.md) 
+### #is_/same_as :: [Intangible.protect](/_protect/schema-org/Class/is_a_/Intangible.protect.md) 
 
-### [Intangible.private](/_private/schema-org/Class/is_a_/Intangible.private.md) 
+### #is_/same_as :: [Intangible.private](/_private/schema-org/Class/is_a_/Intangible.private.md) 
 
-### [Intangible.personal](/_personal/schema-org/Class/is_a_/Intangible.personal.md) 
+### #is_/same_as :: [Intangible.personal](/_personal/schema-org/Class/is_a_/Intangible.personal.md) 
 
-### [Intangible.secret](/_secret/schema-org/Class/is_a_/Intangible.secret.md)
+### #is_/same_as :: [Intangible.secret](/_secret/schema-org/Class/is_a_/Intangible.secret.md)
 

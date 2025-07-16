@@ -40,21 +40,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sucrose)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sucrose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.md) 
+### #is_/same_as :: [Sucrose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.md) 
 
-### [Sucrose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.public.md) 
+### #is_/same_as :: [Sucrose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.public.md) 
 
-### [Sucrose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.internal.md) 
+### #is_/same_as :: [Sucrose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.internal.md) 
 
-### [Sucrose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.protect.md) 
+### #is_/same_as :: [Sucrose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.protect.md) 
 
-### [Sucrose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.private.md) 
+### #is_/same_as :: [Sucrose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.private.md) 
 
-### [Sucrose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.personal.md) 
+### #is_/same_as :: [Sucrose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.personal.md) 
 
-### [Sucrose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.secret.md)
+### #is_/same_as :: [Sucrose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Sucrose.secret.md)
 

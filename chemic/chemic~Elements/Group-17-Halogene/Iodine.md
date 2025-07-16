@@ -130,17 +130,17 @@ Commons_category: Iodine
 
 ## Confidential Links & Embeds: 
 
-### [Iodine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Iodine.md) 
+### #is_/same_as :: [Iodine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Iodine.md) 
 
-### [Iodine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Iodine.public.md) 
+### #is_/same_as :: [Iodine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Iodine.public.md) 
 
-### [Iodine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Iodine.internal.md) 
+### #is_/same_as :: [Iodine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Iodine.internal.md) 
 
-### [Iodine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Iodine.protect.md) 
+### #is_/same_as :: [Iodine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Iodine.protect.md) 
 
-### [Iodine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Iodine.private.md) 
+### #is_/same_as :: [Iodine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Iodine.private.md) 
 
-### [Iodine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Iodine.personal.md) 
+### #is_/same_as :: [Iodine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Iodine.personal.md) 
 
-### [Iodine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Iodine.secret.md)
+### #is_/same_as :: [Iodine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Iodine.secret.md)
 

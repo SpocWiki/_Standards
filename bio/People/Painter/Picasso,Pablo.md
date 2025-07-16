@@ -407,21 +407,19 @@ name_in_native_language: "Pablo Picasso"
 > [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Picasso)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Picasso,Pablo](/_Standards/bio/People/Painter/Picasso,Pablo.md) 
+### #is_/same_as :: [Picasso,Pablo](/_Standards/bio/People/Painter/Picasso,Pablo.md) 
 
-### [Picasso,Pablo.public](/_public/bio/People/Painter/Picasso,Pablo.public.md) 
+### #is_/same_as :: [Picasso,Pablo.public](/_public/bio/People/Painter/Picasso,Pablo.public.md) 
 
-### [Picasso,Pablo.internal](/_internal/bio/People/Painter/Picasso,Pablo.internal.md) 
+### #is_/same_as :: [Picasso,Pablo.internal](/_internal/bio/People/Painter/Picasso,Pablo.internal.md) 
 
-### [Picasso,Pablo.protect](/_protect/bio/People/Painter/Picasso,Pablo.protect.md) 
+### #is_/same_as :: [Picasso,Pablo.protect](/_protect/bio/People/Painter/Picasso,Pablo.protect.md) 
 
-### [Picasso,Pablo.private](/_private/bio/People/Painter/Picasso,Pablo.private.md) 
+### #is_/same_as :: [Picasso,Pablo.private](/_private/bio/People/Painter/Picasso,Pablo.private.md) 
 
-### [Picasso,Pablo.personal](/_personal/bio/People/Painter/Picasso,Pablo.personal.md) 
+### #is_/same_as :: [Picasso,Pablo.personal](/_personal/bio/People/Painter/Picasso,Pablo.personal.md) 
 
-### [Picasso,Pablo.secret](/_secret/bio/People/Painter/Picasso,Pablo.secret.md)
+### #is_/same_as :: [Picasso,Pablo.secret](/_secret/bio/People/Painter/Picasso,Pablo.secret.md)
 

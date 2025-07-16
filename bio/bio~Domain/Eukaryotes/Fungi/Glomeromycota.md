@@ -533,17 +533,17 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
 
 ## Confidential Links & Embeds: 
 
-### [Glomeromycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.md) 
+### #is_/same_as :: [Glomeromycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.md) 
 
-### [Glomeromycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.public.md) 
+### #is_/same_as :: [Glomeromycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.public.md) 
 
-### [Glomeromycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.internal.md) 
+### #is_/same_as :: [Glomeromycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.internal.md) 
 
-### [Glomeromycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.protect.md) 
+### #is_/same_as :: [Glomeromycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.protect.md) 
 
-### [Glomeromycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.private.md) 
+### #is_/same_as :: [Glomeromycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.private.md) 
 
-### [Glomeromycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.personal.md) 
+### #is_/same_as :: [Glomeromycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.personal.md) 
 
-### [Glomeromycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.secret.md)
+### #is_/same_as :: [Glomeromycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.secret.md)
 

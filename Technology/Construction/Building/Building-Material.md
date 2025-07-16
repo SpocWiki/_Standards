@@ -14,26 +14,19 @@
 | **Plastic (PVC)** | - Water-resistant <br>- Lightweight (1,300–1,450 kg/m³) <br>- Low cost (USD 1–2/kg)                                                          | - Non-biodegradable <br>- Releases toxins when burned <br>- Low mechanical strength (20–50 MPa)                                            |
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Building-Material](/_Standards/Technology/Construction/Building/Building-Material.md) 
+### #is_/same_as :: [Building-Material](/_Standards/Technology/Construction/Building/Building-Material.md) 
 
-### [Building-Material.public](/_public/Technology/Construction/Building/Building-Material.public.md) 
+### #is_/same_as :: [Building-Material.public](/_public/Technology/Construction/Building/Building-Material.public.md) 
 
-### [Building-Material.internal](/_internal/Technology/Construction/Building/Building-Material.internal.md) 
+### #is_/same_as :: [Building-Material.internal](/_internal/Technology/Construction/Building/Building-Material.internal.md) 
 
-### [Building-Material.protect](/_protect/Technology/Construction/Building/Building-Material.protect.md) 
+### #is_/same_as :: [Building-Material.protect](/_protect/Technology/Construction/Building/Building-Material.protect.md) 
 
-### [Building-Material.private](/_private/Technology/Construction/Building/Building-Material.private.md) 
+### #is_/same_as :: [Building-Material.private](/_private/Technology/Construction/Building/Building-Material.private.md) 
 
-### [Building-Material.personal](/_personal/Technology/Construction/Building/Building-Material.personal.md) 
+### #is_/same_as :: [Building-Material.personal](/_personal/Technology/Construction/Building/Building-Material.personal.md) 
 
-### [Building-Material.secret](/_secret/Technology/Construction/Building/Building-Material.secret.md)
+### #is_/same_as :: [Building-Material.secret](/_secret/Technology/Construction/Building/Building-Material.secret.md)
 

@@ -47,17 +47,17 @@ Neurological system clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [neuro](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.md) 
+### #is_/same_as :: [neuro](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.md) 
 
-### [neuro.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.public.md) 
+### #is_/same_as :: [neuro.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.public.md) 
 
-### [neuro.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.internal.md) 
+### #is_/same_as :: [neuro.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.internal.md) 
 
-### [neuro.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.protect.md) 
+### #is_/same_as :: [neuro.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.protect.md) 
 
-### [neuro.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.private.md) 
+### #is_/same_as :: [neuro.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.private.md) 
 
-### [neuro.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.personal.md) 
+### #is_/same_as :: [neuro.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.personal.md) 
 
-### [neuro.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.secret.md)
+### #is_/same_as :: [neuro.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.secret.md)
 

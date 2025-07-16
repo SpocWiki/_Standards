@@ -45,17 +45,17 @@ A table on a Web page.
 
 ## Confidential Links & Embeds: 
 
-### [table](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/table.md) 
+### #is_/same_as :: [table](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/table.md) 
 
-### [table.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/table.public.md) 
+### #is_/same_as :: [table.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/table.public.md) 
 
-### [table.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/table.internal.md) 
+### #is_/same_as :: [table.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/table.internal.md) 
 
-### [table.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/table.protect.md) 
+### #is_/same_as :: [table.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/table.protect.md) 
 
-### [table.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/table.private.md) 
+### #is_/same_as :: [table.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/table.private.md) 
 
-### [table.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/table.personal.md) 
+### #is_/same_as :: [table.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/table.personal.md) 
 
-### [table.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/table.secret.md)
+### #is_/same_as :: [table.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/table.secret.md)
 

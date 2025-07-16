@@ -241,20 +241,19 @@ Comments          A direct-developing holoplanktonic hydromedusa (Hydrozoa) that
 Copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Cnidaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.md) 
+### #is_/same_as :: [Cnidaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.md) 
 
-### [Cnidaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.public.md) 
+### #is_/same_as :: [Cnidaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.public.md) 
 
-### [Cnidaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.internal.md) 
+### #is_/same_as :: [Cnidaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.internal.md) 
 
-### [Cnidaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.protect.md) 
+### #is_/same_as :: [Cnidaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.protect.md) 
 
-### [Cnidaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.private.md) 
+### #is_/same_as :: [Cnidaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.private.md) 
 
-### [Cnidaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.personal.md) 
+### #is_/same_as :: [Cnidaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.personal.md) 
 
-### [Cnidaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.secret.md)
+### #is_/same_as :: [Cnidaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria.secret.md)
 

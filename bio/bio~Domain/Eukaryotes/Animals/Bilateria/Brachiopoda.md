@@ -95,23 +95,19 @@ Specimen Condition   Fossil
 Copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemakin/)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Brachiopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.md) 
+### #is_/same_as :: [Brachiopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.md) 
 
-### [Brachiopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.public.md) 
+### #is_/same_as :: [Brachiopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.public.md) 
 
-### [Brachiopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.internal.md) 
+### #is_/same_as :: [Brachiopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.internal.md) 
 
-### [Brachiopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.protect.md) 
+### #is_/same_as :: [Brachiopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.protect.md) 
 
-### [Brachiopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.private.md) 
+### #is_/same_as :: [Brachiopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.private.md) 
 
-### [Brachiopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.personal.md) 
+### #is_/same_as :: [Brachiopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.personal.md) 
 
-### [Brachiopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.secret.md)
+### #is_/same_as :: [Brachiopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.secret.md)
 

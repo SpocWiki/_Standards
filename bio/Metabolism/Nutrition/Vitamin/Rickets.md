@@ -29,22 +29,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rickets)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Rickets](/_Standards/bio/Metabolism/Nutrition/Vitamin/Rickets.md) 
+### #is_/same_as :: [Rickets](/_Standards/bio/Metabolism/Nutrition/Vitamin/Rickets.md) 
 
-### [Rickets.public](/_public/bio/Metabolism/Nutrition/Vitamin/Rickets.public.md) 
+### #is_/same_as :: [Rickets.public](/_public/bio/Metabolism/Nutrition/Vitamin/Rickets.public.md) 
 
-### [Rickets.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Rickets.internal.md) 
+### #is_/same_as :: [Rickets.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Rickets.internal.md) 
 
-### [Rickets.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Rickets.protect.md) 
+### #is_/same_as :: [Rickets.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Rickets.protect.md) 
 
-### [Rickets.private](/_private/bio/Metabolism/Nutrition/Vitamin/Rickets.private.md) 
+### #is_/same_as :: [Rickets.private](/_private/bio/Metabolism/Nutrition/Vitamin/Rickets.private.md) 
 
-### [Rickets.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Rickets.personal.md) 
+### #is_/same_as :: [Rickets.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Rickets.personal.md) 
 
-### [Rickets.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Rickets.secret.md)
+### #is_/same_as :: [Rickets.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Rickets.secret.md)
 

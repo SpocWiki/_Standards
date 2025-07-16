@@ -49,17 +49,17 @@ Foot length (measured between end of the most prominent toe and the most promine
 
 ## Confidential Links & Embeds: 
 
-### [body_measurement_foot](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.md) 
+### #is_/same_as :: [body_measurement_foot](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.md) 
 
-### [body_measurement_foot.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.public.md) 
+### #is_/same_as :: [body_measurement_foot.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.public.md) 
 
-### [body_measurement_foot.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.internal.md) 
+### #is_/same_as :: [body_measurement_foot.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.internal.md) 
 
-### [body_measurement_foot.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.protect.md) 
+### #is_/same_as :: [body_measurement_foot.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.protect.md) 
 
-### [body_measurement_foot.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.private.md) 
+### #is_/same_as :: [body_measurement_foot.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.private.md) 
 
-### [body_measurement_foot.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.personal.md) 
+### #is_/same_as :: [body_measurement_foot.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.personal.md) 
 
-### [body_measurement_foot.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.secret.md)
+### #is_/same_as :: [body_measurement_foot.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.secret.md)
 

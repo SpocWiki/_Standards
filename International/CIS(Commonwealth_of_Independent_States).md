@@ -18,17 +18,17 @@ has_id_wikidata: Q7779
 
 ## Confidential Links & Embeds: 
 
-### [CIS(Commonwealth_of_Independent_States)](/_Standards/International/CIS(Commonwealth_of_Independent_States).md) 
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States)](/_Standards/International/CIS(Commonwealth_of_Independent_States).md) 
 
-### [CIS(Commonwealth_of_Independent_States).public](/_public/International/CIS(Commonwealth_of_Independent_States).public.md) 
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).public](/_public/International/CIS(Commonwealth_of_Independent_States).public.md) 
 
-### [CIS(Commonwealth_of_Independent_States).internal](/_internal/International/CIS(Commonwealth_of_Independent_States).internal.md) 
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).internal](/_internal/International/CIS(Commonwealth_of_Independent_States).internal.md) 
 
-### [CIS(Commonwealth_of_Independent_States).protect](/_protect/International/CIS(Commonwealth_of_Independent_States).protect.md) 
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).protect](/_protect/International/CIS(Commonwealth_of_Independent_States).protect.md) 
 
-### [CIS(Commonwealth_of_Independent_States).private](/_private/International/CIS(Commonwealth_of_Independent_States).private.md) 
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).private](/_private/International/CIS(Commonwealth_of_Independent_States).private.md) 
 
-### [CIS(Commonwealth_of_Independent_States).personal](/_personal/International/CIS(Commonwealth_of_Independent_States).personal.md) 
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).personal](/_personal/International/CIS(Commonwealth_of_Independent_States).personal.md) 
 
-### [CIS(Commonwealth_of_Independent_States).secret](/_secret/International/CIS(Commonwealth_of_Independent_States).secret.md)
+### #is_/same_as :: [CIS(Commonwealth_of_Independent_States).secret](/_secret/International/CIS(Commonwealth_of_Independent_States).secret.md)
 

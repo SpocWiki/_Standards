@@ -56,17 +56,17 @@ Utterances:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HyperTocEntry](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.md) 
+### #is_/same_as :: [FileClass~HyperTocEntry](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.md) 
 
-### [FileClass~HyperTocEntry.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.public.md) 
+### #is_/same_as :: [FileClass~HyperTocEntry.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.public.md) 
 
-### [FileClass~HyperTocEntry.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.internal.md) 
+### #is_/same_as :: [FileClass~HyperTocEntry.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.internal.md) 
 
-### [FileClass~HyperTocEntry.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.protect.md) 
+### #is_/same_as :: [FileClass~HyperTocEntry.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.protect.md) 
 
-### [FileClass~HyperTocEntry.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.private.md) 
+### #is_/same_as :: [FileClass~HyperTocEntry.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.private.md) 
 
-### [FileClass~HyperTocEntry.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.personal.md) 
+### #is_/same_as :: [FileClass~HyperTocEntry.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.personal.md) 
 
-### [FileClass~HyperTocEntry.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.secret.md)
+### #is_/same_as :: [FileClass~HyperTocEntry.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.secret.md)
 

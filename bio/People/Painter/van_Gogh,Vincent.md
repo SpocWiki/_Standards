@@ -376,21 +376,19 @@ Europeana_entity: agent/base/59832
 > [Wikipedia](https://en.wikipedia.org/wiki/Vincent%20van%20Gogh)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [van_Gogh,Vincent](/_Standards/bio/People/Painter/van_Gogh,Vincent.md) 
+### #is_/same_as :: [van_Gogh,Vincent](/_Standards/bio/People/Painter/van_Gogh,Vincent.md) 
 
-### [van_Gogh,Vincent.public](/_public/bio/People/Painter/van_Gogh,Vincent.public.md) 
+### #is_/same_as :: [van_Gogh,Vincent.public](/_public/bio/People/Painter/van_Gogh,Vincent.public.md) 
 
-### [van_Gogh,Vincent.internal](/_internal/bio/People/Painter/van_Gogh,Vincent.internal.md) 
+### #is_/same_as :: [van_Gogh,Vincent.internal](/_internal/bio/People/Painter/van_Gogh,Vincent.internal.md) 
 
-### [van_Gogh,Vincent.protect](/_protect/bio/People/Painter/van_Gogh,Vincent.protect.md) 
+### #is_/same_as :: [van_Gogh,Vincent.protect](/_protect/bio/People/Painter/van_Gogh,Vincent.protect.md) 
 
-### [van_Gogh,Vincent.private](/_private/bio/People/Painter/van_Gogh,Vincent.private.md) 
+### #is_/same_as :: [van_Gogh,Vincent.private](/_private/bio/People/Painter/van_Gogh,Vincent.private.md) 
 
-### [van_Gogh,Vincent.personal](/_personal/bio/People/Painter/van_Gogh,Vincent.personal.md) 
+### #is_/same_as :: [van_Gogh,Vincent.personal](/_personal/bio/People/Painter/van_Gogh,Vincent.personal.md) 
 
-### [van_Gogh,Vincent.secret](/_secret/bio/People/Painter/van_Gogh,Vincent.secret.md)
+### #is_/same_as :: [van_Gogh,Vincent.secret](/_secret/bio/People/Painter/van_Gogh,Vincent.secret.md)
 

@@ -62,25 +62,19 @@ In dieser Situation taucht Sokrates auf.
 > [Wikipedia](https://en.wikipedia.org/wiki/Socrates)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Socrates](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Socrates.md) 
+### #is_/same_as :: [Socrates](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Socrates.md) 
 
-### [Socrates.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Socrates.public.md) 
+### #is_/same_as :: [Socrates.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Socrates.public.md) 
 
-### [Socrates.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Socrates.internal.md) 
+### #is_/same_as :: [Socrates.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Socrates.internal.md) 
 
-### [Socrates.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Socrates.protect.md) 
+### #is_/same_as :: [Socrates.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Socrates.protect.md) 
 
-### [Socrates.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Socrates.private.md) 
+### #is_/same_as :: [Socrates.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Socrates.private.md) 
 
-### [Socrates.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Socrates.personal.md) 
+### #is_/same_as :: [Socrates.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Socrates.personal.md) 
 
-### [Socrates.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Socrates.secret.md)
+### #is_/same_as :: [Socrates.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Socrates.secret.md)
 

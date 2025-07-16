@@ -56,17 +56,17 @@ TermCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DefinedTerm](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.md) 
+### #is_/same_as :: [FileClass~DefinedTerm](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.md) 
 
-### [FileClass~DefinedTerm.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.public.md) 
+### #is_/same_as :: [FileClass~DefinedTerm.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.public.md) 
 
-### [FileClass~DefinedTerm.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.internal.md) 
+### #is_/same_as :: [FileClass~DefinedTerm.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.internal.md) 
 
-### [FileClass~DefinedTerm.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.protect.md) 
+### #is_/same_as :: [FileClass~DefinedTerm.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.protect.md) 
 
-### [FileClass~DefinedTerm.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.private.md) 
+### #is_/same_as :: [FileClass~DefinedTerm.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.private.md) 
 
-### [FileClass~DefinedTerm.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.personal.md) 
+### #is_/same_as :: [FileClass~DefinedTerm.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.personal.md) 
 
-### [FileClass~DefinedTerm.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.secret.md)
+### #is_/same_as :: [FileClass~DefinedTerm.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.secret.md)
 

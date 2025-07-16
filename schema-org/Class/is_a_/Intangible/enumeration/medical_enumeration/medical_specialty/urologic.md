@@ -47,17 +47,17 @@ A specific branch of medical science that is concerned with the diagnosis and tr
 
 ## Confidential Links & Embeds: 
 
-### [urologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.md) 
+### #is_/same_as :: [urologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.md) 
 
-### [urologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.public.md) 
+### #is_/same_as :: [urologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.public.md) 
 
-### [urologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.internal.md) 
+### #is_/same_as :: [urologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.internal.md) 
 
-### [urologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.protect.md) 
+### #is_/same_as :: [urologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.protect.md) 
 
-### [urologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.private.md) 
+### #is_/same_as :: [urologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.private.md) 
 
-### [urologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.personal.md) 
+### #is_/same_as :: [urologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.personal.md) 
 
-### [urologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.secret.md)
+### #is_/same_as :: [urologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/urologic.secret.md)
 

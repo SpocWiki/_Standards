@@ -45,17 +45,17 @@ The act of consuming audio content.
 
 ## Confidential Links & Embeds: 
 
-### [listen_action](/_Standards/schema-org/Class/is_a_/action/consume_action/listen_action.md) 
+### #is_/same_as :: [listen_action](/_Standards/schema-org/Class/is_a_/action/consume_action/listen_action.md) 
 
-### [listen_action.public](/_public/schema-org/Class/is_a_/action/consume_action/listen_action.public.md) 
+### #is_/same_as :: [listen_action.public](/_public/schema-org/Class/is_a_/action/consume_action/listen_action.public.md) 
 
-### [listen_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/listen_action.internal.md) 
+### #is_/same_as :: [listen_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/listen_action.internal.md) 
 
-### [listen_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/listen_action.protect.md) 
+### #is_/same_as :: [listen_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/listen_action.protect.md) 
 
-### [listen_action.private](/_private/schema-org/Class/is_a_/action/consume_action/listen_action.private.md) 
+### #is_/same_as :: [listen_action.private](/_private/schema-org/Class/is_a_/action/consume_action/listen_action.private.md) 
 
-### [listen_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/listen_action.personal.md) 
+### #is_/same_as :: [listen_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/listen_action.personal.md) 
 
-### [listen_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/listen_action.secret.md)
+### #is_/same_as :: [listen_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/listen_action.secret.md)
 

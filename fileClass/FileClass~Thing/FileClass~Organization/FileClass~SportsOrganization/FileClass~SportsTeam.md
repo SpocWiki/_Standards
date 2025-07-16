@@ -62,17 +62,17 @@ Gender:: {"type":"Select","options":{"valuesList":{"Female","Male"},"sourceType"
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportsTeam](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.md) 
+### #is_/same_as :: [FileClass~SportsTeam](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.md) 
 
-### [FileClass~SportsTeam.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.public.md) 
+### #is_/same_as :: [FileClass~SportsTeam.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.public.md) 
 
-### [FileClass~SportsTeam.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.internal.md) 
+### #is_/same_as :: [FileClass~SportsTeam.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.internal.md) 
 
-### [FileClass~SportsTeam.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.protect.md) 
+### #is_/same_as :: [FileClass~SportsTeam.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.protect.md) 
 
-### [FileClass~SportsTeam.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.private.md) 
+### #is_/same_as :: [FileClass~SportsTeam.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.private.md) 
 
-### [FileClass~SportsTeam.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.personal.md) 
+### #is_/same_as :: [FileClass~SportsTeam.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.personal.md) 
 
-### [FileClass~SportsTeam.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.secret.md)
+### #is_/same_as :: [FileClass~SportsTeam.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.secret.md)
 

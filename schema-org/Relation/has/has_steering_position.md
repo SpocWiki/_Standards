@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_steering_position](/_Standards/schema-org/Relation/has/has_steering_position.md) 
+### #is_/same_as :: [has_steering_position](/_Standards/schema-org/Relation/has/has_steering_position.md) 
 
-### [has_steering_position.public](/_public/schema-org/Relation/has/has_steering_position.public.md) 
+### #is_/same_as :: [has_steering_position.public](/_public/schema-org/Relation/has/has_steering_position.public.md) 
 
-### [has_steering_position.internal](/_internal/schema-org/Relation/has/has_steering_position.internal.md) 
+### #is_/same_as :: [has_steering_position.internal](/_internal/schema-org/Relation/has/has_steering_position.internal.md) 
 
-### [has_steering_position.protect](/_protect/schema-org/Relation/has/has_steering_position.protect.md) 
+### #is_/same_as :: [has_steering_position.protect](/_protect/schema-org/Relation/has/has_steering_position.protect.md) 
 
-### [has_steering_position.private](/_private/schema-org/Relation/has/has_steering_position.private.md) 
+### #is_/same_as :: [has_steering_position.private](/_private/schema-org/Relation/has/has_steering_position.private.md) 
 
-### [has_steering_position.personal](/_personal/schema-org/Relation/has/has_steering_position.personal.md) 
+### #is_/same_as :: [has_steering_position.personal](/_personal/schema-org/Relation/has/has_steering_position.personal.md) 
 
-### [has_steering_position.secret](/_secret/schema-org/Relation/has/has_steering_position.secret.md)
+### #is_/same_as :: [has_steering_position.secret](/_secret/schema-org/Relation/has/has_steering_position.secret.md)
 

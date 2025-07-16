@@ -59,17 +59,17 @@ it may also sometimes prove useful to describe a longer-term series as an Event.
 
 ## Confidential Links & Embeds: 
 
-### [event_series](/_Standards/schema-org/Class/is_a_/event/event_series.md) 
+### #is_/same_as :: [event_series](/_Standards/schema-org/Class/is_a_/event/event_series.md) 
 
-### [event_series.public](/_public/schema-org/Class/is_a_/event/event_series.public.md) 
+### #is_/same_as :: [event_series.public](/_public/schema-org/Class/is_a_/event/event_series.public.md) 
 
-### [event_series.internal](/_internal/schema-org/Class/is_a_/event/event_series.internal.md) 
+### #is_/same_as :: [event_series.internal](/_internal/schema-org/Class/is_a_/event/event_series.internal.md) 
 
-### [event_series.protect](/_protect/schema-org/Class/is_a_/event/event_series.protect.md) 
+### #is_/same_as :: [event_series.protect](/_protect/schema-org/Class/is_a_/event/event_series.protect.md) 
 
-### [event_series.private](/_private/schema-org/Class/is_a_/event/event_series.private.md) 
+### #is_/same_as :: [event_series.private](/_private/schema-org/Class/is_a_/event/event_series.private.md) 
 
-### [event_series.personal](/_personal/schema-org/Class/is_a_/event/event_series.personal.md) 
+### #is_/same_as :: [event_series.personal](/_personal/schema-org/Class/is_a_/event/event_series.personal.md) 
 
-### [event_series.secret](/_secret/schema-org/Class/is_a_/event/event_series.secret.md)
+### #is_/same_as :: [event_series.secret](/_secret/schema-org/Class/is_a_/event/event_series.secret.md)
 

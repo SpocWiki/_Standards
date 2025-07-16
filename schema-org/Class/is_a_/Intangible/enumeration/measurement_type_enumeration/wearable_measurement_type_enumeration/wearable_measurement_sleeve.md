@@ -49,17 +49,17 @@ Measurement of the sleeve length, for example of a shirt
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_sleeve](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.md) 
+### #is_/same_as :: [wearable_measurement_sleeve](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.md) 
 
-### [wearable_measurement_sleeve.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.public.md) 
+### #is_/same_as :: [wearable_measurement_sleeve.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.public.md) 
 
-### [wearable_measurement_sleeve.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.internal.md) 
+### #is_/same_as :: [wearable_measurement_sleeve.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.internal.md) 
 
-### [wearable_measurement_sleeve.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.protect.md) 
+### #is_/same_as :: [wearable_measurement_sleeve.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.protect.md) 
 
-### [wearable_measurement_sleeve.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.private.md) 
+### #is_/same_as :: [wearable_measurement_sleeve.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.private.md) 
 
-### [wearable_measurement_sleeve.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.personal.md) 
+### #is_/same_as :: [wearable_measurement_sleeve.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.personal.md) 
 
-### [wearable_measurement_sleeve.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.secret.md)
+### #is_/same_as :: [wearable_measurement_sleeve.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.secret.md)
 

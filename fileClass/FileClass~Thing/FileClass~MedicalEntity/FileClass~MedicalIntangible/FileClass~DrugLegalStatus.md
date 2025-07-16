@@ -46,17 +46,17 @@ ApplicableLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrugLegalStatus](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.md) 
+### #is_/same_as :: [FileClass~DrugLegalStatus](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.md) 
 
-### [FileClass~DrugLegalStatus.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.public.md) 
+### #is_/same_as :: [FileClass~DrugLegalStatus.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.public.md) 
 
-### [FileClass~DrugLegalStatus.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.internal.md) 
+### #is_/same_as :: [FileClass~DrugLegalStatus.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.internal.md) 
 
-### [FileClass~DrugLegalStatus.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.protect.md) 
+### #is_/same_as :: [FileClass~DrugLegalStatus.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.protect.md) 
 
-### [FileClass~DrugLegalStatus.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.private.md) 
+### #is_/same_as :: [FileClass~DrugLegalStatus.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.private.md) 
 
-### [FileClass~DrugLegalStatus.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.personal.md) 
+### #is_/same_as :: [FileClass~DrugLegalStatus.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.personal.md) 
 
-### [FileClass~DrugLegalStatus.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.secret.md)
+### #is_/same_as :: [FileClass~DrugLegalStatus.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugLegalStatus.secret.md)
 

@@ -45,17 +45,17 @@ A house painting service.
 
 ## Confidential Links & Embeds: 
 
-### [house_painter](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.md) 
+### #is_/same_as :: [house_painter](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.md) 
 
-### [house_painter.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.public.md) 
+### #is_/same_as :: [house_painter.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.public.md) 
 
-### [house_painter.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.internal.md) 
+### #is_/same_as :: [house_painter.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.internal.md) 
 
-### [house_painter.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.protect.md) 
+### #is_/same_as :: [house_painter.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.protect.md) 
 
-### [house_painter.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.private.md) 
+### #is_/same_as :: [house_painter.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.private.md) 
 
-### [house_painter.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.personal.md) 
+### #is_/same_as :: [house_painter.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.personal.md) 
 
-### [house_painter.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.secret.md)
+### #is_/same_as :: [house_painter.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.secret.md)
 

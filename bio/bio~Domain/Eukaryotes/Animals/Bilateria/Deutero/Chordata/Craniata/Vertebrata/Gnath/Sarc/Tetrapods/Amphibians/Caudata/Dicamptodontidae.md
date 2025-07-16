@@ -212,22 +212,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp/deQueirozK.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Dicamptodontidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.md) 
+### #is_/same_as :: [Dicamptodontidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.md) 
 
-### [Dicamptodontidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.public.md) 
+### #is_/same_as :: [Dicamptodontidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.public.md) 
 
-### [Dicamptodontidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.internal.md) 
+### #is_/same_as :: [Dicamptodontidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.internal.md) 
 
-### [Dicamptodontidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.protect.md) 
+### #is_/same_as :: [Dicamptodontidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.protect.md) 
 
-### [Dicamptodontidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.private.md) 
+### #is_/same_as :: [Dicamptodontidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.private.md) 
 
-### [Dicamptodontidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.personal.md) 
+### #is_/same_as :: [Dicamptodontidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.personal.md) 
 
-### [Dicamptodontidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.secret.md)
+### #is_/same_as :: [Dicamptodontidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.secret.md)
 

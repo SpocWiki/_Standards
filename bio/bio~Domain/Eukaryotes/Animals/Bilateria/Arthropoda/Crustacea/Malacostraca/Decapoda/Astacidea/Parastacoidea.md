@@ -147,21 +147,19 @@ Photo copyright © 1998 Keith A. Crandall
 Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Parastacoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.md) 
+### #is_/same_as :: [Parastacoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.md) 
 
-### [Parastacoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.public.md) 
+### #is_/same_as :: [Parastacoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.public.md) 
 
-### [Parastacoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.internal.md) 
+### #is_/same_as :: [Parastacoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.internal.md) 
 
-### [Parastacoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.protect.md) 
+### #is_/same_as :: [Parastacoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.protect.md) 
 
-### [Parastacoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.private.md) 
+### #is_/same_as :: [Parastacoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.private.md) 
 
-### [Parastacoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.personal.md) 
+### #is_/same_as :: [Parastacoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.personal.md) 
 
-### [Parastacoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.secret.md)
+### #is_/same_as :: [Parastacoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.secret.md)
 

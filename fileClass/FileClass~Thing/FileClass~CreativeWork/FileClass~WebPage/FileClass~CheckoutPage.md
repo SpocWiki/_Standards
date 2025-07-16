@@ -35,17 +35,17 @@ Web page type: Checkout page.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CheckoutPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.md) 
+### #is_/same_as :: [FileClass~CheckoutPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.md) 
 
-### [FileClass~CheckoutPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.public.md) 
+### #is_/same_as :: [FileClass~CheckoutPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.public.md) 
 
-### [FileClass~CheckoutPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.internal.md) 
+### #is_/same_as :: [FileClass~CheckoutPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.internal.md) 
 
-### [FileClass~CheckoutPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.protect.md) 
+### #is_/same_as :: [FileClass~CheckoutPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.protect.md) 
 
-### [FileClass~CheckoutPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.private.md) 
+### #is_/same_as :: [FileClass~CheckoutPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.private.md) 
 
-### [FileClass~CheckoutPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.personal.md) 
+### #is_/same_as :: [FileClass~CheckoutPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.personal.md) 
 
-### [FileClass~CheckoutPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.secret.md)
+### #is_/same_as :: [FileClass~CheckoutPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.secret.md)
 

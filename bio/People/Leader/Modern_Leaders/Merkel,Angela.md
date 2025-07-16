@@ -80,21 +80,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Angela%20Merkel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Merkel,Angela](/_Standards/bio/People/Leader/Modern_Leaders/Merkel,Angela.md) 
+### #is_/same_as :: [Merkel,Angela](/_Standards/bio/People/Leader/Modern_Leaders/Merkel,Angela.md) 
 
-### [Merkel,Angela.public](/_public/bio/People/Leader/Modern_Leaders/Merkel,Angela.public.md) 
+### #is_/same_as :: [Merkel,Angela.public](/_public/bio/People/Leader/Modern_Leaders/Merkel,Angela.public.md) 
 
-### [Merkel,Angela.internal](/_internal/bio/People/Leader/Modern_Leaders/Merkel,Angela.internal.md) 
+### #is_/same_as :: [Merkel,Angela.internal](/_internal/bio/People/Leader/Modern_Leaders/Merkel,Angela.internal.md) 
 
-### [Merkel,Angela.protect](/_protect/bio/People/Leader/Modern_Leaders/Merkel,Angela.protect.md) 
+### #is_/same_as :: [Merkel,Angela.protect](/_protect/bio/People/Leader/Modern_Leaders/Merkel,Angela.protect.md) 
 
-### [Merkel,Angela.private](/_private/bio/People/Leader/Modern_Leaders/Merkel,Angela.private.md) 
+### #is_/same_as :: [Merkel,Angela.private](/_private/bio/People/Leader/Modern_Leaders/Merkel,Angela.private.md) 
 
-### [Merkel,Angela.personal](/_personal/bio/People/Leader/Modern_Leaders/Merkel,Angela.personal.md) 
+### #is_/same_as :: [Merkel,Angela.personal](/_personal/bio/People/Leader/Modern_Leaders/Merkel,Angela.personal.md) 
 
-### [Merkel,Angela.secret](/_secret/bio/People/Leader/Modern_Leaders/Merkel,Angela.secret.md)
+### #is_/same_as :: [Merkel,Angela.secret](/_secret/bio/People/Leader/Modern_Leaders/Merkel,Angela.secret.md)
 

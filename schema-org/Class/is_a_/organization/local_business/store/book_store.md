@@ -45,17 +45,17 @@ A bookstore.
 
 ## Confidential Links & Embeds: 
 
-### [book_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/book_store.md) 
+### #is_/same_as :: [book_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/book_store.md) 
 
-### [book_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/book_store.public.md) 
+### #is_/same_as :: [book_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/book_store.public.md) 
 
-### [book_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/book_store.internal.md) 
+### #is_/same_as :: [book_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/book_store.internal.md) 
 
-### [book_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/book_store.protect.md) 
+### #is_/same_as :: [book_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/book_store.protect.md) 
 
-### [book_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/book_store.private.md) 
+### #is_/same_as :: [book_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/book_store.private.md) 
 
-### [book_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/book_store.personal.md) 
+### #is_/same_as :: [book_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/book_store.personal.md) 
 
-### [book_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/book_store.secret.md)
+### #is_/same_as :: [book_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/book_store.secret.md)
 

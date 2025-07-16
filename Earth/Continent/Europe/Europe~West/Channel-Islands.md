@@ -34,17 +34,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Channel-Islands](/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands.md) 
+### #is_/same_as :: [Channel-Islands](/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands.md) 
 
-### [Channel-Islands.public](/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.public.md) 
+### #is_/same_as :: [Channel-Islands.public](/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.public.md) 
 
-### [Channel-Islands.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands.internal.md) 
+### #is_/same_as :: [Channel-Islands.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands.internal.md) 
 
-### [Channel-Islands.protect](/_protect/Earth/Continent/Europe/Europe~West/Channel-Islands.protect.md) 
+### #is_/same_as :: [Channel-Islands.protect](/_protect/Earth/Continent/Europe/Europe~West/Channel-Islands.protect.md) 
 
-### [Channel-Islands.private](/_private/Earth/Continent/Europe/Europe~West/Channel-Islands.private.md) 
+### #is_/same_as :: [Channel-Islands.private](/_private/Earth/Continent/Europe/Europe~West/Channel-Islands.private.md) 
 
-### [Channel-Islands.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands.personal.md) 
+### #is_/same_as :: [Channel-Islands.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands.personal.md) 
 
-### [Channel-Islands.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret.md)
+### #is_/same_as :: [Channel-Islands.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret.md)
 

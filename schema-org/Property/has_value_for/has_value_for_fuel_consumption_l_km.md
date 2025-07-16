@@ -55,17 +55,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_fuel_consumption_l_km](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.md) 
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.md) 
 
-### [has_value_for_fuel_consumption_l_km.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.public.md) 
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.public.md) 
 
-### [has_value_for_fuel_consumption_l_km.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.internal.md) 
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.internal.md) 
 
-### [has_value_for_fuel_consumption_l_km.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.protect.md) 
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.protect.md) 
 
-### [has_value_for_fuel_consumption_l_km.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.private.md) 
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.private.md) 
 
-### [has_value_for_fuel_consumption_l_km.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.personal.md) 
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.personal.md) 
 
-### [has_value_for_fuel_consumption_l_km.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.secret.md)
+### #is_/same_as :: [has_value_for_fuel_consumption_l_km.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.secret.md)
 

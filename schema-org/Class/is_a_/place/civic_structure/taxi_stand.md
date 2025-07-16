@@ -45,17 +45,17 @@ A taxi stand.
 
 ## Confidential Links & Embeds: 
 
-### [taxi_stand](/_Standards/schema-org/Class/is_a_/place/civic_structure/taxi_stand.md) 
+### #is_/same_as :: [taxi_stand](/_Standards/schema-org/Class/is_a_/place/civic_structure/taxi_stand.md) 
 
-### [taxi_stand.public](/_public/schema-org/Class/is_a_/place/civic_structure/taxi_stand.public.md) 
+### #is_/same_as :: [taxi_stand.public](/_public/schema-org/Class/is_a_/place/civic_structure/taxi_stand.public.md) 
 
-### [taxi_stand.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/taxi_stand.internal.md) 
+### #is_/same_as :: [taxi_stand.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/taxi_stand.internal.md) 
 
-### [taxi_stand.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/taxi_stand.protect.md) 
+### #is_/same_as :: [taxi_stand.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/taxi_stand.protect.md) 
 
-### [taxi_stand.private](/_private/schema-org/Class/is_a_/place/civic_structure/taxi_stand.private.md) 
+### #is_/same_as :: [taxi_stand.private](/_private/schema-org/Class/is_a_/place/civic_structure/taxi_stand.private.md) 
 
-### [taxi_stand.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/taxi_stand.personal.md) 
+### #is_/same_as :: [taxi_stand.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/taxi_stand.personal.md) 
 
-### [taxi_stand.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/taxi_stand.secret.md)
+### #is_/same_as :: [taxi_stand.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/taxi_stand.secret.md)
 

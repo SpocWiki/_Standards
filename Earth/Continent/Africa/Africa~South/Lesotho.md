@@ -416,17 +416,17 @@ Capital :: [[Maseru]]
 
 ## Confidential Links & Embeds: 
 
-### [Lesotho](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho.md) 
+### #is_/same_as :: [Lesotho](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho.md) 
 
-### [Lesotho.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho.public.md) 
+### #is_/same_as :: [Lesotho.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho.public.md) 
 
-### [Lesotho.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal.md) 
+### #is_/same_as :: [Lesotho.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal.md) 
 
-### [Lesotho.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect.md) 
+### #is_/same_as :: [Lesotho.protect](/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect.md) 
 
-### [Lesotho.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho.private.md) 
+### #is_/same_as :: [Lesotho.private](/_private/Earth/Continent/Africa/Africa~South/Lesotho.private.md) 
 
-### [Lesotho.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal.md) 
+### #is_/same_as :: [Lesotho.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal.md) 
 
-### [Lesotho.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret.md)
+### #is_/same_as :: [Lesotho.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret.md)
 

@@ -47,17 +47,17 @@ A chemical or biologic substance, used as a medical therapy, that has a physiolo
 
 ## Confidential Links & Embeds: 
 
-### [drug](/_Standards/schema-org/Class/is_a_/product/drug.md) 
+### #is_/same_as :: [drug](/_Standards/schema-org/Class/is_a_/product/drug.md) 
 
-### [drug.public](/_public/schema-org/Class/is_a_/product/drug.public.md) 
+### #is_/same_as :: [drug.public](/_public/schema-org/Class/is_a_/product/drug.public.md) 
 
-### [drug.internal](/_internal/schema-org/Class/is_a_/product/drug.internal.md) 
+### #is_/same_as :: [drug.internal](/_internal/schema-org/Class/is_a_/product/drug.internal.md) 
 
-### [drug.protect](/_protect/schema-org/Class/is_a_/product/drug.protect.md) 
+### #is_/same_as :: [drug.protect](/_protect/schema-org/Class/is_a_/product/drug.protect.md) 
 
-### [drug.private](/_private/schema-org/Class/is_a_/product/drug.private.md) 
+### #is_/same_as :: [drug.private](/_private/schema-org/Class/is_a_/product/drug.private.md) 
 
-### [drug.personal](/_personal/schema-org/Class/is_a_/product/drug.personal.md) 
+### #is_/same_as :: [drug.personal](/_personal/schema-org/Class/is_a_/product/drug.personal.md) 
 
-### [drug.secret](/_secret/schema-org/Class/is_a_/product/drug.secret.md)
+### #is_/same_as :: [drug.secret](/_secret/schema-org/Class/is_a_/product/drug.secret.md)
 

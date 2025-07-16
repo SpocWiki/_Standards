@@ -291,17 +291,17 @@ sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
 
 ## Confidential Links & Embeds: 
 
-### [Warhol,Andy](/_Standards/bio/People/Painter/Warhol,Andy.md) 
+### #is_/same_as :: [Warhol,Andy](/_Standards/bio/People/Painter/Warhol,Andy.md) 
 
-### [Warhol,Andy.public](/_public/bio/People/Painter/Warhol,Andy.public.md) 
+### #is_/same_as :: [Warhol,Andy.public](/_public/bio/People/Painter/Warhol,Andy.public.md) 
 
-### [Warhol,Andy.internal](/_internal/bio/People/Painter/Warhol,Andy.internal.md) 
+### #is_/same_as :: [Warhol,Andy.internal](/_internal/bio/People/Painter/Warhol,Andy.internal.md) 
 
-### [Warhol,Andy.protect](/_protect/bio/People/Painter/Warhol,Andy.protect.md) 
+### #is_/same_as :: [Warhol,Andy.protect](/_protect/bio/People/Painter/Warhol,Andy.protect.md) 
 
-### [Warhol,Andy.private](/_private/bio/People/Painter/Warhol,Andy.private.md) 
+### #is_/same_as :: [Warhol,Andy.private](/_private/bio/People/Painter/Warhol,Andy.private.md) 
 
-### [Warhol,Andy.personal](/_personal/bio/People/Painter/Warhol,Andy.personal.md) 
+### #is_/same_as :: [Warhol,Andy.personal](/_personal/bio/People/Painter/Warhol,Andy.personal.md) 
 
-### [Warhol,Andy.secret](/_secret/bio/People/Painter/Warhol,Andy.secret.md)
+### #is_/same_as :: [Warhol,Andy.secret](/_secret/bio/People/Painter/Warhol,Andy.secret.md)
 

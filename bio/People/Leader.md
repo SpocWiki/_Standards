@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Leader](/_Standards/bio/People/Leader.md) 
+### #is_/same_as :: [Leader](/_Standards/bio/People/Leader.md) 
 
-### [Leader.public](/_public/bio/People/Leader.public.md) 
+### #is_/same_as :: [Leader.public](/_public/bio/People/Leader.public.md) 
 
-### [Leader.internal](/_internal/bio/People/Leader.internal.md) 
+### #is_/same_as :: [Leader.internal](/_internal/bio/People/Leader.internal.md) 
 
-### [Leader.protect](/_protect/bio/People/Leader.protect.md) 
+### #is_/same_as :: [Leader.protect](/_protect/bio/People/Leader.protect.md) 
 
-### [Leader.private](/_private/bio/People/Leader.private.md) 
+### #is_/same_as :: [Leader.private](/_private/bio/People/Leader.private.md) 
 
-### [Leader.personal](/_personal/bio/People/Leader.personal.md) 
+### #is_/same_as :: [Leader.personal](/_personal/bio/People/Leader.personal.md) 
 
-### [Leader.secret](/_secret/bio/People/Leader.secret.md)
+### #is_/same_as :: [Leader.secret](/_secret/bio/People/Leader.secret.md)
 

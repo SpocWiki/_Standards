@@ -49,17 +49,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [user_page_visits](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_page_visits.md) 
+### #is_/same_as :: [user_page_visits](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_page_visits.md) 
 
-### [user_page_visits.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_page_visits.public.md) 
+### #is_/same_as :: [user_page_visits.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_page_visits.public.md) 
 
-### [user_page_visits.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_page_visits.internal.md) 
+### #is_/same_as :: [user_page_visits.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_page_visits.internal.md) 
 
-### [user_page_visits.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_page_visits.protect.md) 
+### #is_/same_as :: [user_page_visits.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_page_visits.protect.md) 
 
-### [user_page_visits.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_page_visits.private.md) 
+### #is_/same_as :: [user_page_visits.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_page_visits.private.md) 
 
-### [user_page_visits.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_page_visits.personal.md) 
+### #is_/same_as :: [user_page_visits.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_page_visits.personal.md) 
 
-### [user_page_visits.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_page_visits.secret.md)
+### #is_/same_as :: [user_page_visits.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_page_visits.secret.md)
 

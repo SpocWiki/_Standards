@@ -62,17 +62,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_measurement_technique](/_Standards/schema-org/Property/Texts/has_measurement_technique.md) 
+### #is_/same_as :: [has_measurement_technique](/_Standards/schema-org/Property/Texts/has_measurement_technique.md) 
 
-### [has_measurement_technique.public](/_public/schema-org/Property/Texts/has_measurement_technique.public.md) 
+### #is_/same_as :: [has_measurement_technique.public](/_public/schema-org/Property/Texts/has_measurement_technique.public.md) 
 
-### [has_measurement_technique.internal](/_internal/schema-org/Property/Texts/has_measurement_technique.internal.md) 
+### #is_/same_as :: [has_measurement_technique.internal](/_internal/schema-org/Property/Texts/has_measurement_technique.internal.md) 
 
-### [has_measurement_technique.protect](/_protect/schema-org/Property/Texts/has_measurement_technique.protect.md) 
+### #is_/same_as :: [has_measurement_technique.protect](/_protect/schema-org/Property/Texts/has_measurement_technique.protect.md) 
 
-### [has_measurement_technique.private](/_private/schema-org/Property/Texts/has_measurement_technique.private.md) 
+### #is_/same_as :: [has_measurement_technique.private](/_private/schema-org/Property/Texts/has_measurement_technique.private.md) 
 
-### [has_measurement_technique.personal](/_personal/schema-org/Property/Texts/has_measurement_technique.personal.md) 
+### #is_/same_as :: [has_measurement_technique.personal](/_personal/schema-org/Property/Texts/has_measurement_technique.personal.md) 
 
-### [has_measurement_technique.secret](/_secret/schema-org/Property/Texts/has_measurement_technique.secret.md)
+### #is_/same_as :: [has_measurement_technique.secret](/_secret/schema-org/Property/Texts/has_measurement_technique.secret.md)
 

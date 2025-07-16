@@ -373,17 +373,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_CountryStateDB](/_Standards/Earth/Continent/_CountryStateDB.md) 
+### #is_/same_as :: [_CountryStateDB](/_Standards/Earth/Continent/_CountryStateDB.md) 
 
-### [_CountryStateDB.public](/_public/Earth/Continent/_CountryStateDB.public.md) 
+### #is_/same_as :: [_CountryStateDB.public](/_public/Earth/Continent/_CountryStateDB.public.md) 
 
-### [_CountryStateDB.internal](/_internal/Earth/Continent/_CountryStateDB.internal.md) 
+### #is_/same_as :: [_CountryStateDB.internal](/_internal/Earth/Continent/_CountryStateDB.internal.md) 
 
-### [_CountryStateDB.protect](/_protect/Earth/Continent/_CountryStateDB.protect.md) 
+### #is_/same_as :: [_CountryStateDB.protect](/_protect/Earth/Continent/_CountryStateDB.protect.md) 
 
-### [_CountryStateDB.private](/_private/Earth/Continent/_CountryStateDB.private.md) 
+### #is_/same_as :: [_CountryStateDB.private](/_private/Earth/Continent/_CountryStateDB.private.md) 
 
-### [_CountryStateDB.personal](/_personal/Earth/Continent/_CountryStateDB.personal.md) 
+### #is_/same_as :: [_CountryStateDB.personal](/_personal/Earth/Continent/_CountryStateDB.personal.md) 
 
-### [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md)
+### #is_/same_as :: [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md)
 

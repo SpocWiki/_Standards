@@ -45,17 +45,17 @@ ATM/cash machine.
 
 ## Confidential Links & Embeds: 
 
-### [automated_teller](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.md) 
+### #is_/same_as :: [automated_teller](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.md) 
 
-### [automated_teller.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.public.md) 
+### #is_/same_as :: [automated_teller.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.public.md) 
 
-### [automated_teller.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.internal.md) 
+### #is_/same_as :: [automated_teller.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.internal.md) 
 
-### [automated_teller.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.protect.md) 
+### #is_/same_as :: [automated_teller.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.protect.md) 
 
-### [automated_teller.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.private.md) 
+### #is_/same_as :: [automated_teller.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.private.md) 
 
-### [automated_teller.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.personal.md) 
+### #is_/same_as :: [automated_teller.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.personal.md) 
 
-### [automated_teller.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.secret.md)
+### #is_/same_as :: [automated_teller.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.secret.md)
 

@@ -161,17 +161,17 @@ lat: 45
 
 ## Confidential Links & Embeds: 
 
-### [America~North](/_Standards/Earth/Continent/America~North.md) 
+### #is_/same_as :: [America~North](/_Standards/Earth/Continent/America~North.md) 
 
-### [America~North.public](/_public/Earth/Continent/America~North.public.md) 
+### #is_/same_as :: [America~North.public](/_public/Earth/Continent/America~North.public.md) 
 
-### [America~North.internal](/_internal/Earth/Continent/America~North.internal.md) 
+### #is_/same_as :: [America~North.internal](/_internal/Earth/Continent/America~North.internal.md) 
 
-### [America~North.protect](/_protect/Earth/Continent/America~North.protect.md) 
+### #is_/same_as :: [America~North.protect](/_protect/Earth/Continent/America~North.protect.md) 
 
-### [America~North.private](/_private/Earth/Continent/America~North.private.md) 
+### #is_/same_as :: [America~North.private](/_private/Earth/Continent/America~North.private.md) 
 
-### [America~North.personal](/_personal/Earth/Continent/America~North.personal.md) 
+### #is_/same_as :: [America~North.personal](/_personal/Earth/Continent/America~North.personal.md) 
 
-### [America~North.secret](/_secret/Earth/Continent/America~North.secret.md)
+### #is_/same_as :: [America~North.secret](/_secret/Earth/Continent/America~North.secret.md)
 

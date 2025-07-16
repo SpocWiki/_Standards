@@ -47,17 +47,17 @@ A specific branch of medical science that studies the nerves and nervous system 
 
 ## Confidential Links & Embeds: 
 
-### [neurologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.md) 
+### #is_/same_as :: [neurologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.md) 
 
-### [neurologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.public.md) 
+### #is_/same_as :: [neurologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.public.md) 
 
-### [neurologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.internal.md) 
+### #is_/same_as :: [neurologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.internal.md) 
 
-### [neurologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.protect.md) 
+### #is_/same_as :: [neurologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.protect.md) 
 
-### [neurologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.private.md) 
+### #is_/same_as :: [neurologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.private.md) 
 
-### [neurologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.personal.md) 
+### #is_/same_as :: [neurologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.personal.md) 
 
-### [neurologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.secret.md)
+### #is_/same_as :: [neurologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/neurologic.secret.md)
 

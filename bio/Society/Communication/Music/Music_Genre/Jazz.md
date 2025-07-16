@@ -62,21 +62,19 @@ PhilPapers_topic: jazz
 > [Wikipedia](https://en.wikipedia.org/wiki/Jazz) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Jazz](/_Standards/bio/Society/Communication/Music/Music_Genre/Jazz.md) 
+### #is_/same_as :: [Jazz](/_Standards/bio/Society/Communication/Music/Music_Genre/Jazz.md) 
 
-### [Jazz.public](/_public/bio/Society/Communication/Music/Music_Genre/Jazz.public.md) 
+### #is_/same_as :: [Jazz.public](/_public/bio/Society/Communication/Music/Music_Genre/Jazz.public.md) 
 
-### [Jazz.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Jazz.internal.md) 
+### #is_/same_as :: [Jazz.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Jazz.internal.md) 
 
-### [Jazz.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Jazz.protect.md) 
+### #is_/same_as :: [Jazz.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Jazz.protect.md) 
 
-### [Jazz.private](/_private/bio/Society/Communication/Music/Music_Genre/Jazz.private.md) 
+### #is_/same_as :: [Jazz.private](/_private/bio/Society/Communication/Music/Music_Genre/Jazz.private.md) 
 
-### [Jazz.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Jazz.personal.md) 
+### #is_/same_as :: [Jazz.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Jazz.personal.md) 
 
-### [Jazz.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Jazz.secret.md)
+### #is_/same_as :: [Jazz.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Jazz.secret.md)
 

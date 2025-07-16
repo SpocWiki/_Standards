@@ -49,17 +49,17 @@ Nonprofit501c4: Non-profit type referring to Civic Leagues, Social Welfare Organ
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c4](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.md) 
+### #is_/same_as :: [nonprofit501c4](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.md) 
 
-### [nonprofit501c4.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.public.md) 
+### #is_/same_as :: [nonprofit501c4.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.public.md) 
 
-### [nonprofit501c4.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.internal.md) 
+### #is_/same_as :: [nonprofit501c4.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.internal.md) 
 
-### [nonprofit501c4.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.protect.md) 
+### #is_/same_as :: [nonprofit501c4.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.protect.md) 
 
-### [nonprofit501c4.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.private.md) 
+### #is_/same_as :: [nonprofit501c4.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.private.md) 
 
-### [nonprofit501c4.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.personal.md) 
+### #is_/same_as :: [nonprofit501c4.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.personal.md) 
 
-### [nonprofit501c4.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.secret.md)
+### #is_/same_as :: [nonprofit501c4.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.secret.md)
 

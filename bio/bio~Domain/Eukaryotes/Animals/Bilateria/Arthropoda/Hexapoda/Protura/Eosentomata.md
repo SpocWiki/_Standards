@@ -40,22 +40,19 @@ title: Eosentomata
     -   [Eosentomidae](Eosentomidae.md)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Eosentomata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.md) 
+### #is_/same_as :: [Eosentomata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.md) 
 
-### [Eosentomata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.public.md) 
+### #is_/same_as :: [Eosentomata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.public.md) 
 
-### [Eosentomata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.internal.md) 
+### #is_/same_as :: [Eosentomata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.internal.md) 
 
-### [Eosentomata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.protect.md) 
+### #is_/same_as :: [Eosentomata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.protect.md) 
 
-### [Eosentomata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.private.md) 
+### #is_/same_as :: [Eosentomata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.private.md) 
 
-### [Eosentomata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.personal.md) 
+### #is_/same_as :: [Eosentomata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.personal.md) 
 
-### [Eosentomata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.secret.md)
+### #is_/same_as :: [Eosentomata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata.secret.md)
 

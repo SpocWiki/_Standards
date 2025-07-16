@@ -75,17 +75,17 @@ PriceSpecification:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TradeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.md) 
+### #is_/same_as :: [FileClass~TradeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.md) 
 
-### [FileClass~TradeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.public.md) 
+### #is_/same_as :: [FileClass~TradeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.public.md) 
 
-### [FileClass~TradeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.internal.md) 
+### #is_/same_as :: [FileClass~TradeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.internal.md) 
 
-### [FileClass~TradeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.protect.md) 
+### #is_/same_as :: [FileClass~TradeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.protect.md) 
 
-### [FileClass~TradeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.private.md) 
+### #is_/same_as :: [FileClass~TradeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.private.md) 
 
-### [FileClass~TradeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.personal.md) 
+### #is_/same_as :: [FileClass~TradeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.personal.md) 
 
-### [FileClass~TradeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.secret.md)
+### #is_/same_as :: [FileClass~TradeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.secret.md)
 

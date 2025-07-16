@@ -45,17 +45,17 @@ A scholarly article in the medical domain.
 
 ## Confidential Links & Embeds: 
 
-### [medical_scholarly_article](/_Standards/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.md) 
+### #is_/same_as :: [medical_scholarly_article](/_Standards/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.md) 
 
-### [medical_scholarly_article.public](/_public/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.public.md) 
+### #is_/same_as :: [medical_scholarly_article.public](/_public/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.public.md) 
 
-### [medical_scholarly_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.internal.md) 
+### #is_/same_as :: [medical_scholarly_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.internal.md) 
 
-### [medical_scholarly_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.protect.md) 
+### #is_/same_as :: [medical_scholarly_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.protect.md) 
 
-### [medical_scholarly_article.private](/_private/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.private.md) 
+### #is_/same_as :: [medical_scholarly_article.private](/_private/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.private.md) 
 
-### [medical_scholarly_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.personal.md) 
+### #is_/same_as :: [medical_scholarly_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.personal.md) 
 
-### [medical_scholarly_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.secret.md)
+### #is_/same_as :: [medical_scholarly_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.secret.md)
 

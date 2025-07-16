@@ -45,17 +45,17 @@ A jewelry store.
 
 ## Confidential Links & Embeds: 
 
-### [jewelry_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.md) 
+### #is_/same_as :: [jewelry_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.md) 
 
-### [jewelry_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.public.md) 
+### #is_/same_as :: [jewelry_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.public.md) 
 
-### [jewelry_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.internal.md) 
+### #is_/same_as :: [jewelry_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.internal.md) 
 
-### [jewelry_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.protect.md) 
+### #is_/same_as :: [jewelry_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.protect.md) 
 
-### [jewelry_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.private.md) 
+### #is_/same_as :: [jewelry_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.private.md) 
 
-### [jewelry_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.personal.md) 
+### #is_/same_as :: [jewelry_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.personal.md) 
 
-### [jewelry_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.secret.md)
+### #is_/same_as :: [jewelry_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/jewelry_store.secret.md)
 

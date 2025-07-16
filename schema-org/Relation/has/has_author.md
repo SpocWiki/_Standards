@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_author](/_Standards/schema-org/Relation/has/has_author.md) 
+### #is_/same_as :: [has_author](/_Standards/schema-org/Relation/has/has_author.md) 
 
-### [has_author.public](/_public/schema-org/Relation/has/has_author.public.md) 
+### #is_/same_as :: [has_author.public](/_public/schema-org/Relation/has/has_author.public.md) 
 
-### [has_author.internal](/_internal/schema-org/Relation/has/has_author.internal.md) 
+### #is_/same_as :: [has_author.internal](/_internal/schema-org/Relation/has/has_author.internal.md) 
 
-### [has_author.protect](/_protect/schema-org/Relation/has/has_author.protect.md) 
+### #is_/same_as :: [has_author.protect](/_protect/schema-org/Relation/has/has_author.protect.md) 
 
-### [has_author.private](/_private/schema-org/Relation/has/has_author.private.md) 
+### #is_/same_as :: [has_author.private](/_private/schema-org/Relation/has/has_author.private.md) 
 
-### [has_author.personal](/_personal/schema-org/Relation/has/has_author.personal.md) 
+### #is_/same_as :: [has_author.personal](/_personal/schema-org/Relation/has/has_author.personal.md) 
 
-### [has_author.secret](/_secret/schema-org/Relation/has/has_author.secret.md)
+### #is_/same_as :: [has_author.secret](/_secret/schema-org/Relation/has/has_author.secret.md)
 

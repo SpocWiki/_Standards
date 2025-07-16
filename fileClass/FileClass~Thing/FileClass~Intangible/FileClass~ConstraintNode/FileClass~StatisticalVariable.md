@@ -69,17 +69,17 @@ StatType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~StatisticalVariable](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.md) 
+### #is_/same_as :: [FileClass~StatisticalVariable](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.md) 
 
-### [FileClass~StatisticalVariable.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.public.md) 
+### #is_/same_as :: [FileClass~StatisticalVariable.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.public.md) 
 
-### [FileClass~StatisticalVariable.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.internal.md) 
+### #is_/same_as :: [FileClass~StatisticalVariable.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.internal.md) 
 
-### [FileClass~StatisticalVariable.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.protect.md) 
+### #is_/same_as :: [FileClass~StatisticalVariable.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.protect.md) 
 
-### [FileClass~StatisticalVariable.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.private.md) 
+### #is_/same_as :: [FileClass~StatisticalVariable.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.private.md) 
 
-### [FileClass~StatisticalVariable.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.personal.md) 
+### #is_/same_as :: [FileClass~StatisticalVariable.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.personal.md) 
 
-### [FileClass~StatisticalVariable.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.secret.md)
+### #is_/same_as :: [FileClass~StatisticalVariable.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.secret.md)
 

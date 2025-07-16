@@ -53,17 +53,17 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CivicStructureAndLodgingBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.public.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.public.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.internal.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.internal.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.protect.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.protect.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.private.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.private.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.personal.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.personal.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.secret.md)
+### #is_/same_as :: [FileClass~CivicStructureAndLodgingBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.secret.md)
 

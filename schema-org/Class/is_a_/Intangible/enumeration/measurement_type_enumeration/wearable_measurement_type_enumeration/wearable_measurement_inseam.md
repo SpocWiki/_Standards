@@ -49,17 +49,17 @@ Measurement of the inseam, for example of pants
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_inseam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.md) 
+### #is_/same_as :: [wearable_measurement_inseam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.md) 
 
-### [wearable_measurement_inseam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.public.md) 
+### #is_/same_as :: [wearable_measurement_inseam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.public.md) 
 
-### [wearable_measurement_inseam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.internal.md) 
+### #is_/same_as :: [wearable_measurement_inseam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.internal.md) 
 
-### [wearable_measurement_inseam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.protect.md) 
+### #is_/same_as :: [wearable_measurement_inseam.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.protect.md) 
 
-### [wearable_measurement_inseam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.private.md) 
+### #is_/same_as :: [wearable_measurement_inseam.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.private.md) 
 
-### [wearable_measurement_inseam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.personal.md) 
+### #is_/same_as :: [wearable_measurement_inseam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.personal.md) 
 
-### [wearable_measurement_inseam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.secret.md)
+### #is_/same_as :: [wearable_measurement_inseam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.secret.md)
 

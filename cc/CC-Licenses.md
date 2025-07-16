@@ -56,17 +56,17 @@ Creative Commons is a global nonprofit organization dedicated to expanding the r
 
 ## Confidential Links & Embeds: 
 
-### [CC-Licenses](/_Standards/cc/CC-Licenses.md) 
+### #is_/same_as :: [CC-Licenses](/_Standards/cc/CC-Licenses.md) 
 
-### [CC-Licenses.public](/_public/cc/CC-Licenses.public.md) 
+### #is_/same_as :: [CC-Licenses.public](/_public/cc/CC-Licenses.public.md) 
 
-### [CC-Licenses.internal](/_internal/cc/CC-Licenses.internal.md) 
+### #is_/same_as :: [CC-Licenses.internal](/_internal/cc/CC-Licenses.internal.md) 
 
-### [CC-Licenses.protect](/_protect/cc/CC-Licenses.protect.md) 
+### #is_/same_as :: [CC-Licenses.protect](/_protect/cc/CC-Licenses.protect.md) 
 
-### [CC-Licenses.private](/_private/cc/CC-Licenses.private.md) 
+### #is_/same_as :: [CC-Licenses.private](/_private/cc/CC-Licenses.private.md) 
 
-### [CC-Licenses.personal](/_personal/cc/CC-Licenses.personal.md) 
+### #is_/same_as :: [CC-Licenses.personal](/_personal/cc/CC-Licenses.personal.md) 
 
-### [CC-Licenses.secret](/_secret/cc/CC-Licenses.secret.md)
+### #is_/same_as :: [CC-Licenses.secret](/_secret/cc/CC-Licenses.secret.md)
 

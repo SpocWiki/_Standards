@@ -47,17 +47,17 @@ A diet conforming to Jewish dietary practices.
 
 ## Confidential Links & Embeds: 
 
-### [kosher_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.md) 
+### #is_/same_as :: [kosher_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.md) 
 
-### [kosher_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.public.md) 
+### #is_/same_as :: [kosher_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.public.md) 
 
-### [kosher_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.internal.md) 
+### #is_/same_as :: [kosher_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.internal.md) 
 
-### [kosher_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.protect.md) 
+### #is_/same_as :: [kosher_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.protect.md) 
 
-### [kosher_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.private.md) 
+### #is_/same_as :: [kosher_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.private.md) 
 
-### [kosher_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.personal.md) 
+### #is_/same_as :: [kosher_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.personal.md) 
 
-### [kosher_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.secret.md)
+### #is_/same_as :: [kosher_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.secret.md)
 

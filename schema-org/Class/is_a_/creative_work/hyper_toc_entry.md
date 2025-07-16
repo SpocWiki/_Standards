@@ -47,17 +47,17 @@ A HyperToEntry is an item within a [[HyperToc]], which represents a hypertext ta
 
 ## Confidential Links & Embeds: 
 
-### [hyper_toc_entry](/_Standards/schema-org/Class/is_a_/creative_work/hyper_toc_entry.md) 
+### #is_/same_as :: [hyper_toc_entry](/_Standards/schema-org/Class/is_a_/creative_work/hyper_toc_entry.md) 
 
-### [hyper_toc_entry.public](/_public/schema-org/Class/is_a_/creative_work/hyper_toc_entry.public.md) 
+### #is_/same_as :: [hyper_toc_entry.public](/_public/schema-org/Class/is_a_/creative_work/hyper_toc_entry.public.md) 
 
-### [hyper_toc_entry.internal](/_internal/schema-org/Class/is_a_/creative_work/hyper_toc_entry.internal.md) 
+### #is_/same_as :: [hyper_toc_entry.internal](/_internal/schema-org/Class/is_a_/creative_work/hyper_toc_entry.internal.md) 
 
-### [hyper_toc_entry.protect](/_protect/schema-org/Class/is_a_/creative_work/hyper_toc_entry.protect.md) 
+### #is_/same_as :: [hyper_toc_entry.protect](/_protect/schema-org/Class/is_a_/creative_work/hyper_toc_entry.protect.md) 
 
-### [hyper_toc_entry.private](/_private/schema-org/Class/is_a_/creative_work/hyper_toc_entry.private.md) 
+### #is_/same_as :: [hyper_toc_entry.private](/_private/schema-org/Class/is_a_/creative_work/hyper_toc_entry.private.md) 
 
-### [hyper_toc_entry.personal](/_personal/schema-org/Class/is_a_/creative_work/hyper_toc_entry.personal.md) 
+### #is_/same_as :: [hyper_toc_entry.personal](/_personal/schema-org/Class/is_a_/creative_work/hyper_toc_entry.personal.md) 
 
-### [hyper_toc_entry.secret](/_secret/schema-org/Class/is_a_/creative_work/hyper_toc_entry.secret.md)
+### #is_/same_as :: [hyper_toc_entry.secret](/_secret/schema-org/Class/is_a_/creative_work/hyper_toc_entry.secret.md)
 

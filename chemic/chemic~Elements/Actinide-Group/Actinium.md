@@ -118,17 +118,17 @@ InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 
 ## Confidential Links & Embeds: 
 
-### [Actinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Actinium.md) 
+### #is_/same_as :: [Actinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Actinium.md) 
 
-### [Actinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Actinium.public.md) 
+### #is_/same_as :: [Actinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Actinium.public.md) 
 
-### [Actinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Actinium.internal.md) 
+### #is_/same_as :: [Actinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Actinium.internal.md) 
 
-### [Actinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Actinium.protect.md) 
+### #is_/same_as :: [Actinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Actinium.protect.md) 
 
-### [Actinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Actinium.private.md) 
+### #is_/same_as :: [Actinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Actinium.private.md) 
 
-### [Actinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Actinium.personal.md) 
+### #is_/same_as :: [Actinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Actinium.personal.md) 
 
-### [Actinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Actinium.secret.md)
+### #is_/same_as :: [Actinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Actinium.secret.md)
 

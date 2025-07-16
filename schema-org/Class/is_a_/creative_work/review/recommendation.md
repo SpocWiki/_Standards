@@ -47,17 +47,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [recommendation](/_Standards/schema-org/Class/is_a_/creative_work/review/recommendation.md) 
+### #is_/same_as :: [recommendation](/_Standards/schema-org/Class/is_a_/creative_work/review/recommendation.md) 
 
-### [recommendation.public](/_public/schema-org/Class/is_a_/creative_work/review/recommendation.public.md) 
+### #is_/same_as :: [recommendation.public](/_public/schema-org/Class/is_a_/creative_work/review/recommendation.public.md) 
 
-### [recommendation.internal](/_internal/schema-org/Class/is_a_/creative_work/review/recommendation.internal.md) 
+### #is_/same_as :: [recommendation.internal](/_internal/schema-org/Class/is_a_/creative_work/review/recommendation.internal.md) 
 
-### [recommendation.protect](/_protect/schema-org/Class/is_a_/creative_work/review/recommendation.protect.md) 
+### #is_/same_as :: [recommendation.protect](/_protect/schema-org/Class/is_a_/creative_work/review/recommendation.protect.md) 
 
-### [recommendation.private](/_private/schema-org/Class/is_a_/creative_work/review/recommendation.private.md) 
+### #is_/same_as :: [recommendation.private](/_private/schema-org/Class/is_a_/creative_work/review/recommendation.private.md) 
 
-### [recommendation.personal](/_personal/schema-org/Class/is_a_/creative_work/review/recommendation.personal.md) 
+### #is_/same_as :: [recommendation.personal](/_personal/schema-org/Class/is_a_/creative_work/review/recommendation.personal.md) 
 
-### [recommendation.secret](/_secret/schema-org/Class/is_a_/creative_work/review/recommendation.secret.md)
+### #is_/same_as :: [recommendation.secret](/_secret/schema-org/Class/is_a_/creative_work/review/recommendation.secret.md)
 

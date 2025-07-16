@@ -47,17 +47,17 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 ## Confidential Links & Embeds: 
 
-### [medical_risk_estimator](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.md) 
+### #is_/same_as :: [medical_risk_estimator](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.md) 
 
-### [medical_risk_estimator.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.public.md) 
+### #is_/same_as :: [medical_risk_estimator.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.public.md) 
 
-### [medical_risk_estimator.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.internal.md) 
+### #is_/same_as :: [medical_risk_estimator.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.internal.md) 
 
-### [medical_risk_estimator.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.protect.md) 
+### #is_/same_as :: [medical_risk_estimator.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.protect.md) 
 
-### [medical_risk_estimator.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.private.md) 
+### #is_/same_as :: [medical_risk_estimator.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.private.md) 
 
-### [medical_risk_estimator.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.personal.md) 
+### #is_/same_as :: [medical_risk_estimator.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.personal.md) 
 
-### [medical_risk_estimator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.secret.md)
+### #is_/same_as :: [medical_risk_estimator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.secret.md)
 

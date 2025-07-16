@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sign_detected](/_Standards/schema-org/Relation/has/has_sign_detected.md) 
+### #is_/same_as :: [has_sign_detected](/_Standards/schema-org/Relation/has/has_sign_detected.md) 
 
-### [has_sign_detected.public](/_public/schema-org/Relation/has/has_sign_detected.public.md) 
+### #is_/same_as :: [has_sign_detected.public](/_public/schema-org/Relation/has/has_sign_detected.public.md) 
 
-### [has_sign_detected.internal](/_internal/schema-org/Relation/has/has_sign_detected.internal.md) 
+### #is_/same_as :: [has_sign_detected.internal](/_internal/schema-org/Relation/has/has_sign_detected.internal.md) 
 
-### [has_sign_detected.protect](/_protect/schema-org/Relation/has/has_sign_detected.protect.md) 
+### #is_/same_as :: [has_sign_detected.protect](/_protect/schema-org/Relation/has/has_sign_detected.protect.md) 
 
-### [has_sign_detected.private](/_private/schema-org/Relation/has/has_sign_detected.private.md) 
+### #is_/same_as :: [has_sign_detected.private](/_private/schema-org/Relation/has/has_sign_detected.private.md) 
 
-### [has_sign_detected.personal](/_personal/schema-org/Relation/has/has_sign_detected.personal.md) 
+### #is_/same_as :: [has_sign_detected.personal](/_personal/schema-org/Relation/has/has_sign_detected.personal.md) 
 
-### [has_sign_detected.secret](/_secret/schema-org/Relation/has/has_sign_detected.secret.md)
+### #is_/same_as :: [has_sign_detected.secret](/_secret/schema-org/Relation/has/has_sign_detected.secret.md)
 

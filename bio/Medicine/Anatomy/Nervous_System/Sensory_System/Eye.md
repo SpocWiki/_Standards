@@ -75,22 +75,19 @@ Commons_gallery: Eye
 > 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Eye](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.md) 
+### #is_/same_as :: [Eye](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.md) 
 
-### [Eye.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.public.md) 
+### #is_/same_as :: [Eye.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.public.md) 
 
-### [Eye.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.internal.md) 
+### #is_/same_as :: [Eye.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.internal.md) 
 
-### [Eye.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.protect.md) 
+### #is_/same_as :: [Eye.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.protect.md) 
 
-### [Eye.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.private.md) 
+### #is_/same_as :: [Eye.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.private.md) 
 
-### [Eye.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.personal.md) 
+### #is_/same_as :: [Eye.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.personal.md) 
 
-### [Eye.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.secret.md)
+### #is_/same_as :: [Eye.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.secret.md)
 

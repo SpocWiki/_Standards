@@ -118,17 +118,17 @@ DSSTOX_compound_identifier: DTXCID5047661
 
 ## Confidential Links & Embeds: 
 
-### [Gallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Gallium.md) 
+### #is_/same_as :: [Gallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Gallium.md) 
 
-### [Gallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Gallium.public.md) 
+### #is_/same_as :: [Gallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Gallium.public.md) 
 
-### [Gallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Gallium.internal.md) 
+### #is_/same_as :: [Gallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Gallium.internal.md) 
 
-### [Gallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Gallium.protect.md) 
+### #is_/same_as :: [Gallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Gallium.protect.md) 
 
-### [Gallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Gallium.private.md) 
+### #is_/same_as :: [Gallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Gallium.private.md) 
 
-### [Gallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Gallium.personal.md) 
+### #is_/same_as :: [Gallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Gallium.personal.md) 
 
-### [Gallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Gallium.secret.md)
+### #is_/same_as :: [Gallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Gallium.secret.md)
 

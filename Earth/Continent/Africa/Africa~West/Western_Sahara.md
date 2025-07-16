@@ -242,17 +242,17 @@ Capital :: [[El_Aaiún_(Laâyoune)]]
 
 ## Confidential Links & Embeds: 
 
-### [Western_Sahara](/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara.md) 
+### #is_/same_as :: [Western_Sahara](/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara.md) 
 
-### [Western_Sahara.public](/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public.md) 
+### #is_/same_as :: [Western_Sahara.public](/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public.md) 
 
-### [Western_Sahara.internal](/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal.md) 
+### #is_/same_as :: [Western_Sahara.internal](/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal.md) 
 
-### [Western_Sahara.protect](/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect.md) 
+### #is_/same_as :: [Western_Sahara.protect](/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect.md) 
 
-### [Western_Sahara.private](/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private.md) 
+### #is_/same_as :: [Western_Sahara.private](/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private.md) 
 
-### [Western_Sahara.personal](/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal.md) 
+### #is_/same_as :: [Western_Sahara.personal](/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal.md) 
 
-### [Western_Sahara.secret](/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret.md)
+### #is_/same_as :: [Western_Sahara.secret](/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret.md)
 

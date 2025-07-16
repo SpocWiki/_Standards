@@ -137,17 +137,17 @@ ToRecipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Message](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.md) 
+### #is_/same_as :: [FileClass~Message](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.md) 
 
-### [FileClass~Message.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.public.md) 
+### #is_/same_as :: [FileClass~Message.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.public.md) 
 
-### [FileClass~Message.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.internal.md) 
+### #is_/same_as :: [FileClass~Message.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.internal.md) 
 
-### [FileClass~Message.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.protect.md) 
+### #is_/same_as :: [FileClass~Message.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.protect.md) 
 
-### [FileClass~Message.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.private.md) 
+### #is_/same_as :: [FileClass~Message.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.private.md) 
 
-### [FileClass~Message.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.personal.md) 
+### #is_/same_as :: [FileClass~Message.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.personal.md) 
 
-### [FileClass~Message.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.secret.md)
+### #is_/same_as :: [FileClass~Message.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.secret.md)
 

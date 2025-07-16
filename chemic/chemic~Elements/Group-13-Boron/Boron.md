@@ -113,17 +113,17 @@ CAS_Registry_Number: 7440-42-8
 
 ## Confidential Links & Embeds: 
 
-### [Boron](/_Standards/chemic/chemic~Elements/Group-13-Boron/Boron.md) 
+### #is_/same_as :: [Boron](/_Standards/chemic/chemic~Elements/Group-13-Boron/Boron.md) 
 
-### [Boron.public](/_public/chemic/chemic~Elements/Group-13-Boron/Boron.public.md) 
+### #is_/same_as :: [Boron.public](/_public/chemic/chemic~Elements/Group-13-Boron/Boron.public.md) 
 
-### [Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Boron.internal.md) 
+### #is_/same_as :: [Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Boron.internal.md) 
 
-### [Boron.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Boron.protect.md) 
+### #is_/same_as :: [Boron.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Boron.protect.md) 
 
-### [Boron.private](/_private/chemic/chemic~Elements/Group-13-Boron/Boron.private.md) 
+### #is_/same_as :: [Boron.private](/_private/chemic/chemic~Elements/Group-13-Boron/Boron.private.md) 
 
-### [Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Boron.personal.md) 
+### #is_/same_as :: [Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Boron.personal.md) 
 
-### [Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Boron.secret.md)
+### #is_/same_as :: [Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Boron.secret.md)
 

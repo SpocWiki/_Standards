@@ -100,17 +100,17 @@ Unicode_character: 砈
 
 ## Confidential Links & Embeds: 
 
-### [Astatine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Astatine.md) 
+### #is_/same_as :: [Astatine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Astatine.md) 
 
-### [Astatine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Astatine.public.md) 
+### #is_/same_as :: [Astatine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Astatine.public.md) 
 
-### [Astatine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Astatine.internal.md) 
+### #is_/same_as :: [Astatine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Astatine.internal.md) 
 
-### [Astatine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Astatine.protect.md) 
+### #is_/same_as :: [Astatine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Astatine.protect.md) 
 
-### [Astatine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Astatine.private.md) 
+### #is_/same_as :: [Astatine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Astatine.private.md) 
 
-### [Astatine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Astatine.personal.md) 
+### #is_/same_as :: [Astatine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Astatine.personal.md) 
 
-### [Astatine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Astatine.secret.md)
+### #is_/same_as :: [Astatine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Astatine.secret.md)
 

@@ -47,17 +47,17 @@ Indicates that the item has limited availability.
 
 ## Confidential Links & Embeds: 
 
-### [limited_availability](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.md) 
+### #is_/same_as :: [limited_availability](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.md) 
 
-### [limited_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.public.md) 
+### #is_/same_as :: [limited_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.public.md) 
 
-### [limited_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.internal.md) 
+### #is_/same_as :: [limited_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.internal.md) 
 
-### [limited_availability.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.protect.md) 
+### #is_/same_as :: [limited_availability.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.protect.md) 
 
-### [limited_availability.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.private.md) 
+### #is_/same_as :: [limited_availability.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.private.md) 
 
-### [limited_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.personal.md) 
+### #is_/same_as :: [limited_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.personal.md) 
 
-### [limited_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.secret.md)
+### #is_/same_as :: [limited_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.secret.md)
 

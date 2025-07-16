@@ -15,17 +15,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### [Group-11-Copper](/_Standards/chemic/chemic~Elements/Group-11-Copper.md) 
+### #is_/same_as :: [Group-11-Copper](/_Standards/chemic/chemic~Elements/Group-11-Copper.md) 
 
-### [Group-11-Copper.public](/_public/chemic/chemic~Elements/Group-11-Copper.public.md) 
+### #is_/same_as :: [Group-11-Copper.public](/_public/chemic/chemic~Elements/Group-11-Copper.public.md) 
 
-### [Group-11-Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper.internal.md) 
+### #is_/same_as :: [Group-11-Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper.internal.md) 
 
-### [Group-11-Copper.protect](/_protect/chemic/chemic~Elements/Group-11-Copper.protect.md) 
+### #is_/same_as :: [Group-11-Copper.protect](/_protect/chemic/chemic~Elements/Group-11-Copper.protect.md) 
 
-### [Group-11-Copper.private](/_private/chemic/chemic~Elements/Group-11-Copper.private.md) 
+### #is_/same_as :: [Group-11-Copper.private](/_private/chemic/chemic~Elements/Group-11-Copper.private.md) 
 
-### [Group-11-Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper.personal.md) 
+### #is_/same_as :: [Group-11-Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper.personal.md) 
 
-### [Group-11-Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper.secret.md)
+### #is_/same_as :: [Group-11-Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper.secret.md)
 

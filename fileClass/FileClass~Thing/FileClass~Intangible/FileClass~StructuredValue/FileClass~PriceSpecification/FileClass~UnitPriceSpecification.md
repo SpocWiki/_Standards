@@ -107,17 +107,17 @@ UnitText:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~UnitPriceSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.md) 
+### #is_/same_as :: [FileClass~UnitPriceSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.md) 
 
-### [FileClass~UnitPriceSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.public.md) 
+### #is_/same_as :: [FileClass~UnitPriceSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.public.md) 
 
-### [FileClass~UnitPriceSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.internal.md) 
+### #is_/same_as :: [FileClass~UnitPriceSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.internal.md) 
 
-### [FileClass~UnitPriceSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.protect.md) 
+### #is_/same_as :: [FileClass~UnitPriceSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.protect.md) 
 
-### [FileClass~UnitPriceSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.private.md) 
+### #is_/same_as :: [FileClass~UnitPriceSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.private.md) 
 
-### [FileClass~UnitPriceSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.personal.md) 
+### #is_/same_as :: [FileClass~UnitPriceSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.personal.md) 
 
-### [FileClass~UnitPriceSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.secret.md)
+### #is_/same_as :: [FileClass~UnitPriceSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~UnitPriceSpecification.secret.md)
 

@@ -621,17 +621,17 @@ Capital ::[[Austria/Austrias_States/Wien,State/Wien,City]]]
 
 ## Confidential Links & Embeds: 
 
-### [Austria](/_Standards/Earth/Continent/Europe/Europe~Central/Austria.md) 
+### #is_/same_as :: [Austria](/_Standards/Earth/Continent/Europe/Europe~Central/Austria.md) 
 
-### [Austria.public](/_public/Earth/Continent/Europe/Europe~Central/Austria.public.md) 
+### #is_/same_as :: [Austria.public](/_public/Earth/Continent/Europe/Europe~Central/Austria.public.md) 
 
-### [Austria.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria.internal.md) 
+### #is_/same_as :: [Austria.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria.internal.md) 
 
-### [Austria.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria.protect.md) 
+### #is_/same_as :: [Austria.protect](/_protect/Earth/Continent/Europe/Europe~Central/Austria.protect.md) 
 
-### [Austria.private](/_private/Earth/Continent/Europe/Europe~Central/Austria.private.md) 
+### #is_/same_as :: [Austria.private](/_private/Earth/Continent/Europe/Europe~Central/Austria.private.md) 
 
-### [Austria.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria.personal.md) 
+### #is_/same_as :: [Austria.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria.personal.md) 
 
-### [Austria.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria.secret.md)
+### #is_/same_as :: [Austria.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria.secret.md)
 

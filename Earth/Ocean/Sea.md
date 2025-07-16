@@ -54,17 +54,17 @@ GeoNames_feature_code: H.SEA
 
 ## Confidential Links & Embeds: 
 
-### [Sea](/_Standards/Earth/Ocean/Sea.md) 
+### #is_/same_as :: [Sea](/_Standards/Earth/Ocean/Sea.md) 
 
-### [Sea.public](/_public/Earth/Ocean/Sea.public.md) 
+### #is_/same_as :: [Sea.public](/_public/Earth/Ocean/Sea.public.md) 
 
-### [Sea.internal](/_internal/Earth/Ocean/Sea.internal.md) 
+### #is_/same_as :: [Sea.internal](/_internal/Earth/Ocean/Sea.internal.md) 
 
-### [Sea.protect](/_protect/Earth/Ocean/Sea.protect.md) 
+### #is_/same_as :: [Sea.protect](/_protect/Earth/Ocean/Sea.protect.md) 
 
-### [Sea.private](/_private/Earth/Ocean/Sea.private.md) 
+### #is_/same_as :: [Sea.private](/_private/Earth/Ocean/Sea.private.md) 
 
-### [Sea.personal](/_personal/Earth/Ocean/Sea.personal.md) 
+### #is_/same_as :: [Sea.personal](/_personal/Earth/Ocean/Sea.personal.md) 
 
-### [Sea.secret](/_secret/Earth/Ocean/Sea.secret.md)
+### #is_/same_as :: [Sea.secret](/_secret/Earth/Ocean/Sea.secret.md)
 

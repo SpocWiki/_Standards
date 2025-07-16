@@ -58,25 +58,19 @@ His Novels were used to educate children on Technology.
 > [Wikipedia](https://en.wikipedia.org/wiki/Jules%20Verne) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Verne,Jules](/_Standards/bio/People/Writer/Modern_Writers/Verne,Jules.md) 
+### #is_/same_as :: [Verne,Jules](/_Standards/bio/People/Writer/Modern_Writers/Verne,Jules.md) 
 
-### [Verne,Jules.public](/_public/bio/People/Writer/Modern_Writers/Verne,Jules.public.md) 
+### #is_/same_as :: [Verne,Jules.public](/_public/bio/People/Writer/Modern_Writers/Verne,Jules.public.md) 
 
-### [Verne,Jules.internal](/_internal/bio/People/Writer/Modern_Writers/Verne,Jules.internal.md) 
+### #is_/same_as :: [Verne,Jules.internal](/_internal/bio/People/Writer/Modern_Writers/Verne,Jules.internal.md) 
 
-### [Verne,Jules.protect](/_protect/bio/People/Writer/Modern_Writers/Verne,Jules.protect.md) 
+### #is_/same_as :: [Verne,Jules.protect](/_protect/bio/People/Writer/Modern_Writers/Verne,Jules.protect.md) 
 
-### [Verne,Jules.private](/_private/bio/People/Writer/Modern_Writers/Verne,Jules.private.md) 
+### #is_/same_as :: [Verne,Jules.private](/_private/bio/People/Writer/Modern_Writers/Verne,Jules.private.md) 
 
-### [Verne,Jules.personal](/_personal/bio/People/Writer/Modern_Writers/Verne,Jules.personal.md) 
+### #is_/same_as :: [Verne,Jules.personal](/_personal/bio/People/Writer/Modern_Writers/Verne,Jules.personal.md) 
 
-### [Verne,Jules.secret](/_secret/bio/People/Writer/Modern_Writers/Verne,Jules.secret.md)
+### #is_/same_as :: [Verne,Jules.secret](/_secret/bio/People/Writer/Modern_Writers/Verne,Jules.secret.md)
 

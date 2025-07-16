@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_recording_of](/_Standards/schema-org/Relation/has/has_recording_of.md) 
+### #is_/same_as :: [has_recording_of](/_Standards/schema-org/Relation/has/has_recording_of.md) 
 
-### [has_recording_of.public](/_public/schema-org/Relation/has/has_recording_of.public.md) 
+### #is_/same_as :: [has_recording_of.public](/_public/schema-org/Relation/has/has_recording_of.public.md) 
 
-### [has_recording_of.internal](/_internal/schema-org/Relation/has/has_recording_of.internal.md) 
+### #is_/same_as :: [has_recording_of.internal](/_internal/schema-org/Relation/has/has_recording_of.internal.md) 
 
-### [has_recording_of.protect](/_protect/schema-org/Relation/has/has_recording_of.protect.md) 
+### #is_/same_as :: [has_recording_of.protect](/_protect/schema-org/Relation/has/has_recording_of.protect.md) 
 
-### [has_recording_of.private](/_private/schema-org/Relation/has/has_recording_of.private.md) 
+### #is_/same_as :: [has_recording_of.private](/_private/schema-org/Relation/has/has_recording_of.private.md) 
 
-### [has_recording_of.personal](/_personal/schema-org/Relation/has/has_recording_of.personal.md) 
+### #is_/same_as :: [has_recording_of.personal](/_personal/schema-org/Relation/has/has_recording_of.personal.md) 
 
-### [has_recording_of.secret](/_secret/schema-org/Relation/has/has_recording_of.secret.md)
+### #is_/same_as :: [has_recording_of.secret](/_secret/schema-org/Relation/has/has_recording_of.secret.md)
 

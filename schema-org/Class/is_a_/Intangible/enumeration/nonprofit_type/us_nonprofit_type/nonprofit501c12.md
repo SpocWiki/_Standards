@@ -49,17 +49,17 @@ Nonprofit501c12: Non-profit type referring to Benevolent Life Insurance Associat
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c12](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.md) 
+### #is_/same_as :: [nonprofit501c12](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.md) 
 
-### [nonprofit501c12.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.public.md) 
+### #is_/same_as :: [nonprofit501c12.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.public.md) 
 
-### [nonprofit501c12.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.internal.md) 
+### #is_/same_as :: [nonprofit501c12.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.internal.md) 
 
-### [nonprofit501c12.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.protect.md) 
+### #is_/same_as :: [nonprofit501c12.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.protect.md) 
 
-### [nonprofit501c12.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.private.md) 
+### #is_/same_as :: [nonprofit501c12.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.private.md) 
 
-### [nonprofit501c12.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.personal.md) 
+### #is_/same_as :: [nonprofit501c12.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.personal.md) 
 
-### [nonprofit501c12.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.secret.md)
+### #is_/same_as :: [nonprofit501c12.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.secret.md)
 

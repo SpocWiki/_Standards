@@ -49,17 +49,17 @@ This is the equivalent of Atom's element as defined in Feed Paging and Archiving
 
 ## Confidential Links & Embeds: 
 
-### [complete_data_feed](/_Standards/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.md) 
+### #is_/same_as :: [complete_data_feed](/_Standards/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.md) 
 
-### [complete_data_feed.public](/_public/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.public.md) 
+### #is_/same_as :: [complete_data_feed.public](/_public/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.public.md) 
 
-### [complete_data_feed.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md) 
+### #is_/same_as :: [complete_data_feed.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md) 
 
-### [complete_data_feed.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md) 
+### #is_/same_as :: [complete_data_feed.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md) 
 
-### [complete_data_feed.private](/_private/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md) 
+### #is_/same_as :: [complete_data_feed.private](/_private/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md) 
 
-### [complete_data_feed.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md) 
+### #is_/same_as :: [complete_data_feed.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md) 
 
-### [complete_data_feed.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md)
+### #is_/same_as :: [complete_data_feed.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md)
 

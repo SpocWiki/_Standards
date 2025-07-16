@@ -35,17 +35,17 @@ Containing group: [Agaricomycetes](Agaricomycetes.md)
 
 ## Confidential Links & Embeds: 
 
-### [Atheliales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.md) 
+### #is_/same_as :: [Atheliales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.md) 
 
-### [Atheliales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.public.md) 
+### #is_/same_as :: [Atheliales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.public.md) 
 
-### [Atheliales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.internal.md) 
+### #is_/same_as :: [Atheliales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.internal.md) 
 
-### [Atheliales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.protect.md) 
+### #is_/same_as :: [Atheliales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.protect.md) 
 
-### [Atheliales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.private.md) 
+### #is_/same_as :: [Atheliales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.private.md) 
 
-### [Atheliales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.personal.md) 
+### #is_/same_as :: [Atheliales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.personal.md) 
 
-### [Atheliales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.secret.md)
+### #is_/same_as :: [Atheliales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.secret.md)
 

@@ -47,17 +47,17 @@ The event has been postponed and no new date has been set. The event's previousS
 
 ## Confidential Links & Embeds: 
 
-### [event_postponed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.md) 
+### #is_/same_as :: [event_postponed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.md) 
 
-### [event_postponed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.public.md) 
+### #is_/same_as :: [event_postponed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.public.md) 
 
-### [event_postponed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal.md) 
+### #is_/same_as :: [event_postponed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal.md) 
 
-### [event_postponed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.protect.md) 
+### #is_/same_as :: [event_postponed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.protect.md) 
 
-### [event_postponed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.private.md) 
+### #is_/same_as :: [event_postponed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.private.md) 
 
-### [event_postponed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal.md) 
+### #is_/same_as :: [event_postponed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal.md) 
 
-### [event_postponed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md)
+### #is_/same_as :: [event_postponed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md)
 

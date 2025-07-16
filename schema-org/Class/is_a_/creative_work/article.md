@@ -75,17 +75,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### [article](/_Standards/schema-org/Class/is_a_/creative_work/article.md) 
+### #is_/same_as :: [article](/_Standards/schema-org/Class/is_a_/creative_work/article.md) 
 
-### [article.public](/_public/schema-org/Class/is_a_/creative_work/article.public.md) 
+### #is_/same_as :: [article.public](/_public/schema-org/Class/is_a_/creative_work/article.public.md) 
 
-### [article.internal](/_internal/schema-org/Class/is_a_/creative_work/article.internal.md) 
+### #is_/same_as :: [article.internal](/_internal/schema-org/Class/is_a_/creative_work/article.internal.md) 
 
-### [article.protect](/_protect/schema-org/Class/is_a_/creative_work/article.protect.md) 
+### #is_/same_as :: [article.protect](/_protect/schema-org/Class/is_a_/creative_work/article.protect.md) 
 
-### [article.private](/_private/schema-org/Class/is_a_/creative_work/article.private.md) 
+### #is_/same_as :: [article.private](/_private/schema-org/Class/is_a_/creative_work/article.private.md) 
 
-### [article.personal](/_personal/schema-org/Class/is_a_/creative_work/article.personal.md) 
+### #is_/same_as :: [article.personal](/_personal/schema-org/Class/is_a_/creative_work/article.personal.md) 
 
-### [article.secret](/_secret/schema-org/Class/is_a_/creative_work/article.secret.md)
+### #is_/same_as :: [article.secret](/_secret/schema-org/Class/is_a_/creative_work/article.secret.md)
 

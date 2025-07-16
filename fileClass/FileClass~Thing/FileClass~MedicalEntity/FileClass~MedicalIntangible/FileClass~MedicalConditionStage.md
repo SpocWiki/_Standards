@@ -55,17 +55,17 @@ SubStageSuffix:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalConditionStage](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.md) 
+### #is_/same_as :: [FileClass~MedicalConditionStage](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.md) 
 
-### [FileClass~MedicalConditionStage.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.public.md) 
+### #is_/same_as :: [FileClass~MedicalConditionStage.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.public.md) 
 
-### [FileClass~MedicalConditionStage.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.internal.md) 
+### #is_/same_as :: [FileClass~MedicalConditionStage.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.internal.md) 
 
-### [FileClass~MedicalConditionStage.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.protect.md) 
+### #is_/same_as :: [FileClass~MedicalConditionStage.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.protect.md) 
 
-### [FileClass~MedicalConditionStage.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.private.md) 
+### #is_/same_as :: [FileClass~MedicalConditionStage.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.private.md) 
 
-### [FileClass~MedicalConditionStage.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.personal.md) 
+### #is_/same_as :: [FileClass~MedicalConditionStage.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.personal.md) 
 
-### [FileClass~MedicalConditionStage.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.secret.md)
+### #is_/same_as :: [FileClass~MedicalConditionStage.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.secret.md)
 

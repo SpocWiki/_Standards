@@ -114,21 +114,19 @@ NRV = Nährstoffbezugswerte für die tägliche Zufuhr gemäß Lebensmittelinform
 - Überzugsmittel
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Vitamin](/_Standards/bio/Metabolism/Nutrition/Vitamin.md) 
+### #is_/same_as :: [Vitamin](/_Standards/bio/Metabolism/Nutrition/Vitamin.md) 
 
-### [Vitamin.public](/_public/bio/Metabolism/Nutrition/Vitamin.public.md) 
+### #is_/same_as :: [Vitamin.public](/_public/bio/Metabolism/Nutrition/Vitamin.public.md) 
 
-### [Vitamin.internal](/_internal/bio/Metabolism/Nutrition/Vitamin.internal.md) 
+### #is_/same_as :: [Vitamin.internal](/_internal/bio/Metabolism/Nutrition/Vitamin.internal.md) 
 
-### [Vitamin.protect](/_protect/bio/Metabolism/Nutrition/Vitamin.protect.md) 
+### #is_/same_as :: [Vitamin.protect](/_protect/bio/Metabolism/Nutrition/Vitamin.protect.md) 
 
-### [Vitamin.private](/_private/bio/Metabolism/Nutrition/Vitamin.private.md) 
+### #is_/same_as :: [Vitamin.private](/_private/bio/Metabolism/Nutrition/Vitamin.private.md) 
 
-### [Vitamin.personal](/_personal/bio/Metabolism/Nutrition/Vitamin.personal.md) 
+### #is_/same_as :: [Vitamin.personal](/_personal/bio/Metabolism/Nutrition/Vitamin.personal.md) 
 
-### [Vitamin.secret](/_secret/bio/Metabolism/Nutrition/Vitamin.secret.md)
+### #is_/same_as :: [Vitamin.secret](/_secret/bio/Metabolism/Nutrition/Vitamin.secret.md)
 

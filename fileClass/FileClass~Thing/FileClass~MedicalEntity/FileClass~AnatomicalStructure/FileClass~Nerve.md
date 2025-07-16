@@ -68,17 +68,17 @@ SourcedFrom:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Nerve](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.md) 
+### #is_/same_as :: [FileClass~Nerve](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.md) 
 
-### [FileClass~Nerve.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.public.md) 
+### #is_/same_as :: [FileClass~Nerve.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.public.md) 
 
-### [FileClass~Nerve.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.internal.md) 
+### #is_/same_as :: [FileClass~Nerve.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.internal.md) 
 
-### [FileClass~Nerve.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.protect.md) 
+### #is_/same_as :: [FileClass~Nerve.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.protect.md) 
 
-### [FileClass~Nerve.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.private.md) 
+### #is_/same_as :: [FileClass~Nerve.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.private.md) 
 
-### [FileClass~Nerve.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.personal.md) 
+### #is_/same_as :: [FileClass~Nerve.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.personal.md) 
 
-### [FileClass~Nerve.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.secret.md)
+### #is_/same_as :: [FileClass~Nerve.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.secret.md)
 

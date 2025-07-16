@@ -45,17 +45,17 @@ Enumerates types (or dimensions) of a person's body measurements, for example fo
 
 ## Confidential Links & Embeds: 
 
-### [body_measurement_type_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md) 
+### #is_/same_as :: [body_measurement_type_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md) 
 
-### [body_measurement_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.public.md) 
+### #is_/same_as :: [body_measurement_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.public.md) 
 
-### [body_measurement_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.internal.md) 
+### #is_/same_as :: [body_measurement_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.internal.md) 
 
-### [body_measurement_type_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.protect.md) 
+### #is_/same_as :: [body_measurement_type_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.protect.md) 
 
-### [body_measurement_type_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.private.md) 
+### #is_/same_as :: [body_measurement_type_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.private.md) 
 
-### [body_measurement_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.personal.md) 
+### #is_/same_as :: [body_measurement_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.personal.md) 
 
-### [body_measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.secret.md)
+### #is_/same_as :: [body_measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.secret.md)
 

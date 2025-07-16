@@ -494,17 +494,17 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 
 ## Confidential Links & Embeds: 
 
-### [Angola](/_Standards/Earth/Continent/Africa/Africa~South/Angola.md) 
+### #is_/same_as :: [Angola](/_Standards/Earth/Continent/Africa/Africa~South/Angola.md) 
 
-### [Angola.public](/_public/Earth/Continent/Africa/Africa~South/Angola.public.md) 
+### #is_/same_as :: [Angola.public](/_public/Earth/Continent/Africa/Africa~South/Angola.public.md) 
 
-### [Angola.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola.internal.md) 
+### #is_/same_as :: [Angola.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola.internal.md) 
 
-### [Angola.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola.protect.md) 
+### #is_/same_as :: [Angola.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola.protect.md) 
 
-### [Angola.private](/_private/Earth/Continent/Africa/Africa~South/Angola.private.md) 
+### #is_/same_as :: [Angola.private](/_private/Earth/Continent/Africa/Africa~South/Angola.private.md) 
 
-### [Angola.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola.personal.md) 
+### #is_/same_as :: [Angola.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola.personal.md) 
 
-### [Angola.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola.secret.md)
+### #is_/same_as :: [Angola.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola.secret.md)
 

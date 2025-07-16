@@ -35,17 +35,17 @@ Quiz: A test of knowledge, skills and abilities.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Quiz](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.md) 
+### #is_/same_as :: [FileClass~Quiz](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.md) 
 
-### [FileClass~Quiz.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.public.md) 
+### #is_/same_as :: [FileClass~Quiz.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.public.md) 
 
-### [FileClass~Quiz.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.internal.md) 
+### #is_/same_as :: [FileClass~Quiz.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.internal.md) 
 
-### [FileClass~Quiz.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.protect.md) 
+### #is_/same_as :: [FileClass~Quiz.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.protect.md) 
 
-### [FileClass~Quiz.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.private.md) 
+### #is_/same_as :: [FileClass~Quiz.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.private.md) 
 
-### [FileClass~Quiz.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.personal.md) 
+### #is_/same_as :: [FileClass~Quiz.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.personal.md) 
 
-### [FileClass~Quiz.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.secret.md)
+### #is_/same_as :: [FileClass~Quiz.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.secret.md)
 

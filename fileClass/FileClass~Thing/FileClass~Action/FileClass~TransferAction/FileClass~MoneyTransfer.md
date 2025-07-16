@@ -56,17 +56,17 @@ BeneficiaryBank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MoneyTransfer](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.md) 
+### #is_/same_as :: [FileClass~MoneyTransfer](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.md) 
 
-### [FileClass~MoneyTransfer.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.public.md) 
+### #is_/same_as :: [FileClass~MoneyTransfer.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.public.md) 
 
-### [FileClass~MoneyTransfer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.internal.md) 
+### #is_/same_as :: [FileClass~MoneyTransfer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.internal.md) 
 
-### [FileClass~MoneyTransfer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.protect.md) 
+### #is_/same_as :: [FileClass~MoneyTransfer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.protect.md) 
 
-### [FileClass~MoneyTransfer.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.private.md) 
+### #is_/same_as :: [FileClass~MoneyTransfer.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.private.md) 
 
-### [FileClass~MoneyTransfer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.personal.md) 
+### #is_/same_as :: [FileClass~MoneyTransfer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.personal.md) 
 
-### [FileClass~MoneyTransfer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.secret.md)
+### #is_/same_as :: [FileClass~MoneyTransfer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.secret.md)
 

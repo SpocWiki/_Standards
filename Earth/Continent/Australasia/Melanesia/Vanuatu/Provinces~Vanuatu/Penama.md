@@ -41,17 +41,17 @@ markerFolder: ./Penama/
 
 ## Confidential Links & Embeds: 
 
-### [Penama](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.md) 
+### #is_/same_as :: [Penama](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.md) 
 
-### [Penama.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.public.md) 
+### #is_/same_as :: [Penama.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.public.md) 
 
-### [Penama.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.internal.md) 
+### #is_/same_as :: [Penama.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.internal.md) 
 
-### [Penama.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.protect.md) 
+### #is_/same_as :: [Penama.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.protect.md) 
 
-### [Penama.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.private.md) 
+### #is_/same_as :: [Penama.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.private.md) 
 
-### [Penama.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.personal.md) 
+### #is_/same_as :: [Penama.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.personal.md) 
 
-### [Penama.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.secret.md)
+### #is_/same_as :: [Penama.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.secret.md)
 

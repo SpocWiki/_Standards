@@ -50,17 +50,17 @@ Use properties from [[Organization]], [[subOrganization]]/[[parentOrganization]]
 
 ## Confidential Links & Embeds: 
 
-### [project](/_Standards/schema-org/Class/is_a_/organization/project.md) 
+### #is_/same_as :: [project](/_Standards/schema-org/Class/is_a_/organization/project.md) 
 
-### [project.public](/_public/schema-org/Class/is_a_/organization/project.public.md) 
+### #is_/same_as :: [project.public](/_public/schema-org/Class/is_a_/organization/project.public.md) 
 
-### [project.internal](/_internal/schema-org/Class/is_a_/organization/project.internal.md) 
+### #is_/same_as :: [project.internal](/_internal/schema-org/Class/is_a_/organization/project.internal.md) 
 
-### [project.protect](/_protect/schema-org/Class/is_a_/organization/project.protect.md) 
+### #is_/same_as :: [project.protect](/_protect/schema-org/Class/is_a_/organization/project.protect.md) 
 
-### [project.private](/_private/schema-org/Class/is_a_/organization/project.private.md) 
+### #is_/same_as :: [project.private](/_private/schema-org/Class/is_a_/organization/project.private.md) 
 
-### [project.personal](/_personal/schema-org/Class/is_a_/organization/project.personal.md) 
+### #is_/same_as :: [project.personal](/_personal/schema-org/Class/is_a_/organization/project.personal.md) 
 
-### [project.secret](/_secret/schema-org/Class/is_a_/organization/project.secret.md)
+### #is_/same_as :: [project.secret](/_secret/schema-org/Class/is_a_/organization/project.secret.md)
 

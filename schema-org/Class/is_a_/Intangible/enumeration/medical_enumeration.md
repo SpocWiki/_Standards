@@ -45,17 +45,17 @@ Enumerations related to health and the practice of medicine: A concept that is u
 
 ## Confidential Links & Embeds: 
 
-### [medical_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.md) 
+### #is_/same_as :: [medical_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.md) 
 
-### [medical_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.public.md) 
+### #is_/same_as :: [medical_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.public.md) 
 
-### [medical_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.internal.md) 
+### #is_/same_as :: [medical_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.internal.md) 
 
-### [medical_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.protect.md) 
+### #is_/same_as :: [medical_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.protect.md) 
 
-### [medical_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.private.md) 
+### #is_/same_as :: [medical_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.private.md) 
 
-### [medical_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.personal.md) 
+### #is_/same_as :: [medical_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.personal.md) 
 
-### [medical_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.secret.md)
+### #is_/same_as :: [medical_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration.secret.md)
 

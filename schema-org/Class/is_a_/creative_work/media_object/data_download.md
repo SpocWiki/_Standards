@@ -47,17 +47,17 @@ All or part of a [[Dataset]] in downloadable form.
 
 ## Confidential Links & Embeds: 
 
-### [data_download](/_Standards/schema-org/Class/is_a_/creative_work/media_object/data_download.md) 
+### #is_/same_as :: [data_download](/_Standards/schema-org/Class/is_a_/creative_work/media_object/data_download.md) 
 
-### [data_download.public](/_public/schema-org/Class/is_a_/creative_work/media_object/data_download.public.md) 
+### #is_/same_as :: [data_download.public](/_public/schema-org/Class/is_a_/creative_work/media_object/data_download.public.md) 
 
-### [data_download.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/data_download.internal.md) 
+### #is_/same_as :: [data_download.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/data_download.internal.md) 
 
-### [data_download.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/data_download.protect.md) 
+### #is_/same_as :: [data_download.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/data_download.protect.md) 
 
-### [data_download.private](/_private/schema-org/Class/is_a_/creative_work/media_object/data_download.private.md) 
+### #is_/same_as :: [data_download.private](/_private/schema-org/Class/is_a_/creative_work/media_object/data_download.private.md) 
 
-### [data_download.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/data_download.personal.md) 
+### #is_/same_as :: [data_download.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/data_download.personal.md) 
 
-### [data_download.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/data_download.secret.md)
+### #is_/same_as :: [data_download.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/data_download.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_role_biological](/_Standards/schema-org/Relation/has/has_role_biological.md) 
+### #is_/same_as :: [has_role_biological](/_Standards/schema-org/Relation/has/has_role_biological.md) 
 
-### [has_role_biological.public](/_public/schema-org/Relation/has/has_role_biological.public.md) 
+### #is_/same_as :: [has_role_biological.public](/_public/schema-org/Relation/has/has_role_biological.public.md) 
 
-### [has_role_biological.internal](/_internal/schema-org/Relation/has/has_role_biological.internal.md) 
+### #is_/same_as :: [has_role_biological.internal](/_internal/schema-org/Relation/has/has_role_biological.internal.md) 
 
-### [has_role_biological.protect](/_protect/schema-org/Relation/has/has_role_biological.protect.md) 
+### #is_/same_as :: [has_role_biological.protect](/_protect/schema-org/Relation/has/has_role_biological.protect.md) 
 
-### [has_role_biological.private](/_private/schema-org/Relation/has/has_role_biological.private.md) 
+### #is_/same_as :: [has_role_biological.private](/_private/schema-org/Relation/has/has_role_biological.private.md) 
 
-### [has_role_biological.personal](/_personal/schema-org/Relation/has/has_role_biological.personal.md) 
+### #is_/same_as :: [has_role_biological.personal](/_personal/schema-org/Relation/has/has_role_biological.personal.md) 
 
-### [has_role_biological.secret](/_secret/schema-org/Relation/has/has_role_biological.secret.md)
+### #is_/same_as :: [has_role_biological.secret](/_secret/schema-org/Relation/has/has_role_biological.secret.md)
 

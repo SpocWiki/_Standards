@@ -65,17 +65,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### [Communication](/_Standards/bio/Society/Communication.md) 
+### #is_/same_as :: [Communication](/_Standards/bio/Society/Communication.md) 
 
-### [Communication.public](/_public/bio/Society/Communication.public.md) 
+### #is_/same_as :: [Communication.public](/_public/bio/Society/Communication.public.md) 
 
-### [Communication.internal](/_internal/bio/Society/Communication.internal.md) 
+### #is_/same_as :: [Communication.internal](/_internal/bio/Society/Communication.internal.md) 
 
-### [Communication.protect](/_protect/bio/Society/Communication.protect.md) 
+### #is_/same_as :: [Communication.protect](/_protect/bio/Society/Communication.protect.md) 
 
-### [Communication.private](/_private/bio/Society/Communication.private.md) 
+### #is_/same_as :: [Communication.private](/_private/bio/Society/Communication.private.md) 
 
-### [Communication.personal](/_personal/bio/Society/Communication.personal.md) 
+### #is_/same_as :: [Communication.personal](/_personal/bio/Society/Communication.personal.md) 
 
-### [Communication.secret](/_secret/bio/Society/Communication.secret.md)
+### #is_/same_as :: [Communication.secret](/_secret/bio/Society/Communication.secret.md)
 

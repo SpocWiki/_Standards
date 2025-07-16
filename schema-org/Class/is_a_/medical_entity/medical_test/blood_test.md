@@ -45,17 +45,17 @@ A medical test performed on a sample of a patient's blood.
 
 ## Confidential Links & Embeds: 
 
-### [blood_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.md) 
+### #is_/same_as :: [blood_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.md) 
 
-### [blood_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.public.md) 
+### #is_/same_as :: [blood_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.public.md) 
 
-### [blood_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.internal.md) 
+### #is_/same_as :: [blood_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.internal.md) 
 
-### [blood_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.protect.md) 
+### #is_/same_as :: [blood_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.protect.md) 
 
-### [blood_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.private.md) 
+### #is_/same_as :: [blood_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.private.md) 
 
-### [blood_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.personal.md) 
+### #is_/same_as :: [blood_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.personal.md) 
 
-### [blood_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.secret.md)
+### #is_/same_as :: [blood_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.secret.md)
 

@@ -70,21 +70,19 @@ water_footprint: 17196
 > [Wikipedia](https://en.wikipedia.org/wiki/Chocolate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Chocolate](/_Standards/Home_Economics/Cooking/Food/Candy/Chocolate.md) 
+### #is_/same_as :: [Chocolate](/_Standards/Home_Economics/Cooking/Food/Candy/Chocolate.md) 
 
-### [Chocolate.public](/_public/Home_Economics/Cooking/Food/Candy/Chocolate.public.md) 
+### #is_/same_as :: [Chocolate.public](/_public/Home_Economics/Cooking/Food/Candy/Chocolate.public.md) 
 
-### [Chocolate.internal](/_internal/Home_Economics/Cooking/Food/Candy/Chocolate.internal.md) 
+### #is_/same_as :: [Chocolate.internal](/_internal/Home_Economics/Cooking/Food/Candy/Chocolate.internal.md) 
 
-### [Chocolate.protect](/_protect/Home_Economics/Cooking/Food/Candy/Chocolate.protect.md) 
+### #is_/same_as :: [Chocolate.protect](/_protect/Home_Economics/Cooking/Food/Candy/Chocolate.protect.md) 
 
-### [Chocolate.private](/_private/Home_Economics/Cooking/Food/Candy/Chocolate.private.md) 
+### #is_/same_as :: [Chocolate.private](/_private/Home_Economics/Cooking/Food/Candy/Chocolate.private.md) 
 
-### [Chocolate.personal](/_personal/Home_Economics/Cooking/Food/Candy/Chocolate.personal.md) 
+### #is_/same_as :: [Chocolate.personal](/_personal/Home_Economics/Cooking/Food/Candy/Chocolate.personal.md) 
 
-### [Chocolate.secret](/_secret/Home_Economics/Cooking/Food/Candy/Chocolate.secret.md)
+### #is_/same_as :: [Chocolate.secret](/_secret/Home_Economics/Cooking/Food/Candy/Chocolate.secret.md)
 

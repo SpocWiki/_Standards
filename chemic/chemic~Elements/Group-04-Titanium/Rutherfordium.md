@@ -91,17 +91,17 @@ Unicode_character: 鑪
 
 ## Confidential Links & Embeds: 
 
-### [Rutherfordium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.md) 
+### #is_/same_as :: [Rutherfordium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.md) 
 
-### [Rutherfordium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.public.md) 
+### #is_/same_as :: [Rutherfordium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.public.md) 
 
-### [Rutherfordium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.internal.md) 
+### #is_/same_as :: [Rutherfordium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.internal.md) 
 
-### [Rutherfordium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.protect.md) 
+### #is_/same_as :: [Rutherfordium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.protect.md) 
 
-### [Rutherfordium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.private.md) 
+### #is_/same_as :: [Rutherfordium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.private.md) 
 
-### [Rutherfordium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.personal.md) 
+### #is_/same_as :: [Rutherfordium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.personal.md) 
 
-### [Rutherfordium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.secret.md)
+### #is_/same_as :: [Rutherfordium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.secret.md)
 

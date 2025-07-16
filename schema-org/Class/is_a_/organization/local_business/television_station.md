@@ -45,17 +45,17 @@ A television station.
 
 ## Confidential Links & Embeds: 
 
-### [television_station](/_Standards/schema-org/Class/is_a_/organization/local_business/television_station.md) 
+### #is_/same_as :: [television_station](/_Standards/schema-org/Class/is_a_/organization/local_business/television_station.md) 
 
-### [television_station.public](/_public/schema-org/Class/is_a_/organization/local_business/television_station.public.md) 
+### #is_/same_as :: [television_station.public](/_public/schema-org/Class/is_a_/organization/local_business/television_station.public.md) 
 
-### [television_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/television_station.internal.md) 
+### #is_/same_as :: [television_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/television_station.internal.md) 
 
-### [television_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/television_station.protect.md) 
+### #is_/same_as :: [television_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/television_station.protect.md) 
 
-### [television_station.private](/_private/schema-org/Class/is_a_/organization/local_business/television_station.private.md) 
+### #is_/same_as :: [television_station.private](/_private/schema-org/Class/is_a_/organization/local_business/television_station.private.md) 
 
-### [television_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/television_station.personal.md) 
+### #is_/same_as :: [television_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/television_station.personal.md) 
 
-### [television_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/television_station.secret.md)
+### #is_/same_as :: [television_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/television_station.secret.md)
 

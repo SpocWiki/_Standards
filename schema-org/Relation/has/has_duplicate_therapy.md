@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_duplicate_therapy](/_Standards/schema-org/Relation/has/has_duplicate_therapy.md) 
+### #is_/same_as :: [has_duplicate_therapy](/_Standards/schema-org/Relation/has/has_duplicate_therapy.md) 
 
-### [has_duplicate_therapy.public](/_public/schema-org/Relation/has/has_duplicate_therapy.public.md) 
+### #is_/same_as :: [has_duplicate_therapy.public](/_public/schema-org/Relation/has/has_duplicate_therapy.public.md) 
 
-### [has_duplicate_therapy.internal](/_internal/schema-org/Relation/has/has_duplicate_therapy.internal.md) 
+### #is_/same_as :: [has_duplicate_therapy.internal](/_internal/schema-org/Relation/has/has_duplicate_therapy.internal.md) 
 
-### [has_duplicate_therapy.protect](/_protect/schema-org/Relation/has/has_duplicate_therapy.protect.md) 
+### #is_/same_as :: [has_duplicate_therapy.protect](/_protect/schema-org/Relation/has/has_duplicate_therapy.protect.md) 
 
-### [has_duplicate_therapy.private](/_private/schema-org/Relation/has/has_duplicate_therapy.private.md) 
+### #is_/same_as :: [has_duplicate_therapy.private](/_private/schema-org/Relation/has/has_duplicate_therapy.private.md) 
 
-### [has_duplicate_therapy.personal](/_personal/schema-org/Relation/has/has_duplicate_therapy.personal.md) 
+### #is_/same_as :: [has_duplicate_therapy.personal](/_personal/schema-org/Relation/has/has_duplicate_therapy.personal.md) 
 
-### [has_duplicate_therapy.secret](/_secret/schema-org/Relation/has/has_duplicate_therapy.secret.md)
+### #is_/same_as :: [has_duplicate_therapy.secret](/_secret/schema-org/Relation/has/has_duplicate_therapy.secret.md)
 

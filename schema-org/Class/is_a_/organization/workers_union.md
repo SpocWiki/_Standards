@@ -45,17 +45,17 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 ## Confidential Links & Embeds: 
 
-### [workers_union](/_Standards/schema-org/Class/is_a_/organization/workers_union.md) 
+### #is_/same_as :: [workers_union](/_Standards/schema-org/Class/is_a_/organization/workers_union.md) 
 
-### [workers_union.public](/_public/schema-org/Class/is_a_/organization/workers_union.public.md) 
+### #is_/same_as :: [workers_union.public](/_public/schema-org/Class/is_a_/organization/workers_union.public.md) 
 
-### [workers_union.internal](/_internal/schema-org/Class/is_a_/organization/workers_union.internal.md) 
+### #is_/same_as :: [workers_union.internal](/_internal/schema-org/Class/is_a_/organization/workers_union.internal.md) 
 
-### [workers_union.protect](/_protect/schema-org/Class/is_a_/organization/workers_union.protect.md) 
+### #is_/same_as :: [workers_union.protect](/_protect/schema-org/Class/is_a_/organization/workers_union.protect.md) 
 
-### [workers_union.private](/_private/schema-org/Class/is_a_/organization/workers_union.private.md) 
+### #is_/same_as :: [workers_union.private](/_private/schema-org/Class/is_a_/organization/workers_union.private.md) 
 
-### [workers_union.personal](/_personal/schema-org/Class/is_a_/organization/workers_union.personal.md) 
+### #is_/same_as :: [workers_union.personal](/_personal/schema-org/Class/is_a_/organization/workers_union.personal.md) 
 
-### [workers_union.secret](/_secret/schema-org/Class/is_a_/organization/workers_union.secret.md)
+### #is_/same_as :: [workers_union.secret](/_secret/schema-org/Class/is_a_/organization/workers_union.secret.md)
 

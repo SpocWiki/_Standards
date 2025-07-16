@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_educational_program_mode](/_Standards/schema-org/Property/Texts/has_educational_program_mode.md) 
+### #is_/same_as :: [has_educational_program_mode](/_Standards/schema-org/Property/Texts/has_educational_program_mode.md) 
 
-### [has_educational_program_mode.public](/_public/schema-org/Property/Texts/has_educational_program_mode.public.md) 
+### #is_/same_as :: [has_educational_program_mode.public](/_public/schema-org/Property/Texts/has_educational_program_mode.public.md) 
 
-### [has_educational_program_mode.internal](/_internal/schema-org/Property/Texts/has_educational_program_mode.internal.md) 
+### #is_/same_as :: [has_educational_program_mode.internal](/_internal/schema-org/Property/Texts/has_educational_program_mode.internal.md) 
 
-### [has_educational_program_mode.protect](/_protect/schema-org/Property/Texts/has_educational_program_mode.protect.md) 
+### #is_/same_as :: [has_educational_program_mode.protect](/_protect/schema-org/Property/Texts/has_educational_program_mode.protect.md) 
 
-### [has_educational_program_mode.private](/_private/schema-org/Property/Texts/has_educational_program_mode.private.md) 
+### #is_/same_as :: [has_educational_program_mode.private](/_private/schema-org/Property/Texts/has_educational_program_mode.private.md) 
 
-### [has_educational_program_mode.personal](/_personal/schema-org/Property/Texts/has_educational_program_mode.personal.md) 
+### #is_/same_as :: [has_educational_program_mode.personal](/_personal/schema-org/Property/Texts/has_educational_program_mode.personal.md) 
 
-### [has_educational_program_mode.secret](/_secret/schema-org/Property/Texts/has_educational_program_mode.secret.md)
+### #is_/same_as :: [has_educational_program_mode.secret](/_secret/schema-org/Property/Texts/has_educational_program_mode.secret.md)
 

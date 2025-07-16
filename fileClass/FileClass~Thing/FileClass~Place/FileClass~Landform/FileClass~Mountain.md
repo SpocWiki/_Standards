@@ -35,17 +35,17 @@ A mountain, like Mount Whitney or Mount Everest.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Mountain](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.md) 
+### #is_/same_as :: [FileClass~Mountain](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.md) 
 
-### [FileClass~Mountain.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.public.md) 
+### #is_/same_as :: [FileClass~Mountain.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.public.md) 
 
-### [FileClass~Mountain.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.internal.md) 
+### #is_/same_as :: [FileClass~Mountain.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.internal.md) 
 
-### [FileClass~Mountain.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.protect.md) 
+### #is_/same_as :: [FileClass~Mountain.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.protect.md) 
 
-### [FileClass~Mountain.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.private.md) 
+### #is_/same_as :: [FileClass~Mountain.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.private.md) 
 
-### [FileClass~Mountain.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.personal.md) 
+### #is_/same_as :: [FileClass~Mountain.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.personal.md) 
 
-### [FileClass~Mountain.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.secret.md)
+### #is_/same_as :: [FileClass~Mountain.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.secret.md)
 

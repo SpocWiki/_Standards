@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_variant_cover](/_Standards/schema-org/Property/Texts/has_variant_cover.md) 
+### #is_/same_as :: [has_variant_cover](/_Standards/schema-org/Property/Texts/has_variant_cover.md) 
 
-### [has_variant_cover.public](/_public/schema-org/Property/Texts/has_variant_cover.public.md) 
+### #is_/same_as :: [has_variant_cover.public](/_public/schema-org/Property/Texts/has_variant_cover.public.md) 
 
-### [has_variant_cover.internal](/_internal/schema-org/Property/Texts/has_variant_cover.internal.md) 
+### #is_/same_as :: [has_variant_cover.internal](/_internal/schema-org/Property/Texts/has_variant_cover.internal.md) 
 
-### [has_variant_cover.protect](/_protect/schema-org/Property/Texts/has_variant_cover.protect.md) 
+### #is_/same_as :: [has_variant_cover.protect](/_protect/schema-org/Property/Texts/has_variant_cover.protect.md) 
 
-### [has_variant_cover.private](/_private/schema-org/Property/Texts/has_variant_cover.private.md) 
+### #is_/same_as :: [has_variant_cover.private](/_private/schema-org/Property/Texts/has_variant_cover.private.md) 
 
-### [has_variant_cover.personal](/_personal/schema-org/Property/Texts/has_variant_cover.personal.md) 
+### #is_/same_as :: [has_variant_cover.personal](/_personal/schema-org/Property/Texts/has_variant_cover.personal.md) 
 
-### [has_variant_cover.secret](/_secret/schema-org/Property/Texts/has_variant_cover.secret.md)
+### #is_/same_as :: [has_variant_cover.secret](/_secret/schema-org/Property/Texts/has_variant_cover.secret.md)
 

@@ -520,17 +520,17 @@ Capital :: [[Bamako]]
 
 ## Confidential Links & Embeds: 
 
-### [Mali](/_Standards/Earth/Continent/Africa/Africa~West/Mali.md) 
+### #is_/same_as :: [Mali](/_Standards/Earth/Continent/Africa/Africa~West/Mali.md) 
 
-### [Mali.public](/_public/Earth/Continent/Africa/Africa~West/Mali.public.md) 
+### #is_/same_as :: [Mali.public](/_public/Earth/Continent/Africa/Africa~West/Mali.public.md) 
 
-### [Mali.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali.internal.md) 
+### #is_/same_as :: [Mali.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali.internal.md) 
 
-### [Mali.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali.protect.md) 
+### #is_/same_as :: [Mali.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali.protect.md) 
 
-### [Mali.private](/_private/Earth/Continent/Africa/Africa~West/Mali.private.md) 
+### #is_/same_as :: [Mali.private](/_private/Earth/Continent/Africa/Africa~West/Mali.private.md) 
 
-### [Mali.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali.personal.md) 
+### #is_/same_as :: [Mali.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali.personal.md) 
 
-### [Mali.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali.secret.md)
+### #is_/same_as :: [Mali.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali.secret.md)
 

@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_full_bathrooms](/_Standards/schema-org/Property/has_number_of/has_number_of_full_bathrooms.md) 
+### #is_/same_as :: [has_number_of_full_bathrooms](/_Standards/schema-org/Property/has_number_of/has_number_of_full_bathrooms.md) 
 
-### [has_number_of_full_bathrooms.public](/_public/schema-org/Property/has_number_of/has_number_of_full_bathrooms.public.md) 
+### #is_/same_as :: [has_number_of_full_bathrooms.public](/_public/schema-org/Property/has_number_of/has_number_of_full_bathrooms.public.md) 
 
-### [has_number_of_full_bathrooms.internal](/_internal/schema-org/Property/has_number_of/has_number_of_full_bathrooms.internal.md) 
+### #is_/same_as :: [has_number_of_full_bathrooms.internal](/_internal/schema-org/Property/has_number_of/has_number_of_full_bathrooms.internal.md) 
 
-### [has_number_of_full_bathrooms.protect](/_protect/schema-org/Property/has_number_of/has_number_of_full_bathrooms.protect.md) 
+### #is_/same_as :: [has_number_of_full_bathrooms.protect](/_protect/schema-org/Property/has_number_of/has_number_of_full_bathrooms.protect.md) 
 
-### [has_number_of_full_bathrooms.private](/_private/schema-org/Property/has_number_of/has_number_of_full_bathrooms.private.md) 
+### #is_/same_as :: [has_number_of_full_bathrooms.private](/_private/schema-org/Property/has_number_of/has_number_of_full_bathrooms.private.md) 
 
-### [has_number_of_full_bathrooms.personal](/_personal/schema-org/Property/has_number_of/has_number_of_full_bathrooms.personal.md) 
+### #is_/same_as :: [has_number_of_full_bathrooms.personal](/_personal/schema-org/Property/has_number_of/has_number_of_full_bathrooms.personal.md) 
 
-### [has_number_of_full_bathrooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_full_bathrooms.secret.md)
+### #is_/same_as :: [has_number_of_full_bathrooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_full_bathrooms.secret.md)
 

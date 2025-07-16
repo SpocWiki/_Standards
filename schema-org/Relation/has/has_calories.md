@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_calories](/_Standards/schema-org/Relation/has/has_calories.md) 
+### #is_/same_as :: [has_calories](/_Standards/schema-org/Relation/has/has_calories.md) 
 
-### [has_calories.public](/_public/schema-org/Relation/has/has_calories.public.md) 
+### #is_/same_as :: [has_calories.public](/_public/schema-org/Relation/has/has_calories.public.md) 
 
-### [has_calories.internal](/_internal/schema-org/Relation/has/has_calories.internal.md) 
+### #is_/same_as :: [has_calories.internal](/_internal/schema-org/Relation/has/has_calories.internal.md) 
 
-### [has_calories.protect](/_protect/schema-org/Relation/has/has_calories.protect.md) 
+### #is_/same_as :: [has_calories.protect](/_protect/schema-org/Relation/has/has_calories.protect.md) 
 
-### [has_calories.private](/_private/schema-org/Relation/has/has_calories.private.md) 
+### #is_/same_as :: [has_calories.private](/_private/schema-org/Relation/has/has_calories.private.md) 
 
-### [has_calories.personal](/_personal/schema-org/Relation/has/has_calories.personal.md) 
+### #is_/same_as :: [has_calories.personal](/_personal/schema-org/Relation/has/has_calories.personal.md) 
 
-### [has_calories.secret](/_secret/schema-org/Relation/has/has_calories.secret.md)
+### #is_/same_as :: [has_calories.secret](/_secret/schema-org/Relation/has/has_calories.secret.md)
 

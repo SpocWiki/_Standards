@@ -134,21 +134,19 @@ courtesy_name: 載之
 > [Wikipedia](https://en.wikipedia.org/wiki/Sun%20Yat-sen)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sun,Yat-sen](/_Standards/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.md) 
+### #is_/same_as :: [Sun,Yat-sen](/_Standards/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.md) 
 
-### [Sun,Yat-sen.public](/_public/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.public.md) 
+### #is_/same_as :: [Sun,Yat-sen.public](/_public/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.public.md) 
 
-### [Sun,Yat-sen.internal](/_internal/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.internal.md) 
+### #is_/same_as :: [Sun,Yat-sen.internal](/_internal/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.internal.md) 
 
-### [Sun,Yat-sen.protect](/_protect/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.protect.md) 
+### #is_/same_as :: [Sun,Yat-sen.protect](/_protect/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.protect.md) 
 
-### [Sun,Yat-sen.private](/_private/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.private.md) 
+### #is_/same_as :: [Sun,Yat-sen.private](/_private/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.private.md) 
 
-### [Sun,Yat-sen.personal](/_personal/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.personal.md) 
+### #is_/same_as :: [Sun,Yat-sen.personal](/_personal/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.personal.md) 
 
-### [Sun,Yat-sen.secret](/_secret/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.secret.md)
+### #is_/same_as :: [Sun,Yat-sen.secret](/_secret/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.secret.md)
 

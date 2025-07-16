@@ -502,17 +502,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Earth](/_Standards/Earth.md) 
+### #is_/same_as :: [Earth](/_Standards/Earth.md) 
 
-### [Earth.public](/_public/Earth.public.md) 
+### #is_/same_as :: [Earth.public](/_public/Earth.public.md) 
 
-### [Earth.internal](/_internal/Earth.internal.md) 
+### #is_/same_as :: [Earth.internal](/_internal/Earth.internal.md) 
 
-### [Earth.protect](/_protect/Earth.protect.md) 
+### #is_/same_as :: [Earth.protect](/_protect/Earth.protect.md) 
 
-### [Earth.private](/_private/Earth.private.md) 
+### #is_/same_as :: [Earth.private](/_private/Earth.private.md) 
 
-### [Earth.personal](/_personal/Earth.personal.md) 
+### #is_/same_as :: [Earth.personal](/_personal/Earth.personal.md) 
 
-### [Earth.secret](/_secret/Earth.secret.md)
+### #is_/same_as :: [Earth.secret](/_secret/Earth.secret.md)
 

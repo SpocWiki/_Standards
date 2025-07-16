@@ -43,17 +43,17 @@ Categories of medical devices, organized by the purpose or intended use of the d
 
 ## Confidential Links & Embeds: 
 
-### [medical_device_purpose](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.md) 
+### #is_/same_as :: [medical_device_purpose](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.md) 
 
-### [medical_device_purpose.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.public.md) 
+### #is_/same_as :: [medical_device_purpose.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.public.md) 
 
-### [medical_device_purpose.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.internal.md) 
+### #is_/same_as :: [medical_device_purpose.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.internal.md) 
 
-### [medical_device_purpose.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.protect.md) 
+### #is_/same_as :: [medical_device_purpose.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.protect.md) 
 
-### [medical_device_purpose.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.private.md) 
+### #is_/same_as :: [medical_device_purpose.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.private.md) 
 
-### [medical_device_purpose.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.personal.md) 
+### #is_/same_as :: [medical_device_purpose.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.personal.md) 
 
-### [medical_device_purpose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.secret.md)
+### #is_/same_as :: [medical_device_purpose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.secret.md)
 

@@ -67,17 +67,17 @@ That is why it is usually less helpful
 
 ## Confidential Links & Embeds: 
 
-### [Relation](/_Standards/schema-org/Relation.md) 
+### #is_/same_as :: [Relation](/_Standards/schema-org/Relation.md) 
 
-### [Relation.public](/_public/schema-org/Relation.public.md) 
+### #is_/same_as :: [Relation.public](/_public/schema-org/Relation.public.md) 
 
-### [Relation.internal](/_internal/schema-org/Relation.internal.md) 
+### #is_/same_as :: [Relation.internal](/_internal/schema-org/Relation.internal.md) 
 
-### [Relation.protect](/_protect/schema-org/Relation.protect.md) 
+### #is_/same_as :: [Relation.protect](/_protect/schema-org/Relation.protect.md) 
 
-### [Relation.private](/_private/schema-org/Relation.private.md) 
+### #is_/same_as :: [Relation.private](/_private/schema-org/Relation.private.md) 
 
-### [Relation.personal](/_personal/schema-org/Relation.personal.md) 
+### #is_/same_as :: [Relation.personal](/_personal/schema-org/Relation.personal.md) 
 
-### [Relation.secret](/_secret/schema-org/Relation.secret.md)
+### #is_/same_as :: [Relation.secret](/_secret/schema-org/Relation.secret.md)
 

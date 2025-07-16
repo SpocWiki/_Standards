@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_founding](/_Standards/schema-org/Property/has_location/has_location_founding.md) 
+### #is_/same_as :: [has_location_founding](/_Standards/schema-org/Property/has_location/has_location_founding.md) 
 
-### [has_location_founding.public](/_public/schema-org/Property/has_location/has_location_founding.public.md) 
+### #is_/same_as :: [has_location_founding.public](/_public/schema-org/Property/has_location/has_location_founding.public.md) 
 
-### [has_location_founding.internal](/_internal/schema-org/Property/has_location/has_location_founding.internal.md) 
+### #is_/same_as :: [has_location_founding.internal](/_internal/schema-org/Property/has_location/has_location_founding.internal.md) 
 
-### [has_location_founding.protect](/_protect/schema-org/Property/has_location/has_location_founding.protect.md) 
+### #is_/same_as :: [has_location_founding.protect](/_protect/schema-org/Property/has_location/has_location_founding.protect.md) 
 
-### [has_location_founding.private](/_private/schema-org/Property/has_location/has_location_founding.private.md) 
+### #is_/same_as :: [has_location_founding.private](/_private/schema-org/Property/has_location/has_location_founding.private.md) 
 
-### [has_location_founding.personal](/_personal/schema-org/Property/has_location/has_location_founding.personal.md) 
+### #is_/same_as :: [has_location_founding.personal](/_personal/schema-org/Property/has_location/has_location_founding.personal.md) 
 
-### [has_location_founding.secret](/_secret/schema-org/Property/has_location/has_location_founding.secret.md)
+### #is_/same_as :: [has_location_founding.secret](/_secret/schema-org/Property/has_location/has_location_founding.secret.md)
 

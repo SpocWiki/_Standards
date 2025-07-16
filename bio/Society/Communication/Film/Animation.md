@@ -48,23 +48,19 @@ IPTC_NewsCode: mediatopic/20000003
 > [Wikipedia](https://en.wikipedia.org/wiki/Animation) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Animation](/_Standards/bio/Society/Communication/Film/Animation.md) 
+### #is_/same_as :: [Animation](/_Standards/bio/Society/Communication/Film/Animation.md) 
 
-### [Animation.public](/_public/bio/Society/Communication/Film/Animation.public.md) 
+### #is_/same_as :: [Animation.public](/_public/bio/Society/Communication/Film/Animation.public.md) 
 
-### [Animation.internal](/_internal/bio/Society/Communication/Film/Animation.internal.md) 
+### #is_/same_as :: [Animation.internal](/_internal/bio/Society/Communication/Film/Animation.internal.md) 
 
-### [Animation.protect](/_protect/bio/Society/Communication/Film/Animation.protect.md) 
+### #is_/same_as :: [Animation.protect](/_protect/bio/Society/Communication/Film/Animation.protect.md) 
 
-### [Animation.private](/_private/bio/Society/Communication/Film/Animation.private.md) 
+### #is_/same_as :: [Animation.private](/_private/bio/Society/Communication/Film/Animation.private.md) 
 
-### [Animation.personal](/_personal/bio/Society/Communication/Film/Animation.personal.md) 
+### #is_/same_as :: [Animation.personal](/_personal/bio/Society/Communication/Film/Animation.personal.md) 
 
-### [Animation.secret](/_secret/bio/Society/Communication/Film/Animation.secret.md)
+### #is_/same_as :: [Animation.secret](/_secret/bio/Society/Communication/Film/Animation.secret.md)
 

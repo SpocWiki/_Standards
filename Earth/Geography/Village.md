@@ -62,17 +62,17 @@ Commons_category: Villages
 
 ## Confidential Links & Embeds: 
 
-### [Village](/_Standards/Earth/Geography/Village.md) 
+### #is_/same_as :: [Village](/_Standards/Earth/Geography/Village.md) 
 
-### [Village.public](/_public/Earth/Geography/Village.public.md) 
+### #is_/same_as :: [Village.public](/_public/Earth/Geography/Village.public.md) 
 
-### [Village.internal](/_internal/Earth/Geography/Village.internal.md) 
+### #is_/same_as :: [Village.internal](/_internal/Earth/Geography/Village.internal.md) 
 
-### [Village.protect](/_protect/Earth/Geography/Village.protect.md) 
+### #is_/same_as :: [Village.protect](/_protect/Earth/Geography/Village.protect.md) 
 
-### [Village.private](/_private/Earth/Geography/Village.private.md) 
+### #is_/same_as :: [Village.private](/_private/Earth/Geography/Village.private.md) 
 
-### [Village.personal](/_personal/Earth/Geography/Village.personal.md) 
+### #is_/same_as :: [Village.personal](/_personal/Earth/Geography/Village.personal.md) 
 
-### [Village.secret](/_secret/Earth/Geography/Village.secret.md)
+### #is_/same_as :: [Village.secret](/_secret/Earth/Geography/Village.secret.md)
 

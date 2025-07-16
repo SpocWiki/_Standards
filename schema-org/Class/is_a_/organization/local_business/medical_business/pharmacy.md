@@ -45,17 +45,17 @@ A pharmacy or drugstore.
 
 ## Confidential Links & Embeds: 
 
-### [pharmacy](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.md) 
+### #is_/same_as :: [pharmacy](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.md) 
 
-### [pharmacy.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.public.md) 
+### #is_/same_as :: [pharmacy.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.public.md) 
 
-### [pharmacy.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.internal.md) 
+### #is_/same_as :: [pharmacy.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.internal.md) 
 
-### [pharmacy.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.protect.md) 
+### #is_/same_as :: [pharmacy.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.protect.md) 
 
-### [pharmacy.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.private.md) 
+### #is_/same_as :: [pharmacy.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.private.md) 
 
-### [pharmacy.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.personal.md) 
+### #is_/same_as :: [pharmacy.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.personal.md) 
 
-### [pharmacy.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.secret.md)
+### #is_/same_as :: [pharmacy.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/pharmacy.secret.md)
 

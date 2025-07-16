@@ -59,21 +59,19 @@ IPTC_NewsCode: mediatopic/20000597
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitution)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Constitution](/_Standards/bio/Society/Law/Constitution.md) 
+### #is_/same_as :: [Constitution](/_Standards/bio/Society/Law/Constitution.md) 
 
-### [Constitution.public](/_public/bio/Society/Law/Constitution.public.md) 
+### #is_/same_as :: [Constitution.public](/_public/bio/Society/Law/Constitution.public.md) 
 
-### [Constitution.internal](/_internal/bio/Society/Law/Constitution.internal.md) 
+### #is_/same_as :: [Constitution.internal](/_internal/bio/Society/Law/Constitution.internal.md) 
 
-### [Constitution.protect](/_protect/bio/Society/Law/Constitution.protect.md) 
+### #is_/same_as :: [Constitution.protect](/_protect/bio/Society/Law/Constitution.protect.md) 
 
-### [Constitution.private](/_private/bio/Society/Law/Constitution.private.md) 
+### #is_/same_as :: [Constitution.private](/_private/bio/Society/Law/Constitution.private.md) 
 
-### [Constitution.personal](/_personal/bio/Society/Law/Constitution.personal.md) 
+### #is_/same_as :: [Constitution.personal](/_personal/bio/Society/Law/Constitution.personal.md) 
 
-### [Constitution.secret](/_secret/bio/Society/Law/Constitution.secret.md)
+### #is_/same_as :: [Constitution.secret](/_secret/bio/Society/Law/Constitution.secret.md)
 

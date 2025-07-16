@@ -231,21 +231,19 @@ Size              23 mm ML
 Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Spirulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.md) 
+### #is_/same_as :: [Spirulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.md) 
 
-### [Spirulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.public.md) 
+### #is_/same_as :: [Spirulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.public.md) 
 
-### [Spirulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.internal.md) 
+### #is_/same_as :: [Spirulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.internal.md) 
 
-### [Spirulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.protect.md) 
+### #is_/same_as :: [Spirulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.protect.md) 
 
-### [Spirulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.private.md) 
+### #is_/same_as :: [Spirulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.private.md) 
 
-### [Spirulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.personal.md) 
+### #is_/same_as :: [Spirulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.personal.md) 
 
-### [Spirulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.secret.md)
+### #is_/same_as :: [Spirulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.secret.md)
 

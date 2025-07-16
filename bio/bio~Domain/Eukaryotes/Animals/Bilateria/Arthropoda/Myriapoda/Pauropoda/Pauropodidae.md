@@ -54,21 +54,19 @@ title: Pauropodidae
 	-   *Stylopauropus*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Pauropodidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.md) 
+### #is_/same_as :: [Pauropodidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.md) 
 
-### [Pauropodidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.public.md) 
+### #is_/same_as :: [Pauropodidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.public.md) 
 
-### [Pauropodidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.internal.md) 
+### #is_/same_as :: [Pauropodidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.internal.md) 
 
-### [Pauropodidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.protect.md) 
+### #is_/same_as :: [Pauropodidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.protect.md) 
 
-### [Pauropodidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.private.md) 
+### #is_/same_as :: [Pauropodidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.private.md) 
 
-### [Pauropodidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.personal.md) 
+### #is_/same_as :: [Pauropodidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.personal.md) 
 
-### [Pauropodidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.secret.md)
+### #is_/same_as :: [Pauropodidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.secret.md)
 

@@ -52,17 +52,17 @@ The most common one is ASL (American Sign Language)
 
 ## Confidential Links & Embeds: 
 
-### [Sign_Language](/_Standards/Language/Sign_Language.md) 
+### #is_/same_as :: [Sign_Language](/_Standards/Language/Sign_Language.md) 
 
-### [Sign_Language.public](/_public/Language/Sign_Language.public.md) 
+### #is_/same_as :: [Sign_Language.public](/_public/Language/Sign_Language.public.md) 
 
-### [Sign_Language.internal](/_internal/Language/Sign_Language.internal.md) 
+### #is_/same_as :: [Sign_Language.internal](/_internal/Language/Sign_Language.internal.md) 
 
-### [Sign_Language.protect](/_protect/Language/Sign_Language.protect.md) 
+### #is_/same_as :: [Sign_Language.protect](/_protect/Language/Sign_Language.protect.md) 
 
-### [Sign_Language.private](/_private/Language/Sign_Language.private.md) 
+### #is_/same_as :: [Sign_Language.private](/_private/Language/Sign_Language.private.md) 
 
-### [Sign_Language.personal](/_personal/Language/Sign_Language.personal.md) 
+### #is_/same_as :: [Sign_Language.personal](/_personal/Language/Sign_Language.personal.md) 
 
-### [Sign_Language.secret](/_secret/Language/Sign_Language.secret.md)
+### #is_/same_as :: [Sign_Language.secret](/_secret/Language/Sign_Language.secret.md)
 

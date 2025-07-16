@@ -41,24 +41,19 @@ OpenStreetMap_tag_or_key: "Key:crop"
 > [Wikipedia](https://en.wikipedia.org/wiki/Crop) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Crop](/_Standards/Economics/Industry/Agriculture/Crop.md) 
+### #is_/same_as :: [Crop](/_Standards/Economics/Industry/Agriculture/Crop.md) 
 
-### [Crop.public](/_public/Economics/Industry/Agriculture/Crop.public.md) 
+### #is_/same_as :: [Crop.public](/_public/Economics/Industry/Agriculture/Crop.public.md) 
 
-### [Crop.internal](/_internal/Economics/Industry/Agriculture/Crop.internal.md) 
+### #is_/same_as :: [Crop.internal](/_internal/Economics/Industry/Agriculture/Crop.internal.md) 
 
-### [Crop.protect](/_protect/Economics/Industry/Agriculture/Crop.protect.md) 
+### #is_/same_as :: [Crop.protect](/_protect/Economics/Industry/Agriculture/Crop.protect.md) 
 
-### [Crop.private](/_private/Economics/Industry/Agriculture/Crop.private.md) 
+### #is_/same_as :: [Crop.private](/_private/Economics/Industry/Agriculture/Crop.private.md) 
 
-### [Crop.personal](/_personal/Economics/Industry/Agriculture/Crop.personal.md) 
+### #is_/same_as :: [Crop.personal](/_personal/Economics/Industry/Agriculture/Crop.personal.md) 
 
-### [Crop.secret](/_secret/Economics/Industry/Agriculture/Crop.secret.md)
+### #is_/same_as :: [Crop.secret](/_secret/Economics/Industry/Agriculture/Crop.secret.md)
 

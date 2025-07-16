@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_album](/_Standards/schema-org/Relation/has/has_album.md) 
+### #is_/same_as :: [has_album](/_Standards/schema-org/Relation/has/has_album.md) 
 
-### [has_album.public](/_public/schema-org/Relation/has/has_album.public.md) 
+### #is_/same_as :: [has_album.public](/_public/schema-org/Relation/has/has_album.public.md) 
 
-### [has_album.internal](/_internal/schema-org/Relation/has/has_album.internal.md) 
+### #is_/same_as :: [has_album.internal](/_internal/schema-org/Relation/has/has_album.internal.md) 
 
-### [has_album.protect](/_protect/schema-org/Relation/has/has_album.protect.md) 
+### #is_/same_as :: [has_album.protect](/_protect/schema-org/Relation/has/has_album.protect.md) 
 
-### [has_album.private](/_private/schema-org/Relation/has/has_album.private.md) 
+### #is_/same_as :: [has_album.private](/_private/schema-org/Relation/has/has_album.private.md) 
 
-### [has_album.personal](/_personal/schema-org/Relation/has/has_album.personal.md) 
+### #is_/same_as :: [has_album.personal](/_personal/schema-org/Relation/has/has_album.personal.md) 
 
-### [has_album.secret](/_secret/schema-org/Relation/has/has_album.secret.md)
+### #is_/same_as :: [has_album.secret](/_secret/schema-org/Relation/has/has_album.secret.md)
 

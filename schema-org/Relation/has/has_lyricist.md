@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_lyricist](/_Standards/schema-org/Relation/has/has_lyricist.md) 
+### #is_/same_as :: [has_lyricist](/_Standards/schema-org/Relation/has/has_lyricist.md) 
 
-### [has_lyricist.public](/_public/schema-org/Relation/has/has_lyricist.public.md) 
+### #is_/same_as :: [has_lyricist.public](/_public/schema-org/Relation/has/has_lyricist.public.md) 
 
-### [has_lyricist.internal](/_internal/schema-org/Relation/has/has_lyricist.internal.md) 
+### #is_/same_as :: [has_lyricist.internal](/_internal/schema-org/Relation/has/has_lyricist.internal.md) 
 
-### [has_lyricist.protect](/_protect/schema-org/Relation/has/has_lyricist.protect.md) 
+### #is_/same_as :: [has_lyricist.protect](/_protect/schema-org/Relation/has/has_lyricist.protect.md) 
 
-### [has_lyricist.private](/_private/schema-org/Relation/has/has_lyricist.private.md) 
+### #is_/same_as :: [has_lyricist.private](/_private/schema-org/Relation/has/has_lyricist.private.md) 
 
-### [has_lyricist.personal](/_personal/schema-org/Relation/has/has_lyricist.personal.md) 
+### #is_/same_as :: [has_lyricist.personal](/_personal/schema-org/Relation/has/has_lyricist.personal.md) 
 
-### [has_lyricist.secret](/_secret/schema-org/Relation/has/has_lyricist.secret.md)
+### #is_/same_as :: [has_lyricist.secret](/_secret/schema-org/Relation/has/has_lyricist.secret.md)
 

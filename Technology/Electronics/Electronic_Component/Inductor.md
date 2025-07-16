@@ -29,21 +29,19 @@ Commons_category: Inductors
 > [Wikipedia](https://en.wikipedia.org/wiki/Inductor)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Inductor](/_Standards/Technology/Electronics/Electronic_Component/Inductor.md) 
+### #is_/same_as :: [Inductor](/_Standards/Technology/Electronics/Electronic_Component/Inductor.md) 
 
-### [Inductor.public](/_public/Technology/Electronics/Electronic_Component/Inductor.public.md) 
+### #is_/same_as :: [Inductor.public](/_public/Technology/Electronics/Electronic_Component/Inductor.public.md) 
 
-### [Inductor.internal](/_internal/Technology/Electronics/Electronic_Component/Inductor.internal.md) 
+### #is_/same_as :: [Inductor.internal](/_internal/Technology/Electronics/Electronic_Component/Inductor.internal.md) 
 
-### [Inductor.protect](/_protect/Technology/Electronics/Electronic_Component/Inductor.protect.md) 
+### #is_/same_as :: [Inductor.protect](/_protect/Technology/Electronics/Electronic_Component/Inductor.protect.md) 
 
-### [Inductor.private](/_private/Technology/Electronics/Electronic_Component/Inductor.private.md) 
+### #is_/same_as :: [Inductor.private](/_private/Technology/Electronics/Electronic_Component/Inductor.private.md) 
 
-### [Inductor.personal](/_personal/Technology/Electronics/Electronic_Component/Inductor.personal.md) 
+### #is_/same_as :: [Inductor.personal](/_personal/Technology/Electronics/Electronic_Component/Inductor.personal.md) 
 
-### [Inductor.secret](/_secret/Technology/Electronics/Electronic_Component/Inductor.secret.md)
+### #is_/same_as :: [Inductor.secret](/_secret/Technology/Electronics/Electronic_Component/Inductor.secret.md)
 

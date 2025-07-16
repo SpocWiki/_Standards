@@ -49,17 +49,17 @@ Size group "Maternity" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_maternity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.md) 
+### #is_/same_as :: [wearable_size_group_maternity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.md) 
 
-### [wearable_size_group_maternity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.public.md) 
+### #is_/same_as :: [wearable_size_group_maternity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.public.md) 
 
-### [wearable_size_group_maternity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.internal.md) 
+### #is_/same_as :: [wearable_size_group_maternity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.internal.md) 
 
-### [wearable_size_group_maternity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.protect.md) 
+### #is_/same_as :: [wearable_size_group_maternity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.protect.md) 
 
-### [wearable_size_group_maternity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.private.md) 
+### #is_/same_as :: [wearable_size_group_maternity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.private.md) 
 
-### [wearable_size_group_maternity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.personal.md) 
+### #is_/same_as :: [wearable_size_group_maternity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.personal.md) 
 
-### [wearable_size_group_maternity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.secret.md)
+### #is_/same_as :: [wearable_size_group_maternity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.secret.md)
 

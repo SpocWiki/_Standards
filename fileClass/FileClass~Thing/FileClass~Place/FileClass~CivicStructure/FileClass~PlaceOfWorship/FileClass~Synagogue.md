@@ -35,17 +35,17 @@ A synagogue.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Synagogue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.md) 
+### #is_/same_as :: [FileClass~Synagogue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.md) 
 
-### [FileClass~Synagogue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.public.md) 
+### #is_/same_as :: [FileClass~Synagogue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.public.md) 
 
-### [FileClass~Synagogue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.internal.md) 
+### #is_/same_as :: [FileClass~Synagogue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.internal.md) 
 
-### [FileClass~Synagogue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.protect.md) 
+### #is_/same_as :: [FileClass~Synagogue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.protect.md) 
 
-### [FileClass~Synagogue.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.private.md) 
+### #is_/same_as :: [FileClass~Synagogue.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.private.md) 
 
-### [FileClass~Synagogue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.personal.md) 
+### #is_/same_as :: [FileClass~Synagogue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.personal.md) 
 
-### [FileClass~Synagogue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.secret.md)
+### #is_/same_as :: [FileClass~Synagogue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.secret.md)
 

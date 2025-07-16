@@ -78,20 +78,19 @@ Source Collection                   [Flickr](http://flickr.com/)
 Copyright ::                           © 2006 [zeandroid](http://flickr.com/people/zeandroid/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Rhynchocyon](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.md) 
+### #is_/same_as :: [Rhynchocyon](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.md) 
 
-### [Rhynchocyon.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.public.md) 
+### #is_/same_as :: [Rhynchocyon.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.public.md) 
 
-### [Rhynchocyon.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.internal.md) 
+### #is_/same_as :: [Rhynchocyon.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.internal.md) 
 
-### [Rhynchocyon.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.protect.md) 
+### #is_/same_as :: [Rhynchocyon.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.protect.md) 
 
-### [Rhynchocyon.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.private.md) 
+### #is_/same_as :: [Rhynchocyon.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.private.md) 
 
-### [Rhynchocyon.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.personal.md) 
+### #is_/same_as :: [Rhynchocyon.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.personal.md) 
 
-### [Rhynchocyon.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.secret.md)
+### #is_/same_as :: [Rhynchocyon.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae/Rhynchocyon.secret.md)
 

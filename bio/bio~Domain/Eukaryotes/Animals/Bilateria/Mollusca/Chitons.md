@@ -55,21 +55,19 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Chitons](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.md) 
+### #is_/same_as :: [Chitons](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.md) 
 
-### [Chitons.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.public.md) 
+### #is_/same_as :: [Chitons.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.public.md) 
 
-### [Chitons.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.internal.md) 
+### #is_/same_as :: [Chitons.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.internal.md) 
 
-### [Chitons.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.protect.md) 
+### #is_/same_as :: [Chitons.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.protect.md) 
 
-### [Chitons.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.private.md) 
+### #is_/same_as :: [Chitons.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.private.md) 
 
-### [Chitons.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.personal.md) 
+### #is_/same_as :: [Chitons.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.personal.md) 
 
-### [Chitons.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.secret.md)
+### #is_/same_as :: [Chitons.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Chitons.secret.md)
 

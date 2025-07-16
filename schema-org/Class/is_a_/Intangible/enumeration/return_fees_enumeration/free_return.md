@@ -49,17 +49,17 @@ Specifies that product returns are free of charge for the customer.
 
 ## Confidential Links & Embeds: 
 
-### [free_return](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.md) 
+### #is_/same_as :: [free_return](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.md) 
 
-### [free_return.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.public.md) 
+### #is_/same_as :: [free_return.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.public.md) 
 
-### [free_return.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.internal.md) 
+### #is_/same_as :: [free_return.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.internal.md) 
 
-### [free_return.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.protect.md) 
+### #is_/same_as :: [free_return.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.protect.md) 
 
-### [free_return.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.private.md) 
+### #is_/same_as :: [free_return.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.private.md) 
 
-### [free_return.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.personal.md) 
+### #is_/same_as :: [free_return.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.personal.md) 
 
-### [free_return.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.secret.md)
+### #is_/same_as :: [free_return.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.secret.md)
 

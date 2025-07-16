@@ -49,17 +49,17 @@ U_S_National_Archives_Identifier: 10676224
 
 ## Confidential Links & Embeds: 
 
-### [Behavior](/_Standards/bio/Psychology/Behavior.md) 
+### #is_/same_as :: [Behavior](/_Standards/bio/Psychology/Behavior.md) 
 
-### [Behavior.public](/_public/bio/Psychology/Behavior.public.md) 
+### #is_/same_as :: [Behavior.public](/_public/bio/Psychology/Behavior.public.md) 
 
-### [Behavior.internal](/_internal/bio/Psychology/Behavior.internal.md) 
+### #is_/same_as :: [Behavior.internal](/_internal/bio/Psychology/Behavior.internal.md) 
 
-### [Behavior.protect](/_protect/bio/Psychology/Behavior.protect.md) 
+### #is_/same_as :: [Behavior.protect](/_protect/bio/Psychology/Behavior.protect.md) 
 
-### [Behavior.private](/_private/bio/Psychology/Behavior.private.md) 
+### #is_/same_as :: [Behavior.private](/_private/bio/Psychology/Behavior.private.md) 
 
-### [Behavior.personal](/_personal/bio/Psychology/Behavior.personal.md) 
+### #is_/same_as :: [Behavior.personal](/_personal/bio/Psychology/Behavior.personal.md) 
 
-### [Behavior.secret](/_secret/bio/Psychology/Behavior.secret.md)
+### #is_/same_as :: [Behavior.secret](/_secret/bio/Psychology/Behavior.secret.md)
 

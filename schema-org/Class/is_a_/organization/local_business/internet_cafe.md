@@ -45,17 +45,17 @@ An internet cafe.
 
 ## Confidential Links & Embeds: 
 
-### [internet_cafe](/_Standards/schema-org/Class/is_a_/organization/local_business/internet_cafe.md) 
+### #is_/same_as :: [internet_cafe](/_Standards/schema-org/Class/is_a_/organization/local_business/internet_cafe.md) 
 
-### [internet_cafe.public](/_public/schema-org/Class/is_a_/organization/local_business/internet_cafe.public.md) 
+### #is_/same_as :: [internet_cafe.public](/_public/schema-org/Class/is_a_/organization/local_business/internet_cafe.public.md) 
 
-### [internet_cafe.internal](/_internal/schema-org/Class/is_a_/organization/local_business/internet_cafe.internal.md) 
+### #is_/same_as :: [internet_cafe.internal](/_internal/schema-org/Class/is_a_/organization/local_business/internet_cafe.internal.md) 
 
-### [internet_cafe.protect](/_protect/schema-org/Class/is_a_/organization/local_business/internet_cafe.protect.md) 
+### #is_/same_as :: [internet_cafe.protect](/_protect/schema-org/Class/is_a_/organization/local_business/internet_cafe.protect.md) 
 
-### [internet_cafe.private](/_private/schema-org/Class/is_a_/organization/local_business/internet_cafe.private.md) 
+### #is_/same_as :: [internet_cafe.private](/_private/schema-org/Class/is_a_/organization/local_business/internet_cafe.private.md) 
 
-### [internet_cafe.personal](/_personal/schema-org/Class/is_a_/organization/local_business/internet_cafe.personal.md) 
+### #is_/same_as :: [internet_cafe.personal](/_personal/schema-org/Class/is_a_/organization/local_business/internet_cafe.personal.md) 
 
-### [internet_cafe.secret](/_secret/schema-org/Class/is_a_/organization/local_business/internet_cafe.secret.md)
+### #is_/same_as :: [internet_cafe.secret](/_secret/schema-org/Class/is_a_/organization/local_business/internet_cafe.secret.md)
 

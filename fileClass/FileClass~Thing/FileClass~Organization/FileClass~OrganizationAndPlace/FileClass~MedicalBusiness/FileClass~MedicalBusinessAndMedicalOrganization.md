@@ -63,17 +63,17 @@ MedicalSpecialty:: {"type":"Select","options":{"valuesList":{"Anesthesia","Cardi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.md) 
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.public.md) 
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.public.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.internal.md) 
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.internal.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.protect.md) 
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.protect.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.private.md) 
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.private.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.personal.md) 
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.personal.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.secret.md)
+### #is_/same_as :: [FileClass~MedicalBusinessAndMedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.secret.md)
 

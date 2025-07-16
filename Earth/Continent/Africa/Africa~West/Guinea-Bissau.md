@@ -410,17 +410,17 @@ Capital :: [[Bissau]]
 
 ## Confidential Links & Embeds: 
 
-### [Guinea-Bissau](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau.md) 
+### #is_/same_as :: [Guinea-Bissau](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau.md) 
 
-### [Guinea-Bissau.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau.public.md) 
+### #is_/same_as :: [Guinea-Bissau.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau.public.md) 
 
-### [Guinea-Bissau.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.internal.md) 
+### #is_/same_as :: [Guinea-Bissau.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.internal.md) 
 
-### [Guinea-Bissau.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau.protect.md) 
+### #is_/same_as :: [Guinea-Bissau.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea-Bissau.protect.md) 
 
-### [Guinea-Bissau.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau.private.md) 
+### #is_/same_as :: [Guinea-Bissau.private](/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau.private.md) 
 
-### [Guinea-Bissau.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.personal.md) 
+### #is_/same_as :: [Guinea-Bissau.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.personal.md) 
 
-### [Guinea-Bissau.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret.md)
+### #is_/same_as :: [Guinea-Bissau.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret.md)
 

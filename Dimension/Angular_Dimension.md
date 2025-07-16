@@ -9,17 +9,17 @@ so the Equations retain the Shape when switching Dimensions.
 
 ## Confidential Links & Embeds: 
 
-### [Angular_Dimension](/_Standards/Dimension/Angular_Dimension.md) 
+### #is_/same_as :: [Angular_Dimension](/_Standards/Dimension/Angular_Dimension.md) 
 
-### [Angular_Dimension.public](/_public/Dimension/Angular_Dimension.public.md) 
+### #is_/same_as :: [Angular_Dimension.public](/_public/Dimension/Angular_Dimension.public.md) 
 
-### [Angular_Dimension.internal](/_internal/Dimension/Angular_Dimension.internal.md) 
+### #is_/same_as :: [Angular_Dimension.internal](/_internal/Dimension/Angular_Dimension.internal.md) 
 
-### [Angular_Dimension.protect](/_protect/Dimension/Angular_Dimension.protect.md) 
+### #is_/same_as :: [Angular_Dimension.protect](/_protect/Dimension/Angular_Dimension.protect.md) 
 
-### [Angular_Dimension.private](/_private/Dimension/Angular_Dimension.private.md) 
+### #is_/same_as :: [Angular_Dimension.private](/_private/Dimension/Angular_Dimension.private.md) 
 
-### [Angular_Dimension.personal](/_personal/Dimension/Angular_Dimension.personal.md) 
+### #is_/same_as :: [Angular_Dimension.personal](/_personal/Dimension/Angular_Dimension.personal.md) 
 
-### [Angular_Dimension.secret](/_secret/Dimension/Angular_Dimension.secret.md)
+### #is_/same_as :: [Angular_Dimension.secret](/_secret/Dimension/Angular_Dimension.secret.md)
 

@@ -123,20 +123,19 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 ![Calanus_pavo](Calanus_pavo.jpg)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Calanoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.md) 
+### #is_/same_as :: [Calanoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.md) 
 
-### [Calanoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.public.md) 
+### #is_/same_as :: [Calanoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.public.md) 
 
-### [Calanoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.internal.md) 
+### #is_/same_as :: [Calanoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.internal.md) 
 
-### [Calanoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.protect.md) 
+### #is_/same_as :: [Calanoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.protect.md) 
 
-### [Calanoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.private.md) 
+### #is_/same_as :: [Calanoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.private.md) 
 
-### [Calanoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.personal.md) 
+### #is_/same_as :: [Calanoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.personal.md) 
 
-### [Calanoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.secret.md)
+### #is_/same_as :: [Calanoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.secret.md)
 

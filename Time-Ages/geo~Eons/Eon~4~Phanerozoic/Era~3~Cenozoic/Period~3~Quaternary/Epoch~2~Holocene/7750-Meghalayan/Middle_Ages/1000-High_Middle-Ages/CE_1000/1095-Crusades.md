@@ -64,22 +64,19 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crusades,1073011
 > [Wikipedia](https://en.wikipedia.org/wiki/Crusades) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [1095-Crusades](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.md) 
+### #is_/same_as :: [1095-Crusades](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.md) 
 
-### [1095-Crusades.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.public.md) 
+### #is_/same_as :: [1095-Crusades.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.public.md) 
 
-### [1095-Crusades.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.internal.md) 
+### #is_/same_as :: [1095-Crusades.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.internal.md) 
 
-### [1095-Crusades.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.protect.md) 
+### #is_/same_as :: [1095-Crusades.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.protect.md) 
 
-### [1095-Crusades.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.private.md) 
+### #is_/same_as :: [1095-Crusades.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.private.md) 
 
-### [1095-Crusades.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.personal.md) 
+### #is_/same_as :: [1095-Crusades.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.personal.md) 
 
-### [1095-Crusades.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.secret.md)
+### #is_/same_as :: [1095-Crusades.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1095-Crusades.secret.md)
 

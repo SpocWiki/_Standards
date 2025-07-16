@@ -445,17 +445,17 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 
 ## Confidential Links & Embeds: 
 
-### [Jordan](/_Standards/Earth/Continent/Asia/Asia~West/Jordan.md) 
+### #is_/same_as :: [Jordan](/_Standards/Earth/Continent/Asia/Asia~West/Jordan.md) 
 
-### [Jordan.public](/_public/Earth/Continent/Asia/Asia~West/Jordan.public.md) 
+### #is_/same_as :: [Jordan.public](/_public/Earth/Continent/Asia/Asia~West/Jordan.public.md) 
 
-### [Jordan.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal.md) 
+### #is_/same_as :: [Jordan.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal.md) 
 
-### [Jordan.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect.md) 
+### #is_/same_as :: [Jordan.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect.md) 
 
-### [Jordan.private](/_private/Earth/Continent/Asia/Asia~West/Jordan.private.md) 
+### #is_/same_as :: [Jordan.private](/_private/Earth/Continent/Asia/Asia~West/Jordan.private.md) 
 
-### [Jordan.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal.md) 
+### #is_/same_as :: [Jordan.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal.md) 
 
-### [Jordan.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret.md)
+### #is_/same_as :: [Jordan.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret.md)
 

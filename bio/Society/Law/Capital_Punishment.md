@@ -65,21 +65,19 @@ IPTC_NewsCode: mediatopic/20000135
 > [Wikipedia](https://en.wikipedia.org/wiki/Capital%20punishment)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Capital_Punishment](/_Standards/bio/Society/Law/Capital_Punishment.md) 
+### #is_/same_as :: [Capital_Punishment](/_Standards/bio/Society/Law/Capital_Punishment.md) 
 
-### [Capital_Punishment.public](/_public/bio/Society/Law/Capital_Punishment.public.md) 
+### #is_/same_as :: [Capital_Punishment.public](/_public/bio/Society/Law/Capital_Punishment.public.md) 
 
-### [Capital_Punishment.internal](/_internal/bio/Society/Law/Capital_Punishment.internal.md) 
+### #is_/same_as :: [Capital_Punishment.internal](/_internal/bio/Society/Law/Capital_Punishment.internal.md) 
 
-### [Capital_Punishment.protect](/_protect/bio/Society/Law/Capital_Punishment.protect.md) 
+### #is_/same_as :: [Capital_Punishment.protect](/_protect/bio/Society/Law/Capital_Punishment.protect.md) 
 
-### [Capital_Punishment.private](/_private/bio/Society/Law/Capital_Punishment.private.md) 
+### #is_/same_as :: [Capital_Punishment.private](/_private/bio/Society/Law/Capital_Punishment.private.md) 
 
-### [Capital_Punishment.personal](/_personal/bio/Society/Law/Capital_Punishment.personal.md) 
+### #is_/same_as :: [Capital_Punishment.personal](/_personal/bio/Society/Law/Capital_Punishment.personal.md) 
 
-### [Capital_Punishment.secret](/_secret/bio/Society/Law/Capital_Punishment.secret.md)
+### #is_/same_as :: [Capital_Punishment.secret](/_secret/bio/Society/Law/Capital_Punishment.secret.md)
 

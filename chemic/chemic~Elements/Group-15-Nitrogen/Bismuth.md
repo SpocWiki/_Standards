@@ -103,17 +103,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### [Bismuth](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.md) 
+### #is_/same_as :: [Bismuth](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.md) 
 
-### [Bismuth.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.public.md) 
+### #is_/same_as :: [Bismuth.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.public.md) 
 
-### [Bismuth.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.internal.md) 
+### #is_/same_as :: [Bismuth.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.internal.md) 
 
-### [Bismuth.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.protect.md) 
+### #is_/same_as :: [Bismuth.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.protect.md) 
 
-### [Bismuth.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.private.md) 
+### #is_/same_as :: [Bismuth.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.private.md) 
 
-### [Bismuth.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.personal.md) 
+### #is_/same_as :: [Bismuth.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.personal.md) 
 
-### [Bismuth.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.secret.md)
+### #is_/same_as :: [Bismuth.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.secret.md)
 

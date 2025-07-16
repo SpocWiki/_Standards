@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_bio_chem_similar_to](/_Standards/schema-org/Relation/is/is_bio_chem_similar_to.md) 
+### #is_/same_as :: [is_bio_chem_similar_to](/_Standards/schema-org/Relation/is/is_bio_chem_similar_to.md) 
 
-### [is_bio_chem_similar_to.public](/_public/schema-org/Relation/is/is_bio_chem_similar_to.public.md) 
+### #is_/same_as :: [is_bio_chem_similar_to.public](/_public/schema-org/Relation/is/is_bio_chem_similar_to.public.md) 
 
-### [is_bio_chem_similar_to.internal](/_internal/schema-org/Relation/is/is_bio_chem_similar_to.internal.md) 
+### #is_/same_as :: [is_bio_chem_similar_to.internal](/_internal/schema-org/Relation/is/is_bio_chem_similar_to.internal.md) 
 
-### [is_bio_chem_similar_to.protect](/_protect/schema-org/Relation/is/is_bio_chem_similar_to.protect.md) 
+### #is_/same_as :: [is_bio_chem_similar_to.protect](/_protect/schema-org/Relation/is/is_bio_chem_similar_to.protect.md) 
 
-### [is_bio_chem_similar_to.private](/_private/schema-org/Relation/is/is_bio_chem_similar_to.private.md) 
+### #is_/same_as :: [is_bio_chem_similar_to.private](/_private/schema-org/Relation/is/is_bio_chem_similar_to.private.md) 
 
-### [is_bio_chem_similar_to.personal](/_personal/schema-org/Relation/is/is_bio_chem_similar_to.personal.md) 
+### #is_/same_as :: [is_bio_chem_similar_to.personal](/_personal/schema-org/Relation/is/is_bio_chem_similar_to.personal.md) 
 
-### [is_bio_chem_similar_to.secret](/_secret/schema-org/Relation/is/is_bio_chem_similar_to.secret.md)
+### #is_/same_as :: [is_bio_chem_similar_to.secret](/_secret/schema-org/Relation/is/is_bio_chem_similar_to.secret.md)
 

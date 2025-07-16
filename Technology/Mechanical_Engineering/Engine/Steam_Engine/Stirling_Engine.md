@@ -53,26 +53,19 @@ The idealised Stirling cycle consists of four [thermodynamic processes](https:/
 > [Wikipedia](https://en.wikipedia.org/wiki/Stirling%20engine)
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Stirling_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.md) 
+### #is_/same_as :: [Stirling_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.md) 
 
-### [Stirling_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public.md) 
+### #is_/same_as :: [Stirling_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public.md) 
 
-### [Stirling_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal.md) 
+### #is_/same_as :: [Stirling_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal.md) 
 
-### [Stirling_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect.md) 
+### #is_/same_as :: [Stirling_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect.md) 
 
-### [Stirling_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private.md) 
+### #is_/same_as :: [Stirling_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private.md) 
 
-### [Stirling_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal.md) 
+### #is_/same_as :: [Stirling_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal.md) 
 
-### [Stirling_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret.md)
+### #is_/same_as :: [Stirling_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret.md)
 

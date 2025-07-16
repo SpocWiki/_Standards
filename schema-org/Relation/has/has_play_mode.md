@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_play_mode](/_Standards/schema-org/Relation/has/has_play_mode.md) 
+### #is_/same_as :: [has_play_mode](/_Standards/schema-org/Relation/has/has_play_mode.md) 
 
-### [has_play_mode.public](/_public/schema-org/Relation/has/has_play_mode.public.md) 
+### #is_/same_as :: [has_play_mode.public](/_public/schema-org/Relation/has/has_play_mode.public.md) 
 
-### [has_play_mode.internal](/_internal/schema-org/Relation/has/has_play_mode.internal.md) 
+### #is_/same_as :: [has_play_mode.internal](/_internal/schema-org/Relation/has/has_play_mode.internal.md) 
 
-### [has_play_mode.protect](/_protect/schema-org/Relation/has/has_play_mode.protect.md) 
+### #is_/same_as :: [has_play_mode.protect](/_protect/schema-org/Relation/has/has_play_mode.protect.md) 
 
-### [has_play_mode.private](/_private/schema-org/Relation/has/has_play_mode.private.md) 
+### #is_/same_as :: [has_play_mode.private](/_private/schema-org/Relation/has/has_play_mode.private.md) 
 
-### [has_play_mode.personal](/_personal/schema-org/Relation/has/has_play_mode.personal.md) 
+### #is_/same_as :: [has_play_mode.personal](/_personal/schema-org/Relation/has/has_play_mode.personal.md) 
 
-### [has_play_mode.secret](/_secret/schema-org/Relation/has/has_play_mode.secret.md)
+### #is_/same_as :: [has_play_mode.secret](/_secret/schema-org/Relation/has/has_play_mode.secret.md)
 

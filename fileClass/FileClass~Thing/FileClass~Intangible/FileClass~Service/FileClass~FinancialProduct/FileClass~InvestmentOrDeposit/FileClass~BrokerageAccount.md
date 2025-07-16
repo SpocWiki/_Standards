@@ -35,17 +35,17 @@ An account that allows an investor to deposit funds and place investment orders 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BrokerageAccount](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.md) 
+### #is_/same_as :: [FileClass~BrokerageAccount](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.md) 
 
-### [FileClass~BrokerageAccount.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.public.md) 
+### #is_/same_as :: [FileClass~BrokerageAccount.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.public.md) 
 
-### [FileClass~BrokerageAccount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.internal.md) 
+### #is_/same_as :: [FileClass~BrokerageAccount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.internal.md) 
 
-### [FileClass~BrokerageAccount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.protect.md) 
+### #is_/same_as :: [FileClass~BrokerageAccount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.protect.md) 
 
-### [FileClass~BrokerageAccount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.private.md) 
+### #is_/same_as :: [FileClass~BrokerageAccount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.private.md) 
 
-### [FileClass~BrokerageAccount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.personal.md) 
+### #is_/same_as :: [FileClass~BrokerageAccount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.personal.md) 
 
-### [FileClass~BrokerageAccount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.secret.md)
+### #is_/same_as :: [FileClass~BrokerageAccount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BrokerageAccount.secret.md)
 

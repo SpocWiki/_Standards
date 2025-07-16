@@ -114,17 +114,17 @@ ValueReference:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~QuantitativeValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.md) 
+### #is_/same_as :: [FileClass~QuantitativeValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.md) 
 
-### [FileClass~QuantitativeValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.public.md) 
+### #is_/same_as :: [FileClass~QuantitativeValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.public.md) 
 
-### [FileClass~QuantitativeValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.internal.md) 
+### #is_/same_as :: [FileClass~QuantitativeValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.internal.md) 
 
-### [FileClass~QuantitativeValue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.protect.md) 
+### #is_/same_as :: [FileClass~QuantitativeValue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.protect.md) 
 
-### [FileClass~QuantitativeValue.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.private.md) 
+### #is_/same_as :: [FileClass~QuantitativeValue.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.private.md) 
 
-### [FileClass~QuantitativeValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.personal.md) 
+### #is_/same_as :: [FileClass~QuantitativeValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.personal.md) 
 
-### [FileClass~QuantitativeValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.secret.md)
+### #is_/same_as :: [FileClass~QuantitativeValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue.secret.md)
 

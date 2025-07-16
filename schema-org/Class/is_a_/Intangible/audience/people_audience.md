@@ -47,17 +47,17 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 ## Confidential Links & Embeds: 
 
-### [people_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/people_audience.md) 
+### #is_/same_as :: [people_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/people_audience.md) 
 
-### [people_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience.public.md) 
+### #is_/same_as :: [people_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience.public.md) 
 
-### [people_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/people_audience.internal.md) 
+### #is_/same_as :: [people_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/people_audience.internal.md) 
 
-### [people_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/people_audience.protect.md) 
+### #is_/same_as :: [people_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/people_audience.protect.md) 
 
-### [people_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/people_audience.private.md) 
+### #is_/same_as :: [people_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/people_audience.private.md) 
 
-### [people_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/people_audience.personal.md) 
+### #is_/same_as :: [people_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/people_audience.personal.md) 
 
-### [people_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience.secret.md)
+### #is_/same_as :: [people_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience.secret.md)
 

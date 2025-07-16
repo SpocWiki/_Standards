@@ -80,17 +80,17 @@ hashtag: DNA
 
 ## Confidential Links & Embeds: 
 
-### [DNA(Desoxyribo-Nucleic_Acid)](/_Standards/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid)](/_Standards/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).md) 
 
-### [DNA(Desoxyribo-Nucleic_Acid).public](/_public/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).public.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).public](/_public/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).public.md) 
 
-### [DNA(Desoxyribo-Nucleic_Acid).internal](/_internal/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).internal.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).internal](/_internal/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).internal.md) 
 
-### [DNA(Desoxyribo-Nucleic_Acid).protect](/_protect/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).protect.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).protect](/_protect/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).protect.md) 
 
-### [DNA(Desoxyribo-Nucleic_Acid).private](/_private/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).private.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).private](/_private/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).private.md) 
 
-### [DNA(Desoxyribo-Nucleic_Acid).personal](/_personal/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).personal.md) 
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).personal](/_personal/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).personal.md) 
 
-### [DNA(Desoxyribo-Nucleic_Acid).secret](/_secret/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).secret.md)
+### #is_/same_as :: [DNA(Desoxyribo-Nucleic_Acid).secret](/_secret/bio/Genetics/DNA(Desoxyribo-Nucleic_Acid).secret.md)
 

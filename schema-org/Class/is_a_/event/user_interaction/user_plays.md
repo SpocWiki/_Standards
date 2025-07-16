@@ -50,17 +50,17 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 ## Confidential Links & Embeds: 
 
-### [user_plays](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_plays.md) 
+### #is_/same_as :: [user_plays](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_plays.md) 
 
-### [user_plays.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_plays.public.md) 
+### #is_/same_as :: [user_plays.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_plays.public.md) 
 
-### [user_plays.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_plays.internal.md) 
+### #is_/same_as :: [user_plays.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_plays.internal.md) 
 
-### [user_plays.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_plays.protect.md) 
+### #is_/same_as :: [user_plays.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_plays.protect.md) 
 
-### [user_plays.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_plays.private.md) 
+### #is_/same_as :: [user_plays.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_plays.private.md) 
 
-### [user_plays.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_plays.personal.md) 
+### #is_/same_as :: [user_plays.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_plays.personal.md) 
 
-### [user_plays.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_plays.secret.md)
+### #is_/same_as :: [user_plays.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_plays.secret.md)
 

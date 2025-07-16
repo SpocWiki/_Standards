@@ -98,17 +98,17 @@ European Journal of Protistology 32:423-448.
 
 ## Confidential Links & Embeds: 
 
-### [Ancyromonas](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.md) 
+### #is_/same_as :: [Ancyromonas](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.md) 
 
-### [Ancyromonas.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.public.md) 
+### #is_/same_as :: [Ancyromonas.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.public.md) 
 
-### [Ancyromonas.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.internal.md) 
+### #is_/same_as :: [Ancyromonas.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.internal.md) 
 
-### [Ancyromonas.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.protect.md) 
+### #is_/same_as :: [Ancyromonas.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.protect.md) 
 
-### [Ancyromonas.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.private.md) 
+### #is_/same_as :: [Ancyromonas.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.private.md) 
 
-### [Ancyromonas.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.personal.md) 
+### #is_/same_as :: [Ancyromonas.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.personal.md) 
 
-### [Ancyromonas.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.secret.md)
+### #is_/same_as :: [Ancyromonas.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.secret.md)
 

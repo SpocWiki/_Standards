@@ -45,17 +45,17 @@ Unlike [[CC-BY]] no Sources need to be specified, which [can blur the provenienc
 
 ## Confidential Links & Embeds: 
 
-### [CC-0](/_Standards/cc/CC-Licenses/CC-0.md) 
+### #is_/same_as :: [CC-0](/_Standards/cc/CC-Licenses/CC-0.md) 
 
-### [CC-0.public](/_public/cc/CC-Licenses/CC-0.public.md) 
+### #is_/same_as :: [CC-0.public](/_public/cc/CC-Licenses/CC-0.public.md) 
 
-### [CC-0.internal](/_internal/cc/CC-Licenses/CC-0.internal.md) 
+### #is_/same_as :: [CC-0.internal](/_internal/cc/CC-Licenses/CC-0.internal.md) 
 
-### [CC-0.protect](/_protect/cc/CC-Licenses/CC-0.protect.md) 
+### #is_/same_as :: [CC-0.protect](/_protect/cc/CC-Licenses/CC-0.protect.md) 
 
-### [CC-0.private](/_private/cc/CC-Licenses/CC-0.private.md) 
+### #is_/same_as :: [CC-0.private](/_private/cc/CC-Licenses/CC-0.private.md) 
 
-### [CC-0.personal](/_personal/cc/CC-Licenses/CC-0.personal.md) 
+### #is_/same_as :: [CC-0.personal](/_personal/cc/CC-Licenses/CC-0.personal.md) 
 
-### [CC-0.secret](/_secret/cc/CC-Licenses/CC-0.secret.md)
+### #is_/same_as :: [CC-0.secret](/_secret/cc/CC-Licenses/CC-0.secret.md)
 

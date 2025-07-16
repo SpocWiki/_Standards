@@ -62,17 +62,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_payload_kg](/_Standards/schema-org/Property/has_value_for/has_value_for_payload_kg.md) 
+### #is_/same_as :: [has_value_for_payload_kg](/_Standards/schema-org/Property/has_value_for/has_value_for_payload_kg.md) 
 
-### [has_value_for_payload_kg.public](/_public/schema-org/Property/has_value_for/has_value_for_payload_kg.public.md) 
+### #is_/same_as :: [has_value_for_payload_kg.public](/_public/schema-org/Property/has_value_for/has_value_for_payload_kg.public.md) 
 
-### [has_value_for_payload_kg.internal](/_internal/schema-org/Property/has_value_for/has_value_for_payload_kg.internal.md) 
+### #is_/same_as :: [has_value_for_payload_kg.internal](/_internal/schema-org/Property/has_value_for/has_value_for_payload_kg.internal.md) 
 
-### [has_value_for_payload_kg.protect](/_protect/schema-org/Property/has_value_for/has_value_for_payload_kg.protect.md) 
+### #is_/same_as :: [has_value_for_payload_kg.protect](/_protect/schema-org/Property/has_value_for/has_value_for_payload_kg.protect.md) 
 
-### [has_value_for_payload_kg.private](/_private/schema-org/Property/has_value_for/has_value_for_payload_kg.private.md) 
+### #is_/same_as :: [has_value_for_payload_kg.private](/_private/schema-org/Property/has_value_for/has_value_for_payload_kg.private.md) 
 
-### [has_value_for_payload_kg.personal](/_personal/schema-org/Property/has_value_for/has_value_for_payload_kg.personal.md) 
+### #is_/same_as :: [has_value_for_payload_kg.personal](/_personal/schema-org/Property/has_value_for/has_value_for_payload_kg.personal.md) 
 
-### [has_value_for_payload_kg.secret](/_secret/schema-org/Property/has_value_for/has_value_for_payload_kg.secret.md)
+### #is_/same_as :: [has_value_for_payload_kg.secret](/_secret/schema-org/Property/has_value_for/has_value_for_payload_kg.secret.md)
 

@@ -47,17 +47,17 @@ Represents an item or group of closely related items treated as a unit for the s
 
 ## Confidential Links & Embeds: 
 
-### [media_review_item](/_Standards/schema-org/Class/is_a_/creative_work/media_review_item.md) 
+### #is_/same_as :: [media_review_item](/_Standards/schema-org/Class/is_a_/creative_work/media_review_item.md) 
 
-### [media_review_item.public](/_public/schema-org/Class/is_a_/creative_work/media_review_item.public.md) 
+### #is_/same_as :: [media_review_item.public](/_public/schema-org/Class/is_a_/creative_work/media_review_item.public.md) 
 
-### [media_review_item.internal](/_internal/schema-org/Class/is_a_/creative_work/media_review_item.internal.md) 
+### #is_/same_as :: [media_review_item.internal](/_internal/schema-org/Class/is_a_/creative_work/media_review_item.internal.md) 
 
-### [media_review_item.protect](/_protect/schema-org/Class/is_a_/creative_work/media_review_item.protect.md) 
+### #is_/same_as :: [media_review_item.protect](/_protect/schema-org/Class/is_a_/creative_work/media_review_item.protect.md) 
 
-### [media_review_item.private](/_private/schema-org/Class/is_a_/creative_work/media_review_item.private.md) 
+### #is_/same_as :: [media_review_item.private](/_private/schema-org/Class/is_a_/creative_work/media_review_item.private.md) 
 
-### [media_review_item.personal](/_personal/schema-org/Class/is_a_/creative_work/media_review_item.personal.md) 
+### #is_/same_as :: [media_review_item.personal](/_personal/schema-org/Class/is_a_/creative_work/media_review_item.personal.md) 
 
-### [media_review_item.secret](/_secret/schema-org/Class/is_a_/creative_work/media_review_item.secret.md)
+### #is_/same_as :: [media_review_item.secret](/_secret/schema-org/Class/is_a_/creative_work/media_review_item.secret.md)
 

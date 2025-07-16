@@ -117,17 +117,17 @@ Commons_category: Radium
 
 ## Confidential Links & Embeds: 
 
-### [Radium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.md) 
+### #is_/same_as :: [Radium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.md) 
 
-### [Radium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.public.md) 
+### #is_/same_as :: [Radium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.public.md) 
 
-### [Radium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.internal.md) 
+### #is_/same_as :: [Radium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.internal.md) 
 
-### [Radium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.protect.md) 
+### #is_/same_as :: [Radium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.protect.md) 
 
-### [Radium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.private.md) 
+### #is_/same_as :: [Radium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.private.md) 
 
-### [Radium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.personal.md) 
+### #is_/same_as :: [Radium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.personal.md) 
 
-### [Radium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.secret.md)
+### #is_/same_as :: [Radium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.secret.md)
 

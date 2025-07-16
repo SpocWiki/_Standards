@@ -135,20 +135,19 @@ Venter of acariform mite (Sarcoptiformes: Oribatida, Lohmanniidae:
   --------
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Acariformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.md) 
+### #is_/same_as :: [Acariformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.md) 
 
-### [Acariformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.public.md) 
+### #is_/same_as :: [Acariformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.public.md) 
 
-### [Acariformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.internal.md) 
+### #is_/same_as :: [Acariformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.internal.md) 
 
-### [Acariformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.protect.md) 
+### #is_/same_as :: [Acariformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.protect.md) 
 
-### [Acariformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.private.md) 
+### #is_/same_as :: [Acariformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.private.md) 
 
-### [Acariformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.personal.md) 
+### #is_/same_as :: [Acariformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.personal.md) 
 
-### [Acariformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.secret.md)
+### #is_/same_as :: [Acariformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.secret.md)
 

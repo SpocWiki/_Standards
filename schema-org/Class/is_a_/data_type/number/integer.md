@@ -43,17 +43,17 @@ Data type: Integer.
 
 ## Confidential Links & Embeds: 
 
-### [integer](/_Standards/schema-org/Class/is_a_/data_type/number/integer.md) 
+### #is_/same_as :: [integer](/_Standards/schema-org/Class/is_a_/data_type/number/integer.md) 
 
-### [integer.public](/_public/schema-org/Class/is_a_/data_type/number/integer.public.md) 
+### #is_/same_as :: [integer.public](/_public/schema-org/Class/is_a_/data_type/number/integer.public.md) 
 
-### [integer.internal](/_internal/schema-org/Class/is_a_/data_type/number/integer.internal.md) 
+### #is_/same_as :: [integer.internal](/_internal/schema-org/Class/is_a_/data_type/number/integer.internal.md) 
 
-### [integer.protect](/_protect/schema-org/Class/is_a_/data_type/number/integer.protect.md) 
+### #is_/same_as :: [integer.protect](/_protect/schema-org/Class/is_a_/data_type/number/integer.protect.md) 
 
-### [integer.private](/_private/schema-org/Class/is_a_/data_type/number/integer.private.md) 
+### #is_/same_as :: [integer.private](/_private/schema-org/Class/is_a_/data_type/number/integer.private.md) 
 
-### [integer.personal](/_personal/schema-org/Class/is_a_/data_type/number/integer.personal.md) 
+### #is_/same_as :: [integer.personal](/_personal/schema-org/Class/is_a_/data_type/number/integer.personal.md) 
 
-### [integer.secret](/_secret/schema-org/Class/is_a_/data_type/number/integer.secret.md)
+### #is_/same_as :: [integer.secret](/_secret/schema-org/Class/is_a_/data_type/number/integer.secret.md)
 

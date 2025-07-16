@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_associated_disease](/_Standards/schema-org/Relation/has/has_associated_disease.md) 
+### #is_/same_as :: [has_associated_disease](/_Standards/schema-org/Relation/has/has_associated_disease.md) 
 
-### [has_associated_disease.public](/_public/schema-org/Relation/has/has_associated_disease.public.md) 
+### #is_/same_as :: [has_associated_disease.public](/_public/schema-org/Relation/has/has_associated_disease.public.md) 
 
-### [has_associated_disease.internal](/_internal/schema-org/Relation/has/has_associated_disease.internal.md) 
+### #is_/same_as :: [has_associated_disease.internal](/_internal/schema-org/Relation/has/has_associated_disease.internal.md) 
 
-### [has_associated_disease.protect](/_protect/schema-org/Relation/has/has_associated_disease.protect.md) 
+### #is_/same_as :: [has_associated_disease.protect](/_protect/schema-org/Relation/has/has_associated_disease.protect.md) 
 
-### [has_associated_disease.private](/_private/schema-org/Relation/has/has_associated_disease.private.md) 
+### #is_/same_as :: [has_associated_disease.private](/_private/schema-org/Relation/has/has_associated_disease.private.md) 
 
-### [has_associated_disease.personal](/_personal/schema-org/Relation/has/has_associated_disease.personal.md) 
+### #is_/same_as :: [has_associated_disease.personal](/_personal/schema-org/Relation/has/has_associated_disease.personal.md) 
 
-### [has_associated_disease.secret](/_secret/schema-org/Relation/has/has_associated_disease.secret.md)
+### #is_/same_as :: [has_associated_disease.secret](/_secret/schema-org/Relation/has/has_associated_disease.secret.md)
 

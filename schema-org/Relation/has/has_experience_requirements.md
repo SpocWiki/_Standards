@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_experience_requirements](/_Standards/schema-org/Relation/has/has_experience_requirements.md) 
+### #is_/same_as :: [has_experience_requirements](/_Standards/schema-org/Relation/has/has_experience_requirements.md) 
 
-### [has_experience_requirements.public](/_public/schema-org/Relation/has/has_experience_requirements.public.md) 
+### #is_/same_as :: [has_experience_requirements.public](/_public/schema-org/Relation/has/has_experience_requirements.public.md) 
 
-### [has_experience_requirements.internal](/_internal/schema-org/Relation/has/has_experience_requirements.internal.md) 
+### #is_/same_as :: [has_experience_requirements.internal](/_internal/schema-org/Relation/has/has_experience_requirements.internal.md) 
 
-### [has_experience_requirements.protect](/_protect/schema-org/Relation/has/has_experience_requirements.protect.md) 
+### #is_/same_as :: [has_experience_requirements.protect](/_protect/schema-org/Relation/has/has_experience_requirements.protect.md) 
 
-### [has_experience_requirements.private](/_private/schema-org/Relation/has/has_experience_requirements.private.md) 
+### #is_/same_as :: [has_experience_requirements.private](/_private/schema-org/Relation/has/has_experience_requirements.private.md) 
 
-### [has_experience_requirements.personal](/_personal/schema-org/Relation/has/has_experience_requirements.personal.md) 
+### #is_/same_as :: [has_experience_requirements.personal](/_personal/schema-org/Relation/has/has_experience_requirements.personal.md) 
 
-### [has_experience_requirements.secret](/_secret/schema-org/Relation/has/has_experience_requirements.secret.md)
+### #is_/same_as :: [has_experience_requirements.secret](/_secret/schema-org/Relation/has/has_experience_requirements.secret.md)
 

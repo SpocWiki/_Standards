@@ -45,17 +45,17 @@ A men's clothing store.
 
 ## Confidential Links & Embeds: 
 
-### [mens_clothing_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.md) 
+### #is_/same_as :: [mens_clothing_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.md) 
 
-### [mens_clothing_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.public.md) 
+### #is_/same_as :: [mens_clothing_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.public.md) 
 
-### [mens_clothing_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.internal.md) 
+### #is_/same_as :: [mens_clothing_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.internal.md) 
 
-### [mens_clothing_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.protect.md) 
+### #is_/same_as :: [mens_clothing_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.protect.md) 
 
-### [mens_clothing_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.private.md) 
+### #is_/same_as :: [mens_clothing_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.private.md) 
 
-### [mens_clothing_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.personal.md) 
+### #is_/same_as :: [mens_clothing_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.personal.md) 
 
-### [mens_clothing_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.secret.md)
+### #is_/same_as :: [mens_clothing_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/mens_clothing_store.secret.md)
 

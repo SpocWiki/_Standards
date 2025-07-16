@@ -49,17 +49,17 @@ The artwork on the outer surface of a CreativeWork.
 
 ## Confidential Links & Embeds: 
 
-### [cover_art](/_Standards/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.md) 
+### #is_/same_as :: [cover_art](/_Standards/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.md) 
 
-### [cover_art.public](/_public/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.public.md) 
+### #is_/same_as :: [cover_art.public](/_public/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.public.md) 
 
-### [cover_art.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.internal.md) 
+### #is_/same_as :: [cover_art.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.internal.md) 
 
-### [cover_art.protect](/_protect/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.protect.md) 
+### #is_/same_as :: [cover_art.protect](/_protect/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.protect.md) 
 
-### [cover_art.private](/_private/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.private.md) 
+### #is_/same_as :: [cover_art.private](/_private/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.private.md) 
 
-### [cover_art.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.personal.md) 
+### #is_/same_as :: [cover_art.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.personal.md) 
 
-### [cover_art.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.secret.md)
+### #is_/same_as :: [cover_art.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.secret.md)
 

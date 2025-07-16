@@ -40,17 +40,17 @@ StudyDesign:: {"type":"Select","options":{"valuesList":{"CaseSeries","CohortStud
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalObservationalStudy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.md) 
+### #is_/same_as :: [FileClass~MedicalObservationalStudy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.md) 
 
-### [FileClass~MedicalObservationalStudy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.public.md) 
+### #is_/same_as :: [FileClass~MedicalObservationalStudy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.public.md) 
 
-### [FileClass~MedicalObservationalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.internal.md) 
+### #is_/same_as :: [FileClass~MedicalObservationalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.internal.md) 
 
-### [FileClass~MedicalObservationalStudy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.protect.md) 
+### #is_/same_as :: [FileClass~MedicalObservationalStudy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.protect.md) 
 
-### [FileClass~MedicalObservationalStudy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.private.md) 
+### #is_/same_as :: [FileClass~MedicalObservationalStudy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.private.md) 
 
-### [FileClass~MedicalObservationalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.personal.md) 
+### #is_/same_as :: [FileClass~MedicalObservationalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.personal.md) 
 
-### [FileClass~MedicalObservationalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.secret.md)
+### #is_/same_as :: [FileClass~MedicalObservationalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.secret.md)
 

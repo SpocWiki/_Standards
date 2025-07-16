@@ -136,17 +136,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Gibraltar](/_Standards/Earth/Continent/Europe/Europe~South/Gibraltar.md) 
+### #is_/same_as :: [Gibraltar](/_Standards/Earth/Continent/Europe/Europe~South/Gibraltar.md) 
 
-### [Gibraltar.public](/_public/Earth/Continent/Europe/Europe~South/Gibraltar.public.md) 
+### #is_/same_as :: [Gibraltar.public](/_public/Earth/Continent/Europe/Europe~South/Gibraltar.public.md) 
 
-### [Gibraltar.internal](/_internal/Earth/Continent/Europe/Europe~South/Gibraltar.internal.md) 
+### #is_/same_as :: [Gibraltar.internal](/_internal/Earth/Continent/Europe/Europe~South/Gibraltar.internal.md) 
 
-### [Gibraltar.protect](/_protect/Earth/Continent/Europe/Europe~South/Gibraltar.protect.md) 
+### #is_/same_as :: [Gibraltar.protect](/_protect/Earth/Continent/Europe/Europe~South/Gibraltar.protect.md) 
 
-### [Gibraltar.private](/_private/Earth/Continent/Europe/Europe~South/Gibraltar.private.md) 
+### #is_/same_as :: [Gibraltar.private](/_private/Earth/Continent/Europe/Europe~South/Gibraltar.private.md) 
 
-### [Gibraltar.personal](/_personal/Earth/Continent/Europe/Europe~South/Gibraltar.personal.md) 
+### #is_/same_as :: [Gibraltar.personal](/_personal/Earth/Continent/Europe/Europe~South/Gibraltar.personal.md) 
 
-### [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret.md)
+### #is_/same_as :: [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret.md)
 
