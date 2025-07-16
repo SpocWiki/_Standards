@@ -31,9 +31,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Joke) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Joke](/_Standards/Joke.md) 

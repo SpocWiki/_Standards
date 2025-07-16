@@ -21,9 +21,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Book) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Book](/_Standards/Book.md) 

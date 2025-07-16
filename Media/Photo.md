@@ -11,9 +11,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Photograph) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Photo](/_Standards/Photo.md) 

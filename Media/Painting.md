@@ -27,9 +27,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Painting) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Painting](/_Standards/Painting.md) 
