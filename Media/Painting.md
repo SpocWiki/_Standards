@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Painting](/_Standards/Painting.md) 
+### #is_/same_as :: [Painting](/_Standards/Media/Painting.md) 
 
-### #is_/same_as :: [Painting.public](/_public/Painting.public.md) 
+### #is_/same_as :: [Painting.public](/_public/Media/Painting.public.md) 
 
-### #is_/same_as :: [Painting.internal](/_internal/Painting.internal.md) 
+### #is_/same_as :: [Painting.internal](/_internal/Media/Painting.internal.md) 
 
-### #is_/same_as :: [Painting.protect](/_protect/Painting.protect.md) 
+### #is_/same_as :: [Painting.protect](/_protect/Media/Painting.protect.md) 
 
-### #is_/same_as :: [Painting.private](/_private/Painting.private.md) 
+### #is_/same_as :: [Painting.private](/_private/Media/Painting.private.md) 
 
-### #is_/same_as :: [Painting.personal](/_personal/Painting.personal.md) 
+### #is_/same_as :: [Painting.personal](/_personal/Media/Painting.personal.md) 
 
-### #is_/same_as :: [Painting.secret](/_secret/Painting.secret.md)
+### #is_/same_as :: [Painting.secret](/_secret/Media/Painting.secret.md)
 

@@ -14,24 +14,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Music) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music](/_Standards/Music.md) 
+### #is_/same_as :: [Music](/_Standards/Media/Music.md) 
 
-### #is_/same_as :: [Music.public](/_public/Music.public.md) 
+### #is_/same_as :: [Music.public](/_public/Media/Music.public.md) 
 
-### #is_/same_as :: [Music.internal](/_internal/Music.internal.md) 
+### #is_/same_as :: [Music.internal](/_internal/Media/Music.internal.md) 
 
-### #is_/same_as :: [Music.protect](/_protect/Music.protect.md) 
+### #is_/same_as :: [Music.protect](/_protect/Media/Music.protect.md) 
 
-### #is_/same_as :: [Music.private](/_private/Music.private.md) 
+### #is_/same_as :: [Music.private](/_private/Media/Music.private.md) 
 
-### #is_/same_as :: [Music.personal](/_personal/Music.personal.md) 
+### #is_/same_as :: [Music.personal](/_personal/Media/Music.personal.md) 
 
-### #is_/same_as :: [Music.secret](/_secret/Music.secret.md)
+### #is_/same_as :: [Music.secret](/_secret/Media/Music.secret.md)
 

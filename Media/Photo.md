@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photo](/_Standards/Photo.md) 
+### #is_/same_as :: [Photo](/_Standards/Media/Photo.md) 
 
-### #is_/same_as :: [Photo.public](/_public/Photo.public.md) 
+### #is_/same_as :: [Photo.public](/_public/Media/Photo.public.md) 
 
-### #is_/same_as :: [Photo.internal](/_internal/Photo.internal.md) 
+### #is_/same_as :: [Photo.internal](/_internal/Media/Photo.internal.md) 
 
-### #is_/same_as :: [Photo.protect](/_protect/Photo.protect.md) 
+### #is_/same_as :: [Photo.protect](/_protect/Media/Photo.protect.md) 
 
-### #is_/same_as :: [Photo.private](/_private/Photo.private.md) 
+### #is_/same_as :: [Photo.private](/_private/Media/Photo.private.md) 
 
-### #is_/same_as :: [Photo.personal](/_personal/Photo.personal.md) 
+### #is_/same_as :: [Photo.personal](/_personal/Media/Photo.personal.md) 
 
-### #is_/same_as :: [Photo.secret](/_secret/Photo.secret.md)
+### #is_/same_as :: [Photo.secret](/_secret/Media/Photo.secret.md)
 

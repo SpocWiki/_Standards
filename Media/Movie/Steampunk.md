@@ -21,6 +21,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Steampunk) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Steampunk](/_Standards/Media/Movie/Steampunk.md) 
 
+### #is_/same_as :: [Steampunk.public](/_public/Media/Movie/Steampunk.public.md) 
+
+### #is_/same_as :: [Steampunk.internal](/_internal/Media/Movie/Steampunk.internal.md) 
+
+### #is_/same_as :: [Steampunk.protect](/_protect/Media/Movie/Steampunk.protect.md) 
+
+### #is_/same_as :: [Steampunk.private](/_private/Media/Movie/Steampunk.private.md) 
+
+### #is_/same_as :: [Steampunk.personal](/_personal/Media/Movie/Steampunk.personal.md) 
+
+### #is_/same_as :: [Steampunk.secret](/_secret/Media/Movie/Steampunk.secret.md)
 

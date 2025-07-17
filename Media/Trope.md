@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trope](/_Standards/Trope.md) 
+### #is_/same_as :: [Trope](/_Standards/Media/Trope.md) 
 
-### #is_/same_as :: [Trope.public](/_public/Trope.public.md) 
+### #is_/same_as :: [Trope.public](/_public/Media/Trope.public.md) 
 
-### #is_/same_as :: [Trope.internal](/_internal/Trope.internal.md) 
+### #is_/same_as :: [Trope.internal](/_internal/Media/Trope.internal.md) 
 
-### #is_/same_as :: [Trope.protect](/_protect/Trope.protect.md) 
+### #is_/same_as :: [Trope.protect](/_protect/Media/Trope.protect.md) 
 
-### #is_/same_as :: [Trope.private](/_private/Trope.private.md) 
+### #is_/same_as :: [Trope.private](/_private/Media/Trope.private.md) 
 
-### #is_/same_as :: [Trope.personal](/_personal/Trope.personal.md) 
+### #is_/same_as :: [Trope.personal](/_personal/Media/Trope.personal.md) 
 
-### #is_/same_as :: [Trope.secret](/_secret/Trope.secret.md)
+### #is_/same_as :: [Trope.secret](/_secret/Media/Trope.secret.md)
 

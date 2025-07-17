@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Book](/_Standards/Book.md) 
+### #is_/same_as :: [Book](/_Standards/Media/Book.md) 
 
-### #is_/same_as :: [Book.public](/_public/Book.public.md) 
+### #is_/same_as :: [Book.public](/_public/Media/Book.public.md) 
 
-### #is_/same_as :: [Book.internal](/_internal/Book.internal.md) 
+### #is_/same_as :: [Book.internal](/_internal/Media/Book.internal.md) 
 
-### #is_/same_as :: [Book.protect](/_protect/Book.protect.md) 
+### #is_/same_as :: [Book.protect](/_protect/Media/Book.protect.md) 
 
-### #is_/same_as :: [Book.private](/_private/Book.private.md) 
+### #is_/same_as :: [Book.private](/_private/Media/Book.private.md) 
 
-### #is_/same_as :: [Book.personal](/_personal/Book.personal.md) 
+### #is_/same_as :: [Book.personal](/_personal/Media/Book.personal.md) 
 
-### #is_/same_as :: [Book.secret](/_secret/Book.secret.md)
+### #is_/same_as :: [Book.secret](/_secret/Media/Book.secret.md)
 

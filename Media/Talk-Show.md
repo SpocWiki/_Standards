@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Talk-Show](/_Standards/Talk-Show.md) 
+### #is_/same_as :: [Talk-Show](/_Standards/Media/Talk-Show.md) 
 
-### #is_/same_as :: [Talk-Show.public](/_public/Talk-Show.public.md) 
+### #is_/same_as :: [Talk-Show.public](/_public/Media/Talk-Show.public.md) 
 
-### #is_/same_as :: [Talk-Show.internal](/_internal/Talk-Show.internal.md) 
+### #is_/same_as :: [Talk-Show.internal](/_internal/Media/Talk-Show.internal.md) 
 
-### #is_/same_as :: [Talk-Show.protect](/_protect/Talk-Show.protect.md) 
+### #is_/same_as :: [Talk-Show.protect](/_protect/Media/Talk-Show.protect.md) 
 
-### #is_/same_as :: [Talk-Show.private](/_private/Talk-Show.private.md) 
+### #is_/same_as :: [Talk-Show.private](/_private/Media/Talk-Show.private.md) 
 
-### #is_/same_as :: [Talk-Show.personal](/_personal/Talk-Show.personal.md) 
+### #is_/same_as :: [Talk-Show.personal](/_personal/Media/Talk-Show.personal.md) 
 
-### #is_/same_as :: [Talk-Show.secret](/_secret/Talk-Show.secret.md)
+### #is_/same_as :: [Talk-Show.secret](/_secret/Media/Talk-Show.secret.md)
 
