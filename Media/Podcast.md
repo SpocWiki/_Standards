@@ -17,9 +17,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Podcast) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Podcast](/_Standards/Podcast.md) 

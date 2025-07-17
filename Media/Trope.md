@@ -10,9 +10,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Trope%20(cinema)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Trope](/_Standards/Trope.md) 

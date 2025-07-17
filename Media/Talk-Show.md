@@ -26,9 +26,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Talk%20show) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Talk-Show](/_Standards/Talk-Show.md) 
