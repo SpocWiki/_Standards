@@ -225,5 +225,3 @@ hashtag: Mars
 
 ### #is_/same_as :: [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
 
-
-`=this.is_same_as`

@@ -25,3 +25,22 @@ has_id_wikidata: Q17243
 > [Wikipedia](https://en.wikipedia.org/wiki/Monopoly%20(game)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monopoly(game)](/_Standards/Economics/Currency/Monopoly(game).md) 
+
+### #is_/same_as :: [Monopoly(game).public](/_public/Economics/Currency/Monopoly(game).public.md) 
+
+### #is_/same_as :: [Monopoly(game).internal](/_internal/Economics/Currency/Monopoly(game).internal.md) 
+
+### #is_/same_as :: [Monopoly(game).protect](/_protect/Economics/Currency/Monopoly(game).protect.md) 
+
+### #is_/same_as :: [Monopoly(game).private](/_private/Economics/Currency/Monopoly(game).private.md) 
+
+### #is_/same_as :: [Monopoly(game).personal](/_personal/Economics/Currency/Monopoly(game).personal.md) 
+
+### #is_/same_as :: [Monopoly(game).secret](/_secret/Economics/Currency/Monopoly(game).secret.md)
+

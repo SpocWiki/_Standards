@@ -89,8 +89,6 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/astronomy
 > 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Astronomy](/_Standards/Astronomy.md) 
