@@ -20,14 +20,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Sloterdijk)
 
 
-
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Sloterdijk,Peter](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.md) 

@@ -222,7 +222,7 @@ Europeana_entity: agent/base/200
 Weakness leads to Dishonesty and Resentment when Goals are denied. 
 
 
-#is_/similar_to :: [[../../../bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy]] 
+#is_/similar_to :: [[../../../Society/Ideology/Political_Ideology/Fascism/Nice_Guy]] 
 
 
 ## Confidential Links & Embeds: 

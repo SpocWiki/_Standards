@@ -54,7 +54,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stoicism)
 
-Modern Stoicism was captured by the [[../bio/Society/Ideology/Political_Ideology/Fascism/Manosphere]] to form [[../bio/Society/Ideology/Political_Ideology/Fascism/Broicism]]. 
+Modern Stoicism was captured by the [[../Society/Ideology/Political_Ideology/Fascism/Manosphere]] to form [[../Society/Ideology/Political_Ideology/Fascism/Broicism]]. 
 
 | Philosopher        | year | year | Origin  | Major Contributions                                 |
 | ------------------ | ---: | ---: | ------- | --------------------------------------------------- |
@@ -66,9 +66,6 @@ Modern Stoicism was captured by the [[../bio/Society/Ideology/Political_Ideology
 | Cleanthes          | -330 | -230 | Assos   | _Hymn to Zeus_, divine reason                       |
 | Musonius Rufus     |   20 |  100 | Etruria | Practical ethics, influence on Epictetus            |
 | Hierocles          |  200 |  250 | Unknown | Cosmopolitanism, circles of concern                 |
-
-
-
 
 
 ## Confidential Links & Embeds: 

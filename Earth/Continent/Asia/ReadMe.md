@@ -2,13 +2,6 @@
 
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Asia/ReadMe.md) 

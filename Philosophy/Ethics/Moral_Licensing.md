@@ -56,11 +56,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Self-licensing)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Moral_Licensing](/_Standards/Philosophy/Ethics/Moral_Licensing.md) 

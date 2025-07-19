@@ -41,8 +41,6 @@ aliases:
 to settled agriculture (also known as the Neolithic Revolution)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [First_Agricultural_Revolution](/_Standards/Economics/First_Agricultural_Revolution.md) 

@@ -64,10 +64,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Green%20Revolution) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Green_Revolution](/_Standards/Economics/Green_Revolution.md) 

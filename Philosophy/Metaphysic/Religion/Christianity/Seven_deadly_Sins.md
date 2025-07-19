@@ -31,8 +31,6 @@ aliases:
 These were themes in the [[Seven(1995_film)]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seven_deadly_Sins](/_Standards/Philosophy/Metaphysic/Religion/Christianity/Seven_deadly_Sins.md) 

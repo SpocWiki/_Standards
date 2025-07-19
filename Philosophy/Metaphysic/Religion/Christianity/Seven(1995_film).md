@@ -38,10 +38,6 @@ launched: 1995-09-22
 > [Wikipedia](https://en.wikipedia.org/wiki/Seven%20(1995%20film))
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Seven(1995_film)](/_Standards/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).md) 

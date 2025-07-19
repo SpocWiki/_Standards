@@ -121,9 +121,6 @@ dv.view("TableByName");
 | 1850 | 26.69 | 26.18 | 23.82  | 31.36 |      16.30      |                —                 |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Second_Agricultural_Revolution](/_Standards/Economics/Second_Agricultural_Revolution.md) 

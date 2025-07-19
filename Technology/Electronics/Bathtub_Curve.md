@@ -41,8 +41,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bathtub%20curve) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bathtub_Curve](/_Standards/Technology/Electronics/Bathtub_Curve.md) 

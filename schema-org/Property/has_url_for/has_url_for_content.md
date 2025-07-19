@@ -30,7 +30,7 @@ aliases:
 #has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]
 #has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]
 #has_/url_for_/same_as :: [[dc~source]]
-#has_/url_for_/same_as :: [[../../../foaf/foaf~page|foaf:page]] 
+#has_/url_for_/same_as :: [[../../../Schemas/foaf/foaf~page|foaf:page]] 
 
 
 Predicate to specify the Url of a [[../../Class/is_a_/creative_work/media_object|MediaObject]].

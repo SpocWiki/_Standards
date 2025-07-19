@@ -18,8 +18,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Boy%20Who%20Cried%20Wolf) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Cry_Wolf](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.md) 

@@ -15,10 +15,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/People) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [People](/_Standards/bio/People.md) 

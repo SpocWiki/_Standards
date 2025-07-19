@@ -27,11 +27,6 @@ every Country tries to find its own Narrative (India, China, Russia, ...)
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Fukuyama)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Fukuyama,Francis](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.md) 

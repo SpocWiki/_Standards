@@ -57,10 +57,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Bacon)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Bacon,Francis](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Bacon,Francis.md) 

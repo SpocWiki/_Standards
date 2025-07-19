@@ -33,10 +33,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Roko's%20basilisk)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roko's_Basilisk](/_Standards/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.md) 

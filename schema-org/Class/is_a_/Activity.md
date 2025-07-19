@@ -11,7 +11,7 @@ This Description can either be
 - or abstract, i.e. describing a Set of Activities with classes of Objects involved/used  
 
 The [is_using](../../Relation/is_using.md) Relation connects the Subject Entity with any number of Objects it uses to perform its primary Activity. 
-The [prov~used](../../../prov/prov~used.md) Relation connects the Subject Activity with any number of Objects involved in this Activity. 
+The [prov~used](../../../Schemas/prov/prov~used.md) Relation connects the Subject Activity with any number of Objects involved in this Activity. 
 
 The missing distinction between Activity-Class and concrete Activity 
 is usually implied in Conversations between People (who often also generalize),

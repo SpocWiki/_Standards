@@ -91,14 +91,14 @@ UMLS_CUI: C0005532
 U_S_National_Archives_Identifier: 10639636
 ---
 
-This Folder Structure contains Data related to Biology. 
-Especially a [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree "Phylogenetic tree") of many biological Species
-arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Tree|bio~Tree]]. 
-
-The Folder Names are kept brief, to allow for deep Directory Structures. 
-
 # [[bio]] 
 
+
+This Folder Structure contains Data related to Biology. 
+Especially a [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree "Phylogenetic tree") of many biological Species
+arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Domain]]. 
+
+The Folder Names are kept brief, to allow for the necessary deep Directory Structures. 
 
 ## #has_/text_of_/abstract 
 

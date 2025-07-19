@@ -45,8 +45,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Maimonides)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Maimonides](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.md) 

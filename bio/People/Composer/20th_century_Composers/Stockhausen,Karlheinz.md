@@ -52,10 +52,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Karlheinz%20Stockhausen)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Stockhausen,Karlheinz](/_Standards/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.md) 

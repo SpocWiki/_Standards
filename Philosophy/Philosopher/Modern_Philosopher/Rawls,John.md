@@ -108,9 +108,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Rawls%20%281971
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Rawls) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rawls,John](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.md) 

@@ -18,12 +18,6 @@ Monogamy prevents diseases and jealousy and arguments about inheritance.
 > [Wikipedia](https://en.wikipedia.org/wiki/Religion)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Religion](/_Standards/Philosophy/Metaphysic/Religion.md) 

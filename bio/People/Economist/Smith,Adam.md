@@ -133,7 +133,7 @@ Leistungsgesellschaft
 > where he met other intellectual leaders of his day.
 >
 > As a __reaction to the common policy of protecting national markets and merchants__ 
-> through minimizing imports and maximizing exports, what came to be known as [[../../Society/Ideology/Economic_Ideology/Mercantilism]], 
+> through minimizing imports and maximizing exports, what came to be known as [[../../../Society/Ideology/Economic_Ideology/Mercantilism]], 
 > Smith laid the foundations of classical [[free market economy]] theory. 
 > 
 > The Wealth of Nations was a precursor to the modern academic discipline of economics. 

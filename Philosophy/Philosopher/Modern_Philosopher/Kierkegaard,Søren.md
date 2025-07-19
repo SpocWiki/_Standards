@@ -177,9 +177,6 @@ Krugosvet_article: filosofiya/kerkegor-syoren
 > [Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren%20Kierkegaard) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Kierkegaard,Søren](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.md) 

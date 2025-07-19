@@ -145,8 +145,6 @@ type: folder_brief_live
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Philosophy](/_Standards/Philosophy.md) 

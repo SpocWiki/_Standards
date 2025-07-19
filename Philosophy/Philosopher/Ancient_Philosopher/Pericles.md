@@ -50,10 +50,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pericles)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Pericles](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Pericles.md) 

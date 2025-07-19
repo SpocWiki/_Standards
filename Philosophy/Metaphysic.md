@@ -50,8 +50,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Metaphysics)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Metaphysic](/_Standards/Philosophy/Metaphysic.md) 

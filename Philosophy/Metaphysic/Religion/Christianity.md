@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Christianity)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Christianity](/_Standards/Philosophy/Metaphysic/Religion/Christianity.md) 
