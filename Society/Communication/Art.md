@@ -87,6 +87,10 @@ Nomenclature_for_Museum_Cataloging: 12894
 GitHub_topic: art
 ---
 
+# [[Art]] 
+
+#is_/same_as :: [[../../WikiData/WD~Art,735]] 
+
 ## #has_/text_of_/abstract 
 
 > **Art** describes a diverse range of cultural activity centered around 
@@ -94,7 +98,17 @@ GitHub_topic: art
 > generally through an expression of emotional power, conceptual ideas, technical proficiency, and/or beauty.
 >
 > There is no generally agreed definition of what constitutes art, 
-> and its interpretation has varied greatly throughout history and across cultures. In the Western tradition, the three classical branches of visual art are painting, sculpture, and architecture. Theatre, dance, and other performing arts, as well as literature, music, film and other media such as interactive media, are included in a broader definition of "the arts". Until the 17th century, art referred to any skill or mastery and was not differentiated from crafts or sciences. In modern usage after the 17th century, where aesthetic considerations are paramount, the fine arts are separated and distinguished from acquired skills in general, such as the decorative or applied arts.
+> and its interpretation has varied greatly throughout history and across cultures. 
+> 
+> In the Western tradition, the three classical branches of visual art are painting, sculpture, and architecture. 
+> 
+> Theatre, dance, and other performing arts, as well as literature, music, film 
+> and other media such as interactive media, are included in a broader definition of "the arts". 
+> 
+> Until the 17th century, art referred to any skill or mastery 
+> and was not differentiated from crafts or sciences. 
+> 
+> In modern usage after the 17th century, where aesthetic considerations are paramount, the fine arts are separated and distinguished from acquired skills in general, such as the decorative or applied arts.
 >
 > The nature of art and related concepts, such as creativity and interpretation, are explored in a branch of philosophy known as aesthetics. The resulting artworks are studied in the professional fields of art criticism and the history of art.
 >
