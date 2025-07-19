@@ -33,17 +33,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joke](/_Standards/Joke.md) 
+### #is_/same_as :: [Joke](/_Standards/Media/Joke.md) 
 
-### #is_/same_as :: [Joke.public](/_public/Joke.public.md) 
+### #is_/same_as :: [Joke.public](/_public/Media/Joke.public.md) 
 
-### #is_/same_as :: [Joke.internal](/_internal/Joke.internal.md) 
+### #is_/same_as :: [Joke.internal](/_internal/Media/Joke.internal.md) 
 
-### #is_/same_as :: [Joke.protect](/_protect/Joke.protect.md) 
+### #is_/same_as :: [Joke.protect](/_protect/Media/Joke.protect.md) 
 
-### #is_/same_as :: [Joke.private](/_private/Joke.private.md) 
+### #is_/same_as :: [Joke.private](/_private/Media/Joke.private.md) 
 
-### #is_/same_as :: [Joke.personal](/_personal/Joke.personal.md) 
+### #is_/same_as :: [Joke.personal](/_personal/Media/Joke.personal.md) 
 
-### #is_/same_as :: [Joke.secret](/_secret/Joke.secret.md)
+### #is_/same_as :: [Joke.secret](/_secret/Media/Joke.secret.md)
 

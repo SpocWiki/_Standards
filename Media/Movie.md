@@ -18,22 +18,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Film) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie](/_Standards/Movie.md) 
+### #is_/same_as :: [Movie](/_Standards/Media/Movie.md) 
 
-### #is_/same_as :: [Movie.public](/_public/Movie.public.md) 
+### #is_/same_as :: [Movie.public](/_public/Media/Movie.public.md) 
 
-### #is_/same_as :: [Movie.internal](/_internal/Movie.internal.md) 
+### #is_/same_as :: [Movie.internal](/_internal/Media/Movie.internal.md) 
 
-### #is_/same_as :: [Movie.protect](/_protect/Movie.protect.md) 
+### #is_/same_as :: [Movie.protect](/_protect/Media/Movie.protect.md) 
 
-### #is_/same_as :: [Movie.private](/_private/Movie.private.md) 
+### #is_/same_as :: [Movie.private](/_private/Media/Movie.private.md) 
 
-### #is_/same_as :: [Movie.personal](/_personal/Movie.personal.md) 
+### #is_/same_as :: [Movie.personal](/_personal/Media/Movie.personal.md) 
 
-### #is_/same_as :: [Movie.secret](/_secret/Movie.secret.md)
+### #is_/same_as :: [Movie.secret](/_secret/Media/Movie.secret.md)
 

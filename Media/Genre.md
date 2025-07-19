@@ -40,3 +40,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Genre) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Genre](/_Standards/Media/Genre.md) 
+
+### #is_/same_as :: [Genre.public](/_public/Media/Genre.public.md) 
+
+### #is_/same_as :: [Genre.internal](/_internal/Media/Genre.internal.md) 
+
+### #is_/same_as :: [Genre.protect](/_protect/Media/Genre.protect.md) 
+
+### #is_/same_as :: [Genre.private](/_private/Media/Genre.private.md) 
+
+### #is_/same_as :: [Genre.personal](/_personal/Media/Genre.personal.md) 
+
+### #is_/same_as :: [Genre.secret](/_secret/Media/Genre.secret.md)
+

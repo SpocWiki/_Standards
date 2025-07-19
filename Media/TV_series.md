@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TV_series](/_Standards/TV_series.md) 
+### #is_/same_as :: [TV_series](/_Standards/Media/TV_series.md) 
 
-### #is_/same_as :: [TV_series.public](/_public/TV_series.public.md) 
+### #is_/same_as :: [TV_series.public](/_public/Media/TV_series.public.md) 
 
-### #is_/same_as :: [TV_series.internal](/_internal/TV_series.internal.md) 
+### #is_/same_as :: [TV_series.internal](/_internal/Media/TV_series.internal.md) 
 
-### #is_/same_as :: [TV_series.protect](/_protect/TV_series.protect.md) 
+### #is_/same_as :: [TV_series.protect](/_protect/Media/TV_series.protect.md) 
 
-### #is_/same_as :: [TV_series.private](/_private/TV_series.private.md) 
+### #is_/same_as :: [TV_series.private](/_private/Media/TV_series.private.md) 
 
-### #is_/same_as :: [TV_series.personal](/_personal/TV_series.personal.md) 
+### #is_/same_as :: [TV_series.personal](/_personal/Media/TV_series.personal.md) 
 
-### #is_/same_as :: [TV_series.secret](/_secret/TV_series.secret.md)
+### #is_/same_as :: [TV_series.secret](/_secret/Media/TV_series.secret.md)
 

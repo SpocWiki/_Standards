@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podcast](/_Standards/Podcast.md) 
+### #is_/same_as :: [Podcast](/_Standards/Media/Podcast.md) 
 
-### #is_/same_as :: [Podcast.public](/_public/Podcast.public.md) 
+### #is_/same_as :: [Podcast.public](/_public/Media/Podcast.public.md) 
 
-### #is_/same_as :: [Podcast.internal](/_internal/Podcast.internal.md) 
+### #is_/same_as :: [Podcast.internal](/_internal/Media/Podcast.internal.md) 
 
-### #is_/same_as :: [Podcast.protect](/_protect/Podcast.protect.md) 
+### #is_/same_as :: [Podcast.protect](/_protect/Media/Podcast.protect.md) 
 
-### #is_/same_as :: [Podcast.private](/_private/Podcast.private.md) 
+### #is_/same_as :: [Podcast.private](/_private/Media/Podcast.private.md) 
 
-### #is_/same_as :: [Podcast.personal](/_personal/Podcast.personal.md) 
+### #is_/same_as :: [Podcast.personal](/_personal/Media/Podcast.personal.md) 
 
-### #is_/same_as :: [Podcast.secret](/_secret/Podcast.secret.md)
+### #is_/same_as :: [Podcast.secret](/_secret/Media/Podcast.secret.md)
 
