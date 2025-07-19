@@ -14,19 +14,3 @@ Shared Facts about chemical Elements
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
 
 
-## Confidential Links & Embeds: 
-
-### #is_/same_as :: [README](/_Standards/chemic/chemic~Elements/README.md) 
-
-### #is_/same_as :: [README.public](/_public/chemic/chemic~Elements/README.public.md) 
-
-### #is_/same_as :: [README.internal](/_internal/chemic/chemic~Elements/README.internal.md) 
-
-### #is_/same_as :: [README.protect](/_protect/chemic/chemic~Elements/README.protect.md) 
-
-### #is_/same_as :: [README.private](/_private/chemic/chemic~Elements/README.private.md) 
-
-### #is_/same_as :: [README.personal](/_personal/chemic/chemic~Elements/README.personal.md) 
-
-### #is_/same_as :: [README.secret](/_secret/chemic/chemic~Elements/README.secret.md)
-
