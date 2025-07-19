@@ -41,8 +41,8 @@ montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Rev%20collage.
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rev%20collage.png
 U.S. National Archives Identifier: "10639078"
 Wolfram Language entity code: Entity["MilitaryConflict", "AmericanRevolutionaryWar"]
-end time: 1783-09-03T00:00:00Z
-start time: 1775-04-19T00:00:00Z
+end time: 1783-09-03
+start time: 1775-04-19
 ---
 
 #has_/time_/started ::  1775-04-19 

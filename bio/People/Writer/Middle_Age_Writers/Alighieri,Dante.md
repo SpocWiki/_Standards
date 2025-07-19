@@ -177,7 +177,7 @@ date_of_birth: "1265"
 
 > **Dante Alighieri** (Italian: [ˈdante aliˈɡjɛːri]; most likely baptized Durante di Alighiero degli Alighieri; 
 > c. May 1265 – September 14, 1321), widely known mononymously as Dante, 
-> was an Italian poet, writer, and [[../../Philosopher|philosopher]]. 
+> was an Italian poet, writer, and [[../../../../Philosophy/Philosopher|philosopher]]. 
 > 
 > His Divine Comedy, originally called Comedìa (modern Italian: Commedia) 
 > and later christened Divina by Giovanni Boccaccio, 

@@ -49,8 +49,8 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_hav
 different_from: "[[_Standards/WikiData/WD~Pseudo_Virgil,104665899]]"
 relative: "[[_Standards/WikiData/WD~Vergilia_Vera,121491073]]"
 cognomen: "[[_Standards/WikiData/WD~Maro,121491641]]"
-date_of_death: -0018-09-19T00:00:00Z
-date_of_birth: -0069-10-13T00:00:00Z
+date_of_death: -0018-09-19
+date_of_birth: -0069-10-13
 writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
 native_language: "[[_Standards/WikiData/WD~Latin,397]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Latin,397]]"

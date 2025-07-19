@@ -37,7 +37,7 @@ means of locomotion: "[[_Standards/WikiData/WD~fish_locomotion,5454646]]"
 Wikimedia outline: "[[_Standards/WikiData/WD~outline_of_fish,7112636]]"
 topic's main template: "[[_Standards/WikiData/WD~Template_Diversity_of_fish,13478705]]"
 union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-start time: -530000000-01-01T00:00:00Z
+start time: -530000000-01-01
 properties for this type:
   - main food source
   - habitat

@@ -1,9 +1,32 @@
 
+# [[Parasite]] 
 ## #has_/text_of_/abstract 
 
-> Parasitism is a close relationship between species, where one organism, the **Parasite**, lives (at least some of the time) on or inside another organism, the host, causing it some harm, and is adapted structurally to this way of life. The entomologist E. O. Wilson characterised parasites' way of feeding as "predators that eat prey in units of less than one". Parasites include single-celled protozoans such as the agents of malaria, sleeping sickness, and amoebic dysentery; animals such as hookworms, lice, mosquitoes, and vampire bats; fungi such as honey fungus and the agents of ringworm; and plants such as mistletoe, dodder, and the broomrapes.
+> Parasitism is a close relationship between species, 
+> where one organism, the **Parasite**, lives (at least some of the time) 
+> on or inside another organism, the host, causing it some harm, 
+> and is adapted structurally to this way of life. 
+> 
+> The entomologist E. O. Wilson characterised parasites' way of feeding 
+> as "predators that eat prey in units of less than one". 
+> 
+> Parasites include single-celled protozoans 
+> such as the agents of malaria, sleeping sickness, and amoebic dysentery; 
+> animals such as hookworms, lice, mosquitoes, and vampire bats; 
+> fungi such as honey fungus and the agents of ringworm; 
+> and plants such as mistletoe, dodder, and the broomrapes.
 >
-> There are six major parasitic strategies of exploitation of animal hosts, namely parasitic castration, directly transmitted parasitism (by contact), trophically-transmitted parasitism (by being eaten), vector-transmitted parasitism, parasitoidism, and micropredation. One major axis of classification concerns invasiveness: an endoparasite lives inside the host's body; an ectoparasite lives outside, on the host's surface.
+> There are six major parasitic strategies of exploitation of animal hosts, namely 
+> - parasitic castration, 
+> - directly transmitted parasitism (by contact), 
+> - trophically-transmitted parasitism (by being eaten), 
+> - vector-transmitted parasitism, 
+> - parasitoidism, and 
+> - micropredation. 
+> 
+> One major axis of classification concerns invasiveness: 
+> - an endoparasite lives inside the host's body; 
+> - an ectoparasite lives outside, on the host's surface.
 >
 > Like predation, parasitism is a type of consumer–resource interaction, but unlike predators, parasites, with the exception of parasitoids, are much smaller than their hosts, do not kill them, and often live in or on their hosts for an extended period. Parasites of animals are highly specialised, each parasite species living on one given animal species, and reproduce at a faster rate than their hosts. Classic examples include interactions between vertebrate hosts and tapeworms, flukes, and those between the malaria-causing Plasmodium species, and fleas.
 >

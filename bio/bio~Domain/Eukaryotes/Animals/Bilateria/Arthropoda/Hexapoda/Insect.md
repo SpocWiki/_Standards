@@ -89,7 +89,7 @@ topic's main template: "[[_Standards/WikiData/WD~Template_Orders_of_Insects,1433
 disjoint union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 this taxon is source of: "[[_Standards/WikiData/WD~insect_as_food,38117921]]"
-start time: -400000000-01-01T00:00:00Z
+start time: -400000000-01-01
 UMLS CUI: C0021585
 code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance of: "[[_Standards/WikiData/WD~taxon,16521]]"

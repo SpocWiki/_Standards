@@ -18,7 +18,7 @@ described_by_source:
 parent_taxon: "[[_Standards/WikiData/WD~Arachnopulmonata,80024044]]"
 studied_by: "[[_Standards/WikiData/WD~scorpiology,94579930]]"
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~scorpion_as_food,124746868]]"
-start_time: -435000000-01-01T00:00:00Z
+start_time: -435000000-01-01
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
 ITIS_TSN: "82713"

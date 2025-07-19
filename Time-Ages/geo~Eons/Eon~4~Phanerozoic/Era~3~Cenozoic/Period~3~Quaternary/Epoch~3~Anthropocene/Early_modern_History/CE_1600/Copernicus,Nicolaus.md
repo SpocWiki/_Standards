@@ -97,7 +97,7 @@ family_name: "[[_Standards/WikiData/WD~Kopernikus,59913555]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 award_received: "[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-date_of_birth: 1473-02-28T00:00:00Z
+date_of_birth: 1473-02-28
 field_of_work:
   - "[[_Standards/WikiData/WD~mathematics,395]]"
   - "[[_Standards/WikiData/WD~economics,8134]]"
@@ -112,7 +112,7 @@ Commons_category: Nicolaus Copernicus
 Commons_gallery: Nicolaus Copernicus
 Commons_Creator_page: Nicolaus Copernicus
 BHCL_UUID: 665fb3cc-612d-4d39-9997-cd6fd7a36065
-date_of_death: 1543-06-03T00:00:00Z
+date_of_death: 1543-06-03
 Image_Archive_Herder_Institute: Q619
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mikulas%20Kopernik.ogg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaus%20Copernicus%20signature%20%28podpis%20Miko%C5%82aja%20Kopernika%29.svg

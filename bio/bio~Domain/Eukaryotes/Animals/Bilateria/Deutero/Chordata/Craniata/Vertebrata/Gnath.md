@@ -14,7 +14,7 @@ instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: "914179"
 Commons_category: Gnathostomata
 taxon_name: Gnathostomata
-start_time: -462000000-01-01T00:00:00Z
+start_time: -462000000-01-01
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
   - http://commons.wikimedia.org/wiki/Special:FilePath/Orca-Sch%C3%A4del.jpg

@@ -65,7 +65,7 @@ MeSH tree code: B01.050.150.900.649.313.875
 Krugosvet article: biologiya/kitoobraznye
 NBN System Key: NHMSYS0000376171
 UMLS CUI: C0007896
-start time: -50000000-01-01T00:00:00Z
+start time: -50000000-01-01
 code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 habitat: "[[_Standards/WikiData/WD~body_of_water,15324]]"
 instance of: "[[_Standards/WikiData/WD~taxon,16521]]"

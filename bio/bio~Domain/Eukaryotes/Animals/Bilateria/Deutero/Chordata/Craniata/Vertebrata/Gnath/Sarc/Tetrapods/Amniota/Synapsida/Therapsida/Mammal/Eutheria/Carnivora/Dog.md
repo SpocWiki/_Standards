@@ -112,7 +112,7 @@ Commons category: Dogs
 OpenStreetMap tag or key: Key:dog
 Colon Classification: KX541
 taxon common name: Dog
-earliest date: -34000-01-01T00:00:00Z
+earliest date: -34000-01-01
 Baidu Tieba name: 狗
 ---
 

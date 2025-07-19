@@ -71,13 +71,13 @@ PhilPapers_topic: adam-smith
 name_in_native_language: Adam Smith
 ArhivX_LOD: "80588"
 Commons_category: Adam Smith (philosopher)
-date_of_death: 1790-07-17T00:00:00Z
+date_of_death: 1790-07-17
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/SMIT_ADAM.html
 Libris-URI: vs69dx1d1xfbxct
-work_period_start_: 1748-01-01T00:00:00Z
+work_period_start_: 1748-01-01
 ISNI: "0000000122796642"
-date_of_baptism: 1723-06-16T00:00:00Z
-date_of_birth: 1723-06-01T00:00:00Z
+date_of_baptism: 1723-06-16
+date_of_birth: 1723-06-01
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 influenced_by: "[[_Standards/WikiData/WD~François_Quesnay,13575]]"

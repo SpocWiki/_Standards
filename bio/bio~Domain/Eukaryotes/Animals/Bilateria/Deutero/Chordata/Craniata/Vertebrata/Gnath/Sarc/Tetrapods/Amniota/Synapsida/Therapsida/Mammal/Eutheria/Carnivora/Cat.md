@@ -113,7 +113,7 @@ IAB code: "424"
 OmegaWiki Defined Meaning: "5446"
 Iconclass notation: 34B12
 UNSPSC Code: "10101501"
-start time: -8000-01-01T00:00:00Z
+start time: -8000-01-01
 Unicode character:
   - 🐈
   - 🐱

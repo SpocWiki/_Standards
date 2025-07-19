@@ -54,7 +54,7 @@ given_name: "[[_Standards/WikiData/WD~Émile,13426635]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 family_name: "[[_Standards/WikiData/WD~Q107423678,107423678]]"
 spouse: "[[_Standards/WikiData/WD~Louise_Dreyfus,108665645]]"
-date_of_birth: 1858-04-15T00:00:00Z
+date_of_birth: 1858-04-15
 religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
@@ -70,7 +70,7 @@ Regensburg_Classification: MQ 3150
 Libris_URI: wt79973f2r8nzv3
 name_in_native_language: David Émile Durkheim
 birth_name: David Émile Durkheim
-date_of_death: 1917-11-15T00:00:00Z
+date_of_death: 1917-11-15
 BHCL_UUID: 3ef73876-984c-43c0-b248-cb1bc24504bd
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Durkheim.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20%C3%89mile%20Durkheim%20in%20Montparnasse%20Cemetery.jpg

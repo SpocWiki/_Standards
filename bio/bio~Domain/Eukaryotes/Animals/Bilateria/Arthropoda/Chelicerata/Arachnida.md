@@ -31,7 +31,7 @@ taxon_common_name:
   - Arácnidos
   - Паякообразни
   - pavoukovci
-start_time: -380000000-01-01T00:00:00Z
+start_time: -380000000-01-01
 has_use: "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
 mode_of_reproduction: "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
 named_after: "[[_Standards/WikiData/WD~Arachne,190082]]"

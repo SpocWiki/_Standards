@@ -31,8 +31,8 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Re
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Renaissance.ogg
 Iconclass_notation: 23T26
 Krugosvet_article: istoriya/EPOHA_VOZROZHDENIYA.html
-start_time: 1400-01-01T00:00:00Z
-end_time: 1650-01-01T00:00:00Z
+start_time: 1400-01-01
+end_time: 1650-01-01
 ---
 
 # [[1400-Renaissance]] 

@@ -41,7 +41,7 @@ permanent duplicated item:
 instance of:
   - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
   - "[[_Standards/WikiData/WD~paraphyletic_group,58051350]]"
-earliest date: -10500-01-01T00:00:00Z
+earliest date: -10500-01-01
 litter size: 1
 age of onset of sexual maturity:
   - 7

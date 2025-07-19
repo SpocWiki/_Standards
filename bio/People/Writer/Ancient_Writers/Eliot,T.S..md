@@ -127,7 +127,7 @@ residence:
   - "[[_Standards/WikiData/WD~Ash_Street,87742148]]"
   - "[[_Standards/WikiData/WD~Missouri,1581]]"
   - "[[_Standards/WikiData/WD~St._Louis,38022]]"
-date_of_birth: 1888-09-26T00:00:00Z
+date_of_birth: 1888-09-26
 genre:
   - "[[_Standards/WikiData/WD~poetry,482]]"
   - "[[_Standards/WikiData/WD~literary_criticism,58854]]"
@@ -148,10 +148,10 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/ELIOT_TOMAS_STERNZ.html
 Swedish_Royal_Theater_Archive: Person/512
 Royal_Academy_new_identifier: t-s-eliot
 birth_name: Thomas Stearns Eliot
-work_period_start_: 1915-01-01T00:00:00Z
+work_period_start_: 1915-01-01
 U_S_National_Archives_Identifier: "10580371"
 BHCL_UUID: d92a7a08-0c50-47ab-8dc5-6f766639ce85
-date_of_death: 1965-01-04T00:00:00Z
+date_of_death: 1965-01-04
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Stearns%20Eliot%20by%20Lady%20Ottoline%20Morrell%20%281934%29.jpg
 name_in_native_language: T. S. Eliot
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/TS%20Eliot%20Signature.svg

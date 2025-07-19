@@ -153,6 +153,8 @@ IAB_code: 597
 All_Science_Journal_Classification_Codes: 1702
 ---
 
+# [[Artificial_Intelligence]] 
+
 ## #has_/text_of_/abstract 
 
 > **Artificial intelligence** (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.

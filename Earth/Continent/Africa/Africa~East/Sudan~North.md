@@ -333,7 +333,7 @@ demonym:
   - Sudanese
   - Soudanais
   - Soudanaise
-inception: 1956-01-01T00:00:00Z
+inception: 1956-01-01
 urban_population:
   - 15103564
   - 15666605

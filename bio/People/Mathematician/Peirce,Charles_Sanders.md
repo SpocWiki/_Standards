@@ -1,6 +1,32 @@
 ---
 aliases:
   - Charles Sanders Peirce
+  - Peirce,Charles_Sanders
+title: Peirce,Charles_Sanders
+lang: en
+type: private_note
+keywords: Peirce,Charles_Sanders
+linkTitle: Peirce,Charles_Sanders
+has_Template: "[[Extract~Note~Template]]"
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - private
+  - note
+layout: 
+draft: true
+publish: false
+publishDate: 
+expiryDate: 
+has_time_started: 2025-07-19
+tags:
+  - Peirce,Charles_Sanders
+  - excalidraw
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+excalidraw-autoexport: svg
 ---
 
 #has_/time_/started :: 1839-09-10 
@@ -55,3 +81,22 @@ because was shunned by the scientific community in Harvard and the US east coast
 
 ### #is_/same_as :: [Peirce,Charles_Sanders.secret](/_secret/bio/People/Mathematician/Peirce,Charles_Sanders.secret.md)
 
+
+# [[Peirce,Charles_Sanders]] 
+
+#is_/part_of :: [[Charles_Sanders_Peirce]] 
+
+![[Peirce,Charles_Sanders.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

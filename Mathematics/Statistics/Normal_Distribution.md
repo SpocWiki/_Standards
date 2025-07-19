@@ -18,7 +18,7 @@ type: private_note
 keywords: Normal_Distribution
 linkTitle: Normal_Distribution
 has_Template:
-  - - Extract~Note~Template
+  - Extract~Note~Template
 license: (c)copyrighted
 confidential: private
 isDeleted: false

@@ -27,7 +27,7 @@ taxon_common_name:
   - evkarionti
   - 真核域
 MeSH_tree_code: B01
-start_time: -2700000000-01-01T00:00:00Z
+start_time: -2700000000-01-01
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of-Intron-rich-Eukaryotic-Ancestors-Inferred-from-a-Global-Survey-of-100-pcbi.1002150.s003.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eukaryota%20diversity%202.jpg
 equivalent_class:

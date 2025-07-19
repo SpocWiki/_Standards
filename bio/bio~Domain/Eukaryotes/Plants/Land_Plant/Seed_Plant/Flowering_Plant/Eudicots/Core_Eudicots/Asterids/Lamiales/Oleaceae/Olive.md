@@ -24,7 +24,7 @@ taxon_common_name:
   - 牛白藤根
   - 齐墩果
   - Olienhout
-start_time: -60000-01-01T00:00:00Z
+start_time: -60000-01-01
 taxon_range:
   - "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
   - "[[_Standards/WikiData/WD~Guangdong,15175]]"

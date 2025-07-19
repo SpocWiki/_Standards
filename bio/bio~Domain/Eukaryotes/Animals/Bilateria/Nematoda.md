@@ -16,7 +16,7 @@ UMLS CUI:
   - C1704319
   - C0027581
 Biology Online Biology Dictionary entry: nematoda
-start time: -525000000-01-01T00:00:00Z
+start time: -525000000-01-01
 parent taxon: "[[_Standards/WikiData/WD~Ecdysozoa,5176]]"
 instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon rank: "[[_Standards/WikiData/WD~phylum,38348]]"

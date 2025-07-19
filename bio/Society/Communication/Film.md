@@ -179,9 +179,26 @@ UNSPSC_Code: 90131601
 Wolfram_Language_entity_type: Movie
 ---
 
+# [[Film]] 
+
+
 ## #has_/text_of_/abstract 
 
-> A **Film**, also known as a movie or motion picture, is a work of visual art that simulates experiences and otherwise communicates ideas, stories, perceptions, emotions, or atmosphere through the use of moving images that are generally, since the 1930s, synchronized with sound and (less commonly) other sensory stimulations. The word "cinema" is borrowed from the French cinéma, an abbreviation of cinématographe (term coined by the Lumière brothers in the 1890s), from Ancient Greek meaning "recording movement". The word is today usually used to refer to either a purpose-built venue for screening films, known as a movie theater in the US; the film industry; the overall art form of specifically just filmmaking.
+> A **Film**, also known as a movie or motion picture, 
+> is a work of visual art that simulates experiences 
+> and otherwise communicates ideas, stories, perceptions, emotions, 
+> or atmosphere through the use of moving images 
+> that are generally, since the 1930s, synchronized with sound 
+> and (less commonly) other sensory stimulations. 
+> 
+> The word "cinema" is borrowed from the French cinéma, 
+> an abbreviation of cinématographe (term coined by the Lumière brothers in the 1890s), 
+> from Ancient Greek meaning "recording movement". 
+> 
+> The word is today usually used to refer to 
+> - either a purpose-built venue for screening films, known as a movie theater in the US; 
+> - the film industry; 
+> - the overall art form of specifically just filmmaking.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Film) 
 

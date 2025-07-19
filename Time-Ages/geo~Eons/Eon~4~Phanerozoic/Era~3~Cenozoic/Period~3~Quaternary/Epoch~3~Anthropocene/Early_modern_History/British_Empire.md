@@ -9,7 +9,7 @@ capital: '[[_Standards/WikiData/WD~London,84]]'
 coat_of_arms: "[[_Standards/WikiData/WD~royal_coat_of_arms_of_the_United_Kingdom,165762]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20United%20Kingdom%20%281901-1952%29.svg"
 Commons_category: "British Empire"
-has_time_started: 1583-01-01T00:00:00Z 
+has_time_started: 1583-01-01 
 continent:
   - '[[_Standards/WikiData/WD~Africa,15]]'
   - '[[_Standards/WikiData/WD~Americas,828]]'

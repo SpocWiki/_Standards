@@ -11,7 +11,7 @@ aliases:
 
 
 > **Norbert Wiener** (November 26, 1894 – March 18, 1964) 
-> was an American computer scientist, mathematician and [[../../../../Knowledge/Philosophy/Philosopher|philosopher]]. 
+> was an American computer scientist, mathematician and [[../../../Philosophy/Philosopher|philosopher]]. 
 > 
 > He became a professor of mathematics at the Massachusetts Institute of Technology (MIT). 
 > A child prodigy, Wiener later became an early researcher in stochastic and mathematical noise processes, 
@@ -40,7 +40,7 @@ aliases:
 Wiener was born in [Columbia, Missouri](https://en.wikipedia.org/wiki/Columbia,_Missouri "Columbia, Missouri"), the first child of [Leo Wiener](https://en.wikipedia.org/wiki/Leo_Wiener "Leo Wiener") and Bertha Kahn, 
 [Jewish](https://en.wikipedia.org/wiki/Jewish "Jewish") immigrants from [Lithuania](https://en.wikipedia.org/wiki/Lithuanian_Jews "Lithuanian Jews") and [Germany](https://en.wikipedia.org/wiki/German_Jews "German Jews"), respectively. 
 
-Through his father, he was related to [[../../../../Knowledge/Philosophy/Philosopher/Maimonides]], 
+Through his father, he was related to [[../../../Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides]], 
 the famous [rabbi](https://en.wikipedia.org/wiki/Rabbi "Rabbi"), philosopher and physician from [Al Andalus](https://en.wikipedia.org/wiki/Al_Andalus "Al Andalus"), 
 as well as to [Akiva Eger](https://en.wikipedia.org/wiki/Akiva_Eger "Akiva Eger"), [chief rabbi](https://en.wikipedia.org/wiki/Chief_rabbi "Chief rabbi") of [Posen](https://en.wikipedia.org/wiki/Pozna%C5%84 "Poznań") from 1815 to 1837. 
 

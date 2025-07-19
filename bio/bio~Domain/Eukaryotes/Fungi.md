@@ -43,7 +43,7 @@ topic_s_main_template:
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fungi,39087041]]"
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant_based_food,107122728]]"
-start_time: -410000000-01-01T00:00:00Z
+start_time: -410000000-01-01
 different_from: "[[_Standards/WikiData/WD~plant,756]]"
 studied_by: "[[_Standards/WikiData/WD~mycology,7175]]"
 subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"

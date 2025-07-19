@@ -40,7 +40,7 @@ EPPO_Code: 1SARCC
 UMLS_CUI: C1081145
 Commons_gallery: Sarcopterygii
 taxon_name: Sarcopterygii
-start_time: -423000000-01-01T00:00:00Z
+start_time: -423000000-01-01
 ---
 # [[Sarcopterygii]] 
 

@@ -24,7 +24,7 @@ studied_by: "[[_Standards/WikiData/WD~carcinology,2183296]]"
 this_taxon_is_source_of: "[[_Standards/WikiData/WD~shellfish,6501235]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Q8922920,8922920]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Crustaceans,20630742]]"
-start_time: -511000000-01-01T00:00:00Z
+start_time: -511000000-01-01
 Wikidata_property: time in the pouch
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 OmegaWiki_Defined_Meaning: "799"

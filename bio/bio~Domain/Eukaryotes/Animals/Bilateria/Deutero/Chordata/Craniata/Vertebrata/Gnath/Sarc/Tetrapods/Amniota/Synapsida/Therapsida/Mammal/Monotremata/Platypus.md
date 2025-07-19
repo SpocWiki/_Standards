@@ -34,7 +34,7 @@ taxon_common_name:
   - Næbdyr
   - Duck-billed platypus
   - Duck-billed Platypus
-start_time: -9000000-01-01T00:00:00Z
+start_time: -9000000-01-01
 MeSH_tree_code: B01.050.150.900.649.627.600
 has_characteristic:
   - "[[_Standards/WikiData/WD~oviparity,212306]]"

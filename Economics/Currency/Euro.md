@@ -76,8 +76,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20b
 Commons gallery: Euro
 Commons category: Euro
 logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20symbol.svg
-point in time: 2002-01-01T00:00:00Z
-start time: 2002-01-01T00:00:00Z
+point in time: 2002-01-01
+start time: 2002-01-01
 Unicode character: €
 ISO 4217 code: EUR
 exact match: http://dati.beniculturali.it/cis/Euro

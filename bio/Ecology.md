@@ -50,6 +50,10 @@ GitHub_topic: ecology
 Commons_category: Ecology
 ---
 
+# [[Ecology]] 
+
+#is_/same_as :: [[../WikiData/WD~Ecology,7150]] 
+
 ## #has_/text_of_/abstract 
 
 > **Ecology** (from Ancient Greek  οἶκος (oîkos) 'house' and  -λογία (-logía) 'study of') is the natural science of the relationships among living organisms and their environment. Ecology considers organisms at the individual, population, community, ecosystem, and biosphere levels. Ecology overlaps with the closely related sciences of biogeography, evolutionary biology, genetics, ethology, and natural history.

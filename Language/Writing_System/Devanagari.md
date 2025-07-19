@@ -74,7 +74,7 @@ name:
   - dévanâgarî
 inception: "1100"
 has_time_started: 1100-06 
-has_time_started: 1100-01-01T00:00:00Z 
+has_time_started: 1100-01-01 
 ---
 
 ## #has_/text_of_/abstract 

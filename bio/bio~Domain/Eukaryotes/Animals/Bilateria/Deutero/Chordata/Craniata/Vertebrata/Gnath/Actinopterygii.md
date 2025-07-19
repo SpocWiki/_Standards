@@ -47,7 +47,7 @@ taxon_common_name:
   - Променепері
   - Lớp Cá vây tia
   - 辐鳍鱼
-start_time: -420000000-01-01T00:00:00Z
+start_time: -420000000-01-01
 ---
 
 # [[Actinopterygii]]

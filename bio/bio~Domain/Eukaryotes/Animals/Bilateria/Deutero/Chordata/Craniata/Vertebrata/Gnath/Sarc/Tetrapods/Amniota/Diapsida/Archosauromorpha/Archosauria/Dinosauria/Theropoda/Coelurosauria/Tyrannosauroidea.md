@@ -4,7 +4,7 @@ has_id_wikidata: Q14332
 main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
 parent_taxon: "[[_Standards/WikiData/WD~Tyrannosaurini,21447922]]"
 instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-end_time: -66000000-01-01T00:00:00Z
+end_time: -66000000-01-01
 location_of_discovery: "[[_Standards/WikiData/WD~Canada,16]]"
 length: 12
 height: 3.6
@@ -55,7 +55,7 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/T.%20r
 UMLS_CUI: C1910436
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Tyrannosaurus"]
 IPA_transcription: taɪˈɹænəˈsoɹəs
-start_time: -68000000-01-01T00:00:00Z
+start_time: -68000000-01-01
 ---
 
 # [[Tyrannosauroidea]]

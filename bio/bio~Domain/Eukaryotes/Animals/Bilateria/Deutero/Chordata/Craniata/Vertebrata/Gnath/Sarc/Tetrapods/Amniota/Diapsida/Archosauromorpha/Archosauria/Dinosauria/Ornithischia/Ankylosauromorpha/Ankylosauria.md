@@ -17,14 +17,14 @@ main_food_source: "[[_Standards/WikiData/WD~herbivore,59099]]"
 Commons_gallery: Ankylosaurus
 Commons_category: Ankylosaurus
 taxon_name: Ankylosaurus
-end_time: -65000000-01-01T00:00:00Z
+end_time: -65000000-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaur%20head%20-%20cast%20-%20Custer%20County%20Montana%20-%20Museum%20of%20the%20Rockies%20-%202013-07-08.jpg
 size_comparison_diagram:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20estimated%20size%2001.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20Scale%20V2.svg
 subreddit: ankmemes
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Ankylosaurus"]
-start_time: -68000000-01-01T00:00:00Z
+start_time: -68000000-01-01
 ---
 
 # [[Ankylosauria]]

@@ -12,9 +12,9 @@
 
 > In modern historiography, ancient Rome encompasses 
 > - the founding of the Italian city of Rome in the 8th century BC, 
-> - the Roman Kingdom (753–509 BC), 
-> - Roman Republic (509–27 BC), 
-> - Roman Empire (27 BC– 395 AD), 
+> - the [[9247-Ancient_Rome/9247-Roman_Kingdom|Roman Kingdom]] (753–509 BC), 
+> - [[9247-Ancient_Rome/9490-Roman_Republic|Roman Republic]] (509–27 BC), 
+> - [[9247-Ancient_Rome/9972-Roman_Empire|Roman Empire]] (27 BC– 395 AD), 
 > - and the collapse of the Western Roman Empire in the 5th century AD.
 > 
 > Ancient Rome began as an Italic settlement, traditionally dated to 753 BC, 
@@ -34,15 +34,15 @@
 > and then to an increasingly autocratic semi-elective military dictatorship during the Empire. 
 > 
 > Through conquest, cultural, and linguistic assimilation, at its height it controlled 
-> - the North African coast, Egypt, 
-> - Southern Europe, and 
-> - most of Western Europe, 
+> - the North African coast, [[../../../../../../../../Earth/Continent/Africa/Africa~North/Egypt|Egypt]], 
+> - [[../../../../../../../../Earth/Continent/Europe/Europe~South|Southern Europe]], and 
+> - most of [[../../../../../../../../Earth/Continent/Europe/Europe~West|Western Europe]], 
 > - the Balkans, 
 > - Crimea, and much of the Middle East, 
 > - including Anatolia, Levant, 
 > - and parts of Mesopotamia and Arabia. 
 > 
-> It is often grouped into classical antiquity together with ancient Greece, 
+> It is often grouped into [[../Classical_Antiquity|classical antiquity]] together with [[8800-Ancient_Greece|ancient Greece]], 
 > and their similar cultures and societies are known as the Greco-Roman world.
 >
 > Ancient Roman civilisation has contributed to modern language, religion, society, 
@@ -50,7 +50,7 @@
 > 
 > Rome professionalised and expanded its military 
 > and created a system of government called res publica, 
-> the inspiration for modern republics such as the United States and France. 
+> the inspiration for modern republics such as the [[../../../../../../../../Earth/Continent/America~North/USA|United States]] and [[../../../../../../../../Earth/Continent/Europe/Europe~West/France|France]]. 
 > 
 > It achieved impressive technological and architectural feats, 
 > such as the empire-wide construction of aqueducts and roads, 

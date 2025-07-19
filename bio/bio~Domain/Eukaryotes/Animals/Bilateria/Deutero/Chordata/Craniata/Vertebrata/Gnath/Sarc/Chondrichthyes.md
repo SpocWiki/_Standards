@@ -20,7 +20,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20shark.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chondrichthyes.jpg
 EPPO_Code: 1CHONC
 UMLS_CUI: C0327606
-start_time: -430000000-01-01T00:00:00Z
+start_time: -430000000-01-01
 ---
 
 # [[Chondrichthyes]] 

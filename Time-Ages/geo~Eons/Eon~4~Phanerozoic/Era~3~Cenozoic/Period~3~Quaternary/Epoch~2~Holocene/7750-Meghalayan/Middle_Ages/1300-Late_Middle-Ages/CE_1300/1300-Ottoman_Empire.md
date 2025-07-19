@@ -89,8 +89,8 @@ MeSH_tree_code: Z01.586.687
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Rise%20and%20Fall%20of%20the%20Ottoman%20Empire%201300-1923.gif
 coordinate_location: Point(29.0 41.0)
 inception:
-  - 1300-01-01T00:00:00Z
-  - 1299-08-05T00:00:00Z
+  - 1300-01-01
+  - 1299-08-05
 language_used:
   - "[[_Standards/WikiData/WD~Greek,9129]]"
   - "[[_Standards/WikiData/WD~Persian,9168]]"
@@ -113,7 +113,7 @@ BHCL_UUID: dd6c4065-465a-4b28-b626-e8d1bd856704
 Krugosvet_article: istoriya/OSMANSKAYA_OTTOMANSKAYA_IMPERIYA.html
 Commons_category: Ottoman Empire
 native_label: دولت عالیه عثمانیه
-dissolved_abolished_or_demolished_date: 1922-11-17T00:00:00Z
+dissolved_abolished_or_demolished_date: 1922-11-17
 ---
 
 # [[1300-Ottoman_Empire]] 
