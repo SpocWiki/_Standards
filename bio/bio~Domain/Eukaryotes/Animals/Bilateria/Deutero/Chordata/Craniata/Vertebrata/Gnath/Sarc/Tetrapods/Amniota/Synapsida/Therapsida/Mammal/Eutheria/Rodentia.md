@@ -22,7 +22,7 @@ topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42351419,42351419]]"
 studied in:
   - "[[_Standards/WikiData/WD~rodentology,76749558]]"
 this taxon is source of: "[[_Standards/WikiData/WD~rodent_meat,124815478]]"
-inception: -66000000-01-01T00:00:00Z
+inception: -66000000-01-01
 code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance of:
   - "[[_Standards/WikiData/WD~taxon,16521]]"
@@ -78,7 +78,7 @@ Krugosvet article: nauka_i_tehnika/biologiya/GRIZUNI.html
 NBN System Key: NHMSYS0000376181
 Commons category: Rodentia
 taxon name: Rodentia
-start time: -56000000-01-01T00:00:00Z
+start time: -56000000-01-01
 ---
 
 # Rodentia

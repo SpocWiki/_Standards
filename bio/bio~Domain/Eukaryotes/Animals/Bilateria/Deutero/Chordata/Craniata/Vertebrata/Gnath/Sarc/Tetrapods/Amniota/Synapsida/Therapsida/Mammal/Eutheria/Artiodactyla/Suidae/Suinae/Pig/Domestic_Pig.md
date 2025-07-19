@@ -34,7 +34,7 @@ has part(s):
   - "[[_Standards/WikiData/WD~male_pig,1484022]]"
   - "[[_Standards/WikiData/WD~female_pig,15942027]]"
   - "[[_Standards/WikiData/WD~pig's_tail,98058768]]"
-earliest date: -15000-01-01T00:00:00Z
+earliest date: -15000-01-01
 pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%B8%E0%A9%82%E0%A8%B0.oga
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-ghori.ogg

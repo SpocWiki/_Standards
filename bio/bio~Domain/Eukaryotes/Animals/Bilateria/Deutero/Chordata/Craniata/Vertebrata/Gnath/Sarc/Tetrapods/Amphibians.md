@@ -66,7 +66,7 @@ taxon common name:
   - Земноводні
   - lớp lưỡng cư or động vật lưỡng cư
   - 兩棲綱
-start time: -370000000-01-01T00:00:00Z
+start time: -370000000-01-01
 code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance of:
   - "[[_Standards/WikiData/WD~taxon,16521]]"

@@ -31,8 +31,8 @@ topic's main template: "[[_Standards/WikiData/WD~Template_Nobel Prizes,5830529]]
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Nobel prize,11194208]]"
 permanent duplicated item: "[[_Standards/WikiData/WD~Q13206142,13206142]]"
 disjoint union of: "[[_Standards/WikiData/WD~list of values as qualifiers,23766486]]"
-inception: 1901-01-01T00:00:00Z 
-has_time_started: 1901-01-01T00:00:00Z 
+inception: 1901-01-01 
+has_time_started: 1901-01-01 
 topic's main category: "[[_Standards/WikiData/WD~Q33094346,33094346]]"
 UMLS CUI: C0028236
 spoken text audio:

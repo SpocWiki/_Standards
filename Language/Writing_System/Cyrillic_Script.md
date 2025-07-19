@@ -46,7 +46,7 @@ name:
 native_label: кириллица
 inception: "0870"
 has_time_started: 0870-06 
-has_time_started: 0870-01-01T00:00:00Z 
+has_time_started: 0870-01-01 
 ---
 
 ## #has_/text_of_/abstract 

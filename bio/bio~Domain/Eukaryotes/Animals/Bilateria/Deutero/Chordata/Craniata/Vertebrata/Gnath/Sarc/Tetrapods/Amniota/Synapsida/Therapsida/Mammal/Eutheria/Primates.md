@@ -27,8 +27,8 @@ NBN System Key: NHMSYS0000377147
 taxon common name:
   - primater
 start time:
-  - 79600000-01-01T00:00:00Z
-  - -55000000-01-01T00:00:00Z
+  - 79600000-01-01
+  - -55000000-01-01
 UMLS CUI: C0033147
 instance of:
   - "[[_Standards/WikiData/WD~taxon,16521]]"

@@ -1,0 +1,83 @@
+---
+has_id_wikidata: Q9471
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- "[[_Standards/WikiData/WD~Tamil_Encyclopedia,7681254]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~theoretical_philosophy,2166096]]"
+said_to_be_the_same_as:
+- '[[_Standards/WikiData/WD~gnoseology,2560959]]'
+- "[[_Standards/WikiData/WD~theory_of_knowledge,116930361]]"
+- "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_epistemology,7112624]]"
+topic_s_main_template:
+- "[[_Standards/WikiData/WD~Template_Epistemology_sidebar,7959380]]"
+- '[[_Standards/WikiData/WD~Template_Epistemology,10982022]]'
+practiced_by: '[[_Standards/WikiData/WD~epistemologist,15632482]]'
+instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
+Stack_Exchange_tag:
+- "https://physics.stackexchange.com/tags/epistemology"
+- "https://philosophy.stackexchange.com/tags/epistemology"
+Library_of_Congress_Classification: BD143-BD237
+is_the_study_of:
+- '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~knowledge,9081]]'
+Dewey_Decimal_Classification: 121
+Colon_Classification: R2
+Commons_category: Epistemology
+OmegaWiki_Defined_Meaning: 671888
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/4%20Pramanas%2C%20epistemology%20according%20to%20ancient%20Nyayasutras.svg"
+Basisklassifikation: 08.32
+GitHub_topic: epistemology
+PhilPapers_topic:
+- epistemology
+- theories-of-knowledge
+---
+
+## #has_/text_of_/abstract 
+
+> **Epistemology** is the branch of philosophy that examines the nature, origin, and limits of knowledge. 
+> Also called theory of knowledge, it explores different types of knowledge, 
+> such as propositional knowledge about facts, practical knowledge in the form of skills, 
+> and knowledge by acquaintance as a familiarity through experience. 
+> Epistemologists study the concepts of belief, truth, 
+> and justification to understand the nature of knowledge. 
+> To discover how knowledge arises, they investigate sources of justification, 
+> such as perception, introspection, memory, reason, and testimony.
+>
+> The school of skepticism questions the human ability to attain knowledge 
+> while fallibilism says that knowledge is never certain. 
+> 
+> Empiricists hold that all knowledge comes from sense experience, 
+> whereas rationalists believe that some knowledge does not depend on it. 
+> 
+> Coherentists argue that a belief is justified if it coheres with other beliefs. 
+> Foundationalists, by contrast, maintain that the justification of basic beliefs 
+> does not depend on other beliefs. 
+> Internalism and externalism disagree about 
+> whether justification is determined solely by mental states or also by external circumstances.
+>
+> Separate branches of epistemology are dedicated to knowledge found in specific fields, like scientific, mathematical, moral, and religious knowledge. Naturalized epistemology relies on empirical methods and discoveries, whereas formal epistemology uses formal tools from logic. Social epistemology investigates the communal aspect of knowledge and historical epistemology examines its historical conditions. Epistemology is closely related to psychology, which describes the beliefs people hold, while epistemology studies the norms governing the evaluation of beliefs. It also intersects with fields such as decision theory, education, and anthropology.
+>
+> Early reflections on the nature, sources, and scope of knowledge are found in ancient Greek, Indian, and Chinese philosophy. The relation between reason and faith was a central topic in the medieval period. The modern era was characterized by the contrasting perspectives of empiricism and rationalism. Epistemologists in the 20th century examined the components, structure, and value of knowledge while integrating insights from the natural sciences and linguistics.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Epistemology](Epistemology.md) 
+
+### #is_/same_as :: [Epistemology.public](/_public/bio/People/Philosopher/Epistemology.public.md) 
+
+### #is_/same_as :: [Epistemology.internal](/_internal/bio/People/Philosopher/Epistemology.internal.md) 
+
+### #is_/same_as :: [Epistemology.protect](/_protect/bio/People/Philosopher/Epistemology.protect.md) 
+
+### #is_/same_as :: [Epistemology.private](/_private/bio/People/Philosopher/Epistemology.private.md) 
+
+### #is_/same_as :: [Epistemology.personal](/_personal/bio/People/Philosopher/Epistemology.personal.md) 
+
+### #is_/same_as :: [Epistemology.secret](/_secret/bio/People/Philosopher/Epistemology.secret.md)
+

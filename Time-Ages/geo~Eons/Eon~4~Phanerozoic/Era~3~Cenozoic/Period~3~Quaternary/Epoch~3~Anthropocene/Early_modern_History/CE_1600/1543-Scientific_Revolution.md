@@ -25,7 +25,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 > (On the Revolutions of the Heavenly Spheres) often cited as its beginning. 
 > 
 > The Scientific Revolution has been called "the most important transformation in human history" 
-> since the [[../../../../../../../../../Knowledge/Economy/Agricultural_Revolution/First_Agricultural_Revolution|Neolithic Revolution]].
+> since the [[../../../../../../../../Economics/First_Agricultural_Revolution|Neolithic Revolution]].
 >
 > The era of the Scientific Renaissance focused to some degree 
 > on recovering the knowledge of the ancients 

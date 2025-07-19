@@ -67,8 +67,8 @@ X (Twitter) username:
   - WorldBankMENA
   - WorldBankSAsia
   - WorldBankWater
-inception: 1945-12-27T00:00:00Z 
-has_time_started: 1945-12-27T00:00:00Z 
+inception: 1945-12-27 
+has_time_started: 1945-12-27 
 logo image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20World%20Bank%20logo.svg
 official blog URL: https://blogs.worldbank.org/
 official website: https://www.worldbank.org/

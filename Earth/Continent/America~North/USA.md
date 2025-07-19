@@ -709,7 +709,7 @@ coordinates_of_southernmost_point: "Point(-81.8051241 24.5442989)"
 coordinates_of_easternmost_point: "Point(-66.94995403 44.81539337)"
 inception: "1784-05-12"
 has_time_started: "1784-05-12"
-has_time_started: 1784-05-12T00:00:00Z 
+has_time_started: 1784-05-12 
 ---
 
 # [[USA]] 

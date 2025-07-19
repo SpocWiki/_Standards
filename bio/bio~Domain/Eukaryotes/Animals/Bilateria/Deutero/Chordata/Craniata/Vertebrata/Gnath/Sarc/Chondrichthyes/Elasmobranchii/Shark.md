@@ -21,14 +21,14 @@ taxon synonym: "[[_Standards/WikiData/WD~Selachii,16600393]]"
 UMLS CUI:
   - C0036941
   - C3315081
-earliest date: -450000000-01-01T00:00:00Z
+earliest date: -450000000-01-01
 instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
 OmegaWiki Defined Meaning: "481253"
 ITIS TSN: "159787"
 subreddit: sharks
 Unicode character: 🦈
 Commons gallery: Shark
-start time: -425000000-01-01T00:00:00Z
+start time: -425000000-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark%20south%20africa.jpg
 montage image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sharks-coll-001.jpg 

@@ -43,7 +43,7 @@ subclass_of: "[[_Standards/WikiData/WD~economic_development,4530482]]"
 Significant periods of technological, socioeconomic, and industrial 
 change that transformed the world’s economies and societies. 
 
-### [[Agricultural_Revolution/Second_Agricultural_Revolution|Second_Agricultural_Revolution]]  
+### [[../../../../../../../../Economics/Second_Agricultural_Revolution|Second_Agricultural_Revolution]]  
 
 Each revolution introduced new systems of production and innovation, 
 shaping modern industry and the global economy.

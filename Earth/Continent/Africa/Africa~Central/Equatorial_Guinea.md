@@ -272,7 +272,7 @@ male_population:
   - 883926
 inception: "1968-10-12"
 has_time_started: "1968-10-12"
-has_time_started: 1968-10-12T00:00:00Z 
+has_time_started: 1968-10-12 
 population: 1847549
 ITU_letter_code: GNE
 IOC_country_code: GEQ

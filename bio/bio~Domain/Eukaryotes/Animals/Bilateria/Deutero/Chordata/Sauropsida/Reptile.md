@@ -77,7 +77,7 @@ different from: "[[_Standards/WikiData/WD~Gady,_Warmian-Masurian_Voivodeship,551
 topic's main template: "[[_Standards/WikiData/WD~Template_Reptiles,11164852]]"
 UMLS CUI: C0035161
 IPA transcription: ɹɛpˈtɪli.ə
-start time: -318000000-01-01T00:00:00Z
+start time: -318000000-01-01
 code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon rank: "[[_Standards/WikiData/WD~class,37517]]"

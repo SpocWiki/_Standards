@@ -29,7 +29,7 @@ ITIS_TSN: "624942"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chameau%20de%20bactriane.JPG
 taxon_author_citation: Linnaeus, 1758
 UNSPSC_Code: "10101517"
-start_time: -3600000-01-01T00:00:00Z
+start_time: -3600000-01-01
 Commons_gallery: Camelus
 Commons_category: Camelus
 taxon_name: Camelus

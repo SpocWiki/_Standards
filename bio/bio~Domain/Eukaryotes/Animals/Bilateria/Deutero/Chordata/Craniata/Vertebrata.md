@@ -20,7 +20,7 @@ topic_s_main_template:
 studied_by: "[[_Standards/WikiData/WD~vertebrate_zoology,18358830]]"
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681521,25681521]]"
-start_time: -525000000-01-01T00:00:00Z
+start_time: -525000000-01-01
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 opposite_of: "[[_Standards/WikiData/WD~invertebrate,43806]]"
 OmegaWiki_Defined_Meaning: "3963"

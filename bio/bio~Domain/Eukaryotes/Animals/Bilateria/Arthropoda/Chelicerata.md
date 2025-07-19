@@ -4,7 +4,7 @@ taxon_rank: "[[_Standards/WikiData/WD~subphylum,1153785]]"
 parent_taxon:
   - "[[_Standards/WikiData/WD~Arachnomorpha,3773000]]"
   - "[[_Standards/WikiData/WD~Heptopodomera,112271405]]"
-start_time: -508000000-01-01T00:00:00Z
+start_time: -508000000-01-01
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 OmegaWiki_Defined_Meaning: "538"
 ITIS_TSN: "82697"

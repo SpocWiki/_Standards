@@ -34,7 +34,7 @@ described by source:
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 significant event: "[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]"
 part of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-start time: -9700-01-01T00:00:00Z
+start time: -9700-01-01
 sRGB color hex triplet: FEEBD2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
 IPA transcription: /ˈhɒl.əsiːn/

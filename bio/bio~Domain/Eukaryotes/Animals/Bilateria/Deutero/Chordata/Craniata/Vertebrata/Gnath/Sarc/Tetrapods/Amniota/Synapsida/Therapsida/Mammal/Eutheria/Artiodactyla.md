@@ -18,7 +18,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 parent_taxon: "[[_Standards/WikiData/WD~Paraxonia,68119354]]"
-start_time: -55000000-01-01T00:00:00Z
+start_time: -55000000-01-01
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 taxon_synonym: "[[_Standards/WikiData/WD~Cetartiodactyla,27850]]"

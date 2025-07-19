@@ -99,7 +99,7 @@ parent_taxon: "[[_Standards/WikiData/WD~Biota,2382443]]"
 homonymous_taxon: "[[_Standards/WikiData/WD~Bacteria,4034791]]"
 union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42353284,42353284]]"
-start_time: -3500000000-01-01T00:00:00Z
+start_time: -3500000000-01-01
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 subclass_of: "[[_Standards/WikiData/WD~microorganism,39833]]"
 ITIS_TSN: "50"

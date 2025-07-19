@@ -10,7 +10,7 @@ taxon common name:
   - bløtdyr
   - Weekdieren
   - mehkužci
-start time: -500000000-01-01T00:00:00Z
+start time: -500000000-01-01
 studied in: "[[_Standards/WikiData/WD~malacology,190993]]"
 described by source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

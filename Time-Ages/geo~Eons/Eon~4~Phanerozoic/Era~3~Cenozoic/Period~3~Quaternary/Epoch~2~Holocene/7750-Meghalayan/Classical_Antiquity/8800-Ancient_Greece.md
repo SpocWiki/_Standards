@@ -55,7 +55,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_Greece,7112550]]
 > **Ancient Greece** (Ancient Greek: Ἑλλάς, romanized: Hellás) 
 > was a northeastern Mediterranean civilisation, 
 > existing from the Greek Dark Ages of the 12th–9th centuries BC 
-> to the end of classical antiquity (c. 600 AD), 
+> to the end of [[../Classical_Antiquity|classical antiquity]] (c. 600 AD), 
 > that comprised a loose collection of culturally and linguistically related city-states. 
 > 
 > Prior to the Roman period, most of these regions were officially 

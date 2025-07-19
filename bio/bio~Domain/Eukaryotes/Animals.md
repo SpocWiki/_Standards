@@ -89,7 +89,7 @@ taxon common name:
   - dyreriket
   - živali
   - 动物界
-start time: -665000000-01-01T00:00:00Z
+start time: -665000000-01-01
 ---
 
 # [[Animals]] 

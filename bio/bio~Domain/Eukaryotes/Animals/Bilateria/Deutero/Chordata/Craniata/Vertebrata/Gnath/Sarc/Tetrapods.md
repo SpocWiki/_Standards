@@ -21,8 +21,8 @@ IPA_transcription: ˌtɛt͡ʃɹəˈpɑdə
 UMLS_CUI: C1004206
 Commons_category: Tetrapoda
 taxon_name: Tetrapoda
-start_time: -367500000-01-01T00:00:00Z
-earliest_date: -390000000-01-01T00:00:00Z
+start_time: -367500000-01-01
+earliest_date: -390000000-01-01
 ---
 
 # Terrestrial Vertebrates

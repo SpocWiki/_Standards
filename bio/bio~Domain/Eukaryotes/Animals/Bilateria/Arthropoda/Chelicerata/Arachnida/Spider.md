@@ -39,7 +39,7 @@ taxon_common_name:
   - pavouci
   - damhán alla
   - Naʼashjéʼii
-start_time: -319000000-01-01T00:00:00Z
+start_time: -319000000-01-01
 has_effect:
   - "[[_Standards/WikiData/WD~arachnophobia,220783]]"
   - "[[_Standards/WikiData/WD~spider_bite,2549274]]"

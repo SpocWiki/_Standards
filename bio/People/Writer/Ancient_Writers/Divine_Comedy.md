@@ -242,7 +242,7 @@ has_edition_or_translation:
   - "[[_Standards/WikiData/WD~La_divina_comedia,133207466]]"
   - "[[_Standards/WikiData/WD~Q133861649,133861649]]"
 instance_of: "[[_Standards/WikiData/WD~written_work,47461344]]"
-inception: 1320-01-01T00:00:00Z
+inception: 1320-01-01
 author: "[[_Standards/WikiData/WD~Dante_Alighieri,1067]]"
 Colon_Classification: O121,1G65,8
 genre: "[[_Standards/WikiData/WD~epic_poem,37484]]"
@@ -283,7 +283,7 @@ Libris_URI: 97mqw83t1tj6j6c
 > which is then followed by the soul's ascent to God (Paradiso). 
 > 
 > Dante draws on medieval Catholic theology and philosophy, 
-> especially Thomistic philosophy derived from the Summa Theologica of [[../../Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas|Thomas Aquinas]].
+> especially Thomistic philosophy derived from the Summa Theologica of [[../../../../Philosophy/Philosopher/Middle_Ages_Philosopher/Aquinas,Thomas|Thomas Aquinas]].
 >
 > In the poem, the pilgrim Dante is accompanied by three guides: 
 > - Virgil, who represents human reason, and who guides him for all of Inferno and most of Purgatorio; 

@@ -62,7 +62,7 @@ taxon_common_name:
   - Cordats
   - strunatci
   - Cordog
-start_time: -535000000-01-01T00:00:00Z
+start_time: -535000000-01-01
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"

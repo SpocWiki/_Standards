@@ -39,7 +39,7 @@ Commons_gallery: Flamenco
 Commons_category: Flamenco
 inception: "1774"
 has_time_started: 1774-06 
-has_time_started: 1774-01-01T00:00:00Z 
+has_time_started: 1774-01-01 
 ---
 
 ## #has_/text_of_/abstract 

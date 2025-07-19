@@ -29,8 +29,8 @@ Library of Congress Classification: B824.A1-B824.Z
 ---
 
 #has_/creator :: [[../../../../../Knowledge/Sociology/Politics/UK_Politics/Hobbes,Thomas|Hobbes,Thomas]] 
-#has_/creator :: [[../../../People/Philosopher/Early_modern_Philosophers/Locke,John|Locke,John]]  
-#has_/creator :: [[../../../People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]]  
+#has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Locke,John|Locke,John]]  
+#has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Individualism,171995_WD~Individualism,171995]] 
 #is_/opposite_of :: [[../../../../../Knowledge/Sociology/Politics/isms/Communitarianism|Communitarianism]]  

@@ -413,7 +413,7 @@ official_name: नेपाल
 coordinates_of_westernmost_point: "Point(80.05 28.9)"
 inception: "2008-05-28"
 has_time_started: "2008-05-28"
-has_time_started: 2008-05-28T00:00:00Z 
+has_time_started: 2008-05-28 
 area: 147181.254346
 coordinates_of_northernmost_point: "Point(81.63 30.43)"
 U_S_National_Archives_Identifier: 10035749

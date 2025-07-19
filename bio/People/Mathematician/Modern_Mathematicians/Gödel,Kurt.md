@@ -117,7 +117,7 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"KurtGodel::h4724\"]"
 
 > Kurt Friedrich Gödel ( GUR-dəl, German: [kʊʁt ˈɡøːdl̩] ; April 28, 1906 – January 14, 1978) 
 > was a  logician, mathematician, and philosopher. 
-> Considered along with [[../../Philosopher/Ancient_Philosophers/Aristotle|Aristotle]] and [[../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Concepts~AGI/Frege,Gottlob|Gottlob Frege]] 
+> Considered along with [[../../../../Philosophy/Philosopher/Ancient_Philosopher/Aristotle|Aristotle]] and [[../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Concepts~AGI/Frege,Gottlob|Gottlob Frege]] 
 > to be one of the most significant logicians in history, 
 > Gödel profoundly influenced scientific and philosophical thinking in the 20th century 
 > (at a time when [[../Russell,Bertrand|Bertrand Russell]], [[../Whitehead,Alfred_North|Alfred North Whitehead]], and [[Hilbert,David|David Hilbert]] were using logic 

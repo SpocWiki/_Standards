@@ -43,9 +43,9 @@ different_from: "[[_Standards/WikiData/WD~Horacy,9293797]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Horace,20338778]]"
 nomen_gentilicium: "[[_Standards/WikiData/WD~Horatius,29968376]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-date_of_death: -0007-11-25T00:00:00Z
+date_of_death: -0007-11-25
 attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
-date_of_birth: -0064-12-06T00:00:00Z
+date_of_birth: -0064-12-06
 writing_language: "[[_Standards/WikiData/WD~Latin,397]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Latin,397]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"

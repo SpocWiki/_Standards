@@ -86,7 +86,7 @@ Commons category: Arthropoda
 taxon name: Arthropoda
 MeSH tree code: B01.050.500.131
 Krugosvet article: nauka_i_tehnika/biologiya/CHLENISTONOGIE.html
-start time: -540000000-01-01T00:00:00Z
+start time: -540000000-01-01
 ---
 
 # [[Arthropoda]] 

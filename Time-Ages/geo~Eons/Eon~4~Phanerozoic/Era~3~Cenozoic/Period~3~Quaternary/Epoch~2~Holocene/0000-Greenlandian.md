@@ -6,8 +6,8 @@ instance of:
 type locality (geology): "[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]"
 named after: "[[_Standards/WikiData/WD~Greenland,4148644]]"
 part of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
-start time: -9700-01-01T00:00:00Z 
-end time: -6236-01-01T00:00:00Z 
+start time: -9700-01-01 
+end time: -6236-01-01 
 coordinate location: Point(-42.32 75.1) 
 sRGB color hex triplet: FEECDB 
 Commons category: Greenlandian 

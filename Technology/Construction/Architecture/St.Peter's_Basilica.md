@@ -92,7 +92,7 @@ capital_cost: 46800052
 coordinate_location: "Point(12.453416666 41.902222222)"
 inception: "1506-04-28"
 has_time_started: "1506-04-28"
-has_time_started: 1506-04-28T00:00:00Z 
+has_time_started: 1506-04-28 
 ---
 
 ## #has_/text_of_/abstract 

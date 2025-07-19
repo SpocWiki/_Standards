@@ -193,7 +193,7 @@ rotation period:
   - 24
 population: 8028504258
 coordinates of southernmost point: Point(0.0 -90.0)
-inception: -4540000000-01-01T00:00:00Z 
+inception: -4540000000-01-01 
 location:
   - "[[_Standards/WikiData/WD~Milky_Way,321]]"
   - "[[_Standards/WikiData/WD~Local_Group,3944]]"

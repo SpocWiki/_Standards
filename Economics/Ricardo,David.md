@@ -52,7 +52,7 @@ Libris-URI: 42gknhsn03mlsh0
 National_Library_of_Poland_Descriptor: "9810533189005606"
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/RIKARDO_DAVID.html
 Regensburg_Classification: HL 4070
-date_of_birth: 1772-04-18T00:00:00Z
+date_of_birth: 1772-04-18
 place_of_burial: "[[_Standards/WikiData/WD~Church_of_St_Nicholas,_Hardenhuish,17544328]]"
 given_name: "[[_Standards/WikiData/WD~David,18057751]]"
 depicted_by: "[[_Standards/WikiData/WD~David_Ricardo,28048902]]"
@@ -71,7 +71,7 @@ Commons_Creator_page: David Ricardo
 Commons_gallery: David Ricardo
 Commons_category: David Ricardo
 name_in_native_language: David Ricardo
-date_of_death: 1823-09-11T00:00:00Z
+date_of_death: 1823-09-11
 NLC_authorities: "000204334"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20David%20Ricardo%20by%20Thomas%20Phillips.jpg
 ---

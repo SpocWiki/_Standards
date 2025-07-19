@@ -29,7 +29,7 @@ NBN_System_Key: NHMSYS0000376165
 taxon_common_name:
   - գիշատիչներ
   - rovpattedyr
-start_time: -42000000-01-01T00:00:00Z
+start_time: -42000000-01-01
 MeSH_tree_code: B01.050.150.900.649.313.750
 ---
 

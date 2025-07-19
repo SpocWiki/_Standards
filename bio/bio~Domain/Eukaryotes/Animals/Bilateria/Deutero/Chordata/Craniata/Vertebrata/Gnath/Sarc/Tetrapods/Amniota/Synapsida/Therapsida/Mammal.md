@@ -46,7 +46,7 @@ topic's main template:
   - "[[_Standards/WikiData/WD~Template_Mammals,11153721]]"
 topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Mammals,11116931]]"
 said to be the same as: "[[_Standards/WikiData/WD~mammal,110551885]]"
-start time: -160000000-01-01T00:00:00Z
+start time: -160000000-01-01
 UMLS CUI: C0024660
 montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Mammalia%200.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mammal%20Diversity%202011-less%20depressing.png

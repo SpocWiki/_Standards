@@ -290,7 +290,7 @@ parent_taxon: "[[_Standards/WikiData/WD~Biota,2382443]]"
 different_from: "[[_Standards/WikiData/WD~Archaea,2859968]]"
 mode_of_reproduction: "[[_Standards/WikiData/WD~binary_fission,3073045]]"
 taxonomic_type: "[[_Standards/WikiData/WD~Methanobacterium,6823576]]"
-start_time: -3500000000-01-01T00:00:00Z
+start_time: -3500000000-01-01
 instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 subclass_of: "[[_Standards/WikiData/WD~microorganism,39833]]"
 ITIS_TSN: "935939"
