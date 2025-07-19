@@ -1081,7 +1081,7 @@ Capital :: [Moskwa](Moskwa)
 | 2022-10    | Germany, Norway    | Undersea Cables & Pipelines     | Nord Stream pipeline explosions suspected to involve sabotage      |           |
 | 2023-02    | Poland & Lithuania | Railways                        | Cyberattacks causing disruptions in rail systems                   |           |
 | 2023-05    | Various Europe     | Cyber Infrastructure            | Increased phishing/cyber espionage activities attributed to Russia |           |
-| 2024-02-16 |                    | Dissident                       | [[../../../../../media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
+| 2024-02-16 |                    | Dissident                       | [[../../../../../_private/Society/Communication/Media/Podcast/Navalny,Alexei\|Navalny,Alexei]]    |           |
 | 2018-03    |                    | [[Double-Agent]]                | [[Russia/Skripal,Sergei]]                                                 |           |
 | 2006-11-23 |                    | [[Double-Agent]]                | [[Alexander Litwinenko]]                                           |           |
 |            |                    |                                 | [[../../Arctica/Arctic-Russian-Islands/Krasikov,Vadim]]                                                |           |
