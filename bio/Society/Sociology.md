@@ -97,3 +97,20 @@ researches the Formation of "Society" and the Interaction with the Individual.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sociology)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sociology](/_Standards/bio/Society/Sociology.md) 
+
+### #is_/same_as :: [Sociology.public](/_public/bio/Society/Sociology.public.md) 
+
+### #is_/same_as :: [Sociology.internal](/_internal/bio/Society/Sociology.internal.md) 
+
+### #is_/same_as :: [Sociology.protect](/_protect/bio/Society/Sociology.protect.md) 
+
+### #is_/same_as :: [Sociology.private](/_private/bio/Society/Sociology.private.md) 
+
+### #is_/same_as :: [Sociology.personal](/_personal/bio/Society/Sociology.personal.md) 
+
+### #is_/same_as :: [Sociology.secret](/_secret/bio/Society/Sociology.secret.md)
+

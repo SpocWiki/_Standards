@@ -14,3 +14,20 @@ This external image can be accompanied by either
 - Resentment or 
 - agreeing 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nice_Guy](/_Standards/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.md) 
+
+### #is_/same_as :: [Nice_Guy.public](/_public/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.public.md) 
+
+### #is_/same_as :: [Nice_Guy.internal](/_internal/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.internal.md) 
+
+### #is_/same_as :: [Nice_Guy.protect](/_protect/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.protect.md) 
+
+### #is_/same_as :: [Nice_Guy.private](/_private/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.private.md) 
+
+### #is_/same_as :: [Nice_Guy.personal](/_personal/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.personal.md) 
+
+### #is_/same_as :: [Nice_Guy.secret](/_secret/bio/Society/Ideology/Political_Ideology/Fascism/Nice_Guy.secret.md)
+

@@ -144,3 +144,22 @@ Related, but more specific is the Question "If a tree falls in a forest and no o
 type: folder_brief_live
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Philosophy](/_Standards/Philosophy.md) 
+
+### #is_/same_as :: [Philosophy.public](/_public/Philosophy.public.md) 
+
+### #is_/same_as :: [Philosophy.internal](/_internal/Philosophy.internal.md) 
+
+### #is_/same_as :: [Philosophy.protect](/_protect/Philosophy.protect.md) 
+
+### #is_/same_as :: [Philosophy.private](/_private/Philosophy.private.md) 
+
+### #is_/same_as :: [Philosophy.personal](/_personal/Philosophy.personal.md) 
+
+### #is_/same_as :: [Philosophy.secret](/_secret/Philosophy.secret.md)
+

@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Philosophy](Religious_Philosophy.md) 
+### #is_/same_as :: [Religious_Philosophy](/_Standards/Philosophy/Philosopher/Religious_Philosophy.md) 
 
-### #is_/same_as :: [Religious_Philosophy.public](/_public/bio/People/Philosopher/Religious_Philosophy.public.md) 
+### #is_/same_as :: [Religious_Philosophy.public](/_public/Philosophy/Philosopher/Religious_Philosophy.public.md) 
 
-### #is_/same_as :: [Religious_Philosophy.internal](/_internal/bio/People/Philosopher/Religious_Philosophy.internal.md) 
+### #is_/same_as :: [Religious_Philosophy.internal](/_internal/Philosophy/Philosopher/Religious_Philosophy.internal.md) 
 
-### #is_/same_as :: [Religious_Philosophy.protect](/_protect/bio/People/Philosopher/Religious_Philosophy.protect.md) 
+### #is_/same_as :: [Religious_Philosophy.protect](/_protect/Philosophy/Philosopher/Religious_Philosophy.protect.md) 
 
-### #is_/same_as :: [Religious_Philosophy.private](/_private/bio/People/Philosopher/Religious_Philosophy.private.md) 
+### #is_/same_as :: [Religious_Philosophy.private](/_private/Philosophy/Philosopher/Religious_Philosophy.private.md) 
 
-### #is_/same_as :: [Religious_Philosophy.personal](/_personal/bio/People/Philosopher/Religious_Philosophy.personal.md) 
+### #is_/same_as :: [Religious_Philosophy.personal](/_personal/Philosophy/Philosopher/Religious_Philosophy.personal.md) 
 
-### #is_/same_as :: [Religious_Philosophy.secret](/_secret/bio/People/Philosopher/Religious_Philosophy.secret.md)
+### #is_/same_as :: [Religious_Philosophy.secret](/_secret/Philosophy/Philosopher/Religious_Philosophy.secret.md)
 

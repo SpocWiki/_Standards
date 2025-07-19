@@ -135,17 +135,17 @@ Krugosvet_article: istoriya/kurosava-akira
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kurosawa,Akira](Kurosawa,Akira.md) 
+### #is_/same_as :: [Kurosawa,Akira](/_Standards/bio/People/Movie-Director/Kurosawa,Akira.md) 
 
-### #is_/same_as :: [Kurosawa,Akira.public](/_public/bio/People/Movie-Directors/Kurosawa,Akira.public.md) 
+### #is_/same_as :: [Kurosawa,Akira.public](/_public/bio/People/Movie-Director/Kurosawa,Akira.public.md) 
 
-### #is_/same_as :: [Kurosawa,Akira.internal](/_internal/bio/People/Movie-Directors/Kurosawa,Akira.internal.md) 
+### #is_/same_as :: [Kurosawa,Akira.internal](/_internal/bio/People/Movie-Director/Kurosawa,Akira.internal.md) 
 
-### #is_/same_as :: [Kurosawa,Akira.protect](/_protect/bio/People/Movie-Directors/Kurosawa,Akira.protect.md) 
+### #is_/same_as :: [Kurosawa,Akira.protect](/_protect/bio/People/Movie-Director/Kurosawa,Akira.protect.md) 
 
-### #is_/same_as :: [Kurosawa,Akira.private](/_private/bio/People/Movie-Directors/Kurosawa,Akira.private.md) 
+### #is_/same_as :: [Kurosawa,Akira.private](/_private/bio/People/Movie-Director/Kurosawa,Akira.private.md) 
 
-### #is_/same_as :: [Kurosawa,Akira.personal](/_personal/bio/People/Movie-Directors/Kurosawa,Akira.personal.md) 
+### #is_/same_as :: [Kurosawa,Akira.personal](/_personal/bio/People/Movie-Director/Kurosawa,Akira.personal.md) 
 
-### #is_/same_as :: [Kurosawa,Akira.secret](/_secret/bio/People/Movie-Directors/Kurosawa,Akira.secret.md)
+### #is_/same_as :: [Kurosawa,Akira.secret](/_secret/bio/People/Movie-Director/Kurosawa,Akira.secret.md)
 

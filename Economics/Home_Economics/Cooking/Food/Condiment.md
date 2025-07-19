@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Condiment](Condiment.md) 
+### #is_/same_as :: [Condiment](/_Standards/Economics/Home_Economics/Cooking/Food/Condiment.md) 
 
-### #is_/same_as :: [Condiment.public](/_public/Home_Economics/Cooking/Food/Condiment.public.md) 
+### #is_/same_as :: [Condiment.public](/_public/Economics/Home_Economics/Cooking/Food/Condiment.public.md) 
 
-### #is_/same_as :: [Condiment.internal](/_internal/Home_Economics/Cooking/Food/Condiment.internal.md) 
+### #is_/same_as :: [Condiment.internal](/_internal/Economics/Home_Economics/Cooking/Food/Condiment.internal.md) 
 
-### #is_/same_as :: [Condiment.protect](/_protect/Home_Economics/Cooking/Food/Condiment.protect.md) 
+### #is_/same_as :: [Condiment.protect](/_protect/Economics/Home_Economics/Cooking/Food/Condiment.protect.md) 
 
-### #is_/same_as :: [Condiment.private](/_private/Home_Economics/Cooking/Food/Condiment.private.md) 
+### #is_/same_as :: [Condiment.private](/_private/Economics/Home_Economics/Cooking/Food/Condiment.private.md) 
 
-### #is_/same_as :: [Condiment.personal](/_personal/Home_Economics/Cooking/Food/Condiment.personal.md) 
+### #is_/same_as :: [Condiment.personal](/_personal/Economics/Home_Economics/Cooking/Food/Condiment.personal.md) 
 
-### #is_/same_as :: [Condiment.secret](/_secret/Home_Economics/Cooking/Food/Condiment.secret.md)
+### #is_/same_as :: [Condiment.secret](/_secret/Economics/Home_Economics/Cooking/Food/Condiment.secret.md)
 

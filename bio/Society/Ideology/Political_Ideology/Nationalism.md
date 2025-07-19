@@ -63,17 +63,17 @@ U_S_National_Archives_Identifier: 10642479
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nationalism](Nationalism.md) 
+### #is_/same_as :: [Nationalism](/_Standards/bio/Society/Ideology/Political_Ideology/Nationalism.md) 
 
-### #is_/same_as :: [Nationalism.public](/_public/bio/Society/Ideology/Nationalism.public.md) 
+### #is_/same_as :: [Nationalism.public](/_public/bio/Society/Ideology/Political_Ideology/Nationalism.public.md) 
 
-### #is_/same_as :: [Nationalism.internal](/_internal/bio/Society/Ideology/Nationalism.internal.md) 
+### #is_/same_as :: [Nationalism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Nationalism.internal.md) 
 
-### #is_/same_as :: [Nationalism.protect](/_protect/bio/Society/Ideology/Nationalism.protect.md) 
+### #is_/same_as :: [Nationalism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Nationalism.protect.md) 
 
-### #is_/same_as :: [Nationalism.private](/_private/bio/Society/Ideology/Nationalism.private.md) 
+### #is_/same_as :: [Nationalism.private](/_private/bio/Society/Ideology/Political_Ideology/Nationalism.private.md) 
 
-### #is_/same_as :: [Nationalism.personal](/_personal/bio/Society/Ideology/Nationalism.personal.md) 
+### #is_/same_as :: [Nationalism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Nationalism.personal.md) 
 
-### #is_/same_as :: [Nationalism.secret](/_secret/bio/Society/Ideology/Nationalism.secret.md)
+### #is_/same_as :: [Nationalism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Nationalism.secret.md)
 

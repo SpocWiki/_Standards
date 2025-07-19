@@ -152,17 +152,17 @@ OmegaWiki_Defined_Meaning: 351598
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fascism](Fascism.md) 
+### #is_/same_as :: [Fascism](/_Standards/bio/Society/Ideology/Political_Ideology/Fascism.md) 
 
-### #is_/same_as :: [Fascism.public](/_public/bio/Society/Ideology/Fascism.public.md) 
+### #is_/same_as :: [Fascism.public](/_public/bio/Society/Ideology/Political_Ideology/Fascism.public.md) 
 
-### #is_/same_as :: [Fascism.internal](/_internal/bio/Society/Ideology/Fascism.internal.md) 
+### #is_/same_as :: [Fascism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Fascism.internal.md) 
 
-### #is_/same_as :: [Fascism.protect](/_protect/bio/Society/Ideology/Fascism.protect.md) 
+### #is_/same_as :: [Fascism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Fascism.protect.md) 
 
-### #is_/same_as :: [Fascism.private](/_private/bio/Society/Ideology/Fascism.private.md) 
+### #is_/same_as :: [Fascism.private](/_private/bio/Society/Ideology/Political_Ideology/Fascism.private.md) 
 
-### #is_/same_as :: [Fascism.personal](/_personal/bio/Society/Ideology/Fascism.personal.md) 
+### #is_/same_as :: [Fascism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Fascism.personal.md) 
 
-### #is_/same_as :: [Fascism.secret](/_secret/bio/Society/Ideology/Fascism.secret.md)
+### #is_/same_as :: [Fascism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Fascism.secret.md)
 

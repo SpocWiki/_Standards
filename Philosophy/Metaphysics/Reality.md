@@ -32,17 +32,17 @@ Commons_category: Reality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reality](Reality.md) 
+### #is_/same_as :: [Reality](/_Standards/Philosophy/Metaphysics/Reality.md) 
 
-### #is_/same_as :: [Reality.public](/_public/bio/People/Philosopher/Metaphysics/Reality.public.md) 
+### #is_/same_as :: [Reality.public](/_public/Philosophy/Metaphysics/Reality.public.md) 
 
-### #is_/same_as :: [Reality.internal](/_internal/bio/People/Philosopher/Metaphysics/Reality.internal.md) 
+### #is_/same_as :: [Reality.internal](/_internal/Philosophy/Metaphysics/Reality.internal.md) 
 
-### #is_/same_as :: [Reality.protect](/_protect/bio/People/Philosopher/Metaphysics/Reality.protect.md) 
+### #is_/same_as :: [Reality.protect](/_protect/Philosophy/Metaphysics/Reality.protect.md) 
 
-### #is_/same_as :: [Reality.private](/_private/bio/People/Philosopher/Metaphysics/Reality.private.md) 
+### #is_/same_as :: [Reality.private](/_private/Philosophy/Metaphysics/Reality.private.md) 
 
-### #is_/same_as :: [Reality.personal](/_personal/bio/People/Philosopher/Metaphysics/Reality.personal.md) 
+### #is_/same_as :: [Reality.personal](/_personal/Philosophy/Metaphysics/Reality.personal.md) 
 
-### #is_/same_as :: [Reality.secret](/_secret/bio/People/Philosopher/Metaphysics/Reality.secret.md)
+### #is_/same_as :: [Reality.secret](/_secret/Philosophy/Metaphysics/Reality.secret.md)
 

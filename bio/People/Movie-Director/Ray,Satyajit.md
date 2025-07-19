@@ -157,17 +157,17 @@ IPA_transcription: ˈʃɔtːodʒit ˈrai̯
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ray,Satyajit](Ray,Satyajit.md) 
+### #is_/same_as :: [Ray,Satyajit](/_Standards/bio/People/Movie-Director/Ray,Satyajit.md) 
 
-### #is_/same_as :: [Ray,Satyajit.public](/_public/bio/People/Movie-Directors/Ray,Satyajit.public.md) 
+### #is_/same_as :: [Ray,Satyajit.public](/_public/bio/People/Movie-Director/Ray,Satyajit.public.md) 
 
-### #is_/same_as :: [Ray,Satyajit.internal](/_internal/bio/People/Movie-Directors/Ray,Satyajit.internal.md) 
+### #is_/same_as :: [Ray,Satyajit.internal](/_internal/bio/People/Movie-Director/Ray,Satyajit.internal.md) 
 
-### #is_/same_as :: [Ray,Satyajit.protect](/_protect/bio/People/Movie-Directors/Ray,Satyajit.protect.md) 
+### #is_/same_as :: [Ray,Satyajit.protect](/_protect/bio/People/Movie-Director/Ray,Satyajit.protect.md) 
 
-### #is_/same_as :: [Ray,Satyajit.private](/_private/bio/People/Movie-Directors/Ray,Satyajit.private.md) 
+### #is_/same_as :: [Ray,Satyajit.private](/_private/bio/People/Movie-Director/Ray,Satyajit.private.md) 
 
-### #is_/same_as :: [Ray,Satyajit.personal](/_personal/bio/People/Movie-Directors/Ray,Satyajit.personal.md) 
+### #is_/same_as :: [Ray,Satyajit.personal](/_personal/bio/People/Movie-Director/Ray,Satyajit.personal.md) 
 
-### #is_/same_as :: [Ray,Satyajit.secret](/_secret/bio/People/Movie-Directors/Ray,Satyajit.secret.md)
+### #is_/same_as :: [Ray,Satyajit.secret](/_secret/bio/People/Movie-Director/Ray,Satyajit.secret.md)
 

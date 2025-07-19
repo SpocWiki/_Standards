@@ -116,17 +116,17 @@ pronunciation_audio:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food](Food.md) 
+### #is_/same_as :: [Food](/_Standards/Economics/Home_Economics/Cooking/Food.md) 
 
-### #is_/same_as :: [Food.public](/_public/Home_Economics/Cooking/Food.public.md) 
+### #is_/same_as :: [Food.public](/_public/Economics/Home_Economics/Cooking/Food.public.md) 
 
-### #is_/same_as :: [Food.internal](/_internal/Home_Economics/Cooking/Food.internal.md) 
+### #is_/same_as :: [Food.internal](/_internal/Economics/Home_Economics/Cooking/Food.internal.md) 
 
-### #is_/same_as :: [Food.protect](/_protect/Home_Economics/Cooking/Food.protect.md) 
+### #is_/same_as :: [Food.protect](/_protect/Economics/Home_Economics/Cooking/Food.protect.md) 
 
-### #is_/same_as :: [Food.private](/_private/Home_Economics/Cooking/Food.private.md) 
+### #is_/same_as :: [Food.private](/_private/Economics/Home_Economics/Cooking/Food.private.md) 
 
-### #is_/same_as :: [Food.personal](/_personal/Home_Economics/Cooking/Food.personal.md) 
+### #is_/same_as :: [Food.personal](/_personal/Economics/Home_Economics/Cooking/Food.personal.md) 
 
-### #is_/same_as :: [Food.secret](/_secret/Home_Economics/Cooking/Food.secret.md)
+### #is_/same_as :: [Food.secret](/_secret/Economics/Home_Economics/Cooking/Food.secret.md)
 

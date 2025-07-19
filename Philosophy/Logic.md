@@ -79,17 +79,17 @@ MeSH_tree_code: K01.752.448
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logic](Logic.md) 
+### #is_/same_as :: [Logic](/_Standards/Philosophy/Logic.md) 
 
-### #is_/same_as :: [Logic.public](/_public/bio/People/Philosopher/Logic.public.md) 
+### #is_/same_as :: [Logic.public](/_public/Philosophy/Logic.public.md) 
 
-### #is_/same_as :: [Logic.internal](/_internal/bio/People/Philosopher/Logic.internal.md) 
+### #is_/same_as :: [Logic.internal](/_internal/Philosophy/Logic.internal.md) 
 
-### #is_/same_as :: [Logic.protect](/_protect/bio/People/Philosopher/Logic.protect.md) 
+### #is_/same_as :: [Logic.protect](/_protect/Philosophy/Logic.protect.md) 
 
-### #is_/same_as :: [Logic.private](/_private/bio/People/Philosopher/Logic.private.md) 
+### #is_/same_as :: [Logic.private](/_private/Philosophy/Logic.private.md) 
 
-### #is_/same_as :: [Logic.personal](/_personal/bio/People/Philosopher/Logic.personal.md) 
+### #is_/same_as :: [Logic.personal](/_personal/Philosophy/Logic.personal.md) 
 
-### #is_/same_as :: [Logic.secret](/_secret/bio/People/Philosopher/Logic.secret.md)
+### #is_/same_as :: [Logic.secret](/_secret/Philosophy/Logic.secret.md)
 

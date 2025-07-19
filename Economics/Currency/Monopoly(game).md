@@ -25,9 +25,6 @@ has_id_wikidata: Q17243
 > [Wikipedia](https://en.wikipedia.org/wiki/Monopoly%20(game)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monopoly(game)](/_Standards/Economics/Currency/Monopoly(game).md) 

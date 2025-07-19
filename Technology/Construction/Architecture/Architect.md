@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architect](Architect.md) 
+### #is_/same_as :: [Architect](/_Standards/Technology/Construction/Architecture/Architect.md) 
 
-### #is_/same_as :: [Architect.public](/_public/bio/People/Architect.public.md) 
+### #is_/same_as :: [Architect.public](/_public/Technology/Construction/Architecture/Architect.public.md) 
 
-### #is_/same_as :: [Architect.internal](/_internal/bio/People/Architect.internal.md) 
+### #is_/same_as :: [Architect.internal](/_internal/Technology/Construction/Architecture/Architect.internal.md) 
 
-### #is_/same_as :: [Architect.protect](/_protect/bio/People/Architect.protect.md) 
+### #is_/same_as :: [Architect.protect](/_protect/Technology/Construction/Architecture/Architect.protect.md) 
 
-### #is_/same_as :: [Architect.private](/_private/bio/People/Architect.private.md) 
+### #is_/same_as :: [Architect.private](/_private/Technology/Construction/Architecture/Architect.private.md) 
 
-### #is_/same_as :: [Architect.personal](/_personal/bio/People/Architect.personal.md) 
+### #is_/same_as :: [Architect.personal](/_personal/Technology/Construction/Architecture/Architect.personal.md) 
 
-### #is_/same_as :: [Architect.secret](/_secret/bio/People/Architect.secret.md)
+### #is_/same_as :: [Architect.secret](/_secret/Technology/Construction/Architecture/Architect.secret.md)
 

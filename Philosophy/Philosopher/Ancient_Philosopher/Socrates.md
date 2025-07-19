@@ -64,17 +64,17 @@ In dieser Situation taucht Sokrates auf.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Socrates](Socrates.md) 
+### #is_/same_as :: [Socrates](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Socrates.md) 
 
-### #is_/same_as :: [Socrates.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Socrates.public.md) 
+### #is_/same_as :: [Socrates.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Socrates.public.md) 
 
-### #is_/same_as :: [Socrates.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Socrates.internal.md) 
+### #is_/same_as :: [Socrates.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Socrates.internal.md) 
 
-### #is_/same_as :: [Socrates.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Socrates.protect.md) 
+### #is_/same_as :: [Socrates.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Socrates.protect.md) 
 
-### #is_/same_as :: [Socrates.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Socrates.private.md) 
+### #is_/same_as :: [Socrates.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Socrates.private.md) 
 
-### #is_/same_as :: [Socrates.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Socrates.personal.md) 
+### #is_/same_as :: [Socrates.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Socrates.personal.md) 
 
-### #is_/same_as :: [Socrates.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Socrates.secret.md)
+### #is_/same_as :: [Socrates.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Socrates.secret.md)
 

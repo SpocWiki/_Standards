@@ -56,17 +56,17 @@ Commons_category: Meats
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meat](Meat.md) 
+### #is_/same_as :: [Meat](/_Standards/Economics/Home_Economics/Cooking/Food/Meat.md) 
 
-### #is_/same_as :: [Meat.public](/_public/Home_Economics/Cooking/Food/Meat.public.md) 
+### #is_/same_as :: [Meat.public](/_public/Economics/Home_Economics/Cooking/Food/Meat.public.md) 
 
-### #is_/same_as :: [Meat.internal](/_internal/Home_Economics/Cooking/Food/Meat.internal.md) 
+### #is_/same_as :: [Meat.internal](/_internal/Economics/Home_Economics/Cooking/Food/Meat.internal.md) 
 
-### #is_/same_as :: [Meat.protect](/_protect/Home_Economics/Cooking/Food/Meat.protect.md) 
+### #is_/same_as :: [Meat.protect](/_protect/Economics/Home_Economics/Cooking/Food/Meat.protect.md) 
 
-### #is_/same_as :: [Meat.private](/_private/Home_Economics/Cooking/Food/Meat.private.md) 
+### #is_/same_as :: [Meat.private](/_private/Economics/Home_Economics/Cooking/Food/Meat.private.md) 
 
-### #is_/same_as :: [Meat.personal](/_personal/Home_Economics/Cooking/Food/Meat.personal.md) 
+### #is_/same_as :: [Meat.personal](/_personal/Economics/Home_Economics/Cooking/Food/Meat.personal.md) 
 
-### #is_/same_as :: [Meat.secret](/_secret/Home_Economics/Cooking/Food/Meat.secret.md)
+### #is_/same_as :: [Meat.secret](/_secret/Economics/Home_Economics/Cooking/Food/Meat.secret.md)
 

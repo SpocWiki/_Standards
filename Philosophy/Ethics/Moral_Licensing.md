@@ -58,3 +58,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Moral_Licensing](/_Standards/Philosophy/Ethics/Moral_Licensing.md) 
+
+### #is_/same_as :: [Moral_Licensing.public](/_public/Philosophy/Ethics/Moral_Licensing.public.md) 
+
+### #is_/same_as :: [Moral_Licensing.internal](/_internal/Philosophy/Ethics/Moral_Licensing.internal.md) 
+
+### #is_/same_as :: [Moral_Licensing.protect](/_protect/Philosophy/Ethics/Moral_Licensing.protect.md) 
+
+### #is_/same_as :: [Moral_Licensing.private](/_private/Philosophy/Ethics/Moral_Licensing.private.md) 
+
+### #is_/same_as :: [Moral_Licensing.personal](/_personal/Philosophy/Ethics/Moral_Licensing.personal.md) 
+
+### #is_/same_as :: [Moral_Licensing.secret](/_secret/Philosophy/Ethics/Moral_Licensing.secret.md)
+

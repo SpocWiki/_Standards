@@ -44,17 +44,17 @@ Krugosvet_article: filosofiya/krasota
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beauty](Beauty.md) 
+### #is_/same_as :: [Beauty](/_Standards/Philosophy/Aesthetics/Beauty.md) 
 
-### #is_/same_as :: [Beauty.public](/_public/bio/People/Philosopher/Aesthetics/Beauty.public.md) 
+### #is_/same_as :: [Beauty.public](/_public/Philosophy/Aesthetics/Beauty.public.md) 
 
-### #is_/same_as :: [Beauty.internal](/_internal/bio/People/Philosopher/Aesthetics/Beauty.internal.md) 
+### #is_/same_as :: [Beauty.internal](/_internal/Philosophy/Aesthetics/Beauty.internal.md) 
 
-### #is_/same_as :: [Beauty.protect](/_protect/bio/People/Philosopher/Aesthetics/Beauty.protect.md) 
+### #is_/same_as :: [Beauty.protect](/_protect/Philosophy/Aesthetics/Beauty.protect.md) 
 
-### #is_/same_as :: [Beauty.private](/_private/bio/People/Philosopher/Aesthetics/Beauty.private.md) 
+### #is_/same_as :: [Beauty.private](/_private/Philosophy/Aesthetics/Beauty.private.md) 
 
-### #is_/same_as :: [Beauty.personal](/_personal/bio/People/Philosopher/Aesthetics/Beauty.personal.md) 
+### #is_/same_as :: [Beauty.personal](/_personal/Philosophy/Aesthetics/Beauty.personal.md) 
 
-### #is_/same_as :: [Beauty.secret](/_secret/bio/People/Philosopher/Aesthetics/Beauty.secret.md)
+### #is_/same_as :: [Beauty.secret](/_secret/Philosophy/Aesthetics/Beauty.secret.md)
 

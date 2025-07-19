@@ -96,17 +96,17 @@ Libris_URI: tr577r0c21jz6qp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laozi](Laozi.md) 
+### #is_/same_as :: [Laozi](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Laozi.md) 
 
-### #is_/same_as :: [Laozi.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Laozi.public.md) 
+### #is_/same_as :: [Laozi.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Laozi.public.md) 
 
-### #is_/same_as :: [Laozi.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Laozi.internal.md) 
+### #is_/same_as :: [Laozi.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Laozi.internal.md) 
 
-### #is_/same_as :: [Laozi.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Laozi.protect.md) 
+### #is_/same_as :: [Laozi.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Laozi.protect.md) 
 
-### #is_/same_as :: [Laozi.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Laozi.private.md) 
+### #is_/same_as :: [Laozi.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Laozi.private.md) 
 
-### #is_/same_as :: [Laozi.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Laozi.personal.md) 
+### #is_/same_as :: [Laozi.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Laozi.personal.md) 
 
-### #is_/same_as :: [Laozi.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Laozi.secret.md)
+### #is_/same_as :: [Laozi.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Laozi.secret.md)
 

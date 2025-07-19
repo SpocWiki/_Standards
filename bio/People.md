@@ -16,3 +16,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [People](/_Standards/bio/People.md) 
+
+### #is_/same_as :: [People.public](/_public/bio/People.public.md) 
+
+### #is_/same_as :: [People.internal](/_internal/bio/People.internal.md) 
+
+### #is_/same_as :: [People.protect](/_protect/bio/People.protect.md) 
+
+### #is_/same_as :: [People.private](/_private/bio/People.private.md) 
+
+### #is_/same_as :: [People.personal](/_personal/bio/People.personal.md) 
+
+### #is_/same_as :: [People.secret](/_secret/bio/People.secret.md)
+

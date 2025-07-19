@@ -40,3 +40,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bathtub%20curve) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bathtub_Curve](/_Standards/Technology/Electronics/Bathtub_Curve.md) 
+
+### #is_/same_as :: [Bathtub_Curve.public](/_public/Technology/Electronics/Bathtub_Curve.public.md) 
+
+### #is_/same_as :: [Bathtub_Curve.internal](/_internal/Technology/Electronics/Bathtub_Curve.internal.md) 
+
+### #is_/same_as :: [Bathtub_Curve.protect](/_protect/Technology/Electronics/Bathtub_Curve.protect.md) 
+
+### #is_/same_as :: [Bathtub_Curve.private](/_private/Technology/Electronics/Bathtub_Curve.private.md) 
+
+### #is_/same_as :: [Bathtub_Curve.personal](/_personal/Technology/Electronics/Bathtub_Curve.personal.md) 
+
+### #is_/same_as :: [Bathtub_Curve.secret](/_secret/Technology/Electronics/Bathtub_Curve.secret.md)
+

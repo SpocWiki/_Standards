@@ -81,17 +81,17 @@ UNSPSC_Code: 50201711
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tea](Tea.md) 
+### #is_/same_as :: [Tea](/_Standards/Economics/Home_Economics/Cooking/Food/Drink/Tea.md) 
 
-### #is_/same_as :: [Tea.public](/_public/Home_Economics/Cooking/Food/Drink/Tea.public.md) 
+### #is_/same_as :: [Tea.public](/_public/Economics/Home_Economics/Cooking/Food/Drink/Tea.public.md) 
 
-### #is_/same_as :: [Tea.internal](/_internal/Home_Economics/Cooking/Food/Drink/Tea.internal.md) 
+### #is_/same_as :: [Tea.internal](/_internal/Economics/Home_Economics/Cooking/Food/Drink/Tea.internal.md) 
 
-### #is_/same_as :: [Tea.protect](/_protect/Home_Economics/Cooking/Food/Drink/Tea.protect.md) 
+### #is_/same_as :: [Tea.protect](/_protect/Economics/Home_Economics/Cooking/Food/Drink/Tea.protect.md) 
 
-### #is_/same_as :: [Tea.private](/_private/Home_Economics/Cooking/Food/Drink/Tea.private.md) 
+### #is_/same_as :: [Tea.private](/_private/Economics/Home_Economics/Cooking/Food/Drink/Tea.private.md) 
 
-### #is_/same_as :: [Tea.personal](/_personal/Home_Economics/Cooking/Food/Drink/Tea.personal.md) 
+### #is_/same_as :: [Tea.personal](/_personal/Economics/Home_Economics/Cooking/Food/Drink/Tea.personal.md) 
 
-### #is_/same_as :: [Tea.secret](/_secret/Home_Economics/Cooking/Food/Drink/Tea.secret.md)
+### #is_/same_as :: [Tea.secret](/_secret/Economics/Home_Economics/Cooking/Food/Drink/Tea.secret.md)
 

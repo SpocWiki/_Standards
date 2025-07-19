@@ -25,3 +25,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sloterdijk,Peter](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.md) 
+
+### #is_/same_as :: [Sloterdijk,Peter.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.public.md) 
+
+### #is_/same_as :: [Sloterdijk,Peter.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.internal.md) 
+
+### #is_/same_as :: [Sloterdijk,Peter.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.protect.md) 
+
+### #is_/same_as :: [Sloterdijk,Peter.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.private.md) 
+
+### #is_/same_as :: [Sloterdijk,Peter.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.personal.md) 
+
+### #is_/same_as :: [Sloterdijk,Peter.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Sloterdijk,Peter.secret.md)
+

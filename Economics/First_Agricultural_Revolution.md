@@ -40,3 +40,22 @@ aliases:
 (circa 10,000 BC), the prehistoric transition from hunting and gathering 
 to settled agriculture (also known as the Neolithic Revolution)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [First_Agricultural_Revolution](/_Standards/Economics/First_Agricultural_Revolution.md) 
+
+### #is_/same_as :: [First_Agricultural_Revolution.public](/_public/Economics/First_Agricultural_Revolution.public.md) 
+
+### #is_/same_as :: [First_Agricultural_Revolution.internal](/_internal/Economics/First_Agricultural_Revolution.internal.md) 
+
+### #is_/same_as :: [First_Agricultural_Revolution.protect](/_protect/Economics/First_Agricultural_Revolution.protect.md) 
+
+### #is_/same_as :: [First_Agricultural_Revolution.private](/_private/Economics/First_Agricultural_Revolution.private.md) 
+
+### #is_/same_as :: [First_Agricultural_Revolution.personal](/_personal/Economics/First_Agricultural_Revolution.personal.md) 
+
+### #is_/same_as :: [First_Agricultural_Revolution.secret](/_secret/Economics/First_Agricultural_Revolution.secret.md)
+

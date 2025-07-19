@@ -169,17 +169,17 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disney,Walt](Disney,Walt.md) 
+### #is_/same_as :: [Disney,Walt](/_Standards/bio/People/Movie-Director/Disney,Walt.md) 
 
-### #is_/same_as :: [Disney,Walt.public](/_public/bio/People/Movie-Directors/Disney,Walt.public.md) 
+### #is_/same_as :: [Disney,Walt.public](/_public/bio/People/Movie-Director/Disney,Walt.public.md) 
 
-### #is_/same_as :: [Disney,Walt.internal](/_internal/bio/People/Movie-Directors/Disney,Walt.internal.md) 
+### #is_/same_as :: [Disney,Walt.internal](/_internal/bio/People/Movie-Director/Disney,Walt.internal.md) 
 
-### #is_/same_as :: [Disney,Walt.protect](/_protect/bio/People/Movie-Directors/Disney,Walt.protect.md) 
+### #is_/same_as :: [Disney,Walt.protect](/_protect/bio/People/Movie-Director/Disney,Walt.protect.md) 
 
-### #is_/same_as :: [Disney,Walt.private](/_private/bio/People/Movie-Directors/Disney,Walt.private.md) 
+### #is_/same_as :: [Disney,Walt.private](/_private/bio/People/Movie-Director/Disney,Walt.private.md) 
 
-### #is_/same_as :: [Disney,Walt.personal](/_personal/bio/People/Movie-Directors/Disney,Walt.personal.md) 
+### #is_/same_as :: [Disney,Walt.personal](/_personal/bio/People/Movie-Director/Disney,Walt.personal.md) 
 
-### #is_/same_as :: [Disney,Walt.secret](/_secret/bio/People/Movie-Directors/Disney,Walt.secret.md)
+### #is_/same_as :: [Disney,Walt.secret](/_secret/bio/People/Movie-Director/Disney,Walt.secret.md)
 

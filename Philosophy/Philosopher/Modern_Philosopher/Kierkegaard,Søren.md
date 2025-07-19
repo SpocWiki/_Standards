@@ -177,3 +177,22 @@ Krugosvet_article: filosofiya/kerkegor-syoren
 > [Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren%20Kierkegaard) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kierkegaard,Søren](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.md) 
+
+### #is_/same_as :: [Kierkegaard,Søren.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.public.md) 
+
+### #is_/same_as :: [Kierkegaard,Søren.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.internal.md) 
+
+### #is_/same_as :: [Kierkegaard,Søren.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.protect.md) 
+
+### #is_/same_as :: [Kierkegaard,Søren.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.private.md) 
+
+### #is_/same_as :: [Kierkegaard,Søren.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.personal.md) 
+
+### #is_/same_as :: [Kierkegaard,Søren.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.secret.md)
+

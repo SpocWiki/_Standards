@@ -9,8 +9,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Means%20of%20communication) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Media](/_Standards/Media.md) 

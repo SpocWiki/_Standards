@@ -23,17 +23,17 @@ has_id_wikidata: Q7327
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gagarin,Yuri](Gagarin,Yuri.md) 
+### #is_/same_as :: [Gagarin,Yuri](/_Standards/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.md) 
 
-### #is_/same_as :: [Gagarin,Yuri.public](/_public/bio/People/Explorers/Modern_Explorers/Gagarin,Yuri.public.md) 
+### #is_/same_as :: [Gagarin,Yuri.public](/_public/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.public.md) 
 
-### #is_/same_as :: [Gagarin,Yuri.internal](/_internal/bio/People/Explorers/Modern_Explorers/Gagarin,Yuri.internal.md) 
+### #is_/same_as :: [Gagarin,Yuri.internal](/_internal/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.internal.md) 
 
-### #is_/same_as :: [Gagarin,Yuri.protect](/_protect/bio/People/Explorers/Modern_Explorers/Gagarin,Yuri.protect.md) 
+### #is_/same_as :: [Gagarin,Yuri.protect](/_protect/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.protect.md) 
 
-### #is_/same_as :: [Gagarin,Yuri.private](/_private/bio/People/Explorers/Modern_Explorers/Gagarin,Yuri.private.md) 
+### #is_/same_as :: [Gagarin,Yuri.private](/_private/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.private.md) 
 
-### #is_/same_as :: [Gagarin,Yuri.personal](/_personal/bio/People/Explorers/Modern_Explorers/Gagarin,Yuri.personal.md) 
+### #is_/same_as :: [Gagarin,Yuri.personal](/_personal/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.personal.md) 
 
-### #is_/same_as :: [Gagarin,Yuri.secret](/_secret/bio/People/Explorers/Modern_Explorers/Gagarin,Yuri.secret.md)
+### #is_/same_as :: [Gagarin,Yuri.secret](/_secret/bio/People/Explorer/Modern_Explorer/Gagarin,Yuri.secret.md)
 

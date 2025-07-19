@@ -51,3 +51,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pericles](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Pericles.md) 
+
+### #is_/same_as :: [Pericles.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Pericles.public.md) 
+
+### #is_/same_as :: [Pericles.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Pericles.internal.md) 
+
+### #is_/same_as :: [Pericles.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Pericles.protect.md) 
+
+### #is_/same_as :: [Pericles.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Pericles.private.md) 
+
+### #is_/same_as :: [Pericles.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Pericles.personal.md) 
+
+### #is_/same_as :: [Pericles.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Pericles.secret.md)
+

@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophy_of_Science](Philosophy_of_Science.md) 
+### #is_/same_as :: [Philosophy_of_Science](/_Standards/Philosophy/Philosopher/Philosophy_of_Science.md) 
 
-### #is_/same_as :: [Philosophy_of_Science.public](/_public/bio/People/Philosopher/Philosophy_of_Science.public.md) 
+### #is_/same_as :: [Philosophy_of_Science.public](/_public/Philosophy/Philosopher/Philosophy_of_Science.public.md) 
 
-### #is_/same_as :: [Philosophy_of_Science.internal](/_internal/bio/People/Philosopher/Philosophy_of_Science.internal.md) 
+### #is_/same_as :: [Philosophy_of_Science.internal](/_internal/Philosophy/Philosopher/Philosophy_of_Science.internal.md) 
 
-### #is_/same_as :: [Philosophy_of_Science.protect](/_protect/bio/People/Philosopher/Philosophy_of_Science.protect.md) 
+### #is_/same_as :: [Philosophy_of_Science.protect](/_protect/Philosophy/Philosopher/Philosophy_of_Science.protect.md) 
 
-### #is_/same_as :: [Philosophy_of_Science.private](/_private/bio/People/Philosopher/Philosophy_of_Science.private.md) 
+### #is_/same_as :: [Philosophy_of_Science.private](/_private/Philosophy/Philosopher/Philosophy_of_Science.private.md) 
 
-### #is_/same_as :: [Philosophy_of_Science.personal](/_personal/bio/People/Philosopher/Philosophy_of_Science.personal.md) 
+### #is_/same_as :: [Philosophy_of_Science.personal](/_personal/Philosophy/Philosopher/Philosophy_of_Science.personal.md) 
 
-### #is_/same_as :: [Philosophy_of_Science.secret](/_secret/bio/People/Philosopher/Philosophy_of_Science.secret.md)
+### #is_/same_as :: [Philosophy_of_Science.secret](/_secret/Philosophy/Philosopher/Philosophy_of_Science.secret.md)
 

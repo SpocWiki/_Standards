@@ -151,17 +151,17 @@ name_in_native_language: "Simone de Beauvoir"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beauvoir,Simone_de](Beauvoir,Simone_de.md) 
+### #is_/same_as :: [Beauvoir,Simone_de](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.md) 
 
-### #is_/same_as :: [Beauvoir,Simone_de.public](/_public/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.public.md) 
+### #is_/same_as :: [Beauvoir,Simone_de.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.public.md) 
 
-### #is_/same_as :: [Beauvoir,Simone_de.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.internal.md) 
+### #is_/same_as :: [Beauvoir,Simone_de.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.internal.md) 
 
-### #is_/same_as :: [Beauvoir,Simone_de.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.protect.md) 
+### #is_/same_as :: [Beauvoir,Simone_de.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.protect.md) 
 
-### #is_/same_as :: [Beauvoir,Simone_de.private](/_private/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.private.md) 
+### #is_/same_as :: [Beauvoir,Simone_de.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.private.md) 
 
-### #is_/same_as :: [Beauvoir,Simone_de.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.personal.md) 
+### #is_/same_as :: [Beauvoir,Simone_de.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.personal.md) 
 
-### #is_/same_as :: [Beauvoir,Simone_de.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.secret.md)
+### #is_/same_as :: [Beauvoir,Simone_de.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Beauvoir,Simone_de.secret.md)
 

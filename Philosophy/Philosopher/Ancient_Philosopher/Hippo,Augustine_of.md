@@ -163,17 +163,17 @@ Iconclass_notation: 11H(AUGUSTINE)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hippo,Augustine_of](Hippo,Augustine_of.md) 
+### #is_/same_as :: [Hippo,Augustine_of](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.md) 
 
-### #is_/same_as :: [Hippo,Augustine_of.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.public.md) 
+### #is_/same_as :: [Hippo,Augustine_of.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.public.md) 
 
-### #is_/same_as :: [Hippo,Augustine_of.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.internal.md) 
+### #is_/same_as :: [Hippo,Augustine_of.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.internal.md) 
 
-### #is_/same_as :: [Hippo,Augustine_of.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.protect.md) 
+### #is_/same_as :: [Hippo,Augustine_of.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.protect.md) 
 
-### #is_/same_as :: [Hippo,Augustine_of.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.private.md) 
+### #is_/same_as :: [Hippo,Augustine_of.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.private.md) 
 
-### #is_/same_as :: [Hippo,Augustine_of.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.personal.md) 
+### #is_/same_as :: [Hippo,Augustine_of.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.personal.md) 
 
-### #is_/same_as :: [Hippo,Augustine_of.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.secret.md)
+### #is_/same_as :: [Hippo,Augustine_of.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of.secret.md)
 

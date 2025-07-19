@@ -93,17 +93,17 @@ name_in_native_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mimar_Sinan](Mimar_Sinan.md) 
+### #is_/same_as :: [Mimar_Sinan](/_Standards/Technology/Construction/Architecture/Architect/Mimar_Sinan.md) 
 
-### #is_/same_as :: [Mimar_Sinan.public](/_public/bio/People/Architect/Mimar_Sinan.public.md) 
+### #is_/same_as :: [Mimar_Sinan.public](/_public/Technology/Construction/Architecture/Architect/Mimar_Sinan.public.md) 
 
-### #is_/same_as :: [Mimar_Sinan.internal](/_internal/bio/People/Architect/Mimar_Sinan.internal.md) 
+### #is_/same_as :: [Mimar_Sinan.internal](/_internal/Technology/Construction/Architecture/Architect/Mimar_Sinan.internal.md) 
 
-### #is_/same_as :: [Mimar_Sinan.protect](/_protect/bio/People/Architect/Mimar_Sinan.protect.md) 
+### #is_/same_as :: [Mimar_Sinan.protect](/_protect/Technology/Construction/Architecture/Architect/Mimar_Sinan.protect.md) 
 
-### #is_/same_as :: [Mimar_Sinan.private](/_private/bio/People/Architect/Mimar_Sinan.private.md) 
+### #is_/same_as :: [Mimar_Sinan.private](/_private/Technology/Construction/Architecture/Architect/Mimar_Sinan.private.md) 
 
-### #is_/same_as :: [Mimar_Sinan.personal](/_personal/bio/People/Architect/Mimar_Sinan.personal.md) 
+### #is_/same_as :: [Mimar_Sinan.personal](/_personal/Technology/Construction/Architecture/Architect/Mimar_Sinan.personal.md) 
 
-### #is_/same_as :: [Mimar_Sinan.secret](/_secret/bio/People/Architect/Mimar_Sinan.secret.md)
+### #is_/same_as :: [Mimar_Sinan.secret](/_secret/Technology/Construction/Architecture/Architect/Mimar_Sinan.secret.md)
 

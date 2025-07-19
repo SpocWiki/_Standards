@@ -71,17 +71,17 @@ discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre-Joseph_Proudhon,5749]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anarchism](Anarchism.md) 
+### #is_/same_as :: [Anarchism](/_Standards/bio/Society/Ideology/Political_Ideology/Anarchism.md) 
 
-### #is_/same_as :: [Anarchism.public](/_public/bio/Society/Ideology/Anarchism.public.md) 
+### #is_/same_as :: [Anarchism.public](/_public/bio/Society/Ideology/Political_Ideology/Anarchism.public.md) 
 
-### #is_/same_as :: [Anarchism.internal](/_internal/bio/Society/Ideology/Anarchism.internal.md) 
+### #is_/same_as :: [Anarchism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Anarchism.internal.md) 
 
-### #is_/same_as :: [Anarchism.protect](/_protect/bio/Society/Ideology/Anarchism.protect.md) 
+### #is_/same_as :: [Anarchism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Anarchism.protect.md) 
 
-### #is_/same_as :: [Anarchism.private](/_private/bio/Society/Ideology/Anarchism.private.md) 
+### #is_/same_as :: [Anarchism.private](/_private/bio/Society/Ideology/Political_Ideology/Anarchism.private.md) 
 
-### #is_/same_as :: [Anarchism.personal](/_personal/bio/Society/Ideology/Anarchism.personal.md) 
+### #is_/same_as :: [Anarchism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Anarchism.personal.md) 
 
-### #is_/same_as :: [Anarchism.secret](/_secret/bio/Society/Ideology/Anarchism.secret.md)
+### #is_/same_as :: [Anarchism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Anarchism.secret.md)
 

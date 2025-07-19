@@ -192,36 +192,17 @@ excalidraw-autoexport: svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wright,Frank_Lloyd](Wright,Frank_Lloyd.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd](/_Standards/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.public](/_public/bio/People/Architect/Wright,Frank_Lloyd.public.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.public](/_public/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.public.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.internal](/_internal/bio/People/Architect/Wright,Frank_Lloyd.internal.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.internal](/_internal/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.internal.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.protect](/_protect/bio/People/Architect/Wright,Frank_Lloyd.protect.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.protect](/_protect/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.protect.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.private](/_private/bio/People/Architect/Wright,Frank_Lloyd.private.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.private](/_private/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.private.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.personal](/_personal/bio/People/Architect/Wright,Frank_Lloyd.personal.md) 
+### #is_/same_as :: [Wright,Frank_Lloyd.personal](/_personal/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.personal.md) 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.secret](/_secret/bio/People/Architect/Wright,Frank_Lloyd.secret.md)
+### #is_/same_as :: [Wright,Frank_Lloyd.secret](/_secret/Technology/Construction/Architecture/Architect/Wright,Frank_Lloyd.secret.md)
 
-
-# [[Wright,Frank_Lloyd]] 
-
-#is_/part_of :: [[Wright,Frank_Lloyd 1]] 
-
-![[Wright,Frank_Lloyd.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

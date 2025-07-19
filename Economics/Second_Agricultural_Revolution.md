@@ -121,3 +121,22 @@ dv.view("TableByName");
 | 1850 | 26.69 | 26.18 | 23.82  | 31.36 |      16.30      |                —                 |
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Second_Agricultural_Revolution](/_Standards/Economics/Second_Agricultural_Revolution.md) 
+
+### #is_/same_as :: [Second_Agricultural_Revolution.public](/_public/Economics/Second_Agricultural_Revolution.public.md) 
+
+### #is_/same_as :: [Second_Agricultural_Revolution.internal](/_internal/Economics/Second_Agricultural_Revolution.internal.md) 
+
+### #is_/same_as :: [Second_Agricultural_Revolution.protect](/_protect/Economics/Second_Agricultural_Revolution.protect.md) 
+
+### #is_/same_as :: [Second_Agricultural_Revolution.private](/_private/Economics/Second_Agricultural_Revolution.private.md) 
+
+### #is_/same_as :: [Second_Agricultural_Revolution.personal](/_personal/Economics/Second_Agricultural_Revolution.personal.md) 
+
+### #is_/same_as :: [Second_Agricultural_Revolution.secret](/_secret/Economics/Second_Agricultural_Revolution.secret.md)
+

@@ -58,17 +58,17 @@ subreddit: Conservative
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservatism](Conservatism.md) 
+### #is_/same_as :: [Conservatism](/_Standards/bio/Society/Ideology/Political_Ideology/Conservatism.md) 
 
-### #is_/same_as :: [Conservatism.public](/_public/bio/Society/Ideology/Conservatism.public.md) 
+### #is_/same_as :: [Conservatism.public](/_public/bio/Society/Ideology/Political_Ideology/Conservatism.public.md) 
 
-### #is_/same_as :: [Conservatism.internal](/_internal/bio/Society/Ideology/Conservatism.internal.md) 
+### #is_/same_as :: [Conservatism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Conservatism.internal.md) 
 
-### #is_/same_as :: [Conservatism.protect](/_protect/bio/Society/Ideology/Conservatism.protect.md) 
+### #is_/same_as :: [Conservatism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Conservatism.protect.md) 
 
-### #is_/same_as :: [Conservatism.private](/_private/bio/Society/Ideology/Conservatism.private.md) 
+### #is_/same_as :: [Conservatism.private](/_private/bio/Society/Ideology/Political_Ideology/Conservatism.private.md) 
 
-### #is_/same_as :: [Conservatism.personal](/_personal/bio/Society/Ideology/Conservatism.personal.md) 
+### #is_/same_as :: [Conservatism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Conservatism.personal.md) 
 
-### #is_/same_as :: [Conservatism.secret](/_secret/bio/Society/Ideology/Conservatism.secret.md)
+### #is_/same_as :: [Conservatism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Conservatism.secret.md)
 

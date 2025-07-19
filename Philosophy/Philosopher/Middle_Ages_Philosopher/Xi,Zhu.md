@@ -90,17 +90,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xi,Zhu](Xi,Zhu.md) 
+### #is_/same_as :: [Xi,Zhu](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.md) 
 
-### #is_/same_as :: [Xi,Zhu.public](/_public/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.public.md) 
+### #is_/same_as :: [Xi,Zhu.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.public.md) 
 
-### #is_/same_as :: [Xi,Zhu.internal](/_internal/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.internal.md) 
+### #is_/same_as :: [Xi,Zhu.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.internal.md) 
 
-### #is_/same_as :: [Xi,Zhu.protect](/_protect/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.protect.md) 
+### #is_/same_as :: [Xi,Zhu.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.protect.md) 
 
-### #is_/same_as :: [Xi,Zhu.private](/_private/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.private.md) 
+### #is_/same_as :: [Xi,Zhu.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.private.md) 
 
-### #is_/same_as :: [Xi,Zhu.personal](/_personal/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.personal.md) 
+### #is_/same_as :: [Xi,Zhu.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.personal.md) 
 
-### #is_/same_as :: [Xi,Zhu.secret](/_secret/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.secret.md)
+### #is_/same_as :: [Xi,Zhu.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Xi,Zhu.secret.md)
 

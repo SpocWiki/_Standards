@@ -28,17 +28,17 @@ has_id_wikidata: Q6527
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques](Rousseau,Jean-Jacques.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.md) 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.public.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.public.md) 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.internal.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.internal.md) 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.protect.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.protect.md) 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.private.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.private.md) 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.personal.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.personal.md) 
 
-### #is_/same_as :: [Rousseau,Jean-Jacques.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.secret.md)
+### #is_/same_as :: [Rousseau,Jean-Jacques.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques.secret.md)
 

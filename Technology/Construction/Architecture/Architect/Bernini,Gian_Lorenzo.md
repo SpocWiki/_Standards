@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo](Bernini,Gian_Lorenzo.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo](/_Standards/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.public](/_public/bio/People/Architect/Bernini,Gian_Lorenzo.public.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.public](/_public/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.public.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.internal](/_internal/bio/People/Architect/Bernini,Gian_Lorenzo.internal.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.internal](/_internal/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.internal.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.protect](/_protect/bio/People/Architect/Bernini,Gian_Lorenzo.protect.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.protect](/_protect/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.protect.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.private](/_private/bio/People/Architect/Bernini,Gian_Lorenzo.private.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.private](/_private/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.private.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.personal](/_personal/bio/People/Architect/Bernini,Gian_Lorenzo.personal.md) 
+### #is_/same_as :: [Bernini,Gian_Lorenzo.personal](/_personal/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.personal.md) 
 
-### #is_/same_as :: [Bernini,Gian_Lorenzo.secret](/_secret/bio/People/Architect/Bernini,Gian_Lorenzo.secret.md)
+### #is_/same_as :: [Bernini,Gian_Lorenzo.secret](/_secret/Technology/Construction/Architecture/Architect/Bernini,Gian_Lorenzo.secret.md)
 

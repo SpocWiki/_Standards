@@ -108,3 +108,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Rawls%20%281971
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Rawls) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rawls,John](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.md) 
+
+### #is_/same_as :: [Rawls,John.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.public.md) 
+
+### #is_/same_as :: [Rawls,John.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.internal.md) 
+
+### #is_/same_as :: [Rawls,John.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.protect.md) 
+
+### #is_/same_as :: [Rawls,John.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.private.md) 
+
+### #is_/same_as :: [Rawls,John.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.personal.md) 
+
+### #is_/same_as :: [Rawls,John.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.secret.md)
+

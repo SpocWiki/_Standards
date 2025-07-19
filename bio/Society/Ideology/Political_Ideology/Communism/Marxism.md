@@ -49,17 +49,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20and%20Engels.j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marxism](Marxism.md) 
+### #is_/same_as :: [Marxism](/_Standards/bio/Society/Ideology/Political_Ideology/Communism/Marxism.md) 
 
-### #is_/same_as :: [Marxism.public](/_public/bio/Society/Ideology/Marxism.public.md) 
+### #is_/same_as :: [Marxism.public](/_public/bio/Society/Ideology/Political_Ideology/Communism/Marxism.public.md) 
 
-### #is_/same_as :: [Marxism.internal](/_internal/bio/Society/Ideology/Marxism.internal.md) 
+### #is_/same_as :: [Marxism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Communism/Marxism.internal.md) 
 
-### #is_/same_as :: [Marxism.protect](/_protect/bio/Society/Ideology/Marxism.protect.md) 
+### #is_/same_as :: [Marxism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Communism/Marxism.protect.md) 
 
-### #is_/same_as :: [Marxism.private](/_private/bio/Society/Ideology/Marxism.private.md) 
+### #is_/same_as :: [Marxism.private](/_private/bio/Society/Ideology/Political_Ideology/Communism/Marxism.private.md) 
 
-### #is_/same_as :: [Marxism.personal](/_personal/bio/Society/Ideology/Marxism.personal.md) 
+### #is_/same_as :: [Marxism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Communism/Marxism.personal.md) 
 
-### #is_/same_as :: [Marxism.secret](/_secret/bio/Society/Ideology/Marxism.secret.md)
+### #is_/same_as :: [Marxism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Communism/Marxism.secret.md)
 

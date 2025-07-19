@@ -57,5 +57,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gamergate%20(harassment%20campaign))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [GamerGate](/_Standards/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.md) 
+
+### #is_/same_as :: [GamerGate.public](/_public/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.public.md) 
+
+### #is_/same_as :: [GamerGate.internal](/_internal/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.internal.md) 
+
+### #is_/same_as :: [GamerGate.protect](/_protect/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.protect.md) 
+
+### #is_/same_as :: [GamerGate.private](/_private/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.private.md) 
+
+### #is_/same_as :: [GamerGate.personal](/_personal/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.personal.md) 
+
+### #is_/same_as :: [GamerGate.secret](/_secret/bio/Society/Ideology/Political_Ideology/Fascism/GamerGate.secret.md)
 

@@ -257,17 +257,17 @@ U_S_National_Archives_Identifier: 10569140
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jackson,Michael](Jackson,Michael.md) 
+### #is_/same_as :: [Jackson,Michael](/_Standards/bio/People/Musician/Pop-Musician/Jackson,Michael.md) 
 
-### #is_/same_as :: [Jackson,Michael.public](/_public/bio/People/Musician/Pop-Musicians/Jackson,Michael.public.md) 
+### #is_/same_as :: [Jackson,Michael.public](/_public/bio/People/Musician/Pop-Musician/Jackson,Michael.public.md) 
 
-### #is_/same_as :: [Jackson,Michael.internal](/_internal/bio/People/Musician/Pop-Musicians/Jackson,Michael.internal.md) 
+### #is_/same_as :: [Jackson,Michael.internal](/_internal/bio/People/Musician/Pop-Musician/Jackson,Michael.internal.md) 
 
-### #is_/same_as :: [Jackson,Michael.protect](/_protect/bio/People/Musician/Pop-Musicians/Jackson,Michael.protect.md) 
+### #is_/same_as :: [Jackson,Michael.protect](/_protect/bio/People/Musician/Pop-Musician/Jackson,Michael.protect.md) 
 
-### #is_/same_as :: [Jackson,Michael.private](/_private/bio/People/Musician/Pop-Musicians/Jackson,Michael.private.md) 
+### #is_/same_as :: [Jackson,Michael.private](/_private/bio/People/Musician/Pop-Musician/Jackson,Michael.private.md) 
 
-### #is_/same_as :: [Jackson,Michael.personal](/_personal/bio/People/Musician/Pop-Musicians/Jackson,Michael.personal.md) 
+### #is_/same_as :: [Jackson,Michael.personal](/_personal/bio/People/Musician/Pop-Musician/Jackson,Michael.personal.md) 
 
-### #is_/same_as :: [Jackson,Michael.secret](/_secret/bio/People/Musician/Pop-Musicians/Jackson,Michael.secret.md)
+### #is_/same_as :: [Jackson,Michael.secret](/_secret/bio/People/Musician/Pop-Musician/Jackson,Michael.secret.md)
 

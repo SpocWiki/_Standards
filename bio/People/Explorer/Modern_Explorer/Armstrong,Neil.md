@@ -161,17 +161,17 @@ date_of_death: 2012-08-25
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armstrong,Neil](Armstrong,Neil.md) 
+### #is_/same_as :: [Armstrong,Neil](/_Standards/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.md) 
 
-### #is_/same_as :: [Armstrong,Neil.public](/_public/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.public.md) 
+### #is_/same_as :: [Armstrong,Neil.public](/_public/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.public.md) 
 
-### #is_/same_as :: [Armstrong,Neil.internal](/_internal/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.internal.md) 
+### #is_/same_as :: [Armstrong,Neil.internal](/_internal/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.internal.md) 
 
-### #is_/same_as :: [Armstrong,Neil.protect](/_protect/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.protect.md) 
+### #is_/same_as :: [Armstrong,Neil.protect](/_protect/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.protect.md) 
 
-### #is_/same_as :: [Armstrong,Neil.private](/_private/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.private.md) 
+### #is_/same_as :: [Armstrong,Neil.private](/_private/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.private.md) 
 
-### #is_/same_as :: [Armstrong,Neil.personal](/_personal/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.personal.md) 
+### #is_/same_as :: [Armstrong,Neil.personal](/_personal/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.personal.md) 
 
-### #is_/same_as :: [Armstrong,Neil.secret](/_secret/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.secret.md)
+### #is_/same_as :: [Armstrong,Neil.secret](/_secret/bio/People/Explorer/Modern_Explorer/Armstrong,Neil.secret.md)
 

@@ -39,3 +39,22 @@ launched: 1995-09-22
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Seven(1995_film)](/_Standards/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).md) 
+
+### #is_/same_as :: [Seven(1995_film).public](/_public/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).public.md) 
+
+### #is_/same_as :: [Seven(1995_film).internal](/_internal/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).internal.md) 
+
+### #is_/same_as :: [Seven(1995_film).protect](/_protect/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).protect.md) 
+
+### #is_/same_as :: [Seven(1995_film).private](/_private/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).private.md) 
+
+### #is_/same_as :: [Seven(1995_film).personal](/_personal/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).personal.md) 
+
+### #is_/same_as :: [Seven(1995_film).secret](/_secret/Philosophy/Metaphysic/Religion/Christianity/Seven(1995_film).secret.md)
+

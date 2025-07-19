@@ -92,13 +92,6 @@ Roman Law usually restricted Power by Time.
 > [Wikipedia](https://en.wikipedia.org/wiki/Magistrates'%20court) 
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Roman_Magistrate](/_Standards/bio/Society/Government/Roman_Magistrate.md) 

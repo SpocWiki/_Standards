@@ -116,17 +116,17 @@ IEV_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Information](Information.md) 
+### #is_/same_as :: [Information](/_Standards/Philosophy/Epistemology/Information.md) 
 
-### #is_/same_as :: [Information.public](/_public/bio/People/Philosopher/Epistemology/Information.public.md) 
+### #is_/same_as :: [Information.public](/_public/Philosophy/Epistemology/Information.public.md) 
 
-### #is_/same_as :: [Information.internal](/_internal/bio/People/Philosopher/Epistemology/Information.internal.md) 
+### #is_/same_as :: [Information.internal](/_internal/Philosophy/Epistemology/Information.internal.md) 
 
-### #is_/same_as :: [Information.protect](/_protect/bio/People/Philosopher/Epistemology/Information.protect.md) 
+### #is_/same_as :: [Information.protect](/_protect/Philosophy/Epistemology/Information.protect.md) 
 
-### #is_/same_as :: [Information.private](/_private/bio/People/Philosopher/Epistemology/Information.private.md) 
+### #is_/same_as :: [Information.private](/_private/Philosophy/Epistemology/Information.private.md) 
 
-### #is_/same_as :: [Information.personal](/_personal/bio/People/Philosopher/Epistemology/Information.personal.md) 
+### #is_/same_as :: [Information.personal](/_personal/Philosophy/Epistemology/Information.personal.md) 
 
-### #is_/same_as :: [Information.secret](/_secret/bio/People/Philosopher/Epistemology/Information.secret.md)
+### #is_/same_as :: [Information.secret](/_secret/Philosophy/Epistemology/Information.secret.md)
 

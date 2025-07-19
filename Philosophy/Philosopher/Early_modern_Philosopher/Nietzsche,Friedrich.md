@@ -227,17 +227,17 @@ Weakness leads to Dishonesty and Resentment when Goals are denied.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nietzsche,Friedrich](Nietzsche,Friedrich.md) 
+### #is_/same_as :: [Nietzsche,Friedrich](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.md) 
 
-### #is_/same_as :: [Nietzsche,Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.public.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.public.md) 
 
-### #is_/same_as :: [Nietzsche,Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.internal.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.internal.md) 
 
-### #is_/same_as :: [Nietzsche,Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.protect.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.protect.md) 
 
-### #is_/same_as :: [Nietzsche,Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.private.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.private.md) 
 
-### #is_/same_as :: [Nietzsche,Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.personal.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.personal.md) 
 
-### #is_/same_as :: [Nietzsche,Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.secret.md)
+### #is_/same_as :: [Nietzsche,Friedrich.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.secret.md)
 

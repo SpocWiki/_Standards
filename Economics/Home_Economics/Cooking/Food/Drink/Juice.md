@@ -51,17 +51,17 @@ USDA_NDB_number: 14327
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Juice](Juice.md) 
+### #is_/same_as :: [Juice](/_Standards/Economics/Home_Economics/Cooking/Food/Drink/Juice.md) 
 
-### #is_/same_as :: [Juice.public](/_public/Home_Economics/Cooking/Food/Drink/Juice.public.md) 
+### #is_/same_as :: [Juice.public](/_public/Economics/Home_Economics/Cooking/Food/Drink/Juice.public.md) 
 
-### #is_/same_as :: [Juice.internal](/_internal/Home_Economics/Cooking/Food/Drink/Juice.internal.md) 
+### #is_/same_as :: [Juice.internal](/_internal/Economics/Home_Economics/Cooking/Food/Drink/Juice.internal.md) 
 
-### #is_/same_as :: [Juice.protect](/_protect/Home_Economics/Cooking/Food/Drink/Juice.protect.md) 
+### #is_/same_as :: [Juice.protect](/_protect/Economics/Home_Economics/Cooking/Food/Drink/Juice.protect.md) 
 
-### #is_/same_as :: [Juice.private](/_private/Home_Economics/Cooking/Food/Drink/Juice.private.md) 
+### #is_/same_as :: [Juice.private](/_private/Economics/Home_Economics/Cooking/Food/Drink/Juice.private.md) 
 
-### #is_/same_as :: [Juice.personal](/_personal/Home_Economics/Cooking/Food/Drink/Juice.personal.md) 
+### #is_/same_as :: [Juice.personal](/_personal/Economics/Home_Economics/Cooking/Food/Drink/Juice.personal.md) 
 
-### #is_/same_as :: [Juice.secret](/_secret/Home_Economics/Cooking/Food/Drink/Juice.secret.md)
+### #is_/same_as :: [Juice.secret](/_secret/Economics/Home_Economics/Cooking/Food/Drink/Juice.secret.md)
 

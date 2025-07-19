@@ -180,17 +180,17 @@ described_at_URL: "http://www.digiporta.net/index.php?id=679740498"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Descartes,René](Descartes,René.md) 
+### #is_/same_as :: [Descartes,René](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.md) 
 
-### #is_/same_as :: [Descartes,René.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.public.md) 
+### #is_/same_as :: [Descartes,René.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.public.md) 
 
-### #is_/same_as :: [Descartes,René.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.internal.md) 
+### #is_/same_as :: [Descartes,René.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.internal.md) 
 
-### #is_/same_as :: [Descartes,René.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.protect.md) 
+### #is_/same_as :: [Descartes,René.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.protect.md) 
 
-### #is_/same_as :: [Descartes,René.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.private.md) 
+### #is_/same_as :: [Descartes,René.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.private.md) 
 
-### #is_/same_as :: [Descartes,René.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.personal.md) 
+### #is_/same_as :: [Descartes,René.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.personal.md) 
 
-### #is_/same_as :: [Descartes,René.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.secret.md)
+### #is_/same_as :: [Descartes,René.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.secret.md)
 

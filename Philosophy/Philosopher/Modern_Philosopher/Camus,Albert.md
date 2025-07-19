@@ -162,17 +162,17 @@ Krugosvet_article: filosofiya/kamyu-alber
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Camus,Albert](Camus,Albert.md) 
+### #is_/same_as :: [Camus,Albert](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.md) 
 
-### #is_/same_as :: [Camus,Albert.public](/_public/bio/People/Philosopher/Modern_Philosophers/Camus,Albert.public.md) 
+### #is_/same_as :: [Camus,Albert.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.public.md) 
 
-### #is_/same_as :: [Camus,Albert.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Camus,Albert.internal.md) 
+### #is_/same_as :: [Camus,Albert.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.internal.md) 
 
-### #is_/same_as :: [Camus,Albert.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Camus,Albert.protect.md) 
+### #is_/same_as :: [Camus,Albert.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.protect.md) 
 
-### #is_/same_as :: [Camus,Albert.private](/_private/bio/People/Philosopher/Modern_Philosophers/Camus,Albert.private.md) 
+### #is_/same_as :: [Camus,Albert.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.private.md) 
 
-### #is_/same_as :: [Camus,Albert.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Camus,Albert.personal.md) 
+### #is_/same_as :: [Camus,Albert.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.personal.md) 
 
-### #is_/same_as :: [Camus,Albert.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Camus,Albert.secret.md)
+### #is_/same_as :: [Camus,Albert.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Camus,Albert.secret.md)
 

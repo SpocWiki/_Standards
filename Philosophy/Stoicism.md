@@ -68,3 +68,22 @@ Modern Stoicism was captured by the [[../bio/Society/Ideology/Political_Ideology
 | Hierocles          |  200 |  250 | Unknown | Cosmopolitanism, circles of concern                 |
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stoicism](/_Standards/Philosophy/Stoicism.md) 
+
+### #is_/same_as :: [Stoicism.public](/_public/Philosophy/Stoicism.public.md) 
+
+### #is_/same_as :: [Stoicism.internal](/_internal/Philosophy/Stoicism.internal.md) 
+
+### #is_/same_as :: [Stoicism.protect](/_protect/Philosophy/Stoicism.protect.md) 
+
+### #is_/same_as :: [Stoicism.private](/_private/Philosophy/Stoicism.private.md) 
+
+### #is_/same_as :: [Stoicism.personal](/_personal/Philosophy/Stoicism.personal.md) 
+
+### #is_/same_as :: [Stoicism.secret](/_secret/Philosophy/Stoicism.secret.md)
+

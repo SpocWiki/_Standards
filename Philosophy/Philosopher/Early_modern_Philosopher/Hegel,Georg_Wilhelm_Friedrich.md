@@ -157,17 +157,17 @@ ArhivX_LOD: 811
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich](Hegel,Georg_Wilhelm_Friedrich.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.md) 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.public.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.public.md) 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.internal.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.internal.md) 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.protect.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.protect.md) 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.private.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.private.md) 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.personal.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.personal.md) 
 
-### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.secret.md)
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Hegel,Georg_Wilhelm_Friedrich.secret.md)
 

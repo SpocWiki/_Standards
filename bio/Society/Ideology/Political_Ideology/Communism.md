@@ -67,17 +67,17 @@ Commons_category: Communism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Communism](Communism.md) 
+### #is_/same_as :: [Communism](/_Standards/bio/Society/Ideology/Political_Ideology/Communism.md) 
 
-### #is_/same_as :: [Communism.public](/_public/bio/Society/Ideology/Communism.public.md) 
+### #is_/same_as :: [Communism.public](/_public/bio/Society/Ideology/Political_Ideology/Communism.public.md) 
 
-### #is_/same_as :: [Communism.internal](/_internal/bio/Society/Ideology/Communism.internal.md) 
+### #is_/same_as :: [Communism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Communism.internal.md) 
 
-### #is_/same_as :: [Communism.protect](/_protect/bio/Society/Ideology/Communism.protect.md) 
+### #is_/same_as :: [Communism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Communism.protect.md) 
 
-### #is_/same_as :: [Communism.private](/_private/bio/Society/Ideology/Communism.private.md) 
+### #is_/same_as :: [Communism.private](/_private/bio/Society/Ideology/Political_Ideology/Communism.private.md) 
 
-### #is_/same_as :: [Communism.personal](/_personal/bio/Society/Ideology/Communism.personal.md) 
+### #is_/same_as :: [Communism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Communism.personal.md) 
 
-### #is_/same_as :: [Communism.secret](/_secret/bio/Society/Ideology/Communism.secret.md)
+### #is_/same_as :: [Communism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Communism.secret.md)
 

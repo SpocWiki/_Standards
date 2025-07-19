@@ -52,17 +52,17 @@ PhilPapers_topic: metaphysics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metaphysics](Metaphysics.md) 
+### #is_/same_as :: [Metaphysics](/_Standards/Philosophy/Metaphysics.md) 
 
-### #is_/same_as :: [Metaphysics.public](/_public/bio/People/Philosopher/Metaphysics.public.md) 
+### #is_/same_as :: [Metaphysics.public](/_public/Philosophy/Metaphysics.public.md) 
 
-### #is_/same_as :: [Metaphysics.internal](/_internal/bio/People/Philosopher/Metaphysics.internal.md) 
+### #is_/same_as :: [Metaphysics.internal](/_internal/Philosophy/Metaphysics.internal.md) 
 
-### #is_/same_as :: [Metaphysics.protect](/_protect/bio/People/Philosopher/Metaphysics.protect.md) 
+### #is_/same_as :: [Metaphysics.protect](/_protect/Philosophy/Metaphysics.protect.md) 
 
-### #is_/same_as :: [Metaphysics.private](/_private/bio/People/Philosopher/Metaphysics.private.md) 
+### #is_/same_as :: [Metaphysics.private](/_private/Philosophy/Metaphysics.private.md) 
 
-### #is_/same_as :: [Metaphysics.personal](/_personal/bio/People/Philosopher/Metaphysics.personal.md) 
+### #is_/same_as :: [Metaphysics.personal](/_personal/Philosophy/Metaphysics.personal.md) 
 
-### #is_/same_as :: [Metaphysics.secret](/_secret/bio/People/Philosopher/Metaphysics.secret.md)
+### #is_/same_as :: [Metaphysics.secret](/_secret/Philosophy/Metaphysics.secret.md)
 

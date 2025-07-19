@@ -113,17 +113,17 @@ date_of_death: "1525-01-03"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gama,Vasco_da](Gama,Vasco_da.md) 
+### #is_/same_as :: [Gama,Vasco_da](/_Standards/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.md) 
 
-### #is_/same_as :: [Gama,Vasco_da.public](/_public/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.public.md) 
+### #is_/same_as :: [Gama,Vasco_da.public](/_public/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.public.md) 
 
-### #is_/same_as :: [Gama,Vasco_da.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.internal.md) 
+### #is_/same_as :: [Gama,Vasco_da.internal](/_internal/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.internal.md) 
 
-### #is_/same_as :: [Gama,Vasco_da.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.protect.md) 
+### #is_/same_as :: [Gama,Vasco_da.protect](/_protect/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.protect.md) 
 
-### #is_/same_as :: [Gama,Vasco_da.private](/_private/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.private.md) 
+### #is_/same_as :: [Gama,Vasco_da.private](/_private/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.private.md) 
 
-### #is_/same_as :: [Gama,Vasco_da.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.personal.md) 
+### #is_/same_as :: [Gama,Vasco_da.personal](/_personal/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.personal.md) 
 
-### #is_/same_as :: [Gama,Vasco_da.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.secret.md)
+### #is_/same_as :: [Gama,Vasco_da.secret](/_secret/bio/People/Explorer/Age_of_Discovery/Gama,Vasco_da.secret.md)
 

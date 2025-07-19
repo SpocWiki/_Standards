@@ -204,17 +204,17 @@ Experience => Thinking => Reality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aristotle](Aristotle.md) 
+### #is_/same_as :: [Aristotle](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.md) 
 
-### #is_/same_as :: [Aristotle.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Aristotle.public.md) 
+### #is_/same_as :: [Aristotle.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.public.md) 
 
-### #is_/same_as :: [Aristotle.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.internal.md) 
+### #is_/same_as :: [Aristotle.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.internal.md) 
 
-### #is_/same_as :: [Aristotle.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Aristotle.protect.md) 
+### #is_/same_as :: [Aristotle.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.protect.md) 
 
-### #is_/same_as :: [Aristotle.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Aristotle.private.md) 
+### #is_/same_as :: [Aristotle.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.private.md) 
 
-### #is_/same_as :: [Aristotle.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.personal.md) 
+### #is_/same_as :: [Aristotle.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.personal.md) 
 
-### #is_/same_as :: [Aristotle.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Aristotle.secret.md)
+### #is_/same_as :: [Aristotle.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Aristotle.secret.md)
 

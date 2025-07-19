@@ -29,9 +29,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Rawls) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Rawls,John](/_Standards/bio/People/Philosopher/Modern_Philosophers/Rawls,John.md) 

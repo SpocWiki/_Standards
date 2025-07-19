@@ -26,17 +26,17 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauers%20b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dialectic](Dialectic.md) 
+### #is_/same_as :: [Dialectic](/_Standards/Philosophy/Logic/Dialectic.md) 
 
-### #is_/same_as :: [Dialectic.public](/_public/bio/People/Philosopher/Logic/Dialectic.public.md) 
+### #is_/same_as :: [Dialectic.public](/_public/Philosophy/Logic/Dialectic.public.md) 
 
-### #is_/same_as :: [Dialectic.internal](/_internal/bio/People/Philosopher/Logic/Dialectic.internal.md) 
+### #is_/same_as :: [Dialectic.internal](/_internal/Philosophy/Logic/Dialectic.internal.md) 
 
-### #is_/same_as :: [Dialectic.protect](/_protect/bio/People/Philosopher/Logic/Dialectic.protect.md) 
+### #is_/same_as :: [Dialectic.protect](/_protect/Philosophy/Logic/Dialectic.protect.md) 
 
-### #is_/same_as :: [Dialectic.private](/_private/bio/People/Philosopher/Logic/Dialectic.private.md) 
+### #is_/same_as :: [Dialectic.private](/_private/Philosophy/Logic/Dialectic.private.md) 
 
-### #is_/same_as :: [Dialectic.personal](/_personal/bio/People/Philosopher/Logic/Dialectic.personal.md) 
+### #is_/same_as :: [Dialectic.personal](/_personal/Philosophy/Logic/Dialectic.personal.md) 
 
-### #is_/same_as :: [Dialectic.secret](/_secret/bio/People/Philosopher/Logic/Dialectic.secret.md)
+### #is_/same_as :: [Dialectic.secret](/_secret/Philosophy/Logic/Dialectic.secret.md)
 

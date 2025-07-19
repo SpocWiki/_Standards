@@ -49,17 +49,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameron,James](Cameron,James.md) 
+### #is_/same_as :: [Cameron,James](/_Standards/bio/People/Movie-Director/Cameron,James.md) 
 
-### #is_/same_as :: [Cameron,James.public](/_public/bio/People/Movie-Directors/Cameron,James.public.md) 
+### #is_/same_as :: [Cameron,James.public](/_public/bio/People/Movie-Director/Cameron,James.public.md) 
 
-### #is_/same_as :: [Cameron,James.internal](/_internal/bio/People/Movie-Directors/Cameron,James.internal.md) 
+### #is_/same_as :: [Cameron,James.internal](/_internal/bio/People/Movie-Director/Cameron,James.internal.md) 
 
-### #is_/same_as :: [Cameron,James.protect](/_protect/bio/People/Movie-Directors/Cameron,James.protect.md) 
+### #is_/same_as :: [Cameron,James.protect](/_protect/bio/People/Movie-Director/Cameron,James.protect.md) 
 
-### #is_/same_as :: [Cameron,James.private](/_private/bio/People/Movie-Directors/Cameron,James.private.md) 
+### #is_/same_as :: [Cameron,James.private](/_private/bio/People/Movie-Director/Cameron,James.private.md) 
 
-### #is_/same_as :: [Cameron,James.personal](/_personal/bio/People/Movie-Directors/Cameron,James.personal.md) 
+### #is_/same_as :: [Cameron,James.personal](/_personal/bio/People/Movie-Director/Cameron,James.personal.md) 
 
-### #is_/same_as :: [Cameron,James.secret](/_secret/bio/People/Movie-Directors/Cameron,James.secret.md)
+### #is_/same_as :: [Cameron,James.secret](/_secret/bio/People/Movie-Director/Cameron,James.secret.md)
 

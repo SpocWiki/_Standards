@@ -224,22 +224,3 @@ excalidraw-autoexport: svg
 
 ### #is_/same_as :: [Alexander_the_Great.secret](/_secret/bio/People/Leader/Ancient_Leaders/Alexander_the_Great.secret.md)
 
-
-# [[Alexander_the_Great]] 
-
-#is_/part_of :: [[Alexander_the_Great]] 
-
-![[Alexander_the_Great.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

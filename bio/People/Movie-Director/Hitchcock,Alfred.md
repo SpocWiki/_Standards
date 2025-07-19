@@ -190,17 +190,17 @@ work_period_start_: "1921"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hitchcock,Alfred](Hitchcock,Alfred.md) 
+### #is_/same_as :: [Hitchcock,Alfred](/_Standards/bio/People/Movie-Director/Hitchcock,Alfred.md) 
 
-### #is_/same_as :: [Hitchcock,Alfred.public](/_public/bio/People/Movie-Directors/Hitchcock,Alfred.public.md) 
+### #is_/same_as :: [Hitchcock,Alfred.public](/_public/bio/People/Movie-Director/Hitchcock,Alfred.public.md) 
 
-### #is_/same_as :: [Hitchcock,Alfred.internal](/_internal/bio/People/Movie-Directors/Hitchcock,Alfred.internal.md) 
+### #is_/same_as :: [Hitchcock,Alfred.internal](/_internal/bio/People/Movie-Director/Hitchcock,Alfred.internal.md) 
 
-### #is_/same_as :: [Hitchcock,Alfred.protect](/_protect/bio/People/Movie-Directors/Hitchcock,Alfred.protect.md) 
+### #is_/same_as :: [Hitchcock,Alfred.protect](/_protect/bio/People/Movie-Director/Hitchcock,Alfred.protect.md) 
 
-### #is_/same_as :: [Hitchcock,Alfred.private](/_private/bio/People/Movie-Directors/Hitchcock,Alfred.private.md) 
+### #is_/same_as :: [Hitchcock,Alfred.private](/_private/bio/People/Movie-Director/Hitchcock,Alfred.private.md) 
 
-### #is_/same_as :: [Hitchcock,Alfred.personal](/_personal/bio/People/Movie-Directors/Hitchcock,Alfred.personal.md) 
+### #is_/same_as :: [Hitchcock,Alfred.personal](/_personal/bio/People/Movie-Director/Hitchcock,Alfred.personal.md) 
 
-### #is_/same_as :: [Hitchcock,Alfred.secret](/_secret/bio/People/Movie-Directors/Hitchcock,Alfred.secret.md)
+### #is_/same_as :: [Hitchcock,Alfred.secret](/_secret/bio/People/Movie-Director/Hitchcock,Alfred.secret.md)
 

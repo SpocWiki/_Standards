@@ -22,17 +22,17 @@ has_id_wikidata: Q10987
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Honey](Honey.md) 
+### #is_/same_as :: [Honey](/_Standards/Economics/Home_Economics/Cooking/Food/Candy/Honey.md) 
 
-### #is_/same_as :: [Honey.public](/_public/Home_Economics/Cooking/Food/Candy/Honey.public.md) 
+### #is_/same_as :: [Honey.public](/_public/Economics/Home_Economics/Cooking/Food/Candy/Honey.public.md) 
 
-### #is_/same_as :: [Honey.internal](/_internal/Home_Economics/Cooking/Food/Candy/Honey.internal.md) 
+### #is_/same_as :: [Honey.internal](/_internal/Economics/Home_Economics/Cooking/Food/Candy/Honey.internal.md) 
 
-### #is_/same_as :: [Honey.protect](/_protect/Home_Economics/Cooking/Food/Candy/Honey.protect.md) 
+### #is_/same_as :: [Honey.protect](/_protect/Economics/Home_Economics/Cooking/Food/Candy/Honey.protect.md) 
 
-### #is_/same_as :: [Honey.private](/_private/Home_Economics/Cooking/Food/Candy/Honey.private.md) 
+### #is_/same_as :: [Honey.private](/_private/Economics/Home_Economics/Cooking/Food/Candy/Honey.private.md) 
 
-### #is_/same_as :: [Honey.personal](/_personal/Home_Economics/Cooking/Food/Candy/Honey.personal.md) 
+### #is_/same_as :: [Honey.personal](/_personal/Economics/Home_Economics/Cooking/Food/Candy/Honey.personal.md) 
 
-### #is_/same_as :: [Honey.secret](/_secret/Home_Economics/Cooking/Food/Candy/Honey.secret.md)
+### #is_/same_as :: [Honey.secret](/_secret/Economics/Home_Economics/Cooking/Food/Candy/Honey.secret.md)
 

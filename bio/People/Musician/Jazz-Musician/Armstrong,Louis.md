@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armstrong,Louis](Armstrong,Louis.md) 
+### #is_/same_as :: [Armstrong,Louis](/_Standards/bio/People/Musician/Jazz-Musician/Armstrong,Louis.md) 
 
-### #is_/same_as :: [Armstrong,Louis.public](/_public/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.public.md) 
+### #is_/same_as :: [Armstrong,Louis.public](/_public/bio/People/Musician/Jazz-Musician/Armstrong,Louis.public.md) 
 
-### #is_/same_as :: [Armstrong,Louis.internal](/_internal/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.internal.md) 
+### #is_/same_as :: [Armstrong,Louis.internal](/_internal/bio/People/Musician/Jazz-Musician/Armstrong,Louis.internal.md) 
 
-### #is_/same_as :: [Armstrong,Louis.protect](/_protect/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.protect.md) 
+### #is_/same_as :: [Armstrong,Louis.protect](/_protect/bio/People/Musician/Jazz-Musician/Armstrong,Louis.protect.md) 
 
-### #is_/same_as :: [Armstrong,Louis.private](/_private/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.private.md) 
+### #is_/same_as :: [Armstrong,Louis.private](/_private/bio/People/Musician/Jazz-Musician/Armstrong,Louis.private.md) 
 
-### #is_/same_as :: [Armstrong,Louis.personal](/_personal/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.personal.md) 
+### #is_/same_as :: [Armstrong,Louis.personal](/_personal/bio/People/Musician/Jazz-Musician/Armstrong,Louis.personal.md) 
 
-### #is_/same_as :: [Armstrong,Louis.secret](/_secret/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.secret.md)
+### #is_/same_as :: [Armstrong,Louis.secret](/_secret/bio/People/Musician/Jazz-Musician/Armstrong,Louis.secret.md)
 

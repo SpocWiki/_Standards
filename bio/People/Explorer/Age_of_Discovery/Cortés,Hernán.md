@@ -116,17 +116,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hern%C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cortés,Hernán](Cortés,Hernán.md) 
+### #is_/same_as :: [Cortés,Hernán](/_Standards/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.md) 
 
-### #is_/same_as :: [Cortés,Hernán.public](/_public/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.public.md) 
+### #is_/same_as :: [Cortés,Hernán.public](/_public/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.public.md) 
 
-### #is_/same_as :: [Cortés,Hernán.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.internal.md) 
+### #is_/same_as :: [Cortés,Hernán.internal](/_internal/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.internal.md) 
 
-### #is_/same_as :: [Cortés,Hernán.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.protect.md) 
+### #is_/same_as :: [Cortés,Hernán.protect](/_protect/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.protect.md) 
 
-### #is_/same_as :: [Cortés,Hernán.private](/_private/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.private.md) 
+### #is_/same_as :: [Cortés,Hernán.private](/_private/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.private.md) 
 
-### #is_/same_as :: [Cortés,Hernán.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.personal.md) 
+### #is_/same_as :: [Cortés,Hernán.personal](/_personal/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.personal.md) 
 
-### #is_/same_as :: [Cortés,Hernán.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.secret.md)
+### #is_/same_as :: [Cortés,Hernán.secret](/_secret/bio/People/Explorer/Age_of_Discovery/Cortés,Hernán.secret.md)
 

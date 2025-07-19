@@ -67,3 +67,22 @@ in opposition to [[../Ancient_Philosopher/Plato]]ns Model
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hume,David](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.md) 
+
+### #is_/same_as :: [Hume,David.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.public.md) 
+
+### #is_/same_as :: [Hume,David.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.internal.md) 
+
+### #is_/same_as :: [Hume,David.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.protect.md) 
+
+### #is_/same_as :: [Hume,David.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.private.md) 
+
+### #is_/same_as :: [Hume,David.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.personal.md) 
+
+### #is_/same_as :: [Hume,David.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Hume,David.secret.md)
+

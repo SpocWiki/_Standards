@@ -81,5 +81,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alt-right)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [alt-right_Movement](/_Standards/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.md) 
+
+### #is_/same_as :: [alt-right_Movement.public](/_public/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.public.md) 
+
+### #is_/same_as :: [alt-right_Movement.internal](/_internal/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.internal.md) 
+
+### #is_/same_as :: [alt-right_Movement.protect](/_protect/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.protect.md) 
+
+### #is_/same_as :: [alt-right_Movement.private](/_private/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.private.md) 
+
+### #is_/same_as :: [alt-right_Movement.personal](/_personal/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.personal.md) 
+
+### #is_/same_as :: [alt-right_Movement.secret](/_secret/bio/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.secret.md)
 

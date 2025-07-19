@@ -123,36 +123,17 @@ Provenio_UUID:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosopher](Philosopher.md) 
+### #is_/same_as :: [Philosopher](/_Standards/Philosophy/Philosopher.md) 
 
-### #is_/same_as :: [Philosopher.public](/_public/bio/People/Philosopher.public.md) 
+### #is_/same_as :: [Philosopher.public](/_public/Philosophy/Philosopher.public.md) 
 
-### #is_/same_as :: [Philosopher.internal](/_internal/bio/People/Philosopher.internal.md) 
+### #is_/same_as :: [Philosopher.internal](/_internal/Philosophy/Philosopher.internal.md) 
 
-### #is_/same_as :: [Philosopher.protect](/_protect/bio/People/Philosopher.protect.md) 
+### #is_/same_as :: [Philosopher.protect](/_protect/Philosophy/Philosopher.protect.md) 
 
-### #is_/same_as :: [Philosopher.private](/_private/bio/People/Philosopher.private.md) 
+### #is_/same_as :: [Philosopher.private](/_private/Philosophy/Philosopher.private.md) 
 
-### #is_/same_as :: [Philosopher.personal](/_personal/bio/People/Philosopher.personal.md) 
+### #is_/same_as :: [Philosopher.personal](/_personal/Philosophy/Philosopher.personal.md) 
 
-### #is_/same_as :: [Philosopher.secret](/_secret/bio/People/Philosopher.secret.md)
+### #is_/same_as :: [Philosopher.secret](/_secret/Philosophy/Philosopher.secret.md)
 
-
-# [[Philosopher]] 
-
-#is_/part_of :: [[Philosopher 1]] 
-
-![[Philosopher.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

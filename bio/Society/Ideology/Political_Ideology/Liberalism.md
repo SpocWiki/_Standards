@@ -69,17 +69,17 @@ Basisklassifikation: 89.12
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liberalism](Liberalism.md) 
+### #is_/same_as :: [Liberalism](/_Standards/bio/Society/Ideology/Political_Ideology/Liberalism.md) 
 
-### #is_/same_as :: [Liberalism.public](/_public/bio/Society/Ideology/Liberalism.public.md) 
+### #is_/same_as :: [Liberalism.public](/_public/bio/Society/Ideology/Political_Ideology/Liberalism.public.md) 
 
-### #is_/same_as :: [Liberalism.internal](/_internal/bio/Society/Ideology/Liberalism.internal.md) 
+### #is_/same_as :: [Liberalism.internal](/_internal/bio/Society/Ideology/Political_Ideology/Liberalism.internal.md) 
 
-### #is_/same_as :: [Liberalism.protect](/_protect/bio/Society/Ideology/Liberalism.protect.md) 
+### #is_/same_as :: [Liberalism.protect](/_protect/bio/Society/Ideology/Political_Ideology/Liberalism.protect.md) 
 
-### #is_/same_as :: [Liberalism.private](/_private/bio/Society/Ideology/Liberalism.private.md) 
+### #is_/same_as :: [Liberalism.private](/_private/bio/Society/Ideology/Political_Ideology/Liberalism.private.md) 
 
-### #is_/same_as :: [Liberalism.personal](/_personal/bio/Society/Ideology/Liberalism.personal.md) 
+### #is_/same_as :: [Liberalism.personal](/_personal/bio/Society/Ideology/Political_Ideology/Liberalism.personal.md) 
 
-### #is_/same_as :: [Liberalism.secret](/_secret/bio/Society/Ideology/Liberalism.secret.md)
+### #is_/same_as :: [Liberalism.secret](/_secret/bio/Society/Ideology/Political_Ideology/Liberalism.secret.md)
 

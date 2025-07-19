@@ -109,4 +109,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Unite%20the%20Right%20(Canada))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Unite_the_Right_rally](/_Standards/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.md) 
+
+### #is_/same_as :: [Unite_the_Right_rally.public](/_public/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.public.md) 
+
+### #is_/same_as :: [Unite_the_Right_rally.internal](/_internal/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.internal.md) 
+
+### #is_/same_as :: [Unite_the_Right_rally.protect](/_protect/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.protect.md) 
+
+### #is_/same_as :: [Unite_the_Right_rally.private](/_private/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.private.md) 
+
+### #is_/same_as :: [Unite_the_Right_rally.personal](/_personal/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.personal.md) 
+
+### #is_/same_as :: [Unite_the_Right_rally.secret](/_secret/bio/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.secret.md)
 

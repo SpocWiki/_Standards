@@ -36,17 +36,17 @@ Commons_category: Materialism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Materialism](Materialism.md) 
+### #is_/same_as :: [Materialism](/_Standards/Philosophy/Metaphysics/Materialism.md) 
 
-### #is_/same_as :: [Materialism.public](/_public/bio/People/Philosopher/Metaphysics/Materialism.public.md) 
+### #is_/same_as :: [Materialism.public](/_public/Philosophy/Metaphysics/Materialism.public.md) 
 
-### #is_/same_as :: [Materialism.internal](/_internal/bio/People/Philosopher/Metaphysics/Materialism.internal.md) 
+### #is_/same_as :: [Materialism.internal](/_internal/Philosophy/Metaphysics/Materialism.internal.md) 
 
-### #is_/same_as :: [Materialism.protect](/_protect/bio/People/Philosopher/Metaphysics/Materialism.protect.md) 
+### #is_/same_as :: [Materialism.protect](/_protect/Philosophy/Metaphysics/Materialism.protect.md) 
 
-### #is_/same_as :: [Materialism.private](/_private/bio/People/Philosopher/Metaphysics/Materialism.private.md) 
+### #is_/same_as :: [Materialism.private](/_private/Philosophy/Metaphysics/Materialism.private.md) 
 
-### #is_/same_as :: [Materialism.personal](/_personal/bio/People/Philosopher/Metaphysics/Materialism.personal.md) 
+### #is_/same_as :: [Materialism.personal](/_personal/Philosophy/Metaphysics/Materialism.personal.md) 
 
-### #is_/same_as :: [Materialism.secret](/_secret/bio/People/Philosopher/Metaphysics/Materialism.secret.md)
+### #is_/same_as :: [Materialism.secret](/_secret/Philosophy/Metaphysics/Materialism.secret.md)
 

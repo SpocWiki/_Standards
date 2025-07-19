@@ -21,3 +21,22 @@ Monogamy prevents diseases and jealousy and arguments about inheritance.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Religion](/_Standards/Philosophy/Metaphysic/Religion.md) 
+
+### #is_/same_as :: [Religion.public](/_public/Philosophy/Metaphysic/Religion.public.md) 
+
+### #is_/same_as :: [Religion.internal](/_internal/Philosophy/Metaphysic/Religion.internal.md) 
+
+### #is_/same_as :: [Religion.protect](/_protect/Philosophy/Metaphysic/Religion.protect.md) 
+
+### #is_/same_as :: [Religion.private](/_private/Philosophy/Metaphysic/Religion.private.md) 
+
+### #is_/same_as :: [Religion.personal](/_personal/Philosophy/Metaphysic/Religion.personal.md) 
+
+### #is_/same_as :: [Religion.secret](/_secret/Philosophy/Metaphysic/Religion.secret.md)
+

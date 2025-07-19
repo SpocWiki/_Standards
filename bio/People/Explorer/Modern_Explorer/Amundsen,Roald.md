@@ -114,17 +114,17 @@ name_in_native_language: "Roald Amundsen"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amundsen,Roald](Amundsen,Roald.md) 
+### #is_/same_as :: [Amundsen,Roald](/_Standards/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.md) 
 
-### #is_/same_as :: [Amundsen,Roald.public](/_public/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.public.md) 
+### #is_/same_as :: [Amundsen,Roald.public](/_public/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.public.md) 
 
-### #is_/same_as :: [Amundsen,Roald.internal](/_internal/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.internal.md) 
+### #is_/same_as :: [Amundsen,Roald.internal](/_internal/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.internal.md) 
 
-### #is_/same_as :: [Amundsen,Roald.protect](/_protect/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.protect.md) 
+### #is_/same_as :: [Amundsen,Roald.protect](/_protect/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.protect.md) 
 
-### #is_/same_as :: [Amundsen,Roald.private](/_private/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.private.md) 
+### #is_/same_as :: [Amundsen,Roald.private](/_private/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.private.md) 
 
-### #is_/same_as :: [Amundsen,Roald.personal](/_personal/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.personal.md) 
+### #is_/same_as :: [Amundsen,Roald.personal](/_personal/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.personal.md) 
 
-### #is_/same_as :: [Amundsen,Roald.secret](/_secret/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.secret.md)
+### #is_/same_as :: [Amundsen,Roald.secret](/_secret/bio/People/Explorer/Modern_Explorer/Amundsen,Roald.secret.md)
 

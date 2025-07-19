@@ -66,17 +66,17 @@ OmegaWiki_Defined_Meaning: 1349
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethics](Ethics.md) 
+### #is_/same_as :: [Ethics](/_Standards/Philosophy/Ethics.md) 
 
-### #is_/same_as :: [Ethics.public](/_public/bio/People/Philosopher/Ethics.public.md) 
+### #is_/same_as :: [Ethics.public](/_public/Philosophy/Ethics.public.md) 
 
-### #is_/same_as :: [Ethics.internal](/_internal/bio/People/Philosopher/Ethics.internal.md) 
+### #is_/same_as :: [Ethics.internal](/_internal/Philosophy/Ethics.internal.md) 
 
-### #is_/same_as :: [Ethics.protect](/_protect/bio/People/Philosopher/Ethics.protect.md) 
+### #is_/same_as :: [Ethics.protect](/_protect/Philosophy/Ethics.protect.md) 
 
-### #is_/same_as :: [Ethics.private](/_private/bio/People/Philosopher/Ethics.private.md) 
+### #is_/same_as :: [Ethics.private](/_private/Philosophy/Ethics.private.md) 
 
-### #is_/same_as :: [Ethics.personal](/_personal/bio/People/Philosopher/Ethics.personal.md) 
+### #is_/same_as :: [Ethics.personal](/_personal/Philosophy/Ethics.personal.md) 
 
-### #is_/same_as :: [Ethics.secret](/_secret/bio/People/Philosopher/Ethics.secret.md)
+### #is_/same_as :: [Ethics.secret](/_secret/Philosophy/Ethics.secret.md)
 

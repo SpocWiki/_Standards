@@ -140,17 +140,17 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Locke%20Si
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Locke,John](Locke,John.md) 
+### #is_/same_as :: [Locke,John](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.md) 
 
-### #is_/same_as :: [Locke,John.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.public.md) 
+### #is_/same_as :: [Locke,John.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.public.md) 
 
-### #is_/same_as :: [Locke,John.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.internal.md) 
+### #is_/same_as :: [Locke,John.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.internal.md) 
 
-### #is_/same_as :: [Locke,John.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.protect.md) 
+### #is_/same_as :: [Locke,John.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.protect.md) 
 
-### #is_/same_as :: [Locke,John.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.private.md) 
+### #is_/same_as :: [Locke,John.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.private.md) 
 
-### #is_/same_as :: [Locke,John.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.personal.md) 
+### #is_/same_as :: [Locke,John.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.personal.md) 
 
-### #is_/same_as :: [Locke,John.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.secret.md)
+### #is_/same_as :: [Locke,John.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.secret.md)
 

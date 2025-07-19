@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Voltaire](Voltaire.md) 
+### #is_/same_as :: [Voltaire](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.md) 
 
-### #is_/same_as :: [Voltaire.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.public.md) 
+### #is_/same_as :: [Voltaire.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.public.md) 
 
-### #is_/same_as :: [Voltaire.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.internal.md) 
+### #is_/same_as :: [Voltaire.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.internal.md) 
 
-### #is_/same_as :: [Voltaire.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.protect.md) 
+### #is_/same_as :: [Voltaire.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.protect.md) 
 
-### #is_/same_as :: [Voltaire.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.private.md) 
+### #is_/same_as :: [Voltaire.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.private.md) 
 
-### #is_/same_as :: [Voltaire.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.personal.md) 
+### #is_/same_as :: [Voltaire.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.personal.md) 
 
-### #is_/same_as :: [Voltaire.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.secret.md)
+### #is_/same_as :: [Voltaire.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.secret.md)
 

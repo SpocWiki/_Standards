@@ -31,11 +31,6 @@ has_id_wikidata: Q43637
 > [Wikipedia](https://en.wikipedia.org/wiki/Monopoly) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Monopoly](/_Standards/Economics/Currency/Monopoly.md) 

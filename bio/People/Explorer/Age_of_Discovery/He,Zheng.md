@@ -156,17 +156,17 @@ Libris_URI: 42gkqrcn3bmhgn6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [He,Zheng](He,Zheng.md) 
+### #is_/same_as :: [He,Zheng](/_Standards/bio/People/Explorer/Age_of_Discovery/He,Zheng.md) 
 
-### #is_/same_as :: [He,Zheng.public](/_public/bio/People/Explorers/Age_of_Discovery/He,Zheng.public.md) 
+### #is_/same_as :: [He,Zheng.public](/_public/bio/People/Explorer/Age_of_Discovery/He,Zheng.public.md) 
 
-### #is_/same_as :: [He,Zheng.internal](/_internal/bio/People/Explorers/Age_of_Discovery/He,Zheng.internal.md) 
+### #is_/same_as :: [He,Zheng.internal](/_internal/bio/People/Explorer/Age_of_Discovery/He,Zheng.internal.md) 
 
-### #is_/same_as :: [He,Zheng.protect](/_protect/bio/People/Explorers/Age_of_Discovery/He,Zheng.protect.md) 
+### #is_/same_as :: [He,Zheng.protect](/_protect/bio/People/Explorer/Age_of_Discovery/He,Zheng.protect.md) 
 
-### #is_/same_as :: [He,Zheng.private](/_private/bio/People/Explorers/Age_of_Discovery/He,Zheng.private.md) 
+### #is_/same_as :: [He,Zheng.private](/_private/bio/People/Explorer/Age_of_Discovery/He,Zheng.private.md) 
 
-### #is_/same_as :: [He,Zheng.personal](/_personal/bio/People/Explorers/Age_of_Discovery/He,Zheng.personal.md) 
+### #is_/same_as :: [He,Zheng.personal](/_personal/bio/People/Explorer/Age_of_Discovery/He,Zheng.personal.md) 
 
-### #is_/same_as :: [He,Zheng.secret](/_secret/bio/People/Explorers/Age_of_Discovery/He,Zheng.secret.md)
+### #is_/same_as :: [He,Zheng.secret](/_secret/bio/People/Explorer/Age_of_Discovery/He,Zheng.secret.md)
 

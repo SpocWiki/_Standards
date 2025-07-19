@@ -188,17 +188,17 @@ name_in_native_language: "Immanuel Kant"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kant,Immanuel](Kant,Immanuel.md) 
+### #is_/same_as :: [Kant,Immanuel](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.md) 
 
-### #is_/same_as :: [Kant,Immanuel.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.public.md) 
+### #is_/same_as :: [Kant,Immanuel.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.public.md) 
 
-### #is_/same_as :: [Kant,Immanuel.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.internal.md) 
+### #is_/same_as :: [Kant,Immanuel.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.internal.md) 
 
-### #is_/same_as :: [Kant,Immanuel.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.protect.md) 
+### #is_/same_as :: [Kant,Immanuel.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.protect.md) 
 
-### #is_/same_as :: [Kant,Immanuel.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.private.md) 
+### #is_/same_as :: [Kant,Immanuel.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.private.md) 
 
-### #is_/same_as :: [Kant,Immanuel.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.personal.md) 
+### #is_/same_as :: [Kant,Immanuel.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.personal.md) 
 
-### #is_/same_as :: [Kant,Immanuel.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.secret.md)
+### #is_/same_as :: [Kant,Immanuel.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Kant,Immanuel.secret.md)
 

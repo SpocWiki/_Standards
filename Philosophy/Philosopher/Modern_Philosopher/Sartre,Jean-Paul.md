@@ -156,17 +156,17 @@ date_of_birth: "1905-06-21"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sartre,Jean-Paul](Sartre,Jean-Paul.md) 
+### #is_/same_as :: [Sartre,Jean-Paul](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.md) 
 
-### #is_/same_as :: [Sartre,Jean-Paul.public](/_public/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.public.md) 
+### #is_/same_as :: [Sartre,Jean-Paul.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.public.md) 
 
-### #is_/same_as :: [Sartre,Jean-Paul.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.internal.md) 
+### #is_/same_as :: [Sartre,Jean-Paul.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.internal.md) 
 
-### #is_/same_as :: [Sartre,Jean-Paul.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.protect.md) 
+### #is_/same_as :: [Sartre,Jean-Paul.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.protect.md) 
 
-### #is_/same_as :: [Sartre,Jean-Paul.private](/_private/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.private.md) 
+### #is_/same_as :: [Sartre,Jean-Paul.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.private.md) 
 
-### #is_/same_as :: [Sartre,Jean-Paul.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.personal.md) 
+### #is_/same_as :: [Sartre,Jean-Paul.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.personal.md) 
 
-### #is_/same_as :: [Sartre,Jean-Paul.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.secret.md)
+### #is_/same_as :: [Sartre,Jean-Paul.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Sartre,Jean-Paul.secret.md)
 

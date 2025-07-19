@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophical_Logic](Philosophical_Logic.md) 
+### #is_/same_as :: [Philosophical_Logic](/_Standards/Philosophy/Logic/Philosophical_Logic.md) 
 
-### #is_/same_as :: [Philosophical_Logic.public](/_public/bio/People/Philosopher/Logic/Philosophical_Logic.public.md) 
+### #is_/same_as :: [Philosophical_Logic.public](/_public/Philosophy/Logic/Philosophical_Logic.public.md) 
 
-### #is_/same_as :: [Philosophical_Logic.internal](/_internal/bio/People/Philosopher/Logic/Philosophical_Logic.internal.md) 
+### #is_/same_as :: [Philosophical_Logic.internal](/_internal/Philosophy/Logic/Philosophical_Logic.internal.md) 
 
-### #is_/same_as :: [Philosophical_Logic.protect](/_protect/bio/People/Philosopher/Logic/Philosophical_Logic.protect.md) 
+### #is_/same_as :: [Philosophical_Logic.protect](/_protect/Philosophy/Logic/Philosophical_Logic.protect.md) 
 
-### #is_/same_as :: [Philosophical_Logic.private](/_private/bio/People/Philosopher/Logic/Philosophical_Logic.private.md) 
+### #is_/same_as :: [Philosophical_Logic.private](/_private/Philosophy/Logic/Philosophical_Logic.private.md) 
 
-### #is_/same_as :: [Philosophical_Logic.personal](/_personal/bio/People/Philosopher/Logic/Philosophical_Logic.personal.md) 
+### #is_/same_as :: [Philosophical_Logic.personal](/_personal/Philosophy/Logic/Philosophical_Logic.personal.md) 
 
-### #is_/same_as :: [Philosophical_Logic.secret](/_secret/bio/People/Philosopher/Logic/Philosophical_Logic.secret.md)
+### #is_/same_as :: [Philosophical_Logic.secret](/_secret/Philosophy/Logic/Philosophical_Logic.secret.md)
 

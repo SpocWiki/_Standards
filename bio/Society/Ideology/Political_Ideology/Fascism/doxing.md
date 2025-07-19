@@ -22,5 +22,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Doxing)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [doxing](/_Standards/bio/Society/Ideology/Political_Ideology/Fascism/doxing.md) 
+
+### #is_/same_as :: [doxing.public](/_public/bio/Society/Ideology/Political_Ideology/Fascism/doxing.public.md) 
+
+### #is_/same_as :: [doxing.internal](/_internal/bio/Society/Ideology/Political_Ideology/Fascism/doxing.internal.md) 
+
+### #is_/same_as :: [doxing.protect](/_protect/bio/Society/Ideology/Political_Ideology/Fascism/doxing.protect.md) 
+
+### #is_/same_as :: [doxing.private](/_private/bio/Society/Ideology/Political_Ideology/Fascism/doxing.private.md) 
+
+### #is_/same_as :: [doxing.personal](/_personal/bio/Society/Ideology/Political_Ideology/Fascism/doxing.personal.md) 
+
+### #is_/same_as :: [doxing.secret](/_secret/bio/Society/Ideology/Political_Ideology/Fascism/doxing.secret.md)
 

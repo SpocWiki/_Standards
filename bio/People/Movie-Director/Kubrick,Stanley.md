@@ -180,17 +180,17 @@ date_of_birth: "1928-07-26"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kubrick,Stanley](Kubrick,Stanley.md) 
+### #is_/same_as :: [Kubrick,Stanley](/_Standards/bio/People/Movie-Director/Kubrick,Stanley.md) 
 
-### #is_/same_as :: [Kubrick,Stanley.public](/_public/bio/People/Movie-Directors/Kubrick,Stanley.public.md) 
+### #is_/same_as :: [Kubrick,Stanley.public](/_public/bio/People/Movie-Director/Kubrick,Stanley.public.md) 
 
-### #is_/same_as :: [Kubrick,Stanley.internal](/_internal/bio/People/Movie-Directors/Kubrick,Stanley.internal.md) 
+### #is_/same_as :: [Kubrick,Stanley.internal](/_internal/bio/People/Movie-Director/Kubrick,Stanley.internal.md) 
 
-### #is_/same_as :: [Kubrick,Stanley.protect](/_protect/bio/People/Movie-Directors/Kubrick,Stanley.protect.md) 
+### #is_/same_as :: [Kubrick,Stanley.protect](/_protect/bio/People/Movie-Director/Kubrick,Stanley.protect.md) 
 
-### #is_/same_as :: [Kubrick,Stanley.private](/_private/bio/People/Movie-Directors/Kubrick,Stanley.private.md) 
+### #is_/same_as :: [Kubrick,Stanley.private](/_private/bio/People/Movie-Director/Kubrick,Stanley.private.md) 
 
-### #is_/same_as :: [Kubrick,Stanley.personal](/_personal/bio/People/Movie-Directors/Kubrick,Stanley.personal.md) 
+### #is_/same_as :: [Kubrick,Stanley.personal](/_personal/bio/People/Movie-Director/Kubrick,Stanley.personal.md) 
 
-### #is_/same_as :: [Kubrick,Stanley.secret](/_secret/bio/People/Movie-Directors/Kubrick,Stanley.secret.md)
+### #is_/same_as :: [Kubrick,Stanley.secret](/_secret/bio/People/Movie-Director/Kubrick,Stanley.secret.md)
 

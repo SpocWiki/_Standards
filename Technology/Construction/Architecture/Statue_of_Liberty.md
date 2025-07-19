@@ -167,22 +167,3 @@ excalidraw-autoexport: svg
 
 ### #is_/same_as :: [Statue_of_Liberty.secret](/_secret/Technology/Construction/Architecture/Statue_of_Liberty.secret.md)
 
-
-# [[Statue_of_Liberty]] 
-
-#is_/part_of :: [[Statue of Liberty]] 
-
-![[Statue_of_Liberty.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

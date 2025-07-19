@@ -51,17 +51,17 @@ The corresponding Experiment was a traffic-light simulation that allowed partici
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Free_Will](Free_Will.md) 
+### #is_/same_as :: [Free_Will](/_Standards/bio/Psychology/Psychologist/Free_Will.md) 
 
-### #is_/same_as :: [Free_Will.public](/_public/bio/People/Psychologist/Free_Will.public.md) 
+### #is_/same_as :: [Free_Will.public](/_public/bio/Psychology/Psychologist/Free_Will.public.md) 
 
-### #is_/same_as :: [Free_Will.internal](/_internal/bio/People/Psychologist/Free_Will.internal.md) 
+### #is_/same_as :: [Free_Will.internal](/_internal/bio/Psychology/Psychologist/Free_Will.internal.md) 
 
-### #is_/same_as :: [Free_Will.protect](/_protect/bio/People/Psychologist/Free_Will.protect.md) 
+### #is_/same_as :: [Free_Will.protect](/_protect/bio/Psychology/Psychologist/Free_Will.protect.md) 
 
-### #is_/same_as :: [Free_Will.private](/_private/bio/People/Psychologist/Free_Will.private.md) 
+### #is_/same_as :: [Free_Will.private](/_private/bio/Psychology/Psychologist/Free_Will.private.md) 
 
-### #is_/same_as :: [Free_Will.personal](/_personal/bio/People/Psychologist/Free_Will.personal.md) 
+### #is_/same_as :: [Free_Will.personal](/_personal/bio/Psychology/Psychologist/Free_Will.personal.md) 
 
-### #is_/same_as :: [Free_Will.secret](/_secret/bio/People/Psychologist/Free_Will.secret.md)
+### #is_/same_as :: [Free_Will.secret](/_secret/bio/Psychology/Psychologist/Free_Will.secret.md)
 

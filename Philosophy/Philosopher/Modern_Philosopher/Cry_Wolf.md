@@ -17,3 +17,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Boy%20Who%20Cried%20Wolf) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cry_Wolf](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.md) 
+
+### #is_/same_as :: [Cry_Wolf.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.public.md) 
+
+### #is_/same_as :: [Cry_Wolf.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.internal.md) 
+
+### #is_/same_as :: [Cry_Wolf.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.protect.md) 
+
+### #is_/same_as :: [Cry_Wolf.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.private.md) 
+
+### #is_/same_as :: [Cry_Wolf.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.personal.md) 
+
+### #is_/same_as :: [Cry_Wolf.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.secret.md)
+

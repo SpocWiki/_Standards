@@ -67,17 +67,17 @@ PhilPapers_topic:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Epistemology](Epistemology.md) 
+### #is_/same_as :: [Epistemology](/_Standards/Philosophy/Epistemology.md) 
 
-### #is_/same_as :: [Epistemology.public](/_public/bio/People/Philosopher/Epistemology.public.md) 
+### #is_/same_as :: [Epistemology.public](/_public/Philosophy/Epistemology.public.md) 
 
-### #is_/same_as :: [Epistemology.internal](/_internal/bio/People/Philosopher/Epistemology.internal.md) 
+### #is_/same_as :: [Epistemology.internal](/_internal/Philosophy/Epistemology.internal.md) 
 
-### #is_/same_as :: [Epistemology.protect](/_protect/bio/People/Philosopher/Epistemology.protect.md) 
+### #is_/same_as :: [Epistemology.protect](/_protect/Philosophy/Epistemology.protect.md) 
 
-### #is_/same_as :: [Epistemology.private](/_private/bio/People/Philosopher/Epistemology.private.md) 
+### #is_/same_as :: [Epistemology.private](/_private/Philosophy/Epistemology.private.md) 
 
-### #is_/same_as :: [Epistemology.personal](/_personal/bio/People/Philosopher/Epistemology.personal.md) 
+### #is_/same_as :: [Epistemology.personal](/_personal/Philosophy/Epistemology.personal.md) 
 
-### #is_/same_as :: [Epistemology.secret](/_secret/bio/People/Philosopher/Epistemology.secret.md)
+### #is_/same_as :: [Epistemology.secret](/_secret/Philosophy/Epistemology.secret.md)
 

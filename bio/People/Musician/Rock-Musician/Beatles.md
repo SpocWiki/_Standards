@@ -178,36 +178,17 @@ excalidraw-autoexport: svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beatles](Beatles.md) 
+### #is_/same_as :: [Beatles](/_Standards/bio/People/Musician/Rock-Musician/Beatles.md) 
 
-### #is_/same_as :: [Beatles.public](/_public/bio/People/Musician/Rock-Musicians/Beatles.public.md) 
+### #is_/same_as :: [Beatles.public](/_public/bio/People/Musician/Rock-Musician/Beatles.public.md) 
 
-### #is_/same_as :: [Beatles.internal](/_internal/bio/People/Musician/Rock-Musicians/Beatles.internal.md) 
+### #is_/same_as :: [Beatles.internal](/_internal/bio/People/Musician/Rock-Musician/Beatles.internal.md) 
 
-### #is_/same_as :: [Beatles.protect](/_protect/bio/People/Musician/Rock-Musicians/Beatles.protect.md) 
+### #is_/same_as :: [Beatles.protect](/_protect/bio/People/Musician/Rock-Musician/Beatles.protect.md) 
 
-### #is_/same_as :: [Beatles.private](/_private/bio/People/Musician/Rock-Musicians/Beatles.private.md) 
+### #is_/same_as :: [Beatles.private](/_private/bio/People/Musician/Rock-Musician/Beatles.private.md) 
 
-### #is_/same_as :: [Beatles.personal](/_personal/bio/People/Musician/Rock-Musicians/Beatles.personal.md) 
+### #is_/same_as :: [Beatles.personal](/_personal/bio/People/Musician/Rock-Musician/Beatles.personal.md) 
 
-### #is_/same_as :: [Beatles.secret](/_secret/bio/People/Musician/Rock-Musicians/Beatles.secret.md)
+### #is_/same_as :: [Beatles.secret](/_secret/bio/People/Musician/Rock-Musician/Beatles.secret.md)
 
-
-# [[Beatles]] 
-
-#is_/part_of :: [[Beatles 1]] 
-
-![[Beatles.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

@@ -83,17 +83,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/VINO.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wine](Wine.md) 
+### #is_/same_as :: [Wine](/_Standards/Economics/Home_Economics/Cooking/Food/Drink/Wine.md) 
 
-### #is_/same_as :: [Wine.public](/_public/Home_Economics/Cooking/Food/Drink/Wine.public.md) 
+### #is_/same_as :: [Wine.public](/_public/Economics/Home_Economics/Cooking/Food/Drink/Wine.public.md) 
 
-### #is_/same_as :: [Wine.internal](/_internal/Home_Economics/Cooking/Food/Drink/Wine.internal.md) 
+### #is_/same_as :: [Wine.internal](/_internal/Economics/Home_Economics/Cooking/Food/Drink/Wine.internal.md) 
 
-### #is_/same_as :: [Wine.protect](/_protect/Home_Economics/Cooking/Food/Drink/Wine.protect.md) 
+### #is_/same_as :: [Wine.protect](/_protect/Economics/Home_Economics/Cooking/Food/Drink/Wine.protect.md) 
 
-### #is_/same_as :: [Wine.private](/_private/Home_Economics/Cooking/Food/Drink/Wine.private.md) 
+### #is_/same_as :: [Wine.private](/_private/Economics/Home_Economics/Cooking/Food/Drink/Wine.private.md) 
 
-### #is_/same_as :: [Wine.personal](/_personal/Home_Economics/Cooking/Food/Drink/Wine.personal.md) 
+### #is_/same_as :: [Wine.personal](/_personal/Economics/Home_Economics/Cooking/Food/Drink/Wine.personal.md) 
 
-### #is_/same_as :: [Wine.secret](/_secret/Home_Economics/Cooking/Food/Drink/Wine.secret.md)
+### #is_/same_as :: [Wine.secret](/_secret/Economics/Home_Economics/Cooking/Food/Drink/Wine.secret.md)
 
