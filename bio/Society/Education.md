@@ -1,94 +1,3 @@
-<<<<<<< HEAD
-=======
----
-has_id_wikidata: Q8434
-GitHub_topic: education
-subreddit: education
-PhilPapers_topic: education
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/1887%20Bettannier%20Der%20Schwarze%20Fleck%20anagoria.jpg"
-label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20education.ogv"
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Q8434%20noun%20225573%20ccRflor%20education.svg"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/education"
-U_S_National_Archives_Identifier: 10640533
-Classification_of_Instructional_Programs_code:
-- 13.01
-- 13.0101
-- 13
-MeSH_tree_code: I02
-IPTC_NewsCode: mediatopic/05000000
-Gujarati_Vishwakosh_entry: શિક્ષણ
-has_part_s_:
-- '[[_Standards/WikiData/WD~learning,133500]]'
-- '[[_Standards/WikiData/WD~teaching,352842]]'
-- '[[_Standards/WikiData/WD~self-education,11613008]]'
-- "[[_Standards/WikiData/WD~educational_activity,61788126]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-partially_coincident_with:
-- '[[_Standards/WikiData/WD~teaching,352842]]'
-- '[[_Standards/WikiData/WD~education,11499482]]'
-studied_in:
-- "[[_Standards/WikiData/WD~sociology_of_education,829367]]"
-- "[[_Standards/WikiData/WD~educational_sciences,861641]]"
-- '[[_Standards/WikiData/WD~educommunication,8772471]]'
-- '[[_Standards/WikiData/WD~pedagogy,7922]]'
-practiced_by:
-- '[[_Standards/WikiData/WD~educator,974144]]'
-- '[[_Standards/WikiData/WD~lecturer,1569495]]'
-- "[[_Standards/WikiData/WD~social_educator,5819949]]"
-- "[[_Standards/WikiData/WD~educational_personnel,93918935]]"
-- "[[_Standards/WikiData/WD~assistant_(teacher),106542609]]"
-- '[[_Standards/WikiData/WD~teacher,37226]]'
-facet_of: '[[_Standards/WikiData/WD~paedology,2120372]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~social_process,2305441]]"
-- "[[_Standards/WikiData/WD~knowledge_sharing,6423395]]"
-- '[[_Standards/WikiData/WD~service,7406919]]'
-has_effect:
-- '[[_Standards/WikiData/WD~upbringing,2353731]]'
-- '[[_Standards/WikiData/WD~education,11499482]]'
-instance_of:
-- "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-- '[[_Standards/WikiData/WD~topic,26256810]]'
-- "[[_Standards/WikiData/WD~service_type,130303173]]"
-different_from: '[[_Standards/WikiData/WD~Education,5340858]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~human_resource_development,5366892]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_education,7112612]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Education,8486648]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_education_in_country,11838819]]"
-- '[[_Standards/WikiData/WD~Template_Education,14400727]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Education,13359951]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828648,22828648]]'
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata__WikiProject_Systemic_Racism_Knowledge_Graph,120754096]]"
-Provenio_UUID: dfeed428-0c3a-4831-b8df-22ff6aef549f
-Mastodon_instance_URL: "https://mastodon.education"
-has_characteristic: "[[_Standards/WikiData/WD~educational_stage,18189]]"
-social_media_followers: 21700
-Universal_Decimal_Classification: 37
-IAB_code:
-- 92
-- 132
-- 1013
-Colon_Classification: T
-Dewey_Decimal_Classification: 370
-OmegaWiki_Defined_Meaning: 1087
-All_Science_Journal_Classification_Codes: 3304
-Chinese_Library_Classification: G4
-Commons_category: Education
-Iconclass_notation: 49A
->>>>>>> 826a6bf0e9323e712c2fe68aa17344c8d7744cf5
 ---
 has_id_wikidata: Q8434
 GitHub_topic: education
@@ -232,7 +141,6 @@ Iconclass_notation: 49A
 > In prehistory, education primarily occurred informally through oral communication and imitation. 
 > With the emergence of ancient civilizations, the invention of writing led to an expansion of knowledge, prompting a transition from informal to formal education. Initially, formal education was largely accessible to elites and religious groups. The advent of the printing press in the 15th century facilitated widespread access to books, thus increasing general literacy. In the 18th and 19th centuries, public education gained significance, paving the way for the global movement to provide primary education to all, free of charge, and compulsory up to a certain age. Presently, over 90% of primary-school-age children worldwide attend primary school.
 >
-<<<<<<< HEAD
 > [Wikipedia](https://en.wikipedia.org/wiki/Education)
 
 
@@ -243,8 +151,6 @@ Iconclass_notation: 49A
 - Schools need to be subsidized, because the Payoff comes only 20 years later, 
   a horizon that few people care about. 
 - 
-=======
-> [Wikipedia](https://en.wikipedia.org/wiki/Education)
 
 
 ## Confidential Links & Embeds: 
@@ -263,4 +169,3 @@ Iconclass_notation: 49A
 
 ### #is_/same_as :: [Education.secret](/_secret/bio/Society/Education.secret.md)
 
->>>>>>> 826a6bf0e9323e712c2fe68aa17344c8d7744cf5

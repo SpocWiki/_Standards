@@ -69,7 +69,6 @@ Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 > central banks that control monetary policy, normally through the setting of interest rates 
 > and by carrying out open market operations.
 >
-<<<<<<< HEAD
 > [Wikipedia](https://en.wikipedia.org/wiki/Inflation) 
 
 ## #has_/examples 
@@ -79,8 +78,6 @@ Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 18?? 
 
 
-=======
-> [Wikipedia](https://en.wikipedia.org/wiki/Inflation) 
 
 
 ## Confidential Links & Embeds: 
@@ -99,4 +96,3 @@ Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 
 ### #is_/same_as :: [Inflation.secret](/_secret/Economics/Currency/Inflation.secret.md)
 
->>>>>>> 826a6bf0e9323e712c2fe68aa17344c8d7744cf5

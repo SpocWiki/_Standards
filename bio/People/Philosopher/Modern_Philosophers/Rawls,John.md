@@ -29,3 +29,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Rawls) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rawls,John](/_Standards/bio/People/Philosopher/Modern_Philosophers/Rawls,John.md) 
+
+### #is_/same_as :: [Rawls,John.public](/_public/bio/People/Philosopher/Modern_Philosophers/Rawls,John.public.md) 
+
+### #is_/same_as :: [Rawls,John.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Rawls,John.internal.md) 
+
+### #is_/same_as :: [Rawls,John.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Rawls,John.protect.md) 
+
+### #is_/same_as :: [Rawls,John.private](/_private/bio/People/Philosopher/Modern_Philosophers/Rawls,John.private.md) 
+
+### #is_/same_as :: [Rawls,John.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Rawls,John.personal.md) 
+
+### #is_/same_as :: [Rawls,John.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Rawls,John.secret.md)
+

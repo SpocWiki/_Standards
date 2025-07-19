@@ -111,27 +111,6 @@ The Folder Names are kept brief, to allow for deep Directory Structures.
 >
 > Life on Earth, which emerged over 3.7 billion years ago, is immensely diverse. Biologists have sought to study and classify the various life form, from prokaryotic organisms such as archaea and bacteria to eukaryotic organisms such as protists, fungi, plants, and animals. These organisms contribute to the biodiversity of an ecosystem, where they play specialized roles in the cycling of nutrients and energy through their biophysical environment.
 >
-<<<<<<< HEAD
-> [Wikipedia](https://en.wikipedia.org/wiki/Biology)
-
-
-## Confidential Links & Embeds: 
-
-### [bio](../_public/bio.md) 
-
-### [bio.internal](../_internal/bio.internal.md) 
-
-### [bio.protect](../_protect/bio.protect.md) 
-
-### [bio.private](../_private/bio.private.md) 
-
-### [bio.personal](../_personal/bio.personal.md) 
-
-### [bio.secret](../_secret/bio.secret.md) 
-
-
-
-=======
 > [Wikipedia](https://en.wikipedia.org/wiki/Biology)
 
 
@@ -151,4 +130,3 @@ The Folder Names are kept brief, to allow for deep Directory Structures.
 
 ### #is_/same_as :: [bio.secret](/_secret/bio.secret.md)
 
->>>>>>> 826a6bf0e9323e712c2fe68aa17344c8d7744cf5
