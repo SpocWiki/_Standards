@@ -459,7 +459,7 @@ Capital :: [[Accra]]
 
 ![[Coat_of_arms_of_Ghana.svg|350]]
 
-![[Anthem-Ghana.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ghana.mp3]]
 
 ![[Flag_of_Ghana.svg|350]]
 
@@ -485,7 +485,7 @@ Capital :: [[Accra]]
 > The capital and largest city is Accra; 
 > other significant cities include Tema, Kumasi, Tamale, and Sekondi-Takoradi. 
 > In 1957 Ghana became the first colony in Sub-Saharan Africa to achieve sovereignty, 
-> under the leadership of [[../../../../bio/People/Leader/Modern_Leaders/Nkrumah,Kwame|Kwame Nkrumah]]. 
+> under the leadership of [[../../../../Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame|Kwame Nkrumah]]. 
 >
 > The earliest kingdoms to emerge in Ghana were Bonoman in the south 
 > and the Kingdom of Dagbon in the north, with Bonoman existing in the area during the 11th century. 

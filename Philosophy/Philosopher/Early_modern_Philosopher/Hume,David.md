@@ -24,7 +24,7 @@ in opposition to [[../Ancient_Philosopher/Plato]]ns Model
 > 
 > Hume followed [[Locke,John]] in rejecting the existence of innate ideas, 
 > concluding that all human knowledge derives solely from experience. 
-> This places him with [[Bacon,Francis|Francis Bacon]], [[../../../../_protect/bio/Society/Sociology/Politics/UK_Politics/Hobbes,Thomas|Thomas Hobbes]], [[Locke,John|John Locke]], and George Berkeley as an empiricist.
+> This places him with [[Bacon,Francis|Francis Bacon]], [[../../../../_protect/Society/Sociology/Politics/UK_Politics/Hobbes,Thomas|Thomas Hobbes]], [[Locke,John|John Locke]], and George Berkeley as an empiricist.
 >
 > Hume argued that [[inductive reasoning]] and belief in causality cannot be justified rationally; 
 > instead, they result from custom and mental habit. 

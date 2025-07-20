@@ -528,7 +528,7 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 
 ![[Coat_of_arms_of_Morocco.svg|550]]
 
-![[Anthem-Morocco.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Morocco.mp3]]
 
 ![[Flag_of_Morocco.svg|350]]
 [Alcohol-l::1.5]

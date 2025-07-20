@@ -634,7 +634,7 @@ Major Cities with Population in 1000s as of @2024
 
 ![[Coat_of_arms_of_Norway.svg|350]]
 
-![[Anthem-Norway.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Norway.mp3]]
 
 [Alcohol-l::7.8]
 [Language-Id::]

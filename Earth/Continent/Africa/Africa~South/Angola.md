@@ -463,7 +463,7 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 
 ![[../Africa~South/Angola/Emblem_of_Angola.svg|350]] 
 
-![[Anthem-Angola.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Angola.mp3]]
 
 ![[../Africa~South/Angola/Flag_of_Angola.svg|350]] 
 

@@ -373,7 +373,7 @@ markerFolder: ./Monaco//
 [name-en::Monaco]
 [name-de::Monaco]
 ![[Coat_of_arms_of_Monaco.svg|650]]
-![[Anthem-Montenegro.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
 ![[Flag_of_Monaco.svg|350]]
 
 [Area-Total::2]

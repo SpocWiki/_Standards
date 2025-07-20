@@ -390,7 +390,7 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 
 ![[Guyana/Coat_of_arms_of_Guyana.svg|450]]
 
-![[Anthem-Guyana.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Guyana.mp3]]
 
 ![[Guyana/Flag_of_Guyana.svg|350]]
 [Alcohol-l::9.5]

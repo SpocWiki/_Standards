@@ -1,4 +1,7 @@
 
+# [[Painting]] 
+
+
 ## #has_/text_of_/abstract 
 
 > **Painting** is a visual art, which is characterized by the practice of 

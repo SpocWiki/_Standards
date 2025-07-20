@@ -470,7 +470,7 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 
 ![[Kazakhstan/Emblem_of_Kazakhstan.svg|350]]
 
-![[Anthem-Kazakhstan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kazakhstan.mp3]]
 
 ![[Kazakhstan/Flag_of_Kazakhstan.svg|350]]
 

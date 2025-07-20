@@ -506,7 +506,7 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 ![[Kenya/Coat_of_arms_of_Kenya.svg|550]]
 
-![[Anthem-Kenya.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kenya.mp3]]
 
 ![[Kenya/Flag_of_Kenya.svg|350]]
 [Alcohol-l::4.1]

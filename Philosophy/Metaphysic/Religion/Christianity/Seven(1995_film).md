@@ -7,7 +7,7 @@ launched: 1995-09-22
 
 > Seven (often stylized as Se7en) is a 1995 American crime thriller film directed by David Fincher 
 > and written by Andrew Kevin Walker. 
-> It stars [[../../../../../media/movie/Actors/US_Actors/Pitt,Brad]] and [[Morgan Freeman]], with [[Gwyneth Paltrow]], [[[Kevin Spacey]]] as John Doe 
+> It stars [[../../../../../_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad]] and [[Morgan Freeman]], with [[Gwyneth Paltrow]], [[[Kevin Spacey]]] as John Doe 
 > and John C. McGinley in supporting roles. 
 > 
 > Set in an unnamed, crime-ridden city, 

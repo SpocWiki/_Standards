@@ -478,7 +478,7 @@ Capital :: [[Guatemala_City]]
 
 ![[Guatemala/Coat_of_arms_of_Guatemala.svg|350]]
 
-![[Anthem-Guatemala.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Guatemala.mp3]]
 
 ![[Guatemala/Flag_of_Guatemala.svg|350]]
 

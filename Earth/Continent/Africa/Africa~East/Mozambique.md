@@ -456,7 +456,7 @@ Capital :: [[Maputo]]
 
 ![[Emblem_of_Mozambique.svg|350]]
 
-![[Anthem-Mozambique.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Mozambique.mp3]]
 
 ![[Flag_of_Mozambique.svg|350]]
 [Alcohol-l::2.4]

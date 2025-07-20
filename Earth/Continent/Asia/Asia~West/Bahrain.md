@@ -407,7 +407,7 @@ has_place_continent:: [[Asia]]
 Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]  
 ![[Bahrain/Emblem_of_Bahrain.svg|350]]  
 
-![[Anthem-Bahrain.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3]]
 ![[Bahrain/Flag_of_Bahrain.svg|350]]  
 
 [Alcohol-l::3.7]

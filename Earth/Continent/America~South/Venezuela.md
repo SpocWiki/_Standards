@@ -532,7 +532,7 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 ![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]]
 
-![[Anthem-Venezuela.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Venezuela.mp3]]
 
 ![[Venezuela/Flag_of_Venezuela.svg|350]]
 

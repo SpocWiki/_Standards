@@ -100,6 +100,10 @@ arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Do
 
 The Folder Names are kept brief, to allow for the necessary deep Directory Structures. 
 
+Although Biology is primarily realized as [[chemic/organic]] Chemistry, 
+it is placed at top level due to its depth and importance. 
+
+
 ## #has_/text_of_/abstract 
 
 > **Biology** is the scientific study of life. It is a natural science with a broad scope 

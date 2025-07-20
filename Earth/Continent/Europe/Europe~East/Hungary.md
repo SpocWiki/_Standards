@@ -619,7 +619,7 @@ has_place_continent:: [[Europe]]
 Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]  
 ![[Coat_of_arms_of_Hungary.svg|359]]
 
-![[Anthem-Hungary.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Hungary.mp3]]
 
 ![[Flag_of_Hungary.svg|299]]
 [Alcohol-l::16.3]

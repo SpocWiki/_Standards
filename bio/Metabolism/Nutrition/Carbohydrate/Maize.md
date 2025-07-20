@@ -17,7 +17,7 @@ aliases:
 > In modern commercial varieties, these are usually yellow or white; other varieties can be of many colors. 
 >
 > Maize relies on humans for its propagation. 
-> Since the [[Columbian_Exchange]], it has become a staple food in many parts of the world, 
+> Since the [[../../../../../_private/bio/Medicine/Health/Ernährung/Columbian_Exchange]], it has become a staple food in many parts of the world, 
 > with the total production of maize surpassing that of wheat and rice. 
 > 
 > Much maize is used for animal feed, whether as grain or as the whole plant, 

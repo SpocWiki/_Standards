@@ -769,7 +769,7 @@ Population in 1000s as of @2019
 #has_/image_for_/coat_of_arms :: ![[./France/Arms_of_the_French_Republic.svg|150]] <img src="./France/Arms_of_the_French_Republic.svg" width="150"/> 
 
 
-#has_/sound_of_/anthem :: ![[Anthem-France.mp3]]
+#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3]]
 
 ### #has_/map  
 

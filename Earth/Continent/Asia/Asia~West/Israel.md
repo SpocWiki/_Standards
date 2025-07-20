@@ -614,7 +614,7 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 ![[Israel/Emblem_of_Israel.svg|350]]
 
-![[Anthem-Israel.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Israel.mp3]]
 
 ![[Israel/Flag_of_Israel.svg|350]]
 

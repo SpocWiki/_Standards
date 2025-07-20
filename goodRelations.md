@@ -55,7 +55,7 @@ Consequently it uses the `schema` Prefix for its Definitions.
 
 #has_/url :: http://www.heppnetz.de/projects/goodrelations/ 
 
-#has_/creator :[[bio/People/Mathematician/Hepp,Martin]]]] 
+#has_/creator :[[Mathematics/Mathematician/Hepp,Martin]]]] 
 
 ## Edit
 

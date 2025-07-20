@@ -462,7 +462,7 @@ Capital :: [[Porto-Novo1]]
 
 ![[Coat_of_arms_of_Benin.svg|350]]
 
-![[Anthem-Benin.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Benin.mp3]]
 
 ![[Flag_of_Benin.svg|350]]
 [Alcohol-l::2.2]

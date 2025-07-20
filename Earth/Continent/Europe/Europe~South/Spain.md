@@ -721,7 +721,7 @@ Population @2024 in 1000s.
 
 #has_/image_for_/coat_of_arms :: ![[./Spain/Escudo_de_España~mazonado.svg|150]] <img src="./Spain/Escudo_de_España~mazonado.svg" width="150"/> 
 
-#has_/sound_of_/anthem :: ![[Anthem-Spain-complete.mp3]]
+#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3]]
 
 ### #has_/map  
 

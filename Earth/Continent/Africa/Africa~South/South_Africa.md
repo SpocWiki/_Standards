@@ -546,7 +546,7 @@ Capital :: [[Pretoria]]
 
 ![[Coat_of_arms_of_South_Africa.svg|350]]
 
-![[Anthem-South-africa.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-South-africa.mp3]]
 
 ![[Flag_of_South_Africa.svg|350]]
 

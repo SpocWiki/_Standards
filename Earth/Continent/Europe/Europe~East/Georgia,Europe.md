@@ -449,7 +449,7 @@ has_place_continent:: [[Europe]]
 [VehicleCode::GEO]
 Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]  
 ![[Coat_of_arms_of_Georgia.svg|350]]
-![[Anthem-Georgia.mp3]]![[Georgia,Europe/Flag_of_Georgia.svg|350]]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Georgia.mp3]]![[Georgia,Europe/Flag_of_Georgia.svg|350]]]
 [Alcohol-l::6.4]
 [Language-Id::]
 #is_a_/Place  

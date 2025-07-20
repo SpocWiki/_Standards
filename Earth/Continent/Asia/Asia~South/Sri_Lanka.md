@@ -436,7 +436,7 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 
 ![[Sri_Lanka/Emblem_of_Sri_Lanka.svg|350]]
 
-![[Anthem-Sri-lanka.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sri-lanka.mp3]]
 
 ![[Sri_Lanka/Flag_of_Sri_Lanka.svg|350]]
 

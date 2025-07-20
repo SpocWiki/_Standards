@@ -25,11 +25,11 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 > (On the Revolutions of the Heavenly Spheres) often cited as its beginning. 
 > 
 > The Scientific Revolution has been called "the most important transformation in human history" 
-> since the [[../../../../../../../../Economics/First_Agricultural_Revolution|Neolithic Revolution]].
+> since the [[../../../../../../../../Society/Economics/First_Agricultural_Revolution|Neolithic Revolution]].
 >
 > The era of the Scientific Renaissance focused to some degree 
 > on recovering the knowledge of the ancients 
-> and is considered to have culminated in [[../../../../../../../../bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac|Isaac Newton]]'s 1687 publication Principia 
+> and is considered to have culminated in [[../../../../../../../../Science/Scientist/Early_Modern_Scientists/Newton,Isaac|Isaac Newton]]'s 1687 publication Principia 
 > which formulated the laws of motion and universal gravitation, 
 > thereby completing the synthesis of a new cosmology. 
 > 

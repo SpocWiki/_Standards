@@ -435,7 +435,7 @@ Capital :: [[Lomé]]
 
 ![[Armoiries_du_Togo.svg|350]]
 
-![[Anthem-Togo.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Togo.mp3]]
 
 ![[Flag_of_Togo.svg|350]]
 

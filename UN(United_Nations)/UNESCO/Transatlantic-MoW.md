@@ -124,7 +124,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -300,7 +300,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -569,7 +569,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -761,7 +761,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -937,7 +937,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -1206,7 +1206,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -1374,7 +1374,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |
@@ -1654,7 +1654,7 @@
 | [Tabula Hungariae](https://en.wikipedia.org/wiki/Tabula_Hungariae) | [[Hungary]], <br>[[Croatia]] | [National Széchényi Library](https://en.wikipedia.org/wiki/National_Sz%C3%A9ch%C3%A9nyi_Library), Budapest<br> [47°29′43″N 19°02′22″E] | 2007 |
 | [János Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai): Appendix, scientiam spatii absolute veram exhibens. [Maros-Vásárhelyini](https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F), 1832 | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
 | The [[Csoma]] Archive of the Library of the Hungarian Academy of Science | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2009 |
-| [[Semmelweis]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
+| [[../../bio/Medicine/Physician/Semmelweis,Ignaz]]' discovery | [[Hungary]] | Semmelweis Museum, Library and Archives of the History of Medicine<br> [47°29′36″N 19°02′35″E] | 2013 |
 | Three documents related to the two most outstanding results of the work of [Lorand Eötvös](https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s) | [[Hungary]] | Library of the Hungarian Academy of Sciences, Budapest<br> [47°30′06″N 19°02′47″E] | 2015 |
 | [1703 Census of Iceland](https://en.wikipedia.org/wiki/Icelandic_census_of_1703) | [[Iceland]] | National Archives of Iceland<br> [64°08′32″N 21°54′27″W] | 2013 |
 | [Book of Kells](https://en.wikipedia.org/wiki/Book_of_Kells) | [[Ireland]] | Trinity College Library<br> [53°20′38″N 6°15′24″W] | 2011 |

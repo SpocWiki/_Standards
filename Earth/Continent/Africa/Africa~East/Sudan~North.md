@@ -415,7 +415,7 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 
 ![[Sudan~North/Emblem_of_Sudan.svg|350]]
 
-![[Anthem-Sudan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sudan.mp3]]
 
 ![[Sudan~North/Flag_of_Sudan.svg|350]]
 

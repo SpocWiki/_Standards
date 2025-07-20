@@ -523,7 +523,7 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 ![[Ecuador/Coat_of_arms_of_Ecuador.svg|350]]
 
-![[Anthem-Ecuador.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Ecuador.mp3]]
 
 ![[Ecuador/Flag_of_Ecuador.svg|350]]
 

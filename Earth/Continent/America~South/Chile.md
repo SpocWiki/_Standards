@@ -475,7 +475,7 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 ![[Chile/Coat_of_arms_of_Chile.svg|550]]
 
-![[Anthem-Chile.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Chile.mp3]]
 
 ![[Chile/Flag_of_Chile.svg|350]]
 

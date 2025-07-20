@@ -237,7 +237,7 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 > 
 > Although their popularity has fluctuated, they have consistently been read and studied through the ages. 
 > Through Neoplatonism, he also greatly influenced both Christian and Islamic philosophy. 
-> In modern times, [[../../../bio/People/Mathematician/Whitehead,Alfred_North|Alfred North Whitehead]] famously said: 
+> In modern times, [[../../../Mathematics/Mathematician/Whitehead,Alfred_North|Alfred North Whitehead]] famously said: 
 > "the safest general characterization of the European philosophical tradition is that 
 > it consists of a series of footnotes to Plato."
 >

@@ -637,7 +637,7 @@ Only 143,372 are in the hands of soldiers. However, ammunition is no longer iss
 #has_/image_for_/coat_of_arms :: ![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] <img src="./Switzerland/Coat_of_arms_of_Switzerland.svg" width="150"/> 
 
 
-#has_/sound_of_/anthem :: ![[Anthem-Switzerland.mp3]]
+#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3]]
 
 ### #has_/map  
 

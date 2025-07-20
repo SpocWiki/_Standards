@@ -666,7 +666,7 @@ Capital :: [[Istanbul]]
 
 ![[Emblem_of_Turkey.svg|350]]
 
-![[Anthem-Turkey.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Turkey.mp3]]
 
 ![[Flag_of_Turkey.svg|350]]
 

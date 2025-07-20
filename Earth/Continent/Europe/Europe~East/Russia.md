@@ -1061,7 +1061,7 @@ has_place_continent:: [Europe](Europe.md)
 [VehicleCode::]
 Capital :: [Moskwa](Moskwa)  
 ![350](Coat_of_arms_of_Russia.svg)
-![Anthem-Russia.mp3](Anthem-Russia.mp3)
+![Anthem-Russia.mp3](../../../../../_public/xLarge.public/National-Anthem/Anthem-Russia.mp3)
 ![350](Flag_of_Russia.svg)
 [Alcohol-l::15.8]
 [Language-Id::469]

@@ -699,7 +699,7 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 
 ![[Coat_of_arms_of_Cameroon.svg|350]]
 
-![[Anthem-Cameroon.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cameroon.mp3]]
 
 ![[Flag_of_Cameroon.svg|350]]
 [Alcohol-l::7.6]

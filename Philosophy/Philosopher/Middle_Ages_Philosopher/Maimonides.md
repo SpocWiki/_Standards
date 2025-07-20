@@ -39,7 +39,7 @@ aliases:
 >
 > Aside from being revered by Jewish historians, 
 > Maimonides also figures very prominently in the history of Islamic and Arab sciences. 
-> Influenced by [[../Ancient_Philosopher/Aristotle|Aristotle]], Al-Farabi, [[../../../bio/People/Scientist/Middle_Age_Scientists/Avicenna]], and his contemporary Ibn Rushd, 
+> Influenced by [[../Ancient_Philosopher/Aristotle|Aristotle]], Al-Farabi, [[../../../Science/Scientist/Middle_Age_Scientists/Avicenna]], and his contemporary Ibn Rushd, 
 > he became a prominent philosopher and polymath in both the Jewish and Islamic worlds.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maimonides)

@@ -135,7 +135,7 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 ![[Azerbaijan/Emblem_of_Azerbaijan.svg|350]]
 
-![[Anthem-Azerbaijan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Azerbaijan.mp3]]
 
 ![[Azerbaijan/Flag_of_Azerbaijan.svg|350]]
 

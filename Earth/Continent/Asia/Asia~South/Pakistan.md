@@ -577,7 +577,7 @@ has_place_continent:: [[Asia]]
 [VehicleCode::PK]
 Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]  
 ![[Coat_of_arms_of_Pakistan.svg|350]]
-![[Anthem-Pakistan.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Pakistan.mp3]]
 
 ![[Pakistan/Flag_of_Pakistan.svg|350]]  
 [Alcohol-l::0.1]

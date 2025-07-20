@@ -562,7 +562,7 @@ has_place_continent:: [[Asia]]
 Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]  
 ![[Nepal/Emblem_of_Nepal.svg|350]]  
 
-![[Anthem-Nepal.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Nepal.mp3]]
 ![[Nepal/Flag_of_Nepal.svg|350]]  
 
 [Alcohol-l::2.4]

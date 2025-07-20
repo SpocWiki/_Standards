@@ -447,7 +447,7 @@ Capital :: [[Windhoek]]
 
 ![[Coat_of_arms_of_Namibia.svg|350]]
 
-![[Anthem-Namibia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Namibia.mp3]]
 
 ![[Flag_of_Namibia.svg|350]]
 

@@ -562,7 +562,7 @@ has_place_continent:: [[Europe]]
 Capital :: [[Amsterdam]]  
 ![[Royal_coat_of_arms_of_the_Netherlands.svg|650]]
 
-![[Anthem-Netherlands.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Netherlands.mp3]]
 
 ![[Flag_of_the_Netherlands.svg|350]]
 

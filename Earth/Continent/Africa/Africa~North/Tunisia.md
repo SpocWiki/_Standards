@@ -508,7 +508,7 @@ Capital :: [[Tunis]]
 
 ![[Coat_of_arms_of_Tunisia.svg|350]]
 
-![[Anthem-Tunisia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Tunisia.mp3]]
 
 ![[Flag_of_Tunisia.svg|350]]
 

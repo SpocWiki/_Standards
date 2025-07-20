@@ -354,7 +354,7 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 
 ![[Coat_of_arms_of_the_Republic_of_the_Congo.svg|350]]
 
-![[Anthem-Congo.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3]]
 
 ![[Flag_of_the_Republic_of_the_Congo.svg|350]]
 [Alcohol-l::4.2]

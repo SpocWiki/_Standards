@@ -8,7 +8,7 @@ Plural Form chosen to indicate the [[../../Collection]]-Nature.
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_Cons]] Relation. 
 
 Usually this is complemented by [[has_Pros]], 
-to be able to weigh a Decision in a [[../../../../Knowledge/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
+to be able to weigh a Decision in a [[../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
 
 Use it like this: 
 - [ #has_/Cons :: [[../../Collection]] ] or 

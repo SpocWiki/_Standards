@@ -78,7 +78,7 @@ excalidraw-autoexport: svg
 ---
 
 
-#has_/documentation :: [[../../../../_protect/bio/Society/Sociology/Universal_Declaration_of_Human_Rights]] 
+#has_/documentation :: [[../../../_protect/Society/Sociology/Universal_Declaration_of_Human_Rights]] 
 
 ## #has_/text_of_/abstract 
 

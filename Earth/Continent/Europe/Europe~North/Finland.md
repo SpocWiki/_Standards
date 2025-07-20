@@ -669,7 +669,7 @@ has_place_continent:: [[Europe]]
 Capital :: [[Helsingfors]]  
 
 ![[Coat_of_arms_of_Finland.svg|350]]
-![[Anthem-Finland.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Finland.mp3]]
 ![[Flag_of_Finland.svg|350]]
 [Alcohol-l::12.5]
 [Language-Id::]

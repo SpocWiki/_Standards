@@ -3,7 +3,37 @@ aliases:
   - film director
   - filmmaker
   - Movie Director
+  - Movie-Director
+title: Movie-Director
+lang: en
+type: private_note
+keywords: Movie-Director
+linkTitle: Movie-Director
+has_Template: "[[Extract~Note~Template]]"
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - private
+  - note
+layout: 
+draft: true
+publish: false
+publishDate: 
+expiryDate: 
+has_time_started: 2025-07-20
+tags:
+  - Movie-Director
+  - excalidraw
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+excalidraw-autoexport: svg
 ---
+
+# [[Movie-Director]] 
+
+ #is_/same_as :: [[_Standards/WikiData/WD~film_director,2526255]] 
 
 ## #has_/text_of_/abstract 
 
@@ -46,3 +76,22 @@ aliases:
 
 ### #is_/same_as :: [Movie-Director.secret](/_secret/Society/Communication/Media/Movie/Movie-Director.secret.md)
 
+
+# [[Movie-Director]] 
+
+#is_/part_of :: [[Movie-Director 1]] 
+
+![[Movie-Director.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

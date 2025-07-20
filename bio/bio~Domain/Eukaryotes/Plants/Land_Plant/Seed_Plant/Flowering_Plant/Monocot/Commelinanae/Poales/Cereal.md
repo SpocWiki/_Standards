@@ -58,10 +58,10 @@ Commons_gallery: Cereal
 > ([[../../../../../../../../../../Earth/Continent/America~North/USA|USA]], [[../../../../../../../../../../Earth/Continent/Europe/Europe~East/Ukraine|Ukraine]], [[../../../../../../../../../../Earth/Continent/Europe/Europe~East/Russia|Russia]])
 >
 > Cereals provide food eaten directly as whole grains, usually cooked, 
-> or they are ground to flour and made into [[../../../../../../../../../../Economics/Home_Economics/Cooking/Food/Bread|bread]], porridge, and other products. 
+> or they are ground to flour and made into [[../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Bread|bread]], porridge, and other products. 
 > 
 > Cereals have a high [[../../../../../../../../../Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch|starch]] content, 
-> enabling them to be fermented into alcoholic drinks such as [[../../../../../../../../../../Economics/Home_Economics/Cooking/Food/Drink/Beer|beer]]. 
+> enabling them to be fermented into alcoholic drinks such as [[../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Drink/Beer|beer]]. 
 > 
 > Cereal farming has a substantial environmental impact, 
 > and is often produced in high-intensity monocultures. 

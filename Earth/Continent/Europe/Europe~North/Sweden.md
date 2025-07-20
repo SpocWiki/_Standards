@@ -640,7 +640,7 @@ has_place_continent:: [[Europe]]
 Capital :: [[./Sweden/Counties/Stockholm]]  
 ![[Coat_of_arms_of_Sweden.svg|350]]
 
-![[Anthem-Sweden.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sweden.mp3]]
 
 ![[Flag_of_Sweden.svg|350]]
 [Alcohol-l::10.3]

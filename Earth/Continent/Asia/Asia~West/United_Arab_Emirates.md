@@ -543,7 +543,7 @@ has_place_continent:: [[Asia]]
 Capital :: [[United_Arab_Emirates/City/Abu_Dhabi]]  
 ![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
 
-![[Anthem-United-arab-emirates.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3]]
 ![[United_Arab_Emirates/Flag_of_the_United_Arab_Emirates.svg|350]]  
 
 [Alcohol-l::0.5]

@@ -529,7 +529,7 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 ![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
 
 
-![[Anthem-Algeria.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Algeria.mp3]]
 
 ![[Africa~North/Algeria/Flag_of_Algeria.svg|350]]  
 

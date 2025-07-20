@@ -1,0 +1,98 @@
+---
+aliases:
+  - Ignaz Philipp Semmelweis
+  - Ignaz Semmelweis
+  - Semmelweis Ignác Fülöp
+  - Semmelweis,Ignaz
+title: Semmelweis,Ignaz
+lang: en
+type: private_note
+keywords: Semmelweis,Ignaz
+linkTitle: Semmelweis,Ignaz
+has_Template: "[[Extract~Note~Template]]"
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - private
+  - note
+layout: 
+draft: true
+publish: false
+publishDate: 
+expiryDate: 
+has_time_started: 2025-07-20
+tags:
+  - Semmelweis,Ignaz
+  - excalidraw
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+excalidraw-autoexport: svg
+---
+
+# [[Semmelweis,Ignaz]] 
+
+#has_/time_/started ::  1818-07-01
+#has_/time_/started ::  1865-08-13  
+
+## #has_/text_of_/abstract  
+
+> Ignaz Philipp Semmelweis (German: [ˈɪɡnaːts ˈzɛml̩vaɪs];
+>  Hungarian: Semmelweis Ignác Fülöp [ˈsɛmmɛlvɛjs ˈiɡnaːts ˈfyløp]; 1 July 1818 – 13 August 1865) 
+> was a Hungarian physician and scientist of German descent, 
+> who was an early pioneer of antiseptic procedures, 
+> and was described as the "saviour of mothers". 
+> 
+> Postpartum infection, also known as puerperal fever or childbed fever, 
+> consists of any bacterial infection of the reproductive tract following birth, 
+> and in the 19th century was common and often fatal.  
+> 
+> Semmelweis discovered that the incidence of infection could be drastically reduced 
+> by requiring healthcare workers in obstetrical clinics to disinfect their hands. 
+> 
+> In 1847, he proposed hand washing with chlorinated lime solutions 
+> at Vienna General Hospital's First Obstetrical Clinic, 
+> where doctors' wards had three times the mortality of midwives' wards. 
+> 
+> The maternal mortality rate dropped from 18% to less than 2%, 
+> and he published a book of his findings, [[Etiology, Concept and Prophylaxis of Childbed Fever]] in 1861.
+>
+> Despite his research, Semmelweis's observations conflicted with the established scientific 
+> and medical opinions of the time and his ideas were rejected by the medical community. 
+> He could offer no theoretical explanation for his findings of reduced mortality 
+> due to hand-washing, and some doctors were offended 
+> at the suggestion that they should wash their hands and mocked him for it. 
+> 
+> In 1865, the increasingly outspoken Semmelweis allegedly suffered a nervous breakdown 
+> and was committed to an asylum by his colleagues. 
+> In the asylum he was beaten by the guards. 
+> He died 14 days later from a gangrenous wound on his right hand 
+> that may have been caused by the beating.
+>
+> His findings earned widespread acceptance only years after his death, 
+> when Louis Pasteur confirmed the germ theory, 
+> giving Semmelweis' observations a theoretical explanation, and Joseph Lister, 
+> acting on Pasteur's research, practised and operated using hygienic methods, with great success.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ignaz%20Semmelweis)
+
+
+# [[Semmelweis,Ignaz]] 
+
+#is_/part_of :: [[Semmelweis]] 
+
+![[Semmelweis,Ignaz.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

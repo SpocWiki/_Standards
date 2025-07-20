@@ -504,7 +504,7 @@ Capital :: [[Minsk]]
 
 ![[Emblem_of_Belarus.svg|350]]
 
-![[Anthem-Belarus.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Belarus.mp3]]
 
 ![[Flag_of_Belarus.svg|350]]
 

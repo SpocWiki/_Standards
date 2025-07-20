@@ -28,12 +28,12 @@ Commons category: Individualism
 Library of Congress Classification: B824.A1-B824.Z
 ---
 
-#has_/creator :: [[../../../../../_protect/bio/Society/Sociology/Politics/UK_Politics/Hobbes,Thomas|Hobbes,Thomas]] 
+#has_/creator :: [[../../../../_protect/Society/Sociology/Politics/UK_Politics/Hobbes,Thomas|Hobbes,Thomas]] 
 #has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Locke,John|Locke,John]]  
 #has_/creator :: [[../../../../Philosophy/Philosopher/Early_modern_Philosopher/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Individualism,171995_WD~Individualism,171995]] 
-#is_/opposite_of :: [[../../../../../_protect/bio/Society/Sociology/Politics/isms/Communitarianism|Communitarianism]]  
+#is_/opposite_of :: [[../../../../_protect/Society/Sociology/Politics/isms/Communitarianism|Communitarianism]]  
 
 ## #has_/text_of_/abstract 
 
@@ -51,7 +51,7 @@ Library of Congress Classification: B824.A1-B824.Z
 >
 > Individualism represents one kind of sociocultural perspective 
 > and is often defined in contrast to other perspectives, such as 
-> [[../../../../../_protect/bio/Society/Sociology/Politics/isms/Communitarianism|Communitarianism]], [[collectivism]] and [[corporatism]].
+> [[../../../../_protect/Society/Sociology/Politics/isms/Communitarianism|Communitarianism]], [[collectivism]] and [[corporatism]].
 >
 > Individualism is also associated with artistic and bohemian interests and lifestyles, 
 > where there is a tendency towards self-creation and experimentation 

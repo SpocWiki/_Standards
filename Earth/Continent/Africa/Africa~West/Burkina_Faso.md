@@ -472,7 +472,7 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 
 ![[Coat_of_arms_of_Burkina_Faso.svg|350]]
 
-![[Anthem-Burkina-faso.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Burkina-faso.mp3]]
 
 ![[Flag_of_Burkina_Faso.svg|350]]
 [Alcohol-l::7]

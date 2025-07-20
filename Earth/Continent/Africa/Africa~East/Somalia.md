@@ -416,7 +416,7 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 
 ![550](Somalia/Coat_of_arms_of_Somalia.svg)
 
-![Anthem-Somalia.mp3](Anthem-Somalia.mp3)
+![Anthem-Somalia.mp3](../../../../../_public/xLarge.public/National-Anthem/Anthem-Somalia.mp3)
 
 ![350](Somalia/Flag_of_Somalia.svg)
 

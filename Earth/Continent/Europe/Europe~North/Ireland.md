@@ -497,7 +497,7 @@ markerFolder: ./Ireland//
 has_place_continent:: [[Europe]]  
 [VehicleCode::IRL]
 Capital :: [[./Ireland/Counties/Dublin]]  
-![[Anthem-Ireland.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Ireland.mp3]]
 ![[Flag_of_Ireland.svg|350]]
 [Alcohol-l::14.4]
 [Language-Id::499]

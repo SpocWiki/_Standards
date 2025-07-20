@@ -399,7 +399,7 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 
 ![[Coat_of_arms_of_Rwanda.svg|350]]
 
-![[Anthem-Rwanda.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Rwanda.mp3]]
 
 ![[Flag_of_Rwanda.svg|350]]
 

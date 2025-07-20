@@ -9,7 +9,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-end_time: -1999
+end_time: -1999 
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ggantija%20Temples%20%281%29.jpg
 instance_of:
   - "[[_Standards/WikiData/WD~archaeological_age,15401699]]"

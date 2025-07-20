@@ -386,7 +386,7 @@ has_place_continent:: [[Asia]]
 Capital :: [[Maldives/Counties/Malé/City/Malé]]  
 ![[Maldives/Emblem_of_Maldives.svg|350]]  
 
-![[Anthem-Maldives.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Maldives.mp3]]
 ![[Maldives/Flag_of_Maldives.svg|350]]  
 
 [Alcohol-l::0.8]

@@ -760,7 +760,7 @@ into the Subfolder `USA` so this Link can be resolved: [[USA/ReadMe]]
 
 #has_/image_for_/coat_of_arms :: ![[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|250]]<img src="./USA/Coat_of_Arms_of_the_United_States_(obverse).svg" width=250/> 
 
-#has_/sound_of_/anthem :: ![[Anthem-United-states.mp3]] 
+#has_/sound_of_/anthem :: ![[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]] 
 
 ### #has_/image_for_/flag
 

@@ -160,7 +160,7 @@ markerFolder: ./San_Marino//
 [name-en::San Marino]
 [name-de::San Marino]
 ![[San_Marino/Coat_of_arms_of_San_Marino.svg|350]]
-![[Anthem-Montenegro.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
 ![[San_Marino/Flag_of_San_Marino.svg|350]]
 
 [Area-Total::61]

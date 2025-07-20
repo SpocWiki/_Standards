@@ -833,7 +833,7 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 ![[Brazil/Coat_of_arms_of_Brazil.svg|350]]
 
-![[Anthem-Brazil.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Brazil.mp3]]
 
 ![[Brazil/Flag_of_Brazil.svg|350]]
 

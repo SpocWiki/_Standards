@@ -386,7 +386,7 @@ has_place_continent:: [[Asia]]
 Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]  
 ![[Kuwait/Emblem_of_Kuwait.svg|350]]  
 
-![[Anthem-Kuwait.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kuwait.mp3]]
 ![[Kuwait/Flag_of_Kuwait.svg|350]]  
 
 [Alcohol-l::0.1]

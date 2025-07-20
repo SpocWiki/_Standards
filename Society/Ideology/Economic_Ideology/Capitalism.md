@@ -87,8 +87,8 @@ excalidraw-autoexport: svg
 
 #has_/previous_item :: [[Mercantilism|Mercantilism]] 
 #has_/next_item :: [[Keynesianism]] 
-#has_/creator :: [[../../../bio/People/Economist/Smith,Adam|Smith,Adam]] 
-#has_/creator :: [[../../../../Economics/Ricardo,David|Ricardo,David]]  
+#has_/creator :: [[../../Economics/Economist/Smith,Adam|Smith,Adam]] 
+#has_/creator :: [[../../Economics/Ricardo,David|Ricardo,David]]  
 
 ## #has_/text_of_/abstract 
 
@@ -106,7 +106,7 @@ excalidraw-autoexport: svg
 > whereas prices and the distribution of goods and services are mainly 
 > determined by __competition in goods and services markets__.
 >
-> [[../../../bio/People/Economist|Economists]], [[../../../bio/People/Historian|historians]], political economists, and [[../../../bio/People/Sociologist|sociologists]] 
+> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian|historians]], political economists, and [[../../Sociology/Sociologist|sociologists]] 
 > have adopted different perspectives in their analyses of capitalism 
 > and have recognized various forms of it in practice. 
 > 
@@ -130,7 +130,7 @@ excalidraw-autoexport: svg
 > 
 > The [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]] of the 18th century 
 > established capitalism as a dominant mode of production, 
-> characterized by [[factory work]] and a complex [[../../../../Economics/Division_of_Labor|division of labor]]. 
+> characterized by [[factory work]] and a complex [[../../Economics/Division_of_Labor|division of labor]]. 
 > 
 > Through the process of [[../../Social_Issues/Globalization|globalization]], 
 > capitalism spread across the world in the 19th and 20th centuries, 

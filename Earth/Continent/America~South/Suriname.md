@@ -382,7 +382,7 @@ markerFolder: ./Suriname/
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
 
-![[Anthem-Mexico.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Mexico.mp3]]
 
 ![[Mexico/Flag_of_Mexico.svg|350]]
 

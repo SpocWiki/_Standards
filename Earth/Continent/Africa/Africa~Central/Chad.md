@@ -558,7 +558,7 @@ Capital :: [[N'Djamena]]
 
 ![[Coat_of_arms_of_Chad.svg|350]]
 
-![[Anthem-Chad.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Chad.mp3]]
 
 ![[Chad/Flag_of_Chad.svg|350]]
 

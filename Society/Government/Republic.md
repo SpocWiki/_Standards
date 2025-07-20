@@ -43,7 +43,7 @@ In summary, while both terms relate to systems where power ultimately resides wi
 
 > A **Republic**, based on the Latin phrase res publica ('public affair'), 
 > is a state in which political power rests with the public through their  representatives—
-> in contrast to a [[Monarchy]] or [[../../../../_protect/bio/Society/Sociology/Politics/Aristocracy]] .
+> in contrast to a [[Monarchy]] or [[../../../_protect/Society/Sociology/Politics/Aristocracy]] .
 >
 > Representation in a republic may or may not be freely elected by the general citizenry. 
 > In many historical republics, representation has been based on personal status 

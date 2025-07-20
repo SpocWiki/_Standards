@@ -115,7 +115,7 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 ## #has_/image_for_/coat_of_arms 
 #has_/image_for_/coat_of_arms :: ![[Seal_of_Europe.svg|350]]
 
-![[Anthem-Eu-long.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3]]
 
 ![[Flag_of_Europe.svg|350]]
 

@@ -411,7 +411,7 @@ Capital :: [[Lilongwe]]
 
 ![[Coat_of_arms_of_Malawi.svg|550]]
 
-![[Anthem-Malawi.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malawi.mp3]]
 
 ![[Flag_of_Malawi.svg|350]]
 [Alcohol-l::1.7]

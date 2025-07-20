@@ -77,7 +77,7 @@ Krugosvet_article: istoriya/GLOBALIZATSIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Globalization)
 
 
-[[../../../../_protect/bio/Society/Sociology/Politics/German_Politics/Jamaika-Koalition]] 
+[[../../../_protect/Society/Sociology/Politics/German_Politics/Jamaika-Koalition]] 
 
 
 ## Confidential Links & Embeds: 

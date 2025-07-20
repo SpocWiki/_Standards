@@ -730,7 +730,7 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 
 #has_/image_for_/coat_of_arms :: ![[./Italy/Emblem_of_Italy.svg|150]] <img src="./Italy/Emblem_of_Italy.svg" width="150"/> 
 
-#has_/sound_of_/anthem :: ![[Anthem-Italy.mp3]]
+#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3]]
 
 ### #has_/map  
 

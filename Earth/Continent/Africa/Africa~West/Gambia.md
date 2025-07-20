@@ -381,7 +381,7 @@ Capital :: [[Banjul]]
 
 ![[Coat_of_arms_of_Gambia.svg|650]]
 
-![[Anthem-Gambia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Gambia.mp3]]
 
 ![[Flag_of_the_Gambia.svg|350]]
 

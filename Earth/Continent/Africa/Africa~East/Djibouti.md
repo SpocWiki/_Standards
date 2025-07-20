@@ -395,7 +395,7 @@ Capital :: [[Djibouti]]
 
 ![[Emblem_of_Djibouti.svg|350]]
 
-![[Anthem-Djibouti.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Djibouti.mp3]]
 
 ![[Flag_of_Djibouti.svg|350]]
 
