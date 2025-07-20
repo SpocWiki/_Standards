@@ -207,17 +207,17 @@ IPI_name_number: 00025078792
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pushkin,Alexander](Pushkin,Alexander.md) 
+### #is_/same_as :: [Pushkin,Alexander](/_Standards/Society/Communication/Media/Book/Writer/Pushkin,Alexander.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.public](/_public/bio/People/Writer/Pushkin,Alexander.public.md) 
+### #is_/same_as :: [Pushkin,Alexander.public](/_public/Society/Communication/Media/Book/Writer/Pushkin,Alexander.public.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/bio/People/Writer/Pushkin,Alexander.internal.md) 
+### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/Society/Communication/Media/Book/Writer/Pushkin,Alexander.internal.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/bio/People/Writer/Pushkin,Alexander.protect.md) 
+### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/Society/Communication/Media/Book/Writer/Pushkin,Alexander.protect.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.private](/_private/bio/People/Writer/Pushkin,Alexander.private.md) 
+### #is_/same_as :: [Pushkin,Alexander.private](/_private/Society/Communication/Media/Book/Writer/Pushkin,Alexander.private.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/bio/People/Writer/Pushkin,Alexander.personal.md) 
+### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/Society/Communication/Media/Book/Writer/Pushkin,Alexander.personal.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/bio/People/Writer/Pushkin,Alexander.secret.md)
+### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/Society/Communication/Media/Book/Writer/Pushkin,Alexander.secret.md)
 

@@ -13,17 +13,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Historian](Historian.md) 
+### #is_/same_as :: [Historian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.md) 
 
-### #is_/same_as :: [Historian.public](/_public/bio/People/Historian.public.md) 
+### #is_/same_as :: [Historian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.public.md) 
 
-### #is_/same_as :: [Historian.internal](/_internal/bio/People/Historian.internal.md) 
+### #is_/same_as :: [Historian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.internal.md) 
 
-### #is_/same_as :: [Historian.protect](/_protect/bio/People/Historian.protect.md) 
+### #is_/same_as :: [Historian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.protect.md) 
 
-### #is_/same_as :: [Historian.private](/_private/bio/People/Historian.private.md) 
+### #is_/same_as :: [Historian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.private.md) 
 
-### #is_/same_as :: [Historian.personal](/_personal/bio/People/Historian.personal.md) 
+### #is_/same_as :: [Historian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.personal.md) 
 
-### #is_/same_as :: [Historian.secret](/_secret/bio/People/Historian.secret.md)
+### #is_/same_as :: [Historian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian.secret.md)
 

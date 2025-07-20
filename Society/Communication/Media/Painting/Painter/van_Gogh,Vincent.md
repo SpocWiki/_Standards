@@ -378,17 +378,17 @@ Europeana_entity: agent/base/59832
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [van_Gogh,Vincent](van_Gogh,Vincent.md) 
+### #is_/same_as :: [van_Gogh,Vincent](/_Standards/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.md) 
 
-### #is_/same_as :: [van_Gogh,Vincent.public](/_public/bio/People/Painter/van_Gogh,Vincent.public.md) 
+### #is_/same_as :: [van_Gogh,Vincent.public](/_public/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.public.md) 
 
-### #is_/same_as :: [van_Gogh,Vincent.internal](/_internal/bio/People/Painter/van_Gogh,Vincent.internal.md) 
+### #is_/same_as :: [van_Gogh,Vincent.internal](/_internal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.internal.md) 
 
-### #is_/same_as :: [van_Gogh,Vincent.protect](/_protect/bio/People/Painter/van_Gogh,Vincent.protect.md) 
+### #is_/same_as :: [van_Gogh,Vincent.protect](/_protect/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.protect.md) 
 
-### #is_/same_as :: [van_Gogh,Vincent.private](/_private/bio/People/Painter/van_Gogh,Vincent.private.md) 
+### #is_/same_as :: [van_Gogh,Vincent.private](/_private/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.private.md) 
 
-### #is_/same_as :: [van_Gogh,Vincent.personal](/_personal/bio/People/Painter/van_Gogh,Vincent.personal.md) 
+### #is_/same_as :: [van_Gogh,Vincent.personal](/_personal/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.personal.md) 
 
-### #is_/same_as :: [van_Gogh,Vincent.secret](/_secret/bio/People/Painter/van_Gogh,Vincent.secret.md)
+### #is_/same_as :: [van_Gogh,Vincent.secret](/_secret/Society/Communication/Media/Painting/Painter/van_Gogh,Vincent.secret.md)
 

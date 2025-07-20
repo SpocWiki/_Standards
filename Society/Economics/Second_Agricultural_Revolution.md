@@ -123,17 +123,17 @@ dv.view("TableByName");
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Second_Agricultural_Revolution](Second_Agricultural_Revolution.md) 
+### #is_/same_as :: [Second_Agricultural_Revolution](/_Standards/Society/Economics/Second_Agricultural_Revolution.md) 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.public](/_public/Economics/Second_Agricultural_Revolution.public.md) 
+### #is_/same_as :: [Second_Agricultural_Revolution.public](/_public/Society/Economics/Second_Agricultural_Revolution.public.md) 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.internal](/_internal/Economics/Second_Agricultural_Revolution.internal.md) 
+### #is_/same_as :: [Second_Agricultural_Revolution.internal](/_internal/Society/Economics/Second_Agricultural_Revolution.internal.md) 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.protect](/_protect/Economics/Second_Agricultural_Revolution.protect.md) 
+### #is_/same_as :: [Second_Agricultural_Revolution.protect](/_protect/Society/Economics/Second_Agricultural_Revolution.protect.md) 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.private](/_private/Economics/Second_Agricultural_Revolution.private.md) 
+### #is_/same_as :: [Second_Agricultural_Revolution.private](/_private/Society/Economics/Second_Agricultural_Revolution.private.md) 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.personal](/_personal/Economics/Second_Agricultural_Revolution.personal.md) 
+### #is_/same_as :: [Second_Agricultural_Revolution.personal](/_personal/Society/Economics/Second_Agricultural_Revolution.personal.md) 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.secret](/_secret/Economics/Second_Agricultural_Revolution.secret.md)
+### #is_/same_as :: [Second_Agricultural_Revolution.secret](/_secret/Society/Economics/Second_Agricultural_Revolution.secret.md)
 

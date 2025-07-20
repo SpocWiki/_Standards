@@ -37,17 +37,17 @@ has_id_wikidata: Q7314
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stravinsky,Igor](Stravinsky,Igor.md) 
+### #is_/same_as :: [Stravinsky,Igor](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.md) 
 
-### #is_/same_as :: [Stravinsky,Igor.public](/_public/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.public.md) 
+### #is_/same_as :: [Stravinsky,Igor.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.public.md) 
 
-### #is_/same_as :: [Stravinsky,Igor.internal](/_internal/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.internal.md) 
+### #is_/same_as :: [Stravinsky,Igor.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.internal.md) 
 
-### #is_/same_as :: [Stravinsky,Igor.protect](/_protect/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.protect.md) 
+### #is_/same_as :: [Stravinsky,Igor.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.protect.md) 
 
-### #is_/same_as :: [Stravinsky,Igor.private](/_private/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.private.md) 
+### #is_/same_as :: [Stravinsky,Igor.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.private.md) 
 
-### #is_/same_as :: [Stravinsky,Igor.personal](/_personal/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.personal.md) 
+### #is_/same_as :: [Stravinsky,Igor.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.personal.md) 
 
-### #is_/same_as :: [Stravinsky,Igor.secret](/_secret/bio/People/Composer/20th_century_Composers/Stravinsky,Igor.secret.md)
+### #is_/same_as :: [Stravinsky,Igor.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.secret.md)
 

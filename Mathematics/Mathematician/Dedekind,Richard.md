@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dedekind,Richard](Dedekind,Richard.md) 
+### #is_/same_as :: [Dedekind,Richard](/_Standards/Mathematics/Mathematician/Dedekind,Richard.md) 
 
-### #is_/same_as :: [Dedekind,Richard.public](/_public/bio/People/Mathematician/Dedekind,Richard.public.md) 
+### #is_/same_as :: [Dedekind,Richard.public](/_public/Mathematics/Mathematician/Dedekind,Richard.public.md) 
 
-### #is_/same_as :: [Dedekind,Richard.internal](/_internal/bio/People/Mathematician/Dedekind,Richard.internal.md) 
+### #is_/same_as :: [Dedekind,Richard.internal](/_internal/Mathematics/Mathematician/Dedekind,Richard.internal.md) 
 
-### #is_/same_as :: [Dedekind,Richard.protect](/_protect/bio/People/Mathematician/Dedekind,Richard.protect.md) 
+### #is_/same_as :: [Dedekind,Richard.protect](/_protect/Mathematics/Mathematician/Dedekind,Richard.protect.md) 
 
-### #is_/same_as :: [Dedekind,Richard.private](/_private/bio/People/Mathematician/Dedekind,Richard.private.md) 
+### #is_/same_as :: [Dedekind,Richard.private](/_private/Mathematics/Mathematician/Dedekind,Richard.private.md) 
 
-### #is_/same_as :: [Dedekind,Richard.personal](/_personal/bio/People/Mathematician/Dedekind,Richard.personal.md) 
+### #is_/same_as :: [Dedekind,Richard.personal](/_personal/Mathematics/Mathematician/Dedekind,Richard.personal.md) 
 
-### #is_/same_as :: [Dedekind,Richard.secret](/_secret/bio/People/Mathematician/Dedekind,Richard.secret.md)
+### #is_/same_as :: [Dedekind,Richard.secret](/_secret/Mathematics/Mathematician/Dedekind,Richard.secret.md)
 

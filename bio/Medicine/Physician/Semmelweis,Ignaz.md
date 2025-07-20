@@ -96,3 +96,22 @@ excalidraw-autoexport: svg
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semmelweis,Ignaz](/_Standards/bio/Medicine/Physician/Semmelweis,Ignaz.md) 
+
+### #is_/same_as :: [Semmelweis,Ignaz.public](/_public/bio/Medicine/Physician/Semmelweis,Ignaz.public.md) 
+
+### #is_/same_as :: [Semmelweis,Ignaz.internal](/_internal/bio/Medicine/Physician/Semmelweis,Ignaz.internal.md) 
+
+### #is_/same_as :: [Semmelweis,Ignaz.protect](/_protect/bio/Medicine/Physician/Semmelweis,Ignaz.protect.md) 
+
+### #is_/same_as :: [Semmelweis,Ignaz.private](/_private/bio/Medicine/Physician/Semmelweis,Ignaz.private.md) 
+
+### #is_/same_as :: [Semmelweis,Ignaz.personal](/_personal/bio/Medicine/Physician/Semmelweis,Ignaz.personal.md) 
+
+### #is_/same_as :: [Semmelweis,Ignaz.secret](/_secret/bio/Medicine/Physician/Semmelweis,Ignaz.secret.md)
+

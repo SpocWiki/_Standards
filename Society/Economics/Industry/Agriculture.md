@@ -103,17 +103,17 @@ Commons_category: Agriculture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agriculture](Agriculture.md) 
+### #is_/same_as :: [Agriculture](/_Standards/Society/Economics/Industry/Agriculture.md) 
 
-### #is_/same_as :: [Agriculture.public](/_public/Economics/Industry/Agriculture.public.md) 
+### #is_/same_as :: [Agriculture.public](/_public/Society/Economics/Industry/Agriculture.public.md) 
 
-### #is_/same_as :: [Agriculture.internal](/_internal/Economics/Industry/Agriculture.internal.md) 
+### #is_/same_as :: [Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture.internal.md) 
 
-### #is_/same_as :: [Agriculture.protect](/_protect/Economics/Industry/Agriculture.protect.md) 
+### #is_/same_as :: [Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture.protect.md) 
 
-### #is_/same_as :: [Agriculture.private](/_private/Economics/Industry/Agriculture.private.md) 
+### #is_/same_as :: [Agriculture.private](/_private/Society/Economics/Industry/Agriculture.private.md) 
 
-### #is_/same_as :: [Agriculture.personal](/_personal/Economics/Industry/Agriculture.personal.md) 
+### #is_/same_as :: [Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture.personal.md) 
 
-### #is_/same_as :: [Agriculture.secret](/_secret/Economics/Industry/Agriculture.secret.md)
+### #is_/same_as :: [Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture.secret.md)
 

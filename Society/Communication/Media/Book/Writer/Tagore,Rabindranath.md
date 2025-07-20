@@ -58,17 +58,17 @@ has_id_wikidata: Q7241
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tagore,Rabindranath](Tagore,Rabindranath.md) 
+### #is_/same_as :: [Tagore,Rabindranath](/_Standards/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.md) 
 
-### #is_/same_as :: [Tagore,Rabindranath.public](/_public/bio/People/Writer/Tagore,Rabindranath.public.md) 
+### #is_/same_as :: [Tagore,Rabindranath.public](/_public/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.public.md) 
 
-### #is_/same_as :: [Tagore,Rabindranath.internal](/_internal/bio/People/Writer/Tagore,Rabindranath.internal.md) 
+### #is_/same_as :: [Tagore,Rabindranath.internal](/_internal/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.internal.md) 
 
-### #is_/same_as :: [Tagore,Rabindranath.protect](/_protect/bio/People/Writer/Tagore,Rabindranath.protect.md) 
+### #is_/same_as :: [Tagore,Rabindranath.protect](/_protect/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.protect.md) 
 
-### #is_/same_as :: [Tagore,Rabindranath.private](/_private/bio/People/Writer/Tagore,Rabindranath.private.md) 
+### #is_/same_as :: [Tagore,Rabindranath.private](/_private/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.private.md) 
 
-### #is_/same_as :: [Tagore,Rabindranath.personal](/_personal/bio/People/Writer/Tagore,Rabindranath.personal.md) 
+### #is_/same_as :: [Tagore,Rabindranath.personal](/_personal/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.personal.md) 
 
-### #is_/same_as :: [Tagore,Rabindranath.secret](/_secret/bio/People/Writer/Tagore,Rabindranath.secret.md)
+### #is_/same_as :: [Tagore,Rabindranath.secret](/_secret/Society/Communication/Media/Book/Writer/Tagore,Rabindranath.secret.md)
 

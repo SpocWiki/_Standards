@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inventor](Inventor.md) 
+### #is_/same_as :: [Inventor](/_Standards/Science/Inventor.md) 
 
-### #is_/same_as :: [Inventor.public](/_public/bio/People/Inventor.public.md) 
+### #is_/same_as :: [Inventor.public](/_public/Science/Inventor.public.md) 
 
-### #is_/same_as :: [Inventor.internal](/_internal/bio/People/Inventor.internal.md) 
+### #is_/same_as :: [Inventor.internal](/_internal/Science/Inventor.internal.md) 
 
-### #is_/same_as :: [Inventor.protect](/_protect/bio/People/Inventor.protect.md) 
+### #is_/same_as :: [Inventor.protect](/_protect/Science/Inventor.protect.md) 
 
-### #is_/same_as :: [Inventor.private](/_private/bio/People/Inventor.private.md) 
+### #is_/same_as :: [Inventor.private](/_private/Science/Inventor.private.md) 
 
-### #is_/same_as :: [Inventor.personal](/_personal/bio/People/Inventor.personal.md) 
+### #is_/same_as :: [Inventor.personal](/_personal/Science/Inventor.personal.md) 
 
-### #is_/same_as :: [Inventor.secret](/_secret/bio/People/Inventor.secret.md)
+### #is_/same_as :: [Inventor.secret](/_secret/Science/Inventor.secret.md)
 

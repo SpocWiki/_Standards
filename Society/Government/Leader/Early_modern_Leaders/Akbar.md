@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Akbar](Akbar.md) 
+### #is_/same_as :: [Akbar](/_Standards/Society/Government/Leader/Early_modern_Leaders/Akbar.md) 
 
-### #is_/same_as :: [Akbar.public](/_public/bio/People/Leader/Early_modern_Leaders/Akbar.public.md) 
+### #is_/same_as :: [Akbar.public](/_public/Society/Government/Leader/Early_modern_Leaders/Akbar.public.md) 
 
-### #is_/same_as :: [Akbar.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Akbar.internal.md) 
+### #is_/same_as :: [Akbar.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Akbar.internal.md) 
 
-### #is_/same_as :: [Akbar.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Akbar.protect.md) 
+### #is_/same_as :: [Akbar.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Akbar.protect.md) 
 
-### #is_/same_as :: [Akbar.private](/_private/bio/People/Leader/Early_modern_Leaders/Akbar.private.md) 
+### #is_/same_as :: [Akbar.private](/_private/Society/Government/Leader/Early_modern_Leaders/Akbar.private.md) 
 
-### #is_/same_as :: [Akbar.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Akbar.personal.md) 
+### #is_/same_as :: [Akbar.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Akbar.personal.md) 
 
-### #is_/same_as :: [Akbar.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Akbar.secret.md)
+### #is_/same_as :: [Akbar.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Akbar.secret.md)
 

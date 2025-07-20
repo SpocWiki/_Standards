@@ -168,17 +168,17 @@ height: 168
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietrich,Marlene](Dietrich,Marlene.md) 
+### #is_/same_as :: [Dietrich,Marlene](/_Standards/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.public](/_public/bio/People/Actor/Dietrich,Marlene.public.md) 
+### #is_/same_as :: [Dietrich,Marlene.public](/_public/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.public.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.internal](/_internal/bio/People/Actor/Dietrich,Marlene.internal.md) 
+### #is_/same_as :: [Dietrich,Marlene.internal](/_internal/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.internal.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.protect](/_protect/bio/People/Actor/Dietrich,Marlene.protect.md) 
+### #is_/same_as :: [Dietrich,Marlene.protect](/_protect/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.protect.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.private](/_private/bio/People/Actor/Dietrich,Marlene.private.md) 
+### #is_/same_as :: [Dietrich,Marlene.private](/_private/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.private.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.personal](/_personal/bio/People/Actor/Dietrich,Marlene.personal.md) 
+### #is_/same_as :: [Dietrich,Marlene.personal](/_personal/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.personal.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.secret](/_secret/bio/People/Actor/Dietrich,Marlene.secret.md)
+### #is_/same_as :: [Dietrich,Marlene.secret](/_secret/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.secret.md)
 

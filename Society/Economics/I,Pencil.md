@@ -6,17 +6,17 @@ It was updated by the "I, Smartphone" Video Essay from [Mark J. Perry](https://w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [I,Pencil](I,Pencil.md) 
+### #is_/same_as :: [I,Pencil](/_Standards/Society/Economics/I,Pencil.md) 
 
-### #is_/same_as :: [I,Pencil.public](/_public/Economics/I,Pencil.public.md) 
+### #is_/same_as :: [I,Pencil.public](/_public/Society/Economics/I,Pencil.public.md) 
 
-### #is_/same_as :: [I,Pencil.internal](/_internal/Economics/I,Pencil.internal.md) 
+### #is_/same_as :: [I,Pencil.internal](/_internal/Society/Economics/I,Pencil.internal.md) 
 
-### #is_/same_as :: [I,Pencil.protect](/_protect/Economics/I,Pencil.protect.md) 
+### #is_/same_as :: [I,Pencil.protect](/_protect/Society/Economics/I,Pencil.protect.md) 
 
-### #is_/same_as :: [I,Pencil.private](/_private/Economics/I,Pencil.private.md) 
+### #is_/same_as :: [I,Pencil.private](/_private/Society/Economics/I,Pencil.private.md) 
 
-### #is_/same_as :: [I,Pencil.personal](/_personal/Economics/I,Pencil.personal.md) 
+### #is_/same_as :: [I,Pencil.personal](/_personal/Society/Economics/I,Pencil.personal.md) 
 
-### #is_/same_as :: [I,Pencil.secret](/_secret/Economics/I,Pencil.secret.md)
+### #is_/same_as :: [I,Pencil.secret](/_secret/Society/Economics/I,Pencil.secret.md)
 

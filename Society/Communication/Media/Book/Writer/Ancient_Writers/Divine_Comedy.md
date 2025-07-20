@@ -304,17 +304,17 @@ Libris_URI: 97mqw83t1tj6j6c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Divine_Comedy](Divine_Comedy.md) 
+### #is_/same_as :: [Divine_Comedy](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.md) 
 
-### #is_/same_as :: [Divine_Comedy.public](/_public/bio/People/Writer/Ancient_Writers/Divine_Comedy.public.md) 
+### #is_/same_as :: [Divine_Comedy.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.public.md) 
 
-### #is_/same_as :: [Divine_Comedy.internal](/_internal/bio/People/Writer/Ancient_Writers/Divine_Comedy.internal.md) 
+### #is_/same_as :: [Divine_Comedy.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.internal.md) 
 
-### #is_/same_as :: [Divine_Comedy.protect](/_protect/bio/People/Writer/Ancient_Writers/Divine_Comedy.protect.md) 
+### #is_/same_as :: [Divine_Comedy.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.protect.md) 
 
-### #is_/same_as :: [Divine_Comedy.private](/_private/bio/People/Writer/Ancient_Writers/Divine_Comedy.private.md) 
+### #is_/same_as :: [Divine_Comedy.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.private.md) 
 
-### #is_/same_as :: [Divine_Comedy.personal](/_personal/bio/People/Writer/Ancient_Writers/Divine_Comedy.personal.md) 
+### #is_/same_as :: [Divine_Comedy.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.personal.md) 
 
-### #is_/same_as :: [Divine_Comedy.secret](/_secret/bio/People/Writer/Ancient_Writers/Divine_Comedy.secret.md)
+### #is_/same_as :: [Divine_Comedy.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.secret.md)
 

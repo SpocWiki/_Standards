@@ -72,17 +72,17 @@ Commons_category: Bread
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bread](Bread.md) 
+### #is_/same_as :: [Bread](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread.md) 
 
-### #is_/same_as :: [Bread.public](/_public/Economics/Home_Economics/Cooking/Food/Bread.public.md) 
+### #is_/same_as :: [Bread.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Bread.public.md) 
 
-### #is_/same_as :: [Bread.internal](/_internal/Economics/Home_Economics/Cooking/Food/Bread.internal.md) 
+### #is_/same_as :: [Bread.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Bread.internal.md) 
 
-### #is_/same_as :: [Bread.protect](/_protect/Economics/Home_Economics/Cooking/Food/Bread.protect.md) 
+### #is_/same_as :: [Bread.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Bread.protect.md) 
 
-### #is_/same_as :: [Bread.private](/_private/Economics/Home_Economics/Cooking/Food/Bread.private.md) 
+### #is_/same_as :: [Bread.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Bread.private.md) 
 
-### #is_/same_as :: [Bread.personal](/_personal/Economics/Home_Economics/Cooking/Food/Bread.personal.md) 
+### #is_/same_as :: [Bread.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Bread.personal.md) 
 
-### #is_/same_as :: [Bread.secret](/_secret/Economics/Home_Economics/Cooking/Food/Bread.secret.md)
+### #is_/same_as :: [Bread.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Bread.secret.md)
 

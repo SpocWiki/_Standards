@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bolívar,Simón](Bolívar,Simón.md) 
+### #is_/same_as :: [Bolívar,Simón](/_Standards/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.md) 
 
-### #is_/same_as :: [Bolívar,Simón.public](/_public/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.public.md) 
+### #is_/same_as :: [Bolívar,Simón.public](/_public/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.public.md) 
 
-### #is_/same_as :: [Bolívar,Simón.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.internal.md) 
+### #is_/same_as :: [Bolívar,Simón.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.internal.md) 
 
-### #is_/same_as :: [Bolívar,Simón.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.protect.md) 
+### #is_/same_as :: [Bolívar,Simón.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.protect.md) 
 
-### #is_/same_as :: [Bolívar,Simón.private](/_private/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.private.md) 
+### #is_/same_as :: [Bolívar,Simón.private](/_private/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.private.md) 
 
-### #is_/same_as :: [Bolívar,Simón.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.personal.md) 
+### #is_/same_as :: [Bolívar,Simón.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.personal.md) 
 
-### #is_/same_as :: [Bolívar,Simón.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.secret.md)
+### #is_/same_as :: [Bolívar,Simón.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Bolívar,Simón.secret.md)
 

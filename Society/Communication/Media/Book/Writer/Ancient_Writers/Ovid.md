@@ -97,17 +97,17 @@ Royal_Academy_new_identifier: ovid
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ovid](Ovid.md) 
+### #is_/same_as :: [Ovid](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.md) 
 
-### #is_/same_as :: [Ovid.public](/_public/bio/People/Writer/Ancient_Writers/Ovid.public.md) 
+### #is_/same_as :: [Ovid.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.public.md) 
 
-### #is_/same_as :: [Ovid.internal](/_internal/bio/People/Writer/Ancient_Writers/Ovid.internal.md) 
+### #is_/same_as :: [Ovid.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.internal.md) 
 
-### #is_/same_as :: [Ovid.protect](/_protect/bio/People/Writer/Ancient_Writers/Ovid.protect.md) 
+### #is_/same_as :: [Ovid.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.protect.md) 
 
-### #is_/same_as :: [Ovid.private](/_private/bio/People/Writer/Ancient_Writers/Ovid.private.md) 
+### #is_/same_as :: [Ovid.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.private.md) 
 
-### #is_/same_as :: [Ovid.personal](/_personal/bio/People/Writer/Ancient_Writers/Ovid.personal.md) 
+### #is_/same_as :: [Ovid.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.personal.md) 
 
-### #is_/same_as :: [Ovid.secret](/_secret/bio/People/Writer/Ancient_Writers/Ovid.secret.md)
+### #is_/same_as :: [Ovid.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Ovid.secret.md)
 

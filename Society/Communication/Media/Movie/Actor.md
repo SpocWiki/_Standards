@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actor](Actor.md) 
+### #is_/same_as :: [Actor](/_Standards/Society/Communication/Media/Movie/Actor.md) 
 
-### #is_/same_as :: [Actor.public](/_public/bio/People/Actor.public.md) 
+### #is_/same_as :: [Actor.public](/_public/Society/Communication/Media/Movie/Actor.public.md) 
 
-### #is_/same_as :: [Actor.internal](/_internal/bio/People/Actor.internal.md) 
+### #is_/same_as :: [Actor.internal](/_internal/Society/Communication/Media/Movie/Actor.internal.md) 
 
-### #is_/same_as :: [Actor.protect](/_protect/bio/People/Actor.protect.md) 
+### #is_/same_as :: [Actor.protect](/_protect/Society/Communication/Media/Movie/Actor.protect.md) 
 
-### #is_/same_as :: [Actor.private](/_private/bio/People/Actor.private.md) 
+### #is_/same_as :: [Actor.private](/_private/Society/Communication/Media/Movie/Actor.private.md) 
 
-### #is_/same_as :: [Actor.personal](/_personal/bio/People/Actor.personal.md) 
+### #is_/same_as :: [Actor.personal](/_personal/Society/Communication/Media/Movie/Actor.personal.md) 
 
-### #is_/same_as :: [Actor.secret](/_secret/bio/People/Actor.secret.md)
+### #is_/same_as :: [Actor.secret](/_secret/Society/Communication/Media/Movie/Actor.secret.md)
 

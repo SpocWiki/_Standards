@@ -82,17 +82,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merkel,Angela](Merkel,Angela.md) 
+### #is_/same_as :: [Merkel,Angela](/_Standards/Society/Government/Leader/Modern_Leaders/Merkel,Angela.md) 
 
-### #is_/same_as :: [Merkel,Angela.public](/_public/bio/People/Leader/Modern_Leaders/Merkel,Angela.public.md) 
+### #is_/same_as :: [Merkel,Angela.public](/_public/Society/Government/Leader/Modern_Leaders/Merkel,Angela.public.md) 
 
-### #is_/same_as :: [Merkel,Angela.internal](/_internal/bio/People/Leader/Modern_Leaders/Merkel,Angela.internal.md) 
+### #is_/same_as :: [Merkel,Angela.internal](/_internal/Society/Government/Leader/Modern_Leaders/Merkel,Angela.internal.md) 
 
-### #is_/same_as :: [Merkel,Angela.protect](/_protect/bio/People/Leader/Modern_Leaders/Merkel,Angela.protect.md) 
+### #is_/same_as :: [Merkel,Angela.protect](/_protect/Society/Government/Leader/Modern_Leaders/Merkel,Angela.protect.md) 
 
-### #is_/same_as :: [Merkel,Angela.private](/_private/bio/People/Leader/Modern_Leaders/Merkel,Angela.private.md) 
+### #is_/same_as :: [Merkel,Angela.private](/_private/Society/Government/Leader/Modern_Leaders/Merkel,Angela.private.md) 
 
-### #is_/same_as :: [Merkel,Angela.personal](/_personal/bio/People/Leader/Modern_Leaders/Merkel,Angela.personal.md) 
+### #is_/same_as :: [Merkel,Angela.personal](/_personal/Society/Government/Leader/Modern_Leaders/Merkel,Angela.personal.md) 
 
-### #is_/same_as :: [Merkel,Angela.secret](/_secret/bio/People/Leader/Modern_Leaders/Merkel,Angela.secret.md)
+### #is_/same_as :: [Merkel,Angela.secret](/_secret/Society/Government/Leader/Modern_Leaders/Merkel,Angela.secret.md)
 

@@ -141,17 +141,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inconnu%20d%27apr%C3%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peter_the_Great](Peter_the_Great.md) 
+### #is_/same_as :: [Peter_the_Great](/_Standards/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.md) 
 
-### #is_/same_as :: [Peter_the_Great.public](/_public/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.public.md) 
+### #is_/same_as :: [Peter_the_Great.public](/_public/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.public.md) 
 
-### #is_/same_as :: [Peter_the_Great.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.internal.md) 
+### #is_/same_as :: [Peter_the_Great.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.internal.md) 
 
-### #is_/same_as :: [Peter_the_Great.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.protect.md) 
+### #is_/same_as :: [Peter_the_Great.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.protect.md) 
 
-### #is_/same_as :: [Peter_the_Great.private](/_private/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.private.md) 
+### #is_/same_as :: [Peter_the_Great.private](/_private/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.private.md) 
 
-### #is_/same_as :: [Peter_the_Great.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.personal.md) 
+### #is_/same_as :: [Peter_the_Great.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.personal.md) 
 
-### #is_/same_as :: [Peter_the_Great.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.secret.md)
+### #is_/same_as :: [Peter_the_Great.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.secret.md)
 

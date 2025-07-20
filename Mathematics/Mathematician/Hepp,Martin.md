@@ -14,17 +14,17 @@ Fax: +49-89-6004-4620
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hepp,Martin](Hepp,Martin.md) 
+### #is_/same_as :: [Hepp,Martin](/_Standards/Mathematics/Mathematician/Hepp,Martin.md) 
 
-### #is_/same_as :: [Hepp,Martin.public](/_public/bio/People/Mathematician/Hepp,Martin.public.md) 
+### #is_/same_as :: [Hepp,Martin.public](/_public/Mathematics/Mathematician/Hepp,Martin.public.md) 
 
-### #is_/same_as :: [Hepp,Martin.internal](/_internal/bio/People/Mathematician/Hepp,Martin.internal.md) 
+### #is_/same_as :: [Hepp,Martin.internal](/_internal/Mathematics/Mathematician/Hepp,Martin.internal.md) 
 
-### #is_/same_as :: [Hepp,Martin.protect](/_protect/bio/People/Mathematician/Hepp,Martin.protect.md) 
+### #is_/same_as :: [Hepp,Martin.protect](/_protect/Mathematics/Mathematician/Hepp,Martin.protect.md) 
 
-### #is_/same_as :: [Hepp,Martin.private](/_private/bio/People/Mathematician/Hepp,Martin.private.md) 
+### #is_/same_as :: [Hepp,Martin.private](/_private/Mathematics/Mathematician/Hepp,Martin.private.md) 
 
-### #is_/same_as :: [Hepp,Martin.personal](/_personal/bio/People/Mathematician/Hepp,Martin.personal.md) 
+### #is_/same_as :: [Hepp,Martin.personal](/_personal/Mathematics/Mathematician/Hepp,Martin.personal.md) 
 
-### #is_/same_as :: [Hepp,Martin.secret](/_secret/bio/People/Mathematician/Hepp,Martin.secret.md)
+### #is_/same_as :: [Hepp,Martin.secret](/_secret/Mathematics/Mathematician/Hepp,Martin.secret.md)
 

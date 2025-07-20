@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jamaica_Accords](Jamaica_Accords.md) 
+### #is_/same_as :: [Jamaica_Accords](/_Standards/Society/Economics/Currency/Jamaica_Accords.md) 
 
-### #is_/same_as :: [Jamaica_Accords.public](/_public/Economics/Currency/Jamaica_Accords.public.md) 
+### #is_/same_as :: [Jamaica_Accords.public](/_public/Society/Economics/Currency/Jamaica_Accords.public.md) 
 
-### #is_/same_as :: [Jamaica_Accords.internal](/_internal/Economics/Currency/Jamaica_Accords.internal.md) 
+### #is_/same_as :: [Jamaica_Accords.internal](/_internal/Society/Economics/Currency/Jamaica_Accords.internal.md) 
 
-### #is_/same_as :: [Jamaica_Accords.protect](/_protect/Economics/Currency/Jamaica_Accords.protect.md) 
+### #is_/same_as :: [Jamaica_Accords.protect](/_protect/Society/Economics/Currency/Jamaica_Accords.protect.md) 
 
-### #is_/same_as :: [Jamaica_Accords.private](/_private/Economics/Currency/Jamaica_Accords.private.md) 
+### #is_/same_as :: [Jamaica_Accords.private](/_private/Society/Economics/Currency/Jamaica_Accords.private.md) 
 
-### #is_/same_as :: [Jamaica_Accords.personal](/_personal/Economics/Currency/Jamaica_Accords.personal.md) 
+### #is_/same_as :: [Jamaica_Accords.personal](/_personal/Society/Economics/Currency/Jamaica_Accords.personal.md) 
 
-### #is_/same_as :: [Jamaica_Accords.secret](/_secret/Economics/Currency/Jamaica_Accords.secret.md)
+### #is_/same_as :: [Jamaica_Accords.secret](/_secret/Society/Economics/Currency/Jamaica_Accords.secret.md)
 

@@ -217,17 +217,17 @@ Commons_category: "Ernest Rutherford"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rutherford,Ernest](Rutherford,Ernest.md) 
+### #is_/same_as :: [Rutherford,Ernest](/_Standards/Science/Scientist/Modern_Scientists/Rutherford,Ernest.md) 
 
-### #is_/same_as :: [Rutherford,Ernest.public](/_public/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.public.md) 
+### #is_/same_as :: [Rutherford,Ernest.public](/_public/Science/Scientist/Modern_Scientists/Rutherford,Ernest.public.md) 
 
-### #is_/same_as :: [Rutherford,Ernest.internal](/_internal/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.internal.md) 
+### #is_/same_as :: [Rutherford,Ernest.internal](/_internal/Science/Scientist/Modern_Scientists/Rutherford,Ernest.internal.md) 
 
-### #is_/same_as :: [Rutherford,Ernest.protect](/_protect/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.protect.md) 
+### #is_/same_as :: [Rutherford,Ernest.protect](/_protect/Science/Scientist/Modern_Scientists/Rutherford,Ernest.protect.md) 
 
-### #is_/same_as :: [Rutherford,Ernest.private](/_private/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.private.md) 
+### #is_/same_as :: [Rutherford,Ernest.private](/_private/Science/Scientist/Modern_Scientists/Rutherford,Ernest.private.md) 
 
-### #is_/same_as :: [Rutherford,Ernest.personal](/_personal/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.personal.md) 
+### #is_/same_as :: [Rutherford,Ernest.personal](/_personal/Science/Scientist/Modern_Scientists/Rutherford,Ernest.personal.md) 
 
-### #is_/same_as :: [Rutherford,Ernest.secret](/_secret/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.secret.md)
+### #is_/same_as :: [Rutherford,Ernest.secret](/_secret/Science/Scientist/Modern_Scientists/Rutherford,Ernest.secret.md)
 

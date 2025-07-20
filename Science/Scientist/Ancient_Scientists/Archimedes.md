@@ -142,17 +142,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archimedes](Archimedes.md) 
+### #is_/same_as :: [Archimedes](/_Standards/Science/Scientist/Ancient_Scientists/Archimedes.md) 
 
-### #is_/same_as :: [Archimedes.public](/_public/bio/People/Scientist/Ancient_Scientists/Archimedes.public.md) 
+### #is_/same_as :: [Archimedes.public](/_public/Science/Scientist/Ancient_Scientists/Archimedes.public.md) 
 
-### #is_/same_as :: [Archimedes.internal](/_internal/bio/People/Scientist/Ancient_Scientists/Archimedes.internal.md) 
+### #is_/same_as :: [Archimedes.internal](/_internal/Science/Scientist/Ancient_Scientists/Archimedes.internal.md) 
 
-### #is_/same_as :: [Archimedes.protect](/_protect/bio/People/Scientist/Ancient_Scientists/Archimedes.protect.md) 
+### #is_/same_as :: [Archimedes.protect](/_protect/Science/Scientist/Ancient_Scientists/Archimedes.protect.md) 
 
-### #is_/same_as :: [Archimedes.private](/_private/bio/People/Scientist/Ancient_Scientists/Archimedes.private.md) 
+### #is_/same_as :: [Archimedes.private](/_private/Science/Scientist/Ancient_Scientists/Archimedes.private.md) 
 
-### #is_/same_as :: [Archimedes.personal](/_personal/bio/People/Scientist/Ancient_Scientists/Archimedes.personal.md) 
+### #is_/same_as :: [Archimedes.personal](/_personal/Science/Scientist/Ancient_Scientists/Archimedes.personal.md) 
 
-### #is_/same_as :: [Archimedes.secret](/_secret/bio/People/Scientist/Ancient_Scientists/Archimedes.secret.md)
+### #is_/same_as :: [Archimedes.secret](/_secret/Science/Scientist/Ancient_Scientists/Archimedes.secret.md)
 

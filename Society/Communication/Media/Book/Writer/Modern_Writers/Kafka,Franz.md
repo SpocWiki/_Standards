@@ -181,17 +181,17 @@ work_period_start_: "1904"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kafka,Franz](Kafka,Franz.md) 
+### #is_/same_as :: [Kafka,Franz](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.md) 
 
-### #is_/same_as :: [Kafka,Franz.public](/_public/bio/People/Writer/Modern_Writers/Kafka,Franz.public.md) 
+### #is_/same_as :: [Kafka,Franz.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.public.md) 
 
-### #is_/same_as :: [Kafka,Franz.internal](/_internal/bio/People/Writer/Modern_Writers/Kafka,Franz.internal.md) 
+### #is_/same_as :: [Kafka,Franz.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.internal.md) 
 
-### #is_/same_as :: [Kafka,Franz.protect](/_protect/bio/People/Writer/Modern_Writers/Kafka,Franz.protect.md) 
+### #is_/same_as :: [Kafka,Franz.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.protect.md) 
 
-### #is_/same_as :: [Kafka,Franz.private](/_private/bio/People/Writer/Modern_Writers/Kafka,Franz.private.md) 
+### #is_/same_as :: [Kafka,Franz.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.private.md) 
 
-### #is_/same_as :: [Kafka,Franz.personal](/_personal/bio/People/Writer/Modern_Writers/Kafka,Franz.personal.md) 
+### #is_/same_as :: [Kafka,Franz.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.personal.md) 
 
-### #is_/same_as :: [Kafka,Franz.secret](/_secret/bio/People/Writer/Modern_Writers/Kafka,Franz.secret.md)
+### #is_/same_as :: [Kafka,Franz.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.secret.md)
 

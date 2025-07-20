@@ -225,17 +225,17 @@ Regensburg_Classification: "UB 2580"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermi,Enrico](Fermi,Enrico.md) 
+### #is_/same_as :: [Fermi,Enrico](/_Standards/Science/Scientist/Modern_Scientists/Fermi,Enrico.md) 
 
-### #is_/same_as :: [Fermi,Enrico.public](/_public/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.public.md) 
+### #is_/same_as :: [Fermi,Enrico.public](/_public/Science/Scientist/Modern_Scientists/Fermi,Enrico.public.md) 
 
-### #is_/same_as :: [Fermi,Enrico.internal](/_internal/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.internal.md) 
+### #is_/same_as :: [Fermi,Enrico.internal](/_internal/Science/Scientist/Modern_Scientists/Fermi,Enrico.internal.md) 
 
-### #is_/same_as :: [Fermi,Enrico.protect](/_protect/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.protect.md) 
+### #is_/same_as :: [Fermi,Enrico.protect](/_protect/Science/Scientist/Modern_Scientists/Fermi,Enrico.protect.md) 
 
-### #is_/same_as :: [Fermi,Enrico.private](/_private/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.private.md) 
+### #is_/same_as :: [Fermi,Enrico.private](/_private/Science/Scientist/Modern_Scientists/Fermi,Enrico.private.md) 
 
-### #is_/same_as :: [Fermi,Enrico.personal](/_personal/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.personal.md) 
+### #is_/same_as :: [Fermi,Enrico.personal](/_personal/Science/Scientist/Modern_Scientists/Fermi,Enrico.personal.md) 
 
-### #is_/same_as :: [Fermi,Enrico.secret](/_secret/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.secret.md)
+### #is_/same_as :: [Fermi,Enrico.secret](/_secret/Science/Scientist/Modern_Scientists/Fermi,Enrico.secret.md)
 

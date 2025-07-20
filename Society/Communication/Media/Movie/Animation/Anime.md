@@ -33,17 +33,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anime](Anime.md) 
+### #is_/same_as :: [Anime](/_Standards/Society/Communication/Media/Movie/Animation/Anime.md) 
 
-### #is_/same_as :: [Anime.public](/_public/Society/Communication/Media/Film/Animation/Anime.public.md) 
+### #is_/same_as :: [Anime.public](/_public/Society/Communication/Media/Movie/Animation/Anime.public.md) 
 
-### #is_/same_as :: [Anime.internal](/_internal/Society/Communication/Media/Film/Animation/Anime.internal.md) 
+### #is_/same_as :: [Anime.internal](/_internal/Society/Communication/Media/Movie/Animation/Anime.internal.md) 
 
-### #is_/same_as :: [Anime.protect](/_protect/Society/Communication/Media/Film/Animation/Anime.protect.md) 
+### #is_/same_as :: [Anime.protect](/_protect/Society/Communication/Media/Movie/Animation/Anime.protect.md) 
 
-### #is_/same_as :: [Anime.private](/_private/Society/Communication/Media/Film/Animation/Anime.private.md) 
+### #is_/same_as :: [Anime.private](/_private/Society/Communication/Media/Movie/Animation/Anime.private.md) 
 
-### #is_/same_as :: [Anime.personal](/_personal/Society/Communication/Media/Film/Animation/Anime.personal.md) 
+### #is_/same_as :: [Anime.personal](/_personal/Society/Communication/Media/Movie/Animation/Anime.personal.md) 
 
-### #is_/same_as :: [Anime.secret](/_secret/Society/Communication/Media/Film/Animation/Anime.secret.md)
+### #is_/same_as :: [Anime.secret](/_secret/Society/Communication/Media/Movie/Animation/Anime.secret.md)
 

@@ -59,17 +59,17 @@ Colon_Classification: X61
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Currency](Currency.md) 
+### #is_/same_as :: [Currency](/_Standards/Society/Economics/Currency.md) 
 
-### #is_/same_as :: [Currency.public](/_public/Economics/Currency.public.md) 
+### #is_/same_as :: [Currency.public](/_public/Society/Economics/Currency.public.md) 
 
-### #is_/same_as :: [Currency.internal](/_internal/Economics/Currency.internal.md) 
+### #is_/same_as :: [Currency.internal](/_internal/Society/Economics/Currency.internal.md) 
 
-### #is_/same_as :: [Currency.protect](/_protect/Economics/Currency.protect.md) 
+### #is_/same_as :: [Currency.protect](/_protect/Society/Economics/Currency.protect.md) 
 
-### #is_/same_as :: [Currency.private](/_private/Economics/Currency.private.md) 
+### #is_/same_as :: [Currency.private](/_private/Society/Economics/Currency.private.md) 
 
-### #is_/same_as :: [Currency.personal](/_personal/Economics/Currency.personal.md) 
+### #is_/same_as :: [Currency.personal](/_personal/Society/Economics/Currency.personal.md) 
 
-### #is_/same_as :: [Currency.secret](/_secret/Economics/Currency.secret.md)
+### #is_/same_as :: [Currency.secret](/_secret/Society/Economics/Currency.secret.md)
 

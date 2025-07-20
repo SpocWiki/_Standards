@@ -72,17 +72,17 @@ water_footprint: 17196
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chocolate](Chocolate.md) 
+### #is_/same_as :: [Chocolate](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.md) 
 
-### #is_/same_as :: [Chocolate.public](/_public/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.public.md) 
+### #is_/same_as :: [Chocolate.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.public.md) 
 
-### #is_/same_as :: [Chocolate.internal](/_internal/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.internal.md) 
+### #is_/same_as :: [Chocolate.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.internal.md) 
 
-### #is_/same_as :: [Chocolate.protect](/_protect/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.protect.md) 
+### #is_/same_as :: [Chocolate.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.protect.md) 
 
-### #is_/same_as :: [Chocolate.private](/_private/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.private.md) 
+### #is_/same_as :: [Chocolate.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.private.md) 
 
-### #is_/same_as :: [Chocolate.personal](/_personal/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.personal.md) 
+### #is_/same_as :: [Chocolate.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.personal.md) 
 
-### #is_/same_as :: [Chocolate.secret](/_secret/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.secret.md)
+### #is_/same_as :: [Chocolate.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy/Chocolate.secret.md)
 

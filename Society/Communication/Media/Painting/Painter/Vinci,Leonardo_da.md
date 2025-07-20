@@ -267,17 +267,17 @@ instance_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vinci,Leonardo_da](Vinci,Leonardo_da.md) 
+### #is_/same_as :: [Vinci,Leonardo_da](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.md) 
 
-### #is_/same_as :: [Vinci,Leonardo_da.public](/_public/bio/People/Painter/Vinci,Leonardo_da.public.md) 
+### #is_/same_as :: [Vinci,Leonardo_da.public](/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.public.md) 
 
-### #is_/same_as :: [Vinci,Leonardo_da.internal](/_internal/bio/People/Painter/Vinci,Leonardo_da.internal.md) 
+### #is_/same_as :: [Vinci,Leonardo_da.internal](/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.internal.md) 
 
-### #is_/same_as :: [Vinci,Leonardo_da.protect](/_protect/bio/People/Painter/Vinci,Leonardo_da.protect.md) 
+### #is_/same_as :: [Vinci,Leonardo_da.protect](/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.protect.md) 
 
-### #is_/same_as :: [Vinci,Leonardo_da.private](/_private/bio/People/Painter/Vinci,Leonardo_da.private.md) 
+### #is_/same_as :: [Vinci,Leonardo_da.private](/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.private.md) 
 
-### #is_/same_as :: [Vinci,Leonardo_da.personal](/_personal/bio/People/Painter/Vinci,Leonardo_da.personal.md) 
+### #is_/same_as :: [Vinci,Leonardo_da.personal](/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.personal.md) 
 
-### #is_/same_as :: [Vinci,Leonardo_da.secret](/_secret/bio/People/Painter/Vinci,Leonardo_da.secret.md)
+### #is_/same_as :: [Vinci,Leonardo_da.secret](/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.secret.md)
 

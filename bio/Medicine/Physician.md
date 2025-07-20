@@ -18,3 +18,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Physician](/_Standards/bio/Medicine/Physician.md) 
+
+### #is_/same_as :: [Physician.public](/_public/bio/Medicine/Physician.public.md) 
+
+### #is_/same_as :: [Physician.internal](/_internal/bio/Medicine/Physician.internal.md) 
+
+### #is_/same_as :: [Physician.protect](/_protect/bio/Medicine/Physician.protect.md) 
+
+### #is_/same_as :: [Physician.private](/_private/bio/Medicine/Physician.private.md) 
+
+### #is_/same_as :: [Physician.personal](/_personal/bio/Medicine/Physician.personal.md) 
+
+### #is_/same_as :: [Physician.secret](/_secret/bio/Medicine/Physician.secret.md)
+

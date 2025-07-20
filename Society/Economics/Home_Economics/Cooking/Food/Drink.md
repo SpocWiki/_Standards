@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drink](Drink.md) 
+### #is_/same_as :: [Drink](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink.md) 
 
-### #is_/same_as :: [Drink.public](/_public/Economics/Home_Economics/Cooking/Food/Drink.public.md) 
+### #is_/same_as :: [Drink.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink.public.md) 
 
-### #is_/same_as :: [Drink.internal](/_internal/Economics/Home_Economics/Cooking/Food/Drink.internal.md) 
+### #is_/same_as :: [Drink.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink.internal.md) 
 
-### #is_/same_as :: [Drink.protect](/_protect/Economics/Home_Economics/Cooking/Food/Drink.protect.md) 
+### #is_/same_as :: [Drink.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink.protect.md) 
 
-### #is_/same_as :: [Drink.private](/_private/Economics/Home_Economics/Cooking/Food/Drink.private.md) 
+### #is_/same_as :: [Drink.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink.private.md) 
 
-### #is_/same_as :: [Drink.personal](/_personal/Economics/Home_Economics/Cooking/Food/Drink.personal.md) 
+### #is_/same_as :: [Drink.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink.personal.md) 
 
-### #is_/same_as :: [Drink.secret](/_secret/Economics/Home_Economics/Cooking/Food/Drink.secret.md)
+### #is_/same_as :: [Drink.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink.secret.md)
 

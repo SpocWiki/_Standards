@@ -12,17 +12,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Composer](Composer.md) 
+### #is_/same_as :: [Composer](/_Standards/Society/Communication/Media/Music/Composer.md) 
 
-### #is_/same_as :: [Composer.public](/_public/bio/People/Composer.public.md) 
+### #is_/same_as :: [Composer.public](/_public/Society/Communication/Media/Music/Composer.public.md) 
 
-### #is_/same_as :: [Composer.internal](/_internal/bio/People/Composer.internal.md) 
+### #is_/same_as :: [Composer.internal](/_internal/Society/Communication/Media/Music/Composer.internal.md) 
 
-### #is_/same_as :: [Composer.protect](/_protect/bio/People/Composer.protect.md) 
+### #is_/same_as :: [Composer.protect](/_protect/Society/Communication/Media/Music/Composer.protect.md) 
 
-### #is_/same_as :: [Composer.private](/_private/bio/People/Composer.private.md) 
+### #is_/same_as :: [Composer.private](/_private/Society/Communication/Media/Music/Composer.private.md) 
 
-### #is_/same_as :: [Composer.personal](/_personal/bio/People/Composer.personal.md) 
+### #is_/same_as :: [Composer.personal](/_personal/Society/Communication/Media/Music/Composer.personal.md) 
 
-### #is_/same_as :: [Composer.secret](/_secret/bio/People/Composer.secret.md)
+### #is_/same_as :: [Composer.secret](/_secret/Society/Communication/Media/Music/Composer.secret.md)
 

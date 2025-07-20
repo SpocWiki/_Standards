@@ -198,17 +198,17 @@ generational_suffix: L252247-F2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [King,Martin_Luther](King,Martin_Luther.md) 
+### #is_/same_as :: [King,Martin_Luther](/_Standards/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.md) 
 
-### #is_/same_as :: [King,Martin_Luther.public](/_public/bio/People/Leader/Modern_Leaders/King,Martin_Luther.public.md) 
+### #is_/same_as :: [King,Martin_Luther.public](/_public/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.public.md) 
 
-### #is_/same_as :: [King,Martin_Luther.internal](/_internal/bio/People/Leader/Modern_Leaders/King,Martin_Luther.internal.md) 
+### #is_/same_as :: [King,Martin_Luther.internal](/_internal/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.internal.md) 
 
-### #is_/same_as :: [King,Martin_Luther.protect](/_protect/bio/People/Leader/Modern_Leaders/King,Martin_Luther.protect.md) 
+### #is_/same_as :: [King,Martin_Luther.protect](/_protect/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.protect.md) 
 
-### #is_/same_as :: [King,Martin_Luther.private](/_private/bio/People/Leader/Modern_Leaders/King,Martin_Luther.private.md) 
+### #is_/same_as :: [King,Martin_Luther.private](/_private/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.private.md) 
 
-### #is_/same_as :: [King,Martin_Luther.personal](/_personal/bio/People/Leader/Modern_Leaders/King,Martin_Luther.personal.md) 
+### #is_/same_as :: [King,Martin_Luther.personal](/_personal/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.personal.md) 
 
-### #is_/same_as :: [King,Martin_Luther.secret](/_secret/bio/People/Leader/Modern_Leaders/King,Martin_Luther.secret.md)
+### #is_/same_as :: [King,Martin_Luther.secret](/_secret/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.secret.md)
 

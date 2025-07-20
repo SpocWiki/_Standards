@@ -189,17 +189,17 @@ BHCL_UUID: 81882891-c142-4d01-80eb-439af11c9c73
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mandela,Nelson](Mandela,Nelson.md) 
+### #is_/same_as :: [Mandela,Nelson](/_Standards/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.md) 
 
-### #is_/same_as :: [Mandela,Nelson.public](/_public/bio/People/Leader/Modern_Leaders/Mandela,Nelson.public.md) 
+### #is_/same_as :: [Mandela,Nelson.public](/_public/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.public.md) 
 
-### #is_/same_as :: [Mandela,Nelson.internal](/_internal/bio/People/Leader/Modern_Leaders/Mandela,Nelson.internal.md) 
+### #is_/same_as :: [Mandela,Nelson.internal](/_internal/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.internal.md) 
 
-### #is_/same_as :: [Mandela,Nelson.protect](/_protect/bio/People/Leader/Modern_Leaders/Mandela,Nelson.protect.md) 
+### #is_/same_as :: [Mandela,Nelson.protect](/_protect/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.protect.md) 
 
-### #is_/same_as :: [Mandela,Nelson.private](/_private/bio/People/Leader/Modern_Leaders/Mandela,Nelson.private.md) 
+### #is_/same_as :: [Mandela,Nelson.private](/_private/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.private.md) 
 
-### #is_/same_as :: [Mandela,Nelson.personal](/_personal/bio/People/Leader/Modern_Leaders/Mandela,Nelson.personal.md) 
+### #is_/same_as :: [Mandela,Nelson.personal](/_personal/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.personal.md) 
 
-### #is_/same_as :: [Mandela,Nelson.secret](/_secret/bio/People/Leader/Modern_Leaders/Mandela,Nelson.secret.md)
+### #is_/same_as :: [Mandela,Nelson.secret](/_secret/Society/Government/Leader/Modern_Leaders/Mandela,Nelson.secret.md)
 

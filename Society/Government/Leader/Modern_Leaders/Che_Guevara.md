@@ -169,17 +169,17 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"CheGuevara::95v73\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Che_Guevara](Che_Guevara.md) 
+### #is_/same_as :: [Che_Guevara](/_Standards/Society/Government/Leader/Modern_Leaders/Che_Guevara.md) 
 
-### #is_/same_as :: [Che_Guevara.public](/_public/bio/People/Leader/Modern_Leaders/Che_Guevara.public.md) 
+### #is_/same_as :: [Che_Guevara.public](/_public/Society/Government/Leader/Modern_Leaders/Che_Guevara.public.md) 
 
-### #is_/same_as :: [Che_Guevara.internal](/_internal/bio/People/Leader/Modern_Leaders/Che_Guevara.internal.md) 
+### #is_/same_as :: [Che_Guevara.internal](/_internal/Society/Government/Leader/Modern_Leaders/Che_Guevara.internal.md) 
 
-### #is_/same_as :: [Che_Guevara.protect](/_protect/bio/People/Leader/Modern_Leaders/Che_Guevara.protect.md) 
+### #is_/same_as :: [Che_Guevara.protect](/_protect/Society/Government/Leader/Modern_Leaders/Che_Guevara.protect.md) 
 
-### #is_/same_as :: [Che_Guevara.private](/_private/bio/People/Leader/Modern_Leaders/Che_Guevara.private.md) 
+### #is_/same_as :: [Che_Guevara.private](/_private/Society/Government/Leader/Modern_Leaders/Che_Guevara.private.md) 
 
-### #is_/same_as :: [Che_Guevara.personal](/_personal/bio/People/Leader/Modern_Leaders/Che_Guevara.personal.md) 
+### #is_/same_as :: [Che_Guevara.personal](/_personal/Society/Government/Leader/Modern_Leaders/Che_Guevara.personal.md) 
 
-### #is_/same_as :: [Che_Guevara.secret](/_secret/bio/People/Leader/Modern_Leaders/Che_Guevara.secret.md)
+### #is_/same_as :: [Che_Guevara.secret](/_secret/Society/Government/Leader/Modern_Leaders/Che_Guevara.secret.md)
 

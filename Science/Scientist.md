@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scientist](Scientist.md) 
+### #is_/same_as :: [Scientist](/_Standards/Science/Scientist.md) 
 
-### #is_/same_as :: [Scientist.public](/_public/bio/People/Scientist.public.md) 
+### #is_/same_as :: [Scientist.public](/_public/Science/Scientist.public.md) 
 
-### #is_/same_as :: [Scientist.internal](/_internal/bio/People/Scientist.internal.md) 
+### #is_/same_as :: [Scientist.internal](/_internal/Science/Scientist.internal.md) 
 
-### #is_/same_as :: [Scientist.protect](/_protect/bio/People/Scientist.protect.md) 
+### #is_/same_as :: [Scientist.protect](/_protect/Science/Scientist.protect.md) 
 
-### #is_/same_as :: [Scientist.private](/_private/bio/People/Scientist.private.md) 
+### #is_/same_as :: [Scientist.private](/_private/Science/Scientist.private.md) 
 
-### #is_/same_as :: [Scientist.personal](/_personal/bio/People/Scientist.personal.md) 
+### #is_/same_as :: [Scientist.personal](/_personal/Science/Scientist.personal.md) 
 
-### #is_/same_as :: [Scientist.secret](/_secret/bio/People/Scientist.secret.md)
+### #is_/same_as :: [Scientist.secret](/_secret/Science/Scientist.secret.md)
 

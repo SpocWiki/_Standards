@@ -45,17 +45,17 @@ MeSH_tree_code: J01.040.044
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irrigation](Irrigation.md) 
+### #is_/same_as :: [Irrigation](/_Standards/Society/Economics/Industry/Agriculture/Irrigation.md) 
 
-### #is_/same_as :: [Irrigation.public](/_public/Economics/Industry/Agriculture/Irrigation.public.md) 
+### #is_/same_as :: [Irrigation.public](/_public/Society/Economics/Industry/Agriculture/Irrigation.public.md) 
 
-### #is_/same_as :: [Irrigation.internal](/_internal/Economics/Industry/Agriculture/Irrigation.internal.md) 
+### #is_/same_as :: [Irrigation.internal](/_internal/Society/Economics/Industry/Agriculture/Irrigation.internal.md) 
 
-### #is_/same_as :: [Irrigation.protect](/_protect/Economics/Industry/Agriculture/Irrigation.protect.md) 
+### #is_/same_as :: [Irrigation.protect](/_protect/Society/Economics/Industry/Agriculture/Irrigation.protect.md) 
 
-### #is_/same_as :: [Irrigation.private](/_private/Economics/Industry/Agriculture/Irrigation.private.md) 
+### #is_/same_as :: [Irrigation.private](/_private/Society/Economics/Industry/Agriculture/Irrigation.private.md) 
 
-### #is_/same_as :: [Irrigation.personal](/_personal/Economics/Industry/Agriculture/Irrigation.personal.md) 
+### #is_/same_as :: [Irrigation.personal](/_personal/Society/Economics/Industry/Agriculture/Irrigation.personal.md) 
 
-### #is_/same_as :: [Irrigation.secret](/_secret/Economics/Industry/Agriculture/Irrigation.secret.md)
+### #is_/same_as :: [Irrigation.secret](/_secret/Society/Economics/Industry/Agriculture/Irrigation.secret.md)
 

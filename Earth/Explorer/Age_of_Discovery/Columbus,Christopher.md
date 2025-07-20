@@ -38,17 +38,17 @@ has_id_wikidata: Q7322
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Columbus,Christopher](Columbus,Christopher.md) 
+### #is_/same_as :: [Columbus,Christopher](/_Standards/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.md) 
 
-### #is_/same_as :: [Columbus,Christopher.public](/_public/bio/People/Explorer/Age_of_Discovery/Columbus,Christopher.public.md) 
+### #is_/same_as :: [Columbus,Christopher.public](/_public/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.public.md) 
 
-### #is_/same_as :: [Columbus,Christopher.internal](/_internal/bio/People/Explorer/Age_of_Discovery/Columbus,Christopher.internal.md) 
+### #is_/same_as :: [Columbus,Christopher.internal](/_internal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.internal.md) 
 
-### #is_/same_as :: [Columbus,Christopher.protect](/_protect/bio/People/Explorer/Age_of_Discovery/Columbus,Christopher.protect.md) 
+### #is_/same_as :: [Columbus,Christopher.protect](/_protect/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.protect.md) 
 
-### #is_/same_as :: [Columbus,Christopher.private](/_private/bio/People/Explorer/Age_of_Discovery/Columbus,Christopher.private.md) 
+### #is_/same_as :: [Columbus,Christopher.private](/_private/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.private.md) 
 
-### #is_/same_as :: [Columbus,Christopher.personal](/_personal/bio/People/Explorer/Age_of_Discovery/Columbus,Christopher.personal.md) 
+### #is_/same_as :: [Columbus,Christopher.personal](/_personal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.personal.md) 
 
-### #is_/same_as :: [Columbus,Christopher.secret](/_secret/bio/People/Explorer/Age_of_Discovery/Columbus,Christopher.secret.md)
+### #is_/same_as :: [Columbus,Christopher.secret](/_secret/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.secret.md)
 

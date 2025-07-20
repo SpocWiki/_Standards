@@ -301,17 +301,17 @@ ethnic_group:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raphael](Raphael.md) 
+### #is_/same_as :: [Raphael](/_Standards/Society/Communication/Media/Painting/Painter/Raphael.md) 
 
-### #is_/same_as :: [Raphael.public](/_public/bio/People/Painter/Raphael.public.md) 
+### #is_/same_as :: [Raphael.public](/_public/Society/Communication/Media/Painting/Painter/Raphael.public.md) 
 
-### #is_/same_as :: [Raphael.internal](/_internal/bio/People/Painter/Raphael.internal.md) 
+### #is_/same_as :: [Raphael.internal](/_internal/Society/Communication/Media/Painting/Painter/Raphael.internal.md) 
 
-### #is_/same_as :: [Raphael.protect](/_protect/bio/People/Painter/Raphael.protect.md) 
+### #is_/same_as :: [Raphael.protect](/_protect/Society/Communication/Media/Painting/Painter/Raphael.protect.md) 
 
-### #is_/same_as :: [Raphael.private](/_private/bio/People/Painter/Raphael.private.md) 
+### #is_/same_as :: [Raphael.private](/_private/Society/Communication/Media/Painting/Painter/Raphael.private.md) 
 
-### #is_/same_as :: [Raphael.personal](/_personal/bio/People/Painter/Raphael.personal.md) 
+### #is_/same_as :: [Raphael.personal](/_personal/Society/Communication/Media/Painting/Painter/Raphael.personal.md) 
 
-### #is_/same_as :: [Raphael.secret](/_secret/bio/People/Painter/Raphael.secret.md)
+### #is_/same_as :: [Raphael.secret](/_secret/Society/Communication/Media/Painting/Painter/Raphael.secret.md)
 

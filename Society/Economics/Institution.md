@@ -27,17 +27,17 @@ Education
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Institution](Institution.md) 
+### #is_/same_as :: [Institution](/_Standards/Society/Economics/Institution.md) 
 
-### #is_/same_as :: [Institution.public](/_public/Economics/Institution.public.md) 
+### #is_/same_as :: [Institution.public](/_public/Society/Economics/Institution.public.md) 
 
-### #is_/same_as :: [Institution.internal](/_internal/Economics/Institution.internal.md) 
+### #is_/same_as :: [Institution.internal](/_internal/Society/Economics/Institution.internal.md) 
 
-### #is_/same_as :: [Institution.protect](/_protect/Economics/Institution.protect.md) 
+### #is_/same_as :: [Institution.protect](/_protect/Society/Economics/Institution.protect.md) 
 
-### #is_/same_as :: [Institution.private](/_private/Economics/Institution.private.md) 
+### #is_/same_as :: [Institution.private](/_private/Society/Economics/Institution.private.md) 
 
-### #is_/same_as :: [Institution.personal](/_personal/Economics/Institution.personal.md) 
+### #is_/same_as :: [Institution.personal](/_personal/Society/Economics/Institution.personal.md) 
 
-### #is_/same_as :: [Institution.secret](/_secret/Economics/Institution.secret.md)
+### #is_/same_as :: [Institution.secret](/_secret/Society/Economics/Institution.secret.md)
 

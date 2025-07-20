@@ -22,17 +22,17 @@ has_id_wikidata: Q7331
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ibn_Battuta](Ibn_Battuta.md) 
+### #is_/same_as :: [Ibn_Battuta](/_Standards/Earth/Explorer/Ibn_Battuta.md) 
 
-### #is_/same_as :: [Ibn_Battuta.public](/_public/bio/People/Explorer/Ibn_Battuta.public.md) 
+### #is_/same_as :: [Ibn_Battuta.public](/_public/Earth/Explorer/Ibn_Battuta.public.md) 
 
-### #is_/same_as :: [Ibn_Battuta.internal](/_internal/bio/People/Explorer/Ibn_Battuta.internal.md) 
+### #is_/same_as :: [Ibn_Battuta.internal](/_internal/Earth/Explorer/Ibn_Battuta.internal.md) 
 
-### #is_/same_as :: [Ibn_Battuta.protect](/_protect/bio/People/Explorer/Ibn_Battuta.protect.md) 
+### #is_/same_as :: [Ibn_Battuta.protect](/_protect/Earth/Explorer/Ibn_Battuta.protect.md) 
 
-### #is_/same_as :: [Ibn_Battuta.private](/_private/bio/People/Explorer/Ibn_Battuta.private.md) 
+### #is_/same_as :: [Ibn_Battuta.private](/_private/Earth/Explorer/Ibn_Battuta.private.md) 
 
-### #is_/same_as :: [Ibn_Battuta.personal](/_personal/bio/People/Explorer/Ibn_Battuta.personal.md) 
+### #is_/same_as :: [Ibn_Battuta.personal](/_personal/Earth/Explorer/Ibn_Battuta.personal.md) 
 
-### #is_/same_as :: [Ibn_Battuta.secret](/_secret/bio/People/Explorer/Ibn_Battuta.secret.md)
+### #is_/same_as :: [Ibn_Battuta.secret](/_secret/Earth/Explorer/Ibn_Battuta.secret.md)
 

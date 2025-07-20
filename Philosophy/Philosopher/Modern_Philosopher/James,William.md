@@ -157,3 +157,22 @@ U_S_National_Archives_Identifier: "10573159"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [James,William](/_Standards/Philosophy/Philosopher/Modern_Philosopher/James,William.md) 
+
+### #is_/same_as :: [James,William.public](/_public/Philosophy/Philosopher/Modern_Philosopher/James,William.public.md) 
+
+### #is_/same_as :: [James,William.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/James,William.internal.md) 
+
+### #is_/same_as :: [James,William.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/James,William.protect.md) 
+
+### #is_/same_as :: [James,William.private](/_private/Philosophy/Philosopher/Modern_Philosopher/James,William.private.md) 
+
+### #is_/same_as :: [James,William.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/James,William.personal.md) 
+
+### #is_/same_as :: [James,William.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/James,William.secret.md)
+

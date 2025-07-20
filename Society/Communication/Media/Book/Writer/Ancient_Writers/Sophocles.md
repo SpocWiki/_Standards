@@ -111,17 +111,17 @@ name_in_native_language: Σοφοκλῆς
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sophocles](Sophocles.md) 
+### #is_/same_as :: [Sophocles](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.md) 
 
-### #is_/same_as :: [Sophocles.public](/_public/bio/People/Writer/Ancient_Writers/Sophocles.public.md) 
+### #is_/same_as :: [Sophocles.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.public.md) 
 
-### #is_/same_as :: [Sophocles.internal](/_internal/bio/People/Writer/Ancient_Writers/Sophocles.internal.md) 
+### #is_/same_as :: [Sophocles.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.internal.md) 
 
-### #is_/same_as :: [Sophocles.protect](/_protect/bio/People/Writer/Ancient_Writers/Sophocles.protect.md) 
+### #is_/same_as :: [Sophocles.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.protect.md) 
 
-### #is_/same_as :: [Sophocles.private](/_private/bio/People/Writer/Ancient_Writers/Sophocles.private.md) 
+### #is_/same_as :: [Sophocles.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.private.md) 
 
-### #is_/same_as :: [Sophocles.personal](/_personal/bio/People/Writer/Ancient_Writers/Sophocles.personal.md) 
+### #is_/same_as :: [Sophocles.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.personal.md) 
 
-### #is_/same_as :: [Sophocles.secret](/_secret/bio/People/Writer/Ancient_Writers/Sophocles.secret.md)
+### #is_/same_as :: [Sophocles.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.secret.md)
 

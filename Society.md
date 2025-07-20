@@ -86,7 +86,6 @@ Smaller Structures like the Core Family were not robust enough to survive.
 
 ## Confidential Links & Embeds: 
 
-<<<<<<< HEAD
 ### #is_/same_as :: [Society](/_Standards/Society.md) 
 
 ### #is_/same_as :: [Society.public](/_public/Society.public.md) 
@@ -100,19 +99,4 @@ Smaller Structures like the Core Family were not robust enough to survive.
 ### #is_/same_as :: [Society.personal](/_personal/Society.personal.md) 
 
 ### #is_/same_as :: [Society.secret](/_secret/Society.secret.md)
-=======
-### #is_/same_as :: [Society](/_Standards/Society.md) 
-
-### #is_/same_as :: [Society.public](/_public/Society.public.md) 
-
-### #is_/same_as :: [Society.internal](/_internal/Society.internal.md) 
-
-### #is_/same_as :: [Society.protect](/_protect/Society.protect.md) 
-
-### #is_/same_as :: [Society.private](/_private/Society.private.md) 
-
-### #is_/same_as :: [Society.personal](/_personal/Society.personal.md) 
-
-### #is_/same_as :: [Society.secret](/_secret/Society.secret.md)
->>>>>>> 72d2412fee2f8932df7ceba082271cb10fb97bac
 

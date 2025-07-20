@@ -119,17 +119,17 @@ image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elizabeth_I_of_England](Elizabeth_I_of_England.md) 
+### #is_/same_as :: [Elizabeth_I_of_England](/_Standards/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.public](/_public/bio/People/Leader/Early_modern_Leaders/Elizabeth_I_of_England.public.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.public](/_public/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.public.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Elizabeth_I_of_England.internal.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.internal.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Elizabeth_I_of_England.protect.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.protect.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.private](/_private/bio/People/Leader/Early_modern_Leaders/Elizabeth_I_of_England.private.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.private](/_private/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.private.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Elizabeth_I_of_England.personal.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.personal.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Elizabeth_I_of_England.secret.md)
+### #is_/same_as :: [Elizabeth_I_of_England.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.secret.md)
 

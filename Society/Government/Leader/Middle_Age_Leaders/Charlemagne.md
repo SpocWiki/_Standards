@@ -166,17 +166,17 @@ Krugosvet_article: istoriya/karl-0742-0814-velikiy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charlemagne](Charlemagne.md) 
+### #is_/same_as :: [Charlemagne](/_Standards/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.md) 
 
-### #is_/same_as :: [Charlemagne.public](/_public/bio/People/Leader/Middle_Age_Leaders/Charlemagne.public.md) 
+### #is_/same_as :: [Charlemagne.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.public.md) 
 
-### #is_/same_as :: [Charlemagne.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Charlemagne.internal.md) 
+### #is_/same_as :: [Charlemagne.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.internal.md) 
 
-### #is_/same_as :: [Charlemagne.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Charlemagne.protect.md) 
+### #is_/same_as :: [Charlemagne.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.protect.md) 
 
-### #is_/same_as :: [Charlemagne.private](/_private/bio/People/Leader/Middle_Age_Leaders/Charlemagne.private.md) 
+### #is_/same_as :: [Charlemagne.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.private.md) 
 
-### #is_/same_as :: [Charlemagne.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Charlemagne.personal.md) 
+### #is_/same_as :: [Charlemagne.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.personal.md) 
 
-### #is_/same_as :: [Charlemagne.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Charlemagne.secret.md)
+### #is_/same_as :: [Charlemagne.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.secret.md)
 

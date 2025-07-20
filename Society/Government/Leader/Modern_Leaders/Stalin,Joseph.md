@@ -231,17 +231,17 @@ partner_in_business_or_sport:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stalin,Joseph](Stalin,Joseph.md) 
+### #is_/same_as :: [Stalin,Joseph](/_Standards/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.md) 
 
-### #is_/same_as :: [Stalin,Joseph.public](/_public/bio/People/Leader/Modern_Leaders/Stalin,Joseph.public.md) 
+### #is_/same_as :: [Stalin,Joseph.public](/_public/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.public.md) 
 
-### #is_/same_as :: [Stalin,Joseph.internal](/_internal/bio/People/Leader/Modern_Leaders/Stalin,Joseph.internal.md) 
+### #is_/same_as :: [Stalin,Joseph.internal](/_internal/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.internal.md) 
 
-### #is_/same_as :: [Stalin,Joseph.protect](/_protect/bio/People/Leader/Modern_Leaders/Stalin,Joseph.protect.md) 
+### #is_/same_as :: [Stalin,Joseph.protect](/_protect/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.protect.md) 
 
-### #is_/same_as :: [Stalin,Joseph.private](/_private/bio/People/Leader/Modern_Leaders/Stalin,Joseph.private.md) 
+### #is_/same_as :: [Stalin,Joseph.private](/_private/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.private.md) 
 
-### #is_/same_as :: [Stalin,Joseph.personal](/_personal/bio/People/Leader/Modern_Leaders/Stalin,Joseph.personal.md) 
+### #is_/same_as :: [Stalin,Joseph.personal](/_personal/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.personal.md) 
 
-### #is_/same_as :: [Stalin,Joseph.secret](/_secret/bio/People/Leader/Modern_Leaders/Stalin,Joseph.secret.md)
+### #is_/same_as :: [Stalin,Joseph.secret](/_secret/Society/Government/Leader/Modern_Leaders/Stalin,Joseph.secret.md)
 

@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gernsback,Hugo](Gernsback,Hugo.md) 
+### #is_/same_as :: [Gernsback,Hugo](/_Standards/Society/Communication/Media/Book/Writer/Gernsback,Hugo.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.public](/_public/bio/People/Writer/Gernsback,Hugo.public.md) 
+### #is_/same_as :: [Gernsback,Hugo.public](/_public/Society/Communication/Media/Book/Writer/Gernsback,Hugo.public.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.internal](/_internal/bio/People/Writer/Gernsback,Hugo.internal.md) 
+### #is_/same_as :: [Gernsback,Hugo.internal](/_internal/Society/Communication/Media/Book/Writer/Gernsback,Hugo.internal.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.protect](/_protect/bio/People/Writer/Gernsback,Hugo.protect.md) 
+### #is_/same_as :: [Gernsback,Hugo.protect](/_protect/Society/Communication/Media/Book/Writer/Gernsback,Hugo.protect.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.private](/_private/bio/People/Writer/Gernsback,Hugo.private.md) 
+### #is_/same_as :: [Gernsback,Hugo.private](/_private/Society/Communication/Media/Book/Writer/Gernsback,Hugo.private.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.personal](/_personal/bio/People/Writer/Gernsback,Hugo.personal.md) 
+### #is_/same_as :: [Gernsback,Hugo.personal](/_personal/Society/Communication/Media/Book/Writer/Gernsback,Hugo.personal.md) 
 
-### #is_/same_as :: [Gernsback,Hugo.secret](/_secret/bio/People/Writer/Gernsback,Hugo.secret.md)
+### #is_/same_as :: [Gernsback,Hugo.secret](/_secret/Society/Communication/Media/Book/Writer/Gernsback,Hugo.secret.md)
 

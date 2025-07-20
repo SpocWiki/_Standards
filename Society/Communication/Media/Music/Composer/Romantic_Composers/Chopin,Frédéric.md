@@ -25,17 +25,17 @@ has_id_wikidata: Q1268
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chopin,Frédéric](Chopin,Frédéric.md) 
+### #is_/same_as :: [Chopin,Frédéric](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.public](/_public/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.public.md) 
+### #is_/same_as :: [Chopin,Frédéric.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.public.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.internal](/_internal/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.internal.md) 
+### #is_/same_as :: [Chopin,Frédéric.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.internal.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.protect](/_protect/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.protect.md) 
+### #is_/same_as :: [Chopin,Frédéric.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.protect.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.private](/_private/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.private.md) 
+### #is_/same_as :: [Chopin,Frédéric.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.private.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.personal](/_personal/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.personal.md) 
+### #is_/same_as :: [Chopin,Frédéric.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.personal.md) 
 
-### #is_/same_as :: [Chopin,Frédéric.secret](/_secret/bio/People/Composer/Romantic_Composers/Chopin,Frédéric.secret.md)
+### #is_/same_as :: [Chopin,Frédéric.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Chopin,Frédéric.secret.md)
 

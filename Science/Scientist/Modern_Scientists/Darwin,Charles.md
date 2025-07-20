@@ -272,17 +272,17 @@ ArhivX_LOD: 3306
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darwin,Charles](Darwin,Charles.md) 
+### #is_/same_as :: [Darwin,Charles](/_Standards/Science/Scientist/Modern_Scientists/Darwin,Charles.md) 
 
-### #is_/same_as :: [Darwin,Charles.public](/_public/bio/People/Scientist/Modern_Scientists/Darwin,Charles.public.md) 
+### #is_/same_as :: [Darwin,Charles.public](/_public/Science/Scientist/Modern_Scientists/Darwin,Charles.public.md) 
 
-### #is_/same_as :: [Darwin,Charles.internal](/_internal/bio/People/Scientist/Modern_Scientists/Darwin,Charles.internal.md) 
+### #is_/same_as :: [Darwin,Charles.internal](/_internal/Science/Scientist/Modern_Scientists/Darwin,Charles.internal.md) 
 
-### #is_/same_as :: [Darwin,Charles.protect](/_protect/bio/People/Scientist/Modern_Scientists/Darwin,Charles.protect.md) 
+### #is_/same_as :: [Darwin,Charles.protect](/_protect/Science/Scientist/Modern_Scientists/Darwin,Charles.protect.md) 
 
-### #is_/same_as :: [Darwin,Charles.private](/_private/bio/People/Scientist/Modern_Scientists/Darwin,Charles.private.md) 
+### #is_/same_as :: [Darwin,Charles.private](/_private/Science/Scientist/Modern_Scientists/Darwin,Charles.private.md) 
 
-### #is_/same_as :: [Darwin,Charles.personal](/_personal/bio/People/Scientist/Modern_Scientists/Darwin,Charles.personal.md) 
+### #is_/same_as :: [Darwin,Charles.personal](/_personal/Science/Scientist/Modern_Scientists/Darwin,Charles.personal.md) 
 
-### #is_/same_as :: [Darwin,Charles.secret](/_secret/bio/People/Scientist/Modern_Scientists/Darwin,Charles.secret.md)
+### #is_/same_as :: [Darwin,Charles.secret](/_secret/Science/Scientist/Modern_Scientists/Darwin,Charles.secret.md)
 

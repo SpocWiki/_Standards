@@ -237,17 +237,17 @@ spouse:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bach,Johann_Sebastian](Bach,Johann_Sebastian.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.md) 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.public](/_public/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.public.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.public](/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.public.md) 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.internal](/_internal/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.internal.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.internal](/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.internal.md) 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.protect](/_protect/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.protect.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.protect](/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.protect.md) 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.private](/_private/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.private.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.private](/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.private.md) 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.personal](/_personal/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.personal.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.personal](/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.personal.md) 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.secret](/_secret/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.secret.md)
+### #is_/same_as :: [Bach,Johann_Sebastian.secret](/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.secret.md)
 

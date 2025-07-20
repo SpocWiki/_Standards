@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Putin,Vladimir](Putin,Vladimir.md) 
+### #is_/same_as :: [Putin,Vladimir](/_Standards/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.md) 
 
-### #is_/same_as :: [Putin,Vladimir.public](/_public/bio/People/Leader/Modern_Leaders/Putin,Vladimir.public.md) 
+### #is_/same_as :: [Putin,Vladimir.public](/_public/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.public.md) 
 
-### #is_/same_as :: [Putin,Vladimir.internal](/_internal/bio/People/Leader/Modern_Leaders/Putin,Vladimir.internal.md) 
+### #is_/same_as :: [Putin,Vladimir.internal](/_internal/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.internal.md) 
 
-### #is_/same_as :: [Putin,Vladimir.protect](/_protect/bio/People/Leader/Modern_Leaders/Putin,Vladimir.protect.md) 
+### #is_/same_as :: [Putin,Vladimir.protect](/_protect/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.protect.md) 
 
-### #is_/same_as :: [Putin,Vladimir.private](/_private/bio/People/Leader/Modern_Leaders/Putin,Vladimir.private.md) 
+### #is_/same_as :: [Putin,Vladimir.private](/_private/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.private.md) 
 
-### #is_/same_as :: [Putin,Vladimir.personal](/_personal/bio/People/Leader/Modern_Leaders/Putin,Vladimir.personal.md) 
+### #is_/same_as :: [Putin,Vladimir.personal](/_personal/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.personal.md) 
 
-### #is_/same_as :: [Putin,Vladimir.secret](/_secret/bio/People/Leader/Modern_Leaders/Putin,Vladimir.secret.md)
+### #is_/same_as :: [Putin,Vladimir.secret](/_secret/Society/Government/Leader/Modern_Leaders/Putin,Vladimir.secret.md)
 

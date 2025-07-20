@@ -126,17 +126,17 @@ scholarly estimates have ranged from 1393 to 1406. 1400 was chosen for convenien
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gutenberg,Johannes](Gutenberg,Johannes.md) 
+### #is_/same_as :: [Gutenberg,Johannes](/_Standards/Science/Inventor/Gutenberg,Johannes.md) 
 
-### #is_/same_as :: [Gutenberg,Johannes.public](/_public/bio/People/Inventor/Gutenberg,Johannes.public.md) 
+### #is_/same_as :: [Gutenberg,Johannes.public](/_public/Science/Inventor/Gutenberg,Johannes.public.md) 
 
-### #is_/same_as :: [Gutenberg,Johannes.internal](/_internal/bio/People/Inventor/Gutenberg,Johannes.internal.md) 
+### #is_/same_as :: [Gutenberg,Johannes.internal](/_internal/Science/Inventor/Gutenberg,Johannes.internal.md) 
 
-### #is_/same_as :: [Gutenberg,Johannes.protect](/_protect/bio/People/Inventor/Gutenberg,Johannes.protect.md) 
+### #is_/same_as :: [Gutenberg,Johannes.protect](/_protect/Science/Inventor/Gutenberg,Johannes.protect.md) 
 
-### #is_/same_as :: [Gutenberg,Johannes.private](/_private/bio/People/Inventor/Gutenberg,Johannes.private.md) 
+### #is_/same_as :: [Gutenberg,Johannes.private](/_private/Science/Inventor/Gutenberg,Johannes.private.md) 
 
-### #is_/same_as :: [Gutenberg,Johannes.personal](/_personal/bio/People/Inventor/Gutenberg,Johannes.personal.md) 
+### #is_/same_as :: [Gutenberg,Johannes.personal](/_personal/Science/Inventor/Gutenberg,Johannes.personal.md) 
 
-### #is_/same_as :: [Gutenberg,Johannes.secret](/_secret/bio/People/Inventor/Gutenberg,Johannes.secret.md)
+### #is_/same_as :: [Gutenberg,Johannes.secret](/_secret/Science/Inventor/Gutenberg,Johannes.secret.md)
 

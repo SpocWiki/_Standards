@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saladin](Saladin.md) 
+### #is_/same_as :: [Saladin](/_Standards/Society/Government/Leader/Middle_Age_Leaders/Saladin.md) 
 
-### #is_/same_as :: [Saladin.public](/_public/bio/People/Leader/Middle_Age_Leaders/Saladin.public.md) 
+### #is_/same_as :: [Saladin.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Saladin.public.md) 
 
-### #is_/same_as :: [Saladin.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Saladin.internal.md) 
+### #is_/same_as :: [Saladin.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Saladin.internal.md) 
 
-### #is_/same_as :: [Saladin.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Saladin.protect.md) 
+### #is_/same_as :: [Saladin.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Saladin.protect.md) 
 
-### #is_/same_as :: [Saladin.private](/_private/bio/People/Leader/Middle_Age_Leaders/Saladin.private.md) 
+### #is_/same_as :: [Saladin.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Saladin.private.md) 
 
-### #is_/same_as :: [Saladin.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Saladin.personal.md) 
+### #is_/same_as :: [Saladin.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Saladin.personal.md) 
 
-### #is_/same_as :: [Saladin.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Saladin.secret.md)
+### #is_/same_as :: [Saladin.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Saladin.secret.md)
 

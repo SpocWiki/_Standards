@@ -50,17 +50,17 @@ IPTC_NewsCode: mediatopic/20000003
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Animation](/_Standards/Society/Communication/Media/Film/Animation.md) 
+### #is_/same_as :: [Animation](/_Standards/Society/Communication/Media/Movie/Animation.md) 
 
-### #is_/same_as :: [Animation.public](/_public/Society/Communication/Media/Film/Animation.public.md) 
+### #is_/same_as :: [Animation.public](/_public/Society/Communication/Media/Movie/Animation.public.md) 
 
-### #is_/same_as :: [Animation.internal](/_internal/Society/Communication/Media/Film/Animation.internal.md) 
+### #is_/same_as :: [Animation.internal](/_internal/Society/Communication/Media/Movie/Animation.internal.md) 
 
-### #is_/same_as :: [Animation.protect](/_protect/Society/Communication/Media/Film/Animation.protect.md) 
+### #is_/same_as :: [Animation.protect](/_protect/Society/Communication/Media/Movie/Animation.protect.md) 
 
-### #is_/same_as :: [Animation.private](/_private/Society/Communication/Media/Film/Animation.private.md) 
+### #is_/same_as :: [Animation.private](/_private/Society/Communication/Media/Movie/Animation.private.md) 
 
-### #is_/same_as :: [Animation.personal](/_personal/Society/Communication/Media/Film/Animation.personal.md) 
+### #is_/same_as :: [Animation.personal](/_personal/Society/Communication/Media/Movie/Animation.personal.md) 
 
-### #is_/same_as :: [Animation.secret](/_secret/Society/Communication/Media/Film/Animation.secret.md)
+### #is_/same_as :: [Animation.secret](/_secret/Society/Communication/Media/Movie/Animation.secret.md)
 

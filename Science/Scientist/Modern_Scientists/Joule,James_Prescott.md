@@ -86,17 +86,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/SS-joule.jpg"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joule,James_Prescott](Joule,James_Prescott.md) 
+### #is_/same_as :: [Joule,James_Prescott](/_Standards/Science/Scientist/Modern_Scientists/Joule,James_Prescott.md) 
 
-### #is_/same_as :: [Joule,James_Prescott.public](/_public/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.public.md) 
+### #is_/same_as :: [Joule,James_Prescott.public](/_public/Science/Scientist/Modern_Scientists/Joule,James_Prescott.public.md) 
 
-### #is_/same_as :: [Joule,James_Prescott.internal](/_internal/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.internal.md) 
+### #is_/same_as :: [Joule,James_Prescott.internal](/_internal/Science/Scientist/Modern_Scientists/Joule,James_Prescott.internal.md) 
 
-### #is_/same_as :: [Joule,James_Prescott.protect](/_protect/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.protect.md) 
+### #is_/same_as :: [Joule,James_Prescott.protect](/_protect/Science/Scientist/Modern_Scientists/Joule,James_Prescott.protect.md) 
 
-### #is_/same_as :: [Joule,James_Prescott.private](/_private/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.private.md) 
+### #is_/same_as :: [Joule,James_Prescott.private](/_private/Science/Scientist/Modern_Scientists/Joule,James_Prescott.private.md) 
 
-### #is_/same_as :: [Joule,James_Prescott.personal](/_personal/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.personal.md) 
+### #is_/same_as :: [Joule,James_Prescott.personal](/_personal/Science/Scientist/Modern_Scientists/Joule,James_Prescott.personal.md) 
 
-### #is_/same_as :: [Joule,James_Prescott.secret](/_secret/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.secret.md)
+### #is_/same_as :: [Joule,James_Prescott.secret](/_secret/Science/Scientist/Modern_Scientists/Joule,James_Prescott.secret.md)
 

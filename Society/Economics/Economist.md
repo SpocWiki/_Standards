@@ -20,17 +20,17 @@ has_id_wikidata: Q188094
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economist](Economist.md) 
+### #is_/same_as :: [Economist](/_Standards/Society/Economics/Economist.md) 
 
-### #is_/same_as :: [Economist.public](/_public/bio/People/Economist.public.md) 
+### #is_/same_as :: [Economist.public](/_public/Society/Economics/Economist.public.md) 
 
-### #is_/same_as :: [Economist.internal](/_internal/bio/People/Economist.internal.md) 
+### #is_/same_as :: [Economist.internal](/_internal/Society/Economics/Economist.internal.md) 
 
-### #is_/same_as :: [Economist.protect](/_protect/bio/People/Economist.protect.md) 
+### #is_/same_as :: [Economist.protect](/_protect/Society/Economics/Economist.protect.md) 
 
-### #is_/same_as :: [Economist.private](/_private/bio/People/Economist.private.md) 
+### #is_/same_as :: [Economist.private](/_private/Society/Economics/Economist.private.md) 
 
-### #is_/same_as :: [Economist.personal](/_personal/bio/People/Economist.personal.md) 
+### #is_/same_as :: [Economist.personal](/_personal/Society/Economics/Economist.personal.md) 
 
-### #is_/same_as :: [Economist.secret](/_secret/bio/People/Economist.secret.md)
+### #is_/same_as :: [Economist.secret](/_secret/Society/Economics/Economist.secret.md)
 

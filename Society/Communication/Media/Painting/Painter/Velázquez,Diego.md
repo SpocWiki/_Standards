@@ -195,17 +195,17 @@ date_of_death: "1660-08-06"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Velázquez,Diego](Velázquez,Diego.md) 
+### #is_/same_as :: [Velázquez,Diego](/_Standards/Society/Communication/Media/Painting/Painter/Velázquez,Diego.md) 
 
-### #is_/same_as :: [Velázquez,Diego.public](/_public/bio/People/Painter/Velázquez,Diego.public.md) 
+### #is_/same_as :: [Velázquez,Diego.public](/_public/Society/Communication/Media/Painting/Painter/Velázquez,Diego.public.md) 
 
-### #is_/same_as :: [Velázquez,Diego.internal](/_internal/bio/People/Painter/Velázquez,Diego.internal.md) 
+### #is_/same_as :: [Velázquez,Diego.internal](/_internal/Society/Communication/Media/Painting/Painter/Velázquez,Diego.internal.md) 
 
-### #is_/same_as :: [Velázquez,Diego.protect](/_protect/bio/People/Painter/Velázquez,Diego.protect.md) 
+### #is_/same_as :: [Velázquez,Diego.protect](/_protect/Society/Communication/Media/Painting/Painter/Velázquez,Diego.protect.md) 
 
-### #is_/same_as :: [Velázquez,Diego.private](/_private/bio/People/Painter/Velázquez,Diego.private.md) 
+### #is_/same_as :: [Velázquez,Diego.private](/_private/Society/Communication/Media/Painting/Painter/Velázquez,Diego.private.md) 
 
-### #is_/same_as :: [Velázquez,Diego.personal](/_personal/bio/People/Painter/Velázquez,Diego.personal.md) 
+### #is_/same_as :: [Velázquez,Diego.personal](/_personal/Society/Communication/Media/Painting/Painter/Velázquez,Diego.personal.md) 
 
-### #is_/same_as :: [Velázquez,Diego.secret](/_secret/bio/People/Painter/Velázquez,Diego.secret.md)
+### #is_/same_as :: [Velázquez,Diego.secret](/_secret/Society/Communication/Media/Painting/Painter/Velázquez,Diego.secret.md)
 

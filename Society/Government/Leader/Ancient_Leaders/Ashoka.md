@@ -29,17 +29,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ashoka](Ashoka.md) 
+### #is_/same_as :: [Ashoka](/_Standards/Society/Government/Leader/Ancient_Leaders/Ashoka.md) 
 
-### #is_/same_as :: [Ashoka.public](/_public/bio/People/Leader/Ancient_Leaders/Ashoka.public.md) 
+### #is_/same_as :: [Ashoka.public](/_public/Society/Government/Leader/Ancient_Leaders/Ashoka.public.md) 
 
-### #is_/same_as :: [Ashoka.internal](/_internal/bio/People/Leader/Ancient_Leaders/Ashoka.internal.md) 
+### #is_/same_as :: [Ashoka.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Ashoka.internal.md) 
 
-### #is_/same_as :: [Ashoka.protect](/_protect/bio/People/Leader/Ancient_Leaders/Ashoka.protect.md) 
+### #is_/same_as :: [Ashoka.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Ashoka.protect.md) 
 
-### #is_/same_as :: [Ashoka.private](/_private/bio/People/Leader/Ancient_Leaders/Ashoka.private.md) 
+### #is_/same_as :: [Ashoka.private](/_private/Society/Government/Leader/Ancient_Leaders/Ashoka.private.md) 
 
-### #is_/same_as :: [Ashoka.personal](/_personal/bio/People/Leader/Ancient_Leaders/Ashoka.personal.md) 
+### #is_/same_as :: [Ashoka.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Ashoka.personal.md) 
 
-### #is_/same_as :: [Ashoka.secret](/_secret/bio/People/Leader/Ancient_Leaders/Ashoka.secret.md)
+### #is_/same_as :: [Ashoka.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Ashoka.secret.md)
 

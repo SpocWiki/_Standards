@@ -216,17 +216,17 @@ date_of_birth: "1265"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alighieri,Dante](Alighieri,Dante.md) 
+### #is_/same_as :: [Alighieri,Dante](/_Standards/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.md) 
 
-### #is_/same_as :: [Alighieri,Dante.public](/_public/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.public.md) 
+### #is_/same_as :: [Alighieri,Dante.public](/_public/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.public.md) 
 
-### #is_/same_as :: [Alighieri,Dante.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.internal.md) 
+### #is_/same_as :: [Alighieri,Dante.internal](/_internal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.internal.md) 
 
-### #is_/same_as :: [Alighieri,Dante.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.protect.md) 
+### #is_/same_as :: [Alighieri,Dante.protect](/_protect/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.protect.md) 
 
-### #is_/same_as :: [Alighieri,Dante.private](/_private/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.private.md) 
+### #is_/same_as :: [Alighieri,Dante.private](/_private/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.private.md) 
 
-### #is_/same_as :: [Alighieri,Dante.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.personal.md) 
+### #is_/same_as :: [Alighieri,Dante.personal](/_personal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.personal.md) 
 
-### #is_/same_as :: [Alighieri,Dante.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.secret.md)
+### #is_/same_as :: [Alighieri,Dante.secret](/_secret/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.secret.md)
 

@@ -58,17 +58,17 @@ Commons_category: Taxes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tax](Tax.md) 
+### #is_/same_as :: [Tax](/_Standards/Society/Economics/Tax.md) 
 
-### #is_/same_as :: [Tax.public](/_public/Economics/Tax.public.md) 
+### #is_/same_as :: [Tax.public](/_public/Society/Economics/Tax.public.md) 
 
-### #is_/same_as :: [Tax.internal](/_internal/Economics/Tax.internal.md) 
+### #is_/same_as :: [Tax.internal](/_internal/Society/Economics/Tax.internal.md) 
 
-### #is_/same_as :: [Tax.protect](/_protect/Economics/Tax.protect.md) 
+### #is_/same_as :: [Tax.protect](/_protect/Society/Economics/Tax.protect.md) 
 
-### #is_/same_as :: [Tax.private](/_private/Economics/Tax.private.md) 
+### #is_/same_as :: [Tax.private](/_private/Society/Economics/Tax.private.md) 
 
-### #is_/same_as :: [Tax.personal](/_personal/Economics/Tax.personal.md) 
+### #is_/same_as :: [Tax.personal](/_personal/Society/Economics/Tax.personal.md) 
 
-### #is_/same_as :: [Tax.secret](/_secret/Economics/Tax.secret.md)
+### #is_/same_as :: [Tax.secret](/_secret/Society/Economics/Tax.secret.md)
 

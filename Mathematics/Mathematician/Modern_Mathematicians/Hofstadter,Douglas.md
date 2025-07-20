@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hofstadter,Douglas](Hofstadter,Douglas.md) 
+### #is_/same_as :: [Hofstadter,Douglas](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.md) 
 
-### #is_/same_as :: [Hofstadter,Douglas.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.public.md) 
+### #is_/same_as :: [Hofstadter,Douglas.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.public.md) 
 
-### #is_/same_as :: [Hofstadter,Douglas.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.internal.md) 
+### #is_/same_as :: [Hofstadter,Douglas.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.internal.md) 
 
-### #is_/same_as :: [Hofstadter,Douglas.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.protect.md) 
+### #is_/same_as :: [Hofstadter,Douglas.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.protect.md) 
 
-### #is_/same_as :: [Hofstadter,Douglas.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.private.md) 
+### #is_/same_as :: [Hofstadter,Douglas.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.private.md) 
 
-### #is_/same_as :: [Hofstadter,Douglas.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.personal.md) 
+### #is_/same_as :: [Hofstadter,Douglas.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.personal.md) 
 
-### #is_/same_as :: [Hofstadter,Douglas.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.secret.md)
+### #is_/same_as :: [Hofstadter,Douglas.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.secret.md)
 

@@ -29,17 +29,17 @@ even if one country is more competitive in every area than its trading counterpa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Division_of_Labor](Division_of_Labor.md) 
+### #is_/same_as :: [Division_of_Labor](/_Standards/Society/Economics/Division_of_Labor.md) 
 
-### #is_/same_as :: [Division_of_Labor.public](/_public/Economics/Division_of_Labor.public.md) 
+### #is_/same_as :: [Division_of_Labor.public](/_public/Society/Economics/Division_of_Labor.public.md) 
 
-### #is_/same_as :: [Division_of_Labor.internal](/_internal/Economics/Division_of_Labor.internal.md) 
+### #is_/same_as :: [Division_of_Labor.internal](/_internal/Society/Economics/Division_of_Labor.internal.md) 
 
-### #is_/same_as :: [Division_of_Labor.protect](/_protect/Economics/Division_of_Labor.protect.md) 
+### #is_/same_as :: [Division_of_Labor.protect](/_protect/Society/Economics/Division_of_Labor.protect.md) 
 
-### #is_/same_as :: [Division_of_Labor.private](/_private/Economics/Division_of_Labor.private.md) 
+### #is_/same_as :: [Division_of_Labor.private](/_private/Society/Economics/Division_of_Labor.private.md) 
 
-### #is_/same_as :: [Division_of_Labor.personal](/_personal/Economics/Division_of_Labor.personal.md) 
+### #is_/same_as :: [Division_of_Labor.personal](/_personal/Society/Economics/Division_of_Labor.personal.md) 
 
-### #is_/same_as :: [Division_of_Labor.secret](/_secret/Economics/Division_of_Labor.secret.md)
+### #is_/same_as :: [Division_of_Labor.secret](/_secret/Society/Economics/Division_of_Labor.secret.md)
 

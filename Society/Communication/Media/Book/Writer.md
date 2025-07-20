@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Writer](Writer.md) 
+### #is_/same_as :: [Writer](/_Standards/Society/Communication/Media/Book/Writer.md) 
 
-### #is_/same_as :: [Writer.public](/_public/bio/People/Writer.public.md) 
+### #is_/same_as :: [Writer.public](/_public/Society/Communication/Media/Book/Writer.public.md) 
 
-### #is_/same_as :: [Writer.internal](/_internal/bio/People/Writer.internal.md) 
+### #is_/same_as :: [Writer.internal](/_internal/Society/Communication/Media/Book/Writer.internal.md) 
 
-### #is_/same_as :: [Writer.protect](/_protect/bio/People/Writer.protect.md) 
+### #is_/same_as :: [Writer.protect](/_protect/Society/Communication/Media/Book/Writer.protect.md) 
 
-### #is_/same_as :: [Writer.private](/_private/bio/People/Writer.private.md) 
+### #is_/same_as :: [Writer.private](/_private/Society/Communication/Media/Book/Writer.private.md) 
 
-### #is_/same_as :: [Writer.personal](/_personal/bio/People/Writer.personal.md) 
+### #is_/same_as :: [Writer.personal](/_personal/Society/Communication/Media/Book/Writer.personal.md) 
 
-### #is_/same_as :: [Writer.secret](/_secret/bio/People/Writer.secret.md)
+### #is_/same_as :: [Writer.secret](/_secret/Society/Communication/Media/Book/Writer.secret.md)
 

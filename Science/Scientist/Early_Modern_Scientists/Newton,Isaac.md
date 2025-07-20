@@ -83,17 +83,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newton,Isaac](Newton,Isaac.md) 
+### #is_/same_as :: [Newton,Isaac](/_Standards/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.md) 
 
-### #is_/same_as :: [Newton,Isaac.public](/_public/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.public.md) 
+### #is_/same_as :: [Newton,Isaac.public](/_public/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.public.md) 
 
-### #is_/same_as :: [Newton,Isaac.internal](/_internal/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.internal.md) 
+### #is_/same_as :: [Newton,Isaac.internal](/_internal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.internal.md) 
 
-### #is_/same_as :: [Newton,Isaac.protect](/_protect/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.protect.md) 
+### #is_/same_as :: [Newton,Isaac.protect](/_protect/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.protect.md) 
 
-### #is_/same_as :: [Newton,Isaac.private](/_private/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.private.md) 
+### #is_/same_as :: [Newton,Isaac.private](/_private/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.private.md) 
 
-### #is_/same_as :: [Newton,Isaac.personal](/_personal/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.personal.md) 
+### #is_/same_as :: [Newton,Isaac.personal](/_personal/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.personal.md) 
 
-### #is_/same_as :: [Newton,Isaac.secret](/_secret/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.secret.md)
+### #is_/same_as :: [Newton,Isaac.secret](/_secret/Science/Scientist/Early_Modern_Scientists/Newton,Isaac.secret.md)
 

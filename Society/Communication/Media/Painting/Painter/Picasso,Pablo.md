@@ -409,17 +409,17 @@ name_in_native_language: "Pablo Picasso"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Picasso,Pablo](Picasso,Pablo.md) 
+### #is_/same_as :: [Picasso,Pablo](/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo.md) 
 
-### #is_/same_as :: [Picasso,Pablo.public](/_public/bio/People/Painter/Picasso,Pablo.public.md) 
+### #is_/same_as :: [Picasso,Pablo.public](/_public/Society/Communication/Media/Painting/Painter/Picasso,Pablo.public.md) 
 
-### #is_/same_as :: [Picasso,Pablo.internal](/_internal/bio/People/Painter/Picasso,Pablo.internal.md) 
+### #is_/same_as :: [Picasso,Pablo.internal](/_internal/Society/Communication/Media/Painting/Painter/Picasso,Pablo.internal.md) 
 
-### #is_/same_as :: [Picasso,Pablo.protect](/_protect/bio/People/Painter/Picasso,Pablo.protect.md) 
+### #is_/same_as :: [Picasso,Pablo.protect](/_protect/Society/Communication/Media/Painting/Painter/Picasso,Pablo.protect.md) 
 
-### #is_/same_as :: [Picasso,Pablo.private](/_private/bio/People/Painter/Picasso,Pablo.private.md) 
+### #is_/same_as :: [Picasso,Pablo.private](/_private/Society/Communication/Media/Painting/Painter/Picasso,Pablo.private.md) 
 
-### #is_/same_as :: [Picasso,Pablo.personal](/_personal/bio/People/Painter/Picasso,Pablo.personal.md) 
+### #is_/same_as :: [Picasso,Pablo.personal](/_personal/Society/Communication/Media/Painting/Painter/Picasso,Pablo.personal.md) 
 
-### #is_/same_as :: [Picasso,Pablo.secret](/_secret/bio/People/Painter/Picasso,Pablo.secret.md)
+### #is_/same_as :: [Picasso,Pablo.secret](/_secret/Society/Communication/Media/Painting/Painter/Picasso,Pablo.secret.md)
 

@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Painter](Painter.md) 
+### #is_/same_as :: [Painter](/_Standards/Society/Communication/Media/Painting/Painter.md) 
 
-### #is_/same_as :: [Painter.public](/_public/bio/People/Painter.public.md) 
+### #is_/same_as :: [Painter.public](/_public/Society/Communication/Media/Painting/Painter.public.md) 
 
-### #is_/same_as :: [Painter.internal](/_internal/bio/People/Painter.internal.md) 
+### #is_/same_as :: [Painter.internal](/_internal/Society/Communication/Media/Painting/Painter.internal.md) 
 
-### #is_/same_as :: [Painter.protect](/_protect/bio/People/Painter.protect.md) 
+### #is_/same_as :: [Painter.protect](/_protect/Society/Communication/Media/Painting/Painter.protect.md) 
 
-### #is_/same_as :: [Painter.private](/_private/bio/People/Painter.private.md) 
+### #is_/same_as :: [Painter.private](/_private/Society/Communication/Media/Painting/Painter.private.md) 
 
-### #is_/same_as :: [Painter.personal](/_personal/bio/People/Painter.personal.md) 
+### #is_/same_as :: [Painter.personal](/_personal/Society/Communication/Media/Painting/Painter.personal.md) 
 
-### #is_/same_as :: [Painter.secret](/_secret/bio/People/Painter.secret.md)
+### #is_/same_as :: [Painter.secret](/_secret/Society/Communication/Media/Painting/Painter.secret.md)
 

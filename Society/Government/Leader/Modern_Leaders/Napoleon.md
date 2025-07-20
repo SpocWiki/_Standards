@@ -287,17 +287,17 @@ Iconclass_notation: "61B2(NAPOLEONE I)"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Napoleon](Napoleon.md) 
+### #is_/same_as :: [Napoleon](/_Standards/Society/Government/Leader/Modern_Leaders/Napoleon.md) 
 
-### #is_/same_as :: [Napoleon.public](/_public/bio/People/Leader/Modern_Leaders/Napoleon.public.md) 
+### #is_/same_as :: [Napoleon.public](/_public/Society/Government/Leader/Modern_Leaders/Napoleon.public.md) 
 
-### #is_/same_as :: [Napoleon.internal](/_internal/bio/People/Leader/Modern_Leaders/Napoleon.internal.md) 
+### #is_/same_as :: [Napoleon.internal](/_internal/Society/Government/Leader/Modern_Leaders/Napoleon.internal.md) 
 
-### #is_/same_as :: [Napoleon.protect](/_protect/bio/People/Leader/Modern_Leaders/Napoleon.protect.md) 
+### #is_/same_as :: [Napoleon.protect](/_protect/Society/Government/Leader/Modern_Leaders/Napoleon.protect.md) 
 
-### #is_/same_as :: [Napoleon.private](/_private/bio/People/Leader/Modern_Leaders/Napoleon.private.md) 
+### #is_/same_as :: [Napoleon.private](/_private/Society/Government/Leader/Modern_Leaders/Napoleon.private.md) 
 
-### #is_/same_as :: [Napoleon.personal](/_personal/bio/People/Leader/Modern_Leaders/Napoleon.personal.md) 
+### #is_/same_as :: [Napoleon.personal](/_personal/Society/Government/Leader/Modern_Leaders/Napoleon.personal.md) 
 
-### #is_/same_as :: [Napoleon.secret](/_secret/bio/People/Leader/Modern_Leaders/Napoleon.secret.md)
+### #is_/same_as :: [Napoleon.secret](/_secret/Society/Government/Leader/Modern_Leaders/Napoleon.secret.md)
 

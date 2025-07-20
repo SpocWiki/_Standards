@@ -275,17 +275,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20L%C3%B3pez%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goya,Francisco](Goya,Francisco.md) 
+### #is_/same_as :: [Goya,Francisco](/_Standards/Society/Communication/Media/Painting/Painter/Goya,Francisco.md) 
 
-### #is_/same_as :: [Goya,Francisco.public](/_public/bio/People/Painter/Goya,Francisco.public.md) 
+### #is_/same_as :: [Goya,Francisco.public](/_public/Society/Communication/Media/Painting/Painter/Goya,Francisco.public.md) 
 
-### #is_/same_as :: [Goya,Francisco.internal](/_internal/bio/People/Painter/Goya,Francisco.internal.md) 
+### #is_/same_as :: [Goya,Francisco.internal](/_internal/Society/Communication/Media/Painting/Painter/Goya,Francisco.internal.md) 
 
-### #is_/same_as :: [Goya,Francisco.protect](/_protect/bio/People/Painter/Goya,Francisco.protect.md) 
+### #is_/same_as :: [Goya,Francisco.protect](/_protect/Society/Communication/Media/Painting/Painter/Goya,Francisco.protect.md) 
 
-### #is_/same_as :: [Goya,Francisco.private](/_private/bio/People/Painter/Goya,Francisco.private.md) 
+### #is_/same_as :: [Goya,Francisco.private](/_private/Society/Communication/Media/Painting/Painter/Goya,Francisco.private.md) 
 
-### #is_/same_as :: [Goya,Francisco.personal](/_personal/bio/People/Painter/Goya,Francisco.personal.md) 
+### #is_/same_as :: [Goya,Francisco.personal](/_personal/Society/Communication/Media/Painting/Painter/Goya,Francisco.personal.md) 
 
-### #is_/same_as :: [Goya,Francisco.secret](/_secret/bio/People/Painter/Goya,Francisco.secret.md)
+### #is_/same_as :: [Goya,Francisco.secret](/_secret/Society/Communication/Media/Painting/Painter/Goya,Francisco.secret.md)
 

@@ -56,17 +56,17 @@ Iconclass_notation: 41C71
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alcoholic_Beverage](Alcoholic_Beverage.md) 
+### #is_/same_as :: [Alcoholic_Beverage](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.md) 
 
-### #is_/same_as :: [Alcoholic_Beverage.public](/_public/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.public.md) 
+### #is_/same_as :: [Alcoholic_Beverage.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.public.md) 
 
-### #is_/same_as :: [Alcoholic_Beverage.internal](/_internal/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.internal.md) 
+### #is_/same_as :: [Alcoholic_Beverage.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.internal.md) 
 
-### #is_/same_as :: [Alcoholic_Beverage.protect](/_protect/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.protect.md) 
+### #is_/same_as :: [Alcoholic_Beverage.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.protect.md) 
 
-### #is_/same_as :: [Alcoholic_Beverage.private](/_private/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.private.md) 
+### #is_/same_as :: [Alcoholic_Beverage.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.private.md) 
 
-### #is_/same_as :: [Alcoholic_Beverage.personal](/_personal/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.personal.md) 
+### #is_/same_as :: [Alcoholic_Beverage.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.personal.md) 
 
-### #is_/same_as :: [Alcoholic_Beverage.secret](/_secret/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.secret.md)
+### #is_/same_as :: [Alcoholic_Beverage.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.secret.md)
 

@@ -52,17 +52,17 @@ Commons_category: Brahmagupta
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahmagupta](Brahmagupta.md) 
+### #is_/same_as :: [Brahmagupta](/_Standards/Science/Scientist/Middle_Age_Scientists/Brahmagupta.md) 
 
-### #is_/same_as :: [Brahmagupta.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.public.md) 
+### #is_/same_as :: [Brahmagupta.public](/_public/Science/Scientist/Middle_Age_Scientists/Brahmagupta.public.md) 
 
-### #is_/same_as :: [Brahmagupta.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.internal.md) 
+### #is_/same_as :: [Brahmagupta.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Brahmagupta.internal.md) 
 
-### #is_/same_as :: [Brahmagupta.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.protect.md) 
+### #is_/same_as :: [Brahmagupta.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Brahmagupta.protect.md) 
 
-### #is_/same_as :: [Brahmagupta.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.private.md) 
+### #is_/same_as :: [Brahmagupta.private](/_private/Science/Scientist/Middle_Age_Scientists/Brahmagupta.private.md) 
 
-### #is_/same_as :: [Brahmagupta.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.personal.md) 
+### #is_/same_as :: [Brahmagupta.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Brahmagupta.personal.md) 
 
-### #is_/same_as :: [Brahmagupta.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.secret.md)
+### #is_/same_as :: [Brahmagupta.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Brahmagupta.secret.md)
 

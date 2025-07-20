@@ -38,17 +38,17 @@ GeoNames_feature_code: S.DARY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dairy](Dairy.md) 
+### #is_/same_as :: [Dairy](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy.md) 
 
-### #is_/same_as :: [Dairy.public](/_public/Economics/Home_Economics/Cooking/Food/Dairy.public.md) 
+### #is_/same_as :: [Dairy.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy.public.md) 
 
-### #is_/same_as :: [Dairy.internal](/_internal/Economics/Home_Economics/Cooking/Food/Dairy.internal.md) 
+### #is_/same_as :: [Dairy.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy.internal.md) 
 
-### #is_/same_as :: [Dairy.protect](/_protect/Economics/Home_Economics/Cooking/Food/Dairy.protect.md) 
+### #is_/same_as :: [Dairy.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy.protect.md) 
 
-### #is_/same_as :: [Dairy.private](/_private/Economics/Home_Economics/Cooking/Food/Dairy.private.md) 
+### #is_/same_as :: [Dairy.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy.private.md) 
 
-### #is_/same_as :: [Dairy.personal](/_personal/Economics/Home_Economics/Cooking/Food/Dairy.personal.md) 
+### #is_/same_as :: [Dairy.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy.personal.md) 
 
-### #is_/same_as :: [Dairy.secret](/_secret/Economics/Home_Economics/Cooking/Food/Dairy.secret.md)
+### #is_/same_as :: [Dairy.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy.secret.md)
 

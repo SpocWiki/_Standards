@@ -54,17 +54,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stockhausen,Karlheinz](Stockhausen,Karlheinz.md) 
+### #is_/same_as :: [Stockhausen,Karlheinz](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.md) 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.public](/_public/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.public.md) 
+### #is_/same_as :: [Stockhausen,Karlheinz.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.public.md) 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.internal](/_internal/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.internal.md) 
+### #is_/same_as :: [Stockhausen,Karlheinz.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.internal.md) 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.protect](/_protect/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.protect.md) 
+### #is_/same_as :: [Stockhausen,Karlheinz.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.protect.md) 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.private](/_private/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.private.md) 
+### #is_/same_as :: [Stockhausen,Karlheinz.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.private.md) 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.personal](/_personal/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.personal.md) 
+### #is_/same_as :: [Stockhausen,Karlheinz.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.personal.md) 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.secret](/_secret/bio/People/Composer/20th_century_Composers/Stockhausen,Karlheinz.secret.md)
+### #is_/same_as :: [Stockhausen,Karlheinz.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.secret.md)
 

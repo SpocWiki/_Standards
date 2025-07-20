@@ -228,17 +228,17 @@ name_in_native_language: William Shakespeare
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shakespeare,William](Shakespeare,William.md) 
+### #is_/same_as :: [Shakespeare,William](/_Standards/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.md) 
 
-### #is_/same_as :: [Shakespeare,William.public](/_public/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.public.md) 
+### #is_/same_as :: [Shakespeare,William.public](/_public/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.public.md) 
 
-### #is_/same_as :: [Shakespeare,William.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.internal.md) 
+### #is_/same_as :: [Shakespeare,William.internal](/_internal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.internal.md) 
 
-### #is_/same_as :: [Shakespeare,William.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.protect.md) 
+### #is_/same_as :: [Shakespeare,William.protect](/_protect/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.protect.md) 
 
-### #is_/same_as :: [Shakespeare,William.private](/_private/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.private.md) 
+### #is_/same_as :: [Shakespeare,William.private](/_private/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.private.md) 
 
-### #is_/same_as :: [Shakespeare,William.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.personal.md) 
+### #is_/same_as :: [Shakespeare,William.personal](/_personal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.personal.md) 
 
-### #is_/same_as :: [Shakespeare,William.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.secret.md)
+### #is_/same_as :: [Shakespeare,William.secret](/_secret/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.secret.md)
 

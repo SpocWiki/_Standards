@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cartier,Jacques](Cartier,Jacques.md) 
+### #is_/same_as :: [Cartier,Jacques](/_Standards/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.md) 
 
-### #is_/same_as :: [Cartier,Jacques.public](/_public/bio/People/Explorer/Age_of_Discovery/Cartier,Jacques.public.md) 
+### #is_/same_as :: [Cartier,Jacques.public](/_public/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.public.md) 
 
-### #is_/same_as :: [Cartier,Jacques.internal](/_internal/bio/People/Explorer/Age_of_Discovery/Cartier,Jacques.internal.md) 
+### #is_/same_as :: [Cartier,Jacques.internal](/_internal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.internal.md) 
 
-### #is_/same_as :: [Cartier,Jacques.protect](/_protect/bio/People/Explorer/Age_of_Discovery/Cartier,Jacques.protect.md) 
+### #is_/same_as :: [Cartier,Jacques.protect](/_protect/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.protect.md) 
 
-### #is_/same_as :: [Cartier,Jacques.private](/_private/bio/People/Explorer/Age_of_Discovery/Cartier,Jacques.private.md) 
+### #is_/same_as :: [Cartier,Jacques.private](/_private/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.private.md) 
 
-### #is_/same_as :: [Cartier,Jacques.personal](/_personal/bio/People/Explorer/Age_of_Discovery/Cartier,Jacques.personal.md) 
+### #is_/same_as :: [Cartier,Jacques.personal](/_personal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.personal.md) 
 
-### #is_/same_as :: [Cartier,Jacques.secret](/_secret/bio/People/Explorer/Age_of_Discovery/Cartier,Jacques.secret.md)
+### #is_/same_as :: [Cartier,Jacques.secret](/_secret/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.secret.md)
 

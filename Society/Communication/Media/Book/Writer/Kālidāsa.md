@@ -73,17 +73,17 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kālidāsa](Kālidāsa.md) 
+### #is_/same_as :: [Kālidāsa](/_Standards/Society/Communication/Media/Book/Writer/Kālidāsa.md) 
 
-### #is_/same_as :: [Kālidāsa.public](/_public/bio/People/Writer/Kālidāsa.public.md) 
+### #is_/same_as :: [Kālidāsa.public](/_public/Society/Communication/Media/Book/Writer/Kālidāsa.public.md) 
 
-### #is_/same_as :: [Kālidāsa.internal](/_internal/bio/People/Writer/Kālidāsa.internal.md) 
+### #is_/same_as :: [Kālidāsa.internal](/_internal/Society/Communication/Media/Book/Writer/Kālidāsa.internal.md) 
 
-### #is_/same_as :: [Kālidāsa.protect](/_protect/bio/People/Writer/Kālidāsa.protect.md) 
+### #is_/same_as :: [Kālidāsa.protect](/_protect/Society/Communication/Media/Book/Writer/Kālidāsa.protect.md) 
 
-### #is_/same_as :: [Kālidāsa.private](/_private/bio/People/Writer/Kālidāsa.private.md) 
+### #is_/same_as :: [Kālidāsa.private](/_private/Society/Communication/Media/Book/Writer/Kālidāsa.private.md) 
 
-### #is_/same_as :: [Kālidāsa.personal](/_personal/bio/People/Writer/Kālidāsa.personal.md) 
+### #is_/same_as :: [Kālidāsa.personal](/_personal/Society/Communication/Media/Book/Writer/Kālidāsa.personal.md) 
 
-### #is_/same_as :: [Kālidāsa.secret](/_secret/bio/People/Writer/Kālidāsa.secret.md)
+### #is_/same_as :: [Kālidāsa.secret](/_secret/Society/Communication/Media/Book/Writer/Kālidāsa.secret.md)
 

@@ -75,17 +75,17 @@ BHCL_UUID: a05e33c2-ebe7-46cb-8d94-90baa8fe0c62
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galois,Évariste](Galois,Évariste.md) 
+### #is_/same_as :: [Galois,Évariste](/_Standards/Mathematics/Mathematician/Galois,Évariste.md) 
 
-### #is_/same_as :: [Galois,Évariste.public](/_public/bio/People/Mathematician/Galois,Évariste.public.md) 
+### #is_/same_as :: [Galois,Évariste.public](/_public/Mathematics/Mathematician/Galois,Évariste.public.md) 
 
-### #is_/same_as :: [Galois,Évariste.internal](/_internal/bio/People/Mathematician/Galois,Évariste.internal.md) 
+### #is_/same_as :: [Galois,Évariste.internal](/_internal/Mathematics/Mathematician/Galois,Évariste.internal.md) 
 
-### #is_/same_as :: [Galois,Évariste.protect](/_protect/bio/People/Mathematician/Galois,Évariste.protect.md) 
+### #is_/same_as :: [Galois,Évariste.protect](/_protect/Mathematics/Mathematician/Galois,Évariste.protect.md) 
 
-### #is_/same_as :: [Galois,Évariste.private](/_private/bio/People/Mathematician/Galois,Évariste.private.md) 
+### #is_/same_as :: [Galois,Évariste.private](/_private/Mathematics/Mathematician/Galois,Évariste.private.md) 
 
-### #is_/same_as :: [Galois,Évariste.personal](/_personal/bio/People/Mathematician/Galois,Évariste.personal.md) 
+### #is_/same_as :: [Galois,Évariste.personal](/_personal/Mathematics/Mathematician/Galois,Évariste.personal.md) 
 
-### #is_/same_as :: [Galois,Évariste.secret](/_secret/bio/People/Mathematician/Galois,Évariste.secret.md)
+### #is_/same_as :: [Galois,Évariste.secret](/_secret/Mathematics/Mathematician/Galois,Évariste.secret.md)
 

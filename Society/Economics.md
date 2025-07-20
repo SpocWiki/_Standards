@@ -175,36 +175,17 @@ excalidraw-autoexport: svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economics](Economics.md) 
+### #is_/same_as :: [Economics](/_Standards/Society/Economics.md) 
 
-### #is_/same_as :: [Economics.public](/_public/Economics.public.md) 
+### #is_/same_as :: [Economics.public](/_public/Society/Economics.public.md) 
 
-### #is_/same_as :: [Economics.internal](/_internal/Economics.internal.md) 
+### #is_/same_as :: [Economics.internal](/_internal/Society/Economics.internal.md) 
 
-### #is_/same_as :: [Economics.protect](/_protect/Economics.protect.md) 
+### #is_/same_as :: [Economics.protect](/_protect/Society/Economics.protect.md) 
 
-### #is_/same_as :: [Economics.private](/_private/Economics.private.md) 
+### #is_/same_as :: [Economics.private](/_private/Society/Economics.private.md) 
 
-### #is_/same_as :: [Economics.personal](/_personal/Economics.personal.md) 
+### #is_/same_as :: [Economics.personal](/_personal/Society/Economics.personal.md) 
 
-### #is_/same_as :: [Economics.secret](/_secret/Economics.secret.md)
+### #is_/same_as :: [Economics.secret](/_secret/Society/Economics.secret.md)
 
-
-# [[Economics]] 
-
-#is_/part_of :: [[Economics]] 
-
-![[Economics.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

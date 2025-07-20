@@ -100,17 +100,17 @@ Commons_Creator_page: Timur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Timur](Timur.md) 
+### #is_/same_as :: [Timur](/_Standards/Society/Government/Leader/Middle_Age_Leaders/Timur.md) 
 
-### #is_/same_as :: [Timur.public](/_public/bio/People/Leader/Middle_Age_Leaders/Timur.public.md) 
+### #is_/same_as :: [Timur.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Timur.public.md) 
 
-### #is_/same_as :: [Timur.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Timur.internal.md) 
+### #is_/same_as :: [Timur.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Timur.internal.md) 
 
-### #is_/same_as :: [Timur.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Timur.protect.md) 
+### #is_/same_as :: [Timur.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Timur.protect.md) 
 
-### #is_/same_as :: [Timur.private](/_private/bio/People/Leader/Middle_Age_Leaders/Timur.private.md) 
+### #is_/same_as :: [Timur.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Timur.private.md) 
 
-### #is_/same_as :: [Timur.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Timur.personal.md) 
+### #is_/same_as :: [Timur.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Timur.personal.md) 
 
-### #is_/same_as :: [Timur.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Timur.secret.md)
+### #is_/same_as :: [Timur.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Timur.secret.md)
 

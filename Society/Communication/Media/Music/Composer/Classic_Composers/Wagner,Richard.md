@@ -156,17 +156,17 @@ Stadtwiki_Dresden_article: Richard_Wagner
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wagner,Richard](Wagner,Richard.md) 
+### #is_/same_as :: [Wagner,Richard](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.md) 
 
-### #is_/same_as :: [Wagner,Richard.public](/_public/bio/People/Composer/Classic_Composers/Wagner,Richard.public.md) 
+### #is_/same_as :: [Wagner,Richard.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.public.md) 
 
-### #is_/same_as :: [Wagner,Richard.internal](/_internal/bio/People/Composer/Classic_Composers/Wagner,Richard.internal.md) 
+### #is_/same_as :: [Wagner,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.internal.md) 
 
-### #is_/same_as :: [Wagner,Richard.protect](/_protect/bio/People/Composer/Classic_Composers/Wagner,Richard.protect.md) 
+### #is_/same_as :: [Wagner,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.protect.md) 
 
-### #is_/same_as :: [Wagner,Richard.private](/_private/bio/People/Composer/Classic_Composers/Wagner,Richard.private.md) 
+### #is_/same_as :: [Wagner,Richard.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.private.md) 
 
-### #is_/same_as :: [Wagner,Richard.personal](/_personal/bio/People/Composer/Classic_Composers/Wagner,Richard.personal.md) 
+### #is_/same_as :: [Wagner,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.personal.md) 
 
-### #is_/same_as :: [Wagner,Richard.secret](/_secret/bio/People/Composer/Classic_Composers/Wagner,Richard.secret.md)
+### #is_/same_as :: [Wagner,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composers/Wagner,Richard.secret.md)
 

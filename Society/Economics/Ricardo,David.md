@@ -136,17 +136,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20David%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ricardo,David](Ricardo,David.md) 
+### #is_/same_as :: [Ricardo,David](/_Standards/Society/Economics/Ricardo,David.md) 
 
-### #is_/same_as :: [Ricardo,David.public](/_public/Economics/Ricardo,David.public.md) 
+### #is_/same_as :: [Ricardo,David.public](/_public/Society/Economics/Ricardo,David.public.md) 
 
-### #is_/same_as :: [Ricardo,David.internal](/_internal/Economics/Ricardo,David.internal.md) 
+### #is_/same_as :: [Ricardo,David.internal](/_internal/Society/Economics/Ricardo,David.internal.md) 
 
-### #is_/same_as :: [Ricardo,David.protect](/_protect/Economics/Ricardo,David.protect.md) 
+### #is_/same_as :: [Ricardo,David.protect](/_protect/Society/Economics/Ricardo,David.protect.md) 
 
-### #is_/same_as :: [Ricardo,David.private](/_private/Economics/Ricardo,David.private.md) 
+### #is_/same_as :: [Ricardo,David.private](/_private/Society/Economics/Ricardo,David.private.md) 
 
-### #is_/same_as :: [Ricardo,David.personal](/_personal/Economics/Ricardo,David.personal.md) 
+### #is_/same_as :: [Ricardo,David.personal](/_personal/Society/Economics/Ricardo,David.personal.md) 
 
-### #is_/same_as :: [Ricardo,David.secret](/_secret/Economics/Ricardo,David.secret.md)
+### #is_/same_as :: [Ricardo,David.secret](/_secret/Society/Economics/Ricardo,David.secret.md)
 

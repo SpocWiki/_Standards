@@ -72,17 +72,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galen](Galen.md) 
+### #is_/same_as :: [Galen](/_Standards/Science/Scientist/Ancient_Scientists/Galen.md) 
 
-### #is_/same_as :: [Galen.public](/_public/bio/People/Scientist/Ancient_Scientists/Galen.public.md) 
+### #is_/same_as :: [Galen.public](/_public/Science/Scientist/Ancient_Scientists/Galen.public.md) 
 
-### #is_/same_as :: [Galen.internal](/_internal/bio/People/Scientist/Ancient_Scientists/Galen.internal.md) 
+### #is_/same_as :: [Galen.internal](/_internal/Science/Scientist/Ancient_Scientists/Galen.internal.md) 
 
-### #is_/same_as :: [Galen.protect](/_protect/bio/People/Scientist/Ancient_Scientists/Galen.protect.md) 
+### #is_/same_as :: [Galen.protect](/_protect/Science/Scientist/Ancient_Scientists/Galen.protect.md) 
 
-### #is_/same_as :: [Galen.private](/_private/bio/People/Scientist/Ancient_Scientists/Galen.private.md) 
+### #is_/same_as :: [Galen.private](/_private/Science/Scientist/Ancient_Scientists/Galen.private.md) 
 
-### #is_/same_as :: [Galen.personal](/_personal/bio/People/Scientist/Ancient_Scientists/Galen.personal.md) 
+### #is_/same_as :: [Galen.personal](/_personal/Science/Scientist/Ancient_Scientists/Galen.personal.md) 
 
-### #is_/same_as :: [Galen.secret](/_secret/bio/People/Scientist/Ancient_Scientists/Galen.secret.md)
+### #is_/same_as :: [Galen.secret](/_secret/Science/Scientist/Ancient_Scientists/Galen.secret.md)
 

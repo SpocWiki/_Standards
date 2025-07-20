@@ -130,17 +130,17 @@ NLC_authorities: 000311020
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riemann,Bernhard](Riemann,Bernhard.md) 
+### #is_/same_as :: [Riemann,Bernhard](/_Standards/Mathematics/Mathematician/Riemann,Bernhard.md) 
 
-### #is_/same_as :: [Riemann,Bernhard.public](/_public/bio/People/Mathematician/Riemann,Bernhard.public.md) 
+### #is_/same_as :: [Riemann,Bernhard.public](/_public/Mathematics/Mathematician/Riemann,Bernhard.public.md) 
 
-### #is_/same_as :: [Riemann,Bernhard.internal](/_internal/bio/People/Mathematician/Riemann,Bernhard.internal.md) 
+### #is_/same_as :: [Riemann,Bernhard.internal](/_internal/Mathematics/Mathematician/Riemann,Bernhard.internal.md) 
 
-### #is_/same_as :: [Riemann,Bernhard.protect](/_protect/bio/People/Mathematician/Riemann,Bernhard.protect.md) 
+### #is_/same_as :: [Riemann,Bernhard.protect](/_protect/Mathematics/Mathematician/Riemann,Bernhard.protect.md) 
 
-### #is_/same_as :: [Riemann,Bernhard.private](/_private/bio/People/Mathematician/Riemann,Bernhard.private.md) 
+### #is_/same_as :: [Riemann,Bernhard.private](/_private/Mathematics/Mathematician/Riemann,Bernhard.private.md) 
 
-### #is_/same_as :: [Riemann,Bernhard.personal](/_personal/bio/People/Mathematician/Riemann,Bernhard.personal.md) 
+### #is_/same_as :: [Riemann,Bernhard.personal](/_personal/Mathematics/Mathematician/Riemann,Bernhard.personal.md) 
 
-### #is_/same_as :: [Riemann,Bernhard.secret](/_secret/bio/People/Mathematician/Riemann,Bernhard.secret.md)
+### #is_/same_as :: [Riemann,Bernhard.secret](/_secret/Mathematics/Mathematician/Riemann,Bernhard.secret.md)
 

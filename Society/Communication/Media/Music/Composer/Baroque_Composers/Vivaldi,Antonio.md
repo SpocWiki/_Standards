@@ -150,17 +150,17 @@ date_of_birth: "1678-03-04"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vivaldi,Antonio](Vivaldi,Antonio.md) 
+### #is_/same_as :: [Vivaldi,Antonio](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.md) 
 
-### #is_/same_as :: [Vivaldi,Antonio.public](/_public/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.public.md) 
+### #is_/same_as :: [Vivaldi,Antonio.public](/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.public.md) 
 
-### #is_/same_as :: [Vivaldi,Antonio.internal](/_internal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.internal.md) 
+### #is_/same_as :: [Vivaldi,Antonio.internal](/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.internal.md) 
 
-### #is_/same_as :: [Vivaldi,Antonio.protect](/_protect/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.protect.md) 
+### #is_/same_as :: [Vivaldi,Antonio.protect](/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.protect.md) 
 
-### #is_/same_as :: [Vivaldi,Antonio.private](/_private/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.private.md) 
+### #is_/same_as :: [Vivaldi,Antonio.private](/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.private.md) 
 
-### #is_/same_as :: [Vivaldi,Antonio.personal](/_personal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.personal.md) 
+### #is_/same_as :: [Vivaldi,Antonio.personal](/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.personal.md) 
 
-### #is_/same_as :: [Vivaldi,Antonio.secret](/_secret/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.secret.md)
+### #is_/same_as :: [Vivaldi,Antonio.secret](/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio.secret.md)
 

@@ -363,17 +363,17 @@ work_period_end_: "1528"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dürer,Albrecht](Dürer,Albrecht.md) 
+### #is_/same_as :: [Dürer,Albrecht](/_Standards/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.md) 
 
-### #is_/same_as :: [Dürer,Albrecht.public](/_public/bio/People/Painter/Dürer,Albrecht.public.md) 
+### #is_/same_as :: [Dürer,Albrecht.public](/_public/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.public.md) 
 
-### #is_/same_as :: [Dürer,Albrecht.internal](/_internal/bio/People/Painter/Dürer,Albrecht.internal.md) 
+### #is_/same_as :: [Dürer,Albrecht.internal](/_internal/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.internal.md) 
 
-### #is_/same_as :: [Dürer,Albrecht.protect](/_protect/bio/People/Painter/Dürer,Albrecht.protect.md) 
+### #is_/same_as :: [Dürer,Albrecht.protect](/_protect/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.protect.md) 
 
-### #is_/same_as :: [Dürer,Albrecht.private](/_private/bio/People/Painter/Dürer,Albrecht.private.md) 
+### #is_/same_as :: [Dürer,Albrecht.private](/_private/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.private.md) 
 
-### #is_/same_as :: [Dürer,Albrecht.personal](/_personal/bio/People/Painter/Dürer,Albrecht.personal.md) 
+### #is_/same_as :: [Dürer,Albrecht.personal](/_personal/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.personal.md) 
 
-### #is_/same_as :: [Dürer,Albrecht.secret](/_secret/bio/People/Painter/Dürer,Albrecht.secret.md)
+### #is_/same_as :: [Dürer,Albrecht.secret](/_secret/Society/Communication/Media/Painting/Painter/Dürer,Albrecht.secret.md)
 

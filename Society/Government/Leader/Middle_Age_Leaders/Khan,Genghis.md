@@ -205,17 +205,17 @@ IPI_name_number: 00025078792
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khan,Genghis](Khan,Genghis.md) 
+### #is_/same_as :: [Khan,Genghis](/_Standards/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.md) 
 
-### #is_/same_as :: [Khan,Genghis.public](/_public/bio/People/Leader/Middle_Age_Leaders/Khan,Genghis.public.md) 
+### #is_/same_as :: [Khan,Genghis.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.public.md) 
 
-### #is_/same_as :: [Khan,Genghis.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Khan,Genghis.internal.md) 
+### #is_/same_as :: [Khan,Genghis.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.internal.md) 
 
-### #is_/same_as :: [Khan,Genghis.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Khan,Genghis.protect.md) 
+### #is_/same_as :: [Khan,Genghis.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.protect.md) 
 
-### #is_/same_as :: [Khan,Genghis.private](/_private/bio/People/Leader/Middle_Age_Leaders/Khan,Genghis.private.md) 
+### #is_/same_as :: [Khan,Genghis.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.private.md) 
 
-### #is_/same_as :: [Khan,Genghis.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Khan,Genghis.personal.md) 
+### #is_/same_as :: [Khan,Genghis.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.personal.md) 
 
-### #is_/same_as :: [Khan,Genghis.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Khan,Genghis.secret.md)
+### #is_/same_as :: [Khan,Genghis.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Khan,Genghis.secret.md)
 

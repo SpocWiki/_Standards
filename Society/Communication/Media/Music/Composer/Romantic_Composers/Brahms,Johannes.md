@@ -132,17 +132,17 @@ pseudonym: "G.W. Marks"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahms,Johannes](Brahms,Johannes.md) 
+### #is_/same_as :: [Brahms,Johannes](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.md) 
 
-### #is_/same_as :: [Brahms,Johannes.public](/_public/bio/People/Composer/Romantic_Composers/Brahms,Johannes.public.md) 
+### #is_/same_as :: [Brahms,Johannes.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.public.md) 
 
-### #is_/same_as :: [Brahms,Johannes.internal](/_internal/bio/People/Composer/Romantic_Composers/Brahms,Johannes.internal.md) 
+### #is_/same_as :: [Brahms,Johannes.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.internal.md) 
 
-### #is_/same_as :: [Brahms,Johannes.protect](/_protect/bio/People/Composer/Romantic_Composers/Brahms,Johannes.protect.md) 
+### #is_/same_as :: [Brahms,Johannes.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.protect.md) 
 
-### #is_/same_as :: [Brahms,Johannes.private](/_private/bio/People/Composer/Romantic_Composers/Brahms,Johannes.private.md) 
+### #is_/same_as :: [Brahms,Johannes.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.private.md) 
 
-### #is_/same_as :: [Brahms,Johannes.personal](/_personal/bio/People/Composer/Romantic_Composers/Brahms,Johannes.personal.md) 
+### #is_/same_as :: [Brahms,Johannes.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.personal.md) 
 
-### #is_/same_as :: [Brahms,Johannes.secret](/_secret/bio/People/Composer/Romantic_Composers/Brahms,Johannes.secret.md)
+### #is_/same_as :: [Brahms,Johannes.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Brahms,Johannes.secret.md)
 

@@ -47,17 +47,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Whitehead,Alfred_North](Whitehead,Alfred_North.md) 
+### #is_/same_as :: [Whitehead,Alfred_North](/_Standards/Mathematics/Mathematician/Whitehead,Alfred_North.md) 
 
-### #is_/same_as :: [Whitehead,Alfred_North.public](/_public/bio/People/Mathematician/Whitehead,Alfred_North.public.md) 
+### #is_/same_as :: [Whitehead,Alfred_North.public](/_public/Mathematics/Mathematician/Whitehead,Alfred_North.public.md) 
 
-### #is_/same_as :: [Whitehead,Alfred_North.internal](/_internal/bio/People/Mathematician/Whitehead,Alfred_North.internal.md) 
+### #is_/same_as :: [Whitehead,Alfred_North.internal](/_internal/Mathematics/Mathematician/Whitehead,Alfred_North.internal.md) 
 
-### #is_/same_as :: [Whitehead,Alfred_North.protect](/_protect/bio/People/Mathematician/Whitehead,Alfred_North.protect.md) 
+### #is_/same_as :: [Whitehead,Alfred_North.protect](/_protect/Mathematics/Mathematician/Whitehead,Alfred_North.protect.md) 
 
-### #is_/same_as :: [Whitehead,Alfred_North.private](/_private/bio/People/Mathematician/Whitehead,Alfred_North.private.md) 
+### #is_/same_as :: [Whitehead,Alfred_North.private](/_private/Mathematics/Mathematician/Whitehead,Alfred_North.private.md) 
 
-### #is_/same_as :: [Whitehead,Alfred_North.personal](/_personal/bio/People/Mathematician/Whitehead,Alfred_North.personal.md) 
+### #is_/same_as :: [Whitehead,Alfred_North.personal](/_personal/Mathematics/Mathematician/Whitehead,Alfred_North.personal.md) 
 
-### #is_/same_as :: [Whitehead,Alfred_North.secret](/_secret/bio/People/Mathematician/Whitehead,Alfred_North.secret.md)
+### #is_/same_as :: [Whitehead,Alfred_North.secret](/_secret/Mathematics/Mathematician/Whitehead,Alfred_North.secret.md)
 

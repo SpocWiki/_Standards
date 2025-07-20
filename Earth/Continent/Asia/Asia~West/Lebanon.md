@@ -495,23 +495,3 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 
 ### #is_/same_as :: [Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret.md)
 
-
-
-# [[Lebanon]] 
-
-#is_/part_of :: [[Libanon]] 
-
-![[Lebanon.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

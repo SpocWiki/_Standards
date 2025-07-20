@@ -43,17 +43,17 @@ OpenStreetMap_tag_or_key: "Key:crop"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crop](Crop.md) 
+### #is_/same_as :: [Crop](/_Standards/Society/Economics/Industry/Agriculture/Crop.md) 
 
-### #is_/same_as :: [Crop.public](/_public/Economics/Industry/Agriculture/Crop.public.md) 
+### #is_/same_as :: [Crop.public](/_public/Society/Economics/Industry/Agriculture/Crop.public.md) 
 
-### #is_/same_as :: [Crop.internal](/_internal/Economics/Industry/Agriculture/Crop.internal.md) 
+### #is_/same_as :: [Crop.internal](/_internal/Society/Economics/Industry/Agriculture/Crop.internal.md) 
 
-### #is_/same_as :: [Crop.protect](/_protect/Economics/Industry/Agriculture/Crop.protect.md) 
+### #is_/same_as :: [Crop.protect](/_protect/Society/Economics/Industry/Agriculture/Crop.protect.md) 
 
-### #is_/same_as :: [Crop.private](/_private/Economics/Industry/Agriculture/Crop.private.md) 
+### #is_/same_as :: [Crop.private](/_private/Society/Economics/Industry/Agriculture/Crop.private.md) 
 
-### #is_/same_as :: [Crop.personal](/_personal/Economics/Industry/Agriculture/Crop.personal.md) 
+### #is_/same_as :: [Crop.personal](/_personal/Society/Economics/Industry/Agriculture/Crop.personal.md) 
 
-### #is_/same_as :: [Crop.secret](/_secret/Economics/Industry/Agriculture/Crop.secret.md)
+### #is_/same_as :: [Crop.secret](/_secret/Society/Economics/Industry/Agriculture/Crop.secret.md)
 

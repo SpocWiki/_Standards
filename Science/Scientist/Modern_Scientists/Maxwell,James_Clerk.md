@@ -77,17 +77,17 @@ has_id_wikidata: Q9095
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maxwell,James_Clerk](Maxwell,James_Clerk.md) 
+### #is_/same_as :: [Maxwell,James_Clerk](/_Standards/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.md) 
 
-### #is_/same_as :: [Maxwell,James_Clerk.public](/_public/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.public.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.public](/_public/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.public.md) 
 
-### #is_/same_as :: [Maxwell,James_Clerk.internal](/_internal/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.internal.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.internal](/_internal/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.internal.md) 
 
-### #is_/same_as :: [Maxwell,James_Clerk.protect](/_protect/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.protect.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.protect](/_protect/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.protect.md) 
 
-### #is_/same_as :: [Maxwell,James_Clerk.private](/_private/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.private.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.private](/_private/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.private.md) 
 
-### #is_/same_as :: [Maxwell,James_Clerk.personal](/_personal/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.personal.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.personal](/_personal/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.personal.md) 
 
-### #is_/same_as :: [Maxwell,James_Clerk.secret](/_secret/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.secret.md)
+### #is_/same_as :: [Maxwell,James_Clerk.secret](/_secret/Science/Scientist/Modern_Scientists/Maxwell,James_Clerk.secret.md)
 

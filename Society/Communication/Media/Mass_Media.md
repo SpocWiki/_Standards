@@ -86,3 +86,22 @@ U_S_National_Archives_Identifier: 10638171
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mass_Media](/_Standards/Society/Communication/Media/Mass_Media.md) 
+
+### #is_/same_as :: [Mass_Media.public](/_public/Society/Communication/Media/Mass_Media.public.md) 
+
+### #is_/same_as :: [Mass_Media.internal](/_internal/Society/Communication/Media/Mass_Media.internal.md) 
+
+### #is_/same_as :: [Mass_Media.protect](/_protect/Society/Communication/Media/Mass_Media.protect.md) 
+
+### #is_/same_as :: [Mass_Media.private](/_private/Society/Communication/Media/Mass_Media.private.md) 
+
+### #is_/same_as :: [Mass_Media.personal](/_personal/Society/Communication/Media/Mass_Media.personal.md) 
+
+### #is_/same_as :: [Mass_Media.secret](/_secret/Society/Communication/Media/Mass_Media.secret.md)
+

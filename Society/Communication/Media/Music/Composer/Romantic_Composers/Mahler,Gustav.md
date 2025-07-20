@@ -123,17 +123,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahler,Gustav](Mahler,Gustav.md) 
+### #is_/same_as :: [Mahler,Gustav](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.md) 
 
-### #is_/same_as :: [Mahler,Gustav.public](/_public/bio/People/Composer/Romantic_Composers/Mahler,Gustav.public.md) 
+### #is_/same_as :: [Mahler,Gustav.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.public.md) 
 
-### #is_/same_as :: [Mahler,Gustav.internal](/_internal/bio/People/Composer/Romantic_Composers/Mahler,Gustav.internal.md) 
+### #is_/same_as :: [Mahler,Gustav.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.internal.md) 
 
-### #is_/same_as :: [Mahler,Gustav.protect](/_protect/bio/People/Composer/Romantic_Composers/Mahler,Gustav.protect.md) 
+### #is_/same_as :: [Mahler,Gustav.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.protect.md) 
 
-### #is_/same_as :: [Mahler,Gustav.private](/_private/bio/People/Composer/Romantic_Composers/Mahler,Gustav.private.md) 
+### #is_/same_as :: [Mahler,Gustav.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.private.md) 
 
-### #is_/same_as :: [Mahler,Gustav.personal](/_personal/bio/People/Composer/Romantic_Composers/Mahler,Gustav.personal.md) 
+### #is_/same_as :: [Mahler,Gustav.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.personal.md) 
 
-### #is_/same_as :: [Mahler,Gustav.secret](/_secret/bio/People/Composer/Romantic_Composers/Mahler,Gustav.secret.md)
+### #is_/same_as :: [Mahler,Gustav.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Mahler,Gustav.secret.md)
 

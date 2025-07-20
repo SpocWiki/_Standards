@@ -242,17 +242,17 @@ BHCL_UUID: 5315dcd0-098d-49ba-94aa-c4afd74194c5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linnaeus,Carl](Linnaeus,Carl.md) 
+### #is_/same_as :: [Linnaeus,Carl](/_Standards/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.md) 
 
-### #is_/same_as :: [Linnaeus,Carl.public](/_public/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.public.md) 
+### #is_/same_as :: [Linnaeus,Carl.public](/_public/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.public.md) 
 
-### #is_/same_as :: [Linnaeus,Carl.internal](/_internal/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.internal.md) 
+### #is_/same_as :: [Linnaeus,Carl.internal](/_internal/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.internal.md) 
 
-### #is_/same_as :: [Linnaeus,Carl.protect](/_protect/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.protect.md) 
+### #is_/same_as :: [Linnaeus,Carl.protect](/_protect/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.protect.md) 
 
-### #is_/same_as :: [Linnaeus,Carl.private](/_private/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.private.md) 
+### #is_/same_as :: [Linnaeus,Carl.private](/_private/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.private.md) 
 
-### #is_/same_as :: [Linnaeus,Carl.personal](/_personal/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.personal.md) 
+### #is_/same_as :: [Linnaeus,Carl.personal](/_personal/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.personal.md) 
 
-### #is_/same_as :: [Linnaeus,Carl.secret](/_secret/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.secret.md)
+### #is_/same_as :: [Linnaeus,Carl.secret](/_secret/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.secret.md)
 

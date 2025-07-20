@@ -178,17 +178,17 @@ excalidraw-autoexport: svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beatles](Beatles.md) 
+### #is_/same_as :: [Beatles](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.md) 
 
-### #is_/same_as :: [Beatles.public](/_public/bio/People/Musician/Rock-Musician/Beatles.public.md) 
+### #is_/same_as :: [Beatles.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.public.md) 
 
-### #is_/same_as :: [Beatles.internal](/_internal/bio/People/Musician/Rock-Musician/Beatles.internal.md) 
+### #is_/same_as :: [Beatles.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.internal.md) 
 
-### #is_/same_as :: [Beatles.protect](/_protect/bio/People/Musician/Rock-Musician/Beatles.protect.md) 
+### #is_/same_as :: [Beatles.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.protect.md) 
 
-### #is_/same_as :: [Beatles.private](/_private/bio/People/Musician/Rock-Musician/Beatles.private.md) 
+### #is_/same_as :: [Beatles.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.private.md) 
 
-### #is_/same_as :: [Beatles.personal](/_personal/bio/People/Musician/Rock-Musician/Beatles.personal.md) 
+### #is_/same_as :: [Beatles.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.personal.md) 
 
-### #is_/same_as :: [Beatles.secret](/_secret/bio/People/Musician/Rock-Musician/Beatles.secret.md)
+### #is_/same_as :: [Beatles.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Beatles.secret.md)
 

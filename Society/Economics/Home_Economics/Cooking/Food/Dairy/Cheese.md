@@ -77,17 +77,17 @@ subreddit: Cheese
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cheese](Cheese.md) 
+### #is_/same_as :: [Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.md) 
 
-### #is_/same_as :: [Cheese.public](/_public/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.public.md) 
+### #is_/same_as :: [Cheese.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.public.md) 
 
-### #is_/same_as :: [Cheese.internal](/_internal/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.internal.md) 
+### #is_/same_as :: [Cheese.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.internal.md) 
 
-### #is_/same_as :: [Cheese.protect](/_protect/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.protect.md) 
+### #is_/same_as :: [Cheese.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.protect.md) 
 
-### #is_/same_as :: [Cheese.private](/_private/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.private.md) 
+### #is_/same_as :: [Cheese.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.private.md) 
 
-### #is_/same_as :: [Cheese.personal](/_personal/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.personal.md) 
+### #is_/same_as :: [Cheese.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.personal.md) 
 
-### #is_/same_as :: [Cheese.secret](/_secret/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.secret.md)
+### #is_/same_as :: [Cheese.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese.secret.md)
 

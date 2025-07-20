@@ -126,17 +126,17 @@ date_of_birth: "0701-05-23"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bai,Li](Bai,Li.md) 
+### #is_/same_as :: [Bai,Li](/_Standards/Society/Communication/Media/Book/Writer/Bai,Li.md) 
 
-### #is_/same_as :: [Bai,Li.public](/_public/bio/People/Writer/Bai,Li.public.md) 
+### #is_/same_as :: [Bai,Li.public](/_public/Society/Communication/Media/Book/Writer/Bai,Li.public.md) 
 
-### #is_/same_as :: [Bai,Li.internal](/_internal/bio/People/Writer/Bai,Li.internal.md) 
+### #is_/same_as :: [Bai,Li.internal](/_internal/Society/Communication/Media/Book/Writer/Bai,Li.internal.md) 
 
-### #is_/same_as :: [Bai,Li.protect](/_protect/bio/People/Writer/Bai,Li.protect.md) 
+### #is_/same_as :: [Bai,Li.protect](/_protect/Society/Communication/Media/Book/Writer/Bai,Li.protect.md) 
 
-### #is_/same_as :: [Bai,Li.private](/_private/bio/People/Writer/Bai,Li.private.md) 
+### #is_/same_as :: [Bai,Li.private](/_private/Society/Communication/Media/Book/Writer/Bai,Li.private.md) 
 
-### #is_/same_as :: [Bai,Li.personal](/_personal/bio/People/Writer/Bai,Li.personal.md) 
+### #is_/same_as :: [Bai,Li.personal](/_personal/Society/Communication/Media/Book/Writer/Bai,Li.personal.md) 
 
-### #is_/same_as :: [Bai,Li.secret](/_secret/bio/People/Writer/Bai,Li.secret.md)
+### #is_/same_as :: [Bai,Li.secret](/_secret/Society/Communication/Media/Book/Writer/Bai,Li.secret.md)
 

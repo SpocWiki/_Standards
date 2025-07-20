@@ -61,17 +61,17 @@ Colon_Classification: J781
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cotton](Cotton.md) 
+### #is_/same_as :: [Cotton](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton.md) 
 
-### #is_/same_as :: [Cotton.public](/_public/Economics/Industry/Agriculture/Crop/Cotton.public.md) 
+### #is_/same_as :: [Cotton.public](/_public/Society/Economics/Industry/Agriculture/Crop/Cotton.public.md) 
 
-### #is_/same_as :: [Cotton.internal](/_internal/Economics/Industry/Agriculture/Crop/Cotton.internal.md) 
+### #is_/same_as :: [Cotton.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Cotton.internal.md) 
 
-### #is_/same_as :: [Cotton.protect](/_protect/Economics/Industry/Agriculture/Crop/Cotton.protect.md) 
+### #is_/same_as :: [Cotton.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Cotton.protect.md) 
 
-### #is_/same_as :: [Cotton.private](/_private/Economics/Industry/Agriculture/Crop/Cotton.private.md) 
+### #is_/same_as :: [Cotton.private](/_private/Society/Economics/Industry/Agriculture/Crop/Cotton.private.md) 
 
-### #is_/same_as :: [Cotton.personal](/_personal/Economics/Industry/Agriculture/Crop/Cotton.personal.md) 
+### #is_/same_as :: [Cotton.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Cotton.personal.md) 
 
-### #is_/same_as :: [Cotton.secret](/_secret/Economics/Industry/Agriculture/Crop/Cotton.secret.md)
+### #is_/same_as :: [Cotton.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Cotton.secret.md)
 

@@ -109,17 +109,17 @@ date_of_death: "1920-04-26"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ramanujan,Srinivasa](Ramanujan,Srinivasa.md) 
+### #is_/same_as :: [Ramanujan,Srinivasa](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.md) 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.public.md) 
+### #is_/same_as :: [Ramanujan,Srinivasa.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.public.md) 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.internal.md) 
+### #is_/same_as :: [Ramanujan,Srinivasa.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.internal.md) 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.protect.md) 
+### #is_/same_as :: [Ramanujan,Srinivasa.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.protect.md) 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.private.md) 
+### #is_/same_as :: [Ramanujan,Srinivasa.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.private.md) 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.personal.md) 
+### #is_/same_as :: [Ramanujan,Srinivasa.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.personal.md) 
 
-### #is_/same_as :: [Ramanujan,Srinivasa.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.secret.md)
+### #is_/same_as :: [Ramanujan,Srinivasa.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Ramanujan,Srinivasa.secret.md)
 

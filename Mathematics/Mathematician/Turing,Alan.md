@@ -181,17 +181,17 @@ Erdős_number: 5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turing,Alan](Turing,Alan.md) 
+### #is_/same_as :: [Turing,Alan](/_Standards/Mathematics/Mathematician/Turing,Alan.md) 
 
-### #is_/same_as :: [Turing,Alan.public](/_public/bio/People/Mathematician/Turing,Alan.public.md) 
+### #is_/same_as :: [Turing,Alan.public](/_public/Mathematics/Mathematician/Turing,Alan.public.md) 
 
-### #is_/same_as :: [Turing,Alan.internal](/_internal/bio/People/Mathematician/Turing,Alan.internal.md) 
+### #is_/same_as :: [Turing,Alan.internal](/_internal/Mathematics/Mathematician/Turing,Alan.internal.md) 
 
-### #is_/same_as :: [Turing,Alan.protect](/_protect/bio/People/Mathematician/Turing,Alan.protect.md) 
+### #is_/same_as :: [Turing,Alan.protect](/_protect/Mathematics/Mathematician/Turing,Alan.protect.md) 
 
-### #is_/same_as :: [Turing,Alan.private](/_private/bio/People/Mathematician/Turing,Alan.private.md) 
+### #is_/same_as :: [Turing,Alan.private](/_private/Mathematics/Mathematician/Turing,Alan.private.md) 
 
-### #is_/same_as :: [Turing,Alan.personal](/_personal/bio/People/Mathematician/Turing,Alan.personal.md) 
+### #is_/same_as :: [Turing,Alan.personal](/_personal/Mathematics/Mathematician/Turing,Alan.personal.md) 
 
-### #is_/same_as :: [Turing,Alan.secret](/_secret/bio/People/Mathematician/Turing,Alan.secret.md)
+### #is_/same_as :: [Turing,Alan.secret](/_secret/Mathematics/Mathematician/Turing,Alan.secret.md)
 

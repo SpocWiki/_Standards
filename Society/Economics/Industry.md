@@ -50,17 +50,17 @@ hashtag: industries
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Industry](Industry.md) 
+### #is_/same_as :: [Industry](/_Standards/Society/Economics/Industry.md) 
 
-### #is_/same_as :: [Industry.public](/_public/Economics/Industry.public.md) 
+### #is_/same_as :: [Industry.public](/_public/Society/Economics/Industry.public.md) 
 
-### #is_/same_as :: [Industry.internal](/_internal/Economics/Industry.internal.md) 
+### #is_/same_as :: [Industry.internal](/_internal/Society/Economics/Industry.internal.md) 
 
-### #is_/same_as :: [Industry.protect](/_protect/Economics/Industry.protect.md) 
+### #is_/same_as :: [Industry.protect](/_protect/Society/Economics/Industry.protect.md) 
 
-### #is_/same_as :: [Industry.private](/_private/Economics/Industry.private.md) 
+### #is_/same_as :: [Industry.private](/_private/Society/Economics/Industry.private.md) 
 
-### #is_/same_as :: [Industry.personal](/_personal/Economics/Industry.personal.md) 
+### #is_/same_as :: [Industry.personal](/_personal/Society/Economics/Industry.personal.md) 
 
-### #is_/same_as :: [Industry.secret](/_secret/Economics/Industry.secret.md)
+### #is_/same_as :: [Industry.secret](/_secret/Society/Economics/Industry.secret.md)
 

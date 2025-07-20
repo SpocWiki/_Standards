@@ -48,17 +48,17 @@ name: "Capital (economics)"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital(Economics)](Capital(Economics).md) 
+### #is_/same_as :: [Capital(Economics)](/_Standards/Society/Economics/Capital(Economics).md) 
 
-### #is_/same_as :: [Capital(Economics).public](/_public/Economics/Capital(Economics).public.md) 
+### #is_/same_as :: [Capital(Economics).public](/_public/Society/Economics/Capital(Economics).public.md) 
 
-### #is_/same_as :: [Capital(Economics).internal](/_internal/Economics/Capital(Economics).internal.md) 
+### #is_/same_as :: [Capital(Economics).internal](/_internal/Society/Economics/Capital(Economics).internal.md) 
 
-### #is_/same_as :: [Capital(Economics).protect](/_protect/Economics/Capital(Economics).protect.md) 
+### #is_/same_as :: [Capital(Economics).protect](/_protect/Society/Economics/Capital(Economics).protect.md) 
 
-### #is_/same_as :: [Capital(Economics).private](/_private/Economics/Capital(Economics).private.md) 
+### #is_/same_as :: [Capital(Economics).private](/_private/Society/Economics/Capital(Economics).private.md) 
 
-### #is_/same_as :: [Capital(Economics).personal](/_personal/Economics/Capital(Economics).personal.md) 
+### #is_/same_as :: [Capital(Economics).personal](/_personal/Society/Economics/Capital(Economics).personal.md) 
 
-### #is_/same_as :: [Capital(Economics).secret](/_secret/Economics/Capital(Economics).secret.md)
+### #is_/same_as :: [Capital(Economics).secret](/_secret/Society/Economics/Capital(Economics).secret.md)
 

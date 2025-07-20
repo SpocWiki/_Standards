@@ -105,17 +105,17 @@ name_in_native_language: Q. Horatius Flaccus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Horace](Horace.md) 
+### #is_/same_as :: [Horace](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.md) 
 
-### #is_/same_as :: [Horace.public](/_public/bio/People/Writer/Ancient_Writers/Horace.public.md) 
+### #is_/same_as :: [Horace.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.public.md) 
 
-### #is_/same_as :: [Horace.internal](/_internal/bio/People/Writer/Ancient_Writers/Horace.internal.md) 
+### #is_/same_as :: [Horace.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.internal.md) 
 
-### #is_/same_as :: [Horace.protect](/_protect/bio/People/Writer/Ancient_Writers/Horace.protect.md) 
+### #is_/same_as :: [Horace.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.protect.md) 
 
-### #is_/same_as :: [Horace.private](/_private/bio/People/Writer/Ancient_Writers/Horace.private.md) 
+### #is_/same_as :: [Horace.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.private.md) 
 
-### #is_/same_as :: [Horace.personal](/_personal/bio/People/Writer/Ancient_Writers/Horace.personal.md) 
+### #is_/same_as :: [Horace.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.personal.md) 
 
-### #is_/same_as :: [Horace.secret](/_secret/bio/People/Writer/Ancient_Writers/Horace.secret.md)
+### #is_/same_as :: [Horace.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.secret.md)
 

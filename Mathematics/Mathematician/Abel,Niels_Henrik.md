@@ -32,17 +32,17 @@ has_id_wikidata: Q124115
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abel,Niels_Henrik](Abel,Niels_Henrik.md) 
+### #is_/same_as :: [Abel,Niels_Henrik](/_Standards/Mathematics/Mathematician/Abel,Niels_Henrik.md) 
 
-### #is_/same_as :: [Abel,Niels_Henrik.public](/_public/bio/People/Mathematician/Abel,Niels_Henrik.public.md) 
+### #is_/same_as :: [Abel,Niels_Henrik.public](/_public/Mathematics/Mathematician/Abel,Niels_Henrik.public.md) 
 
-### #is_/same_as :: [Abel,Niels_Henrik.internal](/_internal/bio/People/Mathematician/Abel,Niels_Henrik.internal.md) 
+### #is_/same_as :: [Abel,Niels_Henrik.internal](/_internal/Mathematics/Mathematician/Abel,Niels_Henrik.internal.md) 
 
-### #is_/same_as :: [Abel,Niels_Henrik.protect](/_protect/bio/People/Mathematician/Abel,Niels_Henrik.protect.md) 
+### #is_/same_as :: [Abel,Niels_Henrik.protect](/_protect/Mathematics/Mathematician/Abel,Niels_Henrik.protect.md) 
 
-### #is_/same_as :: [Abel,Niels_Henrik.private](/_private/bio/People/Mathematician/Abel,Niels_Henrik.private.md) 
+### #is_/same_as :: [Abel,Niels_Henrik.private](/_private/Mathematics/Mathematician/Abel,Niels_Henrik.private.md) 
 
-### #is_/same_as :: [Abel,Niels_Henrik.personal](/_personal/bio/People/Mathematician/Abel,Niels_Henrik.personal.md) 
+### #is_/same_as :: [Abel,Niels_Henrik.personal](/_personal/Mathematics/Mathematician/Abel,Niels_Henrik.personal.md) 
 
-### #is_/same_as :: [Abel,Niels_Henrik.secret](/_secret/bio/People/Mathematician/Abel,Niels_Henrik.secret.md)
+### #is_/same_as :: [Abel,Niels_Henrik.secret](/_secret/Mathematics/Mathematician/Abel,Niels_Henrik.secret.md)
 

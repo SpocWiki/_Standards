@@ -150,17 +150,17 @@ date_of_birth: "1864-04-21"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weber,Max](Weber,Max.md) 
+### #is_/same_as :: [Weber,Max](/_Standards/Society/Sociology/Sociologist/Weber,Max.md) 
 
-### #is_/same_as :: [Weber,Max.public](/_public/bio/People/Sociologist/Weber,Max.public.md) 
+### #is_/same_as :: [Weber,Max.public](/_public/Society/Sociology/Sociologist/Weber,Max.public.md) 
 
-### #is_/same_as :: [Weber,Max.internal](/_internal/bio/People/Sociologist/Weber,Max.internal.md) 
+### #is_/same_as :: [Weber,Max.internal](/_internal/Society/Sociology/Sociologist/Weber,Max.internal.md) 
 
-### #is_/same_as :: [Weber,Max.protect](/_protect/bio/People/Sociologist/Weber,Max.protect.md) 
+### #is_/same_as :: [Weber,Max.protect](/_protect/Society/Sociology/Sociologist/Weber,Max.protect.md) 
 
-### #is_/same_as :: [Weber,Max.private](/_private/bio/People/Sociologist/Weber,Max.private.md) 
+### #is_/same_as :: [Weber,Max.private](/_private/Society/Sociology/Sociologist/Weber,Max.private.md) 
 
-### #is_/same_as :: [Weber,Max.personal](/_personal/bio/People/Sociologist/Weber,Max.personal.md) 
+### #is_/same_as :: [Weber,Max.personal](/_personal/Society/Sociology/Sociologist/Weber,Max.personal.md) 
 
-### #is_/same_as :: [Weber,Max.secret](/_secret/bio/People/Sociologist/Weber,Max.secret.md)
+### #is_/same_as :: [Weber,Max.secret](/_secret/Society/Sociology/Sociologist/Weber,Max.secret.md)
 

@@ -519,17 +519,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rubens,Peter_Paul](Rubens,Peter_Paul.md) 
+### #is_/same_as :: [Rubens,Peter_Paul](/_Standards/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.md) 
 
-### #is_/same_as :: [Rubens,Peter_Paul.public](/_public/bio/People/Painter/Rubens,Peter_Paul.public.md) 
+### #is_/same_as :: [Rubens,Peter_Paul.public](/_public/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.public.md) 
 
-### #is_/same_as :: [Rubens,Peter_Paul.internal](/_internal/bio/People/Painter/Rubens,Peter_Paul.internal.md) 
+### #is_/same_as :: [Rubens,Peter_Paul.internal](/_internal/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.internal.md) 
 
-### #is_/same_as :: [Rubens,Peter_Paul.protect](/_protect/bio/People/Painter/Rubens,Peter_Paul.protect.md) 
+### #is_/same_as :: [Rubens,Peter_Paul.protect](/_protect/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.protect.md) 
 
-### #is_/same_as :: [Rubens,Peter_Paul.private](/_private/bio/People/Painter/Rubens,Peter_Paul.private.md) 
+### #is_/same_as :: [Rubens,Peter_Paul.private](/_private/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.private.md) 
 
-### #is_/same_as :: [Rubens,Peter_Paul.personal](/_personal/bio/People/Painter/Rubens,Peter_Paul.personal.md) 
+### #is_/same_as :: [Rubens,Peter_Paul.personal](/_personal/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.personal.md) 
 
-### #is_/same_as :: [Rubens,Peter_Paul.secret](/_secret/bio/People/Painter/Rubens,Peter_Paul.secret.md)
+### #is_/same_as :: [Rubens,Peter_Paul.secret](/_secret/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.secret.md)
 

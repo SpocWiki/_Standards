@@ -251,17 +251,17 @@ ArhivX_LOD: 34010
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euler,Leonhard](Euler,Leonhard.md) 
+### #is_/same_as :: [Euler,Leonhard](/_Standards/Mathematics/Mathematician/Euler,Leonhard.md) 
 
-### #is_/same_as :: [Euler,Leonhard.public](/_public/bio/People/Mathematician/Euler,Leonhard.public.md) 
+### #is_/same_as :: [Euler,Leonhard.public](/_public/Mathematics/Mathematician/Euler,Leonhard.public.md) 
 
-### #is_/same_as :: [Euler,Leonhard.internal](/_internal/bio/People/Mathematician/Euler,Leonhard.internal.md) 
+### #is_/same_as :: [Euler,Leonhard.internal](/_internal/Mathematics/Mathematician/Euler,Leonhard.internal.md) 
 
-### #is_/same_as :: [Euler,Leonhard.protect](/_protect/bio/People/Mathematician/Euler,Leonhard.protect.md) 
+### #is_/same_as :: [Euler,Leonhard.protect](/_protect/Mathematics/Mathematician/Euler,Leonhard.protect.md) 
 
-### #is_/same_as :: [Euler,Leonhard.private](/_private/bio/People/Mathematician/Euler,Leonhard.private.md) 
+### #is_/same_as :: [Euler,Leonhard.private](/_private/Mathematics/Mathematician/Euler,Leonhard.private.md) 
 
-### #is_/same_as :: [Euler,Leonhard.personal](/_personal/bio/People/Mathematician/Euler,Leonhard.personal.md) 
+### #is_/same_as :: [Euler,Leonhard.personal](/_personal/Mathematics/Mathematician/Euler,Leonhard.personal.md) 
 
-### #is_/same_as :: [Euler,Leonhard.secret](/_secret/bio/People/Mathematician/Euler,Leonhard.secret.md)
+### #is_/same_as :: [Euler,Leonhard.secret](/_secret/Mathematics/Mathematician/Euler,Leonhard.secret.md)
 

@@ -61,17 +61,17 @@ Colon_Classification: X6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Money](Money.md) 
+### #is_/same_as :: [Money](/_Standards/Society/Economics/Money.md) 
 
-### #is_/same_as :: [Money.public](/_public/Economics/Money.public.md) 
+### #is_/same_as :: [Money.public](/_public/Society/Economics/Money.public.md) 
 
-### #is_/same_as :: [Money.internal](/_internal/Economics/Money.internal.md) 
+### #is_/same_as :: [Money.internal](/_internal/Society/Economics/Money.internal.md) 
 
-### #is_/same_as :: [Money.protect](/_protect/Economics/Money.protect.md) 
+### #is_/same_as :: [Money.protect](/_protect/Society/Economics/Money.protect.md) 
 
-### #is_/same_as :: [Money.private](/_private/Economics/Money.private.md) 
+### #is_/same_as :: [Money.private](/_private/Society/Economics/Money.private.md) 
 
-### #is_/same_as :: [Money.personal](/_personal/Economics/Money.personal.md) 
+### #is_/same_as :: [Money.personal](/_personal/Society/Economics/Money.personal.md) 
 
-### #is_/same_as :: [Money.secret](/_secret/Economics/Money.secret.md)
+### #is_/same_as :: [Money.secret](/_secret/Society/Economics/Money.secret.md)
 

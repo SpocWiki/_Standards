@@ -59,17 +59,17 @@ Rust accounts for a lot of degradation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product-Lifetime](Product-Lifetime.md) 
+### #is_/same_as :: [Product-Lifetime](/_Standards/Society/Economics/Capital(Economics)/Product-Lifetime.md) 
 
-### #is_/same_as :: [Product-Lifetime.public](/_public/Economics/Capital(Economics)/Product-Lifetime.public.md) 
+### #is_/same_as :: [Product-Lifetime.public](/_public/Society/Economics/Capital(Economics)/Product-Lifetime.public.md) 
 
-### #is_/same_as :: [Product-Lifetime.internal](/_internal/Economics/Capital(Economics)/Product-Lifetime.internal.md) 
+### #is_/same_as :: [Product-Lifetime.internal](/_internal/Society/Economics/Capital(Economics)/Product-Lifetime.internal.md) 
 
-### #is_/same_as :: [Product-Lifetime.protect](/_protect/Economics/Capital(Economics)/Product-Lifetime.protect.md) 
+### #is_/same_as :: [Product-Lifetime.protect](/_protect/Society/Economics/Capital(Economics)/Product-Lifetime.protect.md) 
 
-### #is_/same_as :: [Product-Lifetime.private](/_private/Economics/Capital(Economics)/Product-Lifetime.private.md) 
+### #is_/same_as :: [Product-Lifetime.private](/_private/Society/Economics/Capital(Economics)/Product-Lifetime.private.md) 
 
-### #is_/same_as :: [Product-Lifetime.personal](/_personal/Economics/Capital(Economics)/Product-Lifetime.personal.md) 
+### #is_/same_as :: [Product-Lifetime.personal](/_personal/Society/Economics/Capital(Economics)/Product-Lifetime.personal.md) 
 
-### #is_/same_as :: [Product-Lifetime.secret](/_secret/Economics/Capital(Economics)/Product-Lifetime.secret.md)
+### #is_/same_as :: [Product-Lifetime.secret](/_secret/Society/Economics/Capital(Economics)/Product-Lifetime.secret.md)
 

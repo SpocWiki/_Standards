@@ -180,17 +180,17 @@ date_of_birth: "1770-12-16"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beethoven,Ludwig_van](Beethoven,Ludwig_van.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.md) 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.public](/_public/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.public.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.public.md) 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.internal](/_internal/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.internal.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.internal.md) 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.protect](/_protect/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.protect.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.protect.md) 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.private](/_private/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.private.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.private.md) 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.personal](/_personal/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.personal.md) 
+### #is_/same_as :: [Beethoven,Ludwig_van.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.personal.md) 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.secret](/_secret/bio/People/Composer/Classic_Composers/Beethoven,Ludwig_van.secret.md)
+### #is_/same_as :: [Beethoven,Ludwig_van.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composers/Beethoven,Ludwig_van.secret.md)
 

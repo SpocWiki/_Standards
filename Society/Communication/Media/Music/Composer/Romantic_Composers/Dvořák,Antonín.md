@@ -183,17 +183,17 @@ number_of_children: 9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dvořák,Antonín](Dvořák,Antonín.md) 
+### #is_/same_as :: [Dvořák,Antonín](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.md) 
 
-### #is_/same_as :: [Dvořák,Antonín.public](/_public/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.public.md) 
+### #is_/same_as :: [Dvořák,Antonín.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.public.md) 
 
-### #is_/same_as :: [Dvořák,Antonín.internal](/_internal/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.internal.md) 
+### #is_/same_as :: [Dvořák,Antonín.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.internal.md) 
 
-### #is_/same_as :: [Dvořák,Antonín.protect](/_protect/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.protect.md) 
+### #is_/same_as :: [Dvořák,Antonín.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.protect.md) 
 
-### #is_/same_as :: [Dvořák,Antonín.private](/_private/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.private.md) 
+### #is_/same_as :: [Dvořák,Antonín.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.private.md) 
 
-### #is_/same_as :: [Dvořák,Antonín.personal](/_personal/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.personal.md) 
+### #is_/same_as :: [Dvořák,Antonín.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.personal.md) 
 
-### #is_/same_as :: [Dvořák,Antonín.secret](/_secret/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.secret.md)
+### #is_/same_as :: [Dvořák,Antonín.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composers/Dvořák,Antonín.secret.md)
 

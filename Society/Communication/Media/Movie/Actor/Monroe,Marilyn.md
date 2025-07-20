@@ -142,17 +142,17 @@ date_of_birth: "1926-06-01"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monroe,Marilyn](Monroe,Marilyn.md) 
+### #is_/same_as :: [Monroe,Marilyn](/_Standards/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.md) 
 
-### #is_/same_as :: [Monroe,Marilyn.public](/_public/bio/People/Actor/Monroe,Marilyn.public.md) 
+### #is_/same_as :: [Monroe,Marilyn.public](/_public/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.public.md) 
 
-### #is_/same_as :: [Monroe,Marilyn.internal](/_internal/bio/People/Actor/Monroe,Marilyn.internal.md) 
+### #is_/same_as :: [Monroe,Marilyn.internal](/_internal/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.internal.md) 
 
-### #is_/same_as :: [Monroe,Marilyn.protect](/_protect/bio/People/Actor/Monroe,Marilyn.protect.md) 
+### #is_/same_as :: [Monroe,Marilyn.protect](/_protect/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.protect.md) 
 
-### #is_/same_as :: [Monroe,Marilyn.private](/_private/bio/People/Actor/Monroe,Marilyn.private.md) 
+### #is_/same_as :: [Monroe,Marilyn.private](/_private/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.private.md) 
 
-### #is_/same_as :: [Monroe,Marilyn.personal](/_personal/bio/People/Actor/Monroe,Marilyn.personal.md) 
+### #is_/same_as :: [Monroe,Marilyn.personal](/_personal/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.personal.md) 
 
-### #is_/same_as :: [Monroe,Marilyn.secret](/_secret/bio/People/Actor/Monroe,Marilyn.secret.md)
+### #is_/same_as :: [Monroe,Marilyn.secret](/_secret/Society/Communication/Media/Movie/Actor/Monroe,Marilyn.secret.md)
 

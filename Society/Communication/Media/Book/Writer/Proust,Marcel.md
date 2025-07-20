@@ -91,17 +91,17 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Marcel%20Proust%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proust,Marcel](Proust,Marcel.md) 
+### #is_/same_as :: [Proust,Marcel](/_Standards/Society/Communication/Media/Book/Writer/Proust,Marcel.md) 
 
-### #is_/same_as :: [Proust,Marcel.public](/_public/bio/People/Writer/Proust,Marcel.public.md) 
+### #is_/same_as :: [Proust,Marcel.public](/_public/Society/Communication/Media/Book/Writer/Proust,Marcel.public.md) 
 
-### #is_/same_as :: [Proust,Marcel.internal](/_internal/bio/People/Writer/Proust,Marcel.internal.md) 
+### #is_/same_as :: [Proust,Marcel.internal](/_internal/Society/Communication/Media/Book/Writer/Proust,Marcel.internal.md) 
 
-### #is_/same_as :: [Proust,Marcel.protect](/_protect/bio/People/Writer/Proust,Marcel.protect.md) 
+### #is_/same_as :: [Proust,Marcel.protect](/_protect/Society/Communication/Media/Book/Writer/Proust,Marcel.protect.md) 
 
-### #is_/same_as :: [Proust,Marcel.private](/_private/bio/People/Writer/Proust,Marcel.private.md) 
+### #is_/same_as :: [Proust,Marcel.private](/_private/Society/Communication/Media/Book/Writer/Proust,Marcel.private.md) 
 
-### #is_/same_as :: [Proust,Marcel.personal](/_personal/bio/People/Writer/Proust,Marcel.personal.md) 
+### #is_/same_as :: [Proust,Marcel.personal](/_personal/Society/Communication/Media/Book/Writer/Proust,Marcel.personal.md) 
 
-### #is_/same_as :: [Proust,Marcel.secret](/_secret/bio/People/Writer/Proust,Marcel.secret.md)
+### #is_/same_as :: [Proust,Marcel.secret](/_secret/Society/Communication/Media/Book/Writer/Proust,Marcel.secret.md)
 

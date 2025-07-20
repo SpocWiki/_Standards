@@ -103,17 +103,17 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/MarcoPo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marco_Polo](Marco_Polo.md) 
+### #is_/same_as :: [Marco_Polo](/_Standards/Earth/Explorer/Age_of_Discovery/Marco_Polo.md) 
 
-### #is_/same_as :: [Marco_Polo.public](/_public/bio/People/Explorer/Age_of_Discovery/Marco_Polo.public.md) 
+### #is_/same_as :: [Marco_Polo.public](/_public/Earth/Explorer/Age_of_Discovery/Marco_Polo.public.md) 
 
-### #is_/same_as :: [Marco_Polo.internal](/_internal/bio/People/Explorer/Age_of_Discovery/Marco_Polo.internal.md) 
+### #is_/same_as :: [Marco_Polo.internal](/_internal/Earth/Explorer/Age_of_Discovery/Marco_Polo.internal.md) 
 
-### #is_/same_as :: [Marco_Polo.protect](/_protect/bio/People/Explorer/Age_of_Discovery/Marco_Polo.protect.md) 
+### #is_/same_as :: [Marco_Polo.protect](/_protect/Earth/Explorer/Age_of_Discovery/Marco_Polo.protect.md) 
 
-### #is_/same_as :: [Marco_Polo.private](/_private/bio/People/Explorer/Age_of_Discovery/Marco_Polo.private.md) 
+### #is_/same_as :: [Marco_Polo.private](/_private/Earth/Explorer/Age_of_Discovery/Marco_Polo.private.md) 
 
-### #is_/same_as :: [Marco_Polo.personal](/_personal/bio/People/Explorer/Age_of_Discovery/Marco_Polo.personal.md) 
+### #is_/same_as :: [Marco_Polo.personal](/_personal/Earth/Explorer/Age_of_Discovery/Marco_Polo.personal.md) 
 
-### #is_/same_as :: [Marco_Polo.secret](/_secret/bio/People/Explorer/Age_of_Discovery/Marco_Polo.secret.md)
+### #is_/same_as :: [Marco_Polo.secret](/_secret/Earth/Explorer/Age_of_Discovery/Marco_Polo.secret.md)
 

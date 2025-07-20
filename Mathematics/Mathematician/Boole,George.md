@@ -57,17 +57,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boole,George](Boole,George.md) 
+### #is_/same_as :: [Boole,George](/_Standards/Mathematics/Mathematician/Boole,George.md) 
 
-### #is_/same_as :: [Boole,George.public](/_public/bio/People/Mathematician/Boole,George.public.md) 
+### #is_/same_as :: [Boole,George.public](/_public/Mathematics/Mathematician/Boole,George.public.md) 
 
-### #is_/same_as :: [Boole,George.internal](/_internal/bio/People/Mathematician/Boole,George.internal.md) 
+### #is_/same_as :: [Boole,George.internal](/_internal/Mathematics/Mathematician/Boole,George.internal.md) 
 
-### #is_/same_as :: [Boole,George.protect](/_protect/bio/People/Mathematician/Boole,George.protect.md) 
+### #is_/same_as :: [Boole,George.protect](/_protect/Mathematics/Mathematician/Boole,George.protect.md) 
 
-### #is_/same_as :: [Boole,George.private](/_private/bio/People/Mathematician/Boole,George.private.md) 
+### #is_/same_as :: [Boole,George.private](/_private/Mathematics/Mathematician/Boole,George.private.md) 
 
-### #is_/same_as :: [Boole,George.personal](/_personal/bio/People/Mathematician/Boole,George.personal.md) 
+### #is_/same_as :: [Boole,George.personal](/_personal/Mathematics/Mathematician/Boole,George.personal.md) 
 
-### #is_/same_as :: [Boole,George.secret](/_secret/bio/People/Mathematician/Boole,George.secret.md)
+### #is_/same_as :: [Boole,George.secret](/_secret/Mathematics/Mathematician/Boole,George.secret.md)
 

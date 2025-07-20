@@ -88,17 +88,17 @@ Libris_URI: c9prs62w049fwb2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qin_Shi_Huang](Qin_Shi_Huang.md) 
+### #is_/same_as :: [Qin_Shi_Huang](/_Standards/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.public](/_public/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.public.md) 
+### #is_/same_as :: [Qin_Shi_Huang.public](/_public/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.public.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.internal](/_internal/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.internal.md) 
+### #is_/same_as :: [Qin_Shi_Huang.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.internal.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.protect](/_protect/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.protect.md) 
+### #is_/same_as :: [Qin_Shi_Huang.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.protect.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.private](/_private/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.private.md) 
+### #is_/same_as :: [Qin_Shi_Huang.private](/_private/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.private.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.personal](/_personal/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.personal.md) 
+### #is_/same_as :: [Qin_Shi_Huang.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.personal.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.secret](/_secret/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.secret.md)
+### #is_/same_as :: [Qin_Shi_Huang.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.secret.md)
 

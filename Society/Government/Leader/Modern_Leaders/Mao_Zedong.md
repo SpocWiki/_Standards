@@ -143,17 +143,17 @@ name_in_native_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mao_Zedong](Mao_Zedong.md) 
+### #is_/same_as :: [Mao_Zedong](/_Standards/Society/Government/Leader/Modern_Leaders/Mao_Zedong.md) 
 
-### #is_/same_as :: [Mao_Zedong.public](/_public/bio/People/Leader/Modern_Leaders/Mao_Zedong.public.md) 
+### #is_/same_as :: [Mao_Zedong.public](/_public/Society/Government/Leader/Modern_Leaders/Mao_Zedong.public.md) 
 
-### #is_/same_as :: [Mao_Zedong.internal](/_internal/bio/People/Leader/Modern_Leaders/Mao_Zedong.internal.md) 
+### #is_/same_as :: [Mao_Zedong.internal](/_internal/Society/Government/Leader/Modern_Leaders/Mao_Zedong.internal.md) 
 
-### #is_/same_as :: [Mao_Zedong.protect](/_protect/bio/People/Leader/Modern_Leaders/Mao_Zedong.protect.md) 
+### #is_/same_as :: [Mao_Zedong.protect](/_protect/Society/Government/Leader/Modern_Leaders/Mao_Zedong.protect.md) 
 
-### #is_/same_as :: [Mao_Zedong.private](/_private/bio/People/Leader/Modern_Leaders/Mao_Zedong.private.md) 
+### #is_/same_as :: [Mao_Zedong.private](/_private/Society/Government/Leader/Modern_Leaders/Mao_Zedong.private.md) 
 
-### #is_/same_as :: [Mao_Zedong.personal](/_personal/bio/People/Leader/Modern_Leaders/Mao_Zedong.personal.md) 
+### #is_/same_as :: [Mao_Zedong.personal](/_personal/Society/Government/Leader/Modern_Leaders/Mao_Zedong.personal.md) 
 
-### #is_/same_as :: [Mao_Zedong.secret](/_secret/bio/People/Leader/Modern_Leaders/Mao_Zedong.secret.md)
+### #is_/same_as :: [Mao_Zedong.secret](/_secret/Society/Government/Leader/Modern_Leaders/Mao_Zedong.secret.md)
 

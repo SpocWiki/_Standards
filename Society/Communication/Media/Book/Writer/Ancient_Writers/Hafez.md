@@ -97,17 +97,17 @@ has_works_in_the_collection: "[[_Standards/WikiData/WD~Huis_Bergh,99370641]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hafez](Hafez.md) 
+### #is_/same_as :: [Hafez](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.md) 
 
-### #is_/same_as :: [Hafez.public](/_public/bio/People/Writer/Ancient_Writers/Hafez.public.md) 
+### #is_/same_as :: [Hafez.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.public.md) 
 
-### #is_/same_as :: [Hafez.internal](/_internal/bio/People/Writer/Ancient_Writers/Hafez.internal.md) 
+### #is_/same_as :: [Hafez.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.internal.md) 
 
-### #is_/same_as :: [Hafez.protect](/_protect/bio/People/Writer/Ancient_Writers/Hafez.protect.md) 
+### #is_/same_as :: [Hafez.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.protect.md) 
 
-### #is_/same_as :: [Hafez.private](/_private/bio/People/Writer/Ancient_Writers/Hafez.private.md) 
+### #is_/same_as :: [Hafez.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.private.md) 
 
-### #is_/same_as :: [Hafez.personal](/_personal/bio/People/Writer/Ancient_Writers/Hafez.personal.md) 
+### #is_/same_as :: [Hafez.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.personal.md) 
 
-### #is_/same_as :: [Hafez.secret](/_secret/bio/People/Writer/Ancient_Writers/Hafez.secret.md)
+### #is_/same_as :: [Hafez.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.secret.md)
 

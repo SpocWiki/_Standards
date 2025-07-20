@@ -50,17 +50,17 @@ has_id_wikidata: Q8963
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kepler,Johannes](Kepler,Johannes.md) 
+### #is_/same_as :: [Kepler,Johannes](/_Standards/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.md) 
 
-### #is_/same_as :: [Kepler,Johannes.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.public.md) 
+### #is_/same_as :: [Kepler,Johannes.public](/_public/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.public.md) 
 
-### #is_/same_as :: [Kepler,Johannes.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.internal.md) 
+### #is_/same_as :: [Kepler,Johannes.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.internal.md) 
 
-### #is_/same_as :: [Kepler,Johannes.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.protect.md) 
+### #is_/same_as :: [Kepler,Johannes.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.protect.md) 
 
-### #is_/same_as :: [Kepler,Johannes.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.private.md) 
+### #is_/same_as :: [Kepler,Johannes.private](/_private/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.private.md) 
 
-### #is_/same_as :: [Kepler,Johannes.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.personal.md) 
+### #is_/same_as :: [Kepler,Johannes.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.personal.md) 
 
-### #is_/same_as :: [Kepler,Johannes.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.secret.md)
+### #is_/same_as :: [Kepler,Johannes.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.secret.md)
 

@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rawls,John 1](Rawls,John%201.md) 
+### #is_/same_as :: [Rawls,John 1](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.md) 
 
-### #is_/same_as :: [Rawls,John.public](/_public/bio/People/Philosopher/Modern_Philosophers/Rawls,John.public.md) 
+### #is_/same_as :: [Rawls,John 1.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.public.md) 
 
-### #is_/same_as :: [Rawls,John.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Rawls,John.internal.md) 
+### #is_/same_as :: [Rawls,John 1.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.internal.md) 
 
-### #is_/same_as :: [Rawls,John.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Rawls,John.protect.md) 
+### #is_/same_as :: [Rawls,John 1.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.protect.md) 
 
-### #is_/same_as :: [Rawls,John.private](/_private/bio/People/Philosopher/Modern_Philosophers/Rawls,John.private.md) 
+### #is_/same_as :: [Rawls,John 1.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.private.md) 
 
-### #is_/same_as :: [Rawls,John.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Rawls,John.personal.md) 
+### #is_/same_as :: [Rawls,John 1.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.personal.md) 
 
-### #is_/same_as :: [Rawls,John.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Rawls,John.secret.md)
+### #is_/same_as :: [Rawls,John 1.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Rawls,John 1.secret.md)
 

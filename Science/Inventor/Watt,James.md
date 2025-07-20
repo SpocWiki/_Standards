@@ -137,17 +137,17 @@ country_of_citizenship: '[[_Standards/WikiData/WD~Scotland,22]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watt,James](Watt,James.md) 
+### #is_/same_as :: [Watt,James](/_Standards/Science/Inventor/Watt,James.md) 
 
-### #is_/same_as :: [Watt,James.public](/_public/bio/People/Inventor/Watt,James.public.md) 
+### #is_/same_as :: [Watt,James.public](/_public/Science/Inventor/Watt,James.public.md) 
 
-### #is_/same_as :: [Watt,James.internal](/_internal/bio/People/Inventor/Watt,James.internal.md) 
+### #is_/same_as :: [Watt,James.internal](/_internal/Science/Inventor/Watt,James.internal.md) 
 
-### #is_/same_as :: [Watt,James.protect](/_protect/bio/People/Inventor/Watt,James.protect.md) 
+### #is_/same_as :: [Watt,James.protect](/_protect/Science/Inventor/Watt,James.protect.md) 
 
-### #is_/same_as :: [Watt,James.private](/_private/bio/People/Inventor/Watt,James.private.md) 
+### #is_/same_as :: [Watt,James.private](/_private/Science/Inventor/Watt,James.private.md) 
 
-### #is_/same_as :: [Watt,James.personal](/_personal/bio/People/Inventor/Watt,James.personal.md) 
+### #is_/same_as :: [Watt,James.personal](/_personal/Science/Inventor/Watt,James.personal.md) 
 
-### #is_/same_as :: [Watt,James.secret](/_secret/bio/People/Inventor/Watt,James.secret.md)
+### #is_/same_as :: [Watt,James.secret](/_secret/Science/Inventor/Watt,James.secret.md)
 

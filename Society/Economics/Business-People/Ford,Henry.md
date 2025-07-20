@@ -128,17 +128,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ford,Henry](Ford,Henry.md) 
+### #is_/same_as :: [Ford,Henry](/_Standards/Society/Economics/Business-People/Ford,Henry.md) 
 
-### #is_/same_as :: [Ford,Henry.public](/_public/bio/People/Business-People/Ford,Henry.public.md) 
+### #is_/same_as :: [Ford,Henry.public](/_public/Society/Economics/Business-People/Ford,Henry.public.md) 
 
-### #is_/same_as :: [Ford,Henry.internal](/_internal/bio/People/Business-People/Ford,Henry.internal.md) 
+### #is_/same_as :: [Ford,Henry.internal](/_internal/Society/Economics/Business-People/Ford,Henry.internal.md) 
 
-### #is_/same_as :: [Ford,Henry.protect](/_protect/bio/People/Business-People/Ford,Henry.protect.md) 
+### #is_/same_as :: [Ford,Henry.protect](/_protect/Society/Economics/Business-People/Ford,Henry.protect.md) 
 
-### #is_/same_as :: [Ford,Henry.private](/_private/bio/People/Business-People/Ford,Henry.private.md) 
+### #is_/same_as :: [Ford,Henry.private](/_private/Society/Economics/Business-People/Ford,Henry.private.md) 
 
-### #is_/same_as :: [Ford,Henry.personal](/_personal/bio/People/Business-People/Ford,Henry.personal.md) 
+### #is_/same_as :: [Ford,Henry.personal](/_personal/Society/Economics/Business-People/Ford,Henry.personal.md) 
 
-### #is_/same_as :: [Ford,Henry.secret](/_secret/bio/People/Business-People/Ford,Henry.secret.md)
+### #is_/same_as :: [Ford,Henry.secret](/_secret/Society/Economics/Business-People/Ford,Henry.secret.md)
 

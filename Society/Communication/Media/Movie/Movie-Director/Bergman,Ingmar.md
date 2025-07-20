@@ -158,17 +158,17 @@ date_of_birth: 1918-07-14
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bergman,Ingmar](Bergman,Ingmar.md) 
+### #is_/same_as :: [Bergman,Ingmar](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.md) 
 
-### #is_/same_as :: [Bergman,Ingmar.public](/_public/bio/People/Movie-Director/Bergman,Ingmar.public.md) 
+### #is_/same_as :: [Bergman,Ingmar.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.public.md) 
 
-### #is_/same_as :: [Bergman,Ingmar.internal](/_internal/bio/People/Movie-Director/Bergman,Ingmar.internal.md) 
+### #is_/same_as :: [Bergman,Ingmar.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.internal.md) 
 
-### #is_/same_as :: [Bergman,Ingmar.protect](/_protect/bio/People/Movie-Director/Bergman,Ingmar.protect.md) 
+### #is_/same_as :: [Bergman,Ingmar.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.protect.md) 
 
-### #is_/same_as :: [Bergman,Ingmar.private](/_private/bio/People/Movie-Director/Bergman,Ingmar.private.md) 
+### #is_/same_as :: [Bergman,Ingmar.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.private.md) 
 
-### #is_/same_as :: [Bergman,Ingmar.personal](/_personal/bio/People/Movie-Director/Bergman,Ingmar.personal.md) 
+### #is_/same_as :: [Bergman,Ingmar.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.personal.md) 
 
-### #is_/same_as :: [Bergman,Ingmar.secret](/_secret/bio/People/Movie-Director/Bergman,Ingmar.secret.md)
+### #is_/same_as :: [Bergman,Ingmar.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bergman,Ingmar.secret.md)
 

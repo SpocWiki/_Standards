@@ -53,17 +53,17 @@ has_id_wikidata: Q1290
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pascal,Blaise](Pascal,Blaise.md) 
+### #is_/same_as :: [Pascal,Blaise](/_Standards/Mathematics/Mathematician/Pascal,Blaise.md) 
 
-### #is_/same_as :: [Pascal,Blaise.public](/_public/bio/People/Mathematician/Pascal,Blaise.public.md) 
+### #is_/same_as :: [Pascal,Blaise.public](/_public/Mathematics/Mathematician/Pascal,Blaise.public.md) 
 
-### #is_/same_as :: [Pascal,Blaise.internal](/_internal/bio/People/Mathematician/Pascal,Blaise.internal.md) 
+### #is_/same_as :: [Pascal,Blaise.internal](/_internal/Mathematics/Mathematician/Pascal,Blaise.internal.md) 
 
-### #is_/same_as :: [Pascal,Blaise.protect](/_protect/bio/People/Mathematician/Pascal,Blaise.protect.md) 
+### #is_/same_as :: [Pascal,Blaise.protect](/_protect/Mathematics/Mathematician/Pascal,Blaise.protect.md) 
 
-### #is_/same_as :: [Pascal,Blaise.private](/_private/bio/People/Mathematician/Pascal,Blaise.private.md) 
+### #is_/same_as :: [Pascal,Blaise.private](/_private/Mathematics/Mathematician/Pascal,Blaise.private.md) 
 
-### #is_/same_as :: [Pascal,Blaise.personal](/_personal/bio/People/Mathematician/Pascal,Blaise.personal.md) 
+### #is_/same_as :: [Pascal,Blaise.personal](/_personal/Mathematics/Mathematician/Pascal,Blaise.personal.md) 
 
-### #is_/same_as :: [Pascal,Blaise.secret](/_secret/bio/People/Mathematician/Pascal,Blaise.secret.md)
+### #is_/same_as :: [Pascal,Blaise.secret](/_secret/Mathematics/Mathematician/Pascal,Blaise.secret.md)
 

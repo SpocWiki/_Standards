@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machiavelli.Niccolò](Machiavelli.Niccolò.md) 
+### #is_/same_as :: [Machiavelli.Niccolò](/_Standards/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.public](/_public/bio/People/Writer/Political_Writers/Machiavelli.Niccolò.public.md) 
+### #is_/same_as :: [Machiavelli.Niccolò.public](/_public/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.public.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.internal](/_internal/bio/People/Writer/Political_Writers/Machiavelli.Niccolò.internal.md) 
+### #is_/same_as :: [Machiavelli.Niccolò.internal](/_internal/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.internal.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.protect](/_protect/bio/People/Writer/Political_Writers/Machiavelli.Niccolò.protect.md) 
+### #is_/same_as :: [Machiavelli.Niccolò.protect](/_protect/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.protect.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.private](/_private/bio/People/Writer/Political_Writers/Machiavelli.Niccolò.private.md) 
+### #is_/same_as :: [Machiavelli.Niccolò.private](/_private/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.private.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.personal](/_personal/bio/People/Writer/Political_Writers/Machiavelli.Niccolò.personal.md) 
+### #is_/same_as :: [Machiavelli.Niccolò.personal](/_personal/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.personal.md) 
 
-### #is_/same_as :: [Machiavelli.Niccolò.secret](/_secret/bio/People/Writer/Political_Writers/Machiavelli.Niccolò.secret.md)
+### #is_/same_as :: [Machiavelli.Niccolò.secret](/_secret/Society/Communication/Media/Book/Writer/Political_Writers/Machiavelli.Niccolò.secret.md)
 

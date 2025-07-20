@@ -136,17 +136,17 @@ courtesy_name: 載之
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sun,Yat-sen](Sun,Yat-sen.md) 
+### #is_/same_as :: [Sun,Yat-sen](/_Standards/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.md) 
 
-### #is_/same_as :: [Sun,Yat-sen.public](/_public/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.public.md) 
+### #is_/same_as :: [Sun,Yat-sen.public](/_public/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.public.md) 
 
-### #is_/same_as :: [Sun,Yat-sen.internal](/_internal/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.internal.md) 
+### #is_/same_as :: [Sun,Yat-sen.internal](/_internal/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.internal.md) 
 
-### #is_/same_as :: [Sun,Yat-sen.protect](/_protect/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.protect.md) 
+### #is_/same_as :: [Sun,Yat-sen.protect](/_protect/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.protect.md) 
 
-### #is_/same_as :: [Sun,Yat-sen.private](/_private/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.private.md) 
+### #is_/same_as :: [Sun,Yat-sen.private](/_private/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.private.md) 
 
-### #is_/same_as :: [Sun,Yat-sen.personal](/_personal/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.personal.md) 
+### #is_/same_as :: [Sun,Yat-sen.personal](/_personal/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.personal.md) 
 
-### #is_/same_as :: [Sun,Yat-sen.secret](/_secret/bio/People/Leader/Modern_Leaders/Sun,Yat-sen.secret.md)
+### #is_/same_as :: [Sun,Yat-sen.secret](/_secret/Society/Government/Leader/Modern_Leaders/Sun,Yat-sen.secret.md)
 

@@ -180,17 +180,17 @@ nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tesla,Nikola](Tesla,Nikola.md) 
+### #is_/same_as :: [Tesla,Nikola](/_Standards/Science/Inventor/Tesla,Nikola.md) 
 
-### #is_/same_as :: [Tesla,Nikola.public](/_public/bio/People/Inventor/Tesla,Nikola.public.md) 
+### #is_/same_as :: [Tesla,Nikola.public](/_public/Science/Inventor/Tesla,Nikola.public.md) 
 
-### #is_/same_as :: [Tesla,Nikola.internal](/_internal/bio/People/Inventor/Tesla,Nikola.internal.md) 
+### #is_/same_as :: [Tesla,Nikola.internal](/_internal/Science/Inventor/Tesla,Nikola.internal.md) 
 
-### #is_/same_as :: [Tesla,Nikola.protect](/_protect/bio/People/Inventor/Tesla,Nikola.protect.md) 
+### #is_/same_as :: [Tesla,Nikola.protect](/_protect/Science/Inventor/Tesla,Nikola.protect.md) 
 
-### #is_/same_as :: [Tesla,Nikola.private](/_private/bio/People/Inventor/Tesla,Nikola.private.md) 
+### #is_/same_as :: [Tesla,Nikola.private](/_private/Science/Inventor/Tesla,Nikola.private.md) 
 
-### #is_/same_as :: [Tesla,Nikola.personal](/_personal/bio/People/Inventor/Tesla,Nikola.personal.md) 
+### #is_/same_as :: [Tesla,Nikola.personal](/_personal/Science/Inventor/Tesla,Nikola.personal.md) 
 
-### #is_/same_as :: [Tesla,Nikola.secret](/_secret/bio/People/Inventor/Tesla,Nikola.secret.md)
+### #is_/same_as :: [Tesla,Nikola.secret](/_secret/Science/Inventor/Tesla,Nikola.secret.md)
 

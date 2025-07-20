@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scientific_Writing](Scientific_Writing.md) 
+### #is_/same_as :: [Scientific_Writing](/_Standards/Society/Communication/Media/Book/Writer/Scientific_Writing.md) 
 
-### #is_/same_as :: [Scientific_Writing.public](/_public/bio/People/Writer/Scientific_Writing.public.md) 
+### #is_/same_as :: [Scientific_Writing.public](/_public/Society/Communication/Media/Book/Writer/Scientific_Writing.public.md) 
 
-### #is_/same_as :: [Scientific_Writing.internal](/_internal/bio/People/Writer/Scientific_Writing.internal.md) 
+### #is_/same_as :: [Scientific_Writing.internal](/_internal/Society/Communication/Media/Book/Writer/Scientific_Writing.internal.md) 
 
-### #is_/same_as :: [Scientific_Writing.protect](/_protect/bio/People/Writer/Scientific_Writing.protect.md) 
+### #is_/same_as :: [Scientific_Writing.protect](/_protect/Society/Communication/Media/Book/Writer/Scientific_Writing.protect.md) 
 
-### #is_/same_as :: [Scientific_Writing.private](/_private/bio/People/Writer/Scientific_Writing.private.md) 
+### #is_/same_as :: [Scientific_Writing.private](/_private/Society/Communication/Media/Book/Writer/Scientific_Writing.private.md) 
 
-### #is_/same_as :: [Scientific_Writing.personal](/_personal/bio/People/Writer/Scientific_Writing.personal.md) 
+### #is_/same_as :: [Scientific_Writing.personal](/_personal/Society/Communication/Media/Book/Writer/Scientific_Writing.personal.md) 
 
-### #is_/same_as :: [Scientific_Writing.secret](/_secret/bio/People/Writer/Scientific_Writing.secret.md)
+### #is_/same_as :: [Scientific_Writing.secret](/_secret/Society/Communication/Media/Book/Writer/Scientific_Writing.secret.md)
 

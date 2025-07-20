@@ -114,17 +114,17 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cook,James](Cook,James.md) 
+### #is_/same_as :: [Cook,James](/_Standards/Earth/Explorer/Early_modern_Explorer/Cook,James.md) 
 
-### #is_/same_as :: [Cook,James.public](/_public/bio/People/Explorer/Early_modern_Explorer/Cook,James.public.md) 
+### #is_/same_as :: [Cook,James.public](/_public/Earth/Explorer/Early_modern_Explorer/Cook,James.public.md) 
 
-### #is_/same_as :: [Cook,James.internal](/_internal/bio/People/Explorer/Early_modern_Explorer/Cook,James.internal.md) 
+### #is_/same_as :: [Cook,James.internal](/_internal/Earth/Explorer/Early_modern_Explorer/Cook,James.internal.md) 
 
-### #is_/same_as :: [Cook,James.protect](/_protect/bio/People/Explorer/Early_modern_Explorer/Cook,James.protect.md) 
+### #is_/same_as :: [Cook,James.protect](/_protect/Earth/Explorer/Early_modern_Explorer/Cook,James.protect.md) 
 
-### #is_/same_as :: [Cook,James.private](/_private/bio/People/Explorer/Early_modern_Explorer/Cook,James.private.md) 
+### #is_/same_as :: [Cook,James.private](/_private/Earth/Explorer/Early_modern_Explorer/Cook,James.private.md) 
 
-### #is_/same_as :: [Cook,James.personal](/_personal/bio/People/Explorer/Early_modern_Explorer/Cook,James.personal.md) 
+### #is_/same_as :: [Cook,James.personal](/_personal/Earth/Explorer/Early_modern_Explorer/Cook,James.personal.md) 
 
-### #is_/same_as :: [Cook,James.secret](/_secret/bio/People/Explorer/Early_modern_Explorer/Cook,James.secret.md)
+### #is_/same_as :: [Cook,James.secret](/_secret/Earth/Explorer/Early_modern_Explorer/Cook,James.secret.md)
 

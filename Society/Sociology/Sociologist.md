@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociologist](Sociologist.md) 
+### #is_/same_as :: [Sociologist](/_Standards/Society/Sociology/Sociologist.md) 
 
-### #is_/same_as :: [Sociologist.public](/_public/bio/People/Sociologist.public.md) 
+### #is_/same_as :: [Sociologist.public](/_public/Society/Sociology/Sociologist.public.md) 
 
-### #is_/same_as :: [Sociologist.internal](/_internal/bio/People/Sociologist.internal.md) 
+### #is_/same_as :: [Sociologist.internal](/_internal/Society/Sociology/Sociologist.internal.md) 
 
-### #is_/same_as :: [Sociologist.protect](/_protect/bio/People/Sociologist.protect.md) 
+### #is_/same_as :: [Sociologist.protect](/_protect/Society/Sociology/Sociologist.protect.md) 
 
-### #is_/same_as :: [Sociologist.private](/_private/bio/People/Sociologist.private.md) 
+### #is_/same_as :: [Sociologist.private](/_private/Society/Sociology/Sociologist.private.md) 
 
-### #is_/same_as :: [Sociologist.personal](/_personal/bio/People/Sociologist.personal.md) 
+### #is_/same_as :: [Sociologist.personal](/_personal/Society/Sociology/Sociologist.personal.md) 
 
-### #is_/same_as :: [Sociologist.secret](/_secret/bio/People/Sociologist.secret.md)
+### #is_/same_as :: [Sociologist.secret](/_secret/Society/Sociology/Sociologist.secret.md)
 

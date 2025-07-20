@@ -55,17 +55,17 @@ Krugosvet_article: literatura/abu-nuvas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abu_Nuwas](Abu_Nuwas.md) 
+### #is_/same_as :: [Abu_Nuwas](/_Standards/Society/Communication/Media/Book/Writer/Abu_Nuwas.md) 
 
-### #is_/same_as :: [Abu_Nuwas.public](/_public/bio/People/Writer/Abu_Nuwas.public.md) 
+### #is_/same_as :: [Abu_Nuwas.public](/_public/Society/Communication/Media/Book/Writer/Abu_Nuwas.public.md) 
 
-### #is_/same_as :: [Abu_Nuwas.internal](/_internal/bio/People/Writer/Abu_Nuwas.internal.md) 
+### #is_/same_as :: [Abu_Nuwas.internal](/_internal/Society/Communication/Media/Book/Writer/Abu_Nuwas.internal.md) 
 
-### #is_/same_as :: [Abu_Nuwas.protect](/_protect/bio/People/Writer/Abu_Nuwas.protect.md) 
+### #is_/same_as :: [Abu_Nuwas.protect](/_protect/Society/Communication/Media/Book/Writer/Abu_Nuwas.protect.md) 
 
-### #is_/same_as :: [Abu_Nuwas.private](/_private/bio/People/Writer/Abu_Nuwas.private.md) 
+### #is_/same_as :: [Abu_Nuwas.private](/_private/Society/Communication/Media/Book/Writer/Abu_Nuwas.private.md) 
 
-### #is_/same_as :: [Abu_Nuwas.personal](/_personal/bio/People/Writer/Abu_Nuwas.personal.md) 
+### #is_/same_as :: [Abu_Nuwas.personal](/_personal/Society/Communication/Media/Book/Writer/Abu_Nuwas.personal.md) 
 
-### #is_/same_as :: [Abu_Nuwas.secret](/_secret/bio/People/Writer/Abu_Nuwas.secret.md)
+### #is_/same_as :: [Abu_Nuwas.secret](/_secret/Society/Communication/Media/Book/Writer/Abu_Nuwas.secret.md)
 

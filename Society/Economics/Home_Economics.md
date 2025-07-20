@@ -52,17 +52,17 @@ Commons_category: "Family and consumer science"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_Economics](Home_Economics.md) 
+### #is_/same_as :: [Home_Economics](/_Standards/Society/Economics/Home_Economics.md) 
 
-### #is_/same_as :: [Home_Economics.public](/_public/Economics/Home_Economics.public.md) 
+### #is_/same_as :: [Home_Economics.public](/_public/Society/Economics/Home_Economics.public.md) 
 
-### #is_/same_as :: [Home_Economics.internal](/_internal/Economics/Home_Economics.internal.md) 
+### #is_/same_as :: [Home_Economics.internal](/_internal/Society/Economics/Home_Economics.internal.md) 
 
-### #is_/same_as :: [Home_Economics.protect](/_protect/Economics/Home_Economics.protect.md) 
+### #is_/same_as :: [Home_Economics.protect](/_protect/Society/Economics/Home_Economics.protect.md) 
 
-### #is_/same_as :: [Home_Economics.private](/_private/Economics/Home_Economics.private.md) 
+### #is_/same_as :: [Home_Economics.private](/_private/Society/Economics/Home_Economics.private.md) 
 
-### #is_/same_as :: [Home_Economics.personal](/_personal/Economics/Home_Economics.personal.md) 
+### #is_/same_as :: [Home_Economics.personal](/_personal/Society/Economics/Home_Economics.personal.md) 
 
-### #is_/same_as :: [Home_Economics.secret](/_secret/Economics/Home_Economics.secret.md)
+### #is_/same_as :: [Home_Economics.secret](/_secret/Society/Economics/Home_Economics.secret.md)
 

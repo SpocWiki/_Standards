@@ -179,17 +179,17 @@ PhilPapers_topic: karl-marx
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marx,Karl](Marx,Karl.md) 
+### #is_/same_as :: [Marx,Karl](/_Standards/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.md) 
 
-### #is_/same_as :: [Marx,Karl.public](/_public/bio/People/Writer/Political_Writers/Marx,Karl.public.md) 
+### #is_/same_as :: [Marx,Karl.public](/_public/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.public.md) 
 
-### #is_/same_as :: [Marx,Karl.internal](/_internal/bio/People/Writer/Political_Writers/Marx,Karl.internal.md) 
+### #is_/same_as :: [Marx,Karl.internal](/_internal/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.internal.md) 
 
-### #is_/same_as :: [Marx,Karl.protect](/_protect/bio/People/Writer/Political_Writers/Marx,Karl.protect.md) 
+### #is_/same_as :: [Marx,Karl.protect](/_protect/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.protect.md) 
 
-### #is_/same_as :: [Marx,Karl.private](/_private/bio/People/Writer/Political_Writers/Marx,Karl.private.md) 
+### #is_/same_as :: [Marx,Karl.private](/_private/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.private.md) 
 
-### #is_/same_as :: [Marx,Karl.personal](/_personal/bio/People/Writer/Political_Writers/Marx,Karl.personal.md) 
+### #is_/same_as :: [Marx,Karl.personal](/_personal/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.personal.md) 
 
-### #is_/same_as :: [Marx,Karl.secret](/_secret/bio/People/Writer/Political_Writers/Marx,Karl.secret.md)
+### #is_/same_as :: [Marx,Karl.secret](/_secret/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.secret.md)
 

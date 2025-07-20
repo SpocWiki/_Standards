@@ -53,17 +53,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dollar,US](Dollar,US.md) 
+### #is_/same_as :: [Dollar,US](/_Standards/Society/Economics/Currency/Dollar,US.md) 
 
-### #is_/same_as :: [Dollar,US.public](/_public/Economics/Currency/Dollar,US.public.md) 
+### #is_/same_as :: [Dollar,US.public](/_public/Society/Economics/Currency/Dollar,US.public.md) 
 
-### #is_/same_as :: [Dollar,US.internal](/_internal/Economics/Currency/Dollar,US.internal.md) 
+### #is_/same_as :: [Dollar,US.internal](/_internal/Society/Economics/Currency/Dollar,US.internal.md) 
 
-### #is_/same_as :: [Dollar,US.protect](/_protect/Economics/Currency/Dollar,US.protect.md) 
+### #is_/same_as :: [Dollar,US.protect](/_protect/Society/Economics/Currency/Dollar,US.protect.md) 
 
-### #is_/same_as :: [Dollar,US.private](/_private/Economics/Currency/Dollar,US.private.md) 
+### #is_/same_as :: [Dollar,US.private](/_private/Society/Economics/Currency/Dollar,US.private.md) 
 
-### #is_/same_as :: [Dollar,US.personal](/_personal/Economics/Currency/Dollar,US.personal.md) 
+### #is_/same_as :: [Dollar,US.personal](/_personal/Society/Economics/Currency/Dollar,US.personal.md) 
 
-### #is_/same_as :: [Dollar,US.secret](/_secret/Economics/Currency/Dollar,US.secret.md)
+### #is_/same_as :: [Dollar,US.secret](/_secret/Society/Economics/Currency/Dollar,US.secret.md)
 

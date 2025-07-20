@@ -188,17 +188,17 @@ birth_name: "Charles Spencer Chaplin"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaplin,Charlie](Chaplin,Charlie.md) 
+### #is_/same_as :: [Chaplin,Charlie](/_Standards/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.public](/_public/bio/People/Actor/Chaplin,Charlie.public.md) 
+### #is_/same_as :: [Chaplin,Charlie.public](/_public/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.public.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.internal](/_internal/bio/People/Actor/Chaplin,Charlie.internal.md) 
+### #is_/same_as :: [Chaplin,Charlie.internal](/_internal/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.internal.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.protect](/_protect/bio/People/Actor/Chaplin,Charlie.protect.md) 
+### #is_/same_as :: [Chaplin,Charlie.protect](/_protect/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.protect.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.private](/_private/bio/People/Actor/Chaplin,Charlie.private.md) 
+### #is_/same_as :: [Chaplin,Charlie.private](/_private/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.private.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.personal](/_personal/bio/People/Actor/Chaplin,Charlie.personal.md) 
+### #is_/same_as :: [Chaplin,Charlie.personal](/_personal/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.personal.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.secret](/_secret/bio/People/Actor/Chaplin,Charlie.secret.md)
+### #is_/same_as :: [Chaplin,Charlie.secret](/_secret/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.secret.md)
 

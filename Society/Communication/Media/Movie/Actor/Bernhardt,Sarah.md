@@ -135,17 +135,17 @@ Commons_Creator_page: "Sarah Bernhardt"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernhardt,Sarah](Bernhardt,Sarah.md) 
+### #is_/same_as :: [Bernhardt,Sarah](/_Standards/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.md) 
 
-### #is_/same_as :: [Bernhardt,Sarah.public](/_public/bio/People/Actor/Bernhardt,Sarah.public.md) 
+### #is_/same_as :: [Bernhardt,Sarah.public](/_public/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.public.md) 
 
-### #is_/same_as :: [Bernhardt,Sarah.internal](/_internal/bio/People/Actor/Bernhardt,Sarah.internal.md) 
+### #is_/same_as :: [Bernhardt,Sarah.internal](/_internal/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.internal.md) 
 
-### #is_/same_as :: [Bernhardt,Sarah.protect](/_protect/bio/People/Actor/Bernhardt,Sarah.protect.md) 
+### #is_/same_as :: [Bernhardt,Sarah.protect](/_protect/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.protect.md) 
 
-### #is_/same_as :: [Bernhardt,Sarah.private](/_private/bio/People/Actor/Bernhardt,Sarah.private.md) 
+### #is_/same_as :: [Bernhardt,Sarah.private](/_private/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.private.md) 
 
-### #is_/same_as :: [Bernhardt,Sarah.personal](/_personal/bio/People/Actor/Bernhardt,Sarah.personal.md) 
+### #is_/same_as :: [Bernhardt,Sarah.personal](/_personal/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.personal.md) 
 
-### #is_/same_as :: [Bernhardt,Sarah.secret](/_secret/bio/People/Actor/Bernhardt,Sarah.secret.md)
+### #is_/same_as :: [Bernhardt,Sarah.secret](/_secret/Society/Communication/Media/Movie/Actor/Bernhardt,Sarah.secret.md)
 

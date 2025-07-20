@@ -196,17 +196,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/5324
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Julius_Caesar](Julius_Caesar.md) 
+### #is_/same_as :: [Julius_Caesar](/_Standards/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.md) 
 
-### #is_/same_as :: [Julius_Caesar.public](/_public/bio/People/Leader/Ancient_Leaders/Julius_Caesar.public.md) 
+### #is_/same_as :: [Julius_Caesar.public](/_public/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.public.md) 
 
-### #is_/same_as :: [Julius_Caesar.internal](/_internal/bio/People/Leader/Ancient_Leaders/Julius_Caesar.internal.md) 
+### #is_/same_as :: [Julius_Caesar.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.internal.md) 
 
-### #is_/same_as :: [Julius_Caesar.protect](/_protect/bio/People/Leader/Ancient_Leaders/Julius_Caesar.protect.md) 
+### #is_/same_as :: [Julius_Caesar.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.protect.md) 
 
-### #is_/same_as :: [Julius_Caesar.private](/_private/bio/People/Leader/Ancient_Leaders/Julius_Caesar.private.md) 
+### #is_/same_as :: [Julius_Caesar.private](/_private/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.private.md) 
 
-### #is_/same_as :: [Julius_Caesar.personal](/_personal/bio/People/Leader/Ancient_Leaders/Julius_Caesar.personal.md) 
+### #is_/same_as :: [Julius_Caesar.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.personal.md) 
 
-### #is_/same_as :: [Julius_Caesar.secret](/_secret/bio/People/Leader/Ancient_Leaders/Julius_Caesar.secret.md)
+### #is_/same_as :: [Julius_Caesar.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.secret.md)
 

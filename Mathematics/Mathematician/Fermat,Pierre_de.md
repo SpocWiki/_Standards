@@ -102,17 +102,17 @@ Commons_category: "Pierre de Fermat"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermat,Pierre_de](Fermat,Pierre_de.md) 
+### #is_/same_as :: [Fermat,Pierre_de](/_Standards/Mathematics/Mathematician/Fermat,Pierre_de.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.public](/_public/bio/People/Mathematician/Fermat,Pierre_de.public.md) 
+### #is_/same_as :: [Fermat,Pierre_de.public](/_public/Mathematics/Mathematician/Fermat,Pierre_de.public.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.internal](/_internal/bio/People/Mathematician/Fermat,Pierre_de.internal.md) 
+### #is_/same_as :: [Fermat,Pierre_de.internal](/_internal/Mathematics/Mathematician/Fermat,Pierre_de.internal.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.protect](/_protect/bio/People/Mathematician/Fermat,Pierre_de.protect.md) 
+### #is_/same_as :: [Fermat,Pierre_de.protect](/_protect/Mathematics/Mathematician/Fermat,Pierre_de.protect.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.private](/_private/bio/People/Mathematician/Fermat,Pierre_de.private.md) 
+### #is_/same_as :: [Fermat,Pierre_de.private](/_private/Mathematics/Mathematician/Fermat,Pierre_de.private.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.personal](/_personal/bio/People/Mathematician/Fermat,Pierre_de.personal.md) 
+### #is_/same_as :: [Fermat,Pierre_de.personal](/_personal/Mathematics/Mathematician/Fermat,Pierre_de.personal.md) 
 
-### #is_/same_as :: [Fermat,Pierre_de.secret](/_secret/bio/People/Mathematician/Fermat,Pierre_de.secret.md)
+### #is_/same_as :: [Fermat,Pierre_de.secret](/_secret/Mathematics/Mathematician/Fermat,Pierre_de.secret.md)
 

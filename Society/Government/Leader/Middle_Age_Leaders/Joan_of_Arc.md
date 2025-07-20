@@ -138,17 +138,17 @@ date_of_birth: "1412-01-15"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joan_of_Arc](Joan_of_Arc.md) 
+### #is_/same_as :: [Joan_of_Arc](/_Standards/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.md) 
 
-### #is_/same_as :: [Joan_of_Arc.public](/_public/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.public.md) 
+### #is_/same_as :: [Joan_of_Arc.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.public.md) 
 
-### #is_/same_as :: [Joan_of_Arc.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.internal.md) 
+### #is_/same_as :: [Joan_of_Arc.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.internal.md) 
 
-### #is_/same_as :: [Joan_of_Arc.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.protect.md) 
+### #is_/same_as :: [Joan_of_Arc.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.protect.md) 
 
-### #is_/same_as :: [Joan_of_Arc.private](/_private/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.private.md) 
+### #is_/same_as :: [Joan_of_Arc.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.private.md) 
 
-### #is_/same_as :: [Joan_of_Arc.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.personal.md) 
+### #is_/same_as :: [Joan_of_Arc.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.personal.md) 
 
-### #is_/same_as :: [Joan_of_Arc.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Joan_of_Arc.secret.md)
+### #is_/same_as :: [Joan_of_Arc.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Joan_of_Arc.secret.md)
 

@@ -69,17 +69,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suleiman_the_Magnificent](Suleiman_the_Magnificent.md) 
+### #is_/same_as :: [Suleiman_the_Magnificent](/_Standards/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.md) 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.public](/_public/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.public.md) 
+### #is_/same_as :: [Suleiman_the_Magnificent.public](/_public/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.public.md) 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.internal.md) 
+### #is_/same_as :: [Suleiman_the_Magnificent.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.internal.md) 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.protect.md) 
+### #is_/same_as :: [Suleiman_the_Magnificent.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.protect.md) 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.private](/_private/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.private.md) 
+### #is_/same_as :: [Suleiman_the_Magnificent.private](/_private/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.private.md) 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.personal.md) 
+### #is_/same_as :: [Suleiman_the_Magnificent.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.personal.md) 
 
-### #is_/same_as :: [Suleiman_the_Magnificent.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.secret.md)
+### #is_/same_as :: [Suleiman_the_Magnificent.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.secret.md)
 

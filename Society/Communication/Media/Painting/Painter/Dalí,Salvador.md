@@ -271,17 +271,17 @@ date_of_birth: "1904-05-11"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dalí,Salvador](Dalí,Salvador.md) 
+### #is_/same_as :: [Dalí,Salvador](/_Standards/Society/Communication/Media/Painting/Painter/Dalí,Salvador.md) 
 
-### #is_/same_as :: [Dalí,Salvador.public](/_public/bio/People/Painter/Dalí,Salvador.public.md) 
+### #is_/same_as :: [Dalí,Salvador.public](/_public/Society/Communication/Media/Painting/Painter/Dalí,Salvador.public.md) 
 
-### #is_/same_as :: [Dalí,Salvador.internal](/_internal/bio/People/Painter/Dalí,Salvador.internal.md) 
+### #is_/same_as :: [Dalí,Salvador.internal](/_internal/Society/Communication/Media/Painting/Painter/Dalí,Salvador.internal.md) 
 
-### #is_/same_as :: [Dalí,Salvador.protect](/_protect/bio/People/Painter/Dalí,Salvador.protect.md) 
+### #is_/same_as :: [Dalí,Salvador.protect](/_protect/Society/Communication/Media/Painting/Painter/Dalí,Salvador.protect.md) 
 
-### #is_/same_as :: [Dalí,Salvador.private](/_private/bio/People/Painter/Dalí,Salvador.private.md) 
+### #is_/same_as :: [Dalí,Salvador.private](/_private/Society/Communication/Media/Painting/Painter/Dalí,Salvador.private.md) 
 
-### #is_/same_as :: [Dalí,Salvador.personal](/_personal/bio/People/Painter/Dalí,Salvador.personal.md) 
+### #is_/same_as :: [Dalí,Salvador.personal](/_personal/Society/Communication/Media/Painting/Painter/Dalí,Salvador.personal.md) 
 
-### #is_/same_as :: [Dalí,Salvador.secret](/_secret/bio/People/Painter/Dalí,Salvador.secret.md)
+### #is_/same_as :: [Dalí,Salvador.secret](/_secret/Society/Communication/Media/Painting/Painter/Dalí,Salvador.secret.md)
 

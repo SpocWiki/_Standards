@@ -270,17 +270,17 @@ These are pretty redundant though, e.g. the 5 concepts 1, 3, 4, 5 and 6 essentia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand](Gandhi,Mohandas_Karamchand.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand](/_Standards/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.md) 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.public](/_public/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.public.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.public](/_public/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.public.md) 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.internal](/_internal/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.internal.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.internal](/_internal/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.internal.md) 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.protect](/_protect/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.protect.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.protect](/_protect/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.protect.md) 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.private](/_private/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.private.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.private](/_private/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.private.md) 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.personal](/_personal/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.personal.md) 
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.personal](/_personal/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.personal.md) 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.secret](/_secret/bio/People/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.secret.md)
+### #is_/same_as :: [Gandhi,Mohandas_Karamchand.secret](/_secret/Society/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.secret.md)
 

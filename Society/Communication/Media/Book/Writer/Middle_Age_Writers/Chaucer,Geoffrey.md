@@ -114,17 +114,17 @@ native_language: "[[_Standards/WikiData/WD~Middle_English,36395]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaucer,Geoffrey](Chaucer,Geoffrey.md) 
+### #is_/same_as :: [Chaucer,Geoffrey](/_Standards/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.md) 
 
-### #is_/same_as :: [Chaucer,Geoffrey.public](/_public/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.public.md) 
+### #is_/same_as :: [Chaucer,Geoffrey.public](/_public/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.public.md) 
 
-### #is_/same_as :: [Chaucer,Geoffrey.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.internal.md) 
+### #is_/same_as :: [Chaucer,Geoffrey.internal](/_internal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.internal.md) 
 
-### #is_/same_as :: [Chaucer,Geoffrey.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.protect.md) 
+### #is_/same_as :: [Chaucer,Geoffrey.protect](/_protect/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.protect.md) 
 
-### #is_/same_as :: [Chaucer,Geoffrey.private](/_private/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.private.md) 
+### #is_/same_as :: [Chaucer,Geoffrey.private](/_private/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.private.md) 
 
-### #is_/same_as :: [Chaucer,Geoffrey.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.personal.md) 
+### #is_/same_as :: [Chaucer,Geoffrey.personal](/_personal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.personal.md) 
 
-### #is_/same_as :: [Chaucer,Geoffrey.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.secret.md)
+### #is_/same_as :: [Chaucer,Geoffrey.secret](/_secret/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Chaucer,Geoffrey.secret.md)
 

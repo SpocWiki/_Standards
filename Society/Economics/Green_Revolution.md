@@ -66,17 +66,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Green_Revolution](Green_Revolution.md) 
+### #is_/same_as :: [Green_Revolution](/_Standards/Society/Economics/Green_Revolution.md) 
 
-### #is_/same_as :: [Green_Revolution.public](/_public/Economics/Green_Revolution.public.md) 
+### #is_/same_as :: [Green_Revolution.public](/_public/Society/Economics/Green_Revolution.public.md) 
 
-### #is_/same_as :: [Green_Revolution.internal](/_internal/Economics/Green_Revolution.internal.md) 
+### #is_/same_as :: [Green_Revolution.internal](/_internal/Society/Economics/Green_Revolution.internal.md) 
 
-### #is_/same_as :: [Green_Revolution.protect](/_protect/Economics/Green_Revolution.protect.md) 
+### #is_/same_as :: [Green_Revolution.protect](/_protect/Society/Economics/Green_Revolution.protect.md) 
 
-### #is_/same_as :: [Green_Revolution.private](/_private/Economics/Green_Revolution.private.md) 
+### #is_/same_as :: [Green_Revolution.private](/_private/Society/Economics/Green_Revolution.private.md) 
 
-### #is_/same_as :: [Green_Revolution.personal](/_personal/Economics/Green_Revolution.personal.md) 
+### #is_/same_as :: [Green_Revolution.personal](/_personal/Society/Economics/Green_Revolution.personal.md) 
 
-### #is_/same_as :: [Green_Revolution.secret](/_secret/Economics/Green_Revolution.secret.md)
+### #is_/same_as :: [Green_Revolution.secret](/_secret/Society/Economics/Green_Revolution.secret.md)
 

@@ -160,17 +160,17 @@ BHCL_UUID: a3cc5fc7-64d3-4017-b788-18cb0922215c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schrödinger,Erwin](Schrödinger,Erwin.md) 
+### #is_/same_as :: [Schrödinger,Erwin](/_Standards/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.md) 
 
-### #is_/same_as :: [Schrödinger,Erwin.public](/_public/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.public.md) 
+### #is_/same_as :: [Schrödinger,Erwin.public](/_public/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.public.md) 
 
-### #is_/same_as :: [Schrödinger,Erwin.internal](/_internal/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.internal.md) 
+### #is_/same_as :: [Schrödinger,Erwin.internal](/_internal/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.internal.md) 
 
-### #is_/same_as :: [Schrödinger,Erwin.protect](/_protect/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.protect.md) 
+### #is_/same_as :: [Schrödinger,Erwin.protect](/_protect/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.protect.md) 
 
-### #is_/same_as :: [Schrödinger,Erwin.private](/_private/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.private.md) 
+### #is_/same_as :: [Schrödinger,Erwin.private](/_private/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.private.md) 
 
-### #is_/same_as :: [Schrödinger,Erwin.personal](/_personal/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.personal.md) 
+### #is_/same_as :: [Schrödinger,Erwin.personal](/_personal/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.personal.md) 
 
-### #is_/same_as :: [Schrödinger,Erwin.secret](/_secret/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.secret.md)
+### #is_/same_as :: [Schrödinger,Erwin.secret](/_secret/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.secret.md)
 

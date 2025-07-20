@@ -84,17 +84,17 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Coffee\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coffee](Coffee.md) 
+### #is_/same_as :: [Coffee](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.md) 
 
-### #is_/same_as :: [Coffee.public](/_public/Economics/Home_Economics/Cooking/Food/Drink/Coffee.public.md) 
+### #is_/same_as :: [Coffee.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.public.md) 
 
-### #is_/same_as :: [Coffee.internal](/_internal/Economics/Home_Economics/Cooking/Food/Drink/Coffee.internal.md) 
+### #is_/same_as :: [Coffee.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.internal.md) 
 
-### #is_/same_as :: [Coffee.protect](/_protect/Economics/Home_Economics/Cooking/Food/Drink/Coffee.protect.md) 
+### #is_/same_as :: [Coffee.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.protect.md) 
 
-### #is_/same_as :: [Coffee.private](/_private/Economics/Home_Economics/Cooking/Food/Drink/Coffee.private.md) 
+### #is_/same_as :: [Coffee.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.private.md) 
 
-### #is_/same_as :: [Coffee.personal](/_personal/Economics/Home_Economics/Cooking/Food/Drink/Coffee.personal.md) 
+### #is_/same_as :: [Coffee.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.personal.md) 
 
-### #is_/same_as :: [Coffee.secret](/_secret/Economics/Home_Economics/Cooking/Food/Drink/Coffee.secret.md)
+### #is_/same_as :: [Coffee.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee.secret.md)
 

@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Handel,George_Frideric](Handel,George_Frideric.md) 
+### #is_/same_as :: [Handel,George_Frideric](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.md) 
 
-### #is_/same_as :: [Handel,George_Frideric.public](/_public/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.public.md) 
+### #is_/same_as :: [Handel,George_Frideric.public](/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.public.md) 
 
-### #is_/same_as :: [Handel,George_Frideric.internal](/_internal/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.internal.md) 
+### #is_/same_as :: [Handel,George_Frideric.internal](/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.internal.md) 
 
-### #is_/same_as :: [Handel,George_Frideric.protect](/_protect/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.protect.md) 
+### #is_/same_as :: [Handel,George_Frideric.protect](/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.protect.md) 
 
-### #is_/same_as :: [Handel,George_Frideric.private](/_private/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.private.md) 
+### #is_/same_as :: [Handel,George_Frideric.private](/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.private.md) 
 
-### #is_/same_as :: [Handel,George_Frideric.personal](/_personal/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.personal.md) 
+### #is_/same_as :: [Handel,George_Frideric.personal](/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.personal.md) 
 
-### #is_/same_as :: [Handel,George_Frideric.secret](/_secret/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.secret.md)
+### #is_/same_as :: [Handel,George_Frideric.secret](/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Handel,George_Frideric.secret.md)
 

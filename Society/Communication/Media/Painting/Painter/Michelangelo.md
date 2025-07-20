@@ -242,17 +242,17 @@ place_of_birth: "[[_Standards/WikiData/WD~Caprese_Michelangelo,52069]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Michelangelo](Michelangelo.md) 
+### #is_/same_as :: [Michelangelo](/_Standards/Society/Communication/Media/Painting/Painter/Michelangelo.md) 
 
-### #is_/same_as :: [Michelangelo.public](/_public/bio/People/Painter/Michelangelo.public.md) 
+### #is_/same_as :: [Michelangelo.public](/_public/Society/Communication/Media/Painting/Painter/Michelangelo.public.md) 
 
-### #is_/same_as :: [Michelangelo.internal](/_internal/bio/People/Painter/Michelangelo.internal.md) 
+### #is_/same_as :: [Michelangelo.internal](/_internal/Society/Communication/Media/Painting/Painter/Michelangelo.internal.md) 
 
-### #is_/same_as :: [Michelangelo.protect](/_protect/bio/People/Painter/Michelangelo.protect.md) 
+### #is_/same_as :: [Michelangelo.protect](/_protect/Society/Communication/Media/Painting/Painter/Michelangelo.protect.md) 
 
-### #is_/same_as :: [Michelangelo.private](/_private/bio/People/Painter/Michelangelo.private.md) 
+### #is_/same_as :: [Michelangelo.private](/_private/Society/Communication/Media/Painting/Painter/Michelangelo.private.md) 
 
-### #is_/same_as :: [Michelangelo.personal](/_personal/bio/People/Painter/Michelangelo.personal.md) 
+### #is_/same_as :: [Michelangelo.personal](/_personal/Society/Communication/Media/Painting/Painter/Michelangelo.personal.md) 
 
-### #is_/same_as :: [Michelangelo.secret](/_secret/bio/People/Painter/Michelangelo.secret.md)
+### #is_/same_as :: [Michelangelo.secret](/_secret/Society/Communication/Media/Painting/Painter/Michelangelo.secret.md)
 

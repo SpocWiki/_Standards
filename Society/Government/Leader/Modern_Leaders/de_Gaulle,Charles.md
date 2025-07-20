@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [de_Gaulle,Charles](de_Gaulle,Charles.md) 
+### #is_/same_as :: [de_Gaulle,Charles](/_Standards/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.md) 
 
-### #is_/same_as :: [de_Gaulle,Charles.public](/_public/bio/People/Leader/Modern_Leaders/de_Gaulle,Charles.public.md) 
+### #is_/same_as :: [de_Gaulle,Charles.public](/_public/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.public.md) 
 
-### #is_/same_as :: [de_Gaulle,Charles.internal](/_internal/bio/People/Leader/Modern_Leaders/de_Gaulle,Charles.internal.md) 
+### #is_/same_as :: [de_Gaulle,Charles.internal](/_internal/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.internal.md) 
 
-### #is_/same_as :: [de_Gaulle,Charles.protect](/_protect/bio/People/Leader/Modern_Leaders/de_Gaulle,Charles.protect.md) 
+### #is_/same_as :: [de_Gaulle,Charles.protect](/_protect/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.protect.md) 
 
-### #is_/same_as :: [de_Gaulle,Charles.private](/_private/bio/People/Leader/Modern_Leaders/de_Gaulle,Charles.private.md) 
+### #is_/same_as :: [de_Gaulle,Charles.private](/_private/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.private.md) 
 
-### #is_/same_as :: [de_Gaulle,Charles.personal](/_personal/bio/People/Leader/Modern_Leaders/de_Gaulle,Charles.personal.md) 
+### #is_/same_as :: [de_Gaulle,Charles.personal](/_personal/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.personal.md) 
 
-### #is_/same_as :: [de_Gaulle,Charles.secret](/_secret/bio/People/Leader/Modern_Leaders/de_Gaulle,Charles.secret.md)
+### #is_/same_as :: [de_Gaulle,Charles.secret](/_secret/Society/Government/Leader/Modern_Leaders/de_Gaulle,Charles.secret.md)
 

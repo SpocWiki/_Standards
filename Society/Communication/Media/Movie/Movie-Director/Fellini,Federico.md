@@ -121,17 +121,17 @@ Libris_URI: 97mppq9t1gh198r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fellini,Federico](Fellini,Federico.md) 
+### #is_/same_as :: [Fellini,Federico](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.md) 
 
-### #is_/same_as :: [Fellini,Federico.public](/_public/bio/People/Movie-Director/Fellini,Federico.public.md) 
+### #is_/same_as :: [Fellini,Federico.public](/_public/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.public.md) 
 
-### #is_/same_as :: [Fellini,Federico.internal](/_internal/bio/People/Movie-Director/Fellini,Federico.internal.md) 
+### #is_/same_as :: [Fellini,Federico.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.internal.md) 
 
-### #is_/same_as :: [Fellini,Federico.protect](/_protect/bio/People/Movie-Director/Fellini,Federico.protect.md) 
+### #is_/same_as :: [Fellini,Federico.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.protect.md) 
 
-### #is_/same_as :: [Fellini,Federico.private](/_private/bio/People/Movie-Director/Fellini,Federico.private.md) 
+### #is_/same_as :: [Fellini,Federico.private](/_private/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.private.md) 
 
-### #is_/same_as :: [Fellini,Federico.personal](/_personal/bio/People/Movie-Director/Fellini,Federico.personal.md) 
+### #is_/same_as :: [Fellini,Federico.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.personal.md) 
 
-### #is_/same_as :: [Fellini,Federico.secret](/_secret/bio/People/Movie-Director/Fellini,Federico.secret.md)
+### #is_/same_as :: [Fellini,Federico.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Fellini,Federico.secret.md)
 

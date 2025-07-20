@@ -203,17 +203,17 @@ Regensburg_Classification: "HM 3130"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joyce,James](Joyce,James.md) 
+### #is_/same_as :: [Joyce,James](/_Standards/Society/Communication/Media/Book/Writer/Joyce,James.md) 
 
-### #is_/same_as :: [Joyce,James.public](/_public/bio/People/Writer/Joyce,James.public.md) 
+### #is_/same_as :: [Joyce,James.public](/_public/Society/Communication/Media/Book/Writer/Joyce,James.public.md) 
 
-### #is_/same_as :: [Joyce,James.internal](/_internal/bio/People/Writer/Joyce,James.internal.md) 
+### #is_/same_as :: [Joyce,James.internal](/_internal/Society/Communication/Media/Book/Writer/Joyce,James.internal.md) 
 
-### #is_/same_as :: [Joyce,James.protect](/_protect/bio/People/Writer/Joyce,James.protect.md) 
+### #is_/same_as :: [Joyce,James.protect](/_protect/Society/Communication/Media/Book/Writer/Joyce,James.protect.md) 
 
-### #is_/same_as :: [Joyce,James.private](/_private/bio/People/Writer/Joyce,James.private.md) 
+### #is_/same_as :: [Joyce,James.private](/_private/Society/Communication/Media/Book/Writer/Joyce,James.private.md) 
 
-### #is_/same_as :: [Joyce,James.personal](/_personal/bio/People/Writer/Joyce,James.personal.md) 
+### #is_/same_as :: [Joyce,James.personal](/_personal/Society/Communication/Media/Book/Writer/Joyce,James.personal.md) 
 
-### #is_/same_as :: [Joyce,James.secret](/_secret/bio/People/Writer/Joyce,James.secret.md)
+### #is_/same_as :: [Joyce,James.secret](/_secret/Society/Communication/Media/Book/Writer/Joyce,James.secret.md)
 

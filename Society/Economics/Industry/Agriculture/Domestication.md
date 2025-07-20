@@ -27,17 +27,17 @@ MeSH_tree_code: J01.040.330
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Domestication](Domestication.md) 
+### #is_/same_as :: [Domestication](/_Standards/Society/Economics/Industry/Agriculture/Domestication.md) 
 
-### #is_/same_as :: [Domestication.public](/_public/Economics/Industry/Agriculture/Domestication.public.md) 
+### #is_/same_as :: [Domestication.public](/_public/Society/Economics/Industry/Agriculture/Domestication.public.md) 
 
-### #is_/same_as :: [Domestication.internal](/_internal/Economics/Industry/Agriculture/Domestication.internal.md) 
+### #is_/same_as :: [Domestication.internal](/_internal/Society/Economics/Industry/Agriculture/Domestication.internal.md) 
 
-### #is_/same_as :: [Domestication.protect](/_protect/Economics/Industry/Agriculture/Domestication.protect.md) 
+### #is_/same_as :: [Domestication.protect](/_protect/Society/Economics/Industry/Agriculture/Domestication.protect.md) 
 
-### #is_/same_as :: [Domestication.private](/_private/Economics/Industry/Agriculture/Domestication.private.md) 
+### #is_/same_as :: [Domestication.private](/_private/Society/Economics/Industry/Agriculture/Domestication.private.md) 
 
-### #is_/same_as :: [Domestication.personal](/_personal/Economics/Industry/Agriculture/Domestication.personal.md) 
+### #is_/same_as :: [Domestication.personal](/_personal/Society/Economics/Industry/Agriculture/Domestication.personal.md) 
 
-### #is_/same_as :: [Domestication.secret](/_secret/Economics/Industry/Agriculture/Domestication.secret.md)
+### #is_/same_as :: [Domestication.secret](/_secret/Society/Economics/Industry/Agriculture/Domestication.secret.md)
 

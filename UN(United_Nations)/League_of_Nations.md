@@ -129,3 +129,22 @@ Commons_gallery: League of Nations
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/League%20of%20Nations)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [League_of_Nations](/_Standards/UN(United_Nations)/League_of_Nations.md) 
+
+### #is_/same_as :: [League_of_Nations.public](/_public/UN(United_Nations)/League_of_Nations.public.md) 
+
+### #is_/same_as :: [League_of_Nations.internal](/_internal/UN(United_Nations)/League_of_Nations.internal.md) 
+
+### #is_/same_as :: [League_of_Nations.protect](/_protect/UN(United_Nations)/League_of_Nations.protect.md) 
+
+### #is_/same_as :: [League_of_Nations.private](/_private/UN(United_Nations)/League_of_Nations.private.md) 
+
+### #is_/same_as :: [League_of_Nations.personal](/_personal/UN(United_Nations)/League_of_Nations.personal.md) 
+
+### #is_/same_as :: [League_of_Nations.secret](/_secret/UN(United_Nations)/League_of_Nations.secret.md)
+

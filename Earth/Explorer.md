@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Explorer](Explorer.md) 
+### #is_/same_as :: [Explorer](/_Standards/Earth/Explorer.md) 
 
-### #is_/same_as :: [Explorer.public](/_public/bio/People/Explorer.public.md) 
+### #is_/same_as :: [Explorer.public](/_public/Earth/Explorer.public.md) 
 
-### #is_/same_as :: [Explorer.internal](/_internal/bio/People/Explorer.internal.md) 
+### #is_/same_as :: [Explorer.internal](/_internal/Earth/Explorer.internal.md) 
 
-### #is_/same_as :: [Explorer.protect](/_protect/bio/People/Explorer.protect.md) 
+### #is_/same_as :: [Explorer.protect](/_protect/Earth/Explorer.protect.md) 
 
-### #is_/same_as :: [Explorer.private](/_private/bio/People/Explorer.private.md) 
+### #is_/same_as :: [Explorer.private](/_private/Earth/Explorer.private.md) 
 
-### #is_/same_as :: [Explorer.personal](/_personal/bio/People/Explorer.personal.md) 
+### #is_/same_as :: [Explorer.personal](/_personal/Earth/Explorer.personal.md) 
 
-### #is_/same_as :: [Explorer.secret](/_secret/bio/People/Explorer.secret.md)
+### #is_/same_as :: [Explorer.secret](/_secret/Earth/Explorer.secret.md)
 

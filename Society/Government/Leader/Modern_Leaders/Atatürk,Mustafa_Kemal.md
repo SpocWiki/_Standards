@@ -146,17 +146,17 @@ name_in_native_language: "Mustafa Kemal Atatürk"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal](Atatürk,Mustafa_Kemal.md) 
+### #is_/same_as :: [Atatürk,Mustafa_Kemal](/_Standards/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.md) 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.public](/_public/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.public.md) 
+### #is_/same_as :: [Atatürk,Mustafa_Kemal.public](/_public/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.public.md) 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.internal](/_internal/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.internal.md) 
+### #is_/same_as :: [Atatürk,Mustafa_Kemal.internal](/_internal/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.internal.md) 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.protect](/_protect/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.protect.md) 
+### #is_/same_as :: [Atatürk,Mustafa_Kemal.protect](/_protect/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.protect.md) 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.private](/_private/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.private.md) 
+### #is_/same_as :: [Atatürk,Mustafa_Kemal.private](/_private/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.private.md) 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.personal](/_personal/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.personal.md) 
+### #is_/same_as :: [Atatürk,Mustafa_Kemal.personal](/_personal/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.personal.md) 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.secret](/_secret/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.secret.md)
+### #is_/same_as :: [Atatürk,Mustafa_Kemal.secret](/_secret/Society/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.secret.md)
 

@@ -152,17 +152,17 @@ Google_Doodle: anton-chekhovs-150th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chekhov,Anton](Chekhov,Anton.md) 
+### #is_/same_as :: [Chekhov,Anton](/_Standards/Society/Communication/Media/Book/Writer/Chekhov,Anton.md) 
 
-### #is_/same_as :: [Chekhov,Anton.public](/_public/bio/People/Writer/Chekhov,Anton.public.md) 
+### #is_/same_as :: [Chekhov,Anton.public](/_public/Society/Communication/Media/Book/Writer/Chekhov,Anton.public.md) 
 
-### #is_/same_as :: [Chekhov,Anton.internal](/_internal/bio/People/Writer/Chekhov,Anton.internal.md) 
+### #is_/same_as :: [Chekhov,Anton.internal](/_internal/Society/Communication/Media/Book/Writer/Chekhov,Anton.internal.md) 
 
-### #is_/same_as :: [Chekhov,Anton.protect](/_protect/bio/People/Writer/Chekhov,Anton.protect.md) 
+### #is_/same_as :: [Chekhov,Anton.protect](/_protect/Society/Communication/Media/Book/Writer/Chekhov,Anton.protect.md) 
 
-### #is_/same_as :: [Chekhov,Anton.private](/_private/bio/People/Writer/Chekhov,Anton.private.md) 
+### #is_/same_as :: [Chekhov,Anton.private](/_private/Society/Communication/Media/Book/Writer/Chekhov,Anton.private.md) 
 
-### #is_/same_as :: [Chekhov,Anton.personal](/_personal/bio/People/Writer/Chekhov,Anton.personal.md) 
+### #is_/same_as :: [Chekhov,Anton.personal](/_personal/Society/Communication/Media/Book/Writer/Chekhov,Anton.personal.md) 
 
-### #is_/same_as :: [Chekhov,Anton.secret](/_secret/bio/People/Writer/Chekhov,Anton.secret.md)
+### #is_/same_as :: [Chekhov,Anton.secret](/_secret/Society/Communication/Media/Book/Writer/Chekhov,Anton.secret.md)
 

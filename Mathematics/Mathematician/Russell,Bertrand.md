@@ -48,17 +48,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Russell,Bertrand](Russell,Bertrand.md) 
+### #is_/same_as :: [Russell,Bertrand](/_Standards/Mathematics/Mathematician/Russell,Bertrand.md) 
 
-### #is_/same_as :: [Russell,Bertrand.public](/_public/bio/People/Mathematician/Russell,Bertrand.public.md) 
+### #is_/same_as :: [Russell,Bertrand.public](/_public/Mathematics/Mathematician/Russell,Bertrand.public.md) 
 
-### #is_/same_as :: [Russell,Bertrand.internal](/_internal/bio/People/Mathematician/Russell,Bertrand.internal.md) 
+### #is_/same_as :: [Russell,Bertrand.internal](/_internal/Mathematics/Mathematician/Russell,Bertrand.internal.md) 
 
-### #is_/same_as :: [Russell,Bertrand.protect](/_protect/bio/People/Mathematician/Russell,Bertrand.protect.md) 
+### #is_/same_as :: [Russell,Bertrand.protect](/_protect/Mathematics/Mathematician/Russell,Bertrand.protect.md) 
 
-### #is_/same_as :: [Russell,Bertrand.private](/_private/bio/People/Mathematician/Russell,Bertrand.private.md) 
+### #is_/same_as :: [Russell,Bertrand.private](/_private/Mathematics/Mathematician/Russell,Bertrand.private.md) 
 
-### #is_/same_as :: [Russell,Bertrand.personal](/_personal/bio/People/Mathematician/Russell,Bertrand.personal.md) 
+### #is_/same_as :: [Russell,Bertrand.personal](/_personal/Mathematics/Mathematician/Russell,Bertrand.personal.md) 
 
-### #is_/same_as :: [Russell,Bertrand.secret](/_secret/bio/People/Mathematician/Russell,Bertrand.secret.md)
+### #is_/same_as :: [Russell,Bertrand.secret](/_secret/Mathematics/Mathematician/Russell,Bertrand.secret.md)
 

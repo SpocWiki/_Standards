@@ -195,17 +195,17 @@ ArhivX_LOD: 11875
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galilei,Galileo](Galilei,Galileo.md) 
+### #is_/same_as :: [Galilei,Galileo](/_Standards/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.md) 
 
-### #is_/same_as :: [Galilei,Galileo.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.public.md) 
+### #is_/same_as :: [Galilei,Galileo.public](/_public/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.public.md) 
 
-### #is_/same_as :: [Galilei,Galileo.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.internal.md) 
+### #is_/same_as :: [Galilei,Galileo.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.internal.md) 
 
-### #is_/same_as :: [Galilei,Galileo.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.protect.md) 
+### #is_/same_as :: [Galilei,Galileo.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.protect.md) 
 
-### #is_/same_as :: [Galilei,Galileo.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.private.md) 
+### #is_/same_as :: [Galilei,Galileo.private](/_private/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.private.md) 
 
-### #is_/same_as :: [Galilei,Galileo.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.personal.md) 
+### #is_/same_as :: [Galilei,Galileo.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.personal.md) 
 
-### #is_/same_as :: [Galilei,Galileo.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.secret.md)
+### #is_/same_as :: [Galilei,Galileo.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Galilei,Galileo.secret.md)
 

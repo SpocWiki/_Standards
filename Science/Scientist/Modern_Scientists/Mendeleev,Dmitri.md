@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendeleev,Dmitri](Mendeleev,Dmitri.md) 
+### #is_/same_as :: [Mendeleev,Dmitri](/_Standards/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.public](/_public/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.public.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.public](/_public/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.public.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.internal](/_internal/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.internal.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.internal](/_internal/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.internal.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.protect](/_protect/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.protect.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.protect](/_protect/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.protect.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.private](/_private/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.private.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.private](/_private/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.private.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.personal](/_personal/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.personal.md) 
+### #is_/same_as :: [Mendeleev,Dmitri.personal](/_personal/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.personal.md) 
 
-### #is_/same_as :: [Mendeleev,Dmitri.secret](/_secret/bio/People/Scientist/Modern_Scientists/Mendeleev,Dmitri.secret.md)
+### #is_/same_as :: [Mendeleev,Dmitri.secret](/_secret/Science/Scientist/Modern_Scientists/Mendeleev,Dmitri.secret.md)
 

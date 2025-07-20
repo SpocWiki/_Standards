@@ -77,17 +77,17 @@ date_of_death: "1406-03-26"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khaldun,Ibn](Khaldun,Ibn.md) 
+### #is_/same_as :: [Khaldun,Ibn](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.md) 
 
-### #is_/same_as :: [Khaldun,Ibn.public](/_public/bio/People/Historian/Khaldun,Ibn.public.md) 
+### #is_/same_as :: [Khaldun,Ibn.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.public.md) 
 
-### #is_/same_as :: [Khaldun,Ibn.internal](/_internal/bio/People/Historian/Khaldun,Ibn.internal.md) 
+### #is_/same_as :: [Khaldun,Ibn.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.internal.md) 
 
-### #is_/same_as :: [Khaldun,Ibn.protect](/_protect/bio/People/Historian/Khaldun,Ibn.protect.md) 
+### #is_/same_as :: [Khaldun,Ibn.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.protect.md) 
 
-### #is_/same_as :: [Khaldun,Ibn.private](/_private/bio/People/Historian/Khaldun,Ibn.private.md) 
+### #is_/same_as :: [Khaldun,Ibn.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.private.md) 
 
-### #is_/same_as :: [Khaldun,Ibn.personal](/_personal/bio/People/Historian/Khaldun,Ibn.personal.md) 
+### #is_/same_as :: [Khaldun,Ibn.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.personal.md) 
 
-### #is_/same_as :: [Khaldun,Ibn.secret](/_secret/bio/People/Historian/Khaldun,Ibn.secret.md)
+### #is_/same_as :: [Khaldun,Ibn.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian/Khaldun,Ibn.secret.md)
 

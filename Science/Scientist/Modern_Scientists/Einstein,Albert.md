@@ -73,17 +73,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Einstein,Albert](Einstein,Albert.md) 
+### #is_/same_as :: [Einstein,Albert](/_Standards/Science/Scientist/Modern_Scientists/Einstein,Albert.md) 
 
-### #is_/same_as :: [Einstein,Albert.public](/_public/bio/People/Scientist/Modern_Scientists/Einstein,Albert.public.md) 
+### #is_/same_as :: [Einstein,Albert.public](/_public/Science/Scientist/Modern_Scientists/Einstein,Albert.public.md) 
 
-### #is_/same_as :: [Einstein,Albert.internal](/_internal/bio/People/Scientist/Modern_Scientists/Einstein,Albert.internal.md) 
+### #is_/same_as :: [Einstein,Albert.internal](/_internal/Science/Scientist/Modern_Scientists/Einstein,Albert.internal.md) 
 
-### #is_/same_as :: [Einstein,Albert.protect](/_protect/bio/People/Scientist/Modern_Scientists/Einstein,Albert.protect.md) 
+### #is_/same_as :: [Einstein,Albert.protect](/_protect/Science/Scientist/Modern_Scientists/Einstein,Albert.protect.md) 
 
-### #is_/same_as :: [Einstein,Albert.private](/_private/bio/People/Scientist/Modern_Scientists/Einstein,Albert.private.md) 
+### #is_/same_as :: [Einstein,Albert.private](/_private/Science/Scientist/Modern_Scientists/Einstein,Albert.private.md) 
 
-### #is_/same_as :: [Einstein,Albert.personal](/_personal/bio/People/Scientist/Modern_Scientists/Einstein,Albert.personal.md) 
+### #is_/same_as :: [Einstein,Albert.personal](/_personal/Science/Scientist/Modern_Scientists/Einstein,Albert.personal.md) 
 
-### #is_/same_as :: [Einstein,Albert.secret](/_secret/bio/People/Scientist/Modern_Scientists/Einstein,Albert.secret.md)
+### #is_/same_as :: [Einstein,Albert.secret](/_secret/Science/Scientist/Modern_Scientists/Einstein,Albert.secret.md)
 

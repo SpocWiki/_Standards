@@ -143,17 +143,17 @@ date_of_birth: "1907-07-06"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kahlo,Frida](Kahlo,Frida.md) 
+### #is_/same_as :: [Kahlo,Frida](/_Standards/Society/Communication/Media/Painting/Painter/Kahlo,Frida.md) 
 
-### #is_/same_as :: [Kahlo,Frida.public](/_public/bio/People/Painter/Kahlo,Frida.public.md) 
+### #is_/same_as :: [Kahlo,Frida.public](/_public/Society/Communication/Media/Painting/Painter/Kahlo,Frida.public.md) 
 
-### #is_/same_as :: [Kahlo,Frida.internal](/_internal/bio/People/Painter/Kahlo,Frida.internal.md) 
+### #is_/same_as :: [Kahlo,Frida.internal](/_internal/Society/Communication/Media/Painting/Painter/Kahlo,Frida.internal.md) 
 
-### #is_/same_as :: [Kahlo,Frida.protect](/_protect/bio/People/Painter/Kahlo,Frida.protect.md) 
+### #is_/same_as :: [Kahlo,Frida.protect](/_protect/Society/Communication/Media/Painting/Painter/Kahlo,Frida.protect.md) 
 
-### #is_/same_as :: [Kahlo,Frida.private](/_private/bio/People/Painter/Kahlo,Frida.private.md) 
+### #is_/same_as :: [Kahlo,Frida.private](/_private/Society/Communication/Media/Painting/Painter/Kahlo,Frida.private.md) 
 
-### #is_/same_as :: [Kahlo,Frida.personal](/_personal/bio/People/Painter/Kahlo,Frida.personal.md) 
+### #is_/same_as :: [Kahlo,Frida.personal](/_personal/Society/Communication/Media/Painting/Painter/Kahlo,Frida.personal.md) 
 
-### #is_/same_as :: [Kahlo,Frida.secret](/_secret/bio/People/Painter/Kahlo,Frida.secret.md)
+### #is_/same_as :: [Kahlo,Frida.secret](/_secret/Society/Communication/Media/Painting/Painter/Kahlo,Frida.secret.md)
 

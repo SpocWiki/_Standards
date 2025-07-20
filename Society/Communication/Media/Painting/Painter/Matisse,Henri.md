@@ -300,17 +300,17 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MATISS_ANRI.ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matisse,Henri](Matisse,Henri.md) 
+### #is_/same_as :: [Matisse,Henri](/_Standards/Society/Communication/Media/Painting/Painter/Matisse,Henri.md) 
 
-### #is_/same_as :: [Matisse,Henri.public](/_public/bio/People/Painter/Matisse,Henri.public.md) 
+### #is_/same_as :: [Matisse,Henri.public](/_public/Society/Communication/Media/Painting/Painter/Matisse,Henri.public.md) 
 
-### #is_/same_as :: [Matisse,Henri.internal](/_internal/bio/People/Painter/Matisse,Henri.internal.md) 
+### #is_/same_as :: [Matisse,Henri.internal](/_internal/Society/Communication/Media/Painting/Painter/Matisse,Henri.internal.md) 
 
-### #is_/same_as :: [Matisse,Henri.protect](/_protect/bio/People/Painter/Matisse,Henri.protect.md) 
+### #is_/same_as :: [Matisse,Henri.protect](/_protect/Society/Communication/Media/Painting/Painter/Matisse,Henri.protect.md) 
 
-### #is_/same_as :: [Matisse,Henri.private](/_private/bio/People/Painter/Matisse,Henri.private.md) 
+### #is_/same_as :: [Matisse,Henri.private](/_private/Society/Communication/Media/Painting/Painter/Matisse,Henri.private.md) 
 
-### #is_/same_as :: [Matisse,Henri.personal](/_personal/bio/People/Painter/Matisse,Henri.personal.md) 
+### #is_/same_as :: [Matisse,Henri.personal](/_personal/Society/Communication/Media/Painting/Painter/Matisse,Henri.personal.md) 
 
-### #is_/same_as :: [Matisse,Henri.secret](/_secret/bio/People/Painter/Matisse,Henri.secret.md)
+### #is_/same_as :: [Matisse,Henri.secret](/_secret/Society/Communication/Media/Painting/Painter/Matisse,Henri.secret.md)
 

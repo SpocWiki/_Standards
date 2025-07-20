@@ -152,17 +152,17 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"KurtGodel::h4724\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gödel,Kurt](Gödel,Kurt.md) 
+### #is_/same_as :: [Gödel,Kurt](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.md) 
 
-### #is_/same_as :: [Gödel,Kurt.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.public.md) 
+### #is_/same_as :: [Gödel,Kurt.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.public.md) 
 
-### #is_/same_as :: [Gödel,Kurt.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.internal.md) 
+### #is_/same_as :: [Gödel,Kurt.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.internal.md) 
 
-### #is_/same_as :: [Gödel,Kurt.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.protect.md) 
+### #is_/same_as :: [Gödel,Kurt.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.protect.md) 
 
-### #is_/same_as :: [Gödel,Kurt.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.private.md) 
+### #is_/same_as :: [Gödel,Kurt.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.private.md) 
 
-### #is_/same_as :: [Gödel,Kurt.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.personal.md) 
+### #is_/same_as :: [Gödel,Kurt.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.personal.md) 
 
-### #is_/same_as :: [Gödel,Kurt.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.secret.md)
+### #is_/same_as :: [Gödel,Kurt.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Gödel,Kurt.secret.md)
 

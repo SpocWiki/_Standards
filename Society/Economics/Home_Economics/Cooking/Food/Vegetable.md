@@ -68,17 +68,17 @@ hashtag: vegetables
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vegetable](Vegetable.md) 
+### #is_/same_as :: [Vegetable](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable.md) 
 
-### #is_/same_as :: [Vegetable.public](/_public/Economics/Home_Economics/Cooking/Food/Vegetable.public.md) 
+### #is_/same_as :: [Vegetable.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable.public.md) 
 
-### #is_/same_as :: [Vegetable.internal](/_internal/Economics/Home_Economics/Cooking/Food/Vegetable.internal.md) 
+### #is_/same_as :: [Vegetable.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable.internal.md) 
 
-### #is_/same_as :: [Vegetable.protect](/_protect/Economics/Home_Economics/Cooking/Food/Vegetable.protect.md) 
+### #is_/same_as :: [Vegetable.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable.protect.md) 
 
-### #is_/same_as :: [Vegetable.private](/_private/Economics/Home_Economics/Cooking/Food/Vegetable.private.md) 
+### #is_/same_as :: [Vegetable.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable.private.md) 
 
-### #is_/same_as :: [Vegetable.personal](/_personal/Economics/Home_Economics/Cooking/Food/Vegetable.personal.md) 
+### #is_/same_as :: [Vegetable.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable.personal.md) 
 
-### #is_/same_as :: [Vegetable.secret](/_secret/Economics/Home_Economics/Cooking/Food/Vegetable.secret.md)
+### #is_/same_as :: [Vegetable.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable.secret.md)
 
