@@ -41,7 +41,7 @@ Commons_category: "Fictional settings"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fictional_Worlds](/_Standards/Society/Communication/Genre/Fiction/Fictional_Worlds.md) 
+### #is_/same_as :: [Fictional_Worlds](Fictional_Worlds.md) 
 
 ### #is_/same_as :: [Fictional_Worlds.public](/_public/Society/Communication/Genre/Fiction/Fictional_Worlds.public.md) 
 
