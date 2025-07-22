@@ -86,6 +86,33 @@ equivalent_class:
   - https://schema.org/Newspaper
 exact_match: http://purl.org/coar/resource_type/c_2fe3
 Unicode_character: 📰
+title: Newspaper
+lang: en
+type: private_note
+keywords: Newspaper
+linkTitle: Newspaper
+has_Template: "[[Extract~Note~Template]]"
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - private
+  - note
+layout: 
+draft: true
+publish: false
+publishDate: 
+expiryDate: 
+has_time_started: 2025-07-20
+aliases:
+  - Newspaper
+tags:
+  - Newspaper
+  - excalidraw
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+excalidraw-autoexport: svg
 ---
 
 # [[Newspaper]] 
@@ -98,7 +125,9 @@ Unicode_character: 📰
 > A **Newspaper** is a periodical publication containing written information about current events 
 > and is often typed in black ink with a white or gray background. 
 > 
-> Newspapers can cover a wide variety of fields such as politics, business, sports, art, and science. They often include materials such as opinion columns, weather forecasts, reviews of local services, obituaries, birth notices, crosswords, sudoku puzzles, editorial cartoons, comic strips, and advice columns.
+> Newspapers can cover a wide variety of fields such as politics, business, sports, art, and science. 
+> They often include materials such as opinion columns, weather forecasts, reviews of local services, 
+> obituaries, birth notices, crosswords, editorial cartoons, comic strips, and advice columns.
 >
 > Most newspapers are businesses, and they pay their expenses with a mixture of subscription revenue, newsstand sales, and advertising revenue. The journalism organizations that publish newspapers are themselves often metonymically called newspapers. Newspapers have traditionally been published in print (usually on cheap, low-grade paper called newsprint). However, today most newspapers are also published on websites as online newspapers, and some have even abandoned their print versions entirely.
 >
@@ -123,3 +152,22 @@ Unicode_character: 📰
 
 ### #is_/same_as :: [Newspaper.secret](/_secret/Society/Communication/Media/Newspaper.secret.md)
 
+
+# [[Newspaper]] 
+
+#is_/part_of :: [[Newspaper]] 
+
+![[Newspaper.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

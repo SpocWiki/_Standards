@@ -23,6 +23,9 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bryce-demo-May00PicOf
 Commons_category: "Fictional settings"
 ---
 
+# [[Fictional_World]] 
+
+
 ## #has_/text_of_/abstract 
 
 > A fictional universe, also known as an imagined universe or a constructed universe, 
@@ -41,7 +44,7 @@ Commons_category: "Fictional settings"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fictional_Worlds](/_Standards/Society/Communication/Genre/Fiction/Fictional_Worlds.md) 
+### #is_/same_as :: [Fictional_World](Fictional_World.md) 
 
 ### #is_/same_as :: [Fictional_Worlds.public](/_public/Society/Communication/Genre/Fiction/Fictional_Worlds.public.md) 
 

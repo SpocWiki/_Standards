@@ -46,6 +46,8 @@ Krugosvet_article: nauka_i_tehnika/matematika/ALGEBRA.html
 Library_of_Congress_Classification: Z6654.A5
 ---
 
+# [[Algebra]] 
+
 ## #has_/text_of_/abstract 
 
 > **Algebra** is the branch of mathematics that studies certain abstract systems, known as algebraic structures, and the manipulation of expressions within those systems. It is a generalization of arithmetic that introduces variables and algebraic operations other than the standard arithmetic operations, such as addition and multiplication.

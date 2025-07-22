@@ -40,7 +40,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Non-Fiction](/_Standards/Society/Communication/Media/Genre/Non-Fiction.md) 
+### #is_/same_as :: [Non-Fiction](Non-Fiction.md) 
 
 ### #is_/same_as :: [Non-Fiction.public](/_public/Society/Communication/Media/Genre/Non-Fiction.public.md) 
 

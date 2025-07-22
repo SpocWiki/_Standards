@@ -22,13 +22,27 @@ Basisklassifikation: 89.33
 
 ## #has_/text_of_/abstract 
 
-> A **Monarchy** is a form of government in which a person, the monarch, reigns as head of state for life or until abdication. The extent of the authority of the monarch may vary from restricted and largely symbolic (constitutional monarchy), to fully autocratic (absolute monarchy), and may have representational, executive, legislative, and judicial functions.
+> A **Monarchy** is a form of government in which a person, the monarch, 
+> reigns as head of state for life or until abdication. 
+> 
+> The extent of the authority of the monarch may vary from restricted and largely symbolic 
+> (constitutional monarchy), to fully autocratic (absolute monarchy), 
+> and may have representational, executive, legislative, and judicial functions.
 >
 > The succession of monarchs has mostly been hereditary, often building dynasties; however, monarchies can also be elective and self-proclaimed. Aristocrats, though not inherent to monarchies, often function as the pool of persons from which the monarch is chosen, and to fill the constituting institutions (e.g. diet and court), giving many monarchies oligarchic elements. The political legitimacy of the inherited, elected or proclaimed monarchy has most often been based on claims of representation of people and land through some form of relation (e.g. kinship) and divine right or other achieved status.
 >
 > Monarchs can carry various titles such as emperor, empress, king, and queen. Monarchies can form federations, personal unions, and realms with vassals through personal association with the monarch, which is a common reason for monarchs carrying several titles. Some countries have preserved titles such as "kingdom" while dispensing with an official serving monarch (note the example of Francoist Spain from 1947 to 1975) or while relying on a long-term regency (as in the case of Hungary in the Horthy era from 1920 to 1944).
 >
-> Monarchies were the most common form of government until the 20th century, when republics replaced many monarchies, notably at the end of World War I. As of 2024, forty-three sovereign nations in the world have a monarch, including fifteen Commonwealth realms that share King Charles III as their head of state. Other than that, there is a range of sub-national monarchical entities. Most of the modern monarchies are constitutional monarchies, retaining under a constitution unique legal and ceremonial roles for monarchs exercising limited or no political power, similar to heads of state in a parliamentary republic.
+> Monarchies were the most common form of government until the 20th century, 
+> when republics replaced many monarchies, notably at the end of World War I. 
+> 
+> As of 2024, forty-three sovereign nations in the world have a monarch, 
+> including fifteen Commonwealth realms that share King Charles III as their head of state. 
+> 
+> Other than that, there is a range of sub-national monarchical entities. 
+> Most of the modern monarchies are constitutional monarchies, 
+> retaining under a constitution unique legal and ceremonial roles for monarchs 
+> exercising limited or no political power, similar to heads of state in a parliamentary republic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monarchy)
 

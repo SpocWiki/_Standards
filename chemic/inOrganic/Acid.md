@@ -21,6 +21,10 @@ IEV_number: 114-01-17
 MeSH_tree_code: D01.029
 ---
 
+# [[Acid]] 
+
+#is_/same_as :: [[../../WikiData/WD~Acid,11158]] 
+
 ## #has_/text_of_/abstract 
 
 > An **Acid** is a molecule or ion capable of either donating a proton (i.e. hydrogen ion, H+), 

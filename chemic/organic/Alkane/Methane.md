@@ -34,7 +34,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Methane](/_Standards/chemic/organic/Methane.md) 
+### #is_/same_as :: [Methane](Methane.md) 
 
 ### #is_/same_as :: [Methane.public](/_public/chemic/organic/Methane.public.md) 
 
