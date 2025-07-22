@@ -54,6 +54,8 @@ UNII: NIK1K0956U
 InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 ---
 
+# [[Actinium]]
+
 #is_/same_as :: [[../../../WikiData/WD~Actinium,1121]] 
 
 
