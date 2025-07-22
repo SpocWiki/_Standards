@@ -1,5 +1,35 @@
+---
+has_id_wikidata: Q191293
+location: "[[_Standards/WikiData/WD~Hua_County,386212]]"
+modified_Mercalli_intensity_scale: "[[_Standards/WikiData/WD~Mercalli_scale_XI,23925708]]"
+fault:
+  - "[[_Standards/WikiData/WD~Ordos_Block,110010692]]"
+  - "[[_Standards/WikiData/WD~Shanxi_Rift_System,110235754]]"
+  - "[[_Standards/WikiData/WD~Qinling_Fault,124003873]]"
+coordinate_location: Point(109.7 34.5)
+instance_of:
+  - "[[_Standards/WikiData/WD~earthquake,7944]]"
+country: "[[_Standards/WikiData/WD~Ming_dynasty,9903]]"
+number_of_deaths:
+  - 100000
+  - 830000
+earthquake_magnitude_on_the_Richter_magnitude_scale: 8
+earthquake_magnitude_on_the_moment_magnitude_scale: 8
+vertical_depth: 32
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Shaanxi,47974]]"
+point_in_time: 1556-02-02T00:00:00Z
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Shaanxi%201556%20earthquake%20map%20of%20provinces.png
+Commons_category: Earthquakes of 1556
+Wolfram_Language_entity_code: Entity["HistoricalEvent", "ShaanxiEarthquakeKillsApproximately830000"]
+aliases:
+  - Jiajing Great Earthquake
+  - 1556 Shaanxi earthquake
+  - Hua County Earthquake
+  - 嘉靖大地震
+  - 华县地震
+---
 
-# [[1556_Shaanxi_earthquake]]
+# [[1556_Shaanxi_earthquake]] 
 
 #has_/time_/started :: 1556-02-02 
 

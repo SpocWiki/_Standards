@@ -38,6 +38,8 @@ defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"
 
 # [[Dim~Acceleration]] 
 
+#is_/same_as :: [[../../WikiData/WD~Acceleration,11376]] 
+
 [[Dim~Acceleration]] is the Speed is the second Derivative 
 of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time]]. 
 

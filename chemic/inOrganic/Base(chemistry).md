@@ -20,6 +20,10 @@ subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
 Commons_category: Bases
 ---
 
+# [[Base(chemistry)]] 
+
+#is_/same_as :: [[wd base]]
+
 ## #has_/text_of_/abstract 
 
 > In chemistry, there are three definitions in common use of the word "base": 

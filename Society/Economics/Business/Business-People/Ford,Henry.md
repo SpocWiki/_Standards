@@ -128,7 +128,7 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ford,Henry](/_Standards/Society/Economics/Business-People/Ford,Henry.md) 
+### #is_/same_as :: [Ford,Henry](Ford,Henry.md) 
 
 ### #is_/same_as :: [Ford,Henry.public](/_public/Society/Economics/Business-People/Ford,Henry.public.md) 
 
