@@ -88,12 +88,16 @@ Commons_Creator_page: Adam Smith
 Commons_gallery: Adam Smith
 ---
 
+# [[Smith,Adam]] 
+
 #has_/time_/started :: 1723-06-16 
 #has_/time_/stopped  :: 1790-07-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #has_/created :: [[Wealth_of_Nations]]  
+
+#is_/same_as :: [[../../../WikiData/WD~Adam_Smith,9381]] 
 
 Erfolgsgesellschaft 
 Leistungsgesellschaft  
