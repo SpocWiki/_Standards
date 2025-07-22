@@ -4,6 +4,7 @@ aliases:
   - Academy Award
   - Academy Awards
   - Oscars
+  - Academy_Award
 has_id_wikidata: Q19020
 Giphy_username: oscars
 GitHub_topic:
@@ -58,9 +59,34 @@ TASS_reference: "17244621"
 RIA_Novosti_reference: "54276827"
 P8189: "987007292823805171"
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OSKAR_KINOPREMIYA.html
+title: Academy_Award
+lang: en
+type: private_note
+keywords: Academy_Award
+linkTitle: Academy_Award
+has_Template: "[[Extract~Note~Template]]"
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - private
+  - note
+layout: 
+draft: true
+publish: false
+publishDate: 
+expiryDate: 
+has_time_started: 2025-07-22
+tags:
+  - Academy_Award
+  - excalidraw
+excalidraw-plugin: parsed
+excalidraw-open-md: true
+excalidraw-autoexport: svg
 ---
 
-# [[Academy_Awards]] 
+# [[Academy_Award]] 
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Academy_Awards,19020]]
 
@@ -68,11 +94,11 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OSKAR_KINOPREMIYA.html
 
 > The **Academy Award**s of Merit, commonly known as the Oscars or Academy Awards, 
 > are awards for artistic and technical merit for the film industry. 
-> They are presented annually by the [[AMPAS|Academy of Motion Picture Arts and Sciences]] ([[AMPAS]]) [[../../_Standards/Earth/Continent/America~North/USA|
-> in the Uni]]ted States, in recognition of excellence in cinematic achievements 
+> They are presented annually by the [[AMPAS|Academy of Motion Picture Arts and Sciences]] ([[AMPAS]]) 
+> in the United States, in recognition of excellence in cinematic achievements 
 > as assessed by the Academy's voting membership. 
 > The Oscars are widely considered to be the most prestigious awards in the film industry.
->
+> 
 > The major award categories are presented during a live-televised Hollywood ceremony, 
 > that is typically held in February or March. 
 > It is the oldest worldwide entertainment awards ceremony. 
@@ -86,3 +112,22 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OSKAR_KINOPREMIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Academy%20Awards)
 
+
+# [[Academy_Award]] 
+
+#is_/part_of :: [[Academy_Awards]] 
+
+![[Academy_Award.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

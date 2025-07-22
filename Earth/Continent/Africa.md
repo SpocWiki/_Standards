@@ -132,6 +132,7 @@ U_S_National_Archives_Identifier: 10044605
 
 # [[Africa]] 
 
+#is_/same_as :: [[../../WikiData/WD~Africa,15]] 
 
 ## #has_/text_of_/abstract  
 

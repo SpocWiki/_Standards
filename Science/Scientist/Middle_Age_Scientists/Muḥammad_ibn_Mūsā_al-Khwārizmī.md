@@ -66,6 +66,9 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Khwarizmi%20portra
 Libris_URI: 1zcf8rck5jh8jzf
 ---
 
+
+#is_/same_as :: [[../../../WikiData/WD~Al-Khwarizmi,9038]] 
+
 ## #has_/text_of_/abstract 
 
 > Muhammad ibn Musa al-Khwarizmi (Persian: محمد بن موسى خوارزمی; c. 780 – c. 850), 

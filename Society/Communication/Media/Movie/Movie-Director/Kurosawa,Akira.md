@@ -110,6 +110,8 @@ Krugosvet_article: istoriya/kurosava-akira
 #has_/name_/family :: Kurosawa 
 #has_/name_/given :: Akira
 
+#is_/same_as :: [[../../../../../WikiData/WD~Akira_Kurosawa,8006]] 
+
 ## #has_/text_of_/abstract 
 
 > **Akira Kurosawa** (黒澤 明 or 黒沢 明, Kurosawa Akira, March 23, 1910 – September 6, 1998) 

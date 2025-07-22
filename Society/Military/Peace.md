@@ -34,11 +34,21 @@ Commons_gallery: Peace
 Commons_category: Peace
 ---
 
+# [[Peace]] 
+
+#is_/same_as :: [[../../WikiData/WD~Peace,454]] 
+
 ## #has_/text_of_/abstract 
 
 > **Peace** is a state of harmony in the absence of hostility and violence. In a societal sense, peace is commonly used to mean a lack of conflict (such as war) and freedom from fear of violence between individuals or groups. 
 >
-> Promotion of peace is a core tenet of many philosophies, religions, and ideologies, many of which consider it a core tenant of their philosophy. Some examples are, faiths such as Buddhism and Islam, important figures like Gandhi, and throughout literature like "Perpetual Peace: A Philosophical Sketch" by Immanuel Kant, "The Art of Peace" by Morihei Ueshiba, or ideologies that strictly adhere to it such as Pacifism within a sociopolitical scope. It is a frequent subject of symbolism and features prominently in art and other cultural traditions.
+> Promotion of peace is a core tenet of many philosophies, religions, and ideologies, 
+> many of which consider it a core tenant of their philosophy. 
+> Some examples are, faiths such as Buddhism and Islam, important figures like Gandhi, 
+> and throughout literature like "Perpetual Peace: A Philosophical Sketch" by Immanuel Kant, 
+> "The Art of Peace" by Morihei Ueshiba, or ideologies that strictly adhere to it 
+> such as Pacifism within a sociopolitical scope. 
+> It is a frequent subject of symbolism and features prominently in art and other cultural traditions.
 >
 > The representation of peace has taken many shapes, with a variety of symbols pertaining to it based on culture, context, and history; each with their respective symbolism whose nature can be very complex. An example, being during post-violence, in contexts where intense emotions, these symbols can form to evoke unity and cooperation, described as to fill groups of people with pride and connection, yet the symbolism could also possibly form to convey oppression, hatred, or else.
 >

@@ -131,7 +131,7 @@ UMLS_CUI: C0206236
 > were redistributed to the German occupiers and other non-Jews. 
 > Although the majority of Holocaust victims died in 1942, 
 > the killing continued at a lower rate until the end of the war in May 1945. 
-> Separate Nazi persecutions killed a similar number of non-Jewish civilians and [[../../../../../../../../../media/movie/Horror-Movie/POW(prisoner_of_war)|POW]]s; 
+> Separate Nazi persecutions killed a similar number of non-Jewish civilians and [[../../../../../../../../Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war)|POW]]s; 
 > the term Holocaust is sometimes used 
 > to also refer to the persecution of these other groups.
 >
