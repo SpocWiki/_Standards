@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Alasdair Gray
+- "Alasdair Gray"
 ---
 
 ## #has_/text_of_/abstract 

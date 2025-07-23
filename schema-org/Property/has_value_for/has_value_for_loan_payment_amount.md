@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_loan-payment-amount
-linkTitle: has_loan-payment-amount
-
-keywords: [loan-payment-amount]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - loan_payment_amount
 - loan-payment-amount
 - loanPaymentAmount
 - has_value_for_loan_payment_amount
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- loan-payment-amount
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_loan-payment-amount
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_loan-payment-amount
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of RepaymentSpecification.

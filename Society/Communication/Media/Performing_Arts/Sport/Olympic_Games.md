@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Jeux olympiques
-  - Olympics
-  - Olympic Games
+- "Jeux olympiques"
+- Olympics
+- "Olympic Games"
 ---
 
 #has_/url_for_/content :: https://olympics.com/en/olympic-games 
@@ -118,7 +118,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1932 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Lake Placid]]                 |  W  | 1932-02-04 | 2004-02-15 |
 | 1932 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Los Angeles]]                 |  S  | 1932-07-30 | 2002-08-14 |
 | 1936 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Germany\|Germany]]         | [[Garmisch-Partenkirchen]]      |  W  | 1936-02-06 | 2000-02-16 |
-| 1936 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Germany\|Germany]]         | [[Berlin]]                      |  S  | 1936-08-01 | 1998-08-16 |
+| 1936 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Germany\|Germany]]         | [[../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City]]                      |  S  | 1936-08-01 | 1998-08-16 |
 | 1948 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Switzerland\|Switzerland]] | [[St. Moritz]]                  |  W  | 1948-01-30 | 1996-02-08 |
 | 1948 | [[../../../../../../Earth/Continent/Europe/Europe~North/UK\|United Kingdom]]                                                                                 | [[UK/London,City]]                                                                                    |  S  | 1948-07-29 | 1994-08-14 |
 | 1952 | [[../../../../../../Earth/Continent/Europe/Europe~North/Norway\|Norway]]             | [[Oslo]]                        |  W  | 1952-02-14 | 1992-02-25 |

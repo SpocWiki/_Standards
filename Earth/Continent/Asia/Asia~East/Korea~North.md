@@ -297,79 +297,79 @@ demonym:
 - "كوري شمالي"
 - "كورية شمالية"
 - "كوريون شماليون"
-  - norcoreana
-  - norcoreanu
+- norcoreana
+- norcoreanu
 - "উত্তর কোরীয়"
-  - Severokorejec
-  - Severokorejka
-  - Severokorejky
-  - Nordkoreanerin
-  - Nordkoreanerinnen
-  - norcoreana
-  - norcoreano
-  - Nord-coréen
-  - Nord-coréenne
+- Severokorejec
+- Severokorejka
+- Severokorejky
+- Nordkoreanerin
+- Nordkoreanerinnen
+- norcoreana
+- norcoreano
+- Nord-coréen
+- Nord-coréenne
 - "צפון קוריאני"
 - "צפון קוריאנית"
-  - észak-koreai
-  - Nord-Koreano
-  - nordcoreana
-  - nordcoreane
-  - nordcoreani
-  - 朝鮮人
-  - 조선인
-  - Severokorejci
-  - Nordkoreaner
-  - nordcoreano
-  - txoson
-  - Noord-Koreaan
-  - nord-coreean
-  - nord-coreeancă
-  - nord-coreeni
-  - северокореец
-  - северокорейцы
-  - северокореянка
-  - північнокореєць
-  - північнокорейці
-  - північнокореянка
-  - nordcorean
-  - nordcoreana
-  - nordcoreane
-  - nordcoreani
-  - 朝鮮人
+- észak-koreai
+- Nord-Koreano
+- nordcoreana
+- nordcoreane
+- nordcoreani
+- 朝鮮人
+- 조선인
+- Severokorejci
+- Nordkoreaner
+- nordcoreano
+- txoson
+- Noord-Koreaan
+- nord-coreean
+- nord-coreeancă
+- nord-coreeni
+- северокореец
+- северокорейцы
+- северокореянка
+- північнокореєць
+- північнокорейці
+- північнокореянка
+- nordcorean
+- nordcoreana
+- nordcoreane
+- nordcoreani
+- 朝鮮人
 - "كوري شمالي"
 - "كورية شمالية"
 - "كوريين شماليين"
 - "كوريات شماليات"
-  - corean
+- corean
 - "North Korean"
 short_name:
-  - КНДР
-  - КНДР
-  - KLDR
-  - DVRK
-  - DPRK
-  - RPDC
-  - RPDC
-  - ԿԺԴՀ
-  - 朝鲜
-  - 朝鲜
-  - 朝鮮
-  - 朝鮮
-  - KRLD
-  - КНДР
-  - RPDC
-  - 北朝鮮
-  - 북한
-  - RPDC
-  - RPDC
-  - КНДР
-  - KDHC
-  - 北韓
-  - 朝鲜
-  - 北韓
+- КНДР
+- КНДР
+- KLDR
+- DVRK
+- DPRK
+- RPDC
+- RPDC
+- ԿԺԴՀ
+- 朝鲜
+- 朝鲜
+- 朝鮮
+- 朝鮮
+- KRLD
+- КНДР
+- RPDC
+- 北朝鮮
+- 북한
+- RPDC
+- RPDC
+- КНДР
+- KDHC
+- 北韓
+- 朝鲜
+- 北韓
 - "\U0001F1F0\U0001F1F5"
-  - RPDC
+- RPDC
 birth_rate:
   - 13.24
   - 13.058
@@ -498,9 +498,9 @@ SpocWebEntityId: 26940
 isDeleted: false
 confidential: public
 aliases:
-  - North-Korea
-  - Korea~Dem-Rep
-  - Nordkorea
+- North-Korea
+- Korea~Dem-Rep
+- Nordkorea
 - "North Korea"
 icon: flag-kp
 ---

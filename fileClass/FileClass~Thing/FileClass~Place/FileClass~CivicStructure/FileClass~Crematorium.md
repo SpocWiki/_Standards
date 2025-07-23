@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: skull
-version: "2.0"
-tagNames:
-  - class/Crematorium
-  - class/Thing/Place/CivicStructure/Crematorium
-  - is_a_/Crematorium
-  - schema-org/Crematorium
-tags:
-  - class/FileClass
-  - class/Crematorium
-  - is_a_/Crematorium
-  - class/Thing/Place/CivicStructure/Crematorium
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
+icon: skull
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Crematorium
+- class/Thing/Place/CivicStructure/Crematorium
+- is_a_/Crematorium
+- schema-org/Crematorium
+tags:
+- class/FileClass
+- class/Crematorium
+- is_a_/Crematorium
+- class/Thing/Place/CivicStructure/Crematorium
+version: 2.0
 ---
 
 # Crematorium

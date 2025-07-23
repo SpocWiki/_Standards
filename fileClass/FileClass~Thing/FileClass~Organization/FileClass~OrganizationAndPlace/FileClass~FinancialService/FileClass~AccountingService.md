@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AccountingService
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService
-  - is_an_/AccountingService
-  - schema-org/AccountingService
-tags:
-  - class/FileClass
-  - class/AccountingService
-  - "#is_an_/AccountingService"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AccountingService
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService
+- is_an_/AccountingService
+- schema-org/AccountingService
+tags:
+- class/FileClass
+- class/AccountingService
+- '#is_an_/AccountingService'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService
+version: 2.0
 ---
 
 # AccountingService

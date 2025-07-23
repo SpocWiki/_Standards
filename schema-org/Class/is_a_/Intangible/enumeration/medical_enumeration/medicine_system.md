@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medicine_system Class
-linkTitle: is_a_medicine_system Class
-
-keywords: [medicine_system]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medicine-system
 - medicine_system
 - MedicineSystem
 - is_a_medicine_system
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medicine_system
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medicine_system Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medicine_system Class"
+type: Type
 ---
 
 Class of all medicine_systems.

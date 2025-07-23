@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Michael Caine
-  - Maurice Joseph Micklewhite
+- "Michael Caine"
+- "Maurice Joseph Micklewhite"
 ---
 
 # [[Caine,Michael]] 

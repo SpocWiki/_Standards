@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_activity-frequency
-linkTitle: has_activity-frequency
-
-keywords: [activity-frequency]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - activity_frequency
 - activity-frequency
 - activityFrequency
 - has_value_for_activity_frequency
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- activity-frequency
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_activity-frequency
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_activity-frequency
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of ExercisePlan.

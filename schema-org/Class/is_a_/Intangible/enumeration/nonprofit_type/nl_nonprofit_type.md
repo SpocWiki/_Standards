@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nl_nonprofit_type Class
-linkTitle: is_a_nl_nonprofit_type Class
-
-keywords: [nl_nonprofit_type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nl-nonprofit-type
 - nl_nonprofit_type
 - NLNonprofitType
 - is_a_nl_nonprofit_type
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nl_nonprofit_type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nl_nonprofit_type Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nl_nonprofit_type Class"
+type: Type
 ---
 
 Class of all nl_nonprofit_types.

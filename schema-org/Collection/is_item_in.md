@@ -1,31 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- element-of
+- element_of
+- elementOf
+- is_element_of
+- is_contained_in
+- is_item_in
+- Organization-Member
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_element_of
-linkTitle: is_element_of
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_element_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Collection
-aliases:
-  - element-of
-  - element_of
-  - elementOf
-  - is_element_of
-  - is_contained_in
-  - is_item_in 
-  - Organization-Member
+- schema-org/Collection
+title: is_element_of
+type: Predi_Relation
 ---
+
 # [Collection](../Collection.md) - [[Item]] Relationship, 
 in which the aggregated object represents a container. 
 

@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_alternative_to
-
-linkTitle: is_alternative_to
-keywords: [alternative]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - alternative-of
 - alternative_to
 - alternativeTo
 - is_alternative_to
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- alternative
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_alternative_to
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_alternative_to
+type: Predi_Relation
 ---
 
 Another gene which is a variation of this one.

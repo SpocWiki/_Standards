@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_min-value
-linkTitle: has_min-value
-
-keywords: [min-value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - min_value
 - min-value
 - minValue
 - has_value_for_min
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- min-value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_min-value
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_min-value
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.

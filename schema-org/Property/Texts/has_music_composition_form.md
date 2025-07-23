@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_music_composition_form
-linkTitle: has_text_of_music_composition_form
-
-keywords: [music, composition, form]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - music-composition-form
 - music_composition_form
 - musicCompositionForm
 - has_text_of_music_composition_form
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- music
+- composition
+- form
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_music_composition_form
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_music_composition_form
+type: Pred_Text
 ---
 
 Predicate to describe the Text of MusicComposition.

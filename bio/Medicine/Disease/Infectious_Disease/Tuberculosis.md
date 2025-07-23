@@ -1,24 +1,23 @@
----
-has_id_wikidata: Q12204
-has_cause: "[[_Standards/WikiData/WD~Mycobacterium_tuberculosis,130971]]"
-medical_examination:
-- "[[_Standards/WikiData/WD~Ziehl-Neelsen_stain,198921]]"
-- "[[_Standards/WikiData/WD~Mantoux_test,908699]]"
-- "[[_Standards/WikiData/WD~chest_radiograph,1283318]]"
-- "[[_Standards/WikiData/WD~chest_photofluorography,1964089]]"
-- '[[_Standards/WikiData/WD~QuantiFERON,2893466]]'
-- "[[_Standards/WikiData/WD~GeneXpert_MTB_RIF,5531060]]"
-- "[[_Standards/WikiData/WD~lung_biopsy,6040221]]"
-- "[[_Standards/WikiData/WD~sputum_culture,7581635]]"
-- '[[_Standards/WikiData/WD~T-SPOT.TB,7667857]]'
-- "[[_Standards/WikiData/WD~Tuberculosis_radiology,7850849]]"
-- "[[_Standards/WikiData/WD~chest_CT,106108503]]"
-health_specialty:
-- '[[_Standards/WikiData/WD~pulmonology,203337]]'
-- "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
-- '[[_Standards/WikiData/WD~phthisiology,2624918]]'
+﻿---
+Commons_category: Tuberculosis
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+Dewey_Decimal_Classification:
+- 362.196995
+- 616.995
+- 618.92995
+- 636.0896995
+- 614.542
+different_from: '[[_Standards/WikiData/WD~mycobacterium_infectious_disease,4293079]]'
+DiseasesDB: 8515
+disease_burden: 43650273
+disease_transmission_process: '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
 drug_or_therapy_used_for_treatment:
-- "[[_Standards/WikiData/WD~4-aminosalicylic_acid,229924]]"
+- '[[_Standards/WikiData/WD~4-aminosalicylic_acid,229924]]'
 - '[[_Standards/WikiData/WD~ethambutol,412318]]'
 - '[[_Standards/WikiData/WD~ethionamide,414767]]'
 - '[[_Standards/WikiData/WD~capreomycin,415909]]'
@@ -27,39 +26,9 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~rifampicin,422652]]'
 - '[[_Standards/WikiData/WD~isoniazid,423169]]'
 - '[[_Standards/WikiData/WD~viomycin,12751472]]'
-instance_of:
-- "[[_Standards/WikiData/WD~notifiable_disease,314676]]"
-- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-- '[[_Standards/WikiData/WD~disease,12136]]'
-symptoms_and_signs:
-- "[[_Standards/WikiData/WD~night_sweats,474718]]"
-- '[[_Standards/WikiData/WD~hemoptysis,647099]]'
-- "[[_Standards/WikiData/WD~chest_pain,693058]]"
-- "[[_Standards/WikiData/WD~weight_loss,718113]]"
-- '[[_Standards/WikiData/WD~chills,2260058]]'
-- '[[_Standards/WikiData/WD~fatigue,15729017]]'
-- '[[_Standards/WikiData/WD~cough,35805]]'
-- '[[_Standards/WikiData/WD~fever,38933]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~endemic_disease,506680]]"
-- "[[_Standards/WikiData/WD~emerging_communicable_disease,609748]]"
-- "[[_Standards/WikiData/WD~mycobacterium_infectious_disease,4293079]]"
-- "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-- "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-- '[[_Standards/WikiData/WD~disease,12136]]'
-published_in: "[[_Standards/WikiData/WD~Annals_of_Internal_Medicine,564416]]"
-possible_treatment: "[[_Standards/WikiData/WD~antituberculous_drug,584144]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~consumption,784299]]'
-has_effect:
-- "[[_Standards/WikiData/WD~pulmonary_toxicity,2100012]]"
-- "[[_Standards/WikiData/WD~Pott_disease,2723627]]"
-studied_in: '[[_Standards/WikiData/WD~phthisiology,2624918]]'
+exact_match:
+- "http://identifiers.org/doid/DOID:399"
+- "http://purl.obolibrary.org/obo/DOID_399"
 genetic_association:
 - '[[_Standards/WikiData/WD~DSCAM,3826158]]'
 - '[[_Standards/WikiData/WD~IL2RB,18027822]]'
@@ -70,24 +39,45 @@ genetic_association:
 - '[[_Standards/WikiData/WD~DYNC2H1,18046243]]'
 - '[[_Standards/WikiData/WD~NAA60,18046457]]'
 - '[[_Standards/WikiData/WD~DCUN1D5,18047505]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-different_from: "[[_Standards/WikiData/WD~mycobacterium_infectious_disease,4293079]]"
-disease_transmission_process: "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Tuberculosis,20345953]]'
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_3.3_of_the_Sustainable_Development_Goals,57590755]]"
-exact_match:
-- "http://identifiers.org/doid/DOID:399"
-- "http://purl.obolibrary.org/obo/DOID_399"
-UMLS_CUI: C0041296
-MeSH_tree_code: C01.150.252.410.040.552.846
-Krugosvet_article: medicina/TUBERKULEZ.html
+GitHub_topic: tuberculosis
 Gujarati_Vishwakosh_entry: ક્ષય
-Dewey_Decimal_Classification:
-- 362.196995
-- 616.995
-- 618.92995
-- 636.0896995
-- 614.542
+hashtag: Tuberculosis
+has_cause: '[[_Standards/WikiData/WD~Mycobacterium_tuberculosis,130971]]'
+has_effect:
+- '[[_Standards/WikiData/WD~pulmonary_toxicity,2100012]]'
+- '[[_Standards/WikiData/WD~Pott_disease,2723627]]'
+has_id_wikidata: Q12204
+health_specialty:
+- '[[_Standards/WikiData/WD~pulmonology,203337]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~phthisiology,2624918]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tuberculosis-x-ray-1.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
+Krugosvet_article: medicina/TUBERKULEZ.html
+maximal_incubation_period_in_humans: 8
+medical_examination:
+- '[[_Standards/WikiData/WD~Ziehl-Neelsen_stain,198921]]'
+- '[[_Standards/WikiData/WD~Mantoux_test,908699]]'
+- '[[_Standards/WikiData/WD~chest_radiograph,1283318]]'
+- '[[_Standards/WikiData/WD~chest_photofluorography,1964089]]'
+- '[[_Standards/WikiData/WD~QuantiFERON,2893466]]'
+- '[[_Standards/WikiData/WD~GeneXpert_MTB_RIF,5531060]]'
+- '[[_Standards/WikiData/WD~lung_biopsy,6040221]]'
+- '[[_Standards/WikiData/WD~sputum_culture,7581635]]'
+- '[[_Standards/WikiData/WD~T-SPOT.TB,7667857]]'
+- '[[_Standards/WikiData/WD~Tuberculosis_radiology,7850849]]'
+- '[[_Standards/WikiData/WD~chest_CT,106108503]]'
+MeSH_tree_code: C01.150.252.410.040.552.846
+minimal_incubation_period_in_humans: 3
+number_of_cases: 10400000
+number_of_deaths: 1700000
+OmegaWiki_Defined_Meaning: 638034
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg"
+possible_treatment: '[[_Standards/WikiData/WD~antituberculous_drug,584144]]'
 prevalence:
 - 0.0001
 - 0.0000012
@@ -96,20 +86,30 @@ prevalence:
 - 0.0000043
 - 0.00044
 - 0.00078
-minimal_incubation_period_in_humans: 3
-maximal_incubation_period_in_humans: 8
-number_of_deaths: 1700000
-number_of_cases: 10400000
-DiseasesDB: 8515
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg"
-hashtag: Tuberculosis
-Commons_category: Tuberculosis
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tuberculosis-x-ray-1.jpg"
+published_in: '[[_Standards/WikiData/WD~Annals_of_Internal_Medicine,564416]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_3.3_of_the_Sustainable_Development_Goals,57590755]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~consumption,784299]]'
+studied_in: '[[_Standards/WikiData/WD~phthisiology,2624918]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~endemic_disease,506680]]'
+- '[[_Standards/WikiData/WD~emerging_communicable_disease,609748]]'
+- '[[_Standards/WikiData/WD~mycobacterium_infectious_disease,4293079]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~night_sweats,474718]]'
+- '[[_Standards/WikiData/WD~hemoptysis,647099]]'
+- '[[_Standards/WikiData/WD~chest_pain,693058]]'
+- '[[_Standards/WikiData/WD~weight_loss,718113]]'
+- '[[_Standards/WikiData/WD~chills,2260058]]'
+- '[[_Standards/WikiData/WD~fatigue,15729017]]'
+- '[[_Standards/WikiData/WD~cough,35805]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
 title: Tuberculosis
-OmegaWiki_Defined_Meaning: 638034
-GitHub_topic: tuberculosis
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Tuberculosis,20345953]]'
+UMLS_CUI: C0041296
 U_S_National_Archives_Identifier: 10646685
-disease_burden: 43650273
 ---
 
 ## #has_/text_of_/abstract 

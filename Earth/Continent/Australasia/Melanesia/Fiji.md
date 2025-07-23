@@ -82,37 +82,37 @@ head_of_state: "[[_Standards/WikiData/WD~Wiliame_Katonivere,109012733]]"
 coordinates_of_northernmost_point: "Point(176.98 -12.47)"
 UMLS_CUI: C0016080
 demonym:
-  - فيدجية
-  - فيدجيين
-  - فيدجيات
-  - Fidsíoch
-  - فيجية
-  - fijià
-  - Fijian
-  - Fidjien
-  - figiano
-  - fijian
-  - viti
-  - فيجيون
-  - فيجي
-  - فيدجي
-  - fixana
-  - fixanu
-  - ফিজিয়ান
-  - fijiana
-  - fijianer
-  - Fidjienne
+- فيدجية
+- فيدجيين
+- فيدجيات
+- Fidsíoch
+- فيجية
+- fijià
+- Fijian
+- Fidjien
+- figiano
+- fijian
+- viti
+- فيجيون
+- فيجي
+- فيدجي
+- fixana
+- fixanu
+- ফিজিয়ান
+- fijiana
+- fijianer
+- Fidjienne
 - "פיג'יאני"
 - "פיג'יאנית"
-  - Fidzsi-szigeteki
-  - figiana
-  - figiane
-  - figiani
-  - фиджийцы
-  - fizan
-  - fizana
-  - fizane
-  - fizani
+- Fidzsi-szigeteki
+- figiana
+- figiane
+- figiani
+- фиджийцы
+- fizan
+- fizana
+- fizane
+- fizani
 ISNI: 0000000405566054
 motto_text:
 - "Ble mae Hapusrwydd yn eich Canfod"
@@ -204,18 +204,18 @@ MeSH_tree_code: Z01.639.760.590.373
 native_label:
 - "Republic of Fiji"
 - "Matanitu Tugalala o Viti"
-  - Viti
+- Viti
 - "Fidźi Ganaradźja"
 official_name:
 - "Republic of Fiji"
 - "Matanitu ko Viti"
-  - Viti
+- Viti
 - "République des Fidji"
-  - Fiji
+- Fiji
 short_name:
-  - Viti
+- Viti
 - "\U0001F1EB\U0001F1EF"
-  - Fiji
+- Fiji
 coordinates_of_southernmost_point: "Point(174.64 -21.73833)"
 nominal_GDP:
   - 4943248200
@@ -275,11 +275,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Fiji
-    - Fidji
-    - فيجي
-    - 斐济
-    - Фиджи
+- Fiji
+- Fidji
+- فيجي
+- 斐济
+- Фиджи
 - "the Republic of Fiji"
 - "la República de Fiji"
 Languages:

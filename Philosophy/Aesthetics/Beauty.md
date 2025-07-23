@@ -1,34 +1,34 @@
----
+﻿---
+Commons_category: Beauty
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Why_Beauty_Matters,23755376]]'
+hashtag: beauty
 has_id_wikidata: Q7242
+IAB_code: 553
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Japanese%20Beauty%20%28OAW%29.png"
+instance_of:
+- '[[_Standards/WikiData/WD~personality_trait,2393196]]'
+- '[[_Standards/WikiData/WD~aesthetic_concept,55387456]]'
+- '[[_Standards/WikiData/WD~type_of_value,129510955]]'
+Krugosvet_article: filosofiya/krasota
+MeSH_tree_code:
+- F02.463.785.477.304
+- K01.752.210.304
+OmegaWiki_Defined_Meaning: 156089
+opposite_of: '[[_Standards/WikiData/WD~ugliness,1415055]]'
 partially_coincident_with:
 - '[[_Standards/WikiData/WD~cosmetics,131207]]'
 - '[[_Standards/WikiData/WD~elegance,1207152]]'
 - '[[_Standards/WikiData/WD~gracefulness,17148382]]'
+PhilPapers_topic: beauty
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Kagandahan.wav"
 subclass_of:
 - '[[_Standards/WikiData/WD~value,194112]]'
 - '[[_Standards/WikiData/WD~convention,367293]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Why_Beauty_Matters,23755376]]"
-opposite_of: '[[_Standards/WikiData/WD~ugliness,1415055]]'
-instance_of:
-- "[[_Standards/WikiData/WD~personality_trait,2393196]]"
-- "[[_Standards/WikiData/WD~aesthetic_concept,55387456]]"
-- "[[_Standards/WikiData/WD~type_of_value,129510955]]"
-UMLS_CUI: C0004898
-IAB_code: 553
-OmegaWiki_Defined_Meaning: 156089
 subreddit: beauty
-PhilPapers_topic: beauty
-hashtag: beauty
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Japanese%20Beauty%20%28OAW%29.png"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Kagandahan.wav"
-Commons_category: Beauty
-MeSH_tree_code:
-- F02.463.785.477.304
-- K01.752.210.304
-Krugosvet_article: filosofiya/krasota
+UMLS_CUI: C0004898
 ---
 
 ## #has_/text_of_/abstract 

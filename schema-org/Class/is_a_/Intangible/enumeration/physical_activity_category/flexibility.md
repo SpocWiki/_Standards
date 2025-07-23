@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_flexibility Class
-linkTitle: is_a_flexibility Class
-
-keywords: [flexibility]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PhysicalActivityCategory
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - flexibility
 - flexibility
 - Flexibility
 - is_a_flexibility
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PhysicalActivityCategory
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- flexibility
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_flexibility Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_flexibility Class"
+type: Type
 ---
 
 Class of all flexibilitys.

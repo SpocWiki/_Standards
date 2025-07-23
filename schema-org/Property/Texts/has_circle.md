@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_circle
-linkTitle: has_text_of_circle
-
-keywords: [circle]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - circle
 - circle
 - circle
 - has_text_of_circle
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- circle
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_circle
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_circle
+type: Pred_Text
 ---
 
 Predicate to describe the Text of GeoShape.

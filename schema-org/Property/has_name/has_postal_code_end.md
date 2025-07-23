@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_postal_code_end
-linkTitle: has_text_of_postal_code_end
-
-keywords: [postal, code, end]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - postal-code-end
 - postal_code_end
 - postalCodeEnd
 - has_text_of_postal_code_end
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- postal
+- code
+- end
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_postal_code_end
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_postal_code_end
+type: Pred_Text
 ---
 
 Predicate to describe the Text of PostalCodeRangeSpecification.

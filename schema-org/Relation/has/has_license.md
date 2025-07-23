@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- license
+- has_license
+- "schema:license"
+- "dbo:license"
+- "wdt:P275"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_license
-linkTitle: has_license
 keywords:
-  - license
+- license
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_license
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - license
-  - has_license
-  - schema:license
-  - dbo:license
-  - wdt:P275
+- class/Relation
+- schema-org/Relation
+title: has_license
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_speech_pathology Class
-linkTitle: is_a_speech_pathology Class
-
-keywords: [speech_pathology]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - speech-pathology
 - speech_pathology
 - SpeechPathology
 - is_a_speech_pathology
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- speech_pathology
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_speech_pathology Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_speech_pathology Class"
+type: Type
 ---
 
 Class of all speech_pathologys.

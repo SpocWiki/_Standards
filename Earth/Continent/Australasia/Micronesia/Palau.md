@@ -97,17 +97,17 @@ demonym:
   - بالاوي
   - بالاوية
   - بالاويون
-- "de Paláu"
+  - "de Paláu"
   - পালাউয়ীয়
   - Palauan
   - Palaŭano
 official_name:
 - "Beluu er a Belau"
-  - 帛琉共和國
-  - Palau
+- 帛琉共和國
+- Palau
 - "la République des Palaos"
 native_label:
-  - Belau
+- Belau
 - "Republic of Palau"
 coordinates_of_westernmost_point: "Point(131.12388889 3.00583333)"
 Wolfram_Language_entity_code:
@@ -204,7 +204,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pala
 IOC_country_code: PLW
 short_name:
 - "\U0001F1F5\U0001F1FC"
-  - PW
+- PW
 coordinates_of_northernmost_point: "Point(134.63 8.17)"
 inception: "1994-10-01"
 has_time_started: "1994-10-01"
@@ -256,11 +256,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Palau
-    - Palaos
-    - بالاو
-    - 帕劳
-    - Палау
+- Palau
+- Palaos
+- بالاو
+- 帕劳
+- Палау
 - "the Republic of Palau"
 - "la República de Palau"
 Languages:

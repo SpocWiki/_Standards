@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_evidence_level Class
-linkTitle: is_a_medical_evidence_level Class
-
-keywords: [medical_evidence_level]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-evidence-level
 - medical_evidence_level
 - MedicalEvidenceLevel
 - is_a_medical_evidence_level
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_evidence_level
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_evidence_level Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_evidence_level Class"
+type: Type
 ---
 
 Class of all medical_evidence_levels.

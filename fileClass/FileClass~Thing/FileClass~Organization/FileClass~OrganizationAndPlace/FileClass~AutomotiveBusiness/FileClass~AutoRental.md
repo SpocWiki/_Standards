@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AutoRental
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRental
-  - is_an_/AutoRental
-  - schema-org/AutoRental
-tags:
-  - class/FileClass
-  - class/AutoRental
-  - "#is_an_/AutoRental"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRental
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AutoRental
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRental
+- is_an_/AutoRental
+- schema-org/AutoRental
+tags:
+- class/FileClass
+- class/AutoRental
+- '#is_an_/AutoRental'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRental
+version: 2.0
 ---
 
 # AutoRental

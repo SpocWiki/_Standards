@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Frank Miller
+- "Frank Miller"
 ---
 
 #has_/time_/started :: 1957-01-27

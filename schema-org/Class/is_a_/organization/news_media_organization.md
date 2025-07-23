@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_news_media_organization Class
-linkTitle: is_a_news_media_organization Class
-
-keywords: [news_media_organization]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - news-media-organization
 - news_media_organization
 - NewsMediaOrganization
 - is_a_news_media_organization
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- news_media_organization
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_news_media_organization Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_news_media_organization Class"
+type: Type
 ---
 
 Class of all news_media_organizations.

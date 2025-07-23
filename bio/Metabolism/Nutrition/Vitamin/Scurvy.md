@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Skorbut
+- Skorbut
 ---
 
 #is_/similar_to :: [[Vitamin/Beri_Beri]] 

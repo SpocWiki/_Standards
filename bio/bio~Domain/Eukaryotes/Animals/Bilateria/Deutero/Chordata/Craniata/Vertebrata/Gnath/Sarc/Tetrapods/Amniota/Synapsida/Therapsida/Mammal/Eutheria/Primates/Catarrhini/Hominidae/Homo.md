@@ -1,6 +1,7 @@
----
+﻿---
 title: Homo
 ---
+
 # [[Homo]] 
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus|bio~Genus]] 

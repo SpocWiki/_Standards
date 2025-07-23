@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Rhinocerotidae
-  - Rhinoceros
+- Rhinocerotidae
+- Rhinoceros
 has_id_wikidata: Q34718
 ---
 

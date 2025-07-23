@@ -1,147 +1,147 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Drug
-  - class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug
-  - is_a_/Drug
-  - schema-org/Drug
-tags:
-  - class/FileClass
-  - class/Drug
-  - is_a_/Drug
-  - class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
 fields:
-  - id: Lvps9Z
-    name: AdministrationRoute
-    options: {}
-    type: Input
-    path: ""
-  - id: MoywpH
-    name: AlcoholWarning
-    options: {}
-    type: Input
-    path: ""
-  - id: Nz71i8
-    name: AvailableStrength
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DrugStrength')
-    type: MultiFile
-    path: ""
-  - id: L0tyyc
-    name: BreastfeedingWarning
-    options: {}
-    type: Input
-    path: ""
-  - id: zB53cd
-    name: ClinicalPharmacology
-    options: {}
-    type: Input
-    path: ""
-  - id: oKGg2o
-    name: DosageForm
-    options: {}
-    type: Input
-    path: ""
-  - id: CDmUjH
-    name: DoseSchedule
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule')
-    type: MultiFile
-    path: ""
-  - id: C3J1O2
-    name: DrugClass
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/DrugClass')
-    type: MultiFile
-    path: ""
-  - id: PVNtTn
-    name: DrugUnit
-    options: {}
-    type: Input
-    path: ""
-  - id: 8Yt4NU
-    name: FoodWarning
-    options: {}
-    type: Input
-    path: ""
-  - id: AmSK54
-    name: IncludedInHealthInsurancePlan
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/HealthInsurancePlan')
-    type: MultiFile
-    path: ""
-  - id: A7Yfg6
-    name: InteractingDrug
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
-    type: MultiFile
-    path: ""
-  - id: xtxOTP
-    name: IsAvailableGenerically
-    options: {}
-    type: Boolean
-    path: ""
-  - id: WJjs9S
-    name: IsProprietary
-    options: {}
-    type: Boolean
-    path: ""
-  - id: HwoBrW
-    name: LabelDetails
-    options: {}
-    type: Input
-    path: ""
-  - id: 52HtC9
-    name: MechanismOfAction
-    options: {}
-    type: Input
-    path: ""
-  - id: IhKAPb
-    name: NonProprietaryName
-    options: {}
-    type: Input
-    path: ""
-  - id: 7tY9rp
-    name: Overdosage
-    options: {}
-    type: Input
-    path: ""
-  - id: bPtwmH
-    name: PregnancyWarning
-    options: {}
-    type: Input
-    path: ""
-  - id: 8w5Vwe
-    name: PrescribingInfo
-    options: {}
-    type: Input
-    path: ""
-  - id: nvInkJ
-    name: ProprietaryName
-    options: {}
-    type: Input
-    path: ""
-  - id: adpK2t
-    name: RelatedDrug
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
-    type: MultiFile
-    path: ""
-  - id: QTct35
-    name: Rxcui
-    options: {}
-    type: Input
-    path: ""
-  - id: 4puGsk
-    name: Warning
-    options: {}
-    type: Input
-    path: ""
+- id: Lvps9Z
+  name: AdministrationRoute
+  options: {}
+  type: Input
+  path: ''
+- id: MoywpH
+  name: AlcoholWarning
+  options: {}
+  type: Input
+  path: ''
+- id: Nz71i8
+  name: AvailableStrength
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DrugStrength')"
+  type: MultiFile
+  path: ''
+- id: L0tyyc
+  name: BreastfeedingWarning
+  options: {}
+  type: Input
+  path: ''
+- id: zB53cd
+  name: ClinicalPharmacology
+  options: {}
+  type: Input
+  path: ''
+- id: oKGg2o
+  name: DosageForm
+  options: {}
+  type: Input
+  path: ''
+- id: CDmUjH
+  name: DoseSchedule
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule')"
+  type: MultiFile
+  path: ''
+- id: C3J1O2
+  name: DrugClass
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/DrugClass')"
+  type: MultiFile
+  path: ''
+- id: PVNtTn
+  name: DrugUnit
+  options: {}
+  type: Input
+  path: ''
+- id: 8Yt4NU
+  name: FoodWarning
+  options: {}
+  type: Input
+  path: ''
+- id: AmSK54
+  name: IncludedInHealthInsurancePlan
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/HealthInsurancePlan')"
+  type: MultiFile
+  path: ''
+- id: A7Yfg6
+  name: InteractingDrug
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
+  type: MultiFile
+  path: ''
+- id: xtxOTP
+  name: IsAvailableGenerically
+  options: {}
+  type: Boolean
+  path: ''
+- id: WJjs9S
+  name: IsProprietary
+  options: {}
+  type: Boolean
+  path: ''
+- id: HwoBrW
+  name: LabelDetails
+  options: {}
+  type: Input
+  path: ''
+- id: 52HtC9
+  name: MechanismOfAction
+  options: {}
+  type: Input
+  path: ''
+- id: IhKAPb
+  name: NonProprietaryName
+  options: {}
+  type: Input
+  path: ''
+- id: 7tY9rp
+  name: Overdosage
+  options: {}
+  type: Input
+  path: ''
+- id: bPtwmH
+  name: PregnancyWarning
+  options: {}
+  type: Input
+  path: ''
+- id: 8w5Vwe
+  name: PrescribingInfo
+  options: {}
+  type: Input
+  path: ''
+- id: nvInkJ
+  name: ProprietaryName
+  options: {}
+  type: Input
+  path: ''
+- id: adpK2t
+  name: RelatedDrug
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
+  type: MultiFile
+  path: ''
+- id: QTct35
+  name: Rxcui
+  options: {}
+  type: Input
+  path: ''
+- id: 4puGsk
+  name: Warning
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Drug
+- class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug
+- is_a_/Drug
+- schema-org/Drug
+tags:
+- class/FileClass
+- class/Drug
+- is_a_/Drug
+- class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug
+version: 2.0
 ---
 
 # Drug

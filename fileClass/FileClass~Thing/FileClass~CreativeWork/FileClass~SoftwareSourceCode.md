@@ -1,48 +1,48 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SoftwareSourceCode
-  - class/Thing/CreativeWork/SoftwareSourceCode
-  - is_a_/SoftwareSourceCode
-  - schema-org/SoftwareSourceCode
-tags:
-  - class/FileClass
-  - class/SoftwareSourceCode
-  - is_a_/SoftwareSourceCode
-  - class/Thing/CreativeWork/SoftwareSourceCode
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: MFGWPr
-    name: CodeRepository
-    options: {}
-    type: Input
-    path: ""
-  - id: o8G7fN
-    name: CodeSampleType
-    options: {}
-    type: Input
-    path: ""
-  - id: frpIlh
-    name: ProgrammingLanguage
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ComputerLanguage')
-    type: MultiFile
-    path: ""
-  - id: 3opMEZ
-    name: RuntimePlatform
-    options: {}
-    type: Input
-    path: ""
-  - id: Pd6w45
-    name: TargetProduct
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
-    type: MultiFile
-    path: ""
+- id: MFGWPr
+  name: CodeRepository
+  options: {}
+  type: Input
+  path: ''
+- id: o8G7fN
+  name: CodeSampleType
+  options: {}
+  type: Input
+  path: ''
+- id: frpIlh
+  name: ProgrammingLanguage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/ComputerLanguage')"
+  type: MultiFile
+  path: ''
+- id: 3opMEZ
+  name: RuntimePlatform
+  options: {}
+  type: Input
+  path: ''
+- id: Pd6w45
+  name: TargetProduct
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/SoftwareApplication')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SoftwareSourceCode
+- class/Thing/CreativeWork/SoftwareSourceCode
+- is_a_/SoftwareSourceCode
+- schema-org/SoftwareSourceCode
+tags:
+- class/FileClass
+- class/SoftwareSourceCode
+- is_a_/SoftwareSourceCode
+- class/Thing/CreativeWork/SoftwareSourceCode
+version: 2.0
 ---
 
 # SoftwareSourceCode

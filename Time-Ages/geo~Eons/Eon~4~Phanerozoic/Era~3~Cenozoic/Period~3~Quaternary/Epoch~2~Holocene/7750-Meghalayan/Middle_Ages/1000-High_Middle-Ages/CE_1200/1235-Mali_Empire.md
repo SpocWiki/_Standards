@@ -1,50 +1,49 @@
----
-has_id_wikidata: Q184536
+﻿---
 aliases:
-  - "Mali Empire"
+- "Mali Empire"
 basic_form_of_government: '[[_Standards/WikiData/WD~empire,48349]]'
 capital: '[[_Standards/WikiData/WD~Kangaba,1031919]]'
 Commons_category: "Mali Empire"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 currency: '[[_Standards/WikiData/WD~gold,897]]'
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mali%20Empire.jpg"
-dissolved_abolished_or_demolished_date: "1670"
-has_time_started: 1235-06 
-has_time_stopped: 1670-06 
+dissolved_abolished_or_demolished_date: 1670
+has_id_wikidata: Q184536
+has_time_started: 1235-06
+has_time_stopped: 1670-06
 head_of_state: '[[_Standards/WikiData/WD~Mansa,1886285]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Catalan%20Atlas%20BNF%20Sheet%206%20Western%20Sahara.jpg"
-inception: "1235"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+inception: 1235
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 language_used: '[[_Standards/WikiData/WD~Senegambian,1708753]]'
 legislative_body: '[[_Standards/WikiData/WD~Gbara,3299285]]'
 located_in_the_present_day_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Ghana,117]]'
-  - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-  - '[[_Standards/WikiData/WD~Guinea,1006]]'
-  - '[[_Standards/WikiData/WD~Mali,912]]'
-  - '[[_Standards/WikiData/WD~Mauritania,1025]]'
-  - '[[_Standards/WikiData/WD~Niger,1032]]'
-  - '[[_Standards/WikiData/WD~Senegal,1041]]'
-  - "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
-  - "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
-  - "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+- '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
+- '[[_Standards/WikiData/WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Senegal,1041]]'
+- '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
+- '[[_Standards/WikiData/WD~The_Gambia,1005]]'
 locator_map_image:
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1%20%CE%9C%CE%AC%CE%BB%CE%B9%20%CF%87%CE%AC%CF%81%CF%84%CE%B7%CF%82.png"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map-ar.png"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map.PNG"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20empire%20map%20-%201350%20AD%20-%20el.svg"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20reich%20Karte.PNG"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Maliko%20inperioa.svg"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Maliriket.png"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali-pt.svg"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali.svg"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Zh%20MALI%20empire%20map.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1%20%CE%9C%CE%AC%CE%BB%CE%B9%20%CF%87%CE%AC%CF%81%CF%84%CE%B7%CF%82.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map-ar.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20empire%20map.PNG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20empire%20map%20-%201350%20AD%20-%20el.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/MALI%20reich%20Karte.PNG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Maliko%20inperioa.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Maliriket.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali-pt.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20mali.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Zh%20MALI%20empire%20map.png"
 official_language: '[[_Standards/WikiData/WD~Mande,33681]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~traditional_African_religion,386498]]"
-replaces: "[[_Standards/WikiData/WD~Baté_Empire,507346]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~traditional_African_religion,386498]]'
+replaces: '[[_Standards/WikiData/WD~Baté_Empire,507346]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%AC%D5%AB%D5%AB%20%D5%AF%D5%A1%D5%B5%D5%BD%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Mali%20Empire%29.ogg"
 ---
-
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 

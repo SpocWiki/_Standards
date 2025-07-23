@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_typical_credits_per_term
-linkTitle: has_number_of_typical_credits_per_term
-
-keywords: [typical_credits_per_term]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - typical-credits-per-term
 - typical_credits_per_term
 - typicalCreditsPerTerm
 - has_number_of_credits_per_term_typical
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- typical_credits_per_term
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_typical_credits_per_term
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_typical_credits_per_term
+type: Predi_Count
 ---
 
 Predicate to describe the Number of EducationalOccupationalProgram.

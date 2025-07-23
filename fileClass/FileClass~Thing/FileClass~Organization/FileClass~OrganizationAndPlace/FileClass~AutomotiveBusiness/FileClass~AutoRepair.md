@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AutoRepair
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair
-  - is_an_/AutoRepair
-  - schema-org/AutoRepair
-tags:
-  - class/FileClass
-  - class/AutoRepair
-  - "#is_an_/AutoRepair"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AutoRepair
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair
+- is_an_/AutoRepair
+- schema-org/AutoRepair
+tags:
+- class/FileClass
+- class/AutoRepair
+- '#is_an_/AutoRepair'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair
+version: 2.0
 ---
 
 # AutoRepair

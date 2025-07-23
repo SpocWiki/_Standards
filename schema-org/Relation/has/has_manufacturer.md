@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- manufacturer
+- has_manufacturer
+- "schema:manufacturer"
+- "dbo:manufacturer"
+- "wdt:P176"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_manufacturer
-linkTitle: has_manufacturer
 keywords:
-  - manufacturer
+- manufacturer
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_manufacturer
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - manufacturer
-  - has_manufacturer
-  - schema:manufacturer
-  - dbo:manufacturer
-  - wdt:P176
+- class/Relation
+- schema-org/Relation
+title: has_manufacturer
+type: Predi_Relation
 ---
 
 Use it like this: 

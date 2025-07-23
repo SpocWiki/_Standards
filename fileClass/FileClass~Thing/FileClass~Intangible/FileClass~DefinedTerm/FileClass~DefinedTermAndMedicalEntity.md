@@ -1,56 +1,56 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DefinedTermAndMedicalEntity
-  - class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity
-  - is_a_/DefinedTermAndMedicalEntity
-  - schema-org/DefinedTermAndMedicalEntity
-tags:
-  - class/FileClass
-  - class/DefinedTermAndMedicalEntity
-  - is_a_/DefinedTermAndMedicalEntity
-  - class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 fields:
-  - id: YIMqb9
-    name: Code
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')
-    type: MultiFile
-    path: ""
-  - id: lFEJBQ
-    name: Funding
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
-    type: MultiFile
-    path: ""
-  - id: Q6lMXu
-    name: Guideline
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')
-    type: MultiFile
-    path: ""
-  - id: 1C471c
-    name: LegalStatus
-    options: {}
-    type: Input
-    path: ""
-  - id: hGnjfm
-    name: RecognizingAuthority
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: o1z52R
-    name: Study
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')
-    type: MultiFile
-    path: ""
+- id: YIMqb9
+  name: Code
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')"
+  type: MultiFile
+  path: ''
+- id: lFEJBQ
+  name: Funding
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Grant')"
+  type: MultiFile
+  path: ''
+- id: Q6lMXu
+  name: Guideline
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')"
+  type: MultiFile
+  path: ''
+- id: 1C471c
+  name: LegalStatus
+  options: {}
+  type: Input
+  path: ''
+- id: hGnjfm
+  name: RecognizingAuthority
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: o1z52R
+  name: Study
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DefinedTermAndMedicalEntity
+- class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity
+- is_a_/DefinedTermAndMedicalEntity
+- schema-org/DefinedTermAndMedicalEntity
+tags:
+- class/FileClass
+- class/DefinedTermAndMedicalEntity
+- is_a_/DefinedTermAndMedicalEntity
+- class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity
+version: 2.0
 ---
 
 # DefinedTermAndMedicalEntity

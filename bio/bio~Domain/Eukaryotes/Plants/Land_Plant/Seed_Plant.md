@@ -1,11 +1,11 @@
----
-title: Spermatopsida
+﻿---
 aliases:
-  - Spermatopsida
-  - Seed Plant
-  - spermatophyte
-  - phanerogam
-  - phaenogam
+- Spermatopsida
+- "Seed Plant"
+- spermatophyte
+- phanerogam
+- phaenogam
+title: Spermatopsida
 ---
 
 # [[Seed_Plant]]

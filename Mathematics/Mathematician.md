@@ -1,5 +1,7 @@
----
-has_id_wikidata: Q170790
+﻿---
+Commons_category: Mathematicians
+Dewey_Decimal_Classification: 510.92
+Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 020.067-014
 female_form_of_label:
 - matematikistino
 - matemática
@@ -27,6 +29,21 @@ female_form_of_label:
 - matematiciană
 - matemática
 - математичка
+field_of_this_occupation: '[[_Standards/WikiData/WD~mathematics,395]]'
+has_id_wikidata: Q170790
+has_list: '[[_Standards/WikiData/WD~lists_of_mathematicians,66777993]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/CMAP%20-%20Centre%20de%20Math%C3%A9matiques%20Appliqu%C3%A9es%20de%20l%27Ecole%20polytechnique%20%2825911635211%29.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO-08,108300140]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
+ISCO_08_occupation_class:
+- 212
+- 2120
+ISCO_88_occupation_class:
+- 212
+- 2121
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 male_form_of_label:
 - matematikistulo
 - математичар
@@ -42,38 +59,21 @@ male_form_of_label:
 - matematikas
 - matemático
 - математик
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO-08,108300140]]"
-- '[[_Standards/WikiData/WD~profession,28640]]'
-has_list: "[[_Standards/WikiData/WD~lists_of_mathematicians,66777993]]"
-uses: "[[_Standards/WikiData/WD~mathematical_terminology,66785817]]"
+OmegaWiki_Defined_Meaning: 376949
 Portuguese_Job_Code_CPP_2010: 2120.1
-Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/mathematicians"
-UMLS_CUI: C0402139
-Provenio_UUID: 4a565061-b09f-47d5-8e75-9f87f6f8fe6e
-Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 020.067-014
-field_of_this_occupation: '[[_Standards/WikiData/WD~mathematics,395]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E.wav"
 properties_for_this_type:
 - "notable work"
 - "list of works"
 - "educated at"
-subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
-Wikidata_property: "zbMATH author ID"
+Provenio_UUID: 4a565061-b09f-47d5-8e75-9f87f6f8fe6e
 quantity: 80000
-ISCO_08_occupation_class:
-- 212
-- 2120
-ISCO_88_occupation_class:
-- 212
-- 2121
-OmegaWiki_Defined_Meaning: 376949
-Commons_category: Mathematicians
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/CMAP%20-%20Centre%20de%20Math%C3%A9matiques%20Appliqu%C3%A9es%20de%20l%27Ecole%20polytechnique%20%2825911635211%29.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4%E0%A4%9C%E0%A5%8D%E0%A4%9E.wav"
 SOC_Code_2010_: 15-2021
-Dewey_Decimal_Classification: 510.92
+Stack_Exchange_tag: "https://hsm.stackexchange.com/tags/mathematicians"
+subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
+UMLS_CUI: C0402139
+uses: '[[_Standards/WikiData/WD~mathematical_terminology,66785817]]'
+Wikidata_property: "zbMATH author ID"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Mathematician::42t84\"]"
 ---
 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_rsvp_response_no Class
-linkTitle: is_a_rsvp_response_no Class
-
-keywords: [rsvp_response_no]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: RsvpResponseType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - rsvp-response-no
 - rsvp_response_no
 - RsvpResponseNo
 - is_a_rsvp_response_no
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: RsvpResponseType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rsvp_response_no
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_rsvp_response_no Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_rsvp_response_no Class"
+type: Type
 ---
 
 Class of all rsvp_response_nos.

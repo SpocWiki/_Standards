@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- "schema:latitude"
+- latitude
+- has_geo_latitude
+- has_place_latitude
+- has_value_for_place_latitude
+- has_value_for_geo_latitude
+- "geo:lat"
 confidential: public
+cssclasses:
+- Predicate
+- Quantity
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Quantity
-publish: true
-type: Predi_Quantity
-title: has_latitude
-linkTitle: has_latitude
 keywords:
-  - latitude
+- latitude
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_latitude
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Quantity
-aliases:
-  - schema:latitude
-  - latitude
-  - has_geo_latitude
-  - has_place_latitude
-  - has_value_for_place_latitude
-  - has_value_for_geo_latitude
-  - geo:lat
+- class/Property
+- schema-org/Property/Quantity
+title: has_latitude
+type: Predi_Quantity
 ---
 
 The latitude of a location on the WGS84 Geoid in Degrees with decimal Fractions. 

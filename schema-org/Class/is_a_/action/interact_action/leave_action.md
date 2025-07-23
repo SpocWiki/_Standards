@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_leave_action Class
-linkTitle: is_a_leave_action Class
-
-keywords: [leave_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - leave-action
 - leave_action
 - LeaveAction
 - is_a_leave_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- leave_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_leave_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_leave_action Class"
+type: Type
 ---
 
 Class of all leave_actions.

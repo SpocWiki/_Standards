@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_number-of-employees
-linkTitle: has_number_of_number-of-employees
-
-keywords: [number-of-employees]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number_of_employees
 - number-of-employees
 - numberOfEmployees
 - has_number_of_employees
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number-of-employees
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_number-of-employees
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_number-of-employees
+type: Predi_Count
 ---
 
 Predicate to describe the Number of BusinessAudience, Organization.

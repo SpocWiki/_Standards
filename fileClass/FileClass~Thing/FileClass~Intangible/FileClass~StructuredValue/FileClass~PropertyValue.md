@@ -1,56 +1,56 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PropertyValue
-  - class/Thing/Intangible/StructuredValue/PropertyValue
-  - is_a_/PropertyValue
-  - schema-org/PropertyValue
-tags:
-  - class/FileClass
-  - class/PropertyValue
-  - is_a_/PropertyValue
-  - class/Thing/Intangible/StructuredValue/PropertyValue
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: vG28Mz
-    name: MaxValue
-    options: {}
-    type: Number
-    path: ""
-  - id: 729yop
-    name: MinValue
-    options: {}
-    type: Number
-    path: ""
-  - id: rl7f8K
-    name: PropertyID
-    options: {}
-    type: Input
-    path: ""
-  - id: m4pWWB
-    name: UnitCode
-    options: {}
-    type: Input
-    path: ""
-  - id: HzGfku
-    name: UnitText
-    options: {}
-    type: Input
-    path: ""
-  - id: U2KuOG
-    name: Value
-    options: {}
-    type: Boolean
-    path: ""
-  - id: pqZba5
-    name: ValueReference
-    options: {}
-    type: Input
-    path: ""
+- id: vG28Mz
+  name: MaxValue
+  options: {}
+  type: Number
+  path: ''
+- id: 729yop
+  name: MinValue
+  options: {}
+  type: Number
+  path: ''
+- id: rl7f8K
+  name: PropertyID
+  options: {}
+  type: Input
+  path: ''
+- id: m4pWWB
+  name: UnitCode
+  options: {}
+  type: Input
+  path: ''
+- id: HzGfku
+  name: UnitText
+  options: {}
+  type: Input
+  path: ''
+- id: U2KuOG
+  name: Value
+  options: {}
+  type: Boolean
+  path: ''
+- id: pqZba5
+  name: ValueReference
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PropertyValue
+- class/Thing/Intangible/StructuredValue/PropertyValue
+- is_a_/PropertyValue
+- schema-org/PropertyValue
+tags:
+- class/FileClass
+- class/PropertyValue
+- is_a_/PropertyValue
+- class/Thing/Intangible/StructuredValue/PropertyValue
+version: 2.0
 ---
 
 # PropertyValue

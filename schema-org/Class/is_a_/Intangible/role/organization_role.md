@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_organization_role Class
-linkTitle: is_an_organization_role Class
-
-keywords: [organization_role]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - organization-role
 - organization_role
 - OrganizationRole
 - is_an_organization_role
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- organization_role
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_organization_role Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_organization_role Class"
+type: Type
 ---
 
 Class of all organization_roles.

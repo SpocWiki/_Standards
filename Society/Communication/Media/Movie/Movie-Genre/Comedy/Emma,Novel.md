@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Emma(novel)
-  - Emma Woodhouse
+- Emma(novel)
+- "Emma Woodhouse"
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/GovernmentPermit
-  - class/Thing/Intangible/Permit/GovernmentPermit
-  - is_a_/GovernmentPermit
-  - schema-org/GovernmentPermit
-tags:
-  - class/FileClass
-  - class/GovernmentPermit
-  - is_a_/GovernmentPermit
-  - class/Thing/Intangible/Permit/GovernmentPermit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Permit
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/GovernmentPermit
+- class/Thing/Intangible/Permit/GovernmentPermit
+- is_a_/GovernmentPermit
+- schema-org/GovernmentPermit
+tags:
+- class/FileClass
+- class/GovernmentPermit
+- is_a_/GovernmentPermit
+- class/Thing/Intangible/Permit/GovernmentPermit
+version: 2.0
 ---
 
 # GovernmentPermit

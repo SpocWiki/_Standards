@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - USA Today
+- "USA Today"
 ---
-
 
 ## #has_/text_of_/abstract 
 

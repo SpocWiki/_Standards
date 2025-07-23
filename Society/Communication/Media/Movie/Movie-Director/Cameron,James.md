@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - James Cameron
-  - James Francis Cameron
-  - Cameron,James 
+- "James Cameron"
+- "James Francis Cameron"
+- Cameron,James
 ---
 
 # [[Cameron,James]] 

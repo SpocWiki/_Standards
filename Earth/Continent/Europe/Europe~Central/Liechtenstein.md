@@ -113,7 +113,7 @@ demonym:
   - ليختنشتايني
   - ليختنشتاينية
   - ليختنشتاينيون
-- "de Liechtenstein"
+  - "de Liechtenstein"
   - লিশটেনস্টাইনীয়
   - liechtensteinès
   - liechtensteinesa
@@ -236,12 +236,12 @@ GS1_country_code: 760-769
 PM20_geo_code: A39
 U_S_National_Archives_Identifier: 10044939
 official_name:
-  - Liechtenstein
+- Liechtenstein
 - "Fürstentum Liechtenstein"
 - "la Principauté du Liechtenstein"
 - "Furstendömet Liechtenstein"
 native_label:
-  - Liechtenstein
+- Liechtenstein
 - "Fürstentum Liechtenstein"
 coordinate_location: "Point(9.553889 47.145)"
 subreddit:

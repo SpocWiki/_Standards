@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Robin Wright
-  - Robin Gayle Wright
+- "Robin Wright"
+- "Robin Gayle Wright"
 ---
 
 #has_/time_/started :: 1966-04-08 

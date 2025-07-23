@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Putin
-  - Vladimir Putin
-  - Vladimir Vladimirovich Putin
+- Putin
+- "Vladimir Putin"
+- "Vladimir Vladimirovich Putin"
 ---
 
 ## #has_/text_of_/abstract 

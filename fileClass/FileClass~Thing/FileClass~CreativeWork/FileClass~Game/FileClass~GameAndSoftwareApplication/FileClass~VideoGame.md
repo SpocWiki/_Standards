@@ -1,74 +1,74 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: gamepad-2
-version: "2.0"
-tagNames:
-  - class/VideoGame
-  - class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
-  - is_a_/VideoGame
-  - schema-org/VideoGame
-tags:
-  - class/FileClass
-  - class/VideoGame
-  - is_a_/VideoGame
-  - class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication
 fields:
-  - id: xKScrk
-    name: Actor
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: sP8emP
-    name: CheatCode
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
-  - id: rL0G2B
-    name: Director
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: hVmcFM
-    name: GameEdition
-    options: {}
-    type: Input
-    path: ""
-  - id: FMSPMg
-    name: GamePlatform
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: x6VVbW
-    name: GameServer
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/GameServer')
-    type: MultiFile
-    path: ""
-  - id: cviOxF
-    name: GameTip
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
-  - id: lschoZ
-    name: MusicBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
-    type: MultiFile
-    path: ""
-  - id: GGtTyM
-    name: Trailer
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
-    type: MultiFile
-    path: ""
+- id: xKScrk
+  name: Actor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: sP8emP
+  name: CheatCode
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+- id: rL0G2B
+  name: Director
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: hVmcFM
+  name: GameEdition
+  options: {}
+  type: Input
+  path: ''
+- id: FMSPMg
+  name: GamePlatform
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: x6VVbW
+  name: GameServer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/GameServer')"
+  type: MultiFile
+  path: ''
+- id: cviOxF
+  name: GameTip
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+- id: lschoZ
+  name: MusicBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
+  type: MultiFile
+  path: ''
+- id: GGtTyM
+  name: Trailer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"
+  type: MultiFile
+  path: ''
+icon: gamepad-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/VideoGame
+- class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
+- is_a_/VideoGame
+- schema-org/VideoGame
+tags:
+- class/FileClass
+- class/VideoGame
+- is_a_/VideoGame
+- class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
+version: 2.0
 ---
 
 # VideoGame

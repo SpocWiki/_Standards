@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Bathtub curve
-  - Ausfallverteilung
+- "Bathtub curve"
+- Ausfallverteilung
 ---
 
 ## #has_/text_of_/abstract 

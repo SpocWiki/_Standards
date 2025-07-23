@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HousePainter
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter
-  - is_a_/HousePainter
-  - schema-org/HousePainter
-tags:
-  - class/FileClass
-  - class/HousePainter
-  - is_a_/HousePainter
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HousePainter
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter
+- is_a_/HousePainter
+- schema-org/HousePainter
+tags:
+- class/FileClass
+- class/HousePainter
+- is_a_/HousePainter
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter
+version: 2.0
 ---
 
 # HousePainter

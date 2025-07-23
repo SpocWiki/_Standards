@@ -1,15 +1,13 @@
----
-
-type: Country
+﻿---
+confidential: public
+has_id_wikidata: Q237
+isDeleted: false
+SpocWebEntityId: 27050
 tags:
 - geo/Country
-
-has_id_wikidata: Q237 
-SpocWebEntityId: 27050
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::VA]
 [ISO3::VAT]
 ```leaflet

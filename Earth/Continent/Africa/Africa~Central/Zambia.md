@@ -305,7 +305,7 @@ ITU_letter_code: ZMB
 native_label: "Republic of Zambia"
 official_name:
 - "République de Zambie"
-  - Zambia
+- Zambia
 short_name: "\U0001F1FF\U0001F1F2"
 subreddit: Zambia
 hashtag: Zambia

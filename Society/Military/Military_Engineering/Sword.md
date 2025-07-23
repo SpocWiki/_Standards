@@ -1,39 +1,39 @@
----
-has_id_wikidata: Q12791
-subreddit: SWORDS
-has_part_s_:
-- '[[_Standards/WikiData/WD~handle,200266]]'
-- '[[_Standards/WikiData/WD~blade,330946]]'
-- '[[_Standards/WikiData/WD~hilt,1593696]]'
-- '[[_Standards/WikiData/WD~crossguard,3355832]]'
+﻿---
+Commons_category: Swords
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~piercing-cutting_weapon,9180322]]"
-- "[[_Standards/WikiData/WD~edged_and_bladed_weapon,11897048]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Double-edged_sword,11396047]]"
-used_by: '[[_Standards/WikiData/WD~swordfighter,11397897]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
 - '[[_Standards/WikiData/WD~Swaardvenstraat,19559157]]'
 - '[[_Standards/WikiData/WD~KARD,27989963]]'
 - '[[_Standards/WikiData/WD~Swaard,107189961]]'
 - '[[_Standards/WikiData/WD~Dorado,8837]]'
-instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Schwert.ogg"
+EAGLE_id: decor/lod/147
+has_id_wikidata: Q12791
+has_part_s_:
+- '[[_Standards/WikiData/WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~blade,330946]]'
+- '[[_Standards/WikiData/WD~hilt,1593696]]'
+- '[[_Standards/WikiData/WD~crossguard,3355832]]'
+Iconclass_notation: 45C13(SWORD)
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Albion%20Hospitaller%20Medieval%20Sword%201%20%286092737619%29%20%28II%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
+MCN_code: 9307.00.00
 Nomenclature_for_Museum_Cataloging: 8217
 OmegaWiki_Defined_Meaning: 6350
-Iconclass_notation: 45C13(SWORD)
-Commons_category: Swords
-MCN_code: 9307.00.00
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Albion%20Hospitaller%20Medieval%20Sword%201%20%286092737619%29%20%28II%29.jpg"
-EAGLE_id: decor/lod/147
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Double-edged_sword,11396047]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Schwert.ogg"
+subclass_of:
+- '[[_Standards/WikiData/WD~piercing-cutting_weapon,9180322]]'
+- '[[_Standards/WikiData/WD~edged_and_bladed_weapon,11897048]]'
+subreddit: SWORDS
+used_by: '[[_Standards/WikiData/WD~swordfighter,11397897]]'
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,8 +1,8 @@
----
-has_id_wikidata: Q128001
+﻿---
 aliases:
-  - Tapiridae
-  - Tapir
+- Tapiridae
+- Tapir
+has_id_wikidata: Q128001
 ---
 
 # [[Tapir]] 

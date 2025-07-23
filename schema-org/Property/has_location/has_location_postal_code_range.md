@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_postal_code_range
-linkTitle: has_location_postal_code_range
-
-keywords: [postal_code_range]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - postal-code-range
 - postal_code_range
 - postalCodeRange
 - has_location_postal_code_range
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- postal_code_range
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_postal_code_range
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_postal_code_range
+type: Pred_geo
 ---
 
 Predicate to describe the geo of DefinedRegion.

@@ -276,13 +276,13 @@ Krugosvet_article: strany_mira/SOMALI.html
 native_label:
 - "جمهورية الصومال الفدرالية"
 - "Jamhuuriyadda Federaalka Soomaaliya"
-  - Soomaaliya
+- Soomaaliya
 - "\U00010488\U0001049D\U00010491\U0001049B\U00010490\U00010498\U00010495\U00010496"
 official_name:
 - "Federal Republic of Somalia"
 - "République fédérale de Somalie"
 - "Federalna Republika Somalii"
-  - Soomaaliya
+- Soomaaliya
 short_name: "\U0001F1F8\U0001F1F4"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Administrative%20divisions%20of%20Somalia.svg"
 has_id_wikidata: Q1045

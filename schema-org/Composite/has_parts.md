@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has-parts
+- parts
+- hasParts
+- has_parts
+- "schema:hasPart"
+- "dbo:hasPart"
+- "wdt:P527"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_parts
-linkTitle: has_parts
 keywords:
-  - part
+- part
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_parts
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - has-parts
-  - parts
-  - hasParts
-  - has_parts
-  - schema:hasPart
-  - dbo:hasPart
-  - wdt:P527
+- class/Relation
+- schema-org/Relation
+title: has_parts
+type: Predi_Relation
 ---
 
 # [[has_parts]] 

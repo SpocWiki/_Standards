@@ -1,34 +1,35 @@
----
-has_id_wikidata: Q95074
-has_characteristic:
-- "[[_Standards/WikiData/WD~given_name,202444]]"
-- "[[_Standards/WikiData/WD~type_of_fictional_character,112265308]]"
-- "[[_Standards/WikiData/WD~biological_sex,290]]"
-- '[[_Standards/WikiData/WD~birthday,47223]]'
-model_item:
-- '[[_Standards/WikiData/WD~Doraemon,1186309]]'
-- "[[_Standards/WikiData/WD~Yoh_Asakura,2613152]]"
-- "[[_Standards/WikiData/WD~Boruto_Uzumaki,20426404]]"
-- '[[_Standards/WikiData/WD~Pepper,47012488]]'
+﻿---
+Commons_category: "Fictional characters"
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 different_from:
 - '[[_Standards/WikiData/WD~role,1707847]]'
 - '[[_Standards/WikiData/WD~character,1792372]]'
 - '[[_Standards/WikiData/WD~Personnage,3092486]]'
-- "[[_Standards/WikiData/WD~mythical_character,4271324]]"
-- "[[_Standards/WikiData/WD~fictional_human,15632617]]"
-- "[[_Standards/WikiData/WD~character_that_may_or_may_not_be_fictional,21070598]]"
-- "[[_Standards/WikiData/WD~hypothetical_person,75855169]]"
-- "[[_Standards/WikiData/WD~fictional_person,97498056]]"
-- "[[_Standards/WikiData/WD~imaginary_character,115537581]]"
+- '[[_Standards/WikiData/WD~mythical_character,4271324]]'
+- '[[_Standards/WikiData/WD~fictional_human,15632617]]'
+- '[[_Standards/WikiData/WD~character_that_may_or_may_not_be_fictional,21070598]]'
+- '[[_Standards/WikiData/WD~hypothetical_person,75855169]]'
+- '[[_Standards/WikiData/WD~fictional_person,97498056]]'
+- '[[_Standards/WikiData/WD~imaginary_character,115537581]]'
 - '[[_Standards/WikiData/WD~human,5]]'
-described_by_source: "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-has_list: "[[_Standards/WikiData/WD~lists_of_fictional_characters_by_work,6646924]]"
-instance_of: "[[_Standards/WikiData/WD~literary_element,6647660]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_character,6811189]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~fictional_entity,14897293]]"
-- "[[_Standards/WikiData/WD~imaginary_character,115537581]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]"
+equivalent_class: "http://dbpedia.org/ontology/FictionalCharacter"
+has_characteristic:
+- '[[_Standards/WikiData/WD~given_name,202444]]'
+- '[[_Standards/WikiData/WD~type_of_fictional_character,112265308]]'
+- '[[_Standards/WikiData/WD~biological_sex,290]]'
+- '[[_Standards/WikiData/WD~birthday,47223]]'
+has_id_wikidata: Q95074
+has_list: '[[_Standards/WikiData/WD~lists_of_fictional_characters_by_work,6646924]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Quixote%2015.jpg"
+instance_of: '[[_Standards/WikiData/WD~literary_element,6647660]]'
+Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PERSONAZH.html
+model_item:
+- '[[_Standards/WikiData/WD~Doraemon,1186309]]'
+- '[[_Standards/WikiData/WD~Yoh_Asakura,2613152]]'
+- '[[_Standards/WikiData/WD~Boruto_Uzumaki,20426404]]'
+- '[[_Standards/WikiData/WD~Pepper,47012488]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
+PhilPapers_topic: fictional-characters
 properties_for_this_type:
 - "cause of death"
 - "date of birth"
@@ -54,16 +55,15 @@ properties_for_this_type:
 - occupation
 - creator
 - performer
+subclass_of:
+- '[[_Standards/WikiData/WD~fictional_entity,14897293]]'
+- '[[_Standards/WikiData/WD~imaginary_character,115537581]]'
+subreddit: ImaginaryCharacters
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_character,6811189]]'
 Wikidata_property:
 - characters
 - "narrative age"
-PhilPapers_topic: fictional-characters
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Quixote%2015.jpg"
-equivalent_class: "http://dbpedia.org/ontology/FictionalCharacter"
-Commons_category: "Fictional characters"
 Wolfram_Language_entity_type: FictionalCharacter
-subreddit: ImaginaryCharacters
-Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/PERSONAZH.html
 ---
 
 # [[Fictional_Characters]] 

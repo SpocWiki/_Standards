@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_hearing_impaired_supported Class
-linkTitle: is_a_hearing_impaired_supported Class
-
-keywords: [hearing_impaired_supported]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ContactPointOption
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - hearing-impaired-supported
 - hearing_impaired_supported
 - HearingImpairedSupported
 - is_a_hearing_impaired_supported
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ContactPointOption
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hearing_impaired_supported
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_hearing_impaired_supported Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_hearing_impaired_supported Class"
+type: Type
 ---
 
 Class of all hearing_impaired_supporteds.

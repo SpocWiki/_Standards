@@ -1,9 +1,7 @@
----
+﻿---
 aliases:
-  - Walt Disney Company
+- "Walt Disney Company"
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

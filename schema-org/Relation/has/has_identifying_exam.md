@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_identifying_exam
-
-linkTitle: has_identifying_exam
-keywords: [identifying, exam]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - identifying-exam
 - identifying_exam
 - identifyingExam
 - has_identifying_exam
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- identifying
+- exam
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_identifying_exam
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_identifying_exam
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_strength-value
-linkTitle: has_strength-value
-
-keywords: [strength-value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - strength_value
 - strength-value
 - strengthValue
 - has_value_for_strength
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- strength-value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_strength-value
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_strength-value
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of DrugStrength.

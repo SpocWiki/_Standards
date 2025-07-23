@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- brand
+- has_brand
+- "schema:brand"
+- "dbo:brand"
+- "wdt:P176"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_brand
-linkTitle: has_brand
 keywords:
-  - brand
+- brand
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_brand
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - brand
-  - has_brand
-  - schema:brand
-  - dbo:brand
-  - wdt:P176
+- class/Relation
+- schema-org/Relation
+title: has_brand
+type: Predi_Relation
 ---
 
 Use it like this: 

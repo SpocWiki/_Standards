@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_reservation_confirmed Class
-linkTitle: is_a_reservation_confirmed Class
-
-keywords: [reservation_confirmed]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReservationStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - reservation-confirmed
 - reservation_confirmed
 - ReservationConfirmed
 - is_a_reservation_confirmed
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReservationStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- reservation_confirmed
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_reservation_confirmed Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_reservation_confirmed Class"
+type: Type
 ---
 
 Class of all reservation_confirmeds.

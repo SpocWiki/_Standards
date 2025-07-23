@@ -1,36 +1,36 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/FinancialProduct
-  - class/Thing/Intangible/Service/FinancialProduct
-  - is_a_/FinancialProduct
-  - schema-org/FinancialProduct
-tags:
-  - class/FileClass
-  - class/FinancialProduct
-  - is_a_/FinancialProduct
-  - class/Thing/Intangible/Service/FinancialProduct
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: JepkKM
-    name: AnnualPercentageRate
-    options: {}
-    type: Number
-    path: ""
-  - id: JEVET7
-    name: FeesAndCommissionsSpecification
-    options: {}
-    type: Input
-    path: ""
-  - id: BXXEDy
-    name: InterestRate
-    options: {}
-    type: Number
-    path: ""
+- id: JepkKM
+  name: AnnualPercentageRate
+  options: {}
+  type: Number
+  path: ''
+- id: JEVET7
+  name: FeesAndCommissionsSpecification
+  options: {}
+  type: Input
+  path: ''
+- id: BXXEDy
+  name: InterestRate
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/FinancialProduct
+- class/Thing/Intangible/Service/FinancialProduct
+- is_a_/FinancialProduct
+- schema-org/FinancialProduct
+tags:
+- class/FileClass
+- class/FinancialProduct
+- is_a_/FinancialProduct
+- class/Thing/Intangible/Service/FinancialProduct
+version: 2.0
 ---
 
 # FinancialProduct

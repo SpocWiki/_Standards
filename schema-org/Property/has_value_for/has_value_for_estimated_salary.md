@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_estimated-salary
-linkTitle: has_estimated-salary
-
-keywords: [estimated-salary]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - estimated_salary
 - estimated-salary
 - estimatedSalary
 - has_value_for_estimated_salary
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- estimated-salary
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_estimated-salary
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_estimated-salary
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of JobPosting, Occupation.

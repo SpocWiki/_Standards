@@ -1,40 +1,41 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- instance-of
+- instance_of
+- instanceOf
+- is_instance_of
+- rdf~type
+- "rdf: type"
+- typeof
+- '@type'
+- is_a
+- is_an
+- itemtype
+- additionalType
+- is_an_instance_of
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
+fileClass:
+- FileClass-Relation
+has_id_wikidata: P31
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_instance_of
-linkTitle: is_instance_of
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_instance_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Relation
-aliases:
-  - instance-of
-  - instance_of
-  - instanceOf
-  - is_instance_of
-  - rdf~type
-  - "rdf: type"
-  - typeof
-  - "@type"
-  - is_a
-  - is_an
-  - itemtype
-  - additionalType
-  - is_an_instance_of
-fileClass:
-  - FileClass-Relation
-has_id_wikidata: P31
+- schema-org/Relation
+title: is_instance_of
+type: Predi_Relation
 ---
+
 # [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
 
 Relates an Object/Thing/Entity to its Class. 

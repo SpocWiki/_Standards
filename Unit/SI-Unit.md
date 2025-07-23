@@ -1,18 +1,24 @@
----
-has_id_wikidata: Q12457
-instance_of:
-- "[[_Standards/WikiData/WD~metric_system,232405]]"
-- "[[_Standards/WikiData/WD~technical_standard,317623]]"
-- "[[_Standards/WikiData/WD~international_standard,1334738]]"
-- "[[_Standards/WikiData/WD~coherent_system_of_units,99734981]]"
-based_on: "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
+﻿---
+aliases:
+- "International System of Units"
+based_on: '[[_Standards/WikiData/WD~MKS_system_of_units,512417]]'
+Commons_category: "International System of Units"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219]]"
-- "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
-- "[[_Standards/WikiData/WD~DIN_1301,105424877]]"
-UMLS_CUI: C0021791
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219]]'
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[_Standards/WikiData/WD~DIN_1301,105424877]]'
+has_id_wikidata: Q12457
+IEV_number: 112-02-02
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20prototype%20of%20the%20kilogram%20aka%20Le%20Grand%20K.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~metric_system,232405]]'
+- '[[_Standards/WikiData/WD~technical_standard,317623]]'
+- '[[_Standards/WikiData/WD~international_standard,1334738]]'
+- '[[_Standards/WikiData/WD~coherent_system_of_units,99734981]]'
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20System%20Of%20Units%20Logo.png"
+MeSH_tree_code: E05.978.507
+OmegaWiki_Defined_Meaning: 983745
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%A1%D0%98.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/SI-systemet.svg"
@@ -22,16 +28,10 @@ schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Birim%201.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Mek-klas-mag.png"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/SI%20base%20unit.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/International%20prototype%20of%20the%20kilogram%20aka%20Le%20Grand%20K.jpg"
 short_name:
 - SI
 - СИ
-OmegaWiki_Defined_Meaning: 983745
-IEV_number: 112-02-02
-MeSH_tree_code: E05.978.507
-Commons_category: "International System of Units"
-aliases:
-- "International System of Units"
+UMLS_CUI: C0021791
 ---
 
 # [[SI-Units]] 

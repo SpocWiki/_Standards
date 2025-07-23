@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Placido Domingo
+- "Placido Domingo"
 ---
 
 #has_/time_/started :: 1941-01-21 

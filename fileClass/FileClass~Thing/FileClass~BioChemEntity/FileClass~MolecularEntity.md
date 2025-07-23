@@ -1,70 +1,70 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: atom
-version: "2.0"
-tagNames:
-  - class/MolecularEntity
-  - class/Thing/BioChemEntity/MolecularEntity
-  - is_a_/MolecularEntity
-  - schema-org/MolecularEntity
-tags:
-  - class/FileClass
-  - class/MolecularEntity
-  - is_a_/MolecularEntity
-  - class/Thing/BioChemEntity/MolecularEntity
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: I4IuV3
-    name: ChemicalRole
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: u40imR
-    name: InChI
-    options: {}
-    type: Input
-    path: ""
-  - id: zr06U8
-    name: InChIKey
-    options: {}
-    type: Input
-    path: ""
-  - id: h7U1GK
-    name: IupacName
-    options: {}
-    type: Input
-    path: ""
-  - id: 8JAIr1
-    name: MolecularFormula
-    options: {}
-    type: Input
-    path: ""
-  - id: Snbtw1
-    name: MolecularWeight
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: hxYCRn
-    name: MonoisotopicMolecularWeight
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: fHcaJa
-    name: PotentialUse
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: I3xS6H
-    name: Smiles
-    options: {}
-    type: Input
-    path: ""
+- id: I4IuV3
+  name: ChemicalRole
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: u40imR
+  name: InChI
+  options: {}
+  type: Input
+  path: ''
+- id: zr06U8
+  name: InChIKey
+  options: {}
+  type: Input
+  path: ''
+- id: h7U1GK
+  name: IupacName
+  options: {}
+  type: Input
+  path: ''
+- id: 8JAIr1
+  name: MolecularFormula
+  options: {}
+  type: Input
+  path: ''
+- id: Snbtw1
+  name: MolecularWeight
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: hxYCRn
+  name: MonoisotopicMolecularWeight
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: fHcaJa
+  name: PotentialUse
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: I3xS6H
+  name: Smiles
+  options: {}
+  type: Input
+  path: ''
+icon: atom
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MolecularEntity
+- class/Thing/BioChemEntity/MolecularEntity
+- is_a_/MolecularEntity
+- schema-org/MolecularEntity
+tags:
+- class/FileClass
+- class/MolecularEntity
+- is_a_/MolecularEntity
+- class/Thing/BioChemEntity/MolecularEntity
+version: 2.0
 ---
 
 # MolecularEntity

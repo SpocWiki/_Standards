@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Never Say Never Again
+- "Never Say Never Again"
 ---
-
 
 ## #has_/text_of_/abstract 
 

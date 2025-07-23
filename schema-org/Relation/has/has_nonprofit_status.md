@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_nonprofit_status
-
-linkTitle: has_nonprofit_status
-keywords: [nonprofit, status]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - nonprofit-status
 - nonprofit_status
 - nonprofitStatus
 - has_nonprofit_status
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit
+- status
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_nonprofit_status
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_nonprofit_status
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

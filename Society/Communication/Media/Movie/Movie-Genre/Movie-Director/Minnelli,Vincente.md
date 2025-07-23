@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Vincente Minnelli
+- "Vincente Minnelli"
 ---
-
 
 #has_/time_/started :: 1903-02-28 
 #has_/time_/stopped :: 1986-07-25 

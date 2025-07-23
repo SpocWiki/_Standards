@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Barry Sonnenfeld
+- "Barry Sonnenfeld"
 ---
 
 #has_/time_/started :: 1953-04-01 

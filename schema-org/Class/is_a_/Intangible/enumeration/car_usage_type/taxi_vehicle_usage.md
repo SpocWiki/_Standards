@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_taxi_vehicle_usage Class
-linkTitle: is_a_taxi_vehicle_usage Class
-
-keywords: [taxi_vehicle_usage]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: CarUsageType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - taxi-vehicle-usage
 - taxi_vehicle_usage
 - TaxiVehicleUsage
 - is_a_taxi_vehicle_usage
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: CarUsageType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- taxi_vehicle_usage
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_taxi_vehicle_usage Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_taxi_vehicle_usage Class"
+type: Type
 ---
 
 Class of all taxi_vehicle_usages.

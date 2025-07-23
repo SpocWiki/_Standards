@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Charles de Gaulle
-  - Charles André Joseph Marie de Gaulle
+- "Charles de Gaulle"
+- "Charles André Joseph Marie de Gaulle"
 ---
-
 
 ## #has_/text_of_/abstract 
 

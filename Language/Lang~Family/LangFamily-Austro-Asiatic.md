@@ -1,11 +1,12 @@
----
-type: LangFamily
-tags:
-  - Lang_Family
+﻿---
 aliases:
-  - Austroasiatic languages
+- "Austroasiatic languages"
 has_id_wikidata: Q33199
+tags:
+- Lang_Family
+type: LangFamily
 ---
+
 ﻿
  [SpocWebEntityId:: 240 ]
 [Name::Austro-Asiatic]

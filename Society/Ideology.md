@@ -1,18 +1,18 @@
----
-has_id_wikidata: Q7257
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-part_of: '[[_Standards/WikiData/WD~culture,11042]]'
-subclass_of: "[[_Standards/WikiData/WD~world_view,49447]]"
-OmegaWiki_Defined_Meaning: 1841
+﻿---
 Commons_category: Ideologies
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ideologie-article.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/War2.png"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 equivalent_class: "http://dbpedia.org/ontology/Ideology"
+has_id_wikidata: Q7257
 Iconclass_notation: 52C52
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/War2.png"
+OmegaWiki_Defined_Meaning: 1841
+part_of: '[[_Standards/WikiData/WD~culture,11042]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ideologie-article.ogg"
+subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 ---
 
 ## #has_/text_of_/abstract 

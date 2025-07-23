@@ -1,84 +1,84 @@
----
-title: Rodentia
+﻿---
 aliases:
-  - Rodent
-  - Rodentia
-  - Rodents
-  - Nagetiere
+- Rodent
+- Rodentia
+- Rodents
+- Nagetiere
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+Commons_category: Rodentia
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+EPPO_Code: 1RODEO
+GS1_GPC_code: 10005455
 has_id_wikidata: Q10850
-main food source: "[[_Standards/WikiData/WD~herbaceous_plant,190903]]"
-natural reservoir of: "[[_Standards/WikiData/WD~Leishmania,524818]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-parent taxon:
-  - "[[_Standards/WikiData/WD~Glires,660432]]"
-  - "[[_Standards/WikiData/WD~Simplicidentata,7520911]]"
-subclass of: "[[_Standards/WikiData/WD~fur-bearing_animal,12366542]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Q42351419,42351419]]"
-studied in:
-  - "[[_Standards/WikiData/WD~rodentology,76749558]]"
-this taxon is source of: "[[_Standards/WikiData/WD~rodent_meat,124815478]]"
+Iconclass_notation: 25F26
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tamias%20striatus%20CT.jpg"
 inception: -66000000-01-01
-code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon rank: "[[_Standards/WikiData/WD~order,36602]]"
-OmegaWiki Defined Meaning: "3268"
-ITIS TSN: "180130"
-taxon common name:
-  - Rosegador
-  - Roedor
-  - Rodents
-  - القوراض
-  - Грызуны
-  - Гризачи
-  - hlodavci
-  - Gnavere
-  - Nagetiere
-  - Ronĝuloj
-  - Näriline
-  - Jyrsijät
-  - Rongeur
-  - Gnaudiarten
-  - creimire
-  - מכרסמים
-  - Glodavci
-  - Rágcsálók
-  - Կրծողներ
-  - ネズミ目
-  - მღრღნელები
-  - 설치목(齧齒目)
-  - 쥐목
-  - Knaagdiere
-  - Roditoï
-  - глодачи
-  - Gnagere
-  - Knaagdieren
-  - Gryzonie
-  - Roedores
-  - Hlodavce
-  - "Gnagare (föråldrat: enkeltandade gnagare)"
-  - สัตว์ฟันแทะ
-  - Kemiriciler
-  - Гризуни
-  - 啮齿目
-U.S. National Archives Identifier:
-  - "10647853"
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Rodent%20collage.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Tamias%20striatus%20CT.jpg
-GS1 GPC code: "10005455"
-EPPO Code: 1RODEO
-Iconclass notation: 25F26
-MeSH tree code: B01.050.150.900.649.313.992
-Krugosvet article: nauka_i_tehnika/biologiya/GRIZUNI.html
-NBN System Key: NHMSYS0000376181
-Commons category: Rodentia
-taxon name: Rodentia
-start time: -56000000-01-01
+instance_of:
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 180130
+Krugosvet_article: nauka_i_tehnika/biologiya/GRIZUNI.html
+main_food_source: '[[_Standards/WikiData/WD~herbaceous_plant,190903]]'
+MeSH_tree_code: B01.050.150.900.649.313.992
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rodent%20collage.png"
+natural_reservoir_of: '[[_Standards/WikiData/WD~Leishmania,524818]]'
+NBN_System_Key: NHMSYS0000376181
+OmegaWiki_Defined_Meaning: 3268
+parent_taxon:
+- '[[_Standards/WikiData/WD~Glires,660432]]'
+- '[[_Standards/WikiData/WD~Simplicidentata,7520911]]'
+start_time: -56000000-01-01
+studied_in:
+- '[[_Standards/WikiData/WD~rodentology,76749558]]'
+subclass_of: '[[_Standards/WikiData/WD~fur-bearing_animal,12366542]]'
+taxon_common_name:
+- Rosegador
+- Roedor
+- Rodents
+- القوراض
+- Грызуны
+- Гризачи
+- hlodavci
+- Gnavere
+- Nagetiere
+- Ronĝuloj
+- Näriline
+- Jyrsijät
+- Rongeur
+- Gnaudiarten
+- creimire
+- מכרסמים
+- Glodavci
+- Rágcsálók
+- Կրծողներ
+- ネズミ目
+- მღრღნელები
+- 설치목(齧齒目)
+- 쥐목
+- Knaagdiere
+- Roditoï
+- глодачи
+- Gnagere
+- Knaagdieren
+- Gryzonie
+- Roedores
+- Hlodavce
+- "Gnagare (föråldrat: enkeltandade gnagare)"
+- สัตว์ฟันแทะ
+- Kemiriciler
+- Гризуни
+- 啮齿目
+taxon_name: Rodentia
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~rodent_meat,124815478]]'
+title: Rodentia
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351419,42351419]]'
+U_S_National_Archives_Identifier:
+- 10647853
 ---
 
 # Rodentia

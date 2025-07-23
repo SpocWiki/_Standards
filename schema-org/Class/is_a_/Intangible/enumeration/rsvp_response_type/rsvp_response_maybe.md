@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_rsvp_response_maybe Class
-linkTitle: is_a_rsvp_response_maybe Class
-
-keywords: [rsvp_response_maybe]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: RsvpResponseType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - rsvp-response-maybe
 - rsvp_response_maybe
 - RsvpResponseMaybe
 - is_a_rsvp_response_maybe
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: RsvpResponseType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rsvp_response_maybe
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_rsvp_response_maybe Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_rsvp_response_maybe Class"
+type: Type
 ---
 
 Class of all rsvp_response_maybes.

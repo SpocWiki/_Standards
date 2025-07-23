@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_search_rescue_organization Class
-linkTitle: is_a_search_rescue_organization Class
-
-keywords: [search_rescue_organization]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - search-rescue-organization
 - search_rescue_organization
 - SearchRescueOrganization
 - is_a_search_rescue_organization
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- search_rescue_organization
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_search_rescue_organization Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_search_rescue_organization Class"
+type: Type
 ---
 
 Class of all search_rescue_organizations.

@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Lolita (1962)
+- "Lolita (1962)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

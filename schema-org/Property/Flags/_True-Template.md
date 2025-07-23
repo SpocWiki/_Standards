@@ -1,37 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? has_label_snail: 
+  : 
+- ? label: 
+  : 
+- is_{{has_label_snail}}
 confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_{{has_label_snail}}
-linkTitle: is_{{has_label_snail}}
-
-keywords: [{{has_label_snail}}]
+keywords:
+- ? has_label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: is_{{has_label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Property
 - schema-org/Property/True
-
-aliases:
-- {{label-dash}}
-- {{has_label_snail}}
-- {{label}}
-- is_{{has_label_snail}}
+title: is_{{has_label_snail}}
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: {{isPartOf}} ]

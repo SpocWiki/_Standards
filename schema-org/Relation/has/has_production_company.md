@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_production_company
-
-linkTitle: has_production_company
-keywords: [production, company]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - production-company
 - production_company
 - productionCompany
 - has_production_company
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- production
+- company
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_production_company
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_production_company
+type: Predi_Relation
 ---
 
 Use it like this: 

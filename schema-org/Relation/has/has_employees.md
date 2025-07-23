@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_employee
-
-linkTitle: has_employee
-keywords: [employee]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: employees
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - employee
 - employee
 - employee
 - has_employee
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- employee
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_employee
+publish: true
+publishDate: 
+supersedes: employees
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_employee
+type: Predi_Relation
 ---
 
 Use it like this: 

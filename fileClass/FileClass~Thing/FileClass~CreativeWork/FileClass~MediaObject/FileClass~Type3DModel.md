@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Type3DModel
-  - class/Thing/CreativeWork/MediaObject/Type3DModel
-  - is_a_/Type3DModel
-  - schema-org/Type3DModel
-tags:
-  - class/FileClass
-  - class/Type3DModel
-  - is_a_/Type3DModel
-  - class/Thing/CreativeWork/MediaObject/Type3DModel
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-  - id: rfORlE
-    name: IsResizable
-    options: {}
-    type: Boolean
-    path: ""
+- id: rfORlE
+  name: IsResizable
+  options: {}
+  type: Boolean
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Type3DModel
+- class/Thing/CreativeWork/MediaObject/Type3DModel
+- is_a_/Type3DModel
+- schema-org/Type3DModel
+tags:
+- class/FileClass
+- class/Type3DModel
+- is_a_/Type3DModel
+- class/Thing/CreativeWork/MediaObject/Type3DModel
+version: 2.0
 ---
 
 # Type3DModel

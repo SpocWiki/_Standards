@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_public_toilet Class
-linkTitle: is_a_public_toilet Class
-
-keywords: [public_toilet]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - public-toilet
 - public_toilet
 - PublicToilet
 - is_a_public_toilet
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- public_toilet
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_public_toilet Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_public_toilet Class"
+type: Type
 ---
 
 Class of all public_toilets.

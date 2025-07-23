@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_taxonomic_range
-
-linkTitle: has_taxonomic_range
-keywords: [taxonomic, range]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - taxonomic-range
 - taxonomic_range
 - taxonomicRange
 - has_taxonomic_range
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- taxonomic
+- range
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_taxonomic_range
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_taxonomic_range
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Carrie (1976)
+- "Carrie (1976)"
 ---
 
 [[Rosemary's_Baby(film)]] 

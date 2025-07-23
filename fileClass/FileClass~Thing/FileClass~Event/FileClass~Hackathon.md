@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Hackathon
-  - class/Thing/Event/Hackathon
-  - is_a_/Hackathon
-  - schema-org/Hackathon
-tags:
-  - class/FileClass
-  - class/Hackathon
-  - is_a_/Hackathon
-  - class/Thing/Event/Hackathon
 extends: FileClass~Thing/FileClass~Event
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Hackathon
+- class/Thing/Event/Hackathon
+- is_a_/Hackathon
+- schema-org/Hackathon
+tags:
+- class/FileClass
+- class/Hackathon
+- is_a_/Hackathon
+- class/Thing/Event/Hackathon
+version: 2.0
 ---
 
 # Hackathon

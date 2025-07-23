@@ -1,35 +1,34 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- member-of
+- member_of
+- memberOf
+- is_member_of
+- "schema:memberOf"
+- "dbo:memberOf"
+- "wdt:P463"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_member_of
-linkTitle: is_member_of
 keywords:
-  - member
-  - of
+- member
+- of
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_member_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - member-of
-  - member_of
-  - memberOf
-  - is_member_of
-  - schema:memberOf
-  - dbo:memberOf
-  - wdt:P463
+- class/Relation
+- schema-org/Relation
+title: is_member_of
+type: Predi_Relation
 ---
-
 
 Use it like this: 
 - [ #is_/member_/of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] or 

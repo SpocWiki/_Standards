@@ -1,10 +1,9 @@
----
+﻿---
 aliases:
-  - Football
-  - soccer
+- Football
+- soccer
 has_id_wikidata: Q2736
 ---
-
 
 > **Football** is a family of team sports that involve, to varying degrees, kicking a ball to score a goal.  
 > Unqualified, the word football generally means the form of football that is the most popular where the word is used. 

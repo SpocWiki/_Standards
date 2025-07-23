@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_drug_class
-
-linkTitle: has_drug_class
-keywords: [drug, class]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - drug-class
 - drug_class
 - drugClass
 - has_drug_class
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- drug
+- class
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_drug_class
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_drug_class
+type: Predi_Relation
 ---
 
 Use it like this: 

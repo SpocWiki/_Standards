@@ -1,73 +1,73 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RadioSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
-  - is_a_/RadioSeries
-  - schema-org/RadioSeries
-tags:
-  - class/FileClass
-  - class/RadioSeries
-  - is_a_/RadioSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: 9AFi3y
-    name: Actor
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: HgSF22
-    name: ContainsSeason
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
-    type: MultiFile
-    path: ""
-  - id: iGEYDA
-    name: Director
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: 4zClcV
-    name: Episode
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
-    type: MultiFile
-    path: ""
-  - id: 0cyj7P
-    name: MusicBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
-    type: MultiFile
-    path: ""
-  - id: X7SQD6
-    name: NumberOfEpisodes
-    options: {}
-    type: Number
-    path: ""
-  - id: iEUcdR
-    name: NumberOfSeasons
-    options: {}
-    type: Number
-    path: ""
-  - id: qU0sRw
-    name: ProductionCompany
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: nepGoz
-    name: Trailer
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
-    type: MultiFile
-    path: ""
+- id: 9AFi3y
+  name: Actor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: HgSF22
+  name: ContainsSeason
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')"
+  type: MultiFile
+  path: ''
+- id: iGEYDA
+  name: Director
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: 4zClcV
+  name: Episode
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Episode')"
+  type: MultiFile
+  path: ''
+- id: 0cyj7P
+  name: MusicBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
+  type: MultiFile
+  path: ''
+- id: X7SQD6
+  name: NumberOfEpisodes
+  options: {}
+  type: Number
+  path: ''
+- id: iEUcdR
+  name: NumberOfSeasons
+  options: {}
+  type: Number
+  path: ''
+- id: qU0sRw
+  name: ProductionCompany
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: nepGoz
+  name: Trailer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RadioSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
+- is_a_/RadioSeries
+- schema-org/RadioSeries
+tags:
+- class/FileClass
+- class/RadioSeries
+- is_a_/RadioSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
+version: 2.0
 ---
 
 # RadioSeries

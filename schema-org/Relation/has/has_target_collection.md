@@ -1,33 +1,34 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- target-collection
+- target_collection
+- targetCollection
+- has_target_collection
+- is_in_collection
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_target_collection
-linkTitle: has_target_collection
 keywords:
-  - target
-  - collection
+- target
+- collection
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_target_collection
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: collection
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - target-collection
-  - target_collection
-  - targetCollection
-  - has_target_collection
-  - is_in_collection
+- class/Relation
+- schema-org/Relation
+title: has_target_collection
+type: Predi_Relation
 ---
+
 A sub property of object. 
 The collection target of the action.
 

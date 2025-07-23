@@ -1,89 +1,89 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Action
-  - class/Thing/Action
-  - is_an_/Action
-  - schema-org/Action
-tags:
-  - class/FileClass
-  - class/Action
-  - "#is_an_/Action"
-  - class/Thing/Action
 extends: FileClass~Thing
 fields:
-  - id: 8HMCQW
-    name: Agent
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: IgRPV5
-    name: EndTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: LN1PgO
-    name: Error
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: mvlP0k
-    name: Instrument
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: Mr3ZT1
-    name: Location
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: I26CBt
-    name: Object
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: GvFLip
-    name: Participant
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: semoIg
-    name: Provider
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: 7Khk1K
-    name: Result
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: 1x8C1l
-    name: StartTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: Lg7pLS
-    name: Target
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/EntryPoint')
-    type: MultiFile
-    path: ""
+- id: 8HMCQW
+  name: Agent
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: IgRPV5
+  name: EndTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: LN1PgO
+  name: Error
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: mvlP0k
+  name: Instrument
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: Mr3ZT1
+  name: Location
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: I26CBt
+  name: Object
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: GvFLip
+  name: Participant
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: semoIg
+  name: Provider
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: 7Khk1K
+  name: Result
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: 1x8C1l
+  name: StartTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: Lg7pLS
+  name: Target
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/EntryPoint')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Action
+- class/Thing/Action
+- is_an_/Action
+- schema-org/Action
+tags:
+- class/FileClass
+- class/Action
+- '#is_an_/Action'
+- class/Thing/Action
+version: 2.0
 ---
 
 # Action

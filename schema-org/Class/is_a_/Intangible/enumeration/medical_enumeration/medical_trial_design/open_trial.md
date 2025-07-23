@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_open_trial Class
-linkTitle: is_an_open_trial Class
-
-keywords: [open_trial]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalTrialDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - open-trial
 - open_trial
 - OpenTrial
 - is_an_open_trial
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalTrialDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- open_trial
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_open_trial Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_open_trial Class"
+type: Type
 ---
 
 Class of all open_trials.

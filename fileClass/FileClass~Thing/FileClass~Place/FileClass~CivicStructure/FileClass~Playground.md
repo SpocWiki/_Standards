@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Playground
-  - class/Thing/Place/CivicStructure/Playground
-  - is_a_/Playground
-  - schema-org/Playground
-tags:
-  - class/FileClass
-  - class/Playground
-  - is_a_/Playground
-  - class/Thing/Place/CivicStructure/Playground
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Playground
+- class/Thing/Place/CivicStructure/Playground
+- is_a_/Playground
+- schema-org/Playground
+tags:
+- class/FileClass
+- class/Playground
+- is_a_/Playground
+- class/Thing/Place/CivicStructure/Playground
+version: 2.0
 ---
 
 # Playground

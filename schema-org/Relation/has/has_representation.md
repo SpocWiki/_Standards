@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_representation
-
-linkTitle: has_representation
-keywords: [representation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-representation
 - representation
 - hasRepresentation
 - has_representation
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- representation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_representation
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_representation
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

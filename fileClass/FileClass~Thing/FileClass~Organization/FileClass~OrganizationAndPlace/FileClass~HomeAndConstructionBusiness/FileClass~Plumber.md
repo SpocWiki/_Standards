@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Plumber
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber
-  - is_a_/Plumber
-  - schema-org/Plumber
-tags:
-  - class/FileClass
-  - class/Plumber
-  - is_a_/Plumber
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Plumber
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber
+- is_a_/Plumber
+- schema-org/Plumber
+tags:
+- class/FileClass
+- class/Plumber
+- is_a_/Plumber
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber
+version: 2.0
 ---
 
 # Plumber

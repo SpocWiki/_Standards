@@ -1,8 +1,8 @@
----
-has_id_wikidata: Q181296
+﻿---
 aliases:
-  - abelian group
-  - commutative group
+- "abelian group"
+- "commutative group"
+has_id_wikidata: Q181296
 ---
 
 # [[Commutative_Group]] 

@@ -1,95 +1,95 @@
----
-title: Animals
+﻿---
 aliases:
-  - Animal
-  - Animals
-  - Animales
-  - Animalia
-  - Metazoa
-has_id_wikidata: Q729
-subclass of: "[[_Standards/WikiData/WD~heterotroph,159344]]"
-studied in:
-  - "[[_Standards/WikiData/WD~veterinary_medicine,170201]]"
-  - "[[_Standards/WikiData/WD~biology,420]]"
-  - "[[_Standards/WikiData/WD~zoology,431]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
-  - "[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325]]"
-  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Early_Modern_History_Online,109120178]]"
-different from:
-  - "[[_Standards/WikiData/WD~Eleotris_melanosoma,717377]]"
-  - "[[_Standards/WikiData/WD~Q19176651,19176651]]"
-  - "[[_Standards/WikiData/WD~Bête,65066169]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~animal_locomotion,925958]]"
-  - "[[_Standards/WikiData/WD~animal_taxonomy,1469725]]"
-  - "[[_Standards/WikiData/WD~animal_behavior,2990593]]"
-  - "[[_Standards/WikiData/WD~animal_culture,3007160]]"
-has list: "[[_Standards/WikiData/WD~list_of_animal_classes,1401693]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Animalia,6679944]]"
-said to be the same as: "[[_Standards/WikiData/WD~Q19719608,19719608]]"
-disjoint union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-parent taxon: "[[_Standards/WikiData/WD~Apoikozoa,24966129]]"
-instance of:
-  - "[[_Standards/WikiData/WD~first-order_class,104086571]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-Baidu Tieba name: 动物
-UMLS CUI: C0003062
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishing%20for%20salmon%20--%20Crescent%20Lake%2C%20Alaska%20-%20August%202015.webm
-MeSH tree code: B01.050
-properties for this type:
-  - main food source
-  - gait
-code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-taxon rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
-Dewey Decimal Classification:
-  - "590"
-social media followers: 15948
-OmegaWiki Defined Meaning: "194"
-ITIS TSN: "202423"
+- Animal
+- Animals
+- Animales
+- Animalia
+- Metazoa
+Archive_of_Our_Own_tag:
+- Animals
+- Animal
+Baidu_Tieba_name: 动物
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+Commons_category: Animalia
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325]]'
+- '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Early_Modern_History_Online,109120178]]'
+Dewey_Decimal_Classification:
+- 590
+different_from:
+- '[[_Standards/WikiData/WD~Eleotris_melanosoma,717377]]'
+- '[[_Standards/WikiData/WD~Q19176651,19176651]]'
+- '[[_Standards/WikiData/WD~Bête,65066169]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+EAGLE_id: decor/lod/28
+EPPO_Code: 1ANIMK
+equivalent_class:
+- "http://dbpedia.org/ontology/Animal"
+- "http://kbpedia.org/kko/rc/Animal"
 hashtag:
-  - animal
-  - animals
-Commons category: Animalia
-taxon name: Animalia
-Archive of Our Own tag:
-  - Animals
-  - Animal
+- animal
+- animals
+has_characteristic:
+- '[[_Standards/WikiData/WD~animal_locomotion,925958]]'
+- '[[_Standards/WikiData/WD~animal_taxonomy,1469725]]'
+- '[[_Standards/WikiData/WD~animal_behavior,2990593]]'
+- '[[_Standards/WikiData/WD~animal_culture,3007160]]'
+has_id_wikidata: Q729
+has_list: '[[_Standards/WikiData/WD~list_of_animal_classes,1401693]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~first-order_class,104086571]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+IPTC_NewsCode: mediatopic/20000500
+ITIS_TSN: 202423
+MeSH_tree_code: B01.050
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20diversity.png"
+OmegaWiki_Defined_Meaning: 194
+parent_taxon: '[[_Standards/WikiData/WD~Apoikozoa,24966129]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-animal.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-animalia.wav"
+properties_for_this_type:
+- "main food source"
+- gait
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q19719608,19719608]]'
+social_media_followers: 15948
+start_time: -665000000-01-01
+studied_in:
+- '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
+- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~zoology,431]]'
+subclass_of: '[[_Standards/WikiData/WD~heterotroph,159344]]'
 subreddit:
-  - Animal
-image: http://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20diversity.png
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-animal.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-animalia.wav
-equivalent class:
-  - http://dbpedia.org/ontology/Animal
-  - http://kbpedia.org/kko/rc/Animal
-U.S. National Archives Identifier:
-  - "10637132"
-EPPO Code: 1ANIMK
-EAGLE id: decor/lod/28
-IPTC NewsCode: mediatopic/20000500
-taxon common name:
-  - animal
-  - animales
-  - dyreriket
-  - živali
-  - 动物界
-start time: -665000000-01-01
+- Animal
+taxon_common_name:
+- animal
+- animales
+- dyreriket
+- živali
+- 动物界
+taxon_name: Animalia
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
+title: Animals
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animalia,6679944]]'
+UMLS_CUI: C0003062
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+U_S_National_Archives_Identifier:
+- 10637132
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishing%20for%20salmon%20--%20Crescent%20Lake%2C%20Alaska%20-%20August%202015.webm"
 ---
 
 # [[Animals]] 

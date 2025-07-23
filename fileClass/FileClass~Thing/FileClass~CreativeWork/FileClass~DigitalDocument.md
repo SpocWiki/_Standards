@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DigitalDocument
-  - class/Thing/CreativeWork/DigitalDocument
-  - is_a_/DigitalDocument
-  - schema-org/DigitalDocument
-tags:
-  - class/FileClass
-  - class/DigitalDocument
-  - is_a_/DigitalDocument
-  - class/Thing/CreativeWork/DigitalDocument
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: MU5nLs
-    name: HasDigitalDocumentPermission
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DigitalDocumentPermission')
-    type: MultiFile
-    path: ""
+- id: MU5nLs
+  name: HasDigitalDocumentPermission
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DigitalDocumentPermission')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DigitalDocument
+- class/Thing/CreativeWork/DigitalDocument
+- is_a_/DigitalDocument
+- schema-org/DigitalDocument
+tags:
+- class/FileClass
+- class/DigitalDocument
+- is_a_/DigitalDocument
+- class/Thing/CreativeWork/DigitalDocument
+version: 2.0
 ---
 
 # DigitalDocument

@@ -12,7 +12,7 @@ confidential: public
 aliases:
 - "Democratic Republic of the Congo"
 - "DR Congo"
-  - Congo-Kinshasa
+- Congo-Kinshasa
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Kasaï-Oriental,80953]]'
 - "[[_Standards/WikiData/WD~Haut-Katanga_Province,130268]]"
@@ -424,9 +424,9 @@ demonym:
   - Demokratirespublikkongano
   - קונגולזי
   - קונגולזית
-- "kongói demokratikus köztársasági"
-- "congolese (Repubblica Democratica del Congo)"
-- "congolesi (Repubblica Democratica del Congo)"
+  - "kongói demokratikus köztársasági"
+  - "congolese (Repubblica Democratica del Congo)"
+  - "congolesi (Repubblica Democratica del Congo)"
   - congołeze
   - congołezi
   - Congolaise
@@ -490,13 +490,13 @@ short_name:
   - Austur-Kongó
   - 민주콩고
   - 민주꽁고
-- "ДР Конго"
+  - "ДР Конго"
   - KDC
-- "CHDC Congo"
+  - "CHDC Congo"
   - 刚果（金）
   - 民主刚果
   - 民主剛果
-- "\U0001F1E8\U0001F1E9"
+  - "\U0001F1E8\U0001F1E9"
   - RDC
   - RDC
   - RDC

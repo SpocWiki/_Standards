@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_paying_cash_back
-linkTitle: is_paying_cash_back
-
-keywords: [paying_cash_back]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - cash-back
 - paying_cash_back
 - cashBack
 - is_paying_cash_back
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- paying_cash_back
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_paying_cash_back
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_paying_cash_back
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

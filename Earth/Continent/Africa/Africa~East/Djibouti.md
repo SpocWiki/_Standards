@@ -90,7 +90,7 @@ demonym:
   - Ĝibutiano
   - Djiboutien
   - Djiboutienne
-- "ג'יבוטית"
+  - "ג'יבוטית"
   - dzsibuti
   - Djibutiano
   - gibutiana
@@ -107,14 +107,14 @@ demonym:
   - Cibutänan
   - جيبوتي
   - دجيبوتي
-- "ג'יבוטי"
+  - "ג'יבוטי"
 ISNI: 0000000107292948
 MeSH_tree_code: Z01.058.290.120.275
 motto_text:
 - "Undod, Cydraddoldeb, Heddwch"
 - "اتحاد، مساواة، سلام"
 - "Единство, равенство, мир"
-  - Djibeauty
+- Djibeauty
 - "Unity, Equality, Peace"
 - "Unité, Égalité, Paix"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20view%20of%20Djibouti%20City.jpg"
@@ -221,11 +221,11 @@ Commons_gallery: "جيبوتي / Djibouti"
 official_name:
 - "جمهورية جيبوتي"
 - "République de Djibouti"
-  - Jabuuti
+- Jabuuti
 native_label:
 - "جمهورية جيبوتي"
 - "République de Djibouti"
-  - Jabuuti
+- Jabuuti
 short_name: "\U0001F1E9\U0001F1EF"
 nominal_GDP:
   - 3372287462

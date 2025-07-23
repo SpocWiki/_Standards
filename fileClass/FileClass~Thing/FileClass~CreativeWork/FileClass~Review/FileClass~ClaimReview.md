@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ClaimReview
-  - class/Thing/CreativeWork/Review/ClaimReview
-  - is_a_/ClaimReview
-  - schema-org/ClaimReview
-tags:
-  - class/FileClass
-  - class/ClaimReview
-  - is_a_/ClaimReview
-  - class/Thing/CreativeWork/Review/ClaimReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields:
-  - id: 4KLInd
-    name: ClaimReviewed
-    options: {}
-    type: Input
-    path: ""
+- id: 4KLInd
+  name: ClaimReviewed
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ClaimReview
+- class/Thing/CreativeWork/Review/ClaimReview
+- is_a_/ClaimReview
+- schema-org/ClaimReview
+tags:
+- class/FileClass
+- class/ClaimReview
+- is_a_/ClaimReview
+- class/Thing/CreativeWork/Review/ClaimReview
+version: 2.0
 ---
 
 # ClaimReview

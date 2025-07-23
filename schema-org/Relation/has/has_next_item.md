@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_next_item
-
-linkTitle: has_next_item
-keywords: [next, item]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - next-item
 - next_item
 - nextItem
 - has_next_item
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- next
+- item
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_next_item
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_next_item
+type: Predi_Relation
 ---
 
 # [[has_next_item]] 

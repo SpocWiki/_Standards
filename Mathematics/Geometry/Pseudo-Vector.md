@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - axial vector
+- "axial vector"
 ---
 
 # [[Pseudo-Vector]] 

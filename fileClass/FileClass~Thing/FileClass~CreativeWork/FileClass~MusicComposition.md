@@ -1,78 +1,78 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: music
-version: "2.0"
-tagNames:
-  - class/MusicComposition
-  - class/Thing/CreativeWork/MusicComposition
-  - is_a_/MusicComposition
-  - schema-org/MusicComposition
-tags:
-  - class/FileClass
-  - class/MusicComposition
-  - is_a_/MusicComposition
-  - class/Thing/CreativeWork/MusicComposition
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 3lbTAk
-    name: Composer
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: S2KkBB
-    name: FirstPerformance
-    options:
-      dvQueryString: dv.pages('#class/Thing/Event')
-    type: MultiFile
-    path: ""
-  - id: 7WZx4W
-    name: IncludedComposition
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')
-    type: MultiFile
-    path: ""
-  - id: yT1JOk
-    name: IswcCode
-    options: {}
-    type: Input
-    path: ""
-  - id: U4LcYr
-    name: Lyricist
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: vMJf3Q
-    name: Lyrics
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
-  - id: evAgWY
-    name: MusicArrangement
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')
-    type: MultiFile
-    path: ""
-  - id: PMOGSj
-    name: MusicCompositionForm
-    options: {}
-    type: Input
-    path: ""
-  - id: qRFyWJ
-    name: MusicalKey
-    options: {}
-    type: Input
-    path: ""
-  - id: GL7y5F
-    name: RecordedAs
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicRecording')
-    type: MultiFile
-    path: ""
+- id: 3lbTAk
+  name: Composer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: S2KkBB
+  name: FirstPerformance
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Event')"
+  type: MultiFile
+  path: ''
+- id: 7WZx4W
+  name: IncludedComposition
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicComposition')"
+  type: MultiFile
+  path: ''
+- id: yT1JOk
+  name: IswcCode
+  options: {}
+  type: Input
+  path: ''
+- id: U4LcYr
+  name: Lyricist
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: vMJf3Q
+  name: Lyrics
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+- id: evAgWY
+  name: MusicArrangement
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicComposition')"
+  type: MultiFile
+  path: ''
+- id: PMOGSj
+  name: MusicCompositionForm
+  options: {}
+  type: Input
+  path: ''
+- id: qRFyWJ
+  name: MusicalKey
+  options: {}
+  type: Input
+  path: ''
+- id: GL7y5F
+  name: RecordedAs
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicRecording')"
+  type: MultiFile
+  path: ''
+icon: music
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MusicComposition
+- class/Thing/CreativeWork/MusicComposition
+- is_a_/MusicComposition
+- schema-org/MusicComposition
+tags:
+- class/FileClass
+- class/MusicComposition
+- is_a_/MusicComposition
+- class/Thing/CreativeWork/MusicComposition
+version: 2.0
 ---
 
 # MusicComposition

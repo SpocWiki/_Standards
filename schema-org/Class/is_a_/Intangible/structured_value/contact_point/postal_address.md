@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_postal_address Class
-linkTitle: is_a_postal_address Class
-
-keywords: [postal_address]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - postal-address
 - postal_address
 - PostalAddress
 - is_a_postal_address
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- postal_address
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_postal_address Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_postal_address Class"
+type: Type
 ---
 
 Class of all postal_addresss.

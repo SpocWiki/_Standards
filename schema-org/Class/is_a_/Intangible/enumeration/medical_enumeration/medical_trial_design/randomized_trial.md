@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_randomized_trial Class
-linkTitle: is_a_randomized_trial Class
-
-keywords: [randomized_trial]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalTrialDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - randomized-trial
 - randomized_trial
 - RandomizedTrial
 - is_a_randomized_trial
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalTrialDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- randomized_trial
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_randomized_trial Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_randomized_trial Class"
+type: Type
 ---
 
 Class of all randomized_trials.

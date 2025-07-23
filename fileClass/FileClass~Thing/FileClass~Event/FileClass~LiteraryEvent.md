@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: book-copy
-version: "2.0"
-tagNames:
-  - class/LiteraryEvent
-  - class/Thing/Event/LiteraryEvent
-  - is_a_/LiteraryEvent
-  - schema-org/LiteraryEvent
-tags:
-  - class/FileClass
-  - class/LiteraryEvent
-  - is_a_/LiteraryEvent
-  - class/Thing/Event/LiteraryEvent
 extends: FileClass~Thing/FileClass~Event
 fields: []
+icon: book-copy
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LiteraryEvent
+- class/Thing/Event/LiteraryEvent
+- is_a_/LiteraryEvent
+- schema-org/LiteraryEvent
+tags:
+- class/FileClass
+- class/LiteraryEvent
+- is_a_/LiteraryEvent
+- class/Thing/Event/LiteraryEvent
+version: 2.0
 ---
 
 # LiteraryEvent

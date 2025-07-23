@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_tuesday Class
-linkTitle: is_a_tuesday Class
-
-keywords: [tuesday]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DayOfWeek
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - tuesday
 - tuesday
 - Tuesday
 - is_a_tuesday
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DayOfWeek
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tuesday
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_tuesday Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_tuesday Class"
+type: Type
 ---
 
 Class of all tuesdays.

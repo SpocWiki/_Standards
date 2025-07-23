@@ -1,30 +1,28 @@
----
-location: [ 60.3 , 20.4 ] 
-type: geo-Region
-title: Vårdö
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country/Region
+﻿---
 aliases:
 - Vårdö
-
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
 layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 60.3
+- 20.4
+publish: true
 publishDate: 
-expiryDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country/Region
+title: Vårdö
+type: geo-Region
 ---
 
 # Vårdö

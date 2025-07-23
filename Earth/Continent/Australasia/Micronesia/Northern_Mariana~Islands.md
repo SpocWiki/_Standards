@@ -1,43 +1,42 @@
 ---
-location:
-    - 15.1833
-    - 145.75
-type: Country
-tags:
-    - geo/Country
-has_id_wikidata: Q16644 
-SpocWebEntityId: 26966
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
-publish: true
-title: Northern Mariana Islands
-linkTitle: null
-keywords: null
-layout: null
-draft: false
-publishDate: null
-expiryDate: null
 aliases:
-    - Northern Mariana Islands
-    - Islas Marianas Septentrionales
-    - Îles Mariannes du Nord
-    - جزر ماريانا الشمالية
-    - 北马里亚纳群岛
-    - Северные Марианские острова
-    - null
-Languages:
-    - fil
-    - tl
-    - zh
-    - ch-MP
-    - en-MP
+- "Northern Mariana Islands"
+- "Islas Marianas Septentrionales"
+- "Îles Mariannes du Nord"
+- "جزر ماريانا الشمالية"
+- 北马里亚纳群岛
+- "Северные Марианские острова"
+- 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+has_id_wikidata: Q16644
 icon: flag-mp
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- fil
+- tl
+- zh
+- ch-MP
+- en-MP
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 15.1833
+- 145.75
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26966
+tags:
+- geo/Country
+title: "Northern Mariana Islands"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - William Goldman
+- "William Goldman"
 ---
 
 #has_/time_/started ::  1931-08-12 

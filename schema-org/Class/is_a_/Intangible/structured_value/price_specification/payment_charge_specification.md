@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_payment_charge_specification Class
-linkTitle: is_a_payment_charge_specification Class
-
-keywords: [payment_charge_specification]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - payment-charge-specification
 - payment_charge_specification
 - PaymentChargeSpecification
 - is_a_payment_charge_specification
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- payment_charge_specification
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_payment_charge_specification Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_payment_charge_specification Class"
+type: Type
 ---
 
 Class of all payment_charge_specifications.

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_part_of_order
-
-linkTitle: is_part_of_order
-keywords: [part, of, order]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - part-of-order
 - part_of_order
 - partOfOrder
 - is_part_of_order
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- part
+- of
+- order
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_part_of_order
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_part_of_order
+type: Predi_Relation
 ---
 
 Use it like this: 

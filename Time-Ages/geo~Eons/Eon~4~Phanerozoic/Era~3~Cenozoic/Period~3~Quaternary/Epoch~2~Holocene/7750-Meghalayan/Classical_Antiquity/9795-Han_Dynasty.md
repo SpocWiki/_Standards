@@ -1,56 +1,56 @@
----
-has_id_wikidata: Q7209
+﻿---
 aliases:
-  - "Han Dynasty"
+- "Han Dynasty"
 area: 6000000
 basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
 capital:
-  - '[[_Standards/WikiData/WD~Luoyang,187136]]'
-  - '[[_Standards/WikiData/WD~Xuchang,404529]]'
-  - "[[_Standards/WikiData/WD~Chang'an,6501000]]"
+- '[[_Standards/WikiData/WD~Luoyang,187136]]'
+- '[[_Standards/WikiData/WD~Xuchang,404529]]'
+- "[[_Standards/WikiData/WD~Chang'an,6501000]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20on%20Imperial%20Seal%20of%20China%20%22%E5%8F%97%E5%91%BD%E6%96%BC%E5%A4%A9%20%E6%97%A2%E5%A3%BD%E6%B0%B8%E6%98%8C%22.svg"
 Commons_category: "Han Dynasty"
 Commons_gallery: 漢朝
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 coordinate_location: "Point(108.857222222 34.304444444)"
-country: "[[_Standards/WikiData/WD~Chinese_Empire,12060881]]"
+country: '[[_Standards/WikiData/WD~Chinese_Empire,12060881]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Han,123576003]]'
-  - '[[_Standards/WikiData/WD~Han,1574130]]'
-dissolved_abolished_or_demolished_date: "0220"
+- '[[_Standards/WikiData/WD~Han,123576003]]'
+- '[[_Standards/WikiData/WD~Han,1574130]]'
+dissolved_abolished_or_demolished_date: 0220
 followed_by:
-  - "[[_Standards/WikiData/WD~Cao_Wei,320930]]"
-  - "[[_Standards/WikiData/WD~Eastern_Wu,274488]]"
-  - "[[_Standards/WikiData/WD~Shu_Han,320925]]"
-has_part_s_: "[[_Standards/WikiData/WD~Western_Han,1072949]]"
+- '[[_Standards/WikiData/WD~Cao_Wei,320930]]'
+- '[[_Standards/WikiData/WD~Eastern_Wu,274488]]'
+- '[[_Standards/WikiData/WD~Shu_Han,320925]]'
+has_id_wikidata: Q7209
+has_part_s_: '[[_Standards/WikiData/WD~Western_Han,1072949]]'
 has_time_started: -0205
 has_time_stopped: 0220
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Han_dynasty,15709899]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Han_dynasty,15709899]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Summer%20Vacation%202007%2C%20263%2C%20Watchtower%20In%20The%20Morning%20Light%2C%20Dunhuang%2C%20Gansu%20Province.jpg"
-inception: "-0205"
+inception: -0205
 instance_of:
-  - "[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]"
-  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+- '[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]'
+- '[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
 Library_of_Congress_Classification: DS748-DS748.164
 locator_map_image:
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20Dynasty%20100%20BCE.png"
-  - "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20map.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20Dynasty%20100%20BCE.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20map.jpg"
 named_after: '[[_Standards/WikiData/WD~Han,1574130]]'
 native_label: 漢朝
-part_of: "[[_Standards/WikiData/WD~Early_Imperial_China,5326669]]"
+part_of: '[[_Standards/WikiData/WD~Early_Imperial_China,5326669]]'
 population:
-  - 56486856
-  - 59594978
-replaces: "[[_Standards/WikiData/WD~Qin_dynasty,7183]]"
+- 56486856
+- 59594978
+replaces: '[[_Standards/WikiData/WD~Qin_dynasty,7183]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/EN-Han%20dynasty-article.ogg"
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q20694828,20694828]]'
-  - "[[_Standards/WikiData/WD~Template_Han_dynasty_topics,14336069]]"
+- '[[_Standards/WikiData/WD~Q20694828,20694828]]'
+- '[[_Standards/WikiData/WD~Template_Han_dynasty_topics,14336069]]'
 ---
 
 # [[9795-Han_Dynasty]] 

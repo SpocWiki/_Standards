@@ -1,5 +1,5 @@
----
-has_member:
+﻿---
+has_member: 
 ---
 
 > Kiss (often styled as KISS) was an American rock band formed in New York City in 1973 

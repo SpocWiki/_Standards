@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Janet Leigh
-  - Jeanette Helen Morrison
+- "Janet Leigh"
+- "Jeanette Helen Morrison"
 ---
 
 #is_/parent_of :: [[Curtis,Jamie_Lee]] 

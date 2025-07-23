@@ -171,7 +171,7 @@ motto_text:
 - "Paz y justicia"
 official_name:
 - "République du Paraguay"
-  - Paraguay
+- Paraguay
 short_name: "\U0001F1F5\U0001F1FE"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Paraguay.webm"
 ISNI: 0000000123088111
@@ -326,10 +326,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Paraguay
-    - باراغواي
-    - 巴拉圭
-    - Парагвай
+- Paraguay
+- باراغواي
+- 巴拉圭
+- Парагвай
 - "the Republic of Paraguay"
 - "la República del Paraguay"
 - "Paraguay (el)"

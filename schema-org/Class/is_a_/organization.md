@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- organization
+- organization
+- Organization
+- is_an_organization
+- "dbo:Organization"
+- "schema:Organization"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_an_organization Class
-linkTitle: is_an_organization Class
 keywords:
-  - organization
+- organization
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_organization Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - organization
-  - organization
-  - Organization
-  - is_an_organization
-  - dbo:Organization
-  - schema:Organization
+- class/Class
+- schema-org/Class
+title: "is_an_organization Class"
+type: Type
 ---
 
 [[../../Class|Class]] of all organizations.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_eu_energy_efficiency_category_a Class
-linkTitle: is_an_eu_energy_efficiency_category_a Class
-
-keywords: [eu_energy_efficiency_category_a]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EUEnergyEfficiencyEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - eu-energy-efficiency-category-a
 - eu_energy_efficiency_category_a
 - EUEnergyEfficiencyCategoryA
 - is_an_eu_energy_efficiency_category_a
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EUEnergyEfficiencyEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- eu_energy_efficiency_category_a
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_eu_energy_efficiency_category_a Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_eu_energy_efficiency_category_a Class"
+type: Type
 ---
 
 Class of all eu_energy_efficiency_category_as.

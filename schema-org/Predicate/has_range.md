@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- range-includes
+- range_includes
+- rangeIncludes
+- has_range_includes
+- "rdfs:range"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_range_includes
-linkTitle: has_range_includes
 keywords:
-  - range
-  - includes
+- range
+- includes
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_range_includes
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Relation
-aliases:
-  - range-includes
-  - range_includes
-  - rangeIncludes
-  - has_range_includes
-  - rdfs:range
+- schema-org/Relation
+title: has_range_includes
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: https://meta.schema.org ] 

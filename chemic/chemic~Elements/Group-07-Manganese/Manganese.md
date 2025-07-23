@@ -1,71 +1,46 @@
----
-type: Element
-SpocWebEntityId: 21925
-has_id_wikidata: Q731
-U_S_National_Archives_Identifier: 10647456
-EC_number: 231-105-1
-UNII: 42Z2K6ZL8P
-CAS_Registry_Number: 7439-96-5
-UMLS_CUI: C0024706
-MeSH_tree_code:
-- D01.268.556.484
-- D01.268.956.374
-- D01.552.544.484
-DSSTOX_compound_identifier: DTXCID004169
-InChI: InChI=1S/Mn
-Commons_gallery: Manganese
-Commons_category: Manganese
-Krugosvet_article: nauka_i_tehnika/himiya/MARGANETS.html
-RTECS_number: OO9275000
-InChIKey: PWHULOQIROXLJO-UHFFFAOYSA-N
-Unicode_character: 錳
-CPV_Supplementary_code: AA15
-mass: 54.938043
-time_of_discovery_or_invention: "1774"
-part_of:
-- "[[_Standards/WikiData/WD~group_7,202602]]"
-- "[[_Standards/WikiData/WD~period_4,239825]]"
-named_after: "[[_Standards/WikiData/WD~Magnesia_Prefecture,205668]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]"
-made_from_material:
-- '[[_Standards/WikiData/WD~rhodochrosite,409793]]'
-- '[[_Standards/WikiData/WD~pyrolusite,413293]]'
-- '[[_Standards/WikiData/WD~psilomelane,419315]]'
-- "[[_Standards/WikiData/WD~manganese_nodule,939579]]"
-- "[[_Standards/WikiData/WD~braunite_mineral_group,3777638]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-- '[[_Standards/WikiData/WD~Manganese,84690326]]'
-found_in_taxon:
-- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
-- '[[_Standards/WikiData/WD~garlic,23400]]'
-- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]"
+﻿---
 associated_hazard:
 - '[[_Standards/WikiData/WD~manganism,2480013]]'
-- "[[_Standards/WikiData/WD~manganese_exposure,21174827]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15679771,15679771]]'
-has_effect: "[[_Standards/WikiData/WD~manganese_exposure,21174827]]"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20cross%20section%20of%20pure%20manganese%20block%20is%20quite%20bright%20and%20very%20brittle.webm"
-different_from: '[[_Standards/WikiData/WD~magnesium,660]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-vapor_pressure: 0
-time_weighted_average_exposure_limit: 1
-oxidation_state: 2
-short_term_exposure_limit: 3
-immediately_dangerous_to_life_or_health: 500
-ceiling_exposure_limit: 5
+- '[[_Standards/WikiData/WD~manganese_exposure,21174827]]'
 atomic_number: 25
+boiling_point:
+- 1961
+- 3564
+canonical_SMILES: '[Mn]'
+CAS_Registry_Number: 7439-96-5
+ceiling_exposure_limit: 5
+chemical_formula: Mn
+Commons_category: Manganese
+Commons_gallery: Manganese
+CPV_Supplementary_code: AA15
+density: 7.2
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Manganese,84690326]]'
+different_from: '[[_Standards/WikiData/WD~magnesium,660]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]'
+DSSTOX_compound_identifier: DTXCID004169
+EC_number: 231-105-1
+electronegativity: 1.55
+electron_configuration: "[Ar] 3d⁵ 4s²"
+element_symbol: Mn
+found_in_taxon:
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~garlic,23400]]'
+- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+has_effect: '[[_Standards/WikiData/WD~manganese_exposure,21174827]]'
+has_id_wikidata: Q731
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Manganese%20electrolytic%20and%201cm3%20cube.jpg"
+immediately_dangerous_to_life_or_health: 500
+InChI: InChI=1S/Mn
+InChIKey: PWHULOQIROXLJO-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.25
 - 0.26
@@ -76,22 +51,47 @@ ionic_radius:
 - 0.66
 - 0.83
 - 0.96
-density: 7.2
-electronegativity: 1.55
+Krugosvet_article: nauka_i_tehnika/himiya/MARGANETS.html
+made_from_material:
+- '[[_Standards/WikiData/WD~rhodochrosite,409793]]'
+- '[[_Standards/WikiData/WD~pyrolusite,413293]]'
+- '[[_Standards/WikiData/WD~psilomelane,419315]]'
+- '[[_Standards/WikiData/WD~manganese_nodule,939579]]'
+- '[[_Standards/WikiData/WD~braunite_mineral_group,3777638]]'
+mass: 54.938043
+medical_condition_treated: '[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]'
 melting_point:
 - 1243
 - 2271
-boiling_point:
-- 1961
-- 3564
-ZVG_number: 8200
-PubChem_CID: 23930
-canonical_SMILES: '[Mn]'
-chemical_formula: Mn
-element_symbol: Mn
+MeSH_tree_code:
+- D01.268.556.484
+- D01.268.956.374
+- D01.552.544.484
+named_after: '[[_Standards/WikiData/WD~Magnesia_Prefecture,205668]]'
 OmegaWiki_Defined_Meaning: 332320
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Manganese%20electrolytic%20and%201cm3%20cube.jpg"
-electron_configuration: "[Ar] 3d⁵ 4s²"
+oxidation_state: 2
+part_of:
+- '[[_Standards/WikiData/WD~group_7,202602]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
+PubChem_CID: 23930
+RTECS_number: OO9275000
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15679771,15679771]]'
+short_term_exposure_limit: 3
+SpocWebEntityId: 21925
+subclass_of:
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+time_of_discovery_or_invention: 1774
+time_weighted_average_exposure_limit: 1
+type: Element
+UMLS_CUI: C0024706
+Unicode_character: 錳
+UNII: 42Z2K6ZL8P
+U_S_National_Archives_Identifier: 10647456
+vapor_pressure: 0
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20cross%20section%20of%20pure%20manganese%20block%20is%20quite%20bright%20and%20very%20brittle.webm"
+ZVG_number: 8200
 ---
 
 #chemic/Element 

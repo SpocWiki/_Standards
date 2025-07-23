@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: warehouse
-version: "2.0"
-tagNames:
-  - class/SelfStorage
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage
-  - is_a_/SelfStorage
-  - schema-org/SelfStorage
-tags:
-  - class/FileClass
-  - class/SelfStorage
-  - is_a_/SelfStorage
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: warehouse
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SelfStorage
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage
+- is_a_/SelfStorage
+- schema-org/SelfStorage
+tags:
+- class/FileClass
+- class/SelfStorage
+- is_a_/SelfStorage
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage
+version: 2.0
 ---
 
 # SelfStorage

@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Roger Moore 
-  - Roger George Moore 
-  - Sir Roger George Moore 
+- "Roger Moore"
+- "Roger George Moore"
+- "Sir Roger George Moore"
 ---
 
 # [[Moore,Roger]] 

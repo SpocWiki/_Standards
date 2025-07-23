@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_reservation_accepted
-linkTitle: is_reservation_accepted
-
-keywords: [reservation_accepted]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - reservation-accepted
 - reservation_accepted
 - acceptsReservations
 - is_reservation_accepted
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- reservation_accepted
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_reservation_accepted
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_reservation_accepted
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

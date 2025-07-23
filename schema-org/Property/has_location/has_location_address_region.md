@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_location_address_region
-linkTitle: has_location_address_region
-
-keywords: [address, region]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - address-region
 - address_region
 - addressRegion
 - has_location_address_region
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- address
+- region
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_address_region
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_location_address_region
+type: Pred_Text
 ---
 
 Predicate to describe the Text of DefinedRegion, PostalAddress.

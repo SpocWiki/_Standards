@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_aggregate_offer Class
-linkTitle: is_an_aggregate_offer Class
-
-keywords: [aggregate_offer]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - aggregate-offer
 - aggregate_offer
 - AggregateOffer
 - is_an_aggregate_offer
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- aggregate_offer
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_aggregate_offer Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_aggregate_offer Class"
+type: Type
 ---
 
 Class of all aggregate_offers.

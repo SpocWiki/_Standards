@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - High Middle Ages
-  - High Medieval Period
+- "High Middle Ages"
+- "High Medieval Period"
 ---
 
 #is_a_/time_/Culture 

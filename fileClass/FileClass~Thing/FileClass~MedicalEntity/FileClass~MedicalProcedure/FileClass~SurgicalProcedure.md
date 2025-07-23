@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SurgicalProcedure
-  - class/Thing/MedicalEntity/MedicalProcedure/SurgicalProcedure
-  - is_a_/SurgicalProcedure
-  - schema-org/SurgicalProcedure
-tags:
-  - class/FileClass
-  - class/SurgicalProcedure
-  - is_a_/SurgicalProcedure
-  - class/Thing/MedicalEntity/MedicalProcedure/SurgicalProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SurgicalProcedure
+- class/Thing/MedicalEntity/MedicalProcedure/SurgicalProcedure
+- is_a_/SurgicalProcedure
+- schema-org/SurgicalProcedure
+tags:
+- class/FileClass
+- class/SurgicalProcedure
+- is_a_/SurgicalProcedure
+- class/Thing/MedicalEntity/MedicalProcedure/SurgicalProcedure
+version: 2.0
 ---
 
 # SurgicalProcedure

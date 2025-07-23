@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
 - "Germanic languages"
 Wikidata_property: Q21200

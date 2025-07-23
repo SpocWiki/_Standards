@@ -1,46 +1,46 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/NewsArticle
-  - class/Thing/CreativeWork/Article/NewsArticle
-  - is_a_/NewsArticle
-  - schema-org/NewsArticle
-tags:
-  - class/FileClass
-  - class/NewsArticle
-  - is_a_/NewsArticle
-  - class/Thing/CreativeWork/Article/NewsArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields:
-  - id: LhT1MK
-    name: Dateline
-    options: {}
-    type: Input
-    path: ""
-  - id: fwZEcC
-    name: PrintColumn
-    options: {}
-    type: Input
-    path: ""
-  - id: y0IGtw
-    name: PrintEdition
-    options: {}
-    type: Input
-    path: ""
-  - id: 6tIJbT
-    name: PrintPage
-    options: {}
-    type: Input
-    path: ""
-  - id: R9pWVf
-    name: PrintSection
-    options: {}
-    type: Input
-    path: ""
+- id: LhT1MK
+  name: Dateline
+  options: {}
+  type: Input
+  path: ''
+- id: fwZEcC
+  name: PrintColumn
+  options: {}
+  type: Input
+  path: ''
+- id: y0IGtw
+  name: PrintEdition
+  options: {}
+  type: Input
+  path: ''
+- id: 6tIJbT
+  name: PrintPage
+  options: {}
+  type: Input
+  path: ''
+- id: R9pWVf
+  name: PrintSection
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/NewsArticle
+- class/Thing/CreativeWork/Article/NewsArticle
+- is_a_/NewsArticle
+- schema-org/NewsArticle
+tags:
+- class/FileClass
+- class/NewsArticle
+- is_a_/NewsArticle
+- class/Thing/CreativeWork/Article/NewsArticle
+version: 2.0
 ---
 
 # NewsArticle

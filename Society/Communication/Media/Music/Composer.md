@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Composers
+- Composers
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_suspended Class
-linkTitle: is_a_suspended Class
-
-keywords: [suspended]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalStudyStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - suspended
 - suspended
 - Suspended
 - is_a_suspended
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalStudyStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- suspended
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_suspended Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_suspended Class"
+type: Type
 ---
 
 Class of all suspendeds.

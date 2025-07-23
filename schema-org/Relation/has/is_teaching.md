@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- teaches
+- is_teaching
+- "schema:teaches"
+- "dbo:teaches"
+- "wdt:P800"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_teaches
-linkTitle: has_teaches
 keywords:
-  - teaches
+- teaches
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_teaches
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - teaches
-  - is_teaching 
-  - schema:teaches
-  - dbo:teaches
-  - wdt:P800
+- class/Relation
+- schema-org/Relation
+title: has_teaches
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

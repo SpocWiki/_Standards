@@ -1,6 +1,7 @@
+﻿---
+title: "Amastigomonas debruynei"
 ---
-title: Amastigomonas debruynei
----
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

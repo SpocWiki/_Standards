@@ -28,8 +28,8 @@ aliases:
   - إثيوبيا
   - 埃塞俄比亚
   - Эфиопия
-- "the Federal Democratic Republic of Ethiopia"
-- "la República Democrática Federal de Etiopía"
+  - "the Federal Democratic Republic of Ethiopia"
+  - "la República Democrática Federal de Etiopía"
 Languages:
   - am
   - en-ET
@@ -120,7 +120,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Nayi,3183349]]'
 - '[[_Standards/WikiData/WD~Sheko,3183355]]'
 - '[[_Standards/WikiData/WD~Opuo,3354339]]'
-  - "[[_Standards/WikiData/WD~Me'en,3408516]]"
+- "[[_Standards/WikiData/WD~Me'en,3408516]]"
 - '[[_Standards/WikiData/WD~Karo,3447116]]'
 - "[[_Standards/WikiData/WD~Ethiopian_Sign_Language,3501903]]"
 - '[[_Standards/WikiData/WD~Mesmes,3508617]]'
@@ -167,7 +167,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Dizin,35313]]'
 - '[[_Standards/WikiData/WD~Kafa,35481]]'
 - '[[_Standards/WikiData/WD~Qimant,35663]]'
-  - "[[_Standards/WikiData/WD~Ge'ez,35667]]"
+- "[[_Standards/WikiData/WD~Ge'ez,35667]]"
 - '[[_Standards/WikiData/WD~Kambaata,35664]]'
 - '[[_Standards/WikiData/WD~Libido,35691]]'
 - '[[_Standards/WikiData/WD~Inor,35763]]'

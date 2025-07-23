@@ -1,24 +1,24 @@
----
-has_id_wikidata: Q9476
+﻿---
+Colon_Classification: "Q:352"
+Commons_category: "Free will"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-facet_of: '[[_Standards/WikiData/WD~will,364340]]'
-instance_of:
-- "[[_Standards/WikiData/WD~religious_concept,23847174]]"
-- "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 does_not_have_characteristic: '[[_Standards/WikiData/WD~limitation,105766481]]'
+facet_of: '[[_Standards/WikiData/WD~will,364340]]'
+has_characteristic: '[[_Standards/WikiData/WD~liberty,2979]]'
+has_id_wikidata: Q9476
+instance_of:
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+PhilPapers_topic: free-will
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Freewill.ogg"
 Stack_Exchange_tag:
 - "https://philosophy.stackexchange.com/tags/free-will"
 - "https://physics.stackexchange.com/tags/free-will"
-PhilPapers_topic: free-will
-Colon_Classification: "Q:352"
-has_characteristic: '[[_Standards/WikiData/WD~liberty,2979]]'
-Commons_category: "Free will"
 ---
 
 ## #has_/text_of_/abstract 

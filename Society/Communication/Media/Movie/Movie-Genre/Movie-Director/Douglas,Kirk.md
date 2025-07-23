@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Kirk Douglas
-  - Issur Danielovitch
+- "Kirk Douglas"
+- "Issur Danielovitch"
 ---
-
 
 #has_/time_/started :: 1916-12-09 
 #has_/time_/stopped :: 2020-02-05 

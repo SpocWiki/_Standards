@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_measurement_collar Class
-linkTitle: is_a_wearable_measurement_collar Class
-
-keywords: [wearable_measurement_collar]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-measurement-collar
 - wearable_measurement_collar
 - WearableMeasurementCollar
 - is_a_wearable_measurement_collar
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_measurement_collar
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_measurement_collar Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_measurement_collar Class"
+type: Type
 ---
 
 Class of all wearable_measurement_collars.

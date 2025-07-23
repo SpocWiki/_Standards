@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_order_status Class
-linkTitle: is_an_order_status Class
-
-keywords: [order_status]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - order-status
 - order_status
 - OrderStatus
 - is_an_order_status
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- order_status
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_order_status Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_order_status Class"
+type: Type
 ---
 
 Class of all order_statuss.

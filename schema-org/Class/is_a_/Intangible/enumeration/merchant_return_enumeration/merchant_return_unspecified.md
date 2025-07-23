@@ -1,38 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_merchant_return_unspecified Class
-linkTitle: is_a_merchant_return_unspecified Class
-
-keywords: [merchant_return_unspecified]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MerchantReturnEnumeration
-
-supersedes: ProductReturnUnspecified
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - merchant-return-unspecified
 - merchant_return_unspecified
 - MerchantReturnUnspecified
 - is_a_merchant_return_unspecified
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MerchantReturnEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- merchant_return_unspecified
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_merchant_return_unspecified Class"
+publish: true
+publishDate: 
+supersedes: ProductReturnUnspecified
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_merchant_return_unspecified Class"
+type: Type
 ---
 
 Class of all merchant_return_unspecifieds.

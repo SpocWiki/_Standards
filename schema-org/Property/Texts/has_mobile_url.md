@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_mobile_url
-linkTitle: has_text_of_mobile_url
-
-keywords: [mobile, url]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - mobile-url
 - mobile_url
 - mobileUrl
 - has_text_of_mobile_url
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mobile
+- url
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_mobile_url
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_mobile_url
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Offer, Product.

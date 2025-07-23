@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_defined_term
-
-linkTitle: has_defined_term
-keywords: [defined, term]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-defined-term
 - defined_term
 - hasDefinedTerm
 - has_defined_term
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- defined
+- term
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_defined_term
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_defined_term
+type: Predi_Relation
 ---
 
 A [[../../Class/is_a_/Intangible/defined_term|defined_term]] contained in this term set.

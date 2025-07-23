@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_pulmonary Class
-linkTitle: is_a_pulmonary Class
-
-keywords: [pulmonary]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - pulmonary
 - pulmonary
 - Pulmonary
 - is_a_pulmonary
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pulmonary
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_pulmonary Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_pulmonary Class"
+type: Type
 ---
 
 Class of all pulmonarys.

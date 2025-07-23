@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Foo Fighters
+- "Foo Fighters"
 ---
 
 ## #has_/text_of_/abstract 

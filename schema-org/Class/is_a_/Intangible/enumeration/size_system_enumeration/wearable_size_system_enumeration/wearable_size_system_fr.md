@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_system_fr Class
-linkTitle: is_a_wearable_size_system_fr Class
-
-keywords: [wearable_size_system_fr]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeSystemEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-system-fr
 - wearable_size_system_fr
 - WearableSizeSystemFR
 - is_a_wearable_size_system_fr
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeSystemEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_system_fr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_system_fr Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_system_fr Class"
+type: Type
 ---
 
 Class of all wearable_size_system_frs.

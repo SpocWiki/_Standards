@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- audience
+- audience
+- Audience
+- is_an_audience
+- "schema:audience"
+- "dbo:audience"
+- "wdt:P2360"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_an_audience Class
-linkTitle: is_an_audience Class
 keywords:
-  - audience
+- audience
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_audience Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - audience
-  - audience
-  - Audience
-  - is_an_audience
-  - schema:audience
-  - dbo:audience
-  - wdt:P2360
+- class/Class
+- schema-org/Class
+title: "is_an_audience Class"
+type: Type
 ---
 
 Class of all intended audiences for an item, 

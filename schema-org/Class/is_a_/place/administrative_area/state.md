@@ -1,59 +1,48 @@
----
-license: "CC BY-SA 4.0"
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses: Type
-publish: true
-type: Type
-title: "is_a_state Class"
-linkTitle: "is_a_state Class"
-keywords:
-- state
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-tags:
-- class/Class
-- schema-org/Class
+﻿---
 aliases:
 - state
 - state
 - State
 - is_a_state
-has_id_wikidata: Q7275
-P8979: Q12310
+BHCL_UUID: e8931adb-4650-49f1-a2f2-460122c17ac3
+Commons_category: States
+confidential: public
+cssclasses: Type
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- "[[_Standards/WikiData/WD~federated_state,107390]]"
+- '[[_Standards/WikiData/WD~federated_state,107390]]'
 - '[[_Standards/WikiData/WD~nationality,231002]]'
-- "[[_Standards/WikiData/WD~constituent_state,1763527]]"
+- '[[_Standards/WikiData/WD~constituent_state,1763527]]'
 - '[[_Standards/WikiData/WD~Halth,2324272]]'
 - '[[_Standards/WikiData/WD~state,3505845]]'
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- "[[_Standards/WikiData/WD~self-proclaimed_state,21512251]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~self-proclaimed_state,21512251]]'
 - '[[_Standards/WikiData/WD~country,6256]]'
 - '[[_Standards/WikiData/WD~government,7188]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~juridical_person,155076]]"
-- '[[_Standards/WikiData/WD~community,177634]]'
-- "[[_Standards/WikiData/WD~political_territorial_entity,1048835]]"
-- "[[_Standards/WikiData/WD~subject_of_international_law,1896989]]"
-- "[[_Standards/WikiData/WD~former_or_current_state,96196009]]"
-part_of: "[[_Standards/WikiData/WD~nation_state,179671]]"
-named_after: '[[_Standards/WikiData/WD~orb,461585]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-owner_of:
-- "[[_Standards/WikiData/WD~state_property,2396633]]"
-- "[[_Standards/WikiData/WD~public_treasury,11953074]]"
+draft: false
+expiryDate: 
+has_id_wikidata: Q7275
 has_part_s_: '[[_Standards/WikiData/WD~embassy,3917681]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_country,5621162]]"
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9798786,9798786]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg"
+isDeleted: false
+isReadOnly: false
+keywords:
+- state
+Krugosvet_article: istoriya/GOSUDARSTVO.html
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_state Class"
+named_after: '[[_Standards/WikiData/WD~orb,461585]]'
+OmegaWiki_Defined_Meaning: 3609
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+owner_of:
+- '[[_Standards/WikiData/WD~state_property,2396633]]'
+- '[[_Standards/WikiData/WD~public_treasury,11953074]]'
+P8979: Q12310
+part_of: '[[_Standards/WikiData/WD~nation_state,179671]]'
 properties_for_this_type:
 - "foundational text"
 - "diplomatic relation"
@@ -84,12 +73,23 @@ properties_for_this_type:
 - "highest judicial authority"
 - "coat of arms"
 - "locator map image"
+publish: true
+publishDate: 
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~country,6256]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~juridical_person,155076]]'
+- '[[_Standards/WikiData/WD~community,177634]]'
+- '[[_Standards/WikiData/WD~political_territorial_entity,1048835]]'
+- '[[_Standards/WikiData/WD~subject_of_international_law,1896989]]'
+- '[[_Standards/WikiData/WD~former_or_current_state,96196009]]'
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_state Class"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9798786,9798786]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_country,5621162]]'
+type: Type
 Wikidata_property: country
-OmegaWiki_Defined_Meaning: 3609
-Commons_category: States
-BHCL_UUID: e8931adb-4650-49f1-a2f2-460122c17ac3
-Krugosvet_article: istoriya/GOSUDARSTVO.html
 ---
 
 # [[State]] 

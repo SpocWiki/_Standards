@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ConsumeAction
-  - class/Thing/Action/ConsumeAction
-  - is_a_/ConsumeAction
-  - schema-org/ConsumeAction
-tags:
-  - class/FileClass
-  - class/ConsumeAction
-  - is_a_/ConsumeAction
-  - class/Thing/Action/ConsumeAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: 0G1HRg
-    name: ActionAccessibilityRequirement
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ActionAccessSpecification')
-    type: MultiFile
-    path: ""
-  - id: vyIdbm
-    name: ExpectsAcceptanceOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
-    type: MultiFile
-    path: ""
+- id: 0G1HRg
+  name: ActionAccessibilityRequirement
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/ActionAccessSpecification')"
+  type: MultiFile
+  path: ''
+- id: vyIdbm
+  name: ExpectsAcceptanceOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Offer')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ConsumeAction
+- class/Thing/Action/ConsumeAction
+- is_a_/ConsumeAction
+- schema-org/ConsumeAction
+tags:
+- class/FileClass
+- class/ConsumeAction
+- is_a_/ConsumeAction
+- class/Thing/Action/ConsumeAction
+version: 2.0
 ---
 
 # ConsumeAction

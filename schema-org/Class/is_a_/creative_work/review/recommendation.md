@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_recommendation Class
-linkTitle: is_a_recommendation Class
-
-keywords: [recommendation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - recommendation
 - recommendation
 - Recommendation
 - is_a_recommendation
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- recommendation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_recommendation Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_recommendation Class"
+type: Type
 ---
 
 Class of all recommendations.

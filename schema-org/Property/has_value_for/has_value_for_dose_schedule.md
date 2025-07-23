@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_dose-schedule
-linkTitle: has_dose-schedule
-
-keywords: [dose-schedule]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - dose_schedule
 - dose-schedule
 - doseSchedule
 - has_value_for_dose_schedule
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dose-schedule
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_dose-schedule
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_dose-schedule
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Drug, TherapeuticProcedure.

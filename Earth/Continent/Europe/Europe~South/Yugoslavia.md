@@ -1,13 +1,13 @@
----
-location: [43.9957,17.6905]
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 43.9957
+- 17.6905
+SpocWebEntityId: 27061
 tags:
 - geo/Country
-
-SpocWebEntityId: 27061
-isDeleted: false
-confidential: public
-
+type: Country
 ---
 
 #has_/time_/started :: 1918-12-01 

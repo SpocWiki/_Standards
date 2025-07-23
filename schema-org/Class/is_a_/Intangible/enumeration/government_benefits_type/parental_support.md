@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_parental_support Class
-linkTitle: is_a_parental_support Class
-
-keywords: [parental_support]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GovernmentBenefitsType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - parental-support
 - parental_support
 - ParentalSupport
 - is_a_parental_support
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GovernmentBenefitsType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- parental_support
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_parental_support Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_parental_support Class"
+type: Type
 ---
 
 Class of all parental_supports.

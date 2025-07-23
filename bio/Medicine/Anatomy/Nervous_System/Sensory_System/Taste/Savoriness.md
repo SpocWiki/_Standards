@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Umami
-  - herzhaft
+- Umami
+- herzhaft
 ---
 
 ## #has_/text_of_/abstract 

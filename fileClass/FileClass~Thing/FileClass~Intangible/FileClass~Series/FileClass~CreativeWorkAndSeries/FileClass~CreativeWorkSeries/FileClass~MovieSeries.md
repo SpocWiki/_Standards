@@ -1,51 +1,51 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MovieSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
-  - is_a_/MovieSeries
-  - schema-org/MovieSeries
-tags:
-  - class/FileClass
-  - class/MovieSeries
-  - is_a_/MovieSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: 1eOIKL
-    name: Actor
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: oVZORD
-    name: Director
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: O925DV
-    name: MusicBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
-    type: MultiFile
-    path: ""
-  - id: kuctBy
-    name: ProductionCompany
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: EAA3kN
-    name: Trailer
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
-    type: MultiFile
-    path: ""
+- id: 1eOIKL
+  name: Actor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: oVZORD
+  name: Director
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: O925DV
+  name: MusicBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
+  type: MultiFile
+  path: ''
+- id: kuctBy
+  name: ProductionCompany
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: EAA3kN
+  name: Trailer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MovieSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
+- is_a_/MovieSeries
+- schema-org/MovieSeries
+tags:
+- class/FileClass
+- class/MovieSeries
+- is_a_/MovieSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
+version: 2.0
 ---
 
 # MovieSeries

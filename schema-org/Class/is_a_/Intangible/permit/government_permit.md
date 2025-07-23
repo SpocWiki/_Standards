@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_government_permit Class
-linkTitle: is_a_government_permit Class
-
-keywords: [government_permit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - government-permit
 - government_permit
 - GovernmentPermit
 - is_a_government_permit
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- government_permit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_government_permit Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_government_permit Class"
+type: Type
 ---
 
 Class of all government_permits.

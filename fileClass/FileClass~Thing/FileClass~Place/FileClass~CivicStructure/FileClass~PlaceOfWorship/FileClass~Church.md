@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Church
-  - class/Thing/Place/CivicStructure/PlaceOfWorship/Church
-  - is_a_/Church
-  - schema-org/Church
-tags:
-  - class/FileClass
-  - class/Church
-  - is_a_/Church
-  - class/Thing/Place/CivicStructure/PlaceOfWorship/Church
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Church
+- class/Thing/Place/CivicStructure/PlaceOfWorship/Church
+- is_a_/Church
+- schema-org/Church
+tags:
+- class/FileClass
+- class/Church
+- is_a_/Church
+- class/Thing/Place/CivicStructure/PlaceOfWorship/Church
+version: 2.0
 ---
 
 # Church

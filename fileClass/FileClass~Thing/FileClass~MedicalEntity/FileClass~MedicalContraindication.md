@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalContraindication
-  - class/Thing/MedicalEntity/MedicalContraindication
-  - is_a_/MedicalContraindication
-  - schema-org/MedicalContraindication
-tags:
-  - class/FileClass
-  - class/MedicalContraindication
-  - is_a_/MedicalContraindication
-  - class/Thing/MedicalEntity/MedicalContraindication
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalContraindication
+- class/Thing/MedicalEntity/MedicalContraindication
+- is_a_/MedicalContraindication
+- schema-org/MedicalContraindication
+tags:
+- class/FileClass
+- class/MedicalContraindication
+- is_a_/MedicalContraindication
+- class/Thing/MedicalEntity/MedicalContraindication
+version: 2.0
 ---
 
 # MedicalContraindication

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_unclassified_adult_consideration Class
-linkTitle: is_an_unclassified_adult_consideration Class
-
-keywords: [unclassified_adult_consideration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: AdultOrientedEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - unclassified-adult-consideration
 - unclassified_adult_consideration
 - UnclassifiedAdultConsideration
 - is_an_unclassified_adult_consideration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: AdultOrientedEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- unclassified_adult_consideration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_unclassified_adult_consideration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_unclassified_adult_consideration Class"
+type: Type
 ---
 
 Class of all unclassified_adult_considerations.

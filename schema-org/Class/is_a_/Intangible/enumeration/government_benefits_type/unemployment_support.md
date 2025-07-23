@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_unemployment_support Class
-linkTitle: is_an_unemployment_support Class
-
-keywords: [unemployment_support]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GovernmentBenefitsType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - unemployment-support
 - unemployment_support
 - UnemploymentSupport
 - is_an_unemployment_support
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GovernmentBenefitsType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- unemployment_support
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_unemployment_support Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_unemployment_support Class"
+type: Type
 ---
 
 Class of all unemployment_supports.

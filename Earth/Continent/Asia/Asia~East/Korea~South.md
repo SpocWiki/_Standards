@@ -144,44 +144,44 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_South_Korea
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_South_Korea,6296418]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_South_Korea,7112461]]"
 demonym:
-  - corean
-  - surcoreana
-  - sudcoreana
+- corean
+- surcoreana
+- sudcoreana
 - "كوري جنوبي"
 - "كورية جنوبية"
 - "كوريون جنوبيون"
-  - surcoreanu
+- surcoreanu
 - "দক্ষিণ কোরীয়"
-  - Südkoreanerinnen
-  - sud-coréen
-  - Sud-coréen
-  - Sud-coréenne
+- Südkoreanerinnen
+- sud-coréen
+- Sud-coréen
+- Sud-coréenne
 - "דרום קוריאני"
-  - 한국인
+- 한국인
 - "South Korean"
-  - Südkoreaner
-  - Südkoreanerin
+- Südkoreaner
+- Südkoreanerin
 - "דרום קוריאנית"
-  - dél-koreai
-  - Sud-Koreano
-  - sudcoreane
-  - sudcoreani
-  - sudcoreano
-  - tehan
-  - Zuid-Koreaan
-  - sud-coreean
-  - sud-coreeancă
-  - sud-coreeni
-  - южнокореец
-  - южнокорейцы
-  - южнокореянка
-  - південнокореєць
-  - південнокорейці
-  - південнокореянка
-  - sudcorean
-  - sudcoreana
-  - sudcoreane
-  - sudcoreani
+- dél-koreai
+- Sud-Koreano
+- sudcoreane
+- sudcoreani
+- sudcoreano
+- tehan
+- Zuid-Koreaan
+- sud-coreean
+- sud-coreeancă
+- sud-coreeni
+- южнокореец
+- южнокорейцы
+- южнокореянка
+- південнокореєць
+- південнокорейці
+- південнокореянка
+- sudcorean
+- sudcoreana
+- sudcoreane
+- sudcoreani
 - "كوري جنوبي"
 - "كورية جنوبية"
 - "كوريين جنوبيين"
@@ -236,7 +236,7 @@ McCune_Reischauer_romanization: "Taehan Min'guk"
 MeSH_tree_code: Z01.252.474.557.750
 motto_text:
 - "Imagine your Korea"
-  - "홍익인간(弘益人間): 널리 인간을 이롭게 하라"
+- "홍익인간(弘益人間): 널리 인간을 이롭게 하라"
 - "Koreyanızı xəyal edin"
 - "Dychmyga dy Gorea"
 religion_or_worldview:
@@ -335,22 +335,22 @@ ISO_3166_1_alpha_2_code: KR
 WIPO_ST_3: KR
 IAB_code: 1447
 short_name:
-  - 한국
-  - ROK
+- 한국
+- ROK
 - "Corée du Sud"
-  - 韓国
-  - 韓國
-  - 남한
-  - 韩国
-  - 韓國
-  - 남조선
-  - Lâm-hân
-  - 韩国
-  - 南韓
-  - 韩国
-  - 南韓
+- 韓国
+- 韓國
+- 남한
+- 韩国
+- 韓國
+- 남조선
+- Lâm-hân
+- 韩国
+- 南韓
+- 韩国
+- 南韓
 - "\U0001F1F0\U0001F1F7"
-  - 南韓
+- 南韓
 satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20South%20Korea%20in%20January%202004.jpg"
 median_income:
   - 40861
@@ -368,9 +368,9 @@ Commons_gallery: 대한민국
 rural_population: 9718290
 official_name:
 - "Republic of Korea"
-  - 대한민국
+- 대한민국
 - "République de Corée"
-  - 大韓民國
+- 大韓民國
 OmegaWiki_Defined_Meaning: 154025
 licence_plate_code: ROK
 UNDP_country_code: ROK
@@ -414,9 +414,9 @@ SpocWebEntityId: 26941
 isDeleted: false
 confidential: public
 aliases:
-  - South-Korea
-  - Korea-Republic
-  - Südkorea
+- South-Korea
+- Korea-Republic
+- Südkorea
 - "South Korea"
 icon: flag-kr
 ---

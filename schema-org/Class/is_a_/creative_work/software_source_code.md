@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_software_source_code Class
-linkTitle: is_a_software_source_code Class
-
-keywords: [software_source_code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: Code
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - software-source-code
 - software_source_code
 - SoftwareSourceCode
 - is_a_software_source_code
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- software_source_code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_software_source_code Class"
+publish: true
+publishDate: 
+supersedes: Code
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_software_source_code Class"
+type: Type
 ---
 
 Class of all software_source_codes.

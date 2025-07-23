@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RadioBroadcastService
-  - class/Thing/Intangible/Service/BroadcastService/RadioBroadcastService
-  - is_a_/RadioBroadcastService
-  - schema-org/RadioBroadcastService
-tags:
-  - class/FileClass
-  - class/RadioBroadcastService
-  - is_a_/RadioBroadcastService
-  - class/Thing/Intangible/Service/BroadcastService/RadioBroadcastService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RadioBroadcastService
+- class/Thing/Intangible/Service/BroadcastService/RadioBroadcastService
+- is_a_/RadioBroadcastService
+- schema-org/RadioBroadcastService
+tags:
+- class/FileClass
+- class/RadioBroadcastService
+- is_a_/RadioBroadcastService
+- class/Thing/Intangible/Service/BroadcastService/RadioBroadcastService
+version: 2.0
 ---
 
 # RadioBroadcastService

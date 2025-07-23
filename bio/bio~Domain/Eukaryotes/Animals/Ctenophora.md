@@ -1,7 +1,7 @@
----
-title: Ctenophora
+﻿---
 aliases:
-  - Ctenophora
+- Ctenophora
+title: Ctenophora
 ---
 
 ## Phylogeny 

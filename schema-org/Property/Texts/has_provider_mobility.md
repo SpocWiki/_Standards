@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_provider_mobility
-linkTitle: has_text_of_provider_mobility
-
-keywords: [provider, mobility]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - provider-mobility
 - provider_mobility
 - providerMobility
 - has_text_of_provider_mobility
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- provider
+- mobility
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_provider_mobility
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_provider_mobility
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Service.

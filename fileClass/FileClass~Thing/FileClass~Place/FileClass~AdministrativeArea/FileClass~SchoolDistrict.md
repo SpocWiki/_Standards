@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SchoolDistrict
-  - class/Thing/Place/AdministrativeArea/SchoolDistrict
-  - is_a_/SchoolDistrict
-  - schema-org/SchoolDistrict
-tags:
-  - class/FileClass
-  - class/SchoolDistrict
-  - is_a_/SchoolDistrict
-  - class/Thing/Place/AdministrativeArea/SchoolDistrict
 extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/SchoolDistrict
+- class/Thing/Place/AdministrativeArea/SchoolDistrict
+- is_a_/SchoolDistrict
+- schema-org/SchoolDistrict
+tags:
+- class/FileClass
+- class/SchoolDistrict
+- is_a_/SchoolDistrict
+- class/Thing/Place/AdministrativeArea/SchoolDistrict
+version: 2.0
 ---
 
 # SchoolDistrict

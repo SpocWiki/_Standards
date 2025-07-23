@@ -1,47 +1,48 @@
----
-title: Sarcopterygii
+﻿---
 aliases:
-  - Sarcopterygii
-  - Sarc
-has_id_wikidata: Q160830
-instance_of:
-  - "[[_Standards/WikiData/WD~clade,713623]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon:
-  - "[[_Standards/WikiData/WD~Euteleostomi,1378800]]"
-  - "[[_Standards/WikiData/WD~Osteichthyes,27207]]"
-taxon_rank: "[[_Standards/WikiData/WD~superclass,3504061]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-ITIS_TSN: "161048"
+- Sarcopterygii
+- Sarc
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Osteichthyes
-taxon_common_name:
-  - Actinopterígio
-  - nozdratí
-  - Fleischflosser
-  - Lobe-finned fishes
-  - Lihasuimsed
-  - Sagaruimsed
-  - Varsieväiset kalat
-  - Sarcoptérygiens
-  - Mesoperke
-  - Bojtosúszójú halak
-  - 肉鰭綱
-  - kjøttfinnefisker
-  - mięśniopłetwe
-  - mesnatoplavutarice
-  - Et yüzgeçliler
-  - Kas yüzgeçliler
-  - Лопастепері
-  - 肉鳍鱼
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Latimeria%20chalumnae01.jpg
-montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcopterygii.png
-EPPO_Code: 1SARCC
-UMLS_CUI: C1081145
 Commons_gallery: Sarcopterygii
-taxon_name: Sarcopterygii
+EPPO_Code: 1SARCC
+has_id_wikidata: Q160830
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Latimeria%20chalumnae01.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~clade,713623]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 161048
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sarcopterygii.png"
+parent_taxon:
+- '[[_Standards/WikiData/WD~Euteleostomi,1378800]]'
+- '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
 start_time: -423000000-01-01
+taxon_common_name:
+- Actinopterígio
+- nozdratí
+- Fleischflosser
+- "Lobe-finned fishes"
+- Lihasuimsed
+- Sagaruimsed
+- "Varsieväiset kalat"
+- Sarcoptérygiens
+- Mesoperke
+- "Bojtosúszójú halak"
+- 肉鰭綱
+- kjøttfinnefisker
+- mięśniopłetwe
+- mesnatoplavutarice
+- "Et yüzgeçliler"
+- "Kas yüzgeçliler"
+- Лопастепері
+- 肉鳍鱼
+taxon_name: Sarcopterygii
+taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
+title: Sarcopterygii
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126]]'
+UMLS_CUI: C1081145
 ---
+
 # [[Sarcopterygii]] 
 
 #is_/instance_of :: [[Clade]]  

@@ -1,12 +1,8 @@
----
+﻿---
 aliases:
-  - Milky Way
+- "Milky Way"
 has_id_wikidata: Q321
 ---
-
-
-
-
 
 ## #has_/text_of_/abstract 
 

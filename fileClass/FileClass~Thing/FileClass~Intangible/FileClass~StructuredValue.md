@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/StructuredValue
-  - class/Thing/Intangible/StructuredValue
-  - is_a_/StructuredValue
-  - schema-org/StructuredValue
-tags:
-  - class/FileClass
-  - class/StructuredValue
-  - is_a_/StructuredValue
-  - class/Thing/Intangible/StructuredValue
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/StructuredValue
+- class/Thing/Intangible/StructuredValue
+- is_a_/StructuredValue
+- schema-org/StructuredValue
+tags:
+- class/FileClass
+- class/StructuredValue
+- is_a_/StructuredValue
+- class/Thing/Intangible/StructuredValue
+version: 2.0
 ---
 
 # StructuredValue

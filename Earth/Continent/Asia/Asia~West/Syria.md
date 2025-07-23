@@ -87,18 +87,18 @@ IOC_country_code: SYR
 INSEE_countries_and_foreign_territories_code: 99206
 country_calling_code: +963
 official_name:
-  - Syria
+- Syria
 - "الجمهورية العربية السورية"
 - "Syrian Arab Republic"
 - "la République arabe syrienne"
 - "Suriye Arap Cumhuriyeti"
-  - سوريا
-  - Syria
+- سوريا
+- Syria
 - "Republik Arab Syria"
 number_of_out_of_school_children: 2416365
 native_label:
 - "الجمهورية العربية السورية"
-  - سوريا
+- سوريا
 - "Komara Erebî ya Sûriyê"
 rural_population: 9564966
 female_population: 11883845
@@ -245,7 +245,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Damascus%2C%20Syria%2
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Syrian%20revolution.svg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Sy-map.png"
 ISNI:
-  - 000000012369316X
+- 000000012369316X
 - 0000000123695958
 hashtag: Syria
 Commons_gallery: "Syria - سوريا"

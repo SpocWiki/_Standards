@@ -1,8 +1,9 @@
----
+﻿---
 aliases:
-  - Vicky_the_Viking
-  - Wickie und die starken Männer
+- Vicky_the_Viking
+- "Wickie und die starken Männer"
 ---
+
 This was the first [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japan]]ese Production that [[ZDF]] commissioned
 and was followed by . 
 

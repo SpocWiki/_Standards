@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_otolaryngologic Class
-linkTitle: is_an_otolaryngologic Class
-
-keywords: [otolaryngologic]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - otolaryngologic
 - otolaryngologic
 - Otolaryngologic
 - is_an_otolaryngologic
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- otolaryngologic
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_otolaryngologic Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_otolaryngologic Class"
+type: Type
 ---
 
 Class of all otolaryngologics.

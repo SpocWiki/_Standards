@@ -1,39 +1,38 @@
----
-has_member:
-  - "[[Europe~Central/Germany|Germany]]"
-  - "[[Europe~West/France|France]]"
-  - "[[Europe~South/Italy|Italy]]"
-  - "[[Europe~West/Belgium|Belgium]]"
-  - "[[Europe~West/Netherlands|Netherlands]]"
-  - "[[Europe~West/Luxembourg|Luxembourg]]"
-  - "[[Europe~Central/Austria|Austria]]"
-  - "[[Europe~East/Bulgaria|Bulgaria]]"
-  - "[[Europe~Central/Croatia|Croatia]]"
-  - "[[Europe~Central/Czech_Republic|Czech_Republic]]"
-  - "[[Europe~North/Denmark|Denmark]]"
-  - "[[Europe~North/Estonia|Estonia]]"
-  - "[[Europe~North/Finland|Finland]]"
-  - "[[Europe~South/Greece|Greece]]"
-  - "[[Europe~East/Hungary|Hungary]]"
-  - "[[Europe~North/Latvia|Latvia]]"
-  - "[[Europe~North/Lithuania|Lithuania]]"
-  - "[[Europe~South/Malta|Malta]]"
-  - "[[Europe~East/Poland|Poland]]"
-  - "[[Europe~South/Portugal|Portugal]]"
-  - "[[Europe~East/Romania|Romania]]"
-  - "[[Europe~Central/Slovakia|Slovakia]]"
-  - "[[Europe~Central/Slovenia|Slovenia]]"
-  - "[[Europe~South/Spain|Spain]]"
-  - "[[Europe~North/Sweden|Sweden]]"
-  - "[[Europe~North/Norway|Norway]]"
-  - "[[Europe~Central/Switzerland]]"
-  - "[[Europe~North/Iceland|Iceland]]"
-  - "[[Europe~Central/Liechtenstein]]"
+﻿---
 aliases:
-  - Schengen Area
-  - Schengen_Area
+- "Schengen Area"
+- Schengen_Area
+has_member:
+- '[[Europe~Central/Germany|Germany]]'
+- '[[Europe~West/France|France]]'
+- '[[Europe~South/Italy|Italy]]'
+- '[[Europe~West/Belgium|Belgium]]'
+- '[[Europe~West/Netherlands|Netherlands]]'
+- '[[Europe~West/Luxembourg|Luxembourg]]'
+- '[[Europe~Central/Austria|Austria]]'
+- '[[Europe~East/Bulgaria|Bulgaria]]'
+- '[[Europe~Central/Croatia|Croatia]]'
+- '[[Europe~Central/Czech_Republic|Czech_Republic]]'
+- '[[Europe~North/Denmark|Denmark]]'
+- '[[Europe~North/Estonia|Estonia]]'
+- '[[Europe~North/Finland|Finland]]'
+- '[[Europe~South/Greece|Greece]]'
+- '[[Europe~East/Hungary|Hungary]]'
+- '[[Europe~North/Latvia|Latvia]]'
+- '[[Europe~North/Lithuania|Lithuania]]'
+- '[[Europe~South/Malta|Malta]]'
+- '[[Europe~East/Poland|Poland]]'
+- '[[Europe~South/Portugal|Portugal]]'
+- '[[Europe~East/Romania|Romania]]'
+- '[[Europe~Central/Slovakia|Slovakia]]'
+- '[[Europe~Central/Slovenia|Slovenia]]'
+- '[[Europe~South/Spain|Spain]]'
+- '[[Europe~North/Sweden|Sweden]]'
+- '[[Europe~North/Norway|Norway]]'
+- '[[Europe~Central/Switzerland]]'
+- '[[Europe~North/Iceland|Iceland]]'
+- '[[Europe~Central/Liechtenstein]]'
 ---
-
 
 #has_/time_/started :: 1985 
 

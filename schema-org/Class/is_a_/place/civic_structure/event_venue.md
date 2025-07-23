@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_event_venue Class
-linkTitle: is_an_event_venue Class
-
-keywords: [event_venue]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - event-venue
 - event_venue
 - EventVenue
 - is_an_event_venue
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event_venue
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_event_venue Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_event_venue Class"
+type: Type
 ---
 
 Class of all event_venues.

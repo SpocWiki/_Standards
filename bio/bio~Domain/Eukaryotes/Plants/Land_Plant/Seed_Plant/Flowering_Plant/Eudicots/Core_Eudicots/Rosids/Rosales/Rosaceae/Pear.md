@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - pear
-  - pears
-  - Birne
-  - Birnen
+- pear
+- pears
+- Birne
+- Birnen
 ---
 
 # [[Pear]] 

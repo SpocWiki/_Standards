@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_music_recording Class
-linkTitle: is_a_music_recording Class
-
-keywords: [music_recording]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - music-recording
 - music_recording
 - MusicRecording
 - is_a_music_recording
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- music_recording
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_music_recording Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_music_recording Class"
+type: Type
 ---
 
 Class of all music_recordings.

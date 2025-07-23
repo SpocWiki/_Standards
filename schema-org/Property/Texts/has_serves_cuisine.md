@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_serves_cuisine
-linkTitle: has_text_of_serves_cuisine
-
-keywords: [serves, cuisine]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - serves-cuisine
 - serves_cuisine
 - servesCuisine
 - has_text_of_serves_cuisine
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- serves
+- cuisine
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_serves_cuisine
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_serves_cuisine
+type: Pred_Text
 ---
 
 Predicate to describe the Text of FoodEstablishment.

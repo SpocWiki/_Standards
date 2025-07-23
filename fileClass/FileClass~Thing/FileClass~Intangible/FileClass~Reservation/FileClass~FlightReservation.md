@@ -1,41 +1,41 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/FlightReservation
-  - class/Thing/Intangible/Reservation/FlightReservation
-  - is_a_/FlightReservation
-  - schema-org/FlightReservation
-tags:
-  - class/FileClass
-  - class/FlightReservation
-  - is_a_/FlightReservation
-  - class/Thing/Intangible/Reservation/FlightReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: T9fhvM
-    name: BoardingGroup
-    options: {}
-    type: Input
-    path: ""
-  - id: oSTdJj
-    name: PassengerPriorityStatus
-    options: {}
-    type: Input
-    path: ""
-  - id: krq68n
-    name: PassengerSequenceNumber
-    options: {}
-    type: Input
-    path: ""
-  - id: bOnF3f
-    name: SecurityScreening
-    options: {}
-    type: Input
-    path: ""
+- id: T9fhvM
+  name: BoardingGroup
+  options: {}
+  type: Input
+  path: ''
+- id: oSTdJj
+  name: PassengerPriorityStatus
+  options: {}
+  type: Input
+  path: ''
+- id: krq68n
+  name: PassengerSequenceNumber
+  options: {}
+  type: Input
+  path: ''
+- id: bOnF3f
+  name: SecurityScreening
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/FlightReservation
+- class/Thing/Intangible/Reservation/FlightReservation
+- is_a_/FlightReservation
+- schema-org/FlightReservation
+tags:
+- class/FileClass
+- class/FlightReservation
+- is_a_/FlightReservation
+- class/Thing/Intangible/Reservation/FlightReservation
+version: 2.0
 ---
 
 # FlightReservation

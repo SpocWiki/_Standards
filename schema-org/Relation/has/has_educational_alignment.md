@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_educational_alignment
-
-linkTitle: has_educational_alignment
-keywords: [educational, alignment]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - educational-alignment
 - educational_alignment
 - educationalAlignment
 - has_educational_alignment
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- educational
+- alignment
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_educational_alignment
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_educational_alignment
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_educational_credential_awarded
-
-linkTitle: has_educational_credential_awarded
-keywords: [educational, credential, awarded]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - educational-credential-awarded
 - educational_credential_awarded
 - educationalCredentialAwarded
 - has_educational_credential_awarded
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- educational
+- credential
+- awarded
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_educational_credential_awarded
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_educational_credential_awarded
+type: Predi_Relation
 ---
 
 Use it like this: 

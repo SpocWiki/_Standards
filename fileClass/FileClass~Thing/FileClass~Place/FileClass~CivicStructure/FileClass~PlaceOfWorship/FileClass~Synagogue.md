@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Synagogue
-  - class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
-  - is_a_/Synagogue
-  - schema-org/Synagogue
-tags:
-  - class/FileClass
-  - class/Synagogue
-  - is_a_/Synagogue
-  - class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Synagogue
+- class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
+- is_a_/Synagogue
+- schema-org/Synagogue
+tags:
+- class/FileClass
+- class/Synagogue
+- is_a_/Synagogue
+- class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
+version: 2.0
 ---
 
 # Synagogue

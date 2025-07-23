@@ -1,17 +1,16 @@
----
-type: Country
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
+license: "CC BY-SA 4.0"
+publish: true
 tags:
-  - geo/Country
-
-aliases:
-- 
+- geo/Country
+type: Country
 ---
+
 location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_group_maternity Class
-linkTitle: is_a_wearable_size_group_maternity Class
-
-keywords: [wearable_size_group_maternity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeGroupEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-group-maternity
 - wearable_size_group_maternity
 - WearableSizeGroupMaternity
 - is_a_wearable_size_group_maternity
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeGroupEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_group_maternity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_group_maternity Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_group_maternity Class"
+type: Type
 ---
 
 Class of all wearable_size_group_maternitys.

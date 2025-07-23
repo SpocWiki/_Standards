@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_patient Class
-linkTitle: is_a_patient Class
-
-keywords: [patient]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/116154003
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - patient
 - patient
 - Patient
 - is_a_patient
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/116154003"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- patient
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_patient Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_patient Class"
+type: Type
 ---
 
 Class of all patients.

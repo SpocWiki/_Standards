@@ -220,7 +220,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sabiny,56445]]'
 - '[[_Standards/WikiData/WD~Alur,56507]]'
 - '[[_Standards/WikiData/WD~Aringa,56556]]'
-  - "[[_Standards/WikiData/WD~Ma'di,56670]]"
+- "[[_Standards/WikiData/WD~Ma'di,56670]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~999,3086706]]'

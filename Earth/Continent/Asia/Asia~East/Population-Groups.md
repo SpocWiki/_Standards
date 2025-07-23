@@ -1,42 +1,29 @@
 ---
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
-
-# Obsidian well-known Keys
-cssclasses: private note
-publish: false
-
-# Hugo Tags
-# type: #Tags falls back to the Directory in Hugo
-type: private note
-title: Population-Groups
-
-linkTitle: Population-Groups
-keywords: [Population-Groups]
-layout: 
-draft: true
-publishDate:
-expiryDate: 
-
-tags:
-- Population-Groups
-- rather use #Tags (see below); remove the `#` if used here!
-
 aliases:
 - Population-Groups
 - 
-
-# Thing-Facts
+confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
 has_time_started: 2024-02-04
-
-# any other Data:
+isDeleted: false
+isReadOnly: false
 Key: Value
-Predicate: #Object
-Predicate: "[[Object]]"
-
+keywords:
+- Population-Groups
 lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: Population-Groups
+Predicate: '[[Object]]'
+publish: false
+publishDate: 
+tags:
+- Population-Groups
+- "rather use"
+title: Population-Groups
+type: "private note"
 ---
 
 # [[Population-Groups]] 

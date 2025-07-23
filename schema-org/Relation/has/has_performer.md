@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- performer
+- has_performer
+- "schema:performer"
+- "dbo:performer"
+- "wdt:P175"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_performer
-linkTitle: has_performer
 keywords:
-  - performer
+- performer
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_performer
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: performers
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - performer
-  - has_performer
-  - schema:performer
-  - dbo:performer
-  - wdt:P175
+- class/Relation
+- schema-org/Relation
+title: has_performer
+type: Predi_Relation
 ---
 
 Use it like this: 

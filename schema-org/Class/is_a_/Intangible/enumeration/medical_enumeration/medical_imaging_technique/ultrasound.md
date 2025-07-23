@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_ultrasound Class
-linkTitle: is_an_ultrasound Class
-
-keywords: [ultrasound]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalImagingTechnique
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ultrasound
 - ultrasound
 - Ultrasound
 - is_an_ultrasound
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalImagingTechnique
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ultrasound
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ultrasound Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ultrasound Class"
+type: Type
 ---
 
 Class of all ultrasounds.

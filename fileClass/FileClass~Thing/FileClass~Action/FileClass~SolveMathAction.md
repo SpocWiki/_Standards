@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SolveMathAction
-  - class/Thing/Action/SolveMathAction
-  - is_a_/SolveMathAction
-  - schema-org/SolveMathAction
-tags:
-  - class/FileClass
-  - class/SolveMathAction
-  - is_a_/SolveMathAction
-  - class/Thing/Action/SolveMathAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: ToVd07
-    name: EduQuestionType
-    options: {}
-    type: Input
-    path: ""
+- id: ToVd07
+  name: EduQuestionType
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SolveMathAction
+- class/Thing/Action/SolveMathAction
+- is_a_/SolveMathAction
+- schema-org/SolveMathAction
+tags:
+- class/FileClass
+- class/SolveMathAction
+- is_a_/SolveMathAction
+- class/Thing/Action/SolveMathAction
+version: 2.0
 ---
 
 # SolveMathAction

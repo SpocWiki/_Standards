@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_back_order Class
-linkTitle: is_back_ordered Class
-
-keywords: [back_order]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemAvailability
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - back-order
 - back_order
 - BackOrder
 - is_back_ordered
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemAvailability
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- back_order
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_back_ordered Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_back_order Class"
+type: Type
 ---
 
 Class of all back_orders.

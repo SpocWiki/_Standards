@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- contains-season
+- contains_season
+- containsSeason
+- has_contained_season
+- has_season
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_contained_season
-linkTitle: has_contained_season
 keywords:
-  - contains
-  - season
+- contains
+- season
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_contained_season
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: season
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - contains-season
-  - contains_season
-  - containsSeason
-  - has_contained_season
-  - has_season
+- class/Relation
+- schema-org/Relation
+title: has_contained_season
+type: Predi_Relation
 ---
 
 A season that is part of the media series.

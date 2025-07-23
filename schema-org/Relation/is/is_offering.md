@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- offers
+- is_offering
+- "schema:offers"
+- "dbo:offers"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_offering
-linkTitle: is_offering
 keywords:
-  - offers
+- offers
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_offering
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - offers
-  - is_offering
-  - schema:offers
-  - dbo:offers
+- class/Relation
+- schema-org/Relation
+title: is_offering
+type: Predi_Relation
 ---
 
 Use it like this: 

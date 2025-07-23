@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_suggested-max-age
-linkTitle: has_suggested-max-age
-
-keywords: [suggested-max-age]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - suggested_max_age
 - suggested-max-age
 - suggestedMaxAge
 - has_value_for_suggested_max_age
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- suggested-max-age
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_suggested-max-age
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_suggested-max-age
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of PeopleAudience.

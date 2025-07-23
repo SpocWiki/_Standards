@@ -1,62 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_name_family
-linkTitle: has_name_family
-keywords:
-  - family
-  - name
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - family-name
-  - has_name_family
-  - familyName
-  - has_name_family
-  - family name
-  - last name
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_name_family
-linkTitle: has_name_family
-
-keywords: [family, name]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - family-name
 - has_name_family
 - familyName
 - has_name_family
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- family
+- name
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_name_family
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_name_family
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Person. 

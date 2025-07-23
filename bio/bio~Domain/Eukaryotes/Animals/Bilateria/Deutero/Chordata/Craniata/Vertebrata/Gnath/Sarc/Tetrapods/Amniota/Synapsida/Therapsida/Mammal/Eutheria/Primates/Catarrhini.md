@@ -1,9 +1,9 @@
----
-title: Catarrhini
+﻿---
 aliases:
-  - catarrhine monkeys
-  - Old World anthropoids
-  - Old World monkeys
+- "catarrhine monkeys"
+- "Old World anthropoids"
+- "Old World monkeys"
+title: Catarrhini
 ---
 
 # [[Catarrhini]]

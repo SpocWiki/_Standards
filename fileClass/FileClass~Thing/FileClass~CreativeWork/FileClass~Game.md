@@ -1,51 +1,51 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Game
-  - class/Thing/CreativeWork/Game
-  - is_a_/Game
-  - schema-org/Game
-tags:
-  - class/FileClass
-  - class/Game
-  - is_a_/Game
-  - class/Thing/CreativeWork/Game
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: kZL7lC
-    name: CharacterAttribute
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: paT4S8
-    name: GameItem
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: wvZRiD
-    name: GameLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: tw3MNV
-    name: NumberOfPlayers
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: QOW827
-    name: Quest
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
+- id: kZL7lC
+  name: CharacterAttribute
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: paT4S8
+  name: GameItem
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: wvZRiD
+  name: GameLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: tw3MNV
+  name: NumberOfPlayers
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: QOW827
+  name: Quest
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Game
+- class/Thing/CreativeWork/Game
+- is_a_/Game
+- schema-org/Game
+tags:
+- class/FileClass
+- class/Game
+- is_a_/Game
+- class/Thing/CreativeWork/Game
+version: 2.0
 ---
 
 # Game

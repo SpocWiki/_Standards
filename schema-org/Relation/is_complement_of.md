@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_complement_of
-
-linkTitle: is_complement_of
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - complement-of
 - complement_of
 - is_complement_of
 - is_opposite_to
 - is_opposite_of
-- is_negation_of 
+- is_negation_of
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_complement_of
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_complement_of
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: https://meta.schema.org]

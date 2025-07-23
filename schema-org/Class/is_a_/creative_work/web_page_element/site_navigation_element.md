@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_site_navigation_element Class
-linkTitle: is_a_site_navigation_element Class
-
-keywords: [site_navigation_element]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - site-navigation-element
 - site_navigation_element
 - SiteNavigationElement
 - is_a_site_navigation_element
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- site_navigation_element
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_site_navigation_element Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_site_navigation_element Class"
+type: Type
 ---
 
 Class of all site_navigation_elements.

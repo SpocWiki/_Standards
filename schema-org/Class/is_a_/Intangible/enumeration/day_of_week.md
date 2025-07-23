@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_day_of_week Class
-linkTitle: is_a_day_of_week Class
-
-keywords: [day_of_week]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - day-of-week
 - day_of_week
 - DayOfWeek
 - is_a_day_of_week
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- day_of_week
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_day_of_week Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_day_of_week Class"
+type: Type
 ---
 
 Class of all day_of_weeks.

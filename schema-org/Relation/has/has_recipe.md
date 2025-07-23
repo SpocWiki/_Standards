@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- recipe
+- has_recipe
+- "schema:recipe"
+- "dbo:recipe"
+- "wdt:P348"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_recipe
-linkTitle: has_recipe
 keywords:
-  - recipe
+- recipe
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_recipe
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - recipe
-  - has_recipe
-  - schema:recipe
-  - dbo:recipe
-  - wdt:P348
+- class/Relation
+- schema-org/Relation
+title: has_recipe
+type: Predi_Relation
 ---
 
 Use it like this: 

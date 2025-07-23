@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_rental_vehicle_usage Class
-linkTitle: is_a_rental_vehicle_usage Class
-
-keywords: [rental_vehicle_usage]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: CarUsageType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - rental-vehicle-usage
 - rental_vehicle_usage
 - RentalVehicleUsage
 - is_a_rental_vehicle_usage
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: CarUsageType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rental_vehicle_usage
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_rental_vehicle_usage Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_rental_vehicle_usage Class"
+type: Type
 ---
 
 Class of all rental_vehicle_usages.

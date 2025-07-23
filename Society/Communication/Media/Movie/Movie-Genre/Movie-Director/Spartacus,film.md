@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Spartacus (1960)
+- "Spartacus (1960)"
 ---
 
 #has_/time_/started :: 1960-06 

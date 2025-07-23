@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Le Figaro
+- "Le Figaro"
 ---
-
 
 ## #has_/text_of_/abstract 
 

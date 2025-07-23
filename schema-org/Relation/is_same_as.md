@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- same-as
+- same_as
+- sameAs
+- owl~sameAs
+- has_url_for_same_as
+- "schema:sameAs"
+- "owl:sameAs"
+- "wdt:P2888"
 confidential: public
+cssclasses:
+- Predicate
+- Url
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Url
-publish: true
-type: Predi_Url
-title: has_url_for_same_as
-linkTitle: has_url_for_same_as
 keywords:
-  - same_as
+- same_as
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_same_as
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Url
-aliases:
-  - same-as
-  - same_as
-  - sameAs
-  - owl~sameAs
-  - has_url_for_same_as
-  - schema:sameAs
-  - owl:sameAs
-  - wdt:P2888
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_same_as
+type: Predi_Url
 ---
 
 Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].

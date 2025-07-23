@@ -1,47 +1,47 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OwnershipInfo
-  - class/Thing/Intangible/StructuredValue/OwnershipInfo
-  - is_an_/OwnershipInfo
-  - schema-org/OwnershipInfo
-tags:
-  - class/FileClass
-  - class/OwnershipInfo
-  - "#is_an_/OwnershipInfo"
-  - class/Thing/Intangible/StructuredValue/OwnershipInfo
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: oBXz8m
-    name: AcquiredFrom
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: AflOoz
-    name: OwnedFrom
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: vwv3eT
-    name: OwnedThrough
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: tstIpH
-    name: TypeOfGood
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
+- id: oBXz8m
+  name: AcquiredFrom
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: AflOoz
+  name: OwnedFrom
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: vwv3eT
+  name: OwnedThrough
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: tstIpH
+  name: TypeOfGood
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Product')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OwnershipInfo
+- class/Thing/Intangible/StructuredValue/OwnershipInfo
+- is_an_/OwnershipInfo
+- schema-org/OwnershipInfo
+tags:
+- class/FileClass
+- class/OwnershipInfo
+- '#is_an_/OwnershipInfo'
+- class/Thing/Intangible/StructuredValue/OwnershipInfo
+version: 2.0
 ---
 
 # OwnershipInfo

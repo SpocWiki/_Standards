@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_covid_testing_facility Class
-linkTitle: is_a_covid_testing_facility Class
-
-keywords: [covid_testing_facility]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - covid-testing-facility
 - covid_testing_facility
 - CovidTestingFacility
 - is_a_covid_testing_facility
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- covid_testing_facility
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_covid_testing_facility Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_covid_testing_facility Class"
+type: Type
 ---
 
 Class of all covid_testing_facilitys.

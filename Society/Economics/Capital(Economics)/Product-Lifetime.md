@@ -1,9 +1,7 @@
----
+﻿---
 aliases:
-  - Product lifetime
+- "Product lifetime"
 ---
-
-
 
 | Product  | Lifetime |
 | -------- | -------: |

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_cvd-num-c19mech-vent-pats
-linkTitle: has_number_of_cvd-num-c19mech-vent-pats
-
-keywords: [cvd-num-c19mech-vent-pats]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - cvd_num_c19mech_vent_pats
 - cvd-num-c19mech-vent-pats
 - cvdNumC19MechVentPats
 - has_number_of_Covid_c19mech_vent_patients
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cvd-num-c19mech-vent-pats
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_cvd-num-c19mech-vent-pats
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_cvd-num-c19mech-vent-pats
+type: Predi_Count
 ---
 
 Predicate to describe the Number of CDCPMDRecord.

@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Austria
-  - Autriche
-  - النمسا
-  - 奥地利
-  - Австрия
+- Austria
+- Autriche
+- النمسا
+- 奥地利
+- Австрия
 - "the Republic of Austria"
 - "la República de Austria"
 Languages:
@@ -206,7 +206,7 @@ MeSH_tree_code: Z01.542.088
 Gujarati_Vishwakosh_entry: ઑસ્ટ્રિયા
 native_label:
 - "Republik Österreich"
-  - Österreich
+- Österreich
 motto_text:
 - "Arrive and revive"
 - "Cyrraedd ac Adfer"

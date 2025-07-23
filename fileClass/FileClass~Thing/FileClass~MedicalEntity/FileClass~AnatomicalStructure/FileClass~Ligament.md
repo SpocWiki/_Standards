@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Ligament
-  - class/Thing/MedicalEntity/AnatomicalStructure/Ligament
-  - is_a_/Ligament
-  - schema-org/Ligament
-tags:
-  - class/FileClass
-  - class/Ligament
-  - is_a_/Ligament
-  - class/Thing/MedicalEntity/AnatomicalStructure/Ligament
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Ligament
+- class/Thing/MedicalEntity/AnatomicalStructure/Ligament
+- is_a_/Ligament
+- schema-org/Ligament
+tags:
+- class/FileClass
+- class/Ligament
+- is_a_/Ligament
+- class/Thing/MedicalEntity/AnatomicalStructure/Ligament
+version: 2.0
 ---
 
 # Ligament

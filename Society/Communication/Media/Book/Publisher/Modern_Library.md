@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Modern Library
+- "Modern Library"
 ---
-
 
 #is_a_ :: [[../../../../../../_Standards/schema-org/Class/is_a_/organization/corporation|Corporation]] 
 

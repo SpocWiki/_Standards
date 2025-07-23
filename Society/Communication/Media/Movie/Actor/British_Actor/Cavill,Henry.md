@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Henry William Dalgliesh Cavill
-  - Henry Cavill
+- "Henry William Dalgliesh Cavill"
+- "Henry Cavill"
 ---
 
 # [[Cavill,Henry]] 

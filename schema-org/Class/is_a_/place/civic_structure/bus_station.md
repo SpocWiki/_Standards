@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_bus_station Class
-linkTitle: is_a_bus_station Class
-
-keywords: [bus_station]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - bus-station
 - bus_station
 - BusStation
 - is_a_bus_station
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bus_station
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_bus_station Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_bus_station Class"
+type: Type
 ---
 
 Class of all bus_stations.

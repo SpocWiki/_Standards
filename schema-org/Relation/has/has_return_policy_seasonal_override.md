@@ -1,33 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_return_policy_seasonal_override
-
-linkTitle: has_return_policy_seasonal_override
-keywords: [return, policy, seasonal, override]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - return-policy-seasonal-override
 - return_policy_seasonal_override
 - returnPolicySeasonalOverride
 - has_return_policy_seasonal_override
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return
+- policy
+- seasonal
+- override
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_return_policy_seasonal_override
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_return_policy_seasonal_override
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

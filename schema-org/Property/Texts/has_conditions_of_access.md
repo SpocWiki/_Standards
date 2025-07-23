@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_conditions_of_access
-linkTitle: has_text_of_conditions_of_access
-
-keywords: [conditions, of, access]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - conditions-of-access
 - conditions_of_access
 - conditionsOfAccess
 - has_text_of_conditions_of_access
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- conditions
+- of
+- access
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_conditions_of_access
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_conditions_of_access
+type: Pred_Text
 ---
 
 Predicate to describe the Text of CreativeWork.

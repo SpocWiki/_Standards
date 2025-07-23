@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Beobachtungsstudie
-  - Observational study
+- Beobachtungsstudie
+- "Observational study"
 ---
 
 #is_/different_from :: [[Experiment]] 

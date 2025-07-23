@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ViewAction
-  - class/Thing/Action/ConsumeAction/ViewAction
-  - is_a_/ViewAction
-  - schema-org/ViewAction
-tags:
-  - class/FileClass
-  - class/ViewAction
-  - is_a_/ViewAction
-  - class/Thing/Action/ConsumeAction/ViewAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ViewAction
+- class/Thing/Action/ConsumeAction/ViewAction
+- is_a_/ViewAction
+- schema-org/ViewAction
+tags:
+- class/FileClass
+- class/ViewAction
+- is_a_/ViewAction
+- class/Thing/Action/ConsumeAction/ViewAction
+version: 2.0
 ---
 
 # ViewAction

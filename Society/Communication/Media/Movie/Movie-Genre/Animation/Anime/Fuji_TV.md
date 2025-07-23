@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Fuji TV
+- "Fuji TV"
 ---
 
 > Fuji Television Network, Inc., also known as Fuji Television or **Fuji TV**, with the call sign JOCX-DTV, 

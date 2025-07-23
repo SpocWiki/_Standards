@@ -1,34 +1,34 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- country-of-origin
+- country_of_origin
+- countryOfOrigin
+- has_country_of_origin
+- "schema:countryOfOrigin"
+- "dbo:country"
+- "wdt:P495"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_country_of_origin
-linkTitle: has_country_of_origin
 keywords:
-  - country
-  - of
-  - origin
+- country
+- of
+- origin
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_country_of_origin
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - country-of-origin
-  - country_of_origin
-  - countryOfOrigin
-  - has_country_of_origin
-  - schema:countryOfOrigin
-  - dbo:country
-  - wdt:P495
+- class/Relation
+- schema-org/Relation
+title: has_country_of_origin
+type: Predi_Relation
 ---
 
 Use it like this: 

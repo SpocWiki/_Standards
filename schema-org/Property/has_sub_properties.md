@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssproperties: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_sub_properties
-
-linkTitle: has_sub_properties
-keywords: [part]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-sub-properties
 - sub-properties
 - hassub-properties
 - has_sub_properties
+confidential: public
+cssproperties: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- part
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sub_properties
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_sub_properties
+type: Predi_Relation
 ---
 
 # [[has_sub_properties]] 

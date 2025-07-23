@@ -1,106 +1,106 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalCondition
-  - class/Thing/MedicalEntity/MedicalCondition
-  - is_a_/MedicalCondition
-  - schema-org/MedicalCondition
-tags:
-  - class/FileClass
-  - class/MedicalCondition
-  - is_a_/MedicalCondition
-  - class/Thing/MedicalEntity/MedicalCondition
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: zTN29r
-    name: AssociatedAnatomy
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: Zpu8dz
-    name: DifferentialDiagnosis
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DDxElement')
-    type: MultiFile
-    path: ""
-  - id: VhMrNL
-    name: Drug
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
-    type: MultiFile
-    path: ""
-  - id: RQuYXw
-    name: Epidemiology
-    options: {}
-    type: Input
-    path: ""
-  - id: EgcjFi
-    name: ExpectedPrognosis
-    options: {}
-    type: Input
-    path: ""
-  - id: StWdFL
-    name: NaturalProgression
-    options: {}
-    type: Input
-    path: ""
-  - id: t7VjWG
-    name: Pathophysiology
-    options: {}
-    type: Input
-    path: ""
-  - id: dhmgqt
-    name: PossibleComplication
-    options: {}
-    type: Input
-    path: ""
-  - id: UZypsz
-    name: PossibleTreatment
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
-    type: MultiFile
-    path: ""
-  - id: xKv7N5
-    name: PrimaryPrevention
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
-    type: MultiFile
-    path: ""
-  - id: Ey31TK
-    name: RiskFactor
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')
-    type: MultiFile
-    path: ""
-  - id: 5SEv18
-    name: SecondaryPrevention
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
-    type: MultiFile
-    path: ""
-  - id: cM2MtJ
-    name: SignOrSymptom
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')
-    type: MultiFile
-    path: ""
-  - id: dfPpln
-    name: Stage
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage')
-    type: MultiFile
-    path: ""
-  - id: 3gZPrl
-    name: TypicalTest
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')
-    type: MultiFile
-    path: ""
+- id: zTN29r
+  name: AssociatedAnatomy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: Zpu8dz
+  name: DifferentialDiagnosis
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DDxElement')"
+  type: MultiFile
+  path: ''
+- id: VhMrNL
+  name: Drug
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"
+  type: MultiFile
+  path: ''
+- id: RQuYXw
+  name: Epidemiology
+  options: {}
+  type: Input
+  path: ''
+- id: EgcjFi
+  name: ExpectedPrognosis
+  options: {}
+  type: Input
+  path: ''
+- id: StWdFL
+  name: NaturalProgression
+  options: {}
+  type: Input
+  path: ''
+- id: t7VjWG
+  name: Pathophysiology
+  options: {}
+  type: Input
+  path: ''
+- id: dhmgqt
+  name: PossibleComplication
+  options: {}
+  type: Input
+  path: ''
+- id: UZypsz
+  name: PossibleTreatment
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
+  type: MultiFile
+  path: ''
+- id: xKv7N5
+  name: PrimaryPrevention
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
+  type: MultiFile
+  path: ''
+- id: Ey31TK
+  name: RiskFactor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')"
+  type: MultiFile
+  path: ''
+- id: 5SEv18
+  name: SecondaryPrevention
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
+  type: MultiFile
+  path: ''
+- id: cM2MtJ
+  name: SignOrSymptom
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')"
+  type: MultiFile
+  path: ''
+- id: dfPpln
+  name: Stage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage')"
+  type: MultiFile
+  path: ''
+- id: 3gZPrl
+  name: TypicalTest
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalTest')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalCondition
+- class/Thing/MedicalEntity/MedicalCondition
+- is_a_/MedicalCondition
+- schema-org/MedicalCondition
+tags:
+- class/FileClass
+- class/MedicalCondition
+- is_a_/MedicalCondition
+- class/Thing/MedicalEntity/MedicalCondition
+version: 2.0
 ---
 
 # MedicalCondition

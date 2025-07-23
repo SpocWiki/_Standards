@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_tennis_complex Class
-linkTitle: is_a_tennis_complex Class
-
-keywords: [tennis_complex]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - tennis-complex
 - tennis_complex
 - TennisComplex
 - is_a_tennis_complex
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tennis_complex
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_tennis_complex Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_tennis_complex Class"
+type: Type
 ---
 
 Class of all tennis_complexs.

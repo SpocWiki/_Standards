@@ -143,7 +143,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Glavda,3441285]]'
 - '[[_Standards/WikiData/WD~Dass,3441293]]'
 - '[[_Standards/WikiData/WD~Nzanyi,3441299]]'
-  - "[[_Standards/WikiData/WD~Pa'a,3441315]]"
+- "[[_Standards/WikiData/WD~Pa'a,3441315]]"
 - '[[_Standards/WikiData/WD~Mburku,3441324]]'
 - '[[_Standards/WikiData/WD~Uvbie,3441344]]'
 - '[[_Standards/WikiData/WD~Guduf-Gava,3441350]]'
@@ -537,7 +537,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Shoo-Minda-Nye,36548]]'
 - '[[_Standards/WikiData/WD~Obolo,36614]]'
 - '[[_Standards/WikiData/WD~Akpet,36618]]'
-  - "[[_Standards/WikiData/WD~ut-Ma'in,36627]]"
+- "[[_Standards/WikiData/WD~ut-Ma'in,36627]]"
 - '[[_Standards/WikiData/WD~Ubaghara,36625]]'
 - '[[_Standards/WikiData/WD~Ukwuani-Aboh-Ndoni,36636]]'
 - '[[_Standards/WikiData/WD~Ukaan,36651]]'
@@ -558,7 +558,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Margi,56241]]'
 - '[[_Standards/WikiData/WD~Hdi,56246]]'
 - '[[_Standards/WikiData/WD~Fali,56244]]'
-  - "[[_Standards/WikiData/WD~Ga'anda,56245]]"
+- "[[_Standards/WikiData/WD~Ga'anda,56245]]"
 - "[[_Standards/WikiData/WD~Marghi_South,56248]]"
 - '[[_Standards/WikiData/WD~Bata,56254]]'
 - '[[_Standards/WikiData/WD~Zumbun,56252]]'
@@ -815,7 +815,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nige
 short_name:
   - NG
   - Nigeria
-- "\U0001F1F3\U0001F1EC"
+  - "\U0001F1F3\U0001F1EC"
 country_calling_code: +234
 WIPO_ST_3: NG
 ISO_3166_1_alpha_2_code: NG
@@ -833,13 +833,13 @@ PM20_geo_code:
 ITU_letter_code: NIG
 area: 923768
 official_name:
-  - Nigeria
-  - Nàìjíríà
+- Nigeria
+- Nàìjíríà
 - "Orílẹ̀-èdè Olómìniira Aláàpapọ̀ Nàìjíríà"
 - "Federal Republic of Nigeria"
 - "République fédérale du Nigéria"
-  - Nijeriya
-  - Naigeria
+- Nijeriya
+- Naigeria
 inception: "1963-10-01"
 has_time_started: "1963-10-01"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Nigeria.svg"

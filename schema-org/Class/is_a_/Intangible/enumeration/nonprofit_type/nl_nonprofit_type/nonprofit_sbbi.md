@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit_sbbi Class
-linkTitle: is_a_nonprofit_sbbi Class
-
-keywords: [nonprofit_sbbi]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: NLNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit-sbbi
 - nonprofit_sbbi
 - NonprofitSBBI
 - is_a_nonprofit_sbbi
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: NLNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit_sbbi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit_sbbi Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit_sbbi Class"
+type: Type
 ---
 
 Class of all nonprofit_sbbis.

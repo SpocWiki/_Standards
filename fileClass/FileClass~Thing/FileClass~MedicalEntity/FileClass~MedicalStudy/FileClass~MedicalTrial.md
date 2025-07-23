@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalTrial
-  - class/Thing/MedicalEntity/MedicalStudy/MedicalTrial
-  - is_a_/MedicalTrial
-  - schema-org/MedicalTrial
-tags:
-  - class/FileClass
-  - class/MedicalTrial
-  - is_a_/MedicalTrial
-  - class/Thing/MedicalEntity/MedicalStudy/MedicalTrial
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalTrial
+- class/Thing/MedicalEntity/MedicalStudy/MedicalTrial
+- is_a_/MedicalTrial
+- schema-org/MedicalTrial
+tags:
+- class/FileClass
+- class/MedicalTrial
+- is_a_/MedicalTrial
+- class/Thing/MedicalEntity/MedicalStudy/MedicalTrial
+version: 2.0
 ---
 
 # MedicalTrial

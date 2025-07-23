@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/LocalBusinessAndOrganization
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization
-  - is_a_/LocalBusinessAndOrganization
-  - schema-org/LocalBusinessAndOrganization
-tags:
-  - class/FileClass
-  - class/LocalBusinessAndOrganization
-  - is_a_/LocalBusinessAndOrganization
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LocalBusinessAndOrganization
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization
+- is_a_/LocalBusinessAndOrganization
+- schema-org/LocalBusinessAndOrganization
+tags:
+- class/FileClass
+- class/LocalBusinessAndOrganization
+- is_a_/LocalBusinessAndOrganization
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization
+version: 2.0
 ---
 
 # LocalBusinessAndOrganization

@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - H.G.Wells
-  - H. G. Wells
-  - Herbert George Wells
+- H.G.Wells
+- "H. G. Wells"
+- "Herbert George Wells"
 ---
 
 #has_/time_/started ::  1866-09-21

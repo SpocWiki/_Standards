@@ -145,16 +145,16 @@ official_name:
 - "la République du Kazakhstan"
 - "Қазақстан Республикасы"
 - "Республика Казахстан"
-  - قازاقىستان
-  - Қазақстан
-  - Казахстан
+- قازاقىستان
+- Қазақстан
+- Казахстан
 native_label:
 - "Қазақстан Республикасы"
-  - Қазақстан
+- Қазақстан
 short_name:
-  - 哈萨克斯坦
+- 哈萨克斯坦
 - "\U0001F1F0\U0001F1FF"
-  - Казахстан
+- Казахстан
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kazakhstan,10815240]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
@@ -358,11 +358,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Kazakhstan
-    - Kazajstán
-    - كازاخستان
-    - 哈萨克斯坦
-    - Казахстан
+- Kazakhstan
+- Kazajstán
+- كازاخستان
+- 哈萨克斯坦
+- Казахстан
 - "the Republic of Kazakhstan"
 - "la República de Kazajstán"
 Languages:

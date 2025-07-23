@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Terrence Vance Gilliam
-  - Terry Gilliam
+- "Terrence Vance Gilliam"
+- "Terry Gilliam"
 ---
 
 # [[Gilliam,Terry]] 

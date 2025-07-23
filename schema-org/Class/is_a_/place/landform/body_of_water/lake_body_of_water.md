@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_lake_body_of_water Class
-linkTitle: is_a_lake_body_of_water Class
-
-keywords: [lake_body_of_water]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - lake-body-of-water
 - lake_body_of_water
 - LakeBodyOfWater
 - is_a_lake_body_of_water
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lake_body_of_water
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_lake_body_of_water Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_lake_body_of_water Class"
+type: Type
 ---
 
 Class of all lake_body_of_waters.

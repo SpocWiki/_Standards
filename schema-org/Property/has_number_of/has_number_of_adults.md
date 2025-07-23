@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_num_adults
-linkTitle: has_number_of_num_adults
-
-keywords: [num_adults]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - num-adults
 - num_adults
 - numAdults
 - has_number_of_adults
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- num_adults
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_num_adults
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_num_adults
+type: Predi_Count
 ---
 
 Predicate to describe the Number of LodgingReservation.

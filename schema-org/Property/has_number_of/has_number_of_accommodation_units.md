@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_number-of-accommodation-units
-linkTitle: has_number_of_number-of-accommodation-units
-
-keywords: [number-of-accommodation-units]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number_of_accommodation_units
 - number-of-accommodation-units
 - numberOfAccommodationUnits
 - has_number_of_accommodation_units
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number-of-accommodation-units
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_number-of-accommodation-units
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_number-of-accommodation-units
+type: Predi_Count
 ---
 
 Predicate to describe the Number of ApartmentComplex, FloorPlan.

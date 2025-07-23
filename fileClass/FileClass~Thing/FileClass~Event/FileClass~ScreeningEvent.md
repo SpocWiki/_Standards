@@ -1,38 +1,38 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ScreeningEvent
-  - class/Thing/Event/ScreeningEvent
-  - is_a_/ScreeningEvent
-  - schema-org/ScreeningEvent
-tags:
-  - class/FileClass
-  - class/ScreeningEvent
-  - is_a_/ScreeningEvent
-  - class/Thing/Event/ScreeningEvent
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: bNmW5O
-    name: SubtitleLanguage
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
-    type: MultiFile
-    path: ""
-  - id: Q5n3NZ
-    name: VideoFormat
-    options: {}
-    type: Input
-    path: ""
-  - id: c56xUa
-    name: WorkPresented
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Movie')
-    type: MultiFile
-    path: ""
+- id: bNmW5O
+  name: SubtitleLanguage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
+  type: MultiFile
+  path: ''
+- id: Q5n3NZ
+  name: VideoFormat
+  options: {}
+  type: Input
+  path: ''
+- id: c56xUa
+  name: WorkPresented
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Movie')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ScreeningEvent
+- class/Thing/Event/ScreeningEvent
+- is_a_/ScreeningEvent
+- schema-org/ScreeningEvent
+tags:
+- class/FileClass
+- class/ScreeningEvent
+- is_a_/ScreeningEvent
+- class/Thing/Event/ScreeningEvent
+version: 2.0
 ---
 
 # ScreeningEvent

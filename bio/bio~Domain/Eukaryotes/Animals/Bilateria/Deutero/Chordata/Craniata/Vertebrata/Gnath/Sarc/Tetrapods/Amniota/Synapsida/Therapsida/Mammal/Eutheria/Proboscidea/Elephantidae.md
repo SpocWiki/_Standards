@@ -1,34 +1,34 @@
----
-title: Elephantidae
-has_id_wikidata: Q2372824
-taxonomic_type: "[[_Standards/WikiData/WD~Elephas,310746]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-parent_taxon: "[[_Standards/WikiData/WD~Elephantoidea,5359418]]"
-this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~elephant_meat,17444380]]"
-  - "[[_Standards/WikiData/WD~elephant_ivory,29838213]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Proboscidea_Genera,54449952]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-heart_rate: 30
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Elefante%20africano%20de%20sabana%20%28Loxodonta%20africana%29%2C%20parque%20nacional%20Kruger%2C%20Sud%C3%A1frica%2C%202018-07-25%2C%20DD%2006.jpg
-montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20Diversity.jpg
-ITIS_TSN: "584935"
-Commons_gallery: Elephantidae
+﻿---
 Commons_category: Elephantidae
-taxon_name: Elephantidae
+Commons_gallery: Elephantidae
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 EPPO_Code: 1ELEPF
+has_id_wikidata: Q2372824
+heart_rate: 30
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Elefante%20africano%20de%20sabana%20%28Loxodonta%20africana%29%2C%20parque%20nacional%20Kruger%2C%20Sud%C3%A1frica%2C%202018-07-25%2C%20DD%2006.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 584935
 Krugosvet_article: biologiya/slony
-NBN_System_Key: NHMSYS0000376614
 MeSH_tree_code: B01.050.150.900.649.313.250.500.249
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant%20Diversity.jpg"
+NBN_System_Key: NHMSYS0000376614
+parent_taxon: '[[_Standards/WikiData/WD~Elephantoidea,5359418]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Elephas,310746]]'
+taxon_name: Elephantidae
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~elephant_meat,17444380]]'
+- '[[_Standards/WikiData/WD~elephant_ivory,29838213]]'
+title: Elephantidae
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,54449952]]'
 ---
 
 # [[Elephantidae]] 

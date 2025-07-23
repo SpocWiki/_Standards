@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_educational_occupational_program Class
-linkTitle: is_an_educational_occupational_program Class
-
-keywords: [educational_occupational_program]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - educational-occupational-program
 - educational_occupational_program
 - EducationalOccupationalProgram
 - is_an_educational_occupational_program
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- educational_occupational_program
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_educational_occupational_program Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_educational_occupational_program Class"
+type: Type
 ---
 
 Class of all educational_occupational_programs.

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalWebPage
-  - class/Thing/CreativeWork/WebPage/MedicalWebPage
-  - is_a_/MedicalWebPage
-  - schema-org/MedicalWebPage
-tags:
-  - class/FileClass
-  - class/MedicalWebPage
-  - is_a_/MedicalWebPage
-  - class/Thing/CreativeWork/WebPage/MedicalWebPage
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalWebPage
+- class/Thing/CreativeWork/WebPage/MedicalWebPage
+- is_a_/MedicalWebPage
+- schema-org/MedicalWebPage
+tags:
+- class/FileClass
+- class/MedicalWebPage
+- is_a_/MedicalWebPage
+- class/Thing/CreativeWork/WebPage/MedicalWebPage
+version: 2.0
 ---
 
 # MedicalWebPage

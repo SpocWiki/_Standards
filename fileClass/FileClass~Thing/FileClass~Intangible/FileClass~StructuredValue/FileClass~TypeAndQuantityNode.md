@@ -1,47 +1,47 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TypeAndQuantityNode
-  - class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
-  - is_a_/TypeAndQuantityNode
-  - schema-org/TypeAndQuantityNode
-tags:
-  - class/FileClass
-  - class/TypeAndQuantityNode
-  - is_a_/TypeAndQuantityNode
-  - class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: Te83A4
-    name: AmountOfThisGood
-    options: {}
-    type: Number
-    path: ""
-  - id: trn5vN
-    name: BusinessFunction
-    options: {}
-    type: Input
-    path: ""
-  - id: XCkISd
-    name: TypeOfGood
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
-  - id: 7OFvim
-    name: UnitCode
-    options: {}
-    type: Input
-    path: ""
-  - id: rpcfaC
-    name: UnitText
-    options: {}
-    type: Input
-    path: ""
+- id: Te83A4
+  name: AmountOfThisGood
+  options: {}
+  type: Number
+  path: ''
+- id: trn5vN
+  name: BusinessFunction
+  options: {}
+  type: Input
+  path: ''
+- id: XCkISd
+  name: TypeOfGood
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Product')"
+  type: MultiFile
+  path: ''
+- id: 7OFvim
+  name: UnitCode
+  options: {}
+  type: Input
+  path: ''
+- id: rpcfaC
+  name: UnitText
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TypeAndQuantityNode
+- class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
+- is_a_/TypeAndQuantityNode
+- schema-org/TypeAndQuantityNode
+tags:
+- class/FileClass
+- class/TypeAndQuantityNode
+- is_a_/TypeAndQuantityNode
+- class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
+version: 2.0
 ---
 
 # TypeAndQuantityNode

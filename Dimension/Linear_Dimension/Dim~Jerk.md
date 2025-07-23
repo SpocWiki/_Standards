@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Dim~Jerk
-  - Dim~Jolt
+- Dim~Jerk
+- Dim~Jolt
 ---
-
 
 In physics, jerk (also known as jolt) is the 
 rate of change of an object's acceleration over time, or 

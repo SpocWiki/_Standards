@@ -268,9 +268,9 @@ IPA_transcription: bɛˈliːs
 Unicode_character: 🇧🇿 
 Krugosvet_article: strany_mira/BELIZ.html
 official_name:
-  - Belize
+- Belize
 - "le Bélize"
-  - Belize
+- Belize
 native_label: Belize
 motto_text: "Under the shade I flourish"
 short_name: "\U0001F1E7\U0001F1FF"

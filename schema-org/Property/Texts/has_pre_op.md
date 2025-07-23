@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_pre_op
-linkTitle: has_text_of_pre_op
-
-keywords: [pre, op]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - pre-op
 - pre_op
 - preOp
 - has_text_of_pre_op
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pre
+- op
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_pre_op
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_pre_op
+type: Pred_Text
 ---
 
 Predicate to describe the Text of MedicalDevice.

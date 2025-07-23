@@ -1,37 +1,37 @@
----
-type: LangFamily
-tags:
-- Lang_Family
+﻿---
+ABS_ASCL_2011_code: 51
 aliases:
 - "Dravidian languages"
-has_id_wikidata: Q33311
-indigenous_to: "[[_Standards/WikiData/WD~Dravidian_peoples,69798]]"
-linguistic_typology: "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-writing_system: "[[_Standards/WikiData/WD~Brahmic_scripts,467037]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-studied_in: "[[_Standards/WikiData/WD~Dravidian_studies,1128227]]"
-has_grammatical_case: "[[_Standards/WikiData/WD~antessive_case,4771446]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Dravidian_languages,10520572]]"
-subclass_of: "[[_Standards/WikiData/WD~human_language,20162172]]"
-Linguist_List_code: drav
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Dravidische%20Sprachen.png"
-WALS_family_code: dravidian
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-number_of_speakers_writers_or_signers: 200000000
-ABS_ASCL_2011_code: 51
 Commons_category: "Dravidian languages"
-OmegaWiki_Defined_Meaning: 587369
-ISO_639_5_code: dra
-IETF_language_tag: dra
-ISO_639_2_code: dra
-exact_match: "http://publications.europa.eu/resource/authority/language/DRA"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 Dewey_Decimal_Classification: 494.8
-Krugosvet_article: gumanitarnye_nauki/lingvistika/DRAVIDISKIE_YAZIKI.html
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Dravidische%20Sprachen.png"
+exact_match: "http://publications.europa.eu/resource/authority/language/DRA"
 GOST_7_75_97_code: "дра 185"
+has_grammatical_case: '[[_Standards/WikiData/WD~antessive_case,4771446]]'
+has_id_wikidata: Q33311
+IETF_language_tag: dra
+indigenous_to: '[[_Standards/WikiData/WD~Dravidian_peoples,69798]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
+ISO_639_2_code: dra
+ISO_639_5_code: dra
+Krugosvet_article: gumanitarnye_nauki/lingvistika/DRAVIDISKIE_YAZIKI.html
+linguistic_typology: '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+Linguist_List_code: drav
+number_of_speakers_writers_or_signers: 200000000
+OmegaWiki_Defined_Meaning: 587369
+studied_in: '[[_Standards/WikiData/WD~Dravidian_studies,1128227]]'
+subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
+tags:
+- Lang_Family
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Dravidian_languages,10520572]]'
+type: LangFamily
+WALS_family_code: dravidian
+writing_system: '[[_Standards/WikiData/WD~Brahmic_scripts,467037]]'
 ---
 
 [SpocWebEntityId:: 238 ]

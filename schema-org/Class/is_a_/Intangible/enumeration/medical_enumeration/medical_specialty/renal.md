@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_renal Class
-linkTitle: is_a_renal Class
-
-keywords: [renal]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - renal
 - renal
 - Renal
 - is_a_renal
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- renal
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_renal Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_renal Class"
+type: Type
 ---
 
 Class of all renals.

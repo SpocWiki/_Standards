@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_abridged
-linkTitle: is_abridged
-
-keywords: [abridged]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - abridged
 - abridged
 - abridged
 - is_abridged
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- abridged
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_abridged
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_abridged
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: https://bib.schema.org ]

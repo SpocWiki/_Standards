@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PlayAction
-  - class/Thing/Action/PlayAction
-  - is_a_/PlayAction
-  - schema-org/PlayAction
-tags:
-  - class/FileClass
-  - class/PlayAction
-  - is_a_/PlayAction
-  - class/Thing/Action/PlayAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: nFH0nc
-    name: Audience
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
-  - id: SuTwSJ
-    name: Events
-    options:
-      dvQueryString: dv.pages('#class/Thing/Event')
-    type: MultiFile
-    path: ""
+- id: nFH0nc
+  name: Audience
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+- id: SuTwSJ
+  name: Events
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Event')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PlayAction
+- class/Thing/Action/PlayAction
+- is_a_/PlayAction
+- schema-org/PlayAction
+tags:
+- class/FileClass
+- class/PlayAction
+- is_a_/PlayAction
+- class/Thing/Action/PlayAction
+version: 2.0
 ---
 
 # PlayAction

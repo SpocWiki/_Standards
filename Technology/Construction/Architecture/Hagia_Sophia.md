@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Hagia Sophia
+- "Hagia Sophia"
 has_id_wikidata: Q12506
 ---
-
 
 ## #has_/text_of_/abstract 
 

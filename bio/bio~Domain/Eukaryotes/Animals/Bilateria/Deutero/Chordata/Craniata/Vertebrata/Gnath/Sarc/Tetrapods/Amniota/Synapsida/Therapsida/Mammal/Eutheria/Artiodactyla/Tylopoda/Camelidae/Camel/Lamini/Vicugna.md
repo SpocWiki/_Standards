@@ -1,9 +1,9 @@
----
-title: Vicugna vicugna
+﻿---
 aliases:
-  - vicuña
-  - Vikunja 
-  - 
+- vicuña
+- Vikunja
+- 
+title: "Vicugna vicugna"
 ---
 
 # *Vicugna vicugna* 

@@ -1,198 +1,198 @@
----
+﻿---
+bookmarksGroups: 
+excludes: 
+extends: FileClass~Thing
+favoriteView: 
+fields:
+- id: 3m0qb2
+  name: AdditionalProperty
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
+  type: MultiFile
+  path: ''
+- id: SkGSfu
+  name: Color
+  options: {}
+  type: Input
+  path: ''
+- id: QMUCmQ
+  name: Depth
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: Hi8LfJ
+  name: HasMeasurements
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: YAZZKN
+  name: Height
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: Tq4Wrq
+  name: Material
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Product')"
+  type: MultiFile
+  path: ''
+- id: h9U2jV
+  name: Size
+  options: {}
+  type: Input
+  path: ''
+- id: 1LeLMh
+  name: Weight
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: rPvy2g
+  name: Width
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- name: has_measurements
+  type: ObjectList
+  options:
+    displayTemplate: ''
+    itemDisplayTemplate: ''
+  path: ''
+  id: X6B2aN
+- name: value
+  type: Number
+  options: {}
+  path: X6B2aN
+  id: fVnuxT
+- name: has_shape_width_
+  type: Number
+  options: {}
+  path: ''
+  id: vq7qq2
+- name: has_shape_weight_
+  type: Number
+  options: {}
+  path: ''
+  id: UQuhOF
+- name: has_shape_height_
+  type: Number
+  options: {}
+  path: ''
+  id: xY7AOt
+- name: has_shape_length_
+  type: Number
+  options: {}
+  path: ''
+  id: IgyCpw
+- name: has_shape_length_in_meters
+  type: Number
+  options: {}
+  path: ''
+  id: dycYVt
+- name: has_shape_width_in_meters
+  type: Number
+  options: {}
+  path: ''
+  id: X2X8SI
+- name: has_shape_height_in_meters
+  type: Number
+  options: {}
+  path: ''
+  id: NCehnC
+- name: has_shape_weight_in_kilogram
+  type: Number
+  options: {}
+  path: ''
+  id: iGAowJ
+- name: time
+  type: DateTime
+  options:
+    dateShiftInterval: "1 day"
+    dateFormat: "YYYY-MM-DD HH:mm"
+    defaultInsertAsLink: false
+    linkPath: ''
+  path: X6B2aN
+  id: u3xBU0
+- name: type
+  type: File
+  options: {}
+  path: X6B2aN
+  id: fK3y8E
+- name: unit
+  type: File
+  options:
+    dvQueryString: "dv.pages(\"#is_a_/unit_\")"
+  path: X6B2aN
+  id: RTmJ2v
+- name: has_shape_weight_unit
+  type: File
+  options:
+    dvQueryString: "dv.pages(\"#is_a_/unit_/for_/weight\")"
+  path: ''
+  id: LR3ydP
+- name: has_shape_width_unit
+  type: File
+  options:
+    dvQueryString: "dv.pages(\"#is_a_/unit_/for_/length\")"
+  path: ''
+  id: pQ67qm
+- name: has_shape_length_unit
+  type: File
+  options:
+    dvQueryString: "dv.pages(\"#is_a_/unit_/for_/length\")"
+  path: ''
+  id: HOl4m7
+- name: has_shape_height_unit
+  type: File
+  options:
+    dvQueryString: "dv.pages(\"#is_a_/unit_/for_/length\")"
+  path: ''
+  id: Nse4Lv
+fieldsOrder:
+- dycYVt
+- IgyCpw
+- HOl4m7
+- X2X8SI
+- vq7qq2
+- pQ67qm
+- NCehnC
+- xY7AOt
+- Nse4Lv
+- iGAowJ
+- UQuhOF
+- LR3ydP
+- X6B2aN
+- fVnuxT
+- RTmJ2v
+- u3xBU0
+- fK3y8E
+- QMUCmQ
+- rPvy2g
+- YAZZKN
+- 1LeLMh
+- SkGSfu
+- Tq4Wrq
+- h9U2jV
+- Hi8LfJ
+- 3m0qb2
+filesPaths: 
+icon: box
 limit: 99
 mapWithTag: true
-excludes: 
-icon: box
-version: "2.31"
-tagNames:
-  - is_a_/Shape
-  - class/Thing/Shape
-tags:
-  - class/FileClass
-  - class/Product
-  - is_a_/Product
-  - class/Thing/Product
-extends: FileClass~Thing
-fields:
-  - id: 3m0qb2
-    name: AdditionalProperty
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
-    type: MultiFile
-    path: ""
-  - id: SkGSfu
-    name: Color
-    options: {}
-    type: Input
-    path: ""
-  - id: QMUCmQ
-    name: Depth
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: Hi8LfJ
-    name: HasMeasurements
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: YAZZKN
-    name: Height
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: Tq4Wrq
-    name: Material
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
-  - id: h9U2jV
-    name: Size
-    options: {}
-    type: Input
-    path: ""
-  - id: 1LeLMh
-    name: Weight
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: rPvy2g
-    name: Width
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - name: has_measurements
-    type: ObjectList
-    options:
-      displayTemplate: ""
-      itemDisplayTemplate: ""
-    path: ""
-    id: X6B2aN
-  - name: value
-    type: Number
-    options: {}
-    path: X6B2aN
-    id: fVnuxT
-  - name: has_shape_width_
-    type: Number
-    options: {}
-    path: ""
-    id: vq7qq2
-  - name: has_shape_weight_
-    type: Number
-    options: {}
-    path: ""
-    id: UQuhOF
-  - name: has_shape_height_
-    type: Number
-    options: {}
-    path: ""
-    id: xY7AOt
-  - name: has_shape_length_
-    type: Number
-    options: {}
-    path: ""
-    id: IgyCpw
-  - name: has_shape_length_in_meters
-    type: Number
-    options: {}
-    path: ""
-    id: dycYVt
-  - name: has_shape_width_in_meters
-    type: Number
-    options: {}
-    path: ""
-    id: X2X8SI
-  - name: has_shape_height_in_meters
-    type: Number
-    options: {}
-    path: ""
-    id: NCehnC
-  - name: has_shape_weight_in_kilogram
-    type: Number
-    options: {}
-    path: ""
-    id: iGAowJ
-  - name: time
-    type: DateTime
-    options:
-      dateShiftInterval: 1 day
-      dateFormat: YYYY-MM-DD HH:mm
-      defaultInsertAsLink: false
-      linkPath: ""
-    path: X6B2aN
-    id: u3xBU0
-  - name: type
-    type: File
-    options: {}
-    path: X6B2aN
-    id: fK3y8E
-  - name: unit
-    type: File
-    options:
-      dvQueryString: dv.pages("#is_a_/unit_")
-    path: X6B2aN
-    id: RTmJ2v
-  - name: has_shape_weight_unit
-    type: File
-    options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_/weight")
-    path: ""
-    id: LR3ydP
-  - name: has_shape_width_unit
-    type: File
-    options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_/length")
-    path: ""
-    id: pQ67qm
-  - name: has_shape_length_unit
-    type: File
-    options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_/length")
-    path: ""
-    id: HOl4m7
-  - name: has_shape_height_unit
-    type: File
-    options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_/length")
-    path: ""
-    id: Nse4Lv
-filesPaths: 
-bookmarksGroups: 
 savedViews: []
-favoriteView: 
-fieldsOrder:
-  - dycYVt
-  - IgyCpw
-  - HOl4m7
-  - X2X8SI
-  - vq7qq2
-  - pQ67qm
-  - NCehnC
-  - xY7AOt
-  - Nse4Lv
-  - iGAowJ
-  - UQuhOF
-  - LR3ydP
-  - X6B2aN
-  - fVnuxT
-  - RTmJ2v
-  - u3xBU0
-  - fK3y8E
-  - QMUCmQ
-  - rPvy2g
-  - YAZZKN
-  - 1LeLMh
-  - SkGSfu
-  - Tq4Wrq
-  - h9U2jV
-  - Hi8LfJ
-  - 3m0qb2
+tagNames:
+- is_a_/Shape
+- class/Thing/Shape
+tags:
+- class/FileClass
+- class/Product
+- is_a_/Product
+- class/Thing/Product
+version: 2.31
 ---
 
 # Product

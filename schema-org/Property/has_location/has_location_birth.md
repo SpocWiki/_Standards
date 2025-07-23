@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- birth-place
+- birth_place
+- birthPlace
+- has_location_birth
+- "schema:birthPlace"
+- "dbo:birthPlace"
+- "wdt:P19"
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_birth
-linkTitle: has_location_birth
 keywords:
-  - birth_place
+- birth_place
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_birth
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/geo
-aliases:
-  - birth-place
-  - birth_place
-  - birthPlace
-  - has_location_birth
-  - schema:birthPlace
-  - dbo:birthPlace
-  - wdt:P19
+- class/Property
+- schema-org/Property/geo
+title: has_location_birth
+type: Pred_geo
 ---
 
 Predicate to describe the geo of Person.

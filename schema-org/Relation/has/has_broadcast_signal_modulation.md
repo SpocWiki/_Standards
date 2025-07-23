@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_broadcast_signal_modulation
-
-linkTitle: has_broadcast_signal_modulation
-keywords: [broadcast, signal, modulation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - broadcast-signal-modulation
 - broadcast_signal_modulation
 - broadcastSignalModulation
 - has_broadcast_signal_modulation
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast
+- signal
+- modulation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_broadcast_signal_modulation
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_broadcast_signal_modulation
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

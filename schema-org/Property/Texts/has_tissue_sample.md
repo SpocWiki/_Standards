@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_tissue_sample
-linkTitle: has_text_of_tissue_sample
-
-keywords: [tissue, sample]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - tissue-sample
 - tissue_sample
 - tissueSample
 - has_text_of_tissue_sample
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tissue
+- sample
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_tissue_sample
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_tissue_sample
+type: Pred_Text
 ---
 
 Predicate to describe the Text of PathologyTest.

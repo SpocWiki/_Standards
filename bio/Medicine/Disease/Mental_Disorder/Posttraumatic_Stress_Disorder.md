@@ -1,16 +1,14 @@
----
+﻿---
 aliases:
 - "Posttraumatic stress disorder"
 - PTSD
-has_id_wikidata: Q202387
-has_cause:
-- '[[_Standards/WikiData/WD~refugee,131572]]'
-- "[[_Standards/WikiData/WD~sexual_violence,558075]]"
-- '[[_Standards/WikiData/WD~combat,650711]]'
-- "[[_Standards/WikiData/WD~psychological_abuse,1339137]]"
-- "[[_Standards/WikiData/WD~physical_abuse,2827132]]"
-- '[[_Standards/WikiData/WD~friend,17297777]]'
-- '[[_Standards/WikiData/WD~war,198]]'
+Archive_of_Our_Own_tag: "Post-Traumatic Stress Disorder - PTSD"
+Commons_category: "Posttraumatic stress disorder"
+different_from:
+- '[[_Standards/WikiData/WD~acute_stress_reaction,424221]]'
+- '[[_Standards/WikiData/WD~posttraumatic_stress_disorder_in_children_and_teens,1246099]]'
+- '[[_Standards/WikiData/WD~let-down_effect,120065119]]'
+DiseasesDB: 33846
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~Lithium,152763]]'
 - '[[_Standards/WikiData/WD~topiramate,221174]]'
@@ -30,39 +28,16 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~fluoxetine,422244]]'
 - '[[_Standards/WikiData/WD~escitalopram,423757]]'
 - '[[_Standards/WikiData/WD~prazosin,425296]]'
-- "[[_Standards/WikiData/WD~Transcendental_Meditation,558571]]"
+- '[[_Standards/WikiData/WD~Transcendental_Meditation,558571]]'
 - '[[_Standards/WikiData/WD~venlafaxine,898407]]'
-- "[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]"
-- "[[_Standards/WikiData/WD~prolonged_exposure_therapy,2412412]]"
-- "[[_Standards/WikiData/WD~Cannabis_indica,2936421]]"
-- "[[_Standards/WikiData/WD~cognitive_processing_therapy,5141234]]"
-- "[[_Standards/WikiData/WD~trauma_focused_cognitive_behavioral_therapy,18354078]]"
-symptoms_and_signs:
-- '[[_Standards/WikiData/WD~anxiety,154430]]'
-- "[[_Standards/WikiData/WD~sleep_disorder,177190]]"
-- '[[_Standards/WikiData/WD~nightmare,192692]]'
-- "[[_Standards/WikiData/WD~heart_rate_variability,933954]]"
-- '[[_Standards/WikiData/WD~insomnia,1869874]]'
-- "[[_Standards/WikiData/WD~avoidance_coping,2517007]]"
-health_specialty:
-- "[[_Standards/WikiData/WD~clinical_psychology,199906]]"
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
-different_from:
-- "[[_Standards/WikiData/WD~acute_stress_reaction,424221]]"
-- "[[_Standards/WikiData/WD~posttraumatic_stress_disorder_in_children_and_teens,1246099]]"
-- "[[_Standards/WikiData/WD~let-down_effect,120065119]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~anxiety_disorder,544006]]"
-- "[[_Standards/WikiData/WD~stress-related_disorders,815296]]"
-- '[[_Standards/WikiData/WD~sequelae,3089469]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-- "[[_Standards/WikiData/WD~major_depressive_disorder,42844]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~combat_disorder,1482034]]"
-handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~desensitization,2700499]]'
-- "[[_Standards/WikiData/WD~treatments_for_PTSD,7836915]]"
-- "[[_Standards/WikiData/WD~MDMA-assisted_psychotherapy,65042395]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
+- '[[_Standards/WikiData/WD~prolonged_exposure_therapy,2412412]]'
+- '[[_Standards/WikiData/WD~Cannabis_indica,2936421]]'
+- '[[_Standards/WikiData/WD~cognitive_processing_therapy,5141234]]'
+- '[[_Standards/WikiData/WD~trauma_focused_cognitive_behavioral_therapy,18354078]]'
+exact_match:
+- "http://identifiers.org/doid/DOID:2055"
+- "http://purl.obolibrary.org/obo/DOID_2055"
 genetic_association:
 - '[[_Standards/WikiData/WD~PRKN,14864255]]'
 - '[[_Standards/WikiData/WD~KAT2B,14908260]]'
@@ -77,28 +52,53 @@ genetic_association:
 - '[[_Standards/WikiData/WD~TRMT9B,18044229]]'
 - '[[_Standards/WikiData/WD~SLC4A5,18044722]]'
 - '[[_Standards/WikiData/WD~ZMAT3,18045650]]'
-medical_examination: "[[_Standards/WikiData/WD~Davidson_Trauma_Scale,108525744]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Goya-Guerra%20%2809%29.jpg"
-WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/post-traumatic_stress_disorder"
-exact_match:
-- "http://identifiers.org/doid/DOID:2055"
-- "http://purl.obolibrary.org/obo/DOID_2055"
-ICD_9_CM: 309.81
-UMLS_CUI: C0038436
-MeSH_tree_code: F03.950.750.500
+handled_mitigated_or_managed_by:
+- '[[_Standards/WikiData/WD~desensitization,2700499]]'
+- '[[_Standards/WikiData/WD~treatments_for_PTSD,7836915]]'
+- '[[_Standards/WikiData/WD~MDMA-assisted_psychotherapy,65042395]]'
+has_cause:
+- '[[_Standards/WikiData/WD~refugee,131572]]'
+- '[[_Standards/WikiData/WD~sexual_violence,558075]]'
+- '[[_Standards/WikiData/WD~combat,650711]]'
+- '[[_Standards/WikiData/WD~psychological_abuse,1339137]]'
+- '[[_Standards/WikiData/WD~physical_abuse,2827132]]'
+- '[[_Standards/WikiData/WD~friend,17297777]]'
+- '[[_Standards/WikiData/WD~war,198]]'
+has_id_wikidata: Q202387
+health_specialty:
+- '[[_Standards/WikiData/WD~clinical_psychology,199906]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
 ICD_10_CM:
 - F43.10
 - F43.11
 - F43.12
 - F43.1
-Archive_of_Our_Own_tag: "Post-Traumatic Stress Disorder - PTSD"
-Commons_category: "Posttraumatic stress disorder"
-subreddit: ptsd
-DiseasesDB: 33846
-U_S_National_Archives_Identifier: 10675626
+ICD_9_CM: 309.81
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Goya-Guerra%20%2809%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+medical_examination: '[[_Standards/WikiData/WD~Davidson_Trauma_Scale,108525744]]'
+MeSH_tree_code: F03.950.750.500
 OmegaWiki_Defined_Meaning: 1462317
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%98%E0%AC%BE%E0%AC%A4%E0%AD%8B%E0%AC%A4%E0%AD%8D%E0%AC%A4%E0%AC%B0%20%E0%AC%9A%E0%AC%BE%E0%AC%AA%20%E0%AC%AC%E0%AD%87%E0%AC%AE%E0%AC%BE%E0%AC%B0%E0%AD%80.wav"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~combat_disorder,1482034]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~anxiety_disorder,544006]]'
+- '[[_Standards/WikiData/WD~stress-related_disorders,815296]]'
+- '[[_Standards/WikiData/WD~sequelae,3089469]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~major_depressive_disorder,42844]]'
+subreddit: ptsd
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~anxiety,154430]]'
+- '[[_Standards/WikiData/WD~sleep_disorder,177190]]'
+- '[[_Standards/WikiData/WD~nightmare,192692]]'
+- '[[_Standards/WikiData/WD~heart_rate_variability,933954]]'
+- '[[_Standards/WikiData/WD~insomnia,1869874]]'
+- '[[_Standards/WikiData/WD~avoidance_coping,2517007]]'
+UMLS_CUI: C0038436
+U_S_National_Archives_Identifier: 10675626
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/post-traumatic_stress_disorder"
 ---
 
 ## #has_/text_of_/abstract 

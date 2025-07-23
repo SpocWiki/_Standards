@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_overview_health_aspect Class
-linkTitle: is_an_overview_health_aspect Class
-
-keywords: [overview_health_aspect]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: HealthAspectEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - overview-health-aspect
 - overview_health_aspect
 - OverviewHealthAspect
 - is_an_overview_health_aspect
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: HealthAspectEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- overview_health_aspect
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_overview_health_aspect Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_overview_health_aspect Class"
+type: Type
 ---
 
 Class of all overview_health_aspects.

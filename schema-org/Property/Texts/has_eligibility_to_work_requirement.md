@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_eligibility_to_work_requirement
-linkTitle: has_text_of_eligibility_to_work_requirement
-
-keywords: [eligibility, to, work, requirement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - eligibility-to-work-requirement
 - eligibility_to_work_requirement
 - eligibilityToWorkRequirement
 - has_text_of_eligibility_to_work_requirement
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- eligibility
+- to
+- work
+- requirement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_eligibility_to_work_requirement
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_eligibility_to_work_requirement
+type: Pred_Text
 ---
 
 Predicate to describe the Text of JobPosting.

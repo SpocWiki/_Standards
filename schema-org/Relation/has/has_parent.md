@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has_father
+- has_mother
+- has_parent
+- "schema:parent"
+- "dbo:parent"
+- "wdt:P40"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_parent
-linkTitle: has_parent
 keywords:
-  - parent
+- parent
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_parent
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: parents
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - has_father
-  - has_mother
-  - has_parent
-  - schema:parent
-  - dbo:parent
-  - wdt:P40
+- class/Relation
+- schema-org/Relation
+title: has_parent
+type: Predi_Relation
 ---
 
 Use it like this: 

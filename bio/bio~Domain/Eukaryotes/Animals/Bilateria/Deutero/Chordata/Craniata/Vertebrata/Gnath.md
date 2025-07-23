@@ -1,25 +1,25 @@
----
-title: Gnathostomata
+﻿---
 aliases:
-  - Gnathostomata
-  - Gnath
-has_id_wikidata: Q26214
-homonymous_taxon: "[[_Standards/WikiData/WD~Gnathostomata,1011198]]"
-taxon_rank: "[[_Standards/WikiData/WD~infraphylum,2361851]]"
-topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Gnathostomata,6199302]]"
-  - "[[_Standards/WikiData/WD~Template_Gnathostomata,105613651]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "914179"
+- Gnathostomata
+- Gnath
 Commons_category: Gnathostomata
-taxon_name: Gnathostomata
-start_time: -462000000-01-01
+has_id_wikidata: Q26214
+homonymous_taxon: '[[_Standards/WikiData/WD~Gnathostomata,1011198]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Orca-Sch%C3%A4del.jpg
-montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gnathostomata.jpg
+- "http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Orca-Sch%C3%A4del.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 914179
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gnathostomata.jpg"
+start_time: -462000000-01-01
+taxon_name: Gnathostomata
+taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851]]'
+title: Gnathostomata
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Gnathostomata,6199302]]'
+- '[[_Standards/WikiData/WD~Template_Gnathostomata,105613651]]'
 UMLS_CUI: C0998765
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 ---
 
 # Gnathostomata 

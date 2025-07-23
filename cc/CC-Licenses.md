@@ -1,30 +1,30 @@
----
-title: CreativeCommons
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-type: 
-has_time_created: 
-has_time_destroyed: 
-has_location_created: 
-has_location_destroyed: 
-has_creator: '[[]]'
-has_destroyer: '[[]]'
-isDeleted: false
-isReadOnly: false
-confidential: private
-Key: Value
-Predicate: '[[Object]]'
-cssclasses: 
-publish: false
+﻿---
 aliases:
 - CC
+confidential: private
+cssclasses: 
+draft: false
+expiryDate: 
+has_creator: '[[]]'
+has_destroyer: '[[]]'
+has_location_created: 
+has_location_destroyed: 
+has_time_created: 
+has_time_destroyed: 
+isDeleted: false
+isReadOnly: false
+Key: Value
+keywords: 
+lang: en
+layout: 
+linkTitle: 
+Predicate: '[[Object]]'
+publish: false
+publishDate: 
 tags:
 - "rather use"
-lang: en
+title: CreativeCommons
+type: 
 ---
 
 Tags: #IT #URL #license 

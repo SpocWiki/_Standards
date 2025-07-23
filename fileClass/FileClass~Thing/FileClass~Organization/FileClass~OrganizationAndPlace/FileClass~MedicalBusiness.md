@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
-  - is_a_/MedicalBusiness
-  - schema-org/MedicalBusiness
-tags:
-  - class/FileClass
-  - class/MedicalBusiness
-  - is_a_/MedicalBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
+- is_a_/MedicalBusiness
+- schema-org/MedicalBusiness
+tags:
+- class/FileClass
+- class/MedicalBusiness
+- is_a_/MedicalBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
+version: 2.0
 ---
 
 # MedicalBusiness

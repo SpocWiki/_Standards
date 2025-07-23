@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_acceleration-time
-linkTitle: has_acceleration-time
-
-keywords: [acceleration-time]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - acceleration_time
 - acceleration-time
 - accelerationTime
 - has_value_for_acceleration_time
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- acceleration-time
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_acceleration-time
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_acceleration-time
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Vehicle.

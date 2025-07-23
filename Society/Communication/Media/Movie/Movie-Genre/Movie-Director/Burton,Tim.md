@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Tim Burton
-
-has_id_wikidata : Q56008 
+- "Tim Burton"
+has_id_wikidata: Q56008
 ---
 
 # [[Burton,Tim]]

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MobileApplication
-  - class/Thing/CreativeWork/SoftwareApplication/MobileApplication
-  - is_a_/MobileApplication
-  - schema-org/MobileApplication
-tags:
-  - class/FileClass
-  - class/MobileApplication
-  - is_a_/MobileApplication
-  - class/Thing/CreativeWork/SoftwareApplication/MobileApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 fields:
-  - id: eVnCLt
-    name: CarrierRequirements
-    options: {}
-    type: Input
-    path: ""
+- id: eVnCLt
+  name: CarrierRequirements
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MobileApplication
+- class/Thing/CreativeWork/SoftwareApplication/MobileApplication
+- is_a_/MobileApplication
+- schema-org/MobileApplication
+tags:
+- class/FileClass
+- class/MobileApplication
+- is_a_/MobileApplication
+- class/Thing/CreativeWork/SoftwareApplication/MobileApplication
+version: 2.0
 ---
 
 # MobileApplication

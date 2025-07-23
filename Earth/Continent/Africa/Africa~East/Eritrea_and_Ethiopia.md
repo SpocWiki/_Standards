@@ -1,13 +1,13 @@
 ---
-location: [9.03,38.74]
-type: Country
+confidential: public
+isDeleted: false
+location:
+- 9.03
+- 38.74
+SpocWebEntityId: 76720
 tags:
 - geo/Country
-
-SpocWebEntityId: 76720
-isDeleted: false
-confidential: public
-
+type: Country
 ---
 
 Eritrea gained independence from Ethiopia in 1993 after a 30-year-long war.

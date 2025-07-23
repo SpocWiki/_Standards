@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_read_by
-
-linkTitle: has_read_by
-keywords: [read, by]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - read-by
 - read_by
 - readBy
 - has_read_by
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- read
+- by
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_read_by
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_read_by
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: https://bib.schema.org ]

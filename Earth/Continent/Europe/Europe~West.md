@@ -1,8 +1,9 @@
----
+﻿---
 aliases:
-  - West Europe
-  - Western Europe
+- "West Europe"
+- "Western Europe"
 ---
+
 ﻿# Europe~West
 
 There is no political or economic Entity of this Name. 

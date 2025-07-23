@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_total_job_openings
-linkTitle: has_number_of_total_job_openings
-
-keywords: [total_job_openings]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - total-job-openings
 - total_job_openings
 - totalJobOpenings
 - has_number_of_total_job_openings
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- total_job_openings
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_total_job_openings
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_total_job_openings
+type: Predi_Count
 ---
 
 Predicate to describe the Number of JobPosting.

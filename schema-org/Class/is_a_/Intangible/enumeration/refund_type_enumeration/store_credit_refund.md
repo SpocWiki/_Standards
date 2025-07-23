@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_store_credit_refund Class
-linkTitle: is_a_store_credit_refund Class
-
-keywords: [store_credit_refund]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: RefundTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - store-credit-refund
 - store_credit_refund
 - StoreCreditRefund
 - is_a_store_credit_refund
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: RefundTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- store_credit_refund
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_store_credit_refund Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_store_credit_refund Class"
+type: Type
 ---
 
 Class of all store_credit_refunds.

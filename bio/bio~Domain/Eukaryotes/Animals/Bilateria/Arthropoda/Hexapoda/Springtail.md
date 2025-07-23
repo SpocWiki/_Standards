@@ -1,9 +1,9 @@
----
-title: Collembola
+﻿---
 aliases:
-  - Springtail
-  - Springtails
-  - Collembola
+- Springtail
+- Springtails
+- Collembola
+title: Collembola
 ---
 
 ## Phylogeny 

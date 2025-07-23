@@ -1,12 +1,13 @@
----
-type: Lang
+﻿---
 aliases:
-  - Spanish
-  - Spanish language
+- Spanish
+- "Spanish language"
+has_id_wikidata: Q1321
 tags:
-  - Lang/es
-has_id_wikidata: Q1321 
+- Lang/es
+type: Lang
 ---
+
 ﻿
 [SpocWebEntityId:: 492 ]
 [Name::Spanish]

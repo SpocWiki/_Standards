@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/IndividualProduct
-  - class/Thing/Product/IndividualProduct
-  - is_an_/IndividualProduct
-  - schema-org/IndividualProduct
-tags:
-  - class/FileClass
-  - class/IndividualProduct
-  - "#is_an_/IndividualProduct"
-  - class/Thing/Product/IndividualProduct
 extends: FileClass~Thing/FileClass~Product
 fields:
-  - id: oMrCVY
-    name: SerialNumber
-    options: {}
-    type: Input
-    path: ""
+- id: oMrCVY
+  name: SerialNumber
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/IndividualProduct
+- class/Thing/Product/IndividualProduct
+- is_an_/IndividualProduct
+- schema-org/IndividualProduct
+tags:
+- class/FileClass
+- class/IndividualProduct
+- '#is_an_/IndividualProduct'
+- class/Thing/Product/IndividualProduct
+version: 2.0
 ---
 
 # IndividualProduct

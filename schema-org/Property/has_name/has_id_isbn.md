@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- id_isbn
+- has_id_isbn
+- "schema:isbn"
+- "dbo:isbn"
+- "wdt:P212"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_id_isbn
-linkTitle: has_id_isbn
 keywords:
-  - id_isbn
+- id_isbn
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_id_isbn
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - id_isbn
-  - has_id_isbn
-  - schema:isbn
-  - dbo:isbn
-  - wdt:P212
+- class/Property
+- schema-org/Property/Text
+title: has_id_isbn
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Book.

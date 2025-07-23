@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Mistletoe
-  - Mistel
+- Mistletoe
+- Mistel
 ---
 
 ## #has_/text_of_/abstract 

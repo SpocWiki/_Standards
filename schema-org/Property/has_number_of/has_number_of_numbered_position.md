@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_numbered-position
-linkTitle: has_number_of_numbered-position
-
-keywords: [numbered-position]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - numbered_position
 - numbered-position
 - numberedPosition
 - has_number_of_numbered_position
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- numbered-position
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_numbered-position
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_numbered-position
+type: Predi_Count
 ---
 
 Predicate to describe the Number of OrganizationRole.

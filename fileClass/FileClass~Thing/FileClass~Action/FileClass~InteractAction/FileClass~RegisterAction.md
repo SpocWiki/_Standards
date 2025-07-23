@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RegisterAction
-  - class/Thing/Action/InteractAction/RegisterAction
-  - is_a_/RegisterAction
-  - schema-org/RegisterAction
-tags:
-  - class/FileClass
-  - class/RegisterAction
-  - is_a_/RegisterAction
-  - class/Thing/Action/InteractAction/RegisterAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RegisterAction
+- class/Thing/Action/InteractAction/RegisterAction
+- is_a_/RegisterAction
+- schema-org/RegisterAction
+tags:
+- class/FileClass
+- class/RegisterAction
+- is_a_/RegisterAction
+- class/Thing/Action/InteractAction/RegisterAction
+version: 2.0
 ---
 
 # RegisterAction

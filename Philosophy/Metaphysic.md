@@ -1,67 +1,67 @@
----
-has_id_wikidata: Q35277
-opposite_of: "[[_Standards/WikiData/WD~agnosticism,288928]]"
-subclass_of: "[[_Standards/WikiData/WD~metaphilosophy,596284]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Metaphysics,661655]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-is_the_study_of: "[[_Standards/WikiData/WD~unmoved_mover,2326055]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q3137267,3137267]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Metaphysics,8084282]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-practiced_by: "[[_Standards/WikiData/WD~metaphysician,16743941]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_metaphysics,17004632]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Meta-moerbeke%20jpeg031-part.jpg
-Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/metaphysics
-Krugosvet_article: gumanitarnye_nauki/filosofiya/METAFIZIKA.html
-UMLS_CUI: C0025566
-native_label: �etaf?s???
-MeSH_tree_code: K01.752.511
-spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Metaphysics%20%28spoken%20by%20AI%20voice%29.mp3
-pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sartus85-m%C3%A9taphysique.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Persent101-metaphysics.wav
-Universal_Decimal_Classification: 11
-Dewey_Decimal_Classification: 110
+﻿---
+aliases:
+- Metaphysic
 Colon_Classification: R3
-subreddit: Metaphysics
 Commons_category: Metaphysics
-OmegaWiki_Defined_Meaning: 526039
-PhilPapers_topic: metaphysics
-title: Metaphysic
-lang: en
-type: private_note
-keywords: Metaphysic
-linkTitle: Metaphysic
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
 confidential: private
+cssclasses:
+- private
+- note
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metaphysics,661655]]'
+- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+Dewey_Decimal_Classification: 110
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_id_wikidata: Q35277
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-07-22
+history_of_topic: '[[_Standards/WikiData/WD~Q3137267,3137267]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Meta-moerbeke%20jpeg031-part.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+is_the_study_of: '[[_Standards/WikiData/WD~unmoved_mover,2326055]]'
+keywords: Metaphysic
+Krugosvet_article: gumanitarnye_nauki/filosofiya/METAFIZIKA.html
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: Metaphysic
+MeSH_tree_code: K01.752.511
+native_label: �etaf?s???
+OmegaWiki_Defined_Meaning: 526039
+opposite_of: '[[_Standards/WikiData/WD~agnosticism,288928]]'
+PhilPapers_topic: metaphysics
+practiced_by: '[[_Standards/WikiData/WD~metaphysician,16743941]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sartus85-m%C3%A9taphysique.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1860%20%28eng%29-Persent101-metaphysics.wav"
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-07-22
-aliases:
-  - Metaphysic
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Metaphysics%20%28spoken%20by%20AI%20voice%29.mp3"
+Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/metaphysics"
+subclass_of: '[[_Standards/WikiData/WD~metaphilosophy,596284]]'
+subreddit: Metaphysics
 tags:
-  - Metaphysic
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- Metaphysic
+- excalidraw
+title: Metaphysic
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Metaphysics,8084282]]'
+type: private_note
+UMLS_CUI: C0025566
+Universal_Decimal_Classification: 11
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metaphysics,17004632]]'
 ---
 
 ## #has_/text_of_/abstract 

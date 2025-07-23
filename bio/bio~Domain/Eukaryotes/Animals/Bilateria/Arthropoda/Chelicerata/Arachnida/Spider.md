@@ -1,77 +1,77 @@
----
-title: Spider
+﻿---
 aliases:
-  - Spider
-  - Aranea
-  - Araneae
-  - Spinne
-has_id_wikidata: Q1357
-Krugosvet_article: nauka_i_tehnika/biologiya/PAUKI.html
-NBN_System_Key: NHMSYS0000841308
+- Spider
+- Aranea
+- Araneae
+- Spinne
 Baidu_Tieba_name: 蜘蛛
-taxon_common_name:
-  - Ananse
-  - Паяци
-  - Ayiyi
-  - Αράχνες
-  - Arañas
-  - hämähäkit
-  - Aranéides
-  - עכבישאים
-  - मकडी
-  - Սարդեր
-  - Ragni
-  - クモ目
-  - 거미목
-  - ပင့်ကူ
-  - Spinnen
-  - Pająki
-  - Aranhas
-  - Păianjen
-  - Пауки
-  - pajki
-  - Spindlar
-  - แมงมุม
-  - Örümcekler
-  - Spiders
-  - Spinnen
-  - edderkopper
-  - pavouci
-  - damhán alla
-  - Naʼashjéʼii
-start_time: -319000000-01-01
-has_effect:
-  - "[[_Standards/WikiData/WD~arachnophobia,220783]]"
-  - "[[_Standards/WikiData/WD~spider_bite,2549274]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-different_from: "[[_Standards/WikiData/WD~Spiders,1950984]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~spider_silk,2740926]]"
-studied_by: "[[_Standards/WikiData/WD~araneology,2859535]]"
-parent_taxon: "[[_Standards/WikiData/WD~Tetrapulmonata,3821682]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828342,22828342]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Araneida,30587689]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-OmegaWiki_Defined_Meaning: "3588"
-ITIS_TSN: "82732"
-small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20spider.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Clynotis%20severus%2C%20AF%202.jpg
-montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Spiders%20Diversity.jpg
-described_at_URL: https://neal.fun/earth-reviews/spiders
-EPPO_Code: 1ARANO
-Commons_gallery: Araneae
 Commons_category: Araneae
-taxon_name: Araneae
+Commons_gallery: Araneae
+described_at_URL: "https://neal.fun/earth-reviews/spiders"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Spiders,1950984]]'
+EPPO_Code: 1ARANO
+has_effect:
+- '[[_Standards/WikiData/WD~arachnophobia,220783]]'
+- '[[_Standards/WikiData/WD~spider_bite,2549274]]'
+has_id_wikidata: Q1357
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Clynotis%20severus%2C%20AF%202.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 82732
+Krugosvet_article: nauka_i_tehnika/biologiya/PAUKI.html
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 MeSH_tree_code: B01.050.500.131.166.803
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Spiders%20Diversity.jpg"
+NBN_System_Key: NHMSYS0000841308
+OmegaWiki_Defined_Meaning: 3588
+parent_taxon: '[[_Standards/WikiData/WD~Tetrapulmonata,3821682]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828342,22828342]]'
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20spider.svg"
+start_time: -319000000-01-01
+studied_by: '[[_Standards/WikiData/WD~araneology,2859535]]'
+taxon_common_name:
+- Ananse
+- Паяци
+- Ayiyi
+- Αράχνες
+- Arañas
+- hämähäkit
+- Aranéides
+- עכבישאים
+- मकडी
+- Սարդեր
+- Ragni
+- クモ目
+- 거미목
+- ပင့်ကူ
+- Spinnen
+- Pająki
+- Aranhas
+- Păianjen
+- Пауки
+- pajki
+- Spindlar
+- แมงมุม
+- Örümcekler
+- Spiders
+- Spinnen
+- edderkopper
+- pavouci
+- "damhán alla"
+- Naʼashjéʼii
+taxon_name: Araneae
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Araneida,30587689]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~spider_silk,2740926]]'
+title: Spider
 UMLS_CUI: C0037913
 ---
 

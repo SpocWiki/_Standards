@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_offer_catalog
-
-linkTitle: has_offer_catalog
-keywords: [offer, catalog]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-offer-catalog
 - offer_catalog
 - hasOfferCatalog
 - has_offer_catalog
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- offer
+- catalog
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_offer_catalog
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_offer_catalog
+type: Predi_Relation
 ---
 
 Use it like this: 

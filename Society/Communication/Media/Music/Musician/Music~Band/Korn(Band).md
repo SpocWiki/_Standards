@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Band Korn
+- "Band Korn"
 ---
 
 ## #has_/text_of_/abstract 

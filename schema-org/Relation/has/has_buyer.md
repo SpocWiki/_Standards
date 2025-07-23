@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_buyer
-
-linkTitle: has_buyer
-keywords: [buyer]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - buyer
 - buyer
 - buyer
 - has_buyer
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- buyer
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_buyer
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_buyer
+type: Predi_Relation
 ---
 
 Use it like this: 

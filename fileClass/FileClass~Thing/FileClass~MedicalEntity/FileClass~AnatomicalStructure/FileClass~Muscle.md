@@ -1,50 +1,50 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Muscle
-  - class/Thing/MedicalEntity/AnatomicalStructure/Muscle
-  - is_a_/Muscle
-  - schema-org/Muscle
-tags:
-  - class/FileClass
-  - class/Muscle
-  - is_a_/Muscle
-  - class/Thing/MedicalEntity/AnatomicalStructure/Muscle
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields:
-  - id: tdGEOj
-    name: Antagonist
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')
-    type: MultiFile
-    path: ""
-  - id: YUhEB9
-    name: BloodSupply
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
-    type: MultiFile
-    path: ""
-  - id: omd4BA
-    name: Insertion
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: lOUV8d
-    name: MuscleAction
-    options: {}
-    type: Input
-    path: ""
-  - id: Z6A1LB
-    name: Nerve
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')
-    type: MultiFile
-    path: ""
+- id: tdGEOj
+  name: Antagonist
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')"
+  type: MultiFile
+  path: ''
+- id: YUhEB9
+  name: BloodSupply
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')"
+  type: MultiFile
+  path: ''
+- id: omd4BA
+  name: Insertion
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: lOUV8d
+  name: MuscleAction
+  options: {}
+  type: Input
+  path: ''
+- id: Z6A1LB
+  name: Nerve
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Muscle
+- class/Thing/MedicalEntity/AnatomicalStructure/Muscle
+- is_a_/Muscle
+- schema-org/Muscle
+tags:
+- class/FileClass
+- class/Muscle
+- is_a_/Muscle
+- class/Thing/MedicalEntity/AnatomicalStructure/Muscle
+version: 2.0
 ---
 
 # Muscle

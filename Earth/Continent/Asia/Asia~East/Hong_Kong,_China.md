@@ -1,14 +1,15 @@
----
-location: [22.2783,114.159]
-type: Country
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 22.2783
+- 114.159
+SpocWebEntityId: 26916
 tags:
 - geo/Country
-
-SpocWebEntityId: 26916
-isDeleted: false
-confidential: public
-
+type: Country
 ---
+
 [ISO2::HK]
 [ISO3::HKG]
 ```leaflet

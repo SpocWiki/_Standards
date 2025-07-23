@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: bus
-version: "2.0"
-tagNames:
-  - class/BusOrCoach
-  - class/Thing/Product/Vehicle/BusOrCoach
-  - is_a_/BusOrCoach
-  - schema-org/BusOrCoach
-tags:
-  - class/FileClass
-  - class/BusOrCoach
-  - is_a_/BusOrCoach
-  - class/Thing/Product/Vehicle/BusOrCoach
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 fields:
-  - id: hEz4fF
-    name: AcrissCode
-    options: {}
-    type: Input
-    path: ""
-  - id: ODn1SF
-    name: RoofLoad
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+- id: hEz4fF
+  name: AcrissCode
+  options: {}
+  type: Input
+  path: ''
+- id: ODn1SF
+  name: RoofLoad
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+icon: bus
+limit: 9
+mapWithTag: false
+tagNames:
+- class/BusOrCoach
+- class/Thing/Product/Vehicle/BusOrCoach
+- is_a_/BusOrCoach
+- schema-org/BusOrCoach
+tags:
+- class/FileClass
+- class/BusOrCoach
+- is_a_/BusOrCoach
+- class/Thing/Product/Vehicle/BusOrCoach
+version: 2.0
 ---
 
 # BusOrCoach

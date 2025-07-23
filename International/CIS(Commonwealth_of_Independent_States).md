@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Commonwealth of Independent States
+- "Commonwealth of Independent States"
 has_id_wikidata: Q7779
 ---
-
 
 ## #has_/text_of_/abstract 
 

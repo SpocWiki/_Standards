@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Continent
-  - class/Thing/Place/Landform/Continent
-  - is_a_/Continent
-  - schema-org/Continent
-tags:
-  - class/FileClass
-  - class/Continent
-  - is_a_/Continent
-  - class/Thing/Place/Landform/Continent
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Continent
+- class/Thing/Place/Landform/Continent
+- is_a_/Continent
+- schema-org/Continent
+tags:
+- class/FileClass
+- class/Continent
+- is_a_/Continent
+- class/Thing/Place/Landform/Continent
+version: 2.0
 ---
 
 # Continent

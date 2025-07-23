@@ -1,39 +1,39 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/LymphaticVessel
-  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel
-  - is_a_/LymphaticVessel
-  - schema-org/LymphaticVessel
-tags:
-  - class/FileClass
-  - class/LymphaticVessel
-  - is_a_/LymphaticVessel
-  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 fields:
-  - id: TaLRqs
-    name: OriginatesFrom
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
-    type: MultiFile
-    path: ""
-  - id: 9oeWds
-    name: RegionDrained
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: YzI9un
-    name: RunsTo
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
-    type: MultiFile
-    path: ""
+- id: TaLRqs
+  name: OriginatesFrom
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')"
+  type: MultiFile
+  path: ''
+- id: 9oeWds
+  name: RegionDrained
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: YzI9un
+  name: RunsTo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LymphaticVessel
+- class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel
+- is_a_/LymphaticVessel
+- schema-org/LymphaticVessel
+tags:
+- class/FileClass
+- class/LymphaticVessel
+- is_a_/LymphaticVessel
+- class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel
+version: 2.0
 ---
 
 # LymphaticVessel

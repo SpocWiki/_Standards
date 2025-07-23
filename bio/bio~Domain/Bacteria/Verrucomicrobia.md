@@ -1,7 +1,7 @@
----
-title: Verrucomicrobia
+﻿---
 aliases:
-  - Verrucomicrobia
+- Verrucomicrobia
+title: Verrucomicrobia
 ---
 
 # [[Verrucomicrobia]] 

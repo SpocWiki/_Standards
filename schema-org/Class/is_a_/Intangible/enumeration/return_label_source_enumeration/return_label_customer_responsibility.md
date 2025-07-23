@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_label_customer_responsibility Class
-linkTitle: is_a_return_label_customer_responsibility Class
-
-keywords: [return_label_customer_responsibility]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnLabelSourceEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-label-customer-responsibility
 - return_label_customer_responsibility
 - ReturnLabelCustomerResponsibility
 - is_a_return_label_customer_responsibility
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnLabelSourceEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_label_customer_responsibility
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_label_customer_responsibility Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_label_customer_responsibility Class"
+type: Type
 ---
 
 Class of all return_label_customer_responsibilitys.

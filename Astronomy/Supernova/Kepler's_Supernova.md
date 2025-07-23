@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Kepler's Supernova
-  - Kepler's Nova
-  - Kepler's Star
-  - SN 1604
+- "Kepler's Supernova"
+- "Kepler's Nova"
+- "Kepler's Star"
+- "SN 1604"
 ---
 
 # [[Kepler's_Supernova]] 

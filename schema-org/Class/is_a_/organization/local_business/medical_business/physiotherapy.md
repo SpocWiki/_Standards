@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_physiotherapy Class
-linkTitle: is_a_physiotherapy Class
-
-keywords: [physiotherapy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - physiotherapy
 - physiotherapy
 - Physiotherapy
 - is_a_physiotherapy
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- physiotherapy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_physiotherapy Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_physiotherapy Class"
+type: Type
 ---
 
 Class of all physiotherapys.

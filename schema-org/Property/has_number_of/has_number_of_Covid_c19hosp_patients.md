@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_cvd-num-c19hosp-pats
-linkTitle: has_number_of_cvd-num-c19hosp-pats
-
-keywords: [cvd-num-c19hosp-pats]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - cvd_num_c19hosp_pats
 - cvd-num-c19hosp-pats
 - cvdNumC19HospPats
 - has_number_of_Covid_c19hosp_patients
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cvd-num-c19hosp-pats
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_cvd-num-c19hosp-pats
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_cvd-num-c19hosp-pats
+type: Predi_Count
 ---
 
 Predicate to describe the Number of CDCPMDRecord.

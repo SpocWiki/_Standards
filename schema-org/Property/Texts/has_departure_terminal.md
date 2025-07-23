@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_departure_terminal
-linkTitle: has_text_of_departure_terminal
-
-keywords: [departure, terminal]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - departure-terminal
 - departure_terminal
 - departureTerminal
 - has_text_of_departure_terminal
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- departure
+- terminal
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_departure_terminal
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_departure_terminal
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Flight.

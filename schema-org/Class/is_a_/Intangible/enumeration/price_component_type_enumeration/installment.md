@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_installment Class
-linkTitle: is_an_installment Class
-
-keywords: [installment]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PriceComponentTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - installment
 - installment
 - Installment
 - is_an_installment
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PriceComponentTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- installment
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_installment Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_installment Class"
+type: Type
 ---
 
 Class of all installments.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_employee_role Class
-linkTitle: is_an_employee_role Class
-
-keywords: [employee_role]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - employee-role
 - employee_role
 - EmployeeRole
 - is_an_employee_role
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- employee_role
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_employee_role Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_employee_role Class"
+type: Type
 ---
 
 Class of all employee_roles.

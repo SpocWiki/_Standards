@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Sculpture
-  - class/Thing/CreativeWork/Sculpture
-  - is_a_/Sculpture
-  - schema-org/Sculpture
-tags:
-  - class/FileClass
-  - class/Sculpture
-  - is_a_/Sculpture
-  - class/Thing/CreativeWork/Sculpture
 extends: FileClass~Thing/FileClass~CreativeWork
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Sculpture
+- class/Thing/CreativeWork/Sculpture
+- is_a_/Sculpture
+- schema-org/Sculpture
+tags:
+- class/FileClass
+- class/Sculpture
+- is_a_/Sculpture
+- class/Thing/CreativeWork/Sculpture
+version: 2.0
 ---
 
 # Sculpture

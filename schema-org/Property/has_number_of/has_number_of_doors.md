@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_number-of-doors
-linkTitle: has_number_of_number-of-doors
-
-keywords: [number-of-doors]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number_of_doors
 - number-of-doors
 - numberOfDoors
 - has_number_of_doors
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number-of-doors
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_number-of-doors
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_number-of-doors
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Vehicle.

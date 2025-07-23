@@ -1,8 +1,8 @@
----
-title: Chilopoda
+﻿---
 aliases:
-  - Chilopoda
-  - Centipede
+- Chilopoda
+- Centipede
+title: Chilopoda
 ---
 
 ## Phylogeny 

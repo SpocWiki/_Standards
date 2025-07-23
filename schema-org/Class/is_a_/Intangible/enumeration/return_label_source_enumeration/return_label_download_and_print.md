@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_label_download_and_print Class
-linkTitle: is_a_return_label_download_and_print Class
-
-keywords: [return_label_download_and_print]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnLabelSourceEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-label-download-and-print
 - return_label_download_and_print
 - ReturnLabelDownloadAndPrint
 - is_a_return_label_download_and_print
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnLabelSourceEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_label_download_and_print
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_label_download_and_print Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_label_download_and_print Class"
+type: Type
 ---
 
 Class of all return_label_download_and_prints.

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_type_of_bed
-
-linkTitle: has_type_of_bed
-keywords: [type, of, bed]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - type-of-bed
 - type_of_bed
 - typeOfBed
 - has_type_of_bed
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- type
+- of
+- bed
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_type_of_bed
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_type_of_bed
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Greek alphabet
+- "Greek alphabet"
 has_id_wikidata: Q8216
 ---
-
 
 ## #has_/text_of_/abstract 
 

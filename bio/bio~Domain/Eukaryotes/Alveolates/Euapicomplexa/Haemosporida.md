@@ -1,11 +1,9 @@
----
-title: Plasmodiidae
+﻿---
 aliases:
-  - Haemospororida
-  - Haemosporida
+- Haemospororida
+- Haemosporida
+title: Plasmodiidae
 ---
-
-
 
 # [[Haemosporida]] 
 

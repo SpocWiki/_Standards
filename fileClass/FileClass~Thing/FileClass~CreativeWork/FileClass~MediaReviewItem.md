@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MediaReviewItem
-  - class/Thing/CreativeWork/MediaReviewItem
-  - is_a_/MediaReviewItem
-  - schema-org/MediaReviewItem
-tags:
-  - class/FileClass
-  - class/MediaReviewItem
-  - is_a_/MediaReviewItem
-  - class/Thing/CreativeWork/MediaReviewItem
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: H1UHYz
-    name: MediaItemAppearance
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
-    type: MultiFile
-    path: ""
+- id: H1UHYz
+  name: MediaItemAppearance
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MediaReviewItem
+- class/Thing/CreativeWork/MediaReviewItem
+- is_a_/MediaReviewItem
+- schema-org/MediaReviewItem
+tags:
+- class/FileClass
+- class/MediaReviewItem
+- is_a_/MediaReviewItem
+- class/Thing/CreativeWork/MediaReviewItem
+version: 2.0
 ---
 
 # MediaReviewItem

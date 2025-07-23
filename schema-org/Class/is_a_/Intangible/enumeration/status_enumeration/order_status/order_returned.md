@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_order_returned Class
-linkTitle: is_an_order_returned Class
-
-keywords: [order_returned]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: OrderStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - order-returned
 - order_returned
 - OrderReturned
 - is_an_order_returned
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: OrderStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- order_returned
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_order_returned Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_order_returned Class"
+type: Type
 ---
 
 Class of all order_returneds.

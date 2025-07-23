@@ -1,20 +1,20 @@
----
-has_id_wikidata: Q1150973
+﻿---
 aliases:
-  - Yangtze–Huai River floods
-  - 1931 China floods
-has_cause: "[[_Standards/WikiData/WD~cyclone,79602]]"
-country: "[[_Standards/WikiData/WD~Republic_of_China,13426199]]"
-instance_of: "[[_Standards/WikiData/WD~flood,8068]]"
+- "Yangtze–Huai River floods"
+- "1931 China floods"
+Commons_category: "1931 floods in China"
+coordinate_location: "Point(114.273 30.5812)"
+country: '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
+has_cause: '[[_Standards/WikiData/WD~cyclone,79602]]'
+has_id_wikidata: Q1150973
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hankow%20city%20hall.jpg"
+instance_of: '[[_Standards/WikiData/WD~flood,8068]]'
 number_of_deaths:
-  - 4000000
-  - 3700000
-  - 145000
-  - 2031974
-coordinate_location: Point(114.273 30.5812)
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Hankow%20city%20hall.jpg
-Commons_category: 1931 floods in China
-point_in_time: 1931-01-01T00:00:00Z
+- 4000000
+- 3700000
+- 145000
+- 2031974
+point_in_time: "1931-01-01T00:00:00Z"
 ---
 
 #has_/time_/started :: 1931-06 

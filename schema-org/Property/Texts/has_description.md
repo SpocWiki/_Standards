@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- description
+- description
+- description
+- has_text_of_description
+- "schema:description"
+- "dbo:abstract"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_description
-linkTitle: has_text_of_description
 keywords:
-  - description
+- description
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_description
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - description
-  - description
-  - description
-  - has_text_of_description
-  - schema:description
-  - dbo:abstract
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_description
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Thing.

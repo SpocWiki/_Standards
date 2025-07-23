@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PaintAction
-  - class/Thing/Action/CreateAction/PaintAction
-  - is_a_/PaintAction
-  - schema-org/PaintAction
-tags:
-  - class/FileClass
-  - class/PaintAction
-  - is_a_/PaintAction
-  - class/Thing/Action/CreateAction/PaintAction
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PaintAction
+- class/Thing/Action/CreateAction/PaintAction
+- is_a_/PaintAction
+- schema-org/PaintAction
+tags:
+- class/FileClass
+- class/PaintAction
+- is_a_/PaintAction
+- class/Thing/Action/CreateAction/PaintAction
+version: 2.0
 ---
 
 # PaintAction

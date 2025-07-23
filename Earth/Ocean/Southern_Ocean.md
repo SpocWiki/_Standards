@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Southern Ocean
-  - Antarctic Ocean
+- "Southern Ocean"
+- "Antarctic Ocean"
 ---
-
 
 ## #has_/text_of_/abstract 
 

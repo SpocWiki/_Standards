@@ -1,29 +1,29 @@
----
+﻿---
 aliases:
-  - Mustard
-  - Senf
+- Mustard
+- Senf
+Commons_category: Mustard
+Commons_gallery: Mustard
+country_of_origin: '[[_Standards/WikiData/WD~Italy,38]]'
+has_effect: '[[_Standards/WikiData/WD~mustard_allergy,2270903]]'
 has_id_wikidata: Q131748
-has_part_s_: "[[_Standards/WikiData/WD~mustard_seed,1937700]]"
-has_effect: "[[_Standards/WikiData/WD~mustard_allergy,2270903]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~condiment,2596997]]"
-  - "[[_Standards/WikiData/WD~parivyaya,5368822]]"
-  - "[[_Standards/WikiData/WD~food_paste,5726634]]"
-  - "[[_Standards/WikiData/WD~Q27493900,27493900]]"
-  - "[[_Standards/WikiData/WD~Q27494555,27494555]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
-country_of_origin: "[[_Standards/WikiData/WD~Italy,38]]"
-USDA_NDB_number: "02046"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Senf-Variationen.jpg
-pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-en%20senap.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%95%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%81.ogg
+has_part_s_: '[[_Standards/WikiData/WD~mustard_seed,1937700]]'
+Iconclass_notation: 41C663
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Senf-Variationen.jpg"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
 OKPD2_product_code: 10.84.12.170
 OKPD_code_of_the_good_or_service: 15.87.12.132
-Iconclass_notation: 41C663
-Commons_gallery: Mustard
-Commons_category: Mustard
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Sv-en%20senap.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%95%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%81.ogg"
+subclass_of:
+- '[[_Standards/WikiData/WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~parivyaya,5368822]]'
+- '[[_Standards/WikiData/WD~food_paste,5726634]]'
+- '[[_Standards/WikiData/WD~Q27493900,27493900]]'
+- '[[_Standards/WikiData/WD~Q27494555,27494555]]'
 subreddit: senf
+USDA_NDB_number: 02046
 ---
 
 # [[Mustard]] 

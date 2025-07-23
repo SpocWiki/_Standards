@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_readonly
-linkTitle: is_readonly
-
-keywords: [readonly]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - readonly-value
 - readonly
 - readonlyValue
 - is_readonly
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- readonly
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_readonly
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_readonly
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

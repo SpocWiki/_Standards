@@ -1,53 +1,53 @@
----
-title: Actinopterygii
-has_id_wikidata: Q127282
-mode_of_reproduction: "[[_Standards/WikiData/WD~oviparity,212306]]"
-taxon_rank: "[[_Standards/WikiData/WD~superclass,3504061]]"
-topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Actinopterygii,11698092]]"
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Actinopterygii,13217713]]"
-  - "[[_Standards/WikiData/WD~Template_Actinopterygii_clade,121033204]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Osteichthyes,27207]]"
-parent_taxon: "[[_Standards/WikiData/WD~Osteichthyes,27207]]"
-ITIS_TSN: "161061"
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Port%20Ghalib%20march%202006-0107.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pteronotropis%20signipinnis.jpg
-montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Actinopterygii-0001.jpg
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Aktinopterigoj.ogg
-EPPO_Code: 1ACTNC
+﻿---
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Aktinopterigoj.ogg"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Actinopterygii
-taxon_name: Actinopterygii
-UMLS_CUI: C0998822
-taxon_common_name:
-  - paprskoploutví
-  - Strahlenflosser
-  - Ray-finned Fishes
-  - Aktinopterigoj
-  - Aktinopterüügid
-  - Kiiruimsed
-  - Viuhkaeväiset kalat
-  - Actinoptérygiens
-  - מקריני סנפיר
-  - Zrakoperke
-  - Sugarasúszójú halak
-  - 条鰭綱
-  - 조기어강
-  - Starspures
-  - strålefinnefisker
-  - promieniopłetwe
-  - Actinopterígio
-  - Лучепёрые рыбы
-  - Taggfeniga fiskar
-  - ปลาที่มีก้านครีบ
-  - Işınsal yüzgeçliler
-  - Променепері
-  - Lớp Cá vây tia
-  - 辐鳍鱼
+EPPO_Code: 1ACTNC
+has_id_wikidata: Q127282
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Port%20Ghalib%20march%202006-0107.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Pteronotropis%20signipinnis.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 161061
+mode_of_reproduction: '[[_Standards/WikiData/WD~oviparity,212306]]'
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Actinopterygii-0001.jpg"
+parent_taxon: '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
 start_time: -420000000-01-01
+taxon_common_name:
+- paprskoploutví
+- Strahlenflosser
+- "Ray-finned Fishes"
+- Aktinopterigoj
+- Aktinopterüügid
+- Kiiruimsed
+- "Viuhkaeväiset kalat"
+- Actinoptérygiens
+- "מקריני סנפיר"
+- Zrakoperke
+- "Sugarasúszójú halak"
+- 条鰭綱
+- 조기어강
+- Starspures
+- strålefinnefisker
+- promieniopłetwe
+- Actinopterígio
+- "Лучепёрые рыбы"
+- "Taggfeniga fiskar"
+- ปลาที่มีก้านครีบ
+- "Işınsal yüzgeçliler"
+- Променепері
+- "Lớp Cá vây tia"
+- 辐鳍鱼
+taxon_name: Actinopterygii
+taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
+title: Actinopterygii
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Actinopterygii,11698092]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Actinopterygii,13217713]]'
+- '[[_Standards/WikiData/WD~Template_Actinopterygii_clade,121033204]]'
+UMLS_CUI: C0998822
 ---
 
 # [[Actinopterygii]]

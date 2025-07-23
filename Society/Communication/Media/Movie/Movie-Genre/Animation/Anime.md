@@ -1,62 +1,62 @@
----
-has_id_wikidata: Q1107
-different_from:
-  - "[[_Standards/WikiData/WD~amine,167198]]"
-  - "[[_Standards/WikiData/WD~South_Korean_animation,626844]]"
-  - "[[_Standards/WikiData/WD~anime_manga_style,135120194]]"
-  - "[[_Standards/WikiData/WD~manga,8274]]"
-instance_of: "[[_Standards/WikiData/WD~film_genre,201658]]"
-has_characteristic:
-  - "[[_Standards/WikiData/WD~original_video_animation,220898]]"
-  - "[[_Standards/WikiData/WD~seiyū,622807]]"
-  - "[[_Standards/WikiData/WD~anime_and_manga_genre,4178140]]"
-  - "[[_Standards/WikiData/WD~manga,8274]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_anime,285578]]"
-subclass_of: "[[_Standards/WikiData/WD~audiovisual_work,2431196]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Anime_and_manga,7098843]]"
-part_of: "[[_Standards/WikiData/WD~anime_and_manga,10901350]]"
-has_part_s_:
-  - "[[_Standards/WikiData/WD~anime_television_program,11086742]]"
-  - "[[_Standards/WikiData/WD~anime_film,20650540]]"
-topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_animanga_Other,13518083]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_animanga_RadioDrama,14396953]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_animanga_Radio,14401049]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_animanga_TVDrama,18992094]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_animanga_Stage,126955262]]"
-subreddit:
-  - AskAnime
-  - AnimeART
-  - anime
-IMDb_keyword:
-  - japanese-animation
-  - anime-animation
-  - japanese-anime
-  - anime
-described_at_URL: https://fanlore.org/wiki/Anime
-facet_of: "[[_Standards/WikiData/WD~Japanese_animation,130536044]]"
-properties_for_this_type:
-  - NicoNicoPedia ID
-  - Anime-Planet anime ID
-  - aniSearch anime ID
-fabrication_method: "[[_Standards/WikiData/WD~animation,11425]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
+﻿---
 Commons_category: Anime
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+described_at_URL: "https://fanlore.org/wiki/Anime"
+different_from:
+- '[[_Standards/WikiData/WD~amine,167198]]'
+- '[[_Standards/WikiData/WD~South_Korean_animation,626844]]'
+- '[[_Standards/WikiData/WD~anime_manga_style,135120194]]'
+- '[[_Standards/WikiData/WD~manga,8274]]'
+equivalent_class: "http://dbpedia.org/ontology/Anime"
+fabrication_method: '[[_Standards/WikiData/WD~animation,11425]]'
+facet_of: '[[_Standards/WikiData/WD~Japanese_animation,130536044]]'
 GitHub_topic: anime
 hashtag:
-  - anime
-  - animu
-OmegaWiki_Defined_Meaning: "530431"
-spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%83%D0%B4%D0%B8%D0%BE-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8%20%22%D0%90%D0%BD%D0%B8%D0%BC%D0%B5%22.ogg
+- anime
+- animu
+has_characteristic:
+- '[[_Standards/WikiData/WD~original_video_animation,220898]]'
+- '[[_Standards/WikiData/WD~seiyū,622807]]'
+- '[[_Standards/WikiData/WD~anime_and_manga_genre,4178140]]'
+- '[[_Standards/WikiData/WD~manga,8274]]'
+has_id_wikidata: Q1107
+has_part_s_:
+- '[[_Standards/WikiData/WD~anime_television_program,11086742]]'
+- '[[_Standards/WikiData/WD~anime_film,20650540]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_anime,285578]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anime%20DVDs.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipe-tan%20in%20Different%20Anime%20Styles.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Anime%20video%20frame.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mirai%20Suenaga%20with%20summer%20school%20uniform%20and%20K-on%20character%20style%2020110305.jpg
-equivalent_class: http://dbpedia.org/ontology/Anime
-Stack_Exchange_tag: https://japanese.stackexchange.com/tags/anime
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Anime%20DVDs.JPG"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipe-tan%20in%20Different%20Anime%20Styles.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Anime%20video%20frame.png"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Mirai%20Suenaga%20with%20summer%20school%20uniform%20and%20K-on%20character%20style%2020110305.jpg"
+IMDb_keyword:
+- japanese-animation
+- anime-animation
+- japanese-anime
+- anime
+instance_of: '[[_Standards/WikiData/WD~film_genre,201658]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Anime_and_manga,7098843]]'
+OmegaWiki_Defined_Meaning: 530431
+P8189: 987007539590605171
+part_of: '[[_Standards/WikiData/WD~anime_and_manga,10901350]]'
+properties_for_this_type:
+- "NicoNicoPedia ID"
+- "Anime-Planet anime ID"
+- "aniSearch anime ID"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D1%83%D0%B4%D0%B8%D0%BE-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8%20%22%D0%90%D0%BD%D0%B8%D0%BC%D0%B5%22.ogg"
+Stack_Exchange_tag: "https://japanese.stackexchange.com/tags/anime"
+subclass_of: '[[_Standards/WikiData/WD~audiovisual_work,2431196]]'
+subreddit:
+- AskAnime
+- AnimeART
+- anime
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_animanga_Other,13518083]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_animanga_RadioDrama,14396953]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_animanga_Radio,14401049]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_animanga_TVDrama,18992094]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_animanga_Stage,126955262]]'
 Universal_Decimal_Classification: 791.43-252.5(520)
-P8189: "987007539590605171"
 ---
 
 # [[Anime]]

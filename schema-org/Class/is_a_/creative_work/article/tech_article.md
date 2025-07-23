@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_tech_article Class
-linkTitle: is_a_tech_article Class
-
-keywords: [tech_article]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - tech-article
 - tech_article
 - TechArticle
 - is_a_tech_article
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tech_article
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_tech_article Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_tech_article Class"
+type: Type
 ---
 
 Class of all tech_articles.

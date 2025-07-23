@@ -23,12 +23,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Singapore
-  - Singapur
-  - Singapour
-  - سنغافورة
-  - 新加坡
-  - Сингапур
+- Singapore
+- Singapur
+- Singapour
+- سنغافورة
+- 新加坡
+- Сингапур
 - "the Republic of Singapore"
 - "la República de Singapur"
 Languages:
@@ -280,7 +280,7 @@ Krugosvet_article: strany_mira/SINGAPUR.html
 MeSH_tree_code: Z01.252.145.774
 nickname:
 - "Lion City"
-  - 狮城
+- 狮城
 motto_text:
 - "Onward, Singapore"
 - "Majulah Singapura"
@@ -288,12 +288,12 @@ native_label:
 - "Republic of Singapore"
 - "Republik Singapura"
 - "சிங்கப்பூர் குடியரசு"
-  - 新加坡共和国
+- 新加坡共和国
 official_name:
 - "Republic of Singapore"
 - "Republik Singapura"
 - "சிங்கப்பூர் குடியரசு"
-  - 新加坡共和国
+- 新加坡共和国
 short_name: "\U0001F1F8\U0001F1EC"
 coordinate_location: "Point(103.8 1.3)"
 coordinates_of_easternmost_point: "Point(104.08549324 1.41009071)"

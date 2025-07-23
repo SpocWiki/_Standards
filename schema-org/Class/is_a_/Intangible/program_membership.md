@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_program_membership Class
-linkTitle: is_a_program_membership Class
-
-keywords: [program_membership]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - program-membership
 - program_membership
 - ProgramMembership
 - is_a_program_membership
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- program_membership
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_program_membership Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_program_membership Class"
+type: Type
 ---
 
 Class of all program_memberships.

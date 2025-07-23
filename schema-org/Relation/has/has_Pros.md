@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - Advantages
+- Advantages
 ---
+
 ﻿Enumerates positive, reinforcing Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../Collection]]-Nature. 
 

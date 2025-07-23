@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Der Clou
+- "Der Clou"
 ---
-
 
 ## #has_/text_of_/abstract 
 

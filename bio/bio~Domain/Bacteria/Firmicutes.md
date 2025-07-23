@@ -1,8 +1,8 @@
----
-title: Firmicutes
+﻿---
 aliases:
-  - Firmicutes
-  - Bacillota
+- Firmicutes
+- Bacillota
+title: Firmicutes
 ---
 
 # [[Firmicutes]]

@@ -1,7 +1,6 @@
----
+﻿---
 has_id_wikidata: Q503
 ---
-
 
 ## #has_/text_of_/abstract 
 

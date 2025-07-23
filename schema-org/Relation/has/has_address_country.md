@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_address_country
-
-linkTitle: has_address_country
-keywords: [address, country]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - address-country
 - address_country
 - addressCountry
 - has_address_country
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- address
+- country
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_address_country
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_address_country
+type: Predi_Relation
 ---
 
 Use it like this: 

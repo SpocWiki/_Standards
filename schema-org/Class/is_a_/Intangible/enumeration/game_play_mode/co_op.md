@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_co_op Class
-linkTitle: is_a_co_op Class
-
-keywords: [co_op]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GamePlayMode
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - co-op
 - co_op
 - CoOp
 - is_a_co_op
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GamePlayMode
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- co_op
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_co_op Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_co_op Class"
+type: Type
 ---
 
 Class of all co_ops.

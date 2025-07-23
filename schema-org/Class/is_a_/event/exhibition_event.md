@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_exhibition_event Class
-linkTitle: is_an_exhibition_event Class
-
-keywords: [exhibition_event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - exhibition-event
 - exhibition_event
 - ExhibitionEvent
 - is_an_exhibition_event
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- exhibition_event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_exhibition_event Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_exhibition_event Class"
+type: Type
 ---
 
 Class of all exhibition_events.

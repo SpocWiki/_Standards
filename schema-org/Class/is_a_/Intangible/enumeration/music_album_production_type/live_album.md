@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_live_album Class
-linkTitle: is_a_live_album Class
-
-keywords: [live_album]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MusicAlbumProductionType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - live-album
 - live_album
 - LiveAlbum
 - is_a_live_album
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MusicAlbumProductionType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- live_album
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_live_album Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_live_album Class"
+type: Type
 ---
 
 Class of all live_albums.

@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - The World Is Not Enough
+- "The World Is Not Enough"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,36 +1,31 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_arterial_branch
-
-linkTitle: has_arterial_branch
-keywords: [arterial, branch]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: branch
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - arterial-branch
 - arterial_branch
 - arterialBranch
 - has_arterial_branch
-fileClass: [FileClass-Relation]
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+fileClass:
+- FileClass-Relation
+isDeleted: false
+isReadOnly: false
+keywords:
+- arterial
+- branch
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_arterial_branch
+publish: true
+publishDate: 
+supersedes: branch
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_arterial_branch
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ImagingTest
-  - class/Thing/MedicalEntity/MedicalTest/ImagingTest
-  - is_an_/ImagingTest
-  - schema-org/ImagingTest
-tags:
-  - class/FileClass
-  - class/ImagingTest
-  - "#is_an_/ImagingTest"
-  - class/Thing/MedicalEntity/MedicalTest/ImagingTest
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ImagingTest
+- class/Thing/MedicalEntity/MedicalTest/ImagingTest
+- is_an_/ImagingTest
+- schema-org/ImagingTest
+tags:
+- class/FileClass
+- class/ImagingTest
+- '#is_an_/ImagingTest'
+- class/Thing/MedicalEntity/MedicalTest/ImagingTest
+version: 2.0
 ---
 
 # ImagingTest

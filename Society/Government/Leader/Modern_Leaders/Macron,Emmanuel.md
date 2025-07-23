@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Macron
-  - Emmanuel Macron
-  - Emmanuel Jean-Michel Frédéric Macron
+- Macron
+- "Emmanuel Macron"
+- "Emmanuel Jean-Michel Frédéric Macron"
 ---
 
 ## #has_/text_of_/abstract 

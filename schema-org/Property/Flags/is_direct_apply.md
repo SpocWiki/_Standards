@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_direct_apply
-linkTitle: is_direct_apply
-
-keywords: [direct_apply]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - direct-apply
 - direct_apply
 - directApply
 - is_direct_apply
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- direct_apply
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_direct_apply
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_direct_apply
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

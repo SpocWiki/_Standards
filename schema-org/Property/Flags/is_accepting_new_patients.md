@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_accepting_new_patients
-linkTitle: is_accepting_new_patients
-
-keywords: [accepting_new_patients]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - accepting-new-patients
 - accepting_new_patients
 - isAcceptingNewPatients
 - is_accepting_new_patients
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- accepting_new_patients
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_accepting_new_patients
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_accepting_new_patients
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

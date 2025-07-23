@@ -1,6 +1,10 @@
----
+﻿---
 aliases:
 - "Arabic alphabet"
+based_on: '[[_Standards/WikiData/WD~Nabataean_script,855624]]'
+Commons_category: "Arabic alphabet"
+Commons_gallery: "Arabic alphabet"
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%2060000.svg"
 has_id_wikidata: Q8196
 has_part_s_:
 - '[[_Standards/WikiData/WD~ز,167809]]'
@@ -23,7 +27,7 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~غ,222792]]'
 - '[[_Standards/WikiData/WD~ف,222849]]'
 - '[[_Standards/WikiData/WD~ق,222979]]'
-- "[[_Standards/WikiData/WD~كzniy_sjanaajw,293015]]"
+- '[[_Standards/WikiData/WD~كzniy_sjanaajw,293015]]'
 - '[[_Standards/WikiData/WD~ل,293090]]'
 - '[[_Standards/WikiData/WD~م,293461]]'
 - '[[_Standards/WikiData/WD~ن,293887]]'
@@ -31,25 +35,21 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~و,294274]]'
 - '[[_Standards/WikiData/WD~ي,294574]]'
 - '[[_Standards/WikiData/WD~ب,20509]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Arabic_alphabet,617458]]"
-based_on: "[[_Standards/WikiData/WD~Nabataean_script,855624]]"
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~sun_and_moon_letters,1124683]]"
-- "[[_Standards/WikiData/WD~Arabic_letter,41713761]]"
-writing_system: "[[_Standards/WikiData/WD~Arabic_script,1828555]]"
-instance_of:
-- "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-- "[[_Standards/WikiData/WD~Semitic_alphabet,28698154]]"
-script_directionality: '[[_Standards/WikiData/WD~right-to-left,7333457]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13203898,13203898]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q66778026,66778026]]'
-language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955]]'
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%2060000.svg"
+- '[[_Standards/WikiData/WD~sun_and_moon_letters,1124683]]'
+- '[[_Standards/WikiData/WD~Arabic_letter,41713761]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Arabic_alphabet,617458]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arabic-script.png"
+instance_of:
+- '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+- '[[_Standards/WikiData/WD~Semitic_alphabet,28698154]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Arabic,13955]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13203898,13203898]]'
+script_directionality: '[[_Standards/WikiData/WD~right-to-left,7333457]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/NL-Arabisch%20Alfabet-article.ogg"
+topic_s_main_template: '[[_Standards/WikiData/WD~Q66778026,66778026]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Arabic%20Alphabet-0Isyy%20ZvZR8.webm"
-Commons_gallery: "Arabic alphabet"
-Commons_category: "Arabic alphabet"
+writing_system: '[[_Standards/WikiData/WD~Arabic_script,1828555]]'
 ---
 
 ## #has_/text_of_/abstract 

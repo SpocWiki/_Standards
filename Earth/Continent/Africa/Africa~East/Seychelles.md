@@ -43,8 +43,8 @@ motto_text:
 official_name:
 - "la République des Seychelles"
 - "Repubblica delle Seychelles"
-  - Seychelles
-  - Seychelles
+- Seychelles
+- Seychelles
 native_label: "République des Seychelles"
 short_name: "\U0001F1F8\U0001F1E8"
 instance_of:

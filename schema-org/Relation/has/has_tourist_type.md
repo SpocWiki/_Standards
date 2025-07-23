@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_tourist_type
-
-linkTitle: has_tourist_type
-keywords: [tourist, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - tourist-type
 - tourist_type
 - touristType
 - has_tourist_type
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tourist
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_tourist_type
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_tourist_type
+type: Predi_Relation
 ---
 
 Use it like this: 

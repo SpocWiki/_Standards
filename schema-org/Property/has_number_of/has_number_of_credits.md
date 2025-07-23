@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_credits
-linkTitle: has_number_of_credits
-
-keywords: [number_of_credits]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number-of-credits
 - number_of_credits
 - numberOfCredits
 - has_number_of_credits
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number_of_credits
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_credits
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_credits
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Course, EducationalOccupationalProgram.

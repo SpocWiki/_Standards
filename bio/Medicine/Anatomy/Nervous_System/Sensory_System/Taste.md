@@ -1,26 +1,26 @@
----
-has_id_wikidata: Q124794
-subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
-instance_of: '[[_Standards/WikiData/WD~sense,173253]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-part_of: "[[_Standards/WikiData/WD~five_wits,1051623]]"
-different_from: '[[_Standards/WikiData/WD~Smak,2294826]]'
-has_part_s_: "[[_Standards/WikiData/WD~taste_in_Islam,5269467]]"
-UMLS_CUI: C0039336
-OmegaWiki_Defined_Meaning: 420792
+﻿---
+Colon_Classification: "S:22"
 Commons_category: Taste
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tongue-bitter.jpg"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Dewey_Decimal_Classification: 152.167
+different_from: '[[_Standards/WikiData/WD~Smak,2294826]]'
+has_id_wikidata: Q124794
+has_part_s_: '[[_Standards/WikiData/WD~taste_in_Islam,5269467]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tongue-bitter.jpg"
+instance_of: '[[_Standards/WikiData/WD~sense,173253]]'
+Krugosvet_article: nauka_i_tehnika/himiya/ZAPAH_I_VKUS.html
 MeSH_tree_code:
 - F02.830.816.724
 - G11.561.790.724
-Krugosvet_article: nauka_i_tehnika/himiya/ZAPAH_I_VKUS.html
-Colon_Classification: "S:22"
+OmegaWiki_Defined_Meaning: 420792
+part_of: '[[_Standards/WikiData/WD~five_wits,1051623]]'
 PhilPapers_topic: taste-experience
+subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
+UMLS_CUI: C0039336
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_periodical Class
-linkTitle: is_a_periodical Class
-
-keywords: [periodical]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.org/ontology/bibo/Periodical
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - periodical
 - periodical
 - Periodical
 - is_a_periodical
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://purl.org/ontology/bibo/Periodical"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- periodical
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_periodical Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_periodical Class"
+type: Type
 ---
 
 Class of all periodicals.

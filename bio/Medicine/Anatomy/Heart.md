@@ -1,7 +1,6 @@
----
+﻿---
 has_id_wikidata: Q1072
 ---
-
 
 ## #has_/text_of_/abstract 
 

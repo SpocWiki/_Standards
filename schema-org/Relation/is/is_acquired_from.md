@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_acquired_from
-
-linkTitle: is_acquired_from
-keywords: [acquired, from]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - acquired-from
 - acquired_from
 - acquiredFrom
 - is_acquired_from
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- acquired
+- from
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_acquired_from
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_acquired_from
+type: Predi_Relation
 ---
 
 Use it like this: 

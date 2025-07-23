@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_in_collection
-
-linkTitle: is_in_collection
-keywords: [collection]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: targetCollection
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - collection
 - collection
 - collection
 - is_in_collection
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- collection
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_in_collection
+publish: true
+publishDate: 
+superseded_by: targetCollection
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_in_collection
+type: Predi_Relation
 ---
 
 Use it like this: 

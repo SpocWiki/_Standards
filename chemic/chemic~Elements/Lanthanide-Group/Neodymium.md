@@ -1,26 +1,32 @@
----
-type: Element
-SpocWebEntityId: 21956
-has_id_wikidata: Q1388
-MeSH_tree_code:
-- D01.268.558.362.625
-- D01.552.550.399.625
+﻿---
+atomic_number: 60
+canonical_SMILES: '[Nd]'
+CAS_Registry_Number: 7440-00-8
+chemical_formula: Nd
+Commons_category: Neodymium
+Commons_gallery: Neodymium
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
 DSSTOX_compound_identifier: DTXCID7047641
+EC_number: 231-109-3
+electronegativity: 1.14
+element_symbol: Nd
+Gmelin_number: 16212
+has_id_wikidata: Q1388
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Neodym%201.jpg"
 InChI: InChI=1S/Nd
 InChIKey: QEFYFXOXNSNQGX-UHFFFAOYSA-N
-Unicode_character: 釹
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
-named_after:
-- '[[_Standards/WikiData/WD~twin,159979]]'
-- '[[_Standards/WikiData/WD~novelty,12544101]]'
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.98
+- 1.12
+- 1.16
+- 1.27
+location_of_discovery: '[[_Standards/WikiData/WD~Vienna,1741]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~aeschynite-(Nd),1067020]]'
 - '[[_Standards/WikiData/WD~clinofergusonite-(Nd),2718921]]'
@@ -51,31 +57,25 @@ made_from_material:
 - '[[_Standards/WikiData/WD~hingganite-(Nd),68769615]]'
 - '[[_Standards/WikiData/WD~lepersonnite-(Nd),110297480]]'
 - '[[_Standards/WikiData/WD~chinleite-(Nd),114793058]]'
-time_of_discovery_or_invention: "1885"
-UMLS_CUI: C0027599
-location_of_discovery: '[[_Standards/WikiData/WD~Vienna,1741]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-atomic_number: 60
-ionic_radius:
-- 0.98
-- 1.12
-- 1.16
-- 1.27
-electronegativity: 1.14
-ZVG_number: 7600
-PubChem_CID: 23934
 mass: 144.242
-Gmelin_number: 16212
-Commons_category: Neodymium
-Commons_gallery: Neodymium
-chemical_formula: Nd
-element_symbol: Nd
+MeSH_tree_code:
+- D01.268.558.362.625
+- D01.552.550.399.625
+named_after:
+- '[[_Standards/WikiData/WD~twin,159979]]'
+- '[[_Standards/WikiData/WD~novelty,12544101]]'
 OmegaWiki_Defined_Meaning: 338320
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Neodym%201.jpg"
-canonical_SMILES: '[Nd]'
-EC_number: 231-109-3
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+PubChem_CID: 23934
+SpocWebEntityId: 21956
+time_of_discovery_or_invention: 1885
+type: Element
+UMLS_CUI: C0027599
+Unicode_character: 釹
 UNII: 2I87U3734A
-CAS_Registry_Number: 7440-00-8
+ZVG_number: 7600
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Neodymium,1388]] 

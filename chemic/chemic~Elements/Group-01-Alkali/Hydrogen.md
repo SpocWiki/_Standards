@@ -1,77 +1,76 @@
----
-type: Element
-SpocWebEntityId: 21904
-has_id_wikidata: Q556
-Commons_category: Hydrogen
-Krugosvet_article: nauka_i_tehnika/himiya/VODOROD.html
-Unicode_character: 氫
-thermal_conductivity: 0.1805
-density: 0.08987
-ionization_energy: 13.598
-refractive_index: 1.000132
-time_of_discovery_or_invention: "1766"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Henry_Cavendish,131733]]"
-has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_1,191936]]"
-- "[[_Standards/WikiData/WD~group_1,10801007]]"
-- '[[_Standards/WikiData/WD~water,283]]'
+﻿---
 antiparticle: '[[_Standards/WikiData/WD~antihydrogen,216121]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- '[[_Standards/WikiData/WD~Hydrogen,108309723]]'
+atomic_number: 1
+boiling_point: -252.87
+CAS_Registry_Number: 12385-13-6
+Colon_Classification: E110
 color: '[[_Standards/WikiData/WD~colorless,1396399]]'
-instance_of:
-- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+Commons_category: Hydrogen
+Commons_gallery: Hydrogen
+density: 0.08987
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Hydrogen,108309723]]'
+Dewey_Decimal_Classification:
+- 546.21
+- 553.92
 different_from:
 - '[[_Standards/WikiData/WD~dihydrogen,3027893]]'
-- "[[_Standards/WikiData/WD~hydrogen_atom,6643508]]"
-- "[[_Standards/WikiData/WD~hydrogen_molecule,19822725]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57873859,57873859]]'
-Stack_Exchange_tag:
-- "https://chemistry.stackexchange.com/tags/hydrogen"
-- "https://physics.stackexchange.com/tags/hydrogen"
-UMLS_CUI: C0020275
+- '[[_Standards/WikiData/WD~hydrogen_atom,6643508]]'
+- '[[_Standards/WikiData/WD~hydrogen_molecule,19822725]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henry_Cavendish,131733]]'
+electronegativity: 2.2
+electron_configuration: 1s¹
+element_symbol: H
+E_number: E949
+has_id_wikidata: Q556
+has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius: 54
+ionization_energy: 13.598
+Krugosvet_article: nauka_i_tehnika/himiya/VODOROD.html
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+mass: 1.008
 melting_point: -259.14
-boiling_point: -252.87
+MeSH_tree_code:
+- D01.268.406
+- D01.362.340
+molar_enthalpy_of_vaporization: 0.452
 named_after: '[[_Standards/WikiData/WD~water,283]]'
-subclass_of: '[[_Standards/WikiData/WD~nonmetal,19600]]'
+OmegaWiki_Defined_Meaning: 1823
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 oxidation_state:
 - -1
 - 0
 - 1
-location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-atomic_number: 1
-electronegativity: 2.2
-ionic_radius: 54
-speed_of_sound: 1270
-molar_enthalpy_of_vaporization: 0.452
+part_of:
+- '[[_Standards/WikiData/WD~period_1,191936]]'
+- '[[_Standards/WikiData/WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57873859,57873859]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-ar.ogg"
+refractive_index: 1.000132
+speed_of_sound: 1270
+SpocWebEntityId: 21904
+Stack_Exchange_tag:
+- "https://chemistry.stackexchange.com/tags/hydrogen"
+- "https://physics.stackexchange.com/tags/hydrogen"
+subclass_of: '[[_Standards/WikiData/WD~nonmetal,19600]]'
+thermal_conductivity: 0.1805
+time_of_discovery_or_invention: 1766
+type: Element
+UMLS_CUI: C0020275
+Unicode_character: 氫
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20balloon%20explosion%202.webm"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg"
-mass: 1.008
-CAS_Registry_Number: 12385-13-6
-OmegaWiki_Defined_Meaning: 1823
-electron_configuration: 1s¹
-Dewey_Decimal_Classification:
-- 546.21
-- 553.92
-MeSH_tree_code:
-- D01.268.406
-- D01.362.340
-Colon_Classification: E110
-E_number: E949
 Wolfram_Language_entity_code: "Entity[\"Element\", \"Hydrogen\"]"
-element_symbol: H
-Commons_gallery: Hydrogen
 ---
-
 
 # [[Hydrogen]] 
 

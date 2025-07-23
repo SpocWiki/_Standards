@@ -1,9 +1,9 @@
----
-title: Embryophytes
+﻿---
 aliases:
-  - Embryophyta
-  - land plants
-  - Landpflanze
+- Embryophyta
+- "land plants"
+- Landpflanze
+title: Embryophytes
 ---
 
 # [[Land_Plant]]

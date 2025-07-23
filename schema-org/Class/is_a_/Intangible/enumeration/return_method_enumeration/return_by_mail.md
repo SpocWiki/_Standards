@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_by_mail Class
-linkTitle: is_a_return_by_mail Class
-
-keywords: [return_by_mail]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnMethodEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-by-mail
 - return_by_mail
 - ReturnByMail
 - is_a_return_by_mail
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnMethodEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_by_mail
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_by_mail Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_by_mail Class"
+type: Type
 ---
 
 Class of all return_by_mails.

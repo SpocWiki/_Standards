@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_eligible_region
-linkTitle: has_location_eligible_region
-
-keywords: [eligible_region]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - eligible-region
 - eligible_region
 - eligibleRegion
 - has_location_eligible_region
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- eligible_region
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_eligible_region
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_eligible_region
+type: Pred_geo
 ---
 
 Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer.

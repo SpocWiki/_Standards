@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - 500 Days of Summer
+- "500 Days of Summer"
 ---
 
 # [[500_Days_of_Summer]] 

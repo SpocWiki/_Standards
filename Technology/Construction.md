@@ -1,55 +1,55 @@
----
-has_id_wikidata: Q385378
-practiced_by:
-- "[[_Standards/WikiData/WD~general_contractor,289612]]"
-- "[[_Standards/WikiData/WD~construction_foreman,691522]]"
-- "[[_Standards/WikiData/WD~master_builder,1340643]]"
-- "[[_Standards/WikiData/WD~civil_engineer,13582652]]"
-- "[[_Standards/WikiData/WD~building_engineer,21778977]]"
-- "[[_Standards/WikiData/WD~building_contractor,63755054]]"
-- "[[_Standards/WikiData/WD~construction_technology_manager,106191850]]"
-- '[[_Standards/WikiData/WD~architect,42973]]'
-said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~constructing,329637]]'
-- '[[_Standards/WikiData/WD~construction,3875186]]'
-- "[[_Standards/WikiData/WD~construction_industry,13405640]]"
-partially_coincident_with: '[[_Standards/WikiData/WD~construction,3875186]]'
-subclass_of:
-- '[[_Standards/WikiData/WD~construction,3875186]]'
-- "[[_Standards/WikiData/WD~economic_activity,8187769]]"
-instance_of: "[[_Standards/WikiData/WD~economic_activity,8187769]]"
-has_part_s_:
-- "[[_Standards/WikiData/WD~building_construction,13377238]]"
-- "[[_Standards/WikiData/WD~specialised_construction_activities,29584305]]"
-- "[[_Standards/WikiData/WD~civil_engineering,73303844]]"
-different_from:
-- "[[_Standards/WikiData/WD~construction_industry,13405640]]"
-- '[[_Standards/WikiData/WD~deployment,110279643]]'
-part_of:
-- "[[_Standards/WikiData/WD~AEC_industry,89358787]]"
-- "[[_Standards/WikiData/WD~section_in_classification_of_productive_activities,112117701]]"
-- "[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Time-lapse%20of%20building%20demolition%20and%20reconstruction%20in%20Zurich.webm"
-NAF_code_v2: F
-NACE_code_rev_2: F
-International_Standard_Industrial_Classification_code_Rev_4: F
-Library_of_Congress_Classification: TH
+﻿---
+All_Science_Journal_Classification_Codes: 2215
+Colon_Classification: M92
+Common_Procurement_Vocabulary_code: 45000000
 Dewey_Decimal_Classification:
 - 624
 - 690
+different_from:
+- '[[_Standards/WikiData/WD~construction_industry,13405640]]'
+- '[[_Standards/WikiData/WD~deployment,110279643]]'
+has_id_wikidata: Q385378
+has_part_s_:
+- '[[_Standards/WikiData/WD~building_construction,13377238]]'
+- '[[_Standards/WikiData/WD~specialised_construction_activities,29584305]]'
+- '[[_Standards/WikiData/WD~civil_engineering,73303844]]'
 IAB_code: 121
-All_Science_Journal_Classification_Codes: 2215
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ladder%20fall%20prevention%20%289253630705%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~economic_activity,8187769]]'
+International_Standard_Industrial_Classification_code_Rev_4: F
+Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_ZDANI.html
+Library_of_Congress_Classification: TH
+NACE_code_rev_2: F
+NAF_code_v2: F
 name:
 - Construction
 - construction
 - Baugewerbe/Bau
 - Bouwnijverheid
-U_S_National_Archives_Identifier: 10639920
+partially_coincident_with: '[[_Standards/WikiData/WD~construction,3875186]]'
+part_of:
+- '[[_Standards/WikiData/WD~AEC_industry,89358787]]'
+- '[[_Standards/WikiData/WD~section_in_classification_of_productive_activities,112117701]]'
+- '[[_Standards/WikiData/WD~secondary_sector_of_the_economy,55639]]'
+practiced_by:
+- '[[_Standards/WikiData/WD~general_contractor,289612]]'
+- '[[_Standards/WikiData/WD~construction_foreman,691522]]'
+- '[[_Standards/WikiData/WD~master_builder,1340643]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+- '[[_Standards/WikiData/WD~building_engineer,21778977]]'
+- '[[_Standards/WikiData/WD~building_contractor,63755054]]'
+- '[[_Standards/WikiData/WD~construction_technology_manager,106191850]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
+said_to_be_the_same_as:
+- '[[_Standards/WikiData/WD~constructing,329637]]'
+- '[[_Standards/WikiData/WD~construction,3875186]]'
+- '[[_Standards/WikiData/WD~construction_industry,13405640]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~construction,3875186]]'
+- '[[_Standards/WikiData/WD~economic_activity,8187769]]'
 subreddit: Construction
-Colon_Classification: M92
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ladder%20fall%20prevention%20%289253630705%29.jpg"
-Common_Procurement_Vocabulary_code: 45000000
-Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_ZDANI.html
+U_S_National_Archives_Identifier: 10639920
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Time-lapse%20of%20building%20demolition%20and%20reconstruction%20in%20Zurich.webm"
 ---
 
 ## #has_/text_of_/abstract 

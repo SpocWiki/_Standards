@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Pierre de Coubertin
-  - Charles Pierre de Frédy
+- "Pierre de Coubertin"
+- "Charles Pierre de Frédy"
 ---
 
 #has_/time_/started :: 1863-01-01 

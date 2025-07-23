@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PlayGameAction
-  - class/Thing/Action/ConsumeAction/PlayGameAction
-  - is_a_/PlayGameAction
-  - schema-org/PlayGameAction
-tags:
-  - class/FileClass
-  - class/PlayGameAction
-  - is_a_/PlayGameAction
-  - class/Thing/Action/ConsumeAction/PlayGameAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PlayGameAction
+- class/Thing/Action/ConsumeAction/PlayGameAction
+- is_a_/PlayGameAction
+- schema-org/PlayGameAction
+tags:
+- class/FileClass
+- class/PlayGameAction
+- is_a_/PlayGameAction
+- class/Thing/Action/ConsumeAction/PlayGameAction
+version: 2.0
 ---
 
 # PlayGameAction

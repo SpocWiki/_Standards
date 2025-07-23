@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/StatisticalPopulation
-  - class/Thing/Intangible/StatisticalPopulation
-  - is_a_/StatisticalPopulation
-  - schema-org/StatisticalPopulation
-tags:
-  - class/FileClass
-  - class/StatisticalPopulation
-  - is_a_/StatisticalPopulation
-  - class/Thing/Intangible/StatisticalPopulation
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/StatisticalPopulation
+- class/Thing/Intangible/StatisticalPopulation
+- is_a_/StatisticalPopulation
+- schema-org/StatisticalPopulation
+tags:
+- class/FileClass
+- class/StatisticalPopulation
+- is_a_/StatisticalPopulation
+- class/Thing/Intangible/StatisticalPopulation
+version: 2.0
 ---
 
 # StatisticalPopulation

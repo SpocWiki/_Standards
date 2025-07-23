@@ -1,33 +1,33 @@
----
+﻿---
 aliases:
-  - Blackberry
-  - Blackberries 
-  - Brombeere
-  - Brombeeren
-has_id_wikidata: Q19842373
-subclass_of:
-  - "[[_Standards/WikiData/WD~polydrupe,163233]]"
-  - "[[_Standards/WikiData/WD~fruit,3314483]]"
-  - "[[_Standards/WikiData/WD~berry,16128920]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-color: "[[_Standards/WikiData/WD~dark_purple,19571398]]"
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Rubus_subg._Rubus,13180]]"
-food_energy: 43
-PLU_code: "4239"
-USDA_NDB_number:
-  - "09043"
-  - "09042"
-  - "09048"
-  - "09046"
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Blackberry%20%28Rubus%20fruticosus%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ripe%2C%20ripening%2C%20and%20green%20blackberries.jpg
-Commons_gallery: Blackberry
+- Blackberry
+- Blackberries
+- Brombeere
+- Brombeeren
+color: '[[_Standards/WikiData/WD~dark_purple,19571398]]'
 Commons_category: Blackberries
+Commons_gallery: Blackberry
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+food_energy: 43
+has_id_wikidata: Q19842373
 Iconclass_notation: 25G31(BLACKBERRY-BUSH)
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Blackberry%20%28Rubus%20fruticosus%29.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ripe%2C%20ripening%2C%20and%20green%20blackberries.jpg"
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Rubus_subg._Rubus,13180]]'
+PLU_code: 4239
+subclass_of:
+- '[[_Standards/WikiData/WD~polydrupe,163233]]'
+- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~berry,16128920]]'
 UNII: 8A6OMU3I8L
+USDA_NDB_number:
+- 09043
+- 09042
+- 09048
+- 09046
 ---
 
 # [[Blackberry]] 

@@ -1,16 +1,16 @@
----
-location:
-  - 4.36667
-  - 18.5833
-type: Country
-tags:
-  - geo/Country
-has_id_wikidata: Q929
-SpocWebEntityId: 26863
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Central African Republic
+- "Central African Republic"
+confidential: public
+has_id_wikidata: Q929
+isDeleted: false
+location:
+- 4.36667
+- 18.5833
+SpocWebEntityId: 26863
+tags:
+- geo/Country
+type: Country
 ---
 
 # [[Central_African_Rep]] 

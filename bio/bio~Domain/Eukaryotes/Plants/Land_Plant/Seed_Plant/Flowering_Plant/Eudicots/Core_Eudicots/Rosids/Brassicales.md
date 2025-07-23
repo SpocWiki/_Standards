@@ -1,7 +1,7 @@
----
-title: Brassicales
+﻿---
 aliases:
-  - Brassicales
+- Brassicales
+title: Brassicales
 ---
 
 # [[Brassicales]] 

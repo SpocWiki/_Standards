@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Jamie Lee Curtis
+- "Jamie Lee Curtis"
 ---
 
 #has_/time_/started :: 1958-11-22 

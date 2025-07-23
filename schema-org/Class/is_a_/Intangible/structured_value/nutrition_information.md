@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nutrition_information Class
-linkTitle: is_a_nutrition_information Class
-
-keywords: [nutrition_information]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nutrition-information
 - nutrition_information
 - NutritionInformation
 - is_a_nutrition_information
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nutrition_information
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nutrition_information Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nutrition_information Class"
+type: Type
 ---
 
 Class of all nutrition_informations.

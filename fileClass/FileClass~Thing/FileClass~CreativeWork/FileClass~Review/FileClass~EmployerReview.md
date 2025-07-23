@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/EmployerReview
-  - class/Thing/CreativeWork/Review/EmployerReview
-  - is_an_/EmployerReview
-  - schema-org/EmployerReview
-tags:
-  - class/FileClass
-  - class/EmployerReview
-  - "#is_an_/EmployerReview"
-  - class/Thing/CreativeWork/Review/EmployerReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/EmployerReview
+- class/Thing/CreativeWork/Review/EmployerReview
+- is_an_/EmployerReview
+- schema-org/EmployerReview
+tags:
+- class/FileClass
+- class/EmployerReview
+- '#is_an_/EmployerReview'
+- class/Thing/CreativeWork/Review/EmployerReview
+version: 2.0
 ---
 
 # EmployerReview

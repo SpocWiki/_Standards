@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_media_review_item Class
-linkTitle: is_a_media_review_item Class
-
-keywords: [media_review_item]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - media-review-item
 - media_review_item
 - MediaReviewItem
 - is_a_media_review_item
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- media_review_item
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_media_review_item Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_media_review_item Class"
+type: Type
 ---
 
 Class of all media_review_items.

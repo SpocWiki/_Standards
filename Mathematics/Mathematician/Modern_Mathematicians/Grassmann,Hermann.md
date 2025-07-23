@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Hermann Grassmann
-  - Hermann Graßmann
+- "Hermann Grassmann"
+- "Hermann Graßmann"
 ---
 
 # [[Grassmann,Hermann]] 

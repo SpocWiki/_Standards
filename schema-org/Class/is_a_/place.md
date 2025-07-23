@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- place
+- place
+- Place
+- is_a_place
+- "schema:Place"
+- places
+- "dbo:Place"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_place Class
-linkTitle: is_a_place Class
 keywords:
-  - place
+- place
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_place Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-aliases:
-  - place
-  - place
-  - Place
-  - is_a_place
-  - schema:Place
-  - places
-  - dbo:Place
+- schema-org/Class
+title: "is_a_place Class"
+type: Type
 ---
 
 Class of all places.

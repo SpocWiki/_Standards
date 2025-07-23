@@ -1,8 +1,8 @@
----
-has_id_wikidata: Q4116214
+﻿---
 aliases:
-  - accountancy
-  - financial reporting
+- accountancy
+- "financial reporting"
+has_id_wikidata: Q4116214
 ---
 
 # [[Accounting]] 

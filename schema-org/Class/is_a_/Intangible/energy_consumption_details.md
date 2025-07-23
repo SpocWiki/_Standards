@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_energy_consumption_details Class
-linkTitle: is_an_energy_consumption_details Class
-
-keywords: [energy_consumption_details]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - energy-consumption-details
 - energy_consumption_details
 - EnergyConsumptionDetails
 - is_an_energy_consumption_details
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- energy_consumption_details
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_energy_consumption_details Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_energy_consumption_details Class"
+type: Type
 ---
 
 Class of all energy_consumption_detailss.

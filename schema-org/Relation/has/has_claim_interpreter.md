@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_claim_interpreter
-
-linkTitle: has_claim_interpreter
-keywords: [claim, interpreter]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - claim-interpreter
 - claim_interpreter
 - claimInterpreter
 - has_claim_interpreter
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- claim
+- interpreter
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_claim_interpreter
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_claim_interpreter
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

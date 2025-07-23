@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_x_ray Class
-linkTitle: is_a_x_ray Class
-
-keywords: [x_ray]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalImagingTechnique
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - x-ray
 - x_ray
 - XRay
 - is_a_x_ray
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalImagingTechnique
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- x_ray
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_x_ray Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_x_ray Class"
+type: Type
 ---
 
 Class of all x_rays.

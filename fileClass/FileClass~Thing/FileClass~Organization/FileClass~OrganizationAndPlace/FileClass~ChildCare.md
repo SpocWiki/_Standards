@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ChildCare
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare
-  - is_a_/ChildCare
-  - schema-org/ChildCare
-tags:
-  - class/FileClass
-  - class/ChildCare
-  - is_a_/ChildCare
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ChildCare
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare
+- is_a_/ChildCare
+- schema-org/ChildCare
+tags:
+- class/FileClass
+- class/ChildCare
+- is_a_/ChildCare
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare
+version: 2.0
 ---
 
 # ChildCare

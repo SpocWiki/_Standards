@@ -1,21 +1,41 @@
----
-type: Element
-SpocWebEntityId: 21916
-has_id_wikidata: Q674
-InChI: InChI=1S/P
-InChIKey: OAICVXFJPJFONN-UHFFFAOYSA-N
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AB%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%B8.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Phosphor.JPG"
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~phosphorus_poisoning,1616305]]'
+atomic_number: 15
+canonical_SMILES: '[P]'
+CAS_Registry_Number: 7723-14-0
+chemical_formula: P
+Commons_category: Phosphorus
+Commons_gallery: Phosphorus
+described_at_URL: "https://www.wired.com/story/the-worlds-farms-are-hooked-on-phosphorus-its-a-problem/"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Phosphorus,108309502]]'
+different_from:
+- '[[_Standards/WikiData/WD~phosphor,11248330]]'
+- '[[_Standards/WikiData/WD~serum_inorganic_phosphorus_level,55435629]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Hennig_Brand,77306]]'
+DSSTOX_compound_identifier: DTXCID204382
+electronegativity: 2.19
 electron_configuration:
 - "[Ne] 3s² 3p³"
 - "1s² 2s² 2p⁶ 3s² 3p³"
-MeSH_tree_code: D01.268.666
-Krugosvet_article: nauka_i_tehnika/himiya/FOSFOR.html
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Hennig_Brand,77306]]"
+element_symbol: P
+Gmelin_number: 16235
+has_id_wikidata: Q674
 has_use: '[[_Standards/WikiData/WD~fertilizer,83323]]'
-part_of:
-- "[[_Standards/WikiData/WD~group_15,106675]]"
-- "[[_Standards/WikiData/WD~period_3,211331]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Phosphor.JPG"
+InChI: InChI=1S/P
+InChIKey: OAICVXFJPJFONN-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.17
+- 0.38
+Krugosvet_article: nauka_i_tehnika/himiya/FOSFOR.html
 made_from_material:
 - '[[_Standards/WikiData/WD~turquoise,165254]]'
 - '[[_Standards/WikiData/WD~guano,170185]]'
@@ -30,32 +50,17 @@ made_from_material:
 - '[[_Standards/WikiData/WD~struvite,419364]]'
 - '[[_Standards/WikiData/WD~wavellite,420505]]'
 - '[[_Standards/WikiData/WD~monazite,422011]]'
-- "[[_Standards/WikiData/WD~bone_ash,995607]]"
+- '[[_Standards/WikiData/WD~bone_ash,995607]]'
 - '[[_Standards/WikiData/WD~phosphorite,1424327]]'
 - '[[_Standards/WikiData/WD~phosphophyllite,2252346]]'
 - '[[_Standards/WikiData/WD~chlorapatite,3680919]]'
 - '[[_Standards/WikiData/WD~hinsdalite,3785717]]'
 - '[[_Standards/WikiData/WD~xenotime-(Y),26270026]]'
 - '[[_Standards/WikiData/WD~urine,40924]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- '[[_Standards/WikiData/WD~Phosphorus,108309502]]'
-associated_hazard: "[[_Standards/WikiData/WD~phosphorus_poisoning,1616305]]"
-named_after: '[[_Standards/WikiData/WD~Phosphorus,1775444]]'
-different_from:
-- '[[_Standards/WikiData/WD~phosphor,11248330]]'
-- "[[_Standards/WikiData/WD~serum_inorganic_phosphorus_level,55435629]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
 mass: 30.973761998
-described_at_URL: "https://www.wired.com/story/the-worlds-farms-are-hooked-on-phosphorus-its-a-problem/"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+MeSH_tree_code: D01.268.666
+named_after: '[[_Standards/WikiData/WD~Phosphorus,1775444]]'
+OmegaWiki_Defined_Meaning: 2777
 oxidation_state:
 - -3
 - -2
@@ -65,25 +70,20 @@ oxidation_state:
 - 3
 - 4
 - 5
-atomic_number: 15
-ionic_radius:
-- 0.17
-- 0.38
-electronegativity: 2.19
-element_symbol: P
-chemical_formula: P
-OmegaWiki_Defined_Meaning: 2777
-ZVG_number: 3930
-Gmelin_number: 16235
-Commons_gallery: Phosphorus
-Commons_category: Phosphorus
-UNII: 27YLU75U4W
-canonical_SMILES: '[P]'
-time_of_discovery_or_invention: "1669"
-Unicode_character: 磷
+part_of:
+- '[[_Standards/WikiData/WD~group_15,106675]]'
+- '[[_Standards/WikiData/WD~period_3,211331]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AB%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A6%BE%E0%A6%B8.wav"
 PubChem_CID: 5462309
-CAS_Registry_Number: 7723-14-0
-DSSTOX_compound_identifier: DTXCID204382
+SpocWebEntityId: 21916
+subclass_of:
+- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+time_of_discovery_or_invention: 1669
+type: Element
+Unicode_character: 磷
+UNII: 27YLU75U4W
+ZVG_number: 3930
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Phosphorus,674]]  

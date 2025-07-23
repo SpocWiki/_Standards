@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_price_range
-linkTitle: has_text_of_price_range
-
-keywords: [price, range]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - price-range
 - price_range
 - priceRange
 - has_text_of_price_range
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- price
+- range
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_price_range
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_price_range
+type: Pred_Text
 ---
 
 Predicate to describe the Text of LocalBusiness.

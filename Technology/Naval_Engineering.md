@@ -1,10 +1,9 @@
----
+﻿---
 aliases:
-  - Naval engineering
-  - Marine Engineering
+- "Naval engineering"
+- "Marine Engineering"
 has_id_wikidata: Q118291
 ---
-
 
 ## #has_/text_of_/abstract 
 

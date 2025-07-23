@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_roofing_contractor Class
-linkTitle: is_a_roofing_contractor Class
-
-keywords: [roofing_contractor]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - roofing-contractor
 - roofing_contractor
 - RoofingContractor
 - is_a_roofing_contractor
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- roofing_contractor
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_roofing_contractor Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_roofing_contractor Class"
+type: Type
 ---
 
 Class of all roofing_contractors.

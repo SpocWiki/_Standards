@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DataFeed
-  - class/Thing/CreativeWork/Dataset/DataFeed
-  - is_a_/DataFeed
-  - schema-org/DataFeed
-tags:
-  - class/FileClass
-  - class/DataFeed
-  - is_a_/DataFeed
-  - class/Thing/CreativeWork/Dataset/DataFeed
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset
 fields:
-  - id: OoZhbQ
-    name: DataFeedElement
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DataFeedItem')
-    type: MultiFile
-    path: ""
+- id: OoZhbQ
+  name: DataFeedElement
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DataFeedItem')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DataFeed
+- class/Thing/CreativeWork/Dataset/DataFeed
+- is_a_/DataFeed
+- schema-org/DataFeed
+tags:
+- class/FileClass
+- class/DataFeed
+- is_a_/DataFeed
+- class/Thing/CreativeWork/Dataset/DataFeed
+version: 2.0
 ---
 
 # DataFeed

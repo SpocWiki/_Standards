@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/WebAPI
-  - class/Thing/Intangible/Service/WebAPI
-  - is_a_/WebAPI
-  - schema-org/WebAPI
-tags:
-  - class/FileClass
-  - class/WebAPI
-  - is_a_/WebAPI
-  - class/Thing/Intangible/Service/WebAPI
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: mSSJvh
-    name: Documentation
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
+- id: mSSJvh
+  name: Documentation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/WebAPI
+- class/Thing/Intangible/Service/WebAPI
+- is_a_/WebAPI
+- schema-org/WebAPI
+tags:
+- class/FileClass
+- class/WebAPI
+- is_a_/WebAPI
+- class/Thing/Intangible/Service/WebAPI
+version: 2.0
 ---
 
 # WebAPI

@@ -1,26 +1,38 @@
----
-has_id_wikidata: Q8146
-manufacturer:
-- "[[_Standards/WikiData/WD~National_Printing_Bureau,130035]]"
-- "[[_Standards/WikiData/WD~Japan_Mint,1130777]]"
+﻿---
+aliases:
+- "Japanese Yen"
+- Yen
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Japan,17]]'
+central_bank_issuer: '[[_Standards/WikiData/WD~Bank_of_Japan,333101]]'
+Commons_category: "Money of Japan"
+Commons_gallery: 日本円
+country: '[[_Standards/WikiData/WD~Japan,17]]'
 currency_symbol_description:
 - '[[_Standards/WikiData/WD~_,249321]]'
 - '[[_Standards/WikiData/WD~円,3594938]]'
-central_bank_issuer: "[[_Standards/WikiData/WD~Bank_of_Japan,333101]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~sen,2269590]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from: '[[_Standards/WikiData/WD~JEN,3805226]]'
-replaces:
-- "[[_Standards/WikiData/WD~Tokugawa_coinage,5976974]]"
-has_characteristic: "[[_Standards/WikiData/WD~Japanese_Yen_rate,11394831]]"
-foundational_text: "[[_Standards/WikiData/WD~New_Currency_Act,11504131]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Act_on_Currency_Units_and_Issuance_of_Coins,11639619]]"
-subclass_of: '[[_Standards/WikiData/WD~yuan,25530138]]'
-start_time: "1871-07-01" 
-has_time_started: "1871-07-01"
+foundational_text: '[[_Standards/WikiData/WD~New_Currency_Act,11504131]]'
+has_characteristic: '[[_Standards/WikiData/WD~Japanese_Yen_rate,11394831]]'
+has_id_wikidata: Q8146
+has_time_started: 1871-07-01
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/JPY%20coin3.png"
+instance_of: '[[_Standards/WikiData/WD~currency,8142]]'
+ISO_4217_code: JPY
+main_regulatory_text: '[[_Standards/WikiData/WD~Act_on_Currency_Units_and_Issuance_of_Coins,11639619]]'
+manufacturer:
+- '[[_Standards/WikiData/WD~National_Printing_Bureau,130035]]'
+- '[[_Standards/WikiData/WD~Japan_Mint,1130777]]'
+name_in_kana:
+- えん
+- ゑん
+official_name: 円
+OmegaWiki_Defined_Meaning: 340386
+OpenStreetMap_tag_or_key: "Key:currency:JPY"
+PermID: 500186
 price:
 - 0.0101948230688456
 - 0.013
@@ -34,28 +46,16 @@ price:
 - 0.097
 - 11.45
 - 0.0067485633
-instance_of: '[[_Standards/WikiData/WD~currency,8142]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~Japan,17]]'
-country: '[[_Standards/WikiData/WD~Japan,17]]'
-OmegaWiki_Defined_Meaning: 340386
-PermID: 500186
+replaces:
+- '[[_Standards/WikiData/WD~Tokugawa_coinage,5976974]]'
+short_name: JP¥
+start_time: 1871-07-01
+subclass_of: '[[_Standards/WikiData/WD~yuan,25530138]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~sen,2269590]]'
 unit_symbol:
 - 円
 - ¥
-official_name: 円
-ISO_4217_code: JPY
-Commons_category: "Money of Japan"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/JPY%20coin3.png"
 Wolfram_Language_unit_code: "\"Yen\""
-OpenStreetMap_tag_or_key: "Key:currency:JPY"
-name_in_kana:
-- えん
-- ゑん
-Commons_gallery: 日本円
-short_name: JP¥
-aliases:
-- "Japanese Yen"
-- Yen
 ---
 
 ## #has_/text_of_/abstract 

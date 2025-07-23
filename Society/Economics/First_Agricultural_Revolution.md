@@ -1,34 +1,27 @@
----
-title: First Agricultural Revolution
-lang: en
-type: private_note
-
-keywords: First Agricultural Revolution
-linkTitle: First Agricultural Revolution
-has_Template: "[[Extract~Note~Template]]" 
-
-license: (c)copyrighted
+﻿---
+aliases:
+- "First Agricultural Revolution"
+- "Neolithic Revolution"
 confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2024-06-23
 isDeleted: false
 isReadOnly: false
-
-# Obsidian well-known Keys
-cssclasses: private note
+keywords: "First Agricultural Revolution"
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: "First Agricultural Revolution"
 publish: false
-publishDate:
-expiryDate: 
-has_time_started: 2024-06-23
-
+publishDate: 
 tags:
-- First Agricultural Revolution
+- "First Agricultural Revolution"
 - 
-
-aliases:
-- First Agricultural Revolution
-- Neolithic Revolution
-
+title: "First Agricultural Revolution"
+type: private_note
 ---
 
 # [[First Agricultural Revolution]] 

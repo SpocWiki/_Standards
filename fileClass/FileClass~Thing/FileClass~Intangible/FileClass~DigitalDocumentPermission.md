@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DigitalDocumentPermission
-  - class/Thing/Intangible/DigitalDocumentPermission
-  - is_a_/DigitalDocumentPermission
-  - schema-org/DigitalDocumentPermission
-tags:
-  - class/FileClass
-  - class/DigitalDocumentPermission
-  - is_a_/DigitalDocumentPermission
-  - class/Thing/Intangible/DigitalDocumentPermission
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: Lv5ouK
-    name: Grantee
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
+- id: Lv5ouK
+  name: Grantee
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DigitalDocumentPermission
+- class/Thing/Intangible/DigitalDocumentPermission
+- is_a_/DigitalDocumentPermission
+- schema-org/DigitalDocumentPermission
+tags:
+- class/FileClass
+- class/DigitalDocumentPermission
+- is_a_/DigitalDocumentPermission
+- class/Thing/Intangible/DigitalDocumentPermission
+version: 2.0
 ---
 
 # DigitalDocumentPermission

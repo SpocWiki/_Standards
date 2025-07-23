@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Residence
-  - class/Thing/Place/Residence
-  - is_a_/Residence
-  - schema-org/Residence
-tags:
-  - class/FileClass
-  - class/Residence
-  - is_a_/Residence
-  - class/Thing/Place/Residence
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: db1Fcb
-    name: AccommodationFloorPlan
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/FloorPlan')
-    type: MultiFile
-    path: ""
+- id: db1Fcb
+  name: AccommodationFloorPlan
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/FloorPlan')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Residence
+- class/Thing/Place/Residence
+- is_a_/Residence
+- schema-org/Residence
+tags:
+- class/FileClass
+- class/Residence
+- is_a_/Residence
+- class/Thing/Place/Residence
+version: 2.0
 ---
 
 # Residence

@@ -1,36 +1,36 @@
----
+﻿---
+Colon_Classification: R4111
+Commons_category: Truth
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Baidu_Baike,803722]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+Dewey_Decimal_Classification:
+- 121
+- 111.8
+- 160
+different_from:
+- '[[_Standards/WikiData/WD~honesty,337349]]'
+- '[[_Standards/WikiData/WD~Truth,413495]]'
+- '[[_Standards/WikiData/WD~certainty,1520777]]'
+hashtag: Truth
 has_id_wikidata: Q7949
-subclass_of: '[[_Standards/WikiData/WD~proposition,108163]]'
+Iconclass_notation: 52A6
+instance_of: '[[_Standards/WikiData/WD~type_of_value,129510955]]'
+OmegaWiki_Defined_Meaning: 6708
+opposite_of: '[[_Standards/WikiData/WD~false_statement,17949]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~credibility,1530061]]'
+PhilPapers_topic: truth
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~fact,188572]]'
 - '[[_Standards/WikiData/WD~correctness,1648040]]'
 - '[[_Standards/WikiData/WD~Aletheia,2840730]]'
 - '[[_Standards/WikiData/WD~Q12569003,12569003]]'
 - '[[_Standards/WikiData/WD~Pravda,29714020]]'
-different_from:
-- '[[_Standards/WikiData/WD~honesty,337349]]'
-- '[[_Standards/WikiData/WD~Truth,413495]]'
-- '[[_Standards/WikiData/WD~certainty,1520777]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Baidu_Baike,803722]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-partially_coincident_with: '[[_Standards/WikiData/WD~credibility,1530061]]'
-instance_of: "[[_Standards/WikiData/WD~type_of_value,129510955]]"
-opposite_of: "[[_Standards/WikiData/WD~false_statement,17949]]"
-Dewey_Decimal_Classification:
-- 121
-- 111.8
-- 160
 Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/truth"
-Iconclass_notation: 52A6
-OmegaWiki_Defined_Meaning: 6708
-Colon_Classification: R4111
-PhilPapers_topic: truth
-hashtag: Truth
-Commons_category: Truth
+subclass_of: '[[_Standards/WikiData/WD~proposition,108163]]'
 ---
 
 Pragmatically, Truth has the Purpose to peace the mind. 

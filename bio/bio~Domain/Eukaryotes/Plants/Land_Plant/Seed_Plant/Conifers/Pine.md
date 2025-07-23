@@ -1,8 +1,8 @@
----
-title: Pinaceae
+﻿---
 aliases:
-  - Pinaceae
-  - pine family 
+- Pinaceae
+- "pine family"
+title: Pinaceae
 ---
 
 # [[Pine]] 

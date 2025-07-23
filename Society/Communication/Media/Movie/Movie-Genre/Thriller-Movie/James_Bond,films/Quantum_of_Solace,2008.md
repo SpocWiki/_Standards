@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Quantum of Solace
+- "Quantum of Solace"
 ---
 
 #has_/time_/started :: 2008-10-29 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_order-quantity
-linkTitle: has_order-quantity
-
-keywords: [order-quantity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - order_quantity
 - order-quantity
 - orderQuantity
 - has_value_for_order_quantity
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- order-quantity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_order-quantity
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_order-quantity
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of OrderItem.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_anatomical_system Class
-linkTitle: is_an_anatomical_system Class
-
-keywords: [anatomical_system]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - anatomical-system
 - anatomical_system
 - AnatomicalSystem
 - is_an_anatomical_system
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- anatomical_system
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_anatomical_system Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_anatomical_system Class"
+type: Type
 ---
 
 Class of all anatomical_systems.

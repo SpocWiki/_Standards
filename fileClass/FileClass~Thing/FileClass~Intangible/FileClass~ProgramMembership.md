@@ -1,48 +1,48 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ProgramMembership
-  - class/Thing/Intangible/ProgramMembership
-  - is_a_/ProgramMembership
-  - schema-org/ProgramMembership
-tags:
-  - class/FileClass
-  - class/ProgramMembership
-  - is_a_/ProgramMembership
-  - class/Thing/Intangible/ProgramMembership
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: ZtfEZd
-    name: HostingOrganization
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: y8f0k7
-    name: Member
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: kKVBZ6
-    name: MembershipNumber
-    options: {}
-    type: Input
-    path: ""
-  - id: KfZMXE
-    name: MembershipPointsEarned
-    options: {}
-    type: Number
-    path: ""
-  - id: gYfM3h
-    name: ProgramName
-    options: {}
-    type: Input
-    path: ""
+- id: ZtfEZd
+  name: HostingOrganization
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: y8f0k7
+  name: Member
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: kKVBZ6
+  name: MembershipNumber
+  options: {}
+  type: Input
+  path: ''
+- id: KfZMXE
+  name: MembershipPointsEarned
+  options: {}
+  type: Number
+  path: ''
+- id: gYfM3h
+  name: ProgramName
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ProgramMembership
+- class/Thing/Intangible/ProgramMembership
+- is_a_/ProgramMembership
+- schema-org/ProgramMembership
+tags:
+- class/FileClass
+- class/ProgramMembership
+- is_a_/ProgramMembership
+- class/Thing/Intangible/ProgramMembership
+version: 2.0
 ---
 
 # ProgramMembership

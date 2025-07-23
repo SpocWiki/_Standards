@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_public_holidays Class
-linkTitle: is_a_public_holidays Class
-
-keywords: [public_holidays]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DayOfWeek
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - public-holidays
 - public_holidays
 - PublicHolidays
 - is_a_public_holidays
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DayOfWeek
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- public_holidays
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_public_holidays Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_public_holidays Class"
+type: Type
 ---
 
 Class of all public_holidayss.

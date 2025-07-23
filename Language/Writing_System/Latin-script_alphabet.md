@@ -1,51 +1,51 @@
----
-has_id_wikidata: Q8229
-subclass_of: "[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237]]"
-based_on: "[[_Standards/WikiData/WD~Old_Italic,4891256]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Latin_script,15063213]]"
-different_from:
-- "[[_Standards/WikiData/WD~English_script,16929818]]"
-- "[[_Standards/WikiData/WD~Latin-script_alphabet,29575627]]"
-- "[[_Standards/WikiData/WD~Latin_alphabet,41670]]"
-script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
-has_part_s_: "[[_Standards/WikiData/WD~Latin-script_letter,19776628]]"
-described_by_source: '[[_Standards/WikiData/WD~Wikipesija,108929142]]'
-inception: "-0700"
-has_time_started: "-0700"
+﻿---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/LATEINISCHES%20ALPHABET%20NOTO%20SANS.stl"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Abecedarium.svg"
-Unicode_range:
-  - U+0041-005A,U+0061-006A
-  - U+00AA,U+00BA,U+00C0-00D6,U+00D7-00F6,U+00F8-00FF
-  - U+2071,U+207F,U+2090-209C
-  - U+2160-2188
-  - U+1D400-1D6A5
-  - U+02B0-02E4
-  - U+1D00-1D25,U+1D2C-1D5C,U+1D62-1D65,U+1D6B-1D77,U+1D79-1DBE
-  - U+A722-A787,U+A78B-A7CA,U+A7D0-A7D1,U+A7D3,U+A7D5-A7D9,U+A7F2-A7FF
-  - U+AB30-AB5A,U+AB5C-AB64,U+AB66-AB69
-  - U+FF21-FF3A,U+FF41-FF5A
-  - U+10780-10785,U+10787-107B0,U+107B2-107BA
-  - U+2102,U+2107,U+210A-2113,U+2115,U+2117-2125,U+2128,U+212A-2134,U+2139-213B,U+2141-214C,U+214E
-  - U+1E00-1EFF
-  - U+0100-017F
-  - U+2C60-2C7F
-  - U+0180-024F
-  - U+0250-02AF
-  - U+FB00-FB06
-instance_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
-location: '[[_Standards/WikiData/WD~Italy,38]]'
-ISO_15924_numeric_code: 215
-name:
-  - Latin
-  - latin
+based_on: '[[_Standards/WikiData/WD~Old_Italic,4891256]]'
 Commons_category: "Latin alphabet"
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20alphabet%20world%20distribution.svg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Latijnsalfabet.ogg"
-described_at_URL: "https://wikipesija.org/wiki/sitelen_Lasina"
-ISO_15924_alpha_4_code: Latn
 Commons_gallery: "Latin letters"
+described_at_URL: "https://wikipesija.org/wiki/sitelen_Lasina"
+described_by_source: '[[_Standards/WikiData/WD~Wikipesija,108929142]]'
+different_from:
+- '[[_Standards/WikiData/WD~English_script,16929818]]'
+- '[[_Standards/WikiData/WD~Latin-script_alphabet,29575627]]'
+- '[[_Standards/WikiData/WD~Latin_alphabet,41670]]'
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20alphabet%20world%20distribution.svg"
+has_id_wikidata: Q8229
+has_part_s_: '[[_Standards/WikiData/WD~Latin-script_letter,19776628]]'
+has_time_started: -0700
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Latin_alphabet,3772237]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Abecedarium.svg"
+inception: -0700
+instance_of: '[[_Standards/WikiData/WD~writing_system,8192]]'
+ISO_15924_alpha_4_code: Latn
+ISO_15924_numeric_code: 215
+location: '[[_Standards/WikiData/WD~Italy,38]]'
+name:
+- Latin
+- latin
+script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Latijnsalfabet.ogg"
+subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Latin_script,15063213]]'
+Unicode_range:
+- U+0041-005A,U+0061-006A
+- U+00AA,U+00BA,U+00C0-00D6,U+00D7-00F6,U+00F8-00FF
+- U+2071,U+207F,U+2090-209C
+- U+2160-2188
+- U+1D400-1D6A5
+- U+02B0-02E4
+- U+1D00-1D25,U+1D2C-1D5C,U+1D62-1D65,U+1D6B-1D77,U+1D79-1DBE
+- U+A722-A787,U+A78B-A7CA,U+A7D0-A7D1,U+A7D3,U+A7D5-A7D9,U+A7F2-A7FF
+- U+AB30-AB5A,U+AB5C-AB64,U+AB66-AB69
+- U+FF21-FF3A,U+FF41-FF5A
+- U+10780-10785,U+10787-107B0,U+107B2-107BA
+- U+2102,U+2107,U+210A-2113,U+2115,U+2117-2125,U+2128,U+212A-2134,U+2139-213B,U+2141-214C,U+214E
+- U+1E00-1EFF
+- U+0100-017F
+- U+2C60-2C7F
+- U+0180-024F
+- U+0250-02AF
+- U+FB00-FB06
 ---
 
 ## #has_/text_of_/abstract 

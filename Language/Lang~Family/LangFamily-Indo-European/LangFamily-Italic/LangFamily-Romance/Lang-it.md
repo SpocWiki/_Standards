@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Italian
-tags: 
+tags:
 - Lang/it
+type: Lang
 ---
+
 [SpocWebEntityId:: 495 ]
 [Name::Italian]
 [PropId_Name::795]

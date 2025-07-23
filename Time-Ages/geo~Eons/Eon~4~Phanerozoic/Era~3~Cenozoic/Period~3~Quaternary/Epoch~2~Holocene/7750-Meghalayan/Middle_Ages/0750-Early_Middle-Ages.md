@@ -1,9 +1,10 @@
----
+﻿---
 aliases:
-  - Early Middle Ages
-  - early medieval period
-  - Dark Ages
+- "Early Middle Ages"
+- "early medieval period"
+- "Dark Ages"
 ---
+
 # [[0750-Early_Middle-Ages]] 
 
 #is_a_/time_/Culture 

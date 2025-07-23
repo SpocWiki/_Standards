@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_learning_resource Class
-linkTitle: is_a_learning_resource Class
-
-keywords: [learning_resource]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - learning-resource
 - learning_resource
 - LearningResource
 - is_a_learning_resource
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- learning_resource
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_learning_resource Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_learning_resource Class"
+type: Type
 ---
 
 Class of all learning_resources.

@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Fight Club
+- "Fight Club"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- merchant-return-policy
+- merchant_return_policy
+- MerchantReturnPolicy
+- is_a_merchant_return_policy
+- ProductReturnPolicy
+- Product-Return-Policy
+- product_return_policy
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_merchant_return_policy Class
-linkTitle: is_a_merchant_return_policy Class
 keywords:
-  - merchant_return_policy
+- merchant_return_policy
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_merchant_return_policy Class"
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: ProductReturnPolicy
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - merchant-return-policy
-  - merchant_return_policy
-  - MerchantReturnPolicy
-  - is_a_merchant_return_policy
-  - ProductReturnPolicy
-  - Product-Return-Policy
-  - product_return_policy
+- class/Class
+- schema-org/Class
+title: "is_a_merchant_return_policy Class"
+type: Type
 ---
 
 [[../../../Class|Class]] of all merchant_return_policys.

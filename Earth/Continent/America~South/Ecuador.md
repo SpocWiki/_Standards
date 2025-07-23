@@ -69,7 +69,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Shuar,617291]]'
 - '[[_Standards/WikiData/WD~Waorani,758570]]'
 - '[[_Standards/WikiData/WD~Tsachila,2567055]]'
-  - "[[_Standards/WikiData/WD~Cha'palaa,2591329]]"
+- "[[_Standards/WikiData/WD~Cha'palaa,2591329]]"
 - "[[_Standards/WikiData/WD~Awa_Pit,2603103]]"
 - '[[_Standards/WikiData/WD~Cofán,2669254]]'
 - '[[_Standards/WikiData/WD~Achuar,2823170]]'
@@ -192,7 +192,7 @@ short_name:
   - Еквадор
   - Ecuador
   - 厄瓜多尔
-- "\U0001F1EA\U0001F1E8"
+  - "\U0001F1EA\U0001F1E8"
   - EC
   - Эквадор
   - אקוודור
@@ -200,7 +200,7 @@ INSEE_countries_and_foreign_territories_code: 99420
 ISO_3166_1_alpha_3_code: ECU
 IOC_country_code: ECU
 official_name:
-  - Ecuador
+- Ecuador
 - "اکوادورِ جمهوری"
 - "جمهورية الإكوادور"
 - "ইকুয়েডর প্রজাতন্ত্র"
@@ -214,7 +214,7 @@ official_name:
 - "ईक्वाडोर गणराज्य"
 - "Republik Ekuador"
 - "Repubblica dell'Ecuador"
-  - エクアドル共和国
+- エクアドル共和国
 - "에콰도르 공화국"
 - "Res Publica Aequatoriae"
 - "Republiek Ecuador"
@@ -227,7 +227,7 @@ official_name:
 - "Республіка Еквадор"
 - "جمہوریہ ایکواڈور"
 - "Cộng hòa Ecuador"
-  - 厄瓜多共和國
+- 厄瓜多共和國
 Commons_category: Ecuador
 hashtag: Ecuador
 Commons_gallery: Ecuador
@@ -411,11 +411,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Ecuador
-    - Équateur
-    - إكوادور
-    - 厄瓜多尔
-    - Эквадор
+- Ecuador
+- Équateur
+- إكوادور
+- 厄瓜多尔
+- Эквадор
 - "the Republic of Ecuador"
 - "la República del Ecuador"
 - "Ecuador (el)"

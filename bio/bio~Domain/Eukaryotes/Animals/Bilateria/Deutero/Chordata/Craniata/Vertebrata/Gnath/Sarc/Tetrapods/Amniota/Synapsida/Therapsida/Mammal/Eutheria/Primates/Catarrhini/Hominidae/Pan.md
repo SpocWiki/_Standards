@@ -1,37 +1,37 @@
----
-title: Pan
-has_id_wikidata: Q80174
-uses:
-  - "[[_Standards/WikiData/WD~Yerkish,153630]]"
-  - "[[_Standards/WikiData/WD~physical_object,223557]]"
-  - "[[_Standards/WikiData/WD~club,392326]]"
-  - "[[_Standards/WikiData/WD~self_awareness,1314553]]"
-  - "[[_Standards/WikiData/WD~signal_language,2285130]]"
-  - "[[_Standards/WikiData/WD~nest,4785]]"
-  - "[[_Standards/WikiData/WD~metaphor,18534]]"
-has_characteristic: "[[_Standards/WikiData/WD~self_awareness,1314553]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-parent_taxon: "[[_Standards/WikiData/WD~Panina,3305022]]"
+﻿---
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+Commons_category: "Pan (genus)"
+Commons_gallery: "Pan (genus)"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-replaced_synonym_of: "[[_Standards/WikiData/WD~Troglodytes_Geoffroy,_1812,41158976]]"
-has_part_s_: "[[_Standards/WikiData/WD~brain,1073]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-OmegaWiki_Defined_Meaning: "708046"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Schimpanse%20Zoo%20Leipzig.jpg
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schimpanse.ogg
-taxon_name: Pan
-U_S_National_Archives_Identifier: "10647859"
-ITIS_TSN: "572838"
-Commons_gallery: Pan (genus)
-Commons_category: Pan (genus)
-montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Composite%20image%20of%20male%20chimpanzee%20%28left%29%20and%20male%20bonobo%20%28right%29.jpg
-taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pan%20%28genus%29%20distribution%20map.png
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 EPPO_Code: 1PANZG
+has_characteristic: '[[_Standards/WikiData/WD~self_awareness,1314553]]'
+has_id_wikidata: Q80174
+has_part_s_: '[[_Standards/WikiData/WD~brain,1073]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schimpanse%20Zoo%20Leipzig.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 572838
 Krugosvet_article: nauka_i_tehnika/biologiya/SHIMPANZE.html
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Composite%20image%20of%20male%20chimpanzee%20%28left%29%20and%20male%20bonobo%20%28right%29.jpg"
+OmegaWiki_Defined_Meaning: 708046
+parent_taxon: '[[_Standards/WikiData/WD~Panina,3305022]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Schimpanse.ogg"
+replaced_synonym_of: '[[_Standards/WikiData/WD~Troglodytes_Geoffroy,_1812,41158976]]'
+taxon_name: Pan
+taxon_range_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pan%20%28genus%29%20distribution%20map.png"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+title: Pan
+uses:
+- '[[_Standards/WikiData/WD~Yerkish,153630]]'
+- '[[_Standards/WikiData/WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~club,392326]]'
+- '[[_Standards/WikiData/WD~self_awareness,1314553]]'
+- '[[_Standards/WikiData/WD~signal_language,2285130]]'
+- '[[_Standards/WikiData/WD~nest,4785]]'
+- '[[_Standards/WikiData/WD~metaphor,18534]]'
+U_S_National_Archives_Identifier: 10647859
 ---
 
 # [[Pan]] 

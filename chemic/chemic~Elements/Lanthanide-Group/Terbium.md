@@ -1,52 +1,52 @@
----
-type: Element
-SpocWebEntityId: 21961
-has_id_wikidata: Q1838
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
-named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-made_from_material:
-- "[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]"
-- "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
-- "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
-- "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
-UMLS_CUI: C0039541
-time_of_discovery_or_invention: "1843"
-location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-electronegativity: 1.2
+﻿---
 atomic_number: 65
+canonical_SMILES: '[Tb]'
+CAS_Registry_Number: 7440-27-9
+chemical_formula: Tb
+Commons_category: Terbium
+Commons_gallery: Terbium
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
+DSSTOX_compound_identifier: DTXCID6047656
+EC_number: 231-137-6
+electronegativity: 1.2
+element_symbol: Tb
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+Gmelin_number: 16311
+has_id_wikidata: Q1838
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Terbium%20element.jpg"
+InChI: InChI=1S/Tb
+InChIKey: GZCRRIHWUXGPOV-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.76
 - 0.88
 - 0.92
 - 1.04
-PubChem_CID: 23958
-Gmelin_number: 16311
-chemical_formula: Tb
-element_symbol: Tb
-OmegaWiki_Defined_Meaning: 364226
-Commons_gallery: Terbium
-Commons_category: Terbium
+location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]'
+- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+- '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
+- '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
 mass: 158.925354
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Terbium%20element.jpg"
-canonical_SMILES: '[Tb]'
-UNII: 06SSF7P179
-EC_number: 231-137-6
-CAS_Registry_Number: 7440-27-9
 MeSH_tree_code:
 - D01.268.558.362.968
 - D01.552.550.399.968
-DSSTOX_compound_identifier: DTXCID6047656
-InChIKey: GZCRRIHWUXGPOV-UHFFFAOYSA-N
-InChI: InChI=1S/Tb
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
+OmegaWiki_Defined_Meaning: 364226
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+PubChem_CID: 23958
+SpocWebEntityId: 21961
+time_of_discovery_or_invention: 1843
+type: Element
+UMLS_CUI: C0039541
 Unicode_character: 鋱
+UNII: 06SSF7P179
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 

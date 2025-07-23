@@ -1,13 +1,14 @@
----
+﻿---
 aliases:
-  - Organisation for Economic Co-operation and Development
-  - Organisation de coopération et de développement économiques
-  - OCDE
+- "Organisation for Economic Co-operation and Development"
+- "Organisation de coopération et de développement économiques"
+- OCDE
 TableByName:
-  "OECD.tsv":
-    columns: ["country","year"]
-    headings:  
-    
+  OECD.tsv:
+    columns:
+    - country
+    - year
+    headings: 
 ---
 
 #has_/time_/started :: 1961-06 

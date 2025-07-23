@@ -1,51 +1,51 @@
----
-type: Element
-SpocWebEntityId: 21966
-has_id_wikidata: Q1855
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-made_from_material:
-- '[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]'
-- '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
-- '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
-- '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
-time_of_discovery_or_invention: "1878"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+﻿---
 atomic_number: 70
+canonical_SMILES: '[Yb]'
+CAS_Registry_Number: 7440-64-4
+chemical_formula: Yb
+Commons_category: Ytterbium
+Commons_gallery: Ytterbium
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]'
+DSSTOX_compound_identifier: DTXCID2026993
+EC_number: 231-173-2
 electronegativity: 1.1
+element_symbol: Yb
+Gmelin_number: 16320
+has_id_wikidata: Q1855
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20element.jpg"
+InChI: InChI=1S/Yb
+InChIKey: NAWDYIZEMPQZHO-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.99
 - 1.02
 - 1.04
 - 1.14
-Gmelin_number: 16320
+made_from_material:
+- '[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]'
+- '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
+- '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
+- '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
 mass: 173.045
-PubChem_CID: 23992
-OmegaWiki_Defined_Meaning: 370462
-chemical_formula: Yb
-element_symbol: Yb
-Unicode_character: 鐿
-canonical_SMILES: '[Yb]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20element.jpg"
-EC_number: 231-173-2
-CAS_Registry_Number: 7440-64-4
-UMLS_CUI: C0043431
 MeSH_tree_code:
 - D01.268.558.362.992
 - D01.552.550.399.992
-DSSTOX_compound_identifier: DTXCID2026993
-InChI: InChI=1S/Yb
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
+OmegaWiki_Defined_Meaning: 370462
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+PubChem_CID: 23992
+SpocWebEntityId: 21966
+time_of_discovery_or_invention: 1878
+type: Element
+UMLS_CUI: C0043431
+Unicode_character: 鐿
 UNII: MNQ4O4WSI1
-InChIKey: NAWDYIZEMPQZHO-UHFFFAOYSA-N
-Commons_gallery: Ytterbium
-Commons_category: Ytterbium
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 

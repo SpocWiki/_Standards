@@ -275,7 +275,7 @@ female_population:
   - 16673411
 number_of_out_of_school_children: 2337346
 short_name:
-  - اليمن
+- اليمن
 - "\U0001F1FE\U0001F1EA"
 population: 28250420
 licence_plate_code: YAR

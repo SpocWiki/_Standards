@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Arcane (TV series)
-  - "Arcane: League of Legends"
+- "Arcane (TV series)"
+- "Arcane: League of Legends"
 ---
 
 ## #has_/text_of_/abstract 

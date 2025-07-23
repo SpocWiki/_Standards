@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Talk-Show
-  - Talk Show
+- Talk-Show
+- "Talk Show"
 ---
 
 # [[Talk-Show]] 

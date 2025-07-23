@@ -303,11 +303,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Oman
-    - Omán
-    - عمان
-    - 阿曼
-    - Оман
+- Oman
+- Omán
+- عمان
+- 阿曼
+- Оман
 - "the Sultanate of Oman"
 - "la Sultanía de Omán"
 Languages:

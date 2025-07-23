@@ -1,11 +1,12 @@
----
-type: Lang
+﻿---
 aliases:
-  - Dutch
-  - Nederlands
+- Dutch
+- Nederlands
 tags:
-  - Lang/nl
+- Lang/nl
+type: Lang
 ---
+
 [SpocWebEntityId:: 498 ]
 [Name::Dutch]
 [PropId_Name::798]

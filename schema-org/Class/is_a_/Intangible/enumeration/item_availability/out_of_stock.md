@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_out_of_stock Class
-linkTitle: is_out_of_stock Class
-
-keywords: [out_of_stock]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemAvailability
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - out-of-stock
 - out_of_stock
 - OutOfStock
 - is_out_of_stock
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemAvailability
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- out_of_stock
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_out_of_stock Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_out_of_stock Class"
+type: Type
 ---
 
 Class of all out_of_stocks.

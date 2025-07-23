@@ -22,10 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Honduras
-  - هندوراس
-  - 洪都拉斯
-  - Гондурас
+- Honduras
+- هندوراس
+- 洪都拉斯
+- Гондурас
 - "the Republic of Honduras"
 - "la República de Honduras"
 Languages:
@@ -279,7 +279,7 @@ urban_population:
   - 6217985
 PM20_geo_code: E68
 official_name:
-  - Honduras
+- Honduras
 - "la République du Honduras"
 IOC_country_code: HON
 CIVICUS_Monitor_country_entry: honduras

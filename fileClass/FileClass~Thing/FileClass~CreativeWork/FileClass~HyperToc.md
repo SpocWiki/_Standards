@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HyperToc
-  - class/Thing/CreativeWork/HyperToc
-  - is_a_/HyperToc
-  - schema-org/HyperToc
-tags:
-  - class/FileClass
-  - class/HyperToc
-  - is_a_/HyperToc
-  - class/Thing/CreativeWork/HyperToc
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: lKgTp2
-    name: TocEntry
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/HyperTocEntry')
-    type: MultiFile
-    path: ""
+- id: lKgTp2
+  name: TocEntry
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/HyperTocEntry')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HyperToc
+- class/Thing/CreativeWork/HyperToc
+- is_a_/HyperToc
+- schema-org/HyperToc
+tags:
+- class/FileClass
+- class/HyperToc
+- is_a_/HyperToc
+- class/Thing/CreativeWork/HyperToc
+version: 2.0
 ---
 
 # HyperToc

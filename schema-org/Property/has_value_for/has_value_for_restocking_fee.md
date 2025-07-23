@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_restocking-fee
-linkTitle: has_restocking-fee
-
-keywords: [restocking-fee]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - restocking_fee
 - restocking-fee
 - restockingFee
 - has_value_for_restocking_fee
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- restocking-fee
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_restocking-fee
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_restocking-fee
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of MerchantReturnPolicy.

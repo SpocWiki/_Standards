@@ -1,7 +1,7 @@
 ---
 icon: flag-un
 aliases:
-  - UNO
+- UNO
 - "United Nations"
 - "United Nations Organization"
 has_id_wikidata: Q1065
@@ -163,7 +163,7 @@ foundational_text: '[[_Standards/WikiData/WD~Q122828042,122828042]]'
 anthem: "[[_Standards/WikiData/WD~Hymn_to_the_United_Nations,125726814]]"
 short_name:
   - ANO
-- "או\"מ"
+  - "או\"מ"
   - VN
   - VN
   - UN
@@ -182,7 +182,7 @@ short_name:
   - ONZ
   - ООН
   - BM
-- "\U0001F1FA\U0001F1F3"
+  - "\U0001F1FA\U0001F1F3"
   - БДО
   - UN
 official_shop_URL: "https://shop.un.org"
@@ -191,7 +191,7 @@ ISNI: 0000000123317789
 Bilibili_UID: 1649919642
 native_label:
 - "האומות המאוחדות"
-  - 联合国
+- 联合国
 - "United Nations"
 - "الأمم المتحدة"
 - "Verenigde Naties"
@@ -201,7 +201,7 @@ native_label:
 - "Vereinte Nationen"
 - "Naciones Unidas"
 official_name:
-  - 联合国
+- 联合国
 - "United Nations"
 - "Organización de las Naciones Unidas"
 - "Organisation des Nations unies"

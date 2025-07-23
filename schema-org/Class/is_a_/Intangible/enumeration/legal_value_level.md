@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_legal_value_level Class
-linkTitle: is_a_legal_value_level Class
-
-keywords: [legal_value_level]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - legal-value-level
 - legal_value_level
 - LegalValueLevel
 - is_a_legal_value_level
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- legal_value_level
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_legal_value_level Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_legal_value_level Class"
+type: Type
 ---
 
 Class of all legal_value_levels.

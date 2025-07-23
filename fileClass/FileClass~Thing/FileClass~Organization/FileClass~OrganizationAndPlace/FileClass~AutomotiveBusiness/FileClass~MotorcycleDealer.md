@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MotorcycleDealer
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer
-  - is_a_/MotorcycleDealer
-  - schema-org/MotorcycleDealer
-tags:
-  - class/FileClass
-  - class/MotorcycleDealer
-  - is_a_/MotorcycleDealer
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MotorcycleDealer
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer
+- is_a_/MotorcycleDealer
+- schema-org/MotorcycleDealer
+tags:
+- class/FileClass
+- class/MotorcycleDealer
+- is_a_/MotorcycleDealer
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer
+version: 2.0
 ---
 
 # MotorcycleDealer

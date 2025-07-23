@@ -1,52 +1,52 @@
----
-type: Element
-SpocWebEntityId: 21959
-has_id_wikidata: Q1396
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Anatole_Demarçay,725850]]"
-has_use: '[[_Standards/WikiData/WD~dopant,15119237]]'
-time_of_discovery_or_invention: "1901"
-subject_has_role: "[[_Standards/WikiData/WD~luminescent_agents,50430320]]"
-UMLS_CUI: C0015180
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-named_after: '[[_Standards/WikiData/WD~Europe,46]]'
-electronegativity: 1.2
+﻿---
 atomic_number: 63
+canonical_SMILES: '[Eu]'
+CAS_Registry_Number: 7440-53-1
+chemical_formula: Eu
+Commons_category: Europium
+Commons_gallery: Europium
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Eugène-Anatole_Demarçay,725850]]'
+DSSTOX_compound_identifier: DTXCID0047660
+EC_number: 231-161-7
+electronegativity: 1.2
+element_symbol: Eu
+Gmelin_number: 16279
+has_id_wikidata: Q1396
+has_use: '[[_Standards/WikiData/WD~dopant,15119237]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Eu-Block.jpg"
+InChI: InChI=1S/Eu
+InChIKey: OGPBJKLSAFTDLK-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.95
 - 1.07
 - 1.17
 - 1.25
 - 1.35
-PubChem_CID: 23981
 mass: 151.964
-OmegaWiki_Defined_Meaning: 158490
-Gmelin_number: 16279
-ZVG_number: 7630
-chemical_formula: Eu
-element_symbol: Eu
-Unicode_character: 銪
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Eu-Block.jpg"
-canonical_SMILES: '[Eu]'
-EC_number: 231-161-7
-UNII: 444W947O8O
-CAS_Registry_Number: 7440-53-1
 MeSH_tree_code:
 - D01.268.558.362.468
 - D01.552.550.399.468
-DSSTOX_compound_identifier: DTXCID0047660
-Commons_gallery: Europium
-Commons_category: Europium
-InChI: InChI=1S/Eu
-InChIKey: OGPBJKLSAFTDLK-UHFFFAOYSA-N
+named_after: '[[_Standards/WikiData/WD~Europe,46]]'
+OmegaWiki_Defined_Meaning: 158490
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+PubChem_CID: 23981
+SpocWebEntityId: 21959
+subject_has_role: '[[_Standards/WikiData/WD~luminescent_agents,50430320]]'
+time_of_discovery_or_invention: 1901
+type: Element
+UMLS_CUI: C0015180
+Unicode_character: 銪
+UNII: 444W947O8O
+ZVG_number: 7630
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Europium,1396]] 

@@ -1,8 +1,9 @@
----
-title: Chloranthaceae
+﻿---
 aliases:
-  - Chloranthaceae
+- Chloranthaceae
+title: Chloranthaceae
 ---
+
 # [[Chloranthaceae]] 
 
 ![Sarcandra glabra](Sarcandra_glabra.jpg)  ![Chloranthus japonicus](Chloranthaceae/Chloranthus_japonicus.jpg)

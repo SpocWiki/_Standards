@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_home_goods_store Class
-linkTitle: is_a_home_goods_store Class
-
-keywords: [home_goods_store]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - home-goods-store
 - home_goods_store
 - HomeGoodsStore
 - is_a_home_goods_store
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- home_goods_store
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_home_goods_store Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_home_goods_store Class"
+type: Type
 ---
 
 Class of all home_goods_stores.

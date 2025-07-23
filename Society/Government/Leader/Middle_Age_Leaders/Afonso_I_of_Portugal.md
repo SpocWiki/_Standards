@@ -1,7 +1,7 @@
----
-has_id_wikidata: Q587697
+﻿---
 aliases:
-  - Afonso Henriques
+- "Afonso Henriques"
+has_id_wikidata: Q587697
 ---
 
 # [[Afonso_I_of_Portugal]] 

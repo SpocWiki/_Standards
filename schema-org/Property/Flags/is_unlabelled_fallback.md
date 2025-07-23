@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_unlabelled_fallback
-linkTitle: is_unlabelled_fallback
-
-keywords: [unlabelled_fallback]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - unlabelled-fallback
 - unlabelled_fallback
 - isUnlabelledFallback
 - is_unlabelled_fallback
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- unlabelled_fallback
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_unlabelled_fallback
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_unlabelled_fallback
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

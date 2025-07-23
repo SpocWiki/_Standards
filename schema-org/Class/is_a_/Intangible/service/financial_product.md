@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_financial_product Class
-linkTitle: is_a_financial_product Class
-
-keywords: [financial_product]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - financial-product
 - financial_product
 - FinancialProduct
 - is_a_financial_product
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- financial_product
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_financial_product Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_financial_product Class"
+type: Type
 ---
 
 Class of all financial_products.

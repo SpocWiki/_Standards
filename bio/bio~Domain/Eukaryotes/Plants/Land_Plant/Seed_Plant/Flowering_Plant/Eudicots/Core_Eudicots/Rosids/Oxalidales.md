@@ -1,7 +1,7 @@
----
-title: Oxalidales
+﻿---
 aliases:
-  - Oxalidales
+- Oxalidales
+title: Oxalidales
 ---
 
 # [[Oxalidales]] 

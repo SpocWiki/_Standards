@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HairSalon
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon
-  - is_a_/HairSalon
-  - schema-org/HairSalon
-tags:
-  - class/FileClass
-  - class/HairSalon
-  - is_a_/HairSalon
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HairSalon
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon
+- is_a_/HairSalon
+- schema-org/HairSalon
+tags:
+- class/FileClass
+- class/HairSalon
+- is_a_/HairSalon
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon
+version: 2.0
 ---
 
 # HairSalon

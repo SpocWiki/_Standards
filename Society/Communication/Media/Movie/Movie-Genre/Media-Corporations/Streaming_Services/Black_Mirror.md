@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Black Mirror
+- "Black Mirror"
 ---
 
 ## #has_/text_of_/abstract 

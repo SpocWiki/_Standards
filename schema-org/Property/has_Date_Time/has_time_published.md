@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- date-published
+- date_published
+- datePublished
+- has_time_published
+- "dbo:releaseDate"
+- "wdt:P577"
+- "schema:datePublished"
 confidential: public
+cssclasses:
+- Predicate
+- Date_Time
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Date_Time
-publish: true
-type: Predi_Date_Time
-title: has_time_published
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Date
-aliases:
-  - date-published
-  - date_published
-  - datePublished
-  - has_time_published
-  - dbo:releaseDate
-  - wdt:P577
-  - schema:datePublished
+- class/Property
+- schema-org/Property/Date
+title: has_time_published
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of CreativeWork.

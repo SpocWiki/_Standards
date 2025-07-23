@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_virtual_location Class
-linkTitle: is_a_virtual_location Class
-
-keywords: [virtual_location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - virtual-location
 - virtual_location
 - VirtualLocation
 - is_a_virtual_location
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- virtual_location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_virtual_location Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_virtual_location Class"
+type: Type
 ---
 
 Class of all virtual_locations.

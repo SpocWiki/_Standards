@@ -1,52 +1,51 @@
----
+﻿---
 aliases:
 - "Cyrillic script"
-has_id_wikidata: Q8209
+based_on: '[[_Standards/WikiData/WD~Greek_alphabet,8216]]'
+Commons_category: "Cyrillic alphabet"
+Commons_gallery: "Cyrillic alphabet"
 creator:
-- "[[_Standards/WikiData/WD~Clement_of_Ohrid,158504]]"
-- "[[_Standards/WikiData/WD~Saint_Naum,350061]]"
-- "[[_Standards/WikiData/WD~Constantine_of_Preslav,1146725]]"
-named_after: "[[_Standards/WikiData/WD~Saint_Cyril_the_Philosopher,351026]]"
+- '[[_Standards/WikiData/WD~Clement_of_Ohrid,158504]]'
+- '[[_Standards/WikiData/WD~Saint_Naum,350061]]'
+- '[[_Standards/WikiData/WD~Constantine_of_Preslav,1146725]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]"
-has_use: "[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_Cyrillic_letter,5904641]]"
-- "[[_Standards/WikiData/WD~Template_Cyrillic_script,6854075]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]'
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alphabet%20world%20distribution.svg"
+format_as_a_regular_expression: \p{IsCyrillic}
+has_id_wikidata: Q8209
+has_time_started: 0870-01-01
+has_use: '[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alternates.svg"
+inception: 0870
+instance_of: '[[_Standards/WikiData/WD~writing_system,8192]]'
+ISO_15924_alpha_4_code: Cyrl
+ISO_15924_numeric_code: 220
+Krugosvet_article: lingvistika/glagolitsa-i-kirilitsa
+name:
+- Cyrillic
+- cyrillique
+named_after: '[[_Standards/WikiData/WD~Saint_Cyril_the_Philosopher,351026]]'
+native_label: кириллица
+OmegaWiki_Defined_Meaning: 633412
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q6435505,6435505]]'
 script_directionality: '[[_Standards/WikiData/WD~left-to-right,17321844]]'
-subclass_of: "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-format_as_a_regular_expression: \p{IsCyrillic}
-instance_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
-based_on: "[[_Standards/WikiData/WD~Greek_alphabet,8216]]"
-ISO_15924_numeric_code: 220
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alphabet%20world%20distribution.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrillic%20alternates.svg"
-OmegaWiki_Defined_Meaning: 633412
-Commons_gallery: "Cyrillic alphabet"
-Commons_category: "Cyrillic alphabet"
-ISO_15924_alpha_4_code: Cyrl
-Krugosvet_article: lingvistika/glagolitsa-i-kirilitsa
+subclass_of: '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_Cyrillic_letter,5904641]]'
+- '[[_Standards/WikiData/WD~Template_Cyrillic_script,6854075]]'
 Unicode_range:
-  - U+0400-04FF
-  - U+0500-052F
-  - U+1C80-1C8F
-  - U+2DE0-2DFF
-  - U+A640-A69F
-name:
-  - Cyrillic
-  - cyrillique
-native_label: кириллица
-inception: "0870"
-has_time_started: 0870-06 
-has_time_started: 0870-01-01 
+- U+0400-04FF
+- U+0500-052F
+- U+1C80-1C8F
+- U+2DE0-2DFF
+- U+A640-A69F
 ---
 
 ## #has_/text_of_/abstract 

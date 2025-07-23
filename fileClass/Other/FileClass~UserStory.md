@@ -1,61 +1,61 @@
----
-fields:
-  - name: Role
-    type: Input
-    options: {}
-    path: ""
-    id: GB5YhG
-  - name: Result
-    type: Input
-    options: {}
-    path: ""
-    id: PtK1py
-  - name: Reason
-    type: Input
-    options: {}
-    path: ""
-    id: F3XbR2
-  - name: Scenarios
-    type: ObjectList
-    options:
-      displayTemplate: ""
-      itemDisplayTemplate: ""
-    path: ""
-    id: V9GeQN
-  - name: Assert
-    type: Input
-    options: {}
-    path: V9GeQN
-    id: ZQnbtW
-  - name: Act
-    type: Input
-    options: {}
-    path: V9GeQN
-    id: 90XohU
-  - name: Arrange
-    type: Input
-    options: {}
-    path: V9GeQN
-    id: A6250u
-version: "2.12"
-limit: 20
-mapWithTag: false
-icon: package
-tagNames: 
-filesPaths: 
+﻿---
 bookmarksGroups: 
 excludes: 
 extends: 
-savedViews: []
 favoriteView: 
+fields:
+- name: Role
+  type: Input
+  options: {}
+  path: ''
+  id: GB5YhG
+- name: Result
+  type: Input
+  options: {}
+  path: ''
+  id: PtK1py
+- name: Reason
+  type: Input
+  options: {}
+  path: ''
+  id: F3XbR2
+- name: Scenarios
+  type: ObjectList
+  options:
+    displayTemplate: ''
+    itemDisplayTemplate: ''
+  path: ''
+  id: V9GeQN
+- name: Assert
+  type: Input
+  options: {}
+  path: V9GeQN
+  id: ZQnbtW
+- name: Act
+  type: Input
+  options: {}
+  path: V9GeQN
+  id: 90XohU
+- name: Arrange
+  type: Input
+  options: {}
+  path: V9GeQN
+  id: A6250u
 fieldsOrder:
-  - GB5YhG
-  - PtK1py
-  - F3XbR2
-  - V9GeQN
-  - A6250u
-  - 90XohU
-  - ZQnbtW
+- GB5YhG
+- PtK1py
+- F3XbR2
+- V9GeQN
+- A6250u
+- 90XohU
+- ZQnbtW
+filesPaths: 
+icon: package
+limit: 20
+mapWithTag: false
+savedViews: []
+tagNames: 
+version: 2.12
 ---
 
 This is the structured Analog to [[../../../IT/Programming/Prog~Process/User-Story|User-Story]]. 

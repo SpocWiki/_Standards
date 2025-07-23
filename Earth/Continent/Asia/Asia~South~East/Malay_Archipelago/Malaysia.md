@@ -190,8 +190,8 @@ language_used:
 - '[[_Standards/WikiData/WD~Temuan,3025610]]'
 - '[[_Standards/WikiData/WD~Kiput,3038653]]'
 - '[[_Standards/WikiData/WD~Duano_,3040468]]'
-  - "[[_Standards/WikiData/WD~Ida'an,3041552]]"
-  - "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
+- "[[_Standards/WikiData/WD~Ida'an,3041552]]"
+- "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
 - '[[_Standards/WikiData/WD~Semelai,3111827]]'
 - '[[_Standards/WikiData/WD~Semai,3135426]]'
 - '[[_Standards/WikiData/WD~Jehai,3176748]]'
@@ -208,7 +208,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Orang_Kanaq,3449510]]"
 - "[[_Standards/WikiData/WD~Brunei_Bisaya,3450611]]"
 - '[[_Standards/WikiData/WD~Bintulu,3450775]]'
-  - "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
+- "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
 - '[[_Standards/WikiData/WD~Temiar,3914693]]'
 - "[[_Standards/WikiData/WD~Negeri_Sembilan_Malay,3915909]]"
 - "[[_Standards/WikiData/WD~Orang_Seletar,4208197]]"
@@ -360,7 +360,7 @@ demonym:
   - malaysiani
   - malaysiano
   - malaisian
-- "orang Malaysia"
+  - "orang Malaysia"
   - Malezyjczyk
   - Malezyjka
   - malaysian
@@ -442,8 +442,8 @@ motto_text:
 - "برسکوتو برتمبه موتو"
 short_name:
 - "\U0001F1F2\U0001F1FE"
-  - MYS
-  - MYS
+- MYS
+- MYS
 nominal_GDP:
   - 406305924656
   - 372981073018
@@ -561,12 +561,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Malaysia
-    - Malasia
-    - Malaisie
-    - ماليزيا
-    - 马来西亚
-    - Малайзия
+- Malaysia
+- Malasia
+- Malaisie
+- ماليزيا
+- 马来西亚
+- Малайзия
 - "Federación de Malasia"
 Languages:
     - ms-MY

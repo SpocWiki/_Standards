@@ -1,33 +1,33 @@
----
-title: has_url_for
-linkTitle: has_url_for
-lang: en
-type: Predi_Url
-cssclasses:
-  - Predicate
-  - Url
-layout: 
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has_url_for
+- "schema:url"
+- "dbo:wikiPageExternalLink"
+- "wdt:P856"
 confidential: public
+cssclasses:
+- Predicate
+- Url
+draft: false
+expiryDate: 
+has_Template:
+- Extract~Note~Template
+has_time_started: 2024-10-27
 isDeleted: false
 isReadOnly: false
-publish: false
 keywords: has_url_for
-has_Template:
-  - Extract~Note~Template
-draft: false
+lang: en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for
+publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2024-10-27
 tags:
-  - has_/url_/for
-  - class/Property
-  - schema-org/Property/Url
-aliases:
-  - has_url_for
-  - schema:url
-  - dbo:wikiPageExternalLink
-  - wdt:P856
+- has_/url_/for
+- class/Property
+- schema-org/Property/Url
+title: has_url_for
+type: Predi_Url
 ---
 
 # [[has_url_for]] 

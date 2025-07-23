@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Abel Prize
+- "Abel Prize"
 ---
 
 #is_/similar_to :: [[Fields_Medal]] 

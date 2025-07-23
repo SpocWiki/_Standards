@@ -1,44 +1,44 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: dna
-version: "2.0"
-tagNames:
-  - class/Gene
-  - class/Thing/BioChemEntity/Gene
-  - is_a_/Gene
-  - schema-org/Gene
-tags:
-  - class/FileClass
-  - class/Gene
-  - is_a_/Gene
-  - class/Thing/BioChemEntity/Gene
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: cn9HD7
-    name: AlternativeOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/BioChemEntity/Gene')
-    type: MultiFile
-    path: ""
-  - id: 5FaWui
-    name: EncodesBioChemEntity
-    options:
-      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
-    type: MultiFile
-    path: ""
-  - id: CZikNB
-    name: ExpressedIn
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: 0Ijrld
-    name: HasBioPolymerSequence
-    options: {}
-    type: Input
-    path: ""
+- id: cn9HD7
+  name: AlternativeOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/BioChemEntity/Gene')"
+  type: MultiFile
+  path: ''
+- id: 5FaWui
+  name: EncodesBioChemEntity
+  options:
+    dvQueryString: "dv.pages('#class/Thing/BioChemEntity')"
+  type: MultiFile
+  path: ''
+- id: CZikNB
+  name: ExpressedIn
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: 0Ijrld
+  name: HasBioPolymerSequence
+  options: {}
+  type: Input
+  path: ''
+icon: dna
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Gene
+- class/Thing/BioChemEntity/Gene
+- is_a_/Gene
+- schema-org/Gene
+tags:
+- class/FileClass
+- class/Gene
+- is_a_/Gene
+- class/Thing/BioChemEntity/Gene
+version: 2.0
 ---
 
 # Gene

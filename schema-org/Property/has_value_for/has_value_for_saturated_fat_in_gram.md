@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_saturated-fat-content
-linkTitle: has_saturated-fat-content
-
-keywords: [saturated-fat-content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - saturated_fat_in_gram
 - saturated-fat-content
 - saturatedFatContent
 - has_value_for_saturated_fat_in_gram
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- saturated-fat-content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_saturated-fat-content
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_saturated-fat-content
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of NutritionInformation.

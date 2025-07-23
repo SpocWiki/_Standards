@@ -1,25 +1,15 @@
----
-location:
-  - -20.8833
-  - 55.45
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 27005
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Réunion
-
-location: [-20.8833,55.45]
-type: Country
+- Réunion
+confidential: public
+isDeleted: false
+location:
+- -20.8833
+- 55.45
+SpocWebEntityId: 27005
 tags:
 - geo/Country
-
-SpocWebEntityId: 27005
-isDeleted: false
-confidential: public
-
+type: Country
 ---
 
 # [[Reunion]] 

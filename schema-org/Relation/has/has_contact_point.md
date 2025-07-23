@@ -1,35 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_contact_point
-
-linkTitle: has_contact_point
-keywords: [contact, point]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: contactPoints
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - contact-point
 - contact_point
 - contactPoint
 - has_contact_point
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- contact
+- point
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_contact_point
+publish: true
+publishDate: 
+supersedes: contactPoints
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_contact_point
+type: Predi_Relation
 ---
 
 Use it like this: 

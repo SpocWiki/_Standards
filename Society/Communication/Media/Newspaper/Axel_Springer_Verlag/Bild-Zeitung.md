@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - BILD
+- BILD
 ---
-
 
 ## #has_/text_of_/abstract 
 

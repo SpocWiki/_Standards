@@ -1,15 +1,15 @@
----
-type: Continent
-icon: flag-eu
-has_id_wikidata: Q46
-SpocWebEntityId: 1111
-confidential_: public
+﻿---
 aliases:
 - Europa
 - european
+confidential_: public
+has_id_wikidata: Q46
+icon: flag-eu
+isDeleted: false
+SpocWebEntityId: 1111
 tags:
 - geo/Continent
-isDeleted: false
+type: Continent
 ---
 
 # [[Europe]] 

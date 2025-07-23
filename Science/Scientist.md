@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Scientists
+- Scientists
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Rachel Weisz
+- "Rachel Weisz"
 ---
 
 # [[Weisz,Rachel]] 

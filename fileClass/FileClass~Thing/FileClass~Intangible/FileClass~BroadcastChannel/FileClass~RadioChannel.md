@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RadioChannel
-  - class/Thing/Intangible/BroadcastChannel/RadioChannel
-  - is_a_/RadioChannel
-  - schema-org/RadioChannel
-tags:
-  - class/FileClass
-  - class/RadioChannel
-  - is_a_/RadioChannel
-  - class/Thing/Intangible/BroadcastChannel/RadioChannel
 extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RadioChannel
+- class/Thing/Intangible/BroadcastChannel/RadioChannel
+- is_a_/RadioChannel
+- schema-org/RadioChannel
+tags:
+- class/FileClass
+- class/RadioChannel
+- is_a_/RadioChannel
+- class/Thing/Intangible/BroadcastChannel/RadioChannel
+version: 2.0
 ---
 
 # RadioChannel

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_method_enumeration Class
-linkTitle: is_a_return_method_enumeration Class
-
-keywords: [return_method_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-method-enumeration
 - return_method_enumeration
 - ReturnMethodEnumeration
 - is_a_return_method_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_method_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_method_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_method_enumeration Class"
+type: Type
 ---
 
 Class of all return_method_enumerations.

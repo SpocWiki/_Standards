@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_months-of-experience
-linkTitle: has_months-of-experience
-
-keywords: [months-of-experience]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - months_of_experience
 - months-of-experience
 - monthsOfExperience
 - has_value_for_months_of_experience
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- months-of-experience
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_months-of-experience
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_months-of-experience
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of OccupationalExperienceRequirements.

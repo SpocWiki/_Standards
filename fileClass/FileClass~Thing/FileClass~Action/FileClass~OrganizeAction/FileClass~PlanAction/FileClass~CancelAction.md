@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CancelAction
-  - class/Thing/Action/OrganizeAction/PlanAction/CancelAction
-  - is_a_/CancelAction
-  - schema-org/CancelAction
-tags:
-  - class/FileClass
-  - class/CancelAction
-  - is_a_/CancelAction
-  - class/Thing/Action/OrganizeAction/PlanAction/CancelAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CancelAction
+- class/Thing/Action/OrganizeAction/PlanAction/CancelAction
+- is_a_/CancelAction
+- schema-org/CancelAction
+tags:
+- class/FileClass
+- class/CancelAction
+- is_a_/CancelAction
+- class/Thing/Action/OrganizeAction/PlanAction/CancelAction
+version: 2.0
 ---
 
 # CancelAction

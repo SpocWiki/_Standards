@@ -1,67 +1,67 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ExercisePlan
-  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
-  - is_an_/ExercisePlan
-  - schema-org/ExercisePlan
-tags:
-  - class/FileClass
-  - class/ExercisePlan
-  - "#is_an_/ExercisePlan"
-  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity
 fields:
-  - id: 26my5j
-    name: ActivityDuration
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: FIVjbq
-    name: ActivityFrequency
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: OPS1E2
-    name: AdditionalVariable
-    options: {}
-    type: Input
-    path: ""
-  - id: vH1oaw
-    name: ExerciseType
-    options: {}
-    type: Input
-    path: ""
-  - id: ENyHfy
-    name: Intensity
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: KwO3Uo
-    name: Repetitions
-    options: {}
-    type: Number
-    path: ""
-  - id: Z8tdQp
-    name: RestPeriods
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: es6Atp
-    name: Workload
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+- id: 26my5j
+  name: ActivityDuration
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: FIVjbq
+  name: ActivityFrequency
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: OPS1E2
+  name: AdditionalVariable
+  options: {}
+  type: Input
+  path: ''
+- id: vH1oaw
+  name: ExerciseType
+  options: {}
+  type: Input
+  path: ''
+- id: ENyHfy
+  name: Intensity
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: KwO3Uo
+  name: Repetitions
+  options: {}
+  type: Number
+  path: ''
+- id: Z8tdQp
+  name: RestPeriods
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: es6Atp
+  name: Workload
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ExercisePlan
+- class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
+- is_an_/ExercisePlan
+- schema-org/ExercisePlan
+tags:
+- class/FileClass
+- class/ExercisePlan
+- '#is_an_/ExercisePlan'
+- class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
+version: 2.0
 ---
 
 # ExercisePlan

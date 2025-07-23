@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: bike
-version: "2.0"
-tagNames:
-  - class/Motorcycle
-  - class/Thing/Product/Vehicle/Motorcycle
-  - is_a_/Motorcycle
-  - schema-org/Motorcycle
-tags:
-  - class/FileClass
-  - class/Motorcycle
-  - is_a_/Motorcycle
-  - class/Thing/Product/Vehicle/Motorcycle
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 fields: []
+icon: bike
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Motorcycle
+- class/Thing/Product/Vehicle/Motorcycle
+- is_a_/Motorcycle
+- schema-org/Motorcycle
+tags:
+- class/FileClass
+- class/Motorcycle
+- is_a_/Motorcycle
+- class/Thing/Product/Vehicle/Motorcycle
+version: 2.0
 ---
 
 # Motorcycle

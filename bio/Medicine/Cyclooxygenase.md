@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - prostaglandin-endoperoxide synthase
+- "prostaglandin-endoperoxide synthase"
 ---
 
 Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors. 

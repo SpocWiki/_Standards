@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - John Rawls
-  - John Bordley Rawls
+- "John Rawls"
+- "John Bordley Rawls"
 ---
 
 # [[Rawls,John 1]] 

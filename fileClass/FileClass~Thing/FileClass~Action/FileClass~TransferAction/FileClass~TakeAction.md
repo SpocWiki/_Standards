@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TakeAction
-  - class/Thing/Action/TransferAction/TakeAction
-  - is_a_/TakeAction
-  - schema-org/TakeAction
-tags:
-  - class/FileClass
-  - class/TakeAction
-  - is_a_/TakeAction
-  - class/Thing/Action/TransferAction/TakeAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TakeAction
+- class/Thing/Action/TransferAction/TakeAction
+- is_a_/TakeAction
+- schema-org/TakeAction
+tags:
+- class/FileClass
+- class/TakeAction
+- is_a_/TakeAction
+- class/Thing/Action/TransferAction/TakeAction
+version: 2.0
 ---
 
 # TakeAction

@@ -1,16 +1,23 @@
----
-has_id_wikidata: Q12518
-subclass_of:
-- "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-- '[[_Standards/WikiData/WD~building,41176]]'
+﻿---
+Commons_category: Towers
+Commons_gallery: Tower
 described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Q22845830,22845830]]'
-instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+equivalent_class: "http://dbpedia.org/ontology/Tower"
+GeoNames_feature_code: S.TOWR
+has_id_wikidata: Q12518
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232996%20cc%20Castle.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons%20%28cropped%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
+model_item: '[[_Standards/WikiData/WD~Eiffel_Tower,243]]'
+Nomenclature_for_Museum_Cataloging: 958
+OmegaWiki_Defined_Meaning: 6890
+OpenStreetMap_tag_or_key:
+- "Tag:building=tower"
+- "Tag:man_made=tower"
 properties_for_this_type:
 - "located in time zone"
 - inception
@@ -22,17 +29,10 @@ properties_for_this_type:
 - architect
 - "located in the administrative territorial entity"
 - "architectural style"
-model_item: "[[_Standards/WikiData/WD~Eiffel_Tower,243]]"
-Nomenclature_for_Museum_Cataloging: 958
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Noun%20232996%20cc%20Castle.svg"
-equivalent_class: "http://dbpedia.org/ontology/Tower"
-OmegaWiki_Defined_Meaning: 6890
-GeoNames_feature_code: S.TOWR
-OpenStreetMap_tag_or_key:
-- "Tag:building=tower"
-- "Tag:man_made=tower"
-Commons_gallery: Tower
-Commons_category: Towers
+subclass_of:
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~building,41176]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q22845830,22845830]]'
 ---
 
 ## #has_/text_of_/abstract 

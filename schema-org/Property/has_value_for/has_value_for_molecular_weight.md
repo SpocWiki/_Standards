@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_molecular-weight
-linkTitle: has_molecular-weight
-
-keywords: [molecular-weight]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - molecular_weight
 - molecular-weight
 - molecularWeight
 - has_value_for_molecular_weight
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- molecular-weight
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_molecular-weight
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_molecular-weight
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of MolecularEntity.

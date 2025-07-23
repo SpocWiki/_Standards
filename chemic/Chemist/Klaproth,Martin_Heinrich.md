@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Martin Heinrich Klaproth
+- "Martin Heinrich Klaproth"
 ---
 
 #has_/time_/started :: 1743-12-01 

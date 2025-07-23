@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- service-output
+- service_output
+- serviceOutput
+- has_service_output
+- is_producing
+- produces
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_service_output
-linkTitle: has_service_output
 keywords:
-  - service
-  - output
+- service
+- output
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_service_output
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: produces
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - service-output
-  - service_output
-  - serviceOutput
-  - has_service_output
-  - is_producing
-  - produces
+- class/Relation
+- schema-org/Relation
+title: has_service_output
+type: Predi_Relation
 ---
 
 Use it like this: 

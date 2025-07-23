@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OnlineStore
-  - class/Thing/Organization/OnlineBusiness/OnlineStore
-  - is_an_/OnlineStore
-  - schema-org/OnlineStore
-tags:
-  - class/FileClass
-  - class/OnlineStore
-  - "#is_an_/OnlineStore"
-  - class/Thing/Organization/OnlineBusiness/OnlineStore
 extends: FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OnlineStore
+- class/Thing/Organization/OnlineBusiness/OnlineStore
+- is_an_/OnlineStore
+- schema-org/OnlineStore
+tags:
+- class/FileClass
+- class/OnlineStore
+- '#is_an_/OnlineStore'
+- class/Thing/Organization/OnlineBusiness/OnlineStore
+version: 2.0
 ---
 
 # OnlineStore

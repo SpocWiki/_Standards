@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - George Frideric Handel
-  - George Frederick Handel
-  - Georg Friedrich Händel
+- "George Frideric Handel"
+- "George Frederick Handel"
+- "Georg Friedrich Händel"
 ---
 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

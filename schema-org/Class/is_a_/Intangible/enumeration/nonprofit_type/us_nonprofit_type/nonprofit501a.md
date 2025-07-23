@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit501a Class
-linkTitle: is_a_nonprofit501a Class
-
-keywords: [nonprofit501a]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: USNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit501a
 - nonprofit501a
 - Nonprofit501a
 - is_a_nonprofit501a
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: USNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit501a
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit501a Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit501a Class"
+type: Type
 ---
 
 Class of all nonprofit501as.

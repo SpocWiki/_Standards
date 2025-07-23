@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_recipe_ingredient
-linkTitle: has_text_of_recipe_ingredient
-
-keywords: [recipe, ingredient]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: ingredients
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - recipe-ingredient
 - recipe_ingredient
 - recipeIngredient
 - has_text_of_recipe_ingredient
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- recipe
+- ingredient
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_recipe_ingredient
+publish: true
+publishDate: 
+supersedes: ingredients
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_recipe_ingredient
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Recipe.

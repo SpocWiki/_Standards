@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_artist
-
-linkTitle: has_artist
-keywords: [artist]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - artist
 - artist
 - artist
 - has_artist
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- artist
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_artist
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_artist
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: https://bib.schema.org ]

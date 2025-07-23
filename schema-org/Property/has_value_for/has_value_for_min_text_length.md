@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_value-min-text-length
-linkTitle: has_value-min-text-length
-
-keywords: [value-min-text-length]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - value_min_text_length
 - value-min-text-length
 - valueMinTextLength
 - has_value_for_min_text_length
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- value-min-text-length
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_value-min-text-length
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_value-min-text-length
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of PropertyValueSpecification.

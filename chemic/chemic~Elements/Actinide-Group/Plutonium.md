@@ -1,56 +1,56 @@
----
-type: Element
-SpocWebEntityId: 21989
-has_id_wikidata: Q1102
-named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
-part_of:
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+﻿---
+atomic_number: 94
+canonical_SMILES: '[Pu]'
+CAS_Registry_Number: 7440-07-5
+chemical_formula: Pu
+Commons_category: Plutonium
+Commons_gallery: Plutonium
+Common_Procurement_Vocabulary_code: 09342000
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+Dewey_Decimal_Classification:
+- 546.434
+- 669.2934
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Arthur_Wahl,472997]]"
-- "[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246]]"
-- "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
-- "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- '[[_Standards/WikiData/WD~Arthur_Wahl,472997]]'
+- '[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246]]'
+- '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+DSSTOX_compound_identifier: DTXCID2047646
+EC_number: 231-117-7
+electronegativity: 1.28
+element_symbol: Pu
+has_id_wikidata: Q1102
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plutonium%20ring.jpg"
+InChI: InChI=1S/Pu
+InChIKey: OYEHPCDNVJXUIW-UHFFFAOYSA-N
 instance_of:
-- "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]"
-UMLS_CUI: C0032259
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20147.jpg"
+- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 1
 - 0.71
 - 0.74
 - 0.86
-atomic_number: 94
-electronegativity: 1.28
-OmegaWiki_Defined_Meaning: 2844
-PubChem_CID: 23940
-chemical_formula: Pu
-element_symbol: Pu
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Plutonium%20ring.jpg"
-canonical_SMILES: '[Pu]'
-Common_Procurement_Vocabulary_code: 09342000
-EC_number: 231-117-7
-UNII: 53023GN24M
-Dewey_Decimal_Classification:
-- 546.434
-- 669.2934
-CAS_Registry_Number: 7440-07-5
 MeSH_tree_code:
 - D01.268.271.100.700
 - D01.268.556.700
 - D01.496.749.305.100.700
 - D01.552.020.734
 - D01.552.544.700
-DSSTOX_compound_identifier: DTXCID2047646
-InChI: InChI=1S/Pu
-InChIKey: OYEHPCDNVJXUIW-UHFFFAOYSA-N
-Commons_gallery: Plutonium
-Commons_category: Plutonium
+named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
+OmegaWiki_Defined_Meaning: 2844
+part_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20147.jpg"
+PubChem_CID: 23940
+SpocWebEntityId: 21989
+time_of_discovery_or_invention: 1941
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]'
+type: Element
+UMLS_CUI: C0032259
 Unicode_character: 鈽
-time_of_discovery_or_invention: "1941"
+UNII: 53023GN24M
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 

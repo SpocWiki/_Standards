@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_prescribing_by_mail
-linkTitle: is_prescribing_by_mail
-
-keywords: [prescribing_by_mail]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - has-prescription-by-mail
 - prescribing_by_mail
 - offersPrescriptionByMail
 - is_prescribing_by_mail
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- prescribing_by_mail
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_prescribing_by_mail
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_prescribing_by_mail
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

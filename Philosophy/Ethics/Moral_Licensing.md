@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Self-licensing 
-  - moral self-licensing 
-  - moral licensing  
-  - licensing effect
+- Self-licensing
+- "moral self-licensing"
+- "moral licensing"
+- "licensing effect"
 ---
 
 # [[Moral_Licensing]]

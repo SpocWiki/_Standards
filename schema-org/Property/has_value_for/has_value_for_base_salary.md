@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_base-salary
-linkTitle: has_base-salary
-
-keywords: [base-salary]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - base_salary
 - base-salary
 - baseSalary
 - has_value_for_base_salary
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- base-salary
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_base-salary
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_base-salary
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of EmployeeRole, JobPosting.

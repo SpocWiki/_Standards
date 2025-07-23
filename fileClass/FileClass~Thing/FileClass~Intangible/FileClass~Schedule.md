@@ -1,95 +1,95 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Schedule
-  - class/Thing/Intangible/Schedule
-  - is_a_/Schedule
-  - schema-org/Schedule
-tags:
-  - class/FileClass
-  - class/Schedule
-  - is_a_/Schedule
-  - class/Thing/Intangible/Schedule
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: N4SAU4
-    name: ByMonth
-    options: {}
-    type: Number
-    path: ""
-  - id: 3GRWtY
-    name: ByMonthDay
-    options: {}
-    type: Number
-    path: ""
-  - id: CrLiyo
-    name: ByMonthWeek
-    options: {}
-    type: Number
-    path: ""
-  - id: mjAs6Q
-    name: Duration
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: 42nLL2
-    name: EndDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: 5PDGA5
-    name: EndTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: nGX5jI
-    name: ExceptDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: OXglG0
-    name: RepeatCount
-    options: {}
-    type: Number
-    path: ""
-  - id: SxsvKg
-    name: RepeatFrequency
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: XKW9aG
-    name: ScheduleTimezone
-    options: {}
-    type: Input
-    path: ""
-  - id: 5KkNAH
-    name: StartDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: HWFyUe
-    name: StartTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
+- id: N4SAU4
+  name: ByMonth
+  options: {}
+  type: Number
+  path: ''
+- id: 3GRWtY
+  name: ByMonthDay
+  options: {}
+  type: Number
+  path: ''
+- id: CrLiyo
+  name: ByMonthWeek
+  options: {}
+  type: Number
+  path: ''
+- id: mjAs6Q
+  name: Duration
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: 42nLL2
+  name: EndDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: 5PDGA5
+  name: EndTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: nGX5jI
+  name: ExceptDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: OXglG0
+  name: RepeatCount
+  options: {}
+  type: Number
+  path: ''
+- id: SxsvKg
+  name: RepeatFrequency
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: XKW9aG
+  name: ScheduleTimezone
+  options: {}
+  type: Input
+  path: ''
+- id: 5KkNAH
+  name: StartDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: HWFyUe
+  name: StartTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Schedule
+- class/Thing/Intangible/Schedule
+- is_a_/Schedule
+- schema-org/Schedule
+tags:
+- class/FileClass
+- class/Schedule
+- is_a_/Schedule
+- class/Thing/Intangible/Schedule
+version: 2.0
 ---
 
 # Schedule

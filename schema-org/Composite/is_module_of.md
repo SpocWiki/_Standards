@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- module-of
+- module_of
+- moduleOf
+- is_module_of
+- is_a_fraction_of
+- is_a_partition_of
+- 
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_module_of
-linkTitle: is_module_of
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_module_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Relation
-aliases:
-  - module-of
-  - module_of
-  - moduleOf
-  - is_module_of
-  - is_a_fraction_of
-  - is_a_partition_of
-  - 
+- schema-org/Relation
+title: is_module_of
+type: Predi_Relation
 ---
 
 Use it like this: 

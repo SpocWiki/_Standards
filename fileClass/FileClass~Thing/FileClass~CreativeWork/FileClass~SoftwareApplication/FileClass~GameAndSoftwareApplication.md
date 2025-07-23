@@ -1,51 +1,51 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/GameAndSoftwareApplication
-  - class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
-  - is_a_/GameAndSoftwareApplication
-  - schema-org/GameAndSoftwareApplication
-tags:
-  - class/FileClass
-  - class/GameAndSoftwareApplication
-  - is_a_/GameAndSoftwareApplication
-  - class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 fields:
-  - id: N2XWjH
-    name: CharacterAttribute
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: rmXaLl
-    name: GameItem
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: rGdEvM
-    name: GameLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: U0DdkI
-    name: NumberOfPlayers
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: oRuBAa
-    name: Quest
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
+- id: N2XWjH
+  name: CharacterAttribute
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: rmXaLl
+  name: GameItem
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: rGdEvM
+  name: GameLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: U0DdkI
+  name: NumberOfPlayers
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: oRuBAa
+  name: Quest
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/GameAndSoftwareApplication
+- class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
+- is_a_/GameAndSoftwareApplication
+- schema-org/GameAndSoftwareApplication
+tags:
+- class/FileClass
+- class/GameAndSoftwareApplication
+- is_a_/GameAndSoftwareApplication
+- class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
+version: 2.0
 ---
 
 # GameAndSoftwareApplication

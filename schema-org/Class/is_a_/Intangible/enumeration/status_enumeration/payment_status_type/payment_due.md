@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_payment_due Class
-linkTitle: is_a_payment_due Class
-
-keywords: [payment_due]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PaymentStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - payment-due
 - payment_due
 - PaymentDue
 - is_a_payment_due
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PaymentStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- payment_due
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_payment_due Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_payment_due Class"
+type: Type
 ---
 
 Class of all payment_dues.

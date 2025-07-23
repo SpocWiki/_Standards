@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- event
+- event
+- Event
+- is_an_event
+- "dbo:Event"
+- "schema:Event"
 confidential: public
+cssclasses:
+- Type
+draft: false
+equivalent_class: "http://purl.org/dc/dcmitype/Event"
+expiryDate: 
+icon: fas_bolt_lightning
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_an_event Class
-linkTitle: is_an_event Class
 keywords:
-  - event
+- event
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_event Class"
+publish: true
 publishDate: 
-expiryDate: 
-equivalent_class: http://purl.org/dc/dcmitype/Event
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - event
-  - event
-  - Event
-  - is_an_event
-  - dbo:Event
-  - schema:Event
-icon: fas_bolt_lightning
+- class/Class
+- schema-org/Class
+title: "is_an_event Class"
+type: Type
 ---
 
 Class of all events.

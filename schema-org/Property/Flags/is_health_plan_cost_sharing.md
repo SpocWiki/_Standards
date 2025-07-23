@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_health_plan_cost_sharing
-linkTitle: is_health_plan_cost_sharing
-
-keywords: [health_plan_cost_sharing]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - health-plan-cost-sharing
 - health_plan_cost_sharing
 - healthPlanCostSharing
 - is_health_plan_cost_sharing
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health_plan_cost_sharing
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_health_plan_cost_sharing
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_health_plan_cost_sharing
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

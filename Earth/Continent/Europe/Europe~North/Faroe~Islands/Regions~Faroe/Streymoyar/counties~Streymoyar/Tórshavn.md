@@ -1,17 +1,19 @@
----
-location: [62,-6.783333] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 62
+- -6.783333
+mapmarker: city
+mapzoom:
+- 7
+- 12
+SpocWebEntityId: 35987
 tags:
 - geo/City
-
-
-SpocWebEntityId: 35987
-isDeleted: false
-confidential: public
-
+type: City
 ---
+
 [has_place_longitude::-6.783333] 
 [has_place_latitude::62] 
 [name::Tórshavn] 

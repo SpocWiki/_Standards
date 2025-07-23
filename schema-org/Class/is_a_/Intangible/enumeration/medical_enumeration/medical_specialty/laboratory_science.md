@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_laboratory_science Class
-linkTitle: is_a_laboratory_science Class
-
-keywords: [laboratory_science]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - laboratory-science
 - laboratory_science
 - LaboratoryScience
 - is_a_laboratory_science
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- laboratory_science
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_laboratory_science Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_laboratory_science Class"
+type: Type
 ---
 
 Class of all laboratory_sciences.

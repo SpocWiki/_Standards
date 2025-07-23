@@ -217,7 +217,7 @@ motto_text:
 ISNI: 0000000121632435
 official_name:
 - "Mali ka Fasojamana"
-  - Mali
+- Mali
 coordinates_of_westernmost_point: "Point(-12.2399 14.7644)"
 PM20_geo_code: C32b
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20-%20Location%20Map%20%282013%29%20-%20MLI%20-%20UNOCHA.svg"

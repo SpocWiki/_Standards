@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_body_measurement_waist Class
-linkTitle: is_a_body_measurement_waist Class
-
-keywords: [body_measurement_waist]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BodyMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - body-measurement-waist
 - body_measurement_waist
 - BodyMeasurementWaist
 - is_a_body_measurement_waist
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BodyMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- body_measurement_waist
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_body_measurement_waist Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_body_measurement_waist Class"
+type: Type
 ---
 
 Class of all body_measurement_waists.

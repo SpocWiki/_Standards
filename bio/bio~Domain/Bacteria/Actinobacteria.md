@@ -1,8 +1,8 @@
----
-title: Actinobacteria
+﻿---
 aliases:
-  - Actinomycetota
-  - Actinobacteria
+- Actinomycetota
+- Actinobacteria
+title: Actinobacteria
 ---
 
 # [[Actinobacteria]] 

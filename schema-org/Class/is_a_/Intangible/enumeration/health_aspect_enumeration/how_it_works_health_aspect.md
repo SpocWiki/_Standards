@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_how_it_works_health_aspect Class
-linkTitle: is_a_how_it_works_health_aspect Class
-
-keywords: [how_it_works_health_aspect]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: HealthAspectEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - how-it-works-health-aspect
 - how_it_works_health_aspect
 - HowItWorksHealthAspect
 - is_a_how_it_works_health_aspect
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: HealthAspectEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- how_it_works_health_aspect
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_how_it_works_health_aspect Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_how_it_works_health_aspect Class"
+type: Type
 ---
 
 Class of all how_it_works_health_aspects.

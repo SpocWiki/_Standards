@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_medicine_system
-
-linkTitle: has_medicine_system
-keywords: [medicine, system]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - medicine-system
 - medicine_system
 - medicineSystem
 - has_medicine_system
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medicine
+- system
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_medicine_system
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_medicine_system
+type: Predi_Relation
 ---
 
 Use it like this: 

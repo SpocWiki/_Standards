@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- part-of-series
+- part_of_series
+- partOfSeries
+- is_part_of_series
+- partOfTVSeries
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_part_of_series
-linkTitle: is_part_of_series
 keywords:
-  - part
-  - of
-  - series
+- part
+- of
+- series
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_part_of_series
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: partOfTVSeries
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - part-of-series
-  - part_of_series
-  - partOfSeries
-  - is_part_of_series
-  - partOfTVSeries
+- class/Relation
+- schema-org/Relation
+title: is_part_of_series
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,8 +1,8 @@
----
-title: Euryarchaeota
+﻿---
 aliases:
-  - Methanobacteriota
-  - Euryarchaeota
+- Methanobacteriota
+- Euryarchaeota
+title: Euryarchaeota
 ---
 
 # [[Methanobacteriota]] 

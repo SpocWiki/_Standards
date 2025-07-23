@@ -175,9 +175,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Esimbi,35260]]'
 - '[[_Standards/WikiData/WD~Dzodinka,35266]]'
 - '[[_Standards/WikiData/WD~Gidar,35265]]'
-  - "[[_Standards/WikiData/WD~Ghomala',35271]]"
+- "[[_Standards/WikiData/WD~Ghomala',35271]]"
 - '[[_Standards/WikiData/WD~Hijuk,35274]]'
-  - "[[_Standards/WikiData/WD~Fe'fe',35276]]"
+- "[[_Standards/WikiData/WD~Fe'fe',35276]]"
 - '[[_Standards/WikiData/WD~Bamum,35280]]'
 - '[[_Standards/WikiData/WD~Dowayo,35299]]'
 - '[[_Standards/WikiData/WD~Ekoi,35296]]'
@@ -229,9 +229,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Məgaka,36017]]'
 - '[[_Standards/WikiData/WD~Moundang,36032]]'
 - '[[_Standards/WikiData/WD~Ngwo,36051]]'
-  - "[[_Standards/WikiData/WD~Meta',36054]]"
+- "[[_Standards/WikiData/WD~Meta',36054]]"
 - '[[_Standards/WikiData/WD~Mboa,36064]]'
-  - "[[_Standards/WikiData/WD~Nga'ka,36068]]"
+- "[[_Standards/WikiData/WD~Nga'ka,36068]]"
 - '[[_Standards/WikiData/WD~Nimbari,36069]]'
 - '[[_Standards/WikiData/WD~Noni,36072]]'
 - '[[_Standards/WikiData/WD~Menka,36078]]'
@@ -273,7 +273,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuk,6442398]]'
 - '[[_Standards/WikiData/WD~Kung,6444510]]'
 - '[[_Standards/WikiData/WD~Kuo,6445233]]'
-  - "[[_Standards/WikiData/WD~La'bi,6460637]]"
+- "[[_Standards/WikiData/WD~La'bi,6460637]]"
 - '[[_Standards/WikiData/WD~Laimbue,6473933]]'
 - '[[_Standards/WikiData/WD~Majera,6737666]]'
 - '[[_Standards/WikiData/WD~Mangbai,6748872]]'
@@ -292,7 +292,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Weh,7979690]]'
 - '[[_Standards/WikiData/WD~Yambeta,8048020]]'
 - '[[_Standards/WikiData/WD~Zhoa,8070885]]'
-  - "[[_Standards/WikiData/WD~Mbe',10964025]]"
+- "[[_Standards/WikiData/WD~Mbe',10964025]]"
 - '[[_Standards/WikiData/WD~Dugun,11015189]]'
 - '[[_Standards/WikiData/WD~Gimnime,11016905]]'
 - '[[_Standards/WikiData/WD~Mono,11031964]]'
@@ -515,7 +515,7 @@ official_name:
 - "Republic of Cameroon"
 - "Hautugo Kamerun"
 - "République du Cameroun"
-  - Cameroun
+- Cameroun
 native_label: "République du Cameroun"
 short_name: "\U0001F1E8\U0001F1F2"
 ISO_3166_1_alpha_2_code: CM

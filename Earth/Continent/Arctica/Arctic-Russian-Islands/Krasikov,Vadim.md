@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Vadim Nikolayevich Krasikov
-  - Wadim Nikolajewitsch Krassikow
-  - Tiergartenmörder
+- "Vadim Nikolayevich Krasikov"
+- "Wadim Nikolajewitsch Krassikow"
+- Tiergartenmörder
 ---
 
 #has_/time_/started :: 1965-08-10 

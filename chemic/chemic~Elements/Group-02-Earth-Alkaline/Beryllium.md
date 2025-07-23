@@ -1,90 +1,90 @@
----
-type: Element
-SpocWebEntityId: "21907 á à ô"
-has_id_wikidata: Q569
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]'
+atomic_number: 4
+boiling_point:
+- 2970
+- 4532
 canonical_SMILES: '[Be]'
-electron_configuration:
-- "[He] 2s²"
-- "1s² 2s²"
-EC_number: 231-150-7
+CAS_Registry_Number: 7440-41-7
+ceiling_exposure_limit: 0.0005
+chemical_formula: Be
+Commons_category: Beryllium
+Commons_gallery: Beryllium
+density: 1.85
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
 - 546.391
 - 669.724
-CAS_Registry_Number: 7440-41-7
+different_from: '[[_Standards/WikiData/WD~Beryl,440624]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Louis_Nicolas_Vauquelin,333438]]'
+- '[[_Standards/WikiData/WD~Antoine_Bussy,585780]]'
+- '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
+DSSTOX_compound_identifier: DTXCID90875623
+EC_number: 231-150-7
+electrical_conductivity: 25000000
+electronegativity: 2
+electron_configuration:
+- "[He] 2s²"
+- "1s² 2s²"
+element_symbol: Be
+Gmelin_number: 16265
+has_effect:
+- '[[_Standards/WikiData/WD~berylliosis,684810]]'
+- '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]'
+has_id_wikidata: Q569
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beryllium%20nuggets%202.jpg"
+immediately_dangerous_to_life_or_health: 4
+InChI: InChI=1S/Be
 InChIKey: ATBAMAFKBVZNFJ-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.27
+- 0.45
+Krugosvet_article: nauka_i_tehnika/himiya/BERILLI.html
+location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
+made_from_material: '[[_Standards/WikiData/WD~beryl,103480]]'
+mass: 9.0121831
+melting_point:
+- 1278
+- 2349
 MeSH_tree_code:
 - D01.268.552.075
 - D01.268.557.080
 - D01.552.547.080
-RTECS_number: DS1750000
-DSSTOX_compound_identifier: DTXCID90875623
-InChI: InChI=1S/Be
-Krugosvet_article: nauka_i_tehnika/himiya/BERILLI.html
-UNII: OW5102UV6N
-made_from_material: '[[_Standards/WikiData/WD~beryl,103480]]'
 named_after: '[[_Standards/WikiData/WD~beryl,103480]]'
+OmegaWiki_Defined_Meaning: 336
+oxidation_state: 2
+part_of:
+- '[[_Standards/WikiData/WD~period_2,207712]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+PubChem_CID: 5460467
+RTECS_number: DS1750000
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20de%20004%20Beryllium.svg"
+SpocWebEntityId: "21907 á à ô"
+subclass_of: '[[_Standards/WikiData/WD~metal,11426]]'
 subject_has_role:
 - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_2,207712]]"
-- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Louis_Nicolas_Vauquelin,333438]]"
-- "[[_Standards/WikiData/WD~Antoine_Bussy,585780]]"
-- "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
-different_from: '[[_Standards/WikiData/WD~Beryl,440624]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_effect:
-- '[[_Standards/WikiData/WD~berylliosis,684810]]'
-- "[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]"
-mass: 9.0121831
-UMLS_CUI: C0005139
-subclass_of: '[[_Standards/WikiData/WD~metal,11426]]'
-vapor_pressure: 0
-location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
-oxidation_state: 2
-electronegativity: 2
+- '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
+time_of_discovery_or_invention: 1798
 time_weighted_average_exposure_limit: 0.002
-immediately_dangerous_to_life_or_health: 4
-atomic_number: 4
-ceiling_exposure_limit: 0.0005
-electrical_conductivity: 25000000
-ionic_radius:
-- 0.27
-- 0.45
-density: 1.85
-boiling_point:
-- 2970
-- 4532
-melting_point:
-- 1278
-- 2349
-OmegaWiki_Defined_Meaning: 336
-Gmelin_number: 16265
-ZVG_number: 8020
-chemical_formula: Be
-element_symbol: Be
-PubChem_CID: 5460467
-Commons_gallery: Beryllium
-Commons_category: Beryllium
+type: Element
+UMLS_CUI: C0005139
 Unicode_character: 鈹
-time_of_discovery_or_invention: "1798"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Beryllium%20nuggets%202.jpg"
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20de%20004%20Beryllium.svg"
+UNII: OW5102UV6N
+vapor_pressure: 0
+ZVG_number: 8020
 ---
 
 #chemic/Element 

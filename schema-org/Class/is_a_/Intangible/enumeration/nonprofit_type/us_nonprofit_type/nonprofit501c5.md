@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit501c5 Class
-linkTitle: is_a_nonprofit501c5 Class
-
-keywords: [nonprofit501c5]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: USNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit501c5
 - nonprofit501c5
 - Nonprofit501c5
 - is_a_nonprofit501c5
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: USNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit501c5
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit501c5 Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit501c5 Class"
+type: Type
 ---
 
 Class of all nonprofit501c5s.

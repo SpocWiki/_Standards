@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_lodging_reservation Class
-linkTitle: is_a_lodging_reservation Class
-
-keywords: [lodging_reservation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - lodging-reservation
 - lodging_reservation
 - LodgingReservation
 - is_a_lodging_reservation
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lodging_reservation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_lodging_reservation Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_lodging_reservation Class"
+type: Type
 ---
 
 Class of all lodging_reservations.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_weight
-linkTitle: has_weight
-
-keywords: [weight]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - weight
 - weight
 - weight
 - has_value_for_weight_in_gram
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- weight
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_weight
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_weight
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of OfferShippingDetails, Person, Product.

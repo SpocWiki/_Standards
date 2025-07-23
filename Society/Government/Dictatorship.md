@@ -1,19 +1,19 @@
----
-has_id_wikidata: Q317
-subclass_of:
-- '[[_Standards/WikiData/WD~autocracy,173424]]'
-- '[[_Standards/WikiData/WD~monocracy,104840682]]'
+﻿---
+Colon_Classification: W64
+Commons_category: Dictatorship
 different_from:
 - '[[_Standards/WikiData/WD~despotism,179352]]'
 - '[[_Standards/WikiData/WD~dictator,183318]]'
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]"
+has_id_wikidata: Q317
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hitler%20N%C3%BCrnberg%201935.jpg"
-OmegaWiki_Defined_Meaning: 353010
-Commons_category: Dictatorship
-Library_of_Congress_Classification: JC495
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 IPTC_NewsCode: mediatopic/20000655
-Colon_Classification: W64
+Library_of_Congress_Classification: JC495
+OmegaWiki_Defined_Meaning: 353010
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~autocracy,173424]]'
+- '[[_Standards/WikiData/WD~monocracy,104840682]]'
 ---
 
 ## #has_/text_of_/abstract 

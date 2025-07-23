@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_bank_or_credit_union Class
-linkTitle: is_a_bank_or_credit_union Class
-
-keywords: [bank_or_credit_union]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - bank-or-credit-union
 - bank_or_credit_union
 - BankOrCreditUnion
 - is_a_bank_or_credit_union
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bank_or_credit_union
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_bank_or_credit_union Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_bank_or_credit_union Class"
+type: Type
 ---
 
 Class of all bank_or_credit_unions.

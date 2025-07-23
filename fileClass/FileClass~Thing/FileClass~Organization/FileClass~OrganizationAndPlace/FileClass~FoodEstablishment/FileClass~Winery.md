@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: wine
-version: "2.0"
-tagNames:
-  - class/Winery
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery
-  - is_a_/Winery
-  - schema-org/Winery
-tags:
-  - class/FileClass
-  - class/Winery
-  - is_a_/Winery
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 fields: []
+icon: wine
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Winery
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery
+- is_a_/Winery
+- schema-org/Winery
+tags:
+- class/FileClass
+- class/Winery
+- is_a_/Winery
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery
+version: 2.0
 ---
 
 # Winery

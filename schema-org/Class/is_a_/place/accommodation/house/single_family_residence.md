@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_single_family_residence Class
-linkTitle: is_a_single_family_residence Class
-
-keywords: [single_family_residence]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - single-family-residence
 - single_family_residence
 - SingleFamilyResidence
 - is_a_single_family_residence
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- single_family_residence
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_single_family_residence Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_single_family_residence Class"
+type: Type
 ---
 
 Class of all single_family_residences.

@@ -1,11 +1,10 @@
----
+﻿---
 aliases:
-  - John von Neumann
-  - Neumann János Lajos
+- "John von Neumann"
+- "Neumann János Lajos"
 has_id_wikidata: Q17455
 ---
 
- 
 #has_/time_/started :: 1903-12-28 
 #has_/time_/stopped :: 1957-02-08
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_unincorporated_association_charity Class
-linkTitle: is_an_unincorporated_association_charity Class
-
-keywords: [unincorporated_association_charity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: UKNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - unincorporated-association-charity
 - unincorporated_association_charity
 - UnincorporatedAssociationCharity
 - is_an_unincorporated_association_charity
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: UKNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- unincorporated_association_charity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_unincorporated_association_charity Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_unincorporated_association_charity Class"
+type: Type
 ---
 
 Class of all unincorporated_association_charitys.

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_legislation_passed_by
-
-linkTitle: is_legislation_passed_by
-keywords: [legislation, passed, by]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - legislation-passed-by
 - legislation_passed_by
 - legislationPassedBy
 - is_legislation_passed_by
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- legislation
+- passed
+- by
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_legislation_passed_by
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_legislation_passed_by
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

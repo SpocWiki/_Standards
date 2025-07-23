@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ReviewAction
-  - class/Thing/Action/AssessAction/ReviewAction
-  - is_a_/ReviewAction
-  - schema-org/ReviewAction
-tags:
-  - class/FileClass
-  - class/ReviewAction
-  - is_a_/ReviewAction
-  - class/Thing/Action/AssessAction/ReviewAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 fields:
-  - id: tQkpRc
-    name: ResultReview
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
-    type: MultiFile
-    path: ""
+- id: tQkpRc
+  name: ResultReview
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Review')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ReviewAction
+- class/Thing/Action/AssessAction/ReviewAction
+- is_a_/ReviewAction
+- schema-org/ReviewAction
+tags:
+- class/FileClass
+- class/ReviewAction
+- is_a_/ReviewAction
+- class/Thing/Action/AssessAction/ReviewAction
+version: 2.0
 ---
 
 # ReviewAction

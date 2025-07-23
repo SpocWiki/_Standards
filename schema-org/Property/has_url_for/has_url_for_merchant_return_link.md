@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_merchant_return_link
-linkTitle: has_url_for_merchant_return_link
-
-keywords: [merchant_return_link]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: productReturnLink
-
-tags:
-- class/Property
-- schema-org/Property/Url
-
+﻿---
 aliases:
 - merchant-return-link
 - merchant_return_link
 - merchantReturnLink
 - has_url_for_merchant_return_link
+confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- merchant_return_link
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_merchant_return_link
+publish: true
+publishDate: 
+supersedes: productReturnLink
+tags:
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_merchant_return_link
+type: Predi_Url
 ---
 
 Predicate to specify the Url of MerchantReturnPolicy.

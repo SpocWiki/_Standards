@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_net-worth
-linkTitle: has_net-worth
-
-keywords: [net-worth]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - net_worth
 - net-worth
 - netWorth
 - has_value_for_net_worth
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- net-worth
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_net-worth
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_net-worth
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Person.

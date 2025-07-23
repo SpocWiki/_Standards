@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - The Sun
+- "The Sun"
 ---
-
 
 ## #has_/text_of_/abstract 
 

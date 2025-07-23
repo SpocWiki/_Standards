@@ -1,37 +1,37 @@
----
-license: (c)copyrighted
+﻿---
+aliases:
+- "Ethan Acid"
+- "Acetic acid"
+- "ethanoic acid"
+- CH3COOH
+- CH3CO2H
+- C2H4O2
+- HC2H3O2
 confidential: private
+cssclasses:
+- private
+- note
+draft: true
+expiryDate: 
+has_time_started: 2023-12-02
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
-publish: false
-type: private note
-title: Ethan_Acid
-linkTitle: Ethan_Acid
-keywords:
-  - Ethan_Acid
-layout: 
-draft: true
-publishDate: 
-expiryDate: 
-tags:
-  - Ethan_Acid
-  - rather
-  - use
-aliases:
-  - Ethan Acid
-  - Acetic acid
-  - ethanoic acid
-  - CH3COOH
-  - CH3CO2H
-  - C2H4O2
-  - HC2H3O2
-has_time_started: 2023-12-02
 Key: Value
-Predicate: "[[Object]]"
+keywords:
+- Ethan_Acid
 lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: Ethan_Acid
+Predicate: '[[Object]]'
+publish: false
+publishDate: 
+tags:
+- Ethan_Acid
+- rather
+- use
+title: Ethan_Acid
+type: "private note"
 ---
 
 # [[Ethanoic_Acid]] 

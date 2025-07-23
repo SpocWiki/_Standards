@@ -1,9 +1,9 @@
----
-title: Fabaceae
+﻿---
 aliases:
-  - Fabaceae
-  - Leguminosae
-  - legume
+- Fabaceae
+- Leguminosae
+- legume
+title: Fabaceae
 ---
 
 # [[Fabaceae]]

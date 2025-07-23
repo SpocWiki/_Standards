@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_original_shipping_fees Class
-linkTitle: is_an_original_shipping_fees Class
-
-keywords: [original_shipping_fees]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnFeesEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - original-shipping-fees
 - original_shipping_fees
 - OriginalShippingFees
 - is_an_original_shipping_fees
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnFeesEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- original_shipping_fees
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_original_shipping_fees Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_original_shipping_fees Class"
+type: Type
 ---
 
 Class of all original_shipping_feess.

@@ -1,94 +1,94 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SpecialAnnouncement
-  - class/Thing/CreativeWork/SpecialAnnouncement
-  - is_a_/SpecialAnnouncement
-  - schema-org/SpecialAnnouncement
-tags:
-  - class/FileClass
-  - class/SpecialAnnouncement
-  - is_a_/SpecialAnnouncement
-  - class/Thing/CreativeWork/SpecialAnnouncement
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: qDW6Up
-    name: AnnouncementLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure')
-    type: MultiFile
-    path: ""
-  - id: N4DFwm
-    name: DatePosted
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: QdouvC
-    name: DiseasePreventionInfo
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: QF1R1J
-    name: DiseaseSpreadStatistics
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset')
-    type: MultiFile
-    path: ""
-  - id: EBA7VA
-    name: GettingTestedInfo
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: I9SC9u
-    name: GovernmentBenefitsInfo
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Service/GovernmentService')
-    type: MultiFile
-    path: ""
-  - id: xz2jp6
-    name: NewsUpdatesAndGuidelines
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: ewA3Zf
-    name: PublicTransportClosuresInfo
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: kfcEIF
-    name: QuarantineGuidelines
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: kQusqu
-    name: SchoolClosuresInfo
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: Ax00Ma
-    name: TravelBans
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
-    type: MultiFile
-    path: ""
-  - id: 65C9te
-    name: WebFeed
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')
-    type: MultiFile
-    path: ""
+- id: qDW6Up
+  name: AnnouncementLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure')"
+  type: MultiFile
+  path: ''
+- id: N4DFwm
+  name: DatePosted
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: QdouvC
+  name: DiseasePreventionInfo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: QF1R1J
+  name: DiseaseSpreadStatistics
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Dataset')"
+  type: MultiFile
+  path: ''
+- id: EBA7VA
+  name: GettingTestedInfo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: I9SC9u
+  name: GovernmentBenefitsInfo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Service/GovernmentService')"
+  type: MultiFile
+  path: ''
+- id: xz2jp6
+  name: NewsUpdatesAndGuidelines
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: ewA3Zf
+  name: PublicTransportClosuresInfo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: kfcEIF
+  name: QuarantineGuidelines
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: kQusqu
+  name: SchoolClosuresInfo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: Ax00Ma
+  name: TravelBans
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebContent')"
+  type: MultiFile
+  path: ''
+- id: 65C9te
+  name: WebFeed
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SpecialAnnouncement
+- class/Thing/CreativeWork/SpecialAnnouncement
+- is_a_/SpecialAnnouncement
+- schema-org/SpecialAnnouncement
+tags:
+- class/FileClass
+- class/SpecialAnnouncement
+- is_a_/SpecialAnnouncement
+- class/Thing/CreativeWork/SpecialAnnouncement
+version: 2.0
 ---
 
 # SpecialAnnouncement

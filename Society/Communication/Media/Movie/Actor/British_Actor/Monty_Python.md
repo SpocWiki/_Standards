@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Monty Python
-  - the Pythons
+- "Monty Python"
+- "the Pythons"
 ---
 
 # [[Monty_Python]]

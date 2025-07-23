@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Menu
-  - class/Thing/CreativeWork/Menu
-  - is_a_/Menu
-  - schema-org/Menu
-tags:
-  - class/FileClass
-  - class/Menu
-  - is_a_/Menu
-  - class/Thing/CreativeWork/Menu
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: Qc31OA
-    name: HasMenuItem
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/MenuItem')
-    type: MultiFile
-    path: ""
-  - id: PrvCwU
-    name: HasMenuSection
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MenuSection')
-    type: MultiFile
-    path: ""
+- id: Qc31OA
+  name: HasMenuItem
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/MenuItem')"
+  type: MultiFile
+  path: ''
+- id: PrvCwU
+  name: HasMenuSection
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MenuSection')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Menu
+- class/Thing/CreativeWork/Menu
+- is_a_/Menu
+- schema-org/Menu
+tags:
+- class/FileClass
+- class/Menu
+- is_a_/Menu
+- class/Thing/CreativeWork/Menu
+version: 2.0
 ---
 
 # Menu

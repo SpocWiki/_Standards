@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- elevation_meters
+- elevation
+- has_place_elevation_meters
+- has_value_for_elevation_meters
+- "geo:alt"
 confidential: public
+cssclasses:
+- Predicate
+- Quantity
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Quantity
-publish: true
-type: Predi_Quantity
-title: has_elevation_meters
-linkTitle: has_elevation_meters
 keywords:
-  - elevation
+- elevation
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_elevation_meters
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Quantity
-aliases:
-  - elevation_meters
-  - elevation
-  - has_place_elevation_meters
-  - has_value_for_elevation_meters
-  - geo:alt
+- class/Property
+- schema-org/Property/Quantity
+title: has_elevation_meters
+type: Predi_Quantity
 ---
 
 Elevation in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s __above Sea-Level__ of GeoCoordinate or GeoShape, typically [[WGS84]]. 

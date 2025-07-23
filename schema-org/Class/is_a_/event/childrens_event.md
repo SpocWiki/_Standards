@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_childrens_event Class
-linkTitle: is_a_childrens_event Class
-
-keywords: [childrens_event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - childrens-event
 - childrens_event
 - ChildrensEvent
 - is_a_childrens_event
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- childrens_event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_childrens_event Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_childrens_event Class"
+type: Type
 ---
 
 Class of all childrens_events.

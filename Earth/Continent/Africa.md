@@ -1,72 +1,16 @@
----
-location:
-- 0
-- 0
-type: Continent
-confidential: public
-has_id_wikidata: Q15
-SpocWebEntityId: 27156
-tags:
-- geo/Continent
-isDeleted: false
-icon: earth_africa
-instance_of:
-- "[[_Standards/WikiData/WD~geographic_region,82794]]"
-- "[[_Standards/WikiData/WD~geographic_location,2221906]]"
-- '[[_Standards/WikiData/WD~continent,5107]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Africa,149813]]"
-lowest_point: "[[_Standards/WikiData/WD~Afar_Triangle,217223]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]"
-different_from:
-- '[[_Standards/WikiData/WD~Afrika,344797]]'
-- '[[_Standards/WikiData/WD~Africa,383824]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Aethiopia,410453]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Africa,580864]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Africa,781650]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Kibo,1394606]]"
-owner_of: "[[_Standards/WikiData/WD~International_Council_of_African_Museums,1666473]]"
-part_of:
-- '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
-- '[[_Standards/WikiData/WD~Afro-Asia,125965270]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Africa,3037005]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Countries_of_Africa,5615646]]"
-- "[[_Standards/WikiData/WD~Template_Africa_topic,55511]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Africa,7112174]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Africa,7486129]]'
-geoshape: "http://commons.wikimedia.org/data/main/Data:Africa+Flickr.map"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20%28orthographic%20projection%29.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20satellite%20orthographic.jpg"
-spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afrika.ogg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Dust%20Cloud%20Etosha%20National%20Park%20banner.jpg"
-exact_match: "http://cv.iptc.org/newscodes/worldregion/r002"
-Dewey_Decimal_Classification: 2--6
-UMLS_CUI: C0001737
+﻿---
+Archive_of_Our_Own_tag: Africa
+area: 30271000
+Baidu_Tieba_name: 非洲
 BHCL_UUID:
 - e90be4fa-01eb-48eb-9bf3-76e15b8e01e8
 - 58d03fe1-b3f0-4f34-a6e0-a2794dbb96cf
-Wolfram_Language_entity_code: "Entity[\"GeographicRegion\", \"Africa\"]"
-Libris_URI: rp354fn93k1wgrp
 Colon_Classification: SG--6
-MeSH_tree_code: Z01.058
-Gujarati_Vishwakosh_entry: આફ્રિકા
+Commons_category: Africa
+Commons_gallery: Africa
+confidential: public
+coordinate_location: "Point(7.1881 21.09375)"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Africa,3037005]]'
 demonym:
 - afrikaner
 - Afrikano
@@ -83,20 +27,50 @@ demonym:
 - African
 - африқоӣ
 - Africain
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828260,22828260]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32816044,32816044]]'
-Baidu_Tieba_name: 非洲
-Provenio_UUID: a397e2ad-fe3c-477f-bd0e-26b2c70f8d34
+described_by_source:
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]'
+Dewey_Decimal_Classification: 2--6
+different_from:
+- '[[_Standards/WikiData/WD~Afrika,344797]]'
+- '[[_Standards/WikiData/WD~Africa,383824]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Africa,580864]]'
+exact_match: "http://cv.iptc.org/newscodes/worldregion/r002"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Africa,781650]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Africa+Flickr.map"
+GitHub_topic: africa
+Gujarati_Vishwakosh_entry: આફ્રિકા
+has_id_wikidata: Q15
 has_part_s_:
-- "[[_Standards/WikiData/WD~West_Africa,4412]]"
-- "[[_Standards/WikiData/WD~North_Africa,27381]]"
-- "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
-- "[[_Standards/WikiData/WD~East_Africa,27407]]"
-- "[[_Standards/WikiData/WD~Central_Africa,27433]]"
-shares_border_with:
-- '[[_Standards/WikiData/WD~Eurasia,5401]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~West_Africa,4412]]'
+- '[[_Standards/WikiData/WD~North_Africa,27381]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~East_Africa,27407]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Kibo,1394606]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Africa,149813]]'
+IAB_code: 1222
+icon: earth_africa
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20satellite%20orthographic.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~geographic_region,82794]]'
+- '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+- '[[_Standards/WikiData/WD~continent,5107]]'
+isDeleted: false
+Libris_URI: rp354fn93k1wgrp
+located_in_on_physical_feature:
+- '[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]'
+- '[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC_01_00,6540]]'
 - '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
@@ -104,30 +78,56 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
-population: 1200000000
-vehicles_per_thousand_people: 44
+location:
+- 0
+- 0
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20%28orthographic%20projection%29.svg"
+lowest_point: '[[_Standards/WikiData/WD~Afar_Triangle,217223]]'
+M49_code: 002
+MeSH_tree_code: Z01.058
 number_of_out_of_school_children: 101000000
-studied_in:
-- "[[_Standards/WikiData/WD~Africana_studies,37542]]"
-- "[[_Standards/WikiData/WD~African_studies,38157]]"
-located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]"
-- "[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]"
 OmegaWiki_Defined_Meaning: 71
-area: 30271000
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+owner_of: '[[_Standards/WikiData/WD~International_Council_of_African_Museums,1666473]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Dust%20Cloud%20Etosha%20National%20Park%20banner.jpg"
+partially_coincident_with: '[[_Standards/WikiData/WD~Aethiopia,410453]]'
+part_of:
+- '[[_Standards/WikiData/WD~Ostfeste,2035462]]'
+- '[[_Standards/WikiData/WD~Afro-Asia,125965270]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828260,22828260]]'
+PM20_geo_code: C1
+population: 1200000000
+Provenio_UUID: a397e2ad-fe3c-477f-bd0e-26b2c70f8d34
+shares_border_with:
+- '[[_Standards/WikiData/WD~Eurasia,5401]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
 social_media_followers: 104436
-IAB_code: 1222
+SpocWebEntityId: 27156
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Afrika.ogg"
+studied_in:
+- '[[_Standards/WikiData/WD~Africana_studies,37542]]'
+- '[[_Standards/WikiData/WD~African_studies,38157]]'
 subreddit:
 - africana
 - Africa
-PM20_geo_code: C1
-M49_code: 002
-Commons_gallery: Africa
-Commons_category: Africa
-Archive_of_Our_Own_tag: Africa
-GitHub_topic: africa
-coordinate_location: "Point(7.1881 21.09375)"
+tags:
+- geo/Continent
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32816044,32816044]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Countries_of_Africa,5615646]]'
+- '[[_Standards/WikiData/WD~Template_Africa_topic,55511]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Africa,7486129]]'
+type: Continent
+UMLS_CUI: C0001737
 U_S_National_Archives_Identifier: 10044605
+vehicles_per_thousand_people: 44
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Africa,7112174]]'
+Wolfram_Language_entity_code: "Entity[\"GeographicRegion\", \"Africa\"]"
 ---
 
 # [[Africa]] 

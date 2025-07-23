@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BoatReservation
-  - class/Thing/Intangible/Reservation/BoatReservation
-  - is_a_/BoatReservation
-  - schema-org/BoatReservation
-tags:
-  - class/FileClass
-  - class/BoatReservation
-  - is_a_/BoatReservation
-  - class/Thing/Intangible/Reservation/BoatReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BoatReservation
+- class/Thing/Intangible/Reservation/BoatReservation
+- is_a_/BoatReservation
+- schema-org/BoatReservation
+tags:
+- class/FileClass
+- class/BoatReservation
+- is_a_/BoatReservation
+- class/Thing/Intangible/Reservation/BoatReservation
+version: 2.0
 ---
 
 # BoatReservation

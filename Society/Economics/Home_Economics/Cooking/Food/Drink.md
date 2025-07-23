@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - beverage
+- beverage
 ---
-
 
 ## #has_/text_of_/abstract 
 

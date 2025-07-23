@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_broker
-
-linkTitle: has_broker
-keywords: [broker]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: bookingAgent
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - broker
 - broker
 - broker
 - has_broker
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broker
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_broker
+publish: true
+publishDate: 
+supersedes: bookingAgent
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_broker
+type: Predi_Relation
 ---
 
 Use it like this: 

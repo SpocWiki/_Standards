@@ -1,17 +1,16 @@
----
-type: Continent
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
+license: "CC BY-SA 4.0"
+publish: true
 tags:
 - geo/Continent
-
-aliases:
-- 
+type: Continent
 ---
+
 SpocWebEntityId: {{Id}}
 
 ```leaflet

@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Semitic languages
+- "Semitic languages"
 has_id_wikidata: Q34049
 ---
-
 
 ## #has_/text_of_/abstract 
 

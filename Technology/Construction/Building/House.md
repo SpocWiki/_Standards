@@ -1,6 +1,11 @@
----
-has_id_wikidata: Q3947
-OpenStreetMap_tag_or_key: "Tag:building=house"
+﻿---
+Commons_category: Houses
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
 - 690.8
 - 728.37
@@ -8,6 +13,16 @@ Dewey_Decimal_Classification:
 - 643
 - 728
 - 643.1
+different_from:
+- '[[_Standards/WikiData/WD~Dom,255708]]'
+- '[[_Standards/WikiData/WD~Q65425102,65425102]]'
+- '[[_Standards/WikiData/WD~home,7743]]'
+equivalent_class: "https://schema.org/House"
+exact_match: "https://schema.org/House"
+facet_of: '[[_Standards/WikiData/WD~minka,935445]]'
+GeoNames_feature_code: S.HSE
+hashtag: house
+has_id_wikidata: Q3947
 has_part_s_:
 - '[[_Standards/WikiData/WD~roof,83180]]'
 - '[[_Standards/WikiData/WD~room,180516]]'
@@ -18,29 +33,18 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~window,35473]]'
 - '[[_Standards/WikiData/WD~door,36794]]'
 - '[[_Standards/WikiData/WD~wall,42948]]'
-made_from_material: "[[_Standards/WikiData/WD~building_material,206615]]"
-different_from:
-- '[[_Standards/WikiData/WD~Dom,255708]]'
-- '[[_Standards/WikiData/WD~Q65425102,65425102]]'
-- '[[_Standards/WikiData/WD~home,7743]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_use:
 - '[[_Standards/WikiData/WD~residence,699405]]'
 - '[[_Standards/WikiData/WD~shelter,989946]]'
 - '[[_Standards/WikiData/WD~housing,1247867]]'
 - '[[_Standards/WikiData/WD~home,7743]]'
-instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-- '[[_Standards/WikiData/WD~shelter,989946]]'
-- "[[_Standards/WikiData/WD~residential_building,11755880]]"
-- '[[_Standards/WikiData/WD~building,41176]]'
-facet_of: '[[_Standards/WikiData/WD~minka,935445]]'
+IAB_code: 447
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG"
+instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+made_from_material: '[[_Standards/WikiData/WD~building_material,206615]]'
+Nomenclature_for_Museum_Cataloging: 743
+OmegaWiki_Defined_Meaning: 5517
+OpenStreetMap_tag_or_key: "Tag:building=house"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~house,55744010]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Haus2.ogg"
 properties_for_this_type:
@@ -53,17 +57,13 @@ properties_for_this_type:
 - "owned by"
 - "located in the administrative territorial entity"
 - "architectural style"
+subclass_of:
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~residential_building,11755880]]'
+- '[[_Standards/WikiData/WD~building,41176]]'
+Unicode_character: "\U0001F3E1"
 Wikidata_property: "number of houses"
-IAB_code: 447
-Nomenclature_for_Museum_Cataloging: 743
-OmegaWiki_Defined_Meaning: 5517
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ranch%20style%20home%20in%20Salinas%2C%20California.JPG"
-exact_match: "https://schema.org/House"
-equivalent_class: "https://schema.org/House"
-Unicode_character: 🏡 
-hashtag: house
-Commons_category: Houses
-GeoNames_feature_code: S.HSE
 ---
 
 ## #has_/text_of_/abstract 

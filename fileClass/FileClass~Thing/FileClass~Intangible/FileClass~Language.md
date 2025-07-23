@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Language
-  - class/Thing/Intangible/Language
-  - is_a_/Language
-  - schema-org/Language
-tags:
-  - class/FileClass
-  - class/Language
-  - is_a_/Language
-  - class/Thing/Intangible/Language
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Language
+- class/Thing/Intangible/Language
+- is_a_/Language
+- schema-org/Language
+tags:
+- class/FileClass
+- class/Language
+- is_a_/Language
+- class/Thing/Intangible/Language
+version: 2.0
 ---
 
 # Language

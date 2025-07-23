@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_mortgage_domiciled
-linkTitle: is_mortgage_domiciled
-
-keywords: [mortgage_domiciled]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - domiciled-mortgage
 - mortgage_domiciled
 - domiciledMortgage
 - is_mortgage_domiciled
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mortgage_domiciled
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_mortgage_domiciled
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_mortgage_domiciled
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

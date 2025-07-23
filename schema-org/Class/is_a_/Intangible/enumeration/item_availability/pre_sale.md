@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_pre_sale Class
-linkTitle: is_pre_sale Class
-
-keywords: [pre_sale]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemAvailability
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - pre-sale
 - pre_sale
 - PreSale
 - is_a_pre_sale
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemAvailability
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pre_sale
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_pre_sale Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_pre_sale Class"
+type: Type
 ---
 
 Class of all pre_sales.

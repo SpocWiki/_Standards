@@ -1,10 +1,10 @@
----
-type: LangFamily
-tags:
-  - Lang_Family
+﻿---
 aliases:
-  - Indo-European languages
+- "Indo-European languages"
 has_id_wikidata: Q19860
+tags:
+- Lang_Family
+type: LangFamily
 ---
 
  [SpocWebEntityId:: 233 ]

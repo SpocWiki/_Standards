@@ -1,32 +1,32 @@
----
-limit: 100
-mapWithTag: true
-icon: external-link
-tagNames:
-  - class/Relation
-  - is_a_/Relation
-  - schema-org/Relation
-tags:
-  - class/FileClass
-  - is_a_/Class
+﻿---
 excludes: 
 extends: FileClass~Thing/FileClass~Intangible
-version: "2.0"
 fields:
-  - id: 2Jwblk
-    name: has_range
-    options:
-      dvQueryString: dv.pages('#class/Class')
-    style:
-      code: false
-    type: File
-    path: ""
-  - id: cxsrFV
-    name: has_domain
-    options:
-      dvQueryString: dv.pages('#class/Class')
-    type: File
-    path: ""
+- id: 2Jwblk
+  name: has_range
+  options:
+    dvQueryString: "dv.pages('#class/Class')"
+  style:
+    code: false
+  type: File
+  path: ''
+- id: cxsrFV
+  name: has_domain
+  options:
+    dvQueryString: "dv.pages('#class/Class')"
+  type: File
+  path: ''
+icon: external-link
+limit: 100
+mapWithTag: true
+tagNames:
+- class/Relation
+- is_a_/Relation
+- schema-org/Relation
+tags:
+- class/FileClass
+- is_a_/Class
+version: 2.0
 ---
 
 has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"},"style":{"code":false}}

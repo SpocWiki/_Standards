@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Richard Attenborough
-  - Richard Samuel Attenborough
+- "Richard Attenborough"
+- "Richard Samuel Attenborough"
 ---
 
 #has_/sibling :: [[Attenborough,David]]

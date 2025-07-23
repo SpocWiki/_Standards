@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SportingGoodsStore
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/SportingGoodsStore
-  - is_a_/SportingGoodsStore
-  - schema-org/SportingGoodsStore
-tags:
-  - class/FileClass
-  - class/SportingGoodsStore
-  - is_a_/SportingGoodsStore
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/SportingGoodsStore
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SportingGoodsStore
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/SportingGoodsStore
+- is_a_/SportingGoodsStore
+- schema-org/SportingGoodsStore
+tags:
+- class/FileClass
+- class/SportingGoodsStore
+- is_a_/SportingGoodsStore
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/SportingGoodsStore
+version: 2.0
 ---
 
 # SportingGoodsStore

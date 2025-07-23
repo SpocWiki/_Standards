@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- actor
+- has_actor
+- "schema:actor"
+- "dbo:starring"
+- "wdt:P161"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_actor
-linkTitle: has_actor
 keywords:
-  - actor
+- actor
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_actor
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: actors
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - actor
-  - has_actor
-  - schema:actor
-  - dbo:starring
-  - wdt:P161
+- class/Relation
+- schema-org/Relation
+title: has_actor
+type: Predi_Relation
 ---
 
 Use it like this: 

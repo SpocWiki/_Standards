@@ -1,7 +1,7 @@
----
-title: Bryopsida
+﻿---
 aliases:
-  - Bryopsida
+- Bryopsida
+title: Bryopsida
 ---
 
 # [[Bryopsida]]

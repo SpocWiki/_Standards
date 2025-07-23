@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Total Fertility Rate
+- "Total Fertility Rate"
 ---
 
 # [[Fertility-Rate]] 

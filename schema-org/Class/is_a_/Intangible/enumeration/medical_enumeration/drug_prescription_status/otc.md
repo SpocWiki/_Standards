@@ -1,35 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_otc Class
-linkTitle: is_an_otc Class
-
-keywords: [otc]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DrugPrescriptionStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - otc
 - OTC
 - is_an_otc
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DrugPrescriptionStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- otc
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_otc Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_otc Class"
+type: Type
 ---
 
 Class of all otcs.

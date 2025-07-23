@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_medical_audience
-
-linkTitle: has_medical_audience
-keywords: [medical, audience]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - medical-audience
 - medical_audience
 - medicalAudience
 - has_medical_audience
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical
+- audience
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_medical_audience
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_medical_audience
+type: Predi_Relation
 ---
 
 Use it like this: 

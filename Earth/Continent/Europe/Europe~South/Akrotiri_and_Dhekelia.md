@@ -1,13 +1,14 @@
----
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 76719
-isDeleted: false
-confidential: public
+﻿---
 aliases:
-  - Akrotiri & Dhekelia
+- "Akrotiri & Dhekelia"
+confidential: public
+isDeleted: false
+SpocWebEntityId: 76719
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::]
 [ISO3::]
 

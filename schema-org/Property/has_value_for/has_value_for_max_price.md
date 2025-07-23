@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_max-price
-linkTitle: has_max-price
-
-keywords: [max-price]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - max_price
 - max-price
 - maxPrice
 - has_value_for_max_price
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- max-price
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_max-price
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_max-price
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of PriceSpecification.

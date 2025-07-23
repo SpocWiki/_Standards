@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_seat_section
-linkTitle: has_text_of_seat_section
-
-keywords: [seat, section]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - seat-section
 - seat_section
 - seatSection
 - has_text_of_seat_section
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- seat
+- section
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_seat_section
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_seat_section
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Seat.

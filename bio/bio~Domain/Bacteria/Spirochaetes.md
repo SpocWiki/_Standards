@@ -1,10 +1,10 @@
----
-title: Spirochaetes
+﻿---
 aliases:
-  - Spirochaetota
-  - spirochete
-  - spirochaete
-  - Spirochaetes
+- Spirochaetota
+- spirochete
+- spirochaete
+- Spirochaetes
+title: Spirochaetes
 ---
 
 # [[Spirochaetes]] 

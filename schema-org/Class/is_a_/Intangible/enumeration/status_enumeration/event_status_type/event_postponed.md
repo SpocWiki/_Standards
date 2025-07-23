@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_event_postponed Class
-linkTitle: is_an_event_postponed Class
-
-keywords: [event_postponed]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EventStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - event-postponed
 - event_postponed
 - EventPostponed
 - is_an_event_postponed
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EventStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event_postponed
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_event_postponed Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_event_postponed Class"
+type: Type
 ---
 
 Class of all event_postponeds.

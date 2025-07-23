@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_interaction Class
-linkTitle: is_a_user_interaction Class
-
-keywords: [user_interaction]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-interaction
 - user_interaction
 - UserInteraction
 - is_a_user_interaction
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_interaction
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_interaction Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_interaction Class"
+type: Type
 ---
 
 Class of all [[user_interaction]]-Counts.

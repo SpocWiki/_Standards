@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- algorithm
+- algorithm
+- algorithm
+- has_text_of_algorithm
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
+has_id_wikidata: Q8366
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_algorithm
-linkTitle: has_text_of_algorithm
 keywords:
-  - algorithm
+- algorithm
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_algorithm
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - algorithm
-  - algorithm
-  - algorithm
-  - has_text_of_algorithm
-has_id_wikidata: Q8366
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_algorithm
+type: Pred_Text
 ---
 
 Predicate to describe the Text of MedicalRiskScore.

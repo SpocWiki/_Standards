@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q179277
+﻿---
 aliases:
-  - Giovanni Pierluigi da Palestrina
+- "Giovanni Pierluigi da Palestrina"
+has_id_wikidata: Q179277
 ---
-
 
 ## #has_/text_of_/abstract 
 

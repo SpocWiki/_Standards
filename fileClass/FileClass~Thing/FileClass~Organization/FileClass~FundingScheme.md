@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/FundingScheme
-  - class/Thing/Organization/FundingScheme
-  - is_a_/FundingScheme
-  - schema-org/FundingScheme
-tags:
-  - class/FileClass
-  - class/FundingScheme
-  - is_a_/FundingScheme
-  - class/Thing/Organization/FundingScheme
 extends: FileClass~Thing/FileClass~Organization
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/FundingScheme
+- class/Thing/Organization/FundingScheme
+- is_a_/FundingScheme
+- schema-org/FundingScheme
+tags:
+- class/FileClass
+- class/FundingScheme
+- is_a_/FundingScheme
+- class/Thing/Organization/FundingScheme
+version: 2.0
 ---
 
 # FundingScheme

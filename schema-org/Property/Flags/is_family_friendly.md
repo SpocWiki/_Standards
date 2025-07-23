@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_family_friendly
-linkTitle: is_family_friendly
-
-keywords: [family_friendly]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - family-friendly
 - family_friendly
 - isFamilyFriendly
 - is_family_friendly
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- family_friendly
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_family_friendly
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_family_friendly
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

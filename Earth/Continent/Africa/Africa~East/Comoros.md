@@ -212,7 +212,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20o
 official_name:
 - "Union of the Comoros"
 - "l’Union des Comores"
-  - Comores
+- Comores
 native_label:
 - "Union des Comores"
 - "الاتحاد القمري"

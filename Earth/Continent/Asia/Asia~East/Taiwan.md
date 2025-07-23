@@ -40,15 +40,15 @@ demonym:
   - taiwanese
   - taiwaneze
 native_label:
-  - taiwan
-  - Tiong-huâ-bîn-kok
-  - 中華民國
+- taiwan
+- Tiong-huâ-bîn-kok
+- 中華民國
 - "Tiong-hoâ Bîn-kok"
-  - 台灣
-  - Tâi-oân
+- 台灣
+- Tâi-oân
 - "Chûng-fà Mìn-koet"
-  - 中華民國
-  - 臺灣
+- 中華民國
+- 臺灣
 instance_of:
 - "[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]"
 - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -350,13 +350,13 @@ age_of_majority:
 ISNI: 000000012285649X
 short_name:
 - "\U0001F1F9\U0001F1FC"
-  - Тайвань
-  - Тайвань
-  - ROC
-  - Taïwan
-  - TWN
-  - 台湾
-  - 臺灣
+- Тайвань
+- Тайвань
+- ROC
+- Taïwan
+- TWN
+- 台湾
+- 臺灣
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28zh%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28nan%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg"
@@ -452,7 +452,7 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Taiwan
+- Taiwan
 - 
 Languages:
     - zh-TW

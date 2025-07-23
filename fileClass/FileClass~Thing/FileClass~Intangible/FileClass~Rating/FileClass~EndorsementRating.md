@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/EndorsementRating
-  - class/Thing/Intangible/Rating/EndorsementRating
-  - is_an_/EndorsementRating
-  - schema-org/EndorsementRating
-tags:
-  - class/FileClass
-  - class/EndorsementRating
-  - "#is_an_/EndorsementRating"
-  - class/Thing/Intangible/Rating/EndorsementRating
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/EndorsementRating
+- class/Thing/Intangible/Rating/EndorsementRating
+- is_an_/EndorsementRating
+- schema-org/EndorsementRating
+tags:
+- class/FileClass
+- class/EndorsementRating
+- '#is_an_/EndorsementRating'
+- class/Thing/Intangible/Rating/EndorsementRating
+version: 2.0
 ---
 
 # EndorsementRating

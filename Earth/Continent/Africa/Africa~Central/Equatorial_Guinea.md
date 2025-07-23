@@ -25,7 +25,7 @@ aliases:
 - "Guinea Ecuatorial"
 - "Guinée équatoriale"
 - "غينيا الاستوائية"
-  - 赤道几内亚
+- 赤道几内亚
 - "Экваториальная Гвинея"
 - "the Republic of Equatorial Guinea"
 - "la República de Guinea Ecuatorial"
@@ -156,7 +156,7 @@ Krugosvet_article: strany_mira/EKVATORIALNAYA_GVINEYA.html
 demonym:
   - ecuatoguineana
   - ecuatoguineanu
-- "বিষুবীয় গিনীয়"
+  - "বিষুবীয় গিনীয়"
   - equatoguineà
   - ækvatorialguineaner
   - Equatoguinean
@@ -167,7 +167,7 @@ demonym:
   - Équatoguinéen
   - équatoguinéenne
   - Équatoguinéenne
-- "מגינאה המשוונית"
+  - "מגינאה המשוונית"
   - egyenlítői-guineai
   - equatoguineana
   - equatoguineane
@@ -182,12 +182,12 @@ demonym:
   - ecuatoguineana
   - ecuatoguineane
   - ecuatoguineani
-- "غيني ستيوائي"
-- "غينية ستيوائية"
-- "غينيين ستيوائيين"
-- "غينيات ستيوائيات"
+  - "غيني ستيوائي"
+  - "غينية ستيوائية"
+  - "غينيين ستيوائيين"
+  - "غينيات ستيوائيات"
   - equatoguineana
-- "Equatorial Guinean"
+  - "Equatorial Guinean"
 official_name:
 - "República de Guinea Equatorial"
 - "República de Guinea Ecuatorial"
@@ -201,7 +201,7 @@ motto_text: "Unidad, Paz, Justicia"
 short_name:
   - 赤几
   - 赤幾
-- "\U0001F1EC\U0001F1F6"
+  - "\U0001F1EC\U0001F1F6"
 coordinates_of_southernmost_point: "Point(5.64233 -1.47368)"
 coordinates_of_northernmost_point: "Point(8.72 3.78)"
 flag: "[[_Standards/WikiData/WD~flag_of_Equatorial_Guinea,170554]]"

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_device_purpose Class
-linkTitle: is_a_medical_device_purpose Class
-
-keywords: [medical_device_purpose]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-device-purpose
 - medical_device_purpose
 - MedicalDevicePurpose
 - is_a_medical_device_purpose
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_device_purpose
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_device_purpose Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_device_purpose Class"
+type: Type
 ---
 
 Class of all medical_device_purposes.

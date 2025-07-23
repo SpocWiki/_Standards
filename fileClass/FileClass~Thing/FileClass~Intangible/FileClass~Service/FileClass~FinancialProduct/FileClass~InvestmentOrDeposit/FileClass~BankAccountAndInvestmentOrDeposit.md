@@ -1,38 +1,38 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BankAccountAndInvestmentOrDeposit
-  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
-  - is_a_/BankAccountAndInvestmentOrDeposit
-  - schema-org/BankAccountAndInvestmentOrDeposit
-tags:
-  - class/FileClass
-  - class/BankAccountAndInvestmentOrDeposit
-  - is_a_/BankAccountAndInvestmentOrDeposit
-  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit
 fields:
-  - id: zdYh9M
-    name: AccountMinimumInflow
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: wNlX8a
-    name: AccountOverdraftLimit
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: oZpFiR
-    name: BankAccountType
-    options: {}
-    type: Input
-    path: ""
+- id: zdYh9M
+  name: AccountMinimumInflow
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: wNlX8a
+  name: AccountOverdraftLimit
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: oZpFiR
+  name: BankAccountType
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BankAccountAndInvestmentOrDeposit
+- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
+- is_a_/BankAccountAndInvestmentOrDeposit
+- schema-org/BankAccountAndInvestmentOrDeposit
+tags:
+- class/FileClass
+- class/BankAccountAndInvestmentOrDeposit
+- is_a_/BankAccountAndInvestmentOrDeposit
+- class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
+version: 2.0
 ---
 
 # BankAccountAndInvestmentOrDeposit

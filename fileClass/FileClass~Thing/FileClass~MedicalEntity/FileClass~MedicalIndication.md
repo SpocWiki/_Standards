@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalIndication
-  - class/Thing/MedicalEntity/MedicalIndication
-  - is_a_/MedicalIndication
-  - schema-org/MedicalIndication
-tags:
-  - class/FileClass
-  - class/MedicalIndication
-  - is_a_/MedicalIndication
-  - class/Thing/MedicalEntity/MedicalIndication
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalIndication
+- class/Thing/MedicalEntity/MedicalIndication
+- is_a_/MedicalIndication
+- schema-org/MedicalIndication
+tags:
+- class/FileClass
+- class/MedicalIndication
+- is_a_/MedicalIndication
+- class/Thing/MedicalEntity/MedicalIndication
+version: 2.0
 ---
 
 # MedicalIndication

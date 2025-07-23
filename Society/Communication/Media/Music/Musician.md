@@ -1,8 +1,9 @@
----
+﻿---
 aliases:
-  - Musicians
-  - 
+- Musicians
+- 
 ---
+
 ## #has_/text_of_/abstract 
 
 > A **Musician** is someone who composes, conducts, or performs music. 

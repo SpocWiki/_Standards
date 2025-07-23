@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Protein
-  - class/Thing/BioChemEntity/Protein
-  - is_a_/Protein
-  - schema-org/Protein
-tags:
-  - class/FileClass
-  - class/Protein
-  - is_a_/Protein
-  - class/Thing/BioChemEntity/Protein
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: eOewCo
-    name: HasBioPolymerSequence
-    options: {}
-    type: Input
-    path: ""
+- id: eOewCo
+  name: HasBioPolymerSequence
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Protein
+- class/Thing/BioChemEntity/Protein
+- is_a_/Protein
+- schema-org/Protein
+tags:
+- class/FileClass
+- class/Protein
+- is_a_/Protein
+- class/Thing/BioChemEntity/Protein
+version: 2.0
 ---
 
 # Protein

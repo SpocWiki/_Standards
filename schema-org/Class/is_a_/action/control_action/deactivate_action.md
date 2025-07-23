@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_deactivate_action Class
-linkTitle: is_a_deactivate_action Class
-
-keywords: [deactivate_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - deactivate-action
 - deactivate_action
 - DeactivateAction
 - is_a_deactivate_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- deactivate_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_deactivate_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_deactivate_action Class"
+type: Type
 ---
 
 Class of all deactivate_actions.

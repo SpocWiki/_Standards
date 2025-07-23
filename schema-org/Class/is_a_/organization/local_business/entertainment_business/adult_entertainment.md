@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_adult_entertainment Class
-linkTitle: is_an_adult_entertainment Class
-
-keywords: [adult_entertainment]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - adult-entertainment
 - adult_entertainment
 - AdultEntertainment
 - is_an_adult_entertainment
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- adult_entertainment
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_adult_entertainment Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_adult_entertainment Class"
+type: Type
 ---
 
 Class of all adult_entertainments.

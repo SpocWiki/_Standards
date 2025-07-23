@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_results_available Class
-linkTitle: is_a_results_available Class
-
-keywords: [results_available]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalStudyStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - results-available
 - results_available
 - ResultsAvailable
 - is_a_results_available
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalStudyStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- results_available
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_results_available Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_results_available Class"
+type: Type
 ---
 
 Class of all results_availables.

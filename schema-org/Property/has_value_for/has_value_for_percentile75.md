@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_percentile75
-linkTitle: has_percentile75
-
-keywords: [percentile75]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - percentile75
 - percentile75
 - percentile75
 - has_value_for_percentile75
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- percentile75
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_percentile75
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_percentile75
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of QuantitativeValueDistribution.

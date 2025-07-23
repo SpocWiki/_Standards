@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_incentive_compensation
-linkTitle: has_text_of_incentive_compensation
-
-keywords: [incentive, compensation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: incentives
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - incentive-compensation
 - incentive_compensation
 - incentiveCompensation
 - has_text_of_incentive_compensation
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- incentive
+- compensation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_incentive_compensation
+publish: true
+publishDate: 
+supersedes: incentives
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_incentive_compensation
+type: Pred_Text
 ---
 
 Predicate to describe the Text of JobPosting.

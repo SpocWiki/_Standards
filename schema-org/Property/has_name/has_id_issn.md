@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- id_issn
+- has_id_issn
+- "schema:issn"
+- "dbo:issn"
+- "wdt:P236"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_id_issn
-linkTitle: has_id_issn
 keywords:
-  - id_issn
+- id_issn
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_id_issn
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - id_issn
-  - has_id_issn
-  - schema:issn
-  - dbo:issn
-  - wdt:P236
+- class/Property
+- schema-org/Property/Text
+title: has_id_issn
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Blog, CreativeWorkSeries, Dataset, WebSite.

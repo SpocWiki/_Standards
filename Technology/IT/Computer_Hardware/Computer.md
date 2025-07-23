@@ -1,49 +1,57 @@
----
-has_id_wikidata: Q682
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm"
-electron_configuration:
-- "[Ne] 3s² 3p⁴"
-- "1s² 2s² 2p⁶ 3s² 3p⁴"
-EC_number: 231-722-6
+﻿---
+atomic_number: 16
+canonical_SMILES: '[S]'
 CAS_Registry_Number: 7704-34-9
-MeSH_tree_code: D01.268.185.900
-DSSTOX_compound_identifier: DTXCID7014941
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Sulfur\"]"
-InChI: InChI=1S/S
-Krugosvet_article: nauka_i_tehnika/himiya/SERA.html
-InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
-time_of_discovery_or_invention: "1777"
-part_of:
-- "[[_Standards/WikiData/WD~group_16,104567]]"
-- "[[_Standards/WikiData/WD~period_3,211331]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~group_16,104567]]"
-- "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-found_in_taxon:
-- '[[_Standards/WikiData/WD~Rutaceae,146030]]'
-- "[[_Standards/WikiData/WD~Ceratophyllum_demersum,157385]]"
-- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
-- "[[_Standards/WikiData/WD~Clathria_pyramida,2319118]]"
-- '[[_Standards/WikiData/WD~Euodia,3060383]]'
-- "[[_Standards/WikiData/WD~Lyngbya_majuscula,20720044]]"
+chemical_formula: S
+Commons_category: Sulfur
+Commons_gallery: Sulfur
+CosIng_number: 75467
+density: 2.07
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-instance_of:
-- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 different_from:
 - '[[_Standards/WikiData/WD~disulfur,5283603]]'
 - '[[_Standards/WikiData/WD~Kebrit,5805138]]'
 - '[[_Standards/WikiData/WD~Q20674464,20674464]]'
-- "[[_Standards/WikiData/WD~sulfur_atom,106570791]]"
-has_use: "[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]"
-UMLS_CUI: C0038774
+- '[[_Standards/WikiData/WD~sulfur_atom,106570791]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]'
+DSSTOX_compound_identifier: DTXCID7014941
+EC_number: 231-722-6
+electronegativity: 2.58
+electron_configuration:
+- "[Ne] 3s² 3p⁴"
+- "1s² 2s² 2p⁶ 3s² 3p⁴"
+element_symbol: S
+found_in_taxon:
+- '[[_Standards/WikiData/WD~Rutaceae,146030]]'
+- '[[_Standards/WikiData/WD~Ceratophyllum_demersum,157385]]'
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Clathria_pyramida,2319118]]'
+- '[[_Standards/WikiData/WD~Euodia,3060383]]'
+- '[[_Standards/WikiData/WD~Lyngbya_majuscula,20720044]]'
+has_id_wikidata: Q682
+has_use: '[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg"
+InChI: InChI=1S/S
+InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.12
+- 0.29
+- 0.37
+- 1.84
+Krugosvet_article: nauka_i_tehnika/himiya/SERA.html
+mass: 32.06
+MeSH_tree_code: D01.268.185.900
+NSC_number: 403664
+OmegaWiki_Defined_Meaning: 3668
 oxidation_state:
 - -2
 - -1
@@ -53,29 +61,21 @@ oxidation_state:
 - 4
 - 5
 - 6
-ionic_radius:
-- 0.12
-- 0.29
-- 0.37
-- 1.84
-atomic_number: 16
-density: 2.07
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]"
-electronegativity: 2.58
-OmegaWiki_Defined_Meaning: 3668
-mass: 32.06
-chemical_formula: S
-element_symbol: S
-ZVG_number: 8130
-NSC_number: 403664
-CosIng_number: 75467
-canonical_SMILES: '[S]'
-Commons_gallery: Sulfur
-Commons_category: Sulfur
+part_of:
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_3,211331]]'
 PubChem_CID: 5362487
-U_S_National_Archives_Identifier: 10645875
+subclass_of:
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+time_of_discovery_or_invention: 1777
+UMLS_CUI: C0038774
 Unicode_character: 硫
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg"
+U_S_National_Archives_Identifier: 10645875
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm"
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Sulfur\"]"
+ZVG_number: 8130
 ---
 
 ## #has_/text_of_/abstract 

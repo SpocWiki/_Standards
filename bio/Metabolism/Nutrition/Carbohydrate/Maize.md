@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - corn
-  - Mais 
+- corn
+- Mais
 ---
 
 > **Maize**  (Zea mays), also known as corn in North American English, 

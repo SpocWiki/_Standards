@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Luciano Pavarotti
+- "Luciano Pavarotti"
 ---
 
 #has_/time_/started :: 1935-10-12   

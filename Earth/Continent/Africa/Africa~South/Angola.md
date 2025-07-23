@@ -22,10 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Angola
-  - أنغولا
-  - 安哥拉
-  - Ангола
+- Angola
+- أنغولا
+- 安哥拉
+- Ангола
 - "the Republic of Angola"
 - "la República de Angola"
 Languages:
@@ -288,7 +288,7 @@ official_name:
 - "Angolská republika"
 motto_text: "Virtus Unita Fortior"
 native_label:
-  - Angola
+- Angola
 - "República de Angola"
 short_name: "\U0001F1E6\U0001F1F4"
 death_rate:

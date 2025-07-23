@@ -1,73 +1,73 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/WebPage
-  - class/Thing/CreativeWork/WebPage
-  - is_a_/WebPage
-  - schema-org/WebPage
-tags:
-  - class/FileClass
-  - class/WebPage
-  - is_a_/WebPage
-  - class/Thing/CreativeWork/WebPage
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: p55UyK
-    name: Breadcrumb
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList/BreadcrumbList')
-    type: MultiFile
-    path: ""
-  - id: ykYDhp
-    name: LastReviewed
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: IHkZ3w
-    name: MainContentOfPage
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebPageElement')
-    type: MultiFile
-    path: ""
-  - id: k5pvwZ
-    name: PrimaryImageOfPage
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
-    type: MultiFile
-    path: ""
-  - id: NcgMGd
-    name: RelatedLink
-    options: {}
-    type: Input
-    path: ""
-  - id: IhrlOV
-    name: ReviewedBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: fpIExj
-    name: SignificantLink
-    options: {}
-    type: Input
-    path: ""
-  - id: J4NWUw
-    name: Speakable
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/SpeakableSpecification')
-    type: MultiFile
-    path: ""
-  - id: A7gbHe
-    name: Specialty
-    options: {}
-    type: Input
-    path: ""
+- id: p55UyK
+  name: Breadcrumb
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList/BreadcrumbList')"
+  type: MultiFile
+  path: ''
+- id: ykYDhp
+  name: LastReviewed
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: IHkZ3w
+  name: MainContentOfPage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/WebPageElement')"
+  type: MultiFile
+  path: ''
+- id: k5pvwZ
+  name: PrimaryImageOfPage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"
+  type: MultiFile
+  path: ''
+- id: NcgMGd
+  name: RelatedLink
+  options: {}
+  type: Input
+  path: ''
+- id: IhrlOV
+  name: ReviewedBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: fpIExj
+  name: SignificantLink
+  options: {}
+  type: Input
+  path: ''
+- id: J4NWUw
+  name: Speakable
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/SpeakableSpecification')"
+  type: MultiFile
+  path: ''
+- id: A7gbHe
+  name: Specialty
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/WebPage
+- class/Thing/CreativeWork/WebPage
+- is_a_/WebPage
+- schema-org/WebPage
+tags:
+- class/FileClass
+- class/WebPage
+- is_a_/WebPage
+- class/Thing/CreativeWork/WebPage
+version: 2.0
 ---
 
 # WebPage

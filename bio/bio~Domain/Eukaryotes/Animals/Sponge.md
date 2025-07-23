@@ -1,9 +1,9 @@
----
-title: Porifera
+﻿---
 aliases:
-  - Sponge
-  - Sponges
-  - Porifera
+- Sponge
+- Sponges
+- Porifera
+title: Porifera
 ---
 
 # [[Sponge]] 

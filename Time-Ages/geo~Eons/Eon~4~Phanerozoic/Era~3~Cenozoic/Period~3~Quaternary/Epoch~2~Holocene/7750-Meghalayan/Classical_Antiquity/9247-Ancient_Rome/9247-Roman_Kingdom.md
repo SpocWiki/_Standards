@@ -1,11 +1,10 @@
----
+﻿---
 aliases:
-  - Roman Monarchy
-  - Roman Kingdom
-  - regal period of ancient Rome
-  - Roman_Kingdom
+- "Roman Monarchy"
+- "Roman Kingdom"
+- "regal period of ancient Rome"
+- Roman_Kingdom
 ---
-
 
 #has_/time_/started :: -752 
 #has_/time_/stopped :: -508 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RadioEpisode
-  - class/Thing/CreativeWork/Episode/RadioEpisode
-  - is_a_/RadioEpisode
-  - schema-org/RadioEpisode
-tags:
-  - class/FileClass
-  - class/RadioEpisode
-  - is_a_/RadioEpisode
-  - class/Thing/CreativeWork/Episode/RadioEpisode
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RadioEpisode
+- class/Thing/CreativeWork/Episode/RadioEpisode
+- is_a_/RadioEpisode
+- schema-org/RadioEpisode
+tags:
+- class/FileClass
+- class/RadioEpisode
+- is_a_/RadioEpisode
+- class/Thing/CreativeWork/Episode/RadioEpisode
+version: 2.0
 ---
 
 # RadioEpisode

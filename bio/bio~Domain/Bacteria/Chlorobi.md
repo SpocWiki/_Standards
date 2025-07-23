@@ -1,7 +1,7 @@
----
-title: Chlorobi
+﻿---
 aliases:
-  - Chlorobi
+- Chlorobi
+title: Chlorobi
 ---
 
 # [[Chlorobi]] 

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - World Masterpiece Theater
+- "World Masterpiece Theater"
 ---
 
 > **World Masterpiece Theater** (世界名作劇場, Sekai Meisaku Gekijō) is a Japanese TV animated series 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_driving_school_vehicle_usage Class
-linkTitle: is_a_driving_school_vehicle_usage Class
-
-keywords: [driving_school_vehicle_usage]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: CarUsageType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - driving-school-vehicle-usage
 - driving_school_vehicle_usage
 - DrivingSchoolVehicleUsage
 - is_a_driving_school_vehicle_usage
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: CarUsageType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- driving_school_vehicle_usage
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_driving_school_vehicle_usage Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_driving_school_vehicle_usage Class"
+type: Type
 ---
 
 Class of all driving_school_vehicle_usages.

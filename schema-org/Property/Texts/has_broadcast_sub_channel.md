@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_broadcast_sub_channel
-linkTitle: has_text_of_broadcast_sub_channel
-
-keywords: [broadcast, sub, channel]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - broadcast-sub-channel
 - broadcast_sub_channel
 - broadcastSubChannel
 - has_text_of_broadcast_sub_channel
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast
+- sub
+- channel
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_broadcast_sub_channel
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_broadcast_sub_channel
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BroadcastFrequencySpecification.

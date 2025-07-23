@@ -1,8 +1,8 @@
----
-title: Monocotyledons
+﻿---
 aliases:
-  - Monocotyledons
-  - monocots
+- Monocotyledons
+- monocots
+title: Monocotyledons
 ---
 
 # [[Monocot]] 

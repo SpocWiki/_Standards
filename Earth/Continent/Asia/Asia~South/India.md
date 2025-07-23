@@ -588,7 +588,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Urdu,1617]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Gujarati,5137]]'
-  - "[[_Standards/WikiData/WD~A'Tong,5646]]"
+- "[[_Standards/WikiData/WD~A'Tong,5646]]"
 - '[[_Standards/WikiData/WD~Tamil,5885]]'
 - '[[_Standards/WikiData/WD~Telugu,8097]]'
 - '[[_Standards/WikiData/WD~Bangla,9610]]'
@@ -1102,12 +1102,12 @@ native_label:
   - ہندوستان
   - ভারত
 short_name:
-  - ꠁꠘ꠆ꠖ
-  - भारत
-  - हिंद
+- ꠁꠘ꠆ꠖ
+- भारत
+- हिंद
 - "\U0001F1EE\U0001F1F3"
-  - Inde
-  - India
+- Inde
+- India
 UMLS_CUI: C0021201
 ISNI: 0000000123312734
 nominal_GDP:
@@ -1253,11 +1253,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - India
-    - Inde
-    - الهند
-    - 印度
-    - Индия
+- India
+- Inde
+- الهند
+- 印度
+- Индия
 - "the Republic of India"
 - "la República de la India"
 - "India (la)"

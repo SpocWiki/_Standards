@@ -1,11 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
-  - Arabic
-  - Arabic language
-tags:
-  - Lang/ar
+- Arabic
+- "Arabic language"
 has_id_wikidata: Q13955
+tags:
+- Lang/ar
+type: Lang
 ---
 
  # [[Lang-ar]] 

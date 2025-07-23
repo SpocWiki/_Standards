@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - John McEnroe
+- "John McEnroe"
 ---
 
 #has_/time_/started :: 1959-02-16

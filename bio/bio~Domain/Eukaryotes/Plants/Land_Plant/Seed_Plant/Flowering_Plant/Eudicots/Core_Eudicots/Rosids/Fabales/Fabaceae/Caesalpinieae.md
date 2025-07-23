@@ -1,8 +1,8 @@
----
-title: Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae
+﻿---
 aliases:
-  - Caesalpinioideae
-  - peacock flower
+- Caesalpinioideae
+- "peacock flower"
+title: "Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae"
 ---
 
 # [[Caesalpinieae]] s.l. & s.s., Cassieae sensu stricto, Mimosoideae 

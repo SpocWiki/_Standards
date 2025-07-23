@@ -1,13 +1,4 @@
----
-type: Type
-license: "CC BY-SA 4.0"
-publish: true
-confidential: public
-isDeleted: false
-isReadOnly: false
-tags:
-- schema-org/Class
-- class/Class
+﻿---
 aliases:
 - Object
 - Thing
@@ -22,18 +13,11 @@ aliases:
 - "rdfs:Resource"
 - things
 - sumo~Entity
+confidential: public
 cssclasses:
 - Type
-title: "is_a_thing Class"
-linkTitle: "is_a_thing Class"
-keywords:
-- thing
-layout: 
 draft: false
-publishDate: 
 expiryDate: 
-has_time_started: 2023-10-02
-lang: en
 has_sub_classes:
 - '[[./Class/is_a_/action|Action]]'
 - '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
@@ -46,6 +30,22 @@ has_sub_classes:
 - '[[Class/is_a_/person|person]]'
 - '[[Class/is_a_/product|product]]'
 - '[[Class/is_a_/taxon|taxon]]'
+has_time_started: 2023-10-02
+isDeleted: false
+isReadOnly: false
+keywords:
+- thing
+lang: en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_thing Class"
+publish: true
+publishDate: 
+tags:
+- schema-org/Class
+- class/Class
+title: "is_a_thing Class"
+type: Type
 ---
 
 # Things/Entities/Resources/Instances 

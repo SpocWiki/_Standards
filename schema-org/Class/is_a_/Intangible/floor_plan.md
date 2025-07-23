@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_floor_plan Class
-linkTitle: is_a_floor_plan Class
-
-keywords: [floor_plan]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - floor-plan
 - floor_plan
 - FloorPlan
 - is_a_floor_plan
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- floor_plan
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_floor_plan Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_floor_plan Class"
+type: Type
 ---
 
 Class of all floor_plans.

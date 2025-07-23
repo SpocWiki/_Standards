@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q25295
+﻿---
 aliases:
-  - Language family
+- "Language family"
+has_id_wikidata: Q25295
 ---
-
 
 ## #has_/text_of_/abstract 
 

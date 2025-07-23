@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Steven Spielberg
-  - Steven Allan Spielberg
+- "Steven Spielberg"
+- "Steven Allan Spielberg"
 ---
-
 
 ## #has_/text_of_/abstract 
 

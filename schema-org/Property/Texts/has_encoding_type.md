@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_encoding_type
-linkTitle: has_text_of_encoding_type
-
-keywords: [encoding, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - encoding-type
 - encoding_type
 - encodingType
 - has_text_of_encoding_type
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- encoding
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_encoding_type
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_encoding_type
+type: Pred_Text
 ---
 
 Predicate to indicates the supported [[has_content_type|content-type]]s of a Service-[[../../Class/is_a_/Intangible/entry_point|EntryPoint]]. 

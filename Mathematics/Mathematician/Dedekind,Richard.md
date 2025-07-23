@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Richard Dedekind
-  - Julius Wilhelm Richard Dedekind
+- "Richard Dedekind"
+- "Julius Wilhelm Richard Dedekind"
 ---
 
 ## #has_/text_of_/abstract 

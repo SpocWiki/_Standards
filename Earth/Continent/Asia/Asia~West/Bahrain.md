@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Bahrain
-  - Bahrein
-  - Bahreïn
-  - البحرين
-  - 巴林
-  - Бахрейн
+- Bahrain
+- Bahrein
+- Bahreïn
+- البحرين
+- 巴林
+- Бахрейн
 - "the Kingdom of Bahrain"
 - "el Reino de Bahrein"
 Languages:
@@ -98,7 +98,7 @@ official_name:
 - "Bahrajnské kráľovstvo"
 motto_text:
 - "Ours. Yours. Bahrain"
-  - بحريننا
+- بحريننا
 short_name: "\U0001F1E7\U0001F1ED"
 total_fertility_rate: 2.056
 death_rate:

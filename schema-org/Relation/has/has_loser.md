@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_loser
-
-linkTitle: has_loser
-keywords: [loser]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - loser
 - loser
 - loser
 - has_loser
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- loser
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_loser
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_loser
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_find_action Class
-linkTitle: is_a_find_action Class
-
-keywords: [find_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - find-action
 - find_action
 - FindAction
 - is_a_find_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- find_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_find_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_find_action Class"
+type: Type
 ---
 
 Class of all find_actions.

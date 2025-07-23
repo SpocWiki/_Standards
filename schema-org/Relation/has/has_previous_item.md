@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- previous-item
+- previous_item
+- previousItem
+- has_previous_item
+- prev-item
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_previous_item
-linkTitle: has_previous_item
 keywords:
-  - previous
-  - item
+- previous
+- item
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_previous_item
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - previous-item
-  - previous_item
-  - previousItem
-  - has_previous_item
-  - prev-item
+- class/Relation
+- schema-org/Relation
+title: has_previous_item
+type: Predi_Relation
 ---
 
 # [[has_previous_item]] 

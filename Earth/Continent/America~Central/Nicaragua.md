@@ -234,7 +234,7 @@ female_population:
   - 3426548
   - 3524605
 official_name:
-  - Nicaragua
+- Nicaragua
 - "la République du Nicaragua"
 INSEE_countries_and_foreign_territories_code: 99412
 PM20_geo_code: E69
@@ -311,10 +311,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Nicaragua
-    - نيكاراغوا
-    - 尼加拉瓜
-    - Никарагуа
+- Nicaragua
+- نيكاراغوا
+- 尼加拉瓜
+- Никарагуа
 - "the Republic of Nicaragua"
 - "la República de Nicaragua"
 Languages:

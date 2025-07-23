@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - trigonal planar geometry
+- "trigonal planar geometry"
 ---
 
 [[Formaldehyde]]: 

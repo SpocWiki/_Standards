@@ -1,8 +1,9 @@
----
+﻿---
 aliases:
-  - North Europe
-  - Northern Europe
+- "North Europe"
+- "Northern Europe"
 ---
+
 ﻿# Europe~North
 
 

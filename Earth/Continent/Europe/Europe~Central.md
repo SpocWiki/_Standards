@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - Central Europe
+- "Central Europe"
 ---
+
 ﻿# Europe~Central
 
 

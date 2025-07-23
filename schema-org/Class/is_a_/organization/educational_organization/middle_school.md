@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_middle_school Class
-linkTitle: is_a_middle_school Class
-
-keywords: [middle_school]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - middle-school
 - middle_school
 - MiddleSchool
 - is_a_middle_school
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- middle_school
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_middle_school Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_middle_school Class"
+type: Type
 ---
 
 Class of all middle_schools.

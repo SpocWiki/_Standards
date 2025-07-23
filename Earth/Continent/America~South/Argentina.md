@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Argentina
-  - Argentine
-  - الأرجنتين
-  - 阿根廷
-  - Аргентина
+- Argentina
+- Argentine
+- الأرجنتين
+- 阿根廷
+- Аргентина
 - "the Argentine Republic"
 - "la República Argentina"
 - "Argentina (la)"

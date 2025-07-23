@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_update_action Class
-linkTitle: is_an_update_action Class
-
-keywords: [update_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - update-action
 - update_action
 - UpdateAction
 - is_an_update_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- update_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_update_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_update_action Class"
+type: Type
 ---
 
 Class of all update_actions.

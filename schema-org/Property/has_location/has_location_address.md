@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- address
+- has_location_address
+- "schema:address"
+- "dbo:address"
+- "wdt:P6375"
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_address
-linkTitle: has_location_address
 keywords:
-  - address
+- address
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_address
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Property/geo
-aliases:
-  - address
-  - has_location_address
-  - schema:address
-  - dbo:address
-  - wdt:P6375
+- schema-org/Property/geo
+title: has_location_address
+type: Pred_geo
 ---
 
 Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[Organization]], [[Person]], [[Place]].

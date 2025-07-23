@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Voltaren
+- Voltaren
 ---
-
 
 ## #has_/text_of_/abstract 
 

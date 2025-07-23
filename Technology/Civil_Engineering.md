@@ -1,7 +1,6 @@
----
+﻿---
 has_id_wikidata: Q77590
 ---
-
 
 ## #has_/text_of_/abstract 
 

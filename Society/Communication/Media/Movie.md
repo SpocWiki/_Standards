@@ -1,5 +1,48 @@
----
+﻿---
+aliases:
+- Movie
+- Film
+- "motion picture"
+Baidu_Tieba_name: 电影
+Commons_category: Film
+described_by_source:
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+Dewey_Decimal_Classification: 791.43
+different_from:
+- '[[_Standards/WikiData/WD~film_reel,45871375]]'
+- '[[_Standards/WikiData/WD~film_reel,105759907]]'
+EntitySchema_for_this_class: E11424
+equivalent_class: "https://schema.org/Movie"
+exact_match: "https://citationstyles.org/ontology/type/motion_picture"
+Gujarati_Vishwakosh_entry: ચલચિત્ર
+has_characteristic: '[[_Standards/WikiData/WD~film_genre,201658]]'
 has_id_wikidata: Q11424
+has_part_s_:
+- '[[_Standards/WikiData/WD~title_sequence,441606]]'
+- '[[_Standards/WikiData/WD~trailer,622550]]'
+- '[[_Standards/WikiData/WD~film_frame,795160]]'
+- '[[_Standards/WikiData/WD~motion_picture_credits,4458345]]'
+- '[[_Standards/WikiData/WD~motion_picture_credits,20820424]]'
+IAB_code: 324
+Iconclass_notation: 48C87
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Muybridge%20race%20horse%20animated.gif"
+Library_of_Congress_Classification: PN1993-PN1999
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Film,8485793]]'
+MeSH_tree_code:
+- L01.462.500.590.500
+- L01.462.500.820.090.598
+- J01.897.280.500.598
+- K01.093.545
+model_item:
+- '[[_Standards/WikiData/WD~Star_Wars__Episode_IV___A_New_Hope,17738]]'
+- '[[_Standards/WikiData/WD~Berlin__Symphony_of_a_Metropolis,632362]]'
+- '[[_Standards/WikiData/WD~Elevator_to_the_Gallows,950893]]'
+- '[[_Standards/WikiData/WD~Wild_Tales,16672466]]'
+- '[[_Standards/WikiData/WD~12_Angry_Men,2345]]'
+Nomenclature_for_Museum_Cataloging: 13778
+OmegaWiki_Defined_Meaning: 1431
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131943,27131943]]'
 properties_for_this_type:
 - "Open Media Database film ID"
 - "Kvikmyndir film ID"
@@ -112,80 +155,37 @@ properties_for_this_type:
 - "elFilm film ID"
 - "Sratim ID"
 - "Ciné-Ressources film ID"
-model_item:
-- "[[_Standards/WikiData/WD~Star_Wars__Episode_IV___A_New_Hope,17738]]"
-- "[[_Standards/WikiData/WD~Berlin__Symphony_of_a_Metropolis,632362]]"
-- "[[_Standards/WikiData/WD~Elevator_to_the_Gallows,950893]]"
-- "[[_Standards/WikiData/WD~Wild_Tales,16672466]]"
-- "[[_Standards/WikiData/WD~12_Angry_Men,2345]]"
+Provenio_UUID: c909c01e-3f9e-4ff9-902b-ae3415792ce7
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~cinema,16144339]]'
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20movie%2048px.svg"
+Stack_Exchange_site_URL: "https://movies.stackexchange.com"
 studied_in:
-- "[[_Standards/WikiData/WD~film_theory,28793]]"
-- "[[_Standards/WikiData/WD~film_studies,1660187]]"
-- "[[_Standards/WikiData/WD~sociology_of_film,3487524]]"
-IAB_code: 324
-OmegaWiki_Defined_Meaning: 1431
-Nomenclature_for_Museum_Cataloging: 13778
-Commons_category: Film
+- '[[_Standards/WikiData/WD~film_theory,28793]]'
+- '[[_Standards/WikiData/WD~film_studies,1660187]]'
+- '[[_Standards/WikiData/WD~sociology_of_film,3487524]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~audiovisual_work,2431196]]'
+- '[[_Standards/WikiData/WD~visual_artwork,4502142]]'
+- '[[_Standards/WikiData/WD~moving_image,10301427]]'
 subreddit:
 - movies
 - TrueFilm
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_film,6171351]]'
+- '[[_Standards/WikiData/WD~Template_Disney+_movie,79704281]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Film,3296835]]'
+UNSPSC_Code: 90131601
 U_S_National_Archives_Identifier:
 - 10631732
 - 10641443
-Dewey_Decimal_Classification: 791.43
-has_characteristic: "[[_Standards/WikiData/WD~film_genre,201658]]"
-has_part_s_:
-- "[[_Standards/WikiData/WD~title_sequence,441606]]"
-- '[[_Standards/WikiData/WD~trailer,622550]]'
-- "[[_Standards/WikiData/WD~film_frame,795160]]"
-- "[[_Standards/WikiData/WD~motion_picture_credits,4458345]]"
-- "[[_Standards/WikiData/WD~motion_picture_credits,20820424]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~audiovisual_work,2431196]]"
-- "[[_Standards/WikiData/WD~visual_artwork,4502142]]"
-- "[[_Standards/WikiData/WD~moving_image,10301427]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Film,3296835]]'
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_film,6171351]]"
-- "[[_Standards/WikiData/WD~Template_Disney+_movie,79704281]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_film,7112632]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Film,8485793]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~cinema,16144339]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131943,27131943]]'
-different_from:
-- "[[_Standards/WikiData/WD~film_reel,45871375]]"
-- "[[_Standards/WikiData/WD~film_reel,105759907]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-Baidu_Tieba_name: 电影
-Provenio_UUID: c909c01e-3f9e-4ff9-902b-ae3415792ce7
-Gujarati_Vishwakosh_entry: ચલચિત્ર
-Library_of_Congress_Classification: PN1993-PN1999
-MeSH_tree_code:
-- L01.462.500.590.500
-- L01.462.500.820.090.598
-- J01.897.280.500.598
-- K01.093.545
-EntitySchema_for_this_class: E11424
-small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Ic%20movie%2048px.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Muybridge%20race%20horse%20animated.gif"
-exact_match: "https://citationstyles.org/ontology/type/motion_picture"
-Stack_Exchange_site_URL: "https://movies.stackexchange.com"
-equivalent_class: "https://schema.org/Movie"
 Wikidata_SPARQL_query_equivalent: "?item wdt:P31/wdt:P279* wd:Q11424"
-Iconclass_notation: 48C87
-UNSPSC_Code: 90131601
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_film,7112632]]'
 Wolfram_Language_entity_type: Movie
-aliases:
-  - Movie
-  - Film
-  - motion picture
 ---
 
 # [[Movie]] 
 
-
+#is_/same_as :: [[../../../WikiData/WD~Film,11424]]  
 
 ## #has_/text_of_/abstract 
 

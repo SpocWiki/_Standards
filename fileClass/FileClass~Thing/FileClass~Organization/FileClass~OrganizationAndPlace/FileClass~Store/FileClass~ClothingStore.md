@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ClothingStore
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ClothingStore
-  - is_a_/ClothingStore
-  - schema-org/ClothingStore
-tags:
-  - class/FileClass
-  - class/ClothingStore
-  - is_a_/ClothingStore
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ClothingStore
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ClothingStore
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ClothingStore
+- is_a_/ClothingStore
+- schema-org/ClothingStore
+tags:
+- class/FileClass
+- class/ClothingStore
+- is_a_/ClothingStore
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ClothingStore
+version: 2.0
 ---
 
 # ClothingStore

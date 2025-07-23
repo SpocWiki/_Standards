@@ -1,60 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_city Class
-linkTitle: is_a_city Class
-keywords:
-  - city
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - city
-  - city
-  - City
-  - is_a_city
-  - dbo:City
-  - schema:City
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_city Class
-linkTitle: is_a_city Class
-
-keywords: [city]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - city
 - city
 - City
 - is_a_city
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- city
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_city Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_city Class"
+type: Type
 ---
 
 Class of all citys.

@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Telugu
-tags: 
+tags:
 - Lang/te
+type: Lang
 ---
+
 # [[Lang-te]] 
 
 [SpocWebEntityId:: 461 ]

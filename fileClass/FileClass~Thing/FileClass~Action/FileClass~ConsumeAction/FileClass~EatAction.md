@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/EatAction
-  - class/Thing/Action/ConsumeAction/EatAction
-  - is_an_/EatAction
-  - schema-org/EatAction
-tags:
-  - class/FileClass
-  - class/EatAction
-  - "#is_an_/EatAction"
-  - class/Thing/Action/ConsumeAction/EatAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/EatAction
+- class/Thing/Action/ConsumeAction/EatAction
+- is_an_/EatAction
+- schema-org/EatAction
+tags:
+- class/FileClass
+- class/EatAction
+- '#is_an_/EatAction'
+- class/Thing/Action/ConsumeAction/EatAction
+version: 2.0
 ---
 
 # EatAction

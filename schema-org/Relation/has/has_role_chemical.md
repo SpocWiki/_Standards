@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_role_chemical
-
-linkTitle: has_role_chemical
-keywords: [chemical, role]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - chemical-role
 - role_chemical
 - chemicalRole
 - has_role_chemical
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- chemical
+- role
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_role_chemical
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_role_chemical
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_front_wheel_drive_configuration Class
-linkTitle: is_a_front_wheel_drive_configuration Class
-
-keywords: [front_wheel_drive_configuration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DriveWheelConfigurationValue
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - front-wheel-drive-configuration
 - front_wheel_drive_configuration
 - FrontWheelDriveConfiguration
 - is_a_front_wheel_drive_configuration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DriveWheelConfigurationValue
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- front_wheel_drive_configuration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_front_wheel_drive_configuration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_front_wheel_drive_configuration Class"
+type: Type
 ---
 
 Class of all front_wheel_drive_configurations.

@@ -1,48 +1,48 @@
----
-has_id_wikidata: Q7205
-history_of_topic: "[[_Standards/WikiData/WD~history_of_paleontology,195974]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~field_research,1402508]]"
-partially_coincident_with:
-- '[[_Standards/WikiData/WD~paleobiology,1578310]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-practiced_by: '[[_Standards/WikiData/WD~paleontologist,1662561]]'
-opposite_of: '[[_Standards/WikiData/WD~neontology,1898509]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Paleontology,8771989]]'
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paleontology,13107748]]'
-Provenio_UUID: 2b5645ee-b83e-4e9f-8d53-6d74f2d1184e
-BHCL_UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
-UMLS_CUI: C0030224
-part_of: "[[_Standards/WikiData/WD~earth_science,8008]]"
-named_by: "[[_Standards/WikiData/WD~Henri_Marie_Ducrotay_de_Blainville,44691]]"
-Dewey_Decimal_Classification: 560
-Universal_Decimal_Classification: 56
-OmegaWiki_Defined_Meaning: 2712
+﻿---
 All_Science_Journal_Classification_Codes: 1911
-subreddit: Paleontology
-Commons_category: Paleontology
+BHCL_UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
 Colon_Classification: H6
-U_S_National_Archives_Identifier: 10643769
+Commons_category: Paleontology
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+Dewey_Decimal_Classification: 560
+GitHub_topic: paleontology
+has_id_wikidata: Q7205
+history_of_topic: '[[_Standards/WikiData/WD~history_of_paleontology,195974]]'
+Iconclass_notation: 49F22
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Museo%20di%20Storia%20Naturale%20di%20Firenze%20-%20paleontology.JPG"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Abyssal%20Brachiopod%2000148.jpg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Fossils%20banner.jpg"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/paleontology"
-Iconclass_notation: 49F22
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+IPTC_NewsCode: mediatopic/20000722
+Krugosvet_article: nauka_i_tehnika/biologiya/PALEONTOLOGIYA.html
 MeSH_tree_code:
 - H01.277.875
 - I01.076.368.584
-IPTC_NewsCode: mediatopic/20000722
-Krugosvet_article: nauka_i_tehnika/biologiya/PALEONTOLOGIYA.html
-GitHub_topic: paleontology
+named_by: '[[_Standards/WikiData/WD~Henri_Marie_Ducrotay_de_Blainville,44691]]'
+OmegaWiki_Defined_Meaning: 2712
+opposite_of: '[[_Standards/WikiData/WD~neontology,1898509]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Fossils%20banner.jpg"
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~paleobiology,1578310]]'
+- '[[_Standards/WikiData/WD~geology,1069]]'
+part_of: '[[_Standards/WikiData/WD~earth_science,8008]]'
+practiced_by: '[[_Standards/WikiData/WD~paleontologist,1662561]]'
+Provenio_UUID: 2b5645ee-b83e-4e9f-8d53-6d74f2d1184e
+subclass_of: '[[_Standards/WikiData/WD~field_research,1402508]]'
+subreddit: Paleontology
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paleontology,13107748]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Paleontology,8771989]]'
+UMLS_CUI: C0030224
+Universal_Decimal_Classification: 56
+U_S_National_Archives_Identifier: 10643769
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/paleontology"
 ---
 
 ## #has_/text_of_/abstract 

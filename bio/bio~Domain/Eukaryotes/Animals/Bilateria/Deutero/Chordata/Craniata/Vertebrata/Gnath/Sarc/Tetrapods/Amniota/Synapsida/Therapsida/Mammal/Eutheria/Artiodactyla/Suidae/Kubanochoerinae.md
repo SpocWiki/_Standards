@@ -1,8 +1,6 @@
----
+﻿---
 title: Kubanochoerinae
 ---
-
-
 
 ## Phylogeny 
 

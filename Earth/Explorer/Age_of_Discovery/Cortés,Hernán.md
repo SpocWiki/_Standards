@@ -1,75 +1,75 @@
----
+﻿---
 aliases:
 - "Hernán Cortés"
 - "Hernán Cortés de Monroy y Pizarro Altamirano"
+allegiance: '[[_Standards/WikiData/WD~Spain,29]]'
+award_received: '[[_Standards/WikiData/WD~Order_of_Santiago,757097]]'
+BHCL_UUID: 345bac6c-c028-4d4f-9ddc-e8f2616e631f
+birth_name: "Hernán Cortés y Pizarro"
+cause_of_death:
+- '[[_Standards/WikiData/WD~dysentery,129279]]'
+- '[[_Standards/WikiData/WD~pleurisy,55998]]'
+child:
+- '[[_Standards/WikiData/WD~Leonor_Cortés_Moctezuma_de_la_torre,965442]]'
+- '[[_Standards/WikiData/WD~Martín_Cortés,1905889]]'
+- '[[_Standards/WikiData/WD~Martín_Cortés,_2nd_Marquis_of_the_Valley_of_Oaxaca,2270460]]'
+- '[[_Standards/WikiData/WD~Juana_Cortés_de_Zuñiga,110935071]]'
+- '[[_Standards/WikiData/WD~María_Cortés_y_Ramírez_de_Arellano,110935091]]'
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Hern%C3%A1n%20Cort%C3%A9s%20completo.svg"
+Commons_category: "Hernán Cortés"
+Commons_Creator_page: "Hernán Cortés"
+Commons_gallery: "Hernán Cortés"
+country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
+date_of_birth: 1485
+date_of_death: 1547-12-12
+depicted_by: '[[_Standards/WikiData/WD~The_Road_to_El_Dorado,866358]]'
+described_at_URL: "http://www.digiporta.net/index.php?id=643505497"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Cortés,29470991]]'
+father: '[[_Standards/WikiData/WD~Martín_Cortés_de_Monroy,50824534]]'
+field_of_work: '[[_Standards/WikiData/WD~conquistador,126236]]'
+given_name: '[[_Standards/WikiData/WD~Hernán,19688586]]'
 has_id_wikidata: Q7326
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hern%C3%A1n%20Cort%C3%A9s.jpg"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+ISNI: 0000000121318008
+Krugosvet_article: istoriya/kortes-ernan
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+Libris_URI: 64jllhxq1ft877c
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+military_branch: '[[_Standards/WikiData/WD~Spanish_Army,1322103]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
+mother: '[[_Standards/WikiData/WD~Catalina_Pizarro_Altamirano,101402678]]'
+name_in_native_language: "Hernán Cortés y Pizarro"
 occupation:
 - '[[_Standards/WikiData/WD~conquistador,126236]]'
 - '[[_Standards/WikiData/WD~governor,132050]]'
 - '[[_Standards/WikiData/WD~explorer,11900058]]'
-field_of_work: '[[_Standards/WikiData/WD~conquistador,126236]]'
-cause_of_death:
-- '[[_Standards/WikiData/WD~dysentery,129279]]'
-- '[[_Standards/WikiData/WD~pleurisy,55998]]'
-unmarried_partner:
-- "[[_Standards/WikiData/WD~La_Malinche,230314]]"
-- "[[_Standards/WikiData/WD~Isabel_Moctezuma,465561]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 place_of_birth: '[[_Standards/WikiData/WD~Medellín,668384]]'
-award_received: "[[_Standards/WikiData/WD~Order_of_Santiago,757097]]"
-place_of_death: "[[_Standards/WikiData/WD~Castilleja_de_la_Cuesta,841589]]"
-depicted_by: "[[_Standards/WikiData/WD~The_Road_to_El_Dorado,866358]]"
-child:
-- "[[_Standards/WikiData/WD~Leonor_Cortés_Moctezuma_de_la_torre,965442]]"
-- "[[_Standards/WikiData/WD~Martín_Cortés,1905889]]"
-- "[[_Standards/WikiData/WD~Martín_Cortés,_2nd_Marquis_of_the_Valley_of_Oaxaca,2270460]]"
-- "[[_Standards/WikiData/WD~Juana_Cortés_de_Zuñiga,110935071]]"
-- "[[_Standards/WikiData/WD~María_Cortés_y_Ramírez_de_Arellano,110935091]]"
-military_branch: "[[_Standards/WikiData/WD~Spanish_Army,1322103]]"
-significant_person: "[[_Standards/WikiData/WD~Johannes_Dantiscus,1358292]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-given_name: '[[_Standards/WikiData/WD~Hernán,19688586]]'
-second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Pizarro,21004060]]'
-spouse:
-- "[[_Standards/WikiData/WD~Catalina_Suárez_Marcayda,21711020]]"
-- "[[_Standards/WikiData/WD~Juana_Ramírez_de_Arellano_y_Zúñiga,113995403]]"
-family_name: '[[_Standards/WikiData/WD~Cortés,29470991]]'
-position_held: "[[_Standards/WikiData/WD~Viceroy_of_New_Spain,42079568]]"
-father: "[[_Standards/WikiData/WD~Martín_Cortés_de_Monroy,50824534]]"
-mother: "[[_Standards/WikiData/WD~Catalina_Pizarro_Altamirano,101402678]]"
-date_of_birth: "1485"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20Hern%C3%A1n%20Cort%C3%A9s%20completo.svg"
-signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Hernan%20Cortes%20Signature.svg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Fernando%20Cortes%20%28intro%29.ogg"
-BHCL_UUID: 345bac6c-c028-4d4f-9ddc-e8f2616e631f
-Libris_URI: 64jllhxq1ft877c
+place_of_burial: '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+place_of_death: '[[_Standards/WikiData/WD~Castilleja_de_la_Cuesta,841589]]'
+position_held: '[[_Standards/WikiData/WD~Viceroy_of_New_Spain,42079568]]'
 Royal_Academy_new_identifier: hernan-cortez
-Krugosvet_article: istoriya/kortes-ernan
-ISNI: 0000000121318008
-name_in_native_language: "Hernán Cortés y Pizarro"
-birth_name: "Hernán Cortés y Pizarro"
-described_at_URL: "http://www.digiporta.net/index.php?id=643505497"
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
-place_of_burial: "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Spain,29]]'
-allegiance: '[[_Standards/WikiData/WD~Spain,29]]'
-date_of_death: "1547-12-12"
-Commons_Creator_page: "Hernán Cortés"
-Commons_gallery: "Hernán Cortés"
-Commons_category: "Hernán Cortés"
-work_period_start_: "1504"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hern%C3%A1n%20Cort%C3%A9s.jpg"
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Pizarro,21004060]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Hernan%20Cortes%20Signature.svg"
+significant_person: '[[_Standards/WikiData/WD~Johannes_Dantiscus,1358292]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Fernando%20Cortes%20%28intro%29.ogg"
+spouse:
+- '[[_Standards/WikiData/WD~Catalina_Suárez_Marcayda,21711020]]'
+- '[[_Standards/WikiData/WD~Juana_Ramírez_de_Arellano_y_Zúñiga,113995403]]'
+unmarried_partner:
+- '[[_Standards/WikiData/WD~La_Malinche,230314]]'
+- '[[_Standards/WikiData/WD~Isabel_Moctezuma,465561]]'
+work_period_start_: 1504
 ---
 
 #has_/time_/started ::  1485-12 

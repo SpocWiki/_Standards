@@ -1,38 +1,38 @@
----
-location: [7.35,134.4667] 
-mapzoom: [7,12] 
-mapmarker: city 
-type:
-- City
-- geo-Region
-title: Melekeok
+﻿---
+aliases:
+- Melekeok
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- de
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 7.35
+- 134.4667
+mapmarker: city
+mapzoom:
+- 7
+- 12
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 35964
 tags:
 - geo/Country/Region
 - geo/City
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-
-SpocWebEntityId: 35964
-aliases:
-- Melekeok
-
-Languages:
-- de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+title: Melekeok
+type:
+- City
+- geo-Region
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::134.4667] 

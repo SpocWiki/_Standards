@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Al Gharbiyah
+- "Al Gharbiyah"
 ---
-
 
 #has_/name_/ar_/Latn :: Al Gharbiyah 
 #has_/name_/ar_/Arab ::  ٱلْـغَـرْبِـيَّـة  

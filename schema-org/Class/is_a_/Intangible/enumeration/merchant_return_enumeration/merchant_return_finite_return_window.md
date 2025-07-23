@@ -1,38 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_merchant_return_finite_return_window Class
-linkTitle: is_a_merchant_return_finite_return_window Class
-
-keywords: [merchant_return_finite_return_window]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MerchantReturnEnumeration
-
-supersedes: ProductReturnFiniteReturnWindow
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - merchant-return-finite-return-window
 - merchant_return_finite_return_window
 - MerchantReturnFiniteReturnWindow
 - is_a_merchant_return_finite_return_window
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MerchantReturnEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- merchant_return_finite_return_window
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_merchant_return_finite_return_window Class"
+publish: true
+publishDate: 
+supersedes: ProductReturnFiniteReturnWindow
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_merchant_return_finite_return_window Class"
+type: Type
 ---
 
 Class of all merchant_return_finite_return_windows.

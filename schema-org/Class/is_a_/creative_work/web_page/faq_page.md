@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_faq_page Class
-linkTitle: is_a_faq_page Class
-
-keywords: [faq_page]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - faq-page
 - faq_page
 - FAQPage
 - is_a_faq_page
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- faq_page
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_faq_page Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_faq_page Class"
+type: Type
 ---
 
 Class of all faq_pages.

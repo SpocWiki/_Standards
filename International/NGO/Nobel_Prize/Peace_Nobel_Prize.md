@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Nobel Peace Prize
-  - Friedensnobelpreis
+- "Nobel Peace Prize"
+- Friedensnobelpreis
 ---
 
 ## #has_/text_of_/abstract 

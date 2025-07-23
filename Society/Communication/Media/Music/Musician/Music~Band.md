@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Band
+- Band
 ---
 
 # [[Music~Band]]

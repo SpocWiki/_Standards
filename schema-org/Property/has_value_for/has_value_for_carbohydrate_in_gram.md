@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_carbohydrate-content
-linkTitle: has_carbohydrate-content
-
-keywords: [carbohydrate-content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - carbohydrate_in_gram
 - carbohydrate-content
 - carbohydrateContent
 - has_value_for_carbohydrate_in_gram
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- carbohydrate-content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_carbohydrate-content
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_carbohydrate-content
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of NutritionInformation.

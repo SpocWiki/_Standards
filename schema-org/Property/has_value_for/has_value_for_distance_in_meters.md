@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_distance
-linkTitle: has_distance
-
-keywords: [distance]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - distance
 - distance
 - distance
 - has_value_for_distance_in_meters
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- distance
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_distance
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_distance
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of ExerciseAction, TravelAction.

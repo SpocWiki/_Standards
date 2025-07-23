@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Road transport
+- "Road transport"
 has_id_wikidata: Q516739
 ---
-
 
 ## #has_/text_of_/abstract 
 

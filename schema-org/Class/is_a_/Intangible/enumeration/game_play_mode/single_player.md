@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_single_player Class
-linkTitle: is_a_single_player Class
-
-keywords: [single_player]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GamePlayMode
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - single-player
 - single_player
 - SinglePlayer
 - is_a_single_player
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GamePlayMode
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- single_player
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_single_player Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_single_player Class"
+type: Type
 ---
 
 Class of all single_players.

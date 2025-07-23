@@ -1,35 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_action_application
-
-linkTitle: has_action_application
-keywords: [action, application]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: application
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - action-application
 - action_application
 - actionApplication
 - has_action_application
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- action
+- application
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_action_application
+publish: true
+publishDate: 
+supersedes: application
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_action_application
+type: Predi_Relation
 ---
 
 Use it like this: 

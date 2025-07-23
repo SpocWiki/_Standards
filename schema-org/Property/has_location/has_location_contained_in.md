@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_contained_in
-linkTitle: has_location_contained_in
-
-keywords: [contained_in]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: containedInPlace
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - contained-in
 - contained_in
 - containedIn
 - has_location_contained_in
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- contained_in
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_contained_in
+publish: true
+publishDate: 
+superseded_by: containedInPlace
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_contained_in
+type: Pred_geo
 ---
 
 Predicate to describe the geo of Place.

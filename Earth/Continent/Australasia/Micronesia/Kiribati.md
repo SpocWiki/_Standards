@@ -103,7 +103,7 @@ demonym:
   - zilbertezi
   - zilbertezo
 ISNI:
-  - 000000012295548X
+- 000000012295548X
 - 0000000404587152
 motto_text:
 - "I deithwyr"
@@ -113,7 +113,7 @@ official_name:
 - "Republika Kiribati"
 - "Republic of Kiribati"
 - "la République des Kiribati"
-  - Kiribati
+- Kiribati
 MeSH_tree_code: Z01.639.760.295
 coordinates_of_westernmost_point: "Point(169.536944444 -0.859444444)"
 continent:
@@ -153,7 +153,7 @@ Commons_gallery: Kiribati
 subreddit: Kiribati
 Krugosvet_article: strany_mira/KIRIBATI.html
 short_name:
-  - Kiribati
+- Kiribati
 - "\U0001F1F0\U0001F1EE"
 native_label: "Ribaberiki ni Kiribati"
 coordinates_of_easternmost_point: "Point(-150.2115 -9.936980555)"
@@ -241,10 +241,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Kiribati
-    - كيريباس
-    - 基里巴斯
-    - Кирибати
+- Kiribati
+- كيريباس
+- 基里巴斯
+- Кирибати
 - "the Republic of Kiribati"
 - "la República de Kiribati"
 Languages:

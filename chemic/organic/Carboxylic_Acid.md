@@ -1,30 +1,30 @@
----
-has_id_wikidata: Q134856
-subclass_of:
-  - "[[_Standards/WikiData/WD~organic_acid,421948]]"
-  - "[[_Standards/WikiData/WD~carbonyl_compound,9392635]]"
-  - "[[_Standards/WikiData/WD~carbon_oxoacid,72056948]]"
-has_part_s_:
-  - "[[_Standards/WikiData/WD~carboxyl,909913]]"
-  - "[[_Standards/WikiData/WD~carboacyl_group,56435743]]"
-part_of:
-  - "[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transporter_activity,21106443]]"
-  - "[[_Standards/WikiData/WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690]]"
-  - "[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transport,24467030]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Carboxylic-acid.svg
-CXSMILES: "[*]C(=O)O |$_R$|"
-SMARTS_notation: "[CX3](=O)[OX1H0-,OX2H1]"
-Common_Procurement_Vocabulary_code:
-  - "24323200"
-  - 24323200-6
-P8189: "987007283483205171"
-UMLS_CUI: C0007066
-Commons_category: Carboxylic acids
-MeSH_tree_code: D02.241
-Krugosvet_article: nauka_i_tehnika/himiya/KARBONOVIE_KISLOTI.html
+﻿---
 canonical_SMILES: OC([*])=O
+chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Carboxylic-acid.svg"
+Commons_category: "Carboxylic acids"
+Common_Procurement_Vocabulary_code:
+- 24323200
+- 24323200-6
+CXSMILES: "[*]C(=O)O |$_R$|"
 general_formula: RC(=O)OH
+has_id_wikidata: Q134856
+has_part_s_:
+- '[[_Standards/WikiData/WD~carboxyl,909913]]'
+- '[[_Standards/WikiData/WD~carboacyl_group,56435743]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+Krugosvet_article: nauka_i_tehnika/himiya/KARBONOVIE_KISLOTI.html
+MeSH_tree_code: D02.241
+P8189: 987007283483205171
+part_of:
+- '[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transporter_activity,21106443]]'
+- '[[_Standards/WikiData/WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690]]'
+- '[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transport,24467030]]'
+SMARTS_notation: '[CX3](=O)[OX1H0-,OX2H1]'
+subclass_of:
+- '[[_Standards/WikiData/WD~organic_acid,421948]]'
+- '[[_Standards/WikiData/WD~carbonyl_compound,9392635]]'
+- '[[_Standards/WikiData/WD~carbon_oxoacid,72056948]]'
+UMLS_CUI: C0007066
 ---
 
 # [[Carboxylic_Acid]] 

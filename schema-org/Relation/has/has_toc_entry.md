@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_toc_entry
-
-linkTitle: has_toc_entry
-keywords: [toc, entry]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - toc-entry
 - toc_entry
 - tocEntry
 - has_toc_entry
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- toc
+- entry
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_toc_entry
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_toc_entry
+type: Predi_Relation
 ---
 
 Indicates a [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] in a [[../../Class/is_a_/creative_work/hyper_toc|HyperToc]]. 

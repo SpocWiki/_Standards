@@ -79,29 +79,29 @@ head_of_state: "[[_Standards/WikiData/WD~Carlos_Vila_Nova,27982047]]"
 coordinates_of_northernmost_point: "Point(7.4 1.7)"
 coordinates_of_easternmost_point: "Point(7.462138888 1.625638888)"
 demonym:
-  - سانطومي
-  - سانطومية
-  - سانطومييات
-  - سانطوميين
-  - saotomensa
-  - saotomense
-  - saotomensi
-  - saotomenso
+- سانطومي
+- سانطومية
+- سانطومييات
+- سانطوميين
+- saotomensa
+- saotomense
+- saotomensi
+- saotomenso
 - "de Santu Tomé y Príncipe"
 - "Sao Tomeans"
 - "São Toméans"
 - "সাও তুমীয়"
-  - Santomean
+- Santomean
 - "Sao Tomean"
 - "São Toméan"
-  - Saotomeprincipeano
-  - Santoméen
-  - Santoméenne
+- Saotomeprincipeano
+- Santoméen
+- Santoméenne
 - "מסאו טומה ופרינסיפה"
 - "São Tomé és Príncipe-i"
-  - saotomense
-  - saotomensi
-  - santomense
+- saotomense
+- saotomensi
+- santomense
 ISNI: 0000000123430458
 Libris_URI: 53hkksqp1px6w8p
 coordinate_location: "Point(6.6 0.316667)"

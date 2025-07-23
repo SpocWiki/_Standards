@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_left_hand_driving Class
-linkTitle: is_a_left_hand_driving Class
-
-keywords: [left_hand_driving]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: SteeringPositionValue
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - left-hand-driving
 - left_hand_driving
 - LeftHandDriving
 - is_a_left_hand_driving
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: SteeringPositionValue
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- left_hand_driving
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_left_hand_driving Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_left_hand_driving Class"
+type: Type
 ---
 
 Class of all left_hand_drivings.

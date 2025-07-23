@@ -1,30 +1,30 @@
----
+﻿---
 aliases:
 - "Nuclear fission"
-has_id_wikidata: Q11429
-facet_of: "[[_Standards/WikiData/WD~nuclear_physics,81197]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~nuclear_reaction,238323]]"
-- '[[_Standards/WikiData/WD~separation,3182649]]'
-instance_of: "[[_Standards/WikiData/WD~nuclear_reaction,238323]]"
-named_after: '[[_Standards/WikiData/WD~fission,929080]]'
-different_from: "[[_Standards/WikiData/WD~disproportionation_reaction,64995469]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-UMLS_CUI: C0028576
-MeSH_tree_code:
-- G01.536.485
-- N06.230.132.580.500
+Commons_category: "Nuclear fission"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~disproportionation_reaction,64995469]]'
+facet_of: '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
 has_effect:
 - '[[_Standards/WikiData/WD~radioactivity,11448]]'
 - '[[_Standards/WikiData/WD~heat,44432]]'
-time_of_discovery_or_invention: "1938-12-01"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kernspaltung.svg"
+has_id_wikidata: Q11429
 IEV_number:
 - 395-02-67
 - 881-03-54
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kernspaltung.svg"
+instance_of: '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
 Krugosvet_article: nauka_i_tehnika/fizika/YADER_DELENIE.html
-Commons_category: "Nuclear fission"
+MeSH_tree_code:
+- G01.536.485
+- N06.230.132.580.500
+named_after: '[[_Standards/WikiData/WD~fission,929080]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA.wav"
+subclass_of:
+- '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
+- '[[_Standards/WikiData/WD~separation,3182649]]'
+time_of_discovery_or_invention: 1938-12-01
+UMLS_CUI: C0028576
 ---
 
 ## #has_/text_of_/abstract 

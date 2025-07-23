@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_hospital Class
-linkTitle: is_a_hospital Class
-
-keywords: [hospital]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - hospital
 - hospital
 - Hospital
 - is_a_hospital
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hospital
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_hospital Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_hospital Class"
+type: Type
 ---
 
 Class of all hospitals.

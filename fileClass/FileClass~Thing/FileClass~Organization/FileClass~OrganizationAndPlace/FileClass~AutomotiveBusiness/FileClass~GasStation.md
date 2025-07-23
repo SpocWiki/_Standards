@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: fuel
-version: "2.0"
-tagNames:
-  - class/GasStation
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation
-  - is_a_/GasStation
-  - schema-org/GasStation
-tags:
-  - class/FileClass
-  - class/GasStation
-  - is_a_/GasStation
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 fields: []
+icon: fuel
+limit: 9
+mapWithTag: true
+tagNames:
+- class/GasStation
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation
+- is_a_/GasStation
+- schema-org/GasStation
+tags:
+- class/FileClass
+- class/GasStation
+- is_a_/GasStation
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation
+version: 2.0
 ---
 
 # GasStation

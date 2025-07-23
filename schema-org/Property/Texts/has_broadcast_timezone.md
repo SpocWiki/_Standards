@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_broadcast_timezone
-linkTitle: has_text_of_broadcast_timezone
-
-keywords: [broadcast, timezone]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - broadcast-timezone
 - broadcast_timezone
 - broadcastTimezone
 - has_text_of_broadcast_timezone
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast
+- timezone
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_broadcast_timezone
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_broadcast_timezone
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BroadcastService.

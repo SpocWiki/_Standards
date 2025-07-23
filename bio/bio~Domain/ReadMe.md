@@ -1,11 +1,11 @@
----
-has_id_wikidata: Q146481
+﻿---
 aliases:
-  - dominion
-  - superkingdom
-  - realm
-  - empire
-  - regio
+- dominion
+- superkingdom
+- realm
+- empire
+- regio
+has_id_wikidata: Q146481
 ---
 
 #is_/same_as :: [[../WikiData/WD~Domain,146481]] 

@@ -1,14 +1,14 @@
----
-_context: "https://schema.org/"
-_type: Thing
-name: "Schema.org Ontology"
-has_time_created: 
-has_time_destroyed: 
+﻿---
 has_location_created: 
 has_location_destroyed: 
+has_time_created: 
+has_time_destroyed: 
+name: "Schema.org Ontology"
 subjectOf:
   \@type: Book
   name: "The Complete History of Schema.org"
+_context: "https://schema.org/"
+_type: Thing
 ---
 
  [KbPedia](https://www.kbpedia.org/knowledge-graph/) seems to be an individual [Michael K. Bergman](mailto:info@mkbergman.com?subject=KBpedia%20Inquiry) merging the Ontologies of [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia), [Wikidata](https://en.wikipedia.org/wiki/Wikidata), [schema.org](https://schema.org/), [DBpedia](http://dbpedia.org/), [GeoNames](https://en.wikipedia.org/wiki/GeoNames), [OpenCyc](https://en.wikipedia.org/wiki/Cyc), and the [UNSPSC products and services](https://en.wikipedia.org/wiki/UNSPSC)

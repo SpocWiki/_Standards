@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HomeAndConstructionBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness
-  - is_a_/HomeAndConstructionBusiness
-  - schema-org/HomeAndConstructionBusiness
-tags:
-  - class/FileClass
-  - class/HomeAndConstructionBusiness
-  - is_a_/HomeAndConstructionBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HomeAndConstructionBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness
+- is_a_/HomeAndConstructionBusiness
+- schema-org/HomeAndConstructionBusiness
+tags:
+- class/FileClass
+- class/HomeAndConstructionBusiness
+- is_a_/HomeAndConstructionBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness
+version: 2.0
 ---
 
 # HomeAndConstructionBusiness

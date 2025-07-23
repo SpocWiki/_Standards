@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_pawn_shop Class
-linkTitle: is_a_pawn_shop Class
-
-keywords: [pawn_shop]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - pawn-shop
 - pawn_shop
 - PawnShop
 - is_a_pawn_shop
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pawn_shop
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_pawn_shop Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_pawn_shop Class"
+type: Type
 ---
 
 Class of all pawn_shops.

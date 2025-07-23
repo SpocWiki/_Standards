@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_place_of_worship Class
-linkTitle: is_a_place_of_worship Class
-
-keywords: [place_of_worship]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - place-of-worship
 - place_of_worship
 - PlaceOfWorship
 - is_a_place_of_worship
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- place_of_worship
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_place_of_worship Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_place_of_worship Class"
+type: Type
 ---
 
 Class of all place_of_worships.

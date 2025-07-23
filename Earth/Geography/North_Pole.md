@@ -1,28 +1,28 @@
----
-has_id_wikidata: Q934
-different_from:
-- "[[_Standards/WikiData/WD~North_Pole,79494]]"
-- "[[_Standards/WikiData/WD~North_Magnetic_Pole,842763]]"
-- "[[_Standards/WikiData/WD~north_geomagnetic_pole,11942166]]"
-instance_of: "[[_Standards/WikiData/WD~geographical_pole,183273]]"
-part_of: "[[_Standards/WikiData/WD~Earth's_poles,3907660]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-named_after: '[[_Standards/WikiData/WD~north,659]]'
-opposite_of: "[[_Standards/WikiData/WD~South_Pole,933]]"
-bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg"
-hashtag:
-- Northpole
-coordinate_location: "Point(0.0 90.0)"
-location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20-%20en.png"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%81.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Noaa3-2006-0602-1206%20%28cropped%29.jpg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20pole%20banner.jpg"
-U_S_National_Archives_Identifier: 10047242
-Commons_gallery: "North Pole"
-Commons_category: "North Pole"
+﻿---
 aliases:
 - "North Pole"
+bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg"
+Commons_category: "North Pole"
+Commons_gallery: "North Pole"
+coordinate_location: "Point(0.0 90.0)"
+described_by_source:
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+different_from:
+- '[[_Standards/WikiData/WD~North_Pole,79494]]'
+- '[[_Standards/WikiData/WD~North_Magnetic_Pole,842763]]'
+- '[[_Standards/WikiData/WD~north_geomagnetic_pole,11942166]]'
+hashtag:
+- Northpole
+has_id_wikidata: Q934
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Noaa3-2006-0602-1206%20%28cropped%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~geographical_pole,183273]]'
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Ocean%20-%20en.png"
+named_after: '[[_Standards/WikiData/WD~north,659]]'
+opposite_of: '[[_Standards/WikiData/WD~South_Pole,933]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20pole%20banner.jpg"
+part_of: "[[_Standards/WikiData/WD~Earth's_poles,3907660]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%20%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%81.wav"
+U_S_National_Archives_Identifier: 10047242
 ---
 
 ## #has_/text_of_/abstract 

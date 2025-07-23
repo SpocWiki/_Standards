@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_lei
-linkTitle: has_id_lei
-
-keywords: [lei, code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - lei-code
 - id_lei
 - leiCode
 - has_id_lei
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lei
+- code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_lei
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_lei
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Organization.

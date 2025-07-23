@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_study_location
-
-linkTitle: has_study_location
-keywords: [study, location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - study-location
 - study_location
 - studyLocation
 - has_study_location
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- study
+- location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_study_location
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_study_location
+type: Predi_Relation
 ---
 
 Use it like this: 

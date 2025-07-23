@@ -87,7 +87,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Chali,3695197]]'
 - '[[_Standards/WikiData/WD~Nupbi,3695201]]'
 - '[[_Standards/WikiData/WD~Kheng,3695207]]'
-  - "[[_Standards/WikiData/WD~'Ole,3695204]]"
+- "[[_Standards/WikiData/WD~'Ole,3695204]]"
 - '[[_Standards/WikiData/WD~Lakha,56606]]'
 - '[[_Standards/WikiData/WD~Dzala,56607]]'
 - '[[_Standards/WikiData/WD~Chocangaca,56604]]'
@@ -304,12 +304,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Bhutan
-    - Bhután
-    - Bhoutan
-    - بوتان
-    - 不丹
-    - Бутан
+- Bhutan
+- Bhután
+- Bhoutan
+- بوتان
+- 不丹
+- Бутан
 - "the Kingdom of Bhutan"
 - "el Reino de Bhután"
 Languages:

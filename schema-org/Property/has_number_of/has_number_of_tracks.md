@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_num_tracks
-linkTitle: has_number_of_num_tracks
-
-keywords: [num_tracks]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - num-tracks
 - num_tracks
 - numTracks
 - has_number_of_tracks
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- num_tracks
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_num_tracks
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_num_tracks
+type: Predi_Count
 ---
 
 Predicate to describe the Number of MusicPlaylist.

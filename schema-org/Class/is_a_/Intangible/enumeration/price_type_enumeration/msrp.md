@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_msrp Class
-linkTitle: is_a_msrp Class
-
-keywords: [msrp]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PriceTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - msrp
 - msrp
 - MSRP
 - is_a_msrp
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PriceTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- msrp
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_msrp Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_msrp Class"
+type: Type
 ---
 
 Class of all msrps.

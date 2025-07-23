@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_scholarly_article Class
-linkTitle: is_a_medical_scholarly_article Class
-
-keywords: [medical_scholarly_article]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-scholarly-article
 - medical_scholarly_article
 - MedicalScholarlyArticle
 - is_a_medical_scholarly_article
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_scholarly_article
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_scholarly_article Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_scholarly_article Class"
+type: Type
 ---
 
 Class of all medical_scholarly_articles.

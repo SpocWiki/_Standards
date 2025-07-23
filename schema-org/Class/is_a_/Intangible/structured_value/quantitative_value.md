@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_quantitative_value Class
-linkTitle: is_a_quantitative_value Class
-
-keywords: [quantitative_value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - quantitative-value
 - quantitative_value
 - QuantitativeValue
 - is_a_quantitative_value
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- quantitative_value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_quantitative_value Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_quantitative_value Class"
+type: Type
 ---
 
 Class of all quantitative_values.

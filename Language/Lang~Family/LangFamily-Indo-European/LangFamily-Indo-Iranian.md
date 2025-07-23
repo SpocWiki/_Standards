@@ -1,23 +1,23 @@
----
-has_id_wikidata: Q33527
+﻿---
+ABS_ASCL_2011_code: 41
 aliases:
 - "Iranian languages"
+Commons_category: "Iranian languages"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_in: "[[_Standards/WikiData/WD~Iranian_studies,1367176]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Iranian_languages,8084951]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
-subclass_of: '[[_Standards/WikiData/WD~Indo-Iranian,33514]]'
-ABS_ASCL_2011_code: 41
-ISO_639_5_code: ira
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_id_wikidata: Q33527
 IETF_language_tag: ira
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 ISO_639_2_code: ira
-OmegaWiki_Defined_Meaning: 587023
-Universal_Decimal_Classification: 811.22
+ISO_639_5_code: ira
 Krugosvet_article: gumanitarnye_nauki/lingvistika/IRANSKIE_YAZIKI.html
 Linguist_List_code: iran
-Commons_category: "Iranian languages"
+OmegaWiki_Defined_Meaning: 587023
+studied_in: '[[_Standards/WikiData/WD~Iranian_studies,1367176]]'
+subclass_of: '[[_Standards/WikiData/WD~Indo-Iranian,33514]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Iranian_languages,8084951]]'
+Universal_Decimal_Classification: 811.22
 WALS_genus_code: iranian
 ---
 

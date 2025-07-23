@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_maximum_virtual_attendee_capacity
-linkTitle: has_number_of_maximum_virtual_attendee_capacity
-
-keywords: [maximum_virtual_attendee_capacity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - maximum-virtual-attendee-capacity
 - maximum_virtual_attendee_capacity
 - maximumVirtualAttendeeCapacity
 - has_number_of_maximum_virtual_attendees
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- maximum_virtual_attendee_capacity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_maximum_virtual_attendee_capacity
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_maximum_virtual_attendee_capacity
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Event.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_real_estate_agent Class
-linkTitle: is_a_real_estate_agent Class
-
-keywords: [real_estate_agent]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - real-estate-agent
 - real_estate_agent
 - RealEstateAgent
 - is_a_real_estate_agent
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- real_estate_agent
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_real_estate_agent Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_real_estate_agent Class"
+type: Type
 ---
 
 Class of all real_estate_agents.

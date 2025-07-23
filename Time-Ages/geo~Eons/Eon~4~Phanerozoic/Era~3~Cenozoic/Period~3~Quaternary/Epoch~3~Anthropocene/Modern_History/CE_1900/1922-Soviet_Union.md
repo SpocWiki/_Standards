@@ -1,139 +1,139 @@
----
-has_id_wikidata: Q15180
+﻿---
 aliases:
-  - "Soviet Union"
-anthem: "[[_Standards/WikiData/WD~State_Anthem_of_the_Soviet_Union,251918]]"
+- "Soviet Union"
+anthem: '[[_Standards/WikiData/WD~State_Anthem_of_the_Soviet_Union,251918]]'
 area: 22402200
 Baidu_Tieba_name: 苏联
-based_on: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+based_on: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 basic_form_of_government:
-  - '[[_Standards/WikiData/WD~federation,43702]]'
-  - "[[_Standards/WikiData/WD~communist_dictatorship,117405807]]"
-  - "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
-  - "[[_Standards/WikiData/WD~single-party_system,50686]]"
-  - "[[_Standards/WikiData/WD~soviet_republic,1075404]]"
+- '[[_Standards/WikiData/WD~federation,43702]]'
+- '[[_Standards/WikiData/WD~communist_dictatorship,117405807]]'
+- '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~single-party_system,50686]]'
+- '[[_Standards/WikiData/WD~soviet_republic,1075404]]'
 BHCL_UUID:
-  - 32ab8c01-eeb1-4550-b5da-f1b728f97ac0
-  - c4144973-dce4-4f5d-9de8-d83e0f2d622b
+- 32ab8c01-eeb1-4550-b5da-f1b728f97ac0
+- c4144973-dce4-4f5d-9de8-d83e0f2d622b
 capital: '[[_Standards/WikiData/WD~Moscow,649]]'
-coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_the_Soviet_Union,189925]]"
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_the_Soviet_Union,189925]]'
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Soviet%20Union%20%281956%E2%80%931991%29.svg"
 Commons_category: "Soviet Union"
 Commons_gallery: "Союз Советских Социалистических Республик"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Socialist_Republic,132856]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan_Soviet_Socialist_Republic,131337]]"
-  - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
-  - "[[_Standards/WikiData/WD~Estonian_Soviet_Socialist_Republic,130280]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Socialist_Republic,130229]]"
-  - "[[_Standards/WikiData/WD~Karelo-Finnish_Soviet_Socialist_Republic,186888]]"
-  - "[[_Standards/WikiData/WD~Kazakh_Soviet_Socialist_Republic,168811]]"
-  - "[[_Standards/WikiData/WD~Kirghiz_Soviet_Socialist_Republic,130276]]"
-  - "[[_Standards/WikiData/WD~Latvian_Soviet_Socialist_Republic,192180]]"
-  - "[[_Standards/WikiData/WD~Lithuanian_Soviet_Socialist_Republic,173761]]"
-  - "[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895]]"
-  - "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
-  - "[[_Standards/WikiData/WD~Tajik_Soviet_Socialist_Republic,199711]]"
-  - "[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]"
-  - "[[_Standards/WikiData/WD~Turkmen_Soviet_Socialist_Republic,199707]]"
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-  - "[[_Standards/WikiData/WD~Uzbek_Soviet_Socialist_Republic,484578]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Socialist_Republic,132856]]'
+- '[[_Standards/WikiData/WD~Azerbaijan_Soviet_Socialist_Republic,131337]]'
+- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+- '[[_Standards/WikiData/WD~Estonian_Soviet_Socialist_Republic,130280]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Socialist_Republic,130229]]'
+- '[[_Standards/WikiData/WD~Karelo-Finnish_Soviet_Socialist_Republic,186888]]'
+- '[[_Standards/WikiData/WD~Kazakh_Soviet_Socialist_Republic,168811]]'
+- '[[_Standards/WikiData/WD~Kirghiz_Soviet_Socialist_Republic,130276]]'
+- '[[_Standards/WikiData/WD~Latvian_Soviet_Socialist_Republic,192180]]'
+- '[[_Standards/WikiData/WD~Lithuanian_Soviet_Socialist_Republic,173761]]'
+- '[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Tajik_Soviet_Socialist_Republic,199711]]'
+- '[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]'
+- '[[_Standards/WikiData/WD~Turkmen_Soviet_Socialist_Republic,199707]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+- '[[_Standards/WikiData/WD~Uzbek_Soviet_Socialist_Republic,484578]]'
 continent:
-  - '[[_Standards/WikiData/WD~Asia,48]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
 coordinate_location: "Point(90.0 65.0)"
-country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Soviet_Union,2633463]]"
+country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Soviet_Union,2633463]]'
 demonym:
-  - Sóivéadach
-  - Sovetiano
-  - Sovetuniano
-  - Soviet
-  - sovietic
-  - sovietică
-  - soviética
-  - soviético
-  - soviéticu
-  - soviétique
-  - Sovjet
-  - Sovjetinja
-  - szovjet
-  - Σοβιετική
-  - Σοβιετικοί
-  - Σοβιετικός
-  - радяни
-  - радянин
-  - радянка
-  - радянки
-  - радянська
-  - радянський
-  - советӣ
-  - советиҳо
-  - советская
-  - советские
-  - советский
-  - шӯравӣ
-  - шӯравиҳо
-  - საბჭოთა
+- Sóivéadach
+- Sovetiano
+- Sovetuniano
+- Soviet
+- sovietic
+- sovietică
+- soviética
+- soviético
+- soviéticu
+- soviétique
+- Sovjet
+- Sovjetinja
+- szovjet
+- Σοβιετική
+- Σοβιετικοί
+- Σοβιετικός
+- радяни
+- радянин
+- радянка
+- радянки
+- радянська
+- радянський
+- советӣ
+- советиҳо
+- советская
+- советские
+- советский
+- шӯравӣ
+- шӯравиҳо
+- საბჭოთა
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from:
-  - '[[_Standards/WikiData/WD~CCCP,414864]]'
-  - '[[_Standards/WikiData/WD~SSSR,10366639]]'
+- '[[_Standards/WikiData/WD~CCCP,414864]]'
+- '[[_Standards/WikiData/WD~SSSR,10366639]]'
 diplomatic_relation:
-  - '[[_Standards/WikiData/WD~Angola,916]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~Cuba,241]]'
-  - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
-  - '[[_Standards/WikiData/WD~Denmark,35]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
-  - '[[_Standards/WikiData/WD~Grenada,769]]'
-  - '[[_Standards/WikiData/WD~Israel,801]]'
-  - '[[_Standards/WikiData/WD~Japan,17]]'
-  - '[[_Standards/WikiData/WD~Laos,819]]'
-  - '[[_Standards/WikiData/WD~Malaysia,833]]'
-  - '[[_Standards/WikiData/WD~Norway,20]]'
-  - '[[_Standards/WikiData/WD~Pakistan,843]]'
-  - '[[_Standards/WikiData/WD~Philippines,928]]'
-  - '[[_Standards/WikiData/WD~Romania,218]]'
-  - '[[_Standards/WikiData/WD~Taiwan,865]]'
-  - '[[_Standards/WikiData/WD~Tonga,678]]'
-  - '[[_Standards/WikiData/WD~Turkey,43]]'
-  - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-  - '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
-  - "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-dissolved_abolished_or_demolished_date: "1991-12-26"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Soviet_Union,1994254]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Soviet_Union,165230]]"
+- '[[_Standards/WikiData/WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Grenada,769]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Laos,819]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Tonga,678]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Vanuatu,686]]'
+- '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~United_States,30]]'
+dissolved_abolished_or_demolished_date: 1991-12-26
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Soviet_Union,1994254]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Soviet_Union,165230]]'
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Soviet%20Union.svg"
-followed_by: "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
+followed_by: '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]'
 follows:
-  - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
-  - "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
-  - "[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]"
-  - "[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]"
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
+- '[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
 founded_by:
-  - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
-  - "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
-  - "[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]"
-  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Soviet_Union,3029177]]"
-has_part_s_: "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
-has_time_started: "1922-12-30"
-has_time_stopped: "1991-12-26"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]"
-head_of_government: "[[_Standards/WikiData/WD~Ivan_Silayev,714552]]"
-head_of_state: "[[_Standards/WikiData/WD~Mikhail_Gorbachev,30487]]"
-inception: "1922-12-30"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_Soviet_Union,3029177]]'
+has_id_wikidata: Q15180
+has_part_s_: '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+has_time_started: 1922-12-30
+has_time_stopped: 1991-12-26
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
+head_of_government: '[[_Standards/WikiData/WD~Ivan_Silayev,714552]]'
+head_of_state: '[[_Standards/WikiData/WD~Mikhail_Gorbachev,30487]]'
+inception: 1922-12-30
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 IOC_country_code: URS
 ISNI: 0000000123751518
 ISO_3166_1_alpha_3_code: SUN
@@ -141,132 +141,132 @@ ISO_3166_1_numeric_code: 810
 ISO_3166_3: SUHH
 Krugosvet_article: istoriya/SOYUZ_SOVETSKIH_SOTSIALISTICHESKIH_RESPUBLIK_SSSR.html
 language_used: '[[_Standards/WikiData/WD~Russian,7737]]'
-legislative_body: "[[_Standards/WikiData/WD~Supreme_Soviet_of_the_Soviet_Union,326465]]"
+legislative_body: '[[_Standards/WikiData/WD~Supreme_Soviet_of_the_Soviet_Union,326465]]'
 Libris_URI: sq466dbb4qsk383
 located_in_the_present_day_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Armenia,399]]'
-  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-  - '[[_Standards/WikiData/WD~Belarus,184]]'
-  - '[[_Standards/WikiData/WD~Estonia,191]]'
-  - '[[_Standards/WikiData/WD~Georgia,230]]'
-  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-  - '[[_Standards/WikiData/WD~Latvia,211]]'
-  - '[[_Standards/WikiData/WD~Lithuania,37]]'
-  - '[[_Standards/WikiData/WD~Moldova,217]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
-  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-  - '[[_Standards/WikiData/WD~Ukraine,212]]'
-  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20Union%20on%20the%20globe%20%28Soviet%20Union%20centered%29.svg"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_the_Soviet_Union,2515553]]"
-member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
+main_regulatory_text: '[[_Standards/WikiData/WD~Constitution_of_the_Soviet_Union,2515553]]'
+member_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
 MeSH_tree_code:
-  - Z01.542.931
-  - Z01.586.950
-motto: "[[_Standards/WikiData/WD~Workers_of_the_world,_unite!,877781]]"
+- Z01.542.931
+- Z01.586.950
+motto: '[[_Standards/WikiData/WD~Workers_of_the_world,_unite!,877781]]'
 motto_text:
-  - "Kõigi maade proletaarlased, ühinege!"
-  - "Visų šalių proletarai, vienykitės!"
-  - "Әхли юртларың пролетарлары, бирлешиң!"
-  - "Бардык өлкөлөрдүн пролетарлары, бириккиле!"
-  - "Барлық елдердің пролетарлары, бірігіңдер!"
-  - "Бутун дунё пролетарлари, бирлашингиз!"
-  - "Бүтүн өлкәләрин пролетарлары, бирләшин!"
-  - "Пралетарыі ўсіх краін, яднайцеся!"
-  - "Пролетарии всех стран, соединяйтесь!"
-  - "Пролетарі всіх країн, єднайтеся!"
-  - "Пролетарҳои ҳамаи мамлакатҳо, як шавед!"
-  - "Пролетарь дин тоате цэриле, униць-вэ!"
-  - "პროლეტარებო ყველა ქვეყნისა, შეერთდით!"
-  - "Պրոլետարներ բոլոր երկրների, միացե՜ք։"
-name_in_native_language: "Союз Советских Социалистических Республик"
+- "Kõigi maade proletaarlased, ühinege!"
+- "Visų šalių proletarai, vienykitės!"
+- "Әхли юртларың пролетарлары, бирлешиң!"
+- "Бардык өлкөлөрдүн пролетарлары, бириккиле!"
+- "Барлық елдердің пролетарлары, бірігіңдер!"
+- "Бутун дунё пролетарлари, бирлашингиз!"
+- "Бүтүн өлкәләрин пролетарлары, бирләшин!"
+- "Пралетарыі ўсіх краін, яднайцеся!"
+- "Пролетарии всех стран, соединяйтесь!"
+- "Пролетарі всіх країн, єднайтеся!"
+- "Пролетарҳои ҳамаи мамлакатҳо, як шавед!"
+- "Пролетарь дин тоате цэриле, униць-вэ!"
+- "პროლეტარებო ყველა ქვეყნისა, შეერთდით!"
+- "Պրոլետարներ բոլոր երկրների, միացե՜ք։"
 named_after:
-  - '[[_Standards/WikiData/WD~republic,7270]]'
-  - '[[_Standards/WikiData/WD~socialism,7272]]'
-  - '[[_Standards/WikiData/WD~soviet,211201]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~socialism,7272]]'
+- '[[_Standards/WikiData/WD~soviet,211201]]'
+name_in_native_language: "Союз Советских Социалистических Республик"
 native_label: "Союз Советских Социалистических Республик"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chairman_of_the_Council_of_Ministers_of_the_USSR,61872188]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Soviet_Union,1255261]]"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Chairman_of_the_Council_of_Ministers_of_the_USSR,61872188]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Soviet_Union,1255261]]'
 official_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 official_name: "Союз Советских Социалистических Республик"
 official_religion:
-  - '[[_Standards/WikiData/WD~atheism,7066]]'
-  - "[[_Standards/WikiData/WD~secular_state,859563]]"
-  - "[[_Standards/WikiData/WD~state_atheism,864936]]"
+- '[[_Standards/WikiData/WD~atheism,7066]]'
+- '[[_Standards/WikiData/WD~secular_state,859563]]'
+- '[[_Standards/WikiData/WD~state_atheism,864936]]'
 OmegaWiki_Defined_Meaning: 354904
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20Union%20banner.jpg"
 party_chief_representative:
-  - "[[_Standards/WikiData/WD~Constantine_Chernenko,127442]]"
-  - "[[_Standards/WikiData/WD~Georgy_Malenkov,180588]]"
-  - "[[_Standards/WikiData/WD~Joseph_Stalin,855]]"
-  - "[[_Standards/WikiData/WD~Leonid_Brezhnev,765165]]"
-  - "[[_Standards/WikiData/WD~Mikhail_Gorbachev,30487]]"
-  - "[[_Standards/WikiData/WD~Nikita_Khrushchev,35314]]"
-  - "[[_Standards/WikiData/WD~Yuri_Andropov,44071]]"
+- '[[_Standards/WikiData/WD~Constantine_Chernenko,127442]]'
+- '[[_Standards/WikiData/WD~Georgy_Malenkov,180588]]'
+- '[[_Standards/WikiData/WD~Joseph_Stalin,855]]'
+- '[[_Standards/WikiData/WD~Leonid_Brezhnev,765165]]'
+- '[[_Standards/WikiData/WD~Mikhail_Gorbachev,30487]]'
+- '[[_Standards/WikiData/WD~Nikita_Khrushchev,35314]]'
+- '[[_Standards/WikiData/WD~Yuri_Andropov,44071]]'
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Q13202801,13202801]]'
-  - '[[_Standards/WikiData/WD~Q25696246,25696246]]'
+- '[[_Standards/WikiData/WD~Q13202801,13202801]]'
+- '[[_Standards/WikiData/WD~Q25696246,25696246]]'
 PM20_geo_code: A50
 political_ideology:
-  - '[[_Standards/WikiData/WD~communism,6186]]'
-  - '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
-  - "[[_Standards/WikiData/WD~Socialism_in_One_Country,44404]]"
-  - "[[_Standards/WikiData/WD~state_capitalism,548235]]"
+- '[[_Standards/WikiData/WD~communism,6186]]'
+- '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
+- '[[_Standards/WikiData/WD~Socialism_in_One_Country,44404]]'
+- '[[_Standards/WikiData/WD~state_capitalism,548235]]'
 population: 293047571
-public_holiday: "[[_Standards/WikiData/WD~October_Revolution_Day,4158109]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~secular_state,859563]]"
+public_holiday: '[[_Standards/WikiData/WD~October_Revolution_Day,4158109]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~secular_state,859563]]'
 replaced_by:
-  - '[[_Standards/WikiData/WD~Armenia,399]]'
-  - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
-  - '[[_Standards/WikiData/WD~Belarus,184]]'
-  - '[[_Standards/WikiData/WD~Estonia,191]]'
-  - '[[_Standards/WikiData/WD~Georgia,230]]'
-  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-  - '[[_Standards/WikiData/WD~Latvia,211]]'
-  - '[[_Standards/WikiData/WD~Lithuania,37]]'
-  - '[[_Standards/WikiData/WD~Moldova,217]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
-  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-  - '[[_Standards/WikiData/WD~Ukraine,212]]'
-  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-replaces: "[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]"
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+replaces: '[[_Standards/WikiData/WD~Russian_Socialist_Federative_Soviet_Republic,2305208]]'
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
-  - '[[_Standards/WikiData/WD~Bulgaria,219]]'
-  - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
-  - '[[_Standards/WikiData/WD~Finland,33]]'
-  - '[[_Standards/WikiData/WD~Hungary,28]]'
-  - '[[_Standards/WikiData/WD~Iran,794]]'
-  - '[[_Standards/WikiData/WD~Japan,17]]'
-  - '[[_Standards/WikiData/WD~Poland,36]]'
-  - '[[_Standards/WikiData/WD~Romania,218]]'
-  - '[[_Standards/WikiData/WD~Turkey,43]]'
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Mongolian_People's_Republic,212056]]"
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
-  - "[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+- "[[_Standards/WikiData/WD~Mongolian_People's_Republic,212056]]"
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
+- '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 short_name: СССР
 significant_event:
-  - "[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679]]"
-  - "[[_Standards/WikiData/WD~Era_of_Stagnation,2416215]]"
-  - "[[_Standards/WikiData/WD~Great_Patriotic_War,19896779]]"
+- '[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679]]'
+- '[[_Standards/WikiData/WD~Era_of_Stagnation,2416215]]'
+- '[[_Standards/WikiData/WD~Great_Patriotic_War,19896779]]'
 Stack_Exchange_tag: "https://history.stackexchange.com/tags/soviet-union"
-studied_in: "[[_Standards/WikiData/WD~Soviet_studies,76243567]]"
+studied_in: '[[_Standards/WikiData/WD~Soviet_studies,76243567]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Soviet_Union_topics,14402257]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Soviet_Union,8435128]]'
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.su,48369]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Soviet_Union_topics,14402257]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Soviet_Union,8435128]]"
 trunk_prefix: 8
-U_S_National_Archives_Identifier: 10046553
 UMLS_CUI: C0042120
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Soviet_Union,26884349]]"
+U_S_National_Archives_Identifier: 10046553
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Soviet_Union,26884349]]'
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocialistRepublics\"]"
 ---
 

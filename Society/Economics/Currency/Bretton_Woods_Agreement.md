@@ -1,10 +1,10 @@
----
+﻿---
 aliases:
-  - Bretton Woods Conference
-  - Bretton Woods Agreement
-  - United Nations Monetary and Financial Conference
-  - Bretton Woods monetary system
-  - Bretton Woods system of monetary management
+- "Bretton Woods Conference"
+- "Bretton Woods Agreement"
+- "United Nations Monetary and Financial Conference"
+- "Bretton Woods monetary system"
+- "Bretton Woods system of monetary management"
 ---
 
 #has_/time_/started ::  1944-07-01 

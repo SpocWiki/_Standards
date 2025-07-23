@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_chiropractic Class
-linkTitle: is_a_chiropractic Class
-
-keywords: [chiropractic]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicineSystem
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - chiropractic
 - chiropractic
 - Chiropractic
 - is_a_chiropractic
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicineSystem
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- chiropractic
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_chiropractic Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_chiropractic Class"
+type: Type
 ---
 
 Class of all chiropractics.

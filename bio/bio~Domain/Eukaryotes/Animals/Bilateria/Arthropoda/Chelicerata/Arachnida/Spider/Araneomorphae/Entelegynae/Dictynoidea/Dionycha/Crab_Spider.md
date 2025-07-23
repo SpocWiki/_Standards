@@ -1,13 +1,12 @@
----
-title: Thomisidae
+﻿---
 aliases:
-  - Thomisidae
-  - Thomisida
-  - crab spider
-  - flower spider
-  - flower crab spider
+- Thomisidae
+- Thomisida
+- "crab spider"
+- "flower spider"
+- "flower crab spider"
+title: Thomisidae
 ---
-
 
 # [[Crab_Spider]] 
 

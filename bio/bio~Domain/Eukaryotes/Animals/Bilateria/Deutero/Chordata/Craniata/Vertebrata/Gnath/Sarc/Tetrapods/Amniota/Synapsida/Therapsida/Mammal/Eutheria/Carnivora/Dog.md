@@ -1,119 +1,119 @@
----
-has_id_wikidata: Q144
-patron saint:
-  - "[[_Standards/WikiData/WD~Roch,152457]]"
-  - "[[_Standards/WikiData/WD~Hubertus,159834]]"
-  - "[[_Standards/WikiData/WD~Vitus,212850]]"
-has use:
-  - "[[_Standards/WikiData/WD~medical_treatment,179661]]"
-  - "[[_Standards/WikiData/WD~guard,680928]]"
-  - "[[_Standards/WikiData/WD~service_animal,2827808]]"
-  - "[[_Standards/WikiData/WD~police_work,100348214]]"
-  - "[[_Standards/WikiData/WD~guarding,115298947]]"
-  - "[[_Standards/WikiData/WD~pet,39201]]"
-different from:
-  - "[[_Standards/WikiData/WD~Hund,242973]]"
-  - "[[_Standards/WikiData/WD~Dog,358458]]"
-  - "[[_Standards/WikiData/WD~Cane,406090]]"
-  - "[[_Standards/WikiData/WD~Chien,1072462]]"
-  - "[[_Standards/WikiData/WD~Can,1174923]]"
-  - "[[_Standards/WikiData/WD~Pas,2104719]]"
-  - "[[_Standards/WikiData/WD~Hond,2369470]]"
-studied in: "[[_Standards/WikiData/WD~cynology,465924]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Anthology_of_Petty_Matters_in_Qing,15934424]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Qur’an,428]]"
-this taxon is source of:
-  - "[[_Standards/WikiData/WD~dog_meat,826031]]"
-  - "[[_Standards/WikiData/WD~dog_fur,1491036]]"
-  - "[[_Standards/WikiData/WD~chiengora,1637422]]"
-  - "[[_Standards/WikiData/WD~dog_milk,104224564]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Domestic_dog,13538291]]"
-main food source: "[[_Standards/WikiData/WD~protein,21296145]]"
-disjoint union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-uses: "[[_Standards/WikiData/WD~dog_bed,54502633]]"
-instance of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
-  - "[[_Standards/WikiData/WD~pet,39201]]"
-has characteristic:
-  - "[[_Standards/WikiData/WD~activity_policy_on_dogs,110997494]]"
-  - "[[_Standards/WikiData/WD~starch_digestion_ability,115298800]]"
-female form of label:
-  - কুকুরি
-  - कुतिया
-  - psica
-UMLS CUI: C0012984
-Archive of Our Own tag: Dog (Character)
-taxon rank: "[[_Standards/WikiData/WD~species,7432]]"
-used by: "[[_Standards/WikiData/WD~hunter-gatherer,27443]]"
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Barking%20of%20a%20dog%202.ogg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Canemangia.ogv
-longest observed lifespan: 30
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20Nine%20Dogs.jpg
-small logo or icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20dog.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20467%20%2835130903436%29%20%28cropped%29.jpg
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Hond-article.ogg
-heart rate:
-  - 80
-  - 95
-  - 115
-life expectancy: 9
-exact match:
-  - http://odwn-rdf.vu.nl/odwn13/02084071-n
-  - http://wordnet-rdf.princeton.edu/wn30/02084071-n
-  - http://wordnet-rdf.princeton.edu/wn31/102086723-n
-sequenced genome URL:
-  - http://www.ensembl.org/Canis_lupus_familiaris
-  - https://www.dnazoo.org/assemblies/Canis_lupus_familiaris
-maximum frequency of audible sound: 45000
-minimum frequency of audible sound: 67
-bite force quotient: 117
-produced sound: "[[_Standards/WikiData/WD~bark,38681]]"
-Unicode character:
-  - 🐕
-  - 🐶
-GS1 GPC code: "10005625"
-UNSPSC Code: "10101502"
-Iconclass notation: 34B11
-IAB code: "425"
-Dewey Decimal Classification:
-  - "599.772"
-  - "636.7"
-Universal Decimal Classification: "636.7"
-OmegaWiki Defined Meaning: "966"
-MeSH tree code: B01.050.150.900.649.313.750.250.216.200
-Krugosvet article: biologiya/sobaka
-EPPO Code: CANIFA
-taxon name: Canis lupus familiaris
+﻿---
+Archive_of_Our_Own_tag: "Dog (Character)"
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Barking%20of%20a%20dog%202.ogg"
+Baidu_Tieba_name: 狗
+bite_force_quotient: 117
+Colon_Classification: KX541
+Commons_category: Dogs
+Commons_gallery: Dog
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Anthology_of_Petty_Matters_in_Qing,15934424]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Qur’an,428]]'
+Dewey_Decimal_Classification:
+- 599.772
+- 636.7
+different_from:
+- '[[_Standards/WikiData/WD~Hund,242973]]'
+- '[[_Standards/WikiData/WD~Dog,358458]]'
+- '[[_Standards/WikiData/WD~Cane,406090]]'
+- '[[_Standards/WikiData/WD~Chien,1072462]]'
+- '[[_Standards/WikiData/WD~Can,1174923]]'
+- '[[_Standards/WikiData/WD~Pas,2104719]]'
+- '[[_Standards/WikiData/WD~Hond,2369470]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+earliest_date: -34000-01-01
+EPPO_Code: CANIFA
+exact_match:
+- "http://odwn-rdf.vu.nl/odwn13/02084071-n"
+- "http://wordnet-rdf.princeton.edu/wn30/02084071-n"
+- "http://wordnet-rdf.princeton.edu/wn31/102086723-n"
+female_form_of_label:
+- কুকুরি
+- कुतिया
+- psica
+GS1_GPC_code: 10005625
 hashtag:
-  - dog
-  - doglover
-  - dogs
-  - dogsofinstagram
-  - 犬
-Commons gallery: Dog
+- dog
+- doglover
+- dogs
+- dogsofinstagram
+- 犬
+has_characteristic:
+- '[[_Standards/WikiData/WD~activity_policy_on_dogs,110997494]]'
+- '[[_Standards/WikiData/WD~starch_digestion_ability,115298800]]'
+has_id_wikidata: Q144
+has_use:
+- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~guard,680928]]'
+- '[[_Standards/WikiData/WD~service_animal,2827808]]'
+- '[[_Standards/WikiData/WD~police_work,100348214]]'
+- '[[_Standards/WikiData/WD~guarding,115298947]]'
+- '[[_Standards/WikiData/WD~pet,39201]]'
+heart_rate:
+- 80
+- 95
+- 115
+IAB_code: 425
+Iconclass_notation: 34B11
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20467%20%2835130903436%29%20%28cropped%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+Krugosvet_article: biologiya/sobaka
+life_expectancy: 9
+longest_observed_lifespan: 30
+main_food_source: '[[_Standards/WikiData/WD~protein,21296145]]'
+maximum_frequency_of_audible_sound: 45000
+MeSH_tree_code: B01.050.150.900.649.313.750.250.216.200
+minimum_frequency_of_audible_sound: 67
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%20Nine%20Dogs.jpg"
+OmegaWiki_Defined_Meaning: 966
+OpenStreetMap_tag_or_key: "Key:dog"
+patron_saint:
+- '[[_Standards/WikiData/WD~Roch,152457]]'
+- '[[_Standards/WikiData/WD~Hubertus,159834]]'
+- '[[_Standards/WikiData/WD~Vitus,212850]]'
+produced_sound: '[[_Standards/WikiData/WD~bark,38681]]'
+sequenced_genome_URL:
+- "http://www.ensembl.org/Canis_lupus_familiaris"
+- "https://www.dnazoo.org/assemblies/Canis_lupus_familiaris"
+small_logo_or_icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20dog.svg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Hond-article.ogg"
+studied_in: '[[_Standards/WikiData/WD~cynology,465924]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+- '[[_Standards/WikiData/WD~pet,39201]]'
 subreddit:
-  - dogs
-  - rarepuppers
-Commons category: Dogs
-OpenStreetMap tag or key: Key:dog
-Colon Classification: KX541
-taxon common name: Dog
-earliest date: -34000-01-01
-Baidu Tieba name: 狗
+- dogs
+- rarepuppers
+taxon_common_name: Dog
+taxon_name: "Canis lupus familiaris"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~dog_meat,826031]]'
+- '[[_Standards/WikiData/WD~dog_fur,1491036]]'
+- '[[_Standards/WikiData/WD~chiengora,1637422]]'
+- '[[_Standards/WikiData/WD~dog_milk,104224564]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Domestic_dog,13538291]]'
+UMLS_CUI: C0012984
+Unicode_character:
+- "\U0001F415"
+- "\U0001F436"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+Universal_Decimal_Classification: 636.7
+UNSPSC_Code: 10101502
+used_by: '[[_Standards/WikiData/WD~hunter-gatherer,27443]]'
+uses: '[[_Standards/WikiData/WD~dog_bed,54502633]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Canemangia.ogv"
 ---
 
 # [[Dog]] 

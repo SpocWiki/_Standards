@@ -1,36 +1,48 @@
----
-type: Element
-SpocWebEntityId: 13522
-has_id_wikidata: Q716
-MeSH_tree_code:
-- D01.268.557.800
-- D01.268.956.878
-- D01.552.547.800
-UNII: D1JT611TNE
-DSSTOX_compound_identifier: DTXCID3027746
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Titanium\"]"
-InChIKey: RTAQQCXQSZGOHL-UHFFFAOYSA-N
-OpenStreetMap_tag_or_key: "Tag:material=titanium"
+﻿---
+atomic_number: 22
+boiling_point: 3286.85
+CAS_Registry_Number: 7440-32-6
 chemical_formula: Ti
-element_symbol: Ti
-Commons_gallery: Titanium
 Commons_category: Titanium
-Unicode_character: 鈦
-name:
-- Ti
-- Titanium
-melting_point:
-- 1941
-- 1670
+Commons_gallery: Titanium
+Common_Procurement_Vocabulary_code:
+- 14724000-2
+- 14724000
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Titanium,84688494]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+Dewey_Decimal_Classification:
+- 546.512
+- 669.7322
+different_from: '[[_Standards/WikiData/WD~Tytan,10382763]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
+DSSTOX_compound_identifier: DTXCID3027746
+EC_number: 231-142-3
+electronegativity: 1.54
+electron_configuration: "[Ar] 3d² 4s²"
+element_symbol: Ti
 hardness:
 - 2125
 - 1493
-mass: 47.867
-boiling_point: 3286.85
-time_of_discovery_or_invention: "1791"
-part_of:
-- "[[_Standards/WikiData/WD~group_4,189302]]"
-- "[[_Standards/WikiData/WD~period_4,239825]]"
+has_id_wikidata: Q716
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal%20bar.JPG"
+InChIKey: RTAQQCXQSZGOHL-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.42
+- 0.61
+- 0.67
+- 0.74
+- 0.86
 made_from_material:
 - '[[_Standards/WikiData/WD~ilmenite,190729]]'
 - '[[_Standards/WikiData/WD~rutile,320603]]'
@@ -39,61 +51,49 @@ made_from_material:
 - '[[_Standards/WikiData/WD~brookite,410609]]'
 - '[[_Standards/WikiData/WD~anatase,413357]]'
 - '[[_Standards/WikiData/WD~akaogiite,12713259]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~light_metal,428766]]"
-- "[[_Standards/WikiData/WD~transition_metal,19588]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- '[[_Standards/WikiData/WD~Titanium,84688494]]'
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-different_from: '[[_Standards/WikiData/WD~Tytan,10382763]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-UMLS_CUI: C0040302
-Common_Procurement_Vocabulary_code:
-- 14724000-2
-- 14724000
+mass: 47.867
+melting_point:
+- 1941
+- 1670
+MeSH_tree_code:
+- D01.268.557.800
+- D01.268.956.878
+- D01.552.547.800
+Mohs_hardness: 6
+name:
+- Ti
+- Titanium
+named_after: '[[_Standards/WikiData/WD~titan,45713]]'
+OmegaWiki_Defined_Meaning: 3782
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+OpenStreetMap_tag_or_key: "Tag:material=titanium"
 oxidation_state:
 - -1
 - 1
 - 2
 - 3
 - 4
-Mohs_hardness: 6
-atomic_number: 22
+part_of:
+- '[[_Standards/WikiData/WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
 Poisson_s_ratio: 0.32
-ionic_radius:
-- 0.42
-- 0.61
-- 0.67
-- 0.74
-- 0.86
-specific_heat_capacity: 520
-tensile_modulus_of_elasticity: 116
-electronegativity: 1.54
-thermal_conductivity: 21.9
-shear_modulus: 41.4
-named_after: '[[_Standards/WikiData/WD~titan,45713]]'
-speed_of_sound: 5090
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal%20bar.JPG"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Titanium.ogg"
-electron_configuration: "[Ar] 3d² 4s²"
-EC_number: 231-142-3
 PubChem_CID: 23963
-OmegaWiki_Defined_Meaning: 3782
-Dewey_Decimal_Classification:
-- 546.512
-- 669.7322
-CAS_Registry_Number: 7440-32-6
+shear_modulus: 41.4
+specific_heat_capacity: 520
+speed_of_sound: 5090
+SpocWebEntityId: 13522
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Titanium.ogg"
+subclass_of:
+- '[[_Standards/WikiData/WD~light_metal,428766]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+tensile_modulus_of_elasticity: 116
+thermal_conductivity: 21.9
+time_of_discovery_or_invention: 1791
+type: Element
+UMLS_CUI: C0040302
+Unicode_character: 鈦
+UNII: D1JT611TNE
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Titanium\"]"
 ZVG_number: 8170
 ---
 

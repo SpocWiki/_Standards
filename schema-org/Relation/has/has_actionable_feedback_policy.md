@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_actionable_feedback_policy
-
-linkTitle: has_actionable_feedback_policy
-keywords: [actionable, feedback, policy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - actionable-feedback-policy
 - actionable_feedback_policy
 - actionableFeedbackPolicy
 - has_actionable_feedback_policy
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- actionable
+- feedback
+- policy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_actionable_feedback_policy
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_actionable_feedback_policy
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

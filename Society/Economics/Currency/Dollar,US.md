@@ -1,11 +1,11 @@
----
+﻿---
 aliases:
-  - United States dollar
-  - American dollar
-  - buck
-  - dollar
-  - U.S. dollar
-  - USD
+- "United States dollar"
+- "American dollar"
+- buck
+- dollar
+- "U.S. dollar"
+- USD
 ---
 
 # [[Dollar,US]]

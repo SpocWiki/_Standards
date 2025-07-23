@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_hotel_room Class
-linkTitle: is_a_hotel_room Class
-
-keywords: [hotel_room]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - hotel-room
 - hotel_room
 - HotelRoom
 - is_a_hotel_room
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hotel_room
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_hotel_room Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_hotel_room Class"
+type: Type
 ---
 
 Class of all hotel_rooms.

@@ -1,57 +1,57 @@
----
-type: Element
-SpocWebEntityId: 21984
-has_id_wikidata: Q1121
-part_of:
-- "[[_Standards/WikiData/WD~group_3,108307]]"
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-named_after: "[[_Standards/WikiData/WD~light_beam,2493660]]"
-instance_of:
-- "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
-time_of_discovery_or_invention: "1899"
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg"
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
-oxidation_state: 3
-electronegativity: 1.1
+﻿---
 atomic_number: 89
+canonical_SMILES: '[Ac]'
+CAS_Registry_Number: 7440-34-8
+chemical_formula: Ac
+Commons_category: Actinium
+Commons_gallery: Actinium
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+Dewey_Decimal_Classification:
+- 546.421
+- 669.2921
+discoverer_or_inventor: '[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]'
+DSSTOX_compound_identifier: DTXCID10147879
+electronegativity: 1.1
+element_symbol: Ac
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_id_wikidata: Q1121
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png"
+InChI: InChI=1S/Ac
+InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius: 112
 ionization_energy:
 - 1170
 - 499
-OmegaWiki_Defined_Meaning: 33
-PubChem_CID: 23965
 mass: 227.028
-chemical_formula: Ac
-element_symbol: Ac
-Unicode_character: 錒
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png"
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg"
-canonical_SMILES: '[Ac]'
-Dewey_Decimal_Classification:
-- 546.421
-- 669.2921
-CAS_Registry_Number: 7440-34-8
-Commons_gallery: Actinium
-Commons_category: Actinium
 MeSH_tree_code:
 - D01.268.271.100.033
 - D01.268.556.025
 - D01.496.749.305.100.033
 - D01.552.020.042
 - D01.552.544.025
-DSSTOX_compound_identifier: DTXCID10147879
-InChI: InChI=1S/Ac
+named_after: '[[_Standards/WikiData/WD~light_beam,2493660]]'
+OmegaWiki_Defined_Meaning: 33
+oxidation_state: 3
+part_of:
+- '[[_Standards/WikiData/WD~group_3,108307]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg"
+PubChem_CID: 23965
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg"
+SpocWebEntityId: 21984
+time_of_discovery_or_invention: 1899
+type: Element
+Unicode_character: 錒
 UNII: NIK1K0956U
-InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 ---
 
 # [[Actinium]]

@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- spouse
+- has_spouse
+- "schema:spouse"
+- "dbo:spouse"
+- "wdt:P26"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_spouse
-linkTitle: has_spouse
 keywords:
-  - spouse
+- spouse
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_spouse
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - spouse
-  - has_spouse
-  - schema:spouse
-  - dbo:spouse
-  - wdt:P26
+- class/Relation
+- schema-org/Relation
+title: has_spouse
+type: Predi_Relation
 ---
 
 Use it like this: 

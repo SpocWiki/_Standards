@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_nerve
-
-linkTitle: has_nerve
-keywords: [nerve]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - nerve
 - nerve
 - nerve
 - has_nerve
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nerve
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_nerve
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_nerve
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,11 +1,10 @@
----
-title: Leptostraca
+﻿---
 aliases:
-  - Phyllocarida
-  - Sea flea
-  - Sea fleas
+- Phyllocarida
+- "Sea flea"
+- "Sea fleas"
+title: Leptostraca
 ---
-
 
 ## [[Phyllocarida]] 
 

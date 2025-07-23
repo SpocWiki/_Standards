@@ -1,33 +1,35 @@
----
-location: [ -6.19 , 71.35 ] 
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26926
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: British Indian Ocean Territory
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-- British Indian Ocean Territory
-- Territorio Británico del Océano Índico
-- Territoire britannique de l'océan Indien
-- المحيط الهندي الإقليم البريطاني في
+- "British Indian Ocean Territory"
+- "Territorio Británico del Océano Índico"
+- "Territoire britannique de l'océan Indien"
+- "المحيط الهندي الإقليم البريطاني في"
 - 英属印度洋领土
-- Британская территория в Индийском океане
+- "Британская территория в Индийском океане"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-IO
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -6.19
+- 71.35
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26926
+tags:
+- geo/Country
+title: "British Indian Ocean Territory"
+type: Country
 ---
 
 # [[British_Indian_Ocean_Territory]] 

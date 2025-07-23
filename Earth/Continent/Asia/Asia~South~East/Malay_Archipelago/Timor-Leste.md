@@ -23,13 +23,13 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Timor-Leste
+- Timor-Leste
 - "تيمور- ليشتي"
-  - 东帝汶
-  - Тимор-Лешти
+- 东帝汶
+- Тимор-Лешти
 - "the Democratic Republic of Timor-Leste"
 - "la República Democrática de Timor-Leste"
-  - Osttimor
+- Osttimor
 - "East Timor"
 Languages:
   - tet
@@ -97,7 +97,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Makalero,35729]]'
 - '[[_Standards/WikiData/WD~Mambai,35774]]'
 - '[[_Standards/WikiData/WD~Makasae,35782]]'
-  - "[[_Standards/WikiData/WD~Makuv'a,35790]]"
+- "[[_Standards/WikiData/WD~Makuv'a,35790]]"
 - '[[_Standards/WikiData/WD~Tocodede,36863]]'
 - '[[_Standards/WikiData/WD~Habun,1567033]]'
 - '[[_Standards/WikiData/WD~Adabe,3327339]]'
@@ -224,7 +224,7 @@ demonym:
   - Osttimoraner
   - Osttimoranerin
   - Osttimorese
-- "East Timorese"
+  - "East Timorese"
   - Orient-Timorano
   - Timorais
   - Timoraise
@@ -246,8 +246,8 @@ ISO_3166_3: TPTL
 MeSH_tree_code: Z01.252.145.900
 official_name:
 - "République démocratique du Timor oriental"
-  - Timor-Leste
-  - Timor-Leste
+- Timor-Leste
+- Timor-Leste
 native_label:
 - "República Democrática de Timor-Leste"
 - "Repúblika Demokrátika Timor-Leste"

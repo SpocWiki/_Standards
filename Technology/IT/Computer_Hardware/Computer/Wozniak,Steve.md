@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Wozniak,Steve
-  - Steve Wozniak
-  - Stephen Gary Wozniak
-  - Woz
+- Wozniak,Steve
+- "Steve Wozniak"
+- "Stephen Gary Wozniak"
+- Woz
 has_id_wikidata: Q483382
 ---
 

@@ -1,7 +1,7 @@
----
-title: Fabales
+﻿---
 aliases:
-  - Fabales
+- Fabales
+title: Fabales
 ---
 
 # [[Fabales]] 

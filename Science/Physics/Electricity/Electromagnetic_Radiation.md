@@ -1,26 +1,26 @@
----
+﻿---
+Commons_category: "Electromagnetic radiation"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01001026"
 has_id_wikidata: Q12969754
-part_of: "[[_Standards/WikiData/WD~electromagnetic_field,177625]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-time_of_discovery_or_invention: "1886-11-13"
-UMLS_CUI: C0034519
+has_part_s_:
+- '[[_Standards/WikiData/WD~photon,3198]]'
+- '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
+IEV_number: 845-21-001
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/EM%20spectrumrevised.png"
+Krugosvet_article: nauka_i_tehnika/fizika/ELEKTROMAGNITNOE_IZLUCHENIE.html
 MeSH_tree_code:
 - G01.358.500.505
 - G01.750.250
-has_part_s_:
-- '[[_Standards/WikiData/WD~photon,3198]]'
-- "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
+part_of: '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
 subclass_of: '[[_Standards/WikiData/WD~radiation,18335]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]"
+time_of_discovery_or_invention: 1886-11-13
+topic_s_main_template: '[[_Standards/WikiData/WD~Q20696574,20696574]]'
+UMLS_CUI: C0034519
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.Circularly.Polarized.Light%20Right.Handed.Animation.305x190.255Colors.gif"
-Commons_category: "Electromagnetic radiation"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/EM%20spectrumrevised.png"
-exact_match: "http://purl.obolibrary.org/obo/ENVO_01001026"
-IEV_number: 845-21-001
-Krugosvet_article: nauka_i_tehnika/fizika/ELEKTROMAGNITNOE_IZLUCHENIE.html
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_midpoint
-linkTitle: has_location_midpoint
-
-keywords: [geo_midpoint]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - geo-midpoint
 - geo_midpoint
 - geoMidpoint
 - has_location_midpoint
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- geo_midpoint
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_midpoint
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_midpoint
+type: Pred_geo
 ---
 
 Predicate to describe the geo of GeoCircle.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_offline_temporarily Class
-linkTitle: is_an_offline_temporarily Class
-
-keywords: [offline_temporarily]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GameServerStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - offline-temporarily
 - offline_temporarily
 - OfflineTemporarily
 - is_an_offline_temporarily
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GameServerStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- offline_temporarily
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_offline_temporarily Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_offline_temporarily Class"
+type: Type
 ---
 
 Class of all offline_temporarilys.

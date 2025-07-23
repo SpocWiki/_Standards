@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/GovernmentService
-  - class/Thing/Intangible/Service/GovernmentService
-  - is_a_/GovernmentService
-  - schema-org/GovernmentService
-tags:
-  - class/FileClass
-  - class/GovernmentService
-  - is_a_/GovernmentService
-  - class/Thing/Intangible/Service/GovernmentService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: 1CscF8
-    name: Jurisdiction
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
-    type: MultiFile
-    path: ""
-  - id: oCrcHM
-    name: ServiceOperator
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
+- id: 1CscF8
+  name: Jurisdiction
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
+  type: MultiFile
+  path: ''
+- id: oCrcHM
+  name: ServiceOperator
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/GovernmentService
+- class/Thing/Intangible/Service/GovernmentService
+- is_a_/GovernmentService
+- schema-org/GovernmentService
+tags:
+- class/FileClass
+- class/GovernmentService
+- is_a_/GovernmentService
+- class/Thing/Intangible/Service/GovernmentService
+version: 2.0
 ---
 
 # GovernmentService

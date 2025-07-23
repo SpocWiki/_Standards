@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_sports_event
-
-linkTitle: has_sports_event
-keywords: [sports, event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - sports-event
 - sports_event
 - sportsEvent
 - has_sports_event
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- sports
+- event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sports_event
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_sports_event
+type: Predi_Relation
 ---
 
 Use it like this: 

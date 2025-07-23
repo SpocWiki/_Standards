@@ -1,58 +1,58 @@
----
-has_id_wikidata: Q299194
+﻿---
 aliases:
-  - Aaron Benjamin Sorkin
-  - Aaron Sorkin
-P8189: "987007421834805171"
-Europeana_entity: agent/base/62128
-birth_name: Aaron Benjamin Sorkin
+- "Aaron Benjamin Sorkin"
+- "Aaron Sorkin"
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]"
-  - "[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Screenplay,1355247]]"
-  - "[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]"
-  - "[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]"
-  - "[[_Standards/WikiData/WD~Satellite_Award_for_Best_Adapted_Screenplay,1634847]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series,3123491]]"
-nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
-occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~television_producer,578109]]"
-  - "[[_Standards/WikiData/WD~showrunner,1440873]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~scenographer,2707485]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]'
+- '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Screenplay,1355247]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
+- '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Adapted_Screenplay,1634847]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series,3123491]]'
+birth_name: "Aaron Benjamin Sorkin"
+Commons_category: "Aaron Sorkin"
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+date_of_birth: "1961-06-09T00:00:00Z"
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Syracuse_University,617433]]"
-  - "[[_Standards/WikiData/WD~Scarsdale_High_School,14707276]]"
-given_name: "[[_Standards/WikiData/WD~Aaron,905085]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Aaron_Sorkin,6666710]]"
-member_of: "[[_Standards/WikiData/WD~Writers_Guild_of_America,_West,8038459]]"
-family_name: "[[_Standards/WikiData/WD~Sorkin,21489079]]"
-spouse: "[[_Standards/WikiData/WD~Julia_Bingham,22669657]]"
+- '[[_Standards/WikiData/WD~Syracuse_University,617433]]'
+- '[[_Standards/WikiData/WD~Scarsdale_High_School,14707276]]'
+Europeana_entity: agent/base/62128
+family_name: '[[_Standards/WikiData/WD~Sorkin,21489079]]'
+given_name: '[[_Standards/WikiData/WD~Aaron,905085]]'
+has_id_wikidata: Q299194
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Sorkin%20%2827566400913%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+ISNI: 0000000114378061
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America,_West,8038459]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+nominated_for:
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Molly's_Game,27888445]]"
-  - "[[_Standards/WikiData/WD~To_Kill_a_Mockingbird,55635945]]"
+- "[[_Standards/WikiData/WD~Molly's_Game,27888445]]"
+- '[[_Standards/WikiData/WD~To_Kill_a_Mockingbird,55635945]]'
+occupation:
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~showrunner,1440873]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~scenographer,2707485]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+P8189: 987007421834805171
+place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 Plex_person_key: 5d7768288718ba001e3121c7
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Sorkin%20%2827566400913%29.jpg
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~New_York_City,60]]"
-Commons_category: Aaron Sorkin
-date_of_birth: 1961-06-09T00:00:00Z
-work_period_start_: 1984-01-01T00:00:00Z
-ISNI: "0000000114378061"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+spouse: '[[_Standards/WikiData/WD~Julia_Bingham,22669657]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aaron_Sorkin,6666710]]'
+work_period_start_: "1984-01-01T00:00:00Z"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 ---
 
 # [[Sorkin,Aaron]] 

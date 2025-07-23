@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Pashto
-tags: 
+tags:
 - Lang/ps
+type: Lang
 ---
+
 # [[Lang-ps]] 
 
 [SpocWebEntityId:: 455 ]

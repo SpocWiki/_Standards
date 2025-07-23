@@ -1,29 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- domain_includes
+- domainIncludes
+- has_domain_includes
+- has_domain
+- "rdfs:domain"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_domain
-linkTitle: has_domain_includes
 keywords:
-  - domain
-  - includes
+- domain
+- includes
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_domain_includes
+publish: true
 publishDate: 
-expiryDate: 
-tags: [schema-org/Relation]
-aliases:
-  - domain_includes
-  - domainIncludes
-  - has_domain_includes
-  - has_domain
-  - rdfs:domain
+tags:
+- schema-org/Relation
+title: has_domain
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: https://meta.schema.org ] 

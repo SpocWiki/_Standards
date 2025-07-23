@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Niels Henrik Abel
+- "Niels Henrik Abel"
 has_id_wikidata: Q124115
 ---
-
 
 ## #has_/text_of_/abstract 
 

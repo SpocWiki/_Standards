@@ -1,10 +1,9 @@
----
+﻿---
 aliases:
-  - Frédéric Chopin
-  - Frédéric François Chopin
+- "Frédéric Chopin"
+- "Frédéric François Chopin"
 has_id_wikidata: Q1268
 ---
-
 
 ## #has_/text_of_/abstract 
 

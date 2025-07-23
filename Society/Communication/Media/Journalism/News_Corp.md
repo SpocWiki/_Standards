@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - News Corp
+- "News Corp"
 ---
-
 
 ## #has_/text_of_/abstract 
 

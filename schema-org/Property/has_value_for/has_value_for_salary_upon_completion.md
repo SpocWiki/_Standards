@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_salary-upon-completion
-linkTitle: has_salary-upon-completion
-
-keywords: [salary-upon-completion]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - salary_upon_completion
 - salary-upon-completion
 - salaryUponCompletion
 - has_value_for_salary_upon_completion
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- salary-upon-completion
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_salary-upon-completion
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_salary-upon-completion
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of EducationalOccupationalProgram.

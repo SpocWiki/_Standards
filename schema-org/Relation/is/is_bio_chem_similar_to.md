@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_bio_chem_similarity
-
-linkTitle: has_bio_chem_similarity
-keywords: [bio, chem, similarity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - bio-chem-similarity
 - bio_chem_similarity
 - bioChemSimilarity
 - has_bio_chem_similarity
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bio
+- chem
+- similarity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_bio_chem_similarity
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_bio_chem_similarity
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

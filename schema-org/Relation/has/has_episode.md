@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_episode
-
-linkTitle: has_episode
-keywords: [episode]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: episodes
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - episode
 - episode
 - episode
 - has_episode
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- episode
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_episode
+publish: true
+publishDate: 
+supersedes: episodes
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_episode
+type: Predi_Relation
 ---
 
 An episode of a TV, radio or game media within a series or season.

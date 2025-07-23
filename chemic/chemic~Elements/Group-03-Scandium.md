@@ -1,6 +1,10 @@
----
+﻿---
+has_id_wikidata: Q108307
 type: ElementGroup
 ---
+
+# [[Group-03-Scandium]] 
+
 #chemic/Group 
 
 4) [[Scandium]]
@@ -8,6 +12,9 @@ type: ElementGroup
 6) [[Lutetium]]
 7) [[Lawrencium]]
 
+#is_/same_as :: [[../../WikiData/WD~Group_3,108307]] 
+
+## #has_/text_of_/abstract 
 
 > Group 3 is the first group of transition metals in the periodic table. This group is closely related to the rare-earth elements. It contains the four elements scandium (Sc), yttrium (Y), lutetium (Lu), and lawrencium (Lr). The group is also called the scandium group or scandium family after its lightest member.
 >

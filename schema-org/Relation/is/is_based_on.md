@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- is-based-on
+- based_on
+- isBasedOn
+- is_based_on
+- is_based_on_url
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_based_on
-linkTitle: is_based_on
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_based_on
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: isBasedOnUrl
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - is-based-on
-  - based_on
-  - isBasedOn
-  - is_based_on
-  - is_based_on_url
+- class/Relation
+- schema-org/Relation
+title: is_based_on
+type: Predi_Relation
 ---
 
 Url of a resource from which this work is derived or from which it is a modification or adaption.

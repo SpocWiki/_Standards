@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BorrowAction
-  - class/Thing/Action/TransferAction/BorrowAction
-  - is_a_/BorrowAction
-  - schema-org/BorrowAction
-tags:
-  - class/FileClass
-  - class/BorrowAction
-  - is_a_/BorrowAction
-  - class/Thing/Action/TransferAction/BorrowAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: WHOTmv
-    name: Lender
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
+- id: WHOTmv
+  name: Lender
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BorrowAction
+- class/Thing/Action/TransferAction/BorrowAction
+- is_a_/BorrowAction
+- schema-org/BorrowAction
+tags:
+- class/FileClass
+- class/BorrowAction
+- is_a_/BorrowAction
+- class/Thing/Action/TransferAction/BorrowAction
+version: 2.0
 ---
 
 # BorrowAction

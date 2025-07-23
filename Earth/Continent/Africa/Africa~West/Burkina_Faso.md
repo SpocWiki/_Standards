@@ -170,7 +170,7 @@ demonym:
   - Burkinano
   - בורקינאי
   - בורקינאית
-- "Burkina Fasó-i"
+  - "Burkina Fasó-i"
   - burkinabè
   - burcinabe
   - burkinez
@@ -201,11 +201,11 @@ subreddit: BurkinaFaso
 Libris_URI: sq465kxb2sk6b2n
 Krugosvet_article: strany_mira/BURKINA-FASO.html
 motto_text:
-- "Единство - прогрес - справедливост"
+  - "Единство - прогрес - справедливост"
   - Unity–Progress–Justice
   - Unité–Progrès–Justice
   - Unidad–Progreso–Justicia
-- "Undod – Cynnydd – Cyfiawnder"
+  - "Undod – Cynnydd – Cyfiawnder"
 official_language:
 - '[[_Standards/WikiData/WD~Bissa,32934]]'
 - '[[_Standards/WikiData/WD~Mooré,36096]]'

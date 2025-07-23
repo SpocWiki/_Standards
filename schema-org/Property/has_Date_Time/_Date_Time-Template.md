@@ -1,37 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- has_time_of_{{label_snail}}
 confidential: public
+cssclasses: "Predicate Date_Time"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
-publish: true
-
-# Hugo Tags
-type: Predi_Date_Time
-
-title: has_time_of_{{label_snail}}
-linkTitle: has_time_of_{{label_snail}}
-
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: has_time_of_{{label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Property
 - schema-org/Property/Date
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- has_time_of_{{label_snail}}
+title: has_time_of_{{label_snail}}
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of {{domainIncludes}}.

@@ -1,17 +1,16 @@
----
-type: State
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
+license: "CC BY-SA 4.0"
+publish: true
 tags:
 - geo/State
-
-aliases:
-- 
+type: State
 ---
+
 location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 

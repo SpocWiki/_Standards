@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_by_artist
-
-linkTitle: is_by_artist
-keywords: [by, artist]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - by-artist
 - by_artist
 - byArtist
 - is_by_artist
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- by
+- artist
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_by_artist
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_by_artist
+type: Predi_Relation
 ---
 
 Use it like this: 

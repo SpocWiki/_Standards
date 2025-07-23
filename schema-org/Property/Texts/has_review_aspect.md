@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_review_aspect
-linkTitle: has_text_of_review_aspect
-
-keywords: [review, aspect]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - review-aspect
 - review_aspect
 - reviewAspect
 - has_text_of_review_aspect
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- review
+- aspect
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_review_aspect
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_review_aspect
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Guide, Rating, Review.

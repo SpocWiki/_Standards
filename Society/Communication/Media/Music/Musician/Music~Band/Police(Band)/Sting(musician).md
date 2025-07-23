@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Sumner,Gordon Matthew Thomas
+- "Sumner,Gordon Matthew Thomas"
 ---
 
 #has_/time_/started :: 1951-10-02 

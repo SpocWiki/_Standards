@@ -1,38 +1,38 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- geo-within
+- geo_within
+- geoWithin
+- has_location_within
+- has_location_contained_in_place
+- has_location_covered_by
+- ContainedInPlace
+- ContainsPlace
+- GeoContains
+- GeoCoveredBy
+- GeoCovers
+- geo-contains
+- geo_contains
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_within
-linkTitle: has_location_within
 keywords:
-  - geo_within
+- geo_within
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_within
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/geo
-aliases:
-  - geo-within
-  - geo_within
-  - geoWithin
-  - has_location_within
-  - has_location_contained_in_place
-  - has_location_covered_by
-  - ContainedInPlace
-  - ContainsPlace
-  - GeoContains
-  - GeoCoveredBy
-  - GeoCovers
-  - geo-contains
-  - geo_contains
+- class/Property
+- schema-org/Property/geo
+title: has_location_within
+type: Pred_geo
 ---
 
 Relation to the geo of a larger GeospatialGeometry or Place that completely covers this Entity.

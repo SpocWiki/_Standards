@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Humphry Davy
+- "Humphry Davy"
 ---
 
 #has_/time_/started :: 1778-12-17 

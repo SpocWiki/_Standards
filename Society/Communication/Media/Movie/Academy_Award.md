@@ -1,89 +1,89 @@
----
+﻿---
 aliases:
-  - Oscar
-  - Academy Award
-  - Academy Awards
-  - Oscars
-  - Academy_Award
-has_id_wikidata: Q19020
+- Oscar
+- "Academy Award"
+- "Academy Awards"
+- Oscars
+- Academy_Award
+Baidu_Tieba_name: 奥斯卡
+Commons_category: "Academy Awards"
+Commons_gallery: "Academy Awards"
+conferred_by: '[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329]]'
+confidential: private
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+cssclasses:
+- private
+- note
+described_by_source: '[[_Standards/WikiData/WD~Disney_A_to_Z,3710090]]'
+different_from:
+- '[[_Standards/WikiData/WD~Academy_Award,4671334]]'
+- '[[_Standards/WikiData/WD~Academy_Awards_ceremony,16913666]]'
+- '[[_Standards/WikiData/WD~Óscar,21475960]]'
+Douban_site_name: oscar
+draft: true
+exact_match: "http://wordnet-rdf.princeton.edu/pwn30/07268967-n"
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+Facebook_username: TheAcademy
 Giphy_username: oscars
 GitHub_topic:
-  - oscars
-  - academy-awards
-Instagram_username: theacademy
-Facebook_username: TheAcademy
-Baidu_Tieba_name: 奥斯卡
-inception: 1929-01-01T00:00:00Z
+- oscars
+- academy-awards
+has_id_wikidata: Q19020
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_International_Feature_Film,105304]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Documentary_Feature_Film,111332]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,131520]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director_(Comedy_Picture),3451157]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
-conferred_by: "[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Sciences,212329]]"
-described_by_source: "[[_Standards/WikiData/WD~Disney_A_to_Z,3710090]]"
-subclass_of: "[[_Standards/WikiData/WD~film_award,4220917]]"
-different_from:
-  - "[[_Standards/WikiData/WD~Academy_Award,4671334]]"
-  - "[[_Standards/WikiData/WD~Academy_Awards_ceremony,16913666]]"
-  - "[[_Standards/WikiData/WD~Óscar,21475960]]"
-topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Academy_Awards,5483199]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_Academy_Awards,13361762]]"
-trophy_awarded: "[[_Standards/WikiData/WD~Oscar_statuette,11291954]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_awards,107655869]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_location: "[[_Standards/WikiData/WD~Hollywood,34006]]"
-social_media_followers:
-  - 3130000
-  - 3719699
-Commons_gallery: Academy Awards
-Commons_category: Academy Awards
-Douban_site_name: oscar
-U_S_National_Archives_Identifier: "10663067"
-native_label: Academy Awards
-exact_match: http://wordnet-rdf.princeton.edu/pwn30/07268967-n
-official_website: https://www.oscars.org/oscars
-TASS_reference: "17244621"
-RIA_Novosti_reference: "54276827"
-P8189: "987007292823805171"
-Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OSKAR_KINOPREMIYA.html
-title: Academy_Award
-lang: en
-type: private_note
-keywords: Academy_Award
-linkTitle: Academy_Award
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
-confidential: private
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_International_Feature_Film,105304]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Documentary_Feature_Film,111332]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,131520]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director_(Comedy_Picture),3451157]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-07-22
+headquarters_location: '[[_Standards/WikiData/WD~Hollywood,34006]]'
+inception: "1929-01-01T00:00:00Z"
+Instagram_username: theacademy
+instance_of: '[[_Standards/WikiData/WD~group_of_awards,107655869]]'
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+keywords: Academy_Award
+Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OSKAR_KINOPREMIYA.html
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: Academy_Award
+native_label: "Academy Awards"
+official_website: "https://www.oscars.org/oscars"
+P8189: 987007292823805171
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-07-22
+RIA_Novosti_reference: 54276827
+social_media_followers:
+- 3130000
+- 3719699
+subclass_of: '[[_Standards/WikiData/WD~film_award,4220917]]'
 tags:
-  - Academy_Award
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- Academy_Award
+- excalidraw
+TASS_reference: 17244621
+title: Academy_Award
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Academy_Awards,5483199]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_Academy_Awards,13361762]]'
+trophy_awarded: '[[_Standards/WikiData/WD~Oscar_statuette,11291954]]'
+type: private_note
+U_S_National_Archives_Identifier: 10663067
 ---
 
 # [[Academy_Award]] 

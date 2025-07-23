@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_tourist_information_center Class
-linkTitle: is_a_tourist_information_center Class
-
-keywords: [tourist_information_center]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - tourist-information-center
 - tourist_information_center
 - TouristInformationCenter
 - is_a_tourist_information_center
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tourist_information_center
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_tourist_information_center Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_tourist_information_center Class"
+type: Type
 ---
 
 Class of all tourist_information_centers.

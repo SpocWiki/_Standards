@@ -1,84 +1,84 @@
----
-type: Element
-SpocWebEntityId: 3285
-has_id_wikidata: Q1096
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
+atomic_number: 50
 boiling_point:
 - 2507
 - 4545
-mass: 118.71
-ZVG_number: 8380
-OmegaWiki_Defined_Meaning: 3780
-CosIng_number: 86716
 canonical_SMILES: '[Sn]'
+CAS_Registry_Number: 7440-31-5
 chemical_formula: Sn
-element_symbol: Sn
+color: '[[_Standards/WikiData/WD~silver,317802]]'
 Commons_category: Tin
 Commons_gallery: Tin
-U_S_National_Archives_Identifier: 10643089
-Unicode_character: 錫
-UNSPSC_Code: 11101716
-PubChem_CID: 5352426
-instance_of:
-- "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-part_of:
-- "[[_Standards/WikiData/WD~group_14,106693]]"
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-- "[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
-color: '[[_Standards/WikiData/WD~silver,317802]]'
+CosIng_number: 86716
+density: 7.28
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 - '[[_Standards/WikiData/WD~Tin,84668552]]'
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
-has_effect: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
-associated_hazard: "[[_Standards/WikiData/WD~tin_poisoning,7807844]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from: '[[_Standards/WikiData/WD~Timah,19752956]]'
 DSSTOX_compound_identifier: DTXCID701323006
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG"
 EC_number: 231-141-8
-UNII: 387GMG9FH5
-CAS_Registry_Number: 7440-31-5
-InChIKey: ATJFFYVFTNAWJD-UHFFFAOYSA-N
-UMLS_CUI: C0040238
-MeSH_tree_code:
-- D01.268.556.875
-- D01.552.544.875
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tin\"]"
-InChI: InChI=1S/Sn
-Krugosvet_article:
-- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVA_PROIZVODSTVO.html
-- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVO.html
-RTECS_number: XP7320000
+electronegativity: 1.96
 electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p²"
 - "[Kr] 5s² 5d¹⁰ 5p²"
-vapor_pressure: 0
+element_symbol: Sn
+has_effect: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
+has_id_wikidata: Q1096
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%ADn.PNG"
 immediately_dangerous_to_life_or_health: 100
-time_weighted_average_exposure_limit: 2
-atomic_number: 50
+InChI: InChI=1S/Sn
+InChIKey: ATJFFYVFTNAWJD-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.55
 - 0.69
 - 0.81
-electronegativity: 1.96
-standard_molar_entropy: 44.1
+Krugosvet_article:
+- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVA_PROIZVODSTVO.html
+- nauka_i_tehnika/tehnologiya_i_promyshlennost/OLOVO.html
+mass: 118.71
 melting_point:
 - 449
 - 231.9
-density: 7.28
+MeSH_tree_code:
+- D01.268.556.875
+- D01.552.544.875
+OmegaWiki_Defined_Meaning: 3780
+part_of:
+- '[[_Standards/WikiData/WD~group_14,106693]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~antimony-doped_tin_oxide,3886818]]'
+PubChem_CID: 5352426
+RTECS_number: XP7320000
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
+SpocWebEntityId: 3285
+standard_molar_entropy: 44.1
+subclass_of:
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+time_weighted_average_exposure_limit: 2
+type: Element
+UMLS_CUI: C0040238
+Unicode_character: 錫
+UNII: 387GMG9FH5
+UNSPSC_Code: 11101716
+U_S_National_Archives_Identifier: 10643089
+vapor_pressure: 0
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tin\"]"
+ZVG_number: 8380
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Tin,1096]] 

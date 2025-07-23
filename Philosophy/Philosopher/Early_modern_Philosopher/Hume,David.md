@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - David Hume
+- "David Hume"
 ---
 
 # [[Hume,David]] 

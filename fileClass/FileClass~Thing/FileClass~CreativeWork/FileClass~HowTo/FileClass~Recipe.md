@@ -1,66 +1,66 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Recipe
-  - class/Thing/CreativeWork/HowTo/Recipe
-  - is_a_/Recipe
-  - schema-org/Recipe
-tags:
-  - class/FileClass
-  - class/Recipe
-  - is_a_/Recipe
-  - class/Thing/CreativeWork/HowTo/Recipe
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
 fields:
-  - id: zVDcrU
-    name: CookTime
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: g3HS6r
-    name: CookingMethod
-    options: {}
-    type: Input
-    path: ""
-  - id: 6AxOVF
-    name: Nutrition
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')
-    type: MultiFile
-    path: ""
-  - id: 2xIx4H
-    name: RecipeCategory
-    options: {}
-    type: Input
-    path: ""
-  - id: VHgv6M
-    name: RecipeCuisine
-    options: {}
-    type: Input
-    path: ""
-  - id: phDrhP
-    name: RecipeIngredient
-    options: {}
-    type: Input
-    path: ""
-  - id: bS7moa
-    name: RecipeInstructions
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
-  - id: aBFehz
-    name: RecipeYield
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+- id: zVDcrU
+  name: CookTime
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: g3HS6r
+  name: CookingMethod
+  options: {}
+  type: Input
+  path: ''
+- id: 6AxOVF
+  name: Nutrition
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')"
+  type: MultiFile
+  path: ''
+- id: 2xIx4H
+  name: RecipeCategory
+  options: {}
+  type: Input
+  path: ''
+- id: VHgv6M
+  name: RecipeCuisine
+  options: {}
+  type: Input
+  path: ''
+- id: phDrhP
+  name: RecipeIngredient
+  options: {}
+  type: Input
+  path: ''
+- id: bS7moa
+  name: RecipeInstructions
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+- id: aBFehz
+  name: RecipeYield
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Recipe
+- class/Thing/CreativeWork/HowTo/Recipe
+- is_a_/Recipe
+- schema-org/Recipe
+tags:
+- class/FileClass
+- class/Recipe
+- is_a_/Recipe
+- class/Thing/CreativeWork/HowTo/Recipe
+version: 2.0
 ---
 
 # Recipe

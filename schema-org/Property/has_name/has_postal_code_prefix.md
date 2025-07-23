@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_postal_code_prefix
-linkTitle: has_text_of_postal_code_prefix
-
-keywords: [postal, code, prefix]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - postal-code-prefix
 - postal_code_prefix
 - postalCodePrefix
 - has_text_of_postal_code_prefix
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- postal
+- code
+- prefix
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_postal_code_prefix
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_postal_code_prefix
+type: Pred_Text
 ---
 
 Predicate to describe the Text of DefinedRegion.

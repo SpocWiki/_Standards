@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_health_condition
-
-linkTitle: has_health_condition
-keywords: [health, condition]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - health-condition
 - health_condition
 - healthCondition
 - has_health_condition
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health
+- condition
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_health_condition
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_health_condition
+type: Predi_Relation
 ---
 
 Use it like this: 

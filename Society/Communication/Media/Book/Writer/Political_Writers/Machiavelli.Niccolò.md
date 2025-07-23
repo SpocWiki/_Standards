@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Niccolò Machiavelli
-  - Niccolò di Bernardo dei Machiavelli
+- "Niccolò Machiavelli"
+- "Niccolò di Bernardo dei Machiavelli"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,8 +1,9 @@
----
-has_id_wikidata: Q27593
+﻿---
 aliases:
-  - AC/DC
+- AC/DC
+has_id_wikidata: Q27593
 ---
+
 # [[AC-DC]]
 
 

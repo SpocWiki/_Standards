@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Non Fiction
-  - nonfiction
+- "Non Fiction"
+- nonfiction
 ---
 
 ## #has_/text_of_/abstract 

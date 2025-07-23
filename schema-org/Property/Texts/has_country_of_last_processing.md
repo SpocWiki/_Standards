@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_country_of_last_processing
-linkTitle: has_text_of_country_of_last_processing
-
-keywords: [country, of, last, processing]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - country-of-last-processing
 - country_of_last_processing
 - countryOfLastProcessing
 - has_text_of_country_of_last_processing
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- country
+- of
+- last
+- processing
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_country_of_last_processing
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_country_of_last_processing
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Product.

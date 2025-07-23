@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TextDigitalDocument
-  - class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument
-  - is_a_/TextDigitalDocument
-  - schema-org/TextDigitalDocument
-tags:
-  - class/FileClass
-  - class/TextDigitalDocument
-  - is_a_/TextDigitalDocument
-  - class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TextDigitalDocument
+- class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument
+- is_a_/TextDigitalDocument
+- schema-org/TextDigitalDocument
+tags:
+- class/FileClass
+- class/TextDigitalDocument
+- is_a_/TextDigitalDocument
+- class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument
+version: 2.0
 ---
 
 # TextDigitalDocument

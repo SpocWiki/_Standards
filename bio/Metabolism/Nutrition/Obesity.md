@@ -1,6 +1,14 @@
----
-has_id_wikidata: Q12174
-health_specialty: '[[_Standards/WikiData/WD~endocrinology,162606]]'
+﻿---
+Commons_category: Obesity
+contributing_factor_of: '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+DiseasesDB: 9099
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~D-methamphetamine,191924]]'
 - '[[_Standards/WikiData/WD~mazindol,255680]]'
@@ -12,8 +20,12 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~benzphetamine,3322838]]'
 - '[[_Standards/WikiData/WD~chlorphentermine,5103230]]'
 - '[[_Standards/WikiData/WD~Dirlotapide,5280905]]'
-- "[[_Standards/WikiData/WD~lorcaserin_hydrochloride,27888442]]"
-- "[[_Standards/WikiData/WD~weight_loss_treatment,110495073]]"
+- '[[_Standards/WikiData/WD~lorcaserin_hydrochloride,27888442]]'
+- '[[_Standards/WikiData/WD~weight_loss_treatment,110495073]]'
+exact_match:
+- "http://identifiers.org/doid/DOID:9970"
+- "http://purl.obolibrary.org/obo/DOID_9970"
+- "http://purl.obolibrary.org/obo/HP_0001513"
 genetic_association:
 - '[[_Standards/WikiData/WD~DYNC1I1,248215]]'
 - '[[_Standards/WikiData/WD~ECE1,1340834]]'
@@ -378,46 +390,34 @@ genetic_association:
 - '[[_Standards/WikiData/WD~LGALS17A,20785768]]'
 - '[[_Standards/WikiData/WD~PLPPR5,20970098]]'
 - '[[_Standards/WikiData/WD~GMDS,20970198]]'
-contributing_factor_of: "[[_Standards/WikiData/WD~cardiovascular_disease,389735]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-instance_of:
-- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-- "[[_Standards/WikiData/WD~health_risk,87075524]]"
-- "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-- "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-subclass_of:
-- '[[_Standards/WikiData/WD~overnutrition,16956975]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~obesity_management,69021383]]"
+GitHub_topic: obesity
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~obesity_management,69021383]]'
+has_id_wikidata: Q12174
+health_specialty: '[[_Standards/WikiData/WD~endocrinology,162606]]'
+ICD_10_CM: E66.9
+ICD_9_CM: 278.00
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Q12174%20noun%205364%20ccAnaFelix%20obesity.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Obesity-waist%20circumference.svg"
-SNS_Info_Saúde: doencas-cronicas/obesidade
+instance_of:
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~health_risk,87075524]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+IPTC_NewsCode: mediatopic/20000460
+Krugosvet_article: medicina/OZHIRENIE.html
 MeSH_tree_code:
 - C18.654.726.750.500
 - C23.888.144.699.500
-DiseasesDB: 9099
-Commons_category: Obesity
-U_S_National_Archives_Identifier: 10644509
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Q12174%20noun%205364%20ccAnaFelix%20obesity.svg"
-WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/obesity"
-exact_match:
-- "http://identifiers.org/doid/DOID:9970"
-- "http://purl.obolibrary.org/obo/DOID_9970"
-- "http://purl.obolibrary.org/obo/HP_0001513"
-ICD_9_CM: 278.00
 OmegaWiki_Defined_Meaning: 512161
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+SNS_Info_Saúde: doencas-cronicas/obesidade
+subclass_of:
+- '[[_Standards/WikiData/WD~overnutrition,16956975]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 UMLS_CUI: C0028754
-ICD_10_CM: E66.9
+U_S_National_Archives_Identifier: 10644509
 Wolfram_Language_entity_code: "Entity[\"Disease\", \"Obesity\"]"
-IPTC_NewsCode: mediatopic/20000460
-Krugosvet_article: medicina/OZHIRENIE.html
-GitHub_topic: obesity
+WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/obesity"
 ---
 
 ## #has_/text_of_/abstract 

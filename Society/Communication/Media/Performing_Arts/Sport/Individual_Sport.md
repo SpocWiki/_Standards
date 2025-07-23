@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q2755547
+﻿---
 aliases:
-  - individual sport
+- "individual sport"
+has_id_wikidata: Q2755547
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: skull
-version: "2.0"
-tagNames:
-  - class/Cemetery
-  - class/Thing/Place/CivicStructure/Cemetery
-  - is_a_/Cemetery
-  - schema-org/Cemetery
-tags:
-  - class/FileClass
-  - class/Cemetery
-  - is_a_/Cemetery
-  - class/Thing/Place/CivicStructure/Cemetery
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields: []
+icon: skull
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Cemetery
+- class/Thing/Place/CivicStructure/Cemetery
+- is_a_/Cemetery
+- schema-org/Cemetery
+tags:
+- class/FileClass
+- class/Cemetery
+- is_a_/Cemetery
+- class/Thing/Place/CivicStructure/Cemetery
+version: 2.0
 ---
 
 # Cemetery

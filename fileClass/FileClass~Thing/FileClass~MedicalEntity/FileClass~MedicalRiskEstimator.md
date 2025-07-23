@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalRiskEstimator
-  - class/Thing/MedicalEntity/MedicalRiskEstimator
-  - is_a_/MedicalRiskEstimator
-  - schema-org/MedicalRiskEstimator
-tags:
-  - class/FileClass
-  - class/MedicalRiskEstimator
-  - is_a_/MedicalRiskEstimator
-  - class/Thing/MedicalEntity/MedicalRiskEstimator
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: LFbt9w
-    name: EstimatesRiskOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
-  - id: oHVIky
-    name: IncludedRiskFactor
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')
-    type: MultiFile
-    path: ""
+- id: LFbt9w
+  name: EstimatesRiskOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+- id: oHVIky
+  name: IncludedRiskFactor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalRiskEstimator
+- class/Thing/MedicalEntity/MedicalRiskEstimator
+- is_a_/MedicalRiskEstimator
+- schema-org/MedicalRiskEstimator
+tags:
+- class/FileClass
+- class/MedicalRiskEstimator
+- is_a_/MedicalRiskEstimator
+- class/Thing/MedicalEntity/MedicalRiskEstimator
+version: 2.0
 ---
 
 # MedicalRiskEstimator

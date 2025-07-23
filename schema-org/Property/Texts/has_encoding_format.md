@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_encoding_format
-linkTitle: has_text_of_encoding_format
-
-keywords: [encoding, format]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: fileFormat
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - encoding-format
 - encoding_format
 - encodingFormat
 - has_text_of_encoding_format
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- encoding
+- format
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_encoding_format
+publish: true
+publishDate: 
+supersedes: fileFormat
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_encoding_format
+type: Pred_Text
 ---
 
 Predicate to describe the media type or MIME type of a [[CreativeWork]] or [[MediaObject]].

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_product_model Class
-linkTitle: is_a_product_model Class
-
-keywords: [product_model]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - product-model
 - product_model
 - ProductModel
 - is_a_product_model
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- product_model
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_product_model Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_product_model Class"
+type: Type
 ---
 
 Class of all product_models.

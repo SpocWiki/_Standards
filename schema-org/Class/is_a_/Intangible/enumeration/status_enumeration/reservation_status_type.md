@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_reservation_status_type Class
-linkTitle: is_a_reservation_status_type Class
-
-keywords: [reservation_status_type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - reservation-status-type
 - reservation_status_type
 - ReservationStatusType
 - is_a_reservation_status_type
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- reservation_status_type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_reservation_status_type Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_reservation_status_type Class"
+type: Type
 ---
 
 Class of all reservation_status_types.

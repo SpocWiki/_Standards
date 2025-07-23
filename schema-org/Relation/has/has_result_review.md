@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_result_review
-
-linkTitle: has_result_review
-keywords: [result, review]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - result-review
 - result_review
 - resultReview
 - has_result_review
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- result
+- review
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_result_review
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_result_review
+type: Predi_Relation
 ---
 
 Use it like this: 

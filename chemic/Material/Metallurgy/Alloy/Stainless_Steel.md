@@ -1,33 +1,33 @@
----
-has_id_wikidata: Q172587
+﻿---
 aliases:
 - "Stainless steel"
 - inox
 - "rustless steel"
 - "corrosion-resistant steel"
 - CRES
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Harry_Brearley,470651]]"
-subclass_of: "[[_Standards/WikiData/WD~alloy_steel,1070521]]"
-different_from: "[[_Standards/WikiData/WD~high-quality_steel,1283378]]"
-has_characteristic: "[[_Standards/WikiData/WD~corrosion_resistance,4234269]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_stainless_steel,90563588]]"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-rostfreier%20Stahl.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stainless%20Steel%20Seamless%20Pipe%20and%20Tube.jpg"
 CAS_Registry_Number: 12597-68-1
+Commons_category: "Stainless steel"
+different_from: '[[_Standards/WikiData/WD~high-quality_steel,1283378]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Harry_Brearley,470651]]'
 EC_number: 603-108-1
-subreddit: StainlessSteel
-UMLS_CUI: C0038126
+hardness: 250
+has_characteristic: '[[_Standards/WikiData/WD~corrosion_resistance,4234269]]'
+has_id_wikidata: Q172587
+has_part_s_:
+- '[[_Standards/WikiData/WD~chromium,725]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_stainless_steel,90563588]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stainless%20Steel%20Seamless%20Pipe%20and%20Tube.jpg"
 MeSH_tree_code:
 - D01.490.800.900
 - D01.552.033.847.681
 - D25.058.807.681
 - J01.637.051.058.807.681
-time_of_discovery_or_invention: "1872"
-has_part_s_:
-- '[[_Standards/WikiData/WD~chromium,725]]'
-- '[[_Standards/WikiData/WD~steel,11427]]'
-hardness: 250
-Commons_category: "Stainless steel"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-rostfreier%20Stahl.wav"
+subclass_of: '[[_Standards/WikiData/WD~alloy_steel,1070521]]'
+subreddit: StainlessSteel
+time_of_discovery_or_invention: 1872
+UMLS_CUI: C0038126
 ---
 
 ## #has_/text_of_/abstract 

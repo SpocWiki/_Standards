@@ -1,35 +1,34 @@
 ---
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 27046
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: U.S. Outlying Islands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
-- U.S. Outlying Islands
-- United States Minor Outlying Islands
-- Islas menores alejadas de Estados Unidos
-- Îles mineures éloignées des États-Unis
-- نائية التابعة للولايات المتحدة
+- "U.S. Outlying Islands"
+- "United States Minor Outlying Islands"
+- "Islas menores alejadas de Estados Unidos"
+- "Îles mineures éloignées des États-Unis"
+- "نائية التابعة للولايات المتحدة"
 - 美国本土外小岛屿
-- Внешние малые острова Coeдинeнныx Штaтoв
+- "Внешние малые острова Coeдинeнныx Штaтoв"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en-UM
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27046
+tags:
+- geo/Country
+title: "U.S. Outlying Islands"
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: USD ]
 [	ISO4217-currency_name	 :: US Dollar ]

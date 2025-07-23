@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_auto_repair Class
-linkTitle: is_an_auto_repair Class
-
-keywords: [auto_repair]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - auto-repair
 - auto_repair
 - AutoRepair
 - is_an_auto_repair
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- auto_repair
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_auto_repair Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_auto_repair Class"
+type: Type
 ---
 
 Class of all auto_repairs.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_reservation_pending Class
-linkTitle: is_a_reservation_pending Class
-
-keywords: [reservation_pending]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReservationStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - reservation-pending
 - reservation_pending
 - ReservationPending
 - is_a_reservation_pending
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReservationStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- reservation_pending
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_reservation_pending Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_reservation_pending Class"
+type: Type
 ---
 
 Class of all reservation_pendings.

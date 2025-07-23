@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_secondary_prevention
-
-linkTitle: has_secondary_prevention
-keywords: [secondary, prevention]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - secondary-prevention
 - secondary_prevention
 - secondaryPrevention
 - has_secondary_prevention
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- secondary
+- prevention
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_secondary_prevention
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_secondary_prevention
+type: Predi_Relation
 ---
 
 Use it like this: 

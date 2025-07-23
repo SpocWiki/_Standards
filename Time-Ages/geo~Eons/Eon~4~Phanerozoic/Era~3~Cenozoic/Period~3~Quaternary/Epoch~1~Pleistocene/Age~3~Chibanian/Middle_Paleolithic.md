@@ -1,9 +1,10 @@
----
+﻿---
 aliases:
-  - Mittelpaläolithikum
-  - Middle Palaeolithic
-  - Middle Paleolithic
+- Mittelpaläolithikum
+- "Middle Palaeolithic"
+- "Middle Paleolithic"
 ---
+
 ﻿# [[Middle_Paleolithic]] 
 
 #is_a_/time_/Culture 

@@ -1,8 +1,8 @@
----
-title: Archaeognatha
+﻿---
 aliases:
-  - Archaeognatha
-  - Bristetail
+- Archaeognatha
+- Bristetail
+title: Archaeognatha
 ---
 
 # [[Archaeognatha]] 

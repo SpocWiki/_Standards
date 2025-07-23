@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_music_composition Class
-linkTitle: is_a_music_composition Class
-
-keywords: [music_composition]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - music-composition
 - music_composition
 - MusicComposition
 - is_a_music_composition
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- music_composition
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_music_composition Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_music_composition Class"
+type: Type
 ---
 
 Class of all music_compositions.

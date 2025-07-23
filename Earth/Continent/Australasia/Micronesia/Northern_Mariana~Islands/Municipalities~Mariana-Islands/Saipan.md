@@ -1,37 +1,38 @@
----
-location: [15.18333,145.75] 
-mapzoom: [7,12] 
-mapmarker: city 
-title: Saipan
-type: 
-- City
-- geo-Region
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+﻿---
+aliases:
+- Saipan
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-draft: false
-confidential: public
+keywords: 
+Languages:
+- de
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 15.18333
+- 145.75
+mapmarker: city
+mapzoom:
+- 7
+- 12
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
 SpocWebEntityId: 36738
-
 tags:
 - geo/City
 - geo/Country/Region
-aliases:
-- Saipan
-
-Languages:
-- de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+title: Saipan
+type:
+- City
+- geo-Region
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::145.75] 

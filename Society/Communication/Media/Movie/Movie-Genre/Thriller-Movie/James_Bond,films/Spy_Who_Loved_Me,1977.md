@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - The Spy Who Loved Me
+- "The Spy Who Loved Me"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_price_type_enumeration Class
-linkTitle: is_a_price_type_enumeration Class
-
-keywords: [price_type_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - price-type-enumeration
 - price_type_enumeration
 - PriceTypeEnumeration
 - is_a_price_type_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- price_type_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_price_type_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_price_type_enumeration Class"
+type: Type
 ---
 
 Class of all price_type_enumerations.

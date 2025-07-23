@@ -1,8 +1,8 @@
----
-title: Parastacidae
+﻿---
 aliases:
-  - Parastacoidea
-  - Parastacidae
+- Parastacoidea
+- Parastacidae
+title: Parastacidae
 ---
 
 ## [[Parastacoidea]] 

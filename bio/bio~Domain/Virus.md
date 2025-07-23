@@ -1,86 +1,85 @@
----
-title: is_a_virus Class
+﻿---
 aliases:
-  - Virus
-  - Viruses
-  - virus
-  - is_a_virus
-has_id_wikidata: Q808
-license: CC BY-SA 4.0
+- Virus
+- Viruses
+- virus
+- is_a_virus
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Virus_Classification_and_Nomenclature,14920640]]'
+Commons_category: Viruses
+Commons_gallery: Virus
 confidential: public
+cssclasses:
+- Type
+described_by_source:
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Virus,90485223]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
+Dewey_Decimal_Classification:
+- 571.992
+- 579.2
+- 616.9101
+different_from: '[[_Standards/WikiData/WD~computer_virus,485]]'
+draft: false
+EntitySchema_for_this_class: E170
+enumerationtype: InfectiousAgentClass
+expiryDate: 
+facet_of: '[[_Standards/WikiData/WD~virology,7215]]'
+hashtag: virus
+has_characteristic:
+- '[[_Standards/WikiData/WD~subspecies,68947]]'
+- '[[_Standards/WikiData/WD~genotype,106016]]'
+- '[[_Standards/WikiData/WD~serotype,848328]]'
+- '[[_Standards/WikiData/WD~strain,855769]]'
+- '[[_Standards/WikiData/WD~viral_life_cycle,3241872]]'
+- '[[_Standards/WikiData/WD~scientific_name,10753560]]'
+- '[[_Standards/WikiData/WD~genetic_variant,104795308]]'
+- '[[_Standards/WikiData/WD~virus_name,125481078]]'
+- '[[_Standards/WikiData/WD~isolate,125482110]]'
+- '[[_Standards/WikiData/WD~species,7432]]'
+has_effect:
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~viral_pneumonia,2603200]]'
+has_id_wikidata: Q808
+has_part_s_:
+- '[[_Standards/WikiData/WD~viral_capsid,830465]]'
+- '[[_Standards/WikiData/WD~viral_genome,22329087]]'
+has_use: '[[_Standards/WikiData/WD~virovory,115941943]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rotavirus%20Reconstruction.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-linkTitle: is_a_virus Class
 keywords:
-  - virus
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-enumerationtype: InfectiousAgentClass
-tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
+- virus
 Krugosvet_article: nauka_i_tehnika/biologiya/VIRUSI.html
-has_characteristic:
-  - "[[_Standards/WikiData/WD~subspecies,68947]]"
-  - "[[_Standards/WikiData/WD~genotype,106016]]"
-  - "[[_Standards/WikiData/WD~serotype,848328]]"
-  - "[[_Standards/WikiData/WD~strain,855769]]"
-  - "[[_Standards/WikiData/WD~viral_life_cycle,3241872]]"
-  - "[[_Standards/WikiData/WD~scientific_name,10753560]]"
-  - "[[_Standards/WikiData/WD~genetic_variant,104795308]]"
-  - "[[_Standards/WikiData/WD~virus_name,125481078]]"
-  - "[[_Standards/WikiData/WD~isolate,125482110]]"
-  - "[[_Standards/WikiData/WD~species,7432]]"
-taxon_rank: "[[_Standards/WikiData/WD~domain,146481]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~pathogen,170065]]"
-  - "[[_Standards/WikiData/WD~microorganism,39833]]"
-has_part_s_:
-  - "[[_Standards/WikiData/WD~viral_capsid,830465]]"
-  - "[[_Standards/WikiData/WD~viral_genome,22329087]]"
-has_effect:
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~viral_pneumonia,2603200]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Virus,90485223]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
-parent_taxon: "[[_Standards/WikiData/WD~Biota,2382443]]"
-topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Virus_topics,10970373]]"
-  - "[[_Standards/WikiData/WD~Template_Virus_navs,14402738]]"
-  - "[[_Standards/WikiData/WD~Template_Viruses,14465544]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Virus_Classification_and_Nomenclature,14920640]]"
-has_use: "[[_Standards/WikiData/WD~virovory,115941943]]"
-different_from: "[[_Standards/WikiData/WD~computer_virus,485]]"
-studied_by: "[[_Standards/WikiData/WD~virology,7215]]"
-facet_of: "[[_Standards/WikiData/WD~virology,7215]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-OmegaWiki_Defined_Meaning: "3971"
-hashtag: virus
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Rotavirus%20Reconstruction.jpg
-Commons_gallery: Virus
-taxon_name: Virus
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_virus Class"
 MeSH_tree_code: B04
-schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Baculoviridae%20virion.jpg
-Dewey_Decimal_Classification:
-  - "571.992"
-  - "579.2"
-  - "616.9101"
-Commons_category: Viruses
-spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8E%D5%AB%D6%80%D5%B8%D6%82%D5%BD%D5%B6%D5%A5%D6%80%20%28Virus%29.ogg
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Was%20sind%20Viren%20%28CC%20BY%204.0%29%20%28720p%29.webm
-EntitySchema_for_this_class: E170
+OmegaWiki_Defined_Meaning: 3971
+parent_taxon: '[[_Standards/WikiData/WD~Biota,2382443]]'
+publish: true
+publishDate: 
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Baculoviridae%20virion.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8E%D5%AB%D6%80%D5%B8%D6%82%D5%BD%D5%B6%D5%A5%D6%80%20%28Virus%29.ogg"
+studied_by: '[[_Standards/WikiData/WD~virology,7215]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~pathogen,170065]]'
+- '[[_Standards/WikiData/WD~microorganism,39833]]'
+tags:
+- class/Class
+- schema-org/Class
+- class/infectious_agent
+taxon_name: Virus
+taxon_rank: '[[_Standards/WikiData/WD~domain,146481]]'
+title: "is_a_virus Class"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Virus_topics,10970373]]'
+- '[[_Standards/WikiData/WD~Template_Virus_navs,14402738]]'
+- '[[_Standards/WikiData/WD~Template_Viruses,14465544]]'
+type: Type
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Was%20sind%20Viren%20%28CC%20BY%204.0%29%20%28720p%29.webm"
 ---
-
 
 # [[Virus]] 
 

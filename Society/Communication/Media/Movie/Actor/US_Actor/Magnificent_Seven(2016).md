@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Magnificent Seven (2016)
+- "Magnificent Seven (2016)"
 ---
-
 
 ## #has_/text_of_/abstract 
 

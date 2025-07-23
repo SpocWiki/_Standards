@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_pathology_test Class
-linkTitle: is_a_pathology_test Class
-
-keywords: [pathology_test]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - pathology-test
 - pathology_test
 - PathologyTest
 - is_a_pathology_test
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pathology_test
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_pathology_test Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_pathology_test Class"
+type: Type
 ---
 
 Class of all pathology_tests.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_golf_course Class
-linkTitle: is_a_golf_course Class
-
-keywords: [golf_course]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - golf-course
 - golf_course
 - GolfCourse
 - is_a_golf_course
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- golf_course
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_golf_course Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_golf_course Class"
+type: Type
 ---
 
 Class of all golf_courses.

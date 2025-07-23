@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_message_attachment
-
-linkTitle: has_message_attachment
-keywords: [message, attachment]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - message-attachment
 - message_attachment
 - messageAttachment
 - has_message_attachment
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- message
+- attachment
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_message_attachment
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_message_attachment
+type: Predi_Relation
 ---
 
 Use it like this: 

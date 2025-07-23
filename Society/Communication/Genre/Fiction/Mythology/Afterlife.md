@@ -1,30 +1,30 @@
----
-has_id_wikidata: Q623282
-including:
-  - "[[_Standards/WikiData/WD~Tartarus,101322]]"
-  - "[[_Standards/WikiData/WD~underworld,154365]]"
-  - "[[_Standards/WikiData/WD~Elysium,157128]]"
-  - "[[_Standards/WikiData/WD~Niflheim,176062]]"
-  - "[[_Standards/WikiData/WD~Valhalla,177860]]"
-  - "[[_Standards/WikiData/WD~Greek_underworld,1521549]]"
-  - "[[_Standards/WikiData/WD~heaven,4489450]]"
-  - "[[_Standards/WikiData/WD~Sheol,31780]]"
-facet_of:
-  - "[[_Standards/WikiData/WD~reincarnation,128593]]"
-  - "[[_Standards/WikiData/WD~immortality,193942]]"
-subclass_of: "[[_Standards/WikiData/WD~mythical_location,3238337]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-instance_of: "[[_Standards/WikiData/WD~biblical_concept,30149195]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q95622972,95622972]]"
-opposite_of: "[[_Standards/WikiData/WD~previous_life,115203478]]"
-PhilPapers_topic: afterlife
+﻿---
 Commons_category: Afterlife
-OmegaWiki_Defined_Meaning: "159150"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous-Paradise%20of%20Bhaishajyaguru.jpg
-P8189: "987007555557005171"
-spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Afterlife%20%28spoken%20by%20AI%20voice%29.mp3
+described_by_source:
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+facet_of:
+- '[[_Standards/WikiData/WD~reincarnation,128593]]'
+- '[[_Standards/WikiData/WD~immortality,193942]]'
+has_id_wikidata: Q623282
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous-Paradise%20of%20Bhaishajyaguru.jpg"
+including:
+- '[[_Standards/WikiData/WD~Tartarus,101322]]'
+- '[[_Standards/WikiData/WD~underworld,154365]]'
+- '[[_Standards/WikiData/WD~Elysium,157128]]'
+- '[[_Standards/WikiData/WD~Niflheim,176062]]'
+- '[[_Standards/WikiData/WD~Valhalla,177860]]'
+- '[[_Standards/WikiData/WD~Greek_underworld,1521549]]'
+- '[[_Standards/WikiData/WD~heaven,4489450]]'
+- '[[_Standards/WikiData/WD~Sheol,31780]]'
+instance_of: '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
+OmegaWiki_Defined_Meaning: 159150
+opposite_of: '[[_Standards/WikiData/WD~previous_life,115203478]]'
+P8189: 987007555557005171
+PhilPapers_topic: afterlife
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Afterlife%20%28spoken%20by%20AI%20voice%29.mp3"
+subclass_of: '[[_Standards/WikiData/WD~mythical_location,3238337]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q95622972,95622972]]'
 ---
 
 # [[Afterlife]] 

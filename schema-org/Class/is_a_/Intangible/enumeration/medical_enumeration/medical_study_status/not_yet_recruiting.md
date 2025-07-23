@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_not_yet_recruiting Class
-linkTitle: is_a_not_yet_recruiting Class
-
-keywords: [not_yet_recruiting]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalStudyStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - not-yet-recruiting
 - not_yet_recruiting
 - NotYetRecruiting
 - is_a_not_yet_recruiting
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalStudyStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- not_yet_recruiting
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_not_yet_recruiting Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_not_yet_recruiting Class"
+type: Type
 ---
 
 Class of all not_yet_recruitings.

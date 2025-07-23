@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_recorded_at
-
-linkTitle: is_recorded_at
-keywords: [recorded, at]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - recorded-at
 - recorded_at
 - recordedAt
 - is_recorded_at
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- recorded
+- at
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_recorded_at
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_recorded_at
+type: Predi_Relation
 ---
 
 Use it like this: 

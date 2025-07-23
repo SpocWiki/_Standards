@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_hyper_toc_entry Class
-linkTitle: is_a_hyper_toc_entry Class
-
-keywords: [hyper_toc_entry]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - hyper-toc-entry
 - hyper_toc_entry
 - HyperTocEntry
 - is_a_hyper_toc_entry
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hyper_toc_entry
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_hyper_toc_entry Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_hyper_toc_entry Class"
+type: Type
 ---
 
 Class of all hyper_toc_entrys.

@@ -1,107 +1,107 @@
----
+﻿---
 aliases:
 - "Peter the Great"
 - "Pyotr I Alekseyevich"
-has_id_wikidata: Q8479
-BHCL_UUID: 47bdd968-a65b-4921-a2e8-17db139bb1aa
-Krugosvet_article: istoriya/PETR_I_ALEKSEEVICH.html
-Libris_URI: ljx01dj41c527fr
-Swedish_Open_Cultural_Heritage_URI: LSH/agents/23708
-military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 award_received:
-- "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]"
-- "[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]"
-- "[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]"
-- "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,65808776]]"
-family: "[[_Standards/WikiData/WD~House_of_Romanov,112707]]"
-child:
-- "[[_Standards/WikiData/WD~Elizabeth_I_of_Russia,130752]]"
-- "[[_Standards/WikiData/WD~Anna_Petrovna_of_Russia,153319]]"
-- "[[_Standards/WikiData/WD~Alexei_Petrovich,_Tsarevich_of_Russia,313319]]"
-- "[[_Standards/WikiData/WD~Natalia_Petrovna,2839457]]"
-- "[[_Standards/WikiData/WD~Natalia_Maria_Petrovna,3825468]]"
-- "[[_Standards/WikiData/WD~Pyotr_Petrovich,4386209]]"
-- "[[_Standards/WikiData/WD~Alexander_Petrovich,26299695]]"
-- "[[_Standards/WikiData/WD~Pavel_Petrovich_Romanov,75385478]]"
-- "[[_Standards/WikiData/WD~Katherine_Petrovna_Romanov,75385479]]"
-- "[[_Standards/WikiData/WD~Margaret_Petrovna_Romanov,75385482]]"
-- "[[_Standards/WikiData/WD~Paul_Petrovich_Romanov,75385485]]"
+- '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]'
+- '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,65808776]]'
+BHCL_UUID: 47bdd968-a65b-4921-a2e8-17db139bb1aa
+birth_name: "Романов Пётр Алексеевич"
 cause_of_death: '[[_Standards/WikiData/WD~gangrene,168805]]'
-sibling:
-- "[[_Standards/WikiData/WD~Ivan_V_of_Russia,183698]]"
-- "[[_Standards/WikiData/WD~Feodor_III_of_Russia,184868]]"
-- "[[_Standards/WikiData/WD~Sophia_Alekseyevna_of_Russia,233987]]"
-- "[[_Standards/WikiData/WD~Tsarevich_Alexei_Alexeyevich_of_Russia,1961066]]"
-- "[[_Standards/WikiData/WD~Natalya_Alexeevna_of_Russia,1996626]]"
-- "[[_Standards/WikiData/WD~Tsarevich_Dmitry_Alexeyevich_of_Russia,4162882]]"
-- "[[_Standards/WikiData/WD~Tsarevna_Yevdokia_Alekseyevna_of_Russia,4172943]]"
-- "[[_Standards/WikiData/WD~Catherine_Alekseyevna_of_Russia,4174282]]"
-- "[[_Standards/WikiData/WD~Maria_Alekseyevna_of_Russia,4281643]]"
-- "[[_Standards/WikiData/WD~Marfa_Alekseyevna_of_Russia,4283021]]"
-- "[[_Standards/WikiData/WD~Tsarevich_Simeon_Alexeyevich_of_Russia,4419615]]"
-- "[[_Standards/WikiData/WD~Feodosia_Alekseyevna_of_Russia,4482828]]"
-country_of_citizenship:
-- "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
-- "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-member_of: "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-spouse:
-- "[[_Standards/WikiData/WD~Eudoxia_Lopukhina,240145]]"
-- "[[_Standards/WikiData/WD~Catherine_I_of_Russia,15208]]"
-mother: "[[_Standards/WikiData/WD~Natalya_Naryshkina,241797]]"
-occupation:
-- '[[_Standards/WikiData/WD~statesperson,372436]]'
-- '[[_Standards/WikiData/WD~ruler,1097498]]'
-different_from:
-- "[[_Standards/WikiData/WD~Peter_I,397846]]"
-- "[[_Standards/WikiData/WD~Peter_the_First,3385854]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
-- "[[_Standards/WikiData/WD~Outstanding_personalities_in_Dresden_and_their_flats,116033998]]"
-place_of_burial: "[[_Standards/WikiData/WD~Peter_and_Paul_Cathedral,736587]]"
-field_of_work: "[[_Standards/WikiData/WD~politics_of_Russia,1155561]]"
-given_name: '[[_Standards/WikiData/WD~Pyotr,1225705]]'
-noble_title: "[[_Standards/WikiData/WD~Emperor_of_all_the_Russias,2618625]]"
-position_held:
-- "[[_Standards/WikiData/WD~Emperor_of_all_the_Russias,2618625]]"
-- "[[_Standards/WikiData/WD~Tsar_of_All_Russia,12370489]]"
-religion_or_worldview:
-- "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-- "[[_Standards/WikiData/WD~Russian_Orthodox_Church,60995]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-owner_of: "[[_Standards/WikiData/WD~Kadriorg_Palace,7722735]]"
-family_name: '[[_Standards/WikiData/WD~Romanov,10854295]]'
-present_in_work: "[[_Standards/WikiData/WD~Civilization_VI,24050047]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
+child:
+- '[[_Standards/WikiData/WD~Elizabeth_I_of_Russia,130752]]'
+- '[[_Standards/WikiData/WD~Anna_Petrovna_of_Russia,153319]]'
+- '[[_Standards/WikiData/WD~Alexei_Petrovich,_Tsarevich_of_Russia,313319]]'
+- '[[_Standards/WikiData/WD~Natalia_Petrovna,2839457]]'
+- '[[_Standards/WikiData/WD~Natalia_Maria_Petrovna,3825468]]'
+- '[[_Standards/WikiData/WD~Pyotr_Petrovich,4386209]]'
+- '[[_Standards/WikiData/WD~Alexander_Petrovich,26299695]]'
+- '[[_Standards/WikiData/WD~Pavel_Petrovich_Romanov,75385478]]'
+- '[[_Standards/WikiData/WD~Katherine_Petrovna_Romanov,75385479]]'
+- '[[_Standards/WikiData/WD~Margaret_Petrovna_Romanov,75385482]]'
+- '[[_Standards/WikiData/WD~Paul_Petrovich_Romanov,75385485]]'
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/CoA%20of%20Russian%20Empire%20%281721%29.svg"
+Commons_category: "Peter I of Russia"
 Commons_gallery: "Пётр Первый"
+country_of_citizenship:
+- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+date_of_birth: 1672-06-09
+date_of_death: 1725-02-08
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Outstanding_personalities_in_Dresden_and_their_flats,116033998]]'
+different_from:
+- '[[_Standards/WikiData/WD~Peter_I,397846]]'
+- '[[_Standards/WikiData/WD~Peter_the_First,3385854]]'
+family: '[[_Standards/WikiData/WD~House_of_Romanov,112707]]'
+family_name: '[[_Standards/WikiData/WD~Romanov,10854295]]'
+father: '[[_Standards/WikiData/WD~Alexei_I_of_Russia,7731]]'
+field_of_work: '[[_Standards/WikiData/WD~politics_of_Russia,1155561]]'
+given_name: '[[_Standards/WikiData/WD~Pyotr,1225705]]'
+has_id_wikidata: Q8479
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inconnu%20d%27apr%C3%A8s%20J.-M.%20Nattier%2C%20Portrait%20de%20Pierre%20Ier%20%28mus%C3%A9e%20de%20l%E2%80%99Ermitage%29.jpg"
+Image_Archive_Herder_Institute: Q8479
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000121263465
-date_of_death: "1725-02-08"
-place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
-place_of_death: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-father: "[[_Standards/WikiData/WD~Alexei_I_of_Russia,7731]]"
+Krugosvet_article: istoriya/PETR_I_ALEKSEEVICH.html
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Russian,7737]]'
-native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+Libris_URI: ljx01dj41c527fr
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 medical_condition:
 - '[[_Standards/WikiData/WD~alcoholism,15326]]'
 - '[[_Standards/WikiData/WD~asthma,35869]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/CoA%20of%20Russian%20Empire%20%281721%29.svg"
+member_of: '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 monogram: "http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Monogram%20of%20Tsar%20Peter%20I%20%22The%20Great%22%20of%20Russia%2C%20Variant%202.svg"
-signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20the%20Great%20Signature.svg"
-Commons_category: "Peter I of Russia"
-Royal_Academy_new_identifier: peter-i
-Image_Archive_Herder_Institute: Q8479
+mother: '[[_Standards/WikiData/WD~Natalya_Naryshkina,241797]]'
 name_in_native_language: "Пётр I"
-birth_name: "Романов Пётр Алексеевич"
-date_of_birth: "1672-06-09"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inconnu%20d%27apr%C3%A8s%20J.-M.%20Nattier%2C%20Portrait%20de%20Pierre%20Ier%20%28mus%C3%A9e%20de%20l%E2%80%99Ermitage%29.jpg"
+native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
+noble_title: '[[_Standards/WikiData/WD~Emperor_of_all_the_Russias,2618625]]'
+occupation:
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+owner_of: '[[_Standards/WikiData/WD~Kadriorg_Palace,7722735]]'
+place_of_birth: '[[_Standards/WikiData/WD~Moscow,649]]'
+place_of_burial: '[[_Standards/WikiData/WD~Peter_and_Paul_Cathedral,736587]]'
+place_of_death: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+position_held:
+- '[[_Standards/WikiData/WD~Emperor_of_all_the_Russias,2618625]]'
+- '[[_Standards/WikiData/WD~Tsar_of_All_Russia,12370489]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_VI,24050047]]'
+religion_or_worldview:
+- '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+- '[[_Standards/WikiData/WD~Russian_Orthodox_Church,60995]]'
+Royal_Academy_new_identifier: peter-i
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling:
+- '[[_Standards/WikiData/WD~Ivan_V_of_Russia,183698]]'
+- '[[_Standards/WikiData/WD~Feodor_III_of_Russia,184868]]'
+- '[[_Standards/WikiData/WD~Sophia_Alekseyevna_of_Russia,233987]]'
+- '[[_Standards/WikiData/WD~Tsarevich_Alexei_Alexeyevich_of_Russia,1961066]]'
+- '[[_Standards/WikiData/WD~Natalya_Alexeevna_of_Russia,1996626]]'
+- '[[_Standards/WikiData/WD~Tsarevich_Dmitry_Alexeyevich_of_Russia,4162882]]'
+- '[[_Standards/WikiData/WD~Tsarevna_Yevdokia_Alekseyevna_of_Russia,4172943]]'
+- '[[_Standards/WikiData/WD~Catherine_Alekseyevna_of_Russia,4174282]]'
+- '[[_Standards/WikiData/WD~Maria_Alekseyevna_of_Russia,4281643]]'
+- '[[_Standards/WikiData/WD~Marfa_Alekseyevna_of_Russia,4283021]]'
+- '[[_Standards/WikiData/WD~Tsarevich_Simeon_Alexeyevich_of_Russia,4419615]]'
+- '[[_Standards/WikiData/WD~Feodosia_Alekseyevna_of_Russia,4482828]]'
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20the%20Great%20Signature.svg"
+spouse:
+- '[[_Standards/WikiData/WD~Eudoxia_Lopukhina,240145]]'
+- '[[_Standards/WikiData/WD~Catherine_I_of_Russia,15208]]'
+Swedish_Open_Cultural_Heritage_URI: LSH/agents/23708
+topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
 ---
 
 ## #has_/text_of_/abstract 

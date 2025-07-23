@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Supernovae
-  - Supernovas
+- Supernovae
+- Supernovas
 ---
 
 ## #has_/text_of_/abstract 

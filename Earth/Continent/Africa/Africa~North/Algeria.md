@@ -29,8 +29,8 @@ aliases:
   - الجزائر
   - 阿尔及利亚
   - Алжир
-- "the People's Democratic Republic of Algeria"
-- "la República Argelina Democrática y Popular"
+  - "the People's Democratic Republic of Algeria"
+  - "la República Argelina Democrática y Popular"
 Languages:
   - ar-DZ
 flag: "[[_Standards/WikiData/WD~flag_of_Algeria,83392]]"
@@ -243,8 +243,8 @@ demonym:
   - الجزایری
   - Algérien
   - Algérienne
-- "אלג'יראי"
-- "אלג'יראית"
+  - "אלג'יראי"
+  - "אלג'יראית"
   - algériai
   - Aljeriano
   - algerina
@@ -346,7 +346,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alge
 ITU_letter_code: ALG
 IOC_country_code: ALG
 native_label:
-  - الجزائر
+- الجزائر
 - "الجمهورية الجزائرية الديمقراطية الشعبية"
 ISO_3166_1_alpha_3_code: DZA
 INSEE_countries_and_foreign_territories_code: 99352

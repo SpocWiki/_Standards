@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- additional-type
+- additional_type
+- additionalType
+- has_url_for_additional_type
+- "rdf:type"
+- rdf~Type
 confidential: public
+cssclasses:
+- Predicate
+- Url
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Url
-publish: true
-type: Predi_Url
-title: has_url_for_additional_type
-linkTitle: has_url_for_additional_type
 keywords:
-  - additional_type
+- additional_type
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_additional_type
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Property/Url
-aliases:
-  - additional-type
-  - additional_type
-  - additionalType
-  - has_url_for_additional_type
-  - rdf:type
-  - rdf~Type
+- schema-org/Property/Url
+title: has_url_for_additional_type
+type: Predi_Url
 ---
 
 Predicate to specify the Type/Class-Url of a Thing, equivalent to rdf:type.

@@ -1,9 +1,9 @@
----
-title: eudicots
+﻿---
 aliases:
-  - Eudicot
-  - Tricolpate 
-  - non-magnoliid dicot 
+- Eudicot
+- Tricolpate
+- "non-magnoliid dicot"
+title: eudicots
 ---
 
 # [[Eudicots]]

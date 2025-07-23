@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Ian Lancaster Fleming
-  - Ian Fleming
+- "Ian Lancaster Fleming"
+- "Ian Fleming"
 ---
-
 
 #has_/time_/started :: 1908-05-28
 #has_/time_/stopped  :: 1964-08-12 

@@ -1,44 +1,44 @@
----
+﻿---
 aliases:
-  - Holocene calendar
-  - Holocene Era
-  - Human Era
-  - Холоцен
-  - Holocén
-  - Holocæn
-  - Holozän
-  - Holoceno
-  - Holotseen
-  - Holoseeni
-  - Holocène
-  - holocén
-  - olocene
-  - 完新世
-  - Holocenas
-  - Holoceen
-  - Holocen
-  - Holocen
-  - Holocénico
-  - holocén
-  - holocen
-  - holocen
-  - 全新世
+- "Holocene calendar"
+- "Holocene Era"
+- "Human Era"
+- Холоцен
+- Holocén
+- Holocæn
+- Holozän
+- Holoceno
+- Holotseen
+- Holoseeni
+- Holocène
+- holocén
+- olocene
+- 完新世
+- Holocenas
+- Holoceen
+- Holocen
+- Holocen
+- Holocénico
+- holocén
+- holocen
+- holocen
+- 全新世
+Commons_category: Holocene
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_id_wikidata: Q25445
-instance of:
-  - "[[_Standards/WikiData/WD~series,312468]]"
-  - "[[_Standards/WikiData/WD~epoch,754897]]"
-named by: "[[_Standards/WikiData/WD~Paul_Gervais,433721]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-significant event: "[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]"
-part of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-start time: -9700-01-01
-sRGB color hex triplet: FEEBD2
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
-IPA transcription: /ˈhɒl.əsiːn/
-Commons category: Holocene
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~series,312468]]'
+- '[[_Standards/WikiData/WD~epoch,754897]]'
+IPA_transcription: /ˈhɒl.əsiːn/
+named_by: '[[_Standards/WikiData/WD~Paul_Gervais,433721]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+significant_event: '[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]'
+sRGB_color_hex_triplet: FEEBD2
+start_time: -9700-01-01
 ---
 
 # [[Epoch~2~Holocene]] 

@@ -1,19 +1,20 @@
----
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
+license: "CC BY-SA 4.0"
+mapmarker: city
+mapzoom:
+- 7
+- 12
+publish: true
 tags:
 - geo/City
-
-aliases:
-- 
+type: City
 ---
+
 location: [{{y}},{{x}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 

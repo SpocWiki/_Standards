@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_spatial_coverage
-linkTitle: has_location_spatial_coverage
-
-keywords: [spatial_coverage]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - spatial-coverage
 - spatial_coverage
 - spatialCoverage
 - has_location_spatial_coverage
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- spatial_coverage
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_spatial_coverage
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_spatial_coverage
+type: Pred_geo
 ---
 
 Predicate to describe the geo of CreativeWork.

@@ -100,35 +100,35 @@ nominal_GDP:
   - 4249234574
 UMLS_CUI: C0037063
 demonym:
-  - سيراليوني
-  - سيراليونيات
-  - سيراليونية
-  - سيراليونيين
+- سيراليوني
+- سيراليونيات
+- سيراليونية
+- سيراليونيين
 - "Siarra Leonach"
-  - سيراليوني
-  - سيراليونية
-  - سيراليونيون
-  - sierralleonés
-  - sierralleonesa
+- سيراليوني
+- سيراليونية
+- سيراليونيون
+- sierralleonés
+- sierralleonesa
 - "সিয়েরা লিয়নীয়"
-  - serralleonès
-  - serralleonesa
+- serralleonès
+- serralleonesa
 - "Sierra Leonean"
-  - sieraleonano
-  - Sierraléonais
-  - Sierraléonaise
+- sieraleonano
+- Sierraléonais
+- Sierraléonaise
 - "סיירה לאוני"
 - "סיירה לאונית"
 - "Sierra Leone-i"
-  - sierraleonese
-  - sierraleonesi
-  - sieraleonian
+- sierraleonese
+- sierraleonesi
+- sieraleonian
 - "Sierra Leoner"
-  - sierałeoneza
-  - sierałeoneze
-  - sierałeonezi
-  - sierałeonezo
-  - Sieraleonänan
+- sierałeoneza
+- sierałeoneze
+- sierałeonezi
+- sierałeonezo
+- Sieraleonänan
 MeSH_tree_code: Z01.058.290.190.725
 coordinates_of_northernmost_point: "Point(-11.5 10.0)"
 diplomatic_relation:

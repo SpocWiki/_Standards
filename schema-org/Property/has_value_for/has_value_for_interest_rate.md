@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_interest-rate
-linkTitle: has_interest-rate
-
-keywords: [interest-rate]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - interest_rate
 - interest-rate
 - interestRate
 - has_value_for_interest_rate
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- interest-rate
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_interest-rate
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_interest-rate
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of FinancialProduct.

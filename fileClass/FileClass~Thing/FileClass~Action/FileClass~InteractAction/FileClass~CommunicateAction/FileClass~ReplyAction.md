@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ReplyAction
-  - class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
-  - is_a_/ReplyAction
-  - schema-org/ReplyAction
-tags:
-  - class/FileClass
-  - class/ReplyAction
-  - is_a_/ReplyAction
-  - class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields:
-  - id: VAIXll
-    name: ResultComment
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
-    type: MultiFile
-    path: ""
+- id: VAIXll
+  name: ResultComment
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Comment')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ReplyAction
+- class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
+- is_a_/ReplyAction
+- schema-org/ReplyAction
+tags:
+- class/FileClass
+- class/ReplyAction
+- is_a_/ReplyAction
+- class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
+version: 2.0
 ---
 
 # ReplyAction

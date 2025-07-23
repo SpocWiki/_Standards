@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_sd_license
-
-linkTitle: has_sd_license
-keywords: [sd, license]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - sd-license
 - sd_license
 - sdLicense
 - has_sd_license
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- sd
+- license
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sd_license
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_sd_license
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

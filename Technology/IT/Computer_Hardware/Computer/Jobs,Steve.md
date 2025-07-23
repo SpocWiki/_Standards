@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Steven Paul Jobs
-  - Steve Jobs
+- "Steven Paul Jobs"
+- "Steve Jobs"
 ---
 
 #has_/time_/started ::  1955-02-24 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_clinician Class
-linkTitle: is_a_clinician Class
-
-keywords: [clinician]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalAudienceType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - clinician
 - clinician
 - Clinician
 - is_a_clinician
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalAudienceType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- clinician
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_clinician Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_clinician Class"
+type: Type
 ---
 
 Class of all clinicians.

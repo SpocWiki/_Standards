@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Wolfgang M. Schmitt
-  - Filmanalyse
+- "Wolfgang M. Schmitt"
+- Filmanalyse
 ---
 
 Wolfgang M. Schmitt

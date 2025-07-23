@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Ariana DeBose
+- "Ariana DeBose"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- subject-of
+- subject_of
+- subjectOf
+- is_subject_of
+- "wdt:P921"
+- "schema:subjectOf"
+- "dbo:subject"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_subject_of
-linkTitle: is_subject_of
 keywords:
-  - subject
-  - of
+- subject
+- of
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_subject_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - subject-of
-  - subject_of
-  - subjectOf
-  - is_subject_of
-  - wdt:P921
-  - schema:subjectOf
-  - dbo:subject
+- class/Relation
+- schema-org/Relation
+title: is_subject_of
+type: Predi_Relation
 ---
 
 Use it like this: 

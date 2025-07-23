@@ -1,5 +1,5 @@
----
-title: Amastigomonas mutabilis
+﻿---
+title: "Amastigomonas mutabilis"
 ---
 
 ## Phylogeny 

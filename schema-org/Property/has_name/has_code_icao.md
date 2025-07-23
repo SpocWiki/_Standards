@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_code_icao
-linkTitle: has_code_icao
-
-keywords: [icao, code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - icao-code
 - code_icao
 - icaoCode
 - has_code_icao
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- icao
+- code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_code_icao
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_code_icao
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Airport.

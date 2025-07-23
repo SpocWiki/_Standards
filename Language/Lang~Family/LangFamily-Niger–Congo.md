@@ -1,8 +1,9 @@
----
-type: LangFamily
-tags: 
+﻿---
+tags:
 - Lang_Family
+type: LangFamily
 ---
+
 [SpocWebEntityId:: 235 ]
 [Name::Niger–Congo]
 

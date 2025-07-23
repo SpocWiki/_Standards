@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_software_requirements
-linkTitle: has_text_of_software_requirements
-
-keywords: [software, requirements]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: requirements
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - software-requirements
 - software_requirements
 - softwareRequirements
 - has_text_of_software_requirements
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- software
+- requirements
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_software_requirements
+publish: true
+publishDate: 
+supersedes: requirements
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_software_requirements
+type: Pred_Text
 ---
 
 Predicate to describe the Text of SoftwareApplication.

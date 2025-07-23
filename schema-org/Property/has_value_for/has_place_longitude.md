@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- "schema:longitude"
+- longitude
+- longitude
+- has_value_for_longitude
+- has_place_longitude
+- "geo:long"
 confidential: public
+cssclasses:
+- Predicate
+- Quantity
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Quantity
-publish: true
-type: Predi_Quantity
-title: has_longitude
-linkTitle: has_longitude
 keywords:
-  - longitude
+- longitude
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_longitude
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Quantity
-aliases:
-  - schema:longitude
-  - longitude
-  - longitude
-  - has_value_for_longitude
-  - has_place_longitude
-  - geo:long
+- class/Property
+- schema-org/Property/Quantity
+title: has_longitude
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of GeoCoordinates, Place.

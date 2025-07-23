@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Ancient_History
-  - Ancient History
+- Ancient_History
+- "Ancient History"
 ---
 
 #has_/time_/started :: -3000 

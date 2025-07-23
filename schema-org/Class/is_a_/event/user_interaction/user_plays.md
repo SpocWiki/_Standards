@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_plays Class
-linkTitle: is_a_user_plays Class
-
-keywords: [user_plays]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-plays
 - user_plays
 - UserPlays
 - is_a_user_plays
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_plays
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_plays Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_plays Class"
+type: Type
 ---
 
 Class of all user_playss.

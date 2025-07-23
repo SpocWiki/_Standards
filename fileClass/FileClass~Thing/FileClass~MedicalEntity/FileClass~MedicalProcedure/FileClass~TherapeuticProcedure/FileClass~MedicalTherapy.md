@@ -1,39 +1,39 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalTherapy
-  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy
-  - is_a_/MedicalTherapy
-  - schema-org/MedicalTherapy
-tags:
-  - class/FileClass
-  - class/MedicalTherapy
-  - is_a_/MedicalTherapy
-  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure
 fields:
-  - id: 2nuU9D
-    name: Contraindication
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')
-    type: MultiFile
-    path: ""
-  - id: cwwK8D
-    name: DuplicateTherapy
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
-    type: MultiFile
-    path: ""
-  - id: NhF3GP
-    name: SeriousAdverseOutcome
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
+- id: 2nuU9D
+  name: Contraindication
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')"
+  type: MultiFile
+  path: ''
+- id: cwwK8D
+  name: DuplicateTherapy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
+  type: MultiFile
+  path: ''
+- id: NhF3GP
+  name: SeriousAdverseOutcome
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalTherapy
+- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy
+- is_a_/MedicalTherapy
+- schema-org/MedicalTherapy
+tags:
+- class/FileClass
+- class/MedicalTherapy
+- is_a_/MedicalTherapy
+- class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy
+version: 2.0
 ---
 
 # MedicalTherapy

@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Stamm
-  - division
-  - phyla
-  - Phylum
+- Stamm
+- division
+- phyla
+- Phylum
 has_id_wikidata: Q38348
 ---
 

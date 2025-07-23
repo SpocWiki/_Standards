@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_software_application Class
-linkTitle: is_a_software_application Class
-
-keywords: [software_application]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - software-application
 - software_application
 - SoftwareApplication
 - is_a_software_application
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- software_application
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_software_application Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_software_application Class"
+type: Type
 ---
 
 Class of all software_applications.

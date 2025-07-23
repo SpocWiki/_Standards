@@ -1,22 +1,19 @@
----
-type: Meta
-license: CC BY-SA 4.0
-publish: true
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-tags:
-- schema-org/Proposition
-
+﻿---
 aliases:
 - Statement
-- Semantic_Triple 
+- Semantic_Triple
 - S-P-O
 - Claim~Logic
 - Proposition
 - 
-
+confidential: public
+isDeleted: false
+isReadOnly: false
+license: "CC BY-SA 4.0"
+publish: true
+tags:
+- schema-org/Proposition
+type: Meta
 ---
 
 # [[Proposition]] 

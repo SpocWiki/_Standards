@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_body_measurement_weight Class
-linkTitle: is_a_body_measurement_weight Class
-
-keywords: [body_measurement_weight]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BodyMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - body-measurement-weight
 - body_measurement_weight
 - BodyMeasurementWeight
 - is_a_body_measurement_weight
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BodyMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- body_measurement_weight
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_body_measurement_weight Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_body_measurement_weight Class"
+type: Type
 ---
 
 Class of all body_measurement_weights.

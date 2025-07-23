@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_ordered_item
-
-linkTitle: has_ordered_item
-keywords: [ordered, item]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - ordered-item
 - ordered_item
 - orderedItem
 - has_ordered_item
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ordered
+- item
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_ordered_item
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_ordered_item
+type: Predi_Relation
 ---
 
 Use it like this: 

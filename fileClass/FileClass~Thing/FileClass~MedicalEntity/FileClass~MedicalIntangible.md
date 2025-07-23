@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalIntangible
-  - class/Thing/MedicalEntity/MedicalIntangible
-  - is_a_/MedicalIntangible
-  - schema-org/MedicalIntangible
-tags:
-  - class/FileClass
-  - class/MedicalIntangible
-  - is_a_/MedicalIntangible
-  - class/Thing/MedicalEntity/MedicalIntangible
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalIntangible
+- class/Thing/MedicalEntity/MedicalIntangible
+- is_a_/MedicalIntangible
+- schema-org/MedicalIntangible
+tags:
+- class/FileClass
+- class/MedicalIntangible
+- is_a_/MedicalIntangible
+- class/Thing/MedicalEntity/MedicalIntangible
+version: 2.0
 ---
 
 # MedicalIntangible

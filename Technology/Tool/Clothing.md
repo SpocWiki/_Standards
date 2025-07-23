@@ -1,72 +1,72 @@
----
+﻿---
 aliases:
 - clothes
 - garments
 - apparel
 - attire
-has_id_wikidata: Q11460
-has_use:
-- '[[_Standards/WikiData/WD~hygiene,162297]]'
-- '[[_Standards/WikiData/WD~security,2526135]]'
-- '[[_Standards/WikiData/WD~fashion,12684]]'
-manufacturer: '[[_Standards/WikiData/WD~tailor,242468]]'
-subclass_of:
-- '[[_Standards/WikiData/WD~work,386724]]'
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-- "[[_Standards/WikiData/WD~flat_object,113518695]]"
+Colon_Classification:
+- "L:577"
+- "Y:88"
+Commons_category: Clothing
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_characteristic: "[[_Standards/WikiData/WD~clothing_sizes,1075138]]"
-made_from_material:
-- "[[_Standards/WikiData/WD~artificial_leather,1792537]]"
-- '[[_Standards/WikiData/WD~leather,286]]'
-- '[[_Standards/WikiData/WD~textile,28823]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_costume,2501507]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Clothing,8079042]]'
-part_of:
-- "[[_Standards/WikiData/WD~clothing_industry,11828862]]"
-- '[[_Standards/WikiData/WD~fashion,12684]]'
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~costume_component,28935403]]"
-studied_in: "[[_Standards/WikiData/WD~clothing_research,105812644]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-earliest_date: "-170000"
-UMLS_CUI: C0009072
-MeSH_tree_code: J01.637.215
-Wikidata_property:
-- wears
-- "worn by"
-Nomenclature_for_Museum_Cataloging:
-- 1999
-- 2356
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
 - 687
 - 391
 - 646
 - 646.3
+earliest_date: -170000
 GS1_GPC_code: 67000000
-OmegaWiki_Defined_Meaning: 621
-Commons_category: Clothing
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Clothes.jpg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Clothing%20store%20banner.JPG"
-U_S_National_Archives_Identifier: 10636632
+has_characteristic: '[[_Standards/WikiData/WD~clothing_sizes,1075138]]'
+has_id_wikidata: Q11460
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~costume_component,28935403]]'
+has_time_started: -57000
+has_use:
+- '[[_Standards/WikiData/WD~hygiene,162297]]'
+- '[[_Standards/WikiData/WD~security,2526135]]'
+- '[[_Standards/WikiData/WD~fashion,12684]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_costume,2501507]]'
 Iconclass_notation: 41D2
-MCN_code: 6309.00.10
-Colon_Classification:
-- "L:577"
-- "Y:88"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Clothes.jpg"
 IPTC_NewsCode: mediatopic/20000245
-start_time: "-57000" 
-has_time_started: "-57000"
+made_from_material:
+- '[[_Standards/WikiData/WD~artificial_leather,1792537]]'
+- '[[_Standards/WikiData/WD~leather,286]]'
+- '[[_Standards/WikiData/WD~textile,28823]]'
+manufacturer: '[[_Standards/WikiData/WD~tailor,242468]]'
+MCN_code: 6309.00.10
+MeSH_tree_code: J01.637.215
+Nomenclature_for_Museum_Cataloging:
+- 1999
+- 2356
+OmegaWiki_Defined_Meaning: 621
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Clothing%20store%20banner.JPG"
+part_of:
+- '[[_Standards/WikiData/WD~clothing_industry,11828862]]'
+- '[[_Standards/WikiData/WD~fashion,12684]]'
+start_time: -57000
+studied_in: '[[_Standards/WikiData/WD~clothing_research,105812644]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~work,386724]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~flat_object,113518695]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Clothing,8079042]]'
+UMLS_CUI: C0009072
+U_S_National_Archives_Identifier: 10636632
+Wikidata_property:
+- wears
+- "worn by"
 ---
 
 ## #has_/text_of_/abstract 

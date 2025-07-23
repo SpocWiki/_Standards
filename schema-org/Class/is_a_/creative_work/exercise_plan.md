@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_exercise_plan Class
-linkTitle: is_an_exercise_plan Class
-
-keywords: [exercise_plan]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - exercise-plan
 - exercise_plan
 - ExercisePlan
 - is_an_exercise_plan
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- exercise_plan
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_exercise_plan Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_exercise_plan Class"
+type: Type
 ---
 
 Class of all exercise_plans.

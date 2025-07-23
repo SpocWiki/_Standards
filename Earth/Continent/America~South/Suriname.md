@@ -21,10 +21,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Suriname
-  - سورينام
-  - 苏里南
-  - Суринам
+- Suriname
+- سورينام
+- 苏里南
+- Суринам
 - "the Republic of Suriname"
 - "la República de Suriname"
 Languages:
@@ -150,7 +150,7 @@ female_population:
   - 307598
   - 310416
 official_name:
-  - Suriname
+- Suriname
 - "la République du Suriname"
 urban_population:
   - 396769

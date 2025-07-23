@@ -1,9 +1,9 @@
----
-title: Pongo
+﻿---
 aliases:
-  - Pongo
-  - Orangutan
+- Pongo
+- Orangutan
 has_id_wikidata: Q41050
+title: Pongo
 ---
 
 # [[Orangutan]]

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_eligible-quantity
-linkTitle: has_eligible-quantity
-
-keywords: [eligible-quantity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - eligible_quantity
 - eligible-quantity
 - eligibleQuantity
 - has_value_for_eligible_quantity
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- eligible-quantity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_eligible-quantity
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_eligible-quantity
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Demand, Offer, PriceSpecification.

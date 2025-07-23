@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Albert Einstein
+- "Albert Einstein"
 ---
 
 #has_/time_/started :: 1879-03-14 

@@ -1,34 +1,34 @@
----
+﻿---
+Commons_category: "Computer networks"
+Commons_gallery: "Computer network"
+connects_with: '[[_Standards/WikiData/WD~network_host,829281]]'
+depicted_by: '[[_Standards/WikiData/WD~spatial_network,7574076]]'
+different_from: '[[_Standards/WikiData/WD~distributed_system,3962217]]'
 has_id_wikidata: Q1301371
-uses: "[[_Standards/WikiData/WD~communication_protocol,132364]]"
-connects_with: "[[_Standards/WikiData/WD~network_host,829281]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~telecommunications_network,1068715]]"
-- '[[_Standards/WikiData/WD~network,1900326]]'
-named_after:
-- '[[_Standards/WikiData/WD~network,1900326]]'
-- '[[_Standards/WikiData/WD~computer,68]]'
-different_from: "[[_Standards/WikiData/WD~distributed_system,3962217]]"
-has_part_s_: "[[_Standards/WikiData/WD~heterogeneous_network,5747224]]"
+has_part_s_: '[[_Standards/WikiData/WD~heterogeneous_network,5747224]]'
 has_use:
 - '[[_Standards/WikiData/WD~upload,7126699]]'
 - '[[_Standards/WikiData/WD~download,7126717]]'
-depicted_by: "[[_Standards/WikiData/WD~spatial_network,7574076]]"
-studied_in: "[[_Standards/WikiData/WD~computer_networking,10336440]]"
+IAB_code: 600
+Iconclass_notation: 46E6711
+IEV_number: 732-01-03
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/NetworkTopologies.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Clean%20network%20infrastructure.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Internet%20map%201024.jpg"
+Library_of_Congress_Classification: TK5105.5-TK5105.9
+MeSH_tree_code: L01.224.230.110
+named_after:
+- '[[_Standards/WikiData/WD~network,1900326]]'
+- '[[_Standards/WikiData/WD~computer,68]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Network,12828494]]'
 Stack_Exchange_tag: "https://stackoverflow.com/tags/networking"
-Iconclass_notation: 46E6711
-Commons_gallery: "Computer network"
-MeSH_tree_code: L01.224.230.110
-IEV_number: 732-01-03
-Library_of_Congress_Classification: TK5105.5-TK5105.9
-IAB_code: 600
-Commons_category: "Computer networks"
+studied_in: '[[_Standards/WikiData/WD~computer_networking,10336440]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~telecommunications_network,1068715]]'
+- '[[_Standards/WikiData/WD~network,1900326]]'
 subreddit: networking
+uses: '[[_Standards/WikiData/WD~communication_protocol,132364]]'
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TieAction
-  - class/Thing/Action/AchieveAction/TieAction
-  - is_a_/TieAction
-  - schema-org/TieAction
-tags:
-  - class/FileClass
-  - class/TieAction
-  - is_a_/TieAction
-  - class/Thing/Action/AchieveAction/TieAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TieAction
+- class/Thing/Action/AchieveAction/TieAction
+- is_a_/TieAction
+- schema-org/TieAction
+tags:
+- class/FileClass
+- class/TieAction
+- is_a_/TieAction
+- class/Thing/Action/AchieveAction/TieAction
+version: 2.0
 ---
 
 # TieAction

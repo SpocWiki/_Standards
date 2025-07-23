@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CheckInAction
-  - class/Thing/Action/InteractAction/CommunicateAction/CheckInAction
-  - is_a_/CheckInAction
-  - schema-org/CheckInAction
-tags:
-  - class/FileClass
-  - class/CheckInAction
-  - is_a_/CheckInAction
-  - class/Thing/Action/InteractAction/CommunicateAction/CheckInAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CheckInAction
+- class/Thing/Action/InteractAction/CommunicateAction/CheckInAction
+- is_a_/CheckInAction
+- schema-org/CheckInAction
+tags:
+- class/FileClass
+- class/CheckInAction
+- is_a_/CheckInAction
+- class/Thing/Action/InteractAction/CommunicateAction/CheckInAction
+version: 2.0
 ---
 
 # CheckInAction

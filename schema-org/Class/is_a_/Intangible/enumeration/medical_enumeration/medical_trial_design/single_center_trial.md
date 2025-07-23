@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_single_center_trial Class
-linkTitle: is_a_single_center_trial Class
-
-keywords: [single_center_trial]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalTrialDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - single-center-trial
 - single_center_trial
 - SingleCenterTrial
 - is_a_single_center_trial
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalTrialDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- single_center_trial
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_single_center_trial Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_single_center_trial Class"
+type: Type
 ---
 
 Class of all single_center_trials.

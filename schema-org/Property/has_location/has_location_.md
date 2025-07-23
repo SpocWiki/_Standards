@@ -1,34 +1,34 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- location
+- location
+- location
+- has_location_
+- "geo:lat_long"
+- "schema:geo"
+- "dbo:location"
+- "schema:location"
+- "wdt:P276"
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_
-linkTitle: has_location_
 keywords:
-  - location
+- location
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/geo
-aliases:
-  - location
-  - location
-  - location
-  - has_location_
-  - geo:lat_long
-  - schema:geo
-  - dbo:location
-  - schema:location
-  - wdt:P276
+- class/Property
+- schema-org/Property/geo
+title: has_location_
+type: Pred_geo
 ---
 
 Predicate to describe the geo:lat_long of an Action, Event, InteractionCounter, Organization.

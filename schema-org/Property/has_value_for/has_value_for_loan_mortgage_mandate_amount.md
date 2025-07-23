@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_loan-mortgage-mandate-amount
-linkTitle: has_loan-mortgage-mandate-amount
-
-keywords: [loan-mortgage-mandate-amount]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - loan_mortgage_mandate_amount
 - loan-mortgage-mandate-amount
 - loanMortgageMandateAmount
 - has_value_for_loan_mortgage_mandate_amount
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- loan-mortgage-mandate-amount
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_loan-mortgage-mandate-amount
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_loan-mortgage-mandate-amount
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of MortgageLoan.

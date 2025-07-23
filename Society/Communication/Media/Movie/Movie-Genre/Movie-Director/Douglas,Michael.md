@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Michael Douglas
-  - Michael Kirk Douglas
+- "Michael Douglas"
+- "Michael Kirk Douglas"
 ---
 
 #has_/time_/started :: 1944-09-25 

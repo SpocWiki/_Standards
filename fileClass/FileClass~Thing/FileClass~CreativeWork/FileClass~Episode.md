@@ -1,75 +1,75 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Episode
-  - class/Thing/CreativeWork/Episode
-  - is_an_/Episode
-  - schema-org/Episode
-tags:
-  - class/FileClass
-  - class/Episode
-  - "#is_an_/Episode"
-  - class/Thing/CreativeWork/Episode
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 9ItsHa
-    name: Actor
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: Tf1wZo
-    name: Director
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: k1eRiF
-    name: Duration
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: qTltMv
-    name: EpisodeNumber
-    options: {}
-    type: Number
-    path: ""
-  - id: k2Xfxq
-    name: MusicBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
-    type: MultiFile
-    path: ""
-  - id: NfUSwf
-    name: PartOfSeason
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
-    type: MultiFile
-    path: ""
-  - id: Fam5Vn
-    name: PartOfSeries
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
-    type: MultiFile
-    path: ""
-  - id: gkUZj9
-    name: ProductionCompany
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: uASAXx
-    name: Trailer
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
-    type: MultiFile
-    path: ""
+- id: 9ItsHa
+  name: Actor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: Tf1wZo
+  name: Director
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: k1eRiF
+  name: Duration
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: qTltMv
+  name: EpisodeNumber
+  options: {}
+  type: Number
+  path: ''
+- id: k2Xfxq
+  name: MusicBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"
+  type: MultiFile
+  path: ''
+- id: NfUSwf
+  name: PartOfSeason
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')"
+  type: MultiFile
+  path: ''
+- id: Fam5Vn
+  name: PartOfSeries
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')"
+  type: MultiFile
+  path: ''
+- id: gkUZj9
+  name: ProductionCompany
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: uASAXx
+  name: Trailer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Episode
+- class/Thing/CreativeWork/Episode
+- is_an_/Episode
+- schema-org/Episode
+tags:
+- class/FileClass
+- class/Episode
+- '#is_an_/Episode'
+- class/Thing/CreativeWork/Episode
+version: 2.0
 ---
 
 # Episode

@@ -1,66 +1,66 @@
----
-type: Element
-SpocWebEntityId: 21912
-has_id_wikidata: Q654
-Commons_category: Neon
-Unicode_character: 氖
-part_of:
-- "[[_Standards/WikiData/WD~period_2,207712]]"
-- "[[_Standards/WikiData/WD~noble_gases,19609]]"
-different_from: '[[_Standards/WikiData/WD~Neon,234950]]'
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Morris_Travers,380209]]"
-- "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-instance_of:
-- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Neon-ar.ogg"
-electron_configuration:
-- "[He] 2s² 2p⁶"
-- "1s² 2s² 2p⁶"
-canonical_SMILES: '[Ne]'
-EC_number: 231-110-9
-UNII: 4VB4Y46AHD
-CAS_Registry_Number: 7440-01-9
-MeSH_tree_code:
-- D01.268.613.600
-- D01.362.641.592
-DSSTOX_compound_identifier: DTXCID2047642
-InChIKey: GKAOGPIIYCISHV-UHFFFAOYSA-N
-InChI: InChI=1S/Ne
-has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-named_after: '[[_Standards/WikiData/WD~novelty,12544101]]'
-conjugate_acid: "[[_Standards/WikiData/WD~neonium_ion,64995456]]"
-time_of_discovery_or_invention: "1898"
-UMLS_CUI: C0027608
-melting_point: -248.6
-subclass_of: "[[_Standards/WikiData/WD~noble_gases,19609]]"
-boiling_point: -246
-location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+﻿---
+ASHRAE_refrigerant_number: 720
 atomic_number: 10
-speed_of_sound: 435
+boiling_point: -246
+canonical_SMILES: '[Ne]'
+CAS_Registry_Number: 7440-01-9
+chemical_formula: Ne
+Commons_category: Neon
+Commons_gallery: Neon
+conjugate_acid: '[[_Standards/WikiData/WD~neonium_ion,64995456]]'
 density:
 - 1.204
 - 1.444
 - 0.90035
-standard_molar_entropy: 146.2
-ZVG_number: 7100
-ASHRAE_refrigerant_number: 720
-PubChem_CID: 23935
-mass: 20.1797
-OmegaWiki_Defined_Meaning: 159119
-chemical_formula: Ne
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+different_from: '[[_Standards/WikiData/WD~Neon,234950]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Morris_Travers,380209]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+DSSTOX_compound_identifier: DTXCID2047642
+EC_number: 231-110-9
+electron_configuration:
+- "[He] 2s² 2p⁶"
+- "1s² 2s² 2p⁶"
 element_symbol: Ne
+has_characteristic:
+- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+has_id_wikidata: Q654
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/NeTube.jpg"
-Commons_gallery: Neon
+InChI: InChI=1S/Ne
+InChIKey: GKAOGPIIYCISHV-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+mass: 20.1797
+melting_point: -248.6
+MeSH_tree_code:
+- D01.268.613.600
+- D01.362.641.592
+named_after: '[[_Standards/WikiData/WD~novelty,12544101]]'
+OmegaWiki_Defined_Meaning: 159119
+part_of:
+- '[[_Standards/WikiData/WD~period_2,207712]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Neon-ar.ogg"
+PubChem_CID: 23935
+speed_of_sound: 435
+SpocWebEntityId: 21912
+standard_molar_entropy: 146.2
+subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609]]'
+time_of_discovery_or_invention: 1898
+type: Element
+UMLS_CUI: C0027608
+Unicode_character: 氖
+UNII: 4VB4Y46AHD
+ZVG_number: 7100
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Neon,654]] 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_gated_residence_community Class
-linkTitle: is_a_gated_residence_community Class
-
-keywords: [gated_residence_community]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - gated-residence-community
 - gated_residence_community
 - GatedResidenceCommunity
 - is_a_gated_residence_community
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- gated_residence_community
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_gated_residence_community Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_gated_residence_community Class"
+type: Type
 ---
 
 Class of all gated_residence_communitys.

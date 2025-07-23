@@ -1,10 +1,10 @@
----
+﻿---
 aliases:
-  - Tycho's Supernova
-  - Tycho's Star
-  - Tycho's Nova
-  - B Cassiopeiae
-  - SN 1572
+- "Tycho's Supernova"
+- "Tycho's Star"
+- "Tycho's Nova"
+- "B Cassiopeiae"
+- "SN 1572"
 ---
 
 #has_/time_/started :: 1572-11 

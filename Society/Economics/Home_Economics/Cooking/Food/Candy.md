@@ -1,22 +1,22 @@
----
+﻿---
+Commons_category: Candy
+Commons_gallery: Candy
+Danbooru_tag: candy
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_id_wikidata: Q185583
-subclass_of: '[[_Standards/WikiData/WD~confection,5159627]]'
-said_to_be_the_same_as:
-- "[[_Standards/WikiData/WD~sugar_candy,17119302]]"
-- '[[_Standards/WikiData/WD~ame,17238884]]'
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-UMLS_CUI: C0006855
+has_part_s_: '[[_Standards/WikiData/WD~sugar,11002]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Candy%20in%20Damascus.jpg"
+made_from_material: '[[_Standards/WikiData/WD~sugar,11002]]'
 MeSH_tree_code:
 - G07.203.300.140
 - J02.500.140
-has_part_s_: '[[_Standards/WikiData/WD~sugar,11002]]'
-made_from_material: '[[_Standards/WikiData/WD~sugar,11002]]'
-Commons_gallery: Candy
-Commons_category: Candy
-Danbooru_tag: candy
+said_to_be_the_same_as:
+- '[[_Standards/WikiData/WD~sugar_candy,17119302]]'
+- '[[_Standards/WikiData/WD~ame,17238884]]'
+subclass_of: '[[_Standards/WikiData/WD~confection,5159627]]'
+UMLS_CUI: C0006855
+Unicode_character: "\U0001F36C"
 U_S_National_Archives_Identifier: 10636889
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Candy%20in%20Damascus.jpg"
-Unicode_character: 🍬 
 ---
 
 ## #has_/text_of_/abstract 

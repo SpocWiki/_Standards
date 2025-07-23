@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_mens_clothing_store Class
-linkTitle: is_a_mens_clothing_store Class
-
-keywords: [mens_clothing_store]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - mens-clothing-store
 - mens_clothing_store
 - MensClothingStore
 - is_a_mens_clothing_store
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mens_clothing_store
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_mens_clothing_store Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_mens_clothing_store Class"
+type: Type
 ---
 
 Class of all mens_clothing_stores.

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_toc_continuation
-
-linkTitle: has_toc_continuation
-keywords: [toc, continuation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - toc-continuation
 - toc_continuation
 - tocContinuation
 - has_toc_continuation
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- toc
+- continuation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_toc_continuation
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_toc_continuation
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

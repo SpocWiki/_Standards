@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_name_of_target
-linkTitle: has_name_of_target
-
-keywords: [target, name]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - target-name
 - name_of_target
 - targetName
 - has_name_of_target
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- target
+- name
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_name_of_target
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_name_of_target
+type: Pred_Text
 ---
 
 Predicate to describe the Text of educational  AlignmentObject.

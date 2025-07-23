@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_school_closures_info
-linkTitle: has_url_for_school_closures_info
-
-keywords: [school_closures_info]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Url
-
+﻿---
 aliases:
 - school-closures-info
 - school_closures_info
 - schoolClosuresInfo
 - has_url_for_school_closures_info
+confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- school_closures_info
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_school_closures_info
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_school_closures_info
+type: Predi_Url
 ---
 
 Predicate to specify the Url of SpecialAnnouncement.

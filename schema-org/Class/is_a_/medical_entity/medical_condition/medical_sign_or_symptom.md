@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_sign_or_symptom Class
-linkTitle: is_a_medical_sign_or_symptom Class
-
-keywords: [medical_sign_or_symptom]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-sign-or-symptom
 - medical_sign_or_symptom
 - MedicalSignOrSymptom
 - is_a_medical_sign_or_symptom
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_sign_or_symptom
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_sign_or_symptom Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_sign_or_symptom Class"
+type: Type
 ---
 
 Class of all medical_sign_or_symptoms.

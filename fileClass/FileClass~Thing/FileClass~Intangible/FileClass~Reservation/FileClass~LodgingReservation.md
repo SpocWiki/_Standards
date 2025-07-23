@@ -1,55 +1,55 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/LodgingReservation
-  - class/Thing/Intangible/Reservation/LodgingReservation
-  - is_a_/LodgingReservation
-  - schema-org/LodgingReservation
-tags:
-  - class/FileClass
-  - class/LodgingReservation
-  - is_a_/LodgingReservation
-  - class/Thing/Intangible/Reservation/LodgingReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: zgvLOg
-    name: CheckinTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: qrV9PF
-    name: CheckoutTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: b8Wpn9
-    name: LodgingUnitDescription
-    options: {}
-    type: Input
-    path: ""
-  - id: NvVSfl
-    name: LodgingUnitType
-    options: {}
-    type: Input
-    path: ""
-  - id: mpMFiU
-    name: NumAdults
-    options: {}
-    type: Number
-    path: ""
-  - id: 65gFJW
-    name: NumChildren
-    options: {}
-    type: Number
-    path: ""
+- id: zgvLOg
+  name: CheckinTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: qrV9PF
+  name: CheckoutTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: b8Wpn9
+  name: LodgingUnitDescription
+  options: {}
+  type: Input
+  path: ''
+- id: NvVSfl
+  name: LodgingUnitType
+  options: {}
+  type: Input
+  path: ''
+- id: mpMFiU
+  name: NumAdults
+  options: {}
+  type: Number
+  path: ''
+- id: 65gFJW
+  name: NumChildren
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LodgingReservation
+- class/Thing/Intangible/Reservation/LodgingReservation
+- is_a_/LodgingReservation
+- schema-org/LodgingReservation
+tags:
+- class/FileClass
+- class/LodgingReservation
+- is_a_/LodgingReservation
+- class/Thing/Intangible/Reservation/LodgingReservation
+version: 2.0
 ---
 
 # LodgingReservation

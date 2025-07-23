@@ -1,8 +1,8 @@
----
-title: Fibrobacteres
+﻿---
 aliases:
-  - Fibrobacteres
-  - Fibrobacterota
+- Fibrobacteres
+- Fibrobacterota
+title: Fibrobacteres
 ---
 
 # [[Fibrobacteres]] 

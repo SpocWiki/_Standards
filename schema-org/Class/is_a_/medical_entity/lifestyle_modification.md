@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_lifestyle_modification Class
-linkTitle: is_a_lifestyle_modification Class
-
-keywords: [lifestyle_modification]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - lifestyle-modification
 - lifestyle_modification
 - LifestyleModification
 - is_a_lifestyle_modification
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lifestyle_modification
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_lifestyle_modification Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_lifestyle_modification Class"
+type: Type
 ---
 
 Class of all lifestyle_modifications.

@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_entertain_edit
-linkTitle: has_id_entertain_edit
-
-keywords: [edit, eidr]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - edit-eidr
 - id_entertain_edit
 - editEIDR
 - has_id_entertain_edit
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- edit
+- eidr
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_entertain_edit
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_entertain_edit
+type: Pred_Text
 ---
 
 Predicate to describe the Text of CreativeWork.

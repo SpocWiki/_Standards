@@ -1,31 +1,31 @@
----
-has_id_wikidata: Q6235
+﻿---
+Basisklassifikation: 89.22
+Colon_Classification: W95
+Commons_category: Nationalism
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+Dewey_Decimal_Classification: 320.54
+different_from: '[[_Standards/WikiData/WD~patriotism,6241]]'
 has_characteristic:
 - '[[_Standards/WikiData/WD~irredentism,182274]]'
-- "[[_Standards/WikiData/WD~Types_of_nationalism,7860958]]"
+- '[[_Standards/WikiData/WD~Types_of_nationalism,7860958]]'
+has_id_wikidata: Q6235
+Library_of_Congress_Classification: JC311
 opposite_of:
 - '[[_Standards/WikiData/WD~cosmopolitanism,188843]]'
 - '[[_Standards/WikiData/WD~anti-nationalism,649132]]'
 - '[[_Standards/WikiData/WD~internationalism,695838]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-studied_in: "[[_Standards/WikiData/WD~nationalism_studies,4314780]]"
-subclass_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Nationalism,13107438]]'
-- "[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~patriotism,6241]]'
+PhilPapers_topic: nationalism
 practiced_by: '[[_Standards/WikiData/WD~nationalist,106399618]]'
 Provenio_UUID: cfabbabf-ca77-4237-aad4-82df4ec93568
-different_from: '[[_Standards/WikiData/WD~patriotism,6241]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~patriotism,6241]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~patriotism,6241]]'
-Colon_Classification: W95
-Dewey_Decimal_Classification: 320.54
-Basisklassifikation: 89.22
-Library_of_Congress_Classification: JC311
-PhilPapers_topic: nationalism
-Commons_category: Nationalism
+studied_in: '[[_Standards/WikiData/WD~nationalism_studies,4314780]]'
+subclass_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Nationalism,13107438]]'
+- '[[_Standards/WikiData/WD~Template_Nationalism_sidebar,13107436]]'
 U_S_National_Archives_Identifier: 10642479
 ---
 

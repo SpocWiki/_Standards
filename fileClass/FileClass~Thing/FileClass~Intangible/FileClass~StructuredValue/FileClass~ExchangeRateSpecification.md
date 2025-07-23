@@ -1,37 +1,37 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ExchangeRateSpecification
-  - class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
-  - is_an_/ExchangeRateSpecification
-  - schema-org/ExchangeRateSpecification
-tags:
-  - class/FileClass
-  - class/ExchangeRateSpecification
-  - "#is_an_/ExchangeRateSpecification"
-  - class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: bGLMFi
-    name: Currency
-    options: {}
-    type: Input
-    path: ""
-  - id: ycdpfT
-    name: CurrentExchangeRate
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')
-    type: MultiFile
-    path: ""
-  - id: XvI3vo
-    name: ExchangeRateSpread
-    options: {}
-    type: Number
-    path: ""
+- id: bGLMFi
+  name: Currency
+  options: {}
+  type: Input
+  path: ''
+- id: ycdpfT
+  name: CurrentExchangeRate
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')"
+  type: MultiFile
+  path: ''
+- id: XvI3vo
+  name: ExchangeRateSpread
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ExchangeRateSpecification
+- class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
+- is_an_/ExchangeRateSpecification
+- schema-org/ExchangeRateSpecification
+tags:
+- class/FileClass
+- class/ExchangeRateSpecification
+- '#is_an_/ExchangeRateSpecification'
+- class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
+version: 2.0
 ---
 
 # ExchangeRateSpecification

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_items
-linkTitle: has_number_of_items
-
-keywords: [number_of_items]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number-of-items
 - number_of_items
 - numberOfItems
 - has_number_of_items
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number_of_items
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_items
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_items
+type: Predi_Count
 ---
 
 Predicate to describe the Number of ItemList.

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_live_blog_update
-
-linkTitle: has_live_blog_update
-keywords: [live, blog, update]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - live-blog-update
 - live_blog_update
 - liveBlogUpdate
 - has_live_blog_update
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- live
+- blog
+- update
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_live_blog_update
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_live_blog_update
+type: Predi_Relation
 ---
 
 Use it like this: 

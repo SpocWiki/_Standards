@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Unite the Right rally
+- "Unite the Right rally"
 ---
 
 #has_/time_/started :: 2017-08-11 

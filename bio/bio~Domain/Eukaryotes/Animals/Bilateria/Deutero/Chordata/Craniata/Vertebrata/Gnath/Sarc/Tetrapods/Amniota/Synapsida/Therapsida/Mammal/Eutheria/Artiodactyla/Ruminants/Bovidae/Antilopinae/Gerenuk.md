@@ -1,8 +1,8 @@
----
-title: Litocranius walleri
+﻿---
 aliases:
-  - Litocranius walleri
-  - gerenuk
+- "Litocranius walleri"
+- gerenuk
+title: "Litocranius walleri"
 ---
 
 # [[Gerenuk]] 

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_album_release_type
-
-linkTitle: has_album_release_type
-keywords: [album, release, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - album-release-type
 - album_release_type
 - albumReleaseType
 - has_album_release_type
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- album
+- release
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_album_release_type
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_album_release_type
+type: Predi_Relation
 ---
 
 Use it like this: 

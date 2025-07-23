@@ -1,9 +1,9 @@
----
-title: Ovis aries
+﻿---
 aliases:
-  - Ovis aries
-  - aries
-  - Sheep
+- "Ovis aries"
+- aries
+- Sheep
+title: "Ovis aries"
 ---
 
 ## Phylogeny 

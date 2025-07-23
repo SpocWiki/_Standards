@@ -100,30 +100,30 @@ demonym:
 - "غينية بيساوية"
 - "غينيين بيساويين"
 - "غينيات بيساويات"
-  - Bissauec
-  - Bissauka
+- Bissauec
+- Bissauka
 - "de Guinea-Bisáu"
-  - বিসাউ-গিনীয়
-  - guinea-bissauer
-  - Bissau-Guinean
-  - Guinea-Bissauan
-  - Gvinebisaŭano
-  - Bissaoguinéen
-  - Bissaoguinéenne
-  - Guinéen
-  - Guinéenne
+- বিসাউ-গিনীয়
+- guinea-bissauer
+- Bissau-Guinean
+- Guinea-Bissauan
+- Gvinebisaŭano
+- Bissaoguinéen
+- Bissaoguinéenne
+- Guinéen
+- Guinéenne
 - "מגינאה ביסאו"
-  - bissau-guineai
-  - guineense
-  - guineensi
-  - Guinee-Bissauer
-  - guineobissauan
-  - guineobissauană
-  - guineobissauani
-  - guineensa
-  - guineense
-  - guineensi
-  - guineenso
+- bissau-guineai
+- guineense
+- guineensi
+- Guinee-Bissauer
+- guineobissauan
+- guineobissauană
+- guineobissauani
+- guineensa
+- guineense
+- guineensi
+- guineenso
 ISNI: 000000012151704X
 MeSH_tree_code: Z01.058.290.190.380
 motto_text:
@@ -212,8 +212,8 @@ hashtag: GuineaBissau
 Krugosvet_article: strany_mira/GVINEYA-BISAU.html
 official_name:
 - "la République de Guinée-Bissao"
-  - Guinea-Bissau
-  - Guiné-Bissau
+- Guinea-Bissau
+- Guiné-Bissau
 native_label: "República da Guiné-Bissau"
 short_name: "\U0001F1EC\U0001F1FC"
 INSEE_countries_and_foreign_territories_code: 99330

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_api_reference Class
-linkTitle: is_an_api_reference Class
-
-keywords: [api_reference]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - api-reference
 - api_reference
 - APIReference
 - is_an_api_reference
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- api_reference
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_api_reference Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_api_reference Class"
+type: Type
 ---
 
 Class of all [[api_reference]]s.

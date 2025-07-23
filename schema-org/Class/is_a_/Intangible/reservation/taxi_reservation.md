@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_taxi_reservation Class
-linkTitle: is_a_taxi_reservation Class
-
-keywords: [taxi_reservation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - taxi-reservation
 - taxi_reservation
 - TaxiReservation
 - is_a_taxi_reservation
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- taxi_reservation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_taxi_reservation Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_taxi_reservation Class"
+type: Type
 ---
 
 Class of all taxi_reservations.

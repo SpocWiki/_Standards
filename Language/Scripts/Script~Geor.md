@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - Georgian Script
+- "Georgian Script"
 ---
+
 Georgian Script is used in[[../../Earth/Continent/Europe/Europe~East/Georgia,Europe|Georgia,Europe]]]. 
 
 8. **Georgian:**

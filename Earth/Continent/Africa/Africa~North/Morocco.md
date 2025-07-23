@@ -174,7 +174,7 @@ demonym:
   - ⴰⵎⵓⵔⵉ
   - ⵜⴰⵎⵓⵔⵉⵜ
   - ⵜⵉⵎⵓⵔⵉⵢⵏ
-- "orang Maghribi"
+  - "orang Maghribi"
   - Maracach
   - مغربية
   - مغاربة
@@ -187,7 +187,7 @@ demonym:
   - مغربي
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 official_name:
-  - Maghribi
+- Maghribi
 - "Kongeriget Marokko"
 - "Kingdom of Morocco"
 - "Reino de Marruecos"
@@ -197,8 +197,8 @@ official_name:
 - "Kerajaan Maghribi"
 - "لمملكة لمغريبية"
 - "Regno del Maroco"
-  - Morocco
-  - المغرب
+- Morocco
+- المغرب
 - "المملكة المغربية"
 open_data_portal: "[[_Standards/WikiData/WD~Morocco_Data_Portal,97011662]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Morocco.map"
@@ -320,8 +320,8 @@ GS1_country_code: 611
 mobile_country_code: 604
 native_label:
 - "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
-  - ⵍⵎⵖⵔⵉⴱ
-  - المغرب
+- ⵍⵎⵖⵔⵉⴱ
+- المغرب
 - "المملكة المغربية"
 short_name: "\U0001F1F2\U0001F1E6"
 inception: "0789"

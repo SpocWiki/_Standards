@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_free_return Class
-linkTitle: is_a_free_return Class
-
-keywords: [free_return]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnFeesEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - free-return
 - free_return
 - FreeReturn
 - is_a_free_return
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnFeesEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- free_return
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_free_return Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_free_return Class"
+type: Type
 ---
 
 Class of all free_returns.

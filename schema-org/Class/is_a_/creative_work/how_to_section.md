@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_how_to_section Class
-linkTitle: is_a_how_to_section Class
-
-keywords: [how_to_section]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - how-to-section
 - how_to_section
 - HowToSection
 - is_a_how_to_section
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- how_to_section
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_how_to_section Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_how_to_section Class"
+type: Type
 ---
 
 Class of all how_to_sections.

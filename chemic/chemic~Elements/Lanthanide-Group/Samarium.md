@@ -1,54 +1,54 @@
----
-type: Element
-SpocWebEntityId: 21958
-has_id_wikidata: Q1819
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-different_from: '[[_Standards/WikiData/WD~Samar,345447]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
-named_after: '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-made_from_material:
-- "[[_Standards/WikiData/WD~spent_nuclear_fuel,2623868]]"
-- '[[_Standards/WikiData/WD~monazite-(Sm),3860584]]'
-- '[[_Standards/WikiData/WD~florencite-(Sm),13588763]]'
-time_of_discovery_or_invention: "1879"
-UMLS_CUI: C0036147
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
+﻿---
 atomic_number: 62
+canonical_SMILES: '[Sm]'
+CAS_Registry_Number: 7440-19-9
+chemical_formula: Sm
+Commons_category: Samarium
+Commons_gallery: Samarium
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+different_from: '[[_Standards/WikiData/WD~Samar,345447]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
+DSSTOX_compound_identifier: DTXCID6047652
+EC_number: 231-128-7
+electronegativity: 1.17
+element_symbol: Sm
+Gmelin_number: 16301
+has_id_wikidata: Q1819
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Samarium%201.jpg"
+InChI: InChI=1S/Sm
+InChIKey: KZUNJOHGWZRPMI-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.96
 - 1.08
 - 1.19
 - 1.24
 - 1.27
-electronegativity: 1.17
+location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~spent_nuclear_fuel,2623868]]'
+- '[[_Standards/WikiData/WD~monazite-(Sm),3860584]]'
+- '[[_Standards/WikiData/WD~florencite-(Sm),13588763]]'
 mass: 150.36
-PubChem_CID: 23951
-Gmelin_number: 16301
-chemical_formula: Sm
-element_symbol: Sm
-OmegaWiki_Defined_Meaning: 356071
-Commons_gallery: Samarium
-Commons_category: Samarium
-canonical_SMILES: '[Sm]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Samarium%201.jpg"
-EC_number: 231-128-7
-UNII: 42OD65L39F
-CAS_Registry_Number: 7440-19-9
 MeSH_tree_code:
 - D01.268.558.362.937
 - D01.552.550.399.937
-DSSTOX_compound_identifier: DTXCID6047652
-InChI: InChI=1S/Sm
-InChIKey: KZUNJOHGWZRPMI-UHFFFAOYSA-N
+named_after: '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
+OmegaWiki_Defined_Meaning: 356071
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+PubChem_CID: 23951
+SpocWebEntityId: 21958
+time_of_discovery_or_invention: 1879
+type: Element
+UMLS_CUI: C0036147
 Unicode_character: 釤
+UNII: 42OD65L39F
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Samarium,1819]] 

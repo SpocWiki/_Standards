@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_business_event Class
-linkTitle: is_a_business_event Class
-
-keywords: [business_event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - business-event
 - business_event
 - BusinessEvent
 - is_a_business_event
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- business_event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_business_event Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_business_event Class"
+type: Type
 ---
 
 Class of all business_events.

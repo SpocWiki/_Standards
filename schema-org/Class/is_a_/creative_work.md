@@ -1,31 +1,31 @@
----
-is_sub_class_of: '[Thing](../Thing.md)'
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- creative-work
+- creative_work
+- CreativeWork
+- is_a_creative_work
+- creative_works
+- "dbo:Work"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
+fileClass: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_creative_work Class
-linkTitle: is_a_creative_work Class
+is_sub_class_of: '[Thing](../Thing.md)'
 keywords:
-  - creative_work
+- creative_work
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_creative_work Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-aliases:
-  - creative-work
-  - creative_work
-  - CreativeWork
-  - is_a_creative_work
-  - creative_works
-  - dbo:Work
-fileClass:
+- schema-org/Class
+title: "is_a_creative_work Class"
+type: Type
 ---
 
 [[../../Class]] of all [[creative_work]]s.

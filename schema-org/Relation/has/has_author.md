@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- author
+- author
+- author
+- has_author
+- "schema:author"
+- "dbo:author"
+- "wdt:P50"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_author
-linkTitle: has_author
 keywords:
-  - author
+- author
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_author
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - author
-  - author
-  - author
-  - has_author
-  - schema:author
-  - dbo:author
-  - wdt:P50
+- class/Relation
+- schema-org/Relation
+title: has_author
+type: Predi_Relation
 ---
 
 Use it like this: 

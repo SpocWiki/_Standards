@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Epipaleolithic
-  - Middle Stone Age
-  - Mittelsteinzeit
+- Epipaleolithic
+- "Middle Stone Age"
+- Mittelsteinzeit
 ---
 
 # [[0000-Mesolithic]] 

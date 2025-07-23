@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Artery
-  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery
-  - is_an_/Artery
-  - schema-org/Artery
-tags:
-  - class/FileClass
-  - class/Artery
-  - "#is_an_/Artery"
-  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 fields:
-  - id: 3eDqNP
-    name: ArterialBranch
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: vjooh2
-    name: SupplyTo
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
+- id: 3eDqNP
+  name: ArterialBranch
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: vjooh2
+  name: SupplyTo
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Artery
+- class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery
+- is_an_/Artery
+- schema-org/Artery
+tags:
+- class/FileClass
+- class/Artery
+- '#is_an_/Artery'
+- class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery
+version: 2.0
 ---
 
 # Artery

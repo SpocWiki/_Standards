@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Inertia
+- Inertia
 ---
 
 # [[Dim~Mass]] 

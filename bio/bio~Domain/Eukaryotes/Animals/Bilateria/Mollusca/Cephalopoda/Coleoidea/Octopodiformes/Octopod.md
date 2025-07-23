@@ -1,8 +1,8 @@
----
-title: Octopoda
+﻿---
 aliases:
-  - Octopoda
-  - Octopod
+- Octopoda
+- Octopod
+title: Octopoda
 ---
 
 ## Phylogeny 

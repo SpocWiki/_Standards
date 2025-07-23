@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_therapeutic Class
-linkTitle: is_a_therapeutic Class
-
-keywords: [therapeutic]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalDevicePurpose
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - therapeutic
 - therapeutic
 - Therapeutic
 - is_a_therapeutic
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalDevicePurpose
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- therapeutic
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_therapeutic Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_therapeutic Class"
+type: Type
 ---
 
 Class of all therapeutics.

@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- defined-term
+- defined_term
+- DefinedTerm
+- is_a_defined_term
+- "defined term"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_defined_term Class
-linkTitle: is_a_defined_term Class
 keywords:
-  - defined_term
+- defined_term
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_defined_term Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - defined-term
-  - defined_term
-  - DefinedTerm
-  - is_a_defined_term
-  - defined term
+- class/Class
+- schema-org/Class
+title: "is_a_defined_term Class"
+type: Type
 ---
 
 # defined term

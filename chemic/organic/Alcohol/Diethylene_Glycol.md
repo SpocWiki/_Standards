@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Diethylene glycol
+- "Diethylene glycol"
 ---
 
 # [[Diethylene_Glycol]] 

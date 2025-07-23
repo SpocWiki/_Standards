@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_procedure Class
-linkTitle: is_a_medical_procedure Class
-
-keywords: [medical_procedure]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/50731006
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-procedure
 - medical_procedure
 - MedicalProcedure
 - is_a_medical_procedure
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/50731006"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_procedure
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_procedure Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_procedure Class"
+type: Type
 ---
 
 Class of all medical_procedures.

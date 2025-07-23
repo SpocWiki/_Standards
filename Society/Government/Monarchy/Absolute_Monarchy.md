@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Absolute monarchy
+- "Absolute monarchy"
 has_id_wikidata: Q184558
 ---
 

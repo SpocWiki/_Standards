@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_reduced_relevance_for_children_consideration Class
-linkTitle: is_a_reduced_relevance_for_children_consideration Class
-
-keywords: [reduced_relevance_for_children_consideration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: AdultOrientedEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - reduced-relevance-for-children-consideration
 - reduced_relevance_for_children_consideration
 - ReducedRelevanceForChildrenConsideration
 - is_a_reduced_relevance_for_children_consideration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: AdultOrientedEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- reduced_relevance_for_children_consideration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_reduced_relevance_for_children_consideration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_reduced_relevance_for_children_consideration Class"
+type: Type
 ---
 
 Class of all reduced_relevance_for_children_considerations.

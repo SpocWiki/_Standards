@@ -1,5 +1,5 @@
----
-title: Stauroteuthis syrtensis
+﻿---
+title: "Stauroteuthis syrtensis"
 ---
 
 # Stauroteuthis syrtensis [Verrill 1879] 

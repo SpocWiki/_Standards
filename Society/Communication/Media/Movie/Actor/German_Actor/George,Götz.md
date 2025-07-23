@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Götz George
-  - Götz Karl August George
+- "Götz George"
+- "Götz Karl August George"
 ---
 
 # [[George,Götz]] 
@@ -10,8 +10,8 @@ aliases:
 #has_/time_/stopped ::  2016-06-19 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
-#has_/place_/started :: [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Berlin/cities~Berlin/Berlin|Berlin]]  
-#has_/place_/stopped ::  [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/State~Hamburg/cities~Hamburg/Hamburg|Hamburg]]  
+#has_/place_/started :: [[../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]]  
+#has_/place_/stopped ::  [[../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City|Hamburg,City]]  
 
 
 ## #has_/text_of_/abstract 

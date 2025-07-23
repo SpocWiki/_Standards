@@ -1,37 +1,37 @@
----
-has_id_wikidata: Q11563
+﻿---
+Commons_category: Numbers
+Commons_gallery: Numbers
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
 different_from:
 - '[[_Standards/WikiData/WD~Zahl,140598]]'
 - '[[_Standards/WikiData/WD~Number,4516286]]'
 - '[[_Standards/WikiData/WD~Tal,5576117]]'
 - '[[_Standards/WikiData/WD~Liczba,11755814]]'
-subclass_of: "[[_Standards/WikiData/WD~mathematical_object,246672]]"
-manifestation_of: '[[_Standards/WikiData/WD~quantity,309314]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~scalar,1289248]]'
-part_of: "[[_Standards/WikiData/WD~set_of_numbers,3054943]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Number_systems,6443303]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-has_characteristic: "[[_Standards/WikiData/WD~type_of_number,47460393]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q56402551,56402551]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Numbers%20grid%20in%20NY.jpg"
 equivalent_class: "https://schema.org/Number"
-Stack_Exchange_tag: "https://stackoverflow.com/tags/numbers"
+has_characteristic: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
+has_id_wikidata: Q11563
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Numbers%20grid%20in%20NY.jpg"
 Krugosvet_article: nauka_i_tehnika/matematika/CHISLO.html
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/NumberSetinC.svg"
-properties_for_this_type: "approximation algorithm"
-Wikidata_property: "numeric value"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+manifestation_of: '[[_Standards/WikiData/WD~quantity,309314]]'
 OmegaWiki_Defined_Meaning: 5878
-Commons_gallery: Numbers
-Commons_category: Numbers
+part_of: '[[_Standards/WikiData/WD~set_of_numbers,3054943]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q56402551,56402551]]'
 PhilPapers_topic: numbers
+properties_for_this_type: "approximation algorithm"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~scalar,1289248]]'
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/NumberSetinC.svg"
+Stack_Exchange_tag: "https://stackoverflow.com/tags/numbers"
+subclass_of: '[[_Standards/WikiData/WD~mathematical_object,246672]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Number_systems,6443303]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm"
+Wikidata_property: "numeric value"
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-is: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
-publish: true
-
-# Hugo Tags
-type: Predi_Date_Time
-title: has_time
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Date
-
+﻿---
 aliases:
 - date
 - has_time
 - has-time
 - P585
 - 
+confidential: public
+cssclasses: "Predicate Date_Time"
+draft: false
+expiryDate: 
+is: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Date
+title: has_time
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date and Time of an [[Event]]

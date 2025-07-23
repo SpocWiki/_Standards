@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- email
+- email
+- email
+- has_text_of_email
+- "schema:email"
+- "dbo:email"
+- "wdt:P968"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_email
-linkTitle: has_text_of_email
 keywords:
-  - email
+- email
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_email
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - email
-  - email
-  - email
-  - has_text_of_email
-  - schema:email
-  - dbo:email
-  - wdt:P968
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_email
+type: Pred_Text
 ---
 
 Predicate to describe the email-Address-Text of ContactPoint, Organization, Person.

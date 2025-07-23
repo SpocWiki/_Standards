@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_roof-load
-linkTitle: has_roof-load
-
-keywords: [roof-load]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - roof_load
 - roof-load
 - roofLoad
 - has_value_for_roof_load_in_kg
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- roof-load
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_roof-load
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_roof-load
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of BusOrCoach, Car.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_auto_wash Class
-linkTitle: is_an_auto_wash Class
-
-keywords: [auto_wash]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - auto-wash
 - auto_wash
 - AutoWash
 - is_an_auto_wash
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- auto_wash
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_auto_wash Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_auto_wash Class"
+type: Type
 ---
 
 Class of all auto_washs.

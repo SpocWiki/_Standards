@@ -1,36 +1,36 @@
----
+﻿---
 aliases:
 - "Music genre"
-has_id_wikidata: Q188451
-instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- "[[_Standards/WikiData/WD~elements_of_music,11696608]]"
-- '[[_Standards/WikiData/WD~metaclass,19478619]]'
-studied_in: '[[_Standards/WikiData/WD~musicology,164204]]'
-has_list: "[[_Standards/WikiData/WD~list_of_music_genres_and_styles,843744]]"
+Commons_category: "Musical genres"
+Commons_gallery: "Music genres"
+described_at_URL:
+- "http://everynoise.com/engenremap.html"
+- "https://www.musicmap.info/"
 different_from:
-- "[[_Standards/WikiData/WD~musical_form,862597]]"
-- "[[_Standards/WikiData/WD~composition_school,2250943]]"
-subclass_of: "[[_Standards/WikiData/WD~art_genre,1792379]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_music_genre,5618084]]"
-- "[[_Standards/WikiData/WD~Template_Music_genres,10708640]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~musical_style,11921029]]"
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~composition_school,2250943]]'
 equivalent_class:
 - "http://dbpedia.org/ontology/MusicGenre"
 - "http://purl.org/ontology/mo/Genre"
 - "http://service.ddex.net/dd/DD-AVS-001/dd/avs_ClassifiedGenre"
 - "http://data.doremus.org/ontology#M5_Genre"
-described_at_URL:
-- "http://everynoise.com/engenremap.html"
-- "https://www.musicmap.info/"
 exact_match: "http://service.ddex.net/dd/DD-AVS-001/dd/avs_ClassifiedGenre"
+has_id_wikidata: Q188451
+has_list: '[[_Standards/WikiData/WD~list_of_music_genres_and_styles,843744]]'
+instance_of:
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
+- '[[_Standards/WikiData/WD~metaclass,19478619]]'
 IPTC_NewsCode: mediatopic/20000021
 is_metaclass_for: '[[_Standards/WikiData/WD~music,115484611]]'
-Commons_gallery: "Music genres"
 properties_for_this_type: "country of origin"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~musical_style,11921029]]'
+studied_in: '[[_Standards/WikiData/WD~musicology,164204]]'
+subclass_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_music_genre,5618084]]'
+- '[[_Standards/WikiData/WD~Template_Music_genres,10708640]]'
 Wikidata_property: genre
-Commons_category: "Musical genres"
 ---
 
 ## #has_/text_of_/abstract 

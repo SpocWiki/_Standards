@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_copyright-year
-linkTitle: has_copyright-year
-
-keywords: [copyright-year]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - copyright_year
 - copyright-year
 - copyrightYear
 - has_value_for_copyright_year
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- copyright-year
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_copyright-year
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_copyright-year
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of CreativeWork.

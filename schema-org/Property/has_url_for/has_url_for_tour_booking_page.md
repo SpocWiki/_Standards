@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_tour_booking_page
-linkTitle: has_url_for_tour_booking_page
-
-keywords: [tour_booking_page]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Url
-
+﻿---
 aliases:
 - tour-booking-page
 - tour_booking_page
 - tourBookingPage
 - has_url_for_tour_booking_page
+confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tour_booking_page
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_tour_booking_page
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_tour_booking_page
+type: Predi_Url
 ---
 
 Predicate to specify the Url of Accommodation, ApartmentComplex, Place.

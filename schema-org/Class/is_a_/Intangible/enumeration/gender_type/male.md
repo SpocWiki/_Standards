@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_male Class
-linkTitle: is_a_male Class
-
-keywords: [male]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GenderType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - male
 - male
 - Male
 - is_a_male
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GenderType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- male
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_male Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_male Class"
+type: Type
 ---
 
 Class of all males.

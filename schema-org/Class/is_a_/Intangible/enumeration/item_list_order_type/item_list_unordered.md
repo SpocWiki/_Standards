@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_item_list_unordered Class
-linkTitle: is_an_item_list_unordered Class
-
-keywords: [item_list_unordered]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemListOrderType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - item-list-unordered
 - item_list_unordered
 - ItemListUnordered
 - is_an_item_list_unordered
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemListOrderType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- item_list_unordered
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_item_list_unordered Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_item_list_unordered Class"
+type: Type
 ---
 
 Class of all item_list_unordereds.

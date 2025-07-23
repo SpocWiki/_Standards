@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_accept_action Class
-linkTitle: is_an_accept_action Class
-
-keywords: [accept_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - accept-action
 - accept_action
 - AcceptAction
 - is_an_accept_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- accept_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_accept_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_accept_action Class"
+type: Type
 ---
 
 Class of all accept_actions.

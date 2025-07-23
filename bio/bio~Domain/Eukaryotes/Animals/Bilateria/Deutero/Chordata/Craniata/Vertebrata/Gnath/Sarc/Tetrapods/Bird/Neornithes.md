@@ -1,7 +1,7 @@
----
-title: Neornithes
+﻿---
 aliases:
-  - Neornithes
+- Neornithes
+title: Neornithes
 ---
 
 # [[Neornithes]]

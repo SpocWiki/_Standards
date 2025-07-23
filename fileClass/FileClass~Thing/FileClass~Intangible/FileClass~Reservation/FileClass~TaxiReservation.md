@@ -1,39 +1,39 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TaxiReservation
-  - class/Thing/Intangible/Reservation/TaxiReservation
-  - is_a_/TaxiReservation
-  - schema-org/TaxiReservation
-tags:
-  - class/FileClass
-  - class/TaxiReservation
-  - is_a_/TaxiReservation
-  - class/Thing/Intangible/Reservation/TaxiReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: eAWDPk
-    name: PartySize
-    options: {}
-    type: Number
-    path: ""
-  - id: yCZoOV
-    name: PickupLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: jCK5ub
-    name: PickupTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
+- id: eAWDPk
+  name: PartySize
+  options: {}
+  type: Number
+  path: ''
+- id: yCZoOV
+  name: PickupLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: jCK5ub
+  name: PickupTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TaxiReservation
+- class/Thing/Intangible/Reservation/TaxiReservation
+- is_a_/TaxiReservation
+- schema-org/TaxiReservation
+tags:
+- class/FileClass
+- class/TaxiReservation
+- is_a_/TaxiReservation
+- class/Thing/Intangible/Reservation/TaxiReservation
+version: 2.0
 ---
 
 # TaxiReservation

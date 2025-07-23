@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_online_full Class
-linkTitle: is_an_online_full Class
-
-keywords: [online_full]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GameServerStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - online-full
 - online_full
 - OnlineFull
 - is_an_online_full
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GameServerStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- online_full
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_online_full Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_online_full Class"
+type: Type
 ---
 
 Class of all online_fulls.

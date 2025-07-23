@@ -1,8 +1,8 @@
----
-title: Gazella
+﻿---
 aliases:
-  - Gazella
-  - Gazelle
+- Gazella
+- Gazelle
+title: Gazella
 ---
 
 # [[Gazelle]] 

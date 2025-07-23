@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Miloš Forman
-  - Milos Forman
+- "Miloš Forman"
+- "Milos Forman"
 ---
 
 #has_/time_/started :: 1932-02-18 

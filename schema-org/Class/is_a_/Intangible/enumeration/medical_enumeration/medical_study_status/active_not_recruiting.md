@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_active_not_recruiting Class
-linkTitle: is_an_active_not_recruiting Class
-
-keywords: [active_not_recruiting]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalStudyStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - active-not-recruiting
 - active_not_recruiting
 - ActiveNotRecruiting
 - is_an_active_not_recruiting
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalStudyStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- active_not_recruiting
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_active_not_recruiting Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_active_not_recruiting Class"
+type: Type
 ---
 
 Class of all active_not_recruitings.

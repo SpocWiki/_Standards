@@ -1,56 +1,56 @@
----
-has_id_wikidata: Q7365
+﻿---
+Commons_category: Muscles
+Commons_gallery: Muscle
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-studied_in: '[[_Standards/WikiData/WD~myology,674407]]'
-has_characteristic:
-- "[[_Standards/WikiData/WD~muscle_strength,3076906]]"
-- "[[_Standards/WikiData/WD~muscle_structure,27062223]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_muscle,5828621]]"
-part_of: "[[_Standards/WikiData/WD~muscular_system,7060553]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~muscle_organ_development,14863685]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~muscle_structure,27062223]]"
-- "[[_Standards/WikiData/WD~general_anatomical_term,28843519]]"
-- "[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292]]"
-- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~muscle_organ_development,14863685]]'
 different_from: '[[_Standards/WikiData/WD~Piskel,101250889]]'
+equivalent_class:
+- "http://dbpedia.org/ontology/Muscle"
+- "https://schema.org/Muscle"
+has_characteristic:
+- '[[_Standards/WikiData/WD~muscle_strength,3076906]]'
+- '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
+has_id_wikidata: Q7365
+Iconclass_notation: 31A2263
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Skeletal%20muscle.jpg"
 instance_of:
-- "[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]"
-- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-UMLS_CUI:
-- C4083049
-- C0026845
-TA98_Latin_term:
-- musculi
-- musculus
+- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+Krugosvet_article: nauka_i_tehnika/biologiya/MISHTSI.html
+MeSH_tree_code:
+- A02.633
+- A10.690
+OmegaWiki_Defined_Meaning: 431414
+part_of: '[[_Standards/WikiData/WD~muscular_system,7060553]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A5%82.wav"
 properties_for_this_type:
 - "antagonist muscle"
 - "muscle action"
 - "muscle insertion"
 - "muscle origin"
+studied_in: '[[_Standards/WikiData/WD~myology,674407]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
+- '[[_Standards/WikiData/WD~general_anatomical_term,28843519]]'
+- '[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+TA98_Latin_term:
+- musculi
+- musculus
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_muscle,5828621]]'
+UMLS_CUI:
+- C4083049
+- C0026845
+U_S_National_Archives_Identifier: 10643239
 Wikidata_property:
 - "muscle action"
 - "target muscle"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%AF%E0%A5%82.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Skeletal%20muscle.jpg"
-equivalent_class:
-- "http://dbpedia.org/ontology/Muscle"
-- "https://schema.org/Muscle"
-U_S_National_Archives_Identifier: 10643239
-Iconclass_notation: 31A2263
-OmegaWiki_Defined_Meaning: 431414
-MeSH_tree_code:
-- A02.633
-- A10.690
-Commons_gallery: Muscle
-Commons_category: Muscles
-Krugosvet_article: nauka_i_tehnika/biologiya/MISHTSI.html
 ---
 
 ## #has_/text_of_/abstract 

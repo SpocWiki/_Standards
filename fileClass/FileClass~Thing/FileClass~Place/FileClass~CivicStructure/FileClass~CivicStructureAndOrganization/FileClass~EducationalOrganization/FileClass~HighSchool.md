@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: school
-version: "2.0"
-tagNames:
-  - class/HighSchool
-  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool
-  - is_a_/HighSchool
-  - schema-org/HighSchool
-tags:
-  - class/FileClass
-  - class/HighSchool
-  - is_a_/HighSchool
-  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization
 fields: []
+icon: school
+limit: 9
+mapWithTag: false
+tagNames:
+- class/HighSchool
+- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool
+- is_a_/HighSchool
+- schema-org/HighSchool
+tags:
+- class/FileClass
+- class/HighSchool
+- is_a_/HighSchool
+- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool
+version: 2.0
 ---
 
 # HighSchool

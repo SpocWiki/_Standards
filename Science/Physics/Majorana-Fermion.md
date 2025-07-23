@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Majorana particle
+- "Majorana particle"
 ---
 
 ## #has_/text_of_/abstract 

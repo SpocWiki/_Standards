@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_size_system_metric Class
-linkTitle: is_a_size_system_metric Class
-
-keywords: [size_system_metric]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: SizeSystemEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - size-system-metric
 - size_system_metric
 - SizeSystemMetric
 - is_a_size_system_metric
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: SizeSystemEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- size_system_metric
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_size_system_metric Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_size_system_metric Class"
+type: Type
 ---
 
 Class of all size_system_metrics.

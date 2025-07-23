@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_funding
-
-linkTitle: has_funding
-keywords: [funding]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - funding
 - funding
 - funding
 - has_funding
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- funding
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_funding
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_funding
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

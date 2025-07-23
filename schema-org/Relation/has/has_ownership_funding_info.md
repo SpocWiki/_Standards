@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_ownership_funding_info
-
-linkTitle: has_ownership_funding_info
-keywords: [ownership, funding, info]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - ownership-funding-info
 - ownership_funding_info
 - ownershipFundingInfo
 - has_ownership_funding_info
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ownership
+- funding
+- info
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_ownership_funding_info
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_ownership_funding_info
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

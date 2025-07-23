@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_sign_or_symptom
-
-linkTitle: has_sign_or_symptom
-keywords: [sign, or, symptom]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - sign-or-symptom
 - sign_or_symptom
 - signOrSymptom
 - has_sign_or_symptom
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- sign
+- or
+- symptom
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sign_or_symptom
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_sign_or_symptom
+type: Predi_Relation
 ---
 
 Use it like this: 

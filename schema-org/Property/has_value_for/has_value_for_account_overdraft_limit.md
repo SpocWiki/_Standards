@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_account-overdraft-limit
-linkTitle: has_account-overdraft-limit
-
-keywords: [account-overdraft-limit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - account_overdraft_limit
 - account-overdraft-limit
 - accountOverdraftLimit
 - has_value_for_account_overdraft_limit
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- account-overdraft-limit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_account-overdraft-limit
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_account-overdraft-limit
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of BankAccount.

@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- given-name
+- name_given
+- givenName
+- has_name_given
+- "first name"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_name_given
-linkTitle: has_name_given
 keywords:
-  - given
-  - name
+- given
+- name
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_name_given
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - given-name
-  - name_given
-  - givenName
-  - has_name_given
-  - first name
+- class/Property
+- schema-org/Property/Text
+title: has_name_given
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Person.

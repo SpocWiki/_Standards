@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_value_pattern
-linkTitle: has_text_of_value_pattern
-
-keywords: [value, pattern]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - value-pattern
 - value_pattern
 - valuePattern
 - has_text_of_value_pattern
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- value
+- pattern
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_value_pattern
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_value_pattern
+type: Pred_Text
 ---
 
 Predicate to describe the Text of PropertyValueSpecification.

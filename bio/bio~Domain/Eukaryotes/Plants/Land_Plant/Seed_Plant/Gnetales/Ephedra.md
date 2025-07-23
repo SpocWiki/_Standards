@@ -1,18 +1,17 @@
----
-title: Ephedra
+﻿---
 aliases:
-  - Ephedra
-  - Ephedraceae
-  - Ephedrales
-  - joint-pine
-  - jointfir
-  - Mormon-tea
-  - Brigham tea
-  - mahuang
-  - 麻黄 
-  - 麻黃 
+- Ephedra
+- Ephedraceae
+- Ephedrales
+- joint-pine
+- jointfir
+- Mormon-tea
+- "Brigham tea"
+- mahuang
+- 麻黄
+- 麻黃
+title: Ephedra
 ---
-
 
 # [[Ephedra]] 
 

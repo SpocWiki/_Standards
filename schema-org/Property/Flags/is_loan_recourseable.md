@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_loan_recourseable
-linkTitle: is_loan_recourseable
-
-keywords: [loan_recourseable]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - recourse-loan
 - loan_recourseable
 - recourseLoan
 - is_loan_recourseable
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- loan_recourseable
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_loan_recourseable
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_loan_recourseable
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

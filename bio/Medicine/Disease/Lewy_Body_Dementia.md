@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Parkinson's Disease
-  - Lewy Body Dementia
+- "Parkinson's Disease"
+- "Lewy Body Dementia"
 ---
 
 # [[Lewy_Body_Dementia]]

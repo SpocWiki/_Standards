@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_body_measurement_hips Class
-linkTitle: is_a_body_measurement_hips Class
-
-keywords: [body_measurement_hips]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BodyMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - body-measurement-hips
 - body_measurement_hips
 - BodyMeasurementHips
 - is_a_body_measurement_hips
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BodyMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- body_measurement_hips
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_body_measurement_hips Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_body_measurement_hips Class"
+type: Type
 ---
 
 Class of all body_measurement_hipss.

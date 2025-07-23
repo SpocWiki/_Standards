@@ -1,7 +1,7 @@
----
-title: Charales
+﻿---
 aliases:
-  - Charales
+- Charales
+title: Charales
 ---
 
 # [[Charales]] 

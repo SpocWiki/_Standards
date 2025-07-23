@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_stage-as-number
-linkTitle: has_number_of_stage-as-number
-
-keywords: [stage-as-number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - stage_as_number
 - stage-as-number
 - stageAsNumber
 - has_number_of_stage_as_number
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- stage-as-number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_stage-as-number
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_stage-as-number
+type: Predi_Count
 ---
 
 Predicate to describe the Number of MedicalConditionStage.

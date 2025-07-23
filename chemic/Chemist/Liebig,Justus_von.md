@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Justus Freiherr von Liebig
+- "Justus Freiherr von Liebig"
 ---
 
 #is_/similar_to ::  [[Haber,Fritz]] 

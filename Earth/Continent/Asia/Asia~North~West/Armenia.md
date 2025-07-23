@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Armenia
-  - Arménie
-  - أرمينيا
-  - 亚美尼亚
-  - Армения
+- Armenia
+- Arménie
+- أرمينيا
+- 亚美尼亚
+- Армения
 - "the Republic of Armenia"
 - "la República de Armenia"
 Languages:
@@ -203,7 +203,7 @@ urban_population:
   - 1767628
   - 1770343
 native_label:
-  - Հայաստան
+- Հայաստան
 - "Հայաստանի Հանրապետություն"
 official_name: Հայաստան
 coordinates_of_northernmost_point: "Point(45.0 41.3)"

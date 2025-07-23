@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q323
+﻿---
 aliases:
-  - Big Bang
+- "Big Bang"
+has_id_wikidata: Q323
 ---
-
 
 ## #has_/text_of_/abstract 
 

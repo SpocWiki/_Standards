@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_legislation_legal_force
-
-linkTitle: has_legislation_legal_force
-keywords: [legislation, legal, force]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - legislation-legal-force
 - legislation_legal_force
 - legislationLegalForce
 - has_legislation_legal_force
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- legislation
+- legal
+- force
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_legislation_legal_force
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_legislation_legal_force
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

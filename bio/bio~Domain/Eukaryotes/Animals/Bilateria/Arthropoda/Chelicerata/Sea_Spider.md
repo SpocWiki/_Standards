@@ -1,10 +1,10 @@
----
-title: Pycnogonida
+﻿---
 aliases:
-  - Pycnogonida
-  - Pantopoda
-  - Sea spider
-  - Sea spiders
+- Pycnogonida
+- Pantopoda
+- "Sea spider"
+- "Sea spiders"
+title: Pycnogonida
 ---
 
 # [[Sea_Spider]]

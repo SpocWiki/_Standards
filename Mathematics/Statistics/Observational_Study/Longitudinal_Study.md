@@ -1,12 +1,12 @@
----
+﻿---
 aliases:
-  - Längsschnittstudie
-  - Verlaufsstudie
-  - Longitudinalstudie
-  - Längsschnittuntersuchung
-  - Längsschnitterhebung
-  - longitudinal survey
-  - panel study
+- Längsschnittstudie
+- Verlaufsstudie
+- Longitudinalstudie
+- Längsschnittuntersuchung
+- Längsschnitterhebung
+- "longitudinal survey"
+- "panel study"
 ---
 
 #is_/worse_than :: [[Observational_Study/Cross-sectional_Study]]

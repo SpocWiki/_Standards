@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_primary_prevention
-
-linkTitle: has_primary_prevention
-keywords: [primary, prevention]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - primary-prevention
 - primary_prevention
 - primaryPrevention
 - has_primary_prevention
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- primary
+- prevention
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_primary_prevention
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_primary_prevention
+type: Predi_Relation
 ---
 
 Use it like this: 

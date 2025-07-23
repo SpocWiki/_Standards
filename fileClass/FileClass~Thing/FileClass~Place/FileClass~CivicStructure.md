@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: building
-version: "2.0"
-tagNames:
-  - class/CivicStructure
-  - class/Thing/Place/CivicStructure
-  - is_a_/CivicStructure
-  - schema-org/CivicStructure
-tags:
-  - class/FileClass
-  - class/CivicStructure
-  - is_a_/CivicStructure
-  - class/Thing/Place/CivicStructure
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: ooOsz1
-    name: OpeningHours
-    options: {}
-    type: Input
-    path: ""
+- id: ooOsz1
+  name: OpeningHours
+  options: {}
+  type: Input
+  path: ''
+icon: building
+limit: 9
+mapWithTag: false
+tagNames:
+- class/CivicStructure
+- class/Thing/Place/CivicStructure
+- is_a_/CivicStructure
+- schema-org/CivicStructure
+tags:
+- class/FileClass
+- class/CivicStructure
+- is_a_/CivicStructure
+- class/Thing/Place/CivicStructure
+version: 2.0
 ---
 
 # CivicStructure

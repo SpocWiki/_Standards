@@ -1,62 +1,65 @@
----
+﻿---
 aliases:
 - "Tale of Genji"
-has_id_wikidata: Q8269
-author: "[[_Standards/WikiData/WD~Murasaki_Shikibu,81731]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Early_Middle_Japanese,182695]]"
+author: '[[_Standards/WikiData/WD~Murasaki_Shikibu,81731]]'
+Baidu_Tieba_name: 源氏物语
+characters:
+- '[[_Standards/WikiData/WD~Aoi_no_Ue,837259]]'
+- '[[_Standards/WikiData/WD~Lady_Fujitsubo,837256]]'
+- '[[_Standards/WikiData/WD~Hikaru_Genji,997646]]'
+- '[[_Standards/WikiData/WD~Murasaki,1028559]]'
+- '[[_Standards/WikiData/WD~Kaoru,6366252]]'
+- '[[_Standards/WikiData/WD~Niōnomiya,10901526]]'
+- '[[_Standards/WikiData/WD~Oborozukuyo,11092817]]'
+- '[[_Standards/WikiData/WD~Suzaku_Emperor,11094916]]'
+- '[[_Standards/WikiData/WD~Kiritsubo_Consort,11112643]]'
+- '[[_Standards/WikiData/WD~Kiritsubo_Emperor,11112640]]'
+- '[[_Standards/WikiData/WD~Reizei_Emperor,11395345]]'
+- '[[_Standards/WikiData/WD~Onna_San_no_miya,11446280]]'
+- '[[_Standards/WikiData/WD~Kokiden_no_nyōgo,11487341]]'
+- '[[_Standards/WikiData/WD~Akashi_no_Nyūdō,11512474]]'
+- '[[_Standards/WikiData/WD~mother_of_Ukifune,11558558]]'
+- '[[_Standards/WikiData/WD~Yūgao,18573685]]'
+- '[[_Standards/WikiData/WD~Kashiwagi,18573705]]'
+- '[[_Standards/WikiData/WD~Hanachirusato,18573739]]'
+- '[[_Standards/WikiData/WD~Ukifune,18573771]]'
+- '[[_Standards/WikiData/WD~Yūgiri,18573794]]'
+Commons_category: "The Tale of Genji"
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+country: '[[_Standards/WikiData/WD~Japan,17]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+culture: '[[_Standards/WikiData/WD~Kokufū_Bunka,5371143]]'
+derivative_work:
+- '[[_Standards/WikiData/WD~Genji_Monogatari,3759753]]'
+- '[[_Standards/WikiData/WD~Genji-e,11564187]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+first_line: いづれの御時にか、女御、更衣あまたさぶらひたまひけるなかに、いとやむごとなき際にはあらぬが、すぐれて時めきたまふありけり。
+genre: '[[_Standards/WikiData/WD~tsukuri_monogatari,11385322]]'
+Google_Doodle: 1000-years-of-the-tale-of-genji
 has_edition_or_translation:
-- "[[_Standards/WikiData/WD~Autograph_manuscript_of_the_Tale_of_Genji_by_Fujiwara_no_Teika,201335]]"
+- '[[_Standards/WikiData/WD~Autograph_manuscript_of_the_Tale_of_Genji_by_Fujiwara_no_Teika,201335]]'
 - '[[_Standards/WikiData/WD~Q11327318,11327318]]'
 - "[[_Standards/WikiData/WD~Yosano_Akiko's_translation_of_the_Tale_of_Genji,11361935]]"
 - '[[_Standards/WikiData/WD~Q11362982,11362982]]'
 - '[[_Standards/WikiData/WD~Q11392068,11392068]]'
 - '[[_Standards/WikiData/WD~Q11411420,11411420]]'
 - '[[_Standards/WikiData/WD~Q11420492,11420492]]'
-- "[[_Standards/WikiData/WD~Ōshima-bon_Genji_monogatari,11434908]]"
-- "[[_Standards/WikiData/WD~Bishūke-bon_Genji_Monogatari,11465279]]"
+- '[[_Standards/WikiData/WD~Ōshima-bon_Genji_monogatari,11434908]]'
+- '[[_Standards/WikiData/WD~Bishūke-bon_Genji_Monogatari,11465279]]'
 - '[[_Standards/WikiData/WD~Q11488348,11488348]]'
-- "[[_Standards/WikiData/WD~Genji_Monogatari_Juichii_Reishi-bon,11488717]]"
+- '[[_Standards/WikiData/WD~Genji_Monogatari_Juichii_Reishi-bon,11488717]]'
 - '[[_Standards/WikiData/WD~Myouyu-bon,11512620]]'
 - '[[_Standards/WikiData/WD~Q11515238,11515238]]'
-- "[[_Standards/WikiData/WD~manuscripts_of_the_Tale_of_Genji,11564158]]"
+- '[[_Standards/WikiData/WD~manuscripts_of_the_Tale_of_Genji,11564158]]'
 - '[[_Standards/WikiData/WD~Q11658778,11658778]]'
 - '[[_Standards/WikiData/WD~Q11667627,11667627]]'
 - '[[_Standards/WikiData/WD~Q22124582,22124582]]'
-- "[[_Standards/WikiData/WD~The_Tale_of_Genji,106583799]]"
-- "[[_Standards/WikiData/WD~Gendai_Kyōkotoba_Yaku_Genji_Monogatari,106981933]]"
-translator:
-- "[[_Standards/WikiData/WD~Arthur_Waley,711869]]"
-- "[[_Standards/WikiData/WD~Feng_Zikai,724200]]"
-- "[[_Standards/WikiData/WD~Suematsu_Kenchō,1058300]]"
-- "[[_Standards/WikiData/WD~Helen_Craig_McCullough,3076750]]"
-- "[[_Standards/WikiData/WD~Kikou_Yamata,3196555]]"
-- "[[_Standards/WikiData/WD~Edward_Seidensticker,3272933]]"
-- "[[_Standards/WikiData/WD~René_Sieffert,3426891]]"
-- "[[_Standards/WikiData/WD~Royall_Tyler,3826510]]"
-- "[[_Standards/WikiData/WD~Lin_Wenyue,9292137]]"
-- "[[_Standards/WikiData/WD~Dennis_Washburn,21061664]]"
-list_of_characters: "[[_Standards/WikiData/WD~list_of_The_Tale_of_Genji_characters,837212]]"
-characters:
-- "[[_Standards/WikiData/WD~Aoi_no_Ue,837259]]"
-- "[[_Standards/WikiData/WD~Lady_Fujitsubo,837256]]"
-- "[[_Standards/WikiData/WD~Hikaru_Genji,997646]]"
-- '[[_Standards/WikiData/WD~Murasaki,1028559]]'
-- '[[_Standards/WikiData/WD~Kaoru,6366252]]'
-- '[[_Standards/WikiData/WD~Niōnomiya,10901526]]'
-- '[[_Standards/WikiData/WD~Oborozukuyo,11092817]]'
-- "[[_Standards/WikiData/WD~Suzaku_Emperor,11094916]]"
-- "[[_Standards/WikiData/WD~Kiritsubo_Consort,11112643]]"
-- "[[_Standards/WikiData/WD~Kiritsubo_Emperor,11112640]]"
-- "[[_Standards/WikiData/WD~Reizei_Emperor,11395345]]"
-- "[[_Standards/WikiData/WD~Onna_San_no_miya,11446280]]"
-- "[[_Standards/WikiData/WD~Kokiden_no_nyōgo,11487341]]"
-- "[[_Standards/WikiData/WD~Akashi_no_Nyūdō,11512474]]"
-- "[[_Standards/WikiData/WD~mother_of_Ukifune,11558558]]"
-- '[[_Standards/WikiData/WD~Yūgao,18573685]]'
-- '[[_Standards/WikiData/WD~Kashiwagi,18573705]]'
-- '[[_Standards/WikiData/WD~Hanachirusato,18573739]]'
-- '[[_Standards/WikiData/WD~Ukifune,18573771]]'
-- '[[_Standards/WikiData/WD~Yūgiri,18573794]]'
+- '[[_Standards/WikiData/WD~The_Tale_of_Genji,106583799]]'
+- '[[_Standards/WikiData/WD~Gendai_Kyōkotoba_Yaku_Genji_Monogatari,106981933]]'
+has_id_wikidata: Q8269
 has_part_s_:
 - '[[_Standards/WikiData/WD~Suetsumuhana,985686]]'
 - '[[_Standards/WikiData/WD~Hanachirusato,4919499]]'
@@ -72,17 +75,17 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Utsusemi,6653262]]'
 - '[[_Standards/WikiData/WD~Hahakigi,6654195]]'
 - '[[_Standards/WikiData/WD~Hatsune,6654204]]'
-- "[[_Standards/WikiData/WD~Hana_no_En,6654215]]"
+- '[[_Standards/WikiData/WD~Hana_no_En,6654215]]'
 - '[[_Standards/WikiData/WD~Sekiya,6662797]]'
 - '[[_Standards/WikiData/WD~Kochō,6671869]]'
 - '[[_Standards/WikiData/WD~Yomogiu,6672990]]'
 - '[[_Standards/WikiData/WD~Otome,6675242]]'
 - '[[_Standards/WikiData/WD~Eawase,6901843]]'
-- "[[_Standards/WikiData/WD~Momiji_no_Ga,6903130]]"
+- '[[_Standards/WikiData/WD~Momiji_no_Ga,6903130]]'
 - '[[_Standards/WikiData/WD~Ukifune,7878315]]'
 - '[[_Standards/WikiData/WD~Yūgao,10932251]]'
 - '[[_Standards/WikiData/WD~Yūgiri,11430284]]'
-- "[[_Standards/WikiData/WD~Yume_no_Ukihashi,11431649]]"
+- '[[_Standards/WikiData/WD~Yume_no_Ukihashi,11431649]]'
 - '[[_Standards/WikiData/WD~Yadorigi,11455625]]'
 - '[[_Standards/WikiData/WD~Tokonatsu,11481349]]'
 - '[[_Standards/WikiData/WD~Maboroshi,11484115]]'
@@ -103,7 +106,7 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Agemaki,11607710]]'
 - '[[_Standards/WikiData/WD~Wakana,11616716]]'
 - '[[_Standards/WikiData/WD~Fujibakama,11624966]]'
-- "[[_Standards/WikiData/WD~Fuji_no_Uraba,11624965]]"
+- '[[_Standards/WikiData/WD~Fuji_no_Uraba,11624965]]'
 - '[[_Standards/WikiData/WD~Hotaru,11625547]]'
 - '[[_Standards/WikiData/WD~Kagerō,11625751]]'
 - '[[_Standards/WikiData/WD~Miyuki,11626054]]'
@@ -112,41 +115,38 @@ has_part_s_:
 - '[[_Standards/WikiData/WD~Suzumushi,11649454]]'
 - '[[_Standards/WikiData/WD~Kumogakure,11660097]]'
 - '[[_Standards/WikiData/WD~Niōnomiya,18573752]]'
-named_after: "[[_Standards/WikiData/WD~Hikaru_Genji,997646]]"
-main_subject: "[[_Standards/WikiData/WD~mono_no_aware,1190238]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
-- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-derivative_work:
-- "[[_Standards/WikiData/WD~Genji_Monogatari,3759753]]"
-- '[[_Standards/WikiData/WD~Genji-e,11564187]]'
-part_of: "[[_Standards/WikiData/WD~Heian_literature,5365930]]"
-culture: "[[_Standards/WikiData/WD~Kokufū_Bunka,5371143]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-genre: "[[_Standards/WikiData/WD~tsukuri_monogatari,11385322]]"
+has_spin_off: '[[_Standards/WikiData/WD~provenance_of_the_Tale_of_Genji_and_related_works,11564161]]'
+has_time_started: 1010-06
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20emaki%2001003%20002.jpg"
+inception: 1010-06
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Early_Middle_Japanese,182695]]'
+last_line: いつしかと待ちおはするに、かくたどたどしくて歸り來たれば、すさまじく、「なかなかなり」と、思すことさまざまにて、「人の隱し据ゑたるにやあらむ」と、わが御心の思ひ寄らぬ隈なく、落とし置きたまへりしならひに、とぞ本にはべめる。
+list_of_characters: '[[_Standards/WikiData/WD~list_of_The_Tale_of_Genji_characters,837212]]'
 list_of_episodes:
 - '[[_Standards/WikiData/WD~Q11564162,11564162]]'
-- "[[_Standards/WikiData/WD~plot_of_The_Tale_of_Genji,11564167]]"
-has_spin_off: "[[_Standards/WikiData/WD~provenance_of_the_Tale_of_Genji_and_related_works,11564161]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_The_Tale_of_Genji,14636263]]"
-Stack_Exchange_tag: "https://literature.stackexchange.com/tags/the-tale-of-genji"
-Baidu_Tieba_name: 源氏物语
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
-country: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~plot_of_The_Tale_of_Genji,11564167]]'
+main_subject: '[[_Standards/WikiData/WD~mono_no_aware,1190238]]'
+named_after: '[[_Standards/WikiData/WD~Hikaru_Genji,997646]]'
 number_of_parts_of_this_work:
-  - 60
-  - 54
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20emaki%2001003%20002.jpg"
-Google_Doodle: 1000-years-of-the-tale-of-genji
-Commons_category: "The Tale of Genji"
-last_line: いつしかと待ちおはするに、かくたどたどしくて歸り來たれば、すさまじく、「なかなかなり」と、思すことさまざまにて、「人の隱し据ゑたるにやあらむ」と、わが御心の思ひ寄らぬ隈なく、落とし置きたまへりしならひに、とぞ本にはべめる。
-first_line: いづれの御時にか、女御、更衣あまたさぶらひたまひけるなかに、いとやむごとなき際にはあらぬが、すぐれて時めきたまふありけり。
+- 60
+- 54
+part_of: '[[_Standards/WikiData/WD~Heian_literature,5365930]]'
+Stack_Exchange_tag: "https://literature.stackexchange.com/tags/the-tale-of-genji"
+time_of_earliest_written_record: 1008-12-07
 title: 源氏物語
-inception: 1010-06 
-has_time_started: 1010-06 
-time_of_earliest_written_record: "1008-12-07"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_The_Tale_of_Genji,14636263]]'
+translator:
+- '[[_Standards/WikiData/WD~Arthur_Waley,711869]]'
+- '[[_Standards/WikiData/WD~Feng_Zikai,724200]]'
+- '[[_Standards/WikiData/WD~Suematsu_Kenchō,1058300]]'
+- '[[_Standards/WikiData/WD~Helen_Craig_McCullough,3076750]]'
+- '[[_Standards/WikiData/WD~Kikou_Yamata,3196555]]'
+- '[[_Standards/WikiData/WD~Edward_Seidensticker,3272933]]'
+- '[[_Standards/WikiData/WD~René_Sieffert,3426891]]'
+- '[[_Standards/WikiData/WD~Royall_Tyler,3826510]]'
+- '[[_Standards/WikiData/WD~Lin_Wenyue,9292137]]'
+- '[[_Standards/WikiData/WD~Dennis_Washburn,21061664]]'
 ---
 
 ## #has_/text_of_/abstract 

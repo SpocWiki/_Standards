@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - biose
-  - double sugar
+- biose
+- "double sugar"
 ---
 
 #is_/sub_class_of :: [[Oligosaccharide]] 

@@ -1,57 +1,57 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DietarySupplement
-  - class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
-  - is_a_/DietarySupplement
-  - schema-org/DietarySupplement
-tags:
-  - class/FileClass
-  - class/DietarySupplement
-  - is_a_/DietarySupplement
-  - class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
 fields:
-  - id: qdyxLp
-    name: IsProprietary
-    options: {}
-    type: Boolean
-    path: ""
-  - id: DZ6Yqt
-    name: MechanismOfAction
-    options: {}
-    type: Input
-    path: ""
-  - id: HLbMD3
-    name: NonProprietaryName
-    options: {}
-    type: Input
-    path: ""
-  - id: 4nRNye
-    name: ProprietaryName
-    options: {}
-    type: Input
-    path: ""
-  - id: YTU8yH
-    name: RecommendedIntake
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule')
-    type: MultiFile
-    path: ""
-  - id: 1kzL35
-    name: SafetyConsideration
-    options: {}
-    type: Input
-    path: ""
-  - id: Vhygnt
-    name: TargetPopulation
-    options: {}
-    type: Input
-    path: ""
+- id: qdyxLp
+  name: IsProprietary
+  options: {}
+  type: Boolean
+  path: ''
+- id: DZ6Yqt
+  name: MechanismOfAction
+  options: {}
+  type: Input
+  path: ''
+- id: HLbMD3
+  name: NonProprietaryName
+  options: {}
+  type: Input
+  path: ''
+- id: 4nRNye
+  name: ProprietaryName
+  options: {}
+  type: Input
+  path: ''
+- id: YTU8yH
+  name: RecommendedIntake
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule')"
+  type: MultiFile
+  path: ''
+- id: 1kzL35
+  name: SafetyConsideration
+  options: {}
+  type: Input
+  path: ''
+- id: Vhygnt
+  name: TargetPopulation
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DietarySupplement
+- class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
+- is_a_/DietarySupplement
+- schema-org/DietarySupplement
+tags:
+- class/FileClass
+- class/DietarySupplement
+- is_a_/DietarySupplement
+- class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
+version: 2.0
 ---
 
 # DietarySupplement

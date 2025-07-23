@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Ryan Reynolds
-  - Ryan Rodney Reynolds
+- "Ryan Reynolds"
+- "Ryan Rodney Reynolds"
 ---
 
 #has_/time_/started :: 1976-10-23 

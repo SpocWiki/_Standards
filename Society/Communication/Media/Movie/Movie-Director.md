@@ -1,34 +1,34 @@
----
+﻿---
 aliases:
-  - film director
-  - filmmaker
-  - Movie Director
-  - Movie-Director
-title: Movie-Director
-lang: en
-type: private_note
-keywords: Movie-Director
-linkTitle: Movie-Director
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
+- "film director"
+- filmmaker
+- "Movie Director"
+- Movie-Director
 confidential: private
+cssclasses:
+- private
+- note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-07-20
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+keywords: Movie-Director
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: Movie-Director
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-07-20
 tags:
-  - Movie-Director
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- Movie-Director
+- excalidraw
+title: Movie-Director
+type: private_note
 ---
 
 # [[Movie-Director]] 

@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- birth-date
+- birth_date
+- birthDate
+- has_time_of_birth
+- "schema:birthDate"
+- "dbo:birthDate"
+- "wdt:P569"
 confidential: public
+cssclasses:
+- Predicate
+- Date_Time
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Date_Time
-publish: true
-type: Predi_Date_Time
-title: has_time_of_birth
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Date
-aliases:
-  - birth-date
-  - birth_date
-  - birthDate
-  - has_time_of_birth
-  - schema:birthDate
-  - dbo:birthDate
-  - wdt:P569
+- class/Property
+- schema-org/Property/Date
+title: has_time_of_birth
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of Person.

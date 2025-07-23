@@ -1,7 +1,7 @@
----
-title: Deferribacteres
+﻿---
 aliases:
-  - Deferribacteres
+- Deferribacteres
+title: Deferribacteres
 ---
 
 # [[Deferribacteres]] 

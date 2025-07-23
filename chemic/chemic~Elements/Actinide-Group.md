@@ -1,44 +1,44 @@
----
-type: ElementGroup
-has_id_wikidata: Q19577
-subclass_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-studied_by: "[[_Standards/WikiData/WD~actinide_chemistry,1010999]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-has_part_s_:
-  - "[[_Standards/WikiData/WD~uranium,1098]]"
-  - "[[_Standards/WikiData/WD~plutonium,1102]]"
-  - "[[_Standards/WikiData/WD~neptunium,1105]]"
-  - "[[_Standards/WikiData/WD~protactinium,1109]]"
-  - "[[_Standards/WikiData/WD~thorium,1115]]"
-  - "[[_Standards/WikiData/WD~americium,1872]]"
-  - "[[_Standards/WikiData/WD~curium,1876]]"
-  - "[[_Standards/WikiData/WD~berkelium,1882]]"
-  - "[[_Standards/WikiData/WD~californium,1888]]"
-  - "[[_Standards/WikiData/WD~einsteinium,1892]]"
-  - "[[_Standards/WikiData/WD~mendelevium,1898]]"
-  - "[[_Standards/WikiData/WD~fermium,1896]]"
-  - "[[_Standards/WikiData/WD~nobelium,1901]]"
-  - "[[_Standards/WikiData/WD~lawrencium,1905]]"
-named_after: "[[_Standards/WikiData/WD~actinium,1121]]"
-part_of: "[[_Standards/WikiData/WD~periodic_table,10693]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_series,19549]]"
-OmegaWiki_Defined_Meaning: "32"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg
-element_symbol: An
-Dewey_Decimal_Classification:
-  - "546.42"
-  - "669.292"
-P8189: "987007293854005171"
+﻿---
 Commons_category: Actinides
-UMLS_CUI: C0025553
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+Dewey_Decimal_Classification:
+- 546.42
+- 669.292
+element_symbol: An
+has_id_wikidata: Q19577
+has_part_s_:
+- '[[_Standards/WikiData/WD~uranium,1098]]'
+- '[[_Standards/WikiData/WD~plutonium,1102]]'
+- '[[_Standards/WikiData/WD~neptunium,1105]]'
+- '[[_Standards/WikiData/WD~protactinium,1109]]'
+- '[[_Standards/WikiData/WD~thorium,1115]]'
+- '[[_Standards/WikiData/WD~americium,1872]]'
+- '[[_Standards/WikiData/WD~curium,1876]]'
+- '[[_Standards/WikiData/WD~berkelium,1882]]'
+- '[[_Standards/WikiData/WD~californium,1888]]'
+- '[[_Standards/WikiData/WD~einsteinium,1892]]'
+- '[[_Standards/WikiData/WD~mendelevium,1898]]'
+- '[[_Standards/WikiData/WD~fermium,1896]]'
+- '[[_Standards/WikiData/WD~nobelium,1901]]'
+- '[[_Standards/WikiData/WD~lawrencium,1905]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg"
+instance_of: '[[_Standards/WikiData/WD~chemical_series,19549]]'
 MeSH_tree_code:
-  - D01.268.271.100
-  - D01.496.749.305.100
-  - D01.552.020
+- D01.268.271.100
+- D01.496.749.305.100
+- D01.552.020
+named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
+OmegaWiki_Defined_Meaning: 32
+P8189: 987007293854005171
+part_of: '[[_Standards/WikiData/WD~periodic_table,10693]]'
 short_name: An
+studied_by: '[[_Standards/WikiData/WD~actinide_chemistry,1010999]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+type: ElementGroup
+UMLS_CUI: C0025553
 ---
 
 # [[Actinide-Group]] 

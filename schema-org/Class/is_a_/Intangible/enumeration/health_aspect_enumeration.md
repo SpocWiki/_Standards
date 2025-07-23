@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_health_aspect_enumeration Class
-linkTitle: is_a_health_aspect_enumeration Class
-
-keywords: [health_aspect_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - health-aspect-enumeration
 - health_aspect_enumeration
 - HealthAspectEnumeration
 - is_a_health_aspect_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health_aspect_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_health_aspect_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_health_aspect_enumeration Class"
+type: Type
 ---
 
 Class of all health_aspect_enumerations.

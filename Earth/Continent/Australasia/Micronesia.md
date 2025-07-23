@@ -118,7 +118,7 @@ rural_population:
 population: 105544
 OmegaWiki_Defined_Meaning: 153582
 short_name:
-  - FM
+- FM
 - "\U0001F1EB\U0001F1F2"
 INSEE_countries_and_foreign_territories_code: 99516
 U_S_National_Archives_Identifier: 10035700
@@ -201,7 +201,7 @@ motto_text:
 official_website: "https://gov.fm"
 coordinates_of_easternmost_point: "Point(162.973889 5.313333)"
 native_label:
-  - Mikronesia
+- Mikronesia
 - "Federated States of Micronesia"
 inception: "1986-11-03"
 has_time_started: "1986-11-03"

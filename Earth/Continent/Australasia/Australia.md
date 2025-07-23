@@ -414,7 +414,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mpalitjanh,6928192]]'
 - '[[_Standards/WikiData/WD~Nakkara,6960662]]'
 - '[[_Standards/WikiData/WD~Nauo,6981305]]'
-  - "[[_Standards/WikiData/WD~Ndra'ngith,6983809]]"
+- "[[_Standards/WikiData/WD~Ndra'ngith,6983809]]"
 - '[[_Standards/WikiData/WD~Ngadjunmaya,7021846]]'
 - '[[_Standards/WikiData/WD~Ngamini,7021944]]'
 - '[[_Standards/WikiData/WD~Ngandi,7021977]]'
@@ -487,7 +487,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuku-Mangk,10549851]]'
 - '[[_Standards/WikiData/WD~Kuku-Muminh,10549849]]'
 - '[[_Standards/WikiData/WD~Kuku-Ugbanh,10549854]]'
-  - "[[_Standards/WikiData/WD~Kuku-Mu'inh,10549852]]"
+- "[[_Standards/WikiData/WD~Kuku-Mu'inh,10549852]]"
 - '[[_Standards/WikiData/WD~Kunggari,10550184]]'
 - "[[_Standards/WikiData/WD~Kuuku_Ya'u,10550697]]"
 - '[[_Standards/WikiData/WD~Kwini,10551249]]'
@@ -518,7 +518,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Wakka_Wakka,10719110]]"
 - '[[_Standards/WikiData/WD~Wariyangga,10719289]]'
 - '[[_Standards/WikiData/WD~Wik-Epa,10720035]]'
-  - "[[_Standards/WikiData/WD~Wik-Me'anha,10720039]]"
+- "[[_Standards/WikiData/WD~Wik-Me'anha,10720039]]"
 - '[[_Standards/WikiData/WD~Wik-Iiyanh,10720036]]'
 - '[[_Standards/WikiData/WD~Wik-Keyangan,10720037]]'
 - '[[_Standards/WikiData/WD~Wikngenchera,10720045]]'

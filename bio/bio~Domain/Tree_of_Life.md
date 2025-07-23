@@ -1,6 +1,7 @@
+﻿---
+title: "Tree of Life"
 ---
-title: Tree of Life
----
+
 # [[Tree_of_Life]]   
 
 ![Meloid on a yellow composite flower](meloid.gif) ![Fischerella](fischerella.gif) 

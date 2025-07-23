@@ -1,66 +1,66 @@
----
-type: Element
-SpocWebEntityId: 21908
-has_id_wikidata: Q618
-UMLS_CUI: C0006030
-MeSH_tree_code: D01.268.513.500
-DSSTOX_compound_identifier: DTXCID503922
-InChI: InChI=1S/B
-UNII: N9E3X5056Q
-InChIKey: ZOXJGFHDIHLPTG-UHFFFAOYSA-N
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
-made_from_material: '[[_Standards/WikiData/WD~jadarite,182344]]'
-part_of:
-- "[[_Standards/WikiData/WD~group_13,189294]]"
-- "[[_Standards/WikiData/WD~period_2,207712]]"
-- "[[_Standards/WikiData/WD~boron_compound,49851249]]"
+﻿---
+atomic_number: 5
+boiling_point: 4000
+canonical_SMILES: '[B]'
+CAS_Registry_Number: 7440-42-8
+chemical_formula: B
+Commons_category: Boron
+Commons_gallery: Boron
+density:
+- 2080
+- 2.46
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+Dewey_Decimal_Classification: 546.671
 different_from:
 - '[[_Standards/WikiData/WD~Bor,1346524]]'
 - '[[_Standards/WikiData/WD~borophene,15916419]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+DSSTOX_compound_identifier: DTXCID503922
+EC_number: 231-151-2
+electronegativity: 2
+electron_configuration:
+- "[He] 2s² 2p¹"
+- "1s² 2s² 2p¹"
+element_symbol: B
+has_id_wikidata: Q618
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Boron.jpg"
+InChI: InChI=1S/B
+InChIKey: ZOXJGFHDIHLPTG-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+made_from_material: '[[_Standards/WikiData/WD~jadarite,182344]]'
+mass: 10.81
+melting_point: 2077
+MeSH_tree_code: D01.268.513.500
 named_after: '[[_Standards/WikiData/WD~borax,3513011]]'
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-time_of_discovery_or_invention: "1892"
-subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
+OmegaWiki_Defined_Meaning: 420
 oxidation_state:
 - 1
 - 2
 - 3
-electronegativity: 2
-boiling_point: 4000
-atomic_number: 5
-ultimate_tensile_strength: 5700
-density:
-- 2080
-- 2.46
-chemical_formula: B
-element_symbol: B
-mass: 10.81
-OmegaWiki_Defined_Meaning: 420
-melting_point: 2077
-ZVG_number: 8030
-Commons_category: Boron
-Commons_gallery: Boron
-canonical_SMILES: '[B]'
-Unicode_character: 硼
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Boron.jpg"
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20005%20Boron.png"
-electron_configuration:
-- "[He] 2s² 2p¹"
-- "1s² 2s² 2p¹"
-EC_number: 231-151-2
-Dewey_Decimal_Classification: 546.671
+part_of:
+- '[[_Standards/WikiData/WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_2,207712]]'
+- '[[_Standards/WikiData/WD~boron_compound,49851249]]'
 PubChem_CID: 5462311
-CAS_Registry_Number: 7440-42-8
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20005%20Boron.png"
+SpocWebEntityId: 21908
+subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+time_of_discovery_or_invention: 1892
+type: Element
+ultimate_tensile_strength: 5700
+UMLS_CUI: C0006030
+Unicode_character: 硼
+UNII: N9E3X5056Q
+ZVG_number: 8030
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Boron,618]] 

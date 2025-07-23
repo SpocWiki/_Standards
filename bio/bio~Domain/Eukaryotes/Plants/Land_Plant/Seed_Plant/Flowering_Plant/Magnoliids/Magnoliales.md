@@ -1,7 +1,7 @@
----
-title: Magnoliales
+﻿---
 aliases:
-  - Magnoliales
+- Magnoliales
+title: Magnoliales
 ---
 
 # [[Magnoliales]] 

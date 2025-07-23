@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_associated_pathophysiology
-linkTitle: has_text_of_associated_pathophysiology
-
-keywords: [associated, pathophysiology]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - associated-pathophysiology
 - associated_pathophysiology
 - associatedPathophysiology
 - has_text_of_associated_pathophysiology
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- associated
+- pathophysiology
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_associated_pathophysiology
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_associated_pathophysiology
+type: Pred_Text
 ---
 
 Predicate to describe the Text of AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy.

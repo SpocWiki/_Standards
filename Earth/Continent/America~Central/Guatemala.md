@@ -92,7 +92,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Itza_,35537]]'
 - '[[_Standards/WikiData/WD~Q_anjob_al,35551]]'
 - "[[_Standards/WikiData/WD~Mopan_Maya,36183]]"
-  - "[[_Standards/WikiData/WD~Poqomchi',36414]]"
+- "[[_Standards/WikiData/WD~Poqomchi',36414]]"
 - '[[_Standards/WikiData/WD~Sakapultek,36412]]'
 - '[[_Standards/WikiData/WD~Poqomam,36416]]'
 - '[[_Standards/WikiData/WD~K_iche_,36494]]'
@@ -288,7 +288,7 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guat
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guatemala.svg"
 INSEE_countries_and_foreign_territories_code: 99409
 official_name:
-  - Guatemala
+- Guatemala
 - "République du Guatémala"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Guatemala.map"
 hashtag: Guatemala
@@ -367,10 +367,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Guatemala
-    - غواتيمالا
-    - 危地马拉
-    - Гватемала
+- Guatemala
+- غواتيمالا
+- 危地马拉
+- Гватемала
 - "the Republic of Guatemala"
 - "la República de Guatemala"
 Languages:

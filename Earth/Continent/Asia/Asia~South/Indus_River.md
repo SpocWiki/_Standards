@@ -1,63 +1,63 @@
 ---
+aliases:
+- "Indus River"
+basin_country:
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+BHCL_UUID: d50c8651-881b-4ec7-87e7-1e55ee7cbf19
+Commons_category: "Indus River"
+Commons_gallery: "River Indus"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+coordinate_location:
+- "Point(81.7684 31.2421)"
+- "Point(67.4308 23.9944)"
+country:
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+dam: '[[_Standards/WikiData/WD~Tarbela_Dam,1551258]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+different_from:
+- '[[_Standards/WikiData/WD~Indians,862086]]'
+- '[[_Standards/WikiData/WD~Dalaman_River,18676664]]'
+discharge: 6600
+drainage_basin: '[[_Standards/WikiData/WD~Indus_basin,46507260]]'
 has_id_wikidata: Q7348
-tributary:
-- "[[_Standards/WikiData/WD~Zanskar_River,147014]]"
-- "[[_Standards/WikiData/WD~Haro_River,405695]]"
-- "[[_Standards/WikiData/WD~Gilgit_River,965543]]"
-- "[[_Standards/WikiData/WD~Shigar_River,1398191]]"
-- "[[_Standards/WikiData/WD~Shyok_River,1587234]]"
-- "[[_Standards/WikiData/WD~Panjnad_River,2049556]]"
-- "[[_Standards/WikiData/WD~Suru_River,2093332]]"
-- "[[_Standards/WikiData/WD~Soan_River,2665231]]"
-- "[[_Standards/WikiData/WD~Kurram_River,3634002]]"
-- "[[_Standards/WikiData/WD~Gomal_River,8501]]"
-- "[[_Standards/WikiData/WD~Kabul_River,8515]]"
-origin_of_the_watercourse:
-- "[[_Standards/WikiData/WD~Tibetan_Plateau,179842]]"
-- "[[_Standards/WikiData/WD~Sengge_Zangbo,7666170]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Indus%20near%20Skardu.jpg"
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+length: 3180
 located_in_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Ladakh,200667]]'
 - '[[_Standards/WikiData/WD~Gilgit-Baltistan,200697]]'
 - '[[_Standards/WikiData/WD~Hazara,10773634]]'
 - '[[_Standards/WikiData/WD~Punjab,4478]]'
-- "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
 - '[[_Standards/WikiData/WD~Sindh,37211]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-different_from:
-- '[[_Standards/WikiData/WD~Indians,862086]]'
-- "[[_Standards/WikiData/WD~Dalaman_River,18676664]]"
-dam: "[[_Standards/WikiData/WD~Tarbela_Dam,1551258]]"
-drainage_basin: "[[_Standards/WikiData/WD~Indus_basin,46507260]]"
-BHCL_UUID: d50c8651-881b-4ec7-87e7-1e55ee7cbf19
-Commons_gallery: "River Indus"
-country:
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-basin_country:
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-instance_of: '[[_Standards/WikiData/WD~river,4022]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-discharge: 6600
-length: 3180
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Arabian_Sea,58705]]"
-watershed_area: 1165000
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Indus%20%28fleuve%29.png"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Indus%20near%20Skardu.jpg"
-U_S_National_Archives_Identifier: 10038808
-Commons_category: "Indus River"
-coordinate_location:
-- "Point(81.7684 31.2421)"
-- "Point(67.4308 23.9944)"
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Arabian_Sea,58705]]'
 native_label: نیلاب
-aliases:
-- "Indus River"
+origin_of_the_watercourse:
+- '[[_Standards/WikiData/WD~Tibetan_Plateau,179842]]'
+- '[[_Standards/WikiData/WD~Sengge_Zangbo,7666170]]'
+tributary:
+- '[[_Standards/WikiData/WD~Zanskar_River,147014]]'
+- '[[_Standards/WikiData/WD~Haro_River,405695]]'
+- '[[_Standards/WikiData/WD~Gilgit_River,965543]]'
+- '[[_Standards/WikiData/WD~Shigar_River,1398191]]'
+- '[[_Standards/WikiData/WD~Shyok_River,1587234]]'
+- '[[_Standards/WikiData/WD~Panjnad_River,2049556]]'
+- '[[_Standards/WikiData/WD~Suru_River,2093332]]'
+- '[[_Standards/WikiData/WD~Soan_River,2665231]]'
+- '[[_Standards/WikiData/WD~Kurram_River,3634002]]'
+- '[[_Standards/WikiData/WD~Gomal_River,8501]]'
+- '[[_Standards/WikiData/WD~Kabul_River,8515]]'
+U_S_National_Archives_Identifier: 10038808
+watershed_area: 1165000
 ---
 
 ## #has_/text_of_/abstract 

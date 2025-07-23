@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalTestPanel
-  - class/Thing/MedicalEntity/MedicalTest/MedicalTestPanel
-  - is_a_/MedicalTestPanel
-  - schema-org/MedicalTestPanel
-tags:
-  - class/FileClass
-  - class/MedicalTestPanel
-  - is_a_/MedicalTestPanel
-  - class/Thing/MedicalEntity/MedicalTest/MedicalTestPanel
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields:
-  - id: zMZzLZ
-    name: SubTest
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')
-    type: MultiFile
-    path: ""
+- id: zMZzLZ
+  name: SubTest
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalTest')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalTestPanel
+- class/Thing/MedicalEntity/MedicalTest/MedicalTestPanel
+- is_a_/MedicalTestPanel
+- schema-org/MedicalTestPanel
+tags:
+- class/FileClass
+- class/MedicalTestPanel
+- is_a_/MedicalTestPanel
+- class/Thing/MedicalEntity/MedicalTest/MedicalTestPanel
+version: 2.0
 ---
 
 # MedicalTestPanel

@@ -305,7 +305,7 @@ official_name:
 - "Repubblica di Slovenia"
 - "Szlovén Köztársaság"
 - "Republika Slovenija"
-  - Slovenija
+- Slovenija
 demonym:
   - صلوڤيني
   - صلوڤينية
@@ -553,12 +553,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Slovenia
-    - Eslovenia
-    - Slovénie
-    - سلوفينيا
-    - 斯洛文尼亚
-    - Словения
+- Slovenia
+- Eslovenia
+- Slovénie
+- سلوفينيا
+- 斯洛文尼亚
+- Словения
 - "the Republic of Slovenia"
 - "la República de Eslovenia"
 Languages:

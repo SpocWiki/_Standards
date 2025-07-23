@@ -1,7 +1,7 @@
----
-title: Berberidopsidales
+﻿---
 aliases:
-  - Berberidopsidales
+- Berberidopsidales
+title: Berberidopsidales
 ---
 
 # [[Berberidopsidales]] 

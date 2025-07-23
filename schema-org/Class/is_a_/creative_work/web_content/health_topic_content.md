@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_health_topic_content Class
-linkTitle: is_a_health_topic_content Class
-
-keywords: [health_topic_content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - health-topic-content
 - health_topic_content
 - HealthTopicContent
 - is_a_health_topic_content
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health_topic_content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_health_topic_content Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_health_topic_content Class"
+type: Type
 ---
 
 Class of all health_topic_contents.

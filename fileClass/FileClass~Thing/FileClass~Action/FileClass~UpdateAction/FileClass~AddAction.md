@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AddAction
-  - class/Thing/Action/UpdateAction/AddAction
-  - is_an_/AddAction
-  - schema-org/AddAction
-tags:
-  - class/FileClass
-  - class/AddAction
-  - "#is_an_/AddAction"
-  - class/Thing/Action/UpdateAction/AddAction
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AddAction
+- class/Thing/Action/UpdateAction/AddAction
+- is_an_/AddAction
+- schema-org/AddAction
+tags:
+- class/FileClass
+- class/AddAction
+- '#is_an_/AddAction'
+- class/Thing/Action/UpdateAction/AddAction
+version: 2.0
 ---
 
 # AddAction

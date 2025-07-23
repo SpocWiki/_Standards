@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_engine-displacement
-linkTitle: has_engine-displacement
-
-keywords: [engine-displacement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - engine_displacement
 - engine-displacement
 - engineDisplacement
 - has_value_for_engine_displacement
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- engine-displacement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_engine-displacement
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_engine-displacement
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of EngineSpecification.

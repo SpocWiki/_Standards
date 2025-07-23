@@ -1,21 +1,21 @@
----
-has_id_wikidata: Q7167
+﻿---
+Commons_category: Colonialism
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]'
+Dewey_Decimal_Classification: 325.3
 different_from: '[[_Standards/WikiData/WD~colony,133156]]'
 has_effect:
 - '[[_Standards/WikiData/WD~oppression,252000]]'
 - '[[_Standards/WikiData/WD~detribalization,65052129]]'
-instance_of: "[[_Standards/WikiData/WD~social_formation,1641112]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colonialism,10815165]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice_(2011_ed.),21002838]]"
-UMLS_CUI: C0009372
+has_id_wikidata: Q7167
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/RomanEmpire%20117.svg"
+instance_of: '[[_Standards/WikiData/WD~social_formation,1641112]]'
+Library_of_Congress_Classification: JV51
 MeSH_tree_code: I01.696.116
 subclass_of: '[[_Standards/WikiData/WD~imperialism,7260]]'
-Commons_category: Colonialism
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/RomanEmpire%20117.svg"
-Dewey_Decimal_Classification: 325.3
-Library_of_Congress_Classification: JV51
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colonialism,10815165]]'
+UMLS_CUI: C0009372
 ---
 
 ## #has_/text_of_/abstract 

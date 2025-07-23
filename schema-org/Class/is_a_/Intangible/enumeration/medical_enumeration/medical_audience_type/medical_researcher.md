@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_researcher Class
-linkTitle: is_a_medical_researcher Class
-
-keywords: [medical_researcher]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalAudienceType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-researcher
 - medical_researcher
 - MedicalResearcher
 - is_a_medical_researcher
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalAudienceType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_researcher
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_researcher Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_researcher Class"
+type: Type
 ---
 
 Class of all medical_researchers.

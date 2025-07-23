@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DislikeAction
-  - class/Thing/Action/AssessAction/ReactAction/DislikeAction
-  - is_a_/DislikeAction
-  - schema-org/DislikeAction
-tags:
-  - class/FileClass
-  - class/DislikeAction
-  - is_a_/DislikeAction
-  - class/Thing/Action/AssessAction/ReactAction/DislikeAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DislikeAction
+- class/Thing/Action/AssessAction/ReactAction/DislikeAction
+- is_a_/DislikeAction
+- schema-org/DislikeAction
+tags:
+- class/FileClass
+- class/DislikeAction
+- is_a_/DislikeAction
+- class/Thing/Action/AssessAction/ReactAction/DislikeAction
+version: 2.0
 ---
 
 # DislikeAction

@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
-publish: true
-
-# Hugo Tags
-type: Predi_Date_Time
-title: has_time_of_vehicle_model
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Date
-
+﻿---
 aliases:
 - vehicle-model-date
 - vehicle_model_date
 - vehicleModelDate
 - has_time_of_vehicle_model
+confidential: public
+cssclasses: "Predicate Date_Time"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Date
+title: has_time_of_vehicle_model
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of Vehicle.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_limited_availability Class
-linkTitle: is_a_limited_availability Class
-
-keywords: [limited_availability]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemAvailability
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - limited-availability
 - limited_availability
 - LimitedAvailability
 - is_limited_available
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemAvailability
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- limited_availability
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_limited_availability Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_limited_availability Class"
+type: Type
 ---
 
 Class of all limited_availabilitys.

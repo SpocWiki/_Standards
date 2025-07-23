@@ -1,9 +1,9 @@
----
-type: Lang
+﻿---
 aliases:
 - Punjabi
-tags: 
+tags:
 - Lang/pa
+type: Lang
 ---
 
 # [[Lang-pa]] 

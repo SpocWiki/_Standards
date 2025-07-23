@@ -1,29 +1,29 @@
----
-has_id_wikidata: Q8171
+﻿---
+Commons_category: Words
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from:
 - '[[_Standards/WikiData/WD~lexeme,111352]]'
-- "[[_Standards/WikiData/WD~phonological_word,4117835]]"
+- '[[_Standards/WikiData/WD~phonological_word,4117835]]'
 - '[[_Standards/WikiData/WD~Pulong,11089918]]'
-- "[[_Standards/WikiData/WD~orthographic_word,115863220]]"
-- "[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]"
-has_part_s_:
-- "[[_Standards/WikiData/WD~word_stem,210523]]"
-- '[[_Standards/WikiData/WD~syllable,8188]]'
-opposite_of: '[[_Standards/WikiData/WD~non-word,1553551]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~lexical_item,2944660]]"
-- "[[_Standards/WikiData/WD~word_or_phrase,115372263]]"
-described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-part_of: '[[_Standards/WikiData/WD~phraseme,5551966]]'
-label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20mot.ogv"
-Iconclass_notation: 49K321
-Krugosvet_article: gumanitarnye_nauki/lingvistika/SLOVO.html
-has_characteristic: "[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sacha%20B.%20%28BiblioCanet66%29-mot.wav"
+- '[[_Standards/WikiData/WD~orthographic_word,115863220]]'
+- '[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]'
 equivalent_class: "https://schema.org/DefinedTerm"
-OmegaWiki_Defined_Meaning: 6551
-Commons_category: Words
+has_characteristic: '[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]'
+has_id_wikidata: Q8171
+has_part_s_:
+- '[[_Standards/WikiData/WD~word_stem,210523]]'
+- '[[_Standards/WikiData/WD~syllable,8188]]'
+Iconclass_notation: 49K321
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20claromontanus%20latin%20%28The%20S.S.%20Teacher%27s%20Edition-The%20Holy%20Bible%20-%20Plate%20XXVIII%29.jpg"
+Krugosvet_article: gumanitarnye_nauki/lingvistika/SLOVO.html
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20mot.ogv"
+OmegaWiki_Defined_Meaning: 6551
+opposite_of: '[[_Standards/WikiData/WD~non-word,1553551]]'
+part_of: '[[_Standards/WikiData/WD~phraseme,5551966]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sacha%20B.%20%28BiblioCanet66%29-mot.wav"
+subclass_of:
+- '[[_Standards/WikiData/WD~lexical_item,2944660]]'
+- '[[_Standards/WikiData/WD~word_or_phrase,115372263]]'
 ---
 
 ## #has_/text_of_/abstract 

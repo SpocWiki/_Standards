@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Tom Hanks
-  - Thomas Jeffrey Hanks
+- "Tom Hanks"
+- "Thomas Jeffrey Hanks"
 ---
 
 [[../../../../../../../Knowledge/Engineer/IP(Ingress-Protection)]] 

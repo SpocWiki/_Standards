@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_opening_hours_specification Class
-linkTitle: is_an_opening_hours_specification Class
-
-keywords: [opening_hours_specification]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - opening-hours-specification
 - opening_hours_specification
 - OpeningHoursSpecification
 - is_an_opening_hours_specification
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- opening_hours_specification
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_opening_hours_specification Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_opening_hours_specification Class"
+type: Type
 ---
 
 Class of all opening_hours_specifications.

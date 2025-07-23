@@ -1,25 +1,35 @@
----
-type: Element
-SpocWebEntityId: 21983
-has_id_wikidata: Q1128
-Unicode_character: 鐳
-different_from: '[[_Standards/WikiData/WD~Rad,224047]]'
-part_of:
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+﻿---
+atomic_number: 88
 canonical_SMILES: '[Ra]'
-time_of_discovery_or_invention: "1898"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Radium226.jpg"
-electron_configuration: "[Rn] 7s²"
-EC_number: 231-122-4
-Dewey_Decimal_Classification: 546.396
 CAS_Registry_Number: 7440-14-4
+chemical_formula: Ra
+Commons_category: Radium
+Commons_gallery: Radium
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+Dewey_Decimal_Classification: 546.396
+different_from: '[[_Standards/WikiData/WD~Rad,224047]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+- '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+DSSTOX_compound_identifier: DTXCID70875702
+EC_number: 231-122-4
+electronegativity: 0.9
+electron_configuration: "[Rn] 7s²"
+element_symbol: Ra
+has_id_wikidata: Q1128
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Radium226.jpg"
+InChI: InChI=1S/Ra
+InChIKey: HCWPIIXVSYCSAN-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 1.7
+- 1.48
+Krugosvet_article: nauka_i_tehnika/himiya/RADI.html
 MeSH_tree_code:
 - D01.268.271.770
 - D01.268.552.775
@@ -27,30 +37,20 @@ MeSH_tree_code:
 - D01.496.749.305.770
 - D01.552.539.745
 - D01.552.544.775
-DSSTOX_compound_identifier: DTXCID70875702
-InChIKey: HCWPIIXVSYCSAN-UHFFFAOYSA-N
-InChI: InChI=1S/Ra
-Krugosvet_article: nauka_i_tehnika/himiya/RADI.html
-UNII: W90AYD6R3Q
-UMLS_CUI: C0034625
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20153.jpg"
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
-- "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 named_after: '[[_Standards/WikiData/WD~radioactivity,11448]]'
-oxidation_state: 2
-electronegativity: 0.9
-ionic_radius:
-- 1.7
-- 1.48
-atomic_number: 88
-chemical_formula: Ra
-element_symbol: Ra
 OmegaWiki_Defined_Meaning: 347064
+oxidation_state: 2
+part_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20153.jpg"
 PubChem_CID: 6328144
-Commons_gallery: Radium
-Commons_category: Radium
+SpocWebEntityId: 21983
+time_of_discovery_or_invention: 1898
+type: Element
+UMLS_CUI: C0034625
+Unicode_character: 鐳
+UNII: W90AYD6R3Q
 ---
 
 #chemic/Element 

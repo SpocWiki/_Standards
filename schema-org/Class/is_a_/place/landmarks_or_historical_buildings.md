@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_landmarks_or_historical_buildings Class
-linkTitle: is_a_landmarks_or_historical_buildings Class
-
-keywords: [landmarks_or_historical_buildings]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - landmarks-or-historical-buildings
 - landmarks_or_historical_buildings
 - LandmarksOrHistoricalBuildings
 - is_a_landmarks_or_historical_buildings
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- landmarks_or_historical_buildings
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_landmarks_or_historical_buildings Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_landmarks_or_historical_buildings Class"
+type: Type
 ---
 
 Class of all landmarks_or_historical_buildingss.

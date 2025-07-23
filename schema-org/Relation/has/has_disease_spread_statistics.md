@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_disease_spread_statistics
-
-linkTitle: has_disease_spread_statistics
-keywords: [disease, spread, statistics]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - disease-spread-statistics
 - disease_spread_statistics
 - diseaseSpreadStatistics
 - has_disease_spread_statistics
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- disease
+- spread
+- statistics
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_disease_spread_statistics
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_disease_spread_statistics
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

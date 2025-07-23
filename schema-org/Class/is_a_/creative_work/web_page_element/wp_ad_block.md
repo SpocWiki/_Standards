@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wp_ad_block Class
-linkTitle: is_a_wp_ad_block Class
-
-keywords: [wp_ad_block]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wp-ad-block
 - wp_ad_block
 - WPAdBlock
 - is_a_wp_ad_block
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wp_ad_block
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wp_ad_block Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wp_ad_block Class"
+type: Type
 ---
 
 Class of all wp_ad_blocks.

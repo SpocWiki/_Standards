@@ -1,91 +1,91 @@
----
-has_id_wikidata: Q830
-UNII: O628M2YS7P
-taxon common name:
-  - vaca
-subclass of:
-  - "[[_Standards/WikiData/WD~livestock,103459]]"
-  - "[[_Standards/WikiData/WD~cattle,4767951]]"
-  - "[[_Standards/WikiData/WD~captive_mammal,57812611]]"
-  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
-this taxon is source of:
-  - "[[_Standards/WikiData/WD~beef,192628]]"
-  - "[[_Standards/WikiData/WD~knuckle,10498626]]"
-  - "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
-  - "[[_Standards/WikiData/WD~cowhide,12492880]]"
-  - "[[_Standards/WikiData/WD~beef_byproducts,12577982]]"
-has part(s):
-  - "[[_Standards/WikiData/WD~bull,693690]]"
-  - "[[_Standards/WikiData/WD~cow,11748378]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different from:
-  - "[[_Standards/WikiData/WD~cattle,4767951]]"
-  - "[[_Standards/WikiData/WD~cow,11748378]]"
-said to be the same as: "[[_Standards/WikiData/WD~cow,11748378]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-taxon known by this common name:
-  - "[[_Standards/WikiData/WD~Bos_taurus,19610691]]"
-  - "[[_Standards/WikiData/WD~taurine_cattle,19995054]]"
-  - "[[_Standards/WikiData/WD~Bos_primigenius_taurus,20747320]]"
-  - "[[_Standards/WikiData/WD~Bos_indicus,20747726]]"
-  - "[[_Standards/WikiData/WD~Bos_primigenius_indicus,46889]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q24025129,24025129]]"
-instance of:
-  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-  - "[[_Standards/WikiData/WD~paraphyletic_group,58051350]]"
-earliest date: -10500-01-01
-litter size: 1
-age of onset of sexual maturity:
-  - 7
-  - 8
-gestation period: 9
-period of lactation: 11
-minimum frequency of audible sound: 23
-maximum frequency of audible sound: 35000
-longest observed lifespan: 48
-social media followers: 33849
-Commons gallery: Cattle
-Commons category: Cattle
-Iconclass notation: 47I21
-subreddit:
-  - Cows
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Cow%20female%20black%20white.jpg
-UNSPSC Code: "10101516"
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20cow%201.ogg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A8%D9%82%D8%B1%D8%A9.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cy-buwch.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-mskhvilpekha%20rkosani%20sakoneli.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Sampi.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Sampi.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-behi.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-N%C3%B6tkreatur.oga
-video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2001.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2002.ogv
-taxon range map image: http://commons.wikimedia.org/wiki/Special:FilePath/Bovine%20range-2013-14-02.png
-Unicode character:
-  - 🐄
-  - 🐮
-MeSH tree code: B01.050.150.900.649.313.500.380.271
+﻿---
+age_of_onset_of_sexual_maturity:
+- 7
+- 8
 aliases:
-  - cow
-  - Bos taurus
-  - bull
-  - heifer
-  - ox
-  - oxen
-  - bullock
-  - steer
-  - Stier
+- cow
+- "Bos taurus"
+- bull
+- heifer
+- ox
+- oxen
+- bullock
+- steer
+- Stier
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20cow%201.ogg"
+Commons_category: Cattle
+Commons_gallery: Cattle
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from:
+- '[[_Standards/WikiData/WD~cattle,4767951]]'
+- '[[_Standards/WikiData/WD~cow,11748378]]'
+earliest_date: -10500-01-01
+gestation_period: 9
+has_id_wikidata: Q830
+has_part_s_:
+- '[[_Standards/WikiData/WD~bull,693690]]'
+- '[[_Standards/WikiData/WD~cow,11748378]]'
+Iconclass_notation: 47I21
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cow%20female%20black%20white.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
+litter_size: 1
+longest_observed_lifespan: 48
+maximum_frequency_of_audible_sound: 35000
+MeSH_tree_code: B01.050.150.900.649.313.500.380.271
+minimum_frequency_of_audible_sound: 23
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+period_of_lactation: 11
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q24025129,24025129]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A8%D9%82%D8%B1%D8%A9.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Cy-buwch.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ka-mskhvilpekha%20rkosani%20sakoneli.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Sampi.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Sampi.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-behi.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Sv-N%C3%B6tkreatur.oga"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~cow,11748378]]'
+social_media_followers: 33849
+subclass_of:
+- '[[_Standards/WikiData/WD~livestock,103459]]'
+- '[[_Standards/WikiData/WD~cattle,4767951]]'
+- '[[_Standards/WikiData/WD~captive_mammal,57812611]]'
+- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+subreddit:
+- Cows
+taxon_common_name:
+- vaca
+taxon_known_by_this_common_name:
+- '[[_Standards/WikiData/WD~Bos_taurus,19610691]]'
+- '[[_Standards/WikiData/WD~taurine_cattle,19995054]]'
+- '[[_Standards/WikiData/WD~Bos_primigenius_taurus,20747320]]'
+- '[[_Standards/WikiData/WD~Bos_indicus,20747726]]'
+- '[[_Standards/WikiData/WD~Bos_primigenius_indicus,46889]]'
+taxon_range_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bovine%20range-2013-14-02.png"
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~beef,192628]]'
+- '[[_Standards/WikiData/WD~knuckle,10498626]]'
+- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
+- '[[_Standards/WikiData/WD~cowhide,12492880]]'
+- '[[_Standards/WikiData/WD~beef_byproducts,12577982]]'
+Unicode_character:
+- "\U0001F404"
+- "\U0001F42E"
+UNII: O628M2YS7P
+UNSPSC_Code: 10101516
+video:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2001.ogv"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2002.ogv"
 ---
 
 # [[Cattle]] 

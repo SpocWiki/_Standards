@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DefinedTerm
-  - class/Thing/Intangible/DefinedTerm
-  - is_a_/DefinedTerm
-  - schema-org/DefinedTerm
-tags:
-  - class/FileClass
-  - class/DefinedTerm
-  - is_a_/DefinedTerm
-  - class/Thing/Intangible/DefinedTerm
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: J277b1
-    name: InDefinedTermSet
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/DefinedTermSet')
-    type: MultiFile
-    path: ""
-  - id: XZQU3M
-    name: TermCode
-    options: {}
-    type: Input
-    path: ""
+- id: J277b1
+  name: InDefinedTermSet
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/DefinedTermSet')"
+  type: MultiFile
+  path: ''
+- id: XZQU3M
+  name: TermCode
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DefinedTerm
+- class/Thing/Intangible/DefinedTerm
+- is_a_/DefinedTerm
+- schema-org/DefinedTerm
+tags:
+- class/FileClass
+- class/DefinedTerm
+- is_a_/DefinedTerm
+- class/Thing/Intangible/DefinedTerm
+version: 2.0
 ---
 
 # DefinedTerm

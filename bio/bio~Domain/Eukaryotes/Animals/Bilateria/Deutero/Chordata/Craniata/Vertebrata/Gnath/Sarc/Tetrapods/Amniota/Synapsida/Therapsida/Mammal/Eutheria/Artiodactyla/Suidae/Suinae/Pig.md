@@ -1,9 +1,9 @@
----
-title: Sus
+﻿---
 aliases:
-  - Sus
-  - pigs
-  - pig
+- Sus
+- pigs
+- pig
+title: Sus
 ---
 
 # [[Pig]] 

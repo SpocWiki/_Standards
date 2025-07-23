@@ -1,10 +1,9 @@
----
-title: Rhodophyta
+﻿---
 aliases:
-  - Rhodophyta
-  - Red Algae
+- Rhodophyta
+- "Red Algae"
+title: Rhodophyta
 ---
-
 
 # [[Rhodophyta]]
 

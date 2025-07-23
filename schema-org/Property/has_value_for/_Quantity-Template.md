@@ -1,37 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- has_value_for_{{has_label_snail}}
 confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_{{label_snail}}
-linkTitle: has_{{label_snail}}
-
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: has_{{label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Property
 - schema-org/Property/Quantity
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- has_value_for_{{has_label_snail}}
+title: has_{{label_snail}}
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of {{domainIncludes}}.

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Henry Winkler
+- "Henry Winkler"
 ---
 
 #has_/time_/started :: 1945-10-30 

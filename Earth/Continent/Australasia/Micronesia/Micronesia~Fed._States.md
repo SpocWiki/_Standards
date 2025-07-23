@@ -1,16 +1,17 @@
 ---
-location:
-    - 6.91667
-    - 158.15
-type: Country
-tags:
-    - geo/Country
-has_id_wikidata: Q702 
-SpocWebEntityId: 26894
-isDeleted: false
 confidential: public
+has_id_wikidata: Q702
 icon: flag-fm
+isDeleted: false
+location:
+- 6.91667
+- 158.15
+SpocWebEntityId: 26894
+tags:
+- geo/Country
+type: Country
 ---
+
 [ISO2::FM] 
 [ISO3::FSM]  
 

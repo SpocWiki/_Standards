@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - James Clerk Maxwell
+- "James Clerk Maxwell"
 has_id_wikidata: Q9095
 ---
-
 
 ## #has_/text_of_/abstract 
 

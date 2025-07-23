@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DataDownload
-  - class/Thing/CreativeWork/MediaObject/DataDownload
-  - is_a_/DataDownload
-  - schema-org/DataDownload
-tags:
-  - class/FileClass
-  - class/DataDownload
-  - is_a_/DataDownload
-  - class/Thing/CreativeWork/MediaObject/DataDownload
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DataDownload
+- class/Thing/CreativeWork/MediaObject/DataDownload
+- is_a_/DataDownload
+- schema-org/DataDownload
+tags:
+- class/FileClass
+- class/DataDownload
+- is_a_/DataDownload
+- class/Thing/CreativeWork/MediaObject/DataDownload
+version: 2.0
 ---
 
 # DataDownload

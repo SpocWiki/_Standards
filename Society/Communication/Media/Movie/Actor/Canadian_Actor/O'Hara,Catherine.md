@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Catherine O'Hara
-  - Catherine Anne O'Hara
+- "Catherine O'Hara"
+- "Catherine Anne O'Hara"
 ---
-
 
 ## #has_/text_of_/abstract 
 

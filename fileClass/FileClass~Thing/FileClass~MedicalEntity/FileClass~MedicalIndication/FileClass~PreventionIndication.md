@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PreventionIndication
-  - class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
-  - is_a_/PreventionIndication
-  - schema-org/PreventionIndication
-tags:
-  - class/FileClass
-  - class/PreventionIndication
-  - is_a_/PreventionIndication
-  - class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PreventionIndication
+- class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
+- is_a_/PreventionIndication
+- schema-org/PreventionIndication
+tags:
+- class/FileClass
+- class/PreventionIndication
+- is_a_/PreventionIndication
+- class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
+version: 2.0
 ---
 
 # PreventionIndication

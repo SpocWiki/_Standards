@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Glomeridesmus
-  - Glomeridesmida
+- Glomeridesmus
+- Glomeridesmida
 title: Glomeridesmus
 ---
 

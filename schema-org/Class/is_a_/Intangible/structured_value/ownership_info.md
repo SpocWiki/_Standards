@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_ownership_info Class
-linkTitle: is_an_ownership_info Class
-
-keywords: [ownership_info]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ownership-info
 - ownership_info
 - OwnershipInfo
 - is_an_ownership_info
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ownership_info
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ownership_info Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ownership_info Class"
+type: Type
 ---
 
 Class of all ownership_infos.

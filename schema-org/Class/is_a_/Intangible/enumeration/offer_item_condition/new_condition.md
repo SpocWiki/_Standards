@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_new_condition Class
-linkTitle: is_a_new_condition Class
-
-keywords: [new_condition]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: OfferItemCondition
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - new-condition
 - new_condition
 - NewCondition
 - is_a_new_condition
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: OfferItemCondition
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- new_condition
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_new_condition Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_new_condition Class"
+type: Type
 ---
 
 Class of all new_conditions.

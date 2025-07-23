@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_of_service
-linkTitle: has_location_of_service
-
-keywords: [service_location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - service-location
 - service_location
 - serviceLocation
 - has_location_of_service
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- service_location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_of_service
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_of_service
+type: Pred_geo
 ---
 
 Predicate to describe the geo of ServiceChannel.

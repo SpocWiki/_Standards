@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_label_in_box Class
-linkTitle: is_a_return_label_in_box Class
-
-keywords: [return_label_in_box]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnLabelSourceEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-label-in-box
 - return_label_in_box
 - ReturnLabelInBox
 - is_a_return_label_in_box
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnLabelSourceEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_label_in_box
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_label_in_box Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_label_in_box Class"
+type: Type
 ---
 
 Class of all return_label_in_boxs.

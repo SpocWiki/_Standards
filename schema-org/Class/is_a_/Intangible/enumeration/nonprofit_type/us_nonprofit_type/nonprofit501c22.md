@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit501c22 Class
-linkTitle: is_a_nonprofit501c22 Class
-
-keywords: [nonprofit501c22]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: USNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit501c22
 - nonprofit501c22
 - Nonprofit501c22
 - is_a_nonprofit501c22
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: USNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit501c22
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit501c22 Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit501c22 Class"
+type: Type
 ---
 
 Class of all nonprofit501c22s.

@@ -1,91 +1,91 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ExerciseAction
-  - class/Thing/Action/PlayAction/ExerciseAction
-  - is_an_/ExerciseAction
-  - schema-org/ExerciseAction
-tags:
-  - class/FileClass
-  - class/ExerciseAction
-  - "#is_an_/ExerciseAction"
-  - class/Thing/Action/PlayAction/ExerciseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~PlayAction
 fields:
-  - id: FG7LCq
-    name: Diet
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet')
-    type: MultiFile
-    path: ""
-  - id: sdBIyc
-    name: Distance
-    options: {}
-    type: Input
-    path: ""
-  - id: AVHkcb
-    name: ExerciseCourse
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: zoUpCp
-    name: ExercisePlan
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan')
-    type: MultiFile
-    path: ""
-  - id: upcanj
-    name: ExerciseRelatedDiet
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet')
-    type: MultiFile
-    path: ""
-  - id: mvDuA8
-    name: ExerciseType
-    options: {}
-    type: Input
-    path: ""
-  - id: aNzd5h
-    name: FromLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: dXX0DO
-    name: Opponent
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: zjvk1x
-    name: SportsActivityLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation')
-    type: MultiFile
-    path: ""
-  - id: JoqhhZ
-    name: SportsEvent
-    options:
-      dvQueryString: dv.pages('#class/Thing/Event/SportsEvent')
-    type: MultiFile
-    path: ""
-  - id: ihxspd
-    name: SportsTeam
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/SportsOrganization/SportsTeam')
-    type: MultiFile
-    path: ""
-  - id: L4YjsJ
-    name: ToLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
+- id: FG7LCq
+  name: Diet
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet')"
+  type: MultiFile
+  path: ''
+- id: sdBIyc
+  name: Distance
+  options: {}
+  type: Input
+  path: ''
+- id: AVHkcb
+  name: ExerciseCourse
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: zoUpCp
+  name: ExercisePlan
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan')"
+  type: MultiFile
+  path: ''
+- id: upcanj
+  name: ExerciseRelatedDiet
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet')"
+  type: MultiFile
+  path: ''
+- id: mvDuA8
+  name: ExerciseType
+  options: {}
+  type: Input
+  path: ''
+- id: aNzd5h
+  name: FromLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: dXX0DO
+  name: Opponent
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: zjvk1x
+  name: SportsActivityLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation')"
+  type: MultiFile
+  path: ''
+- id: JoqhhZ
+  name: SportsEvent
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Event/SportsEvent')"
+  type: MultiFile
+  path: ''
+- id: ihxspd
+  name: SportsTeam
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/SportsOrganization/SportsTeam')"
+  type: MultiFile
+  path: ''
+- id: L4YjsJ
+  name: ToLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ExerciseAction
+- class/Thing/Action/PlayAction/ExerciseAction
+- is_an_/ExerciseAction
+- schema-org/ExerciseAction
+tags:
+- class/FileClass
+- class/ExerciseAction
+- '#is_an_/ExerciseAction'
+- class/Thing/Action/PlayAction/ExerciseAction
+version: 2.0
 ---
 
 # ExerciseAction

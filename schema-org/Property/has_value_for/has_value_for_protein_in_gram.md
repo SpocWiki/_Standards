@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_protein-content
-linkTitle: has_protein-content
-
-keywords: [protein-content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - protein_in_gram
 - protein-content
 - proteinContent
 - has_value_for_protein_in_gram
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- protein-content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_protein-content
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_protein-content
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of NutritionInformation.

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Patricia Clarkson
+- "Patricia Clarkson"
 ---
 
 #has_/time_/started :: 1959-12-29 

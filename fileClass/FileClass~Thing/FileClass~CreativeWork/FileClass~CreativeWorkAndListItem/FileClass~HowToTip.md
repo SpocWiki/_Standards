@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HowToTip
-  - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip
-  - is_a_/HowToTip
-  - schema-org/HowToTip
-tags:
-  - class/FileClass
-  - class/HowToTip
-  - is_a_/HowToTip
-  - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HowToTip
+- class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip
+- is_a_/HowToTip
+- schema-org/HowToTip
+tags:
+- class/FileClass
+- class/HowToTip
+- is_a_/HowToTip
+- class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip
+version: 2.0
 ---
 
 # HowToTip

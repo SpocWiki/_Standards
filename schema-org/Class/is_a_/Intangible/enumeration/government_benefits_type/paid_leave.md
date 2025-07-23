@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_paid_leave Class
-linkTitle: is_a_paid_leave Class
-
-keywords: [paid_leave]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GovernmentBenefitsType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - paid-leave
 - paid_leave
 - PaidLeave
 - is_a_paid_leave
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GovernmentBenefitsType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- paid_leave
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_paid_leave Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_paid_leave Class"
+type: Type
 ---
 
 Class of all paid_leaves.

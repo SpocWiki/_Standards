@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_thursday Class
-linkTitle: is_a_thursday Class
-
-keywords: [thursday]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DayOfWeek
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - thursday
 - thursday
 - Thursday
 - is_a_thursday
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DayOfWeek
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- thursday
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_thursday Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_thursday Class"
+type: Type
 ---
 
 Class of all thursdays.

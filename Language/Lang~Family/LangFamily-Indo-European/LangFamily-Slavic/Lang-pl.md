@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Polish
-tags: 
+tags:
 - Lang/pl
+type: Lang
 ---
+
 # [[Lang-pl]] 
 
 

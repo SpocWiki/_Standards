@@ -1,35 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_order Class
-linkTitle: is_an_order Class
-
-keywords: [order]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - order
 - order
 - Order
 - is_an_order
-fileClass: [FileClass-Class]
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+fileClass:
+- FileClass-Class
+isDeleted: false
+isReadOnly: false
+keywords:
+- order
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_order Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_order Class"
+type: Type
 ---
 
 Class of all orders.

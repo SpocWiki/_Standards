@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: bed
-version: "2.0"
-tagNames:
-  - class/Room
-  - class/Thing/Place/Accommodation/Room
-  - is_a_/Room
-  - schema-org/Room
-tags:
-  - class/FileClass
-  - class/Room
-  - is_a_/Room
-  - class/Thing/Place/Accommodation/Room
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 fields: []
+icon: bed
+limit: 9
+mapWithTag: false
+tagNames:
+- class/Room
+- class/Thing/Place/Accommodation/Room
+- is_a_/Room
+- schema-org/Room
+tags:
+- class/FileClass
+- class/Room
+- is_a_/Room
+- class/Thing/Place/Accommodation/Room
+version: 2.0
 ---
 
 # Room

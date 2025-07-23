@@ -246,8 +246,8 @@ OmegaWiki_Defined_Meaning: 8346
 area: 56785
 life_expectancy: 60.232
 official_name:
-  - Togo
-  - Togo
+- Togo
+- Togo
 - "République togolaise"
 INSEE_countries_and_foreign_territories_code: 99345
 ITU_letter_code: TGO

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Viséan
-  - Visian
+- Viséan
+- Visian
 ---
 
 # [[Age~Visean]] 

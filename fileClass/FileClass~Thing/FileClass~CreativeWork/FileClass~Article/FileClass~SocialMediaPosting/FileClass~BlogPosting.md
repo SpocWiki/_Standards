@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BlogPosting
-  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
-  - is_a_/BlogPosting
-  - schema-org/BlogPosting
-tags:
-  - class/FileClass
-  - class/BlogPosting
-  - is_a_/BlogPosting
-  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BlogPosting
+- class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
+- is_a_/BlogPosting
+- schema-org/BlogPosting
+tags:
+- class/FileClass
+- class/BlogPosting
+- is_a_/BlogPosting
+- class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
+version: 2.0
 ---
 
 # BlogPosting

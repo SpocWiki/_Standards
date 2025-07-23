@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- date-created
+- date_created
+- dateCreated
+- has_time_started
+- has_time_started
+- created
 confidential: public
+cssclasses:
+- Predicate
+- Date_Time
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Date_Time
-publish: true
-type: Predi_Date_Time
-title: has_time_started
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Date
-aliases:
-  - date-created
-  - date_created
-  - dateCreated
-  - has_time_started
-  - has_time_started
-  - created
+- class/Property
+- schema-org/Property/Date
+title: has_time_started
+type: Predi_Date_Time
 ---
 
 #is_/similar_to :: #created 

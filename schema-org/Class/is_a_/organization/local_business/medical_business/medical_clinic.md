@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_clinic Class
-linkTitle: is_a_medical_clinic Class
-
-keywords: [medical_clinic]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-clinic
 - medical_clinic
 - MedicalClinic
 - is_a_medical_clinic
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_clinic
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_clinic Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_clinic Class"
+type: Type
 ---
 
 Class of all medical_clinics.

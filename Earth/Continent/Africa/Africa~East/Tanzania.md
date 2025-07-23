@@ -90,7 +90,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Gorowa,3437626]]'
 - '[[_Standards/WikiData/WD~Luguru,3437661]]'
 - '[[_Standards/WikiData/WD~Shambala,3788739]]'
-  - "[[_Standards/WikiData/WD~Kw'adza,3807652]]"
+- "[[_Standards/WikiData/WD~Kw'adza,3807652]]"
 - '[[_Standards/WikiData/WD~Pangwa,3847550]]'
 - '[[_Standards/WikiData/WD~Kahe,3892562]]'
 - '[[_Standards/WikiData/WD~Pimbwe,3894132]]'

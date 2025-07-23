@@ -1,9 +1,7 @@
----
+﻿---
 aliases:
-  - Al-Janubiyah
+- Al-Janubiyah
 ---
-
-
 
 #has_/name_/ar_/Latn :: Al-Janubiyah  
 #has_/name_/ar_/Arab ::  الجنوبية 

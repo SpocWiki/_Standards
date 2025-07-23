@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Robin Williams
-  - Robin McLaurin Williams
+- "Robin Williams"
+- "Robin McLaurin Williams"
 ---
 
 #has_/time_/started :: 1951-07-21

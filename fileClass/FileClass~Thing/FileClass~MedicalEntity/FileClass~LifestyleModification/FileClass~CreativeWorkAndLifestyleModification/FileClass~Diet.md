@@ -1,47 +1,47 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Diet
-  - class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet
-  - is_a_/Diet
-  - schema-org/Diet
-tags:
-  - class/FileClass
-  - class/Diet
-  - is_a_/Diet
-  - class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification
 fields:
-  - id: hLgo9j
-    name: DietFeatures
-    options: {}
-    type: Input
-    path: ""
-  - id: sBjKjo
-    name: Endorsers
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: cb4ivh
-    name: ExpertConsiderations
-    options: {}
-    type: Input
-    path: ""
-  - id: pwvTvM
-    name: PhysiologicalBenefits
-    options: {}
-    type: Input
-    path: ""
-  - id: VSUTxh
-    name: Risks
-    options: {}
-    type: Input
-    path: ""
+- id: hLgo9j
+  name: DietFeatures
+  options: {}
+  type: Input
+  path: ''
+- id: sBjKjo
+  name: Endorsers
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: cb4ivh
+  name: ExpertConsiderations
+  options: {}
+  type: Input
+  path: ''
+- id: pwvTvM
+  name: PhysiologicalBenefits
+  options: {}
+  type: Input
+  path: ''
+- id: VSUTxh
+  name: Risks
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Diet
+- class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet
+- is_a_/Diet
+- schema-org/Diet
+tags:
+- class/FileClass
+- class/Diet
+- is_a_/Diet
+- class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet
+version: 2.0
 ---
 
 # Diet

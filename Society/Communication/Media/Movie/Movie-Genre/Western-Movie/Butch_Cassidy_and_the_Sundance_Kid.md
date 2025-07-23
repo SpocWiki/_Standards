@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Butch Cassidy and the Sundance Kid
+- "Butch Cassidy and the Sundance Kid"
 ---
 
 #has_/genre :: [ [[Western]], [[Buddy-Story]] ]

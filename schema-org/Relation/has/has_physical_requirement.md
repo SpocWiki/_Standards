@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_physical_requirement
-
-linkTitle: has_physical_requirement
-keywords: [physical, requirement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - physical-requirement
 - physical_requirement
 - physicalRequirement
 - has_physical_requirement
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- physical
+- requirement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_physical_requirement
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_physical_requirement
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

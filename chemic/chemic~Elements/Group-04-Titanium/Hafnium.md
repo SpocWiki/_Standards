@@ -1,69 +1,69 @@
----
-type: Element
-SpocWebEntityId: 21968
-has_id_wikidata: Q1119
-InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
-UNII: X71938L1DO
-time_of_discovery_or_invention: "1922"
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~George_de_Hevesy,76951]]"
-- "[[_Standards/WikiData/WD~Dirk_Coster,775969]]"
-part_of:
-- "[[_Standards/WikiData/WD~group_4,189302]]"
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-associated_hazard: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
-has_effect: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
-UMLS_CUI: C0018488
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
+atomic_number: 72
+boiling_point: 8316
+canonical_SMILES: '[Hf]'
+CAS_Registry_Number: 7440-58-6
+chemical_formula: Hf
+Commons_category: Hafnium
+Commons_gallery: Hafnium
 Common_Procurement_Vocabulary_code:
 - 14753000-4
 - 14753000
-named_after: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
-subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
-location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35]]'
-vapor_pressure: 0
-electronegativity: 1
-oxidation_state: 4
-immediately_dangerous_to_life_or_health: 50
-time_weighted_average_exposure_limit: 0.5
+CPV_Supplementary_code: AA25
 density: 13
+described_by_source:
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+Dewey_Decimal_Classification: 546.514
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~George_de_Hevesy,76951]]'
+- '[[_Standards/WikiData/WD~Dirk_Coster,775969]]'
+DSSTOX_compound_identifier: DTXCID5047663
+EC_number: 231-166-4
+electronegativity: 1
+electron_configuration: "[Xe] 4f¹⁴ 5d² 6s²"
+element_symbol: Hf
+has_effect: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
+has_id_wikidata: Q1119
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal%20bar.jpg"
+immediately_dangerous_to_life_or_health: 50
+InChI: InChI=1S/Hf
+InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.58
 - 0.71
 - 0.83
-atomic_number: 72
-melting_point: 4041
-boiling_point: 8316
-ZVG_number: 7720
+location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35]]'
 mass: 178.486
-chemical_formula: Hf
-element_symbol: Hf
-OmegaWiki_Defined_Meaning: 159925
-PubChem_CID: 23986
-Unicode_character: 鉿
-CPV_Supplementary_code: AA25
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Hafnium.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal%20bar.jpg"
-canonical_SMILES: '[Hf]'
-electron_configuration: "[Xe] 4f¹⁴ 5d² 6s²"
-EC_number: 231-166-4
-Dewey_Decimal_Classification: 546.514
-CAS_Registry_Number: 7440-58-6
+melting_point: 4041
 MeSH_tree_code:
 - D01.268.556.337
 - D01.268.956.249
 - D01.552.544.337
-DSSTOX_compound_identifier: DTXCID5047663
-Commons_gallery: Hafnium
-Commons_category: Hafnium
-InChI: InChI=1S/Hf
+named_after: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+OmegaWiki_Defined_Meaning: 159925
+oxidation_state: 4
+part_of:
+- '[[_Standards/WikiData/WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+PubChem_CID: 23986
 RTECS_number: MG4600000
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Hafnium.svg"
+SpocWebEntityId: 21968
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
+time_of_discovery_or_invention: 1922
+time_weighted_average_exposure_limit: 0.5
+type: Element
+UMLS_CUI: C0018488
+Unicode_character: 鉿
+UNII: X71938L1DO
+vapor_pressure: 0
+ZVG_number: 7720
 ---
 
 #chemic/Element 

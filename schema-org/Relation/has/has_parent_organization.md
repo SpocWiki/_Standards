@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- parent-organization
+- parent_organization
+- parentOrganization
+- has_parent_organization
+- is_branch_of
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_parent_organization
-linkTitle: has_parent_organization
 keywords:
-  - parent
-  - organization
+- parent
+- organization
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_parent_organization
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: branchOf
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - parent-organization
-  - parent_organization
-  - parentOrganization
-  - has_parent_organization
-  - is_branch_of
+- class/Relation
+- schema-org/Relation
+title: has_parent_organization
+type: Predi_Relation
 ---
 
 Use it like this: 

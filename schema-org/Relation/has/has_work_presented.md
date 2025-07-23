@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_work_presented
-
-linkTitle: has_work_presented
-keywords: [work, presented]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - work-presented
 - work_presented
 - workPresented
 - has_work_presented
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- work
+- presented
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_work_presented
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_work_presented
+type: Predi_Relation
 ---
 
 Use it like this: 

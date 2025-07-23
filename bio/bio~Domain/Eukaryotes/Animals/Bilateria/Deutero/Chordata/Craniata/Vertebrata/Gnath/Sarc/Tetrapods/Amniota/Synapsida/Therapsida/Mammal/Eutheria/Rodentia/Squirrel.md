@@ -1,9 +1,9 @@
----
-title: Sciuridae
+﻿---
 aliases:
-  - Sciuridae
-  - Squirrel
-  - Squirrels
+- Sciuridae
+- Squirrel
+- Squirrels
+title: Sciuridae
 ---
 
 # [[Squirrel]]

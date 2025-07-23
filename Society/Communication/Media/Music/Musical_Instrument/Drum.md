@@ -1,37 +1,37 @@
----
-has_id_wikidata: Q11404
-part_of: "[[_Standards/WikiData/WD~drum_kit,128309]]"
+﻿---
+Amazon_com_browse_node: 11970521
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20drum.ogg"
+Commons_category: Drums
+Commons_gallery: Drums
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-produced_sound: "[[_Standards/WikiData/WD~drum_roll,665888]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
 - '[[_Standards/WikiData/WD~Q4097679,4097679]]'
-- "[[_Standards/WikiData/WD~Trommel_screen,4100165]]"
-subclass_of: "[[_Standards/WikiData/WD~struck_membranophone,19588483]]"
+- '[[_Standards/WikiData/WD~Trommel_screen,4100165]]'
+exact_match: "http://wordnet-rdf.princeton.edu/wn30/03249569-n"
+has_id_wikidata: Q11404
+Hornbostel_Sachs_classification: 21
+Iconclass_notation: 48C7341
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Instruments%20de%20musiques%20traditionnelles%20en%20pays%20naouda.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Drum%20for%20cultural%20dance.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/DrumMozartRegiment.jpg"
-Hornbostel_Sachs_classification: 21
-Nomenclature_for_Museum_Cataloging: 10740
-Commons_gallery: Drums
-Commons_category: Drums
-Iconclass_notation: 48C7341
-Unicode_character: 🥁 
-OmegaWiki_Defined_Meaning: 386380
-Amazon_com_browse_node: 11970521
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20drum.ogg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Drum.ogg"
-exact_match: "http://wordnet-rdf.princeton.edu/wn30/03249569-n"
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/BARABAN.html
+Nomenclature_for_Museum_Cataloging: 10740
+OmegaWiki_Defined_Meaning: 386380
+part_of: '[[_Standards/WikiData/WD~drum_kit,128309]]'
+produced_sound: '[[_Standards/WikiData/WD~drum_roll,665888]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Drum.ogg"
+subclass_of: '[[_Standards/WikiData/WD~struck_membranophone,19588483]]'
+Unicode_character: "\U0001F941"
 ---
 
 ## #has_/text_of_/abstract 

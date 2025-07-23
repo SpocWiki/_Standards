@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_health_plan_network Class
-linkTitle: is_a_health_plan_network Class
-
-keywords: [health_plan_network]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - health-plan-network
 - health_plan_network
 - HealthPlanNetwork
 - is_a_health_plan_network
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health_plan_network
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_health_plan_network Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_health_plan_network Class"
+type: Type
 ---
 
 Class of all health_plan_networks.

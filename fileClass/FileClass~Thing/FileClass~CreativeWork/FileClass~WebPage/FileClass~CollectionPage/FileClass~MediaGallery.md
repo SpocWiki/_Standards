@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MediaGallery
-  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery
-  - is_a_/MediaGallery
-  - schema-org/MediaGallery
-tags:
-  - class/FileClass
-  - class/MediaGallery
-  - is_a_/MediaGallery
-  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MediaGallery
+- class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery
+- is_a_/MediaGallery
+- schema-org/MediaGallery
+tags:
+- class/FileClass
+- class/MediaGallery
+- is_a_/MediaGallery
+- class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery
+version: 2.0
 ---
 
 # MediaGallery

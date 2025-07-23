@@ -1,51 +1,51 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ComicStoryAndCoverArt
-  - class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
-  - is_a_/ComicStoryAndCoverArt
-  - schema-org/ComicStoryAndCoverArt
-tags:
-  - class/FileClass
-  - class/ComicStoryAndCoverArt
-  - is_a_/ComicStoryAndCoverArt
-  - class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt
 fields:
-  - id: GKJRKV
-    name: Artist
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: fUeRaz
-    name: Colorist
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: IdgNft
-    name: Inker
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: VdAPqt
-    name: Letterer
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: GMiZUT
-    name: Penciler
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
+- id: GKJRKV
+  name: Artist
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: fUeRaz
+  name: Colorist
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: IdgNft
+  name: Inker
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: VdAPqt
+  name: Letterer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: GMiZUT
+  name: Penciler
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ComicStoryAndCoverArt
+- class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
+- is_a_/ComicStoryAndCoverArt
+- schema-org/ComicStoryAndCoverArt
+tags:
+- class/FileClass
+- class/ComicStoryAndCoverArt
+- is_a_/ComicStoryAndCoverArt
+- class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
+version: 2.0
 ---
 
 # ComicStoryAndCoverArt

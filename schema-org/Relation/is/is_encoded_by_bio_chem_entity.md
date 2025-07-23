@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_encoded_by_bio_chem_entity
-
-linkTitle: is_encoded_by_bio_chem_entity
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - is-encoded-by-bio-chem-entity
 - encoded_by_bio_chem_entity
 - isEncodedByBioChemEntity
 - is_encoded_by_bio_chem_entity
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_encoded_by_bio_chem_entity
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_encoded_by_bio_chem_entity
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending:]

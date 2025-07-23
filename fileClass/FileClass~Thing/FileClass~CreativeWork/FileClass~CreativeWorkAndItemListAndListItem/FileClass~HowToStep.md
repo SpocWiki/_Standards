@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HowToStep
-  - class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep
-  - is_a_/HowToStep
-  - schema-org/HowToStep
-tags:
-  - class/FileClass
-  - class/HowToStep
-  - is_a_/HowToStep
-  - class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HowToStep
+- class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep
+- is_a_/HowToStep
+- schema-org/HowToStep
+tags:
+- class/FileClass
+- class/HowToStep
+- is_a_/HowToStep
+- class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep
+version: 2.0
 ---
 
 # HowToStep

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_additional-number-of-guests
-linkTitle: has_number_of_additional-number-of-guests
-
-keywords: [additional-number-of-guests]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - additional_number_of_guests
 - additional-number-of-guests
 - additionalNumberOfGuests
 - has_number_of_additional_number_of_guests
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- additional-number-of-guests
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_additional-number-of-guests
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_additional-number-of-guests
+type: Predi_Count
 ---
 
 Predicate to describe the Number of RsvpAction.

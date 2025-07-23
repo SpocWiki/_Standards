@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_job_immediate_start
-linkTitle: is_job_immediate_start
-
-keywords: [job_immediate_start]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - job-immediate-start
 - job_immediate_start
 - jobImmediateStart
 - is_job_immediate_start
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- job_immediate_start
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_job_immediate_start
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_job_immediate_start
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

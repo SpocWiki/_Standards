@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_strength_training Class
-linkTitle: is_a_strength_training Class
-
-keywords: [strength_training]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PhysicalActivityCategory
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - strength-training
 - strength_training
 - StrengthTraining
 - is_a_strength_training
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PhysicalActivityCategory
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- strength_training
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_strength_training Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_strength_training Class"
+type: Type
 ---
 
 Class of all strength_trainings.

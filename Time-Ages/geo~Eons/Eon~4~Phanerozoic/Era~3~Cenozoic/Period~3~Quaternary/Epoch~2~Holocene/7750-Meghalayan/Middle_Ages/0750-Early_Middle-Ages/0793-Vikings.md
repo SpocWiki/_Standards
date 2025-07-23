@@ -1,30 +1,30 @@
----
-has_id_wikidata: Q12567
+﻿---
 Commons_category: Vikings
 Commons_gallery: Vikings
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 different_from: '[[_Standards/WikiData/WD~Wikingowie,16615111]]'
 GitHub_topic: viking
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Fries_Museum,848313]]"
+has_id_wikidata: Q12567
+has_time_started: 0793-06
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Fries_Museum,848313]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dublin%20-%20Dublinia%20-%2020190809102938.jpg"
 instance_of:
-  - '[[_Standards/WikiData/WD~culture,11042]]'
-  - '[[_Standards/WikiData/WD~people,2472587]]'
-  - '[[_Standards/WikiData/WD~style,1292119]]'
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
 Krugosvet_article: istoriya/VIKINGI.html
 Libris_URI: pm136tj73pg9mnj
 OmegaWiki_Defined_Meaning: 933625
 OpenStreetMap_tag_or_key: "Tag:historic:civilization=vikingian"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097651,110097651]]'
-start_time: 0793-06  
-has_time_started: 0793-06 
+start_time: 0793-06
 ---
 
 # [[0793-Vikings]] 

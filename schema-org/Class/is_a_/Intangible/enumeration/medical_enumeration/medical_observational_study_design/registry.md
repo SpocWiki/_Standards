@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_registry Class
-linkTitle: is_a_registry Class
-
-keywords: [registry]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalObservationalStudyDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - registry
 - registry
 - Registry
 - is_a_registry
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalObservationalStudyDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- registry
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_registry Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_registry Class"
+type: Type
 ---
 
 Class of all registrys.

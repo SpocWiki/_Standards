@@ -1,9 +1,9 @@
----
-title: Pandanales
+﻿---
 aliases:
-  - Pandanales
-  - pandans
-  - screw-pines
+- Pandanales
+- pandans
+- screw-pines
+title: Pandanales
 ---
 
 # [[Pandanales]] 

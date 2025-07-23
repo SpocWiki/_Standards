@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_measurement_cup Class
-linkTitle: is_a_wearable_measurement_cup Class
-
-keywords: [wearable_measurement_cup]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-measurement-cup
 - wearable_measurement_cup
 - WearableMeasurementCup
 - is_a_wearable_measurement_cup
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_measurement_cup
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_measurement_cup Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_measurement_cup Class"
+type: Type
 ---
 
 Class of all wearable_measurement_cups.

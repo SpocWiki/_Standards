@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_performer_in
-
-linkTitle: is_performer_in
-keywords: [performer, in]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - performer-in
 - performer_in
 - performerIn
 - is_performer_in
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- performer
+- in
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_performer_in
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_performer_in
+type: Predi_Relation
 ---
 
 Use it like this: 

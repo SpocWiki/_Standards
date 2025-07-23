@@ -1,25 +1,25 @@
----
-has_id_wikidata: Q11345
-opposite_of: '[[_Standards/WikiData/WD~inequation,165309]]'
-different_from: "[[_Standards/WikiData/WD~chemical_equation,182527]]"
-studied_in: "[[_Standards/WikiData/WD~elementary_algebra,211294]]"
-has_part_s_: "[[_Standards/WikiData/WD~equals_sign,214796]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-manifestation_of: '[[_Standards/WikiData/WD~equality,842346]]'
-subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
-has_list: "[[_Standards/WikiData/WD~list_of_equations,3243244]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-properties_for_this_type: "defining formula"
+﻿---
 Colon_Classification: B23
-OmegaWiki_Defined_Meaning: 477547
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/First%20Equation%20Ever.png"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3.wav"
-IEV_number: 102-01-25
 Commons_category: Equations
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~chemical_equation,182527]]'
+has_id_wikidata: Q11345
+has_list: '[[_Standards/WikiData/WD~list_of_equations,3243244]]'
+has_part_s_: '[[_Standards/WikiData/WD~equals_sign,214796]]'
+IEV_number: 102-01-25
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/First%20Equation%20Ever.png"
 Krugosvet_article: matematika/uravneniya
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+manifestation_of: '[[_Standards/WikiData/WD~equality,842346]]'
+OmegaWiki_Defined_Meaning: 477547
+opposite_of: '[[_Standards/WikiData/WD~inequation,165309]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3.wav"
+properties_for_this_type: "defining formula"
+studied_in: '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
+subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
 ---
 
 ## #has_/text_of_/abstract 

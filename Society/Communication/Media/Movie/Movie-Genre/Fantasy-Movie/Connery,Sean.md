@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Sean Connery
+- "Sean Connery"
 ---
 
 #has_/time_/started :: 1930-08-25 

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_contact_option
-
-linkTitle: has_contact_option
-keywords: [contact, option]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - contact-option
 - contact_option
 - contactOption
 - has_contact_option
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- contact
+- option
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_contact_option
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_contact_option
+type: Predi_Relation
 ---
 
 Use it like this: 

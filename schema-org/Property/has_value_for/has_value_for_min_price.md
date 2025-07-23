@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_min-price
-linkTitle: has_min-price
-
-keywords: [min-price]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - min_price
 - min-price
 - minPrice
 - has_value_for_min_price
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- min-price
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_min-price
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_min-price
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of PriceSpecification.

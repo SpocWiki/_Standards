@@ -1,31 +1,31 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/WebPageElement
-  - class/Thing/CreativeWork/WebPageElement
-  - is_a_/WebPageElement
-  - schema-org/WebPageElement
-tags:
-  - class/FileClass
-  - class/WebPageElement
-  - is_a_/WebPageElement
-  - class/Thing/CreativeWork/WebPageElement
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 5vzeSD
-    name: CssSelector
-    options: {}
-    type: Input
-    path: ""
-  - id: Lqti0y
-    name: Xpath
-    options: {}
-    type: Input
-    path: ""
+- id: 5vzeSD
+  name: CssSelector
+  options: {}
+  type: Input
+  path: ''
+- id: Lqti0y
+  name: Xpath
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/WebPageElement
+- class/Thing/CreativeWork/WebPageElement
+- is_a_/WebPageElement
+- schema-org/WebPageElement
+tags:
+- class/FileClass
+- class/WebPageElement
+- is_a_/WebPageElement
+- class/Thing/CreativeWork/WebPageElement
+version: 2.0
 ---
 
 # WebPageElement

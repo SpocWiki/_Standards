@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- is-part-of
+- part_of
+- isPartOf
+- is_part_of
+- schema: isPartOf
+- "dbo:isPartOf"
+- "wdt:P361"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_part_of
-linkTitle: is_part_of
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_part_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - is-part-of
-  - part_of
-  - isPartOf
-  - is_part_of
-  - schema: isPartOf
-  - dbo:isPartOf
-  - wdt:P361
+- class/Relation
+- schema-org/Relation
+title: is_part_of
+type: Predi_Relation
 ---
 
 # [Composite](../Composite.md)-[Part](Part.md) Relationship, 

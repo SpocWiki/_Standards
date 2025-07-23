@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_event_schedule
-
-linkTitle: has_event_schedule
-keywords: [event, schedule]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - event-schedule
 - event_schedule
 - eventSchedule
 - has_event_schedule
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event
+- schedule
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_event_schedule
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_event_schedule
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

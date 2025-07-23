@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_credited_to
-
-linkTitle: is_credited_to
-keywords: [credited, to]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - credited-to
 - credited_to
 - creditedTo
 - is_credited_to
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- credited
+- to
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_credited_to
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_credited_to
+type: Predi_Relation
 ---
 
 Use it like this: 

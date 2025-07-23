@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Latin Script
-  - Roman Script
+- "Latin Script"
+- "Roman Script"
 ---
 
 Used to indicate Latin Script in Web-Pages 

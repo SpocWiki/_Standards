@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_pagination
-linkTitle: has_text_of_pagination
-
-keywords: [pagination]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - pagination
 - pagination
 - pagination
 - has_text_of_pagination
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pagination
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_pagination
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_pagination
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Article, Chapter, PublicationIssue, PublicationVolume.

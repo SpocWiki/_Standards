@@ -1,35 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_interaction_statistic
-
-linkTitle: has_interaction_statistic
-keywords: [interaction, statistic]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: interactionCount
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - interaction-statistic
 - interaction_statistic
 - interactionStatistic
 - has_interaction_statistic
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- interaction
+- statistic
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_interaction_statistic
+publish: true
+publishDate: 
+supersedes: interactionCount
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_interaction_statistic
+type: Predi_Relation
 ---
 
 This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 

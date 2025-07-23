@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Kathryn Bigelow
-  - Kathryn Ann Bigelow
+- "Kathryn Bigelow"
+- "Kathryn Ann Bigelow"
 ---
 
 # [[Bigelow,Kathryn]] 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit501c7 Class
-linkTitle: is_a_nonprofit501c7 Class
-
-keywords: [nonprofit501c7]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: USNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit501c7
 - nonprofit501c7
 - Nonprofit501c7
 - is_a_nonprofit501c7
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: USNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit501c7
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit501c7 Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit501c7 Class"
+type: Type
 ---
 
 Class of all nonprofit501c7s.

@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q7321
+﻿---
 aliases:
-  - Jacques Cartier
+- "Jacques Cartier"
+has_id_wikidata: Q7321
 ---
-
 
 ## #has_/text_of_/abstract 
 

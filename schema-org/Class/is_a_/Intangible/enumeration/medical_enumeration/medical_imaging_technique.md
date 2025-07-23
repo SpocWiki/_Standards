@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_imaging_technique Class
-linkTitle: is_a_medical_imaging_technique Class
-
-keywords: [medical_imaging_technique]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-imaging-technique
 - medical_imaging_technique
 - MedicalImagingTechnique
 - is_a_medical_imaging_technique
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_imaging_technique
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_imaging_technique Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_imaging_technique Class"
+type: Type
 ---
 
 Class of all medical_imaging_techniques.

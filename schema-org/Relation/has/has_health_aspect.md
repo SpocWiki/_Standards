@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_health_aspect
-
-linkTitle: has_health_aspect
-keywords: [health, aspect]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-health-aspect
 - health_aspect
 - hasHealthAspect
 - has_health_aspect
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health
+- aspect
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_health_aspect
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_health_aspect
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

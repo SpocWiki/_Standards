@@ -1,36 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- has_duration_of_{{label_snail}}
 confidential: public
+cssclasses: "Predicate Duration"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Duration
-publish: true
-
-# Hugo Tags
-type: Predi_Duration
-title: has_duration_of_{{label_snail}}
-
-linkTitle: has_duration_of_{{label_snail}}
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: has_duration_of_{{label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Property
 - schema-org/Property/Durations
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- has_duration_of_{{label_snail}}
+title: has_duration_of_{{label_snail}}
+type: Predi_Duration
 ---
 
 Predicate to describe the Duration of {{domainIncludes}}.

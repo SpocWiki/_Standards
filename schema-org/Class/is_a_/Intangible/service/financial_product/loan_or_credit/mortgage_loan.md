@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_mortgage_loan Class
-linkTitle: is_a_mortgage_loan Class
-
-keywords: [mortgage_loan]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - mortgage-loan
 - mortgage_loan
 - MortgageLoan
 - is_a_mortgage_loan
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mortgage_loan
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_mortgage_loan Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_mortgage_loan Class"
+type: Type
 ---
 
 Class of all mortgage_loans.

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Perikles
-  - Pericles
+- Perikles
+- Pericles
 ---
 
 # [[Pericles]]

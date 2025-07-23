@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_dry_cleaning_or_laundry Class
-linkTitle: is_a_dry_cleaning_or_laundry Class
-
-keywords: [dry_cleaning_or_laundry]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - dry-cleaning-or-laundry
 - dry_cleaning_or_laundry
 - DryCleaningOrLaundry
 - is_a_dry_cleaning_or_laundry
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dry_cleaning_or_laundry
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_dry_cleaning_or_laundry Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_dry_cleaning_or_laundry Class"
+type: Type
 ---
 
 Class of all dry_cleaning_or_laundrys.

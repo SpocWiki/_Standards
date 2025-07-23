@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_steering_position_value Class
-linkTitle: is_a_steering_position_value Class
-
-keywords: [steering_position_value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - steering-position-value
 - steering_position_value
 - SteeringPositionValue
 - is_a_steering_position_value
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- steering_position_value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_steering_position_value Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_steering_position_value Class"
+type: Type
 ---
 
 Class of all steering_position_values.

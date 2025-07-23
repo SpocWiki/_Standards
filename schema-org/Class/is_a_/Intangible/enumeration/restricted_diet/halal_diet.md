@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_halal_diet Class
-linkTitle: is_a_halal_diet Class
-
-keywords: [halal_diet]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: RestrictedDiet
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - halal-diet
 - halal_diet
 - HalalDiet
 - is_a_halal_diet
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: RestrictedDiet
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- halal_diet
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_halal_diet Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_halal_diet Class"
+type: Type
 ---
 
 Class of all halal_diets.

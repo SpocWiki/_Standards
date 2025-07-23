@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_am_radio_channel Class
-linkTitle: is_an_am_radio_channel Class
-
-keywords: [am_radio_channel]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - am-radio-channel
 - am_radio_channel
 - AMRadioChannel
 - is_an_am_radio_channel
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- am_radio_channel
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_am_radio_channel Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_am_radio_channel Class"
+type: Type
 ---
 
 Class of all am_radio_channels.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_event_rescheduled Class
-linkTitle: is_an_event_rescheduled Class
-
-keywords: [event_rescheduled]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EventStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - event-rescheduled
 - event_rescheduled
 - EventRescheduled
 - is_an_event_rescheduled
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EventStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event_rescheduled
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_event_rescheduled Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_event_rescheduled Class"
+type: Type
 ---
 
 Class of all event_rescheduleds.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_blocks Class
-linkTitle: is_a_user_blocks Class
-
-keywords: [user_blocks]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-blocks
 - user_blocks
 - UserBlocks
 - is_a_user_blocks
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_blocks
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_blocks Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_blocks Class"
+type: Type
 ---
 
 Class of all [[user_blocks]]-Counters, i.e. Users blocking a Web-Site or Pop-Ups.

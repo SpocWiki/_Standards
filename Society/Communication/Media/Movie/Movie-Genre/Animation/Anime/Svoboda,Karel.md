@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Karel Svoboda
+- "Karel Svoboda"
 ---
-
 
 > Karel Svoboda (19 December 1938 – 28 January 2007) was a Czech composer of popular music. 
 > He wrote music for many TV series in the 1970s.

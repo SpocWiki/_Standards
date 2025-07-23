@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_government_benefits_type Class
-linkTitle: is_a_government_benefits_type Class
-
-keywords: [government_benefits_type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - government-benefits-type
 - government_benefits_type
 - GovernmentBenefitsType
 - is_a_government_benefits_type
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- government_benefits_type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_government_benefits_type Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_government_benefits_type Class"
+type: Type
 ---
 
 Class of all government_benefits_types.

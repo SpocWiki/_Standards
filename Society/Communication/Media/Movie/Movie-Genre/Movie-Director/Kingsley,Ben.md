@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Ben Kingsley
+- "Ben Kingsley"
 ---
 
 #has_/time_/started :: 1943-12-31 

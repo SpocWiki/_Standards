@@ -1,8 +1,7 @@
----
+﻿---
+has_id_wikidata: Q979
+SpocWebEntityId: 21979
 type: Element
-
-SpocWebEntityId: 21979 
-has_id_wikidata: Q979 
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Polonium,979]]  

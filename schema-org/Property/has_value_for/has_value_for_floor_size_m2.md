@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_floor-size
-linkTitle: has_floor-size
-
-keywords: [floor-size]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - floor_size
 - floor-size
 - floorSize
 - has_value_for_floor_size_m2
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- floor-size
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_floor-size
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_floor-size
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Accommodation, FloorPlan.

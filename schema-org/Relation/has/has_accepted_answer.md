@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_accepted_answer
-
-linkTitle: has_accepted_answer
-keywords: [accepted, answer]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - accepted-answer
 - accepted_answer
 - acceptedAnswer
 - has_accepted_answer
-fileClass: [FileClass-Relation]
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+fileClass:
+- FileClass-Relation
+isDeleted: false
+isReadOnly: false
+keywords:
+- accepted
+- answer
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_accepted_answer
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_accepted_answer
+type: Predi_Relation
 ---
 
 Use it like this: 

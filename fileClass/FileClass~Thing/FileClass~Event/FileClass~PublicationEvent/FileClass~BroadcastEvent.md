@@ -1,43 +1,43 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BroadcastEvent
-  - class/Thing/Event/PublicationEvent/BroadcastEvent
-  - is_a_/BroadcastEvent
-  - schema-org/BroadcastEvent
-tags:
-  - class/FileClass
-  - class/BroadcastEvent
-  - is_a_/BroadcastEvent
-  - class/Thing/Event/PublicationEvent/BroadcastEvent
 extends: FileClass~Thing/FileClass~Event/FileClass~PublicationEvent
 fields:
-  - id: rpykPC
-    name: BroadcastOfEvent
-    options:
-      dvQueryString: dv.pages('#class/Thing/Event')
-    type: MultiFile
-    path: ""
-  - id: KACSrk
-    name: IsLiveBroadcast
-    options: {}
-    type: Boolean
-    path: ""
-  - id: D1zmh6
-    name: SubtitleLanguage
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
-    type: MultiFile
-    path: ""
-  - id: h1kzFc
-    name: VideoFormat
-    options: {}
-    type: Input
-    path: ""
+- id: rpykPC
+  name: BroadcastOfEvent
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Event')"
+  type: MultiFile
+  path: ''
+- id: KACSrk
+  name: IsLiveBroadcast
+  options: {}
+  type: Boolean
+  path: ''
+- id: D1zmh6
+  name: SubtitleLanguage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
+  type: MultiFile
+  path: ''
+- id: h1kzFc
+  name: VideoFormat
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BroadcastEvent
+- class/Thing/Event/PublicationEvent/BroadcastEvent
+- is_a_/BroadcastEvent
+- schema-org/BroadcastEvent
+tags:
+- class/FileClass
+- class/BroadcastEvent
+- is_a_/BroadcastEvent
+- class/Thing/Event/PublicationEvent/BroadcastEvent
+version: 2.0
 ---
 
 # BroadcastEvent

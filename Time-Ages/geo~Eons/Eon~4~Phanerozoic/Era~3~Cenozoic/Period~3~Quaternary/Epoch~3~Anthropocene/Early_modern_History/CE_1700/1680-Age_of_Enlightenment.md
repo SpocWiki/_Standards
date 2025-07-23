@@ -1,7 +1,7 @@
----
-has_id_wikidata: Q12539
+﻿---
 aliases:
-  - Age of Enlightenment
+- "Age of Enlightenment"
+has_id_wikidata: Q12539
 ---
 
 #has_/time_/started :: 1680-06 

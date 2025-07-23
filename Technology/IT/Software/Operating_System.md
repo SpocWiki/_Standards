@@ -1,47 +1,28 @@
----
-has_id_wikidata: Q9135
-has_part_s_:
-- "[[_Standards/WikiData/WD~file_system,174989]]"
-- "[[_Standards/WikiData/WD~access_control,228502]]"
-- '[[_Standards/WikiData/WD~scheduling,1123036]]'
-- "[[_Standards/WikiData/WD~memory_manager,3761391]]"
-- '[[_Standards/WikiData/WD~kernel,9662]]'
-part_of: "[[_Standards/WikiData/WD~computing_platform,241317]]"
-subclass_of: "[[_Standards/WikiData/WD~system_software,676202]]"
-has_list: "[[_Standards/WikiData/WD~list_of_operating_systems,756435]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_operating_systems,1143393]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_OS,5856866]]"
-- "[[_Standards/WikiData/WD~Template_Infobox_OS_version,6326708]]"
-- "[[_Standards/WikiData/WD~Template_Operating_system,7731997]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Software,15659621]]"
-instance_of: "[[_Standards/WikiData/WD~software_category,17155032]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~operating_system_component,30059018]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96464904,96464904]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Operating_systems,108630976]]"
+﻿---
+Commons_category: "Operating systems"
 EntitySchema_for_this_class:
 - E102
 - E179
-short_name:
-- ОС
-- OS
-- SO
-- SO
-- OS
-- SO
-- SE
-- АС
-- ΛΣ
-- SO
-- ՕՀ
-- SO
-- オーエス
-- ОС
-- ОС
-- OS
-- OS
-- ОС
-- ОС
+follows: '[[_Standards/WikiData/WD~kernel,9662]]'
+GitHub_topic: operating-system
+has_id_wikidata: Q9135
+has_list: '[[_Standards/WikiData/WD~list_of_operating_systems,756435]]'
+has_part_s_:
+- '[[_Standards/WikiData/WD~file_system,174989]]'
+- '[[_Standards/WikiData/WD~access_control,228502]]'
+- '[[_Standards/WikiData/WD~scheduling,1123036]]'
+- '[[_Standards/WikiData/WD~memory_manager,3761391]]'
+- '[[_Standards/WikiData/WD~kernel,9662]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~operating_system_component,30059018]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_operating_systems,1143393]]'
+IAB_code: 615
+IEV_number: 171-05-01
+instance_of: '[[_Standards/WikiData/WD~software_category,17155032]]'
+Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/OPERATSIONNAYA_SISTEMA.html
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Software,15659621]]'
+OmegaWiki_Defined_Meaning: 487336
+part_of: '[[_Standards/WikiData/WD~computing_platform,241317]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q96464904,96464904]]'
 properties_for_this_type:
 - "programmed in"
 - platform
@@ -50,11 +31,6 @@ properties_for_this_type:
 - "SteamGridDB ID"
 - "based on"
 - developer
-Wikidata_property: "operating system"
-follows: '[[_Standards/WikiData/WD~kernel,9662]]'
-studied_in: "[[_Standards/WikiData/WD~computer_science,21198]]"
-IAB_code: 615
-OmegaWiki_Defined_Meaning: 487336
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-af.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement-ar.svg"
@@ -98,12 +74,36 @@ schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement%20bg.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Operating%20system%20placement%20kor.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Role%20of%20the%20operating%20system%20sinhala.png"
+short_name:
+- ОС
+- OS
+- SO
+- SO
+- OS
+- SO
+- SE
+- АС
+- ΛΣ
+- SO
+- ՕՀ
+- SO
+- オーエス
+- ОС
+- ОС
+- OS
+- OS
+- ОС
+- ОС
 Stack_Exchange_tag: "https://stackoverflow.com/tags/operating-system"
-IEV_number: 171-05-01
+studied_in: '[[_Standards/WikiData/WD~computer_science,21198]]'
+subclass_of: '[[_Standards/WikiData/WD~system_software,676202]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_OS,5856866]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_OS_version,6326708]]'
+- '[[_Standards/WikiData/WD~Template_Operating_system,7731997]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Operating_systems,108630976]]'
+Wikidata_property: "operating system"
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"OperatingSystem::8bhpb\"]"
-Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/OPERATSIONNAYA_SISTEMA.html
-Commons_category: "Operating systems"
-GitHub_topic: operating-system
 ---
 
 ## #has_/text_of_/abstract 

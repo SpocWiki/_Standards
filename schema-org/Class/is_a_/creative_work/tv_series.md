@@ -1,60 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_tv_series Class
-linkTitle: is_a_tv_series Class
-keywords:
-  - tv_series
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - tv-series
-  - tv_series
-  - TVSeries
-  - is_a_tv_series
-  - schema:TVSeries
-  - dbo:TelevisionShow
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_tv_series Class
-linkTitle: is_a_tv_series Class
-
-keywords: [tv_series]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - tv-series
 - tv_series
 - TVSeries
 - is_a_tv_series
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tv_series
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_tv_series Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_tv_series Class"
+type: Type
 ---
 
 Class of all tv_seriess.

@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_property
-linkTitle: has_id_property
-
-keywords: [property, id]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - property-id
 - id_property
 - propertyID
 - has_id_property
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- property
+- id
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_property
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_property
+type: Pred_Text
 ---
 
 Predicate to describe the Text of PropertyValue.

@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Quince
-  - Quinces
-  - Quitte
-  - Quitten
+- Quince
+- Quinces
+- Quitte
+- Quitten
 ---
 
 # [[Quince]] 

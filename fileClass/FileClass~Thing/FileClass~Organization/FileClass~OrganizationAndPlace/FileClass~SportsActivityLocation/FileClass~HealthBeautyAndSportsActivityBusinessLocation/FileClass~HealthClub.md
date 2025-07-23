@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HealthClub
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub
-  - is_a_/HealthClub
-  - schema-org/HealthClub
-tags:
-  - class/FileClass
-  - class/HealthClub
-  - is_a_/HealthClub
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HealthClub
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub
+- is_a_/HealthClub
+- schema-org/HealthClub
+tags:
+- class/FileClass
+- class/HealthClub
+- is_a_/HealthClub
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub
+version: 2.0
 ---
 
 # HealthClub

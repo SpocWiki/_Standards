@@ -1,82 +1,82 @@
----
-type: Element
-SpocWebEntityId: 21938
-has_id_wikidata: Q1038
-InChI: InChI=1S/Zr
-InChIKey: QCWXUUIWCKQGHC-UHFFFAOYSA-N
-RTECS_number: ZH7070000
-Commons_gallery: Zirconium
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
+atomic_number: 40
+boiling_point: 6471
+canonical_SMILES: '[Zr]'
+CAS_Registry_Number: 7440-67-7
+chemical_formula: Zr
 Commons_category: Zirconium
-Unicode_character: 鋯
-time_of_discovery_or_invention: "1789"
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
-- "[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]"
-- "[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255]]"
-- "[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921]]"
-named_after: '[[_Standards/WikiData/WD~zircon,178928]]'
-part_of:
-- "[[_Standards/WikiData/WD~group_4,189302]]"
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-- "[[_Standards/WikiData/WD~transition_metal,19588]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~zirconium_exposure,21175432]]"
-has_effect: "[[_Standards/WikiData/WD~zirconium_exposure,21175432]]"
-UMLS_CUI: C0043506
+Commons_gallery: Zirconium
 Common_Procurement_Vocabulary_code:
 - 14735000-2
 - 14735000
-vapor_pressure: 0
-short_term_exposure_limit: 10
-electronegativity: 1
-location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
-atomic_number: 40
-oxidation_state: 4
-time_weighted_average_exposure_limit: 5
-immediately_dangerous_to_life_or_health: 25
-ionic_radius:
-- 0.59
-- 0.72
-- 0.84
-- 0.89
+CPV_Supplementary_code: AA18
 density: 6.51
-melting_point: 3375
-boiling_point: 6471
-ZVG_number:
-- 7400
-- 520040
-mass: 91.222
-PubChem_CID: 23995
-OmegaWiki_Defined_Meaning: 371224
-canonical_SMILES: '[Zr]'
-element_symbol: Zr
-chemical_formula: Zr
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 Dewey_Decimal_Classification:
 - 669.735
 - 546.513
 - 620.189352
 - 661.0513
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Zirconium%20crystal%20bar%20and%201cm3%20cube.jpg"
-electron_configuration: "[Kr] 4d² 5s²"
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+- '[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]'
+- '[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255]]'
+- '[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921]]'
+DSSTOX_compound_identifier: DTXCID4029777
 EC_number: 231-176-9
-CAS_Registry_Number: 7440-67-7
-CPV_Supplementary_code: AA18
-UNII: C6V6S92N3C
+electronegativity: 1
+electron_configuration: "[Kr] 4d² 5s²"
+element_symbol: Zr
+has_effect: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
+has_id_wikidata: Q1038
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Zirconium%20crystal%20bar%20and%201cm3%20cube.jpg"
+immediately_dangerous_to_life_or_health: 25
+InChI: InChI=1S/Zr
+InChIKey: QCWXUUIWCKQGHC-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.59
+- 0.72
+- 0.84
+- 0.89
+location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
+mass: 91.222
+melting_point: 3375
 MeSH_tree_code:
 - D01.268.556.950
 - D01.268.956.937
 - D01.552.544.950
-DSSTOX_compound_identifier: DTXCID4029777
+named_after: '[[_Standards/WikiData/WD~zircon,178928]]'
+OmegaWiki_Defined_Meaning: 371224
+oxidation_state: 4
+part_of:
+- '[[_Standards/WikiData/WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+PubChem_CID: 23995
+RTECS_number: ZH7070000
+short_term_exposure_limit: 10
+SpocWebEntityId: 21938
+subclass_of:
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+time_of_discovery_or_invention: 1789
+time_weighted_average_exposure_limit: 5
+type: Element
+UMLS_CUI: C0043506
+Unicode_character: 鋯
+UNII: C6V6S92N3C
+vapor_pressure: 0
+ZVG_number:
+- 7400
+- 520040
 ---
 
 #chemic/Element 

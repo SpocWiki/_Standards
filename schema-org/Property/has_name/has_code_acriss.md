@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_code_acriss
-linkTitle: has_code_acriss
-
-keywords: [acriss, code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - acriss-code
 - acriss_code
 - acrissCode
 - has_code_acriss
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- acriss
+- code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_code_acriss
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_code_acriss
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BusOrCoach, Car.

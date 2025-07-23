@@ -293,7 +293,7 @@ female_population:
 population: 2533794
 coordinates_of_westernmost_point: "Point(11.75055 -17.25013)"
 official_name:
-  - Namibia
+- Namibia
 - "République de Namibie"
 ITU_letter_code: NMB
 Commons_category: Namibia

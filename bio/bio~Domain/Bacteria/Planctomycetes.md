@@ -1,8 +1,8 @@
----
-title: Planctomycetes
+﻿---
 aliases:
-  - Planctomycetota
-  - Planctomycetes
+- Planctomycetota
+- Planctomycetes
+title: Planctomycetes
 ---
 
 # [[Planctomycetes]] 

@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- nutrition
+- has_nutrition
+- "schema:nutrition"
+- "dbo:nutrition"
+- "wdt:P4224"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_nutrition
-linkTitle: has_nutrition
 keywords:
-  - nutrition
+- nutrition
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_nutrition
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - nutrition
-  - has_nutrition
-  - schema:nutrition
-  - dbo:nutrition
-  - wdt:P4224
+- class/Relation
+- schema-org/Relation
+title: has_nutrition
+type: Predi_Relation
 ---
 
 Use it like this: 

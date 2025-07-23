@@ -1,95 +1,95 @@
----
-has_id_wikidata: Q11577
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_use:
-  - "[[_Standards/WikiData/WD~cereal_grain,12117]]"
-  - "[[_Standards/WikiData/WD~fiber,161]]"
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~fodder,211439]]"
-taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Fujian,41705]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-  - "[[_Standards/WikiData/WD~grain_crop,113976623]]"
-taxon_common_name:
-  - árpa
-  - jęczmień
-  - Gerst
-  - Ječmen
-  - 麦芽
-  - Gerste
-  - Ohra
-  - common barley
-  - Cebada
-  - 大麥
-  - cebada
-  - ječmen obecný
-  - haidd chwerhesog
-  - κριθάρι
-  - pelto-ohra
-  - Bere
-  - Ječam
-  - négysoros árpa
-  - takarmányárpa
-  - オオムギ
-  - Јачмен
-  - Ячмень обыкновенный
-  - 二棱大麥
-  - 大麦
-  - 大麦秸
-  - 大麦苗
-  - 大麦
-  - ječmen
-  - seksradsbygg
-ITIS_TSN: 40874
-taxon_author_citation: L.
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Escourgeon-Hordeum%20vulgare%20subsp.%20vulgare.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Barley.jpg
-Commons_gallery: Hordeum vulgare
-Commons_category: Hordeum vulgare
-taxon_name: Hordeum vulgare
-OmegaWiki_Defined_Meaning: 398106
-has_fruit_type: "[[_Standards/WikiData/WD~caryopsis,506139]]"
-parent_taxon: "[[_Standards/WikiData/WD~Hordeum,518044]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
-maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Agriculture,10549418]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=317403
-sequenced_genome_URL:
-  - https://plants.ensembl.org/Hordeum_vulgare
-  - https://plants.ensembl.org/Hordeum_vulgare_goldenpromise
-  - https://plants.ensembl.org/Hordeum_vulgare_TRITEX
-UNII: 8JBE478M5Q
-EPPO_Code: HORVX
-Krugosvet_article: nauka_i_tehnika/biologiya/YACHMEN_OBIKNOVENNI.html
-NBN_System_Key: NBNSYS0000002604
-this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~Q15789710,15789710]]"
-  - "[[_Standards/WikiData/WD~Hordei_Fructus_Germinatus,27660203]]"
-  - "[[_Standards/WikiData/WD~barley,61665121]]"
-  - "[[_Standards/WikiData/WD~barley_bran,104219028]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q117712931,117712931]]"
-Dewey_Decimal_Classification:
-  - 584.9
-  - 633.16
-  - 641.3316
-short_name:
-  - H. vulgare
+﻿---
 aliases:
-  - Gerste
+- Gerste
+Commons_category: "Hordeum vulgare"
+Commons_gallery: "Hordeum vulgare"
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]'
+Dewey_Decimal_Classification:
+- 584.9
+- 633.16
+- 641.3316
+EPPO_Code: HORVX
+GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=317403"
+has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139]]'
+has_id_wikidata: Q11577
+has_use:
+- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
+- '[[_Standards/WikiData/WD~fiber,161]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439]]'
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Escourgeon-Hordeum%20vulgare%20subsp.%20vulgare.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Barley.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~grain_crop,113976623]]'
+ITIS_TSN: 40874
+Krugosvet_article: nauka_i_tehnika/biologiya/YACHMEN_OBIKNOVENNI.html
+maintained_by_WikiProject:
+- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~WikiProject_Agriculture,10549418]]'
+- '[[_Standards/WikiData/WD~WikiProject_Plants,10823481]]'
+- '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+NBN_System_Key: NBNSYS0000002604
+OmegaWiki_Defined_Meaning: 398106
+parent_taxon: '[[_Standards/WikiData/WD~Hordeum,518044]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q117712931,117712931]]'
+sequenced_genome_URL:
+- "https://plants.ensembl.org/Hordeum_vulgare"
+- "https://plants.ensembl.org/Hordeum_vulgare_goldenpromise"
+- "https://plants.ensembl.org/Hordeum_vulgare_TRITEX"
+short_name:
+- "H. vulgare"
+taxon_author_citation: L.
+taxon_common_name:
+- árpa
+- jęczmień
+- Gerst
+- Ječmen
+- 麦芽
+- Gerste
+- Ohra
+- "common barley"
+- Cebada
+- 大麥
+- cebada
+- "ječmen obecný"
+- "haidd chwerhesog"
+- κριθάρι
+- pelto-ohra
+- Bere
+- Ječam
+- "négysoros árpa"
+- takarmányárpa
+- オオムギ
+- Јачмен
+- "Ячмень обыкновенный"
+- 二棱大麥
+- 大麦
+- 大麦秸
+- 大麦苗
+- 大麦
+- ječmen
+- seksradsbygg
+taxon_name: "Hordeum vulgare"
+taxon_range:
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~Q15789710,15789710]]'
+- '[[_Standards/WikiData/WD~Hordei_Fructus_Germinatus,27660203]]'
+- '[[_Standards/WikiData/WD~barley,61665121]]'
+- '[[_Standards/WikiData/WD~barley_bran,104219028]]'
+UNII: 8JBE478M5Q
 ---
 
 ## #has_/text_of_/abstract 

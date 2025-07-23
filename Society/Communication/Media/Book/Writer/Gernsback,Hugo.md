@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Hugo Gernsback
-  - Hugo Gernsbacher
+- "Hugo Gernsback"
+- "Hugo Gernsbacher"
 ---
 
 #has_/time_/started ::  1884-08-16 

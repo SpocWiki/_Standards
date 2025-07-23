@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_physical_exam Class
-linkTitle: is_a_physical_exam Class
-
-keywords: [physical_exam]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - physical-exam
 - physical_exam
 - PhysicalExam
 - is_a_physical_exam
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- physical_exam
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_physical_exam Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_physical_exam Class"
+type: Type
 ---
 
 Class of all physical_exams.

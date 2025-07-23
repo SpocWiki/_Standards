@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - An American Werewolf in London
-  - American Werewolf
+- "An American Werewolf in London"
+- "American Werewolf"
 ---
-
 
 ## #has_/text_of_/abstract 
 

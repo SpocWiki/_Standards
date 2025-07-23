@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Geena Davis
+- "Geena Davis"
 ---
 
 #has_/time_/started :: 1956-01-21 

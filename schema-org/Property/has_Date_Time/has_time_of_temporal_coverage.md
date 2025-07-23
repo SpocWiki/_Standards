@@ -1,35 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
-publish: true
-
-# Hugo Tags
-type: Predi_Date_Time
-title: has_time_of_temporal_coverage
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: datasetTimeInterval
-
-tags:
-- class/Property
-- schema-org/Property/Date
-
+﻿---
 aliases:
 - temporal-coverage
 - temporal_coverage
 - temporalCoverage
 - has_time_of_temporal_coverage
+confidential: public
+cssclasses: "Predicate Date_Time"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+supersedes: datasetTimeInterval
+tags:
+- class/Property
+- schema-org/Property/Date
+title: has_time_of_temporal_coverage
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date-Range of a [[CreativeWork]].

@@ -1,28 +1,28 @@
----
+﻿---
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Pentref%20Celtaidd%20Din%20Lligwy%20Celtic%20village%20%28pre-Roman%29%20nr%20Moelfre%2C%20Ynys%20Mon%2C%20Wales%2005.png"
+Commons_category: "Iron Age"
+described_by_source:
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+different_from: "[[_Standards/WikiData/WD~Iron age,2805136]]"
 has_id_wikidata: Q11764
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-different from: "[[_Standards/WikiData/WD~Iron age,2805136]]"
-instance of: "[[_Standards/WikiData/WD~archaeological period,15401633]]"
-has part(s): "[[_Standards/WikiData/WD~Early Iron Age,98271225]]"
-named after: "[[_Standards/WikiData/WD~iron,677]]"
-subclass of: "[[_Standards/WikiData/WD~prehistory,11756]]"
-OmegaWiki Defined Meaning: "846346"
-Stadtwiki Dresden article: Eisenzeit
-subject named as: Eisenzeit
-start time:
-  - -0899-06 
-  - -0499-06 
-  - -1049-06 
-  - -1199-06 
-  - -0799-06 
-image: http://commons.wikimedia.org/wiki/Special:FilePath/HMB%20Keltengrab%20M%C3%BCnsingen-Rain%20Grab%2091.jpg
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Pentref%20Celtaidd%20Din%20Lligwy%20Celtic%20village%20%28pre-Roman%29%20nr%20Moelfre%2C%20Ynys%20Mon%2C%20Wales%2005.png
-Commons category: Iron Age
-Krugosvet article: istoriya/ZHELEZNI_VEK.html
-OpenStreetMap tag or key: Tag:historic:period=iron-age
+has_part_s_: "[[_Standards/WikiData/WD~Early Iron Age,98271225]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/HMB%20Keltengrab%20M%C3%BCnsingen-Rain%20Grab%2091.jpg"
+instance_of: "[[_Standards/WikiData/WD~archaeological period,15401633]]"
+Krugosvet_article: istoriya/ZHELEZNI_VEK.html
+named_after: '[[_Standards/WikiData/WD~iron,677]]'
+OmegaWiki_Defined_Meaning: 846346
+OpenStreetMap_tag_or_key: "Tag:historic:period=iron-age"
+Stadtwiki_Dresden_article: Eisenzeit
+start_time:
+- -0899-06
+- -0499-06
+- -1049-06
+- -1199-06
+- -0799-06
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
+subject_named_as: Eisenzeit
 ---
 
 # [[Iron_Age]] 

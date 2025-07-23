@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_pages
-linkTitle: has_number_of_pages
-
-keywords: [number_of_pages]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number-of-pages
 - number_of_pages
 - numberOfPages
 - has_number_of_pages
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number_of_pages
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_pages
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_pages
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Book.

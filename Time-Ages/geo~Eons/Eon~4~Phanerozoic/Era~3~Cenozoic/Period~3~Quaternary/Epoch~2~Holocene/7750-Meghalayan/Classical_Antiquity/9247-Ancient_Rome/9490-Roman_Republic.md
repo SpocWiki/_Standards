@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Roman Republic
-  - Roman_Republic
+- "Roman Republic"
+- Roman_Republic
 ---
 
 #has_/time_/started :: -0508 

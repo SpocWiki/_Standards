@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_available_at_or_from
-linkTitle: has_location_available_at_or_from
-
-keywords: [available_at_or_from]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - available-at-or-from
 - available_at_or_from
 - availableAtOrFrom
 - has_location_available_at_or_from
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- available_at_or_from
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_available_at_or_from
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_available_at_or_from
+type: Pred_geo
 ---
 
 Predicate to describe the geo of Demand, Offer.

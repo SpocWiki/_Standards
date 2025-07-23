@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Sleep Token
+- "Sleep Token"
 ---
 
 #is_/similar_to :: [[Slipknot(Band)]] 

@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_bank_account_type
-linkTitle: has_text_of_bank_account_type
-
-keywords: [bank, account, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - bank-account-type
 - bank_account_type
 - bankAccountType
 - has_text_of_bank_account_type
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bank
+- account
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_bank_account_type
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_bank_account_type
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BankAccount.

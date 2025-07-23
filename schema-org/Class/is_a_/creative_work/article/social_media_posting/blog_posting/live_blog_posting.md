@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_live_blog_posting Class
-linkTitle: is_a_live_blog_posting Class
-
-keywords: [live_blog_posting]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - live-blog-posting
 - live_blog_posting
 - LiveBlogPosting
 - is_a_live_blog_posting
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- live_blog_posting
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_live_blog_posting Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_live_blog_posting Class"
+type: Type
 ---
 
 Class of all live_blog_postings.

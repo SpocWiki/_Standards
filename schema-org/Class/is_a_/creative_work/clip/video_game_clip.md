@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_video_game_clip Class
-linkTitle: is_a_video_game_clip Class
-
-keywords: [video_game_clip]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - video-game-clip
 - video_game_clip
 - VideoGameClip
 - is_a_video_game_clip
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- video_game_clip
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_video_game_clip Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_video_game_clip Class"
+type: Type
 ---
 
 Class of all video_game_clips.

@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- aggregate-rating
+- aggregate_rating
+- aggregateRating
+- has_aggregate_rating
+- "schema:aggregateRating"
+- "dbo:rating"
+- "wdt:P4586"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_aggregate_rating
-linkTitle: has_aggregate_rating
 keywords:
-  - aggregate
-  - rating
+- aggregate
+- rating
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_aggregate_rating
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - aggregate-rating
-  - aggregate_rating
-  - aggregateRating
-  - has_aggregate_rating
-  - schema:aggregateRating
-  - dbo:rating
-  - wdt:P4586
+- class/Relation
+- schema-org/Relation
+title: has_aggregate_rating
+type: Predi_Relation
 ---
 
 Use it like this: 

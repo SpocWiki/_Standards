@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Set theory
+- "Set theory"
 has_id_wikidata: Q12482
 ---
-
 
 ## #has_/text_of_/abstract 
 

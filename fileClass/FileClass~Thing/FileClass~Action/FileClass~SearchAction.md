@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SearchAction
-  - class/Thing/Action/SearchAction
-  - is_a_/SearchAction
-  - schema-org/SearchAction
-tags:
-  - class/FileClass
-  - class/SearchAction
-  - is_a_/SearchAction
-  - class/Thing/Action/SearchAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: aosG9F
-    name: Query
-    options: {}
-    type: Input
-    path: ""
-  - id: Gz1TOS
-    name: QueryInput
-    options:
-      dvQueryString: dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')
-    type: MultiFile
-    path: ""
+- id: aosG9F
+  name: Query
+  options: {}
+  type: Input
+  path: ''
+- id: Gz1TOS
+  name: QueryInput
+  options:
+    dvQueryString: "dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SearchAction
+- class/Thing/Action/SearchAction
+- is_a_/SearchAction
+- schema-org/SearchAction
+tags:
+- class/FileClass
+- class/SearchAction
+- is_a_/SearchAction
+- class/Thing/Action/SearchAction
+version: 2.0
 ---
 
 # SearchAction

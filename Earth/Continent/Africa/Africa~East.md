@@ -1,10 +1,11 @@
----
+﻿---
 aliases:
-  - East Africa
-  - Eastern Africa
-  - Eastern_Africa
-  - East of Africa
+- "East Africa"
+- "Eastern Africa"
+- Eastern_Africa
+- "East of Africa"
 ---
+
 # [[Africa~East]] 
 
 ## #has_/text_of_/abstract  

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SportsOrganization
-  - class/Thing/Organization/SportsOrganization
-  - is_a_/SportsOrganization
-  - schema-org/SportsOrganization
-tags:
-  - class/FileClass
-  - class/SportsOrganization
-  - is_a_/SportsOrganization
-  - class/Thing/Organization/SportsOrganization
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: m1yprr
-    name: Sport
-    options: {}
-    type: Input
-    path: ""
+- id: m1yprr
+  name: Sport
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SportsOrganization
+- class/Thing/Organization/SportsOrganization
+- is_a_/SportsOrganization
+- schema-org/SportsOrganization
+tags:
+- class/FileClass
+- class/SportsOrganization
+- is_a_/SportsOrganization
+- class/Thing/Organization/SportsOrganization
+version: 2.0
 ---
 
 # SportsOrganization

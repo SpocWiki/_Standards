@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- publisher
+- has_publisher
+- "dbo:publisher"
+- "schema:publisher"
+- "wdt:P123"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_publisher
-linkTitle: has_publisher
 keywords:
-  - publisher
+- publisher
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_publisher
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - publisher
-  - has_publisher
-  - dbo:publisher
-  - schema:publisher
-  - wdt:P123
+- class/Relation
+- schema-org/Relation
+title: has_publisher
+type: Predi_Relation
 ---
 
 Use it like this: 

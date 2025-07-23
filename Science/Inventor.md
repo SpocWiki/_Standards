@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Inventors
+- Inventors
 ---
 
 ## #has_/text_of_/abstract 

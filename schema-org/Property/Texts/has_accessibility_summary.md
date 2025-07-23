@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_accessibility_summary
-linkTitle: has_text_of_accessibility_summary
-
-keywords: [accessibility, summary]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - accessibility-summary
 - accessibility_summary
 - accessibilitySummary
 - has_text_of_accessibility_summary
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- accessibility
+- summary
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_accessibility_summary
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_accessibility_summary
+type: Pred_Text
 ---
 
 Predicate to describe the Text of CreativeWork.

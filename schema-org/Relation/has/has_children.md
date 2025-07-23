@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- children
+- children
+- children
+- has_children
+- "schema:child"
+- "dbo:child"
+- "wdt:P40"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_children
-linkTitle: has_children
 keywords:
-  - children
+- children
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_children
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - children
-  - children
-  - children
-  - has_children
-  - schema:child
-  - dbo:child
-  - wdt:P40
+- class/Relation
+- schema-org/Relation
+title: has_children
+type: Predi_Relation
 ---
 
 Use it like this: 

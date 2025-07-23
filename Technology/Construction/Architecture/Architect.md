@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Architects
+- Architects
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_fd_acategory_d Class
-linkTitle: is_a_fd_acategory_d Class
-
-keywords: [fd_acategory_d]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DrugPregnancyCategory
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - fd-acategory-d
 - fd_acategory_d
 - FDAcategoryD
 - is_a_fd_acategory_d
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DrugPregnancyCategory
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- fd_acategory_d
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_fd_acategory_d Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_fd_acategory_d Class"
+type: Type
 ---
 
 Class of all fd_acategory_ds.

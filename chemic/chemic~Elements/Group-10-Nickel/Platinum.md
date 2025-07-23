@@ -1,61 +1,61 @@
----
-type: Element
-SpocWebEntityId: 21974
-has_id_wikidata: Q880
-Unicode_character: 鉑
-mass: 195.084
-time_of_discovery_or_invention: "1557"
-part_of:
-- "[[_Standards/WikiData/WD~group_10,205253]]"
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~platinum_group,223995]]"
-- "[[_Standards/WikiData/WD~precious_metal,271449]]"
-made_from_material:
-- '[[_Standards/WikiData/WD~sperrylite,425150]]'
-- '[[_Standards/WikiData/WD~cooperite,1059093]]'
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Julius_Caesar_Scaliger,441066]]"
-- "[[_Standards/WikiData/WD~Antonio_de_Ulloa,470306]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- '[[_Standards/WikiData/WD~Platinum,108310084]]'
-different_from: "[[_Standards/WikiData/WD~white_gold,6582775]]"
+﻿---
 associated_hazard:
 - '[[_Standards/WikiData/WD~platinosis,7202318]]'
-- "[[_Standards/WikiData/WD~platinum_exposure,21175066]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25695214,25695214]]'
-UMLS_CUI:
-- C0699665
-- C0032207
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystal%20grown%20using%20CVD%20method.webm"
-Libris_URI: 0xbdcbjj24ffd70
-named_after: '[[_Standards/WikiData/WD~silver,1090]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~platinum_exposure,21175066]]'
+atomic_number: 78
+CAS_Registry_Number: 7440-06-4
+Commons_category: Platinum
+Commons_gallery: Platinum
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Platinum,108310084]]'
+different_from: '[[_Standards/WikiData/WD~white_gold,6582775]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Julius_Caesar_Scaliger,441066]]'
+- '[[_Standards/WikiData/WD~Antonio_de_Ulloa,470306]]'
+electronegativity: 2.28
+element_symbol: Pt
+Gmelin_number: 8862
+has_id_wikidata: Q880
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystals.jpg"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.6
 - 0.8
 - 0.63
-atomic_number: 78
-electronegativity: 2.28
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystals.jpg"
-UNSPSC_Code: 11101803
-OmegaWiki_Defined_Meaning: 2842
-CAS_Registry_Number: 7440-06-4
-Gmelin_number: 8862
+Krugosvet_article: nauka_i_tehnika/himiya/PLATINA.html
+Libris_URI: 0xbdcbjj24ffd70
+made_from_material:
+- '[[_Standards/WikiData/WD~sperrylite,425150]]'
+- '[[_Standards/WikiData/WD~cooperite,1059093]]'
+mass: 195.084
 MeSH_tree_code:
 - D01.268.556.690
 - D01.268.956.734
 - D01.552.544.690
+named_after: '[[_Standards/WikiData/WD~silver,1090]]'
+OmegaWiki_Defined_Meaning: 2842
+part_of:
+- '[[_Standards/WikiData/WD~group_10,205253]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25695214,25695214]]'
+SpocWebEntityId: 21974
+subclass_of:
+- '[[_Standards/WikiData/WD~platinum_group,223995]]'
+- '[[_Standards/WikiData/WD~precious_metal,271449]]'
+time_of_discovery_or_invention: 1557
+type: Element
+UMLS_CUI:
+- C0699665
+- C0032207
+Unicode_character: 鉑
+UNSPSC_Code: 11101803
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystal%20grown%20using%20CVD%20method.webm"
 Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Platinum\"]"
-Krugosvet_article: nauka_i_tehnika/himiya/PLATINA.html
-Commons_gallery: Platinum
-Commons_category: Platinum
-element_symbol: Pt
 ---
 
 #chemic/Element 

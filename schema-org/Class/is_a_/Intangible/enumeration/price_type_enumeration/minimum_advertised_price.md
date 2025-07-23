@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_minimum_advertised_price Class
-linkTitle: is_a_minimum_advertised_price Class
-
-keywords: [minimum_advertised_price]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PriceTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - minimum-advertised-price
 - minimum_advertised_price
 - MinimumAdvertisedPrice
 - is_a_minimum_advertised_price
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PriceTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- minimum_advertised_price
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_minimum_advertised_price Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_minimum_advertised_price Class"
+type: Type
 ---
 
 Class of all minimum_advertised_prices.

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_role_biological
-
-linkTitle: has_role_biological
-keywords: [biological, role]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - biological-role
 - role_biological
 - biologicalRole
 - has_role_biological
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- biological
+- role
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_role_biological
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_role_biological
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

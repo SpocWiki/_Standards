@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_prescription_only Class
-linkTitle: is_a_prescription_only Class
-
-keywords: [prescription_only]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DrugPrescriptionStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - prescription-only
 - prescription_only
 - PrescriptionOnly
 - is_a_prescription_only
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DrugPrescriptionStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- prescription_only
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_prescription_only Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_prescription_only Class"
+type: Type
 ---
 
 Class of all prescription_onlys.

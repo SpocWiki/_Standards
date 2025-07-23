@@ -1,29 +1,4 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_place_postal_code
-linkTitle: has_place_postal_code
-
-keywords: [postal, code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - postal-code
 - postal_code
@@ -32,6 +7,25 @@ aliases:
 - has_text_of_postal_code
 - zip_code
 - zipCode
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- postal
+- code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_place_postal_code
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_place_postal_code
+type: Pred_Text
 ---
 
 Predicate to describe the Text of DefinedRegion, GeoCoordinates, GeoShape, PostalAddress.

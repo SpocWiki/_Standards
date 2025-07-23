@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_rear_wheel_drive_configuration Class
-linkTitle: is_a_rear_wheel_drive_configuration Class
-
-keywords: [rear_wheel_drive_configuration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DriveWheelConfigurationValue
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - rear-wheel-drive-configuration
 - rear_wheel_drive_configuration
 - RearWheelDriveConfiguration
 - is_a_rear_wheel_drive_configuration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DriveWheelConfigurationValue
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rear_wheel_drive_configuration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_rear_wheel_drive_configuration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_rear_wheel_drive_configuration Class"
+type: Type
 ---
 
 Class of all rear_wheel_drive_configurations.

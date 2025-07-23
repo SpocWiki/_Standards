@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_payment_status
-
-linkTitle: has_payment_status
-keywords: [payment, status]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - payment-status
 - payment_status
 - paymentStatus
 - has_payment_status
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- payment
+- status
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_payment_status
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_payment_status
+type: Predi_Relation
 ---
 
 Use it like this: 

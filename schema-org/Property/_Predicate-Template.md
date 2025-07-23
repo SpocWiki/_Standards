@@ -1,39 +1,42 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predicate
-title: {{has_label_snail}}
-
-linkTitle: 
-keywords: [{{label_snail}}]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentProperty}}
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
-tags:
-- class/Property
-- schema-org/Property
-
+﻿---
 aliases:
 - label-dash
 - label_snail
 - label
 - has_label_snail
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+enumerationtype:
+  ? enumerationtype: 
+  : 
+equivalent_class:
+  ? equivalentProperty: 
+  : 
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ? label_snail: 
+  : 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
+tags:
+- class/Property
+- schema-org/Property
+title:
+  ? has_label_snail: 
+  : 
+type: Predicate
 ---
 
 [domain::{{domainIncludes}}]

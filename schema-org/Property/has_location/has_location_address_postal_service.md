@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_address_postal_service
-linkTitle: has_location_address_postal_service
-
-keywords: [service_postal_address]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - service-postal-address
 - service_postal_address
 - servicePostalAddress
 - has_location_address_postal_service
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- service_postal_address
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_address_postal_service
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_address_postal_service
+type: Pred_geo
 ---
 
 Predicate to describe the Address of the ServiceChannel.

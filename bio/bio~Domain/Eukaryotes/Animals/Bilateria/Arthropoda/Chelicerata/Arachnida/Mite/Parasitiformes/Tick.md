@@ -1,11 +1,12 @@
----
-title: Ixodida
+﻿---
 aliases:
-  - Ixodida
-  - Tick
-  - Zecke
-  - Ticks
+- Ixodida
+- Tick
+- Zecke
+- Ticks
+title: Ixodida
 ---
+
 # [[Tick]] 
 
 ![Amblyomma hebraeum male and female](Tick/Amblyomma_hebraeum.jpg)  ![Otobius megnini](Tick/Otobius_megnini.jpg) 

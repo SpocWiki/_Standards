@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_type_and_quantity_node Class
-linkTitle: is_a_type_and_quantity_node Class
-
-keywords: [type_and_quantity_node]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - type-and-quantity-node
 - type_and_quantity_node
 - TypeAndQuantityNode
 - is_a_type_and_quantity_node
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- type_and_quantity_node
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_type_and_quantity_node Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_type_and_quantity_node Class"
+type: Type
 ---
 
 Class of all type_and_quantity_nodes.

@@ -1,23 +1,10 @@
----
-type: Lang
+﻿---
+ABS_ASCL_2011_code: 7104
 aliases:
 - Chinese
 - Mandarin
 - "Mandarin Chinese"
-tags:
-- Lang/zh
-has_id_wikidata: Q9192
-linguistic_typology:
-- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-- "[[_Standards/WikiData/WD~isolating_language,7423311]]"
-replaces: "[[_Standards/WikiData/WD~Middle_Chinese,2016252]]"
-different_from:
-- '[[_Standards/WikiData/WD~Mandarin,10948482]]'
-- '[[_Standards/WikiData/WD~Putonghua,24841726]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q20690025,20690025]]'
-Ethnologue_language_status: "[[_Standards/WikiData/WD~1_National,29051546]]"
-Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/mandarin"
-short_name: паўночнакітайская
+Commons_category: "Mandarin Chinese language"
 country:
 - '[[_Standards/WikiData/WD~Singapore,334]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
@@ -26,9 +13,20 @@ country:
 - '[[_Standards/WikiData/WD~Philippines,928]]'
 - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
+different_from:
+- '[[_Standards/WikiData/WD~Mandarin,10948482]]'
+- '[[_Standards/WikiData/WD~Putonghua,24841726]]'
+distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png"
+Ethnologue_com_language_code: cmn
+Ethnologue_language_status: '[[_Standards/WikiData/WD~1_National,29051546]]'
+GitHub_topic: mandarin
+Glottolog_code: mand1415
+has_id_wikidata: Q9192
+IETF_language_tag: cmn
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg"
 indigenous_to:
 - '[[_Standards/WikiData/WD~Beijing,956]]'
-- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
 - '[[_Standards/WikiData/WD~Chongqing,11725]]'
 - '[[_Standards/WikiData/WD~Tianjin,11736]]'
 - '[[_Standards/WikiData/WD~Macau,14773]]'
@@ -39,7 +37,7 @@ indigenous_to:
 - '[[_Standards/WikiData/WD~Hebei,21208]]'
 - '[[_Standards/WikiData/WD~Xinjiang,34800]]'
 - '[[_Standards/WikiData/WD~Anhui,40956]]'
-- "[[_Standards/WikiData/WD~Inner_Mongolia,41079]]"
+- '[[_Standards/WikiData/WD~Inner_Mongolia,41079]]'
 - '[[_Standards/WikiData/WD~Gansu,42392]]'
 - '[[_Standards/WikiData/WD~Yunnan,43194]]'
 - '[[_Standards/WikiData/WD~Shandong,43407]]'
@@ -54,22 +52,24 @@ indigenous_to:
 - '[[_Standards/WikiData/WD~Shaanxi,47974]]'
 - '[[_Standards/WikiData/WD~Jiangxi,57052]]'
 - '[[_Standards/WikiData/WD~Ningxia,57448]]'
-subclass_of: '[[_Standards/WikiData/WD~Chinese,7850]]'
-writing_system: "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
 instance_of: '[[_Standards/WikiData/WD~language,34770]]'
-number_of_speakers_writers_or_signers: 918000000
-ABS_ASCL_2011_code: 7104
-Ethnologue_com_language_code: cmn
-IETF_language_tag: cmn
 ISO_639_3_code: cmn
-distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Mandarin.png"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Guanhua%20swapped.svg"
 Linguasphere_code: 79-AAA-b
-Glottolog_code: mand1415
-GitHub_topic: mandarin
-Commons_category: "Mandarin Chinese language"
-WALS_lect_code: mnd
+linguistic_typology:
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~isolating_language,7423311]]'
+number_of_speakers_writers_or_signers: 918000000
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Chinese%20phrasebook%20Street%20in%20Fuzhou.jpg"
+replaces: '[[_Standards/WikiData/WD~Middle_Chinese,2016252]]'
+short_name: паўночнакітайская
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/mandarin"
+subclass_of: '[[_Standards/WikiData/WD~Chinese,7850]]'
+tags:
+- Lang/zh
+topic_s_main_template: '[[_Standards/WikiData/WD~Q20690025,20690025]]'
+type: Lang
+WALS_lect_code: mnd
+writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 ---
 
 ﻿

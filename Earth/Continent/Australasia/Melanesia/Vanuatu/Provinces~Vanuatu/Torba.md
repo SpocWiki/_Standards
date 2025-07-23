@@ -1,30 +1,28 @@
----
-location: [ -14.2 , 167.5 ] 
-type: geo-Region
-title: Torba
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country/Region
+﻿---
 aliases:
 - Torba
-
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
 layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -14.2
+- 167.5
+publish: true
 publishDate: 
-expiryDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country/Region
+title: Torba
+type: geo-Region
 ---
 
 # Torba

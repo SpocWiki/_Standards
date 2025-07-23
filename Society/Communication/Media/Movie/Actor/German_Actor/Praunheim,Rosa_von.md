@@ -1,27 +1,27 @@
----
-title: Rosa von Praunheim
-lang: en
-type: private_note
-keywords: Rosa von Praunheim
-linkTitle: Rosa von Praunheim
-has_Template:
-  - Extract~Note~Template
-license: (c)copyrighted
+﻿---
+aliases:
+- "Rosa von Praunheim"
+- 
 confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
+has_Template:
+- Extract~Note~Template
 isDeleted: false
 isReadOnly: false
-cssclasses: private note
+keywords: "Rosa von Praunheim"
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: "Rosa von Praunheim"
 publish: false
 publishDate: 
-expiryDate: 
 tags:
-  - Rosa von Praunheim
-  - 
-aliases:
-  - Rosa von Praunheim
-  -
+- "Rosa von Praunheim"
+- 
+title: "Rosa von Praunheim"
+type: private_note
 ---
 
 # [[Praunheim,Rosa_von]] 

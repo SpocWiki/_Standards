@@ -1,72 +1,72 @@
----
-type: Element
-SpocWebEntityId: 21948
-has_id_wikidata: Q1100
-Commons_gallery: Tellurium
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
+atomic_number: 52
+boiling_point: 1814
+canonical_SMILES: '[Te]'
+CAS_Registry_Number: 13494-80-9
+chemical_formula: Te
 Commons_category: Tellurium
-RTECS_number: WY2625000
-time_of_discovery_or_invention: "1783"
-part_of:
-- "[[_Standards/WikiData/WD~group_16,104567]]"
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~group_16,104567]]"
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-- '[[_Standards/WikiData/WD~metalloid,19596]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]"
-named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
+Commons_gallery: Tellurium
+density: 6.24
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of:
-- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
-associated_hazard: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
-has_effect: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
-UMLS_CUI: C0039462
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]'
+DSSTOX_compound_identifier: DTXCID7012119
+EC_number: 236-813-4
+electronegativity: 2.1
 electron_configuration:
 - "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴"
 - "[Kr] 5s² 5d¹⁰ 5p⁴"
-vapor_pressure: 0
-time_weighted_average_exposure_limit: 0.1
-electronegativity: 2.1
+element_symbol: Te
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+Gmelin_number: 16309
+has_effect: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
+has_id_wikidata: Q1100
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg"
 immediately_dangerous_to_life_or_health: 25
+InChI: InChI=1S/Te
+InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.43
 - 0.56
 - 0.66
 - 0.97
 - 2.21
-atomic_number: 52
-density: 6.24
-melting_point: 842
 mass: 127.6
-boiling_point: 1814
-ZVG_number: 7520
-Gmelin_number: 16309
-OmegaWiki_Defined_Meaning: 160178
-PubChem_CID: 6327182
-Unicode_character: 碲
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg"
-canonical_SMILES: '[Te]'
-CAS_Registry_Number: 13494-80-9
-EC_number: 236-813-4
+melting_point: 842
 MeSH_tree_code:
 - D01.268.185.950
 - D01.268.513.968
-DSSTOX_compound_identifier: DTXCID7012119
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tellurium\"]"
-InChI: InChI=1S/Te
+named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
+OmegaWiki_Defined_Meaning: 160178
+part_of:
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+PubChem_CID: 6327182
+RTECS_number: WY2625000
+SpocWebEntityId: 21948
+subclass_of:
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~metalloid,19596]]'
+time_of_discovery_or_invention: 1783
+time_weighted_average_exposure_limit: 0.1
+type: Element
+UMLS_CUI: C0039462
+Unicode_character: 碲
 UNII: NQA0O090ZJ
-InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
-chemical_formula: Te
-element_symbol: Te
+vapor_pressure: 0
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm"
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tellurium\"]"
+ZVG_number: 7520
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  

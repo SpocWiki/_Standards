@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_action_accessibility_requirement
-
-linkTitle: has_action_accessibility_requirement
-keywords: [action, accessibility, requirement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - action-accessibility-requirement
 - action_accessibility_requirement
 - actionAccessibilityRequirement
 - has_action_accessibility_requirement
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- action
+- accessibility
+- requirement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_action_accessibility_requirement
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_action_accessibility_requirement
+type: Predi_Relation
 ---
 
 Use it like this: 

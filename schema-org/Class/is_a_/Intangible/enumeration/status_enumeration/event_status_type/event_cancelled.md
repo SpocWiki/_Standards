@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_event_cancelled Class
-linkTitle: is_an_event_cancelled Class
-
-keywords: [event_cancelled]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EventStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - event-cancelled
 - event_cancelled
 - EventCancelled
 - is_an_event_cancelled
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EventStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event_cancelled
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_event_cancelled Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_event_cancelled Class"
+type: Type
 ---
 
 Class of all event_cancelleds.

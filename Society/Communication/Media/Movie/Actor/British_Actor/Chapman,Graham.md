@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Graham Chapman
+- "Graham Chapman"
 ---
 
 # [[Chapman,Graham]] 

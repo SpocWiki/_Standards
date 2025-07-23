@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_molecular_function
-
-linkTitle: has_molecular_function
-keywords: [molecular, function]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-molecular-function
 - molecular_function
 - hasMolecularFunction
 - has_molecular_function
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- molecular
+- function
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_molecular_function
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_molecular_function
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

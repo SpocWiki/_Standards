@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/LearningResource
-  - class/Thing/CreativeWork/LearningResource
-  - is_a_/LearningResource
-  - schema-org/LearningResource
-tags:
-  - class/FileClass
-  - class/LearningResource
-  - is_a_/LearningResource
-  - class/Thing/CreativeWork/LearningResource
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: zoIdrO
-    name: CompetencyRequired
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
+- id: zoIdrO
+  name: CompetencyRequired
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LearningResource
+- class/Thing/CreativeWork/LearningResource
+- is_a_/LearningResource
+- schema-org/LearningResource
+tags:
+- class/FileClass
+- class/LearningResource
+- is_a_/LearningResource
+- class/Thing/CreativeWork/LearningResource
+version: 2.0
 ---
 
 # LearningResource

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Airline
-  - class/Thing/Organization/Airline
-  - is_an_/Airline
-  - schema-org/Airline
-tags:
-  - class/FileClass
-  - class/Airline
-  - "#is_an_/Airline"
-  - class/Thing/Organization/Airline
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: sn5RqP
-    name: IataCode
-    options: {}
-    type: Input
-    path: ""
+- id: sn5RqP
+  name: IataCode
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Airline
+- class/Thing/Organization/Airline
+- is_an_/Airline
+- schema-org/Airline
+tags:
+- class/FileClass
+- class/Airline
+- '#is_an_/Airline'
+- class/Thing/Organization/Airline
+version: 2.0
 ---
 
 # Airline

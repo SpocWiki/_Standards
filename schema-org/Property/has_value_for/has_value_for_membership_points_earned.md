@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_membership-points-earned
-linkTitle: has_membership-points-earned
-
-keywords: [membership-points-earned]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - membership_points_earned
 - membership-points-earned
 - membershipPointsEarned
 - has_value_for_membership_points_earned
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- membership-points-earned
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_membership-points-earned
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_membership-points-earned
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of ProgramMembership.

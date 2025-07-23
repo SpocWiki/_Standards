@@ -1,10 +1,10 @@
----
-title: Lagomorpha
+﻿---
 aliases:
-  - Lagomorpha
-  - Rabbit 
-  - hare 
-  - pika
+- Lagomorpha
+- Rabbit
+- hare
+- pika
+title: Lagomorpha
 ---
 
 # [[Lagomorpha]]

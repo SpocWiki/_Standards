@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_correction
-
-linkTitle: has_correction
-keywords: [correction]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - correction
 - correction
 - correction
 - has_correction
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- correction
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_correction
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_correction
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

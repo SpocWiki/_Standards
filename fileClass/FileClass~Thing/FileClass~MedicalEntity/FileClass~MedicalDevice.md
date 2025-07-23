@@ -1,54 +1,54 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalDevice
-  - class/Thing/MedicalEntity/MedicalDevice
-  - is_a_/MedicalDevice
-  - schema-org/MedicalDevice
-tags:
-  - class/FileClass
-  - class/MedicalDevice
-  - is_a_/MedicalDevice
-  - class/Thing/MedicalEntity/MedicalDevice
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: K4YBY9
-    name: AdverseOutcome
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
-  - id: W8zvFh
-    name: Contraindication
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')
-    type: MultiFile
-    path: ""
-  - id: FFknFh
-    name: PostOp
-    options: {}
-    type: Input
-    path: ""
-  - id: seJ1ag
-    name: PreOp
-    options: {}
-    type: Input
-    path: ""
-  - id: XeIoXE
-    name: Procedure
-    options: {}
-    type: Input
-    path: ""
-  - id: nlciSl
-    name: SeriousAdverseOutcome
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
+- id: K4YBY9
+  name: AdverseOutcome
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+- id: W8zvFh
+  name: Contraindication
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')"
+  type: MultiFile
+  path: ''
+- id: FFknFh
+  name: PostOp
+  options: {}
+  type: Input
+  path: ''
+- id: seJ1ag
+  name: PreOp
+  options: {}
+  type: Input
+  path: ''
+- id: XeIoXE
+  name: Procedure
+  options: {}
+  type: Input
+  path: ''
+- id: nlciSl
+  name: SeriousAdverseOutcome
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalDevice
+- class/Thing/MedicalEntity/MedicalDevice
+- is_a_/MedicalDevice
+- schema-org/MedicalDevice
+tags:
+- class/FileClass
+- class/MedicalDevice
+- is_a_/MedicalDevice
+- class/Thing/MedicalEntity/MedicalDevice
+version: 2.0
 ---
 
 # MedicalDevice

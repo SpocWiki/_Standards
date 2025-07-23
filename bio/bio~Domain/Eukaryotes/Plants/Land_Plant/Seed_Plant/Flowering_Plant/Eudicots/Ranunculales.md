@@ -1,8 +1,8 @@
----
-title: Ranunculales
+﻿---
 aliases:
-  - Ranunculaceae
-  - Ranunculales
+- Ranunculaceae
+- Ranunculales
+title: Ranunculales
 ---
 
 # [[Ranunculales]]  

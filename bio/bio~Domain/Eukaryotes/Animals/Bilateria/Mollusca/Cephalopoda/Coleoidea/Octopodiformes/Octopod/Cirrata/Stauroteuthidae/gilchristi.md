@@ -1,5 +1,5 @@
----
-title: Stauroteuthis gilchristi
+﻿---
+title: "Stauroteuthis gilchristi"
 ---
 
 # Stauroteuthis gilchristi [(Robson 1924)] 

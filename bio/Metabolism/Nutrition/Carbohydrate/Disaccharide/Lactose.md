@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - milk sugar
-  - Milchzucker
+- "milk sugar"
+- Milchzucker
 ---
 
 #is_/instance_of :: [[../Disaccharide]] 

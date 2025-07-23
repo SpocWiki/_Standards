@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Economists
+- Economists
 has_id_wikidata: Q188094
 ---
-
 
 # [[Economist]] 
 

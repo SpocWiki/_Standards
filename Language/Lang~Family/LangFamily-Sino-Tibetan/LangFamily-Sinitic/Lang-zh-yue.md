@@ -1,13 +1,13 @@
----
-type: Lang
+﻿---
 aliases:
-  - Yue
-  - Cantonese
-  - Lang-yu
-  - Yue Chinese
-tags:
-  - Lang/yu
+- Yue
+- Cantonese
+- Lang-yu
+- "Yue Chinese"
 has_id_wikidata: Q7033959
+tags:
+- Lang/yu
+type: Lang
 ---
 
  # [[Lang-zh-yue]] 

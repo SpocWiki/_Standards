@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_annual-percentage-rate
-linkTitle: has_annual-percentage-rate
-
-keywords: [annual-percentage-rate]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - annual_percentage_rate
 - annual-percentage-rate
 - annualPercentageRate
 - has_value_for_annual_percentage_rate
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- annual-percentage-rate
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_annual-percentage-rate
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_annual-percentage-rate
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of FinancialProduct.

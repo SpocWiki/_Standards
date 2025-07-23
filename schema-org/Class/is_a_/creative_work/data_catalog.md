@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_data_catalog Class
-linkTitle: is_a_data_catalog Class
-
-keywords: [data_catalog]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://www.w3.org/ns/dcat#Catalog
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - data-catalog
 - data_catalog
 - DataCatalog
 - is_a_data_catalog
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://www.w3.org/ns/dcat#Catalog"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- data_catalog
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_data_catalog Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_data_catalog Class"
+type: Type
 ---
 
 Class of all data_catalogs.

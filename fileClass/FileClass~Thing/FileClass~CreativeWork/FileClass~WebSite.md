@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/WebSite
-  - class/Thing/CreativeWork/WebSite
-  - is_a_/WebSite
-  - schema-org/WebSite
-tags:
-  - class/FileClass
-  - class/WebSite
-  - is_a_/WebSite
-  - class/Thing/CreativeWork/WebSite
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: wFkbrk
-    name: Issn
-    options: {}
-    type: Input
-    path: ""
+- id: wFkbrk
+  name: Issn
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/WebSite
+- class/Thing/CreativeWork/WebSite
+- is_a_/WebSite
+- schema-org/WebSite
+tags:
+- class/FileClass
+- class/WebSite
+- is_a_/WebSite
+- class/Thing/CreativeWork/WebSite
+version: 2.0
 ---
 
 # WebSite

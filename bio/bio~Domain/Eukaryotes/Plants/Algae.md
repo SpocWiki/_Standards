@@ -1,37 +1,36 @@
----
+﻿---
+Basisklassifikation: 42.50
+Commons_category: Algae
+Common_Procurement_Vocabulary_code: 03313310-2
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+Dewey_Decimal_Classification: 579
+different_from:
+- '[[_Standards/WikiData/WD~hydrophyte,3143798]]'
+- '[[_Standards/WikiData/WD~Q112226581,112226581]]'
+EPPO_Code: AAAAA
+has_effect:
+- '[[_Standards/WikiData/WD~algal_bloom,326139]]'
+- '[[_Standards/WikiData/WD~photosynthesis,11982]]'
 has_id_wikidata: Q37868
-subclass of: "[[_Standards/WikiData/WD~autotroph,131427]]"
-studied in: "[[_Standards/WikiData/WD~phycology,188391]]"
-has effect:
-  - "[[_Standards/WikiData/WD~algal_bloom,326139]]"
-  - "[[_Standards/WikiData/WD~photosynthesis,11982]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-different from:
-  - "[[_Standards/WikiData/WD~hydrophyte,3143798]]"
-  - "[[_Standards/WikiData/WD~Q112226581,112226581]]"
-instance of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-Common Procurement Vocabulary code: 03313310-2
-Dewey Decimal Classification: "579"
-OmegaWiki Defined Meaning: "128"
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ulva%20intestinalis%20saum%C3%A2tre%20wimmereux%20juillet%202016%20Lamiot%20A.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wlas.jpg
-Basisklassifikation: "42.50"
-EPPO Code: AAAAA
-Commons category: Algae
-taxon name: Algae
-Krugosvet article: nauka_i_tehnika/biologiya/VODOROSLI.html
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ulva%20intestinalis%20saum%C3%A2tre%20wimmereux%20juillet%202016%20Lamiot%20A.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wlas.jpg"
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+Krugosvet_article: nauka_i_tehnika/biologiya/VODOROSLI.html
+OmegaWiki_Defined_Meaning: 128
+studied_in: '[[_Standards/WikiData/WD~phycology,188391]]'
+subclass_of: '[[_Standards/WikiData/WD~autotroph,131427]]'
+taxon_name: Algae
 ---
-
 
 ## #has_/text_of_/abstract 
 

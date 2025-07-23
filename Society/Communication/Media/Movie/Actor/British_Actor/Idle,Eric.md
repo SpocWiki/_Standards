@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Eric Idle
+- "Eric Idle"
 ---
 
 # [[Idle,Eric]] 

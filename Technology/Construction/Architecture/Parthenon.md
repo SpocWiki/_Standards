@@ -1,67 +1,67 @@
----
-has_id_wikidata: Q10288
-Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PARFENON.html
-Commons_gallery: Parthenon
-Commons_category: Parthenon
-native_label: Παρθενών
-different_from: '[[_Standards/WikiData/WD~Pantheon,99309]]'
+﻿---
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon.stl"
 architect:
 - '[[_Standards/WikiData/WD~Callicrates,114112]]'
 - '[[_Standards/WikiData/WD~Phidias,177302]]'
 - '[[_Standards/WikiData/WD~Ictinus,311502]]'
-part_of: "[[_Standards/WikiData/WD~Acropolis_of_Athens,131013]]"
 architectural_style:
-- "[[_Standards/WikiData/WD~Doric_order,192664]]"
+- '[[_Standards/WikiData/WD~Doric_order,192664]]'
 - '[[_Standards/WikiData/WD~peripteral,60138]]'
-instance_of:
-- "[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]"
-- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-- "[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]"
-- "[[_Standards/WikiData/WD~religious_building_ruin,96352513]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-made_from_material: "[[_Standards/WikiData/WD~Pentelic_marble,673492]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Athens_Municipality,1224979]]"
+Commons_category: Parthenon
+Commons_gallery: Parthenon
+coordinate_location: "Point(23.726601 37.971527)"
+country: '[[_Standards/WikiData/WD~Greece,41]]'
+culture: '[[_Standards/WikiData/WD~Ancient_Greek_culture,4246634]]'
+dedicated_to: '[[_Standards/WikiData/WD~Athena,37122]]'
 derivative_work: '[[_Standards/WikiData/WD~Parthenon,1467467]]'
-culture: "[[_Standards/WikiData/WD~Ancient_Greek_culture,4246634]]"
+described_at_URL: "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=912"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Pantheon,99309]]'
+has_id_wikidata: Q10288
+has_time_started: -0500
+height: 13.72
+heritage_designation:
+- '[[_Standards/WikiData/WD~archaeological_site_(Greece),29048715]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Parthenon%20in%20Athens.jpg"
+inception: -0500
+instance_of:
+- '[[_Standards/WikiData/WD~ancient_Greek_temple,267596]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek_archaeological_site,93342462]]'
+- '[[_Standards/WikiData/WD~religious_building_ruin,96352513]]'
+Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PARFENON.html
+length: 69.61
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Athens_Municipality,1224979]]'
+location: '[[_Standards/WikiData/WD~Athens,1524]]'
+made_from_material: '[[_Standards/WikiData/WD~Pentelic_marble,673492]]'
 maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]"
-- "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
+- '[[_Standards/WikiData/WD~WikiProject_Architecture,5496595]]'
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
 - "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
-- "[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]"
-- "[[_Standards/WikiData/WD~WikiProject_Women_in_Religion,63845230]]"
-- "[[_Standards/WikiData/WD~WikiProject_Athens,124695979]]"
+- '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
+- '[[_Standards/WikiData/WD~WikiProject_Women_in_Religion,63845230]]'
+- '[[_Standards/WikiData/WD~WikiProject_Athens,124695979]]'
+native_label: Παρθενών
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon%20by%20night.jpg"
+owned_by: '[[_Standards/WikiData/WD~Greece,41]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%2C%20Greece%20banner-%20Parthenon%20view%201.jpg"
+part_of: '[[_Standards/WikiData/WD~Acropolis_of_Athens,131013]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+state_of_use: '[[_Standards/WikiData/WD~open_to_the_public,55570821]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Acropolis%20Parthenon%20day.ogv"
+width: 30.8
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"Parthenon::564n4\"]"
 World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(i),23038972]]'
 - '[[_Standards/WikiData/WD~(iv),23038978]]'
 - '[[_Standards/WikiData/WD~(ii),23038976]]'
 - '[[_Standards/WikiData/WD~(iii),23038977]]'
 - '[[_Standards/WikiData/WD~(vi),23038980]]'
-heritage_designation:
-- "[[_Standards/WikiData/WD~archaeological_site_(Greece),29048715]]"
-- "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-state_of_use: "[[_Standards/WikiData/WD~open_to_the_public,55570821]]"
-coordinate_location: "Point(23.726601 37.971527)"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%2C%20Greece%20banner-%20Parthenon%20view%201.jpg"
-location: '[[_Standards/WikiData/WD~Athens,1524]]'
-owned_by: '[[_Standards/WikiData/WD~Greece,41]]'
-country: '[[_Standards/WikiData/WD~Greece,41]]'
-religion_or_worldview: "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
-dedicated_to: '[[_Standards/WikiData/WD~Athena,37122]]'
-width: 30.8
-height: 13.72
-length: 69.61
-inception: "-0500"
-has_time_started: "-0500"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Acropolis%20Parthenon%20day.ogv"
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon.stl"
-nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon%20by%20night.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Parthenon%20in%20Athens.jpg"
-described_at_URL: "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=912"
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"Parthenon::564n4\"]"
 ---
 
 ## #has_/text_of_/abstract 

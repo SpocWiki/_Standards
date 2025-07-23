@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Cambodia
-  - Camboya
-  - Cambodge
-  - كمبوديا
-  - 柬埔寨
-  - Камбоджа
+- Cambodia
+- Camboya
+- Cambodge
+- كمبوديا
+- 柬埔寨
+- Камбоджа
 - "the Kingdom of Cambodia"
 - "el Reino de Camboya"
 Languages:
@@ -126,7 +126,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kaco_,6344767]]'
 - '[[_Standards/WikiData/WD~Samre,6583615]]'
 - '[[_Standards/WikiData/WD~Somray,6583612]]'
-  - "[[_Standards/WikiData/WD~Sa'och,6583617]]"
+- "[[_Standards/WikiData/WD~Sa'och,6583617]]"
 - '[[_Standards/WikiData/WD~Pear,6583669]]'
 - '[[_Standards/WikiData/WD~Suoy,7641864]]'
 - "[[_Standards/WikiData/WD~Western_Cham,12645578]]"
@@ -331,8 +331,8 @@ coordinates_of_easternmost_point: "Point(107.62762785 13.36703242)"
 country_calling_code: +855
 official_name:
 - "कम्बोडिया की राजशाही"
-  - ព្រះរាជាណាចក្រកម្ពុជា
-  - 柬埔寨王國
+- ព្រះរាជាណាចក្រកម្ពុជា
+- 柬埔寨王國
 - "Kingdom of Cambodia"
 - "le Royaume du Cambodge"
 native_label: កម្ពុជា

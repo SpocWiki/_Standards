@@ -1,7 +1,7 @@
----
-title: Bacteroidetes
+﻿---
 aliases:
-  - Bacteroidetes
+- Bacteroidetes
+title: Bacteroidetes
 ---
 
 # [[Bacteroidetes]] 

@@ -1,70 +1,37 @@
----
-location:
-  - 43.93
-  - 12.45
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 27020
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: San Marino
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-  - San Marino
-  - Saint-Marin
-  - سان مارينو
-  - 圣马力诺
-  - Сан-Марино
-  - the Republic of San Marino
-  - la República de San Marino
-Languages:
-  - it-SM
-icon: flag-sm
-has_id_wikidata: Q238
-location:
-    - 43.93
-    - 12.45
-type: Country
-tags:
-    - geo/Country
-SpocWebEntityId: 27020
-isDeleted: false
+- "San Marino"
+- Saint-Marin
+- "سان مارينو"
+- 圣马力诺
+- Сан-Марино
+- "the Republic of San Marino"
+- "la República de San Marino"
 confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
-publish: true
-title: San Marino
-linkTitle: null
-keywords: null
-layout: null
 draft: false
-publishDate: null
-expiryDate: null
-aliases:
-    - San Marino
-    - Saint-Marin
-    - سان مارينو
-    - 圣马力诺
-    - Сан-Марино
-    - the Republic of San Marino
-    - la República de San Marino
-Languages:
-    - it-SM
+expiryDate: 
+has_id_wikidata: Q238
 icon: flag-sm
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- it-SM
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 43.93
+- 12.45
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 27020
+tags:
+- geo/Country
+title: "San Marino"
+type: Country
 ---
 
 # [[San_Marino]] 

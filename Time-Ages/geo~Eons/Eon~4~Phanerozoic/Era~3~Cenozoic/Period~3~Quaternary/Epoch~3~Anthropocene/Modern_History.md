@@ -1,27 +1,25 @@
----
-has_id_wikidata: Q3281534
+﻿---
 aliases:
-  - "Modern history"
+- "Modern history"
 Commons_category: "Modern period"
-follows: "[[_Standards/WikiData/WD~Postclassical_Era,7234117]]"
+follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
+has_id_wikidata: Q3281534
+has_time_started: 1750-06
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg"
 instance_of:
-  - '[[_Standards/WikiData/WD~era,6428674]]'
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+- '[[_Standards/WikiData/WD~era,6428674]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
 MeSH_tree_code: K01.400.504
 part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635]]'
-practiced_by: "[[_Standards/WikiData/WD~historian_of_Modern_Age,17489339]]"
-start_time: 1750-06 
-has_time_started: 1750-06
+practiced_by: '[[_Standards/WikiData/WD~historian_of_Modern_Age,17489339]]'
+start_time: 1750-06
 subclass_of: '[[_Standards/WikiData/WD~history,309]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern_history,13834331]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Modern_history,13834331]]'
 U_S_National_Archives_Identifier: 10647222
 ---
-
-
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534]] 
 

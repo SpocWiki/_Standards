@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit501c18 Class
-linkTitle: is_a_nonprofit501c18 Class
-
-keywords: [nonprofit501c18]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: USNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit501c18
 - nonprofit501c18
 - Nonprofit501c18
 - is_a_nonprofit501c18
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: USNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit501c18
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit501c18 Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit501c18 Class"
+type: Type
 ---
 
 Class of all nonprofit501c18s.

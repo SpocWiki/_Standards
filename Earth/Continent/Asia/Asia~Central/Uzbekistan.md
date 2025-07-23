@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Uzbekistan
-  - Uzbekistán
-  - Ouzbékistan
-  - أوزبكستان
-  - 乌兹别克斯坦
-  - Узбекистан
+- Uzbekistan
+- Uzbekistán
+- Ouzbékistan
+- أوزبكستان
+- 乌兹别克斯坦
+- Узбекистан
 - "the Republic of Uzbekistan"
 - "la República de Uzbekistán"
 Languages:
@@ -299,7 +299,7 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%2
 PM20_geo_code: B15
 coordinates_of_northernmost_point: "Point(58.65 45.6)"
 native_label:
-  - Oʻzbekiston
+- Oʻzbekiston
 - "Oʻzbekiston Respublikasi"
 female_population:
   - 16783206

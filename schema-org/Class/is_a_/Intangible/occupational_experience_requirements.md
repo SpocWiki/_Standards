@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_occupational_experience_requirements Class
-linkTitle: is_an_occupational_experience_requirements Class
-
-keywords: [occupational_experience_requirements]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - occupational-experience-requirements
 - occupational_experience_requirements
 - OccupationalExperienceRequirements
 - is_an_occupational_experience_requirements
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- occupational_experience_requirements
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_occupational_experience_requirements Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_occupational_experience_requirements Class"
+type: Type
 ---
 
 Class of all occupational_experience_requirementss.

@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Ash Shamaliyah
+- "Ash Shamaliyah"
 ---
-
 
 #has_/name_/ar_/Latn :: Ash Shamaliyah 
 #has_/name_/ar_/Arab :: الشمالية 

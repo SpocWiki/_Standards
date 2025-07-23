@@ -1,37 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- has_url_for_{{label_snail}}
 confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_{{label_snail}}
-linkTitle: has_url_for_{{label_snail}}
-
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_{{label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Property
 - schema-org/Property/Url
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- has_url_for_{{label_snail}}
+title: has_url_for_{{label_snail}}
+type: Predi_Url
 ---
 
 Predicate to specify the Url of {{domainIncludes}}.

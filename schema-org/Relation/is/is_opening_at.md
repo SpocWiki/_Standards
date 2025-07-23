@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_opening_at
-
-linkTitle: is_opening_at
-keywords: [opens]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - opens
 - opens
 - opens
 - is_opening_at
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- opens
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_opening_at
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_opening_at
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_countries_not_supported
-linkTitle: has_text_of_countries_not_supported
-
-keywords: [countries, not, supported]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - countries-not-supported
 - countries_not_supported
 - countriesNotSupported
 - has_text_of_countries_not_supported
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- countries
+- not
+- supported
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_countries_not_supported
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_countries_not_supported
+type: Pred_Text
 ---
 
 Predicate to describe the Text of SoftwareApplication.

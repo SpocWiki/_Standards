@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- seller
+- seller
+- seller
+- has_seller
+- has_merchant
+- has_vendor
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_seller
-linkTitle: has_seller
 keywords:
-  - seller
+- seller
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_seller
+publish: true
 publishDate: 
-expiryDate: 
-supersedes: merchant, vendor
+supersedes: "merchant, vendor"
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - seller
-  - seller
-  - seller
-  - has_seller
-  - has_merchant
-  - has_vendor
+- class/Relation
+- schema-org/Relation
+title: has_seller
+type: Predi_Relation
 ---
 
 Use it like this: 

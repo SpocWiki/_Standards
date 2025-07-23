@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_blood_supply
-
-linkTitle: has_blood_supply
-keywords: [blood, supply]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - blood-supply
 - blood_supply
 - bloodSupply
 - has_blood_supply
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- blood
+- supply
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_blood_supply
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_blood_supply
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_in_stock Class
-linkTitle: is_an_in_stock Class
-
-keywords: [in_stock]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemAvailability
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - in-stock
 - in_stock
 - InStock
 - is_in_stock
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemAvailability
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- in_stock
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_in_stock Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_in_stock Class"
+type: Type
 ---
 
 Class of all in_stocks.

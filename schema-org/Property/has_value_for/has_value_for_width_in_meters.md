@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_width
-linkTitle: has_width
-
-keywords: [width]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - width
 - width
 - width
 - has_value_for_width_in_meters
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- width
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_width
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_width
+type: Predi_Quantity
 ---
 
 The width of the item in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s.

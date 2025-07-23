@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- location-created
+- location_created
+- locationCreated
+- has_location_created
+- "schema:locationCreated"
+- "dbo:placeOfOrigin"
+- "wdt:P1071"
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_created
-linkTitle: has_location_created
 keywords:
-  - location_created
+- location_created
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_created
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/geo
-aliases:
-  - location-created
-  - location_created
-  - locationCreated
-  - has_location_created
-  - schema:locationCreated
-  - dbo:placeOfOrigin
-  - wdt:P1071
+- class/Property
+- schema-org/Property/geo
+title: has_location_created
+type: Pred_geo
 ---
 
 Predicate to describe the geo of CreativeWork.

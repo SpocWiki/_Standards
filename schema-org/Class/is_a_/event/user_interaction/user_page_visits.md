@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_page_visits Class
-linkTitle: is_a_user_page_visits Class
-
-keywords: [user_page_visits]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-page-visits
 - user_page_visits
 - UserPageVisits
 - is_a_user_page_visits
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_page_visits
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_page_visits Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_page_visits Class"
+type: Type
 ---
 
 Class of all [[user_page_visits]]-Counters.

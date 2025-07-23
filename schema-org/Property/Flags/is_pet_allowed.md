@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_pet_allowed
-linkTitle: is_pet_allowed
-
-keywords: [pet_allowed]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - pet-allowed
 - pet_allowed
 - petsAllowed
 - is_pet_allowed
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pet_allowed
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_pet_allowed
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_pet_allowed
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

@@ -1,31 +1,31 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BedDetails
-  - class/Thing/Intangible/BedDetails
-  - is_a_/BedDetails
-  - schema-org/BedDetails
-tags:
-  - class/FileClass
-  - class/BedDetails
-  - is_a_/BedDetails
-  - class/Thing/Intangible/BedDetails
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: mTTEFj
-    name: NumberOfBeds
-    options: {}
-    type: Number
-    path: ""
-  - id: m0holD
-    name: TypeOfBed
-    options: {}
-    type: Input
-    path: ""
+- id: mTTEFj
+  name: NumberOfBeds
+  options: {}
+  type: Number
+  path: ''
+- id: m0holD
+  name: TypeOfBed
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BedDetails
+- class/Thing/Intangible/BedDetails
+- is_a_/BedDetails
+- schema-org/BedDetails
+tags:
+- class/FileClass
+- class/BedDetails
+- is_a_/BedDetails
+- class/Thing/Intangible/BedDetails
+version: 2.0
 ---
 
 # BedDetails

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_hosting_organization
-
-linkTitle: has_hosting_organization
-keywords: [hosting, organization]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - hosting-organization
 - hosting_organization
 - hostingOrganization
 - has_hosting_organization
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hosting
+- organization
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_hosting_organization
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_hosting_organization
+type: Predi_Relation
 ---
 
 Use it like this: 

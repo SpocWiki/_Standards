@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- content-url
+- content_url
+- contentUrl
+- has_url_for_content_url
+- documentation-url
 confidential: public
+cssclasses:
+- Predicate
+- Url
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Url
-publish: true
-type: Predi_Url
-title: has_url_for_content_url
-linkTitle: has_url_for_content_url
 keywords:
-  - content_url
+- content_url
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_content_url
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Url
-aliases:
-  - content-url
-  - content_url
-  - contentUrl
-  - has_url_for_content_url
-  - documentation-url
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_content_url
+type: Predi_Url
 ---
 
 #has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Emma Stone
-  - Emily Jean Stone
+- "Emma Stone"
+- "Emily Jean Stone"
 ---
 
 #has_/time_/started :: 1988-11-06 

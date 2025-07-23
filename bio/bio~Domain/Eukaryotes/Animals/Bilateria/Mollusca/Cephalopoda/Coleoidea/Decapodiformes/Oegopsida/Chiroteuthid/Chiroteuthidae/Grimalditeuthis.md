@@ -1,5 +1,5 @@
----
-title: Grimalditeuthis bonplandi
+﻿---
+title: "Grimalditeuthis bonplandi"
 ---
 
 ## Phylogeny 

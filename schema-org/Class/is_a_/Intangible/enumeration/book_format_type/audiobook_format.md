@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_audiobook_format Class
-linkTitle: is_an_audiobook_format Class
-
-keywords: [audiobook_format]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BookFormatType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - audiobook-format
 - audiobook_format
 - AudiobookFormat
 - is_an_audiobook_format
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BookFormatType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- audiobook_format
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_audiobook_format Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_audiobook_format Class"
+type: Type
 ---
 
 Class of all audiobook_formats.

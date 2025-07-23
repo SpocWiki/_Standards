@@ -1,12 +1,33 @@
----
+﻿---
+Commons_category: "Periodic table group 6"
+has_id_wikidata: Q193280
+has_part_s_:
+- '[[_Standards/WikiData/WD~chromium,725]]'
+- '[[_Standards/WikiData/WD~tungsten,743]]'
+- '[[_Standards/WikiData/WD~molybdenum,1053]]'
+- '[[_Standards/WikiData/WD~seaborgium,1234]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum%20crystaline%20fragment%20and%201cm3%20cube.jpg"
+instance_of: '[[_Standards/WikiData/WD~group,83306]]'
+part_of:
+- '[[_Standards/WikiData/WD~d_block,214503]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
 ---
+
+# [[Group-06-Chromium]]
+
 #chemic/Group 
 
 4) [[Chromium]]
 5) [[Molybdenum]]
 6) [[Tungsten]]
 
+#is_/same_as :: [[../../WikiData/WD~Group_6,193280]] 
+## #has_/text_of_/abstract 
 
 > Group 6, numbered by IUPAC style, is a group of elements in the periodic table. Its members are chromium (Cr), molybdenum (Mo), tungsten (W), and seaborgium (Sg). These are all transition metals and chromium, molybdenum and tungsten are refractory metals.
 >

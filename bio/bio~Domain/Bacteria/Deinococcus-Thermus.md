@@ -1,8 +1,8 @@
----
-title: Deinococcus-Thermus
+﻿---
 aliases:
-  - Deinococcota
-  - Deinococci
+- Deinococcota
+- Deinococci
+title: Deinococcus-Thermus
 ---
 
 # [[Deinococcus-Thermus]] 

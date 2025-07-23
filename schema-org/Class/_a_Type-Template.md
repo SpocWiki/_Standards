@@ -1,40 +1,43 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- is_a_{{label_snail}}
 confidential: public
+cssclasses: Type
+draft: false
+enumerationtype:
+  ? enumerationtype: 
+  : 
+equivalent_class:
+  ? equivalentClass: 
+  : 
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_{{label_snail}} Class
-linkTitle: is_a_{{label_snail}} Class
-
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: {{enumerationtype}}
-equivalent_class: {{equivalentClass}}
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_{{label_snail}} Class"
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Class
 - schema-org/Class
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- is_a_{{label_snail}}
+title: "is_a_{{label_snail}} Class"
+type: Type
 ---
 
 Class of all {{label_snail}}s.

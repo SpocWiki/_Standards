@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_media_manipulation_rating_enumeration Class
-linkTitle: is_a_media_manipulation_rating_enumeration Class
-
-keywords: [media_manipulation_rating_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - media-manipulation-rating-enumeration
 - media_manipulation_rating_enumeration
 - MediaManipulationRatingEnumeration
 - is_a_media_manipulation_rating_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- media_manipulation_rating_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_media_manipulation_rating_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_media_manipulation_rating_enumeration Class"
+type: Type
 ---
 
 Class of all media_manipulation_rating_enumerations.

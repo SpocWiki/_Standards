@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_equals
-linkTitle: has_location_equals
-
-keywords: [geo_equals]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - geo-equals
 - geo_equals
 - geoEquals
 - has_location_equals
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- geo_equals
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_equals
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_equals
+type: Pred_geo
 ---
 
 Predicate to describe the geo of GeospatialGeometry, Place.

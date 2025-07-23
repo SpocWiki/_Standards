@@ -1,37 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- has_text_of_{{label_snail}}
 confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Predi_Text
-
-title: has_text_of_{{label_snail}}
-linkTitle: has_text_of_{{label_snail}}
-
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_{{label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Property
 - schema-org/Property/Text
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- has_text_of_{{label_snail}}
+title: has_text_of_{{label_snail}}
+type: Predi_Text
 ---
 
 Predicate to describe the Text of {{domainIncludes}}.

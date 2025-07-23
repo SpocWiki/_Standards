@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- opening-hours
+- opening_hours
+- openingHours
+- has_text_of_opening_hours
+- "schema:openingHours"
+- "dbo:openingHours"
+- "wdt:P862"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_opening_hours
-linkTitle: has_text_of_opening_hours
 keywords:
-  - opening
-  - hours
+- opening
+- hours
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_opening_hours
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - opening-hours
-  - opening_hours
-  - openingHours
-  - has_text_of_opening_hours
-  - schema:openingHours
-  - dbo:openingHours
-  - wdt:P862
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_opening_hours
+type: Pred_Text
 ---
 
 Predicate to describe the Text of CivicStructure, LocalBusiness.

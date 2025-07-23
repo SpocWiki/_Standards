@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_web_content Class
-linkTitle: is_a_web_content Class
-
-keywords: [web_content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - web-content
 - web_content
 - WebContent
 - is_a_web_content
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- web_content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_web_content Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_web_content Class"
+type: Type
 ---
 
 Class of all web_contents.

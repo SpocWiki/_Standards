@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_arrival_boat_terminal
-
-linkTitle: has_arrival_boat_terminal
-keywords: [arrival, boat, terminal]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - arrival-boat-terminal
 - arrival_boat_terminal
 - arrivalBoatTerminal
 - has_arrival_boat_terminal
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- arrival
+- boat
+- terminal
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_arrival_boat_terminal
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_arrival_boat_terminal
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

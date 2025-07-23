@@ -376,12 +376,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Slovakia
-    - Eslovaquia
-    - Slovaquie
-    - سلوفاكيا
-    - 斯洛伐克
-    - Словакия
+- Slovakia
+- Eslovaquia
+- Slovaquie
+- سلوفاكيا
+- 斯洛伐克
+- Словакия
 - "the Slovak Republic"
 - "la República Eslovaca"
 Languages:

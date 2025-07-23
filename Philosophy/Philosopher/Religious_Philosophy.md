@@ -1,15 +1,15 @@
----
-has_id_wikidata: Q2054106
-different_from: "[[_Standards/WikiData/WD~philosophy_of_religion,209295]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~type_of_world_view,110401282]]"
-Provenio_UUID: 8f0820f8-109c-4f42-b9fe-ba67ccc3b1c1
-MeSH_tree_code:
-  - K01.844.799
-Commons_category: Religious philosophy
+﻿---
 aliases:
-  - Religious philosophy
+- "Religious philosophy"
+Commons_category: "Religious philosophy"
+different_from: '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
+has_id_wikidata: Q2054106
+instance_of:
+- '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
+MeSH_tree_code:
+- K01.844.799
+Provenio_UUID: 8f0820f8-109c-4f42-b9fe-ba67ccc3b1c1
+subclass_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 ---
 
 # [[Religious_Philosophy]] 

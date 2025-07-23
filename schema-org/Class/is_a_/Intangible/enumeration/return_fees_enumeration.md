@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_fees_enumeration Class
-linkTitle: is_a_return_fees_enumeration Class
-
-keywords: [return_fees_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-fees-enumeration
 - return_fees_enumeration
 - ReturnFeesEnumeration
 - is_a_return_fees_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_fees_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_fees_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_fees_enumeration Class"
+type: Type
 ---
 
 Class of all return_fees_enumerations.

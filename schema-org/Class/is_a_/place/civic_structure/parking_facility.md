@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_parking_facility Class
-linkTitle: is_a_parking_facility Class
-
-keywords: [parking_facility]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - parking-facility
 - parking_facility
 - ParkingFacility
 - is_a_parking_facility
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- parking_facility
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_parking_facility Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_parking_facility Class"
+type: Type
 ---
 
 Class of all parking_facilitys.

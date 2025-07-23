@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Michael Palin
+- "Michael Palin"
 ---
 
 # [[Palin,Michael]] 

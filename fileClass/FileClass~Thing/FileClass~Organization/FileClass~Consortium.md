@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Consortium
-  - class/Thing/Organization/Consortium
-  - is_a_/Consortium
-  - schema-org/Consortium
-tags:
-  - class/FileClass
-  - class/Consortium
-  - is_a_/Consortium
-  - class/Thing/Organization/Consortium
 extends: FileClass~Thing/FileClass~Organization
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Consortium
+- class/Thing/Organization/Consortium
+- is_a_/Consortium
+- schema-org/Consortium
+tags:
+- class/FileClass
+- class/Consortium
+- is_a_/Consortium
+- class/Thing/Organization/Consortium
+version: 2.0
 ---
 
 # Consortium

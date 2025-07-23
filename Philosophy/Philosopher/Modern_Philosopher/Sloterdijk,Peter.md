@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Peter Sloterdijk
+- "Peter Sloterdijk"
 ---
 
 # [[Sloterdijk,Peter]] 

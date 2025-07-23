@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_departure_airport
-
-linkTitle: has_departure_airport
-keywords: [departure, airport]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - departure-airport
 - departure_airport
 - departureAirport
 - has_departure_airport
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- departure
+- airport
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_departure_airport
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_departure_airport
+type: Predi_Relation
 ---
 
 Use it like this: 

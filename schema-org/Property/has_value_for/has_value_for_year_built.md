@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_year-built
-linkTitle: has_year-built
-
-keywords: [year-built]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - year_built
 - year-built
 - yearBuilt
 - has_value_for_year_built
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- year-built
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_year-built
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_year-built
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Accommodation.

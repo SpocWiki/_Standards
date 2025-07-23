@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- positive-notes
+- positive_notes
+- positiveNotes
+- has_positive_notes
+- "has pros"
+- has_pros
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_positive_notes
-linkTitle: has_positive_notes
 keywords:
-  - positive
-  - notes
+- positive
+- notes
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_positive_notes
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - positive-notes
-  - positive_notes
-  - positiveNotes
-  - has_positive_notes
-  - has pros
-  - has_pros
+- class/Relation
+- schema-org/Relation
+title: has_positive_notes
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

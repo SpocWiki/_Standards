@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_hiring_organization
-
-linkTitle: has_hiring_organization
-keywords: [hiring, organization]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - hiring-organization
 - hiring_organization
 - hiringOrganization
 - has_hiring_organization
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hiring
+- organization
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_hiring_organization
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_hiring_organization
+type: Predi_Relation
 ---
 
 Use it like this: 

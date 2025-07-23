@@ -46,7 +46,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Keliko,11275553]]'
 - '[[_Standards/WikiData/WD~Jumjum,11283696]]'
 - '[[_Standards/WikiData/WD~Nyamusa-Molo,12747951]]'
-  - "[[_Standards/WikiData/WD~Mo'da,12755683]]"
+- "[[_Standards/WikiData/WD~Mo'da,12755683]]"
 - '[[_Standards/WikiData/WD~Mabaan,20526385]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Malay,9237]]'
@@ -76,7 +76,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Dinka,56466]]'
 - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 - "[[_Standards/WikiData/WD~Sudanese_Arabic,56573]]"
-  - "[[_Standards/WikiData/WD~Ma'di,56670]]"
+- "[[_Standards/WikiData/WD~Ma'di,56670]]"
 - '[[_Standards/WikiData/WD~Kresh,56674]]'
 - '[[_Standards/WikiData/WD~Lotuko,56672]]'
 - "[[_Standards/WikiData/WD~Belanda_Bor,56678]]"
@@ -190,11 +190,11 @@ demonym:
   - sudsudaneze
   - sudsudanezi
   - sudsudanezo
-- "سوداني جنوبي"
-- "سودانية جنوبية"
-- "سودانيين جنوبيين"
-- "سودانيات جنوبيات"
-- "South Sudanese"
+  - "سوداني جنوبي"
+  - "سودانية جنوبية"
+  - "سودانيين جنوبيين"
+  - "سودانيات جنوبيات"
+  - "South Sudanese"
 motto_text:
 - "Справедливост, свобода, просперитет"
 - "Justice, Liberty, Prosperity"

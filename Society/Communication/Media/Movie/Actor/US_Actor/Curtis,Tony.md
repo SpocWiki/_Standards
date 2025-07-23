@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Tony Curtis
+- "Tony Curtis"
 ---
 
 #has_/time_/started :: 1925-06-03 

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Anke Christina Fischer
-  - Anke Engelke
+- "Anke Christina Fischer"
+- "Anke Engelke"
 ---
 
 #has_/time_/started :: 1965-12-21 

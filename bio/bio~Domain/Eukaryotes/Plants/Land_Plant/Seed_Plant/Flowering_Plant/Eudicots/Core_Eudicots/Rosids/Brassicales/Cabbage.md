@@ -1,57 +1,57 @@
----
+﻿---
 aliases:
-  - Cabbage
-  - Kohl
-has_id_wikidata: Q35051
-parent_taxon: "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
-has_use:
-  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
-  - "[[_Standards/WikiData/WD~cabbage,14328596]]"
-taxon_rank: "[[_Standards/WikiData/WD~variety,767728]]"
+- Cabbage
+- Kohl
+award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
+Commons_category: "Brassica oleracea var. capitata"
+Commons_gallery: "Brassica oleracea"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Cabbage%20article.ogg
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~white_cabbage,62728616]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~1,99543589]]"
-taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-PLU_code: "4069"
-OmegaWiki_Defined_Meaning: "344475"
-USDA_NDB_number: "11109"
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Witte%20kool.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aesthetic%20Cabage.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20oleracea0.jpg
-taxon_author_citation: L.
-ITIS_TSN: "526962"
-Commons_gallery: Brassica oleracea
-taxon_common_name:
-  - 卷心菜
-  - 甘蓝
-  - 甘藍
-  - 卷心菜
-  - belo zelje
-  - 莲花白
-  - 包菜
-  - 洋白菜
-Commons_category: Brassica oleracea var. capitata
-taxon_name:
-  - Brassica oleracea var. capitata
-  - Brassica oleracea convar. capitata
-sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/20140221-OC-LSC-0001.jpg
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A6%AA%E0%A6%BF.wav
-exact_match: http://purl.obolibrary.org/obo/FOODON_00001016
-GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=7672
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 EPPO_Code: BRSOL
+exact_match: "http://purl.obolibrary.org/obo/FOODON_00001016"
+GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=7672"
+hardiness_of_plant: '[[_Standards/WikiData/WD~1,99543589]]'
+has_id_wikidata: Q35051
+has_use:
+- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~cabbage,14328596]]'
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Witte%20kool.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Aesthetic%20Cabage.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20oleracea0.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 526962
+NBN_System_Key: NBNSYS0000034337
+OmegaWiki_Defined_Meaning: 344475
+parent_taxon: '[[_Standards/WikiData/WD~Brassica_oleracea,146212]]'
+PLU_code: 4069
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A6%AA%E0%A6%BF.wav"
+sectional_view: "http://commons.wikimedia.org/wiki/Special:FilePath/20140221-OC-LSC-0001.jpg"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-Cabbage%20article.ogg"
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+taxon_author_citation: L.
+taxon_common_name:
+- 卷心菜
+- 甘蓝
+- 甘藍
+- 卷心菜
+- "belo zelje"
+- 莲花白
+- 包菜
+- 洋白菜
+taxon_name:
+- "Brassica oleracea var. capitata"
+- "Brassica oleracea convar. capitata"
+taxon_range:
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+taxon_rank: '[[_Standards/WikiData/WD~variety,767728]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~white_cabbage,62728616]]'
 UMLS_CUI: C5750233
 UNII: M066067JJD
-NBN_System_Key: NBNSYS0000034337
+USDA_NDB_number: 11109
 ---
 
 # [[Cabbage]] 

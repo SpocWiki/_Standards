@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Poor Things
+- "Poor Things"
 ---
 
 #is_a_ ::  [[Born_yesterday-Trope]] 

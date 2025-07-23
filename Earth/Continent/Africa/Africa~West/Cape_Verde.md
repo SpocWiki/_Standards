@@ -131,36 +131,36 @@ demonym:
 - "كاپ ڤيردية"
 - "كاپ ڤيرديين"
 - "كاپ ڤيردييات"
-  - cabuverdiana
-  - cabuverdiano
+- cabuverdiana
+- cabuverdiano
 - "কাবু ভের্দীয়"
-  - capverdià
-  - capverdiana
-  - kapverder
+- capverdià
+- capverdiana
+- kapverder
 - "Cabo Verdean"
 - "Cape Verdean"
-  - Cap-verdien
-  - Cap-Verdien
-  - Cap-verdienne
-  - Cap-Verdienne
-  - Capverdien
-  - Capverdienne
+- Cap-verdien
+- Cap-Verdien
+- Cap-verdienne
+- Cap-Verdienne
+- Capverdien
+- Capverdienne
 - "כף ורדי"
 - "כף ורדית"
 - "zöld-foki köztársasági"
-  - capoverdiana
-  - capoverdiane
-  - capoverdiani
-  - capoverdiano
-  - capoverdean
-  - cabo-verdiano
-  - capverdian
-  - capverdiană
-  - capverdieni
-  - caoverdian
-  - caoverdiana
-  - caoverdiane
-  - caoverdiani
+- capoverdiana
+- capoverdiane
+- capoverdiani
+- capoverdiano
+- capoverdean
+- cabo-verdiano
+- capverdian
+- capverdiană
+- capverdieni
+- caoverdian
+- caoverdiana
+- caoverdiane
+- caoverdiani
 ISNI: 0000000121733041
 MeSH_tree_code:
   - Z01.058.290.190.258

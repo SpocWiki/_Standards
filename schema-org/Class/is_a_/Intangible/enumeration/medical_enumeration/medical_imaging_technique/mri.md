@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_mri Class
-linkTitle: is_a_mri Class
-
-keywords: [mri]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalImagingTechnique
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - mri
 - mri
 - MRI
 - is_a_mri
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalImagingTechnique
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mri
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_mri Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_mri Class"
+type: Type
 ---
 
 Class of all mris.

@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- name
+- name_
+- name_en
+- has_name
+- "http://dbpedia.org/resource/Name"
+- "schema:name"
+- "dbo:name"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_name
-linkTitle: has_name
 keywords:
-  - name
+- name
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_name
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - name
-  - name_
-  - name_en
-  - has_name
-  - http://dbpedia.org/resource/Name
-  - schema:name
-  - dbo:name
+- class/Property
+- schema-org/Property/Text
+title: has_name
+type: Pred_Text
 ---
 
 Predicate to describe the Name of a Thing.

@@ -1,25 +1,4 @@
----
-location:
-- 49.45
-- -2.55
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 57601
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Guernsey
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
 - Guernsey
 - Guernesey
@@ -27,11 +6,31 @@ aliases:
 - 根西
 - Гернси
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - en
 - nrf
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 49.45
+- -2.55
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 57601
+tags:
+- geo/Country
+title: Guernsey
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: GBP ]
 [	ISO4217-currency_name	 :: Pound Sterling ]

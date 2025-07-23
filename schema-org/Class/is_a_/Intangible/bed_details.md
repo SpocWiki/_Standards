@@ -1,35 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_bed_details Class
-linkTitle: is_a_bed_details Class
-
-keywords: [bed_details]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - bed-details
 - bed_details
 - BedDetails
 - is_a_bed_details
-fileClass: [FileClass~Class]
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+fileClass:
+- FileClass~Class
+isDeleted: false
+isReadOnly: false
+keywords:
+- bed_details
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_bed_details Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_bed_details Class"
+type: Type
 ---
 
 Class of all bed_details, i.e. entities holding detailed information about the available bed types, 

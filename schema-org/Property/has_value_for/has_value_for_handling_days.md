@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_handling-time
-linkTitle: has_handling-time
-
-keywords: [handling-time]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - handling_time
 - handling-time
 - handlingTime
 - has_value_for_handling_days
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- handling-time
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_handling-time
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_handling-time
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of ShippingDeliveryTime.

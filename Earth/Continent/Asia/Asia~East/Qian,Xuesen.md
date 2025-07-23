@@ -1,7 +1,9 @@
 ---
 aliases:
-  - Father of Chinese Rocketry
+- "Father of Chinese Rocketry"
 ---
+
+# [[Qian,Xuesen]] 
 
 #has_/time_/started :: 1911-12-11 
 #has_/time_/stopped  :: 2009-10-31  

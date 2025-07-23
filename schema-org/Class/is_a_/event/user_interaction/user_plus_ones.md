@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_plus_ones Class
-linkTitle: is_a_user_plus_ones Class
-
-keywords: [user_plus_ones]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-plus-ones
 - user_plus_ones
 - UserPlusOnes
 - is_a_user_plus_ones
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_plus_ones
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_plus_ones Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_plus_ones Class"
+type: Type
 ---
 
 Class of all [[user_plus_ones]]-Counters.

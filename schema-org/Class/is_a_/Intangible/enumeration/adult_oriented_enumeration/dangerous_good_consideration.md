@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_dangerous_good_consideration Class
-linkTitle: is_a_dangerous_good_consideration Class
-
-keywords: [dangerous_good_consideration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: AdultOrientedEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - dangerous-good-consideration
 - dangerous_good_consideration
 - DangerousGoodConsideration
 - is_a_dangerous_good_consideration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: AdultOrientedEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dangerous_good_consideration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_dangerous_good_consideration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_dangerous_good_consideration Class"
+type: Type
 ---
 
 Class of all dangerous_good_considerations.

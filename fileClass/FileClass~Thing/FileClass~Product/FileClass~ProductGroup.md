@@ -1,38 +1,38 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ProductGroup
-  - class/Thing/Product/ProductGroup
-  - is_a_/ProductGroup
-  - schema-org/ProductGroup
-tags:
-  - class/FileClass
-  - class/ProductGroup
-  - is_a_/ProductGroup
-  - class/Thing/Product/ProductGroup
 extends: FileClass~Thing/FileClass~Product
 fields:
-  - id: rmIgA7
-    name: HasVariant
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
-  - id: YITkhZ
-    name: ProductGroupID
-    options: {}
-    type: Input
-    path: ""
-  - id: tguzBU
-    name: VariesBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
+- id: rmIgA7
+  name: HasVariant
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Product')"
+  type: MultiFile
+  path: ''
+- id: YITkhZ
+  name: ProductGroupID
+  options: {}
+  type: Input
+  path: ''
+- id: tguzBU
+  name: VariesBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ProductGroup
+- class/Thing/Product/ProductGroup
+- is_a_/ProductGroup
+- schema-org/ProductGroup
+tags:
+- class/FileClass
+- class/ProductGroup
+- is_a_/ProductGroup
+- class/Thing/Product/ProductGroup
+version: 2.0
 ---
 
 # ProductGroup

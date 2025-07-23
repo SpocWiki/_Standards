@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_occupational_therapy Class
-linkTitle: is_an_occupational_therapy Class
-
-keywords: [occupational_therapy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - occupational-therapy
 - occupational_therapy
 - OccupationalTherapy
 - is_an_occupational_therapy
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- occupational_therapy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_occupational_therapy Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_occupational_therapy Class"
+type: Type
 ---
 
 Class of all occupational_therapys.

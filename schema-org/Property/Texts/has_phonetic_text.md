@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_phonetic_text
-linkTitle: has_text_of_phonetic_text
-
-keywords: [phonetic, text]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - phonetic-text
 - phonetic_text
 - phoneticText
 - has_text_of_phonetic_text
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- phonetic
+- text
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_phonetic_text
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_phonetic_text
+type: Pred_Text
 ---
 
 Predicate to describe the Text of PronounceableText.

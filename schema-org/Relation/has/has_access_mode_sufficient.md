@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_access_mode_sufficient
-
-linkTitle: has_access_mode_sufficient
-keywords: [access, mode, sufficient]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - access-mode-sufficient
 - access_mode_sufficient
 - accessModeSufficient
 - has_access_mode_sufficient
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- access
+- mode
+- sufficient
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_access_mode_sufficient
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_access_mode_sufficient
+type: Predi_Relation
 ---
 
 Use it like this: 

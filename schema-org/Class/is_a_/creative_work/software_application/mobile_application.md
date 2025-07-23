@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_mobile_application Class
-linkTitle: is_a_mobile_application Class
-
-keywords: [mobile_application]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - mobile-application
 - mobile_application
 - MobileApplication
 - is_a_mobile_application
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mobile_application
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_mobile_application Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_mobile_application Class"
+type: Type
 ---
 
 Class of all mobile_applications.

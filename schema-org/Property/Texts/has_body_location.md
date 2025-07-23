@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_body_location
-linkTitle: has_text_of_body_location
-
-keywords: [body, location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - body-location
 - body_location
 - bodyLocation
 - has_text_of_body_location
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- body
+- location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_body_location
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_body_location
+type: Pred_Text
 ---
 
 Predicate to describe the Text of AnatomicalStructure, MedicalProcedure.

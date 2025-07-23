@@ -1,23 +1,4 @@
----
-license: "CC BY-SA 4.0"
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses:
-- Type
-publish: true
-type: Type
-title: "is_a_book Class"
-linkTitle: "is_a_book Class"
-keywords:
-- book
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-tags:
-- class/Class
-- schema-org/Class
+﻿---
 aliases:
 - book
 - book
@@ -25,82 +6,34 @@ aliases:
 - is_a_book
 - "dbo:Book"
 - "schema:Book"
-has_id_wikidata: Q571
-has_use:
-- '[[_Standards/WikiData/WD~entertainment,173799]]'
-- '[[_Standards/WikiData/WD~pleasure,208195]]'
-- "[[_Standards/WikiData/WD~critical_thinking,843894]]"
-- "[[_Standards/WikiData/WD~source_of_information,3523102]]"
-- "[[_Standards/WikiData/WD~spiritual_development,24911979]]"
-- '[[_Standards/WikiData/WD~survival,104482419]]'
-- '[[_Standards/WikiData/WD~education,8434]]'
-- '[[_Standards/WikiData/WD~imagination,34516]]'
-has_part_s_:
-- '[[_Standards/WikiData/WD~text,234460]]'
-- '[[_Standards/WikiData/WD~chapter,1980247]]'
-subclass_of:
-- '[[_Standards/WikiData/WD~medium,340169]]'
-- '[[_Standards/WikiData/WD~publication,732577]]'
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~document,49848]]'
-has_characteristic:
-- '[[_Standards/WikiData/WD~author,482980]]'
-- "[[_Standards/WikiData/WD~print_circulation,759811]]"
-- '[[_Standards/WikiData/WD~folio,772267]]'
-- '[[_Standards/WikiData/WD~title,783521]]'
-- "[[_Standards/WikiData/WD~book_illustration,998555]]"
-- '[[_Standards/WikiData/WD~volume,1238720]]'
-- "[[_Standards/WikiData/WD~publication_date,1361758]]"
-- "[[_Standards/WikiData/WD~place_of_publication,1361759]]"
-- '[[_Standards/WikiData/WD~editor,1607826]]'
-- "[[_Standards/WikiData/WD~publishing_company,2085381]]"
-- "[[_Standards/WikiData/WD~editorial_board,2985386]]"
-- "[[_Standards/WikiData/WD~book_format,18602566]]"
-- '[[_Standards/WikiData/WD~compiler,29514511]]'
-- "[[_Standards/WikiData/WD~book_size,91783353]]"
-- "[[_Standards/WikiData/WD~number_of_pages,115804545]]"
-- "[[_Standards/WikiData/WD~International_Standard_Book_Number,33057]]"
-- '[[_Standards/WikiData/WD~language,34770]]'
+Amazon_com_browse_node: 1000
+Commons_category: Books
+Commons_gallery: Book
+confidential: public
+cssclasses:
+- Type
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Cite_book_Russian,909529]]"
-- "[[_Standards/WikiData/WD~Template_Infobox_book_2,22835068]]"
-- '[[_Standards/WikiData/WD~Template_Books,47482683]]'
-different_from:
-- "[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]"
-- '[[_Standards/WikiData/WD~Liv,10567996]]'
-- "[[_Standards/WikiData/WD~written_work,47461344]]"
-- '[[_Standards/WikiData/WD~volume,105763458]]'
-- '[[_Standards/WikiData/WD~book,126946186]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_books,7112569]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Books,8487081]]"
-topic_s_main_category:
-- '[[_Standards/WikiData/WD~Q9721595,9721595]]'
-- '[[_Standards/WikiData/WD~Q33098516,33098516]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Books,10880143]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_book,15873402]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of:
-- "[[_Standards/WikiData/WD~type_of_publication,39725049]]"
-- "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q52834100,52834100]]'
-Stack_Exchange_tag:
-- "https://academia.stackexchange.com/tags/books"
-- "https://tex.stackexchange.com/tags/books"
-UMLS_CUI: C0005990
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
 - 070.573
 - 302.232
 - 090
 - 002
+different_from:
+- '[[_Standards/WikiData/WD~version,_edition_or_translation,3331189]]'
+- '[[_Standards/WikiData/WD~Liv,10567996]]'
+- '[[_Standards/WikiData/WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~volume,105763458]]'
+- '[[_Standards/WikiData/WD~book,126946186]]'
+draft: false
+entry_in_abbreviations_table: кн.
 equivalent_class:
 - '[[_Standards/WikiData/WD~https___id.oclc.org_worldcat_entity_Q13,13]]'
 - "http://dbpedia.org/ontology/Book"
@@ -108,7 +41,63 @@ equivalent_class:
 - "http://purl.org/ontology/bibo/Book"
 - "http://www.ontotext.com/proton/protonext#Book"
 - "https://schema.org/Book"
+exact_match:
+- "http://linked.earth/ontology/#book"
+- "http://purl.org/coar/resource_type/c_2f33"
+- "http://purl.org/spar/fabio/Book"
+- "https://citationstyles.org/ontology/type/book"
+expiryDate: 
+GitHub_topic: books
+GS1_GPC_code: 60010200
+has_characteristic:
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~print_circulation,759811]]'
+- '[[_Standards/WikiData/WD~folio,772267]]'
+- '[[_Standards/WikiData/WD~title,783521]]'
+- '[[_Standards/WikiData/WD~book_illustration,998555]]'
+- '[[_Standards/WikiData/WD~volume,1238720]]'
+- '[[_Standards/WikiData/WD~publication_date,1361758]]'
+- '[[_Standards/WikiData/WD~place_of_publication,1361759]]'
+- '[[_Standards/WikiData/WD~editor,1607826]]'
+- '[[_Standards/WikiData/WD~publishing_company,2085381]]'
+- '[[_Standards/WikiData/WD~editorial_board,2985386]]'
+- '[[_Standards/WikiData/WD~book_format,18602566]]'
+- '[[_Standards/WikiData/WD~compiler,29514511]]'
+- '[[_Standards/WikiData/WD~book_size,91783353]]'
+- '[[_Standards/WikiData/WD~number_of_pages,115804545]]'
+- '[[_Standards/WikiData/WD~International_Standard_Book_Number,33057]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
+has_id_wikidata: Q571
+has_part_s_:
+- '[[_Standards/WikiData/WD~text,234460]]'
+- '[[_Standards/WikiData/WD~chapter,1980247]]'
+has_use:
+- '[[_Standards/WikiData/WD~entertainment,173799]]'
+- '[[_Standards/WikiData/WD~pleasure,208195]]'
+- '[[_Standards/WikiData/WD~critical_thinking,843894]]'
+- '[[_Standards/WikiData/WD~source_of_information,3523102]]'
+- '[[_Standards/WikiData/WD~spiritual_development,24911979]]'
+- '[[_Standards/WikiData/WD~survival,104482419]]'
+- '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~imagination,34516]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_book,15873402]]'
+Iconclass_notation: 49M32
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Reimski%20evan%C4%91elistar.10.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~type_of_publication,39725049]]'
+- '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
+isDeleted: false
+isReadOnly: false
+keywords:
+- book
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_book Class"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Books,8487081]]'
 MeSH_tree_code: L01.462.500.682.192
+Nomenclature_for_Museum_Cataloging: 13603
+OmegaWiki_Defined_Meaning: 417
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q52834100,52834100]]'
 properties_for_this_type:
 - "language of work or name"
 - "publication date"
@@ -123,14 +112,32 @@ properties_for_this_type:
 - "copyright status"
 - author
 - ISBN-13
-OmegaWiki_Defined_Meaning: 417
-Amazon_com_browse_node: 1000
-Commons_gallery: Book
-Wolfram_Language_entity_type: Book
-Nomenclature_for_Museum_Cataloging: 13603
-U_S_National_Archives_Identifier: 10639916
-Iconclass_notation: 49M32
-Commons_category: Books
+publish: true
+publishDate: 
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Boekdocument.ogg"
+Stack_Exchange_tag:
+- "https://academia.stackexchange.com/tags/books"
+- "https://tex.stackexchange.com/tags/books"
+subclass_of:
+- '[[_Standards/WikiData/WD~medium,340169]]'
+- '[[_Standards/WikiData/WD~publication,732577]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~document,49848]]'
+subreddit: books
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_book Class"
+topic_s_main_category:
+- '[[_Standards/WikiData/WD~Q9721595,9721595]]'
+- '[[_Standards/WikiData/WD~Q33098516,33098516]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Cite_book_Russian,909529]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_book_2,22835068]]'
+- '[[_Standards/WikiData/WD~Template_Books,47482683]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Books,10880143]]'
+type: Type
+UMLS_CUI: C0005990
 Unicode_character:
 - "\U0001F4DA"
 - "\U0001F4D5"
@@ -139,17 +146,10 @@ Unicode_character:
 - "\U0001F4D6"
 - "\U0001F4D9"
 - "\U0001F56E"
-GitHub_topic: books
-subreddit: books
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Reimski%20evan%C4%91elistar.10.jpg"
-GS1_GPC_code: 60010200
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Boekdocument.ogg"
-exact_match:
-- "http://linked.earth/ontology/#book"
-- "http://purl.org/coar/resource_type/c_2f33"
-- "http://purl.org/spar/fabio/Book"
-- "https://citationstyles.org/ontology/type/book"
-entry_in_abbreviations_table: кн.
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+U_S_National_Archives_Identifier: 10639916
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_books,7112569]]'
+Wolfram_Language_entity_type: Book
 ---
 
 ﻿

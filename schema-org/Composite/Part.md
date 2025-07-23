@@ -1,32 +1,25 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Element
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: Part
-
-linkTitle: Part
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- schema-org/Composite
-
+﻿---
 aliases:
 - Part
 - Member
 - Component
 - 
+confidential: public
+cssclasses: Element
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: Part
+publish: true
+publishDate: 
+tags:
+- schema-org/Composite
+title: Part
+type: Predi_Relation
 ---
 
 Subject of the [is_part_of](is_part_of.md) Relation/Function to the [Composite](../Composite.md). 

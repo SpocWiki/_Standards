@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BackgroundNewsArticle
-  - class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle
-  - is_a_/BackgroundNewsArticle
-  - schema-org/BackgroundNewsArticle
-tags:
-  - class/FileClass
-  - class/BackgroundNewsArticle
-  - is_a_/BackgroundNewsArticle
-  - class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BackgroundNewsArticle
+- class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle
+- is_a_/BackgroundNewsArticle
+- schema-org/BackgroundNewsArticle
+tags:
+- class/FileClass
+- class/BackgroundNewsArticle
+- is_a_/BackgroundNewsArticle
+- class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle
+version: 2.0
 ---
 
 # BackgroundNewsArticle

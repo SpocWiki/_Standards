@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q5378
+﻿---
 aliases:
-  - Rugby football
+- "Rugby football"
+has_id_wikidata: Q5378
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -314,16 +314,16 @@ official_name:
 - "Republika Hrvatska"
 - "Republica Croația"
 - "Republiken Kroatien"
-  - Хрватска
-  - Hrvatska
+- Хрватска
+- Hrvatska
 motto_text:
 - "Llawn bywyd"
 - "Full of life"
 native_label:
 - "Republika Hrvatska"
-  - Hrvatska
+- Hrvatska
 short_name:
-  - Croația
+- Croația
 - "\U0001F1ED\U0001F1F7"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Croatia%20location%20map.svg"
 male_population:
@@ -384,12 +384,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Croatia
-    - Croacia
-    - Croatie
-    - كرواتيا
-    - 克罗地亚
-    - Хорватия
+- Croatia
+- Croacia
+- Croatie
+- كرواتيا
+- 克罗地亚
+- Хорватия
 - "the Republic of Croatia"
 - "la República de Croacia"
 Languages:

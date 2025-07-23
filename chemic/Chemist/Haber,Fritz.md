@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Fritz Haber
+- "Fritz Haber"
 ---
 
 #has_/time_/started ::  1868-12-09 

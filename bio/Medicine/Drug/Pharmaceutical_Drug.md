@@ -1,32 +1,37 @@
----
-has_id_wikidata: Q12140
+﻿---
+All_Science_Journal_Classification_Codes: 2709
+Colon_Classification: F56
+Commons_category: "Pharmaceutical drugs"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-has_use: '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+Dewey_Decimal_Classification: 615.1
 different_from:
 - '[[_Standards/WikiData/WD~Medicine,1189264]]'
 - '[[_Standards/WikiData/WD~Derman,5262676]]'
 - '[[_Standards/WikiData/WD~Medication,16876752]]'
 - '[[_Standards/WikiData/WD~Leigheas,123615676]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+equivalent_class:
+- "http://purl.obolibrary.org/obo/CHEBI_23888"
+- "https://schema.org/Drug"
 has_characteristic:
-- "[[_Standards/WikiData/WD~effective_dose,1425437]]"
-- "[[_Standards/WikiData/WD~drug_class,2585617]]"
-- "[[_Standards/WikiData/WD~side_effect,3269441]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_drug,6033882]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~medicinal_product,12034612]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~medicinal_product,12034612]]"
-- '[[_Standards/WikiData/WD~drug,8386]]'
+- '[[_Standards/WikiData/WD~effective_dose,1425437]]'
+- '[[_Standards/WikiData/WD~drug_class,2585617]]'
+- '[[_Standards/WikiData/WD~side_effect,3269441]]'
+has_id_wikidata: Q12140
+has_use: '[[_Standards/WikiData/WD~pharmacotherapy,701216]]'
+IAB_code: 320
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/VariousPills.jpg"
+IPTC_NewsCode: mediatopic/20000470
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Medication%20WV%20banner.jpg"
+partially_coincident_with: '[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]'
 part_of: '[[_Standards/WikiData/WD~pharmacy,13107184]]'
-produced_by: "[[_Standards/WikiData/WD~pharmaceutical_company,19644607]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Medicines,56739955]]'
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%A5%D5%B2%D5%A1%D5%B6%D5%B5%D5%B8%D6%82%D5%A9%D5%A5%D6%80%20%28Pharmaceutical%20drugs%29.ogg"
+produced_by: '[[_Standards/WikiData/WD~pharmaceutical_company,19644607]]'
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Medizin2.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Arzneimittel.ogg"
@@ -34,18 +39,13 @@ pronunciation_audio:
 properties_for_this_type:
 - "significant drug interaction"
 - "medical condition treated"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~medicinal_product,12034612]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%A5%D5%B2%D5%A1%D5%B6%D5%B5%D5%B8%D6%82%D5%A9%D5%A5%D6%80%20%28Pharmaceutical%20drugs%29.ogg"
+subclass_of:
+- '[[_Standards/WikiData/WD~medicinal_product,12034612]]'
+- '[[_Standards/WikiData/WD~drug,8386]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_drug,6033882]]'
 Wikidata_property: "drug or therapy used for treatment"
-IAB_code: 320
-All_Science_Journal_Classification_Codes: 2709
-Colon_Classification: F56
-Commons_category: "Pharmaceutical drugs"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/VariousPills.jpg"
-Dewey_Decimal_Classification: 615.1
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Medication%20WV%20banner.jpg"
-equivalent_class:
-- "http://purl.obolibrary.org/obo/CHEBI_23888"
-- "https://schema.org/Drug"
-IPTC_NewsCode: mediatopic/20000470
 ---
 
 ## #has_/text_of_/abstract 

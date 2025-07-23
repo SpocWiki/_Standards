@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DanceGroup
-  - class/Thing/Organization/PerformingGroup/DanceGroup
-  - is_a_/DanceGroup
-  - schema-org/DanceGroup
-tags:
-  - class/FileClass
-  - class/DanceGroup
-  - is_a_/DanceGroup
-  - class/Thing/Organization/PerformingGroup/DanceGroup
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DanceGroup
+- class/Thing/Organization/PerformingGroup/DanceGroup
+- is_a_/DanceGroup
+- schema-org/DanceGroup
+tags:
+- class/FileClass
+- class/DanceGroup
+- is_a_/DanceGroup
+- class/Thing/Organization/PerformingGroup/DanceGroup
+version: 2.0
 ---
 
 # DanceGroup

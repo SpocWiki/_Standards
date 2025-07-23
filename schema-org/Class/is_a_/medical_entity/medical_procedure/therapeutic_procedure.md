@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_therapeutic_procedure Class
-linkTitle: is_a_therapeutic_procedure Class
-
-keywords: [therapeutic_procedure]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/277132007
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - therapeutic-procedure
 - therapeutic_procedure
 - TherapeuticProcedure
 - is_a_therapeutic_procedure
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/277132007"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- therapeutic_procedure
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_therapeutic_procedure Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_therapeutic_procedure Class"
+type: Type
 ---
 
 Class of all therapeutic_procedures.

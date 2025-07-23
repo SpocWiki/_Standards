@@ -1,31 +1,31 @@
----
+﻿---
+Commons_category: Gunpowder
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from:
+- '[[_Standards/WikiData/WD~smokeless_powder,901722]]'
+- '[[_Standards/WikiData/WD~powder_explosive,21290872]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Berthold_Schwarz,64236]]'
 has_id_wikidata: Q12861
-instance_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- "[[_Standards/WikiData/WD~explosive_chemicals,12870]]"
 has_part_s_:
 - '[[_Standards/WikiData/WD~charcoal,177463]]'
-- "[[_Standards/WikiData/WD~potassium_nitrate,177836]]"
+- '[[_Standards/WikiData/WD~potassium_nitrate,177836]]'
 - '[[_Standards/WikiData/WD~sulfur,682]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from:
-- "[[_Standards/WikiData/WD~smokeless_powder,901722]]"
-- "[[_Standards/WikiData/WD~powder_explosive,21290872]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_gunpowder,3137297]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Czarny%20proch%20Vesuvit%20LC%20%283%29.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
+Nomenclature_for_Museum_Cataloging: 7771
 subclass_of:
 - '[[_Standards/WikiData/WD~propellant,1364934]]'
 - '[[_Standards/WikiData/WD~powder,2908004]]'
-- "[[_Standards/WikiData/WD~powder_explosive,21290872]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_gunpowder,3137297]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Czarny%20proch%20Vesuvit%20LC%20%283%29.jpg"
-time_of_discovery_or_invention: "0900"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Berthold_Schwarz,64236]]"
-Nomenclature_for_Museum_Cataloging: 7771
-Commons_category: Gunpowder
+- '[[_Standards/WikiData/WD~powder_explosive,21290872]]'
+time_of_discovery_or_invention: 0900
 ---
 
 ## #has_/text_of_/abstract 

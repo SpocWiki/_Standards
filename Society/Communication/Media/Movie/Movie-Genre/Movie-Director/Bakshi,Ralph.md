@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Ralph Bakshi
+- "Ralph Bakshi"
 ---
 
 # [[Bakshi,Ralph]] 

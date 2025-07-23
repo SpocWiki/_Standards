@@ -1,8 +1,8 @@
----
-title: Salticus
+﻿---
 aliases:
-  - Salticus
-  - Salticinae
+- Salticus
+- Salticinae
+title: Salticus
 ---
 
 ## [[Salticinae]] 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Resort
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort
-  - is_a_/Resort
-  - schema-org/Resort
-tags:
-  - class/FileClass
-  - class/Resort
-  - is_a_/Resort
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Resort
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort
+- is_a_/Resort
+- schema-org/Resort
+tags:
+- class/FileClass
+- class/Resort
+- is_a_/Resort
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort
+version: 2.0
 ---
 
 # Resort

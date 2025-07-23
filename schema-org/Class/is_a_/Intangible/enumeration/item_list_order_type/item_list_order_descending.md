@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_item_list_order_descending Class
-linkTitle: is_an_item_list_order_descending Class
-
-keywords: [item_list_order_descending]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemListOrderType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - item-list-order-descending
 - item_list_order_descending
 - ItemListOrderDescending
 - is_an_item_list_order_descending
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemListOrderType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- item_list_order_descending
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_item_list_order_descending Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_item_list_order_descending Class"
+type: Type
 ---
 
 Class of all item_list_order_descendings.

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_return_method
-
-linkTitle: has_return_method
-keywords: [return, method]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - return-method
 - return_method
 - returnMethod
 - has_return_method
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return
+- method
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_return_method
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_return_method
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

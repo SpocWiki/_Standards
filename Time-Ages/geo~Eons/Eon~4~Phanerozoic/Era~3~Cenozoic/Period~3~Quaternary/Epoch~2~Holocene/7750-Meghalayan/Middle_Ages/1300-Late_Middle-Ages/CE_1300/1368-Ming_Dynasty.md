@@ -1,7 +1,7 @@
----
-has_id_wikidata: Q9903
+﻿---
 aliases:
-  - Ming Dynasty
+- "Ming Dynasty"
+has_id_wikidata: Q9903
 ---
 
 #has_/time_/started :: 1368-06 

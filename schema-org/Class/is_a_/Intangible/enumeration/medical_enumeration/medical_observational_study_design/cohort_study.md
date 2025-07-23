@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_cohort_study Class
-linkTitle: is_a_cohort_study Class
-
-keywords: [cohort_study]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalObservationalStudyDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - cohort-study
 - cohort_study
 - CohortStudy
 - is_a_cohort_study
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalObservationalStudyDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cohort_study
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_cohort_study Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_cohort_study Class"
+type: Type
 ---
 
 Class of all cohort_studys.

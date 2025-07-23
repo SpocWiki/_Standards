@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- gender
+- has_gender
+- "schema:gender"
+- "dbo:gender"
+- "wdt:P21"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_gender
-linkTitle: has_gender
 keywords:
-  - gender
+- gender
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_gender
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - gender
-  - has_gender
-  - schema:gender
-  - dbo:gender
-  - wdt:P21
+- class/Relation
+- schema-org/Relation
+title: has_gender
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

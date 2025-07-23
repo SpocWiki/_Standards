@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: siren
-version: "2.0"
-tagNames:
-  - class/EmergencyService
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
-  - is_an_/EmergencyService
-  - schema-org/EmergencyService
-tags:
-  - class/FileClass
-  - class/EmergencyService
-  - "#is_an_/EmergencyService"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: siren
+limit: 9
+mapWithTag: true
+tagNames:
+- class/EmergencyService
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
+- is_an_/EmergencyService
+- schema-org/EmergencyService
+tags:
+- class/FileClass
+- class/EmergencyService
+- '#is_an_/EmergencyService'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
+version: 2.0
 ---
 
 # EmergencyService

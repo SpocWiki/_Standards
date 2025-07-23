@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TravelAction
-  - class/Thing/Action/MoveAction/TravelAction
-  - is_a_/TravelAction
-  - schema-org/TravelAction
-tags:
-  - class/FileClass
-  - class/TravelAction
-  - is_a_/TravelAction
-  - class/Thing/Action/MoveAction/TravelAction
 extends: FileClass~Thing/FileClass~Action/FileClass~MoveAction
 fields:
-  - id: qLU7W3
-    name: Distance
-    options: {}
-    type: Input
-    path: ""
+- id: qLU7W3
+  name: Distance
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TravelAction
+- class/Thing/Action/MoveAction/TravelAction
+- is_a_/TravelAction
+- schema-org/TravelAction
+tags:
+- class/FileClass
+- class/TravelAction
+- is_a_/TravelAction
+- class/Thing/Action/MoveAction/TravelAction
+version: 2.0
 ---
 
 # TravelAction

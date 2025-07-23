@@ -1,52 +1,52 @@
----
-type: Element
-SpocWebEntityId: 21992
-has_id_wikidata: Q1882
-location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
-- "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
-- "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
-named_after: '[[_Standards/WikiData/WD~Berkeley,484678]]'
-different_from: '[[_Standards/WikiData/WD~Berkel,707763]]'
-instance_of:
-- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav"
+﻿---
+atomic_number: 97
 canonical_SMILES: '[Bk]'
-UNII: 2YQA718KUU
-Dewey_Decimal_Classification: 546.444
 CAS_Registry_Number: 7440-40-6
-Commons_gallery: Berkelium
+chemical_formula: Bk
 Commons_category: Berkelium
+Commons_gallery: Berkelium
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+Dewey_Decimal_Classification: 546.444
+different_from: '[[_Standards/WikiData/WD~Berkel,707763]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+- '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+DSSTOX_compound_identifier: DTXCID20147880
+electronegativity: 1.3
+element_symbol: Bk
+has_id_wikidata: Q1882
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg"
+InChI: InChI=1S/Bk
+InChIKey: PWVKJRSRVJTHTR-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.83
+- 0.93
+- 0.96
+location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
 MeSH_tree_code:
 - D01.268.271.100.100
 - D01.268.556.075
 - D01.496.749.305.100.100
 - D01.552.020.150
 - D01.552.544.075
-DSSTOX_compound_identifier: DTXCID20147880
-InChI: InChI=1S/Bk
-InChIKey: PWVKJRSRVJTHTR-UHFFFAOYSA-N
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20144.jpg"
-electronegativity: 1.3
-ionic_radius:
-- 0.83
-- 0.93
-- 0.96
-atomic_number: 97
-PubChem_CID: 23971
+named_after: '[[_Standards/WikiData/WD~Berkeley,484678]]'
 OmegaWiki_Defined_Meaning: 156441
+part_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20144.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav"
+PubChem_CID: 23971
+SpocWebEntityId: 21992
+time_of_discovery_or_invention: 1949
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]'
+type: Element
 Unicode_character: 鉳
-time_of_discovery_or_invention: "1949"
-chemical_formula: Bk
-element_symbol: Bk
+UNII: 2YQA718KUU
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 

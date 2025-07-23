@@ -1,9 +1,9 @@
----
-title: Chloroflexi
+﻿---
 aliases:
-  - Chloroflexi
-  - Chloroflexota
-  - Chloroflexia
+- Chloroflexi
+- Chloroflexota
+- Chloroflexia
+title: Chloroflexi
 ---
 
 # [[Chloroflexi]] 

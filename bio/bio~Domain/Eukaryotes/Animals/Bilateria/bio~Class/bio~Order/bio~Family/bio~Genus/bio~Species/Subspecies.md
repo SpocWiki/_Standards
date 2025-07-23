@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Subspecies
-  - Race
+- Subspecies
+- Race
 ---
 
 ## Human Context: Race vs. Subspecies

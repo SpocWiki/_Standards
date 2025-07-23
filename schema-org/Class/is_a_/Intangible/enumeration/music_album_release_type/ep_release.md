@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_ep_release Class
-linkTitle: is_an_ep_release Class
-
-keywords: [ep_release]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MusicAlbumReleaseType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ep-release
 - ep_release
 - EPRelease
 - is_an_ep_release
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MusicAlbumReleaseType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ep_release
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ep_release Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ep_release Class"
+type: Type
 ---
 
 Class of all ep_releases.

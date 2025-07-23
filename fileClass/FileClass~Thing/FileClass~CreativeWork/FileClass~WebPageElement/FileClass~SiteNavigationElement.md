@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SiteNavigationElement
-  - class/Thing/CreativeWork/WebPageElement/SiteNavigationElement
-  - is_a_/SiteNavigationElement
-  - schema-org/SiteNavigationElement
-tags:
-  - class/FileClass
-  - class/SiteNavigationElement
-  - is_a_/SiteNavigationElement
-  - class/Thing/CreativeWork/WebPageElement/SiteNavigationElement
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SiteNavigationElement
+- class/Thing/CreativeWork/WebPageElement/SiteNavigationElement
+- is_a_/SiteNavigationElement
+- schema-org/SiteNavigationElement
+tags:
+- class/FileClass
+- class/SiteNavigationElement
+- is_a_/SiteNavigationElement
+- class/Thing/CreativeWork/WebPageElement/SiteNavigationElement
+version: 2.0
 ---
 
 # SiteNavigationElement

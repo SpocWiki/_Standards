@@ -184,12 +184,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Kangeanic,2071325]]'
 - '[[_Standards/WikiData/WD~Mor,2122792]]'
 - "[[_Standards/WikiData/WD~Dusun_Witu,2190327]]"
-  - "[[_Standards/WikiData/WD~Palu'e,2196866]]"
+- "[[_Standards/WikiData/WD~Palu'e,2196866]]"
 - '[[_Standards/WikiData/WD~Meax,2262353]]'
-  - "[[_Standards/WikiData/WD~Ma'ya,2291492]]"
+- "[[_Standards/WikiData/WD~Ma'ya,2291492]]"
 - '[[_Standards/WikiData/WD~Nage,2295569]]'
 - '[[_Standards/WikiData/WD~Hawu,2319877]]'
-  - "[[_Standards/WikiData/WD~Ma'anyan,2328761]]"
+- "[[_Standards/WikiData/WD~Ma'anyan,2328761]]"
 - '[[_Standards/WikiData/WD~Tause,2356440]]'
 - '[[_Standards/WikiData/WD~Wanukaka,2370136]]'
 - "[[_Standards/WikiData/WD~Dusun_Witu,2381310]]"
@@ -251,7 +251,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Hukumina,3142988]]'
 - '[[_Standards/WikiData/WD~Sumbawa,3182585]]'
 - '[[_Standards/WikiData/WD~Kao,3192799]]'
-  - "[[_Standards/WikiData/WD~Ke'o,3195346]]"
+- "[[_Standards/WikiData/WD~Ke'o,3195346]]"
 - '[[_Standards/WikiData/WD~Kerinci,3195442]]'
 - '[[_Standards/WikiData/WD~Kisar,3197441]]'
 - '[[_Standards/WikiData/WD~Kodeoha,3198209]]'
@@ -299,7 +299,7 @@ language_used:
 - "[[_Standards/WikiData/WD~West_Damar,3450459]]"
 - '[[_Standards/WikiData/WD~Bolango,3450578]]'
 - '[[_Standards/WikiData/WD~Saweru,3474649]]'
-  - "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
+- "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
 - '[[_Standards/WikiData/WD~Siang,3482903]]'
 - '[[_Standards/WikiData/WD~Ulumanda_,3501892]]'
 - '[[_Standards/WikiData/WD~Barakai,3502030]]'
@@ -471,7 +471,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kemtuik,6387179]]'
 - '[[_Standards/WikiData/WD~Kanayatn,6388963]]'
 - '[[_Standards/WikiData/WD~Keninjal,6389309]]'
-  - "[[_Standards/WikiData/WD~Kepo',6393217]]"
+- "[[_Standards/WikiData/WD~Kepo',6393217]]"
 - '[[_Standards/WikiData/WD~Kimki,6410160]]'
 - '[[_Standards/WikiData/WD~Kirikiri,6415159]]'
 - '[[_Standards/WikiData/WD~Koba,6424249]]'
@@ -552,7 +552,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Muna,6935584]]'
 - '[[_Standards/WikiData/WD~Munggui,6936018]]'
 - '[[_Standards/WikiData/WD~Nafri,6958211]]'
-  - "[[_Standards/WikiData/WD~Naka'ela,6960073]]"
+- "[[_Standards/WikiData/WD~Naka'ela,6960073]]"
 - '[[_Standards/WikiData/WD~Nalca,6960839]]'
 - '[[_Standards/WikiData/WD~Nasal,6966574]]'
 - '[[_Standards/WikiData/WD~Ndom,6983791]]'
@@ -632,7 +632,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tandia,7682454]]'
 - '[[_Standards/WikiData/WD~Tangko,7682993]]'
 - '[[_Standards/WikiData/WD~Taworta,7689337]]'
-  - "[[_Standards/WikiData/WD~Te'un,7690709]]"
+- "[[_Standards/WikiData/WD~Te'un,7690709]]"
 - '[[_Standards/WikiData/WD~Tebi,7692059]]'
 - '[[_Standards/WikiData/WD~Tefaro,7694618]]'
 - '[[_Standards/WikiData/WD~Tehit,7694851]]'
@@ -741,7 +741,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Riau_Malay,12497930]]"
 - "[[_Standards/WikiData/WD~Central_Awyu,12628801]]"
 - "[[_Standards/WikiData/WD~Edera_Awyu,12630425]]"
-  - "[[_Standards/WikiData/WD~Ili'uun,12632888]]"
+- "[[_Standards/WikiData/WD~Ili'uun,12632888]]"
 - "[[_Standards/WikiData/WD~South_Awyu,12633986]]"
 - '[[_Standards/WikiData/WD~Kemberano,12634399]]'
 - '[[_Standards/WikiData/WD~Kur,12635082]]'
@@ -973,63 +973,63 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: "[[_Standards/WikiData/WD~Indonesian_Data_in_One_Portal,97277078]]"
 demonym:
 - "orang Indonesia"
-  - Indonezijec
-  - Indonezijka
-  - أندونيسي
-  - أندونيسية
-  - أندونيسيين
-  - أندونيسيات
+- Indonezijec
+- Indonezijka
+- أندونيسي
+- أندونيسية
+- أندونيسيين
+- أندونيسيات
 - "orang Indonesia"
-  - Indinéiseach
-  - индонезийка
-  - индонезийцы
-  - indonezian
-  - indoneziana
-  - indoneziane
-  - indoneziani
-  - إندونيسي
-  - إندونيسية
-  - إندونيسيون
-  - indonesia
-  - indonesiu
-  - ইন্দোনেশীয়
-  - indoneser
-  - Indonesier
-  - Indonesierin
-  - Indonesian
-  - indoneziano
-  - Indoneziano
-  - indonésien
-  - Indonésien
-  - Indonésienne
-  - אינדונזי
-  - אינדונזית
-  - indonéz
-  - Indoneziano
-  - indonesiana
-  - indonesiane
-  - indonesiani
-  - indonesiano
-  - indonesian
-  - indonezian
-  - indoneziană
-  - indonezieni
-  - индонезиец
+- Indinéiseach
+- индонезийка
+- индонезийцы
+- indonezian
+- indoneziana
+- indoneziane
+- indoneziani
+- إندونيسي
+- إندونيسية
+- إندونيسيون
+- indonesia
+- indonesiu
+- ইন্দোনেশীয়
+- indoneser
+- Indonesier
+- Indonesierin
+- Indonesian
+- indoneziano
+- Indoneziano
+- indonésien
+- Indonésien
+- Indonésienne
+- אינדונזי
+- אינדונזית
+- indonéz
+- Indoneziano
+- indonesiana
+- indonesiane
+- indonesiani
+- indonesiano
+- indonesian
+- indonezian
+- indoneziană
+- indonezieni
+- индонезиец
 native_label:
 - "Unitary State of the Republic of Indonesia"
 - "Negara Kesatuan Republik Indonesia"
-  - Indonesia
+- Indonesia
 - "Republic of Indonesia"
-  - Indonesia
+- Indonesia
 - "Negara Kesatuan Republik Indonesia"
 - "Republik Indonesia"
-  - Indonesia
+- Indonesia
 - "Republik Indonesia"
 described_at_URL: "http://68k.news/index.php?section=nation&loc=ID&lang=ID"
 ISNI: 0000000403921382
 MeSH_tree_code:
-  - Z01.252.145.380
-  - Z01.639.580
+- Z01.252.145.380
+- Z01.639.580
 rural_population:
   - 115892393
   - 116919988
@@ -1163,13 +1163,13 @@ motto_text:
 - "Yr Hyfryd Indonesia"
 - "Wonderful Indonesia"
 short_name:
-  - 印尼
-  - 印尼
+- 印尼
+- 印尼
 - "\U0001F1EE\U0001F1E9"
-  - Éng-nà̤
-  - 印尼
-  - 인니
-  - Ìn-nî
+- Éng-nà̤
+- 印尼
+- 인니
+- Ìn-nî
 urban_population:
   - 150925974
   - 153983073
@@ -1188,13 +1188,13 @@ subreddit: indonesia
 Colon_Classification: SG--436
 Krugosvet_article: strany_mira/INDONEZIYA.html
 official_name:
-  - إندونيسيا
+- إندونيسيا
 - "جمهورية إندونيسيا"
 - "République d’Indonésie"
-  - Indonesia
+- Indonesia
 - "Republik Indonesia"
-  - Indonésia
-  - Indonesia
+- Indonésia
+- Indonesia
 - "Republik Indonesia"
 has_id_wikidata: Q252
 location:
@@ -1219,11 +1219,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Indonesia
-    - Indonésie
-    - إندونيسيا
-    - 印度尼西亚
-    - Индонезия
+- Indonesia
+- Indonésie
+- إندونيسيا
+- 印度尼西亚
+- Индонезия
 - "the Republic of Indonesia"
 - "la República de Indonesia"
 Languages:

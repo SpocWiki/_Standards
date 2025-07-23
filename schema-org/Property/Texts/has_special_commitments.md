@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_special_commitments
-linkTitle: has_text_of_special_commitments
-
-keywords: [special, commitments]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - special-commitments
 - special_commitments
 - specialCommitments
 - has_text_of_special_commitments
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- special
+- commitments
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_special_commitments
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_special_commitments
+type: Pred_Text
 ---
 
 Predicate to describe the Text of JobPosting.

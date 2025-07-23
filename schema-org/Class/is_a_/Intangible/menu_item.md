@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_menu_item Class
-linkTitle: is_a_menu_item Class
-
-keywords: [menu_item]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - menu-item
 - menu_item
 - MenuItem
 - is_a_menu_item
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- menu_item
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_menu_item Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_menu_item Class"
+type: Type
 ---
 
 Class of all menu_items.

@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Conservation of energy
+- "Conservation of energy"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Mechanical engineering
+- "Mechanical engineering"
 has_id_wikidata: Q101333
 ---
-
 
 ## #has_/text_of_/abstract 
 

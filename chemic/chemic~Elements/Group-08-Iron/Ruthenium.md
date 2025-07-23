@@ -1,65 +1,65 @@
----
-type: Element
-SpocWebEntityId: 21942
-has_id_wikidata: Q1086
-part_of:
-- "[[_Standards/WikiData/WD~group_8,202224]]"
-- "[[_Standards/WikiData/WD~period_5,244982]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~platinum_group,223995]]"
-- "[[_Standards/WikiData/WD~transition_metal,19588]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908]]'
-UMLS_CUI: C0035973
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20crystal%20grown%20using%20CVD%20is%20released.webm"
+﻿---
+atomic_number: 44
+canonical_SMILES: '[Ru]'
+CAS_Registry_Number: 7440-18-8
+chemical_formula: Ru
+Commons_category: Ruthenium
+Commons_gallery: Ruthenium
 Common_Procurement_Vocabulary_code:
 - 14743000-1
 - 14743000
-time_of_discovery_or_invention: "1844"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-oxidation_state:
-- 3
-- 4
+CPV_Supplementary_code: AA21
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]'
+DSSTOX_compound_identifier: DTXCID1047651
+EC_number: 231-127-1
 electronegativity: 2.2
+electron_configuration: "[Kr] 4d⁷ 5s¹"
+element_symbol: Ru
+has_id_wikidata: Q1086
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20a%20half%20bar.jpg"
+InChI: InChI=1S/Ru
+InChIKey: KJTLSVCANCCWHF-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.36
 - 0.38
 - 0.57
 - 0.62
 - 0.68
-atomic_number: 44
-ZVG_number: 7440
+location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908]]'
 mass: 101.07
-PubChem_CID: 23950
-Commons_gallery: Ruthenium
-Commons_category: Ruthenium
-chemical_formula: Ru
-element_symbol: Ru
-OmegaWiki_Defined_Meaning: 351999
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20a%20half%20bar.jpg"
-electron_configuration: "[Kr] 4d⁷ 5s¹"
-canonical_SMILES: '[Ru]'
-EC_number: 231-127-1
-CAS_Registry_Number: 7440-18-8
-UNII: 7UI0TKC3U5
-CPV_Supplementary_code: AA21
 MeSH_tree_code:
 - D01.268.556.805
 - D01.268.956.812
 - D01.552.544.805
-DSSTOX_compound_identifier: DTXCID1047651
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Ruthenium\"]"
-InChI: InChI=1S/Ru
-InChIKey: KJTLSVCANCCWHF-UHFFFAOYSA-N
+named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883]]'
+OmegaWiki_Defined_Meaning: 351999
+oxidation_state:
+- 3
+- 4
+part_of:
+- '[[_Standards/WikiData/WD~group_8,202224]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794]]'
+PubChem_CID: 23950
+SpocWebEntityId: 21942
+subclass_of:
+- '[[_Standards/WikiData/WD~platinum_group,223995]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+time_of_discovery_or_invention: 1844
+type: Element
+UMLS_CUI: C0035973
 Unicode_character: 釕
+UNII: 7UI0TKC3U5
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20crystal%20grown%20using%20CVD%20is%20released.webm"
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Ruthenium\"]"
+ZVG_number: 7440
 ---
 
 #chemic/Element 

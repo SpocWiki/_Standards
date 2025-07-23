@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_critic_review Class
-linkTitle: is_a_critic_review Class
-
-keywords: [critic_review]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - critic-review
 - critic_review
 - CriticReview
 - is_a_critic_review
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- critic_review
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_critic_review Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_critic_review Class"
+type: Type
 ---
 
 Class of all critic_reviews.

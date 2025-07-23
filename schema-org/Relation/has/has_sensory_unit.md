@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_sensory_unit
-
-linkTitle: has_sensory_unit
-keywords: [sensory, unit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - sensory-unit
 - sensory_unit
 - sensoryUnit
 - has_sensory_unit
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- sensory
+- unit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sensory_unit
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_sensory_unit
+type: Predi_Relation
 ---
 
 Use it like this: 

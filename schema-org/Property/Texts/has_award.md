@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- award
+- award
+- award
+- has_text_of_award
+- "schema:award"
+- "dbo:award"
+- "wdt:P166"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_award
-linkTitle: has_text_of_award
 keywords:
-  - award
+- award
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_award
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: awards
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - award
-  - award
-  - award
-  - has_text_of_award
-  - schema:award
-  - dbo:award
-  - wdt:P166
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_award
+type: Pred_Text
 ---
 
 Predicate to describe the Text of CreativeWork, Organization, Person, Product, Service.

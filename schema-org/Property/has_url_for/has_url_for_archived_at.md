@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_archived_at
-linkTitle: has_url_for_archived_at
-
-keywords: [archived_at]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Url
-
+﻿---
 aliases:
 - archived-at
 - archived_at
 - archivedAt
 - has_url_for_archived_at
+confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- archived_at
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_archived_at
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_archived_at
+type: Predi_Url
 ---
 
 Predicate to specify the Url of CreativeWork.

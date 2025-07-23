@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_depth
-linkTitle: has_depth
-
-keywords: [depth]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - depth
 - depth
 - depth
 - has_value_for_depth_in_meters
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- depth
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_depth
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_depth
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of OfferShippingDetails, Product, VisualArtwork.

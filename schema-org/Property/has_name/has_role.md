@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_role_
-linkTitle: has_role_
-
-keywords: [role, name]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: namedPosition
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - role-name
 - role_
 - roleName
 - has_role_
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- role
+- name
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_role_
+publish: true
+publishDate: 
+supersedes: namedPosition
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_role_
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Role.

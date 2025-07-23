@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_low-price
-linkTitle: has_low-price
-
-keywords: [low-price]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - low_price
 - low-price
 - lowPrice
 - has_value_for_low_price
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- low-price
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_low-price
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_low-price
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of AggregateOffer.

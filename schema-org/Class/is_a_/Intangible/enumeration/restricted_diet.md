@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_restricted_diet Class
-linkTitle: is_a_restricted_diet Class
-
-keywords: [restricted_diet]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - restricted-diet
 - restricted_diet
 - RestrictedDiet
 - is_a_restricted_diet
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- restricted_diet
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_restricted_diet Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_restricted_diet Class"
+type: Type
 ---
 
 Class of all restricted_diets.

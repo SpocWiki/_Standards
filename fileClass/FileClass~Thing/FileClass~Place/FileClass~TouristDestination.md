@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TouristDestination
-  - class/Thing/Place/TouristDestination
-  - is_a_/TouristDestination
-  - schema-org/TouristDestination
-tags:
-  - class/FileClass
-  - class/TouristDestination
-  - is_a_/TouristDestination
-  - class/Thing/Place/TouristDestination
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: oPaGkM
-    name: IncludesAttraction
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/TouristAttraction')
-    type: MultiFile
-    path: ""
-  - id: ahxpd7
-    name: TouristType
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
+- id: oPaGkM
+  name: IncludesAttraction
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/TouristAttraction')"
+  type: MultiFile
+  path: ''
+- id: ahxpd7
+  name: TouristType
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/TouristDestination
+- class/Thing/Place/TouristDestination
+- is_a_/TouristDestination
+- schema-org/TouristDestination
+tags:
+- class/FileClass
+- class/TouristDestination
+- is_a_/TouristDestination
+- class/Thing/Place/TouristDestination
+version: 2.0
 ---
 
 # TouristDestination

@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - 20000 Leagues Under the Sea
-  - 20,000 Leagues Under the Sea
-  - Twenty Thousand Leagues Under the Seas
-  - Vingt Mille Lieues sous les mers
+- "20000 Leagues Under the Sea"
+- "20,000 Leagues Under the Sea"
+- "Twenty Thousand Leagues Under the Seas"
+- "Vingt Mille Lieues sous les mers"
 ---
 
 [[Twenty_Thousand_Leagues_Under_the_Seas]]

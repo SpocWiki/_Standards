@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- creator
+- creator
+- creator
+- has_creator
+- "has creator"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_creator
-linkTitle: has_creator
 keywords:
-  - creator
+- creator
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_creator
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - creator
-  - creator
-  - creator
-  - has_creator
-  - has creator
+- class/Relation
+- schema-org/Relation
+title: has_creator
+type: Predi_Relation
 ---
 
 Use it like this: 

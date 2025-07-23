@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_automated_teller Class
-linkTitle: is_an_automated_teller Class
-
-keywords: [automated_teller]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - automated-teller
 - automated_teller
 - AutomatedTeller
 - is_an_automated_teller
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- automated_teller
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_automated_teller Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_automated_teller Class"
+type: Type
 ---
 
 Class of all automated_tellers.

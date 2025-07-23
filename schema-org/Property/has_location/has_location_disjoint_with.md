@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_disjoint
-linkTitle: has_location_disjoint
-
-keywords: [geo_disjoint]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - geo-disjoint
 - geo_disjoint
 - geoDisjoint
 - has_location_disjoint
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- geo_disjoint
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_disjoint
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_disjoint
+type: Pred_geo
 ---
 
 Predicate to describe the geo of GeospatialGeometry, Place.

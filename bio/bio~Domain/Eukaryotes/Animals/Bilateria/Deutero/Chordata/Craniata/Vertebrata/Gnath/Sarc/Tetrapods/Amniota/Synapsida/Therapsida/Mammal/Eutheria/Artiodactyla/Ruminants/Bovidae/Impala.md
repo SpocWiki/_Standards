@@ -1,8 +1,8 @@
----
-title: Aepyceros melampus
+﻿---
 aliases:
-  - Aepyceros melampus
-  - impala
+- "Aepyceros melampus"
+- impala
+title: "Aepyceros melampus"
 ---
 
 # Aepyceros melampus

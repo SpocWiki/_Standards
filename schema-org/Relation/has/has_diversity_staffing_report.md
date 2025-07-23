@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_diversity_staffing_report
-
-linkTitle: has_diversity_staffing_report
-keywords: [diversity, staffing, report]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - diversity-staffing-report
 - diversity_staffing_report
 - diversityStaffingReport
 - has_diversity_staffing_report
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- diversity
+- staffing
+- report
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_diversity_staffing_report
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_diversity_staffing_report
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

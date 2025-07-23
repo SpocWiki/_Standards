@@ -1,30 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- number
+- number
+- Number
+- is_a_number
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_number Class
-linkTitle: is_a_number Class
 keywords:
-  - number
+- number
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_number Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - number
-  - number
-  - Number
-  - is_a_number
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_number Class"
+type: Type
 ---
+
 # [[number]] 
 Class of all numbers.
 

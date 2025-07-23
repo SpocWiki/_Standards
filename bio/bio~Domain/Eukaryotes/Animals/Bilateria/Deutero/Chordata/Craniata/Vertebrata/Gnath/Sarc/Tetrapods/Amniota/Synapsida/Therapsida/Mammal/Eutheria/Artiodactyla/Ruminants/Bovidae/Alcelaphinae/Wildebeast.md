@@ -1,8 +1,8 @@
----
-title: Connochaetes taurinus
+﻿---
 aliases:
-  - Connochaetes taurinus
-  - Wildebeast
+- "Connochaetes taurinus"
+- Wildebeast
+title: "Connochaetes taurinus"
 ---
 
 # [[Wildebeast]] 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/VirtualLocation
-  - class/Thing/Intangible/VirtualLocation
-  - is_a_/VirtualLocation
-  - schema-org/VirtualLocation
-tags:
-  - class/FileClass
-  - class/VirtualLocation
-  - is_a_/VirtualLocation
-  - class/Thing/Intangible/VirtualLocation
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/VirtualLocation
+- class/Thing/Intangible/VirtualLocation
+- is_a_/VirtualLocation
+- schema-org/VirtualLocation
+tags:
+- class/FileClass
+- class/VirtualLocation
+- is_a_/VirtualLocation
+- class/Thing/Intangible/VirtualLocation
+version: 2.0
 ---
 
 # VirtualLocation

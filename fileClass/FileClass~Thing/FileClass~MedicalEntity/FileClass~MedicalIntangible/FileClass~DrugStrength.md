@@ -1,48 +1,48 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DrugStrength
-  - class/Thing/MedicalEntity/MedicalIntangible/DrugStrength
-  - is_a_/DrugStrength
-  - schema-org/DrugStrength
-tags:
-  - class/FileClass
-  - class/DrugStrength
-  - is_a_/DrugStrength
-  - class/Thing/MedicalEntity/MedicalIntangible/DrugStrength
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-  - id: 8bJ7Dj
-    name: ActiveIngredient
-    options: {}
-    type: Input
-    path: ""
-  - id: GfyHYX
-    name: AvailableIn
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
-    type: MultiFile
-    path: ""
-  - id: XElU0d
-    name: MaximumIntake
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')
-    type: MultiFile
-    path: ""
-  - id: HdJdm8
-    name: StrengthUnit
-    options: {}
-    type: Input
-    path: ""
-  - id: 6Uz0UI
-    name: StrengthValue
-    options: {}
-    type: Number
-    path: ""
+- id: 8bJ7Dj
+  name: ActiveIngredient
+  options: {}
+  type: Input
+  path: ''
+- id: GfyHYX
+  name: AvailableIn
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
+  type: MultiFile
+  path: ''
+- id: XElU0d
+  name: MaximumIntake
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')"
+  type: MultiFile
+  path: ''
+- id: HdJdm8
+  name: StrengthUnit
+  options: {}
+  type: Input
+  path: ''
+- id: 6Uz0UI
+  name: StrengthValue
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DrugStrength
+- class/Thing/MedicalEntity/MedicalIntangible/DrugStrength
+- is_a_/DrugStrength
+- schema-org/DrugStrength
+tags:
+- class/FileClass
+- class/DrugStrength
+- is_a_/DrugStrength
+- class/Thing/MedicalEntity/MedicalIntangible/DrugStrength
+version: 2.0
 ---
 
 # DrugStrength

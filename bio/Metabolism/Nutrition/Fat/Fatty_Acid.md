@@ -1,29 +1,29 @@
----
-has_id_wikidata: Q61476
-has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~aliphatic_compound,192596]]"
-- "[[_Standards/WikiData/WD~monocarboxylic_acid,47147773]]"
-- "[[_Standards/WikiData/WD~fatty_acyl,63433687]]"
-has_cause: "[[_Standards/WikiData/WD~fatty_acid_synthesis,900209]]"
-part_of:
-- "[[_Standards/WikiData/WD~fatty_acid_homeostasis,14761972]]"
-- "[[_Standards/WikiData/WD~fatty_acid_biosynthetic_process,14860449]]"
-- "[[_Standards/WikiData/WD~fatty_acid_transport,14864580]]"
-- "[[_Standards/WikiData/WD~response_to_fatty_acid,14907443]]"
-- "[[_Standards/WikiData/WD~cellular_response_to_fatty_acid,15333013]]"
-- "[[_Standards/WikiData/WD~fatty_acid_elongation,21100400]]"
-- "[[_Standards/WikiData/WD~fatty_acid_transmembrane_transporter_activity,21121305]]"
-- "[[_Standards/WikiData/WD~poly(hydroxyalkanoate)_biosynthetic_process_from_fatty_acid,22283269]]"
-- "[[_Standards/WikiData/WD~fatty_acid_transmembrane_transport,22290332]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-UMLS_CUI: C0597423
-ZVG_number: 91170
-MeSH_tree_code: D10.251
-E_number: E570
+﻿---
 Commons_category: "Fatty acids"
 CXSMILES: "OC([*])=O |$;;R;$|"
+E_number: E570
+has_cause: '[[_Standards/WikiData/WD~fatty_acid_synthesis,900209]]'
+has_id_wikidata: Q61476
+has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+MeSH_tree_code: D10.251
+part_of:
+- '[[_Standards/WikiData/WD~fatty_acid_homeostasis,14761972]]'
+- '[[_Standards/WikiData/WD~fatty_acid_biosynthetic_process,14860449]]'
+- '[[_Standards/WikiData/WD~fatty_acid_transport,14864580]]'
+- '[[_Standards/WikiData/WD~response_to_fatty_acid,14907443]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_fatty_acid,15333013]]'
+- '[[_Standards/WikiData/WD~fatty_acid_elongation,21100400]]'
+- '[[_Standards/WikiData/WD~fatty_acid_transmembrane_transporter_activity,21121305]]'
+- '[[_Standards/WikiData/WD~poly(hydroxyalkanoate)_biosynthetic_process_from_fatty_acid,22283269]]'
+- '[[_Standards/WikiData/WD~fatty_acid_transmembrane_transport,22290332]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~aliphatic_compound,192596]]'
+- '[[_Standards/WikiData/WD~monocarboxylic_acid,47147773]]'
+- '[[_Standards/WikiData/WD~fatty_acyl,63433687]]'
+UMLS_CUI: C0597423
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+ZVG_number: 91170
 ---
 
 ## #has_/text_of_/abstract 

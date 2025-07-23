@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_using_device
-
-linkTitle: is_using_device
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - uses-device
 - using_device
 - usesDevice
 - is_using_device
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_using_device
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_using_device
+type: Predi_Relation
 ---
+
 [MedicalDevice](../../../Class/is_a_/medical_entity/medical_device.md) used to perform the test.
 
 Use it like this: 

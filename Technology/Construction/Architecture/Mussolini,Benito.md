@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Benito Mussolini
+- "Benito Mussolini"
 ---
 
 > Benito Amilcare Andrea Mussolini (29 July 1883 – 28 April 1945) was an Italian dictator 

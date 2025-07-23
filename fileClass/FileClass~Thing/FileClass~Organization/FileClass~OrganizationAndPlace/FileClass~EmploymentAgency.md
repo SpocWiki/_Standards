@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/EmploymentAgency
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency
-  - is_an_/EmploymentAgency
-  - schema-org/EmploymentAgency
-tags:
-  - class/FileClass
-  - class/EmploymentAgency
-  - "#is_an_/EmploymentAgency"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/EmploymentAgency
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency
+- is_an_/EmploymentAgency
+- schema-org/EmploymentAgency
+tags:
+- class/FileClass
+- class/EmploymentAgency
+- '#is_an_/EmploymentAgency'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency
+version: 2.0
 ---
 
 # EmploymentAgency

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Igor Stravinsky
-  - Igor Fyodorovich Stravinsky
+- "Igor Stravinsky"
+- "Igor Fyodorovich Stravinsky"
 has_id_wikidata: Q7314
 ---
 

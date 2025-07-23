@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_by_month_week
-linkTitle: has_number_of_by_month_week
-
-keywords: [by_month_week]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - by-month-week
 - by_month_week
 - byMonthWeek
 - has_number_of_week_in_month
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- by_month_week
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_by_month_week
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_by_month_week
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Schedule.

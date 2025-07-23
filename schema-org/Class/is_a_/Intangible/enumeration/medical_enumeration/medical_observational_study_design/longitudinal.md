@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_longitudinal Class
-linkTitle: is_a_longitudinal Class
-
-keywords: [longitudinal]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalObservationalStudyDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - longitudinal
 - longitudinal
 - Longitudinal
 - is_a_longitudinal
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalObservationalStudyDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- longitudinal
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_longitudinal Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_longitudinal Class"
+type: Type
 ---
 
 Class of all longitudinals.

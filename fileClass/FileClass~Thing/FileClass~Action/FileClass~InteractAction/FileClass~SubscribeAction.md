@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SubscribeAction
-  - class/Thing/Action/InteractAction/SubscribeAction
-  - is_a_/SubscribeAction
-  - schema-org/SubscribeAction
-tags:
-  - class/FileClass
-  - class/SubscribeAction
-  - is_a_/SubscribeAction
-  - class/Thing/Action/InteractAction/SubscribeAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SubscribeAction
+- class/Thing/Action/InteractAction/SubscribeAction
+- is_a_/SubscribeAction
+- schema-org/SubscribeAction
+tags:
+- class/FileClass
+- class/SubscribeAction
+- is_a_/SubscribeAction
+- class/Thing/Action/InteractAction/SubscribeAction
+version: 2.0
 ---
 
 # SubscribeAction

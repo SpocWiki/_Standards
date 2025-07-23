@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wp_side_bar Class
-linkTitle: is_a_wp_side_bar Class
-
-keywords: [wp_side_bar]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wp-side-bar
 - wp_side_bar
 - WPSideBar
 - is_a_wp_side_bar
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wp_side_bar
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wp_side_bar Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wp_side_bar Class"
+type: Type
 ---
 
 Class of all wp_side_bars.

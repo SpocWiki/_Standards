@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_comedy_club Class
-linkTitle: is_a_comedy_club Class
-
-keywords: [comedy_club]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - comedy-club
 - comedy_club
 - ComedyClub
 - is_a_comedy_club
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- comedy_club
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_comedy_club Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_comedy_club Class"
+type: Type
 ---
 
 Class of all comedy_clubs.

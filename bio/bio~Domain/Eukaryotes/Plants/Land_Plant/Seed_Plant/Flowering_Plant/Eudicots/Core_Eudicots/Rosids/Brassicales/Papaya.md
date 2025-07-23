@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Papaya
-  - papaw
-  - pawpaw
+- Papaya
+- papaw
+- pawpaw
 ---
 
 # [[Papaya]] 

@@ -1,8 +1,9 @@
----
-type: LangFamily
-tags: 
+﻿---
+tags:
 - Lang_Family
+type: LangFamily
 ---
+
 [SpocWebEntityId:: 241 ]
 [Name::Tai–Kadai]
 

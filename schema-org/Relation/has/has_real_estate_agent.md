@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_real_estate_agent
-
-linkTitle: has_real_estate_agent
-keywords: [real, estate, agent]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - real-estate-agent
 - real_estate_agent
 - realEstateAgent
 - has_real_estate_agent
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- real
+- estate
+- agent
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_real_estate_agent
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_real_estate_agent
+type: Predi_Relation
 ---
 
 Use it like this: 

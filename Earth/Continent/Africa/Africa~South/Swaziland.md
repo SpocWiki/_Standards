@@ -142,15 +142,15 @@ motto_text:
 - "A royal experience"
 - "We are a fortress"
 - "Մենք ամրոց ենք"
-  - Siyinqaba
-  - "'Da Ni'n Gaer!"
+- Siyinqaba
+- "'Da Ni'n Gaer!"
 official_name:
 - "Kingdom of Eswatini"
 - "Umbuso weSwatini"
 short_name:
   - Эсватини
   - eSwatini
-- "\U0001F1F8\U0001F1FF"
+  - "\U0001F1F8\U0001F1FF"
 native_label: "Umbuso weSwatini"
 UMLS_CUI: C0038983
 Libris_URI: 1zcffl3k3d9llt7

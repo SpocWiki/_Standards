@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Historians
-  - Historiker
+- Historians
+- Historiker
 ---
 
 ## #has_/text_of_/abstract 

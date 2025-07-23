@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_group_juniors Class
-linkTitle: is_a_wearable_size_group_juniors Class
-
-keywords: [wearable_size_group_juniors]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeGroupEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-group-juniors
 - wearable_size_group_juniors
 - WearableSizeGroupJuniors
 - is_a_wearable_size_group_juniors
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeGroupEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_group_juniors
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_group_juniors Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_group_juniors Class"
+type: Type
 ---
 
 Class of all wearable_size_group_juniorss.

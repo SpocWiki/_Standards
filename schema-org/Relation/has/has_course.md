@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_course
-
-linkTitle: has_course
-keywords: [course]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-course
 - course
 - hasCourse
 - has_course
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- course
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_course
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_course
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

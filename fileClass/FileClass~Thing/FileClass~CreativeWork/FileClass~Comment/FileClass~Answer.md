@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Answer
-  - class/Thing/CreativeWork/Comment/Answer
-  - is_an_/Answer
-  - schema-org/Answer
-tags:
-  - class/FileClass
-  - class/Answer
-  - "#is_an_/Answer"
-  - class/Thing/CreativeWork/Comment/Answer
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
 fields:
-  - id: RlX1fa
-    name: AnswerExplanation
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
-    type: MultiFile
-    path: ""
+- id: RlX1fa
+  name: AnswerExplanation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Comment')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Answer
+- class/Thing/CreativeWork/Comment/Answer
+- is_an_/Answer
+- schema-org/Answer
+tags:
+- class/FileClass
+- class/Answer
+- '#is_an_/Answer'
+- class/Thing/CreativeWork/Comment/Answer
+version: 2.0
 ---
 
 # Answer

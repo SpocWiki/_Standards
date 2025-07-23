@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_warranty_promise Class
-linkTitle: is_a_warranty_promise Class
-
-keywords: [warranty_promise]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - warranty-promise
 - warranty_promise
 - WarrantyPromise
 - is_a_warranty_promise
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- warranty_promise
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_warranty_promise Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_warranty_promise Class"
+type: Type
 ---
 
 Class of all warranty_promises.

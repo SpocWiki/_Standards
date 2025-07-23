@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_typical_test
-
-linkTitle: has_typical_test
-keywords: [typical, test]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - typical-test
 - typical_test
 - typicalTest
 - has_typical_test
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- typical
+- test
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_typical_test
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_typical_test
+type: Predi_Relation
 ---
 
 Use it like this: 

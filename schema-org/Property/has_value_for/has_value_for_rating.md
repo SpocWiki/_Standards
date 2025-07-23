@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_rating-value
-linkTitle: has_rating-value
-
-keywords: [rating-value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - rating_value
 - rating-value
 - ratingValue
 - has_value_for_rating
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rating-value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_rating-value
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_rating-value
+type: Predi_Quantity
 ---
 
 [[../../Predicate|Predicate]] to describe the Quantity of Rating.

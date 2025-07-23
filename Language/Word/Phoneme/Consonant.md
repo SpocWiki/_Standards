@@ -1,20 +1,20 @@
----
+﻿---
+Commons_category: Consonants
+depicted_by: '[[_Standards/WikiData/WD~consonant_letter,3841820]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+different_from: '[[_Standards/WikiData/WD~consonant_letter,3841820]]'
+facet_of: '[[_Standards/WikiData/WD~language,315]]'
+follows: '[[_Standards/WikiData/WD~preconsonantal_form,114752182]]'
+has_characteristic: '[[_Standards/WikiData/WD~disruption,2956685]]'
 has_id_wikidata: Q38035
 has_part_s_: '[[_Standards/WikiData/WD~noise,179448]]'
-subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-has_characteristic: '[[_Standards/WikiData/WD~disruption,2956685]]'
-different_from: "[[_Standards/WikiData/WD~consonant_letter,3841820]]"
-depicted_by: "[[_Standards/WikiData/WD~consonant_letter,3841820]]"
-follows: "[[_Standards/WikiData/WD~preconsonantal_form,114752182]]"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Consonant.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/PlaceOfArticulation.svg"
-Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/consonants"
-facet_of: '[[_Standards/WikiData/WD~language,315]]'
-part_of: '[[_Standards/WikiData/WD~language,315]]'
-opposite_of: '[[_Standards/WikiData/WD~vowel,36244]]'
 OmegaWiki_Defined_Meaning: 403779
-Commons_category: Consonants
+opposite_of: '[[_Standards/WikiData/WD~vowel,36244]]'
+part_of: '[[_Standards/WikiData/WD~language,315]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Consonant.ogg"
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/consonants"
+subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_experience_requirements
-
-linkTitle: has_experience_requirements
-keywords: [experience, requirements]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - experience-requirements
 - experience_requirements
 - experienceRequirements
 - has_experience_requirements
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- experience
+- requirements
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_experience_requirements
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_experience_requirements
+type: Predi_Relation
 ---
 
 Use it like this: 

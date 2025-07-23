@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_hardcover Class
-linkTitle: is_a_hardcover Class
-
-keywords: [hardcover]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BookFormatType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - hardcover
 - hardcover
 - Hardcover
 - is_a_hardcover
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BookFormatType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hardcover
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_hardcover Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_hardcover Class"
+type: Type
 ---
 
 Class of all hardcovers.

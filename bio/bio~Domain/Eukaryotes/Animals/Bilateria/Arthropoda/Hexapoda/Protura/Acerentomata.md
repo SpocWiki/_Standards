@@ -1,9 +1,9 @@
----
-title: Acerentomata
+﻿---
 aliases:
-  - Acerentomata
-  - Protura
-  - proturans
+- Acerentomata
+- Protura
+- proturans
+title: Acerentomata
 ---
 
 # [[Acerentomata]] 

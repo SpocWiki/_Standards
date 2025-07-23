@@ -1,43 +1,9 @@
 ---
 aliases:
 - "Niger River"
-has_id_wikidata: Q3542
-tributary:
-- "[[_Standards/WikiData/WD~Benue_River,204806]]"
-- "[[_Standards/WikiData/WD~Bani_River,289460]]"
-- "[[_Standards/WikiData/WD~Mékrou_River,739892]]"
-- "[[_Standards/WikiData/WD~Béli_River,1019445]]"
-- "[[_Standards/WikiData/WD~Dallol_Bosso,1158034]]"
-- "[[_Standards/WikiData/WD~Sirba_River,1328852]]"
-- "[[_Standards/WikiData/WD~Sankarani_River,1390033]]"
-- '[[_Standards/WikiData/WD~Gorouol,1538392]]'
-- "[[_Standards/WikiData/WD~Milo_River,1582664]]"
-- "[[_Standards/WikiData/WD~Tinkisso_River,1852253]]"
-- "[[_Standards/WikiData/WD~Sokoto_River,2092438]]"
-- "[[_Standards/WikiData/WD~Kaduna_River,2338605]]"
-- "[[_Standards/WikiData/WD~Tapoa_River,2393701]]"
-- "[[_Standards/WikiData/WD~Sota_River,2411899]]"
-- '[[_Standards/WikiData/WD~Goroubi,3111376]]'
-- "[[_Standards/WikiData/WD~Alibori_River,4725666]]"
-- "[[_Standards/WikiData/WD~Anambra_River,4751187]]"
-- "[[_Standards/WikiData/WD~Oli_River,4781585]]"
-- '[[_Standards/WikiData/WD~In-Ates,21936581]]'
-- "[[_Standards/WikiData/WD~Gurara_River,107994944]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-lake_on_watercourse: "[[_Standards/WikiData/WD~Kainji_Lake,770141]]"
-drainage_basin: "[[_Standards/WikiData/WD~Niger_basin,2887545]]"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20river%20map.svg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20River%20View%2C%20Djenne%20%286861797%29.jpg"
-native_label:
-- "\U0001E903\U0001E922\U0001E944\U0001E934\U0001E92E \U0001E914\U0001E922\U0001E944\U0001E924\U0001E92D\U0001E926\U0001E922"
-- كوَرَ
-- Ọya
+basin_country: '[[_Standards/WikiData/WD~Guinea,1006]]'
+Commons_category: "Niger River"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 coordinate_location:
 - "Point(6.469166666 5.322222222)"
 - "Point(-10.682777777 9.097222222)"
@@ -47,17 +13,51 @@ country:
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-origin_of_the_watercourse: '[[_Standards/WikiData/WD~Guinea,1006]]'
-basin_country: '[[_Standards/WikiData/WD~Guinea,1006]]'
-instance_of: '[[_Standards/WikiData/WD~river,4022]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
-elevation_above_sea_level: 200
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
-length: 4180
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 discharge: 8630
-watershed_area: 2117700
+drainage_basin: '[[_Standards/WikiData/WD~Niger_basin,2887545]]'
+elevation_above_sea_level: 200
+has_id_wikidata: Q3542
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20River%20View%2C%20Djenne%20%286861797%29.jpg"
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+lake_on_watercourse: '[[_Standards/WikiData/WD~Kainji_Lake,770141]]'
+length: 4180
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Niger%20river%20map.svg"
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]'
+native_label:
+- "\U0001E903\U0001E922\U0001E944\U0001E934\U0001E92E \U0001E914\U0001E922\U0001E944\U0001E924\U0001E92D\U0001E926\U0001E922"
+- كوَرَ
+- Ọya
+origin_of_the_watercourse: '[[_Standards/WikiData/WD~Guinea,1006]]'
+tributary:
+- '[[_Standards/WikiData/WD~Benue_River,204806]]'
+- '[[_Standards/WikiData/WD~Bani_River,289460]]'
+- '[[_Standards/WikiData/WD~Mékrou_River,739892]]'
+- '[[_Standards/WikiData/WD~Béli_River,1019445]]'
+- '[[_Standards/WikiData/WD~Dallol_Bosso,1158034]]'
+- '[[_Standards/WikiData/WD~Sirba_River,1328852]]'
+- '[[_Standards/WikiData/WD~Sankarani_River,1390033]]'
+- '[[_Standards/WikiData/WD~Gorouol,1538392]]'
+- '[[_Standards/WikiData/WD~Milo_River,1582664]]'
+- '[[_Standards/WikiData/WD~Tinkisso_River,1852253]]'
+- '[[_Standards/WikiData/WD~Sokoto_River,2092438]]'
+- '[[_Standards/WikiData/WD~Kaduna_River,2338605]]'
+- '[[_Standards/WikiData/WD~Tapoa_River,2393701]]'
+- '[[_Standards/WikiData/WD~Sota_River,2411899]]'
+- '[[_Standards/WikiData/WD~Goroubi,3111376]]'
+- '[[_Standards/WikiData/WD~Alibori_River,4725666]]'
+- '[[_Standards/WikiData/WD~Anambra_River,4751187]]'
+- '[[_Standards/WikiData/WD~Oli_River,4781585]]'
+- '[[_Standards/WikiData/WD~In-Ates,21936581]]'
+- '[[_Standards/WikiData/WD~Gurara_River,107994944]]'
 U_S_National_Archives_Identifier: 10038760
-Commons_category: "Niger River"
+watershed_area: 2117700
 ---
 
 ## #has_/text_of_/abstract 

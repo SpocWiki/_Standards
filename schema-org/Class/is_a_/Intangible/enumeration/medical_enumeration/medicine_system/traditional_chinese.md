@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_traditional_chinese Class
-linkTitle: is_a_traditional_chinese Class
-
-keywords: [traditional_chinese]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicineSystem
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - traditional-chinese
 - traditional_chinese
 - TraditionalChinese
 - is_a_traditional_chinese
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicineSystem
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- traditional_chinese
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_traditional_chinese Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_traditional_chinese Class"
+type: Type
 ---
 
 Class of all traditional_chineses.

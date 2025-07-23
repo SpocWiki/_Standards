@@ -1,25 +1,25 @@
----
+﻿---
 aliases:
 - "Giza Necropolis"
 - "Giza pyramid complex"
+area: 16359
+Commons_category: "Giza pyramid complex"
+coordinate_location: "Point(31.133333 29.983333)"
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
+country_of_origin: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+culture: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
 has_id_wikidata: Q13217298
 has_part_s_:
-- "[[_Standards/WikiData/WD~The_Great_Sphinx,130958]]"
-- "[[_Standards/WikiData/WD~Pyramid_of_Khafre,208358]]"
-- "[[_Standards/WikiData/WD~Pyramid_of_Menkaure,238623]]"
-- "[[_Standards/WikiData/WD~Great_Pyramid_of_Giza,37200]]"
-instance_of: "[[_Standards/WikiData/WD~Ancient_Egyptian_necropolis,125866682]]"
-part_of: '[[_Standards/WikiData/WD~Memphis,5715]]'
-culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-country_of_origin: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza_Governorate,30832]]"
-country: '[[_Standards/WikiData/WD~Egypt,79]]'
-area: 16359
+- '[[_Standards/WikiData/WD~The_Great_Sphinx,130958]]'
+- '[[_Standards/WikiData/WD~Pyramid_of_Khafre,208358]]'
+- '[[_Standards/WikiData/WD~Pyramid_of_Menkaure,238623]]'
+- '[[_Standards/WikiData/WD~Great_Pyramid_of_Giza,37200]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids.jpg"
-coordinate_location: "Point(31.133333 29.983333)"
+instance_of: '[[_Standards/WikiData/WD~Ancient_Egyptian_necropolis,125866682]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Giza_Governorate,30832]]'
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Giza%20banner.jpg"
-Commons_category: "Giza pyramid complex"
+part_of: '[[_Standards/WikiData/WD~Memphis,5715]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]'
 ---
 
 #has_/time_/started :: -2550-06

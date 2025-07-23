@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_system_au Class
-linkTitle: is_a_wearable_size_system_au Class
-
-keywords: [wearable_size_system_au]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeSystemEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-system-au
 - wearable_size_system_au
 - WearableSizeSystemAU
 - is_a_wearable_size_system_au
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeSystemEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_system_au
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_system_au Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_system_au Class"
+type: Type
 ---
 
 Class of all wearable_size_system_aus.

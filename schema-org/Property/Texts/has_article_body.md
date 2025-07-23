@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_article_body
-linkTitle: has_text_of_article_body
-
-keywords: [article, body]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - article-body
 - article_body
 - articleBody
 - has_text_of_article_body
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- article
+- body
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_article_body
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_article_body
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Article.

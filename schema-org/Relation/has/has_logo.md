@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- logo
+- logo
+- logo
+- has_logo
+- "schema:logo"
+- "dbo:logo"
+- "wdt:P154"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_logo
-linkTitle: has_logo
 keywords:
-  - logo
+- logo
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_logo
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - logo
-  - logo
-  - logo
-  - has_logo
-  - schema:logo
-  - dbo:logo
-  - wdt:P154
+- class/Relation
+- schema-org/Relation
+title: has_logo
+type: Predi_Relation
 ---
 
 Use it like this: 

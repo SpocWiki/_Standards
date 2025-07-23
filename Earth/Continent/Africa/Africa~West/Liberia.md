@@ -238,7 +238,7 @@ native_label: "Republic of Liberia"
 official_name:
 - "la République du Libéria"
 - "Repubblica di Libèria"
-  - Liberia
+- Liberia
 short_name: "\U0001F1F1\U0001F1F7"
 coordinates_of_southernmost_point: "Point(-7.6176 4.35291)"
 total_fertility_rate: 4.719

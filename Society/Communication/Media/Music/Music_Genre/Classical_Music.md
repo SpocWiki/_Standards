@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Classical music
+- "Classical music"
 ---
-
 
 ## #has_/text_of_/abstract 
 

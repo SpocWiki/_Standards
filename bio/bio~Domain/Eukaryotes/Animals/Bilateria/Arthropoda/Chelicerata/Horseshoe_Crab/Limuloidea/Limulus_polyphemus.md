@@ -1,8 +1,8 @@
----
-title: Limulus polyphemus
+﻿---
 aliases:
-  - Atlantic horseshoe crab
-  - Limulus polyphemus
+- "Atlantic horseshoe crab"
+- "Limulus polyphemus"
+title: "Limulus polyphemus"
 ---
 
 ## Phylogeny 

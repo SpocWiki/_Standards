@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has-occupation
+- occupation
+- hasOccupation
+- has_occupation
+- "schema:occupation"
+- "dbo:occupation"
+- "wdt:P106"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_occupation
-linkTitle: has_occupation
 keywords:
-  - occupation
+- occupation
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_occupation
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - has-occupation
-  - occupation
-  - hasOccupation
-  - has_occupation
-  - schema:occupation
-  - dbo:occupation
-  - wdt:P106
+- class/Relation
+- schema-org/Relation
+title: has_occupation
+type: Predi_Relation
 ---
 
 Use it like this: 

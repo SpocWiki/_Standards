@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_code_access
-linkTitle: has_code_access
-
-keywords: [access, code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - access-code
 - access_code
 - accessCode
 - has_code_access
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- access
+- code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_code_access
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_code_access
+type: Pred_Text
 ---
 
 Predicate to describe the Text of DeliveryEvent.

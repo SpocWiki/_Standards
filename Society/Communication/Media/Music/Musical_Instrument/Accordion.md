@@ -1,46 +1,46 @@
----
-has_id_wikidata: Q79838
-indigenous_to:
-  - "[[_Standards/WikiData/WD~Pau,132671]]"
-  - "[[_Standards/WikiData/WD~Ossau_Valley,2305607]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~squeezebox,336767]]"
-  - "[[_Standards/WikiData/WD~multimonica,19650003]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
-used_by: "[[_Standards/WikiData/WD~accordionist,1863064]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Mondes_d_Occitanica,_Portail_occitan_du_PCI,117197442]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-OmegaWiki_Defined_Meaning: "368916"
-Nomenclature_for_Museum_Cataloging: "10708"
-described_at_URL:
-  - https://mondes.occitanica.eu/explorer/les-arts/les-instruments/accordeon
-  - https://mondes.occitanica.eu/oc/explorar/arts/los-instruments/acordeon
-image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20converter%20free-bass%20piano-accordion%20and%20a%20Russian%20bayan.jpg
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/AccordionBellowsSounds.ogg
-inception: 1829-01-01T00:00:00Z
-Hornbostel_Sachs_classification:
-  - "412.132"
-  - 412.132-62-8
-Iconclass_notation: 48C7335
-subreddit: Accordion
-Commons_gallery: Accordion
-IMDb_keyword: accordion
-U_S_National_Archives_Identifier: "10646133"
+﻿---
+Amazon_com_browse_node: 11969991
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/AccordionBellowsSounds.ogg"
 Commons_category: Accordions
-exact_match: http://wordnet-rdf.princeton.edu/wn30/02672831-n
-Amazon_com_browse_node: "11969991"
-UNSPSC_Code: "60131002"
-P8189: "987007293690605171"
+Commons_gallery: Accordion
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+described_at_URL:
+- "https://mondes.occitanica.eu/explorer/les-arts/les-instruments/accordeon"
+- "https://mondes.occitanica.eu/oc/explorar/arts/los-instruments/acordeon"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+exact_match: "http://wordnet-rdf.princeton.edu/wn30/02672831-n"
 Google_Doodle: celebrating-the-accordion
-Unicode_character: 🪗
+has_id_wikidata: Q79838
+Hornbostel_Sachs_classification:
+- 412.132
+- 412.132-62-8
+Iconclass_notation: 48C7335
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/A%20converter%20free-bass%20piano-accordion%20and%20a%20Russian%20bayan.jpg"
+IMDb_keyword: accordion
+inception: "1829-01-01T00:00:00Z"
+indigenous_to:
+- '[[_Standards/WikiData/WD~Pau,132671]]'
+- '[[_Standards/WikiData/WD~Ossau_Valley,2305607]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Mondes_d_Occitanica,_Portail_occitan_du_PCI,117197442]]'
+Nomenclature_for_Museum_Cataloging: 10708
+OmegaWiki_Defined_Meaning: 368916
+P8189: 987007293690605171
+subclass_of:
+- '[[_Standards/WikiData/WD~squeezebox,336767]]'
+- '[[_Standards/WikiData/WD~multimonica,19650003]]'
+subreddit: Accordion
+Unicode_character: "\U0001FA97"
+UNSPSC_Code: 60131002
+used_by: '[[_Standards/WikiData/WD~accordionist,1863064]]'
+U_S_National_Archives_Identifier: 10646133
 ---
 
 # [[Accordion]] 

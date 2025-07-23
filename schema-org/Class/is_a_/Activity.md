@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - foaf:activity
-  - prov:activity
-  - schema:Activity
+- "foaf:activity"
+- "prov:activity"
+- "schema:Activity"
 ---
 
 Class of Activities, i.e. Processes that happened (in the past).

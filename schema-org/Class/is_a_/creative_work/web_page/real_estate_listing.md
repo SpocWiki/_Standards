@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_real_estate_listing Class
-linkTitle: is_a_real_estate_listing Class
-
-keywords: [real_estate_listing]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - real-estate-listing
 - real_estate_listing
 - RealEstateListing
 - is_a_real_estate_listing
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- real_estate_listing
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_real_estate_listing Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_real_estate_listing Class"
+type: Type
 ---
 
 Class of all real_estate_listings.

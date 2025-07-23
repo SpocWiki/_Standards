@@ -1,29 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- collection
+- Collection
+- is_a_collection
+- container
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_collection Class
-linkTitle: is_a_collection Class
 keywords:
-  - collection
+- collection
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_collection Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-  - class/Class
-aliases:
-  - collection
-  - Collection
-  - is_a_collection
-  - container
+- schema-org/Class
+- class/Class
+title: "is_a_collection Class"
+type: Type
 ---
+
 # [[Collection]]
 
 #is_a_/class  . 

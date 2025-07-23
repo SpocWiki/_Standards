@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Dim~Angular_Jerk
-  - Dim~Angular_Jolt
+- Dim~Angular_Jerk
+- Dim~Angular_Jolt
 ---
-
 
 In physics, Angular_Jerk (also known as jolt) is the 
 rate of change of an object's acceleration over time, or 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_required_max_age
-linkTitle: has_number_of_required_max_age
-
-keywords: [required_max_age]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - required-max-age
 - required_max_age
 - requiredMaxAge
 - has_number_of_required_max_age
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- required_max_age
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_required_max_age
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_required_max_age
+type: Predi_Count
 ---
 
 Predicate to describe the Number of PeopleAudience.

@@ -1,8 +1,9 @@
----
-has_id_wikidata: Q40504
+﻿---
 aliases:
-  - Jim Carrey
+- "Jim Carrey"
+has_id_wikidata: Q40504
 ---
+
 #has_/time_/started :: 1962-01-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

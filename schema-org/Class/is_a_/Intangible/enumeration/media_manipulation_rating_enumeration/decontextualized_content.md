@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_decontextualized_content Class
-linkTitle: is_a_decontextualized_content Class
-
-keywords: [decontextualized_content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MediaManipulationRatingEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - decontextualized-content
 - decontextualized_content
 - DecontextualizedContent
 - is_a_decontextualized_content
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MediaManipulationRatingEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- decontextualized_content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_decontextualized_content Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_decontextualized_content Class"
+type: Type
 ---
 
 Class of all decontextualized_contents.

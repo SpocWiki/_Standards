@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Monopoly_(game)
-  - Monopoly (game)
-  - Monopoly the game
-  - Monopoly,game
+- Monopoly_(game)
+- "Monopoly (game)"
+- "Monopoly the game"
+- Monopoly,game
 has_id_wikidata: Q17243
 ---
 

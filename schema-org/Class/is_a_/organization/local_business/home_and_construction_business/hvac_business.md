@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_hvac_business Class
-linkTitle: is_a_hvac_business Class
-
-keywords: [hvac_business]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - hvac-business
 - hvac_business
 - HVACBusiness
 - is_a_hvac_business
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- hvac_business
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_hvac_business Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_hvac_business Class"
+type: Type
 ---
 
 Class of all hvac_businesss.

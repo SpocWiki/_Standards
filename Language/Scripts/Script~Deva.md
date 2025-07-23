@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - Devanagari
+- Devanagari
 ---
+
 Devanagari Script is used to write [[../Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi|Hindi-Urdu]]
 
 

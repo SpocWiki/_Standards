@@ -1,8 +1,8 @@
----
-title: Homo sapiens
+﻿---
 aliases:
-  - Homo sapiens
-  - modern humans
+- "Homo sapiens"
+- "modern humans"
+title: "Homo sapiens"
 ---
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../../bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species|bio~Species]] 

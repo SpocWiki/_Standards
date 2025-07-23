@@ -1,28 +1,28 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- store
+- Store
+- is_a_store
+- "schema:store"
+- stores
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_store Class
-linkTitle: is_a_store Class
 keywords:
-  - store
+- store
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_store Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-aliases:
-  - store
-  - Store
-  - is_a_store
-  - schema:store
-  - stores
+- schema-org/Class
+title: "is_a_store Class"
+type: Type
 ---
 
 Class of all stores.

@@ -1,11 +1,11 @@
----
-title: Angiosperms
+﻿---
 aliases:
-  - Angiosperm
-  - Angiosperms
-  - Flowering Plant
-  - Flowering Plants
-  - Magnoliophyta
+- Angiosperm
+- Angiosperms
+- "Flowering Plant"
+- "Flowering Plants"
+- Magnoliophyta
+title: Angiosperms
 ---
 
 # Angiosperms

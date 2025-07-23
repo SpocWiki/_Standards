@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_not_in_force Class
-linkTitle: is_a_not_in_force Class
-
-keywords: [not_in_force]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: LegalForceStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - not-in-force
 - not_in_force
 - NotInForce
 - is_a_not_in_force
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: LegalForceStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- not_in_force
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_not_in_force Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_not_in_force Class"
+type: Type
 ---
 
 Class of all not_in_forces.

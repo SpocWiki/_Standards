@@ -1,29 +1,29 @@
----
-is_sub_class_of: '[[../Thing|Thing]]'
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- action
+- action
+- Action
+- is_an_action
+- "schema:Action"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_an_action Class
-linkTitle: is_an_action Class
+is_sub_class_of: '[[../Thing|Thing]]'
 keywords:
-  - action
+- action
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_action Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-aliases:
-  - action
-  - action
-  - Action
-  - is_an_action
-  - schema:Action
+- schema-org/Class
+title: "is_an_action Class"
+type: Type
 ---
 
 Class of all actions.

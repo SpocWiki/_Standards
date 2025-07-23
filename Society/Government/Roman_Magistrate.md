@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Roman magistrate
+- "Roman magistrate"
 ---
 
 # [[Roman_Magistrate]] 

@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- review
+- has_review
+- "schema:review"
+- "dbo:review"
+- "wdt:P447"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_review
-linkTitle: has_review
 keywords:
-  - review
+- review
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_review
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: reviews
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - review
-  - has_review
-  - schema:review
-  - dbo:review
-  - wdt:P447
+- class/Relation
+- schema-org/Relation
+title: has_review
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_vehicle-seating-capacity
-linkTitle: has_number_of_vehicle-seating-capacity
-
-keywords: [vehicle-seating-capacity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - vehicle_seating_capacity
 - vehicle-seating-capacity
 - vehicleSeatingCapacity
 - has_number_of_vehicle_seating_capacity
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- vehicle-seating-capacity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_vehicle-seating-capacity
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_vehicle-seating-capacity
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Vehicle.

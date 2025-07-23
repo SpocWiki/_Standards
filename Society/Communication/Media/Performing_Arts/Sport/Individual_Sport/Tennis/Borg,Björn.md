@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Björn Borg
+- "Björn Borg"
 ---
 
 #has_/time_/started :: 1956-06-06

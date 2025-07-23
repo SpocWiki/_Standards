@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has_id_wikidata
+- "wikidata Entity-ID"
+- QID
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_id_wikidata
-linkTitle: has_id_wikidata
 keywords:
-  - global
-  - id
+- global
+- id
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_id_wikidata
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - has_id_wikidata
-  - wikidata Entity-ID
-  - QID
+- class/Property
+- schema-org/Property/Text
+title: has_id_wikidata
+type: Pred_Text
 ---
 
 Unique Entity-ID (QIDs), typically starting with a `Q`, 

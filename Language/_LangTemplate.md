@@ -1,14 +1,14 @@
----
-type: Lang
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-aliases:
-- 
+license: "CC BY-SA 4.0"
+publish: true
+type: Lang
 ---
+
 tags: 
 - Lang/{{Iso2}}
 SpocWebEntityId: {{Id}}

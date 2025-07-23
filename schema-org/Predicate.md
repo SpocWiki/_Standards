@@ -1,27 +1,20 @@
----
-type: Meta
-license: CC BY-SA 4.0
-publish: true
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-tags:
-- class/Property
-- schema-org/Property
-
+﻿---
 aliases:
 - Statement
-- Semantic_Triple 
+- Semantic_Triple
 - S-P-O
 - Claim~Logic
 - Proposition
 - 
-
+confidential: public
+isDeleted: false
+isReadOnly: false
+license: "CC BY-SA 4.0"
+publish: true
 tags:
 - class/Property
 - schema-org/Property
-
+type: Meta
 ---
 
 # [[Predicate]] 

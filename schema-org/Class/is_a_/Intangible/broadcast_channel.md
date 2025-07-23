@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_broadcast_channel Class
-linkTitle: is_a_broadcast_channel Class
-
-keywords: [broadcast_channel]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - broadcast-channel
 - broadcast_channel
 - BroadcastChannel
 - is_a_broadcast_channel
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast_channel
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_broadcast_channel Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_broadcast_channel Class"
+type: Type
 ---
 
 Class of all broadcast_channels.

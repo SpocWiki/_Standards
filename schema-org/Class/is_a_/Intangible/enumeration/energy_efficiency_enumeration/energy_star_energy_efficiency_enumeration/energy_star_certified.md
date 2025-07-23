@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_energy_star_certified Class
-linkTitle: is_an_energy_star_certified Class
-
-keywords: [energy_star_certified]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EnergyStarEnergyEfficiencyEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - energy-star-certified
 - energy_star_certified
 - EnergyStarCertified
 - is_an_energy_star_certified
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EnergyStarEnergyEfficiencyEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- energy_star_certified
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_energy_star_certified Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_energy_star_certified Class"
+type: Type
 ---
 
 Class of all energy_star_certifieds.

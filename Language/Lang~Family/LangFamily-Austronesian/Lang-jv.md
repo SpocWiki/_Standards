@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Javanese
-tags: 
+tags:
 - Lang/jv
+type: Lang
 ---
+
 # [[Lang-jv]] 
 
 [SpocWebEntityId:: 464 ]

@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_providing_broadcast_service
-
-linkTitle: is_providing_broadcast_service
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - provides-broadcast-service
 - providing_broadcast_service
 - providesBroadcastService
 - is_providing_broadcast_service
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_providing_broadcast_service
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_providing_broadcast_service
+type: Predi_Relation
 ---
 
 Use it like this: 

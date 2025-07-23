@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nonprofit_anbi Class
-linkTitle: is_a_nonprofit_anbi Class
-
-keywords: [nonprofit_anbi]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: NLNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nonprofit-anbi
 - nonprofit_anbi
 - NonprofitANBI
 - is_a_nonprofit_anbi
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: NLNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nonprofit_anbi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nonprofit_anbi Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nonprofit_anbi Class"
+type: Type
 ---
 
 Class of all nonprofit_anbis.

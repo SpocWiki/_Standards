@@ -1,9 +1,9 @@
----
-title: Marsupialia
+﻿---
 aliases:
-  - Marsupialia
-  - Marsupial
-  - Marsupials
+- Marsupialia
+- Marsupial
+- Marsupials
+title: Marsupialia
 ---
 
 # [[Marsupialia]] 

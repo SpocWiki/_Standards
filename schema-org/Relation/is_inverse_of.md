@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- inverse-of
+- inverse_of
+- inverseOf
+- is_inverse_of
+- is_converse_of
+- "has inverse"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_inverse_of
-linkTitle: is_inverse_of
 keywords:
-  - inverse
-  - of
+- inverse
+- of
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_inverse_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - is_/inverse_of
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - inverse-of
-  - inverse_of
-  - inverseOf
-  - is_inverse_of
-  - is_converse_of
-  - has inverse
+- is_/inverse_of
+- class/Relation
+- schema-org/Relation
+title: is_inverse_of
+type: Predi_Relation
 ---
 
 # is_inverse_of 

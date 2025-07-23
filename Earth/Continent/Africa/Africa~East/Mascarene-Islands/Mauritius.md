@@ -260,9 +260,9 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maur
 inception: "1968-03-12"
 has_time_started: "1968-03-12"
 official_name:
-  - Mauritius
+- Mauritius
 - "République de Maurice"
-  - Mauritius
+- Mauritius
 coordinates_of_northernmost_point: "Point(56.58 -10.33)"
 hashtag:
   - Maurice

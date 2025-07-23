@@ -1,9 +1,7 @@
----
+﻿---
 aliases:
-  - Ash_Sharqiyah
+- Ash_Sharqiyah
 ---
-
-
 
 #has_/name_/ar_/Latn :: Ash_Sharqiyah 
 #has_/name_/ar-/Arab :: الشرقية 

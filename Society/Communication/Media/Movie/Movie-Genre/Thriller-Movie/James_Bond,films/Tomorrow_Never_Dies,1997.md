@@ -1,9 +1,7 @@
----
+﻿---
 aliases:
-  - Tomorrow Never Dies
+- "Tomorrow Never Dies"
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

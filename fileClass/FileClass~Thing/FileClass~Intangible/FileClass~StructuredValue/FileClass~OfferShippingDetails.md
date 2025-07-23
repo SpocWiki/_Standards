@@ -1,89 +1,89 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OfferShippingDetails
-  - class/Thing/Intangible/StructuredValue/OfferShippingDetails
-  - is_an_/OfferShippingDetails
-  - schema-org/OfferShippingDetails
-tags:
-  - class/FileClass
-  - class/OfferShippingDetails
-  - "#is_an_/OfferShippingDetails"
-  - class/Thing/Intangible/StructuredValue/OfferShippingDetails
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: HJ6zZd
-    name: DeliveryTime
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')
-    type: MultiFile
-    path: ""
-  - id: edMVX9
-    name: Depth
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: 7pt8rV
-    name: DoesNotShip
-    options: {}
-    type: Boolean
-    path: ""
-  - id: 5799cm
-    name: Height
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: 6VvilJ
-    name: ShippingDestination
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
-    type: MultiFile
-    path: ""
-  - id: cLojSk
-    name: ShippingLabel
-    options: {}
-    type: Input
-    path: ""
-  - id: QCBnl3
-    name: ShippingOrigin
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
-    type: MultiFile
-    path: ""
-  - id: Bgbvcn
-    name: ShippingRate
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: YphBTP
-    name: ShippingSettingsLink
-    options: {}
-    type: Input
-    path: ""
-  - id: Br5C9B
-    name: TransitTimeLabel
-    options: {}
-    type: Input
-    path: ""
-  - id: yO1Q7M
-    name: Weight
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: zsxaWW
-    name: Width
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+- id: HJ6zZd
+  name: DeliveryTime
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')"
+  type: MultiFile
+  path: ''
+- id: edMVX9
+  name: Depth
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: 7pt8rV
+  name: DoesNotShip
+  options: {}
+  type: Boolean
+  path: ''
+- id: 5799cm
+  name: Height
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: 6VvilJ
+  name: ShippingDestination
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')"
+  type: MultiFile
+  path: ''
+- id: cLojSk
+  name: ShippingLabel
+  options: {}
+  type: Input
+  path: ''
+- id: QCBnl3
+  name: ShippingOrigin
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')"
+  type: MultiFile
+  path: ''
+- id: Bgbvcn
+  name: ShippingRate
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: YphBTP
+  name: ShippingSettingsLink
+  options: {}
+  type: Input
+  path: ''
+- id: Br5C9B
+  name: TransitTimeLabel
+  options: {}
+  type: Input
+  path: ''
+- id: yO1Q7M
+  name: Weight
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: zsxaWW
+  name: Width
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OfferShippingDetails
+- class/Thing/Intangible/StructuredValue/OfferShippingDetails
+- is_an_/OfferShippingDetails
+- schema-org/OfferShippingDetails
+tags:
+- class/FileClass
+- class/OfferShippingDetails
+- '#is_an_/OfferShippingDetails'
+- class/Thing/Intangible/StructuredValue/OfferShippingDetails
+version: 2.0
 ---
 
 # OfferShippingDetails

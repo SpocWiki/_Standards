@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_tax
-linkTitle: has_id_tax
-
-keywords: [tax, id]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - tax-id
 - id_tax
 - taxID
 - has_id_tax
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tax
+- id
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_tax
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_tax
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Organization, Person.

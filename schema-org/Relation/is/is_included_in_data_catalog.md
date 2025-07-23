@@ -1,34 +1,33 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_included_in_data_catalog
-
-linkTitle: is_included_in_data_catalog
-keywords: [included, in, data, catalog]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - included-in-data-catalog
 - included_in_data_catalog
 - includedInDataCatalog
 - is_included_in_data_catalog
 - is_included_in_data_catalog
+confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- included
+- in
+- data
+- catalog
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_included_in_data_catalog
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_included_in_data_catalog
+type: Predi_Relation
 ---
 
 [ supersedes :: [[has_catalog]], [[is_included_in_data_catalog 1]] ]

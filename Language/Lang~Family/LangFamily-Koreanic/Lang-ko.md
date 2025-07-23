@@ -1,11 +1,12 @@
----
-type: Lang
+﻿---
 aliases:
-  - Korean
-  - Lang-ko
+- Korean
+- Lang-ko
 tags:
-  - Lang/ko
+- Lang/ko
+type: Lang
 ---
+
 # [[Lang-ko]]
 
 [SpocWebEntityId:: 459 ]

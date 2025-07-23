@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- alumni-of
+- alumni_of
+- alumniOf
+- is_alumni_of
+- "schema:alumniOf"
+- "dbo:almaMater"
+- "wdt:P69"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_alumni_of
-linkTitle: is_alumni_of
 keywords:
-  - alumni
-  - of
+- alumni
+- of
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_alumni_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - alumni-of
-  - alumni_of
-  - alumniOf
-  - is_alumni_of
-  - schema:alumniOf
-  - dbo:almaMater
-  - wdt:P69
+- class/Relation
+- schema-org/Relation
+title: is_alumni_of
+type: Predi_Relation
 ---
 
 Use it like this: 

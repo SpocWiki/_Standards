@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- affiliation
+- has_affiliation_with
+- is_affiliated_with
+- "schema:affiliation"
+- "dbo:affiliation"
+- "wdt:P1416"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_affiliation_with
-linkTitle: has_affiliation_with
 keywords:
-  - affiliation
+- affiliation
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_affiliation_with
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - affiliation
-  - has_affiliation_with
-  - is_affiliated_with
-  - schema:affiliation
-  - dbo:affiliation
-  - wdt:P1416
+- class/Relation
+- schema-org/Relation
+title: has_affiliation_with
+type: Predi_Relation
 ---
 
 Use it like this: 

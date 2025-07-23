@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- geo-overlaps
+- geo_overlaps
+- geoOverlaps
+- has_location_that_overlaps_with
+- GeoCrosses
+- GeoIntersects
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_that_overlaps_with
-linkTitle: has_location_that_overlaps_with
 keywords:
-  - geo_overlaps
+- geo_overlaps
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_that_overlaps_with
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/geo
-aliases:
-  - geo-overlaps
-  - geo_overlaps
-  - geoOverlaps
-  - has_location_that_overlaps_with
-  - GeoCrosses
-  - GeoIntersects
+- class/Property
+- schema-org/Property/geo
+title: has_location_that_overlaps_with
+type: Pred_geo
 ---
 
 Symmetric Relation of two overlapping [[../../Class/is_a_/Intangible/geospatial_geometry|GeospatialGeometries]] or [[../../Class/is_a_/place|places]].

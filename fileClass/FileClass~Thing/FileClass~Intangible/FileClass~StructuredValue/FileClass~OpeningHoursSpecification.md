@@ -1,49 +1,49 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OpeningHoursSpecification
-  - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
-  - is_an_/OpeningHoursSpecification
-  - schema-org/OpeningHoursSpecification
-tags:
-  - class/FileClass
-  - class/OpeningHoursSpecification
-  - "#is_an_/OpeningHoursSpecification"
-  - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: aeAMow
-    name: Closes
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: spCF6i
-    name: Opens
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: IbrJFN
-    name: ValidFrom
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: FE08Wp
-    name: ValidThrough
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
+- id: aeAMow
+  name: Closes
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: spCF6i
+  name: Opens
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: IbrJFN
+  name: ValidFrom
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: FE08Wp
+  name: ValidThrough
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OpeningHoursSpecification
+- class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
+- is_an_/OpeningHoursSpecification
+- schema-org/OpeningHoursSpecification
+tags:
+- class/FileClass
+- class/OpeningHoursSpecification
+- '#is_an_/OpeningHoursSpecification'
+- class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
+version: 2.0
 ---
 
 # OpeningHoursSpecification

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_service_channel Class
-linkTitle: is_a_service_channel Class
-
-keywords: [service_channel]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - service-channel
 - service_channel
 - ServiceChannel
 - is_a_service_channel
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- service_channel
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_service_channel Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_service_channel Class"
+type: Type
 ---
 
 Class of all service_channels.

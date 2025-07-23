@@ -1,5 +1,5 @@
----
-title: Amastigomonas filosa
+﻿---
+title: "Amastigomonas filosa"
 ---
 
 ## Phylogeny 

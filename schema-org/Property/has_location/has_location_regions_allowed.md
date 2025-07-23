@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_regions_allowed
-linkTitle: has_location_regions_allowed
-
-keywords: [regions_allowed]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - regions-allowed
 - regions_allowed
 - regionsAllowed
 - has_location_regions_allowed
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- regions_allowed
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_regions_allowed
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_regions_allowed
+type: Pred_geo
 ---
 
 Predicate to describe the geo of MediaObject.

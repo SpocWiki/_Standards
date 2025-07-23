@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_jurisdiction
-
-linkTitle: has_jurisdiction
-keywords: [jurisdiction]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - jurisdiction
 - jurisdiction
 - jurisdiction
 - has_jurisdiction
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- jurisdiction
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_jurisdiction
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_jurisdiction
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

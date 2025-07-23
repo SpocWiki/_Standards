@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/InsertAction
-  - class/Thing/Action/UpdateAction/AddAction/InsertAction
-  - is_an_/InsertAction
-  - schema-org/InsertAction
-tags:
-  - class/FileClass
-  - class/InsertAction
-  - "#is_an_/InsertAction"
-  - class/Thing/Action/UpdateAction/AddAction/InsertAction
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction
 fields:
-  - id: khA8tl
-    name: ToLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
+- id: khA8tl
+  name: ToLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/InsertAction
+- class/Thing/Action/UpdateAction/AddAction/InsertAction
+- is_an_/InsertAction
+- schema-org/InsertAction
+tags:
+- class/FileClass
+- class/InsertAction
+- '#is_an_/InsertAction'
+- class/Thing/Action/UpdateAction/AddAction/InsertAction
+version: 2.0
 ---
 
 # InsertAction

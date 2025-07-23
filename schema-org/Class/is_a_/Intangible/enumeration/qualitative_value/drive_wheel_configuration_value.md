@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_drive_wheel_configuration_value Class
-linkTitle: is_a_drive_wheel_configuration_value Class
-
-keywords: [drive_wheel_configuration_value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - drive-wheel-configuration-value
 - drive_wheel_configuration_value
 - DriveWheelConfigurationValue
 - is_a_drive_wheel_configuration_value
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- drive_wheel_configuration_value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_drive_wheel_configuration_value Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_drive_wheel_configuration_value Class"
+type: Type
 ---
 
 Class of all drive_wheel_configuration_values.

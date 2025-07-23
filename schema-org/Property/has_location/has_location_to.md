@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_to
-linkTitle: has_location_to
-
-keywords: [to_location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - to-location
 - to_location
 - toLocation
 - has_location_to
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- to_location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_to
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_to
+type: Pred_geo
 ---
 
 Predicate to describe the geo of ExerciseAction, InsertAction, MoveAction, TransferAction.

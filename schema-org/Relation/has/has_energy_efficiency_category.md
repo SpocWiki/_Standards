@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_energy_efficiency_category
-
-linkTitle: has_energy_efficiency_category
-keywords: [energy, efficiency, category]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-energy-efficiency-category
 - energy_efficiency_category
 - hasEnergyEfficiencyCategory
 - has_energy_efficiency_category
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- energy
+- efficiency
+- category
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_energy_efficiency_category
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_energy_efficiency_category
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

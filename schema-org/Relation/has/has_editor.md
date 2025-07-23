@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- editor
+- has_editor
+- "schema:editor"
+- "dbo:editor"
+- "wdt:P98"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_editor
-linkTitle: has_editor
 keywords:
-  - editor
+- editor
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_editor
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - editor
-  - has_editor
-  - schema:editor
-  - dbo:editor
-  - wdt:P98
+- class/Relation
+- schema-org/Relation
+title: has_editor
+type: Predi_Relation
 ---
 
 Use it like this: 

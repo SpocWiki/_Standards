@@ -1,47 +1,53 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? ISO3166-1-Alpha-2: 
+  : 
+- ? ISO3166-1-Alpha-3: 
+  : 
+- ? CLDR_display_name: 
+  : 
+- ? name-en: 
+  : 
+- ? name-es: 
+  : 
+- ? name-fr: 
+  : 
+- ? name-ar: 
+  : 
+- ? name-cn: 
+  : 
+- ? name-ru: 
+  : 
+- ? UNTERM_English_Formal: 
+  : 
+- ? UNTERM_English: 
+  : 
+- ? UNTERM_Spanish_Formal: 
+  : 
+- ? UNTERM_Spanish: 
+  : 
 confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
-publish: true
-
-# Hugo Tags
-type: Country
-title: {{CLDR_display_name}}
-
-linkTitle: 
 keywords: 
+Languages:
+- ? Languages: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
 tags:
 - geo/Country
-
-aliases:
-- {{ISO3166-1-Alpha-2}}
-- {{ISO3166-1-Alpha-3}}
-- {{CLDR_display_name}}
-- {{name-en}}
-- {{name-es}}
-- {{name-fr}}
-- {{name-ar}}
-- {{name-cn}}
-- {{name-ru}}
-- {{UNTERM_English_Formal}}
-- {{UNTERM_English}}
-- {{UNTERM_Spanish_Formal}}
-- {{UNTERM_Spanish}}
-
-Languages: [{{Languages}}]
-
-
+title:
+  ? CLDR_display_name: 
+  : 
+type: Country
 ---
 
 [	ISO4217-currency_alphabetic	 :: {{ISO4217-currency_alphabetic}} ]

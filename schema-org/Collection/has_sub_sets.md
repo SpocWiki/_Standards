@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-csssets: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_sub_sets
-
-linkTitle: has_sub_sets
-keywords: [part]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-sub-sets
 - sub-sets
 - hassub-sets
 - has_sub_sets
+confidential: public
+csssets: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- part
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sub_sets
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_sub_sets
+type: Predi_Relation
 ---
 
 # [[has_sub_sets]] 

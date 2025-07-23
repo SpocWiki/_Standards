@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_example_of_work
-
-linkTitle: has_example_of_work
-keywords: [example, of, work]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - example-of-work
 - example_of_work
 - exampleOfWork
 - has_example_of_work
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- example
+- of
+- work
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_example_of_work
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_example_of_work
+type: Predi_Relation
 ---
 
 A [[../../Class/is_a_/creative_work|creative_work]] that this work is an example/instance/realization/derivation of.

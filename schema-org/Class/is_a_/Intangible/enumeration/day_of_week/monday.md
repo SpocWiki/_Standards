@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_monday Class
-linkTitle: is_a_monday Class
-
-keywords: [monday]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DayOfWeek
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - monday
 - monday
 - Monday
 - is_a_monday
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DayOfWeek
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- monday
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_monday Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_monday Class"
+type: Type
 ---
 
 Class of all mondays.

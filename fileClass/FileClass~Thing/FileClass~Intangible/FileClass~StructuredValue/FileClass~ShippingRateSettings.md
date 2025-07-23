@@ -1,54 +1,54 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ShippingRateSettings
-  - class/Thing/Intangible/StructuredValue/ShippingRateSettings
-  - is_a_/ShippingRateSettings
-  - schema-org/ShippingRateSettings
-tags:
-  - class/FileClass
-  - class/ShippingRateSettings
-  - is_a_/ShippingRateSettings
-  - class/Thing/Intangible/StructuredValue/ShippingRateSettings
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: F4bvvd
-    name: DoesNotShip
-    options: {}
-    type: Boolean
-    path: ""
-  - id: Z8UjUq
-    name: FreeShippingThreshold
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification')
-    type: MultiFile
-    path: ""
-  - id: AmcyyQ
-    name: IsUnlabelledFallback
-    options: {}
-    type: Boolean
-    path: ""
-  - id: TVnk0K
-    name: ShippingDestination
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
-    type: MultiFile
-    path: ""
-  - id: grvxDG
-    name: ShippingLabel
-    options: {}
-    type: Input
-    path: ""
-  - id: DQnppg
-    name: ShippingRate
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
+- id: F4bvvd
+  name: DoesNotShip
+  options: {}
+  type: Boolean
+  path: ''
+- id: Z8UjUq
+  name: FreeShippingThreshold
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification')"
+  type: MultiFile
+  path: ''
+- id: AmcyyQ
+  name: IsUnlabelledFallback
+  options: {}
+  type: Boolean
+  path: ''
+- id: TVnk0K
+  name: ShippingDestination
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')"
+  type: MultiFile
+  path: ''
+- id: grvxDG
+  name: ShippingLabel
+  options: {}
+  type: Input
+  path: ''
+- id: DQnppg
+  name: ShippingRate
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ShippingRateSettings
+- class/Thing/Intangible/StructuredValue/ShippingRateSettings
+- is_a_/ShippingRateSettings
+- schema-org/ShippingRateSettings
+tags:
+- class/FileClass
+- class/ShippingRateSettings
+- is_a_/ShippingRateSettings
+- class/Thing/Intangible/StructuredValue/ShippingRateSettings
+version: 2.0
 ---
 
 # ShippingRateSettings

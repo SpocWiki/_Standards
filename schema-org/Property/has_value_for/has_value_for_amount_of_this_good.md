@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_amount-of-this-good
-linkTitle: has_amount-of-this-good
-
-keywords: [amount-of-this-good]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - amount_of_this_good
 - amount-of-this-good
 - amountOfThisGood
 - has_value_for_amount_of_this_good
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- amount-of-this-good
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_amount-of-this-good
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_amount-of-this-good
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of TypeAndQuantityNode.

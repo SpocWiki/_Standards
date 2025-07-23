@@ -1,46 +1,46 @@
----
-has_id_wikidata: Q11028
-has_cause:
-- '[[_Standards/WikiData/WD~signal,174984]]'
-- "[[_Standards/WikiData/WD~raw_data,2110223]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~accuracy_and_precision,272035]]"
-used_by:
-- '[[_Standards/WikiData/WD~informetrics,355654]]'
-- "[[_Standards/WikiData/WD~information_curation,65770360]]"
-different_from: '[[_Standards/WikiData/WD~Information,3150833]]'
-has_characteristic:
-- "[[_Standards/WikiData/WD~information_quality,3412851]]"
-- "[[_Standards/WikiData/WD~information_form,21550682]]"
+﻿---
+Commons_category: Information
+Commons_gallery: Information
+described_at_URL:
+- "http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277216/norma.htm"
+- "http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm"
 described_by_source:
-- "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-maintained_by_WikiProject:
-- "[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]"
-- "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-- "[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]"
-- "[[_Standards/WikiData/WD~WikiProject_Cognitive_science,11755993]]"
-subclass_of: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~information,71699827]]'
-has_effect: '[[_Standards/WikiData/WD~knowledge,9081]]'
-studied_in: "[[_Standards/WikiData/WD~information_science,16387]]"
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 Dewey_Decimal_Classification:
 - 020
 - 306.42
 - 621.3822
 - 003.54
 - 302.24
-OmegaWiki_Defined_Meaning: 1935
-Commons_gallery: Information
-Commons_category: Information
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20Universe.jpg"
-described_at_URL:
-- "http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277216/norma.htm"
-- "http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm"
-logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Info%20Simple%20bw.svg"
-label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20informer.ogv"
+different_from: '[[_Standards/WikiData/WD~Information,3150833]]'
+has_cause:
+- '[[_Standards/WikiData/WD~signal,174984]]'
+- '[[_Standards/WikiData/WD~raw_data,2110223]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~information_quality,3412851]]'
+- '[[_Standards/WikiData/WD~information_form,21550682]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~accuracy_and_precision,272035]]'
+has_effect: '[[_Standards/WikiData/WD~knowledge,9081]]'
+has_id_wikidata: Q11028
 IEV_number:
 - 171-01-01
 - 701-01-01
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20Universe.jpg"
+label_in_sign_language: "http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20informer.ogv"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Info%20Simple%20bw.svg"
+maintained_by_WikiProject:
+- '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]'
+- '[[_Standards/WikiData/WD~WikiProject_Cognitive_science,11755993]]'
+OmegaWiki_Defined_Meaning: 1935
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~information,71699827]]'
+studied_in: '[[_Standards/WikiData/WD~information_science,16387]]'
+subclass_of: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
+used_by:
+- '[[_Standards/WikiData/WD~informetrics,355654]]'
+- '[[_Standards/WikiData/WD~information_curation,65770360]]'
 ---
 
 ## #has_/text_of_/abstract 

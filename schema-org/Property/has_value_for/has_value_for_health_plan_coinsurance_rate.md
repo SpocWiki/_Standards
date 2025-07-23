@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_health-plan-coinsurance-rate
-linkTitle: has_health-plan-coinsurance-rate
-
-keywords: [health-plan-coinsurance-rate]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - health_plan_coinsurance_rate
 - health-plan-coinsurance-rate
 - healthPlanCoinsuranceRate
 - has_value_for_health_plan_coinsurance_rate
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health-plan-coinsurance-rate
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_health-plan-coinsurance-rate
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_health-plan-coinsurance-rate
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of HealthPlanCostSharingSpecification.

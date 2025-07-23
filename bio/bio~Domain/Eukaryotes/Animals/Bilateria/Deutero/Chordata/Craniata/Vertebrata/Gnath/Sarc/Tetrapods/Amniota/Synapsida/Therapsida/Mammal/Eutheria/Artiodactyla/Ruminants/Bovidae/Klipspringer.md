@@ -1,9 +1,9 @@
----
-title: Oreotragus oreotragus
+﻿---
 aliases:
-  - Oreotragus oreotragus
-  - Oreotragus
-  - klipspringer
+- "Oreotragus oreotragus"
+- Oreotragus
+- klipspringer
+title: "Oreotragus oreotragus"
 ---
 
 # [[Klipspringer]] 

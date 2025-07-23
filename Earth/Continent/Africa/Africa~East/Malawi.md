@@ -136,7 +136,7 @@ motto_text:
 - "Undod a Rhyddid"
 - "Unity and Freedom"
 official_name:
-- "la République du Malawi"
+  - "la République du Malawi"
   - Malawi
   - Malawi
 short_name: "\U0001F1F2\U0001F1FC"

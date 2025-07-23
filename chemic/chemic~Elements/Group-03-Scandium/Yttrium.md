@@ -1,13 +1,48 @@
----
-type: Element
-SpocWebEntityId: 21937
-has_id_wikidata: Q941
-part_of:
-- "[[_Standards/WikiData/WD~group_3,108307]]"
-- "[[_Standards/WikiData/WD~period_5,244982]]"
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~yttrium_exposure,21175428]]'
+atomic_number: 39
+boiling_point: 5301
+canonical_SMILES: '[Y]'
+CAS_Registry_Number: 7440-65-5
+chemical_formula: Y
+Commons_category: Yttrium
+Commons_gallery: Yttrium
+Common_Procurement_Vocabulary_code: 14734000
+CPV_Supplementary_code: AA17
+density: 4.47
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+Dewey_Decimal_Classification:
+- 546.403
+- 669.2903
+different_from: '[[_Standards/WikiData/WD~ITR,3789894]]'
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Johan_Gadolin,312571]]"
-- "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
+- '[[_Standards/WikiData/WD~Johan_Gadolin,312571]]'
+- '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
+DSSTOX_compound_identifier: DTXCID4029775
+EC_number: 231-174-8
+electronegativity: 1
+electron_configuration: "[Kr] 4d¹ 5s²"
+element_symbol: Y
+Gmelin_number: 16319
+has_effect: '[[_Standards/WikiData/WD~yttrium_exposure,21175428]]'
+has_id_wikidata: Q941
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Yttrium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
+immediately_dangerous_to_life_or_health: 500
+InChI: InChI=1S/Y
+InChIKey: VWQVUPCCIRVNHF-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.9
+- 1.02
+- 1.08
+location_of_discovery: '[[_Standards/WikiData/WD~Finland,33]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
 - '[[_Standards/WikiData/WD~churchite-(Y),1089901]]'
@@ -122,65 +157,30 @@ made_from_material:
 - '[[_Standards/WikiData/WD~changesite-(Y),113862335]]'
 - '[[_Standards/WikiData/WD~pendevilleite-(Y),114793518]]'
 - '[[_Standards/WikiData/WD~nacareniobsite-(Y),117286669]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-different_from: '[[_Standards/WikiData/WD~ITR,3789894]]'
-ZVG_number: 7390
-PubChem_CID: 23993
-chemical_formula: Y
-element_symbol: Y
-Gmelin_number: 16319
-canonical_SMILES: '[Y]'
-OmegaWiki_Defined_Meaning: 370956
-time_of_discovery_or_invention: "1787"
-associated_hazard: "[[_Standards/WikiData/WD~yttrium_exposure,21175428]]"
-has_effect: "[[_Standards/WikiData/WD~yttrium_exposure,21175428]]"
-Commons_gallery: Yttrium
-Commons_category: Yttrium
-CPV_Supplementary_code: AA17
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Yttrium%20spoken.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Yttrium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
-electron_configuration: "[Kr] 4d¹ 5s²"
-Common_Procurement_Vocabulary_code: 14734000
-EC_number: 231-174-8
-Dewey_Decimal_Classification:
-- 546.403
-- 669.2903
-UNII: 58784XQC3Y
-CAS_Registry_Number: 7440-65-5
-DSSTOX_compound_identifier: DTXCID4029775
-InChI: InChI=1S/Y
-InChIKey: VWQVUPCCIRVNHF-UHFFFAOYSA-N
-RTECS_number: ZG2980000
-Unicode_character: 釔
 mass: 88.905838
+melting_point: 2732
 MeSH_tree_code:
 - D01.268.558.975
 - D01.268.956.890
 - D01.552.550.975
-subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
-location_of_discovery: '[[_Standards/WikiData/WD~Finland,33]]'
-vapor_pressure: 0
-time_weighted_average_exposure_limit: 1
-electronegativity: 1
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
+OmegaWiki_Defined_Meaning: 370956
 oxidation_state: 3
-immediately_dangerous_to_life_or_health: 500
-ionic_radius:
-- 0.9
-- 1.02
-- 1.08
-atomic_number: 39
-density: 4.47
-melting_point: 2732
-boiling_point: 5301
+part_of:
+- '[[_Standards/WikiData/WD~group_3,108307]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+PubChem_CID: 23993
+RTECS_number: ZG2980000
+SpocWebEntityId: 21937
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Yttrium%20spoken.ogg"
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
+time_of_discovery_or_invention: 1787
+time_weighted_average_exposure_limit: 1
+type: Element
+Unicode_character: 釔
+UNII: 58784XQC3Y
+vapor_pressure: 0
+ZVG_number: 7390
 ---
 
 #chemic/Element 

@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TouristTrip
-  - class/Thing/Intangible/Trip/TouristTrip
-  - is_a_/TouristTrip
-  - schema-org/TouristTrip
-tags:
-  - class/FileClass
-  - class/TouristTrip
-  - is_a_/TouristTrip
-  - class/Thing/Intangible/Trip/TouristTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: im8Kuw
-    name: TouristType
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
+- id: im8Kuw
+  name: TouristType
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TouristTrip
+- class/Thing/Intangible/Trip/TouristTrip
+- is_a_/TouristTrip
+- schema-org/TouristTrip
+tags:
+- class/FileClass
+- class/TouristTrip
+- is_a_/TouristTrip
+- class/Thing/Intangible/Trip/TouristTrip
+version: 2.0
 ---
 
 # TouristTrip

@@ -22,10 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Burundi
-  - بوروندي
-  - 布隆迪
-  - Бурунди
+- Burundi
+- بوروندي
+- 布隆迪
+- Бурунди
 - "the Republic of Burundi"
 - "la República de Burundi"
 Languages:
@@ -192,9 +192,9 @@ motto_text:
 official_name:
 - "Republic of Burundi"
 - "République du Burundi"
-  - Uburundi
+- Uburundi
 short_name:
-  - Burundi
+- Burundi
 - "\U0001F1E7\U0001F1EE"
 native_label: Uburundi
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg"

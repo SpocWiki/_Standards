@@ -1,11 +1,10 @@
----
+﻿---
 aliases:
-  - Rail transportation
-  - Rail transport
-  - Train transportation
-  - Train transport
+- "Rail transportation"
+- "Rail transport"
+- "Train transportation"
+- "Train transport"
 ---
-
 
 ## #has_/text_of_/abstract 
 

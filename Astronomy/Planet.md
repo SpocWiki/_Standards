@@ -1,46 +1,38 @@
----
-has_id_wikidata: Q634
+﻿---
+child_astronomical_body: '[[_Standards/WikiData/WD~artificial_satellite,26540]]'
+Colon_Classification: B94
 Commons_category: Planets
-Unicode_character: 🪐 
+described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#planet"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
 - '[[_Standards/WikiData/WD~Planetes,95063]]'
 - '[[_Standards/WikiData/WD~Planeta,1206832]]'
 - '[[_Standards/WikiData/WD~Planet,1817113]]'
+equivalent_class: "http://dbpedia.org/ontology/Planet"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_01000800"
 has_characteristic:
 - '[[_Standards/WikiData/WD~radius,173817]]'
-- "[[_Standards/WikiData/WD~orbital_elements,272626]]"
-- "[[_Standards/WikiData/WD~clearing_the_neighbourhood,681824]]"
-- "[[_Standards/WikiData/WD~surface_area,1379273]]"
-- "[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]"
+- '[[_Standards/WikiData/WD~orbital_elements,272626]]'
+- '[[_Standards/WikiData/WD~clearing_the_neighbourhood,681824]]'
+- '[[_Standards/WikiData/WD~surface_area,1379273]]'
+- '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]'
 - '[[_Standards/WikiData/WD~age,100343219]]'
 - '[[_Standards/WikiData/WD~mass,11423]]'
 - '[[_Standards/WikiData/WD~volume,39297]]'
-part_of: "[[_Standards/WikiData/WD~planetary_system,206717]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~planetary-mass_object,400144]]"
-- "[[_Standards/WikiData/WD~substellar_object,3132741]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~star_system,595871]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-next_lower_rank:
-- "[[_Standards/WikiData/WD~minor_planet,1022867]]"
-- "[[_Standards/WikiData/WD~natural_satellite,2537]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_planet,5864499]]"
-- '[[_Standards/WikiData/WD~Q22772854,22772854]]'
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Planet,110737024]]'
-Provenio_UUID: f95dd27c-36b7-42cc-afb3-bb39d733c282
-UMLS_CUI: C0080026
+has_id_wikidata: Q634
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Montage%20of%20Our%20Solar%20System.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Planet2.ogg"
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+MeSH_tree_code:
+- G01.060.075.680
+- G01.060.075.730.700
 model_item:
 - '[[_Standards/WikiData/WD~Mercury,308]]'
 - '[[_Standards/WikiData/WD~Jupiter,319]]'
@@ -48,19 +40,27 @@ model_item:
 - '[[_Standards/WikiData/WD~Mars,111]]'
 - '[[_Standards/WikiData/WD~Saturn,193]]'
 next_higher_rank: '[[_Standards/WikiData/WD~star,523]]'
-child_astronomical_body: "[[_Standards/WikiData/WD~artificial_satellite,26540]]"
-Colon_Classification: B94
-equivalent_class: "http://dbpedia.org/ontology/Planet"
-exact_match: "http://purl.obolibrary.org/obo/ENVO_01000800"
+next_lower_rank:
+- '[[_Standards/WikiData/WD~minor_planet,1022867]]'
+- '[[_Standards/WikiData/WD~natural_satellite,2537]]'
+OmegaWiki_Defined_Meaning: 7942
+parent_astronomical_body: '[[_Standards/WikiData/WD~star_system,595871]]'
+part_of: '[[_Standards/WikiData/WD~planetary_system,206717]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Planet,110737024]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Planet2.ogg"
+Provenio_UUID: f95dd27c-36b7-42cc-afb3-bb39d733c282
 Stack_Exchange_tag:
 - "https://astronomy.stackexchange.com/tags/planet"
 - "https://physics.stackexchange.com/tags/planets"
-described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#planet"
+subclass_of:
+- '[[_Standards/WikiData/WD~planetary-mass_object,400144]]'
+- '[[_Standards/WikiData/WD~substellar_object,3132741]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_planet,5864499]]'
+- '[[_Standards/WikiData/WD~Q22772854,22772854]]'
+UMLS_CUI: C0080026
+Unicode_character: "\U0001FA90"
 U_S_National_Archives_Identifier: 10646853
-OmegaWiki_Defined_Meaning: 7942
-MeSH_tree_code:
-- G01.060.075.680
-- G01.060.075.730.700
 ---
 
 ## #has_/text_of_/abstract 

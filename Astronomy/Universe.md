@@ -1,44 +1,20 @@
----
-has_id_wikidata: Q1
-shape:
-- "http://www.wikidata.org/.well-known/genid/174b843fbdcde70c032c4283b79470a8"
-- '[[_Standards/WikiData/WD~flatness,5457948]]'
+﻿---
+Baidu_Tieba_name: 宇宙
+Commons_category: Universe
+contains:
+- '[[_Standards/WikiData/WD~dark_matter,79925]]'
+- '[[_Standards/WikiData/WD~baryonic_matter,6005984]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343]]'
+density: 9.9e-27
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Audubon_Society_Field_Guide_To_The_Night_Sky,88672152]]'
+- '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]'
 Dewey_Decimal_Classification:
 - 523.1
 - 113
-Iconclass_notation: 51A11
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Evren%20-%20T%C3%BCrk%C3%A7e%20telaffuz%20sesi.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Alam%20Semesta.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Universum.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Welche%20Form%20hat%20das%20Universum%3F.webm"
-Baidu_Tieba_name: 宇宙
-named_by: "[[_Standards/WikiData/WD~Philipp_von_Zesen,76458]]"
-contains:
-- "[[_Standards/WikiData/WD~dark_matter,79925]]"
-- "[[_Standards/WikiData/WD~baryonic_matter,6005984]]"
-- "[[_Standards/WikiData/WD~dark_energy,18343]]"
-has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~dark_matter,79925]]"
-- '[[_Standards/WikiData/WD~field,185674]]'
-- "[[_Standards/WikiData/WD~intergalactic_dust,2504088]]"
-- "[[_Standards/WikiData/WD~baryonic_matter,6005984]]"
-- "[[_Standards/WikiData/WD~physical_substance,28732711]]"
-- "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-- "[[_Standards/WikiData/WD~dark_energy,18343]]"
-has_characteristic:
-- "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
-- '[[_Standards/WikiData/WD~gravity,11412]]'
-has_part_s_:
-- '[[_Standards/WikiData/WD~spacetime,133327]]'
-- "[[_Standards/WikiData/WD~observable_universe,221392]]"
-- "[[_Standards/WikiData/WD~galaxy_filament,1133705]]"
-- "[[_Standards/WikiData/WD~outer_space,4169]]"
-history_of_topic: "[[_Standards/WikiData/WD~chronology_of_the_universe,136407]]"
-studied_in:
-- '[[_Standards/WikiData/WD~cosmogony,170835]]'
-- '[[_Standards/WikiData/WD~cosmology,338]]'
+diameter: 8.8e+23
 different_from:
 - '[[_Standards/WikiData/WD~Bydysawd,229206]]'
 - '[[_Standards/WikiData/WD~Cosmos,229275]]'
@@ -52,40 +28,64 @@ different_from:
 - '[[_Standards/WikiData/WD~Universum,7896833]]'
 - '[[_Standards/WikiData/WD~Al,12784077]]'
 - '[[_Standards/WikiData/WD~Wszechświat,16072065]]'
-- "[[_Standards/WikiData/WD~Alam_semesta,16289348]]"
-- "[[_Standards/WikiData/WD~Vũ_trụ,18461356]]"
+- '[[_Standards/WikiData/WD~Alam_semesta,16289348]]'
+- '[[_Standards/WikiData/WD~Vũ_trụ,18461356]]'
 - '[[_Standards/WikiData/WD~Kosmosas,20503137]]'
 - '[[_Standards/WikiData/WD~Univers,23893549]]'
 - '[[_Standards/WikiData/WD~Universe,28336911]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~The_Audubon_Society_Field_Guide_To_The_Night_Sky,88672152]]"
-- "[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072]]"
-significant_event:
-- "[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317]]"
-- "[[_Standards/WikiData/WD~photon_epoch,1079806]]"
-- "[[_Standards/WikiData/WD~lepton_epoch,1079826]]"
-- "[[_Standards/WikiData/WD~quark_epoch,1208634]]"
-- "[[_Standards/WikiData/WD~hadron_epoch,3491753]]"
-does_not_have_part: "[[_Standards/WikiData/WD~parallel_universe,2051667]]"
-opposite_of: '[[_Standards/WikiData/WD~antiverse,4067028]]'
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Universe_navboxes,6312136]]"
-- '[[_Standards/WikiData/WD~Template_Universe,22903368]]'
+does_not_have_part: '[[_Standards/WikiData/WD~parallel_universe,2051667]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+has_id_wikidata: Q1
+has_part_s_:
+- '[[_Standards/WikiData/WD~spacetime,133327]]'
+- '[[_Standards/WikiData/WD~observable_universe,221392]]'
+- '[[_Standards/WikiData/WD~galaxy_filament,1133705]]'
+- '[[_Standards/WikiData/WD~outer_space,4169]]'
+has_part_s_of_the_class:
+- '[[_Standards/WikiData/WD~dark_matter,79925]]'
+- '[[_Standards/WikiData/WD~field,185674]]'
+- '[[_Standards/WikiData/WD~intergalactic_dust,2504088]]'
+- '[[_Standards/WikiData/WD~baryonic_matter,6005984]]'
+- '[[_Standards/WikiData/WD~physical_substance,28732711]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343]]'
+has_time_started: -13798000000
+history_of_topic: '[[_Standards/WikiData/WD~chronology_of_the_universe,136407]]'
+Iconclass_notation: 51A11
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg"
 instance_of: '[[_Standards/WikiData/WD~universe,36906466]]'
+mass: 1e+53
+named_by: '[[_Standards/WikiData/WD~Philipp_von_Zesen,76458]]'
+OmegaWiki_Defined_Meaning: 8506
+opposite_of: '[[_Standards/WikiData/WD~antiverse,4067028]]'
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Evren%20-%20T%C3%BCrk%C3%A7e%20telaffuz%20sesi.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ms-MY-Alam%20Semesta.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Universum.ogg"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~world,16502]]'
+shape:
+- "http://www.wikidata.org/.well-known/genid/174b843fbdcde70c032c4283b79470a8"
+- '[[_Standards/WikiData/WD~flatness,5457948]]'
+significant_event:
+- '[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317]]'
+- '[[_Standards/WikiData/WD~photon_epoch,1079806]]'
+- '[[_Standards/WikiData/WD~lepton_epoch,1079826]]'
+- '[[_Standards/WikiData/WD~quark_epoch,1208634]]'
+- '[[_Standards/WikiData/WD~hadron_epoch,3491753]]'
 Stack_Exchange_tag:
 - "https://physics.stackexchange.com/tags/universe"
 - "https://astronomy.stackexchange.com/tags/universe"
 - "https://philosophy.stackexchange.com/tags/universe"
-start_time: "-13798000000" 
-has_time_started: "-13798000000"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~world,16502]]'
-mass: 1e+53
-diameter: 8.8e+23
-density: 9.9e-27
-OmegaWiki_Defined_Meaning: 8506
-Commons_category: Universe
+start_time: -13798000000
+studied_in:
+- '[[_Standards/WikiData/WD~cosmogony,170835]]'
+- '[[_Standards/WikiData/WD~cosmology,338]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Universe_navboxes,6312136]]'
+- '[[_Standards/WikiData/WD~Template_Universe,22903368]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Welche%20Form%20hat%20das%20Universum%3F.webm"
 ---
 
 ## #has_/text_of_/abstract 

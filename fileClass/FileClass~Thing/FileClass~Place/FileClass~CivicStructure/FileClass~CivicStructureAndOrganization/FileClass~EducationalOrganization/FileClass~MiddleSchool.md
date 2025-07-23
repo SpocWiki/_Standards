@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: school
-version: "2.0"
-tagNames:
-  - class/MiddleSchool
-  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool
-  - is_a_/MiddleSchool
-  - schema-org/MiddleSchool
-tags:
-  - class/FileClass
-  - class/MiddleSchool
-  - is_a_/MiddleSchool
-  - class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization
 fields: []
+icon: school
+limit: 9
+mapWithTag: false
+tagNames:
+- class/MiddleSchool
+- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool
+- is_a_/MiddleSchool
+- schema-org/MiddleSchool
+tags:
+- class/FileClass
+- class/MiddleSchool
+- is_a_/MiddleSchool
+- class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool
+version: 2.0
 ---
 
 # MiddleSchool

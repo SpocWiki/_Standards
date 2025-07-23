@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_publication_volume Class
-linkTitle: is_a_publication_volume Class
-
-keywords: [publication_volume]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - publication-volume
 - publication_volume
 - PublicationVolume
 - is_a_publication_volume
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- publication_volume
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_publication_volume Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_publication_volume Class"
+type: Type
 ---
 
 Class of all publication_volumes.

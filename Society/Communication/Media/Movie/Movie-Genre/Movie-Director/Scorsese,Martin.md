@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Martin Scorsese
-  - Martin Charles Scorsese
+- "Martin Scorsese"
+- "Martin Charles Scorsese"
 ---
 
 #has_/time_/started :: 1942-11-17 

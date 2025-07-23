@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Simplified Molecular Input Line Entry System
+- "Simplified Molecular Input Line Entry System"
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
-  - Tamil
+- Tamil
 tags:
-  - Lang/ta
+- Lang/ta
+type: Lang
 ---
+
 # [[Lang-ta]] 
 
 [SpocWebEntityId:: 458 ]

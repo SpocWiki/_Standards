@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_measured_value
-
-linkTitle: has_measured_value
-keywords: [measured, value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - measured-value
 - measured_value
 - measuredValue
 - has_measured_value
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- measured
+- value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_measured_value
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_measured_value
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

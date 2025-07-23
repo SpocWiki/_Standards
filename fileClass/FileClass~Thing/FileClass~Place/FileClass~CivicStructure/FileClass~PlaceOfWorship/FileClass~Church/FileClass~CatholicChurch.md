@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CatholicChurch
-  - class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch
-  - is_a_/CatholicChurch
-  - schema-org/CatholicChurch
-tags:
-  - class/FileClass
-  - class/CatholicChurch
-  - is_a_/CatholicChurch
-  - class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: false
+tagNames:
+- class/CatholicChurch
+- class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch
+- is_a_/CatholicChurch
+- schema-org/CatholicChurch
+tags:
+- class/FileClass
+- class/CatholicChurch
+- is_a_/CatholicChurch
+- class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch
+version: 2.0
 ---
 
 # CatholicChurch

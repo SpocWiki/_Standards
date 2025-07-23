@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Mexico
-  - México
-  - Mexique
-  - المكسيك
-  - 墨西哥
-  - Мексика
+- Mexico
+- México
+- Mexique
+- المكسيك
+- 墨西哥
+- Мексика
 - "the United Mexican States"
 - "los Estados Unidos Mexicanos"
 Languages:
@@ -250,7 +250,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Opata,2304583]]'
 - "[[_Standards/WikiData/WD~Temascaltepec_Nahuatl,2379405]]"
 - "[[_Standards/WikiData/WD~Isthmus-Pajapan_Nahuatl,2391273]]"
-  - "[[_Standards/WikiData/WD~O'odham,2393095]]"
+- "[[_Standards/WikiData/WD~O'odham,2393095]]"
 - "[[_Standards/WikiData/WD~Huaxcaleca_Nahuatl,2454915]]"
 - "[[_Standards/WikiData/WD~Ometepec_Náhuatl,2579500]]"
 - "[[_Standards/WikiData/WD~Western_Huasteca_Nahuatl,2678840]]"
@@ -512,7 +512,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Mazahua,36228]]'
 - '[[_Standards/WikiData/WD~Seri,36583]]'
 - '[[_Standards/WikiData/WD~Tektitek,36686]]'
-  - "[[_Standards/WikiData/WD~Tojolab'al,36762]]"
+- "[[_Standards/WikiData/WD~Tojolab'al,36762]]"
 - '[[_Standards/WikiData/WD~Purépecha,36803]]'
 - '[[_Standards/WikiData/WD~Tzeltal,36808]]'
 - '[[_Standards/WikiData/WD~Tzotzil,36809]]'
@@ -595,12 +595,12 @@ Dewey_Decimal_Classification: 2--72
 Provenio_UUID: 461f1fe8-908d-47b0-98fb-4295967e13be
 BHCL_UUID: 5ac00524-81e0-494a-8bcb-9c58e937a0ed
 hashtag:
-  - mexicocreativo
-  - mexicolove
+- mexicocreativo
+- mexicolove
 - "Mi  México"
 - "Nacion    Azteca"
 - "viva México"
-  - mexico
+- mexico
 Colon_Classification: SG--74
 Krugosvet_article: strany_mira/MEKSIKA.html
 Baidu_Tieba_name: 墨西哥
@@ -624,7 +624,7 @@ official_name:
 - "המדינות המקסיקניות המאוחדות"
 - "Sjedinjene Meksičke Države"
 - "Մեքսիկայի Միացյալ Նահանգներ"
-  - メキシコ合衆国
+- メキシコ合衆国
 - "მექსიკის შეერთებული შტატები"
 - "Мексикэ Штат Зэгуэт"
 - "멕시코 합중국"
@@ -635,7 +635,7 @@ official_name:
 - "Мексиканские Соединённые Штаты"
 - "Сједињене Мексичке Државе"
 - "Mexikos förenta stater"
-  - 墨西哥合众国
+- 墨西哥合众国
 - "Meksiko Serikat"
 - "Estados Unidos Mexicanos"
 demonym:
@@ -696,7 +696,7 @@ native_label:
   - Mexico
   - México
 short_name:
-- "\U0001F1F2\U0001F1FD"
+  - "\U0001F1F2\U0001F1FD"
   - México
   - Мексика
   - المكسيك

@@ -1,27 +1,27 @@
----
-has_id_wikidata: Q43777
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Port_au_Prince_Arrondissement,2222007]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~disaster,3839081]]"
-  - "[[_Standards/WikiData/WD~Q7944,7944]]"
-  - "[[_Standards/WikiData/WD~Q8065,8065]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Q6173448,6173448]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8197823,8197823]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q19942159,19942159]]"
-country: "[[_Standards/WikiData/WD~Q790,790]]"
-vertical_depth: 10
+﻿---
+bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic-trench.JPG"
+Commons_category: "2010 Haiti earthquake"
+coordinate_location: "Point(-72.445194444 18.451388888)"
+country: '[[_Standards/WikiData/WD~Q790,790]]'
 duration: 30
+earthquake_magnitude_on_the_moment_magnitude_scale: 7.15
 earthquake_magnitude_on_the_Richter_magnitude_scale: 7
+has_id_wikidata: Q43777
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20of%20Haiti%20National%20Palace%20-%20Port%20au%20Prince%202012.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~disaster,3839081]]'
+- '[[_Standards/WikiData/WD~Q7944,7944]]'
+- '[[_Standards/WikiData/WD~Q8065,8065]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Port_au_Prince_Arrondissement,2222007]]'
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Haiti%20Jan2010%20ShakeMap.png"
 number_of_deaths: 230000
 number_of_injured: 250000
-earthquake_magnitude_on_the_moment_magnitude_scale: 7.15
-coordinate_location: Point(-72.445194444 18.451388888)
-bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic-trench.JPG
-locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Haiti%20Jan2010%20ShakeMap.png
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ruins%20of%20Haiti%20National%20Palace%20-%20Port%20au%20Prince%202012.jpg
-Commons_category: 2010 Haiti earthquake
-Wolfram_Language_entity_code: Entity["HistoricalEvent", "2010HaitiEarthquake2010"]
-point_in_time: 2010-01-12T00:00:00Z
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Q6173448,6173448]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q19942159,19942159]]'
+point_in_time: "2010-01-12T00:00:00Z"
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8197823,8197823]]'
+vertical_depth: 10
+Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"2010HaitiEarthquake2010\"]"
 ---
 
 # [[2010_Haiti_earthquake]] 

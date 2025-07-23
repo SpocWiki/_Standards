@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_taxi_service Class
-linkTitle: is_a_taxi_service Class
-
-keywords: [taxi_service]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: Taxi
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - taxi-service
 - taxi_service
 - TaxiService
 - is_a_taxi_service
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- taxi_service
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_taxi_service Class"
+publish: true
+publishDate: 
+supersedes: Taxi
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_taxi_service Class"
+type: Type
 ---
 
 Class of all taxi_services.

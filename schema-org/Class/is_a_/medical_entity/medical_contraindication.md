@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_contraindication Class
-linkTitle: is_a_medical_contraindication Class
-
-keywords: [medical_contraindication]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-contraindication
 - medical_contraindication
 - MedicalContraindication
 - is_a_medical_contraindication
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_contraindication
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_contraindication Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_contraindication Class"
+type: Type
 ---
 
 Class of all medical_contraindications.

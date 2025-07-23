@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_article_section
-linkTitle: has_text_of_article_section
-
-keywords: [article, section]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - article-section
 - article_section
 - articleSection
 - has_text_of_article_section
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- article
+- section
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_article_section
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_article_section
+type: Pred_Text
 ---
 
 [[../../Predicate|Predicate]] to name the Section this [[../../Class/is_a_/creative_work/article|Article]] belongs to.

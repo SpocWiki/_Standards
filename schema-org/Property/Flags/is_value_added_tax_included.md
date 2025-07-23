@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_value_added_tax_included
-linkTitle: is_value_added_tax_included
-
-keywords: [value_added_tax_included]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - value-added-tax-included
 - value_added_tax_included
 - valueAddedTaxIncluded
 - is_value_added_tax_included
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- value_added_tax_included
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_value_added_tax_included
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_value_added_tax_included
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

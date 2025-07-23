@@ -1,9 +1,9 @@
----
-title: Mammuthus
+﻿---
 aliases:
-  - Mammuthus
-  - Mammoth
-  - Mammoths
+- Mammuthus
+- Mammoth
+- Mammoths
+title: Mammuthus
 ---
 
 # [[Mammoth]] 

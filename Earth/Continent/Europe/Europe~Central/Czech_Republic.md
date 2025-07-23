@@ -163,52 +163,52 @@ open_data_portal: "[[_Standards/WikiData/WD~Czech_National_Open_Data_Portal,9701
 Baidu_Tieba_name: 捷克
 citizen_s_initiatives_URL: "https://portal.gov.cz/e-petice/"
 demonym:
-  - Čēc
-  - تشيكي
-  - تشيكية
-  - تشيكيين
-  - تشيكيات
-  - Seiceach
-  - Czech
-  - تشيكي
-  - تشيكية
-  - تشيكيون
-  - checa
-  - checu
-  - চেক
-  - Češi
-  - tjekke
-  - tjekker
-  - Tscheche
-  - Tschechin
-  - ĉeĥo
-  - Tchèque
+- Čēc
+- تشيكي
+- تشيكية
+- تشيكيين
+- تشيكيات
+- Seiceach
+- Czech
+- تشيكي
+- تشيكية
+- تشيكيون
+- checa
+- checu
+- চেক
+- Češi
+- tjekke
+- tjekker
+- Tscheche
+- Tschechin
+- ĉeĥo
+- Tchèque
 - "צ'כי"
 - "צ'כית"
-  - cseh
-  - Chekiano
-  - ceca
-  - ceche
-  - cechi
-  - ceco
-  - txesce
-  - Tsjech
-  - ceh
-  - cehi
-  - cehoaică
-  - чех
-  - чехи
-  - чешка
-  - чеси
-  - Чех
-  - Чехиња
-  - tjeck
-  - Çek
-  - ceca
-  - ceche
-  - cechi
-  - ceco
-  - Tsyegänan
+- cseh
+- Chekiano
+- ceca
+- ceche
+- cechi
+- ceco
+- txesce
+- Tsjech
+- ceh
+- cehi
+- cehoaică
+- чех
+- чехи
+- чешка
+- чеси
+- Чех
+- Чехиња
+- tjeck
+- Çek
+- ceca
+- ceche
+- cechi
+- ceco
+- Tsyegänan
 ISNI: 000000012290990X
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg"
@@ -406,16 +406,16 @@ population: 10900555
 geoshape: "http://commons.wikimedia.org/data/main/Data:Czechia.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Czech%20Republic.svg"
 short_name:
-  - تشيكيا
-  - Česko
-  - ČR
-  - Tschechien
-  - Czechia
-  - Ĉeĥio
-  - Ĉeĥujo
-  - Chequia
-  - Tchéquie
-  - Çekya
+- تشيكيا
+- Česko
+- ČR
+- Tschechien
+- Czechia
+- Ĉeĥio
+- Ĉeĥujo
+- Chequia
+- Tchéquie
+- Çekya
 - "\U0001F1E8\U0001F1FF"
 native_label: Česko
 motto_text:

@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_bio_chem_interaction
-
-linkTitle: has_bio_chem_interaction
-keywords: [bio, chem, interaction]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - bio-chem-interaction
 - bio_chem_interaction
 - bioChemInteraction
 - has_bio_chem_interaction
-- is_bio_chem_interacting_with 
+- is_bio_chem_interacting_with
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bio
+- chem
+- interaction
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_bio_chem_interaction
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_bio_chem_interaction
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

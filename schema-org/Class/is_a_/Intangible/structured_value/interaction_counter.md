@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_interaction_counter Class
-linkTitle: is_an_interaction_counter Class
-
-keywords: [interaction_counter]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - interaction-counter
 - interaction_counter
 - InteractionCounter
 - is_an_interaction_counter
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- interaction_counter
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_interaction_counter Class"
+publish: true
+publishDate: 
+supersedes: "UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays"
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_interaction_counter Class"
+type: Type
 ---
 
 Class of all interaction_counters.

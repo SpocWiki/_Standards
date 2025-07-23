@@ -1,28 +1,27 @@
----
-has_id_wikidata: Q9283
+﻿---
 aliases:
-  - Proterozoic
-  - Протерозой
-  - Proterozoikum
-  - Proterozoikum
-  - Proterozoikum
-  - Proterozoico
-  - Proterosoikum
-  - Proterotsoikum
-  - Protérozoïque
-  - proterozoos
-  - proterozoico
-  - 原生代
-  - Proterozojus
-  - Proterozoïcum
-  - Proterozoisk
-  - Proterozoik
-  - Proterozóico
-  - proterozoikum
-  - proterozoik
-  - proterozoikum
-  - 元古宙
-  
+- Proterozoic
+- Протерозой
+- Proterozoikum
+- Proterozoikum
+- Proterozoikum
+- Proterozoico
+- Proterosoikum
+- Proterotsoikum
+- Protérozoïque
+- proterozoos
+- proterozoico
+- 原生代
+- Proterozojus
+- Proterozoïcum
+- Proterozoisk
+- Proterozoik
+- Proterozóico
+- proterozoikum
+- proterozoik
+- proterozoikum
+- 元古宙
+has_id_wikidata: Q9283
 ---
 
 # [[Eon~3~Proterozoic]] 

@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/LendAction
-  - class/Thing/Action/TransferAction/LendAction
-  - is_a_/LendAction
-  - schema-org/LendAction
-tags:
-  - class/FileClass
-  - class/LendAction
-  - is_a_/LendAction
-  - class/Thing/Action/TransferAction/LendAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: xDWple
-    name: Borrower
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
+- id: xDWple
+  name: Borrower
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LendAction
+- class/Thing/Action/TransferAction/LendAction
+- is_a_/LendAction
+- schema-org/LendAction
+tags:
+- class/FileClass
+- class/LendAction
+- is_a_/LendAction
+- class/Thing/Action/TransferAction/LendAction
+version: 2.0
 ---
 
 # LendAction

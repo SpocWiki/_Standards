@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Rambam
-  - Moses ben Maimon
+- Rambam
+- "Moses ben Maimon"
 ---
 
 # [[Maimonides]] 

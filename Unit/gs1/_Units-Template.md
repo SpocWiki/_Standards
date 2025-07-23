@@ -1,31 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Unit
-publish: true
-
-# Hugo Tags
-type: Unit
-
-title: Unit_{{Code}}
-linkTitle: Unit_{{Code}}
-
-keywords: [Unit, {{Code}}]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- gs1_/Unit
-
+﻿---
 aliases:
 - Unit_{{Code}}
 - 
+confidential: public
+cssclasses: Unit
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- Unit
+- ? Code: 
+  : 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: Unit_{{Code}}
+publish: true
+publishDate: 
+tags:
+- gs1_/Unit
+title: Unit_{{Code}}
+type: Unit
 ---
 
 {{Unit of Measure}} 

@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PayAction
-  - class/Thing/Action/TradeAction/PayAction
-  - is_a_/PayAction
-  - schema-org/PayAction
-tags:
-  - class/FileClass
-  - class/PayAction
-  - is_a_/PayAction
-  - class/Thing/Action/TradeAction/PayAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-  - id: 66yjrn
-    name: Recipient
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
+- id: 66yjrn
+  name: Recipient
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PayAction
+- class/Thing/Action/TradeAction/PayAction
+- is_a_/PayAction
+- schema-org/PayAction
+tags:
+- class/FileClass
+- class/PayAction
+- is_a_/PayAction
+- class/Thing/Action/TradeAction/PayAction
+version: 2.0
 ---
 
 # PayAction

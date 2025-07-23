@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Festival
-  - class/Thing/Event/Festival
-  - is_a_/Festival
-  - schema-org/Festival
-tags:
-  - class/FileClass
-  - class/Festival
-  - is_a_/Festival
-  - class/Thing/Event/Festival
 extends: FileClass~Thing/FileClass~Event
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Festival
+- class/Thing/Event/Festival
+- is_a_/Festival
+- schema-org/Festival
+tags:
+- class/FileClass
+- class/Festival
+- is_a_/Festival
+- class/Thing/Event/Festival
+version: 2.0
 ---
 
 # Festival

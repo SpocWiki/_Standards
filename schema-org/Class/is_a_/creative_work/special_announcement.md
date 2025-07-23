@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_special_announcement Class
-linkTitle: is_a_special_announcement Class
-
-keywords: [special_announcement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - special-announcement
 - special_announcement
 - SpecialAnnouncement
 - is_a_special_announcement
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- special_announcement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_special_announcement Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_special_announcement Class"
+type: Type
 ---
 
 Class of all special_announcements.

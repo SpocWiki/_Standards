@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Sign Language
+- "Sign Language"
 ---
 
 there are ca. 300 Sign Languages with additional Dialects. 

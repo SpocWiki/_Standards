@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_translation_of_work
-
-linkTitle: has_translation_of_work
-keywords: [translation, of, work]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - translation-of-work
 - translation_of_work
 - translationOfWork
 - has_translation_of_work
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- translation
+- of
+- work
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_translation_of_work
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_translation_of_work
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: https://bib.schema.org ]

@@ -1,39 +1,39 @@
----
+﻿---
+bookmarksGroups: 
+excludes: 
+extends: FileClass~Thing/FileClass~MedicalEntity
+favoriteView: 
+fields:
+- id: Gidz9b
+  name: ActiveIngredient
+  options: {}
+  type: Input
+  path: ''
+- id: v9ceWj
+  name: MaximumIntake
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')"
+  type: MultiFile
+  path: ''
+fieldsOrder:
+- v9ceWj
+- Gidz9b
+filesPaths: 
+icon: pill
 limit: 9
 mapWithTag: true
-excludes: 
-icon: pill
-version: "2.2"
-tagNames:
-  - class/Substance
-  - class/Thing/MedicalEntity/Substance
-  - is_a_/Substance
-  - schema-org/Substance
-tags:
-  - class/FileClass
-  - class/Substance
-  - is_a_/Substance
-  - class/Thing/MedicalEntity/Substance
-extends: FileClass~Thing/FileClass~MedicalEntity
-fields:
-  - id: Gidz9b
-    name: ActiveIngredient
-    options: {}
-    type: Input
-    path: ""
-  - id: v9ceWj
-    name: MaximumIntake
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')
-    type: MultiFile
-    path: ""
-filesPaths: 
-bookmarksGroups: 
 savedViews: []
-favoriteView: 
-fieldsOrder:
-  - v9ceWj
-  - Gidz9b
+tagNames:
+- class/Substance
+- class/Thing/MedicalEntity/Substance
+- is_a_/Substance
+- schema-org/Substance
+tags:
+- class/FileClass
+- class/Substance
+- is_a_/Substance
+- class/Thing/MedicalEntity/Substance
+version: 2.2
 ---
 
 # Substance

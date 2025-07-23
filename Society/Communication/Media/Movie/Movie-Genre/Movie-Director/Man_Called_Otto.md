@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - A Man Called Otto
+- "A Man Called Otto"
 ---
-
 
 ## #has_/text_of_/abstract 
 

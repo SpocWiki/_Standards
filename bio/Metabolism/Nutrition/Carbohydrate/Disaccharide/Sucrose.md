@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Saccharose
+- Saccharose
 ---
 
 #is_/instance_of :: [[../Disaccharide]]

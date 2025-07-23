@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - autonomous sensory meridian response
+- "autonomous sensory meridian response"
 ---
 
 ## #has_/text_of_/abstract 

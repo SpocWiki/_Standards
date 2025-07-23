@@ -1,43 +1,43 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BusTrip
-  - class/Thing/Intangible/Trip/BusTrip
-  - is_a_/BusTrip
-  - schema-org/BusTrip
-tags:
-  - class/FileClass
-  - class/BusTrip
-  - is_a_/BusTrip
-  - class/Thing/Intangible/Trip/BusTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: Trvs14
-    name: ArrivalBusStop
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BusStation')
-    type: MultiFile
-    path: ""
-  - id: 0znFtX
-    name: BusName
-    options: {}
-    type: Input
-    path: ""
-  - id: zWEAKu
-    name: BusNumber
-    options: {}
-    type: Input
-    path: ""
-  - id: il4Cpq
-    name: DepartureBusStop
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BusStation')
-    type: MultiFile
-    path: ""
+- id: Trvs14
+  name: ArrivalBusStop
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/BusStation')"
+  type: MultiFile
+  path: ''
+- id: 0znFtX
+  name: BusName
+  options: {}
+  type: Input
+  path: ''
+- id: zWEAKu
+  name: BusNumber
+  options: {}
+  type: Input
+  path: ''
+- id: il4Cpq
+  name: DepartureBusStop
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/CivicStructure/BusStation')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BusTrip
+- class/Thing/Intangible/Trip/BusTrip
+- is_a_/BusTrip
+- schema-org/BusTrip
+tags:
+- class/FileClass
+- class/BusTrip
+- is_a_/BusTrip
+- class/Thing/Intangible/Trip/BusTrip
+version: 2.0
 ---
 
 # BusTrip

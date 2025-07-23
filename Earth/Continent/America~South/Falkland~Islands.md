@@ -1,17 +1,17 @@
 ---
-location:
-    - -51.7
-    - -57.85
-type: Country
-tags:
-    - geo/Country
 aliases:
-    - Malvinas
-    - null
-SpocWebEntityId: 26893
-isDeleted: false
+- Malvinas
+- 
 confidential: public
 icon: flag-fk
+isDeleted: false
+location:
+- -51.7
+- -57.85
+SpocWebEntityId: 26893
+tags:
+- geo/Country
+type: Country
 ---
 
 # [[Falkland~Islands]] 

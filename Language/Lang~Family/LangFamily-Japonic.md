@@ -1,8 +1,9 @@
----
-type: LangFamily
-tags: 
+﻿---
+tags:
 - Lang_Family
+type: LangFamily
 ---
+
 [SpocWebEntityId:: 248 ]
 [Name::Japanese~Ryukyu]
 

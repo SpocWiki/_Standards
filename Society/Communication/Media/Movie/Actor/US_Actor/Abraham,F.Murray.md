@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - F.Murray Abraham
+- "F.Murray Abraham"
 ---
 
 #has_/time_/started :: 1939-10-24  

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Tom Scholz
+- "Tom Scholz"
 ---
 
 > Donald Thomas Scholz (born March 10, 1947) is an American musician. 

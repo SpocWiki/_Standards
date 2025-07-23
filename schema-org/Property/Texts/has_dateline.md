@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_dateline
-linkTitle: has_text_of_dateline
-
-keywords: [dateline]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - dateline
 - dateline
 - dateline
 - has_text_of_dateline
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dateline
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_dateline
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_dateline
+type: Pred_Text
 ---
 
 Predicate to describe the Text of NewsArticle.

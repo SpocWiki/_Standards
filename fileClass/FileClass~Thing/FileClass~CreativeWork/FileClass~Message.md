@@ -1,78 +1,78 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Message
-  - class/Thing/CreativeWork/Message
-  - is_a_/Message
-  - schema-org/Message
-tags:
-  - class/FileClass
-  - class/Message
-  - is_a_/Message
-  - class/Thing/CreativeWork/Message
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: w3T4na
-    name: BccRecipient
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
-    type: MultiFile
-    path: ""
-  - id: mbkI0d
-    name: CcRecipient
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
-    type: MultiFile
-    path: ""
-  - id: 0YZzXO
-    name: DateRead
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: j7mLCG
-    name: DateReceived
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: 8QCqfK
-    name: DateSent
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: oIGYv3
-    name: MessageAttachment
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
-  - id: 8hmkyG
-    name: Recipient
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
-  - id: yhIAHD
-    name: Sender
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
-  - id: VOgwyH
-    name: ToRecipient
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
+- id: w3T4na
+  name: BccRecipient
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"
+  type: MultiFile
+  path: ''
+- id: mbkI0d
+  name: CcRecipient
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"
+  type: MultiFile
+  path: ''
+- id: 0YZzXO
+  name: DateRead
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: j7mLCG
+  name: DateReceived
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: 8QCqfK
+  name: DateSent
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: oIGYv3
+  name: MessageAttachment
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+- id: 8hmkyG
+  name: Recipient
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+- id: yhIAHD
+  name: Sender
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+- id: VOgwyH
+  name: ToRecipient
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Message
+- class/Thing/CreativeWork/Message
+- is_a_/Message
+- schema-org/Message
+tags:
+- class/FileClass
+- class/Message
+- is_a_/Message
+- class/Thing/CreativeWork/Message
+version: 2.0
 ---
 
 # Message

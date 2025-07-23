@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Robert Redford
-  - Charles Robert Redford Jr.
+- "Robert Redford"
+- "Charles Robert Redford Jr."
 ---
 
 #has_/time_/started :: 1936-08-18 

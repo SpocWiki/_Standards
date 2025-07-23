@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Suleiman the Magnificent
-  - Suleiman I
-  - Süleyman
+- "Suleiman the Magnificent"
+- "Suleiman I"
+- Süleyman
 ---
 
 #has_/time_/started ::  1494-11-06 

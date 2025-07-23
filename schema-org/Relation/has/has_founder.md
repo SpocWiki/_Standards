@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- founder
+- has_founder
+- "schema:founder"
+- "dbo:founder"
+- "wdt:P112"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_founder
-linkTitle: has_founder
 keywords:
-  - founder
+- founder
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_founder
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: founders
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - founder
-  - has_founder
-  - schema:founder
-  - dbo:founder
-  - wdt:P112
+- class/Relation
+- schema-org/Relation
+title: has_founder
+type: Predi_Relation
 ---
 
 A person who founded this organization.

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalRiskCalculator
-  - class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskCalculator
-  - is_a_/MedicalRiskCalculator
-  - schema-org/MedicalRiskCalculator
-tags:
-  - class/FileClass
-  - class/MedicalRiskCalculator
-  - is_a_/MedicalRiskCalculator
-  - class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskCalculator
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalRiskCalculator
+- class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskCalculator
+- is_a_/MedicalRiskCalculator
+- schema-org/MedicalRiskCalculator
+tags:
+- class/FileClass
+- class/MedicalRiskCalculator
+- is_a_/MedicalRiskCalculator
+- class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskCalculator
+version: 2.0
 ---
 
 # MedicalRiskCalculator

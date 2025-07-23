@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_electrician Class
-linkTitle: is_an_electrician Class
-
-keywords: [electrician]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - electrician
 - electrician
 - Electrician
 - is_an_electrician
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- electrician
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_electrician Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_electrician Class"
+type: Type
 ---
 
 Class of all electricians.

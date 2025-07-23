@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_group_mens Class
-linkTitle: is_a_wearable_size_group_mens Class
-
-keywords: [wearable_size_group_mens]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeGroupEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-group-mens
 - wearable_size_group_mens
 - WearableSizeGroupMens
 - is_a_wearable_size_group_mens
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeGroupEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_group_mens
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_group_mens Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_group_mens Class"
+type: Type
 ---
 
 Class of all wearable_size_group_menss.

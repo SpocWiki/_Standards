@@ -1,12 +1,12 @@
----
-title: Green plants
-has_id_wikidata: Q756
+﻿---
 aliases:
-  - Plants
-  - Plant
-  - Green plant
-  - Green plants
-  - land plants
+- Plants
+- Plant
+- "Green plant"
+- "Green plants"
+- "land plants"
+has_id_wikidata: Q756
+title: "Green plants"
 ---
 
 # [[Plants]] 

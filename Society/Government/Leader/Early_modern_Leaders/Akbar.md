@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Akbar
-  - Abu'l-Fath Jalal-ud-din Muhammad Akbar
+- Akbar
+- "Abu'l-Fath Jalal-ud-din Muhammad Akbar"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_contact_point_option Class
-linkTitle: is_a_contact_point_option Class
-
-keywords: [contact_point_option]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - contact-point-option
 - contact_point_option
 - ContactPointOption
 - is_a_contact_point_option
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- contact_point_option
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_contact_point_option Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_contact_point_option Class"
+type: Type
 ---
 
 Class of all contact_point_options.

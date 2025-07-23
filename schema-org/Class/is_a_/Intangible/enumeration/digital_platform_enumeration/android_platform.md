@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_android_platform Class
-linkTitle: is_an_android_platform Class
-
-keywords: [android_platform]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DigitalPlatformEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - android-platform
 - android_platform
 - AndroidPlatform
 - is_an_android_platform
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DigitalPlatformEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- android_platform
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_android_platform Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_android_platform Class"
+type: Type
 ---
 
 Class of all android_platforms.

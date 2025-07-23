@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_superficial_anatomy Class
-linkTitle: is_a_superficial_anatomy Class
-
-keywords: [superficial_anatomy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - superficial-anatomy
 - superficial_anatomy
 - SuperficialAnatomy
 - is_a_superficial_anatomy
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- superficial_anatomy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_superficial_anatomy Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_superficial_anatomy Class"
+type: Type
 ---
 
 Class of all superficial_anatomys.

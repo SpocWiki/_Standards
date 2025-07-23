@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_dosage_form
-linkTitle: has_text_of_dosage_form
-
-keywords: [dosage, form]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - dosage-form
 - dosage_form
 - dosageForm
 - has_text_of_dosage_form
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dosage
+- form
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_dosage_form
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_dosage_form
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Drug.

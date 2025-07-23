@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Ryan Gosling
-  - Ryan Thomas Gosling
+- "Ryan Gosling"
+- "Ryan Thomas Gosling"
 ---
 
 #has_/time_/started :: 1980-11-12 

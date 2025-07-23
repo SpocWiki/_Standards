@@ -1,124 +1,124 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MediaObject
-  - class/Thing/CreativeWork/MediaObject
-  - is_a_/MediaObject
-  - schema-org/MediaObject
-tags:
-  - class/FileClass
-  - class/MediaObject
-  - is_a_/MediaObject
-  - class/Thing/CreativeWork/MediaObject
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: CyuM9h
-    name: AssociatedArticle
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/NewsArticle')
-    type: MultiFile
-    path: ""
-  - id: 5KwwkP
-    name: Bitrate
-    options: {}
-    type: Input
-    path: ""
-  - id: 7u4Tjp
-    name: ContentSize
-    options: {}
-    type: Input
-    path: ""
-  - id: Tz8NtT
-    name: ContentUrl
-    options: {}
-    type: Input
-    path: ""
-  - id: yKxCE0
-    name: Duration
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: Y90iX0
-    name: EmbedUrl
-    options: {}
-    type: Input
-    path: ""
-  - id: j0XrUe
-    name: EncodesCreativeWork
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork')
-    type: MultiFile
-    path: ""
-  - id: iNZBTp
-    name: EndTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: uaAXgE
-    name: Height
-    options: {}
-    type: Number
-    path: ""
-  - id: eRIIqU
-    name: IneligibleRegion
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
-    type: MultiFile
-    path: ""
-  - id: p5PptA
-    name: PlayerType
-    options: {}
-    type: Input
-    path: ""
-  - id: 5JC0OX
-    name: ProductionCompany
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: 4s6lkp
-    name: RegionsAllowed
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: V3XgT3
-    name: RequiresSubscription
-    options: {}
-    type: Boolean
-    path: ""
-  - id: bIlG6Z
-    name: Sha256
-    options: {}
-    type: Input
-    path: ""
-  - id: FWZ5z2
-    name: StartTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: vg8M8L
-    name: UploadDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: 24fxeq
-    name: Width
-    options: {}
-    type: Number
-    path: ""
+- id: CyuM9h
+  name: AssociatedArticle
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Article/NewsArticle')"
+  type: MultiFile
+  path: ''
+- id: 5KwwkP
+  name: Bitrate
+  options: {}
+  type: Input
+  path: ''
+- id: 7u4Tjp
+  name: ContentSize
+  options: {}
+  type: Input
+  path: ''
+- id: Tz8NtT
+  name: ContentUrl
+  options: {}
+  type: Input
+  path: ''
+- id: yKxCE0
+  name: Duration
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: Y90iX0
+  name: EmbedUrl
+  options: {}
+  type: Input
+  path: ''
+- id: j0XrUe
+  name: EncodesCreativeWork
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork')"
+  type: MultiFile
+  path: ''
+- id: iNZBTp
+  name: EndTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: uaAXgE
+  name: Height
+  options: {}
+  type: Number
+  path: ''
+- id: eRIIqU
+  name: IneligibleRegion
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
+  type: MultiFile
+  path: ''
+- id: p5PptA
+  name: PlayerType
+  options: {}
+  type: Input
+  path: ''
+- id: 5JC0OX
+  name: ProductionCompany
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: 4s6lkp
+  name: RegionsAllowed
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: V3XgT3
+  name: RequiresSubscription
+  options: {}
+  type: Boolean
+  path: ''
+- id: bIlG6Z
+  name: Sha256
+  options: {}
+  type: Input
+  path: ''
+- id: FWZ5z2
+  name: StartTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: vg8M8L
+  name: UploadDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: 24fxeq
+  name: Width
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MediaObject
+- class/Thing/CreativeWork/MediaObject
+- is_a_/MediaObject
+- schema-org/MediaObject
+tags:
+- class/FileClass
+- class/MediaObject
+- is_a_/MediaObject
+- class/Thing/CreativeWork/MediaObject
+version: 2.0
 ---
 
 # MediaObject

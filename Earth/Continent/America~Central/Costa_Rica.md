@@ -6,41 +6,41 @@ Unicode_character: 🇨🇷
 Colon_Classification: SG--758
 Krugosvet_article: strany-mira/kosta-rika
 demonym:
-  - كوستاريكي
-  - كوستاريكية
-  - costarricanu
+- كوستاريكي
+- كوستاريكية
+- costarricanu
 - "কোস্টা রিকান"
-  - costaricaner
-  - Costa-Ricaner
-  - Costa-Ricanerin
+- costaricaner
+- Costa-Ricaner
+- Costa-Ricanerin
 - "Costa Rican"
-  - Kostrarikano
-  - Costaricien
-  - Costaricienne
+- Kostrarikano
+- Costaricien
+- Costaricienne
 - "קוסטה ריקני"
 - "קוסטה ריקנית"
 - "Costa Rica-i"
-  - costaricana
-  - costaricane
-  - costaricani
-  - costaricano
-  - costarican
+- costaricana
+- costaricane
+- costaricani
+- costaricano
+- costarican
 - "Costa Ricaan"
-  - costarican
-  - costaricană
-  - costaricani
-  - костариканцы
-  - costarican
-  - costaricana
-  - costaricane
-  - costaricani
-  - Kostarikänan
-  - كوسطاريكي
-  - كوسطاريكية
-  - كوسطاريكيين
-  - كوسطاريكيات
+- costarican
+- costaricană
+- costaricani
+- костариканцы
+- costarican
+- costaricana
+- costaricane
+- costaricani
+- Kostarikänan
+- كوسطاريكي
+- كوسطاريكية
+- كوسطاريكيين
+- كوسطاريكيات
 - "Cósta Ríceach"
-  - كوستاريكيون
+- كوستاريكيون
 - "Costa Ricans"
 motto_text:
 - "Essential Costa Rica"
@@ -296,9 +296,9 @@ publishDate:
 expiryDate: 
 aliases:
 - "Costa Rica"
-    - كوستاريكا
-    - 哥斯达黎加
-    - Коста-Рика
+- كوستاريكا
+- 哥斯达黎加
+- Коста-Рика
 - "the Republic of Costa Rica"
 - "la República de Costa Rica"
 Languages:

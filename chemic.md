@@ -1,8 +1,9 @@
----
-icon: ":atom symbol:"
+﻿---
 aliases:
-  - Chemistry
+- Chemistry
+icon: ":atom symbol:"
 ---
+
 # [[chemic]]
 
  Chemistry is a wide Field; therefore it is broken up into 

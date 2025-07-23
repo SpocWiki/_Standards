@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_representative_of_page
-linkTitle: is_representative_of_page
-
-keywords: [representative_of_page]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - representative-of-page
 - representative_of_page
 - representativeOfPage
 - is_representative_of_page
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- representative_of_page
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_representative_of_page
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_representative_of_page
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_physiological_benefits
-linkTitle: has_text_of_physiological_benefits
-
-keywords: [physiological, benefits]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - physiological-benefits
 - physiological_benefits
 - physiologicalBenefits
 - has_text_of_physiological_benefits
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- physiological
+- benefits
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_physiological_benefits
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_physiological_benefits
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Diet.

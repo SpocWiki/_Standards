@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_rv_park Class
-linkTitle: is_a_rv_park Class
-
-keywords: [rv_park]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - rv-park
 - rv_park
 - RVPark
 - is_a_rv_park
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rv_park
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_rv_park Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_rv_park Class"
+type: Type
 ---
 
 Class of all rv_parks.

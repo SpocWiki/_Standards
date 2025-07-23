@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DeactivateAction
-  - class/Thing/Action/ControlAction/DeactivateAction
-  - is_a_/DeactivateAction
-  - schema-org/DeactivateAction
-tags:
-  - class/FileClass
-  - class/DeactivateAction
-  - is_a_/DeactivateAction
-  - class/Thing/Action/ControlAction/DeactivateAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DeactivateAction
+- class/Thing/Action/ControlAction/DeactivateAction
+- is_a_/DeactivateAction
+- schema-org/DeactivateAction
+tags:
+- class/FileClass
+- class/DeactivateAction
+- is_a_/DeactivateAction
+- class/Thing/Action/ControlAction/DeactivateAction
+version: 2.0
 ---
 
 # DeactivateAction

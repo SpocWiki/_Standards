@@ -81,7 +81,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kele,35559]]'
 - '[[_Standards/WikiData/WD~Kande,35556]]'
 - '[[_Standards/WikiData/WD~Kota,35607]]'
-  - "[[_Standards/WikiData/WD~Kaning'i,35683]]"
+- "[[_Standards/WikiData/WD~Kaning'i,35683]]"
 - '[[_Standards/WikiData/WD~Lumbu,35793]]'
 - '[[_Standards/WikiData/WD~Mahongwe,35816]]'
 - '[[_Standards/WikiData/WD~Myene,35832]]'
@@ -234,7 +234,7 @@ MeSH_tree_code: Z01.058.290.100.380
 official_name:
 - "la République gabonaise"
 - "Repubblica Gabonese"
-  - Gabon
+- Gabon
 short_name: "\U0001F1EC\U0001F1E6"
 total_fertility_rate: 3.909
 Dewey_Decimal_Classification: 2--6721

@@ -1,29 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- use-action
+- use_action
+- UseAction
+- is_a_use_action
+- is_using_up
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_use_action Class
-linkTitle: is_a_use_action Class
 keywords:
-  - use_action
+- use_action
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_use_action Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-aliases:
-  - use-action
-  - use_action
-  - UseAction
-  - is_a_use_action
-  - is_using_up
+- schema-org/Class
+title: "is_a_use_action Class"
+type: Type
 ---
+
 The act of applying an object to its intended purpose, 
 but also consuming it in the Action in contrast to [[is_using]].
 

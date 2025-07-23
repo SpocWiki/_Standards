@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_credit_card Class
-linkTitle: is_a_credit_card Class
-
-keywords: [credit_card]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - credit-card
 - credit_card
 - CreditCard
 - is_a_credit_card
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- credit_card
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_credit_card Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_credit_card Class"
+type: Type
 ---
 
 Class of all credit_cards.

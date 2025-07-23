@@ -1,9 +1,9 @@
----
-title: Aranae
+﻿---
 aliases:
-  - aroid
-  - Arana
-  - Ariflorae
+- aroid
+- Arana
+- Ariflorae
+title: Aranae
 ---
 
 ## Phylogeny 

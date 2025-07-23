@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_print_column
-linkTitle: has_text_of_print_column
-
-keywords: [print, column]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - print-column
 - print_column
 - printColumn
 - has_text_of_print_column
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- print
+- column
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_print_column
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_print_column
+type: Pred_Text
 ---
 
 Predicate to describe the Text of NewsArticle.

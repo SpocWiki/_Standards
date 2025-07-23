@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_risks_or_complications_health_aspect Class
-linkTitle: is_a_risks_or_complications_health_aspect Class
-
-keywords: [risks_or_complications_health_aspect]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: HealthAspectEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - risks-or-complications-health-aspect
 - risks_or_complications_health_aspect
 - RisksOrComplicationsHealthAspect
 - is_a_risks_or_complications_health_aspect
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: HealthAspectEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- risks_or_complications_health_aspect
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_risks_or_complications_health_aspect Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_risks_or_complications_health_aspect Class"
+type: Type
 ---
 
 Class of all risks_or_complications_health_aspects.

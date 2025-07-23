@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: true
-icon: car
-tagNames:
-  - class/Car
-  - class/Thing/Product/Vehicle/Car
-  - is_a_/Car
-  - schema-org/Car
-tags:
-  - class/FileClass
-  - class/Car
-  - is_a_/Car
-  - class/Thing/Product/Vehicle/Car
+﻿---
 excludes: 
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
-version: "2.0"
 fields:
-  - id: WR0qpx
-    name: AcrissCode
-    options: {}
-    type: Input
-    path: ""
-  - id: xArk0N
-    name: RoofLoad
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+- id: WR0qpx
+  name: AcrissCode
+  options: {}
+  type: Input
+  path: ''
+- id: xArk0N
+  name: RoofLoad
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+icon: car
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Car
+- class/Thing/Product/Vehicle/Car
+- is_a_/Car
+- schema-org/Car
+tags:
+- class/FileClass
+- class/Car
+- is_a_/Car
+- class/Thing/Product/Vehicle/Car
+version: 2.0
 ---
 
 # Car

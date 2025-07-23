@@ -1,31 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- multicellular-parasite
+- multicellular_parasite
+- MulticellularParasite
+- is_a_multicellular_parasite
 confidential: public
+cssclasses:
+- Type
+draft: false
+enumerationtype: InfectiousAgentClass
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_multicellular_parasite Class
-linkTitle: is_a_multicellular_parasite Class
 keywords:
-  - multicellular_parasite
+- multicellular_parasite
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_multicellular_parasite Class"
+publish: true
 publishDate: 
-expiryDate: 
-enumerationtype: InfectiousAgentClass
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
-aliases:
-  - multicellular-parasite
-  - multicellular_parasite
-  - MulticellularParasite
-  - is_a_multicellular_parasite
+- class/Class
+- schema-org/Class
+- class/infectious_agent
+title: "is_a_multicellular_parasite Class"
+type: Type
 ---
+
 # [[multicellular_parasite]] 
 Class of all multicellular_parasites.
 

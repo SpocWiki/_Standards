@@ -1,8 +1,8 @@
----
-has_id_wikidata: Q9106
+﻿---
 aliases:
-  - Dmitri Ivanovich Mendeleev
-  - Dmitri Mendeleev
+- "Dmitri Ivanovich Mendeleev"
+- "Dmitri Mendeleev"
+has_id_wikidata: Q9106
 ---
 
 #has_/time_/started :: 1834-02-08

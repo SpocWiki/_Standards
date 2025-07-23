@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Johannes Kepler
+- "Johannes Kepler"
 has_id_wikidata: Q8963
 ---
-
 
 ## #has_/text_of_/abstract 
 

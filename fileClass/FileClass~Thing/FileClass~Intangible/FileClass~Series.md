@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Series
-  - class/Thing/Intangible/Series
-  - is_a_/Series
-  - schema-org/Series
-tags:
-  - class/FileClass
-  - class/Series
-  - is_a_/Series
-  - class/Thing/Intangible/Series
 extends: FileClass~Thing/FileClass~Intangible
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Series
+- class/Thing/Intangible/Series
+- is_a_/Series
+- schema-org/Series
+tags:
+- class/FileClass
+- class/Series
+- is_a_/Series
+- class/Thing/Intangible/Series
+version: 2.0
 ---
 
 # Series

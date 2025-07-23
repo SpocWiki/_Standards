@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/UserReview
-  - class/Thing/CreativeWork/Review/UserReview
-  - is_an_/UserReview
-  - schema-org/UserReview
-tags:
-  - class/FileClass
-  - class/UserReview
-  - "#is_an_/UserReview"
-  - class/Thing/CreativeWork/Review/UserReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/UserReview
+- class/Thing/CreativeWork/Review/UserReview
+- is_an_/UserReview
+- schema-org/UserReview
+tags:
+- class/FileClass
+- class/UserReview
+- '#is_an_/UserReview'
+- class/Thing/CreativeWork/Review/UserReview
+version: 2.0
 ---
 
 # UserReview

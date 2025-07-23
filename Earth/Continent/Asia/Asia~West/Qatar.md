@@ -286,10 +286,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Qatar
-    - قطر
-    - 卡塔尔
-    - Катар
+- Qatar
+- قطر
+- 卡塔尔
+- Катар
 - "the State of Qatar"
 - "el Estado de Qatar"
 Languages:

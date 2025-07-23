@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Vitamin_C
-  - VitC
-  - ascorbic acid
-  - ascorbate
+- Vitamin_C
+- VitC
+- "ascorbic acid"
+- ascorbate
 ---
 
 ## #has_/text_of_/abstract 

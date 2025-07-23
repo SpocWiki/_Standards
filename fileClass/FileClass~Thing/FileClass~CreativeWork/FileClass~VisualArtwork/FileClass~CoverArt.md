@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CoverArt
-  - class/Thing/CreativeWork/VisualArtwork/CoverArt
-  - is_a_/CoverArt
-  - schema-org/CoverArt
-tags:
-  - class/FileClass
-  - class/CoverArt
-  - is_a_/CoverArt
-  - class/Thing/CreativeWork/VisualArtwork/CoverArt
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CoverArt
+- class/Thing/CreativeWork/VisualArtwork/CoverArt
+- is_a_/CoverArt
+- schema-org/CoverArt
+tags:
+- class/FileClass
+- class/CoverArt
+- is_a_/CoverArt
+- class/Thing/CreativeWork/VisualArtwork/CoverArt
+version: 2.0
 ---
 
 # CoverArt

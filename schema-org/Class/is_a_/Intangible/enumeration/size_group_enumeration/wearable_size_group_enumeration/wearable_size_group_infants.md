@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_group_infants Class
-linkTitle: is_a_wearable_size_group_infants Class
-
-keywords: [wearable_size_group_infants]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeGroupEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-group-infants
 - wearable_size_group_infants
 - WearableSizeGroupInfants
 - is_a_wearable_size_group_infants
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeGroupEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_group_infants
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_group_infants Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_group_infants Class"
+type: Type
 ---
 
 Class of all wearable_size_group_infantss.

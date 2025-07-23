@@ -30,7 +30,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Matsés,2981620]]'
 - '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
 - '[[_Standards/WikiData/WD~Isconahua,3052971]]'
-  - "[[_Standards/WikiData/WD~Yanesha',3088540]]"
+- "[[_Standards/WikiData/WD~Yanesha',3088540]]"
 - '[[_Standards/WikiData/WD~Yameo,3121032]]'
 - '[[_Standards/WikiData/WD~Hibito,3135164]]'
 - '[[_Standards/WikiData/WD~Yine,3135432]]'
@@ -465,12 +465,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Peru
-    - Perú
-    - Pérou
-    - بيرو
-    - 秘鲁
-    - Перу
+- Peru
+- Perú
+- Pérou
+- بيرو
+- 秘鲁
+- Перу
 - "the Republic of Peru"
 - "la República del Perú"
 - "Perú (el)"

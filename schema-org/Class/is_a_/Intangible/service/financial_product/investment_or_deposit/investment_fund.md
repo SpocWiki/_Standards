@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_investment_fund Class
-linkTitle: is_an_investment_fund Class
-
-keywords: [investment_fund]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - investment-fund
 - investment_fund
 - InvestmentFund
 - is_an_investment_fund
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- investment_fund
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_investment_fund Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_investment_fund Class"
+type: Type
 ---
 
 Class of all investment_funds.

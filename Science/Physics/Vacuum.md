@@ -1,28 +1,28 @@
----
-has_id_wikidata: Q11475
-different_from:
-- "[[_Standards/WikiData/WD~vacuum_cleaner,101674]]"
-- "[[_Standards/WikiData/WD~vacuum_state,766202]]"
-subclass_of: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13047289,13047289]]'
+﻿---
+Colon_Classification: "C28:76"
+Commons_category: Vacuum
+density: 0
 described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-partially_coincident_with: '[[_Standards/WikiData/WD~emptiness,67932942]]'
-UMLS_CUI: C0042221
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from:
+- '[[_Standards/WikiData/WD~vacuum_cleaner,101674]]'
+- '[[_Standards/WikiData/WD~vacuum_state,766202]]'
+has_id_wikidata: Q11475
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kolbenluftpumpe%20hg.jpg"
 MeSH_tree_code:
 - G01.374.715.902
 - G16.500.750.274.902
 - N06.230.300.100.185.902
+OmegaWiki_Defined_Meaning: 8558
+partially_coincident_with: '[[_Standards/WikiData/WD~emptiness,67932942]]'
 part_of: '[[_Standards/WikiData/WD~physics,413]]'
-density: 0
+refractive_index: 1
 relative_permeability: 1
 relative_permittivity: 1
-refractive_index: 1
-OmegaWiki_Defined_Meaning: 8558
-Commons_category: Vacuum
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kolbenluftpumpe%20hg.jpg"
-Colon_Classification: "C28:76"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13047289,13047289]]'
+subclass_of: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
+UMLS_CUI: C0042221
 ---
 
 ## #has_/text_of_/abstract 

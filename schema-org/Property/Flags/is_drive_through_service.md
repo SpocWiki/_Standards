@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_drive_through_service
-linkTitle: is_drive_through_service
-
-keywords: [drive_through_service]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - drive-through-service
 - drive_through_service
 - hasDriveThroughService
 - is_drive_through_service
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- drive_through_service
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_drive_through_service
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_drive_through_service
+type: Pred_Bool
 ---
 
 Indicates whether some facility (e.g. [[Food_Establishment]], [[Covid_Testing_Facility]]) 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/GovernmentOffice
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice
-  - is_a_/GovernmentOffice
-  - schema-org/GovernmentOffice
-tags:
-  - class/FileClass
-  - class/GovernmentOffice
-  - is_a_/GovernmentOffice
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/GovernmentOffice
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice
+- is_a_/GovernmentOffice
+- schema-org/GovernmentOffice
+tags:
+- class/FileClass
+- class/GovernmentOffice
+- is_a_/GovernmentOffice
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice
+version: 2.0
 ---
 
 # GovernmentOffice

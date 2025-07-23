@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_music_arrangement
-
-linkTitle: has_music_arrangement
-keywords: [music, arrangement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - music-arrangement
 - music_arrangement
 - musicArrangement
 - has_music_arrangement
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- music
+- arrangement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_music_arrangement
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_music_arrangement
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,21 +1,21 @@
----
-has_id_wikidata: Q193036
-different_from: "[[_Standards/WikiData/WD~Akrobatik,385852]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~circus_skill,4990963]]"
-  - "[[_Standards/WikiData/WD~gymnastics,43450]]"
-practiced_by: "[[_Standards/WikiData/WD~acrobat,11957145]]"
-has_part_s_: "[[_Standards/WikiData/WD~circus_acrobatics,16442920]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/AerialShowgirlsTissu1.jpg
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mecanautes-acrobatie.wav
-P8189: "987007293966405171"
+﻿---
 Commons_category: Acrobatics
+described_by_source:
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Akrobatik,385852]]'
+has_id_wikidata: Q193036
+has_part_s_: '[[_Standards/WikiData/WD~circus_acrobatics,16442920]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/AerialShowgirlsTissu1.jpg"
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+P8189: 987007293966405171
+practiced_by: '[[_Standards/WikiData/WD~acrobat,11957145]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mecanautes-acrobatie.wav"
+subclass_of:
+- '[[_Standards/WikiData/WD~circus_skill,4990963]]'
+- '[[_Standards/WikiData/WD~gymnastics,43450]]'
 ---
 
 # [[Acrobatics]] 

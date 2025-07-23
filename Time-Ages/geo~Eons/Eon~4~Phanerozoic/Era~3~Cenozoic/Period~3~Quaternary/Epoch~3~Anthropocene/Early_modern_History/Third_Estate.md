@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Third Estate
+- "Third Estate"
 ---
-
 
 ## #has_/text_of_/abstract 
 

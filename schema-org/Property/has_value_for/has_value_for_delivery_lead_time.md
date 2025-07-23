@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_delivery-lead-time
-linkTitle: has_delivery-lead-time
-
-keywords: [delivery-lead-time]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - delivery_lead_time
 - delivery-lead-time
 - deliveryLeadTime
 - has_value_for_delivery_lead_time
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- delivery-lead-time
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_delivery-lead-time
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_delivery-lead-time
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Demand, Offer.

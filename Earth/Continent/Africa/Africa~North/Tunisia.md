@@ -286,19 +286,19 @@ demonym:
 ISNI: 0000000121102127
 native_label:
 - "Republik Tunisia"
-  - Tunisia
+- Tunisia
 - "الجمهورية التونسية"
-  - تونس
+- تونس
 - "Republic of Tunisia"
-  - Tunisia
+- Tunisia
 official_name:
 - "Republik Tunisia"
-  - Tunisia
+- Tunisia
 - "الجمهورية التونسية"
-  - تونس
+- تونس
 - "Republic of Tunisia"
 - "République tunisienne"
-  - Tunisia
+- Tunisia
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Tunesien.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Tunesien.ogg"
@@ -403,8 +403,8 @@ aliases:
   - تونس
   - 突尼斯
   - Тунис
-- "the Republic of Tunisia"
-- "la República de Túnez"
+  - "the Republic of Tunisia"
+  - "la República de Túnez"
   - Tunesien
 Languages:
   - ar-TN

@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Henri Poincaré
+- "Henri Poincaré"
 has_id_wikidata: Q81082
 ---
-
 
 ## #has_/text_of_/abstract 
 

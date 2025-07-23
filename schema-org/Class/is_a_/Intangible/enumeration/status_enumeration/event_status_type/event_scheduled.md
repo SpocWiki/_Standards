@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_event_scheduled Class
-linkTitle: is_an_event_scheduled Class
-
-keywords: [event_scheduled]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EventStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - event-scheduled
 - event_scheduled
 - EventScheduled
 - is_an_event_scheduled
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EventStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event_scheduled
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_event_scheduled Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_event_scheduled Class"
+type: Type
 ---
 
 Class of all event_scheduleds.

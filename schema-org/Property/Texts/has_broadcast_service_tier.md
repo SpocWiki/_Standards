@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_broadcast_service_tier
-linkTitle: has_text_of_broadcast_service_tier
-
-keywords: [broadcast, service, tier]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - broadcast-service-tier
 - broadcast_service_tier
 - broadcastServiceTier
 - has_text_of_broadcast_service_tier
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast
+- service
+- tier
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_broadcast_service_tier
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_broadcast_service_tier
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BroadcastChannel.

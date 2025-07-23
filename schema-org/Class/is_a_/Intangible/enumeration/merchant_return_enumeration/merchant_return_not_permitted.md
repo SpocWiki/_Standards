@@ -1,38 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_merchant_return_not_permitted Class
-linkTitle: is_a_merchant_return_not_permitted Class
-
-keywords: [merchant_return_not_permitted]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MerchantReturnEnumeration
-
-supersedes: ProductReturnNotPermitted
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - merchant-return-not-permitted
 - merchant_return_not_permitted
 - MerchantReturnNotPermitted
 - is_a_merchant_return_not_permitted
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MerchantReturnEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- merchant_return_not_permitted
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_merchant_return_not_permitted Class"
+publish: true
+publishDate: 
+supersedes: ProductReturnNotPermitted
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_merchant_return_not_permitted Class"
+type: Type
 ---
 
 Class of all merchant_return_not_permitteds.

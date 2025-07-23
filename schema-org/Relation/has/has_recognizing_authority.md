@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_recognizing_authority
-
-linkTitle: has_recognizing_authority
-keywords: [recognizing, authority]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - recognizing-authority
 - recognizing_authority
 - recognizingAuthority
 - has_recognizing_authority
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- recognizing
+- authority
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_recognizing_authority
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_recognizing_authority
+type: Predi_Relation
 ---
 
 Use it like this: 

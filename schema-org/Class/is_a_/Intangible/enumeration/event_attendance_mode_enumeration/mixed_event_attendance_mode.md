@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_mixed_event_attendance_mode Class
-linkTitle: is_a_mixed_event_attendance_mode Class
-
-keywords: [mixed_event_attendance_mode]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EventAttendanceModeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - mixed-event-attendance-mode
 - mixed_event_attendance_mode
 - MixedEventAttendanceMode
 - is_a_mixed_event_attendance_mode
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EventAttendanceModeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- mixed_event_attendance_mode
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_mixed_event_attendance_mode Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_mixed_event_attendance_mode Class"
+type: Type
 ---
 
 Class of all mixed_event_attendance_modes.

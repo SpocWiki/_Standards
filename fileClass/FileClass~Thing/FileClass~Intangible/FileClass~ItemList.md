@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ItemList
-  - class/Thing/Intangible/ItemList
-  - is_an_/ItemList
-  - schema-org/ItemList
-tags:
-  - class/FileClass
-  - class/ItemList
-  - "#is_an_/ItemList"
-  - class/Thing/Intangible/ItemList
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: 0MRjwP
-    name: ItemListElement
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')
-    type: MultiFile
-    path: ""
-  - id: QuoDDI
-    name: NumberOfItems
-    options: {}
-    type: Number
-    path: ""
+- id: 0MRjwP
+  name: ItemListElement
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/ListItem')"
+  type: MultiFile
+  path: ''
+- id: QuoDDI
+  name: NumberOfItems
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ItemList
+- class/Thing/Intangible/ItemList
+- is_an_/ItemList
+- schema-org/ItemList
+tags:
+- class/FileClass
+- class/ItemList
+- '#is_an_/ItemList'
+- class/Thing/Intangible/ItemList
+version: 2.0
 ---
 
 # ItemList

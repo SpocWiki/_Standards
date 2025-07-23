@@ -1,10 +1,8 @@
----
+﻿---
 aliases:
-  - Agricultural Chemistry
+- "Agricultural Chemistry"
 has_id_wikidata: Q397334
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

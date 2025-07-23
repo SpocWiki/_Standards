@@ -1,39 +1,39 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Nerve
-  - class/Thing/MedicalEntity/AnatomicalStructure/Nerve
-  - is_a_/Nerve
-  - schema-org/Nerve
-tags:
-  - class/FileClass
-  - class/Nerve
-  - is_a_/Nerve
-  - class/Thing/MedicalEntity/AnatomicalStructure/Nerve
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields:
-  - id: AJqqaf
-    name: NerveMotor
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')
-    type: MultiFile
-    path: ""
-  - id: V76tgd
-    name: SensoryUnit
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: UFFejV
-    name: SourcedFrom
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure')
-    type: MultiFile
-    path: ""
+- id: AJqqaf
+  name: NerveMotor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')"
+  type: MultiFile
+  path: ''
+- id: V76tgd
+  name: SensoryUnit
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: UFFejV
+  name: SourcedFrom
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Nerve
+- class/Thing/MedicalEntity/AnatomicalStructure/Nerve
+- is_a_/Nerve
+- schema-org/Nerve
+tags:
+- class/FileClass
+- class/Nerve
+- is_a_/Nerve
+- class/Thing/MedicalEntity/AnatomicalStructure/Nerve
+version: 2.0
 ---
 
 # Nerve

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_disability_support Class
-linkTitle: is_a_disability_support Class
-
-keywords: [disability_support]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GovernmentBenefitsType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - disability-support
 - disability_support
 - DisabilitySupport
 - is_a_disability_support
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GovernmentBenefitsType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- disability_support
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_disability_support Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_disability_support Class"
+type: Type
 ---
 
 Class of all disability_supports.

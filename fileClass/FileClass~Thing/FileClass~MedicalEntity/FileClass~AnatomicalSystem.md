@@ -1,50 +1,50 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AnatomicalSystem
-  - class/Thing/MedicalEntity/AnatomicalSystem
-  - is_an_/AnatomicalSystem
-  - schema-org/AnatomicalSystem
-tags:
-  - class/FileClass
-  - class/AnatomicalSystem
-  - "#is_an_/AnatomicalSystem"
-  - class/Thing/MedicalEntity/AnatomicalSystem
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: mQVvtR
-    name: AssociatedPathophysiology
-    options: {}
-    type: Input
-    path: ""
-  - id: RGHsJn
-    name: ComprisedOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: TXwAYw
-    name: RelatedCondition
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
-    type: MultiFile
-    path: ""
-  - id: 8LFNKi
-    name: RelatedStructure
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
-    type: MultiFile
-    path: ""
-  - id: v0RTsJ
-    name: RelatedTherapy
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
-    type: MultiFile
-    path: ""
+- id: mQVvtR
+  name: AssociatedPathophysiology
+  options: {}
+  type: Input
+  path: ''
+- id: RGHsJn
+  name: ComprisedOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: TXwAYw
+  name: RelatedCondition
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"
+  type: MultiFile
+  path: ''
+- id: 8LFNKi
+  name: RelatedStructure
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"
+  type: MultiFile
+  path: ''
+- id: v0RTsJ
+  name: RelatedTherapy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AnatomicalSystem
+- class/Thing/MedicalEntity/AnatomicalSystem
+- is_an_/AnatomicalSystem
+- schema-org/AnatomicalSystem
+tags:
+- class/FileClass
+- class/AnatomicalSystem
+- '#is_an_/AnatomicalSystem'
+- class/Thing/MedicalEntity/AnatomicalSystem
+version: 2.0
 ---
 
 # AnatomicalSystem

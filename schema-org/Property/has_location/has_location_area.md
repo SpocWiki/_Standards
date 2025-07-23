@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_area
-linkTitle: has_location_area
-
-keywords: [area]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: serviceArea
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - area
 - area
 - area
 - has_location_area
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- area
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_area
+publish: true
+publishDate: 
+superseded_by: serviceArea
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_area
+type: Pred_geo
 ---
 
 Predicate to describe the geo of BroadcastService.

@@ -1,9 +1,9 @@
----
-title: Okapia johnstoni
+﻿---
 aliases:
-  - Okapia
-  - Okapi
-  - Okapis
+- Okapia
+- Okapi
+- Okapis
+title: "Okapia johnstoni"
 ---
 
 ## Phylogeny 

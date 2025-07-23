@@ -1,8 +1,8 @@
----
-title: Zygnematales
+﻿---
 aliases:
-  - Zygnematales
-  - Conjugatales
+- Zygnematales
+- Conjugatales
+title: Zygnematales
 ---
 
 -   Spirogyra (Zygnemataceae)

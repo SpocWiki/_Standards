@@ -1,39 +1,39 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalGuideline
-  - class/Thing/MedicalEntity/MedicalGuideline
-  - is_a_/MedicalGuideline
-  - schema-org/MedicalGuideline
-tags:
-  - class/FileClass
-  - class/MedicalGuideline
-  - is_a_/MedicalGuideline
-  - class/Thing/MedicalEntity/MedicalGuideline
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: UDpxAz
-    name: EvidenceOrigin
-    options: {}
-    type: Input
-    path: ""
-  - id: qFdbqW
-    name: GuidelineDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: TKtBnp
-    name: GuidelineSubject
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
+- id: UDpxAz
+  name: EvidenceOrigin
+  options: {}
+  type: Input
+  path: ''
+- id: qFdbqW
+  name: GuidelineDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: TKtBnp
+  name: GuidelineSubject
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalGuideline
+- class/Thing/MedicalEntity/MedicalGuideline
+- is_a_/MedicalGuideline
+- schema-org/MedicalGuideline
+tags:
+- class/FileClass
+- class/MedicalGuideline
+- is_a_/MedicalGuideline
+- class/Thing/MedicalEntity/MedicalGuideline
+version: 2.0
 ---
 
 # MedicalGuideline

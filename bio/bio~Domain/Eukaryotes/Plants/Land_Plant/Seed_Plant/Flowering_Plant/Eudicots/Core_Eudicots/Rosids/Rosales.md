@@ -1,7 +1,7 @@
----
-title: Rosales
+﻿---
 aliases:
-  - Rosales
+- Rosales
+title: Rosales
 ---
 
 # [[Rosales]] 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_merchant_return_policy_seasonal_override Class
-linkTitle: is_a_merchant_return_policy_seasonal_override Class
-
-keywords: [merchant_return_policy_seasonal_override]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - merchant-return-policy-seasonal-override
 - merchant_return_policy_seasonal_override
 - MerchantReturnPolicySeasonalOverride
 - is_a_merchant_return_policy_seasonal_override
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- merchant_return_policy_seasonal_override
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_merchant_return_policy_seasonal_override Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_merchant_return_policy_seasonal_override Class"
+type: Type
 ---
 
 Class of all merchant_return_policy_seasonal_overrides.

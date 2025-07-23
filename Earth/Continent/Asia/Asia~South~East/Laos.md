@@ -72,7 +72,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Tai_Daeng,3915207]]"
 - '[[_Standards/WikiData/WD~Phuan,3915665]]'
 - '[[_Standards/WikiData/WD~Brao,4957737]]'
-  - "[[_Standards/WikiData/WD~Jru',6298648]]"
+- "[[_Standards/WikiData/WD~Jru',6298648]]"
 - "[[_Standards/WikiData/WD~Tai_Khang,6362363]]"
 - '[[_Standards/WikiData/WD~Katu,6378400]]'
 - '[[_Standards/WikiData/WD~Kiorr,6414519]]'
@@ -99,7 +99,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Western_Bru,13018531]]"
 - '[[_Standards/WikiData/WD~Ngeq,13018598]]'
 - '[[_Standards/WikiData/WD~Khuen,13018596]]'
-  - "[[_Standards/WikiData/WD~Su',13018608]]"
+- "[[_Standards/WikiData/WD~Su',13018608]]"
 - '[[_Standards/WikiData/WD~Oi,13018626]]'
 - "[[_Standards/WikiData/WD~Tai_Long,13018630]]"
 - "[[_Standards/WikiData/WD~Eastern_Bru,16115463]]"

@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - John Cena
-  - John Felix Anthony Cena
+- "John Cena"
+- "John Felix Anthony Cena"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,31 +1,31 @@
----
-has_id_wikidata: Q127980
-subclass_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~material,214609]]'
+﻿---
+Commons_category: Fat
+Common_Procurement_Vocabulary_code: 15412000-9
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+Dewey_Decimal_Classification: 665
 different_from:
 - '[[_Standards/WikiData/WD~triglyceride,186319]]'
-- "[[_Standards/WikiData/WD~adipose_tissue,193583]]"
+- '[[_Standards/WikiData/WD~adipose_tissue,193583]]'
 - '[[_Standards/WikiData/WD~glyceride,407758]]'
 - '[[_Standards/WikiData/WD~grease,629823]]'
 - '[[_Standards/WikiData/WD~lipid,11367]]'
 - '[[_Standards/WikiData/WD~oil,42962]]'
+has_id_wikidata: Q127980
 has_part_s_: '[[_Standards/WikiData/WD~glyceride,407758]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20embolism%20%286467719609%29.jpg"
+MeSH_tree_code: D10.212
+subclass_of:
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467]]"
+- '[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467]]'
 - '[[_Standards/WikiData/WD~Template_Fats,13625308]]'
 UMLS_CUI:
 - C0012171
 - C0015677
-Common_Procurement_Vocabulary_code: 15412000-9
-MeSH_tree_code: D10.212
-Dewey_Decimal_Classification: 665
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20embolism%20%286467719609%29.jpg"
-Commons_category: Fat
 ---
 
 |**Aspect**|**Fats**|**Oils**|

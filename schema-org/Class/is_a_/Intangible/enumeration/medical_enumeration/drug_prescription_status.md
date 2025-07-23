@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_drug_prescription_status Class
-linkTitle: is_a_drug_prescription_status Class
-
-keywords: [drug_prescription_status]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - drug-prescription-status
 - drug_prescription_status
 - DrugPrescriptionStatus
 - is_a_drug_prescription_status
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- drug_prescription_status
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_drug_prescription_status Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_drug_prescription_status Class"
+type: Type
 ---
 
 Class of all drug_prescription_statuss.

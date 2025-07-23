@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_educational_audience Class
-linkTitle: is_an_educational_audience Class
-
-keywords: [educational_audience]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - educational-audience
 - educational_audience
 - EducationalAudience
 - is_an_educational_audience
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- educational_audience
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_educational_audience Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_educational_audience Class"
+type: Type
 ---
 
 Class of all educational_audiences.

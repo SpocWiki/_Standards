@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Tokyo subway sarin attack
+- "Tokyo subway sarin attack"
 ---
 
 #has_/time_/started :: 1995-03-20 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AutomatedTeller
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller
-  - is_an_/AutomatedTeller
-  - schema-org/AutomatedTeller
-tags:
-  - class/FileClass
-  - class/AutomatedTeller
-  - "#is_an_/AutomatedTeller"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AutomatedTeller
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller
+- is_an_/AutomatedTeller
+- schema-org/AutomatedTeller
+tags:
+- class/FileClass
+- class/AutomatedTeller
+- '#is_an_/AutomatedTeller'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller
+version: 2.0
 ---
 
 # AutomatedTeller

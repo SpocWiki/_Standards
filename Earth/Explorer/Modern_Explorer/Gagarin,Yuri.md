@@ -1,10 +1,9 @@
----
+﻿---
 aliases:
-  - Yuri Gagarin
-  - Yuri Alekseyevich Gagarin
+- "Yuri Gagarin"
+- "Yuri Alekseyevich Gagarin"
 has_id_wikidata: Q7327
 ---
-
 
 ## #has_/text_of_/abstract 
 

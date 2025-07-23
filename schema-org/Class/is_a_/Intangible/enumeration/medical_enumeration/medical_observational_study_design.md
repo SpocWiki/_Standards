@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_observational_study_design Class
-linkTitle: is_a_medical_observational_study_design Class
-
-keywords: [medical_observational_study_design]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-observational-study-design
 - medical_observational_study_design
 - MedicalObservationalStudyDesign
 - is_a_medical_observational_study_design
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_observational_study_design
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_observational_study_design Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_observational_study_design Class"
+type: Type
 ---
 
 Class of all medical_observational_study_designs.

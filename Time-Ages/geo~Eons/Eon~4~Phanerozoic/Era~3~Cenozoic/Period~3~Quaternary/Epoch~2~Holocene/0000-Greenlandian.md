@@ -1,17 +1,18 @@
+﻿---
+Commons_category: Greenlandian
+coordinate_location: "Point(-42.32 75.1)"
+end_time: -6236-01-01
+has_id_wikidata: Q55590012
+instance_of:
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Greenland,4148644]]'
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+sRGB_color_hex_triplet: FEECDB
+start_time: -9700-01-01
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]"
 ---
-has_id_wikidata: Q55590012 
-instance of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-type locality (geology): "[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]"
-named after: "[[_Standards/WikiData/WD~Greenland,4148644]]"
-part of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
-start time: -9700-01-01 
-end time: -6236-01-01 
-coordinate location: Point(-42.32 75.1) 
-sRGB color hex triplet: FEECDB 
-Commons category: Greenlandian 
----
+
 # [[0000-Greenlandian]] 
 
 #is_a_/time_/Age 

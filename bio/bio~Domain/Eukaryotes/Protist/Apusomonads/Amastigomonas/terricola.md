@@ -1,5 +1,5 @@
----
-title: Amastigomonas terricola
+﻿---
+title: "Amastigomonas terricola"
 ---
 
 ## Phylogeny 

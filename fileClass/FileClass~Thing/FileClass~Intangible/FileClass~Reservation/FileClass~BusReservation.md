@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BusReservation
-  - class/Thing/Intangible/Reservation/BusReservation
-  - is_a_/BusReservation
-  - schema-org/BusReservation
-tags:
-  - class/FileClass
-  - class/BusReservation
-  - is_a_/BusReservation
-  - class/Thing/Intangible/Reservation/BusReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BusReservation
+- class/Thing/Intangible/Reservation/BusReservation
+- is_a_/BusReservation
+- schema-org/BusReservation
+tags:
+- class/FileClass
+- class/BusReservation
+- is_a_/BusReservation
+- class/Thing/Intangible/Reservation/BusReservation
+version: 2.0
 ---
 
 # BusReservation

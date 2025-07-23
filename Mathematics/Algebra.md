@@ -1,49 +1,49 @@
----
-has_id_wikidata: Q3968
-different_from:
-- "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-- "[[_Standards/WikiData/WD~elementary_algebra,211294]]"
-- '[[_Standards/WikiData/WD~Q20408298,20408298]]'
+﻿---
+Classification_of_Instructional_Programs_code: 27.0102
+Colon_Classification: B21
+Commons_category: Algebra
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-subclass_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+Dewey_Decimal_Classification: 512
+different_from:
+- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~elementary_algebra,211294]]'
+- '[[_Standards/WikiData/WD~Q20408298,20408298]]'
+has_id_wikidata: Q3968
+history_of_topic: '[[_Standards/WikiData/WD~history_of_algebra,5018842]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Quadratic%20formula.svg"
 instance_of:
-- "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-- "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_algebra,5018842]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Algebra,6675761]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_algebra,7112546]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Algebra,14615029]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+Krugosvet_article: nauka_i_tehnika/matematika/ALGEBRA.html
+Library_of_Congress_Classification: Z6654.A5
+named_after: '[[_Standards/WikiData/WD~The_Compendious_Book_on_Calculation_by_Completion_and_Balancing,8369]]'
+OmegaWiki_Defined_Meaning: 350567
+part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
 practiced_by: '[[_Standards/WikiData/WD~algebraist,23900107]]'
-Stack_Exchange_tag:
-- "https://matheducators.stackexchange.com/tags/algebra"
-- "https://math.stackexchange.com/tags/algebra"
-Provenio_UUID: a92b5b37-d162-4bc4-8730-9742e88b3f19
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Q3968-ar.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%80%E0%A4%9C%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4.wav"
-part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
-named_after: "[[_Standards/WikiData/WD~The_Compendious_Book_on_Calculation_by_Completion_and_Balancing,8369]]"
-Universal_Decimal_Classification: 512
-Dewey_Decimal_Classification: 512
-Colon_Classification: B21
-OmegaWiki_Defined_Meaning: 350567
-Classification_of_Instructional_Programs_code: 27.0102
+Provenio_UUID: a92b5b37-d162-4bc4-8730-9742e88b3f19
+Stack_Exchange_tag:
+- "https://matheducators.stackexchange.com/tags/algebra"
+- "https://math.stackexchange.com/tags/algebra"
+subclass_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 subreddit: Algebra
-Commons_category: Algebra
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Algebra,6675761]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Algebra,14615029]]'
+Universal_Decimal_Classification: 512
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Divide%20large.gif"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Quadratic%20formula.svg"
-Krugosvet_article: nauka_i_tehnika/matematika/ALGEBRA.html
-Library_of_Congress_Classification: Z6654.A5
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_algebra,7112546]]'
 ---
 
 # [[Algebra]] 

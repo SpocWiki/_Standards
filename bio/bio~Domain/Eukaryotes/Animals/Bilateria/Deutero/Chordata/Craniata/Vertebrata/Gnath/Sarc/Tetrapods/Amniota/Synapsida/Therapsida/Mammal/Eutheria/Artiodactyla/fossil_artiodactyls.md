@@ -1,7 +1,6 @@
+﻿---
+title: "Miscellaneous fossil artiodactyls"
 ---
-title: Miscellaneous fossil artiodactyls
----
-
 
 # Miscellaneous fossil artiodactyls
 ![Anoplotherium_commune](fossil_artiodactyls/Anoplotherium_commune.jpg) 

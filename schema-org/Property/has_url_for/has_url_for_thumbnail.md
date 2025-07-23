@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- thumbnail-url
+- thumbnail_url
+- thumbnailUrl
+- has_url_for_thumbnail_url
+- "schema:thumbnailUrl"
+- "dbo:thumbnail"
+- "wdt:P18"
 confidential: public
+cssclasses:
+- Predicate
+- Url
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Url
-publish: true
-type: Predi_Url
-title: has_url_for_thumbnail_url
-linkTitle: has_url_for_thumbnail_url
 keywords:
-  - thumbnail_url
+- thumbnail_url
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_thumbnail_url
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Url
-aliases:
-  - thumbnail-url
-  - thumbnail_url
-  - thumbnailUrl
-  - has_url_for_thumbnail_url
-  - schema:thumbnailUrl
-  - dbo:thumbnail
-  - wdt:P18
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_thumbnail_url
+type: Predi_Url
 ---
 
 Predicate to specify the Url of CreativeWork.

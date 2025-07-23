@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Tony Leung Chiu-wai
-  - Liáng Cháowěi
-  - Tony Leung
+- "Tony Leung Chiu-wai"
+- "Liáng Cháowěi"
+- "Tony Leung"
 ---
 
 #is_/different_from :: [[Tony_Leung_Ka-fai]] 

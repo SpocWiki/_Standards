@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_for_a_gift
-linkTitle: is_for_a_gift
-
-keywords: [for_a_gift]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - gift
 - for_a_gift
 - isGift
 - is_for_a_gift
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- for_a_gift
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_for_a_gift
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_for_a_gift
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

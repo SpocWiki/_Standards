@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_status_enumeration Class
-linkTitle: is_a_status_enumeration Class
-
-keywords: [status_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - status-enumeration
 - status_enumeration
 - StatusEnumeration
 - is_a_status_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- status_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_status_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_status_enumeration Class"
+type: Type
 ---
 
 Class of all status_enumerations.

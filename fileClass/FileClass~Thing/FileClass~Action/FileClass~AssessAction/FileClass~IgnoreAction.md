@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/IgnoreAction
-  - class/Thing/Action/AssessAction/IgnoreAction
-  - is_an_/IgnoreAction
-  - schema-org/IgnoreAction
-tags:
-  - class/FileClass
-  - class/IgnoreAction
-  - "#is_an_/IgnoreAction"
-  - class/Thing/Action/AssessAction/IgnoreAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/IgnoreAction
+- class/Thing/Action/AssessAction/IgnoreAction
+- is_an_/IgnoreAction
+- schema-org/IgnoreAction
+tags:
+- class/FileClass
+- class/IgnoreAction
+- '#is_an_/IgnoreAction'
+- class/Thing/Action/AssessAction/IgnoreAction
+version: 2.0
 ---
 
 # IgnoreAction

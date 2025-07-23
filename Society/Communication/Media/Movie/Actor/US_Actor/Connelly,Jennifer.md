@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Jennifer Connelly
-  - Jennifer Lynn Connelly
+- "Jennifer Connelly"
+- "Jennifer Lynn Connelly"
 ---
 
 #has_/time_/started :: 1970-12-12 

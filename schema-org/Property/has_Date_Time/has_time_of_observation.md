@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
-publish: true
-
-# Hugo Tags
-type: Predi_Date_Time
-title: has_time_of_observation
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Date
-
+﻿---
 aliases:
 - observation-date
 - observation_date
 - observationDate
 - has_time_of_observation
+confidential: public
+cssclasses: "Predicate Date_Time"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Date
+title: has_time_of_observation
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of Observation.

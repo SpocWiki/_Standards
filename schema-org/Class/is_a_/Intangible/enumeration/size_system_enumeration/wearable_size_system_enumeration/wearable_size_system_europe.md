@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_system_europe Class
-linkTitle: is_a_wearable_size_system_europe Class
-
-keywords: [wearable_size_system_europe]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeSystemEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-system-europe
 - wearable_size_system_europe
 - WearableSizeSystemEurope
 - is_a_wearable_size_system_europe
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeSystemEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_system_europe
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_system_europe Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_system_europe Class"
+type: Type
 ---
 
 Class of all wearable_size_system_europes.

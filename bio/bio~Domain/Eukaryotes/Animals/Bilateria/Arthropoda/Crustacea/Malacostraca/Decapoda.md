@@ -1,23 +1,23 @@
----
-title: Decapoda
-has_id_wikidata: Q4610
-parent_taxon: "[[_Standards/WikiData/WD~Eucarida,127341]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Decapoda,112034186]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "95599"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Haeckel%20Decapoda.jpg
-EPPO_Code: 1DECAO
+﻿---
 Commons_category: Decapoda
-taxon_name: Decapoda
-NBN_System_Key: NHMSYS0021049528
-taxon_common_name:
-  - tifotkrepser
-  - Kreeften, krabben & garnalen
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+EPPO_Code: 1DECAO
+has_id_wikidata: Q4610
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Haeckel%20Decapoda.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 95599
 MeSH_tree_code: B01.050.500.131.365.190
+NBN_System_Key: NHMSYS0021049528
+parent_taxon: '[[_Standards/WikiData/WD~Eucarida,127341]]'
+taxon_common_name:
+- tifotkrepser
+- "Kreeften, krabben & garnalen"
+taxon_name: Decapoda
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+title: Decapoda
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Decapoda,112034186]]'
 ---
 
 # [[Decapoda]]  

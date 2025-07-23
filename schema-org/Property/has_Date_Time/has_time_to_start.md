@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
-publish: true
-
-# Hugo Tags
-type: Predi_Date_Time
-title: has_time_to_start
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Date
-
+﻿---
 aliases:
 - start-time
 - start_time
 - startTime
 - has_time_to_start
+confidential: public
+cssclasses: "Predicate Date_Time"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Date
+title: has_time_to_start
+type: Predi_Date_Time
 ---
 
 Predicate to describe the time of Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, 

@@ -1,51 +1,49 @@
----
-has_id_wikidata: Q104168 
-has_id_wikidata: Q336395 
+﻿---
+aliases:
+- Archean
+- прхай
+- Archaikum
+- Arkæisk
+- Archaikum
+- Archaean
+- Archean
+- Arcaico
+- Arhaikum
+- Arkeikum
+- Archéen
+- archaikum
+- archeano
+- 始生代
+- Archejus
+- Archaïcum
+- Arkeikum
+- Archaik
+- Arcaico
+- "archaikum, prahory"
+- arhaik
+- arkeikum
+- 太古宙
 Commons_category: Archean
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 end_time: -2500000000
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png
+has_id_wikidata: Q336395
+has_time_started: -4031000000
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png"
 instance_of:
-  - "[[_Standards/WikiData/WD~eon,108256]]"
-  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
+- '[[_Standards/WikiData/WD~eon,108256]]'
+- '[[_Standards/WikiData/WD~eonothem,2669627]]'
 IPA_transcription: /ɑːrˈkiːən/
-part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11039569,11039569]]"
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11039569,11039569]]'
 sRGB_color_hex_triplet: F0047F
 start_time: -4031000000
-has_time_started: -4031000000
-topic_s_main_template: "[[_Standards/WikiData/WD~Q100870042,100870042]]"
-aliases:
-  - Archean
-  - прхай
-  - Archaikum
-  - Arkæisk
-  - Archaikum
-  - Archaean
-  - Archean
-  - Arcaico
-  - Arhaikum
-  - Arkeikum
-  - Archéen
-  - archaikum
-  - archeano
-  - 始生代
-  - Archejus
-  - Archaïcum
-  - Arkeikum
-  - Archaik
-  - Arcaico
-  - archaikum, prahory
-  - arhaik
-  - arkeikum
-  - 太古宙
-  
+topic_s_main_template: '[[_Standards/WikiData/WD~Q100870042,100870042]]'
 ---
 
 # [[Eon~2~Archean]] 

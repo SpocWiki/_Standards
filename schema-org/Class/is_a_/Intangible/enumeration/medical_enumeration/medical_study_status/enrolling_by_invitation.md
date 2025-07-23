@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_enrolling_by_invitation Class
-linkTitle: is_an_enrolling_by_invitation Class
-
-keywords: [enrolling_by_invitation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalStudyStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - enrolling-by-invitation
 - enrolling_by_invitation
 - EnrollingByInvitation
 - is_an_enrolling_by_invitation
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalStudyStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- enrolling_by_invitation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_enrolling_by_invitation Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_enrolling_by_invitation Class"
+type: Type
 ---
 
 Class of all enrolling_by_invitations.

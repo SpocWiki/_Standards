@@ -1,37 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_comment_permission Class
-linkTitle: is_a_comment_permission Class
-
-keywords: [comment_permission]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DigitalDocumentPermissionType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - comment-permission
 - comment_permission
 - CommentPermission
 - is_a_comment_permission
 - Contributor_role
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DigitalDocumentPermissionType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- comment_permission
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_comment_permission Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_comment_permission Class"
+type: Type
 ---
 
 Class of all comment_permissions.

@@ -153,7 +153,7 @@ male_population:
 INSEE_countries_and_foreign_territories_code: 99336
 number_of_out_of_school_children: 451856
 short_name:
-  - RIM
+- RIM
 - "\U0001F1F2\U0001F1F7"
 demonym:
   - Mauritanian

@@ -1,10 +1,10 @@
----
-title: Lama guanicoe
+﻿---
 aliases:
-  - guanaco
-  - Lama guanicoe
-  - Guanako
+- guanaco
+- "Lama guanicoe"
+- Guanako
 has_id_wikidata: Q172886
+title: "Lama guanicoe"
 ---
 
 # [[Guanaco]] 

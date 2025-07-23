@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_value-max-text-length
-linkTitle: has_value-max-text-length
-
-keywords: [value-max-text-length]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - value_max_text_length
 - value-max-text-length
 - valueMaxTextLength
 - has_value_for_max_text_length
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- value-max-text-length
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_value-max-text-length
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_value-max-text-length
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/property_value_specification|PropertyValueSpecification]].

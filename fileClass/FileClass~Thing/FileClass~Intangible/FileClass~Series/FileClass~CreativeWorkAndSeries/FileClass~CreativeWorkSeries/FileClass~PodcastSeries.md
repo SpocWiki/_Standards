@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PodcastSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries
-  - is_a_/PodcastSeries
-  - schema-org/PodcastSeries
-tags:
-  - class/FileClass
-  - class/PodcastSeries
-  - is_a_/PodcastSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: KW0wzB
-    name: Actor
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: 0oNs4H
-    name: WebFeed
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')
-    type: MultiFile
-    path: ""
+- id: KW0wzB
+  name: Actor
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: 0oNs4H
+  name: WebFeed
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PodcastSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries
+- is_a_/PodcastSeries
+- schema-org/PodcastSeries
+tags:
+- class/FileClass
+- class/PodcastSeries
+- is_a_/PodcastSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries
+version: 2.0
 ---
 
 # PodcastSeries

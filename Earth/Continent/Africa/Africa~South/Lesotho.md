@@ -77,7 +77,7 @@ demonym:
   - ليسوطويات
   - ليسوثوي
   - ليسوثوية
-- "de Lesothu"
+  - "de Lesothu"
   - মোসোথো
   - Mosotho
   - Lesotano
@@ -217,9 +217,9 @@ Krugosvet_article: strany_mira/LESOTO.html
 official_name:
 - "Kingdom of Lesotho"
 - "le Royaume du Lesotho"
-  - Lesotho
+- Lesotho
 - "Muso oa Lesotho"
-  - Lesotho
+- Lesotho
 native_label: Lesotho
 short_name: "\U0001F1F1\U0001F1F8"
 nominal_GDP:

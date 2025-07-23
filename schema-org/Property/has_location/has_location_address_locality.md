@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_location_address_locality
-linkTitle: has_location_address_locality
-
-keywords: [address, locality]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - address-locality
 - address_locality
 - addressLocality
 - has_location_address_locality
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- address
+- locality
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_address_locality
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_location_address_locality
+type: Pred_Text
 ---
 
 Predicate to describe the Text of PostalAddress.

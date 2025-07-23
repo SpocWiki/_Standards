@@ -1,31 +1,31 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ParentAudience
-  - class/Thing/Intangible/Audience/PeopleAudience/ParentAudience
-  - is_a_/ParentAudience
-  - schema-org/ParentAudience
-tags:
-  - class/FileClass
-  - class/ParentAudience
-  - is_a_/ParentAudience
-  - class/Thing/Intangible/Audience/PeopleAudience/ParentAudience
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience
 fields:
-  - id: v2hhjw
-    name: ChildMaxAge
-    options: {}
-    type: Number
-    path: ""
-  - id: KvLFts
-    name: ChildMinAge
-    options: {}
-    type: Number
-    path: ""
+- id: v2hhjw
+  name: ChildMaxAge
+  options: {}
+  type: Number
+  path: ''
+- id: KvLFts
+  name: ChildMinAge
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ParentAudience
+- class/Thing/Intangible/Audience/PeopleAudience/ParentAudience
+- is_a_/ParentAudience
+- schema-org/ParentAudience
+tags:
+- class/FileClass
+- class/ParentAudience
+- is_a_/ParentAudience
+- class/Thing/Intangible/Audience/PeopleAudience/ParentAudience
+version: 2.0
 ---
 
 # ParentAudience

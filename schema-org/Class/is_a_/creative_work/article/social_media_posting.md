@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_social_media_posting Class
-linkTitle: is_a_social_media_posting Class
-
-keywords: [social_media_posting]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - social-media-posting
 - social_media_posting
 - SocialMediaPosting
 - is_a_social_media_posting
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- social_media_posting
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_social_media_posting Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_social_media_posting Class"
+type: Type
 ---
 
 Class of all social_media_postings.

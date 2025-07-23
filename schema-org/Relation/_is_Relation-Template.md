@@ -1,36 +1,37 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- ? label-dash: 
+  : 
+- ? label_snail: 
+  : 
+- ? label: 
+  : 
+- is_{{label_snail}}
 confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_{{label_snail}}
-
-linkTitle: is_{{label_snail}}
-keywords: [{{label_snail}}]
+keywords:
+- ? label_snail: 
+  : 
 layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: {{supersedes}}
-superseded_by: {{supersededBy}}
-
+license: "CC BY-SA 4.0"
+linkTitle: is_{{label_snail}}
+publish: true
+publishDate: 
+superseded_by:
+  ? supersededBy: 
+  : 
+supersedes:
+  ? supersedes: 
+  : 
 tags:
 - class/Relation
 - schema-org/Relation
-
-aliases:
-- {{label-dash}}
-- {{label_snail}}
-- {{label}}
-- is_{{label_snail}}
+title: is_{{label_snail}}
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: {{isPartOf}}]

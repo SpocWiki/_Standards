@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_from
-linkTitle: has_location_from
-
-keywords: [from_location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - from-location
 - from_location
 - fromLocation
 - has_location_from
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- from_location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_from
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_from
+type: Pred_geo
 ---
 
 Predicate to describe the location of ExerciseAction, MoveAction, TransferAction.

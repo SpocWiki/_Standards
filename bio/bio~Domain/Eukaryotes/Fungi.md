@@ -1,69 +1,70 @@
----
-title: Fungi
+﻿---
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl"
+AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070"
 aliases:
-  - fungus
-  - Fungi
-  - funguses
-has_id_wikidata: Q764
+- fungus
+- Fungi
+- funguses
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]'
+Colon_Classification: I23
+Commons_category: Fungi
+Commons_gallery: Fungi
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+Dewey_Decimal_Classification:
+- 579.6
+- 579
+- 664.001579
+- 579.5
+different_from: '[[_Standards/WikiData/WD~plant,756]]'
+EPPO_Code: 1FUNGK
 FoodEx2_code: A0ETG
-MeSH_tree_code: B01.300
-UMLS_CUI:
-  - C0016832
-  - C0369241
+has_id_wikidata: Q764
+has_part_s_:
+- '[[_Standards/WikiData/WD~mushroom,83093]]'
+- '[[_Standards/WikiData/WD~mycelium,326228]]'
+Iconclass_notation: 25G54
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 555705
 Krugosvet_article: nauka_i_tehnika/biologiya/GRIBI.html
 Library_of_Congress_Classification: QK600-QK638
-Dewey_Decimal_Classification:
-  - "579.6"
-  - "579"
-  - "664.001579"
-  - "579.5"
-has_part_s_:
-  - "[[_Standards/WikiData/WD~mushroom,83093]]"
-  - "[[_Standards/WikiData/WD~mycelium,326228]]"
+MeSH_tree_code: B01.300
 mode_of_reproduction:
-  - "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
-  - "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
-parent_taxon: "[[_Standards/WikiData/WD~Holomycota,2943473]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fungi,10814969]]"
-topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]"
-  - "[[_Standards/WikiData/WD~Template_Fungus,14403518]]"
-3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fungi,39087041]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant_based_food,107122728]]"
-start_time: -410000000-01-01
-different_from: "[[_Standards/WikiData/WD~plant,756]]"
-studied_by: "[[_Standards/WikiData/WD~mycology,7175]]"
-subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
-properties_for_this_type: mode of reproduction
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
-OmegaWiki_Defined_Meaning: "1588"
-ITIS_TSN: "555705"
-Colon_Classification: I23
+- '[[_Standards/WikiData/WD~asexual_reproduction,173432]]'
+- '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
 montage_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg
-Commons_gallery: Fungi
-Commons_category: Fungi
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg"
+OmegaWiki_Defined_Meaning: 1588
+parent_taxon: '[[_Standards/WikiData/WD~Holomycota,2943473]]'
+properties_for_this_type: "mode of reproduction"
+start_time: -410000000-01-01
+studied_by: '[[_Standards/WikiData/WD~mycology,7175]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
 taxon_name: Fungi
-image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg
-AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
-EPPO_Code: 1FUNGK
-Iconclass_notation: 25G54
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~plant_based_food,107122728]]'
+title: Fungi
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]'
+- '[[_Standards/WikiData/WD~Template_Fungus,14403518]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fungi,10814969]]'
+UMLS_CUI:
+- C0016832
+- C0369241
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
 ---
+
 # [[Fungi]] 
 
 Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc. 

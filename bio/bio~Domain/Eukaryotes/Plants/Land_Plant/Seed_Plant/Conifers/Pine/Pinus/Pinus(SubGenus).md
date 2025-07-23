@@ -1,5 +1,5 @@
----
-title: subgenus Pinus
+﻿---
+title: "subgenus Pinus"
 ---
 
 # [[Pinus(SubGenus)]] 

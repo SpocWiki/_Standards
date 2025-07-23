@@ -1,10 +1,9 @@
----
-has_id_wikidata: Q259438
+﻿---
 aliases:
-  - Hirse
-  - Millet 
+- Hirse
+- Millet
+has_id_wikidata: Q259438
 ---
-
 
 ## #has_/text_of_/abstract 
 

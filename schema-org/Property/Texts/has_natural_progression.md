@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_natural_progression
-linkTitle: has_text_of_natural_progression
-
-keywords: [natural, progression]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - natural-progression
 - natural_progression
 - naturalProgression
 - has_text_of_natural_progression
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- natural
+- progression
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_natural_progression
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_natural_progression
+type: Pred_Text
 ---
 
 Predicate to describe the Text of MedicalCondition.

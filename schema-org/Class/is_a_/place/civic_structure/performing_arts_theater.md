@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_performing_arts_theater Class
-linkTitle: is_a_performing_arts_theater Class
-
-keywords: [performing_arts_theater]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - performing-arts-theater
 - performing_arts_theater
 - PerformingArtsTheater
 - is_a_performing_arts_theater
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- performing_arts_theater
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_performing_arts_theater Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_performing_arts_theater Class"
+type: Type
 ---
 
 Class of all performing_arts_theaters.

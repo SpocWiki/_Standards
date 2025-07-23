@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wholesale_store Class
-linkTitle: is_a_wholesale_store Class
-
-keywords: [wholesale_store]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wholesale-store
 - wholesale_store
 - WholesaleStore
 - is_a_wholesale_store
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wholesale_store
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wholesale_store Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wholesale_store Class"
+type: Type
 ---
 
 Class of all wholesale_stores.

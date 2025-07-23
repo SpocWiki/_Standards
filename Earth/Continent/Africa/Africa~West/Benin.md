@@ -282,7 +282,7 @@ INSEE_countries_and_foreign_territories_code: 99327
 official_name:
 - "Republic of Benin"
 - "République du Bénin"
-  - Bénin
+- Bénin
 - "Beninská republika"
 male_population:
   - 4887820

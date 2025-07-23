@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- sub-property-of
+- subproperty-of
+- subproperty_of
+- sub_property_of
+- subPropertyOf
+- is_sub_property_of
+- is_a_kind_of
+- are_a_kind_of
+- rdfs~subPropertyOf
+- 
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_sub_property_of
-linkTitle: is_sub_property_of
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_sub_property_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Relation
-aliases:
-  - sub-property-of
-  - subproperty-of
-  - subproperty_of
-  - sub_property_of
-  - subPropertyOf
-  - is_sub_property_of
-  - is_a_kind_of
-  - are_a_kind_of
-  - rdfs~subPropertyOf
-  - 
+- schema-org/Relation
+title: is_sub_property_of
+type: Predi_Relation
 ---
 
 # [[../Relation/is_sub_property_of]]

@@ -1,8 +1,8 @@
----
-title: Strepsirrhini
+﻿---
 aliases:
-  - Strepsirrhini
-  - Strepsirhini
+- Strepsirrhini
+- Strepsirhini
+title: Strepsirrhini
 ---
 
 # [[Strepsirrhini]] 

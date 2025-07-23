@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_adult_oriented_enumeration Class
-linkTitle: is_an_adult_oriented_enumeration Class
-
-keywords: [adult_oriented_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - adult-oriented-enumeration
 - adult_oriented_enumeration
 - AdultOrientedEnumeration
 - is_an_adult_oriented_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- adult_oriented_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_adult_oriented_enumeration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_adult_oriented_enumeration Class"
+type: Type
 ---
 
 Class of all adult_oriented_enumerations. 

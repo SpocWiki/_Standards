@@ -1,43 +1,43 @@
----
-has_sub_properties:
-  - [[has_borrower]] 
-  - [[has_lender]] 
-  - [[has_buyer]] 
-  - [[has_seller]] 
-  - [[has_endorsee]] 
-  - [[has_landlord]] 
-  - [[has_loser]] 
-  - [[has_winner]] 
-  - [[has_opponent]] 
-  - [[has_real_estate_agent]] 
-  - [[has_recipient]] 
-  - [[has_sender]] 
-  - [[has_sports_team]] 
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- participant
+- participant
+- participant
+- has_participant
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
+has_sub_properties:
+- - - has_borrower
+- - - has_lender
+- - - has_buyer
+- - - has_seller
+- - - has_endorsee
+- - - has_landlord
+- - - has_loser
+- - - has_winner
+- - - has_opponent
+- - - has_real_estate_agent
+- - - has_recipient
+- - - has_sender
+- - - has_sports_team
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_participant
-linkTitle: has_participant
 keywords:
-  - participant
+- participant
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_participant
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - participant
-  - participant
-  - participant
-  - has_participant
+- class/Relation
+- schema-org/Relation
+title: has_participant
+type: Predi_Relation
 ---
 
 # [[has_participants]] 

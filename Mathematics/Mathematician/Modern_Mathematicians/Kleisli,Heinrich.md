@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Heinrich Kleisli
+- "Heinrich Kleisli"
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_bed_and_breakfast Class
-linkTitle: is_a_bed_and_breakfast Class
-
-keywords: [bed_and_breakfast]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - bed-and-breakfast
 - bed_and_breakfast
 - BedAndBreakfast
 - is_a_bed_and_breakfast
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bed_and_breakfast
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_bed_and_breakfast Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_bed_and_breakfast Class"
+type: Type
 ---
 
 Class of all bed_and_breakfasts.

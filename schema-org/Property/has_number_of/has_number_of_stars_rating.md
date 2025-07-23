@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_star-rating
-linkTitle: has_star-rating
-
-keywords: [star-rating]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - star_rating
 - star-rating
 - starRating
 - has_number_of_stars_rating
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- star-rating
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_star-rating
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_star-rating
+type: Predi_Quantity
 ---
 
 [[../../Predicate|Predicate]] to describe the relative Quality of a [[../../Class/is_a_/organization/local_business/food_establishment|FoodEstablishment]], [[../../Class/is_a_/organization/local_business/lodging_business|LodgingBusiness]]  etc.

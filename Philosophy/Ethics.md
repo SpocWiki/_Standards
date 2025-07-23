@@ -1,52 +1,52 @@
----
-has_id_wikidata: Q9465
-U_S_National_Archives_Identifier: 10638634
-Commons_category: Ethics
+﻿---
+Basisklassifikation: 08.38
 Colon_Classification: R4
-GitHub_topic: ethics
-PhilPapers_topic: ethics
+Commons_category: Ethics
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_ethics,1294205]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+Dewey_Decimal_Classification: 170
+different_from: '[[_Standards/WikiData/WD~ethology,7155]]'
+GitHub_topic: ethics
+has_id_wikidata: Q9465
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ethics,1294205]]'
+Iconclass_notation: 11L52
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rage-and-anger-fresco.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+IPTC_NewsCode: mediatopic/20000814
+Library_of_Congress_Classification: BJ1-BJ1725
+main_subject: '[[_Standards/WikiData/WD~behavior,9332]]'
+MeSH_tree_code:
+- K01.752.566.479
+- N05.350
+OmegaWiki_Defined_Meaning: 1349
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+PhilPapers_topic: ethics
 practiced_by: '[[_Standards/WikiData/WD~ethicist,5403434]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ethics,7112626]]"
-topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Ethics,9177432]]'
-- "[[_Standards/WikiData/WD~Template_Ethics_sidebar,123923571]]"
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-%C3%A8tic.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-%C3%A8tic.wav"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-%C3%A8tic.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rage-and-anger-fresco.jpg"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/ethics"
 Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/ethics"
-Basisklassifikation: 08.38
-Iconclass_notation: 11L52
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"MoralPhilosophy::c56pr\"]"
-MeSH_tree_code:
-- K01.752.566.479
-- N05.350
-IPTC_NewsCode: mediatopic/20000814
-instance_of:
-- "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-- "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ethics,13406057]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-Library_of_Congress_Classification: BJ1-BJ1725
 subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
-different_from: '[[_Standards/WikiData/WD~ethology,7155]]'
-main_subject: '[[_Standards/WikiData/WD~behavior,9332]]'
-Dewey_Decimal_Classification: 170
-OmegaWiki_Defined_Meaning: 1349
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Ethics,9177432]]'
+- '[[_Standards/WikiData/WD~Template_Ethics_sidebar,123923571]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ethics,13406057]]'
+U_S_National_Archives_Identifier: 10638634
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ethics,7112626]]'
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"MoralPhilosophy::c56pr\"]"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/ethics"
 ---
 
 # [[Ethics]] 

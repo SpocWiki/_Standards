@@ -1,8 +1,9 @@
----
+﻿---
 aliases:
-  - South Europe
-  - Southern Europe
+- "South Europe"
+- "Southern Europe"
 ---
+
 ﻿# Europe~South
 
 Southern Europe is commonly associated with the countries at the Mediterranean Sea. 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_specialty Class
-linkTitle: is_a_specialty Class
-
-keywords: [specialty]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - specialty
 - specialty
 - Specialty
 - is_a_specialty
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- specialty
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_specialty Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_specialty Class"
+type: Type
 ---
 
 Class of all specialtys.

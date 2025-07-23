@@ -1,34 +1,34 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- sub-class-of
+- subclass-of
+- subclass_of
+- sub_class_of
+- subClassOf
+- is_subclass_of
+- is_a_kind_of
+- is_a
+- are_a_kind_of
+- rdfs~subClassOf
+- Class-Specialization
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_subclass_of
-linkTitle: is_subclass_of
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_subclass_of
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Relation
-aliases:
-  - sub-class-of
-  - subclass-of
-  - subclass_of
-  - sub_class_of
-  - subClassOf
-  - is_subclass_of
-  - is_a_kind_of
-  - is_a
-  - are_a_kind_of
-  - rdfs~subClassOf
-  - Class-Specialization
+- schema-org/Relation
+title: is_subclass_of
+type: Predi_Relation
 ---
 
 #is_/similar_to :: [[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 

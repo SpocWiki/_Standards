@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_data_download Class
-linkTitle: is_a_data_download Class
-
-keywords: [data_download]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://www.w3.org/ns/dcat#Distribution
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - data-download
 - data_download
 - DataDownload
 - is_a_data_download
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://www.w3.org/ns/dcat#Distribution"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- data_download
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_data_download Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_data_download Class"
+type: Type
 ---
 
 Class of all data_downloads.

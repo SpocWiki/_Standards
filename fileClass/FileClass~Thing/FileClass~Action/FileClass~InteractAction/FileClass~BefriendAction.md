@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BefriendAction
-  - class/Thing/Action/InteractAction/BefriendAction
-  - is_a_/BefriendAction
-  - schema-org/BefriendAction
-tags:
-  - class/FileClass
-  - class/BefriendAction
-  - is_a_/BefriendAction
-  - class/Thing/Action/InteractAction/BefriendAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BefriendAction
+- class/Thing/Action/InteractAction/BefriendAction
+- is_a_/BefriendAction
+- schema-org/BefriendAction
+tags:
+- class/FileClass
+- class/BefriendAction
+- is_a_/BefriendAction
+- class/Thing/Action/InteractAction/BefriendAction
+version: 2.0
 ---
 
 # BefriendAction

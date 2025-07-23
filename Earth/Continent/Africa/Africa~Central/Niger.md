@@ -137,8 +137,8 @@ demonym:
   - Nigerier
   - Nigerierin
   - Nigerien
-- "ניז'רי"
-- "ניז'רית"
+  - "ניז'רי"
+  - "ניז'רית"
   - nigeri
   - Nijerano
   - nigerine
@@ -247,7 +247,7 @@ Krugosvet_article: strany_mira/NIGER.html
 official_name:
 - "la République du Niger"
 - "Jamhuriyar Nijar"
-  - Niger
+- Niger
 native_label: Nijar
 short_name: "\U0001F1F3\U0001F1EA"
 coordinates_of_westernmost_point: "Point(0.16896 14.52207)"

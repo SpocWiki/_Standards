@@ -100,7 +100,7 @@ demonym:
   - marxalés
   - marxalesa
   - Marshallaise
-- "מאיי מרשל"
+  - "מאיי מרשל"
   - marshallesi
   - маршалльцы
   - marshałeza
@@ -129,7 +129,7 @@ official_name:
 - "Marshall Islands"
 short_name:
 - "\U0001F1F2\U0001F1ED"
-  - MH
+- MH
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Marshall_Islands,13360414]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Marshall_Islands_portal,15145524]]"
@@ -266,7 +266,7 @@ aliases:
 - "Islas Marshall"
 - "Îles Marshall"
 - "جزر مارشال"
-    - 马绍尔群岛
+- 马绍尔群岛
 - "Маршалловы Острова"
 - "the Republic of the Marshall Islands"
 - "Marshall Islands (the)"

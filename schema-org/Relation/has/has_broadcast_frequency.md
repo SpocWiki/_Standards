@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_broadcast_frequency
-
-linkTitle: has_broadcast_frequency
-keywords: [broadcast, frequency]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - broadcast-frequency
 - broadcast_frequency
 - broadcastFrequency
 - has_broadcast_frequency
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast
+- frequency
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_broadcast_frequency
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_broadcast_frequency
+type: Predi_Relation
 ---
 
 Use it like this: 

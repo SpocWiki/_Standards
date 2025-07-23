@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_category_code_set Class
-linkTitle: is_a_category_code_set Class
-
-keywords: [category_code_set]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - category-code-set
 - category_code_set
 - CategoryCodeSet
 - is_a_category_code_set
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- category_code_set
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_category_code_set Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_category_code_set Class"
+type: Type
 ---
 
 Class of all category_code_sets.

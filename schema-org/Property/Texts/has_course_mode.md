@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_course_mode
-linkTitle: has_text_of_course_mode
-
-keywords: [course, mode]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - course-mode
 - course_mode
 - courseMode
 - has_text_of_course_mode
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- course
+- mode
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_course_mode
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_course_mode
+type: Pred_Text
 ---
 
 Predicate to describe the Text of CourseInstance.

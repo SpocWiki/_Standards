@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_staged_content Class
-linkTitle: is_a_staged_content Class
-
-keywords: [staged_content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MediaManipulationRatingEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - staged-content
 - staged_content
 - StagedContent
 - is_a_staged_content
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MediaManipulationRatingEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- staged_content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_staged_content Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_staged_content Class"
+type: Type
 ---
 
 Class of all staged_contents.

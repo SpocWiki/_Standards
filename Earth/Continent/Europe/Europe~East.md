@@ -1,8 +1,9 @@
----
+﻿---
 aliases:
-  - East Europe
-  - Eastern Europe
+- "East Europe"
+- "Eastern Europe"
 ---
+
 ﻿
 
 

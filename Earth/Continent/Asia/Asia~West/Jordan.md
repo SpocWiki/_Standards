@@ -309,12 +309,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Jordan
-    - Jordania
-    - Jordanie
-    - الأردن
-    - 约旦
-    - Иордания
+- Jordan
+- Jordania
+- Jordanie
+- الأردن
+- 约旦
+- Иордания
 - "the Hashemite Kingdom of Jordan"
 - "el Reino Hachemita de Jordania"
 Languages:

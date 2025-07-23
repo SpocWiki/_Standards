@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_parent_audience Class
-linkTitle: is_a_parent_audience Class
-
-keywords: [parent_audience]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - parent-audience
 - parent_audience
 - ParentAudience
 - is_a_parent_audience
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- parent_audience
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_parent_audience Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_parent_audience Class"
+type: Type
 ---
 
 Class of all parent_audiences.

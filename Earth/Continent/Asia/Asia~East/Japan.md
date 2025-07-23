@@ -187,7 +187,7 @@ nickname:
 - "The Land of the Rising Sun"
 - "Pays du Soleil levant"
 - "ארץ השמש העולה"
-  - 日出る国
+- 日出る国
 - "Страна Восходящего Солнца"
 - "Terra del sol naixent"
 - "Land der aufgehenden Sonne"
@@ -230,7 +230,7 @@ demonym:
   - japoniar
   - giapponesi
   - 日本人
-- "orang Jepun"
+  - "orang Jepun"
   - Japanner
   - Japończyk
   - japonezi
@@ -453,7 +453,7 @@ Mastodon_instance_URL:
 UMLS_CUI: C0005984
 short_name:
 - "\U0001F1EF\U0001F1F5"
-  - Japan
+- Japan
 Environmental_Performance_Index: 57.2
 annual_number_of_weddings:
   - 621000
@@ -581,12 +581,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Japan
-    - Japón
-    - Japon
-    - اليابان
-    - 日本
-    - Япония
+- Japan
+- Japón
+- Japon
+- اليابان
+- 日本
+- Япония
 - "el Japón"
 - "Japón (el)"
 Languages:

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_cvd-num-beds-occ
-linkTitle: has_number_of_cvd-num-beds-occ
-
-keywords: [cvd-num-beds-occ]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - cvd_num_beds_occ
 - cvd-num-beds-occ
 - cvdNumBedsOcc
 - has_number_of_Covid_beds_occ
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cvd-num-beds-occ
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_cvd-num-beds-occ
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_cvd-num-beds-occ
+type: Predi_Count
 ---
 
 Predicate to describe the Number of CDCPMDRecord.

@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Bolivia
+- Bolivia
 - "Bolivia (Plurinational State of)"
 - "Bolivia (Estado Plurinacional de)"
 - "Bolivie (État plurinational de)"
 - "بوليفيا (دولة - المتعددة القوميات)"
-  - 玻利维亚(多民族国)
+- 玻利维亚(多民族国)
 - "Боливия (Многонациональное Государство)"
 - "the Plurinational State of Bolivia"
 - "Estado Plurinacional de Bolivia"

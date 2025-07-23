@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - International Monetary Fund
+- "International Monetary Fund"
 ---
-
 
 ## #has_/text_of_/abstract 
 

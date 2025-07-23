@@ -1,31 +1,4 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_class Class
-linkTitle: is_a_class Class
-
-keywords: [class]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: rdfs:class
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - class
 - Class
@@ -35,6 +8,25 @@ aliases:
 - has_url_for_additional_type
 - rdfs~Class
 - is_a_class
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "rdfs:class"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- class
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_class Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_class Class"
+type: Type
 ---
 
 # Class / Type 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_yearly-revenue
-linkTitle: has_yearly-revenue
-
-keywords: [yearly-revenue]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - yearly_revenue
 - yearly-revenue
 - yearlyRevenue
 - has_value_for_yearly_revenue
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- yearly-revenue
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_yearly-revenue
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_yearly-revenue
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of BusinessAudience.

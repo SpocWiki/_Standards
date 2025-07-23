@@ -1,48 +1,48 @@
----
-type: Element
-SpocWebEntityId: 21990
-has_id_wikidata: Q1872
-part_of:
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav"
-EC_number: 231-144-4
-Dewey_Decimal_Classification: 546.441
+﻿---
+atomic_number: 95
+canonical_SMILES: '[Am]'
 CAS_Registry_Number: 7440-35-9
+chemical_formula: Am
+Commons_category: Americium
+Commons_gallery: Americium
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+Dewey_Decimal_Classification: 546.441
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+DSSTOX_compound_identifier: DTXCID6047658
+EC_number: 231-144-4
+electronegativity: 1.13
+element_symbol: Am
+has_id_wikidata: Q1872
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg"
+InChI: InChI=1S/Am
+InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.85
+- 0.95
+- 0.98
+- 1.09
+mass: 243
 MeSH_tree_code:
 - D01.268.271.100.050
 - D01.268.556.037
 - D01.496.749.305.100.050
 - D01.552.020.086
 - D01.552.544.037
-DSSTOX_compound_identifier: DTXCID6047658
-InChI: InChI=1S/Am
-InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
-UNII: VW92PHU2UY
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg"
 named_after: '[[_Standards/WikiData/WD~Americas,828]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-ionic_radius:
-- 0.85
-- 0.95
-- 0.98
-- 1.09
-atomic_number: 95
-electronegativity: 1.13
-mass: 243
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
-chemical_formula: Am
-element_symbol: Am
-PubChem_CID: 23966
 OmegaWiki_Defined_Meaning: 155847
-time_of_discovery_or_invention: "1944"
-canonical_SMILES: '[Am]'
+part_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav"
+PubChem_CID: 23966
+SpocWebEntityId: 21990
+time_of_discovery_or_invention: 1944
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]'
+type: Element
 Unicode_character: 鋂
-Commons_gallery: Americium
-Commons_category: Americium
+UNII: VW92PHU2UY
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 

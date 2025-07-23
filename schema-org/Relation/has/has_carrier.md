@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_carrier
-
-linkTitle: has_carrier
-keywords: [carrier]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: provider
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - carrier
 - carrier
 - carrier
 - has_carrier
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- carrier
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_carrier
+publish: true
+publishDate: 
+superseded_by: provider
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_carrier
+type: Predi_Relation
 ---
 
 Use it like this: 

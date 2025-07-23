@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_basic_income Class
-linkTitle: is_a_basic_income Class
-
-keywords: [basic_income]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: GovernmentBenefitsType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - basic-income
 - basic_income
 - BasicIncome
 - is_a_basic_income
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: GovernmentBenefitsType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- basic_income
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_basic_income Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_basic_income Class"
+type: Type
 ---
 
 Class of all basic_incomes.

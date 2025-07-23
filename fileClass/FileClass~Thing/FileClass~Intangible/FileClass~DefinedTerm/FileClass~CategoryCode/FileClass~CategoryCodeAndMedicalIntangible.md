@@ -1,56 +1,56 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CategoryCodeAndMedicalIntangible
-  - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible
-  - is_a_/CategoryCodeAndMedicalIntangible
-  - schema-org/CategoryCodeAndMedicalIntangible
-tags:
-  - class/FileClass
-  - class/CategoryCodeAndMedicalIntangible
-  - is_a_/CategoryCodeAndMedicalIntangible
-  - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode
 fields:
-  - id: 13Lhdj
-    name: Code
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')
-    type: MultiFile
-    path: ""
-  - id: gxIeFR
-    name: Funding
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
-    type: MultiFile
-    path: ""
-  - id: yoC7cv
-    name: Guideline
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')
-    type: MultiFile
-    path: ""
-  - id: 4QPZ5R
-    name: LegalStatus
-    options: {}
-    type: Input
-    path: ""
-  - id: ln3Cg5
-    name: RecognizingAuthority
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: zk3BQo
-    name: Study
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')
-    type: MultiFile
-    path: ""
+- id: 13Lhdj
+  name: Code
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')"
+  type: MultiFile
+  path: ''
+- id: gxIeFR
+  name: Funding
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Grant')"
+  type: MultiFile
+  path: ''
+- id: yoC7cv
+  name: Guideline
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')"
+  type: MultiFile
+  path: ''
+- id: 4QPZ5R
+  name: LegalStatus
+  options: {}
+  type: Input
+  path: ''
+- id: ln3Cg5
+  name: RecognizingAuthority
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: zk3BQo
+  name: Study
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CategoryCodeAndMedicalIntangible
+- class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible
+- is_a_/CategoryCodeAndMedicalIntangible
+- schema-org/CategoryCodeAndMedicalIntangible
+tags:
+- class/FileClass
+- class/CategoryCodeAndMedicalIntangible
+- is_a_/CategoryCodeAndMedicalIntangible
+- class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible
+version: 2.0
 ---
 
 # CategoryCodeAndMedicalIntangible

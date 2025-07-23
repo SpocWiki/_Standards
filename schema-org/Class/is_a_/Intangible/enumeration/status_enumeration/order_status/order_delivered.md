@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_order_delivered Class
-linkTitle: is_an_order_delivered Class
-
-keywords: [order_delivered]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: OrderStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - order-delivered
 - order_delivered
 - OrderDelivered
 - is_an_order_delivered
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: OrderStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- order_delivered
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_order_delivered Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_order_delivered Class"
+type: Type
 ---
 
 Class of all order_delivereds.

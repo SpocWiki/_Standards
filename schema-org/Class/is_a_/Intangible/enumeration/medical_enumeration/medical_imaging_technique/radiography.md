@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_radiography Class
-linkTitle: is_a_radiography Class
-
-keywords: [radiography]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalImagingTechnique
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - radiography
 - radiography
 - Radiography
 - is_a_radiography
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalImagingTechnique
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- radiography
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_radiography Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_radiography Class"
+type: Type
 ---
 
 Class of all radiographys.

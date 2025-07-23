@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_experience_in_place_of_education
-linkTitle: is_experience_in_place_of_education
-
-keywords: [experience_in_place_of_education]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - experience-in-place-of-education
 - experience_in_place_of_education
 - experienceInPlaceOfEducation
 - is_experience_in_place_of_education
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- experience_in_place_of_education
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_experience_in_place_of_education
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_experience_in_place_of_education
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

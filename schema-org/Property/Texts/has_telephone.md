@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- telephone
+- telephone/Mobile
+- telephone
+- has_text_of_telephone
+- "schema:telephone"
+- "wdt:P1329"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_telephone
-linkTitle: has_text_of_telephone
 keywords:
-  - telephone
+- telephone
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_telephone
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - telephone
-  - telephone/Mobile
-  - telephone
-  - has_text_of_telephone
-  - schema:telephone
-  - wdt:P1329
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_telephone
+type: Pred_Text
 ---
 
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.

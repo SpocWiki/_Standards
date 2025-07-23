@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_departure_platform
-linkTitle: has_text_of_departure_platform
-
-keywords: [departure, platform]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - departure-platform
 - departure_platform
 - departurePlatform
 - has_text_of_departure_platform
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- departure
+- platform
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_departure_platform
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_departure_platform
+type: Pred_Text
 ---
 
 Predicate to describe the Text of TrainTrip.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_seating_map Class
-linkTitle: is_a_seating_map Class
-
-keywords: [seating_map]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MapCategoryType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - seating-map
 - seating_map
 - SeatingMap
 - is_a_seating_map
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MapCategoryType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- seating_map
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_seating_map Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_seating_map Class"
+type: Type
 ---
 
 Class of all seating_maps.

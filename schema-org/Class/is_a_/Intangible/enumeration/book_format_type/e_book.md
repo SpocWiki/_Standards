@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_e_book Class
-linkTitle: is_an_e_book Class
-
-keywords: [e_book]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BookFormatType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - e-book
 - e_book
 - EBook
 - is_an_e_book
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BookFormatType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- e_book
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_e_book Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_e_book Class"
+type: Type
 ---
 
 Class of all e_books.

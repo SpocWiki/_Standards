@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_western_conventional Class
-linkTitle: is_a_western_conventional Class
-
-keywords: [western_conventional]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicineSystem
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - western-conventional
 - western_conventional
 - WesternConventional
 - is_a_western_conventional
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicineSystem
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- western_conventional
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_western_conventional Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_western_conventional Class"
+type: Type
 ---
 
 Class of all western_conventionals.

@@ -1,8 +1,8 @@
----
-title: Damaliscus pygargus
+﻿---
 aliases:
-  - Damaliscus pygargus
-  - Bontebok
+- "Damaliscus pygargus"
+- Bontebok
+title: "Damaliscus pygargus"
 ---
 
 # [[Bontebok]] 

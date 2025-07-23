@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - List_of_Nobel_laureates_in_Chemistry
-  - Nobel Prize in Chemistry
-  - Nobelpriset i kemi
+- List_of_Nobel_laureates_in_Chemistry
+- "Nobel Prize in Chemistry"
+- "Nobelpriset i kemi"
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BuyAction
-  - class/Thing/Action/TradeAction/BuyAction
-  - is_a_/BuyAction
-  - schema-org/BuyAction
-tags:
-  - class/FileClass
-  - class/BuyAction
-  - is_a_/BuyAction
-  - class/Thing/Action/TradeAction/BuyAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-  - id: EG30sn
-    name: Seller
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
+- id: EG30sn
+  name: Seller
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BuyAction
+- class/Thing/Action/TradeAction/BuyAction
+- is_a_/BuyAction
+- schema-org/BuyAction
+tags:
+- class/FileClass
+- class/BuyAction
+- is_a_/BuyAction
+- class/Thing/Action/TradeAction/BuyAction
+version: 2.0
 ---
 
 # BuyAction

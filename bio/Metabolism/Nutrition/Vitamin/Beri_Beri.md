@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Beri Beri
-  - Thiamine deficiency
-  - beriberi
+- "Beri Beri"
+- "Thiamine deficiency"
+- beriberi
 ---
 
 #is_/similar_to :: [[Scurvy]] 

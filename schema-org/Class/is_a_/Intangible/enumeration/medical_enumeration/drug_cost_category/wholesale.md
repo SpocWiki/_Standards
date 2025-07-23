@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wholesale Class
-linkTitle: is_a_wholesale Class
-
-keywords: [wholesale]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DrugCostCategory
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wholesale
 - wholesale
 - Wholesale
 - is_a_wholesale
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DrugCostCategory
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wholesale
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wholesale Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wholesale Class"
+type: Type
 ---
 
 Class of all wholesales.

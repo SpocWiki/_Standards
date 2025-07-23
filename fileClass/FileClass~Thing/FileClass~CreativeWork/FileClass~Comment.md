@@ -1,37 +1,37 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Comment
-  - class/Thing/CreativeWork/Comment
-  - is_a_/Comment
-  - schema-org/Comment
-tags:
-  - class/FileClass
-  - class/Comment
-  - is_a_/Comment
-  - class/Thing/CreativeWork/Comment
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: Aevrjc
-    name: DownvoteCount
-    options: {}
-    type: Number
-    path: ""
-  - id: eeEgcQ
-    name: ParentItem
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
-    type: MultiFile
-    path: ""
-  - id: GjDOsM
-    name: UpvoteCount
-    options: {}
-    type: Number
-    path: ""
+- id: Aevrjc
+  name: DownvoteCount
+  options: {}
+  type: Number
+  path: ''
+- id: eeEgcQ
+  name: ParentItem
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/Comment')"
+  type: MultiFile
+  path: ''
+- id: GjDOsM
+  name: UpvoteCount
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Comment
+- class/Thing/CreativeWork/Comment
+- is_a_/Comment
+- schema-org/Comment
+tags:
+- class/FileClass
+- class/Comment
+- is_a_/Comment
+- class/Thing/CreativeWork/Comment
+version: 2.0
 ---
 
 # Comment

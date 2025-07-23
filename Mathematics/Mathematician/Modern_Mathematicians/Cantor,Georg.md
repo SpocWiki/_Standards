@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Georg Cantor
+- "Georg Cantor"
 ---
 
 - [[#has_/time_/started :: 1845-03-03]] [[#has_/place_ :: [[St.Petersburg]] ]] 

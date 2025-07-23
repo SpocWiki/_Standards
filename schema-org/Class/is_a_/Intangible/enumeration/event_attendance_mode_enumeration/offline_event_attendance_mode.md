@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_offline_event_attendance_mode Class
-linkTitle: is_an_offline_event_attendance_mode Class
-
-keywords: [offline_event_attendance_mode]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: EventAttendanceModeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - offline-event-attendance-mode
 - offline_event_attendance_mode
 - OfflineEventAttendanceMode
 - is_an_offline_event_attendance_mode
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: EventAttendanceModeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- offline_event_attendance_mode
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_offline_event_attendance_mode Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_offline_event_attendance_mode Class"
+type: Type
 ---
 
 Class of all offline_event_attendance_modes.

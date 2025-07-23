@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Methanal
+- Methanal
 ---
 
 ## Structure 

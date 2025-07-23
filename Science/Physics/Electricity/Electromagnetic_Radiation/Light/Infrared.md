@@ -1,21 +1,13 @@
----
-has_id_wikidata: Q11388
-follows: "[[_Standards/WikiData/WD~visible_spectrum,76299]]"
-part_of: "[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]"
-facet_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
-subclass_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+﻿---
+Commons_category: Infrared
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 does_not_have_characteristic: '[[_Standards/WikiData/WD~visibility,30301666]]'
-used_by: "[[_Standards/WikiData/WD~infrared_perception,47015713]]"
-Stack_Exchange_tag:
-- "https://physics.stackexchange.com/tags/infrared-radiation"
-- "https://electronics.stackexchange.com/tags/infrared"
-UMLS_CUI: C0021431
-OmegaWiki_Defined_Meaning: 1942
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ir%20girl.png"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3.wav"
 exact_match: "http://purl.obolibrary.org/obo/ENVO_21001214"
+facet_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+follows: '[[_Standards/WikiData/WD~visible_spectrum,76299]]'
+has_id_wikidata: Q11388
 IEV_number: 845-21-004
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ir%20girl.png"
 MeSH_tree_code:
 - G01.358.500.505.650.552
 - G01.590.540.552
@@ -24,7 +16,15 @@ MeSH_tree_code:
 - G16.500.275.063.725.525.400
 - G16.500.750.775.525.400
 - N06.230.300.100.725.525.400
-Commons_category: Infrared
+OmegaWiki_Defined_Meaning: 1942
+part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4%20%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3.wav"
+Stack_Exchange_tag:
+- "https://physics.stackexchange.com/tags/infrared-radiation"
+- "https://electronics.stackexchange.com/tags/infrared"
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+UMLS_CUI: C0021431
+used_by: '[[_Standards/WikiData/WD~infrared_perception,47015713]]'
 ---
 
 ## #has_/text_of_/abstract 

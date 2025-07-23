@@ -1,14 +1,14 @@
----
-location:
-    - 46.7833
-    - -56.1667
-type: Country
-tags:
-    - geo/Country
-SpocWebEntityId: 26997
-isDeleted: false
+﻿---
 confidential: public
 icon: flag-pm
+isDeleted: false
+location:
+- 46.7833
+- -56.1667
+SpocWebEntityId: 26997
+tags:
+- geo/Country
+type: Country
 ---
 
 # [[Saint-Pierre-et-Miquelon]] 

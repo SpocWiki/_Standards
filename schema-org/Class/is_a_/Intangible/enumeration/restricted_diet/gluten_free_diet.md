@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_gluten_free_diet Class
-linkTitle: is_a_gluten_free_diet Class
-
-keywords: [gluten_free_diet]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: RestrictedDiet
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - gluten-free-diet
 - gluten_free_diet
 - GlutenFreeDiet
 - is_a_gluten_free_diet
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: RestrictedDiet
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- gluten_free_diet
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_gluten_free_diet Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_gluten_free_diet Class"
+type: Type
 ---
 
 Class of all gluten_free_diets.

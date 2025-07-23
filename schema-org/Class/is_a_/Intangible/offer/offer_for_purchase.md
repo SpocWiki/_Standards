@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_offer_for_purchase Class
-linkTitle: is_an_offer_for_purchase Class
-
-keywords: [offer_for_purchase]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - offer-for-purchase
 - offer_for_purchase
 - OfferForPurchase
 - is_an_offer_for_purchase
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- offer_for_purchase
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_offer_for_purchase Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_offer_for_purchase Class"
+type: Type
 ---
 
 Class of all offer_for_purchases.

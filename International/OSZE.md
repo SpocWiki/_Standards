@@ -1,12 +1,14 @@
----
+﻿---
 aliases:
-  - Organization for Security and Co-operation in Europe
-  - OSZE
-  - OSCE
+- "Organization for Security and Co-operation in Europe"
+- OSZE
+- OSCE
 TableByName:
-  "OSZE.tsv":
-    columns: ["country","year"]
-    headings:  
+  OSZE.tsv:
+    columns:
+    - country
+    - year
+    headings: 
     align: "|---|--:|:--|:-:|"
 ---
 

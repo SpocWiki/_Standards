@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BreadcrumbList
-  - class/Thing/Intangible/ItemList/BreadcrumbList
-  - is_a_/BreadcrumbList
-  - schema-org/BreadcrumbList
-tags:
-  - class/FileClass
-  - class/BreadcrumbList
-  - is_a_/BreadcrumbList
-  - class/Thing/Intangible/ItemList/BreadcrumbList
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ItemList
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BreadcrumbList
+- class/Thing/Intangible/ItemList/BreadcrumbList
+- is_a_/BreadcrumbList
+- schema-org/BreadcrumbList
+tags:
+- class/FileClass
+- class/BreadcrumbList
+- is_a_/BreadcrumbList
+- class/Thing/Intangible/ItemList/BreadcrumbList
+version: 2.0
 ---
 
 # BreadcrumbList

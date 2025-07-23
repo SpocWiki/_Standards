@@ -1,9 +1,10 @@
----
-title: Hominidae
+﻿---
 aliases:
-  - great ape
-  - hominid
+- "great ape"
+- hominid
+title: Hominidae
 ---
+
 # [[Hominidae]]
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family|bio~Family]] 

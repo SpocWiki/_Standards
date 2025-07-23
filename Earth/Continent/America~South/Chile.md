@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Chile
-  - Chili
-  - شيلي
-  - 智利
-  - Чили
+- Chile
+- Chili
+- شيلي
+- 智利
+- Чили
 - "the Republic of Chile"
 - "la República de Chile"
 Languages:
@@ -75,7 +75,7 @@ demonym:
   - chileno
   - Chilien
   - Chilienne
-- "צ'יליאני"
+  - "צ'יליאני"
   - chilei
   - Chiliano
   - cilena
@@ -109,10 +109,10 @@ motto_text:
 official_name:
 - "Republik Chile"
 - "Republic of Chile"
-  - Chile
+- Chile
 - "République du Chili"
 native_label:
-  - Chile
+- Chile
 - "República de Chile"
 short_name: "\U0001F1E8\U0001F1F1"
 death_rate: 7.199

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CivicStructureAndLodgingBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness
-  - is_a_/CivicStructureAndLodgingBusiness
-  - schema-org/CivicStructureAndLodgingBusiness
-tags:
-  - class/FileClass
-  - class/CivicStructureAndLodgingBusiness
-  - is_a_/CivicStructureAndLodgingBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 fields:
-  - id: t28qXe
-    name: OpeningHours
-    options: {}
-    type: Input
-    path: ""
+- id: t28qXe
+  name: OpeningHours
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CivicStructureAndLodgingBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness
+- is_a_/CivicStructureAndLodgingBusiness
+- schema-org/CivicStructureAndLodgingBusiness
+tags:
+- class/FileClass
+- class/CivicStructureAndLodgingBusiness
+- is_a_/CivicStructureAndLodgingBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness
+version: 2.0
 ---
 
 # CivicStructureAndLodgingBusiness

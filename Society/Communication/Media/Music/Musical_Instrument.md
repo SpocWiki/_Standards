@@ -1,56 +1,56 @@
----
+﻿---
 aliases:
 - "Musical instrument"
-has_id_wikidata: Q34379
-Wolfram_Language_entity_type: MusicalInstrument
-subclass_of:
-- "[[_Standards/WikiData/WD~sound_generator,267228]]"
-- "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-- "[[_Standards/WikiData/WD~music_equipment,56146933]]"
-- "[[_Standards/WikiData/WD~physical_tool,39546]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_effect: "[[_Standards/WikiData/WD~instrumental_music,639197]]"
-used_by:
-- '[[_Standards/WikiData/WD~musician,639669]]'
-- '[[_Standards/WikiData/WD~instrumentalist,1278335]]'
-studied_in: '[[_Standards/WikiData/WD~organology,899293]]'
-has_characteristic: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_instrument,5626749]]"
-- "[[_Standards/WikiData/WD~Template_Musical_instruments,6512705]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Musical_Instruments,14325699]]"
-has_part_s_: "[[_Standards/WikiData/WD~musical_instrument_part,19659292]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Historical%20instruments.jpg"
-has_use: '[[_Standards/WikiData/WD~music,638]]'
-Wikidata_property: instrument
-properties_for_this_type:
-- "Hornbostel-Sachs classification"
-- "playing range image"
-Dewey_Decimal_Classification: 784
-IAB_code: 243
-Nomenclature_for_Museum_Cataloging: 10655
+Basisklassifikation: 24.64
 Commons_category: "Musical instruments"
-logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Music%20Instruments%20background.svg"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Musical%20instruments%20banner%20Piano.jpg"
+Commons_gallery: "Musical instrument"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Dewey_Decimal_Classification: 784
+EAGLE_id: decor/lod/170
 equivalent_class:
 - "http://id.loc.gov/ontologies/bibframe/MusicInstrument"
 - "http://performedmusicontology.org/ontology/IndividualMediumOfPerformance"
-U_S_National_Archives_Identifier: 10645892
-Basisklassifikation: 24.64
-OmegaWiki_Defined_Meaning: 642764
-EAGLE_id: decor/lod/170
-Krugosvet_article: kultura_i_obrazovanie/muzyka/MUZIKALNIE_INSTRUMENTI.html
+has_characteristic: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+has_effect: '[[_Standards/WikiData/WD~instrumental_music,639197]]'
+has_id_wikidata: Q34379
+has_part_s_: '[[_Standards/WikiData/WD~musical_instrument_part,19659292]]'
+has_use: '[[_Standards/WikiData/WD~music,638]]'
+IAB_code: 243
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Historical%20instruments.jpg"
 IPTC_NewsCode: mediatopic/20000019
-Commons_gallery: "Musical instrument"
+Krugosvet_article: kultura_i_obrazovanie/muzyka/MUZIKALNIE_INSTRUMENTI.html
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Music%20Instruments%20background.svg"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Musical_Instruments,14325699]]'
+Nomenclature_for_Museum_Cataloging: 10655
+OmegaWiki_Defined_Meaning: 642764
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Musical%20instruments%20banner%20Piano.jpg"
+properties_for_this_type:
+- "Hornbostel-Sachs classification"
+- "playing range image"
+studied_in: '[[_Standards/WikiData/WD~organology,899293]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~sound_generator,267228]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~music_equipment,56146933]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_instrument,5626749]]'
+- '[[_Standards/WikiData/WD~Template_Musical_instruments,6512705]]'
+used_by:
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~instrumentalist,1278335]]'
+U_S_National_Archives_Identifier: 10645892
+Wikidata_property: instrument
+Wolfram_Language_entity_type: MusicalInstrument
 ---
 
 ## #has_/text_of_/abstract 

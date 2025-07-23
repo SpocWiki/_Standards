@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_user_interaction_count
-linkTitle: has_number_of_user_interaction_count
-
-keywords: [user_interaction_count]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - user-interaction-count
 - user_interaction_count
 - userInteractionCount
 - has_number_of_user_interactions
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_interaction_count
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_user_interaction_count
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_user_interaction_count
+type: Predi_Count
 ---
 
 Predicate to describe the Number of InteractionCounter.

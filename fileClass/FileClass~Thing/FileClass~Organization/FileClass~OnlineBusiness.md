@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OnlineBusiness
-  - class/Thing/Organization/OnlineBusiness
-  - is_an_/OnlineBusiness
-  - schema-org/OnlineBusiness
-tags:
-  - class/FileClass
-  - class/OnlineBusiness
-  - "#is_an_/OnlineBusiness"
-  - class/Thing/Organization/OnlineBusiness
 extends: FileClass~Thing/FileClass~Organization
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OnlineBusiness
+- class/Thing/Organization/OnlineBusiness
+- is_an_/OnlineBusiness
+- schema-org/OnlineBusiness
+tags:
+- class/FileClass
+- class/OnlineBusiness
+- '#is_an_/OnlineBusiness'
+- class/Thing/Organization/OnlineBusiness
+version: 2.0
 ---
 
 # OnlineBusiness

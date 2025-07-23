@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Boris Karloff
-  - Karloff the Uncanny
-  - William Henry Pratt
+- "Boris Karloff"
+- "Karloff the Uncanny"
+- "William Henry Pratt"
 ---
 
 # [[Karloff,Boris]] 

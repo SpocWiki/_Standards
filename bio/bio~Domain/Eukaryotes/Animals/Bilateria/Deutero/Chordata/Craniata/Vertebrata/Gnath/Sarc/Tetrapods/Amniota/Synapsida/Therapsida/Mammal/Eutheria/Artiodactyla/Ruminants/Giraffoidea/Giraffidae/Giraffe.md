@@ -1,7 +1,7 @@
----
-title: Giraffa
+﻿---
 aliases:
-  - Giraffa
+- Giraffa
+title: Giraffa
 ---
 
 # Giraffa

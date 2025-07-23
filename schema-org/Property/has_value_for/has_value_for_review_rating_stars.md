@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_review-rating
-linkTitle: has_review-rating
-
-keywords: [review-rating]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - review_rating
 - review-rating
 - reviewRating
 - has_value_for_review_rating_stars
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- review-rating
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_review-rating
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_review-rating
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Review.

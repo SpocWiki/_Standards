@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_imaging_test Class
-linkTitle: is_an_imaging_test Class
-
-keywords: [imaging_test]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - imaging-test
 - imaging_test
 - ImagingTest
 - is_an_imaging_test
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- imaging_test
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_imaging_test Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_imaging_test Class"
+type: Type
 ---
 
 Class of all imaging_tests.

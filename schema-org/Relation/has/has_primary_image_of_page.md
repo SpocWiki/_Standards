@@ -1,33 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_primary_image_of_page
-
-linkTitle: has_primary_image_of_page
-keywords: [primary, image, of, page]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - primary-image-of-page
 - primary_image_of_page
 - primaryImageOfPage
 - has_primary_image_of_page
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- primary
+- image
+- of
+- page
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_primary_image_of_page
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_primary_image_of_page
+type: Predi_Relation
 ---
 
 Use it like this: 

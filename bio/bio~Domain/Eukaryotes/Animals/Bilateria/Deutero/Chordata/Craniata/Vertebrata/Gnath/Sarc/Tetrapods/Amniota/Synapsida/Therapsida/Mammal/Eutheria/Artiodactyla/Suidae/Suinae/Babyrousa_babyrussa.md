@@ -1,11 +1,11 @@
----
-title: Babyrousa babyrussa
+﻿---
 aliases:
-  - Babyrousa babyrussa
-  - Buru babirusa
-  - Moluccan babirusa
-  - golden babirusa
-  - hairy babirusa
+- "Babyrousa babyrussa"
+- "Buru babirusa"
+- "Moluccan babirusa"
+- "golden babirusa"
+- "hairy babirusa"
+title: "Babyrousa babyrussa"
 ---
 
 # Babyrousa babyrussa 

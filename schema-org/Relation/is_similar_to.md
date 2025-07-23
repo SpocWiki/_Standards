@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_similar_to
-
-linkTitle: is_similar_to
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - is-similar-to
 - similar_to
 - isSimilarTo
 - is_similar_to
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_similar_to
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_similar_to
+type: Predi_Relation
 ---
 
 #is_/similar_to :: [[is_same_as]] 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_interact_action Class
-linkTitle: is_an_interact_action Class
-
-keywords: [interact_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - interact-action
 - interact_action
 - InteractAction
 - is_an_interact_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- interact_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_interact_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_interact_action Class"
+type: Type
 ---
 
 Class of all interact_actions.

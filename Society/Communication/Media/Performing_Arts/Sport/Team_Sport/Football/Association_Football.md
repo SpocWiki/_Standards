@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - soccer
-  - association football
-  - Football
+- soccer
+- "association football"
+- Football
 has_id_wikidata: Q2736
 ---
 

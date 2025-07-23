@@ -1,9 +1,9 @@
----
+﻿---
 has_member:
-  - "[[../Europe~North/Norway|Norway]]"
-  - "[[Switzerland]]"
-  - "[[../Europe~North/Iceland|Iceland]]"
-  - "[[Liechtenstein]]"
+- '[[../Europe~North/Norway|Norway]]'
+- '[[Switzerland]]'
+- '[[../Europe~North/Iceland|Iceland]]'
+- '[[Liechtenstein]]'
 ---
 
 #has_/time_/started :: 1960-03-03 

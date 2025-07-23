@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Kuwait
-  - Koweït
-  - الكويت
-  - 科威特
-  - Кувейт
+- Kuwait
+- Koweït
+- الكويت
+- 科威特
+- Кувейт
 - "the State of Kuwait"
 - "el Estado de Kuwait"
 Languages:
@@ -108,7 +108,7 @@ coordinates_of_easternmost_point: "Point(48.784722222 28.822777777)"
 coordinates_of_southernmost_point: "Point(47.70489 28.52445)"
 official_name:
 - "دَولَةُ الكُوَيت"
-  - Koweït
+- Koweït
 BHCL_UUID: 913f1295-57f3-4e8a-afd9-aac0e295969f
 demonym:
   - كويتي

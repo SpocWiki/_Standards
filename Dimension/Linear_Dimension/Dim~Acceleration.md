@@ -1,39 +1,39 @@
----
-has_id_wikidata: Q11376
-subclass_of:
-- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-- "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
-- "[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre_Varignon,379219]]"
-followed_by: '[[_Standards/WikiData/WD~jerk,497332]]'
+﻿---
+Commons_category: Acceleration
+defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {a}}={\\frac {\\mathrm {d} {\\boldsymbol {v}}}{\\mathrm {d} t}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">a</mi>\n        </mrow>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"bold-italic\">v</mi>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>t</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {a}}={\\frac {\\mathrm {d} {\\boldsymbol {v}}}{\\mathrm {d} t}}}</annotation>\n  </semantics>\n</math>"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~metres_per_second_squared,1051665]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~acceleration,22827994]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from: '[[_Standards/WikiData/WD~acceleration,28458703]]'
-Stack_Exchange_tag: "https://physics.stackexchange.com/tags/acceleration"
-UMLS_CUI: C0000894
-MeSH_tree_code: G01.482.107
-quantity_symbol_LaTeX_: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {a}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">a</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {a}}}</annotation>\n  </semantics>\n</math>"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Pierre_Varignon,379219]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+followed_by: '[[_Standards/WikiData/WD~jerk,497332]]'
+follows: '[[_Standards/WikiData/WD~velocity,11465]]'
+has_id_wikidata: Q11376
+IEV_number: 113-01-38
 in_defining_formula:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {a}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">a</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {a}}}</annotation>\n  </semantics>\n</math>"
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {v}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">v</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {v}}}</annotation>\n  </semantics>\n</math>"
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle t}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>t</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle t}</annotation>\n  </semantics>\n</math>"
-follows: '[[_Standards/WikiData/WD~velocity,11465]]'
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Acceleration%20components.JPG"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Gravity%20gravita%20grave.gif"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A3.wav"
-IEV_number: 113-01-38
-OmegaWiki_Defined_Meaning: 672065
-Commons_category: Acceleration
 ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}{\\mathsf {T}}^{-2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">L</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- − --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}{\\mathsf {T}}^{-2}}</annotation>\n  </semantics>\n</math>"
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {a}}={\\frac {\\mathrm {d} {\\boldsymbol {v}}}{\\mathrm {d} t}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">a</mi>\n        </mrow>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"bold-italic\">v</mi>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>t</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {a}}={\\frac {\\mathrm {d} {\\boldsymbol {v}}}{\\mathrm {d} t}}}</annotation>\n  </semantics>\n</math>"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+MeSH_tree_code: G01.482.107
+OmegaWiki_Defined_Meaning: 672065
+permanent_duplicated_item: '[[_Standards/WikiData/WD~acceleration,22827994]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A3.wav"
+quantity_symbol_LaTeX_: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {a}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">a</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {a}}}</annotation>\n  </semantics>\n</math>"
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metres_per_second_squared,1051665]]'
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Acceleration%20components.JPG"
+Stack_Exchange_tag: "https://physics.stackexchange.com/tags/acceleration"
+subclass_of:
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
+UMLS_CUI: C0000894
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Gravity%20gravita%20grave.gif"
 ---
 
 # [[Dim~Acceleration]] 

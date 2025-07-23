@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_naics
-linkTitle: has_text_of_naics
-
-keywords: [naics]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - naics
 - naics
 - naics
 - has_text_of_naics
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- naics
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_naics
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_naics
+type: Pred_Text
 ---
 
 Predicate with the North American Industry Classification System (NAICS) code for a particular organization or business person.

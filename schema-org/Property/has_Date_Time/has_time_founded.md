@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- founding-date
+- founding_date
+- foundingDate
+- has_time_of_founding
+- "schema:founded"
+- "dbo:foundingDate"
+- "wdt:P571"
 confidential: public
+cssclasses:
+- Predicate
+- Date_Time
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Date_Time
-publish: true
-type: Predi_Date_Time
-title: has_time_of_founding
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Date
-aliases:
-  - founding-date
-  - founding_date
-  - foundingDate
-  - has_time_of_founding
-  - schema:founded
-  - dbo:foundingDate
-  - wdt:P571
+- class/Property
+- schema-org/Property/Date
+title: has_time_of_founding
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of Organization.

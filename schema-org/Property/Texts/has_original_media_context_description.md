@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_original_media_context_description
-linkTitle: has_text_of_original_media_context_description
-
-keywords: [original, media, context, description]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - original-media-context-description
 - original_media_context_description
 - originalMediaContextDescription
 - has_text_of_original_media_context_description
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- original
+- media
+- context
+- description
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_original_media_context_description
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_original_media_context_description
+type: Pred_Text
 ---
 
 Predicate to describe the Text of MediaReview.

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_event_status
-
-linkTitle: has_event_status
-keywords: [event, status]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - event-status
 - event_status
 - eventStatus
 - has_event_status
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event
+- status
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_event_status
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_event_status
+type: Predi_Relation
 ---
 
 Use it like this: 

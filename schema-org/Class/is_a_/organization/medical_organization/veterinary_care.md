@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_veterinary_care Class
-linkTitle: is_a_veterinary_care Class
-
-keywords: [veterinary_care]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - veterinary-care
 - veterinary_care
 - VeterinaryCare
 - is_a_veterinary_care
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- veterinary_care
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_veterinary_care Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_veterinary_care Class"
+type: Type
 ---
 
 Class of all veterinary_cares.

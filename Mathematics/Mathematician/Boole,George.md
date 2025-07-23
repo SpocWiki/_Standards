@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - George Boole
+- "George Boole"
 ---
 
 ## #has_/text_of_/abstract 

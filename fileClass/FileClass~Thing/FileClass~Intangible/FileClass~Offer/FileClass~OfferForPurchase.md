@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OfferForPurchase
-  - class/Thing/Intangible/Offer/OfferForPurchase
-  - is_an_/OfferForPurchase
-  - schema-org/OfferForPurchase
-tags:
-  - class/FileClass
-  - class/OfferForPurchase
-  - "#is_an_/OfferForPurchase"
-  - class/Thing/Intangible/Offer/OfferForPurchase
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OfferForPurchase
+- class/Thing/Intangible/Offer/OfferForPurchase
+- is_an_/OfferForPurchase
+- schema-org/OfferForPurchase
+tags:
+- class/FileClass
+- class/OfferForPurchase
+- '#is_an_/OfferForPurchase'
+- class/Thing/Intangible/Offer/OfferForPurchase
+version: 2.0
 ---
 
 # OfferForPurchase

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - rachitis
+- rachitis
 ---
 
 ## #has_/text_of_/abstract 

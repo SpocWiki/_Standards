@@ -1,78 +1,78 @@
----
-type: Element
-SpocWebEntityId: 21932
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~selenium_exposure,2268113]]'
+atomic_number: 34
+boiling_point: 1265
+canonical_SMILES: '[Se]'
+CAS_Registry_Number: 7782-49-2
+chemical_formula: Se
+Commons_category: Selenium
+Commons_gallery: Selenium
+density: 4.28
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+- '[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]'
+DSSTOX_compound_identifier: DTXCID701261
+EC_number: 231-957-4
+electronegativity: 2.55
+element_symbol: Se
+found_in_taxon: '[[_Standards/WikiData/WD~Hedysarum,148973]]'
+has_effect: '[[_Standards/WikiData/WD~selenium_exposure,2268113]]'
 has_id_wikidata: Q876
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Selen%201.jpg"
+immediately_dangerous_to_life_or_health: 1
+InChI: InChI=1S/Se
 InChIKey: BUGBHKTXTAQXES-UHFFFAOYSA-N
-UMLS_CUI: C0036581
+instance_of:
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.5
+- 0.28
+- 0.42
+location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+made_from_material: '[[_Standards/WikiData/WD~selenide_minerals,3954748]]'
+mass: 78.971
+medical_condition_treated: '[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]'
+melting_point: 392
 MeSH_tree_code:
 - D01.268.185.850
 - D01.578.700
-DSSTOX_compound_identifier: DTXCID701261
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Selenium\"]"
-UNII: H6241UJ22B
-InChI: InChI=1S/Se
-RTECS_number: VS7700000
-part_of:
-- "[[_Standards/WikiData/WD~group_16,104567]]"
-- "[[_Standards/WikiData/WD~period_4,239825]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~group_16,104567]]"
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-subject_has_role:
-- '[[_Standards/WikiData/WD~antioxidant,133948]]'
-- "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-found_in_taxon: '[[_Standards/WikiData/WD~Hedysarum,148973]]'
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
-- "[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-medical_condition_treated: "[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]"
-instance_of:
-- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-- "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-associated_hazard: "[[_Standards/WikiData/WD~selenium_exposure,2268113]]"
-has_effect: "[[_Standards/WikiData/WD~selenium_exposure,2268113]]"
-made_from_material: "[[_Standards/WikiData/WD~selenide_minerals,3954748]]"
 named_after: '[[_Standards/WikiData/WD~Moon,405]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754]]'
-different_from: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+OmegaWiki_Defined_Meaning: 3373
 oxidation_state:
 - -2
 - 2
 - 4
 - 6
-vapor_pressure: 0
-immediately_dangerous_to_life_or_health: 1
-time_weighted_average_exposure_limit: 0.2
-ionic_radius:
-- 0.5
-- 0.28
-- 0.42
-atomic_number: 34
-electronegativity: 2.55
-melting_point: 392
-density: 4.28
-boiling_point: 1265
-OmegaWiki_Defined_Meaning: 3373
-mass: 78.971
-ZVG_number: 7340
+part_of:
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
 PubChem_CID: 6326970
-chemical_formula: Se
-element_symbol: Se
+RTECS_number: VS7700000
+SpocWebEntityId: 21932
+subclass_of:
+- '[[_Standards/WikiData/WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+subject_has_role:
+- '[[_Standards/WikiData/WD~antioxidant,133948]]'
+- '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+time_of_discovery_or_invention: 1817
+time_weighted_average_exposure_limit: 0.2
+type: Element
+UMLS_CUI: C0036581
 Unicode_character: 硒
-canonical_SMILES: '[Se]'
-time_of_discovery_or_invention: "1817"
-Commons_gallery: Selenium
-Commons_category: Selenium
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Selen%201.jpg"
-EC_number: 231-957-4
-CAS_Registry_Number: 7782-49-2
+UNII: H6241UJ22B
+vapor_pressure: 0
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Selenium\"]"
+ZVG_number: 7340
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Selenium,876]] 

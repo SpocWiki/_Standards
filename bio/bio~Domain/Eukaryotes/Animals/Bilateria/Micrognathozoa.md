@@ -1,8 +1,8 @@
----
-title: Limnognathia maerski
+﻿---
 aliases:
-  - Micrognathozoa
-  - Limnognathia
+- Micrognathozoa
+- Limnognathia
+title: "Limnognathia maerski"
 ---
 
 ## [[Micrognathozoa]] 

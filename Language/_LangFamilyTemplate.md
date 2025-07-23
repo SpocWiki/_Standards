@@ -1,17 +1,16 @@
----
-type: LangFamily
-license: CC BY-SA 4.0
-publish: true
+﻿---
+aliases:
+- 
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-tags: 
+license: "CC BY-SA 4.0"
+publish: true
+tags:
 - Lang_Family
-
-aliases:
-- 
+type: LangFamily
 ---
+
 SpocWebEntityId: {{Id}}
 
 [Name::{{Name}}]

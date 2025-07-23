@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: siren
-version: "2.0"
-tagNames:
-  - class/FireStation
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation
-  - is_a_/FireStation
-  - schema-org/FireStation
-tags:
-  - class/FileClass
-  - class/FireStation
-  - is_a_/FireStation
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService
 fields: []
+icon: siren
+limit: 9
+mapWithTag: true
+tagNames:
+- class/FireStation
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation
+- is_a_/FireStation
+- schema-org/FireStation
+tags:
+- class/FileClass
+- class/FireStation
+- is_a_/FireStation
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation
+version: 2.0
 ---
 
 # FireStation

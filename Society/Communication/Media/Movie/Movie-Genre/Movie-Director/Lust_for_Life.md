@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Lust for Life
+- "Lust for Life"
 ---
-
 
 ## #has_/text_of_/abstract 
 

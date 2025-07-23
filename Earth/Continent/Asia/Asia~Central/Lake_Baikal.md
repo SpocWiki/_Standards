@@ -1,24 +1,40 @@
 ---
 aliases:
 - "Lake Baikal"
-has_id_wikidata: Q5513
+area: 31722
+basin_country:
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+category_for_the_water_basin: '[[_Standards/WikiData/WD~Q7508126,7508126]]'
 Commons_category: "Lake Baikal"
 Commons_gallery: "Озеро Байкал"
-native_label:
-- "Байгал нуур"
-- "Байгал нуур"
-- "ᠪᠠᠶᠢᠭᠠᠯᠢ ᠳᠠᠯᠠᠢ"
-- "Байгал далай"
-- "Байгал далай"
-- "озеро Байкал"
-lowest_point: "http://www.wikidata.org/.well-known/genid/54869a9695683eea674bc6dacafa15c6"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
+coordinate_location: "Point(108.00472222 53.30277778)"
+country: '[[_Standards/WikiData/WD~Russia,159]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+different_from: '[[_Standards/WikiData/WD~Baykal,298847]]'
+drainage_basin: '[[_Standards/WikiData/WD~Yenisey_basin,2887499]]'
+elevation_above_sea_level: 455.5
+has_cause: '[[_Standards/WikiData/WD~rift_lake,6341928]]'
+has_id_wikidata: Q5513
+heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Olkhon%20Island%20and%20Lake%20Baikal.jpg"
 inflows:
 - '[[_Standards/WikiData/WD~Selenga,75745]]'
 - '[[_Standards/WikiData/WD~Tyya,248756]]'
 - '[[_Standards/WikiData/WD~Snezhnaya,785531]]'
 - '[[_Standards/WikiData/WD~Barguzin,808176]]'
 - '[[_Standards/WikiData/WD~Turka,1009177]]'
-- "[[_Standards/WikiData/WD~Upper_Angara,1054311]]"
+- '[[_Standards/WikiData/WD~Upper_Angara,1054311]]'
 - '[[_Standards/WikiData/WD~Khara-Murin,2090382]]'
 - '[[_Standards/WikiData/WD~Utulik,2462900]]'
 - '[[_Standards/WikiData/WD~Davsha,3017105]]'
@@ -35,49 +51,33 @@ inflows:
 - '[[_Standards/WikiData/WD~Slyudyanka,35267412]]'
 - '[[_Standards/WikiData/WD~Krestovka,37754757]]'
 - '[[_Standards/WikiData/WD~Enkhaluk,76088219]]'
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
+length: 636
+located_in_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Irkutsk_Oblast,6585]]'
+- '[[_Standards/WikiData/WD~Buryatia,6809]]'
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20baikal2.png"
+lowest_point: "http://www.wikidata.org/.well-known/genid/54869a9695683eea674bc6dacafa15c6"
+native_label:
+- "Байгал нуур"
+- "Байгал нуур"
+- "ᠪᠠᠶᠢᠭᠠᠯᠢ ᠳᠠᠯᠠᠢ"
+- "Байгал далай"
+- "Байгал далай"
+- "озеро Байкал"
 outflows: '[[_Standards/WikiData/WD~Angara,162737]]'
-different_from: '[[_Standards/WikiData/WD~Baykal,298847]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Baikal%20banner1.jpg"
+perimeter: 2125
 shares_border_with: '[[_Standards/WikiData/WD~Transbaikal,644111]]'
-drainage_basin: "[[_Standards/WikiData/WD~Yenisey_basin,2887499]]"
-has_cause: "[[_Standards/WikiData/WD~rift_lake,6341928]]"
-category_for_the_water_basin: '[[_Standards/WikiData/WD~Q7508126,7508126]]'
+State_Water_Register_Code_Russia_: 16010100111116200000013
+vertical_depth: 1642
+volume_as_quantity: 23615.39
+watershed_area: 560000
+width: 79
 World_Heritage_criteria:
 - '[[_Standards/WikiData/WD~(viii),23038983]]'
 - '[[_Standards/WikiData/WD~(vii),23038981]]'
 - '[[_Standards/WikiData/WD~(ix),23038985]]'
-basin_country:
-- '[[_Standards/WikiData/WD~Mongolia,711]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-located_in_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Irkutsk_Oblast,6585]]"
-- '[[_Standards/WikiData/WD~Buryatia,6809]]'
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-country: '[[_Standards/WikiData/WD~Russia,159]]'
-watershed_area: 560000
-width: 79
-length: 636
-vertical_depth: 1642
-perimeter: 2125
-elevation_above_sea_level: 455.5
-area: 31722
-volume_as_quantity: 23615.39
-State_Water_Register_Code_Russia_: 16010100111116200000013
-coordinate_location: "Point(108.00472222 53.30277778)"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20baikal2.png"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Baikal%20banner1.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Olkhon%20Island%20and%20Lake%20Baikal.jpg"
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,19 +1,44 @@
----
-type: Element
-SpocWebEntityId: 21926
-has_id_wikidata: Q740
-Common_Procurement_Vocabulary_code: 14733000
-EC_number: 231-158-0
-UNII: 3G0H8C9362
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]'
+atomic_number: 27
+boiling_point:
+- 3200
+- 2927
+- 5612
 CAS_Registry_Number: 7440-48-4
-MeSH_tree_code:
-- D01.268.556.185
-- D01.268.956.155
-- D01.552.544.185
+Commons_category: Cobalt
+Commons_gallery: Cobalt
+Common_Procurement_Vocabulary_code: 14733000
+CPV_Supplementary_code: AA16
+density: 8.92
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Cobalt,84680734]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Georg_Brandt,473225]]'
 DSSTOX_compound_identifier: DTXCID9011040
-RTECS_number: GF8750000
+EC_number: 231-158-0
+electronegativity: 1.88
+electron_configuration: "[Ar] 3d⁷ 4s²"
+element_symbol: Co
+has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
+has_effect: '[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]'
+has_id_wikidata: Q740
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kobalt%20electrolytic%20and%201cm3%20cube.jpg"
+immediately_dangerous_to_life_or_health: 20
 InChIKey: GUTLYIVDDKVIGB-UHFFFAOYSA-N
-mass: 58.933194
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.9
+- 0.55
+- 0.56
+- 0.65
 made_from_material:
 - '[[_Standards/WikiData/WD~safflorite,120618]]'
 - '[[_Standards/WikiData/WD~erythrite,247914]]'
@@ -22,65 +47,40 @@ made_from_material:
 - '[[_Standards/WikiData/WD~cattierite,422339]]'
 - '[[_Standards/WikiData/WD~glaucodot,604784]]'
 - '[[_Standards/WikiData/WD~spherocobaltite,786358]]'
-has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
-subject_has_role:
-- '[[_Standards/WikiData/WD~allergen,186752]]'
-- '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-part_of:
-- "[[_Standards/WikiData/WD~group_9,208107]]"
-- "[[_Standards/WikiData/WD~period_4,239825]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Georg_Brandt,473225]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-- '[[_Standards/WikiData/WD~Cobalt,84680734]]'
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-named_after: '[[_Standards/WikiData/WD~kobold,1064669]]'
-subclass_of: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-associated_hazard: "[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]"
-has_effect: "[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]"
-UMLS_CUI: C0009148
-time_of_discovery_or_invention: "1735"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-vapor_pressure: 0
-time_weighted_average_exposure_limit:
-- 0.1
-- 0.05
-immediately_dangerous_to_life_or_health: 20
-oxidation_state: 2
-ionic_radius:
-- 0.9
-- 0.55
-- 0.56
-- 0.65
-atomic_number: 27
-boiling_point:
-- 3200
-- 2927
-- 5612
-electronegativity: 1.88
-density: 8.92
+mass: 58.933194
 melting_point:
 - 1495
 - 1768
 - 2719
+MeSH_tree_code:
+- D01.268.556.185
+- D01.268.956.155
+- D01.552.544.185
+named_after: '[[_Standards/WikiData/WD~kobold,1064669]]'
 OmegaWiki_Defined_Meaning: 645
-ZVG_number: 7270
-element_symbol: Co
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kobalt%20electrolytic%20and%201cm3%20cube.jpg"
-Commons_gallery: Cobalt
-Commons_category: Cobalt
-Unicode_character: 鈷
-CPV_Supplementary_code: AA16
+oxidation_state: 2
+part_of:
+- '[[_Standards/WikiData/WD~group_9,208107]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BA%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D1%82.ogg"
+RTECS_number: GF8750000
+SpocWebEntityId: 21926
+subclass_of: '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+subject_has_role:
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+time_of_discovery_or_invention: 1735
+time_weighted_average_exposure_limit:
+- 0.1
+- 0.05
+type: Element
+UMLS_CUI: C0009148
+Unicode_character: 鈷
+UNII: 3G0H8C9362
+vapor_pressure: 0
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/cobalt"
-electron_configuration: "[Ar] 3d⁷ 4s²"
+ZVG_number: 7270
 ---
 
 #chemic/Element 

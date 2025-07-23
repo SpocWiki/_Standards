@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_skin Class
-linkTitle: is_a_skin Class
-
-keywords: [skin]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PhysicalExam
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - skin
 - skin
 - Skin
 - is_a_skin
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PhysicalExam
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- skin
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_skin Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_skin Class"
+type: Type
 ---
 
 Class of all skins.

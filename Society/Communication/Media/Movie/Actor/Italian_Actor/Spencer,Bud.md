@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Carlo Pedersoli
-  - Bud Spencer
+- "Carlo Pedersoli"
+- "Bud Spencer"
 ---
 
 #has_/time_/started :: 1929-10-31  

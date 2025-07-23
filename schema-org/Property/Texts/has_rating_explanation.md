@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_rating_explanation
-linkTitle: has_text_of_rating_explanation
-
-keywords: [rating, explanation]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - rating-explanation
 - rating_explanation
 - ratingExplanation
 - has_text_of_rating_explanation
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- rating
+- explanation
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_rating_explanation
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_rating_explanation
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Rating.

@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Rock (geology)
+- "Rock (geology)"
 has_id_wikidata: Q8063
 ---
-
 
 ## #has_/text_of_/abstract 
 

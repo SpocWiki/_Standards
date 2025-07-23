@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_monoisotopic-molecular-weight
-linkTitle: has_monoisotopic-molecular-weight
-
-keywords: [monoisotopic-molecular-weight]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - monoisotopic_molecular_weight
 - monoisotopic-molecular-weight
 - monoisotopicMolecularWeight
 - has_value_for_monoisotopic_molecular_weight
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- monoisotopic-molecular-weight
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_monoisotopic-molecular-weight
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_monoisotopic-molecular-weight
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of MolecularEntity.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_email_message Class
-linkTitle: is_an_email_message Class
-
-keywords: [email_message]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - email-message
 - email_message
 - EmailMessage
 - is_an_email_message
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- email_message
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_email_message Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_email_message Class"
+type: Type
 ---
 
 Class of all email_messages.

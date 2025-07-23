@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_advance-booking-requirement
-linkTitle: has_advance-booking-requirement
-
-keywords: [advance-booking-requirement]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - advance_booking_requirement
 - advance-booking-requirement
 - advanceBookingRequirement
 - has_value_for_advance_booking_requirement
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- advance-booking-requirement
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_advance-booking-requirement
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_advance-booking-requirement
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Demand, Offer.

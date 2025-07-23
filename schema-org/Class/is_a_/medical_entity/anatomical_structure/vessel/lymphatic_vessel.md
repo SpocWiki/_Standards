@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_lymphatic_vessel Class
-linkTitle: is_a_lymphatic_vessel Class
-
-keywords: [lymphatic_vessel]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - lymphatic-vessel
 - lymphatic_vessel
 - LymphaticVessel
 - is_a_lymphatic_vessel
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lymphatic_vessel
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_lymphatic_vessel Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_lymphatic_vessel Class"
+type: Type
 ---
 
 Class of all lymphatic_vessels.

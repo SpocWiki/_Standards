@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_storage_requirements
-linkTitle: has_text_of_storage_requirements
-
-keywords: [storage, requirements]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - storage-requirements
 - storage_requirements
 - storageRequirements
 - has_text_of_storage_requirements
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- storage
+- requirements
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_storage_requirements
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_storage_requirements
+type: Pred_Text
 ---
 
 Predicate to describe the Text of SoftwareApplication.

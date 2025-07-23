@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_type_of_good
-
-linkTitle: has_type_of_good
-keywords: [type, of, good]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - type-of-good
 - type_of_good
 - typeOfGood
 - has_type_of_good
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- type
+- of
+- good
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_type_of_good
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_type_of_good
+type: Predi_Relation
 ---
 
 Use it like this: 

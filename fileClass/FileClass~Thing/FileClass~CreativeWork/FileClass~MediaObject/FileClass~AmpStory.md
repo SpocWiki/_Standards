@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AmpStory
-  - class/Thing/CreativeWork/MediaObject/AmpStory
-  - is_an_/AmpStory
-  - schema-org/AmpStory
-tags:
-  - class/FileClass
-  - class/AmpStory
-  - "#is_an_/AmpStory"
-  - class/Thing/CreativeWork/MediaObject/AmpStory
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AmpStory
+- class/Thing/CreativeWork/MediaObject/AmpStory
+- is_an_/AmpStory
+- schema-org/AmpStory
+tags:
+- class/FileClass
+- class/AmpStory
+- '#is_an_/AmpStory'
+- class/Thing/CreativeWork/MediaObject/AmpStory
+version: 2.0
 ---
 
 # AmpStory

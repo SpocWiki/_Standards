@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_lose_action Class
-linkTitle: is_a_lose_action Class
-
-keywords: [lose_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - lose-action
 - lose_action
 - LoseAction
 - is_a_lose_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lose_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_lose_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_lose_action Class"
+type: Type
 ---
 
 Class of all lose_actions.

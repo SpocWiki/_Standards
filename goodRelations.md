@@ -1,42 +1,29 @@
----
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
-
-# Obsidian well-known Keys
-cssclasses: private note
-publish: false
-
-# Hugo Tags
-# type: #Tags falls back to the Directory in Hugo
-type: private note
-title: goodRelations
-
-linkTitle: goodRelations
-keywords: [goodRelations]
-layout: 
-draft: true
-publishDate:
-expiryDate: 
-
-tags:
-- goodRelations
-- rather use #Tags (see below); remove the `#` if used here!
-
+﻿---
 aliases:
 - goodRelations
 - 
-
-# Thing-Facts
+confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
 has_time_started: 2023-12-06
-
-# any other Data:
+isDeleted: false
+isReadOnly: false
 Key: Value
-Predicate: #Object
-Predicate: "[[Object]]"
-
+keywords:
+- goodRelations
 lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: goodRelations
+Predicate: '[[Object]]'
+publish: false
+publishDate: 
+tags:
+- goodRelations
+- "rather use"
+title: goodRelations
+type: "private note"
 ---
 
 # [[goodRelations]] 

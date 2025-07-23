@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_merchant_return_enumeration Class
-linkTitle: is_a_merchant_return_enumeration Class
-
-keywords: [merchant_return_enumeration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: ProductReturnEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - merchant-return-enumeration
 - merchant_return_enumeration
 - MerchantReturnEnumeration
 - is_a_merchant_return_enumeration
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- merchant_return_enumeration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_merchant_return_enumeration Class"
+publish: true
+publishDate: 
+supersedes: ProductReturnEnumeration
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_merchant_return_enumeration Class"
+type: Type
 ---
 
 Class of all merchant_return_enumerations.

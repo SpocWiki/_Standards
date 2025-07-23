@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Paul_Ronzheimer 
-  - Paul Ronzheimer 
+- Paul_Ronzheimer
+- "Paul Ronzheimer"
 ---
 
 ## #has_/text_of_/abstract 

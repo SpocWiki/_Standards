@@ -1,38 +1,38 @@
----
-location:
-    - 64.25
-    - -51.67
-type: Country
-tags:
-    - geo/Country
-SpocWebEntityId: 26905
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
-publish: true
-title: Greenland
-linkTitle: null
-keywords: null
-layout: null
-draft: false
-publishDate: null
-expiryDate: null
+﻿---
 aliases:
-    - Greenland
-    - Groenlandia
-    - Groenland
-    - غرينلند
-    - 格陵兰
-    - Гренландия
-    - null
-Languages:
-    - kl
-    - da-GL
-    - en
+- Greenland
+- Groenlandia
+- Groenland
+- غرينلند
+- 格陵兰
+- Гренландия
+- 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
 icon: flag-gl
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- kl
+- da-GL
+- en
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 64.25
+- -51.67
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26905
+tags:
+- geo/Country
+title: Greenland
+type: Country
 ---
 
 # [[Greenland]] 

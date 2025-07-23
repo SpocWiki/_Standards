@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: false
+﻿---
 excludes: 
-icon: waves
-version: "2.0"
-tagNames:
-  - class/OceanBodyOfWater
-  - class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater
-  - is_an_/OceanBodyOfWater
-  - schema-org/OceanBodyOfWater
-tags:
-  - class/FileClass
-  - class/OceanBodyOfWater
-  - "#is_an_/OceanBodyOfWater"
-  - class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 fields: []
+icon: waves
+limit: 9
+mapWithTag: false
+tagNames:
+- class/OceanBodyOfWater
+- class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater
+- is_an_/OceanBodyOfWater
+- schema-org/OceanBodyOfWater
+tags:
+- class/FileClass
+- class/OceanBodyOfWater
+- '#is_an_/OceanBodyOfWater'
+- class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater
+version: 2.0
 ---
 
 # OceanBodyOfWater

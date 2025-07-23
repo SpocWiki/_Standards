@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_case_series Class
-linkTitle: is_a_case_series Class
-
-keywords: [case_series]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalObservationalStudyDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - case-series
 - case_series
 - CaseSeries
 - is_a_case_series
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalObservationalStudyDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- case_series
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_case_series Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_case_series Class"
+type: Type
 ---
 
 Class of all case_seriess.

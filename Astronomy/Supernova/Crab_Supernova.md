@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Crab Supernova
-  - SN 1054
+- "Crab Supernova"
+- "SN 1054"
 ---
 
 # [[Crab_Supernova]] 

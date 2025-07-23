@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_employer_overview
-linkTitle: has_text_of_employer_overview
-
-keywords: [employer, overview]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - employer-overview
 - employer_overview
 - employerOverview
 - has_text_of_employer_overview
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- employer
+- overview
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_employer_overview
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_employer_overview
+type: Pred_Text
 ---
 
 Predicate to describe the Text of JobPosting.

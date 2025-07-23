@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - Challenge
+- Challenge
 ---
+
 ﻿Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../Collection]]-Nature. 
 

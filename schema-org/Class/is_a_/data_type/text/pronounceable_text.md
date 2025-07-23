@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- pronounceable-text
+- pronounceable_text
+- PronounceableText
+- is_a_pronounceable_text
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_pronounceable_text Class
-linkTitle: is_a_pronounceable_text Class
 keywords:
-  - pronounceable_text
+- pronounceable_text
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_pronounceable_text Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - pronounceable-text
-  - pronounceable_text
-  - PronounceableText
-  - is_a_pronounceable_text
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_pronounceable_text Class"
+type: Type
 ---
 
 # [[pronounceable_text]] 

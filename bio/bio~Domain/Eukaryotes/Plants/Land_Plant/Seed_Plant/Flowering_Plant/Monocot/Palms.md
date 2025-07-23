@@ -1,9 +1,9 @@
----
-title: Arecanae
+﻿---
 aliases:
-  - Arecanae
-  - Principes
-  - Palms
+- Arecanae
+- Principes
+- Palms
+title: Arecanae
 ---
 
 ## Phylogeny 

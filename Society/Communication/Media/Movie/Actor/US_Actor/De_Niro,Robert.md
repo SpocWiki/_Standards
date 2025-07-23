@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Robert De Niro
-  - Robert Anthony De Niro
+- "Robert De Niro"
+- "Robert Anthony De Niro"
 ---
 
 #has_/time_/started :: 1943-08-17 

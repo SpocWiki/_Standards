@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_shipping_delivery_time Class
-linkTitle: is_a_shipping_delivery_time Class
-
-keywords: [shipping_delivery_time]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - shipping-delivery-time
 - shipping_delivery_time
 - ShippingDeliveryTime
 - is_a_shipping_delivery_time
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- shipping_delivery_time
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_shipping_delivery_time Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_shipping_delivery_time Class"
+type: Type
 ---
 
 Class of all shipping_delivery_times.

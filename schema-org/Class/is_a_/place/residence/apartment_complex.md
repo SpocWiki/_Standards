@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_apartment_complex Class
-linkTitle: is_an_apartment_complex Class
-
-keywords: [apartment_complex]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - apartment-complex
 - apartment_complex
 - ApartmentComplex
 - is_an_apartment_complex
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- apartment_complex
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_apartment_complex Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_apartment_complex Class"
+type: Type
 ---
 
 Class of all apartment_complexs.

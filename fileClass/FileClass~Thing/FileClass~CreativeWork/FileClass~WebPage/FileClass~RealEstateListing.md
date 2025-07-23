@@ -1,35 +1,35 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RealEstateListing
-  - class/Thing/CreativeWork/WebPage/RealEstateListing
-  - is_a_/RealEstateListing
-  - schema-org/RealEstateListing
-tags:
-  - class/FileClass
-  - class/RealEstateListing
-  - is_a_/RealEstateListing
-  - class/Thing/CreativeWork/WebPage/RealEstateListing
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields:
-  - id: A5vfPB
-    name: DatePosted
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: ww0wyU
-    name: LeaseLength
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
+- id: A5vfPB
+  name: DatePosted
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: ww0wyU
+  name: LeaseLength
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RealEstateListing
+- class/Thing/CreativeWork/WebPage/RealEstateListing
+- is_a_/RealEstateListing
+- schema-org/RealEstateListing
+tags:
+- class/FileClass
+- class/RealEstateListing
+- is_a_/RealEstateListing
+- class/Thing/CreativeWork/WebPage/RealEstateListing
+version: 2.0
 ---
 
 # RealEstateListing

@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_instances
-
-linkTitle: has_instances
-keywords: [part]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-instances
 - instances
 - hasinstances
 - has_instances
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- part
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_instances
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_instances
+type: Predi_Relation
 ---
 
 # [[has_instances]] 

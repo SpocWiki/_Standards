@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Papilionoideae
-  - Papilionaceae
-  - Faboideae
+- Papilionoideae
+- Papilionaceae
+- Faboideae
 ---
 
 ## #has_/text_of_/abstract 

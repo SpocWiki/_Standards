@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/SendAction
-  - class/Thing/Action/TransferAction/SendAction
-  - is_a_/SendAction
-  - schema-org/SendAction
-tags:
-  - class/FileClass
-  - class/SendAction
-  - is_a_/SendAction
-  - class/Thing/Action/TransferAction/SendAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: rGx6VN
-    name: Recipient
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
+- id: rGx6VN
+  name: Recipient
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/SendAction
+- class/Thing/Action/TransferAction/SendAction
+- is_a_/SendAction
+- schema-org/SendAction
+tags:
+- class/FileClass
+- class/SendAction
+- is_a_/SendAction
+- class/Thing/Action/TransferAction/SendAction
+version: 2.0
 ---
 
 # SendAction

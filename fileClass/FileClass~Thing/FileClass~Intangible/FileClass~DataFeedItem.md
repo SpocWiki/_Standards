@@ -1,48 +1,48 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DataFeedItem
-  - class/Thing/Intangible/DataFeedItem
-  - is_a_/DataFeedItem
-  - schema-org/DataFeedItem
-tags:
-  - class/FileClass
-  - class/DataFeedItem
-  - is_a_/DataFeedItem
-  - class/Thing/Intangible/DataFeedItem
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: cgc0PW
-    name: DateCreated
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: oT8X1a
-    name: DateDeleted
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: WNfcmD
-    name: DateModified
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: XBHmkM
-    name: Item
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
+- id: cgc0PW
+  name: DateCreated
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: oT8X1a
+  name: DateDeleted
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: WNfcmD
+  name: DateModified
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: XBHmkM
+  name: Item
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DataFeedItem
+- class/Thing/Intangible/DataFeedItem
+- is_a_/DataFeedItem
+- schema-org/DataFeedItem
+tags:
+- class/FileClass
+- class/DataFeedItem
+- is_a_/DataFeedItem
+- class/Thing/Intangible/DataFeedItem
+version: 2.0
 ---
 
 # DataFeedItem

@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_link_relationship
-linkTitle: has_text_of_link_relationship
-
-keywords: [link, relationship]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - link-relationship
 - link_relationship
 - linkRelationship
 - has_text_of_link_relationship
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- link
+- relationship
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_link_relationship
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_link_relationship
+type: Pred_Text
 ---
 
 Predicate to describe the Text of LinkRole.

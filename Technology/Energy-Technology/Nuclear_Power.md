@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Nuclear power
+- "Nuclear power"
 has_id_wikidata: Q12739
 ---
-
 
 ## #has_/text_of_/abstract 
 

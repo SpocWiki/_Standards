@@ -1,7 +1,7 @@
----
-title: Holothuroidea
+﻿---
 aliases:
-  - Sea cucumber
+- "Sea cucumber"
+title: Holothuroidea
 ---
 
 # [[Holothuroidea]]

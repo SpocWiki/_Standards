@@ -1,82 +1,206 @@
 ---
-title: "United States of America"
-type: Country
-location:
-  - 39.2641
-  - -94.8153
-has_id_wikidata: Q30
-SpocWebEntityId: 27047
-isDeleted: false
-confidential: public
-tags:
-  - geo/Country
-license: "CC BY-SA 4.0"
-isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses:
-  - Country
-publish: true
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+age_of_majority: "http://www.wikidata.org/.well-known/genid/b6faac5ab4359cbd471cfb5afdd4e55e"
+aircraft_registration_prefix: N
 aliases:
 - "United States of America"
 - "United States"
-Languages:
-  - en-US
-icon: flag-us
-replaces:
-- "[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]"
-- "[[_Standards/WikiData/WD~Thirteen_Colonies,179997]]"
-public_holiday:
-- "[[_Standards/WikiData/WD~Independence_Day,86591]]"
-- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-- "[[_Standards/WikiData/WD~Columbus_Day,367523]]"
-- "[[_Standards/WikiData/WD~Memorial_Day,371781]]"
-- "[[_Standards/WikiData/WD~Washington's_Birthday,744159]]"
-- "[[_Standards/WikiData/WD~Martin_Luther_King_Jr._Day,751738]]"
-- "[[_Standards/WikiData/WD~Veterans_Day,755999]]"
-- "[[_Standards/WikiData/WD~Labor_Day,848352]]"
-- '[[_Standards/WikiData/WD~Thanksgiving,2913791]]'
-member_of:
-- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]"
-- "[[_Standards/WikiData/WD~North_American_Free_Trade_Agreement,181574]]"
-- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~Arctic_Council,674182]]"
-- "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~Group_of_Ten,1411881]]"
-- "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
-- '[[_Standards/WikiData/WD~G7,1764511]]'
-- "[[_Standards/WikiData/WD~ABCANZ_Armies,2863003]]"
-- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-- '[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]'
-- "[[_Standards/WikiData/WD~Air_Force_Interoperability_Council,4426267]]"
-- "[[_Standards/WikiData/WD~Combined_Communications-Electronics_Board,5150848]]"
-- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- "[[_Standards/WikiData/WD~The_Technical_Cooperation_Program,7768229]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- '[[_Standards/WikiData/WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-- '[[_Standards/WikiData/WD~G20,19771]]'
-- "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]"
-- "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-official_symbol: "[[_Standards/WikiData/WD~Bald_Eagle,127216]]"
-highest_point: '[[_Standards/WikiData/WD~Denali,130018]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_United_States,131110]]"
+anthem: '[[_Standards/WikiData/WD~The_Star-Spangled_Banner,44696]]'
+area: 9826675
+Baidu_Tieba_name: 美国
+basic_form_of_government:
+- '[[_Standards/WikiData/WD~federal_republic,512187]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~presidential_system,49892]]'
+Basisklassifikation: 15.87
+BHCL_UUID:
+- 8c6682e8-a4f8-4139-849d-ef80dc6c6f83
+- 92a0dd46-b7c9-467f-8a68-30c4af7d529a
+- c14926bc-96b3-4a7c-a343-9e1640b0f9a9
+birth_rate: 11
+capital: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+central_bank: '[[_Standards/WikiData/WD~Federal_Reserve_System,53536]]'
+CIVICUS_Monitor_country_entry: united-states-america
+coastline: 95471
+coat_of_arms: '[[_Standards/WikiData/WD~Great_Seal_of_the_United_States_of_America,171663]]'
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20coat%20of%20arms%20of%20the%20United%20States.svg"
+Colon_Classification: SG--73
+Commons_category: "United States"
+Commons_gallery: "United States"
+confidential: public
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~District_of_Columbia,3551781]]'
+- '[[_Standards/WikiData/WD~Maine,724]]'
+- '[[_Standards/WikiData/WD~New_Hampshire,759]]'
+- '[[_Standards/WikiData/WD~Massachusetts,771]]'
+- '[[_Standards/WikiData/WD~Connecticut,779]]'
+- '[[_Standards/WikiData/WD~Hawaii,782]]'
+- '[[_Standards/WikiData/WD~Alaska,797]]'
+- '[[_Standards/WikiData/WD~Florida,812]]'
+- '[[_Standards/WikiData/WD~Arizona,816]]'
+- '[[_Standards/WikiData/WD~Oregon,824]]'
+- '[[_Standards/WikiData/WD~Utah,829]]'
+- '[[_Standards/WikiData/WD~Michigan,1166]]'
+- '[[_Standards/WikiData/WD~Puerto_Rico,1183]]'
+- '[[_Standards/WikiData/WD~North_Dakota,1207]]'
+- '[[_Standards/WikiData/WD~Illinois,1204]]'
+- '[[_Standards/WikiData/WD~South_Dakota,1211]]'
+- '[[_Standards/WikiData/WD~Wyoming,1214]]'
+- '[[_Standards/WikiData/WD~Montana,1212]]'
+- '[[_Standards/WikiData/WD~Washington,1223]]'
+- '[[_Standards/WikiData/WD~Idaho,1221]]'
+- '[[_Standards/WikiData/WD~Nevada,1227]]'
+- '[[_Standards/WikiData/WD~Colorado,1261]]'
+- '[[_Standards/WikiData/WD~Virginia,1370]]'
+- '[[_Standards/WikiData/WD~West_Virginia,1371]]'
+- '[[_Standards/WikiData/WD~Rhode_Island,1387]]'
+- '[[_Standards/WikiData/WD~New_York,1384]]'
+- '[[_Standards/WikiData/WD~Maryland,1391]]'
+- '[[_Standards/WikiData/WD~Delaware,1393]]'
+- '[[_Standards/WikiData/WD~Ohio,1397]]'
+- '[[_Standards/WikiData/WD~Pennsylvania,1400]]'
+- '[[_Standards/WikiData/WD~New_Jersey,1408]]'
+- '[[_Standards/WikiData/WD~Indiana,1415]]'
+- '[[_Standards/WikiData/WD~Georgia,1428]]'
+- '[[_Standards/WikiData/WD~Texas,1439]]'
+- '[[_Standards/WikiData/WD~North_Carolina,1454]]'
+- '[[_Standards/WikiData/WD~South_Carolina,1456]]'
+- '[[_Standards/WikiData/WD~Mississippi,1494]]'
+- '[[_Standards/WikiData/WD~Tennessee,1509]]'
+- '[[_Standards/WikiData/WD~New_Mexico,1522]]'
+- '[[_Standards/WikiData/WD~Minnesota,1527]]'
+- '[[_Standards/WikiData/WD~Wisconsin,1537]]'
+- '[[_Standards/WikiData/WD~Iowa,1546]]'
+- '[[_Standards/WikiData/WD~Nebraska,1553]]'
+- '[[_Standards/WikiData/WD~Kansas,1558]]'
+- '[[_Standards/WikiData/WD~Missouri,1581]]'
+- '[[_Standards/WikiData/WD~Louisiana,1588]]'
+- '[[_Standards/WikiData/WD~Kentucky,1603]]'
+- '[[_Standards/WikiData/WD~Arkansas,1612]]'
+- '[[_Standards/WikiData/WD~Oklahoma,1649]]'
+- '[[_Standards/WikiData/WD~United_States_Virgin_Islands,11703]]'
+- '[[_Standards/WikiData/WD~Vermont,16551]]'
+- '[[_Standards/WikiData/WD~Guam,16635]]'
+- '[[_Standards/WikiData/WD~American_Samoa,16641]]'
+- '[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644]]'
+- '[[_Standards/WikiData/WD~California,99]]'
+- '[[_Standards/WikiData/WD~Alabama,173]]'
+contains_the_statistical_territorial_entity: '[[_Standards/WikiData/WD~United_States_Minor_Outlying_Islands,16645]]'
+continent: '[[_Standards/WikiData/WD~North_America,49]]'
+coordinates_of_easternmost_point: "Point(-66.94995403 44.81539337)"
+coordinates_of_geographic_center: "Point(-103.771556341 44.967243394)"
+coordinates_of_northernmost_point: "Point(-156.48 71.38)"
+coordinates_of_southernmost_point: "Point(-81.8051241 24.5442989)"
+coordinates_of_westernmost_point: "Point(172.43708 52.92112)"
+coordinate_location: "Point(-98.5795 39.828175)"
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+country_calling_code: +1
+cssclasses:
+- Country
+culture: '[[_Standards/WikiData/WD~culture_of_the_United_States,1044835]]'
+Danbooru_tag: united_states
+death_rate: 9.8
+Democracy_Index: 7.92
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_United_States,1965974]]'
+demonym:
+- Američan
+- Američanka
+- Meiriceánach
+- American
+- Americans
+- آمریکایی
+- американець
+- estatunidenca
+- statunitense
+- أمريكي
+- أمريكية
+- أمريكيون
+- ماريكان
+- ميريكاني
+- ميريكانيات
+- ميريكانية
+- ميريكانيين
+- "d'Estaos Xuníos"
+- американски
+- মার্কিন
+- estatunidenc
+- nord-americà
+- nord-americana
+- Američan
+- Americanaidd
+- Amerikaner
+- Amerikaner
+- Amerikanerin
+- Αμερικανή
+- Αμερικανοί
+- Αμερικανός
+- usonano
+- estadounidense
+- estadounidenses
+- estatubatuar
+- Américain
+- Américaine
+- États-Unien
+- אמריקאי
+- אמריקאים
+- אמריקאית
+- amerikai
+- Usano
+- statunitensi
+- アメリカ人
+- 米国人
+- ამერიკელი
+- american
+- Американец
+- Американка
+- Американци
+- americana
+- americano
+- estadunidense
+- american
+- americancă
+- americani
+- американец
+- американка
+- американцы
+- Американац
+- Американка
+- Американци
+- amerikan
+- amerikanskt
+- Amerikalı
+- американка
+- американці
+- statunitensa
+- statunitense
+- statunitensi
+- statunitenso
+- Lamerikänan
+- 美国人
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+Dewey_Decimal_Classification: 2--73
+different_from:
+- '[[_Standards/WikiData/WD~Union,214102]]'
+- '[[_Standards/WikiData/WD~Americas,828]]'
+- '[[_Standards/WikiData/WD~Amèrica,89022170]]'
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~Kingdom_of_Hawaiʻi,156418]]"
-- "[[_Standards/WikiData/WD~Holy_See,159583]]"
-- "[[_Standards/WikiData/WD~Republic_of_Texas,170588]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Hawaiʻi,156418]]'
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Republic_of_Texas,170588]]'
 - '[[_Standards/WikiData/WD~Palestine,219060]]'
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
@@ -90,20 +214,20 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Argentina,414]]'
 - '[[_Standards/WikiData/WD~Peru,419]]'
 - '[[_Standards/WikiData/WD~Cambodia,424]]'
-- "[[_Standards/WikiData/WD~European_Union,458]]"
+- '[[_Standards/WikiData/WD~European_Union,458]]'
 - '[[_Standards/WikiData/WD~Timor-Leste,574]]'
 - '[[_Standards/WikiData/WD~Chad,657]]'
-- "[[_Standards/WikiData/WD~New_Zealand,664]]"
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Tuvalu,672]]'
 - '[[_Standards/WikiData/WD~Samoa,683]]'
 - '[[_Standards/WikiData/WD~Vanuatu,686]]'
-- "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
 - '[[_Standards/WikiData/WD~Palau,695]]'
-- "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
+- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]'
 - '[[_Standards/WikiData/WD~Kiribati,710]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
-- "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
+- '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
@@ -111,19 +235,19 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Paraguay,733]]'
 - '[[_Standards/WikiData/WD~Ecuador,736]]'
 - '[[_Standards/WikiData/WD~Bolivia,750]]'
-- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
-- "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
-- "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
+- '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
+- '[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]'
+- '[[_Standards/WikiData/WD~Saint_Lucia,760]]'
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Guatemala,774]]'
 - '[[_Standards/WikiData/WD~Honduras,783]]'
-- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
+- '[[_Standards/WikiData/WD~Dominican_Republic,786]]'
 - '[[_Standards/WikiData/WD~Dominica,784]]'
 - '[[_Standards/WikiData/WD~Haiti,790]]'
-- "[[_Standards/WikiData/WD~El_Salvador,792]]"
+- '[[_Standards/WikiData/WD~El_Salvador,792]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
-- "[[_Standards/WikiData/WD~Costa_Rica,800]]"
+- '[[_Standards/WikiData/WD~Costa_Rica,800]]'
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Panama,804]]'
 - '[[_Standards/WikiData/WD~Yemen,805]]'
@@ -137,14 +261,14 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Myanmar,836]]'
 - '[[_Standards/WikiData/WD~Nepal,837]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
-- "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-- "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Tajikistan,863]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South_Korea,884]]"
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
 - '[[_Standards/WikiData/WD~Afghanistan,889]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Mali,912]]'
@@ -155,23 +279,23 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Togo,945]]'
 - '[[_Standards/WikiData/WD~Tunisia,948]]'
 - '[[_Standards/WikiData/WD~Zambia,953]]'
-- "[[_Standards/WikiData/WD~South_Sudan,958]]"
+- '[[_Standards/WikiData/WD~South_Sudan,958]]'
 - '[[_Standards/WikiData/WD~Benin,962]]'
 - '[[_Standards/WikiData/WD~Botswana,963]]'
 - '[[_Standards/WikiData/WD~Burundi,967]]'
-- "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
+- '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
 - '[[_Standards/WikiData/WD~Comoros,970]]'
-- "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
-- "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+- '[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
 - '[[_Standards/WikiData/WD~Djibouti,977]]'
-- "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
+- '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
 - '[[_Standards/WikiData/WD~Eritrea,986]]'
 - '[[_Standards/WikiData/WD~Gabon,1000]]'
 - '[[_Standards/WikiData/WD~Guinea,1006]]'
 - '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- "[[_Standards/WikiData/WD~The_Gambia,1005]]"
-- "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
-- "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
+- '[[_Standards/WikiData/WD~The_Gambia,1005]]'
+- '[[_Standards/WikiData/WD~Cape_Verde,1011]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
 - '[[_Standards/WikiData/WD~Liberia,1014]]'
 - '[[_Standards/WikiData/WD~Lesotho,1013]]'
 - '[[_Standards/WikiData/WD~Madagascar,1019]]'
@@ -184,24 +308,24 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Mozambique,1029]]'
 - '[[_Standards/WikiData/WD~Niger,1032]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
+- '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]'
 - '[[_Standards/WikiData/WD~Uganda,1036]]'
 - '[[_Standards/WikiData/WD~Rwanda,1037]]'
 - '[[_Standards/WikiData/WD~Seychelles,1042]]'
 - '[[_Standards/WikiData/WD~Senegal,1041]]'
-- "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
+- '[[_Standards/WikiData/WD~Sierra_Leone,1044]]'
 - '[[_Standards/WikiData/WD~Somalia,1045]]'
 - '[[_Standards/WikiData/WD~Eswatini,1050]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Cayman_Islands,5785]]"
-- "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
+- '[[_Standards/WikiData/WD~Cayman_Islands,5785]]'
+- '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
 - '[[_Standards/WikiData/WD~Macau,14773]]'
-- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 - '[[_Standards/WikiData/WD~Aruba,21203]]'
 - '[[_Standards/WikiData/WD~Bermuda,23635]]'
-- "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-- "[[_Standards/WikiData/WD~Netherlands_Antilles,25227]]"
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~Netherlands_Antilles,25227]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
 - '[[_Standards/WikiData/WD~Norway,20]]'
@@ -225,7 +349,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Ethiopia,115]]'
 - '[[_Standards/WikiData/WD~Ghana,117]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Russia,159]]'
@@ -237,14 +361,14 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - '[[_Standards/WikiData/WD~Moldova,217]]'
 - '[[_Standards/WikiData/WD~Albania,222]]'
-- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
+- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
 - '[[_Standards/WikiData/WD~Azerbaijan,227]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
-- "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
+- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Andorra,228]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
@@ -255,92 +379,112 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Belize,242]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_the_United_States_of_America,171663]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Great_Seal_of_the_United_States_of_America,171663]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_United_States,188540]]"
-different_from:
-- '[[_Standards/WikiData/WD~Union,214102]]'
-- '[[_Standards/WikiData/WD~Americas,828]]'
-- '[[_Standards/WikiData/WD~Amèrica,89022170]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Union,214102]]'
-motto: "[[_Standards/WikiData/WD~In_God_We_Trust,270871]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_United_States,272160]]"
-significant_event:
-- "[[_Standards/WikiData/WD~Mormon_Trail,379356]]"
-- "[[_Standards/WikiData/WD~Apollo_11,43653]]"
-owner_of:
-- "[[_Standards/WikiData/WD~American_Legation,_Tangier,468574]]"
-- "[[_Standards/WikiData/WD~The_Plum,731639]]"
-- "[[_Standards/WikiData/WD~Blair_House,881182]]"
-- "[[_Standards/WikiData/WD~Palais_Blücher,884798]]"
-- "[[_Standards/WikiData/WD~Number_One_Observatory_Circle,1783821]]"
-- "[[_Standards/WikiData/WD~Monument_commémoratif_de_Monsec,2225315]]"
-- "[[_Standards/WikiData/WD~Aliiolani_Hale,2336640]]"
-- "[[_Standards/WikiData/WD~Rolandstraße_67,2525979]]"
-- "[[_Standards/WikiData/WD~D.C._Armory,5203364]]"
-- "[[_Standards/WikiData/WD~Fort_Madison,_Nuku_Hiva,5471573]]"
-- "[[_Standards/WikiData/WD~Global_Memory_Net,5570493]]"
-- "[[_Standards/WikiData/WD~John_Joseph_Moakley_United_States_Courthouse,6242206]]"
-- "[[_Standards/WikiData/WD~Revolutionary_War_Door,7318882]]"
-- "[[_Standards/WikiData/WD~Trowbridge_House,7846680]]"
-- "[[_Standards/WikiData/WD~World_Heritage_Memory_Net,8035812]]"
-- "[[_Standards/WikiData/WD~Petschek_Villa,15094405]]"
-- "[[_Standards/WikiData/WD~Deichmanns_Aue_31_37,15888178]]"
-- "[[_Standards/WikiData/WD~John_Paul_Hammerschmidt_Federal_Building,20709326]]"
-- "[[_Standards/WikiData/WD~White_House,35525]]"
-studied_in: "[[_Standards/WikiData/WD~American_studies,470125]]"
-basic_form_of_government:
-- "[[_Standards/WikiData/WD~federal_republic,512187]]"
-- '[[_Standards/WikiData/WD~republic,7270]]'
-- "[[_Standards/WikiData/WD~presidential_system,49892]]"
-instance_of:
-- "[[_Standards/WikiData/WD~federal_republic,512187]]"
-- '[[_Standards/WikiData/WD~superpower,1489259]]'
-- "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- "[[_Standards/WikiData/WD~democratic_republic,5255892]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+DPLA_subject_term: "United States"
+draft: false
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_United_States,188540]]'
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-- "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
-present_in_work: "[[_Standards/WikiData/WD~The_City_on_the_Edge_of_Forever,622282]]"
-participant_in:
-- "[[_Standards/WikiData/WD~Red_Scare,622454]]"
-- "[[_Standards/WikiData/WD~Ukraine_United_States_relations,4064180]]"
-has_cabinet: "[[_Standards/WikiData/WD~United_States_Cabinet,639738]]"
 ethnic_group:
-- "[[_Standards/WikiData/WD~Asian_Americans,727928]]"
-- "[[_Standards/WikiData/WD~White_Americans,49078]]"
-- "[[_Standards/WikiData/WD~African_Americans,49085]]"
-- "[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297]]"
-lowest_point: "[[_Standards/WikiData/WD~Badwater_Basin,799720]]"
-culture: "[[_Standards/WikiData/WD~culture_of_the_United_States,1044835]]"
+- '[[_Standards/WikiData/WD~Asian_Americans,727928]]'
+- '[[_Standards/WikiData/WD~White_Americans,49078]]'
+- '[[_Standards/WikiData/WD~African_Americans,49085]]'
+- '[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297]]'
+executive_body: '[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525]]'
+expiryDate: 
+external_data_available_at_URL: "https://www.data.gov/"
+Facebook_username: USAGov
+female_population:
+- 165599805
+- 167210787
+- 167558793
+- 168258067
+FIPS_10_4_countries_and_regions_: US
+flag: '[[_Standards/WikiData/WD~flag_of_the_United_States_of_America,42537]]'
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_United_States,272160]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:United+States.map"
+Gini_coefficient: 47.7
+Gregorian_calendar_start_date:
+- 1752-09-14
+- 1867-10-18
+- 1582-12-20
+- 1582-10-15
+GS1_country_code: 000-139
+Happy_Planet_Index_score: 37.4
+hashtag:
+- etats-unis
+- USA
+- America
+- usa
+- america
+- EstadosUnidos
+has_cabinet: '[[_Standards/WikiData/WD~United_States_Cabinet,639738]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_id_wikidata: Q30
 has_part_s_of_the_class:
-- "[[_Standards/WikiData/WD~territory_of_the_United_States,1352230]]"
-- "[[_Standards/WikiData/WD~U.S._state,35657]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_United_States,1965974]]"
+- '[[_Standards/WikiData/WD~territory_of_the_United_States,1352230]]'
+- '[[_Standards/WikiData/WD~U.S._state,35657]]'
+has_seal_badge_or_sigil: '[[_Standards/WikiData/WD~Great_Seal_of_the_United_States_of_America,171663]]'
+has_time_started: 1784-05-12
+head_of_government: '[[_Standards/WikiData/WD~Donald_Trump,22686]]'
+head_of_state: '[[_Standards/WikiData/WD~Donald_Trump,22686]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_the_United_States,11201]]'
+highest_point: '[[_Standards/WikiData/WD~Denali,130018]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_United_States,131110]]'
+Human_Development_Index: 0.921
+IAB_code: 1455
+icon: flag-us
+IMDb_keyword: united-states-of-america
+inception: 1784-05-12
+Inequality_adjusted_Human_Development_Index: 0.819
+INSEE_countries_and_foreign_territories_code: 99404
+Instagram_username: usagov
+instance_of:
+- '[[_Standards/WikiData/WD~federal_republic,512187]]'
+- '[[_Standards/WikiData/WD~superpower,1489259]]'
+- '[[_Standards/WikiData/WD~constitutional_republic,1520223]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~democratic_republic,5255892]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+IOC_country_code: USA
+IPA_transcription:
+- ˈmeɪɹ.ɹɪkə
+- ʉːɛˈsɑː
+isDeleted: false
+ISNI: 0000000123315230
+ISO_3166_1_alpha_2_code: US
+ISO_3166_1_alpha_3_code: USA
+ISO_3166_1_numeric_code: 840
+isReadOnly: false
+ITU_letter_code: USA
+keywords: 
+Krugosvet_article: strany_mira/SOEDINENNIE_SHTATI_AMERIKI.html
+Languages:
+- en-US
+language_used: '[[_Standards/WikiData/WD~English,1860]]'
+layout: 
+legislative_body: '[[_Standards/WikiData/WD~United_States_Congress,11268]]'
+Libris_URI: xv8b9vvg52nbbxp
+licence_plate_code: USA
+license: "CC BY-SA 4.0"
+life_expectancy: 77
+linkTitle: 
+literacy_rate: 99.4
+located_in_or_next_to_body_of_water:
+- '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 located_in_time_zone:
-- "[[_Standards/WikiData/WD~Atlantic_Time_Zone,2085376]]"
-- "[[_Standards/WikiData/WD~Central_Time_Zone,2086913]]"
-- "[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]"
-- "[[_Standards/WikiData/WD~Alaska_Time_Zone,3238805]]"
-- "[[_Standards/WikiData/WD~Chamorro_Time_Zone,3446496]]"
-- "[[_Standards/WikiData/WD~Samoa_Time_Zone,4816926]]"
+- '[[_Standards/WikiData/WD~Atlantic_Time_Zone,2085376]]'
+- '[[_Standards/WikiData/WD~Central_Time_Zone,2086913]]'
+- '[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]'
+- '[[_Standards/WikiData/WD~Alaska_Time_Zone,3238805]]'
+- '[[_Standards/WikiData/WD~Chamorro_Time_Zone,3446496]]'
+- '[[_Standards/WikiData/WD~Samoa_Time_Zone,4816926]]'
 - '[[_Standards/WikiData/WD~UTC_12_00,2146]]'
 - '[[_Standards/WikiData/WD~UTC_11_00,2154]]'
 - '[[_Standards/WikiData/WD~UTC_09_00,2183]]'
@@ -351,244 +495,21 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 - '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
 - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~District_of_Columbia,3551781]]"
-- '[[_Standards/WikiData/WD~Maine,724]]'
-- "[[_Standards/WikiData/WD~New_Hampshire,759]]"
-- '[[_Standards/WikiData/WD~Massachusetts,771]]'
-- '[[_Standards/WikiData/WD~Connecticut,779]]'
-- '[[_Standards/WikiData/WD~Hawaii,782]]'
-- '[[_Standards/WikiData/WD~Alaska,797]]'
-- '[[_Standards/WikiData/WD~Florida,812]]'
-- '[[_Standards/WikiData/WD~Arizona,816]]'
-- '[[_Standards/WikiData/WD~Oregon,824]]'
-- '[[_Standards/WikiData/WD~Utah,829]]'
-- '[[_Standards/WikiData/WD~Michigan,1166]]'
-- "[[_Standards/WikiData/WD~Puerto_Rico,1183]]"
-- "[[_Standards/WikiData/WD~North_Dakota,1207]]"
-- '[[_Standards/WikiData/WD~Illinois,1204]]'
-- "[[_Standards/WikiData/WD~South_Dakota,1211]]"
-- '[[_Standards/WikiData/WD~Wyoming,1214]]'
-- '[[_Standards/WikiData/WD~Montana,1212]]'
-- '[[_Standards/WikiData/WD~Washington,1223]]'
-- '[[_Standards/WikiData/WD~Idaho,1221]]'
-- '[[_Standards/WikiData/WD~Nevada,1227]]'
-- '[[_Standards/WikiData/WD~Colorado,1261]]'
-- '[[_Standards/WikiData/WD~Virginia,1370]]'
-- "[[_Standards/WikiData/WD~West_Virginia,1371]]"
-- "[[_Standards/WikiData/WD~Rhode_Island,1387]]"
-- "[[_Standards/WikiData/WD~New_York,1384]]"
-- '[[_Standards/WikiData/WD~Maryland,1391]]'
-- '[[_Standards/WikiData/WD~Delaware,1393]]'
-- '[[_Standards/WikiData/WD~Ohio,1397]]'
-- '[[_Standards/WikiData/WD~Pennsylvania,1400]]'
-- "[[_Standards/WikiData/WD~New_Jersey,1408]]"
-- '[[_Standards/WikiData/WD~Indiana,1415]]'
-- '[[_Standards/WikiData/WD~Georgia,1428]]'
-- '[[_Standards/WikiData/WD~Texas,1439]]'
-- "[[_Standards/WikiData/WD~North_Carolina,1454]]"
-- "[[_Standards/WikiData/WD~South_Carolina,1456]]"
-- '[[_Standards/WikiData/WD~Mississippi,1494]]'
-- '[[_Standards/WikiData/WD~Tennessee,1509]]'
-- "[[_Standards/WikiData/WD~New_Mexico,1522]]"
-- '[[_Standards/WikiData/WD~Minnesota,1527]]'
-- '[[_Standards/WikiData/WD~Wisconsin,1537]]'
-- '[[_Standards/WikiData/WD~Iowa,1546]]'
-- '[[_Standards/WikiData/WD~Nebraska,1553]]'
-- '[[_Standards/WikiData/WD~Kansas,1558]]'
-- '[[_Standards/WikiData/WD~Missouri,1581]]'
-- '[[_Standards/WikiData/WD~Louisiana,1588]]'
-- '[[_Standards/WikiData/WD~Kentucky,1603]]'
-- '[[_Standards/WikiData/WD~Arkansas,1612]]'
-- '[[_Standards/WikiData/WD~Oklahoma,1649]]'
-- "[[_Standards/WikiData/WD~United_States_Virgin_Islands,11703]]"
-- '[[_Standards/WikiData/WD~Vermont,16551]]'
-- '[[_Standards/WikiData/WD~Guam,16635]]'
-- "[[_Standards/WikiData/WD~American_Samoa,16641]]"
-- "[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644]]"
-- '[[_Standards/WikiData/WD~California,99]]'
-- '[[_Standards/WikiData/WD~Alabama,173]]'
-open_data_portal: '[[_Standards/WikiData/WD~data.gov,5227102]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United_States,5365167]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_United_States,7112786]]"
-urban_population:
-  - 276895219
-  - 270737596
-  - 274053424
-  - 275178949
-located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
-- "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-- "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-named_after: '[[_Standards/WikiData/WD~Americas,828]]'
-language_used: '[[_Standards/WikiData/WD~English,1860]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_United_States,11201]]"
-legislative_body: "[[_Standards/WikiData/WD~United_States_Congress,11268]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~United_States_Constitution,11698]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_United_States_topics,8171085]]"
-- "[[_Standards/WikiData/WD~Model__United_States,63992256]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]"
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-permanent_duplicated_item:
-- "[[_Standards/WikiData/WD~USA_(United_States_of_America),20571325]]"
-- "[[_Standards/WikiData/WD~Istadus_Unidus_the_America,29045433]]"
-- '[[_Standards/WikiData/WD~Q29045456,29045456]]'
-- '[[_Standards/WikiData/WD~Q130425748,130425748]]'
-electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-- "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
-- "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
-Gregorian_calendar_start_date:
-- "1752-09-14"
-- "1867-10-18"
-- "1582-12-20"
-- "1582-10-15"
-coordinates_of_westernmost_point: "Point(172.43708 52.92112)"
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Amerikai%20Egyes%C3%BClt%20%C3%81llamok.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AF%E0%AD%81%E0%AC%95%E0%AD%8D%E0%AC%A4%E0%AC%B0%E0%AC%BE%E0%AC%B7%E0%AD%8D%E0%AC%9F%E0%AD%8D%E0%AC%B0%20%E0%AC%86%E0%AC%AE%E0%AD%87%E0%AC%B0%E0%AC%BF%E0%AC%95%E0%AC%BE.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Amerika.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Statele%20Unite%20ale%20Americii.wav"
-IPA_transcription:
-  - ˈmeɪɹ.ɹɪkə
-  - ʉːɛˈsɑː
-Stack_Exchange_tag:
-- "https://matheducators.stackexchange.com/tags/usa"
-- "https://travel.stackexchange.com/tags/usa"
-age_of_majority: "http://www.wikidata.org/.well-known/genid/b6faac5ab4359cbd471cfb5afdd4e55e"
-demonym:
-  - Američan
-  - Američanka
-  - Meiriceánach
-  - American
-  - Americans
-  - آمریکایی
-  - американець
-  - estatunidenca
-  - statunitense
-  - أمريكي
-  - أمريكية
-  - أمريكيون
-  - ماريكان
-  - ميريكاني
-  - ميريكانيات
-  - ميريكانية
-  - ميريكانيين
-  - "d'Estaos Xuníos"
-  - американски
-  - মার্কিন
-  - estatunidenc
-  - nord-americà
-  - nord-americana
-  - Američan
-  - Americanaidd
-  - Amerikaner
-  - Amerikaner
-  - Amerikanerin
-  - Αμερικανή
-  - Αμερικανοί
-  - Αμερικανός
-  - usonano
-  - estadounidense
-  - estadounidenses
-  - estatubatuar
-  - Américain
-  - Américaine
-  - États-Unien
-  - אמריקאי
-  - אמריקאים
-  - אמריקאית
-  - amerikai
-  - Usano
-  - statunitensi
-  - アメリカ人
-  - 米国人
-  - ამერიკელი
-  - american
-  - Американец
-  - Американка
-  - Американци
-  - americana
-  - americano
-  - estadunidense
-  - american
-  - americancă
-  - americani
-  - американец
-  - американка
-  - американцы
-  - Американац
-  - Американка
-  - Американци
-  - amerikan
-  - amerikanskt
-  - Amerikalı
-  - американка
-  - американці
-  - statunitensa
-  - statunitense
-  - statunitensi
-  - statunitenso
-  - Lamerikänan
-  - 美国人
-ISNI: 0000000123315230
-Facebook_username: USAGov
-YouTube_handle: USAgov1
-Pinterest_username: USAGovArchived
-official_blog_URL: "https://blog.usa.gov/"
-privacy_policy_URL: "https://www.usa.gov/privacy-security"
-spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moulton%20falls%20train%20tunnel%20east%20%E2%80%93%20Panorama%20%28Philip%20Modin%20via%20Poly%20Haven%29.jpg"
-coordinates_of_geographic_center: "Point(-103.771556341 44.967243394)"
-hashtag:
-  - etats-unis
-  - USA
-  - America
-  - usa
-  - america
-  - EstadosUnidos
-Danbooru_tag: united_states
-nominal_GDP:
-  - 23315080560000
-  - 25462700000000
-number_of_households: 122354219
-coordinates_of_northernmost_point: "Point(-156.48 71.38)"
-contains_the_statistical_territorial_entity: "[[_Standards/WikiData/WD~United_States_Minor_Outlying_Islands,16645]]"
-head_of_state: "[[_Standards/WikiData/WD~Donald_Trump,22686]]"
-head_of_government: "[[_Standards/WikiData/WD~Donald_Trump,22686]]"
-shares_border_with:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-part_of: "[[_Standards/WikiData/WD~North_America,49]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
-capital: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-birth_rate: 11
+location:
+- 39.2641
+- -94.8153
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20of%20USA%20%28%2BHI%20%2BAK%20%2BUnincorporated%20territories%20%2B%20DC%29.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/USA%20orthographic.svg"
+lowest_point: '[[_Standards/WikiData/WD~Badwater_Basin,799720]]'
+M49_code: 840
 mains_voltage: 120
-retirement_age: 66
-unemployment_rate: 6.7
-life_expectancy: 77
-death_rate: 9.8
-suicide_rate: 14.5
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.us,37861]]'
-social_media_followers:
-  - 19900
-  - 46276
-  - 350082
-flag: "[[_Standards/WikiData/WD~flag_of_the_United_States_of_America,42537]]"
-Happy_Planet_Index_score: 37.4
-mean_age: 38.2
-anthem: "[[_Standards/WikiData/WD~The_Star-Spangled_Banner,44696]]"
-Gini_coefficient: 47.7
-executive_body: "[[_Standards/WikiData/WD~Federal_Government_of_the_United_States,48525]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_United_States,10816993]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~United_States_Constitution,11698]]'
+male_population:
+- 162730147
+- 164316147
+- 164490184
+- 165013345
 maritime_identification_digits:
 - 367
 - 366
@@ -596,93 +517,47 @@ maritime_identification_digits:
 - 368
 - 369
 maximum_temperature_record: 56.7
-central_bank: "[[_Standards/WikiData/WD~Federal_Reserve_System,53536]]"
-vehicles_per_thousand_people: 778
-Democracy_Index: 7.92
-Inequality_adjusted_Human_Development_Index: 0.819
-Human_Development_Index: 0.921
-literacy_rate: 99.4
-total_fertility_rate: 1.665
+mean_age: 38.2
+median_income: 43585
+member_of:
+- '[[_Standards/WikiData/WD~Organization_of_American_States,123759]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481]]'
+- '[[_Standards/WikiData/WD~North_American_Free_Trade_Agreement,181574]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Arctic_Council,674182]]'
+- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Group_of_Ten,1411881]]'
+- '[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]'
+- '[[_Standards/WikiData/WD~G7,1764511]]'
+- '[[_Standards/WikiData/WD~ABCANZ_Armies,2863003]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]'
+- '[[_Standards/WikiData/WD~Air_Force_Interoperability_Council,4426267]]'
+- '[[_Standards/WikiData/WD~Combined_Communications-Electronics_Board,5150848]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~The_Technical_Cooperation_Program,7768229]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~G20,19771]]'
+- '[[_Standards/WikiData/WD~United_Nations_Security_Council,37470]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+MeSH_tree_code: Z01.107.567.875
 mobile_country_code:
 - 310
 - 312
 - 313
 - 311
 - 316
-country_calling_code: +1
-aircraft_registration_prefix: N
-IAB_code: 1455
-M49_code: 840
-ISO_3166_1_numeric_code: 840
-per_capita_income: 35384
-median_income: 43585
-coastline: 95471
-OmegaWiki_Defined_Meaning: 6578
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg"
-ITU_letter_code: USA
-IOC_country_code: USA
-licence_plate_code: USA
-ISO_3166_1_alpha_3_code: USA
-INSEE_countries_and_foreign_territories_code: 99404
-PM20_geo_code: E15
-WIPO_ST_3: US
-FIPS_10_4_countries_and_regions_: US
-ISO_3166_1_alpha_2_code: US
-DPLA_subject_term: "United States"
-Commons_gallery: "United States"
-Commons_category: "United States"
-seal_image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20the%20United%20States%20%28obverse%29.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20the%20United%20States%20%28reverse%29.svg"
+motto: '[[_Standards/WikiData/WD~In_God_We_Trust,270871]]'
 motto_text: "In God We Trust"
-number_of_out_of_school_children: 2528999
-Basisklassifikation: 15.87
-WOEID: 23424977
-area: 9826675
-subreddit: usa
-geoshape: "http://commons.wikimedia.org/data/main/Data:United+States.map"
-nighttime_view:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/City%20Lights%20of%20the%20United%20States%202012.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20%28Nevada%2C%20USA%29%2C%20The%20Strip%20--%202012%20--%206232.jpg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Angeles%20%28California%2C%20USA%29%2C%20South%20Olive%20Street%20--%202012%20--%204847.jpg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20coat%20of%20arms%20of%20the%20United%20States.svg"
-location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20of%20USA%20%28%2BHI%20%2BAK%20%2BUnincorporated%20territories%20%2B%20DC%29.svg"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Verenigde%20Staten%20van%20Amerika-article.oga"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%20light%20banner.jpg"
-satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/USA-satellite.jpg"
-relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Usa%20edcp%20%28%2BHI%20%2BAK%29%20relief%20location%20map.svg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/USA%20orthographic.svg"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/united_states_of_america"
-external_data_available_at_URL: "https://www.data.gov/"
-official_website: "https://www.usa.gov/"
-GS1_country_code: 000-139
-U_S_National_Archives_Identifier: 10045728
-Dewey_Decimal_Classification: 2--73
-BHCL_UUID:
-  - 8c6682e8-a4f8-4139-849d-ef80dc6c6f83
-  - 92a0dd46-b7c9-467f-8a68-30c4af7d529a
-  - c14926bc-96b3-4a7c-a343-9e1640b0f9a9
-UMLS_CUI: C0041703
-Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedStates\"]"
-Provenio_UUID: fb886b35-3a27-482d-af25-ee5d2653dff0
-Colon_Classification: SG--73
-Krugosvet_article: strany_mira/SOEDINENNIE_SHTATI_AMERIKI.html
-CIVICUS_Monitor_country_entry: united-states-america
-IMDb_keyword: united-states-of-america
-Unicode_character: 🇺🇸 
-Instagram_username: usagov
-X_Twitter_username:
-  - usagov
-  - usagovespanol
-rural_population:
-  - 57473509
-  - 57592357
-  - 56376192
-  - 56870028
-population: 340110988
-Libris_URI: xv8b9vvg52nbbxp
-MeSH_tree_code: Z01.107.567.875
-Baidu_Tieba_name: 美国
+named_after: '[[_Standards/WikiData/WD~Americas,828]]'
 native_label:
 - "Estados Unidus"
 - "ᏌᏊᎢᏳᎾᎵᏍᏔᏅᏍᎦᏚᎩ ᎾᎿ ᎠᎺᏰᏟ"
@@ -690,26 +565,150 @@ native_label:
 - "Estados Unidos de América"
 - "Wááshindoon Bikéyah Ałhidadiidzooígíí"
 - "Iunaite Sitete o Amerika"
+nighttime_view:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/City%20Lights%20of%20the%20United%20States%202012.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20%28Nevada%2C%20USA%29%2C%20The%20Strip%20--%202012%20--%206232.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Angeles%20%28California%2C%20USA%29%2C%20South%20Olive%20Street%20--%202012%20--%204847.jpg"
+nominal_GDP:
+- 23315080560000
+- 25462700000000
+number_of_households: 122354219
+number_of_out_of_school_children: 2528999
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+official_blog_URL: "https://blog.usa.gov/"
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
 official_name: "the United States of America"
+official_symbol: '[[_Standards/WikiData/WD~Bald_Eagle,127216]]'
+official_website: "https://www.usa.gov/"
+OmegaWiki_Defined_Meaning: 6578
+on_focus_list_of_Wikimedia_project:
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
+- '[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]'
+open_data_portal: '[[_Standards/WikiData/WD~data.gov,5227102]]'
+owner_of:
+- '[[_Standards/WikiData/WD~American_Legation,_Tangier,468574]]'
+- '[[_Standards/WikiData/WD~The_Plum,731639]]'
+- '[[_Standards/WikiData/WD~Blair_House,881182]]'
+- '[[_Standards/WikiData/WD~Palais_Blücher,884798]]'
+- '[[_Standards/WikiData/WD~Number_One_Observatory_Circle,1783821]]'
+- '[[_Standards/WikiData/WD~Monument_commémoratif_de_Monsec,2225315]]'
+- '[[_Standards/WikiData/WD~Aliiolani_Hale,2336640]]'
+- '[[_Standards/WikiData/WD~Rolandstraße_67,2525979]]'
+- '[[_Standards/WikiData/WD~D.C._Armory,5203364]]'
+- '[[_Standards/WikiData/WD~Fort_Madison,_Nuku_Hiva,5471573]]'
+- '[[_Standards/WikiData/WD~Global_Memory_Net,5570493]]'
+- '[[_Standards/WikiData/WD~John_Joseph_Moakley_United_States_Courthouse,6242206]]'
+- '[[_Standards/WikiData/WD~Revolutionary_War_Door,7318882]]'
+- '[[_Standards/WikiData/WD~Trowbridge_House,7846680]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Memory_Net,8035812]]'
+- '[[_Standards/WikiData/WD~Petschek_Villa,15094405]]'
+- '[[_Standards/WikiData/WD~Deichmanns_Aue_31_37,15888178]]'
+- '[[_Standards/WikiData/WD~John_Paul_Hammerschmidt_Federal_Building,20709326]]'
+- '[[_Standards/WikiData/WD~White_House,35525]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%20light%20banner.jpg"
+participant_in:
+- '[[_Standards/WikiData/WD~Red_Scare,622454]]'
+- '[[_Standards/WikiData/WD~Ukraine_United_States_relations,4064180]]'
+part_of: '[[_Standards/WikiData/WD~North_America,49]]'
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~USA_(United_States_of_America),20571325]]'
+- '[[_Standards/WikiData/WD~Istadus_Unidus_the_America,29045433]]'
+- '[[_Standards/WikiData/WD~Q29045456,29045456]]'
+- '[[_Standards/WikiData/WD~Q130425748,130425748]]'
+per_capita_income: 35384
+Pinterest_username: USAGovArchived
+PM20_geo_code: E15
+population: 340110988
+present_in_work: '[[_Standards/WikiData/WD~The_City_on_the_Edge_of_Forever,622282]]'
+privacy_policy_URL: "https://www.usa.gov/privacy-security"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Amerikai%20Egyes%C3%BClt%20%C3%81llamok.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AF%E0%AD%81%E0%AC%95%E0%AD%8D%E0%AC%A4%E0%AC%B0%E0%AC%BE%E0%AC%B7%E0%AD%8D%E0%AC%9F%E0%AD%8D%E0%AC%B0%20%E0%AC%86%E0%AC%AE%E0%AD%87%E0%AC%B0%E0%AC%BF%E0%AC%95%E0%AC%BE.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Amerika.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Statele%20Unite%20ale%20Americii.wav"
+Provenio_UUID: fb886b35-3a27-482d-af25-ee5d2653dff0
+public_holiday:
+- '[[_Standards/WikiData/WD~Independence_Day,86591]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Columbus_Day,367523]]'
+- '[[_Standards/WikiData/WD~Memorial_Day,371781]]'
+- "[[_Standards/WikiData/WD~Washington's_Birthday,744159]]"
+- '[[_Standards/WikiData/WD~Martin_Luther_King_Jr._Day,751738]]'
+- '[[_Standards/WikiData/WD~Veterans_Day,755999]]'
+- '[[_Standards/WikiData/WD~Labor_Day,848352]]'
+- '[[_Standards/WikiData/WD~Thanksgiving,2913791]]'
+publish: true
+publishDate: 
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Usa%20edcp%20%28%2BHI%20%2BAK%29%20relief%20location%20map.svg"
+replaces:
+- '[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]'
+- '[[_Standards/WikiData/WD~Thirteen_Colonies,179997]]'
+retirement_age: 66
+rural_population:
+- 57473509
+- 57592357
+- 56376192
+- 56870028
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Union,214102]]'
+satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/USA-satellite.jpg"
+seal_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20the%20United%20States%20%28obverse%29.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Seal%20of%20the%20United%20States%20%28reverse%29.svg"
+shares_border_with:
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
 short_name:
-  - U.S.
-  - USA
-male_population:
-  - 162730147
-  - 164316147
-  - 164490184
-  - 165013345
-female_population:
-  - 165599805
-  - 167210787
-  - 167558793
-  - 168258067
-coordinate_location: "Point(-98.5795 39.828175)"
-coordinates_of_southernmost_point: "Point(-81.8051241 24.5442989)"
-coordinates_of_easternmost_point: "Point(-66.94995403 44.81539337)"
-inception: "1784-05-12"
-has_time_started: "1784-05-12"
-has_time_started: 1784-05-12 
+- U.S.
+- USA
+significant_event:
+- '[[_Standards/WikiData/WD~Mormon_Trail,379356]]'
+- '[[_Standards/WikiData/WD~Apollo_11,43653]]'
+social_media_followers:
+- 19900
+- 46276
+- 350082
+source: "https://datahub.io/core/country-codes"
+spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Moulton%20falls%20train%20tunnel%20east%20%E2%80%93%20Panorama%20%28Philip%20Modin%20via%20Poly%20Haven%29.jpg"
+SpocWebEntityId: 27047
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Verenigde%20Staten%20van%20Amerika-article.oga"
+Stack_Exchange_tag:
+- "https://matheducators.stackexchange.com/tags/usa"
+- "https://travel.stackexchange.com/tags/usa"
+studied_in: '[[_Standards/WikiData/WD~American_studies,470125]]'
+subreddit: usa
+suicide_rate: 14.5
+tags:
+- geo/Country
+title: "United States of America"
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_United_States_topics,8171085]]'
+- '[[_Standards/WikiData/WD~Model__United_States,63992256]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_United_States,5365167]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.us,37861]]'
+total_fertility_rate: 1.665
+type: Country
+UMLS_CUI: C0041703
+unemployment_rate: 6.7
+Unicode_character: "\U0001F1FA\U0001F1F8"
+urban_population:
+- 276895219
+- 270737596
+- 274053424
+- 275178949
+U_S_National_Archives_Identifier: 10045728
+vehicles_per_thousand_people: 778
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_United_States,7112786]]'
+WIPO_ST_3: US
+WOEID: 23424977
+Wolfram_Language_entity_code: "Entity[\"Country\", \"UnitedStates\"]"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/united_states_of_america"
+X_Twitter_username:
+- usagov
+- usagovespanol
+YouTube_handle: USAgov1
 ---
 
 # [[USA]] 

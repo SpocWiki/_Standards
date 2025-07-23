@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_broadcast_affiliate_of
-
-linkTitle: has_broadcast_affiliate_of
-keywords: [broadcast, affiliate, of]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - broadcast-affiliate-of
 - broadcast_affiliate_of
 - broadcastAffiliateOf
 - has_broadcast_affiliate_of
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- broadcast
+- affiliate
+- of
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_broadcast_affiliate_of
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_broadcast_affiliate_of
+type: Predi_Relation
 ---
 
 Use it like this: 

@@ -1,29 +1,29 @@
----
-has_id_wikidata: Q11658
-subclass_of:
-- "[[_Standards/WikiData/WD~electrical_element,210729]]"
-- "[[_Standards/WikiData/WD~passive_electronic_component,9252564]]"
-instance_of: "[[_Standards/WikiData/WD~electrical_element,210729]]"
-has_use:
-- "[[_Standards/WikiData/WD~voltage_converter,387331]]"
-- "[[_Standards/WikiData/WD~galvanic_isolation,780813]]"
+﻿---
+Commons_category: Transformers
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~_Kyrgyzstan__national_encyclopedia,16679904]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~_Kyrgyzstan__national_encyclopedia,16679904]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
 - '[[_Standards/WikiData/WD~Transformer,624448]]'
 - '[[_Standards/WikiData/WD~Transformator,9361144]]'
 - '[[_Standards/WikiData/WD~Transformer,65078488]]'
+has_id_wikidata: Q11658
 has_part_s_: '[[_Standards/WikiData/WD~coil,2981904]]'
+has_use:
+- '[[_Standards/WikiData/WD~voltage_converter,387331]]'
+- '[[_Standards/WikiData/WD~galvanic_isolation,780813]]'
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20N4422%20-%20power%20supply%20transformer-2098.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Bifilar%20wound%20toroidal%20transformer.jpg"
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Transformer3d%20col3.svg"
+instance_of: '[[_Standards/WikiData/WD~electrical_element,210729]]'
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANSFORMATOR_ELEKTRICHESKI.html
 Nomenclature_for_Museum_Cataloging: 8827
-Commons_category: Transformers
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Transformer3d%20col3.svg"
+subclass_of:
+- '[[_Standards/WikiData/WD~electrical_element,210729]]'
+- '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
 ---
 
 ## #has_/text_of_/abstract 

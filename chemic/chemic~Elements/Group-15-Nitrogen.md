@@ -1,6 +1,28 @@
----
+﻿---
+Commons_category: "Periodic table group 15"
+has_id_wikidata: Q106675
+has_part_s_:
+- '[[_Standards/WikiData/WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~phosphorus,674]]'
+- '[[_Standards/WikiData/WD~arsenic,871]]'
+- '[[_Standards/WikiData/WD~bismuth,942]]'
+- '[[_Standards/WikiData/WD~antimony,1099]]'
+- '[[_Standards/WikiData/WD~moscovium,1303]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stickstoff-gruppe.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~group,83306]]'
+- '[[_Standards/WikiData/WD~main_group,428830]]'
+OmegaWiki_Defined_Meaning: 1134
+P8189: 987007535177505171
+part_of:
+- '[[_Standards/WikiData/WD~p_block,214483]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
 ---
+
+# [[Group-15-Nitrogen]] 
+
 #chemic/Group 
 
 2) [[Nitrogen]]
@@ -8,6 +30,9 @@ type: ElementGroup
 4) [[Arsenic]]
 5) [[Antimony]]
 6) [[Bismuth]]
+
+#is_/same_as :: [[../../WikiData/WD~Group_15,106675]] 
+## #is_/same_as 
 
 > A pnictogen ( or ; from Ancient Greek: πνῑ́γω "to choke" and -gen, "generator") is any of the chemical elements in group 15 of the periodic table. Group 15 is also known as the nitrogen group or nitrogen family. Group 15 consists of the elements nitrogen (N), phosphorus (P), arsenic (As), antimony (Sb), bismuth (Bi), and moscovium (Mc).
 >

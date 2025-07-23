@@ -1,36 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_area_served
-
-linkTitle: has_area_served
-keywords: [area, served]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: serviceArea
-superseded_by:  
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - area-served
 - area_served
 - areaServed
 - has_area_served
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- area
+- served
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_area_served
+publish: true
+publishDate: 
+superseded_by: 
+supersedes: serviceArea
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_area_served
+type: Predi_Relation
 ---
 
 Use it like this: 

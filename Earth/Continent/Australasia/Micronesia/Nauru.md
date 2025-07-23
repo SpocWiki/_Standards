@@ -22,10 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Nauru
-  - ناورو
-  - 瑙鲁
-  - Науру
+- Nauru
+- ناورو
+- 瑙鲁
+- Науру
 - "the Republic of Nauru"
 - "la República de Nauru"
 Languages:
@@ -195,10 +195,10 @@ FIPS_10_4_countries_and_regions_: NR
 ISO_3166_1_alpha_2_code: NR
 WIPO_ST_3: NR
 official_name:
-  - Nauru
+- Nauru
 - "Republic of Nauru"
 - "la République de Nauru"
-  - Naoero
+- Naoero
 - "Ripublik Naoero"
 birth_rate: 26.785
 OmegaWiki_Defined_Meaning: 154287
@@ -242,7 +242,7 @@ Unicode_character: 🇳🇷
 X_Twitter_username: Republic_Nauru
 Krugosvet_article: strany_mira/NAURU.html
 native_label:
-  - Naoero
+- Naoero
 - "Ripublik Naoero"
 short_name: "\U0001F1F3\U0001F1F7"
 ---

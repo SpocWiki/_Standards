@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_season_number
-linkTitle: has_number_of_season_number
-
-keywords: [season_number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - season-number
 - season_number
 - seasonNumber
 - has_number_of_season
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- season_number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_season_number
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_season_number
+type: Predi_Count
 ---
 
 Predicate to describe the Number of CreativeWorkSeason.

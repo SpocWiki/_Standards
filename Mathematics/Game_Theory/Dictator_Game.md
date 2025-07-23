@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Dictator game
+- "Dictator game"
 ---
 
 # [[Dictator_Game]]  

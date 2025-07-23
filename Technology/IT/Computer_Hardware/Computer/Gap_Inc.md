@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Gap Inc
-  - The Gap, Inc 
+- "Gap Inc"
+- "The Gap, Inc"
 ---
 
 ## #has_/text_of_/abstract 

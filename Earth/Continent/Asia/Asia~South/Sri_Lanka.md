@@ -4,39 +4,39 @@ motto_text:
 - "Refreshingly Sri Lanka... the Wonder of Asia"
 demonym:
 - "Srí Lancach"
-  - Šrilančan
-  - Šrilančanka
-  - سريلانكي
-  - سريلانكية
-  - سريلانكيين
-  - سريلانكيات
-  - سريلانكي
-  - سريلانكية
-  - سريلانكيون
+- Šrilančan
+- Šrilančanka
+- سريلانكي
+- سريلانكية
+- سريلانكيين
+- سريلانكيات
+- سريلانكي
+- سريلانكية
+- سريلانكيون
 - "de Sri Lanka"
-  - শ্রীলঙ্কান
-  - singalès
-  - singalesa
-  - singaleses
-  - singalesos
+- শ্রীলঙ্কান
+- singalès
+- singalesa
+- singaleses
+- singalesos
 - "Sri Lanker"
-  - Srilankais
-  - Srilankaise
+- Srilankais
+- Srilankaise
 - "סרי לנקי"
 - "סרי לנקית"
 - "Srí Lanka-i"
-  - Sri-Lankano
-  - singalese
-  - singalesi
-  - srilanca
+- Sri-Lankano
+- singalese
+- singalesi
+- srilanca
 - "Sri Lankaan"
-  - srilankez
-  - srilankeză
-  - srilankezi
-  - singałeza
-  - singałeze
-  - singałezi
-  - singałezo
+- srilankez
+- srilankeză
+- srilankezi
+- singałeza
+- singałeze
+- singałezi
+- singałezo
 - "Sri Lankan"
 coordinates_of_southernmost_point: "Point(80.58523 5.91893)"
 coordinates_of_northernmost_point: "Point(80.21222 9.83583)"
@@ -325,8 +325,8 @@ expiryDate:
 aliases:
 - "Sri Lanka"
 - "سري لانكا"
-    - 斯里兰卡
-    - Шри-Ланка
+- 斯里兰卡
+- Шри-Ланка
 - "the Democratic Socialist Republic of Sri Lanka"
 - "la República Socialista Democrática de Sri Lanka"
 Languages:

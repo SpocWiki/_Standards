@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Duration
-publish: true
-
-# Hugo Tags
-type: Predi_Duration
-title: has_duration_of_flight
-
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Durations
-
+﻿---
 aliases:
 - estimated-flight-duration
 - flight
 - estimatedFlightDuration
 - has_duration_of_flight
+confidential: public
+cssclasses: "Predicate Duration"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Durations
+title: has_duration_of_flight
+type: Predi_Duration
 ---
 
 Predicate to describe the Duration of Flight.

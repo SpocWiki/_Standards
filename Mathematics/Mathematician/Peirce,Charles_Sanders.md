@@ -1,32 +1,32 @@
----
+﻿---
 aliases:
-  - Charles Sanders Peirce
-  - Peirce,Charles_Sanders
-title: Peirce,Charles_Sanders
-lang: en
-type: private_note
-keywords: Peirce,Charles_Sanders
-linkTitle: Peirce,Charles_Sanders
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
+- "Charles Sanders Peirce"
+- Peirce,Charles_Sanders
 confidential: private
+cssclasses:
+- private
+- note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-07-19
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+keywords: Peirce,Charles_Sanders
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: Peirce,Charles_Sanders
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-07-19
 tags:
-  - Peirce,Charles_Sanders
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- Peirce,Charles_Sanders
+- excalidraw
+title: Peirce,Charles_Sanders
+type: private_note
 ---
 
 #has_/time_/started :: 1839-09-10 

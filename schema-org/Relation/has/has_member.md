@@ -1,34 +1,34 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- member
+- member
+- member
+- has_member
+- has_music_group_member
+- "schema:member"
+- "dbo:member"
+- P527
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_member
-linkTitle: has_member
 keywords:
-  - member
+- member
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_member
+publish: true
 publishDate: 
-expiryDate: 
-supersedes: members, musicGroupMember
+supersedes: "members, musicGroupMember"
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - member
-  - member
-  - member
-  - has_member
-  - has_music_group_member
-  - schema:member
-  - dbo:member
-  - P527
+- class/Relation
+- schema-org/Relation
+title: has_member
+type: Predi_Relation
 ---
 
 Use it like this: 

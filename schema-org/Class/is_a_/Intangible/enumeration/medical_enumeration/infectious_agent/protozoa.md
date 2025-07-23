@@ -1,31 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- protozoa
+- protozoa
+- Protozoa
+- is_a_protozoa
 confidential: public
+cssclasses:
+- Type
+draft: false
+enumerationtype: InfectiousAgentClass
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_protozoa Class
-linkTitle: is_a_protozoa Class
 keywords:
-  - protozoa
+- protozoa
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_protozoa Class"
+publish: true
 publishDate: 
-expiryDate: 
-enumerationtype: InfectiousAgentClass
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
-aliases:
-  - protozoa
-  - protozoa
-  - Protozoa
-  - is_a_protozoa
+- class/Class
+- schema-org/Class
+- class/infectious_agent
+title: "is_a_protozoa Class"
+type: Type
 ---
+
 # [[protozoa]] 
 Class of all protozoas.
 

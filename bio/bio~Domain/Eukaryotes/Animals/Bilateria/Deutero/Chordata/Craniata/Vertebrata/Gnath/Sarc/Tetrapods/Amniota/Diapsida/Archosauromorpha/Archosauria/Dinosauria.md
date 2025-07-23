@@ -1,9 +1,9 @@
----
-title: Dinosauria
+﻿---
 aliases:
-  - Dinosauria
-  - Dinosaur
-  - Dinosaurs
+- Dinosauria
+- Dinosaur
+- Dinosaurs
+title: Dinosauria
 ---
 
 # [[Dinosauria]] 

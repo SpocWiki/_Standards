@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_ask_public_news_article Class
-linkTitle: is_an_ask_public_news_article Class
-
-keywords: [ask_public_news_article]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ask-public-news-article
 - ask_public_news_article
 - AskPublicNewsArticle
 - is_an_ask_public_news_article
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ask_public_news_article
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ask_public_news_article Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ask_public_news_article Class"
+type: Type
 ---
 
 Class of all ask_public_news_articles.

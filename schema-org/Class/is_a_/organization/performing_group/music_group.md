@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- music-group
+- music_group
+- MusicGroup
+- is_a_music_group
+- band
+- "music act"
+- "dbo:Band"
+- "schema:MusicGroup"
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_music_group Class
-linkTitle: is_a_music_group Class
 keywords:
-  - music_group
+- music_group
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_music_group Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - music-group
-  - music_group
-  - MusicGroup
-  - is_a_music_group
-  - band
-  - music act
-  - dbo:Band
-  - schema:MusicGroup
+- class/Class
+- schema-org/Class
+title: "is_a_music_group Class"
+type: Type
 ---
 
 Class of all music_groups.

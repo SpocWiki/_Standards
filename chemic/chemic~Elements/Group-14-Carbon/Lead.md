@@ -1,64 +1,47 @@
----
-type: Element
-SpocWebEntityId: 21977
-has_id_wikidata: Q708
-part_of:
-- "[[_Standards/WikiData/WD~group_14,106693]]"
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-associated_hazard: "[[_Standards/WikiData/WD~lead_poisoning,110315]]"
-has_effect: "[[_Standards/WikiData/WD~lead_poisoning,110315]]"
-made_from_material:
-- '[[_Standards/WikiData/WD~anglesite,156526]]'
-- '[[_Standards/WikiData/WD~boulangerite,250618]]'
-- '[[_Standards/WikiData/WD~cerussite,409122]]'
-- '[[_Standards/WikiData/WD~galena,37559]]'
-subject_has_role:
-- '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- "[[_Standards/WikiData/WD~male_reproductive_toxicant,55427774]]"
-- "[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]"
-- "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- '[[_Standards/WikiData/WD~Lead,84693984]]'
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-has_characteristic: '[[_Standards/WikiData/WD~opacity,691914]]'
-different_from: '[[_Standards/WikiData/WD~lead,947546]]'
-instance_of:
-- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-- "[[_Standards/WikiData/WD~superconducting_element,106192073]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-has_use: "[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]"
-found_in_taxon:
-- "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
-- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q29014733,29014733]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lead%20electrolytic%20and%201cm3%20cube.jpg"
-EC_number: 231-100-4
-UNII: 2P299V784P
+﻿---
+associated_hazard: '[[_Standards/WikiData/WD~lead_poisoning,110315]]'
+atomic_number: 82
+boiling_point:
+- 1740
+- 3164
+canonical_SMILES: '[Pb]'
 CAS_Registry_Number: 7439-92-1
-MeSH_tree_code:
-- D01.268.556.435
-- D01.552.544.435
+chemical_formula: Pb
+color: '[[_Standards/WikiData/WD~grey,42519]]'
+Commons_category: Lead
+Commons_gallery: Lead
+density: 11.34
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Lead,84693984]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~lead,947546]]'
 DSSTOX_compound_identifier: DTXCID804161
-Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Lead\"]"
-InChI: InChI=1S/Pb
 EAGLE_id: material/lod/108
-Krugosvet_article: nauka_i_tehnika/himiya/SVINETS.html
-RTECS_number: OF7525000
-InChIKey: WABPQHHGFIMREM-UHFFFAOYSA-N
-UMLS_CUI: C0023175
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20159.jpg"
-subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
-vapor_pressure: 0
-immediately_dangerous_to_life_or_health: 100
+EC_number: 231-100-4
 electronegativity: 2
-time_weighted_average_exposure_limit: 0.05
+element_symbol: Pb
+found_in_taxon:
+- '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+has_characteristic: '[[_Standards/WikiData/WD~opacity,691914]]'
+has_effect: '[[_Standards/WikiData/WD~lead_poisoning,110315]]'
+has_id_wikidata: Q708
+has_use: '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lead%20electrolytic%20and%201cm3%20cube.jpg"
+immediately_dangerous_to_life_or_health: 100
+InChI: InChI=1S/Pb
+InChIKey: WABPQHHGFIMREM-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~superconducting_element,106192073]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 1.4
 - 0.65
@@ -67,28 +50,45 @@ ionic_radius:
 - 1.19
 - 1.29
 - 1.49
-atomic_number: 82
-boiling_point:
-- 1740
-- 3164
-color: '[[_Standards/WikiData/WD~grey,42519]]'
+Krugosvet_article: nauka_i_tehnika/himiya/SVINETS.html
+made_from_material:
+- '[[_Standards/WikiData/WD~anglesite,156526]]'
+- '[[_Standards/WikiData/WD~boulangerite,250618]]'
+- '[[_Standards/WikiData/WD~cerussite,409122]]'
+- '[[_Standards/WikiData/WD~galena,37559]]'
+mass: 207.2
 melting_point:
 - 328
 - 621
-standard_molar_entropy: 64.8
-density: 11.34
-mass: 207.2
+MeSH_tree_code:
+- D01.268.556.435
+- D01.552.544.435
 OmegaWiki_Defined_Meaning: 2119
-ZVG_number: 8510
-Commons_category: Lead
-Commons_gallery: Lead
-chemical_formula: Pb
-element_symbol: Pb
-UNSPSC_Code: 11101714
+part_of:
+- '[[_Standards/WikiData/WD~group_14,106693]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q29014733,29014733]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20159.jpg"
 PubChem_CID: 5352425
-U_S_National_Archives_Identifier: 10663134
-canonical_SMILES: '[Pb]'
+RTECS_number: OF7525000
+SpocWebEntityId: 21977
+standard_molar_entropy: 64.8
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subject_has_role:
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~male_reproductive_toxicant,55427774]]'
+- '[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]'
+- '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
+time_weighted_average_exposure_limit: 0.05
+type: Element
+UMLS_CUI: C0023175
 Unicode_character: 鉛
+UNII: 2P299V784P
+UNSPSC_Code: 11101714
+U_S_National_Archives_Identifier: 10663134
+vapor_pressure: 0
+Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Lead\"]"
+ZVG_number: 8510
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Lead,708]] 

@@ -1,20 +1,24 @@
----
+﻿---
 aliases:
 - "Linear algebra"
-has_id_wikidata: Q82571
-is_the_study_of:
-- "[[_Standards/WikiData/WD~vector_space,125977]]"
-- "[[_Standards/WikiData/WD~linear_map,207643]]"
-- '[[_Standards/WikiData/WD~matrix,44337]]'
-different_from: "[[_Standards/WikiData/WD~algebra_over_a_field,1000660]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Linear_algebra,11212611]]"
-part_of:
-- "[[_Standards/WikiData/WD~linear_algebra,114728146]]"
-- '[[_Standards/WikiData/WD~algebra,3968]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 Baidu_Tieba_name: 线性代数
+Commons_category: "Linear algebra"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+Dewey_Decimal_Classification: 512.5
+different_from: '[[_Standards/WikiData/WD~algebra_over_a_field,1000660]]'
+GitHub_topic: linear-algebra
+has_id_wikidata: Q82571
+IEV_number: 102-01-28
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+is_the_study_of:
+- '[[_Standards/WikiData/WD~vector_space,125977]]'
+- '[[_Standards/WikiData/WD~linear_map,207643]]'
+- '[[_Standards/WikiData/WD~matrix,44337]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+part_of:
+- '[[_Standards/WikiData/WD~linear_algebra,114728146]]'
+- '[[_Standards/WikiData/WD~algebra,3968]]'
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20subspaces%20with%20shading.svg"
 Stack_Exchange_tag:
 - "https://mathoverflow.net/tags/linear-algebra"
 - "https://physics.stackexchange.com/tags/linear-algebra"
@@ -27,13 +31,9 @@ Stack_Exchange_tag:
 - "https://quantumcomputing.stackexchange.com/tags/linear-algebra"
 - "https://mathematica.stackexchange.com/tags/linear-algebra"
 - "https://math.stackexchange.com/tags/linear-algebra"
-Wolfram_Language_entity_code: "Entity[\"Concept\", \"LinearAlgebra::f2mkf\"]"
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20subspaces%20with%20shading.svg"
-IEV_number: 102-01-28
-Dewey_Decimal_Classification: 512.5
-Commons_category: "Linear algebra"
-GitHub_topic: linear-algebra
 subreddit: LinearAlgebra
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Linear_algebra,11212611]]'
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"LinearAlgebra::f2mkf\"]"
 ---
 
 ## #has_/text_of_/abstract 

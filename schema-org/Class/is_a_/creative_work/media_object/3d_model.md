@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_3d_model Class
-linkTitle: is_a_3d_model Class
-
-keywords: [3d_model]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - 3d-model
 - 3d_model
 - 3DModel
 - is_a_3d_model
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- 3d_model
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_3d_model Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_3d_model Class"
+type: Type
 ---
 
 Class of all 3d_models.

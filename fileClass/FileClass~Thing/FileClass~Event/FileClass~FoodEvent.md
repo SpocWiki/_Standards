@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: utensils
-version: "2.0"
-tagNames:
-  - class/FoodEvent
-  - class/Thing/Event/FoodEvent
-  - is_a_/FoodEvent
-  - schema-org/FoodEvent
-tags:
-  - class/FileClass
-  - class/FoodEvent
-  - is_a_/FoodEvent
-  - class/Thing/Event/FoodEvent
 extends: FileClass~Thing/FileClass~Event
 fields: []
+icon: utensils
+limit: 9
+mapWithTag: true
+tagNames:
+- class/FoodEvent
+- class/Thing/Event/FoodEvent
+- is_a_/FoodEvent
+- schema-org/FoodEvent
+tags:
+- class/FileClass
+- class/FoodEvent
+- is_a_/FoodEvent
+- class/Thing/Event/FoodEvent
+version: 2.0
 ---
 
 # FoodEvent

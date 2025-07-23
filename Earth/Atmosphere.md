@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Air
-  - Luft
+- Air
+- Luft
 ---
 
 ## Atmosphere-Composition 

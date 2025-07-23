@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_job_posting Class
-linkTitle: is_a_job_posting Class
-
-keywords: [job_posting]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - job-posting
 - job_posting
 - JobPosting
 - is_a_job_posting
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- job_posting
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_job_posting Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_job_posting Class"
+type: Type
 ---
 
 Class of all job_postings.

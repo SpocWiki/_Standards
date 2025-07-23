@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_bus_or_coach Class
-linkTitle: is_a_bus_or_coach Class
-
-keywords: [bus_or_coach]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - bus-or-coach
 - bus_or_coach
 - BusOrCoach
 - is_a_bus_or_coach
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bus_or_coach
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_bus_or_coach Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_bus_or_coach Class"
+type: Type
 ---
 
 Class of all bus_or_coachs.

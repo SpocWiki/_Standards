@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- intangible
+- intangible
+- Intangible
+- is_an_intangible
+- Abstraction
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_an_intangible Class
-linkTitle: is_an_intangible Class
 keywords:
-  - intangible
+- intangible
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_intangible Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - intangible
-  - intangible
-  - Intangible
-  - is_an_intangible
-  - Abstraction
+- class/Class
+- schema-org/Class
+title: "is_an_intangible Class"
+type: Type
 ---
 
 A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.

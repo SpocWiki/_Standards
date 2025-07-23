@@ -1,8 +1,8 @@
----
-title: Polyplacophora
+﻿---
 aliases:
-  - Polyplacophora
-  - Chiton
+- Polyplacophora
+- Chiton
+title: Polyplacophora
 ---
 
 ## Phylogeny 

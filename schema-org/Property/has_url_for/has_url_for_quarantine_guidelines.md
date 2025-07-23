@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_quarantine_guidelines
-linkTitle: has_url_for_quarantine_guidelines
-
-keywords: [quarantine_guidelines]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Url
-
+﻿---
 aliases:
 - quarantine-guidelines
 - quarantine_guidelines
 - quarantineGuidelines
 - has_url_for_quarantine_guidelines
+confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- quarantine_guidelines
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_quarantine_guidelines
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_quarantine_guidelines
+type: Predi_Url
 ---
 
 Predicate to specify the Url of SpecialAnnouncement.

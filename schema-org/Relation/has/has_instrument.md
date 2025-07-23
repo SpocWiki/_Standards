@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_instrument
-
-linkTitle: has_instrument
-keywords: [instrument]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - instrument
 - instrument
 - instrument
 - has_instrument
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- instrument
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_instrument
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_instrument
+type: Predi_Relation
 ---
 
 Use it like this: 

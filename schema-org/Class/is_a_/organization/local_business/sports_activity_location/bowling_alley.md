@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_bowling_alley Class
-linkTitle: is_a_bowling_alley Class
-
-keywords: [bowling_alley]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - bowling-alley
 - bowling_alley
 - BowlingAlley
 - is_a_bowling_alley
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- bowling_alley
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_bowling_alley Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_bowling_alley Class"
+type: Type
 ---
 
 Class of all bowling_alleys.

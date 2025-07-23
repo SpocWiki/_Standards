@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ShareAction
-  - class/Thing/Action/InteractAction/CommunicateAction/ShareAction
-  - is_a_/ShareAction
-  - schema-org/ShareAction
-tags:
-  - class/FileClass
-  - class/ShareAction
-  - is_a_/ShareAction
-  - class/Thing/Action/InteractAction/CommunicateAction/ShareAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ShareAction
+- class/Thing/Action/InteractAction/CommunicateAction/ShareAction
+- is_a_/ShareAction
+- schema-org/ShareAction
+tags:
+- class/FileClass
+- class/ShareAction
+- is_a_/ShareAction
+- class/Thing/Action/InteractAction/CommunicateAction/ShareAction
+version: 2.0
 ---
 
 # ShareAction

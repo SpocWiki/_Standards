@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_loan_or_credit Class
-linkTitle: is_a_loan_or_credit Class
-
-keywords: [loan_or_credit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - loan-or-credit
 - loan_or_credit
 - LoanOrCredit
 - is_a_loan_or_credit
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- loan_or_credit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_loan_or_credit Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_loan_or_credit Class"
+type: Type
 ---
 
 Class of all loan_or_credits.

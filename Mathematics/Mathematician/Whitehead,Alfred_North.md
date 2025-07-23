@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Alfred North Whitehead
+- "Alfred North Whitehead"
 ---
 
 #has_/time_/started :: 1861-02-15 

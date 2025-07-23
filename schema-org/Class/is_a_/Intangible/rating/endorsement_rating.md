@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_endorsement_rating Class
-linkTitle: is_an_endorsement_rating Class
-
-keywords: [endorsement_rating]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - endorsement-rating
 - endorsement_rating
 - EndorsementRating
 - is_an_endorsement_rating
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- endorsement_rating
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_endorsement_rating Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_endorsement_rating Class"
+type: Type
 ---
 
 Class of all endorsement_ratings.

@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_acquire_license_page
-
-linkTitle: has_acquire_license_page
-keywords: [acquire, license, page]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - acquire-license-page
 - acquire_license_page
 - acquireLicensePage
 - has_acquire_license_page
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- acquire
+- license
+- page
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_acquire_license_page
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_acquire_license_page
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

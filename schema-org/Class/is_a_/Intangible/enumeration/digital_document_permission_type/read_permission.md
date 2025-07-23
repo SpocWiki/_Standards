@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_read_permission Class
-linkTitle: is_a_read_permission Class
-
-keywords: [read_permission]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DigitalDocumentPermissionType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - read-permission
 - read_permission
 - ReadPermission
 - is_a_read_permission
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DigitalDocumentPermissionType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- read_permission
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_read_permission Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_read_permission Class"
+type: Type
 ---
 
 Class of all read_permissions.

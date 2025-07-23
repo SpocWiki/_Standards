@@ -1,7 +1,73 @@
----
-type: Element
-SpocWebEntityId: 6012
+﻿---
+associated_hazard:
+- '[[_Standards/WikiData/WD~copper_toxicity,5168803]]'
+- '[[_Standards/WikiData/WD~copper_exposure,21174096]]'
+atomic_number: 29
+boiling_point:
+- 2595
+- 4703
+canonical_SMILES: '[Cu]'
+CAS_Registry_Number: 7440-50-8
+chemical_formula: Cu
+Colon_Classification: E113
+color: '[[_Standards/WikiData/WD~copper,2722041]]'
+Commons_category: Copper
+Commons_gallery: Copper
+compressive_modulus_of_elasticity: 100
+CosIng_number: 32826
+CPV_Supplementary_code: AA04
+density: 8.94
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Copper,84688173]]'
+different_from: '[[_Standards/WikiData/WD~native_copper,583353]]'
+DSSTOX_compound_identifier: DTXCID503985
+EC_number: 231-159-6
+electrical_resistivity: 1.7e-8
+electronegativity: 1.9
+element_symbol: Cu
+found_in_taxon:
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Glyceridae,1940098]]'
+- '[[_Standards/WikiData/WD~Ocimum_centraliafricanum,7076503]]'
+- '[[_Standards/WikiData/WD~Crotalaria_prolongata,15451604]]'
+- '[[_Standards/WikiData/WD~Aeollanthus_subacaulis_var._linearis,28821983]]'
+- '[[_Standards/WikiData/WD~Escherichia_coli,25419]]'
+- '[[_Standards/WikiData/WD~cacao,42385]]'
+- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+Gmelin_number: 6855
+has_effect: '[[_Standards/WikiData/WD~copper_exposure,21174096]]'
 has_id_wikidata: Q753
+has_use:
+- '[[_Standards/WikiData/WD~heat_sink,1796959]]'
+- '[[_Standards/WikiData/WD~copper_conductor,2811078]]'
+- '[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/NatCopper.jpg"
+immediately_dangerous_to_life_or_health: 100
+InChI: InChI=1S/Cu
+InChIKey: RYGMFSIKBFXOCR-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.6
+- 0.46
+- 0.57
+- 0.73
+- 0.77
+Krugosvet_article: himiya/med
 made_from_material:
 - '[[_Standards/WikiData/WD~azurite,108212]]'
 - '[[_Standards/WikiData/WD~bornite,108694]]'
@@ -16,119 +82,53 @@ made_from_material:
 - '[[_Standards/WikiData/WD~digenite,414848]]'
 - '[[_Standards/WikiData/WD~tennantite-(Cu),106623140]]'
 - '[[_Standards/WikiData/WD~tetrahedrite-(Cu),116052724]]'
-part_of:
-- "[[_Standards/WikiData/WD~group_11,185870]]"
-- "[[_Standards/WikiData/WD~period_4,239825]]"
-- "[[_Standards/WikiData/WD~copper_proteins,909712]]"
-subclass_of:
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~medication,12140]]'
-different_from: "[[_Standards/WikiData/WD~native_copper,583353]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-- '[[_Standards/WikiData/WD~Copper,84688173]]'
+mass: 63.546
+melting_point:
+- 1085
+- 1981
+MeSH_tree_code:
+- D01.268.556.195
+- D01.268.956.170
+- D01.552.544.195
 named_after: '[[_Standards/WikiData/WD~Cyprus,644636]]'
-found_in_taxon:
-- "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
-- '[[_Standards/WikiData/WD~Glyceridae,1940098]]'
-- "[[_Standards/WikiData/WD~Ocimum_centraliafricanum,7076503]]"
-- "[[_Standards/WikiData/WD~Crotalaria_prolongata,15451604]]"
-- "[[_Standards/WikiData/WD~Aeollanthus_subacaulis_var._linearis,28821983]]"
-- "[[_Standards/WikiData/WD~Escherichia_coli,25419]]"
-- '[[_Standards/WikiData/WD~cacao,42385]]'
-- "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
-has_use:
-- "[[_Standards/WikiData/WD~heat_sink,1796959]]"
-- "[[_Standards/WikiData/WD~copper_conductor,2811078]]"
-- "[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]"
-instance_of:
-- "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-- "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-color: '[[_Standards/WikiData/WD~copper,2722041]]'
-associated_hazard:
-- "[[_Standards/WikiData/WD~copper_toxicity,5168803]]"
-- "[[_Standards/WikiData/WD~copper_exposure,21174096]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-has_effect: "[[_Standards/WikiData/WD~copper_exposure,21174096]]"
-permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q29583093,29583093]]'
-- '[[_Standards/WikiData/WD~Q55744201,55744201]]'
-time_of_discovery_or_invention: "-7000"
-vapor_pressure: 0
-compressive_modulus_of_elasticity: 100
-immediately_dangerous_to_life_or_health: 100
-time_weighted_average_exposure_limit: 1
+OmegaWiki_Defined_Meaning: 761
+OpenStreetMap_tag_or_key: "Tag:resource=copper"
 oxidation_state:
 - 1
 - 2
 - 3
 - 4
-ionic_radius:
-- 0.6
-- 0.46
-- 0.57
-- 0.73
-- 0.77
-electrical_resistivity: 1.7e-8
-electronegativity: 1.9
-atomic_number: 29
+part_of:
+- '[[_Standards/WikiData/WD~group_11,185870]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~copper_proteins,909712]]'
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q29583093,29583093]]'
+- '[[_Standards/WikiData/WD~Q55744201,55744201]]'
+PubChem_CID: 23978
+RTECS_number: GL5325000
+SpocWebEntityId: 6012
+subclass_of:
+- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 thermal_conductivity:
 - 386
 - 395
 - 401
 - 413
 - 384.1
-ZVG_number: 8240
-density: 8.94
-OpenStreetMap_tag_or_key: "Tag:resource=copper"
-Unicode_character: 銅
-melting_point:
-- 1085
-- 1981
-Gmelin_number: 6855
-boiling_point:
-- 2595
-- 4703
-OmegaWiki_Defined_Meaning: 761
-CosIng_number: 32826
-mass: 63.546
-PubChem_CID: 23978
-CPV_Supplementary_code: AA04
-Commons_gallery: Copper
-Commons_category: Copper
-canonical_SMILES: '[Cu]'
-chemical_formula: Cu
-element_symbol: Cu
-Colon_Classification: E113
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/NatCopper.jpg"
-U_S_National_Archives_Identifier: 10638044
-EC_number: 231-159-6
-CAS_Registry_Number: 7440-50-8
-UNII: 789U1901C5
+time_of_discovery_or_invention: -7000
+time_weighted_average_exposure_limit: 1
+type: Element
 UMLS_CUI: C0009968
-MeSH_tree_code:
-- D01.268.556.195
-- D01.268.956.170
-- D01.552.544.195
-DSSTOX_compound_identifier: DTXCID503985
+Unicode_character: 銅
+UNII: 789U1901C5
+U_S_National_Archives_Identifier: 10638044
+vapor_pressure: 0
 Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Copper\"]"
-RTECS_number: GL5325000
-Krugosvet_article: himiya/med
-InChI: InChI=1S/Cu
-InChIKey: RYGMFSIKBFXOCR-UHFFFAOYSA-N
+ZVG_number: 8240
 ---
 
 #chemic/Element 

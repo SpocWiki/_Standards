@@ -132,7 +132,7 @@ hashtag: Tuvalu
 Unicode_character: 🇹🇻 
 official_name:
 - "les Tuvalu"
-  - Tuvalu
+- Tuvalu
 short_name: "\U0001F1F9\U0001F1FB"
 coordinates_of_northernmost_point: "Point(176.07 -5.65)"
 coordinates_of_easternmost_point: "Point(-176.198888888 -13.185)"

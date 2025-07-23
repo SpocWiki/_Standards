@@ -1,80 +1,80 @@
----
+﻿---
+carbon_footprint: 1.1
+Colon_Classification: K92
+Commons_category: Fish
+Commons_gallery: Fish
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Fishes_of_the_World,757293]]'
+- '[[_Standards/WikiData/WD~FishBase,837101]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Dewey_Decimal_Classification:
+- 597
+- 333.956
+- 641.692
+different_from:
+- '[[_Standards/WikiData/WD~common_carp,81110]]'
+- '[[_Standards/WikiData/WD~Ryba,1691448]]'
+equivalent_class: "http://dbpedia.org/ontology/Fish"
+exact_match: "http://purl.obolibrary.org/obo/ENVO_00003875"
+GS1_GPC_code: 10005456
+habitat: '[[_Standards/WikiData/WD~body_of_water,15324]]'
+has_characteristic: '[[_Standards/WikiData/WD~diversity_of_fish,5283970]]'
 has_id_wikidata: Q152
-different from:
-  - "[[_Standards/WikiData/WD~common_carp,81110]]"
-  - "[[_Standards/WikiData/WD~Ryba,1691448]]"
-taxon known by this common name: "[[_Standards/WikiData/WD~Acanthodii,130955]]"
-this taxon is source of:
-  - "[[_Standards/WikiData/WD~roe,219426]]"
-  - "[[_Standards/WikiData/WD~fish_as_food,600396]]"
-  - "[[_Standards/WikiData/WD~cod_liver_oil,748786]]"
-  - "[[_Standards/WikiData/WD~shagreen,1511939]]"
-  - "[[_Standards/WikiData/WD~umi_no_foagura,17231497]]"
-  - "[[_Standards/WikiData/WD~fish_intestine,96756279]]"
-  - "[[_Standards/WikiData/WD~fish_tail,107246611]]"
-has use: "[[_Standards/WikiData/WD~fish_as_food,600396]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Fishes_of_the_World,757293]]"
-  - "[[_Standards/WikiData/WD~FishBase,837101]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-subclass of:
-  - "[[_Standards/WikiData/WD~marine_life,1230015]]"
-  - "[[_Standards/WikiData/WD~aquatic_animal,1756633]]"
-instance of:
-  - "[[_Standards/WikiData/WD~grade,2612572]]"
-  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-  - "[[_Standards/WikiData/WD~paraphyletic_group,58051350]]"
-has characteristic: "[[_Standards/WikiData/WD~diversity_of_fish,5283970]]"
-means of locomotion: "[[_Standards/WikiData/WD~fish_locomotion,5454646]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline_of_fish,7112636]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Diversity_of_fish,13478705]]"
-union of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-start time: -530000000-01-01
-properties for this type:
-  - main food source
-  - habitat
-  - image
-habitat: "[[_Standards/WikiData/WD~body_of_water,15324]]"
-carbon footprint: 1.1
-taxon rank: "[[_Standards/WikiData/WD~class,37517]]"
-studied in: "[[_Standards/WikiData/WD~ichthyology,60242]]"
-IAB code: "426"
-Dewey Decimal Classification:
-  - "597"
-  - "333.956"
-  - "641.692"
-OmegaWiki Defined Meaning: "1460"
-Iconclass notation:
-  - 25F6
-  - 41C68
-Commons gallery: Fish
-Commons category: Fish
+has_use: '[[_Standards/WikiData/WD~fish_as_food,600396]]'
+IAB_code: 426
+Iconclass_notation:
+- 25F6
+- 41C68
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper%20edit.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~grade,2612572]]'
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
+Krugosvet_article: biologiya/ryby
+means_of_locomotion: '[[_Standards/WikiData/WD~fish_locomotion,5454646]]'
+MeSH_tree_code: B01.050.150.900.493
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fish-coll002.jpg"
+OmegaWiki_Defined_Meaning: 1460
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20page%20banner%20tropical%20fish%20white.jpg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Fish-ar.oga"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ja-uo-fish.oga"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Jer-Pa%C3%AEsson.ogg"
+properties_for_this_type:
+- "main food source"
+- habitat
+- image
+start_time: -530000000-01-01
+studied_in: '[[_Standards/WikiData/WD~ichthyology,60242]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~marine_life,1230015]]'
+- '[[_Standards/WikiData/WD~aquatic_animal,1756633]]'
 subreddit: Fish
-GS1 GPC code: "10005456"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper%20edit.jpg
-Colon Classification: K92
-taxon name: Pisces
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20page%20banner%20tropical%20fish%20white.jpg
-Unicode character: 🐟
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Begiaren%20migrazioa.webm
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fish-ar.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ja-uo-fish.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jer-Pa%C3%AEsson.ogg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Fish-coll002.jpg
-equivalent class: http://dbpedia.org/ontology/Fish
-exact match: http://purl.obolibrary.org/obo/ENVO_00003875
-U.S. National Archives Identifier: "10638092"
-MeSH tree code: B01.050.150.900.493
-Krugosvet article: biologiya/ryby
+taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~Acanthodii,130955]]'
+taxon_name: Pisces
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~roe,219426]]'
+- '[[_Standards/WikiData/WD~fish_as_food,600396]]'
+- '[[_Standards/WikiData/WD~cod_liver_oil,748786]]'
+- '[[_Standards/WikiData/WD~shagreen,1511939]]'
+- '[[_Standards/WikiData/WD~umi_no_foagura,17231497]]'
+- '[[_Standards/WikiData/WD~fish_intestine,96756279]]'
+- '[[_Standards/WikiData/WD~fish_tail,107246611]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Diversity_of_fish,13478705]]'
+Unicode_character: "\U0001F41F"
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+U_S_National_Archives_Identifier: 10638092
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Begiaren%20migrazioa.webm"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fish,7112636]]'
 ---
 
 # [[Fish]] 

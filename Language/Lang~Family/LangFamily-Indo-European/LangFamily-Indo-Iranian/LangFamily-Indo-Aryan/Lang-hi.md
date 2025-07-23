@@ -1,64 +1,64 @@
----
-type: Lang
+﻿---
 aliases:
 - Hindi-Urdu
-tags:
-- Lang/hi
-has_id_wikidata: Q11051
-linguistic_typology:
-- "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-- "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
-has_grammatical_gender:
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~feminine,1775415]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of:
-- "[[_Standards/WikiData/WD~modern_language,1288568]]"
-- "[[_Standards/WikiData/WD~common_language,25568481]]"
-- "[[_Standards/WikiData/WD~natural_language,33742]]"
-has_grammatical_case: "[[_Standards/WikiData/WD~obliquus_in_Hindi,2491233]]"
-partially_coincident_with:
-- '[[_Standards/WikiData/WD~Kannauji,2726867]]'
-- "[[_Standards/WikiData/WD~Braj_Bhasha,35243]]"
-language_regulatory_body: "[[_Standards/WikiData/WD~Central_Hindi_Directorate,3634629]]"
-subclass_of: "[[_Standards/WikiData/WD~Western_Hindi,12600937]]"
-writing_system:
-- "[[_Standards/WikiData/WD~Urdu_orthography,112887037]]"
-- '[[_Standards/WikiData/WD~Devanagari,38592]]'
-entry_in_abbreviations_table:
-- ҳ.
-- H.
-- ہ
-- ਹਿੰ.
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AE%BF%20%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF.wav"
+Commons_category: "Hindustani language"
 country:
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Fiji,712]]'
 - '[[_Standards/WikiData/WD~Suriname,730]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
-- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+- '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
 - '[[_Standards/WikiData/WD~Malaysia,833]]'
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - "http://www.wikidata.org/.well-known/genid/37107bfd74d3cf8880855912cf9d6514"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Hindi,1568]]'
+entry_in_abbreviations_table:
+- ҳ.
+- H.
+- ہ
+- ਹਿੰ.
+Glottolog_code: hind1270
+has_grammatical_case: '[[_Standards/WikiData/WD~obliquus_in_Hindi,2491233]]'
+has_grammatical_gender:
+- '[[_Standards/WikiData/WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415]]'
+has_id_wikidata: Q11051
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hindustani.svg"
 indigenous_to:
 - '[[_Standards/WikiData/WD~Pakistan,843]]'
 - '[[_Standards/WikiData/WD~Delhi,1353]]'
-different_from: '[[_Standards/WikiData/WD~Hindi,1568]]'
-related_property: "Urdu Lughat ID"
+instance_of:
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~common_language,25568481]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Central_Hindi_Directorate,3634629]]'
+linguistic_typology:
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~syllabic_language,7888569]]'
+Linguist_List_code: hind
 native_label:
 - ہندوستانی
 - हिन्दुस्तानी
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hindustani.svg"
-Linguist_List_code: hind
-Glottolog_code: hind1270
-Commons_category: "Hindustani language"
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~Kannauji,2726867]]'
+- '[[_Standards/WikiData/WD~Braj_Bhasha,35243]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5885%20%28tam%29-Sriveenkat-%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%9A%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AE%BF%20%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF.wav"
+related_property: "Urdu Lughat ID"
+subclass_of: '[[_Standards/WikiData/WD~Western_Hindi,12600937]]'
+tags:
+- Lang/hi
+type: Lang
+writing_system:
+- '[[_Standards/WikiData/WD~Urdu_orthography,112887037]]'
+- '[[_Standards/WikiData/WD~Devanagari,38592]]'
 ---
 
 ﻿

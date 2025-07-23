@@ -196,19 +196,19 @@ name_in_native_language:
 coordinates_of_westernmost_point: "Point(38.79372 33.37478)"
 native_label:
 - "Republik Iraq"
-  - العراق
+- العراق
 - "جمهورية العراق"
-  - Iraq
+- Iraq
 - "Republic of Iraq"
-  - Iraq
+- Iraq
 official_name:
 - "Republik Iraq"
-  - العراق
+- العراق
 - "جمهورية العراق"
-  - Iraq
+- Iraq
 - "Republic of Iraq"
 - "la République d’Irak"
-  - Iraq
+- Iraq
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Sulaymaniyah%20%28Slemani%29%20City%20in%20Winter%20-%20Snow%202015.JPG"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20provinces%20Numbered%20%282024%29.png"
 MeSH_tree_code: Z01.252.245.500.360
@@ -367,10 +367,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Iraq
-    - العراق
-    - 伊拉克
-    - Ирак
+- Iraq
+- العراق
+- 伊拉克
+- Ирак
 - "the Republic of Iraq"
 - "la República del Iraq"
 - "Iraq (el)"

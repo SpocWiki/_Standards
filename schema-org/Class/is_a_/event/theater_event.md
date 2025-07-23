@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_theater_event Class
-linkTitle: is_a_theater_event Class
-
-keywords: [theater_event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - theater-event
 - theater_event
 - TheaterEvent
 - is_a_theater_event
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- theater_event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_theater_event Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_theater_event Class"
+type: Type
 ---
 
 Class of all theater_events.

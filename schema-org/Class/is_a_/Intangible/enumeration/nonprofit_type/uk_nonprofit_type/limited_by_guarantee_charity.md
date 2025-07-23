@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_limited_by_guarantee_charity Class
-linkTitle: is_a_limited_by_guarantee_charity Class
-
-keywords: [limited_by_guarantee_charity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: UKNonprofitType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - limited-by-guarantee-charity
 - limited_by_guarantee_charity
 - LimitedByGuaranteeCharity
 - is_a_limited_by_guarantee_charity
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: UKNonprofitType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- limited_by_guarantee_charity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_limited_by_guarantee_charity Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_limited_by_guarantee_charity Class"
+type: Type
 ---
 
 Class of all limited_by_guarantee_charitys.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_cost-per-unit
-linkTitle: has_cost-per-unit
-
-keywords: [cost-per-unit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - cost_per_unit
 - cost-per-unit
 - costPerUnit
 - has_value_for_cost_per_unit
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cost-per-unit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_cost-per-unit
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_cost-per-unit
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of DrugCost.

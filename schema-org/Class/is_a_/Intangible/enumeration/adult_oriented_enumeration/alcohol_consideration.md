@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_alcohol_consideration Class
-linkTitle: is_an_alcohol_consideration Class
-
-keywords: [alcohol_consideration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: AdultOrientedEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - alcohol-consideration
 - alcohol_consideration
 - AlcoholConsideration
 - is_an_alcohol_consideration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: AdultOrientedEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- alcohol_consideration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_alcohol_consideration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_alcohol_consideration Class"
+type: Type
 ---
 
 Class of all alcohol_considerations.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_body_measurement_hand Class
-linkTitle: is_a_body_measurement_hand Class
-
-keywords: [body_measurement_hand]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BodyMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - body-measurement-hand
 - body_measurement_hand
 - BodyMeasurementHand
 - is_a_body_measurement_hand
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BodyMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- body_measurement_hand
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_body_measurement_hand Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_body_measurement_hand Class"
+type: Type
 ---
 
 Class of all body_measurement_hands.

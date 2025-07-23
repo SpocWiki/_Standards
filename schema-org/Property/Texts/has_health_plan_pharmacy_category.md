@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_health_plan_pharmacy_category
-linkTitle: has_text_of_health_plan_pharmacy_category
-
-keywords: [health, plan, pharmacy, category]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - health-plan-pharmacy-category
 - health_plan_pharmacy_category
 - healthPlanPharmacyCategory
 - has_text_of_health_plan_pharmacy_category
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- health
+- plan
+- pharmacy
+- category
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_health_plan_pharmacy_category
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_health_plan_pharmacy_category
+type: Pred_Text
 ---
 
 Predicate to describe the Text of HealthPlanCostSharingSpecification.

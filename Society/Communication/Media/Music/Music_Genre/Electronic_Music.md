@@ -1,24 +1,24 @@
----
+﻿---
 aliases:
 - "Electronic music"
-has_id_wikidata: Q9778
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-different_from: '[[_Standards/WikiData/WD~electronica,817138]]'
-practiced_by: "[[_Standards/WikiData/WD~electronic_musician,5358395]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Electronica,13501008]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Electronic_music,14615763]]"
-described_by_source: "[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]"
-subclass_of: '[[_Standards/WikiData/WD~music,115484611]]'
-IAB_code: 351
-exact_match: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"
-equivalent_class: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"
 Amazon_com_browse_node: 11974381
 Commons_category: "Electronic music"
-subreddit: electronicmusic
-short_name: elektronisk
-inception: 1920-06 
-has_time_started: 1920-06 
+described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
+different_from: '[[_Standards/WikiData/WD~electronica,817138]]'
+equivalent_class: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"
+exact_match: "http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ElectronicMusic"
+has_id_wikidata: Q9778
+has_time_started: 1920-06
+IAB_code: 351
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/1st%20commercial%20Moog%20synthesizer%20%281964%2C%20commissioned%20by%20the%20Alwin%20Nikolai%20Dance%20Theater%20of%20NY%29%20%40%20Stearns%20Collection%20%28Stearns%202035%29%2C%20University%20of%20Michigan.jpg"
+inception: 1920-06
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+practiced_by: '[[_Standards/WikiData/WD~electronic_musician,5358395]]'
+short_name: elektronisk
+subclass_of: '[[_Standards/WikiData/WD~music,115484611]]'
+subreddit: electronicmusic
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Electronica,13501008]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Electronic_music,14615763]]'
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_manuscript Class
-linkTitle: is_a_manuscript Class
-
-keywords: [manuscript]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - manuscript
 - manuscript
 - Manuscript
 - is_a_manuscript
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- manuscript
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_manuscript Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_manuscript Class"
+type: Type
 ---
 
 Class of all manuscripts.

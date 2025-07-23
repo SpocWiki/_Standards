@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RecommendedDoseSchedule
-  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule
-  - is_a_/RecommendedDoseSchedule
-  - schema-org/RecommendedDoseSchedule
-tags:
-  - class/FileClass
-  - class/RecommendedDoseSchedule
-  - is_a_/RecommendedDoseSchedule
-  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RecommendedDoseSchedule
+- class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule
+- is_a_/RecommendedDoseSchedule
+- schema-org/RecommendedDoseSchedule
+tags:
+- class/FileClass
+- class/RecommendedDoseSchedule
+- is_a_/RecommendedDoseSchedule
+- class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule
+version: 2.0
 ---
 
 # RecommendedDoseSchedule

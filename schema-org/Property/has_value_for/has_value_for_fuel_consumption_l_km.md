@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_fuel-consumption
-linkTitle: has_fuel-consumption
-
-keywords: [fuel-consumption]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - fuel_consumption
 - fuel-consumption
 - fuelConsumption
 - has_value_for_fuel_consumption_l_km
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- fuel-consumption
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_fuel-consumption
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_fuel-consumption
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Vehicle.

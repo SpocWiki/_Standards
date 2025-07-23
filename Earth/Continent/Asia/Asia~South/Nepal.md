@@ -451,11 +451,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Nepal
-    - Népal
-    - نيبال
-    - 尼泊尔
-    - Непал
+- Nepal
+- Népal
+- نيبال
+- 尼泊尔
+- Непал
 - "the Federal Democratic Republic of Nepal"
 - "la República Democrática Federal de Nepal"
 Languages:

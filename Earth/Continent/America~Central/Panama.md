@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Panama
-  - Panamá
-  - بنما
-  - 巴拿马
-  - Панама
+- Panama
+- Panamá
+- بنما
+- 巴拿马
+- Панама
 - "the Republic of Panama"
 - "la República de Panamá"
 Languages:
@@ -297,7 +297,7 @@ male_population:
   - 2176523
 INSEE_countries_and_foreign_territories_code: 99413
 official_name:
-  - Panamá
+- Panamá
 - "la République du Panama"
 PM20_geo_code: E71
 ITU_letter_code: PNR

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - David Frederick Attenborough
+- "David Frederick Attenborough"
 ---
 
 #has_/time_/started :: 1926-05-08 

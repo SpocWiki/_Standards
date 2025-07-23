@@ -1,6 +1,10 @@
----
+﻿---
+has_id_wikidata: Q189294
 type: ElementGroup
 ---
+
+# [[Group-13-Boron]] 
+
 #chemic/Group 
 
 2) [[Boron]]
@@ -8,6 +12,10 @@ type: ElementGroup
 4) [[Gallium]]
 5) [[Indium]]
 6) [[Thallium]]
+
+#is_/same_as :: [[../../WikiData/WD~Group_13,189294]] 
+
+## #has_/text_of_/abstract 
 
 > The boron group are the chemical elements in group 13 of the periodic table, comprising boron (B), aluminium (Al), gallium (Ga), indium (In), thallium (Tl), and nihonium (Nh). The elements in the boron group are characterized by having three valence electrons. These elements have also been referred to as the triels. Boron is commonly classified as a (metalloid) while the rest, with the possible exception of nihonium, are considered post-transition metals. Boron occurs sparsely, probably because bombardment by the subatomic particles produced from natural radioactivity disrupts its nuclei. Aluminium occurs widely on earth, and indeed is the third most abundant element in the Earth's crust (8.3%). Gallium is found in the earth with an abundance of 13 ppm. Indium is the 61st most abundant element in the earth's crust, and thallium is found in moderate amounts throughout the planet. Nihonium is not known to occur in nature and therefore is termed a synthetic element.
 >

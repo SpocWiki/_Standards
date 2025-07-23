@@ -465,11 +465,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Colombia
-    - Colombie
-    - كولومبيا
-    - 哥伦比亚
-    - Колумбия
+- Colombia
+- Colombie
+- كولومبيا
+- 哥伦比亚
+- Колумбия
 - "the Republic of Colombia"
 - "la República de Colombia"
 Languages:

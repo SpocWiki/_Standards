@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- illustrator
+- illustrator
+- illustrator
+- has_illustrator
+- "schema:illustrator"
+- "dbo:illustrator"
+- "wdt:P14"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_illustrator
-linkTitle: has_illustrator
 keywords:
-  - illustrator
+- illustrator
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_illustrator
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - illustrator
-  - illustrator
-  - illustrator
-  - has_illustrator
-  - schema:illustrator
-  - dbo:illustrator
-  - wdt:P14
+- class/Relation
+- schema-org/Relation
+title: has_illustrator
+type: Predi_Relation
 ---
 
 Use it like this: 

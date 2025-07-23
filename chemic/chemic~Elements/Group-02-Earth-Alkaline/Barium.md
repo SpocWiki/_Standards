@@ -1,73 +1,73 @@
----
-type: Element
-SpocWebEntityId: 21952
-has_id_wikidata: Q1112
+﻿---
+atomic_number: 56
+boiling_point: 1897
+canonical_SMILES: '[Ba]'
+CAS_Registry_Number: 7440-39-3
+chemical_formula: Ba
+Commons_category: Barium
 Commons_gallery: Barium
+Common_Procurement_Vocabulary_code: 14765000
+CPV_Supplementary_code: AA32
+density: 3.338
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+Dewey_Decimal_Classification: 546.395
+different_from: '[[_Standards/WikiData/WD~Bario,15004545]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+DSSTOX_compound_identifier: DTXCID80875617
+EC_number: 231-149-1
+electronegativity: 0.89
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s²"
+- "[Xe] 6s²"
+element_symbol: Ba
+found_in_taxon: '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
+has_id_wikidata: Q1112
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Barium%201.jpg"
+InChI: InChI=1S/Ba
+InChIKey: DSAJWYNOEDNPEQ-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 1.35
+- 1.42
+- 1.61
+ionization_energy:
+- 3600
+- 502.9
+- 965.2
+Krugosvet_article: nauka_i_tehnika/himiya/BARI.html
+location_of_discovery: '[[_Standards/WikiData/WD~Royal_Institution,2171086]]'
+mass: 137.327
+MCN_code: 2805.19.20
+melting_point: 727
 MeSH_tree_code:
 - D01.268.552.050
 - D01.268.556.062
 - D01.552.539.124
 - D01.552.544.062
-InChIKey: DSAJWYNOEDNPEQ-UHFFFAOYSA-N
-DSSTOX_compound_identifier: DTXCID80875617
-InChI: InChI=1S/Ba
-Krugosvet_article: nauka_i_tehnika/himiya/BARI.html
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Royal_Institution,2171086]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
-different_from: '[[_Standards/WikiData/WD~Bario,15004545]]'
-subject_lexeme: L18238
-UMLS_CUI: C0004749
-electron_configuration:
-- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s²"
-- "[Xe] 6s²"
-named_after: '[[_Standards/WikiData/WD~weight,25288]]'
-oxidation_state: 2
-ionization_energy:
-- 3600
-- 502.9
-- 965.2
-atomic_number: 56
-electronegativity: 0.89
-ionic_radius:
-- 1.35
-- 1.42
-- 1.61
 molar_fusion_enthalpy: 7.12
-melting_point: 727
-boiling_point: 1897
+named_after: '[[_Standards/WikiData/WD~weight,25288]]'
 OmegaWiki_Defined_Meaning: 310
-density: 3.338
-ZVG_number: 8420
-mass: 137.327
-chemical_formula: Ba
-element_symbol: Ba
-Unicode_character: 鋇
-time_of_discovery_or_invention: "1808"
+oxidation_state: 2
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
 PubChem_CID: 5355457
-CPV_Supplementary_code: AA32
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Barium%201.jpg"
-canonical_SMILES: '[Ba]'
-UNSPSC_Code: 12141505
-Common_Procurement_Vocabulary_code: 14765000
-EC_number: 231-149-1
+SpocWebEntityId: 21952
+subject_lexeme: L18238
+time_of_discovery_or_invention: 1808
+type: Element
+UMLS_CUI: C0004749
+Unicode_character: 鋇
 UNII: 24GP945V5T
-MCN_code: 2805.19.20
-Dewey_Decimal_Classification: 546.395
-CAS_Registry_Number: 7440-39-3
-Commons_category: Barium
+UNSPSC_Code: 12141505
+ZVG_number: 8420
 ---
 
 #chemic/Element 

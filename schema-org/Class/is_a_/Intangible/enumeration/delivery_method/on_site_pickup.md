@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_on_site_pickup Class
-linkTitle: is_an_on_site_pickup Class
-
-keywords: [on_site_pickup]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DeliveryMethod
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - on-site-pickup
 - on_site_pickup
 - OnSitePickup
 - is_an_on_site_pickup
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DeliveryMethod
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- on_site_pickup
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_on_site_pickup Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_on_site_pickup Class"
+type: Type
 ---
 
 Class of all on_site_pickups.

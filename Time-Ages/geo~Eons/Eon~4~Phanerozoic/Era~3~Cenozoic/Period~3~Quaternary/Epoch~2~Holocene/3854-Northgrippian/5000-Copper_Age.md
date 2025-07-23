@@ -1,26 +1,26 @@
----
-has_id_wikidata: Q130253
+﻿---
 aliases:
-  - Chalcolithic
-  - Copper Age
-  - Eneolithic
+- Chalcolithic
+- "Copper Age"
+- Eneolithic
+Commons_category: "Copper Age"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
-has_part_s_: "[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]"
-start_time: -7500 
-has_time_started: -7500
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Marcilly-le-Hayer%20Dolmen%20des%20Blancs%20Foss%C3%A9s.jpg
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 EAGLE_id: dates/lod/12
 end_time:
-  - -2499
-  - -5500
+- -2499
+- -5500
+has_id_wikidata: Q130253
+has_part_s_: '[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]'
+has_time_started: -7500
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marcilly-le-Hayer%20Dolmen%20des%20Blancs%20Foss%C3%A9s.jpg"
+instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
 named_after:
-  - "[[_Standards/WikiData/WD~copper,753]]"
-  - "[[_Standards/WikiData/WD~stone,22731]]"
-Commons_category: Copper Age
+- '[[_Standards/WikiData/WD~copper,753]]'
+- '[[_Standards/WikiData/WD~stone,22731]]'
+start_time: -7500
 ---
 
 # [[Copper-Age]] 

@@ -1,39 +1,47 @@
----
-type: Element
-SpocWebEntityId: 21480
-has_id_wikidata: Q623
+﻿---
+atomic_number: 6
+canonical_SMILES: '[C]'
+CAS_Registry_Number: 7440-44-0
+chemical_formula: C
+Commons_category: Carbon
+Commons_gallery: Carbon
+CosIng_number: 95647
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+density:
+- 2.26
+- 3.51
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Carbon,84669446]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Q249747,249747]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]'
+DSSTOX_compound_identifier: DTXCID407391
+EC_number: 231-153-3
+electronegativity: 2.55
 electron_configuration:
 - "1s² 2s² 2p²"
 - "[He] 2s² 2p²"
-EC_number: 231-153-3
-PubChem_CID: 5462310
-CAS_Registry_Number: 7440-44-0
-MeSH_tree_code: D01.268.150
-Wolfram_Language_entity_code: "Entity[\"Element\", \"Carbon\"]"
+element_symbol: C
+Gmelin_number: 8868
+has_id_wikidata: Q623
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coal%20anthracite.jpg"
 InChI: InChI=1S/C
-Krugosvet_article: nauka_i_tehnika/himiya/UGLEROD.html
 InChIKey: OKTJSMMVPCPJKN-UHFFFAOYSA-N
-UNII: 4XYU5U00C4
-part_of:
-- "[[_Standards/WikiData/WD~group_14,106693]]"
-- "[[_Standards/WikiData/WD~period_2,207712]]"
-different_from: '[[_Standards/WikiData/WD~Q249747,249747]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- '[[_Standards/WikiData/WD~Carbon,84669446]]'
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
 instance_of:
-- "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57899690,57899690]]'
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.15
+- 0.16
+Krugosvet_article: nauka_i_tehnika/himiya/UGLEROD.html
+mass: 12.011
+MeSH_tree_code: D01.268.150
 named_after: '[[_Standards/WikiData/WD~coal,24489]]'
+OmegaWiki_Defined_Meaning: 484
 oxidation_state:
 - -4
 - -3
@@ -44,33 +52,25 @@ oxidation_state:
 - 2
 - 3
 - 4
-atomic_number: 6
-ionic_radius:
-- 0.15
-- 0.16
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]"
-density:
-- 2.26
-- 3.51
-electronegativity: 2.55
-OmegaWiki_Defined_Meaning: 484
-ZVG_number: 8040
-mass: 12.011
-chemical_formula: C
-element_symbol: C
-Gmelin_number: 8868
-CosIng_number: 95647
-canonical_SMILES: '[C]'
-U_S_National_Archives_Identifier: 10638575
-DSSTOX_compound_identifier: DTXCID407391
-Unicode_character: 碳
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coal%20anthracite.jpg"
-Commons_category: Carbon
-Commons_gallery: Carbon
-time_of_discovery_or_invention: "1789"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/3D-Printing-of-Meso-structurally-Ordered-Carbon-FiberPolymer-Composites-with-Unprecedented-srep43401-s1.ogv"
+part_of:
+- '[[_Standards/WikiData/WD~group_14,106693]]'
+- '[[_Standards/WikiData/WD~period_2,207712]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57899690,57899690]]'
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Carbon-ar.ogg"
+PubChem_CID: 5462310
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20006%20Carbon.svg"
+SpocWebEntityId: 21480
+subclass_of:
+- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+time_of_discovery_or_invention: 1789
+type: Element
+Unicode_character: 碳
+UNII: 4XYU5U00C4
+U_S_National_Archives_Identifier: 10638575
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/3D-Printing-of-Meso-structurally-Ordered-Carbon-FiberPolymer-Composites-with-Unprecedented-srep43401-s1.ogv"
+Wolfram_Language_entity_code: "Entity[\"Element\", \"Carbon\"]"
+ZVG_number: 8040
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Carbon,623]] 

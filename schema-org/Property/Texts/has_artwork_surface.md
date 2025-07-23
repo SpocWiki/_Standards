@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_artwork_surface
-linkTitle: has_text_of_artwork_surface
-
-keywords: [artwork, surface]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: surface
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - artwork-surface
 - artwork_surface
 - artworkSurface
 - has_text_of_artwork_surface
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- artwork
+- surface
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_artwork_surface
+publish: true
+publishDate: 
+supersedes: surface
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_artwork_surface
+type: Pred_Text
 ---
 
 Predicate to describe the Text of VisualArtwork.

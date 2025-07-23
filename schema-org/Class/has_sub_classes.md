@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has-sub-classes
+- sub-classes
+- has_sub_classes
+- has_subclasses
+- is_super-class
+- Class-Generalization
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_sub_classes
-linkTitle: has_sub_classes
 keywords:
-  - part
+- part
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_sub_classes
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - has-sub-classes
-  - sub-classes
-  - has_sub_classes
-  - has_subclasses
-  - is_super-class
-  - Class-Generalization
+- class/Relation
+- schema-org/Relation
+title: has_sub_classes
+type: Predi_Relation
 ---
 
 #is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 

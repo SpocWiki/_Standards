@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_payment_automatically_applied Class
-linkTitle: is_a_payment_automatically_applied Class
-
-keywords: [payment_automatically_applied]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PaymentStatusType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - payment-automatically-applied
 - payment_automatically_applied
 - PaymentAutomaticallyApplied
 - is_a_payment_automatically_applied
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PaymentStatusType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- payment_automatically_applied
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_payment_automatically_applied Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_payment_automatically_applied Class"
+type: Type
 ---
 
 Class of all payment_automatically_applieds.

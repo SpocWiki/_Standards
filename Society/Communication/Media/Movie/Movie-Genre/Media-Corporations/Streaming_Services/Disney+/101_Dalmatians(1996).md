@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - 101 Dalmatians (1996 film)
+- "101 Dalmatians (1996 film)"
 ---
 
 ## #has_/text_of_/abstract 

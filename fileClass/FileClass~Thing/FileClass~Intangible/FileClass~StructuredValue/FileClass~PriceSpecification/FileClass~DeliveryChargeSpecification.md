@@ -1,39 +1,39 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DeliveryChargeSpecification
-  - class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
-  - is_a_/DeliveryChargeSpecification
-  - schema-org/DeliveryChargeSpecification
-tags:
-  - class/FileClass
-  - class/DeliveryChargeSpecification
-  - is_a_/DeliveryChargeSpecification
-  - class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-  - id: cralOh
-    name: AreaServed
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
-    type: MultiFile
-    path: ""
-  - id: EaAmub
-    name: EligibleRegion
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
-    type: MultiFile
-    path: ""
-  - id: MWbwpO
-    name: IneligibleRegion
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
-    type: MultiFile
-    path: ""
+- id: cralOh
+  name: AreaServed
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
+  type: MultiFile
+  path: ''
+- id: EaAmub
+  name: EligibleRegion
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
+  type: MultiFile
+  path: ''
+- id: MWbwpO
+  name: IneligibleRegion
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DeliveryChargeSpecification
+- class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
+- is_a_/DeliveryChargeSpecification
+- schema-org/DeliveryChargeSpecification
+tags:
+- class/FileClass
+- class/DeliveryChargeSpecification
+- is_a_/DeliveryChargeSpecification
+- class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
+version: 2.0
 ---
 
 # DeliveryChargeSpecification

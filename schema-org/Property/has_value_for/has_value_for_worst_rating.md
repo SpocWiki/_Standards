@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_worst-rating
-linkTitle: has_worst-rating
-
-keywords: [worst-rating]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - worst_rating
 - worst-rating
 - worstRating
 - has_value_for_worst_rating
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- worst-rating
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_worst-rating
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_worst-rating
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Rating.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_noninvasive_procedure Class
-linkTitle: is_a_noninvasive_procedure Class
-
-keywords: [noninvasive_procedure]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalProcedureType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - noninvasive-procedure
 - noninvasive_procedure
 - NoninvasiveProcedure
 - is_a_noninvasive_procedure
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalProcedureType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- noninvasive_procedure
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_noninvasive_procedure Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_noninvasive_procedure Class"
+type: Type
 ---
 
 Class of all noninvasive_procedures.

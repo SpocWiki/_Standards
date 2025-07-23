@@ -1,8 +1,8 @@
----
-title: Solanales
+﻿---
 aliases:
-  - Polemoniales
-  - Solanales
+- Polemoniales
+- Solanales
+title: Solanales
 ---
 
 # [[Solanales]] 

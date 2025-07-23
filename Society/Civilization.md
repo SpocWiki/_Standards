@@ -1,19 +1,19 @@
----
-has_id_wikidata: Q8432
-described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-facet_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
-different_from: '[[_Standards/WikiData/WD~Civilization,1868663]]'
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~world_community,8036557]]"
-opposite_of: "[[_Standards/WikiData/WD~primitive_culture,83781188]]"
-has_characteristic: "[[_Standards/WikiData/WD~technological_state_of_a_civilization,113470485]]"
-Provenio_UUID: aa01f293-410a-422c-b8b1-93552340f5cf
-UMLS_CUI: C0008870
-subclass_of: '[[_Standards/WikiData/WD~society,8425]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02.jpg"
+﻿---
+Colon_Classification: "Y:1"
 Commons_category: Civilizations
+described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+different_from: '[[_Standards/WikiData/WD~Civilization,1868663]]'
+facet_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
+has_characteristic: '[[_Standards/WikiData/WD~technological_state_of_a_civilization,113470485]]'
+has_id_wikidata: Q8432
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02.jpg"
 MeSH_tree_code: I01.076.201.450.226
 OpenStreetMap_tag_or_key: "Key:historic:civilization"
-Colon_Classification: "Y:1"
+opposite_of: '[[_Standards/WikiData/WD~primitive_culture,83781188]]'
+Provenio_UUID: aa01f293-410a-422c-b8b1-93552340f5cf
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~world_community,8036557]]'
+subclass_of: '[[_Standards/WikiData/WD~society,8425]]'
+UMLS_CUI: C0008870
 ---
 
 ## #has_/text_of_/abstract 

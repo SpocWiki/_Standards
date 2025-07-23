@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- death-date
+- death_date
+- deathDate
+- has_time_of_death
+- "schema:deathDate"
+- "dbo:deathDate"
+- "wdt:P570"
 confidential: public
+cssclasses:
+- Predicate
+- Date_Time
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Date_Time
-publish: true
-type: Predi_Date_Time
-title: has_time_of_death
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Date
-aliases:
-  - death-date
-  - death_date
-  - deathDate
-  - has_time_of_death
-  - schema:deathDate
-  - dbo:deathDate
-  - wdt:P570
+- class/Property
+- schema-org/Property/Date
+title: has_time_of_death
+type: Predi_Date_Time
 ---
 
 Predicate to describe the date of Person.

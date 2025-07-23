@@ -1,216 +1,216 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/JobPosting
-  - class/Thing/Intangible/JobPosting
-  - is_a_/JobPosting
-  - schema-org/JobPosting
-tags:
-  - class/FileClass
-  - class/JobPosting
-  - is_a_/JobPosting
-  - class/Thing/Intangible/JobPosting
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: 7L1S2Z
-    name: Title
-    options: {}
-    type: Input
-    path: ""
-  - id: DoEuD3
-    name: ApplicantLocationRequirements
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
-    type: MultiFile
-    path: ""
-  - id: rZ1pYh
-    name: ApplicationContact
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
-    type: MultiFile
-    path: ""
-  - id: HqcOgP
-    name: BaseSalary
-    options: {}
-    type: Number
-    path: ""
-  - id: AG6xzW
-    name: DatePosted
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: 1NK6ou
-    name: DirectApply
-    options: {}
-    type: Boolean
-    path: ""
-  - id: 2peGjG
-    name: EducationRequirements
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
-    type: MultiFile
-    path: ""
-  - id: Y0ZesY
-    name: EligibilityToWorkRequirement
-    options: {}
-    type: Input
-    path: ""
-  - id: HWflIm
-    name: EmployerOverview
-    options: {}
-    type: Input
-    path: ""
-  - id: 4IRwHe
-    name: EmploymentType
-    options: {}
-    type: Input
-    path: ""
-  - id: Ll3vvb
-    name: EmploymentUnit
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: xU3G1N
-    name: EstimatedSalary
-    options: {}
-    type: Number
-    path: ""
-  - id: LLuC22
-    name: ExperienceInPlaceOfEducation
-    options: {}
-    type: Boolean
-    path: ""
-  - id: BJN5Sw
-    name: ExperienceRequirements
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/OccupationalExperienceRequirements')
-    type: MultiFile
-    path: ""
-  - id: l1cDDc
-    name: HiringOrganization
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: CFdYX8
-    name: IncentiveCompensation
-    options: {}
-    type: Input
-    path: ""
-  - id: Ex586J
-    name: Industry
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: 1Jzis9
-    name: JobBenefits
-    options: {}
-    type: Input
-    path: ""
-  - id: MewFMI
-    name: JobImmediateStart
-    options: {}
-    type: Boolean
-    path: ""
-  - id: HkyAVs
-    name: JobLocation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: C7zObM
-    name: JobLocationType
-    options: {}
-    type: Input
-    path: ""
-  - id: MM5Lyo
-    name: JobStartDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: lsMS9J
-    name: OccupationalCategory
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
-    type: MultiFile
-    path: ""
-  - id: pjTDOv
-    name: PhysicalRequirement
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: QdTLsM
-    name: Qualifications
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
-    type: MultiFile
-    path: ""
-  - id: YToJvr
-    name: RelevantOccupation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Occupation')
-    type: MultiFile
-    path: ""
-  - id: ahomOU
-    name: Responsibilities
-    options: {}
-    type: Input
-    path: ""
-  - id: q7xSmc
-    name: SalaryCurrency
-    options: {}
-    type: Input
-    path: ""
-  - id: fHQLqh
-    name: SecurityClearanceRequirement
-    options: {}
-    type: Input
-    path: ""
-  - id: 1dsXA3
-    name: SensoryRequirement
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: 4bVCJe
-    name: Skills
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: h1ONS6
-    name: SpecialCommitments
-    options: {}
-    type: Input
-    path: ""
-  - id: SdMoSS
-    name: TotalJobOpenings
-    options: {}
-    type: Number
-    path: ""
-  - id: A0R3Ui
-    name: ValidThrough
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: fYOToz
-    name: WorkHours
-    options: {}
-    type: Input
-    path: ""
+- id: 7L1S2Z
+  name: Title
+  options: {}
+  type: Input
+  path: ''
+- id: DoEuD3
+  name: ApplicantLocationRequirements
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
+  type: MultiFile
+  path: ''
+- id: rZ1pYh
+  name: ApplicationContact
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"
+  type: MultiFile
+  path: ''
+- id: HqcOgP
+  name: BaseSalary
+  options: {}
+  type: Number
+  path: ''
+- id: AG6xzW
+  name: DatePosted
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: 1NK6ou
+  name: DirectApply
+  options: {}
+  type: Boolean
+  path: ''
+- id: 2peGjG
+  name: EducationRequirements
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')"
+  type: MultiFile
+  path: ''
+- id: Y0ZesY
+  name: EligibilityToWorkRequirement
+  options: {}
+  type: Input
+  path: ''
+- id: HWflIm
+  name: EmployerOverview
+  options: {}
+  type: Input
+  path: ''
+- id: 4IRwHe
+  name: EmploymentType
+  options: {}
+  type: Input
+  path: ''
+- id: Ll3vvb
+  name: EmploymentUnit
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: xU3G1N
+  name: EstimatedSalary
+  options: {}
+  type: Number
+  path: ''
+- id: LLuC22
+  name: ExperienceInPlaceOfEducation
+  options: {}
+  type: Boolean
+  path: ''
+- id: BJN5Sw
+  name: ExperienceRequirements
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/OccupationalExperienceRequirements')"
+  type: MultiFile
+  path: ''
+- id: l1cDDc
+  name: HiringOrganization
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: CFdYX8
+  name: IncentiveCompensation
+  options: {}
+  type: Input
+  path: ''
+- id: Ex586J
+  name: Industry
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: 1Jzis9
+  name: JobBenefits
+  options: {}
+  type: Input
+  path: ''
+- id: MewFMI
+  name: JobImmediateStart
+  options: {}
+  type: Boolean
+  path: ''
+- id: HkyAVs
+  name: JobLocation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: C7zObM
+  name: JobLocationType
+  options: {}
+  type: Input
+  path: ''
+- id: MM5Lyo
+  name: JobStartDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: lsMS9J
+  name: OccupationalCategory
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"
+  type: MultiFile
+  path: ''
+- id: pjTDOv
+  name: PhysicalRequirement
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: QdTLsM
+  name: Qualifications
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')"
+  type: MultiFile
+  path: ''
+- id: YToJvr
+  name: RelevantOccupation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Occupation')"
+  type: MultiFile
+  path: ''
+- id: ahomOU
+  name: Responsibilities
+  options: {}
+  type: Input
+  path: ''
+- id: q7xSmc
+  name: SalaryCurrency
+  options: {}
+  type: Input
+  path: ''
+- id: fHQLqh
+  name: SecurityClearanceRequirement
+  options: {}
+  type: Input
+  path: ''
+- id: 1dsXA3
+  name: SensoryRequirement
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: 4bVCJe
+  name: Skills
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: h1ONS6
+  name: SpecialCommitments
+  options: {}
+  type: Input
+  path: ''
+- id: SdMoSS
+  name: TotalJobOpenings
+  options: {}
+  type: Number
+  path: ''
+- id: A0R3Ui
+  name: ValidThrough
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: fYOToz
+  name: WorkHours
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/JobPosting
+- class/Thing/Intangible/JobPosting
+- is_a_/JobPosting
+- schema-org/JobPosting
+tags:
+- class/FileClass
+- class/JobPosting
+- is_a_/JobPosting
+- class/Thing/Intangible/JobPosting
+version: 2.0
 ---
 
 # JobPosting

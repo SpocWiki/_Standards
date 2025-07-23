@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Joaquin Phoenix
+- "Joaquin Phoenix"
 ---
 
 #has_/time_/started :: 1974-10-28 

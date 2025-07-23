@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_serial
-linkTitle: has_id_serial
-
-keywords: [serial, number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - serial-number
 - id_serial
 - serialNumber
 - has_id_serial
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- serial
+- number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_serial
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_serial
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Demand, IndividualProduct, Offer.

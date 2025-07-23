@@ -1,35 +1,40 @@
----
+﻿---
 aliases:
 - "Political party"
-has_id_wikidata: Q7278
-subclass_of:
-- "[[_Standards/WikiData/WD~juridical_person,155076]]"
-- "[[_Standards/WikiData/WD~political_organization,7210356]]"
-different_from: '[[_Standards/WikiData/WD~Party,230880]]'
+Commons_category: "Political parties"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-position_held_by_head_of_the_organization:
-- "[[_Standards/WikiData/WD~party_secretary,836971]]"
-- "[[_Standards/WikiData/WD~party_leader,1553195]]"
-instance_of:
-- "[[_Standards/WikiData/WD~legal_concept,2135465]]"
-- "[[_Standards/WikiData/WD~legal_form,10541491]]"
-has_part_s_: "[[_Standards/WikiData/WD~juvenile_political_organization,2493450]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_political_party,5622823]]"
-- "[[_Standards/WikiData/WD~Template_Party_politics,14398758]]"
-has_list: "[[_Standards/WikiData/WD~lists_of_political_parties,11025641]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~member_of_political_party,11388835]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_political_parties,11499057]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Activities_of_political_organisations,29586073]]"
-Provenio_UUID: 128e680a-4574-48f0-92b6-090bc10f3d96
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+Dewey_Decimal_Classification:
+- 306.26
+- 324.2
+different_from: '[[_Standards/WikiData/WD~Party,230880]]'
+EntitySchema_for_this_class: E432
 equivalent_class:
 - "https://schema.org/PoliticalParty"
 - "http://dbpedia.org/ontology/PoliticalParty"
-EntitySchema_for_this_class: E432
+has_id_wikidata: Q7278
+has_list: '[[_Standards/WikiData/WD~lists_of_political_parties,11025641]]'
+has_part_s_: '[[_Standards/WikiData/WD~juvenile_political_organization,2493450]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~member_of_political_party,11388835]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_political_parties,11499057]]'
+Iconclass_notation: 44C33
+instance_of:
+- '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+- '[[_Standards/WikiData/WD~legal_form,10541491]]'
+IPTC_NewsCode: mediatopic/20000651
+model_item:
+- '[[_Standards/WikiData/WD~Labour_Party,9630]]'
+- '[[_Standards/WikiData/WD~Indian_National_Congress,10225]]'
+- '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]'
+- '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+- '[[_Standards/WikiData/WD~Christian_Democratic_Union,49762]]'
+OmegaWiki_Defined_Meaning: 2866
 OpenStreetMap_tag_or_key: "Key:political_party"
+position_held_by_head_of_the_organization:
+- '[[_Standards/WikiData/WD~party_secretary,836971]]'
+- '[[_Standards/WikiData/WD~party_leader,1553195]]'
 properties_for_this_type:
 - "member of"
 - chairperson
@@ -46,22 +51,17 @@ properties_for_this_type:
 - "logo image"
 - "headquarters location"
 - "party chief representative"
-model_item:
-- "[[_Standards/WikiData/WD~Labour_Party,9630]]"
-- "[[_Standards/WikiData/WD~Indian_National_Congress,10225]]"
-- "[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]"
-- "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
-- "[[_Standards/WikiData/WD~Christian_Democratic_Union,49762]]"
-Wikidata_property: "member of political party"
-OmegaWiki_Defined_Meaning: 2866
-U_S_National_Archives_Identifier: 10644794
+Provenio_UUID: 128e680a-4574-48f0-92b6-090bc10f3d96
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Activities_of_political_organisations,29586073]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/NL-politieke%20partij-article.ogg"
-Dewey_Decimal_Classification:
-- 306.26
-- 324.2
-Iconclass_notation: 44C33
-IPTC_NewsCode: mediatopic/20000651
-Commons_category: "Political parties"
+subclass_of:
+- '[[_Standards/WikiData/WD~juridical_person,155076]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356]]'
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_political_party,5622823]]'
+- '[[_Standards/WikiData/WD~Template_Party_politics,14398758]]'
+U_S_National_Archives_Identifier: 10644794
+Wikidata_property: "member of political party"
 ---
 
 ## #has_/text_of_/abstract 

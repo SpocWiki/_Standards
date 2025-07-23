@@ -1,9 +1,9 @@
----
-keywords: Tapire,Hauptseite,Anakondas,Argentinien,Art
-  (Biologie),Backenzahn,Bergtapir,Brasilien,Bären,Diastema,Eckzahn
+﻿---
+keywords: "Tapire,Hauptseite,Anakondas,Argentinien,Art (Biologie),Backenzahn,Bergtapir,Brasilien,Bären,Diastema,Eckzahn"
 lang: de
-title: Tapire - Wikipedia
+title: "Tapire - Wikipedia"
 ---
+
 # Tapir
 
 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_sale_price Class
-linkTitle: is_a_sale_price Class
-
-keywords: [sale_price]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PriceTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - sale-price
 - sale_price
 - SalePrice
 - is_a_sale_price
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PriceTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- sale_price
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_sale_price Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_sale_price Class"
+type: Type
 ---
 
 Class of all sale_prices.

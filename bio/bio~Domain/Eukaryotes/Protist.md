@@ -1,13 +1,12 @@
----
-title: The other protists
+﻿---
 aliases:
-  - Protists
-  - protoctist
-  - Protoctista
-  - Protista
-  - protist
+- Protists
+- protoctist
+- Protoctista
+- Protista
+- protist
+title: "The other protists"
 ---
-
 
 # Other protists 
 

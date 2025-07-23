@@ -1,24 +1,24 @@
----
-has_id_wikidata: Q12277
-described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-subclass_of: "[[_Standards/WikiData/WD~architectural_element,391414]]"
-different_from: '[[_Standards/WikiData/WD~Łuk,22340714]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~archway,40097962]]'
-shape: "[[_Standards/WikiData/WD~arch_shape,124343772]]"
-Nomenclature_for_Museum_Cataloging: 936
+﻿---
 Commons_category: Arches
 Commons_gallery: Arch
+described_by_source:
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Łuk,22340714]]'
+has_id_wikidata: Q12277
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~archway,40097962]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arch%20%28PSF%29.png"
 Krugosvet_article:
 - arkhitektura/arochnye-konstruktsii
 - kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ARKA.html
+Nomenclature_for_Museum_Cataloging: 936
+shape: '[[_Standards/WikiData/WD~arch_shape,124343772]]'
+subclass_of: '[[_Standards/WikiData/WD~architectural_element,391414]]'
 ---
 
 ## #has_/text_of_/abstract 

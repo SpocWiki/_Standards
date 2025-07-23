@@ -1,31 +1,31 @@
----
-has_id_wikidata: Q11430
-is_metaclass_for: '[[_Standards/WikiData/WD~phase,104837]]'
+﻿---
+Commons_category: "States of aggregation"
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+Dewey_Decimal_Classification: 530.4
 different_from:
 - '[[_Standards/WikiData/WD~phase,104837]]'
-- "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-part_of: '[[_Standards/WikiData/WD~phase,104837]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-has_list: "[[_Standards/WikiData/WD~list_of_states_of_matter,3271631]]"
-instance_of:
-- "[[_Standards/WikiData/WD~physical_property,4373292]]"
-- '[[_Standards/WikiData/WD~metaclass,19478619]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_States_of_matter,6147219]]"
-subclass_of: '[[_Standards/WikiData/WD~type,21146257]]'
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-Wolfram_Language_entity_type: MatterPhase
-Wikidata_property: "phase of matter"
-OmegaWiki_Defined_Meaning: 3614
-Dewey_Decimal_Classification: 530.4
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_id_wikidata: Q11430
+has_list: '[[_Standards/WikiData/WD~list_of_states_of_matter,3271631]]'
+Iconclass_notation: 22A31
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Physics%20matter%20state%20transition%201%20en.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg"
-Iconclass_notation: 22A31
-Commons_category: "States of aggregation"
+instance_of:
+- '[[_Standards/WikiData/WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~metaclass,19478619]]'
+is_metaclass_for: '[[_Standards/WikiData/WD~phase,104837]]'
+OmegaWiki_Defined_Meaning: 3614
+part_of: '[[_Standards/WikiData/WD~phase,104837]]'
+subclass_of: '[[_Standards/WikiData/WD~type,21146257]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_States_of_matter,6147219]]'
+Wikidata_property: "phase of matter"
+Wolfram_Language_entity_type: MatterPhase
 ---
 
 ## #has_/text_of_/abstract 

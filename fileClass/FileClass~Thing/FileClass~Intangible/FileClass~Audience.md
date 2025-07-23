@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Audience
-  - class/Thing/Intangible/Audience
-  - is_an_/Audience
-  - schema-org/Audience
-tags:
-  - class/FileClass
-  - class/Audience
-  - "#is_an_/Audience"
-  - class/Thing/Intangible/Audience
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: VXRpDd
-    name: AudienceType
-    options: {}
-    type: Input
-    path: ""
-  - id: 1G63tB
-    name: GeographicArea
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
-    type: MultiFile
-    path: ""
+- id: VXRpDd
+  name: AudienceType
+  options: {}
+  type: Input
+  path: ''
+- id: 1G63tB
+  name: GeographicArea
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Audience
+- class/Thing/Intangible/Audience
+- is_an_/Audience
+- schema-org/Audience
+tags:
+- class/FileClass
+- class/Audience
+- '#is_an_/Audience'
+- class/Thing/Intangible/Audience
+version: 2.0
 ---
 
 # Audience

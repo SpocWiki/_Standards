@@ -1,6 +1,7 @@
----
+﻿---
 type: ElementGroup
 ---
+
 #chemic/Group 
 
 1) [[Helium]]

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/InternetCafe
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe
-  - is_an_/InternetCafe
-  - schema-org/InternetCafe
-tags:
-  - class/FileClass
-  - class/InternetCafe
-  - "#is_an_/InternetCafe"
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/InternetCafe
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe
+- is_an_/InternetCafe
+- schema-org/InternetCafe
+tags:
+- class/FileClass
+- class/InternetCafe
+- '#is_an_/InternetCafe'
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe
+version: 2.0
 ---
 
 # InternetCafe

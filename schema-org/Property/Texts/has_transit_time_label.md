@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_transit_time_label
-linkTitle: has_text_of_transit_time_label
-
-keywords: [transit, time, label]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - transit-time-label
 - transit_time_label
 - transitTimeLabel
 - has_text_of_transit_time_label
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- transit
+- time
+- label
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_transit_time_label
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_transit_time_label
+type: Pred_Text
 ---
 
 Predicate to describe the Text of DeliveryTimeSettings, OfferShippingDetails.

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Arnold Schoenberg
-  - Arnold Schönberg
+- "Arnold Schoenberg"
+- "Arnold Schönberg"
 ---
 
 #has_/time_/started :: 1874-09-13 

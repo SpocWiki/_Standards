@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/RejectAction
-  - class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
-  - is_a_/RejectAction
-  - schema-org/RejectAction
-tags:
-  - class/FileClass
-  - class/RejectAction
-  - is_a_/RejectAction
-  - class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/RejectAction
+- class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
+- is_a_/RejectAction
+- schema-org/RejectAction
+tags:
+- class/FileClass
+- class/RejectAction
+- is_a_/RejectAction
+- class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
+version: 2.0
 ---
 
 # RejectAction

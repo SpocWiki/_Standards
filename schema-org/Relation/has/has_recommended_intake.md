@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_recommended_intake
-
-linkTitle: has_recommended_intake
-keywords: [recommended, intake]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - recommended-intake
 - recommended_intake
 - recommendedIntake
 - has_recommended_intake
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- recommended
+- intake
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_recommended_intake
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_recommended_intake
+type: Predi_Relation
 ---
 
 Use it like this: 

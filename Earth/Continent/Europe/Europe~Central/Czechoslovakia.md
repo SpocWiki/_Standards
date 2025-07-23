@@ -1,11 +1,9 @@
 ---
-
-type: Country
+has_id_wikidata: Q33946
+SpocWebEntityId: 59062
 tags:
 - geo/Country
-
-has_id_wikidata: Q33946 
-SpocWebEntityId: 59062
+type: Country
 ---
 
 #has_/time_/started :: 1918-10-28 

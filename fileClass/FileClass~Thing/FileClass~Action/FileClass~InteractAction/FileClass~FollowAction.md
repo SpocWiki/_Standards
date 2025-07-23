@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/FollowAction
-  - class/Thing/Action/InteractAction/FollowAction
-  - is_a_/FollowAction
-  - schema-org/FollowAction
-tags:
-  - class/FileClass
-  - class/FollowAction
-  - is_a_/FollowAction
-  - class/Thing/Action/InteractAction/FollowAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-  - id: MPtr40
-    name: Followee
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
+- id: MPtr40
+  name: Followee
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/FollowAction
+- class/Thing/Action/InteractAction/FollowAction
+- is_a_/FollowAction
+- schema-org/FollowAction
+tags:
+- class/FileClass
+- class/FollowAction
+- is_a_/FollowAction
+- class/Thing/Action/InteractAction/FollowAction
+version: 2.0
 ---
 
 # FollowAction

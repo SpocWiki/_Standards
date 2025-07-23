@@ -1,7 +1,7 @@
----
-title: Chlamydiae
+﻿---
 aliases:
-  - Chlamydiae
+- Chlamydiae
+title: Chlamydiae
 ---
 
 # [[Chlamydiae]] 

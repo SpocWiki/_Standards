@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_self_storage Class
-linkTitle: is_a_self_storage Class
-
-keywords: [self_storage]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - self-storage
 - self_storage
 - SelfStorage
 - is_a_self_storage
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- self_storage
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_self_storage Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_self_storage Class"
+type: Type
 ---
 
 Class of all self_storages.

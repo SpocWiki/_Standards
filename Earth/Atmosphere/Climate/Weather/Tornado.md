@@ -1,45 +1,45 @@
----
-has_id_wikidata: Q8081
+﻿---
 Commons_category: Tornadoes
-has_cause: '[[_Standards/WikiData/WD~cumulonimbus,182311]]'
+Commons_gallery: Tornado
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 different_from:
 - '[[_Standards/WikiData/WD~Tornado,251319]]'
-- "[[_Standards/WikiData/WD~dust_devil,490600]]"
-- "[[_Standards/WikiData/WD~fire_whirl,1418211]]"
+- '[[_Standards/WikiData/WD~dust_devil,490600]]'
+- '[[_Standards/WikiData/WD~fire_whirl,1418211]]'
 - '[[_Standards/WikiData/WD~Q55594227,55594227]]'
 - '[[_Standards/WikiData/WD~snowspout,113260409]]'
-measurement_scale: "[[_Standards/WikiData/WD~Enhanced_Fujita_Scale,429050]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-subclass_of:
-- '[[_Standards/WikiData/WD~vortex,732722]]'
-- '[[_Standards/WikiData/WD~whirlwind,1192097]]'
-- "[[_Standards/WikiData/WD~meteorological_disaster,6823473]]"
-- "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
-has_part_s_: "[[_Standards/WikiData/WD~funnel_cloud,1757780]]"
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dimmit%20Sequence.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A5%D8%B9%D8%B5%D8%A7%D8%B1%20%D9%82%D9%85%D8%B9%D9%8A.wav"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse.webm"
+EntitySchema_for_this_class: E348
+has_cause: '[[_Standards/WikiData/WD~cumulonimbus,182311]]'
+has_id_wikidata: Q8081
+has_part_s_: '[[_Standards/WikiData/WD~funnel_cloud,1757780]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/F5%20tornado%20Elie%20Manitoba%202007.jpg"
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+Krugosvet_article: nauka_i_tehnika/fizika/SMERCHI_I_TORNADO.html
+measurement_scale: '[[_Standards/WikiData/WD~Enhanced_Fujita_Scale,429050]]'
 MeSH_tree_code:
 - G16.500.750.775.745
 - N06.230.100.230.850
-Krugosvet_article: nauka_i_tehnika/fizika/SMERCHI_I_TORNADO.html
-Unicode_character: 🌪 
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dimmit%20Sequence.jpg"
+OmegaWiki_Defined_Meaning: 3787
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13133108,13133108]]'
-instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A5%D8%B9%D8%B5%D8%A7%D8%B1%20%D9%82%D9%85%D8%B9%D9%8A.wav"
+subclass_of:
+- '[[_Standards/WikiData/WD~vortex,732722]]'
+- '[[_Standards/WikiData/WD~whirlwind,1192097]]'
+- '[[_Standards/WikiData/WD~meteorological_disaster,6823473]]'
+- '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+subreddit: tornado
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tornadoes,123154370]]'
 UMLS_CUI: C0040476
-EntitySchema_for_this_class: E348
-OmegaWiki_Defined_Meaning: 3787
-subreddit: tornado
-Commons_gallery: Tornado
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/F5%20tornado%20Elie%20Manitoba%202007.jpg"
+Unicode_character: "\U0001F32A"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse.webm"
 ---
 
 ## #has_/text_of_/abstract 

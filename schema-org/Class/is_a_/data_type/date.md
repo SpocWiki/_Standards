@@ -1,29 +1,29 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- date
+- date
+- Date
+- is_a_date
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_date Class
-linkTitle: is_a_date Class
 keywords:
-  - date
+- date
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_date Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - date
-  - date
-  - Date
-  - is_a_date
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_date Class"
+type: Type
 ---
 
 # [[date]] 

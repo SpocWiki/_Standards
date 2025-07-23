@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - RDF-Schema
+- RDF-Schema
 ---
+
 # [[rdfs]] 
 
 

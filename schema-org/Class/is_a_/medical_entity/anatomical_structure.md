@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_anatomical_structure Class
-linkTitle: is_an_anatomical_structure Class
-
-keywords: [anatomical_structure]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - anatomical-structure
 - anatomical_structure
 - AnatomicalStructure
 - is_an_anatomical_structure
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- anatomical_structure
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_anatomical_structure Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_anatomical_structure Class"
+type: Type
 ---
 
 Class of all anatomical_structures.

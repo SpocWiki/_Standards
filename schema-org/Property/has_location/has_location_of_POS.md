@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_of_POS
-linkTitle: has_location_of_POS
-
-keywords: [has_POS]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - has-pos
 - has_POS
 - hasPOS
 - has_location_of_POS
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- has_POS
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_of_POS
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_of_POS
+type: Pred_geo
 ---
 
 Predicate to describe the geo of Organization or Person that operates the POS.

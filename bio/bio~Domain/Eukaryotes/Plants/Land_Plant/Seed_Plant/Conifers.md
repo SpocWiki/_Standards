@@ -1,11 +1,11 @@
----
-title: Conifers
+﻿---
 aliases:
-  - Pinales
-  - Conifer
-  - Coniferophyta
-  - Coniferae
-  - Pinophyta
+- Pinales
+- Conifer
+- Coniferophyta
+- Coniferae
+- Pinophyta
+title: Conifers
 ---
 
 # [[Conifers]] 

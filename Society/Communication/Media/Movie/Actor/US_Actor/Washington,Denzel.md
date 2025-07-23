@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Denzel Washington
-  - Denzel Hayes Washington Jr.
+- "Denzel Washington"
+- "Denzel Hayes Washington Jr."
 ---
 
 #has_/time_/started :: 1954-12-28 

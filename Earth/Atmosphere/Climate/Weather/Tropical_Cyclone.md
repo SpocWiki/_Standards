@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Tropical cyclone
+- "Tropical cyclone"
 has_id_wikidata: Q8092
 ---
-
 
 ## #has_/text_of_/abstract 
 

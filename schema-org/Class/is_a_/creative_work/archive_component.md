@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_archive_component Class
-linkTitle: is_an_archive_component Class
-
-keywords: [archive_component]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - archive-component
 - archive_component
 - ArchiveComponent
 - is_an_archive_component
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- archive_component
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_archive_component Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_archive_component Class"
+type: Type
 ---
 
 Class of all archive_components.

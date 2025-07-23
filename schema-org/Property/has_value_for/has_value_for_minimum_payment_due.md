@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_minimum-payment-due
-linkTitle: has_minimum-payment-due
-
-keywords: [minimum-payment-due]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - minimum_payment_due
 - minimum-payment-due
 - minimumPaymentDue
 - has_value_for_minimum_payment_due
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- minimum-payment-due
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_minimum-payment-due
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_minimum-payment-due
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Invoice.

@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- sports-team
+- sports_team
+- sportsTeam
+- has_sports_team
+- "schema:SportsTeam"
+- "dbo:SportsTeam"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_sports_team
-linkTitle: has_sports_team
 keywords:
-  - sports
-  - team
+- sports
+- team
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_sports_team
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - sports-team
-  - sports_team
-  - sportsTeam
-  - has_sports_team
-  - schema:SportsTeam
-  - dbo:SportsTeam
+- class/Relation
+- schema-org/Relation
+title: has_sports_team
+type: Predi_Relation
 ---
 
 Use it like this: 

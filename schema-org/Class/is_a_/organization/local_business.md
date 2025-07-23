@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_local_business Class
-linkTitle: is_a_local_business Class
-
-keywords: [local_business]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - local-business
 - local_business
 - LocalBusiness
 - is_a_local_business
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- local_business
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_local_business Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_local_business Class"
+type: Type
 ---
 
 Class of all local_businesss.

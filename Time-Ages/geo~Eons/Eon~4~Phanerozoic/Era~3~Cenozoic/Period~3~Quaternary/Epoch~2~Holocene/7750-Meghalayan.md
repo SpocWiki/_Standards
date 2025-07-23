@@ -1,15 +1,15 @@
----
+﻿---
+Commons_category: Meghalayan
+coordinate_location: "Point(91.715 25.262222222)"
+different_from: '[[_Standards/WikiData/WD~Meghalaya,1195]]'
 has_id_wikidata: Q55594589
-instance of:
-  - "[[_Standards/WikiData/WD~age,568683]]"
-  - "[[_Standards/WikiData/WD~stage,1123245]]"
-type locality (geology): "[[_Standards/WikiData/WD~GSSP for the base of the Meghalayan,133676723]]"
-different from: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
-named after: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
-start time: -2250-06
-coordinate location: Point(91.715 25.262222222)
-Commons category: Meghalayan
-sRGB color hex triplet: FDEDEC
+instance_of:
+- '[[_Standards/WikiData/WD~age,568683]]'
+- '[[_Standards/WikiData/WD~stage,1123245]]'
+named_after: '[[_Standards/WikiData/WD~Meghalaya,1195]]'
+sRGB_color_hex_triplet: FDEDEC
+start_time: -2250-06
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Meghalayan,133676723]]"
 ---
 
 # [[Age~3~Meghalayan]] 

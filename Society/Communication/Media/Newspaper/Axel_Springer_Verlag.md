@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Axel Springer Verlag
+- "Axel Springer Verlag"
 ---
 
 Axel_Springer_Verlag

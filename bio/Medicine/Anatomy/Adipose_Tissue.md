@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Adipose tissue
-  - body fat
+- "Adipose tissue"
+- "body fat"
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_screening_event Class
-linkTitle: is_a_screening_event Class
-
-keywords: [screening_event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - screening-event
 - screening_event
 - ScreeningEvent
 - is_a_screening_event
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- screening_event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_screening_event Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_screening_event Class"
+type: Type
 ---
 
 Class of all screening_events.

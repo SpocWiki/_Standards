@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_group_boarding_policy Class
-linkTitle: is_a_group_boarding_policy Class
-
-keywords: [group_boarding_policy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BoardingPolicyType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - group-boarding-policy
 - group_boarding_policy
 - GroupBoardingPolicy
 - is_a_group_boarding_policy
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BoardingPolicyType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- group_boarding_policy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_group_boarding_policy Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_group_boarding_policy Class"
+type: Type
 ---
 
 Class of all group_boarding_policys.

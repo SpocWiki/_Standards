@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_investment_or_deposit Class
-linkTitle: is_an_investment_or_deposit Class
-
-keywords: [investment_or_deposit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - investment-or-deposit
 - investment_or_deposit
 - InvestmentOrDeposit
 - is_an_investment_or_deposit
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- investment_or_deposit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_investment_or_deposit Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_investment_or_deposit Class"
+type: Type
 ---
 
 Class of all investment_or_deposits.

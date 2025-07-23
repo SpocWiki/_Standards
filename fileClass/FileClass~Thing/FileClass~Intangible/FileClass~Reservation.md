@@ -1,86 +1,86 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Reservation
-  - class/Thing/Intangible/Reservation
-  - is_a_/Reservation
-  - schema-org/Reservation
-tags:
-  - class/FileClass
-  - class/Reservation
-  - is_a_/Reservation
-  - class/Thing/Intangible/Reservation
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: njJkfe
-    name: BookingTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: TwwNYB
-    name: Broker
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: zlPeV7
-    name: ModifiedTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: lhGDHr
-    name: PriceCurrency
-    options: {}
-    type: Input
-    path: ""
-  - id: mEy2mL
-    name: ProgramMembershipUsed
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ProgramMembership')
-    type: MultiFile
-    path: ""
-  - id: 8aOBYF
-    name: Provider
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: pjEzvW
-    name: ReservationFor
-    options:
-      dvQueryString: dv.pages('#class/Thing')
-    type: MultiFile
-    path: ""
-  - id: RKR1RU
-    name: ReservationId
-    options: {}
-    type: Input
-    path: ""
-  - id: X55z44
-    name: ReservedTicket
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Ticket')
-    type: MultiFile
-    path: ""
-  - id: uTSLSM
-    name: TotalPrice
-    options: {}
-    type: Number
-    path: ""
-  - id: qa80J9
-    name: UnderName
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
+- id: njJkfe
+  name: BookingTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: TwwNYB
+  name: Broker
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: zlPeV7
+  name: ModifiedTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: lhGDHr
+  name: PriceCurrency
+  options: {}
+  type: Input
+  path: ''
+- id: mEy2mL
+  name: ProgramMembershipUsed
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/ProgramMembership')"
+  type: MultiFile
+  path: ''
+- id: 8aOBYF
+  name: Provider
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: pjEzvW
+  name: ReservationFor
+  options:
+    dvQueryString: "dv.pages('#class/Thing')"
+  type: MultiFile
+  path: ''
+- id: RKR1RU
+  name: ReservationId
+  options: {}
+  type: Input
+  path: ''
+- id: X55z44
+  name: ReservedTicket
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Ticket')"
+  type: MultiFile
+  path: ''
+- id: uTSLSM
+  name: TotalPrice
+  options: {}
+  type: Number
+  path: ''
+- id: qa80J9
+  name: UnderName
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Reservation
+- class/Thing/Intangible/Reservation
+- is_a_/Reservation
+- schema-org/Reservation
+tags:
+- class/FileClass
+- class/Reservation
+- is_a_/Reservation
+- class/Thing/Intangible/Reservation
+version: 2.0
 ---
 
 # Reservation

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MonetaryAmountDistribution
-  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
-  - is_a_/MonetaryAmountDistribution
-  - schema-org/MonetaryAmountDistribution
-tags:
-  - class/FileClass
-  - class/MonetaryAmountDistribution
-  - is_a_/MonetaryAmountDistribution
-  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution
 fields:
-  - id: nLBQlB
-    name: Currency
-    options: {}
-    type: Input
-    path: ""
+- id: nLBQlB
+  name: Currency
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MonetaryAmountDistribution
+- class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
+- is_a_/MonetaryAmountDistribution
+- schema-org/MonetaryAmountDistribution
+tags:
+- class/FileClass
+- class/MonetaryAmountDistribution
+- is_a_/MonetaryAmountDistribution
+- class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
+version: 2.0
 ---
 
 # MonetaryAmountDistribution

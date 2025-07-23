@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Dietary fiber
-  - Ballaststoff
-  - roughage
+- "Dietary fiber"
+- Ballaststoff
+- roughage
 ---
 
 ## #has_/text_of_/abstract 

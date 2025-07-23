@@ -1,36 +1,36 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HealthPlanNetwork
-  - class/Thing/Intangible/HealthPlanNetwork
-  - is_a_/HealthPlanNetwork
-  - schema-org/HealthPlanNetwork
-tags:
-  - class/FileClass
-  - class/HealthPlanNetwork
-  - is_a_/HealthPlanNetwork
-  - class/Thing/Intangible/HealthPlanNetwork
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: qT5V1p
-    name: HealthPlanCostSharing
-    options: {}
-    type: Boolean
-    path: ""
-  - id: i6twk4
-    name: HealthPlanNetworkId
-    options: {}
-    type: Input
-    path: ""
-  - id: rHDWGX
-    name: HealthPlanNetworkTier
-    options: {}
-    type: Input
-    path: ""
+- id: qT5V1p
+  name: HealthPlanCostSharing
+  options: {}
+  type: Boolean
+  path: ''
+- id: i6twk4
+  name: HealthPlanNetworkId
+  options: {}
+  type: Input
+  path: ''
+- id: rHDWGX
+  name: HealthPlanNetworkTier
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HealthPlanNetwork
+- class/Thing/Intangible/HealthPlanNetwork
+- is_a_/HealthPlanNetwork
+- schema-org/HealthPlanNetwork
+tags:
+- class/FileClass
+- class/HealthPlanNetwork
+- is_a_/HealthPlanNetwork
+- class/Thing/Intangible/HealthPlanNetwork
+version: 2.0
 ---
 
 # HealthPlanNetwork

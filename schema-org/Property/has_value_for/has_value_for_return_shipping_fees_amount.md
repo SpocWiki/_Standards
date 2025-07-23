@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_return-shipping-fees-amount
-linkTitle: has_return-shipping-fees-amount
-
-keywords: [return-shipping-fees-amount]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - return_shipping_fees_amount
 - return-shipping-fees-amount
 - returnShippingFeesAmount
 - has_value_for_return_shipping_fees_amount
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return-shipping-fees-amount
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_return-shipping-fees-amount
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_return-shipping-fees-amount
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of MerchantReturnPolicy.

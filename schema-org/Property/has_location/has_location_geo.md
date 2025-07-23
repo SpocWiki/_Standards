@@ -1,27 +1,27 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- geo
+- has_location_
 confidential: public
+cssclasses:
+- Predicate
+- geo
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - geo
-publish: true
-type: Pred_geo
-title: has_location_
-linkTitle: has_location_
 keywords:
-  - geo
+- geo
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_location_
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/geo
-aliases:
-  - geo
-  - has_location_
+- class/Property
+- schema-org/Property/geo
+title: has_location_
+type: Pred_geo
 ---
 
 Predicate to describe the geo-Coordinates of a Location 

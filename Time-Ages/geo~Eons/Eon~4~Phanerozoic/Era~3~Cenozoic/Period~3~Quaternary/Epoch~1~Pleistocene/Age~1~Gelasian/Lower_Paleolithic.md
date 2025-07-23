@@ -1,10 +1,11 @@
----
+﻿---
 aliases:
-  - Lower Paleolithic
-  - Lower Palaeolithic
-  - Old Stone Age
-  - Altpaläolithikum
+- "Lower Paleolithic"
+- "Lower Palaeolithic"
+- "Old Stone Age"
+- Altpaläolithikum
 ---
+
 # [[Lower_Paleolithic]] 
 
 #is_a_/time_/Culture 

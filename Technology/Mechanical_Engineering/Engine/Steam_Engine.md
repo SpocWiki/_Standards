@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q12760
+﻿---
 aliases:
-  - Steam engine
+- "Steam engine"
+has_id_wikidata: Q12760
 ---
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Guide
-  - class/Thing/CreativeWork/Guide
-  - is_a_/Guide
-  - schema-org/Guide
-tags:
-  - class/FileClass
-  - class/Guide
-  - is_a_/Guide
-  - class/Thing/CreativeWork/Guide
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: KT1E3y
-    name: ReviewAspect
-    options: {}
-    type: Input
-    path: ""
+- id: KT1E3y
+  name: ReviewAspect
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Guide
+- class/Thing/CreativeWork/Guide
+- is_a_/Guide
+- schema-org/Guide
+tags:
+- class/FileClass
+- class/Guide
+- is_a_/Guide
+- class/Thing/CreativeWork/Guide
+version: 2.0
 ---
 
 # Guide

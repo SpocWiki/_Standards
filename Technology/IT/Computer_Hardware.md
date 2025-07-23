@@ -1,39 +1,39 @@
----
+﻿---
 aliases:
 - "Computer hardware"
+Amazon_com_browse_node: 541966
+Baidu_Tieba_name: 硬件
+Commons_category: "Computer hardware"
+Commons_gallery: "Computer hardware"
+has_characteristic: '[[_Standards/WikiData/WD~form_factor,24574728]]'
 has_id_wikidata: Q3966
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~firmware,104851]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_computing_hardware,186148]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~physical_technological_component,811909]]"
-- "[[_Standards/WikiData/WD~electronic_device,2858615]]"
-used_by:
-- "[[_Standards/WikiData/WD~device_driver,1033951]]"
-- "[[_Standards/WikiData/WD~operating_system,9135]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Infobox_computer_hardware,5857050]]"
-- "[[_Standards/WikiData/WD~Template_Basic_computer_components,6405082]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20from%20inside%20018.jpg"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_computing_hardware,186148]]'
 IEV_number: 171-01-20
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20from%20inside%20018.jpg"
+instance_of: '[[_Standards/WikiData/WD~electronics,11650]]'
 IPTC_NewsCode: mediatopic/20000226
-has_characteristic: "[[_Standards/WikiData/WD~form_factor,24574728]]"
-Baidu_Tieba_name: 硬件
+OmegaWiki_Defined_Meaning: 396033
+opposite_of: '[[_Standards/WikiData/WD~software,7397]]'
+part_of: '[[_Standards/WikiData/WD~computer,68]]'
 properties_for_this_type:
 - "thermal design power"
 - connector
 - manufacturer
+subclass_of:
+- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
+subreddit: hardware
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Infobox_computer_hardware,5857050]]'
+- '[[_Standards/WikiData/WD~Template_Basic_computer_components,6405082]]'
+Universal_Decimal_Classification: 004.3
+used_by:
+- '[[_Standards/WikiData/WD~device_driver,1033951]]'
+- '[[_Standards/WikiData/WD~operating_system,9135]]'
 Wikidata_property:
 - "video system"
 - "audio system"
-opposite_of: '[[_Standards/WikiData/WD~software,7397]]'
-instance_of: '[[_Standards/WikiData/WD~electronics,11650]]'
-part_of: '[[_Standards/WikiData/WD~computer,68]]'
-OmegaWiki_Defined_Meaning: 396033
-Amazon_com_browse_node: 541966
-subreddit: hardware
-Commons_gallery: "Computer hardware"
-Commons_category: "Computer hardware"
-Universal_Decimal_Classification: 004.3
 ---
 
 ## #has_/text_of_/abstract 

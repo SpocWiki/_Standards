@@ -1,40 +1,55 @@
----
-has_id_wikidata: Q7397
-studied_in: "[[_Standards/WikiData/WD~software_engineering,80993]]"
-has_characteristic:
-- "[[_Standards/WikiData/WD~source_code,128751]]"
-- "[[_Standards/WikiData/WD~software_architecture,846636]]"
-- "[[_Standards/WikiData/WD~software_testability,1307327]]"
-- "[[_Standards/WikiData/WD~software_quality,1412670]]"
-- "[[_Standards/WikiData/WD~software_feature,4485156]]"
-- "[[_Standards/WikiData/WD~software_category,17155032]]"
-model_item:
-- "[[_Standards/WikiData/WD~VLC_media_player,171477]]"
-- '[[_Standards/WikiData/WD~SQLite,319417]]'
-- "[[_Standards/WikiData/WD~GNOME_Shell,1343860]]"
-- '[[_Standards/WikiData/WD~Firefox,698]]'
-- "[[_Standards/WikiData/WD~Windows_XP,11248]]"
-has_part_s_:
-- '[[_Standards/WikiData/WD~data,494756]]'
-- "[[_Standards/WikiData/WD~computer_program,40056]]"
+﻿---
+All_Science_Journal_Classification_Codes: 1712
+Amazon_com_browse_node: 229534
+Baidu_Tieba_name: 软件
+Commons_category: Software
+Commons_gallery: Software
+Dewey_Decimal_Classification:
+- 005
+- 005.3
 different_from:
 - '[[_Standards/WikiData/WD~Software,2297604]]'
-- "[[_Standards/WikiData/WD~computer_program,40056]]"
-subclass_of:
-- '[[_Standards/WikiData/WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~means,12774177]]'
-- "[[_Standards/WikiData/WD~creative_work,17537576]]"
-- "[[_Standards/WikiData/WD~written_work,47461344]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_software,5621231]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715472,12715472]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software,15021033]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Software,15659621]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_software,17155144]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_software,18922260]]"
-has_list: "[[_Standards/WikiData/WD~list_of_softwares,25344612]]"
-instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
-Baidu_Tieba_name: 软件
+- '[[_Standards/WikiData/WD~computer_program,40056]]'
 EntitySchema_for_this_class: E16
+equivalent_class:
+- "http://dbpedia.org/ontology/Software"
+- "http://purl.org/dc/dcmitype/Software"
+exact_match:
+- "http://purl.org/coar/resource_type/c_5ce6"
+- "https://citationstyles.org/ontology/type/software"
+has_characteristic:
+- '[[_Standards/WikiData/WD~source_code,128751]]'
+- '[[_Standards/WikiData/WD~software_architecture,846636]]'
+- '[[_Standards/WikiData/WD~software_testability,1307327]]'
+- '[[_Standards/WikiData/WD~software_quality,1412670]]'
+- '[[_Standards/WikiData/WD~software_feature,4485156]]'
+- '[[_Standards/WikiData/WD~software_category,17155032]]'
+has_id_wikidata: Q7397
+has_list: '[[_Standards/WikiData/WD~list_of_softwares,25344612]]'
+has_part_s_:
+- '[[_Standards/WikiData/WD~data,494756]]'
+- '[[_Standards/WikiData/WD~computer_program,40056]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_software,17155144]]'
+IAB_code: 602
+IEV_number: 171-01-21
+IHO_Hydrographic_Dictionary_S_32_Number: 4837
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kmail.png"
+instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+IPTC_NewsCode: mediatopic/20000231
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Software,15659621]]'
+MeSH_tree_code: L01.224.900
+model_item:
+- '[[_Standards/WikiData/WD~VLC_media_player,171477]]'
+- '[[_Standards/WikiData/WD~SQLite,319417]]'
+- '[[_Standards/WikiData/WD~GNOME_Shell,1343860]]'
+- '[[_Standards/WikiData/WD~Firefox,698]]'
+- '[[_Standards/WikiData/WD~Windows_XP,11248]]'
+Nomenclature_for_Museum_Cataloging: 10402
+OmegaWiki_Defined_Meaning: 3493
+opposite_of: '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+part_of: '[[_Standards/WikiData/WD~computer,68]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715472,12715472]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-logiciel%20libre.wav"
 properties_for_this_type:
 - "copyright license"
 - "programmed in"
@@ -72,34 +87,19 @@ properties_for_this_type:
 - image
 - "logo image"
 - developer
-Wikidata_property: "PRONOM software ID"
-opposite_of: "[[_Standards/WikiData/WD~computer_hardware,3966]]"
-part_of: '[[_Standards/WikiData/WD~computer,68]]'
-OmegaWiki_Defined_Meaning: 3493
-All_Science_Journal_Classification_Codes: 1712
-Nomenclature_for_Museum_Cataloging: 10402
-IAB_code: 602
-IHO_Hydrographic_Dictionary_S_32_Number: 4837
 social_media_followers: 183738
-Dewey_Decimal_Classification:
-- 005
-- 005.3
-Amazon_com_browse_node: 229534
+studied_in: '[[_Standards/WikiData/WD~software_engineering,80993]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~means,12774177]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~written_work,47461344]]'
 subreddit: software
-Commons_gallery: Software
-Commons_category: Software
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kmail.png"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-logiciel%20libre.wav"
-equivalent_class:
-- "http://dbpedia.org/ontology/Software"
-- "http://purl.org/dc/dcmitype/Software"
-exact_match:
-- "http://purl.org/coar/resource_type/c_5ce6"
-- "https://citationstyles.org/ontology/type/software"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_software,5621231]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software,15021033]]'
 Universal_Decimal_Classification: 004.42
-IEV_number: 171-01-21
-MeSH_tree_code: L01.224.900
-IPTC_NewsCode: mediatopic/20000231
+Wikidata_property: "PRONOM software ID"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_software,18922260]]'
 ---
 
 ## #has_/text_of_/abstract 

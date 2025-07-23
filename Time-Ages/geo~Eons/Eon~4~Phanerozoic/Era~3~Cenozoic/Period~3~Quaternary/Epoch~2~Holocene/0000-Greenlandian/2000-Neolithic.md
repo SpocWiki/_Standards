@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - New Stone Age
-  - Jungsteinzeit
+- "New Stone Age"
+- Jungsteinzeit
 ---
 
 # [[2000-Neolithic]] 

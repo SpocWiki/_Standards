@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_education_requirements
-
-linkTitle: has_education_requirements
-keywords: [education, requirements]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - education-requirements
 - education_requirements
 - educationRequirements
 - has_education_requirements
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- education
+- requirements
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_education_requirements
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_education_requirements
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

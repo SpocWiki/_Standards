@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_monetary_amount Class
-linkTitle: is_a_monetary_amount Class
-
-keywords: [monetary_amount]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: DatedMoneySpecification
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - monetary-amount
 - monetary_amount
 - MonetaryAmount
 - is_a_monetary_amount
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- monetary_amount
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_monetary_amount Class"
+publish: true
+publishDate: 
+supersedes: DatedMoneySpecification
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_monetary_amount Class"
+type: Type
 ---
 
 Class of all [[monetary_amount]]-Values.

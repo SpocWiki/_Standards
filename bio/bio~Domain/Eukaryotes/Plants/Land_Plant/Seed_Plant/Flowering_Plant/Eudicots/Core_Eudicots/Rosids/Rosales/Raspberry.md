@@ -1,10 +1,10 @@
----
+﻿---
 aliases:
-  - raspberries
-  - raspberry
-  - Himbeer
-  - Himbeere
-  - Himbeeren
+- raspberries
+- raspberry
+- Himbeer
+- Himbeere
+- Himbeeren
 ---
 
 # [[Raspberry]] 

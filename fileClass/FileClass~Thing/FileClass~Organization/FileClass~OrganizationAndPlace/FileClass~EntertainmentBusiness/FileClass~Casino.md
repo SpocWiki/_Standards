@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Casino
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino
-  - is_a_/Casino
-  - schema-org/Casino
-tags:
-  - class/FileClass
-  - class/Casino
-  - is_a_/Casino
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Casino
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino
+- is_a_/Casino
+- schema-org/Casino
+tags:
+- class/FileClass
+- class/Casino
+- is_a_/Casino
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino
+version: 2.0
 ---
 
 # Casino

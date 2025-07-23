@@ -1,56 +1,56 @@
----
-type: Element
-SpocWebEntityId: 21957
-has_id_wikidata: Q1809
-named_after: '[[_Standards/WikiData/WD~Prometheus,83160]]'
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Charles_D._Coryell,260328]]"
-- "[[_Standards/WikiData/WD~Jacob_Akiba_Marinsky,904506]]"
-- "[[_Standards/WikiData/WD~Lawrence_E._Glendenin,904562]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439]]"
-instance_of:
-- "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]"
-UMLS_CUI: C0033406
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Promethium-147%20solution.jpg"
-follows: '[[_Standards/WikiData/WD~neodymium,1388]]'
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
-oxidation_state:
-- 2
-- 3
+﻿---
 atomic_number: 61
+canonical_SMILES: '[Pm]'
+CAS_Registry_Number: 7440-12-2
+chemical_formula: Pm
+Commons_category: Promethium
+Commons_gallery: Promethium
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Charles_D._Coryell,260328]]'
+- '[[_Standards/WikiData/WD~Jacob_Akiba_Marinsky,904506]]'
+- '[[_Standards/WikiData/WD~Lawrence_E._Glendenin,904562]]'
+DSSTOX_compound_identifier: DTXCID9027738
+EC_number: 231-121-9
+electronegativity: 1.13
+element_symbol: Pm
+follows: '[[_Standards/WikiData/WD~neodymium,1388]]'
+Gmelin_number: 16237
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_id_wikidata: Q1809
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Promethium-147%20solution.jpg"
+InChI: InChI=1S/Pm
+InChIKey: VQMWBBYLQSCNPO-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.97
 - 1.09
-electronegativity: 1.13
-PubChem_CID: 23944
-OmegaWiki_Defined_Meaning: 343233
-Gmelin_number: 16237
-chemical_formula: Pm
-element_symbol: Pm
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-prom%C3%A9thium.wav"
-related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Promethium%20spectrum%20visible.png"
-canonical_SMILES: '[Pm]'
-EC_number: 231-121-9
-CAS_Registry_Number: 7440-12-2
+location_of_discovery: '[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]'
 MeSH_tree_code:
 - D01.268.271.720
 - D01.268.558.362.875
 - D01.496.749.305.720
 - D01.552.550.399.875
-DSSTOX_compound_identifier: DTXCID9027738
-InChI: InChI=1S/Pm
-Commons_gallery: Promethium
-Commons_category: Promethium
-InChIKey: VQMWBBYLQSCNPO-UHFFFAOYSA-N
-UNII: ZGV62C09KN
+named_after: '[[_Standards/WikiData/WD~Prometheus,83160]]'
+OmegaWiki_Defined_Meaning: 343233
+oxidation_state:
+- 2
+- 3
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-prom%C3%A9thium.wav"
+PubChem_CID: 23944
+related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Promethium%20spectrum%20visible.png"
+SpocWebEntityId: 21957
+time_of_discovery_or_invention: 1945
+type: Element
+UMLS_CUI: C0033406
 Unicode_character: 鉕
-time_of_discovery_or_invention: "1945"
+UNII: ZGV62C09KN
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 

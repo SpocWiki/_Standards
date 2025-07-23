@@ -1,41 +1,41 @@
 ---
-location:
-    - -9.5
-    - 147.117
-type: Country
-tags:
-    - geo/Country
-has_id_wikidata: Q691 
-SpocWebEntityId: 26993
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
-publish: true
-title: Papua New Guinea
-linkTitle: null
-keywords: null
-layout: null
-draft: false
-publishDate: null
-expiryDate: null
 aliases:
-    - Papua New Guinea
-    - Papua Nueva Guinea
-    - Papouasie-Nouvelle-Guinée
-    - بابوا غينيا الجديدة
-    - 巴布亚新几内亚
-    - Папуа-Новая Гвинея
-    - Independent State of Papua New Guinea
-    - Estado Independiente de Papua Nueva Guinea
-Languages:
-    - en-PG
-    - ho
-    - meu
-    - tpi
+- "Papua New Guinea"
+- "Papua Nueva Guinea"
+- Papouasie-Nouvelle-Guinée
+- "بابوا غينيا الجديدة"
+- 巴布亚新几内亚
+- "Папуа-Новая Гвинея"
+- "Independent State of Papua New Guinea"
+- "Estado Independiente de Papua Nueva Guinea"
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+has_id_wikidata: Q691
 icon: flag-pg
+isDeleted: false
+isReadOnly: false
+keywords: 
+Languages:
+- en-PG
+- ho
+- meu
+- tpi
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -9.5
+- 147.117
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26993
+tags:
+- geo/Country
+title: "Papua New Guinea"
+type: Country
 ---
 
 # [[Papua-New_Guinea]] 

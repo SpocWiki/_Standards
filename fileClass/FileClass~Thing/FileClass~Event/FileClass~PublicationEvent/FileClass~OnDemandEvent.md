@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OnDemandEvent
-  - class/Thing/Event/PublicationEvent/OnDemandEvent
-  - is_an_/OnDemandEvent
-  - schema-org/OnDemandEvent
-tags:
-  - class/FileClass
-  - class/OnDemandEvent
-  - "#is_an_/OnDemandEvent"
-  - class/Thing/Event/PublicationEvent/OnDemandEvent
 extends: FileClass~Thing/FileClass~Event/FileClass~PublicationEvent
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OnDemandEvent
+- class/Thing/Event/PublicationEvent/OnDemandEvent
+- is_an_/OnDemandEvent
+- schema-org/OnDemandEvent
+tags:
+- class/FileClass
+- class/OnDemandEvent
+- '#is_an_/OnDemandEvent'
+- class/Thing/Event/PublicationEvent/OnDemandEvent
+version: 2.0
 ---
 
 # OnDemandEvent

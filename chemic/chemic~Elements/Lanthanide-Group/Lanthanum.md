@@ -1,7 +1,41 @@
----
-type: Element
-SpocWebEntityId: 21953
+﻿---
+atomic_number: 57
+canonical_SMILES: '[La]'
+CAS_Registry_Number: 7439-91-0
+chemical_formula: La
+Commons_category: Lanthanum
+Commons_gallery: Lanthanum
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~La,37276728]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
+DSSTOX_compound_identifier: DTXCID8047638
+EC_number: 231-099-0
+electronegativity: 1.1
+electron_configuration:
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s² 6d¹"
+- "[Xe] 6s² 6d¹"
+element_symbol: La
+followed_by: '[[_Standards/WikiData/WD~cerium,1385]]'
+Gmelin_number: 16203
 has_id_wikidata: Q1801
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lanthan%201-cropflipped.jpg"
+InChI: InChI=1S/La
+InChIKey: FZLIPJUXYLNCLC-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+ionic_radius:
+- 1.03
+- 1.16
+- 1.27
+- 1.36
+location_of_discovery: '[[_Standards/WikiData/WD~Karolinska_Institutet,219564]]'
 made_from_material:
 - '[[_Standards/WikiData/WD~gysinite-(La),112961300]]'
 - '[[_Standards/WikiData/WD~dissakisite-(La),973640]]'
@@ -54,58 +88,24 @@ made_from_material:
 - '[[_Standards/WikiData/WD~haitaite-(La),106623107]]'
 - '[[_Standards/WikiData/WD~graulichite-(La),106623144]]'
 - '[[_Standards/WikiData/WD~calcioancylite-(La),111110012]]'
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Lanthanum%20element%20produced%20by%20Chemcraft.webm"
-electron_configuration:
-- "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s² 6d¹"
-- "[Xe] 6s² 6d¹"
-time_of_discovery_or_invention: "1839"
-followed_by: '[[_Standards/WikiData/WD~cerium,1385]]'
-instance_of:
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-- "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-electronegativity: 1.1
-atomic_number: 57
-ionic_radius:
-- 1.03
-- 1.16
-- 1.27
-- 1.36
-PubChem_CID: 23926
-ZVG_number: 7570
-Gmelin_number: 16203
-chemical_formula: La
-element_symbol: La
-OmegaWiki_Defined_Meaning: 160966
-Commons_gallery: Lanthanum
-Commons_category: Lanthanum
 mass: 138.90547
-part_of:
-- "[[_Standards/WikiData/WD~group_3,108307]]"
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-location_of_discovery: "[[_Standards/WikiData/WD~Karolinska_Institutet,219564]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lanthan%201-cropflipped.jpg"
-canonical_SMILES: '[La]'
-EC_number: 231-099-0
-UNII: 6I3K30563S
-CAS_Registry_Number: 7439-91-0
-UMLS_CUI: C0023031
 MeSH_tree_code:
 - D01.268.558.362.500
 - D01.552.550.399.500
-DSSTOX_compound_identifier: DTXCID8047638
-InChIKey: FZLIPJUXYLNCLC-UHFFFAOYSA-N
-InChI: InChI=1S/La
-Unicode_character: 鑭
 named_after: '[[_Standards/WikiData/WD~hiding,30301727]]'
-different_from: '[[_Standards/WikiData/WD~La,37276728]]'
+OmegaWiki_Defined_Meaning: 160966
+part_of:
+- '[[_Standards/WikiData/WD~group_3,108307]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+PubChem_CID: 23926
+SpocWebEntityId: 21953
+time_of_discovery_or_invention: 1839
+type: Element
+UMLS_CUI: C0023031
+Unicode_character: 鑭
+UNII: 6I3K30563S
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Lanthanum%20element%20produced%20by%20Chemcraft.webm"
+ZVG_number: 7570
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Lanthanum,1801]] 

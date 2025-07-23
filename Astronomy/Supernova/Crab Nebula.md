@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Crab Nebula
-  - NGC 1952
-  - Taurus A
-  - M1
+- "Crab Nebula"
+- "NGC 1952"
+- "Taurus A"
+- M1
 ---
 
 # [[Crab Nebula]] 

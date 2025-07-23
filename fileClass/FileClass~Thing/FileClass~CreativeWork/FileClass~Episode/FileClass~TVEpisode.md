@@ -1,32 +1,32 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TVEpisode
-  - class/Thing/CreativeWork/Episode/TVEpisode
-  - is_a_/TVEpisode
-  - schema-org/TVEpisode
-tags:
-  - class/FileClass
-  - class/TVEpisode
-  - is_a_/TVEpisode
-  - class/Thing/CreativeWork/Episode/TVEpisode
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 fields:
-  - id: MQmVz4
-    name: SubtitleLanguage
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
-    type: MultiFile
-    path: ""
-  - id: In0BGE
-    name: TitleEIDR
-    options: {}
-    type: Input
-    path: ""
+- id: MQmVz4
+  name: SubtitleLanguage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
+  type: MultiFile
+  path: ''
+- id: In0BGE
+  name: TitleEIDR
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TVEpisode
+- class/Thing/CreativeWork/Episode/TVEpisode
+- is_a_/TVEpisode
+- schema-org/TVEpisode
+tags:
+- class/FileClass
+- class/TVEpisode
+- is_a_/TVEpisode
+- class/Thing/CreativeWork/Episode/TVEpisode
+version: 2.0
 ---
 
 # TVEpisode

@@ -1,33 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_verification_fact_checking_policy
-
-linkTitle: has_verification_fact_checking_policy
-keywords: [verification, fact, checking, policy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - verification-fact-checking-policy
 - verification_fact_checking_policy
 - verificationFactCheckingPolicy
 - has_verification_fact_checking_policy
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- verification
+- fact
+- checking
+- policy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_verification_fact_checking_policy
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_verification_fact_checking_policy
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

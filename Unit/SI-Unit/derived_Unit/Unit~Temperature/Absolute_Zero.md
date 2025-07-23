@@ -1,17 +1,17 @@
----
+﻿---
+Commons_category: "Absolute zero temperature"
+Dewey_Decimal_Classification: 536.5
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Guillaume_Amontons,368121]]'
 has_id_wikidata: Q81182
-instance_of: "[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Guillaume_Amontons,368121]]"
-opposite_of: "[[_Standards/WikiData/WD~absolute_hot,3311268]]"
+Iconclass_notation: 22E22
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ermittlung%20des%20absoluten%20Nullpunktes%20mit%20dem%20Gesetz%20von%20Gay-Lussac.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20thermometer%20and%20absolute%20zero%20fr.jpg
-temperature: 0
-numeric_value: 0
-Iconclass_notation: "22E22"
-Dewey_Decimal_Classification: "536.5"
-Commons_category: Absolute zero temperature
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Ermittlung%20des%20absoluten%20Nullpunktes%20mit%20dem%20Gesetz%20von%20Gay-Lussac.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20thermometer%20and%20absolute%20zero%20fr.jpg"
+instance_of: '[[_Standards/WikiData/WD~thermodynamic_temperature,264647]]'
 Krugosvet_article: nauka_i_tehnika/fizika/ABSOLYUTNI_NUL.html
+numeric_value: 0
+opposite_of: '[[_Standards/WikiData/WD~absolute_hot,3311268]]'
+temperature: 0
 ---
 
 # [[Absolute_Zero]] 

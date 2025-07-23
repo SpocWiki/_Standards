@@ -1,104 +1,103 @@
----
+﻿---
 aliases:
-  - Reptile
-  - Reptilia
+- Reptile
+- Reptilia
+Archive_of_Our_Own_tag:
+- REPTILES
+- Reptilian
+- reptilians
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+Colon_Classification: K94
+Commons_category: Reptilia
+Commons_gallery: Reptilia
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Gady,_Warmian-Masurian_Voivodeship,5516481]]'
+EPPO_Code: 1REPTC
+GS1_GPC_code: 10005466
 has_id_wikidata: Q10811
-U.S. National Archives Identifier: "10644305"
-EPPO Code: 1REPTC
-MeSH tree code: B01.050.150.900.833
-Krugosvet article: nauka_i_tehnika/biologiya/PRESMIKAYUSHCHIESYA.html
-subreddit: reptiles
-Archive of Our Own tag:
-  - REPTILES
-  - Reptilian
-  - reptilians
-OpenStreetMap tag or key: Tag:zoo=reptile
-taxon common name:
-  - Sürünənlər
-  - Һөйрәлеүселәр
-  - Kriachviecher
-  - Reptilien
-  - সরীসৃপ
-  - Rèptils
-  - plazi
-  - Krybdyr
-  - Reptilien
-  - Ερπετά
-  - Reptiles
-  - Matelijat
-  - Reptiles
-  - Krepdiarten
-  - Réptiles
-  - Ἑρπετόν
-  - Mo‘ohana
-  - זוחלים
-  - hüllők
-  - Սողուններ
-  - Skriðdýr
-  - Rettili
-  - ქვეწარმავლები
-  - 파충강
-  - Ropliai
-  - Krypdyr
-  - Reptielen
-  - Gady
-  - Reptile
-  - Рептилии
-  - Rreptilët
-  - Zvarranikët
-  - Kräldjur
-  - สัตว์เลื้อยคลาน
-  - Sürüngenler
-  - Плазуни
-  - Động vật bò sát
-  - 爬蟲類
-  - plazilci
-  - တွားသွားသတ္တဝါ
-  - Reptiles
-  - 爬虫綱
-  - Réptil
-  - Пресмыкающиеся
-  - Plazy
-this taxon is source of:
-  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
-  - "[[_Standards/WikiData/WD~reptile_meat,51873806]]"
-studied in:
-  - "[[_Standards/WikiData/WD~herpetology,174416]]"
-  - "[[_Standards/WikiData/WD~reptiliology,9307400]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-different from: "[[_Standards/WikiData/WD~Gady,_Warmian-Masurian_Voivodeship,5516481]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Reptiles,11164852]]"
-UMLS CUI: C0035161
-IPA transcription: ɹɛpˈtɪli.ə
-start time: -318000000-01-01
-code of nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon rank: "[[_Standards/WikiData/WD~class,37517]]"
-OmegaWiki Defined Meaning: "3190"
-IAB code: "429"
-ITIS TSN: "173747"
-Colon Classification: K94
-Commons gallery: Reptilia
-Commons category: Reptilia
-taxon name: Reptilia
-montage image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clade%20Reptilia.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
+IAB_code: 429
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Smaug%20giganteus%20head.jpg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%88%D8%A7%D8%AD%D9%81.wav
-MCN code: 0106.20.00
-GS1 GPC code: "10005466"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Smaug%20giganteus%20head.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+IPA_transcription: ɹɛpˈtɪli.ə
+ITIS_TSN: 173747
+Krugosvet_article: nauka_i_tehnika/biologiya/PRESMIKAYUSHCHIESYA.html
+MCN_code: 0106.20.00
+MeSH_tree_code: B01.050.150.900.833
+montage_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Clade%20Reptilia.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg"
+OmegaWiki_Defined_Meaning: 3190
+OpenStreetMap_tag_or_key: "Tag:zoo=reptile"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%88%D8%A7%D8%AD%D9%81.wav"
+start_time: -318000000-01-01
+studied_in:
+- '[[_Standards/WikiData/WD~herpetology,174416]]'
+- '[[_Standards/WikiData/WD~reptiliology,9307400]]'
+subreddit: reptiles
+taxon_common_name:
+- Sürünənlər
+- Һөйрәлеүселәр
+- Kriachviecher
+- Reptilien
+- সরীসৃপ
+- Rèptils
+- plazi
+- Krybdyr
+- Reptilien
+- Ερπετά
+- Reptiles
+- Matelijat
+- Reptiles
+- Krepdiarten
+- Réptiles
+- Ἑρπετόν
+- Mo‘ohana
+- זוחלים
+- hüllők
+- Սողուններ
+- Skriðdýr
+- Rettili
+- ქვეწარმავლები
+- 파충강
+- Ropliai
+- Krypdyr
+- Reptielen
+- Gady
+- Reptile
+- Рептилии
+- Rreptilët
+- Zvarranikët
+- Kräldjur
+- สัตว์เลื้อยคลาน
+- Sürüngenler
+- Плазуни
+- "Động vật bò sát"
+- 爬蟲類
+- plazilci
+- တွားသွားသတ္တဝါ
+- Reptiles
+- 爬虫綱
+- Réptil
+- Пресмыкающиеся
+- Plazy
+taxon_name: Reptilia
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+- '[[_Standards/WikiData/WD~reptile_meat,51873806]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Reptiles,11164852]]'
+UMLS_CUI: C0035161
+U_S_National_Archives_Identifier: 10644305
 ---
-
 
 ## #has_/text_of_/abstract 
 

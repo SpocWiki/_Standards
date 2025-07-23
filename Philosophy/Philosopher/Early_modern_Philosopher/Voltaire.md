@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - François-Marie Arouet
+- "François-Marie Arouet"
 ---
-
 
 ## #has_/text_of_/abstract 
 

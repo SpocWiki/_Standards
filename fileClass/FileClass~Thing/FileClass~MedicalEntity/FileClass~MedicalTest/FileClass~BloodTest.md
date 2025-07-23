@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BloodTest
-  - class/Thing/MedicalEntity/MedicalTest/BloodTest
-  - is_a_/BloodTest
-  - schema-org/BloodTest
-tags:
-  - class/FileClass
-  - class/BloodTest
-  - is_a_/BloodTest
-  - class/Thing/MedicalEntity/MedicalTest/BloodTest
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BloodTest
+- class/Thing/MedicalEntity/MedicalTest/BloodTest
+- is_a_/BloodTest
+- schema-org/BloodTest
+tags:
+- class/FileClass
+- class/BloodTest
+- is_a_/BloodTest
+- class/Thing/MedicalEntity/MedicalTest/BloodTest
+version: 2.0
 ---
 
 # BloodTest

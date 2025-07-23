@@ -1,5 +1,5 @@
----
-title: Acanthostega gunnari
+﻿---
+title: "Acanthostega gunnari"
 ---
 
 ## [[Acanthostega]]

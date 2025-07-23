@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_code_for_discount
-linkTitle: has_code_for_discount
-
-keywords: [discount, code]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - discount-code
 - code_for_discount
 - discountCode
 - has_code_for_discount
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- discount
+- code
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_code_for_discount
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_code_for_discount
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Order.

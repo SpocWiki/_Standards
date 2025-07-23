@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_exchange-rate-spread
-linkTitle: has_exchange-rate-spread
-
-keywords: [exchange-rate-spread]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - exchange_rate_spread
 - exchange-rate-spread
 - exchangeRateSpread
 - has_value_for_exchange_rate_spread
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- exchange-rate-spread
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_exchange-rate-spread
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_exchange-rate-spread
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of ExchangeRateSpecification.

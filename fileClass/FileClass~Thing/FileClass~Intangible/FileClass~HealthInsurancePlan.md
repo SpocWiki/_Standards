@@ -1,69 +1,69 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HealthInsurancePlan
-  - class/Thing/Intangible/HealthInsurancePlan
-  - is_a_/HealthInsurancePlan
-  - schema-org/HealthInsurancePlan
-tags:
-  - class/FileClass
-  - class/HealthInsurancePlan
-  - is_a_/HealthInsurancePlan
-  - class/Thing/Intangible/HealthInsurancePlan
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: rk0EaS
-    name: BenefitsSummaryUrl
-    options: {}
-    type: Input
-    path: ""
-  - id: 7LQ4zP
-    name: ContactPoint
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
-    type: MultiFile
-    path: ""
-  - id: k1l2hv
-    name: HealthPlanDrugOption
-    options: {}
-    type: Input
-    path: ""
-  - id: du3CG6
-    name: HealthPlanDrugTier
-    options: {}
-    type: Input
-    path: ""
-  - id: 1fGzzT
-    name: HealthPlanId
-    options: {}
-    type: Input
-    path: ""
-  - id: bSonSx
-    name: HealthPlanMarketingUrl
-    options: {}
-    type: Input
-    path: ""
-  - id: FnYOqL
-    name: IncludesHealthPlanFormulary
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/HealthPlanFormulary')
-    type: MultiFile
-    path: ""
-  - id: pJK8FO
-    name: IncludesHealthPlanNetwork
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/HealthPlanNetwork')
-    type: MultiFile
-    path: ""
-  - id: LPY6n3
-    name: UsesHealthPlanIdStandard
-    options: {}
-    type: Input
-    path: ""
+- id: rk0EaS
+  name: BenefitsSummaryUrl
+  options: {}
+  type: Input
+  path: ''
+- id: 7LQ4zP
+  name: ContactPoint
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"
+  type: MultiFile
+  path: ''
+- id: k1l2hv
+  name: HealthPlanDrugOption
+  options: {}
+  type: Input
+  path: ''
+- id: du3CG6
+  name: HealthPlanDrugTier
+  options: {}
+  type: Input
+  path: ''
+- id: 1fGzzT
+  name: HealthPlanId
+  options: {}
+  type: Input
+  path: ''
+- id: bSonSx
+  name: HealthPlanMarketingUrl
+  options: {}
+  type: Input
+  path: ''
+- id: FnYOqL
+  name: IncludesHealthPlanFormulary
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/HealthPlanFormulary')"
+  type: MultiFile
+  path: ''
+- id: pJK8FO
+  name: IncludesHealthPlanNetwork
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/HealthPlanNetwork')"
+  type: MultiFile
+  path: ''
+- id: LPY6n3
+  name: UsesHealthPlanIdStandard
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HealthInsurancePlan
+- class/Thing/Intangible/HealthInsurancePlan
+- is_a_/HealthInsurancePlan
+- schema-org/HealthInsurancePlan
+tags:
+- class/FileClass
+- class/HealthInsurancePlan
+- is_a_/HealthInsurancePlan
+- class/Thing/Intangible/HealthInsurancePlan
+version: 2.0
 ---
 
 # HealthInsurancePlan

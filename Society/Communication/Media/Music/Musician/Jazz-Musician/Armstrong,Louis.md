@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Louis Armstrong
-  - Louis Daniel Armstrong
-  - Satchmo
+- "Louis Armstrong"
+- "Louis Daniel Armstrong"
+- Satchmo
 ---
 
 #has_/time_/started ::  1901-08-04 

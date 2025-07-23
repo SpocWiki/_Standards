@@ -1,9 +1,10 @@
----
-title: Craniata
+﻿---
 aliases:
-  - Craniate
-  - Craniata
+- Craniate
+- Craniata
+title: Craniata
 ---
+
 # [[Craniata]] 
 
 #is_/instance_of :: [[Clade]] 

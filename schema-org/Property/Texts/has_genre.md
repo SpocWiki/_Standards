@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- genre
+- genre
+- genre
+- has_text_of_genre
+- "schema:genre"
+- "dbo:genre"
+- "wdt:P136"
 confidential: public
+cssclasses:
+- Predicate
+- Text
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Text
-publish: true
-type: Pred_Text
-title: has_text_of_genre
-linkTitle: has_text_of_genre
 keywords:
-  - genre
+- genre
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_genre
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Text
-aliases:
-  - genre
-  - genre
-  - genre
-  - has_text_of_genre
-  - schema:genre
-  - dbo:genre
-  - wdt:P136
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_genre
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.

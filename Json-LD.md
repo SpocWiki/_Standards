@@ -1,42 +1,29 @@
----
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
-
-# Obsidian well-known Keys
-cssclasses: private note
-publish: false
-
-# Hugo Tags
-# type: #Tags falls back to the Directory in Hugo
-type: private note
-title: Json-LD
-
-linkTitle: Json-LD
-keywords: [Json-LD]
-layout: 
-draft: true
-publishDate:
-expiryDate: 
-
-tags:
-- Json-LD
-- rather use #Tags (see below); remove the `#` if used here!
-
+﻿---
 aliases:
 - Json-LD
 - 
-
-# Thing-Facts
+confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
 has_time_started: 2023-10-26
-
-# any other Data:
+isDeleted: false
+isReadOnly: false
 Key: Value
-Predicate: #Object
-Predicate: "[[Object]]"
-
+keywords:
+- Json-LD
 lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: Json-LD
+Predicate: '[[Object]]'
+publish: false
+publishDate: 
+tags:
+- Json-LD
+- "rather use"
+title: Json-LD
+type: "private note"
 ---
 
 # [[JSON-LD]]

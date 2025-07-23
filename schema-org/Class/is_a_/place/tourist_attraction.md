@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_tourist_attraction Class
-linkTitle: is_a_tourist_attraction Class
-
-keywords: [tourist_attraction]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - tourist-attraction
 - tourist_attraction
 - TouristAttraction
 - is_a_tourist_attraction
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- tourist_attraction
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_tourist_attraction Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_tourist_attraction Class"
+type: Type
 ---
 
 Class of all tourist_attractions.

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_employer_aggregate_rating Class
-linkTitle: is_an_employer_aggregate_rating Class
-
-keywords: [employer_aggregate_rating]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - employer-aggregate-rating
 - employer_aggregate_rating
 - EmployerAggregateRating
 - is_an_employer_aggregate_rating
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- employer_aggregate_rating
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_employer_aggregate_rating Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_employer_aggregate_rating Class"
+type: Type
 ---
 
 Class of all employer_aggregate_ratings.

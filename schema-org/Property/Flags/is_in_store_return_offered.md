@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_in_store_return_offered
-linkTitle: is_in_store_return_offered
-
-keywords: [in_store_return_offered]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - in-store-returns-offered
 - in_store_return_offered
 - inStoreReturnsOffered
 - is_in_store_return_offered
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- in_store_return_offered
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_in_store_return_offered
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_in_store_return_offered
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_supply
-
-linkTitle: has_supply
-keywords: [supply]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - supply
 - supply
 - supply
 - has_supply
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- supply
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_supply
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_supply
+type: Predi_Relation
 ---
 
 Use it like this: 

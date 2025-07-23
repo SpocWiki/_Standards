@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_business_days
-
-linkTitle: has_business_days
-keywords: [business, days]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - business-days
 - business_days
 - businessDays
 - has_business_days
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- business
+- days
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_business_days
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_business_days
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

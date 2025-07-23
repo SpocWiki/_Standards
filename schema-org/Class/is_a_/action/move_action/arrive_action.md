@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_arrive_action Class
-linkTitle: is_an_arrive_action Class
-
-keywords: [arrive_action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - arrive-action
 - arrive_action
 - ArriveAction
 - is_an_arrive_action
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- arrive_action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_arrive_action Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_arrive_action Class"
+type: Type
 ---
 
 Class of all arrive_actions.

@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/OccupationalExperienceRequirements
-  - class/Thing/Intangible/OccupationalExperienceRequirements
-  - is_an_/OccupationalExperienceRequirements
-  - schema-org/OccupationalExperienceRequirements
-tags:
-  - class/FileClass
-  - class/OccupationalExperienceRequirements
-  - "#is_an_/OccupationalExperienceRequirements"
-  - class/Thing/Intangible/OccupationalExperienceRequirements
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: ZMqGeO
-    name: MonthsOfExperience
-    options: {}
-    type: Number
-    path: ""
+- id: ZMqGeO
+  name: MonthsOfExperience
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/OccupationalExperienceRequirements
+- class/Thing/Intangible/OccupationalExperienceRequirements
+- is_an_/OccupationalExperienceRequirements
+- schema-org/OccupationalExperienceRequirements
+tags:
+- class/FileClass
+- class/OccupationalExperienceRequirements
+- '#is_an_/OccupationalExperienceRequirements'
+- class/Thing/Intangible/OccupationalExperienceRequirements
+version: 2.0
 ---
 
 # OccupationalExperienceRequirements

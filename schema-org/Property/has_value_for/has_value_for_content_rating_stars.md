@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_content-rating
-linkTitle: has_content-rating
-
-keywords: [content-rating]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - content_rating
 - content-rating
 - contentRating
 - has_value_for_content_rating_stars
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- content-rating
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_content-rating
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_content-rating
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of CreativeWork.

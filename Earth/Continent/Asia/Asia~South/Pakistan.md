@@ -462,11 +462,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Pakistan
-    - Pakistán
-    - باكستان
-    - 巴基斯坦
-    - Пакистан
+- Pakistan
+- Pakistán
+- باكستان
+- 巴基斯坦
+- Пакистан
 - "the Islamic Republic of Pakistan"
 - "la República Islámica del Pakistán"
 - "Pakistán (el)"

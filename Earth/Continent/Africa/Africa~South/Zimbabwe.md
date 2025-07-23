@@ -281,8 +281,8 @@ WIPO_ST_3: ZW
 licence_plate_code: ZW
 ISO_3166_1_alpha_2_code: ZW
 official_name:
-  - Zimbabwe
-  - Zimbabwe
+- Zimbabwe
+- Zimbabwe
 - "République du Zimbabwe"
 population: 15178979
 IOC_country_code: ZIM

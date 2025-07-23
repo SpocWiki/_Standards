@@ -231,9 +231,9 @@ subreddit: GuineaRepublic
 Commons_gallery: Guinée
 Krugosvet_article: strany_mira/GVINEYA.html
 official_name:
-  - Guinée
+- Guinée
 - "République de Guinée"
-  - ߖߌ߬ߣߍ߫
+- ߖߌ߬ߣߍ߫
 - "ߖߌ߬ߣߍ߬ ߞߊ߲ߓߍ߲"
 native_label: "République de Guinée"
 name_in_native_language: "République de Guinée"

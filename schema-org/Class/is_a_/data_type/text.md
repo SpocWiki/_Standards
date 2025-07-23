@@ -1,30 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- text
+- text
+- Text
+- is_a_text
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_text Class
-linkTitle: is_a_text Class
 keywords:
-  - text
+- text
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_text Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - text
-  - text
-  - Text
-  - is_a_text
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_text Class"
+type: Type
 ---
+
 # [[text]] 
 
 Class of all texts.

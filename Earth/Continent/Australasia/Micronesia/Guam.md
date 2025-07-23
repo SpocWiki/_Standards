@@ -108,7 +108,7 @@ demonym:
   - guamane
   - guamani
   - guamano
-- "Tåotåo Guåhån"
+  - "Tåotåo Guåhån"
   - Guamanians
   - guamanian
   - guamês
@@ -121,7 +121,7 @@ OmegaWiki_Defined_Meaning: 628569
 INSEE_countries_and_foreign_territories_code: 99505
 PM20_geo_code: D6
 short_name:
-  - GU
+- GU
 - "\U0001F1EC\U0001F1FA"
 coordinates_of_westernmost_point: "Point(144.618194444 13.447555555)"
 U_S_National_Archives_Identifier: 10044448

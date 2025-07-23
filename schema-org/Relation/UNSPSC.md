@@ -1,14 +1,14 @@
----
-_context: "https://schema.org/"
-_type: Thing
-name: "Schema.org Ontology"
-has_time_created: 
-has_time_destroyed: 
+﻿---
 has_location_created: 
 has_location_destroyed: 
+has_time_created: 
+has_time_destroyed: 
+name: "Schema.org Ontology"
 subjectOf:
   \@type: Book
   name: "The Complete History of Schema.org"
+_context: "https://schema.org/"
+_type: Thing
 ---
 
 The **United Nations Standard Products and Services Code® (UNSPSC®)**, managed by GS1 US® for the UN Development Programme (UNDP), is an open, global, multi-sector standard for efficient, accurate classification of products and services.

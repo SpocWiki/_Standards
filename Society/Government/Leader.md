@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Politician
+- Politician
 ---
 
 # [[Leader]] 

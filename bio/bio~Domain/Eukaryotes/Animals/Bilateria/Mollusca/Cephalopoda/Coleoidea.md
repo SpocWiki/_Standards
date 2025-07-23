@@ -1,8 +1,8 @@
----
-title: Coleoidea
+﻿---
 aliases:
-  - Dibranchiata
-  - Coleoidea
+- Dibranchiata
+- Coleoidea
+title: Coleoidea
 ---
 
 ## Phylogeny 

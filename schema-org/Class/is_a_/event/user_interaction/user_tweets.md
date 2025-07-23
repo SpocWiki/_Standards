@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_tweets Class
-linkTitle: is_a_user_tweets Class
-
-keywords: [user_tweets]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-tweets
 - user_tweets
 - UserTweets
 - is_a_user_tweets
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_tweets
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_tweets Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_tweets Class"
+type: Type
 ---
 
 Class of all user_tweets-Counts.

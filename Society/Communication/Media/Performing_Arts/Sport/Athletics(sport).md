@@ -1,61 +1,61 @@
----
-has_id_wikidata: Q542
+﻿---
+authority: '[[_Standards/WikiData/WD~World_Athletics,1158]]'
+Baidu_Tieba_name: 田径
+Basisklassifikation: 76.15
+BHCL_UUID: e4d99bf3-d0d7-4c89-84eb-0487150b46f0
 Colon_Classification: MY2
-OpenStreetMap_tag_or_key: "Tag:sport=athletics"
-has_part_s_:
-- '[[_Standards/WikiData/WD~racewalking,202391]]'
-- "[[_Standards/WikiData/WD~long-distance_running,917206]]"
-- '[[_Standards/WikiData/WD~jumping,1151752]]'
-- '[[_Standards/WikiData/WD~throwing,3216963]]'
-- "[[_Standards/WikiData/WD~track_and_field,3312129]]"
-- "[[_Standards/WikiData/WD~combined_track_and_field_events,3924425]]"
-- "[[_Standards/WikiData/WD~indoor_athletics,10235779]]"
-- "[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]"
-- "[[_Standards/WikiData/WD~field_sport,52177345]]"
-record_or_record_progression:
-- "[[_Standards/WikiData/WD~list_of_world_records_in_athletics,208410]]"
-- "[[_Standards/WikiData/WD~list_of_world_junior_records_in_athletics,592883]]"
-- "[[_Standards/WikiData/WD~list_of_South_American_records_in_athletics,965765]]"
-- "[[_Standards/WikiData/WD~list_of_Olympic_records_in_athletics,1043261]]"
-- "[[_Standards/WikiData/WD~list_of_European_records_in_athletics,1445200]]"
-- "[[_Standards/WikiData/WD~list_of_African_records_in_athletics,2115084]]"
-- "[[_Standards/WikiData/WD~list_of_Asian_records_in_athletics,2271743]]"
-- "[[_Standards/WikiData/WD~list_of_North_American_records_in_athletics,3643775]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-- '[[_Standards/WikiData/WD~athletics,11047409]]'
+Commons_category: Athletics
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+Dewey_Decimal_Classification:
+- 796.4
+- 796.42
 different_from:
 - '[[_Standards/WikiData/WD~Atletika,347884]]'
-- "[[_Standards/WikiData/WD~track_and_field,3312129]]"
+- '[[_Standards/WikiData/WD~track_and_field,3312129]]'
 - '[[_Standards/WikiData/WD~Athletics,3628059]]'
 - '[[_Standards/WikiData/WD~Atletiko,12961784]]'
 - '[[_Standards/WikiData/WD~Athletau,123023706]]'
 - '[[_Standards/WikiData/WD~Atletiks,123023867]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-uses: "[[_Standards/WikiData/WD~athletics_track,1004435]]"
-practiced_by:
-- "[[_Standards/WikiData/WD~track_and_field_official,7831495]]"
-- "[[_Standards/WikiData/WD~athletics_competitor,11513337]]"
-- "[[_Standards/WikiData/WD~track_and_field_coach,19827985]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Athletics,8289031]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_athletics_race,11171523]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Athletics,15079710]]"
-BHCL_UUID: e4d99bf3-d0d7-4c89-84eb-0487150b46f0
-authority: "[[_Standards/WikiData/WD~World_Athletics,1158]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+has_id_wikidata: Q542
+has_part_s_:
+- '[[_Standards/WikiData/WD~racewalking,202391]]'
+- '[[_Standards/WikiData/WD~long-distance_running,917206]]'
+- '[[_Standards/WikiData/WD~jumping,1151752]]'
+- '[[_Standards/WikiData/WD~throwing,3216963]]'
+- '[[_Standards/WikiData/WD~track_and_field,3312129]]'
+- '[[_Standards/WikiData/WD~combined_track_and_field_events,3924425]]'
+- '[[_Standards/WikiData/WD~indoor_athletics,10235779]]'
+- '[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]'
+- '[[_Standards/WikiData/WD~field_sport,52177345]]'
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.svg"
-OmegaWiki_Defined_Meaning: 711492
-Commons_category: Athletics
-Baidu_Tieba_name: 田径
-Basisklassifikation: 76.15
-Dewey_Decimal_Classification:
-- 796.4
-- 796.42
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Naisten%20400%20m%20aidat.jpg"
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Athletics,15079710]]'
+OmegaWiki_Defined_Meaning: 711492
+OpenStreetMap_tag_or_key: "Tag:sport=athletics"
+practiced_by:
+- '[[_Standards/WikiData/WD~track_and_field_official,7831495]]'
+- '[[_Standards/WikiData/WD~athletics_competitor,11513337]]'
+- '[[_Standards/WikiData/WD~track_and_field_coach,19827985]]'
+record_or_record_progression:
+- '[[_Standards/WikiData/WD~list_of_world_records_in_athletics,208410]]'
+- '[[_Standards/WikiData/WD~list_of_world_junior_records_in_athletics,592883]]'
+- '[[_Standards/WikiData/WD~list_of_South_American_records_in_athletics,965765]]'
+- '[[_Standards/WikiData/WD~list_of_Olympic_records_in_athletics,1043261]]'
+- '[[_Standards/WikiData/WD~list_of_European_records_in_athletics,1445200]]'
+- '[[_Standards/WikiData/WD~list_of_African_records_in_athletics,2115084]]'
+- '[[_Standards/WikiData/WD~list_of_Asian_records_in_athletics,2271743]]'
+- '[[_Standards/WikiData/WD~list_of_North_American_records_in_athletics,3643775]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~athletics,11047409]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_athletics_race,11171523]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Athletics,8289031]]'
+uses: '[[_Standards/WikiData/WD~athletics_track,1004435]]'
 U_S_National_Archives_Identifier: 10637707
 ---
 

@@ -1,11 +1,11 @@
----
-title: Filicopsida
+﻿---
 aliases:
-  - Filicopsida
-  - Polypodiopsida
-  - Polypodiophyta
-  - Fern
-  - Ferns
+- Filicopsida
+- Polypodiopsida
+- Polypodiophyta
+- Fern
+- Ferns
+title: Filicopsida
 ---
 
 # [[Fern]]

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_at_kiosk Class
-linkTitle: is_a_return_at_kiosk Class
-
-keywords: [return_at_kiosk]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnMethodEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-at-kiosk
 - return_at_kiosk
 - ReturnAtKiosk
 - is_a_return_at_kiosk
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnMethodEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_at_kiosk
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_at_kiosk Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_at_kiosk Class"
+type: Type
 ---
 
 Class of all return_at_kiosks.

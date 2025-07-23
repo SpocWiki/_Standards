@@ -1,47 +1,47 @@
----
-title: Primates
-has_id_wikidata: Q7380
-Commons category: Primates
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20baboon.jpg
-studied in:
-  - "[[_Standards/WikiData/WD~primatology,219488]]"
-  - "[[_Standards/WikiData/WD~palaeoprimatology,126598067]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-has list: "[[_Standards/WikiData/WD~list_of_primates,1076997]]"
-CITES Appendix: "[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]"
-topic's main template: "[[_Standards/WikiData/WD~Template_Primate-stub,11125405]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Primates,11847392]]"
-taxon range map image: http://commons.wikimedia.org/wiki/Special:FilePath/Non-human%20primate%20range.png
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Primates%20-%20some%20families.jpg
-equivalent class:
-  - http://kbpedia.org/kko/rc/Primate
-MCN code: 0106.11.00
-EPPO Code:
-  - 1PRIMO
-  - AADMPX
-MeSH tree code: B01.050.150.900.649.313.988
-Krugosvet article: nauka_i_tehnika/biologiya/PRIMATI.html
-NBN System Key: NHMSYS0000377147
-taxon common name:
-  - primater
-start time:
-  - 79600000-01-01
-  - -55000000-01-01
-UMLS CUI: C0033147
-instance of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon rank: "[[_Standards/WikiData/WD~order,36602]]"
-OmegaWiki Defined Meaning: "2964"
-GS1 GPC code: "10005459"
-ITIS TSN: "180089"
-UNSPSC Code: "10101514"
-taxon name: Primates
-Commons gallery: Primates
+﻿---
 aliases:
-  - Primate
-  - Primates
+- Primate
+- Primates
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
+Commons_category: Primates
+Commons_gallery: Primates
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+EPPO_Code:
+- 1PRIMO
+- AADMPX
+equivalent_class:
+- "http://kbpedia.org/kko/rc/Primate"
+GS1_GPC_code: 10005459
+has_id_wikidata: Q7380
+has_list: '[[_Standards/WikiData/WD~list_of_primates,1076997]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20baboon.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 180089
+Krugosvet_article: nauka_i_tehnika/biologiya/PRIMATI.html
+MCN_code: 0106.11.00
+MeSH_tree_code: B01.050.150.900.649.313.988
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Primates%20-%20some%20families.jpg"
+NBN_System_Key: NHMSYS0000377147
+OmegaWiki_Defined_Meaning: 2964
+start_time:
+- 79600000-01-01
+- -55000000-01-01
+studied_in:
+- '[[_Standards/WikiData/WD~primatology,219488]]'
+- '[[_Standards/WikiData/WD~palaeoprimatology,126598067]]'
+taxon_common_name:
+- primater
+taxon_name: Primates
+taxon_range_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Non-human%20primate%20range.png"
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+title: Primates
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Primate-stub,11125405]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Primates,11847392]]'
+UMLS_CUI: C0033147
+UNSPSC_Code: 10101514
 ---
 
 # [[Primates]] 

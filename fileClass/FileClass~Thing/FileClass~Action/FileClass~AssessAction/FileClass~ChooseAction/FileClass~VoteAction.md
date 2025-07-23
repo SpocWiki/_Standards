@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/VoteAction
-  - class/Thing/Action/AssessAction/ChooseAction/VoteAction
-  - is_a_/VoteAction
-  - schema-org/VoteAction
-tags:
-  - class/FileClass
-  - class/VoteAction
-  - is_a_/VoteAction
-  - class/Thing/Action/AssessAction/ChooseAction/VoteAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction
 fields:
-  - id: fyIA0A
-    name: Candidate
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
+- id: fyIA0A
+  name: Candidate
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/VoteAction
+- class/Thing/Action/AssessAction/ChooseAction/VoteAction
+- is_a_/VoteAction
+- schema-org/VoteAction
+tags:
+- class/FileClass
+- class/VoteAction
+- is_a_/VoteAction
+- class/Thing/Action/AssessAction/ChooseAction/VoteAction
+version: 2.0
 ---
 
 # VoteAction

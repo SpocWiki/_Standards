@@ -1,11 +1,12 @@
----
-type: LangFamily
-tags:
-  - Lang_Family
+﻿---
 aliases:
-  - Afroasiatic languages
+- "Afroasiatic languages"
 has_id_wikidata: Q25268
+tags:
+- Lang_Family
+type: LangFamily
 ---
+
 ﻿
  [SpocWebEntityId:: 236 ]
 [Name::Afro-Asiatic]

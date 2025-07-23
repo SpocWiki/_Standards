@@ -1,52 +1,52 @@
----
-has_id_wikidata: Q7537
+﻿---
 aliases:
-  - Cauliflower
-  - Choux-fleur
-  - Blumenkohl
-parent_taxon: "[[_Standards/WikiData/WD~Brassica_oleracea,146212]]"
+- Cauliflower
+- Choux-fleur
+- Blumenkohl
+Amazon_com_browse_node: 6507074011
+Commons_category: "Brassica oleracea var. botrytis"
 different_from:
-  - "[[_Standards/WikiData/WD~cauliflory,250692]]"
-  - "[[_Standards/WikiData/WD~broccoli,47722]]"
-taxon_rank: "[[_Standards/WikiData/WD~variety,767728]]"
-subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
-this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~cauliflower,23900272]]"
-  - "[[_Standards/WikiData/WD~caulilini,106815124]]"
-hardiness_of_plant: "[[_Standards/WikiData/WD~2,99546131]]"
-has_use: "[[_Standards/WikiData/WD~vegetable,11004]]"
-taxon_range:
-  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-OmegaWiki_Defined_Meaning: "344530"
-ITIS_TSN: "530957"
-taxon_common_name:
-  - broccoli
-  - cauliflower
-  - 菜花
-  - цветная капуста
-  - cvetača
-  - 花椰菜
-  - 花菜
-  - coliflor
-  - 洋花菜
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bloemkool.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/19%20-%20cauliflower.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Woolworths-cauliflower.jpg
-taxon_author_citation: L.
+- '[[_Standards/WikiData/WD~cauliflory,250692]]'
+- '[[_Standards/WikiData/WD~broccoli,47722]]'
 EPPO_Code: BRSOB
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%95%E0%A6%AA%E0%A6%BF.wav
-GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=7671
-Amazon_com_browse_node: "6507074011"
-UNII: 87M72T7VW1
 FoodEx2_code: A00FR
+GRIN_URL: "https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=7671"
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+has_id_wikidata: Q7537
+has_use: '[[_Standards/WikiData/WD~vegetable,11004]]'
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Bloemkool.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/19%20-%20cauliflower.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Woolworths-cauliflower.jpg"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 530957
 Krugosvet_article: biologiya/tsvetnaya-kapusta
-Commons_category: Brassica oleracea var. botrytis
-taxon_name: Brassica oleracea var. botrytis
-UMLS_CUI: C5702870
 NBN_System_Key: NBNSYS0000034197
+OmegaWiki_Defined_Meaning: 344530
+parent_taxon: '[[_Standards/WikiData/WD~Brassica_oleracea,146212]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%95%E0%A6%AA%E0%A6%BF.wav"
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+taxon_author_citation: L.
+taxon_common_name:
+- broccoli
+- cauliflower
+- 菜花
+- "цветная капуста"
+- cvetača
+- 花椰菜
+- 花菜
+- coliflor
+- 洋花菜
+taxon_name: "Brassica oleracea var. botrytis"
+taxon_range:
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+taxon_rank: '[[_Standards/WikiData/WD~variety,767728]]'
+this_taxon_is_source_of:
+- '[[_Standards/WikiData/WD~cauliflower,23900272]]'
+- '[[_Standards/WikiData/WD~caulilini,106815124]]'
+UMLS_CUI: C5702870
+UNII: 87M72T7VW1
 ---
 
 # [[Cauliflower]] 

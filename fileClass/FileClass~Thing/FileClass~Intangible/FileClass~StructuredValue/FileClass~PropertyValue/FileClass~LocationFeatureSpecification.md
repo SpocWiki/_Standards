@@ -1,41 +1,41 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/LocationFeatureSpecification
-  - class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
-  - is_a_/LocationFeatureSpecification
-  - schema-org/LocationFeatureSpecification
-tags:
-  - class/FileClass
-  - class/LocationFeatureSpecification
-  - is_a_/LocationFeatureSpecification
-  - class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue
 fields:
-  - id: Bmo9Y3
-    name: HoursAvailable
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
-    type: MultiFile
-    path: ""
-  - id: DHkA2d
-    name: ValidFrom
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: QW1Tgx
-    name: ValidThrough
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
+- id: Bmo9Y3
+  name: HoursAvailable
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"
+  type: MultiFile
+  path: ''
+- id: DHkA2d
+  name: ValidFrom
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: QW1Tgx
+  name: ValidThrough
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LocationFeatureSpecification
+- class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
+- is_a_/LocationFeatureSpecification
+- schema-org/LocationFeatureSpecification
+tags:
+- class/FileClass
+- class/LocationFeatureSpecification
+- is_a_/LocationFeatureSpecification
+- class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
+version: 2.0
 ---
 
 # LocationFeatureSpecification

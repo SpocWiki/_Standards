@@ -1,31 +1,25 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_followee_of
-
-linkTitle: is_followee_of
-keywords: [followee]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - followee
 - is_followee_of
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- followee
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_followee_of
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_followee_of
+type: Predi_Relation
 ---
 
 Use it like this: 

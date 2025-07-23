@@ -263,7 +263,7 @@ ITU_letter_code: KGZ
 IOC_country_code: KGZ
 native_label: Кыргызстан
 official_name:
-  - Кыргызстан
+- Кыргызстан
 - "la République kirghize"
 Dewey_Decimal_Classification: 2--5843
 coordinate_location: "Point(75.0 41.0)"
@@ -312,15 +312,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Kyrgyzstan
-  - Kirguistán
-  - Kirghizistan
-  - قيرغيزستان
-  - 吉尔吉斯斯坦
-  - Кыргызстан
+- Kyrgyzstan
+- Kirguistán
+- Kirghizistan
+- قيرغيزستان
+- 吉尔吉斯斯坦
+- Кыргызстан
 - "the Kyrgyz Republic"
 - "la República Kirguisa"
-  - Kirgisistan
+- Kirgisistan
 Languages:
   - ky
   - uz

@@ -1,38 +1,38 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: flask-conical
-version: "2.0"
-tagNames:
-  - class/ChemicalSubstance
-  - class/Thing/BioChemEntity/ChemicalSubstance
-  - is_a_/ChemicalSubstance
-  - schema-org/ChemicalSubstance
-tags:
-  - class/FileClass
-  - class/ChemicalSubstance
-  - is_a_/ChemicalSubstance
-  - class/Thing/BioChemEntity/ChemicalSubstance
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: tmUWEH
-    name: ChemicalComposition
-    options: {}
-    type: Input
-    path: ""
-  - id: cTN4IH
-    name: ChemicalRole
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
-  - id: XxDV0W
-    name: PotentialUse
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
-    type: MultiFile
-    path: ""
+- id: tmUWEH
+  name: ChemicalComposition
+  options: {}
+  type: Input
+  path: ''
+- id: cTN4IH
+  name: ChemicalRole
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+- id: XxDV0W
+  name: PotentialUse
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/DefinedTerm')"
+  type: MultiFile
+  path: ''
+icon: flask-conical
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ChemicalSubstance
+- class/Thing/BioChemEntity/ChemicalSubstance
+- is_a_/ChemicalSubstance
+- schema-org/ChemicalSubstance
+tags:
+- class/FileClass
+- class/ChemicalSubstance
+- is_a_/ChemicalSubstance
+- class/Thing/BioChemEntity/ChemicalSubstance
+version: 2.0
 ---
 
 # ChemicalSubstance

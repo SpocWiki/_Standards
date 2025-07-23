@@ -11,7 +11,7 @@ isDeleted: false
 confidential: public
 aliases:
 - "Republic of the Congo"
-  - Congo-Brazzaville
+- Congo-Brazzaville
 - "Congo Republic"
 member_of:
 - "[[_Standards/WikiData/WD~African_Union,7159]]"
@@ -219,8 +219,8 @@ demonym:
   - কঙ্গোলীয়
   - Respublikkongano
   - kongói
-- "congolese (Repubblica del Congo)"
-- "congolesi (Repubblica del Congo)"
+  - "congolese (Repubblica del Congo)"
+  - "congolesi (Repubblica del Congo)"
   - congolez
   - congoleză
   - congolezi

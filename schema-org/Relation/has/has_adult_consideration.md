@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_adult_consideration
-
-linkTitle: has_adult_consideration
-keywords: [adult, consideration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - has-adult-consideration
 - adult_consideration
 - hasAdultConsideration
 - has_adult_consideration
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- adult
+- consideration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_adult_consideration
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_adult_consideration
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

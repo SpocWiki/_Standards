@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - River Phoenix
+- "River Phoenix"
 ---
 
 #has_/sibling :: [[Phoenix,Joaquin]] 

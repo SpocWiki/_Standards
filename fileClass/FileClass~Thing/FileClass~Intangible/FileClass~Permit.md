@@ -1,66 +1,66 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Permit
-  - class/Thing/Intangible/Permit
-  - is_a_/Permit
-  - schema-org/Permit
-tags:
-  - class/FileClass
-  - class/Permit
-  - is_a_/Permit
-  - class/Thing/Intangible/Permit
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: ITOCcT
-    name: IssuedBy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: vKSJkf
-    name: IssuedThrough
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Service')
-    type: MultiFile
-    path: ""
-  - id: MAB0XT
-    name: PermitAudience
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
-  - id: ID96kS
-    name: ValidFor
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: loISIK
-    name: ValidFrom
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: uqbaBw
-    name: ValidIn
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
-    type: MultiFile
-    path: ""
-  - id: 4LEkam
-    name: ValidUntil
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
+- id: ITOCcT
+  name: IssuedBy
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: vKSJkf
+  name: IssuedThrough
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Service')"
+  type: MultiFile
+  path: ''
+- id: MAB0XT
+  name: PermitAudience
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+- id: ID96kS
+  name: ValidFor
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: loISIK
+  name: ValidFrom
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: uqbaBw
+  name: ValidIn
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea')"
+  type: MultiFile
+  path: ''
+- id: 4LEkam
+  name: ValidUntil
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Permit
+- class/Thing/Intangible/Permit
+- is_a_/Permit
+- schema-org/Permit
+tags:
+- class/FileClass
+- class/Permit
+- is_a_/Permit
+- class/Thing/Intangible/Permit
+version: 2.0
 ---
 
 # Permit

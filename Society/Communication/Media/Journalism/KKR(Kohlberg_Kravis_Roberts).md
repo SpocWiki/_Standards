@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - KKR
-  - Kohlberg Kravis Roberts
+- KKR
+- "Kohlberg Kravis Roberts"
 ---
-
 
 ## #has_/text_of_/abstract 
 

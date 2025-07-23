@@ -1,25 +1,25 @@
----
-limit: 100
-mapWithTag: true
-icon: text-cursor-input
-tagNames:
-  - is_a_/Property
-  - schema-org/Property
-tags:
-  - class/FileClass
-  - is_a_/Class
+﻿---
 excludes: 
 extends: FileClass~Relation
-version: "2.0"
 fields:
-  - id: 9dYCGX
-    name: has_range
-    options:
-      dvQueryString: dv.pages('#class/data_type')
-    style:
-      code: false
-    type: File
-    path: ""
+- id: 9dYCGX
+  name: has_range
+  options:
+    dvQueryString: "dv.pages('#class/data_type')"
+  style:
+    code: false
+  type: File
+  path: ''
+icon: text-cursor-input
+limit: 100
+mapWithTag: true
+tagNames:
+- is_a_/Property
+- schema-org/Property
+tags:
+- class/FileClass
+- is_a_/Class
+version: 2.0
 ---
 
 has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_type')"},"style":{"code":false}}

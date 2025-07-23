@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PathologyTest
-  - class/Thing/MedicalEntity/MedicalTest/PathologyTest
-  - is_a_/PathologyTest
-  - schema-org/PathologyTest
-tags:
-  - class/FileClass
-  - class/PathologyTest
-  - is_a_/PathologyTest
-  - class/Thing/MedicalEntity/MedicalTest/PathologyTest
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields:
-  - id: bp5vTb
-    name: TissueSample
-    options: {}
-    type: Input
-    path: ""
+- id: bp5vTb
+  name: TissueSample
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PathologyTest
+- class/Thing/MedicalEntity/MedicalTest/PathologyTest
+- is_a_/PathologyTest
+- schema-org/PathologyTest
+tags:
+- class/FileClass
+- class/PathologyTest
+- is_a_/PathologyTest
+- class/Thing/MedicalEntity/MedicalTest/PathologyTest
+version: 2.0
 ---
 
 # PathologyTest

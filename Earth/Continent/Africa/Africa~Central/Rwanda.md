@@ -213,7 +213,7 @@ CIVICUS_Monitor_country_entry:
 Libris_URI: sq4656cb0z1sjs7
 Krugosvet_article: strany_mira/RUANDA.html
 official_name:
-- "la République du Rwanda"
+  - "la République du Rwanda"
   - Rwanda
   - Rwanda
   - Ruanda

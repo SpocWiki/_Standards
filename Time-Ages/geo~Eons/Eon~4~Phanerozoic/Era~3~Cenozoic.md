@@ -1,31 +1,30 @@
----
+﻿---
+aliases:
+- Cenozoic
+- пеозой
+- Kenozoikum
+- Kænozoisk
+- Känozoikum
+- Cainozoic
+- Cenozoic
+- Cenozoico
+- Kainosoikum
+- Kenotsoikum
+- Cénozoïque
+- kainozoikum
+- cenozoico
+- 新生代
+- Cenozojus
+- Kaenozoïcum
+- Kenozoikum
+- Kenozoik
+- Cenozóico
+- kenozoikum
+- kenozoik
+- kenozoikum
+- 新生代
 has_id_wikidata: Q102416
 ischart: Cenozoic
-aliases:
-  - Cenozoic
-  - пеозой
-  - Kenozoikum
-  - Kænozoisk
-  - Känozoikum
-  - Cainozoic
-  - Cenozoic
-  - Cenozoico
-  - Kainosoikum
-  - Kenotsoikum
-  - Cénozoïque
-  - kainozoikum
-  - cenozoico
-  - 新生代
-  - Cenozojus
-  - Kaenozoïcum
-  - Kenozoikum
-  - Kenozoik
-  - Cenozóico
-  - kenozoikum
-  - kenozoik
-  - kenozoikum
-  - 新生代
-  
 ---
 
 # [[Era~3~Cenozoic]] 

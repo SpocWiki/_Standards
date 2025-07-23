@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- prion
+- prion
+- Prion
+- is_a_prion
 confidential: public
+cssclasses:
+- Type
+draft: false
+enumerationtype: InfectiousAgentClass
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_prion Class
-linkTitle: is_a_prion Class
 keywords:
-  - prion
+- prion
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_prion Class"
+publish: true
 publishDate: 
-expiryDate: 
-enumerationtype: InfectiousAgentClass
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
-aliases:
-  - prion
-  - prion
-  - Prion
-  - is_a_prion
+- class/Class
+- schema-org/Class
+- class/infectious_agent
+title: "is_a_prion Class"
+type: Type
 ---
 
 # [[prion]] 

@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- director
+- director
+- director
+- has_director
+- "schema:director"
+- "dbo:director"
+- "wdt:P57"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_director
-linkTitle: has_director
 keywords:
-  - director
+- director
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_director
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: directors
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - director
-  - director
-  - director
-  - has_director
-  - schema:director
-  - dbo:director
-  - wdt:P57
+- class/Relation
+- schema-org/Relation
+title: has_director
+type: Predi_Relation
 ---
 
 Use it like this: 

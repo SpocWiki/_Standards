@@ -1,31 +1,31 @@
 ---
-license: CC BY-SA 4.0
+aliases:
+- in-language
+- in_language
+- inLanguage
+- is_in_language
+- "schema:language"
+- "dbo:language"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: is_in_language
-linkTitle: is_in_language
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: is_in_language
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: language
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - in-language
-  - in_language
-  - inLanguage
-  - is_in_language
-  - schema:language
-  - dbo:language
+- class/Relation
+- schema-org/Relation
+title: is_in_language
+type: Predi_Relation
 ---
 
 Use it like this: 

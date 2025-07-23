@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_medical_guideline Class
-linkTitle: is_a_medical_guideline Class
-
-keywords: [medical_guideline]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - medical-guideline
 - medical_guideline
 - MedicalGuideline
 - is_a_medical_guideline
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- medical_guideline
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_medical_guideline Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_medical_guideline Class"
+type: Type
 ---
 
 Class of all medical_guidelines.

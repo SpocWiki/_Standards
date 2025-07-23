@@ -1,10 +1,9 @@
----
-has_id_wikidata: Q492596
+﻿---
 aliases:
-  - Chibanian
-  
-  
+- Chibanian
+has_id_wikidata: Q492596
 ---
+
 # [[Age~3~Chibanian]]
 
 #is_a_/time_/Age 

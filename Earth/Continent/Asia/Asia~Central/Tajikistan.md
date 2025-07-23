@@ -86,44 +86,44 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Tadjikistan.wav"
 UMLS_CUI: C0039247
 demonym:
-  - طادجيكي
-  - طادجيكية
-  - طادجاكيين
-  - طادجيكيات
-  - Táidsíceastánach
-  - طاجيكستاني
-  - طاجيكستانية
-  - طاجيكستانيون
-  - taxiquistanín
-  - তাজিকিস্তানী
-  - Tajikistani
-  - تاجیک
-  - Tadjik
-  - Tadjike
+- طادجيكي
+- طادجيكية
+- طادجاكيين
+- طادجيكيات
+- Táidsíceastánach
+- طاجيكستاني
+- طاجيكستانية
+- طاجيكستانيون
+- taxiquistanín
+- তাজিকিস্তানী
+- Tajikistani
+- تاجیک
+- Tadjik
+- Tadjike
 - "טג'יקי"
 - "טג'יקית"
-  - tádzsik
-  - Tajikistanano
-  - tagika
-  - tagike
-  - tagiki
-  - tagiko
-  - tadjici
-  - tadjic
-  - tadjică
-  - tadjici
-  - тоҷик
-  - тоҷикбача
-  - тоҷикдухтар
-  - тоҷикистонӣ
-  - тоҷикистониҳо
-  - тоҷикон
-  - тоҷикҳо
-  - tàzega
-  - tàzeghe
-  - tàzeghi
-  - tàzego
-  - Tacikistänan
+- tádzsik
+- Tajikistanano
+- tagika
+- tagike
+- tagiki
+- tagiko
+- tadjici
+- tadjic
+- tadjică
+- tadjici
+- тоҷик
+- тоҷикбача
+- тоҷикдухтар
+- тоҷикистонӣ
+- тоҷикистониҳо
+- тоҷикон
+- тоҷикҳо
+- tàzega
+- tàzeghe
+- tàzeghi
+- tàzego
+- Tacikistänan
 coordinates_of_southernmost_point: "Point(71.7556649 36.6801122)"
 ISNI: 0000000121052676
 MeSH_tree_code: Z01.252.100.900
@@ -244,12 +244,12 @@ birth_rate:
   - 26.749
   - 28.267
 short_name:
-  - Таджикистан
-  - Тоҷикистон
-  - ҶТ
+- Таджикистан
+- Тоҷикистон
+- ҶТ
 - "\U0001F1F9\U0001F1EF"
 native_label:
-  - Тоҷикистон
+- Тоҷикистон
 - "Ҷумҳурии Тоҷикистон"
 name_in_native_language: "Ҷумҳурии Тоҷикистон"
 death_rate:
@@ -308,12 +308,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Tajikistan
-    - Tayikistán
-    - Tadjikistan
-    - طاجيكستان
-    - 塔吉克斯坦
-    - Таджикистан
+- Tajikistan
+- Tayikistán
+- Tadjikistan
+- طاجيكستان
+- 塔吉克斯坦
+- Таджикистан
 - "the Republic of Tajikistan"
 - "la República de Tayikistán"
 Languages:

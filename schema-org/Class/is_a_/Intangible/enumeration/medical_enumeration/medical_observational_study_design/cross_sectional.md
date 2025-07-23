@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_cross_sectional Class
-linkTitle: is_a_cross_sectional Class
-
-keywords: [cross_sectional]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalObservationalStudyDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - cross-sectional
 - cross_sectional
 - CrossSectional
 - is_a_cross_sectional
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalObservationalStudyDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cross_sectional
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_cross_sectional Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_cross_sectional Class"
+type: Type
 ---
 
 Class of all cross_sectionals.

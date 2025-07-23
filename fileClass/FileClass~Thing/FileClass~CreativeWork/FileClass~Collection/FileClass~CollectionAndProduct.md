@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CollectionAndProduct
-  - class/Thing/CreativeWork/Collection/CollectionAndProduct
-  - is_a_/CollectionAndProduct
-  - schema-org/CollectionAndProduct
-tags:
-  - class/FileClass
-  - class/CollectionAndProduct
-  - is_a_/CollectionAndProduct
-  - class/Thing/CreativeWork/Collection/CollectionAndProduct
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CollectionAndProduct
+- class/Thing/CreativeWork/Collection/CollectionAndProduct
+- is_a_/CollectionAndProduct
+- schema-org/CollectionAndProduct
+tags:
+- class/FileClass
+- class/CollectionAndProduct
+- is_a_/CollectionAndProduct
+- class/Thing/CreativeWork/Collection/CollectionAndProduct
+version: 2.0
 ---
 
 - # CollectionAndProduct

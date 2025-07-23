@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Brian Cranston
-  - Bryan Lee Cranston
+- "Brian Cranston"
+- "Bryan Lee Cranston"
 ---
-
 
 ## #has_/text_of_/abstract 
 

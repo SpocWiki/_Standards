@@ -1,5 +1,5 @@
----
-title: Salticus peckhamae
+﻿---
+title: "Salticus peckhamae"
 ---
 
 ## Phylogeny 

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Venture Capital
+- "Venture Capital"
 ---
 
 One Problem of EarlyBird Venture Capital Investors is the asymmetric Cost Matrix, i.e. 

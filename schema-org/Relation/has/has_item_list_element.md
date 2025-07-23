@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_item_list_element
-
-linkTitle: has_item_list_element
-keywords: [item, list, element]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - item-list-element
 - item_list_element
 - itemListElement
 - has_item_list_element
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- item
+- list
+- element
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_item_list_element
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_item_list_element
+type: Predi_Relation
 ---
 
 Use it like this: 

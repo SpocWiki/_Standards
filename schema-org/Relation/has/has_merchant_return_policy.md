@@ -1,35 +1,35 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- has-merchant-return-policy
+- merchant_return_policy
+- hasMerchantReturnPolicy
+- has_merchant_return_policy
+- hasProductReturnPolicy
+- has_Product_Return_Policy
+- has-Product-Return-Policy
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_merchant_return_policy
-linkTitle: has_merchant_return_policy
 keywords:
-  - merchant
-  - return
-  - policy
+- merchant
+- return
+- policy
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_merchant_return_policy
+publish: true
 publishDate: 
-expiryDate: 
 supersedes: hasProductReturnPolicy
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - has-merchant-return-policy
-  - merchant_return_policy
-  - hasMerchantReturnPolicy
-  - has_merchant_return_policy
-  - hasProductReturnPolicy
-  - has_Product_Return_Policy
-  - has-Product-Return-Policy
+- class/Relation
+- schema-org/Relation
+title: has_merchant_return_policy
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

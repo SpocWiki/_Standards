@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_home_and_construction_business Class
-linkTitle: is_a_home_and_construction_business Class
-
-keywords: [home_and_construction_business]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - home-and-construction-business
 - home_and_construction_business
 - HomeAndConstructionBusiness
 - is_a_home_and_construction_business
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- home_and_construction_business
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_home_and_construction_business Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_home_and_construction_business Class"
+type: Type
 ---
 
 Class of all home_and_construction_businesss.

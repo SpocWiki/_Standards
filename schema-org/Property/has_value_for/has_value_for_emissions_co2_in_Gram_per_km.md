@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_emissions-co2
-linkTitle: has_emissions-co2
-
-keywords: [emissions-co2]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - emissions_co2
 - emissions-co2
 - emissionsCO2
 - has_value_for_emissions_co2_in_Gram_per_km
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- emissions-co2
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_emissions-co2
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_emissions-co2
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Vehicle.

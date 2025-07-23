@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_course
-linkTitle: has_location_course
-
-keywords: [course]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: exerciseCourse
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - course
 - course
 - course
 - has_location_course
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- course
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_course
+publish: true
+publishDate: 
+superseded_by: exerciseCourse
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_course
+type: Pred_geo
 ---
 
 Predicate to describe the geo of ExerciseAction.

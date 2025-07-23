@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- keywords
+- keywords
+- keywords
+- has_keywords
+- "schema:keywords"
+- "dbo:keywords"
+- "dwt:P921"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_keywords
-linkTitle: has_keywords
 keywords:
-  - keywords
+- keywords
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_keywords
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - keywords
-  - keywords
-  - keywords
-  - has_keywords
-  - schema:keywords
-  - dbo:keywords
-  - dwt:P921
+- class/Relation
+- schema-org/Relation
+title: has_keywords
+type: Predi_Relation
 ---
 
 Use it like this: 

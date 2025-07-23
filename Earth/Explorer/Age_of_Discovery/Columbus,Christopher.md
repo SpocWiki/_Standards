@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Christopher Columbus
+- "Christopher Columbus"
 has_id_wikidata: Q7322
 ---
-
 
 ## #has_/text_of_/abstract 
 

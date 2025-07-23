@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_name_call_sign
-linkTitle: has_name_call_sign
-
-keywords: [call, sign]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - call-sign
 - call_sign
 - callSign
 - has_name_call_sign
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- call
+- sign
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_name_call_sign
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_name_call_sign
+type: Pred_Text
 ---
 
 Predicate to describe the Text of BroadcastService, Person, Vehicle.

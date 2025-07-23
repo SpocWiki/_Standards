@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_address_origin
-linkTitle: has_location_address_origin
-
-keywords: [address_origin]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - origin-address
 - address_origin
 - originAddress
 - has_location_address_origin
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- address_origin
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_address_origin
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_address_origin
+type: Pred_geo
 ---
 
 Predicate to describe the geo of ParcelDelivery.

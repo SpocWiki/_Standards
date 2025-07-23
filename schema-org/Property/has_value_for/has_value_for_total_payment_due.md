@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_total-payment-due
-linkTitle: has_total-payment-due
-
-keywords: [total-payment-due]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - total_payment_due
 - total-payment-due
 - totalPaymentDue
 - has_value_for_total_payment_due
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- total-payment-due
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_total-payment-due
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_total-payment-due
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Invoice.

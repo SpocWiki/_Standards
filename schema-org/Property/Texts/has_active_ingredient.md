@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_active_ingredient
-linkTitle: has_text_of_active_ingredient
-
-keywords: [active, ingredient]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - active-ingredient
 - active_ingredient
 - activeIngredient
 - has_text_of_active_ingredient
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- active
+- ingredient
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_active_ingredient
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_active_ingredient
+type: Pred_Text
 ---
 
 Predicate to describe the Text of DietarySupplement, Drug, DrugStrength, Substance.

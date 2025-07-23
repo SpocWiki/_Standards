@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Norbert Wiener
+- "Norbert Wiener"
 ---
 
 #has_/time_/started ::  1894-11-26 

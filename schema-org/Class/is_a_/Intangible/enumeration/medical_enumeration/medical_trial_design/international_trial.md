@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_international_trial Class
-linkTitle: is_an_international_trial Class
-
-keywords: [international_trial]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalTrialDesign
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - international-trial
 - international_trial
 - InternationalTrial
 - is_an_international_trial
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalTrialDesign
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- international_trial
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_international_trial Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_international_trial Class"
+type: Type
 ---
 
 Class of all international_trials.

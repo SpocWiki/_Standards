@@ -1,50 +1,49 @@
----
-has_id_wikidata: Q12546
+﻿---
 Commons_category: Crusades
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
 Dewey_Decimal_Classification:
-  - 270.4
-  - 909.07
-  - 940.18
-  - 944.023
-  - 949.503
-  - 956.014
-  - 956.94032
+- 270.4
+- 909.07
+- 940.18
+- 944.023
+- 949.503
+- 956.014
+- 956.94032
 different_from: '[[_Standards/WikiData/WD~Crusade,1037072]]'
-end_time:  1291-06 
-has_time_stopped: 1291-06 
-has_list: "[[_Standards/WikiData/WD~list_of_main_crusades_to_the_land_of_Israel,7055142]]"
+end_time: 1291-06
+has_id_wikidata: Q12546
+has_list: '[[_Standards/WikiData/WD~list_of_main_crusades_to_the_land_of_Israel,7055142]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Crusader_battles_between_1101_and_1145,52145365]]"
-  - "[[_Standards/WikiData/WD~Crusader_battles_between_1149_and_1189,52145976]]"
+- '[[_Standards/WikiData/WD~Crusader_battles_between_1101_and_1145,52145365]]'
+- '[[_Standards/WikiData/WD~Crusader_battles_between_1149_and_1189,52145976]]'
+has_time_started: 1095-06
+has_time_stopped: 1291-06
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20deuxi%C3%A8me%20croisade.jpg"
 instance_of:
-  - "[[_Standards/WikiData/WD~holy_war,13573188]]"
-  - "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
+- '[[_Standards/WikiData/WD~holy_war,13573188]]'
+- '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
 Krugosvet_article: istoriya/krestovye-pohody
 OmegaWiki_Defined_Meaning: 709200
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Crusades%20Banner.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BD%D5%A1%D5%B9%D5%A1%D5%AF%D6%80%D5%A1%D6%81%20%D5%A1%D6%80%D5%B7%D5%A1%D5%BE%D5%A1%D5%B6%D6%84%D5%B6%D5%A5%D6%80%20%28Crusades%29.ogg"
-start_time: 1095-06  
-has_time_started: 1095-06 
-subclass_of: "[[_Standards/WikiData/WD~military_campaign,831663]]"
+start_time: 1095-06
+subclass_of: '[[_Standards/WikiData/WD~military_campaign,831663]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q22706102,22706102]]'
-  - '[[_Standards/WikiData/WD~Q25721385,25721385]]'
-  - "[[_Standards/WikiData/WD~Template_Campaignbox_Crusades,6855578]]"
+- '[[_Standards/WikiData/WD~Q22706102,22706102]]'
+- '[[_Standards/WikiData/WD~Q25721385,25721385]]'
+- '[[_Standards/WikiData/WD~Template_Campaignbox_Crusades,6855578]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Crusades,10730110]]'
 ---
-
 
 #has_/time_/started :: `=this.has_time_started` 
 #has_/time_/stopped :: `=this.has_time_stopped` 

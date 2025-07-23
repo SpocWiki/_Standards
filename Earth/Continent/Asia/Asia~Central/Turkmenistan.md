@@ -173,7 +173,7 @@ GitHub_topic: turkmenistan
 Commons_gallery: Türkmenistan
 IPA_transcription: tʉɾkˈmeːnɪstɑːn
 native_label:
-  - Türkmenistan
+- Türkmenistan
 - "Türkmenistan Respublikasi"
 official_name: Türkmenistan
 short_name: "\U0001F1F9\U0001F1F2"

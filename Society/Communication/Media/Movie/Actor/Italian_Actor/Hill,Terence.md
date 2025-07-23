@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Terence Hill
-  - Mario Girotti
+- "Terence Hill"
+- "Mario Girotti"
 ---
 
 #has_/time_/started :: 1939-03-29 

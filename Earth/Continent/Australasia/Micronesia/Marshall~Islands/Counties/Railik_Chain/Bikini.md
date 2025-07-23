@@ -1,16 +1,16 @@
----
-location: [ 11.58, 165.33 ] 
-mapmarker: city 
-type: City
+﻿---
+confidential: public
+isDeleted: false
+location:
+- 11.58
+- 165.33
+mapmarker: city
+SpocWebEntityId: 29185
 tags:
 - geo/City
-
-
-SpocWebEntityId: 29185
-isDeleted: false
-confidential: public
-
+type: City
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::165.33] 

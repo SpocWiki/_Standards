@@ -1,55 +1,55 @@
----
-has_id_wikidata: Q8355
-Iconclass_notation: 48C7311
-Commons_gallery: Violin
-OmegaWiki_Defined_Meaning: 348995
-Commons_category: Violins
-playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20violin.png"
-U_S_National_Archives_Identifier: 10645208
+﻿---
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin.stl"
 Amazon_com_browse_node: 11971521
-Unicode_character: 🎻 
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Whiskey-youre-the-devil-violin.ogg"
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
+Baidu_Tieba_name: 小提琴
+Colon_Classification: NR;32
+Commons_category: Violins
+Commons_gallery: Violin
+connects_with: '[[_Standards/WikiData/WD~violin_bow,123982138]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
 - '[[_Standards/WikiData/WD~viola,80284]]'
 - '[[_Standards/WikiData/WD~Q13014533,13014533]]'
-subclass_of: "[[_Standards/WikiData/WD~bowed_string_instrument,192096]]"
+exact_match: "http://wordnet-rdf.princeton.edu/wn30/04536866-n"
+has_id_wikidata: Q8355
 has_part_s_:
 - '[[_Standards/WikiData/WD~pegbox,254155]]'
-- "[[_Standards/WikiData/WD~sound_box,660436]]"
+- '[[_Standards/WikiData/WD~sound_box,660436]]'
 - '[[_Standards/WikiData/WD~fretboard,745887]]'
 - '[[_Standards/WikiData/WD~bridge,830869]]'
 - '[[_Standards/WikiData/WD~tailpiece,896967]]'
 - '[[_Standards/WikiData/WD~neck,944038]]'
 - '[[_Standards/WikiData/WD~scroll,1116074]]'
-- "[[_Standards/WikiData/WD~sound_board,1189953]]"
-- "[[_Standards/WikiData/WD~fine_tuner,1402002]]"
+- '[[_Standards/WikiData/WD~sound_board,1189953]]'
+- '[[_Standards/WikiData/WD~fine_tuner,1402002]]'
 - '[[_Standards/WikiData/WD~chinrest,1742233]]'
 - '[[_Standards/WikiData/WD~f-hole,11200647]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~fiddle,510487]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-used_by: '[[_Standards/WikiData/WD~violinist,1259917]]'
-part_of: "[[_Standards/WikiData/WD~violin_family,1365097]]"
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
-lowest_note: '[[_Standards/WikiData/WD~G3,96251665]]'
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-connects_with: "[[_Standards/WikiData/WD~violin_bow,123982138]]"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Viool-article.ogg"
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin.stl"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin%20VL100.png"
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Whiskey-youre-the-devil-violin.ogg"
-exact_match: "http://wordnet-rdf.princeton.edu/wn30/04536866-n"
-Krugosvet_article: kultura_i_obrazovanie/muzyka/SKRIPKA.html
-Colon_Classification: NR;32
-Baidu_Tieba_name: 小提琴
 Hornbostel_Sachs_classification: 321.322-71
+Iconclass_notation: 48C7311
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin%20VL100.png"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Krugosvet_article: kultura_i_obrazovanie/muzyka/SKRIPKA.html
+lowest_note: '[[_Standards/WikiData/WD~G3,96251665]]'
 Nomenclature_for_Museum_Cataloging: 10790
+OmegaWiki_Defined_Meaning: 348995
+part_of: '[[_Standards/WikiData/WD~violin_family,1365097]]'
+playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20violin.png"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~fiddle,510487]]'
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Viool-article.ogg"
+subclass_of: '[[_Standards/WikiData/WD~bowed_string_instrument,192096]]'
+Unicode_character: "\U0001F3BB"
+used_by: '[[_Standards/WikiData/WD~violinist,1259917]]'
+U_S_National_Archives_Identifier: 10645208
 ---
 
 ## #has_/text_of_/abstract 

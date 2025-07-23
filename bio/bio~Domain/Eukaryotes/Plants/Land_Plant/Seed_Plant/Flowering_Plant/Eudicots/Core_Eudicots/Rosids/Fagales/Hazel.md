@@ -1,30 +1,30 @@
----
+﻿---
 aliases:
-  - Hazel
-  - hazelnut
-has_id_wikidata: Q578307
-natural_product_of_taxon: "[[_Standards/WikiData/WD~Corylus_avellana,124969]]"
-part_of: "[[_Standards/WikiData/WD~Turkish_cuisine,654493]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~seed,1762933]]"
-  - "[[_Standards/WikiData/WD~nut,3320037]]"
-  - "[[_Standards/WikiData/WD~hazelnut,104738415]]"
-  - "[[_Standards/WikiData/WD~nut,11009]]"
-instance_of: "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-has_part_s_: "[[_Standards/WikiData/WD~hazelnut_shell,55758405]]"
+- Hazel
+- hazelnut
+Amazon_com_browse_node: 6492300011
 carbon_footprint: 5.3
-food_energy: 628
-water_footprint:
-  - 5258
-  - 10515
-PLU_code: "4928"
-OmegaWiki_Defined_Meaning: "404765"
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hazelnuts%20%28Corylus%20avellana%29%20-%20whole%20with%20kernels.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Corylus%20avellana.jpg
 Commons_category: Hazelnuts
+food_energy: 628
+has_id_wikidata: Q578307
+has_part_s_: '[[_Standards/WikiData/WD~hazelnut_shell,55758405]]'
+image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hazelnuts%20%28Corylus%20avellana%29%20-%20whole%20with%20kernels.jpg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Corylus%20avellana.jpg"
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Corylus_avellana,124969]]'
+OmegaWiki_Defined_Meaning: 404765
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
+PLU_code: 4928
+subclass_of:
+- '[[_Standards/WikiData/WD~seed,1762933]]'
+- '[[_Standards/WikiData/WD~nut,3320037]]'
+- '[[_Standards/WikiData/WD~hazelnut,104738415]]'
+- '[[_Standards/WikiData/WD~nut,11009]]'
 UNII: 4U47CHZ7DL
-Amazon_com_browse_node: "6492300011"
+water_footprint:
+- 5258
+- 10515
 ---
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Hazelnut,578307|WD~Hazelnut,578307]]

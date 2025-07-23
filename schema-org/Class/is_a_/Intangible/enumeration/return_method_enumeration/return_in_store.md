@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_in_store Class
-linkTitle: is_a_return_in_store Class
-
-keywords: [return_in_store]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnMethodEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-in-store
 - return_in_store
 - ReturnInStore
 - is_a_return_in_store
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnMethodEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_in_store
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_in_store Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_in_store Class"
+type: Type
 ---
 
 Class of all return_in_stores.

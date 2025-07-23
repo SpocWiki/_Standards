@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Francis Bacon
+- "Francis Bacon"
 ---
 
 # [[Bacon,Francis]] 

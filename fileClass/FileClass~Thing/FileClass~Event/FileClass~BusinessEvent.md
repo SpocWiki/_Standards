@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BusinessEvent
-  - class/Thing/Event/BusinessEvent
-  - is_a_/BusinessEvent
-  - schema-org/BusinessEvent
-tags:
-  - class/FileClass
-  - class/BusinessEvent
-  - is_a_/BusinessEvent
-  - class/Thing/Event/BusinessEvent
 extends: FileClass~Thing/FileClass~Event
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BusinessEvent
+- class/Thing/Event/BusinessEvent
+- is_a_/BusinessEvent
+- schema-org/BusinessEvent
+tags:
+- class/FileClass
+- class/BusinessEvent
+- is_a_/BusinessEvent
+- class/Thing/Event/BusinessEvent
+version: 2.0
 ---
 
 # BusinessEvent

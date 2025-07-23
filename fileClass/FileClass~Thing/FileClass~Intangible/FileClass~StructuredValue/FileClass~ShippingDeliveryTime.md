@@ -1,46 +1,46 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ShippingDeliveryTime
-  - class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
-  - is_a_/ShippingDeliveryTime
-  - schema-org/ShippingDeliveryTime
-tags:
-  - class/FileClass
-  - class/ShippingDeliveryTime
-  - is_a_/ShippingDeliveryTime
-  - class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: h06GJV
-    name: BusinessDays
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
-    type: MultiFile
-    path: ""
-  - id: fK4bzg
-    name: CutoffTime
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: z4lGnb
-    name: HandlingTime
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: qv3Ysh
-    name: TransitTime
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+- id: h06GJV
+  name: BusinessDays
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"
+  type: MultiFile
+  path: ''
+- id: fK4bzg
+  name: CutoffTime
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: z4lGnb
+  name: HandlingTime
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: qv3Ysh
+  name: TransitTime
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ShippingDeliveryTime
+- class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
+- is_a_/ShippingDeliveryTime
+- schema-org/ShippingDeliveryTime
+tags:
+- class/FileClass
+- class/ShippingDeliveryTime
+- is_a_/ShippingDeliveryTime
+- class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
+version: 2.0
 ---
 
 # ShippingDeliveryTime

@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - prov:used
+- "prov:used"
 ---
 
 Indicates a non-consuming application of an Entity/Tool 

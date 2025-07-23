@@ -1,7 +1,7 @@
----
-title: Caryophyllales
+﻿---
 aliases:
-  - Caryophyllales
+- Caryophyllales
+title: Caryophyllales
 ---
 
 # [[Caryophyllales]]

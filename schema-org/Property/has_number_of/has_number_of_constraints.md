@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_num_constraints
-linkTitle: has_number_of_num_constraints
-
-keywords: [num_constraints]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - num-constraints
 - num_constraints
 - numConstraints
 - has_number_of_constraints
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- num_constraints
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_num_constraints
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_num_constraints
+type: Predi_Count
 ---
 
 Predicate to describe the Number of StatisticalPopulation.

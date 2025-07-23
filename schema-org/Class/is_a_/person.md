@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- person
+- person
+- Person
+- is_a_person
+- "dbo:Person"
+- "schema:Person"
 confidential: public
+cssclasses:
+- Type
+draft: false
+equivalent_class: "http://xmlns.com/foaf/0.1/Person"
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_person Class
-linkTitle: is_a_person Class
 keywords:
-  - person
+- person
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_person Class"
+publish: true
 publishDate: 
-expiryDate: 
-equivalent_class: http://xmlns.com/foaf/0.1/Person
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - person
-  - person
-  - Person
-  - is_a_person
-  - dbo:Person
-  - schema:Person
+- class/Class
+- schema-org/Class
+title: "is_a_person Class"
+type: Type
 ---
 
 Class of all natural persons.

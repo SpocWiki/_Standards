@@ -1,28 +1,28 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- url
+- URL
+- is_a_url
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_url Class
-linkTitle: is_a_url Class
 keywords:
-  - url
+- url
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_url Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - url
-  - URL
-  - is_a_url
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_url Class"
+type: Type
 ---
 
 # [[URL]] 

@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Chad
-  - Tchad
-  - تشاد
-  - 乍得
-  - Чад
+- Chad
+- Tchad
+- تشاد
+- 乍得
+- Чад
 - "the Republic of Chad"
 - "la República del Chad"
 - "Chad (el)"
@@ -92,7 +92,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Bahr_el_Gazel,1050621]]"
 - '[[_Standards/WikiData/WD~Borkou,1139666]]'
 - "[[_Standards/WikiData/WD~Sila_Region,1149611]]"
-  - "[[_Standards/WikiData/WD~N'Djamena,3659]]"
+- "[[_Standards/WikiData/WD~N'Djamena,3659]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Chad,188084]]"
 central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
 anthem: "[[_Standards/WikiData/WD~La_Tchadienne,213733]]"
@@ -285,8 +285,8 @@ demonym:
   - tchadien
   - Tchadien
   - Tchadienne
-- "צ'אדי"
-- "צ'אדית"
+  - "צ'אדי"
+  - "צ'אדית"
   - csádi
   - Chadano
   - ciadiana
@@ -310,7 +310,7 @@ demonym:
 official_name:
 - "Republic of Chad"
 - "la République du Tchad"
-  - Tchad
+- Tchad
 native_label:
 - "République du Tchad"
 - "جُمْهُورِيَّة تشاد"

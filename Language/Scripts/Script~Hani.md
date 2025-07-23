@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - Hanja
+- Hanja
 ---
+
 Hanja Script is used less commonly in [[../Lang~Family/LangFamily-Koreanic/Lang-ko|Korean]] Language
 
 7. **Korean:**

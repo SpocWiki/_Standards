@@ -1,38 +1,38 @@
----
-location: [-0.5477778,166.9208] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: 
-- City
-- geo-Region
-title: Yaren
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-
+﻿---
+aliases:
+- Yaren
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-draft: false
-confidential: public
+keywords: 
+Languages:
+- de
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -0.5477778
+- 166.9208
+mapmarker: city
+mapzoom:
+- 7
+- 12
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
 SpocWebEntityId: 36745
-
 tags:
 - geo/City
 - geo/Country/Region
-aliases:
-- Yaren
-
-Languages:
-- de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+title: Yaren
+type:
+- City
+- geo-Region
 ---
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::166.9208] 

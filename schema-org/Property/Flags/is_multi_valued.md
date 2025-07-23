@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_multi_valued
-linkTitle: is_multi_valued
-
-keywords: [multiple_value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - multiple-value
 - multiple_value
 - multipleValues
 - is_multi_valued
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- multiple_value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_multi_valued
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_multi_valued
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Motel
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel
-  - is_a_/Motel
-  - schema-org/Motel
-tags:
-  - class/FileClass
-  - class/Motel
-  - is_a_/Motel
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Motel
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel
+- is_a_/Motel
+- schema-org/Motel
+tags:
+- class/FileClass
+- class/Motel
+- is_a_/Motel
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel
+version: 2.0
 ---
 
 # Motel

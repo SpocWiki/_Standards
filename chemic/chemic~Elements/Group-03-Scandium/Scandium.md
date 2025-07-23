@@ -1,68 +1,68 @@
----
-type: Element
-SpocWebEntityId: 21922
-has_id_wikidata: Q713
-InChIKey: SIXSYDAISGFNSX-UHFFFAOYSA-N
-UNII: YUJ4U1EW7R
-mass: 44.955907
-part_of:
-- "[[_Standards/WikiData/WD~group_3,108307]]"
-- "[[_Standards/WikiData/WD~period_4,239825]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~rare_earth_element,190444]]"
-- "[[_Standards/WikiData/WD~transition_metal,19588]]"
-made_from_material: '[[_Standards/WikiData/WD~thortveitite,424535]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Lars_Fredrik_Nilson,447875]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-different_from: '[[_Standards/WikiData/WD~Scandinavium,1138447]]'
-time_of_discovery_or_invention: "1879"
-UMLS_CUI: C0036274
+﻿---
+atomic_number: 21
+boiling_point: 2836.85
+canonical_SMILES: '[Sc]'
+CAS_Registry_Number: 7440-20-2
+chemical_formula: Sc
+Commons_category: Scandium
+Commons_gallery: Scandium
 Common_Procurement_Vocabulary_code:
 - 14723000-5
 - 14723000
-named_after: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
-oxidation_state:
-- 1
-- 2
-- 3
-atomic_number: 21
-ionic_radius:
-- 0.75
-- 0.87
-electronegativity: 1.36
-ZVG_number: 7210
-chemical_formula: Sc
-element_symbol: Sc
-PubChem_CID: 23952
-melting_point: 1540.85
-boiling_point: 2836.85
-OmegaWiki_Defined_Meaning: 357984
-Unicode_character: 鈧
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Scandium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
-electron_configuration:
-- "[Ar] 3d¹ 4s²"
-- "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²"
-canonical_SMILES: '[Sc]'
-EC_number: 231-129-2
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Dewey_Decimal_Classification:
 - 546.401
 - 669.2901
-CAS_Registry_Number: 7440-20-2
+different_from: '[[_Standards/WikiData/WD~Scandinavium,1138447]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Lars_Fredrik_Nilson,447875]]'
+DSSTOX_compound_identifier: DTXCID1047653
+EC_number: 231-129-2
+electronegativity: 1.36
+electron_configuration:
+- "[Ar] 3d¹ 4s²"
+- "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²"
+element_symbol: Sc
+has_id_wikidata: Q713
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Scandium%20sublimed%20dendritic%20and%201cm3%20cube.jpg"
+InChI: InChI=1S/Sc
+InChIKey: SIXSYDAISGFNSX-UHFFFAOYSA-N
+instance_of:
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.75
+- 0.87
+made_from_material: '[[_Standards/WikiData/WD~thortveitite,424535]]'
+mass: 44.955907
+melting_point: 1540.85
 MeSH_tree_code:
 - D01.268.558.800
 - D01.268.956.827
 - D01.552.550.800
-DSSTOX_compound_identifier: DTXCID1047653
-InChI: InChI=1S/Sc
-Commons_gallery: Scandium
-Commons_category: Scandium
+named_after: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+OmegaWiki_Defined_Meaning: 357984
+oxidation_state:
+- 1
+- 2
+- 3
+part_of:
+- '[[_Standards/WikiData/WD~group_3,108307]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
+PubChem_CID: 23952
+SpocWebEntityId: 21922
+subclass_of:
+- '[[_Standards/WikiData/WD~rare_earth_element,190444]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+time_of_discovery_or_invention: 1879
+type: Element
+UMLS_CUI: C0036274
+Unicode_character: 鈧
+UNII: YUJ4U1EW7R
+ZVG_number: 7210
 ---
 
 #chemic/Element 

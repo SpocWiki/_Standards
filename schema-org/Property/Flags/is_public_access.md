@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_public_access
-linkTitle: is_public_access
-
-keywords: [public_access]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - public-access
 - public_access
 - publicAccess
 - is_public_access
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- public_access
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_public_access
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_public_access
+type: Pred_Bool
 ---
 
 Use these simple Tags to mark Instances as True or False: 

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_in_store_only Class
-linkTitle: is_in_store_only Class
-
-keywords: [in_store_only]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ItemAvailability
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - in-store-only
 - in_store_only
 - InStoreOnly
 - is_in_store_only
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ItemAvailability
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- in_store_only
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_in_store_only Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_in_store_only Class"
+type: Type
 ---
 
 Class of all in_store_onlys.

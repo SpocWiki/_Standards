@@ -1,54 +1,54 @@
----
-type: Element
-SpocWebEntityId: 21986
-has_id_wikidata: Q1109
+﻿---
+atomic_number: 91
+canonical_SMILES: '[Pa]'
+CAS_Registry_Number: 7440-13-3
+chemical_formula: Pa
+Commons_category: Protactinium
+Commons_gallery: Protactinium
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+Dewey_Decimal_Classification:
+- 546.423
+- 669.2924
 discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Kazimierz_Fajans,213667]]"
-- "[[_Standards/WikiData/WD~Lise_Meitner,56189]]"
-- "[[_Standards/WikiData/WD~Otto_Hahn,57065]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
-UMLS_CUI: C0033597
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg"
-named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~Kazimierz_Fajans,213667]]'
+- '[[_Standards/WikiData/WD~Lise_Meitner,56189]]'
+- '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
+DSSTOX_compound_identifier: DTXCID50147878
+EC_number: 616-087-9
 electronegativity: 2
+element_symbol: Pa
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+has_id_wikidata: Q1109
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg"
+InChI: InChI=1S/Pa
+InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.9
 - 0.78
 - 1.04
-atomic_number: 91
-PubChem_CID: 23945
-chemical_formula: Pa
-element_symbol: Pa
-OmegaWiki_Defined_Meaning: 345414
 mass: 231.03588
-Commons_gallery: Protactinium
-Commons_category: Protactinium
-Unicode_character: 鏷
-time_of_discovery_or_invention: "1917"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg"
-canonical_SMILES: '[Pa]'
-UNII: 0S6855V29M
-Dewey_Decimal_Classification:
-- 546.423
-- 669.2924
-EC_number: 616-087-9
-CAS_Registry_Number: 7440-13-3
 MeSH_tree_code:
 - D01.268.271.100.725
 - D01.268.556.750
 - D01.496.749.305.100.725
 - D01.552.020.778
 - D01.552.544.750
-DSSTOX_compound_identifier: DTXCID50147878
-InChI: InChI=1S/Pa
-InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
+named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
+OmegaWiki_Defined_Meaning: 345414
+part_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav"
+PubChem_CID: 23945
+SpocWebEntityId: 21986
+time_of_discovery_or_invention: 1917
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]'
+type: Element
+UMLS_CUI: C0033597
+Unicode_character: 鏷
+UNII: 0S6855V29M
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 

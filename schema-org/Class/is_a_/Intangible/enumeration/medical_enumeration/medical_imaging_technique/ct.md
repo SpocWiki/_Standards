@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_ct Class
-linkTitle: is_a_ct Class
-
-keywords: [ct]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalImagingTechnique
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ct
 - ct
 - CT
 - is_a_ct
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalImagingTechnique
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ct
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_ct Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_ct Class"
+type: Type
 ---
 
 Class of all cts.

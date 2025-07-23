@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_percutaneous_procedure Class
-linkTitle: is_a_percutaneous_procedure Class
-
-keywords: [percutaneous_procedure]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalProcedureType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - percutaneous-procedure
 - percutaneous_procedure
 - PercutaneousProcedure
 - is_a_percutaneous_procedure
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalProcedureType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- percutaneous_procedure
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_percutaneous_procedure Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_percutaneous_procedure Class"
+type: Type
 ---
 
 Class of all percutaneous_procedures.

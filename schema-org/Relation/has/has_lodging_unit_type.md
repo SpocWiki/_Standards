@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_lodging_unit_type
-
-linkTitle: has_lodging_unit_type
-keywords: [lodging, unit, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - lodging-unit-type
 - lodging_unit_type
 - lodgingUnitType
 - has_lodging_unit_type
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lodging
+- unit
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_lodging_unit_type
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_lodging_unit_type
+type: Predi_Relation
 ---
 
 Use it like this: 

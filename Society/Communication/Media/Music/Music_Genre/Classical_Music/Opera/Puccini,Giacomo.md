@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Giacomo Puccini
-  - Puccini,Giacomo
+- "Giacomo Puccini"
+- Puccini,Giacomo
 ---
 
 #has_/time_/started :: 1858-12-22 

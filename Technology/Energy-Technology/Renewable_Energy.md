@@ -1,27 +1,27 @@
----
-has_id_wikidata: Q12705
+﻿---
 aliases:
 - "Renewable energy"
-part_of: '[[_Standards/WikiData/WD~sustainability,219416]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~renewable_resource,1138571]]"
-- "[[_Standards/WikiData/WD~energy_source,1522115]]"
-opposite_of: "[[_Standards/WikiData/WD~nonrenewable_energy,2632167]]"
+Commons_category: "Renewable energy"
+described_by_source: '[[_Standards/WikiData/WD~Solar_Wind_Energy_Input__The_Primary_Control_Factor_of_Magnetotail_Reconnection_Site,114650413]]'
 different_from:
-- "[[_Standards/WikiData/WD~alternative_energy,4202245]]"
-- "[[_Standards/WikiData/WD~renewable_energy_source,119080683]]"
+- '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
+- '[[_Standards/WikiData/WD~renewable_energy_source,119080683]]'
+GitHub_topic: renewable-energy
+has_id_wikidata: Q12705
 IEV_number: 617-04-11
 IPTC_NewsCode: mediatopic/20000436
-subreddit: RenewableEnergy
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-relates_to_sustainable_development_goal_target_or_indicator: "[[_Standards/WikiData/WD~Target_7.2_of_the_Sustainable_Development_Goals,57590808]]"
-described_by_source: "[[_Standards/WikiData/WD~Solar_Wind_Energy_Input__The_Primary_Control_Factor_of_Magnetotail_Reconnection_Site,114650413]]"
-studied_in: "[[_Standards/WikiData/WD~renewable_energy_science,120411401]]"
 MeSH_tree_code: N06.230.132.644
-replaces: "[[_Standards/WikiData/WD~fossil_fuel,12748]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+opposite_of: '[[_Standards/WikiData/WD~nonrenewable_energy,2632167]]'
+part_of: '[[_Standards/WikiData/WD~sustainability,219416]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_7.2_of_the_Sustainable_Development_Goals,57590808]]'
+replaces: '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
 social_media_followers: 116760
-Commons_category: "Renewable energy"
-GitHub_topic: renewable-energy
+studied_in: '[[_Standards/WikiData/WD~renewable_energy_science,120411401]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~renewable_resource,1138571]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115]]'
+subreddit: RenewableEnergy
 ---
 
 ## #has_/text_of_/abstract 

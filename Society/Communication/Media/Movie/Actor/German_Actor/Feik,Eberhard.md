@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Eberhard Feik
+- "Eberhard Feik"
 ---
 
 # [[Feik,Eberhard]]

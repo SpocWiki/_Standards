@@ -1,56 +1,56 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ComicIssue
-  - class/Thing/CreativeWork/PublicationIssue/ComicIssue
-  - is_a_/ComicIssue
-  - schema-org/ComicIssue
-tags:
-  - class/FileClass
-  - class/ComicIssue
-  - is_a_/ComicIssue
-  - class/Thing/CreativeWork/PublicationIssue/ComicIssue
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue
 fields:
-  - id: buRbJR
-    name: Artist
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: z5G6PR
-    name: Colorist
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: FWJUb2
-    name: Inker
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: bvWjk9
-    name: Letterer
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: g7AXsr
-    name: Penciler
-    options:
-      dvQueryString: dv.pages('#class/Thing/Person')
-    type: MultiFile
-    path: ""
-  - id: XXNqOh
-    name: VariantCover
-    options: {}
-    type: Input
-    path: ""
+- id: buRbJR
+  name: Artist
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: z5G6PR
+  name: Colorist
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: FWJUb2
+  name: Inker
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: bvWjk9
+  name: Letterer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: g7AXsr
+  name: Penciler
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Person')"
+  type: MultiFile
+  path: ''
+- id: XXNqOh
+  name: VariantCover
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ComicIssue
+- class/Thing/CreativeWork/PublicationIssue/ComicIssue
+- is_a_/ComicIssue
+- schema-org/ComicIssue
+tags:
+- class/FileClass
+- class/ComicIssue
+- is_a_/ComicIssue
+- class/Thing/CreativeWork/PublicationIssue/ComicIssue
+version: 2.0
 ---
 
 # ComicIssue

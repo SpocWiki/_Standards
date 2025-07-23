@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_geo-radius
-linkTitle: has_geo-radius
-
-keywords: [geo-radius]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - geo_radius
 - geo-radius
 - geoRadius
 - has_value_for_geo_radius_in_meters
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- geo-radius
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_geo-radius
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_geo-radius
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of GeoCircle.

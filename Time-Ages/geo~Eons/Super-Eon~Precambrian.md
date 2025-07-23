@@ -1,28 +1,29 @@
----
-has_id_wikidata: Q103910
+﻿---
 aliases:
-  - Precambrian
-  - Прекамбрий
-  - Prekambrium
-  - Prækambrium
-  - Präkambrium
-  - Precámbrico
-  - Prekambrium
-  - Prekambri
-  - Précambrien
-  - prekambrium
-  - precambriano
-  - 先カンブリア時代
-  - Prekambras
-  - Precambrium
-  - Prekambrium
-  - Prekambr
-  - Precâmbrico
-  - prekambrium
-  - predkambrij
-  - prekambrium
-  - 前寒武纪
+- Precambrian
+- Прекамбрий
+- Prekambrium
+- Prækambrium
+- Präkambrium
+- Precámbrico
+- Prekambrium
+- Prekambri
+- Précambrien
+- prekambrium
+- precambriano
+- 先カンブリア時代
+- Prekambras
+- Precambrium
+- Prekambrium
+- Prekambr
+- Precâmbrico
+- prekambrium
+- predkambrij
+- prekambrium
+- 前寒武纪
+has_id_wikidata: Q103910
 ---
+
 # [[Super-Eon~Precambrian]] 
 
 #has_/time_/started :: 4567.0e6 

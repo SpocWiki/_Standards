@@ -192,13 +192,13 @@ demonym:
   - Saudec
   - Saudijka
   - Saudka
-- "orang Arab Saudi"
+  - "orang Arab Saudi"
   - سعودي
   - سعودية
   - سعوديون
   - saudita
   - সৌদি
-- "সৌদি আরবীয়"
+  - "সৌদি আরবীয়"
   - saudita
   - Saud-Arabiano
   - Saoudien
@@ -220,7 +220,7 @@ demonym:
   - saudie
   - saudii
   - saudio
-- "Saudi Arabian"
+  - "Saudi Arabian"
   - Saudi
 UMLS_CUI: C0036243
 described_at_URL: "http://68k.news/index.php?section=nation&loc=SA&lang=AR"
@@ -231,7 +231,7 @@ native_label:
 - "Arab Saudi"
 - "Saudi Arabia"
 - "المملكة العربية السعودية"
-  - السعودية
+- السعودية
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Egypt,79]]'
@@ -330,7 +330,7 @@ MeSH_tree_code: Z01.252.245.500.750
 official_name:
 - "الْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُودِيَّة"
 - "المملكة العربية السعودية"
-  - السعودية
+- السعودية
 short_name: "\U0001F1F8\U0001F1E6"
 Dewey_Decimal_Classification: 2--538
 ISO_3166_1_alpha_2_code: SA
@@ -417,7 +417,7 @@ aliases:
 - "Arabia Saudita"
 - "Arabie saoudite"
 - "المملكة العربية السعودية"
-    - 沙特阿拉伯
+- 沙特阿拉伯
 - "Саудовская Аравия"
 - "the Kingdom of Saudi Arabia"
 - "el Reino de la Arabia Saudita"

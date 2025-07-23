@@ -1,28 +1,27 @@
----
-has_id_wikidata: Q103924
+﻿---
 aliases:
-  - Neogene
-  - пеоген
-  - Neogén
-  - Neogen
-  - Neogen
-  - Neógeno
-  - Neogeen
-  - Neogeeni
-  - Néogène
-  - neogén
-  - neogene
-  - 新第三紀
-  - Neogenas
-  - Neogeen
-  - Neogen
-  - Neogen
-  - Neogénico
-  - neogén
-  - neogen
-  - neogen
-  - 晚第三纪
-  
+- Neogene
+- пеоген
+- Neogén
+- Neogen
+- Neogen
+- Neógeno
+- Neogeen
+- Neogeeni
+- Néogène
+- neogén
+- neogene
+- 新第三紀
+- Neogenas
+- Neogeen
+- Neogen
+- Neogen
+- Neogénico
+- neogén
+- neogen
+- neogen
+- 晚第三纪
+has_id_wikidata: Q103924
 ---
 
 # [[Period~2~Neogene]] 

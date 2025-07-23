@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Water splitting
-  - Electrolysis of water
-  - Water_splitting 
+- "Water splitting"
+- "Electrolysis of water"
+- Water_splitting
 ---
 
 ## Challenges 

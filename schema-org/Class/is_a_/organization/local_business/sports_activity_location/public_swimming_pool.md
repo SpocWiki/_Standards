@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_public_swimming_pool Class
-linkTitle: is_a_public_swimming_pool Class
-
-keywords: [public_swimming_pool]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - public-swimming-pool
 - public_swimming_pool
 - PublicSwimmingPool
 - is_a_public_swimming_pool
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- public_swimming_pool
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_public_swimming_pool Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_public_swimming_pool Class"
+type: Type
 ---
 
 Class of all public_swimming_pools.

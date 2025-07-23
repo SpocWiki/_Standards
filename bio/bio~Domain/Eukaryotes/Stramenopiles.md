@@ -1,8 +1,8 @@
----
-title: Stramenopiles
+﻿---
 aliases:
-  - Stramenopiles
-  - heterokonts
+- Stramenopiles
+- heterokonts
+title: Stramenopiles
 ---
 
 # [[Stramenopiles]] 

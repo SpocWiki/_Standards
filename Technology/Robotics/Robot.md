@@ -1,35 +1,35 @@
----
+﻿---
+Baidu_Tieba_name: 机器人
+Commons_category: Robots
+Commons_gallery: Robot
+different_from: '[[_Standards/WikiData/WD~Wikimedia_bot,108702521]]'
+hashtag: robot
+has_characteristic:
+- '[[_Standards/WikiData/WD~automation,184199]]'
+- '[[_Standards/WikiData/WD~robot_control,7353385]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence,11660]]'
 has_id_wikidata: Q11012
 has_part_s_:
 - '[[_Standards/WikiData/WD~sensor,167676]]'
 - '[[_Standards/WikiData/WD~actuator,423488]]'
-- "[[_Standards/WikiData/WD~energy_source,1522115]]"
+- '[[_Standards/WikiData/WD~energy_source,1522115]]'
 - '[[_Standards/WikiData/WD~computer,68]]'
-studied_in: '[[_Standards/WikiData/WD~robotics,170978]]'
-has_characteristic:
-- '[[_Standards/WikiData/WD~automation,184199]]'
-- "[[_Standards/WikiData/WD~robot_control,7353385]]"
-- "[[_Standards/WikiData/WD~artificial_intelligence,11660]]"
-named_by: "[[_Standards/WikiData/WD~Josef_Čapek,454568]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_robot,3579032]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_robots,4177396]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~artificially_intelligent_entity,107307291]]"
-- '[[_Standards/WikiData/WD~machine,11019]]'
-different_from: "[[_Standards/WikiData/WD~Wikimedia_bot,108702521]]"
-Baidu_Tieba_name: 机器人
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla-optimus-bot-gen-2-scaled%20%28cropped%29.jpg"
-Nomenclature_for_Museum_Cataloging: 10471
+history_of_topic: '[[_Standards/WikiData/WD~history_of_robots,4177396]]'
 Iconclass_notation: 47D6911
-hashtag: robot
-subreddit: robots
-Commons_category: Robots
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4hroboter%20GARDENA%20R70Li.webm"
 IEV_number: 171-09-25
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla-optimus-bot-gen-2-scaled%20%28cropped%29.jpg"
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ROBOT.html
-Commons_gallery: Robot
-Unicode_character: 🤖 
-time_of_earliest_written_record: "1920"
+named_by: '[[_Standards/WikiData/WD~Josef_Čapek,454568]]'
+Nomenclature_for_Museum_Cataloging: 10471
+studied_in: '[[_Standards/WikiData/WD~robotics,170978]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~artificially_intelligent_entity,107307291]]'
+- '[[_Standards/WikiData/WD~machine,11019]]'
+subreddit: robots
+time_of_earliest_written_record: 1920
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_robot,3579032]]'
+Unicode_character: "\U0001F916"
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4hroboter%20GARDENA%20R70Li.webm"
 ---
 
 ## #has_/text_of_/abstract 

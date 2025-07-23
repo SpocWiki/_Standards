@@ -1,34 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_fees_and_commissions_specification
-linkTitle: has_text_of_fees_and_commissions_specification
-
-keywords: [fees, and, commissions, specification]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - fees-and-commissions-specification
 - fees_and_commissions_specification
 - feesAndCommissionsSpecification
 - has_text_of_fees_and_commissions_specification
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- fees
+- and
+- commissions
+- specification
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_fees_and_commissions_specification
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_fees_and_commissions_specification
+type: Pred_Text
 ---
 
 Predicate to describe the Text of FinancialProduct, FinancialService.

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_weapon_consideration Class
-linkTitle: is_a_weapon_consideration Class
-
-keywords: [weapon_consideration]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: AdultOrientedEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - weapon-consideration
 - weapon_consideration
 - WeaponConsideration
 - is_a_weapon_consideration
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: AdultOrientedEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- weapon_consideration
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_weapon_consideration Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_weapon_consideration Class"
+type: Type
 ---
 
 Class of all weapon_considerations.

@@ -1,38 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_dermatology Class
-linkTitle: is_a_dermatology Class
-
-keywords: [dermatology]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-supersedes: Dermatologic
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - dermatology
 - dermatology
 - Dermatology
 - is_a_dermatology
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dermatology
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_dermatology Class"
+publish: true
+publishDate: 
+supersedes: Dermatologic
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_dermatology Class"
+type: Type
 ---
 
 Class of all dermatologys.

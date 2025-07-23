@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_checkins Class
-linkTitle: is_a_user_checkins Class
-
-keywords: [user_checkins]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-checkins
 - user_checkins
 - UserCheckins
 - is_a_user_checkins
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_checkins
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_checkins Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_checkins Class"
+type: Type
 ---
 
 Class of all [[user_checkins]]-Counters.

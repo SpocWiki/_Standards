@@ -1,38 +1,38 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BankAccount
-  - class/Thing/Intangible/Service/FinancialProduct/BankAccount
-  - is_a_/BankAccount
-  - schema-org/BankAccount
-tags:
-  - class/FileClass
-  - class/BankAccount
-  - is_a_/BankAccount
-  - class/Thing/Intangible/Service/FinancialProduct/BankAccount
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields:
-  - id: WsHSZc
-    name: AccountMinimumInflow
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: FudxOZ
-    name: AccountOverdraftLimit
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: 0f0SOQ
-    name: BankAccountType
-    options: {}
-    type: Input
-    path: ""
+- id: WsHSZc
+  name: AccountMinimumInflow
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: FudxOZ
+  name: AccountOverdraftLimit
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: 0f0SOQ
+  name: BankAccountType
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BankAccount
+- class/Thing/Intangible/Service/FinancialProduct/BankAccount
+- is_a_/BankAccount
+- schema-org/BankAccount
+tags:
+- class/FileClass
+- class/BankAccount
+- is_a_/BankAccount
+- class/Thing/Intangible/Service/FinancialProduct/BankAccount
+version: 2.0
 ---
 
 # BankAccount

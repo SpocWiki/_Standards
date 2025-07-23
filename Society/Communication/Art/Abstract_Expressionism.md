@@ -1,12 +1,12 @@
----
+﻿---
 aliases: 
+Commons_category: "Abstract expressionism"
 has_id_wikidata: Q177725
-subclass_of: "[[_Standards/WikiData/WD~abstract_art,128115]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~painting_movement,3326867]]"
-P8189: "987007292961305171"
-Commons_category: Abstract expressionism
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~painting_movement,3326867]]'
+P8189: 987007292961305171
+subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 ---
 
 # [[Abstract_Expressionism]] 

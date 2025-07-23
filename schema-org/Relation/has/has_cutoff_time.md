@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_cutoff_time
-
-linkTitle: has_cutoff_time
-keywords: [cutoff, time]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - cutoff-time
 - cutoff_time
 - cutoffTime
 - has_cutoff_time
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cutoff
+- time
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_cutoff_time
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_cutoff_time
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

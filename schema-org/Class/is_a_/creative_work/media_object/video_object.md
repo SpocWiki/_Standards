@@ -1,60 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_video_object Class
-linkTitle: is_a_video_object Class
-keywords:
-  - video_object
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
-tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - video-object
-  - video_object
-  - VideoObject
-  - is_a_video_object
-  - schema:VideoObject
-  - dbo:Video
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_video_object Class
-linkTitle: is_a_video_object Class
-
-keywords: [video_object]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - video-object
 - video_object
 - VideoObject
 - is_a_video_object
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- video_object
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_video_object Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_video_object Class"
+type: Type
 ---
 
 Class of all video_objects.

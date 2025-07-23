@@ -1,10 +1,8 @@
----
+﻿---
 aliases:
-  - Number theory
-  - Number-theory
+- "Number theory"
+- Number-theory
 ---
-
-
 
 ## #has_/text_of_/abstract 
 

@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_job_benefits
-linkTitle: has_text_of_job_benefits
-
-keywords: [job, benefits]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: benefits
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - job-benefits
 - job_benefits
 - jobBenefits
 - has_text_of_job_benefits
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- job
+- benefits
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_job_benefits
+publish: true
+publishDate: 
+supersedes: benefits
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_job_benefits
+type: Pred_Text
 ---
 
 Predicate to describe the Text of JobPosting.

@@ -1,36 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_action_option
-linkTitle: has_text_of_action_option
-
-keywords: [action, option]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: option
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - action-option
 - action_option
 - actionOption
 - has_text_of_action_option
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- action
+- option
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_action_option
+publish: true
+publishDate: 
+supersedes: option
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_action_option
+type: Pred_Text
 ---
 
 Predicate to describe the Text of ChooseAction.

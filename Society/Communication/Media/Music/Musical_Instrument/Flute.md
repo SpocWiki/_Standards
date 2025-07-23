@@ -1,36 +1,36 @@
----
-has_id_wikidata: Q11405
-subclass_of:
-- "[[_Standards/WikiData/WD~wind_instrument,173453]]"
-- "[[_Standards/WikiData/WD~woodwind_instrument,181247]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_list: "[[_Standards/WikiData/WD~list_of_musical_instruments_by_Hornbostel_Sachs_number__421,5337632]]"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fluiers.jpg"
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Flute.ogg"
+﻿---
 Amazon_com_browse_node:
 - 11972061
 - 11969561
-Krugosvet_article: kultura_i_obrazovanie/muzyka/FLETA.html
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Flute.ogg"
 Colon_Classification: NR;22
-Unicode_character: 🪈 
-used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-earliest_date: "-35000"
+Commons_category: Flutes
+described_at_URL: "http://www.mimo-db.eu/HornbostelAndSachs/247"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+earliest_date: -35000
+has_id_wikidata: Q11405
+has_list: '[[_Standards/WikiData/WD~list_of_musical_instruments_by_Hornbostel_Sachs_number__421,5337632]]'
 Hornbostel_Sachs_classification: 421
-Nomenclature_for_Museum_Cataloging: 7358
 Iconclass_notation: 48C7351
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fluiers.jpg"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Krugosvet_article: kultura_i_obrazovanie/muzyka/FLETA.html
+Nomenclature_for_Museum_Cataloging: 7358
 OmegaWiki_Defined_Meaning: 344824
 playing_range_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Range%20flute.png"
-described_at_URL: "http://www.mimo-db.eu/HornbostelAndSachs/247"
-Commons_category: Flutes
+subclass_of:
+- '[[_Standards/WikiData/WD~wind_instrument,173453]]'
+- '[[_Standards/WikiData/WD~woodwind_instrument,181247]]'
+Unicode_character: "\U0001FA88"
+used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
 ---
 
 ## #has_/text_of_/abstract 

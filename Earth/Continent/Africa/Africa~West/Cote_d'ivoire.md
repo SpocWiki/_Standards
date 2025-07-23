@@ -54,7 +54,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Fromager,818774]]'
 - "[[_Standards/WikiData/WD~Dix-Huit_Montagnes,820486]]"
 - "[[_Standards/WikiData/WD~Marahoué_Region,839083]]"
-  - "[[_Standards/WikiData/WD~N'zi-Comoé,842491]]"
+- "[[_Standards/WikiData/WD~N'zi-Comoé,842491]]"
 - '[[_Standards/WikiData/WD~Sud-Comoé,842495]]'
 - '[[_Standards/WikiData/WD~Moyen-Cavally,842499]]'
 - "[[_Standards/WikiData/WD~Lacs_Region,845706]]"
@@ -213,7 +213,7 @@ demonym:
   - marfileño
   - Ivoirien
   - Ivoirienne
-- "מחוף השנהב"
+  - "מחוף השנהב"
   - elefántcsontparti
   - ivoriana
   - ivoriane

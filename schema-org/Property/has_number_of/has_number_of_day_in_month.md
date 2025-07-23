@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_by_month_day
-linkTitle: has_number_of_by_month_day
-
-keywords: [by_month_day]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - by-month-day
 - by_month_day
 - byMonthDay
 - has_number_of_day_in_month
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- by_month_day
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_by_month_day
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_by_month_day
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Schedule.

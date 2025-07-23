@@ -1,26 +1,7 @@
----
-has_id_wikidata: Q11081
-named_after: "[[_Standards/WikiData/WD~Alois_Alzheimer,70530]]"
-symptoms_and_signs:
-- '[[_Standards/WikiData/WD~dementia,83030]]'
-- "[[_Standards/WikiData/WD~confusion_with_time_and_space,30141302]]"
-- "[[_Standards/WikiData/WD~challenges_in_planning_or_solving_problems,30141343]]"
-- "[[_Standards/WikiData/WD~difficulty_completing_familiar_tasks_at_home,_at_work_or_at_leisure,30141359]]"
-- "[[_Standards/WikiData/WD~problems_with_words_in_speaking_or_writing,30141385]]"
-- "[[_Standards/WikiData/WD~decreased_or_poor_judgment,30141399]]"
-- "[[_Standards/WikiData/WD~changes_in_mood_and_personality,30141414]]"
-- "[[_Standards/WikiData/WD~withdrawal_from_work_or_social_activities,30141432]]"
-- "[[_Standards/WikiData/WD~trouble_understanding_visual_images_and_spatial_relationships,30141517]]"
-- "[[_Standards/WikiData/WD~misplacing_things_and_losing_the_ability_to_retrace_steps,30141588]]"
-- "[[_Standards/WikiData/WD~memory_loss_that_disrupts_daily_life,30141616]]"
-health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
-medical_examination:
-- "[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]"
-- "[[_Standards/WikiData/WD~medical_history,188952]]"
-- "[[_Standards/WikiData/WD~genetic_testing,285223]]"
-- "[[_Standards/WikiData/WD~psychological_test,873512]]"
-- "[[_Standards/WikiData/WD~neurological_diagnostic_techniques,64830627]]"
-different_from: "[[_Standards/WikiData/WD~Asperger_syndrome,161790]]"
+﻿---
+Commons_category: "Alzheimer's disease"
+different_from: '[[_Standards/WikiData/WD~Asperger_syndrome,161790]]'
+DiseasesDB: 490
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~quetiapine,408535]]'
 - '[[_Standards/WikiData/WD~aripiprazole,411188]]'
@@ -30,12 +11,9 @@ drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~galantamine,412690]]'
 - '[[_Standards/WikiData/WD~donepezil,415081]]'
 - '[[_Standards/WikiData/WD~pyritinol,416361]]'
-possible_treatment:
-- '[[_Standards/WikiData/WD~physostigmine,410595]]'
-- '[[_Standards/WikiData/WD~rivastigmine,411887]]'
-- '[[_Standards/WikiData/WD~memantine,412189]]'
-- '[[_Standards/WikiData/WD~galantamine,412690]]'
-- '[[_Standards/WikiData/WD~donepezil,415081]]'
+exact_match:
+- "http://identifiers.org/doid/DOID:10652"
+- "http://purl.obolibrary.org/obo/DOID_10652"
 genetic_association:
 - '[[_Standards/WikiData/WD~RELN,414043]]'
 - '[[_Standards/WikiData/WD~STK11,2745322]]'
@@ -125,49 +103,71 @@ genetic_association:
 - '[[_Standards/WikiData/WD~POLN,18055896]]'
 - '[[_Standards/WikiData/WD~SLC8A1-AS1,18062755]]'
 - '[[_Standards/WikiData/WD~PPIAP59,20787111]]'
-subclass_of:
-- "[[_Standards/WikiData/WD~aging-associated_disease,438962]]"
-- '[[_Standards/WikiData/WD~tauopathy,2397106]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-UMLS_CUI: C0002395
+has_cause: '[[_Standards/WikiData/WD~unknown,24238356]]'
+has_id_wikidata: Q11081
+health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
+ICD_10_CM:
+- G30.9
+- G30
+ICD_9_CM:
+- 290.1
+- 331.0
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20D%20aus%20Marktbreit.jpg"
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+Krugosvet_article: medicina/ALTSGEMERA_BOLEZN.html
+Libris_URI: nl025r261zzdcw3
+medical_examination:
+- '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
+- '[[_Standards/WikiData/WD~medical_history,188952]]'
+- '[[_Standards/WikiData/WD~genetic_testing,285223]]'
+- '[[_Standards/WikiData/WD~psychological_test,873512]]'
+- '[[_Standards/WikiData/WD~neurological_diagnostic_techniques,64830627]]'
 MeSH_tree_code:
 - C10.228.140.380.100
 - C10.574.945.249
 - F03.615.400.100
-ICD_10_CM:
-- G30.9
-- G30
-Krugosvet_article: medicina/ALTSGEMERA_BOLEZN.html
-has_cause: '[[_Standards/WikiData/WD~unknown,24238356]]'
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D6%81%D5%B0%D5%A1%D5%B5%D5%B4%D5%A5%D6%80%D5%AB%20%D5%B0%D5%AB%D5%BE%D5%A1%D5%B6%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Alzheimer%27s%20disease%29.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20Disease.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ziekte%20van%20Alzheimer-article.ogg"
-Libris_URI: nl025r261zzdcw3
+named_after: '[[_Standards/WikiData/WD~Alois_Alzheimer,70530]]'
+OmegaWiki_Defined_Meaning: 802769
+on_focus_list_of_Wikimedia_project:
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+possible_treatment:
+- '[[_Standards/WikiData/WD~physostigmine,410595]]'
+- '[[_Standards/WikiData/WD~rivastigmine,411887]]'
+- '[[_Standards/WikiData/WD~memantine,412189]]'
+- '[[_Standards/WikiData/WD~galantamine,412690]]'
+- '[[_Standards/WikiData/WD~donepezil,415081]]'
 prevalence: 0.0505
-DiseasesDB: 490
-social_media_followers: 12071
-Commons_category: "Alzheimer's disease"
-ICD_9_CM:
-- 290.1
-- 331.0
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%B2%E0%AC%9C%E0%AC%BF%E0%AC%AE%E0%AC%B0%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav"
 schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20disease%20brain%20comparison-ar.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20disease%20brain%20comparison-zh.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20disease%20brain%20comparison.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Cerebro%20corte%20frontal%20Alzheimer.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/ChAlzheimera-obraz-m%C3%B3zguPL.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20D%20aus%20Marktbreit.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%86%E0%AC%B2%E0%AC%9C%E0%AC%BF%E0%AC%AE%E0%AC%B0%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav"
-exact_match:
-- "http://identifiers.org/doid/DOID:10652"
-- "http://purl.obolibrary.org/obo/DOID_10652"
-OmegaWiki_Defined_Meaning: 802769
+social_media_followers: 12071
+spoken_text_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D6%81%D5%B0%D5%A1%D5%B5%D5%B4%D5%A5%D6%80%D5%AB%20%D5%B0%D5%AB%D5%BE%D5%A1%D5%B6%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Alzheimer%27s%20disease%29.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20Disease.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ziekte%20van%20Alzheimer-article.ogg"
+subclass_of:
+- '[[_Standards/WikiData/WD~aging-associated_disease,438962]]'
+- '[[_Standards/WikiData/WD~tauopathy,2397106]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 subreddit: Alzheimers
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~dementia,83030]]'
+- '[[_Standards/WikiData/WD~confusion_with_time_and_space,30141302]]'
+- '[[_Standards/WikiData/WD~challenges_in_planning_or_solving_problems,30141343]]'
+- '[[_Standards/WikiData/WD~difficulty_completing_familiar_tasks_at_home,_at_work_or_at_leisure,30141359]]'
+- '[[_Standards/WikiData/WD~problems_with_words_in_speaking_or_writing,30141385]]'
+- '[[_Standards/WikiData/WD~decreased_or_poor_judgment,30141399]]'
+- '[[_Standards/WikiData/WD~changes_in_mood_and_personality,30141414]]'
+- '[[_Standards/WikiData/WD~withdrawal_from_work_or_social_activities,30141432]]'
+- '[[_Standards/WikiData/WD~trouble_understanding_visual_images_and_spatial_relationships,30141517]]'
+- '[[_Standards/WikiData/WD~misplacing_things_and_losing_the_ability_to_retrace_steps,30141588]]'
+- '[[_Standards/WikiData/WD~memory_loss_that_disrupts_daily_life,30141616]]'
+UMLS_CUI: C0002395
 ---
 
 ## #has_/text_of_/abstract 

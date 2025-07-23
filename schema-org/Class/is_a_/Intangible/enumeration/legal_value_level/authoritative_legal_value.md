@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_authoritative_legal_value Class
-linkTitle: is_an_authoritative_legal_value Class
-
-keywords: [authoritative_legal_value]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: LegalValueLevel
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - authoritative-legal-value
 - authoritative_legal_value
 - AuthoritativeLegalValue
 - is_an_authoritative_legal_value
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: LegalValueLevel
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- authoritative_legal_value
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_authoritative_legal_value Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_authoritative_legal_value Class"
+type: Type
 ---
 
 Class of all authoritative_legal_values.

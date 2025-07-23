@@ -1,37 +1,37 @@
----
-location:
-  - 60.1481
-  - 20.3741
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 76728
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Åland Islands
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
 aliases:
-  - Åland Islands
-  - Islas Åland
-  - Îles d'Åland
-  - جزر ألاند
-  - 奥兰群岛
-  - Аландские острова
-  - Aland islands
-  - Åland
+- "Åland Islands"
+- "Islas Åland"
+- "Îles d'Åland"
+- "جزر ألاند"
+- 奥兰群岛
+- "Аландские острова"
+- "Aland islands"
+- Åland
+confidential: public
+cssclasses:
+- Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
-  - sv-AX
+- sv-AX
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- 60.1481
+- 20.3741
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 76728
+tags:
+- geo/Country
+title: "Åland Islands"
+type: Country
 ---
 
 # [[Åland-Islands]] 

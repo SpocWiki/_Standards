@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/TVClip
-  - class/Thing/CreativeWork/Clip/TVClip
-  - is_a_/TVClip
-  - schema-org/TVClip
-tags:
-  - class/FileClass
-  - class/TVClip
-  - is_a_/TVClip
-  - class/Thing/CreativeWork/Clip/TVClip
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/TVClip
+- class/Thing/CreativeWork/Clip/TVClip
+- is_a_/TVClip
+- schema-org/TVClip
+tags:
+- class/FileClass
+- class/TVClip
+- is_a_/TVClip
+- class/Thing/CreativeWork/Clip/TVClip
+version: 2.0
 ---
 
 # TVClip

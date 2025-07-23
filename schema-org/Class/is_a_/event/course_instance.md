@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_course_instance Class
-linkTitle: is_a_course_instance Class
-
-keywords: [course_instance]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - course-instance
 - course_instance
 - CourseInstance
 - is_a_course_instance
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- course_instance
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_course_instance Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_course_instance Class"
+type: Type
 ---
 
 Class of all course_instances.

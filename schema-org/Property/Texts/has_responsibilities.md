@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_responsibilities
-linkTitle: has_text_of_responsibilities
-
-keywords: [responsibilities]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - responsibilities
 - responsibilities
 - responsibilities
 - has_text_of_responsibilities
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- responsibilities
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_responsibilities
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_responsibilities
+type: Pred_Text
 ---
 
 Predicate to describe the Text of JobPosting, Occupation.

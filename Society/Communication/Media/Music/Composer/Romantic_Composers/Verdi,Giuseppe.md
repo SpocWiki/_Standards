@@ -1,10 +1,9 @@
----
+﻿---
 aliases:
-  - Giuseppe Verdi
-  - Giuseppe Fortunino Francesco Verdi
+- "Giuseppe Verdi"
+- "Giuseppe Fortunino Francesco Verdi"
 has_id_wikidata: Q7317
 ---
-
 
 ## #has_/text_of_/abstract 
 

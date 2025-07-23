@@ -1,7 +1,8 @@
----
+﻿---
 aliases:
-  - GUID 
+- GUID
 ---
+
 # [[UUID]] 
 
 Better Alternatives are: 

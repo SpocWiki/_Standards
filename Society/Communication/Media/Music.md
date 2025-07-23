@@ -1,34 +1,33 @@
----
-has_id_wikidata: 638
-title: Music
-lang: en
-type: private_note
-keywords: Music
-linkTitle: Music
-has_Template: "[[Extract~Note~Template]]"
-license: (c)copyrighted
+﻿---
+aliases:
+- Music
 confidential: private
+cssclasses:
+- private
+- note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_id_wikidata: 638
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2025-07-19
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - private
-  - note
+keywords: Music
+lang: en
 layout: 
-draft: true
+license: (c)copyrighted
+linkTitle: Music
 publish: false
 publishDate: 
-expiryDate: 
-has_time_started: 2025-07-19
-aliases:
-  - Music
 tags:
-  - Music
-  - excalidraw
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-excalidraw-autoexport: svg
+- Music
+- excalidraw
+title: Music
+type: private_note
 ---
-
 
 # [[Music]] 
 

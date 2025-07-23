@@ -1,37 +1,36 @@
 ---
-type: Country
-tags:
-- geo/Country
-SpocWebEntityId: 26965
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses: Country
-publish: true
-title: Macau
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
 aliases:
 - Macau
-- China, Macao Special Administrative Region
-- China, región administrativa especial de Macao
-- Chine, région administrative spéciale de Macao
-- منطقة ماكاو الإدارية الخاصة التابعة للصين
+- "China, Macao Special Administrative Region"
+- "China, región administrativa especial de Macao"
+- "Chine, région administrative spéciale de Macao"
+- "منطقة ماكاو الإدارية الخاصة التابعة للصين"
 - 中国澳门特别行政区
-- Китай, Специальный административный район Макао
+- "Китай, Специальный административный район Макао"
 - 
+confidential: public
+cssclasses: Country
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - zh
 - zh-MO
 - pt
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
+publishDate: 
+source: "https://datahub.io/core/country-codes"
+SpocWebEntityId: 26965
+tags:
+- geo/Country
+title: Macau
+type: Country
 ---
-
 
 [	ISO4217-currency_alphabetic	 :: MOP ]
 [	ISO4217-currency_name	 :: Pataca ]

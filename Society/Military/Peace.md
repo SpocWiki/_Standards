@@ -1,37 +1,37 @@
----
-has_id_wikidata: Q454
-different_from: '[[_Standards/WikiData/WD~Mir,578668]]'
-subclass_of:
-- '[[_Standards/WikiData/WD~state,3505845]]'
-- '[[_Standards/WikiData/WD~absence,19829125]]'
+﻿---
+Commons_category: Peace
+Commons_gallery: Peace
 described_by_source:
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-studied_in: '[[_Standards/WikiData/WD~irenology,15141361]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q94701131,94701131]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q96077045,96077045]]'
-instance_of: "[[_Standards/WikiData/WD~type_of_value,129510955]]"
-Provenio_UUID: e50ca798-9971-4705-95da-0ff688e8d853
-Libris_URI: 1zcffr8k5m1hqvd
-does_not_have_characteristic: '[[_Standards/WikiData/WD~war,198]]'
-opposite_of: '[[_Standards/WikiData/WD~war,198]]'
-OmegaWiki_Defined_Meaning: 5838
-PhilPapers_topic: peace
-hashtag:
-- peace
-- мир
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/OpenMoji-color%20262E.svg"
-Unicode_character: ☮
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D9%84%D8%A7%D9%85.wav"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20dove.svg"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Dewey_Decimal_Classification:
 - 172.42
 - 201.7273
 - 303.66
-Commons_gallery: Peace
-Commons_category: Peace
+different_from: '[[_Standards/WikiData/WD~Mir,578668]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~war,198]]'
+hashtag:
+- peace
+- мир
+has_id_wikidata: Q454
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/OpenMoji-color%20262E.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20dove.svg"
+instance_of: '[[_Standards/WikiData/WD~type_of_value,129510955]]'
+Libris_URI: 1zcffr8k5m1hqvd
+OmegaWiki_Defined_Meaning: 5838
+opposite_of: '[[_Standards/WikiData/WD~war,198]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q94701131,94701131]]'
+PhilPapers_topic: peace
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D9%84%D8%A7%D9%85.wav"
+Provenio_UUID: e50ca798-9971-4705-95da-0ff688e8d853
+studied_in: '[[_Standards/WikiData/WD~irenology,15141361]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~absence,19829125]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q96077045,96077045]]'
+Unicode_character: ☮
 ---
 
 # [[Peace]] 

@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_name_of_character
-linkTitle: has_name_of_character
-
-keywords: [character, name]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - character-name
 - character_name
 - characterName
 - has_name_of_character
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- character
+- name
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_name_of_character
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_name_of_character
+type: Pred_Text
 ---
 
 Predicate to describe the Text of [[../../Class/is_a_/Intangible/role/performance_role|PerformanceRole]].

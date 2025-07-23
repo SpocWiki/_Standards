@@ -307,10 +307,10 @@ Gujarati_Vishwakosh_entry: ઇજિપ્ત
 native_label:
 - "جُمهورِيّةُ مِصرَ العَرَبيّةِ"
 - "Arab Republic of Egypt"
-  - Mesir
+- Mesir
 - "Republik Arab Mesir"
-  - Egypt
-  - مصر
+- Egypt
+- مصر
 official_name: "جُمهورِيّةُ مِصرَ العَرَبيّةِ"
 subreddit: Egypt
 hashtag: Egypt

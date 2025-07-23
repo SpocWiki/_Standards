@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_profile_page Class
-linkTitle: is_a_profile_page Class
-
-keywords: [profile_page]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - profile-page
 - profile_page
 - ProfilePage
 - is_a_profile_page
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- profile_page
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_profile_page Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_profile_page Class"
+type: Type
 ---
 
 Class of all profile_pages.

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_food_event
-
-linkTitle: has_food_event
-keywords: [food, event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - food-event
 - food_event
 - foodEvent
 - has_food_event
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- food
+- event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_food_event
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_food_event
+type: Predi_Relation
 ---
 
 Use it like this: 

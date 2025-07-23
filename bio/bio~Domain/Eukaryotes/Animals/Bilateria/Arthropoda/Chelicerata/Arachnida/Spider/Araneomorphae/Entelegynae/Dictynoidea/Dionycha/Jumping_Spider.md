@@ -1,8 +1,8 @@
----
-title: Salticidae
+﻿---
 aliases:
-  - Salticidae
-  - Jumping Spider
+- Salticidae
+- "Jumping Spider"
+title: Salticidae
 ---
 
 ## Phylogeny 

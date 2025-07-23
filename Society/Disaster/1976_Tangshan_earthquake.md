@@ -1,8 +1,8 @@
----
-has_id_wikidata: Q462195
+﻿---
 aliases:
-  - Great Tangshan earthquake
-  - 唐山大地震
+- "Great Tangshan earthquake"
+- 唐山大地震
+has_id_wikidata: Q462195
 ---
 
 # [[1976_Tangshan_earthquake]] 

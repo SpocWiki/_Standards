@@ -1,40 +1,40 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/CreativeWorkSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries
-  - is_a_/CreativeWorkSeries
-  - schema-org/CreativeWorkSeries
-tags:
-  - class/FileClass
-  - class/CreativeWorkSeries
-  - is_a_/CreativeWorkSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries
 fields:
-  - id: Gw5UKo
-    name: EndDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: FIDqEh
-    name: Issn
-    options: {}
-    type: Input
-    path: ""
-  - id: TUOLHf
-    name: StartDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
+- id: Gw5UKo
+  name: EndDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: FIDqEh
+  name: Issn
+  options: {}
+  type: Input
+  path: ''
+- id: TUOLHf
+  name: StartDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/CreativeWorkSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries
+- is_a_/CreativeWorkSeries
+- schema-org/CreativeWorkSeries
+tags:
+- class/FileClass
+- class/CreativeWorkSeries
+- is_a_/CreativeWorkSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries
+version: 2.0
 ---
 
 # CreativeWorkSeries

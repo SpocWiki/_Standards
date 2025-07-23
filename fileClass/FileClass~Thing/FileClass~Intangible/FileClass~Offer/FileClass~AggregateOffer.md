@@ -1,42 +1,42 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AggregateOffer
-  - class/Thing/Intangible/Offer/AggregateOffer
-  - is_an_/AggregateOffer
-  - schema-org/AggregateOffer
-tags:
-  - class/FileClass
-  - class/AggregateOffer
-  - "#is_an_/AggregateOffer"
-  - class/Thing/Intangible/Offer/AggregateOffer
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 fields:
-  - id: s5imOO
-    name: HighPrice
-    options: {}
-    type: Number
-    path: ""
-  - id: zFvWW5
-    name: LowPrice
-    options: {}
-    type: Number
-    path: ""
-  - id: cCJbji
-    name: OfferCount
-    options: {}
-    type: Number
-    path: ""
-  - id: ItrkP9
-    name: Offers
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
-    type: MultiFile
-    path: ""
+- id: s5imOO
+  name: HighPrice
+  options: {}
+  type: Number
+  path: ''
+- id: zFvWW5
+  name: LowPrice
+  options: {}
+  type: Number
+  path: ''
+- id: cCJbji
+  name: OfferCount
+  options: {}
+  type: Number
+  path: ''
+- id: ItrkP9
+  name: Offers
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Demand')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AggregateOffer
+- class/Thing/Intangible/Offer/AggregateOffer
+- is_an_/AggregateOffer
+- schema-org/AggregateOffer
+tags:
+- class/FileClass
+- class/AggregateOffer
+- '#is_an_/AggregateOffer'
+- class/Thing/Intangible/Offer/AggregateOffer
+version: 2.0
 ---
 
 # AggregateOffer

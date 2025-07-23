@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_house_painter Class
-linkTitle: is_a_house_painter Class
-
-keywords: [house_painter]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - house-painter
 - house_painter
 - HousePainter
 - is_a_house_painter
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- house_painter
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_house_painter Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_house_painter Class"
+type: Type
 ---
 
 Class of all house_painters.

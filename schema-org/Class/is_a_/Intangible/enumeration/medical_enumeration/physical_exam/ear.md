@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_ear Class
-linkTitle: is_an_ear Class
-
-keywords: [ear]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PhysicalExam
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ear
 - ear
 - Ear
 - is_an_ear
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PhysicalExam
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ear
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ear Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ear Class"
+type: Type
 ---
 
 Class of all ears.

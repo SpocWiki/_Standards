@@ -1,52 +1,52 @@
----
-has_id_wikidata: Q430
-Unicode_character: 🦕 
+﻿---
+Commons_category: Dinosauria
+Commons_gallery: Dinosauria
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from:
+- '[[_Standards/WikiData/WD~non-avian_dinosaur,82363570]]'
+- '[[_Standards/WikiData/WD~Dinosaurus,109923829]]'
 hashtag:
 - dinosaur
 - dinosaurs
+has_id_wikidata: Q430
+has_list: '[[_Standards/WikiData/WD~list_of_dinosaurs,718452]]'
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaur%20Rex%20and%20Triceratops.jpg"
-subreddit: Dinosaurs
-Commons_category: Dinosauria
-taxon_name: Dinosauria
-Commons_gallery: Dinosauria
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 instance_of:
 - '[[_Standards/WikiData/WD~clade,713623]]'
 - '[[_Standards/WikiData/WD~taxon,16521]]'
-has_list: "[[_Standards/WikiData/WD~list_of_dinosaurs,718452]]"
-taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_dinosaurs,7112607]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]'
-studied_in: "[[_Standards/WikiData/WD~dinosaur_paleontology,9054789]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Q50380956,50380956]]'
-parent_taxon: '[[_Standards/WikiData/WD~Dracohors,52798775]]'
-different_from:
-- "[[_Standards/WikiData/WD~non-avian_dinosaur,82363570]]"
-- '[[_Standards/WikiData/WD~Dinosaurus,109923829]]'
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~dinosaur_footprint,106165679]]"
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg"
-montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png"
-WordLift_URL: "http://data.thenextweb.com/tnw/entity/dinosaur"
-MeSH_tree_code: B01.050.150.900.833.150
-Wolfram_Language_entity_code: "Entity[\"Dinosaur\", \"Superorder:Dinosauria\"]"
 Krugosvet_article: nauka_i_tehnika/biologiya/DINOZAVRI.html
+MeSH_tree_code: B01.050.150.900.833.150
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png"
+OmegaWiki_Defined_Meaning: 636195
+parent_taxon: '[[_Standards/WikiData/WD~Dracohors,52798775]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Helias%20C.%20%28BiblioCanet66%29-dinosaure.wav"
+Provenio_UUID: 5d3d232b-127d-4984-a09d-65ccef85d2c3
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg"
+studied_in: '[[_Standards/WikiData/WD~dinosaur_paleontology,9054789]]'
+subreddit: Dinosaurs
 taxon_common_name:
 - ਡਾਇਨਾਸੌਰ
 - ڈائناسور
 - ڈائناسر
 - ڈائنوسار
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Helias%20C.%20%28BiblioCanet66%29-dinosaure.wav"
-Provenio_UUID: 5d3d232b-127d-4984-a09d-65ccef85d2c3
+taxon_name: Dinosauria
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~dinosaur_footprint,106165679]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q50380956,50380956]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]'
 UMLS_CUI: C0949681
-OmegaWiki_Defined_Meaning: 636195
+Unicode_character: "\U0001F995"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_dinosaurs,7112607]]'
+Wolfram_Language_entity_code: "Entity[\"Dinosaur\", \"Superorder:Dinosauria\"]"
 Wolfram_Language_entity_type: Dinosaur
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/dinosaur"
 ---
 
 ## #has_/text_of_/abstract 

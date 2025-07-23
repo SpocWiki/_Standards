@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_graphic_novel Class
-linkTitle: is_a_graphic_novel Class
-
-keywords: [graphic_novel]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: BookFormatType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - graphic-novel
 - graphic_novel
 - GraphicNovel
 - is_a_graphic_novel
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: BookFormatType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- graphic_novel
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_graphic_novel Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_graphic_novel Class"
+type: Type
 ---
 
 Class of all graphic_novels.

@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Dave Stewart
-  - David Allan Stewart
+- "Dave Stewart"
+- "David Allan Stewart"
 ---
 
 #is_/part_of :: [[../Eurythmics]] 

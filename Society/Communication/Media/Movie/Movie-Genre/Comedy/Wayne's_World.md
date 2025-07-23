@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Wayne's World
+- "Wayne's World"
 ---
 
 #has_/time_/started :: 1992-06 

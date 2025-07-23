@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Upper Palaeolithic
-  - Upper Paleolithic
-  - Jungpaläolithikum
+- "Upper Palaeolithic"
+- "Upper Paleolithic"
+- Jungpaläolithikum
 ---
 
 ﻿# [[Upper_Paleolithic]]

@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_application_sub_category
-linkTitle: has_text_of_application_sub_category
-
-keywords: [application, sub, category]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - application-sub-category
 - application_sub_category
 - applicationSubCategory
 - has_text_of_application_sub_category
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- application
+- sub
+- category
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_application_sub_category
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_application_sub_category
+type: Pred_Text
 ---
 
 Predicate to describe the Text of SoftwareApplication.

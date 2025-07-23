@@ -1,37 +1,37 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Joint
-  - class/Thing/MedicalEntity/AnatomicalStructure/Joint
-  - is_a_/Joint
-  - schema-org/Joint
-tags:
-  - class/FileClass
-  - class/Joint
-  - is_a_/Joint
-  - class/Thing/MedicalEntity/AnatomicalStructure/Joint
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields:
-  - id: lX4MG8
-    name: BiomechnicalClass
-    options: {}
-    type: Input
-    path: ""
-  - id: JJwgse
-    name: FunctionalClass
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
-  - id: 8L5ntQ
-    name: StructuralClass
-    options: {}
-    type: Input
-    path: ""
+- id: lX4MG8
+  name: BiomechnicalClass
+  options: {}
+  type: Input
+  path: ''
+- id: JJwgse
+  name: FunctionalClass
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+- id: 8L5ntQ
+  name: StructuralClass
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Joint
+- class/Thing/MedicalEntity/AnatomicalStructure/Joint
+- is_a_/Joint
+- schema-org/Joint
+tags:
+- class/FileClass
+- class/Joint
+- is_a_/Joint
+- class/Thing/MedicalEntity/AnatomicalStructure/Joint
+version: 2.0
 ---
 
 # Joint

@@ -1,34 +1,27 @@
----
-title: The_Night_does_not_belong_to_God
-lang: en
-type: private_note
-
-keywords: The_Night_does_not_belong_to_God
-linkTitle: The_Night_does_not_belong_to_God
-has_Template: "[[Extract~Note~Template]]" 
-
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
-
-# Obsidian well-known Keys
-cssclasses: private note
-layout: 
-draft: true
-publish: false
-publishDate:
-expiryDate: 
-has_time_started: 2024-08-04
-
-tags:
-- The_Night_does_not_belong_to_God
-- 
-
+﻿---
 aliases:
 - The_Night_does_not_belong_to_God
 - 
-
+confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2024-08-04
+isDeleted: false
+isReadOnly: false
+keywords: The_Night_does_not_belong_to_God
+lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: The_Night_does_not_belong_to_God
+publish: false
+publishDate: 
+tags:
+- The_Night_does_not_belong_to_God
+- 
+title: The_Night_does_not_belong_to_God
+type: private_note
 ---
 
 # [[The_Night_does_not_belong_to_God]] 

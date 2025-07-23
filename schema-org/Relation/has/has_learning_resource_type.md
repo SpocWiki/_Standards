@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_learning_resource_type
-
-linkTitle: has_learning_resource_type
-keywords: [learning, resource, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - learning-resource-type
 - learning_resource_type
 - learningResourceType
 - has_learning_resource_type
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- learning
+- resource
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_learning_resource_type
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_learning_resource_type
+type: Predi_Relation
 ---
 
 Use it like this: 

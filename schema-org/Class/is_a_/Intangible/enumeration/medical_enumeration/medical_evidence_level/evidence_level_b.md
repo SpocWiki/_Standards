@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_evidence_level_b Class
-linkTitle: is_an_evidence_level_b Class
-
-keywords: [evidence_level_b]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalEvidenceLevel
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - evidence-level-b
 - evidence_level_b
 - EvidenceLevelB
 - is_an_evidence_level_b
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalEvidenceLevel
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- evidence_level_b
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_evidence_level_b Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_evidence_level_b Class"
+type: Type
 ---
 
 Class of all evidence_level_bs.

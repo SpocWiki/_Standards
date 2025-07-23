@@ -1,28 +1,28 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- structured-value
+- structured_value
+- StructuredValue
+- is_a_structured_value
+- Structured_Values
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_structured_value Class
-linkTitle: is_a_structured_value Class
 keywords:
-  - structured_value
+- structured_value
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_structured_value Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - schema-org/Class
-aliases:
-  - structured-value
-  - structured_value
-  - StructuredValue
-  - is_a_structured_value
-  - Structured_Values
+- schema-org/Class
+title: "is_a_structured_value Class"
+type: Type
 ---
 
 Class of all structured_values.

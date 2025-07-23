@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ArriveAction
-  - class/Thing/Action/MoveAction/ArriveAction
-  - is_an_/ArriveAction
-  - schema-org/ArriveAction
-tags:
-  - class/FileClass
-  - class/ArriveAction
-  - "#is_an_/ArriveAction"
-  - class/Thing/Action/MoveAction/ArriveAction
 extends: FileClass~Thing/FileClass~Action/FileClass~MoveAction
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ArriveAction
+- class/Thing/Action/MoveAction/ArriveAction
+- is_an_/ArriveAction
+- schema-org/ArriveAction
+tags:
+- class/FileClass
+- class/ArriveAction
+- '#is_an_/ArriveAction'
+- class/Thing/Action/MoveAction/ArriveAction
+version: 2.0
 ---
 
 # ArriveAction

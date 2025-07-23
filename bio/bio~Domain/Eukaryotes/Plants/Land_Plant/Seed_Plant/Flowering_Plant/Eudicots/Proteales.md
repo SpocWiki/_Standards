@@ -1,7 +1,7 @@
----
-title: Proteales
+﻿---
 aliases:
-  - Proteales
+- Proteales
+title: Proteales
 ---
 
 ## Phylogeny 

@@ -1,34 +1,31 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_accepted_payment_method
-
-linkTitle: has_accepted_payment_method
-keywords: [accepted, payment, method]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - accepted-payment-method
 - accepted_payment_method
 - acceptedPaymentMethod
 - has_accepted_payment_method
-fileClass: [FileClass-Relation]
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+fileClass:
+- FileClass-Relation
+isDeleted: false
+isReadOnly: false
+keywords:
+- accepted
+- payment
+- method
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_accepted_payment_method
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_accepted_payment_method
+type: Predi_Relation
 ---
 
 Use it like this: 

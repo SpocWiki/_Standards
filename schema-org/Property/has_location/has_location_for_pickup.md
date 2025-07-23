@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
-publish: true
-
-# Hugo Tags
-type: Pred_geo
-
-title: has_location_for_pickup
-linkTitle: has_location_for_pickup
-
-keywords: [pickup_location]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/geo
-
+﻿---
 aliases:
 - pickup-location
 - pickup_location
 - pickupLocation
 - has_location_for_pickup
+confidential: public
+cssclasses: "Predicate geo"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- pickup_location
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_location_for_pickup
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/geo
+title: has_location_for_pickup
+type: Pred_geo
 ---
 
 Predicate to describe the geo of RentalCarReservation, TaxiReservation.

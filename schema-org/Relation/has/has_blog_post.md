@@ -1,35 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_blog_post
-
-linkTitle: has_blog_post
-keywords: [blog, post]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: blogPosts
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - blog-post
 - blog_post
 - blogPost
 - has_blog_post
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- blog
+- post
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_blog_post
+publish: true
+publishDate: 
+supersedes: blogPosts
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_blog_post
+type: Predi_Relation
 ---
 
 Use it like this: 

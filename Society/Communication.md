@@ -1,48 +1,48 @@
----
-has_id_wikidata: Q11024
+﻿---
+Commons_category: Communication
+Commons_gallery: Communication
 has_characteristic:
 - '[[_Standards/WikiData/WD~media,340169]]'
-- "[[_Standards/WikiData/WD~form_of_communication,38786485]]"
-part_of:
-- "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
-- "[[_Standards/WikiData/WD~social_process,2305441]]"
-instance_of:
-- "[[_Standards/WikiData/WD~social_behavior,921513]]"
-- "[[_Standards/WikiData/WD~social_skill,1413287]]"
-- "[[_Standards/WikiData/WD~type_of_process,116505632]]"
-- "[[_Standards/WikiData/WD~type_of_interaction,123345464]]"
+- '[[_Standards/WikiData/WD~form_of_communication,38786485]]'
+has_id_wikidata: Q11024
 has_part_s_:
-- "[[_Standards/WikiData/WD~human_communication,1066689]]"
-- "[[_Standards/WikiData/WD~animal_communication,1434121]]"
-studied_in:
-- "[[_Standards/WikiData/WD~sociology_of_communication,1396881]]"
-- '[[_Standards/WikiData/WD~educommunication,8772471]]'
-- "[[_Standards/WikiData/WD~communication_studies,11680831]]"
-- "[[_Standards/WikiData/WD~pragmatic_information_theory,59163546]]"
-- "[[_Standards/WikiData/WD~interaction_science,97008347]]"
-- "[[_Standards/WikiData/WD~communication_psychology,119146612]]"
-practiced_by:
-- "[[_Standards/WikiData/WD~communications_adviser,2557481]]"
-- "[[_Standards/WikiData/WD~communications_manager,2957754]]"
-- "[[_Standards/WikiData/WD~director_of_communications,5280566]]"
-- "[[_Standards/WikiData/WD~communications_consultant,62085571]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_communication,3633560]]"
-subclass_of: "[[_Standards/WikiData/WD~information_exchange,6031064]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_communication,7112587]]"
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Communication,22747357]]'
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Communications,112119612]]'
-used_by: "[[_Standards/WikiData/WD~mass_media,11033]]"
-OmegaWiki_Defined_Meaning: 677
-Commons_gallery: Communication
-Commons_category: Communication
-U_S_National_Archives_Identifier: 10638865
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Communication%20WV%20banner.jpg"
-Stack_Exchange_tag: "https://stackoverflow.com/tags/communication"
+- '[[_Standards/WikiData/WD~human_communication,1066689]]'
+- '[[_Standards/WikiData/WD~animal_communication,1434121]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_communication,3633560]]'
 IEV_number: 701-01-04
+instance_of:
+- '[[_Standards/WikiData/WD~social_behavior,921513]]'
+- '[[_Standards/WikiData/WD~social_skill,1413287]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+- '[[_Standards/WikiData/WD~type_of_interaction,123345464]]'
 MeSH_tree_code:
 - F01.145.209
 - L01.143
+OmegaWiki_Defined_Meaning: 677
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Communication%20WV%20banner.jpg"
+part_of:
+- '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
+- '[[_Standards/WikiData/WD~social_process,2305441]]'
+practiced_by:
+- '[[_Standards/WikiData/WD~communications_adviser,2557481]]'
+- '[[_Standards/WikiData/WD~communications_manager,2957754]]'
+- '[[_Standards/WikiData/WD~director_of_communications,5280566]]'
+- '[[_Standards/WikiData/WD~communications_consultant,62085571]]'
+Stack_Exchange_tag: "https://stackoverflow.com/tags/communication"
+studied_in:
+- '[[_Standards/WikiData/WD~sociology_of_communication,1396881]]'
+- '[[_Standards/WikiData/WD~educommunication,8772471]]'
+- '[[_Standards/WikiData/WD~communication_studies,11680831]]'
+- '[[_Standards/WikiData/WD~pragmatic_information_theory,59163546]]'
+- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+- '[[_Standards/WikiData/WD~communication_psychology,119146612]]'
+subclass_of: '[[_Standards/WikiData/WD~information_exchange,6031064]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Communication,22747357]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Communications,112119612]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+used_by: '[[_Standards/WikiData/WD~mass_media,11033]]'
+U_S_National_Archives_Identifier: 10638865
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_communication,7112587]]'
 ---
 
 # [[Communication]] 

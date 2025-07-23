@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HobbyShop
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop
-  - is_a_/HobbyShop
-  - schema-org/HobbyShop
-tags:
-  - class/FileClass
-  - class/HobbyShop
-  - is_a_/HobbyShop
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HobbyShop
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop
+- is_a_/HobbyShop
+- schema-org/HobbyShop
+tags:
+- class/FileClass
+- class/HobbyShop
+- is_a_/HobbyShop
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop
+version: 2.0
 ---
 
 # HobbyShop

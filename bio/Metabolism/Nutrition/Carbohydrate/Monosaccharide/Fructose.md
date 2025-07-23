@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - fruit sugar
-  - Fruchtzucker
+- "fruit sugar"
+- Fruchtzucker
 ---
 
 ## #has_/text_of_/abstract 

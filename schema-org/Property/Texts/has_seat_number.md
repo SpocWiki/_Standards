@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_seat_number
-linkTitle: has_text_of_seat_number
-
-keywords: [seat, number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - seat-number
 - seat_number
 - seatNumber
 - has_text_of_seat_number
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- seat
+- number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_seat_number
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_seat_number
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Seat.

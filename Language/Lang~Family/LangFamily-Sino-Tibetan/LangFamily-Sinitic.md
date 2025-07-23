@@ -1,14 +1,61 @@
----
+﻿---
+ABS_ASCL_2011_code: 71
 aliases:
 - "Chinese language"
-has_id_wikidata: Q7850
-OmegaWiki_Defined_Meaning: 6061
-ISO_639_2_code:
-- chi
-- zho
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Yeo%20-%20voice%20-%20ch%20150127%201828.wav"
+Baidu_Tieba_name: 汉语
+Commons_category: "Chinese languages"
+country:
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+described_by_source:
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Ethnologue,14790]]'
+different_from: '[[_Standards/WikiData/WD~Sinitic,33857]]'
+distribution_map:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20sinitic%20languages-ca.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20sinitic%20languages%20full-en.svg"
+entry_in_abbreviations_table: кит.
+Ethnologue_com_language_code: zho
 GitHub_topic:
 - chinese
 - chinese-language
+Glottolog_code: sini1245
+GOST_7_75_97_code: "кит 315"
+has_characteristic: '[[_Standards/WikiData/WD~varieties_of_Chinese,2748296]]'
+has_id_wikidata: Q7850
+has_part_s_:
+- '[[_Standards/WikiData/WD~Shaozhou_Tuhua,1920769]]'
+- '[[_Standards/WikiData/WD~Ba-Shu_Chinese,2371409]]'
+- '[[_Standards/WikiData/WD~Pinghua,2735715]]'
+- '[[_Standards/WikiData/WD~Yue_Chinese,7033959]]'
+- '[[_Standards/WikiData/WD~Mandarin,9192]]'
+- '[[_Standards/WikiData/WD~Xiang_Chinese,13220]]'
+- '[[_Standards/WikiData/WD~Hakka_Chinese,33375]]'
+- '[[_Standards/WikiData/WD~Wu_Chinese,34290]]'
+- '[[_Standards/WikiData/WD~Jin,56479]]'
+- '[[_Standards/WikiData/WD~Min_Chinese,56504]]'
+- '[[_Standards/WikiData/WD~Huizhou_Chinese,56546]]'
+IAB_code: 1213
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20zh.svg"
+IETF_language_tag: zh
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chineselanguage.svg"
+instance_of:
+- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~language_group,941501]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+ISO_639_1_code: zh
+ISO_639_2_code:
+- chi
+- zho
+ISO_639_3_code: zho
+Krugosvet_article: narody-i-yazyki/kitayskiy-yazyk
+Library_of_Congress_Classification: PL1001-PL1960
+linguistic_typology:
+- '[[_Standards/WikiData/WD~analytic_language,209544]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~isolating_language,7423311]]'
+Linguist_List_code: chin
 native_label:
 - 中文
 - 汉语
@@ -16,78 +63,31 @@ native_label:
 - 汉语
 - 漢語
 - 漢語
-GOST_7_75_97_code: "кит 315"
-Glottolog_code: sini1245
-Commons_category: "Chinese languages"
+number_of_speakers_writers_or_signers: 1299877520
+OmegaWiki_Defined_Meaning: 6061
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Chinese%20phrasebook%20Street%20in%20Fuzhou.jpg"
-Linguist_List_code: chin
-U_S_National_Archives_Identifier: 10639127
-subreddit: ChineseLanguage
-instance_of:
-- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-- "[[_Standards/WikiData/WD~language_group,941501]]"
-- "[[_Standards/WikiData/WD~modern_language,1288568]]"
-writing_system:
-- "[[_Standards/WikiData/WD~traditional_Chinese_characters,178528]]"
-- "[[_Standards/WikiData/WD~simplified_Chinese_characters,185614]]"
-- "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
-linguistic_typology:
-- "[[_Standards/WikiData/WD~analytic_language,209544]]"
-- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-- "[[_Standards/WikiData/WD~isolating_language,7423311]]"
-studied_in: '[[_Standards/WikiData/WD~sinology,269915]]'
-has_part_s_:
-- "[[_Standards/WikiData/WD~Shaozhou_Tuhua,1920769]]"
-- "[[_Standards/WikiData/WD~Ba-Shu_Chinese,2371409]]"
-- '[[_Standards/WikiData/WD~Pinghua,2735715]]'
-- "[[_Standards/WikiData/WD~Yue_Chinese,7033959]]"
-- '[[_Standards/WikiData/WD~Mandarin,9192]]'
-- "[[_Standards/WikiData/WD~Xiang_Chinese,13220]]"
-- "[[_Standards/WikiData/WD~Hakka_Chinese,33375]]"
-- "[[_Standards/WikiData/WD~Wu_Chinese,34290]]"
-- '[[_Standards/WikiData/WD~Jin,56479]]'
-- "[[_Standards/WikiData/WD~Min_Chinese,56504]]"
-- "[[_Standards/WikiData/WD~Huizhou_Chinese,56546]]"
-has_characteristic: "[[_Standards/WikiData/WD~varieties_of_Chinese,2748296]]"
-topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Chinese_language,10964946]]"
-- '[[_Standards/WikiData/WD~Q22772532,22772532]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18121684,18121684]]'
-ISO_639_3_code: zho
-Ethnologue_com_language_code: zho
-described_by_source:
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- '[[_Standards/WikiData/WD~Ethnologue,14790]]'
+POSIX_locale_identifier: zh
 practiced_by:
-- "[[_Standards/WikiData/WD~Chinese_student,99858726]]"
-- "[[_Standards/WikiData/WD~Chinese_teacher,101444555]]"
+- '[[_Standards/WikiData/WD~Chinese_student,99858726]]'
+- '[[_Standards/WikiData/WD~Chinese_teacher,101444555]]'
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~Huáyǔ,107100968]]'
 - '[[_Standards/WikiData/WD~Sinitic,33857]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Chineselanguage.svg"
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Yeo%20-%20voice%20-%20ch%20150127%201828.wav"
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20zh.svg"
-distribution_map:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20sinitic%20languages-ca.svg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20sinitic%20languages%20full-en.svg"
-Stack_Exchange_site_URL: "https://chinese.stackexchange.com"
-Krugosvet_article: narody-i-yazyki/kitayskiy-yazyk
-entry_in_abbreviations_table: кит.
 short_name: китайский
-Baidu_Tieba_name: 汉语
-Library_of_Congress_Classification: PL1001-PL1960
-number_of_speakers_writers_or_signers: 1299877520
-country:
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-different_from: '[[_Standards/WikiData/WD~Sinitic,33857]]'
+Stack_Exchange_site_URL: "https://chinese.stackexchange.com"
+studied_in: '[[_Standards/WikiData/WD~sinology,269915]]'
 subclass_of: '[[_Standards/WikiData/WD~Sino-Tibetan,45961]]'
-ABS_ASCL_2011_code: 71
+subreddit: ChineseLanguage
+topic_s_main_template:
+- '[[_Standards/WikiData/WD~Template_Chinese_language,10964946]]'
+- '[[_Standards/WikiData/WD~Q22772532,22772532]]'
+U_S_National_Archives_Identifier: 10639127
 Wikimedia_language_code: zh
-IETF_language_tag: zh
-ISO_639_1_code: zh
-POSIX_locale_identifier: zh
-IAB_code: 1213
+writing_system:
+- '[[_Standards/WikiData/WD~traditional_Chinese_characters,178528]]'
+- '[[_Standards/WikiData/WD~simplified_Chinese_characters,185614]]'
+- '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 ---
 
 ## #has_/text_of_/abstract 

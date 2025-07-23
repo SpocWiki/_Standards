@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - GaAs
-  - Galliumarsenid
+- GaAs
+- Galliumarsenid
 ---
 
 # [[Gallium_Arsenide]] 

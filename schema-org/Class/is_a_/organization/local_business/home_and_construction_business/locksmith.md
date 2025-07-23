@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_locksmith Class
-linkTitle: is_a_locksmith Class
-
-keywords: [locksmith]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - locksmith
 - locksmith
 - Locksmith
 - is_a_locksmith
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- locksmith
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_locksmith Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_locksmith Class"
+type: Type
 ---
 
 Class of all locksmiths.

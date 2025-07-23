@@ -1,7 +1,7 @@
----
-has_id_wikidata: Q133641
+﻿---
 aliases:
-  - Age of Exploration
+- "Age of Exploration"
+has_id_wikidata: Q133641
 ---
 
 # [[Age_of_Discovery]] 

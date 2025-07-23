@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_serious_adverse_outcome
-
-linkTitle: has_serious_adverse_outcome
-keywords: [serious, adverse, outcome]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - serious-adverse-outcome
 - serious_adverse_outcome
 - seriousAdverseOutcome
 - has_serious_adverse_outcome
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- serious
+- adverse
+- outcome
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_serious_adverse_outcome
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_serious_adverse_outcome
+type: Predi_Relation
 ---
 
 Use it like this: 

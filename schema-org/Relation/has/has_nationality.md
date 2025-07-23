@@ -1,32 +1,32 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- nationality
+- nationality
+- nationality
+- has_nationality
+- "schema:nationality"
+- "dbo:nationality"
+- "wdt:P27"
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-publish: true
-type: Predi_Relation
-title: has_nationality
-linkTitle: has_nationality
 keywords:
-  - nationality
+- nationality
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_nationality
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-aliases:
-  - nationality
-  - nationality
-  - nationality
-  - has_nationality
-  - schema:nationality
-  - dbo:nationality
-  - wdt:P27
+- class/Relation
+- schema-org/Relation
+title: has_nationality
+type: Predi_Relation
 ---
 
 Use it like this: 

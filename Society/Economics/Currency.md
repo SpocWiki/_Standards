@@ -1,47 +1,47 @@
----
-has_id_wikidata: Q8142
-model_item: "[[_Standards/WikiData/WD~Indian_rupee,80524]]"
+﻿---
+Basisklassifikation: 83.44
+Colon_Classification: X61
+Commons_category: Currencies
+described_at_URL: "http://publications.europa.eu/code/en/en-5000500.htm"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 different_from:
-- "[[_Standards/WikiData/WD~foreign_currencies,831772]]"
+- '[[_Standards/WikiData/WD~foreign_currencies,831772]]'
 - '[[_Standards/WikiData/WD~Currency,5194983]]'
 - '[[_Standards/WikiData/WD~Munt,6936966]]'
 - '[[_Standards/WikiData/WD~Devise,15220494]]'
 - '[[_Standards/WikiData/WD~Währung,110367783]]'
 - '[[_Standards/WikiData/WD~money,1368]]'
 - '[[_Standards/WikiData/WD~coin,41207]]'
-has_list: "[[_Standards/WikiData/WD~list_of_currencies,858338]]"
+has_characteristic: '[[_Standards/WikiData/WD~currency_unit,12039317]]'
+has_id_wikidata: Q8142
+has_list: '[[_Standards/WikiData/WD~list_of_currencies,858338]]'
 history_of_topic: '[[_Standards/WikiData/WD~Q3137262,3137262]]'
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~electronic_money,6501095]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~medium_of_exchange,11105360]]"
-- "[[_Standards/WikiData/WD~means_of_payment,65240001]]"
-- '[[_Standards/WikiData/WD~money,1368]]'
-- "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
-has_characteristic: "[[_Standards/WikiData/WD~currency_unit,12039317]]"
+IAB_code: 82
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Billets%20de%205000.jpg"
+model_item: '[[_Standards/WikiData/WD~Indian_rupee,80524]]'
+OmegaWiki_Defined_Meaning: 347472
+OpenStreetMap_tag_or_key: "Key:currency"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg"
 properties_for_this_type:
 - "currency symbol description"
 - "ISO 4217 code"
 - "central bank/issuer"
 - "subdivision of this unit"
 - country
-Wikidata_property: currency
-IAB_code: 82
-OmegaWiki_Defined_Meaning: 347472
-Unicode_character: 💵 
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg"
-Commons_category: Currencies
-Basisklassifikation: 83.44
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Billets%20de%205000.jpg"
-described_at_URL: "http://publications.europa.eu/code/en/en-5000500.htm"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~electronic_money,6501095]]'
 Stack_Exchange_tag: "https://stackoverflow.com/tags/currency"
-OpenStreetMap_tag_or_key: "Key:currency"
-Colon_Classification: X61
+subclass_of:
+- '[[_Standards/WikiData/WD~medium_of_exchange,11105360]]'
+- '[[_Standards/WikiData/WD~means_of_payment,65240001]]'
+- '[[_Standards/WikiData/WD~money,1368]]'
+- '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]'
+Unicode_character: "\U0001F4B5"
+Wikidata_property: currency
 ---
 
 ## #has_/text_of_/abstract 

@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Susan Sarandon
-  - Susan Abigail Sarandon
-  - Susan Abigail Tomalin
+- "Susan Sarandon"
+- "Susan Abigail Sarandon"
+- "Susan Abigail Tomalin"
 ---
 
 #has_/time_/started :: 1946-10-04 

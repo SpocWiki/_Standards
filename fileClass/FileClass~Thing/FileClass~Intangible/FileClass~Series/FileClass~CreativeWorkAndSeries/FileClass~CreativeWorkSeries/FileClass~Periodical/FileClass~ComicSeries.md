@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ComicSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries
-  - is_a_/ComicSeries
-  - schema-org/ComicSeries
-tags:
-  - class/FileClass
-  - class/ComicSeries
-  - is_a_/ComicSeries
-  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ComicSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries
+- is_a_/ComicSeries
+- schema-org/ComicSeries
+tags:
+- class/FileClass
+- class/ComicSeries
+- is_a_/ComicSeries
+- class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries
+version: 2.0
 ---
 
 # ComicSeries

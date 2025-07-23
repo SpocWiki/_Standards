@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Robert Douglas Thomas Pattinson
-  - Robert Pattinson
+- "Robert Douglas Thomas Pattinson"
+- "Robert Pattinson"
 ---
 
 # [[Pattinson,Robert]] 

@@ -1,54 +1,54 @@
----
-type: Element
-SpocWebEntityId: 21955
-has_id_wikidata: Q1386
-named_after:
-- '[[_Standards/WikiData/WD~twin,159979]]'
-- '[[_Standards/WikiData/WD~green,3133]]'
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-Unicode_character: 鐠
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseod%C3%ADmio.ogg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg"
-canonical_SMILES: '[Pr]'
-EC_number: 231-120-3
-CAS_Registry_Number: 7440-10-0
-MeSH_tree_code:
-- D01.268.558.362.750
-- D01.552.550.399.750
-DSSTOX_compound_identifier: DTXCID2047648
-InChI: InChI=1S/Pr
-UNII: NKN7EZA750
-InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
-UMLS_CUI: C0032904
-time_of_discovery_or_invention: "1841"
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-electrical_resistivity: 7e-7
+﻿---
 atomic_number: 59
+boiling_point: 3403
+canonical_SMILES: '[Pr]'
+CAS_Registry_Number: 7440-10-0
+chemical_formula: Pr
+Commons_category: Praseodymium
+Commons_gallery: Praseodymium
+density: 6.773
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
+DSSTOX_compound_identifier: DTXCID2047648
+EC_number: 231-120-3
+electrical_resistivity: 7e-7
+electronegativity: 1.13
+element_symbol: Pr
+has_id_wikidata: Q1386
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg"
+InChI: InChI=1S/Pr
+InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.85
 - 0.96
 - 0.99
 - 1.13
-electronegativity: 1.13
-speed_of_sound: 2280
-melting_point: 1208
-boiling_point: 3403
-density: 6.773
-chemical_formula: Pr
-element_symbol: Pr
-PubChem_CID: 23942
-Commons_gallery: Praseodymium
-Commons_category: Praseodymium
-OmegaWiki_Defined_Meaning: 342115
 mass: 140.90766
+melting_point: 1208
+MeSH_tree_code:
+- D01.268.558.362.750
+- D01.552.550.399.750
+named_after:
+- '[[_Standards/WikiData/WD~twin,159979]]'
+- '[[_Standards/WikiData/WD~green,3133]]'
+OmegaWiki_Defined_Meaning: 342115
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+PubChem_CID: 23942
+speed_of_sound: 2280
+SpocWebEntityId: 21955
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Praseod%C3%ADmio.ogg"
+time_of_discovery_or_invention: 1841
+type: Element
+UMLS_CUI: C0032904
+Unicode_character: 鐠
+UNII: NKN7EZA750
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Praseodymium,1386]] 

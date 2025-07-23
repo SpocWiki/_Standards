@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_drug_strength Class
-linkTitle: is_a_drug_strength Class
-
-keywords: [drug_strength]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - drug-strength
 - drug_strength
 - DrugStrength
 - is_a_drug_strength
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- drug_strength
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_drug_strength Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_drug_strength Class"
+type: Type
 ---
 
 Class of all drug_strengths.

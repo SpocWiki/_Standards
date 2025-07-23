@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_repeat_count
-linkTitle: has_number_of_repeat_count
-
-keywords: [repeat_count]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - repeat-count
 - repeat_count
 - repeatCount
 - has_number_of_repeats
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- repeat_count
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_repeat_count
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_repeat_count
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Schedule.

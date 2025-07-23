@@ -1,8 +1,8 @@
----
-title: Anomura
+﻿---
 aliases:
-  - Anomura
-  - Anomala
+- Anomura
+- Anomala
+title: Anomura
 ---
 
 # [[Anomura]] 

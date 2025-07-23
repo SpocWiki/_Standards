@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_activation_fee Class
-linkTitle: is_an_activation_fee Class
-
-keywords: [activation_fee]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PriceComponentTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - activation-fee
 - activation_fee
 - ActivationFee
 - is_an_activation_fee
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PriceComponentTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- activation_fee
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_activation_fee Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_activation_fee Class"
+type: Type
 ---
 
 Class of all activation_fees.

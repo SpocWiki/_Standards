@@ -1,98 +1,98 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Invoice
-  - class/Thing/Intangible/Invoice
-  - is_an_/Invoice
-  - schema-org/Invoice
-tags:
-  - class/FileClass
-  - class/Invoice
-  - "#is_an_/Invoice"
-  - class/Thing/Intangible/Invoice
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: kDLrGt
-    name: AccountId
-    options: {}
-    type: Input
-    path: ""
-  - id: pzGdRc
-    name: BillingPeriod
-    options:
-      min: "0"
-      max: "2359"
-    type: Number
-    path: ""
-  - id: OXeWcm
-    name: Broker
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: U2UJrL
-    name: ConfirmationNumber
-    options: {}
-    type: Input
-    path: ""
-  - id: zhbXH2
-    name: Customer
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: LtMrwh
-    name: MinimumPaymentDue
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: 9xMfEW
-    name: PaymentDueDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: 5tr9bh
-    name: PaymentMethod
-    options: {}
-    type: Input
-    path: ""
-  - id: dNEViW
-    name: PaymentMethodId
-    options: {}
-    type: Input
-    path: ""
-  - id: 0u4DDB
-    name: Provider
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: Ai95CP
-    name: ReferencesOrder
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Order')
-    type: MultiFile
-    path: ""
-  - id: c6hmCq
-    name: ScheduledPaymentDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: vcNLXa
-    name: TotalPaymentDue
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
+- id: kDLrGt
+  name: AccountId
+  options: {}
+  type: Input
+  path: ''
+- id: pzGdRc
+  name: BillingPeriod
+  options:
+    min: 0
+    max: 2359
+  type: Number
+  path: ''
+- id: OXeWcm
+  name: Broker
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: U2UJrL
+  name: ConfirmationNumber
+  options: {}
+  type: Input
+  path: ''
+- id: zhbXH2
+  name: Customer
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: LtMrwh
+  name: MinimumPaymentDue
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: 9xMfEW
+  name: PaymentDueDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: 5tr9bh
+  name: PaymentMethod
+  options: {}
+  type: Input
+  path: ''
+- id: dNEViW
+  name: PaymentMethodId
+  options: {}
+  type: Input
+  path: ''
+- id: 0u4DDB
+  name: Provider
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: Ai95CP
+  name: ReferencesOrder
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Order')"
+  type: MultiFile
+  path: ''
+- id: c6hmCq
+  name: ScheduledPaymentDate
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: vcNLXa
+  name: TotalPaymentDue
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Invoice
+- class/Thing/Intangible/Invoice
+- is_an_/Invoice
+- schema-org/Invoice
+tags:
+- class/FileClass
+- class/Invoice
+- '#is_an_/Invoice'
+- class/Thing/Intangible/Invoice
+version: 2.0
 ---
 
 # Invoice

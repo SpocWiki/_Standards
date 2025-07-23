@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Pravetz 82 
-  - Правец 82 
-  - ИМКО-2 
-  - IMKO-2 
+- "Pravetz 82"
+- "Правец 82"
+- ИМКО-2
+- IMKO-2
 ---
 
 ## #has_/text_of_/abstract 

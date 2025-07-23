@@ -1,58 +1,58 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/InteractionCounter
-  - class/Thing/Intangible/StructuredValue/InteractionCounter
-  - is_an_/InteractionCounter
-  - schema-org/InteractionCounter
-tags:
-  - class/FileClass
-  - class/InteractionCounter
-  - "#is_an_/InteractionCounter"
-  - class/Thing/Intangible/StructuredValue/InteractionCounter
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: n5zT9J
-    name: EndTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: mnU7IH
-    name: InteractionService
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
-    type: MultiFile
-    path: ""
-  - id: WfUCTw
-    name: InteractionType
-    options:
-      dvQueryString: dv.pages('#class/Thing/Action')
-    type: MultiFile
-    path: ""
-  - id: twC6Nd
-    name: Location
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place')
-    type: MultiFile
-    path: ""
-  - id: m5MHnD
-    name: StartTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: yElvLa
-    name: UserInteractionCount
-    options: {}
-    type: Number
-    path: ""
+- id: n5zT9J
+  name: EndTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: mnU7IH
+  name: InteractionService
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/SoftwareApplication')"
+  type: MultiFile
+  path: ''
+- id: WfUCTw
+  name: InteractionType
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Action')"
+  type: MultiFile
+  path: ''
+- id: twC6Nd
+  name: Location
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place')"
+  type: MultiFile
+  path: ''
+- id: m5MHnD
+  name: StartTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: yElvLa
+  name: UserInteractionCount
+  options: {}
+  type: Number
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/InteractionCounter
+- class/Thing/Intangible/StructuredValue/InteractionCounter
+- is_an_/InteractionCounter
+- schema-org/InteractionCounter
+tags:
+- class/FileClass
+- class/InteractionCounter
+- '#is_an_/InteractionCounter'
+- class/Thing/Intangible/StructuredValue/InteractionCounter
+version: 2.0
 ---
 
 # InteractionCounter

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_number-of-rooms
-linkTitle: has_number_of_number-of-rooms
-
-keywords: [number-of-rooms]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - number_of_rooms
 - number-of-rooms
 - numberOfRooms
 - has_number_of_rooms
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- number-of-rooms
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_number-of-rooms
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_number-of-rooms
+type: Predi_Count
 ---
 
 # [[has_number_of_rooms]] 

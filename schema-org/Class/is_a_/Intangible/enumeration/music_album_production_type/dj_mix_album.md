@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_dj_mix_album Class
-linkTitle: is_a_dj_mix_album Class
-
-keywords: [dj_mix_album]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MusicAlbumProductionType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - dj-mix-album
 - dj_mix_album
 - DJMixAlbum
 - is_a_dj_mix_album
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MusicAlbumProductionType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- dj_mix_album
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_dj_mix_album Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_dj_mix_album Class"
+type: Type
 ---
 
 Class of all dj_mix_albums.

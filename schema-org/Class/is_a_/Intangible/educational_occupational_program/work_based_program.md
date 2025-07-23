@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_work_based_program Class
-linkTitle: is_a_work_based_program Class
-
-keywords: [work_based_program]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - work-based-program
 - work_based_program
 - WorkBasedProgram
 - is_a_work_based_program
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- work_based_program
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_work_based_program Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_work_based_program Class"
+type: Type
 ---
 
 Class of all work_based_programs.

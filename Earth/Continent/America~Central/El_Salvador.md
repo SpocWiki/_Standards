@@ -100,44 +100,44 @@ replaces: "[[_Standards/WikiData/WD~State_of_El_Salvador,65182752]]"
 open_data_portal: "[[_Standards/WikiData/WD~El_Salvador_open_data,97150530]]"
 coordinate_location: "Point(-88.866111 13.668889)"
 demonym:
-  - صالڤادوري
-  - صالڤادورية
-  - صالڤادوريين
-  - صالڤادوريات
-  - Salvadoran
-  - سلفادوري
-  - سلفادورية
-  - سلفادوريون
-  - salvadoriana
-  - salvadorianu
-  - সালভাদোরীয়
-  - salvadoraner
-  - Salvadorano
-  - Salvadorien
-  - Salvadorienne
+- صالڤادوري
+- صالڤادورية
+- صالڤادوريين
+- صالڤادوريات
+- Salvadoran
+- سلفادوري
+- سلفادورية
+- سلفادوريون
+- salvadoriana
+- salvadorianu
+- সালভাদোরীয়
+- salvadoraner
+- Salvadorano
+- Salvadorien
+- Salvadorienne
 - "אל סלוודורי"
 - "אל סלוודורית"
-  - salvadori
-  - Salvadorano
-  - salvadoregna
-  - salvadoregne
-  - salvadoregni
-  - salvadoregno
-  - salvadoran
-  - salvadorian
-  - salvadoriană
-  - salvadorieni
-  - сальвадорец
-  - сальвадорка
-  - сальвадорцы
-  - salvadoregna
-  - salvadoregne
-  - salvadoregni
-  - salvadoregno
-  - Salvadoränan
-  - Salvadórach
-  - salvadorenc
-  - salvadorenca
+- salvadori
+- Salvadorano
+- salvadoregna
+- salvadoregne
+- salvadoregni
+- salvadoregno
+- salvadoran
+- salvadorian
+- salvadoriană
+- salvadorieni
+- сальвадорец
+- сальвадорка
+- сальвадорцы
+- salvadoregna
+- salvadoregne
+- salvadoregni
+- salvadoregno
+- Salvadoränan
+- Salvadórach
+- salvadorenc
+- salvadorenca
 ISNI: 0000000123752529
 GS1_country_code: 741
 licence_plate_code: ES

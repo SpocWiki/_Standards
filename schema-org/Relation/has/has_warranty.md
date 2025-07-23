@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_warranty
-
-linkTitle: has_warranty
-keywords: [warranty]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: warrantyPromise
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - warranty
 - warranty
 - warranty
 - has_warranty
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- warranty
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_warranty
+publish: true
+publishDate: 
+supersedes: warrantyPromise
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_warranty
+type: Predi_Relation
 ---
 
 Use it like this: 

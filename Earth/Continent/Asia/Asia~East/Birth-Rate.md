@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - natality
+- natality
 ---
 
 # [[Birth-Rate]] 

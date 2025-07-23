@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_order_in_transit Class
-linkTitle: is_an_order_in_transit Class
-
-keywords: [order_in_transit]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: OrderStatus
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - order-in-transit
 - order_in_transit
 - OrderInTransit
 - is_an_order_in_transit
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: OrderStatus
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- order_in_transit
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_order_in_transit Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_order_in_transit Class"
+type: Type
 ---
 
 Class of all order_in_transits.

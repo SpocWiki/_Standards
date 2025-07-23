@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_players_online
-linkTitle: has_number_of_players_online
-
-keywords: [players_online]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - players-online
 - players_online
 - playersOnline
 - has_number_of_players_online
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- players_online
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_players_online
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_players_online
+type: Predi_Count
 ---
 
 Predicate to describe the Number of GameServer.

@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Vietnamese
-tags: 
+tags:
 - Lang/vi
+type: Lang
 ---
+
 # [[Lang-vi]] 
 
 [SpocWebEntityId:: 460 ]

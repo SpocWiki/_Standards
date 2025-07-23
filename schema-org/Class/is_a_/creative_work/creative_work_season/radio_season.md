@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_radio_season Class
-linkTitle: is_a_radio_season Class
-
-keywords: [radio_season]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - radio-season
 - radio_season
 - RadioSeason
 - is_a_radio_season
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- radio_season
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_radio_season Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_radio_season Class"
+type: Type
 ---
 
 Class of all radio_seasons.

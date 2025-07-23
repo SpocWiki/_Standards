@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_business_function Class
-linkTitle: is_a_business_function Class
-
-keywords: [business_function]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - business-function
 - business_function
 - BusinessFunction
 - is_a_business_function
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- business_function
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_business_function Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_business_function Class"
+type: Type
 ---
 
 Class of all business_functions.

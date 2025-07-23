@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_episode_number
-linkTitle: has_number_of_episode_number
-
-keywords: [episode_number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - episode-number
 - episode_number
 - episodeNumber
 - has_number_of_episode
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- episode_number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_episode_number
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_episode_number
+type: Predi_Count
 ---
 
 Predicate to describe the Number of Episode.

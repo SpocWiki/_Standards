@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_fuel-capacity
-linkTitle: has_fuel-capacity
-
-keywords: [fuel-capacity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - fuel_capacity
 - fuel-capacity
 - fuelCapacity
 - has_value_for_fuel_capacity_liter
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- fuel-capacity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_fuel-capacity
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_fuel-capacity
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Vehicle.

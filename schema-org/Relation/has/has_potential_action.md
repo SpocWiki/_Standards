@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_potential_action
-
-linkTitle: has_potential_action
-keywords: [potential, action]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - potential-action
 - potential_action
 - potentialAction
 - has_potential_action
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- potential
+- action
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_potential_action
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_potential_action
+type: Predi_Relation
 ---
 
 Use it like this: 

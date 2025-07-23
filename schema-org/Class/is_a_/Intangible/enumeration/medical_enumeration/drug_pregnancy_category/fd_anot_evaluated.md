@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_fd_anot_evaluated Class
-linkTitle: is_a_fd_anot_evaluated Class
-
-keywords: [fd_anot_evaluated]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: DrugPregnancyCategory
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - fd-anot-evaluated
 - fd_anot_evaluated
 - FDAnotEvaluated
 - is_a_fd_anot_evaluated
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: DrugPregnancyCategory
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- fd_anot_evaluated
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_fd_anot_evaluated Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_fd_anot_evaluated Class"
+type: Type
 ---
 
 Class of all fd_anot_evaluateds.

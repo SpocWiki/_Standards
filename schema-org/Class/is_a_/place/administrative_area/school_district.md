@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_school_district Class
-linkTitle: is_a_school_district Class
-
-keywords: [school_district]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - school-district
 - school_district
 - SchoolDistrict
 - is_a_school_district
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- school_district
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_school_district Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_school_district Class"
+type: Type
 ---
 
 Class of all school_districts.

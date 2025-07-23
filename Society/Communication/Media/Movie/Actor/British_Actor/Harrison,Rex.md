@@ -1,7 +1,7 @@
----
+﻿---
 aliases:
-  - Rex Harrison
-  - Reginald Carey Harrison
+- "Rex Harrison"
+- "Reginald Carey Harrison"
 ---
 
 ## #has_/text_of_/abstract 

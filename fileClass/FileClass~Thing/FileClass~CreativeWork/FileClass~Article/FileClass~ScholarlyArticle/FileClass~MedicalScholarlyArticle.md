@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalScholarlyArticle
-  - class/Thing/CreativeWork/Article/ScholarlyArticle/MedicalScholarlyArticle
-  - is_a_/MedicalScholarlyArticle
-  - schema-org/MedicalScholarlyArticle
-tags:
-  - class/FileClass
-  - class/MedicalScholarlyArticle
-  - is_a_/MedicalScholarlyArticle
-  - class/Thing/CreativeWork/Article/ScholarlyArticle/MedicalScholarlyArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle
 fields:
-  - id: RKfyRk
-    name: PublicationType
-    options: {}
-    type: Input
-    path: ""
+- id: RKfyRk
+  name: PublicationType
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalScholarlyArticle
+- class/Thing/CreativeWork/Article/ScholarlyArticle/MedicalScholarlyArticle
+- is_a_/MedicalScholarlyArticle
+- schema-org/MedicalScholarlyArticle
+tags:
+- class/FileClass
+- class/MedicalScholarlyArticle
+- is_a_/MedicalScholarlyArticle
+- class/Thing/CreativeWork/Article/ScholarlyArticle/MedicalScholarlyArticle
+version: 2.0
 ---
 
 # MedicalScholarlyArticle

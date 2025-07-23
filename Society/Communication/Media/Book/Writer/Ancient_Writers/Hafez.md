@@ -1,65 +1,65 @@
----
+﻿---
 aliases:
 - "Khājeh Shams-od-Dīn Moḥammad Ḥāfeẓ-e Shīrāzī"
+Commons_category: Hafez
+Commons_Creator_page: Hafez
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship:
+- '[[_Standards/WikiData/WD~Timurid_Empire,484195]]'
+- '[[_Standards/WikiData/WD~Muzaffarids_of_Iran,877670]]'
+date_of_birth: 1325
+date_of_death: 1389
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+different_from: '[[_Standards/WikiData/WD~Al-Hafiz,285731]]'
+genre: '[[_Standards/WikiData/WD~lyric_poetry,182357]]'
+given_name:
+- '[[_Standards/WikiData/WD~Shams_al-Din,18978429]]'
+- '[[_Standards/WikiData/WD~Muhammad,19693229]]'
 has_id_wikidata: Q6240
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Huis_Bergh,99370641]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Shams%20al-Din%20Hafez.jpg"
+influenced_by:
+- '[[_Standards/WikiData/WD~Anvari,11356]]'
+- '[[_Standards/WikiData/WD~Ibn_Arabi,46420]]'
+- '[[_Standards/WikiData/WD~Mansur_Al-Hallaj,172862]]'
+- '[[_Standards/WikiData/WD~Attar_of_Nishapur,194091]]'
+- '[[_Standards/WikiData/WD~Nizami_Ganjavi,234908]]'
+- '[[_Standards/WikiData/WD~Khaqani,368862]]'
+- '[[_Standards/WikiData/WD~Sanai,1148049]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 0000000123418061
-date_of_birth: "1325"
-religion_or_worldview:
-- '[[_Standards/WikiData/WD~Islam,432]]'
-- '[[_Standards/WikiData/WD~Sufism,9603]]'
-- "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
-writing_language: '[[_Standards/WikiData/WD~Persian,9168]]'
 languages_spoken_written_or_signed:
 - '[[_Standards/WikiData/WD~Persian,9168]]'
 - '[[_Standards/WikiData/WD~Tajik,9260]]'
 - '[[_Standards/WikiData/WD~Arabic,13955]]'
+Libris_URI: nl02xcb64g2wgkl
+movement: '[[_Standards/WikiData/WD~lyric_poetry,182357]]'
+name_in_native_language: "خواجه شمسالدین محمد حافظ شیرازی"
 native_language: '[[_Standards/WikiData/WD~Persian,9168]]'
-influenced_by:
-- '[[_Standards/WikiData/WD~Anvari,11356]]'
-- "[[_Standards/WikiData/WD~Ibn_Arabi,46420]]"
-- "[[_Standards/WikiData/WD~Mansur_Al-Hallaj,172862]]"
-- "[[_Standards/WikiData/WD~Attar_of_Nishapur,194091]]"
-- "[[_Standards/WikiData/WD~Nizami_Ganjavi,234908]]"
-- '[[_Standards/WikiData/WD~Khaqani,368862]]'
-- '[[_Standards/WikiData/WD~Sanai,1148049]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+notable_work: '[[_Standards/WikiData/WD~The_Divān_of_Hafez,5939273]]'
 occupation:
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~poet,49757]]'
 - '[[_Standards/WikiData/WD~lyricist,822146]]'
-Commons_category: Hafez
-Commons_Creator_page: Hafez
-date_of_death: "1389"
-place_of_burial: "[[_Standards/WikiData/WD~Tomb_of_Hafez,129479]]"
-genre: "[[_Standards/WikiData/WD~lyric_poetry,182357]]"
-movement: "[[_Standards/WikiData/WD~lyric_poetry,182357]]"
-different_from: '[[_Standards/WikiData/WD~Al-Hafiz,285731]]'
-country_of_citizenship:
-- "[[_Standards/WikiData/WD~Timurid_Empire,484195]]"
-- "[[_Standards/WikiData/WD~Muzaffarids_of_Iran,877670]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-work_location: '[[_Standards/WikiData/WD~Persis,3746183]]'
-notable_work: "[[_Standards/WikiData/WD~The_Divān_of_Hafez,5939273]]"
-place_of_death: '[[_Standards/WikiData/WD~Shiraz,6397066]]'
 place_of_birth: '[[_Standards/WikiData/WD~Shiraz,6397066]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Shams%20al-Din%20Hafez.jpg"
+place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Hafez,129479]]'
+place_of_death: '[[_Standards/WikiData/WD~Shiraz,6397066]]'
 Provenio_UUID: 1dca830e-1676-46fb-a2e8-17e35e7ba0b9
-Libris_URI: nl02xcb64g2wgkl
 pseudonym: حافظ
-name_in_native_language: "خواجه شمسالدین محمد حافظ شیرازی"
-given_name:
-- "[[_Standards/WikiData/WD~Shams_al-Din,18978429]]"
-- '[[_Standards/WikiData/WD~Muhammad,19693229]]'
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Huis_Bergh,99370641]]"
+religion_or_worldview:
+- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Sufism,9603]]'
+- '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+work_location: '[[_Standards/WikiData/WD~Persis,3746183]]'
+writing_language: '[[_Standards/WikiData/WD~Persian,9168]]'
 ---
 
 ## #has_/text_of_/abstract 

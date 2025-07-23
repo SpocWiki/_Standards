@@ -1,7 +1,7 @@
----
-title: Malpighiales
+﻿---
 aliases:
-  - Malpighiales
+- Malpighiales
+title: Malpighiales
 ---
 
 # [[Malpighiales]] 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_motorcycle_repair Class
-linkTitle: is_a_motorcycle_repair Class
-
-keywords: [motorcycle_repair]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - motorcycle-repair
 - motorcycle_repair
 - MotorcycleRepair
 - is_a_motorcycle_repair
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- motorcycle_repair
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_motorcycle_repair Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_motorcycle_repair Class"
+type: Type
 ---
 
 Class of all motorcycle_repairs.

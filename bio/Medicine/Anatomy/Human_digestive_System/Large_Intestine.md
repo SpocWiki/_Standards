@@ -1,33 +1,33 @@
----
+﻿---
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3DPX-002736%20Large%20intestine%20Nevit%20Dilmen.stl"
+arterial_supply:
+- '[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]'
+- '[[_Standards/WikiData/WD~common_iliac_artery,707257]]'
+- '[[_Standards/WikiData/WD~inferior_mesenteric_artery,707384]]'
+Commons_category: "Large intestines"
+described_by_source:
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
 has_id_wikidata: Q11083
 has_part_s_:
 - '[[_Standards/WikiData/WD~rectum,158716]]'
 - '[[_Standards/WikiData/WD~cecum,185317]]'
 - '[[_Standards/WikiData/WD~colon,5982337]]'
-arterial_supply:
-- "[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]"
-- "[[_Standards/WikiData/WD~common_iliac_artery,707257]]"
-- "[[_Standards/WikiData/WD~inferior_mesenteric_artery,707384]]"
-venous_drainage: "[[_Standards/WikiData/WD~superior_mesenteric_vein,751322]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-lymphatic_drainage: "[[_Standards/WikiData/WD~Inferior_mesenteric_lymph_nodes,16989580]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~organ_with_organ_cavity,66545296]]"
-- "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-instance_of:
-- "[[_Standards/WikiData/WD~organ_type,103812529]]"
-- "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-part_of: '[[_Standards/WikiData/WD~intestine,9639]]'
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3DPX-002736%20Large%20intestine%20Nevit%20Dilmen.stl"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blausen%200603%20LargeIntestine%20Anatomy.png"
+instance_of:
+- '[[_Standards/WikiData/WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+lymphatic_drainage: '[[_Standards/WikiData/WD~Inferior_mesenteric_lymph_nodes,16989580]]'
 MeSH_tree_code:
 - A03.556.124.526
 - A03.556.249.249
-UMLS_CUI: C0021851
+part_of: '[[_Standards/WikiData/WD~intestine,9639]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~organ_with_organ_cavity,66545296]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term: "intestinum crassum"
-Commons_category: "Large intestines"
+UMLS_CUI: C0021851
+venous_drainage: '[[_Standards/WikiData/WD~superior_mesenteric_vein,751322]]'
 ---
 
 ## #has_/text_of_/abstract 

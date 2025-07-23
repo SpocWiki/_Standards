@@ -1,33 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_item_defect_return_fees
-
-linkTitle: has_item_defect_return_fees
-keywords: [item, defect, return, fees]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - item-defect-return-fees
 - item_defect_return_fees
 - itemDefectReturnFees
 - has_item_defect_return_fees
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- item
+- defect
+- return
+- fees
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_item_defect_return_fees
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_item_defect_return_fees
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

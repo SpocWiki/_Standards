@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_satire_or_parody_content Class
-linkTitle: is_a_satire_or_parody_content Class
-
-keywords: [satire_or_parody_content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MediaManipulationRatingEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - satire-or-parody-content
 - satire_or_parody_content
 - SatireOrParodyContent
 - is_a_satire_or_parody_content
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MediaManipulationRatingEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- satire_or_parody_content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_satire_or_parody_content Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_satire_or_parody_content Class"
+type: Type
 ---
 
 Class of all satire_or_parody_contents.

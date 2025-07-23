@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_occupancy
-linkTitle: has_occupancy
-
-keywords: [occupancy]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - occupancy
 - occupancy
 - occupancy
 - has_value_for_occupancy
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- occupancy
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_occupancy
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_occupancy
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Apartment, HotelRoom, SingleFamilyResidence, Suite.

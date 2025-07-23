@@ -1,11 +1,10 @@
----
-has_id_wikidata: Q7349
+﻿---
 aliases:
-  - Franz Joseph Haydn
-  - Joseph Haydn
-  - 
+- "Franz Joseph Haydn"
+- "Joseph Haydn"
+- 
+has_id_wikidata: Q7349
 ---
-
 
 ## #has_/text_of_/abstract 
 

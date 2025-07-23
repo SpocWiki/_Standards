@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_related_to
-
-linkTitle: has_related_to
-keywords: [related, to]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - related-to
 - related_to
 - relatedTo
 - has_related_to
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- related
+- to
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_related_to
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_related_to
+type: Predi_Relation
 ---
 
 Use it like this: 

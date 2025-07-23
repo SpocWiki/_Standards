@@ -1,31 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- duration
+- duration
+- duration
+- has_duration
+- "schema:duration"
+- "dbo:runtime"
+- "wdt:P2047"
 confidential: public
+cssclasses:
+- Predicate
+- Duration
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Duration
-publish: true
-type: Predi_Duration
-title: has_duration
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Durations
-aliases:
-  - duration
-  - duration
-  - duration
-  - has_duration
-  - schema:duration
-  - dbo:runtime
-  - wdt:P2047
+- class/Property
+- schema-org/Property/Durations
+title: has_duration
+type: Predi_Duration
 ---
 
 Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, 

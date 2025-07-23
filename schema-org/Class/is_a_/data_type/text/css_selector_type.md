@@ -1,30 +1,31 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- css-selector-type
+- css_selector_type
+- CssSelectorType
+- is_a_css_selector_type
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_css_selector_type Class
-linkTitle: is_a_css_selector_type Class
 keywords:
-  - css_selector_type
+- css_selector_type
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_css_selector_type Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - css-selector-type
-  - css_selector_type
-  - CssSelectorType
-  - is_a_css_selector_type
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_css_selector_type Class"
+type: Type
 ---
+
 # [[css_selector_type]] 
 
 Class of all css_selector_types.

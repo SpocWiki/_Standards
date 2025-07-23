@@ -1,9 +1,10 @@
----
+﻿---
 aliases:
-  - Text Encoding
-  - Character Encoding
-  - charset 
+- "Text Encoding"
+- "Character Encoding"
+- charset
 ---
+
 Used to describe the Byte-Encoding of a Text. 
 
 After 2008-06 the most common Encoding on the [[../../../WikiData/WD~Internet,75_WD~Internet,75]] is [[UTF-8]], before it was [[Latin1]]. 

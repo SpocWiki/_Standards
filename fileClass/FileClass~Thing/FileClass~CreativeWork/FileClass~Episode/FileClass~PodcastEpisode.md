@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/PodcastEpisode
-  - class/Thing/CreativeWork/Episode/PodcastEpisode
-  - is_a_/PodcastEpisode
-  - schema-org/PodcastEpisode
-tags:
-  - class/FileClass
-  - class/PodcastEpisode
-  - is_a_/PodcastEpisode
-  - class/Thing/CreativeWork/Episode/PodcastEpisode
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/PodcastEpisode
+- class/Thing/CreativeWork/Episode/PodcastEpisode
+- is_a_/PodcastEpisode
+- schema-org/PodcastEpisode
+tags:
+- class/FileClass
+- class/PodcastEpisode
+- is_a_/PodcastEpisode
+- class/Thing/CreativeWork/Episode/PodcastEpisode
+version: 2.0
 ---
 
 # PodcastEpisode

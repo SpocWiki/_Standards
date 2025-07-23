@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_sodium-content
-linkTitle: has_sodium-content
-
-keywords: [sodium-content]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - sodium_in_gram
 - sodium-content
 - sodiumContent
 - has_value_for_sodium_in_milliGram
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- sodium-content
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_sodium-content
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_sodium-content
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of NutritionInformation.

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_first_performance
-
-linkTitle: has_first_performance
-keywords: [first, performance]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - first-performance
 - first_performance
 - firstPerformance
 - has_first_performance
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- first
+- performance
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_first_performance
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_first_performance
+type: Predi_Relation
 ---
 
 Use it like this: 

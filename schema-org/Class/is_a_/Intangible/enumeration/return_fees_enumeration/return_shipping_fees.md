@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_return_shipping_fees Class
-linkTitle: is_a_return_shipping_fees Class
-
-keywords: [return_shipping_fees]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: ReturnFeesEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - return-shipping-fees
 - return_shipping_fees
 - ReturnShippingFees
 - is_a_return_shipping_fees
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: ReturnFeesEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- return_shipping_fees
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_return_shipping_fees Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_return_shipping_fees Class"
+type: Type
 ---
 
 Class of all return_shipping_feess.

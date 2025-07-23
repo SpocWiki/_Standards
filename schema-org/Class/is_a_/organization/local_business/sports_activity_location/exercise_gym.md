@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_exercise_gym Class
-linkTitle: is_an_exercise_gym Class
-
-keywords: [exercise_gym]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - exercise-gym
 - exercise_gym
 - ExerciseGym
 - is_an_exercise_gym
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- exercise_gym
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_exercise_gym Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_exercise_gym Class"
+type: Type
 ---
 
 Class of all exercise_gyms.

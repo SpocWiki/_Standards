@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
-  - Nobel Prize in Physiology or Medicine 
-  - Nobelpriset i fysiologi eller medicin 
-  - Nobel Prize in Medicine 
+- "Nobel Prize in Physiology or Medicine"
+- "Nobelpriset i fysiologi eller medicin"
+- "Nobel Prize in Medicine"
 ---
 
 ## #has_/text_of_/abstract 

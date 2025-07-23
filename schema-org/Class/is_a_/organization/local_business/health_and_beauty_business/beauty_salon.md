@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_beauty_salon Class
-linkTitle: is_a_beauty_salon Class
-
-keywords: [beauty_salon]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - beauty-salon
 - beauty_salon
 - BeautySalon
 - is_a_beauty_salon
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- beauty_salon
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_beauty_salon Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_beauty_salon Class"
+type: Type
 ---
 
 Class of all beauty_salons.

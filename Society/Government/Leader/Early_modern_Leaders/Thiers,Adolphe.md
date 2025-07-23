@@ -1,102 +1,102 @@
----
-has_id_wikidata: Q5738
-occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-member_of:
-  - "[[_Standards/WikiData/WD~Académie_Française,161806]]"
-  - "[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]"
-  - "[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Société_de_l_histoire_de_France,3487972]]"
-archives_at:
-  - "[[_Standards/WikiData/WD~Archives_nationales,182542]]"
-place_of_death: "[[_Standards/WikiData/WD~Saint_Germain_en_Laye,185075]]"
-position_held:
-  - "[[_Standards/WikiData/WD~President_of_the_French_Republic,191954]]"
-  - "[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]"
-  - "[[_Standards/WikiData/WD~head_of_government_of_France,15135541]]"
-  - "[[_Standards/WikiData/WD~French_co_prince_of_Andorra,19808845]]"
-  - "[[_Standards/WikiData/WD~senator_of_the_French_Third_Republic,21032547]]"
-  - "[[_Standards/WikiData/WD~seat_38_of_the_Académie_française,70496009]]"
-significant_event: "[[_Standards/WikiData/WD~funeral,201676]]"
-given_name: "[[_Standards/WikiData/WD~Adolphe,365625]]"
-member_of_political_party:
-  - "[[_Standards/WikiData/WD~Orléanism,431192]]"
-award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Golden_Fleece,465774]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Cross_of_July,1129184]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]"
-  - "[[_Standards/WikiData/WD~Grand_Master_of_the_Legion_of_Honour,20856048]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-educated_at:
-  - "[[_Standards/WikiData/WD~Paul_Cézanne_University,1204304]]"
-  - "[[_Standards/WikiData/WD~Aix_Marseille_University,2302586]]"
-  - "[[_Standards/WikiData/WD~Lycée_Thiers,3268957]]"
-spouse: "[[_Standards/WikiData/WD~Élise_Thiers,3587960]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Thiers,21493151]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]"
-notable_work: "[[_Standards/WikiData/WD~The_History_of_the_French_Revolution,107179900]]"
-date_of_death: 1877-09-03T00:00:00Z
-place_of_burial: "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-place_of_birth: "[[_Standards/WikiData/WD~Marseille,23482]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~human,5]]"
-work_location:
-  - "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~French,150]]"
-Commons_Creator_page: Adolphe Thiers
-Commons_category: Adolphe Thiers
-Wolfram_Language_entity_code: Entity["Person", "AdolpheThiers::6t83m"]
-archival_creator_authority_record_at_the_Archives_nationales: FRAN_NP_050611
-Krugosvet_article: istoriya/TER_LUI_ADOLF.html
-Libris_URI: khwz1nr33xcfjng
-Royal_Academy_new_identifier: louis-adolphe-thiers
-Swedish_Open_Cultural_Heritage_URI: LSH/agents/64722
-birth_name: Marie-Joseph-Louis-Adolphe Thiers
-described_at_URL:
-  - http://www.digiporta.net/index.php?id=644792049
-  - http://www.digiporta.net/index.php?id=197447714
-BHCL_UUID: a79f3c5b-5829-4463-b108-d372f90854cd
-Commons_gallery: Louis Adolphe Thiers
-name_in_native_language: Adolphe Thiers
-image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A8re-Lachaise%20-%20Division%2055%20-%20Thiers%2040.jpg
-date_of_birth: 1797-04-15T00:00:00Z
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20THIERS%20autograph.svg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Thiers%20par%20Nadar.jpg
-coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20pr%C3%A9sident%20Thiers.svg
-ISNI: "0000000108015424"
-P8189: "987007268982805171"
+﻿---
 aliases:
-  - Marie Joseph Louis Adolphe Thiers
-  - Adolphe Thiers
+- "Marie Joseph Louis Adolphe Thiers"
+- "Adolphe Thiers"
+archival_creator_authority_record_at_the_Archives_nationales: FRAN_NP_050611
+archives_at:
+- '[[_Standards/WikiData/WD~Archives_nationales,182542]]'
+award_received:
+- '[[_Standards/WikiData/WD~Order_of_the_Golden_Fleece,465774]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Cross_of_July,1129184]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]'
+- '[[_Standards/WikiData/WD~Grand_Master_of_the_Legion_of_Honour,20856048]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+BHCL_UUID: a79f3c5b-5829-4463-b108-d372f90854cd
+birth_name: "Marie-Joseph-Louis-Adolphe Thiers"
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20pr%C3%A9sident%20Thiers.svg"
+Commons_category: "Adolphe Thiers"
+Commons_Creator_page: "Adolphe Thiers"
+Commons_gallery: "Louis Adolphe Thiers"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+date_of_birth: "1797-04-15T00:00:00Z"
+date_of_death: "1877-09-03T00:00:00Z"
+described_at_URL:
+- "http://www.digiporta.net/index.php?id=644792049"
+- "http://www.digiporta.net/index.php?id=197447714"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
+educated_at:
+- '[[_Standards/WikiData/WD~Paul_Cézanne_University,1204304]]'
+- '[[_Standards/WikiData/WD~Aix_Marseille_University,2302586]]'
+- '[[_Standards/WikiData/WD~Lycée_Thiers,3268957]]'
+family_name: '[[_Standards/WikiData/WD~Thiers,21493151]]'
+given_name: '[[_Standards/WikiData/WD~Adolphe,365625]]'
+has_id_wikidata: Q5738
+has_works_in_the_collection:
+- '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20Thiers%20par%20Nadar.jpg"
+image_of_grave: "http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A8re-Lachaise%20-%20Division%2055%20-%20Thiers%2040.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~human,5]]'
+ISNI: 0000000108015424
+Krugosvet_article: istoriya/TER_LUI_ADOLF.html
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~French,150]]'
+Libris_URI: khwz1nr33xcfjng
+member_of:
+- '[[_Standards/WikiData/WD~Académie_Française,161806]]'
+- '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
+- '[[_Standards/WikiData/WD~Académie_des_Sciences_Morales_et_Politiques,337543]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Société_de_l_histoire_de_France,3487972]]'
+member_of_political_party:
+- '[[_Standards/WikiData/WD~Orléanism,431192]]'
+name_in_native_language: "Adolphe Thiers"
+native_language: '[[_Standards/WikiData/WD~French,150]]'
+notable_work: '[[_Standards/WikiData/WD~The_History_of_the_French_Revolution,107179900]]'
+occupation:
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+P8189: 987007268982805171
+place_of_birth: '[[_Standards/WikiData/WD~Marseille,23482]]'
+place_of_burial: '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
+place_of_death: '[[_Standards/WikiData/WD~Saint_Germain_en_Laye,185075]]'
+position_held:
+- '[[_Standards/WikiData/WD~President_of_the_French_Republic,191954]]'
+- '[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]'
+- '[[_Standards/WikiData/WD~head_of_government_of_France,15135541]]'
+- '[[_Standards/WikiData/WD~French_co_prince_of_Andorra,19808845]]'
+- '[[_Standards/WikiData/WD~senator_of_the_French_Third_Republic,21032547]]'
+- '[[_Standards/WikiData/WD~seat_38_of_the_Académie_française,70496009]]'
+Royal_Academy_new_identifier: louis-adolphe-thiers
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Adolphe%20THIERS%20autograph.svg"
+significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
+spouse: '[[_Standards/WikiData/WD~Élise_Thiers,3587960]]'
+Swedish_Open_Cultural_Heritage_URI: LSH/agents/64722
+Wolfram_Language_entity_code: "Entity[\"Person\", \"AdolpheThiers::6t83m\"]"
+work_location:
+- '[[_Standards/WikiData/WD~Paris,90]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
 ---
 
 # [[Thiers,Adolphe]] 

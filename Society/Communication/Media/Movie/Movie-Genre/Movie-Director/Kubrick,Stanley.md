@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Stanley Kubrick
+- "Stanley Kubrick"
 ---
 
 #has_/time_/started :: 1928-07-26 

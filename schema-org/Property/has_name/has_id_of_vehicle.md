@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_of_vehicle
-linkTitle: has_id_of_vehicle
-
-keywords: [vehicle, identification, number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - vehicle-identification-number
 - id_of_vehicle
 - vehicleIdentificationNumber
 - has_id_of_vehicle
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- vehicle
+- identification
+- number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_of_vehicle
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_of_vehicle
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Vehicle.

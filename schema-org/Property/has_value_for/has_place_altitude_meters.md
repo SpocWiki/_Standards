@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_altitude_meters
-linkTitle: has_altitude_meters
-
-keywords: [altitude]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - altitude_meters
 - altitude
 - has_value_for_altitude_meters
 - has_place_altitude_meters
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- altitude
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_altitude_meters
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_altitude_meters
+type: Predi_Quantity
 ---
 
 # [[has_place_altitude_meters]] 

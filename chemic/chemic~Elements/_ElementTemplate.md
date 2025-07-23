@@ -1,9 +1,9 @@
----
-type: Element
+﻿---
 tags:
 - chemic/Element
-
+type: Element
 ---
+
 SpocWebEntityId: {{SpocWebEntityId}}
 
 [Name-en::{{English}}]

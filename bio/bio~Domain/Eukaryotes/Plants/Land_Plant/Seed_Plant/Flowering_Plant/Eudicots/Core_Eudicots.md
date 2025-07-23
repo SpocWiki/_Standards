@@ -1,8 +1,8 @@
----
-title: Core Eudicots
+﻿---
 aliases:
-  - Core Eudicots
-  - Core Tricolpates
+- "Core Eudicots"
+- "Core Tricolpates"
+title: "Core Eudicots"
 ---
 
 ## Phylogeny 

@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_legislation_jurisdiction_of
-
-linkTitle: is_legislation_jurisdiction_of
-keywords: [legislation, jurisdiction]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - legislation-jurisdiction
 - legislation_jurisdiction
 - legislationJurisdiction
 - is_legislation_jurisdiction_of
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- legislation
+- jurisdiction
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_legislation_jurisdiction_of
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_legislation_jurisdiction_of
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

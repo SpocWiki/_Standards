@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_gastroenterologic Class
-linkTitle: is_a_gastroenterologic Class
-
-keywords: [gastroenterologic]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MedicalSpecialty
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - gastroenterologic
 - gastroenterologic
 - Gastroenterologic
 - is_a_gastroenterologic
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MedicalSpecialty
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- gastroenterologic
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_gastroenterologic Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_gastroenterologic Class"
+type: Type
 ---
 
 Class of all gastroenterologics.

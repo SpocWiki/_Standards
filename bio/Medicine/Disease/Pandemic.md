@@ -1,22 +1,22 @@
----
-has_id_wikidata: Q12184
-subclass_of:
-- "[[_Standards/WikiData/WD~systemic_risk,1369234]]"
-- "[[_Standards/WikiData/WD~external_risk,5422048]]"
-- '[[_Standards/WikiData/WD~epidemic,44512]]'
+﻿---
+Commons_category: Pandemics
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-- "[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]"
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~pandemic_prevention,88903302]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+EntitySchema_for_this_class: E184
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~pandemic_prevention,88903302]]'
+has_id_wikidata: Q12184
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20plague%20of%20Florence%20in%201348%2C%20as%20described%20in%20Boccaccio%27s%20Wellcome%20L0004057.jpg"
 MeSH_tree_code: N06.850.290.200.600
-UMLS_CUI: C1615608
-EntitySchema_for_this_class: E184
 OmegaWiki_Defined_Meaning: 8216
-Commons_category: Pandemics
+on_focus_list_of_Wikimedia_project:
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~systemic_risk,1369234]]'
+- '[[_Standards/WikiData/WD~external_risk,5422048]]'
+- '[[_Standards/WikiData/WD~epidemic,44512]]'
+UMLS_CUI: C1615608
 ---
 
 ## #has_/text_of_/abstract 

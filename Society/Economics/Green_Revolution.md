@@ -1,20 +1,20 @@
----
-has_id_wikidata: Q186050
-participant:
-  - "[[_Standards/WikiData/WD~Norman_Borlaug,154824]]"
-  - "[[_Standards/WikiData/WD~Nazareno_Strampelli,1224426]]"
-subclass_of: "[[_Standards/WikiData/WD~change,1150070]]"
-instance_of:
-  - "[[_Standards/WikiData/WD~agricultural_revolution,6499967]]"
-on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-OmegaWiki_Defined_Meaning: "1692"
-end_time: 1960-01-01
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Irrigation1.jpg
-Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
-start_time: 1940-01-01
+﻿---
 aliases:
-  - Third Agricultural Revolution
+- "Third Agricultural Revolution"
+end_time: 1960-01-01
+has_id_wikidata: Q186050
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Irrigation1.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~agricultural_revolution,6499967]]'
+OmegaWiki_Defined_Meaning: 1692
+on_focus_list_of_Wikimedia_project:
+- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+participant:
+- '[[_Standards/WikiData/WD~Norman_Borlaug,154824]]'
+- '[[_Standards/WikiData/WD~Nazareno_Strampelli,1224426]]'
+start_time: 1940-01-01
+subclass_of: '[[_Standards/WikiData/WD~change,1150070]]'
+Wolfram_Language_entity_code: "Entity[\"Concept\", \"GreenRevolution::2bt99\"]"
 ---
 
 # [[Green_Revolution]] 

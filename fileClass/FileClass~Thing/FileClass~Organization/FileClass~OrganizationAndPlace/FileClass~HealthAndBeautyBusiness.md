@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/HealthAndBeautyBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness
-  - is_a_/HealthAndBeautyBusiness
-  - schema-org/HealthAndBeautyBusiness
-tags:
-  - class/FileClass
-  - class/HealthAndBeautyBusiness
-  - is_a_/HealthAndBeautyBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/HealthAndBeautyBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness
+- is_a_/HealthAndBeautyBusiness
+- schema-org/HealthAndBeautyBusiness
+tags:
+- class/FileClass
+- class/HealthAndBeautyBusiness
+- is_a_/HealthAndBeautyBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness
+version: 2.0
 ---
 
 # HealthAndBeautyBusiness

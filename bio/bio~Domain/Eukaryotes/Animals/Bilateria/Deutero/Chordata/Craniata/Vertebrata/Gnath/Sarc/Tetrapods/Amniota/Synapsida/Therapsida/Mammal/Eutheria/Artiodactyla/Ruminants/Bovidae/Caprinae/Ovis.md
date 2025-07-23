@@ -1,8 +1,8 @@
----
-title: Ovis
+﻿---
 aliases:
-  - Ovis
+- Ovis
 has_id_wikidata: Q7368
+title: Ovis
 ---
 
 ## Phylogeny 

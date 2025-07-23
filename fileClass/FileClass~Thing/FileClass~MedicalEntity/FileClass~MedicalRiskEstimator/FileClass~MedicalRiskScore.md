@@ -1,26 +1,26 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalRiskScore
-  - class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore
-  - is_a_/MedicalRiskScore
-  - schema-org/MedicalRiskScore
-tags:
-  - class/FileClass
-  - class/MedicalRiskScore
-  - is_a_/MedicalRiskScore
-  - class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator
 fields:
-  - id: Vg1ZXg
-    name: Algorithm
-    options: {}
-    type: Input
-    path: ""
+- id: Vg1ZXg
+  name: Algorithm
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalRiskScore
+- class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore
+- is_a_/MedicalRiskScore
+- schema-org/MedicalRiskScore
+tags:
+- class/FileClass
+- class/MedicalRiskScore
+- is_a_/MedicalRiskScore
+- class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore
+version: 2.0
 ---
 
 # MedicalRiskScore

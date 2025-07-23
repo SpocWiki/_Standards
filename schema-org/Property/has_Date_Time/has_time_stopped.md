@@ -1,36 +1,36 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- date-deleted
+- date_deleted
+- dateDeleted
+- has_time_destroyed
+- has_time_deleted
+- has_time_ended
+- "has time cancelled"
+- endDate
+- endTime
+- cancelled
+- stopTime
+- has_time_stopped
 confidential: public
+cssclasses:
+- Predicate
+- Date_Time
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Date_Time
-publish: true
-type: Predi_Date_Time
-title: has_time_deleted
-linkTitle: 
 keywords: 
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: 
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Property
-  - schema-org/Property/Date
-aliases:
-  - date-deleted
-  - date_deleted
-  - dateDeleted
-  - has_time_destroyed
-  - has_time_deleted
-  - has_time_ended
-  - has time cancelled
-  - endDate 
-  - endTime 
-  - cancelled
-  - stopTime 
-  - has_time_stopped 
+- class/Property
+- schema-org/Property/Date
+title: has_time_deleted
+type: Predi_Date_Time
 ---
 
 #is_/similar_to :: #cancelled  

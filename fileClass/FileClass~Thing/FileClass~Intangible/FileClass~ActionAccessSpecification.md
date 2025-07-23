@@ -1,58 +1,58 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ActionAccessSpecification
-  - class/Thing/Intangible/ActionAccessSpecification
-  - is_an_/ActionAccessSpecification
-  - schema-org/ActionAccessSpecification
-tags:
-  - class/FileClass
-  - class/ActionAccessSpecification
-  - "#is_an_/ActionAccessSpecification"
-  - class/Thing/Intangible/ActionAccessSpecification
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: hHZZWv
-    name: AvailabilityEnds
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: imfVhD
-    name: AvailabilityStarts
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: Apa8Cg
-    name: EligibleRegion
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
-    type: MultiFile
-    path: ""
-  - id: vk6VGh
-    name: ExpectsAcceptanceOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
-    type: MultiFile
-    path: ""
-  - id: nxVbJv
-    name: IneligibleRegion
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
-    type: MultiFile
-    path: ""
-  - id: CxzaNJ
-    name: RequiresSubscription
-    options: {}
-    type: Boolean
-    path: ""
+- id: hHZZWv
+  name: AvailabilityEnds
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: imfVhD
+  name: AvailabilityStarts
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: Apa8Cg
+  name: EligibleRegion
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
+  type: MultiFile
+  path: ''
+- id: vk6VGh
+  name: ExpectsAcceptanceOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Offer')"
+  type: MultiFile
+  path: ''
+- id: nxVbJv
+  name: IneligibleRegion
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"
+  type: MultiFile
+  path: ''
+- id: CxzaNJ
+  name: RequiresSubscription
+  options: {}
+  type: Boolean
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ActionAccessSpecification
+- class/Thing/Intangible/ActionAccessSpecification
+- is_an_/ActionAccessSpecification
+- schema-org/ActionAccessSpecification
+tags:
+- class/FileClass
+- class/ActionAccessSpecification
+- '#is_an_/ActionAccessSpecification'
+- class/Thing/Intangible/ActionAccessSpecification
+version: 2.0
 ---
 
 # ActionAccessSpecification

@@ -1,10 +1,10 @@
----
-title: Hydracarina
+﻿---
 aliases:
-  - Hydracarina
-  - Hydrachnidiae
-  - Hydrachnidia
-  - Hydrachnellae
+- Hydracarina
+- Hydrachnidiae
+- Hydrachnidia
+- Hydrachnellae
+title: Hydracarina
 ---
 
 # [[Hydracarina]]

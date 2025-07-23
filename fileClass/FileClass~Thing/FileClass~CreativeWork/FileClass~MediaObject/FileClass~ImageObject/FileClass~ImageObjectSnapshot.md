@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/ImageObjectSnapshot
-  - class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot
-  - is_an_/ImageObjectSnapshot
-  - schema-org/ImageObjectSnapshot
-tags:
-  - class/FileClass
-  - class/ImageObjectSnapshot
-  - "#is_an_/ImageObjectSnapshot"
-  - class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/ImageObjectSnapshot
+- class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot
+- is_an_/ImageObjectSnapshot
+- schema-org/ImageObjectSnapshot
+tags:
+- class/FileClass
+- class/ImageObjectSnapshot
+- '#is_an_/ImageObjectSnapshot'
+- class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot
+version: 2.0
 ---
 
 # ImageObjectSnapshot

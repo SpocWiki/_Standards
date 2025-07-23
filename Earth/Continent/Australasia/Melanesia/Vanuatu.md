@@ -22,10 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Vanuatu
-  - فانواتو
-  - 瓦努阿图
-  - Вануату
+- Vanuatu
+- فانواتو
+- 瓦努阿图
+- Вануату
 - "the Republic of Vanuatu"
 - "la República de Vanuatu"
 Languages:
@@ -133,7 +133,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Saa,3460352]]'
 - "[[_Standards/WikiData/WD~Southwest_Tanna,3504488]]"
 - '[[_Standards/WikiData/WD~Unua,3552042]]'
-  - "[[_Standards/WikiData/WD~Vera'a,3555689]]"
+- "[[_Standards/WikiData/WD~Vera'a,3555689]]"
 - '[[_Standards/WikiData/WD~Vurës,3563857]]'
 - "[[_Standards/WikiData/WD~North_Efate,3580152]]"
 - '[[_Standards/WikiData/WD~Bieria,4904607]]'
@@ -265,15 +265,15 @@ motto_text:
 - "Safwn Gyda Duw"
 official_name:
 - "Ripablik blong Vanuatu"
-  - Vanuatu
+- Vanuatu
 - "Republic of Vanuatu"
-  - Vanuatu
+- Vanuatu
 - "la République du Vanuatu"
 - "République du Vanuatu"
-  - Vanuatu
+- Vanuatu
 native_label:
 - "Ripablik blong Vanuatu"
-  - Vanuatu
+- Vanuatu
 - "Republic of Vanuatu"
 - "République du Vanuatu"
 short_name: "\U0001F1FB\U0001F1FA"

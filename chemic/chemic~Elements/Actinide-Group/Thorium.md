@@ -1,62 +1,62 @@
----
-type: Element
-SpocWebEntityId: 21985
-has_id_wikidata: Q1115
-InChIKey: ZSLUVFAKFWKJRC-UHFFFAOYSA-N
-Unicode_character: 釷
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_7,244979]]"
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+﻿---
+atomic_number: 90
+canonical_SMILES: '[Th]'
+CAS_Registry_Number: 7440-29-1
+chemical_formula: Th
+Commons_category: Thorium
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+Dewey_Decimal_Classification:
+- 546.422
+- 669.2922
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+DSSTOX_compound_identifier: DTXCID6029759
+EC_number: 231-139-7
+electronegativity: 1
+element_symbol: Th
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+has_id_wikidata: Q1115
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thorium%20sample%200.1g.jpg"
+InChI: InChI=1S/Th
+InChIKey: ZSLUVFAKFWKJRC-UHFFFAOYSA-N
 instance_of:
 - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- "[[_Standards/WikiData/WD~chemical_element,11344]]"
-found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
-UMLS_CUI: C0039994
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20151.jpg"
-oxidation_state:
-- 1
-- 2
-- 3
-- 4
-electronegativity: 1
-Mohs_hardness: 3
-atomic_number: 90
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
 - 0.94
 - 1.05
 - 1.13
 - 1.21
-named_after: '[[_Standards/WikiData/WD~Thor,42952]]'
-PubChem_CID: 23960
-chemical_formula: Th
-element_symbol: Th
+Krugosvet_article: nauka_i_tehnika/himiya/TORI.html
 mass: 232.0377
-OmegaWiki_Defined_Meaning: 365213
-time_of_discovery_or_invention: "1828"
-Commons_category: Thorium
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Thorium%20sample%200.1g.jpg"
-canonical_SMILES: '[Th]'
-EC_number: 231-139-7
-Dewey_Decimal_Classification:
-- 546.422
-- 669.2922
-UNII: 60YU5MIG9W
-CAS_Registry_Number: 7440-29-1
 MeSH_tree_code:
 - D01.268.271.100.900
 - D01.268.556.850
 - D01.496.749.305.100.900
 - D01.552.020.889
 - D01.552.544.850
-DSSTOX_compound_identifier: DTXCID6029759
-InChI: InChI=1S/Th
-Krugosvet_article: nauka_i_tehnika/himiya/TORI.html
+Mohs_hardness: 3
+named_after: '[[_Standards/WikiData/WD~Thor,42952]]'
+OmegaWiki_Defined_Meaning: 365213
+oxidation_state:
+- 1
+- 2
+- 3
+- 4
+part_of:
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
+plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20151.jpg"
+PubChem_CID: 23960
+SpocWebEntityId: 21985
+time_of_discovery_or_invention: 1828
+type: Element
+UMLS_CUI: C0039994
+Unicode_character: 釷
+UNII: 60YU5MIG9W
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 

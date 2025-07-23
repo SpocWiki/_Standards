@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_digital_audio_tape_format Class
-linkTitle: is_a_digital_audio_tape_format Class
-
-keywords: [digital_audio_tape_format]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: MusicReleaseFormatType
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - digital-audio-tape-format
 - digital_audio_tape_format
 - DigitalAudioTapeFormat
 - is_a_digital_audio_tape_format
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: MusicReleaseFormatType
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- digital_audio_tape_format
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_digital_audio_tape_format Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_digital_audio_tape_format Class"
+type: Type
 ---
 
 Class of all digital_audio_tape_formats.

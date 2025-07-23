@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_anaerobic_activity Class
-linkTitle: is_an_anaerobic_activity Class
-
-keywords: [anaerobic_activity]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PhysicalActivityCategory
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - anaerobic-activity
 - anaerobic_activity
 - AnaerobicActivity
 - is_an_anaerobic_activity
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PhysicalActivityCategory
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- anaerobic_activity
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_anaerobic_activity Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_anaerobic_activity Class"
+type: Type
 ---
 
 Class of all anaerobic_activitys.

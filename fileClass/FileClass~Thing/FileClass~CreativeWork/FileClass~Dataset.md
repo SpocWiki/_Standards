@@ -1,44 +1,44 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Dataset
-  - class/Thing/CreativeWork/Dataset
-  - is_a_/Dataset
-  - schema-org/Dataset
-tags:
-  - class/FileClass
-  - class/Dataset
-  - is_a_/Dataset
-  - class/Thing/CreativeWork/Dataset
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 2eWA3z
-    name: Distribution
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/DataDownload')
-    type: MultiFile
-    path: ""
-  - id: lq6WYp
-    name: IncludedInDataCatalog
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/DataCatalog')
-    type: MultiFile
-    path: ""
-  - id: ma3Bcc
-    name: Issn
-    options: {}
-    type: Input
-    path: ""
-  - id: uMh0XN
-    name: VariableMeasured
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
-    type: MultiFile
-    path: ""
+- id: 2eWA3z
+  name: Distribution
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MediaObject/DataDownload')"
+  type: MultiFile
+  path: ''
+- id: lq6WYp
+  name: IncludedInDataCatalog
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/DataCatalog')"
+  type: MultiFile
+  path: ''
+- id: ma3Bcc
+  name: Issn
+  options: {}
+  type: Input
+  path: ''
+- id: uMh0XN
+  name: VariableMeasured
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Dataset
+- class/Thing/CreativeWork/Dataset
+- is_a_/Dataset
+- schema-org/Dataset
+tags:
+- class/FileClass
+- class/Dataset
+- is_a_/Dataset
+- class/Thing/CreativeWork/Dataset
+version: 2.0
 ---
 
 # Dataset

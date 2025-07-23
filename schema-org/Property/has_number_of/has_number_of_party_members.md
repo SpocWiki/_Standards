@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Count
-publish: true
-
-# Hugo Tags
-type: Predi_Count
-
-title: has_number_of_party_size
-linkTitle: has_number_of_party_size
-
-keywords: [party_size]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Count
-
+﻿---
 aliases:
 - party-size
 - party_size
 - partySize
 - has_number_of_party_members
+confidential: public
+cssclasses: "Predicate Count"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- party_size
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_number_of_party_size
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Count
+title: has_number_of_party_size
+type: Predi_Count
 ---
 
 Predicate to describe the Number of FoodEstablishmentReservation, TaxiReservation.

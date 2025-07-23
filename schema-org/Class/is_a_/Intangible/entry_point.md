@@ -1,29 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- entry-point
+- entry_point
+- EntryPoint
+- is_an_entry_point
+- Endpoint
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_an_entry_point Class
-linkTitle: is_an_entry_point Class
 keywords: entry_point
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_entry_point Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-aliases:
-  - entry-point
-  - entry_point
-  - EntryPoint
-  - is_an_entry_point
-  - Endpoint
+- class/Class
+- schema-org/Class
+title: "is_an_entry_point Class"
+type: Type
 ---
+
 ﻿
 Class of all Online-Service entry_points / Endpoints.
 

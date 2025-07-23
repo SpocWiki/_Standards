@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/AdvertiserContentArticle
-  - class/Thing/CreativeWork/Article/AdvertiserContentArticle
-  - is_an_/AdvertiserContentArticle
-  - schema-org/AdvertiserContentArticle
-tags:
-  - class/FileClass
-  - class/AdvertiserContentArticle
-  - "#is_an_/AdvertiserContentArticle"
-  - class/Thing/CreativeWork/Article/AdvertiserContentArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/AdvertiserContentArticle
+- class/Thing/CreativeWork/Article/AdvertiserContentArticle
+- is_an_/AdvertiserContentArticle
+- schema-org/AdvertiserContentArticle
+tags:
+- class/FileClass
+- class/AdvertiserContentArticle
+- '#is_an_/AdvertiserContentArticle'
+- class/Thing/CreativeWork/Article/AdvertiserContentArticle
+version: 2.0
 ---
 
 # AdvertiserContentArticle

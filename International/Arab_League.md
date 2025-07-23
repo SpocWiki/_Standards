@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Arab League
+- "Arab League"
 has_id_wikidata: Q7172
 ---
-
 
 ## #has_/text_of_/abstract 
 

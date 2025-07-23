@@ -1,33 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_diagram
-
-linkTitle: has_diagram
-keywords: [diagram]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - diagram
 - diagram
 - diagram
 - has_diagram
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- diagram
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_diagram
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_diagram
+type: Predi_Relation
 ---
 
 Use it like this: 

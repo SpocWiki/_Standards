@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_claim_reviewed
-linkTitle: has_text_of_claim_reviewed
-
-keywords: [claim, reviewed]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - claim-reviewed
 - claim_reviewed
 - claimReviewed
 - has_text_of_claim_reviewed
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- claim
+- reviewed
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_claim_reviewed
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_claim_reviewed
+type: Pred_Text
 ---
 
 Predicate to describe the Text of ClaimReview.

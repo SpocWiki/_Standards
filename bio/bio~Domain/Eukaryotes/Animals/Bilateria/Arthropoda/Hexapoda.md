@@ -1,8 +1,8 @@
----
-title: Hexapoda
+﻿---
 aliases:
-  - Hexapoda
+- Hexapoda
 has_id_wikidata: Q105146
+title: Hexapoda
 ---
 
 ## Phylogeny 

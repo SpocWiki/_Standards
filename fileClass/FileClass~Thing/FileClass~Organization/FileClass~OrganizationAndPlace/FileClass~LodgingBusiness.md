@@ -1,63 +1,63 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: hotel
-version: "2.0"
-tagNames:
-  - class/LodgingBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
-  - is_a_/LodgingBusiness
-  - schema-org/LodgingBusiness
-tags:
-  - class/FileClass
-  - class/LodgingBusiness
-  - is_a_/LodgingBusiness
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields:
-  - id: DkW72m
-    name: Audience
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
-    type: MultiFile
-    path: ""
-  - id: g4WGz0
-    name: AvailableLanguage
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
-    type: MultiFile
-    path: ""
-  - id: DYwPhI
-    name: CheckinTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: 7kEtdu
-    name: CheckoutTime
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: Z1hiO7
-    name: NumberOfRooms
-    options: {}
-    type: Number
-    path: ""
-  - id: parde4
-    name: PetsAllowed
-    options: {}
-    type: Boolean
-    path: ""
-  - id: jVLWDT
-    name: StarRating
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
-    type: MultiFile
-    path: ""
+- id: DkW72m
+  name: Audience
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Audience')"
+  type: MultiFile
+  path: ''
+- id: g4WGz0
+  name: AvailableLanguage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
+  type: MultiFile
+  path: ''
+- id: DYwPhI
+  name: CheckinTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: 7kEtdu
+  name: CheckoutTime
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: Z1hiO7
+  name: NumberOfRooms
+  options: {}
+  type: Number
+  path: ''
+- id: parde4
+  name: PetsAllowed
+  options: {}
+  type: Boolean
+  path: ''
+- id: jVLWDT
+  name: StarRating
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Rating')"
+  type: MultiFile
+  path: ''
+icon: hotel
+limit: 9
+mapWithTag: true
+tagNames:
+- class/LodgingBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
+- is_a_/LodgingBusiness
+- schema-org/LodgingBusiness
+tags:
+- class/FileClass
+- class/LodgingBusiness
+- is_a_/LodgingBusiness
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
+version: 2.0
 ---
 
 # LodgingBusiness

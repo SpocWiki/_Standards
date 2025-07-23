@@ -1,52 +1,52 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/UnitPriceSpecification
-  - class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
-  - is_an_/UnitPriceSpecification
-  - schema-org/UnitPriceSpecification
-tags:
-  - class/FileClass
-  - class/UnitPriceSpecification
-  - "#is_an_/UnitPriceSpecification"
-  - class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-  - id: G8jUdd
-    name: BillingDuration
-    options: {}
-    type: Number
-    path: ""
-  - id: yRmq70
-    name: BillingIncrement
-    options: {}
-    type: Number
-    path: ""
-  - id: F8baPm
-    name: BillingStart
-    options: {}
-    type: Number
-    path: ""
-  - id: eZthJs
-    name: ReferenceQuantity
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: YZlgWk
-    name: UnitCode
-    options: {}
-    type: Input
-    path: ""
-  - id: svdYh4
-    name: UnitText
-    options: {}
-    type: Input
-    path: ""
+- id: G8jUdd
+  name: BillingDuration
+  options: {}
+  type: Number
+  path: ''
+- id: yRmq70
+  name: BillingIncrement
+  options: {}
+  type: Number
+  path: ''
+- id: F8baPm
+  name: BillingStart
+  options: {}
+  type: Number
+  path: ''
+- id: eZthJs
+  name: ReferenceQuantity
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"
+  type: MultiFile
+  path: ''
+- id: YZlgWk
+  name: UnitCode
+  options: {}
+  type: Input
+  path: ''
+- id: svdYh4
+  name: UnitText
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/UnitPriceSpecification
+- class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
+- is_an_/UnitPriceSpecification
+- schema-org/UnitPriceSpecification
+tags:
+- class/FileClass
+- class/UnitPriceSpecification
+- '#is_an_/UnitPriceSpecification'
+- class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
+version: 2.0
 ---
 
 # UnitPriceSpecification

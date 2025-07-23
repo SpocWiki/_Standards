@@ -1,10 +1,10 @@
----
-title: Ruminantia
+﻿---
 aliases:
-  - Wiederkäuer
-  - Ruminants
-  - Ruminant
-  - Ruminantia
+- Wiederkäuer
+- Ruminants
+- Ruminant
+- Ruminantia
+title: Ruminantia
 ---
 
 # [[Ruminants]] 

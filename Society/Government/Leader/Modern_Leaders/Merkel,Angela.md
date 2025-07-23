@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Merkel
-  - Angela Merkel
-  - Angela Dorothea Merkel
-  - Angela Dorothea Kasner
+- Merkel
+- "Angela Merkel"
+- "Angela Dorothea Merkel"
+- "Angela Dorothea Kasner"
 ---
 
 ## #has_/text_of_/abstract 

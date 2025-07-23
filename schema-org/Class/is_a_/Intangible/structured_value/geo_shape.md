@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_geo_shape Class
-linkTitle: is_a_geo_shape Class
-
-keywords: [geo_shape]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - geo-shape
 - geo_shape
 - GeoShape
 - is_a_geo_shape
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- geo_shape
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_geo_shape Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_geo_shape Class"
+type: Type
 ---
 
 Class of all geo_shapes.

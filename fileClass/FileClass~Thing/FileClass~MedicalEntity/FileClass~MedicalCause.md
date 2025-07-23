@@ -1,27 +1,27 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MedicalCause
-  - class/Thing/MedicalEntity/MedicalCause
-  - is_a_/MedicalCause
-  - schema-org/MedicalCause
-tags:
-  - class/FileClass
-  - class/MedicalCause
-  - is_a_/MedicalCause
-  - class/Thing/MedicalEntity/MedicalCause
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: ky4cUQ
-    name: CauseOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
-    type: MultiFile
-    path: ""
+- id: ky4cUQ
+  name: CauseOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MedicalCause
+- class/Thing/MedicalEntity/MedicalCause
+- is_a_/MedicalCause
+- schema-org/MedicalCause
+tags:
+- class/FileClass
+- class/MedicalCause
+- is_a_/MedicalCause
+- class/Thing/MedicalEntity/MedicalCause
+version: 2.0
 ---
 
 # MedicalCause

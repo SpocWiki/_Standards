@@ -1,33 +1,33 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- accepted-offer
+- accepted_offer
+- acceptedOffer
+- has_accepted_offer
 confidential: public
+cssclasses:
+- Predicate
+- Relation
+draft: false
+expiryDate: 
+fileClass:
+- Relation-File
+has_domain: '[[Order]]'
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Predicate
-  - Relation
-fileClass:
-  - Relation-File
-publish: true
-type: Predi_Relation
-title: has_accepted_offer
-linkTitle: has_accepted_offer
 keywords:
-  - accepted
-  - offer
+- accepted
+- offer
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: has_accepted_offer
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Relation
-  - schema-org/Relation
-has_domain: "[[Order]]"
-aliases:
-  - accepted-offer
-  - accepted_offer
-  - acceptedOffer
-  - has_accepted_offer
+- class/Relation
+- schema-org/Relation
+title: has_accepted_offer
+type: Predi_Relation
 ---
 
 Use it like this: 

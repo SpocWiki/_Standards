@@ -232,11 +232,11 @@ short_name:
   - JAR
   - 南非
   - 南非
-- "\U0001F1FF\U0001F1E6"
+  - "\U0001F1FF\U0001F1E6"
 motto_text:
 - "Undod drwy Amrywiaeth"
 - "Inspiring new ways"
-  - "ǃke e: ǀxarra ǁke"
+- "ǃke e: ǀxarra ǁke"
 - "Ex Unitate Vires"
 country: "[[_Standards/WikiData/WD~South_Africa,258]]"
 shares_border_with:
@@ -317,20 +317,20 @@ INSEE_countries_and_foreign_territories_code: 99303
 area: 1221037
 native_label:
 - "South Africa"
-  - Suid-Afrika
+- Suid-Afrika
 - "iSewula Afrika"
 - "Afrika Borwa"
 - "iNingizimu Afrika"
 - "Afrika Borwa"
 - "Aforika Borwa"
-  - Afrika-Dzonga
+- Afrika-Dzonga
 - "Afurika Tshipembe"
 - "uMzantsi Afrika"
 - "iNingizimu Afrika"
 number_of_out_of_school_children: 1815742
 ITU_letter_code: AFS
 demonym:
-- "South African"
+  - "South African"
   - Suid-Afrikaner
   - Sud-africain
   - Sud-africaine

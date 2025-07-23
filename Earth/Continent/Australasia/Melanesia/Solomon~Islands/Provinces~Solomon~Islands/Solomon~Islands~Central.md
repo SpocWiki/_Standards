@@ -1,30 +1,28 @@
----
-location: [ -9.06 , 160.2 ] 
-type: geo-Region
-title: Solomon~Islands~Central
-
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country/Region
+﻿---
 aliases:
 - Solomon~Islands~Central
-
+confidential: public
+cssclasses: geo-Region
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
 Languages:
 - de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
 layout: 
+license: "CC BY-SA 4.0"
+linkTitle: 
+location:
+- -9.06
+- 160.2
+publish: true
 publishDate: 
-expiryDate: 
+source: "https://datahub.io/core/country-codes"
+tags:
+- geo/Country/Region
+title: Solomon~Islands~Central
+type: geo-Region
 ---
 
 # Solomon~Islands~Central

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_image_object Class
-linkTitle: is_an_image_object Class
-
-keywords: [image_object]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.org/dc/dcmitype/Image
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - image-object
 - image_object
 - ImageObject
 - is_an_image_object
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://purl.org/dc/dcmitype/Image"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- image_object
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_image_object Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_image_object Class"
+type: Type
 ---
 
 Class of all image_objects.

@@ -1,46 +1,46 @@
----
+﻿---
+bookmarksGroups: 
+excludes: 
+extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
+favoriteView: 
+fields:
+- id: 7KritP
+  name: Album
+  options:
+    dvQueryString: "dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"
+  type: MultiFile
+  path: ''
+- id: N8Scii
+  name: Genre
+  options: {}
+  type: Input
+  path: ''
+- id: KTnAtL
+  name: Track
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/ItemList')"
+  type: MultiFile
+  path: ''
+fieldsOrder:
+- KTnAtL
+- N8Scii
+- 7KritP
+filesPaths: 
+icon: music
 limit: 9
 mapWithTag: true
-excludes: 
-icon: music
-version: "2.1"
-tagNames:
-  - class/MusicGroup
-  - class/Thing/Organization/PerformingGroup/MusicGroup
-  - is_a_/MusicGroup
-  - schema-org/MusicGroup
-tags:
-  - class/FileClass
-  - class/MusicGroup
-  - is_a_/MusicGroup
-  - class/Thing/Organization/PerformingGroup/MusicGroup
-extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
-fields:
-  - id: 7KritP
-    name: Album
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
-    type: MultiFile
-    path: ""
-  - id: N8Scii
-    name: Genre
-    options: {}
-    type: Input
-    path: ""
-  - id: KTnAtL
-    name: Track
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
-    type: MultiFile
-    path: ""
-filesPaths: 
-bookmarksGroups: 
 savedViews: []
-favoriteView: 
-fieldsOrder:
-  - KTnAtL
-  - N8Scii
-  - 7KritP
+tagNames:
+- class/MusicGroup
+- class/Thing/Organization/PerformingGroup/MusicGroup
+- is_a_/MusicGroup
+- schema-org/MusicGroup
+tags:
+- class/FileClass
+- class/MusicGroup
+- is_a_/MusicGroup
+- class/Thing/Organization/PerformingGroup/MusicGroup
+version: 2.1
 ---
 
 # MusicGroup

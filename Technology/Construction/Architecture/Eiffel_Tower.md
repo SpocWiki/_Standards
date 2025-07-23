@@ -1,102 +1,102 @@
----
+﻿---
+3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/EiffelTower%20fixed.stl"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20at%20night%2020150801-2.jpg"
 aliases:
 - "Eiffel Tower"
-has_id_wikidata: Q243
-located_on_street:
-- "[[_Standards/WikiData/WD~Champ_de_Mars,217925]]"
-- "[[_Standards/WikiData/WD~avenue_Anatole-France,2873520]]"
-location: "[[_Standards/WikiData/WD~Champ_de_Mars,217925]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]"
-structural_engineer:
-- "[[_Standards/WikiData/WD~Émile_Nouguier,286254]]"
-- "[[_Standards/WikiData/WD~Maurice_Koechlin,339645]]"
-has_use: "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-instance_of:
-- "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-- "[[_Standards/WikiData/WD~observation_tower,1440300]]"
-- "[[_Standards/WikiData/WD~lattice_tower,1440476]]"
-- "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
+architect: '[[_Standards/WikiData/WD~Stéphen_Sauvestre,778243]]'
+commissioned_by: '[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]'
+Commons_category: "Eiffel Tower"
+Commons_gallery: "Tour Eiffel"
+coordinate_location: "Point(2.294479 48.858296)"
+country: '[[_Standards/WikiData/WD~France,142]]'
+date_of_official_opening:
+- 1889-05-15
+- 1889-03-31
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~Bodláčí_z_Parnassu,19523733]]"
-- "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-architect: "[[_Standards/WikiData/WD~Stéphen_Sauvestre,778243]]"
-made_from_material:
-- "[[_Standards/WikiData/WD~wrought_iron,860451]]"
-- "[[_Standards/WikiData/WD~puddled_iron,2642947]]"
-- '[[_Standards/WikiData/WD~steel,11427]]'
-has_facility: "[[_Standards/WikiData/WD~Olympic_rings,1224195]]"
-owned_by:
-- "[[_Standards/WikiData/WD~Government_of_the_French_Republic,1450662]]"
-- "[[_Standards/WikiData/WD~municipality_of_Paris,3278478]]"
-part_of: "[[_Standards/WikiData/WD~banks_of_the_Seine,2233532]]"
-offers_view_on: "[[_Standards/WikiData/WD~Le_Jules_Verne,3223818]]"
-inspired_by: "[[_Standards/WikiData/WD~Latting_Observatory,3348376]]"
-heritage_designation:
-- "[[_Standards/WikiData/WD~monument_historique_inscrit,10387575]]"
-- "[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]"
-operator: "[[_Standards/WikiData/WD~Société_d'exploitation_de_la_tour_Eiffel,16008666]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689717,25689717]]'
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/BenBois%20Eiffel%20Tower.svg"
-view: "http://commons.wikimedia.org/wiki/Special:FilePath/Champ%20de%20Mars%20from%20the%20Eiffel%20Tower%20-%20July%202006%20edit.jpg"
-nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Eifel%20Tower%20at%20evening%2C%20Paris%2C%20France%20%28Ank%20Kumar%29%2011.jpg"
-aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20at%20night%2020150801-2.jpg"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20Drone%204k-Qx%20c1X3zfEc-313-251.webm"
-schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20plans%2001.jpg"
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Eiffel%20Tower.wav"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Pronunciation.ogg"
-image_of_interior: "http://commons.wikimedia.org/wiki/Special:FilePath/Sous%20la%20Tour%20Eiffel%201.jpg"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg"
-winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Paris%20in%20the%20winter%20%2838441642120%29.jpg"
-webcam_page_URL: "https://www.skylinewebcams.com/fr/webcam/france/ile-de-france/paris/tour-eiffel.html"
-official_website:
-- "https://www.toureiffel.paris"
-- "https://www.toureiffel.paris/en"
-- "https://www.toureiffel.paris/it"
-Google_Doodle: 126th-anniversary-of-the-public-opening-of-the-eiffel-tower
-FANTOIR_code: 757107P320D
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Bodláčí_z_Parnassu,19523733]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 DPLA_subject_term:
 - "Eiffel Tower (Paris, France)"
 - "Tour Eiffel (Paris, France)"
+Facebook_username: TourEiffel
+FANTOIR_code: 757107P320D
+floors_above_ground: 3
+Google_Doodle: 126th-anniversary-of-the-public-opening-of-the-eiffel-tower
+ground_level_360_degree_view_URL: "https://360stories.com/paris/place/eiffel-tower-at-night"
 hashtag:
 - EiffelTower
 - Eiffelturm
 - TourEiffel
-Wolfram_Language_entity_code: "Entity[\"Building\", \"EiffelTower::5h9w8\"]"
-Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/EFELEVA_BASHNYA.html
-X_Twitter_username: LaTourEiffel
-Commons_gallery: "Tour Eiffel"
-Facebook_username: TourEiffel
-Instagram_username: toureiffelofficielle
-native_label: "tour Eiffel"
-date_of_official_opening:
-- "1889-05-15"
-- "1889-03-31"
-inception:
-- "1889-03-31"
-- "1887-01-28"
-ground_level_360_degree_view_URL: "https://360stories.com/paris/place/eiffel-tower-at-night"
-coordinate_location: "Point(2.294479 48.858296)"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20Paris%20banner.jpg"
-image_of_entrance: "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Eiffelturm10.jpg"
-main_building_contractor: "[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]"
-named_after: "[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]"
-commissioned_by: "[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]"
-country: '[[_Standards/WikiData/WD~France,142]]'
-floors_above_ground: 3
-number_of_elevators: 8
+has_facility: '[[_Standards/WikiData/WD~Olympic_rings,1224195]]'
+has_id_wikidata: Q243
+has_use: '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
 height: 330
+heritage_designation:
+- '[[_Standards/WikiData/WD~monument_historique_inscrit,10387575]]'
+- '[[_Standards/WikiData/WD~Historic_Civil_Engineering_Landmark,56637937]]'
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/BenBois%20Eiffel%20Tower.svg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Wikimedia%20Commons.jpg"
+image_of_entrance: "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Eiffelturm10.jpg"
+image_of_interior: "http://commons.wikimedia.org/wiki/Special:FilePath/Sous%20la%20Tour%20Eiffel%201.jpg"
+inception:
+- 1889-03-31
+- 1887-01-28
+inspired_by: '[[_Standards/WikiData/WD~Latting_Observatory,3348376]]'
+Instagram_username: toureiffelofficielle
+instance_of:
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~observation_tower,1440300]]'
+- '[[_Standards/WikiData/WD~lattice_tower,1440476]]'
+- '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/EFELEVA_BASHNYA.html
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]'
+located_on_street:
+- '[[_Standards/WikiData/WD~Champ_de_Mars,217925]]'
+- '[[_Standards/WikiData/WD~avenue_Anatole-France,2873520]]'
+location: '[[_Standards/WikiData/WD~Champ_de_Mars,217925]]'
+made_from_material:
+- '[[_Standards/WikiData/WD~wrought_iron,860451]]'
+- '[[_Standards/WikiData/WD~puddled_iron,2642947]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+main_building_contractor: '[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]'
 mass: 10100
+named_after: '[[_Standards/WikiData/WD~Gustave_Eiffel,20882]]'
+native_label: "tour Eiffel"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Eifel%20Tower%20at%20evening%2C%20Paris%2C%20France%20%28Ank%20Kumar%29%2011.jpg"
+number_of_elevators: 8
+offers_view_on: '[[_Standards/WikiData/WD~Le_Jules_Verne,3223818]]'
+official_website:
+- "https://www.toureiffel.paris"
+- "https://www.toureiffel.paris/en"
+- "https://www.toureiffel.paris/it"
+operator: "[[_Standards/WikiData/WD~Société_d'exploitation_de_la_tour_Eiffel,16008666]]"
+owned_by:
+- '[[_Standards/WikiData/WD~Government_of_the_French_Republic,1450662]]'
+- '[[_Standards/WikiData/WD~municipality_of_Paris,3278478]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20Paris%20banner.jpg"
+part_of: '[[_Standards/WikiData/WD~banks_of_the_Seine,2233532]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689717,25689717]]'
 postal_code: 75007
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Eiffel%20Tower.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Tour%20Eiffel%20Pronunciation.ogg"
+public_domain_date: 1993
+schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20plans%2001.jpg"
 social_media_followers: 356097
+structural_engineer:
+- '[[_Standards/WikiData/WD~Émile_Nouguier,286254]]'
+- '[[_Standards/WikiData/WD~Maurice_Koechlin,339645]]'
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20Drone%204k-Qx%20c1X3zfEc-313-251.webm"
+view: "http://commons.wikimedia.org/wiki/Special:FilePath/Champ%20de%20Mars%20from%20the%20Eiffel%20Tower%20-%20July%202006%20edit.jpg"
 visitors_per_year: 6207303
-public_domain_date: "1993"
-3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/EiffelTower%20fixed.stl"
-Commons_category: "Eiffel Tower"
+webcam_page_URL: "https://www.skylinewebcams.com/fr/webcam/france/ile-de-france/paris/tour-eiffel.html"
+winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Paris%20in%20the%20winter%20%2838441642120%29.jpg"
+Wolfram_Language_entity_code: "Entity[\"Building\", \"EiffelTower::5h9w8\"]"
+X_Twitter_username: LaTourEiffel
 ---
 
 ## #has_/text_of_/abstract 

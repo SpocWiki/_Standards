@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
-publish: true
-
-# Hugo Tags
-type: Predi_Url
-
-title: has_url_for_significant_link
-linkTitle: has_url_for_significant_link
-
-keywords: [significant_link]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: significantLinks
-
-tags:
-- class/Property
-- schema-org/Property/Url
-
+﻿---
 aliases:
 - significant-link
 - significant_link
 - significantLink
 - has_url_for_significant_link
+confidential: public
+cssclasses: "Predicate Url"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- significant_link
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_url_for_significant_link
+publish: true
+publishDate: 
+supersedes: significantLinks
+tags:
+- class/Property
+- schema-org/Property/Url
+title: has_url_for_significant_link
+type: Predi_Url
 ---
 
 Predicate to specify the Url of WebPage.

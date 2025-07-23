@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Boolean
-publish: true
-
-# Hugo Tags
-type: Pred_Bool
-
-title: is_shipping
-linkTitle: is_shipping
-
-keywords: [shipping]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/True
-
+﻿---
 aliases:
 - shipping
 - shipping
 - doesNotShip
 - is_shipping
+confidential: public
+cssclasses: "Predicate Boolean"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- shipping
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_shipping
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/True
+title: is_shipping
+type: Pred_Bool
 ---
 
 [ #is_/part_of :: pending: ]

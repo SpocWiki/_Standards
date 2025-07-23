@@ -1,34 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_lodging_unit_description
-linkTitle: has_text_of_lodging_unit_description
-
-keywords: [lodging, unit, description]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - lodging-unit-description
 - lodging_unit_description
 - lodgingUnitDescription
 - has_text_of_lodging_unit_description
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- lodging
+- unit
+- description
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_lodging_unit_description
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_lodging_unit_description
+type: Pred_Text
 ---
 
 Predicate to describe the Text of LodgingReservation.

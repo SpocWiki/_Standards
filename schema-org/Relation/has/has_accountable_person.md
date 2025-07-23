@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_accountable_person
-
-linkTitle: has_accountable_person
-keywords: [accountable, person]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - accountable-person
 - accountable_person
 - accountablePerson
 - has_accountable_person
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- accountable
+- person
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_accountable_person
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_accountable_person
+type: Predi_Relation
 ---
 
 Use it like this: 

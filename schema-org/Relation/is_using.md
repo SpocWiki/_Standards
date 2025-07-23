@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - prov:used
+- "prov:used"
 ---
 
 Different from [is_using_up](../../Class/is_a_/action/consume_action/use_action.md) this indicates a non-consuming application of an Entity/Tool for its intended Purpose. 

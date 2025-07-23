@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Jürgen Klopp
+- "Jürgen Klopp"
 ---
 
 > Jürgen Norbert Klopp (German pronunciation: [ˈjʏʁɡn̩ ˈklɔp] ; born 16 June 1967) 

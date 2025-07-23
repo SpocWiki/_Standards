@@ -1,19 +1,38 @@
----
-type: Element
-SpocWebEntityId: 21954
-has_id_wikidata: Q1385
-discoverer_or_inventor:
-- "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
-- "[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]"
-part_of:
-- "[[_Standards/WikiData/WD~period_6,239813]]"
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+﻿---
+atomic_number: 58
+canonical_SMILES: '[Ce]'
+CAS_Registry_Number: 7440-45-1
+chemical_formula: Ce
+Commons_category: Cerium
+Commons_gallery: Cerium
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+discoverer_or_inventor:
+- '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+- '[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]'
+DSSTOX_compound_identifier: DTXCID4032328
+EC_number: 231-154-9
+electronegativity: 1.12
+element_symbol: Ce
+Gmelin_number: 16275
+has_id_wikidata: Q1385
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/CE2k2g.jpg"
+InChI: InChI=1S/Ce
+InChIKey: GWXLDORMOJMVQZ-UHFFFAOYSA-N
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+ionic_radius:
+- 0.97
+- 1.01
+- 1.07
+- 1.14
+- 1.25
+- 1.34
+- 0.87
+Krugosvet_article: nauka_i_tehnika/himiya/TSERI.html
 made_from_material:
 - '[[_Standards/WikiData/WD~rhabdophane-(Ce),653384]]'
 - '[[_Standards/WikiData/WD~aeschynite-(Ce),947884]]'
@@ -155,43 +174,24 @@ made_from_material:
 - '[[_Standards/WikiData/WD~illoqite-(Ce),108147198]]'
 - '[[_Standards/WikiData/WD~håleniusite-(Ce),109301417]]'
 - '[[_Standards/WikiData/WD~mizraite-(Ce),114566697]]'
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/CE2k2g.jpg"
-canonical_SMILES: '[Ce]'
-ionic_radius:
-- 0.97
-- 1.01
-- 1.07
-- 1.14
-- 1.25
-- 1.34
-- 0.87
-electronegativity: 1.12
-Gmelin_number: 16275
-ZVG_number: 8430
 mass: 140.116
-PubChem_CID: 23974
-OmegaWiki_Defined_Meaning: 156939
-element_symbol: Ce
-chemical_formula: Ce
-time_of_discovery_or_invention: "1804"
-Commons_gallery: Cerium
-Commons_category: Cerium
-EC_number: 231-154-9
-UNII: 30K4522N6T
-CAS_Registry_Number: 7440-45-1
 MeSH_tree_code:
 - D01.268.558.362.249
 - D01.552.550.399.249
-DSSTOX_compound_identifier: DTXCID4032328
-InChIKey: GWXLDORMOJMVQZ-UHFFFAOYSA-N
-InChI: InChI=1S/Ce
-Krugosvet_article: nauka_i_tehnika/himiya/TSERI.html
-Unicode_character: 鈰
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828395,22828395]]'
-UMLS_CUI: C0007828
 named_after: '[[_Standards/WikiData/WD~Ceres,596]]'
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-atomic_number: 58
+OmegaWiki_Defined_Meaning: 156939
+part_of:
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828395,22828395]]'
+PubChem_CID: 23974
+SpocWebEntityId: 21954
+time_of_discovery_or_invention: 1804
+type: Element
+UMLS_CUI: C0007828
+Unicode_character: 鈰
+UNII: 30K4522N6T
+ZVG_number: 8430
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Cerium,1385]] 

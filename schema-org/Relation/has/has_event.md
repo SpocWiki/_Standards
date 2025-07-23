@@ -1,35 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_event
-
-linkTitle: has_event
-keywords: [event]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: events
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - event
 - event
 - event
 - has_event
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- event
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_event
+publish: true
+publishDate: 
+supersedes: events
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_event
+type: Predi_Relation
 ---
 
 # [[has_event]] 

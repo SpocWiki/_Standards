@@ -1,77 +1,77 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BroadcastService
-  - class/Thing/Intangible/Service/BroadcastService
-  - is_a_/BroadcastService
-  - schema-org/BroadcastService
-tags:
-  - class/FileClass
-  - class/BroadcastService
-  - is_a_/BroadcastService
-  - class/Thing/Intangible/Service/BroadcastService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: PCSD4Q
-    name: BroadcastAffiliateOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: 1eUeWT
-    name: BroadcastDisplayName
-    options: {}
-    type: Input
-    path: ""
-  - id: aZOhhH
-    name: BroadcastFrequency
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')
-    type: MultiFile
-    path: ""
-  - id: BmxziC
-    name: BroadcastTimezone
-    options: {}
-    type: Input
-    path: ""
-  - id: j0ZJko
-    name: Broadcaster
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: jC2Qa3
-    name: CallSign
-    options: {}
-    type: Input
-    path: ""
-  - id: WSHlN4
-    name: HasBroadcastChannel
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastChannel')
-    type: MultiFile
-    path: ""
-  - id: F00Xp5
-    name: InLanguage
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
-    type: MultiFile
-    path: ""
-  - id: 6tU0fV
-    name: ParentService
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
-    type: MultiFile
-    path: ""
-  - id: vsX9VU
-    name: VideoFormat
-    options: {}
-    type: Input
-    path: ""
+- id: PCSD4Q
+  name: BroadcastAffiliateOf
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: 1eUeWT
+  name: BroadcastDisplayName
+  options: {}
+  type: Input
+  path: ''
+- id: aZOhhH
+  name: BroadcastFrequency
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')"
+  type: MultiFile
+  path: ''
+- id: BmxziC
+  name: BroadcastTimezone
+  options: {}
+  type: Input
+  path: ''
+- id: j0ZJko
+  name: Broadcaster
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization')"
+  type: MultiFile
+  path: ''
+- id: jC2Qa3
+  name: CallSign
+  options: {}
+  type: Input
+  path: ''
+- id: WSHlN4
+  name: HasBroadcastChannel
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/BroadcastChannel')"
+  type: MultiFile
+  path: ''
+- id: F00Xp5
+  name: InLanguage
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Language')"
+  type: MultiFile
+  path: ''
+- id: 6tU0fV
+  name: ParentService
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/Service/BroadcastService')"
+  type: MultiFile
+  path: ''
+- id: vsX9VU
+  name: VideoFormat
+  options: {}
+  type: Input
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BroadcastService
+- class/Thing/Intangible/Service/BroadcastService
+- is_a_/BroadcastService
+- schema-org/BroadcastService
+tags:
+- class/FileClass
+- class/BroadcastService
+- is_a_/BroadcastService
+- class/Thing/Intangible/Service/BroadcastService
+version: 2.0
 ---
 
 # BroadcastService

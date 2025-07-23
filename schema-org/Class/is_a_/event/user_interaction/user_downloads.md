@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_user_downloads Class
-linkTitle: is_a_user_downloads Class
-
-keywords: [user_downloads]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-superseded_by: InteractionCounter
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - user-downloads
 - user_downloads
 - UserDownloads
 - is_a_user_downloads
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- user_downloads
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_user_downloads Class"
+publish: true
+publishDate: 
+superseded_by: InteractionCounter
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_user_downloads Class"
+type: Type
 ---
 
 Class of all [[user_downloads]].

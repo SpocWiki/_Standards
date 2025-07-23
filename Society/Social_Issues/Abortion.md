@@ -1,55 +1,55 @@
----
-has_id_wikidata: Q8452
-described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-different_from:
-  - "[[_Standards/WikiData/WD~preterm_birth,625506]]"
-  - "[[_Standards/WikiData/WD~stillbirth,745832]]"
-  - "[[_Standards/WikiData/WD~infanticide,916412]]"
-  - "[[_Standards/WikiData/WD~labor_induction,1497276]]"
-  - "[[_Standards/WikiData/WD~paper_abortion,17165614]]"
-  - "[[_Standards/WikiData/WD~miscarriage,28693]]"
-subclass_of:
-  - "[[_Standards/WikiData/WD~feticide,663296]]"
-  - "[[_Standards/WikiData/WD~renunciation,7313594]]"
-  - "[[_Standards/WikiData/WD~medical_procedure_type,55214844]]"
-  - "[[_Standards/WikiData/WD~pregnancy_with_abortive_outcome,96649463]]"
-main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]"
-  - "[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]"
-  - "[[_Standards/WikiData/WD~Legge_22_maggio_1978,_n._194,30888465]]"
-has_characteristic: "[[_Standards/WikiData/WD~controversy,1255828]]"
-instance_of: "[[_Standards/WikiData/WD~cause_of_death,1931388]]"
-health_specialty: "[[_Standards/WikiData/WD~obstetrics,5284418]]"
-has_part_s_: "[[_Standards/WikiData/WD~Islam_and_abortion,6081762]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Abortion,6667033]]"
-on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-practiced_by: "[[_Standards/WikiData/WD~abortion_provider,113667146]]"
-connects_with: "[[_Standards/WikiData/WD~right_to_life,25822]]"
-DiseasesDB: "4153"
+﻿---
+Baidu_Tieba_name: 人流
 BHCL_UUID: 31762c04-e2da-43eb-9030-2b5996b05f98
 Commons_category: Abortion
-UMLS_CUI: C0392535
-PhilPapers_topic: abortion
-image: http://commons.wikimedia.org/wiki/Special:FilePath/23%20674673M%20001-detail.jpg
-pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%AA%E0%AC%BE%E0%AC%A4.wav
-U_S_National_Archives_Identifier: "10639595"
-P8189: "987007292966705171"
-MeSH_tree_code: E04.520.050
-Terminologia_Embryologica: E1.0.4.0.0.0.5
+connects_with: '[[_Standards/WikiData/WD~right_to_life,25822]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+different_from:
+- '[[_Standards/WikiData/WD~preterm_birth,625506]]'
+- '[[_Standards/WikiData/WD~stillbirth,745832]]'
+- '[[_Standards/WikiData/WD~infanticide,916412]]'
+- '[[_Standards/WikiData/WD~labor_induction,1497276]]'
+- '[[_Standards/WikiData/WD~paper_abortion,17165614]]'
+- '[[_Standards/WikiData/WD~miscarriage,28693]]'
+DiseasesDB: 4153
+has_characteristic: '[[_Standards/WikiData/WD~controversy,1255828]]'
+has_id_wikidata: Q8452
+has_part_s_: '[[_Standards/WikiData/WD~Islam_and_abortion,6081762]]'
+health_specialty: '[[_Standards/WikiData/WD~obstetrics,5284418]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/23%20674673M%20001-detail.jpg"
+instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
 IPTC_NewsCode: mediatopic/20000785
-Baidu_Tieba_name: 人流
+main_regulatory_text:
+- '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
+- '[[_Standards/WikiData/WD~Criminal_Code_of_Russia,747110]]'
+- '[[_Standards/WikiData/WD~Legge_22_maggio_1978,_n._194,30888465]]'
+MeSH_tree_code: E04.520.050
+on_focus_list_of_Wikimedia_project:
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+P8189: 987007292966705171
+PhilPapers_topic: abortion
+practiced_by: '[[_Standards/WikiData/WD~abortion_provider,113667146]]'
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AC%B0%E0%AD%8D%E0%AC%AD%E0%AC%AA%E0%AC%BE%E0%AC%A4.wav"
+subclass_of:
+- '[[_Standards/WikiData/WD~feticide,663296]]'
+- '[[_Standards/WikiData/WD~renunciation,7313594]]'
+- '[[_Standards/WikiData/WD~medical_procedure_type,55214844]]'
+- '[[_Standards/WikiData/WD~pregnancy_with_abortive_outcome,96649463]]'
+Terminologia_Embryologica: E1.0.4.0.0.0.5
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Abortion,6667033]]'
+UMLS_CUI: C0392535
+U_S_National_Archives_Identifier: 10639595
 ---
 
 # [[Abortion]] 

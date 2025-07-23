@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/BrainStructure
-  - class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure
-  - is_a_/BrainStructure
-  - schema-org/BrainStructure
-tags:
-  - class/FileClass
-  - class/BrainStructure
-  - is_a_/BrainStructure
-  - class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/BrainStructure
+- class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure
+- is_a_/BrainStructure
+- schema-org/BrainStructure
+tags:
+- class/FileClass
+- class/BrainStructure
+- is_a_/BrainStructure
+- class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure
+version: 2.0
 ---
 
 # BrainStructure

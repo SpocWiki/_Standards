@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_course_prerequisites
-
-linkTitle: has_course_prerequisites
-keywords: [course, prerequisites]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - course-prerequisites
 - course_prerequisites
 - coursePrerequisites
 - has_course_prerequisites
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- course
+- prerequisites
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_course_prerequisites
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_course_prerequisites
+type: Predi_Relation
 ---
 
 Use it like this: 

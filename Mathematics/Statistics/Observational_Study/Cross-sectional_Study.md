@@ -1,10 +1,10 @@
----
+﻿---
 aliases:
-  - cross-sectional study
-  - cross-sectional studies
-  - cross-sectional analysis
-  - transverse study
-  - prevalence study
+- "cross-sectional study"
+- "cross-sectional studies"
+- "cross-sectional analysis"
+- "transverse study"
+- "prevalence study"
 ---
 
 #is_/worse_than :: [[Observational_Study/Longitudinal_Study|Longitudinal_Study]] 

@@ -1,33 +1,26 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_included_in_health_insurance_plan
-
-linkTitle: is_included_in_health_insurance_plan
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - included-in-health-insurance-plan
 - included_in_health_insurance_plan
 - includedInHealthInsurancePlan
 - is_included_in_health_insurance_plan
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords: 
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_included_in_health_insurance_plan
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_included_in_health_insurance_plan
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending:]

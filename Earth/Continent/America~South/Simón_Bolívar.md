@@ -1,6 +1,8 @@
 
 # [[Simón_Bolívar]] 
 
+## #has_/text_of_/abstract 
+
 > Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco 
 > (24 July 1783 – 17 December 1830) was a Venezuelan military and political leader 
 > who led what are currently the countries of Colombia, Venezuela, Ecuador, Peru, 

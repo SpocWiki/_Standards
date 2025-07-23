@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_structural_class
-linkTitle: has_text_of_structural_class
-
-keywords: [structural, class]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - structural-class
 - structural_class
 - structuralClass
 - has_text_of_structural_class
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- structural
+- class
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_structural_class
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_structural_class
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Joint.

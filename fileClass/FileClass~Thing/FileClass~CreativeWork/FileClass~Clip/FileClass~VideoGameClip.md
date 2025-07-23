@@ -1,21 +1,21 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/VideoGameClip
-  - class/Thing/CreativeWork/Clip/VideoGameClip
-  - is_a_/VideoGameClip
-  - schema-org/VideoGameClip
-tags:
-  - class/FileClass
-  - class/VideoGameClip
-  - is_a_/VideoGameClip
-  - class/Thing/CreativeWork/Clip/VideoGameClip
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 fields: []
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/VideoGameClip
+- class/Thing/CreativeWork/Clip/VideoGameClip
+- is_a_/VideoGameClip
+- schema-org/VideoGameClip
+tags:
+- class/FileClass
+- class/VideoGameClip
+- is_a_/VideoGameClip
+- class/Thing/CreativeWork/Clip/VideoGameClip
+version: 2.0
 ---
 
 # VideoGameClip

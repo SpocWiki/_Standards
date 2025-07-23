@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - prisoner of war
+- "prisoner of war"
 ---
 
 > A prisoner of war (**POW**) is a person who is held captive by a belligerent power 

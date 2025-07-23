@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Generational Cohort
-  - Generation
+- "Generational Cohort"
+- Generation
 ---
-
 
 | Generation Name       | Start | End  | Age     | Pop/US | Notable Characteristics                                        |
 | --------------------- | ----- | ---- | ------- | -----: | -------------------------------------------------------------- |

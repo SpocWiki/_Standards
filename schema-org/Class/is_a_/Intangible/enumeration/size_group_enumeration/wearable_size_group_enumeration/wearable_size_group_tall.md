@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_size_group_tall Class
-linkTitle: is_a_wearable_size_group_tall Class
-
-keywords: [wearable_size_group_tall]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableSizeGroupEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-size-group-tall
 - wearable_size_group_tall
 - WearableSizeGroupTall
 - is_a_wearable_size_group_tall
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableSizeGroupEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_size_group_tall
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_size_group_tall Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_size_group_tall Class"
+type: Type
 ---
 
 Class of all wearable_size_group_talls.

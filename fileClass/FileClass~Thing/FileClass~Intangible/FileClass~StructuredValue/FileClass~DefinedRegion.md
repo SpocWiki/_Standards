@@ -1,48 +1,48 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/DefinedRegion
-  - class/Thing/Intangible/StructuredValue/DefinedRegion
-  - is_a_/DefinedRegion
-  - schema-org/DefinedRegion
-tags:
-  - class/FileClass
-  - class/DefinedRegion
-  - is_a_/DefinedRegion
-  - class/Thing/Intangible/StructuredValue/DefinedRegion
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: 3Q18KY
-    name: AddressCountry
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
-    type: MultiFile
-    path: ""
-  - id: 1KOWJx
-    name: AddressRegion
-    options: {}
-    type: Input
-    path: ""
-  - id: WBUOT8
-    name: PostalCode
-    options: {}
-    type: Input
-    path: ""
-  - id: odOPRM
-    name: PostalCodePrefix
-    options: {}
-    type: Input
-    path: ""
-  - id: 8JNfDx
-    name: PostalCodeRange
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification')
-    type: MultiFile
-    path: ""
+- id: 3Q18KY
+  name: AddressCountry
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
+  type: MultiFile
+  path: ''
+- id: 1KOWJx
+  name: AddressRegion
+  options: {}
+  type: Input
+  path: ''
+- id: WBUOT8
+  name: PostalCode
+  options: {}
+  type: Input
+  path: ''
+- id: odOPRM
+  name: PostalCodePrefix
+  options: {}
+  type: Input
+  path: ''
+- id: 8JNfDx
+  name: PostalCodeRange
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/DefinedRegion
+- class/Thing/Intangible/StructuredValue/DefinedRegion
+- is_a_/DefinedRegion
+- schema-org/DefinedRegion
+tags:
+- class/FileClass
+- class/DefinedRegion
+- is_a_/DefinedRegion
+- class/Thing/Intangible/StructuredValue/DefinedRegion
+version: 2.0
 ---
 
 # DefinedRegion

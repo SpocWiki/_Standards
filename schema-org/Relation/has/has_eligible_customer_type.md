@@ -1,33 +1,29 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_eligible_customer_type
-
-linkTitle: has_eligible_customer_type
-keywords: [eligible, customer, type]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - eligible-customer-type
 - eligible_customer_type
 - eligibleCustomerType
 - has_eligible_customer_type
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- eligible
+- customer
+- type
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_eligible_customer_type
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_eligible_customer_type
+type: Predi_Relation
 ---
 
 Use it like this: 

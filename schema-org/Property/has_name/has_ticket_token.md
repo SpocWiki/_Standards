@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_ticket_token
-linkTitle: has_text_of_ticket_token
-
-keywords: [ticket, token]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - ticket-token
 - ticket_token
 - ticketToken
 - has_text_of_ticket_token
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ticket
+- token
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_ticket_token
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_ticket_token
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Ticket.

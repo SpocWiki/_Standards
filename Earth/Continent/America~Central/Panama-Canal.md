@@ -1,6 +1,7 @@
 
 # [[Panama-Canal]] 
 
+## #has_/text_of_/abstract 
 
 > The Panama Canal (Spanish: Canal de Panamá) 
 > is an artificial 82-kilometre (51-mile) waterway in Panama 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_total-price
-linkTitle: has_total-price
-
-keywords: [total-price]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - total_price
 - total-price
 - totalPrice
 - has_value_for_total_price
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- total-price
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_total-price
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_total-price
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of Reservation, Ticket.

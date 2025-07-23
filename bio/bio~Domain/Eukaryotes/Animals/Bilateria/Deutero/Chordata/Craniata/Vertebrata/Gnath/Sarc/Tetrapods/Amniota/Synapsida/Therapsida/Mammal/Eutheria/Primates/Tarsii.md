@@ -1,11 +1,11 @@
----
-title: Tarsii
+﻿---
 aliases:
-  - Tarsii
-  - Tarsiers
-  - Tarsier
-  - Tarsiidae
-  - Tarsiiformes
+- Tarsii
+- Tarsiers
+- Tarsier
+- Tarsiidae
+- Tarsiiformes
+title: Tarsii
 ---
 
 # Tarsii

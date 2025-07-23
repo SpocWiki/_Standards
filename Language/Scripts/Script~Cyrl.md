@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Cyrillic
+- Cyrillic
 ---
 
 Used to indicate Latin Script in Web-Pages 

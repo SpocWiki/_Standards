@@ -1,10 +1,11 @@
----
-type: Lang
+﻿---
 aliases:
 - Marathi
-tags: 
+tags:
 - Lang/mr
+type: Lang
 ---
+
 # [[Lang-mr]] 
 
 [SpocWebEntityId:: 462 ]

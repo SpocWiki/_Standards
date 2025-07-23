@@ -1,7 +1,7 @@
----
-title: Nitrospira
+﻿---
 aliases:
-  - Nitrospira
+- Nitrospira
+title: Nitrospira
 ---
 
 # [[Nitrospira]] 

@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_auto_body_shop Class
-linkTitle: is_an_auto_body_shop Class
-
-keywords: [auto_body_shop]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - auto-body-shop
 - auto_body_shop
 - AutoBodyShop
 - is_an_auto_body_shop
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- auto_body_shop
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_auto_body_shop Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_auto_body_shop Class"
+type: Type
 ---
 
 Class of all auto_body_shops.

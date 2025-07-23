@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_professional_service Class
-linkTitle: is_a_professional_service Class
-
-keywords: [professional_service]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - professional-service
 - professional_service
 - ProfessionalService
 - is_a_professional_service
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- professional_service
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_professional_service Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_professional_service Class"
+type: Type
 ---
 
 Class of all professional_services.

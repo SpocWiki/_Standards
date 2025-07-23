@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_an_ocean_body_of_water Class
-linkTitle: is_an_ocean_body_of_water Class
-
-keywords: [ocean_body_of_water]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - ocean-body-of-water
 - ocean_body_of_water
 - OceanBodyOfWater
 - is_an_ocean_body_of_water
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ocean_body_of_water
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ocean_body_of_water Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ocean_body_of_water Class"
+type: Type
 ---
 
 Class of all ocean_body_of_waters.

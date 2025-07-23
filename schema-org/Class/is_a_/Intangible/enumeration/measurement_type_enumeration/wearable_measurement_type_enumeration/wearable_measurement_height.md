@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_wearable_measurement_height Class
-linkTitle: is_a_wearable_measurement_height Class
-
-keywords: [wearable_measurement_height]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: WearableMeasurementTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - wearable-measurement-height
 - wearable_measurement_height
 - WearableMeasurementHeight
 - is_a_wearable_measurement_height
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: WearableMeasurementTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- wearable_measurement_height
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_wearable_measurement_height Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_wearable_measurement_height Class"
+type: Type
 ---
 
 Class of all wearable_measurement_heights.

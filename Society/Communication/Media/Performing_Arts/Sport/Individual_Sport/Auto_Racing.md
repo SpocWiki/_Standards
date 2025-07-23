@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q5386
+﻿---
 aliases:
-  - Auto racing
+- "Auto racing"
+has_id_wikidata: Q5386
 ---
-
 
 ## #has_/text_of_/abstract 
 

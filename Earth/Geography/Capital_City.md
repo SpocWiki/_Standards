@@ -1,9 +1,8 @@
----
-has_id_wikidata: Q5119
+﻿---
 aliases:
-  - Capital city
+- "Capital city"
+has_id_wikidata: Q5119
 ---
-
 
 ## #has_/text_of_/abstract 
 

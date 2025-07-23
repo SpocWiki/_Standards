@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_publication_issue Class
-linkTitle: is_a_publication_issue Class
-
-keywords: [publication_issue]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.org/ontology/bibo/Issue
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - publication-issue
 - publication_issue
 - PublicationIssue
 - is_a_publication_issue
+confidential: public
+cssclasses: Type
+draft: false
+equivalent_class: "http://purl.org/ontology/bibo/Issue"
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- publication_issue
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_publication_issue Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_publication_issue Class"
+type: Type
 ---
 
 Class of all publication_issues.

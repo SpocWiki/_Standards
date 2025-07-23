@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_billing-increment
-linkTitle: has_billing-increment
-
-keywords: [billing-increment]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - billing_increment
 - billing-increment
 - billingIncrement
 - has_value_for_billing_increment
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- billing-increment
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_billing-increment
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_billing-increment
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of UnitPriceSpecification.

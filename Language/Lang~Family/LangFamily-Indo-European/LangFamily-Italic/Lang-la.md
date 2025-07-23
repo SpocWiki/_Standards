@@ -1,11 +1,87 @@
----
-type: Lang
+﻿---
+ABS_ASCL_2011_code: 2902
 aliases:
 - Latin
 - Lang-la
-tags:
-- Lang/la
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pronunciation%20of%20Latin%20%28Text%29.ogg"
+Basisklassifikation: 18.44
+Colon_Classification: 12
+Commons_category: "Latin language"
+Commons_gallery: "Latin language"
+country: '[[_Standards/WikiData/WD~Vatican_City,237]]'
+described_at_URL: "https://afbo.info/languages/43"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Dewey_Decimal_Classification: 470
+different_from: '[[_Standards/WikiData/WD~Łacina,48841461]]'
+entry_in_abbreviations_table: лат.
+Ethnologue_com_language_code: lat
+Ethnologue_language_status: '[[_Standards/WikiData/WD~9_Second_language_only,61954942]]'
+exact_match: "http://publications.europa.eu/resource/authority/language/LAT"
+Glottolog_code: lati1261
+GOST_7_75_97_code: "лат 380"
+has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
+has_conjugation_class:
+- '[[_Standards/WikiData/WD~first_conjugation_impersonal_verb,3921589]]'
+- '[[_Standards/WikiData/WD~second_conjugation_impersonal_verb,53768720]]'
+- '[[_Standards/WikiData/WD~e_i_conjugation_verb_(isolated_form),54295441]]'
+- '[[_Standards/WikiData/WD~fourth_conjugation_verb_(isolated_form),54295818]]'
+has_grammatical_case:
+- '[[_Standards/WikiData/WD~nominative_case,131105]]'
+- '[[_Standards/WikiData/WD~dative_case,145599]]'
+- '[[_Standards/WikiData/WD~accusative_case,146078]]'
+- '[[_Standards/WikiData/WD~genitive_case,146233]]'
+- '[[_Standards/WikiData/WD~ablative_case,156986]]'
+- '[[_Standards/WikiData/WD~vocative_case,185077]]'
+- '[[_Standards/WikiData/WD~locative_case,202142]]'
+has_grammatical_gender:
+- '[[_Standards/WikiData/WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~neuter,1775461]]'
 has_id_wikidata: Q397
+has_part_s_:
+- '[[_Standards/WikiData/WD~Latin_or_Greek_word,29448469]]'
+- '[[_Standards/WikiData/WD~Latin_word,78612407]]'
+has_tense:
+- '[[_Standards/WikiData/WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~pluperfect,623742]]'
+- '[[_Standards/WikiData/WD~past_imperfect,12547192]]'
+has_use:
+- '[[_Standards/WikiData/WD~legal_language,1713997]]'
+- '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Latin,848351]]'
+IAB_code: 1122
+icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20la.svg"
+IETF_language_tag: la
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arco%20Sisto%20V%20targa%20M.jpg"
+instance_of:
+- '[[_Standards/WikiData/WD~ancient_language,436240]]'
+- '[[_Standards/WikiData/WD~sacred_language,839470]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
+- '[[_Standards/WikiData/WD~dead_language,45762]]'
+ISO_639_1_code: la
+ISO_639_2_code: lat
+ISO_639_3_code: lat
+Krugosvet_article: narody-i-yazyki/latinskiy-yazyk
+language_regulatory_body: '[[_Standards/WikiData/WD~Pontifical_Academy_for_Latin,48509]]'
+linguistic_typology:
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~pro-drop_language,661936]]'
+- '[[_Standards/WikiData/WD~synthetic_language,48612]]'
+named_after: '[[_Standards/WikiData/WD~Latium,1048669]]'
+native_label: "Lingua latina"
+OmegaWiki_Defined_Meaning: 6227
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20Phrasebooks%20Banner.jpg"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715487,12715487]]'
+POSIX_locale_identifier: la
+Provenio_UUID: 51d05059-c80b-41e4-8671-74777560518c
 short_name:
 - Latin
 - łacina
@@ -14,101 +90,25 @@ short_name:
 - латынь
 - лотинӣ
 - латина
-Ethnologue_com_language_code: lat
-ISO_639_3_code: lat
-ISO_639_2_code: lat
-Basisklassifikation: 18.44
-Commons_gallery: "Latin language"
-Commons_category: "Latin language"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Arco%20Sisto%20V%20targa%20M.jpg"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/NI-Latijn-article.ogg"
 Stack_Exchange_site_URL: "https://latin.stackexchange.com"
-Glottolog_code: lati1261
-Krugosvet_article: narody-i-yazyki/latinskiy-yazyk
-GOST_7_75_97_code: "лат 380"
-entry_in_abbreviations_table: лат.
-native_label: "Lingua latina"
-has_grammatical_case:
-- "[[_Standards/WikiData/WD~nominative_case,131105]]"
-- "[[_Standards/WikiData/WD~dative_case,145599]]"
-- "[[_Standards/WikiData/WD~accusative_case,146078]]"
-- "[[_Standards/WikiData/WD~genitive_case,146233]]"
-- "[[_Standards/WikiData/WD~ablative_case,156986]]"
-- "[[_Standards/WikiData/WD~vocative_case,185077]]"
-- "[[_Standards/WikiData/WD~locative_case,202142]]"
-linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-- "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
-- "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
-- "[[_Standards/WikiData/WD~synthetic_language,48612]]"
-has_tense:
-- "[[_Standards/WikiData/WD~present_tense,192613]]"
-- "[[_Standards/WikiData/WD~future_tense,501405]]"
-- '[[_Standards/WikiData/WD~pluperfect,623742]]'
-- "[[_Standards/WikiData/WD~past_imperfect,12547192]]"
-instance_of:
-- "[[_Standards/WikiData/WD~ancient_language,436240]]"
-- "[[_Standards/WikiData/WD~sacred_language,839470]]"
-- '[[_Standards/WikiData/WD~language,34770]]'
-- "[[_Standards/WikiData/WD~dead_language,45762]]"
-has_grammatical_gender:
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~feminine,1775415]]'
-- '[[_Standards/WikiData/WD~neuter,1775461]]'
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-- "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
+Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/latin"
 studied_in:
 - '[[_Standards/WikiData/WD~classics,841090]]'
-- "[[_Standards/WikiData/WD~Latin_studies,1806979]]"
-- "[[_Standards/WikiData/WD~theological_languages,108000026]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Latin,848351]]"
-named_after: '[[_Standards/WikiData/WD~Latium,1048669]]'
-has_use:
-- "[[_Standards/WikiData/WD~legal_language,1713997]]"
-- '[[_Standards/WikiData/WD~taxonomy,8269924]]'
-has_conjugation_class:
-- "[[_Standards/WikiData/WD~first_conjugation_impersonal_verb,3921589]]"
-- "[[_Standards/WikiData/WD~second_conjugation_impersonal_verb,53768720]]"
-- "[[_Standards/WikiData/WD~e_i_conjugation_verb_(isolated_form),54295441]]"
-- "[[_Standards/WikiData/WD~fourth_conjugation_verb_(isolated_form),54295818]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Latin,11045192]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715487,12715487]]'
-has_part_s_:
-- "[[_Standards/WikiData/WD~Latin_or_Greek_word,29448469]]"
-- "[[_Standards/WikiData/WD~Latin_word,78612407]]"
-different_from: '[[_Standards/WikiData/WD~Łacina,48841461]]'
-Ethnologue_language_status: "[[_Standards/WikiData/WD~9_Second_language_only,61954942]]"
+- '[[_Standards/WikiData/WD~Latin_studies,1806979]]'
+- '[[_Standards/WikiData/WD~theological_languages,108000026]]'
 subclass_of:
-- "[[_Standards/WikiData/WD~Southern_European_language,85380120]]"
+- '[[_Standards/WikiData/WD~Southern_European_language,85380120]]'
 - '[[_Standards/WikiData/WD~Latino-Faliscan,33478]]'
-Stack_Exchange_tag: "https://linguistics.stackexchange.com/tags/latin"
-audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pronunciation%20of%20Latin%20%28Text%29.ogg"
+tags:
+- Lang/la
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Latin,11045192]]'
+type: Lang
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Easy%20spoken%20Latin%20for%20beginners%20with%20subtitles.webm"
-icon: "http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20la.svg"
-Provenio_UUID: 51d05059-c80b-41e4-8671-74777560518c
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20Phrasebooks%20Banner.jpg"
-described_at_URL: "https://afbo.info/languages/43"
-exact_match: "http://publications.europa.eu/resource/authority/language/LAT"
-writing_system:
-- "[[_Standards/WikiData/WD~Latin_script,8229]]"
-- "[[_Standards/WikiData/WD~Latin_alphabet,41670]]"
-country: "[[_Standards/WikiData/WD~Vatican_City,237]]"
-Colon_Classification: 12
-language_regulatory_body: "[[_Standards/WikiData/WD~Pontifical_Academy_for_Latin,48509]]"
-Dewey_Decimal_Classification: 470
 Wikimedia_language_code: la
-IETF_language_tag: la
-ISO_639_1_code: la
-POSIX_locale_identifier: la
-IAB_code: 1122
-ABS_ASCL_2011_code: 2902
-OmegaWiki_Defined_Meaning: 6227
+writing_system:
+- '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~Latin_alphabet,41670]]'
 ---
 
  # [[Lang-Latin]]

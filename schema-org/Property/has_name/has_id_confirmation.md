@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_id_confirmation
-linkTitle: has_id_confirmation
-
-keywords: [confirmation, number]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - confirmation-number
 - id_confirmation
 - confirmationNumber
 - has_id_confirmation
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- confirmation
+- number
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_id_confirmation
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_id_confirmation
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Invoice, Order.

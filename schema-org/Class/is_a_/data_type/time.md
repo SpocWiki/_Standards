@@ -1,30 +1,30 @@
----
-license: CC BY-SA 4.0
+﻿---
+aliases:
+- time
+- time
+- Time
+- is_a_time
 confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: 
+has_id_wikidata: Q11471
 isDeleted: false
 isReadOnly: false
-cssclasses:
-  - Type
-publish: true
-type: Type
-title: is_a_time Class
-linkTitle: is_a_time Class
 keywords:
-  - time
+- time
 layout: 
-draft: false
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_time Class"
+publish: true
 publishDate: 
-expiryDate: 
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
-aliases:
-  - time
-  - time
-  - Time
-  - is_a_time
-has_id_wikidata: Q11471
+- class/Class
+- schema-org/Class
+- class/data_type
+title: "is_a_time Class"
+type: Type
 ---
 
 # [[time]] 

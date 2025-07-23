@@ -1,6 +1,23 @@
----
+﻿---
+Commons_category: "Periodic table group 4"
+Dewey_Decimal_Classification: 546.51
+has_id_wikidata: Q189302
+has_part_s_:
+- '[[_Standards/WikiData/WD~titanium,716]]'
+- '[[_Standards/WikiData/WD~zirconium,1038]]'
+- '[[_Standards/WikiData/WD~hafnium,1119]]'
+- '[[_Standards/WikiData/WD~rutherfordium,1226]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~group,83306]]'
+P8189: 987007538813205171
+part_of:
+- '[[_Standards/WikiData/WD~d_block,214503]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
 ---
+
+# [[Group-04-Titanium]] 
+
 #chemic/Group 
 
 4) [[Titanium]]
@@ -8,6 +25,9 @@ type: ElementGroup
 6) [[Hafnium]]
 7) [[Rutherfordium]]
 
+#is_/same_as :: [[../../WikiData/WD~Group_4,189302]] 
+
+## #has_/text_of_/abstract 
 
 > Group 4 is the second group of transition metals in the periodic table. It contains the four elements titanium (Ti), zirconium (Zr), hafnium (Hf), and rutherfordium (Rf). The group is also called the titanium group or titanium family after its lightest member.
 >

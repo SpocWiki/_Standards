@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_nail_salon Class
-linkTitle: is_a_nail_salon Class
-
-keywords: [nail_salon]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - nail-salon
 - nail_salon
 - NailSalon
 - is_a_nail_salon
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- nail_salon
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_nail_salon Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_nail_salon Class"
+type: Type
 ---
 
 Class of all nail_salons.

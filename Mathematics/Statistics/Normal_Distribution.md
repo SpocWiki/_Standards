@@ -1,41 +1,41 @@
----
+﻿---
+aliases:
+- Normal_Distribution
+- 
+confidential: private
+cssclasses: "private note"
+draft: true
+expiryDate: 
 has_id_wikidata: Q133871
+has_Template:
+- Extract~Note~Template
+has_time_started: 2024-12-15
+isDeleted: false
+isReadOnly: false
+keywords: Normal_Distribution
+lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: Normal_Distribution
+publish: false
+publishDate: 
 TableByName:
   Normal_Distribution.tsv:
     columns:
-      - x
-      - norm_cum
-      - norm_dist
-      - x_sqr
+    - x
+    - norm_cum
+    - norm_dist
+    - x_sqr
     headings:
-      - x
-      - cum%
-      - dist%
-      - 1-x²
-title: Normal_Distribution
-lang: en
-type: private_note
-keywords: Normal_Distribution
-linkTitle: Normal_Distribution
-has_Template:
-  - Extract~Note~Template
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
-cssclasses: private note
-layout: 
-draft: true
-publish: false
-publishDate: 
-expiryDate: 
-has_time_started: 2024-12-15
+    - x
+    - cum%
+    - dist%
+    - 1-x²
 tags:
-  - Normal_Distribution
-  - 
-aliases:
-  - Normal_Distribution
-  -
+- Normal_Distribution
+- 
+title: Normal_Distribution
+type: private_note
 ---
 
 #is_/same_as :: [[../../../_Standards/WikiData/WD~Normal_distribution,133871_WD~Normal_distribution,133871]] 

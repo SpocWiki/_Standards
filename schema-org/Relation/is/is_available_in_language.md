@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_available_in_language
-
-linkTitle: is_available_in_language
-keywords: [available, language]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - available-language
 - available_language
 - availableLanguage
 - is_available_in_language
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- available
+- language
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: is_available_in_language
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: is_available_in_language
+type: Predi_Relation
 ---
 
 Use it like this: 

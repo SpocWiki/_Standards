@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_damaged_condition Class
-linkTitle: is_a_damaged_condition Class
-
-keywords: [damaged_condition]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: OfferItemCondition
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - damaged-condition
 - damaged_condition
 - DamagedCondition
 - is_a_damaged_condition
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: OfferItemCondition
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- damaged_condition
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_damaged_condition Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_damaged_condition Class"
+type: Type
 ---
 
 Class of all damaged_conditions.

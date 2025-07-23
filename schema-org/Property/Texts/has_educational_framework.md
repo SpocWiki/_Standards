@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_educational_framework
-linkTitle: has_text_of_educational_framework
-
-keywords: [educational, framework]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - educational-framework
 - educational_framework
 - educationalFramework
 - has_text_of_educational_framework
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- educational
+- framework
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_educational_framework
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_educational_framework
+type: Pred_Text
 ---
 
 Predicate to describe the Text of AlignmentObject.

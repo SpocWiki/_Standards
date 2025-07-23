@@ -1,8 +1,8 @@
----
-title: Amborella trichopoda
+﻿---
 aliases:
-  - Amborella
-  - Amborella trichopoda
+- Amborella
+- "Amborella trichopoda"
+title: "Amborella trichopoda"
 ---
 
 # [[Amborella]] 

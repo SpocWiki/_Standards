@@ -1,58 +1,58 @@
----
-has_id_wikidata: Q12198
-symptoms_and_signs:
-- '[[_Standards/WikiData/WD~tumor,133212]]'
-- '[[_Standards/WikiData/WD~bleeding,166019]]'
-- '[[_Standards/WikiData/WD~infection,166231]]'
-- '[[_Standards/WikiData/WD~dyspnea,188008]]'
-- "[[_Standards/WikiData/WD~chronic_fatigue_syndrome,209733]]"
-- '[[_Standards/WikiData/WD~lesion,827023]]'
-- "[[_Standards/WikiData/WD~acute_weight_loss,102186770]]"
-has_cause:
-- '[[_Standards/WikiData/WD~infection,166231]]'
-- "[[_Standards/WikiData/WD~sexual_risk_behavior,2990601]]"
-- '[[_Standards/WikiData/WD~absence,19829125]]'
-- "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
+﻿---
+Commons_category: "Sexually transmitted diseases and disorders"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+DiseasesDB: 27130
 handled_mitigated_or_managed_by:
 - '[[_Standards/WikiData/WD~monogamy,184211]]'
-- "[[_Standards/WikiData/WD~safe_sex,318529]]"
-- "[[_Standards/WikiData/WD~sexual_abstinence,598443]]"
+- '[[_Standards/WikiData/WD~safe_sex,318529]]'
+- '[[_Standards/WikiData/WD~sexual_abstinence,598443]]'
 - '[[_Standards/WikiData/WD~screening,1163564]]'
-- "[[_Standards/WikiData/WD~barrier_contraception,13582224]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[_Standards/WikiData/WD~barrier_contraception,13582224]]'
+has_cause:
+- '[[_Standards/WikiData/WD~infection,166231]]'
+- '[[_Standards/WikiData/WD~sexual_risk_behavior,2990601]]'
+- '[[_Standards/WikiData/WD~absence,19829125]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+has_id_wikidata: Q12198
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/4767454187%2068968f755c%20bCondom.jpg"
+instance_of: '[[_Standards/WikiData/WD~mode_of_transmission,1662340]]'
+Krugosvet_article: medicina/VENERICHESKIE_BOLEZNI.html
 medical_examination:
-- "[[_Standards/WikiData/WD~pelvic_examination,763803]]"
-- "[[_Standards/WikiData/WD~blood_culture,886695]]"
+- '[[_Standards/WikiData/WD~pelvic_examination,763803]]'
+- '[[_Standards/WikiData/WD~blood_culture,886695]]'
 - '[[_Standards/WikiData/WD~histopathology,1070952]]'
-health_specialty: "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
-possible_treatment:
-- "[[_Standards/WikiData/WD~antiviral_drug,846227]]"
-- "[[_Standards/WikiData/WD~post-exposure_prophylaxis,1361206]]"
-- '[[_Standards/WikiData/WD~ablation,1886589]]'
-- "[[_Standards/WikiData/WD~local_anti-infective_agent,50377188]]"
-- '[[_Standards/WikiData/WD~antibiotic,12187]]'
-instance_of: "[[_Standards/WikiData/WD~mode_of_transmission,1662340]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_STD_and_STI,6389724]]"
-subclass_of:
-- "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-- "[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-UMLS_CUI: C0036916
 MeSH_tree_code:
 - C12.100.937
 - C01.221.812
 - C01.778
 - C23.550.291.531.937
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/4767454187%2068968f755c%20bCondom.jpg"
-video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20sch%C3%BCtzt%20man%20sich%20vor%20Geschlechtskrankheiten%3F.webm"
-DiseasesDB: 27130
 OmegaWiki_Defined_Meaning: 496384
-Krugosvet_article: medicina/VENERICHESKIE_BOLEZNI.html
-Commons_category: "Sexually transmitted diseases and disorders"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+possible_treatment:
+- '[[_Standards/WikiData/WD~antiviral_drug,846227]]'
+- '[[_Standards/WikiData/WD~post-exposure_prophylaxis,1361206]]'
+- '[[_Standards/WikiData/WD~ablation,1886589]]'
+- '[[_Standards/WikiData/WD~local_anti-infective_agent,50377188]]'
+- '[[_Standards/WikiData/WD~antibiotic,12187]]'
+subclass_of:
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]'
+symptoms_and_signs:
+- '[[_Standards/WikiData/WD~tumor,133212]]'
+- '[[_Standards/WikiData/WD~bleeding,166019]]'
+- '[[_Standards/WikiData/WD~infection,166231]]'
+- '[[_Standards/WikiData/WD~dyspnea,188008]]'
+- '[[_Standards/WikiData/WD~chronic_fatigue_syndrome,209733]]'
+- '[[_Standards/WikiData/WD~lesion,827023]]'
+- '[[_Standards/WikiData/WD~acute_weight_loss,102186770]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_STD_and_STI,6389724]]'
+UMLS_CUI: C0036916
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20sch%C3%BCtzt%20man%20sich%20vor%20Geschlechtskrankheiten%3F.webm"
 ---
 
 ## #has_/text_of_/abstract 

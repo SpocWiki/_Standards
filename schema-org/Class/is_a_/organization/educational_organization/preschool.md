@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_preschool Class
-linkTitle: is_a_preschool Class
-
-keywords: [preschool]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - preschool
 - preschool
 - Preschool
 - is_a_preschool
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- preschool
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_preschool Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_preschool Class"
+type: Type
 ---
 
 Class of all preschools.

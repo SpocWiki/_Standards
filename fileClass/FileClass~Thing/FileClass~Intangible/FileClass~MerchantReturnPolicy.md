@@ -1,85 +1,85 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/MerchantReturnPolicy
-  - class/Thing/Intangible/MerchantReturnPolicy
-  - is_a_/MerchantReturnPolicy
-  - schema-org/MerchantReturnPolicy
-tags:
-  - class/FileClass
-  - class/MerchantReturnPolicy
-  - is_a_/MerchantReturnPolicy
-  - class/Thing/Intangible/MerchantReturnPolicy
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: 1o7ztm
-    name: AdditionalProperty
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
-    type: MultiFile
-    path: ""
-  - id: 0JpEOk
-    name: ApplicableCountry
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
-    type: MultiFile
-    path: ""
-  - id: x5uhd1
-    name: CustomerRemorseReturnShippingFeesAmount
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: gnvZWi
-    name: InStoreReturnsOffered
-    options: {}
-    type: Boolean
-    path: ""
-  - id: hUjlJ0
-    name: ItemDefectReturnShippingFeesAmount
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
-  - id: 2VsCWu
-    name: MerchantReturnDays
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: lvD8Fs
-    name: MerchantReturnLink
-    options: {}
-    type: Input
-    path: ""
-  - id: kpxZ8Y
-    name: RestockingFee
-    options: {}
-    type: Number
-    path: ""
-  - id: Lx7Pto
-    name: ReturnPolicyCountry
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
-    type: MultiFile
-    path: ""
-  - id: VyWZFP
-    name: ReturnPolicySeasonalOverride
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicySeasonalOverride')
-    type: MultiFile
-    path: ""
-  - id: viMVal
-    name: ReturnShippingFeesAmount
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
-    type: MultiFile
-    path: ""
+- id: 1o7ztm
+  name: AdditionalProperty
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"
+  type: MultiFile
+  path: ''
+- id: 0JpEOk
+  name: ApplicableCountry
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
+  type: MultiFile
+  path: ''
+- id: x5uhd1
+  name: CustomerRemorseReturnShippingFeesAmount
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: gnvZWi
+  name: InStoreReturnsOffered
+  options: {}
+  type: Boolean
+  path: ''
+- id: hUjlJ0
+  name: ItemDefectReturnShippingFeesAmount
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+- id: 2VsCWu
+  name: MerchantReturnDays
+  options:
+    dateFormat: YYYY-MM-DD
+    defaultInsertAsLink: false
+  type: Date
+  path: ''
+- id: lvD8Fs
+  name: MerchantReturnLink
+  options: {}
+  type: Input
+  path: ''
+- id: kpxZ8Y
+  name: RestockingFee
+  options: {}
+  type: Number
+  path: ''
+- id: Lx7Pto
+  name: ReturnPolicyCountry
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Place/AdministrativeArea/Country')"
+  type: MultiFile
+  path: ''
+- id: VyWZFP
+  name: ReturnPolicySeasonalOverride
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/MerchantReturnPolicySeasonalOverride')"
+  type: MultiFile
+  path: ''
+- id: viMVal
+  name: ReturnShippingFeesAmount
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/MerchantReturnPolicy
+- class/Thing/Intangible/MerchantReturnPolicy
+- is_a_/MerchantReturnPolicy
+- schema-org/MerchantReturnPolicy
+tags:
+- class/FileClass
+- class/MerchantReturnPolicy
+- is_a_/MerchantReturnPolicy
+- class/Thing/Intangible/MerchantReturnPolicy
+version: 2.0
 ---
 
 # MerchantReturnPolicy

@@ -22,10 +22,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Botswana
-  - بوتسوانا
-  - 博茨瓦纳
-  - Ботсвана
+- Botswana
+- بوتسوانا
+- 博茨瓦纳
+- Ботсвана
 - "the Republic of Botswana"
 - "la República de Botswana"
 Languages:
@@ -174,9 +174,9 @@ MeSH_tree_code: Z01.058.290.175.230
 official_website: "https://gov.bw/"
 motto_text:
 - "Ein balchder, eich cyrchfan"
-  - Rain
-  - Дъжд
-  - Pula
+- Rain
+- Дъжд
+- Pula
 - "Our pride, your destination"
 nominal_GDP:
   - 20352322157
@@ -311,7 +311,7 @@ hashtag: Botswana
 official_name:
 - "Botswanská republika"
 - "Lefatshe la Botswana"
-  - Botswana
+- Botswana
 - "Republic of Botswana"
 - "République du Botswana"
 short_name: "\U0001F1E7\U0001F1FC"

@@ -1,36 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
-publish: true
-
-# Hugo Tags
-type: Type
-
-title: is_a_cleaning_fee Class
-linkTitle: is_a_cleaning_fee Class
-
-keywords: [cleaning_fee]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-enumerationtype: PriceComponentTypeEnumeration
-
-tags:
-- class/Class
-- schema-org/Class
-
+﻿---
 aliases:
 - cleaning-fee
 - cleaning_fee
 - CleaningFee
 - is_a_cleaning_fee
+confidential: public
+cssclasses: Type
+draft: false
+enumerationtype: PriceComponentTypeEnumeration
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- cleaning_fee
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_cleaning_fee Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_cleaning_fee Class"
+type: Type
 ---
 
 Class of all cleaning_fees.

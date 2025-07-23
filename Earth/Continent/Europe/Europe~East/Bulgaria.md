@@ -1,74 +1,48 @@
----
-location:
-  - 42.9342
-  - 25.3029
-type: Country
-has_id_wikidata: Q219
-tags:
-  - geo/Country
-license: "CC BY-SA 4.0"
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: "https://datahub.io/core/country-codes"
-cssclasses: Country
-publish: true
-title: Bulgaria
-linkTitle: 
-keywords: 
-layout: 
-draft: false
-publishDate: 
-expiryDate: 
+﻿---
+age_of_majority: 18
 aliases:
-  - Bulgaria
-  - Bulgarie
-  - بلغاريا
-  - 保加利亚
-  - Болгария
-  - "the Republic of Bulgaria"
-  - "la República de Bulgaria"
-Languages:
-  - bg
-  - tr-BG
-  - rom
-icon: flag-bg
-central_bank: "[[_Standards/WikiData/WD~Bulgarian_National_Bank,74687]]"
-member_of:
-- "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-- '[[_Standards/WikiData/WD~COMECON,191582]]'
-- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
-- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-- "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
-- "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-- "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
-- "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-- "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- "[[_Standards/WikiData/WD~United_Nations,1065]]"
-- '[[_Standards/WikiData/WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-- "[[_Standards/WikiData/WD~Warsaw_Pact,41644]]"
-named_after: '[[_Standards/WikiData/WD~Bulgars,110117]]'
+- Bulgaria
+- Bulgarie
+- بلغاريا
+- 保加利亚
+- Болгария
+- "the Republic of Bulgaria"
+- "la República de Bulgaria"
+anthem: '[[_Standards/WikiData/WD~Mila_Rodino,182115]]'
+area: 110993.6
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+BHCL_UUID: 011cc308-763e-4aaf-8611-dcad3976bb78
+birth_rate: 8.8
+BTI_Governance_Index:
+- 5.87
+- 5.98
+- 6.02
+- 6.18
+- 6.38
+- 6.53
+- 6.65
+- 6.73
+- 6.76
+BTI_Status_Index:
+- 7.8
+- 7.46
+- 7.76
+- 7.91
+- 7.98
+- 8.14
+- 8.29
+- 8.36
+- 8.44
+capital: '[[_Standards/WikiData/WD~Sofia,472]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q6609795,6609795]]'
+central_bank: '[[_Standards/WikiData/WD~Bulgarian_National_Bank,74687]]'
+CIVICUS_Monitor_country_entry: bulgaria
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Bulgaria,173163]]'
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bulgaria.svg"
+Colon_Classification: SG--5926
+Commons_category: Bulgaria
+Commons_gallery: България
+confidential: public
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Sliven,113120]]'
 - '[[_Standards/WikiData/WD~Haskovo,182809]]'
@@ -84,175 +58,105 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Kardzhali,1104675]]'
 - '[[_Standards/WikiData/WD~Kyustendil,1112985]]'
 - '[[_Standards/WikiData/WD~Ruse,1251933]]'
-- "[[_Standards/WikiData/WD~Sofia_City,1585725]]"
-- "[[_Standards/WikiData/WD~Montana_Oblast,2012057]]"
+- '[[_Standards/WikiData/WD~Sofia_City,1585725]]'
+- '[[_Standards/WikiData/WD~Montana_Oblast,2012057]]'
 - '[[_Standards/WikiData/WD~Pazardzhik,2012227]]'
 - '[[_Standards/WikiData/WD~Pernik,2012234]]'
 - '[[_Standards/WikiData/WD~Pleven,2012242]]'
 - '[[_Standards/WikiData/WD~Silistra,2012423]]'
 - '[[_Standards/WikiData/WD~Smolyan,2012430]]'
-- "[[_Standards/WikiData/WD~Stara_Zagora,2012583]]"
+- '[[_Standards/WikiData/WD~Stara_Zagora,2012583]]'
 - '[[_Standards/WikiData/WD~Targovishte,2012589]]'
-- "[[_Standards/WikiData/WD~Veliko_Tarnovo,2012621]]"
+- '[[_Standards/WikiData/WD~Veliko_Tarnovo,2012621]]'
 - '[[_Standards/WikiData/WD~Vidin,2012772]]'
 - '[[_Standards/WikiData/WD~Vratsa,2012785]]'
 - '[[_Standards/WikiData/WD~Razgrad,2790675]]'
 - '[[_Standards/WikiData/WD~Lovech,6587068]]'
-replaces: "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
-top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.бг,140775]]'
-- '[[_Standards/WikiData/WD~.bg,39029]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Bulgaria,173163]]"
-instance_of:
-- "[[_Standards/WikiData/WD~unitary_state,179164]]"
-- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-- '[[_Standards/WikiData/WD~country,6256]]'
-anthem: "[[_Standards/WikiData/WD~Mila_Rodino,182115]]"
-highest_point: '[[_Standards/WikiData/WD~Musala,209341]]'
-flag: "[[_Standards/WikiData/WD~flag_of_Bulgaria,225360]]"
-described_by_source:
-- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Encyclopedia__Bulgaria_,12277139]]"
-- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_Bulgaria,639704]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bulgaria,695835]]"
-twinned_administrative_body: '[[_Standards/WikiData/WD~Toyoake,817280]]'
-electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bulgaria,1145659]]"
-motto: "[[_Standards/WikiData/WD~Unity_makes_strength,1308013]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bulgaria,1902334]]"
-has_cabinet: "[[_Standards/WikiData/WD~Council_of_Ministers_of_Bulgaria,2396053]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Bulgaria,2588810]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-language_used:
-- "[[_Standards/WikiData/WD~Bulgarian_Sign_Language,3438325]]"
-- '[[_Standards/WikiData/WD~Turkish,256]]'
-- '[[_Standards/WikiData/WD~Bulgarian,7918]]'
-- '[[_Standards/WikiData/WD~Romani,13201]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Bulgaria,4404583]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Provinces_of_Bulgaria,5981641]]"
-category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q6609795,6609795]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bulgaria,7112213]]"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bulgaria,8133376]]'
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Bulgaria,11510311]]"
-official_name:
-- "Царство България"
-- "Република България"
-- "República de Bulgària"
-- "Bulharská republika"
-- "Republic of Bulgaria"
-- "la République de Bulgarie"
-- "Republica Bulgaria"
-- "Republiken Bulgarien"
-- "Княжество България"
-- "Народна република България"
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Bulgaria,14946265]]"
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23653968,23653968]]'
-head_of_state: "[[_Standards/WikiData/WD~Rumen_Radev,26257557]]"
-official_website: "http://www.government.bg/"
-head_of_government: "[[_Standards/WikiData/WD~Rosen_Zhelyazkov,59978016]]"
-open_data_portal: "[[_Standards/WikiData/WD~Bulgarien_Data_portal,97012366]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Bulgaria,105408016]]"
-U_S_National_Archives_Identifier: 10045352
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+coordinates_of_easternmost_point: "Point(28.60926144 43.541729)"
+coordinates_of_northernmost_point: "Point(22.67 44.22)"
+coordinates_of_southernmost_point: "Point(25.28502345 41.23552689)"
 coordinates_of_westernmost_point: "Point(22.35998869 42.31152917)"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Beklemeto%20Pass%20banner.jpg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgaria%20%28orthographic%20projection%29.svg"
-pronunciation_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Bulgaria.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bulgarien.ogg"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bulgaria.wav"
-country_calling_code: +359
-BHCL_UUID: 011cc308-763e-4aaf-8611-dcad3976bb78
-Dewey_Decimal_Classification: 2--499
-IPA_transcription: bɐlˈɡarʲɪjə
-Colon_Classification: SG--5926
-Krugosvet_article: strany_mira/BOLGARIYA.html
-Libris_URI: xv8b9p1g14q9h82
-demonym:
-  - بلغاري
-  - búlgara
-  - бъ̀лгари
-  - бъ̀лгарин
-  - бъ̀лгарка
-  - বুলগেরীয়
-  - bulgarer
-  - Bulgarier
-  - Bulgarierin
-  - bulgaro
-  - bulgares
-  - Bulgárach
-  - בולגרי
-  - בולגרייה
-  - Bulgariano
-  - bulgara
-  - bulgare
-  - Bulgaar
-  - bulgar
-  - bulgăroaică
-  - bùlgara
-  - bùlgare
-  - bùlgari
-  - Bulgaränan
-  - بلغاري
-  - بلغارية
-  - بلغاريين
-  - بلغاريات
-  - بلغارية
-  - búlgaru
-  - búlgar
-  - Bulgarian
-  - bulgare
-  - Bulgare
-  - بلغاريون
-  - búlgars
-  - bulgari
-  - болгарин
-  - болгарка
-  - болгары
-  - bolgár
-  - bulgaro
-  - balgarsce
-  - bùlgaro
-  - bulgari
-motto_text:
-- "A discovery to share"
-- "Darganfyddiad i'w rannu"
-short_name: "\U0001F1E7\U0001F1EC"
 coordinate_location: "Point(25.5 42.75)"
-nominal_GDP: 89040398406
-inception: "1878-07-13"
-has_time_started: "1878-07-13"
-UMLS_CUI: C0006368
-ISNI:
-- 0000000123254108
-- 0000000404116342
-MeSH_tree_code: Z01.542.248.180
+country: '[[_Standards/WikiData/WD~Bulgaria,219]]'
+country_calling_code: +359
+cssclasses: Country
+culture: '[[_Standards/WikiData/WD~culture_of_Bulgaria,2588810]]'
+death_rate: 18.4
+Democracy_Index: 6.71
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Bulgaria,1145659]]'
+demonym:
+- بلغاري
+- búlgara
+- бъ̀лгари
+- бъ̀лгарин
+- бъ̀лгарка
+- বুলগেরীয়
+- bulgarer
+- Bulgarier
+- Bulgarierin
+- bulgaro
+- bulgares
+- Bulgárach
+- בולגרי
+- בולגרייה
+- Bulgariano
+- bulgara
+- bulgare
+- Bulgaar
+- bulgar
+- bulgăroaică
+- bùlgara
+- bùlgare
+- bùlgari
+- Bulgaränan
+- بلغاري
+- بلغارية
+- بلغاريين
+- بلغاريات
+- بلغارية
+- búlgaru
+- búlgar
+- Bulgarian
+- bulgare
+- Bulgare
+- بلغاريون
+- búlgars
+- bulgari
+- болгарин
+- болгарка
+- болгары
+- bolgár
+- bulgaro
+- balgarsce
+- bùlgaro
+- bulgari
+described_by_source:
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Encyclopedia__Bulgaria_,12277139]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
+Dewey_Decimal_Classification: 2--499
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~South_Africa,258]]"
+- '[[_Standards/WikiData/WD~South_Africa,258]]'
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
 - '[[_Standards/WikiData/WD~Mongolia,711]]'
 - '[[_Standards/WikiData/WD~Iraq,796]]'
 - '[[_Standards/WikiData/WD~Syria,858]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Vietnam,881]]'
-- "[[_Standards/WikiData/WD~South_Korea,884]]"
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Sudan,1049]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
@@ -269,7 +173,7 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Egypt,79]]'
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
@@ -278,135 +182,231 @@ diplomatic_relation:
 - '[[_Standards/WikiData/WD~Slovakia,214]]'
 - '[[_Standards/WikiData/WD~Slovenia,215]]'
 - '[[_Standards/WikiData/WD~Ukraine,212]]'
-- "[[_Standards/WikiData/WD~Czech_Republic,213]]"
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
-- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
+- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
 - '[[_Standards/WikiData/WD~Croatia,224]]'
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cyprus,229]]'
 - '[[_Standards/WikiData/WD~Montenegro,236]]'
 - '[[_Standards/WikiData/WD~Indonesia,252]]'
+draft: false
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Bulgaria,1902334]]'
+electrical_plug_type:
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Bulgaria,105408016]]'
+expiryDate: 
+female_population:
+- 3329964
+- 3542329
+- 3570641
+- 3592085
+FIPS_10_4_countries_and_regions_: BU
+flag: '[[_Standards/WikiData/WD~flag_of_Bulgaria,225360]]'
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Bulgaria,695835]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Bulgaria.map"
+Gini_coefficient: 40.3
+GitHub_topic: bulgaria
+GOST_7_67_cyrillic: БОГ
+GS1_country_code: 380
+Happy_Planet_Index_score: 40.1
+hashtag: Bulgaria
+has_cabinet: '[[_Standards/WikiData/WD~Council_of_Ministers_of_Bulgaria,2396053]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_id_wikidata: Q219
+has_time_started: 1878-07-13
+head_of_government: '[[_Standards/WikiData/WD~Rosen_Zhelyazkov,59978016]]'
+head_of_state: '[[_Standards/WikiData/WD~Rumen_Radev,26257557]]'
+highest_point: '[[_Standards/WikiData/WD~Musala,209341]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Bulgaria,7800]]'
+Human_Development_Index: 0.795
+IAB_code: 1263
+icon: flag-bg
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rila%20Monastery%2C%20August%202013.jpg"
+inception: 1878-07-13
+Inequality_adjusted_Human_Development_Index: 0.701
+INSEE_countries_and_foreign_territories_code: 99111
+instance_of:
+- '[[_Standards/WikiData/WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+IOC_country_code: BUL
+IPA_transcription: bɐlˈɡarʲɪjə
+isDeleted: false
+ISNI:
+- 0000000123254108
+- 0000000404116342
+ISO_3166_1_alpha_2_code: BG
+ISO_3166_1_alpha_3_code: BGR
+ISO_3166_1_numeric_code: 100
+isReadOnly: false
+ITU_letter_code: BUL
+keywords: 
+Krugosvet_article: strany_mira/BOLGARIYA.html
+Languages:
+- bg
+- tr-BG
+- rom
+language_used:
+- '[[_Standards/WikiData/WD~Bulgarian_Sign_Language,3438325]]'
+- '[[_Standards/WikiData/WD~Turkish,256]]'
+- '[[_Standards/WikiData/WD~Bulgarian,7918]]'
+- '[[_Standards/WikiData/WD~Romani,13201]]'
+layout: 
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_Bulgaria,639704]]'
+Libris_URI: xv8b9p1g14q9h82
+licence_plate_code: BG
+license: "CC BY-SA 4.0"
+life_expectancy: 74
+linkTitle: 
+literacy_rate: 98
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Balkans,23522]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Black_Sea,166]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+location:
+- 42.9342
+- 25.3029
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgaria%20%28orthographic%20projection%29.svg"
+lowest_point: '[[_Standards/WikiData/WD~Black_Sea,166]]'
+M49_code: 100
+mains_voltage: 230
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Bulgaria,11510311]]'
+male_population:
+- 3135133
+- 3335414
+- 3363373
+- 3383675
+maritime_identification_digits: 207
+marriageable_age: 18
+maximum_temperature_record: 45.2
+member_of:
+- '[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~COMECON,191582]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Warsaw_Pact,41644]]'
+MeSH_tree_code: Z01.542.248.180
+mobile_country_code: 284
+motto: '[[_Standards/WikiData/WD~Unity_makes_strength,1308013]]'
+motto_text:
+- "A discovery to share"
+- "Darganfyddiad i'w rannu"
+named_after: '[[_Standards/WikiData/WD~Bulgars,110117]]'
+native_label: България
+nominal_GDP: 89040398406
+number_of_out_of_school_children: 66616
+NUTS_code: BG
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Bulgaria,4404583]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Bulgaria,14946265]]'
+official_language: '[[_Standards/WikiData/WD~Bulgarian,7918]]'
+official_name:
+- "Царство България"
+- "Република България"
+- "República de Bulgària"
+- "Bulharská republika"
+- "Republic of Bulgaria"
+- "la République de Bulgarie"
+- "Republica Bulgaria"
+- "Republiken Bulgarien"
+- "Княжество България"
+- "Народна република България"
+official_observer_status_in_organisation: '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
+official_symbol: '[[_Standards/WikiData/WD~lion,140]]'
+official_website: "http://www.government.bg/"
+OmegaWiki_Defined_Meaning: 160307
+open_data_portal: '[[_Standards/WikiData/WD~Bulgarien_Data_portal,97012366]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Beklemeto%20Pass%20banner.jpg"
+part_of:
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23653968,23653968]]'
+PM20_geo_code: A46
+population: 6795803
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/It-Bulgaria.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bulgarien.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bulgaria.wav"
+publish: true
+publishDate: 
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+replaces: "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
+rural_population:
+- 1528155
+- 1648939
+- 1685936
+- 1719734
 shares_border_with:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Turkey,43]]'
 - '[[_Standards/WikiData/WD~Greece,41]]'
-- "[[_Standards/WikiData/WD~Black_Sea,166]]"
+- '[[_Standards/WikiData/WD~Black_Sea,166]]'
 - '[[_Standards/WikiData/WD~Romania,218]]'
-- "[[_Standards/WikiData/WD~North_Macedonia,221]]"
-part_of:
-- "[[_Standards/WikiData/WD~European_Union,458]]"
-- "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-- "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
-capital: '[[_Standards/WikiData/WD~Sofia,472]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Bulgaria,7800]]"
-official_language: '[[_Standards/WikiData/WD~Bulgarian,7918]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Balkans,23522]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-official_symbol: '[[_Standards/WikiData/WD~lion,140]]'
-lowest_point: "[[_Standards/WikiData/WD~Black_Sea,166]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Black_Sea,166]]"
-VAT_rate:
-  - 20
-  - 9
-country: '[[_Standards/WikiData/WD~Bulgaria,219]]'
-marriageable_age: 18
-age_of_majority: 18
-mains_voltage: 230
-unemployment_rate: 4.1
-suicide_rate: 6.5
-life_expectancy: 74
-BTI_Status_Index:
-  - 7.8
-  - 7.46
-  - 7.76
-  - 7.91
-  - 7.98
-  - 8.14
-  - 8.29
-  - 8.36
-  - 8.44
-birth_rate: 8.8
-literacy_rate: 98
-total_fertility_rate: 1.58
-death_rate: 18.4
-official_observer_status_in_organisation: "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
-Happy_Planet_Index_score: 40.1
-Gini_coefficient: 40.3
-maximum_temperature_record: 45.2
-trunk_prefix: 0
-BTI_Governance_Index:
-  - 5.87
-  - 5.98
-  - 6.02
-  - 6.18
-  - 6.38
-  - 6.53
-  - 6.65
-  - 6.73
-  - 6.76
-Democracy_Index: 6.71
-Inequality_adjusted_Human_Development_Index: 0.701
-Human_Development_Index: 0.795
-GS1_country_code: 380
-UIC_numerical_country_code: 52
-maritime_identification_digits: 207
-mobile_country_code: 284
-coordinates_of_northernmost_point: "Point(22.67 44.22)"
-Commons_gallery: България
-coordinates_of_southernmost_point: "Point(25.28502345 41.23552689)"
-GOST_7_67_cyrillic: БОГ
-coordinates_of_easternmost_point: "Point(28.60926144 43.541729)"
-M49_code: 100
-ISO_3166_1_numeric_code: 100
-NUTS_code: BG
-licence_plate_code: BG
-ISO_3166_1_alpha_2_code: BG
-WIPO_ST_3: BG
-UIC_alphabetical_country_code: BG
-number_of_out_of_school_children: 66616
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
-IAB_code: 1263
+- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
+short_name: "\U0001F1E7\U0001F1EC"
 social_media_followers: 149701
-FIPS_10_4_countries_and_regions_: BU
-ISO_3166_1_alpha_3_code: BGR
-hashtag: Bulgaria
-Commons_category: Bulgaria
-INSEE_countries_and_foreign_territories_code: 99111
-area: 110993.6
-IOC_country_code: BUL
-ITU_letter_code: BUL
-geoshape: "http://commons.wikimedia.org/data/main/Data:Bulgaria.map"
-OmegaWiki_Defined_Meaning: 160307
-native_label: България
-male_population:
-  - 3135133
-  - 3335414
-  - 3363373
-  - 3383675
-female_population:
-  - 3329964
-  - 3542329
-  - 3570641
-  - 3592085
-rural_population:
-  - 1528155
-  - 1648939
-  - 1685936
-  - 1719734
-urban_population:
-  - 4936942
-  - 5228804
-  - 5248079
-  - 5256027
-PM20_geo_code: A46
-population: 6795803
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rila%20Monastery%2C%20August%202013.jpg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bulgaria.svg"
-Unicode_character: 🇧🇬 
-CIVICUS_Monitor_country_entry: bulgaria
+source: "https://datahub.io/core/country-codes"
 subreddit: bulgaria
-GitHub_topic: bulgaria
+suicide_rate: 6.5
+tags:
+- geo/Country
+title: Bulgaria
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Provinces_of_Bulgaria,5981641]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bulgaria,8133376]]'
+top_level_Internet_domain:
+- '[[_Standards/WikiData/WD~.бг,140775]]'
+- '[[_Standards/WikiData/WD~.bg,39029]]'
+total_fertility_rate: 1.58
+trunk_prefix: 0
+twinned_administrative_body: '[[_Standards/WikiData/WD~Toyoake,817280]]'
+type: Country
+UIC_alphabetical_country_code: BG
+UIC_numerical_country_code: 52
+UMLS_CUI: C0006368
+unemployment_rate: 4.1
+Unicode_character: "\U0001F1E7\U0001F1EC"
+urban_population:
+- 4936942
+- 5228804
+- 5248079
+- 5256027
+U_S_National_Archives_Identifier: 10045352
+VAT_rate:
+- 20
+- 9
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Bulgaria,7112213]]'
+WIPO_ST_3: BG
 ---
 
 # [[Bulgaria]] 

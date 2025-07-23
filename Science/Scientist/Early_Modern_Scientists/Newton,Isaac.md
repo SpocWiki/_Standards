@@ -1,9 +1,8 @@
----
+﻿---
 aliases:
-  - Isaac Newton
-  - Sir Isaac Newton
+- "Isaac Newton"
+- "Sir Isaac Newton"
 ---
-
 
 ## #has_/text_of_/abstract 
 

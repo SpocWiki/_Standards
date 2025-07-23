@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_parent_taxon
-
-linkTitle: has_parent_taxon
-keywords: [parent, taxon]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - parent-taxon
 - parent_taxon
 - parentTaxon
 - has_parent_taxon
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- parent
+- taxon
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_parent_taxon
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_parent_taxon
+type: Predi_Relation
 ---
 
 [ #is_/part_of :: pending: ]

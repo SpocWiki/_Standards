@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - Emma Stone
+- "Emma Stone"
 ---
 
 ## #has_/text_of_/abstract 

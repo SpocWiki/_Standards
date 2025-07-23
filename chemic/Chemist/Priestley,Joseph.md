@@ -1,8 +1,7 @@
----
+﻿---
 aliases:
-  - Joseph Priestley
+- "Joseph Priestley"
 ---
-
 
 #has_/time_/started :: 1733-03-24 
 #has_/time_/stopped :: 1804-02-06 

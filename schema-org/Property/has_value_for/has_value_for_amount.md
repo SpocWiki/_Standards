@@ -1,34 +1,27 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
-publish: true
-
-# Hugo Tags
-type: Predi_Quantity
-
-title: has_amount
-linkTitle: has_amount
-
-keywords: [amount]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Quantity
-
+﻿---
 aliases:
 - amount
 - amount
 - amount
 - has_value_for_amount
+confidential: public
+cssclasses: "Predicate Quantity"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- amount
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_amount
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Quantity
+title: has_amount
+type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of DatedMoneySpecification, InvestmentOrDeposit, LoanOrCredit, MonetaryGrant, MoneyTransfer.

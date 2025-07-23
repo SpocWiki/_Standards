@@ -1,33 +1,33 @@
----
-limit: 9
-mapWithTag: true
+﻿---
 excludes: 
-icon: link-2
-version: "2.0"
-tagNames:
-  - class/Physician
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Physician
-  - is_a_/Physician
-  - schema-org/Physician
-tags:
-  - class/FileClass
-  - class/Physician
-  - is_a_/Physician
-  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Physician
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization
 fields:
-  - id: mDAMAA
-    name: AvailableService
-    options:
-      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')
-    type: MultiFile
-    path: ""
-  - id: gDfXa0
-    name: HospitalAffiliation
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization/Hospital')
-    type: MultiFile
-    path: ""
+- id: mDAMAA
+  name: AvailableService
+  options:
+    dvQueryString: "dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')"
+  type: MultiFile
+  path: ''
+- id: gDfXa0
+  name: HospitalAffiliation
+  options:
+    dvQueryString: "dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization/Hospital')"
+  type: MultiFile
+  path: ''
+icon: link-2
+limit: 9
+mapWithTag: true
+tagNames:
+- class/Physician
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Physician
+- is_a_/Physician
+- schema-org/Physician
+tags:
+- class/FileClass
+- class/Physician
+- is_a_/Physician
+- class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Physician
+version: 2.0
 ---
 
 # Physician

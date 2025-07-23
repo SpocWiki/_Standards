@@ -1,10 +1,9 @@
----
+﻿---
 aliases:
-  - matrimony
-  - wedlock
+- matrimony
+- wedlock
 has_id_wikidata: Q8445
 ---
-
 
 ## #has_/text_of_/abstract 
 

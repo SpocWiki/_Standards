@@ -1,33 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: has_exercise_plan
-
-linkTitle: has_exercise_plan
-keywords: [exercise, plan]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Relation
-- schema-org/Relation
-
+﻿---
 aliases:
 - exercise-plan
 - exercise_plan
 - exercisePlan
 - has_exercise_plan
+confidential: public
+cssclasses: "Predicate Relation"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- exercise
+- plan
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_exercise_plan
+publish: true
+publishDate: 
+tags:
+- class/Relation
+- schema-org/Relation
+title: has_exercise_plan
+type: Predi_Relation
 ---
 
 Use it like this: 

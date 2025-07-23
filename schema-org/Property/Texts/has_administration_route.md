@@ -1,34 +1,28 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_administration_route
-linkTitle: has_text_of_administration_route
-
-keywords: [administration, route]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - administration-route
 - administration_route
 - administrationRoute
 - has_text_of_administration_route
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- administration
+- route
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_administration_route
+publish: true
+publishDate: 
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_administration_route
+type: Pred_Text
 ---
 
 Predicate to describe the Text of Drug.

@@ -1,36 +1,30 @@
----
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: has_text_of_available_on_device
-linkTitle: has_text_of_available_on_device
-
-keywords: [available, on, device]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-supersedes: device
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
+﻿---
 aliases:
 - available-on-device
 - available_on_device
 - availableOnDevice
 - has_text_of_available_on_device
+confidential: public
+cssclasses: "Predicate Text"
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- available
+- on
+- device
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: has_text_of_available_on_device
+publish: true
+publishDate: 
+supersedes: device
+tags:
+- class/Property
+- schema-org/Property/Text
+title: has_text_of_available_on_device
+type: Pred_Text
 ---
 
 Device required to run the application. 
