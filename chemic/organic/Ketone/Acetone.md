@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 2-propanone
 - "dimethyl ketone"
