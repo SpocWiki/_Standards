@@ -1,81 +1,89 @@
-﻿---
+---
 Basisklassifikation: 83.66
 Classification_of_Instructional_Programs_code:
-- 01.00
-- 01.0000
-- 01
+  - 1
+  - 1
+  - 1
 Colon_Classification: J
 Commons_category: Agriculture
 Commons_gallery: Agriculture
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 Dewey_Decimal_Classification: 630
-different_from: '[[_Standards/WikiData/WD~crop_and_animal_production,_hunting_and_related_service_activities,29584242]]'
+different_from: "[[_Standards/WikiData/WD~crop_and_animal_production,_hunting_and_related_service_activities,29584242]]"
 DPLA_subject_term: Agriculture
 earliest_date: -15000
-exact_match: "http://purl.obolibrary.org/obo/ENVO_01001442"
-follows: '[[_Standards/WikiData/WD~gathering,2991771]]'
+exact_match: http://purl.obolibrary.org/obo/ENVO_01001442
+follows: "[[_Standards/WikiData/WD~gathering,2991771]]"
 GitHub_topic: agriculture
-has_effect: '[[_Standards/WikiData/WD~deforestation,169940]]'
+has_effect: "[[_Standards/WikiData/WD~deforestation,169940]]"
 has_id_wikidata: Q11451
 has_time_started: -8000
-history_of_topic: '[[_Standards/WikiData/WD~history_of_agriculture,952080]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_agriculture,952080]]"
 IAB_code: 102
 Iconclass_notation: 47I1
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Unload%20wheat%20by%20the%20combine%20Claas%20Lexion%20584.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Unload%20wheat%20by%20the%20combine%20Claas%20Lexion%20584.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441]]'
+  - "[[_Standards/WikiData/WD~field_of_work,627436]]"
+  - "[[_Standards/WikiData/WD~economic_sector,3958441]]"
 IPTC_NewsCode: mediatopic/20000210
 Library_of_Congress_Classification: S1-S790.3
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078555,59078555]]'
-MeSH_tree_code: J01.040
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q59078555,59078555]]"
+MeSH_tree_code:
+  - J01.040
 OmegaWiki_Defined_Meaning: 856004
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+on_focus_list_of_Wikimedia_project:
+  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 part_of:
-- '[[_Standards/WikiData/WD~food_system,5465532]]'
-- '[[_Standards/WikiData/WD~primary_sector_of_the_economy,55640]]'
+  - "[[_Standards/WikiData/WD~food_system,5465532]]"
+  - "[[_Standards/WikiData/WD~primary_sector_of_the_economy,55640]]"
 PhilPapers_topic: agriculture
 practiced_by:
-- '[[_Standards/WikiData/WD~farmer,131512]]'
-- '[[_Standards/WikiData/WD~agricultural_entrepreneur,3796984]]'
-- '[[_Standards/WikiData/WD~farmworker,5060555]]'
-- '[[_Standards/WikiData/WD~agricultural_worker,19261760]]'
-- '[[_Standards/WikiData/WD~planter_class,55630100]]'
-- '[[_Standards/WikiData/WD~agricultural_consultant,76651859]]'
-- '[[_Standards/WikiData/WD~crop_production_worker,110002200]]'
-- '[[_Standards/WikiData/WD~vineyard_worker,110008263]]'
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Landwirtschaft.ogg"
+  - "[[_Standards/WikiData/WD~farmer,131512]]"
+  - "[[_Standards/WikiData/WD~agricultural_entrepreneur,3796984]]"
+  - "[[_Standards/WikiData/WD~farmworker,5060555]]"
+  - "[[_Standards/WikiData/WD~agricultural_worker,19261760]]"
+  - "[[_Standards/WikiData/WD~planter_class,55630100]]"
+  - "[[_Standards/WikiData/WD~agricultural_consultant,76651859]]"
+  - "[[_Standards/WikiData/WD~crop_production_worker,110002200]]"
+  - "[[_Standards/WikiData/WD~vineyard_worker,110008263]]"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Landwirtschaft.ogg
 Provenio_UUID: e29ffdd3-1d29-4625-860a-1a7027f6dd9f
-spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Landbouw-article.ogg"
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Landbouw-article.ogg
 start_time: -8000
-studied_in: '[[_Standards/WikiData/WD~agronomy,173113]]'
+studied_in:
+  - "[[_Standards/WikiData/WD~agronomy,173113]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~cultivation,357279]]'
-- '[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]'
-subreddit: Agriculture
+  - "[[_Standards/WikiData/WD~cultivation,357279]]"
+  - "[[_Standards/WikiData/WD~agriculture_and_forestry,1801887]]"
+subreddit:
+  - Agriculture
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Agriculture_footer,6672312]]'
-- '[[_Standards/WikiData/WD~Template_Agriculture,10963661]]'
-- '[[_Standards/WikiData/WD~Q122387479,122387479]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Agriculture_and_agronomy,8210598]]'
+  - "[[_Standards/WikiData/WD~Template_Agriculture_footer,6672312]]"
+  - "[[_Standards/WikiData/WD~Template_Agriculture,10963661]]"
+  - "[[_Standards/WikiData/WD~Q122387479,122387479]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Agriculture_and_agronomy,8210598]]"
 UMLS_CUI:
-- C0001829
-- C0001827
+  - C0001829
+  - C0001827
 Universal_Decimal_Classification: 63
 uses:
-- '[[_Standards/WikiData/WD~fresh_water,102192]]'
-- '[[_Standards/WikiData/WD~arable_land,843920]]'
+  - "[[_Standards/WikiData/WD~fresh_water,102192]]"
+  - "[[_Standards/WikiData/WD~arable_land,843920]]"
 U_S_National_Archives_Identifier: 10640158
-view: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20towards%20Mere%20Carnival%20-%20geograph.org.uk%20-%205909922.jpg"
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]'
+view: http://commons.wikimedia.org/wiki/Special:FilePath/View%20towards%20Mere%20Carnival%20-%20geograph.org.uk%20-%205909922.jpg
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]"
 ---
+
+# [[Agriculture]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Agriculture,11451]]
 
 ## #has_/text_of_/abstract 
 
