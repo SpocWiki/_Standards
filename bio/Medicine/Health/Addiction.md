@@ -1,4 +1,4 @@
-﻿---
+---
 described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109]]'
 different_from:
 - '[[_Standards/WikiData/WD~substance_dependence,3378593]]'

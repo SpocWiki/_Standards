@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Fictional characters"
 described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
 different_from:

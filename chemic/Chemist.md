@@ -1,4 +1,6 @@
-#[[Chemist]]] 
+# [[Chemist]]] 
+
+## #has_/text_of_/abstract 
 
 > A chemist (from Greek chēm(ía) alchemy; 
 > replacing chymist from Medieval Latin alchemist) 

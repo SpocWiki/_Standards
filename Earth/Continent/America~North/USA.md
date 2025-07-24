@@ -836,59 +836,59 @@ Major Cities with Population in 1000s as of @2020
 
 List of Constituent States with Data of 2024 
 
-| State                                                                  |  Popltn/k | Area/kkm² |    GDP/G$ | GDPpP/k$ | Notable Properties                                                        |
-| ---------------------------------------------------------------------- | --------: | --------: | --------: | ------: | ------------------------------------------------------------------------- |
-| [[USA/USA~Pacific/California\|California]]                             | 39538.223 |   423.967 |  4103.124 | 104.916 | Largest state economy; tech industry hub; significant agricultural output |
-| [[USA/USA~Mountain/Texas\|Texas]]                                      | 29145.505 |   695.662 |  2709.393 |  86.987 | Leading in energy production; significant manufacturing sector            |
-| [[USA/USA~Eastern/Florida\|Florida]]                                   | 21538.187 |   170.312 |  1705.565 |  73.784 | Major tourism industry; large retiree population                          |
-| [[USA/USA~Eastern/New_York,State\|New York State]]                     | 20201.249 |   141.297 |  2297.028 | 117.332 | Financial center; diverse economy                                         |
-| [[USA/USA~Eastern/Pennsylvania\|Pennsylvania]]                         | 13002.700 |   119.280 |  1137.244 |  90.449 | Strong manufacturing and healthcare sectors                               |
-| [[USA/USA~Central/Illinois\|Illinois]]                                 | 12812.508 |   149.995 |  1024.206 |  78.544 | Transportation hub; significant agricultural production                   |
-| [[USA/USA~Central/Ohio\|Ohio]]                                         | 11799.448 |   116.098 |   927.740 |  78.120 | Diverse economy; manufacturing and services                               |
-| [[USA/USA~Eastern/Georgia,USA\|Georgia,USA]]                           | 10711.908 |   153.910 |   882.535 |  78.754 | Growing tech sector; transportation and logistics hub                     |
-| [[USA/USA~Eastern/North_Carolina\|North Carolina]]                     | 10439.388 |   139.391 |   854.683 | 108.468 | Banking center; strong research and education sectors                     |
-| [[USA/USA~Central/Michigan\|Michigan]]                                 | 10077.331 |   250.487 |   846.587 |  90.272 | Automotive industry; significant manufacturing                            |
-| [[USA/USA~Eastern/New_Jersey\|New Jersey]]                             |  9288.994 |    22.591 |   839.122 |  75.876 | Pharmaceutical and finance industries                                     |
-| [[USA/USA~Eastern/Virginia\|Virginia]]                                 |  8631.393 |   110.787 |   780.666 | 110.561 | Government and military presence; tech sector                             |
-| [[USA/USA~Pacific/Washington\|Washington]]                             |  7705.281 |   184.661 |   764.475 |  86.747 | Technology and aerospace industries                                       |
-| [[USA/USA~Mountain/Arizona\|Arizona]]                                  |  7151.502 |   295.234 |   706.616 |  70.038 | Rapid population growth; tourism and mining                               |
-| [[USA/USA~Eastern/Massachusetts\|Massachusetts]]                       |  6910.840 |    27.336 |   780.666 | 110.561 | Education and healthcare sectors; biotech industry                        |
-| [[USA/USA~Central/Tennessee\|Tennessee]]                               |  6910.840 |   109.153 |   553.323 |  93.026 | Music industry; healthcare and manufacturing                              |
-| [[USA/USA~Central/Indiana\|Indiana]]                                   |  6785.528 |    94.326 |   552.167 |  73.203 | Manufacturing and agriculture                                             |
-| [[USA/USA~Central/Missouri\|Missouri]]                                 |  6154.913 |   180.540 |   549.709 |  75.748 | Transportation and logistics; agriculture                                 |
-| [[USA/USA~Eastern/Maryland\|Maryland]]                                 |  6177.224 |    32.131 |   542.766 |  87.021 | Biotechnology and defense industries                                      |
-| [[USA/USA~Central/Wisconsin\|Wisconsin]]                               |  5893.718 |   169.635 |   527.381 |  76.004 | Dairy industry; manufacturing                                             |
-| [[USA/USA~Mountain/Colorado\|Colorado]]                                |  5773.714 |   269.601 |   500.851 |  86.371 | Aerospace and defense; tourism                                            |
-| [[USA/USA~Central/Minnesota\|Minnesota]]                               |  5706.494 |   225.163 |   451.285 |  75.605 | Medical technology; agriculture                                           |
-| [[USA/USA~Eastern/South_Carolina\|South Carolina]]                     |  5118.425 |    82.933 |   451.201 |  72.108 | Manufacturing and tourism                                                 |
-| [[USA/USA~Central/Alabama\|Alabama]]                                   |  5024.279 |   135.767 |   365.723 | 100.235 | Aerospace and automotive industries                                       |
-| [[USA/USA~Central/Louisiana\|Louisiana]]                               |  4657.757 |   135.659 |   349.965 |  63.711 | Energy sector; port operations                                            |
-| [[USA/USA~Central/Kentucky\|Kentucky]]                                 |  4505.836 |   104.656 |   331.029 |  77.916 | Automotive manufacturing; agriculture                                     |
-| [[USA/USA~Pacific/Oregon\|Oregon]]                                     |  4237.256 |   254.799 |   327.782 |  71.642 | Technology and forestry industries                                        |
-| [[USA/USA~Central/Oklahoma\|Oklahoma]]                                 |  3959.353 |   181.037 |   321.238 |  61.846 | Energy production; agriculture                                            |
-| [[USA/USA~Eastern/Connecticut\|Connecticut]]                           |  3605.944 |    14.357 |   300.904 |  86.506 | Finance and insurance sectors                                             |
-| [[USA/USA~Central/Iowa\|Iowa]]                                         |  3190.369 |   145.746 |   293.021 |  64.110 | Agriculture and manufacturing                                             |
-| [[USA/USA~Mountain/Utah\|Utah]]                                        |  3271.616 |   219.882 |   265.779 |  64.719 | Technology sector; tourism                                                |
-| [[USA/USA~Pacific/Nevada\|Nevada]]                                     |  3104.614 |   286.380 |   260.728 |  80.880 | Tourism and gaming industry                                               |
-| [[USA/USA~Central/Arkansas\|Arkansas]]                                 |  3011.524 |   137.732 |   257.021 |  79.631 | Agriculture and manufacturing                                             |
-| [[USA/USA~Central/Mississippi\|Mississippi]]                           |  2961.279 |   125.438 |   234.673 |  79.513 | Agriculture and manufacturing                                             |
-| [[USA/USA~Mountain/Kansas\|Kansas]]                                    |  2937.880 |   213.100 |   188.723 |  60.276 | Agriculture and aviation industries                                       |
-| [[USA/USA~Mountain/New_Mexico\|New Mexico]]                            |  2117.522 |   314.917 |   185.411 |  93.145 | Energy production; federal government spending                            |
-| [[USA/USA~Central/Nebraska\|Nebraska]]                                 |  1961.504 |   200.330 |   128.132 |  63.991 | Agriculture and insurance industries                                      |
-| [[USA/USA~Eastern/West_Virginia\|West Virginia]]                       |  1793.716 |    62.756 |   121.189 |  85.518 | Energy production; chemical manufacturing                                 |
-| [[USA/USA~Mountain/Idaho\|Idaho]]                                      |  1839.106 |   216.443 |   115.627 |  80.325 | Agriculture and technology sectors                                        |
-| [[USA/USA~Pacific/Hawaii\|Hawaii]]                                     |  1455.271 |    28.311 |   107.660 |  60.783 | Tourism and military presence                                             |
-| [[USA/USA~Eastern/Maine\|Maine]]                                       |  1354.522 |    91.646 |   103.253 |  98.055 | Forestry and fishing industries                                           |
-| [[USA/USA~Eastern/New_Hampshire\|New Hampshire]]                       |  1377.529 |    24.214 |    98.606 |  69.803 | Manufacturing and technology sectors                                      |
-| [[../Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana\|Montana]] |  1084.225 |   380.831 |    82.493 |  74.594 | Agriculture and mining industries                                         |
-| [[USA/USA~Eastern/Rhode_Island\|Rhode Island]]                         |  1097.379 |     4.001 |    75.999 |  66.379 | Manufacturing and healthcare sectors                                      |
-| [[USA/USA~Eastern/Delaware\|Delaware]]                                 |   989.948 |     6.446 |    75.399 |  95.982 | Finance and insurance industries                                          |
-| [[USA/USA~Central/South_Dakota\|South Dakota]]                         |   886.667 |   199.729 |    75.179 |  80.685 | Agriculture and manufacturing                                             |
-| [[USA/USA~Central/North_Dakota\|North Dakota]]                         |   779.094 |   183.108 |    69.969 |  95.147 | Energy production; agriculture                                            |
-| [[USA/USA~Pacific/Alaska\|Alaska]]                                     |   733.391 |  1723.337 |    69.969 |  95.147 | Oil and gas industries; fishing                                           |
-| [[USA/USA~Eastern/Vermont\|Vermont]]                                   |   643.077 |    24.906 |    45.707 |  70.131 | Tourism and manufacturing                                                 |
-| [[USA/USA~Mountain/Wyoming\|Wyoming]]                                  |   576.851 |   253.600 |    52.946 |  90.335 | Energy production; agriculture                                            |
-| [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]         |   714.153 |     0.177 |   184.916 | 263.220 | Federal government; legal and lobbying industries                         |
+| State                                                                        |  Popltn/k | Area/kkm² |   GDP/G$ | GDPpP/k$ | Notable Properties                                                        |
+| ---------------------------------------------------------------------------- | --------: | --------: | -------: | -------: | ------------------------------------------------------------------------- |
+| [[USA/USA~Pacific/California\|California]]                                   | 39538.223 |   423.967 | 4103.124 |  104.916 | Largest state economy; tech industry hub; significant agricultural output |
+| [[USA/USA~Mountain/Texas\|Texas]]                                            | 29145.505 |   695.662 | 2709.393 |   86.987 | Leading in energy production; significant manufacturing sector            |
+| [[USA/USA~Eastern/Florida\|Florida]]                                         | 21538.187 |   170.312 | 1705.565 |   73.784 | Major tourism industry; large retiree population                          |
+| [[USA/USA~Eastern/New_York,State\|New York State]]                           | 20201.249 |   141.297 | 2297.028 |  117.332 | Financial center; diverse economy                                         |
+| [[USA/USA~Eastern/Pennsylvania\|Pennsylvania]]                               | 13002.700 |   119.280 | 1137.244 |   90.449 | Strong manufacturing and healthcare sectors                               |
+| [[USA/USA~Central/Illinois\|Illinois]]                                       | 12812.508 |   149.995 | 1024.206 |   78.544 | Transportation hub; significant agricultural production                   |
+| [[USA/USA~Central/Ohio\|Ohio]]                                               | 11799.448 |   116.098 |  927.740 |   78.120 | Diverse economy; manufacturing and services                               |
+| [[USA/USA~Eastern/Georgia,USA\|Georgia,USA]]                                 | 10711.908 |   153.910 |  882.535 |   78.754 | Growing tech sector; transportation and logistics hub                     |
+| [[USA/USA~Eastern/North_Carolina\|North Carolina]]                           | 10439.388 |   139.391 |  854.683 |  108.468 | Banking center; strong research and education sectors                     |
+| [[USA/USA~Central/Michigan\|Michigan]]                                       | 10077.331 |   250.487 |  846.587 |   90.272 | Automotive industry; significant manufacturing                            |
+| [[USA/USA~Eastern/New_Jersey\|New Jersey]]                                   |  9288.994 |    22.591 |  839.122 |   75.876 | Pharmaceutical and finance industries                                     |
+| [[USA/USA~Eastern/Virginia\|Virginia]]                                       |  8631.393 |   110.787 |  780.666 |  110.561 | Government and military presence; tech sector                             |
+| [[USA/USA~Pacific/Washington\|Washington]]                                   |  7705.281 |   184.661 |  764.475 |   86.747 | Technology and aerospace industries                                       |
+| [[USA/USA~Mountain/Arizona\|Arizona]]                                        |  7151.502 |   295.234 |  706.616 |   70.038 | Rapid population growth; tourism and mining                               |
+| [[USA/USA~Eastern/Massachusetts\|Massachusetts]]                             |  6910.840 |    27.336 |  780.666 |  110.561 | Education and healthcare sectors; biotech industry                        |
+| [[USA/USA~Central/Tennessee\|Tennessee]]                                     |  6910.840 |   109.153 |  553.323 |   93.026 | Music industry; healthcare and manufacturing                              |
+| [[USA/USA~Central/Indiana\|Indiana]]                                         |  6785.528 |    94.326 |  552.167 |   73.203 | Manufacturing and agriculture                                             |
+| [[USA/USA~Central/Missouri\|Missouri]]                                       |  6154.913 |   180.540 |  549.709 |   75.748 | Transportation and logistics; agriculture                                 |
+| [[USA/USA~Eastern/Maryland\|Maryland]]                                       |  6177.224 |    32.131 |  542.766 |   87.021 | Biotechnology and defense industries                                      |
+| [[USA/USA~Central/Wisconsin\|Wisconsin]]                                     |  5893.718 |   169.635 |  527.381 |   76.004 | Dairy industry; manufacturing                                             |
+| [[USA/USA~Mountain/Colorado\|Colorado]]                                      |  5773.714 |   269.601 |  500.851 |   86.371 | Aerospace and defense; tourism                                            |
+| [[USA/USA~Central/Minnesota\|Minnesota]]                                     |  5706.494 |   225.163 |  451.285 |   75.605 | Medical technology; agriculture                                           |
+| [[USA/USA~Eastern/South_Carolina\|South Carolina]]                           |  5118.425 |    82.933 |  451.201 |   72.108 | Manufacturing and tourism                                                 |
+| [[USA/USA~Central/Alabama\|Alabama]]                                         |  5024.279 |   135.767 |  365.723 |  100.235 | Aerospace and automotive industries                                       |
+| [[USA/USA~Central/Louisiana\|Louisiana]]                                     |  4657.757 |   135.659 |  349.965 |   63.711 | Energy sector; port operations                                            |
+| [[USA/USA~Central/Kentucky\|Kentucky]]                                       |  4505.836 |   104.656 |  331.029 |   77.916 | Automotive manufacturing; agriculture                                     |
+| [[USA/USA~Pacific/Oregon\|Oregon]]                                           |  4237.256 |   254.799 |  327.782 |   71.642 | Technology and forestry industries                                        |
+| [[USA/USA~Central/Oklahoma\|Oklahoma]]                                       |  3959.353 |   181.037 |  321.238 |   61.846 | Energy production; agriculture                                            |
+| [[USA/USA~Eastern/Connecticut\|Connecticut]]                                 |  3605.944 |    14.357 |  300.904 |   86.506 | Finance and insurance sectors                                             |
+| [[USA/USA~Central/Iowa\|Iowa]]                                               |  3190.369 |   145.746 |  293.021 |   64.110 | Agriculture and manufacturing                                             |
+| [[USA/USA~Mountain/Utah\|Utah]]                                              |  3271.616 |   219.882 |  265.779 |   64.719 | Technology sector; tourism                                                |
+| [[USA/USA~Pacific/Nevada\|Nevada]]                                           |  3104.614 |   286.380 |  260.728 |   80.880 | Tourism and gaming industry                                               |
+| [[USA/USA~Central/Arkansas\|Arkansas]]                                       |  3011.524 |   137.732 |  257.021 |   79.631 | Agriculture and manufacturing                                             |
+| [[USA/USA~Central/Mississippi\|Mississippi]]                                 |  2961.279 |   125.438 |  234.673 |   79.513 | Agriculture and manufacturing                                             |
+| [[USA/USA~Mountain/Kansas\|Kansas]]                                          |  2937.880 |   213.100 |  188.723 |   60.276 | Agriculture and aviation industries                                       |
+| [[USA/USA~Mountain/New_Mexico\|New Mexico]]                                  |  2117.522 |   314.917 |  185.411 |   93.145 | Energy production; federal government spending                            |
+| [[USA/USA~Central/Nebraska\|Nebraska]]                                       |  1961.504 |   200.330 |  128.132 |   63.991 | Agriculture and insurance industries                                      |
+| [[USA/USA~Eastern/West_Virginia\|West Virginia]]                             |  1793.716 |    62.756 |  121.189 |   85.518 | Energy production; chemical manufacturing                                 |
+| [[USA/USA~Mountain/Idaho\|Idaho]]                                            |  1839.106 |   216.443 |  115.627 |   80.325 | Agriculture and technology sectors                                        |
+| [[USA/USA~Pacific/Hawaii\|Hawaii]]                                           |  1455.271 |    28.311 |  107.660 |   60.783 | Tourism and military presence                                             |
+| [[USA/USA~Eastern/Maine\|Maine]]                                             |  1354.522 |    91.646 |  103.253 |   98.055 | Forestry and fishing industries                                           |
+| [[USA/USA~Eastern/New_Hampshire\|New Hampshire]]                             |  1377.529 |    24.214 |   98.606 |   69.803 | Manufacturing and technology sectors                                      |
+| [[../Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana\|Montana]]       |  1084.225 |   380.831 |   82.493 |   74.594 | Agriculture and mining industries                                         |
+| [[USA/USA~Eastern/Rhode_Island\|Rhode Island]]                               |  1097.379 |     4.001 |   75.999 |   66.379 | Manufacturing and healthcare sectors                                      |
+| [[USA/USA~Eastern/Delaware\|Delaware]]                                       |   989.948 |     6.446 |   75.399 |   95.982 | Finance and insurance industries                                          |
+| [[USA/USA~Central/South_Dakota\|South Dakota]]                               |   886.667 |   199.729 |   75.179 |   80.685 | Agriculture and manufacturing                                             |
+| [[USA/USA~Central/North_Dakota\|North Dakota]]                               |   779.094 |   183.108 |   69.969 |   95.147 | Energy production; agriculture                                            |
+| [[/_Standards/Earth/Continent/America~North/USA/USA~Pacific/Alaska\|Alaska]] |   733.391 |  1723.337 |   69.969 |   95.147 | Oil and gas industries; fishing                                           |
+| [[USA/USA~Eastern/Vermont\|Vermont]]                                         |   643.077 |    24.906 |   45.707 |   70.131 | Tourism and manufacturing                                                 |
+| [[USA/USA~Mountain/Wyoming\|Wyoming]]                                        |   576.851 |   253.600 |   52.946 |   90.335 | Energy production; agriculture                                            |
+| [[USA/USA~Eastern/District_of_Columbia\|District of Columbia]]               |   714.153 |     0.177 |  184.916 |  263.220 | Federal government; legal and lobbying industries                         |
 
 *Note: Population and GDP figures are based on the most recent data available as of 2024. 
 Sources:

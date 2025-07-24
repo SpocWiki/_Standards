@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Natural disasters"
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~disaster_preparedness,4583103]]'

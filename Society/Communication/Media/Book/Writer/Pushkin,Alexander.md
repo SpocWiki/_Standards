@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alexander Pushkin"
 - "Alexander Sergeyevich Pushkin"
@@ -172,8 +172,12 @@ writing_language:
 - '[[_Standards/WikiData/WD~French,150]]'
 ---
 
+# [[Pushkin,Alexander]] 
+
 #has_/time_/started :: 1799-06-06  
 #has_/time_/stopped  :: 1837-02-10 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Alexander_Pushkin,7200]] 
 
 ## #has_/text_of_/abstract 
 

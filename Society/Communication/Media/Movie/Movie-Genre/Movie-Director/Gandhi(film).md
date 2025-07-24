@@ -3,7 +3,7 @@
 
 ## #has_/text_of_/abstract 
 
-> Gandhi is a 1982 epic biographical film based on the life of [[../../../../../Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand|Mahatma Gandhi]], 
+> Gandhi is a 1982 epic biographical film based on the life of [[../../../../../Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand|Mahatma Gandhi]], 
 > a major leader in the Indian independence movement against the British Empire during the 20th century. 
 > 
 > A co-production between India and the United Kingdom, 

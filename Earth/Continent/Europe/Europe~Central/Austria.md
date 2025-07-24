@@ -503,7 +503,7 @@ Major Cities with Population in 1000s as of @2020
 > under Engelbert Dollfuss in 1934. 
 > 
 > A year before the outbreak of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], Austria was annexed into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany|Nazi Germany]] 
-> by [[../../../../Society/Government/Leader/Modern_Leaders/Hitler,Adolf|Adolf Hitler]], and it became a sub-national division. 
+> by [[../../../../Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf|Adolf Hitler]], and it became a sub-national division. 
 > 
 > After its liberation in 1945 and a decade of Allied occupation, 
 > the country regained its sovereignty and declared its perpetual neutrality in 1955.

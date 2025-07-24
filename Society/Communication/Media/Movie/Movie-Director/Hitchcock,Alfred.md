@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alfred Hitchcock"
 - "Alfred Joseph Hitchcock"
@@ -147,6 +147,7 @@ work_period_start_: 1921
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)` 
 
+#is_/same_as :: [[../../../../../WikiData/WD~Alfred_Hitchcock,7374]] 
 
 ## #has_/text_of_/abstract 
 

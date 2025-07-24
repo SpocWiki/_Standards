@@ -1,4 +1,4 @@
-﻿---
+---
 Classification_of_Instructional_Programs_code: 27.0102
 Colon_Classification: B21
 Commons_category: Algebra
@@ -47,6 +47,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_algebra,7112546]]'
 ---
 
 # [[Algebra]] 
+
+#is_/same_as :: [[../WikiData/WD~Algebra,3968]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 academic_thesis: '[[_Standards/WikiData/WD~Systems_of_Logic_Based_on_Ordinals,7663875]]'
 aliases:
 - "Alan Turing"
@@ -113,10 +113,13 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alan_Turing,120912950]
 unmarried_partner: '[[_Standards/WikiData/WD~Christopher_Morcom,21693479]]'
 ---
 
+# [[Turing,Alan]] 
 ﻿
 #has_/time_/started :: 1912-06-23  
 #has_/time_/stopped :: 1954-06-07 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
+
+#is_/same_as :: [[../../WikiData/WD~Alan_Turing,7251|WD~Alan_Turing,7251]] 
 
 ## #has_/text_of_/abstract 
 

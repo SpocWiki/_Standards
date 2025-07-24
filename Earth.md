@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20dry%20elevation.stl"
 albedo:
 - 0.306

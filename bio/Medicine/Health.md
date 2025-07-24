@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 健康
 Commons_category: Health
 described_by_source:

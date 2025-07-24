@@ -1,4 +1,4 @@
-﻿---
+---
 child_astronomical_body: '[[_Standards/WikiData/WD~artificial_satellite,26540]]'
 Colon_Classification: B96
 Commons_category: Stars
