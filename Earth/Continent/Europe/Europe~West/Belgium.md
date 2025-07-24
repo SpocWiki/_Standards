@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Belgium
-  - Bélgica
-  - Belgique
-  - بلجيكا
-  - 比利时
-  - Бельгия
+- Belgium
+- Bélgica
+- Belgique
+- بلجيكا
+- 比利时
+- Бельгия
 - "the Kingdom of Belgium"
 - "el Reino de Bélgica"
 Languages:
-  - nl-BE
-  - fr-BE
-  - de-BE
+- nl-BE
+- fr-BE
+- de-BE
 icon: flag-be
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -388,7 +388,7 @@ demonym:
 ISNI: 0000000123536287
 coordinates_of_southernmost_point: "Point(5.47248 49.49699)"
 IPA_transcription:
-  - ˈbɛlʤəm
+- ˈbɛlʤəm
 - "ˈkɪŋdəm ɒv ˈbɛlʤəm"
 YouTube_handle: WebmasterBelgiumbe
 official_jobs_URL:

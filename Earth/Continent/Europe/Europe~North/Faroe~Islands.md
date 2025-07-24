@@ -26,7 +26,7 @@ aliases:
 - "Islas Feroe"
 - "Îles Féroé"
 - "جزر فايرو"
-  - 法罗群岛
+- 法罗群岛
 - "Фарерские острова"
 Languages:
   - fo

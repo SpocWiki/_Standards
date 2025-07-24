@@ -21,11 +21,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Andorra
-  - Andorre
-  - أندورا
-  - 安道尔
-  - Андорра
+- Andorra
+- Andorre
+- أندورا
+- 安道尔
+- Андорра
 - "the Principality of Andorra"
 - "el Principado de Andorra"
 Languages:

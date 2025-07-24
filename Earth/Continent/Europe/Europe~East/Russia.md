@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Russia
+- Russia
 - "Russian Federation"
 - "Federación de Rusia"
 - "Fédération de Russie"
 - "الاتحاد الروسي"
-  - 俄罗斯联邦
+- 俄罗斯联邦
 - "Российская Федерация"
 - "the Russian Federation"
 - "Russian Federation (the)"
@@ -821,8 +821,8 @@ motto_text:
 - "Reveal your own Russia"
 short_name:
 - "\U0001F1F7\U0001F1FA"
-  - Россия
-  - Росія
+- Россия
+- Росія
 rural_population:
   - 35877495
   - 36282223
@@ -848,7 +848,7 @@ INSEE_countries_and_foreign_territories_code: 99123
 official_name: "Российская Федерация"
 native_label:
 - "Российская Федерация"
-  - Россия
+- Россия
 population: 145975300
 GS1_country_code: 460-469
 coordinates_of_southernmost_point: "Point(47.781944444 41.185277777)"

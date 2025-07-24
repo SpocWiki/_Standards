@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Gibraltar
 - "جبل طارق"

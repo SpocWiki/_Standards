@@ -315,7 +315,7 @@ Unicode_character: 🇲🇪
 Colon_Classification: SG--592245
 Krugosvet_article: strany_mira/CHERNOGORIYA.html
 IPA_transcription:
-  - t͡ɕɪrnɐˈɡorʲɪjə
+- t͡ɕɪrnɐˈɡorʲɪjə
 - "t͡sr̩̂ːnaː ɡɔ̌ra"
 has_id_wikidata: Q236
 location:
@@ -340,18 +340,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Montenegro
-    - Monténégro
+- Montenegro
+- Monténégro
 - "الجبل الأسود"
-    - 黑山
-    - Черногория
+- 黑山
+- Черногория
 Languages:
-    - sr
-    - hu
-    - bs
-    - sq
-    - hr
-    - rom
+- sr
+- hu
+- bs
+- sq
+- hr
+- rom
 icon: flag-me
 ---
 

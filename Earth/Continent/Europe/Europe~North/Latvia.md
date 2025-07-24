@@ -475,18 +475,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Latvia
-    - Letonia
-    - Lettonie
-    - لاتفيا
-    - 拉脱维亚
-    - Латвия
+- Latvia
+- Letonia
+- Lettonie
+- لاتفيا
+- 拉脱维亚
+- Латвия
 - "the Republic of Latvia"
 - "la República de Letonia"
 Languages:
-    - lv
-    - ru
-    - lt
+- lv
+- ru
+- lt
 icon: flag-lv
 ---
 

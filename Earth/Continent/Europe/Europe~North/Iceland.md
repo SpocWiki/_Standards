@@ -141,7 +141,7 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Iceland,97013423]]"
 coordinates_of_northernmost_point: "Point(-18.68 67.13)"
 official_name:
 - "Komara Îslendayê"
-  - Ísland
+- Ísland
 - "Islandi Vabariik"
 - "la République d’Islande"
 - "Lýðveldið Ísland"
@@ -304,20 +304,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Iceland
-    - Islandia
-    - Islande
-    - آيسلندا
-    - 冰岛
-    - Исландия
+- Iceland
+- Islandia
+- Islande
+- آيسلندا
+- 冰岛
+- Исландия
 - "the Republic of Iceland"
 - "la República de Islandia"
 Languages:
-    - is
-    - en
-    - de
-    - da
-    - sv
+- is
+- en
+- de
+- da
+- sv
 - no
 icon: flag-is
 ---

@@ -24,7 +24,7 @@ expiryDate:
 aliases:
 - "Great Britain"
 - "United Kingdom"
-  - Britain
+- Britain
 icon: flag-gb
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -248,97 +248,97 @@ Gregorian_calendar_start_date: "1752-09-14"
 coordinates_of_northernmost_point: "Point(-0.87 60.87)"
 Baidu_Tieba_name: 英国
 short_name:
-  - ꠁꠃꠇꠦ
-  - ব্রিটেন
+- ꠁꠃꠇꠦ
+- ব্রিটেন
 - "Vereinigtes Königreich"
-  - ΗΒ
-  - Britain
+- ΗΒ
+- Britain
 - "Ir-Renju Unit"
 - "Regatul Unit"
 - "Соединённое Королевство"
-  - Storbritannien
+- Storbritannien
 - "Велика Британія"
 - "\U0001F1EC\U0001F1E7"
-  - Britain
+- Britain
 - "United Kingdom"
-  - Великобритания
+- Великобритания
 IPA_transcription:
 - "zukt̪ɔ raizzɔ"
 - "fɛɐ̯ˌʔaɪ̯nɪçtəs ˈkøːnɪçˌʁaɪ̯ç"
 - "fɛɐ̯ˌʔaɪ̯nɪktəs ˈkøːnɪkˌʁaɪ̯ç"
 - "jʊ̈nai̯tɘd kɪŋɡdə̯m"
 - "vʲɛlka brɨtaɲa"
-  - vʲɪlʲɪkəbrʲɪˈtanʲɪj
-  - ˈstuɾbɾɪtɑːnɪɑ
+- vʲɪlʲɪkəbrʲɪˈtanʲɪj
+- ˈstuɾbɾɪtɑːnɪɑ
 Provenio_UUID:
-  - fb0e9c21-05a7-4685-a430-1bdd5d64aab2
-  - 1e1ca283-d520-4f92-a279-43d71f92235b
+- fb0e9c21-05a7-4685-a430-1bdd5d64aab2
+- 1e1ca283-d520-4f92-a279-43d71f92235b
 demonym:
-  - بريطاني
-  - بريطانية
-  - بريطانيين
-  - بريطانيات
-  - Briotanach
-  - británica
-  - británicu
-  - brite
-  - Brite
-  - Βρετανή
-  - Βρετανός
-  - Briton
-  - brittiläinen
-  - isobritannialainen
-  - breti
-  - Britannique
-  - brit
+- بريطاني
+- بريطانية
+- بريطانيين
+- بريطانيات
+- Briotanach
+- británica
+- británicu
+- brite
+- Brite
+- Βρετανή
+- Βρετανός
+- Briton
+- brittiläinen
+- isobritannialainen
+- breti
+- Britannique
+- brit
 - "Orang Inggris"
-  - britannica
-  - britanniche
+- britannica
+- britanniche
 - "Wong Inggeris"
-  - Anglaise
-  - بريطاني
-  - بريطانية
-  - بريطانيون
-  - Britové
-  - Britin
-  - británicos
-  - britit
-  - Breatannaich
-  - בריטית
-  - britannici
-  - イギリス人
-  - 英国人
-  - Британци
-  - Brytyjczycy
-  - britânicos
-  - британцы
-  - британці
-  - britàneghi
-  - britannico
-  - ब्रिटिश
-  - Brittaniku
-  - brite
-  - britse
-  - brite
-  - britanic
-  - britanică
-  - britanici
-  - британец
-  - британка
-  - britt
-  - brittisk
-  - британець
-  - британка
-  - britànega
-  - britàneghe
-  - britànego
-  - 英国人
-  - Anglais
-  - brittiska
-  - Brit
-  - בריטי
-  - Briton
-  - British
+- Anglaise
+- بريطاني
+- بريطانية
+- بريطانيون
+- Britové
+- Britin
+- británicos
+- britit
+- Breatannaich
+- בריטית
+- britannici
+- イギリス人
+- 英国人
+- Британци
+- Brytyjczycy
+- britânicos
+- британцы
+- британці
+- britàneghi
+- britannico
+- ब्रिटिश
+- Brittaniku
+- brite
+- britse
+- brite
+- britanic
+- britanică
+- britanici
+- британец
+- британка
+- britt
+- brittisk
+- британець
+- британка
+- britànega
+- britàneghe
+- britànego
+- 英国人
+- Anglais
+- brittiska
+- Brit
+- בריטי
+- Briton
+- British
 ISNI: 0000000122483427
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20United%20Kingdom%20%282022%2C%20variant%202%29.svg"
 coordinates_of_westernmost_point: "Point(-8.17751 54.46477)"

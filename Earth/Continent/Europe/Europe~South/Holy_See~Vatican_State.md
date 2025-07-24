@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 has_id_wikidata: Q237
 isDeleted: false

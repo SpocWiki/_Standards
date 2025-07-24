@@ -69,9 +69,9 @@ distribution_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Devanagari
 ISO_15924_alpha_4_code: Deva
 Commons_category: Devanagari
 name:
-  - Devanagari
+- Devanagari
 - "Devanagari (Nagari)"
-  - dévanâgarî
+- dévanâgarî
 inception: "1100"
 has_time_started: 1100-06 
 has_time_started: 1100-01-01 

@@ -86,10 +86,10 @@ official_name:
 - "World Health Organization"
 - "Всемирная организация здравоохранения"
 - "منظمة الصحة العالمية"
-  - Weltgesundheitsorganisation
+- Weltgesundheitsorganisation
 - "Organización Mundial de la Salud"
 - "Organisation mondiale de la Santé"
-  - 世界卫生组织
+- 世界卫生组织
 - "Светска здравствена организација"
 EU_Corporate_body_code: WHO
 X_Twitter_username: WHO

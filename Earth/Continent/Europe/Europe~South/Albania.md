@@ -23,11 +23,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Albania
-  - Albanie
-  - ألبانيا
-  - 阿尔巴尼亚
-  - Албания
+- Albania
+- Albanie
+- ألبانيا
+- 阿尔巴尼亚
+- Албания
 - "the Republic of Albania"
 - "la República de Albania"
 Languages:

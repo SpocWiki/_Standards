@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Sweden
-  - Suecia
-  - Suède
-  - السويد
-  - 瑞典
-  - Швеция
+- Sweden
+- Suecia
+- Suède
+- السويد
+- 瑞典
+- Швеция
 - "the Kingdom of Sweden"
 - "el Reino de Suecia"
 Languages:

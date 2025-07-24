@@ -108,7 +108,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Moon,28455496]]'
 Wolfram_Language_entity_code: "Entity[\"PlanetaryMoon\", \"Moon\"]"
 ---
 
-#is_/same_as :: [[WD~Moon,405]] 
+#is_/same_as ::[[../WikiData/WD~Moon,405]]] 
 
 ## #has_/text_of_/abstract 
 

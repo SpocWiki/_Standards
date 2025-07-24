@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Akrotiri & Dhekelia"
 confidential: public

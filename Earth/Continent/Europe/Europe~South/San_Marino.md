@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "San Marino"
 - Saint-Marin

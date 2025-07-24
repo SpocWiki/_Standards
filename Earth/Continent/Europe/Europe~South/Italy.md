@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Italy
-  - Italia
-  - Italie
-  - إيطاليا
-  - 意大利
-  - Италия
+- Italy
+- Italia
+- Italie
+- إيطاليا
+- 意大利
+- Италия
 - "the Republic of Italy"
 - "la República Italiana"
 Languages:
@@ -489,10 +489,10 @@ social_media_followers: 559808
 number_of_deaths: 713499
 life_expectancy: 82.5439
 native_label:
-  - Italia
+- Italia
 - "Repubblica Italiana"
 official_name:
-  - Italia
+- Italia
 - "Repubblica Italiana"
 Image_Archive_Herder_Institute: Q38
 FIPS_10_4_countries_and_regions_: IT

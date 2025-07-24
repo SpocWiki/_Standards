@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Guernsey
 - Guernesey

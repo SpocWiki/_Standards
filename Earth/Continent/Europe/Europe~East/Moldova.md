@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Moldova
+- Moldova
 - "Republic of Moldova"
 - "República de Moldova"
 - "République de Moldova"
 - "جمهورية مولدوفا"
-  - 摩尔多瓦共和国
+- 摩尔多瓦共和国
 - "Республика Молдова"
 - "the Republic of Moldova"
 - "Republic of Moldova (the)"

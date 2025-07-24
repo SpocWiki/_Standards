@@ -323,7 +323,7 @@ MeSH_tree_code: Z01.542.727
 official_name:
 - "Portugalská republika"
 - "la République portugaise"
-  - Portugal
+- Portugal
 - "República Portuguesa"
 name_in_native_language:
 - "Portugalská republika"
@@ -331,7 +331,7 @@ name_in_native_language:
 - "República Portuguesa"
 Inequality_adjusted_Human_Development_Index: 0.773
 native_label:
-  - Portugal
+- Portugal
 - "República Portuguesa"
 Human_Development_Index: 0.866
 short_name: "\U0001F1F5\U0001F1F9"
@@ -383,15 +383,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Portugal
-    - البرتغال
-    - 葡萄牙
-    - Португалия
+- Portugal
+- البرتغال
+- 葡萄牙
+- Португалия
 - "the Portuguese Republic"
 - "la República Portuguesa"
 Languages:
-    - pt-PT
-    - mwl
+- pt-PT
+- mwl
 icon: flag-pt
 ---
 

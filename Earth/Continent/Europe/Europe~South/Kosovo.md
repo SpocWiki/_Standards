@@ -235,14 +235,14 @@ Libris_URI: ljx00cf41g9xzhn
 Unicode_character: 🇽🇰 
 short_name:
 - "\U0001F1FD\U0001F1F0"
-  - Косово
+- Косово
 BTI_Status_Index:
-  - 6.2
-  - 6.21
-  - 6.23
-  - 6.28
-  - 6.33
-  - 6.48
+- 6.2
+- 6.21
+- 6.23
+- 6.28
+- 6.33
+- 6.48
 death_rate: 7.2
 birth_rate: 14.4
 total_fertility_rate: 1.87

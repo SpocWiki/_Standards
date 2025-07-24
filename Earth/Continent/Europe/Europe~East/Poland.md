@@ -23,12 +23,12 @@ icon: flag-pl
 tags:
   - geo/Country
 aliases:
-  - Poland
-  - Polonia
-  - Pologne
-  - بولندا
-  - 波兰
-  - Польша
+- Poland
+- Polonia
+- Pologne
+- بولندا
+- 波兰
+- Польша
 - "the Republic of Poland"
 - "la República de Polonia"
 Languages:
@@ -265,7 +265,7 @@ demonym:
   - Πολωνή
 motto_text:
 - "Move your imagination"
-  - Dychmyga!
+- Dychmyga!
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Poland,23830473]]'
@@ -273,7 +273,7 @@ open_data_portal: "[[_Standards/WikiData/WD~Poland's_Open_Data_Portal,96997870]]
 Baidu_Tieba_name: 波兰
 UMLS_CUI: C0032356
 ISNI:
-  - 000000012293278X
+- 000000012293278X
 - 0000000404710018
 MeSH_tree_code: Z01.542.248.679
 Gregorian_calendar_start_date: "1582-10-15"
@@ -440,7 +440,7 @@ ITU_letter_code: POL
 ISO_3166_1_alpha_3_code: POL
 short_name: Polska
 native_label:
-  - Polska
+- Polska
 - "Rzeczpospolita Polska"
 official_name: "Rzeczpospolita Polska"
 PM20_geo_code: A12

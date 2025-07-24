@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Åland Islands"
 - "Islas Åland"

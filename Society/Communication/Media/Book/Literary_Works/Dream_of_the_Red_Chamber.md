@@ -30,7 +30,7 @@ characters:
 - "[[_Standards/WikiData/WD~Granny_Liu,5596002]]"
 - "[[_Standards/WikiData/WD~Jia_Tanchun,6191409]]"
 - '[[_Standards/WikiData/WD~Miaoyu,6827742]]'
-  - "[[_Standards/WikiData/WD~Ping'er,7195647]]"
+- "[[_Standards/WikiData/WD~Ping'er,7195647]]"
 - '[[_Standards/WikiData/WD~Qingwen,7229081]]'
 - "[[_Standards/WikiData/WD~Shi_Xiangyun,7495932]]"
 - '[[_Standards/WikiData/WD~Xiangling,8044164]]'

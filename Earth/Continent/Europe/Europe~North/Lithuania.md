@@ -259,14 +259,14 @@ urban_population:
   - 1911545
   - 1938682
 short_name:
-  - Литва
+- Литва
 - "\U0001F1F1\U0001F1F9"
 population: 2860002
 life_expectancy: 74.32195
 geoshape: "http://commons.wikimedia.org/data/main/Data:Lithuania.map"
 Image_Archive_Herder_Institute: Q37
 official_name:
-  - Lietuva
+- Lietuva
 - "Litevská republika"
 - "Leedu Vabariik"
 - "la République de Lituanie"
@@ -332,18 +332,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Lithuania
-    - Lituania
-    - Lituanie
-    - ليتوانيا
-    - 立陶宛
-    - Литва
+- Lithuania
+- Lituania
+- Lituanie
+- ليتوانيا
+- 立陶宛
+- Литва
 - "the Republic of Lithuania"
 - "la República de Lituania"
 Languages:
-    - lt
-    - ru
-    - pl
+- lt
+- ru
+- pl
 icon: flag-lt
 ---
 

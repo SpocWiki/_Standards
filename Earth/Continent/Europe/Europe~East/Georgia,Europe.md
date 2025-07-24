@@ -252,7 +252,7 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kazbeg%20banner
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Georgia.svg"
 Commons_gallery:
 - "Géorgie (pays)"
-  - საქართველო
+- საქართველო
 IPA_transcription: gɛˈɔɾgjɑ
 subreddit: Sakartvelo
 Colon_Classification: SG--5858
@@ -311,14 +311,14 @@ demonym:
   - zeorzani
   - جورجية
 official_name:
-  - Gruzie
+- Gruzie
 - "Géorgie (la)"
-  - Gruzija
-  - Sakartvelas
-  - Georgia
-  - Грузия
-  - საქართველო
-  - Georgien
+- Gruzija
+- Sakartvelas
+- Georgia
+- Грузия
+- საქართველო
+- Georgien
 short_name: "\U0001F1EC\U0001F1EA"
 capital: '[[_Standards/WikiData/WD~Tbilisi,994]]'
 different_from:

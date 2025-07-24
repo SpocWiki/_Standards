@@ -22,11 +22,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - France
-  - Francia
-  - فرنسا
-  - 法国
-  - Франция
+- France
+- Francia
+- فرنسا
+- 法国
+- Франция
 - "the French Republic"
 - "la República Francesa"
 Languages:

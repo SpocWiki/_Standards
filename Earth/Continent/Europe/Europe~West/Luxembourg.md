@@ -262,9 +262,9 @@ official_name:
 - "Grand-Duché de Luxembourg"
 - "Grand-Duché Lëtzebuerg"
 - "Groussherzogtum Lëtzebuerg"
-  - Lëtzebuerg
-  - Luxembourg
-  - Luxemburg
+- Lëtzebuerg
+- Luxembourg
+- Luxemburg
 short_name: "\U0001F1F1\U0001F1FA"
 Provenio_UUID: ed6d6c9a-270e-48a5-b4be-5007fe8b6f3f
 UMLS_CUI: C0024176
@@ -355,11 +355,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Luxembourg
-    - Luxemburgo
-    - لكسمبرغ
-    - 卢森堡
-    - Люксембург
+- Luxembourg
+- Luxemburgo
+- لكسمبرغ
+- 卢森堡
+- Люксембург
 - "the Grand Duchy of Luxembourg"
 - "el Gran Ducado de Luxemburgo"
 Languages:

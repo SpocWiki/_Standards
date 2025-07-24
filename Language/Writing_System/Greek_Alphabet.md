@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Greek alphabet"
 has_id_wikidata: Q8216

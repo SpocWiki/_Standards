@@ -455,13 +455,13 @@ Colon_Classification: SG--59251
 Krugosvet_article: strany_mira/CHEHIYA.html
 has_id_wikidata: Q213
 aliases:
-  - Czechia
+- Czechia
 - "Czech Republic"
-  - Bohemia
-  - Böhmen
+- Bohemia
+- Böhmen
 location:
-    - 49.7633
-    - 15.8734
+- 49.7633
+- 15.8734
 type: Country
 tags:
     - geo/Country

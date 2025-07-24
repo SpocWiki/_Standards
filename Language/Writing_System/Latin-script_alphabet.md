@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/LATEINISCHES%20ALPHABET%20NOTO%20SANS.stl"
 based_on: '[[_Standards/WikiData/WD~Old_Italic,4891256]]'
 Commons_category: "Latin alphabet"

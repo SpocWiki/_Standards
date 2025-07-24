@@ -21,11 +21,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Serbia
-  - Serbie
-  - صربيا
-  - 塞尔维亚
-  - Сербия
+- Serbia
+- Serbie
+- صربيا
+- 塞尔维亚
+- Сербия
 - "the Republic of Serbia"
 - "la República de Serbia"
 Languages:
@@ -405,7 +405,7 @@ coordinates_of_southernmost_point: "Point(20.684861111 41.857661111)"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/1934-10-17%20King%20Alexander%20Assassination.ogv"
 native_label: Србија
 official_name:
-  - Србија
+- Србија
 - "la République de Serbie"
 hashtag: Serbia
 Commons_category: Serbia

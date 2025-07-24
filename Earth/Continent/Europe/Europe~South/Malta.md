@@ -307,16 +307,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Malta
-    - Malte
-    - مالطة
-    - 马耳他
-    - Мальта
+- Malta
+- Malte
+- مالطة
+- 马耳他
+- Мальта
 - "the Republic of Malta"
 - "la República de Malta"
 Languages:
-    - mt
-    - en-MT
+- mt
+- en-MT
 icon: flag-mt
 ---
 

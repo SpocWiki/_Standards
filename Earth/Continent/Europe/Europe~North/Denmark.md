@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Denmark
-  - Dinamarca
-  - Danemark
-  - الدانمرك
-  - 丹麦
-  - Дания
+- Denmark
+- Dinamarca
+- Danemark
+- الدانمرك
+- 丹麦
+- Дания
 - "the Kingdom of Denmark"
 - "el Reino de Dinamarca"
 Languages:
@@ -460,17 +460,17 @@ ISO_3166_1_alpha_2_code: DK
 WIPO_ST_3: DK
 UIC_alphabetical_country_code: DK
 short_name:
-  - Denmark
-  - Danmark
-  - Danio
-  - Danmark
-  - Danmarki
+- Denmark
+- Danmark
+- Danio
+- Danmark
+- Danmarki
 - "\U0001F1E9\U0001F1F0"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Denmark.map"
 CIVICUS_Monitor_country_entry: denmark
 GitHub_topic: denmark
 native_label:
-  - Danmark
+- Danmark
 - "Kongeriget Danmark"
 - "Danmarks Rige"
 PM20_geo_code: A15

@@ -1,4 +1,4 @@
-﻿---
+---
 basin_country:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'

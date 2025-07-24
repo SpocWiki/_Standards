@@ -290,20 +290,20 @@ Commons_category: Estonia
 DPLA_subject_term: Estonia
 OmegaWiki_Defined_Meaning: 8003
 short_name:
-  - Estonia
-  - Эстония
-  - Эстонія
-  - Estland
-  - Estija
-  - Igaunija
-  - Естонія
+- Estonia
+- Эстония
+- Эстонія
+- Estland
+- Estija
+- Igaunija
+- Естонія
 - "\U0001F1EA\U0001F1EA"
-  - Estonia
-  - Eesti
-  - Estland
-  - Estland
-  - Viro
-  - Estland
+- Estonia
+- Eesti
+- Estland
+- Estland
+- Viro
+- Estland
 INSEE_countries_and_foreign_territories_code: 99106
 nominal_GDP: 38100812959
 rural_population:
@@ -395,11 +395,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Estonia
-    - Estonie
-    - إستونيا
-    - 爱沙尼亚
-    - Эстония
+- Estonia
+- Estonie
+- إستونيا
+- 爱沙尼亚
+- Эстония
 - "the Republic of Estonia"
 - "la República de Estonia"
 Languages:

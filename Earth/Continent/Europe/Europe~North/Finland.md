@@ -22,12 +22,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Finland
-  - Finlandia
-  - Finlande
-  - فنلندا
-  - 芬兰
-  - Финляндия
+- Finland
+- Finlandia
+- Finlande
+- فنلندا
+- 芬兰
+- Финляндия
 - "the Republic of Finland"
 - "la República de Finlandia"
 Languages:

@@ -22,17 +22,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Monaco
-  - Mónaco
-  - موناكو
-  - 摩纳哥
-  - Монако
+- Monaco
+- Mónaco
+- موناكو
+- 摩纳哥
+- Монако
 - "the Principality of Monaco"
 - "el Principado de Mónaco"
 Languages:
-  - fr-MC
-  - en
-  - it
+- fr-MC
+- en
+- it
 icon: flag-mc
 has_id_wikidata: Q235
 member_of:
@@ -233,13 +233,13 @@ motto_text:
 - "Easy going Monaco"
 - "Deo Juvante"
 official_name:
-  - Fort-Hercule
+- Fort-Hercule
 - "la Principauté de Monaco"
-  - Monaco
-  - Múnegu
+- Monaco
+- Múnegu
 - "Furstendömet Monaco"
 native_label:
-  - Monaco
+- Monaco
 - "Principauté de Monaco"
 - "Prinçipato de Mónego"
 - "Prinçipatu de Mu̍negu"

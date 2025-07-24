@@ -202,9 +202,9 @@ native_label:
 - "Κυπριακή Δημοκρατία"
 - "Kıbrıs Cumhuriyeti"
 short_name:
-  - Κύπρος
+- Κύπρος
 - "\U0001F1E8\U0001F1FE"
-  - Kıbrıs
+- Kıbrıs
 motto_text:
 - "Cyprus in your heart"
 - "Cyprus yn dy galon"
@@ -339,18 +339,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Cyprus
-    - Chipre
-    - Chypre
-    - قبرص
-    - 塞浦路斯
-    - Кипр
+- Cyprus
+- Chipre
+- Chypre
+- قبرص
+- 塞浦路斯
+- Кипр
 - "the Republic of Cyprus"
 - "la República de Chipre"
 Languages:
-    - el-CY
-    - tr-CY
-    - en
+- el-CY
+- tr-CY
+- en
 icon: flag-cy
 ---
 

@@ -12,67 +12,67 @@ Colon_Classification: SG--592242
 Krugosvet_article: strany_mira/BOSNIYA_I_GERTSEGOVINA.html
 MeSH_tree_code: Z01.542.248.160
 demonym:
-  - bosnia
-  - bosniu
-  - bosnier
-  - hercegoviner
-  - Herzegovinian
-  - Bosnihercegovinano
-  - bosnia
-  - Bosnienne
-  - bosznia-hercegovinai
-  - bosniaca
-  - bosniache
-  - bosniaci
-  - боснієць
-  - боснійка
-  - герцеговинець
-  - герцеговинка
-  - герцеговинці
-  - bosnìaga
-  - bosnìaghe
-  - bosnìaghi
-  - بوصني
-  - hersegovasce
-  - Bosanac
-  - bosnio
-  - боснийцы
-  - Bosnier
-  - боснійці
-  - bosniac
-  - bosniacă
-  - bosniaci
-  - босниец
-  - боснийка
-  - Bosnian
-  - Bosnien
-  - বসনীয়
-  - bosniaco
-  - bosnian
-  - bosnìago
-  - Boisniach
-  - Hercegovac
-  - بوصنية
-  - بوصنيين
-  - بوصنيات
+- bosnia
+- bosniu
+- bosnier
+- hercegoviner
+- Herzegovinian
+- Bosnihercegovinano
+- bosnia
+- Bosnienne
+- bosznia-hercegovinai
+- bosniaca
+- bosniache
+- bosniaci
+- боснієць
+- боснійка
+- герцеговинець
+- герцеговинка
+- герцеговинці
+- bosnìaga
+- bosnìaghe
+- bosnìaghi
+- بوصني
+- hersegovasce
+- Bosanac
+- bosnio
+- боснийцы
+- Bosnier
+- боснійці
+- bosniac
+- bosniacă
+- bosniaci
+- босниец
+- боснийка
+- Bosnian
+- Bosnien
+- বসনীয়
+- bosniaco
+- bosnian
+- bosnìago
+- Boisniach
+- Hercegovac
+- بوصنية
+- بوصنيين
+- بوصنيات
 - "Bosanci in Hercegovci"
 - "Bosanke in Hercegovke"
 short_name:
-  - БіГ
-  - BiH
-  - BiH
-  - БиХ
-  - BiH
-  - БваҲ
-  - Бүснә-Һәрсәк
-  - 波黑
-  - 波黑
-  - 波赫
+- БіГ
+- BiH
+- BiH
+- БиХ
+- BiH
+- БваҲ
+- Бүснә-Һәрсәк
+- 波黑
+- 波黑
+- 波赫
 - "\U0001F1E7\U0001F1E6"
-  - BH
-  - B&H
-  - БиХ
-  - BiH
+- BH
+- B&H
+- БиХ
+- BiH
 motto_text:
 - "The heart shaped land"
 - "Gwlad siap calon"

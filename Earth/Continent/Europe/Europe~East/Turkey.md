@@ -503,12 +503,12 @@ CIVICUS_Monitor_country_entry: turkey
 GitHub_topic: turkey
 Commons_gallery: Türkiye
 short_name:
-  - TC
-  - Türkiye
-  - Туреччина
+- TC
+- Türkiye
+- Туреччина
 - "\U0001F1F9\U0001F1F7"
 native_label:
-  - Türkiye
+- Türkiye
 - "Türkiye Cumhuriyeti"
 name_in_native_language: "Türkiye Cumhuriyeti"
 official_name: "Türkiye Cumhuriyeti"
@@ -549,12 +549,12 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Turkey
-    - Turquía
-    - Turquie
-    - تركيا
-    - 土耳其
-    - Турция
+- Turkey
+- Turquía
+- Turquie
+- تركيا
+- 土耳其
+- Турция
 - "the Republic of Turkey"
 - "la República de Turquía"
 Languages:

@@ -22,19 +22,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Netherlands
+- Netherlands
 - "Países Bajos"
-  - Pays-Bas
-  - هولندا
-  - 荷兰
-  - Нидерланды
+- Pays-Bas
+- هولندا
+- 荷兰
+- Нидерланды
 - "the Kingdom of the Netherlands"
 - "Netherlands (the)"
 - "el Reino de los Países Bajos"
 - "Países Bajos (los)"
 Languages:
-  - nl-NL
-  - fy-NL
+- nl-NL
+- fy-NL
 icon: flag-ne
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -329,7 +329,7 @@ demonym:
   - Nizozemec
   - Холанђанин
   - Холанђанка
-- "jan Netelan"
+  - "jan Netelan"
   - голандець
   - голандка
   - голандці
@@ -371,19 +371,19 @@ GS1_country_code: 870-879
 U_S_National_Archives_Identifier: 10046275
 life_expectancy: 81.50976
 male_population:
-  - 8615129
-  - 8665375
-  - 8712076
-  - 8797815
+- 8615129
+- 8665375
+- 8712076
+- 8797815
 female_population:
-  - 8729744
-  - 8776125
-  - 8820968
-  - 8903166
+- 8729744
+- 8776125
+- 8820968
+- 8903166
 motto_text:
 - "Je maintiendrai"
 - "Ще удържа"
-  - Cynhaliaf
+- Cynhaliaf
 - "I will uphold"
 - "Ik zal handhaven"
 name_in_native_language: "Koninkrijk der Nederlanden"

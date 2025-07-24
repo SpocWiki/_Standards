@@ -1,4 +1,4 @@
-﻿---
+---
 age_of_majority: 18
 aircraft_registration_prefix: SX
 aliases:

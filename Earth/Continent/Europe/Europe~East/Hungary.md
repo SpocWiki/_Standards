@@ -446,7 +446,7 @@ motto_text:
 official_name:
 - "la Hongrie"
 - "Maďarská republika"
-  - Magyarország
+- Magyarország
 short_name: "\U0001F1ED\U0001F1FA"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_Hungary,10625233]]"
 railway_traffic_side:

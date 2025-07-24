@@ -51,8 +51,8 @@ name:
 - "basilique de Saint-Pierre"
 - "église de Saint-Pierre"
 - "Saint-Pierre de Rome"
-  - San-Pietro
-  - Saint-Pierre
+- San-Pietro
+- Saint-Pierre
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D5%B8%D6%82%D6%80%D5%A2%20%D5%8A%D5%A5%D5%BF%D6%80%D5%B8%D5%BD%D5%AB%20%D5%BF%D5%A1%D5%B3%D5%A1%D6%80%20%28St.%20Peter%27s%20Basilica%29.ogg"
 ISNI: 0000000085215588
 hashtag:

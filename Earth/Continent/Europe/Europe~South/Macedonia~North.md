@@ -352,12 +352,12 @@ IAB_code: 1437
 number_of_out_of_school_children: 48258
 CIVICUS_Monitor_country_entry: macedonia
 subreddit:
-  - macedonia
-  - makedonski
+- macedonia
+- makedonski
 short_name:
-  - Macedónia
-  - Македония
-  - Macedônia
+- Macedónia
+- Македония
+- Macedônia
 - "Macedônia do Norte"
 - "Северная Македония"
 - "Maqedonia e Veriut"
