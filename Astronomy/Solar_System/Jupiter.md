@@ -1,4 +1,4 @@
-﻿---
+---
 absolute_magnitude: -9.4
 albedo:
 - 0.343
@@ -251,3 +251,22 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Jupiter\"]"
 
 ### #is_/same_as :: [Jupiter.secret](/_secret/Astronomy/Solar_System/Jupiter.secret.md)
 
+
+# [[Jupiter]] 
+
+#is_/part_of :: [[Jupiter]] 
+
+![[Jupiter.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20elevation.stl"
 albedo:
 - 0.17
@@ -230,3 +230,22 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Mars\"]"
 
 ### #is_/same_as :: [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
 
+
+# [[Mars]] 
+
+#is_/part_of :: [[Mars]] 
+
+![[Mars.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

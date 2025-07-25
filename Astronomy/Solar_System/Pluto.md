@@ -1,4 +1,4 @@
-﻿---
+---
 absolute_magnitude: -0.7
 albedo: 0.6
 apoapsis:
@@ -151,3 +151,22 @@ Wolfram_Language_entity_code: "Entity[\"MinorPlanet\", \"Pluto\"]"
 
 ### #is_/same_as :: [Pluto.secret](/_secret/Astronomy/Solar_System/Pluto.secret.md)
 
+
+# [[Pluto]] 
+
+#is_/part_of :: [[Pluto]] 
+
+![[Pluto.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
