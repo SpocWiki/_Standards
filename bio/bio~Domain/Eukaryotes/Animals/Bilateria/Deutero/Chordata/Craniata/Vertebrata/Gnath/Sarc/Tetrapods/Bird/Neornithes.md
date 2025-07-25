@@ -39,12 +39,12 @@ which includes the two primary taxa Galloanserae and Neoaves.
 
 -   « Ancestral Groups  
     -   [Bird](Bird.md) 
-    -   [Coelurosauria](../Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.md)
-    -   [Theropoda](../Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda.md)
-    -   [Dinosauria](../Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria.md)
-    -   [Archosauria](../Amniota/Diapsida/Archosauromorpha/Archosauria.md)
-    -   [Archosauromorpha](../Amniota/Diapsida/Archosauromorpha.md)
-    -   [Diapsida](../Amniota/Diapsida.md)
+    -  [Coelurosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria.md))
+    -  [Theropoda](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda.md))
+    -  [Dinosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria.md))
+    -  [Archosauria](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria.md))
+    -  [Archosauromorpha](../Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha.md))
+    -  [Diapsida](../Amniota/Sauropsida/Reptile/Diapsida.md))
     -   [Amniota](../Amniota.md)
     -   [Terrestrial Vertebrates](../../Terrestrial.md)
     -   [Sarcopterygii](../../../Sarc.md)

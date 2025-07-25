@@ -1,6 +1,52 @@
-﻿---
-type: ElementGroup
 ---
+type: ElementGroup
+aliases:
+  - Alkali_metal
+has_id_wikidata: Q19557
+part_of:
+  - "[[_Standards/WikiData/WD~main_group,428830]]"
+  - "[[_Standards/WikiData/WD~group_1,10801007]]"
+  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
+different_from:
+  - "[[_Standards/WikiData/WD~alkali,485742]]"
+  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+  - "[[_Standards/WikiData/WD~water_reactive_substance,7973224]]"
+  - "[[_Standards/WikiData/WD~metal,11426]]"
+does_not_have_part: "[[_Standards/WikiData/WD~hydrogen,556]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~lithium,568]]"
+  - "[[_Standards/WikiData/WD~sodium,658]]"
+  - "[[_Standards/WikiData/WD~francium,671]]"
+  - "[[_Standards/WikiData/WD~potassium,703]]"
+  - "[[_Standards/WikiData/WD~rubidium,895]]"
+  - "[[_Standards/WikiData/WD~caesium,1108]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+OmegaWiki_Defined_Meaning: "1130"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-2.jpg
+Common_Procurement_Vocabulary_code: "24311300"
+Dewey_Decimal_Classification:
+  - "546.38"
+  - "669.725"
+P8189: "987007294080905171"
+Commons_category: Alkali metals
+UMLS_CUI: C0025554
+MeSH_tree_code:
+  - D01.268.549
+  - D01.552.528
+---
+
+# [[Group-01-Alkali]] 
 
 #chemic/Group 
 
@@ -11,6 +57,10 @@ type: ElementGroup
 5) [[Rubidium]]
 6) [[Caesium]]
 7) [[Francium]]
+
+#is_/same_as :: [[../../WikiData/WD~Alkali_metal,19557]] 
+
+## #has_/text_of_/abstract 
 
 > The alkali metals consist of the chemical elements lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr). Together with hydrogen they constitute group 1, which lies in the s-block of the periodic table. All alkali metals have their outermost electron in an s-orbital: this shared electron configuration results in their having very similar characteristic properties. Indeed, the alkali metals provide the best example of group trends in properties in the periodic table, with elements exhibiting well-characterised homologous behaviour. This family of elements is also known as the lithium family after its leading element.
 >

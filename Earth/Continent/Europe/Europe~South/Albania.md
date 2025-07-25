@@ -442,6 +442,8 @@ Sub-region_Name ::  [[Southern Europe]]
 [ISO2::AL]
 [ISO3::ALB] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Albania,222]] 
+
 ## #has_/map  
 
 

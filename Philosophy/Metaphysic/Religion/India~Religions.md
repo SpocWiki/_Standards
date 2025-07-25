@@ -1,4 +1,8 @@
 
+# [[India~Religions]] 
+
+
+## #has_/text_of_/abstract 
 
 All four [Dharmic religions](https://en.wikipedia.org/wiki/Indian_religions "Indian religions"), viz., Jainism, [Hinduism](https://en.wikipedia.org/wiki/Hinduism "Hinduism"), [Sikhism](https://en.wikipedia.org/wiki/Sikhism "Sikhism") and [Buddhism](https://en.wikipedia.org/wiki/Buddhism "Buddhism"), share concepts and doctrines such as [karma](https://en.wikipedia.org/wiki/Karma "Karma") and [rebirth](https://en.wikipedia.org/wiki/Reincarnation "Reincarnation"). 
 They do not believe in eternal [heaven](https://en.wikipedia.org/wiki/Heaven "Heaven") or [hell](https://en.wikipedia.org/wiki/Hell "Hell") or [judgment day](https://en.wikipedia.org/wiki/Judgment_day "Judgment day"), 

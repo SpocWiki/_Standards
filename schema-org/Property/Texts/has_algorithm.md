@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - algorithm
 - algorithm
@@ -27,7 +27,7 @@ title: has_text_of_algorithm
 type: Pred_Text
 ---
 
-Predicate to describe the Text of MedicalRiskScore.
+Predicate to describe the Text of an Algorithm.
 
 Use it like this: 
 - [ #has_/text_of_/algorithm :: Text ] or 

@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 42.50
 Commons_category: Algae
 Common_Procurement_Vocabulary_code: 03313310-2
@@ -31,6 +31,10 @@ studied_in: '[[_Standards/WikiData/WD~phycology,188391]]'
 subclass_of: '[[_Standards/WikiData/WD~autotroph,131427]]'
 taxon_name: Algae
 ---
+
+# [[Algae]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Algae,37868]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2506
 Commons_category: Alloys
 Common_Procurement_Vocabulary_code: 14620000-3
@@ -31,6 +31,10 @@ topic_s_main_template:
 UMLS_CUI: C0002154
 U_S_National_Archives_Identifier: 10646992
 ---
+
+# [[Alloy]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Alloy,37756]] 
 
 ## #has_/text_of_/abstract 
 

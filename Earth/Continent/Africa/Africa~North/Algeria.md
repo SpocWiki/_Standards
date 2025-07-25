@@ -540,6 +540,8 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 [has_place_longitude::3.05]
 [has_place_latitude::36.78]
 
+#is_/same_as :: [[../../../../WikiData/WD~Algeria,262]] 
+
 
 ## #has_/text_of_/abstract 
 

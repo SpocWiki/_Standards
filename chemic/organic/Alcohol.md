@@ -1,4 +1,4 @@
-﻿---
+---
 boiling_point: 97.2
 chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Carbinol%20allgemein.svg"
 Commons_category: Alcohols
@@ -50,6 +50,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Alcohols,8093702]]'
 UNSPSC_Code: 12352104
 U_S_National_Archives_Identifier: 10640163
 ---
+
+# [[Alcohol]] 
+
+#is_/same_as :: [[../../WikiData/WD~Alcohols,156]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Gunpowder
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -27,6 +27,10 @@ subclass_of:
 - '[[_Standards/WikiData/WD~powder_explosive,21290872]]'
 time_of_discovery_or_invention: 0900
 ---
+
+# [[Alps]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Alps,1286]] 
 
 ## #has_/text_of_/abstract 
 

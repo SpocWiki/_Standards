@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "film director"
 - filmmaker

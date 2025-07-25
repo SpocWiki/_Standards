@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2701
 Baidu_Tieba_name:
 - 医

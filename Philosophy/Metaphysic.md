@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Metaphysic
 Colon_Classification: R3

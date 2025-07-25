@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree:
 - '[[_Standards/WikiData/WD~DES,3029069]]'
 - '[[_Standards/WikiData/WD~licence,3238020]]'

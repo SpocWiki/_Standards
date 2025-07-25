@@ -1,4 +1,4 @@
-﻿---
+---
 CAS_Registry_Number: 308061-45-2
 Commons_category: Alkanes
 Common_Procurement_Vocabulary_code: 24321100

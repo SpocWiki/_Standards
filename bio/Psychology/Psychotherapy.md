@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Psychotherapy
 Commons_category: Psychotherapy
