@@ -11,8 +11,8 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 diameter:
-- 0.00124861704
-- 79
+ - 0.00124861704
+ - 79
 has_boundary:
 - '[[_Standards/WikiData/WD~heliopause,1137936]]'
 - '[[_Standards/WikiData/WD~Oort_cloud,40864]]'
@@ -38,7 +38,7 @@ instance_of:
 Krugosvet_article: nauka_i_tehnika/astronomiya/SOLNECHNAYA_SISTEMA.html
 mass: 1.0014
 MeSH_tree_code:
-- G01.060.075.730
+ - G01.060.075.730
 OmegaWiki_Defined_Meaning: 670077
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20System%20true%20color%20banner%20version.jpg"
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sagittarius_A_,237284]]'
@@ -66,7 +66,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 
 ## #has_/text_of_/abstract 
 
-> The Solar System is the gravitationally bound system of the  [[Solar_System/Sun|Sun]]  and the objects that orbit it. 
+> The Solar System is the gravitationally bound system of the [[Solar_System/Sun|Sun]] and the objects that orbit it. 
 > It was formed 4.6 billion years ago when a dense region of a molecular cloud collapsed, 
 > forming the Sun and a protoplanetary disc. 
 > 
@@ -77,8 +77,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 > In order from the [[Solar_System/Sun|Sun]] , they are 
 > - four terrestrial planets [[Solar_System/Mercury,Planet|Mercury]], [[Solar_System/Venus|Venus]], [[/_Standards/Earth|Earth]] and [[Solar_System/Mars|Mars]]); 
 > - two gas giants [[Solar_System/Jupiter|Jupiter]] and [[Solar_System/Saturn|Saturn]]); 
->  - and two ice giants [[Solar_System/Uranus|Uranus]] and [[Solar_System/Neptune|Neptune]]). 
->  -[[Solar_System/Pluto|Pluto]] is considered to be a dwarf planet. 
+> - and two ice giants [[Solar_System/Uranus|Uranus]] and [[Solar_System/Neptune|Neptune]]). 
+> -[[Solar_System/Pluto|Pluto]] is considered to be a dwarf planet. 
 > 
 > All terrestrial planets have solid surfaces. 
 > Inversely, all giant planets do not have a definite surface, as they are mainly composed of gases and liquids. 
@@ -132,3 +132,19 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 
 ### #is_/same_as :: [Solar_System.secret](/_secret/Astronomy/Solar_System.secret.md)
 
+
+# [[Solar_System]] 
+
+#is_/part_of :: [[Solar_System]] 
+
+ 
+## Embedded Graph 
+
+![[Solar_System.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

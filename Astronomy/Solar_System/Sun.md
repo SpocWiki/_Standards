@@ -601,7 +601,7 @@ volume_as_quantity: 1412000000000000000
 
 ## #has_/text_of_/abstract 
 
-> The **Sun** is the star at the center of the [[Solar_System]]. 
+> The **Sun** is the star at the center of the [[../Solar_System]]. 
 > 
 > It is a massive, hot ball of plasma, inflated and heated 
 > by energy produced by nuclear fusion reactions in its core. 
@@ -1273,7 +1273,7 @@ volume_as_quantity: 1410000000000000000
 
 ## #has_/text_of_/abstract 
 
-> The **Sun** is the star at the center of the [[Solar_System]]. 
+> The **Sun** is the star at the center of the [[../Solar_System]]. 
 > 
 > It is a massive, hot ball of plasma, inflated and heated 
 > by energy produced by nuclear fusion reactions in its core. 
