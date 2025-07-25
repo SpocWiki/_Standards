@@ -1,3 +1,6 @@
+
+# [[Religion]] 
+
 Religions were codified rules to control the lives of people. They ruled behavior and tried to propagate beneficial behavior
 Monogamy prevents diseases and jealousy and arguments about inheritance.
 

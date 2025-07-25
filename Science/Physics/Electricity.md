@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Ruthin%20electrical%20substation%20between%20Ffordd%20Cae%20Glas%20and%20Gellifor%20-%20aerial%20video%20Jan%202025.webm"
 Colon_Classification: C6
 Commons_category: Electricity

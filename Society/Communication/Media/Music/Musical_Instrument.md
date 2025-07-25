@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Musical instrument"
 Basisklassifikation: 24.64

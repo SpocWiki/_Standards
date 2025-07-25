@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 物理
 Basisklassifikation: 33
 Colon_Classification: C

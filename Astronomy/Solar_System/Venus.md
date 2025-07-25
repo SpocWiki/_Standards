@@ -12,6 +12,7 @@ apparent_magnitude: -4.8
 area: 460230000
 argument_of_periapsis: 131.60246718
 astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20symbol%20%28fixed%20width%29.svg"
+attendance: 0
 Commons_category: "Venus (planet)"
 Commons_gallery: Venus
 declination: 67.16
@@ -119,13 +120,56 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Venus\"]"
 
 ## #has_/text_of_/abstract 
 
-> **Venus** is the second planet from the Sun. It is a terrestrial planet and is the closest in mass and size to its orbital neighbour Earth. Venus has by far the densest atmosphere of the terrestrial planets, composed mostly of carbon dioxide with a thick, global sulfuric acid cloud cover. At the surface it has a mean temperature of 737 K (464 °C; 867 °F) and a pressure 92 times that of Earth's at sea level. These extreme conditions compress carbon dioxide into a supercritical state at Venus's surface.
+> **Venus** is the second planet from the Sun. 
+> It is a terrestrial planet and is the closest in mass and size to its orbital neighbour [[../_Standards/Earth|Earth]]. 
+> Venus is notable for having the densest atmosphere of the terrestrial planets, 
+> composed mostly of carbon dioxide with a thick, global sulfuric acid cloud cover. 
 >
-> Internally, Venus has a core, mantle, and crust. Venus lacks an internal dynamo, and its weakly induced magnetosphere is caused by atmospheric interactions with the solar wind. Internal heat escapes through active volcanism, resulting in resurfacing instead of plate tectonics. Venus is one of two planets in the Solar System, the other being Mercury, that have no moons. Conditions perhaps favourable for life on Venus have been identified at its cloud layers. Venus may have had liquid surface water early in its history with a habitable environment, before a runaway greenhouse effect evaporated any water and turned Venus into its present state.
+> At the surface it has a mean temperature of 737 K (464 °C; 867 °F) 
+> and a pressure of 92 times that of Earth's at sea level. 
+> These extreme conditions compress carbon dioxide into a supercritical state 
+> close to Venus's surface.
 >
-> The rotation of Venus has been slowed and turned against its orbital direction (retrograde) by the currents and drag of its atmosphere. It takes 224.7 Earth days for Venus to complete an orbit around the Sun, and a Venusian solar year is just under two Venusian days long. The orbits of Venus and Earth are the closest between any two Solar System planets, approaching each other in synodic periods of 1.6 years. Venus is the easiest destination to reach from Earth because of the low delta-v needed, and is a useful gravity assist waypoint for interplanetary flights from Earth.
+> Internally, Venus has a core, mantle, and crust. Venus lacks an internal dynamo, 
+> and its weak induced magnetosphere 
+> is caused by atmospheric interactions with the solar wind. 
+> Internal heat escapes through active volcanism, 
+> resulting in resurfacing instead of plate tectonics. 
 >
-> Venus figures prominently in human culture and in the history of astronomy. Orbiting inferiorly (inside of Earth's orbit), it always appears within 47° of the Sun in our sky, as either a "morning star" or an "evening star". While Mercury also stays near the sun, Venus appears more prominent, since it is the third brightest object in Earth's sky after the Moon and the Sun. In 1961, Venus became the target of the first interplanetary flight, Venera 1, but radio contact was lost before it arrived in May 1961. The first successful flyby was by NASA's Mariner 2 craft in 1962. This was followed by many essential interplanetary firsts, such as the first soft landing on another planet by Venera 7 in 1970. These probes demonstrated the extreme surface conditions, an insight that has informed predictions about global warming on Earth. This finding ended the theories and then-popular science fiction notion about Venus being a habitable or inhabited planet (see Venus in fiction).
+> Venus is one of two planets in the Solar System, the other being Mercury, that have no moons. 
+> Conditions perhaps favourable for life on Venus have been identified at its cloud layers. 
+> Venus may have had liquid surface water early in its history with a habitable environment, 
+> before a runaway greenhouse effect evaporated any water 
+> and turned Venus into its present state.
+>
+> The rotation of Venus has been slowed and turned against its orbital direction (retrograde) 
+> by the currents and drag of its atmosphere. 
+> It takes 224.7 Earth days for Venus to complete an orbit around the Sun, 
+> and a Venusian solar year is just under two Venusian days long. 
+> 
+> The orbits of Venus and Earth are the closest between any two Solar System planets, 
+> approaching each other in synodic periods of 1.6 years. 
+> Venus and Earth have the lowest difference in gravitational potential 
+> of any pair of Solar System planets. 
+> This allows Venus to be the most accessible destination 
+> and a useful gravity assist waypoint for interplanetary flights from Earth.
+>
+> Historically, Venus has been a common and important object for humans, 
+> in both their cultures and astronomy. 
+> 
+> Orbiting inferiorly (inside of Earth's orbit), it always appears close to the Sun in Earth's sky, 
+> as either a "morning star" or an "evening star". 
+> While this is also true for Mercury, Venus appears more prominent, 
+> since it is the third brightest object in Earth's sky after the Moon and the Sun. 
+> 
+> In 1961, Venus became the target of the first interplanetary flight, Venera 1, 
+> followed by many essential interplanetary firsts, 
+> such as the first soft landing on another planet by Venera 7 in 1970. 
+> These probes demonstrated the extreme surface conditions, 
+> an insight that has informed predictions about global warming on Earth. 
+> 
+> This finding ended the theories and then popular science fiction 
+> about Venus being a habitable or inhabited planet.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus)
 

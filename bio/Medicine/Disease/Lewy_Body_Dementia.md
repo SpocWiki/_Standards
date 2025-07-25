@@ -6,7 +6,7 @@ aliases:
 
 # [[Lewy_Body_Dementia]]
 
-It is one of the most common types of dementia, after [[../../../../../_Standards/bio/Medicine/Disease/Alzheimer’s_disease]].
+It is one of the most common types of dementia, after[[Alzheimer's_Disease]]].
 
 ## #has_/text_of_/abstract 
 

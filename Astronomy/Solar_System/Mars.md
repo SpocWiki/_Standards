@@ -66,8 +66,9 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
-- "133.535 - 2--9923"
 - 523.44
+- 133.535
+- 2--9923
 diameter: 6791.432
 different_from: '[[_Standards/WikiData/WD~Mars,426315]]'
 distance_from_Earth:
@@ -164,16 +165,19 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Mars\"]"
 ## #has_/text_of_/abstract 
 
 > **Mars** is the fourth planet from the Sun. 
-> The surface of Mars is orange-red because it is covered in iron(III) oxide dust, giving it the nickname "the Red Planet". 
+> The surface of Mars is orange-red because it is covered in iron(III) oxide dust, 
+> giving it the nickname "the Red Planet". 
 > Mars is among the brightest objects in Earth's sky, 
 > and its high-contrast albedo features have made it a common subject for telescope viewing. 
 > 
-> It is classified as a terrestrial planet and is the second smallest of the Solar System's planets with a diameter of 6,779 km (4,212 mi). 
+> It is classified as a terrestrial planet and is the second smallest of the Solar System's planets 
+> with a diameter of 6,779 km (4,212 mi). 
 > In terms of orbital motion, a Martian solar day (sol) is equal to 24.6 hours, 
 > and a Martian solar year is equal to 1.88 Earth years (687 Earth days). 
 > Mars has two natural satellites that are small and irregular in shape: Phobos and Deimos.
 >
-> The relatively flat plains in northern parts of Mars strongly contrast with the cratered terrain in southern highlands – 
+> The relatively flat plains in northern parts of Mars 
+> strongly contrast with the cratered terrain in southern highlands – 
 > this terrain observation is known as the Martian dichotomy. 
 > 
 > Mars hosts many enormous extinct volcanoes (the tallest is Olympus Mons, 21.9 km or 13.6 mi tall) 
@@ -196,14 +200,16 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Mars\"]"
 > 
 > The [[Amazonian period]], which continues to the present, 
 > has been marked by the wind as a dominant influence on geological processes. 
-> Due to Mars's geological history, the possibility of past or present life on Mars remains of great scientific interest.
+> Due to Mars's geological history, the possibility of past or present life on Mars 
+> remains of great scientific interest.
 >
 > Since the late 20th century, Mars has been explored by uncrewed spacecraft and rovers, 
 > - with the first flyby by the Mariner 4 probe in 1965, 
 > - the first orbit by the Mars 2 probe in 1971, and 
 > - the first landing by the Viking 1 probe in 1976. 
 > As of 2023, there are at least 11 active probes orbiting Mars or on the Martian surface. 
-> Mars is an attractive target for future human exploration missions, though in the 2020s no such mission is planned.
+> Mars is an attractive target for future human exploration missions, 
+> though in the 2020s no such mission is planned.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mars)
 
