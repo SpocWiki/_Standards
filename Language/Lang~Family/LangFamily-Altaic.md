@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
-  - Altaic languages
+- "Altaic languages"
 has_id_wikidata: Q37845
 tags:
-  - Lang_Family
+- Lang_Family
 type: LangFamily
 linguistic_typology:
   - "[[db/agglutinative_language]]"
