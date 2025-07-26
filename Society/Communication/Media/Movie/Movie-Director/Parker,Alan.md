@@ -56,11 +56,31 @@ ISNI: "0000000118811520"
 
 ## #has_/text_of_/abstract 
 
-> Sir Alan William Parker  (14 February 1944 – 31 July 2020) was an English film director, screenwriter and producer. His early career, beginning in his late teens, was spent as a copywriter and director of television advertisements. After about ten years of filming adverts, many of which won awards for creativity, he began screenwriting and directing films.
+> Sir Alan William Parker  (14 February 1944 – 31 July 2020) was an English film director, screenwriter and producer. 
+> His early career, beginning in his late teens, was spent as a copywriter and director of television advertisements. 
+> After about ten years of filming adverts, many of which won awards for creativity, 
+> he began screenwriting and directing films.
 >
-> Parker was known for using a wide range of filmmaking styles and working in differing genres. He directed musicals, including Bugsy Malone (1976), Fame (1980), Pink Floyd – The Wall (1982), The Commitments (1991) and Evita (1996); true-story dramas, including Midnight Express (1978), Mississippi Burning (1988), Come See the Paradise (1990) and Angela's Ashes (1999); family dramas, including Shoot the Moon (1982), and horrors and thrillers including Angel Heart (1987) and The Life of David Gale (2003).
+> Parker was known for using a wide range of filmmaking styles and working in differing genres. 
+> He directed musicals, including 
+> 	- Bugsy Malone (1976), 
+> 	- Fame (1980), 
+> 	- Pink Floyd – The Wall (1982), 
+> 	- The Commitments (1991) and 
+> 	- Evita (1996); 
+> - true-story dramas, including 
+> 	- Midnight Express (1978), 
+> 	- Mississippi Burning (1988), 
+> 	- Come See the Paradise (1990) and 
+> 	- Angela's Ashes (1999); 
+> - family dramas, including 
+> 	- Shoot the Moon (1982), and 
+> - horrors and thrillers including 
+> 	- Angel Heart (1987) and 
+> 	- The Life of David Gale (2003).
 >
-> Parker's films won nineteen BAFTA awards, ten Golden Globes and six Academy Awards. His film Birdy was chosen by the National Board of Review as one of the Top Ten Films of 1984 and won the Grand Prix Spécial du Jury prize at the 1985 Cannes Film Festival. In 1984, Parker received the BAFTA for Outstanding British Contribution to Cinema, and in 2002 he was knighted for his services to the film industry. He was active in both British cinema and American cinema, along with being a founding member of the Directors Guild of Great Britain and lecturing at various film schools.
+> Parker's films won nineteen BAFTA awards, ten Golden Globes and six Academy Awards. 
+> His film Birdy was chosen by the National Board of Review as one of the Top Ten Films of 1984 and won the Grand Prix Spécial du Jury prize at the 1985 Cannes Film Festival. In 1984, Parker received the BAFTA for Outstanding British Contribution to Cinema, and in 2002 he was knighted for his services to the film industry. He was active in both British cinema and American cinema, along with being a founding member of the Directors Guild of Great Britain and lecturing at various film schools.
 >
 > In 2000, Parker received the Royal Photographic Society Lumière Award for major achievement in cinematography, video or animation. In 2013, he received the BAFTA Academy Fellowship Award, the highest honour the British Film Academy can give a filmmaker. Parker donated his personal archive to the British Film Institute's National Archive in 2015.
 >
