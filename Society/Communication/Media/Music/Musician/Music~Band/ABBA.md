@@ -1,4 +1,4 @@
-﻿---
+---
 award_received:
 - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
 - '[[_Standards/WikiData/WD~Musikexportpriset,11968248]]'
