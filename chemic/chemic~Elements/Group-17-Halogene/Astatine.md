@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 85
 boiling_point: 503
 canonical_SMILES: '[At]'

@@ -55,7 +55,7 @@ used_by: '[[_Standards/WikiData/WD~swordfighter,11397897]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sword](/_Standards/Society/Military/Military_Engineering/Sword.md) 
+### #is_/same_as ::[Sword](Sword.md)) 
 
 ### #is_/same_as :: [Sword.public](/_public/Society/Military/Military_Engineering/Sword.public.md) 
 

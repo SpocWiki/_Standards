@@ -39,7 +39,7 @@ U_S_National_Archives_Identifier: 10665147
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machine_Gun](/_Standards/Society/Military/Military_Engineering/Firearm/Machine_Gun.md) 
+### #is_/same_as ::[Machine_Gun](Machine_Gun.md)) 
 
 ### #is_/same_as :: [Machine_Gun.public](/_public/Society/Military/Military_Engineering/Firearm/Machine_Gun.public.md) 
 

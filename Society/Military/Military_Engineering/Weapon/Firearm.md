@@ -73,7 +73,7 @@ uses:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Firearm](/_Standards/Society/Military/Military_Engineering/Firearm.md) 
+### #is_/same_as ::[Firearm](Firearm.md)) 
 
 ### #is_/same_as :: [Firearm.public](/_public/Society/Military/Military_Engineering/Firearm.public.md) 
 

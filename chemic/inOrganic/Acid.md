@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~acid_poisoning,21639927]]'
 Colon_Classification: E3
 Commons_category: Acids
