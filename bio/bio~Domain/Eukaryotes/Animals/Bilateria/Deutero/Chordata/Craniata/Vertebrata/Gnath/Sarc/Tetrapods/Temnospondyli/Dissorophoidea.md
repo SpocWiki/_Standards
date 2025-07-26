@@ -34,8 +34,7 @@ communities of the Pennsylvanian and Early Permian in Europe and North
 America.  Both groups had aquatic larvae and adult branchiosaurids seem
 to have retained an ossified hyobranchial skeleton into maturity, along
 with external gill filaments and gill rakers (Holmes, 2000). These taxa
-resided in a niche similar to that which is occupied by some
-[ambystomatid salamanders](../Amphibians/Caudata/Ambystomatidae.md) (e.g., the
+resided in a niche similar to that which is occupied by some[ambystomatid salamanders](../Amphibia/Caudata/Ambystomatidae.md)) (e.g., the
 Mexican axolotl) today.
 
 ![ ](Dissorophoidea/globe2copy.jpg)
