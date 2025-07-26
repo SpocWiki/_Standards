@@ -1,6 +1,6 @@
-﻿---
+---
 aliases:
-- "Altaic languages"
+  - Altaic languages
 has_id_wikidata: Q37845
 tags:
 - Lang_Family
