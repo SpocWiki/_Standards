@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Umm Kulthum"
 award_received:

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2702
 Basisklassifikation: 44.34
 Colon_Classification: "L:2"
@@ -52,11 +52,30 @@ UMLS_CUI: C0002808
 U_S_National_Archives_Identifier: 10666355
 ---
 
+# [[Anatomy]]
+
+#is_/same_as :: [[../../WikiData/WD~Anatomy,514|WD~Anatomy,514]] 
+
 ## #has_/text_of_/abstract 
 
-> **Anatomy** (from Ancient Greek  ἀνατομή (anatomḗ) 'dissection') is the branch of morphology concerned with the study of the internal structure of organisms and their parts. Anatomy is a branch of natural science that deals with the structural organization of living things. It is an old science, having its beginnings in prehistoric times. Anatomy is inherently tied to developmental biology, embryology, comparative anatomy, evolutionary biology, and phylogeny, as these are the processes by which anatomy is generated, both over immediate and long-term timescales. Anatomy and physiology, which study the structure and function of organisms and their parts respectively, make a natural pair of related disciplines, and are often studied together. Human anatomy is one of the essential basic sciences that are applied in medicine, and is often studied alongside physiology.
+> **Anatomy** (from Ancient Greek  ἀνατομή (anatomḗ) 'dissection') is the branch of morphology 
+> concerned with the study of the internal structure of organisms and their parts. 
+> 
+> Anatomy is a branch of natural science that deals with the structural organization of living things. 
+> It is an old science, having its beginnings in prehistoric times. 
+> Anatomy is inherently tied to developmental biology, embryology, comparative anatomy, 
+> evolutionary biology, and phylogeny, as these are the processes by which anatomy is generated, 
+> both over immediate and long-term timescales. 
+> 
+> Anatomy and physiology, which study the structure and function of organisms 
+> and their parts respectively, make a natural pair of related disciplines, and are often studied together. 
+> Human anatomy is one of the essential basic sciences that are applied in medicine, 
+> and is often studied alongside physiology.
 >
-> Anatomy is a complex and dynamic field that is constantly evolving as discoveries are made. In recent years, there has been a significant increase in the use of advanced imaging techniques, such as MRI and CT scans, which allow for more detailed and accurate visualizations of the body's structures.
+> Anatomy is a complex and dynamic field that is constantly evolving as discoveries are made. 
+> In recent years, there has been a significant increase in the use of advanced imaging techniques, 
+> such as MRI and CT scans, 
+> which allow for more detailed and accurate visualizations of the body's structures.
 >
 > The discipline of anatomy is divided into macroscopic and microscopic parts. Macroscopic anatomy, or gross anatomy, is the examination of an animal's body parts using unaided eyesight. Gross anatomy also includes the branch of superficial anatomy. Microscopic anatomy involves the use of optical instruments in the study of the tissues of various structures, known as histology, and also in the study of cells.
 >

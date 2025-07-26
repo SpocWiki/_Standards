@@ -96,7 +96,7 @@ Frogs and toads, salamanders and newts, and caecilians
 
 ![frog](Amphibia/Frog.gif) 
 
-#is_/same_as :: [[wd ]]
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Amphibia,10908|WD~Amphibia,10908]] 
 
 ## #has_/text_of_/abstract 
 

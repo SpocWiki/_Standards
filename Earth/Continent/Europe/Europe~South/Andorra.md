@@ -366,13 +366,13 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [	ISO3166-1-numeric	 :: 020 ]
 
-
-
 SpocWebEntityId: 26825
 isDeleted: false
 confidential: public
 [ISO2::AD] 
 [ISO3::AND] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Andorra,228|WD~Andorra,228]] 
 
 ## #has_/map  
 

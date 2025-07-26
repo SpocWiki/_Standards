@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: 3c692f3d-a5bb-4256-8e72-9155b8949b6e
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q44620178,44620178]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32650623,32650623]]'
@@ -43,6 +43,8 @@ UMLS_CUI: C4505338
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Egypt,7112549]]'
 ---
 
+# [[6000-Ancient_Egypt]] 
+
 has_/time_/started :: -3100-06 
 has_/time_/stopped :: -332 
 
@@ -61,6 +63,8 @@ has_/time_/stopped :: -332
 | **Third Intermediate Period**  | 1070–664 BCE    | Libyan and Kushite rulers                     |
 | **Late Period**                | 664–332 BCE     | Persian rule, brief Egyptian revival          |
 | **Greco-Roman Period**         | 332 BCE–641 CE  | Ptolemaic rule, Roman conquest, Christianity  |
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]] 
 
 ## #has_/text_of_/abstract 
 
