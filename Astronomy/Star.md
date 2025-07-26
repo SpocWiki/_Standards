@@ -83,6 +83,20 @@ Wolfram_Language_entity_type: Star
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star)
 
+```leaflet
+id: leaflet-map
+image: [[StarConstellations-Mercator-Black.png]]
+bounds:
+    - [90, -361]
+    - [-90, 271]
+height: 500px
+lat: 50
+long: 50
+markerFolder: ./Star/
+zoomFeatures: true 
+unit: meters
+darkMode: false
+```
 
 ## Confidential Links & Embeds: 
 
@@ -100,3 +114,5 @@ Wolfram_Language_entity_type: Star
 
 ### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
 
+
+![[_Star_DbFolder]]
