@@ -1,7 +1,7 @@
 
 # [[Dim~Momentum]] 
 
-[[Dim~Momentum]] is the Product of [[../Mass|Mass]] and [[../Linear_Dimension/Dim~Speed]]. 
+[[Dim~Momentum]] is the Product of [[../Mass|Mass]] and [[Velocity]]. 
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
