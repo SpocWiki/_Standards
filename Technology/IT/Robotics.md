@@ -13,7 +13,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robotics](/_Standards/Technology/Robotics.md) 
+### #is_/same_as :: [Robotics](Robotics.md) 
 
 ### #is_/same_as :: [Robotics.public](/_public/Technology/Robotics.public.md) 
 

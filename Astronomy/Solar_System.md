@@ -111,7 +111,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 > extending to a radius of 2,000–200,000 astronomical units (0.032–3.2 light-years). 
 > 
 > The closest star to the Solar System, Proxima Centauri, is 4.25 light-years (269,000 AU) away. 
-> Both stars belong to the [[Milky_Way]] galaxy.
+> Both stars belong to the [[Galaxy/Milky_Way]] galaxy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20System)
 

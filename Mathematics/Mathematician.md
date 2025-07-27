@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Mathematicians
 Dewey_Decimal_Classification: 510.92
 Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 020.067-014

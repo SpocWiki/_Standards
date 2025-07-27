@@ -53,7 +53,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robot](/_Standards/Technology/Robotics/Robot.md) 
+### #is_/same_as ::[Robot](Robot.md)) 
 
 ### #is_/same_as :: [Robot.public](/_public/Technology/Robotics/Robot.public.md) 
 

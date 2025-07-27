@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Scientific revolution"
 end_time: 1687-06
 facet_of: '[[_Standards/WikiData/WD~innovation,174165]]'
