@@ -11,6 +11,7 @@ aliases:
 
 This measures the Inertia of a Body 
 when exposed to a Force. 
+This is equivalent to the [[Angular_Dimension/Moment_of_Inertia|Moment_of_Inertia]] for Rotation. 
 
 Due to the equivalence of Gravitation 
 and Curvature of Space, 
