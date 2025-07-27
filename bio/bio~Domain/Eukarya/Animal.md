@@ -92,7 +92,7 @@ U_S_National_Archives_Identifier:
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishing%20for%20salmon%20--%20Crescent%20Lake%2C%20Alaska%20-%20August%202015.webm"
 ---
 
-# [[Animals]] 
+# [[Animal]] 
 
 
 ![Grasshopper](Animal/grasshopper.gif) ![](Animal/1618ctenophore.jpg) ![](Animal/haliclona.jpg) ![](Animal/haliplanella.gif) 
