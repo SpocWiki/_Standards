@@ -144,7 +144,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1992 | [[../../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[Albertville]]                 |  W  | 1992-02-08 | 1952-02-23 |
 | 1992 | [[../../../../../../Earth/Continent/Europe/Europe~South/Spain\|Spain]]               | [[Barcelona]]                   |  S  | 1992-07-25 | 1952-08-09 |
 | 1994 | [[../../../../../../Earth/Continent/Europe/Europe~North/Norway\|Norway]]             | [[Lillehammer]]                 |  W  | 1994-02-12 | 1948-02-27 |
-| 1996 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Atlanta]]                     |  S  | 1996-07-19 | 1948-08-04 |
+| 1996 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         |[[../../../../../bio/bio~Domain/Eukarya/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta]]]                     |  S  | 1996-07-19 | 1948-08-04 |
 | 1998 | [[../../../../../../Earth/Continent/Asia/Asia~East/Japan\|Japan]]                    | [[Nagano]]                      |  W  | 1998-02-07 | 1936-02-22 |
 | 2000 | [[../../../../../../Earth/Continent/Australasia/Australia\|Australia]]               | [[Sydney]]                      |  S  | 2000-09-15 | 1936-10-01 |
 | 2002 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Salt Lake City]]              |  W  | 2002-02-08 | 1932-02-24 |

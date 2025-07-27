@@ -3,29 +3,29 @@ aliases:
   - Altaic languages
 has_id_wikidata: Q37845
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
 linguistic_typology:
-  - "[[db/agglutinative_language]]"
-  - "[[db/subject_object_verb]]"
+  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
+  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
 subclass_of:
-  - "[[db/Nostratic]]"
-  - "[[db/Asian_languages]]"
+  - "[[_Standards/WikiData/WD~Nostratic,276314]]"
+  - "[[_Standards/WikiData/WD~Asian_languages,98791755]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Q2041543]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Armenian_Soviet_Encyclopedia,_vol._1]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 instance_of:
-  - "[[db/sprachbund]]"
-  - "[[db/language_family]]"
-topic_s_main_template: "[[db/Template_Altaic_languages]]"
-follows: "[[db/Proto_Altaic]]"
-different_from: "[[db/Altai]]"
+  - "[[_Standards/WikiData/WD~sprachbund,839463]]"
+  - "[[_Standards/WikiData/WD~language_family,25295]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Altaic_languages,6676877]]"
+follows: "[[_Standards/WikiData/WD~Proto_Altaic,20476501]]"
+different_from: "[[_Standards/WikiData/WD~Altai,28176]]"
 has_part_s_:
-  - "[[db/Mongolic]]"
-  - "[[db/Turkic]]"
-  - "[[db/Tungusic]]"
+  - "[[_Standards/WikiData/WD~Mongolic,33750]]"
+  - "[[_Standards/WikiData/WD~Turkic,34090]]"
+  - "[[_Standards/WikiData/WD~Tungusic,34230]]"
 ISO_639_5_code: tut
 IETF_language_tag: tut
 ISO_639_2_code: tut

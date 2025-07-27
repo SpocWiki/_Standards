@@ -14,7 +14,7 @@ Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_An
 
 #has_/time_/started : 1990-06 
 #is_/same_as :: [[../WikiData/WD~Domain,146481]] 
-#has_/next_item :: [[bio~Domain/Eukaryotes/bio~Kingdom]] 
+#has_/next_item ::[[bio~Domain/Eukarya/bio~Kingdom]]] 
 
 ## #has_/text_of_/abstract 
 
