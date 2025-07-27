@@ -57,13 +57,39 @@ Wikidata_property: area
 > Two different regions may have the same area (as in squaring the circle); 
 > by synecdoche, "area" sometimes is used to refer to the region, as in a "polygonal area".
 >
-> The area of a shape can be measured by comparing the shape to squares of a fixed size. In the International System of Units (SI), the standard unit of area is the square metre (written as m2), which is the area of a square whose sides are one metre long.  A shape with an area of three square metres would have the same area as three such squares.  In mathematics, the unit square is defined to have area one, and the area of any other shape or surface is a dimensionless real number.
+> The area of a shape can be measured by comparing the shape to squares of a fixed size. 
+> In the International System of Units (SI), the standard unit of area is the square metre 
+> (written as m²), which is the area of a square whose sides are one metre long.  
+> 
+> A shape with an area of three square metres would have the same area as three such squares.  
+> In mathematics, the unit square is defined to have area one, 
+> and the area of any other shape or surface is a dimensionless real number.
 >
-> There are several well-known formulas for the areas of simple shapes such as triangles, rectangles, and circles.  Using these formulas, the area of any polygon can be found by dividing the polygon into triangles.  For shapes with curved boundary, calculus is usually required to compute the area.  Indeed, the problem of determining the area of plane figures was a major motivation for the historical development of calculus.
+> There are several well-known formulas for the areas of 
+> simple shapes such as triangles, rectangles, and circles.  
+> 
+> Using these formulas, the area of any polygon can be found 
+> by dividing the polygon into triangles.  
+> 
+> For shapes with curved boundary, calculus is usually required to compute the area.  
+> Indeed, the problem of determining the area of plane figures 
+> was a major motivation for the historical development of calculus.
 >
-> For a solid shape such as a sphere, cone, or cylinder, the area of its boundary surface is called the surface area. Formulas for the surface areas of simple shapes were computed by the ancient Greeks, but computing the surface area of a more complicated shape usually requires multivariable calculus.
+> For a solid shape such as a sphere, cone, or cylinder, 
+> the area of its boundary surface is called the surface area. 
+> 
+> Formulas for the surface areas of simple shapes were computed by the ancient Greeks, 
+> but computing the surface area of a more complicated shape 
+> usually requires multivariable calculus.
 >
-> Area plays an important role in modern mathematics.  In addition to its obvious importance in geometry and calculus, area is related to the definition of determinants in linear algebra, and is a basic property of surfaces in differential geometry. In analysis, the area of a subset of the plane is defined using Lebesgue measure, though not every subset is measurable if one supposes the axiom of choice.  In general, area in higher mathematics is seen as a special case of volume for two-dimensional regions.
+> Area plays an important role in modern mathematics. 
+> In addition to its obvious importance in geometry and calculus, 
+> area is related to the definition of determinants in linear algebra, 
+> and is a basic property of surfaces in differential geometry. 
+> 
+> In analysis, the area of a subset of the plane is defined using Lebesgue measure, 
+> though not every subset is measurable if one supposes the axiom of choice. 
+> In general, area in higher mathematics is seen as a special case of volume for two-dimensional regions.
 >
 > Area can be defined through the use of axioms, defining it as a function of a collection of certain plane figures to the set of real numbers. It can be proved that such a function exists.
 >
