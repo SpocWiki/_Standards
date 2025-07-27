@@ -45,11 +45,11 @@ Armored-plated dinosaurs
 > **Ankylosauria** is a group of herbivorous dinosaurs of the clade Ornithischia. 
 > It includes the great majority of 
 > dinosaurs with armor in the form of bony osteoderms, similar to turtles. 
-> 
+>
 > Ankylosaurs were bulky quadrupeds, with short, powerful limbs. 
 > They are known to have first appeared in North Africa during the Middle Jurassic, 
 > and persisted until the end of the Late Cretaceous. 
-> 
+>
 > The two main families of ankylosaurians, Nodosauridae and Ankylosauridae 
 > primarily originated from the Northern Hemisphere (North America, Europe and Asia), 
 > but the more basal Parankylosauria originated from southern Gondwana 
