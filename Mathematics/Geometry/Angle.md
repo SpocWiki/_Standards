@@ -52,6 +52,7 @@ aliases:
 
 #is_a_ :: [[Pseudo-Vector]] 
 #is_/similar_to :: [[Vector]] 
+#is_/same_as :: [[../../WikiData/WD~Angle,11352|WD~Angle,11352]] 
 
 ## #has_/parts 
 
@@ -59,7 +60,7 @@ aliases:
 - Orientation 
 
 3D Angles have 3 Components, like a 3D Vector, but unlike the Vector, 
-it switches Sign when flipping 2 . 
+they **flip their sign when mirrored**. 
 
 ## #has_/text_of_/abstract 
 
