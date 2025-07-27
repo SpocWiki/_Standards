@@ -1,6 +1,10 @@
-﻿---
+---
 has_id_wikidata: Q9415
 ---
+
+# [[Emotion]] 
+
+#is_/same_as :: [[../../WikiData/WD~Emotion,9415|WD~Emotion,9415]] 
 
 ## #has_/text_of_/abstract 
 
