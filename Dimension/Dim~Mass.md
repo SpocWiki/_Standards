@@ -1,9 +1,11 @@
-﻿---
+---
 aliases:
 - Inertia
 ---
 
 # [[Dim~Mass]] 
+
+#is_/same_as :: [[Moment_of_Inertia]] 
 
 This measures the Inertia of a Body 
 when exposed to a Force. 

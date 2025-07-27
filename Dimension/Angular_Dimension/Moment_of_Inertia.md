@@ -1,7 +1,7 @@
 
 # [[Moment_of_Inertia]] 
 
-#is_/similar_to :: [[../../schema-org/Predicate/Quantity/has_value_for_mass|mass]] 
+#is_/similar_to :: [[../Dim~Mass]] 
 
 The [[Dim~Moment_of_Inertia]] is the angular Equivalent to [[../Dim~Mass|Dim~Mass]] in [[Linear_Dimension]]. 
 
