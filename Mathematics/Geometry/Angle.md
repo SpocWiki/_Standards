@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Angles (geometry)"
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -31,17 +31,41 @@ subclass_of:
 Unicode_character: ∠
 ---
 
+# [[Angle]] 
+
+#is_a_ :: [[Pseudo-Vector]] 
+
+## #has_/parts 
+
+- Magnitude 
+- Orientation 
+
+3D Angles have 3 Components. 
+
 ## #has_/text_of_/abstract 
 
-> In Euclidean geometry, an **Angle** or plane angle is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle.
+> In Euclidean geometry, an **Angle** or plane angle is the figure formed by two rays, 
+> called the sides of the angle, sharing a common endpoint, called the vertex of the angle.
 >
-> Two intersecting curves may also define an angle, which is the angle of the rays lying tangent to the respective curves at their point of intersection. Angles are also formed by the intersection of two planes; these are called dihedral angles. 
+> Two intersecting curves may also define an angle, 
+> which is the angle of the rays lying tangent to the respective curves 
+> at their point of intersection. 
+> Angles are also formed by the intersection of two planes; these are called dihedral angles. 
 >
-> In any case, the resulting angle lies in a plane (spanned by the two rays or perpendicular to the line of plane-plane intersection).
+> In any case, the resulting angle lies in a plane 
+> (spanned by the two rays or perpendicular to the line of plane-plane intersection).
 >
-> The magnitude of an angle is called an angular measure or simply "angle". Two different angles may have the same measure, as in an isosceles triangle. "Angle" also denotes the angular sector, the infinite region of the plane bounded by the sides of an angle.
+> The magnitude of an angle is called an angular measure or simply "angle". 
+> Two different angles may have the same measure, as in an isosceles triangle. 
+> "Angle" also denotes the angular sector, 
+> the infinite region of the plane bounded by the sides of an angle.
 >
-> Angle of rotation is a measure conventionally defined as the ratio of a circular arc length to its radius, and may be a negative number. In the case of an ordinary angle, the arc is centered at the vertex and delimited by the sides. In the case of an angle of rotation, the arc is centered at the center of the rotation and delimited by any other point and its image after the rotation.
+> Angle of rotation is a measure conventionally defined as the 
+> ratio of a circular arc length to its radius, and may be a negative number. 
+> 
+> In the case of an ordinary angle, the arc is centered at the vertex and delimited by the sides. 
+> In the case of an angle of rotation, the arc is centered at the center of the rotation 
+> and delimited by any other point and its image after the rotation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angle)
 

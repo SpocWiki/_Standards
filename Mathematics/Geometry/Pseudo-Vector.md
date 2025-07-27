@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "axial vector"
 ---
@@ -14,6 +14,7 @@ to [[Pseudo-Scalar]]s and [[Pseudo-Tensor]]s,
 both of which __flip their sign when mirrored__, 
 compared to a true [[Scalar]] or [[Tensor]].
 
+## #has_/text_of_/abstract 
 
 > In physics and mathematics, a **Pseudovector** (or axial vector) 
 > is a quantity that behaves like a vector in many situations, 
