@@ -130,8 +130,20 @@ P8189: "987007541140805171"
 # [[Momentum]] 
 
 
-#is_/same_as :: [[../../WikiData/WD~Momentum,41273|WD~Momentum,41273]] 
 #is_/similar_to :: [[Angular_Momentum]] 
+#is_/same_as :: [[../../WikiData/WD~Momentum,41273|WD~Momentum,41273]] 
+
+
+[[Momentum]] is the Product of [[../Mass|Mass]] and [[Velocity]]. 
+
+Due to the [[Isotropy]] of Space, it is a conserved Unit. 
+
+In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Wavelength]] of a Particle is 
+given by its inverse [[Momentum]]:  ___λ = h / p___ 
+
+A change in Momentum is also called Impulse, 
+a Distinction similar to that between [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] and [[../../Mathematics/Geometry/Vector|Vector]] 
+
 
 ## #has_/text_of_/abstract 
 
@@ -158,4 +170,21 @@ P8189: "987007541140805171"
 > In continuous systems such as electromagnetic fields, fluid dynamics and deformable bodies, a momentum density can be defined as momentum per volume (a volume-specific quantity). A continuum version of the conservation of momentum leads to equations such as the Navier–Stokes equations for fluids or the Cauchy momentum equation for deformable solids or fluids.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Momentum) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dim~Momentum](/_Standards/Dimension/Linear_Dimension/Dim~Momentum.md) 
+
+### #is_/same_as :: [Dim~Momentum.public](/_public/Dimension/Linear_Dimension/Dim~Momentum.public.md) 
+
+### #is_/same_as :: [Dim~Momentum.internal](/_internal/Dimension/Linear_Dimension/Dim~Momentum.internal.md) 
+
+### #is_/same_as :: [Dim~Momentum.protect](/_protect/Dimension/Linear_Dimension/Dim~Momentum.protect.md) 
+
+### #is_/same_as :: [Dim~Momentum.private](/_private/Dimension/Linear_Dimension/Dim~Momentum.private.md) 
+
+### #is_/same_as :: [Dim~Momentum.personal](/_personal/Dimension/Linear_Dimension/Dim~Momentum.personal.md) 
+
+### #is_/same_as :: [Dim~Momentum.secret](/_secret/Dimension/Linear_Dimension/Dim~Momentum.secret.md)
 
