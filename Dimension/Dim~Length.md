@@ -1,3 +1,7 @@
+---
+aliases:
+  - Length
+---
 
 # [[Dim~Length]] 
 

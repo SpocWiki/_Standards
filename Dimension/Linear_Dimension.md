@@ -1,10 +1,19 @@
+---
+aliases:
+  - Linear Dimension
+  - Linear_Dimension
+  - 
+---
+
 # [[Linear_Dimension]] 
+
+#is_/similar_to :: [[Angular_Dimension]] 
 
 There is a far-reaching Analogy between 
 the Physics of [[Angular_Dimension]]  and [[Linear_Dimension]]. 
 
 Every Dimension has its Equivalent in the other System, 
-so the Equations retain the Shape when switching Dimensions. 
+so the Equations retain their Shape when switching Dimensions. 
 
 
 ## Confidential Links & Embeds: 

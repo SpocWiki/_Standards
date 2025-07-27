@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.20
 Commons_category: Anarchism
 described_by_source:
@@ -57,6 +57,10 @@ Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"Anarchism::m77k8\"]"
 - "Entity[\"Word\", \"anarchism\"]"
 ---
+
+# [[Anarchism]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Anarchism,6199|WD~Anarchism,6199]] 
 
 ## #has_/text_of_/abstract 
 

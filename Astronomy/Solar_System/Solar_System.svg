@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-25 -120 800 160"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="SolarSystem.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.0351084"
+     inkscape:cx="194.54248"
+     inkscape:cy="279.91813"
+     inkscape:window-width="1920"
+     inkscape:window-height="1133"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="OrbitMercury" />
+  <!-- Sun -->
+  <circle
+     cx="0"
+     cy="0"
+     r="25"
+     fill="yellow"
+     id="Sun" />
+  <!-- Mercury -->
+  <g
+     transform="rotate(-7)"
+     id="OrbitMercury"
+     style="display:inline">
+    <g
+       id="RotMercury"
+       transform="rotate(7)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4" />
+    </g>
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="50"
+       ry="35"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse4" />
+    <!-- Mercury Rotation Arrow -->
+    <text
+       x="33.915131"
+       y="-28.252451"
+       id="textMercury"
+       style="display:inline">Mercury</text>
+    <path
+       d="m 49.643994,-0.11866857 5,4.99999997 m -5,-4.99999997 -5,4.99999997"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path3"
+       transform="rotate(7)" />
+    <circle
+       cx="45.853302"
+       cy="-16.805037"
+       r="3"
+       fill="#808080"
+       id="PlanetMercury"
+       transform="rotate(7)" />
+  </g>
+  <!-- Venus -->
+  <g
+     transform="matrix(0.99862953,-0.05233596,-0.05233596,-0.99862953,0,0)"
+     id="OrbitVenus"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="90"
+       ry="75"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse5" />
+    <path
+       d="m 90,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path5" />
+    <g
+       id="RotVenus"
+       transform="rotate(-3.0000002,742.04629,-781.38527)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-3" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-8" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-9" />
+    </g>
+    <text
+       x="89.48967"
+       y="-11.79639"
+       id="textVenus"
+       style="display:inline"
+       transform="matrix(0.99862953,-0.05233596,-0.05233596,-0.99862953,0,0)">Venus</text>
+    <circle
+       cx="85.273468"
+       cy="-23.74987"
+       r="4"
+       fill="#808040"
+       id="PlanetVenus"
+       style="fill:#dfe15e;fill-opacity:1"
+       transform="matrix(0.99862954,-0.05233596,-0.05233596,-0.99862954,0,0)" />
+  </g>
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitEarth"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="125"
+       ry="110"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse6" />
+    <circle
+       cx="119.21483"
+       cy="-32.665417"
+       r="5"
+       fill="#0000ff"
+       id="PlanetEarth"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)"
+       style="display:inline" />
+    <path
+       d="m 125,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path7" />
+    <text
+       x="120.30188"
+       y="-39.365269"
+       id="textEarth"
+       style="display:inline"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Earth</text>
+    <g
+       id="RotEarth"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,73.924098,14.444076)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-4" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-3" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-0" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitMars"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="175"
+       ry="150"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse8" />
+    <path
+       d="m 175,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path9" />
+    <text
+       x="169.19746"
+       y="-49.769707"
+       id="textMars"
+       style="display:inline"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Mars</text>
+    <circle
+       cx="166.63893"
+       cy="-45.488777"
+       r="4"
+       fill="#ff0000"
+       id="PlanetMars"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)" />
+    <g
+       id="RotMars"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,121.52198,25.970764)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-30" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-6" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-4" />
+    </g>
+  </g>
+  <!-- Venus Rotation Arrow -->
+  <!-- Earth -->
+  <!-- Earth Rotation Arrow -->
+  <!-- Mars -->
+  <!-- Mars Rotation Arrow -->
+  <!-- Jupiter -->
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitJupiter"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="250"
+       ry="220"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse10" />
+    <text
+       x="247.06305"
+       y="-74.7481"
+       id="textJupiter"
+       style="display:inline"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Jupiter</text>
+    <circle
+       cx="238.74825"
+       cy="-64.55481"
+       r="10"
+       fill="#ffa500"
+       id="PlanetJupiter"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,-6.9989338e-6,1.2216691e-7)"
+       style="display:inline" />
+    <path
+       d="m 250,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path11" />
+    <g
+       id="RotJupiter"
+       transform="matrix(1.5776852,-0.0275386,-0.0275386,-1.5776852,167.69055,35.440103)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-1" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-44" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-8" />
+    </g>
+  </g>
+  <!-- Jupiter Rotation Arrow -->
+  <!-- Saturn -->
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitSaturn"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="350"
+       ry="320"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse12" />
+    <text
+       x="347.79333"
+       y="-79.40036"
+       id="textSaturn"
+       style="display:inline"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Saturn</text>
+    <path
+       d="m 350,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path13" />
+    <g
+       id="RotSaturn"
+       transform="matrix(1.4171747,-0.02473688,-0.02473688,-1.4171747,277.41063,42.04956)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-82" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-61" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-05" />
+      <circle
+         cx="341.34137"
+         cy="-70.393654"
+         r="8"
+         fill="#d2b48c"
+         id="PlanetSaturn"
+         transform="matrix(0.70552182,0,0,0.70552182,-195.17168,33.078135)" />
+    </g>
+  </g>
+  <!-- Saturn Rotation Arrow -->
+  <!-- Uranus -->
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitUranus"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="500"
+       ry="470"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse14" />
+    <text
+       x="498.05347"
+       y="-87.430664"
+       id="textUranus"
+       style="display:inline"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Uranus</text>
+    <path
+       d="m 500,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path15" />
+    <g
+       id="RotUranus"
+       transform="matrix(1.3111296,-0.02288586,-0.02288586,-1.3111296,433.23157,52.850104)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-6" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-33" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-5" />
+      <circle
+         cx="492.08041"
+         cy="-82.24427"
+         r="7"
+         fill="#00ffff"
+         id="PlanetUranus"
+         transform="matrix(0.76258496,0,0,0.76258496,-329.62219,46.062415)" />
+    </g>
+  </g>
+  <!-- Uranus Rotation Arrow -->
+  <!-- Neptune -->
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitNeptun"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="625"
+       ry="590"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse16" />
+    <text
+       x="621.24573"
+       y="-94.100044"
+       id="textNeptune"
+       style="display:inline"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Neptune</text>
+    <path
+       d="m 625,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path17" />
+    <g
+       id="RotNeptune"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,573.32678,60.674197)">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-9" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-30" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-1" />
+      <circle
+         cx="617.82703"
+         cy="-87.484245"
+         r="6"
+         fill="#000080"
+         id="PlanetNeptun"
+         transform="translate(-572.18055,70.670892)" />
+    </g>
+  </g>
+  <!-- Neptune Rotation Arrow -->
+  <!-- Pluto -->
+  <g
+     transform="matrix(0.9998477,-0.01745241,-0.01745241,-0.9998477,0,0)"
+     id="OrbitPluto"
+     style="display:inline">
+    <ellipse
+       cx="0"
+       cy="0"
+       rx="750"
+       ry="720"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="ellipse18"
+       style="display:inline" />
+    <path
+       d="m 750,0 5,-5 m -5,5 -5,-5"
+       fill="none"
+       stroke="#808080"
+       stroke-width="1"
+       id="path19"
+       style="display:inline" />
+    <circle
+       cx="743.0683"
+       cy="-97.77179"
+       r="3"
+       fill="#a9a9a9"
+       id="PlanetPluto"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)"
+       style="display:inline" />
+    <text
+       x="743.0683"
+       y="-97.77179"
+       id="textPluto"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,0,0)">Pluto</text>
+    <g
+       id="RotPluto"
+       transform="matrix(0.99984769,-0.01745241,-0.01745241,-0.99984769,698.85607,68.802216)"
+       style="display:inline">
+      <circle
+         cx="45.622089"
+         cy="-16.599575"
+         r="10"
+         fill="none"
+         stroke="#808080"
+         stroke-width="1"
+         id="circle3-8" />
+      <path
+         d="m 35.740827,-14.497556 -3.237504,-7.131166 m 3.237504,7.131166 3.237504,-7.131166"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.812178"
+         id="path4-86" />
+      <path
+         d="m 55.589587,-18.79739 2.806948,6.18279 m -2.806948,-6.18279 -2.806948,6.18279"
+         fill="none"
+         stroke="#808080"
+         stroke-width="0.704166"
+         id="path4-4-42" />
+    </g>
+  </g>
+</svg>

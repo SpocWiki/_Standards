@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 3100
 Basisklassifikation: 39
 Colon_Classification: B9

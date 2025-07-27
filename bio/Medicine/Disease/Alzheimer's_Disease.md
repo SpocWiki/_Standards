@@ -1,5 +1,6 @@
-﻿---
+---
 Commons_category: "Alzheimer's disease"
+described_at_URL: "https://www.sciencealert.com/theres-a-critical-thing-we-can-all-do-to-hold-alzheimers-symptoms-at-bay"
 different_from: '[[_Standards/WikiData/WD~Asperger_syndrome,161790]]'
 DiseasesDB: 490
 drug_or_therapy_used_for_treatment:
@@ -101,7 +102,7 @@ genetic_association:
 - '[[_Standards/WikiData/WD~LUZP2,18055234]]'
 - '[[_Standards/WikiData/WD~TGM6,18055569]]'
 - '[[_Standards/WikiData/WD~POLN,18055896]]'
-- '[[_Standards/WikiData/WD~SLC8A1-AS1,18062755]]'
+- '[[_Standards/WikiData/WD~SLC8A1_AS1,18062755]]'
 - '[[_Standards/WikiData/WD~PPIAP59,20787111]]'
 has_cause: '[[_Standards/WikiData/WD~unknown,24238356]]'
 has_id_wikidata: Q11081
@@ -131,6 +132,8 @@ OmegaWiki_Defined_Meaning: 802769
 on_focus_list_of_Wikimedia_project:
 - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+P8189: 987007294871305171
+PhilPapers_topic: alzheimers-disease
 possible_treatment:
 - '[[_Standards/WikiData/WD~physostigmine,410595]]'
 - '[[_Standards/WikiData/WD~rivastigmine,411887]]'
@@ -147,11 +150,11 @@ schematic:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/ChAlzheimera-obraz-m%C3%B3zguPL.jpg"
 social_media_followers: 12071
 spoken_text_audio:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D6%81%D5%B0%D5%A1%D5%B5%D5%B4%D5%A5%D6%80%D5%AB%20%D5%B0%D5%AB%D5%BE%D5%A1%D5%B6%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Alzheimer%27s%20disease%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Alzheimer%27s%20Disease.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B1%D5%AC%D6%81%D5%B0%D5%A1%D5%B5%D5%B4%D5%A5%D6%80%D5%AB%20%D5%B0%D5%AB%D5%BE%D5%A1%D5%B6%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Alzheimer%27s%20disease%29.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ziekte%20van%20Alzheimer-article.ogg"
 subclass_of:
-- '[[_Standards/WikiData/WD~aging-associated_disease,438962]]'
+- '[[_Standards/WikiData/WD~aging_associated_disease,438962]]'
 - '[[_Standards/WikiData/WD~tauopathy,2397106]]'
 - '[[_Standards/WikiData/WD~disease,12136]]'
 subreddit: Alzheimers
@@ -170,17 +173,55 @@ symptoms_and_signs:
 UMLS_CUI: C0002395
 ---
 
+# [[Alzheimer’s_disease]]
+
+#is_/same_as :: [[../../../../../_Standards/WikiData/WD~Alzheimer's_disease,11081]] 
+
 ## #has_/text_of_/abstract 
 
-> **Alzheimer's disease** (AD) is a neurodegenerative disease that usually starts slowly and progressively worsens. It is the cause of 60–70% of cases of dementia. The most common early symptom is difficulty in remembering recent events. As the disease advances, symptoms can include problems with language, disorientation (including easily getting lost), mood swings, loss of motivation, self-neglect, and behavioral issues. As a person's condition declines, they often withdraw from family and society. Gradually, bodily functions are lost, ultimately leading to death. Although the speed of progression can vary, the average life expectancy following diagnosis is three to twelve years.
+> Alzheimer's disease (AD) is a neurodegenerative disease 
+> that usually starts slowly and progressively worsens, and is the cause of 60–70% of cases of dementia. 
 >
-> The causes of Alzheimer's disease remain poorly understood. There are many environmental and genetic risk factors associated with its development. The strongest genetic risk factor is from an allele of apolipoprotein E. Other risk factors include a history of head injury, clinical depression, and high blood pressure. The progression of the disease is largely characterized by the accumulation of malformed protein deposits in the cerebral cortex, called amyloid plaques and neurofibrillary tangles. These misfolded protein aggregates interfere with normal cell function, and over time lead to irreversible degeneration of neurons and loss of synaptic connections in the brain. A probable diagnosis is based on the history of the illness and cognitive testing, with medical imaging and blood tests to rule out other possible causes. Initial symptoms are often mistaken for normal brain aging. Examination of brain tissue is needed for a definite diagnosis, but this can only take place after death.
+> The most common early symptom is difficulty in remembering recent events. 
+> As the disease advances, symptoms can include problems with language, 
+> disorientation (including easily getting lost), mood swings, loss of motivation, self-neglect, 
+> and behavioral issues. 
+> As a person's condition declines, they often withdraw from family and society. 
+> Gradually, bodily functions are lost, ultimately leading to death. 
+> Although the speed of progression can vary, the average life expectancy following diagnosis 
+> is three to twelve years.
 >
-> No treatments can stop or reverse its progression, though some may temporarily improve symptoms. A healthy diet, physical activity, and social engagement are generally beneficial in aging, and may help in reducing the risk of cognitive decline and Alzheimer's. Affected people become increasingly reliant on others for assistance, often placing a burden on caregivers. The pressures can include social, psychological, physical, and economic elements. Exercise programs may be beneficial with respect to activities of daily living and can potentially improve outcomes. Behavioral problems or psychosis due to dementia are sometimes treated with antipsychotics, but this has an increased risk of early death. 
+> The cause of Alzheimer's disease is poorly understood. 
+> There are many environmental and genetic risk factors associated with its development. 
+> The strongest genetic risk factor is from an allele of apolipoprotein E. 
+> Other risk factors include a history of head injury, clinical depression, and high blood pressure. 
 >
-> As of 2020, there were approximately 50 million people worldwide with Alzheimer's disease. It most often begins in people over 65 years of age, although up to 10% of cases are early-onset impacting those in their 30s to mid-60s. It affects about 6% of people 65 years and older, and women more often than men. The disease is named after German psychiatrist and pathologist Alois Alzheimer, who first described it in 1906. Alzheimer's financial burden on society is large, with an estimated global annual cost of US$1 trillion. It is ranked as the seventh leading cause of death worldwide. 
+> The progress of the protein misfolding disease is largely associated with amyloid plaques, 
+> neurofibrillary tangles, and loss of neuronal connections in the brain. 
+> A probable diagnosis is based on the history of the illness and cognitive testing, 
+> with medical imaging and blood tests to rule out other possible causes. 
+> Initial symptoms are often mistaken for normal brain aging. 
+> Examination of brain tissue is needed for a definite diagnosis, but this can only take place after death.
 >
-> Given the widespread impacts of Alzheimer's disease, both basic-science and health funders in many countries support Alzheimer's research at large scales. For example, the US National Institutes of Health program for Alzheimer's research, the National Plan to Address Alzheimer’s Disease, has a budget of US$3.98 billion for fiscal year 2026. In the European Union, the 2020 Horizon Europe research programme awarded over €570 million for dementia-related projects.
+> No treatments can stop or reverse its progression, though some may temporarily improve symptoms. 
+> A healthy diet, physical activity, and social engagement are generally beneficial in ageing, 
+> and may help in reducing the risk of cognitive decline and Alzheimer's. 
+> Affected people become increasingly reliant on others for assistance, 
+> often placing a burden on caregivers. 
+> The pressures can include social, psychological, physical, and economic elements. 
+> Exercise programs may be beneficial with respect to activities of daily living 
+> and can potentially improve outcomes. 
+> Behavioral problems or psychosis due to dementia are sometimes treated with antipsychotics, 
+> but this has an increased risk of early death. 
+>
+> As of 2020, there were approximately 50 million people worldwide with Alzheimer's disease. 
+> It most often begins in people over 65 years of age, 
+> although up to 10% of cases are early-onset impacting those in their 30s to mid-60s. 
+> It affects about 6% of people 65 years and older, and women more often than men. 
+> The disease is named after German psychiatrist and pathologist Alois Alzheimer, 
+> who first described it in 1906. 
+> Alzheimer's financial burden on society is large, with an estimated global annual cost of US$1 trillion. 
+> It is ranked as the seventh leading cause of death worldwide.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alzheimer's%20disease)
 
@@ -201,3 +242,22 @@ UMLS_CUI: C0002395
 
 ### #is_/same_as :: [Alzheimer's_Disease.secret](/_secret/bio/Medicine/Disease/Alzheimer's_Disease.secret.md)
 
+
+# [[Alzheimer's_Disease]] 
+
+#is_/part_of :: [[Alzheimer’s_disease]] 
+
+![[Alzheimer's_Disease.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

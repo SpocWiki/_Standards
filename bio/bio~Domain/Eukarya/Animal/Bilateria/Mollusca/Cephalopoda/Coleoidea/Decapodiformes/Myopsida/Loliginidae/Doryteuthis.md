@@ -1,0 +1,137 @@
+﻿---
+title: Doryteuthis
+---
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Loliginidae](../Loliginidae.md))
+    -  [Myopsida](../../Myopsida.md))
+    -  [Decapodiformes](../../../Decapodiformes.md))
+    -  [Coleoidea](../../../../Coleoidea.md))
+    -  [Cephalopoda](../../../../../Cephalopoda.md))
+    -  [Mollusca](../../../../../../Mollusca.md))
+    -  [Bilateria](../../../../../../../Bilateria.md))
+    -  [Animals](../../../../../../../../Animals.md))
+    -  [Eukarya](../../../../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Loliginidae
+    -  [Loligo](Loligo.md))
+    -   [Afrololigo mercatoris](Afrololigo_mercatoris)
+    -  [Alloteuthis](Alloteuthis.md))
+    -   Doryteuthis
+    -   [Heterololigo bleekeri](Heterololigo_bleekeri)
+    -  [Loliolus](Loliolus.md))
+    -  [Lolliguncula](Lolliguncula.md))
+    -  [Pickfordiateuthis](Pickfordiateuthis.md))
+    -  [Sepioteuthis](Sepioteuthis.md))
+    -  [Uroteuthis](Uroteuthis.md))
+
+-   » Sub-Groups 
+
+# *Doryteuthis* [Naef, 1912] 
+
+[Michael Vecchione]()
+
+![ ](Doryteuthis/DpealeiiMV2.jpg)
+
+***Doryteuthis*** contains eight species placed into three subgenera one
+of which is unnamed.
+
+Type species. \-- ***Loligo plei*** Blainville, 1823; species first
+mentioned and subsequent designation of Naef (1923:193)\].
+
+Containing group:[Loliginidae](../Loliginidae.md))
+
+## Introduction
+
+***Doryteuthis*** species are the common inshore squids of American
+waters. Several species (e.g., ***D. pealeii***, ***D. opalescens***)
+are targets of substantial fisheries. The genus is defined by geography
+and the absence of specific modifications that define other genera.
+
+#### Diagnosis
+
+A loliginid \...
+
+-   with fins in adults rhomboidal, longer than broad, (length \<70% of
+    ML); mantle elongate, pointed posteriorly; cement body of
+    spermatophore short.
+-   with a distribution in waters off the Americas.
+
+### Characteristics
+
+1.  Arms
+    1.  Hectocotylus:
+        1.  Ventral crest absent.
+        2.  Proximal suckers unmodified.
+        3.  Distal suckers of reduced size, sucker stalks elongated to
+            form papillae in either dorsal or both dorsal and ventral
+            series.\
+            \
+2.  Tentacles
+    1.  Tentacular clubs expanded, suckers in four series.\
+        \
+3.  Fins
+    1.  Fins extend to posterior tip of mantle.
+4.  Photophores
+    1.  Photophores absent.\
+        \
+5.  Viscera
+    1.  Eggs less than 4 mm.
+    2.  Spermatophore cement body short.
+
+#### Comments
+
+The genus is subdivided into three subgenera, two of which are named,
+***D***. (***Doryteuthis***) and ***D***. (***Amerigo***). Species of
+***D***. (***Doryteuthis***) have the modified portion of the
+hectocotylized arm extending to the arm tip, and the edges of gladius
+vane are thickened, while in ***D.*** (***Amerigo***) neither of these
+conditions hold. ***Doryteuthis sanpaulensis*** does not belong in
+either of these subgenera and was considered by Vecchione et al. (2005)
+to be the sole recognized species in an undescribed subgenus.
+![ ](Doryteuthis/DPealCFERsit.jpg)){width="500"}
+
+**Figure**. Side view of ***D. (Amerigo) pealeii*** sitting on the
+substrate in an aquarium. Photograph by Clyde Roper.
+### Distribution
+
+American waters of the western Atlantic and eastern Pacific Oceans.
+
+### References
+
+Vecchione, M., E. Shea, S. Bussarawit, F. Anderson, D. Alexeyev, C.-C.
+Lu, T. Okutani, M. Roeleveld, C. Chotiyaputta, C. Roper, E. Jorgensen
+and N. Sukramongkol. 2005. Systematics of Indo-West Pacific loliginids.
+Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
+
+## Title Illustrations
+
+![](Doryteuthis/DpealeiiMV2.jpg))
+
+  -----------------------------------------------------------------------
+  Scientific Name ::     Doryteuthis pealeii
+  Specimen Condition   Live Specimen
+  View                 Dorsal
+  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  -----------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as ::[Doryteuthis](Doryteuthis.md)) 
+
+### #is_/same_as :: [Doryteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.public.md) 
+
+### #is_/same_as :: [Doryteuthis.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.internal.md) 
+
+### #is_/same_as :: [Doryteuthis.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.protect.md) 
+
+### #is_/same_as :: [Doryteuthis.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.private.md) 
+
+### #is_/same_as :: [Doryteuthis.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.personal.md) 
+
+### #is_/same_as :: [Doryteuthis.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Indian Ocean"
 area: 76174000

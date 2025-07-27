@@ -1,4 +1,11 @@
+---
+aliases:
+  - Angular Dimension
+  - Angular_Dimension
+---
 # [[Angular_Dimension]] 
+
+#is_/similar_to :: [[Linear_Dimension]] 
 
 There is a far-reaching Analogy between 
 the Physics of [[Angular_Dimension]]  and [[Linear_Dimension]]. 

@@ -1,4 +1,4 @@
-﻿---
+---
 albedo:
 - 0.3
 - 0.488
@@ -127,6 +127,9 @@ schematic:
 semi_major_axis_of_an_orbit:
 - 2870658186
 - 19.18916464
+significant_event:
+- "[[_Standards/WD/WD~transit of Uranus from Neptune]]"
+- "[[_Standards/WD/WD~discovery of Uranus]]"
 site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Bath,22889]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%88%D6%82%D6%80%D5%A1%D5%B6%20%28%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF%29.ogg"
 Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/uranus"
@@ -158,13 +161,51 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Uranus\"]"
 
 ## #has_/text_of_/abstract 
 
-> **Uranus** is the seventh planet from the Sun. It is a gaseous cyan-coloured ice giant. Most of the planet is made of water, ammonia, and methane in a supercritical phase of matter, which astronomy calls "ice" or volatiles. The planet's atmosphere has a complex layered cloud structure and has the lowest minimum temperature (49 K (−224 °C; −371 °F)) of all the Solar System's planets. It has a marked axial tilt of 82.23°  with a retrograde rotation period of 17 hours and 14 minutes. This means that in an 84-Earth-year orbital period around the Sun, its poles get around 42 years of continuous sunlight, followed by 42 years of continuous darkness.
+
+> **Uranus** is the seventh planet from the Sun. It is a gaseous cyan-coloured ice giant. 
+> Most of the planet is made of water, ammonia, and methane in a supercritical phase of matter, 
+> which in astronomy is called 'ice' or volatiles. 
+> The planet's atmosphere has a complex layered cloud structure 
+> and has the lowest minimum temperature of 49 K (−224 °C; −371 °F) 
+> out of all the Solar System's planets. 
+> It has an axial tilt of 82.23°  with a retrograde rotation period of 17 hours and 14 minutes. 
+> This means that in an 84-Earth-year orbital period around the Sun, its poles get around 42 years of continuous sunlight, followed by 42 years of continuous darkness.
 >
-> Uranus has the third-largest diameter and fourth-largest mass among the Solar System's planets. Based on current models, inside its volatile mantle layer is a rocky core, and surrounding it is a thick hydrogen and helium atmosphere. Trace amounts of hydrocarbons (thought to be produced via hydrolysis) and carbon monoxide along with carbon dioxide (thought to have been originated from comets) have been detected in the upper atmosphere. There are many unexplained climate phenomena in Uranus's atmosphere, such as its peak wind speed of 900 km/h (560 mph), variations in its polar cap, and its erratic cloud formation. The planet also has very low internal heat compared to other giant planets, the cause of which remains unclear.
+> Uranus has the third-largest diameter and fourth-largest mass of the Solar System's planets. Based on current models, inside its volatile mantle layer is a rocky core, 
+> and surrounding it is a thick hydrogen and helium atmosphere. 
+> Trace amounts of hydrocarbons (thought to be produced via hydrolysis) 
+> and carbon monoxide along with carbon dioxide 
+> (thought to have been originated from comets) have been detected in the upper atmosphere. 
+> There are many unexplained climate phenomena in Uranus's atmosphere, 
+> such as its peak wind speed of 900 km/h (560 mph), variations in its polar cap, 
+> and its erratic cloud formation. 
+> The planet also has very low internal heat compared to other giant planets, 
+> the cause of which remains unclear.
 >
-> Like the other giant planets, Uranus has a ring system, a magnetosphere, and many natural satellites. The extremely dark ring system reflects only about 2% of the incoming light. Uranus's 28 natural satellites include 18 known regular moons, of which 13 are small inner moons. Further out are the larger five major moons of the planet: Miranda, Ariel, Umbriel, Titania, and Oberon. Orbiting at a much greater distance from Uranus are the ten known irregular moons. The planet's magnetosphere is highly asymmetric and has many charged particles, which may be the cause of the darkening of its rings and moons.
+> Like the other giant planets, Uranus has a ring system, a magnetosphere, 
+> and many natural satellites. 
+> The extremely dark ring system reflects only about 2% of the incoming light. 
+> Uranus's 28 natural satellites include 18 known regular moons, 
+> of which 13 are small inner moons. 
+> Further out are the larger five major moons of the planet: 
+> Miranda, Ariel, Umbriel, Titania, and Oberon. 
+> Orbiting at a much greater distance from Uranus are the nine known irregular moons. 
+> The planet's magnetosphere is highly asymmetric and has many charged particles, 
+> which may be the cause of the darkening of its rings and moons.
 >
-> Uranus is visible to the naked eye, but it is very dim and was not classified as a planet until 1781, when it was first observed by William Herschel. About seven decades after its discovery, consensus was reached that the planet be named after the Greek god Uranus (Ouranos), one of the Greek primordial deities. As of 2024, it had been visited up close only once when in 1986 the Voyager 2 probe flew by the planet. Though nowadays it can be resolved and observed by telescopes, there is much desire to revisit the planet, as shown by Planetary Science Decadal Survey's decision to make the proposed Uranus Orbiter and Probe mission a top priority in the 2023–2032 survey, and the CNSA's proposal to fly by the planet with a subprobe of Tianwen-4.
+> Uranus is visible to the naked eye, but it is very dim 
+> and was not classified as a planet until 1781, when it was first observed by William Herschel. 
+> About seven decades after its discovery, consensus was reached 
+> that the planet be named after the Greek god Uranus (Ouranos), 
+> one of the Greek primordial deities. 
+> As of 2024, it had been visited up close only once 
+> when in 1986 the Voyager 2 probe flew by the planet. 
+> Though nowadays it can be resolved and observed by telescopes, 
+> there is much desire to revisit the planet, 
+> as shown by Planetary Science Decadal Survey's decision 
+> to make the proposed Uranus Orbiter and Probe mission 
+> a top priority in the 2023–2032 survey, and the CNSA's proposal 
+> to fly by the planet with a subprobe of Tianwen-4.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uranus)
 
@@ -185,3 +226,22 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Uranus\"]"
 
 ### #is_/same_as :: [Uranus.secret](/_secret/Astronomy/Solar_System/Uranus.secret.md)
 
+
+# [[Uranus]] 
+
+#is_/part_of :: [[Uranus]] 
+
+![[Uranus.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Electric current"
 Colon_Classification: C62
@@ -21,6 +21,10 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681476,25681476]]'
 subclass_of: '[[_Standards/WikiData/WD~current,56298508]]'
 Wikidata_property: "maximum current"
 ---
+
+# [[Electric_Current]] 
+
+
 
 ## #has_/text_of_/abstract 
 

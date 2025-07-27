@@ -1,4 +1,4 @@
-﻿---
+---
 area: 3300000
 BHCL_UUID: cab2207f-240e-43d5-bb3f-bc5a4ce221c6
 Commons_category: Andes
@@ -44,6 +44,10 @@ video:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Vulkanismus%20in%20den%20Anden.webm"
 width: 500
 ---
+
+# [[Andes]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Andes,5456|WD~Andes,5456]]  
 
 ## #has_/text_of_/abstract 
 

@@ -8,7 +8,7 @@
 | --------------- | --------- | ---------: | -------------- | --------------------------------- |
 | Tollywood       | [[../../../../../Language/Lang~Family/LangFamily-Dravidian/Lang-te\|Telugu]]    |        250 | Hyderabad      | Large-scale productions (_RRR_)   |
 | Kollywood       | [[../../../../../Language/Lang~Family/LangFamily-Dravidian/Lang-ta\|Tamil]]     |    200–220 | Chennai        | Political narratives, innovation  |
-| [[../../../../../bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood\|Sandalwood]]      | Kannada   |    120–150 | Bengaluru      | Pan-India hits (_KGF_)            |
+| [[../../../../../bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Sandalwood\|Sandalwood]]      | Kannada   |    120–150 | Bengaluru      | Pan-India hits (_KGF_)            |
 | Mollywood       | Malayalam |    120–140 | Kochi          | Realism, literary depth           |
 | Bengali Cinema  | [[../../../../../Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn\|Bengali]]   |    100–120 | Kolkata        | Art cinema legacy                 |
 | Bhojpuri Cinema | Bhojpuri  |    100–150 | Varanasi/Patna | Rural and mythological focus      |

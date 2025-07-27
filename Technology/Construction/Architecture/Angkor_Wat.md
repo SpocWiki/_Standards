@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat%20Aerial%20View%20Siem%20Reap%20Cambodia%202011.jpg"
 aliases:
 - "Angkor Wat"
@@ -35,6 +35,10 @@ video:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20-%20centre%20of%20the%20Khmer%20Kingdom%2C%20TerraX%20%28English%20AI%20redub%2C%20v2%29.webm"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20-%20Zentrum%20des%20K%C3%B6nigreichs%20der%20Khmer%20%28CC%20BY-SA%204.0%29%20cy.webm"
 ---
+
+# [[Angkor_Wat]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]] 
 
 ## #has_/text_of_/abstract 
 

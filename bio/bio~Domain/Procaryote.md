@@ -10,7 +10,7 @@ This is a Super-[[../Taxon~Domain]].
 #has_/parts :: [[Archaea]] 
 #has_/parts :: [[Bacteria|Bacteria]] 
 
-## Genesis of [[Eukaryotes]] from [[Procaryote]]s 
+## Genesis of[[Eukarya]]] from [[Procaryote]]s 
 [[Archaea]] are anaerobic, 
 while [[../bio~Tree/Bacteria|Bacteria]] are aerobic. 
 

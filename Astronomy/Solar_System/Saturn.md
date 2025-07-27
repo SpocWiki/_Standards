@@ -1,4 +1,4 @@
-﻿---
+---
 absolute_magnitude: 28
 albedo:
 - 0.47
@@ -218,11 +218,34 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 
 ## #has_/text_of_/abstract 
 
-> **Saturn** is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about nine times that of Earth. It has an eighth the average density of Earth, but is over 95 times more massive. Even though Saturn is almost as big as Jupiter, Saturn has less than a third its mass. Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years.
+> **Saturn** is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. 
+> It is a gas giant with an average radius of about nine-and-a-half times that of Earth. 
+> It has only one-eighth the average density of Earth, but is over 95 times more massive.
+>  Though Saturn is nearly the size of Jupiter, Saturn has less than one-third of Jupiter's mass. 
+>  Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km) 
+>  with an orbital period of 29.45 years.
 >
-> Saturn's interior is thought to be composed of a rocky core, surrounded by a deep layer of metallic hydrogen, an intermediate layer of liquid hydrogen and liquid helium, and an outer layer of gas. Saturn has a pale yellow hue, due to ammonia crystals in its upper atmosphere. An electrical current in the metallic hydrogen layer is thought to give rise to Saturn's planetary magnetic field, which is weaker than Earth's, but has a magnetic moment 580 times that of Earth because of Saturn's greater size. Saturn's magnetic field strength is about a twentieth that of Jupiter. The outer atmosphere is generally bland and lacking in contrast, although long-lived features can appear. Wind speeds on Saturn can reach 1,800 kilometres per hour (1,100 miles per hour).
+> Saturn's interior is thought to be composed of a rocky core, 
+> surrounded by a deep layer of metallic hydrogen, an intermediate layer of liquid hydrogen 
+> and liquid helium, and finally, a gaseous outer layer. 
 >
-> The planet has a bright and extensive system of rings, composed mainly of ice particles, with a smaller amount of rocky debris and dust. At least 146 moons orbit the planet, of which 63 are officially named; these do not include the hundreds of moonlets in the rings. Titan, Saturn's largest moon and the second largest in the Solar System, is larger (but less massive) than the planet Mercury and is the only moon in the Solar System that has a substantial atmosphere.
+> Saturn has a pale yellow hue due to ammonia crystals in its upper atmosphere. 
+> An electrical current within the metallic hydrogen layer is thought to 
+> give rise to Saturn's planetary magnetic field, which is weaker than Earth's, 
+> but which has a magnetic moment 580 times that of Earth due to Saturn's larger size. 
+> 
+> Saturn's magnetic field strength is around one-twentieth of Jupiter's. 
+> The outer atmosphere is generally bland and lacking in contrast, 
+> although long-lived features can appear. 
+> Wind speeds on Saturn can reach 1,800 kilometres per hour (1,100 miles per hour).
+>
+> The planet has a bright and extensive ring system composed mainly of ice particles, 
+> with a smaller amount of rocky debris and dust. 
+> At least 146 moons are known to orbit the planet, of which 63 are officially named; 
+> this does not include the hundreds of moonlets in its rings. 
+> [[Titan]], Saturn's largest moon and the second largest in the Solar System, 
+> is larger (while less massive) than the planet Mercury 
+> and is the only moon in the Solar System to have a substantial atmosphere.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturn)
 
@@ -243,3 +266,22 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 
 ### #is_/same_as :: [Saturn.secret](/_secret/Astronomy/Solar_System/Saturn.secret.md)
 
+
+# [[Saturn]] 
+
+#is_/part_of :: [[Saturn]] 
+
+![[Saturn.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

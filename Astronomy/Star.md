@@ -71,6 +71,8 @@ Wolfram_Language_entity_type: Star
 
 # [[Star]] 
 
+#is_/same_as :: [[../WikiData/WD~Star,523|WD~Star,523]] 
+
 ## #has_/text_of_/abstract 
 
 > A **Star** is a luminous spheroid of plasma held together by self-gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night; their immense distances from Earth make them appear as fixed points of light. The most prominent stars have been categorised into constellations and asterisms, and many of the brightest stars have proper names. Astronomers have assembled star catalogues that identify the known stars and provide standardized stellar designations. The observable universe contains an estimated 1022 to 1024 stars. Only about 4,000 of these stars are visible to the naked eye—all within the Milky Way galaxy.
@@ -83,6 +85,20 @@ Wolfram_Language_entity_type: Star
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star)
 
+```leaflet
+id: leaflet-map
+image: [[StarConstellations-Mercator-Black.png]]
+bounds:
+    - [90, -361]
+    - [-90, 271]
+height: 500px
+lat: 50
+long: 50
+markerFolder: ./Star/
+zoomFeatures: true 
+unit: meters
+darkMode: false
+```
 
 ## Confidential Links & Embeds: 
 
@@ -100,3 +116,5 @@ Wolfram_Language_entity_type: Star
 
 ### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
 
+
+![[_Star_DbFolder]]

@@ -1,4 +1,4 @@
-﻿---
+---
 canonical_SMILES: OC([*])=O
 chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Carboxylic-acid.svg"
 Commons_category: "Carboxylic acids"

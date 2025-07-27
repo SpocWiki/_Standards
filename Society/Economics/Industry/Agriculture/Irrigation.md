@@ -1,4 +1,4 @@
-﻿---
+---
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~water,283]]'
 Commons_category: Irrigation
 Commons_gallery: Irrigation
@@ -30,6 +30,10 @@ UMLS_CUI: C2936278
 U_S_National_Archives_Identifier: 10639786
 ---
 
+# [[Irrigation]] 
+
+ #is_/same_as :: [[../../../../WikiData/WD~Agricultural_irrigation,11453|WD~Agricultural_irrigation,11453]] 
+ 
 ## #has_/text_of_/abstract 
 
 > **Irrigation** (also referred to as watering of plants) is the practice of applying controlled amounts of water to land to help grow crops, landscape plants, and lawns. Irrigation has been a key aspect of agriculture for over 5,000 years and has been developed by many cultures around the world. Irrigation helps to grow crops, maintain landscapes, and revegetate disturbed soils in dry areas and during times of below-average rainfall. In addition to these uses, irrigation is also employed to protect crops from frost, suppress weed growth in grain fields, and prevent soil consolidation. It is also used to cool livestock, reduce dust, dispose of sewage, and support mining operations. Drainage, which involves the removal of surface and sub-surface water from a given location, is often studied in conjunction with irrigation.

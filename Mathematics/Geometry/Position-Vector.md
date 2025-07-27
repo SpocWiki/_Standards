@@ -1,7 +1,8 @@
-﻿---
+---
 aliases:
-- "location vector"
-- "radius vector"
+  - location vector
+  - radius vector
+  - position vector
 ---
 
 # [[Position-Vector]] 
