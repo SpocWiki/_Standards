@@ -5,7 +5,7 @@ aliases:
 title: Pinus
 ---
 
-#is_/instance_of :: [[../../../../../Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus|bio~Genus]] 
+#is_/instance_of :: [[../../../../../Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus|bio~Genus]] 
 
 ## Phylogeny 
 

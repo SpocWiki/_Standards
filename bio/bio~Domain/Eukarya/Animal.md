@@ -95,7 +95,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishin
 # [[Animals]] 
 
 
-![Grasshopper](Animals/grasshopper.gif) ![](Animals/1618ctenophore.jpg) ![](Animals/haliclona.jpg) ![](Animals/haliplanella.gif) 
+![Grasshopper](Animal/grasshopper.gif) ![](Animal/1618ctenophore.jpg) ![](Animal/haliclona.jpg) ![](Animal/haliplanella.gif) 
 
 Animalia and their sibling groups within the domain Eukaryota share a common ancestry.
 
@@ -218,37 +218,37 @@ of animals and their sibling groups within the broader context of eukaryotic div
 
 -   » Sub-Groups
 
-    -   [Bilateria](Animals/Bilateria.md)
-    -   [Myxozoa](Animals/Myxozoa.md)
-    -   [Cnidaria](Animals/Cnidaria.md)
-    -   [Ctenophora](Animals/Ctenophora.md)
-    -   [Placozoa](Animals/Placozoa.md)
-    -   [Sponge](Animals/Sponge.md)
+    -   [Bilateria](Animal/Bilateria.md)
+    -   [Myxozoa](Animal/Myxozoa.md)
+    -   [Cnidaria](Animal/Cnidaria.md)
+    -   [Ctenophora](Animal/Ctenophora.md)
+    -   [Placozoa](Animal/Placozoa.md)
+    -   [Sponge](Animal/Sponge.md)
 
 ## Title Illustrations
 
 ----------------------------------------------------------------------------------------
-![A colorful grasshopper, Dactylotum variegatum](Animals/grasshopper.gif)
+![A colorful grasshopper, Dactylotum variegatum](Animal/grasshopper.gif)
   Scientific Name ::  Dactylotum variegatum 
   Location ::        Arizona
   Comments          A colorful grasshopper (Bilateria)
   Copyright ::         © 1995 [Joseph L. Spencer](http://www.inhs.uiuc.edu/staff/index.php?action=list&user_name=spencer1) 
 
 ----------------------------------------------------------------------------------------
-![A comb jelly (Ctenophora) from the Texas State Aquarium](Animals/1618ctenophore.jpg)
+![A comb jelly (Ctenophora) from the Texas State Aquarium](Animal/1618ctenophore.jpg)
   Scientific Name ::  Ctenophora
   Comments          A comb jelly from the Texas State Aquarium
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ----------------------------------------------------------------------------
-![A sponge, Haliclona](Animals/haliclona.jpg)
+![A sponge, Haliclona](Animal/haliclona.jpg)
   Scientific Name ::  Haliclona
   Comments          A sponge (Porifera)
   Creator           Photograph by David Remsen
   Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 -------------------------------------------------------------------------------
-![A sea anemone, Haliplanella luciae](Animals/haliplanella.gif)
+![A sea anemone, Haliplanella luciae](Animal/haliplanella.gif)
   Scientific Name ::     Haliplanella luciae
   Comments             A sea anemone (Cnidaria)
   Acknowledgements     Photograph from Gray Museum Slide Collection

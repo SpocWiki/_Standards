@@ -914,15 +914,15 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
 
 ### #is_/same_as :: [Eukarya](Eukarya.md) 
 
-### #is_/same_as :: [Eukaryotes.public](/_public/bio/bio~Domain/Eukaryotes.public.md) 
+### #is_/same_as :: [Eukaryotes.public](/_public/bio/bio~Domain/Eukarya.public.md) 
 
-### #is_/same_as :: [Eukaryotes.internal](/_internal/bio/bio~Domain/Eukaryotes.internal.md) 
+### #is_/same_as :: [Eukaryotes.internal](/_internal/bio/bio~Domain/Eukarya.internal.md) 
 
-### #is_/same_as :: [Eukaryotes.protect](/_protect/bio/bio~Domain/Eukaryotes.protect.md) 
+### #is_/same_as :: [Eukaryotes.protect](/_protect/bio/bio~Domain/Eukarya.protect.md) 
 
-### #is_/same_as :: [Eukaryotes.private](/_private/bio/bio~Domain/Eukaryotes.private.md) 
+### #is_/same_as :: [Eukaryotes.private](/_private/bio/bio~Domain/Eukarya.private.md) 
 
-### #is_/same_as :: [Eukaryotes.personal](/_personal/bio/bio~Domain/Eukaryotes.personal.md) 
+### #is_/same_as :: [Eukaryotes.personal](/_personal/bio/bio~Domain/Eukarya.personal.md) 
 
-### #is_/same_as :: [Eukaryotes.secret](/_secret/bio/bio~Domain/Eukaryotes.secret.md)
+### #is_/same_as :: [Eukaryotes.secret](/_secret/bio/bio~Domain/Eukarya.secret.md)
 

@@ -20,7 +20,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdo
 
 #is_/same_as :: [[../../../WikiData/WD~Kingdom,36732]] 
 #has_/prev_item :: [[../../bio~Domain]] 
-#has_/next_item :: [[Animals/Bilateria/bio~Class]] 
+#has_/next_item :: [[Animal/Bilateria/bio~Class]] 
 
 ## #has_/text_of_/abstract 
 
