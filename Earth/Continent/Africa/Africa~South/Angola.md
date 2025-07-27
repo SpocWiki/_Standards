@@ -474,6 +474,7 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 [has_place_longitude::13.23]
 [has_place_latitude::-8.8]
 
+#is_/same_as :: [[../../../../WikiData/WD~Angola,916|WD~Angola,916]] 
 
 ## #has_/text_of_/abstract 
 

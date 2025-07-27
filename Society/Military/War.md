@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: War
 associated_hazard:
 - '[[_Standards/WikiData/WD~casualty,1056901]]'
