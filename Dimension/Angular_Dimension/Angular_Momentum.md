@@ -6,7 +6,9 @@ aliases:
 
 # [[Angular_Momentum]] 
 
-[[Angular_Momentum]] is the Product of [[../Dim~Mass|Dim~Mass]] and [[../Linear_Dimension/Dim~Speed]]. 
+#is_/same_as :: [[../../WikiData/WD~Angular_momentum,161254|WD~Angular_momentum,161254]] 
+
+[[Dim~Angular_Momentum]] is the Product of [[../Dim~Mass|Dim~Mass]] and [[../Linear_Dimension/Dim~Speed]]. 
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
