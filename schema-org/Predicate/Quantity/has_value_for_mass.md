@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mass
 - mass
@@ -24,7 +24,9 @@ title: "is_a_mass Class"
 type: Type
 ---
 
-# [[mass]] 
+# [[has_value_for_mass]] 
+
+#[[has_value_for_mass]]] 
 
 Class of all mass-value statements.
 
