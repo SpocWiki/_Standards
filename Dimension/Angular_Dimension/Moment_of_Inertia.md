@@ -1,9 +1,9 @@
 
 # [[Moment_of_Inertia]] 
 
-#is_/similar_to :: [[../Dim~Mass]] 
+#is_/similar_to :: [[../Mass]] 
 
-The [[Dim~Moment_of_Inertia]] is the angular Equivalent to [[../Dim~Mass|Dim~Mass]] in [[Linear_Dimension]]. 
+The [[Dim~Moment_of_Inertia]] is the angular Equivalent to [[../Mass|Mass]] in [[Linear_Dimension]]. 
 
 
 ## Confidential Links & Embeds: 

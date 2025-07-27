@@ -1,7 +1,7 @@
 
 # [[Dim~Energy]] 
 
-Energy and [[../Dim~Mass]] are convertible, 
+Energy and [[../Mass]] are convertible, 
 but at low-energy, the Change in Mass is negligible. 
 
 It's SI Unit is the [[../../Unit/SI-Unit/derived_Unit/Unit~Joule]].  
