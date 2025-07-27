@@ -51,13 +51,15 @@ aliases:
 # [[Angle]] 
 
 #is_a_ :: [[Pseudo-Vector]] 
+#is_/similar_to :: [[Vector]] 
 
 ## #has_/parts 
 
 - Magnitude 
 - Orientation 
 
-3D Angles have 3 Components. 
+3D Angles have 3 Components, like a 3D Vector, but unlike the Vector, 
+it switches Sign when flipping 2 . 
 
 ## #has_/text_of_/abstract 
 
