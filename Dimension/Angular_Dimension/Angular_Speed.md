@@ -11,7 +11,7 @@ aliases:
 #is_a_ :: [[../../Dimension]] 
 #Dimension 
 
-Speed is the first Derivative of the [[../../Mathematics/Geometry/Rotation-Vector|Rotation-Vector]] by [[../Dim~Time]]. 
+Speed is the first Derivative of the [[../../Mathematics/Geometry/Angle|Rotation-Vector]] by [[../Dim~Time]]. 
 
 #has_/unit_for_ :: "[[]]" 
 

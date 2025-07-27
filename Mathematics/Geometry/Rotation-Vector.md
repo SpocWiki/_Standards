@@ -1,6 +1,0 @@
----
-aliases:
-  - angular vector
----
-
-
