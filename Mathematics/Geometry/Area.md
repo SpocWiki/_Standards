@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: C152
 Commons_category: Area
 defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A=\\iint \\mathrm {d} x\\mathrm {d} y}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n        <mo>=</mo>\n        <mo>&#x222C;<!-- ∬ --></mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">d</mi>\n        </mrow>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">d</mi>\n        </mrow>\n        <mi>y</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A=\\iint \\mathrm {d} x\\mathrm {d} y}</annotation>\n  </semantics>\n</math>"
@@ -42,9 +42,20 @@ Wikidata_property: area
 
 ## #has_/text_of_/abstract 
 
-> **Area** is the measure of a region's size on a surface. The area of a plane region or plane area refers to the area of a shape or planar lamina, while surface area refers to the area of an open surface or the boundary of a three-dimensional object. Area can be understood as the amount of material with a given thickness that would be necessary to fashion a model of the shape, or the amount of paint necessary to cover the surface with a single coat. It is the two-dimensional analogue of the length of a curve (a one-dimensional concept) or the volume of a solid (a three-dimensional concept).
+> **Area** is the measure of a region's size on a surface. 
+> The area of a plane region or plane area refers to the area of a shape or planar lamina, 
+> while surface area refers to the area of an open surface 
+> or the boundary of a three-dimensional object. 
+> 
+> Area can be understood as the amount of material with a given thickness 
+> that would be necessary to fashion a model of the shape, 
+> or the amount of paint necessary to cover the surface with a single coat. 
+> 
+> It is the two-dimensional analogue of the length of a curve (a one-dimensional concept) 
+> or the volume of a solid (a three-dimensional concept).
 >
-> Two different regions may have the same area (as in squaring the circle); by synecdoche, "area" sometimes is used to refer to the region, as in a "polygonal area".
+> Two different regions may have the same area (as in squaring the circle); 
+> by synecdoche, "area" sometimes is used to refer to the region, as in a "polygonal area".
 >
 > The area of a shape can be measured by comparing the shape to squares of a fixed size. In the International System of Units (SI), the standard unit of area is the square metre (written as m2), which is the area of a square whose sides are one metre long.  A shape with an area of three square metres would have the same area as three such squares.  In mathematics, the unit square is defined to have area one, and the area of any other shape or surface is a dimensionless real number.
 >
