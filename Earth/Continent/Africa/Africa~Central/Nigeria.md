@@ -80,6 +80,7 @@ ethnic_group:
 - "[[_Standards/WikiData/WD~Hausa_people,33938]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Nigeria,207512]]"
 language_used:
+- '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Okpe,268924]]'
 - '[[_Standards/WikiData/WD~Kulu,425973]]'
 - '[[_Standards/WikiData/WD~Tangale,529921]]'
@@ -409,7 +410,6 @@ language_used:
 - '[[_Standards/WikiData/WD~Tsucuba,62603062]]'
 - '[[_Standards/WikiData/WD~Ganang,63163361]]'
 - '[[_Standards/WikiData/WD~Yotti,63341186]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Abanyom,7502]]'
 - '[[_Standards/WikiData/WD~Bete,32932]]'
 - '[[_Standards/WikiData/WD~Igbo,33578]]'
@@ -1040,9 +1040,28 @@ Capital :: [[Abuja]]
 > The Nok culture, c. 1500 BC, marks one of the earliest known civilizations in the region. The Hausa Kingdoms inhabited the north, with the Edo Kingdom of Benin in the south and Igbo Kingdom of Nri in the southeast. In the southwest, the Yoruba Ife Empire was succeeded by the Oyo Empire. The present day territory of Nigeria was home to a vast array of city-states.: 136  In the early 19th century the Fula jihads culminated in the Sokoto Caliphate. The modern state originated with British colonialization in the 19th century, taking its present territorial shape with the merging of the Southern Nigeria Protectorate and the Northern Nigeria Protectorate in 1914. The British set up administrative and legal structures and incorporated traditional monarchs as a form of indirect rule. Nigeria became a formally independent federation on 1 October 1960. It experienced a civil war from 1967 to 1970, followed by a succession of military dictatorships and democratically elected civilian governments until achieving a stable government in the 1999 Nigerian presidential election.
 >
 > Nigeria is a multinational state inhabited by more than 250 ethnic groups speaking 500 distinct languages, 
-> all identifying with a wide variety of cultures. The three largest ethnic groups are the Hausa in the north, Yoruba in the west, and Igbo in the east, together constituting over 60% of the total population. The official language is English, chosen to facilitate linguistic unity at the national level. Nigeria's constitution ensures de jure freedom of religion, and it is home to some of the world's largest Muslim and Christian populations. Nigeria is divided roughly in half between Muslims, who live mostly in the north part of the country, and Christians, who live mostly in the south; indigenous religions, such as those native to the Igbo and Yoruba ethnicities, are in the minority.
+> all identifying with a wide variety of cultures. 
+> The three largest ethnic groups are the 
+> - Hausa in the north, 
+> - Yoruba in the west, and 
+> - Igbo in the east, 
+> together constituting over 60% of the total population. 
+> The official language is English, chosen to facilitate linguistic unity at the national level. 
+> Nigeria's constitution ensures de jure freedom of religion, 
+> and it is home to some of the world's largest Muslim and Christian populations. 
+> Nigeria is divided roughly in half between Muslims, who live mostly in the north part of the country, 
+> and Christians, who live mostly in the south; 
+> indigenous religions, such as those native to the Igbo and Yoruba ethnicities, are in the minority.
 >
-> Nigeria is a regional power in Africa and a middle power in international affairs. Nigeria's economy is the fourth-largest in Africa, the 53rd-largest in the world by nominal GDP, and 27th-largest by PPP. Nigeria is often referred to as the Giant of Africa by its citizens due to its large population and economy, and is considered to be an emerging market by the World Bank. Nigeria is a founding member of the African Union and a member of many international organizations, including the United Nations, the Commonwealth of Nations, NAM, the Economic Community of West African States, Organisation of Islamic Cooperation and OPEC. It is also a member of the informal MINT group of countries and is one of the Next Eleven economies.
+> Nigeria is a regional power in Africa and a middle power in international affairs. 
+> Nigeria's economy is the fourth-largest in Africa, the 53rd-largest in the world by nominal GDP, and 27th-largest by PPP. 
+> Nigeria is often referred to as the Giant of Africa by its citizens due to its large population and economy, 
+> and is considered to be an emerging market by the World Bank. 
+> 
+> Nigeria is a founding member of the African Union and a member of many international organizations, 
+> including the United Nations, the Commonwealth of Nations, NAM, 
+> the Economic Community of West African States, Organisation of Islamic Cooperation and OPEC. 
+> It is also a member of the informal MINT group of countries and is one of the Next Eleven economies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nigeria)
 

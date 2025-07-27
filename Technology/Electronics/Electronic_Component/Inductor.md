@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: 
 Commons_category: Inductors
 Commons_gallery: Inductor
