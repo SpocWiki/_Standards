@@ -31,47 +31,35 @@ Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Ankylosaurus"]
 aliases:
   - Ankylosaurus
 ---
-﻿---
-Commons_category: Ankylosaurus
-Commons_gallery: Ankylosaurus
-end_time: -65000000-01-01
-has_id_wikidata: Q40621
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaur%20head%20-%20cast%20-%20Custer%20County%20Montana%20-%20Museum%20of%20the%20Rockies%20-%202013-07-08.jpg"
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-length: 8
-location_of_discovery:
-- '[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]'
-- '[[_Standards/WikiData/WD~Ferris_Formation,5445371]]'
-- '[[_Standards/WikiData/WD~Lance_Formation,6483389]]'
-- '[[_Standards/WikiData/WD~Scollard_Formation,7434305]]'
-- '[[_Standards/WikiData/WD~Frenchman_Formation,14874947]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
-mass: 6
-parent_taxon: '[[_Standards/WikiData/WD~Ankylosaurini,110051810]]'
-size_comparison_diagram:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20estimated%20size%2001.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20Scale%20V2.svg"
-start_time: -68000000-01-01
-subreddit: ankmemes
-taxon_name: Ankylosaurus
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
-title: Ankylosauria
-Wolfram_Language_entity_code: "Entity[\"Dinosaur\", \"Genus:Ankylosaurus\"]"
----
 
 # [[Ankylosauria]]
 
 Armored-plated dinosaurs 
 
 ![](Ankylosauria/edmontonia.jpg)
-#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Ankylosaurus,40621|WD~Ankylosaurus,40621]] 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Ankylosaurus,40621|WD~Ankylosaurus,40621]]  
 
 ## #has_/text_of_/abstract 
 
-> **Ankylosauria** is a group of herbivorous dinosaurs of the clade Ornithischia. It includes the great majority of dinosaurs with armor in the form of bony osteoderms, similar to turtles. Ankylosaurs were bulky quadrupeds, with short, powerful limbs. They are known to have first appeared in North Africa during the Middle Jurassic, and persisted until the end of the Late Cretaceous. The two main families of ankylosaurians, Nodosauridae and Ankylosauridae primarily originated from the Northern Hemisphere (North America, Europe and Asia), but the more basal Parankylosauria originated from southern Gondwana (South America, Australia and Antarctica) during the Cretaceous.
+> **Ankylosauria** is a group of herbivorous dinosaurs of the clade Ornithischia. 
+> It includes the great majority of 
+> dinosaurs with armor in the form of bony osteoderms, similar to turtles. 
+> 
+> Ankylosaurs were bulky quadrupeds, with short, powerful limbs. 
+> They are known to have first appeared in North Africa during the Middle Jurassic, 
+> and persisted until the end of the Late Cretaceous. 
+> 
+> The two main families of ankylosaurians, Nodosauridae and Ankylosauridae 
+> primarily originated from the Northern Hemisphere (North America, Europe and Asia), 
+> but the more basal Parankylosauria originated from southern Gondwana 
+> (South America, Australia and Antarctica) during the Cretaceous.
 >
-> Ankylosauria was first named by Henry Fairfield Osborn in 1923. In the Linnaean classification system, the group is usually considered either a suborder or an infraorder. It is contained within the group Thyreophora, which also includes the stegosaurs, armored dinosaurs known for their combination of plates and spikes.
+> Ankylosauria was first named by Henry Fairfield Osborn in 1923. 
+> In the Linnaean classification system, the group is usually considered 
+> either a suborder or an infraorder. 
+> It is contained within the group Thyreophora, which also includes the stegosaurs, 
+> armored dinosaurs known for their combination of plates and spikes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ankylosauria) 
 
@@ -79,37 +67,39 @@ Armored-plated dinosaurs
 
 [Kenneth Carpenter](http://www.tolweb.org/)
 
-The ankylosaurs, or armored-plated dinosaurs, first appeared in the
-Kimmeridgian (\~156-152 my) of the Late Jurassic, and persisted 91
-million years until they became extinct at the end of the Cretaceous (65
-my). They had a global distribution, including Antarctica (Gasparini et
-al., 1996). As fossils, ankylosaurs are most abundant in upper Lower
-Cretaceous strata (Barremian to Albian, \~127-98.2 my) and in upper
-Upper Cretaceous strata (Campanian and Maastrichtian, \~83.5-65 my)
-(Carpenter, 1990, 1997a,b; Carpenter and Kirkland 1998; Carpenter et al,
-1999). Not surprisingly, these intervals also mark their greatest
-taxonomic diversity. The specimens from the Upper Cretaceous include
-some exceptionally well preserved skeletons with much of the armor
-preserved in its original position (Carpenter, 1982; Maryanska, 1977).
+The ankylosaurs, or armored-plated dinosaurs, first appeared in the Kimmeridgian (\~156-152 my) 
+of the Late Jurassic, and persisted 91 million years 
+until they became extinct at the end of the Cretaceous (65 my). 
 
-Ankylosaurs from the Kimmeridgian of Colorado and Wyoming include two
-taxa, *Gargoyleosaurus* and *Mymoorapelta* from the dinosaur-rich
-Morrison Formation (Carpenter et al, 1998; Kirkland and Carpenter,
-1994). These two taxa belong to the primitive ankylosaur family
-*Polacanthidae* (Carpenter 2001), first identified from the Lower
-Cretaceous of Europe (Mantell, 1833). One member, *Gastonia*, is perhaps
-the single most abundant ankylosaur known. It is represented by
-thousands of elements from three bone beds, as well as a few isolated
-occurrences, in the Cedar Mountain Formation of eastern Utah. One
-monospecific bonebed contains a minimum of 22 individuals (Carpenter, in
-preparation).
+They had a global distribution, including Antarctica (Gasparini et al., 1996). 
+As fossils, ankylosaurs are most abundant in upper Lower Cretaceous strata 
+(Barremian to Albian, \~127-98.2 my) and in upper Upper Cretaceous strata 
+(Campanian and Maastrichtian, \~83.5-65 my)
+(Carpenter, 1990, 1997a,b; Carpenter and Kirkland 1998; Carpenter et al, 1999). 
 
-*Minmi* is an enigmatic ankylosaur from the Lower Cretaceous of
-Australia. It is more derived than *Scelidosaurus* in having a skull
-that is wider than tall, closed opening in front of the orbit and atop
-the skull, and a nearly closed hip socket. However, it lacks any of the
-derived characters that would place it in one of the three ankylosaur
-families (Carpenter, 2001).
+Not surprisingly, these intervals also mark their greatest taxonomic diversity. 
+The specimens from the Upper Cretaceous 
+include some exceptionally well preserved skeletons 
+with much of the armor preserved in its original position (Carpenter, 1982; Maryanska, 1977).
+
+Ankylosaurs from the Kimmeridgian of Colorado and Wyoming include two taxa, 
+*Gargoyleosaurus* and *Mymoorapelta* from the dinosaur-rich Morrison Formation 
+(Carpenter et al, 1998; Kirkland and Carpenter, 1994). 
+These two taxa belong to the primitive ankylosaur family *Polacanthidae* (Carpenter 2001), 
+first identified from the Lower Cretaceous of Europe (Mantell, 1833). 
+
+One member, *Gastonia*, is perhaps the single most abundant ankylosaur known. 
+It is represented by thousands of elements from three bone beds, 
+as well as a few isolated occurrences, in the Cedar Mountain Formation of eastern Utah. 
+
+One monospecific bonebed contains a minimum of 22 individuals (Carpenter, in preparation).
+
+*Minmi* is an enigmatic ankylosaur from the Lower Cretaceous of Australia. 
+It is more derived than *Scelidosaurus* in having a skull that is wider than tall, 
+closed opening in front of the orbit and atop the skull, and a nearly closed hip socket. 
+
+However, it lacks any of the derived characters 
+that would place it in one of the three ankylosaur families (Carpenter, 2001).
 
 Ankylosaurs underwent their greatest evolution during the Cretaceous
 (142-65 my), especially in the northern hemisphere. The Early Cretaceous
