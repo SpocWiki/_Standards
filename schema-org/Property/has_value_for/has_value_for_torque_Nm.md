@@ -1,7 +1,5 @@
-﻿---
+---
 aliases:
-- torque
-- torque
 - torque
 - has_value_for_torque_Nm
 confidential: public
@@ -24,7 +22,7 @@ title: has_torque
 type: Predi_Quantity
 ---
 
-Predicate to describe the Quantity of EngineSpecification.
+Predicate to describe the Quantity of [[../../../fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification|FileClass~EngineSpecification]].
 
 [ #is_/part_of :: https://auto.schema.org ]
 

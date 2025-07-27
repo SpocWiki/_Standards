@@ -3,8 +3,8 @@
 
 #is_/similar_to :: [[../Linear_Dimension/Dim~Yank|Dim~Yank]] 
 
-[[Rotatum]] is the Change in [[Dim~Torque]] over Time, 
-i.e. the Derivative of [[Dim~Torque]] by [[../Dim~Time]], 
+[[Rotatum]] is the Change in [[../Linear_Dimension/Torque]] over Time, 
+i.e. the Derivative of [[../Linear_Dimension/Torque]] by [[../Dim~Time]], 
 or equivalently the 2nd Derivative of [[Angular_Momentum|Angular_Momentum]] by [[../Dim~Time]]. 
 
 The corresponding [[../Linear_Dimension]] is [[Dim~Yank]]. 
