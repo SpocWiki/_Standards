@@ -40,6 +40,10 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Contents_Portals,500886
 Wikidata_property: area
 ---
 
+# [[Area]] 
+
+#is_/same_as :: [[../../WikiData/WD~Area,11500|WD~Area,11500]] 
+
 ## #has_/text_of_/abstract 
 
 > **Area** is the measure of a region's size on a surface. 
