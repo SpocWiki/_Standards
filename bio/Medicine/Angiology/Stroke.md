@@ -76,7 +76,7 @@ WordLift_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stroke](/_Standards/bio/Medicine/Disease/Stroke.md) 
+### #is_/same_as ::[Stroke](Stroke.md)) 
 
 ### #is_/same_as :: [Stroke.public](/_public/bio/Medicine/Disease/Stroke.public.md) 
 
