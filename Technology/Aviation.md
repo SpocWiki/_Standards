@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Aviation
 Commons_gallery: Aviation
 described_by_source:
