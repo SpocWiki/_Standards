@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Apricot
 - Apricots
@@ -56,8 +56,8 @@ USDA_NDB_number:
 
 # [[Apricot]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Apricot,3733836|WD~Apricot,3733836]]
 #is_/similar_to :: [[Peach]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Apricot,3733836|WD~Apricot,3733836]]
 
 ## #has_/text_of_/abstract 
 

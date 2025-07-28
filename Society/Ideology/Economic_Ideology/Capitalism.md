@@ -106,7 +106,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Capitalism::qk623\"]"
 > whereas prices and the distribution of goods and services are mainly 
 > determined by __competition in goods and services markets__.
 >
-> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian|historians]], political economists, and [[../../Sociology/Sociologist|sociologists]] 
+> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History/Historian|historians]], political economists, and[[../../Anthropology/Sociology/Sociologist|sociologists]]] 
 > have adopted different perspectives in their analyses of capitalism 
 > and have recognized various forms of it in practice. 
 > 

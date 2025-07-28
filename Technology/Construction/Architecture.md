@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2216
 Colon_Classification: NA
 Commons_category: Architecture

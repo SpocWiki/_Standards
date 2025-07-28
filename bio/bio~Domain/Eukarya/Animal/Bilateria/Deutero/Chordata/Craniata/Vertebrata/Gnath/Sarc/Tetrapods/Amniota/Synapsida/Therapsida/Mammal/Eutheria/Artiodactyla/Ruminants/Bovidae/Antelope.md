@@ -1,10 +1,50 @@
-﻿---
+---
 title: Antilopinae
+has_id_wikidata: Q25894
+aliases:
+  - Antelope
+  - Antilopinae
+taxon_known_by_this_common_name:
+  - "[[_Standards/WikiData/WD~Reduncinae,132631]]"
+  - "[[_Standards/WikiData/WD~Pantholops_hodgsonii,272293]]"
+  - "[[_Standards/WikiData/WD~duiker,273997]]"
+  - "[[_Standards/WikiData/WD~Tragelaphus,311375]]"
+  - "[[_Standards/WikiData/WD~Antilopinae,462736]]"
+  - "[[_Standards/WikiData/WD~Alcelaphinae,615263]]"
+  - "[[_Standards/WikiData/WD~Boselaphini,722385]]"
+  - "[[_Standards/WikiData/WD~Hippotraginae,725271]]"
+  - "[[_Standards/WikiData/WD~Aepycerotinae,2825559]]"
+  - "[[_Standards/WikiData/WD~Nesotragus,26878806]]"
+  - "[[_Standards/WikiData/WD~Oreotraginae,46998365]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
+different_from: "[[_Standards/WikiData/WD~deer,29838690]]"
+instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+OmegaWiki_Defined_Meaning: "808314"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Blackbuck%20male%20female.jpg
+U_S_National_Archives_Identifier: "10647854"
+Commons_category: Antelopes
+MeSH_tree_code: B01.050.150.900.649.313.500.380.100
+Krugosvet_article: nauka_i_tehnika/biologiya/ANTILOPI.html
 ---
 
 # [[Antilopinae]] 
 
 ![ ](Antilopinae/Antidorcas_marsupialis.jpg)
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antelope,25894|WD~Antelope,25894]] 
 
 ## #has_/text_of_/abstract 
 

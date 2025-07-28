@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Leo Tolstoy"
 - "Count Lev Nikolayevich Tolstoy"
@@ -207,13 +207,17 @@ work_period_start_: 1847
 writing_language:
 - '[[_Standards/WikiData/WD~Russian,7737]]'
 - '[[_Standards/WikiData/WD~French,150]]'
+has_time_started: 1828-09-09
+has_time_stopped: 1910-11-20
 ---
 
-#has_/time_/started :: 1828-09-09 
-#has_/time_/stopped :: 1910-11-20 
+# [[Tolstoy,Leo]] 
+
+#has_/time_/started :: 1828-09-09
+#has_/time_/stopped :: 1910-11-20
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started`
 
 Tolstoy liked the Novels of [[Modern_Writers/Verne,Jules]]. 
 
@@ -268,7 +272,7 @@ often working by candlelight after attending to her household and family duties.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tolstoy,Leo](/_Standards/Society/Communication/Media/Book/Writer/Tolstoy,Leo.md) 
+### #is_/same_as :: [Tolstoy,Leo](Tolstoy,Leo.md) 
 
 ### #is_/same_as :: [Tolstoy,Leo.public](/_public/Society/Communication/Media/Book/Writer/Tolstoy,Leo.public.md) 
 

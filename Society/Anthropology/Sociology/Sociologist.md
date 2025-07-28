@@ -21,7 +21,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociologist](/_Standards/Society/Sociology/Sociologist.md) 
+### #is_/same_as ::[Sociologist](Sociologist.md)) 
 
 ### #is_/same_as :: [Sociologist.public](/_public/Society/Sociology/Sociologist.public.md) 
 

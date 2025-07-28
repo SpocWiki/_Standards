@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bovidae
 ---
 
@@ -89,7 +89,7 @@ Africa, Europe, Asia, North America.
     -   [Aepyceros melampus](Bovidae/Impala.md)
     -   [Cephalophinae](Bovidae/Cephalophinae.md)
     -   [Reduncinae](Bovidae/Reduncinae.md)
-    -   [Antilopinae](Bovidae/Antilopinae.md)
+    -   [Antelope](Bovidae/Antelope.md)
     -   [Neotragus](Bovidae/Neotragus.md)
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 

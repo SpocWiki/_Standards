@@ -33,7 +33,7 @@ title: Cephalophinae
     -   [Aepyceros melampus](Impala.md)
     -   Cephalophinae
     -   [Reduncinae](Reduncinae.md)
-    -   [Antilopinae](Antilopinae.md)
+    -  [Antelope](Antelope.md))
     -   [Neotragus](Neotragus.md)
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 

@@ -100,7 +100,7 @@ researches the Formation of "Society" and the Interaction with the Individual.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociology](/_Standards/Society/Sociology.md) 
+### #is_/same_as ::[Sociology](Sociology.md)) 
 
 ### #is_/same_as :: [Sociology.public](/_public/Society/Sociology.public.md) 
 

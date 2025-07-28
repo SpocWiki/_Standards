@@ -150,7 +150,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weber,Max](/_Standards/Society/Sociology/Sociologist/Weber,Max.md) 
+### #is_/same_as ::[Weber,Max](Weber,Max.md)) 
 
 ### #is_/same_as :: [Weber,Max.public](/_public/Society/Sociology/Sociologist/Weber,Max.public.md) 
 
