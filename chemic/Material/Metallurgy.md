@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: F191
 Commons_category: Metallurgy
 described_by_source:
