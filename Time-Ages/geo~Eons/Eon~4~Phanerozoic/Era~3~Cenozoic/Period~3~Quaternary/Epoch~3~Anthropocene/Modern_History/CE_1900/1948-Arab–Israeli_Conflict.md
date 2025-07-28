@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Arab–Israeli conflict"
 Commons_category: "Arab-Israeli conflict"
@@ -17,7 +17,9 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arab_Israeli_conflict,
 U_S_National_Archives_Identifier: 10637980
 ---
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Arab_Israeli_conflict,8669]] 
+# [[1948-Arab–Israeli_Conflict]] 
+
+#is_/same_as :: [[WD~Arab_Israeli_conflict,8669]] [[WD~Arab_Israeli_conflict,8669]]  
 
 #has_/time_/started :: `=this.has_time_started`
 #has_/time_/stopped ::  `=this.has_time_stopped`
