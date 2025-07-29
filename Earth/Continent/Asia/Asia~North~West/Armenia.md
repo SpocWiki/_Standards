@@ -432,10 +432,10 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 051 ]
 
-
-
 [ISO2::AM]
 [ISO3::ARM] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Armenia,399|WD~Armenia,399]] 
 
 ## #has_/map  
 

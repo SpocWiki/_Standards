@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Communication
 Commons_gallery: Communication
 has_characteristic:

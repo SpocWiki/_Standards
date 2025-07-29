@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: B11
 Commons_category: Arithmetic
 Commons_gallery: Arithmetic
@@ -33,6 +33,9 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_arithmetic,7112559]]'
 
 # [[Arithmetic]] 
 
+#is_/same_as :: [[../WikiData/WD~Arithmetic,11205|WD~Arithmetic,11205]] 
+
+## #has_/text_of_/abstract 
 
 > **Arithmetic** is an elementary branch of mathematics that studies 
 > numerical operations like addition, subtraction, multiplication, and division. 

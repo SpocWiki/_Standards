@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Music
 confidential: private

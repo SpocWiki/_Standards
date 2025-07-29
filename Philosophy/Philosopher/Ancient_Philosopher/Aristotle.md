@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Aristoteles
 attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
@@ -142,13 +142,16 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Aristotle::5pwch\"]"
 writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
 ---
 
+# [[Aristotle]] 
+
 #has_/time_/started :: -384-06-01 
 #has_/time_/stopped :: -322-06-01 
 #has_/duration_/years :: 62 
 #has_/previous_item :: [[Plato]] 
 
 [[../Early_modern_Philosopher/Hume,David]] 
-[[../../Stoicism]] 
+#has_/created ::  [[../../Stoicism]]  
+#is_/same_as :: [[../../../WikiData/WD~Aristotle,868|WD~Aristotle,868]] 
 
 Aristotle recognizes the distinction between Logic/Logos (Thinking and Describing) and Onto-Logic (the actual Reality).
 

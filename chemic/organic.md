@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Organic chemistry"
 All_Science_Journal_Classification_Codes: 1605

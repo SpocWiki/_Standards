@@ -474,12 +474,13 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 032 ]
-
-
+[	ISO3166-1-numeric	 :: 032 ] 
 
 [ISO2::AR]
 [ISO3::ARG] 
+
+#is_/same_as :: [[../../../WikiData/WD~Argentina,414|WD~Argentina,414]]  
+
 
 ## #has_/map  
 

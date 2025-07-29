@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard:
 - '[[_Standards/WikiData/WD~arsenic_poisoning,730249]]'
 - '[[_Standards/WikiData/WD~inorganic_arsenic_compound_exposure,21167830]]'
@@ -115,7 +115,7 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Arsenic\"]"
 ZVG_number: 8280
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Arsenic,871]] 
+# [[Arsenic]] 
 
 
 #chemic/Element 
@@ -140,6 +140,8 @@ ZVG_number: 8280
 [FormEnergy-kj-mol::34.76]
 (PeriodNo::4)
 (GroupNo::15)
+
+#is_/same_as :: [[../../../WikiData/WD~Arsenic,871]] 
 
 
 ## #has_/text_of_/abstract 

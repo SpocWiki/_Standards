@@ -1,4 +1,4 @@
-﻿---
+---
 ASHRAE_refrigerant_number: 740
 atomic_number: 18
 boiling_point: -185.85
@@ -64,8 +64,6 @@ U_S_National_Archives_Identifier: 10639898
 ZVG_number: 7180
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Argon,696]] 
-
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
@@ -90,6 +88,7 @@ ZVG_number: 7180
 (PeriodNo::3)
 (GroupNo::18)
 
+#is_/same_as :: [[../../../WikiData/WD~Argon,696]]  
 
 ## #has_/text_of_/abstract 
 
