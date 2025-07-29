@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3DApple001%20HQ-4K-PNG.stl"
 aliases:
 - Apfel

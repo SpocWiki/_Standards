@@ -1,4 +1,4 @@
-﻿---
+---
 area: 14200000
 BHCL_UUID: 2e650cb8-9fde-4a97-8480-d9f4ac4bf6b8
 Commons_category: Antarctica
@@ -127,6 +127,7 @@ markerFolder: ./Antarctica/
 [name-de::Antarktis]
 [ #has_/code  :: AN ]
 
+#is_/same_as :: [[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]] 
 
 ## #has_/text_of_/abstract 
 

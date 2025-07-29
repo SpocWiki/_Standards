@@ -1,4 +1,4 @@
-﻿---
+---
 APA_Dictionary_of_Psychology_entry: disease
 Colon_Classification: "L:4"
 Commons_category: "Diseases and disorders"

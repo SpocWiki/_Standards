@@ -21,12 +21,14 @@ has_list: "[[_Standards/WikiData/WD~contrasting_and_categorization_of_emotions,2
 topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Emotion_navbox,6122442]]"
   - "[[_Standards/WikiData/WD~Template_Emotion_sidebar,11172438]]"
-facet_of: "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
+facet_of:
+  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Plutchik-wheel%20in%20arabic.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Plutchik-wheel.svg
 instance_of: "[[_Standards/WikiData/WD~emotional_state,41537118]]"
-has_part_s_: "[[_Standards/WikiData/WD~emotion_in_Islam,126810953]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~emotion_in_Islam,126810953]]"
 Dewey_Decimal_Classification:
   - "152"
   - "152.4"
@@ -40,10 +42,16 @@ Stack_Exchange_tag: https://psychology.stackexchange.com/tags/emotion
 P8189: "987007543356205171"
 Provenio_UUID: adeeb81f-d996-4dbd-a384-3aff4525ce34
 UMLS_CUI: C0080101
-Regensburg_Classification: CP 3200
-MeSH_tree_code: F01.470
+Regensburg_Classification:
+  - CP 3200
+MeSH_tree_code:
+  - F01.470
 Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/EMOTSIYA.html
 Colon_Classification: S:52
+aliases:
+  - Emotions
+  - Gefühl
+  - Gefühle
 ---
 
 # [[Emotion]] 

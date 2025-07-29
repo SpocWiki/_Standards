@@ -38,7 +38,7 @@ title: Reduncinae
     -   [Aepyceros melampus](Impala.md)
     -   [Cephalophinae](Cephalophinae.md)
     -   Reduncinae
-    -   [Antilopinae](Antilopinae.md)
+    -  [Antelope](Antelope.md))
     -   [Neotragus](Neotragus.md)
     -   [Miscellaneous fossil         bovids](Miscellaneous_fossil_bovids)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~antimony_exposure,3973485]]'
 atomic_number: 51
 boiling_point: 2975

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Anime
 country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
 described_at_URL: "https://fanlore.org/wiki/Anime"
@@ -62,7 +62,6 @@ Universal_Decimal_Classification: 791.43-252.5(520)
 # [[Anime]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Anime,1107]] 
-
 
 ## #has_/text_of_/abstract 
 

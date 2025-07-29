@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: F
 Commons_category: Technology
 described_by_source:

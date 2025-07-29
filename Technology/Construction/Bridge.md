@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Bridges
 Commons_gallery: Bridge
 described_by_source:

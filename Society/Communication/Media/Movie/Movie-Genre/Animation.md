@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Animations
 Commons_gallery: Animation
 described_by_source:
@@ -39,11 +39,28 @@ UMLS_CUI: C0376650
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/animation"
 ---
 
+# [[Animation]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Animation,11425|WD~Animation,11425]] 
+
 ## #has_/text_of_/abstract 
 
-> **Animation** is a filmmaking technique whereby still images are manipulated to create moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets (cels) to be photographed and exhibited on film. Animation has been recognized as an artistic medium, specifically within the entertainment industry. Many animations are either traditional animations or computer animations made with computer-generated imagery (CGI). Stop motion animation, in particular claymation, has continued to exist alongside these other forms.
+> **Animation** is a filmmaking technique whereby still images are manipulated to create moving images. 
+> In traditional animation, images are drawn or painted by hand 
+> on transparent celluloid sheets (cels) to be photographed and exhibited on film. 
+> 
+> Animation has been recognized as an artistic medium, specifically within the entertainment industry. 
+> Many animations are either traditional animations 
+> or computer animations made with computer-generated imagery (CGI). 
+> 
+> Stop motion animation, in particular claymation, has continued to exist alongside these other forms.
 >
-> Animation is contrasted with live action, although the two do not exist in isolation. Many moviemakers have produced films that are a hybrid of the two. As CGI increasingly approximates photographic imagery, filmmakers can easily composite 3D animations into their film rather than using practical effects for showy visual effects (VFX).
+> Animation is contrasted with live action, although the two do not exist in isolation. 
+> Many moviemakers have produced films that are a hybrid of the two. 
+> 
+> As CGI increasingly approximates photographic imagery, 
+> filmmakers can easily composite 3D animations into their film 
+> rather than using practical effects for showy visual effects (VFX).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Animation) 
 

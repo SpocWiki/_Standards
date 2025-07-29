@@ -1,7 +1,8 @@
-﻿---
+---
 aliases:
 - "Antonio Vivaldi"
 - "Antonio Lucio Vivaldi"
+- Antonio_Vivaldi
 archives_at: "[[_Standards/WikiData/WD~Archivi_dell'Istituto_Italiano_Antonio_Vivaldi,116878246]]"
 BHCL_UUID:
 - b166fbce-43d2-4c62-b538-3d32f52d3cd8
@@ -110,6 +111,10 @@ student_of:
 work_period_end_: 1741
 work_period_start_: 1685
 ---
+
+# [[Vivaldi,Antonio]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Antonio_Vivaldi,1340|WD~Antonio_Vivaldi,1340]] 
 
 ## #has_/text_of_/abstract 
 
