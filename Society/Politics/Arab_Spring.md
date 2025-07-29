@@ -22,7 +22,7 @@ dissolved_abolished_or_demolished_date: 2012-12-01T00:00:00Z
 # [[Arab_Spring]] 
 
 #has_/time_/active :: 2011-04 
-#is_/same_as :: [[../../../../_Standards/WikiData/WD~Arab_Spring,33761|WD~Arab_Spring,33761]] 
+#is_/same_as :: [[../../WikiData/WD~Arab_Spring,33761|WD~Arab_Spring,33761]] 
 
 ## #has_/text_of_/abstract  
 
