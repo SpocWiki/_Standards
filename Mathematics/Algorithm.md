@@ -75,6 +75,9 @@ Commons_category: Algorithms
 
 #is_/same_as :: [[../WikiData/WD~Algorithm,8366]] 
 
+#is_/similar_to :: [[../../Knowledge/Process|Process]]  
+
+
 ## #has_/text_of_/abstract 
 
 > In mathematics and computer science, an **Algorithm** ( ) is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning).
