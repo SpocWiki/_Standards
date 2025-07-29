@@ -1,48 +1,51 @@
 ---
 atomic_number: 85
 boiling_point: 503
-canonical_SMILES: '[At]'
+canonical_SMILES: "[At]"
 CAS_Registry_Number: 7440-68-8
 chemical_formula: At
 Commons_category: Astatine
 Commons_gallery: Astatine
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]"
 DSSTOX_compound_identifier: DTXCID40147882
 electronegativity: 2.2
 element_symbol: At
 Gmelin_number: 40440
 has_id_wikidata: Q999
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085%20Astatine.svg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085%20Astatine.svg
 InChI: InChI=1S/At
 InChIKey: RYXHOMYVWAEKHL-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-location_of_discovery: '[[_Standards/WikiData/WD~United_States,30]]'
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+location_of_discovery:
+  - "[[_Standards/WikiData/WD~United_States,30]]"
 MeSH_tree_code:
-- D01.268.271.110
-- D01.268.380.075
-- D01.496.749.305.110
-named_after: '[[_Standards/WikiData/WD~instability,405372]]'
+  - D01.268.271.110
+  - D01.268.380.075
+  - D01.496.749.305.110
+named_after: "[[_Standards/WikiData/WD~instability,405372]]"
 OmegaWiki_Defined_Meaning: 155974
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
-plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg"
-pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav
 PubChem_CID: 5460479
 SpocWebEntityId: 21980
 subclass_of:
-- '[[_Standards/WikiData/WD~metalloid,19596]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~metalloid,19596]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 time_of_discovery_or_invention: 1940
 type: Element
 UMLS_CUI: C0004091
 Unicode_character: 砈
+aliases:
+  - Astat
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Astatine,999]] 
+# [[Astatine]] 
 
 
 #chemic/Element 
@@ -67,6 +70,8 @@ Unicode_character: 砈
 [FormEnergy-kj-mol::0]
 (PeriodNo::6)
 (GroupNo::17)
+
+#is_/same_as :: [[../../../WikiData/WD~Astatine,999]] 
 
 
 ## #has_/text_of_/abstract 
