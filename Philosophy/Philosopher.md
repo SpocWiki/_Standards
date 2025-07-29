@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Philosophers
 - Philosopher

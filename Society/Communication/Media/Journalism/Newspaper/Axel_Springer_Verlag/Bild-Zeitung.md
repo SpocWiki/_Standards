@@ -18,7 +18,7 @@ aliases:
 > Bild has been described as "notorious for its mix of gossip, inflammatory language, and sensationalism" 
 > and as having a huge influence on German politicians. 
 > Its nearest English-language stylistic and journalistic equivalent is often considered to be 
-> the British national newspaper [[The_Sun]], the second-highest-selling European tabloid newspaper.
+> the British national newspaper[[../The_Sun]]], the second-highest-selling European tabloid newspaper.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bild) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Arthropoda
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -93,7 +93,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 ![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg)  ![jumping spider](Arthropoda/jumping_spider.gif)  ![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif) 
 
-#is_/same_as :: [[../../WikiData/WD~Arthropoda,1360|WD~Arthropoda,1360]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Arthropoda,1360|WD~Arthropoda,1360]]   
 
 ## #has_/text_of_/abstract 
 

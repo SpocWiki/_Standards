@@ -1,4 +1,4 @@
-﻿---
+---
 ACM_Classification_Code_2012_: 10010178
 All_Science_Journal_Classification_Codes: 1702
 Baidu_Tieba_name: 人工智能
@@ -155,26 +155,59 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"ArtificialIntellige
 
 # [[Artificial_Intelligence]] 
 
+#is_/same_as :: [[../../WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]]  
+
+
 ## #has_/text_of_/abstract 
 
-> **Artificial intelligence** (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.
+> Artificial intelligence (AI) is the capability of computational systems 
+> to perform tasks typically associated with human intelligence, 
+> such as learning, reasoning, problem-solving, perception, and decision-making. 
+> 
+> It is a field of research in computer science that develops and studies methods 
+> and software that enable machines to perceive their environment 
+> and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
 >
-> High-profile applications of AI include advanced web search engines (e.g., Google Search); recommendation systems (used by YouTube, Amazon, and Netflix); virtual assistants (e.g., Google Assistant, Siri, and Alexa); autonomous vehicles (e.g., Waymo); generative and creative tools (e.g., ChatGPT and AI art); and superhuman play and analysis in strategy games (e.g., chess and Go). However, many AI applications are not perceived as AI: "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+> High-profile applications of AI include 
+> - advanced web search engines (e.g., Google Search); 
+> - recommendation systems (used by YouTube, Amazon, and Netflix); 
+> - virtual assistants (e.g., Google Assistant, Siri, and Alexa); 
+> - autonomous vehicles (e.g., Waymo); 
+> - generative and creative tools (e.g., language models and AI art); and 
+> - superhuman play and analysis in strategy games (e.g., chess and Go). 
+> 
+> However, many AI applications are not perceived as AI: 
+> "A lot of cutting edge AI has filtered into general applications, 
+> often without being called AI because once something becomes useful enough and common enough 
+> it's not labeled AI anymore."
 >
-> Various subfields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception, and support for robotics. General intelligence—the ability to complete any task performed by a human on an at least equal level—is among the field's long-term goals. To reach these goals, AI researchers have adapted and integrated a wide range of techniques, including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, operations research, and economics. AI also draws upon psychology, linguistics, philosophy, neuroscience, and other fields.
+> Various subfields of AI research are centered around particular goals and the use of particular tools. 
+> The traditional goals of AI research include learning, knowledge representation, 
+> natural language processing, perception, and support for robotics. 
+> 
+> To reach these goals, AI researchers have adapted and integrated a wide range of techniques, 
+> including search and mathematical optimization, formal logic, artificial neural networks, 
+> and methods based on statistics, operations research, and economics. 
+> 
+> AI also draws upon psychology, linguistics, philosophy, neuroscience, and other fields. 
+> Some companies, such as OpenAI, Google DeepMind and Meta, 
+> aim to create artificial general intelligence (AGI)—AI that can complete virtually any cognitive task at least as well as a human.
 >
-> Artificial intelligence was founded as an academic discipline in 1956, and the field went through multiple cycles of optimism throughout its history, followed by periods of disappointment and loss of funding, known as AI winters. Funding and interest vastly increased after 2012 when deep learning outperformed previous AI techniques. This growth accelerated further after 2017 with the transformer architecture, and by the early 2020s many billions of dollars were being invested in AI and the field experienced rapid ongoing progress in what has become known as the AI boom. The emergence of advanced generative AI in the midst of the AI boom and its ability to create and modify content exposed several unintended consequences and harms in the present and raised concerns about the risks of AI and its long-term effects in the future, prompting discussions about regulatory policies to ensure the safety and benefits of the technology.
+> Artificial intelligence was founded as an academic discipline in 1956, 
+> and the field went through multiple cycles of optimism throughout its history, 
+> followed by periods of disappointment and loss of funding, known as AI winters. 
+> 
+> Funding and interest vastly increased after 2012 
+> when graphics processing units started being used to accelerate neural networks 
+> and deep learning outperformed previous AI techniques. 
+> 
+> This growth accelerated further after 2017 with the transformer architecture. 
+> In the 2020s, an ongoing period of rapid progress in advanced generative AI became known as the AI boom. 
+> Generative AI's ability to create and modify content has led to several unintended consequences and harms, 
+> which has raised ethical concerns about AI's long-term effects and potential existential risks, 
+> prompting discussions about regulatory policies to ensure the safety and benefits of the technology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Artificial%20intelligence)  
-
-## Opaque Communication 
-
-Although generative AI uses (written) Language, this is not the most efficient. 
-
-### Gibberlink 
-Apart from binary HTTP Communication, it can also use [[Software/ggWave]] data-over.sound Protocol 
-as demonstrated in this Repo https://github.com/PennyroyalTea/gibberlink?tab=readme-ov-file 
-This is frightening. 
+> [Wikipedia](https://en.wikipedia.org/wiki/Artificial%20intelligence) 
 
 
 ## Confidential Links & Embeds: 

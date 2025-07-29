@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Artiodactyla
 - Paarhufer
@@ -36,6 +36,44 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Cetartiodactyla,27850]]'
 title: Artiodactyla
 ---
+
+# [[Artiodactyla]]
+
+## Even-toed ungulates 
+
+ ![Camelus_bactrianus](Artiodactyla/Camelus_bactrianus.jpg)  ![](Artiodactyla/bushpig.jpg) ![](Artiodactyla/Bison8B0C52EC0479.jpg)) 
+
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Artiodactyla,25329|WD~Artiodactyla,25329]] 
+
+## #has_/text_of_/abstract 
+
+> Artiodactyls are placental mammals belonging to the order **Artiodactyla** 
+> ( AR-tee-oh-DAK-tih-lə, from Ancient Greek  ἄρτιος, ártios 'even' and  δάκτυλος, dáktylos 'finger, toe'). 
+> 
+> Typically, they are ungulates which bear weight equally on two (an even number) of their five toes 
+> (the third and fourth, often in the form of a hoof). 
+> The other three toes are either present, absent, vestigial, or pointing posteriorly. 
+> 
+> By contrast, most perissodactyls bear weight on an odd number of the five toes. 
+> Another difference between the two orders is that many artiodactyls (except for Suina) 
+> digest plant cellulose in one or more stomach chambers rather than in their intestine (as perissodactyls do). 
+> 
+> Molecular biology, along with new fossil discoveries, has found that cetaceans (whales, dolphins, 
+> and porpoises) fall within this taxonomic branch, being most closely related to hippopotamuses. 
+> Some modern taxonomists thus apply the name Cetartiodactyla to this group, 
+> while others opt to include cetaceans within the existing name of Artiodactyla. 
+> 
+> Some researchers use "even-toed ungulates" to exclude cetaceans 
+> and only include terrestrial artiodactyls, making the term paraphyletic in nature.
+>
+> The roughly 270 land-based even-toed ungulate species include pigs, peccaries, hippopotamuses, antelopes, deer, giraffes, camels, llamas, alpacas, sheep, goats and cattle. 
+> 
+> Many are herbivores, but suids are omnivorous, and cetaceans are entirely carnivorous. 
+> Artiodactyls are also known by many extinct groups such as anoplotheres, cainotheriids, merycoidodonts, entelodonts, anthracotheres, basilosaurids, and palaeomerycids. 
+> 
+> Many artiodactyls are of great dietary, economic, and cultural importance to humans.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Artiodactyl) 
 
 ## Phylogeny 
 
@@ -85,43 +123,6 @@ title: Artiodactyla
     -   [Ruminants](Artiodactyla/Ruminants.md)
     -   [Miscellaneous fossil         artiodactyls](Miscellaneous_fossil_artiodactyls)
 
-# [[Artiodactyla]]
-
-## Even-toed ungulates 
-
- ![Camelus_bactrianus](Artiodactyla/Camelus_bactrianus.jpg)  ![](Artiodactyla/bushpig.jpg) ![](Artiodactyla/Bison8B0C52EC0479.jpg)) 
-
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Artiodactyla,25329|WD~Artiodactyla,25329]] 
-
-## #has_/text_of_/abstract 
-
-> Artiodactyls are placental mammals belonging to the order **Artiodactyla** 
-> ( AR-tee-oh-DAK-tih-lə, from Ancient Greek  ἄρτιος, ártios 'even' and  δάκτυλος, dáktylos 'finger, toe'). 
-> 
-> Typically, they are ungulates which bear weight equally on two (an even number) of their five toes 
-> (the third and fourth, often in the form of a hoof). 
-> The other three toes are either present, absent, vestigial, or pointing posteriorly. 
-> 
-> By contrast, most perissodactyls bear weight on an odd number of the five toes. 
-> Another difference between the two orders is that many artiodactyls (except for Suina) 
-> digest plant cellulose in one or more stomach chambers rather than in their intestine (as perissodactyls do). 
-> 
-> Molecular biology, along with new fossil discoveries, has found that cetaceans (whales, dolphins, 
-> and porpoises) fall within this taxonomic branch, being most closely related to hippopotamuses. 
-> Some modern taxonomists thus apply the name Cetartiodactyla to this group, 
-> while others opt to include cetaceans within the existing name of Artiodactyla. 
-> 
-> Some researchers use "even-toed ungulates" to exclude cetaceans 
-> and only include terrestrial artiodactyls, making the term paraphyletic in nature.
->
-> The roughly 270 land-based even-toed ungulate species include pigs, peccaries, hippopotamuses, antelopes, deer, giraffes, camels, llamas, alpacas, sheep, goats and cattle. 
-> 
-> Many are herbivores, but suids are omnivorous, and cetaceans are entirely carnivorous. 
-> Artiodactyls are also known by many extinct groups such as anoplotheres, cainotheriids, merycoidodonts, entelodonts, anthracotheres, basilosaurids, and palaeomerycids. 
-> 
-> Many artiodactyls are of great dietary, economic, and cultural importance to humans.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Artiodactyl) 
 
 ### Information on the Internet
 

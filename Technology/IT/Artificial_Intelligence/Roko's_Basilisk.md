@@ -1,5 +1,5 @@
 
-#is_/similar_to :: [[../../../../_private/Society/Communication/Media/books/Book-Genre/Novel/Hyperion(Simmons_novel)]] 
+#is_/similar_to :: [[../../../Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel)]] 
 
 ## #has_/text_of_/abstract 
 

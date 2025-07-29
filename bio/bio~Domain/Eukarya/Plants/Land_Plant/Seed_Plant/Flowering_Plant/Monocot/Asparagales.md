@@ -1,69 +1,32 @@
-﻿---
-title: Asparagales
 ---
-
-## Phylogeny 
-
--   « Ancestral Groups  
-    -   [Monocot](../Monocot.md)
-    -   [Flowering_Plant](../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../Land_Plant.md)
-    -   [Green plants](../../../../../Plants.md)
-    -  [Eukarya](../../../../../../Eukarya.md))
-    -   [Tree of Life](../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Monocotyledons
-    -   [Alismatanae](Alismatanae.md)
-    -   [Aranae](Aranae.md)
-    -   [Liliales](Liliales.md)
-    -   Asparagales
-    -   [Pandanales](Pandanales.md)
-    -   [Dioscoreales](Dioscoreales.md)
-    -   [Palms](Palms.md)
-    -   [Zingiberanae](Zingiberanae.md)
-    -   [Commelinanae](Commelinanae.md)
-
--   » Sub-Groups
-    -   [Hyacinthaceae](Asparagales/Hyacinthaceae.md)
-	-   *Agapanthaceae*
-	-   *Agavaceae*
-	-   *Alliaceae*
-	-   *Amaryllidaceae*
-	-   *Anemarrhenaceae*
-	-   *Anthericaceae*
-	-   *Aphyllanthaceae*
-	-   *Asparagaceae*
-	-   *Asphodelaceae*
-	-   *Asteliaceae*
-	-   *Behniaceae*
-	-   *Blandfordiaceae*
-	-   *Boryaceae*
-	-   *Convallariaceae*
-	-   *Doryanthaceae*
-	-   *Hemerocallidaceae*
-	-   *Herreriaceae*
-	-   *Hesperocallidaceae*
-	-   *[Hyacinthaceae](Asparagales/Hyacinthaceae.md "go to ToL page")*
-	    [(Hyacinthus, Ornithogalum, Scilla and their
-	    relatives)]
-	-   *Hypoxidaceae*
-	-   *Iridaceae*
-	-   *Ixioliriaceae*
-	-   *Lanariaceae*
-	-   *Laxmaniaceae*
-	-   *Orchidaceae*
-	-   *Tecophiliaceae*
-	-   *Themidaceae*
-	-   *Xanthorrhoeaceae*
-	-   *Xeronemataceae*
-
+title: Asparagales
+has_id_wikidata: Q26229
+parent_taxon: "[[_Standards/WikiData/WD~monocots,78961]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+ITIS_TSN: "897479"
+OmegaWiki_Defined_Meaning: "358558"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Asperge%20in%20bloei%20Asparagus%20officinalis.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Asparagus%20officinalis0b.jpg
+PAEnflowered_taxon_URL: https://www.paenflowered.org/apgii/asparagales
+EPPO_Code: 1ASGO
+P8189: "987007530396505171"
+Commons_gallery: Asparagales
+Commons_category: Asparagales
+taxon_name: Asparagales
+NBN_System_Key: NHMSYS0020824581
+taxon_common_name: 天门冬目
+MeSH_tree_code: B01.875.800.575.912.250.618.100
+---
 
 # [[Asparagales]] 
 
 ![Muscari neglectum](Asparagales/Muscari_neglectum00793.jpg)
 ![](Asparagales/Dracaena_draco.jpg)
 ![Anacamptis pyramidalis](Asparagales/Anacamptis_pyramidalis.jpg)
+
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Asparagales,26229|WD~Asparagales,26229]] 
 
 ## #has_/text_of_/abstract 
 
@@ -148,6 +111,64 @@ Location ::          Samos, Greece
 Comments            Orchidaceae
 Source Collection   [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::           © 2001 University of Basel, Basel, Switzerland 
+
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Monocot](../Monocot.md)
+    -   [Flowering_Plant](../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../Land_Plant.md)
+    -   [Green plants](../../../../../Plants.md)
+    -  [Eukarya](../../../../../../Eukarya.md))
+    -   [Tree of Life](../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Monocotyledons
+    -   [Alismatanae](Alismatanae.md)
+    -   [Aranae](Aranae.md)
+    -   [Liliales](Liliales.md)
+    -   Asparagales
+    -   [Pandanales](Pandanales.md)
+    -   [Dioscoreales](Dioscoreales.md)
+    -   [Palms](Palms.md)
+    -   [Zingiberanae](Zingiberanae.md)
+    -   [Commelinanae](Commelinanae.md)
+
+-   » Sub-Groups
+    -   [Hyacinthaceae](Asparagales/Hyacinthaceae.md)
+	-   *Agapanthaceae*
+	-   *Agavaceae*
+	-   *Alliaceae*
+	-   *Amaryllidaceae*
+	-   *Anemarrhenaceae*
+	-   *Anthericaceae*
+	-   *Aphyllanthaceae*
+	-   *Asparagaceae*
+	-   *Asphodelaceae*
+	-   *Asteliaceae*
+	-   *Behniaceae*
+	-   *Blandfordiaceae*
+	-   *Boryaceae*
+	-   *Convallariaceae*
+	-   *Doryanthaceae*
+	-   *Hemerocallidaceae*
+	-   *Herreriaceae*
+	-   *Hesperocallidaceae*
+	-   *[Hyacinthaceae](Asparagales/Hyacinthaceae.md "go to ToL page")*
+	    [(Hyacinthus, Ornithogalum, Scilla and their
+	    relatives)]
+	-   *Hypoxidaceae*
+	-   *Iridaceae*
+	-   *Ixioliriaceae*
+	-   *Lanariaceae*
+	-   *Laxmaniaceae*
+	-   *Orchidaceae*
+	-   *Tecophiliaceae*
+	-   *Themidaceae*
+	-   *Xanthorrhoeaceae*
+	-   *Xeronemataceae*
+
 
 
 ## Confidential Links & Embeds: 

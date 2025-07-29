@@ -33,7 +33,7 @@ Axel_Springer_Verlag
 > totaling up to 40 million unique users per month. 
 > IVW's data from June 2023 shows BILD receiving 504 million monthly visits and WELT achieving 127 million. 
 > In the [[../../../../../../Earth/Continent/America~North/USA|United States]], Axel Springer is ranked among the top four digital publishers, 
-> alongside [[USA_Today]], [[News_Corp]], and The [[../Newspaper/New_York_Times]].
+> alongside [[USA_Today]], [[News_Corp]], and The[[New_York_Times]]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Axel%20Springer%20SE) 
 

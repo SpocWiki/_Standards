@@ -1,36 +1,17 @@
-﻿---
+---
 title: Ascomycota
 ---
 
-## Phylogeny 
+# [[Ascomycota]]
 
--   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Fungi
-    -  [Basidiomycota](Basidiomycota.md))
-    -   Ascomycota
-    -  [Glomeromycota](Glomeromycota.md))
-    -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Zygomycota.md))
-
--   » Sub-Groups
-    -  [Pezizomycotina](Ascomycota/Pezizomycotina.md))
-
-# Ascomycota
-
+#is_/same_as :: [[../../../../WikiData/WD~Ascomycota,174726|WD~Ascomycota,174726]] 
 ## Sac Fungi 
-
-[John W. Taylor, Joey Spatafora, and Mary Berbee]()
 
 ![ ](Ascomycota/t.gif)
 ![ ](Ascomycota/scarlet_cup_fungus.gif)
 ![ ](Ascomycota/m.gif)
 ![](Ascomycota/p.gif)
 
-Containing group:[Fungi](../Fungi.md))
 
 ### Information on the Internet
 
@@ -77,6 +58,9 @@ Containing group:[Fungi](../Fungi.md))
     State University.
 
 ## Introduction
+
+[John W. Taylor, Joey Spatafora, and Mary Berbee]()
+
 
 The Ascomycota, or sac fungi, is monophyletic and accounts for
 approximately 75% of all described fungi. It includes most of the fungi
@@ -290,6 +274,24 @@ recognized as classes. Most of the recent molecular phylogenetic effort
 has been directed at this subphylum (reviewed in Lutzoni et al 2004,
 Spatafora et al 2006).
 
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Fungi](../Fungi.md))
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Fungi
+    -  [Basidiomycota](Basidiomycota.md))
+    -   Ascomycota
+    -  [Glomeromycota](Glomeromycota.md))
+    -   [Chytridiomycota](Chytridiomycota)
+    -  [Zygomycota](Zygomycota.md))
+
+-   » Sub-Groups
+    -  [Pezizomycotina](Ascomycota/Pezizomycotina.md))
+
+Containing group: [Fungi](../Fungi.md) 
 ### References
 
 Agrios, G. N. 1988. Plant Pathology, third edition. Academic Press, San

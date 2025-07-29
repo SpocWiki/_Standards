@@ -117,7 +117,7 @@ U_S_National_Archives_Identifier:
 
 # [[Newspaper]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Newspaper,11032]] 
+#is_/same_as ::[[../../../../WikiData/WD~Newspaper,11032]]] 
 
 
 ## #has_/text_of_/abstract 
@@ -138,7 +138,7 @@ U_S_National_Archives_Identifier:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newspaper](/_Standards/Society/Communication/Media/Newspaper.md) 
+### #is_/same_as ::[Newspaper](Newspaper.md)) 
 
 ### #is_/same_as :: [Newspaper.public](/_public/Society/Communication/Media/Newspaper.public.md) 
 

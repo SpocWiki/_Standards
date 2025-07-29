@@ -1,8 +1,43 @@
-﻿---
-aliases:
-- "Non Fiction"
-- nonfiction
 ---
+aliases:
+  - Non Fiction
+  - nonfiction
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+lang: en
+layout: 
+license: (c)copyrighted
+publish: false
+publishDate: 
+type: private_note
+has_id_wikidata: Q213051
+opposite_of:
+  - "[[_Standards/WikiData/WD~belletristic_literature,268416]]"
+  - "[[_Standards/WikiData/WD~fiction,8253]]"
+subclass_of: "[[_Standards/WikiData/WD~work,386724]]"
+instance_of: "[[_Standards/WikiData/WD~genre,483394]]"
+different_from: "[[_Standards/WikiData/WD~non_fiction_literature,27801]]"
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wa-fel%20LM%20warab%C3%AA.ogg
+IPTC_NewsCode: mediatopic/20000016
+IMDb_keyword:
+  - non-fiction
+  - nonfiction
+Commons_category: Non-fiction
+PhilPapers_topic: nonfiction
+---
+
+# [[Non-Fiction]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~non-fiction,213051]]
 
 ## #has_/text_of_/abstract 
 
@@ -54,3 +89,22 @@ aliases:
 
 ### #is_/same_as :: [Non-Fiction.secret](/_secret/Society/Communication/Media/Genre/Non-Fiction.secret.md)
 
+
+# [[Non-Fiction]] 
+
+#is_/part_of :: [[Non-Fiction]] 
+
+![[Non-Fiction.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

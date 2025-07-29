@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Umění
 Commons_gallery: Art
 described_by_source:
@@ -90,6 +90,7 @@ U_S_National_Archives_Identifier: 10637981
 # [[Art]] 
 
 #is_/same_as :: [[../../WikiData/WD~Art,735]] 
+#is_/same_as :: [[../../WikiData/WD~Arts,2018526|WD~Arts,2018526]] 
 
 ## #has_/text_of_/abstract 
 

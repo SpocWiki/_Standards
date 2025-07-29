@@ -147,7 +147,7 @@ X_Twitter_username:
 > both by significant margins the highest numbers for any newspaper in the United States; 
 > the total also included 296,330 print subscribers, 
 > making the Times the second-largest newspaper by print circulation in the United States, 
-> following The [[../Newspaper/Wall_Street_Journal]], also based in New York City. 
+> following The[[Wall_Street_Journal]]], also based in New York City. 
 > The New York Times is published by the New York Times Company; 
 > since 1896, the company has been chaired by the Ochs-Sulzberger family, 
 > whose current chairman and the paper's publisher is A. G. Sulzberger. 

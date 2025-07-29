@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Association of Southeast Asian Nations"
 anthem: '[[_Standards/WikiData/WD~The_ASEAN_Way,4922020]]'
@@ -99,6 +99,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Association_of_Southea
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/ASEAN%20explained%20in%205%20minutes.webm"
 X_Twitter_username: ASEAN
 ---
+
+# [[ASEAN]] 
+
+#is_/same_as :: [[../WikiData/WD~ASEAN,7768|WD~ASEAN,7768]] 
 
 ## #has_/text_of_/abstract 
 

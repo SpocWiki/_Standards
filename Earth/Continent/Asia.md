@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Asia
 area: 44614500
 Baidu_Tieba_name: 亚洲
@@ -167,7 +167,7 @@ markerFolder: ./Asia/
 [name-en::Asia]
 [name-de::Asien]
 [ #has_/code  :: AS ]
-
+#is_/same_as :: [[../../WikiData/WD~Asia,48|WD~Asia,48]] 
 
 ## #has_/text_of_/abstract 
 
@@ -178,7 +178,16 @@ markerFolder: ./Asia/
 > was the site of many of the first civilisations. 
 > Its 4.7 billion people constitute roughly 60% of the world's population.
 >
-> Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. A commonly accepted division places Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black seas, separating it from Europe.
+> Asia shares the landmass of Eurasia with Europe, and of Afro-Eurasia with both Europe and Africa. 
+> In general terms, it is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, 
+> and on the north by the Arctic Ocean. 
+> 
+> The border of Asia with Europe is a historical and cultural construct, 
+> as there is no clear physical and geographical separation between them. 
+> 
+> A commonly accepted division places Asia to the east of the Suez Canal separating it from Africa; 
+> and to the east of the Turkish straits, the Ural Mountains and Ural River, 
+> and to the south of the Caucasus Mountains and the Caspian and Black seas, separating it from Europe.
 >
 > Since the concept of Asia derives from the term for the eastern region from a European perspective, Asia is the remaining vast area of Eurasia minus Europe. Therefore, Asia is a region where various independent cultures coexist rather than sharing a single culture, and the boundary between Europe is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural differences, some of which vary on a spectrum.
 >
