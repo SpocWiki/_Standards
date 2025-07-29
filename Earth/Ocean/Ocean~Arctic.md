@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Arctic Ocean"
 area: 14056000
@@ -69,6 +69,10 @@ vertical_depth:
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Pole%20Sea%20Ice%201990-1999.ogv"
 volume_as_quantity: 18750000
 ---
+
+# [[Ocean~Arctic]] 
+
+#is_/same_as :: [[../../WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]] 
 
 ## #has_/text_of_/abstract 
 

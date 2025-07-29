@@ -1,4 +1,4 @@
-﻿---
+---
 title: Coelurosauria
 ---
 
@@ -10,7 +10,8 @@ Birds, tyrannosaurs, velociraptors, etc.
 
 ## #has_/text_of_/abstract 
 
-> **Coelurosauria** (; from Greek, meaning "hollow-tailed lizards") is the clade containing all theropod dinosaurs more closely related to birds than to carnosaurs.
+> **Coelurosauria** (; from Greek, meaning "hollow-tailed lizards") is the clade containing 
+> all theropod dinosaurs more closely related to birds than to carnosaurs.
 >
 > Coelurosauria is a subgroup of theropod dinosaurs that includes compsognathids, tyrannosauroids, ornithomimosaurs, maniraptorans, and over the recent years, megaraptorans (Although position within the clade is unclear). Maniraptora includes birds, the only known dinosaur group alive today. In the past, Coelurosauria was used to refer to all small theropods, but this classification has since been amended.
 >

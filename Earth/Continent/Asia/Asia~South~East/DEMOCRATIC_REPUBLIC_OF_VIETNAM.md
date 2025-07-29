@@ -33,7 +33,7 @@ Capital :: [[Hanoe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM](/_Standards/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md) 
+### #is_/same_as ::[DEMOCRATIC_REPUBLIC_OF_VIETNAM](DEMOCRATIC_REPUBLIC_OF_VIETNAM.md)) 
 
 ### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.public](/_public/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public.md) 
 

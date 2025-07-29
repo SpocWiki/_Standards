@@ -33,7 +33,7 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA](/_Standards/Earth/Continent/Asia/FRENCH_INDO-CHINA.md) 
+### #is_/same_as ::[FRENCH_INDO-CHINA](FRENCH_INDO-CHINA.md)) 
 
 ### #is_/same_as :: [FRENCH_INDO-CHINA.public](/_public/Earth/Continent/Asia/FRENCH_INDO-CHINA.public.md) 
 

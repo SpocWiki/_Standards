@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76717

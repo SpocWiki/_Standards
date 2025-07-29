@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Archimedes of Syracuse"
 attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
@@ -89,6 +89,10 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/03.%20%D0%A0%D0%B5%D0
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"Archimedes::dw6qq\"]"
 writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 ---
+
+# [[Archimedes]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Archimedes,8739|WD~Archimedes,8739]] 
 
 ## #has_/text_of_/abstract 
 

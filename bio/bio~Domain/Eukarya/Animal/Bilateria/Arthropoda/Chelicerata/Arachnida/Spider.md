@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Spider
 - Aranea
@@ -77,9 +77,9 @@ UMLS_CUI: C0037913
 
 # [[Spider]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Spider,1357|WD~Spider,1357]] 
+![Latrodectus_mactans](Spider/Latrodectus_mactans.jpg) ![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg)  
 
-![Latrodectus_mactans](Spider/Latrodectus_mactans.jpg) ![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg)) 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Araneae,1357|WD~Araneae,1357]] 
 
 ## #has_/text_of_/abstract 
 

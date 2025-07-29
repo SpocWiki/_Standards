@@ -1,68 +1,71 @@
-﻿---
+---
 aliases:
-- Arachnid
-- Arachnida
+  - Arachnid
+  - Arachnida
 Commons_category: Arachnida
 Commons_gallery: Arachnida
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 EPPO_Code: 1ARACC
 has_id_wikidata: Q1358
-has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
+has_use:
+  - "[[_Standards/WikiData/WD~biological_pest_control,116890]]"
 image:
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Arachnida%20collage.png"
-- "http://commons.wikimedia.org/wiki/Special:FilePath/Haeckel%20Arachnida.jpg"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Arachnida%20collage.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Haeckel%20Arachnida.jpg
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 ITIS_TSN: 82708
 Krugosvet_article: nauka_i_tehnika/biologiya/PAUKOOBRAZNIE.html
-MeSH_tree_code: B01.050.500.131.166
-mode_of_reproduction: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
-named_after: '[[_Standards/WikiData/WD~Arachne,190082]]'
+MeSH_tree_code:
+  - B01.050.500.131.166
+mode_of_reproduction: "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
+named_after: "[[_Standards/WikiData/WD~Arachne,190082]]"
 OmegaWiki_Defined_Meaning: 1261046
-parent_taxon: '[[_Standards/WikiData/WD~Sclerophorata,82244029]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110738843,110738843]]'
+parent_taxon: "[[_Standards/WikiData/WD~Sclerophorata,82244029]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110738843,110738843]]"
 start_time: -380000000-01-01
 studied_by:
-- '[[_Standards/WikiData/WD~arachnology,190979]]'
-- '[[_Standards/WikiData/WD~palaeo_arachnology,131863708]]'
-subreddit: arachnids
+  - "[[_Standards/WikiData/WD~arachnology,190979]]"
+  - "[[_Standards/WikiData/WD~palaeo_arachnology,131863708]]"
+subreddit:
+  - arachnids
 taxon_common_name:
-- Αραχνίδια
-- Hämähäkkieläimet
-- Arachnide
-- Koonkern
-- Paučnjaci
-- Pókszabásúak
-- Սարդակերպներ
-- Aracnidi
-- クモ綱
-- 거미강
-- Edderkoppdyr
-- Spinachtigen
-- pajęczaki
-- Aracnídeos
-- Arahnide
-- Паукообразные
-- कीड
-- pajkovci
-- Spindeldjur
-- Örümceğimsiler
-- 蛛形纲
-- arachnid
-- Spinnentiere
-- Arácnidos
-- Паякообразни
-- pavoukovci
+  - Αραχνίδια
+  - Hämähäkkieläimet
+  - Arachnide
+  - Koonkern
+  - Paučnjaci
+  - Pókszabásúak
+  - Սարդակերպներ
+  - Aracnidi
+  - クモ綱
+  - 거미강
+  - Edderkoppdyr
+  - Spinachtigen
+  - pajęczaki
+  - Aracnídeos
+  - Arahnide
+  - Паукообразные
+  - कीड
+  - pajkovci
+  - Spindeldjur
+  - Örümceğimsiler
+  - 蛛形纲
+  - arachnid
+  - Spinnentiere
+  - Arácnidos
+  - Паякообразни
+  - pavoukovci
 taxon_name: Arachnida
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
 title: Arachnida
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arachnida,15069760]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arachnida,15069760]]"
 UMLS_CUI: C0003704
 ---
 
@@ -70,6 +73,8 @@ UMLS_CUI: C0003704
 
 Spiders, mites, scorpions, whipscorpions, pseudoscorpions 
 ![Dermacentor_occidentalis](Arachnida/Dermacentor_occidentalis.jpg))  ![Smeringurus_mesaensis](Arachnida/Smeringurus_mesaensis.jpg)  ![Argiope_bruennichi](Arachnida/Argiope_bruennichi.jpg) 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Arachnida,1358|WD~Arachnida,1358]]
 
 ## #has_/text_of_/abstract 
 

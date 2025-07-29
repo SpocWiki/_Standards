@@ -1,4 +1,4 @@
-﻿---
+---
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_of_Prokaryotes,743780]]'
 Commons_category: Archaea
 different_from: '[[_Standards/WikiData/WD~Archaea,2859968]]'
