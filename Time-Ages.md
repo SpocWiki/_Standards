@@ -1,3 +1,5 @@
+
+
 Describes the Earth Eons and Ages down to the Events of the Human Era, the [[Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene|Epoch~3~Anthropocene]]. 
 Geographically localized Events may be described in the Sub-Sections of [[Earth]]. 
 But different geographical Configurations of Earth's Surface are described here. 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Atoms
 Commons_gallery: Atom
 described_by_source:
@@ -43,6 +43,10 @@ UMLS_CUI: C0567415
 Unicode_character: ⚛
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Atomic%20orbitals%20and%20periodic%20table%20construction.ogv"
 ---
+
+# [[Atom]] 
+
+#is_/same_as :: [[../../WikiData/WD~Atom,9121|WD~Atom,9121]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%202048.jpg"
 Commons_category: Oceans
 Commons_gallery: "Atlas of the Oceans"
