@@ -1,16 +1,40 @@
-﻿---
+---
 aliases:
-- "Austroasiatic languages"
+  - Austroasiatic languages
 has_id_wikidata: Q33199
 tags:
-- Lang_Family
+  - Lang_Family
 type: LangFamily
+linguistic_typology: "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Mon_Khmer,337657]]"
+  - "[[_Standards/WikiData/WD~Munda,33892]]"
+subclass_of: "[[_Standards/WikiData/WD~Austric,783787]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Austroasiatic_languages,6705029]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Afroasiatic,25268]]"
+  - "[[_Standards/WikiData/WD~Austronesian,49228]]"
+instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
+number_of_speakers_writers_or_signers: 90000000
+OmegaWiki_Defined_Meaning: "549071"
+ISO_639_5_code: aav
+IETF_language_tag: aav
+distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Austroasiatic-en.svg
+described_at_URL: http://www.sorosoro.org/famille-des-langues-austro-asiatiques/
+P8189: "987007295743805171"
+Glottolog_code: aust1305
+Commons_category: Austro-Asiatic languages
+WALS_family_code: austroasiatic
+Krugosvet_article: gumanitarnye_nauki/lingvistika/AUSTROAZIATSKIE_YAZIKI.html
 ---
 
+# [[LangFamily-Austro-Asiatic]] 
 ﻿
  [SpocWebEntityId:: 240 ]
 [Name::Austro-Asiatic]
 
+#is_/same_as :: [[../../WikiData/WD~Austroasiatic,33199|WD~Austroasiatic,33199]] 
 
 ## #has_/text_of_/abstract 
 

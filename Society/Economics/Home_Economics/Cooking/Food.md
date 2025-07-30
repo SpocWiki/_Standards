@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 16310211
 Archive_of_Our_Own_tag: Food
 Colon_Classification: F53

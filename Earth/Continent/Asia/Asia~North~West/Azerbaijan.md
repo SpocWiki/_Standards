@@ -108,10 +108,10 @@ Sub-region_Name ::  [[Western Asia]]
 
 [	ISO3166-1-numeric	 :: 031 ]
 
-
-
 [ISO2::AZ]
 [ISO3::AZE] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]] 
 
 ## #has_/map 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2601
 Archive_of_Our_Own_tag: Mathematics
 Baidu_Tieba_name: 数学

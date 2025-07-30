@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 6465007011
 Commons_category: Vegetables
 Commons_gallery: Vegetable

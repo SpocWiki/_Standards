@@ -53,6 +53,10 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aviation-stub,6705836]
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Aviation,8206366]]'
 ---
 
+# [[Aviation]] 
+
+#is_/same_as :: [[../WikiData/WD~Aviation,765633|WD~Aviation,765633]] 
+
 ## #has_/text_of_/abstract 
 
 > **Aviation** includes the activities surrounding mechanical flight and the aircraft industry. 

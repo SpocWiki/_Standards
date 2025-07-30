@@ -1,4 +1,4 @@
-﻿---
+---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stafford%20and%20Her%20Jazz%20Band%20-%20Royal%20Garden%20Blues.mp3"
 Commons_category: Blues
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "Y:82"
 Commons_category: Tools
 described_by_source:
@@ -50,6 +50,10 @@ used_by:
 U_S_National_Archives_Identifier: 10644093
 Wikidata_property: "item operated"
 ---
+
+# [[Tool]] 
+
+#is_/same_as :: [[../WikiData/WD~Physical_tool,39546|WD~Physical_tool,39546]] 
 
 ## #has_/text_of_/abstract 
 

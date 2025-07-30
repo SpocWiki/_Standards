@@ -413,7 +413,7 @@ GitHub_topic: austria
 
 [ISO2::AT]
 [ISO3::AUT] 
-
+#is_/same_as :: [[../../../../WikiData/WD~Austria,40|WD~Austria,40]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Austria)

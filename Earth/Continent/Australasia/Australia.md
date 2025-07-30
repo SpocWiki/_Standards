@@ -1039,6 +1039,8 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 [ISO2::AU]
 [ISO3::AUS] 
+#is_/same_as :: [[../../../WikiData/WD~Australia,408|WD~Australia,408]] 
+
 
 ## #has_/map  
 

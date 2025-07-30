@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Air
-  - Luft
+- Air
+- Luft
 has_id_wikidata: Q3230
 has_part_s_:
   - "[[_Standards/WikiData/WD~stratosphere,108376]]"

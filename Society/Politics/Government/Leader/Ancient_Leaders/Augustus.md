@@ -1,4 +1,4 @@
-﻿---
+---
 agnomen: '[[_Standards/WikiData/WD~Octavianus,100980082]]'
 aliases:
 - "Gaius Julius Caesar Augustus"
@@ -135,6 +135,10 @@ unmarried_partner:
 - '[[_Standards/WikiData/WD~Salvia_Titisenia,112244204]]'
 writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 ---
+
+# [[Augustus]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Augustus,1405|WD~Augustus,1405]] 
 
 ## #has_/text_of_/abstract 
 
