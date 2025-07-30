@@ -1,12 +1,19 @@
+---
+aliases:
+  - Aten
+  - Aton
+  - Atonu
+  - Itn
+---
 
 # [[Aten]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Aten,130227|WD~Aten,130227]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Aten,130227|WD~Aten,130227]] 
 
 ## #has_/text_of_/abstract  
 
 > **Aten**, also Aton, Atonu, or Itn (Ancient Egyptian: jtn, reconstructed [ˈjaːtin]) was the focus of Atenism, 
-> the religious system formally established in ancient Egypt by the late Eighteenth Dynasty pharaoh Akhenaten. 
+> the religious system formally established in ancient Egypt by the late Eighteenth Dynasty pharaoh [[Akhenaten]]. 
 > 
 > Exact dating for the Eighteenth Dynasty is contested, 
 > though a general date range places the dynasty in the years 1550 to 1292 BCE. 
