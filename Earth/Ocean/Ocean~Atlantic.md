@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Atlantic Ocean"
 area: 106460000
@@ -161,8 +161,11 @@ width: 5000
 Wolfram_Language_entity_code: "Entity[\"Ocean\", \"AtlanticOcean\"]"
 ---
 
+# [[Ocean~Atlantic]] 
+
 Named after the fabled Island of Atlantis. 
 
+#is_/same_as :: [[../../WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]] 
 
 ## #has_/text_of_/abstract 
 
