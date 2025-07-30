@@ -48,7 +48,7 @@ native_label: 𓇋𓈖𓊪𓃣
 #has_/spouse :: [[Anput]] 
 #has_/children :: [[Kebechet]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Anubis,47534|WD~Anubis,47534]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Anubis,47534|WD~Anubis,47534]] 
 
 ## #has_/text_of_/abstract 
 
