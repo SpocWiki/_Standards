@@ -4,7 +4,7 @@ has_id_wikidata: Q58373
 
 # [[Amun]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Amun,58373|WD~Amun,58373]] 
+#is_/same_as :: [[../../../../WikiData/WD~Amun,58373|WD~Amun,58373]] 
 
 ## #has_/text_of_/abstract 
 
