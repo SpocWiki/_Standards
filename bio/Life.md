@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - biota
 Colon_Classification: G1
@@ -72,6 +72,14 @@ subclass_of:
 - '[[_Standards/WikiData/WD~lyfe,98925662]]'
 UMLS_CUI: C0376558
 ---
+
+# [[Life]] 
+
+Life has a Chicken-and-Egg Problem: 
+- Protein-Synthesis is encoded in DNA 
+- [[DNA_Replication]] requires  encodes the Proteins, especially necessary Enzymes 
+
+RNA can 
 
 ## #has_/text_of_/abstract 
 
