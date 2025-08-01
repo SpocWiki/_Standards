@@ -2,17 +2,17 @@
 ## #has_/text_of_/abstract 
 
 > The **Last universal common ancestor** (LUCA) is the hypothesized common ancestral cell 
-> from which the three domains of life, the Bacteria, the Archaea, and the Eukarya originated. 
+> from which the three domains of life, the [[bio~Domain/Bacteria|Bacteria]], the [[bio~Domain/Archaea|Archaea]], and the [[bio~Domain/Eukarya|Eukarya]] originated. 
 > 
 > While no fossil evidence of the LUCA exists, the detailed biochemical similarity of all current life 
 > (divided into the three domains) makes its existence widely accepted by biochemists. 
 > 
 > Its characteristics can be inferred from shared features of modern genomes. 
 > These genes describe a complex life form with many co-adapted features, 
-> including transcription and translation mechanisms to convert information from DNA to mRNA to proteins.
+> including transcription and translation **mechanisms to convert information from DNA to mRNA to proteins**.
 >
 > The cell had a lipid bilayer; it possessed the genetic code 
-> and ribosomes which translated from DNA or RNA to proteins. 
+> and [[Ribosome]]s which translated from DNA or RNA to proteins. 
 > 
 > Although the timing of the LUCA is not able to be definitively constrained, 
 > most studies suggest that the LUCA existed by or prior to 3.5 billion years ago, 

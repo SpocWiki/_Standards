@@ -79,7 +79,8 @@ Life has a Chicken-and-Egg Problem:
 - Protein-Synthesis is encoded in DNA 
 - [[DNA_Replication]] requires  encodes the Proteins, especially necessary Enzymes 
 
-RNA can 
+[[LUCA(Last_Universal_Common_Ancestor)]] has hundreds of chemical Reaction chains. 
+Current investigations check whether the 
 
 ## #has_/text_of_/abstract 
 
