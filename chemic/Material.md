@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Materials
 described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 different_from:

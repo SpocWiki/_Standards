@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chemistry
 icon: ":atom symbol:"
