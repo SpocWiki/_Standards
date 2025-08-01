@@ -1,54 +1,19 @@
-﻿---
+---
 title: Basidiomycota
+has_id_wikidata: Q174698
 ---
 
-## Phylogeny 
+# [[Basidiomycota]]
 
--   « Ancestral Groups  
-    -  [Fungi](../Fungi.md))
-    -  [Eukarya](../../Eukarya.md))
-    -   [Tree of Life](../../Tree_of_Life.md)
+![](Basidiomycota/Gymnosporangium.jpg)![](Basidiomycota/Tilletia_controversa.jpg))![](Basidiomycota/Amanita_rubrovaginata.jpg))
 
--   ◊ Sibling Groups of  Fungi
-    -   Basidiomycota
-    -  [Ascomycota](Ascomycota.md))
-    -  [Glomeromycota](Glomeromycota.md))
-    -   [Chytridiomycota](Chytridiomycota)
-    -  [Zygomycota](Zygomycota.md))
 
--   » Sub-Groups
-    -  [Agaricomycotina](Basidiomycota/Agaricomycotina.md))
-    -   [Ustilaginomycetes](Ustilaginomycetes)
-    -   [Urediniomycotina](Urediniomycotina)
+#is_/same_as :: [[../../../../WikiData/WD~Basidiomycota,174698|WD~Basidiomycota,174698]] 
 
-# Basidiomycota
 
 ## The Club Fungi 
 
 [Eric Swann and David S. Hibbett]()
-
-![](Basidiomycota/Gymnosporangium.jpg)![](Basidiomycota/Tilletia_controversa.jpg))![](Basidiomycota/Amanita_rubrovaginata.jpg))
-
-Containing group:[Fungi](../Fungi.md))
-
-### Information on the Internet
-
--   [Culture Collection of     Basidiomycetes](http://www.biomed.cas.cz/ccbas/fungi.htm). Institute
-    of Microbiology, Academy of Sciences of the Czech Republic.
--   [The Microbial World:     Basidiomycota](http://helios.bto.ed.ac.uk/bto/microbes/basidio.htm).
--   [Mycological Society of America](http://www.msafungi.org/).
-    Extensive links to sites concerned with Basidiomycota and other
-    fungi.
--   [Tom Volk's Fungi](http://botit.botany.wisc.edu/toms_fungi/). An
-    amazing collection of information, images, and lore about fungi.
--   [Bioimages: The Virtual Field Guide (UK)     Basidiomycota](http://www.bioimages.org.uk/HTML/T404.HTM).
-    Collection of Basidiomycota images.
--   [The WWW Virtual Library: mycology](http://mycology.cornell.edu/).
--   [Deep Hypha Research Coordination     Network](http://ocid.nacse.org/research/deephyphae/). Deep Hypha is
-    a project to coordinate and provide resources for research in fungal
-    systematics.
--   [AFTOL: Assembling the Fungal Tree of     Life](http://ocid.nacse.org/research/aftol/). Collaborative research
-    in fungal phylogenetics.
 
 ## Introduction
 
@@ -247,6 +212,48 @@ Ustilaginomycotina \[Bauer et al. 2001\]) are particularly problematical
 sedis\" within the Basidiomycota (Hibbett et al. 2007), but with the
 application of genome-scale datasets their placements may be resolved.\
 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Fungi](../Fungi.md))
+    -  [Eukarya](../../Eukarya.md))
+    -   [Tree of Life](../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Fungi
+    -   Basidiomycota
+    -  [Ascomycota](Ascomycota.md))
+    -  [Glomeromycota](Glomeromycota.md))
+    -   [Chytridiomycota](Chytridiomycota)
+    -  [Zygomycota](Zygomycota.md))
+
+-   » Sub-Groups
+    -  [Agaricomycotina](Basidiomycota/Agaricomycotina.md))
+    -   [Ustilaginomycetes](Ustilaginomycetes)
+    -   [Urediniomycotina](Urediniomycotina)
+
+- Containing group: [Fungi](../Fungi.md) 
+
+### Information on the Internet
+
+-   [Culture Collection of     Basidiomycetes](http://www.biomed.cas.cz/ccbas/fungi.htm). Institute
+    of Microbiology, Academy of Sciences of the Czech Republic.
+-   [The Microbial World:     Basidiomycota](http://helios.bto.ed.ac.uk/bto/microbes/basidio.htm).
+-   [Mycological Society of America](http://www.msafungi.org/).
+    Extensive links to sites concerned with Basidiomycota and other
+    fungi.
+-   [Tom Volk's Fungi](http://botit.botany.wisc.edu/toms_fungi/). An
+    amazing collection of information, images, and lore about fungi.
+-   [Bioimages: The Virtual Field Guide (UK)     Basidiomycota](http://www.bioimages.org.uk/HTML/T404.HTM).
+    Collection of Basidiomycota images.
+-   [The WWW Virtual Library: mycology](http://mycology.cornell.edu/).
+-   [Deep Hypha Research Coordination     Network](http://ocid.nacse.org/research/deephyphae/). Deep Hypha is
+    a project to coordinate and provide resources for research in fungal
+    systematics.
+-   [AFTOL: Assembling the Fungal Tree of     Life](http://ocid.nacse.org/research/aftol/). Collaborative research
+    in fungal phylogenetics.
+
+
 ### References
 
 Aime, M. C., P. B. Matheny, D. A. Henk, E. M. Frieders, R. H. Nilsson,
@@ -437,7 +444,8 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
   Comments          Fruiting structures of the mushroom Amanita rubrovaginata (Agaricomycotina)
   Body Part         Fruiting structures
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
-  -----------------------------------------------------------------------------
+  -----------------------------------------------------------------------------
+
 
 
 ## Confidential Links & Embeds: 
