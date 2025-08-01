@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Meats
 Danbooru_tag: meat
 described_by_source:

@@ -381,9 +381,10 @@ Sub-region_Name ::  [[Western Asia]]
 [	ISO3166-1-numeric	 :: 048 ]
 
 
-
 [ISO2::BH]
 [ISO3::BHR] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Bahrain,398|WD~Bahrain,398]] 
 
 ## #has_/map  
 
