@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Zuckerrübe
 - "sugar beet"
