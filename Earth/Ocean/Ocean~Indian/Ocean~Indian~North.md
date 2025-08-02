@@ -10,8 +10,8 @@ id: Ocean~Indian
 minZoom: 2 
 defaultZoom: 3
 maxZoom: 18
-geojsonFolder: ./Ocean~Indian~West/
-markerFolder: ./Ocean~Indian~West/
+geojsonFolder: ./Ocean~Indian~North/
+markerFolder: ./Ocean~Indian~North/
 long: 60
 lat: -10
 
