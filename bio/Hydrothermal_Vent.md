@@ -24,9 +24,20 @@ aliases:
 > which deliver a wide range of elements to the world's oceans, 
 > thus contributing to global marine biogeochemistry. 
 > 
-> Relative to the majority of the deep sea, the areas around hydrothermal vents are biologically more productive, often hosting complex communities fueled by the chemicals dissolved in the vent fluids. Chemosynthetic bacteria and archaea found around hydrothermal vents form the base of the food chain, supporting diverse organisms including giant tube worms, clams, limpets, and shrimp. Active hydrothermal vents are thought to exist on Jupiter's moon Europa and Saturn's moon Enceladus, and it is speculated that ancient hydrothermal vents once existed on Mars.
+> Relative to the majority of the deep sea, the areas around hydrothermal vents are biologically more productive, 
+> often hosting complex communities fueled by the chemicals dissolved in the vent fluids. 
+> 
+> Chemosynthetic bacteria and archaea found around hydrothermal vents form the base of the food chain, 
+> supporting diverse organisms including giant tube worms, clams, limpets, and shrimp. 
+> Active hydrothermal vents are thought to exist on Jupiter's moon Europa and Saturn's moon Enceladus, 
+> and it is speculated that ancient hydrothermal vents once existed on Mars.
 >
-> Hydrothermal vents have been hypothesized to have been a significant factor to starting abiogenesis and the survival of primitive life. The conditions of these vents have been shown to support the synthesis of molecules important to life. Some evidence suggests that certain vents such as alkaline hydrothermal vents or those containing supercritical CO2 are more conducive to the formation of these organic molecules. However, the origin of life is a widely debated topic, and there are many conflicting viewpoints.
+> Hydrothermal vents have been hypothesized to have been 
+> a significant factor to starting abiogenesis and the survival of primitive life. 
+> The conditions of these vents have been shown to support the synthesis of molecules important to life. 
+> Some evidence suggests that certain vents such as alkaline hydrothermal vents 
+> or those containing supercritical CO2 are more conducive to the formation of these organic molecules. 
+> However, the origin of life is a widely debated topic, and there are many conflicting viewpoints.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrothermal%20vent) 
 
