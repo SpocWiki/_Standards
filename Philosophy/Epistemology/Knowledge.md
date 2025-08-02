@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Knowledge
 contributing_factor_of:
 - '[[_Standards/WikiData/WD~competence,527091]]'
@@ -46,6 +46,13 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 used_by: '[[_Standards/WikiData/WD~knowledge_management,192060]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_knowledge,7112676]]'
 ---
+
+# [[Knowledge]] 
+
+
+#is_/better_than :: [[Information]]  
+#is_/worse_than :: [[Insight]]  
+#is_/same_as :: [[../../WikiData/WD~Knowledge,9081|WD~Knowledge,9081]] 
 
 ## #has_/text_of_/abstract 
 
