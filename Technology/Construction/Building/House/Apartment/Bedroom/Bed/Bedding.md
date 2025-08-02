@@ -35,7 +35,7 @@ P8189: "987007282402205171"
 
 # [[Bedding]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Bedding,1762457|WD~Bedding,1762457]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Bedding,1762457|WD~Bedding,1762457]] 
 
 ## #has_/text_of_/abstract 
 

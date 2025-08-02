@@ -20,7 +20,7 @@ IMDb_keyword: bathtub
 
 # [[Bathtub]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bathtub,152095|WD~Bathtub,152095]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bathtub,152095|WD~Bathtub,152095]] 
 
 ## #has_/text_of_/abstract 
 

@@ -46,7 +46,7 @@ Unicode_character: 🛏
 
 # [[Bed]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bed,42177|WD~Bed,42177]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bed,42177|WD~Bed,42177]] 
 
 ## #has_/text_of_/abstract 
 

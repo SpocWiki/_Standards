@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 83.44
 Colon_Classification: X61
 Commons_category: Currencies

@@ -37,11 +37,21 @@ aliases:
 
 # [[Apartment]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Apartment,188507|WD~Apartment,188507]] 
+#is_/same_as :: [[../../../../WikiData/WD~Apartment,188507|WD~Apartment,188507]] 
 
 ## #has_/text_of_/abstract 
 
-> An **Apartment** (American English, Canadian English), flat (British English, Indian English, South African English), tenement (Scots English), or unit (Australian English) is a self-contained housing unit (a type of residential real estate) that occupies part of a building, generally on a single story. There are many names for these overall buildings (see below). The housing tenure of apartments also varies considerably, from large-scale public housing, to owner occupancy within what is legally a condominium (strata title or commonhold) or leasehold, to tenants renting from a private landlord.
+> An **Apartment** (American English, Canadian English), 
+> flat (British English, Indian English, South African English), 
+> tenement (Scots English), or unit (Australian English) 
+> is a self-contained housing unit (a type of residential real estate) 
+> that occupies part of a building, generally on a single story. 
+> 
+> There are many names for these overall buildings (see below). 
+> The housing tenure of apartments also varies considerably, 
+> from large-scale public housing, to owner occupancy 
+> within what is legally a condominium (strata title or commonhold) or leasehold, 
+> to tenants renting from a private landlord.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apartment) 
 

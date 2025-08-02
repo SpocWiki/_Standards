@@ -32,7 +32,7 @@ Commons_category: Bathrooms
 
 # [[Bathroom]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Bathroom,190771|WD~Bathroom,190771]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Bathroom,190771|WD~Bathroom,190771]] 
 
 ## #has_/text_of_/abstract 
 

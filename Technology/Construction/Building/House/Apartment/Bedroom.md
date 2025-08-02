@@ -25,7 +25,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Villa%20Borsi
 
 # [[Bedroom]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Bedroom,193837|WD~Bedroom,193837]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Bedroom,193837|WD~Bedroom,193837]] 
 
 ## #has_/text_of_/abstract 
 
