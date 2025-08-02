@@ -8,6 +8,7 @@ has_id_wikidata: Q306786
 # [[Beta_Decay]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Beta_decay,306786|WD~Beta_decay,306786]] 
+#is_/similar_to :: [[Electron_Capture]] 
 
 ## #has_/text_of_/abstract 
 
