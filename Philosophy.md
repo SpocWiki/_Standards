@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 1211
 Baidu_Tieba_name: 哲学
 Basisklassifikation: 08

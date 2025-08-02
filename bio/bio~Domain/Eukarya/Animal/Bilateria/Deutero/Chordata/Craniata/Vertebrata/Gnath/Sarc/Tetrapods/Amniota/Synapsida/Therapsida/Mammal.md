@@ -1,6 +1,7 @@
-﻿---
+---
 aliases:
 - Mammal
+- Mammals
 - Mammalia
 Colon_Classification: K97
 Commons_category: Mammalia
