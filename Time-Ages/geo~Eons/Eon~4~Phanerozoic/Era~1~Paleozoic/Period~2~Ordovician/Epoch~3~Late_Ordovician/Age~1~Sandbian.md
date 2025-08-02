@@ -6,8 +6,8 @@ A time period from 458.4 to 453.0 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~2~Middle_Ordovician/Age~2~Darriwilian|Age~2~Darriwilian]] 
-#has_/next_item :: [[Age~2~Katian]] 
+#has_/previous_/item :: [[../Epoch~2~Middle_Ordovician/Age~2~Darriwilian|Age~2~Darriwilian]] 
+#has_/next_/item :: [[Age~2~Katian]] 
 
 ## #has_/text_of_/abstract 
 

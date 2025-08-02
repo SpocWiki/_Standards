@@ -6,7 +6,7 @@ A time period from 11.63 to 7.246 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~4~Serravallian]] 
+#has_/previous_/item :: [[Age~4~Serravallian]] 
 #has_/next_item :: [[Age~6~Messinian]] 
 
 ## #has_/text_of_/abstract 

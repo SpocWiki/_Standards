@@ -6,8 +6,8 @@ A time period from 83.6 to 72.1 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Gelasian]]   
-#has_/next_item :: [[Age~3~Chibanian]]   
+#has_/previous_/item :: [[Age~1~Gelasian]]   
+#has_/next_/item :: [[Age~3~Chibanian]]   
 
 ## #has_/text_of_/abstract 
 
@@ -75,4 +75,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~5~Campanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~5~Campanian.personal.md) 
 
 ### #is_/same_as :: [Age~5~Campanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~5~Campanian.secret.md)
-
+

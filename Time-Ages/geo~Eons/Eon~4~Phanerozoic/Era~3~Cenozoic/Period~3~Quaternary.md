@@ -32,7 +32,7 @@ A time period from 2.58 million years ago to the present.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~2~Neogene]] 
+#has_/previous_/item :: [[Period~2~Neogene]] 
 #has_/next_item :: ---
 
 ## #has_/text_of_/abstract 

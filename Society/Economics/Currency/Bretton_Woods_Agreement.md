@@ -10,7 +10,7 @@ aliases:
 #has_/time_/started ::  1944-07-01 
 #has_/time_/stopped ::  1976-01-07  
 
-#has_/next_item :: [[Jamaica_Accords]] 
+#has_/next_/item :: [[Jamaica_Accords]] 
 
 from 1960 to 1970 France swapped USD to Gold, depleting the US Resources by 50% 
 1971 Nixon stopped conversion of USD to Gold 

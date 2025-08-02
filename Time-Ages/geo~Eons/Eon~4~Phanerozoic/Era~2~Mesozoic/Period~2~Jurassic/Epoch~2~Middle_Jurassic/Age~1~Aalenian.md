@@ -6,8 +6,8 @@ A time period from 174.7 to 170.9 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~1~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]] 
-#has_/next_item :: [[Age~2~Bajocian]] 
+#has_/previous_/item :: [[../Epoch~1~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]] 
+#has_/next_/item :: [[Age~2~Bajocian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -78,4 +78,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~1~Aalenian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.personal.md) 
 
 ### #is_/same_as :: [Age~1~Aalenian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.secret.md)
-
+

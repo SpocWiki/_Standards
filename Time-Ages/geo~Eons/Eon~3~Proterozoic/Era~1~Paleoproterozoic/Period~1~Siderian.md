@@ -4,8 +4,8 @@
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Eon~2~Archean/Era~4~Neoarchean|Era~4~Neoarchean]] 
-#has_/next_item :: [[Period~2~Rhyacian]] 
+#has_/previous_/item :: [[../../Eon~2~Archean/Era~4~Neoarchean|Era~4~Neoarchean]] 
+#has_/next_/item :: [[Period~2~Rhyacian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 433.4 to 430.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~1~Llandovery/Age~3~Telychian|Age~3~Telychian]] 
-#has_/next_item :: [[Age~2~Homerian]] 
+#has_/previous_/item :: [[../Epoch~1~Llandovery/Age~3~Telychian|Age~3~Telychian]] 
+#has_/next_/item :: [[Age~2~Homerian]] 
 
 ## #has_/text_of_/abstract 
 

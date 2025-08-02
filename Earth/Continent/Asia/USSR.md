@@ -11,7 +11,7 @@ tags:
 type: Country
 ---
 
-#has_/next_item :: [[../Europe/Europe~East/Russia]] 
+#has_/next_/item :: [[../Europe/Europe~East/Russia]] 
 
 [ISO2::]
 [ISO3::]

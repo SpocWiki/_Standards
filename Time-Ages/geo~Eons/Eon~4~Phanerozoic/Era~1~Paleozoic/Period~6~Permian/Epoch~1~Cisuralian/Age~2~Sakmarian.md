@@ -6,8 +6,8 @@ A time period from 293.51 to 290.1 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Asselian]] 
-#has_/next_item :: [[Age~3~Artinskian]] 
+#has_/previous_/item :: [[Age~1~Asselian]] 
+#has_/next_/item :: [[Age~3~Artinskian]] 
 
 ## #has_/text_of_/abstract 
 

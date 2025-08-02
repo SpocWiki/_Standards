@@ -6,8 +6,8 @@ A time period from 37.71 to 33.9 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~3~Bartonian]] 
-#has_/next_item :: [[../Epoch~3~Oligocene/Age~1~Rupelian|Age~1~Rupelian]] 
+#has_/previous_/item :: [[Age~3~Bartonian]] 
+#has_/next_/item :: [[../Epoch~3~Oligocene/Age~1~Rupelian|Age~1~Rupelian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -74,4 +74,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~4~Priabonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.personal.md) 
 
 ### #is_/same_as :: [Age~4~Priabonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.secret.md)
-
+

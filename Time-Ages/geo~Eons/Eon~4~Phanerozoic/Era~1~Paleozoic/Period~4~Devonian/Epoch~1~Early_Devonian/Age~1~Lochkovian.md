@@ -6,8 +6,8 @@ A time period from 419.2 to 410.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~3~Silurian/Epoch~3~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] 
-#has_/next_item :: [[Age~2~Pragian]] 
+#has_/previous_/item :: [[../../Period~3~Silurian/Epoch~3~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] 
+#has_/next_/item :: [[Age~2~Pragian]] 
 
 ## #has_/text_of_/abstract 
 

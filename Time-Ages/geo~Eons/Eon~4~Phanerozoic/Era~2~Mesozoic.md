@@ -51,8 +51,8 @@ A time period from 251.902 to 66.0 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Era~1~Paleozoic]] 
-#has_/next_item :: [[Era~3~Cenozoic]] 
+#has_/previous_/item :: [[Era~1~Paleozoic]] 
+#has_/next_/item :: [[Era~3~Cenozoic]] 
 
 #has_/abbreviation :: MZ
 
@@ -116,4 +116,4 @@ noteOnly: true
 ### #is_/same_as :: [Era~2~Mesozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.personal.md) 
 
 ### #is_/same_as :: [Era~2~Mesozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.secret.md)
-
+

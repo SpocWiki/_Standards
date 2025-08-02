@@ -1,6 +1,6 @@
 
 #has_/time_/started :: 1932-06 
-#has_/next_item :: [[Mummy(1999)]] 
+#has_/next_/item :: [[Mummy(1999)]] 
 
 ## #has_/text_of_/abstract 
 

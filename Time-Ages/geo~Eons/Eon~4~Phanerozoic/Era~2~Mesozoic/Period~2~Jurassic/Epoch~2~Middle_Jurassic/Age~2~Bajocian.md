@@ -6,8 +6,8 @@ A time period from 170.9 to 168.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Aalenian]] 
-#has_/next_item :: [[Age~3~Bathonian]]   
+#has_/previous_/item :: [[Age~1~Aalenian]] 
+#has_/next_/item :: [[Age~3~Bathonian]]   
 
 ## #has_/text_of_/abstract 
 
@@ -77,4 +77,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~2~Bajocian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.personal.md) 
 
 ### #is_/same_as :: [Age~2~Bajocian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.secret.md)
-
+

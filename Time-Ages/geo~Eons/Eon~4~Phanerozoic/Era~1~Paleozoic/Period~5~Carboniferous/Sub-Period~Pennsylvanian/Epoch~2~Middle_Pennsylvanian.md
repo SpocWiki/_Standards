@@ -23,8 +23,8 @@ A time period from 315.2 to 307.0 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~1~Early_Pennsylvanian]] 
-#has_/next_item :: [[Epoch~3~Late_Pennsylvanian]] 
+#has_/previous_/item :: [[Epoch~1~Early_Pennsylvanian]] 
+#has_/next_/item :: [[Epoch~3~Late_Pennsylvanian]] 
 
 ## #has_/text_of_/abstract 
 

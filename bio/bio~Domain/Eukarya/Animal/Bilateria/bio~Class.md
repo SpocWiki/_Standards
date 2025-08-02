@@ -24,8 +24,8 @@ part_of:
 # [[bio~Class]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Class,37517]] 
-#has_/prev_item :: [[../../bio~Kingdom]]  
-#has_/next_item :: [[bio~Class/bio~Order]]  
+#has_/previous_/item :: [[../../bio~Kingdom]]  
+#has_/next_/item :: [[bio~Class/bio~Order]]  
 
 ## #has_/text_of_/abstract 
 

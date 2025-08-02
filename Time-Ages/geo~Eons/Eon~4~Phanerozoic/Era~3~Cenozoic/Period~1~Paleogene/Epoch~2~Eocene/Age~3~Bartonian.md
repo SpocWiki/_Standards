@@ -6,8 +6,8 @@ A time period from 41.2 to 37.71 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Lutetian]] 
-#has_/next_item :: [[Age~4~Priabonian]] 
+#has_/previous_/item :: [[Age~2~Lutetian]] 
+#has_/next_/item :: [[Age~4~Priabonian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -75,4 +75,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~3~Bartonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.personal.md) 
 
 ### #is_/same_as :: [Age~3~Bartonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.secret.md)
-
+

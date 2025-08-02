@@ -7,8 +7,8 @@ A time period from 500.5 to 497 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Drumian]]   
-#has_/next_item :: [[../Epoch~4~Furongian/Age~1~Paibian|Age~1~Paibian]]   
+#has_/previous_/item :: [[Age~2~Drumian]]   
+#has_/next_/item :: [[../Epoch~4~Furongian/Age~1~Paibian|Age~1~Paibian]]   
 
 ## #has_/text_of_/abstract 
 

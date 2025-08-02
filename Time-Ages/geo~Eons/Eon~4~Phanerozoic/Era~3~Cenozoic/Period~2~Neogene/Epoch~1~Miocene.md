@@ -29,7 +29,7 @@ aliases:
 
 A time period from 23.03 to 5.333 million years ago. 
 
-#has_/prev_item :: [[../Period~1~Paleogene/Epoch~3~Oligocene|Epoch~3~Oligocene]]  
+#has_/previous_/item :: [[../Period~1~Paleogene/Epoch~3~Oligocene|Epoch~3~Oligocene]]  
 #has_/next_item :: [[Epoch~2~Pliocene]] 
 
 #has_/abbreviation :: N1

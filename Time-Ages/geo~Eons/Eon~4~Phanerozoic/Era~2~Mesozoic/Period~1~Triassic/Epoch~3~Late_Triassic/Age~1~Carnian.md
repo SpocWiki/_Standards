@@ -6,8 +6,8 @@ A time period from 237 to 227 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~2~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]] 
-#has_/next_item :: [[Age~2~Norian]] 
+#has_/previous_/item :: [[../Epoch~2~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]] 
+#has_/next_/item :: [[Age~2~Norian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -86,4 +86,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~1~Carnian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.personal.md) 
 
 ### #is_/same_as :: [Age~1~Carnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.secret.md)
-
+

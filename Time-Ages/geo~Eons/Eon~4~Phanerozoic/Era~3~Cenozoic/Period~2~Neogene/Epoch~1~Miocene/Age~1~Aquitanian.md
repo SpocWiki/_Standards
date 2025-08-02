@@ -6,7 +6,7 @@ A time period from 23.03 to 20.44 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian|Age~2~Chattian]] 
+#has_/previous_/item :: [[../../Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian|Age~2~Chattian]] 
 #has_/next_item :: [[Age~2~Burdigalian]] 
 
 ## #has_/text_of_/abstract 

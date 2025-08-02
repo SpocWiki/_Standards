@@ -36,7 +36,7 @@ A time period from 1.8 to 0.774 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Gelasian]]   
+#has_/previous_/item :: [[Age~1~Gelasian]]   
 #has_/next_item :: [[Age~3~Chibanian]]   
 
 ## #has_/text_of_/abstract 

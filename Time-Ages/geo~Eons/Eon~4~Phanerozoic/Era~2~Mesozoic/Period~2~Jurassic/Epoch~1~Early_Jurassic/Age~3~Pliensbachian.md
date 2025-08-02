@@ -6,8 +6,8 @@ A time period from 192.9 to 184.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Sinemurian]] 
-#has_/next_item :: [[Age~4~Toarcian]] 
+#has_/previous_/item :: [[Age~2~Sinemurian]] 
+#has_/next_/item :: [[Age~4~Toarcian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -85,4 +85,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~3~Pliensbachian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.personal.md) 
 
 ### #is_/same_as :: [Age~3~Pliensbachian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.secret.md)
-
+

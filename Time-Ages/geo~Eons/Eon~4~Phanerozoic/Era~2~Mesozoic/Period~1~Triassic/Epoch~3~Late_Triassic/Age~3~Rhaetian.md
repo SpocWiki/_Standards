@@ -6,8 +6,8 @@ A time period from 208.5 to 201.4 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Norian]] 
-#has_/next_item :: [[../../Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]] 
+#has_/previous_/item :: [[Age~2~Norian]] 
+#has_/next_/item :: [[../../Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -99,4 +99,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~3~Rhaetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.personal.md) 
 
 ### #is_/same_as :: [Age~3~Rhaetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.secret.md)
-
+

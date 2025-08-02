@@ -19,8 +19,8 @@ A time period from 2800 to 2500 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Era~3~Mesoarchean]] 
-#has_/next_item :: [[../Eon~3~Proterozoic/Era~1~Paleoproterozoic|Era~1~Paleoproterozoic]] 
+#has_/previous_/item :: [[Era~3~Mesoarchean]] 
+#has_/next_/item :: [[../Eon~3~Proterozoic/Era~1~Paleoproterozoic|Era~1~Paleoproterozoic]] 
 
 ## #has_/text_of_/abstract 
 

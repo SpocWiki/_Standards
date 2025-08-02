@@ -14,7 +14,7 @@ instance_of:
 schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20Core-periphery%20model.png"
 ---
 
-#has_/next_item :: [[Capitalism|Capitalism]] 
+#has_/next_/item :: [[Capitalism|Capitalism]] 
 
 ## #has_/text_of_/abstract 
 

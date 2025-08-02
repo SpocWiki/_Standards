@@ -36,7 +36,7 @@ A time period from 5.333 to 2.58 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~1~Miocene]]  
+#has_/previous_/item :: [[Epoch~1~Miocene]]  
 #has_/next_item :: [[../Period~3~Quaternary/Epoch~1~Pleistocene|Epoch~1~Pleistocene]] 
 
 The average Temperature was 2.5° higher than before the industrial Revolution. 

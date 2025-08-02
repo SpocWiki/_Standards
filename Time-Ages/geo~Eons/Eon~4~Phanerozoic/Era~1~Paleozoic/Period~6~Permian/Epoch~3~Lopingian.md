@@ -7,8 +7,8 @@ A time period from 259.51 to 251.902 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~2~Guadalupian]] 
-#has_/next_item :: [[../../Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic|Epoch~1~Early_Triassic]] 
+#has_/previous_/item :: [[Epoch~2~Guadalupian]] 
+#has_/next_/item :: [[../../Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic|Epoch~1~Early_Triassic]] 
 
 ## #has_/text_of_/abstract 
 

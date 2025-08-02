@@ -6,8 +6,8 @@ A time period from 165.3 to 161.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~3~Bathonian]] 
-#has_/next_item :: [[../Epoch~3~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]] 
+#has_/previous_/item :: [[Age~3~Bathonian]] 
+#has_/next_/item :: [[../Epoch~3~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -79,4 +79,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~4~Callovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.personal.md) 
 
 ### #is_/same_as :: [Age~4~Callovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.secret.md)
-
+

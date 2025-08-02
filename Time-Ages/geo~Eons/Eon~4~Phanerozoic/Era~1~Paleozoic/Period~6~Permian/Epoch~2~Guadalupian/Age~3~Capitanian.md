@@ -6,8 +6,8 @@ A time period from 264.28 to 259.51 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Wordian]] 
-#has_/next_item :: [[../Epoch~3~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]] 
+#has_/previous_/item :: [[Age~2~Wordian]] 
+#has_/next_/item :: [[../Epoch~3~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]] 
 
 ## #has_/text_of_/abstract 
 

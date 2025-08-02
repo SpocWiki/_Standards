@@ -6,8 +6,8 @@ A time period from 443.8 to 440.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian|Age~3~Hirnantian]] 
-#has_/next_item :: [[Age~2~Aeronian]] 
+#has_/previous_/item :: [[../../Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~3~Hirnantian|Age~3~Hirnantian]] 
+#has_/next_/item :: [[Age~2~Aeronian]] 
 
 ## #has_/text_of_/abstract 
 

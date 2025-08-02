@@ -7,8 +7,8 @@ A time period from 66.0 to 56.0 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous|Epoch~2~Late_Cretaceous]]  
-#has_/next_item :: [[Epoch~2~Eocene]]  
+#has_/previous_/item :: [[../../Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous|Epoch~2~Late_Cretaceous]]  
+#has_/next_/item :: [[Epoch~2~Eocene]]  
 
 ## #has_/text_of_/abstract 
 
@@ -85,4 +85,4 @@ noteOnly: true
 ### #is_/same_as :: [Epoch~1~Paleocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.personal.md) 
 
 ### #is_/same_as :: [Epoch~1~Paleocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.secret.md)
-
+

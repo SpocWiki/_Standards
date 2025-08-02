@@ -7,8 +7,8 @@ A time period from 298.9 to 273.01 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian|Epoch~3~Late_Pennsylvanian]]  
-#has_/next_item :: [[Epoch~2~Guadalupian]]  
+#has_/previous_/item :: [[../Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian|Epoch~3~Late_Pennsylvanian]]  
+#has_/next_/item :: [[Epoch~2~Guadalupian]]  
 
 ## #has_/text_of_/abstract 
 

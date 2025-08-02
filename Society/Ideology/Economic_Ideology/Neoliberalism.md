@@ -1,5 +1,5 @@
 
-#has_/prev_item :: [[Keynesianism]] 
+#has_/previous_/item :: [[Keynesianism]] 
 
 ## #has_/text_of_/abstract 
 

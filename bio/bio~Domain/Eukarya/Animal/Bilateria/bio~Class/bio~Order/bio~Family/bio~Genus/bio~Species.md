@@ -34,8 +34,8 @@ U_S_National_Archives_Identifier: 10663903
 # [[bio~Species]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Species,7432|WD~Species,7432]]  
-#has_/prev_item :: [[../bio~Genus]]  
-#has_/next_item :: [[bio~Species/Subspecies]] 
+#has_/previous_/item :: [[../bio~Genus]]  
+#has_/next_/item :: [[bio~Species/Subspecies]] 
 
 
 ## #has_/text_of_/abstract 

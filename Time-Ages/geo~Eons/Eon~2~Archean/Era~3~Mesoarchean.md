@@ -6,8 +6,8 @@ A time period from 3200 to 2800 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Era~2~Paleoarchean]] 
-#has_/next_item :: [[Era~4~Neoarchean]] 
+#has_/previous_/item :: [[Era~2~Paleoarchean]] 
+#has_/next_/item :: [[Era~4~Neoarchean]] 
 
 ## #has_/text_of_/abstract 
 

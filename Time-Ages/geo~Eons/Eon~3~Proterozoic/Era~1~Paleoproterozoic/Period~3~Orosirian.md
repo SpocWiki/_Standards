@@ -7,8 +7,8 @@ A time period from 2050 to 1800 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~2~Rhyacian]] 
-#has_/next_item :: [[Period~4~Statherian]] 
+#has_/previous_/item :: [[Period~2~Rhyacian]] 
+#has_/next_/item :: [[Period~4~Statherian]] 
 
 ## #has_/text_of_/abstract 
 

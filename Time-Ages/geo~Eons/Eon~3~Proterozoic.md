@@ -32,8 +32,8 @@ A time period from 2500 to 538.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Eon~2~Archean]]   
-#has_/next_item :: [[Eon~4~Phanerozoic]]   
+#has_/previous_/item :: [[Eon~2~Archean]]   
+#has_/next_/item :: [[Eon~4~Phanerozoic]]   
 
 ## #has_/text_of_/abstract 
 

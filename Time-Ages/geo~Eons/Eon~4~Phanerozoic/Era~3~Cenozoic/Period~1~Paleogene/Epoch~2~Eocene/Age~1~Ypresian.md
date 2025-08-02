@@ -6,8 +6,8 @@ A time period from 56.0 to 47.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~1~Paleocene/Age~3~Thanetian|Age~3~Thanetian]] 
-#has_/next_item :: [[Age~2~Lutetian]] 
+#has_/previous_/item :: [[../Epoch~1~Paleocene/Age~3~Thanetian|Age~3~Thanetian]] 
+#has_/next_/item :: [[Age~2~Lutetian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -75,4 +75,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~1~Ypresian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.personal.md) 
 
 ### #is_/same_as :: [Age~1~Ypresian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.secret.md)
-
+

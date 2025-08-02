@@ -7,8 +7,8 @@ A time period from 298.9 to 251.902 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~5~Carboniferous]] 
-#has_/next_item :: [[../Era~2~Mesozoic/Period~1~Triassic|Period~1~Triassic]] 
+#has_/previous_/item :: [[Period~5~Carboniferous]] 
+#has_/next_/item :: [[../Era~2~Mesozoic/Period~1~Triassic|Period~1~Triassic]] 
 
 ## #has_/text_of_/abstract 
 
@@ -80,4 +80,4 @@ noteOnly: true
 ### #is_/same_as :: [Period~6~Permian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.personal.md) 
 
 ### #is_/same_as :: [Period~6~Permian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.secret.md)
-
+

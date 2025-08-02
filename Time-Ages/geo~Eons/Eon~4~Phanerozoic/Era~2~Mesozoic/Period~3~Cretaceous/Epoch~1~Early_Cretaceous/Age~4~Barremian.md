@@ -6,8 +6,8 @@ A time period from 125.77 to 121.4 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~3~Hauterivian]] 
-#has_/next_item :: [[Age~5~Aptian]] 
+#has_/previous_/item :: [[Age~3~Hauterivian]] 
+#has_/next_/item :: [[Age~5~Aptian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -75,4 +75,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~4~Barremian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~4~Barremian.personal.md) 
 
 ### #is_/same_as :: [Age~4~Barremian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~4~Barremian.secret.md)
-
+

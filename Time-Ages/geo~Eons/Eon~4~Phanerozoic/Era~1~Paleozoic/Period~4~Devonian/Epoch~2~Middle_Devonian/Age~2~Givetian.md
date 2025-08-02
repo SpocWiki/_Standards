@@ -6,8 +6,8 @@ A time period from 387.7 to 382.7 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Eifelian]] 
-#has_/next_item :: [[../Epoch~3~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]] 
+#has_/previous_/item :: [[Age~1~Eifelian]] 
+#has_/next_/item :: [[../Epoch~3~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]] 
 
 ## #has_/text_of_/abstract 
 

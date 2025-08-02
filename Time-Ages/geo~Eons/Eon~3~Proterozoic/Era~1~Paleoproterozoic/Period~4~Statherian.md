@@ -4,8 +4,8 @@
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~3~Orosirian]] 
-#has_/next_item :: [[../Era~2~Mesoproterozoic/Period~1~Calymmian|Period~1~Calymmian]] 
+#has_/previous_/item :: [[Period~3~Orosirian]] 
+#has_/next_/item :: [[../Era~2~Mesoproterozoic/Period~1~Calymmian|Period~1~Calymmian]] 
 
 ## #has_/text_of_/abstract 
 

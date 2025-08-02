@@ -86,7 +86,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Capitalism::qk623\"]"
 # [[Capitalism]] 
 
 #has_/previous_item :: [[Mercantilism|Mercantilism]] 
-#has_/next_item :: [[Keynesianism]] 
+#has_/next_/item :: [[Keynesianism]] 
 #has_/creator :: [[../../Economics/Economist/Smith,Adam|Smith,Adam]] 
 #has_/creator :: [[../../Economics/Ricardo,David|Ricardo,David]]  
 

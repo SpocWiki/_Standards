@@ -6,8 +6,8 @@ A time period from 283.5 to 273.01 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~3~Artinskian]] 
-#has_/next_item :: [[../Epoch~2~Guadalupian/Age~1~Roadian|Age~1~Roadian]] 
+#has_/previous_/item :: [[Age~3~Artinskian]] 
+#has_/next_/item :: [[../Epoch~2~Guadalupian/Age~1~Roadian|Age~1~Roadian]] 
 
 ## #has_/text_of_/abstract 
 

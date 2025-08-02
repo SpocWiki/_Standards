@@ -6,8 +6,8 @@ A time period from 89.8 to 86.3 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Turonian]] 
-#has_/next_item :: [[Age~4~Santonian]] 
+#has_/previous_/item :: [[Age~2~Turonian]] 
+#has_/next_/item :: [[Age~4~Santonian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -75,4 +75,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~3~Coniacian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~3~Coniacian.personal.md) 
 
 ### #is_/same_as :: [Age~3~Coniacian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~2~Late_Cretaceous/Age~3~Coniacian.secret.md)
-
+

@@ -11,8 +11,8 @@ A time period from 145.0 to 100.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Period~2~Jurassic/Epoch~3~Late_Jurassic|Epoch~3~Late_Jurassic]] 
-#has_/next_item :: [[Epoch~2~Late_Cretaceous]] 
+#has_/previous_/item :: [[../Period~2~Jurassic/Epoch~3~Late_Jurassic|Epoch~3~Late_Jurassic]] 
+#has_/next_/item :: [[Epoch~2~Late_Cretaceous]] 
 
 ## #has_/text_of_/abstract 
 
@@ -78,4 +78,4 @@ noteOnly: true
 ### #is_/same_as :: [Epoch~1~Early_Cretaceous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous.personal.md) 
 
 ### #is_/same_as :: [Epoch~1~Early_Cretaceous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous.secret.md)
-
+

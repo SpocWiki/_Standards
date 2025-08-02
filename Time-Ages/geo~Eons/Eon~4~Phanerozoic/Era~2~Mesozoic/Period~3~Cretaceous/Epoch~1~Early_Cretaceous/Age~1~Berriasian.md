@@ -6,8 +6,8 @@ A time period from 145.0 to 139.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]] 
-#has_/next_item :: [[Age~2~Valanginian]] 
+#has_/previous_/item :: [[../../Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]] 
+#has_/next_/item :: [[Age~2~Valanginian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -75,4 +75,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~1~Berriasian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~1~Berriasian.personal.md) 
 
 ### #is_/same_as :: [Age~1~Berriasian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~1~Berriasian.secret.md)
-
+

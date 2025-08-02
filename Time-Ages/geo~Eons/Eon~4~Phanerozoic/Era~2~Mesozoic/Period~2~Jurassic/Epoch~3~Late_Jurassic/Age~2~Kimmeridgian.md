@@ -6,8 +6,8 @@ A time period from 154.8 to 149.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Oxfordian]] 
-#has_/next_item :: [[Age~3~Tithonian]] 
+#has_/previous_/item :: [[Age~1~Oxfordian]] 
+#has_/next_/item :: [[Age~3~Tithonian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -79,4 +79,4 @@ noteOnly: true
 ### #is_/same_as :: [Age~2~Kimmeridgian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.personal.md) 
 
 ### #is_/same_as :: [Age~2~Kimmeridgian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.secret.md)
-
+

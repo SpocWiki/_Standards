@@ -6,8 +6,8 @@ A time period from 323.2 to 315.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian|Age~Serpukhovian]] 
-#has_/next_item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
+#has_/previous_/item :: [[../../Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian|Age~Serpukhovian]] 
+#has_/next_/item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
 
 ## #has_/text_of_/abstract 
 

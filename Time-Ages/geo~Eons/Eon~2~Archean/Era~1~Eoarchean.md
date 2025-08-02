@@ -22,8 +22,8 @@ A time period from 4031 to 3600 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Eon~1~Hadean|Eon~1~Hadean]] 
-#has_/next_item :: [[Era~2~Paleoarchean]] 
+#has_/previous_/item :: [[../Eon~1~Hadean|Eon~1~Hadean]] 
+#has_/next_/item :: [[Era~2~Paleoarchean]] 
 
 #has_/text_of_/color :: 0xDA037F
 

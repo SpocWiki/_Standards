@@ -7,8 +7,8 @@ A time period from 145.0 to 66.0 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~2~Jurassic]] 
-#has_/next_item :: [[../Era~3~Cenozoic/Period~1~Paleogene|Period~1~Paleogene]] 
+#has_/previous_/item :: [[Period~2~Jurassic]] 
+#has_/next_/item :: [[../Era~3~Cenozoic/Period~1~Paleogene|Period~1~Paleogene]] 
 
 ## #has_/text_of_/abstract 
 
@@ -80,4 +80,4 @@ noteOnly: true
 ### #is_/same_as :: [Period~3~Cretaceous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.personal.md) 
 
 ### #is_/same_as :: [Period~3~Cretaceous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.secret.md)
-
+

@@ -10,7 +10,7 @@ has_id_wikidata: Q26841
 #has_/duration_ :: `=default(this.has_time_stopped, number(dateformat(date(now), "y"))) - this.has_time_started` 
 
 
-#has_/prev_item :: [[Epoch~2~Holocene]]    
+#has_/previous_/item :: [[Epoch~2~Holocene]]    
 #has_/next_item :: ---
 
 ## #has_/text_of_/abstract 

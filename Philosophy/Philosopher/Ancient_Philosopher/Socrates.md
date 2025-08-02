@@ -4,7 +4,7 @@
 #has_/time_/stopped :: -399-06-01 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
-#has_/next_item :: [[Plato]] 
+#has_/next_/item :: [[Plato]] 
 
 [[Pericles]] stirbt  429 BC und Athen verliert den 2 Peleponnesischen Krieg. 
 In dieser Situation taucht Sokrates auf. 

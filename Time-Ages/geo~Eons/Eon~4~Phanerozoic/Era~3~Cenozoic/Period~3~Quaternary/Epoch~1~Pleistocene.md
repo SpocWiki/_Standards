@@ -43,7 +43,7 @@ A time period from 2.58 to 0.0117 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Period~2~Neogene/Epoch~2~Pliocene|Epoch~2~Pliocene]] 
+#has_/previous_/item :: [[../Period~2~Neogene/Epoch~2~Pliocene|Epoch~2~Pliocene]] 
 #has_/next_item :: [[Epoch~2~Holocene]] 
 
 ## #has_/text_of_/abstract 

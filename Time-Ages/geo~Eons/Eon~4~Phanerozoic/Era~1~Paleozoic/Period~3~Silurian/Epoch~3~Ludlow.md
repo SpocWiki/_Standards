@@ -7,8 +7,8 @@ A time period from 427.4 to 419.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~2~Wenlock]] 
-#has_/next_item :: [[Epoch~4~Pridoli]] 
+#has_/previous_/item :: [[Epoch~2~Wenlock]] 
+#has_/next_/item :: [[Epoch~4~Pridoli]] 
 
 ## #has_/text_of_/abstract 
 

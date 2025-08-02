@@ -7,8 +7,8 @@ A time period from
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~1~Triassic]] 
-#has_/next_item :: [[Period~3~Cretaceous]] 
+#has_/previous_/item :: [[Period~1~Triassic]] 
+#has_/next_/item :: [[Period~3~Cretaceous]] 
 
 ## #has_/text_of_/abstract 
 
@@ -82,4 +82,4 @@ noteOnly: true
 ### #is_/same_as :: [Period~2~Jurassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.personal.md) 
 
 ### #is_/same_as :: [Period~2~Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic.secret.md)
-
+

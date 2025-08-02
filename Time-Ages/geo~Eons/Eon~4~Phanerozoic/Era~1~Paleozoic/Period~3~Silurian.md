@@ -7,8 +7,8 @@ A time period from 443.8 to 419.2 million years ago
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~2~Ordovician]] 
-#has_/next_item :: [[Period~4~Devonian]] 
+#has_/previous_/item :: [[Period~2~Ordovician]] 
+#has_/next_/item :: [[Period~4~Devonian]] 
 
 ## #has_/text_of_/abstract 
 

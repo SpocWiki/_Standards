@@ -6,8 +6,8 @@ A time period from 509 to 504.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4|Age~2~Cambrian-Stage-4]] 
-#has_/next_item :: [[Age~2~Drumian]]   
+#has_/previous_/item :: [[../Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4|Age~2~Cambrian-Stage-4]] 
+#has_/next_/item :: [[Age~2~Drumian]]   
 
 ## #has_/text_of_/abstract 
 

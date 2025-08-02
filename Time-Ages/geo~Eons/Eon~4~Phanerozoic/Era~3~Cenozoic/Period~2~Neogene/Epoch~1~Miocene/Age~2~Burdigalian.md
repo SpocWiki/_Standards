@@ -6,7 +6,7 @@ A time period from 20.44 to 15.98 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Aquitanian]] 
+#has_/previous_/item :: [[Age~1~Aquitanian]] 
 #has_/next_item :: [[Age~3~Langhian]] 
 
 ## #has_/text_of_/abstract 
