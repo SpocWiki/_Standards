@@ -5,6 +5,7 @@ aliases:
   - Antonín Dvořák
   - Antonín Leopold Dvořák
   - Antonin Dvorak
+  - Dvorak,Antonin 
 award_received:
   - "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown,694151]]"
   - "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown,6766065]]"

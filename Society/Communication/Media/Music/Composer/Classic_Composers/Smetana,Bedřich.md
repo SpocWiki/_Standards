@@ -2,6 +2,8 @@
 has_id_wikidata: 
 aliases:
   - Bedřich Smetana
+  - Bedrich Smetana
+  - Smetana,Bedrich 
 ---
 
 # [[Smetana,Bedřich]] 
@@ -24,10 +26,10 @@ aliases:
 >
 > Smetana was naturally gifted as a composer, 
 > and gave his first public performance at the age of six. 
-> After conventional schooling, he studied music under Josef Proksch in Prague. 
+> After conventional schooling, he studied music under Josef Proksch in [[../../../../../../Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague|Prague]]. 
 > His first nationalistic music was written during the 1848 Prague uprising, 
 > in which he briefly participated. 
-> After failing to establish his career in Prague, he left for Sweden, 
+> After failing to establish his career in Prague, he left for [[../../../../../../Earth/Continent/Europe/Europe~North/Sweden|Sweden]], 
 > where he set up as a teacher and choirmaster in Gothenburg, 
 > and began to write large-scale orchestral works.
 >
@@ -42,7 +44,7 @@ aliases:
 > In that same year, Smetana became the theatre's principal conductor, 
 > but the years of his conductorship were marked by controversy. 
 > Factions within the city's musical establishment 
-> considered his identification with the progressive ideas of Franz Liszt and Richard Wagner 
+> considered his identification with the progressive ideas of Franz Liszt and [[Wagner,Richard|Richard Wagner]] 
 > inimical to the development of a distinctively Czech opera style. 
 > 
 > This opposition interfered with his creative work, 
@@ -61,7 +63,7 @@ aliases:
 > 
 > However, relatively few of Smetana's works are in the international repertory, 
 > and most foreign commentators 
-> tend to regard Antonín Dvořák as a more significant Czech composer.
+> tend to regard [[../Romantic_Composers/Dvořák,Antonín|Antonín Dvořák]] as a more significant Czech composer.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bed%C5%99ich%20Smetana) 
 
