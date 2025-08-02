@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 97
 canonical_SMILES: '[Bk]'
 CAS_Registry_Number: 7440-40-6
@@ -79,7 +79,7 @@ UNII: 2YQA718KUU
 []
 (Charge-e::97)
 
-
+#is_/same_as :: [[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]] 
 
 ## #has_/text_of_/abstract 
 
