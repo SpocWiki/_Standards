@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2215
 Colon_Classification: M92
 Common_Procurement_Vocabulary_code: 45000000

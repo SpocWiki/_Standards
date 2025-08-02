@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Aircraft
 different_from: '[[_Standards/WikiData/WD~rocket,2037215]]'
 equivalent_class: "http://dbpedia.org/ontology/Aircraft"
@@ -49,9 +49,25 @@ Wolfram_Language_entity_type: Aircraft
 
 ## #has_/text_of_/abstract 
 
-> An **Aircraft** (pl.: aircraft) is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or the dynamic lift of an airfoil, or, in a few cases, direct downward thrust from its engines. Common examples of aircraft include airplanes, rotorcraft, helicopters, airships (including blimps), gliders, paramotors, and hot air balloons. Part 1  (Definitions and Abbreviations) of Subchapter A of Chapter I of Title 14 of the U. S. Code of Federal Regulations states that aircraft "means a device that is used or intended to be used for flight in the air."
+> An **Aircraft** (pl.: aircraft) is a vehicle that is able to fly by gaining support from the air. 
+> It counters the force of gravity by using either static lift or the dynamic lift of an airfoil, 
+> or, in a few cases, direct downward thrust from its engines. 
+> 
+> Common examples of aircraft include airplanes, rotorcraft, helicopters, 
+> airships (including blimps), gliders, paramotors, and hot air balloons. 
+> 
+> Part 1  (Definitions and Abbreviations) of Subchapter A of Chapter I of Title 14 
+> of the U. S. Code of Federal Regulations states that aircraft 
+> "means a device that is used or intended to be used for flight in the air."
 >
-> The human activity that surrounds aircraft is called aviation. The science of aviation, including designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, whereas unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion (if any), usage and others.
+> The human activity that surrounds aircraft is called aviation. 
+> The science of aviation, including designing and building aircraft, is called aeronautics. 
+> Crewed aircraft are flown by an onboard pilot, 
+> whereas unmanned aerial vehicles may be remotely controlled 
+> or self-controlled by onboard computers. 
+> 
+> Aircraft may be classified by different criteria, 
+> such as lift type, aircraft propulsion (if any), usage and others.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aircraft) 
 
