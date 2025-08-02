@@ -1,0 +1,23 @@
+---
+has_id_wikidata: Q189445
+---
+
+# [[Bicameral_Legislature]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Bicameral_legislature,189445|WD~Bicameral_legislature,189445]] 
+
+## #has_/text_of_/abstract 
+
+> Bicameralism is a type of legislature that is divided into 
+> two separate assemblies, chambers, or houses, known as a bicameral legislature. 
+> Bicameralism is distinguished from unicameralism, 
+> in which all members deliberate and vote as a single group. 
+> As of 2022, roughly 40% of the world's national legislatures are bicameral, 
+> while unicameralism represents 60% nationally and much more at the subnational level.
+>
+> Often, the members of the two chambers are elected or selected by different methods, which vary from jurisdiction to jurisdiction. This can often lead to the two chambers having very different compositions of members.
+>
+> Enactment of primary legislation often requires a concurrent majority—the approval of a majority of members in each of the chambers of the legislature. When this is the case, the legislature may be called an example of perfect bicameralism. However, in many parliamentary and semi-presidential systems, the house to which the executive is responsible (e.g. House of Commons of the UK and National Assembly of France) can overrule the other house (e.g. House of Lords of the UK and Senate of France) and may be regarded as an example of imperfect bicameralism. Some legislatures lie in between these two positions, with one house able to overrule the other only under certain circumstances.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bicameralism) 
+

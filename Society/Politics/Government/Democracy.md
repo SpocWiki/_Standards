@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.35
 Colon_Classification: W6
 Commons_category: Democracy

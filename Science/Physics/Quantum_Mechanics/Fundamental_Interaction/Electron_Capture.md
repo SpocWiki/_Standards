@@ -1,6 +1,8 @@
 
 # [[Electron_Capture]] 
 
+#is_/same_as :: [[Beta_Decay]] 
+
 ## #has_/text_of_/abstract 
 
 > Electron capture (K-electron capture, also K-capture, or L-electron capture, L-capture) 
@@ -17,7 +19,8 @@
 > causes the daughter atom to recoil with a single characteristic momentum.
 >
 > The resulting daughter nuclide, if it is in an excited state, then transitions to its ground state. 
-> Usually, a gamma ray is emitted during this transition, but nuclear de-excitation may also take place by internal conversion.
+> Usually, a gamma ray is emitted during this transition, 
+> but nuclear de-excitation may also take place by internal conversion.
 >
 > Following capture of an inner electron from the atom, an outer electron replaces the electron that was captured and one or more characteristic X-ray photons is emitted in this process. Electron capture sometimes also results in the Auger effect, where an electron is ejected from the atom's electron shell due to interactions between the atom's electrons in the process of seeking a lower energy electron state.
 >
