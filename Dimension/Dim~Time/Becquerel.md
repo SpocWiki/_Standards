@@ -33,6 +33,7 @@ Commons_category: Becquerel (unit)
 # [[Becquerel]] 
 
 #is_/same_as :: [[../../WikiData/WD~Becquerel,102573|WD~Becquerel,102573]] 
+#is_/similar_to :: [[Hertz]] 
 
 ## #has_/text_of_/abstract 
 
