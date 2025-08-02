@@ -53,7 +53,7 @@ markerFolder: ./Serbia//
 [Area-Land::0]
 has_place_continent:: [[Europe]]  
 [VehicleCode::YU]
-Capital :: [[Beograd]]  
+Capital ::[[Serbia/districts~Serbia/Beograd]]]  
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
