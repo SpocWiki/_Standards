@@ -1,4 +1,4 @@
-﻿---
+---
 described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
 different_from:
 - '[[_Standards/WikiData/WD~Behaviour,1206352]]'
@@ -27,6 +27,9 @@ subclass_of: '[[_Standards/WikiData/WD~pattern,2083958]]'
 U_S_National_Archives_Identifier: 10676224
 ---
 
+# [[Behavior]] 
+
+#is_/same_as :: [[../../WikiData/WD~Behavior,9332|WD~Behavior,9332]] 
 ## #has_/text_of_/abstract 
 
 > **Behavior** (American English) or behaviour (British English) 
