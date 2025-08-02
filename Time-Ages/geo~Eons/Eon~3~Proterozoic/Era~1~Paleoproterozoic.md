@@ -64,8 +64,8 @@ A time period from 2500 to 1600 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Eon~2~Archean/Era~4~Neoarchean|Era~4~Neoarchean]] 
-#has_/next_item :: [[Era~2~Mesoproterozoic]] 
+#has_/previous_/item :: [[../Eon~2~Archean/Era~4~Neoarchean|Era~4~Neoarchean]] 
+#has_/next_/item :: [[Era~2~Mesoproterozoic]] 
 
 ## #has_/text_of_/abstract 
 

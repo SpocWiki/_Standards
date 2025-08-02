@@ -6,8 +6,8 @@ A time period from 247.2 to 242 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~1~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]] 
-#has_/next_item :: [[Age~2~Ladinian]] 
+#has_/previous_/item :: [[../Epoch~1~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]] 
+#has_/next_/item :: [[Age~2~Ladinian]] 
 
 ## #has_/text_of_/abstract 
 

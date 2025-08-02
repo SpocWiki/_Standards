@@ -7,8 +7,8 @@ A time period from 489.5 to 485.4 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Jiangshanian]] 
-#has_/next_item :: [[../../Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian|Age~1~Tremadocian]] 
+#has_/previous_/item :: [[Age~2~Jiangshanian]] 
+#has_/next_/item :: [[../../Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian|Age~1~Tremadocian]] 
 
 ## #has_/text_of_/abstract 
 

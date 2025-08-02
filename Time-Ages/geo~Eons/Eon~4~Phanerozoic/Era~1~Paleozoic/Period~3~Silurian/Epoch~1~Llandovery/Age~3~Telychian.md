@@ -6,8 +6,8 @@ A time period from 438.5 to 433.4 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Aeronian]] 
-#has_/next_item :: [[../Epoch~2~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]] 
+#has_/previous_/item :: [[Age~2~Aeronian]] 
+#has_/next_/item :: [[../Epoch~2~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]] 
 
 ## #has_/text_of_/abstract 
 

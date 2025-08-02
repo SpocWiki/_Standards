@@ -6,8 +6,8 @@ A time period from 298.9 to 293.51 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian|Age~2~Gzhelian]] 
-#has_/next_item :: [[Age~2~Sakmarian]] 
+#has_/previous_/item :: [[../../Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian|Age~2~Gzhelian]] 
+#has_/next_/item :: [[Age~2~Sakmarian]] 
 
 ## #has_/text_of_/abstract 
 

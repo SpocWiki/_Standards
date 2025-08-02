@@ -13,7 +13,7 @@ aliases:
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
 #has_/previous_item :: [[1000-High_Middle-Ages]]
-#has_/next_item :: 
+#has_/next_/item :: 
 
 ## #has_/text_of_/abstract 
 

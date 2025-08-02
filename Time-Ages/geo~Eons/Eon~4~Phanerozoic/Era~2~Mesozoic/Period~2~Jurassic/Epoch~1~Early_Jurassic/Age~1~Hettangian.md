@@ -6,8 +6,8 @@ A time period from 201.4 to 199.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]] 
-#has_/next_item :: [[Age~2~Sinemurian]] 
+#has_/previous_/item :: [[../../Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]] 
+#has_/next_/item :: [[Age~2~Sinemurian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Quantum mechanics"
 Baidu_Tieba_name: 量子力学

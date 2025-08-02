@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 08.41
 Colon_Classification: R5
 Commons_category: Aesthetics

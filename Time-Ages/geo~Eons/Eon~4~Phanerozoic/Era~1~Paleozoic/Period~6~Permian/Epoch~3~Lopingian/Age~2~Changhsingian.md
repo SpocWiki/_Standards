@@ -11,8 +11,8 @@ A time period from 254.14 to 251.902 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Wuchiapingian]] 
-#has_/next_item :: [[../../../Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan|Age~1~Induan]] 
+#has_/previous_/item :: [[Age~1~Wuchiapingian]] 
+#has_/next_/item :: [[../../../Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan|Age~1~Induan]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1080,7 +1080,7 @@ markerFolder: ./China//
 [Area-Land::9326410]
 has_place_continent:: [[Asia]]  
 [VehicleCode::CHN]
-Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]  
+Capital :: [[China/provinces~China/Beijing/City/Beijing,City]]  
 ![[Coat_of_arms_of_China.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-China.mp3]]
 ![[Flag_of_China.svg|350]]

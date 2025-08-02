@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Eubacteria
 - Bacteria
@@ -117,8 +117,6 @@ video:
 WordLift_URL: "http://data.wordlift.io/wl01714/entity/bacteria"
 ---
 
-#is_/same_as :: [[../../WikiData/WD~Bacteria,10876|WD~Bacteria,10876]] 
-
 # [[Bacteria]] 
 
 Class of all bacteria.
@@ -131,6 +129,9 @@ In [[../../schema-org]]: Pathogenic bacteria that cause bacterial infection.
 
 [ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
+
+
+#is_/same_as :: [[../../WikiData/WD~Bacteria,10876|WD~Bacteria,10876]] 
 
 
 ![Scanning Electron Micrograph of Enterococcus](Enterococcus.jpg)  ![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonas_aeruginosa.jpg)  ![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillus_anthracis.jpg) 

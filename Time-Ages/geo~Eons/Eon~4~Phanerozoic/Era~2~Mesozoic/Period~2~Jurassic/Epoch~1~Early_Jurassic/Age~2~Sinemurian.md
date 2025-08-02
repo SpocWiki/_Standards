@@ -6,8 +6,8 @@ A time period from 199.5 to 192.9 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Hettangian]] 
-#has_/next_item :: [[Age~3~Pliensbachian]] 
+#has_/previous_/item :: [[Age~1~Hettangian]] 
+#has_/next_/item :: [[Age~3~Pliensbachian]] 
 
 ## #has_/text_of_/abstract 
 

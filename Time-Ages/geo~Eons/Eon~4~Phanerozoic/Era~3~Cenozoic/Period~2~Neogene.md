@@ -32,8 +32,8 @@ A time period from 23.03 to 2.58 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~1~Paleogene]] 
-#has_/next_item :: [[Period~3~Quaternary]] 
+#has_/previous_/item :: [[Period~1~Paleogene]] 
+#has_/next_/item :: [[Period~3~Quaternary]] 
 
 #has_/abbreviation :: N
 #has_/time_/started :: -23.03e6 

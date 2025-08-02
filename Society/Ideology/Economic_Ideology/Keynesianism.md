@@ -3,8 +3,8 @@ aliases:
 - "Keynesian economics"
 ---
 
-#has_/prev_item :: [[Capitalism]] 
-#has_/next_item :: [[Neoliberalism]] 
+#has_/previous_/item :: [[Capitalism]] 
+#has_/next_/item :: [[Neoliberalism]] 
 #has_/creator :: [[../../Economics/Economist/Keynes,John_Maynard|Keynes,John_Maynard]] 
 
 ## #has_/text_of_/abstract 

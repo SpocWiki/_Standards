@@ -32,8 +32,8 @@ This is 3854 to 7750 HE (Human Era 10_000BC)
 
 #has_/text_of_/color :: 0xFDECE4
 
-#has_/prev_item :: [[0000-Greenlandian]]   
-#has_/next_item :: [[Age~3~Meghalayan]]   
+#has_/previous_/item :: [[0000-Greenlandian]]   
+#has_/next_/item :: [[Age~3~Meghalayan]]   
 
 ## #has_/text_of_/abstract 
 

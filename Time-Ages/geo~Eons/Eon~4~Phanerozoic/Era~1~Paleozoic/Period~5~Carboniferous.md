@@ -7,8 +7,8 @@ A time period from 358.9 to 298.9 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~4~Devonian]] 
-#has_/next_item :: [[Period~6~Permian]] 
+#has_/previous_/item :: [[Period~4~Devonian]] 
+#has_/next_/item :: [[Period~6~Permian]] 
 
 ## #has_/text_of_/abstract 
 

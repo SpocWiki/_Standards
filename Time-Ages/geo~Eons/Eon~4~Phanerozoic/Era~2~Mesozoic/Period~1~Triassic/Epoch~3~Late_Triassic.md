@@ -11,8 +11,8 @@ A time period from 237 to 201.4 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~2~Middle_Triassic]] 
-#has_/next_item :: [[../Period~2~Jurassic/Epoch~1~Early_Jurassic|Epoch~1~Early_Jurassic]] 
+#has_/previous_/item :: [[Epoch~2~Middle_Triassic]] 
+#has_/next_/item :: [[../Period~2~Jurassic/Epoch~1~Early_Jurassic|Epoch~1~Early_Jurassic]] 
 
 ## #has_/text_of_/abstract 
 

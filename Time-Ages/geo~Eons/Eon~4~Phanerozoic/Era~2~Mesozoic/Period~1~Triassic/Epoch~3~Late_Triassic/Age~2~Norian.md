@@ -6,8 +6,8 @@ A time period from 227 to 208.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Carnian]] 
-#has_/next_item :: [[Age~3~Rhaetian]] 
+#has_/previous_/item :: [[Age~1~Carnian]] 
+#has_/next_/item :: [[Age~3~Rhaetian]] 
 
 ## #has_/text_of_/abstract 
 

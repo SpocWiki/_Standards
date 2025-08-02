@@ -7,8 +7,8 @@ A time period from 56.0 to 33.9 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~1~Paleocene]] 
-#has_/next_item :: [[Epoch~3~Oligocene]] 
+#has_/previous_/item :: [[Epoch~1~Paleocene]] 
+#has_/next_/item :: [[Epoch~3~Oligocene]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 407.6 to 393.3 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Pragian]] 
-#has_/next_item :: [[../Epoch~2~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]] 
+#has_/previous_/item :: [[Age~2~Pragian]] 
+#has_/next_/item :: [[../Epoch~2~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -11,8 +11,8 @@ A time period from 419.2 to 393.3 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Period~3~Silurian/Epoch~4~Pridoli|Epoch~4~Pridoli]]  
-#has_/next_item :: [[Epoch~2~Middle_Devonian]] 
+#has_/previous_/item :: [[../Period~3~Silurian/Epoch~4~Pridoli|Epoch~4~Pridoli]]  
+#has_/next_/item :: [[Epoch~2~Middle_Devonian]] 
 
 ## #has_/text_of_/abstract 
 

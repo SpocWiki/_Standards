@@ -6,8 +6,8 @@ A time period from 470.0 to 467.3 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~1~Early_Ordovician/Age~2~Floian|Age~2~Floian]]   
-#has_/next_item :: [[Age~2~Darriwilian]] 
+#has_/previous_/item :: [[../Epoch~1~Early_Ordovician/Age~2~Floian|Age~2~Floian]]   
+#has_/next_/item :: [[Age~2~Darriwilian]] 
 
 ## #has_/text_of_/abstract 
 

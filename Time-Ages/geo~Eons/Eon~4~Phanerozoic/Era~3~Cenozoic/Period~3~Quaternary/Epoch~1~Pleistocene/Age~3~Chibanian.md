@@ -15,8 +15,8 @@ A time period from 0.774 to 0.129 million years ago.
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 
-#has_/prev_item :: [[Age~2~Calabrian]]   
-#has_/next_item :: [[Age~4~Late_Pleistocene]]   
+#has_/previous_/item :: [[Age~2~Calabrian]]   
+#has_/next_/item :: [[Age~4~Late_Pleistocene]]   
 
 ## #has_/text_of_/abstract 
 

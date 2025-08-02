@@ -7,8 +7,8 @@ A time period from 273.01 to 259.51 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~1~Cisuralian]] 
-#has_/next_item :: [[Epoch~3~Lopingian]] 
+#has_/previous_/item :: [[Epoch~1~Cisuralian]] 
+#has_/next_/item :: [[Epoch~3~Lopingian]] 
 
 ## #has_/text_of_/abstract 
 

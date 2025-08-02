@@ -6,8 +6,8 @@ A time period from 61.6 to 59.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Danian]] 
-#has_/next_item :: [[Age~3~Thanetian]] 
+#has_/previous_/item :: [[Age~1~Danian]] 
+#has_/next_/item :: [[Age~3~Thanetian]] 
 
 ## #has_/text_of_/abstract 
 

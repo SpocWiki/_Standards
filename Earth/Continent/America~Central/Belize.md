@@ -349,10 +349,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 084 ]
 
-
-
 [ISO2::BZ]
 [ISO3::BLZ] 
+
+#is_/same_as :: [[../../../WikiData/WD~Belize,242|WD~Belize,242]] 
 
 ## #has_/map  
 

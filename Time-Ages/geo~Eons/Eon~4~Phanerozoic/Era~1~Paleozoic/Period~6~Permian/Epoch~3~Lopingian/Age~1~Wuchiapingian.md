@@ -6,8 +6,8 @@ A time period from 259.51 to 254.14 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~2~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]] 
-#has_/next_item :: [[Age~2~Changhsingian]] 
+#has_/previous_/item :: [[../Epoch~2~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]] 
+#has_/next_/item :: [[Age~2~Changhsingian]] 
 
 ## #has_/text_of_/abstract 
 

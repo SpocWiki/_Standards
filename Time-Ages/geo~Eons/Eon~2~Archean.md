@@ -57,8 +57,8 @@ A time period from 4031 to 2500 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Eon~1~Hadean]]    
-#has_/next_item :: [[Eon~3~Proterozoic]]    
+#has_/previous_/item :: [[Eon~1~Hadean]]    
+#has_/next_/item :: [[Eon~3~Proterozoic]]    
 
 ## #has_/text_of_/abstract 
 

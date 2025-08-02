@@ -427,8 +427,6 @@ shares_border_with:
 
 # [[Bangladesh]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Bangladesh,902]]  
-
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Bangladesh 
 
@@ -498,10 +496,10 @@ Sub-region_Name ::  [[Southern Asia]]
 
 [	ISO3166-1-numeric	 :: 050 ]
 
-
-
 [ISO2::BD]
 [ISO3::BGD] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~Bangladesh,902]]  
 
 ## #has_/map  
 

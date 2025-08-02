@@ -6,8 +6,8 @@ A time period from 303.7 to 298.9 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Kasimovian]] 
-#has_/next_item :: [[../../../Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian|Age~1~Asselian]] 
+#has_/previous_/item :: [[Age~1~Kasimovian]] 
+#has_/next_/item :: [[../../../Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian|Age~1~Asselian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -476,10 +476,10 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 [	ISO3166-1-numeric	 :: 112 ]
 
-
-
 [ISO2::BY]
 [ISO3::BLR] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Belarus,184|WD~Belarus,184]]
 
 ## #has_/map  
 

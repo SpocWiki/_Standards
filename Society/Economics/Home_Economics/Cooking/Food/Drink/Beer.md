@@ -1,4 +1,4 @@
-﻿---
+---
 2022_Harmonized_System_Code: 2203
 Amazon_com_browse_node: 2983385011
 carbon_footprint:
@@ -75,13 +75,40 @@ U_S_National_Archives_Identifier: 10646278
 Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Beer\"]"
 ---
 
+# [[Beer]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Beer,44|WD~Beer,44]] 
+
 ## #has_/text_of_/abstract 
 
-> **Beer** is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain—most commonly malted barley, although wheat, maize (corn), rice, and oats are also used. The grain is mashed to convert starch in the grain to sugars, which dissolve in water to form wort. Fermentation of the wort by yeast produces ethanol and carbonation in the beer. Beer is one of the oldest alcoholic drinks in the world, the most widely consumed, and the third most popular drink after water and tea. Most modern beer is brewed with hops, which add bitterness and other flavours and act as a natural preservative and stabilising agent. Other flavouring agents, such as gruit, herbs, or fruits, may be included or used instead of hops. In commercial brewing, natural carbonation is often replaced with forced carbonation.
+> **Beer** is an alcoholic beverage produced by the brewing and fermentation of starches 
+> from cereal grain—most commonly malted barley, 
+> although wheat, maize (corn), rice, and oats are also used. 
+> 
+> The grain is mashed to convert starch in the grain to sugars, 
+> which dissolve in water to form wort. 
+> 
+> Fermentation of the wort by yeast produces ethanol and carbonation in the beer. 
+> Beer is one of the oldest alcoholic drinks in the world, 
+> the most widely consumed, and the third most popular drink after water and tea. 
+> Most modern beer is brewed with hops, which add bitterness and other flavours 
+> and act as a natural preservative and stabilising agent. 
+> Other flavouring agents, such as gruit, herbs, or fruits, may be included or used instead of hops. 
+> In commercial brewing, natural carbonation is often replaced with forced carbonation.
 >
-> Beer is distributed in bottles and cans, and is commonly available on draught in pubs and bars. The brewing industry is a global business, consisting of several dominant multinational companies and many thousands of smaller producers ranging from brewpubs to regional breweries. The strength of modern beer is usually around 4% to 6% alcohol by volume (ABV).
+> Beer is distributed in bottles and cans, and is commonly available on draught in pubs and bars. 
+> The brewing industry is a global business, 
+> consisting of several dominant multinational companies 
+> and many thousands of smaller producers ranging from brewpubs to regional breweries. 
+> The strength of modern beer is usually around 4% to 6% alcohol by volume (ABV).
 >
-> Some of the earliest writings mention the production and distribution of beer: the Code of Hammurabi (1750 BC) included laws regulating it, while "The Hymn to Ninkasi", a prayer to the Mesopotamian goddess of beer, contains a recipe for it. Beer forms part of the culture of many nations and is associated with social traditions such as beer festivals, as well as activities like pub games.
+> Some of the earliest writings mention the production and distribution of beer: 
+> the Code of Hammurabi (1750 BC) included laws regulating it, 
+> while "The Hymn to Ninkasi", a prayer to the Mesopotamian goddess of beer, 
+> contains a recipe for it. 
+> 
+> Beer forms part of the culture of many nations 
+> and is associated with social traditions such as beer festivals, as well as activities like pub games.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beer) 
 

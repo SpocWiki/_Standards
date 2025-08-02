@@ -61,8 +61,8 @@ It follows the Last Glacial Period, which concluded with the Holocene glacial re
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~1~Pleistocene]]   
-#has_/next_item :: [[Epoch~3~Anthropocene]]    
+#has_/previous_/item :: [[Epoch~1~Pleistocene]]   
+#has_/next_/item :: [[Epoch~3~Anthropocene]]    
 #is_/same_as :: [[../../../../../WikiData/WD~Holocene,25445]]
 
 ## #has_/text_of_/abstract 

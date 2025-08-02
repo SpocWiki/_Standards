@@ -401,18 +401,18 @@ GitHub_topic: austria
 
 ## International Names
 
-[	name	 :: Austria ]
-[	name-en	 :: Austria ]
-[	name-es	 :: Austria ]
-[	name-fr	 :: Autriche ]
-[	name-cn	 :: 奥地利 ]
-[	name-ar	 :: النمسا ]
-[	name-ru	 :: Австрия ]
-[name-de::Österreich]
+[	name	 :: Austria ] 
+[	name-en	 :: Austria ] 
+[	name-es	 :: Austria ] 
+[	name-fr	 :: Autriche ] 
+[	name-cn	 :: 奥地利 ] 
+[	name-ar	 :: النمسا ] 
+[	name-ru	 :: Австрия ] 
+[name-de::Österreich] 
 
 
-[ISO2::AT]
-[ISO3::AUT] 
+[ISO2::AT] 
+[ISO3::AUT]  
 #is_/same_as :: [[../../../../WikiData/WD~Austria,40|WD~Austria,40]] 
 
 > [!info] This Article is only a Stub. 

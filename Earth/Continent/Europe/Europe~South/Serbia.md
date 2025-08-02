@@ -535,7 +535,7 @@ markerFolder: ./Serbia//
 [Area-Land::]
 has_place_continent:: [[Europe]]  
 [VehicleCode::SRB]
-Capital :: [[Beograd]]  
+Capital :: [[Serbia/districts~Serbia/Beograd]]  
 ![[Coat_of_arms_of_Serbia.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Serbia.mp3]]
 ![[Flag_of_Serbia.svg|350]]

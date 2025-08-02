@@ -23,7 +23,7 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,1
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #has_/previous_item :: [[Classical_Antiquity]]  
-#has_/next_item :: [[Middle_Ages/0750-Early_Middle-Ages]]
+#has_/next_/item :: [[Middle_Ages/0750-Early_Middle-Ages]]
 
 
 ## #has_/text_of_/abstract 

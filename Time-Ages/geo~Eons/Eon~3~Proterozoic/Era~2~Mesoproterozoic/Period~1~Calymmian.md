@@ -6,8 +6,8 @@ A time period from 1600 to 1400 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Era~1~Paleoproterozoic/Period~4~Statherian|Period~4~Statherian]] 
-#has_/next_item :: [[Period~2~Ectasian]] 
+#has_/previous_/item :: [[../Era~1~Paleoproterozoic/Period~4~Statherian|Period~4~Statherian]] 
+#has_/next_/item :: [[Period~2~Ectasian]] 
 
 #is_/part_of :: [[../../Eon~4~Phanerozoic/Era~2~Mesozoic]] 
 

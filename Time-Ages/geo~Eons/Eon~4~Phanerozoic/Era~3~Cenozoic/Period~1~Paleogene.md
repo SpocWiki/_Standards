@@ -32,8 +32,8 @@ A time period from 66.0 to 23.03 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Era~2~Mesozoic/Period~3~Cretaceous|Period~3~Cretaceous]] 
-#has_/next_item :: [[Period~2~Neogene]] 
+#has_/previous_/item :: [[../Era~2~Mesozoic/Period~3~Cretaceous|Period~3~Cretaceous]] 
+#has_/next_/item :: [[Period~2~Neogene]] 
 
 ## #has_/text_of_/abstract 
 

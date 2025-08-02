@@ -99,7 +99,7 @@ U_S_National_Archives_Identifier: 10641540
 >
 > Sugars are found in the tissues of most plants. 
 > Honey and fruits are abundant natural sources of simple sugars. 
-> Sucrose is especially concentrated in [[sugarcane]] and [[Sugar_beet]], 
+> Sucrose is especially concentrated in [[sugarcane]] an[[../../../bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet]]]], 
 > making them ideal for efficient commercial extraction to make refined sugar. 
 > 
 > In 2016, the combined world production of those two crops was about two billion tonnes. 

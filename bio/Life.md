@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - biota
 Colon_Classification: G1
@@ -72,6 +72,16 @@ subclass_of:
 - '[[_Standards/WikiData/WD~lyfe,98925662]]'
 UMLS_CUI: C0376558
 ---
+
+# [[Life]] 
+
+Life has a Chicken-and-Egg Problem: 
+- Protein-Synthesis is encoded in DNA 
+- [[DNA_Replication]] requires  encodes the Proteins, especially necessary Enzymes 
+
+[[LUCA(Last_Universal_Common_Ancestor)]] has hundreds of chemical Reaction chains. 
+Current investigations check whether these Enzymes can appear or be substituted naturally 
+under high temperatures and pressures together with mineralic Sources like [[Hydrothermal_Vent]]s. 
 
 ## #has_/text_of_/abstract 
 

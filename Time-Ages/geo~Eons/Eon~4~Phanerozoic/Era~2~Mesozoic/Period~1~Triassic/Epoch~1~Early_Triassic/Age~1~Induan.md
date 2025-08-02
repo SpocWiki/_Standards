@@ -6,8 +6,8 @@ A time period from 251.902 to 251.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../../Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]] 
-#has_/next_item :: [[Age~2~Olenekian]] 
+#has_/previous_/item :: [[../../../Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]] 
+#has_/next_/item :: [[Age~2~Olenekian]] 
 
 ## #has_/text_of_/abstract 
 

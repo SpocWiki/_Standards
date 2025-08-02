@@ -6,8 +6,8 @@ A time period from 165.3 to 161.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~3~Bathonian]] 
-#has_/next_item :: [[../Epoch~3~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]] 
+#has_/previous_/item :: [[Age~3~Bathonian]] 
+#has_/next_/item :: [[../Epoch~3~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]] 
 
 ## #has_/text_of_/abstract 
 

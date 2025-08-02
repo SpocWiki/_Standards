@@ -3,8 +3,8 @@
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~2~Ectasian]] 
-#has_/next_item :: [[../Era~3~Neoproterozoic/Period~1~Tonian|Period~1~Tonian]] 
+#has_/previous_/item :: [[Period~2~Ectasian]] 
+#has_/next_/item :: [[../Era~3~Neoproterozoic/Period~1~Tonian|Period~1~Tonian]] 
 
 ## #has_/text_of_/abstract 
 

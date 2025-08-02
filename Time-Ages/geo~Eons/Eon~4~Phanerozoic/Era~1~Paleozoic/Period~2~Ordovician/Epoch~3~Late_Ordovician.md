@@ -11,8 +11,8 @@ A time period from 458.4 to 443.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Epoch~2~Middle_Ordovician]]  
-#has_/next_item :: [[../Period~3~Silurian/Epoch~1~Llandovery|Epoch~1~Llandovery]]  
+#has_/previous_/item :: [[Epoch~2~Middle_Ordovician]]  
+#has_/next_/item :: [[../Period~3~Silurian/Epoch~1~Llandovery|Epoch~1~Llandovery]]  
 
 ## #has_/text_of_/abstract 
 

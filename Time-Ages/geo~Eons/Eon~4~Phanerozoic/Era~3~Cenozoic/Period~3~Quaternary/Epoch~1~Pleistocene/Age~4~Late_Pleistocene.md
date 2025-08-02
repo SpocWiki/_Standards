@@ -14,8 +14,8 @@ A time period from 0.129 to 0.0117 million years ago.
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 
-#has_/prev_item :: [[Age~3~Chibanian]]   
-#has_/next_item :: [[../Epoch~2~Holocene/0000-Greenlandian|0000-Greenlandian]]   
+#has_/previous_/item :: [[Age~3~Chibanian]]   
+#has_/next_/item :: [[../Epoch~2~Holocene/0000-Greenlandian|0000-Greenlandian]]   
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 184.2 to 174.7 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~3~Pliensbachian]] 
-#has_/next_item :: [[../Epoch~2~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]] 
+#has_/previous_/item :: [[Age~3~Pliensbachian]] 
+#has_/next_/item :: [[../Epoch~2~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]] 
 
 ## #has_/text_of_/abstract 
 

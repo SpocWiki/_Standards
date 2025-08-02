@@ -8,8 +8,8 @@ has_id_wikidata: Q38348
 ---
 
 #is_/same_as :: [[../../../../WikiData/WD~Phylum,38348]] 
-#has_/prev_item :: [[../bio~Kingdom]]  
-#has_/next_item :: [[Bilateria/bio~Class]]  
+#has_/previous_/item :: [[../bio~Kingdom]]  
+#has_/next_/item :: [[Bilateria/bio~Class]]  
 
 ## #has_/text_of_/abstract 
 

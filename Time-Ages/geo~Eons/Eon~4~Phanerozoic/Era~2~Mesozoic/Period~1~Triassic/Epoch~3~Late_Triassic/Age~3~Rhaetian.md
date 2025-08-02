@@ -6,8 +6,8 @@ A time period from 208.5 to 201.4 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Norian]] 
-#has_/next_item :: [[../../Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]] 
+#has_/previous_/item :: [[Age~2~Norian]] 
+#has_/next_/item :: [[../../Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]] 
 
 ## #has_/text_of_/abstract 
 

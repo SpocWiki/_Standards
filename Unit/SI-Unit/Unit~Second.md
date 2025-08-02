@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Second
 Commons_gallery: Second
 conversion_to_SI_unit: 1

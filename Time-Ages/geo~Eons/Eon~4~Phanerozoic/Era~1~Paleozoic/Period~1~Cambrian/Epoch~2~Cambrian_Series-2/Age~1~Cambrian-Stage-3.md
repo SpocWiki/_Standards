@@ -6,8 +6,8 @@ A time period from 521 to 514 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~1~Terreneuvian/Age~2~Tommotian|Age~2~Tommotian]]   
-#has_/next_item :: [[Age~2~Cambrian-Stage-4]]   
+#has_/previous_/item :: [[../Epoch~1~Terreneuvian/Age~2~Tommotian|Age~2~Tommotian]]   
+#has_/next_/item :: [[Age~2~Cambrian-Stage-4]]   
 
 ## #has_/text_of_/abstract 
 

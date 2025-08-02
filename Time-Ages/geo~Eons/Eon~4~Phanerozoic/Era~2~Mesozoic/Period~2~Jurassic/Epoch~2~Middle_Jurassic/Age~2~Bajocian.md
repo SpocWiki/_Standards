@@ -6,8 +6,8 @@ A time period from 170.9 to 168.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Aalenian]] 
-#has_/next_item :: [[Age~3~Bathonian]]   
+#has_/previous_/item :: [[Age~1~Aalenian]] 
+#has_/next_/item :: [[Age~3~Bathonian]]   
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 86.3 to 83.6 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~5~Campanian]] 
-#has_/next_item :: [[Age~6~Maastrichtian]] 
+#has_/previous_/item :: [[Age~5~Campanian]] 
+#has_/next_/item :: [[Age~6~Maastrichtian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 410.8 to 407.6 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Lochkovian]] 
-#has_/next_item :: [[Age~3~Emsian]] 
+#has_/previous_/item :: [[Age~1~Lochkovian]] 
+#has_/next_/item :: [[Age~3~Emsian]] 
 
 ## #has_/text_of_/abstract 
 

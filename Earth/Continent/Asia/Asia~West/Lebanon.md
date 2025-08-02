@@ -431,8 +431,9 @@ Sub-region_Name ::  [[Western Asia]]
 [ISO2::LB]
 [ISO3::LBN] 
 
-## #has_/map  
+#is_/same_as :: [[../../../../WikiData/WD~Lebanon,822|WD~Lebanon,822]] 
 
+## #has_/map  
 
 
 ```leaflet

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Classical mechanics"
 Commons_category: "Classical mechanics"

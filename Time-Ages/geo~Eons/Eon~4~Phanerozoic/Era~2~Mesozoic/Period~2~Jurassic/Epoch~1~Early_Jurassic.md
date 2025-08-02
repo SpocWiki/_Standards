@@ -7,8 +7,8 @@ A time period from 201.4 to 174.7 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Period~1~Triassic/Epoch~3~Late_Triassic|Epoch~3~Late_Triassic]] 
-#has_/next_item :: [[Epoch~2~Middle_Jurassic]] 
+#has_/previous_/item :: [[../Period~1~Triassic/Epoch~3~Late_Triassic|Epoch~3~Late_Triassic]] 
+#has_/next_/item :: [[Epoch~2~Middle_Jurassic]] 
 
 ## #has_/text_of_/abstract 
 

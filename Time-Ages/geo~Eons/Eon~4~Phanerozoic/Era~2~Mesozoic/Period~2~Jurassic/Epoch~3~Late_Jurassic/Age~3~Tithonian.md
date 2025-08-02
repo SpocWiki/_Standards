@@ -6,8 +6,8 @@ A time period from 149.2 to 145 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~2~Kimmeridgian]] 
-#has_/next_item :: [[../../Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] 
+#has_/previous_/item :: [[Age~2~Kimmeridgian]] 
+#has_/next_/item :: [[../../Period~3~Cretaceous/Epoch~1~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Guns
 connects_with: '[[_Standards/WikiData/WD~gun_mount,97384104]]'
 described_by_source:

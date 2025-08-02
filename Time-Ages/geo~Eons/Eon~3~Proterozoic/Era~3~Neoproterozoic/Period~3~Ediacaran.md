@@ -6,8 +6,8 @@ A time period from 635 to 538.8 million years ago
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Period~2~Cryogenian]] 
-#has_/next_item :: [[../../Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian|Period~1~Cambrian]] 
+#has_/previous_/item :: [[Period~2~Cryogenian]] 
+#has_/next_/item :: [[../../Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian|Period~1~Cambrian]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 358.9 to 346.7 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../../Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] 
-#has_/next_item :: [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] 
+#has_/previous_/item :: [[../../../Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] 
+#has_/next_/item :: [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] 
 
 ## #has_/text_of_/abstract 
 

@@ -495,9 +495,11 @@ coordinates_of_westernmost_point: "Point(2.545269566 51.089449723)"
 [	name-ru	 :: Бельгия ]
 [name-de::Belgien]
 
-
 [ISO2::BE]
 [ISO3::BEL]
+
+#is_/same_as :: [[../../../../WikiData/WD~Belgium,31|WD~Belgium,31]] 
+
 ```leaflet
 id: Belgium
 zoomFeatures: true 

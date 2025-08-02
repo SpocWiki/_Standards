@@ -23,8 +23,8 @@ A time period from 323.2 to 315.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Sub-Period~Mississippian/Epoch~3~Late_Mississippian|Epoch~3~Late_Mississippian]]  
-#has_/next_item :: [[Epoch~2~Middle_Pennsylvanian]]  
+#has_/previous_/item :: [[../Sub-Period~Mississippian/Epoch~3~Late_Mississippian|Epoch~3~Late_Mississippian]]  
+#has_/next_/item :: [[Epoch~2~Middle_Pennsylvanian]]  
 
 ## #has_/text_of_/abstract 
 

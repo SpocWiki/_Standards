@@ -363,12 +363,10 @@ WIPO_ST_3: MZ
 
 # [[Mozambique]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mozambique,1029]] 
-
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mozambique 
 
-[[Mozambique/ReadMe]] 
+[[Earth/Continent/Africa/Africa~East/Mozambique/ReadMe]] 
 
 [	ISO4217-currency_alphabetic	 :: MZN ]
 [	ISO4217-currency_name	 :: Mozambique Metical ]
@@ -452,7 +450,7 @@ markerFolder: ./Mozambique//
 [Area-Land::784090]
 has_place_continent:: [[Africa]]  
 [VehicleCode::MOC]
-Capital :: [[Maputo]]  
+Capital :: [[Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/Maputo]]  
 
 ![[Emblem_of_Mozambique.svg|350]]
 
@@ -466,6 +464,7 @@ Capital :: [[Maputo]]
 [has_place_longitude::33.7917]
 [has_place_latitude::-22.1]
 
+#is_/same_as ::  [[../../../../WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]  
 
 ## #has_/text_of_/abstract 
 
@@ -473,9 +472,29 @@ Capital :: [[Maputo]]
 >
 > Between the 7th and 11th centuries, a series of Swahili port towns developed on that area, which contributed to the development of a distinct Swahili culture and dialect. In the late medieval period, these towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The voyage of Vasco da Gama in 1498 marked the arrival of the Portuguese, who began a gradual process of colonisation and settlement in 1505. After over four centuries of Portuguese rule, Mozambique gained independence in 1975, becoming the People's Republic of Mozambique shortly thereafter. After only two years of independence, the country descended into an intense and protracted civil war lasting from 1977 to 1992. In 1994, Mozambique held its first multiparty elections and has since remained a relatively stable presidential republic, although it still faces a low-intensity insurgency distinctively in the farthermost regions from the southern capital and where Islam is dominant.
 >
-> Mozambique is endowed with rich and extensive natural resources, notwithstanding the country's economy is based chiefly on fishery—substantially molluscs, crustaceans and echinoderms—and agriculture with a growing industry of food and beverages, chemical manufacturing, aluminium and oil. The tourism sector is expanding. Since 2001, Mozambique's GDP growth has been thriving, but since 2014/15, both a significant decrease in household real consumption and a sharp rise in economic inequality have been observed. The nation remains one of the poorest and most underdeveloped countries in the world, ranking low in GDP per capita, human development, measures of inequality and average life expectancy.
+> Mozambique is endowed with rich and extensive natural resources, 
+> notwithstanding the country's economy is based chiefly on fishery—substantially molluscs, crustaceans and echinoderms—
+> and agriculture with a growing industry of food and beverages, chemical manufacturing, aluminium and oil. 
+> 
+> The tourism sector is expanding. 
+> Since 2001, Mozambique's GDP growth has been thriving, 
+> but since 2014/15, both a significant decrease in household real consumption 
+> and a sharp rise in economic inequality have been observed. 
+> The nation remains one of the poorest and most underdeveloped countries in the world, 
+> ranking low in GDP per capita, human development, measures of inequality and average life expectancy.
 >
-> The country's population of around 34,777,605, as of 2024 estimates, which is a 2.96% population increase from 2023, is composed overwhelmingly of Bantu peoples. However, the only official language in Mozambique is Portuguese, which is spoken in urban areas as a first or second language by most, and generally as a lingua franca between younger Mozambicans with access to formal education. The most important local languages include Tsonga, Makhuwa, Sena, Chichewa, and Swahili. Glottolog lists 46 languages spoken in the country, of which one is a signed language (Mozambican Sign Language/Língua de sinais de Moçambique). The largest religion in Mozambique is Christianity, with significant minorities following Islam and African traditional religions.
+> The country's population of around 34,777,605, as of 2024 estimates, which is a 2.96% population increase from 2023, 
+> is composed overwhelmingly of Bantu peoples. 
+> 
+> However, the only official language in Mozambique is Portuguese, 
+> which is spoken in urban areas as a first or second language by most, 
+> and generally as a lingua franca between younger Mozambicans with access to formal education. 
+> 
+> The most important local languages include Tsonga, Makhuwa, Sena, Chichewa, and Swahili. 
+> Glottolog lists 46 languages spoken in the country, 
+> of which one is a signed language (Mozambican Sign Language/Língua de sinais de Moçambique). 
+> 
+> The largest religion in Mozambique is Christianity, with significant minorities following Islam and African traditional religions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mozambique)
 

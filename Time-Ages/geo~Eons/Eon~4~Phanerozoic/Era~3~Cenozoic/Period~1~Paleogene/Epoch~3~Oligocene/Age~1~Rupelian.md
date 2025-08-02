@@ -6,8 +6,8 @@ A time period from 33.9 to 27.82 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~2~Eocene/Age~4~Priabonian|Age~4~Priabonian]] 
-#has_/next_item :: [[Age~2~Chattian]] 
+#has_/previous_/item :: [[../Epoch~2~Eocene/Age~4~Priabonian|Age~4~Priabonian]] 
+#has_/next_/item :: [[Age~2~Chattian]] 
 
 ## #has_/text_of_/abstract 
 

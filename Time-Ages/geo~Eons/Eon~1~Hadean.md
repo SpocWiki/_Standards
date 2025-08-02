@@ -34,8 +34,8 @@ A time period from 4567 to 4031 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: --- 
-#has_/next_item :: [[Eon~2~Archean]]    
+#has_/previous_/item :: --- 
+#has_/next_/item :: [[Eon~2~Archean]]    
 
 
 ## #has_/text_of_/abstract 

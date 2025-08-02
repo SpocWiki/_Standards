@@ -6,8 +6,8 @@ A time period from 494 to 489.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Paibian]] 
-#has_/next_item :: [[Age~3~Cambrian-Stage-10]]   
+#has_/previous_/item :: [[Age~1~Paibian]] 
+#has_/next_/item :: [[Age~3~Cambrian-Stage-10]]   
 
 ## #has_/text_of_/abstract 
 

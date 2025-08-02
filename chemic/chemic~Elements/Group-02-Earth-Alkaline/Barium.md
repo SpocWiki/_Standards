@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 56
 boiling_point: 1897
 canonical_SMILES: '[Ba]'
@@ -94,6 +94,7 @@ ZVG_number: 8420
 [Enthalpy::7.75]
 [FormEnergy-kj-mol::142]
 
+#is_/same_as :: [[../../../WikiData/WD~Barium,1112|WD~Barium,1112]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,8 +6,8 @@ A time period from 161.5 to 154.8 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Epoch~2~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] 
-#has_/next_item :: [[Age~2~Kimmeridgian]] 
+#has_/previous_/item :: [[../Epoch~2~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] 
+#has_/next_/item :: [[Age~2~Kimmeridgian]] 
 
 ## #has_/text_of_/abstract 
 

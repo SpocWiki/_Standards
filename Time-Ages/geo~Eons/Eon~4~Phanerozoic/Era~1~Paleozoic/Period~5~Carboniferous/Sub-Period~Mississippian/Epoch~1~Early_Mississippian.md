@@ -23,8 +23,8 @@ A time period from 358.9 to 346.7 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../../Period~4~Devonian/Epoch~3~Late_Devonian|Epoch~3~Late_Devonian]] 
-#has_/next_item :: [[Epoch~2~Middle_Mississippian]] 
+#has_/previous_/item :: [[../../Period~4~Devonian/Epoch~3~Late_Devonian|Epoch~3~Late_Devonian]] 
+#has_/next_/item :: [[Epoch~2~Middle_Mississippian]] 
 
 ## #has_/text_of_/abstract 
 

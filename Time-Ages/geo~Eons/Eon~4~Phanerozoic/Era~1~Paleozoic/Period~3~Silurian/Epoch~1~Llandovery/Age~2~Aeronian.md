@@ -7,8 +7,8 @@ A time period from 440.8 to 438.5 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~1~Rhuddanian]] 
-#has_/next_item :: [[Age~3~Telychian]] 
+#has_/previous_/item :: [[Age~1~Rhuddanian]] 
+#has_/next_/item :: [[Age~3~Telychian]] 
 
 ## #has_/text_of_/abstract 
 

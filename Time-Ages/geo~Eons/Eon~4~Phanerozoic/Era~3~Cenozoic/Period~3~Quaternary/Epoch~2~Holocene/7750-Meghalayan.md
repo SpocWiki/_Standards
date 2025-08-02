@@ -32,8 +32,8 @@ This is starting at 7750 HE (Human Era 10_000BC)
 
 #has_/text_of_/color :: 0xFDEDEC
 
-#has_/prev_item :: [[3854-Northgrippian]] 
-#has_/next_item :: [[../Epoch~3~Anthropocene]]   
+#has_/previous_/item :: [[3854-Northgrippian]] 
+#has_/next_/item :: [[../Epoch~3~Anthropocene]]   
 
 
 ## #has_/text_of_/abstract 

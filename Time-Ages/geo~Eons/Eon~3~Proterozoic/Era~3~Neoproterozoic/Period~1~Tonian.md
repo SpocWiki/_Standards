@@ -7,8 +7,8 @@ A time period from
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[../Era~2~Mesoproterozoic/Period~3~Stenian|Period~3~Stenian]] 
-#has_/next_item :: [[Period~2~Cryogenian]] 
+#has_/previous_/item :: [[../Era~2~Mesoproterozoic/Period~3~Stenian|Period~3~Stenian]] 
+#has_/next_/item :: [[Period~2~Cryogenian]] 
 
 ## #has_/text_of_/abstract 
 

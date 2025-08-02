@@ -48,8 +48,8 @@ A time period from 538.8 million years ago to the present.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Eon~3~Proterozoic]]   
-#has_/next_item :: ---   
+#has_/previous_/item :: [[Eon~3~Proterozoic]]   
+#has_/next_/item :: ---   
 
 ## #has_/text_of_/abstract 
 

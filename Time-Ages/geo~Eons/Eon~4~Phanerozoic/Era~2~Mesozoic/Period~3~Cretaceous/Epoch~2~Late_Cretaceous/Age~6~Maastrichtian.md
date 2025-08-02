@@ -6,8 +6,8 @@ A time period from 72.1 to 66.0 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/prev_item :: [[Age~5~Campanian]] 
-#has_/next_item :: [[../../../Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian|Age~1~Danian]] 
+#has_/previous_/item :: [[Age~5~Campanian]] 
+#has_/next_/item :: [[../../../Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian|Age~1~Danian]] 
 
 ## #has_/text_of_/abstract 
 
