@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Fruits
 Danbooru_tag: fruit
 described_by_source:
