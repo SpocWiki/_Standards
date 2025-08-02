@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 自行车
 carbon_footprint:
 - 21
@@ -118,6 +118,10 @@ uses:
 U_S_National_Archives_Identifier: 10647185
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_bicycles,7112565]]'
 ---
+
+# [[Bicycle]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Bicycle,11442|WD~Bicycle,11442]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,5 +1,21 @@
 ---
 has_id_wikidata: Q189445
+has_part_s_:
+  - "[[_Standards/WikiData/WD~lower_house,375928]]"
+  - "[[_Standards/WikiData/WD~upper_house,637846]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from:
+  - "[[_Standards/WikiData/WD~multicameral_legislature,6934578]]"
+  - "[[_Standards/WikiData/WD~unicameral_legislature,37002670]]"
+  - "[[_Standards/WikiData/WD~bicameralism,110320354]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~multicameral_legislature,6934578]]"
+  - "[[_Standards/WikiData/WD~dyad,29431432]]"
+instance_of: "[[_Standards/WikiData/WD~dyad,29431432]]"
+facet_of: "[[_Standards/WikiData/WD~bicameralism,110320354]]"
+Commons_category: Bicameral legislatures
 ---
 
 # [[Bicameral_Legislature]] 

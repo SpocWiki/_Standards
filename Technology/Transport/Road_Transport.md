@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Road transport"
 has_id_wikidata: Q516739
