@@ -8,7 +8,7 @@ A time period from 33.9 to 23.03 million years ago.
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Epoch~2~Eocene]] 
-#has_/next_item :: [[../Period~2~Neogene/Epoch~1~Miocene|Epoch~1~Miocene]] 
+#has_/next_/item :: [[../Period~2~Neogene/Epoch~1~Miocene|Epoch~1~Miocene]] 
 
 ## #has_/text_of_/abstract 
 

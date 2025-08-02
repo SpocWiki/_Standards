@@ -119,7 +119,7 @@ Wolfram_Language_entity_code:
 
 #has_/time_/started :: 1939-09-01 
 #has_/time_/stopped  :: 1945-09-02 
-#has_/next_item  :: [[1945-Cold_War]] 
+#has_/next_/item  :: [[1945-Cold_War]] 
 #has_/previous_item :: [[1914-World_War_I]]
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

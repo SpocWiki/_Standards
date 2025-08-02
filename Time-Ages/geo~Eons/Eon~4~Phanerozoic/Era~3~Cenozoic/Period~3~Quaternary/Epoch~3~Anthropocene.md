@@ -11,7 +11,7 @@ has_id_wikidata: Q26841
 
 
 #has_/previous_/item :: [[Epoch~2~Holocene]]    
-#has_/next_item :: ---
+#has_/next_/item :: ---
 
 ## #has_/text_of_/abstract 
 

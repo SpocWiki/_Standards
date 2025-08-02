@@ -80,4 +80,4 @@ noteOnly: true
 ### #is_/same_as :: [Period~6~Permian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.personal.md) 
 
 ### #is_/same_as :: [Period~6~Permian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.secret.md)
-
+

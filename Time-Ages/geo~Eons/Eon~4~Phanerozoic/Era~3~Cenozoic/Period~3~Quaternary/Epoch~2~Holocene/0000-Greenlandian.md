@@ -32,7 +32,7 @@ This is 0300 to 3854 HE (Human Era 10_000BC)
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 
 #has_/previous_/item :: [[../Epoch~1~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]   
-#has_/next_item :: [[3854-Northgrippian]]   
+#has_/next_/item :: [[3854-Northgrippian]]   
 
 ## #has_/text_of_/abstract 
 

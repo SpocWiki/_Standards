@@ -85,4 +85,4 @@ noteOnly: true
 ### #is_/same_as :: [Period~1~Triassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.personal.md) 
 
 ### #is_/same_as :: [Period~1~Triassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic.secret.md)
-
+

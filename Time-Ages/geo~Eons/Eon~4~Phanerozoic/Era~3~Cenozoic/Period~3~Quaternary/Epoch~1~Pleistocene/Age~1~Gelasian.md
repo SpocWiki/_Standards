@@ -36,7 +36,7 @@ has_id_wikidata: Q428579
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../../Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]] 
-#has_/next_item :: [[Age~2~Calabrian]] 
+#has_/next_/item :: [[Age~2~Calabrian]] 
 
 A time period from 2.58 to 1.8 million years ago. 
 
