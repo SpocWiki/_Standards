@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - classis
 Dewey_Decimal_Classification: 578.012

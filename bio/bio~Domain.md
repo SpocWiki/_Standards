@@ -1,11 +1,20 @@
 ---
 aliases:
-- dominion
-- superkingdom
-- realm
-- empire
-- regio
+  - dominion
+  - superkingdom
+  - realm
+  - empire
+  - regio
 has_id_wikidata: Q146481
+different_from:
+  - "[[_Standards/WikiData/WD~Domain,200975]]"
+  - "[[_Standards/WikiData/WD~realm,62075839]]"
+  - "[[_Standards/WikiData/WD~top_level_domain,14296]]"
+instance_of: "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~superkingdom,19858692]]"
+part_of: "[[_Standards/WikiData/WD~superdomain,22666877]]"
+OmegaWiki_Defined_Meaning: "885000"
+Commons_category: Domains (biology)
 ---
 
 # [[bio~Domain]] 
