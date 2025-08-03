@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2303
 Colon_Classification: "G:5"
 Commons_category: Ecology
