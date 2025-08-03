@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Great Lisbon earthquake"
 - "1755 Lisbon earthquake"
@@ -15,7 +15,7 @@ point_in_time: "1755-11-01T00:00:00Z"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/En-1755%20Lisbon%20earthquake-article.oga"
 ---
 
-# [[1755_Lisbon_earthquake]]
+#[[1755-Lisbon_earthquake]]]
 
 #is_/same_as :: [[../../WikiData/WD~1755_Lisbon_earthquake,191055|WD~1755_Lisbon_earthquake,191055]] 
 

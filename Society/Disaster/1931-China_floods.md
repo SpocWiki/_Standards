@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Yangtze–Huai River floods"
 - "1931 China floods"
@@ -20,7 +20,7 @@ point_in_time: "1931-01-01T00:00:00Z"
 #has_/time_/started :: 1931-06 
 #has_/time_/stopped  :: 1931-08-25
 
-# [[1931_China_floods]] 
+#[[1931-China_floods]]] 
 
 
 #is_/same_as :: [[../../WikiData/WD~1931_China_floods,1150973]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Black hole"
 Commons_category: "Black holes"
@@ -50,10 +50,13 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Black_holes,6720830]]'
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm"
 ---
 
+# [[Black_Hole]] 
+
+#is_/same_as :: [[../WikiData/WD~Black_hole,589|WD~Black_hole,589]] 
+
 [[../../_Standards/Astronomy/Black_Hole|Black_Hole]]s convert Matter into Energy much more efficiently than Suns do. 
 Non-rotating Black Holes convert 50% of the mass into energy, 
 but rotating Holes can convert most of the mass. 
-
 
 
 ## #has_/text_of_/abstract 

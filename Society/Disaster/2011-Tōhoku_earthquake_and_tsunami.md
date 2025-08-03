@@ -1,4 +1,4 @@
-﻿---
+---
 aftershocks: 13386
 Commons_category: "2011 Tōhoku earthquake"
 coordinate_location: "Point(142.369 38.322)"
@@ -41,7 +41,7 @@ vertical_depth:
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_2011_Tōhoku_earthquake_and_tsunami,11526167]]'
 ---
 
-# [[2011_Tōhoku_earthquake_and_tsunami]] 
+#[[2011-Tōhoku_earthquake_and_tsunami]]] 
 
 #is_/same_as :: [[../../WikiData/WD~2011_Tōhoku_earthquake_and_tsunami,36204]] 
 

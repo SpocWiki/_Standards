@@ -1,4 +1,4 @@
-﻿---
+---
 bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic-trench.JPG"
 Commons_category: "2010 Haiti earthquake"
 coordinate_location: "Point(-72.445194444 18.451388888)"
@@ -24,7 +24,7 @@ vertical_depth: 10
 Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"2010HaitiEarthquake2010\"]"
 ---
 
-# [[2010_Haiti_earthquake]] 
+#[[2010-Haiti_earthquake]]] 
 
 #is_/same_as :: [[../../WikiData/WD~2010_Haiti_earthquake,43777|WD~2010_Haiti_earthquake,]] 
 

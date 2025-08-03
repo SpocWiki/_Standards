@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: U281
 Commons_category: Weather
 described_by_source:
