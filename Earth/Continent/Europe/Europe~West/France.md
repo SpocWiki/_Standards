@@ -656,7 +656,7 @@ Population in 1000s as of @2019
 | [[France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes\|Nantes]]             | [[France/regions~France/Pays_de_la_Loire\|Pays_de_la_Loire]]                     |  318.808 |
 | [[France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier\|Montpellier]]                         | [[France/regions~France/Occitanie\|Occitanie]]                                   |  295.542 |
 | [[France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass\|Strasbourg~Elsass]] | [[France/regions~France/Grand_Est\|Grand_Est]]                                   |  287.228 |
-| [[France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux\|Bordeaux]]                            | [[France/regions~France/Nouvelle-Aquitaine\|Nouvelle-Aquitaine]]                 |  260.958 |
+| [[France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux,Commune/cities~Bordeaux/Bordeaux,City\|Bordeaux]]                            | [[France/regions~France/Nouvelle-Aquitaine\|Nouvelle-Aquitaine]]                 |  260.958 |
 |                                                                                                                                                                    |                                                                                  |          |
 
 

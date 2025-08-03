@@ -5,6 +5,7 @@ aliases:
 
 # [[Writer]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~writer,36180]]
 
 ## #has_/text_of_/abstract 
 
