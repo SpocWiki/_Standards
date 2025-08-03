@@ -1,6 +1,8 @@
 
 # [[Biological_Sex]] 
 
+#is_/different_from :: [[gender]]
+
 ## #has_/text_of_/abstract 
 
 > While in ordinary speech, the terms sex and gender are often used interchangeably, 
