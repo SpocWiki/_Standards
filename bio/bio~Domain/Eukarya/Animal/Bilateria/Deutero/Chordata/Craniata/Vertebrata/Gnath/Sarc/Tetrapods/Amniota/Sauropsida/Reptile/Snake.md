@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Serpentes
 Commons_gallery: Serpentes
 described_at_URL: "https://neal.fun/earth-reviews/snakes"
