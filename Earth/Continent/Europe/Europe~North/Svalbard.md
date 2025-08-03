@@ -1,16 +1,40 @@
 ---
+location:
+  - 80
+  - 23
+type: geo-Region
+title: Svalbard
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isReadOnly: false
+draft: false
 confidential: public
 isDeleted: false
 location:
 - 78
 SpocWebEntityId: 76730
 tags:
-- geo/Country
-type: Country
+  - geo/Country/Region
+aliases:
+  - Svalbard
+  - Spitzbergen
+Languages:
+  - de
+cssclasses:
+  - geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate:
 ---
+
+# Svalbard
 
 [ISO2::]
 [ISO3::]
+
 ```leaflet
 id: Svalbard
 zoomFeatures: true 
