@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 6520456011
 carbon_footprint:
 - 5.7
