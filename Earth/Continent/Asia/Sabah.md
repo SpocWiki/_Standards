@@ -1,13 +1,34 @@
 ﻿---
-confidential: public
+location: [ 5.6 , 117.2 ] 
+type: geo-Region
+title: Sabah
+
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
 isDeleted: false
+isReadOnly: false
+draft: false
+confidential: public
+
 location:
 - 5.25
 - 117
 SpocWebEntityId: 76707
 tags:
-- geo/Country
-type: Country
+- geo/Country/Region
+aliases:
+- Sabah
+
+Languages:
+- de
+
+cssclasses: geo-Region
+publish: true
+linkTitle: 
+keywords: 
+layout: 
+publishDate: 
+expiryDate: 
 ---
 
 [ISO2::]
