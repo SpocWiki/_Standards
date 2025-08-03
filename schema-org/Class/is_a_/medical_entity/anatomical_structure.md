@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - anatomical-structure
 - anatomical_structure
