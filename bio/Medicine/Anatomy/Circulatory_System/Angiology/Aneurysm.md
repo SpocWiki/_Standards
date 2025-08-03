@@ -1,7 +1,7 @@
 
 # [[Aneurysm]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Aneurysm,189389|WD~Aneurysm,189389]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Aneurysm,189389|WD~Aneurysm,189389]] 
 
 ## #has_/text_of_/abstract 
 

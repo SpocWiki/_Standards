@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vessel
 - vessel
@@ -24,12 +24,13 @@ title: "is_a_vessel Class"
 type: Type
 ---
 
-Class of all vessels.
+Class of all anatomical vessels.
 
 Tag Instances like this: 
 #is_a_/vessel
 
-A component of the human body circulatory system comprised of an intricate network of hollow tubes that transport blood throughout the entire body.
+A component of the human body circulatory system comprised of an intricate network of hollow tubes 
+that transport blood throughout the entire body.
 
 [ #is_/sub_class_of :: [[../AnatomicalStructure]] ]
 
@@ -40,7 +41,7 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.md) 
+### #is_/same_as :: [vessel](vessel.md) 
 
 ### #is_/same_as :: [vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.public.md) 
 

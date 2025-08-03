@@ -38,7 +38,7 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [brain_structure](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.md) 
+### #is_/same_as ::[brain_structure](brain_structure.md)) 
 
 ### #is_/same_as :: [brain_structure.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.public.md) 
 

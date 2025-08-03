@@ -10,7 +10,7 @@ aliases:
 
 # [[Red_Blood_Cell]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Red_blood_cell,37187|WD~Red_blood_cell,37187]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Red_blood_cell,37187|WD~Red_blood_cell,37187]] 
 
 ## #has_/text_of_/abstract 
 

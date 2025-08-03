@@ -10,7 +10,7 @@ aliases:
 
 # [[Blood]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Blood,7873|WD~Blood,7873]]
+#is_/same_as :: [[../../../../../WikiData/WD~Blood,7873|WD~Blood,7873]]
 
 
 ## #has_/text_of_/abstract 

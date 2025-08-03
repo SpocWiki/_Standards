@@ -16,7 +16,7 @@ UMLS_CUI: C3179392
 
 # [[Angiology]] 
 
-#is_/same_as :: [[../../WikiData/WD~Angiology,539690|WD~Angiology,539690]] 
+#is_/same_as :: [[../../../../WikiData/WD~Angiology,539690|WD~Angiology,539690]] 
 
 ## #has_/text_of_/abstract 
 
