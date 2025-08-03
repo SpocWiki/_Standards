@@ -5,7 +5,7 @@ aliases:
 
 # [[Actor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~actor,33999]] 
+#is_/same_as :: [[../../../../../WikiData/WD~actor,33999]] 
 
 ## #has_/text_of_/abstract 
 

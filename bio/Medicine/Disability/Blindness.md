@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: T68
 Commons_category: "Visual impairment"
 described_by_source:
@@ -53,6 +53,10 @@ UMLS_CUI:
 - C0456909
 U_S_National_Archives_Identifier: 10637723
 ---
+
+# [[Blindness]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Blindness,10874|WD~Blindness,10874]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 1303
 Basisklassifikation: 44.33
 Commons_category: Biochemistry
@@ -44,6 +44,10 @@ UMLS_CUI: C0005477
 U_S_National_Archives_Identifier: 10638831
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_biochemistry,7112566]]'
 ---
+
+# [[Biochemistry]] 
+
+#is_/same_as :: [[../../WikiData/WD~Biochemistry,7094|WD~Biochemistry,7094]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS067-E-95811%20-%20View%20of%20Earth.jpg"
 aliases:
 - "Mediterranean Sea"

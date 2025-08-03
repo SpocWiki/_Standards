@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Operating systems"
 EntitySchema_for_this_class:
 - E102

@@ -93,6 +93,7 @@ U_S_National_Archives_Identifier: 10639636
 
 # [[bio]] 
 
+#is_/same_as :: [[WikiData/WD~Biology,420|WD~Biology,420]] 
 
 This Folder Structure contains Data related to Biology. 
 Especially a [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree "Phylogenetic tree") of many biological Species

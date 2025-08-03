@@ -1,4 +1,4 @@
-﻿---
+---
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from: '[[_Standards/WikiData/WD~Q24704850,24704850]]'
 has_id_wikidata: Q36602

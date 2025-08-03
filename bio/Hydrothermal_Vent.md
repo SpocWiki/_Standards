@@ -2,7 +2,7 @@
 aliases:
   - black smoker 
   - Hydrothermal vent 
-  - white smokers 
+  - white smoker 
 ---
 
 # [[Hydrothermal_Vent]] 

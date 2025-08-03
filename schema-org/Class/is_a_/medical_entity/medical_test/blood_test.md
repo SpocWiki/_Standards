@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - blood-test
 - blood_test

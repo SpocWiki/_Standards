@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: S67
 Commons_category: Deafness
 described_by_source:
@@ -49,9 +49,14 @@ U_S_National_Archives_Identifier: 10640037
 WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/hearing_loss"
 ---
 
+# [[Deafness]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Deafness,12133|WD~Deafness,12133]] 
+
 ## #has_/text_of_/abstract 
 
-> **Deafness** has varying definitions in cultural and medical contexts. In medical contexts, the meaning of deafness is hearing loss that precludes a person from understanding spoken language, an audiological condition. In this context it is written with a lower case d. It later came to be used in a cultural context to refer to those who primarily communicate through sign language regardless of hearing ability, often capitalized as Deaf and referred to as "big D Deaf" in speech and sign. The two definitions overlap but are not identical, as hearing loss includes cases that are not severe enough to impact spoken language comprehension, while cultural Deafness includes hearing people who use sign language, such as children of deaf adults.
+> **Deafness** has varying definitions in cultural and medical contexts. 
+> In medical contexts, the meaning of deafness is hearing loss that precludes a person from understanding spoken language, an audiological condition. In this context it is written with a lower case d. It later came to be used in a cultural context to refer to those who primarily communicate through sign language regardless of hearing ability, often capitalized as Deaf and referred to as "big D Deaf" in speech and sign. The two definitions overlap but are not identical, as hearing loss includes cases that are not severe enough to impact spoken language comprehension, while cultural Deafness includes hearing people who use sign language, such as children of deaf adults.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deafness)
 
