@@ -22,9 +22,21 @@ hashtag: Q910979
 ## #has_/text_of_/abstract 
 
 > A biological pigment, also known simply as a pigment or biochrome, 
-> is a substance produced by living organisms that have a color resulting from selective color absorption. Biological pigments include plant pigments and flower pigments. Many biological structures, such as skin, eyes, feathers, fur and hair contain pigments such as melanin in specialized cells called chromatophores. In some species, pigments accrue over very long periods during an individual's lifespan.
+> is a substance produced by living organisms 
+> that have a color resulting from selective color absorption. 
+> 
+> Biological pigments include plant pigments and flower pigments. 
+> Many biological structures, such as skin, eyes, feathers, fur and hair 
+> contain pigments such as melanin in specialized cells called chromatophores. 
+> In some species, pigments accrue over very long periods during an individual's lifespan.
 >
-> Pigment color differs from structural color in that it is the same for all viewing angles, whereas structural color is the result of selective reflection or iridescence, usually because of multilayer structures. For example, butterfly wings typically contain structural color, although many butterflies have cells that contain pigment as well.
+> Pigment color differs from structural color 
+> in that it is the same for all viewing angles, 
+> whereas structural color is the result of selective reflection or iridescence, 
+> usually because of multilayer structures. 
+> 
+> For example, butterfly wings typically contain structural color, 
+> although many butterflies have cells that contain pigment as well.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biological%20pigment) 
 

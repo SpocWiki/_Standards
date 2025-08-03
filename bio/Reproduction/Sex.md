@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: S5
 Commons_category: Sex
 contributing_factor_of: '[[_Standards/WikiData/WD~biodiversity,47041]]'
