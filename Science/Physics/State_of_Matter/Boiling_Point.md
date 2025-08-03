@@ -35,6 +35,11 @@ ISQ_dimension: |-
 
 #is_/same_as :: [[../../../WikiData/WD~Boiling_point,1003183|WD~Boiling_point,1003183]] 
 
+#see :: [[Clausius-Clapeyron_Equation]]
+
+ln⁡(P2/P1) = −ΔHvap/R(1/T2−1/T1)
+$\ln\left(\frac{P_2}{P_1}\right) = -\frac{\Delta H_{vap}}{R} \left(\frac{1}{T_2} - \frac{1}{T_1}\right)$
+
 ## #has_/text_of_/abstract 
 
 > The boiling point of a substance is the temperature 
@@ -47,6 +52,9 @@ ISQ_dimension: |-
 > Because of this, water boils at 100°C (or with scientific precision: 99.97 °C (211.95 °F)) 
 > under standard pressure at sea level, but at 93.4 °C (200.1 °F) at 1,905 metres (6,250 ft) altitude. 
 > For a given pressure, different liquids will boil at different temperatures.
+> Since the pressure is greater than 0 at any Temperature greater than 0, 
+> the boiling Point could be reduced arbitrarily, but effectively Water will boil at room temperature 
+> when the pressure is reduced by a factor of 20. 
 >
 > The normal boiling point (also called the atmospheric boiling point or the atmospheric pressure boiling point) of a liquid is the special case in which the vapor pressure of the liquid equals the defined atmospheric pressure at sea level, one atmosphere. At that temperature, the vapor pressure of the liquid becomes sufficient to overcome atmospheric pressure and allow bubbles of vapor to form inside the bulk of the liquid. The standard boiling point has been defined by IUPAC since 1982 as the temperature at which boiling occurs under a pressure of one bar.
 >
@@ -56,3 +64,8 @@ ISQ_dimension: |-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boiling%20point) 
 
+
+**Vacuum boiling** is used in:
+- Vacuum distillation (pharmaceuticals, chemicals)
+- Freeze drying (lyophilization)
+- Reduced-temperature cooking (sous-vide in controlled vacuums)
