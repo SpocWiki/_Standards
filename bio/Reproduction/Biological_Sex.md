@@ -1,7 +1,7 @@
 
 # [[Biological_Sex]] 
 
-#is_/different_from :: [[gender]]
+#is_/different_from :: [[Gender]]
 
 ## #has_/text_of_/abstract 
 
