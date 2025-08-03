@@ -24,9 +24,14 @@
 > while apparent competition is not, as organisms do not share a resource, 
 > but instead share a predator. 
 > 
-> Competition among members of the same species is known as intraspecific competition, while competition between individuals of different species is known as interspecific competition.
+> Competition among members of the same species is known as intraspecific competition, 
+> while competition between individuals of different species is known as interspecific competition.
 >
-> According to the competitive exclusion principle, species less suited to compete for resources must either adapt or die out, although competitive exclusion is rarely found in natural ecosystems. According to evolutionary theory, competition within and between species for resources is important in natural selection. More recently, however, researchers have suggested that evolutionary biodiversity for vertebrates has been driven not by competition between organisms, but by these animals adapting to colonize empty livable space; this is termed the 'Room to Roam' hypothesis.
+> According to the competitive exclusion principle, 
+> species less suited to compete for resources must either adapt or die out, 
+> although competitive exclusion is rarely found in natural ecosystems. 
+> 
+> According to evolutionary theory, competition within and between species for resources is important in natural selection. More recently, however, researchers have suggested that evolutionary biodiversity for vertebrates has been driven not by competition between organisms, but by these animals adapting to colonize empty livable space; this is termed the 'Room to Roam' hypothesis.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Competition%20(biology)) 
 
