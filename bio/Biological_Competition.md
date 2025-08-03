@@ -1,6 +1,16 @@
+---
+has_id_wikidata: Q45767
+different_from: "[[_Standards/WikiData/WD~economic_competition,319676]]"
+subclass_of: "[[_Standards/WikiData/WD~competition,476300]]"
+part_of: "[[_Standards/WikiData/WD~phytosociology,1138244]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9484464,9484464]]"
+Commons_category: Competition (biology)
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20bucks%20of%20Tal%20Chappar.jpg
+---
 
 # [[Biological_Competition]] 
 
+#is_/same_as :: [[../WikiData/WD~Biological_competition,45767|WD~Biological_competition,45767]] 
 
 ## #has_/text_of_/abstract 
 
@@ -31,7 +41,12 @@
 > species less suited to compete for resources must either adapt or die out, 
 > although competitive exclusion is rarely found in natural ecosystems. 
 > 
-> According to evolutionary theory, competition within and between species for resources is important in natural selection. More recently, however, researchers have suggested that evolutionary biodiversity for vertebrates has been driven not by competition between organisms, but by these animals adapting to colonize empty livable space; this is termed the 'Room to Roam' hypothesis.
+> According to evolutionary theory, 
+> competition within and between species for resources is important in natural selection. 
+> More recently, however, researchers have suggested that evolutionary 
+> biodiversity for vertebrates has been driven **not by competition** between organisms, 
+> but by these animals adapting to **colonize empty livable space**; 
+> this is termed the 'Room to Roam' hypothesis.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Competition%20(biology)) 
 
