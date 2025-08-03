@@ -26,7 +26,7 @@ type: Type
 has_id_wikidata: Q265868
 ---
 
-# [[bone]] 
+# [[Bone]] 
 
 Class of all bones.
 
@@ -69,7 +69,7 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bone](bone.md) 
+### #is_/same_as :: [Bone](Bone.md) 
 
 ### #is_/same_as :: [bone.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.public.md) 
 
