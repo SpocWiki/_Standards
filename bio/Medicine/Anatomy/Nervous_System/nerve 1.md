@@ -38,7 +38,7 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [nerve](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.md) 
+### #is_/same_as :[nerve 1](nerve%201.md))) 
 
 ### #is_/same_as :: [nerve.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.public.md) 
 

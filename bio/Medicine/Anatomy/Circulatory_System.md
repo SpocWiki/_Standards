@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: L3
 Commons_category: "Cardiovascular system"
 described_by_source:
@@ -41,7 +41,10 @@ UMLS_CUI: C0007226
 >
 > Blood is a fluid consisting of plasma, red blood cells, white blood cells, and platelets; it is circulated around the body carrying oxygen and nutrients to the tissues and collecting and disposing of waste materials. Circulated nutrients include proteins and minerals and other components include  hemoglobin, hormones, and gases such as oxygen and  carbon dioxide. These substances provide nourishment, help the immune system to fight diseases, and help maintain homeostasis by stabilizing temperature and natural pH.
 >
-> In vertebrates, the lymphatic system is complementary to the circulatory system. The lymphatic system carries excess plasma (filtered from the circulatory system capillaries as interstitial fluid between cells) away from the body tissues via accessory routes that return excess fluid back to blood circulation as lymph. The lymphatic system is a subsystem that is essential for the functioning of the blood circulatory system; without it the blood would become depleted of fluid.
+> In vertebrates, the lymphatic system is complementary to the circulatory system. 
+> The lymphatic system carries excess plasma (filtered from the circulatory system capillaries as interstitial fluid between cells) away from the body tissues via accessory routes that return excess fluid back to blood circulation as lymph. 
+> The lymphatic system is a subsystem that is essential for the functioning of the blood circulatory system; 
+> without it the blood would become depleted of fluid.
 >
 > The lymphatic system also works with the immune system. The circulation of lymph takes much longer than that of blood and, unlike the closed (blood) circulatory system, the lymphatic system is an open system. Some sources describe it as a secondary circulatory system.
 >

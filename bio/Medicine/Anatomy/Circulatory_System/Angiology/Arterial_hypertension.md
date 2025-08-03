@@ -178,7 +178,7 @@ MeSH_tree_code: C14.907.489
 
 # [[Arterial_hypertension]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Arterial_hypertension,41861|WD~Arterial_hypertension,41861]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Arterial_hypertension,41861|WD~Arterial_hypertension,41861]] 
 
 ## #has_/text_of_/abstract 
 

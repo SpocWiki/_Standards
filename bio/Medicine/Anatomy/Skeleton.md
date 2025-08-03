@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Skeletons
 Commons_gallery: Skeleton
 described_by_source:

@@ -38,7 +38,7 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [muscle](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.md) 
+### #is_/same_as ::[muscle](muscle.md)) 
 
 ### #is_/same_as :: [muscle.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.public.md) 
 

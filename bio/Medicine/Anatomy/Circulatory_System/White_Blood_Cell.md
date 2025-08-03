@@ -37,7 +37,7 @@ Library_of_Congress_Classification: QP95-QP95.8
 
 # [[White_Blood_Cell]] 
 
-#is_/same_as :: [[../../../WikiData/WD~White_blood_cell,42395|WD~White_blood_cell,42395]] 
+#is_/same_as :: [[../../../../../WikiData/WD~White_blood_cell,42395|WD~White_blood_cell,42395]] 
 
 
 ## #has_/text_of_/abstract 

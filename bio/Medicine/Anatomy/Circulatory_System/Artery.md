@@ -3,6 +3,7 @@ has_id_wikidata: Q9655
 connects_with:
   - "[[_Standards/WikiData/WD~arteriole,501908]]"
   - "[[_Standards/WikiData/WD~heart,1072]]"
+equivalent_class: https://schema.org/Artery
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -32,17 +33,58 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Arterie.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Pulsader.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Schlagader.ogg
-equivalent_class: https://schema.org/Artery
 Iconclass_notation: 31A22612
 P8189: "987007294976705171"
 Krugosvet_article: BBCbitesize.com
 UMLS_CUI: C0003842
 MeSH_tree_code: A07.015.114
+aliases:
+  - "{ newTitle: null }": 
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate: 
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: null }": 
+lang: en
+layout: 
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: null }": 
+publish: false
+publishDate: 
+tags:
+  - "{ newTitle: null }": 
+  - excalidraw
+title:
+  "{ newTitle: null }": 
+type: private_note
 ---
 
 # [[Artery]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Artery,9655|WD~Artery,9655]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Artery,9655|WD~Artery,9655]] 
+
+Class of all arterys.
+
+Tag Instances like this: 
+#is_an_/artery
+
+A type of blood vessel that specifically carries blood away from the heart.
+
+[ #is_/sub_class_of :[[../../../../schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel]]]] ]
+
+[ #has_/properties :: [ additionalType, alternateName, arterialBranch, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, supplyTo, url ] ]
 
 ## #has_/text_of_/abstract 
 
@@ -52,3 +94,22 @@ MeSH_tree_code: A07.015.114
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Artery) 
 
+
+# [[Artery]] 
+
+#is_/part_of :: [[Artery]] 
+
+![[Artery.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

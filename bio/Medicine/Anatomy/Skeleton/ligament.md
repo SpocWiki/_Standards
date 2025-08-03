@@ -38,7 +38,7 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ligament](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.md) 
+### #is_/same_as ::[ligament](ligament.md)) 
 
 ### #is_/same_as :: [ligament.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/ligament.public.md) 
 

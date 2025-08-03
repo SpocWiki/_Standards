@@ -27,7 +27,7 @@ MeSH_tree_code: E02.095.135
 
 # [[Blood_Transfusion]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Blood_transfusion,183605|WD~Blood_transfusion,183605]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Blood_transfusion,183605|WD~Blood_transfusion,183605]] 
 
 
 ## #has_/text_of_/abstract 

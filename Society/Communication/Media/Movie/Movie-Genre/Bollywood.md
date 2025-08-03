@@ -1,8 +1,13 @@
-
+---
+aliases:
+  - Hindi cinema
+  - Bombay cinema
+has_id_wikidata: Q93196
+---
 
 # [[Bollywood]] 
 
-
+#is_/same_as :: [[../../../../../WikiData/WD~Bollywood,93196|WD~Bollywood,93196]] 
 
 | Industry Name   | Language  | films/year | Primary City   | Notable Feature                   |
 | --------------- | --------- | ---------: | -------------- | --------------------------------- |

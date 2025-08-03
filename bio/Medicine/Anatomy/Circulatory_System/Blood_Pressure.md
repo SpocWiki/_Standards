@@ -6,7 +6,7 @@ aliases:
 
 # [[Blood_Pressure]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Blood_pressure,82642|WD~Blood_pressure,82642]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Blood_pressure,82642|WD~Blood_pressure,82642]] 
 
 ## #has_/text_of_/abstract 
 

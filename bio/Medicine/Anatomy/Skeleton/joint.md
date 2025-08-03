@@ -38,7 +38,7 @@ The anatomical location at which two or more bones make contact.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [joint](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.md) 
+### #is_/same_as ::[joint](joint.md)) 
 
 ### #is_/same_as :: [joint.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.public.md) 
 
