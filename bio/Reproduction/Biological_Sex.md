@@ -26,7 +26,11 @@
 > pioneered the concept of a distinction between biological sex and gender identity in 1955. 
 > However, Issac Madison Bentley had already 
 > defined gender as the "socialized obverse of sex" a decade earlier, in 1945. 
-> As originally conceived by Money, gender and sex are analysed together as a single category including both biological and social elements, but later work by Robert Stoller separated the two, designating sex and gender as biological and cultural categories, respectively. Before the work of Bentley, Money and Stoller, the word gender was only regularly used to refer to grammatical categories.
+> As originally conceived by Money, gender and sex are analysed together as a single category including both biological and social elements, 
+> but later work by Robert Stoller separated the two, 
+> designating sex and gender as biological and cultural categories, respectively. 
+> Before the work of Bentley, Money and Stoller, 
+> the word gender was only regularly used to refer to grammatical categories.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sex%E2%80%93gender%20distinction) 
 
