@@ -32,7 +32,7 @@ EAGLE_id:
 
 # [[Arrow]] 
 
-#is_/same_as :: [[../../WikiData/WD~Arrow,45922|WD~Arrow,45922]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Arrow,45922|WD~Arrow,45922]] 
 
 ## #has_/text_of_/abstract 
 
