@@ -5,7 +5,7 @@ has_id_wikidata: Q82728
 
 # [[Bison]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Bison_bison,82728|WD~Bison_bison,82728]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bison_bison,82728|WD~Bison_bison,82728]] 
 
 ## #has_/text_of_/abstract 
 

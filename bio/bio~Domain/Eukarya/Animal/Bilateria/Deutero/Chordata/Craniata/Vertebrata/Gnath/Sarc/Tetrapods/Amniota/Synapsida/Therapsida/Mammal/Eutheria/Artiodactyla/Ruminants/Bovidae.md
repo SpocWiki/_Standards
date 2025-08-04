@@ -1,9 +1,11 @@
 ---
 title: Bovidae
+has_id_wikidata: Q25497
 ---
 
 # [[Bovidae]]
 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Bovidae,25497|WD~Bovidae,25497]] 
 ## Cattle, sheep, goats, and antelopes 
 
 ![bighorn_ma_inf](Bovidae/bighorn_ma_inf.jpg) 

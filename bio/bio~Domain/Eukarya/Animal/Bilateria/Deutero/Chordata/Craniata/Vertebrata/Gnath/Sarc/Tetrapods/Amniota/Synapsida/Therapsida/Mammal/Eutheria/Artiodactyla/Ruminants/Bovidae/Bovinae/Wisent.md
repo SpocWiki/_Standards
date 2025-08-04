@@ -8,7 +8,7 @@ aliases:
 
 # [[Wisent]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Bison_bonasus,81091|WD~Bison_bonasus,81091]]  
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bison_bonasus,81091|WD~Bison_bonasus,81091]]  
 
 ## #has_/text_of_/abstract 
 

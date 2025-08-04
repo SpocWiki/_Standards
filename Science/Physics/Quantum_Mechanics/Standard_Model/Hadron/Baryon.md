@@ -23,7 +23,7 @@ Commons_category: Baryons
 
 # [[Baryon]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Baryon,159731|WD~Baryon,159731]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Baryon,159731|WD~Baryon,159731]] 
 
 ## #has_/text_of_/abstract 
 
