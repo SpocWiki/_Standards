@@ -372,6 +372,8 @@ confidential: public
 [ISO2::BA]
 [ISO3::BIH] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Bosnia_and_Herzegovina,225|WD~Bosnia_and_Herzegovina,225]] 
+
 ## #has_/map  
 
 

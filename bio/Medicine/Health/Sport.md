@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: "Sports RPF"
 Baidu_Tieba_name: 体育
 Basisklassifikation: 76
@@ -9,7 +9,7 @@ Commons_gallery: Sport
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
 - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 306.483
@@ -26,8 +26,8 @@ exact_match:
 - "http://cv.iptc.org/newscodes/spct/sport"
 fandom: '[[_Standards/WikiData/WD~sports_fandom,132194838]]'
 hashtag:
-- sports
 - sport
+- sports
 - спорт
 has_characteristic: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 has_id_wikidata: Q349
@@ -58,10 +58,10 @@ practiced_by:
 - '[[_Standards/WikiData/WD~sportsperson,50995749]]'
 Provenio_UUID: 56c6b65e-d68a-416a-ac1e-ff831d347ca5
 Regensburg_Classification: "ZX - ZY"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~game_based_sport,4438147]]'
-social_media_followers: 74700000
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~game-based_sport,4438147]]'
+social_media_followers: 74900000
 Stack_Exchange_site_URL: "https://sports.stackexchange.com"
-studied_by:
+studied_in:
 - '[[_Standards/WikiData/WD~sociology_of_sport,594322]]'
 - '[[_Standards/WikiData/WD~sports_science,1298380]]'
 - '[[_Standards/WikiData/WD~sports_technology,2312877]]'
@@ -69,7 +69,7 @@ subclass_of: '[[_Standards/WikiData/WD~physical_activity,747883]]'
 subreddit: sports
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_sport_overview,14397460]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sports,6566190]]'
-UMLS_CUI: C0038039
+UMLS_CUI: C1510656
 Unicode_range: U+200D,U+2640,U+2642,U+26BD,U+26BE,U+26F3,U+26F7-26F9,U+FE0F,U+1F396,U+1F3A3,U+1F3B1,U+1F3BD-1F3C0,U+1F3C2,U+1F3C4-1F3CC,U+1F3CF-1F3D3,U+1F3F8,U+1F3F9,U+1F6A3,U+1F6B4,U+1F6B5,U+1F938,U+1F93A,U+1F93C-1F93E,U+1F945,U+1F947-1F94B
 Universal_Decimal_Classification: 796
 uses:
@@ -89,21 +89,71 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 
 ## #has_/text_of_/abstract 
 
-> **Sport** is a physical activity or game, often competitive and organized, 
-> that maintains or improves physical ability and skills. 
+> **Sport** is a form of physical activity or game. 
+> Often competitive & organized, sports use, maintain, or improve __physical ability and skills__. 
+> They also provide enjoyment to participants 
+> and, in some cases, entertainment to spectators. 
+> Many sports exist, with different participant numbers, 
+> some are done by a single person with others being done by hundreds. 
 > 
-> Sport may provide enjoyment to participants and entertainment to spectators. 
-> The number of participants in a particular sport can vary from hundreds of people to a single individual.
+> Most sports take place either in teams or competing as individuals. 
+> Some sports allow a "tie" or "draw", in which there is no single winner; 
+> others provide tie-breaking methods to ensure one winner. 
+> A number of contests may be arranged in a tournament format, producing a champion. 
+> Many sports leagues make an annual champion 
+> by arranging games in a regular sports season, followed in some cases by playoffs.
 >
-> Sport competitions may use a team or single person format, and may be open, 
-> allowing a broad range of participants, or closed, restricting participation to specific groups or those invited. Competitions may allow a "tie" or "draw", in which there is no single winner; others provide tie-breaking methods to ensure there is only one winner. They also may be arranged in a tournament format, producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs.
+> Sport is generally recognised as system of activities 
+> based in physical athleticism or physical dexterity, 
+> with major competitions admitting only sports meeting this definition. 
 >
-> Sport is generally recognised as system of activities based in physical athleticism or physical dexterity, with major competitions admitting only sports meeting this definition. Some organisations, such as the Council of Europe, preclude activities without any physical element from classification as sports. However, a number of competitive, but non-physical, activities claim recognition as mind sports. The International Olympic Committee who oversee the Olympic Games recognises both chess and bridge as sports. SportAccord, the international sports federation association, recognises five non-physical sports: chess, bridge, draughts, Go and xiangqi. However, they limit the number of mind games which can be admitted as sports. Sport is usually governed by a set of rules or customs, which serve to ensure fair competition. Winning can be determined by physical events such as scoring goals or crossing a line first. It can also be determined by judges who are scoring elements of the sporting performance, including objective or subjective measures such as technical performance or artistic impression.
+> Some organisations, such as the Council of Europe, 
+> preclude activities without any physical element from classification as sports. 
+> However, a number of competitive, but non-physical, activities 
+> claim recognition as mind sports. 
 >
-> Records of performance are often kept, and for popular sports, this information may be widely announced or reported in sport news. Sport is also a major source of entertainment for non-participants, with spectator sport drawing large crowds to sport venues, and reaching wider audiences through broadcasting. Sport betting is in some cases severely regulated, and in others integral to the sport.
+> The International Olympic Committee who oversee the Olympic Games 
+> recognises both chess and bridge as sports. 
+> SportAccord, the international sports federation association, 
+> recognises five non-physical sports: chess, bridge, draughts, Go and xiangqi. 
 >
-> According to A.T. Kearney, a consultancy, the global sporting industry is worth up to $620 billion as of 2013. The world's most accessible and practised sport is running, while association football is the most popular spectator sport.
+> However, they limit the number of mind games which can be admitted as sports. 
+> Sport is usually governed by a set of rules or customs, 
+> which serve to ensure fair competition. 
+> Winning can be determined by physical events such as scoring goals or crossing a line first. 
+> It can also be determined by judges who are scoring elements of the sporting performance, 
+> including objective or subjective measures such as technical performance or artistic impression.
+>
+> Records of performance are often kept, and for popular sports, 
+> this information may be widely announced or reported in sport news. 
+> 
+> Sport is also a major source of entertainment for non-participants, 
+> with spectator sport drawing large crowds to sport venues, 
+> and reaching wider audiences through broadcasting. 
+> Sport betting is in some cases severely regulated, and in others integral to the sport.
+>
+> According to A.T. Kearney, a consultancy, 
+> the global sporting industry is worth up to $620 billion as of 2013. 
+>
+> The world's most accessible and practised sport is running, 
+> while [[Sport/Team_Sport/Football/Association_Football]] is the most popular spectator sport.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sport) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sport](/_Standards/Society/Communication/Media/Performing_Arts/Sport.md) 
+
+### #is_/same_as :: [Sport.public](/_public/Society/Communication/Media/Performing_Arts/Sport.public.md) 
+
+### #is_/same_as :: [Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport.internal.md) 
+
+### #is_/same_as :: [Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport.protect.md) 
+
+### #is_/same_as :: [Sport.private](/_private/Society/Communication/Media/Performing_Arts/Sport.private.md) 
+
+### #is_/same_as :: [Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport.personal.md) 
+
+### #is_/same_as :: [Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport.secret.md)
 

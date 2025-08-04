@@ -24,6 +24,7 @@ equivalent_class:
 exact_match:
 - "http://cv.iptc.org/newscodes/productgenre/sport"
 - "http://cv.iptc.org/newscodes/spct/sport"
+fandom: '[[_Standards/WikiData/WD~sports_fandom,132194838]]'
 hashtag:
 - sport
 - sports
@@ -47,6 +48,7 @@ OmegaWiki_Defined_Meaning: 3592
 OpenStreetMap_tag_or_key:
 - "Key:sport"
 - "Tag:sport=multi"
+P8189: 987007529432705171
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Paraglider%20Auvergne%20France%20banner.jpg"
 part_of: '[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131947,27131947]]'
@@ -80,6 +82,10 @@ U_S_National_Archives_Identifier: 10642049
 Wikidata_property: sport
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 ---
+
+# [[Sport]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Sport,349]] 
 
 ## #has_/text_of_/abstract 
 

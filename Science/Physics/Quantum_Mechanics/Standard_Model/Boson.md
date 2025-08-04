@@ -1,6 +1,8 @@
 
 # [[Boson]] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Boson,43101|WD~Boson,43101]] 
+
 ## #has_/text_of_/abstract 
 
 > In particle physics, a **Boson** is a subatomic particle 
