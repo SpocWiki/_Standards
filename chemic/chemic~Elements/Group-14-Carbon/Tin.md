@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~tin_poisoning,7807844]]'
 atomic_number: 50
 boiling_point:
@@ -81,6 +81,8 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Tin\"]"
 ZVG_number: 8380
 ---
 
+# [[Tin]] 
+
 #is_/same_as :: [[../../../WikiData/WD~Tin,1096]] 
 
 
@@ -108,6 +110,9 @@ ZVG_number: 8380
 (PeriodNo::5)
 (GroupNo::14)
 
+
+- **Zinc** is more **reactive, conductive, abundant**, and widely used in structural materials and galvanizing steel.
+- **Tin** is **less reactive, rarer**, and crucial in **electronics and soldering** due to its lower melting point and corrosion resistance.
 
 ## #has_/text_of_/abstract 
 

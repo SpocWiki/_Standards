@@ -1,12 +1,29 @@
-﻿---
+---
 aliases:
-- Brassicales
+  - Brassicales
 title: Brassicales
+has_id_wikidata: Q21904
+parent_taxon: "[[_Standards/WikiData/WD~malvids,2133361]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+OmegaWiki_Defined_Meaning: "358574"
+ITIS_TSN: "822943"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Capparis%20zoharyi%204.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Alliaria%20petiolata%20-%20flowers.jpg
+EPPO_Code: 1CAPO
+Commons_category: Brassicales
+taxon_name: Brassicales
+UMLS_CUI: C0682485
+NBN_System_Key: NHMSYS0021060383
+taxon_common_name: 十字花目
 ---
 
 # [[Brassicales]] 
 
 ![](Brassicales/Erysimum_ammophilum.jpg)  ![](Brassicales/Tropaeolum_minus05199.jpg)  ![](Brassicales/Carica_papaya2193.jpg) 
+
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Brassicales,21904|WD~Brassicales,21904]] 
 
 ## #has_/text_of_/abstract 
 
