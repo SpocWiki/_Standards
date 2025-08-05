@@ -109,10 +109,22 @@ U_S_National_Archives_Identifier: 10638278
 Wolfram_Language_entity_type: Bridge
 ---
 
+# [[Bridge]] 
+
+#is_/same_as :: [[../../WikiData/WD~Bridge,12280|WD~Bridge,12280]] 
+
 ## #has_/text_of_/abstract 
 
-> A **Bridge** is a structure built to span a physical obstacle (such as a body of water, valley, road, or railway) 
-> without blocking the path underneath. It is constructed for the purpose of providing passage over the obstacle, which is usually something that is otherwise difficult or impossible to cross. There are many different designs of bridges, each serving a particular purpose and applicable to different situations. Designs of bridges vary depending on factors such as the function of the bridge, the nature of the terrain where the bridge is constructed and anchored, the material used to make it, and the funds available to build it.
+> A **Bridge** is a structure built to span a physical obstacle 
+> (such as a body of water, valley, road, or railway) without blocking the path underneath. 
+> 
+> It is constructed for the purpose of providing passage over the obstacle, 
+> which is usually something that is otherwise difficult or impossible to cross. 
+> There are many different designs of bridges, 
+> each serving a particular purpose and applicable to different situations. 
+> Designs of bridges vary depending on factors such as the function of the bridge, 
+> the nature of the terrain where the bridge is constructed and anchored, 
+> the material used to make it, and the funds available to build it.
 >
 > The earliest bridges were likely made with fallen trees and stepping stones. The Neolithic people built boardwalk bridges across marshland. The Arkadiko Bridge, dating from the 13th century BC, in the Peloponnese is one of the oldest arch bridges in existence and use.
 >
