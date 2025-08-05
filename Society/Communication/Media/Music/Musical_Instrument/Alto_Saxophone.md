@@ -18,7 +18,7 @@ Commons_category: Alto saxophones
 
 # [[Alto_Saxophone]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Alto_saxophone,445275]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Alto_saxophone,445275]] 
 
 ## #has_/text_of_/abstract 
 
