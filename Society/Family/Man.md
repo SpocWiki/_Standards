@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Men
 Commons_gallery: Man
 described_by_source:
