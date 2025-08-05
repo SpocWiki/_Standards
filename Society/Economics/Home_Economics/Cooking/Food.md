@@ -103,9 +103,21 @@ U_S_National_Archives_Identifier: 10640291
 Wikidata_property: "FoodData Central ID"
 ---
 
+# [[Food]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Food,2095|WD~Food,2095]] 
+
 ## #has_/text_of_/abstract 
 
-> **Food** is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.
+> **Food** is any substance consumed by an organism for nutritional support. 
+> Food is usually of plant, animal, or fungal origin 
+> and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. 
+> 
+> The substance is ingested by an organism and assimilated by the organism's cells 
+> to provide energy, maintain life, or stimulate growth. 
+> Different species of animals have different feeding behaviours 
+> that satisfy the needs of their metabolisms 
+> and have evolved to fill a specific ecological niche within specific geographical contexts.
 >
 > Omnivorous humans are highly adaptable and have adapted to obtaining food in many different ecosystems. Humans generally use cooking to prepare food for consumption. The majority of the food energy required is supplied by the industrial food industry, which produces food through intensive agriculture and distributes it through complex food processing and food distribution systems. This system of conventional agriculture relies heavily on fossil fuels, which means that the food and agricultural systems are one of the major contributors to climate change, accounting for as much as 37% of total greenhouse gas emissions.
 >

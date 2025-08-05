@@ -17,7 +17,7 @@ has_id_wikidata: Q1072
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heart](/_Standards/bio/Medicine/Anatomy/Heart.md) 
+### #is_/same_as ::[Heart](Heart.md)) 
 
 ### #is_/same_as :: [Heart.public](/_public/bio/Medicine/Anatomy/Heart.public.md) 
 
