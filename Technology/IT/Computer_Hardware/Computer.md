@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 16
 canonical_SMILES: '[S]'
 CAS_Registry_Number: 7704-34-9

@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 1000
 Commons_category: Books
 Commons_gallery: Book
