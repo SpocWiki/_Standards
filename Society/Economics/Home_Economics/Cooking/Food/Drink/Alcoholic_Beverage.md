@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alcoholic beverage"
 Amazon_com_browse_node: 2983371011
