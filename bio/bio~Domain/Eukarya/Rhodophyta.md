@@ -65,7 +65,7 @@ Red Algae
     -  [Stramenopiles](Stramenopiles.md))
     -  [Alveolates](Alveolates.md))
     -   Rhodophyta
-    -   [Green plants](Plants.md)
+    -  [Green plants](Plant.md))
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups

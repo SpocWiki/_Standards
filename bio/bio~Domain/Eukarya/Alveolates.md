@@ -50,7 +50,7 @@ abutting sacs or alveoli - or derived from such organisms.
     -   [Stramenopiles](Stramenopiles.md)
     -   Alveolates
     -   [Rhodophyta](Rhodophyta.md)
-    -   [Green plants](Plants.md)
+    -   [Green plants](Plant.md)
     -   [The other protists](The_other_protists)
 
 -   »   Subgroups

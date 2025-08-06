@@ -103,7 +103,7 @@ Eukaryota, Organisms with nucleated cells
     -   [Stramenopiles](Eukarya/Stramenopiles.md)
     -   [Alveolates](Eukarya/Alveolates.md)
     -   [Rhodophyta](Eukarya/Rhodophyta.md)
-    -   [Green plants](Eukarya/Plants.md)
+    -   [Green plants](Eukarya/Plant.md)
     -   [The other protists](Eukarya/Protist.md)
 
 
