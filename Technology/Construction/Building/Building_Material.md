@@ -1,4 +1,32 @@
+---
+aliases:
+  - Baumaterial
+  - Building material
+has_id_wikidata: Q206615
+subclass_of:
+  - "[[_Standards/WikiData/WD~material,214609]]"
+  - "[[_Standards/WikiData/WD~construction_product,16110223]]"
+has_use: "[[_Standards/WikiData/WD~construction,385378]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+Nomenclature_for_Museum_Cataloging: "43"
+OmegaWiki_Defined_Meaning: "447"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Stapel%20bakstenen%20-%20Pile%20of%20bricks%202005%20Fruggo.jpg
+U_S_National_Archives_Identifier: "10640196"
+Iconclass_notation: 47G5
+P8189: "987007292547805171"
+UMLS_CUI: C0009816
+Commons_category: Construction materials
+Krugosvet_article: energetika-i-stroitelstvo/konstrukcionnye-i-stroitelnye-materialy
+MeSH_tree_code: J01.637.241
+IPTC_NewsCode: mediatopic/20000317
+EAGLE_id: objtyp/lod/13
+---
 
+# [[Building_Material]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Building_material,206615|WD~Building_material,206615]] 
 
 | **Material**      | #has_/Pros                                                                                                                                   | #has_/Cons                                                                                                                                 |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -13,6 +41,22 @@
 | **Adobe (Earth)** | - Low embodied energy (1–2 MJ/kg) <br>- Local availability <br>- Excellent thermal mass <br>- __Biodegradable__                              | - Limited moisture resistance <br>- Structural limitations <br>- Labor-intensive construction                                              |
 | **Plastic (PVC)** | - Water-resistant <br>- Lightweight (1,300–1,450 kg/m³) <br>- Low cost (USD 1–2/kg)                                                          | - Non-biodegradable <br>- Releases toxins when burned <br>- Low mechanical strength (20–50 MPa)                                            |
 
+
+## #has_/text_of_/abstract 
+
+> Building material is material used for construction. 
+> Many naturally occurring substances, such as clay, rocks, sand, wood, 
+> and even twigs and leaves, have been used 
+> to construct buildings and other structures, like bridges. 
+> 
+> Apart from naturally occurring materials, many man-made products are in use, 
+> some more and some less synthetic. 
+> The manufacturing of building materials is an established industry in many countries 
+> and the use of these materials is typically segmented into specific specialty trades, 
+> such as carpentry, insulation, plumbing, and roofing work. 
+> They provide the make-up of habitats and structures including homes.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Building%20material) 
 
 ## Confidential Links & Embeds: 
 
