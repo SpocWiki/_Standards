@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: I
 Commons_category: Botany
 described_by_source:
