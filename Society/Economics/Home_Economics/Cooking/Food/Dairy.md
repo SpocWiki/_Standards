@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Dairies
 described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
 Dewey_Decimal_Classification: 637
