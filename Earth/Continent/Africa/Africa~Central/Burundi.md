@@ -315,9 +315,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Burundi/ReadMe]] 
 
-
-
-
 [	ISO4217-currency_alphabetic	 :: BIF ]
 [	ISO4217-currency_name	 :: Burundi Franc ]
 [	ISO4217-currency_numeric	 :: 108 ]
@@ -381,10 +378,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 108 ]
 
-
-
 [ISO2::BI]
 [ISO3::BDI]
+
+#is_/same_as :: [[../../../../WikiData/WD~Burundi,967|WD~Burundi,967]] 
+
+## #has_/map 
+
 ```leaflet
 id: Burundi
 zoomFeatures: true 

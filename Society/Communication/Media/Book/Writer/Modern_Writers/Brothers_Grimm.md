@@ -40,7 +40,16 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/GRIMM_YAKOB_I_VILGELM.html
 > were German academics who together collected and published folklore. 
 > 
 > The brothers are among the best-known storytellers of folktales, 
-> popularizing stories such as "Cinderella" ("Aschenputtel"), "The Frog Prince" ("Der Froschkönig"), "Hansel and Gretel" ("Hänsel und Gretel"), "Town Musicians of Bremen" ("Die Bremer Stadtmusikanten"), "Little Red Riding Hood" ("Rotkäppchen"), "Rapunzel", "Rumpelstiltskin" ("Rumpelstilzchen"), "Sleeping Beauty" ("Dornröschen"), and "Snow White" ("Schneewittchen"). 
+> popularizing stories such as 
+> - "Cinderella" ("Aschenputtel"), 
+> - "The Frog Prince" ("Der Froschkönig"), 
+> - "Hansel and Gretel" ("Hänsel und Gretel"), 
+> - "Town Musicians of Bremen" ("Die Bremer Stadtmusikanten"), 
+> - "Little Red Riding Hood" ("Rotkäppchen"), 
+> - "Rapunzel", 
+> - "Rumpelstiltskin" ("Rumpelstilzchen"), 
+> - "Sleeping Beauty" ("Dornröschen"), and 
+> - "Snow White" ("Schneewittchen"). 
 > Their first collection of folktales, Children's and Household Tales (Kinder- und Hausmärchen), 
 > was first  published in 1812.
 >
@@ -53,9 +62,24 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/GRIMM_YAKOB_I_VILGELM.html
 >
 > The rise of Romanticism in 19th-century Europe revived interest in traditional folk stories, 
 > which to the Brothers Grimm represented a pure form of national literature and culture. 
-> With the goal of researching a scholarly treatise on folktales, they established a methodology for collecting and recording folk stories that became the basis for folklore studies. Between 1812 and 1857 their first collection was revised and republished many times, growing from 86 stories to more than 200. In addition to writing and modifying folktales, the brothers wrote collections of well-respected Germanic and Scandinavian mythologies, and in 1838 they began writing a definitive German dictionary (Deutsches Wörterbuch), which they were unable to finish.
+> With the goal of researching a scholarly treatise on folktales, 
+> they established a methodology for collecting and recording folk stories 
+> that became the basis for folklore studies. 
+> Between 1812 and 1857 their first collection was revised and republished many times, 
+> growing from 86 stories to more than 200. 
+> In addition to writing and modifying folktales, 
+> the brothers wrote collections of well-respected Germanic and Scandinavian mythologies, 
+> and in 1838 they began writing a definitive German dictionary (Deutsches Wörterbuch), 
+> which they were unable to finish.
 >
-> The popularity of the Grimms' collected folktales has endured. They are available in more than 100 translations and have been adapted by renowned filmmakers, including Lotte Reiniger and Walt Disney, in films such as Snow White and the Seven Dwarfs. In the mid-20th century, Nazi Germany weaponized the tales for propaganda; later in the 20th century, psychologists such as Bruno Bettelheim reaffirmed the work's value despite the sexuality, cruelty, and violence in some of the tales' original versions, which were eventually censored by the Grimms themselves.
+> The popularity of the Grimms' collected folktales has endured. 
+> They are available in more than 100 translations and have been adapted by renowned filmmakers, 
+> including Lotte Reiniger and Walt Disney, in films such as Snow White and the Seven Dwarfs. 
+> 
+> In the mid-20th century, Nazi Germany weaponized the tales for propaganda; 
+> later in the 20th century, psychologists such as Bruno Bettelheim reaffirmed the work's value 
+> despite the sexuality, cruelty, and violence in some of the tales' original versions, 
+> which were eventually censored by the Grimms themselves.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brothers%20Grimm) 
 
