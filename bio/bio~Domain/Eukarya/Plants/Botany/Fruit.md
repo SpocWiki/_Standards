@@ -37,6 +37,11 @@ subclass_of:
 - '[[_Standards/WikiData/WD~plant_ovary,109121364]]'
 ---
 
+# [[Fruit]] 
+
+#is_/same_as ::  [[../../../../../WikiData/WD~Fruit,3314483|WD~Fruit,3314483]]  
+#is_/different_from :: [[../../../../../WikiData/WD~Fruit,1364|WD~Fruit,1364]]  
+
 ## #has_/text_of_/abstract 
 
 > In botany, a **Fruit** is the seed-bearing structure in flowering plants (angiosperms) 
