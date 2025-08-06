@@ -73,7 +73,15 @@ Amazon_com_browse_node:
 
 ## #has_/text_of_/abstract 
 
-> A **Banana** is an elongated, edible fruit – botanically a berry – produced by several kinds of large treelike herbaceous flowering plants in the genus Musa. In some countries, cooking bananas are called plantains, distinguishing them from dessert bananas. The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a peel, which may have a variety of colors when ripe. It grows upward in clusters near the top of the plant. Almost all modern edible seedless (parthenocarp) cultivated bananas come from two wild species – Musa acuminata and Musa balbisiana, or hybrids of them.
+> A **Banana** is an elongated, edible fruit – botanically a berry – 
+> produced by several kinds of large treelike herbaceous flowering plants in the genus Musa. 
+> 
+> In some countries, cooking bananas are called plantains, 
+> distinguishing them from dessert bananas. 
+> The fruit is variable in size, color and firmness, but is usually elongated and curved, 
+> with soft flesh rich in starch covered with a peel, which may have a variety of colors when ripe. 
+> 
+> It grows upward in clusters near the top of the plant. Almost all modern edible seedless (parthenocarp) cultivated bananas come from two wild species – Musa acuminata and Musa balbisiana, or hybrids of them.
 >
 > Musa species are native to tropical Indomalaya and Australia; they were probably domesticated in New Guinea. They are grown in 135 countries, primarily for their fruit, and to a lesser extent to make banana paper and textiles, while some are grown as ornamental plants. The world's largest producers of bananas in 2022 were India and China, which together accounted for approximately 26% of total production. Bananas are eaten raw or cooked in recipes varying from curries to banana chips, fritters, fruit preserves, or simply baked or steamed.
 >
