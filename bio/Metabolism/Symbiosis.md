@@ -1,3 +1,37 @@
+---
+Commons_category: Symbiosis
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+exact_match: http://purl.obolibrary.org/obo/GO_0044403
+facet_of:
+  - "[[_Standards/WikiData/WD~symbiogenesis,2030494]]"
+has_id_wikidata: Q121610
+has_part_s_:
+  - "[[_Standards/WikiData/WD~symbiont,2374421]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Common%20clownfish%20curves%20dnsmpl.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hummingbird%20hawkmoth%20a.jpg
+instance_of:
+  - "[[_Standards/WikiData/WD~process,3249551]]"
+Krugosvet_article: biologiya/simbioz
+Library_of_Congress_Classification: QH548-QH548.3
+MeSH_tree_code:
+  - G06.550.800
+  - G16.840
+OmegaWiki_Defined_Meaning: 3691
+opposite_of: "[[_Standards/WikiData/WD~antibiosis,770530]]"
+P8189: 987007553531805200
+subclass_of:
+  - "[[_Standards/WikiData/WD~cooperation,380962]]"
+  - "[[_Standards/WikiData/WD~cross_species_interaction,111171519]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+aliases:
+  - endosymbiosis
+  - endosymbiose
+  - Symbiose
+---
 ﻿---
 Commons_category: Symbiosis
 described_by_source:

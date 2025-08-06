@@ -15,20 +15,41 @@ title: "Green plants"
 
 ![Chlamydomonas](Plant/chlamydomonas.gif)  ![Spirogyra](Plant/spirogyra.gif)  ![Coleochaete](Plant/coleochaete.gif)  ![Hepatica](Plant/hepatican_arrow.gif) 
 
-Green plants include all organisms commonly known as green algae and land plants, 
-including liverworts, mosses, ferns and other non-seed plants, and seed plants.
+Green plants include all organisms commonly known as green algae and [[Plant/Land_Plant|land plants]], 
+including liverworts, [[Plant/Land_Plant/Moss|mosses]], [[Plant/Land_Plant/Fern|ferns]] and other non-seed plants, and seed plants.
 
-The scientific study of plants is known as botany, a branch of biology.
+The scientific study of plants is known as [[../../Botany|botany]], a branch of biology.
 
 ## #has_/text_of_/abstract 
 
-> **Plant**s are the eukaryotes that form the kingdom Plantae; they are predominantly photosynthetic. This means that they obtain their energy from sunlight, using chloroplasts derived from endosymbiosis with cyanobacteria to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, and obtain their energy from other plants or fungi. Most plants are multicellular, except for some green algae.
+> **Plant**s are the [[../Eukarya|eukaryotes]] that form the kingdom Plantae; they are predominantly photosynthetic. 
+> This means that they obtain their energy from sunlight, 
+> using chloroplasts derived from [[../../Metabolism/Symbiosis|endosymbiosis]] with [[../Bacteria/Cyanobacteria|cyanobacteria]] 
+> to produce sugars from carbon dioxide and water, using the green pigment chlorophyll. 
+> 
+> Exceptions are parasitic plants that have lost the genes for chlorophyll and photosynthesis, 
+> and obtain their energy from other plants or fungi. 
+> Most plants are multicellular, except for some green algae.
 >
-> Historically, as in Aristotle's biology, the plant kingdom encompassed all living things that were not animals, and included algae and fungi. Definitions have narrowed since then; current definitions exclude the fungi and some of the algae. By the definition used in this article, plants form the clade Viridiplantae (green plants), which consists of the green algae and the embryophytes or land plants (hornworts, liverworts, mosses, lycophytes, ferns, conifers and other gymnosperms, and flowering plants). A definition based on genomes includes the Viridiplantae, along with the red algae and the glaucophytes, in the clade Archaeplastida.
+> Historically, as in Aristotle's biology, the plant kingdom 
+> encompassed all living things that were not animals, including algae and fungi. 
+> Definitions have narrowed since then; 
+> current definitions exclude the fungi and some of the algae. 
+> 
+> By the definition used in this article, plants form the clade Viridiplantae (green plants), 
+> which consists of the green algae and the embryophytes or land plants (hornworts, liverworts, mosses, lycophytes, ferns, conifers and other gymnosperms, and flowering plants). 
+> A definition based on genomes includes the Viridiplantae, 
+> along with the red algae and the glaucophytes, in the clade Archaeplastida.
 >
-> There are about 380,000 known species of plants, of which the majority, some 260,000, produce seeds. They range in size from single cells to the tallest trees. Green plants provide a substantial proportion of the world's molecular oxygen; the sugars they create supply the energy for most of Earth's ecosystems, and other organisms, including animals, either eat plants directly or rely on organisms which do so.
+> There are about 380,000 known species of plants, of which the majority, some 260,000, produce seeds. They range in size from single cells to the tallest trees. 
+> Green plants provide a substantial proportion of the world's molecular oxygen; 
+> the sugars they create supply the energy for most of Earth's ecosystems, 
+> and other organisms, including animals, either eat plants directly 
+> or rely on organisms which do so.
 >
-> Grain, fruit, and vegetables are basic human foods and have been domesticated for millennia. People use plants for many purposes, such as building materials, ornaments, writing materials, and, in great variety, for medicines. 
+> Grain, fruit, and vegetables are basic human foods and have been domesticated for millennia. 
+> People use plants for many purposes, such as building materials, 
+> ornaments, writing materials, and, in great variety, for medicines. 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant)
 
