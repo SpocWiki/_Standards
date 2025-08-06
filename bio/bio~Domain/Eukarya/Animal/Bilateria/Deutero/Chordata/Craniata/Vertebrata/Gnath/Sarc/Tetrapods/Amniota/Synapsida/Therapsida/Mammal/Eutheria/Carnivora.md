@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Fleischfresser
 Commons_category: Carnivora
