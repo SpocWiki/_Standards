@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nut (fruit)"
 Commons_category: Nuts

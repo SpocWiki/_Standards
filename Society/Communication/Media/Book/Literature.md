@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 文学
 Colon_Classification: O
 Commons_category: Literature

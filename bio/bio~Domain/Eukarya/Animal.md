@@ -94,6 +94,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishin
 
 # [[Animal]] 
 
+#is_/subject_of ::  [[../../Zoology|Zoology]] 
 
 ![Grasshopper](Animal/grasshopper.gif) ![](Animal/1618ctenophore.jpg) ![](Animal/haliclona.jpg) ![](Animal/haliplanella.gif) 
 

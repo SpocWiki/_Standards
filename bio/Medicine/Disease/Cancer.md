@@ -1,4 +1,4 @@
-﻿---
+---
 age_of_onset: '[[_Standards/WikiData/WD~any_age,118907676]]'
 Commons_gallery: "Cancer (illness)"
 described_by_source:

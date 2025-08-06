@@ -1,5 +1,7 @@
 ---
 title: Sauropodomorpha
+aliases:
+  - sauropod
 ---
 
 # [[Sauropodomorpha]] 
@@ -8,7 +10,19 @@ Long-necked plant-eating dinosaurs
 
 ## #has_/text_of_/abstract 
 
-> **Sauropodomorpha** ( SOR-ə-POD-ə-MOR-fə; from Greek, meaning "lizard-footed forms") is an extinct clade of long-necked, herbivorous, saurischian dinosaurs that includes the sauropods and their ancestral relatives. Sauropods generally grew to very large sizes, had long necks and tails, were quadrupedal, and became the largest animals to ever walk the Earth. The primitive sauropodomorphs which preceded the sauropods, and are informally called prosauropods, were smaller and were often able to walk on two legs. The sauropodomorphs were the dominant terrestrial herbivores throughout much of the Mesozoic Era, from their origins in the Late Triassic (approximately 230 Ma) until their decline and extinction at the end of the Cretaceous.
+> **Sauropodomorpha** ( SOR-ə-POD-ə-MOR-fə; from Greek, meaning "lizard-footed forms") 
+> is an extinct clade of long-necked, herbivorous, saurischian dinosaurs 
+> that includes the sauropods and their ancestral relatives. 
+> Sauropods generally grew to very large sizes, had long necks and tails, 
+> were quadrupedal, and became the largest animals to ever walk the Earth. 
+> 
+> The primitive sauropodomorphs which preceded the sauropods, 
+> and are informally called prosauropods, were smaller and were often able to walk on two legs. 
+> 
+> The sauropodomorphs were the dominant terrestrial herbivores 
+> throughout much of the Mesozoic Era, 
+> from their origins in the Late Triassic (approximately 230 Ma) 
+> until their decline and extinction at the end of the Cretaceous.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sauropodomorpha) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bronze Age"
 Commons_category: "Bronze Age"
@@ -35,6 +35,8 @@ subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]] 
 
 ## #has_/text_of_/abstract 
 

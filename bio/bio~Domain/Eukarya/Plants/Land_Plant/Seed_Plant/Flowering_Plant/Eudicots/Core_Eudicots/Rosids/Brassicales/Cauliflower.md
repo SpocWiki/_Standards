@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Cauliflower
 - Choux-fleur
@@ -51,15 +51,20 @@ UNII: 87M72T7VW1
 
 # [[Cauliflower]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cauliflower,7537]] 
-
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Brassica_oleracea_var._botrytis,7537|WD~Brassica_oleracea_var._botrytis,7537]] 
 ## #has_/text_of_/abstract 
 
-> **Cauliflower** is one of several vegetables cultivated from the species Brassica oleracea in the genus Brassica, which is in the Brassicaceae (or mustard) family. Only the "head" is typically eaten; the edible white flesh is sometimes called "curd".
+> **Cauliflower** is one of several vegetables cultivated from the species Brassica oleracea 
+> in the genus Brassica, which is in the Brassicaceae (or mustard) family. 
+> Only the "head" is typically eaten; the edible white flesh is sometimes called "curd".
 >
-> An annual plant that reproduces by seed, the cauliflower head is composed of a (generally) white inflorescence meristem. Although cauliflower heads resemble those in broccoli, the latter differs in having flower buds as the edible portion. 
+> An annual plant that reproduces by seed, 
+> the cauliflower head is composed of a (generally) white inflorescence meristem. 
+> Although cauliflower heads resemble those in broccoli, 
+> the latter differs in having flower buds as the edible portion. 
 >
-> The global cauliflower production (combined with broccoli) in 2023 was 26.5 million tonnes, led by China and India with 72% of the total.
+> The global cauliflower production (combined with broccoli) in 2023 was 26.5 million tonnes, 
+> led by China and India with 72% of the total.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cauliflower) 
 

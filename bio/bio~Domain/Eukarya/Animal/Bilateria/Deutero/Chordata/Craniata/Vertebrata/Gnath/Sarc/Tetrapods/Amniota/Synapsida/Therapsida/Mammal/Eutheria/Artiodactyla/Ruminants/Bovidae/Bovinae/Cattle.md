@@ -1,4 +1,4 @@
-﻿---
+---
 age_of_onset_of_sexual_maturity:
 - 7
 - 8

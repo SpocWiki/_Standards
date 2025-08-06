@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Broccoli
 - Brokkoli
@@ -53,7 +53,7 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Broccoli\"]"
 
 # [[Broccoli]]
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Broccoli,47722|WD~Broccoli,47722]] 
+#is_/same_as : [[../../../../../../../../../../../WikiData/WD~Broccoli,47722|WD~Broccoli,47722]] 
 
 ## #has_/text_of_/abstract 
 

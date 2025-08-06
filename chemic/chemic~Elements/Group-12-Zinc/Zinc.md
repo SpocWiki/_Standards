@@ -1,4 +1,4 @@
-﻿---
+---
 active_ingredient_in: '[[_Standards/WikiData/WD~Wilzin,29006676]]'
 associated_hazard: '[[_Standards/WikiData/WD~zinc_toxicity,10724674]]'
 atomic_number: 30
@@ -104,6 +104,8 @@ ZVG_number:
 - 8250
 ---
 
+# [[Zinc]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zinc,758]] 
 
@@ -129,6 +131,8 @@ ZVG_number:
 (PeriodNo::4)
 (GroupNo::12)
 
+- **Zinc** is more **reactive, conductive, abundant**, and widely used in structural materials and galvanizing steel. 
+- **Tin** is **less reactive, rarer**, and crucial in **electronics and soldering** due to its lower melting point and corrosion resistance.
 
 ## #has_/text_of_/abstract 
 

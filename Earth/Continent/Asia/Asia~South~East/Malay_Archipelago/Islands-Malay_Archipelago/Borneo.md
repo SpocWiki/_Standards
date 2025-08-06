@@ -60,6 +60,18 @@ MeSH_tree_code:
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Borneo,36117|WD~Borneo,36117]] 
 
+
+```leaflet
+id: Borneo
+zoomFeatures: true 
+minZoom: 5 
+maxZoom: 18
+geojsonFolder: ./Borneo/
+markerFolder: ./Borneo/
+```
+
+
+
 ## #has_/text_of_/abstract 
 
 > **Borneo** is the third-largest island in the world, with an area of 748,168 km2 (288,869 sq mi), 
