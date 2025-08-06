@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 71.61
 Commons_category: "Prejudice and discrimination"
 described_by_source:
