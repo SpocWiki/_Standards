@@ -540,7 +540,7 @@ markerFolder: ./United_Arab_Emirates/
 [Area-Land::83600]
 has_place_continent:: [[Asia]]  
 [VehicleCode::UAE]
-Capital :: [[United_Arab_Emirates/City/Abu_Dhabi]]  
+Capital :: [[United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi]]  
 ![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3]]
