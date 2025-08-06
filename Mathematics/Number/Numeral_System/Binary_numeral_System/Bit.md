@@ -4,7 +4,8 @@ instance_of:
   - "[[_Standards/WikiData/WD~concept,151885]]"
   - "[[_Standards/WikiData/WD~unit_of_information,3550873]]"
   - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-subclass_of: "[[_Standards/WikiData/WD~quantity,309314]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~quantity,309314]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 part_of: "[[_Standards/WikiData/WD~International_System_of_Quantities,16203461]]"
 measured_physical_quantity:
@@ -16,7 +17,8 @@ conversion_to_standard_unit:
   - 0.25
   - 0.125
   - 0.0009765625
-different_from: "[[_Standards/WikiData/WD~byte,8799]]"
+different_from:
+  - "[[_Standards/WikiData/WD~byte,8799]]"
 ComputerLanguage_com_definition: bit
 UCUM_code: bit
 unit_symbol:
@@ -28,6 +30,8 @@ OmegaWiki_Defined_Meaning: "356586"
 Stack_Exchange_tag: https://stackoverflow.com/tags/bit
 Wolfram_Language_unit_code: '"Bits"'
 IEV_number: 171-02-11
+aliases:
+  - Bits
 ---
 
 # [[Bit]] 
