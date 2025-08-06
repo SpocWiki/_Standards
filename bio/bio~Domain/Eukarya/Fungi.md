@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl"
 AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070"
 aliases:
@@ -66,6 +66,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fungi,39087041]]'
 ---
 
 # [[Fungi]] 
+
+#is_/subject_of ::  [[../../Mycology|Mycology]] 
 
 Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc. 
 

@@ -11,11 +11,14 @@ title: "Green plants"
 
 # [[Plants]] 
 
+#is_/subject_of ::  [[../../Botany|Botany]]
+
 ![Chlamydomonas](Plants/chlamydomonas.gif)  ![Spirogyra](Plants/spirogyra.gif)  ![Coleochaete](Plants/coleochaete.gif)  ![Hepatica](Plants/hepatican_arrow.gif) 
 
 Green plants include all organisms commonly known as green algae and land plants, 
 including liverworts, mosses, ferns and other non-seed plants, and seed plants.
 
+The scientific study of plants is known as botany, a branch of biology.
 
 ## #has_/text_of_/abstract 
 
@@ -25,7 +28,7 @@ including liverworts, mosses, ferns and other non-seed plants, and seed plants.
 >
 > There are about 380,000 known species of plants, of which the majority, some 260,000, produce seeds. They range in size from single cells to the tallest trees. Green plants provide a substantial proportion of the world's molecular oxygen; the sugars they create supply the energy for most of Earth's ecosystems, and other organisms, including animals, either eat plants directly or rely on organisms which do so.
 >
-> Grain, fruit, and vegetables are basic human foods and have been domesticated for millennia. People use plants for many purposes, such as building materials, ornaments, writing materials, and, in great variety, for medicines. The scientific study of plants is known as botany, a branch of biology.
+> Grain, fruit, and vegetables are basic human foods and have been domesticated for millennia. People use plants for many purposes, such as building materials, ornaments, writing materials, and, in great variety, for medicines. 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plant)
 
