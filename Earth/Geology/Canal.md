@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Canals
 Commons_gallery: Canal
 described_by_source:
