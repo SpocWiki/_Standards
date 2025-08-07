@@ -29,7 +29,7 @@ Class of all tourist_attractions.
 Tag Instances like this: 
 #is_a_/tourist_attraction
 
-A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], from[[../../../../Earth/Geology/Mountain]]]]] and [[LandmarksOrHistoricalBuildings]] to a [[LocalBusiness]].  This Type can be used on its own to describe a general [[TouristAttraction]], or be used as an [[additionalType]] to add tourist attraction properties to any other type.  (See examples below)
+A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], fro[[../../../../Earth/Geology/landform/Mountain]]]]]] and [[LandmarksOrHistoricalBuildings]] to a [[LocalBusiness]].  This Type can be used on its own to describe a general [[TouristAttraction]], or be used as an [[additionalType]] to add tourist attraction properties to any other type.  (See examples below)
 
 [ #is_/sub_class_of :: [[../Place]] ]
 
