@@ -9,7 +9,7 @@ aliases:
 
 > Fritz Haber (German pronunciation: [ˈfʁɪt͡s ˈhaːbɐ] ; 9 December 1868 – 29 January 1934) 
 > was a German chemist who received the Nobel Prize in Chemistry in 1918 
-> for his invention of the [[../chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process]], 
+> for his invention of the[[../Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process]]], 
 > a method used in industry to synthesize ammonia from nitrogen gas and hydrogen gas. 
 > 
 > This invention is important for the large-scale synthesis of fertilizers and explosives. 

@@ -7,10 +7,12 @@ icon: ":atom symbol:"
 # [[chemic]]
 
  Chemistry is a wide Field; therefore it is broken up into 
-- [Chemical Elements](chemic~Elements.md) 
-- [organic Chemistry](chemic/organic.md) and 
-- [inOrganic Chemistry](chemic/inOrganic.md)
+- [Chemical Elements](chemic/Chemical_Element.md) 
+- [[chemic/Chemical_Substance/Chemical_Compound|Chemical_Compound]] 
+	- [organic Chemistry](chemic/organic.md) and 
+	- [inOrganic Chemistry](chemic/inOrganic.md)
 
+## #has_/text_of_/abstract  
 
 > **Chemistry** is the scientific study of the properties and behavior of matter. It is a physical science under natural sciences that covers the elements that make up matter to the compounds made of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during a reaction with other substances. Chemistry also addresses the nature of chemical bonds in chemical compounds.
 >

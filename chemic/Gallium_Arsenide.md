@@ -6,8 +6,8 @@ aliases:
 
 # [[Gallium_Arsenide]] 
 
-#has_/parts :: [[chemic~Elements/Group-13-Boron/Gallium|Gallium]] 
-#has_/parts :: [[chemic~Elements/Group-15-Nitrogen/Arsenic|Arsenic]] 
+#has_/parts ::[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]] 
+#has_/parts ::[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]] 
 
 ## #has_/text_of_/abstract 
 

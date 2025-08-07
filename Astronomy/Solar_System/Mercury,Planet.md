@@ -117,7 +117,7 @@ expiryDate:
 #is_/same_as :: [[../../WikiData/WD~Mercury,308]] 
 #is_/different_from :: [[../../WikiData/WD~Mercury,925]]  
 #is_/different_from :: [[_Standards/WikiData/WD~Mercury,1150]] 
-#is_/different_from :: [[../../chemic/chemic~Elements/Group-12-Zinc/Mercury]] 
+#is_/different_from :: [[../../chemic/Chemical_Element/Group-12-Zinc/Mercury]] 
 
 ## #has_/text_of_/abstract 
 

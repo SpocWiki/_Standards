@@ -58,19 +58,19 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATMOSFERA_ZEMLI.html
 
 ## Atmosphere-Composition 
 
-Roughly speaking 80% [[../chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen|Nitrogen]] and 20% [[../chemic/chemic~Elements/Group-16-Chalcogene/Oxygen|Oxygen]]. 
+Roughly speaking 80% [[../chemic/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]] and 20% [[../chemic/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]]. 
 
 | Gas                                                                  | % Vol          |
 | -------------------------------------------------------------------- | -------------- |
-| [[../chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen\|Nitrogen]]   | 78.09          |
-| [[../chemic/chemic~Elements/Group-16-Chalcogene/Oxygen\|Oxygen]]     | 20.95          |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Argon\|Argon]]      | 0.93           |
-| [[../chemic/chemic~Elements/Group-14-Carbon/Carbon\|Carbon]] Dioxide | 0.04           |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Neon\|Neon]]        | 0.0018         |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Helium\|Helium]]    | 0.0005         |
+| [[../chemic/Chemical_Element/Group-15-Nitrogen/Nitrogen\|Nitrogen]]   | 78.09          |
+| [[../chemic/Chemical_Element/Group-16-Chalcogene/Oxygen\|Oxygen]]     | 20.95          |
+| [[../chemic/Chemical_Element/Group-18-Nobel-Gases/Argon\|Argon]]      | 0.93           |
+| [[../chemic/Chemical_Element/Group-14-Carbon/Carbon\|Carbon]] Dioxide | 0.04           |
+| [[../chemic/Chemical_Element/Group-18-Nobel-Gases/Neon\|Neon]]        | 0.0018         |
+| [[../chemic/Chemical_Element/Group-18-Nobel-Gases/Helium\|Helium]]    | 0.0005         |
 | [[../chemic/organic/Alkane/Methane\|Methane]]                               | 0.0002         |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
+| [[../chemic/Chemical_Element/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
+| [[../chemic/Chemical_Element/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
 | [[../chemic/inOrganic/Water\|Water]]                                 | 0–4 (variable) |
 | [[Atmosphere,Earth/Ozone]]                                                            | Trace amounts  |
 

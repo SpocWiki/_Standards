@@ -8,12 +8,12 @@ aliases:
 
 #is_/similar_to :: [[Bronze]] 
 #is_/same_as :: [[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]] 
-#has_/parts :: [[../../../chemic~Elements/Group-11-Copper/Copper|Copper]] 
-#has_/parts :: [[../../../chemic~Elements/Group-12-Zinc/Zinc|Zinc]]   
+#has_/parts :: [[../../../Chemical_Element/Group-11-Copper/Copper|Copper]] 
+#has_/parts :: [[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]   
 
 ## #has_/text_of_/abstract 
 
-> **Brass** is an [[../Alloy|alloy]] of [[../../../chemic~Elements/Group-11-Copper/Copper|copper]] and [[../../../chemic~Elements/Group-12-Zinc/Zinc|zinc]], in proportions which can be varied 
+> **Brass** is an [[../Alloy|alloy]] of [[../../../Chemical_Element/Group-11-Copper/Copper|copper]] and [[../../../Chemical_Element/Group-12-Zinc/Zinc|zinc]], in proportions which can be varied 
 > to achieve different colours and mechanical, electrical, acoustic and chemical properties, 
 > but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. 
 > In use since prehistoric times, it is a substitutional alloy: 
