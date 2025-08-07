@@ -214,7 +214,7 @@ of animals and their sibling groups within the broader context of eukaryotic div
     -   [Stramenopiles](Stramenopiles.md)
     -   [Alveolates](Alveolates.md)
     -   [Rhodophyta](Rhodophyta.md)
-    -   [Green plants](Plants.md)
+    -   [Green plants](Plant.md)
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups

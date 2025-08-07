@@ -1,4 +1,4 @@
-﻿---
+---
 carbon_footprint: 1.3
 Colon_Classification: "KX31:71"
 color: '[[_Standards/WikiData/WD~white,23444]]'

@@ -112,7 +112,7 @@ Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 
 ## #has_/text_of_/abstract 
 
-> An **Apple** is a round, edible fruit produced by an [[../../../../../../bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Appletree|Appletree]]  
+> An **Apple** is a round, edible fruit produced by an [[../../../../../../bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Appletree|Appletree]]  
 > (Malus spp., among them the domestic or orchard apple; Malus domestica). 
 > 
 > Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. 

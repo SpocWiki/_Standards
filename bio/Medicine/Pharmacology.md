@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 3004
 Basisklassifikation: 44.38
 Commons_category: Pharmacology

@@ -64,7 +64,7 @@ title: "The other protists"
     -  [Stramenopiles](Stramenopiles.md))
     -  [Alveolates](Alveolates.md))
     -  [Rhodophyta](Rhodophyta.md))
-    -   [Green plants](Plants.md)
+    -  [Green plants](Plant.md))
     -   The other protists
 
 -   » Sub-Groups

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Chemical compound"
 - "chemische Verbindung"

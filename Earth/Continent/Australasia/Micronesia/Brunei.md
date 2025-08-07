@@ -308,6 +308,8 @@ WIPO_ST_3: BN
 writing_system: '[[_Standards/WikiData/WD~Malay_alphabet,2673515]]'
 ---
 
+# [[Brunei]] 
+
 [	ISO4217-currency_alphabetic	 :: BND ] 
 [	ISO4217-currency_name	 :: Brunei Dollar ] 
 [	ISO4217-currency_numeric	 :: 096 ] 
@@ -371,10 +373,10 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 096 ] 
 
-
-
 [ISO2::BN] 
 [ISO3::BRN]  
+
+#is_/same_as :: [[../../../../WikiData/WD~Brunei_Darussalam,921|WD~Brunei_Darussalam,921]] 
 
 ## #has_/map  
 

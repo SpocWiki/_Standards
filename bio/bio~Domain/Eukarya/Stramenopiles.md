@@ -70,7 +70,7 @@ Tubulocristate protists with tripartite tubular hairs or derived from such organ
     -   Stramenopiles
     -  [Alveolates](Alveolates.md))
     -  [Rhodophyta](Rhodophyta.md))
-    -   [Green plants](Plants.md)
+    -  [Green plants](Plant.md))
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups
