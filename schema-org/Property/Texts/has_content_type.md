@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content-type
 - content_type
@@ -25,13 +25,15 @@ title: has_text_of_content_type
 type: Pred_Text
 ---
 
-Predicate to describe the Text of EntryPoint.
+Predicate to describe the Meta-Type Text of EntryPoint.
 
 Use it like this: 
 - [ #has_/text_of_/content_type :: Text ] or 
 - [ has_text_of_content_type :: Text ] 
 
 The supported content type(s) for an EntryPoint response.
+
+problem+json is a Standard content-type to detail Errors. 
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
