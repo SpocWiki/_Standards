@@ -22,9 +22,9 @@ Commons_category: Brown dwarfs
 > Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, 
 > but less than the least massive main-sequence stars.  
 > Their mass is approximately 13 to 80 times that of [[Solar_System/Jupiter|Jupiter]] (MJ)—
-> not big enough to sustain nuclear fusion of [[../chemic/Chemical_Element/Group-01-Alkali/Hydrogen|hydrogen]] into [[../chemic/Chemical_Element/Group-18-Nobel-Gases/Helium|helium]] in their cores, 
-> but massive enough to emit some light and heat from the fusion of [[../chemic/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|deuterium]] (2H).  
-> The most massive ones (> 65 MJ) can fuse [[../chemic/Chemical_Element/Group-01-Alkali/Lithium|lithium]] (7Li).
+> not big enough to sustain nuclear fusion of [[../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|hydrogen]] into [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|helium]] in their cores, 
+> but massive enough to emit some light and heat from the fusion of [[../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|deuterium]] (2H).  
+> The most massive ones (> 65 MJ) can fuse [[../Chemistry/Chemical_Element/Group-01-Alkali/Lithium|lithium]] (7Li).
 >
 > Astronomers classify self-luminous objects by spectral type, 
 > a distinction intimately tied to the surface temperature, and brown dwarfs occupy 

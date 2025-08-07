@@ -601,7 +601,7 @@ Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ]
 
 
 ## Economy 
-Congo has 80% of global [[../../../../chemic/Chemical_Element/Group-09-Cobalt/Cobalt|Cobalt]] Resources! 
+Congo has 80% of global [[../../../../Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt|Cobalt]] Resources! 
 
 
 ## #has_/text_of_/abstract 

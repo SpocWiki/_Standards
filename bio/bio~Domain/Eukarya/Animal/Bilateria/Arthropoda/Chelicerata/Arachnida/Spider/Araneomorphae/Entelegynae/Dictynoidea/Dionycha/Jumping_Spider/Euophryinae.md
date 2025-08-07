@@ -75,7 +75,7 @@ and thus the euophyines may be paraphyletic (Maddison, 1996).
     -   [Euophrys](Euophrys)
     -   [Habrocestum](Habrocestum)
     -   [Maeota dichrura](Maeota_dichrura)
-    -  [Neon](../../../../../../../../../../../../../../chemic/Chemical_Element/Group-18-Nobel-Gases/Neon.md))
+    - [Neon](../../../../../../../../../../../../../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.md)))
     -   [Neonella](Neonella)
     -   [Pensacola](Pensacola)
     -   [Sidusa](Sidusa)
@@ -117,7 +117,7 @@ and thus the euophyines may be paraphyletic (Maddison, 1996).
 	-   *Maratus*
 	-   *Margaromma*
 	-   *Mopiopia*
-	-   [Neon](../../../../../../../../../../../../../../chemic/Chemical_Element/Group-18-Nobel-Gases/Neon.md))*
+	-  [Neon](../../../../../../../../../../../../../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.md)))*
 	-   *[Neonella](Neonella)*
 	-   *Ocnotelus*
 	-   *[Pensacola](Pensacola)*

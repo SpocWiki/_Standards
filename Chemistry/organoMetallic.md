@@ -18,7 +18,7 @@
 > 
 > Metal β-diketonates, alkoxides, dialkylamides, and metal phosphine complexes 
 > are representative members of this class.  
-> The field of organometallic chemistry combines aspects of traditional [[inorganic]] and [[organic]] chemistry.
+> The field of organometallic chemistry combines aspects of traditional [[inOrganic]] and [[organic]] chemistry.
 >
 > Organometallic compounds are widely used both stoichiometrically in research and industrial chemical reactions, 
 > as well as in the role of catalysts to increase the rates of such reactions (e.g., as in uses of homogeneous catalysis), 

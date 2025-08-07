@@ -4,13 +4,13 @@ aliases:
 icon: ":atom symbol:"
 ---
 
-# [[chemic]]
+# [[Chemistry]]
 
  Chemistry is a wide Field; therefore it is broken up into 
-- [Chemical Elements](chemic/Chemical_Element.md) 
-- [[chemic/Chemical_Substance/Chemical_Compound|Chemical_Compound]] 
-	- [organic Chemistry](chemic/organic.md) and 
-	- [inOrganic Chemistry](chemic/inOrganic.md)
+- [Chemical Elements](Chemistry/Chemical_Element.md) 
+- [[Chemistry/Chemical_Substance/Chemical_Compound|Chemical_Compound]] 
+	- [organic Chemistry](Chemistry/organic.md) and 
+	- [inOrganic Chemistry](Chemistry/inOrganic.md)
 
 ## #has_/text_of_/abstract  
 
