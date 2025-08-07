@@ -72,7 +72,7 @@ Roughly speaking 80% [[../chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen|Nitr
 | [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
 | [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
 | [[../chemic/inOrganic/Water\|Water]]                                 | 0–4 (variable) |
-| [[Ozone]]                                                            | Trace amounts  |
+| [[Atmosphere,Earth/Ozone]]                                                            | Trace amounts  |
 
 ## Vertical Stratification 
 
