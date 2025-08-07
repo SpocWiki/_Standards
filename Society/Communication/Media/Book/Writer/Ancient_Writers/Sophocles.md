@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: 1ee535de-317b-4b63-affe-315c76aaa517
 child:
 - '[[_Standards/WikiData/WD~Iophon,3907964]]'

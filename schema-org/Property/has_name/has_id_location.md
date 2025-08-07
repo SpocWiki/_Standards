@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - global-location-number
 - id_location

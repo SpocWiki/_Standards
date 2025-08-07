@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Giraffa
 title: Giraffa
@@ -76,7 +76,7 @@ Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Giraffe](Giraffe.md)) 
+### #is_/same_as :: [Giraffe](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Giraffoidea/Giraffidae/Giraffe.md) 
 
 ### #is_/same_as :: [Giraffe.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Giraffoidea/Giraffidae/Giraffe.public.md) 
 

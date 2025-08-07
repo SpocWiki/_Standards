@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - authoritative-legal-value
 - authoritative_legal_value

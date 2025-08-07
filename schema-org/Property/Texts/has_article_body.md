@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - article-body
 - article_body

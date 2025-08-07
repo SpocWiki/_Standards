@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Casimir Funk"
 - "Kazimierz Funk"

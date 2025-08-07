@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - limited-by-guarantee-charity
 - limited_by_guarantee_charity

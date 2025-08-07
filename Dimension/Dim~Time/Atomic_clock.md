@@ -57,3 +57,20 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "ClockAtomic"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atomic%20clock) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atomic_clock](/_Standards/Dimension/Dim~Time/Atomic_clock.md) 
+
+### #is_/same_as :: [Atomic_clock.public](/_public/Dimension/Dim~Time/Atomic_clock.public.md) 
+
+### #is_/same_as :: [Atomic_clock.internal](/_internal/Dimension/Dim~Time/Atomic_clock.internal.md) 
+
+### #is_/same_as :: [Atomic_clock.protect](/_protect/Dimension/Dim~Time/Atomic_clock.protect.md) 
+
+### #is_/same_as :: [Atomic_clock.private](/_private/Dimension/Dim~Time/Atomic_clock.private.md) 
+
+### #is_/same_as :: [Atomic_clock.personal](/_personal/Dimension/Dim~Time/Atomic_clock.personal.md) 
+
+### #is_/same_as :: [Atomic_clock.secret](/_secret/Dimension/Dim~Time/Atomic_clock.secret.md)
+

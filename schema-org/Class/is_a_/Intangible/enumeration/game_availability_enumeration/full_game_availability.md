@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - full-game-availability
 - full_game_availability

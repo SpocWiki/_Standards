@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-season
 - part_of_season

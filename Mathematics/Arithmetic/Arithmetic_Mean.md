@@ -139,3 +139,20 @@ UMLS_CUI: C0444504
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arithmetic%20mean) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arithmetic_Mean](/_Standards/Mathematics/Arithmetic/Arithmetic_Mean.md) 
+
+### #is_/same_as :: [Arithmetic_Mean.public](/_public/Mathematics/Arithmetic/Arithmetic_Mean.public.md) 
+
+### #is_/same_as :: [Arithmetic_Mean.internal](/_internal/Mathematics/Arithmetic/Arithmetic_Mean.internal.md) 
+
+### #is_/same_as :: [Arithmetic_Mean.protect](/_protect/Mathematics/Arithmetic/Arithmetic_Mean.protect.md) 
+
+### #is_/same_as :: [Arithmetic_Mean.private](/_private/Mathematics/Arithmetic/Arithmetic_Mean.private.md) 
+
+### #is_/same_as :: [Arithmetic_Mean.personal](/_personal/Mathematics/Arithmetic/Arithmetic_Mean.personal.md) 
+
+### #is_/same_as :: [Arithmetic_Mean.secret](/_secret/Mathematics/Arithmetic/Arithmetic_Mean.secret.md)
+

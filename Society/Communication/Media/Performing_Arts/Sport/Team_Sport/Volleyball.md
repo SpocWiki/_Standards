@@ -63,3 +63,20 @@ OpenStreetMap_tag_or_key: Tag:sport=volleyball
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volleyball) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Volleyball](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.md) 
+
+### #is_/same_as :: [Volleyball.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.public.md) 
+
+### #is_/same_as :: [Volleyball.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.internal.md) 
+
+### #is_/same_as :: [Volleyball.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.protect.md) 
+
+### #is_/same_as :: [Volleyball.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.private.md) 
+
+### #is_/same_as :: [Volleyball.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.personal.md) 
+
+### #is_/same_as :: [Volleyball.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Team_Sport/Volleyball.secret.md)
+

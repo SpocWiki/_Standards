@@ -34,3 +34,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/US-Bajonette%20verschi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bayonet) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bayonet](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.md) 
+
+### #is_/same_as :: [Bayonet.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.public.md) 
+
+### #is_/same_as :: [Bayonet.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.internal.md) 
+
+### #is_/same_as :: [Bayonet.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.protect.md) 
+
+### #is_/same_as :: [Bayonet.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.private.md) 
+
+### #is_/same_as :: [Bayonet.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.personal.md) 
+
+### #is_/same_as :: [Bayonet.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Bayonet.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pecari tajacu"
 ---
 
@@ -72,7 +72,7 @@ Copyright ::                           © 2006 [marissa b.](http://flickr.com/pe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pecari_tajacu](Pecari_tajacu.md)) 
+### #is_/same_as :: [Pecari_tajacu](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.md) 
 
 ### #is_/same_as :: [Pecari_tajacu.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tayassuidae/Pecari_tajacu.public.md) 
 

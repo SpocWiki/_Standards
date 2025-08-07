@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Legum_Doctor,6518699]]'
 aliases:
 - "Adam Smith"

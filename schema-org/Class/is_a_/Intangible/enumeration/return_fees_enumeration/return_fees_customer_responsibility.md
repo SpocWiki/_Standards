@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-fees-customer-responsibility
 - return_fees_customer_responsibility

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - family-name
 - has_name_family

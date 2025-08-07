@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - leave-action
 - leave_action

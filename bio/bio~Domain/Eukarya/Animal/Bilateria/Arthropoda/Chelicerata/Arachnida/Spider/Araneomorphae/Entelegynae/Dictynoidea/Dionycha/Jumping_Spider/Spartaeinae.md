@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spartaeinae
 ---
 
@@ -68,7 +68,7 @@ Division). The group was reviewed by Wanless (1984).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spartaeinae](Spartaeinae.md)) 
+### #is_/same_as :: [Spartaeinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Spartaeinae.md) 
 
 ### #is_/same_as :: [Spartaeinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Spartaeinae.public.md) 
 

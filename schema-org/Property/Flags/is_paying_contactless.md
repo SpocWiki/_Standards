@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contactless-payment
 - paying_contactless

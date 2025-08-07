@@ -61,3 +61,20 @@ short_name: B. mutus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wild%20yak) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wild_Yak](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.md) 
+
+### #is_/same_as :: [Wild_Yak.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.public.md) 
+
+### #is_/same_as :: [Wild_Yak.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.internal.md) 
+
+### #is_/same_as :: [Wild_Yak.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.protect.md) 
+
+### #is_/same_as :: [Wild_Yak.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.private.md) 
+
+### #is_/same_as :: [Wild_Yak.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.personal.md) 
+
+### #is_/same_as :: [Wild_Yak.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Wild_Yak.secret.md)
+

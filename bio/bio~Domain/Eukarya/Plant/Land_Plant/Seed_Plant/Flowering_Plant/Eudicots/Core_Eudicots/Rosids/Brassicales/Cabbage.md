@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Cabbage
 - Kohl
@@ -82,17 +82,17 @@ USDA_NDB_number: 11109
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cabbage](Cabbage.md)) 
+### #is_/same_as :: [Cabbage](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.md) 
 
-### #is_/same_as :: [Cabbage.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.public.md) 
+### #is_/same_as :: [Cabbage.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.public.md) 
 
-### #is_/same_as :: [Cabbage.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.internal.md) 
+### #is_/same_as :: [Cabbage.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.internal.md) 
 
-### #is_/same_as :: [Cabbage.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.protect.md) 
+### #is_/same_as :: [Cabbage.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.protect.md) 
 
-### #is_/same_as :: [Cabbage.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.private.md) 
+### #is_/same_as :: [Cabbage.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.private.md) 
 
-### #is_/same_as :: [Cabbage.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.personal.md) 
+### #is_/same_as :: [Cabbage.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.personal.md) 
 
-### #is_/same_as :: [Cabbage.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.secret.md)
+### #is_/same_as :: [Cabbage.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Cabbage.secret.md)
 

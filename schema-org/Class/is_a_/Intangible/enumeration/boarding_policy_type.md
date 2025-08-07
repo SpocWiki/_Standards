@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - boarding-policy-type
 - boarding_policy_type

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - perform-time
 - perform_time

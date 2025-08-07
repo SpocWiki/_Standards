@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20pig%20smooth.stl"
 aliases:
 - "Domestic pig"
@@ -97,7 +97,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Pigsinapen-usdavideo.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Domestic_Pig](Domestic_Pig.md)) 
+### #is_/same_as :: [Domestic_Pig](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Pig/Domestic_Pig.md) 
 
 ### #is_/same_as :: [Domestic_Pig.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Pig/Domestic_Pig.public.md) 
 

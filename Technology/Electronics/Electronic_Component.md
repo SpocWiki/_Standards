@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Electronic component"
 Commons_category: "Electronic components"

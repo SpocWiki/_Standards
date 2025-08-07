@@ -1,4 +1,4 @@
-﻿---
+---
 title: Centrolenidae
 ---
 
@@ -132,17 +132,17 @@ metacarpal is a well-corroborated synapomorphy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Centrolenidae](Centrolenidae.md)) 
+### #is_/same_as :: [Centrolenidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.md) 
 
-### #is_/same_as :: [Centrolenidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Centrolenidae.public.md) 
+### #is_/same_as :: [Centrolenidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.public.md) 
 
-### #is_/same_as :: [Centrolenidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Centrolenidae.internal.md) 
+### #is_/same_as :: [Centrolenidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.internal.md) 
 
-### #is_/same_as :: [Centrolenidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Centrolenidae.protect.md) 
+### #is_/same_as :: [Centrolenidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.protect.md) 
 
-### #is_/same_as :: [Centrolenidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Centrolenidae.private.md) 
+### #is_/same_as :: [Centrolenidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.private.md) 
 
-### #is_/same_as :: [Centrolenidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Centrolenidae.personal.md) 
+### #is_/same_as :: [Centrolenidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.personal.md) 
 
-### #is_/same_as :: [Centrolenidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Centrolenidae.secret.md)
+### #is_/same_as :: [Centrolenidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Centrolenidae.secret.md)
 

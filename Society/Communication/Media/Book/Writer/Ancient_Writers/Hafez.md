@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Khājeh Shams-od-Dīn Moḥammad Ḥāfeẓ-e Shīrāzī"
 Commons_category: Hafez

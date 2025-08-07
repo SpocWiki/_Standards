@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - booking-time
 - booking_time

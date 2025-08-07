@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis joubini"
 ---
 
@@ -134,7 +134,7 @@ waters. Ann. South African Mus., 50: 61-88.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[joubini](joubini.md)) 
+### #is_/same_as :: [joubini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/joubini.md) 
 
 ### #is_/same_as :: [joubini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/joubini.public.md) 
 

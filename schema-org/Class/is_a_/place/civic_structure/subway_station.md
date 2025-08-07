@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - subway-station
 - subway_station

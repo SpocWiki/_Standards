@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suspend-action
 - suspend_action

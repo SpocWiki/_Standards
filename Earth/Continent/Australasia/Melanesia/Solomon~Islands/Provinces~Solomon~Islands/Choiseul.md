@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Choiseul
 confidential: public

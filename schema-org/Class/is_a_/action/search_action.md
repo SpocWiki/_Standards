@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - search-action
 - search_action

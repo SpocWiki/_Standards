@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 11969991
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/AccordionBellowsSounds.ogg"
 Commons_category: Accordions
@@ -62,5 +62,19 @@ U_S_National_Archives_Identifier: 10646133
 > [Wikipedia](https://en.wikipedia.org/wiki/Accordion) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Accordion](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Accordion.md) 
+
+### #is_/same_as :: [Accordion.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Accordion.public.md) 
+
+### #is_/same_as :: [Accordion.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Accordion.internal.md) 
+
+### #is_/same_as :: [Accordion.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Accordion.protect.md) 
+
+### #is_/same_as :: [Accordion.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Accordion.private.md) 
+
+### #is_/same_as :: [Accordion.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Accordion.personal.md) 
+
+### #is_/same_as :: [Accordion.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Accordion.secret.md)
 

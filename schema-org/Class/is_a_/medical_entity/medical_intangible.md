@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-intangible
 - medical_intangible

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unofficial-legal-value
 - unofficial_legal_value

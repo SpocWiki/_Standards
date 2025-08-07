@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - breastfeeding-warning
 - breastfeeding_warning

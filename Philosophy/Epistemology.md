@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 08.32
 Colon_Classification: R2
 Commons_category: Epistemology

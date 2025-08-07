@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lesser-or-equal
 - lesser_or_equal

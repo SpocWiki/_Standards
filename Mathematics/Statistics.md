@@ -1,4 +1,4 @@
-﻿---
+---
 Classification_of_Instructional_Programs_code:
 - 27.0501
 - 27.05

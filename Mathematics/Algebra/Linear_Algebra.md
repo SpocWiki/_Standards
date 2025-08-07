@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Linear algebra"
 Baidu_Tieba_name: 线性代数

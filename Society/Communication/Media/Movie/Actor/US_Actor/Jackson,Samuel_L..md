@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Samuel L. Jackson"
 - "Samuel Leroy Jackson"
@@ -35,4 +35,21 @@ aliases:
 > He also gained widespread recognition as the Jedi Mace Windu in the Star Wars prequel trilogy (1999–2005), and Nick Fury in 11 Marvel Cinematic Universe films, beginning with Iron Man (2008), as well as in the Disney+ series Secret Invasion (2023) & What If...? (2021–2024) and guest-starring in the ABC series Agents of S.H.I.E.L.D. (2013–2014). Jackson has provided his voice for Lucius Best / Frozone in the Pixar films The Incredibles (2004) and Incredibles 2 (2018). He has also acted in a number of big-budget films, including Die Hard with a Vengeance (1995), A Time to Kill (1996), Unbreakable (2000), Shaft (2000) and its reboot (2019), XXX (2002), Coach Carter (2005), Snakes on a Plane (2006), Kingsman: The Secret Service (2014), Kong: Skull Island (2017), and Glass (2019).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20L.%20Jackson) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jackson,Samuel_L.](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..md) 
+
+### #is_/same_as :: [Jackson,Samuel_L..public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..public.md) 
+
+### #is_/same_as :: [Jackson,Samuel_L..internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..internal.md) 
+
+### #is_/same_as :: [Jackson,Samuel_L..protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..protect.md) 
+
+### #is_/same_as :: [Jackson,Samuel_L..private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..private.md) 
+
+### #is_/same_as :: [Jackson,Samuel_L..personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..personal.md) 
+
+### #is_/same_as :: [Jackson,Samuel_L..secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..secret.md)
 

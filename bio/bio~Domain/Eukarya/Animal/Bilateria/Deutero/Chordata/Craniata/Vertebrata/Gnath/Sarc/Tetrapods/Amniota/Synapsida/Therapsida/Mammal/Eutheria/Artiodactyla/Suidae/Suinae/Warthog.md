@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Phacochoerus
 - warthogs
@@ -79,7 +79,7 @@ Copyright ::            © Chuck Bargeron, The University of Georgia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Warthog](Warthog.md)) 
+### #is_/same_as :: [Warthog](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Warthog.md) 
 
 ### #is_/same_as :: [Warthog.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Warthog.public.md) 
 

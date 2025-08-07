@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fernand Joseph Désiré Contandin"
 has_id_wikidata: Q129092
@@ -23,4 +23,21 @@ has_id_wikidata: Q129092
 > his mother-in-law amusingly referred to him as Fernand d'elle ("Fernand of her").
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fernandel) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fernandel](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.md) 
+
+### #is_/same_as :: [Fernandel.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.public.md) 
+
+### #is_/same_as :: [Fernandel.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.internal.md) 
+
+### #is_/same_as :: [Fernandel.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.protect.md) 
+
+### #is_/same_as :: [Fernandel.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.private.md) 
+
+### #is_/same_as :: [Fernandel.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.personal.md) 
+
+### #is_/same_as :: [Fernandel.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Fernandel.secret.md)
 

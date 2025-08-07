@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - label-details
 - label_details

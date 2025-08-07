@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spirula spirula"
 ---
 
@@ -226,7 +226,7 @@ Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spirulida](Spirulida.md)) 
+### #is_/same_as :: [Spirulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.md) 
 
 ### #is_/same_as :: [Spirulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.public.md) 
 

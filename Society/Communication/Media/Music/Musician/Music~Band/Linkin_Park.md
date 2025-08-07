@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Linkin Park"
 ---
@@ -39,5 +39,19 @@ Most famous Tracks:
 > [Wikipedia](https://en.wikipedia.org/wiki/Linkin%20Park)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Linkin_Park](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.md) 
+
+### #is_/same_as :: [Linkin_Park.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.public.md) 
+
+### #is_/same_as :: [Linkin_Park.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.internal.md) 
+
+### #is_/same_as :: [Linkin_Park.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.protect.md) 
+
+### #is_/same_as :: [Linkin_Park.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.private.md) 
+
+### #is_/same_as :: [Linkin_Park.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.personal.md) 
+
+### #is_/same_as :: [Linkin_Park.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park.secret.md)
 

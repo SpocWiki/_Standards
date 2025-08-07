@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-object
 - video_object

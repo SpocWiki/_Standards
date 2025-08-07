@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - party-size
 - party_size

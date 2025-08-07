@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fast-food-restaurant
 - fast_food_restaurant

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Species
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -100,7 +100,7 @@ U_S_National_Archives_Identifier: 10663903
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bio~Species](bio~Species.md)) 
+### #is_/same_as :: [bio~Species](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.md) 
 
 ### #is_/same_as :: [bio~Species.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species.public.md) 
 

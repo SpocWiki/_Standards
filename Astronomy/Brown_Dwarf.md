@@ -22,9 +22,9 @@ Commons_category: Brown dwarfs
 > Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, 
 > but less than the least massive main-sequence stars.  
 > Their mass is approximately 13 to 80 times that of [[Solar_System/Jupiter|Jupiter]] (MJ)—
-> not big enough to sustain nuclear fusion of [[../chemic/chemic~Elements/Group-01-Alkali/Hydrogen|hydrogen]] into [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Helium|helium]] in their cores, 
-> but massive enough to emit some light and heat from the fusion of [[../chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Deuterium|deuterium]] (2H).  
-> The most massive ones (> 65 MJ) can fuse [[../chemic/chemic~Elements/Group-01-Alkali/Lithium|lithium]] (7Li).
+> not big enough to sustain nuclear fusion of [[../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|hydrogen]] into [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|helium]] in their cores, 
+> but massive enough to emit some light and heat from the fusion of [[../Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|deuterium]] (2H).  
+> The most massive ones (> 65 MJ) can fuse [[../Chemistry/Chemical_Element/Group-01-Alkali/Lithium|lithium]] (7Li).
 >
 > Astronomers classify self-luminous objects by spectral type, 
 > a distinction intimately tied to the surface temperature, and brown dwarfs occupy 
@@ -52,4 +52,21 @@ Commons_category: Brown dwarfs
 > Luhman 16 is the third closest system to the Sun after [[Star/Toliman|Alpha Centauri]] and [[Star/Barnard's_Star|Barnard's Star]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brown%20dwarf) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brown_Dwarf](/_Standards/Astronomy/Brown_Dwarf.md) 
+
+### #is_/same_as :: [Brown_Dwarf.public](/_public/Astronomy/Brown_Dwarf.public.md) 
+
+### #is_/same_as :: [Brown_Dwarf.internal](/_internal/Astronomy/Brown_Dwarf.internal.md) 
+
+### #is_/same_as :: [Brown_Dwarf.protect](/_protect/Astronomy/Brown_Dwarf.protect.md) 
+
+### #is_/same_as :: [Brown_Dwarf.private](/_private/Astronomy/Brown_Dwarf.private.md) 
+
+### #is_/same_as :: [Brown_Dwarf.personal](/_personal/Astronomy/Brown_Dwarf.personal.md) 
+
+### #is_/same_as :: [Brown_Dwarf.secret](/_secret/Astronomy/Brown_Dwarf.secret.md)
 

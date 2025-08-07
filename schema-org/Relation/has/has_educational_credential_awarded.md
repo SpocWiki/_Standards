@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-credential-awarded
 - educational_credential_awarded

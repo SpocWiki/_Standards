@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tech-article
 - tech_article

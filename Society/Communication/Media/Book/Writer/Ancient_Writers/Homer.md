@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hómēros
 attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'

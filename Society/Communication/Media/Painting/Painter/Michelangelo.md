@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michelangelo di Lodovico Buonarroti Simoni"
 ArhivX_LOD: 42542

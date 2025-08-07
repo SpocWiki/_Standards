@@ -216,7 +216,7 @@ Behavior             flying
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bird](Bird.md) 
+### #is_/same_as :: [Bird](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird.md) 
 
 ### #is_/same_as :: [Bird.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird.public.md) 
 

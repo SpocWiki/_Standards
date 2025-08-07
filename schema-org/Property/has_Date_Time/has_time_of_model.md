@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - model-date
 - model_date

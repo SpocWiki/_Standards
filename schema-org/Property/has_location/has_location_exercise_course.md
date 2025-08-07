@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exercise-course
 - exercise_course

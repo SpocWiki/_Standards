@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Thomisidae
 - Thomisida
@@ -245,7 +245,7 @@ title: Thomisidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Crab_Spider](Crab_Spider.md)) 
+### #is_/same_as :: [Crab_Spider](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Crab_Spider.md) 
 
 ### #is_/same_as :: [Crab_Spider.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Crab_Spider.public.md) 
 

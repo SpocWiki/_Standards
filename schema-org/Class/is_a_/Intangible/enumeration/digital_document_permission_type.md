@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - digital-document-permission-type
 - digital_document_permission_type

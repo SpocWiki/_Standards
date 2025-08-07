@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ascaphus truei"
 ---
 
@@ -161,17 +161,17 @@ sister-groups.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ascaphus_truei](Ascaphus_truei.md)) 
+### #is_/same_as :: [Ascaphus_truei](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.md) 
 
-### #is_/same_as :: [Ascaphus_truei.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.public.md) 
+### #is_/same_as :: [Ascaphus_truei.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.public.md) 
 
-### #is_/same_as :: [Ascaphus_truei.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.internal.md) 
+### #is_/same_as :: [Ascaphus_truei.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.internal.md) 
 
-### #is_/same_as :: [Ascaphus_truei.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.protect.md) 
+### #is_/same_as :: [Ascaphus_truei.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.protect.md) 
 
-### #is_/same_as :: [Ascaphus_truei.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.private.md) 
+### #is_/same_as :: [Ascaphus_truei.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.private.md) 
 
-### #is_/same_as :: [Ascaphus_truei.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.personal.md) 
+### #is_/same_as :: [Ascaphus_truei.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.personal.md) 
 
-### #is_/same_as :: [Ascaphus_truei.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.secret.md)
+### #is_/same_as :: [Ascaphus_truei.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Ascaphus_truei.secret.md)
 

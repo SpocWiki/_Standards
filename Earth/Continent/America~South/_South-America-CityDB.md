@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20deer%20mesh%20smooth.stl"
 aliases:
 - Cervidae
@@ -74,7 +74,7 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Hirv%20Uppsala%20%C3%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Deer](Deer.md)) 
+### #is_/same_as :: [Deer](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer.md) 
 
 ### #is_/same_as :: [Deer.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Deer.public.md) 
 

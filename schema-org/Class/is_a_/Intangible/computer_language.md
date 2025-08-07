@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - computer-language
 - computer_language

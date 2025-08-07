@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-unspecified
 - merchant_return_unspecified

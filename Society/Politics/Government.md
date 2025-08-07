@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "W:3"
 Commons_category: Government
 described_by_source:
@@ -80,17 +80,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_government,25113003]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Government](Government.md)) 
+### #is_/same_as :: [Government](/_Standards/Society/Politics/Government.md) 
 
-### #is_/same_as :: [Government.public](/_public/Society/Government.public.md) 
+### #is_/same_as :: [Government.public](/_public/Society/Politics/Government.public.md) 
 
-### #is_/same_as :: [Government.internal](/_internal/Society/Government.internal.md) 
+### #is_/same_as :: [Government.internal](/_internal/Society/Politics/Government.internal.md) 
 
-### #is_/same_as :: [Government.protect](/_protect/Society/Government.protect.md) 
+### #is_/same_as :: [Government.protect](/_protect/Society/Politics/Government.protect.md) 
 
-### #is_/same_as :: [Government.private](/_private/Society/Government.private.md) 
+### #is_/same_as :: [Government.private](/_private/Society/Politics/Government.private.md) 
 
-### #is_/same_as :: [Government.personal](/_personal/Society/Government.personal.md) 
+### #is_/same_as :: [Government.personal](/_personal/Society/Politics/Government.personal.md) 
 
-### #is_/same_as :: [Government.secret](/_secret/Society/Government.secret.md)
+### #is_/same_as :: [Government.secret](/_secret/Society/Politics/Government.secret.md)
 

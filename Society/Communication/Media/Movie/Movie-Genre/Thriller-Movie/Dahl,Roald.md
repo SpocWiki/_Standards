@@ -39,6 +39,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Roald%20Dahl)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Dahl,Roald](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.md) 
 
+### #is_/same_as :: [Dahl,Roald.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.public.md) 
+
+### #is_/same_as :: [Dahl,Roald.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.internal.md) 
+
+### #is_/same_as :: [Dahl,Roald.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.protect.md) 
+
+### #is_/same_as :: [Dahl,Roald.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.private.md) 
+
+### #is_/same_as :: [Dahl,Roald.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.personal.md) 
+
+### #is_/same_as :: [Dahl,Roald.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.secret.md)
 

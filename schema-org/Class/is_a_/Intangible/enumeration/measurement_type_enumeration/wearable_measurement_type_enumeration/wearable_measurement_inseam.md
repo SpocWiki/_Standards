@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-inseam
 - wearable_measurement_inseam

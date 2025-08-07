@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hemitragus
 ---
 
@@ -86,7 +86,7 @@ Evolution 36:154--168.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hemitragus](Hemitragus.md)) 
+### #is_/same_as :: [Hemitragus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Hemitragus.md) 
 
 ### #is_/same_as :: [Hemitragus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Hemitragus.public.md) 
 

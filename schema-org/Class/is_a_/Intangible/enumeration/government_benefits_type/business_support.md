@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - business-support
 - business_support

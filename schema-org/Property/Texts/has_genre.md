@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - genre
 - genre

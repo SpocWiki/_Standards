@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synemosyninae
 ---
 
@@ -85,7 +85,7 @@ Tentatively included are Myrmarachne and Bocus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Synemosyninae](Synemosyninae.md)) 
+### #is_/same_as :: [Synemosyninae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Synemosyninae.md) 
 
 ### #is_/same_as :: [Synemosyninae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Synemosyninae.public.md) 
 

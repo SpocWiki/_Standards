@@ -1,4 +1,4 @@
-﻿---
+---
 title: Endocoelantheae
 ---
 
@@ -55,7 +55,7 @@ volume 1, number 1.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Endocoelantheae](Endocoelantheae.md)) 
+### #is_/same_as :: [Endocoelantheae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.md) 
 
 ### #is_/same_as :: [Endocoelantheae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 award_received:
 - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
 - '[[_Standards/WikiData/WD~Order_of_the_Garter,215248]]'

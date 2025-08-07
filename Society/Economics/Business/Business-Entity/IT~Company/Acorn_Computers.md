@@ -37,7 +37,19 @@ and by 1984 were overtaken by 16 Bit Computers and taken over by [[Olivetti]].
 Acorn was named after [[../../../../../../IT/HardWare/HW~Companies/Apple_Inc]] so it comes before them in a Phone Book. 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Acorn_Computers](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.md) 
 
+### #is_/same_as :: [Acorn_Computers.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.public.md) 
 
+### #is_/same_as :: [Acorn_Computers.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.internal.md) 
+
+### #is_/same_as :: [Acorn_Computers.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.protect.md) 
+
+### #is_/same_as :: [Acorn_Computers.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.private.md) 
+
+### #is_/same_as :: [Acorn_Computers.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.personal.md) 
+
+### #is_/same_as :: [Acorn_Computers.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers.secret.md)
 

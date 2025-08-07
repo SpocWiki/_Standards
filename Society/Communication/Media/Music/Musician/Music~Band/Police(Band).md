@@ -63,3 +63,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Police)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Police(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).md) 
+
+### #is_/same_as :: [Police(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).public.md) 
+
+### #is_/same_as :: [Police(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).internal.md) 
+
+### #is_/same_as :: [Police(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).protect.md) 
+
+### #is_/same_as :: [Police(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).private.md) 
+
+### #is_/same_as :: [Police(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).personal.md) 
+
+### #is_/same_as :: [Police(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - low-salt-diet
 - low_salt_diet

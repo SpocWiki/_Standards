@@ -63,3 +63,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacon) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bacon](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.md) 
+
+### #is_/same_as :: [Bacon.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.public.md) 
+
+### #is_/same_as :: [Bacon.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.internal.md) 
+
+### #is_/same_as :: [Bacon.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.protect.md) 
+
+### #is_/same_as :: [Bacon.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.private.md) 
+
+### #is_/same_as :: [Bacon.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.personal.md) 
+
+### #is_/same_as :: [Bacon.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Bacon.secret.md)
+

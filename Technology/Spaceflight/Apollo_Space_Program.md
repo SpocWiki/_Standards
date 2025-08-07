@@ -68,3 +68,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apollo%20program)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apollo_Space_Program](/_Standards/Technology/Spaceflight/Apollo_Space_Program.md) 
+
+### #is_/same_as :: [Apollo_Space_Program.public](/_public/Technology/Spaceflight/Apollo_Space_Program.public.md) 
+
+### #is_/same_as :: [Apollo_Space_Program.internal](/_internal/Technology/Spaceflight/Apollo_Space_Program.internal.md) 
+
+### #is_/same_as :: [Apollo_Space_Program.protect](/_protect/Technology/Spaceflight/Apollo_Space_Program.protect.md) 
+
+### #is_/same_as :: [Apollo_Space_Program.private](/_private/Technology/Spaceflight/Apollo_Space_Program.private.md) 
+
+### #is_/same_as :: [Apollo_Space_Program.personal](/_personal/Technology/Spaceflight/Apollo_Space_Program.personal.md) 
+
+### #is_/same_as :: [Apollo_Space_Program.secret](/_secret/Technology/Spaceflight/Apollo_Space_Program.secret.md)
+

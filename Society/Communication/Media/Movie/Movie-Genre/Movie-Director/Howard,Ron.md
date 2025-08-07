@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ron Howard"
 - "Ronald William Howard"
@@ -45,4 +45,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ron%20Howard)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Howard,Ron](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.md) 
+
+### #is_/same_as :: [Howard,Ron.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.public.md) 
+
+### #is_/same_as :: [Howard,Ron.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.internal.md) 
+
+### #is_/same_as :: [Howard,Ron.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.protect.md) 
+
+### #is_/same_as :: [Howard,Ron.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.private.md) 
+
+### #is_/same_as :: [Howard,Ron.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.personal.md) 
+
+### #is_/same_as :: [Howard,Ron.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Howard,Ron.secret.md)
 

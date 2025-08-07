@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pine Tree"
 - Pinus
@@ -97,17 +97,17 @@ Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/listo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pinus](Pinus.md)) 
+### #is_/same_as :: [Pinus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.md) 
 
-### #is_/same_as :: [Pinus.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.public.md) 
+### #is_/same_as :: [Pinus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.public.md) 
 
-### #is_/same_as :: [Pinus.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.internal.md) 
+### #is_/same_as :: [Pinus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.internal.md) 
 
-### #is_/same_as :: [Pinus.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.protect.md) 
+### #is_/same_as :: [Pinus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.protect.md) 
 
-### #is_/same_as :: [Pinus.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.private.md) 
+### #is_/same_as :: [Pinus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.private.md) 
 
-### #is_/same_as :: [Pinus.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.personal.md) 
+### #is_/same_as :: [Pinus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.personal.md) 
 
-### #is_/same_as :: [Pinus.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.secret.md)
+### #is_/same_as :: [Pinus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.secret.md)
 

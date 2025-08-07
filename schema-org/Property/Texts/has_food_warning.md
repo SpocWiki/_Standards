@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - food-warning
 - food_warning

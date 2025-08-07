@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - public-transport-closures-info
 - public_transport_closures_info

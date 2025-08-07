@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-digital-document-permission
 - digital_document_permission

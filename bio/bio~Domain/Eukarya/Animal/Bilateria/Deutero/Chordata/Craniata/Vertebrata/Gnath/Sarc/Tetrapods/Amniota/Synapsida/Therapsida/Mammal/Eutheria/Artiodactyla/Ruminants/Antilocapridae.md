@@ -1,4 +1,4 @@
-﻿---
+---
 title: Antilocapridae
 ---
 
@@ -106,7 +106,7 @@ Sex ::                Male
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Antilocapridae](Antilocapridae.md)) 
+### #is_/same_as :: [Antilocapridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Antilocapridae.md) 
 
 ### #is_/same_as :: [Antilocapridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Antilocapridae.public.md) 
 

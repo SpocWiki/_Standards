@@ -39,3 +39,20 @@ has_id_wikidata: Q748
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buddhism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Buddhism.md) 
+
+### #is_/same_as :: [Buddhism.public](/_public/Philosophy/Metaphysic/Religion/Buddhism.public.md) 
+
+### #is_/same_as :: [Buddhism.internal](/_internal/Philosophy/Metaphysic/Religion/Buddhism.internal.md) 
+
+### #is_/same_as :: [Buddhism.protect](/_protect/Philosophy/Metaphysic/Religion/Buddhism.protect.md) 
+
+### #is_/same_as :: [Buddhism.private](/_private/Philosophy/Metaphysic/Religion/Buddhism.private.md) 
+
+### #is_/same_as :: [Buddhism.personal](/_personal/Philosophy/Metaphysic/Religion/Buddhism.personal.md) 
+
+### #is_/same_as :: [Buddhism.secret](/_secret/Philosophy/Metaphysic/Religion/Buddhism.secret.md)
+

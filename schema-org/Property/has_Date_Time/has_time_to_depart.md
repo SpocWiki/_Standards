@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - departure-time
 - departure_time

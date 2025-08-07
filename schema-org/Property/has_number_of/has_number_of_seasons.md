@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number-of-seasons
 - number_of_seasons

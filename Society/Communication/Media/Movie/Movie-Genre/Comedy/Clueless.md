@@ -27,3 +27,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Clueless) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clueless](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.md) 
+
+### #is_/same_as :: [Clueless.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.public.md) 
+
+### #is_/same_as :: [Clueless.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.internal.md) 
+
+### #is_/same_as :: [Clueless.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.protect.md) 
+
+### #is_/same_as :: [Clueless.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.private.md) 
+
+### #is_/same_as :: [Clueless.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.personal.md) 
+
+### #is_/same_as :: [Clueless.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Clueless.secret.md)
+

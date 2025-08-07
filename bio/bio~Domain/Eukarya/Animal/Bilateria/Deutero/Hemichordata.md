@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hemichordata
 ---
 
@@ -58,7 +58,7 @@ Photograph by David Remsen, copyright © 1995,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hemichordata](Hemichordata.md)) 
+### #is_/same_as :: [Hemichordata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.md) 
 
 ### #is_/same_as :: [Hemichordata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.public.md) 
 

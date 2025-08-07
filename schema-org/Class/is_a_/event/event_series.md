@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-series
 - event_series

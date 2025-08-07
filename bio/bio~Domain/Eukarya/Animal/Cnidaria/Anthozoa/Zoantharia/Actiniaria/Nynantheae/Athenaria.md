@@ -1,4 +1,4 @@
-﻿---
+---
 title: Athenaria
 ---
 
@@ -95,7 +95,7 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Athenaria](Athenaria.md)) 
+### #is_/same_as :: [Athenaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.md) 
 
 ### #is_/same_as :: [Athenaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria.public.md) 
 

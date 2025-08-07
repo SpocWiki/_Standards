@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loricifera
 ---
 
@@ -69,7 +69,7 @@ Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Loricifera](Loricifera.md)) 
+### #is_/same_as :: [Loricifera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.md) 
 
 ### #is_/same_as :: [Loricifera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.public.md) 
 

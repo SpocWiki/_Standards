@@ -1,4 +1,4 @@
-﻿---
+---
 title: Uloboridae
 ---
 
@@ -55,7 +55,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Uloboridae](Uloboridae.md)) 
+### #is_/same_as :: [Uloboridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Uloboridae.md) 
 
 ### #is_/same_as :: [Uloboridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Uloboridae.public.md) 
 

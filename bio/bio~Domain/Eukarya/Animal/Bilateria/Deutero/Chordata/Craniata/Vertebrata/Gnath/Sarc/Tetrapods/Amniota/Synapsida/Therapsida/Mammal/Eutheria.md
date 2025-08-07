@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Placental Mammals"
 - Eutheria
@@ -617,7 +617,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eutheria](Eutheria.md)) 
+### #is_/same_as :: [Eutheria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.md) 
 
 ### #is_/same_as :: [Eutheria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria.public.md) 
 

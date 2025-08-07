@@ -52,7 +52,19 @@ The Fan-Base names itself the Echelon.
 > [Wikipedia](https://en.wikipedia.org/wiki/Jared%20Leto)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Leto,Jared](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.md) 
 
+### #is_/same_as :: [Leto,Jared.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.public.md) 
 
+### #is_/same_as :: [Leto,Jared.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.internal.md) 
+
+### #is_/same_as :: [Leto,Jared.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.protect.md) 
+
+### #is_/same_as :: [Leto,Jared.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.private.md) 
+
+### #is_/same_as :: [Leto,Jared.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.personal.md) 
+
+### #is_/same_as :: [Leto,Jared.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.secret.md)
 

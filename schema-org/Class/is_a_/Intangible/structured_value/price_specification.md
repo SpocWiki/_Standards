@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-specification
 - price_specification

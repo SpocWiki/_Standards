@@ -1,4 +1,4 @@
-﻿---
+---
 title: Callipodida
 ---
 
@@ -51,7 +51,7 @@ title: Callipodida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Callipodida](Callipodida.md)) 
+### #is_/same_as :: [Callipodida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.md) 
 
 ### #is_/same_as :: [Callipodida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.public.md) 
 

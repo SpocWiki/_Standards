@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - course-mode
 - course_mode

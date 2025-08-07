@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Animal Farm"
 ---
@@ -58,6 +58,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Animal%20Farm)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Animal_Farm](/_Standards/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.md) 
 
+### #is_/same_as :: [Animal_Farm.public](/_public/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.public.md) 
+
+### #is_/same_as :: [Animal_Farm.internal](/_internal/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.internal.md) 
+
+### #is_/same_as :: [Animal_Farm.protect](/_protect/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.protect.md) 
+
+### #is_/same_as :: [Animal_Farm.private](/_private/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.private.md) 
+
+### #is_/same_as :: [Animal_Farm.personal](/_personal/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.personal.md) 
+
+### #is_/same_as :: [Animal_Farm.secret](/_secret/Society/Communication/Media/Book/Author/Orwell,George/Animal_Farm.secret.md)
 

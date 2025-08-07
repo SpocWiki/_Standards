@@ -1,4 +1,4 @@
-﻿---
+---
 approximation_algorithm:
 - '[[_Standards/WikiData/WD~Bailey_Borwein_Plouffe_formula,803807]]'
 - '[[_Standards/WikiData/WD~Wallis_product,1501324]]'

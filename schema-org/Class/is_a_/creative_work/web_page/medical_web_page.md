@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-web-page
 - medical_web_page

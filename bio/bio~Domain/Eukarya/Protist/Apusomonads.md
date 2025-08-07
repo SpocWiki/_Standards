@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apusomonads
 ---
 
@@ -112,7 +112,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Apusomonads](Apusomonads.md)) 
+### #is_/same_as :: [Apusomonads](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads.md) 
 
 ### #is_/same_as :: [Apusomonads.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Susan Sarandon"
 - "Susan Abigail Sarandon"
@@ -48,6 +48,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Susan%20Sarandon)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Sarandon,Susan](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.md) 
 
+### #is_/same_as :: [Sarandon,Susan.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.public.md) 
+
+### #is_/same_as :: [Sarandon,Susan.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.internal.md) 
+
+### #is_/same_as :: [Sarandon,Susan.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.protect.md) 
+
+### #is_/same_as :: [Sarandon,Susan.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.private.md) 
+
+### #is_/same_as :: [Sarandon,Susan.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.personal.md) 
+
+### #is_/same_as :: [Sarandon,Susan.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Sarandon,Susan.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - safety-health-aspect
 - safety_health_aspect

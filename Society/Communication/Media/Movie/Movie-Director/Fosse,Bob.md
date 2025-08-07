@@ -44,3 +44,20 @@ has_id_wikidata: Q313256
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bob%20Fosse) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fosse,Bob](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.md) 
+
+### #is_/same_as :: [Fosse,Bob.public](/_public/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.public.md) 
+
+### #is_/same_as :: [Fosse,Bob.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.internal.md) 
+
+### #is_/same_as :: [Fosse,Bob.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.protect.md) 
+
+### #is_/same_as :: [Fosse,Bob.private](/_private/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.private.md) 
+
+### #is_/same_as :: [Fosse,Bob.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.personal.md) 
+
+### #is_/same_as :: [Fosse,Bob.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.secret.md)
+

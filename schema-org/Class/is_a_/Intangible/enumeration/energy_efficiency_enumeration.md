@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - energy-efficiency-enumeration
 - energy_efficiency_enumeration

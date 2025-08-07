@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: a39ba9e4-d11b-4ff3-ba41-de6b9525c46a
 Commons_category: Mesopotamia
 coordinate_location: "Point(43.5 33.7)"

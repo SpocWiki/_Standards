@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - anatomical-system
 - anatomical_system

@@ -37,3 +37,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/For%20Your%20Eyes%20Only%20(film))
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.md) 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.public.md) 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.internal.md) 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.protect.md) 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.private.md) 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.personal.md) 
+
+### #is_/same_as :: [For_Your_Eyes_Only,1981.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/For_Your_Eyes_Only,1981.secret.md)
+

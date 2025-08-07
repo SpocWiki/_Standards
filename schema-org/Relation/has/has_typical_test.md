@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - typical-test
 - typical_test

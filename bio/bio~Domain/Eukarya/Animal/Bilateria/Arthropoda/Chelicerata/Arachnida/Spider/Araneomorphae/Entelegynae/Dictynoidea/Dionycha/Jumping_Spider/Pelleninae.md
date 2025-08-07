@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pelleninae
 ---
 
@@ -65,7 +65,7 @@ and diverse ornaments and behaviors used in courtship by males.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pelleninae](Pelleninae.md)) 
+### #is_/same_as :: [Pelleninae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Pelleninae.md) 
 
 ### #is_/same_as :: [Pelleninae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Pelleninae.public.md) 
 

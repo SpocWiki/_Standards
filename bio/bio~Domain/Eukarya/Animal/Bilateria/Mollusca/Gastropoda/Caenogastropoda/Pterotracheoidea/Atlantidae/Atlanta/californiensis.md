@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Atlanta californiensis"
 ---
 
@@ -201,7 +201,7 @@ Current. *Veliger* **36**: 389-398.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[californiensis](californiensis.md)) 
+### #is_/same_as :: [californiensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.md) 
 
 ### #is_/same_as :: [californiensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "rdfs:subPropertyOf"
 - "owl:subPropertyOf"

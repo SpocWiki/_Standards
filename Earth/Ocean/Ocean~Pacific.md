@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pacific Ocean"
 area: 161760000

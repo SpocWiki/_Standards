@@ -1,4 +1,4 @@
-﻿---
+---
 Classification_of_Instructional_Programs_code: 27.0104
 Colon_Classification: B6
 Commons_category: Geometry

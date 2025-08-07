@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Holy Roman Empire"
 - "Holy Roman Empire of the German Nation"

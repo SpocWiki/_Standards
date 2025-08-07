@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - current-exchange-rate
 - current_exchange_rate

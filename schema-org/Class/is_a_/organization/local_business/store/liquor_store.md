@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - liquor-store
 - liquor_store

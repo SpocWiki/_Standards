@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-tip
 - game_tip

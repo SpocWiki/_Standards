@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q471145
 ---
 
@@ -30,4 +30,21 @@ has_id_wikidata: Q471145
 > Surface forces are likely to respond to enemy air activity with anti-aircraft warfare.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aerial%20warfare) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aerial_warfare](/_Standards/Society/Military/War/Aerial_warfare.md) 
+
+### #is_/same_as :: [Aerial_warfare.public](/_public/Society/Military/War/Aerial_warfare.public.md) 
+
+### #is_/same_as :: [Aerial_warfare.internal](/_internal/Society/Military/War/Aerial_warfare.internal.md) 
+
+### #is_/same_as :: [Aerial_warfare.protect](/_protect/Society/Military/War/Aerial_warfare.protect.md) 
+
+### #is_/same_as :: [Aerial_warfare.private](/_private/Society/Military/War/Aerial_warfare.private.md) 
+
+### #is_/same_as :: [Aerial_warfare.personal](/_personal/Society/Military/War/Aerial_warfare.personal.md) 
+
+### #is_/same_as :: [Aerial_warfare.secret](/_secret/Society/Military/War/Aerial_warfare.secret.md)
 

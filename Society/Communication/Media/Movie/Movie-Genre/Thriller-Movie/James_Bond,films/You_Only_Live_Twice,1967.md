@@ -37,5 +37,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/You%20Only%20Live%20Twice%20(film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [You_Only_Live_Twice,1967](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.md) 
+
+### #is_/same_as :: [You_Only_Live_Twice,1967.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.public.md) 
+
+### #is_/same_as :: [You_Only_Live_Twice,1967.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.internal.md) 
+
+### #is_/same_as :: [You_Only_Live_Twice,1967.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.protect.md) 
+
+### #is_/same_as :: [You_Only_Live_Twice,1967.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.private.md) 
+
+### #is_/same_as :: [You_Only_Live_Twice,1967.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.personal.md) 
+
+### #is_/same_as :: [You_Only_Live_Twice,1967.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/You_Only_Live_Twice,1967.secret.md)
 

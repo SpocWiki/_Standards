@@ -30,3 +30,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arthur%20Miller) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Miller,Arthur](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.md) 
+
+### #is_/same_as :: [Miller,Arthur.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.public.md) 
+
+### #is_/same_as :: [Miller,Arthur.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.internal.md) 
+
+### #is_/same_as :: [Miller,Arthur.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.protect.md) 
+
+### #is_/same_as :: [Miller,Arthur.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.private.md) 
+
+### #is_/same_as :: [Miller,Arthur.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.personal.md) 
+
+### #is_/same_as :: [Miller,Arthur.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Miller,Arthur.secret.md)
+

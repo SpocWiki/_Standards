@@ -42,3 +42,20 @@ Commons_category: Bathrooms
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bathroom) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bathroom](/_Standards/Technology/Construction/Building/House/Apartment/Bathroom.md) 
+
+### #is_/same_as :: [Bathroom.public](/_public/Technology/Construction/Building/House/Apartment/Bathroom.public.md) 
+
+### #is_/same_as :: [Bathroom.internal](/_internal/Technology/Construction/Building/House/Apartment/Bathroom.internal.md) 
+
+### #is_/same_as :: [Bathroom.protect](/_protect/Technology/Construction/Building/House/Apartment/Bathroom.protect.md) 
+
+### #is_/same_as :: [Bathroom.private](/_private/Technology/Construction/Building/House/Apartment/Bathroom.private.md) 
+
+### #is_/same_as :: [Bathroom.personal](/_personal/Technology/Construction/Building/House/Apartment/Bathroom.personal.md) 
+
+### #is_/same_as :: [Bathroom.secret](/_secret/Technology/Construction/Building/House/Apartment/Bathroom.secret.md)
+

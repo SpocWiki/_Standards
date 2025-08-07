@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - credential-category
 - credential_category

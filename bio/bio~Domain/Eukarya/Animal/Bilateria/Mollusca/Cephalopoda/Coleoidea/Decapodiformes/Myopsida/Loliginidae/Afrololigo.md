@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Afrololigo mercatoris"
 ---
 
@@ -113,7 +113,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Afrololigo](Afrololigo.md)) 
+### #is_/same_as :: [Afrololigo](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.md) 
 
 ### #is_/same_as :: [Afrololigo.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.public.md) 
 

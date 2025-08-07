@@ -169,3 +169,20 @@ ISNI: "0000000114419441"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buckminster%20Fuller) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fuller,Buckminster](/_Standards/Technology/Construction/Architecture/Architect/Fuller,Buckminster.md) 
+
+### #is_/same_as :: [Fuller,Buckminster.public](/_public/Technology/Construction/Architecture/Architect/Fuller,Buckminster.public.md) 
+
+### #is_/same_as :: [Fuller,Buckminster.internal](/_internal/Technology/Construction/Architecture/Architect/Fuller,Buckminster.internal.md) 
+
+### #is_/same_as :: [Fuller,Buckminster.protect](/_protect/Technology/Construction/Architecture/Architect/Fuller,Buckminster.protect.md) 
+
+### #is_/same_as :: [Fuller,Buckminster.private](/_private/Technology/Construction/Architecture/Architect/Fuller,Buckminster.private.md) 
+
+### #is_/same_as :: [Fuller,Buckminster.personal](/_personal/Technology/Construction/Architecture/Architect/Fuller,Buckminster.personal.md) 
+
+### #is_/same_as :: [Fuller,Buckminster.secret](/_secret/Technology/Construction/Architecture/Architect/Fuller,Buckminster.secret.md)
+

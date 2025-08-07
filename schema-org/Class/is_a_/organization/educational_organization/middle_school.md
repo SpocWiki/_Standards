@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - middle-school
 - middle_school

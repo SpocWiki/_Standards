@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value-reference
 - value_reference

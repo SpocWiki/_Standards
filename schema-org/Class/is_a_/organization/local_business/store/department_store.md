@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - department-store
 - department_store

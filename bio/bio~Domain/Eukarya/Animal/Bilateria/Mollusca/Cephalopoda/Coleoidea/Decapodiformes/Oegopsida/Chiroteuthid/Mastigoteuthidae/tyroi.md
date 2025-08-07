@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis tyroi"
 ---
 
@@ -136,7 +136,7 @@ Beaufortia, 47: 91-108.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[tyroi](tyroi.md)) 
+### #is_/same_as :: [tyroi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/tyroi.md) 
 
 ### #is_/same_as :: [tyroi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/tyroi.public.md) 
 

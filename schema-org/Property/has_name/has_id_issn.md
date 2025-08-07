@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - id_issn
 - has_id_issn

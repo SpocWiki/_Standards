@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ceratophyllaceae
 - coontail
@@ -59,17 +59,17 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ceratophyllaceae](Ceratophyllaceae.md)) 
+### #is_/same_as :: [Ceratophyllaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.md) 
 
-### #is_/same_as :: [Ceratophyllaceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.public.md) 
+### #is_/same_as :: [Ceratophyllaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.public.md) 
 
-### #is_/same_as :: [Ceratophyllaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.internal.md) 
+### #is_/same_as :: [Ceratophyllaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.internal.md) 
 
-### #is_/same_as :: [Ceratophyllaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.protect.md) 
+### #is_/same_as :: [Ceratophyllaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.protect.md) 
 
-### #is_/same_as :: [Ceratophyllaceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.private.md) 
+### #is_/same_as :: [Ceratophyllaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.private.md) 
 
-### #is_/same_as :: [Ceratophyllaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.personal.md) 
+### #is_/same_as :: [Ceratophyllaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.personal.md) 
 
-### #is_/same_as :: [Ceratophyllaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.secret.md)
+### #is_/same_as :: [Ceratophyllaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.secret.md)
 

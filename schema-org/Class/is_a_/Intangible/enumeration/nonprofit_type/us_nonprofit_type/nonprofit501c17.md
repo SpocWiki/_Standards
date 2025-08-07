@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c17
 - nonprofit501c17

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Brachioteuthidae
 ---
 
@@ -132,7 +132,7 @@ Vie Milieu, 35: 203-209.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Brachioteuthidae](Brachioteuthidae.md)) 
+### #is_/same_as :: [Brachioteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Brachioteuthidae.md) 
 
 ### #is_/same_as :: [Brachioteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Brachioteuthidae.public.md) 
 

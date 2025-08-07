@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~T-lymphocytes,193529]]'
 Commons_category: AIDS
 Commons_gallery: AIDS

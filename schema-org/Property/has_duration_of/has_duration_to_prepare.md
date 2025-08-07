@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prep-time
 - prep_time

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Pandemics
 described_by_source:
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'

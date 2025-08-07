@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q165115
 ---
 
@@ -59,7 +59,7 @@ For more information, you can refer to reliable sources such as:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Equidae](Equidae.md)) 
+### #is_/same_as :: [Equidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae.md) 
 
 ### #is_/same_as :: [Equidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae.public.md) 
 

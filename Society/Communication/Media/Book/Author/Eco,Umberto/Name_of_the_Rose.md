@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Name of the Rose"
 ---
@@ -25,4 +25,19 @@ William of Baskerville refers the the [[Hound of Baskerville]] by Arthur Conan D
 Adson is an abbreviated form of Watson 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Name_of_the_Rose](/_Standards/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.md) 
+
+### #is_/same_as :: [Name_of_the_Rose.public](/_public/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.public.md) 
+
+### #is_/same_as :: [Name_of_the_Rose.internal](/_internal/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.internal.md) 
+
+### #is_/same_as :: [Name_of_the_Rose.protect](/_protect/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.protect.md) 
+
+### #is_/same_as :: [Name_of_the_Rose.private](/_private/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.private.md) 
+
+### #is_/same_as :: [Name_of_the_Rose.personal](/_personal/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.personal.md) 
+
+### #is_/same_as :: [Name_of_the_Rose.secret](/_secret/Society/Communication/Media/Book/Author/Eco,Umberto/Name_of_the_Rose.secret.md)
 

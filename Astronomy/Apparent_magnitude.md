@@ -65,3 +65,20 @@ IEV_number: 845-21-097
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apparent%20magnitude) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apparent_magnitude](/_Standards/Astronomy/Apparent_magnitude.md) 
+
+### #is_/same_as :: [Apparent_magnitude.public](/_public/Astronomy/Apparent_magnitude.public.md) 
+
+### #is_/same_as :: [Apparent_magnitude.internal](/_internal/Astronomy/Apparent_magnitude.internal.md) 
+
+### #is_/same_as :: [Apparent_magnitude.protect](/_protect/Astronomy/Apparent_magnitude.protect.md) 
+
+### #is_/same_as :: [Apparent_magnitude.private](/_private/Astronomy/Apparent_magnitude.private.md) 
+
+### #is_/same_as :: [Apparent_magnitude.personal](/_personal/Astronomy/Apparent_magnitude.personal.md) 
+
+### #is_/same_as :: [Apparent_magnitude.secret](/_secret/Astronomy/Apparent_magnitude.secret.md)
+

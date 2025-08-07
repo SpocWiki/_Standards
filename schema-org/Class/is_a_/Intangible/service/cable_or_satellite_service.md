@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cable-or-satellite-service
 - cable_or_satellite_service

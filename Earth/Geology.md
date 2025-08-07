@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 1907
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Geologia.mp3"
 BHCL_UUID: d30c8709-09cb-4ac6-89d0-b06643d1beda

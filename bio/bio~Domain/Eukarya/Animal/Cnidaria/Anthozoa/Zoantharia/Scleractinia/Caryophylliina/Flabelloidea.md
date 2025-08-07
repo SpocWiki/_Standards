@@ -1,4 +1,4 @@
-﻿---
+---
 title: Flabelloidea
 ---
 
@@ -120,7 +120,7 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Flabelloidea](Flabelloidea.md)) 
+### #is_/same_as :: [Flabelloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.md) 
 
 ### #is_/same_as :: [Flabelloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.public.md) 
 

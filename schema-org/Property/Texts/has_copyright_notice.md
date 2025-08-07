@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - copyright-notice
 - copyright_notice

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sicariidae
 ---
 
@@ -70,7 +70,7 @@ Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPag
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sicariidae](Sicariidae.md)) 
+### #is_/same_as :: [Sicariidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.md) 
 
 ### #is_/same_as :: [Sicariidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae/Sicariidae.public.md) 
 

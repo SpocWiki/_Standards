@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tourist-type
 - tourist_type

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wp-header
 - wp_header

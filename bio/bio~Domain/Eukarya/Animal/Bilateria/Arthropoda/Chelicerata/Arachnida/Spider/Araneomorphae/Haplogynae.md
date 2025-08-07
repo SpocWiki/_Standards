@@ -1,4 +1,4 @@
-﻿---
+---
 title: Haplogynae
 ---
 
@@ -64,7 +64,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Haplogynae](Haplogynae.md)) 
+### #is_/same_as :: [Haplogynae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae.md) 
 
 ### #is_/same_as :: [Haplogynae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Haplogynae.public.md) 
 

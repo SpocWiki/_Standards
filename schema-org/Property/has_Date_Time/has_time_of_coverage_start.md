@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - coverage-start-time
 - coverage_start_time

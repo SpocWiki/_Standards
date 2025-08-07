@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-condition
 - item_condition

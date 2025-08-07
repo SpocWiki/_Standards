@@ -1,4 +1,4 @@
-﻿---
+---
 title: Endomyaria
 ---
 
@@ -85,7 +85,7 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Endomyaria](Endomyaria.md)) 
+### #is_/same_as :: [Endomyaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.md) 
 
 ### #is_/same_as :: [Endomyaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Endomyaria.public.md) 
 

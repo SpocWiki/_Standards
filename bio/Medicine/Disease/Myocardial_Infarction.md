@@ -1,4 +1,4 @@
-﻿---
+---
 afflicts: '[[_Standards/WikiData/WD~coronary_artery,18361829]]'
 Commons_category: "Myocardial infarction"
 DiseasesDB: 8664

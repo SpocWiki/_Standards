@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - non-proprietary-name
 - name_non_proprietary

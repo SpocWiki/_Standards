@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-store-returns-offered
 - in_store_return_offered

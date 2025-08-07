@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thomas Stearns Eliot"
 - "T. S. Eliot"

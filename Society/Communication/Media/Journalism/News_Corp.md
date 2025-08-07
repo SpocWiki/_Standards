@@ -22,3 +22,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/News%20Corp) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [News_Corp](/_Standards/Society/Communication/Media/Journalism/News_Corp.md) 
+
+### #is_/same_as :: [News_Corp.public](/_public/Society/Communication/Media/Journalism/News_Corp.public.md) 
+
+### #is_/same_as :: [News_Corp.internal](/_internal/Society/Communication/Media/Journalism/News_Corp.internal.md) 
+
+### #is_/same_as :: [News_Corp.protect](/_protect/Society/Communication/Media/Journalism/News_Corp.protect.md) 
+
+### #is_/same_as :: [News_Corp.private](/_private/Society/Communication/Media/Journalism/News_Corp.private.md) 
+
+### #is_/same_as :: [News_Corp.personal](/_personal/Society/Communication/Media/Journalism/News_Corp.personal.md) 
+
+### #is_/same_as :: [News_Corp.secret](/_secret/Society/Communication/Media/Journalism/News_Corp.secret.md)
+

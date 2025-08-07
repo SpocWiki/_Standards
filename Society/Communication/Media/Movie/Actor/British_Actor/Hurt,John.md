@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Hurt"
 - "Sir John Vincent Hurt"
@@ -56,4 +56,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Hurt)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hurt,John](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.md) 
+
+### #is_/same_as :: [Hurt,John.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.public.md) 
+
+### #is_/same_as :: [Hurt,John.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.internal.md) 
+
+### #is_/same_as :: [Hurt,John.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.protect.md) 
+
+### #is_/same_as :: [Hurt,John.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.private.md) 
+
+### #is_/same_as :: [Hurt,John.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.personal.md) 
+
+### #is_/same_as :: [Hurt,John.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hurt,John.secret.md)
 

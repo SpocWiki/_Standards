@@ -47,3 +47,20 @@ While the basic principles are universally agreed upon, slight differences in re
 
 This information consolidates the current understanding as of 2023-10 and reflects the scientific consensus on these fundamental cellular processes. Please confirm any additional or updated data from primary scientific resources or databases before application, especially in experimental settings or clinical implications.
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [DNA_Replication](/_Standards/DNA_Replication.md) 
+
+### #is_/same_as :: [DNA_Replication.public](/_public/DNA_Replication.public.md) 
+
+### #is_/same_as :: [DNA_Replication.internal](/_internal/DNA_Replication.internal.md) 
+
+### #is_/same_as :: [DNA_Replication.protect](/_protect/DNA_Replication.protect.md) 
+
+### #is_/same_as :: [DNA_Replication.private](/_private/DNA_Replication.private.md) 
+
+### #is_/same_as :: [DNA_Replication.personal](/_personal/DNA_Replication.personal.md) 
+
+### #is_/same_as :: [DNA_Replication.secret](/_secret/DNA_Replication.secret.md)
+

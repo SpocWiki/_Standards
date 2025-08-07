@@ -22,3 +22,20 @@ has_id_wikidata: Q34453
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boris%20Yeltsin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yeltsin,Boris](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.md) 
+
+### #is_/same_as :: [Yeltsin,Boris.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.public.md) 
+
+### #is_/same_as :: [Yeltsin,Boris.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.internal.md) 
+
+### #is_/same_as :: [Yeltsin,Boris.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.protect.md) 
+
+### #is_/same_as :: [Yeltsin,Boris.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.private.md) 
+
+### #is_/same_as :: [Yeltsin,Boris.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.personal.md) 
+
+### #is_/same_as :: [Yeltsin,Boris.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.secret.md)
+

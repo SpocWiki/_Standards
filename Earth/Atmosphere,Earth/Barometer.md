@@ -38,3 +38,20 @@ time_of_discovery_or_invention: 1643-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barometer) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barometer](/_Standards/Earth/Atmosphere,Earth/Barometer.md) 
+
+### #is_/same_as :: [Barometer.public](/_public/Earth/Atmosphere,Earth/Barometer.public.md) 
+
+### #is_/same_as :: [Barometer.internal](/_internal/Earth/Atmosphere,Earth/Barometer.internal.md) 
+
+### #is_/same_as :: [Barometer.protect](/_protect/Earth/Atmosphere,Earth/Barometer.protect.md) 
+
+### #is_/same_as :: [Barometer.private](/_private/Earth/Atmosphere,Earth/Barometer.private.md) 
+
+### #is_/same_as :: [Barometer.personal](/_personal/Earth/Atmosphere,Earth/Barometer.personal.md) 
+
+### #is_/same_as :: [Barometer.secret](/_secret/Earth/Atmosphere,Earth/Barometer.secret.md)
+

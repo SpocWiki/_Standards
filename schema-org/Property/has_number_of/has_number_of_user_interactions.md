@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-interaction-count
 - user_interaction_count

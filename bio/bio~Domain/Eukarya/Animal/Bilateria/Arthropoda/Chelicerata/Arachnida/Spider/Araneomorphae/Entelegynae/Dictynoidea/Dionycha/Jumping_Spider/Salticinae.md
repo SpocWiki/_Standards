@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Salticus
 - Salticinae
@@ -173,7 +173,7 @@ Copyright ::            © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Salticinae](Salticinae.md)) 
+### #is_/same_as :: [Salticinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Salticinae.md) 
 
 ### #is_/same_as :: [Salticinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Salticinae.public.md) 
 

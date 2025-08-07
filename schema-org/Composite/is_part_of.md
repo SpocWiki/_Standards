@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-part-of
 - part_of

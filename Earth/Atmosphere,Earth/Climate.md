@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: U287
 Commons_category: Climate
 described_by_source:
@@ -91,17 +91,17 @@ Wikidata_property: "Köppen climate classification"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Climate](/_Standards/Earth/Atmosphere/Climate.md) 
+### #is_/same_as :: [Climate](/_Standards/Earth/Atmosphere,Earth/Climate.md) 
 
-### #is_/same_as :: [Climate.public](/_public/Earth/Atmosphere/Climate.public.md) 
+### #is_/same_as :: [Climate.public](/_public/Earth/Atmosphere,Earth/Climate.public.md) 
 
-### #is_/same_as :: [Climate.internal](/_internal/Earth/Atmosphere/Climate.internal.md) 
+### #is_/same_as :: [Climate.internal](/_internal/Earth/Atmosphere,Earth/Climate.internal.md) 
 
-### #is_/same_as :: [Climate.protect](/_protect/Earth/Atmosphere/Climate.protect.md) 
+### #is_/same_as :: [Climate.protect](/_protect/Earth/Atmosphere,Earth/Climate.protect.md) 
 
-### #is_/same_as :: [Climate.private](/_private/Earth/Atmosphere/Climate.private.md) 
+### #is_/same_as :: [Climate.private](/_private/Earth/Atmosphere,Earth/Climate.private.md) 
 
-### #is_/same_as :: [Climate.personal](/_personal/Earth/Atmosphere/Climate.personal.md) 
+### #is_/same_as :: [Climate.personal](/_personal/Earth/Atmosphere,Earth/Climate.personal.md) 
 
-### #is_/same_as :: [Climate.secret](/_secret/Earth/Atmosphere/Climate.secret.md)
+### #is_/same_as :: [Climate.secret](/_secret/Earth/Atmosphere,Earth/Climate.secret.md)
 

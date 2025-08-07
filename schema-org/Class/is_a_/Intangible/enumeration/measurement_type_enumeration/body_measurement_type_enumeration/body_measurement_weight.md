@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-weight
 - body_measurement_weight

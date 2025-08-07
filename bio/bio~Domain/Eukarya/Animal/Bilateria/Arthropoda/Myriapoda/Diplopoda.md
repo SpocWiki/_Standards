@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diplopoda
 ---
 
@@ -105,7 +105,7 @@ Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Diplopoda](Diplopoda.md)) 
+### #is_/same_as :: [Diplopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda.md) 
 
 ### #is_/same_as :: [Diplopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda.public.md) 
 

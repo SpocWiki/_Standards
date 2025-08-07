@@ -1,4 +1,4 @@
-﻿---
+---
 title: Astacidea
 ---
 
@@ -91,7 +91,7 @@ Copyright ::         © 1998 [Keith A. Crandall](http://inbio.byu.edu/Faculty/ka
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Astacidea](Astacidea.md)) 
+### #is_/same_as :: [Astacidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.md) 
 
 ### #is_/same_as :: [Astacidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea.public.md) 
 

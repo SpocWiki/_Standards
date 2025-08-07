@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - time-required
 - time_required

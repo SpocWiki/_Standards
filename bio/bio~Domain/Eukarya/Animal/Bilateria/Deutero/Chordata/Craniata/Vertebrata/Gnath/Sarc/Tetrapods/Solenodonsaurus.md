@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Solenodonsaurus janenschi"
 ---
 
@@ -136,7 +136,7 @@ Copyright ::            © 1999 Michel Laurin and Robert Reisz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Solenodonsaurus](Solenodonsaurus.md)) 
+### #is_/same_as :: [Solenodonsaurus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.md) 
 
 ### #is_/same_as :: [Solenodonsaurus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Solenodonsaurus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Micropotamogale
 ---
 
@@ -52,7 +52,7 @@ title: Micropotamogale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Micropotamogale](Micropotamogale.md)) 
+### #is_/same_as :: [Micropotamogale](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Micropotamogale.md) 
 
 ### #is_/same_as :: [Micropotamogale.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Micropotamogale.public.md) 
 

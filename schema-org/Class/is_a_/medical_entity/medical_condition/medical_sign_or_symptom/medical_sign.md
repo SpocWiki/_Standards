@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-sign
 - medical_sign

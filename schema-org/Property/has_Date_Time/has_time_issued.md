@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-issued
 - date_issued

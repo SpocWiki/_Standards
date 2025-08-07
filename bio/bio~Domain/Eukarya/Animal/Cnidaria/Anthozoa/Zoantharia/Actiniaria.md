@@ -1,4 +1,4 @@
-﻿---
+---
 title: Actiniaria
 ---
 
@@ -110,7 +110,7 @@ From left to right:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Actiniaria](Actiniaria.md)) 
+### #is_/same_as :: [Actiniaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.md) 
 
 ### #is_/same_as :: [Actiniaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria.public.md) 
 

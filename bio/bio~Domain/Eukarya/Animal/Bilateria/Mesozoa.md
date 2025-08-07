@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mesozoa
 ---
 
@@ -81,7 +81,7 @@ Copyright ::   © 1998 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mesozoa](Mesozoa.md)) 
+### #is_/same_as :: [Mesozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.md) 
 
 ### #is_/same_as :: [Mesozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.public.md) 
 

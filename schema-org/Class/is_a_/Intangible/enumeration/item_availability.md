@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-availability
 - item_availability

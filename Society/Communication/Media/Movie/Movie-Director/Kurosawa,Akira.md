@@ -1,4 +1,4 @@
-﻿---
+---
 award_received:
 - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
 - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'

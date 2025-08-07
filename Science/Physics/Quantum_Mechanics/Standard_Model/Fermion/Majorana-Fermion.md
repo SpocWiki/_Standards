@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Majorana particle"
 ---
@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Majorana-Fermion](/_Standards/Science/Physics/Majorana-Fermion.md) 
+### #is_/same_as :: [Majorana-Fermion](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.md) 
 
-### #is_/same_as :: [Majorana-Fermion.public](/_public/Science/Physics/Majorana-Fermion.public.md) 
+### #is_/same_as :: [Majorana-Fermion.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.public.md) 
 
-### #is_/same_as :: [Majorana-Fermion.internal](/_internal/Science/Physics/Majorana-Fermion.internal.md) 
+### #is_/same_as :: [Majorana-Fermion.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.internal.md) 
 
-### #is_/same_as :: [Majorana-Fermion.protect](/_protect/Science/Physics/Majorana-Fermion.protect.md) 
+### #is_/same_as :: [Majorana-Fermion.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.protect.md) 
 
-### #is_/same_as :: [Majorana-Fermion.private](/_private/Science/Physics/Majorana-Fermion.private.md) 
+### #is_/same_as :: [Majorana-Fermion.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.private.md) 
 
-### #is_/same_as :: [Majorana-Fermion.personal](/_personal/Science/Physics/Majorana-Fermion.personal.md) 
+### #is_/same_as :: [Majorana-Fermion.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.personal.md) 
 
-### #is_/same_as :: [Majorana-Fermion.secret](/_secret/Science/Physics/Majorana-Fermion.secret.md)
+### #is_/same_as :: [Majorana-Fermion.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.secret.md)
 

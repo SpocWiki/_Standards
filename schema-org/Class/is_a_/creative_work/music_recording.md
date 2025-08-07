@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-recording
 - music_recording

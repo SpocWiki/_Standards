@@ -29,3 +29,20 @@ has_id_wikidata: Q101998
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biome) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biome](/_Standards/bio/Ecology/Biome.md) 
+
+### #is_/same_as :: [Biome.public](/_public/bio/Ecology/Biome.public.md) 
+
+### #is_/same_as :: [Biome.internal](/_internal/bio/Ecology/Biome.internal.md) 
+
+### #is_/same_as :: [Biome.protect](/_protect/bio/Ecology/Biome.protect.md) 
+
+### #is_/same_as :: [Biome.private](/_private/bio/Ecology/Biome.private.md) 
+
+### #is_/same_as :: [Biome.personal](/_personal/bio/Ecology/Biome.personal.md) 
+
+### #is_/same_as :: [Biome.secret](/_secret/bio/Ecology/Biome.secret.md)
+

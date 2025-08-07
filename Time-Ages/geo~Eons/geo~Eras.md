@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Geology by era"
 described_by_source:
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Catherine O'Hara"
 - "Catherine Anne O'Hara"
@@ -20,4 +20,21 @@ aliases:
 > for which she won a Primetime Emmy Award and a Golden Globe Award.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Catherine%20O'Hara) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [O'Hara,Catherine](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.md) 
+
+### #is_/same_as :: [O'Hara,Catherine.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.public.md) 
+
+### #is_/same_as :: [O'Hara,Catherine.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.internal.md) 
+
+### #is_/same_as :: [O'Hara,Catherine.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.protect.md) 
+
+### #is_/same_as :: [O'Hara,Catherine.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.private.md) 
+
+### #is_/same_as :: [O'Hara,Catherine.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.personal.md) 
+
+### #is_/same_as :: [O'Hara,Catherine.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/O'Hara,Catherine.secret.md)
 

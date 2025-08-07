@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vasco da Gama"
 allegiance: '[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]'

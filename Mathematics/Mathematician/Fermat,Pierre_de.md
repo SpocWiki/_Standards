@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Laws,798137]]'
 aliases:
 - "Pierre de Fermat"

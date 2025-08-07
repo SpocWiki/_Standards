@@ -1,4 +1,4 @@
-﻿---
+---
 title: "other amaurobioids"
 ---
 
@@ -52,7 +52,7 @@ Copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amaurobioids](Amaurobioids.md)) 
+### #is_/same_as :: [Amaurobioids](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Amaurobioids.md) 
 
 ### #is_/same_as :: [Amaurobioids.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Amaurobioids.public.md) 
 

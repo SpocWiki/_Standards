@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cycloteuthidae
 ---
 
@@ -133,7 +133,7 @@ to Zoology No. 5:1-24.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cycloteuthidae](Cycloteuthidae.md)) 
+### #is_/same_as :: [Cycloteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Cycloteuthidae.md) 
 
 ### #is_/same_as :: [Cycloteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Cycloteuthidae.public.md) 
 

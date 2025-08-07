@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "World Trade Organization"
 archives_at: '[[_Standards/WikiData/WD~WTO_archives,15149996]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drains-to
 - drains_to

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bathtub curve"
 - Ausfallverteilung

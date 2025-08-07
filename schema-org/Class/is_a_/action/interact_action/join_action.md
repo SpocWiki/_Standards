@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - join-action
 - join_action

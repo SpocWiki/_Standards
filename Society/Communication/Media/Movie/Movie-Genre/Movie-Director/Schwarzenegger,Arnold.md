@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Arnold Schwarzenegger"
 ---
@@ -39,4 +39,21 @@ aliases:
 > In 2003, he was elected governor of California in a special recall election to replace Gray Davis, the governor at the time. He received 48.6 percent of the vote, 17 points ahead of the runner-up, Cruz Bustamante of the Democratic Party. He was sworn in on November 17 to serve the remainder of Davis' term, and was reelected in the 2006 gubernatorial election with an increased vote share of 55.9 percent to serve a full term. In 2011 he reached his term limit as governor and returned to acting.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arnold%20Schwarzenegger)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schwarzenegger,Arnold](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.md) 
+
+### #is_/same_as :: [Schwarzenegger,Arnold.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.public.md) 
+
+### #is_/same_as :: [Schwarzenegger,Arnold.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.internal.md) 
+
+### #is_/same_as :: [Schwarzenegger,Arnold.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.protect.md) 
+
+### #is_/same_as :: [Schwarzenegger,Arnold.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.private.md) 
+
+### #is_/same_as :: [Schwarzenegger,Arnold.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.personal.md) 
+
+### #is_/same_as :: [Schwarzenegger,Arnold.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Schwarzenegger,Arnold.secret.md)
 

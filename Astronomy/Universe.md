@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 宇宙
 Commons_category: Universe
 contains:

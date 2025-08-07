@@ -1,4 +1,4 @@
-﻿---
+---
 authority: '[[_Standards/WikiData/WD~World_Athletics,1158]]'
 Baidu_Tieba_name: 田径
 Basisklassifikation: 76.15

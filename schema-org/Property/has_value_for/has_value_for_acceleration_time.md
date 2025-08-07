@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - acceleration_time
 - acceleration-time

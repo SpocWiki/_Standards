@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_c19mech_vent_pats
 - cvd-num-c19mech-vent-pats

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - live-blog-posting
 - live_blog_posting

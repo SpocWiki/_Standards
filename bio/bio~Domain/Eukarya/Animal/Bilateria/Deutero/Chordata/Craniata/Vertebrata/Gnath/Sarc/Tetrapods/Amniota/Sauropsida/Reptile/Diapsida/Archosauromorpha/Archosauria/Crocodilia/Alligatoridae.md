@@ -38,3 +38,20 @@ has_id_wikidata: Q530397
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alligatoridae) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alligatoridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.md) 
+
+### #is_/same_as :: [Alligatoridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.public.md) 
+
+### #is_/same_as :: [Alligatoridae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.internal.md) 
+
+### #is_/same_as :: [Alligatoridae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.protect.md) 
+
+### #is_/same_as :: [Alligatoridae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.private.md) 
+
+### #is_/same_as :: [Alligatoridae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.personal.md) 
+
+### #is_/same_as :: [Alligatoridae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Crocodilia/Alligatoridae.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-not-permitted
 - merchant_return_not_permitted

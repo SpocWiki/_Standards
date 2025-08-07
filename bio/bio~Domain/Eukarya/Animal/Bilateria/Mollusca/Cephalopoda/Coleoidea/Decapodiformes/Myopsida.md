@@ -1,4 +1,4 @@
-﻿---
+---
 title: Myopsida
 ---
 
@@ -109,7 +109,7 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Myopsida](Myopsida.md)) 
+### #is_/same_as :: [Myopsida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.md) 
 
 ### #is_/same_as :: [Myopsida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.public.md) 
 

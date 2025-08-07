@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - digital-audio-tape-format
 - digital_audio_tape_format

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-pregnancy-category
 - drug_pregnancy_category

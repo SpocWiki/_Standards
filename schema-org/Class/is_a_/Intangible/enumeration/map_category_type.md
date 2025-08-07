@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - map-category-type
 - map_category_type

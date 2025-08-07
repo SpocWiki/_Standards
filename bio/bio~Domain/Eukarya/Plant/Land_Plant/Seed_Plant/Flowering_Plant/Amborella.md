@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Amborella
 - "Amborella trichopoda"
@@ -53,17 +53,17 @@ on the South Pacific island of New Caledonia.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amborella](Amborella.md)) 
+### #is_/same_as :: [Amborella](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.md) 
 
-### #is_/same_as :: [Amborella.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.public.md) 
+### #is_/same_as :: [Amborella.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.public.md) 
 
-### #is_/same_as :: [Amborella.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.internal.md) 
+### #is_/same_as :: [Amborella.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.internal.md) 
 
-### #is_/same_as :: [Amborella.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.protect.md) 
+### #is_/same_as :: [Amborella.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.protect.md) 
 
-### #is_/same_as :: [Amborella.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.private.md) 
+### #is_/same_as :: [Amborella.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.private.md) 
 
-### #is_/same_as :: [Amborella.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.personal.md) 
+### #is_/same_as :: [Amborella.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.personal.md) 
 
-### #is_/same_as :: [Amborella.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.secret.md)
+### #is_/same_as :: [Amborella.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Amborella.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-jurisdiction
 - legislation_jurisdiction

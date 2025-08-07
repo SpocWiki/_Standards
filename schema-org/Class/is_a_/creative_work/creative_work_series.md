@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - creative-work-series
 - creative_work_series

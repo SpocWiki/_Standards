@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miscellaneous fossil artiodactyls"
 ---
 
@@ -70,7 +70,7 @@ Specimen Condition   Fossil \-- Period: Eocene
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[fossil_artiodactyls](fossil_artiodactyls.md)) 
+### #is_/same_as :: [fossil_artiodactyls](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/fossil_artiodactyls.md) 
 
 ### #is_/same_as :: [fossil_artiodactyls.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/fossil_artiodactyls.public.md) 
 

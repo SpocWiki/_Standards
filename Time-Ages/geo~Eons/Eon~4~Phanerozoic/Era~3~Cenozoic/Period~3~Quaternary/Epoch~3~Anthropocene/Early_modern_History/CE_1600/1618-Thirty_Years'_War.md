@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thirty Year War"
 - "Thirty Years War"

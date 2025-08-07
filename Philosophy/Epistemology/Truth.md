@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: R4111
 Commons_category: Truth
 described_by_source:

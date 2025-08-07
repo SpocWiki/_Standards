@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - logo
 - logo

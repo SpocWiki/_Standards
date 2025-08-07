@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Max und Moritz"
 ---
@@ -22,5 +22,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20and%20Moritz)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Max_and_Moritz](/_Standards/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.md) 
+
+### #is_/same_as :: [Max_and_Moritz.public](/_public/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.public.md) 
+
+### #is_/same_as :: [Max_and_Moritz.internal](/_internal/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.internal.md) 
+
+### #is_/same_as :: [Max_and_Moritz.protect](/_protect/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.protect.md) 
+
+### #is_/same_as :: [Max_and_Moritz.private](/_private/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.private.md) 
+
+### #is_/same_as :: [Max_and_Moritz.personal](/_personal/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.personal.md) 
+
+### #is_/same_as :: [Max_and_Moritz.secret](/_secret/Society/Communication/Media/Book/Author/Busch,Wilhelm/Max_and_Moritz.secret.md)
 

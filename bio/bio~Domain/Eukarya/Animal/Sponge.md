@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sponge
 - Sponges
@@ -78,7 +78,7 @@ Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sponge](Sponge.md)) 
+### #is_/same_as :: [Sponge](/_Standards/bio/bio~Domain/Eukarya/Animal/Sponge.md) 
 
 ### #is_/same_as :: [Sponge.public](/_public/bio/bio~Domain/Eukarya/Animal/Sponge.public.md) 
 

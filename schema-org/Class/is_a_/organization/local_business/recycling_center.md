@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recycling-center
 - recycling_center

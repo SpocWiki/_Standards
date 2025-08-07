@@ -37,3 +37,19 @@ which accounts for considerable Heat-Production in TTL Devices.
 > [Wikipedia](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor%20logic)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic)](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).md) 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).public.md) 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).internal.md) 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).protect.md) 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).private.md) 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).personal.md) 
+
+### #is_/same_as :: [TTL(Transistor-Transistor_Logic).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/TTL(Transistor-Transistor_Logic).secret.md)
+

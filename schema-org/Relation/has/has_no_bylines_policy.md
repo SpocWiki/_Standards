@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - no-bylines-policy
 - no_bylines_policy

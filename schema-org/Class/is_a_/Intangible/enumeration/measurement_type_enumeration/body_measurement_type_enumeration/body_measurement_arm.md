@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-arm
 - body_measurement_arm

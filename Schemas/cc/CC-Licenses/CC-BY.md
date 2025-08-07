@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 
 confidential: private
@@ -39,17 +39,17 @@ This has a dual Benefit:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[CC-BY](CC-BY.md)) 
+### #is_/same_as :: [CC-BY](/_Standards/Schemas/cc/CC-Licenses/CC-BY.md) 
 
-### #is_/same_as :: [CC-BY.public](/_public/cc/CC-Licenses/CC-BY.public.md) 
+### #is_/same_as :: [CC-BY.public](/_public/Schemas/cc/CC-Licenses/CC-BY.public.md) 
 
-### #is_/same_as :: [CC-BY.internal](/_internal/cc/CC-Licenses/CC-BY.internal.md) 
+### #is_/same_as :: [CC-BY.internal](/_internal/Schemas/cc/CC-Licenses/CC-BY.internal.md) 
 
-### #is_/same_as :: [CC-BY.protect](/_protect/cc/CC-Licenses/CC-BY.protect.md) 
+### #is_/same_as :: [CC-BY.protect](/_protect/Schemas/cc/CC-Licenses/CC-BY.protect.md) 
 
-### #is_/same_as :: [CC-BY.private](/_private/cc/CC-Licenses/CC-BY.private.md) 
+### #is_/same_as :: [CC-BY.private](/_private/Schemas/cc/CC-Licenses/CC-BY.private.md) 
 
-### #is_/same_as :: [CC-BY.personal](/_personal/cc/CC-Licenses/CC-BY.personal.md) 
+### #is_/same_as :: [CC-BY.personal](/_personal/Schemas/cc/CC-Licenses/CC-BY.personal.md) 
 
-### #is_/same_as :: [CC-BY.secret](/_secret/cc/CC-Licenses/CC-BY.secret.md)
+### #is_/same_as :: [CC-BY.secret](/_secret/Schemas/cc/CC-Licenses/CC-BY.secret.md)
 

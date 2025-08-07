@@ -48,3 +48,19 @@ for services offered via the WhatsApp Business API, charged on a per-message bas
 WhatsApp strives to offer the same Services a WeChat to unify Services and bind Users to the Platform. 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [WhatsApp](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.md) 
+
+### #is_/same_as :: [WhatsApp.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.public.md) 
+
+### #is_/same_as :: [WhatsApp.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.internal.md) 
+
+### #is_/same_as :: [WhatsApp.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.protect.md) 
+
+### #is_/same_as :: [WhatsApp.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.private.md) 
+
+### #is_/same_as :: [WhatsApp.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.personal.md) 
+
+### #is_/same_as :: [WhatsApp.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/WhatsApp.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - safety-consideration
 - safety_consideration

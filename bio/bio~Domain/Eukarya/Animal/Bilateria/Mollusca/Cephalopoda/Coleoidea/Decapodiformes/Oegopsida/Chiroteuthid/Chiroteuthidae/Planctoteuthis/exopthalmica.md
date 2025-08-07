@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Planctoteuthis exopthalmica"
 ---
 
@@ -104,7 +104,7 @@ Type               Lectotype
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[exopthalmica](exopthalmica.md)) 
+### #is_/same_as :: [exopthalmica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/exopthalmica.md) 
 
 ### #is_/same_as :: [exopthalmica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/exopthalmica.public.md) 
 

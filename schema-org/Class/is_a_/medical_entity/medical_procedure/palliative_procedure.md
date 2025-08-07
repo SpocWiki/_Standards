@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - palliative-procedure
 - palliative_procedure

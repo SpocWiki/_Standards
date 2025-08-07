@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vespertilionidae
 ---
 
@@ -185,7 +185,7 @@ Evolutionsforschung, 32:11-34.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Vespertilionidae](Vespertilionidae.md)) 
+### #is_/same_as :: [Vespertilionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Vespertilionidae.md) 
 
 ### #is_/same_as :: [Vespertilionidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Vespertilionidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chalcolithic
 - "Copper Age"

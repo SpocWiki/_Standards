@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Doxing
 ---
@@ -18,4 +18,21 @@ aliases:
 > Doxing may be carried out for reasons such as online shaming, extortion, and vigilante aid to law enforcement.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Doxing) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doxxing](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.md) 
+
+### #is_/same_as :: [Doxxing.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.public.md) 
+
+### #is_/same_as :: [Doxxing.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.internal.md) 
+
+### #is_/same_as :: [Doxxing.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.protect.md) 
+
+### #is_/same_as :: [Doxxing.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.private.md) 
+
+### #is_/same_as :: [Doxxing.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.personal.md) 
+
+### #is_/same_as :: [Doxxing.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Doxxing.secret.md)
 

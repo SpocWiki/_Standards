@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - followee
 - is_followee_of

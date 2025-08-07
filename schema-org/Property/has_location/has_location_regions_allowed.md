@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - regions-allowed
 - regions_allowed

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - blog-posting
 - blog_posting

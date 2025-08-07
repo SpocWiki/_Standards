@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - instance-of
 - instance_of

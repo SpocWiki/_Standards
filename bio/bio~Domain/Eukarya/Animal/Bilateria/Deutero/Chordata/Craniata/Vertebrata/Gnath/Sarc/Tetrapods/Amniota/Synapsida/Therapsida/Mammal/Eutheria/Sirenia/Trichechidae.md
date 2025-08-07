@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trichechidae
 ---
 
@@ -69,7 +69,7 @@ Life Cycle Stage ::     cow and calf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Trichechidae](Trichechidae.md)) 
+### #is_/same_as :: [Trichechidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Sirenia/Trichechidae.md) 
 
 ### #is_/same_as :: [Trichechidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Sirenia/Trichechidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - checkin-time
 - checkin_time

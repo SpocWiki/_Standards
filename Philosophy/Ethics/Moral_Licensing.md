@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Self-licensing
 - "moral self-licensing"

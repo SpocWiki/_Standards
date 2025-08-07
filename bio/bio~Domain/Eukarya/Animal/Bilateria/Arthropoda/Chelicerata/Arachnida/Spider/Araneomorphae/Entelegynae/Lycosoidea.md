@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lycosoidea
 ---
 
@@ -85,7 +85,7 @@ Oxyopidae). Journal of Zoology 253:309-332.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lycosoidea](Lycosoidea.md)) 
+### #is_/same_as :: [Lycosoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea.md) 
 
 ### #is_/same_as :: [Lycosoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea.public.md) 
 

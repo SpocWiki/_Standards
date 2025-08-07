@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scopocira
 ---
 
@@ -71,7 +71,7 @@ Tentatively placed with the Hyetussinae.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scopocira](Scopocira.md)) 
+### #is_/same_as :: [Scopocira](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae/Scopocira.md) 
 
 ### #is_/same_as :: [Scopocira.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae/Scopocira.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Fictional settings"
 different_from:
 - '[[_Standards/WikiData/WD~fictional_parallel_universe,47306921]]'
@@ -44,17 +44,17 @@ Wikidata_property:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fictional_World](Fictional_World.md) 
+### #is_/same_as :: [Fictional_World](/_Standards/Society/Communication/Genre/Fiction/Fictional_World.md) 
 
-### #is_/same_as :: [Fictional_Worlds.public](/_public/Society/Communication/Genre/Fiction/Fictional_Worlds.public.md) 
+### #is_/same_as :: [Fictional_World.public](/_public/Society/Communication/Genre/Fiction/Fictional_World.public.md) 
 
-### #is_/same_as :: [Fictional_Worlds.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Worlds.internal.md) 
+### #is_/same_as :: [Fictional_World.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_World.internal.md) 
 
-### #is_/same_as :: [Fictional_Worlds.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Worlds.protect.md) 
+### #is_/same_as :: [Fictional_World.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_World.protect.md) 
 
-### #is_/same_as :: [Fictional_Worlds.private](/_private/Society/Communication/Genre/Fiction/Fictional_Worlds.private.md) 
+### #is_/same_as :: [Fictional_World.private](/_private/Society/Communication/Genre/Fiction/Fictional_World.private.md) 
 
-### #is_/same_as :: [Fictional_Worlds.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Worlds.personal.md) 
+### #is_/same_as :: [Fictional_World.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_World.personal.md) 
 
-### #is_/same_as :: [Fictional_Worlds.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Worlds.secret.md)
+### #is_/same_as :: [Fictional_World.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_World.secret.md)
 

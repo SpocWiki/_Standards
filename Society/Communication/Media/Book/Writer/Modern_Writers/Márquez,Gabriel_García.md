@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Gabriel García Márquez"
 - "Gabriel José García Márquez"

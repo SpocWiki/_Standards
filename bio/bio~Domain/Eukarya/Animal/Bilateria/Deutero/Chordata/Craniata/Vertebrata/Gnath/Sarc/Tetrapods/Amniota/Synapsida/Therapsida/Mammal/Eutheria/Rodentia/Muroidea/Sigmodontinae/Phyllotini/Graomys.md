@@ -1,4 +1,4 @@
-﻿---
+---
 title: Graomys
 ---
 
@@ -77,7 +77,7 @@ the appropriate view below.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Graomys](Graomys.md)) 
+### #is_/same_as :: [Graomys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Graomys.md) 
 
 ### #is_/same_as :: [Graomys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Graomys.public.md) 
 

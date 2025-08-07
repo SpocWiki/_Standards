@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-benefits-info
 - government_benefits_info

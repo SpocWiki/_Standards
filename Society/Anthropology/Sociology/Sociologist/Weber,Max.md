@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Max Weber"
 BHCL_UUID: 8d953dc9-9549-4be1-a013-ea633d3511d0
@@ -150,17 +150,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Weber,Max](Weber,Max.md)) 
+### #is_/same_as :: [Weber,Max](/_Standards/Society/Anthropology/Sociology/Sociologist/Weber,Max.md) 
 
-### #is_/same_as :: [Weber,Max.public](/_public/Society/Sociology/Sociologist/Weber,Max.public.md) 
+### #is_/same_as :: [Weber,Max.public](/_public/Society/Anthropology/Sociology/Sociologist/Weber,Max.public.md) 
 
-### #is_/same_as :: [Weber,Max.internal](/_internal/Society/Sociology/Sociologist/Weber,Max.internal.md) 
+### #is_/same_as :: [Weber,Max.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Weber,Max.internal.md) 
 
-### #is_/same_as :: [Weber,Max.protect](/_protect/Society/Sociology/Sociologist/Weber,Max.protect.md) 
+### #is_/same_as :: [Weber,Max.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Weber,Max.protect.md) 
 
-### #is_/same_as :: [Weber,Max.private](/_private/Society/Sociology/Sociologist/Weber,Max.private.md) 
+### #is_/same_as :: [Weber,Max.private](/_private/Society/Anthropology/Sociology/Sociologist/Weber,Max.private.md) 
 
-### #is_/same_as :: [Weber,Max.personal](/_personal/Society/Sociology/Sociologist/Weber,Max.personal.md) 
+### #is_/same_as :: [Weber,Max.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Weber,Max.personal.md) 
 
-### #is_/same_as :: [Weber,Max.secret](/_secret/Society/Sociology/Sociologist/Weber,Max.secret.md)
+### #is_/same_as :: [Weber,Max.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Weber,Max.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - valid-from
 - valid_from

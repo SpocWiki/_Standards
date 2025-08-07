@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sign-detected
 - sign_detected

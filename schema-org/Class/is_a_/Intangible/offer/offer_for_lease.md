@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offer-for-lease
 - offer_for_lease

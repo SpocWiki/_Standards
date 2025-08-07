@@ -90,3 +90,20 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atmospheric%20pressure) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atmospheric_Pressure](/_Standards/Earth/Atmosphere,Earth/Atmospheric_Pressure.md) 
+
+### #is_/same_as :: [Atmospheric_Pressure.public](/_public/Earth/Atmosphere,Earth/Atmospheric_Pressure.public.md) 
+
+### #is_/same_as :: [Atmospheric_Pressure.internal](/_internal/Earth/Atmosphere,Earth/Atmospheric_Pressure.internal.md) 
+
+### #is_/same_as :: [Atmospheric_Pressure.protect](/_protect/Earth/Atmosphere,Earth/Atmospheric_Pressure.protect.md) 
+
+### #is_/same_as :: [Atmospheric_Pressure.private](/_private/Earth/Atmosphere,Earth/Atmospheric_Pressure.private.md) 
+
+### #is_/same_as :: [Atmospheric_Pressure.personal](/_personal/Earth/Atmosphere,Earth/Atmospheric_Pressure.personal.md) 
+
+### #is_/same_as :: [Atmospheric_Pressure.secret](/_secret/Earth/Atmosphere,Earth/Atmospheric_Pressure.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 3304
 Chinese_Library_Classification: G4
 Classification_of_Instructional_Programs_code:

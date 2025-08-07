@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robert Douglas Thomas Pattinson"
 - "Robert Pattinson"
@@ -50,4 +50,21 @@ aliases:
 > having been included on People's Sexiest Men Alive list in 2008 and 2009.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Pattinson) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pattinson,Robert](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.md) 
+
+### #is_/same_as :: [Pattinson,Robert.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.public.md) 
+
+### #is_/same_as :: [Pattinson,Robert.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.internal.md) 
+
+### #is_/same_as :: [Pattinson,Robert.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.protect.md) 
+
+### #is_/same_as :: [Pattinson,Robert.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.private.md) 
+
+### #is_/same_as :: [Pattinson,Robert.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.personal.md) 
+
+### #is_/same_as :: [Pattinson,Robert.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Pattinson,Robert.secret.md)
 

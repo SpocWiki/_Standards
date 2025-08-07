@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recording-of
 - recording_of

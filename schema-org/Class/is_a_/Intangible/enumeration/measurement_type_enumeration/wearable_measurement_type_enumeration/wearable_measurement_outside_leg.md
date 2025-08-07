@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-outside-leg
 - wearable_measurement_outside_leg

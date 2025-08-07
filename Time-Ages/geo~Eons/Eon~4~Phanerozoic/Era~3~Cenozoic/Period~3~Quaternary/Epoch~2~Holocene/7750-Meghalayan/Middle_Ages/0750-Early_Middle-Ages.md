@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Early Middle Ages"
 - "early medieval period"

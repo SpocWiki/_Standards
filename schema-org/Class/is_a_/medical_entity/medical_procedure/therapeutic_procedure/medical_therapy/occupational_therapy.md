@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - occupational-therapy
 - occupational_therapy

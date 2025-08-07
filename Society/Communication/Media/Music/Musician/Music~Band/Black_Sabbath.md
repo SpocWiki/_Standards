@@ -26,3 +26,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20Sabbath) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Black_Sabbath](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.md) 
+
+### #is_/same_as :: [Black_Sabbath.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.public.md) 
+
+### #is_/same_as :: [Black_Sabbath.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.internal.md) 
+
+### #is_/same_as :: [Black_Sabbath.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.protect.md) 
+
+### #is_/same_as :: [Black_Sabbath.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.private.md) 
+
+### #is_/same_as :: [Black_Sabbath.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.personal.md) 
+
+### #is_/same_as :: [Black_Sabbath.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.secret.md)
+

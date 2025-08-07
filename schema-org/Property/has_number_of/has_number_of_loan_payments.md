@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_loan_payments
 - number-of-loan-payments

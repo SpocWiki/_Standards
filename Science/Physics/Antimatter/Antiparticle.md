@@ -36,3 +36,20 @@ Commons_category: Antiparticles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antiparticle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antiparticle](/_Standards/Science/Physics/Antimatter/Antiparticle.md) 
+
+### #is_/same_as :: [Antiparticle.public](/_public/Science/Physics/Antimatter/Antiparticle.public.md) 
+
+### #is_/same_as :: [Antiparticle.internal](/_internal/Science/Physics/Antimatter/Antiparticle.internal.md) 
+
+### #is_/same_as :: [Antiparticle.protect](/_protect/Science/Physics/Antimatter/Antiparticle.protect.md) 
+
+### #is_/same_as :: [Antiparticle.private](/_private/Science/Physics/Antimatter/Antiparticle.private.md) 
+
+### #is_/same_as :: [Antiparticle.personal](/_personal/Science/Physics/Antimatter/Antiparticle.personal.md) 
+
+### #is_/same_as :: [Antiparticle.secret](/_secret/Science/Physics/Antimatter/Antiparticle.secret.md)
+

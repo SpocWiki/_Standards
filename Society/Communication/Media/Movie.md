@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Movie
 - Film

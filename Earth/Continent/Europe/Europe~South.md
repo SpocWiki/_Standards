@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "South Europe"
 - "Southern Europe"

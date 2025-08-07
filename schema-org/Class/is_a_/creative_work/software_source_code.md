@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - software-source-code
 - software_source_code

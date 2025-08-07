@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - school-closures-info
 - school_closures_info

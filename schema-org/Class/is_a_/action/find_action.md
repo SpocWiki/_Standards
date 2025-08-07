@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - find-action
 - find_action

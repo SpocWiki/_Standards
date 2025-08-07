@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - disability-support
 - disability_support

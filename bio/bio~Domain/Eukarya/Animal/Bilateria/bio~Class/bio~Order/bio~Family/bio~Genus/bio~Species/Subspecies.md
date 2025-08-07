@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Subspecies
 - Race
@@ -45,7 +45,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Subspecies](Subspecies.md)) 
+### #is_/same_as :: [Subspecies](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.md) 
 
 ### #is_/same_as :: [Subspecies.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.public.md) 
 

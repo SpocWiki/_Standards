@@ -1,4 +1,4 @@
-﻿---
+---
 title: Glomeromycota
 ---
 
@@ -529,7 +529,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Glomeromycota](Glomeromycota.md)) 
+### #is_/same_as :: [Glomeromycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.md) 
 
 ### #is_/same_as :: [Glomeromycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.public.md) 
 

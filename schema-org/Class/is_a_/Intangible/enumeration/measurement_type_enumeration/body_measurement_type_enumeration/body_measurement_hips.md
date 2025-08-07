@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-hips
 - body_measurement_hips

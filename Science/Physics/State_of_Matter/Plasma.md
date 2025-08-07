@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Plasma physics"
 Dewey_Decimal_Classification: 530.44
 different_from: '[[_Standards/WikiData/WD~blood_plasma,79749]]'

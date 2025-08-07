@@ -14,3 +14,20 @@ has_id_wikidata: Q372923
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Articulatory%20phonetics) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Articulation](/_Standards/Society/Communication/Media/Music/Articulation.md) 
+
+### #is_/same_as :: [Articulation.public](/_public/Society/Communication/Media/Music/Articulation.public.md) 
+
+### #is_/same_as :: [Articulation.internal](/_internal/Society/Communication/Media/Music/Articulation.internal.md) 
+
+### #is_/same_as :: [Articulation.protect](/_protect/Society/Communication/Media/Music/Articulation.protect.md) 
+
+### #is_/same_as :: [Articulation.private](/_private/Society/Communication/Media/Music/Articulation.private.md) 
+
+### #is_/same_as :: [Articulation.personal](/_personal/Society/Communication/Media/Music/Articulation.personal.md) 
+
+### #is_/same_as :: [Articulation.secret](/_secret/Society/Communication/Media/Music/Articulation.secret.md)
+

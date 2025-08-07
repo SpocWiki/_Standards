@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scleractinia
 ---
 
@@ -124,7 +124,7 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scleractinia](Scleractinia.md)) 
+### #is_/same_as :: [Scleractinia](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.md) 
 
 ### #is_/same_as :: [Scleractinia.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Planctoteuthis
 ---
 
@@ -162,7 +162,7 @@ Copyright ::            © [Monterey Bay Aquarium Research Institute](http://www
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Planctoteuthis](Planctoteuthis.md)) 
+### #is_/same_as :: [Planctoteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis.md) 
 
 ### #is_/same_as :: [Planctoteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eligible-transaction-volume
 - eligible_transaction_volume

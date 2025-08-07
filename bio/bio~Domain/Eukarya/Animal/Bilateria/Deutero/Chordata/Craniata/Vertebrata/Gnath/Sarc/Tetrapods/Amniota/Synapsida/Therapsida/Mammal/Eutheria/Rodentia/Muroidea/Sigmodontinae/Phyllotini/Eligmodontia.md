@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eligmodontia
 ---
 
@@ -94,7 +94,7 @@ Figure 1. **Eligmodontia typus** copyright © Oliver Pearson 1997.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eligmodontia](Eligmodontia.md)) 
+### #is_/same_as :: [Eligmodontia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Eligmodontia.md) 
 
 ### #is_/same_as :: [Eligmodontia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Eligmodontia.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - downvote-count
 - downvote_count

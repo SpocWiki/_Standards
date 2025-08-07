@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-or-where-health-aspect
 - how_or_where_health_aspect

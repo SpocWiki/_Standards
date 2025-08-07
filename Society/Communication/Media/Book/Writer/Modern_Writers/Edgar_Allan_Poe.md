@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Edgar Allan Poe"
 - "Edgar Poe"
@@ -182,4 +182,21 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > for distinguished work in the mystery genre.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edgar%20Allan%20Poe) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Edgar_Allan_Poe](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.md) 
+
+### #is_/same_as :: [Edgar_Allan_Poe.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.public.md) 
+
+### #is_/same_as :: [Edgar_Allan_Poe.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.internal.md) 
+
+### #is_/same_as :: [Edgar_Allan_Poe.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.protect.md) 
+
+### #is_/same_as :: [Edgar_Allan_Poe.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.private.md) 
+
+### #is_/same_as :: [Edgar_Allan_Poe.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.personal.md) 
+
+### #is_/same_as :: [Edgar_Allan_Poe.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Edgar_Allan_Poe.secret.md)
 

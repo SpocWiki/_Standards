@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - year_built
 - year-built

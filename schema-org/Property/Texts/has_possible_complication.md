@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - possible-complication
 - possible_complication

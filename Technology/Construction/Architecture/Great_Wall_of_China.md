@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%85%95%E7%94%B0%E5%B3%AA%E9%95%BF%E5%9F%8E%E8%88%AA%E6%8B%8D%202018-09-16%20151631.jpg"
 aliases:
 - "Great Wall of China"

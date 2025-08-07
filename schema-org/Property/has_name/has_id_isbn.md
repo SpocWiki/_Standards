@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - id_isbn
 - has_id_isbn

@@ -37,3 +37,20 @@
 type: folder_brief_live
 ```
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Github](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Github.md) 
+
+### #is_/same_as :: [Github.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Github.public.md) 
+
+### #is_/same_as :: [Github.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Github.internal.md) 
+
+### #is_/same_as :: [Github.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Github.protect.md) 
+
+### #is_/same_as :: [Github.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Github.private.md) 
+
+### #is_/same_as :: [Github.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Github.personal.md) 
+
+### #is_/same_as :: [Github.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Github.secret.md)
+

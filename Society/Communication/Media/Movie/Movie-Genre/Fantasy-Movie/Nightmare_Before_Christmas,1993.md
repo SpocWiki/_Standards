@@ -46,8 +46,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Nightmare%20Before%20Christmas)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Nightmare_Before_Christmas,1993](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.md) 
 
+### #is_/same_as :: [Nightmare_Before_Christmas,1993.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.public.md) 
 
+### #is_/same_as :: [Nightmare_Before_Christmas,1993.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.internal.md) 
 
+### #is_/same_as :: [Nightmare_Before_Christmas,1993.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.protect.md) 
+
+### #is_/same_as :: [Nightmare_Before_Christmas,1993.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.private.md) 
+
+### #is_/same_as :: [Nightmare_Before_Christmas,1993.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.personal.md) 
+
+### #is_/same_as :: [Nightmare_Before_Christmas,1993.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Nightmare_Before_Christmas,1993.secret.md)
 

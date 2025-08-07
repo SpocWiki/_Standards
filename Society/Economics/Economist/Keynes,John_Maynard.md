@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Maynard Keynes"
 award_received:

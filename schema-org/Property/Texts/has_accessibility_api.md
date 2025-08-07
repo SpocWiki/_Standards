@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accessibility-api
 - accessibility_api

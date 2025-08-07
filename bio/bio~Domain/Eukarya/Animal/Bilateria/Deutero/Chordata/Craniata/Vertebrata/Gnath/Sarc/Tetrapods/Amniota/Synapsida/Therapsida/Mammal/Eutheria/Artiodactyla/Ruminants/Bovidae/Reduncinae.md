@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reduncinae
 ---
 
@@ -74,7 +74,7 @@ Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Reduncinae](Reduncinae.md)) 
+### #is_/same_as :: [Reduncinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Reduncinae.md) 
 
 ### #is_/same_as :: [Reduncinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Reduncinae.public.md) 
 

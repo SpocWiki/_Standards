@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - checkout-time
 - checkout_time

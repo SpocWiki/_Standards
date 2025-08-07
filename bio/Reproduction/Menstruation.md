@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Menstruation
 described_at_URL:
 - "http://bacsisaigon.net/kinh-nguyet-mau-den.html"

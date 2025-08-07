@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-display-name
 - name_display_broadcast

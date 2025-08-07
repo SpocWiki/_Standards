@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abrothicine group"
 ---
 
@@ -47,7 +47,7 @@ title: "Abrothicine group"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Abrothicine](Abrothicine.md)) 
+### #is_/same_as :: [Abrothicine](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Abrothicine.md) 
 
 ### #is_/same_as :: [Abrothicine.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Abrothicine.public.md) 
 

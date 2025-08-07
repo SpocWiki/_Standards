@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 7
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Libra|Zodiac~Libra]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Libra.public|Zodiac~Libra.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Libra.internal|Zodiac~Libra.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Libra.protect|Zodiac~Libra.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Libra.private|Zodiac~Libra.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Libra.personal|Zodiac~Libra.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Libra.secret|Zodiac~Libra.secret]] 
+
+### #is_/same_as :: [Zodiac~Libra](/_Standards/Astronomy/Star~Constellation/Zodiac~Libra.md) 
+
+### #is_/same_as :: [Zodiac~Libra.public](/_public/Astronomy/Star~Constellation/Zodiac~Libra.public.md) 
+
+### #is_/same_as :: [Zodiac~Libra.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Libra.internal.md) 
+
+### #is_/same_as :: [Zodiac~Libra.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Libra.protect.md) 
+
+### #is_/same_as :: [Zodiac~Libra.private](/_private/Astronomy/Star~Constellation/Zodiac~Libra.private.md) 
+
+### #is_/same_as :: [Zodiac~Libra.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Libra.personal.md) 
+
+### #is_/same_as :: [Zodiac~Libra.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Libra.secret.md)
+

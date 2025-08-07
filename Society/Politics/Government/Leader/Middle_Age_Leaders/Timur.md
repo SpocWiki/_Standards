@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Timur
 - Tamerlane
@@ -100,17 +100,17 @@ time_period: '[[_Standards/WikiData/WD~Timurid_Empire,484195]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Timur](Timur.md)) 
+### #is_/same_as :: [Timur](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.md) 
 
-### #is_/same_as :: [Timur.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Timur.public.md) 
+### #is_/same_as :: [Timur.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.public.md) 
 
-### #is_/same_as :: [Timur.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Timur.internal.md) 
+### #is_/same_as :: [Timur.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.internal.md) 
 
-### #is_/same_as :: [Timur.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Timur.protect.md) 
+### #is_/same_as :: [Timur.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.protect.md) 
 
-### #is_/same_as :: [Timur.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Timur.private.md) 
+### #is_/same_as :: [Timur.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.private.md) 
 
-### #is_/same_as :: [Timur.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Timur.personal.md) 
+### #is_/same_as :: [Timur.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.personal.md) 
 
-### #is_/same_as :: [Timur.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Timur.secret.md)
+### #is_/same_as :: [Timur.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.secret.md)
 

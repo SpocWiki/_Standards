@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-method
 - return_method

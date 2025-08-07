@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lemland
 confidential: public

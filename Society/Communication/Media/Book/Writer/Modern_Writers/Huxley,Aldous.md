@@ -160,3 +160,21 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Aldous%20Huxley)
 
 #has_/created :: [  ]
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Huxley,Aldous](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.md) 
+
+### #is_/same_as :: [Huxley,Aldous.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.public.md) 
+
+### #is_/same_as :: [Huxley,Aldous.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.internal.md) 
+
+### #is_/same_as :: [Huxley,Aldous.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.protect.md) 
+
+### #is_/same_as :: [Huxley,Aldous.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.private.md) 
+
+### #is_/same_as :: [Huxley,Aldous.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.personal.md) 
+
+### #is_/same_as :: [Huxley,Aldous.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Huxley,Aldous.secret.md)
+

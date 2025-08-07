@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rugby football"
 has_id_wikidata: Q5378

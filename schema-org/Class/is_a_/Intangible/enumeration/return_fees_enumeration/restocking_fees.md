@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - restocking-fees
 - restocking_fees

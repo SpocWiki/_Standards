@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Consonants
 depicted_by: '[[_Standards/WikiData/WD~consonant_letter,3841820]]'
 described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

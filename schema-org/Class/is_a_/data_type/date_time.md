@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-time
 - date_time

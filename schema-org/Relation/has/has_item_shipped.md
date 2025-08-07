@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-shipped
 - item_shipped

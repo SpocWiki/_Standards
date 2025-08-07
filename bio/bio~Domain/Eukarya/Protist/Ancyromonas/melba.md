@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ancyromonas melba"
 ---
 
@@ -94,7 +94,7 @@ European Journal of Protistology 32:423-448.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[melba](melba.md)) 
+### #is_/same_as :: [melba](/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.md) 
 
 ### #is_/same_as :: [melba.public](/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.public.md) 
 

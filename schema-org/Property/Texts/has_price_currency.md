@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-currency
 - price_currency

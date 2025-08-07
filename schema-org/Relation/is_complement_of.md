@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - complement-of
 - complement_of

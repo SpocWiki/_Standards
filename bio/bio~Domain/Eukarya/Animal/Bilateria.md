@@ -200,7 +200,7 @@ evidence is championed by Nielsen (2001):
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bilateria](Bilateria.md) 
+### #is_/same_as :: [Bilateria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria.md) 
 
 ### #is_/same_as :: [Bilateria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria.public.md) 
 

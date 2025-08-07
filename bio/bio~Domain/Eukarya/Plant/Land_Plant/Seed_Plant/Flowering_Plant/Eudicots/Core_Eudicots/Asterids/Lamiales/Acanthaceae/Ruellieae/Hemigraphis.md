@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hemigraphis + Strobilanthes + relatives"
 ---
 
@@ -96,17 +96,17 @@ Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hemigraphis](Hemigraphis.md)) 
+### #is_/same_as :: [Hemigraphis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.md) 
 
-### #is_/same_as :: [Hemigraphis.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.public.md) 
+### #is_/same_as :: [Hemigraphis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.public.md) 
 
-### #is_/same_as :: [Hemigraphis.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.internal.md) 
+### #is_/same_as :: [Hemigraphis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.internal.md) 
 
-### #is_/same_as :: [Hemigraphis.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.protect.md) 
+### #is_/same_as :: [Hemigraphis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.protect.md) 
 
-### #is_/same_as :: [Hemigraphis.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.private.md) 
+### #is_/same_as :: [Hemigraphis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.private.md) 
 
-### #is_/same_as :: [Hemigraphis.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.personal.md) 
+### #is_/same_as :: [Hemigraphis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.personal.md) 
 
-### #is_/same_as :: [Hemigraphis.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.secret.md)
+### #is_/same_as :: [Hemigraphis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Hemigraphis.secret.md)
 

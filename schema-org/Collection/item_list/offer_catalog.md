@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offer-catalog
 - offer_catalog

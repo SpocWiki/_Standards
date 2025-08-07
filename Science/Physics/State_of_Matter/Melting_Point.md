@@ -21,3 +21,20 @@ has_id_wikidata: Q15318
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Melting%20point) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Melting_Point](/_Standards/Science/Physics/State_of_Matter/Melting_Point.md) 
+
+### #is_/same_as :: [Melting_Point.public](/_public/Science/Physics/State_of_Matter/Melting_Point.public.md) 
+
+### #is_/same_as :: [Melting_Point.internal](/_internal/Science/Physics/State_of_Matter/Melting_Point.internal.md) 
+
+### #is_/same_as :: [Melting_Point.protect](/_protect/Science/Physics/State_of_Matter/Melting_Point.protect.md) 
+
+### #is_/same_as :: [Melting_Point.private](/_private/Science/Physics/State_of_Matter/Melting_Point.private.md) 
+
+### #is_/same_as :: [Melting_Point.personal](/_personal/Science/Physics/State_of_Matter/Melting_Point.personal.md) 
+
+### #is_/same_as :: [Melting_Point.secret](/_secret/Science/Physics/State_of_Matter/Melting_Point.secret.md)
+

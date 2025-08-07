@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - secondary-prevention
 - secondary_prevention

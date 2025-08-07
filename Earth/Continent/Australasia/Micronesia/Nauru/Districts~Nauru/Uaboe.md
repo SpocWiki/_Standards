@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Uaboe
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The World Is Not Enough"
 ---
@@ -29,5 +29,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20World%20Is%20Not%20Enough)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [The_World_Is_Not_Enough,1999](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.md) 
+
+### #is_/same_as :: [The_World_Is_Not_Enough,1999.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.public.md) 
+
+### #is_/same_as :: [The_World_Is_Not_Enough,1999.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.internal.md) 
+
+### #is_/same_as :: [The_World_Is_Not_Enough,1999.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.protect.md) 
+
+### #is_/same_as :: [The_World_Is_Not_Enough,1999.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.private.md) 
+
+### #is_/same_as :: [The_World_Is_Not_Enough,1999.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.personal.md) 
+
+### #is_/same_as :: [The_World_Is_Not_Enough,1999.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/The_World_Is_Not_Enough,1999.secret.md)
 

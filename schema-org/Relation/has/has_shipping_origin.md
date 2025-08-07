@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shipping-origin
 - shipping_origin

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sigmodon
 ---
 
@@ -178,7 +178,7 @@ Copyright ::         © 1996 R. H. Baker
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sigmodon](Sigmodon.md)) 
+### #is_/same_as :: [Sigmodon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.md) 
 
 ### #is_/same_as :: [Sigmodon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Sigmodon.public.md) 
 

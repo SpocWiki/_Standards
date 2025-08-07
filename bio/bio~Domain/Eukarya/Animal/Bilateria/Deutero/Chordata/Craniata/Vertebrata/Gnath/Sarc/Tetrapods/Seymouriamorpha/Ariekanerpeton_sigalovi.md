@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ariekanerpeton sigalovi"
 ---
 
@@ -107,7 +107,7 @@ Vertebrate Paleontology 16 (4): 653-665.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ariekanerpeton_sigalovi](Ariekanerpeton_sigalovi.md)) 
+### #is_/same_as :: [Ariekanerpeton_sigalovi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton_sigalovi.md) 
 
 ### #is_/same_as :: [Ariekanerpeton_sigalovi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton_sigalovi.public.md) 
 

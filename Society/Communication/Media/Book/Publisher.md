@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2516866
 ---
 
@@ -18,4 +18,21 @@ has_id_wikidata: Q2516866
 > "Publisher" can refer to a publishing company, organization, or an individual who leads a publishing company, imprint, periodical, or newspaper.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Publishing) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Publisher](/_Standards/Society/Communication/Media/Book/Publisher.md) 
+
+### #is_/same_as :: [Publisher.public](/_public/Society/Communication/Media/Book/Publisher.public.md) 
+
+### #is_/same_as :: [Publisher.internal](/_internal/Society/Communication/Media/Book/Publisher.internal.md) 
+
+### #is_/same_as :: [Publisher.protect](/_protect/Society/Communication/Media/Book/Publisher.protect.md) 
+
+### #is_/same_as :: [Publisher.private](/_private/Society/Communication/Media/Book/Publisher.private.md) 
+
+### #is_/same_as :: [Publisher.personal](/_personal/Society/Communication/Media/Book/Publisher.personal.md) 
+
+### #is_/same_as :: [Publisher.secret](/_secret/Society/Communication/Media/Book/Publisher.secret.md)
 

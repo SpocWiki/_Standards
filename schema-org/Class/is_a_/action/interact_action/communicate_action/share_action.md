@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - share-action
 - share_action

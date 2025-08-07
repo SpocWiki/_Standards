@@ -1,4 +1,4 @@
-﻿---
+---
 author: '[[_Standards/WikiData/WD~Sun_Tzu,37151]]'
 Baidu_Tieba_name: 孙子兵法
 Commons_category: "The Art of War by Sun Tzu"

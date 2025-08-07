@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Pneumonia
 Commons_gallery: Pneumonia
 described_by_source:

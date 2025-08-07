@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - leisure-time-activity
 - leisure_time_activity

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gonactinia
 ---
 
@@ -55,7 +55,7 @@ volume 1, number 1.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gonactinia](Gonactinia.md)) 
+### #is_/same_as :: [Gonactinia](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.md) 
 
 ### #is_/same_as :: [Gonactinia.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.public.md) 
 

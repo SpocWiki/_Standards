@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - zone-boarding-policy
 - zone_boarding_policy

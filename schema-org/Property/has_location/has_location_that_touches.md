@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo-touches
 - geo_touches

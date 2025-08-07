@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Arvicanthine group"
 ---
 
@@ -39,7 +39,7 @@ title: "Arvicanthine group"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Arvicanthine](Arvicanthine.md)) 
+### #is_/same_as :: [Arvicanthine](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Murinae/Arvicanthine.md) 
 
 ### #is_/same_as :: [Arvicanthine.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Murinae/Arvicanthine.public.md) 
 

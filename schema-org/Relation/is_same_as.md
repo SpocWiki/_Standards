@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - same-as
 - same_as

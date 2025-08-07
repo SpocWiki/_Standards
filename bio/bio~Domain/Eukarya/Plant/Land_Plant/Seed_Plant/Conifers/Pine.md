@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pinaceae
 - "pine family"
@@ -79,17 +79,17 @@ Copyright ::            © Dave Powell, USDA Forest Service
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pine](Pine.md)) 
+### #is_/same_as :: [Pine](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.md) 
 
-### #is_/same_as :: [Pine.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine.public.md) 
+### #is_/same_as :: [Pine.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.public.md) 
 
-### #is_/same_as :: [Pine.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine.internal.md) 
+### #is_/same_as :: [Pine.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.internal.md) 
 
-### #is_/same_as :: [Pine.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine.protect.md) 
+### #is_/same_as :: [Pine.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.protect.md) 
 
-### #is_/same_as :: [Pine.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine.private.md) 
+### #is_/same_as :: [Pine.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.private.md) 
 
-### #is_/same_as :: [Pine.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine.personal.md) 
+### #is_/same_as :: [Pine.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.personal.md) 
 
-### #is_/same_as :: [Pine.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine.secret.md)
+### #is_/same_as :: [Pine.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine.secret.md)
 

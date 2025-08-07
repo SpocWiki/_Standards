@@ -53,11 +53,20 @@ official_name: Aquila
 
 #is_/same_as :: [[../../WikiData/WD~Aquila,10586|WD~Aquila,10586]] 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Aquila|Zodiac~Aquila]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Aquila.public|Zodiac~Aquila.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Aquila.internal|Zodiac~Aquila.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Aquila.protect|Zodiac~Aquila.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Aquila.private|Zodiac~Aquila.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Aquila.personal|Zodiac~Aquila.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Aquila.secret|Zodiac~Aquila.secret]] 
+
+### #is_/same_as :: [Zodiac~Aquila](/_Standards/Astronomy/Star~Constellation/Zodiac~Aquila.md) 
+
+### #is_/same_as :: [Zodiac~Aquila.public](/_public/Astronomy/Star~Constellation/Zodiac~Aquila.public.md) 
+
+### #is_/same_as :: [Zodiac~Aquila.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Aquila.internal.md) 
+
+### #is_/same_as :: [Zodiac~Aquila.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Aquila.protect.md) 
+
+### #is_/same_as :: [Zodiac~Aquila.private](/_private/Astronomy/Star~Constellation/Zodiac~Aquila.private.md) 
+
+### #is_/same_as :: [Zodiac~Aquila.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Aquila.personal.md) 
+
+### #is_/same_as :: [Zodiac~Aquila.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Aquila.secret.md)
+

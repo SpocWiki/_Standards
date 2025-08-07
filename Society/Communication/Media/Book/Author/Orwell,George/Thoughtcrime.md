@@ -13,5 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Thoughtcrime)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Thoughtcrime](/_Standards/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.md) 
+
+### #is_/same_as :: [Thoughtcrime.public](/_public/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.public.md) 
+
+### #is_/same_as :: [Thoughtcrime.internal](/_internal/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.internal.md) 
+
+### #is_/same_as :: [Thoughtcrime.protect](/_protect/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.protect.md) 
+
+### #is_/same_as :: [Thoughtcrime.private](/_private/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.private.md) 
+
+### #is_/same_as :: [Thoughtcrime.personal](/_personal/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.personal.md) 
+
+### #is_/same_as :: [Thoughtcrime.secret](/_secret/Society/Communication/Media/Book/Author/Orwell,George/Thoughtcrime.secret.md)
 

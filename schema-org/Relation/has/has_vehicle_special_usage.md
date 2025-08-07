@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-special-usage
 - vehicle_special_usage

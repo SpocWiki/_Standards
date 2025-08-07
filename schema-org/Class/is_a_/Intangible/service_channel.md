@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-channel
 - service_channel

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - membership_points_earned
 - membership-points-earned

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pawn-shop
 - pawn_shop

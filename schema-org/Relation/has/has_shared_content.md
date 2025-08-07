@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shared-content
 - shared_content

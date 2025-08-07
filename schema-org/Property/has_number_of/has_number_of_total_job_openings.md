@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - total-job-openings
 - total_job_openings

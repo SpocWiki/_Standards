@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Liliales
 title: Liliales
@@ -111,17 +111,17 @@ Copyright ::           © 2001 [California Academy of Sciences](http://www.calac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Liliales](Liliales.md)) 
+### #is_/same_as :: [Liliales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.md) 
 
-### #is_/same_as :: [Liliales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.public.md) 
+### #is_/same_as :: [Liliales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.public.md) 
 
-### #is_/same_as :: [Liliales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.internal.md) 
+### #is_/same_as :: [Liliales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.internal.md) 
 
-### #is_/same_as :: [Liliales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.protect.md) 
+### #is_/same_as :: [Liliales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.protect.md) 
 
-### #is_/same_as :: [Liliales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.private.md) 
+### #is_/same_as :: [Liliales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.private.md) 
 
-### #is_/same_as :: [Liliales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.personal.md) 
+### #is_/same_as :: [Liliales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.personal.md) 
 
-### #is_/same_as :: [Liliales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.secret.md)
+### #is_/same_as :: [Liliales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.secret.md)
 

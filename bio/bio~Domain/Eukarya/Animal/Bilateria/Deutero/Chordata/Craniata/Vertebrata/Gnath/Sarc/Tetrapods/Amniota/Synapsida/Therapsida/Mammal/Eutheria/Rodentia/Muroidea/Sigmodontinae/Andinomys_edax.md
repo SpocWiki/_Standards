@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Andinomys edax"
 ---
 
@@ -69,7 +69,7 @@ Compare all phyllotine genera together by selecting the view below.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Andinomys_edax](Andinomys_edax.md)) 
+### #is_/same_as :: [Andinomys_edax](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Andinomys_edax.md) 
 
 ### #is_/same_as :: [Andinomys_edax.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Andinomys_edax.public.md) 
 

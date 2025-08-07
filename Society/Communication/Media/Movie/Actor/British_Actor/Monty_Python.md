@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Monty Python"
 - "the Pythons"
@@ -47,4 +47,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monty%20Python)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monty_Python](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.md) 
+
+### #is_/same_as :: [Monty_Python.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.public.md) 
+
+### #is_/same_as :: [Monty_Python.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.internal.md) 
+
+### #is_/same_as :: [Monty_Python.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.protect.md) 
+
+### #is_/same_as :: [Monty_Python.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.private.md) 
+
+### #is_/same_as :: [Monty_Python.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.personal.md) 
+
+### #is_/same_as :: [Monty_Python.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Monty_Python.secret.md)
 

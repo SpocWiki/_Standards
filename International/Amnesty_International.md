@@ -104,3 +104,20 @@ P8189: "987007257742205171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amnesty%20International) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amnesty_International](/_Standards/International/Amnesty_International.md) 
+
+### #is_/same_as :: [Amnesty_International.public](/_public/International/Amnesty_International.public.md) 
+
+### #is_/same_as :: [Amnesty_International.internal](/_internal/International/Amnesty_International.internal.md) 
+
+### #is_/same_as :: [Amnesty_International.protect](/_protect/International/Amnesty_International.protect.md) 
+
+### #is_/same_as :: [Amnesty_International.private](/_private/International/Amnesty_International.private.md) 
+
+### #is_/same_as :: [Amnesty_International.personal](/_personal/International/Amnesty_International.personal.md) 
+
+### #is_/same_as :: [Amnesty_International.secret](/_secret/International/Amnesty_International.secret.md)
+

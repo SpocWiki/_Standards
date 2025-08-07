@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - maximum-physical-attendee-capacity
 - maximum_physical_attendee_capacity

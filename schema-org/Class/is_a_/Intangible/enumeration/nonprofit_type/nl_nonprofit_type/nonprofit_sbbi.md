@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit-sbbi
 - nonprofit_sbbi

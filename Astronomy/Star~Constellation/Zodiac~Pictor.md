@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Pictor|Zodiac~Pictor]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Pictor.public|Zodiac~Pictor.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Pictor.internal|Zodiac~Pictor.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Pictor.protect|Zodiac~Pictor.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Pictor.private|Zodiac~Pictor.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Pictor.personal|Zodiac~Pictor.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Pictor.secret|Zodiac~Pictor.secret]] 
+
+### #is_/same_as :: [Zodiac~Pictor](/_Standards/Astronomy/Star~Constellation/Zodiac~Pictor.md) 
+
+### #is_/same_as :: [Zodiac~Pictor.public](/_public/Astronomy/Star~Constellation/Zodiac~Pictor.public.md) 
+
+### #is_/same_as :: [Zodiac~Pictor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pictor.internal.md) 
+
+### #is_/same_as :: [Zodiac~Pictor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pictor.protect.md) 
+
+### #is_/same_as :: [Zodiac~Pictor.private](/_private/Astronomy/Star~Constellation/Zodiac~Pictor.private.md) 
+
+### #is_/same_as :: [Zodiac~Pictor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pictor.personal.md) 
+
+### #is_/same_as :: [Zodiac~Pictor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pictor.secret.md)
+

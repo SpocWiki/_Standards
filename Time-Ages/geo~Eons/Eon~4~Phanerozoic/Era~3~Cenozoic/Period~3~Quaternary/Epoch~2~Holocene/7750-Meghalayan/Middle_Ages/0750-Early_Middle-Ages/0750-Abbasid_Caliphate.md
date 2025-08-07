@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Abbasid Caliphate"
 area: 11100000

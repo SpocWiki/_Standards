@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - terms_per_year
 - terms-per-year

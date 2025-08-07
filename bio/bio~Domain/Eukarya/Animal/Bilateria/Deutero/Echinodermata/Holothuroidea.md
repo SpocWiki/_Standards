@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sea cucumber"
 title: Holothuroidea
@@ -329,7 +329,7 @@ Copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Holothuroidea](Holothuroidea.md)) 
+### #is_/same_as :: [Holothuroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.md) 
 
 ### #is_/same_as :: [Holothuroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.public.md) 
 

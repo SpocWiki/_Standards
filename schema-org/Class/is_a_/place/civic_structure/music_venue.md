@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-venue
 - music_venue

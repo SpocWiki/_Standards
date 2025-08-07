@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Elwin Bruno Christoffel"
 ---

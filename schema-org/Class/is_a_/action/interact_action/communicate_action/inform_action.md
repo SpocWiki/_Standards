@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - inform-action
 - inform_action

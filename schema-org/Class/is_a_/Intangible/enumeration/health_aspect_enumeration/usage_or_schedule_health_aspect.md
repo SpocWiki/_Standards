@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - usage-or-schedule-health-aspect
 - usage_or_schedule_health_aspect

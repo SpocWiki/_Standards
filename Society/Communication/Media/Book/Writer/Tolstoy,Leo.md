@@ -272,7 +272,7 @@ often working by candlelight after attending to her household and family duties.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tolstoy,Leo](Tolstoy,Leo.md) 
+### #is_/same_as :: [Tolstoy,Leo](/_Standards/Society/Communication/Media/Book/Writer/Tolstoy,Leo.md) 
 
 ### #is_/same_as :: [Tolstoy,Leo.public](/_public/Society/Communication/Media/Book/Writer/Tolstoy,Leo.public.md) 
 

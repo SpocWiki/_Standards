@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cucurbitales
 ---
 
@@ -88,17 +88,17 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cucurbitales](Cucurbitales.md)) 
+### #is_/same_as :: [Cucurbitales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.md) 
 
-### #is_/same_as :: [Cucurbitales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.public.md) 
+### #is_/same_as :: [Cucurbitales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.public.md) 
 
-### #is_/same_as :: [Cucurbitales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.internal.md) 
+### #is_/same_as :: [Cucurbitales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.internal.md) 
 
-### #is_/same_as :: [Cucurbitales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.protect.md) 
+### #is_/same_as :: [Cucurbitales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.protect.md) 
 
-### #is_/same_as :: [Cucurbitales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.private.md) 
+### #is_/same_as :: [Cucurbitales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.private.md) 
 
-### #is_/same_as :: [Cucurbitales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.personal.md) 
+### #is_/same_as :: [Cucurbitales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.personal.md) 
 
-### #is_/same_as :: [Cucurbitales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.secret.md)
+### #is_/same_as :: [Cucurbitales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales.secret.md)
 

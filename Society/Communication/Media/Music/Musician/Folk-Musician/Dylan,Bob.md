@@ -258,3 +258,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Dylan%20-%20Azke
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bob%20Dylan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dylan,Bob](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.md) 
+
+### #is_/same_as :: [Dylan,Bob.public](/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.public.md) 
+
+### #is_/same_as :: [Dylan,Bob.internal](/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.internal.md) 
+
+### #is_/same_as :: [Dylan,Bob.protect](/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.protect.md) 
+
+### #is_/same_as :: [Dylan,Bob.private](/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.private.md) 
+
+### #is_/same_as :: [Dylan,Bob.personal](/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.personal.md) 
+
+### #is_/same_as :: [Dylan,Bob.secret](/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.secret.md)
+

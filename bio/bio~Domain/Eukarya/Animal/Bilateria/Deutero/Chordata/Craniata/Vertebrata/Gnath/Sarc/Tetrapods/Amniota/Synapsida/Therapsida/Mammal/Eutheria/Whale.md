@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Whale
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
@@ -440,7 +440,7 @@ Copyright ::         © 1991 [Michel C. Milinkovitch](http://www.ulb.ac.be/scien
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Whale](Whale.md)) 
+### #is_/same_as :: [Whale](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale.md) 
 
 ### #is_/same_as :: [Whale.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale.public.md) 
 

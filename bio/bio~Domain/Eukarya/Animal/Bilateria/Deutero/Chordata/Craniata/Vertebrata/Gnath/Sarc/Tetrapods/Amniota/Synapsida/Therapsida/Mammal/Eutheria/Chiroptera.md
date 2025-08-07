@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chiroptera
 ---
 
@@ -301,7 +301,7 @@ Copyright ::         © 1994 Nancy Simmons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chiroptera](Chiroptera.md)) 
+### #is_/same_as :: [Chiroptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera.md) 
 
 ### #is_/same_as :: [Chiroptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera.public.md) 
 

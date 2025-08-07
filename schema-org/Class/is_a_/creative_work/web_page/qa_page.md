@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - qa-page
 - qa_page

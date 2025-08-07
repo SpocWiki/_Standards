@@ -45,3 +45,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blood) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blood](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood.md) 
+
+### #is_/same_as :: [Blood.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood.public.md) 
+
+### #is_/same_as :: [Blood.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood.internal.md) 
+
+### #is_/same_as :: [Blood.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood.protect.md) 
+
+### #is_/same_as :: [Blood.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood.private.md) 
+
+### #is_/same_as :: [Blood.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood.personal.md) 
+
+### #is_/same_as :: [Blood.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood.secret.md)
+

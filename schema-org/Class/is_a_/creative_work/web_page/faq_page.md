@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - faq-page
 - faq_page

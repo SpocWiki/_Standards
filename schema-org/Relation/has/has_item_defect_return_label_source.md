@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-defect-return-label-source
 - item_defect_return_label_source

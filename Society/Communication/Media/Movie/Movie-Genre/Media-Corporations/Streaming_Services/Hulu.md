@@ -28,5 +28,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hulu)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Hulu](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.md) 
+
+### #is_/same_as :: [Hulu.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.public.md) 
+
+### #is_/same_as :: [Hulu.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.internal.md) 
+
+### #is_/same_as :: [Hulu.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.protect.md) 
+
+### #is_/same_as :: [Hulu.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.private.md) 
+
+### #is_/same_as :: [Hulu.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.personal.md) 
+
+### #is_/same_as :: [Hulu.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Hulu.secret.md)
 

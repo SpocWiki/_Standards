@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - honorific-prefix
 - honorific_prefix

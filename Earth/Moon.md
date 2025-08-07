@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20elevation.stl"
 albedo: 0.136
 angular_diameter: 34.1

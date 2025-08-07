@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "David Ricardo"
 ArhivX_LOD: 80580

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comic-series
 - comic_series

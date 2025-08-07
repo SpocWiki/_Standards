@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-event
 - broadcast_event

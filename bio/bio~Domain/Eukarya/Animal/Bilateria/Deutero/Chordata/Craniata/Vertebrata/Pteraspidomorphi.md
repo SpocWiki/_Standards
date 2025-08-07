@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pteraspidomorphi
 ---
 
@@ -128,7 +128,7 @@ plates or \"shields\" (red). (after Janvier 1996)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pteraspidomorphi](Pteraspidomorphi.md)) 
+### #is_/same_as :: [Pteraspidomorphi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.md) 
 
 ### #is_/same_as :: [Pteraspidomorphi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi.public.md) 
 

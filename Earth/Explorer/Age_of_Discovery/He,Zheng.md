@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Zheng He"
 - "Cheng Ho"

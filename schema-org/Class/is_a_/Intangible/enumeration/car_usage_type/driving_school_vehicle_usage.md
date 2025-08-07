@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - driving-school-vehicle-usage
 - driving_school_vehicle_usage

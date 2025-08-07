@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Crater|Zodiac~Crater]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Crater.public|Zodiac~Crater.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Crater.internal|Zodiac~Crater.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Crater.protect|Zodiac~Crater.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Crater.private|Zodiac~Crater.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Crater.personal|Zodiac~Crater.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Crater.secret|Zodiac~Crater.secret]] 
+
+### #is_/same_as :: [Zodiac~Crater](/_Standards/Astronomy/Star~Constellation/Zodiac~Crater.md) 
+
+### #is_/same_as :: [Zodiac~Crater.public](/_public/Astronomy/Star~Constellation/Zodiac~Crater.public.md) 
+
+### #is_/same_as :: [Zodiac~Crater.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Crater.internal.md) 
+
+### #is_/same_as :: [Zodiac~Crater.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Crater.protect.md) 
+
+### #is_/same_as :: [Zodiac~Crater.private](/_private/Astronomy/Star~Constellation/Zodiac~Crater.private.md) 
+
+### #is_/same_as :: [Zodiac~Crater.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Crater.personal.md) 
+
+### #is_/same_as :: [Zodiac~Crater.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Crater.secret.md)
+

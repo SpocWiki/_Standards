@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eriptychiida
 ---
 
@@ -87,7 +87,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eriptychiida](Eriptychiida.md)) 
+### #is_/same_as :: [Eriptychiida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.md) 
 
 ### #is_/same_as :: [Eriptychiida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.public.md) 
 

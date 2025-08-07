@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-language
 - available_language

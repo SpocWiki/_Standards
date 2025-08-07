@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fiber_in_gram
 - fiber-content

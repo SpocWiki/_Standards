@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Abram
 BHCL_UUID: 0e7e2c32-a229-49aa-87f3-be4d791c1948
@@ -169,4 +169,21 @@ worshipped_by:
 > Most scholars view the patriarchal age, along with the Exodus and the period of the biblical judges, as a late literary construct that does not relate to any particular historical era. It is largely concluded that the Torah, the series of books that includes Genesis, was composed during the Persian period, as a result of tensions between Jewish landowners who had stayed in Judah during the Babylonian captivity and traced their right to the land through their "father Abraham", and the returning exiles who based their counterclaim on Moses and the Exodus tradition of the Israelites.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abraham) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abraham](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.md) 
+
+### #is_/same_as :: [Abraham.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.public.md) 
+
+### #is_/same_as :: [Abraham.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.internal.md) 
+
+### #is_/same_as :: [Abraham.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.protect.md) 
+
+### #is_/same_as :: [Abraham.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.private.md) 
+
+### #is_/same_as :: [Abraham.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.personal.md) 
+
+### #is_/same_as :: [Abraham.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Abraham.secret.md)
 

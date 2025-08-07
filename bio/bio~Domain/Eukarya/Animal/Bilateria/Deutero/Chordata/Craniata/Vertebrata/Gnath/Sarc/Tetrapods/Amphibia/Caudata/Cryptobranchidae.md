@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cryptobranchidae
 ---
 
@@ -207,17 +207,17 @@ Copyright ::            © 1996 Dr. Eric J. Routman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cryptobranchidae](Cryptobranchidae.md)) 
+### #is_/same_as :: [Cryptobranchidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.md) 
 
-### #is_/same_as :: [Cryptobranchidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Cryptobranchidae.public.md) 
+### #is_/same_as :: [Cryptobranchidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.public.md) 
 
-### #is_/same_as :: [Cryptobranchidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Cryptobranchidae.internal.md) 
+### #is_/same_as :: [Cryptobranchidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.internal.md) 
 
-### #is_/same_as :: [Cryptobranchidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Cryptobranchidae.protect.md) 
+### #is_/same_as :: [Cryptobranchidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.protect.md) 
 
-### #is_/same_as :: [Cryptobranchidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Cryptobranchidae.private.md) 
+### #is_/same_as :: [Cryptobranchidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.private.md) 
 
-### #is_/same_as :: [Cryptobranchidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Cryptobranchidae.personal.md) 
+### #is_/same_as :: [Cryptobranchidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.personal.md) 
 
-### #is_/same_as :: [Cryptobranchidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Cryptobranchidae.secret.md)
+### #is_/same_as :: [Cryptobranchidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Cryptobranchidae.secret.md)
 

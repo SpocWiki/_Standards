@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mark Twain"
 - "Samuel Langhorne Clemens"

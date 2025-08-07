@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Language family"
 has_id_wikidata: Q25295

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-stage-suffix
 - sub_stage_suffix

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Han Dynasty"
 area: 6000000

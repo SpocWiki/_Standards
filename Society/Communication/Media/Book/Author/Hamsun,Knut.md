@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Knut Hamsun"
 award_received:
@@ -144,5 +144,19 @@ work_period_start_: "1877-01-01T00:00:00Z"
 > [Wikipedia](https://en.wikipedia.org/wiki/Knut%20Hamsun)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Hamsun,Knut](/_Standards/Society/Communication/Media/Book/Author/Hamsun,Knut.md) 
+
+### #is_/same_as :: [Hamsun,Knut.public](/_public/Society/Communication/Media/Book/Author/Hamsun,Knut.public.md) 
+
+### #is_/same_as :: [Hamsun,Knut.internal](/_internal/Society/Communication/Media/Book/Author/Hamsun,Knut.internal.md) 
+
+### #is_/same_as :: [Hamsun,Knut.protect](/_protect/Society/Communication/Media/Book/Author/Hamsun,Knut.protect.md) 
+
+### #is_/same_as :: [Hamsun,Knut.private](/_private/Society/Communication/Media/Book/Author/Hamsun,Knut.private.md) 
+
+### #is_/same_as :: [Hamsun,Knut.personal](/_personal/Society/Communication/Media/Book/Author/Hamsun,Knut.personal.md) 
+
+### #is_/same_as :: [Hamsun,Knut.secret](/_secret/Society/Communication/Media/Book/Author/Hamsun,Knut.secret.md)
 

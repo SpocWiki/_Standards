@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - write-permission
 - write_permission

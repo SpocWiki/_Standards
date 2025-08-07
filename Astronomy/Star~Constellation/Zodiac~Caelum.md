@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Caelum|Zodiac~Caelum]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Caelum.public|Zodiac~Caelum.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Caelum.internal|Zodiac~Caelum.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Caelum.protect|Zodiac~Caelum.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Caelum.private|Zodiac~Caelum.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Caelum.personal|Zodiac~Caelum.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Caelum.secret|Zodiac~Caelum.secret]] 
+
+### #is_/same_as :: [Zodiac~Caelum](/_Standards/Astronomy/Star~Constellation/Zodiac~Caelum.md) 
+
+### #is_/same_as :: [Zodiac~Caelum.public](/_public/Astronomy/Star~Constellation/Zodiac~Caelum.public.md) 
+
+### #is_/same_as :: [Zodiac~Caelum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Caelum.internal.md) 
+
+### #is_/same_as :: [Zodiac~Caelum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Caelum.protect.md) 
+
+### #is_/same_as :: [Zodiac~Caelum.private](/_private/Astronomy/Star~Constellation/Zodiac~Caelum.private.md) 
+
+### #is_/same_as :: [Zodiac~Caelum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Caelum.personal.md) 
+
+### #is_/same_as :: [Zodiac~Caelum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Caelum.secret.md)
+

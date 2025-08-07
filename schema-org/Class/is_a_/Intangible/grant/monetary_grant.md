@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - monetary-grant
 - monetary_grant

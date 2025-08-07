@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tylopoda
 ---
 
@@ -60,7 +60,7 @@ title: Tylopoda
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tylopoda](Tylopoda.md)) 
+### #is_/same_as :: [Tylopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda.md) 
 
 ### #is_/same_as :: [Tylopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda.public.md) 
 

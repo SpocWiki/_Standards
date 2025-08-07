@@ -40,7 +40,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elasmobranchii](Elasmobranchii.md) 
+### #is_/same_as :: [Elasmobranchii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.md) 
 
 ### #is_/same_as :: [Elasmobranchii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii.public.md) 
 

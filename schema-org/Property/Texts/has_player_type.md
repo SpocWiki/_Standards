@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - player-type
 - player_type

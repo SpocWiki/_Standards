@@ -44,3 +44,19 @@ Stack_Exchange_tag: https://proofassistants.stackexchange.com/tags/axioms
 > [Wikipedia](https://en.wikipedia.org/wiki/Axiom) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Axiom](/_Standards/Mathematics/Axiom.md) 
+
+### #is_/same_as :: [Axiom.public](/_public/Mathematics/Axiom.public.md) 
+
+### #is_/same_as :: [Axiom.internal](/_internal/Mathematics/Axiom.internal.md) 
+
+### #is_/same_as :: [Axiom.protect](/_protect/Mathematics/Axiom.protect.md) 
+
+### #is_/same_as :: [Axiom.private](/_private/Mathematics/Axiom.private.md) 
+
+### #is_/same_as :: [Axiom.personal](/_personal/Mathematics/Axiom.personal.md) 
+
+### #is_/same_as :: [Axiom.secret](/_secret/Mathematics/Axiom.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alternative-of
 - alternative_to

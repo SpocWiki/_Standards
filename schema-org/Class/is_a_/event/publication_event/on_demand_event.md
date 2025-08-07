@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - on-demand-event
 - on_demand_event

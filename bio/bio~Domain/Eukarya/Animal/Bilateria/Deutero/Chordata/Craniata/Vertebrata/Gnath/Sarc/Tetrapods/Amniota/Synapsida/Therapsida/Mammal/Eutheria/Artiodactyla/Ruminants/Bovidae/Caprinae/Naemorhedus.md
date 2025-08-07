@@ -1,4 +1,4 @@
-﻿---
+---
 title: Naemorhedus
 ---
 
@@ -71,7 +71,7 @@ Containing group: [Caprinae](../Caprinae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Naemorhedus](Naemorhedus.md)) 
+### #is_/same_as :: [Naemorhedus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Naemorhedus.md) 
 
 ### #is_/same_as :: [Naemorhedus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Naemorhedus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-different-from
 - different_from

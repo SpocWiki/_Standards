@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phrynosomatidae
 ---
 
@@ -44,17 +44,17 @@ title: Phrynosomatidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Phrynosomatidae](Phrynosomatidae.md)) 
+### #is_/same_as :: [Phrynosomatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.md) 
 
-### #is_/same_as :: [Phrynosomatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.public.md) 
+### #is_/same_as :: [Phrynosomatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.public.md) 
 
-### #is_/same_as :: [Phrynosomatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.internal.md) 
+### #is_/same_as :: [Phrynosomatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.internal.md) 
 
-### #is_/same_as :: [Phrynosomatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.protect.md) 
+### #is_/same_as :: [Phrynosomatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.protect.md) 
 
-### #is_/same_as :: [Phrynosomatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.private.md) 
+### #is_/same_as :: [Phrynosomatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.private.md) 
 
-### #is_/same_as :: [Phrynosomatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.personal.md) 
+### #is_/same_as :: [Phrynosomatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.personal.md) 
 
-### #is_/same_as :: [Phrynosomatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.secret.md)
+### #is_/same_as :: [Phrynosomatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Lepidosauromorpha/Squamata/Iguania/Phrynosomatidae.secret.md)
 

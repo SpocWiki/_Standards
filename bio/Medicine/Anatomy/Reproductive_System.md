@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Reproductive system"
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~reproductive_system_development,21106555]]'

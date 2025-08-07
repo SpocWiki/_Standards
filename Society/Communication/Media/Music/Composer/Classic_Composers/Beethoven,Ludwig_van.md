@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ludwig van Beethoven"
 archives_at: '[[_Standards/WikiData/WD~Berlin_State_Library,170109]]'

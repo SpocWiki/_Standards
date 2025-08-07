@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 academic_thesis:
 - '[[_Standards/WikiData/WD~Tractatus_Logico-Philosophicus,655717]]'

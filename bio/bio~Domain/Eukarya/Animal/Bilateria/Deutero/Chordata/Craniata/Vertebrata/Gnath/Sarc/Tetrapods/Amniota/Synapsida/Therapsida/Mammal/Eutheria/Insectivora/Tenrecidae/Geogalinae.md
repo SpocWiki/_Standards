@@ -1,4 +1,4 @@
-﻿---
+---
 title: Geogalinae
 ---
 
@@ -48,7 +48,7 @@ title: Geogalinae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Geogalinae](Geogalinae.md)) 
+### #is_/same_as :: [Geogalinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Geogalinae.md) 
 
 ### #is_/same_as :: [Geogalinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Geogalinae.public.md) 
 

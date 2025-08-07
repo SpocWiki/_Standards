@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bus-trip
 - bus_trip

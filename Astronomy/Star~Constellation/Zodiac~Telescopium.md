@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Telescopium|Zodiac~Telescopium]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Telescopium.public|Zodiac~Telescopium.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Telescopium.internal|Zodiac~Telescopium.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Telescopium.protect|Zodiac~Telescopium.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Telescopium.private|Zodiac~Telescopium.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Telescopium.personal|Zodiac~Telescopium.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Telescopium.secret|Zodiac~Telescopium.secret]] 
+
+### #is_/same_as :: [Zodiac~Telescopium](/_Standards/Astronomy/Star~Constellation/Zodiac~Telescopium.md) 
+
+### #is_/same_as :: [Zodiac~Telescopium.public](/_public/Astronomy/Star~Constellation/Zodiac~Telescopium.public.md) 
+
+### #is_/same_as :: [Zodiac~Telescopium.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Telescopium.internal.md) 
+
+### #is_/same_as :: [Zodiac~Telescopium.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Telescopium.protect.md) 
+
+### #is_/same_as :: [Zodiac~Telescopium.private](/_private/Astronomy/Star~Constellation/Zodiac~Telescopium.private.md) 
+
+### #is_/same_as :: [Zodiac~Telescopium.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Telescopium.personal.md) 
+
+### #is_/same_as :: [Zodiac~Telescopium.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Telescopium.secret.md)
+

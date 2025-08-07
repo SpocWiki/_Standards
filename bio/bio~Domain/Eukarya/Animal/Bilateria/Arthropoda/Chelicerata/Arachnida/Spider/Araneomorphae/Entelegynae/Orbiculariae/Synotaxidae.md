@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synotaxidae
 ---
 
@@ -101,7 +101,7 @@ Microscop. Soc. 84:177-184.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Synotaxidae](Synotaxidae.md)) 
+### #is_/same_as :: [Synotaxidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.md) 
 
 ### #is_/same_as :: [Synotaxidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.public.md) 
 

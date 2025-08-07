@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-specification
 - size_specification

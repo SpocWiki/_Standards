@@ -1,4 +1,4 @@
-﻿---
+---
 excludes: 
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~AutomotiveBusinessAndStore
 fields: []

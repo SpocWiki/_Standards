@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Walt Disney"
 - "Walter Elias Disney"

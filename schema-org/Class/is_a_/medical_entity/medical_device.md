@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-device
 - medical_device

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-location
 - item_location

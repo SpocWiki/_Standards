@@ -1,4 +1,4 @@
-﻿---
+---
 title: Monotremata
 ---
 
@@ -87,7 +87,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Monotremata](Monotremata.md)) 
+### #is_/same_as :: [Monotremata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.md) 
 
 ### #is_/same_as :: [Monotremata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata.public.md) 
 

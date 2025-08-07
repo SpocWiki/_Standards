@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - original-media-content
 - original_media_content

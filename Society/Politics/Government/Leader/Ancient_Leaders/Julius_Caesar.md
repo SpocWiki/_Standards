@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Julius Caesar"
 - "Gaius Julius Caesar"
@@ -196,17 +196,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Julius_Caesar](Julius_Caesar.md)) 
+### #is_/same_as :: [Julius_Caesar](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.md) 
 
-### #is_/same_as :: [Julius_Caesar.public](/_public/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.public.md) 
+### #is_/same_as :: [Julius_Caesar.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.public.md) 
 
-### #is_/same_as :: [Julius_Caesar.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.internal.md) 
+### #is_/same_as :: [Julius_Caesar.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.internal.md) 
 
-### #is_/same_as :: [Julius_Caesar.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.protect.md) 
+### #is_/same_as :: [Julius_Caesar.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.protect.md) 
 
-### #is_/same_as :: [Julius_Caesar.private](/_private/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.private.md) 
+### #is_/same_as :: [Julius_Caesar.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.private.md) 
 
-### #is_/same_as :: [Julius_Caesar.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.personal.md) 
+### #is_/same_as :: [Julius_Caesar.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.personal.md) 
 
-### #is_/same_as :: [Julius_Caesar.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Julius_Caesar.secret.md)
+### #is_/same_as :: [Julius_Caesar.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Julius_Caesar.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Isopoda
 ---
 
@@ -302,7 +302,7 @@ Copyright ::            © 1994 G. M. Branch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Isopoda](Isopoda.md)) 
+### #is_/same_as :: [Isopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.md) 
 
 ### #is_/same_as :: [Isopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.public.md) 
 

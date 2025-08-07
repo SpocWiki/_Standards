@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Knorpelfische
 - "cartilaginous fish"
@@ -54,7 +54,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chondrichthyes](Chondrichthyes.md)) 
+### #is_/same_as :: [Chondrichthyes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.md) 
 
 ### #is_/same_as :: [Chondrichthyes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - catholic-church
 - catholic_church

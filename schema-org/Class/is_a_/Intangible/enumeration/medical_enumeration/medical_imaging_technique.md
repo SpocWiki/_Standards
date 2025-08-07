@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-imaging-technique
 - medical_imaging_technique

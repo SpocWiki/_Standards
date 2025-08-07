@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dave Stewart"
 - "David Allan Stewart"
@@ -13,5 +13,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dave%20Stewart%20(Eurythmics)) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Stewart,Dave](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.md) 
+
+### #is_/same_as :: [Stewart,Dave.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.public.md) 
+
+### #is_/same_as :: [Stewart,Dave.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.internal.md) 
+
+### #is_/same_as :: [Stewart,Dave.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.protect.md) 
+
+### #is_/same_as :: [Stewart,Dave.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.private.md) 
+
+### #is_/same_as :: [Stewart,Dave.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.personal.md) 
+
+### #is_/same_as :: [Stewart,Dave.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Stewart,Dave.secret.md)
 

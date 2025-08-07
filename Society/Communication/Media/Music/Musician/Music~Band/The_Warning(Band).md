@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The Warning"
 ---
@@ -21,7 +21,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Warning%20(band))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [The_Warning(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).md) 
 
+### #is_/same_as :: [The_Warning(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).public.md) 
 
+### #is_/same_as :: [The_Warning(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).internal.md) 
+
+### #is_/same_as :: [The_Warning(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).protect.md) 
+
+### #is_/same_as :: [The_Warning(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).private.md) 
+
+### #is_/same_as :: [The_Warning(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).personal.md) 
+
+### #is_/same_as :: [The_Warning(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/The_Warning(Band).secret.md)
 

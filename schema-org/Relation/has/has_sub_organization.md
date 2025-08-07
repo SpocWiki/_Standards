@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-organization
 - sub_organization

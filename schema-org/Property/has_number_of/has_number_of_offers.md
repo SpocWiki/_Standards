@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offer-count
 - offer_count

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - convenience-store
 - convenience_store

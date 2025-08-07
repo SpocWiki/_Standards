@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - play-action
 - play_action

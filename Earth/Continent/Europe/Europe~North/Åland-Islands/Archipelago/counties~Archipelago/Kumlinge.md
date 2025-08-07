@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Kumlinge
 confidential: public

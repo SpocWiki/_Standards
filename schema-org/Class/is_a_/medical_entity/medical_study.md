@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-study
 - medical_study

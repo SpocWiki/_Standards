@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q46952
 ---
 
@@ -19,4 +19,20 @@ has_id_wikidata: Q46952
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organized%20crime) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Organized_Crime](/_Standards/Society/Criminology/Crime/Organized_Crime.md) 
+
+### #is_/same_as :: [Organized_Crime.public](/_public/Society/Criminology/Crime/Organized_Crime.public.md) 
+
+### #is_/same_as :: [Organized_Crime.internal](/_internal/Society/Criminology/Crime/Organized_Crime.internal.md) 
+
+### #is_/same_as :: [Organized_Crime.protect](/_protect/Society/Criminology/Crime/Organized_Crime.protect.md) 
+
+### #is_/same_as :: [Organized_Crime.private](/_private/Society/Criminology/Crime/Organized_Crime.private.md) 
+
+### #is_/same_as :: [Organized_Crime.personal](/_personal/Society/Criminology/Crime/Organized_Crime.personal.md) 
+
+### #is_/same_as :: [Organized_Crime.secret](/_secret/Society/Criminology/Crime/Organized_Crime.secret.md)
 

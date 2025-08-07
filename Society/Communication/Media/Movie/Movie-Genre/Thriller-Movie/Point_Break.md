@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Point Break"
 ---
@@ -30,4 +30,21 @@ aliases:
 > Following the film's success, it spawned a remake that was released in 2015.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Point%20Break) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Point_Break](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.md) 
+
+### #is_/same_as :: [Point_Break.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.public.md) 
+
+### #is_/same_as :: [Point_Break.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.internal.md) 
+
+### #is_/same_as :: [Point_Break.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.protect.md) 
+
+### #is_/same_as :: [Point_Break.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.private.md) 
+
+### #is_/same_as :: [Point_Break.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.personal.md) 
+
+### #is_/same_as :: [Point_Break.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-read
 - date_read

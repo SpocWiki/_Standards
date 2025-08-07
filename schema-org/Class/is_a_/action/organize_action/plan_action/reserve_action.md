@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reserve-action
 - reserve_action

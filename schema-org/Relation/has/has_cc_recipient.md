@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cc-recipient
 - cc_recipient

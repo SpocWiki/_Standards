@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - items
 - item

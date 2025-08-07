@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tobacco-nicotine-consideration
 - tobacco_nicotine_consideration

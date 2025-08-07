@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - investment-fund
 - investment_fund

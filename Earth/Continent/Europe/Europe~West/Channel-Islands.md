@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - geo/Country
 type: Country

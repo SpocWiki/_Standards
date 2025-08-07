@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date
 - has_time

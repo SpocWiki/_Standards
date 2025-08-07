@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Chelicerata
 EPPO_Code: 1CHELQ
 has_id_wikidata: Q1359
@@ -83,7 +83,7 @@ UMLS_CUI: C0998333
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chelicerata](Chelicerata.md)) 
+### #is_/same_as :: [Chelicerata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata.md) 
 
 ### #is_/same_as :: [Chelicerata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata.public.md) 
 

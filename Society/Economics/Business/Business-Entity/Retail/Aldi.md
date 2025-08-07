@@ -80,5 +80,19 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ALDI%20Woerden%2002.JP
 > [Wikipedia](https://en.wikipedia.org/wiki/Aldi) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Aldi](/_Standards/Society/Economics/Business/Business-Entity/Retail/Aldi.md) 
+
+### #is_/same_as :: [Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public.md) 
+
+### #is_/same_as :: [Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal.md) 
+
+### #is_/same_as :: [Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect.md) 
+
+### #is_/same_as :: [Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private.md) 
+
+### #is_/same_as :: [Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal.md) 
+
+### #is_/same_as :: [Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret.md)
 

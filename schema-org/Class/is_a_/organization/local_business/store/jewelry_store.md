@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - jewelry-store
 - jewelry_store

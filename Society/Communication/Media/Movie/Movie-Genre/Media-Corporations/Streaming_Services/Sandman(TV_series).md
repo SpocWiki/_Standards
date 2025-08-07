@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sandman(TV series)"
 ---
@@ -32,4 +32,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Sandman%20(TV%20series))
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sandman(TV_series)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).md) 
+
+### #is_/same_as :: [Sandman(TV_series).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).public.md) 
+
+### #is_/same_as :: [Sandman(TV_series).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).internal.md) 
+
+### #is_/same_as :: [Sandman(TV_series).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).protect.md) 
+
+### #is_/same_as :: [Sandman(TV_series).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).private.md) 
+
+### #is_/same_as :: [Sandman(TV_series).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).personal.md) 
+
+### #is_/same_as :: [Sandman(TV_series).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Sandman(TV_series).secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contact-page
 - contact_page

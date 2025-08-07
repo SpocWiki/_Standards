@@ -1,4 +1,4 @@
-﻿---
+---
 CAS_Registry_Number: 8037-19-2
 Colon_Classification: J456
 Commons_category: Tobacco

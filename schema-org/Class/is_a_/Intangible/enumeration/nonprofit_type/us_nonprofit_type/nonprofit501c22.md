@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c22
 - nonprofit501c22

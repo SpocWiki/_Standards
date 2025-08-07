@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - floor-plan
 - floor_plan

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ownership-funding-info
 - ownership_funding_info

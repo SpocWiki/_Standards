@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Melekeok
 confidential: public

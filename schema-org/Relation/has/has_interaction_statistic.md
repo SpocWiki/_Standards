@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interaction-statistic
 - interaction_statistic

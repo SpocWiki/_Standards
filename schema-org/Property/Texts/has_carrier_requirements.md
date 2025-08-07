@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - carrier-requirements
 - carrier_requirements

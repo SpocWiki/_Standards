@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - front-wheel-drive-configuration
 - front_wheel_drive_configuration

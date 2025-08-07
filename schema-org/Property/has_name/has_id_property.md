@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - property-id
 - id_property

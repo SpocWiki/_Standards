@@ -1,4 +1,4 @@
-﻿---
+---
 title: Thiodininae
 ---
 
@@ -77,7 +77,7 @@ Society 7: 101-106.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Thiodininae](Thiodininae.md)) 
+### #is_/same_as :: [Thiodininae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Thiodininae.md) 
 
 ### #is_/same_as :: [Thiodininae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Thiodininae.public.md) 
 

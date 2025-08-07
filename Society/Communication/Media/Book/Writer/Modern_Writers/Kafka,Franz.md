@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Franz Kafka"
 archives_at: '[[_Standards/WikiData/WD~Bodleian_Library,82133]]'

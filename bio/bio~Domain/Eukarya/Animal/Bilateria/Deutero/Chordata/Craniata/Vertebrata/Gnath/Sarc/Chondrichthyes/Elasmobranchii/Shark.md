@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Selachii
 - Sharks
@@ -99,7 +99,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sharks,7112728]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Shark](Shark.md)) 
+### #is_/same_as :: [Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.md) 
 
 ### #is_/same_as :: [Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark.public.md) 
 

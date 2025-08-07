@@ -1,4 +1,4 @@
-﻿---
+---
 title: Temnospondyli
 ---
 
@@ -245,7 +245,7 @@ defined (Gauthier et al., 1989).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Temnospondyli](Temnospondyli.md)) 
+### #is_/same_as :: [Temnospondyli](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.md) 
 
 ### #is_/same_as :: [Temnospondyli.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.public.md) 
 

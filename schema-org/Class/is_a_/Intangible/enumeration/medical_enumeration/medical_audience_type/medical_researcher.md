@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-researcher
 - medical_researcher

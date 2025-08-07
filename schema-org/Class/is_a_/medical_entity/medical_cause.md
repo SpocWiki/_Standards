@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-cause
 - medical_cause

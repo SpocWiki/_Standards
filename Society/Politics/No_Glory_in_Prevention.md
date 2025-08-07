@@ -21,3 +21,20 @@ But conservative Forces either
 - oppose any change or 
 - avoid the (lower) cost now 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [No_Glory_in_Prevention](/_Standards/Society/Politics/No_Glory_in_Prevention.md) 
+
+### #is_/same_as :: [No_Glory_in_Prevention.public](/_public/Society/Politics/No_Glory_in_Prevention.public.md) 
+
+### #is_/same_as :: [No_Glory_in_Prevention.internal](/_internal/Society/Politics/No_Glory_in_Prevention.internal.md) 
+
+### #is_/same_as :: [No_Glory_in_Prevention.protect](/_protect/Society/Politics/No_Glory_in_Prevention.protect.md) 
+
+### #is_/same_as :: [No_Glory_in_Prevention.private](/_private/Society/Politics/No_Glory_in_Prevention.private.md) 
+
+### #is_/same_as :: [No_Glory_in_Prevention.personal](/_personal/Society/Politics/No_Glory_in_Prevention.personal.md) 
+
+### #is_/same_as :: [No_Glory_in_Prevention.secret](/_secret/Society/Politics/No_Glory_in_Prevention.secret.md)
+

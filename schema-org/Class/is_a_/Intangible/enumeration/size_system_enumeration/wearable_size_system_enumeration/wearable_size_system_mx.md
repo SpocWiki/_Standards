@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-system-mx
 - wearable_size_system_mx

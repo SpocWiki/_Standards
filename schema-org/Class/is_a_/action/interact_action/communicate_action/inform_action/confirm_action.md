@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - confirm-action
 - confirm_action

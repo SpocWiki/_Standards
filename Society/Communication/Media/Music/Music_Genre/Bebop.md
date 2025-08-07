@@ -29,3 +29,20 @@ has_id_wikidata: Q105513
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bebop) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bebop](/_Standards/Society/Communication/Media/Music/Music_Genre/Bebop.md) 
+
+### #is_/same_as :: [Bebop.public](/_public/Society/Communication/Media/Music/Music_Genre/Bebop.public.md) 
+
+### #is_/same_as :: [Bebop.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Bebop.internal.md) 
+
+### #is_/same_as :: [Bebop.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Bebop.protect.md) 
+
+### #is_/same_as :: [Bebop.private](/_private/Society/Communication/Media/Music/Music_Genre/Bebop.private.md) 
+
+### #is_/same_as :: [Bebop.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Bebop.personal.md) 
+
+### #is_/same_as :: [Bebop.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Bebop.secret.md)
+

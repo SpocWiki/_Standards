@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Abu Nuwas"
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]'

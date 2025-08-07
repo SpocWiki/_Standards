@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Steven Paul Jobs"
 - "Steve Jobs"

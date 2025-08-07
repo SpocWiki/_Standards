@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-applies
 - legislation_applies

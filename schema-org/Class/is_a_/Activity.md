@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "foaf:activity"
 - "prov:activity"

@@ -42,3 +42,20 @@ EAGLE_id:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arrow) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arrow](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.md) 
+
+### #is_/same_as :: [Arrow.public](/_public/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.public.md) 
+
+### #is_/same_as :: [Arrow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.internal.md) 
+
+### #is_/same_as :: [Arrow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.protect.md) 
+
+### #is_/same_as :: [Arrow.private](/_private/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.private.md) 
+
+### #is_/same_as :: [Arrow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.personal.md) 
+
+### #is_/same_as :: [Arrow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.secret.md)
+

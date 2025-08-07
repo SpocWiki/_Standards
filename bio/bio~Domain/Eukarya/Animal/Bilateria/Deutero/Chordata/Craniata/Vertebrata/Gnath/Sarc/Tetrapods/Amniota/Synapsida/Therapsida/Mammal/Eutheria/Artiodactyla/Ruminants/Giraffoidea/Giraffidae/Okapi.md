@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Okapia
 - Okapi
@@ -69,7 +69,7 @@ Copyright ::            © 2004 [Phil](http://flickr.com/people/philbull11/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Okapi](Okapi.md)) 
+### #is_/same_as :: [Okapi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Giraffoidea/Giraffidae/Okapi.md) 
 
 ### #is_/same_as :: [Okapi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Giraffoidea/Giraffidae/Okapi.public.md) 
 

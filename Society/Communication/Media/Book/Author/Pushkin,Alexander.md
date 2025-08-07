@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alexander Pushkin"
 - "Alexander Sergeyevich Pushkin"
@@ -208,4 +208,19 @@ writing_language:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Pushkin)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pushkin,Alexander](/_Standards/Society/Communication/Media/Book/Author/Pushkin,Alexander.md) 
+
+### #is_/same_as :: [Pushkin,Alexander.public](/_public/Society/Communication/Media/Book/Author/Pushkin,Alexander.public.md) 
+
+### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/Society/Communication/Media/Book/Author/Pushkin,Alexander.internal.md) 
+
+### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/Society/Communication/Media/Book/Author/Pushkin,Alexander.protect.md) 
+
+### #is_/same_as :: [Pushkin,Alexander.private](/_private/Society/Communication/Media/Book/Author/Pushkin,Alexander.private.md) 
+
+### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/Society/Communication/Media/Book/Author/Pushkin,Alexander.personal.md) 
+
+### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/Society/Communication/Media/Book/Author/Pushkin,Alexander.secret.md)
 

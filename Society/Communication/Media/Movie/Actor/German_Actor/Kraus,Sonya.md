@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sonya Martina Kraus"
 - "Sonya Kraus"
@@ -29,3 +29,21 @@ eine Zusammenfassung der Highlights aus internationalen [Talkshows](https://de.
 Die Sendung und ihre Ableger wurden im April 2011 aufgrund sinkender Zuschauerzahlen eingestellt.
 
 Mit [[Praunheim,Rosa_von]] hat sie ein Porträt des Stadtteils [[Praunheim]] gedreht. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kraus,Sonya](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.md) 
+
+### #is_/same_as :: [Kraus,Sonya.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.public.md) 
+
+### #is_/same_as :: [Kraus,Sonya.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.internal.md) 
+
+### #is_/same_as :: [Kraus,Sonya.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.protect.md) 
+
+### #is_/same_as :: [Kraus,Sonya.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.private.md) 
+
+### #is_/same_as :: [Kraus,Sonya.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.personal.md) 
+
+### #is_/same_as :: [Kraus,Sonya.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Kraus,Sonya.secret.md)
+

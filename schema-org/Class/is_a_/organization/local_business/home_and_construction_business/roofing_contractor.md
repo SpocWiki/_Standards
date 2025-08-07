@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - roofing-contractor
 - roofing_contractor

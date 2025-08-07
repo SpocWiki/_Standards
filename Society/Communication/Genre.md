@@ -42,17 +42,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genre](/_Standards/Society/Communication/Media/Genre.md) 
+### #is_/same_as :: [Genre](/_Standards/Society/Communication/Genre.md) 
 
-### #is_/same_as :: [Genre.public](/_public/Society/Communication/Media/Genre.public.md) 
+### #is_/same_as :: [Genre.public](/_public/Society/Communication/Genre.public.md) 
 
-### #is_/same_as :: [Genre.internal](/_internal/Society/Communication/Media/Genre.internal.md) 
+### #is_/same_as :: [Genre.internal](/_internal/Society/Communication/Genre.internal.md) 
 
-### #is_/same_as :: [Genre.protect](/_protect/Society/Communication/Media/Genre.protect.md) 
+### #is_/same_as :: [Genre.protect](/_protect/Society/Communication/Genre.protect.md) 
 
-### #is_/same_as :: [Genre.private](/_private/Society/Communication/Media/Genre.private.md) 
+### #is_/same_as :: [Genre.private](/_private/Society/Communication/Genre.private.md) 
 
-### #is_/same_as :: [Genre.personal](/_personal/Society/Communication/Media/Genre.personal.md) 
+### #is_/same_as :: [Genre.personal](/_personal/Society/Communication/Genre.personal.md) 
 
-### #is_/same_as :: [Genre.secret](/_secret/Society/Communication/Media/Genre.secret.md)
+### #is_/same_as :: [Genre.secret](/_secret/Society/Communication/Genre.secret.md)
 

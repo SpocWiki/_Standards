@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - known-vehicle-damages
 - known_vehicle_damages

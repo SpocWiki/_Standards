@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - embed-url
 - embed_url

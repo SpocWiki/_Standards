@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - List_of_Nobel_laureates_in_Chemistry
 - "Nobel Prize in Chemistry"

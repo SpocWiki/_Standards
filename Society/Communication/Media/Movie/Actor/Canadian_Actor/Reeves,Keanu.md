@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Keanu Reeves"
 - "Keanu Charles Reeves"
@@ -55,5 +55,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Keanu%20Reeves) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Reeves,Keanu](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.md) 
+
+### #is_/same_as :: [Reeves,Keanu.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.public.md) 
+
+### #is_/same_as :: [Reeves,Keanu.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.internal.md) 
+
+### #is_/same_as :: [Reeves,Keanu.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.protect.md) 
+
+### #is_/same_as :: [Reeves,Keanu.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.private.md) 
+
+### #is_/same_as :: [Reeves,Keanu.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.personal.md) 
+
+### #is_/same_as :: [Reeves,Keanu.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reeves,Keanu.secret.md)
 

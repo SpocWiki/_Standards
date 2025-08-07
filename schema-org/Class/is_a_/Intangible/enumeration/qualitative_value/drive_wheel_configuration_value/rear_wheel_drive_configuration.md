@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rear-wheel-drive-configuration
 - rear_wheel_drive_configuration

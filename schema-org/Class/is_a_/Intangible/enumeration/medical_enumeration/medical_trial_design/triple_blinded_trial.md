@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - triple-blinded-trial
 - triple_blinded_trial

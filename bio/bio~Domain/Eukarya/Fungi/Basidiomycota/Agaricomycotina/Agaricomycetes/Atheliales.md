@@ -1,4 +1,4 @@
-﻿---
+---
 title: Atheliales
 ---
 
@@ -35,7 +35,7 @@ Containing group:[Agaricomycetes](../Agaricomycetes.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Atheliales](Atheliales.md)) 
+### #is_/same_as :: [Atheliales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.md) 
 
 ### #is_/same_as :: [Atheliales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Atheliales.public.md) 
 

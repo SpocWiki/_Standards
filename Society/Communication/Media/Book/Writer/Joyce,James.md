@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Joyce"
 - "James Augustine Aloysius Joyce"

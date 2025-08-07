@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interaction-counter
 - interaction_counter

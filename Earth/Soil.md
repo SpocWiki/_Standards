@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "J:1"
 color: '[[_Standards/WikiData/WD~brown,47071]]'
 Commons_category: Soils

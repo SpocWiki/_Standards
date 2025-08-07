@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-game
 - video_game

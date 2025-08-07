@@ -73,3 +73,20 @@
 - _Richtig leben mit Geri Weibel. Neue Folge_. Diogenes, Zürich 2002, [ISBN 3-257-23302-7](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/3257233027).
     - Zusammen als: _Richtig leben mit Geri Weibel. Sämtliche Folgen_. Diogenes, Zürich 2005, [ISBN 3-257-23460-0](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/3257234600).
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Suter,Martin](/_Standards/Society/Communication/Media/Book/Author/Suter,Martin.md) 
+
+### #is_/same_as :: [Suter,Martin.public](/_public/Society/Communication/Media/Book/Author/Suter,Martin.public.md) 
+
+### #is_/same_as :: [Suter,Martin.internal](/_internal/Society/Communication/Media/Book/Author/Suter,Martin.internal.md) 
+
+### #is_/same_as :: [Suter,Martin.protect](/_protect/Society/Communication/Media/Book/Author/Suter,Martin.protect.md) 
+
+### #is_/same_as :: [Suter,Martin.private](/_private/Society/Communication/Media/Book/Author/Suter,Martin.private.md) 
+
+### #is_/same_as :: [Suter,Martin.personal](/_personal/Society/Communication/Media/Book/Author/Suter,Martin.personal.md) 
+
+### #is_/same_as :: [Suter,Martin.secret](/_secret/Society/Communication/Media/Book/Author/Suter,Martin.secret.md)
+

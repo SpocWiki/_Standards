@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrival-bus-stop
 - arrival_bus_stop

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Hermann Grassmann"
 - "Hermann Graßmann"

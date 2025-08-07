@@ -23,3 +23,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Heidi,%20Girl%20of%20the%20Alps)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Heidi_(Anime)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).md) 
+
+### #is_/same_as :: [Heidi_(Anime).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).public.md) 
+
+### #is_/same_as :: [Heidi_(Anime).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).internal.md) 
+
+### #is_/same_as :: [Heidi_(Anime).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).protect.md) 
+
+### #is_/same_as :: [Heidi_(Anime).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).private.md) 
+
+### #is_/same_as :: [Heidi_(Anime).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).personal.md) 
+
+### #is_/same_as :: [Heidi_(Anime).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).secret.md)
+

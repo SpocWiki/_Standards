@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~drowning,506616]]'
 Commons_category: Swimming
 Commons_gallery: Swimming

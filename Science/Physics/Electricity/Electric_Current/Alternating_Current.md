@@ -28,3 +28,20 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alternating%20current) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alternating_Current](/_Standards/Science/Physics/Electricity/Electric_Current/Alternating_Current.md) 
+
+### #is_/same_as :: [Alternating_Current.public](/_public/Science/Physics/Electricity/Electric_Current/Alternating_Current.public.md) 
+
+### #is_/same_as :: [Alternating_Current.internal](/_internal/Science/Physics/Electricity/Electric_Current/Alternating_Current.internal.md) 
+
+### #is_/same_as :: [Alternating_Current.protect](/_protect/Science/Physics/Electricity/Electric_Current/Alternating_Current.protect.md) 
+
+### #is_/same_as :: [Alternating_Current.private](/_private/Science/Physics/Electricity/Electric_Current/Alternating_Current.private.md) 
+
+### #is_/same_as :: [Alternating_Current.personal](/_personal/Science/Physics/Electricity/Electric_Current/Alternating_Current.personal.md) 
+
+### #is_/same_as :: [Alternating_Current.secret](/_secret/Science/Physics/Electricity/Electric_Current/Alternating_Current.secret.md)
+

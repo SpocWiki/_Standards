@@ -1,3 +1,25 @@
+---
+aliases:
+  - Kambrium
+has_id_wikidata: Q79064
+named_by: "[[db/Adam_Sedgwick]]"
+instance_of:
+  - "[[db/period]]"
+  - "[[db/system]]"
+described_by_source:
+  - "[[db/Encyclopædia_Britannica_11th_edition]]"
+  - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
+type_locality_geology_: "[[db/Fortune_Head]]"
+part_of: "[[db/ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale]]"
+end_time: -486850000-01-01T00:00:00Z
+named_after: "[[db/Cambria]]"
+Commons_category: Cambrian
+start_time: -538800000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20510%20Ma.png
+exact_match: http://resource.geosciml.org/classifier/ics/ischart/Cambrian
+sRGB_color_hex_triplet: 7FA056
+P8189: "987007290943505171"
+---
 
 # [[Period~1~Cambrian]] 
 
@@ -8,6 +30,7 @@
 
 #has_/previous_/item :: [[../../Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran|Period~3~Ediacaran]] 
 #has_/next_/item :: [[Period~2~Ordovician]] 
+#is_/same_as :: [[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]] 
 
 ## #has_/text_of_/abstract 
 

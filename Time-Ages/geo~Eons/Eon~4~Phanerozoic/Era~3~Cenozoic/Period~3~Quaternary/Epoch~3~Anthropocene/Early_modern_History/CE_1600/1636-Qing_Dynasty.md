@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Qing Dynasty"
 anthem: "[[_Standards/WikiData/WD~Gong_Jin'ou,1142935]]"

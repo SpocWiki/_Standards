@@ -1,4 +1,4 @@
-﻿---
+---
 ARK_Name_Assigning_Authority_Number: 78319
 autonomous_system_number:
 - 36384
@@ -619,4 +619,21 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Google](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Google.md) 
+
+### #is_/same_as :: [Google.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Google.public.md) 
+
+### #is_/same_as :: [Google.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Google.internal.md) 
+
+### #is_/same_as :: [Google.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Google.protect.md) 
+
+### #is_/same_as :: [Google.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Google.private.md) 
+
+### #is_/same_as :: [Google.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Google.personal.md) 
+
+### #is_/same_as :: [Google.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Google.secret.md)
 

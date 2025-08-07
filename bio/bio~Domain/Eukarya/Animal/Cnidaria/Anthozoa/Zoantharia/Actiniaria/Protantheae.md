@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protantheae
 ---
 
@@ -75,7 +75,7 @@ Copyright © 2000, Robin Harvey, S.M.B.A.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Protantheae](Protantheae.md)) 
+### #is_/same_as :: [Protantheae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae.md) 
 
 ### #is_/same_as :: [Protantheae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae.public.md) 
 

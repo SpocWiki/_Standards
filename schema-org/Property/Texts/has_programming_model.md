@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - programming-model
 - programming_model

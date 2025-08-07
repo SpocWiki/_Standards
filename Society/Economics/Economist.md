@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Economists
 has_id_wikidata: Q188094

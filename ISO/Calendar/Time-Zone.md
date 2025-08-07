@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Time zones"
 Commons_gallery: Timezone
 described_at_URL: "https://github.com/whosonfirst/whosonfirst-placetypes#timezone"

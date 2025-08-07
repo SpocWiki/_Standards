@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-hours
 - work_hours

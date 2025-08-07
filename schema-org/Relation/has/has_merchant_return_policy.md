@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-merchant-return-policy
 - merchant_return_policy

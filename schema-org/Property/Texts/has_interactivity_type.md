@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interactivity-type
 - interactivity_type

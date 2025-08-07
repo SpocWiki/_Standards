@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Aísōpos
 - Αἴσωπος
@@ -93,4 +93,21 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 > and his appearance as a character in numerous books, films, plays, and television programs.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aesop) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aesop](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.md) 
+
+### #is_/same_as :: [Aesop.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.public.md) 
+
+### #is_/same_as :: [Aesop.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.internal.md) 
+
+### #is_/same_as :: [Aesop.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.protect.md) 
+
+### #is_/same_as :: [Aesop.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.private.md) 
+
+### #is_/same_as :: [Aesop.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.personal.md) 
+
+### #is_/same_as :: [Aesop.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Aesop.secret.md)
 

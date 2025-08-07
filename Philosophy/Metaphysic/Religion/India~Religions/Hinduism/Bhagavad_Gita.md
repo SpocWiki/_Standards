@@ -112,3 +112,20 @@ Commons_gallery: Bhagavad Gita
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bhagavad%20Gita) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bhagavad_Gita](/_Standards/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.md) 
+
+### #is_/same_as :: [Bhagavad_Gita.public](/_public/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.public.md) 
+
+### #is_/same_as :: [Bhagavad_Gita.internal](/_internal/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.internal.md) 
+
+### #is_/same_as :: [Bhagavad_Gita.protect](/_protect/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.protect.md) 
+
+### #is_/same_as :: [Bhagavad_Gita.private](/_private/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.private.md) 
+
+### #is_/same_as :: [Bhagavad_Gita.personal](/_personal/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.personal.md) 
+
+### #is_/same_as :: [Bhagavad_Gita.secret](/_secret/Philosophy/Metaphysic/Religion/India~Religions/Hinduism/Bhagavad_Gita.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rating-count
 - rating_count

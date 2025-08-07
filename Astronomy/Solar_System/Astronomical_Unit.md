@@ -72,3 +72,20 @@ Wikidata_SPARQL_query_equivalent: wd:Q1811 p:P2370/psn:P2370 [wikibase:quantityA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomical%20unit) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astronomical_Unit](/_Standards/Astronomy/Solar_System/Astronomical_Unit.md) 
+
+### #is_/same_as :: [Astronomical_Unit.public](/_public/Astronomy/Solar_System/Astronomical_Unit.public.md) 
+
+### #is_/same_as :: [Astronomical_Unit.internal](/_internal/Astronomy/Solar_System/Astronomical_Unit.internal.md) 
+
+### #is_/same_as :: [Astronomical_Unit.protect](/_protect/Astronomy/Solar_System/Astronomical_Unit.protect.md) 
+
+### #is_/same_as :: [Astronomical_Unit.private](/_private/Astronomy/Solar_System/Astronomical_Unit.private.md) 
+
+### #is_/same_as :: [Astronomical_Unit.personal](/_personal/Astronomy/Solar_System/Astronomical_Unit.personal.md) 
+
+### #is_/same_as :: [Astronomical_Unit.secret](/_secret/Astronomy/Solar_System/Astronomical_Unit.secret.md)
+

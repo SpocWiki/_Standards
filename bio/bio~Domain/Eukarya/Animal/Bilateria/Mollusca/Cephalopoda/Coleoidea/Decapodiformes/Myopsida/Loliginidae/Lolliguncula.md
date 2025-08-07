@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lolliguncula
 ---
 
@@ -175,7 +175,7 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lolliguncula](Lolliguncula.md)) 
+### #is_/same_as :: [Lolliguncula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.md) 
 
 ### #is_/same_as :: [Lolliguncula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Lolliguncula.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrival-airport
 - arrival_airport

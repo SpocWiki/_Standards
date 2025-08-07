@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content-reference-time
 - content_reference_time

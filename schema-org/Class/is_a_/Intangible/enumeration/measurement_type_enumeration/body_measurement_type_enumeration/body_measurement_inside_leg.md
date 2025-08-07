@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-inside-leg
 - body_measurement_inside_leg

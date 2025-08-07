@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-transposes
 - legislation_transpose_of

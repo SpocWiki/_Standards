@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sinentomon
 ---
 
@@ -33,7 +33,7 @@ Containing group:[Sinentomata](../Sinentomata.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sinentomon](Sinentomon.md)) 
+### #is_/same_as :: [Sinentomon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.md) 
 
 ### #is_/same_as :: [Sinentomon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.public.md) 
 

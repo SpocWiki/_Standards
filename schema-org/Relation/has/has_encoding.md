@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - encoding
 - has_encoding

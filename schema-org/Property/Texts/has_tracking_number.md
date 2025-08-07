@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tracking-number
 - tracking_number

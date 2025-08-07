@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accountancy
 - "financial reporting"
@@ -25,4 +25,21 @@ has_id_wikidata: Q4116214
 > Accounting has existed in various forms and levels of sophistication throughout human history. The double-entry accounting system in use today was developed in medieval Europe, particularly in Venice, and is usually attributed to the Italian mathematician and Franciscan friar Luca Pacioli.  Today, accounting is facilitated by accounting organizations such as standard-setters, accounting firms and professional bodies. Financial statements are usually audited by accounting firms, and are prepared in accordance with generally accepted accounting principles (GAAP). GAAP is set by various standard-setting organizations such as the Financial Accounting Standards Board (FASB) in the United States and the Financial Reporting Council in the United Kingdom. As of 2012, "all major economies" have plans to converge towards or adopt the International Financial Reporting Standards (IFRS).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Accounting)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Accounting](/_Standards/Society/Economics/Business/Business-Activity/Accounting.md) 
+
+### #is_/same_as :: [Accounting.public](/_public/Society/Economics/Business/Business-Activity/Accounting.public.md) 
+
+### #is_/same_as :: [Accounting.internal](/_internal/Society/Economics/Business/Business-Activity/Accounting.internal.md) 
+
+### #is_/same_as :: [Accounting.protect](/_protect/Society/Economics/Business/Business-Activity/Accounting.protect.md) 
+
+### #is_/same_as :: [Accounting.private](/_private/Society/Economics/Business/Business-Activity/Accounting.private.md) 
+
+### #is_/same_as :: [Accounting.personal](/_personal/Society/Economics/Business/Business-Activity/Accounting.personal.md) 
+
+### #is_/same_as :: [Accounting.secret](/_secret/Society/Economics/Business/Business-Activity/Accounting.secret.md)
 

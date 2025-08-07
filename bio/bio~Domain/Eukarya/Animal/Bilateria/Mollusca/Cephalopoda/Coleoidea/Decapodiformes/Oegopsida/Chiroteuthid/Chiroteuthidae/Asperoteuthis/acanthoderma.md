@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Asperoteuthis acanthoderma"
 ---
 
@@ -126,7 +126,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[acanthoderma](acanthoderma.md)) 
+### #is_/same_as :: [acanthoderma](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.md) 
 
 ### #is_/same_as :: [acanthoderma.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tafea
 confidential: public

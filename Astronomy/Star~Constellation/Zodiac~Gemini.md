@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 3
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Gemini|Zodiac~Gemini]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Gemini.public|Zodiac~Gemini.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Gemini.internal|Zodiac~Gemini.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Gemini.protect|Zodiac~Gemini.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Gemini.private|Zodiac~Gemini.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Gemini.personal|Zodiac~Gemini.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Gemini.secret|Zodiac~Gemini.secret]] 
+
+### #is_/same_as :: [Zodiac~Gemini](/_Standards/Astronomy/Star~Constellation/Zodiac~Gemini.md) 
+
+### #is_/same_as :: [Zodiac~Gemini.public](/_public/Astronomy/Star~Constellation/Zodiac~Gemini.public.md) 
+
+### #is_/same_as :: [Zodiac~Gemini.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Gemini.internal.md) 
+
+### #is_/same_as :: [Zodiac~Gemini.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Gemini.protect.md) 
+
+### #is_/same_as :: [Zodiac~Gemini.private](/_private/Astronomy/Star~Constellation/Zodiac~Gemini.private.md) 
+
+### #is_/same_as :: [Zodiac~Gemini.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Gemini.personal.md) 
+
+### #is_/same_as :: [Zodiac~Gemini.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Gemini.secret.md)
+

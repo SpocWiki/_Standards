@@ -18,3 +18,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Lucasfilm)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lucasfilm](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.md) 
+
+### #is_/same_as :: [Lucasfilm.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.public.md) 
+
+### #is_/same_as :: [Lucasfilm.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.internal.md) 
+
+### #is_/same_as :: [Lucasfilm.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.protect.md) 
+
+### #is_/same_as :: [Lucasfilm.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.private.md) 
+
+### #is_/same_as :: [Lucasfilm.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.personal.md) 
+
+### #is_/same_as :: [Lucasfilm.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Lucasfilm.secret.md)
+

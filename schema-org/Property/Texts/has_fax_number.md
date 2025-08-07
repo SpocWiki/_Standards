@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fax-number
 - fax_number

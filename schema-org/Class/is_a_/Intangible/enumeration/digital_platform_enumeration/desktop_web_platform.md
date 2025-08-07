@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - desktop-web-platform
 - desktop_web_platform

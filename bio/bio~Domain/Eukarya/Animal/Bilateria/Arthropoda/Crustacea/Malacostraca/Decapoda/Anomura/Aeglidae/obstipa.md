@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla obstipa"
 ---
 
@@ -124,7 +124,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[obstipa](obstipa.md)) 
+### #is_/same_as :: [obstipa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.md) 
 
 ### #is_/same_as :: [obstipa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Beobachtungsstudie
 - "Observational study"

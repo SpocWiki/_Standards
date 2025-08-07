@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ratak_Chain
 confidential: public

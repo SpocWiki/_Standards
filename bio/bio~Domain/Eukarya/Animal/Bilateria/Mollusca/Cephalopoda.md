@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cephalopoda
 ---
 
@@ -61,7 +61,7 @@ Copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cephalopoda](Cephalopoda.md)) 
+### #is_/same_as :: [Cephalopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.md) 
 
 ### #is_/same_as :: [Cephalopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.public.md) 
 

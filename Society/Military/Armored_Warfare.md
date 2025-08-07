@@ -28,3 +28,20 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOSKA_BRONETANKOVIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Armoured%20warfare) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Armored_Warfare](/_Standards/Society/Military/Armored_Warfare.md) 
+
+### #is_/same_as :: [Armored_Warfare.public](/_public/Society/Military/Armored_Warfare.public.md) 
+
+### #is_/same_as :: [Armored_Warfare.internal](/_internal/Society/Military/Armored_Warfare.internal.md) 
+
+### #is_/same_as :: [Armored_Warfare.protect](/_protect/Society/Military/Armored_Warfare.protect.md) 
+
+### #is_/same_as :: [Armored_Warfare.private](/_private/Society/Military/Armored_Warfare.private.md) 
+
+### #is_/same_as :: [Armored_Warfare.personal](/_personal/Society/Military/Armored_Warfare.personal.md) 
+
+### #is_/same_as :: [Armored_Warfare.secret](/_secret/Society/Military/Armored_Warfare.secret.md)
+

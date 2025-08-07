@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - star_rating
 - star-rating

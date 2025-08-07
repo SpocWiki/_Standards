@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - menu-add-on
 - menu_add_on

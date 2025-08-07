@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-sleeve
 - wearable_measurement_sleeve

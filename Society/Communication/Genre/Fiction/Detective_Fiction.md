@@ -48,5 +48,19 @@ Knox's rules were influential in shaping the detective fiction genre,
 promoting a standard that many authors adhered to during the Golden Age. 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Detective_Fiction](/_Standards/Society/Communication/Genre/Fiction/Detective_Fiction.md) 
+
+### #is_/same_as :: [Detective_Fiction.public](/_public/Society/Communication/Genre/Fiction/Detective_Fiction.public.md) 
+
+### #is_/same_as :: [Detective_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Detective_Fiction.internal.md) 
+
+### #is_/same_as :: [Detective_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Detective_Fiction.protect.md) 
+
+### #is_/same_as :: [Detective_Fiction.private](/_private/Society/Communication/Genre/Fiction/Detective_Fiction.private.md) 
+
+### #is_/same_as :: [Detective_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Detective_Fiction.personal.md) 
+
+### #is_/same_as :: [Detective_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Detective_Fiction.secret.md)
 

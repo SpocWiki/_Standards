@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - action-status-type
 - action_status_type

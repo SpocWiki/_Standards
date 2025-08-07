@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comic-story
 - comic_story

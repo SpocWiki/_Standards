@@ -468,7 +468,7 @@ edit internet links
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ascomycota](Ascomycota.md)) 
+### #is_/same_as :: [Ascomycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota.md) 
 
 ### #is_/same_as :: [Ascomycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota.public.md) 
 

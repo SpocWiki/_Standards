@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mark Ruffalo"
 ---
@@ -28,4 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Ruffalo)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ruffalo,Mark](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.md) 
+
+### #is_/same_as :: [Ruffalo,Mark.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.public.md) 
+
+### #is_/same_as :: [Ruffalo,Mark.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.internal.md) 
+
+### #is_/same_as :: [Ruffalo,Mark.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.protect.md) 
+
+### #is_/same_as :: [Ruffalo,Mark.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.private.md) 
+
+### #is_/same_as :: [Ruffalo,Mark.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.personal.md) 
+
+### #is_/same_as :: [Ruffalo,Mark.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Ruffalo,Mark.secret.md)
 

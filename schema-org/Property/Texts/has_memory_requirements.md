@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - memory-requirements
 - memory_requirements

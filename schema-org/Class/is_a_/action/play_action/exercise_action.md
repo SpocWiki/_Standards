@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exercise-action
 - exercise_action

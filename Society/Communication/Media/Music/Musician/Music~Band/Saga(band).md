@@ -21,8 +21,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Saga%20(band))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Saga(band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).md) 
 
+### #is_/same_as :: [Saga(band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).public.md) 
 
+### #is_/same_as :: [Saga(band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).internal.md) 
 
+### #is_/same_as :: [Saga(band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).protect.md) 
+
+### #is_/same_as :: [Saga(band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).private.md) 
+
+### #is_/same_as :: [Saga(band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).personal.md) 
+
+### #is_/same_as :: [Saga(band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Saga(band).secret.md)
 

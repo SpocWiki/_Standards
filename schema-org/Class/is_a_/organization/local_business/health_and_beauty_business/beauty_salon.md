@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - beauty-salon
 - beauty_salon

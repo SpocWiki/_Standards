@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Obesity
 contributing_factor_of: '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
 described_by_source:

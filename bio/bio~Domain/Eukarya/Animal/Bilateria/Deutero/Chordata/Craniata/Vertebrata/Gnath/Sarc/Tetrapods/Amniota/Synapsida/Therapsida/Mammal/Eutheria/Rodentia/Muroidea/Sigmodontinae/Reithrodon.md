@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reithrodon
 ---
 
@@ -176,7 +176,7 @@ Copyright ::         © 1997 O. Pearson
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Reithrodon](Reithrodon.md)) 
+### #is_/same_as :: [Reithrodon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.md) 
 
 ### #is_/same_as :: [Reithrodon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Reithrodon.public.md) 
 

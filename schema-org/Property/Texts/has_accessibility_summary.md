@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accessibility-summary
 - accessibility_summary

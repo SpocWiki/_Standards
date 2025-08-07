@@ -36,4 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Slipknot%20(band))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Slipknot(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).md) 
+
+### #is_/same_as :: [Slipknot(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).public.md) 
+
+### #is_/same_as :: [Slipknot(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).internal.md) 
+
+### #is_/same_as :: [Slipknot(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).protect.md) 
+
+### #is_/same_as :: [Slipknot(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).private.md) 
+
+### #is_/same_as :: [Slipknot(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).personal.md) 
+
+### #is_/same_as :: [Slipknot(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Slipknot(Band).secret.md)
 

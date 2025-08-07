@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - altitude_meters
 - altitude

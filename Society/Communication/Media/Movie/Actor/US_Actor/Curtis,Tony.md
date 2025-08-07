@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tony Curtis"
 ---
@@ -39,4 +39,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Curtis)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curtis,Tony](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.md) 
+
+### #is_/same_as :: [Curtis,Tony.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.public.md) 
+
+### #is_/same_as :: [Curtis,Tony.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.internal.md) 
+
+### #is_/same_as :: [Curtis,Tony.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.protect.md) 
+
+### #is_/same_as :: [Curtis,Tony.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.private.md) 
+
+### #is_/same_as :: [Curtis,Tony.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.personal.md) 
+
+### #is_/same_as :: [Curtis,Tony.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.secret.md)
 

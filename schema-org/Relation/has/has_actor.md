@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - actor
 - has_actor

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sports-team
 - sports_team

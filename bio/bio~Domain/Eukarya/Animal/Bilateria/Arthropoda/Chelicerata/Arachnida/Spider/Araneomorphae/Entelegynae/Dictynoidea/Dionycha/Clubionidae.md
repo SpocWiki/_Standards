@@ -1,4 +1,4 @@
-﻿---
+---
 title: Clubionidae
 ---
 
@@ -68,7 +68,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Clubionidae](Clubionidae.md)) 
+### #is_/same_as :: [Clubionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Clubionidae.md) 
 
 ### #is_/same_as :: [Clubionidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Clubionidae.public.md) 
 

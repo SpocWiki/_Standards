@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - title-eidr
 - id_entertain_title

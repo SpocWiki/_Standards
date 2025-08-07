@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Vulpecula|Zodiac~Vulpecula]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Vulpecula.public|Zodiac~Vulpecula.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Vulpecula.internal|Zodiac~Vulpecula.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Vulpecula.protect|Zodiac~Vulpecula.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Vulpecula.private|Zodiac~Vulpecula.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Vulpecula.personal|Zodiac~Vulpecula.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Vulpecula.secret|Zodiac~Vulpecula.secret]] 
+
+### #is_/same_as :: [Zodiac~Vulpecula](/_Standards/Astronomy/Star~Constellation/Zodiac~Vulpecula.md) 
+
+### #is_/same_as :: [Zodiac~Vulpecula.public](/_public/Astronomy/Star~Constellation/Zodiac~Vulpecula.public.md) 
+
+### #is_/same_as :: [Zodiac~Vulpecula.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Vulpecula.internal.md) 
+
+### #is_/same_as :: [Zodiac~Vulpecula.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Vulpecula.protect.md) 
+
+### #is_/same_as :: [Zodiac~Vulpecula.private](/_private/Astronomy/Star~Constellation/Zodiac~Vulpecula.private.md) 
+
+### #is_/same_as :: [Zodiac~Vulpecula.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Vulpecula.personal.md) 
+
+### #is_/same_as :: [Zodiac~Vulpecula.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Vulpecula.secret.md)
+

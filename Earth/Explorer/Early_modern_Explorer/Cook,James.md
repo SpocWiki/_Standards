@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Cook"
 archives_at: '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - applicant-location-requirements
 - applicant_location_requirements

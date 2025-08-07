@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ticket-number
 - id_ticket

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Labyrinthulomycetes
 ---
 
@@ -36,7 +36,7 @@ title: Labyrinthulomycetes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Labyrinthulomycetes](Labyrinthulomycetes.md)) 
+### #is_/same_as :: [Labyrinthulomycetes](/_Standards/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.md) 
 
 ### #is_/same_as :: [Labyrinthulomycetes.public](/_public/bio/bio~Domain/Eukarya/Stramenopiles/Labyrinthulomycetes.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - occupational-credential-awarded
 - occupational_credential_awarded

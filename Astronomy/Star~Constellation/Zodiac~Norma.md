@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Norma|Zodiac~Norma]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Norma.public|Zodiac~Norma.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Norma.internal|Zodiac~Norma.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Norma.protect|Zodiac~Norma.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Norma.private|Zodiac~Norma.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Norma.personal|Zodiac~Norma.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Norma.secret|Zodiac~Norma.secret]] 
+
+### #is_/same_as :: [Zodiac~Norma](/_Standards/Astronomy/Star~Constellation/Zodiac~Norma.md) 
+
+### #is_/same_as :: [Zodiac~Norma.public](/_public/Astronomy/Star~Constellation/Zodiac~Norma.public.md) 
+
+### #is_/same_as :: [Zodiac~Norma.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Norma.internal.md) 
+
+### #is_/same_as :: [Zodiac~Norma.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Norma.protect.md) 
+
+### #is_/same_as :: [Zodiac~Norma.private](/_private/Astronomy/Star~Constellation/Zodiac~Norma.private.md) 
+
+### #is_/same_as :: [Zodiac~Norma.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Norma.personal.md) 
+
+### #is_/same_as :: [Zodiac~Norma.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Norma.secret.md)
+

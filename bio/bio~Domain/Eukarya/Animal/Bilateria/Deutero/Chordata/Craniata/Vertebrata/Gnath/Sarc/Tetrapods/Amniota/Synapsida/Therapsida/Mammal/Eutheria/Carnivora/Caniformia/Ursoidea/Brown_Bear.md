@@ -23,3 +23,20 @@ has_id_wikidata: Q36341
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brown%20bear) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brown_Bear](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.md) 
+
+### #is_/same_as :: [Brown_Bear.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.public.md) 
+
+### #is_/same_as :: [Brown_Bear.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.internal.md) 
+
+### #is_/same_as :: [Brown_Bear.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.protect.md) 
+
+### #is_/same_as :: [Brown_Bear.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.private.md) 
+
+### #is_/same_as :: [Brown_Bear.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.personal.md) 
+
+### #is_/same_as :: [Brown_Bear.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora/Caniformia/Ursoidea/Brown_Bear.secret.md)
+

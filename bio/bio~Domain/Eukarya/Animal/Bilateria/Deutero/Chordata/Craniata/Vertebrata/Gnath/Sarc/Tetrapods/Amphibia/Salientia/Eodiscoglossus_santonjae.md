@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Eodiscoglossus santonjae"
 ---
 
@@ -70,17 +70,17 @@ relationships.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eodiscoglossus_santonjae](Eodiscoglossus_santonjae.md)) 
+### #is_/same_as :: [Eodiscoglossus_santonjae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.md) 
 
-### #is_/same_as :: [Eodiscoglossus_santonjae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Eodiscoglossus_santonjae.public.md) 
+### #is_/same_as :: [Eodiscoglossus_santonjae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.public.md) 
 
-### #is_/same_as :: [Eodiscoglossus_santonjae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Eodiscoglossus_santonjae.internal.md) 
+### #is_/same_as :: [Eodiscoglossus_santonjae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.internal.md) 
 
-### #is_/same_as :: [Eodiscoglossus_santonjae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Eodiscoglossus_santonjae.protect.md) 
+### #is_/same_as :: [Eodiscoglossus_santonjae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.protect.md) 
 
-### #is_/same_as :: [Eodiscoglossus_santonjae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Eodiscoglossus_santonjae.private.md) 
+### #is_/same_as :: [Eodiscoglossus_santonjae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.private.md) 
 
-### #is_/same_as :: [Eodiscoglossus_santonjae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Eodiscoglossus_santonjae.personal.md) 
+### #is_/same_as :: [Eodiscoglossus_santonjae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.personal.md) 
 
-### #is_/same_as :: [Eodiscoglossus_santonjae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Eodiscoglossus_santonjae.secret.md)
+### #is_/same_as :: [Eodiscoglossus_santonjae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Eodiscoglossus_santonjae.secret.md)
 

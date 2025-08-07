@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gesneriaceae
 ---
 
@@ -151,17 +151,17 @@ Copyright ::            © 1998 [James F. Smith](mailto:jfsmith@boisestate.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gesneriaceae](Gesneriaceae.md)) 
+### #is_/same_as :: [Gesneriaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.md) 
 
-### #is_/same_as :: [Gesneriaceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.public.md) 
+### #is_/same_as :: [Gesneriaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.public.md) 
 
-### #is_/same_as :: [Gesneriaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.internal.md) 
+### #is_/same_as :: [Gesneriaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.internal.md) 
 
-### #is_/same_as :: [Gesneriaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.protect.md) 
+### #is_/same_as :: [Gesneriaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.protect.md) 
 
-### #is_/same_as :: [Gesneriaceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.private.md) 
+### #is_/same_as :: [Gesneriaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.private.md) 
 
-### #is_/same_as :: [Gesneriaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.personal.md) 
+### #is_/same_as :: [Gesneriaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.personal.md) 
 
-### #is_/same_as :: [Gesneriaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.secret.md)
+### #is_/same_as :: [Gesneriaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.secret.md)
 

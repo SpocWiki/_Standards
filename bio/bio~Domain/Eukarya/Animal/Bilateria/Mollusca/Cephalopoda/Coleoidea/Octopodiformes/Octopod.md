@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Octopoda
 - Octopod
@@ -125,7 +125,7 @@ Copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7E
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Octopod](Octopod.md)) 
+### #is_/same_as :: [Octopod](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod.md) 
 
 ### #is_/same_as :: [Octopod.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod.public.md) 
 

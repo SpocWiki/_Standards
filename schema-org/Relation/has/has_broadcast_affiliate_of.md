@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-affiliate-of
 - broadcast_affiliate_of

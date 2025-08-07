@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Home Economics"
 - "domestic science"

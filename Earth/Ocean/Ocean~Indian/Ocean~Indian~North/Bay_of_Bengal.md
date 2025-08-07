@@ -100,3 +100,20 @@ Commons_category: Bay of Bengal
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bay%20of%20Bengal) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bay_of_Bengal](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.md) 
+
+### #is_/same_as :: [Bay_of_Bengal.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.public.md) 
+
+### #is_/same_as :: [Bay_of_Bengal.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.internal.md) 
+
+### #is_/same_as :: [Bay_of_Bengal.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.protect.md) 
+
+### #is_/same_as :: [Bay_of_Bengal.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.private.md) 
+
+### #is_/same_as :: [Bay_of_Bengal.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.personal.md) 
+
+### #is_/same_as :: [Bay_of_Bengal.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.secret.md)
+

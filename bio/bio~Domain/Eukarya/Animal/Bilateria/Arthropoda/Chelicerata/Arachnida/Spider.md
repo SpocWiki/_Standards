@@ -243,7 +243,7 @@ Copyright ::            © 2000 [John White](mailto:reptiles@erols.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spider](Spider.md)) 
+### #is_/same_as :: [Spider](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.md) 
 
 ### #is_/same_as :: [Spider.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.public.md) 
 

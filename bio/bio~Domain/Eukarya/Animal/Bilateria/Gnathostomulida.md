@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gnathostomulida
 ---
 
@@ -66,7 +66,7 @@ Copyright ::   © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gnathostomulida](Gnathostomulida.md)) 
+### #is_/same_as :: [Gnathostomulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.md) 
 
 ### #is_/same_as :: [Gnathostomulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Gnathostomulida.public.md) 
 

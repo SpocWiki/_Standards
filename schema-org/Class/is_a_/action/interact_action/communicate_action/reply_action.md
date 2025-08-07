@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reply-action
 - reply_action

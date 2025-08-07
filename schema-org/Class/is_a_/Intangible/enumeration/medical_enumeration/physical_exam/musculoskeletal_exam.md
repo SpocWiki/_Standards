@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - musculoskeletal-exam
 - musculoskeletal_exam

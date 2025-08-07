@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exchange-rate-specification
 - exchange_rate_specification

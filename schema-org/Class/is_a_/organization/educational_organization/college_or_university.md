@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - college-or-university
 - college_or_university

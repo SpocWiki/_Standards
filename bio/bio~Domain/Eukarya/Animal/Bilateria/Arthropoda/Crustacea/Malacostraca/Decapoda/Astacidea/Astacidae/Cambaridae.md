@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cambaridae
 ---
 
@@ -67,7 +67,7 @@ Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cambaridae](Cambaridae.md)) 
+### #is_/same_as :: [Cambaridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.md) 
 
 ### #is_/same_as :: [Cambaridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.public.md) 
 

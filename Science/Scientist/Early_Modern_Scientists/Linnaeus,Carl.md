@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Medicine,913404]]'
 aliases:
 - "Carl Linnaeus"

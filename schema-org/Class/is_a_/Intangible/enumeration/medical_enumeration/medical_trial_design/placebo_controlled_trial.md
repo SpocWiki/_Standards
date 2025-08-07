@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - placebo-controlled-trial
 - placebo_controlled_trial

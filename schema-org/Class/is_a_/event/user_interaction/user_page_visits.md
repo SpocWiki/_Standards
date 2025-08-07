@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-page-visits
 - user_page_visits

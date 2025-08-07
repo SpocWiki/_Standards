@@ -64,3 +64,21 @@ aliases:
 > In the later writings of the Roman poet Ovid, Athena was said to have competed against the mortal Arachne in a weaving competition, afterward transforming Arachne into the first spider, and to have transformed Medusa into the Gorgon after witnessing the young woman being raped by Poseidon in the goddess's temple. Ovid also says that Athena saved the mortal maiden Corone from the same god by transforming her into a crow. Since the Renaissance, Athena has become an international symbol of wisdom, the arts, and classical learning. Western artists and allegorists have often used Athena as a symbol of freedom and democracy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Athena)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Athena](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.md) 
+
+### #is_/same_as :: [Athena.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.public.md) 
+
+### #is_/same_as :: [Athena.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.internal.md) 
+
+### #is_/same_as :: [Athena.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.protect.md) 
+
+### #is_/same_as :: [Athena.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.private.md) 
+
+### #is_/same_as :: [Athena.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.personal.md) 
+
+### #is_/same_as :: [Athena.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.secret.md)
+

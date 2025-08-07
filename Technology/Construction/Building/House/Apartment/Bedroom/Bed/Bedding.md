@@ -47,3 +47,20 @@ P8189: "987007282402205171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bedding) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bedding](/_Standards/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.md) 
+
+### #is_/same_as :: [Bedding.public](/_public/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.public.md) 
+
+### #is_/same_as :: [Bedding.internal](/_internal/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.internal.md) 
+
+### #is_/same_as :: [Bedding.protect](/_protect/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.protect.md) 
+
+### #is_/same_as :: [Bedding.private](/_private/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.private.md) 
+
+### #is_/same_as :: [Bedding.personal](/_personal/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.personal.md) 
+
+### #is_/same_as :: [Bedding.secret](/_secret/Technology/Construction/Building/House/Apartment/Bedroom/Bed/Bedding.secret.md)
+

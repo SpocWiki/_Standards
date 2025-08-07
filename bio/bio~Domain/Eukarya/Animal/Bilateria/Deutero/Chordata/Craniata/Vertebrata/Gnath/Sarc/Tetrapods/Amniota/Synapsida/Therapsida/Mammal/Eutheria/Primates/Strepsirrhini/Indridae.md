@@ -1,4 +1,4 @@
-﻿---
+---
 title: Indridae
 ---
 
@@ -56,7 +56,7 @@ Copyright ::           © 2000 [California Academy of Sciences](http://www.calac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Indridae](Indridae.md)) 
+### #is_/same_as :: [Indridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Indridae.md) 
 
 ### #is_/same_as :: [Indridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Indridae.public.md) 
 

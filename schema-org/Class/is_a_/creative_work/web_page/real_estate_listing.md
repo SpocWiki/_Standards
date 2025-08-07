@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - real-estate-listing
 - real_estate_listing

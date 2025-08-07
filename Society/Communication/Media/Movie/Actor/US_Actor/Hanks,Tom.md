@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tom Hanks"
 - "Thomas Jeffrey Hanks"
@@ -52,4 +52,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tom%20Hanks)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hanks,Tom](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.md) 
+
+### #is_/same_as :: [Hanks,Tom.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.public.md) 
+
+### #is_/same_as :: [Hanks,Tom.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.internal.md) 
+
+### #is_/same_as :: [Hanks,Tom.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.protect.md) 
+
+### #is_/same_as :: [Hanks,Tom.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.private.md) 
+
+### #is_/same_as :: [Hanks,Tom.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.personal.md) 
+
+### #is_/same_as :: [Hanks,Tom.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Hanks,Tom.secret.md)
 

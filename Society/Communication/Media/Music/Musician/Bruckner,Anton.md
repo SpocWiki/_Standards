@@ -116,3 +116,20 @@ IPI_name_number: "00004382514"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anton%20Bruckner) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bruckner,Anton](/_Standards/Society/Communication/Media/Music/Musician/Bruckner,Anton.md) 
+
+### #is_/same_as :: [Bruckner,Anton.public](/_public/Society/Communication/Media/Music/Musician/Bruckner,Anton.public.md) 
+
+### #is_/same_as :: [Bruckner,Anton.internal](/_internal/Society/Communication/Media/Music/Musician/Bruckner,Anton.internal.md) 
+
+### #is_/same_as :: [Bruckner,Anton.protect](/_protect/Society/Communication/Media/Music/Musician/Bruckner,Anton.protect.md) 
+
+### #is_/same_as :: [Bruckner,Anton.private](/_private/Society/Communication/Media/Music/Musician/Bruckner,Anton.private.md) 
+
+### #is_/same_as :: [Bruckner,Anton.personal](/_personal/Society/Communication/Media/Music/Musician/Bruckner,Anton.personal.md) 
+
+### #is_/same_as :: [Bruckner,Anton.secret](/_secret/Society/Communication/Media/Music/Musician/Bruckner,Anton.secret.md)
+

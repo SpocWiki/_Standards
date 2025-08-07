@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - application-start-date
 - application_start_date

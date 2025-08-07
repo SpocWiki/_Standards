@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q189458
 ---
 
@@ -19,4 +19,19 @@ has_id_wikidata: Q189458
 > [Wikipedia](https://en.wikipedia.org/wiki/Academic%20art) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Academic_Art](/_Standards/Society/Communication/Art/Academic_Art.md) 
+
+### #is_/same_as :: [Academic_Art.public](/_public/Society/Communication/Art/Academic_Art.public.md) 
+
+### #is_/same_as :: [Academic_Art.internal](/_internal/Society/Communication/Art/Academic_Art.internal.md) 
+
+### #is_/same_as :: [Academic_Art.protect](/_protect/Society/Communication/Art/Academic_Art.protect.md) 
+
+### #is_/same_as :: [Academic_Art.private](/_private/Society/Communication/Art/Academic_Art.private.md) 
+
+### #is_/same_as :: [Academic_Art.personal](/_personal/Society/Communication/Art/Academic_Art.personal.md) 
+
+### #is_/same_as :: [Academic_Art.secret](/_secret/Society/Communication/Art/Academic_Art.secret.md)
 

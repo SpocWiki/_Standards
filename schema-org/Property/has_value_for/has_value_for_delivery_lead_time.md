@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery_lead_time
 - delivery-lead-time

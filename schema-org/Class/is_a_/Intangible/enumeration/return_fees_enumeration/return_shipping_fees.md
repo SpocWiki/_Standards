@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-shipping-fees
 - return_shipping_fees

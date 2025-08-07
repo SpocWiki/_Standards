@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-charge-specification
 - delivery_charge_specification

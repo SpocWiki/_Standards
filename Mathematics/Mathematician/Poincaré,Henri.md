@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Henri Poincaré"
 has_id_wikidata: Q81082

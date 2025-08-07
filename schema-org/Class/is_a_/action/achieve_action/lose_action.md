@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lose-action
 - lose_action

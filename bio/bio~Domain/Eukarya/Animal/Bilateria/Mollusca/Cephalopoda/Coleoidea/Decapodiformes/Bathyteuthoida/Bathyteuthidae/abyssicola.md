@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bathyteuthis abyssicola"
 ---
 
@@ -152,7 +152,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[abyssicola](abyssicola.md)) 
+### #is_/same_as :: [abyssicola](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/abyssicola.md) 
 
 ### #is_/same_as :: [abyssicola.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/abyssicola.public.md) 
 

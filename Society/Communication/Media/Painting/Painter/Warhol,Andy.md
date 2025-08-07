@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Andy Warhol"
 - "Andrew Warhola Jr"

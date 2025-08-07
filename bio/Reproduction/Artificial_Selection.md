@@ -22,3 +22,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Selective%20breeding) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Artificial_Selection](/_Standards/bio/Reproduction/Artificial_Selection.md) 
+
+### #is_/same_as :: [Artificial_Selection.public](/_public/bio/Reproduction/Artificial_Selection.public.md) 
+
+### #is_/same_as :: [Artificial_Selection.internal](/_internal/bio/Reproduction/Artificial_Selection.internal.md) 
+
+### #is_/same_as :: [Artificial_Selection.protect](/_protect/bio/Reproduction/Artificial_Selection.protect.md) 
+
+### #is_/same_as :: [Artificial_Selection.private](/_private/bio/Reproduction/Artificial_Selection.private.md) 
+
+### #is_/same_as :: [Artificial_Selection.personal](/_personal/bio/Reproduction/Artificial_Selection.personal.md) 
+
+### #is_/same_as :: [Artificial_Selection.secret](/_secret/bio/Reproduction/Artificial_Selection.secret.md)
+

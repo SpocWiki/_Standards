@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - new-condition
 - new_condition

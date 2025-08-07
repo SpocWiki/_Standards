@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - single-player
 - single_player

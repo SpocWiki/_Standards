@@ -1,4 +1,4 @@
-﻿---
+---
 title: Titanattus
 ---
 
@@ -59,7 +59,7 @@ Proszynski\'s Catalogue entry for
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Titanattus](Titanattus.md)) 
+### #is_/same_as :: [Titanattus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae/Titanattus.md) 
 
 ### #is_/same_as :: [Titanattus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae/Titanattus.public.md) 
 

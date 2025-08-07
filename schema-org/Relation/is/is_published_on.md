@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - published-on
 - published_on

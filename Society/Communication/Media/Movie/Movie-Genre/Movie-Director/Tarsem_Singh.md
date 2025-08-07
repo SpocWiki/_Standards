@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tarsem Singh"
 ---
@@ -23,4 +23,19 @@ He has directed commercials for brands such as [Nike](https://en.wikipedia.org/
 Tarsem's feature film directorial debut was _[The Cell](https://en.wikipedia.org/wiki/The_Cell_(film) "The Cell (film)")_ (2000), starring [Jennifer Lopez](https://en.wikipedia.org/wiki/Jennifer_Lopez "Jennifer Lopez").
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tarsem_Singh](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.md) 
+
+### #is_/same_as :: [Tarsem_Singh.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.public.md) 
+
+### #is_/same_as :: [Tarsem_Singh.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.internal.md) 
+
+### #is_/same_as :: [Tarsem_Singh.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.protect.md) 
+
+### #is_/same_as :: [Tarsem_Singh.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.private.md) 
+
+### #is_/same_as :: [Tarsem_Singh.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.personal.md) 
+
+### #is_/same_as :: [Tarsem_Singh.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Tarsem_Singh.secret.md)
 

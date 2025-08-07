@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Words
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from:

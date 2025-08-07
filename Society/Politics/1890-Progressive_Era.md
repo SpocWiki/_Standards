@@ -27,3 +27,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Progressive%20Era) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1890-Progressive_Era](/_Standards/Society/Politics/1890-Progressive_Era.md) 
+
+### #is_/same_as :: [1890-Progressive_Era.public](/_public/Society/Politics/1890-Progressive_Era.public.md) 
+
+### #is_/same_as :: [1890-Progressive_Era.internal](/_internal/Society/Politics/1890-Progressive_Era.internal.md) 
+
+### #is_/same_as :: [1890-Progressive_Era.protect](/_protect/Society/Politics/1890-Progressive_Era.protect.md) 
+
+### #is_/same_as :: [1890-Progressive_Era.private](/_private/Society/Politics/1890-Progressive_Era.private.md) 
+
+### #is_/same_as :: [1890-Progressive_Era.personal](/_personal/Society/Politics/1890-Progressive_Era.personal.md) 
+
+### #is_/same_as :: [1890-Progressive_Era.secret](/_secret/Society/Politics/1890-Progressive_Era.secret.md)
+

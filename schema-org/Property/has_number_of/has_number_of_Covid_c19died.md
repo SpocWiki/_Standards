@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_c19died
 - cvd-num-c19died

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microchiroptera
 ---
 
@@ -275,7 +275,7 @@ Copyright ::         © 1997 Nancy Simmons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Microchiroptera](Microchiroptera.md)) 
+### #is_/same_as :: [Microchiroptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera.md) 
 
 ### #is_/same_as :: [Microchiroptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera.public.md) 
 

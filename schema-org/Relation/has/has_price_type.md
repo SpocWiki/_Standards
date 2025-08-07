@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-type
 - price_type

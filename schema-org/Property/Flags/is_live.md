@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - live-broadcast
 - live

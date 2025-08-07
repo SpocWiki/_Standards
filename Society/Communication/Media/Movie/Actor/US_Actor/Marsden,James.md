@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Paul Marsden"
 - "James Marsden"
@@ -35,7 +35,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Marsden)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Marsden,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.md) 
 
+### #is_/same_as :: [Marsden,James.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.public.md) 
 
+### #is_/same_as :: [Marsden,James.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.internal.md) 
+
+### #is_/same_as :: [Marsden,James.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.protect.md) 
+
+### #is_/same_as :: [Marsden,James.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.private.md) 
+
+### #is_/same_as :: [Marsden,James.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.personal.md) 
+
+### #is_/same_as :: [Marsden,James.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.secret.md)
 

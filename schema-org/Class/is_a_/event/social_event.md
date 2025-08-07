@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - social-event
 - social_event

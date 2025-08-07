@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Octans|Zodiac~Octans]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Octans.public|Zodiac~Octans.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Octans.internal|Zodiac~Octans.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Octans.protect|Zodiac~Octans.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Octans.private|Zodiac~Octans.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Octans.personal|Zodiac~Octans.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Octans.secret|Zodiac~Octans.secret]] 
+
+### #is_/same_as :: [Zodiac~Octans](/_Standards/Astronomy/Star~Constellation/Zodiac~Octans.md) 
+
+### #is_/same_as :: [Zodiac~Octans.public](/_public/Astronomy/Star~Constellation/Zodiac~Octans.public.md) 
+
+### #is_/same_as :: [Zodiac~Octans.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Octans.internal.md) 
+
+### #is_/same_as :: [Zodiac~Octans.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Octans.protect.md) 
+
+### #is_/same_as :: [Zodiac~Octans.private](/_private/Astronomy/Star~Constellation/Zodiac~Octans.private.md) 
+
+### #is_/same_as :: [Zodiac~Octans.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Octans.personal.md) 
+
+### #is_/same_as :: [Zodiac~Octans.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Octans.secret.md)
+

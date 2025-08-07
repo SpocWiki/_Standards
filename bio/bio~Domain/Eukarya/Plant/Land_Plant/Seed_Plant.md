@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Spermatopsida
 - "Seed Plant"
@@ -87,17 +87,17 @@ Copyright ::            © University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Seed_Plant](Seed_Plant.md)) 
+### #is_/same_as :: [Seed_Plant](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.md) 
 
-### #is_/same_as :: [Seed_Plant.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant.public.md) 
+### #is_/same_as :: [Seed_Plant.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.public.md) 
 
-### #is_/same_as :: [Seed_Plant.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant.internal.md) 
+### #is_/same_as :: [Seed_Plant.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.internal.md) 
 
-### #is_/same_as :: [Seed_Plant.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant.protect.md) 
+### #is_/same_as :: [Seed_Plant.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.protect.md) 
 
-### #is_/same_as :: [Seed_Plant.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant.private.md) 
+### #is_/same_as :: [Seed_Plant.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.private.md) 
 
-### #is_/same_as :: [Seed_Plant.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant.personal.md) 
+### #is_/same_as :: [Seed_Plant.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.personal.md) 
 
-### #is_/same_as :: [Seed_Plant.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant.secret.md)
+### #is_/same_as :: [Seed_Plant.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant.secret.md)
 

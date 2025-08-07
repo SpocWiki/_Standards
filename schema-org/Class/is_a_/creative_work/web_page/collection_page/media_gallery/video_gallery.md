@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-gallery
 - video_gallery

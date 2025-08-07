@@ -52,11 +52,20 @@ P8189: "987007551838705171"
 
 #is_/same_as :: [[../../WikiData/WD~Andromeda,9256|WD~Andromeda,9256]]
 
+
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Andromeda|Zodiac~Andromeda]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Andromeda.public|Zodiac~Andromeda.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Andromeda.internal|Zodiac~Andromeda.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Andromeda.protect|Zodiac~Andromeda.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Andromeda.private|Zodiac~Andromeda.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Andromeda.personal|Zodiac~Andromeda.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Andromeda.secret|Zodiac~Andromeda.secret]] 
+
+### #is_/same_as :: [Zodiac~Andromeda](/_Standards/Astronomy/Star~Constellation/Zodiac~Andromeda.md) 
+
+### #is_/same_as :: [Zodiac~Andromeda.public](/_public/Astronomy/Star~Constellation/Zodiac~Andromeda.public.md) 
+
+### #is_/same_as :: [Zodiac~Andromeda.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Andromeda.internal.md) 
+
+### #is_/same_as :: [Zodiac~Andromeda.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Andromeda.protect.md) 
+
+### #is_/same_as :: [Zodiac~Andromeda.private](/_private/Astronomy/Star~Constellation/Zodiac~Andromeda.private.md) 
+
+### #is_/same_as :: [Zodiac~Andromeda.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Andromeda.personal.md) 
+
+### #is_/same_as :: [Zodiac~Andromeda.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Andromeda.secret.md)
+

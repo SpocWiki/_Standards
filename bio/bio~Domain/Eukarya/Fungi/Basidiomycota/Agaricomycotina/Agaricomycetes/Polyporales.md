@@ -1,4 +1,4 @@
-﻿---
+---
 title: Polyporales
 ---
 
@@ -33,7 +33,7 @@ Containing group:[Agaricomycetes](../Agaricomycetes.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Polyporales](Polyporales.md)) 
+### #is_/same_as :: [Polyporales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.md) 
 
 ### #is_/same_as :: [Polyporales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Polyporales.public.md) 
 

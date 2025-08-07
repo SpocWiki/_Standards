@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Vampyroteuthis infernalis"
 ---
 
@@ -264,7 +264,7 @@ Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Vampyromorpha](Vampyromorpha.md)) 
+### #is_/same_as :: [Vampyromorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.md) 
 
 ### #is_/same_as :: [Vampyromorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Vampyromorpha.public.md) 
 

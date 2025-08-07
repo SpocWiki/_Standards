@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - loan-or-credit
 - loan_or_credit

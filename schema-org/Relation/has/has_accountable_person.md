@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accountable-person
 - accountable_person

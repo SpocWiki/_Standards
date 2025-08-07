@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hospital-affiliation
 - hospital_affiliation

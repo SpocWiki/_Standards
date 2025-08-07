@@ -1,4 +1,4 @@
-﻿---
+---
 title: Onychoteuthidae
 ---
 
@@ -258,7 +258,7 @@ robusta* (Verrill, 1881). Bull. Mar. Sci. 49:137-147.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Onychoteuthidae](Onychoteuthidae.md)) 
+### #is_/same_as :: [Onychoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.md) 
 
 ### #is_/same_as :: [Onychoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.public.md) 
 

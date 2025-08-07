@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - theater-group
 - theater_group

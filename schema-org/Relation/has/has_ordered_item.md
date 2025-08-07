@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ordered-item
 - ordered_item

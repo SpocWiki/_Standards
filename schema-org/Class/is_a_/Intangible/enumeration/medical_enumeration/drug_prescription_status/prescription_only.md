@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prescription-only
 - prescription_only

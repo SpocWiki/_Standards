@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo-shape
 - geo_shape

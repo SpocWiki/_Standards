@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cirrothauma
 ---
 
@@ -116,7 +116,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cirrothauma](Cirrothauma.md)) 
+### #is_/same_as :: [Cirrothauma](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae/Cirrothauma.md) 
 
 ### #is_/same_as :: [Cirrothauma.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae/Cirrothauma.public.md) 
 

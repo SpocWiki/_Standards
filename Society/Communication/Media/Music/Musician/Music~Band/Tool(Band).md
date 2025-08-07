@@ -31,5 +31,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Tool%20(band))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Tool(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).md) 
+
+### #is_/same_as :: [Tool(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).public.md) 
+
+### #is_/same_as :: [Tool(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).internal.md) 
+
+### #is_/same_as :: [Tool(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).protect.md) 
+
+### #is_/same_as :: [Tool(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).private.md) 
+
+### #is_/same_as :: [Tool(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).personal.md) 
+
+### #is_/same_as :: [Tool(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Tool(Band).secret.md)
 

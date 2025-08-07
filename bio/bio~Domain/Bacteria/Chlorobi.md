@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chlorobi
 title: Chlorobi

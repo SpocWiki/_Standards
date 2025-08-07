@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-program-mode
 - educational_program_mode

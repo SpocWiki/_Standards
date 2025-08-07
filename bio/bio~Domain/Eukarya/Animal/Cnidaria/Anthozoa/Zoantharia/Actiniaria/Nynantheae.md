@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nynantheae
 ---
 
@@ -85,7 +85,7 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nynantheae](Nynantheae.md)) 
+### #is_/same_as :: [Nynantheae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.md) 
 
 ### #is_/same_as :: [Nynantheae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.public.md) 
 

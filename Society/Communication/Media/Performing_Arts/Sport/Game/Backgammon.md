@@ -43,3 +43,20 @@ P8189: "987007284650805171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Backgammon) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Backgammon](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.md) 
+
+### #is_/same_as :: [Backgammon.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.public.md) 
+
+### #is_/same_as :: [Backgammon.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.internal.md) 
+
+### #is_/same_as :: [Backgammon.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.protect.md) 
+
+### #is_/same_as :: [Backgammon.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.private.md) 
+
+### #is_/same_as :: [Backgammon.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.personal.md) 
+
+### #is_/same_as :: [Backgammon.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Game/Backgammon.secret.md)
+

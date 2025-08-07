@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hvac-business
 - hvac_business

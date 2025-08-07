@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~cellulose_exposure,21173544]]'
 CAS_Registry_Number: 9004-34-6
 chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Cellulose%20Sessel.svg"

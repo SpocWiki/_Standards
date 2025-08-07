@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Adults
 female_form_of_label: доросла
 has_characteristic: '[[_Standards/WikiData/WD~adulthood,378915]]'
@@ -53,4 +53,21 @@ UMLS_CUI: C0001675
 > without requiring a demonstration of physical maturity or preparation for adulthood.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Adult) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Adult](/_Standards/bio/Medicine/Health/Adult.md) 
+
+### #is_/same_as :: [Adult.public](/_public/bio/Medicine/Health/Adult.public.md) 
+
+### #is_/same_as :: [Adult.internal](/_internal/bio/Medicine/Health/Adult.internal.md) 
+
+### #is_/same_as :: [Adult.protect](/_protect/bio/Medicine/Health/Adult.protect.md) 
+
+### #is_/same_as :: [Adult.private](/_private/bio/Medicine/Health/Adult.private.md) 
+
+### #is_/same_as :: [Adult.personal](/_personal/bio/Medicine/Health/Adult.personal.md) 
+
+### #is_/same_as :: [Adult.secret](/_secret/bio/Medicine/Health/Adult.secret.md)
 

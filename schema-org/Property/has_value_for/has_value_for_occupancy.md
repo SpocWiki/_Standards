@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - occupancy
 - occupancy

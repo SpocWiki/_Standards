@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg"
 Colon_Classification: C5
 Commons_category: Light

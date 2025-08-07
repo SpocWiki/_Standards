@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-framework
 - educational_framework

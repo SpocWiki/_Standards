@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - country-of-assembly
 - country_of_assembly

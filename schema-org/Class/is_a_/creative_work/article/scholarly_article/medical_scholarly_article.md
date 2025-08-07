@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-scholarly-article
 - medical_scholarly_article

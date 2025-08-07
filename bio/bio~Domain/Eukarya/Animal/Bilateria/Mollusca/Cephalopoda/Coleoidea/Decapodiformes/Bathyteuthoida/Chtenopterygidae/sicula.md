@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chtenopteryx sicula"
 ---
 
@@ -187,7 +187,7 @@ type repositories of Recent Cephalopoda. Smithson. Contr. Zool., No. 586
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sicula](sicula.md)) 
+### #is_/same_as :: [sicula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.md) 
 
 ### #is_/same_as :: [sicula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sicula.public.md) 
 

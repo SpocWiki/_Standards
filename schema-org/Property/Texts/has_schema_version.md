@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - schema-version
 - schema_version

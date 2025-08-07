@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "World War I"
 - WWI

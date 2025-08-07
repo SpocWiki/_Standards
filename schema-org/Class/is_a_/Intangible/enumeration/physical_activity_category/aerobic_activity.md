@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - aerobic-activity
 - aerobic_activity

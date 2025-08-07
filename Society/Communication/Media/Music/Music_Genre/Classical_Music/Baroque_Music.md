@@ -35,3 +35,20 @@ P8189: "987007553190705171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Baroque%20music) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baroque_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.md) 
+
+### #is_/same_as :: [Baroque_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.public.md) 
+
+### #is_/same_as :: [Baroque_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.internal.md) 
+
+### #is_/same_as :: [Baroque_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.protect.md) 
+
+### #is_/same_as :: [Baroque_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.private.md) 
+
+### #is_/same_as :: [Baroque_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.personal.md) 
+
+### #is_/same_as :: [Baroque_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Baroque_Music.secret.md)
+

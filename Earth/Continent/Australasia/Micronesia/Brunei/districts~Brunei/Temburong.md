@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Temburong
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - control-action
 - control_action

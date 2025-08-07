@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kathryn Bigelow"
 - "Kathryn Ann Bigelow"
@@ -30,4 +30,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kathryn%20Bigelow) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bigelow,Kathryn](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.md) 
+
+### #is_/same_as :: [Bigelow,Kathryn.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.public.md) 
+
+### #is_/same_as :: [Bigelow,Kathryn.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.internal.md) 
+
+### #is_/same_as :: [Bigelow,Kathryn.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.protect.md) 
+
+### #is_/same_as :: [Bigelow,Kathryn.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.private.md) 
+
+### #is_/same_as :: [Bigelow,Kathryn.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.personal.md) 
+
+### #is_/same_as :: [Bigelow,Kathryn.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bigelow,Kathryn.secret.md)
 

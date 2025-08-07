@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interpreted-as-claim
 - interpreted_as_claim

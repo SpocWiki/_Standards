@@ -105,3 +105,20 @@ Krugosvet_article: istoriya/ATLANTIDA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atlantis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atlantis](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.md) 
+
+### #is_/same_as :: [Atlantis.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.public.md) 
+
+### #is_/same_as :: [Atlantis.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.internal.md) 
+
+### #is_/same_as :: [Atlantis.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.protect.md) 
+
+### #is_/same_as :: [Atlantis.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.private.md) 
+
+### #is_/same_as :: [Atlantis.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.personal.md) 
+
+### #is_/same_as :: [Atlantis.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlantis.secret.md)
+

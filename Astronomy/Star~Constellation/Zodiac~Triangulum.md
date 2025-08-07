@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Triangulum|Zodiac~Triangulum]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Triangulum.public|Zodiac~Triangulum.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Triangulum.internal|Zodiac~Triangulum.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Triangulum.protect|Zodiac~Triangulum.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Triangulum.private|Zodiac~Triangulum.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Triangulum.personal|Zodiac~Triangulum.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Triangulum.secret|Zodiac~Triangulum.secret]] 
+
+### #is_/same_as :: [Zodiac~Triangulum](/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum.public](/_public/Astronomy/Star~Constellation/Zodiac~Triangulum.public.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum.internal.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum.protect.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum.private](/_private/Astronomy/Star~Constellation/Zodiac~Triangulum.private.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum.personal.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum.secret.md)
+

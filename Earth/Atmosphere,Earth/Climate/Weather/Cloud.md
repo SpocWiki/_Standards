@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Above%20the%20Clouds.jpg"
 Commons_category: Clouds
 Commons_gallery: Cloud
@@ -55,17 +55,17 @@ winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20sun%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cloud](/_Standards/Earth/Atmosphere/Climate/Weather/Cloud.md) 
+### #is_/same_as :: [Cloud](/_Standards/Earth/Atmosphere,Earth/Climate/Weather/Cloud.md) 
 
-### #is_/same_as :: [Cloud.public](/_public/Earth/Atmosphere/Climate/Weather/Cloud.public.md) 
+### #is_/same_as :: [Cloud.public](/_public/Earth/Atmosphere,Earth/Climate/Weather/Cloud.public.md) 
 
-### #is_/same_as :: [Cloud.internal](/_internal/Earth/Atmosphere/Climate/Weather/Cloud.internal.md) 
+### #is_/same_as :: [Cloud.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather/Cloud.internal.md) 
 
-### #is_/same_as :: [Cloud.protect](/_protect/Earth/Atmosphere/Climate/Weather/Cloud.protect.md) 
+### #is_/same_as :: [Cloud.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather/Cloud.protect.md) 
 
-### #is_/same_as :: [Cloud.private](/_private/Earth/Atmosphere/Climate/Weather/Cloud.private.md) 
+### #is_/same_as :: [Cloud.private](/_private/Earth/Atmosphere,Earth/Climate/Weather/Cloud.private.md) 
 
-### #is_/same_as :: [Cloud.personal](/_personal/Earth/Atmosphere/Climate/Weather/Cloud.personal.md) 
+### #is_/same_as :: [Cloud.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather/Cloud.personal.md) 
 
-### #is_/same_as :: [Cloud.secret](/_secret/Earth/Atmosphere/Climate/Weather/Cloud.secret.md)
+### #is_/same_as :: [Cloud.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather/Cloud.secret.md)
 

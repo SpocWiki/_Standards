@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - buy-action
 - buy_action

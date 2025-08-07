@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nataloidea
 ---
 
@@ -130,7 +130,7 @@ Thyroptera tricolor (Thyropteridae) and Furipterus horrens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nataloidea](Nataloidea.md)) 
+### #is_/same_as :: [Nataloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Nataloidea.md) 
 
 ### #is_/same_as :: [Nataloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Nataloidea.public.md) 
 

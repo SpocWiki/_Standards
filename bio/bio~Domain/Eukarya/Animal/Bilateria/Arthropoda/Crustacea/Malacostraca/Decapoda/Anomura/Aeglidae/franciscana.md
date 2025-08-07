@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla franciscana"
 ---
 
@@ -119,7 +119,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[franciscana](franciscana.md)) 
+### #is_/same_as :: [franciscana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.md) 
 
 ### #is_/same_as :: [franciscana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/franciscana.public.md) 
 

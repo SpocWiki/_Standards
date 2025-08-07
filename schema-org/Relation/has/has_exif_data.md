@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exif-data
 - exif_data

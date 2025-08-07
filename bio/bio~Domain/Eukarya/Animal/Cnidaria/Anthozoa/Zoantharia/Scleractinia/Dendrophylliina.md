@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dendrophylliidae
 ---
 
@@ -262,7 +262,7 @@ Annals de l\'Institut Océanographique, Paris, 61(2): 115-138.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dendrophylliina](Dendrophylliina.md)) 
+### #is_/same_as :: [Dendrophylliina](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.md) 
 
 ### #is_/same_as :: [Dendrophylliina.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.public.md) 
 

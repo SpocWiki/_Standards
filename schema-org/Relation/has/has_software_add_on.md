@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - software-add-on
 - software_add_on

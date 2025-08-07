@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Naguib Mahfouz"
 - "Naguib Mahfouz Abdelaziz Ibrahim Ahmed Al-Basha"

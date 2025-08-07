@@ -47,3 +47,20 @@ EAGLE_id: objtyp/lod/380
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Basement)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Basement](/_Standards/Technology/Construction/Building/Basement.md) 
+
+### #is_/same_as :: [Basement.public](/_public/Technology/Construction/Building/Basement.public.md) 
+
+### #is_/same_as :: [Basement.internal](/_internal/Technology/Construction/Building/Basement.internal.md) 
+
+### #is_/same_as :: [Basement.protect](/_protect/Technology/Construction/Building/Basement.protect.md) 
+
+### #is_/same_as :: [Basement.private](/_private/Technology/Construction/Building/Basement.private.md) 
+
+### #is_/same_as :: [Basement.personal](/_personal/Technology/Construction/Building/Basement.personal.md) 
+
+### #is_/same_as :: [Basement.secret](/_secret/Technology/Construction/Building/Basement.secret.md)
+

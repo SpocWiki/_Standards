@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-business
 - medical_business

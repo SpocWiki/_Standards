@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Upper Palaeolithic"
 - "Upper Paleolithic"

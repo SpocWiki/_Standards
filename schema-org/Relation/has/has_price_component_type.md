@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-component-type
 - price_component_type

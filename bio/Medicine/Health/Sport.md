@@ -143,17 +143,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sport](/_Standards/Society/Communication/Media/Performing_Arts/Sport.md) 
+### #is_/same_as :: [Sport](/_Standards/bio/Medicine/Health/Sport.md) 
 
-### #is_/same_as :: [Sport.public](/_public/Society/Communication/Media/Performing_Arts/Sport.public.md) 
+### #is_/same_as :: [Sport.public](/_public/bio/Medicine/Health/Sport.public.md) 
 
-### #is_/same_as :: [Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport.internal.md) 
+### #is_/same_as :: [Sport.internal](/_internal/bio/Medicine/Health/Sport.internal.md) 
 
-### #is_/same_as :: [Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport.protect.md) 
+### #is_/same_as :: [Sport.protect](/_protect/bio/Medicine/Health/Sport.protect.md) 
 
-### #is_/same_as :: [Sport.private](/_private/Society/Communication/Media/Performing_Arts/Sport.private.md) 
+### #is_/same_as :: [Sport.private](/_private/bio/Medicine/Health/Sport.private.md) 
 
-### #is_/same_as :: [Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport.personal.md) 
+### #is_/same_as :: [Sport.personal](/_personal/bio/Medicine/Health/Sport.personal.md) 
 
-### #is_/same_as :: [Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport.secret.md)
+### #is_/same_as :: [Sport.secret](/_secret/bio/Medicine/Health/Sport.secret.md)
 

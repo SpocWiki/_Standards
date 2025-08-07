@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Caspian Sea"
 area: 386400

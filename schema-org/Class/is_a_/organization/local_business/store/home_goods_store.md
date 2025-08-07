@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - home-goods-store
 - home_goods_store

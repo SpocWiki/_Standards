@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parent-organization
 - parent_organization

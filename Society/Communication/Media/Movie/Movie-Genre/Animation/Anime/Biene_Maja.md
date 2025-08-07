@@ -19,3 +19,21 @@ It was made into an animated Series by [[Studio_Ghibli]].
 It was the second [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japan]]ese Production that [[ZDF]] commisioned after  [[Wickie_und_die_starken_Männer(Anime)]] and [[Heidi_(Anime)]] . 
 
 It was followed by [[Pinocchio,1976]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biene_Maja](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.md) 
+
+### #is_/same_as :: [Biene_Maja.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.public.md) 
+
+### #is_/same_as :: [Biene_Maja.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.internal.md) 
+
+### #is_/same_as :: [Biene_Maja.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.protect.md) 
+
+### #is_/same_as :: [Biene_Maja.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.private.md) 
+
+### #is_/same_as :: [Biene_Maja.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.personal.md) 
+
+### #is_/same_as :: [Biene_Maja.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.secret.md)
+

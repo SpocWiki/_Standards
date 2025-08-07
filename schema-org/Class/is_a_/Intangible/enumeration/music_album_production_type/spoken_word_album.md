@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - spoken-word-album
 - spoken_word_album

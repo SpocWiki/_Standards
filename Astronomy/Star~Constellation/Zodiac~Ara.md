@@ -46,11 +46,20 @@ Hederich_encyclopedia_article: Arvla
 
 #is_/same_as :: [[../../WikiData/WD~Ara,9253|WD~Ara,9253]] 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Ara|Zodiac~Ara]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Ara.public|Zodiac~Ara.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Ara.internal|Zodiac~Ara.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Ara.protect|Zodiac~Ara.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Ara.private|Zodiac~Ara.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Ara.personal|Zodiac~Ara.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Ara.secret|Zodiac~Ara.secret]] 
+
+### #is_/same_as :: [Zodiac~Ara](/_Standards/Astronomy/Star~Constellation/Zodiac~Ara.md) 
+
+### #is_/same_as :: [Zodiac~Ara.public](/_public/Astronomy/Star~Constellation/Zodiac~Ara.public.md) 
+
+### #is_/same_as :: [Zodiac~Ara.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Ara.internal.md) 
+
+### #is_/same_as :: [Zodiac~Ara.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Ara.protect.md) 
+
+### #is_/same_as :: [Zodiac~Ara.private](/_private/Astronomy/Star~Constellation/Zodiac~Ara.private.md) 
+
+### #is_/same_as :: [Zodiac~Ara.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Ara.personal.md) 
+
+### #is_/same_as :: [Zodiac~Ara.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Ara.secret.md)
+

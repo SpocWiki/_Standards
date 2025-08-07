@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Fornax|Zodiac~Fornax]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Fornax.public|Zodiac~Fornax.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Fornax.internal|Zodiac~Fornax.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Fornax.protect|Zodiac~Fornax.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Fornax.private|Zodiac~Fornax.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Fornax.personal|Zodiac~Fornax.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Fornax.secret|Zodiac~Fornax.secret]] 
+
+### #is_/same_as :: [Zodiac~Fornax](/_Standards/Astronomy/Star~Constellation/Zodiac~Fornax.md) 
+
+### #is_/same_as :: [Zodiac~Fornax.public](/_public/Astronomy/Star~Constellation/Zodiac~Fornax.public.md) 
+
+### #is_/same_as :: [Zodiac~Fornax.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Fornax.internal.md) 
+
+### #is_/same_as :: [Zodiac~Fornax.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Fornax.protect.md) 
+
+### #is_/same_as :: [Zodiac~Fornax.private](/_private/Astronomy/Star~Constellation/Zodiac~Fornax.private.md) 
+
+### #is_/same_as :: [Zodiac~Fornax.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Fornax.personal.md) 
+
+### #is_/same_as :: [Zodiac~Fornax.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Fornax.secret.md)
+

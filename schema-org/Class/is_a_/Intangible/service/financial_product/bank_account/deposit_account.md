@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - deposit-account
 - deposit_account

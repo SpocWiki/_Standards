@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Rocky Mountains"
 Commons_gallery: "Rocky Mountains"
 continent: '[[_Standards/WikiData/WD~North_America,49]]'

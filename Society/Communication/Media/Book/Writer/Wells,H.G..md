@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - H.G.Wells
 - "H. G. Wells"

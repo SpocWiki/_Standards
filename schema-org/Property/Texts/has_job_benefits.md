@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - job-benefits
 - job_benefits

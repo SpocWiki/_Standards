@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - status
 - status

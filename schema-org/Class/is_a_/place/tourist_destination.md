@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tourist-destination
 - tourist_destination

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amphiumidae
 ---
 
@@ -215,17 +215,17 @@ Copyright ::            © 1996 J. Robert Macey
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amphiumidae](Amphiumidae.md)) 
+### #is_/same_as :: [Amphiumidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.md) 
 
-### #is_/same_as :: [Amphiumidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Amphiumidae.public.md) 
+### #is_/same_as :: [Amphiumidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.public.md) 
 
-### #is_/same_as :: [Amphiumidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Amphiumidae.internal.md) 
+### #is_/same_as :: [Amphiumidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.internal.md) 
 
-### #is_/same_as :: [Amphiumidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Amphiumidae.protect.md) 
+### #is_/same_as :: [Amphiumidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.protect.md) 
 
-### #is_/same_as :: [Amphiumidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Amphiumidae.private.md) 
+### #is_/same_as :: [Amphiumidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.private.md) 
 
-### #is_/same_as :: [Amphiumidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Amphiumidae.personal.md) 
+### #is_/same_as :: [Amphiumidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.personal.md) 
 
-### #is_/same_as :: [Amphiumidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Amphiumidae.secret.md)
+### #is_/same_as :: [Amphiumidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Amphiumidae.secret.md)
 

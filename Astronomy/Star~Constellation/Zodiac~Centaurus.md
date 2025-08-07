@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Centaurus|Zodiac~Centaurus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Centaurus.public|Zodiac~Centaurus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Centaurus.internal|Zodiac~Centaurus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Centaurus.protect|Zodiac~Centaurus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Centaurus.private|Zodiac~Centaurus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Centaurus.personal|Zodiac~Centaurus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Centaurus.secret|Zodiac~Centaurus.secret]] 
+
+### #is_/same_as :: [Zodiac~Centaurus](/_Standards/Astronomy/Star~Constellation/Zodiac~Centaurus.md) 
+
+### #is_/same_as :: [Zodiac~Centaurus.public](/_public/Astronomy/Star~Constellation/Zodiac~Centaurus.public.md) 
+
+### #is_/same_as :: [Zodiac~Centaurus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Centaurus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Centaurus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Centaurus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Centaurus.private](/_private/Astronomy/Star~Constellation/Zodiac~Centaurus.private.md) 
+
+### #is_/same_as :: [Zodiac~Centaurus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Centaurus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Centaurus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Centaurus.secret.md)
+

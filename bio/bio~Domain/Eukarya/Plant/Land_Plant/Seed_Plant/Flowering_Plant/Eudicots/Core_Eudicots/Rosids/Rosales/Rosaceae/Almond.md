@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Almond
 - Almonds
@@ -92,17 +92,17 @@ winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Almond%20trees%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Almond](Almond.md)) 
+### #is_/same_as :: [Almond](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.md) 
 
-### #is_/same_as :: [Almond.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.public.md) 
+### #is_/same_as :: [Almond.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.public.md) 
 
-### #is_/same_as :: [Almond.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.internal.md) 
+### #is_/same_as :: [Almond.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.internal.md) 
 
-### #is_/same_as :: [Almond.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.protect.md) 
+### #is_/same_as :: [Almond.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.protect.md) 
 
-### #is_/same_as :: [Almond.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.private.md) 
+### #is_/same_as :: [Almond.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.private.md) 
 
-### #is_/same_as :: [Almond.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.personal.md) 
+### #is_/same_as :: [Almond.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.personal.md) 
 
-### #is_/same_as :: [Almond.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.secret.md)
+### #is_/same_as :: [Almond.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Almond.secret.md)
 

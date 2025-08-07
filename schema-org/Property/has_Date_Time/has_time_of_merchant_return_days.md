@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-days
 - merchant_return_days

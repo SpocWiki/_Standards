@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - observation-date
 - observation_date

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Nanotechnology
 Commons_gallery: Nanotechnology
 described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'

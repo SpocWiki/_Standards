@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - successor-of
 - successor_of

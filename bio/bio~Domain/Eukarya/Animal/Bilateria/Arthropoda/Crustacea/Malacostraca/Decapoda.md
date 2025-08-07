@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Decapoda
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -100,7 +100,7 @@ Copyright ::           © 1999 [California Academy of Sciences](http://www.calac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Decapoda](Decapoda.md)) 
+### #is_/same_as :: [Decapoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.md) 
 
 ### #is_/same_as :: [Decapoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda.public.md) 
 

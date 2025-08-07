@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - deactivate-action
 - deactivate_action

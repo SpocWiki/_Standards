@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - read-permission
 - read_permission

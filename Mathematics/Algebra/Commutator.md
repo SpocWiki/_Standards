@@ -265,3 +265,21 @@
 >
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Commutator)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Commutator](/_Standards/Mathematics/Algebra/Commutator.md) 
+
+### #is_/same_as :: [Commutator.public](/_public/Mathematics/Algebra/Commutator.public.md) 
+
+### #is_/same_as :: [Commutator.internal](/_internal/Mathematics/Algebra/Commutator.internal.md) 
+
+### #is_/same_as :: [Commutator.protect](/_protect/Mathematics/Algebra/Commutator.protect.md) 
+
+### #is_/same_as :: [Commutator.private](/_private/Mathematics/Algebra/Commutator.private.md) 
+
+### #is_/same_as :: [Commutator.personal](/_personal/Mathematics/Algebra/Commutator.personal.md) 
+
+### #is_/same_as :: [Commutator.secret](/_secret/Mathematics/Algebra/Commutator.secret.md)
+

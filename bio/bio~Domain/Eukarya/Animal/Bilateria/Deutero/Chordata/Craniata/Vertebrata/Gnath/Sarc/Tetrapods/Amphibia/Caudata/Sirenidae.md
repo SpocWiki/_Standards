@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sirenidae
 ---
 
@@ -215,17 +215,17 @@ Copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sirenidae](Sirenidae.md)) 
+### #is_/same_as :: [Sirenidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.md) 
 
-### #is_/same_as :: [Sirenidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Sirenidae.public.md) 
+### #is_/same_as :: [Sirenidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.public.md) 
 
-### #is_/same_as :: [Sirenidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Sirenidae.internal.md) 
+### #is_/same_as :: [Sirenidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.internal.md) 
 
-### #is_/same_as :: [Sirenidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Sirenidae.protect.md) 
+### #is_/same_as :: [Sirenidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.protect.md) 
 
-### #is_/same_as :: [Sirenidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Sirenidae.private.md) 
+### #is_/same_as :: [Sirenidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.private.md) 
 
-### #is_/same_as :: [Sirenidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Sirenidae.personal.md) 
+### #is_/same_as :: [Sirenidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.personal.md) 
 
-### #is_/same_as :: [Sirenidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Sirenidae.secret.md)
+### #is_/same_as :: [Sirenidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Sirenidae.secret.md)
 

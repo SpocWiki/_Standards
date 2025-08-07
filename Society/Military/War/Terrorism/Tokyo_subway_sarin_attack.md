@@ -39,6 +39,8 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokyo%20subway%20sarin%20attack) 
 
 [[Aum_Shinrikyo]]  uses [[../../_Standards/bio/Medicine/Disease/Infectious_Disease/Anthrax|Anthrax]] and 
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Tokyo_subway_sarin_attack](/_Standards/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.md) 

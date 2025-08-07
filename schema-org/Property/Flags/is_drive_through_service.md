@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drive-through-service
 - drive_through_service

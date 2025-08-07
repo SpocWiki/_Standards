@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-guideline-contraindication
 - medical_guideline_contraindication

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cirroteuthidae
 ---
 
@@ -122,7 +122,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci., 47:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cirroteuthidae](Cirroteuthidae.md)) 
+### #is_/same_as :: [Cirroteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.md) 
 
 ### #is_/same_as :: [Cirroteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - healthcare-reporting-data
 - healthcare_reporting_data

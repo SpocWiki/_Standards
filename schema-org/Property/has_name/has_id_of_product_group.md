@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-product-group-with-id
 - id_of_product_group

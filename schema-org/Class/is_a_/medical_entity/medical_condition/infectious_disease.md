@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - infectious-disease
 - infectious_disease

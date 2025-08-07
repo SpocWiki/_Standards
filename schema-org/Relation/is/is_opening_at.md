@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - opens
 - opens

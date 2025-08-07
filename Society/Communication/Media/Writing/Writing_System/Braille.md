@@ -60,3 +60,20 @@ Open_Food_Facts_label: en:in-braille
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Braille) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Braille](/_Standards/Society/Communication/Media/Writing/Writing_System/Braille.md) 
+
+### #is_/same_as :: [Braille.public](/_public/Society/Communication/Media/Writing/Writing_System/Braille.public.md) 
+
+### #is_/same_as :: [Braille.internal](/_internal/Society/Communication/Media/Writing/Writing_System/Braille.internal.md) 
+
+### #is_/same_as :: [Braille.protect](/_protect/Society/Communication/Media/Writing/Writing_System/Braille.protect.md) 
+
+### #is_/same_as :: [Braille.private](/_private/Society/Communication/Media/Writing/Writing_System/Braille.private.md) 
+
+### #is_/same_as :: [Braille.personal](/_personal/Society/Communication/Media/Writing/Writing_System/Braille.personal.md) 
+
+### #is_/same_as :: [Braille.secret](/_secret/Society/Communication/Media/Writing/Writing_System/Braille.secret.md)
+

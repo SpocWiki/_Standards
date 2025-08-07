@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-url
 - service_url

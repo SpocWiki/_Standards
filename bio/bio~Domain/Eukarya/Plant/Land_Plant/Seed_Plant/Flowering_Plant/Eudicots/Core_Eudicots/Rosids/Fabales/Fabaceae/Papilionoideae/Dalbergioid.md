@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dalbergioid sensu lato clade"
 ---
 
@@ -117,17 +117,17 @@ Copyright ::            © G. D. Carr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dalbergioid](Dalbergioid.md)) 
+### #is_/same_as :: [Dalbergioid](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.md) 
 
-### #is_/same_as :: [Dalbergioid.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.public.md) 
+### #is_/same_as :: [Dalbergioid.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.public.md) 
 
-### #is_/same_as :: [Dalbergioid.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.internal.md) 
+### #is_/same_as :: [Dalbergioid.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.internal.md) 
 
-### #is_/same_as :: [Dalbergioid.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.protect.md) 
+### #is_/same_as :: [Dalbergioid.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.protect.md) 
 
-### #is_/same_as :: [Dalbergioid.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.private.md) 
+### #is_/same_as :: [Dalbergioid.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.private.md) 
 
-### #is_/same_as :: [Dalbergioid.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.personal.md) 
+### #is_/same_as :: [Dalbergioid.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.personal.md) 
 
-### #is_/same_as :: [Dalbergioid.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.secret.md)
+### #is_/same_as :: [Dalbergioid.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - capital
 - has_capital

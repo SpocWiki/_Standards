@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c25
 - nonprofit501c25

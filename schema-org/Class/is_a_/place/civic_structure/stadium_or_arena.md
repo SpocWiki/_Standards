@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stadium-or-arena
 - stadium_or_arena

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jean-Jacques Rousseau"
 has_id_wikidata: Q6527

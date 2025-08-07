@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Coma_Berenices|Zodiac~Coma_Berenices]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Coma_Berenices.public|Zodiac~Coma_Berenices.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Coma_Berenices.internal|Zodiac~Coma_Berenices.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Coma_Berenices.protect|Zodiac~Coma_Berenices.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Coma_Berenices.private|Zodiac~Coma_Berenices.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Coma_Berenices.personal|Zodiac~Coma_Berenices.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Coma_Berenices.secret|Zodiac~Coma_Berenices.secret]] 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices](/_Standards/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.md) 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices.public](/_public/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.public.md) 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.internal.md) 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.protect.md) 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices.private](/_private/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.private.md) 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.personal.md) 
+
+### #is_/same_as :: [Zodiac~Coma_Berenices.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Coma_Berenices.secret.md)
+

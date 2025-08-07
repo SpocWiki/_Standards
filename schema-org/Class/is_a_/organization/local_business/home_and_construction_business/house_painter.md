@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - house-painter
 - house_painter

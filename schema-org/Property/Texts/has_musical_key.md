@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - musical-key
 - musical_key

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Shockley Transistor Corporation"
 ---
@@ -23,4 +23,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shockley%20Semiconductor%20Laboratory)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.md) 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.public.md) 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.internal.md) 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.protect.md) 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.private.md) 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.personal.md) 
+
+### #is_/same_as :: [Shockley_Semiconductor_Laboratory.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley_Semiconductor_Laboratory.secret.md)
 

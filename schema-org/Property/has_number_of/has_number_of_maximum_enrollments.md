@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - maximum-enrollment
 - maximum_enrollment

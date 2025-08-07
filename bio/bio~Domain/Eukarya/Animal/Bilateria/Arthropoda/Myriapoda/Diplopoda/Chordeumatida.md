@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "sausage millipedes"
 - Chordeumatida
@@ -117,7 +117,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chordeumatida](Chordeumatida.md)) 
+### #is_/same_as :: [Chordeumatida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.md) 
 
 ### #is_/same_as :: [Chordeumatida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Chordeumatida.public.md) 
 

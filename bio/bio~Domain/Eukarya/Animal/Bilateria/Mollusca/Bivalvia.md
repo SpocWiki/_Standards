@@ -79,7 +79,7 @@ Source Collection   [BioLib Online Library of Biological Books](http://www.bioli
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bivalvia](Bivalvia.md)) 
+### #is_/same_as :: [Bivalvia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.md) 
 
 ### #is_/same_as :: [Bivalvia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.public.md) 
 

@@ -171,3 +171,19 @@ IPI_name_number: "00076333277"
 > [Wikipedia](https://en.wikipedia.org/wiki/Bruce%20Springsteen) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Springsteen,Bruce](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.md) 
+
+### #is_/same_as :: [Springsteen,Bruce.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.public.md) 
+
+### #is_/same_as :: [Springsteen,Bruce.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.internal.md) 
+
+### #is_/same_as :: [Springsteen,Bruce.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.protect.md) 
+
+### #is_/same_as :: [Springsteen,Bruce.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.private.md) 
+
+### #is_/same_as :: [Springsteen,Bruce.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.personal.md) 
+
+### #is_/same_as :: [Springsteen,Bruce.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Springsteen,Bruce.secret.md)
+

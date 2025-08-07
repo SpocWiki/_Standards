@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hylobatidae
 - Gibbon
@@ -63,7 +63,7 @@ title: Hylobatidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gibbon](Gibbon.md)) 
+### #is_/same_as :: [Gibbon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon.md) 
 
 ### #is_/same_as :: [Gibbon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Gibbon.public.md) 
 

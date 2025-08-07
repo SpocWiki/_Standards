@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Scott Pilgrim vs. the World"
 ---
@@ -40,5 +40,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Scott%20Pilgrim%20vs.%20the%20World)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.md) 
+
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.public.md) 
+
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.internal.md) 
+
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.protect.md) 
+
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.private.md) 
+
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.personal.md) 
+
+### #is_/same_as :: [Scott_Pilgrim_vs.the_World.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Scott_Pilgrim_vs.the_World.secret.md)
 

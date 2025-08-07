@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Coordinate system"
 - Coordinate-system

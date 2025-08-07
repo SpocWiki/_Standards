@@ -28,5 +28,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Van%20Helsing%20(film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Van_Helsing(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).md) 
+
+### #is_/same_as :: [Van_Helsing(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).public.md) 
+
+### #is_/same_as :: [Van_Helsing(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).internal.md) 
+
+### #is_/same_as :: [Van_Helsing(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).protect.md) 
+
+### #is_/same_as :: [Van_Helsing(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).private.md) 
+
+### #is_/same_as :: [Van_Helsing(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).personal.md) 
+
+### #is_/same_as :: [Van_Helsing(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).secret.md)
 

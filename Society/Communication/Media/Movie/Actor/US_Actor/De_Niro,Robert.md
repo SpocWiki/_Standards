@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robert De Niro"
 - "Robert Anthony De Niro"
@@ -65,4 +65,19 @@ aliases:
 > [Wikipedia](https://de.wikipedia.org/wiki/Robert%20De%20Niro) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [De_Niro,Robert](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.md) 
+
+### #is_/same_as :: [De_Niro,Robert.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.public.md) 
+
+### #is_/same_as :: [De_Niro,Robert.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.internal.md) 
+
+### #is_/same_as :: [De_Niro,Robert.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.protect.md) 
+
+### #is_/same_as :: [De_Niro,Robert.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.private.md) 
+
+### #is_/same_as :: [De_Niro,Robert.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.personal.md) 
+
+### #is_/same_as :: [De_Niro,Robert.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - public-swimming-pool
 - public_swimming_pool

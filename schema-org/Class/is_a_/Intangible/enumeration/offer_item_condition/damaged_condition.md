@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - damaged-condition
 - damaged_condition

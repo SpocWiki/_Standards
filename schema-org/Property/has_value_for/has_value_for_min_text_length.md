@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value_min_text_length
 - value-min-text-length

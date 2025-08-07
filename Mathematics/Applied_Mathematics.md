@@ -58,4 +58,19 @@ Commons_category: Applied mathematics
 > [Wikipedia](https://en.wikipedia.org/wiki/Applied%20mathematics) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Applied_Mathematics](/_Standards/Mathematics/Applied_Mathematics.md) 
+
+### #is_/same_as :: [Applied_Mathematics.public](/_public/Mathematics/Applied_Mathematics.public.md) 
+
+### #is_/same_as :: [Applied_Mathematics.internal](/_internal/Mathematics/Applied_Mathematics.internal.md) 
+
+### #is_/same_as :: [Applied_Mathematics.protect](/_protect/Mathematics/Applied_Mathematics.protect.md) 
+
+### #is_/same_as :: [Applied_Mathematics.private](/_private/Mathematics/Applied_Mathematics.private.md) 
+
+### #is_/same_as :: [Applied_Mathematics.personal](/_personal/Mathematics/Applied_Mathematics.personal.md) 
+
+### #is_/same_as :: [Applied_Mathematics.secret](/_secret/Mathematics/Applied_Mathematics.secret.md)
 

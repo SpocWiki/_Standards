@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-location
 - service_location

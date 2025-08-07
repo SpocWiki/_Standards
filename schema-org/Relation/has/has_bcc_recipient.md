@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bcc-recipient
 - bcc_recipient

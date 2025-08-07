@@ -1,4 +1,4 @@
-﻿---
+---
 title: "New Genus B"
 ---
 
@@ -133,7 +133,7 @@ Neptune City, NJ, 351pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[B](B.md)) 
+### #is_/same_as :: [B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/B.md) 
 
 ### #is_/same_as :: [B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/B.public.md) 
 

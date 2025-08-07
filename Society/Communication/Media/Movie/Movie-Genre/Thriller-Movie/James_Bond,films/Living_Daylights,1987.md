@@ -17,7 +17,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Living%20Daylights)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Living_Daylights,1987](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.md) 
 
+### #is_/same_as :: [Living_Daylights,1987.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.public.md) 
 
+### #is_/same_as :: [Living_Daylights,1987.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.internal.md) 
+
+### #is_/same_as :: [Living_Daylights,1987.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.protect.md) 
+
+### #is_/same_as :: [Living_Daylights,1987.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.private.md) 
+
+### #is_/same_as :: [Living_Daylights,1987.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.personal.md) 
+
+### #is_/same_as :: [Living_Daylights,1987.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Living_Daylights,1987.secret.md)
 

@@ -24,3 +24,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Cruella%20(film)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cruella(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).md) 
+
+### #is_/same_as :: [Cruella(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).public.md) 
+
+### #is_/same_as :: [Cruella(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).internal.md) 
+
+### #is_/same_as :: [Cruella(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).protect.md) 
+
+### #is_/same_as :: [Cruella(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).private.md) 
+
+### #is_/same_as :: [Cruella(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).personal.md) 
+
+### #is_/same_as :: [Cruella(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Cruella(film).secret.md)
+

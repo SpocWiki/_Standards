@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The Sun"
 ---
@@ -14,4 +14,21 @@ aliases:
 > About 4 to 7 billion years from now, when hydrogen fusion in the Sun's core diminishes to the point where the Sun is no longer in hydrostatic equilibrium, its core will undergo a marked increase in density and temperature which will cause its outer layers to expand, eventually transforming the Sun into a red giant. After the red giant phase, models suggest the Sun will shed its outer layers and become a dense type of cooling star (a white dwarf), and no longer produce energy by fusion, but will still glow and give off heat from its previous fusion for perhaps trillions of years. After that, it is theorized to become a super dense black dwarf, giving off negligible energy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sun) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Sun](/_Standards/Society/Communication/Media/Journalism/Newspaper/The_Sun.md) 
+
+### #is_/same_as :: [The_Sun.public](/_public/Society/Communication/Media/Journalism/Newspaper/The_Sun.public.md) 
+
+### #is_/same_as :: [The_Sun.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/The_Sun.internal.md) 
+
+### #is_/same_as :: [The_Sun.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/The_Sun.protect.md) 
+
+### #is_/same_as :: [The_Sun.private](/_private/Society/Communication/Media/Journalism/Newspaper/The_Sun.private.md) 
+
+### #is_/same_as :: [The_Sun.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/The_Sun.personal.md) 
+
+### #is_/same_as :: [The_Sun.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/The_Sun.secret.md)
 

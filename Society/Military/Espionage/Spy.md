@@ -47,3 +47,21 @@ P8189: "987007565835205171"
 # [[Spy]] 
 
 A **[secret agent](https://en.wikipedia.org/wiki/Secret_agent "Secret agent")** is a covert agent engaged in espionage. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spy](/_Standards/Society/Military/Espionage/Spy.md) 
+
+### #is_/same_as :: [Spy.public](/_public/Society/Military/Espionage/Spy.public.md) 
+
+### #is_/same_as :: [Spy.internal](/_internal/Society/Military/Espionage/Spy.internal.md) 
+
+### #is_/same_as :: [Spy.protect](/_protect/Society/Military/Espionage/Spy.protect.md) 
+
+### #is_/same_as :: [Spy.private](/_private/Society/Military/Espionage/Spy.private.md) 
+
+### #is_/same_as :: [Spy.personal](/_personal/Society/Military/Espionage/Spy.personal.md) 
+
+### #is_/same_as :: [Spy.secret](/_secret/Society/Military/Espionage/Spy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - noninvasive-procedure
 - noninvasive_procedure

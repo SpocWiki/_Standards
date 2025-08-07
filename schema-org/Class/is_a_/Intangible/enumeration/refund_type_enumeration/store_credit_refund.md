@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - store-credit-refund
 - store_credit_refund

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Octopodiformes
 ---
 
@@ -181,7 +181,7 @@ Copyright ::         © 1999 Mark Norman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Octopodiformes](Octopodiformes.md)) 
+### #is_/same_as :: [Octopodiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.md) 
 
 ### #is_/same_as :: [Octopodiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes.public.md) 
 

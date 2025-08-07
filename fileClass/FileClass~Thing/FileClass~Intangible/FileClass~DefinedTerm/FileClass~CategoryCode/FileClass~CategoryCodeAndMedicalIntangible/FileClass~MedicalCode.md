@@ -1,4 +1,4 @@
-﻿---
+---
 excludes: 
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible
 fields:

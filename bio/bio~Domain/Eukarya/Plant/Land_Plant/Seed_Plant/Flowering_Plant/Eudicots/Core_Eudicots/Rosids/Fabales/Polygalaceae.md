@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - milkwort
 title: Polygalaceae
@@ -69,17 +69,17 @@ Copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Polygalaceae](Polygalaceae.md)) 
+### #is_/same_as :: [Polygalaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.md) 
 
-### #is_/same_as :: [Polygalaceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.public.md) 
+### #is_/same_as :: [Polygalaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.public.md) 
 
-### #is_/same_as :: [Polygalaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.internal.md) 
+### #is_/same_as :: [Polygalaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.internal.md) 
 
-### #is_/same_as :: [Polygalaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.protect.md) 
+### #is_/same_as :: [Polygalaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.protect.md) 
 
-### #is_/same_as :: [Polygalaceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.private.md) 
+### #is_/same_as :: [Polygalaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.private.md) 
 
-### #is_/same_as :: [Polygalaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.personal.md) 
+### #is_/same_as :: [Polygalaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.personal.md) 
 
-### #is_/same_as :: [Polygalaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.secret.md)
+### #is_/same_as :: [Polygalaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Polygalaceae.secret.md)
 

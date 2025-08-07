@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pre-sale
 - pre_sale

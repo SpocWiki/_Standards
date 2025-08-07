@@ -1,4 +1,4 @@
-﻿---
+---
 author:
 - '[[_Standards/WikiData/WD~Abu-Mansur_Daqiqi,538902]]'
 - '[[_Standards/WikiData/WD~Ferdowsi,43459]]'

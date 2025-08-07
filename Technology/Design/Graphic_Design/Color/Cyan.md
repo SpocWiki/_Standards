@@ -35,3 +35,20 @@ OpenStreetMap_tag_or_key: Tag:colour=cyan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cyan](/_Standards/Technology/Design/Graphic_Design/Color/Cyan.md) 
+
+### #is_/same_as :: [Cyan.public](/_public/Technology/Design/Graphic_Design/Color/Cyan.public.md) 
+
+### #is_/same_as :: [Cyan.internal](/_internal/Technology/Design/Graphic_Design/Color/Cyan.internal.md) 
+
+### #is_/same_as :: [Cyan.protect](/_protect/Technology/Design/Graphic_Design/Color/Cyan.protect.md) 
+
+### #is_/same_as :: [Cyan.private](/_private/Technology/Design/Graphic_Design/Color/Cyan.private.md) 
+
+### #is_/same_as :: [Cyan.personal](/_personal/Technology/Design/Graphic_Design/Color/Cyan.personal.md) 
+
+### #is_/same_as :: [Cyan.secret](/_secret/Technology/Design/Graphic_Design/Color/Cyan.secret.md)
+

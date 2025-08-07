@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Northgrippian
 coordinate_location: "Point(-42.32 75.1)"
 end_time: -2250-06

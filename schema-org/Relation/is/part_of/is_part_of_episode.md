@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-episode
 - part_of_episode

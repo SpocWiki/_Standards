@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-code-set
 - in_code_set

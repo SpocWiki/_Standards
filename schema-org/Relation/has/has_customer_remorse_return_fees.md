@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - customer-remorse-return-fees
 - customer_remorse_return_fees

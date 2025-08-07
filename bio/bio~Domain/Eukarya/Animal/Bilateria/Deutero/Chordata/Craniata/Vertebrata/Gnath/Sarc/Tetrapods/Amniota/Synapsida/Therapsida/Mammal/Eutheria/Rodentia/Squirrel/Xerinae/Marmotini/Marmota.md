@@ -1,4 +1,4 @@
-﻿---
+---
 title: Marmota
 ---
 
@@ -60,7 +60,7 @@ Copyright ::   © 2000 Scott Steppan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Marmota](Marmota.md)) 
+### #is_/same_as :: [Marmota](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Marmotini/Marmota.md) 
 
 ### #is_/same_as :: [Marmota.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Marmotini/Marmota.public.md) 
 

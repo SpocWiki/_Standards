@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - meets-emission-standard
 - meeting_emission_standard

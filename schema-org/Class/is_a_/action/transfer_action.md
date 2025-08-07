@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - transfer-action
 - transfer_action

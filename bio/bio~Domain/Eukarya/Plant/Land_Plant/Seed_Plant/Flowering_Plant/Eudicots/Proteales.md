@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Proteales
 title: Proteales
@@ -76,17 +76,17 @@ Copyright ::            © 1998 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Proteales](Proteales.md)) 
+### #is_/same_as :: [Proteales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.md) 
 
-### #is_/same_as :: [Proteales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.public.md) 
+### #is_/same_as :: [Proteales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.public.md) 
 
-### #is_/same_as :: [Proteales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.internal.md) 
+### #is_/same_as :: [Proteales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.internal.md) 
 
-### #is_/same_as :: [Proteales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.protect.md) 
+### #is_/same_as :: [Proteales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.protect.md) 
 
-### #is_/same_as :: [Proteales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.private.md) 
+### #is_/same_as :: [Proteales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.private.md) 
 
-### #is_/same_as :: [Proteales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.personal.md) 
+### #is_/same_as :: [Proteales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.personal.md) 
 
-### #is_/same_as :: [Proteales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.secret.md)
+### #is_/same_as :: [Proteales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.secret.md)
 

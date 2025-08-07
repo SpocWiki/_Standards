@@ -16,3 +16,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bonaventura%20Cavalieri) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bonaventura_Cavalieri](/_Standards/Mathematics/Mathematician/Bonaventura_Cavalieri.md) 
+
+### #is_/same_as :: [Bonaventura_Cavalieri.public](/_public/Mathematics/Mathematician/Bonaventura_Cavalieri.public.md) 
+
+### #is_/same_as :: [Bonaventura_Cavalieri.internal](/_internal/Mathematics/Mathematician/Bonaventura_Cavalieri.internal.md) 
+
+### #is_/same_as :: [Bonaventura_Cavalieri.protect](/_protect/Mathematics/Mathematician/Bonaventura_Cavalieri.protect.md) 
+
+### #is_/same_as :: [Bonaventura_Cavalieri.private](/_private/Mathematics/Mathematician/Bonaventura_Cavalieri.private.md) 
+
+### #is_/same_as :: [Bonaventura_Cavalieri.personal](/_personal/Mathematics/Mathematician/Bonaventura_Cavalieri.personal.md) 
+
+### #is_/same_as :: [Bonaventura_Cavalieri.secret](/_secret/Mathematics/Mathematician/Bonaventura_Cavalieri.secret.md)
+

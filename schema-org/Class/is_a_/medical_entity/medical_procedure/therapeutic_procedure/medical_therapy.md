@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-therapy
 - medical_therapy

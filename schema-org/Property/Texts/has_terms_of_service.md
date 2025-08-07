@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - terms-of-service
 - terms_of_service

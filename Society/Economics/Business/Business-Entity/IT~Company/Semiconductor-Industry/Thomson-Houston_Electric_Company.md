@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Compagnie Française Thomson-Houston"
 ---
@@ -12,3 +12,21 @@ After Merging with [[GE(General_Electric)]] Sister Companies were created:
 - 1893, the Compagnie Française Thomson-Houston (CFTH) was formed in Paris. 
 - [[Alstom]] emerged from this Branch as well as [[STMicroelectronics]]. 
 - 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.md) 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.public.md) 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.internal.md) 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.protect.md) 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.private.md) 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.personal.md) 
+
+### #is_/same_as :: [Thomson-Houston_Electric_Company.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson-Houston_Electric_Company.secret.md)
+

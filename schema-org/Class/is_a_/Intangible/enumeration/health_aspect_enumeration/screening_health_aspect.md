@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - screening-health-aspect
 - screening_health_aspect

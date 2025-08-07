@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nobel Prize in Physics"
 - "Nobelpriset i fysik"

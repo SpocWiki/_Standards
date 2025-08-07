@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legal-service
 - legal_service

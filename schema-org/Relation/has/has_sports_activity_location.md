@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sports-activity-location
 - sports_activity_location

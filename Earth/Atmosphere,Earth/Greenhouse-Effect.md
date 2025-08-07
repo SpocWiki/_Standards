@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Treibhaus-Effekt
 ---
@@ -106,17 +106,17 @@ options:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greenhouse-Effect](/_Standards/Earth/Atmosphere/Greenhouse-Effect.md) 
+### #is_/same_as :: [Greenhouse-Effect](/_Standards/Earth/Atmosphere,Earth/Greenhouse-Effect.md) 
 
-### #is_/same_as :: [Greenhouse-Effect.public](/_public/Earth/Atmosphere/Greenhouse-Effect.public.md) 
+### #is_/same_as :: [Greenhouse-Effect.public](/_public/Earth/Atmosphere,Earth/Greenhouse-Effect.public.md) 
 
-### #is_/same_as :: [Greenhouse-Effect.internal](/_internal/Earth/Atmosphere/Greenhouse-Effect.internal.md) 
+### #is_/same_as :: [Greenhouse-Effect.internal](/_internal/Earth/Atmosphere,Earth/Greenhouse-Effect.internal.md) 
 
-### #is_/same_as :: [Greenhouse-Effect.protect](/_protect/Earth/Atmosphere/Greenhouse-Effect.protect.md) 
+### #is_/same_as :: [Greenhouse-Effect.protect](/_protect/Earth/Atmosphere,Earth/Greenhouse-Effect.protect.md) 
 
-### #is_/same_as :: [Greenhouse-Effect.private](/_private/Earth/Atmosphere/Greenhouse-Effect.private.md) 
+### #is_/same_as :: [Greenhouse-Effect.private](/_private/Earth/Atmosphere,Earth/Greenhouse-Effect.private.md) 
 
-### #is_/same_as :: [Greenhouse-Effect.personal](/_personal/Earth/Atmosphere/Greenhouse-Effect.personal.md) 
+### #is_/same_as :: [Greenhouse-Effect.personal](/_personal/Earth/Atmosphere,Earth/Greenhouse-Effect.personal.md) 
 
-### #is_/same_as :: [Greenhouse-Effect.secret](/_secret/Earth/Atmosphere/Greenhouse-Effect.secret.md)
+### #is_/same_as :: [Greenhouse-Effect.secret](/_secret/Earth/Atmosphere,Earth/Greenhouse-Effect.secret.md)
 

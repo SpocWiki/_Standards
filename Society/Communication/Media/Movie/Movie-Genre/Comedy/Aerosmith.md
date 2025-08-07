@@ -94,3 +94,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Aerosmith) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aerosmith](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.md) 
+
+### #is_/same_as :: [Aerosmith.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.public.md) 
+
+### #is_/same_as :: [Aerosmith.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.internal.md) 
+
+### #is_/same_as :: [Aerosmith.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.protect.md) 
+
+### #is_/same_as :: [Aerosmith.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.private.md) 
+
+### #is_/same_as :: [Aerosmith.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.personal.md) 
+
+### #is_/same_as :: [Aerosmith.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Aerosmith.secret.md)
+

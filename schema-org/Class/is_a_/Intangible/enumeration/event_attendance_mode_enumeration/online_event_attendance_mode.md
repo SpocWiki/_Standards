@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - online-event-attendance-mode
 - online_event_attendance_mode

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michel Gondry"
 ---
@@ -28,4 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michel%20Gondry)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gondry,Michel](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.md) 
+
+### #is_/same_as :: [Gondry,Michel.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.public.md) 
+
+### #is_/same_as :: [Gondry,Michel.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.internal.md) 
+
+### #is_/same_as :: [Gondry,Michel.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.protect.md) 
+
+### #is_/same_as :: [Gondry,Michel.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.private.md) 
+
+### #is_/same_as :: [Gondry,Michel.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.personal.md) 
+
+### #is_/same_as :: [Gondry,Michel.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.secret.md)
 

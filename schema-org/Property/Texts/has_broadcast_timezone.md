@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-timezone
 - broadcast_timezone

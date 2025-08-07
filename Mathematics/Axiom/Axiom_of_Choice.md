@@ -166,3 +166,20 @@ time_of_discovery_or_invention: 1904-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Axiom%20of%20choice) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Axiom_of_Choice](/_Standards/Mathematics/Axiom/Axiom_of_Choice.md) 
+
+### #is_/same_as :: [Axiom_of_Choice.public](/_public/Mathematics/Axiom/Axiom_of_Choice.public.md) 
+
+### #is_/same_as :: [Axiom_of_Choice.internal](/_internal/Mathematics/Axiom/Axiom_of_Choice.internal.md) 
+
+### #is_/same_as :: [Axiom_of_Choice.protect](/_protect/Mathematics/Axiom/Axiom_of_Choice.protect.md) 
+
+### #is_/same_as :: [Axiom_of_Choice.private](/_private/Mathematics/Axiom/Axiom_of_Choice.private.md) 
+
+### #is_/same_as :: [Axiom_of_Choice.personal](/_personal/Mathematics/Axiom/Axiom_of_Choice.personal.md) 
+
+### #is_/same_as :: [Axiom_of_Choice.secret](/_secret/Mathematics/Axiom/Axiom_of_Choice.secret.md)
+

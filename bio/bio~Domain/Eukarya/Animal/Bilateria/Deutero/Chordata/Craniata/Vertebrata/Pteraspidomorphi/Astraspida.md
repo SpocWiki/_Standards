@@ -1,4 +1,4 @@
-﻿---
+---
 title: Astraspida
 ---
 
@@ -101,7 +101,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Astraspida](Astraspida.md)) 
+### #is_/same_as :: [Astraspida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.md) 
 
 ### #is_/same_as :: [Astraspida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Astraspida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - replace-action
 - replace_action

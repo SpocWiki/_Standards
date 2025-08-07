@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-interior-color
 - vehicle_interior_color

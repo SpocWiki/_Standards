@@ -33,3 +33,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Villa%20Borsi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bedroom) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bedroom](/_Standards/Technology/Construction/Building/House/Apartment/Bedroom.md) 
+
+### #is_/same_as :: [Bedroom.public](/_public/Technology/Construction/Building/House/Apartment/Bedroom.public.md) 
+
+### #is_/same_as :: [Bedroom.internal](/_internal/Technology/Construction/Building/House/Apartment/Bedroom.internal.md) 
+
+### #is_/same_as :: [Bedroom.protect](/_protect/Technology/Construction/Building/House/Apartment/Bedroom.protect.md) 
+
+### #is_/same_as :: [Bedroom.private](/_private/Technology/Construction/Building/House/Apartment/Bedroom.private.md) 
+
+### #is_/same_as :: [Bedroom.personal](/_personal/Technology/Construction/Building/House/Apartment/Bedroom.personal.md) 
+
+### #is_/same_as :: [Bedroom.secret](/_secret/Technology/Construction/Building/House/Apartment/Bedroom.secret.md)
+

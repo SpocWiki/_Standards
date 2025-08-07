@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Holocene calendar"
 - "Holocene Era"

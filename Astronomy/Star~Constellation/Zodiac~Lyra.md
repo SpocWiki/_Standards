@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Lyra|Zodiac~Lyra]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Lyra.public|Zodiac~Lyra.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Lyra.internal|Zodiac~Lyra.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Lyra.protect|Zodiac~Lyra.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Lyra.private|Zodiac~Lyra.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Lyra.personal|Zodiac~Lyra.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Lyra.secret|Zodiac~Lyra.secret]] 
+
+### #is_/same_as :: [Zodiac~Lyra](/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra.md) 
+
+### #is_/same_as :: [Zodiac~Lyra.public](/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public.md) 
+
+### #is_/same_as :: [Zodiac~Lyra.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal.md) 
+
+### #is_/same_as :: [Zodiac~Lyra.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect.md) 
+
+### #is_/same_as :: [Zodiac~Lyra.private](/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private.md) 
+
+### #is_/same_as :: [Zodiac~Lyra.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal.md) 
+
+### #is_/same_as :: [Zodiac~Lyra.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret.md)
+

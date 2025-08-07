@@ -52,3 +52,20 @@ Wolfram_Language_entity_code: Entity["Concept", "ArchitecturalStyle::9649x"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Architectural%20style) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Architectural_Style](/_Standards/Technology/Construction/Architecture/Architectural_Style.md) 
+
+### #is_/same_as :: [Architectural_Style.public](/_public/Technology/Construction/Architecture/Architectural_Style.public.md) 
+
+### #is_/same_as :: [Architectural_Style.internal](/_internal/Technology/Construction/Architecture/Architectural_Style.internal.md) 
+
+### #is_/same_as :: [Architectural_Style.protect](/_protect/Technology/Construction/Architecture/Architectural_Style.protect.md) 
+
+### #is_/same_as :: [Architectural_Style.private](/_private/Technology/Construction/Architecture/Architectural_Style.private.md) 
+
+### #is_/same_as :: [Architectural_Style.personal](/_personal/Technology/Construction/Architecture/Architectural_Style.personal.md) 
+
+### #is_/same_as :: [Architectural_Style.secret](/_secret/Technology/Construction/Architecture/Architectural_Style.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Neil Richard MacKinnon Gaiman"
 - "Neil Richard Gaiman"
@@ -33,4 +33,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Gaiman)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gaiman,Neil](/_Standards/Society/Communication/Media/Book/Author/Gaiman,Neil.md) 
+
+### #is_/same_as :: [Gaiman,Neil.public](/_public/Society/Communication/Media/Book/Author/Gaiman,Neil.public.md) 
+
+### #is_/same_as :: [Gaiman,Neil.internal](/_internal/Society/Communication/Media/Book/Author/Gaiman,Neil.internal.md) 
+
+### #is_/same_as :: [Gaiman,Neil.protect](/_protect/Society/Communication/Media/Book/Author/Gaiman,Neil.protect.md) 
+
+### #is_/same_as :: [Gaiman,Neil.private](/_private/Society/Communication/Media/Book/Author/Gaiman,Neil.private.md) 
+
+### #is_/same_as :: [Gaiman,Neil.personal](/_personal/Society/Communication/Media/Book/Author/Gaiman,Neil.personal.md) 
+
+### #is_/same_as :: [Gaiman,Neil.secret](/_secret/Society/Communication/Media/Book/Author/Gaiman,Neil.secret.md)
 

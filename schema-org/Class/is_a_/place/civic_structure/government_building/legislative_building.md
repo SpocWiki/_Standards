@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislative-building
 - legislative_building

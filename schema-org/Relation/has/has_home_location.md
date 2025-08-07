@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - home-location
 - home_location

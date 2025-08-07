@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis dentata"
 ---
 
@@ -136,7 +136,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[dentata](dentata.md)) 
+### #is_/same_as :: [dentata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/dentata.md) 
 
 ### #is_/same_as :: [dentata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/dentata.public.md) 
 

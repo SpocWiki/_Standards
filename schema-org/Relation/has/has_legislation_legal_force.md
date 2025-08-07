@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-legal-force
 - legislation_legal_force

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Parasitiformes
 ---
 
@@ -91,7 +91,7 @@ Copyright ::   © 1996 D. E. Walter
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Parasitiformes](Parasitiformes.md)) 
+### #is_/same_as :: [Parasitiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.md) 
 
 ### #is_/same_as :: [Parasitiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.public.md) 
 

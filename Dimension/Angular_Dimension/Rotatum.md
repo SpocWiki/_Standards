@@ -12,17 +12,17 @@ The corresponding [[../Linear_Dimension]] is [[Dim~Yank]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Rotatum](/_Standards/Dimension/Angular_Dimension/Dim~Rotatum.md) 
+### #is_/same_as :: [Rotatum](/_Standards/Dimension/Angular_Dimension/Rotatum.md) 
 
-### #is_/same_as :: [Dim~Rotatum.public](/_public/Dimension/Angular_Dimension/Dim~Rotatum.public.md) 
+### #is_/same_as :: [Rotatum.public](/_public/Dimension/Angular_Dimension/Rotatum.public.md) 
 
-### #is_/same_as :: [Dim~Rotatum.internal](/_internal/Dimension/Angular_Dimension/Dim~Rotatum.internal.md) 
+### #is_/same_as :: [Rotatum.internal](/_internal/Dimension/Angular_Dimension/Rotatum.internal.md) 
 
-### #is_/same_as :: [Dim~Rotatum.protect](/_protect/Dimension/Angular_Dimension/Dim~Rotatum.protect.md) 
+### #is_/same_as :: [Rotatum.protect](/_protect/Dimension/Angular_Dimension/Rotatum.protect.md) 
 
-### #is_/same_as :: [Dim~Rotatum.private](/_private/Dimension/Angular_Dimension/Dim~Rotatum.private.md) 
+### #is_/same_as :: [Rotatum.private](/_private/Dimension/Angular_Dimension/Rotatum.private.md) 
 
-### #is_/same_as :: [Dim~Rotatum.personal](/_personal/Dimension/Angular_Dimension/Dim~Rotatum.personal.md) 
+### #is_/same_as :: [Rotatum.personal](/_personal/Dimension/Angular_Dimension/Rotatum.personal.md) 
 
-### #is_/same_as :: [Dim~Rotatum.secret](/_secret/Dimension/Angular_Dimension/Dim~Rotatum.secret.md)
+### #is_/same_as :: [Rotatum.secret](/_secret/Dimension/Angular_Dimension/Rotatum.secret.md)
 

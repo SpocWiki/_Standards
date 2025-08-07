@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rail transportation"
 - "Rail transport"

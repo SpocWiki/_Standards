@@ -1,4 +1,4 @@
-﻿---
+---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Dial-operatedtelephone.ogg"
 Colon_Classification:
 - X36

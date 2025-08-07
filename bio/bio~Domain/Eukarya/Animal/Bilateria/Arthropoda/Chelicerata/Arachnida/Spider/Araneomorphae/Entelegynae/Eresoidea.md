@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eresoidea
 ---
 
@@ -42,7 +42,7 @@ spiders (Spider). Annual Review of Ecology and Systematics 22:565-592.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eresoidea](Eresoidea.md)) 
+### #is_/same_as :: [Eresoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Eresoidea.md) 
 
 ### #is_/same_as :: [Eresoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Eresoidea.public.md) 
 

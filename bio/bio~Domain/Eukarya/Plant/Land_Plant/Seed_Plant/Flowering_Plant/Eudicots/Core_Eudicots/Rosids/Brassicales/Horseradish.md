@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Horseradish
 award_received: '[[_Standards/WikiData/WD~medicinal_plant_of_the_year,1595426]]'
@@ -92,17 +92,17 @@ USDA_NDB_number: 02055
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Horseradish](Horseradish.md)) 
+### #is_/same_as :: [Horseradish](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.md) 
 
-### #is_/same_as :: [Horseradish.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.public.md) 
+### #is_/same_as :: [Horseradish.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.public.md) 
 
-### #is_/same_as :: [Horseradish.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.internal.md) 
+### #is_/same_as :: [Horseradish.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.internal.md) 
 
-### #is_/same_as :: [Horseradish.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.protect.md) 
+### #is_/same_as :: [Horseradish.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.protect.md) 
 
-### #is_/same_as :: [Horseradish.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.private.md) 
+### #is_/same_as :: [Horseradish.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.private.md) 
 
-### #is_/same_as :: [Horseradish.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.personal.md) 
+### #is_/same_as :: [Horseradish.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.personal.md) 
 
-### #is_/same_as :: [Horseradish.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.secret.md)
+### #is_/same_as :: [Horseradish.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Horseradish.secret.md)
 

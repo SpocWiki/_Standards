@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - use-action
 - use_action

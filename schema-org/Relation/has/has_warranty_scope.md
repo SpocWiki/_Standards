@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - warranty-scope
 - warranty_scope

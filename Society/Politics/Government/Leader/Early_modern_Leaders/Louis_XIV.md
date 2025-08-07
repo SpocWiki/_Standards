@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Louis XIV"
 anthem: '[[_Standards/WikiData/WD~Marche_Henri_IV,1136397]]'
@@ -191,17 +191,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Louis_XIV](Louis_XIV.md)) 
+### #is_/same_as :: [Louis_XIV](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.md) 
 
-### #is_/same_as :: [Louis_XIV.public](/_public/Society/Government/Leader/Early_modern_Leaders/Louis_XIV.public.md) 
+### #is_/same_as :: [Louis_XIV.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.public.md) 
 
-### #is_/same_as :: [Louis_XIV.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Louis_XIV.internal.md) 
+### #is_/same_as :: [Louis_XIV.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.internal.md) 
 
-### #is_/same_as :: [Louis_XIV.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Louis_XIV.protect.md) 
+### #is_/same_as :: [Louis_XIV.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.protect.md) 
 
-### #is_/same_as :: [Louis_XIV.private](/_private/Society/Government/Leader/Early_modern_Leaders/Louis_XIV.private.md) 
+### #is_/same_as :: [Louis_XIV.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.private.md) 
 
-### #is_/same_as :: [Louis_XIV.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Louis_XIV.personal.md) 
+### #is_/same_as :: [Louis_XIV.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.personal.md) 
 
-### #is_/same_as :: [Louis_XIV.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Louis_XIV.secret.md)
+### #is_/same_as :: [Louis_XIV.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.secret.md)
 

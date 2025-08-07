@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Semiconductors
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_id_wikidata: Q11456

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - element-of
 - element_of

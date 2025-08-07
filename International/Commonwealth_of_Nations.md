@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Commonwealth_of_Nations
 - "British Commonwealth"

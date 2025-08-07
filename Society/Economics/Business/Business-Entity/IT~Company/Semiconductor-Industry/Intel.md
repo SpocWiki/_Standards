@@ -71,3 +71,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intel)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Intel](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.md) 
+
+### #is_/same_as :: [Intel.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.public.md) 
+
+### #is_/same_as :: [Intel.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.internal.md) 
+
+### #is_/same_as :: [Intel.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.protect.md) 
+
+### #is_/same_as :: [Intel.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.private.md) 
+
+### #is_/same_as :: [Intel.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.personal.md) 
+
+### #is_/same_as :: [Intel.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel.secret.md)
+

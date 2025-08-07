@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - automotive-business
 - automotive_business

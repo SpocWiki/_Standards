@@ -51,3 +51,20 @@ has_id_wikidata: Q1075
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Color) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Color](/_Standards/Technology/Design/Graphic_Design/Color.md) 
+
+### #is_/same_as :: [Color.public](/_public/Technology/Design/Graphic_Design/Color.public.md) 
+
+### #is_/same_as :: [Color.internal](/_internal/Technology/Design/Graphic_Design/Color.internal.md) 
+
+### #is_/same_as :: [Color.protect](/_protect/Technology/Design/Graphic_Design/Color.protect.md) 
+
+### #is_/same_as :: [Color.private](/_private/Technology/Design/Graphic_Design/Color.private.md) 
+
+### #is_/same_as :: [Color.personal](/_personal/Technology/Design/Graphic_Design/Color.personal.md) 
+
+### #is_/same_as :: [Color.secret](/_secret/Technology/Design/Graphic_Design/Color.secret.md)
+

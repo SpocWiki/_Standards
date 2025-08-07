@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nicolaus Copernicus"
 - "Copernicus, Nicolaus"

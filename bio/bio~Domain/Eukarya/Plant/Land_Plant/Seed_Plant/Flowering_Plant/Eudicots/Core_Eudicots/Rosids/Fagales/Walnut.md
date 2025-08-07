@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Walnut
 - Walnuss
@@ -68,17 +68,17 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Walnut\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Walnut](Walnut.md)) 
+### #is_/same_as :: [Walnut](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.md) 
 
-### #is_/same_as :: [Walnut.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.public.md) 
+### #is_/same_as :: [Walnut.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.public.md) 
 
-### #is_/same_as :: [Walnut.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.internal.md) 
+### #is_/same_as :: [Walnut.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.internal.md) 
 
-### #is_/same_as :: [Walnut.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.protect.md) 
+### #is_/same_as :: [Walnut.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.protect.md) 
 
-### #is_/same_as :: [Walnut.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.private.md) 
+### #is_/same_as :: [Walnut.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.private.md) 
 
-### #is_/same_as :: [Walnut.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.personal.md) 
+### #is_/same_as :: [Walnut.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.personal.md) 
 
-### #is_/same_as :: [Walnut.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.secret.md)
+### #is_/same_as :: [Walnut.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Walnut.secret.md)
 

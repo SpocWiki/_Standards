@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Eucritta melanolimnetes"
 ---
 
@@ -71,7 +71,7 @@ melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http:/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eucritta_melanolimnetes](Eucritta_melanolimnetes.md)) 
+### #is_/same_as :: [Eucritta_melanolimnetes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.md) 
 
 ### #is_/same_as :: [Eucritta_melanolimnetes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.public.md) 
 

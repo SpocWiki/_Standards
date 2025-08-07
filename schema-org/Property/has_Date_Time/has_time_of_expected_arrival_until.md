@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - expected-arrival-until
 - expected_arrival_until

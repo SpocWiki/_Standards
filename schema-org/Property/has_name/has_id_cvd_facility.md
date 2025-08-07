@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd-facility-id
 - id_cvd_facility

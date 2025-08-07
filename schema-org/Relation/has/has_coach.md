@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - coach
 - coach

@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: 63df099e-db44-46f1-8aad-b620e3e6927b
 Commons_category: Abacus
 Commons_gallery: Abacus
@@ -45,4 +45,20 @@ Unicode_character: "\U0001F9EE"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abacus) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abacus](/_Standards/Mathematics/Arithmetic/Abacus.md) 
+
+### #is_/same_as :: [Abacus.public](/_public/Mathematics/Arithmetic/Abacus.public.md) 
+
+### #is_/same_as :: [Abacus.internal](/_internal/Mathematics/Arithmetic/Abacus.internal.md) 
+
+### #is_/same_as :: [Abacus.protect](/_protect/Mathematics/Arithmetic/Abacus.protect.md) 
+
+### #is_/same_as :: [Abacus.private](/_private/Mathematics/Arithmetic/Abacus.private.md) 
+
+### #is_/same_as :: [Abacus.personal](/_personal/Mathematics/Arithmetic/Abacus.personal.md) 
+
+### #is_/same_as :: [Abacus.secret](/_secret/Mathematics/Arithmetic/Abacus.secret.md)
 

@@ -428,3 +428,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Batman) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Batman](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.md) 
+
+### #is_/same_as :: [Batman.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.public.md) 
+
+### #is_/same_as :: [Batman.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.internal.md) 
+
+### #is_/same_as :: [Batman.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.protect.md) 
+
+### #is_/same_as :: [Batman.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.private.md) 
+
+### #is_/same_as :: [Batman.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.personal.md) 
+
+### #is_/same_as :: [Batman.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Batman.secret.md)
+

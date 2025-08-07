@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Fiji~Northern
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - expects-acceptance-of
 - expects_acceptance_of

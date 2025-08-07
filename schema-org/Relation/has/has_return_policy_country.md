@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-policy-country
 - return_policy_country

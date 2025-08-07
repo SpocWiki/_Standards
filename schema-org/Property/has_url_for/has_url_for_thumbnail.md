@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - thumbnail-url
 - thumbnail_url

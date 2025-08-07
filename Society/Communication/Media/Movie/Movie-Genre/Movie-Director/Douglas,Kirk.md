@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kirk Douglas"
 - "Issur Danielovitch"
@@ -65,4 +65,21 @@ aliases:
 > A centenarian, Douglas was one of the last surviving stars of the film industry's Golden Age.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kirk%20Douglas)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Douglas,Kirk](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.md) 
+
+### #is_/same_as :: [Douglas,Kirk.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.public.md) 
+
+### #is_/same_as :: [Douglas,Kirk.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.internal.md) 
+
+### #is_/same_as :: [Douglas,Kirk.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.protect.md) 
+
+### #is_/same_as :: [Douglas,Kirk.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.private.md) 
+
+### #is_/same_as :: [Douglas,Kirk.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.personal.md) 
+
+### #is_/same_as :: [Douglas,Kirk.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Kirk.secret.md)
 

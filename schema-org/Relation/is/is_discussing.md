@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - discusses
 - is_discussing

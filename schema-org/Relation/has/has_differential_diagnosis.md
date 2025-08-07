@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - differential-diagnosis
 - differential_diagnosis

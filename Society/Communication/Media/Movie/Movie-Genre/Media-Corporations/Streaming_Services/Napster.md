@@ -34,4 +34,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Napster)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Napster](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.md) 
+
+### #is_/same_as :: [Napster.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.public.md) 
+
+### #is_/same_as :: [Napster.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.internal.md) 
+
+### #is_/same_as :: [Napster.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.protect.md) 
+
+### #is_/same_as :: [Napster.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.private.md) 
+
+### #is_/same_as :: [Napster.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.personal.md) 
+
+### #is_/same_as :: [Napster.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Napster.secret.md)
 

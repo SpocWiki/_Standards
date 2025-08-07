@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - low-calorie-diet
 - low_calorie_diet

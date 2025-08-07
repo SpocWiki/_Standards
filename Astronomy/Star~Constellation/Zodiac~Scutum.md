@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Scutum|Zodiac~Scutum]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Scutum.public|Zodiac~Scutum.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Scutum.internal|Zodiac~Scutum.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Scutum.protect|Zodiac~Scutum.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Scutum.private|Zodiac~Scutum.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Scutum.personal|Zodiac~Scutum.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Scutum.secret|Zodiac~Scutum.secret]] 
+
+### #is_/same_as :: [Zodiac~Scutum](/_Standards/Astronomy/Star~Constellation/Zodiac~Scutum.md) 
+
+### #is_/same_as :: [Zodiac~Scutum.public](/_public/Astronomy/Star~Constellation/Zodiac~Scutum.public.md) 
+
+### #is_/same_as :: [Zodiac~Scutum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Scutum.internal.md) 
+
+### #is_/same_as :: [Zodiac~Scutum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Scutum.protect.md) 
+
+### #is_/same_as :: [Zodiac~Scutum.private](/_private/Astronomy/Star~Constellation/Zodiac~Scutum.private.md) 
+
+### #is_/same_as :: [Zodiac~Scutum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Scutum.personal.md) 
+
+### #is_/same_as :: [Zodiac~Scutum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Scutum.secret.md)
+

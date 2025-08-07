@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accepted-offer
 - accepted_offer

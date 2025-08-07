@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - therapeutic-procedure
 - therapeutic_procedure

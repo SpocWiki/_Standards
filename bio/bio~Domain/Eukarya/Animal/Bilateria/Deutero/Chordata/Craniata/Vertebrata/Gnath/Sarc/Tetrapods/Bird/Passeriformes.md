@@ -25,3 +25,20 @@ has_id_wikidata: Q25341
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Passerine) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Passeriformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.md) 
+
+### #is_/same_as :: [Passeriformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.public.md) 
+
+### #is_/same_as :: [Passeriformes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.internal.md) 
+
+### #is_/same_as :: [Passeriformes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.protect.md) 
+
+### #is_/same_as :: [Passeriformes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.private.md) 
+
+### #is_/same_as :: [Passeriformes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.personal.md) 
+
+### #is_/same_as :: [Passeriformes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes.secret.md)
+

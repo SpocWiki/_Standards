@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Guadalcanal
 confidential: public

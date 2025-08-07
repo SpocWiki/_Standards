@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q82811
 ---
 
@@ -13,4 +13,21 @@ has_id_wikidata: Q82811
 > Hearing is one of the most crucial means of survival in the animal world and speech is one of the most distinctive characteristics of human development and culture. Accordingly, the science of acoustics spreads across many facets of human society—music, medicine, architecture, industrial production, warfare and more. Likewise, animal species such as songbirds and frogs use sound and hearing as a key element of mating rituals or for marking territories. Art, craft, science and technology have provoked one another to advance the whole, as in many other fields of knowledge. Robert Bruce Lindsay's "Wheel of Acoustics" is a well-accepted overview of the various fields in acoustics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Acoustics) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Acoustics](/_Standards/Science/Physics/Acoustics.md) 
+
+### #is_/same_as :: [Acoustics.public](/_public/Science/Physics/Acoustics.public.md) 
+
+### #is_/same_as :: [Acoustics.internal](/_internal/Science/Physics/Acoustics.internal.md) 
+
+### #is_/same_as :: [Acoustics.protect](/_protect/Science/Physics/Acoustics.protect.md) 
+
+### #is_/same_as :: [Acoustics.private](/_private/Science/Physics/Acoustics.private.md) 
+
+### #is_/same_as :: [Acoustics.personal](/_personal/Science/Physics/Acoustics.personal.md) 
+
+### #is_/same_as :: [Acoustics.secret](/_secret/Science/Physics/Acoustics.secret.md)
 

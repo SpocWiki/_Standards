@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drive-wheel-configuration
 - drive_wheel_configuration

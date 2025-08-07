@@ -31,3 +31,20 @@ P8189: "987007294806605171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arms%20race) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arms_Race](/_Standards/Society/Military/Arms_Race.md) 
+
+### #is_/same_as :: [Arms_Race.public](/_public/Society/Military/Arms_Race.public.md) 
+
+### #is_/same_as :: [Arms_Race.internal](/_internal/Society/Military/Arms_Race.internal.md) 
+
+### #is_/same_as :: [Arms_Race.protect](/_protect/Society/Military/Arms_Race.protect.md) 
+
+### #is_/same_as :: [Arms_Race.private](/_private/Society/Military/Arms_Race.private.md) 
+
+### #is_/same_as :: [Arms_Race.personal](/_personal/Society/Military/Arms_Race.personal.md) 
+
+### #is_/same_as :: [Arms_Race.secret](/_secret/Society/Military/Arms_Race.secret.md)
+

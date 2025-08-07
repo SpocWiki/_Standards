@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pickup-time
 - pickup_time

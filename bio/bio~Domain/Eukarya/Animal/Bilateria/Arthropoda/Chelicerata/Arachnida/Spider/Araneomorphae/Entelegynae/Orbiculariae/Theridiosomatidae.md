@@ -1,4 +1,4 @@
-﻿---
+---
 title: Theridiosomatidae
 ---
 
@@ -130,7 +130,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Theridiosomatidae](Theridiosomatidae.md)) 
+### #is_/same_as :: [Theridiosomatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.md) 
 
 ### #is_/same_as :: [Theridiosomatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiosomatidae.public.md) 
 

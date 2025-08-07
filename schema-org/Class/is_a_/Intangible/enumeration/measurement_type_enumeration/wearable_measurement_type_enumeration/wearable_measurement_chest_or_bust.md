@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-chest-or-bust
 - wearable_measurement_chest_or_bust

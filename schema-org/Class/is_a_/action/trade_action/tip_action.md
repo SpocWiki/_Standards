@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tip-action
 - tip_action

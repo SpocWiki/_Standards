@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Pyramids
 Commons_gallery: Pyramid
 described_by_source:

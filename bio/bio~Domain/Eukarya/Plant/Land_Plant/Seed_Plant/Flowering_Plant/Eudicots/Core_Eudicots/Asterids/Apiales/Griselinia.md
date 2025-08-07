@@ -1,4 +1,4 @@
-﻿---
+---
 title: Griselinia
 ---
 
@@ -40,17 +40,17 @@ title: Griselinia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Griselinia](Griselinia.md)) 
+### #is_/same_as :: [Griselinia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.md) 
 
-### #is_/same_as :: [Griselinia.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.public.md) 
+### #is_/same_as :: [Griselinia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.public.md) 
 
-### #is_/same_as :: [Griselinia.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.internal.md) 
+### #is_/same_as :: [Griselinia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.internal.md) 
 
-### #is_/same_as :: [Griselinia.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.protect.md) 
+### #is_/same_as :: [Griselinia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.protect.md) 
 
-### #is_/same_as :: [Griselinia.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.private.md) 
+### #is_/same_as :: [Griselinia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.private.md) 
 
-### #is_/same_as :: [Griselinia.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.personal.md) 
+### #is_/same_as :: [Griselinia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.personal.md) 
 
-### #is_/same_as :: [Griselinia.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.secret.md)
+### #is_/same_as :: [Griselinia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Griselinia.secret.md)
 

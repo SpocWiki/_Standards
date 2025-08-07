@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 女人
 category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q60607743,60607743]]'
 Colon_Classification: Y15

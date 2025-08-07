@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marlene Dietrich"
 award_received:
@@ -168,17 +168,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietrich,Marlene](Dietrich,Marlene.md) 
+### #is_/same_as :: [Dietrich,Marlene](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.public](/_public/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.public.md) 
+### #is_/same_as :: [Dietrich,Marlene.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.public.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.internal](/_internal/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.internal.md) 
+### #is_/same_as :: [Dietrich,Marlene.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.internal.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.protect](/_protect/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.protect.md) 
+### #is_/same_as :: [Dietrich,Marlene.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.protect.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.private](/_private/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.private.md) 
+### #is_/same_as :: [Dietrich,Marlene.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.private.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.personal](/_personal/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.personal.md) 
+### #is_/same_as :: [Dietrich,Marlene.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.personal.md) 
 
-### #is_/same_as :: [Dietrich,Marlene.secret](/_secret/Society/Communication/Media/Movie/Actor/Dietrich,Marlene.secret.md)
+### #is_/same_as :: [Dietrich,Marlene.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Dietrich,Marlene.secret.md)
 

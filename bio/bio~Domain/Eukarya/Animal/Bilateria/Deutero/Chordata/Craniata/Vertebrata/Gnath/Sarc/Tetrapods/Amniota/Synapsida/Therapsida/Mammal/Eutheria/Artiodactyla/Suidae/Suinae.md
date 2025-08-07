@@ -1,4 +1,4 @@
-﻿---
+---
 title: Suinae
 ---
 
@@ -79,7 +79,7 @@ Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Suinae](Suinae.md)) 
+### #is_/same_as :: [Suinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae.md) 
 
 ### #is_/same_as :: [Suinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae.public.md) 
 

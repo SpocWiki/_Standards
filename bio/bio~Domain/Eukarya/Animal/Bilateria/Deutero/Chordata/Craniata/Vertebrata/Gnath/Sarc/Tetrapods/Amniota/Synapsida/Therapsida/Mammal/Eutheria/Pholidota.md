@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pholidota
 ---
 
@@ -95,7 +95,7 @@ Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pholidota](Pholidota.md)) 
+### #is_/same_as :: [Pholidota](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.md) 
 
 ### #is_/same_as :: [Pholidota.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota.public.md) 
 

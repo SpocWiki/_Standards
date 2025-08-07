@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "G:66"
 Commons_category: Evolution
 described_by_source:

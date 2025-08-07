@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Magnoliales
 title: Magnoliales
@@ -52,17 +52,17 @@ Copyright ::         © [USDA Agricultural Research Service USDA Agricultural Re
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Magnoliales](Magnoliales.md)) 
+### #is_/same_as :: [Magnoliales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.md) 
 
-### #is_/same_as :: [Magnoliales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.public.md) 
+### #is_/same_as :: [Magnoliales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.public.md) 
 
-### #is_/same_as :: [Magnoliales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.internal.md) 
+### #is_/same_as :: [Magnoliales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.internal.md) 
 
-### #is_/same_as :: [Magnoliales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.protect.md) 
+### #is_/same_as :: [Magnoliales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.protect.md) 
 
-### #is_/same_as :: [Magnoliales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.private.md) 
+### #is_/same_as :: [Magnoliales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.private.md) 
 
-### #is_/same_as :: [Magnoliales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.personal.md) 
+### #is_/same_as :: [Magnoliales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.personal.md) 
 
-### #is_/same_as :: [Magnoliales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.secret.md)
+### #is_/same_as :: [Magnoliales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Magnoliales.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - full-refund
 - full_refund

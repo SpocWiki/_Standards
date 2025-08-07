@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Yorgos Lanthimos"
 ---
@@ -20,4 +20,21 @@ aliases:
 > the latter also won the Golden Lion at the 80th Venice International Film Festival.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yorgos%20Lanthimos)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lanthimos,Yorgos](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.md) 
+
+### #is_/same_as :: [Lanthimos,Yorgos.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.public.md) 
+
+### #is_/same_as :: [Lanthimos,Yorgos.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.internal.md) 
+
+### #is_/same_as :: [Lanthimos,Yorgos.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.protect.md) 
+
+### #is_/same_as :: [Lanthimos,Yorgos.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.private.md) 
+
+### #is_/same_as :: [Lanthimos,Yorgos.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.personal.md) 
+
+### #is_/same_as :: [Lanthimos,Yorgos.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Lanthimos,Yorgos.secret.md)
 

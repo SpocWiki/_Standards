@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-defect-return-fees
 - item_defect_return_fees

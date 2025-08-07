@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - provider-mobility
 - provider_mobility

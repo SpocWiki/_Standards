@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cambaroides
 ---
 
@@ -43,7 +43,7 @@ title: Cambaroides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cambaroides](Cambaroides.md)) 
+### #is_/same_as :: [Cambaroides](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae/Cambaroides.md) 
 
 ### #is_/same_as :: [Cambaroides.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae/Cambaroides.public.md) 
 

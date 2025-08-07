@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amastigomonas debruynei"
 ---
 
@@ -114,7 +114,7 @@ Natural History 34: 483-562.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[debruynei](debruynei.md)) 
+### #is_/same_as :: [debruynei](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.md) 
 
 ### #is_/same_as :: [debruynei.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/debruynei.public.md) 
 

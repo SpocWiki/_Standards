@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sima Qian"
 has_id_wikidata: Q9372

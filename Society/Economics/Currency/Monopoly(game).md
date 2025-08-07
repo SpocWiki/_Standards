@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Monopoly_(game)
 - "Monopoly (game)"

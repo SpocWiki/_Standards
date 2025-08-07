@@ -1,4 +1,4 @@
-﻿---
+---
 title: Piroplasmorida
 ---
 
@@ -64,7 +64,7 @@ Scientific Name ::     Babesia microti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Piroplasmorida](Piroplasmorida.md)) 
+### #is_/same_as :: [Piroplasmorida](/_Standards/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.md) 
 
 ### #is_/same_as :: [Piroplasmorida.public](/_public/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.public.md) 
 

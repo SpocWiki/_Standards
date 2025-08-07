@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - resume-action
 - resume_action

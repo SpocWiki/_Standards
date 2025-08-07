@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Aepyceros melampus"
 - impala
@@ -66,7 +66,7 @@ Copyright ::                           © 2006 [der_aufzynd](http://flickr.com/p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Impala](Impala.md)) 
+### #is_/same_as :: [Impala](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Impala.md) 
 
 ### #is_/same_as :: [Impala.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Impala.public.md) 
 

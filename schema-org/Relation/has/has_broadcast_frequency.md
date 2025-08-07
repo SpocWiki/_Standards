@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-frequency
 - broadcast_frequency

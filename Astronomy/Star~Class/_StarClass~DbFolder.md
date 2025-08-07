@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -203,3 +203,21 @@ filters:
 ```
 
 Nothing of this is shown!
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [_StarClass~DbFolder](/_Standards/Astronomy/Star~Class/_StarClass~DbFolder.md) 
+
+### #is_/same_as :: [_StarClass~DbFolder.public](/_public/Astronomy/Star~Class/_StarClass~DbFolder.public.md) 
+
+### #is_/same_as :: [_StarClass~DbFolder.internal](/_internal/Astronomy/Star~Class/_StarClass~DbFolder.internal.md) 
+
+### #is_/same_as :: [_StarClass~DbFolder.protect](/_protect/Astronomy/Star~Class/_StarClass~DbFolder.protect.md) 
+
+### #is_/same_as :: [_StarClass~DbFolder.private](/_private/Astronomy/Star~Class/_StarClass~DbFolder.private.md) 
+
+### #is_/same_as :: [_StarClass~DbFolder.personal](/_personal/Astronomy/Star~Class/_StarClass~DbFolder.personal.md) 
+
+### #is_/same_as :: [_StarClass~DbFolder.secret](/_secret/Astronomy/Star~Class/_StarClass~DbFolder.secret.md)
+

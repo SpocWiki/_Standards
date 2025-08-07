@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - replacer
 - replacer

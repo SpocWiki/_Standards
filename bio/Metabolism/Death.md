@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Death
 Colon_Classification: "Q:361"
 Commons_category: Death

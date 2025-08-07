@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - postal-code-range-specification
 - postal_code_range_specification

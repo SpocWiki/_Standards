@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Placido Domingo"
 ---
@@ -59,4 +59,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%A1cido%20Domingo)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Domingo,Placido](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.md) 
+
+### #is_/same_as :: [Domingo,Placido.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.public.md) 
+
+### #is_/same_as :: [Domingo,Placido.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.internal.md) 
+
+### #is_/same_as :: [Domingo,Placido.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.protect.md) 
+
+### #is_/same_as :: [Domingo,Placido.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.private.md) 
+
+### #is_/same_as :: [Domingo,Placido.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.personal.md) 
+
+### #is_/same_as :: [Domingo,Placido.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Domingo,Placido.secret.md)
 

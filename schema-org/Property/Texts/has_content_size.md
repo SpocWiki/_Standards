@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content-size
 - content_size

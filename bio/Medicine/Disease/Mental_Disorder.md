@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Mental and behavioural diseases and disorders"
 described_at_URL: "https://www.hilarispublisher.com/scholarly/mental-health-morbidity-journals-articles-ppts-list-2525.html"
 described_by_source:

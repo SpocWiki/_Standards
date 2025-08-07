@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alphonse Gabriel Capone"
 - "Alphonse Capone"
@@ -96,4 +96,21 @@ U_S_National_Archives_Identifier: 10580795
 > Federal authorities became intent on jailing Capone and charged him with twenty-two counts of tax evasion. He was convicted of five counts in 1931. During a highly publicized case, the judge admitted as evidence Capone's admissions of his income and unpaid taxes, made during prior and ultimately abortive negotiations to pay the government taxes he owed. He was convicted and sentenced to eleven years in federal prison. After conviction, he replaced his defense team with experts in tax law, and his grounds for appeal were strengthened by a U.S. Supreme Court ruling, although his appeal ultimately failed. Capone showed signs of neurosyphilis early in his sentence and became increasingly debilitated before being released after almost eight years of incarceration. In 1947, he died of cardiac arrest after a stroke.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Al%20Capone) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Al_Capone](/_Standards/Society/Criminology/Crime/Organized_Crime/Al_Capone.md) 
+
+### #is_/same_as :: [Al_Capone.public](/_public/Society/Criminology/Crime/Organized_Crime/Al_Capone.public.md) 
+
+### #is_/same_as :: [Al_Capone.internal](/_internal/Society/Criminology/Crime/Organized_Crime/Al_Capone.internal.md) 
+
+### #is_/same_as :: [Al_Capone.protect](/_protect/Society/Criminology/Crime/Organized_Crime/Al_Capone.protect.md) 
+
+### #is_/same_as :: [Al_Capone.private](/_private/Society/Criminology/Crime/Organized_Crime/Al_Capone.private.md) 
+
+### #is_/same_as :: [Al_Capone.personal](/_personal/Society/Criminology/Crime/Organized_Crime/Al_Capone.personal.md) 
+
+### #is_/same_as :: [Al_Capone.secret](/_secret/Society/Criminology/Crime/Organized_Crime/Al_Capone.secret.md)
 

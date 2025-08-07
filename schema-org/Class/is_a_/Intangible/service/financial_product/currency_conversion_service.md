@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - currency-conversion-service
 - currency_conversion_service

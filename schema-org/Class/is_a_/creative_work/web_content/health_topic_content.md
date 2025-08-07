@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-topic-content
 - health_topic_content

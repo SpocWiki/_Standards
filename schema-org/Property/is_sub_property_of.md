@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-property-of
 - subproperty-of

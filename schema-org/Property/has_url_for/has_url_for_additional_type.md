@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - additional-type
 - additional_type

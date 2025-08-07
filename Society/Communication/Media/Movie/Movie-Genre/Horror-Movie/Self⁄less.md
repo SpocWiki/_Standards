@@ -22,3 +22,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Self/less)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Self⁄less](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.md) 
+
+### #is_/same_as :: [Self⁄less.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.public.md) 
+
+### #is_/same_as :: [Self⁄less.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.internal.md) 
+
+### #is_/same_as :: [Self⁄less.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.protect.md) 
+
+### #is_/same_as :: [Self⁄less.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.private.md) 
+
+### #is_/same_as :: [Self⁄less.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.personal.md) 
+
+### #is_/same_as :: [Self⁄less.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Self⁄less.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - effectiveness-health-aspect
 - effectiveness_health_aspect

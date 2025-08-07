@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suggested_min_age
 - suggested-min-age

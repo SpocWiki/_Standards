@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protoxerini
 ---
 
@@ -62,7 +62,7 @@ Copyright ::            © [Mark Levesley](http://www.naturalimagebank.com/index
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Protoxerini](Protoxerini.md)) 
+### #is_/same_as :: [Protoxerini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Protoxerini.md) 
 
 ### #is_/same_as :: [Protoxerini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Protoxerini.public.md) 
 

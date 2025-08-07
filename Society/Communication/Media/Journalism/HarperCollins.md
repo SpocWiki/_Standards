@@ -26,3 +26,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HarperCollins) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [HarperCollins](/_Standards/Society/Communication/Media/Journalism/HarperCollins.md) 
+
+### #is_/same_as :: [HarperCollins.public](/_public/Society/Communication/Media/Journalism/HarperCollins.public.md) 
+
+### #is_/same_as :: [HarperCollins.internal](/_internal/Society/Communication/Media/Journalism/HarperCollins.internal.md) 
+
+### #is_/same_as :: [HarperCollins.protect](/_protect/Society/Communication/Media/Journalism/HarperCollins.protect.md) 
+
+### #is_/same_as :: [HarperCollins.private](/_private/Society/Communication/Media/Journalism/HarperCollins.private.md) 
+
+### #is_/same_as :: [HarperCollins.personal](/_personal/Society/Communication/Media/Journalism/HarperCollins.personal.md) 
+
+### #is_/same_as :: [HarperCollins.secret](/_secret/Society/Communication/Media/Journalism/HarperCollins.secret.md)
+

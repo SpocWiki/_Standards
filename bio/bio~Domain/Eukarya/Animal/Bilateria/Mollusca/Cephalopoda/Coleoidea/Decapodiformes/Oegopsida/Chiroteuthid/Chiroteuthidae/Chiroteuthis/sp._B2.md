@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis sp. B2"
 ---
 
@@ -112,7 +112,7 @@ Temperate South Atlantic. Some variation in sucker dentition is apparent
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sp._B2](sp._B2.md)) 
+### #is_/same_as :: [sp._B2](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/sp._B2.md) 
 
 ### #is_/same_as :: [sp._B2.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/sp._B2.public.md) 
 

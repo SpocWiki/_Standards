@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis sp. B2"
 ---
 

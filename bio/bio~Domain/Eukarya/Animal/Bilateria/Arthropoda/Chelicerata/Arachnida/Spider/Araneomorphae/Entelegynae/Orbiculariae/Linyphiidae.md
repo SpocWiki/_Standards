@@ -1,4 +1,4 @@
-﻿---
+---
 title: Linyphiidae
 ---
 
@@ -66,7 +66,7 @@ of Arachnology 30 (3):487-493.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Linyphiidae](Linyphiidae.md)) 
+### #is_/same_as :: [Linyphiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.md) 
 
 ### #is_/same_as :: [Linyphiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-head
 - body_measurement_head

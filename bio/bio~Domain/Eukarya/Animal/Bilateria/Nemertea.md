@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nemertea
 ---
 
@@ -83,7 +83,7 @@ Copyright ::            © 2004 [Jon L. Norenburg](http://nemertes.si.edu/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nemertea](Nemertea.md)) 
+### #is_/same_as :: [Nemertea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.md) 
 
 ### #is_/same_as :: [Nemertea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-address
 - address_delivery

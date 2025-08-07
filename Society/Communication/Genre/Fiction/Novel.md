@@ -14,5 +14,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Novel)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Novel](/_Standards/Society/Communication/Genre/Fiction/Novel.md) 
+
+### #is_/same_as :: [Novel.public](/_public/Society/Communication/Genre/Fiction/Novel.public.md) 
+
+### #is_/same_as :: [Novel.internal](/_internal/Society/Communication/Genre/Fiction/Novel.internal.md) 
+
+### #is_/same_as :: [Novel.protect](/_protect/Society/Communication/Genre/Fiction/Novel.protect.md) 
+
+### #is_/same_as :: [Novel.private](/_private/Society/Communication/Genre/Fiction/Novel.private.md) 
+
+### #is_/same_as :: [Novel.personal](/_personal/Society/Communication/Genre/Fiction/Novel.personal.md) 
+
+### #is_/same_as :: [Novel.secret](/_secret/Society/Communication/Genre/Fiction/Novel.secret.md)
 

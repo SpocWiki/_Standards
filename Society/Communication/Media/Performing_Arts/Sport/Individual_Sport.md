@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "individual sport"
 has_id_wikidata: Q2755547

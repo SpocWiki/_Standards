@@ -1,4 +1,4 @@
-﻿---
+---
 bookmarksGroups: 
 excludes: 
 extends: FileClass~Thing/FileClass~MedicalEntity

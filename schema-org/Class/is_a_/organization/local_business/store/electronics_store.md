@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - electronics-store
 - electronics_store

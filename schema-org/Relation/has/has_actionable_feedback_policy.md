@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - actionable-feedback-policy
 - actionable_feedback_policy

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-symptom
 - medical_symptom

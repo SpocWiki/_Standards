@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - departure-bus-stop
 - departure_bus_stop

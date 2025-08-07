@@ -108,5 +108,19 @@ Wolfram_Language_entity_code: "Entity[\"Book\", \"AnnaKarenina\"]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Anna%20Karenina) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Anna_Karenina](/_Standards/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.md) 
+
+### #is_/same_as :: [Anna_Karenina.public](/_public/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.public.md) 
+
+### #is_/same_as :: [Anna_Karenina.internal](/_internal/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.internal.md) 
+
+### #is_/same_as :: [Anna_Karenina.protect](/_protect/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.protect.md) 
+
+### #is_/same_as :: [Anna_Karenina.private](/_private/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.private.md) 
+
+### #is_/same_as :: [Anna_Karenina.personal](/_personal/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.personal.md) 
+
+### #is_/same_as :: [Anna_Karenina.secret](/_secret/Society/Communication/Media/Book/Writer/Tolstoy,Leo/Anna_Karenina.secret.md)
 

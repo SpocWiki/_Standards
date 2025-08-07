@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-group-infants
 - wearable_size_group_infants

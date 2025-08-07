@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - num-adults
 - num_adults

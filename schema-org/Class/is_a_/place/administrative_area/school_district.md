@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - school-district
 - school_district

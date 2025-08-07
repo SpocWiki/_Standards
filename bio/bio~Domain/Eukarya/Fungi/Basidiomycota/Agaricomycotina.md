@@ -1,4 +1,4 @@
-﻿---
+---
 title: Agaricomycotina
 ---
 
@@ -477,7 +477,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Agaricomycotina](Agaricomycotina.md)) 
+### #is_/same_as :: [Agaricomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina.md) 
 
 ### #is_/same_as :: [Agaricomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina.public.md) 
 

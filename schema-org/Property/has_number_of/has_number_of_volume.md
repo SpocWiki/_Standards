@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - volume-number
 - volume_number

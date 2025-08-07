@@ -75,3 +75,19 @@ P8189: "987007556280005171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Automotive%20industry) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Automotive](/_Standards/Society/Economics/Business/Business-Entity/Automotive.md) 
+
+### #is_/same_as :: [Automotive.public](/_public/Society/Economics/Business/Business-Entity/Automotive.public.md) 
+
+### #is_/same_as :: [Automotive.internal](/_internal/Society/Economics/Business/Business-Entity/Automotive.internal.md) 
+
+### #is_/same_as :: [Automotive.protect](/_protect/Society/Economics/Business/Business-Entity/Automotive.protect.md) 
+
+### #is_/same_as :: [Automotive.private](/_private/Society/Economics/Business/Business-Entity/Automotive.private.md) 
+
+### #is_/same_as :: [Automotive.personal](/_personal/Society/Economics/Business/Business-Entity/Automotive.personal.md) 
+
+### #is_/same_as :: [Automotive.secret](/_secret/Society/Economics/Business/Business-Entity/Automotive.secret.md)
+

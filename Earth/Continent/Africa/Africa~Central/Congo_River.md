@@ -1,4 +1,4 @@
-﻿---
+---
 basin_country:
 - '[[_Standards/WikiData/WD~Angola,916]]'
 - '[[_Standards/WikiData/WD~Tanzania,924]]'

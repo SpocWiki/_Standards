@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - conditions-of-access
 - conditions_of_access

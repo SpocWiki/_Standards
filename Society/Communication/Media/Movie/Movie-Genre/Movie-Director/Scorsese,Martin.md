@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Martin Scorsese"
 - "Martin Charles Scorsese"
@@ -60,4 +60,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Scorsese)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Scorsese,Martin](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.md) 
+
+### #is_/same_as :: [Scorsese,Martin.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.public.md) 
+
+### #is_/same_as :: [Scorsese,Martin.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.internal.md) 
+
+### #is_/same_as :: [Scorsese,Martin.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.protect.md) 
+
+### #is_/same_as :: [Scorsese,Martin.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.private.md) 
+
+### #is_/same_as :: [Scorsese,Martin.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.personal.md) 
+
+### #is_/same_as :: [Scorsese,Martin.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Scorsese,Martin.secret.md)
 

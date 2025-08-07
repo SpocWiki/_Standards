@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - boarding-group
 - boarding_group

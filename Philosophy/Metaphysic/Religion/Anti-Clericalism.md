@@ -25,3 +25,20 @@ Library_of_Congress_Classification: BR1625
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anti-clericalism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anti-Clericalism](/_Standards/Philosophy/Metaphysic/Religion/Anti-Clericalism.md) 
+
+### #is_/same_as :: [Anti-Clericalism.public](/_public/Philosophy/Metaphysic/Religion/Anti-Clericalism.public.md) 
+
+### #is_/same_as :: [Anti-Clericalism.internal](/_internal/Philosophy/Metaphysic/Religion/Anti-Clericalism.internal.md) 
+
+### #is_/same_as :: [Anti-Clericalism.protect](/_protect/Philosophy/Metaphysic/Religion/Anti-Clericalism.protect.md) 
+
+### #is_/same_as :: [Anti-Clericalism.private](/_private/Philosophy/Metaphysic/Religion/Anti-Clericalism.private.md) 
+
+### #is_/same_as :: [Anti-Clericalism.personal](/_personal/Philosophy/Metaphysic/Religion/Anti-Clericalism.personal.md) 
+
+### #is_/same_as :: [Anti-Clericalism.secret](/_secret/Philosophy/Metaphysic/Religion/Anti-Clericalism.secret.md)
+

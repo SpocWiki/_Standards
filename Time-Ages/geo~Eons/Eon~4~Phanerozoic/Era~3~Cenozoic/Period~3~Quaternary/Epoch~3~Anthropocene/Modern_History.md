@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Modern history"
 Commons_category: "Modern period"

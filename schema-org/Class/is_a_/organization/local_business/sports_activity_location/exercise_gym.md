@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exercise-gym
 - exercise_gym

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-presented
 - work_presented

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - refurbished-condition
 - refurbished_condition

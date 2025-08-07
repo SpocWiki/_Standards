@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-cost-category
 - drug_cost_category

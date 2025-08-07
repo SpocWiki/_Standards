@@ -8,3 +8,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20League%20of%20Extraordinary%20Gentlemen) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.md) 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.public.md) 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.internal.md) 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.protect.md) 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.private.md) 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.personal.md) 
+
+### #is_/same_as :: [League of Extraordinary Gentlemen.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-service
 - broadcast_service

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bertrand Russell"
 - "Bertrand Arthur William Russell"

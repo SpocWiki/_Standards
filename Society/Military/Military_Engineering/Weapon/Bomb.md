@@ -12,3 +12,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bomb) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bomb](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb.md) 
+
+### #is_/same_as :: [Bomb.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb.public.md) 
+
+### #is_/same_as :: [Bomb.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb.internal.md) 
+
+### #is_/same_as :: [Bomb.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb.protect.md) 
+
+### #is_/same_as :: [Bomb.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb.private.md) 
+
+### #is_/same_as :: [Bomb.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb.personal.md) 
+
+### #is_/same_as :: [Bomb.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Big Bang"
 has_id_wikidata: Q323

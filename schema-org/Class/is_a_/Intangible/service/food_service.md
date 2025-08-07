@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - food-service
 - food_service

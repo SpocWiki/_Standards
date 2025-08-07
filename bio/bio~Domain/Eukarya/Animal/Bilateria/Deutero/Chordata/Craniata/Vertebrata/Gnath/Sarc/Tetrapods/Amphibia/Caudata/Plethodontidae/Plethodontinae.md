@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plethodontinae
 ---
 
@@ -374,17 +374,17 @@ Copyright ::            © 1996 Dr. Robert S. Simmons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Plethodontinae](Plethodontinae.md)) 
+### #is_/same_as :: [Plethodontinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.md) 
 
-### #is_/same_as :: [Plethodontinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae.public.md) 
+### #is_/same_as :: [Plethodontinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.public.md) 
 
-### #is_/same_as :: [Plethodontinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae.internal.md) 
+### #is_/same_as :: [Plethodontinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.internal.md) 
 
-### #is_/same_as :: [Plethodontinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae.protect.md) 
+### #is_/same_as :: [Plethodontinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.protect.md) 
 
-### #is_/same_as :: [Plethodontinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae.private.md) 
+### #is_/same_as :: [Plethodontinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.private.md) 
 
-### #is_/same_as :: [Plethodontinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae.personal.md) 
+### #is_/same_as :: [Plethodontinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.personal.md) 
 
-### #is_/same_as :: [Plethodontinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Plethodontinae.secret.md)
+### #is_/same_as :: [Plethodontinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Plethodontinae.secret.md)
 

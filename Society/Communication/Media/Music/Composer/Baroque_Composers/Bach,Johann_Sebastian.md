@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Johann Sebastian Bach"
 archives_at: '[[_Standards/WikiData/WD~Bach-Archiv_Leipzig,798038]]'

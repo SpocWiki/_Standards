@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - furniture-store
 - furniture_store

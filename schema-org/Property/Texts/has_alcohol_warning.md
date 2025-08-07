@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alcohol-warning
 - alcohol_warning

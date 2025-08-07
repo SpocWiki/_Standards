@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - steering-position
 - steering_position

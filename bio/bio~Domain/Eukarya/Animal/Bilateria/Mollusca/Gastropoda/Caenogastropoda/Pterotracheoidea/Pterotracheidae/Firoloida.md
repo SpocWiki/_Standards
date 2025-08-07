@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Firoloida desmaresti"
 ---
 
@@ -99,7 +99,7 @@ Copyright ::            © 1998 David Wrobel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Firoloida](Firoloida.md)) 
+### #is_/same_as :: [Firoloida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.md) 
 
 ### #is_/same_as :: [Firoloida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: E-mail
 creator: '[[_Standards/WikiData/WD~Raymond_Tomlinson,92631]]'
 different_from:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Myxozoa
 ---
 
@@ -63,7 +63,7 @@ title: Myxozoa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Myxozoa](Myxozoa.md)) 
+### #is_/same_as :: [Myxozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Myxozoa.md) 
 
 ### #is_/same_as :: [Myxozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Myxozoa.public.md) 
 

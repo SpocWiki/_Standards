@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "New Caledonia"
 - "Nueva Caledonia"

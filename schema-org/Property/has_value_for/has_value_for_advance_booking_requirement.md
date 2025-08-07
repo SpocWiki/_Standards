@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - advance_booking_requirement
 - advance-booking-requirement

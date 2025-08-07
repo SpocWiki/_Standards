@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-vehicle-first-registered
 - date_vehicle_first_registered

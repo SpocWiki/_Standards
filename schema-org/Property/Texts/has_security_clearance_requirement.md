@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - security-clearance-requirement
 - security_clearance_requirement

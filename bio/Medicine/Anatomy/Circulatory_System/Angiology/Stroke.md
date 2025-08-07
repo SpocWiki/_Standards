@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~human_brain,492038]]'
 Commons_category: Stroke
 described_by_source:
@@ -76,17 +76,17 @@ WordLift_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Stroke](Stroke.md)) 
+### #is_/same_as :: [Stroke](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.md) 
 
-### #is_/same_as :: [Stroke.public](/_public/bio/Medicine/Disease/Stroke.public.md) 
+### #is_/same_as :: [Stroke.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.public.md) 
 
-### #is_/same_as :: [Stroke.internal](/_internal/bio/Medicine/Disease/Stroke.internal.md) 
+### #is_/same_as :: [Stroke.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.internal.md) 
 
-### #is_/same_as :: [Stroke.protect](/_protect/bio/Medicine/Disease/Stroke.protect.md) 
+### #is_/same_as :: [Stroke.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.protect.md) 
 
-### #is_/same_as :: [Stroke.private](/_private/bio/Medicine/Disease/Stroke.private.md) 
+### #is_/same_as :: [Stroke.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.private.md) 
 
-### #is_/same_as :: [Stroke.personal](/_personal/bio/Medicine/Disease/Stroke.personal.md) 
+### #is_/same_as :: [Stroke.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.personal.md) 
 
-### #is_/same_as :: [Stroke.secret](/_secret/bio/Medicine/Disease/Stroke.secret.md)
+### #is_/same_as :: [Stroke.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.secret.md)
 

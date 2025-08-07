@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Umberto Eco"
 has_id_wikidata: Q12807
@@ -39,4 +39,20 @@ has_id_wikidata: Q12807
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Umberto%20Eco)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eco,Umberto](/_Standards/Society/Communication/Media/Book/Author/Eco,Umberto.md) 
+
+### #is_/same_as :: [Eco,Umberto.public](/_public/Society/Communication/Media/Book/Author/Eco,Umberto.public.md) 
+
+### #is_/same_as :: [Eco,Umberto.internal](/_internal/Society/Communication/Media/Book/Author/Eco,Umberto.internal.md) 
+
+### #is_/same_as :: [Eco,Umberto.protect](/_protect/Society/Communication/Media/Book/Author/Eco,Umberto.protect.md) 
+
+### #is_/same_as :: [Eco,Umberto.private](/_private/Society/Communication/Media/Book/Author/Eco,Umberto.private.md) 
+
+### #is_/same_as :: [Eco,Umberto.personal](/_personal/Society/Communication/Media/Book/Author/Eco,Umberto.personal.md) 
+
+### #is_/same_as :: [Eco,Umberto.secret](/_secret/Society/Communication/Media/Book/Author/Eco,Umberto.secret.md)
 

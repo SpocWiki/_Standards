@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value-required
 - value_required

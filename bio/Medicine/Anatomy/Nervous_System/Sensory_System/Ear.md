@@ -1,4 +1,4 @@
-﻿---
+---
 APA_Dictionary_of_Psychology_entry: ear
 Archive_of_Our_Own_tag: Ears
 Colon_Classification: L183

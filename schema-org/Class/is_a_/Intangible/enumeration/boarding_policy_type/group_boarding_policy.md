@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - group-boarding-policy
 - group_boarding_policy

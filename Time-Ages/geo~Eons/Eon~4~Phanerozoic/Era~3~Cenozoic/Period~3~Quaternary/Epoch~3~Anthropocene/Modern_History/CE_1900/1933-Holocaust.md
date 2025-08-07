@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: 28f30748-7717-47cd-9815-1a19ff7d1ff5
 Commons_category: "The Holocaust"
 country:

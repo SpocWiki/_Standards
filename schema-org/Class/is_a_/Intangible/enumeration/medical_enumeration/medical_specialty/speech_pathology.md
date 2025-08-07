@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - speech-pathology
 - speech_pathology

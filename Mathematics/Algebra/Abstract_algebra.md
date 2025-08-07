@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Abstract algebra"
 Dewey_Decimal_Classification: 512.02
 different_from:
@@ -55,4 +55,21 @@ Universal_Decimal_Classification: 512.5
 > which is called the variety of groups.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abstract%20algebra) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abstract_algebra](/_Standards/Mathematics/Algebra/Abstract_algebra.md) 
+
+### #is_/same_as :: [Abstract_algebra.public](/_public/Mathematics/Algebra/Abstract_algebra.public.md) 
+
+### #is_/same_as :: [Abstract_algebra.internal](/_internal/Mathematics/Algebra/Abstract_algebra.internal.md) 
+
+### #is_/same_as :: [Abstract_algebra.protect](/_protect/Mathematics/Algebra/Abstract_algebra.protect.md) 
+
+### #is_/same_as :: [Abstract_algebra.private](/_private/Mathematics/Algebra/Abstract_algebra.private.md) 
+
+### #is_/same_as :: [Abstract_algebra.personal](/_personal/Mathematics/Algebra/Abstract_algebra.personal.md) 
+
+### #is_/same_as :: [Abstract_algebra.secret](/_secret/Mathematics/Algebra/Abstract_algebra.secret.md)
 

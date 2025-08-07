@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-event
 - delivery_event

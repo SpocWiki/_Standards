@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 16318401
 Archive_of_Our_Own_tag: Tea
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Boiling%20water%20being%20poured%20into%20a%20mug%20for%20tea.ogg"

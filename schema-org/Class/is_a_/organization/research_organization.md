@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - research-organization
 - research_organization

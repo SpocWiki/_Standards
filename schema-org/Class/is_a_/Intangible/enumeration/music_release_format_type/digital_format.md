@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - digital-format
 - digital_format

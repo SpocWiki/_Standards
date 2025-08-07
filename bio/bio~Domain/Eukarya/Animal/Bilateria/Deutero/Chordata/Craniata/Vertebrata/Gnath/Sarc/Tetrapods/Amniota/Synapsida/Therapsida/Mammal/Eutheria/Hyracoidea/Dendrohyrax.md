@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dendrohyrax
 ---
 
@@ -57,7 +57,7 @@ Containing group:[Hyracoidea](../Hyracoidea.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dendrohyrax](Dendrohyrax.md)) 
+### #is_/same_as :: [Dendrohyrax](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Hyracoidea/Dendrohyrax.md) 
 
 ### #is_/same_as :: [Dendrohyrax.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Hyracoidea/Dendrohyrax.public.md) 
 

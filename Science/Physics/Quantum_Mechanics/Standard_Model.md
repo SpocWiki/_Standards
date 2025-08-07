@@ -55,3 +55,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20Model) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Standard_Model](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model.md) 
+
+### #is_/same_as :: [Standard_Model.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model.public.md) 
+
+### #is_/same_as :: [Standard_Model.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model.internal.md) 
+
+### #is_/same_as :: [Standard_Model.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model.protect.md) 
+
+### #is_/same_as :: [Standard_Model.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model.private.md) 
+
+### #is_/same_as :: [Standard_Model.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model.personal.md) 
+
+### #is_/same_as :: [Standard_Model.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model.secret.md)
+

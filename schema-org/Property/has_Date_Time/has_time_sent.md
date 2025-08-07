@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-sent
 - date_sent

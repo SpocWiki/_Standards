@@ -1,4 +1,4 @@
-﻿---
+---
 title: Carinarioidea
 ---
 
@@ -240,7 +240,7 @@ Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pterotracheoidea](Pterotracheoidea.md)) 
+### #is_/same_as :: [Pterotracheoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.md) 
 
 ### #is_/same_as :: [Pterotracheoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.public.md) 
 

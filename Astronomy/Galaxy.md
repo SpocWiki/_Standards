@@ -1,4 +1,4 @@
-﻿---
+---
 astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Galaxy%20symbol%20%28rotated%29.svg"
 Commons_category: Galaxies
 described_by_source:

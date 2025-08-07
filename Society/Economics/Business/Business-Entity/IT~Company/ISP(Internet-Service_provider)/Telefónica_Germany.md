@@ -29,3 +29,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Telef%C3%B3nica%20Germany) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Telefónica_Germany](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.md) 
+
+### #is_/same_as :: [Telefónica_Germany.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.public.md) 
+
+### #is_/same_as :: [Telefónica_Germany.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.internal.md) 
+
+### #is_/same_as :: [Telefónica_Germany.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.protect.md) 
+
+### #is_/same_as :: [Telefónica_Germany.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.private.md) 
+
+### #is_/same_as :: [Telefónica_Germany.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.personal.md) 
+
+### #is_/same_as :: [Telefónica_Germany.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.secret.md)
+

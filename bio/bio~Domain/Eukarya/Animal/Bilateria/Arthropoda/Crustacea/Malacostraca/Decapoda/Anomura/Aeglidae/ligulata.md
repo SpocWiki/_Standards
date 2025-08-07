@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla ligulata"
 ---
 
@@ -126,7 +126,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[ligulata](ligulata.md)) 
+### #is_/same_as :: [ligulata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.md) 
 
 ### #is_/same_as :: [ligulata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.public.md) 
 

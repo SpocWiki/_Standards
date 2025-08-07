@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - learning-resource-type
 - learning_resource_type

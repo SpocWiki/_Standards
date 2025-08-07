@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Vertebrata
 - Vertebrate
@@ -312,7 +312,7 @@ Copyright ::   © 1995 Tierney Thys
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Vertebrata](Vertebrata.md)) 
+### #is_/same_as :: [Vertebrata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata.md) 
 
 ### #is_/same_as :: [Vertebrata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata.public.md) 
 

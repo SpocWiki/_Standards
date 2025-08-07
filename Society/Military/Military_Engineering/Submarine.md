@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Submarines
 Commons_gallery: Submarine
 described_by_source:

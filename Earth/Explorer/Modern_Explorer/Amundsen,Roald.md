@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roald Amundsen"
 - "Roald Engelbregt Gravning Amundsen"

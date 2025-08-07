@@ -39,3 +39,20 @@ P8189: "987007295860405171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Auditory%20system)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Auditory_system](/_Standards/bio/Medicine/Anatomy/Auditory_system.md) 
+
+### #is_/same_as :: [Auditory_system.public](/_public/bio/Medicine/Anatomy/Auditory_system.public.md) 
+
+### #is_/same_as :: [Auditory_system.internal](/_internal/bio/Medicine/Anatomy/Auditory_system.internal.md) 
+
+### #is_/same_as :: [Auditory_system.protect](/_protect/bio/Medicine/Anatomy/Auditory_system.protect.md) 
+
+### #is_/same_as :: [Auditory_system.private](/_private/bio/Medicine/Anatomy/Auditory_system.private.md) 
+
+### #is_/same_as :: [Auditory_system.personal](/_personal/bio/Medicine/Anatomy/Auditory_system.personal.md) 
+
+### #is_/same_as :: [Auditory_system.secret](/_secret/bio/Medicine/Anatomy/Auditory_system.secret.md)
+

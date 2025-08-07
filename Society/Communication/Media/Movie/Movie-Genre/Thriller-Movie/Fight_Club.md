@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fight Club"
 ---
@@ -39,5 +39,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fight%20Club) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Fight_Club](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.md) 
+
+### #is_/same_as :: [Fight_Club.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.public.md) 
+
+### #is_/same_as :: [Fight_Club.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.internal.md) 
+
+### #is_/same_as :: [Fight_Club.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.protect.md) 
+
+### #is_/same_as :: [Fight_Club.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.private.md) 
+
+### #is_/same_as :: [Fight_Club.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.personal.md) 
+
+### #is_/same_as :: [Fight_Club.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.secret.md)
 

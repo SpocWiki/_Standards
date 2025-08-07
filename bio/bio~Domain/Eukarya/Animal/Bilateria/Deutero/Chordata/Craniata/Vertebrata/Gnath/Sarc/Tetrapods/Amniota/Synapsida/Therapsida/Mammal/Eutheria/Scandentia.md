@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scandentia
 ---
 
@@ -80,7 +80,7 @@ Creator           Joseph Smit (1836--1929)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scandentia](Scandentia.md)) 
+### #is_/same_as :: [Scandentia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Scandentia.md) 
 
 ### #is_/same_as :: [Scandentia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Scandentia.public.md) 
 

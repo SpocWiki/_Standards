@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo-coordinates
 - geo_coordinates

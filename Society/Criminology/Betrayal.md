@@ -35,3 +35,20 @@ MeSH_tree_code: F01.829.401.023
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Betrayal) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Betrayal](/_Standards/Society/Criminology/Betrayal.md) 
+
+### #is_/same_as :: [Betrayal.public](/_public/Society/Criminology/Betrayal.public.md) 
+
+### #is_/same_as :: [Betrayal.internal](/_internal/Society/Criminology/Betrayal.internal.md) 
+
+### #is_/same_as :: [Betrayal.protect](/_protect/Society/Criminology/Betrayal.protect.md) 
+
+### #is_/same_as :: [Betrayal.private](/_private/Society/Criminology/Betrayal.private.md) 
+
+### #is_/same_as :: [Betrayal.personal](/_personal/Society/Criminology/Betrayal.personal.md) 
+
+### #is_/same_as :: [Betrayal.secret](/_secret/Society/Criminology/Betrayal.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giza Necropolis"
 - "Giza pyramid complex"

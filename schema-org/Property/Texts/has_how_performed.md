@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-performed
 - how_performed

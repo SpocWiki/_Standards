@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Cycliophora
 - Symbion
@@ -81,7 +81,7 @@ The three known hosts are
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cycliophora](Cycliophora.md)) 
+### #is_/same_as :: [Cycliophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.md) 
 
 ### #is_/same_as :: [Cycliophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.public.md) 
 

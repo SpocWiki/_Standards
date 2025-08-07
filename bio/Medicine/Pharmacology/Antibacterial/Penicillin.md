@@ -1,4 +1,4 @@
-﻿---
+---
 chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Penicillin%20core.svg"
 Commons_category: "Penicillin antibiotics"
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'

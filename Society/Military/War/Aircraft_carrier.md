@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 航空母舰
 Commons_category: "Aircraft carriers"
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
@@ -40,4 +40,19 @@ U_S_National_Archives_Identifier: 10638244
 > [Wikipedia](https://en.wikipedia.org/wiki/Aircraft%20carrier) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aircraft_carrier](/_Standards/Society/Military/War/Aircraft_carrier.md) 
+
+### #is_/same_as :: [Aircraft_carrier.public](/_public/Society/Military/War/Aircraft_carrier.public.md) 
+
+### #is_/same_as :: [Aircraft_carrier.internal](/_internal/Society/Military/War/Aircraft_carrier.internal.md) 
+
+### #is_/same_as :: [Aircraft_carrier.protect](/_protect/Society/Military/War/Aircraft_carrier.protect.md) 
+
+### #is_/same_as :: [Aircraft_carrier.private](/_private/Society/Military/War/Aircraft_carrier.private.md) 
+
+### #is_/same_as :: [Aircraft_carrier.personal](/_personal/Society/Military/War/Aircraft_carrier.personal.md) 
+
+### #is_/same_as :: [Aircraft_carrier.secret](/_secret/Society/Military/War/Aircraft_carrier.secret.md)
 

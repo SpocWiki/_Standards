@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - credit-text
 - credit_text

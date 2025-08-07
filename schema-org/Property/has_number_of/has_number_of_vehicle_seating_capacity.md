@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle_seating_capacity
 - vehicle-seating-capacity

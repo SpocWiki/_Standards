@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - owns
 - is_owning

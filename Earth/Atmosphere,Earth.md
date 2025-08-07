@@ -58,21 +58,21 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATMOSFERA_ZEMLI.html
 
 ## Atmosphere-Composition 
 
-Roughly speaking 80% [[../chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen|Nitrogen]] and 20% [[../chemic/chemic~Elements/Group-16-Chalcogene/Oxygen|Oxygen]]. 
+Roughly speaking 80% [[../Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]] and 20% [[../Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]]. 
 
 | Gas                                                                  | % Vol          |
 | -------------------------------------------------------------------- | -------------- |
-| [[../chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen\|Nitrogen]]   | 78.09          |
-| [[../chemic/chemic~Elements/Group-16-Chalcogene/Oxygen\|Oxygen]]     | 20.95          |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Argon\|Argon]]      | 0.93           |
-| [[../chemic/chemic~Elements/Group-14-Carbon/Carbon\|Carbon]] Dioxide | 0.04           |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Neon\|Neon]]        | 0.0018         |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Helium\|Helium]]    | 0.0005         |
-| [[../chemic/organic/Alkane/Methane\|Methane]]                               | 0.0002         |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
-| [[../chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
-| [[../chemic/inOrganic/Water\|Water]]                                 | 0–4 (variable) |
-| [[Ozone]]                                                            | Trace amounts  |
+| [[../Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen\|Nitrogen]]   | 78.09          |
+| [[../Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen\|Oxygen]]     | 20.95          |
+| [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon\|Argon]]      | 0.93           |
+| [[../Chemistry/Chemical_Element/Group-14-Carbon/Carbon\|Carbon]] Dioxide | 0.04           |
+| [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon\|Neon]]        | 0.0018         |
+| [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium\|Helium]]    | 0.0005         |
+| [[../Chemistry/organic/Alkane/Methane\|Methane]]                               | 0.0002         |
+| [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
+| [[../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
+| [[../Chemistry/inOrganic/Water\|Water]]                                 | 0–4 (variable) |
+| [[Atmosphere,Earth/Ozone]]                                                            | Trace amounts  |
 
 ## Vertical Stratification 
 
@@ -120,20 +120,19 @@ Below 3km
   but 10,000 km is often considered the upper limit of Earth's atmosphere.
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmosphere](/_Standards/Earth/Atmosphere.md) 
+### #is_/same_as :: [Atmosphere,Earth](/_Standards/Earth/Atmosphere,Earth.md) 
 
-### #is_/same_as :: [Atmosphere.public](/_public/Earth/Atmosphere.public.md) 
+### #is_/same_as :: [Atmosphere,Earth.public](/_public/Earth/Atmosphere,Earth.public.md) 
 
-### #is_/same_as :: [Atmosphere.internal](/_internal/Earth/Atmosphere.internal.md) 
+### #is_/same_as :: [Atmosphere,Earth.internal](/_internal/Earth/Atmosphere,Earth.internal.md) 
 
-### #is_/same_as :: [Atmosphere.protect](/_protect/Earth/Atmosphere.protect.md) 
+### #is_/same_as :: [Atmosphere,Earth.protect](/_protect/Earth/Atmosphere,Earth.protect.md) 
 
-### #is_/same_as :: [Atmosphere.private](/_private/Earth/Atmosphere.private.md) 
+### #is_/same_as :: [Atmosphere,Earth.private](/_private/Earth/Atmosphere,Earth.private.md) 
 
-### #is_/same_as :: [Atmosphere.personal](/_personal/Earth/Atmosphere.personal.md) 
+### #is_/same_as :: [Atmosphere,Earth.personal](/_personal/Earth/Atmosphere,Earth.personal.md) 
 
-### #is_/same_as :: [Atmosphere.secret](/_secret/Earth/Atmosphere.secret.md)
+### #is_/same_as :: [Atmosphere,Earth.secret](/_secret/Earth/Atmosphere,Earth.secret.md)
 

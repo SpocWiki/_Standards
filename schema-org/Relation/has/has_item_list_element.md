@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-list-element
 - item_list_element

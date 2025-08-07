@@ -69,19 +69,20 @@ A type of blood vessel that specifically carries blood to the heart.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vein)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :[Vein](Vein.md))) 
+### #is_/same_as :: [Vein](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Vein.md) 
 
-### #is_/same_as :: [vein.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.public.md) 
+### #is_/same_as :: [Vein.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Vein.public.md) 
 
-### #is_/same_as :: [vein.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.internal.md) 
+### #is_/same_as :: [Vein.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Vein.internal.md) 
 
-### #is_/same_as :: [vein.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.protect.md) 
+### #is_/same_as :: [Vein.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Vein.protect.md) 
 
-### #is_/same_as :: [vein.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.private.md) 
+### #is_/same_as :: [Vein.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Vein.private.md) 
 
-### #is_/same_as :: [vein.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.personal.md) 
+### #is_/same_as :: [Vein.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Vein.personal.md) 
 
-### #is_/same_as :: [vein.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.secret.md)
+### #is_/same_as :: [Vein.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Vein.secret.md)
 

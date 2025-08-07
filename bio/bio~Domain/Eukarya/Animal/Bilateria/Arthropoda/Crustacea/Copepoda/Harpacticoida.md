@@ -1,4 +1,4 @@
-﻿---
+---
 title: Harpacticoida
 ---
 
@@ -120,7 +120,7 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Harpacticoida](Harpacticoida.md)) 
+### #is_/same_as :: [Harpacticoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.md) 
 
 ### #is_/same_as :: [Harpacticoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.public.md) 
 

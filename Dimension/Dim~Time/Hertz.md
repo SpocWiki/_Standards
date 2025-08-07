@@ -46,3 +46,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/FrequencyAnimationSyme
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hertz) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hertz](/_Standards/Dimension/Dim~Time/Hertz.md) 
+
+### #is_/same_as :: [Hertz.public](/_public/Dimension/Dim~Time/Hertz.public.md) 
+
+### #is_/same_as :: [Hertz.internal](/_internal/Dimension/Dim~Time/Hertz.internal.md) 
+
+### #is_/same_as :: [Hertz.protect](/_protect/Dimension/Dim~Time/Hertz.protect.md) 
+
+### #is_/same_as :: [Hertz.private](/_private/Dimension/Dim~Time/Hertz.private.md) 
+
+### #is_/same_as :: [Hertz.personal](/_personal/Dimension/Dim~Time/Hertz.personal.md) 
+
+### #is_/same_as :: [Hertz.secret](/_secret/Dimension/Dim~Time/Hertz.secret.md)
+

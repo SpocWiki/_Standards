@@ -109,3 +109,20 @@ Facebook_username: bbking
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/B.%20B.%20King) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [B.B.King](/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.md) 
+
+### #is_/same_as :: [B.B.King.public](/_public/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.public.md) 
+
+### #is_/same_as :: [B.B.King.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.internal.md) 
+
+### #is_/same_as :: [B.B.King.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.protect.md) 
+
+### #is_/same_as :: [B.B.King.private](/_private/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.private.md) 
+
+### #is_/same_as :: [B.B.King.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.personal.md) 
+
+### #is_/same_as :: [B.B.King.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Blues/B.B.King.secret.md)
+

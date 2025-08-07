@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit-status
 - nonprofit_status

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - edu-question-type
 - edu_question_type

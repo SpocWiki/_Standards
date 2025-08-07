@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Carrie (1976)"
 ---
@@ -45,6 +45,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Carrie%20(1976%20film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Carrie(1976_film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).md) 
 
+### #is_/same_as :: [Carrie(1976_film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).public.md) 
+
+### #is_/same_as :: [Carrie(1976_film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).internal.md) 
+
+### #is_/same_as :: [Carrie(1976_film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).protect.md) 
+
+### #is_/same_as :: [Carrie(1976_film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).private.md) 
+
+### #is_/same_as :: [Carrie(1976_film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).personal.md) 
+
+### #is_/same_as :: [Carrie(1976_film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Carrie(1976_film).secret.md)
 

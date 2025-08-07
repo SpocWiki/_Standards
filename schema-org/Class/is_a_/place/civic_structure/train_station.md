@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - train-station
 - train_station

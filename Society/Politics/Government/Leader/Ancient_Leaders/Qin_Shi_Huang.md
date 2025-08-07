@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Qin Shi Huang"
 Baidu_Tieba_name:
@@ -88,17 +88,17 @@ sibling:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Qin_Shi_Huang](Qin_Shi_Huang.md)) 
+### #is_/same_as :: [Qin_Shi_Huang](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.public](/_public/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.public.md) 
+### #is_/same_as :: [Qin_Shi_Huang.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.public.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.internal.md) 
+### #is_/same_as :: [Qin_Shi_Huang.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.internal.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.protect.md) 
+### #is_/same_as :: [Qin_Shi_Huang.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.protect.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.private](/_private/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.private.md) 
+### #is_/same_as :: [Qin_Shi_Huang.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.private.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.personal.md) 
+### #is_/same_as :: [Qin_Shi_Huang.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.personal.md) 
 
-### #is_/same_as :: [Qin_Shi_Huang.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.secret.md)
+### #is_/same_as :: [Qin_Shi_Huang.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ibn Khaldun"
 ArhivX_LOD:

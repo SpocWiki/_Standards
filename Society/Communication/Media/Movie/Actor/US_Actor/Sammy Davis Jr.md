@@ -156,3 +156,20 @@ Libris_URI: khw064c33gnkscr
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sammy%20Davis%20Jr.) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sammy Davis Jr](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.md) 
+
+### #is_/same_as :: [Sammy Davis Jr.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.public.md) 
+
+### #is_/same_as :: [Sammy Davis Jr.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.internal.md) 
+
+### #is_/same_as :: [Sammy Davis Jr.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.protect.md) 
+
+### #is_/same_as :: [Sammy Davis Jr.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.private.md) 
+
+### #is_/same_as :: [Sammy Davis Jr.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.personal.md) 
+
+### #is_/same_as :: [Sammy Davis Jr.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.secret.md)
+

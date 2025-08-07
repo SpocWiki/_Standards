@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - superseded-by
 - superseded_by

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bolitaena pygmaea"
 ---
 
@@ -162,7 +162,7 @@ Reference         modified from Chun, 1910
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bolitaena_pygmaea](Bolitaena_pygmaea.md)) 
+### #is_/same_as :: [Bolitaena_pygmaea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.md) 
 
 ### #is_/same_as :: [Bolitaena_pygmaea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Évariste Galois"
 award_received: '[[_Standards/WikiData/WD~Concours_général,908793]]'

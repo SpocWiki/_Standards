@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sugar_in_gram
 - sugar-content

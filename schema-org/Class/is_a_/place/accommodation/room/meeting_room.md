@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - meeting-room
 - meeting_room

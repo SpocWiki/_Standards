@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eu-energy-efficiency-category-b
 - eu_energy_efficiency_category_b

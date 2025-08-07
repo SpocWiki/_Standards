@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eligibility-to-work-requirement
 - eligibility_to_work_requirement

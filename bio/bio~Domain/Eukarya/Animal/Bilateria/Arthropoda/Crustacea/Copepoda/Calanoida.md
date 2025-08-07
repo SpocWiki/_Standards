@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calanoida
 ---
 
@@ -124,7 +124,7 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Calanoida](Calanoida.md)) 
+### #is_/same_as :: [Calanoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.md) 
 
 ### #is_/same_as :: [Calanoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.public.md) 
 

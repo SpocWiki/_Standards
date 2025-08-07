@@ -64,3 +64,20 @@ Commons_category: Booting
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Booting) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Booting](/_Standards/Technology/IT/Computer_Hardware/Computer/Booting.md) 
+
+### #is_/same_as :: [Booting.public](/_public/Technology/IT/Computer_Hardware/Computer/Booting.public.md) 
+
+### #is_/same_as :: [Booting.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Booting.internal.md) 
+
+### #is_/same_as :: [Booting.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Booting.protect.md) 
+
+### #is_/same_as :: [Booting.private](/_private/Technology/IT/Computer_Hardware/Computer/Booting.private.md) 
+
+### #is_/same_as :: [Booting.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Booting.personal.md) 
+
+### #is_/same_as :: [Booting.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Booting.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - term-duration
 - term_duration

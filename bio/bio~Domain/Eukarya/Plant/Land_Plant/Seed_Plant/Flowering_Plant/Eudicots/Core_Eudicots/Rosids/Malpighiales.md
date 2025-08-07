@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Malpighiales
 title: Malpighiales
@@ -90,17 +90,17 @@ Copyright ::         © [Kurt Stüber](http://www.biolib.de/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Malpighiales](Malpighiales.md)) 
+### #is_/same_as :: [Malpighiales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.md) 
 
-### #is_/same_as :: [Malpighiales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.public.md) 
+### #is_/same_as :: [Malpighiales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.public.md) 
 
-### #is_/same_as :: [Malpighiales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.internal.md) 
+### #is_/same_as :: [Malpighiales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.internal.md) 
 
-### #is_/same_as :: [Malpighiales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.protect.md) 
+### #is_/same_as :: [Malpighiales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.protect.md) 
 
-### #is_/same_as :: [Malpighiales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.private.md) 
+### #is_/same_as :: [Malpighiales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.private.md) 
 
-### #is_/same_as :: [Malpighiales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.personal.md) 
+### #is_/same_as :: [Malpighiales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.personal.md) 
 
-### #is_/same_as :: [Malpighiales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.secret.md)
+### #is_/same_as :: [Malpighiales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ammotrechinae
 ---
 
@@ -50,7 +50,7 @@ Copyright ::            © 2003 Warren E. Savary
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ammotrechinae](Ammotrechinae.md)) 
+### #is_/same_as :: [Ammotrechinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.md) 
 
 ### #is_/same_as :: [Ammotrechinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae/Ammotrechinae.public.md) 
 

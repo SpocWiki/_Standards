@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Reddit
 ---
@@ -42,4 +42,21 @@ aliases:
 > including the [[Doxxing]] of erotic models and revenge porn.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reddit) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [subreddit](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/subreddit.md) 
+
+### #is_/same_as :: [subreddit.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/subreddit.public.md) 
+
+### #is_/same_as :: [subreddit.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/subreddit.internal.md) 
+
+### #is_/same_as :: [subreddit.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/subreddit.protect.md) 
+
+### #is_/same_as :: [subreddit.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/subreddit.private.md) 
+
+### #is_/same_as :: [subreddit.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/subreddit.personal.md) 
+
+### #is_/same_as :: [subreddit.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/subreddit.secret.md)
 

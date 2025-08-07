@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - movie-theater
 - movie_theater

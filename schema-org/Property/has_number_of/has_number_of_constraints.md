@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - num-constraints
 - num_constraints

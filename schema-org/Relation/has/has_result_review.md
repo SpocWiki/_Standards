@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - result-review
 - result_review

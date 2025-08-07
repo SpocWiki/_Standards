@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-benefits-type
 - government_benefits_type

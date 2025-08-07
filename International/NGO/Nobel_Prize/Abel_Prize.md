@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Abel Prize"
 ---

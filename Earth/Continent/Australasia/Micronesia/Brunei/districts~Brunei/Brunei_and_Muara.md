@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Brunei_and_Muara
 confidential: public

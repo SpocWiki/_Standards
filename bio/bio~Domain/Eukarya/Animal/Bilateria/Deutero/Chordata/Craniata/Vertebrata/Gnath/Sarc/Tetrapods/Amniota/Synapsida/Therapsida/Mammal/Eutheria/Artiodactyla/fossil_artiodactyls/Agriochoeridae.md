@@ -1,4 +1,4 @@
-﻿---
+---
 title: Agriochoeridae
 ---
 
@@ -48,7 +48,7 @@ title: Agriochoeridae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Agriochoeridae](Agriochoeridae.md)) 
+### #is_/same_as :: [Agriochoeridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/fossil_artiodactyls/Agriochoeridae.md) 
 
 ### #is_/same_as :: [Agriochoeridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/fossil_artiodactyls/Agriochoeridae.public.md) 
 

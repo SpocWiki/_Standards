@@ -23,3 +23,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/HashiCorp)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [HashiCorp](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.md) 
+
+### #is_/same_as :: [HashiCorp.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.public.md) 
+
+### #is_/same_as :: [HashiCorp.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.internal.md) 
+
+### #is_/same_as :: [HashiCorp.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.protect.md) 
+
+### #is_/same_as :: [HashiCorp.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.private.md) 
+
+### #is_/same_as :: [HashiCorp.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.personal.md) 
+
+### #is_/same_as :: [HashiCorp.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/HashiCorp.secret.md)
+

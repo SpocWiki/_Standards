@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Orson Welles"
 award_received:
@@ -185,4 +185,19 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Orson%20Welles) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Welles,Orson](/_Standards/Society/Communication/Media/Book/Author/Welles,Orson.md) 
+
+### #is_/same_as :: [Welles,Orson.public](/_public/Society/Communication/Media/Book/Author/Welles,Orson.public.md) 
+
+### #is_/same_as :: [Welles,Orson.internal](/_internal/Society/Communication/Media/Book/Author/Welles,Orson.internal.md) 
+
+### #is_/same_as :: [Welles,Orson.protect](/_protect/Society/Communication/Media/Book/Author/Welles,Orson.protect.md) 
+
+### #is_/same_as :: [Welles,Orson.private](/_private/Society/Communication/Media/Book/Author/Welles,Orson.private.md) 
+
+### #is_/same_as :: [Welles,Orson.personal](/_personal/Society/Communication/Media/Book/Author/Welles,Orson.personal.md) 
+
+### #is_/same_as :: [Welles,Orson.secret](/_secret/Society/Communication/Media/Book/Author/Welles,Orson.secret.md)
 

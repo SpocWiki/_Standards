@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Emma Stone"
 ---
@@ -28,4 +28,21 @@ aliases:
 > On Broadway, Stone has starred as Sally Bowles in a revival of the musical Cabaret (2014–2015). She and her husband, Dave McCary, founded the production company Fruit Tree in 2020, under which they have produced the films When You Finish Saving the World (2022), Problemista (2023), and I Saw the TV Glow (2024).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emma%20Stone)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stone,Emma](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.md) 
+
+### #is_/same_as :: [Stone,Emma.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.public.md) 
+
+### #is_/same_as :: [Stone,Emma.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.internal.md) 
+
+### #is_/same_as :: [Stone,Emma.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.protect.md) 
+
+### #is_/same_as :: [Stone,Emma.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.private.md) 
+
+### #is_/same_as :: [Stone,Emma.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.personal.md) 
+
+### #is_/same_as :: [Stone,Emma.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Stone,Emma.secret.md)
 

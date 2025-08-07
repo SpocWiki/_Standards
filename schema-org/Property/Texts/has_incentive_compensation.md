@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - incentive-compensation
 - incentive_compensation

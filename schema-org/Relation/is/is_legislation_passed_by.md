@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-passed-by
 - legislation_passed_by

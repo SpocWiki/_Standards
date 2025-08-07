@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Wood
 Commons_gallery: Wood
 described_at_URL: "https://www.fpl.fs.fed.us/documnts/pdf2013/fpl_2013_rowell002.pdf"
@@ -77,17 +77,17 @@ ZVG_number: 531358
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Wood](Wood.md)) 
+### #is_/same_as :: [Wood](/_Standards/bio/Botany/Wood.md) 
 
-### #is_/same_as :: [Wood.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Wood.public.md) 
+### #is_/same_as :: [Wood.public](/_public/bio/Botany/Wood.public.md) 
 
-### #is_/same_as :: [Wood.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Wood.internal.md) 
+### #is_/same_as :: [Wood.internal](/_internal/bio/Botany/Wood.internal.md) 
 
-### #is_/same_as :: [Wood.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Wood.protect.md) 
+### #is_/same_as :: [Wood.protect](/_protect/bio/Botany/Wood.protect.md) 
 
-### #is_/same_as :: [Wood.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Wood.private.md) 
+### #is_/same_as :: [Wood.private](/_private/bio/Botany/Wood.private.md) 
 
-### #is_/same_as :: [Wood.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Wood.personal.md) 
+### #is_/same_as :: [Wood.personal](/_personal/bio/Botany/Wood.personal.md) 
 
-### #is_/same_as :: [Wood.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Wood.secret.md)
+### #is_/same_as :: [Wood.secret](/_secret/bio/Botany/Wood.secret.md)
 

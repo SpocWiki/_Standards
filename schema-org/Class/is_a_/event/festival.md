@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - festival
 - festival

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hylinae
 ---
 
@@ -66,17 +66,17 @@ title: Hylinae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hylinae](Hylinae.md)) 
+### #is_/same_as :: [Hylinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.md) 
 
-### #is_/same_as :: [Hylinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hylinae.public.md) 
+### #is_/same_as :: [Hylinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.public.md) 
 
-### #is_/same_as :: [Hylinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hylinae.internal.md) 
+### #is_/same_as :: [Hylinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.internal.md) 
 
-### #is_/same_as :: [Hylinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hylinae.protect.md) 
+### #is_/same_as :: [Hylinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.protect.md) 
 
-### #is_/same_as :: [Hylinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hylinae.private.md) 
+### #is_/same_as :: [Hylinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.private.md) 
 
-### #is_/same_as :: [Hylinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hylinae.personal.md) 
+### #is_/same_as :: [Hylinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.personal.md) 
 
-### #is_/same_as :: [Hylinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hylinae.secret.md)
+### #is_/same_as :: [Hylinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hylinae.secret.md)
 

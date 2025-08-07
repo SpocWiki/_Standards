@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Atlantoxerus getulus"
 ---
 
@@ -115,7 +115,7 @@ Canary Islands off the west coast of Morocco (Nowak 1999).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Atlantoxerus](Atlantoxerus.md)) 
+### #is_/same_as :: [Atlantoxerus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Xerini/Atlantoxerus.md) 
 
 ### #is_/same_as :: [Atlantoxerus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Xerini/Atlantoxerus.public.md) 
 

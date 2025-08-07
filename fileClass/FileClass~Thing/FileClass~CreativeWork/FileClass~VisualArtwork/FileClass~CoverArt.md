@@ -1,4 +1,4 @@
-﻿---
+---
 excludes: 
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork
 fields: []

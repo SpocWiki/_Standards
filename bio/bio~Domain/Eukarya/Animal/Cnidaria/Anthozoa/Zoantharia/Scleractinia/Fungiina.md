@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fungiina
 ---
 
@@ -51,7 +51,7 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Fungiina](Fungiina.md)) 
+### #is_/same_as :: [Fungiina](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.md) 
 
 ### #is_/same_as :: [Fungiina.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.public.md) 
 

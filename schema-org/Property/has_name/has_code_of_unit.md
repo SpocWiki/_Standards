@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unit-code
 - code_of_unit

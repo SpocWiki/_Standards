@@ -30,4 +30,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein%20(1931%20film)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frankenstein(1931)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).md) 
+
+### #is_/same_as :: [Frankenstein(1931).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).public.md) 
+
+### #is_/same_as :: [Frankenstein(1931).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).internal.md) 
+
+### #is_/same_as :: [Frankenstein(1931).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).protect.md) 
+
+### #is_/same_as :: [Frankenstein(1931).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).private.md) 
+
+### #is_/same_as :: [Frankenstein(1931).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).personal.md) 
+
+### #is_/same_as :: [Frankenstein(1931).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).secret.md)
 

@@ -72,3 +72,20 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bisexuality) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bisexuality](/_Standards/Society/Family/Bisexuality.md) 
+
+### #is_/same_as :: [Bisexuality.public](/_public/Society/Family/Bisexuality.public.md) 
+
+### #is_/same_as :: [Bisexuality.internal](/_internal/Society/Family/Bisexuality.internal.md) 
+
+### #is_/same_as :: [Bisexuality.protect](/_protect/Society/Family/Bisexuality.protect.md) 
+
+### #is_/same_as :: [Bisexuality.private](/_private/Society/Family/Bisexuality.private.md) 
+
+### #is_/same_as :: [Bisexuality.personal](/_personal/Society/Family/Bisexuality.personal.md) 
+
+### #is_/same_as :: [Bisexuality.secret](/_secret/Society/Family/Bisexuality.secret.md)
+

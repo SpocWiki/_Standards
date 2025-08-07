@@ -14,4 +14,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Reich-Ranicki)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.md) 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.public.md) 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.internal.md) 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.protect.md) 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.private.md) 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.personal.md) 
+
+### #is_/same_as :: [Marcel_Reich-Ranicki.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Marcel_Reich-Ranicki.secret.md)
 

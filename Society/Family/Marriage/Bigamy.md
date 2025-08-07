@@ -27,3 +27,20 @@ P8189: "987007284756605171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bigamy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bigamy](/_Standards/Society/Family/Marriage/Bigamy.md) 
+
+### #is_/same_as :: [Bigamy.public](/_public/Society/Family/Marriage/Bigamy.public.md) 
+
+### #is_/same_as :: [Bigamy.internal](/_internal/Society/Family/Marriage/Bigamy.internal.md) 
+
+### #is_/same_as :: [Bigamy.protect](/_protect/Society/Family/Marriage/Bigamy.protect.md) 
+
+### #is_/same_as :: [Bigamy.private](/_private/Society/Family/Marriage/Bigamy.private.md) 
+
+### #is_/same_as :: [Bigamy.personal](/_personal/Society/Family/Marriage/Bigamy.personal.md) 
+
+### #is_/same_as :: [Bigamy.secret](/_secret/Society/Family/Marriage/Bigamy.secret.md)
+

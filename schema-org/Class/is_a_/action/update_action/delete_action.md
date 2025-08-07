@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delete-action
 - delete_action

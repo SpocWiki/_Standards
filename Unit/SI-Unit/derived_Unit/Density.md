@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "C2:1"
 Commons_category: Density
 defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\rho ={\\frac {\\mathrm {d} m}{\\mathrm {d} V}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>&#x03C1;<!-- ρ --></mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi mathvariant=\"normal\">d</mi>\n              </mrow>\n              <mi>V</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\rho ={\\frac {\\mathrm {d} m}{\\mathrm {d} V}}}</annotation>\n  </semantics>\n</math>"

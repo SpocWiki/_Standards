@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prescription-status
 - prescription_status

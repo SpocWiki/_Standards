@@ -113,7 +113,7 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cattle](Cattle.md)) 
+### #is_/same_as :: [Cattle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle.md) 
 
 ### #is_/same_as :: [Cattle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae/Cattle.public.md) 
 

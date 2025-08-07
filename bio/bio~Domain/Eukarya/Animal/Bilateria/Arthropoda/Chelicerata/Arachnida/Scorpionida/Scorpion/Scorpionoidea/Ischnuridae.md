@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ischnuridae
 ---
 
@@ -57,7 +57,7 @@ Copyright ::   © 1985 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ischnuridae](Ischnuridae.md)) 
+### #is_/same_as :: [Ischnuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Ischnuridae.md) 
 
 ### #is_/same_as :: [Ischnuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Ischnuridae.public.md) 
 

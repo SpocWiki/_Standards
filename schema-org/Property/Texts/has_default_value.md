@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - default-value
 - default_value

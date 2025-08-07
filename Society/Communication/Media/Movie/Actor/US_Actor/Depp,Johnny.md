@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Johnny Depp"
 ---
@@ -60,5 +60,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Johnny%20Depp)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Depp,Johnny](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.md) 
+
+### #is_/same_as :: [Depp,Johnny.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.public.md) 
+
+### #is_/same_as :: [Depp,Johnny.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.internal.md) 
+
+### #is_/same_as :: [Depp,Johnny.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.protect.md) 
+
+### #is_/same_as :: [Depp,Johnny.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.private.md) 
+
+### #is_/same_as :: [Depp,Johnny.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.personal.md) 
+
+### #is_/same_as :: [Depp,Johnny.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Depp,Johnny.secret.md)
 

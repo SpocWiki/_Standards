@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Archean
 end_time: -2500000000
 has_id_wikidata: Q645135

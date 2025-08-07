@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thinking, Fast and Slow"
 ---
@@ -63,3 +63,21 @@ The first Attribute in a List has the highest weight.
 ## UN-Charta 
 
 ### 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow](/_Standards/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.md) 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow.public](/_public/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.public.md) 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow.internal](/_internal/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.internal.md) 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow.protect](/_protect/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.protect.md) 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow.private](/_private/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.private.md) 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow.personal](/_personal/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.personal.md) 
+
+### #is_/same_as :: [Thinking,Fast_and_Slow.secret](/_secret/Society/Communication/Genre/Non-Fiction/Thinking,Fast_and_Slow.secret.md)
+

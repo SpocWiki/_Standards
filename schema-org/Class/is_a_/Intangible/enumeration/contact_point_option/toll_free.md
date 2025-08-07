@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - toll-free
 - toll_free

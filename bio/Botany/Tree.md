@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Baum%20mit%20verzweigten%20Zweigen%2020220726.stl"
 Commons_category: Trees
 Commons_gallery: Tree
@@ -86,17 +86,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tree](Tree.md)) 
+### #is_/same_as :: [Tree](/_Standards/bio/Botany/Tree.md) 
 
-### #is_/same_as :: [Tree.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Tree.public.md) 
+### #is_/same_as :: [Tree.public](/_public/bio/Botany/Tree.public.md) 
 
-### #is_/same_as :: [Tree.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Tree.internal.md) 
+### #is_/same_as :: [Tree.internal](/_internal/bio/Botany/Tree.internal.md) 
 
-### #is_/same_as :: [Tree.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Tree.protect.md) 
+### #is_/same_as :: [Tree.protect](/_protect/bio/Botany/Tree.protect.md) 
 
-### #is_/same_as :: [Tree.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Tree.private.md) 
+### #is_/same_as :: [Tree.private](/_private/bio/Botany/Tree.private.md) 
 
-### #is_/same_as :: [Tree.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Tree.personal.md) 
+### #is_/same_as :: [Tree.personal](/_personal/bio/Botany/Tree.personal.md) 
 
-### #is_/same_as :: [Tree.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Tree.secret.md)
+### #is_/same_as :: [Tree.secret](/_secret/bio/Botany/Tree.secret.md)
 

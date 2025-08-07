@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gerrardina
 ---
 
@@ -112,17 +112,17 @@ Copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gerrardinaceae](Gerrardinaceae.md)) 
+### #is_/same_as :: [Gerrardinaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.md) 
 
-### #is_/same_as :: [Gerrardinaceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.public.md) 
+### #is_/same_as :: [Gerrardinaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.public.md) 
 
-### #is_/same_as :: [Gerrardinaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.internal.md) 
+### #is_/same_as :: [Gerrardinaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.internal.md) 
 
-### #is_/same_as :: [Gerrardinaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.protect.md) 
+### #is_/same_as :: [Gerrardinaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.protect.md) 
 
-### #is_/same_as :: [Gerrardinaceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.private.md) 
+### #is_/same_as :: [Gerrardinaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.private.md) 
 
-### #is_/same_as :: [Gerrardinaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.personal.md) 
+### #is_/same_as :: [Gerrardinaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.personal.md) 
 
-### #is_/same_as :: [Gerrardinaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.secret.md)
+### #is_/same_as :: [Gerrardinaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Gerrardinaceae.secret.md)
 

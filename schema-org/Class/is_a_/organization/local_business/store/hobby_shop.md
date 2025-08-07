@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hobby-shop
 - hobby_shop

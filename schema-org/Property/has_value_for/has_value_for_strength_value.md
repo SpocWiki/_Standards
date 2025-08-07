@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - strength_value
 - strength-value

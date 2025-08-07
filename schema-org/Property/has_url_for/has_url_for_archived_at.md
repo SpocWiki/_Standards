@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - archived-at
 - archived_at

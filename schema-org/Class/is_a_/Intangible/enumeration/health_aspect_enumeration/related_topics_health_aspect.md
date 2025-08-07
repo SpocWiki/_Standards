@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-topics-health-aspect
 - related_topics_health_aspect

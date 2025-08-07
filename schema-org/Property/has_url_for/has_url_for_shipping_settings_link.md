@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shipping-settings-link
 - shipping_settings_link

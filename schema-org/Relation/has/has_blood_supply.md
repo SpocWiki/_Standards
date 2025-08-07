@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - blood-supply
 - blood_supply

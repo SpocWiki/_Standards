@@ -1,4 +1,4 @@
-﻿---
+---
 academic_thesis: '[[_Standards/WikiData/WD~Über_das_Modell_des_Wasserstoff-Molekülions,106407308]]'
 aliases:
 - "Wolfgang Ernst Pauli"

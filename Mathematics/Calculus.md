@@ -1,4 +1,4 @@
-﻿---
+---
 based_on:
 - "[[_Standards/WikiData/WD~Cavalieri's_principle,586686]]"
 - '[[_Standards/WikiData/WD~method_of_exhaustion,865019]]'
@@ -46,6 +46,10 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Calculus_topics,20326646]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_calculus,7112574]]'
 ---
+
+# [[Calculus]] 
+
+#is_/same_as :: [[../WikiData/WD~Calculus,149972|WD~Calculus,149972]] 
 
 ## #has_/text_of_/abstract 
 

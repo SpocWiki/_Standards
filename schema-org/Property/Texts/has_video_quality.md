@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-quality
 - video_quality

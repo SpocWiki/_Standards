@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: "Mahabharata - Vyasa"
 author: '[[_Standards/WikiData/WD~Vyasa,330521]]'
 characters:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - years_in_operation
 - years-in-operation

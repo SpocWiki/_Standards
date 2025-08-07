@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-step
 - how_to_step

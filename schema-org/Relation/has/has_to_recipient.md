@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - to-recipient
 - to_recipient

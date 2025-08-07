@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ameloctopus litoralis"
 ---
 
@@ -134,7 +134,7 @@ Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ameloctopus](Ameloctopus.md)) 
+### #is_/same_as :: [Ameloctopus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.md) 
 
 ### #is_/same_as :: [Ameloctopus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Ameloctopus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - muscle-action
 - muscle_action

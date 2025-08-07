@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bio-chem-similarity
 - bio_chem_similarity

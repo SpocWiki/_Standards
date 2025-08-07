@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - book-series
 - book_series

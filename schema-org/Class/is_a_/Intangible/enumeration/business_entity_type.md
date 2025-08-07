@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - business-entity-type
 - business_entity_type

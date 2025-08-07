@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suggested-answer
 - suggested_answer

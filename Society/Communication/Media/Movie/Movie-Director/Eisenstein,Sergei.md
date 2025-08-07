@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Sciences_in_History_of_art,17281180]]'
 aliases:
 - "Sergei Eisenstein"

@@ -127,7 +127,7 @@ Copyright ::            © Kenneth M. Gale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bovidae](Bovidae.md)) 
+### #is_/same_as :: [Bovidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae.md) 
 
 ### #is_/same_as :: [Bovidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae.public.md) 
 

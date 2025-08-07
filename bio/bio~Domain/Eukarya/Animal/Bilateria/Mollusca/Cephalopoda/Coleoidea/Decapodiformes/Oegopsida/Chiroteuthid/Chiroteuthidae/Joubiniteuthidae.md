@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Joubiniteuthis portieri"
 ---
 
@@ -182,7 +182,7 @@ Copyright ::            © 1969 [Richard E. Young](http://www.soest.hawaii.edu/%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Joubiniteuthidae](Joubiniteuthidae.md)) 
+### #is_/same_as :: [Joubiniteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.md) 
 
 ### #is_/same_as :: [Joubiniteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Joubiniteuthidae.public.md) 
 

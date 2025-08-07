@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alicia Silverstone"
 ---
@@ -28,4 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alicia%20Silverstone) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silverstone,Alicia](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.md) 
+
+### #is_/same_as :: [Silverstone,Alicia.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.public.md) 
+
+### #is_/same_as :: [Silverstone,Alicia.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.internal.md) 
+
+### #is_/same_as :: [Silverstone,Alicia.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.protect.md) 
+
+### #is_/same_as :: [Silverstone,Alicia.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.private.md) 
+
+### #is_/same_as :: [Silverstone,Alicia.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.personal.md) 
+
+### #is_/same_as :: [Silverstone,Alicia.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.secret.md)
 

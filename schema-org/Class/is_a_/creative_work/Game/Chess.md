@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Globalization
 described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'

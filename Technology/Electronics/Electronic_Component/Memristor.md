@@ -29,5 +29,19 @@ It is similar to a [[Memistor]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Memristor) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Memristor](/_Standards/Technology/Electronics/Electronic_Component/Memristor.md) 
+
+### #is_/same_as :: [Memristor.public](/_public/Technology/Electronics/Electronic_Component/Memristor.public.md) 
+
+### #is_/same_as :: [Memristor.internal](/_internal/Technology/Electronics/Electronic_Component/Memristor.internal.md) 
+
+### #is_/same_as :: [Memristor.protect](/_protect/Technology/Electronics/Electronic_Component/Memristor.protect.md) 
+
+### #is_/same_as :: [Memristor.private](/_private/Technology/Electronics/Electronic_Component/Memristor.private.md) 
+
+### #is_/same_as :: [Memristor.personal](/_personal/Technology/Electronics/Electronic_Component/Memristor.personal.md) 
+
+### #is_/same_as :: [Memristor.secret](/_secret/Technology/Electronics/Electronic_Component/Memristor.secret.md)
 

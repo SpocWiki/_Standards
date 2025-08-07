@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Magnapinna atlantica"
 ---
 
@@ -160,7 +160,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[atlantica](atlantica.md)) 
+### #is_/same_as :: [atlantica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.md) 
 
 ### #is_/same_as :: [atlantica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/atlantica.public.md) 
 

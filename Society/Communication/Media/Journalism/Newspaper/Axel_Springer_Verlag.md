@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Axel Springer Verlag"
 ---
@@ -36,4 +36,21 @@ Axel_Springer_Verlag
 > alongside [[USA_Today]], [[News_Corp]], and The[[New_York_Times]]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Axel%20Springer%20SE) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Axel_Springer_Verlag](/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.md) 
+
+### #is_/same_as :: [Axel_Springer_Verlag.public](/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.public.md) 
+
+### #is_/same_as :: [Axel_Springer_Verlag.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.internal.md) 
+
+### #is_/same_as :: [Axel_Springer_Verlag.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.protect.md) 
+
+### #is_/same_as :: [Axel_Springer_Verlag.private](/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.private.md) 
+
+### #is_/same_as :: [Axel_Springer_Verlag.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.personal.md) 
+
+### #is_/same_as :: [Axel_Springer_Verlag.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Entomobryidae
 ---
 
@@ -51,7 +51,7 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Entomobryidae](Entomobryidae.md)) 
+### #is_/same_as :: [Entomobryidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.md) 
 
 ### #is_/same_as :: [Entomobryidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.public.md) 
 

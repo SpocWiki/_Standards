@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - beneficiary-bank
 - beneficiary_bank

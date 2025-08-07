@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Speed of light"
 Commons_category: "Speed of light"

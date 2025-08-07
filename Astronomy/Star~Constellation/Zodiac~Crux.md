@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Crux|Zodiac~Crux]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Crux.public|Zodiac~Crux.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Crux.internal|Zodiac~Crux.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Crux.protect|Zodiac~Crux.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Crux.private|Zodiac~Crux.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Crux.personal|Zodiac~Crux.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Crux.secret|Zodiac~Crux.secret]] 
+
+### #is_/same_as :: [Zodiac~Crux](/_Standards/Astronomy/Star~Constellation/Zodiac~Crux.md) 
+
+### #is_/same_as :: [Zodiac~Crux.public](/_public/Astronomy/Star~Constellation/Zodiac~Crux.public.md) 
+
+### #is_/same_as :: [Zodiac~Crux.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal.md) 
+
+### #is_/same_as :: [Zodiac~Crux.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect.md) 
+
+### #is_/same_as :: [Zodiac~Crux.private](/_private/Astronomy/Star~Constellation/Zodiac~Crux.private.md) 
+
+### #is_/same_as :: [Zodiac~Crux.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal.md) 
+
+### #is_/same_as :: [Zodiac~Crux.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret.md)
+

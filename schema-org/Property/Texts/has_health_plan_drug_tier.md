@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-drug-tier
 - health_plan_drug_tier

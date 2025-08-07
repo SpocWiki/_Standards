@@ -27,3 +27,20 @@ has_id_wikidata: Q215359
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dean%20Martin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dean_Martin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.md) 
+
+### #is_/same_as :: [Dean_Martin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.public.md) 
+
+### #is_/same_as :: [Dean_Martin.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.internal.md) 
+
+### #is_/same_as :: [Dean_Martin.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.protect.md) 
+
+### #is_/same_as :: [Dean_Martin.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.private.md) 
+
+### #is_/same_as :: [Dean_Martin.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.personal.md) 
+
+### #is_/same_as :: [Dean_Martin.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Dean_Martin.secret.md)
+

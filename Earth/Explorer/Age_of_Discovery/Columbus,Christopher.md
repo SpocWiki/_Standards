@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Christopher Columbus"
 has_id_wikidata: Q7322

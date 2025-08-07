@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Alpaka
 - "Lama pacos"
@@ -58,7 +58,7 @@ Copyright ::            © 2005 [lakerae](http://flickr.com/people/lakerae/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Alpaca](Alpaca.md)) 
+### #is_/same_as :: [Alpaca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel/Lamini/Alpaca.md) 
 
 ### #is_/same_as :: [Alpaca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel/Lamini/Alpaca.public.md) 
 

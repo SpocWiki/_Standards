@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vaejovidae
 ---
 
@@ -61,7 +61,7 @@ Copyright ::   © 1988 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Vaejovidae](Vaejovidae.md)) 
+### #is_/same_as :: [Vaejovidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.md) 
 
 ### #is_/same_as :: [Vaejovidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - x-ray
 - x_ray

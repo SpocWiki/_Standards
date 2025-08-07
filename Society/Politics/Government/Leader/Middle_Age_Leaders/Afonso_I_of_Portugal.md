@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Afonso Henriques"
 has_id_wikidata: Q587697
@@ -39,4 +39,19 @@ has_id_wikidata: Q587697
 > [Wikipedia](https://en.wikipedia.org/wiki/Afonso%20I%20of%20Portugal) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Afonso_I_of_Portugal](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.md) 
+
+### #is_/same_as :: [Afonso_I_of_Portugal.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.public.md) 
+
+### #is_/same_as :: [Afonso_I_of_Portugal.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.internal.md) 
+
+### #is_/same_as :: [Afonso_I_of_Portugal.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.protect.md) 
+
+### #is_/same_as :: [Afonso_I_of_Portugal.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.private.md) 
+
+### #is_/same_as :: [Afonso_I_of_Portugal.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.personal.md) 
+
+### #is_/same_as :: [Afonso_I_of_Portugal.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.secret.md)
 

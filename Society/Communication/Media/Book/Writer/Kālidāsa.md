@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: fd6d0cf6-7643-4099-9c31-286b066c8f6a
 Commons_category: Kālidāsa
 Commons_Creator_page: Kālidāsa

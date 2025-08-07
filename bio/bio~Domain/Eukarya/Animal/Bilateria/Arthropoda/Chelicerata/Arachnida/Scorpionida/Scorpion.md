@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Scorpion
 - Scorpiones
@@ -102,7 +102,7 @@ Copyright ::   © 1988 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scorpion](Scorpion.md)) 
+### #is_/same_as :: [Scorpion](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.md) 
 
 ### #is_/same_as :: [Scorpion.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.public.md) 
 

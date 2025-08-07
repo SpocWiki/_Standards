@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prognosis-health-aspect
 - prognosis_health_aspect

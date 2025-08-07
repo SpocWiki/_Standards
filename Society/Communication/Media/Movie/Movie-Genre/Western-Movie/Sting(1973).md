@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Der Clou"
 ---
@@ -36,4 +36,21 @@ aliases:
 
 Robert Redford's black Film Partner Luther Coleman was [[Robert Earl Jones]] 
 the Father of Actor [[James Earl Jones]]. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sting(1973)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).md) 
+
+### #is_/same_as :: [Sting(1973).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).public.md) 
+
+### #is_/same_as :: [Sting(1973).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).internal.md) 
+
+### #is_/same_as :: [Sting(1973).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).protect.md) 
+
+### #is_/same_as :: [Sting(1973).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).private.md) 
+
+### #is_/same_as :: [Sting(1973).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).personal.md) 
+
+### #is_/same_as :: [Sting(1973).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Sting(1973).secret.md)
 

@@ -36,3 +36,21 @@
 ### [[Stranger_Things]] 
 
 ### [[Netflix/Wednesday,Netflix_series]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Netflix](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.md) 
+
+### #is_/same_as :: [Netflix.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.public.md) 
+
+### #is_/same_as :: [Netflix.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.internal.md) 
+
+### #is_/same_as :: [Netflix.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.protect.md) 
+
+### #is_/same_as :: [Netflix.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.private.md) 
+
+### #is_/same_as :: [Netflix.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.personal.md) 
+
+### #is_/same_as :: [Netflix.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Netflix.secret.md)
+

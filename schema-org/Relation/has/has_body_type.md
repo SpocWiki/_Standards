@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-type
 - body_type

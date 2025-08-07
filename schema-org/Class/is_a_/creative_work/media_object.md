@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - media-object
 - media_object

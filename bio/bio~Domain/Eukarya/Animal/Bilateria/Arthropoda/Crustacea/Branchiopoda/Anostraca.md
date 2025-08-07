@@ -1,4 +1,4 @@
-﻿---
+---
 title: Anostraca
 ---
 
@@ -29,7 +29,7 @@ title: Anostraca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Anostraca](Anostraca.md)) 
+### #is_/same_as :: [Anostraca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.md) 
 
 ### #is_/same_as :: [Anostraca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.public.md) 
 

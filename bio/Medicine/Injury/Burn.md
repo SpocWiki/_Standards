@@ -54,3 +54,20 @@ Baidu_Tieba_name: 烧伤
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burn) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Burn](/_Standards/bio/Medicine/Injury/Burn.md) 
+
+### #is_/same_as :: [Burn.public](/_public/bio/Medicine/Injury/Burn.public.md) 
+
+### #is_/same_as :: [Burn.internal](/_internal/bio/Medicine/Injury/Burn.internal.md) 
+
+### #is_/same_as :: [Burn.protect](/_protect/bio/Medicine/Injury/Burn.protect.md) 
+
+### #is_/same_as :: [Burn.private](/_private/bio/Medicine/Injury/Burn.private.md) 
+
+### #is_/same_as :: [Burn.personal](/_personal/bio/Medicine/Injury/Burn.personal.md) 
+
+### #is_/same_as :: [Burn.secret](/_secret/bio/Medicine/Injury/Burn.secret.md)
+

@@ -41,7 +41,7 @@ that transport blood throughout the entire body.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [vessel](vessel.md) 
+### #is_/same_as :: [vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.md) 
 
 ### #is_/same_as :: [vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.public.md) 
 

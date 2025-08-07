@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tubulidentata
 ---
 
@@ -100,7 +100,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tubulidentata](Tubulidentata.md)) 
+### #is_/same_as :: [Tubulidentata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata.md) 
 
 ### #is_/same_as :: [Tubulidentata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata.public.md) 
 

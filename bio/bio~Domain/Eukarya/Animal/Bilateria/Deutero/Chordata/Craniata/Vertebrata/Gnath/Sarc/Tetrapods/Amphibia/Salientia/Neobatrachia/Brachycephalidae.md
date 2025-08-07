@@ -1,4 +1,4 @@
-﻿---
+---
 title: Brachycephalidae
 ---
 
@@ -94,17 +94,17 @@ in inguinal amplexus, a behavior that is rare in Neobatrachia (Nussbaum,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Brachycephalidae](Brachycephalidae.md)) 
+### #is_/same_as :: [Brachycephalidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.md) 
 
-### #is_/same_as :: [Brachycephalidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Brachycephalidae.public.md) 
+### #is_/same_as :: [Brachycephalidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.public.md) 
 
-### #is_/same_as :: [Brachycephalidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Brachycephalidae.internal.md) 
+### #is_/same_as :: [Brachycephalidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.internal.md) 
 
-### #is_/same_as :: [Brachycephalidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Brachycephalidae.protect.md) 
+### #is_/same_as :: [Brachycephalidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.protect.md) 
 
-### #is_/same_as :: [Brachycephalidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Brachycephalidae.private.md) 
+### #is_/same_as :: [Brachycephalidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.private.md) 
 
-### #is_/same_as :: [Brachycephalidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Brachycephalidae.personal.md) 
+### #is_/same_as :: [Brachycephalidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.personal.md) 
 
-### #is_/same_as :: [Brachycephalidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Brachycephalidae.secret.md)
+### #is_/same_as :: [Brachycephalidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Brachycephalidae.secret.md)
 

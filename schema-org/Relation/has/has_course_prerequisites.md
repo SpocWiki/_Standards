@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - course-prerequisites
 - course_prerequisites

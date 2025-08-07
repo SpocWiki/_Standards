@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Eberhard Feik"
 ---
@@ -22,4 +22,19 @@ aliases:
 > [Wikipedia](https://de.wikipedia.org/wiki/Eberhard%20Feik) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Feik,Eberhard](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.md) 
+
+### #is_/same_as :: [Feik,Eberhard.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.public.md) 
+
+### #is_/same_as :: [Feik,Eberhard.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.internal.md) 
+
+### #is_/same_as :: [Feik,Eberhard.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.protect.md) 
+
+### #is_/same_as :: [Feik,Eberhard.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.private.md) 
+
+### #is_/same_as :: [Feik,Eberhard.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.personal.md) 
+
+### #is_/same_as :: [Feik,Eberhard.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.secret.md)
 

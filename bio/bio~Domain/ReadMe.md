@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dominion
 - superkingdom
@@ -39,9 +39,6 @@ Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_An
 > - the eocyte hypothesis (with two domains of Bacteria and Archaea, with Eukarya included as a branch of Archaea).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Domain%20(biology)) 
-
-
-
 
 
 ## Confidential Links & Embeds: 

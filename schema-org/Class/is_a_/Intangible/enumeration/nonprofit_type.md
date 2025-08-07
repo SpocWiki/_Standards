@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit-type
 - nonprofit_type

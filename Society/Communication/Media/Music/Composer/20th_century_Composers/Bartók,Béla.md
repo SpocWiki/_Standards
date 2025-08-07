@@ -24,3 +24,20 @@ has_id_wikidata: Q83326
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9la%20Bart%C3%B3k) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bartók,Béla](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.md) 
+
+### #is_/same_as :: [Bartók,Béla.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.public.md) 
+
+### #is_/same_as :: [Bartók,Béla.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.internal.md) 
+
+### #is_/same_as :: [Bartók,Béla.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.protect.md) 
+
+### #is_/same_as :: [Bartók,Béla.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.private.md) 
+
+### #is_/same_as :: [Bartók,Béla.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.personal.md) 
+
+### #is_/same_as :: [Bartók,Béla.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Bartók,Béla.secret.md)
+

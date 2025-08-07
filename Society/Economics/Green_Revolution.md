@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Third Agricultural Revolution"
 end_time: 1960-01-01

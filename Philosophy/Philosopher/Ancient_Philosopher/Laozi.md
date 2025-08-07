@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Laozi
 - "Lao Tzu"

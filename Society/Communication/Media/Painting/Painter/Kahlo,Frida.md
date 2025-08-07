@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frida Kahlo"
 - "Magdalena Carmen Frida Kahlo y Calderón"

@@ -75,36 +75,17 @@ PhilPapers_topic: nonfiction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Non-Fiction](Non-Fiction.md) 
+### #is_/same_as :: [Non-Fiction](/_Standards/Society/Communication/Genre/Non-Fiction.md) 
 
-### #is_/same_as :: [Non-Fiction.public](/_public/Society/Communication/Media/Genre/Non-Fiction.public.md) 
+### #is_/same_as :: [Non-Fiction.public](/_public/Society/Communication/Genre/Non-Fiction.public.md) 
 
-### #is_/same_as :: [Non-Fiction.internal](/_internal/Society/Communication/Media/Genre/Non-Fiction.internal.md) 
+### #is_/same_as :: [Non-Fiction.internal](/_internal/Society/Communication/Genre/Non-Fiction.internal.md) 
 
-### #is_/same_as :: [Non-Fiction.protect](/_protect/Society/Communication/Media/Genre/Non-Fiction.protect.md) 
+### #is_/same_as :: [Non-Fiction.protect](/_protect/Society/Communication/Genre/Non-Fiction.protect.md) 
 
-### #is_/same_as :: [Non-Fiction.private](/_private/Society/Communication/Media/Genre/Non-Fiction.private.md) 
+### #is_/same_as :: [Non-Fiction.private](/_private/Society/Communication/Genre/Non-Fiction.private.md) 
 
-### #is_/same_as :: [Non-Fiction.personal](/_personal/Society/Communication/Media/Genre/Non-Fiction.personal.md) 
+### #is_/same_as :: [Non-Fiction.personal](/_personal/Society/Communication/Genre/Non-Fiction.personal.md) 
 
-### #is_/same_as :: [Non-Fiction.secret](/_secret/Society/Communication/Media/Genre/Non-Fiction.secret.md)
+### #is_/same_as :: [Non-Fiction.secret](/_secret/Society/Communication/Genre/Non-Fiction.secret.md)
 
-
-# [[Non-Fiction]] 
-
-#is_/part_of :: [[Non-Fiction]] 
-
-![[Non-Fiction.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

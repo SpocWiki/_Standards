@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stages-health-aspect
 - stages_health_aspect

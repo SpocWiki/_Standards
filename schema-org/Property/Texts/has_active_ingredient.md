@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - active-ingredient
 - active_ingredient

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - iswc-code
 - id_iswc

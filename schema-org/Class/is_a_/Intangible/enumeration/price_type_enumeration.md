@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-type-enumeration
 - price_type_enumeration

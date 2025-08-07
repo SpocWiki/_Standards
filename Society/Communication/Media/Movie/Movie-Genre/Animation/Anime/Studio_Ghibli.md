@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Studio Ghibli"
 ---
@@ -30,4 +30,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Studio%20Ghibli)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Studio_Ghibli](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.md) 
+
+### #is_/same_as :: [Studio_Ghibli.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.public.md) 
+
+### #is_/same_as :: [Studio_Ghibli.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.internal.md) 
+
+### #is_/same_as :: [Studio_Ghibli.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.protect.md) 
+
+### #is_/same_as :: [Studio_Ghibli.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.private.md) 
+
+### #is_/same_as :: [Studio_Ghibli.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.personal.md) 
+
+### #is_/same_as :: [Studio_Ghibli.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Studio_Ghibli.secret.md)
 

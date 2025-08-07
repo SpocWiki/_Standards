@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - neurologic
 - neurologic

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - golf-course
 - golf_course

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Forests
 Commons_gallery: Forest
 described_by_source:

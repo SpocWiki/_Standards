@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-bio-polymer-sequence
 - has_bio_polymer_sequence

@@ -124,3 +124,20 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/SHOPENGAUER_ARTUR.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arthur%20Schopenhauer) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Schopenhauer,Arthur](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.md) 
+
+### #is_/same_as :: [Schopenhauer,Arthur.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.public.md) 
+
+### #is_/same_as :: [Schopenhauer,Arthur.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.internal.md) 
+
+### #is_/same_as :: [Schopenhauer,Arthur.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.protect.md) 
+
+### #is_/same_as :: [Schopenhauer,Arthur.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.private.md) 
+
+### #is_/same_as :: [Schopenhauer,Arthur.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.personal.md) 
+
+### #is_/same_as :: [Schopenhauer,Arthur.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Schopenhauer,Arthur.secret.md)
+

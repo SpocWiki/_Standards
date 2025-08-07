@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - duplicate-therapy
 - duplicate_therapy

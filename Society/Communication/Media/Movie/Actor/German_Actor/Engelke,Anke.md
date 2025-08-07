@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Anke Christina Fischer"
 - "Anke Engelke"
@@ -53,4 +53,20 @@ und trat damit auch in der _[ZDF-Hitparade](https://de.wikipedia.org/wiki/ZDF-H
 Von 1979 bis 1986 war sie [Moderatorin](https://de.wikipedia.org/wiki/Moderator#Moderator_(Journalismus) "Moderator") der täglichen Kindersendungen auf der Funkausstellung fürs ZDF; 
 zusammen mit [Benny Schnier](https://de.wikipedia.org/wiki/Benny_Schnier "Benny Schnier") moderierte sie das [ZDF-Ferienprogramm](https://de.wikipedia.org/wiki/ZDF-Ferienprogramm "ZDF-Ferienprogramm").
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Engelke,Anke](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.md) 
+
+### #is_/same_as :: [Engelke,Anke.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.public.md) 
+
+### #is_/same_as :: [Engelke,Anke.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.internal.md) 
+
+### #is_/same_as :: [Engelke,Anke.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.protect.md) 
+
+### #is_/same_as :: [Engelke,Anke.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.private.md) 
+
+### #is_/same_as :: [Engelke,Anke.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.personal.md) 
+
+### #is_/same_as :: [Engelke,Anke.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Engelke,Anke.secret.md)
 

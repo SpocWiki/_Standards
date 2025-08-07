@@ -1,4 +1,4 @@
-﻿---
+---
 title: Acerentomidae
 ---
 
@@ -84,7 +84,7 @@ title: Acerentomidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Acerentomidae](Acerentomidae.md)) 
+### #is_/same_as :: [Acerentomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.md) 
 
 ### #is_/same_as :: [Acerentomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Acerentomidae.public.md) 
 

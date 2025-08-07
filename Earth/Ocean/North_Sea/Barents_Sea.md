@@ -42,3 +42,20 @@ has_id_wikidata: Q45823
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barents%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barents_Sea](/_Standards/Earth/Ocean/North_Sea/Barents_Sea.md) 
+
+### #is_/same_as :: [Barents_Sea.public](/_public/Earth/Ocean/North_Sea/Barents_Sea.public.md) 
+
+### #is_/same_as :: [Barents_Sea.internal](/_internal/Earth/Ocean/North_Sea/Barents_Sea.internal.md) 
+
+### #is_/same_as :: [Barents_Sea.protect](/_protect/Earth/Ocean/North_Sea/Barents_Sea.protect.md) 
+
+### #is_/same_as :: [Barents_Sea.private](/_private/Earth/Ocean/North_Sea/Barents_Sea.private.md) 
+
+### #is_/same_as :: [Barents_Sea.personal](/_personal/Earth/Ocean/North_Sea/Barents_Sea.personal.md) 
+
+### #is_/same_as :: [Barents_Sea.secret](/_secret/Earth/Ocean/North_Sea/Barents_Sea.secret.md)
+

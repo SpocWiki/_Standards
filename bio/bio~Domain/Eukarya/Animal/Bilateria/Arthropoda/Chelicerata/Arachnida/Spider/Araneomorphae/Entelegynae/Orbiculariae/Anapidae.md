@@ -1,4 +1,4 @@
-﻿---
+---
 title: Anapidae
 ---
 
@@ -58,7 +58,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Anapidae](Anapidae.md)) 
+### #is_/same_as :: [Anapidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.md) 
 
 ### #is_/same_as :: [Anapidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Anapidae.public.md) 
 

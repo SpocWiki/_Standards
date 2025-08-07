@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Minor|Zodiac~Minor]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Minor.public|Zodiac~Minor.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Minor.internal|Zodiac~Minor.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Minor.protect|Zodiac~Minor.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Minor.private|Zodiac~Minor.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Minor.personal|Zodiac~Minor.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Minor.secret|Zodiac~Minor.secret]] 
+
+### #is_/same_as :: [Zodiac~Leo_Minor](/_Standards/Astronomy/Star~Constellation/Zodiac~Leo_Minor.md) 
+
+### #is_/same_as :: [Zodiac~Leo_Minor.public](/_public/Astronomy/Star~Constellation/Zodiac~Leo_Minor.public.md) 
+
+### #is_/same_as :: [Zodiac~Leo_Minor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.internal.md) 
+
+### #is_/same_as :: [Zodiac~Leo_Minor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Leo_Minor.protect.md) 
+
+### #is_/same_as :: [Zodiac~Leo_Minor.private](/_private/Astronomy/Star~Constellation/Zodiac~Leo_Minor.private.md) 
+
+### #is_/same_as :: [Zodiac~Leo_Minor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.personal.md) 
+
+### #is_/same_as :: [Zodiac~Leo_Minor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Leo_Minor.secret.md)
+

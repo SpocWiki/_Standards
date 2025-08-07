@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - media-authenticity-category
 - media_authenticity_category

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loliginidae
 ---
 
@@ -323,7 +323,7 @@ Phuket Mar. Biol. Center. Res. Bull. 66:23-36
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Loliginidae](Loliginidae.md)) 
+### #is_/same_as :: [Loliginidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.md) 
 
 ### #is_/same_as :: [Loliginidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.public.md) 
 

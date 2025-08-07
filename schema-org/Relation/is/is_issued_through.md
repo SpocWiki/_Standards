@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - issued-through
 - issued_through

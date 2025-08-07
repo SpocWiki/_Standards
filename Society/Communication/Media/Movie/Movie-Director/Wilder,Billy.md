@@ -36,3 +36,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Billy%20Wilder) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wilder,Billy](/_Standards/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.md) 
+
+### #is_/same_as :: [Wilder,Billy.public](/_public/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.public.md) 
+
+### #is_/same_as :: [Wilder,Billy.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.internal.md) 
+
+### #is_/same_as :: [Wilder,Billy.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.protect.md) 
+
+### #is_/same_as :: [Wilder,Billy.private](/_private/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.private.md) 
+
+### #is_/same_as :: [Wilder,Billy.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.personal.md) 
+
+### #is_/same_as :: [Wilder,Billy.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Wilder,Billy.secret.md)
+

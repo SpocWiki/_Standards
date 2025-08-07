@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-clinic
 - medical_clinic

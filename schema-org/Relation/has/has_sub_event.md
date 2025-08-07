@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-event
 - sub_event

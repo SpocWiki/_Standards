@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - text-value
 - text_value

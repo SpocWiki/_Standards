@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kinorhyncha
 ---
 
@@ -74,7 +74,7 @@ Copyright ::   © 1996 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Kinorhyncha](Kinorhyncha.md)) 
+### #is_/same_as :: [Kinorhyncha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.md) 
 
 ### #is_/same_as :: [Kinorhyncha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Kinorhyncha.public.md) 
 

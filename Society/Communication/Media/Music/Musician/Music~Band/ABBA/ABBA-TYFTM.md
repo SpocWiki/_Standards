@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thank You for the Music"
 ---
@@ -118,4 +118,20 @@ Track release information taken from _ABBA: [The Complete Studio Recordings](h
 |13.|"Ring Ring" (Swedish/Spanish/German version; Swedish and German versions previously released as singles, while the Spanish version was first released in 1993 on the compilation _Más ABBA Oro: Más ABBA Éxitos_)|Andersson, Anderson, Ulvaeus, Doris Band, Peter Lach|4:21|
 |14.|"Honey, Honey" (Swedish version, B-side, Polar POS 1186)|Andersson, Anderson, Ulvaeus|2:57|
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ABBA-TYFTM](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.md) 
+
+### #is_/same_as :: [ABBA-TYFTM.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.public.md) 
+
+### #is_/same_as :: [ABBA-TYFTM.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.internal.md) 
+
+### #is_/same_as :: [ABBA-TYFTM.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.protect.md) 
+
+### #is_/same_as :: [ABBA-TYFTM.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.private.md) 
+
+### #is_/same_as :: [ABBA-TYFTM.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.personal.md) 
+
+### #is_/same_as :: [ABBA-TYFTM.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/ABBA/ABBA-TYFTM.secret.md)
 

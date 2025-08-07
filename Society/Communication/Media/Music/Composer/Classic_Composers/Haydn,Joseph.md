@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Franz Joseph Haydn"
 - "Joseph Haydn"

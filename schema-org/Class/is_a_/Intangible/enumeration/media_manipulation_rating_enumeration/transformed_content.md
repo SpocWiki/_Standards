@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - transformed-content
 - transformed_content

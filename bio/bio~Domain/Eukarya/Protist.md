@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Protists
 - protoctist
@@ -175,7 +175,7 @@ Scientific Name ::     Entosiphon sulcatum (Euglenozoa)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Protist](Protist.md)) 
+### #is_/same_as :: [Protist](/_Standards/bio/bio~Domain/Eukarya/Protist.md) 
 
 ### #is_/same_as :: [Protist.public](/_public/bio/bio~Domain/Eukarya/Protist.public.md) 
 

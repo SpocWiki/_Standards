@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - graphic-novel
 - graphic_novel

@@ -122,3 +122,20 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antonie%20van%20Leeuwenhoek) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van](/_Standards/bio/Biologist/Leeuwenhoek,Antoni_van.md) 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van.public](/_public/bio/Biologist/Leeuwenhoek,Antoni_van.public.md) 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van.internal](/_internal/bio/Biologist/Leeuwenhoek,Antoni_van.internal.md) 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van.protect](/_protect/bio/Biologist/Leeuwenhoek,Antoni_van.protect.md) 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van.private](/_private/bio/Biologist/Leeuwenhoek,Antoni_van.private.md) 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van.personal](/_personal/bio/Biologist/Leeuwenhoek,Antoni_van.personal.md) 
+
+### #is_/same_as :: [Leeuwenhoek,Antoni_van.secret](/_secret/bio/Biologist/Leeuwenhoek,Antoni_van.secret.md)
+

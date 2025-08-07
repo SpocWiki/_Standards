@@ -30,3 +30,20 @@
 
 The Training Code and Corpus  itself is closed. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Llama(language_model)](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).md) 
+
+### #is_/same_as :: [Llama(language_model).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).public.md) 
+
+### #is_/same_as :: [Llama(language_model).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).internal.md) 
+
+### #is_/same_as :: [Llama(language_model).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).protect.md) 
+
+### #is_/same_as :: [Llama(language_model).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).private.md) 
+
+### #is_/same_as :: [Llama(language_model).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).personal.md) 
+
+### #is_/same_as :: [Llama(language_model).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Llama(language_model).secret.md)
+

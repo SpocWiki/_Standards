@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Otto von Bismarck"
 - "Otto Eduard Leopold von Bismarck"
@@ -205,17 +205,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bismarck,Otto_von](Bismarck,Otto_von.md)) 
+### #is_/same_as :: [Bismarck,Otto_von](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.md) 
 
-### #is_/same_as :: [Bismarck,Otto_von.public](/_public/Society/Government/Leader/Modern_Leaders/Bismarck,Otto_von.public.md) 
+### #is_/same_as :: [Bismarck,Otto_von.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.public.md) 
 
-### #is_/same_as :: [Bismarck,Otto_von.internal](/_internal/Society/Government/Leader/Modern_Leaders/Bismarck,Otto_von.internal.md) 
+### #is_/same_as :: [Bismarck,Otto_von.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.internal.md) 
 
-### #is_/same_as :: [Bismarck,Otto_von.protect](/_protect/Society/Government/Leader/Modern_Leaders/Bismarck,Otto_von.protect.md) 
+### #is_/same_as :: [Bismarck,Otto_von.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.protect.md) 
 
-### #is_/same_as :: [Bismarck,Otto_von.private](/_private/Society/Government/Leader/Modern_Leaders/Bismarck,Otto_von.private.md) 
+### #is_/same_as :: [Bismarck,Otto_von.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.private.md) 
 
-### #is_/same_as :: [Bismarck,Otto_von.personal](/_personal/Society/Government/Leader/Modern_Leaders/Bismarck,Otto_von.personal.md) 
+### #is_/same_as :: [Bismarck,Otto_von.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.personal.md) 
 
-### #is_/same_as :: [Bismarck,Otto_von.secret](/_secret/Society/Government/Leader/Modern_Leaders/Bismarck,Otto_von.secret.md)
+### #is_/same_as :: [Bismarck,Otto_von.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.secret.md)
 

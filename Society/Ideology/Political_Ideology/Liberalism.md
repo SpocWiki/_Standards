@@ -1,4 +1,4 @@
-﻿---
+---
 based_on:
 - '[[_Standards/WikiData/WD~equality_before_the_law,316254]]'
 - '[[_Standards/WikiData/WD~social_contract,1326430]]'

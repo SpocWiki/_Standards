@@ -1,4 +1,4 @@
-﻿---
+---
 title: Palaeoscorpiones
 ---
 
@@ -31,7 +31,7 @@ title: Palaeoscorpiones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Palaeoscorpiones](Palaeoscorpiones.md)) 
+### #is_/same_as :: [Palaeoscorpiones](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.md) 
 
 ### #is_/same_as :: [Palaeoscorpiones.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Palaeoscorpiones.public.md) 
 

@@ -39,3 +39,19 @@ male_form_of_label: Enginyeria d'Obres Públiques
 > [Wikipedia](https://en.wikipedia.org/wiki/Architectural%20engineering) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Architectural_Engineering](/_Standards/Technology/Construction/Architecture/Architectural_Engineering.md) 
+
+### #is_/same_as :: [Architectural_Engineering.public](/_public/Technology/Construction/Architecture/Architectural_Engineering.public.md) 
+
+### #is_/same_as :: [Architectural_Engineering.internal](/_internal/Technology/Construction/Architecture/Architectural_Engineering.internal.md) 
+
+### #is_/same_as :: [Architectural_Engineering.protect](/_protect/Technology/Construction/Architecture/Architectural_Engineering.protect.md) 
+
+### #is_/same_as :: [Architectural_Engineering.private](/_private/Technology/Construction/Architecture/Architectural_Engineering.private.md) 
+
+### #is_/same_as :: [Architectural_Engineering.personal](/_personal/Technology/Construction/Architecture/Architectural_Engineering.personal.md) 
+
+### #is_/same_as :: [Architectural_Engineering.secret](/_secret/Technology/Construction/Architecture/Architectural_Engineering.secret.md)
+

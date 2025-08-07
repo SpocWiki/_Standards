@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - down_payment
 - down-payment

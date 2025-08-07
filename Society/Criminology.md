@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 86.41
 Commons_category: Criminology
 described_by_source:
@@ -51,4 +51,19 @@ U_S_National_Archives_Identifier: 10638880
 > [Wikipedia](https://en.wikipedia.org/wiki/Criminology) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Criminology](/_Standards/Society/Criminology.md) 
+
+### #is_/same_as :: [Criminology.public](/_public/Society/Criminology.public.md) 
+
+### #is_/same_as :: [Criminology.internal](/_internal/Society/Criminology.internal.md) 
+
+### #is_/same_as :: [Criminology.protect](/_protect/Society/Criminology.protect.md) 
+
+### #is_/same_as :: [Criminology.private](/_private/Society/Criminology.private.md) 
+
+### #is_/same_as :: [Criminology.personal](/_personal/Society/Criminology.personal.md) 
+
+### #is_/same_as :: [Criminology.secret](/_secret/Society/Criminology.secret.md)
 

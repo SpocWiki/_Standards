@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-interior-type
 - vehicle_interior_type

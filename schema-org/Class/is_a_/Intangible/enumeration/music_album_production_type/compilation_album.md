@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - compilation-album
 - compilation_album

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - significant-link
 - significant_link

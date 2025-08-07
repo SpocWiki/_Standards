@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parcel-delivery
 - parcel_delivery

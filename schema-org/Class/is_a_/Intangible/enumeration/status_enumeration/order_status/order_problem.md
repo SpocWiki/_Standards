@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-problem
 - order_problem

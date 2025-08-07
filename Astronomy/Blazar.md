@@ -26,3 +26,20 @@ Commons_category: Blazars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blazar) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blazar](/_Standards/Astronomy/Blazar.md) 
+
+### #is_/same_as :: [Blazar.public](/_public/Astronomy/Blazar.public.md) 
+
+### #is_/same_as :: [Blazar.internal](/_internal/Astronomy/Blazar.internal.md) 
+
+### #is_/same_as :: [Blazar.protect](/_protect/Astronomy/Blazar.protect.md) 
+
+### #is_/same_as :: [Blazar.private](/_private/Astronomy/Blazar.private.md) 
+
+### #is_/same_as :: [Blazar.personal](/_personal/Astronomy/Blazar.personal.md) 
+
+### #is_/same_as :: [Blazar.secret](/_secret/Astronomy/Blazar.secret.md)
+

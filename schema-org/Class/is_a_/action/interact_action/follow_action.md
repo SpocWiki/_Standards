@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - follow-action
 - follow_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-changes
 - legislation_changes

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Euclid(Sleep_Token)
 - "Euclid(Sleep Token)"
@@ -132,4 +132,19 @@ You will not be mine
 So give me the night, the night, the night 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Euclid(Sleep_Token)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).md) 
+
+### #is_/same_as :: [Euclid(Sleep_Token).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).public.md) 
+
+### #is_/same_as :: [Euclid(Sleep_Token).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).internal.md) 
+
+### #is_/same_as :: [Euclid(Sleep_Token).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).protect.md) 
+
+### #is_/same_as :: [Euclid(Sleep_Token).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).private.md) 
+
+### #is_/same_as :: [Euclid(Sleep_Token).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).personal.md) 
+
+### #is_/same_as :: [Euclid(Sleep_Token).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Euclid(Sleep_Token).secret.md)
 

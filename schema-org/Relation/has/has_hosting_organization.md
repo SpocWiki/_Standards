@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hosting-organization
 - hosting_organization

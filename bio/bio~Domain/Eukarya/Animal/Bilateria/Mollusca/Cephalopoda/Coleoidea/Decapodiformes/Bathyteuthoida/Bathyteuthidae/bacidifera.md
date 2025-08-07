@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bathyteuthis bacidifera"
 ---
 
@@ -113,7 +113,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bacidifera](bacidifera.md)) 
+### #is_/same_as :: [bacidifera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.md) 
 
 ### #is_/same_as :: [bacidifera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.public.md) 
 

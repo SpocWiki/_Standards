@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - subscribe-action
 - subscribe_action

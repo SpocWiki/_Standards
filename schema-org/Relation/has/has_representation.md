@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-representation
 - representation

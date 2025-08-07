@@ -1,4 +1,4 @@
-﻿---
+---
 title: Balaenopteridae
 ---
 
@@ -82,7 +82,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Balaenopteridae](Balaenopteridae.md)) 
+### #is_/same_as :: [Balaenopteridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae.md) 
 
 ### #is_/same_as :: [Balaenopteridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenopteridae.public.md) 
 

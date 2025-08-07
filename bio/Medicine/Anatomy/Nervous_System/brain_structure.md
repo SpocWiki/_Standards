@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - brain-structure
 - brain_structure
@@ -38,17 +38,17 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[brain_structure](brain_structure.md)) 
+### #is_/same_as :: [brain_structure](/_Standards/bio/Medicine/Anatomy/Nervous_System/brain_structure.md) 
 
-### #is_/same_as :: [brain_structure.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.public.md) 
+### #is_/same_as :: [brain_structure.public](/_public/bio/Medicine/Anatomy/Nervous_System/brain_structure.public.md) 
 
-### #is_/same_as :: [brain_structure.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.internal.md) 
+### #is_/same_as :: [brain_structure.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/brain_structure.internal.md) 
 
-### #is_/same_as :: [brain_structure.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.protect.md) 
+### #is_/same_as :: [brain_structure.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/brain_structure.protect.md) 
 
-### #is_/same_as :: [brain_structure.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.private.md) 
+### #is_/same_as :: [brain_structure.private](/_private/bio/Medicine/Anatomy/Nervous_System/brain_structure.private.md) 
 
-### #is_/same_as :: [brain_structure.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.personal.md) 
+### #is_/same_as :: [brain_structure.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/brain_structure.personal.md) 
 
-### #is_/same_as :: [brain_structure.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.secret.md)
+### #is_/same_as :: [brain_structure.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/brain_structure.secret.md)
 

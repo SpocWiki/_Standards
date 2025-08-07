@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nazi Germany"
 anthem:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Gupta Empire"
 basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - departure-gate
 - departure_gate

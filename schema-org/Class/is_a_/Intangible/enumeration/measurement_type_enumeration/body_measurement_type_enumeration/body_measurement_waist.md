@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-waist
 - body_measurement_waist

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-store
 - music_store

@@ -13,4 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Random%20House)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Random_House](/_Standards/Society/Communication/Media/Book/Publisher/Random_House.md) 
+
+### #is_/same_as :: [Random_House.public](/_public/Society/Communication/Media/Book/Publisher/Random_House.public.md) 
+
+### #is_/same_as :: [Random_House.internal](/_internal/Society/Communication/Media/Book/Publisher/Random_House.internal.md) 
+
+### #is_/same_as :: [Random_House.protect](/_protect/Society/Communication/Media/Book/Publisher/Random_House.protect.md) 
+
+### #is_/same_as :: [Random_House.private](/_private/Society/Communication/Media/Book/Publisher/Random_House.private.md) 
+
+### #is_/same_as :: [Random_House.personal](/_personal/Society/Communication/Media/Book/Publisher/Random_House.personal.md) 
+
+### #is_/same_as :: [Random_House.secret](/_secret/Society/Communication/Media/Book/Publisher/Random_House.secret.md)
 

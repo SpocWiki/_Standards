@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Anthocerotophyta
 - Hornwort
@@ -51,17 +51,17 @@ Hornworts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hornwort](Hornwort.md)) 
+### #is_/same_as :: [Hornwort](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.md) 
 
-### #is_/same_as :: [Hornwort.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Hornwort.public.md) 
+### #is_/same_as :: [Hornwort.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.public.md) 
 
-### #is_/same_as :: [Hornwort.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Hornwort.internal.md) 
+### #is_/same_as :: [Hornwort.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.internal.md) 
 
-### #is_/same_as :: [Hornwort.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Hornwort.protect.md) 
+### #is_/same_as :: [Hornwort.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.protect.md) 
 
-### #is_/same_as :: [Hornwort.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Hornwort.private.md) 
+### #is_/same_as :: [Hornwort.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.private.md) 
 
-### #is_/same_as :: [Hornwort.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Hornwort.personal.md) 
+### #is_/same_as :: [Hornwort.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.personal.md) 
 
-### #is_/same_as :: [Hornwort.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Hornwort.secret.md)
+### #is_/same_as :: [Hornwort.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Hornwort.secret.md)
 

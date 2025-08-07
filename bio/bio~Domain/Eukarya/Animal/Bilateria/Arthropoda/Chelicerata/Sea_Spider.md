@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pycnogonida
 - Pantopoda
@@ -70,7 +70,7 @@ Copyright ::                           © 2006 [Asbjørn Hansen](http://flickr.c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sea_Spider](Sea_Spider.md)) 
+### #is_/same_as :: [Sea_Spider](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.md) 
 
 ### #is_/same_as :: [Sea_Spider.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Spider.public.md) 
 

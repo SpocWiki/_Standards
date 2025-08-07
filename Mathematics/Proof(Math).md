@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mathematical proof"
 Commons_category: "Mathematical proof"

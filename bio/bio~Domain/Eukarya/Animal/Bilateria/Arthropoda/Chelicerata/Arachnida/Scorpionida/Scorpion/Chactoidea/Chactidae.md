@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chactidae
 ---
 
@@ -40,7 +40,7 @@ title: Chactidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chactidae](Chactidae.md)) 
+### #is_/same_as :: [Chactidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.md) 
 
 ### #is_/same_as :: [Chactidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Chactidae.public.md) 
 

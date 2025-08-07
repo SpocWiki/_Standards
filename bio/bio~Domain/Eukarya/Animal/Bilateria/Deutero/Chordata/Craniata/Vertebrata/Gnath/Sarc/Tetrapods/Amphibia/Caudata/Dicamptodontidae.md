@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dicamptodontidae
 ---
 
@@ -213,17 +213,17 @@ Copyright ::            © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dicamptodontidae](Dicamptodontidae.md)) 
+### #is_/same_as :: [Dicamptodontidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.md) 
 
-### #is_/same_as :: [Dicamptodontidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.public.md) 
+### #is_/same_as :: [Dicamptodontidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.public.md) 
 
-### #is_/same_as :: [Dicamptodontidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.internal.md) 
+### #is_/same_as :: [Dicamptodontidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.internal.md) 
 
-### #is_/same_as :: [Dicamptodontidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.protect.md) 
+### #is_/same_as :: [Dicamptodontidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.protect.md) 
 
-### #is_/same_as :: [Dicamptodontidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.private.md) 
+### #is_/same_as :: [Dicamptodontidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.private.md) 
 
-### #is_/same_as :: [Dicamptodontidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.personal.md) 
+### #is_/same_as :: [Dicamptodontidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.personal.md) 
 
-### #is_/same_as :: [Dicamptodontidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Dicamptodontidae.secret.md)
+### #is_/same_as :: [Dicamptodontidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Dicamptodontidae.secret.md)
 

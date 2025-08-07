@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offer-item-condition
 - offer_item_condition

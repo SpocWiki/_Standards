@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cirrothauma murrayi"
 ---
 
@@ -173,7 +173,7 @@ Neptune City, NJ, 351pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[murrayi](murrayi.md)) 
+### #is_/same_as :: [murrayi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae/Cirrothauma/murrayi.md) 
 
 ### #is_/same_as :: [murrayi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae/Cirrothauma/murrayi.public.md) 
 

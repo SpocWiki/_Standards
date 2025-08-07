@@ -43,3 +43,20 @@ Wolfram_Language_entity_code: Entity["Particle", "CharmQuark"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charm%20quark) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Charm Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.md) 
+
+### #is_/same_as :: [Charm Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.public.md) 
+
+### #is_/same_as :: [Charm Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.internal.md) 
+
+### #is_/same_as :: [Charm Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.protect.md) 
+
+### #is_/same_as :: [Charm Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.private.md) 
+
+### #is_/same_as :: [Charm Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.personal.md) 
+
+### #is_/same_as :: [Charm Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Charm Quark.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - investment-or-deposit
 - investment_or_deposit

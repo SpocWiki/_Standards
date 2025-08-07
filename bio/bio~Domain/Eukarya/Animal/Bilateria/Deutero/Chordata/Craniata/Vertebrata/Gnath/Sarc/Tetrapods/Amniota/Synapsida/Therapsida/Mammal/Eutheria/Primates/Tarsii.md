@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tarsii
 - Tarsiers
@@ -57,7 +57,7 @@ title: Tarsii
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tarsii](Tarsii.md)) 
+### #is_/same_as :: [Tarsii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Tarsii.md) 
 
 ### #is_/same_as :: [Tarsii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Tarsii.public.md) 
 

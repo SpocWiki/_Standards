@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Helicobasidium purpureum"
 ---
 
@@ -68,7 +68,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Helicobasidium_purpureum](Helicobasidium_purpureum.md)) 
+### #is_/same_as :: [Helicobasidium_purpureum](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.md) 
 
 ### #is_/same_as :: [Helicobasidium_purpureum.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_purpureum.public.md) 
 

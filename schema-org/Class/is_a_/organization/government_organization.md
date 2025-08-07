@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-organization
 - government_organization

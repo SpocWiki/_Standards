@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "George Gordon Byron, 6th Baron Byron"
 - "Lord Byron"

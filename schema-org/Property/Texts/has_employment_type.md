@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - employment-type
 - employment_type

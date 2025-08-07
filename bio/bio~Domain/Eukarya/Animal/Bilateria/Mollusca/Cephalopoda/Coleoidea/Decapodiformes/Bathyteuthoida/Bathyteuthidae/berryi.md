@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bathyteuthis berryi"
 ---
 
@@ -105,7 +105,7 @@ Contributions to Zoology, No. 97: 1-159
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[berryi](berryi.md)) 
+### #is_/same_as :: [berryi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.md) 
 
 ### #is_/same_as :: [berryi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/berryi.public.md) 
 

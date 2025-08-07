@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - getting-tested-info
 - getting_tested_info

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - site-navigation-element
 - site_navigation_element

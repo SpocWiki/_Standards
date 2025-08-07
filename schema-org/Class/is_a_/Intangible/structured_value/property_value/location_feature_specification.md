@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - location-feature-specification
 - location_feature_specification

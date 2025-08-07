@@ -51,3 +51,19 @@ Google_Doodle: first-hot-air-balloon-flight
 > [Wikipedia](https://en.wikipedia.org/wiki/Balloon) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Balloon](/_Standards/Technology/Aviation/Balloon.md) 
+
+### #is_/same_as :: [Balloon.public](/_public/Technology/Aviation/Balloon.public.md) 
+
+### #is_/same_as :: [Balloon.internal](/_internal/Technology/Aviation/Balloon.internal.md) 
+
+### #is_/same_as :: [Balloon.protect](/_protect/Technology/Aviation/Balloon.protect.md) 
+
+### #is_/same_as :: [Balloon.private](/_private/Technology/Aviation/Balloon.private.md) 
+
+### #is_/same_as :: [Balloon.personal](/_personal/Technology/Aviation/Balloon.personal.md) 
+
+### #is_/same_as :: [Balloon.secret](/_secret/Technology/Aviation/Balloon.secret.md)
+

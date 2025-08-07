@@ -33,3 +33,20 @@ Krugosvet_article: nauka_i_tehnika/fizika/ZAKON_ARHIMEDA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archimedes'%20principle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Archimedes principle](/_Standards/Science/Physics/Fluid_Mechanic/Archimedes principle.md) 
+
+### #is_/same_as :: [Archimedes principle.public](/_public/Science/Physics/Fluid_Mechanic/Archimedes principle.public.md) 
+
+### #is_/same_as :: [Archimedes principle.internal](/_internal/Science/Physics/Fluid_Mechanic/Archimedes principle.internal.md) 
+
+### #is_/same_as :: [Archimedes principle.protect](/_protect/Science/Physics/Fluid_Mechanic/Archimedes principle.protect.md) 
+
+### #is_/same_as :: [Archimedes principle.private](/_private/Science/Physics/Fluid_Mechanic/Archimedes principle.private.md) 
+
+### #is_/same_as :: [Archimedes principle.personal](/_personal/Science/Physics/Fluid_Mechanic/Archimedes principle.personal.md) 
+
+### #is_/same_as :: [Archimedes principle.secret](/_secret/Science/Physics/Fluid_Mechanic/Archimedes principle.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Day
 Commons_gallery: Day
 conversion_to_SI_unit: 86400

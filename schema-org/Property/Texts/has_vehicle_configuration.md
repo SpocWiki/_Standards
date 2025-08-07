@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-configuration
 - vehicle_configuration

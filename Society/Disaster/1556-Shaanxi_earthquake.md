@@ -53,3 +53,20 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"ShaanxiEarthquakeKi
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/1556%20Shaanxi%20earthquake) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake](/_Standards/Society/Disaster/1556-Shaanxi_earthquake.md) 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake.public](/_public/Society/Disaster/1556-Shaanxi_earthquake.public.md) 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake.internal](/_internal/Society/Disaster/1556-Shaanxi_earthquake.internal.md) 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake.protect](/_protect/Society/Disaster/1556-Shaanxi_earthquake.protect.md) 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake.private](/_private/Society/Disaster/1556-Shaanxi_earthquake.private.md) 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake.personal](/_personal/Society/Disaster/1556-Shaanxi_earthquake.personal.md) 
+
+### #is_/same_as :: [1556-Shaanxi_earthquake.secret](/_secret/Society/Disaster/1556-Shaanxi_earthquake.secret.md)
+

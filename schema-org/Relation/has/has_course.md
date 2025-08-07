@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-course
 - course

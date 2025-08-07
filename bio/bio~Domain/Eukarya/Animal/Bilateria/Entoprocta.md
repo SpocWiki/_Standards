@@ -1,4 +1,4 @@
-﻿---
+---
 title: Entoprocta
 ---
 
@@ -75,7 +75,7 @@ Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Entoprocta](Entoprocta.md)) 
+### #is_/same_as :: [Entoprocta](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.md) 
 
 ### #is_/same_as :: [Entoprocta.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Entoprocta.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number-of-credits
 - number_of_credits

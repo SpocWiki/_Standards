@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reject-action
 - reject_action

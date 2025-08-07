@@ -47,3 +47,21 @@ Set G  with Identity 𝟙:
 > See semigroup for the history of the subject, and some other general properties of monoids.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monoid) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Monoid](/_Standards/Mathematics/Algebra/Monoid.md) 
+
+### #is_/same_as :: [Monoid.public](/_public/Mathematics/Algebra/Monoid.public.md) 
+
+### #is_/same_as :: [Monoid.internal](/_internal/Mathematics/Algebra/Monoid.internal.md) 
+
+### #is_/same_as :: [Monoid.protect](/_protect/Mathematics/Algebra/Monoid.protect.md) 
+
+### #is_/same_as :: [Monoid.private](/_private/Mathematics/Algebra/Monoid.private.md) 
+
+### #is_/same_as :: [Monoid.personal](/_personal/Mathematics/Algebra/Monoid.personal.md) 
+
+### #is_/same_as :: [Monoid.secret](/_secret/Mathematics/Algebra/Monoid.secret.md)
+

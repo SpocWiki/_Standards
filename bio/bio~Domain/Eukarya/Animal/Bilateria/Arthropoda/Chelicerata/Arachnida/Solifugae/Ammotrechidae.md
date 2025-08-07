@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ammotrechidae
 ---
 
@@ -75,7 +75,7 @@ Central America, South America, and the Caribbean Islands. 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ammotrechidae](Ammotrechidae.md)) 
+### #is_/same_as :: [Ammotrechidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.md) 
 
 ### #is_/same_as :: [Ammotrechidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-transmission
 - vehicle_transmission

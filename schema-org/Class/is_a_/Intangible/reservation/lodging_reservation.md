@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lodging-reservation
 - lodging_reservation

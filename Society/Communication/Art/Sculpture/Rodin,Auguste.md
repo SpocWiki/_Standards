@@ -24,3 +24,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Auguste%20Rodin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rodin,Auguste](/_Standards/Society/Communication/Art/Sculpture/Rodin,Auguste.md) 
+
+### #is_/same_as :: [Rodin,Auguste.public](/_public/Society/Communication/Art/Sculpture/Rodin,Auguste.public.md) 
+
+### #is_/same_as :: [Rodin,Auguste.internal](/_internal/Society/Communication/Art/Sculpture/Rodin,Auguste.internal.md) 
+
+### #is_/same_as :: [Rodin,Auguste.protect](/_protect/Society/Communication/Art/Sculpture/Rodin,Auguste.protect.md) 
+
+### #is_/same_as :: [Rodin,Auguste.private](/_private/Society/Communication/Art/Sculpture/Rodin,Auguste.private.md) 
+
+### #is_/same_as :: [Rodin,Auguste.personal](/_personal/Society/Communication/Art/Sculpture/Rodin,Auguste.personal.md) 
+
+### #is_/same_as :: [Rodin,Auguste.secret](/_secret/Society/Communication/Art/Sculpture/Rodin,Auguste.secret.md)
+

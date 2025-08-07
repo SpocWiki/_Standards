@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - monetary-amount-distribution
 - monetary_amount_distribution

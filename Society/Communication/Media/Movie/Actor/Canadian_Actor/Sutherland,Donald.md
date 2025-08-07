@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Donald Sutherland"
 - "Donald McNichol Sutherland"
@@ -32,4 +32,21 @@ aliases:
 > Sutherland has received various honours including inductions into the Canadian Walk of Fame in 2000 and Hollywood Walk of Fame 2011. He was made an Officer of the Order of Canada (OC) in 1978, a Commandeur of the Ordre des Arts et des Lettres in 2012 and received the Companion of the Order of Canada (CC) in 2019. He is the father of actors Kiefer Sutherland, Rossif Sutherland, and Angus Sutherland. In October 2023, Canada Post issued a stamp in his honour, commemorating his career as one of Canada's most respected and versatile actors.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Donald%20Sutherland)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sutherland,Donald](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.md) 
+
+### #is_/same_as :: [Sutherland,Donald.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.public.md) 
+
+### #is_/same_as :: [Sutherland,Donald.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.internal.md) 
+
+### #is_/same_as :: [Sutherland,Donald.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.protect.md) 
+
+### #is_/same_as :: [Sutherland,Donald.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.private.md) 
+
+### #is_/same_as :: [Sutherland,Donald.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.personal.md) 
+
+### #is_/same_as :: [Sutherland,Donald.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value-pattern
 - value_pattern

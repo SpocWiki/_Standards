@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - physical-activity-category
 - physical_activity_category

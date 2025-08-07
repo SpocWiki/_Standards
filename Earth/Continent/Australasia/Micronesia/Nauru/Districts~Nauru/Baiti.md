@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Baiti
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - increases-risk-of
 - increasing_risk_of

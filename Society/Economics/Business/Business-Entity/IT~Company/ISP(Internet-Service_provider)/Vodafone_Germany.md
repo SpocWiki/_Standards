@@ -31,3 +31,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vodafone%20Germany) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vodafone_Germany](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.md) 
+
+### #is_/same_as :: [Vodafone_Germany.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.public.md) 
+
+### #is_/same_as :: [Vodafone_Germany.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.internal.md) 
+
+### #is_/same_as :: [Vodafone_Germany.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.protect.md) 
+
+### #is_/same_as :: [Vodafone_Germany.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.private.md) 
+
+### #is_/same_as :: [Vodafone_Germany.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.personal.md) 
+
+### #is_/same_as :: [Vodafone_Germany.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/Vodafone_Germany.secret.md)
+

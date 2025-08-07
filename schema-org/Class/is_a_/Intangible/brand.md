@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - brand
 - brand

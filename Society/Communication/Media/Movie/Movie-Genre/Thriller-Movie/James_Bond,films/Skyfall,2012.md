@@ -45,4 +45,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Skyfall)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skyfall,2012](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.md) 
+
+### #is_/same_as :: [Skyfall,2012.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.public.md) 
+
+### #is_/same_as :: [Skyfall,2012.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.internal.md) 
+
+### #is_/same_as :: [Skyfall,2012.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.protect.md) 
+
+### #is_/same_as :: [Skyfall,2012.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.private.md) 
+
+### #is_/same_as :: [Skyfall,2012.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.personal.md) 
+
+### #is_/same_as :: [Skyfall,2012.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.secret.md)
 

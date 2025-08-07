@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 created: 
 demised: 

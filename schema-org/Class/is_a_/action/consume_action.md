@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - consume-action
 - consume_action

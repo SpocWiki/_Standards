@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Babyrousa babyrussa"
 - "Buru babirusa"
@@ -75,7 +75,7 @@ Copyright ::            © 2006 [Sazali M](http://flickr.com/people/inque666/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Babyrousa_babyrussa](Babyrousa_babyrussa.md)) 
+### #is_/same_as :: [Babyrousa_babyrussa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Babyrousa_babyrussa.md) 
 
 ### #is_/same_as :: [Babyrousa_babyrussa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Babyrousa_babyrussa.public.md) 
 

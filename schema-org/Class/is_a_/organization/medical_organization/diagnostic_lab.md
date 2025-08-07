@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - diagnostic-lab
 - diagnostic_lab

@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: L7
 Commons_category: "Nervous system"
 described_by_source:

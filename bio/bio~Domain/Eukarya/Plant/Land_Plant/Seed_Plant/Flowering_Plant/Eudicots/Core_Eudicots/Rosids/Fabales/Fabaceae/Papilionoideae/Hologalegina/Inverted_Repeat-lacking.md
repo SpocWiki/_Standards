@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IRLC (Inverted Repeat-lacking clade)"
 ---
 
@@ -166,17 +166,17 @@ Copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Inverted_Repeat-lacking](Inverted_Repeat-lacking.md)) 
+### #is_/same_as :: [Inverted_Repeat-lacking](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.md) 
 
-### #is_/same_as :: [Inverted_Repeat-lacking.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.public.md) 
+### #is_/same_as :: [Inverted_Repeat-lacking.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.public.md) 
 
-### #is_/same_as :: [Inverted_Repeat-lacking.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.internal.md) 
+### #is_/same_as :: [Inverted_Repeat-lacking.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.internal.md) 
 
-### #is_/same_as :: [Inverted_Repeat-lacking.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.protect.md) 
+### #is_/same_as :: [Inverted_Repeat-lacking.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.protect.md) 
 
-### #is_/same_as :: [Inverted_Repeat-lacking.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.private.md) 
+### #is_/same_as :: [Inverted_Repeat-lacking.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.private.md) 
 
-### #is_/same_as :: [Inverted_Repeat-lacking.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.personal.md) 
+### #is_/same_as :: [Inverted_Repeat-lacking.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.personal.md) 
 
-### #is_/same_as :: [Inverted_Repeat-lacking.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.secret.md)
+### #is_/same_as :: [Inverted_Repeat-lacking.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Hologalegina/Inverted_Repeat-lacking.secret.md)
 

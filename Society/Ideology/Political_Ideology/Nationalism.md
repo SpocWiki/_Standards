@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.22
 Colon_Classification: W95
 Commons_category: Nationalism

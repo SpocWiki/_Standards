@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eligible-customer-type
 - eligible_customer_type

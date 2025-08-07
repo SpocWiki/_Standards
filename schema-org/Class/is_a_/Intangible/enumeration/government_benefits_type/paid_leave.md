@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - paid-leave
 - paid_leave

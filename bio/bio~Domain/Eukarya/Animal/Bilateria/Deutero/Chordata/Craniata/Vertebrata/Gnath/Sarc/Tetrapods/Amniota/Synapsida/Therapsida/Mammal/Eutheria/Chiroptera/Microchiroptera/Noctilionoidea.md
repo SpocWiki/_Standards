@@ -1,4 +1,4 @@
-﻿---
+---
 title: Noctilionoidea
 ---
 
@@ -156,7 +156,7 @@ Copyright © Nancy Simmons 1998
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Noctilionoidea](Noctilionoidea.md)) 
+### #is_/same_as :: [Noctilionoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Noctilionoidea.md) 
 
 ### #is_/same_as :: [Noctilionoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Noctilionoidea.public.md) 
 

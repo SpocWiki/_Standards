@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - production-date
 - production_date

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - iupac-name
 - name_iupac

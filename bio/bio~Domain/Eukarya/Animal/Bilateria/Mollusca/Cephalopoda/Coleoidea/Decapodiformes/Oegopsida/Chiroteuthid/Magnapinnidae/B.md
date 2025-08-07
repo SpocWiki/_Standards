@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Magnapinna sp. B"
 ---
 
@@ -96,7 +96,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[B](B.md)) 
+### #is_/same_as :: [B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/B.md) 
 
 ### #is_/same_as :: [B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/B.public.md) 
 

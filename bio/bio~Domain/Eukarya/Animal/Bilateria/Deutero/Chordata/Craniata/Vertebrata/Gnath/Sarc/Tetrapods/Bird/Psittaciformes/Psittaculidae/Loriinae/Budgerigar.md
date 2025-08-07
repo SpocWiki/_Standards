@@ -21,3 +21,21 @@ has_id_wikidata: Q121221
 > They are found wild throughout the drier parts of Australia, where they have survived harsh inland conditions for over five million years. Their success can be attributed to a nomadic lifestyle and their ability to breed while on the move.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Budgerigar) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Budgerigar](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.md) 
+
+### #is_/same_as :: [Budgerigar.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.public.md) 
+
+### #is_/same_as :: [Budgerigar.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.internal.md) 
+
+### #is_/same_as :: [Budgerigar.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.protect.md) 
+
+### #is_/same_as :: [Budgerigar.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.private.md) 
+
+### #is_/same_as :: [Budgerigar.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.personal.md) 
+
+### #is_/same_as :: [Budgerigar.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes/Psittaculidae/Loriinae/Budgerigar.secret.md)
+

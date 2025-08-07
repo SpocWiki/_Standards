@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - material_extent
 - material-extent

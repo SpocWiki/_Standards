@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bio-chem-entity
 - bio_chem_entity

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - paint-action
 - paint_action

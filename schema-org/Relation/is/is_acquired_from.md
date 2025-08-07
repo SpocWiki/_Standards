@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - acquired-from
 - acquired_from

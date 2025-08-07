@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree:
 - '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
 - '[[_Standards/WikiData/WD~Master_of_Arts,3297864]]'

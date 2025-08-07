@@ -1,4 +1,4 @@
-﻿---
+---
 title: Neelidae
 ---
 
@@ -60,7 +60,7 @@ View              lateral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Neelipleona](Neelipleona.md)) 
+### #is_/same_as :: [Neelipleona](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.md) 
 
 ### #is_/same_as :: [Neelipleona.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Neelipleona.public.md) 
 

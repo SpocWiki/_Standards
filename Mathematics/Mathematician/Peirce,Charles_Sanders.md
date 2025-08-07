@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles Sanders Peirce"
 - Peirce,Charles_Sanders

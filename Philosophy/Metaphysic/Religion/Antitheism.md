@@ -12,3 +12,20 @@ has_id_wikidata: Q5522978
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antitheism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antitheism](/_Standards/Philosophy/Metaphysic/Religion/Antitheism.md) 
+
+### #is_/same_as :: [Antitheism.public](/_public/Philosophy/Metaphysic/Religion/Antitheism.public.md) 
+
+### #is_/same_as :: [Antitheism.internal](/_internal/Philosophy/Metaphysic/Religion/Antitheism.internal.md) 
+
+### #is_/same_as :: [Antitheism.protect](/_protect/Philosophy/Metaphysic/Religion/Antitheism.protect.md) 
+
+### #is_/same_as :: [Antitheism.private](/_private/Philosophy/Metaphysic/Religion/Antitheism.private.md) 
+
+### #is_/same_as :: [Antitheism.personal](/_personal/Philosophy/Metaphysic/Religion/Antitheism.personal.md) 
+
+### #is_/same_as :: [Antitheism.secret](/_secret/Philosophy/Metaphysic/Religion/Antitheism.secret.md)
+

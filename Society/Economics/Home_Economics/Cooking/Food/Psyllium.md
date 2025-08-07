@@ -28,3 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Psyllium) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Psyllium](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Psyllium.md) 
+
+### #is_/same_as :: [Psyllium.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Psyllium.public.md) 
+
+### #is_/same_as :: [Psyllium.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Psyllium.internal.md) 
+
+### #is_/same_as :: [Psyllium.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Psyllium.protect.md) 
+
+### #is_/same_as :: [Psyllium.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Psyllium.private.md) 
+
+### #is_/same_as :: [Psyllium.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Psyllium.personal.md) 
+
+### #is_/same_as :: [Psyllium.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Psyllium.secret.md)
+

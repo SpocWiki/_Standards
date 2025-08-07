@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ronald Knox"
 ---
@@ -37,4 +37,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Knox)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Knox,Ronald](/_Standards/Society/Communication/Media/Book/Author/Knox,Ronald.md) 
+
+### #is_/same_as :: [Knox,Ronald.public](/_public/Society/Communication/Media/Book/Author/Knox,Ronald.public.md) 
+
+### #is_/same_as :: [Knox,Ronald.internal](/_internal/Society/Communication/Media/Book/Author/Knox,Ronald.internal.md) 
+
+### #is_/same_as :: [Knox,Ronald.protect](/_protect/Society/Communication/Media/Book/Author/Knox,Ronald.protect.md) 
+
+### #is_/same_as :: [Knox,Ronald.private](/_private/Society/Communication/Media/Book/Author/Knox,Ronald.private.md) 
+
+### #is_/same_as :: [Knox,Ronald.personal](/_personal/Society/Communication/Media/Book/Author/Knox,Ronald.personal.md) 
+
+### #is_/same_as :: [Knox,Ronald.secret](/_secret/Society/Communication/Media/Book/Author/Knox,Ronald.secret.md)
 

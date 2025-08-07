@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sanma
 confidential: public

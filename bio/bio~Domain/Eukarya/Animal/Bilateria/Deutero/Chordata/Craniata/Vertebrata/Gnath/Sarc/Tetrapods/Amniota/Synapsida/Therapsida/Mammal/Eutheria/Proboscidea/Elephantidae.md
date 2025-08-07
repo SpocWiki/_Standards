@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Elephantidae
 Commons_gallery: Elephantidae
 described_by_source:
@@ -99,7 +99,7 @@ Creator           Carl Brodtmann
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Elephantidae](Elephantidae.md)) 
+### #is_/same_as :: [Elephantidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae.md) 
 
 ### #is_/same_as :: [Elephantidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae.public.md) 
 

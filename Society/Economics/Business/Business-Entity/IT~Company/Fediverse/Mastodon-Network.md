@@ -83,3 +83,21 @@
 > Siehe auch:
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Mastodon)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mastodon-Network](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.md) 
+
+### #is_/same_as :: [Mastodon-Network.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.public.md) 
+
+### #is_/same_as :: [Mastodon-Network.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.internal.md) 
+
+### #is_/same_as :: [Mastodon-Network.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.protect.md) 
+
+### #is_/same_as :: [Mastodon-Network.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.private.md) 
+
+### #is_/same_as :: [Mastodon-Network.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.personal.md) 
+
+### #is_/same_as :: [Mastodon-Network.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Fediverse/Mastodon-Network.secret.md)
+

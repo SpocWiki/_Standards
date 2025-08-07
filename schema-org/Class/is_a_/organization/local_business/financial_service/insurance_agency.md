@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - insurance-agency
 - insurance_agency

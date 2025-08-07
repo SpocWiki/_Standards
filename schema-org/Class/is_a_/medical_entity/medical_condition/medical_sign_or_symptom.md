@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-sign-or-symptom
 - medical_sign_or_symptom

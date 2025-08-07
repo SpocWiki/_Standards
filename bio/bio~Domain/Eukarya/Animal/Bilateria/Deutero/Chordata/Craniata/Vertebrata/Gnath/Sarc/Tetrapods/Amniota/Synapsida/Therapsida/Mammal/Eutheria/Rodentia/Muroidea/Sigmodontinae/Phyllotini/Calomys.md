@@ -1,4 +1,4 @@
-﻿---
+---
 title: Calomys
 ---
 
@@ -90,7 +90,7 @@ Compare all phyllotine genera together by selecting the view below.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Calomys](Calomys.md)) 
+### #is_/same_as :: [Calomys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Calomys.md) 
 
 ### #is_/same_as :: [Calomys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Calomys.public.md) 
 

@@ -47,4 +47,19 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Addiction,8094302]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Addiction) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Addiction](/_Standards/bio/Medicine/Health/Addiction.md) 
+
+### #is_/same_as :: [Addiction.public](/_public/bio/Medicine/Health/Addiction.public.md) 
+
+### #is_/same_as :: [Addiction.internal](/_internal/bio/Medicine/Health/Addiction.internal.md) 
+
+### #is_/same_as :: [Addiction.protect](/_protect/bio/Medicine/Health/Addiction.protect.md) 
+
+### #is_/same_as :: [Addiction.private](/_private/bio/Medicine/Health/Addiction.private.md) 
+
+### #is_/same_as :: [Addiction.personal](/_personal/bio/Medicine/Health/Addiction.personal.md) 
+
+### #is_/same_as :: [Addiction.secret](/_secret/bio/Medicine/Health/Addiction.secret.md)
 

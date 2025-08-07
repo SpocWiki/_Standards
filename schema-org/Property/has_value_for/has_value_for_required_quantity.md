@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - required_quantity
 - required-quantity

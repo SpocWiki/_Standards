@@ -1,4 +1,4 @@
-﻿---
+---
 title: Buthoidea
 ---
 
@@ -47,7 +47,7 @@ Copyright ::   © 1988 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Buthoidea](Buthoidea.md)) 
+### #is_/same_as :: [Buthoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea.md) 
 
 ### #is_/same_as :: [Buthoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea.public.md) 
 

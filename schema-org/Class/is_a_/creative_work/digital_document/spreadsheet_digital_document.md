@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - spreadsheet-digital-document
 - spreadsheet_digital_document

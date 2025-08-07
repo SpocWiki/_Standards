@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gelidiales
 ---
 
@@ -182,7 +182,7 @@ press).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gelidiales](Gelidiales.md)) 
+### #is_/same_as :: [Gelidiales](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.md) 
 
 ### #is_/same_as :: [Gelidiales.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Gelidiales.public.md) 
 

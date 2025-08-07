@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tongue_weight
 - tongue-weight

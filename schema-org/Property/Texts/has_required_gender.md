@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - required-gender
 - required_gender

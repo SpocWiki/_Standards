@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-attendance-mode
 - event_attendance_mode

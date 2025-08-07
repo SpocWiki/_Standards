@@ -1,4 +1,4 @@
-﻿---
+---
 title: Grimpoteuthis
 ---
 
@@ -254,7 +254,7 @@ African Jour. Mar. Sci.., 20: 393-420.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Grimpoteuthis](Grimpoteuthis.md)) 
+### #is_/same_as :: [Grimpoteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.md) 
 
 ### #is_/same_as :: [Grimpoteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.public.md) 
 

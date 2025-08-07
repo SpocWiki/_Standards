@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Detarieae sensu lato"
 ---
 
@@ -127,17 +127,17 @@ Copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/La
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Detarieae](Detarieae.md)) 
+### #is_/same_as :: [Detarieae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.md) 
 
-### #is_/same_as :: [Detarieae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.public.md) 
+### #is_/same_as :: [Detarieae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.public.md) 
 
-### #is_/same_as :: [Detarieae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.internal.md) 
+### #is_/same_as :: [Detarieae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.internal.md) 
 
-### #is_/same_as :: [Detarieae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.protect.md) 
+### #is_/same_as :: [Detarieae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.protect.md) 
 
-### #is_/same_as :: [Detarieae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.private.md) 
+### #is_/same_as :: [Detarieae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.private.md) 
 
-### #is_/same_as :: [Detarieae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.personal.md) 
+### #is_/same_as :: [Detarieae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.personal.md) 
 
-### #is_/same_as :: [Detarieae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.secret.md)
+### #is_/same_as :: [Detarieae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.secret.md)
 

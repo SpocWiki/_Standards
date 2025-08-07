@@ -1,4 +1,4 @@
-﻿---
+---
 title: Iuridae
 ---
 
@@ -50,7 +50,7 @@ Copyright ::   © 1988 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Iuridae](Iuridae.md)) 
+### #is_/same_as :: [Iuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Iuridae.md) 
 
 ### #is_/same_as :: [Iuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Iuridae.public.md) 
 

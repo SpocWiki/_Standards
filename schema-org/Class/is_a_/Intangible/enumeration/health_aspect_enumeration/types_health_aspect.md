@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - types-health-aspect
 - types_health_aspect

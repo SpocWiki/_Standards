@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepiidae
 ---
 
@@ -217,7 +217,7 @@ Copyright ::         © 1996 M. Vecchione
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepiidae](Sepiidae.md)) 
+### #is_/same_as :: [Sepiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae.md) 
 
 ### #is_/same_as :: [Sepiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae.public.md) 
 

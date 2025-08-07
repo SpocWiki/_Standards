@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - data-download
 - data_download

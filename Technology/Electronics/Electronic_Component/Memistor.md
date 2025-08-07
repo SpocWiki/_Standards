@@ -16,3 +16,20 @@ The memistor was also used in [MADALINE](https://en.wikipedia.org/wiki/ADALINE#M
 As the sign function is non-differentiable, [backpropagation](https://en.wikipedia.org/wiki/Backpropagation "Backpropagation") cannot be used to train MADALINE networks. 
 Hence, three different training algorithms have been suggested, called Rule I, Rule II and Rule III. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Memistor](/_Standards/Technology/Electronics/Electronic_Component/Memistor.md) 
+
+### #is_/same_as :: [Memistor.public](/_public/Technology/Electronics/Electronic_Component/Memistor.public.md) 
+
+### #is_/same_as :: [Memistor.internal](/_internal/Technology/Electronics/Electronic_Component/Memistor.internal.md) 
+
+### #is_/same_as :: [Memistor.protect](/_protect/Technology/Electronics/Electronic_Component/Memistor.protect.md) 
+
+### #is_/same_as :: [Memistor.private](/_private/Technology/Electronics/Electronic_Component/Memistor.private.md) 
+
+### #is_/same_as :: [Memistor.personal](/_personal/Technology/Electronics/Electronic_Component/Memistor.personal.md) 
+
+### #is_/same_as :: [Memistor.secret](/_secret/Technology/Electronics/Electronic_Component/Memistor.secret.md)
+

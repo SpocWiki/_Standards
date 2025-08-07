@@ -28,3 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Birth%20control) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Birth_Control](/_Standards/bio/Reproduction/Birth_Control.md) 
+
+### #is_/same_as :: [Birth_Control.public](/_public/bio/Reproduction/Birth_Control.public.md) 
+
+### #is_/same_as :: [Birth_Control.internal](/_internal/bio/Reproduction/Birth_Control.internal.md) 
+
+### #is_/same_as :: [Birth_Control.protect](/_protect/bio/Reproduction/Birth_Control.protect.md) 
+
+### #is_/same_as :: [Birth_Control.private](/_private/bio/Reproduction/Birth_Control.private.md) 
+
+### #is_/same_as :: [Birth_Control.personal](/_personal/bio/Reproduction/Birth_Control.personal.md) 
+
+### #is_/same_as :: [Birth_Control.secret](/_secret/bio/Reproduction/Birth_Control.secret.md)
+

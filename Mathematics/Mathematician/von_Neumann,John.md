@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John von Neumann"
 - "Neumann János Lajos"

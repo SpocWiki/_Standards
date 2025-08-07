@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Korean
 - Lang-ko

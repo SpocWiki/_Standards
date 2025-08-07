@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stauroteuthis gilchristi"
 ---
 
@@ -89,7 +89,7 @@ Size              600 mm total length before fixation, Scale bar = 100 mm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[gilchristi](gilchristi.md)) 
+### #is_/same_as :: [gilchristi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Stauroteuthidae/gilchristi.md) 
 
 ### #is_/same_as :: [gilchristi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Stauroteuthidae/gilchristi.public.md) 
 

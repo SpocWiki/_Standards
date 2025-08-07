@@ -1,4 +1,4 @@
-﻿---
+---
 title: Neotragus
 ---
 
@@ -72,7 +72,7 @@ Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Neotragus](Neotragus.md)) 
+### #is_/same_as :: [Neotragus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Neotragus.md) 
 
 ### #is_/same_as :: [Neotragus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Neotragus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dermoptera
 ---
 
@@ -105,7 +105,7 @@ Copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dermoptera](Dermoptera.md)) 
+### #is_/same_as :: [Dermoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.md) 
 
 ### #is_/same_as :: [Dermoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Dermoptera.public.md) 
 

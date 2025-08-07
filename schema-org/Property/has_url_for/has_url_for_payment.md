@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-url
 - payment_url

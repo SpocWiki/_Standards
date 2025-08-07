@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - library-system
 - library_system

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giovanni Pierluigi da Palestrina"
 has_id_wikidata: Q179277

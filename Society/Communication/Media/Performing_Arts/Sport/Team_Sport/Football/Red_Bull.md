@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Red Bull"
 - "Red Bull GmbH"

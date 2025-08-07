@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Slavic languages"
 category_populated_by: '[[_Standards/WikiData/WD~Template_Slavic_languages,6231718]]'

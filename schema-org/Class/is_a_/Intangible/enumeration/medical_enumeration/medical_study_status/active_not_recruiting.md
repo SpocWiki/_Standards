@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - active-not-recruiting
 - active_not_recruiting

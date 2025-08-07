@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - maximum-dose-schedule
 - maximum_dose_schedule

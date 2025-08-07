@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.15
 Commons_category: Communism
 described_by_source:

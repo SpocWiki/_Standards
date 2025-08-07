@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Magnapinna pacifica"
 ---
 
@@ -268,7 +268,7 @@ African Journal of Marine Science, 20: 429-437.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[pacifica](pacifica.md)) 
+### #is_/same_as :: [pacifica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.md) 
 
 ### #is_/same_as :: [pacifica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/pacifica.public.md) 
 

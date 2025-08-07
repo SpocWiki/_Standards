@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 
 confidential: public
@@ -20,11 +20,18 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Class/_StarClass-Template|_StarClass-Template]] 
-- [[../../../_public/astro/Class/_StarClass-Template.public|_StarClass-Template.public]] 
-- [[../../../_internal/astro/Class/_StarClass-Template.internal|_StarClass-Template.internal]] 
-- [[../../../_protect/astro/Class/_StarClass-Template.protect|_StarClass-Template.protect]] 
-- [[../../../_private/astro/Class/_StarClass-Template.private|_StarClass-Template.private]] 
-- [[../../../_personal/astro/Class/_StarClass-Template.personal|_StarClass-Template.personal]] 
-- [[../../../_secret/astro/Class/_StarClass-Template.secret|_StarClass-Template.secret]]
+
+### #is_/same_as :: [_StarClass~Template](/_Standards/Astronomy/Star~Class/_StarClass~Template.md) 
+
+### #is_/same_as :: [_StarClass~Template.public](/_public/Astronomy/Star~Class/_StarClass~Template.public.md) 
+
+### #is_/same_as :: [_StarClass~Template.internal](/_internal/Astronomy/Star~Class/_StarClass~Template.internal.md) 
+
+### #is_/same_as :: [_StarClass~Template.protect](/_protect/Astronomy/Star~Class/_StarClass~Template.protect.md) 
+
+### #is_/same_as :: [_StarClass~Template.private](/_private/Astronomy/Star~Class/_StarClass~Template.private.md) 
+
+### #is_/same_as :: [_StarClass~Template.personal](/_personal/Astronomy/Star~Class/_StarClass~Template.personal.md) 
+
+### #is_/same_as :: [_StarClass~Template.secret](/_secret/Astronomy/Star~Class/_StarClass~Template.secret.md)
 

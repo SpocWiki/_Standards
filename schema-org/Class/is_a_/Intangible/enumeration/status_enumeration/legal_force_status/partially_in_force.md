@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - partially-in-force
 - partially_in_force

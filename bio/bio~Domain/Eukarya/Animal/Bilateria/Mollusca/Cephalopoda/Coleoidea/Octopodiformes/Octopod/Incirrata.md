@@ -1,4 +1,4 @@
-﻿---
+---
 title: Incirrata
 ---
 
@@ -223,7 +223,7 @@ African Jour. Mar. Sci. .
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Incirrata](Incirrata.md)) 
+### #is_/same_as :: [Incirrata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata.md) 
 
 ### #is_/same_as :: [Incirrata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata.public.md) 
 

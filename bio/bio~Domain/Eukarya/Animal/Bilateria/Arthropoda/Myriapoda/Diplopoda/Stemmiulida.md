@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stemmiulida
 ---
 
@@ -49,7 +49,7 @@ title: Stemmiulida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Stemmiulida](Stemmiulida.md)) 
+### #is_/same_as :: [Stemmiulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Stemmiulida.md) 
 
 ### #is_/same_as :: [Stemmiulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Stemmiulida.public.md) 
 

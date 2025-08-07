@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - menu-section
 - menu_section

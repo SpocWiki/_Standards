@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - The_Boy_Who_Cried_Wolf
 - "The Boy Who Cried Wolf"

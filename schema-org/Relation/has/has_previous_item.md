@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - previous-item
 - previous_item

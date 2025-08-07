@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Corona_Borealis|Zodiac~Corona_Borealis]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Corona_Borealis.public|Zodiac~Corona_Borealis.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Corona_Borealis.internal|Zodiac~Corona_Borealis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Corona_Borealis.protect|Zodiac~Corona_Borealis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Corona_Borealis.private|Zodiac~Corona_Borealis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Corona_Borealis.personal|Zodiac~Corona_Borealis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Corona_Borealis.secret|Zodiac~Corona_Borealis.secret]] 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis](/_Standards/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.md) 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis.public](/_public/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.public.md) 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.internal.md) 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.protect.md) 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis.private](/_private/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.private.md) 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.personal.md) 
+
+### #is_/same_as :: [Zodiac~Corona_Borealis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Corona_Borealis.secret.md)
+

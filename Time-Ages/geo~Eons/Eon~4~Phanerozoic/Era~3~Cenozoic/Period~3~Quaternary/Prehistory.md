@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Prehistory
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 EAGLE_id: dates/lod/67

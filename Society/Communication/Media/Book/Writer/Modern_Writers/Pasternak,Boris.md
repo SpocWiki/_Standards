@@ -34,3 +34,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boris%20Pasternak) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pasternak,Boris](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.md) 
+
+### #is_/same_as :: [Pasternak,Boris.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.public.md) 
+
+### #is_/same_as :: [Pasternak,Boris.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.internal.md) 
+
+### #is_/same_as :: [Pasternak,Boris.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.protect.md) 
+
+### #is_/same_as :: [Pasternak,Boris.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.private.md) 
+
+### #is_/same_as :: [Pasternak,Boris.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.personal.md) 
+
+### #is_/same_as :: [Pasternak,Boris.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Pasternak,Boris.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pickfordiateuthis
 ---
 
@@ -102,7 +102,7 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pickfordiateuthis](Pickfordiateuthis.md)) 
+### #is_/same_as :: [Pickfordiateuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.md) 
 
 ### #is_/same_as :: [Pickfordiateuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.public.md) 
 

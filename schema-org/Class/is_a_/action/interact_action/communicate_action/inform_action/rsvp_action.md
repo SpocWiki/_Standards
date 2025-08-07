@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rsvp-action
 - rsvp_action

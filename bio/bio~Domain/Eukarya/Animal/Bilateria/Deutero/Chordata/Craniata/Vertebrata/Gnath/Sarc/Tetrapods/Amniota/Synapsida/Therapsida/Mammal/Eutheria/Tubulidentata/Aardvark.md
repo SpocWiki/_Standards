@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Orycteropus afer"
 Commons_gallery: "Orycteropus afer"
 described_by_source:
@@ -54,6 +54,19 @@ taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Aardvark) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Aardvark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.md) 
 
+### #is_/same_as :: [Aardvark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.public.md) 
+
+### #is_/same_as :: [Aardvark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.internal.md) 
+
+### #is_/same_as :: [Aardvark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.protect.md) 
+
+### #is_/same_as :: [Aardvark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.private.md) 
+
+### #is_/same_as :: [Aardvark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.personal.md) 
+
+### #is_/same_as :: [Aardvark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Tubulidentata/Aardvark.secret.md)
 

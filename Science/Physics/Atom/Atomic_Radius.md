@@ -44,3 +44,20 @@ ISQ_dimension: |-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atomic%20radius) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atomic_Radius](/_Standards/Science/Physics/Atom/Atomic_Radius.md) 
+
+### #is_/same_as :: [Atomic_Radius.public](/_public/Science/Physics/Atom/Atomic_Radius.public.md) 
+
+### #is_/same_as :: [Atomic_Radius.internal](/_internal/Science/Physics/Atom/Atomic_Radius.internal.md) 
+
+### #is_/same_as :: [Atomic_Radius.protect](/_protect/Science/Physics/Atom/Atomic_Radius.protect.md) 
+
+### #is_/same_as :: [Atomic_Radius.private](/_private/Science/Physics/Atom/Atomic_Radius.private.md) 
+
+### #is_/same_as :: [Atomic_Radius.personal](/_personal/Science/Physics/Atom/Atomic_Radius.personal.md) 
+
+### #is_/same_as :: [Atomic_Radius.secret](/_secret/Science/Physics/Atom/Atomic_Radius.secret.md)
+

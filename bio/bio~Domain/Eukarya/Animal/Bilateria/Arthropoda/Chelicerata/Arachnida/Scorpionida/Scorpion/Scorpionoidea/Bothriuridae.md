@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bothriuridae
 ---
 
@@ -49,7 +49,7 @@ title: Bothriuridae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bothriuridae](Bothriuridae.md)) 
+### #is_/same_as :: [Bothriuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Bothriuridae.md) 
 
 ### #is_/same_as :: [Bothriuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Bothriuridae.public.md) 
 

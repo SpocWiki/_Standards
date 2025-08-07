@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rambam
 - "Moses ben Maimon"

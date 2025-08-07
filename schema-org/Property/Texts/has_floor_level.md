@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - floor-level
 - floor_level

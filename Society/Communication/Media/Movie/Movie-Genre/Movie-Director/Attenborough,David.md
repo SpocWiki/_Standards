@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "David Frederick Attenborough"
 ---
@@ -33,4 +33,21 @@ aliases:
 > While Attenborough's earlier work focused primarily on the wonders of the natural world, his later work has been more vocal in support of environmental causes. He has advocated for restoring planetary biodiversity, limiting population growth, switching to renewable energy, mitigating climate change, reducing meat consumption, and setting aside more areas for natural preservation. On his broadcasting and passion for nature, NPR stated Attenborough "roamed the globe and shared his discoveries and enthusiasms with his patented semi-whisper way of narrating". He is widely considered a national treasure in the UK, although he himself does not embrace the term.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Attenborough)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Attenborough,David](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.md) 
+
+### #is_/same_as :: [Attenborough,David.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.public.md) 
+
+### #is_/same_as :: [Attenborough,David.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.internal.md) 
+
+### #is_/same_as :: [Attenborough,David.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.protect.md) 
+
+### #is_/same_as :: [Attenborough,David.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.private.md) 
+
+### #is_/same_as :: [Attenborough,David.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.personal.md) 
+
+### #is_/same_as :: [Attenborough,David.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,David.secret.md)
 

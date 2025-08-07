@@ -1,4 +1,4 @@
-﻿---
+---
 title: Apusomonas
 ---
 
@@ -106,7 +106,7 @@ Soil. Archiv für Protistenkunde 116:254-269.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Apusomonas](Apusomonas.md)) 
+### #is_/same_as :: [Apusomonas](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.md) 
 
 ### #is_/same_as :: [Apusomonas.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ingredients-health-aspect
 - ingredients_health_aspect

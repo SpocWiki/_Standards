@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Austrobaileyales
 title: Austrobaileyales
@@ -76,17 +76,17 @@ Copyright ::            © James Henderson, Gulf South Research Corporation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Austrobaileyales](Austrobaileyales.md)) 
+### #is_/same_as :: [Austrobaileyales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.md) 
 
-### #is_/same_as :: [Austrobaileyales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.public.md) 
+### #is_/same_as :: [Austrobaileyales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.public.md) 
 
-### #is_/same_as :: [Austrobaileyales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.internal.md) 
+### #is_/same_as :: [Austrobaileyales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.internal.md) 
 
-### #is_/same_as :: [Austrobaileyales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.protect.md) 
+### #is_/same_as :: [Austrobaileyales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.protect.md) 
 
-### #is_/same_as :: [Austrobaileyales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.private.md) 
+### #is_/same_as :: [Austrobaileyales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.private.md) 
 
-### #is_/same_as :: [Austrobaileyales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.personal.md) 
+### #is_/same_as :: [Austrobaileyales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.personal.md) 
 
-### #is_/same_as :: [Austrobaileyales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.secret.md)
+### #is_/same_as :: [Austrobaileyales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Austrobaileyales.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Cetus|Zodiac~Cetus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Cetus.public|Zodiac~Cetus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Cetus.internal|Zodiac~Cetus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Cetus.protect|Zodiac~Cetus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Cetus.private|Zodiac~Cetus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Cetus.personal|Zodiac~Cetus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Cetus.secret|Zodiac~Cetus.secret]] 
+
+### #is_/same_as :: [Zodiac~Cetus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cetus.md) 
+
+### #is_/same_as :: [Zodiac~Cetus.public](/_public/Astronomy/Star~Constellation/Zodiac~Cetus.public.md) 
+
+### #is_/same_as :: [Zodiac~Cetus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cetus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Cetus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cetus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Cetus.private](/_private/Astronomy/Star~Constellation/Zodiac~Cetus.private.md) 
+
+### #is_/same_as :: [Zodiac~Cetus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cetus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Cetus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cetus.secret.md)
+

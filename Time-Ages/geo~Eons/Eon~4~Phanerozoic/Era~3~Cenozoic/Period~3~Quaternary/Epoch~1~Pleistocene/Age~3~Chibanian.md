@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chibanian
 has_id_wikidata: Q492596

@@ -106,19 +106,20 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muscle)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :[Muscle](Muscle.md))) 
+### #is_/same_as :: [Muscle](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle.md) 
 
-### #is_/same_as :: [muscle.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.public.md) 
+### #is_/same_as :: [Muscle.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle.public.md) 
 
-### #is_/same_as :: [muscle.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.internal.md) 
+### #is_/same_as :: [Muscle.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle.internal.md) 
 
-### #is_/same_as :: [muscle.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.protect.md) 
+### #is_/same_as :: [Muscle.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle.protect.md) 
 
-### #is_/same_as :: [muscle.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.private.md) 
+### #is_/same_as :: [Muscle.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle.private.md) 
 
-### #is_/same_as :: [muscle.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.personal.md) 
+### #is_/same_as :: [Muscle.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle.personal.md) 
 
-### #is_/same_as :: [muscle.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/muscle.secret.md)
+### #is_/same_as :: [Muscle.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle.secret.md)
 

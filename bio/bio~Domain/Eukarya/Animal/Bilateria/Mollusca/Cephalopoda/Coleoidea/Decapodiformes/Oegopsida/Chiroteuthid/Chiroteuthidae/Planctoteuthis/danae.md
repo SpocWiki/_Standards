@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Planctoteuthis danae"
 ---
 
@@ -132,7 +132,7 @@ Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[danae](danae.md)) 
+### #is_/same_as :: [danae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/danae.md) 
 
 ### #is_/same_as :: [danae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/danae.public.md) 
 

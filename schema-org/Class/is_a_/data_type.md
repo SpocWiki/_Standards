@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - data-type
 - data_type

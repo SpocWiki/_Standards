@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tale of Genji"
 author: '[[_Standards/WikiData/WD~Murasaki_Shikibu,81731]]'

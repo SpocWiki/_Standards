@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-link
 - related_link

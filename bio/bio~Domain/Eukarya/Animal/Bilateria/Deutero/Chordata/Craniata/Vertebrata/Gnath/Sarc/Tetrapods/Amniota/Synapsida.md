@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synapsida
 ---
 
@@ -423,7 +423,7 @@ Zimmer C. Meet the relatives. Discover, 1991, 56-57.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Synapsida](Synapsida.md)) 
+### #is_/same_as :: [Synapsida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida.md) 
 
 ### #is_/same_as :: [Synapsida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida.public.md) 
 

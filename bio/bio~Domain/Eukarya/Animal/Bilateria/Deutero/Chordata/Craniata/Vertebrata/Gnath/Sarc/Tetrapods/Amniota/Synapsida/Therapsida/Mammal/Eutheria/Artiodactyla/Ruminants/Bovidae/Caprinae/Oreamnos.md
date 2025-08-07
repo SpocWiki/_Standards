@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Oreamnos americanus"
 ---
 
@@ -66,7 +66,7 @@ Containing group: [Caprinae](../Caprinae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oreamnos](Oreamnos.md)) 
+### #is_/same_as :: [Oreamnos](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Oreamnos.md) 
 
 ### #is_/same_as :: [Oreamnos.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Oreamnos.public.md) 
 

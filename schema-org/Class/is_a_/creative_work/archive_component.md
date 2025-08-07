@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - archive-component
 - archive_component

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub_set-of
 - sub_set_of

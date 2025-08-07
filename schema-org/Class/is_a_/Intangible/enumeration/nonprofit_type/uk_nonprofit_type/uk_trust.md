@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - uk-trust
 - uk_trust

@@ -63,17 +63,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Asteroids,6689285]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asteroid](Asteroid.md) 
+### #is_/same_as :: [Asteroid](/_Standards/Astronomy/Solar_System/Asteroid.md) 
 
-### #is_/same_as :: [Asteroid.public](/_public/Astronomy/Asteroid.public.md) 
+### #is_/same_as :: [Asteroid.public](/_public/Astronomy/Solar_System/Asteroid.public.md) 
 
-### #is_/same_as :: [Asteroid.internal](/_internal/Astronomy/Asteroid.internal.md) 
+### #is_/same_as :: [Asteroid.internal](/_internal/Astronomy/Solar_System/Asteroid.internal.md) 
 
-### #is_/same_as :: [Asteroid.protect](/_protect/Astronomy/Asteroid.protect.md) 
+### #is_/same_as :: [Asteroid.protect](/_protect/Astronomy/Solar_System/Asteroid.protect.md) 
 
-### #is_/same_as :: [Asteroid.private](/_private/Astronomy/Asteroid.private.md) 
+### #is_/same_as :: [Asteroid.private](/_private/Astronomy/Solar_System/Asteroid.private.md) 
 
-### #is_/same_as :: [Asteroid.personal](/_personal/Astronomy/Asteroid.personal.md) 
+### #is_/same_as :: [Asteroid.personal](/_personal/Astronomy/Solar_System/Asteroid.personal.md) 
 
-### #is_/same_as :: [Asteroid.secret](/_secret/Astronomy/Asteroid.secret.md)
+### #is_/same_as :: [Asteroid.secret](/_secret/Astronomy/Solar_System/Asteroid.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c27
 - nonprofit501c27

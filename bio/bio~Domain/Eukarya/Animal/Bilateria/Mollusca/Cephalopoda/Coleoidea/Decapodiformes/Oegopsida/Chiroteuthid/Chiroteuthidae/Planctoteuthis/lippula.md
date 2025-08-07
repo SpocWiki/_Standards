@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Planctoteuthis lippula"
 ---
 
@@ -199,7 +199,7 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[lippula](lippula.md)) 
+### #is_/same_as :: [lippula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.md) 
 
 ### #is_/same_as :: [lippula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/lippula.public.md) 
 

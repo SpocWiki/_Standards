@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - brand
 - has_brand

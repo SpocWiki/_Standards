@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 35.78
 CAS_Registry_Number: 66455-18-3
 Commons_category: Lipids

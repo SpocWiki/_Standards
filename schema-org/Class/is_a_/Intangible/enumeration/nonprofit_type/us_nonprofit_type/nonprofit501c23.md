@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c23
 - nonprofit501c23

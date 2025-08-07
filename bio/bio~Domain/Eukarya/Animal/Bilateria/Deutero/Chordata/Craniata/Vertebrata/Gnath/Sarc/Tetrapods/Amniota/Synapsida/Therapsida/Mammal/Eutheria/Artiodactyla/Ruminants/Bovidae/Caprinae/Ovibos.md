@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ovibos moschatus"
 ---
 
@@ -62,7 +62,7 @@ Containing group: [Caprinae](../Caprinae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ovibos](Ovibos.md)) 
+### #is_/same_as :: [Ovibos](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ovibos.md) 
 
 ### #is_/same_as :: [Ovibos.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ovibos.public.md) 
 

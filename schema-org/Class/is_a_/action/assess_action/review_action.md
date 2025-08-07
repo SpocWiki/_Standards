@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - review-action
 - review_action

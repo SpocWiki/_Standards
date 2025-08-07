@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: J781
 Commons_category: Cotton
 Commons_gallery: Cotton

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - imaging-test
 - imaging_test

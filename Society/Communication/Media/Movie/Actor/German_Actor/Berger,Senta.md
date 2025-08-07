@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Senta Berger"
 - "Senta Verhoeven"
@@ -18,4 +18,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Senta%20Berger)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berger,Senta](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.md) 
+
+### #is_/same_as :: [Berger,Senta.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.public.md) 
+
+### #is_/same_as :: [Berger,Senta.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.internal.md) 
+
+### #is_/same_as :: [Berger,Senta.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.protect.md) 
+
+### #is_/same_as :: [Berger,Senta.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.private.md) 
+
+### #is_/same_as :: [Berger,Senta.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.personal.md) 
+
+### #is_/same_as :: [Berger,Senta.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Berger,Senta.secret.md)
 

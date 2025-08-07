@@ -1,4 +1,4 @@
-﻿---
+---
 title: Promachoteuthis
 ---
 
@@ -171,7 +171,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Promachoteuthidae](Promachoteuthidae.md)) 
+### #is_/same_as :: [Promachoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae.md) 
 
 ### #is_/same_as :: [Promachoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae.public.md) 
 

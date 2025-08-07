@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-condition-stage
 - medical_condition_stage

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - assembly-version
 - assembly_version

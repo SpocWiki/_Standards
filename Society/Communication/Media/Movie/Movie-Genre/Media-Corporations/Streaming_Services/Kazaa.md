@@ -21,4 +21,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kazaa)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kazaa](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.md) 
+
+### #is_/same_as :: [Kazaa.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.public.md) 
+
+### #is_/same_as :: [Kazaa.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.internal.md) 
+
+### #is_/same_as :: [Kazaa.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.protect.md) 
+
+### #is_/same_as :: [Kazaa.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.private.md) 
+
+### #is_/same_as :: [Kazaa.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.personal.md) 
+
+### #is_/same_as :: [Kazaa.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Kazaa.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: B321
 Commons_category: "Differential equations"
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prescribing-info
 - prescribing_info

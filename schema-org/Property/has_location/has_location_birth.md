@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - birth-place
 - birth_place

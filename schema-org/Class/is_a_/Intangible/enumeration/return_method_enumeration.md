@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-method-enumeration
 - return_method_enumeration

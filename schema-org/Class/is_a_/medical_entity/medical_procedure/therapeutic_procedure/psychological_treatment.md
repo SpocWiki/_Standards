@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - psychological-treatment
 - psychological_treatment

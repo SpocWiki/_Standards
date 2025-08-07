@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-time-settings
 - delivery_time_settings

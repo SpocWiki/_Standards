@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dangerous-good-consideration
 - dangerous_good_consideration

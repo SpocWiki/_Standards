@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q673661
 ---
 
@@ -21,4 +21,19 @@ has_id_wikidata: Q673661
 > [Wikipedia](https://en.wikipedia.org/wiki/Abstraction) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abstraction](/_Standards/Mathematics/Abstraction.md) 
+
+### #is_/same_as :: [Abstraction.public](/_public/Mathematics/Abstraction.public.md) 
+
+### #is_/same_as :: [Abstraction.internal](/_internal/Mathematics/Abstraction.internal.md) 
+
+### #is_/same_as :: [Abstraction.protect](/_protect/Mathematics/Abstraction.protect.md) 
+
+### #is_/same_as :: [Abstraction.private](/_private/Mathematics/Abstraction.private.md) 
+
+### #is_/same_as :: [Abstraction.personal](/_personal/Mathematics/Abstraction.personal.md) 
+
+### #is_/same_as :: [Abstraction.secret](/_secret/Mathematics/Abstraction.secret.md)
 

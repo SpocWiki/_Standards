@@ -159,3 +159,20 @@ MeSH_tree_code: F03.625.164.113.500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Autism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Autism](/_Standards/bio/Psychology/Autism.md) 
+
+### #is_/same_as :: [Autism.public](/_public/bio/Psychology/Autism.public.md) 
+
+### #is_/same_as :: [Autism.internal](/_internal/bio/Psychology/Autism.internal.md) 
+
+### #is_/same_as :: [Autism.protect](/_protect/bio/Psychology/Autism.protect.md) 
+
+### #is_/same_as :: [Autism.private](/_private/bio/Psychology/Autism.private.md) 
+
+### #is_/same_as :: [Autism.personal](/_personal/bio/Psychology/Autism.personal.md) 
+
+### #is_/same_as :: [Autism.secret](/_secret/bio/Psychology/Autism.secret.md)
+

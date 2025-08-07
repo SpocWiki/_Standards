@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - local-business
 - local_business

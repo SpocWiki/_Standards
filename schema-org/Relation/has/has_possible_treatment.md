@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - possible-treatment
 - possible_treatment

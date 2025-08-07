@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - not-in-force
 - not_in_force

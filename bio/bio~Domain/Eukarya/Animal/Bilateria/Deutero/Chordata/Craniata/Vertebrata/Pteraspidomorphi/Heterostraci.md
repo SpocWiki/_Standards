@@ -1,4 +1,4 @@
-﻿---
+---
 title: Heterostraci
 ---
 
@@ -136,7 +136,7 @@ Copyright ::            © 1997 [Philippe Janvier](mailto:janvier@cimrs1.mnhn.fr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Heterostraci](Heterostraci.md)) 
+### #is_/same_as :: [Heterostraci](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.md) 
 
 ### #is_/same_as :: [Heterostraci.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.public.md) 
 

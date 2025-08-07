@@ -42,7 +42,7 @@ A library.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Library](Library.md)) 
+### #is_/same_as :: [library](/_Standards/schema-org/Class/is_a_/organization/local_business/library.md) 
 
 ### #is_/same_as :: [library.public](/_public/schema-org/Class/is_a_/organization/local_business/library.public.md) 
 

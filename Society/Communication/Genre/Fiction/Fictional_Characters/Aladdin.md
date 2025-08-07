@@ -50,3 +50,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aladdin%20in%20the%20M
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aladdin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aladdin](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.md) 
+
+### #is_/same_as :: [Aladdin.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.public.md) 
+
+### #is_/same_as :: [Aladdin.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.internal.md) 
+
+### #is_/same_as :: [Aladdin.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.protect.md) 
+
+### #is_/same_as :: [Aladdin.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.private.md) 
+
+### #is_/same_as :: [Aladdin.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.personal.md) 
+
+### #is_/same_as :: [Aladdin.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.secret.md)
+

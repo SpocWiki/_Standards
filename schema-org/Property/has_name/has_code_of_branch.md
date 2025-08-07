@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - branch-code
 - code_of_branch

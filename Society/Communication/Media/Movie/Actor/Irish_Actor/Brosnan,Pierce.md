@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pierce Brendan Brosnan"
 - "Pierce Brosnan"
@@ -41,4 +41,21 @@ aliases:
 > In 2020, he was listed at No. 15 on The Irish Times' list of the greatest Irish film actors.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierce%20Brosnan)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brosnan,Pierce](/_Standards/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.md) 
+
+### #is_/same_as :: [Brosnan,Pierce.public](/_public/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.public.md) 
+
+### #is_/same_as :: [Brosnan,Pierce.internal](/_internal/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.internal.md) 
+
+### #is_/same_as :: [Brosnan,Pierce.protect](/_protect/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.protect.md) 
+
+### #is_/same_as :: [Brosnan,Pierce.private](/_private/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.private.md) 
+
+### #is_/same_as :: [Brosnan,Pierce.personal](/_personal/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.personal.md) 
+
+### #is_/same_as :: [Brosnan,Pierce.secret](/_secret/Society/Communication/Media/Movie/Actor/Irish_Actor/Brosnan,Pierce.secret.md)
 

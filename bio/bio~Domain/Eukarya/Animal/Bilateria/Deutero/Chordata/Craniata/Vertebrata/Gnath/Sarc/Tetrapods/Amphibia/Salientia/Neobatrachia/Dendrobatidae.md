@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dendrobatidae
 ---
 
@@ -184,17 +184,17 @@ Ranoidea, close to arthroleptid and petropedetine ranoids.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dendrobatidae](Dendrobatidae.md)) 
+### #is_/same_as :: [Dendrobatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.md) 
 
-### #is_/same_as :: [Dendrobatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.public.md) 
+### #is_/same_as :: [Dendrobatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.public.md) 
 
-### #is_/same_as :: [Dendrobatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.internal.md) 
+### #is_/same_as :: [Dendrobatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.internal.md) 
 
-### #is_/same_as :: [Dendrobatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.protect.md) 
+### #is_/same_as :: [Dendrobatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.protect.md) 
 
-### #is_/same_as :: [Dendrobatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.private.md) 
+### #is_/same_as :: [Dendrobatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.private.md) 
 
-### #is_/same_as :: [Dendrobatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.personal.md) 
+### #is_/same_as :: [Dendrobatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.personal.md) 
 
-### #is_/same_as :: [Dendrobatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.secret.md)
+### #is_/same_as :: [Dendrobatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Dendrobatidae.secret.md)
 

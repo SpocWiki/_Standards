@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alumni-of
 - alumni_of

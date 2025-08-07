@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Yellow River"
 basin_country:

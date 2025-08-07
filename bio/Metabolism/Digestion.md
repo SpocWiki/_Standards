@@ -1,4 +1,4 @@
-﻿---
+---
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~food,2095]]'
 Commons_category: Digestion
 described_by_source:

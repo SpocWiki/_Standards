@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Dictynoidea
 - dictynoids
@@ -55,7 +55,7 @@ title: Dictynoidea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dictynoidea](Dictynoidea.md)) 
+### #is_/same_as :: [Dictynoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea.md) 
 
 ### #is_/same_as :: [Dictynoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea.public.md) 
 

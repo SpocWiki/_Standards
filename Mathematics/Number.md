@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Numbers
 Commons_gallery: Numbers
 described_by_source:

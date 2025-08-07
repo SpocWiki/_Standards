@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rupicapra
 ---
 
@@ -81,7 +81,7 @@ Phylogenetics and Evolution 25(3):524-534.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rupicapra](Rupicapra.md)) 
+### #is_/same_as :: [Rupicapra](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Rupicapra.md) 
 
 ### #is_/same_as :: [Rupicapra.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Rupicapra.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - study-design
 - study_design

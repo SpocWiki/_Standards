@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haliphron atlanticus"
 ---
 
@@ -203,7 +203,7 @@ of the Hawaiian mesopelagic-boundary region. Pacific Science, 49:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Alloposidae](Alloposidae.md)) 
+### #is_/same_as :: [Alloposidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.md) 
 
 ### #is_/same_as :: [Alloposidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Alloposidae.public.md) 
 

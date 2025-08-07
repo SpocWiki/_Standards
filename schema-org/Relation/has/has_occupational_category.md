@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - occupational-category
 - occupational_category

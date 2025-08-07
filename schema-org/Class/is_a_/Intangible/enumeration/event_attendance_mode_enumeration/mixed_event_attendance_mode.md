@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mixed-event-attendance-mode
 - mixed_event_attendance_mode

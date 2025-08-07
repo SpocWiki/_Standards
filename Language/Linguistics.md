@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes:
 - 1203
 - 3310

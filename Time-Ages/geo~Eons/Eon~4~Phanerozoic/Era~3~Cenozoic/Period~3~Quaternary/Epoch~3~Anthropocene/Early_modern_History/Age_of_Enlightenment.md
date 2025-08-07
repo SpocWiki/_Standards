@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Age of Enlightenment"
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -43,4 +43,21 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Age_of_Enlightenment,1
 > The central doctrines of the Enlightenment were individual liberty, representative government, the rule of law, and religious freedom, in contrast to an absolute monarchy or single party state and the religious persecution of faiths other than those formally established and often controlled outright by the State. By contrast, other intellectual currents included arguments in favour of anti-Christianity, Deism, and even Atheism, accompanied by demands for secular states, bans on religious education, suppression of monasteries, the suppression of the Jesuits, and the expulsion of religious orders. Contemporary criticism, particularly of these anti-religious concepts, has since been dubbed the Counter-Enlightenment by Sir Isaiah Berlin.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Age%20of%20Enlightenment) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Age_of_Enlightenment](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.md) 
+
+### #is_/same_as :: [Age_of_Enlightenment.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.public.md) 
+
+### #is_/same_as :: [Age_of_Enlightenment.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.internal.md) 
+
+### #is_/same_as :: [Age_of_Enlightenment.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.protect.md) 
+
+### #is_/same_as :: [Age_of_Enlightenment.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.private.md) 
+
+### #is_/same_as :: [Age_of_Enlightenment.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.personal.md) 
+
+### #is_/same_as :: [Age_of_Enlightenment.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Age_of_Enlightenment.secret.md)
 

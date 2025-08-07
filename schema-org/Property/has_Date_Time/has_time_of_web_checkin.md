@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - web-checkin-time
 - web_checkin

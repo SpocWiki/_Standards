@@ -284,3 +284,20 @@ X_Twitter_username:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ABBA) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ABBA](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/ABBA.md) 
+
+### #is_/same_as :: [ABBA.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/ABBA.public.md) 
+
+### #is_/same_as :: [ABBA.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/ABBA.internal.md) 
+
+### #is_/same_as :: [ABBA.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/ABBA.protect.md) 
+
+### #is_/same_as :: [ABBA.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/ABBA.private.md) 
+
+### #is_/same_as :: [ABBA.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/ABBA.personal.md) 
+
+### #is_/same_as :: [ABBA.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/ABBA.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~respiratory_system,7891]]'
 Commons_category: Influenza
 described_by_source:

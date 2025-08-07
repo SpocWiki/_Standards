@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Wilhelm Busch"
 - "Heinrich Christian Wilhelm Busch"
@@ -37,4 +37,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20Busch)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Busch,Wilhelm](/_Standards/Society/Communication/Media/Book/Author/Busch,Wilhelm.md) 
+
+### #is_/same_as :: [Busch,Wilhelm.public](/_public/Society/Communication/Media/Book/Author/Busch,Wilhelm.public.md) 
+
+### #is_/same_as :: [Busch,Wilhelm.internal](/_internal/Society/Communication/Media/Book/Author/Busch,Wilhelm.internal.md) 
+
+### #is_/same_as :: [Busch,Wilhelm.protect](/_protect/Society/Communication/Media/Book/Author/Busch,Wilhelm.protect.md) 
+
+### #is_/same_as :: [Busch,Wilhelm.private](/_private/Society/Communication/Media/Book/Author/Busch,Wilhelm.private.md) 
+
+### #is_/same_as :: [Busch,Wilhelm.personal](/_personal/Society/Communication/Media/Book/Author/Busch,Wilhelm.personal.md) 
+
+### #is_/same_as :: [Busch,Wilhelm.secret](/_secret/Society/Communication/Media/Book/Author/Busch,Wilhelm.secret.md)
 

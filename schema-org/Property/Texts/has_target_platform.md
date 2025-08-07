@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - target-platform
 - target_platform

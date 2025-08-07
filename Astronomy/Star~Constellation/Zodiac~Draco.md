@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Draco|Zodiac~Draco]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Draco.public|Zodiac~Draco.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Draco.internal|Zodiac~Draco.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Draco.protect|Zodiac~Draco.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Draco.private|Zodiac~Draco.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Draco.personal|Zodiac~Draco.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Draco.secret|Zodiac~Draco.secret]] 
+
+### #is_/same_as :: [Zodiac~Draco](/_Standards/Astronomy/Star~Constellation/Zodiac~Draco.md) 
+
+### #is_/same_as :: [Zodiac~Draco.public](/_public/Astronomy/Star~Constellation/Zodiac~Draco.public.md) 
+
+### #is_/same_as :: [Zodiac~Draco.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Draco.internal.md) 
+
+### #is_/same_as :: [Zodiac~Draco.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Draco.protect.md) 
+
+### #is_/same_as :: [Zodiac~Draco.private](/_private/Astronomy/Star~Constellation/Zodiac~Draco.private.md) 
+
+### #is_/same_as :: [Zodiac~Draco.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Draco.personal.md) 
+
+### #is_/same_as :: [Zodiac~Draco.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Draco.secret.md)
+

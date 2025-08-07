@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - negative-notes
 - negative_notes

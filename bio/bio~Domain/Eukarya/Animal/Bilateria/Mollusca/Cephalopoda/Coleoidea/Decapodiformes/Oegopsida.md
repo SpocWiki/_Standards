@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oegopsida
 ---
 
@@ -136,7 +136,7 @@ Decapodiforms \...
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oegopsida](Oegopsida.md)) 
+### #is_/same_as :: [Oegopsida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.md) 
 
 ### #is_/same_as :: [Oegopsida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Heleophryne
 ---
 
@@ -112,17 +112,17 @@ amplexus is a synapomorphy is unclear.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Heleophryne](Heleophryne.md)) 
+### #is_/same_as :: [Heleophryne](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.md) 
 
-### #is_/same_as :: [Heleophryne.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Heleophryne.public.md) 
+### #is_/same_as :: [Heleophryne.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.public.md) 
 
-### #is_/same_as :: [Heleophryne.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Heleophryne.internal.md) 
+### #is_/same_as :: [Heleophryne.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.internal.md) 
 
-### #is_/same_as :: [Heleophryne.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Heleophryne.protect.md) 
+### #is_/same_as :: [Heleophryne.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.protect.md) 
 
-### #is_/same_as :: [Heleophryne.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Heleophryne.private.md) 
+### #is_/same_as :: [Heleophryne.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.private.md) 
 
-### #is_/same_as :: [Heleophryne.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Heleophryne.personal.md) 
+### #is_/same_as :: [Heleophryne.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.personal.md) 
 
-### #is_/same_as :: [Heleophryne.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Heleophryne.secret.md)
+### #is_/same_as :: [Heleophryne.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Heleophryne.secret.md)
 

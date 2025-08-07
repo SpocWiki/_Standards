@@ -1,4 +1,4 @@
-﻿---
+---
 title: Poduromorpha
 ---
 
@@ -62,7 +62,7 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Poduromorpha](Poduromorpha.md)) 
+### #is_/same_as :: [Poduromorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.md) 
 
 ### #is_/same_as :: [Poduromorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.public.md) 
 

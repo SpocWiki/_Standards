@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cost-category
 - cost_category

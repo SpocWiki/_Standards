@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mary Wollstonecraft"
 ---
@@ -47,4 +47,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mary%20Wollstonecraft)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wollstonecraft,Mary](/_Standards/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.md) 
+
+### #is_/same_as :: [Wollstonecraft,Mary.public](/_public/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.public.md) 
+
+### #is_/same_as :: [Wollstonecraft,Mary.internal](/_internal/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.internal.md) 
+
+### #is_/same_as :: [Wollstonecraft,Mary.protect](/_protect/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.protect.md) 
+
+### #is_/same_as :: [Wollstonecraft,Mary.private](/_private/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.private.md) 
+
+### #is_/same_as :: [Wollstonecraft,Mary.personal](/_personal/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.personal.md) 
+
+### #is_/same_as :: [Wollstonecraft,Mary.secret](/_secret/Society/Communication/Media/Book/Author/Wollstonecraft,Mary.secret.md)
 

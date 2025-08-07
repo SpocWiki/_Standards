@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unlabelled-fallback
 - unlabelled_fallback

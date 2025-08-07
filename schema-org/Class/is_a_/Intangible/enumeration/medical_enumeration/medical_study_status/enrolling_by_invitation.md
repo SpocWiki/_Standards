@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - enrolling-by-invitation
 - enrolling_by_invitation

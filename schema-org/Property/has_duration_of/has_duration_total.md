@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - total-time
 - total_time

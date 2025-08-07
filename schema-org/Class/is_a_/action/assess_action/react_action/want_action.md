@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - want-action
 - want_action

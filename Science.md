@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Science
 Colon_Classification: A
 Commons_category: Science

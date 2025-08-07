@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_tot_beds
 - cvd-num-tot-beds

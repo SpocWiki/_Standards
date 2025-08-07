@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loligo
 ---
 
@@ -213,7 +213,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Loligo](Loligo.md)) 
+### #is_/same_as :: [Loligo](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Loligo.md) 
 
 ### #is_/same_as :: [Loligo.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Loligo.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pseudois
 ---
 
@@ -51,7 +51,7 @@ Containing group: [Caprinae](../Caprinae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pseudois](Pseudois.md)) 
+### #is_/same_as :: [Pseudois](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Pseudois.md) 
 
 ### #is_/same_as :: [Pseudois.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Pseudois.public.md) 
 

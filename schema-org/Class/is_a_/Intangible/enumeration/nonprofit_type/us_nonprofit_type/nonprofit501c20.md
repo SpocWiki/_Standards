@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c20
 - nonprofit501c20

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - article-section
 - article_section

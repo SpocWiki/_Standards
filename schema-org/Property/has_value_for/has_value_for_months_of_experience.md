@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - months_of_experience
 - months-of-experience

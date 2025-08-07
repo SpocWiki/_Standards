@@ -26,3 +26,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Akhenaten) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Akhenaten](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.md) 
+
+### #is_/same_as :: [Akhenaten.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.public.md) 
+
+### #is_/same_as :: [Akhenaten.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.internal.md) 
+
+### #is_/same_as :: [Akhenaten.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.protect.md) 
+
+### #is_/same_as :: [Akhenaten.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.private.md) 
+
+### #is_/same_as :: [Akhenaten.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.personal.md) 
+
+### #is_/same_as :: [Akhenaten.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Akhenaten.secret.md)
+

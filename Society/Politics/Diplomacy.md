@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Diplomacy
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -56,17 +56,17 @@ Wikitribune_category: diplomacy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Diplomacy](Diplomacy.md)) 
+### #is_/same_as :: [Diplomacy](/_Standards/Society/Politics/Diplomacy.md) 
 
-### #is_/same_as :: [Diplomacy.public](/_public/Society/Diplomacy.public.md) 
+### #is_/same_as :: [Diplomacy.public](/_public/Society/Politics/Diplomacy.public.md) 
 
-### #is_/same_as :: [Diplomacy.internal](/_internal/Society/Diplomacy.internal.md) 
+### #is_/same_as :: [Diplomacy.internal](/_internal/Society/Politics/Diplomacy.internal.md) 
 
-### #is_/same_as :: [Diplomacy.protect](/_protect/Society/Diplomacy.protect.md) 
+### #is_/same_as :: [Diplomacy.protect](/_protect/Society/Politics/Diplomacy.protect.md) 
 
-### #is_/same_as :: [Diplomacy.private](/_private/Society/Diplomacy.private.md) 
+### #is_/same_as :: [Diplomacy.private](/_private/Society/Politics/Diplomacy.private.md) 
 
-### #is_/same_as :: [Diplomacy.personal](/_personal/Society/Diplomacy.personal.md) 
+### #is_/same_as :: [Diplomacy.personal](/_personal/Society/Politics/Diplomacy.personal.md) 
 
-### #is_/same_as :: [Diplomacy.secret](/_secret/Society/Diplomacy.secret.md)
+### #is_/same_as :: [Diplomacy.secret](/_secret/Society/Politics/Diplomacy.secret.md)
 

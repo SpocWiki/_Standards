@@ -53,6 +53,7 @@ GOST_7_75_97_code: афз 069
 
 #is_/same_as :: [[../../WikiData/WD~Afroasiatic,25268]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [LangFamily-Afro-Asiatic](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic.md) 

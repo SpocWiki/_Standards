@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "USA Today"
 ---
@@ -21,4 +21,21 @@ aliases:
 > and an international edition is distributed in Asia, Canada, Europe, and the Pacific Islands.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/USA%20Today) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [USA_Today](/_Standards/Society/Communication/Media/Journalism/Newspaper/USA_Today.md) 
+
+### #is_/same_as :: [USA_Today.public](/_public/Society/Communication/Media/Journalism/Newspaper/USA_Today.public.md) 
+
+### #is_/same_as :: [USA_Today.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/USA_Today.internal.md) 
+
+### #is_/same_as :: [USA_Today.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/USA_Today.protect.md) 
+
+### #is_/same_as :: [USA_Today.private](/_private/Society/Communication/Media/Journalism/Newspaper/USA_Today.private.md) 
+
+### #is_/same_as :: [USA_Today.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/USA_Today.personal.md) 
+
+### #is_/same_as :: [USA_Today.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/USA_Today.secret.md)
 

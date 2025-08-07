@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - book-format-type
 - book_format_type

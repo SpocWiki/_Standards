@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lyssomaninae
 ---
 
@@ -69,7 +69,7 @@ Salticine Division).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lyssomaninae](Lyssomaninae.md)) 
+### #is_/same_as :: [Lyssomaninae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Lyssomaninae.md) 
 
 ### #is_/same_as :: [Lyssomaninae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Lyssomaninae.public.md) 
 

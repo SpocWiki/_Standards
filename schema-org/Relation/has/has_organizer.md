@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - organizer
 - organizer

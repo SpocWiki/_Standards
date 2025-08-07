@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fat_in_gram
 - fat-content

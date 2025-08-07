@@ -54,6 +54,19 @@ Key Products for ARM were
 [[Micro-Processor]] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ARM(Acorn_RISC_Machine)](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).md) 
 
+### #is_/same_as :: [ARM(Acorn_RISC_Machine).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).public.md) 
+
+### #is_/same_as :: [ARM(Acorn_RISC_Machine).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).internal.md) 
+
+### #is_/same_as :: [ARM(Acorn_RISC_Machine).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).protect.md) 
+
+### #is_/same_as :: [ARM(Acorn_RISC_Machine).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).private.md) 
+
+### #is_/same_as :: [ARM(Acorn_RISC_Machine).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).personal.md) 
+
+### #is_/same_as :: [ARM(Acorn_RISC_Machine).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).secret.md)
 

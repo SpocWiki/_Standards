@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - check-out-action
 - check_out_action

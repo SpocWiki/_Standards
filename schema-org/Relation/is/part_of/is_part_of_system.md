@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-system
 - part_of_system

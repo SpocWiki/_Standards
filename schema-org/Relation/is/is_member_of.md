@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - member-of
 - member_of

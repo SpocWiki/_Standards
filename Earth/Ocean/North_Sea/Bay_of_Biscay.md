@@ -79,3 +79,19 @@ official_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bay%20of%20Biscay) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bay_of_Biscay](/_Standards/Earth/Ocean/North_Sea/Bay_of_Biscay.md) 
+
+### #is_/same_as :: [Bay_of_Biscay.public](/_public/Earth/Ocean/North_Sea/Bay_of_Biscay.public.md) 
+
+### #is_/same_as :: [Bay_of_Biscay.internal](/_internal/Earth/Ocean/North_Sea/Bay_of_Biscay.internal.md) 
+
+### #is_/same_as :: [Bay_of_Biscay.protect](/_protect/Earth/Ocean/North_Sea/Bay_of_Biscay.protect.md) 
+
+### #is_/same_as :: [Bay_of_Biscay.private](/_private/Earth/Ocean/North_Sea/Bay_of_Biscay.private.md) 
+
+### #is_/same_as :: [Bay_of_Biscay.personal](/_personal/Earth/Ocean/North_Sea/Bay_of_Biscay.personal.md) 
+
+### #is_/same_as :: [Bay_of_Biscay.secret](/_secret/Earth/Ocean/North_Sea/Bay_of_Biscay.secret.md)
+

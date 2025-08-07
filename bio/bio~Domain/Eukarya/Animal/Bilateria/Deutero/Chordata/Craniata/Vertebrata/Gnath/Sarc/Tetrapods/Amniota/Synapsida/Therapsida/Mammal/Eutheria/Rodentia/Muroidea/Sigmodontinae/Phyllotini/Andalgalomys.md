@@ -1,4 +1,4 @@
-﻿---
+---
 title: Andalgalomys
 ---
 
@@ -47,7 +47,7 @@ Containing group:[Phyllotini](../Phyllotini.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Andalgalomys](Andalgalomys.md)) 
+### #is_/same_as :: [Andalgalomys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Andalgalomys.md) 
 
 ### #is_/same_as :: [Andalgalomys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Andalgalomys.public.md) 
 

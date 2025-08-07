@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - individual-product
 - individual_product

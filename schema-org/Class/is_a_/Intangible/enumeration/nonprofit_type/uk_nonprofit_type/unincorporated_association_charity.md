@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unincorporated-association-charity
 - unincorporated_association_charity

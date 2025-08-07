@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~cranial_cavity,1710207]]'
 Colon_Classification: L72
 Commons_category: Brain

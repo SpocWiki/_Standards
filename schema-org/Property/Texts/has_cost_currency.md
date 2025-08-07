@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cost-currency
 - cost_currency

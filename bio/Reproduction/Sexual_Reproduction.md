@@ -57,3 +57,20 @@ Commons_category: Sexual reproduction
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20reproduction) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sexual_Reproduction](/_Standards/bio/Reproduction/Sexual_Reproduction.md) 
+
+### #is_/same_as :: [Sexual_Reproduction.public](/_public/bio/Reproduction/Sexual_Reproduction.public.md) 
+
+### #is_/same_as :: [Sexual_Reproduction.internal](/_internal/bio/Reproduction/Sexual_Reproduction.internal.md) 
+
+### #is_/same_as :: [Sexual_Reproduction.protect](/_protect/bio/Reproduction/Sexual_Reproduction.protect.md) 
+
+### #is_/same_as :: [Sexual_Reproduction.private](/_private/bio/Reproduction/Sexual_Reproduction.private.md) 
+
+### #is_/same_as :: [Sexual_Reproduction.personal](/_personal/bio/Reproduction/Sexual_Reproduction.personal.md) 
+
+### #is_/same_as :: [Sexual_Reproduction.secret](/_secret/bio/Reproduction/Sexual_Reproduction.secret.md)
+

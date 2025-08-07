@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - social-media-posting
 - social_media_posting

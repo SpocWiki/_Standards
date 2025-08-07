@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "Q:352"
 Commons_category: "Free will"
 described_by_source:

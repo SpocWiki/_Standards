@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - menu-item
 - menu_item

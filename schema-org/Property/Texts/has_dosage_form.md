@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dosage-form
 - dosage_form

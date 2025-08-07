@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-likes
 - user_likes

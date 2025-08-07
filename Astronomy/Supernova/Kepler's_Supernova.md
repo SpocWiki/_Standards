@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kepler's Supernova"
 - "Kepler's Nova"

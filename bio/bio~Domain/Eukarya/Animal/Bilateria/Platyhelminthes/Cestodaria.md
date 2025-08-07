@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cestodaria
 ---
 
@@ -32,7 +32,7 @@ title: Cestodaria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cestodaria](Cestodaria.md)) 
+### #is_/same_as :: [Cestodaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.md) 
 
 ### #is_/same_as :: [Cestodaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria.public.md) 
 

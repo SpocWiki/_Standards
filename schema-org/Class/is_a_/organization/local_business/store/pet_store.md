@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pet-store
 - pet_store

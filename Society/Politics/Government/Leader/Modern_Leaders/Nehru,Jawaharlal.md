@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jawaharlal Nehru"
 award_received:
@@ -98,17 +98,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nehru,Jawaharlal](Nehru,Jawaharlal.md)) 
+### #is_/same_as :: [Nehru,Jawaharlal](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.md) 
 
-### #is_/same_as :: [Nehru,Jawaharlal.public](/_public/Society/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.public.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.public.md) 
 
-### #is_/same_as :: [Nehru,Jawaharlal.internal](/_internal/Society/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.internal.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.internal.md) 
 
-### #is_/same_as :: [Nehru,Jawaharlal.protect](/_protect/Society/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.protect.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.protect.md) 
 
-### #is_/same_as :: [Nehru,Jawaharlal.private](/_private/Society/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.private.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.private.md) 
 
-### #is_/same_as :: [Nehru,Jawaharlal.personal](/_personal/Society/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.personal.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.personal.md) 
 
-### #is_/same_as :: [Nehru,Jawaharlal.secret](/_secret/Society/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.secret.md)
+### #is_/same_as :: [Nehru,Jawaharlal.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Nehru,Jawaharlal.secret.md)
 

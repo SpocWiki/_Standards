@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - corrections-policy
 - corrections_policy

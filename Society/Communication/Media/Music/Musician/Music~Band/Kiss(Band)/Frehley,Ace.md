@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ace Frehley"
 ---
@@ -35,4 +35,21 @@ aliases:
 > Frehley was inducted into the Rock and Roll Hall of Fame in 2014 as a member of Kiss.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ace%20Frehley)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Frehley,Ace](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.md) 
+
+### #is_/same_as :: [Frehley,Ace.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.public.md) 
+
+### #is_/same_as :: [Frehley,Ace.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.internal.md) 
+
+### #is_/same_as :: [Frehley,Ace.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.protect.md) 
+
+### #is_/same_as :: [Frehley,Ace.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.private.md) 
+
+### #is_/same_as :: [Frehley,Ace.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.personal.md) 
+
+### #is_/same_as :: [Frehley,Ace.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Frehley,Ace.secret.md)
 

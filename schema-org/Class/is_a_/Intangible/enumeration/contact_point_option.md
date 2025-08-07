@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contact-point-option
 - contact_point_option

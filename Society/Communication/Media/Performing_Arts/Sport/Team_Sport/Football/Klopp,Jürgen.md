@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jürgen Klopp"
 ---

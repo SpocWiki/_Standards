@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - marry-action
 - marry_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bookmark-action
 - bookmark_action

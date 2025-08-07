@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - laser-disc-format
 - laser_disc_format

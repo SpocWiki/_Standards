@@ -25,3 +25,21 @@
 > has been the subject of criticism, especially from academic folklorists.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Campbell)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Campbell,Joseph-John](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.md) 
+
+### #is_/same_as :: [Campbell,Joseph-John.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.public.md) 
+
+### #is_/same_as :: [Campbell,Joseph-John.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.internal.md) 
+
+### #is_/same_as :: [Campbell,Joseph-John.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.protect.md) 
+
+### #is_/same_as :: [Campbell,Joseph-John.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.private.md) 
+
+### #is_/same_as :: [Campbell,Joseph-John.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.personal.md) 
+
+### #is_/same_as :: [Campbell,Joseph-John.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,Joseph-John.secret.md)
+

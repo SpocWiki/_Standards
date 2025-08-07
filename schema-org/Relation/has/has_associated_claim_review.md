@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-claim-review
 - associated_claim_review

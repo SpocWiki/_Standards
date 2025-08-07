@@ -395,7 +395,7 @@ Copyright ::            © [California Academy of Sciences](http://www.calacadem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Insect](Insect.md)) 
+### #is_/same_as :: [Insect](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect.md) 
 
 ### #is_/same_as :: [Insect.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect.public.md) 
 

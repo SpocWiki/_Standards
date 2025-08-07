@@ -15,3 +15,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Procidis)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Procidis](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.md) 
+
+### #is_/same_as :: [Procidis.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.public.md) 
+
+### #is_/same_as :: [Procidis.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.internal.md) 
+
+### #is_/same_as :: [Procidis.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.protect.md) 
+
+### #is_/same_as :: [Procidis.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.private.md) 
+
+### #is_/same_as :: [Procidis.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.personal.md) 
+
+### #is_/same_as :: [Procidis.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Procidis.secret.md)
+

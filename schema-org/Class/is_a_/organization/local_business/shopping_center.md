@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shopping-center
 - shopping_center

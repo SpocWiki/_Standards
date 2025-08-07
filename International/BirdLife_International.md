@@ -76,3 +76,20 @@ inception: 1922-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/BirdLife%20International) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BirdLife_International](/_Standards/International/BirdLife_International.md) 
+
+### #is_/same_as :: [BirdLife_International.public](/_public/International/BirdLife_International.public.md) 
+
+### #is_/same_as :: [BirdLife_International.internal](/_internal/International/BirdLife_International.internal.md) 
+
+### #is_/same_as :: [BirdLife_International.protect](/_protect/International/BirdLife_International.protect.md) 
+
+### #is_/same_as :: [BirdLife_International.private](/_private/International/BirdLife_International.private.md) 
+
+### #is_/same_as :: [BirdLife_International.personal](/_personal/International/BirdLife_International.personal.md) 
+
+### #is_/same_as :: [BirdLife_International.secret](/_secret/International/BirdLife_International.secret.md)
+

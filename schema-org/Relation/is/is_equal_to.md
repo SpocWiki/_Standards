@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - equals
 - is_equal_to

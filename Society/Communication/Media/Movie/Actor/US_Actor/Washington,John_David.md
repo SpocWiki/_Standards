@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John David Washington"
 ---
@@ -29,5 +29,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20David%20Washington) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Washington,John_David](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.md) 
+
+### #is_/same_as :: [Washington,John_David.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.public.md) 
+
+### #is_/same_as :: [Washington,John_David.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.internal.md) 
+
+### #is_/same_as :: [Washington,John_David.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.protect.md) 
+
+### #is_/same_as :: [Washington,John_David.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.private.md) 
+
+### #is_/same_as :: [Washington,John_David.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.personal.md) 
+
+### #is_/same_as :: [Washington,John_David.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Washington,John_David.secret.md)
 

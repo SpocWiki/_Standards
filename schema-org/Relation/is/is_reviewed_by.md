@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reviewed-by
 - reviewed_by

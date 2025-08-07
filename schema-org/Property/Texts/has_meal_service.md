@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - meal-service
 - meal_service

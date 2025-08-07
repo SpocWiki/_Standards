@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - permission-type
 - permission_type

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-card
 - payment_card

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dothideomycetidae
 ---
 
@@ -33,7 +33,7 @@ Containing group:[Dothideomycetes](../Dothideomycetes.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dothideomycetidae](Dothideomycetidae.md)) 
+### #is_/same_as :: [Dothideomycetidae](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.md) 
 
 ### #is_/same_as :: [Dothideomycetidae.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.public.md) 
 

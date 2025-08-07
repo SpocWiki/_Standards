@@ -1,4 +1,4 @@
-﻿---
+---
 title: Moschidae
 ---
 
@@ -77,7 +77,7 @@ Reference         Sir William Jardine\'s Naturalist\'s Library, Mammalia, 1835
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Moschidae](Moschidae.md)) 
+### #is_/same_as :: [Moschidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Moschidae.md) 
 
 ### #is_/same_as :: [Moschidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Moschidae.public.md) 
 

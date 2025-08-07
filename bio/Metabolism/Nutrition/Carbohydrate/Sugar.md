@@ -1,4 +1,4 @@
-﻿---
+---
 acceptable_daily_intake: "http://www.wikidata.org/.well-known/genid/50ae34edb819f26b38499f16a34d00ef"
 aliases:
 - Sugar

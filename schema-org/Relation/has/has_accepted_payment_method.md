@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accepted-payment-method
 - accepted_payment_method

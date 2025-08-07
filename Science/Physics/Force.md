@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Forces (physics)"
 defining_formula:
 - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\boldsymbol {F}}=m{\\boldsymbol {a}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">F</mi>\n        </mrow>\n        <mo>=</mo>\n        <mi>m</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"bold-italic\">a</mi>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\boldsymbol {F}}=m{\\boldsymbol {a}}}</annotation>\n  </semantics>\n</math>"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Springtail
 - Springtails
@@ -152,7 +152,7 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Springtail](Springtail.md)) 
+### #is_/same_as :: [Springtail](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail.md) 
 
 ### #is_/same_as :: [Springtail.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail.public.md) 
 

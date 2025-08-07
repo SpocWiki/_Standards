@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has_url_for
 - "schema:url"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amusement-park
 - amusement_park

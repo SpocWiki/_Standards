@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - transit-time-label
 - transit_time_label

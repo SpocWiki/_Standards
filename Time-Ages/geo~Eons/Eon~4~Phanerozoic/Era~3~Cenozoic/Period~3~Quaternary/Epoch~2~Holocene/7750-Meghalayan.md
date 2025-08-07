@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Meghalayan
 coordinate_location: "Point(91.715 25.262222222)"
 different_from: '[[_Standards/WikiData/WD~Meghalaya,1195]]'

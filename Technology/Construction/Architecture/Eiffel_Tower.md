@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/EiffelTower%20fixed.stl"
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiffel%20Tower%20at%20night%2020150801-2.jpg"
 aliases:

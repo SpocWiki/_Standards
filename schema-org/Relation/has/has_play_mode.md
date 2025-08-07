@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - play-mode
 - play_mode

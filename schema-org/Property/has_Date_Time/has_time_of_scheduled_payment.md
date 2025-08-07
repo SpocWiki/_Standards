@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - scheduled-payment-date
 - scheduled_payment_date

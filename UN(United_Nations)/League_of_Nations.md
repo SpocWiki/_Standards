@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "League of Nations"
 archives_at: '[[_Standards/WikiData/WD~Q856640,856640]]'
@@ -128,8 +128,6 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q7158108,7158108]]'
 > Current scholarly consensus views that, even though the League failed to achieve its main goal of world peace, it did manage to build new roads towards expanding the rule of law across the globe; strengthened the concept of collective security, gave a voice to smaller nations; fostered economic stabilization and financial stability, especially in Central Europe in the 1920s; helped to raise awareness of problems like epidemics, slavery, child labour, colonial tyranny, refugee crises and general working conditions through its numerous commissions and committees; and paved the way for new forms of statehood, as the mandate system put the colonial powers under international observation. Professor David Kennedy portrays the League as a unique moment when international affairs were "institutionalised", as opposed to the pre-First World War methods of law and politics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/League%20of%20Nations)
-
-
 
 
 ## Confidential Links & Embeds: 

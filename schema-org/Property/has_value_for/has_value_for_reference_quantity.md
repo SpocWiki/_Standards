@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reference_quantity
 - reference-quantity

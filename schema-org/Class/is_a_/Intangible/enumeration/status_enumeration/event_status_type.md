@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-status-type
 - event_status_type

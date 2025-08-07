@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fyodor Dostoyevsky"
 allegiance: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'

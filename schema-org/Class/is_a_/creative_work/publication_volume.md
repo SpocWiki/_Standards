@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publication-volume
 - publication_volume

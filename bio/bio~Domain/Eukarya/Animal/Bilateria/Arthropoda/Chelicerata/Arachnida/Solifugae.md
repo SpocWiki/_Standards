@@ -1,4 +1,4 @@
-﻿---
+---
 title: Solifugae
 ---
 
@@ -72,7 +72,7 @@ Copyright ::            © 2003 Warren E. Savary
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Solifugae](Solifugae.md)) 
+### #is_/same_as :: [Solifugae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.md) 
 
 ### #is_/same_as :: [Solifugae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae.public.md) 
 

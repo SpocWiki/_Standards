@@ -1,4 +1,4 @@
-﻿---
+---
 title: Proboscidea
 ---
 
@@ -106,7 +106,7 @@ Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Proboscidea](Proboscidea.md)) 
+### #is_/same_as :: [Proboscidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.md) 
 
 ### #is_/same_as :: [Proboscidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea.public.md) 
 

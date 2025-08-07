@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - seek-to-action
 - seek_to_action

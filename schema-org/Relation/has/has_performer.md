@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - performer
 - has_performer

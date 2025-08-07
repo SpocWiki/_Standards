@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Neornithes
 title: Neornithes
@@ -100,7 +100,7 @@ Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Neornithes](Neornithes.md)) 
+### #is_/same_as :: [Neornithes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.md) 
 
 ### #is_/same_as :: [Neornithes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.public.md) 
 

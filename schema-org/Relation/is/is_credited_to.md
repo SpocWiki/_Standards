@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - credited-to
 - credited_to

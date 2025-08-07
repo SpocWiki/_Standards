@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Histioteuthid families"
 ---
 
@@ -99,7 +99,7 @@ to the families of the order Teuthoidea. Smiths. contr. zool., 13:1-32.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Histioteuthid](Histioteuthid.md)) 
+### #is_/same_as :: [Histioteuthid](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.md) 
 
 ### #is_/same_as :: [Histioteuthid.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Histioteuthid.public.md) 
 

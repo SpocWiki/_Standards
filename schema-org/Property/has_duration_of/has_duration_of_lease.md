@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lease-length
 - lease

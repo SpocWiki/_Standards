@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-class
 - drug_class

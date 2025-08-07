@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hexapoda
 has_id_wikidata: Q105146
@@ -137,7 +137,7 @@ Copyright ::            © 2002 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hexapoda](Hexapoda.md)) 
+### #is_/same_as :: [Hexapoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda.md) 
 
 ### #is_/same_as :: [Hexapoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda.public.md) 
 

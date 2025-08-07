@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fd-acategory-x
 - fd_acategory_x

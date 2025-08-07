@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reimbursement-cap
 - reimbursement_cap

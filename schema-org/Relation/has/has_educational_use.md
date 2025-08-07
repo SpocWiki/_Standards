@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-use
 - educational_use

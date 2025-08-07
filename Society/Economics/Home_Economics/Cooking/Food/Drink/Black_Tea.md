@@ -22,3 +22,20 @@ has_id_wikidata: Q203415
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20tea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Black_Tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.md) 
+
+### #is_/same_as :: [Black_Tea.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.public.md) 
+
+### #is_/same_as :: [Black_Tea.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.internal.md) 
+
+### #is_/same_as :: [Black_Tea.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.protect.md) 
+
+### #is_/same_as :: [Black_Tea.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.private.md) 
+
+### #is_/same_as :: [Black_Tea.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.personal.md) 
+
+### #is_/same_as :: [Black_Tea.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Black_Tea.secret.md)
+

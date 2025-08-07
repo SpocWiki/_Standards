@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - general-contractor
 - general_contractor

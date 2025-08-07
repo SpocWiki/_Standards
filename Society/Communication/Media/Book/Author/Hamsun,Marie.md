@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marie Hamsun"
 - "Marie Andersen"
@@ -32,4 +32,21 @@ Klassikerstatus erreichten Marie Hamsuns Bücher über die [Langerudkinder](htt
 Wie ihr Mann sympathisierte auch Marie Hamsun mit den deutschen Nationalsozialisten. Ihre Kinderbücher enthalten jedoch keinerlei Hinweise auf ihre politische Einstellung.
 
 Knut und Marie Hamsun hatten vier Kinder, darunter den Maler [Tore Hamsun](https://de.wikipedia.org/w/index.php?title=Tore_Hamsun&action=edit&redlink=1 "Tore Hamsun (Seite nicht vorhanden)") (1912–1995), den Schriftsteller [Arild Hamsun](https://de.wikipedia.org/w/index.php?title=Arild_Hamsun&action=edit&redlink=1 "Arild Hamsun (Seite nicht vorhanden)") (1914–1988) und die Schauspielerin [Ellinor Hamsun](https://de.wikipedia.org/w/index.php?title=Ellinor_Hamsun&action=edit&redlink=1 "Ellinor Hamsun (Seite nicht vorhanden)") (1916–1987).
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hamsun,Marie](/_Standards/Society/Communication/Media/Book/Author/Hamsun,Marie.md) 
+
+### #is_/same_as :: [Hamsun,Marie.public](/_public/Society/Communication/Media/Book/Author/Hamsun,Marie.public.md) 
+
+### #is_/same_as :: [Hamsun,Marie.internal](/_internal/Society/Communication/Media/Book/Author/Hamsun,Marie.internal.md) 
+
+### #is_/same_as :: [Hamsun,Marie.protect](/_protect/Society/Communication/Media/Book/Author/Hamsun,Marie.protect.md) 
+
+### #is_/same_as :: [Hamsun,Marie.private](/_private/Society/Communication/Media/Book/Author/Hamsun,Marie.private.md) 
+
+### #is_/same_as :: [Hamsun,Marie.personal](/_personal/Society/Communication/Media/Book/Author/Hamsun,Marie.personal.md) 
+
+### #is_/same_as :: [Hamsun,Marie.secret](/_secret/Society/Communication/Media/Book/Author/Hamsun,Marie.secret.md)
 

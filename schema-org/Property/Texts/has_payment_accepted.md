@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-accepted
 - payment_accepted

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - structured-value
 - structured_value

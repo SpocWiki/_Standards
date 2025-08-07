@@ -66,20 +66,19 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 > [Wikipedia](https://en.wikipedia.org/wiki/Bone) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bone](Bone.md) 
+### #is_/same_as :: [Bone](/_Standards/bio/Medicine/Anatomy/Skeleton/Bone.md) 
 
-### #is_/same_as :: [bone.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.public.md) 
+### #is_/same_as :: [Bone.public](/_public/bio/Medicine/Anatomy/Skeleton/Bone.public.md) 
 
-### #is_/same_as :: [bone.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.internal.md) 
+### #is_/same_as :: [Bone.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Bone.internal.md) 
 
-### #is_/same_as :: [bone.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.protect.md) 
+### #is_/same_as :: [Bone.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Bone.protect.md) 
 
-### #is_/same_as :: [bone.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.private.md) 
+### #is_/same_as :: [Bone.private](/_private/bio/Medicine/Anatomy/Skeleton/Bone.private.md) 
 
-### #is_/same_as :: [bone.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.personal.md) 
+### #is_/same_as :: [Bone.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Bone.personal.md) 
 
-### #is_/same_as :: [bone.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.secret.md)
+### #is_/same_as :: [Bone.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Bone.secret.md)
 

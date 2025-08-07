@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sports-event
 - sports_event

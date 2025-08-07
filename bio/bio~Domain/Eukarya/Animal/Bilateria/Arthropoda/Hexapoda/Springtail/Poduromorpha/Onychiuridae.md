@@ -1,4 +1,4 @@
-﻿---
+---
 title: Onychiuridae
 ---
 
@@ -50,7 +50,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Onychiuridae](Onychiuridae.md)) 
+### #is_/same_as :: [Onychiuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.md) 
 
 ### #is_/same_as :: [Onychiuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Onychiuridae.public.md) 
 

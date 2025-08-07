@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepia
 ---
 
@@ -83,7 +83,7 @@ Contr. Zool., 586:159-190.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepia](Sepia.md)) 
+### #is_/same_as :: [Sepia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Sepia.md) 
 
 ### #is_/same_as :: [Sepia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Sepia.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-album
 - in_album

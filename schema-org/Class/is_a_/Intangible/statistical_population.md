@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - statistical-population
 - statistical_population

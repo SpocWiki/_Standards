@@ -140,17 +140,17 @@ U_S_National_Archives_Identifier: 10644305
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Reptile](Reptile.md)) 
+### #is_/same_as :: [Reptile](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.md) 
 
-### #is_/same_as :: [Reptile.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Sauropsida/Reptile.public.md) 
+### #is_/same_as :: [Reptile.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.public.md) 
 
-### #is_/same_as :: [Reptile.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Sauropsida/Reptile.internal.md) 
+### #is_/same_as :: [Reptile.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.internal.md) 
 
-### #is_/same_as :: [Reptile.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Sauropsida/Reptile.protect.md) 
+### #is_/same_as :: [Reptile.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.protect.md) 
 
-### #is_/same_as :: [Reptile.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Sauropsida/Reptile.private.md) 
+### #is_/same_as :: [Reptile.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.private.md) 
 
-### #is_/same_as :: [Reptile.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Sauropsida/Reptile.personal.md) 
+### #is_/same_as :: [Reptile.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.personal.md) 
 
-### #is_/same_as :: [Reptile.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Sauropsida/Reptile.secret.md)
+### #is_/same_as :: [Reptile.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile.secret.md)
 

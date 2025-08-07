@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Geoffrey Chaucer"
 BHCL_UUID: 53d2d252-bcf7-4911-a58b-36d5fd91748f

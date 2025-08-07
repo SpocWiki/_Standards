@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - non-equal
 - non_equal

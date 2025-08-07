@@ -1,4 +1,4 @@
-﻿---
+---
 title: Peracarida
 ---
 
@@ -71,7 +71,7 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Peracarida](Peracarida.md)) 
+### #is_/same_as :: [Peracarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.md) 
 
 ### #is_/same_as :: [Peracarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida.public.md) 
 

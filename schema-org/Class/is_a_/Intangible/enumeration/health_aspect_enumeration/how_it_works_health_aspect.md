@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-it-works-health-aspect
 - how_it_works_health_aspect

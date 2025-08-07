@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sigmodontinae
 ---
 
@@ -194,7 +194,7 @@ Copyright ::         © 1997 P. L. Meserve
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sigmodontinae](Sigmodontinae.md)) 
+### #is_/same_as :: [Sigmodontinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae.md) 
 
 ### #is_/same_as :: [Sigmodontinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae.public.md) 
 

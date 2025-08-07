@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - train-reservation
 - train_reservation

@@ -29,3 +29,20 @@ P8189: "987007283102205171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bongo%20drum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bongo_Drum](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.md) 
+
+### #is_/same_as :: [Bongo_Drum.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.public.md) 
+
+### #is_/same_as :: [Bongo_Drum.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.internal.md) 
+
+### #is_/same_as :: [Bongo_Drum.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.protect.md) 
+
+### #is_/same_as :: [Bongo_Drum.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.private.md) 
+
+### #is_/same_as :: [Bongo_Drum.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.personal.md) 
+
+### #is_/same_as :: [Bongo_Drum.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Bongo_Drum.secret.md)
+

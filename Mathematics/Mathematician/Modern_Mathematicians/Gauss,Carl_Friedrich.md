@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 academic_thesis: '[[_Standards/WikiData/WD~Demonstratio_nova_theorematis_omnem_functionem_algebraicam_rationalem_integram_unius_variabilis_in_factores_reales_primi_vel_secundi_gradus_resolvi_posse,47477759]]'
 aliases:

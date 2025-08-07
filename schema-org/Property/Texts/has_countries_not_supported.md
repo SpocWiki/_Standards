@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - countries-not-supported
 - countries_not_supported

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bolitoglossinae
 ---
 
@@ -178,17 +178,17 @@ Copyright ::            © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bolitoglossinae](Bolitoglossinae.md)) 
+### #is_/same_as :: [Bolitoglossinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.md) 
 
-### #is_/same_as :: [Bolitoglossinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.public.md) 
+### #is_/same_as :: [Bolitoglossinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public.md) 
 
-### #is_/same_as :: [Bolitoglossinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.internal.md) 
+### #is_/same_as :: [Bolitoglossinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal.md) 
 
-### #is_/same_as :: [Bolitoglossinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.protect.md) 
+### #is_/same_as :: [Bolitoglossinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect.md) 
 
-### #is_/same_as :: [Bolitoglossinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.private.md) 
+### #is_/same_as :: [Bolitoglossinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private.md) 
 
-### #is_/same_as :: [Bolitoglossinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.personal.md) 
+### #is_/same_as :: [Bolitoglossinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal.md) 
 
-### #is_/same_as :: [Bolitoglossinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae.secret.md)
+### #is_/same_as :: [Bolitoglossinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret.md)
 

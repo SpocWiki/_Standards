@@ -1,4 +1,4 @@
-﻿---
+---
 title: Anaspida
 ---
 
@@ -169,7 +169,7 @@ Copyright ::   © 1997 [Philippe Janvier](mailto:janvier@cimrs1.mnhn.fr)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Anaspida](Anaspida.md)) 
+### #is_/same_as :: [Anaspida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.md) 
 
 ### #is_/same_as :: [Anaspida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.public.md) 
 

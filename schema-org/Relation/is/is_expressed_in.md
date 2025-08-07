@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - expressed-in
 - expressed_in

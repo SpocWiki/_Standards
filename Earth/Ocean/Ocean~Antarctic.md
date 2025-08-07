@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Southern Ocean"
 - "Antarctic Ocean"

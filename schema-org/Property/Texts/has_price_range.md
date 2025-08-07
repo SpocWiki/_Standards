@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-range
 - price_range

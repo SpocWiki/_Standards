@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - risk-factor
 - risk_factor

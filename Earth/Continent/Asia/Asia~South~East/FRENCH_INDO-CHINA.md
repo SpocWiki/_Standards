@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76712
@@ -33,17 +33,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[FRENCH_INDO-CHINA](FRENCH_INDO-CHINA.md)) 
+### #is_/same_as :: [FRENCH_INDO-CHINA](/_Standards/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.md) 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.public](/_public/Earth/Continent/Asia/FRENCH_INDO-CHINA.public.md) 
+### #is_/same_as :: [FRENCH_INDO-CHINA.public](/_public/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.public.md) 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.internal](/_internal/Earth/Continent/Asia/FRENCH_INDO-CHINA.internal.md) 
+### #is_/same_as :: [FRENCH_INDO-CHINA.internal](/_internal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.internal.md) 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.protect](/_protect/Earth/Continent/Asia/FRENCH_INDO-CHINA.protect.md) 
+### #is_/same_as :: [FRENCH_INDO-CHINA.protect](/_protect/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.protect.md) 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.private](/_private/Earth/Continent/Asia/FRENCH_INDO-CHINA.private.md) 
+### #is_/same_as :: [FRENCH_INDO-CHINA.private](/_private/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.private.md) 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.personal](/_personal/Earth/Continent/Asia/FRENCH_INDO-CHINA.personal.md) 
+### #is_/same_as :: [FRENCH_INDO-CHINA.personal](/_personal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.personal.md) 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.secret](/_secret/Earth/Continent/Asia/FRENCH_INDO-CHINA.secret.md)
+### #is_/same_as :: [FRENCH_INDO-CHINA.secret](/_secret/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.secret.md)
 

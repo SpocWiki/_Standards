@@ -65,3 +65,20 @@ taxon_common_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Butterfly) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Butterfly](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.md) 
+
+### #is_/same_as :: [Butterfly.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.public.md) 
+
+### #is_/same_as :: [Butterfly.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.internal.md) 
+
+### #is_/same_as :: [Butterfly.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.protect.md) 
+
+### #is_/same_as :: [Butterfly.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.private.md) 
+
+### #is_/same_as :: [Butterfly.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.personal.md) 
+
+### #is_/same_as :: [Butterfly.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera/Butterfly.secret.md)
+

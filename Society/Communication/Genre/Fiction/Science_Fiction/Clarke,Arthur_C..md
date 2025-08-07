@@ -46,3 +46,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arthur%20C.%20Clarke) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clarke,Arthur_C.](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..md) 
+
+### #is_/same_as :: [Clarke,Arthur_C..public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..public.md) 
+
+### #is_/same_as :: [Clarke,Arthur_C..internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..internal.md) 
+
+### #is_/same_as :: [Clarke,Arthur_C..protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..protect.md) 
+
+### #is_/same_as :: [Clarke,Arthur_C..private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..private.md) 
+
+### #is_/same_as :: [Clarke,Arthur_C..personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..personal.md) 
+
+### #is_/same_as :: [Clarke,Arthur_C..secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C..secret.md)
+

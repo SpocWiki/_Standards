@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fundamental interaction"
 Commons_category: "Fundamental forces"
@@ -49,17 +49,17 @@ Wikidata_property: interaction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamental_Interaction](/_Standards/Science/Physics/Fundamental_Interaction.md) 
+### #is_/same_as :: [Fundamental_Interaction](/_Standards/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.md) 
 
-### #is_/same_as :: [Fundamental_Interaction.public](/_public/Science/Physics/Fundamental_Interaction.public.md) 
+### #is_/same_as :: [Fundamental_Interaction.public](/_public/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.public.md) 
 
-### #is_/same_as :: [Fundamental_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction.internal.md) 
+### #is_/same_as :: [Fundamental_Interaction.internal](/_internal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.internal.md) 
 
-### #is_/same_as :: [Fundamental_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction.protect.md) 
+### #is_/same_as :: [Fundamental_Interaction.protect](/_protect/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.protect.md) 
 
-### #is_/same_as :: [Fundamental_Interaction.private](/_private/Science/Physics/Fundamental_Interaction.private.md) 
+### #is_/same_as :: [Fundamental_Interaction.private](/_private/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.private.md) 
 
-### #is_/same_as :: [Fundamental_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction.personal.md) 
+### #is_/same_as :: [Fundamental_Interaction.personal](/_personal/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.personal.md) 
 
-### #is_/same_as :: [Fundamental_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction.secret.md)
+### #is_/same_as :: [Fundamental_Interaction.secret](/_secret/Science/Physics/Quantum_Mechanics/Fundamental_Interaction.secret.md)
 

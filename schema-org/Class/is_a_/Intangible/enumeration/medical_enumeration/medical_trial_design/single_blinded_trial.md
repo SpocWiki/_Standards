@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - single-blinded-trial
 - single_blinded_trial

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - digital-document
 - digital_document

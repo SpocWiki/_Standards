@@ -62,3 +62,20 @@ subreddit: probabilitytheory
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Probability%20theory) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Probability_Theory](/_Standards/Mathematics/Probability_Theory.md) 
+
+### #is_/same_as :: [Probability_Theory.public](/_public/Mathematics/Probability_Theory.public.md) 
+
+### #is_/same_as :: [Probability_Theory.internal](/_internal/Mathematics/Probability_Theory.internal.md) 
+
+### #is_/same_as :: [Probability_Theory.protect](/_protect/Mathematics/Probability_Theory.protect.md) 
+
+### #is_/same_as :: [Probability_Theory.private](/_private/Mathematics/Probability_Theory.private.md) 
+
+### #is_/same_as :: [Probability_Theory.personal](/_personal/Mathematics/Probability_Theory.personal.md) 
+
+### #is_/same_as :: [Probability_Theory.secret](/_secret/Mathematics/Probability_Theory.secret.md)
+

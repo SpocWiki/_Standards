@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - right-hand-driving
 - right_hand_driving

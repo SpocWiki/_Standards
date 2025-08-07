@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euophryinae
 ---
 
@@ -75,7 +75,7 @@ and thus the euophyines may be paraphyletic (Maddison, 1996).
     -   [Euophrys](Euophrys)
     -   [Habrocestum](Habrocestum)
     -   [Maeota dichrura](Maeota_dichrura)
-    -   [Neon](Neon)
+    - [Neon](../../../../../../../../../../../../../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.md)))
     -   [Neonella](Neonella)
     -   [Pensacola](Pensacola)
     -   [Sidusa](Sidusa)
@@ -117,7 +117,7 @@ and thus the euophyines may be paraphyletic (Maddison, 1996).
 	-   *Maratus*
 	-   *Margaromma*
 	-   *Mopiopia*
-	-   *[Neon](Neon)*
+	-  [Neon](../../../../../../../../../../../../../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.md)))*
 	-   *[Neonella](Neonella)*
 	-   *Ocnotelus*
 	-   *[Pensacola](Pensacola)*
@@ -144,7 +144,7 @@ and thus the euophyines may be paraphyletic (Maddison, 1996).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Euophryinae](Euophryinae.md)) 
+### #is_/same_as :: [Euophryinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Euophryinae.md) 
 
 ### #is_/same_as :: [Euophryinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Euophryinae.public.md) 
 

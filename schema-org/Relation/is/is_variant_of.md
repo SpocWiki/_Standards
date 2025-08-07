@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-variant-of
 - variant_of

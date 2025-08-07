@@ -54,17 +54,17 @@ Properties that take Mass as values are of the form '[[../../Class/is_a_/data_ty
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [mass](/_Standards/schema-org/Predicate/Quantity/mass.md) 
+### #is_/same_as :: [has_value_for_mass](/_Standards/schema-org/Predicate/Quantity/has_value_for_mass.md) 
 
-### #is_/same_as :: [mass.public](/_public/schema-org/Predicate/Quantity/mass.public.md) 
+### #is_/same_as :: [has_value_for_mass.public](/_public/schema-org/Predicate/Quantity/has_value_for_mass.public.md) 
 
-### #is_/same_as :: [mass.internal](/_internal/schema-org/Predicate/Quantity/mass.internal.md) 
+### #is_/same_as :: [has_value_for_mass.internal](/_internal/schema-org/Predicate/Quantity/has_value_for_mass.internal.md) 
 
-### #is_/same_as :: [mass.protect](/_protect/schema-org/Predicate/Quantity/mass.protect.md) 
+### #is_/same_as :: [has_value_for_mass.protect](/_protect/schema-org/Predicate/Quantity/has_value_for_mass.protect.md) 
 
-### #is_/same_as :: [mass.private](/_private/schema-org/Predicate/Quantity/mass.private.md) 
+### #is_/same_as :: [has_value_for_mass.private](/_private/schema-org/Predicate/Quantity/has_value_for_mass.private.md) 
 
-### #is_/same_as :: [mass.personal](/_personal/schema-org/Predicate/Quantity/mass.personal.md) 
+### #is_/same_as :: [has_value_for_mass.personal](/_personal/schema-org/Predicate/Quantity/has_value_for_mass.personal.md) 
 
-### #is_/same_as :: [mass.secret](/_secret/schema-org/Predicate/Quantity/mass.secret.md)
+### #is_/same_as :: [has_value_for_mass.secret](/_secret/schema-org/Predicate/Quantity/has_value_for_mass.secret.md)
 

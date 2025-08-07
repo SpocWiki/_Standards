@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - low-lactose-diet
 - low_lactose_diet

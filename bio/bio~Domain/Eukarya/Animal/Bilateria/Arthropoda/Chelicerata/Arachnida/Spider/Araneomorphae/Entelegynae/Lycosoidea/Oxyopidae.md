@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oxyopidae
 ---
 
@@ -52,7 +52,7 @@ Containing group:[Lycosoidea](../Lycosoidea.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oxyopidae](Oxyopidae.md)) 
+### #is_/same_as :: [Oxyopidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Oxyopidae.md) 
 
 ### #is_/same_as :: [Oxyopidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Oxyopidae.public.md) 
 

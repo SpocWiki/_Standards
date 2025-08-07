@@ -99,3 +99,20 @@ date_of_birth: 1918-12-21T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20Waldheim) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Waldheim,Kurt](/_Standards/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.md) 
+
+### #is_/same_as :: [Waldheim,Kurt.public](/_public/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.public.md) 
+
+### #is_/same_as :: [Waldheim,Kurt.internal](/_internal/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.internal.md) 
+
+### #is_/same_as :: [Waldheim,Kurt.protect](/_protect/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.protect.md) 
+
+### #is_/same_as :: [Waldheim,Kurt.private](/_private/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.private.md) 
+
+### #is_/same_as :: [Waldheim,Kurt.personal](/_personal/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.personal.md) 
+
+### #is_/same_as :: [Waldheim,Kurt.secret](/_secret/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.secret.md)
+

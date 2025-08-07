@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Olive
 - "Olive tree"
@@ -127,17 +127,17 @@ UNSPSC_Code: 10161501
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Olive](Olive.md)) 
+### #is_/same_as :: [Olive](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.md) 
 
-### #is_/same_as :: [Olive.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.public.md) 
+### #is_/same_as :: [Olive.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.public.md) 
 
-### #is_/same_as :: [Olive.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.internal.md) 
+### #is_/same_as :: [Olive.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.internal.md) 
 
-### #is_/same_as :: [Olive.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.protect.md) 
+### #is_/same_as :: [Olive.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.protect.md) 
 
-### #is_/same_as :: [Olive.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.private.md) 
+### #is_/same_as :: [Olive.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.private.md) 
 
-### #is_/same_as :: [Olive.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.personal.md) 
+### #is_/same_as :: [Olive.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.personal.md) 
 
-### #is_/same_as :: [Olive.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.secret.md)
+### #is_/same_as :: [Olive.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Oleaceae/Olive.secret.md)
 

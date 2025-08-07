@@ -33,3 +33,20 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biopsy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biopsy](/_Standards/bio/Medicine/Therapy/Biopsy.md) 
+
+### #is_/same_as :: [Biopsy.public](/_public/bio/Medicine/Therapy/Biopsy.public.md) 
+
+### #is_/same_as :: [Biopsy.internal](/_internal/bio/Medicine/Therapy/Biopsy.internal.md) 
+
+### #is_/same_as :: [Biopsy.protect](/_protect/bio/Medicine/Therapy/Biopsy.protect.md) 
+
+### #is_/same_as :: [Biopsy.private](/_private/bio/Medicine/Therapy/Biopsy.private.md) 
+
+### #is_/same_as :: [Biopsy.personal](/_personal/bio/Medicine/Therapy/Biopsy.personal.md) 
+
+### #is_/same_as :: [Biopsy.secret](/_secret/bio/Medicine/Therapy/Biopsy.secret.md)
+

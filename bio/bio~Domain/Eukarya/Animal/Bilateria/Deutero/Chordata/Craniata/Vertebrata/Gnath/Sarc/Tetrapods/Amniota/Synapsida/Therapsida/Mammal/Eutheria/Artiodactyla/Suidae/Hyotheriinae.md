@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyotheriinae
 ---
 
@@ -48,7 +48,7 @@ title: Hyotheriinae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hyotheriinae](Hyotheriinae.md)) 
+### #is_/same_as :: [Hyotheriinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Hyotheriinae.md) 
 
 ### #is_/same_as :: [Hyotheriinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Hyotheriinae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Wolfs (film)"
 ---
@@ -17,4 +17,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wolfs%20(film))
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wolfs(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).md) 
+
+### #is_/same_as :: [Wolfs(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).public.md) 
+
+### #is_/same_as :: [Wolfs(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).internal.md) 
+
+### #is_/same_as :: [Wolfs(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).protect.md) 
+
+### #is_/same_as :: [Wolfs(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).private.md) 
+
+### #is_/same_as :: [Wolfs(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).personal.md) 
+
+### #is_/same_as :: [Wolfs(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Wolfs(film).secret.md)
 

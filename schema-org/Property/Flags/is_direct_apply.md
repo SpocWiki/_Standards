@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - direct-apply
 - direct_apply

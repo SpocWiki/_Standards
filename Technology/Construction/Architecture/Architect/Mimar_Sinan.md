@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Koca Mi'mâr Sinân Âğâ"
 Commons_category: "Mimar Sinan"

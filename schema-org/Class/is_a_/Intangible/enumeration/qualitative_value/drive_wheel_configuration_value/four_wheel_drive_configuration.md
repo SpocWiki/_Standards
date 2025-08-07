@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - four-wheel-drive-configuration
 - four_wheel_drive_configuration

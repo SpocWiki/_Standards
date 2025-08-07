@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dendryphantinae
 ---
 
@@ -182,7 +182,7 @@ of Comparative Zoology. l54(4): 215-368.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dendryphantinae](Dendryphantinae.md)) 
+### #is_/same_as :: [Dendryphantinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Dendryphantinae.md) 
 
 ### #is_/same_as :: [Dendryphantinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Dendryphantinae.public.md) 
 

@@ -1,9 +1,12 @@
-﻿---
+---
 aliases:
 - "Set theory"
 has_id_wikidata: Q12482
 ---
 
+# [[Set_Theory]] 
+
+#is_/same_as :: [[../WikiData/WD~Set_theory,12482|WD~Set_theory,12482]] 
 ## #has_/text_of_/abstract 
 
 > **Set theory** is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory – as a branch of mathematics – is mostly concerned with those that are relevant to mathematics as a whole.

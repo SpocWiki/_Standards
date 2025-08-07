@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Nature
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~Natura,396865]]'

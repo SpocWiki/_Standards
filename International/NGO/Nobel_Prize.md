@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nobel Prize"
 Commons_category: "Nobel Prize"

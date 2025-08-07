@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "British Indian Ocean Territory"
 - "Territorio Británico del Océano Índico"

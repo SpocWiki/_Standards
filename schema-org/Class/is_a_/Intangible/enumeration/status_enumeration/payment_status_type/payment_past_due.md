@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-past-due
 - payment_past_due

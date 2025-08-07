@@ -185,3 +185,20 @@ date_of_birth: 1924-11-20T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Benoit%20Mandelbrot) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mandelbrot,Benoit](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.md) 
+
+### #is_/same_as :: [Mandelbrot,Benoit.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.public.md) 
+
+### #is_/same_as :: [Mandelbrot,Benoit.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.internal.md) 
+
+### #is_/same_as :: [Mandelbrot,Benoit.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.protect.md) 
+
+### #is_/same_as :: [Mandelbrot,Benoit.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.private.md) 
+
+### #is_/same_as :: [Mandelbrot,Benoit.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.personal.md) 
+
+### #is_/same_as :: [Mandelbrot,Benoit.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Mandelbrot,Benoit.secret.md)
+

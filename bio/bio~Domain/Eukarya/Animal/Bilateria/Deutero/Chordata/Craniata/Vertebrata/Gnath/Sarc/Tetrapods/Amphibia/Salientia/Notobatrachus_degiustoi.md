@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Notobatrachus degiustoi"
 ---
 
@@ -73,17 +73,17 @@ Leiopelma.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Notobatrachus_degiustoi](Notobatrachus_degiustoi.md)) 
+### #is_/same_as :: [Notobatrachus_degiustoi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.md) 
 
-### #is_/same_as :: [Notobatrachus_degiustoi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.public.md) 
+### #is_/same_as :: [Notobatrachus_degiustoi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.public.md) 
 
-### #is_/same_as :: [Notobatrachus_degiustoi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.internal.md) 
+### #is_/same_as :: [Notobatrachus_degiustoi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.internal.md) 
 
-### #is_/same_as :: [Notobatrachus_degiustoi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.protect.md) 
+### #is_/same_as :: [Notobatrachus_degiustoi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.protect.md) 
 
-### #is_/same_as :: [Notobatrachus_degiustoi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.private.md) 
+### #is_/same_as :: [Notobatrachus_degiustoi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.private.md) 
 
-### #is_/same_as :: [Notobatrachus_degiustoi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.personal.md) 
+### #is_/same_as :: [Notobatrachus_degiustoi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.personal.md) 
 
-### #is_/same_as :: [Notobatrachus_degiustoi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.secret.md)
+### #is_/same_as :: [Notobatrachus_degiustoi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Notobatrachus_degiustoi.secret.md)
 

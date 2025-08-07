@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nikola Tesla"
 - "Никола Тесла"

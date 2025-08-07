@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Blackberry
 - Blackberries
@@ -56,17 +56,17 @@ USDA_NDB_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Blackberry](Blackberry.md)) 
+### #is_/same_as :: [Blackberry](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.md) 
 
-### #is_/same_as :: [Blackberry.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.public.md) 
+### #is_/same_as :: [Blackberry.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.public.md) 
 
-### #is_/same_as :: [Blackberry.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.internal.md) 
+### #is_/same_as :: [Blackberry.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.internal.md) 
 
-### #is_/same_as :: [Blackberry.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.protect.md) 
+### #is_/same_as :: [Blackberry.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.protect.md) 
 
-### #is_/same_as :: [Blackberry.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.private.md) 
+### #is_/same_as :: [Blackberry.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.private.md) 
 
-### #is_/same_as :: [Blackberry.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.personal.md) 
+### #is_/same_as :: [Blackberry.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.personal.md) 
 
-### #is_/same_as :: [Blackberry.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.secret.md)
+### #is_/same_as :: [Blackberry.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Rosaceae/Blackberry.secret.md)
 

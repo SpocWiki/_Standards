@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Dinosauria
 Commons_gallery: Dinosauria
 described_by_source:

@@ -47,3 +47,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Baba%20Yaga) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Baba_Yaga](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.md) 
+
+### #is_/same_as :: [Baba_Yaga.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.public.md) 
+
+### #is_/same_as :: [Baba_Yaga.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.internal.md) 
+
+### #is_/same_as :: [Baba_Yaga.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.protect.md) 
+
+### #is_/same_as :: [Baba_Yaga.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.private.md) 
+
+### #is_/same_as :: [Baba_Yaga.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.personal.md) 
+
+### #is_/same_as :: [Baba_Yaga.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Slavic_Mythology/Baba_Yaga.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-height
 - wearable_measurement_height

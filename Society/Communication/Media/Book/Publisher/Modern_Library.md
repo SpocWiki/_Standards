@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Modern Library"
 ---
@@ -20,4 +20,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modern%20Library)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Modern_Library](/_Standards/Society/Communication/Media/Book/Publisher/Modern_Library.md) 
+
+### #is_/same_as :: [Modern_Library.public](/_public/Society/Communication/Media/Book/Publisher/Modern_Library.public.md) 
+
+### #is_/same_as :: [Modern_Library.internal](/_internal/Society/Communication/Media/Book/Publisher/Modern_Library.internal.md) 
+
+### #is_/same_as :: [Modern_Library.protect](/_protect/Society/Communication/Media/Book/Publisher/Modern_Library.protect.md) 
+
+### #is_/same_as :: [Modern_Library.private](/_private/Society/Communication/Media/Book/Publisher/Modern_Library.private.md) 
+
+### #is_/same_as :: [Modern_Library.personal](/_personal/Society/Communication/Media/Book/Publisher/Modern_Library.personal.md) 
+
+### #is_/same_as :: [Modern_Library.secret](/_secret/Society/Communication/Media/Book/Publisher/Modern_Library.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - web-content
 - web_content

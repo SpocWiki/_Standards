@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Wozniak,Steve
 - "Steve Wozniak"

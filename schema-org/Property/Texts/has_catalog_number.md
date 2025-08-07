@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - catalog-number
 - catalog_number

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - minimum_payment_due
 - minimum-payment-due

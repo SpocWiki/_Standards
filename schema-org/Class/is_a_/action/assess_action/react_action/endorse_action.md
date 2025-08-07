@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - endorse-action
 - endorse_action

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rattus group"
 ---
 
@@ -39,7 +39,7 @@ title: "Rattus group"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rattus](Rattus.md)) 
+### #is_/same_as :: [Rattus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Murinae/Rattus.md) 
 
 ### #is_/same_as :: [Rattus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Murinae/Rattus.public.md) 
 

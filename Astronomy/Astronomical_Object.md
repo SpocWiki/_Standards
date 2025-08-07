@@ -27,3 +27,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomical%20object) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astronomical_Object](/_Standards/Astronomy/Astronomical_Object.md) 
+
+### #is_/same_as :: [Astronomical_Object.public](/_public/Astronomy/Astronomical_Object.public.md) 
+
+### #is_/same_as :: [Astronomical_Object.internal](/_internal/Astronomy/Astronomical_Object.internal.md) 
+
+### #is_/same_as :: [Astronomical_Object.protect](/_protect/Astronomy/Astronomical_Object.protect.md) 
+
+### #is_/same_as :: [Astronomical_Object.private](/_private/Astronomy/Astronomical_Object.private.md) 
+
+### #is_/same_as :: [Astronomical_Object.personal](/_personal/Astronomy/Astronomical_Object.personal.md) 
+
+### #is_/same_as :: [Astronomical_Object.secret](/_secret/Astronomy/Astronomical_Object.secret.md)
+

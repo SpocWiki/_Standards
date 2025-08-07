@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Music,5287516]]'
 aliases:
 - "Johannes Brahms"

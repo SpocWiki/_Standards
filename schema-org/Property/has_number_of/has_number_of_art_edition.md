@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - art-edition
 - art_edition

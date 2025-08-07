@@ -1,4 +1,4 @@
-﻿---
+---
 excludes: 
 extends: FileClass~Thing
 fields: []

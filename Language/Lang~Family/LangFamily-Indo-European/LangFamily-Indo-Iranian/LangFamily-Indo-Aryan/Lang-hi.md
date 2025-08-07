@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hindi-Urdu
 Commons_category: "Hindustani language"

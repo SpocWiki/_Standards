@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cainotheriidae
 ---
 
@@ -61,7 +61,7 @@ title: Cainotheriidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cainotheriidae](Cainotheriidae.md)) 
+### #is_/same_as :: [Cainotheriidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/fossil_artiodactyls/Cainotheriidae.md) 
 
 ### #is_/same_as :: [Cainotheriidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/fossil_artiodactyls/Cainotheriidae.public.md) 
 

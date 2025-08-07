@@ -1,4 +1,4 @@
-﻿---
+---
 title: Somasteroidea
 ---
 
@@ -241,7 +241,7 @@ Copyright ::            © 1951 Royal Society of London
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Somasteroidea](Somasteroidea.md)) 
+### #is_/same_as :: [Somasteroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.md) 
 
 ### #is_/same_as :: [Somasteroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Somasteroidea.public.md) 
 

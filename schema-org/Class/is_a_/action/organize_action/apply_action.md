@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - apply-action
 - apply_action

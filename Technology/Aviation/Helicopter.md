@@ -53,3 +53,20 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Helicopter) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Helicopter](/_Standards/Technology/Aviation/Helicopter.md) 
+
+### #is_/same_as :: [Helicopter.public](/_public/Technology/Aviation/Helicopter.public.md) 
+
+### #is_/same_as :: [Helicopter.internal](/_internal/Technology/Aviation/Helicopter.internal.md) 
+
+### #is_/same_as :: [Helicopter.protect](/_protect/Technology/Aviation/Helicopter.protect.md) 
+
+### #is_/same_as :: [Helicopter.private](/_private/Technology/Aviation/Helicopter.private.md) 
+
+### #is_/same_as :: [Helicopter.personal](/_personal/Technology/Aviation/Helicopter.personal.md) 
+
+### #is_/same_as :: [Helicopter.secret](/_secret/Technology/Aviation/Helicopter.secret.md)
+

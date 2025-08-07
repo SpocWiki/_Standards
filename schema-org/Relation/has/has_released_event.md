@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - released-event
 - released_event

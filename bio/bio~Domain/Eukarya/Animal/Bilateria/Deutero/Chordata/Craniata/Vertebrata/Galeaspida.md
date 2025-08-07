@@ -1,4 +1,4 @@
-﻿---
+---
 title: Galeaspida
 ---
 
@@ -176,7 +176,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Galeaspida](Galeaspida.md)) 
+### #is_/same_as :: [Galeaspida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.md) 
 
 ### #is_/same_as :: [Galeaspida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ios-platform
 - ios_platform

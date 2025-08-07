@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-test-panel
 - medical_test_panel

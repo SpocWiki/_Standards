@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tracking-url
 - tracking_url

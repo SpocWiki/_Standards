@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nl-nonprofit-type
 - nl_nonprofit_type

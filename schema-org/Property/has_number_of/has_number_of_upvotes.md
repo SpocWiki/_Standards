@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - upvote-count
 - upvote_count

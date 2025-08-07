@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - back-order
 - back_order

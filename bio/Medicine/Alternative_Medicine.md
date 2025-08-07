@@ -51,3 +51,20 @@ OpenStreetMap_tag_or_key: Tag:healthcare=alternative
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alternative%20medicine) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alternative_Medicine](/_Standards/bio/Medicine/Alternative_Medicine.md) 
+
+### #is_/same_as :: [Alternative_Medicine.public](/_public/bio/Medicine/Alternative_Medicine.public.md) 
+
+### #is_/same_as :: [Alternative_Medicine.internal](/_internal/bio/Medicine/Alternative_Medicine.internal.md) 
+
+### #is_/same_as :: [Alternative_Medicine.protect](/_protect/bio/Medicine/Alternative_Medicine.protect.md) 
+
+### #is_/same_as :: [Alternative_Medicine.private](/_private/bio/Medicine/Alternative_Medicine.private.md) 
+
+### #is_/same_as :: [Alternative_Medicine.personal](/_personal/bio/Medicine/Alternative_Medicine.personal.md) 
+
+### #is_/same_as :: [Alternative_Medicine.secret](/_secret/bio/Medicine/Alternative_Medicine.secret.md)
+

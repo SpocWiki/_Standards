@@ -51,4 +51,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Fleischer)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fleischer,Richard](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.md) 
+
+### #is_/same_as :: [Fleischer,Richard.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.public.md) 
+
+### #is_/same_as :: [Fleischer,Richard.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.internal.md) 
+
+### #is_/same_as :: [Fleischer,Richard.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.protect.md) 
+
+### #is_/same_as :: [Fleischer,Richard.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.private.md) 
+
+### #is_/same_as :: [Fleischer,Richard.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.personal.md) 
+
+### #is_/same_as :: [Fleischer,Richard.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Fleischer,Richard.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kenneth Charles Branagh"
 - "Kenneth Branagh"
@@ -52,5 +52,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kenneth%20Branagh) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Branagh,Kenneth](/_Standards/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.md) 
+
+### #is_/same_as :: [Branagh,Kenneth.public](/_public/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.public.md) 
+
+### #is_/same_as :: [Branagh,Kenneth.internal](/_internal/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.internal.md) 
+
+### #is_/same_as :: [Branagh,Kenneth.protect](/_protect/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.protect.md) 
+
+### #is_/same_as :: [Branagh,Kenneth.private](/_private/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.private.md) 
+
+### #is_/same_as :: [Branagh,Kenneth.personal](/_personal/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.personal.md) 
+
+### #is_/same_as :: [Branagh,Kenneth.secret](/_secret/Society/Communication/Media/Movie/Actor/Irish_Actor/Branagh,Kenneth.secret.md)
 

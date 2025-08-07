@@ -49,3 +49,19 @@ subreddit: TalesFromRetail
 > [Wikipedia](https://en.wikipedia.org/wiki/Retail) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Retail](/_Standards/Society/Economics/Business/Business-Entity/Retail.md) 
+
+### #is_/same_as :: [Retail.public](/_public/Society/Economics/Business/Business-Entity/Retail.public.md) 
+
+### #is_/same_as :: [Retail.internal](/_internal/Society/Economics/Business/Business-Entity/Retail.internal.md) 
+
+### #is_/same_as :: [Retail.protect](/_protect/Society/Economics/Business/Business-Entity/Retail.protect.md) 
+
+### #is_/same_as :: [Retail.private](/_private/Society/Economics/Business/Business-Entity/Retail.private.md) 
+
+### #is_/same_as :: [Retail.personal](/_personal/Society/Economics/Business/Business-Entity/Retail.personal.md) 
+
+### #is_/same_as :: [Retail.secret](/_secret/Society/Economics/Business/Business-Entity/Retail.secret.md)
+

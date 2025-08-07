@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hypochilidae
 ---
 
@@ -49,7 +49,7 @@ Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffP
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hypochilidae](Hypochilidae.md)) 
+### #is_/same_as :: [Hypochilidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Hypochilidae.md) 
 
 ### #is_/same_as :: [Hypochilidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Hypochilidae.public.md) 
 

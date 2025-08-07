@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Napoleon
 - "Napoleone Buonaparte"
@@ -287,17 +287,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Napoleon](Napoleon.md)) 
+### #is_/same_as :: [Napoleon](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.md) 
 
-### #is_/same_as :: [Napoleon.public](/_public/Society/Government/Leader/Modern_Leaders/Napoleon.public.md) 
+### #is_/same_as :: [Napoleon.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.public.md) 
 
-### #is_/same_as :: [Napoleon.internal](/_internal/Society/Government/Leader/Modern_Leaders/Napoleon.internal.md) 
+### #is_/same_as :: [Napoleon.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.internal.md) 
 
-### #is_/same_as :: [Napoleon.protect](/_protect/Society/Government/Leader/Modern_Leaders/Napoleon.protect.md) 
+### #is_/same_as :: [Napoleon.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.protect.md) 
 
-### #is_/same_as :: [Napoleon.private](/_private/Society/Government/Leader/Modern_Leaders/Napoleon.private.md) 
+### #is_/same_as :: [Napoleon.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.private.md) 
 
-### #is_/same_as :: [Napoleon.personal](/_personal/Society/Government/Leader/Modern_Leaders/Napoleon.personal.md) 
+### #is_/same_as :: [Napoleon.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.personal.md) 
 
-### #is_/same_as :: [Napoleon.secret](/_secret/Society/Government/Leader/Modern_Leaders/Napoleon.secret.md)
+### #is_/same_as :: [Napoleon.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.secret.md)
 

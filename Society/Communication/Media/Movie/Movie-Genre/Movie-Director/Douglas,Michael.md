@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michael Douglas"
 - "Michael Kirk Douglas"
@@ -51,4 +51,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Douglas)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Douglas,Michael](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.md) 
+
+### #is_/same_as :: [Douglas,Michael.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.public.md) 
+
+### #is_/same_as :: [Douglas,Michael.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.internal.md) 
+
+### #is_/same_as :: [Douglas,Michael.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.protect.md) 
+
+### #is_/same_as :: [Douglas,Michael.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.private.md) 
+
+### #is_/same_as :: [Douglas,Michael.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.personal.md) 
+
+### #is_/same_as :: [Douglas,Michael.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Douglas,Michael.secret.md)
 

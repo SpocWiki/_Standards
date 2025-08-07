@@ -42,3 +42,20 @@ has_id_wikidata: Q173022
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bronchitis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bronchitis](/_Standards/bio/Medicine/Disease/Infectious_Disease/Bronchitis.md) 
+
+### #is_/same_as :: [Bronchitis.public](/_public/bio/Medicine/Disease/Infectious_Disease/Bronchitis.public.md) 
+
+### #is_/same_as :: [Bronchitis.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Bronchitis.internal.md) 
+
+### #is_/same_as :: [Bronchitis.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Bronchitis.protect.md) 
+
+### #is_/same_as :: [Bronchitis.private](/_private/bio/Medicine/Disease/Infectious_Disease/Bronchitis.private.md) 
+
+### #is_/same_as :: [Bronchitis.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Bronchitis.personal.md) 
+
+### #is_/same_as :: [Bronchitis.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Bronchitis.secret.md)
+

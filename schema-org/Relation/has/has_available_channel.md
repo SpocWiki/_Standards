@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-channel
 - available_channel

@@ -76,7 +76,7 @@ Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alveolates](Alveolates.md) 
+### #is_/same_as :: [Alveolates](/_Standards/bio/bio~Domain/Eukarya/Alveolates.md) 
 
 ### #is_/same_as :: [Alveolates.public](/_public/bio/bio~Domain/Eukarya/Alveolates.public.md) 
 

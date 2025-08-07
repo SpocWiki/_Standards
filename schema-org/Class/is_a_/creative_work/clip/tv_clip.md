@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tv-clip
 - tv_clip

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - repeat-count
 - repeat_count

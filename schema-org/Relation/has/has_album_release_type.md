@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - album-release-type
 - album_release_type

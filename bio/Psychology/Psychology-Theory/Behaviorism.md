@@ -57,3 +57,20 @@ MeSH_tree_code: F02.739.138
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Behaviorism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Behaviorism](/_Standards/bio/Psychology/Psychology-Theory/Behaviorism.md) 
+
+### #is_/same_as :: [Behaviorism.public](/_public/bio/Psychology/Psychology-Theory/Behaviorism.public.md) 
+
+### #is_/same_as :: [Behaviorism.internal](/_internal/bio/Psychology/Psychology-Theory/Behaviorism.internal.md) 
+
+### #is_/same_as :: [Behaviorism.protect](/_protect/bio/Psychology/Psychology-Theory/Behaviorism.protect.md) 
+
+### #is_/same_as :: [Behaviorism.private](/_private/bio/Psychology/Psychology-Theory/Behaviorism.private.md) 
+
+### #is_/same_as :: [Behaviorism.personal](/_personal/bio/Psychology/Psychology-Theory/Behaviorism.personal.md) 
+
+### #is_/same_as :: [Behaviorism.secret](/_secret/bio/Psychology/Psychology-Theory/Behaviorism.secret.md)
+

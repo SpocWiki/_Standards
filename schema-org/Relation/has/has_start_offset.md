@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - start-offset
 - start_offset

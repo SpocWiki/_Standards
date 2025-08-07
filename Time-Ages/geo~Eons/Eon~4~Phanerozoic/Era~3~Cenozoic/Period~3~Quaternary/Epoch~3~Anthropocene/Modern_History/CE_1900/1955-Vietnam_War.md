@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vietnam War"
 Commons_category: "Vietnam War"

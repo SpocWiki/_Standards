@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gtin8
 - gtin8

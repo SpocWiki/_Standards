@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-list-order-descending
 - item_list_order_descending

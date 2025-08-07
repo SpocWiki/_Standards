@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - first-appearance
 - first_appearance

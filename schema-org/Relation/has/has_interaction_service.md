@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interaction-service
 - interaction_service

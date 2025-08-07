@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bus-reservation
 - bus_reservation

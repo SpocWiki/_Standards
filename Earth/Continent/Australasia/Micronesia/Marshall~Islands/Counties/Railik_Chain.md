@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Railik_Chain
 confidential: public

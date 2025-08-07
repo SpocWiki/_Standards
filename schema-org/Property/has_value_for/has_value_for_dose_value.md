@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dose_value
 - dose-value

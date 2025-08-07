@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - podcast-episode
 - podcast_episode

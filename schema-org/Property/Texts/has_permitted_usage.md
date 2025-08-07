@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - permitted-usage
 - permitted_usage

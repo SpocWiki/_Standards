@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-guideline
 - medical_guideline

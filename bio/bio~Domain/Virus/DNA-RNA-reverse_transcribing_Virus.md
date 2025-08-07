@@ -1,4 +1,4 @@
-﻿---
+---
 title: "DNA-RNA Reverse Transcribing Viruses"
 ---
 

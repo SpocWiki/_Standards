@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rating_value
 - rating-value

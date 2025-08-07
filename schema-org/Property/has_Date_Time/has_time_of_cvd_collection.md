@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd-collection-date
 - cvd_collection_date

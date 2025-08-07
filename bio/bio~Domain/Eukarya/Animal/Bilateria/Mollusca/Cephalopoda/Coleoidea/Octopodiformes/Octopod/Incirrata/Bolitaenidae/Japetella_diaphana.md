@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Japetella diaphana"
 ---
 
@@ -175,7 +175,7 @@ Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Japetella_diaphana](Japetella_diaphana.md)) 
+### #is_/same_as :: [Japetella_diaphana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Japetella_diaphana.md) 
 
 ### #is_/same_as :: [Japetella_diaphana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Japetella_diaphana.public.md) 
 

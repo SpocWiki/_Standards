@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - day-of-week
 - day_of_week

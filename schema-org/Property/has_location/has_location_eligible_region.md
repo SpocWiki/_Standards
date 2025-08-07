@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eligible-region
 - eligible_region

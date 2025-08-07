@@ -30,5 +30,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Die%20Another%20Day)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Die_Another_Day,2002](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.md) 
+
+### #is_/same_as :: [Die_Another_Day,2002.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.public.md) 
+
+### #is_/same_as :: [Die_Another_Day,2002.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.internal.md) 
+
+### #is_/same_as :: [Die_Another_Day,2002.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.protect.md) 
+
+### #is_/same_as :: [Die_Another_Day,2002.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.private.md) 
+
+### #is_/same_as :: [Die_Another_Day,2002.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.personal.md) 
+
+### #is_/same_as :: [Die_Another_Day,2002.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Die_Another_Day,2002.secret.md)
 

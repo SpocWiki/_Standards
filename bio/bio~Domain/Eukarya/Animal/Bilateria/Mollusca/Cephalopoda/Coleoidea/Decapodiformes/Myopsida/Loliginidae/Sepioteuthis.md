@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepioteuthis
 ---
 
@@ -142,7 +142,7 @@ Contr. Zool., 586
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepioteuthis](Sepioteuthis.md)) 
+### #is_/same_as :: [Sepioteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.md) 
 
 ### #is_/same_as :: [Sepioteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.public.md) 
 

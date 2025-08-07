@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "William Godwin"
 has_id_wikidata: Q188569
@@ -45,4 +45,20 @@ has_id_wikidata: Q188569
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Godwin)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Godwin,William](/_Standards/Society/Communication/Media/Book/Author/Godwin,William.md) 
+
+### #is_/same_as :: [Godwin,William.public](/_public/Society/Communication/Media/Book/Author/Godwin,William.public.md) 
+
+### #is_/same_as :: [Godwin,William.internal](/_internal/Society/Communication/Media/Book/Author/Godwin,William.internal.md) 
+
+### #is_/same_as :: [Godwin,William.protect](/_protect/Society/Communication/Media/Book/Author/Godwin,William.protect.md) 
+
+### #is_/same_as :: [Godwin,William.private](/_private/Society/Communication/Media/Book/Author/Godwin,William.private.md) 
+
+### #is_/same_as :: [Godwin,William.personal](/_personal/Society/Communication/Media/Book/Author/Godwin,William.personal.md) 
+
+### #is_/same_as :: [Godwin,William.secret](/_secret/Society/Communication/Media/Book/Author/Godwin,William.secret.md)
 

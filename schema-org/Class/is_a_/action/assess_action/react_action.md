@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - react-action
 - react_action

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chtenopteryx sepioloides"
 ---
 
@@ -96,7 +96,7 @@ Sud-ouest Pacifique (cephalopodes). Cah. O.R.S.T.O.M., ser. Oceanogr.,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sepioloides](sepioloides.md)) 
+### #is_/same_as :: [sepioloides](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sepioloides.md) 
 
 ### #is_/same_as :: [sepioloides.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/sepioloides.public.md) 
 

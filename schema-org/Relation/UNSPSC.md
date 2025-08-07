@@ -1,4 +1,4 @@
-﻿---
+---
 has_location_created: 
 has_location_destroyed: 
 has_time_created: 

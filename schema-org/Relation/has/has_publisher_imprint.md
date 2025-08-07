@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publisher-imprint
 - publisher_imprint

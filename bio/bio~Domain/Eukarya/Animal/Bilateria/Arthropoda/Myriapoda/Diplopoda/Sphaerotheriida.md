@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sphaerotheriida
 ---
 
@@ -45,7 +45,7 @@ title: Sphaerotheriida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sphaerotheriida](Sphaerotheriida.md)) 
+### #is_/same_as :: [Sphaerotheriida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.md) 
 
 ### #is_/same_as :: [Sphaerotheriida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Sphaerotheriida.public.md) 
 

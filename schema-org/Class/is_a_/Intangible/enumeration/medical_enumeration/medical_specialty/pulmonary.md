@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pulmonary
 - pulmonary

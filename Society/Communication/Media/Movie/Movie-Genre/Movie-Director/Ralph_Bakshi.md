@@ -20,3 +20,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ralph%20Bakshi)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ralph_Bakshi](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.md) 
+
+### #is_/same_as :: [Ralph_Bakshi.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.public.md) 
+
+### #is_/same_as :: [Ralph_Bakshi.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.internal.md) 
+
+### #is_/same_as :: [Ralph_Bakshi.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.protect.md) 
+
+### #is_/same_as :: [Ralph_Bakshi.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.private.md) 
+
+### #is_/same_as :: [Ralph_Bakshi.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.personal.md) 
+
+### #is_/same_as :: [Ralph_Bakshi.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Ralph_Bakshi.secret.md)
+

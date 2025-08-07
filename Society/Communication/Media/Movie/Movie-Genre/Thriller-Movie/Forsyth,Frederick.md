@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frederick Forsyth"
 - "Frederick McCarthy Forsyth"
@@ -27,4 +27,21 @@ aliases:
 > By 2006, he had sold more than 70 million books in more than 30 languages.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frederick%20Forsyth) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Forsyth,Frederick](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.md) 
+
+### #is_/same_as :: [Forsyth,Frederick.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.public.md) 
+
+### #is_/same_as :: [Forsyth,Frederick.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.internal.md) 
+
+### #is_/same_as :: [Forsyth,Frederick.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.protect.md) 
+
+### #is_/same_as :: [Forsyth,Frederick.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.private.md) 
+
+### #is_/same_as :: [Forsyth,Frederick.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.personal.md) 
+
+### #is_/same_as :: [Forsyth,Frederick.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Forsyth,Frederick.secret.md)
 

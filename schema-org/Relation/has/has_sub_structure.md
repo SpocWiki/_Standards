@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-structure
 - sub_structure

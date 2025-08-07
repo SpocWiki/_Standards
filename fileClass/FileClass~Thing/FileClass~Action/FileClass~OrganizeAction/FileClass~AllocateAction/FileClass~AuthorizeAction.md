@@ -1,4 +1,4 @@
-﻿---
+---
 excludes: 
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 fields:

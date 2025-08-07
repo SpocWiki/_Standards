@@ -1,4 +1,4 @@
-﻿---
+---
 age_of_candidacy: 18
 age_of_consent: 16
 age_of_majority: 18

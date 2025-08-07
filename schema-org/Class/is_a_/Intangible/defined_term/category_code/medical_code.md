@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-code
 - medical_code

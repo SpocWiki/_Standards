@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Deuter
 - Deuterostomia
@@ -204,7 +204,7 @@ Biology and Evolution 19:762-776.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Deutero](Deutero.md)) 
+### #is_/same_as :: [Deutero](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.md) 
 
 ### #is_/same_as :: [Deutero.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero.public.md) 
 

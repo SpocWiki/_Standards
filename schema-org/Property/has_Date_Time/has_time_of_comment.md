@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comment-time
 - comment_time

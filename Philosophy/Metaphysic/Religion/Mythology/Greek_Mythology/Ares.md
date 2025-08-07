@@ -173,3 +173,20 @@ name_in_native_language: Ἄρης
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ares)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ares](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.md) 
+
+### #is_/same_as :: [Ares.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.public.md) 
+
+### #is_/same_as :: [Ares.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.internal.md) 
+
+### #is_/same_as :: [Ares.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.protect.md) 
+
+### #is_/same_as :: [Ares.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.private.md) 
+
+### #is_/same_as :: [Ares.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.personal.md) 
+
+### #is_/same_as :: [Ares.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.secret.md)
+

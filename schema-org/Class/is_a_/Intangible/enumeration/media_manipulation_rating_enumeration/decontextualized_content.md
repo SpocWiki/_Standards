@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - decontextualized-content
 - decontextualized_content

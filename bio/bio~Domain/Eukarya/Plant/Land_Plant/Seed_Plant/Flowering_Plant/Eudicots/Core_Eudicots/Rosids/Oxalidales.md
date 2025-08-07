@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Oxalidales
 title: Oxalidales
@@ -88,17 +88,17 @@ Copyright ::         © [Kurt Stüber](http://www.biolib.de/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oxalidales](Oxalidales.md)) 
+### #is_/same_as :: [Oxalidales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.md) 
 
-### #is_/same_as :: [Oxalidales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.public.md) 
+### #is_/same_as :: [Oxalidales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.public.md) 
 
-### #is_/same_as :: [Oxalidales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.internal.md) 
+### #is_/same_as :: [Oxalidales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.internal.md) 
 
-### #is_/same_as :: [Oxalidales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.protect.md) 
+### #is_/same_as :: [Oxalidales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.protect.md) 
 
-### #is_/same_as :: [Oxalidales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.private.md) 
+### #is_/same_as :: [Oxalidales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.private.md) 
 
-### #is_/same_as :: [Oxalidales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.personal.md) 
+### #is_/same_as :: [Oxalidales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.personal.md) 
 
-### #is_/same_as :: [Oxalidales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.secret.md)
+### #is_/same_as :: [Oxalidales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Oxalidales.secret.md)
 

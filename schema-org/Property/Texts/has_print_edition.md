@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - print-edition
 - print_edition

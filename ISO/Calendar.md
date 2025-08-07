@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "B9:17"
 Commons_category: Calendars
 Commons_gallery: Calendar
@@ -52,6 +52,10 @@ Unicode_character:
 - "\U0001F5D3"
 U_S_National_Archives_Identifier: 10638843
 ---
+
+# [[Calendar]] 
+
+#is_/same_as :: [[../WikiData/WD~Calendar,12132|WD~Calendar,12132]] 
 
 ## #has_/text_of_/abstract 
 

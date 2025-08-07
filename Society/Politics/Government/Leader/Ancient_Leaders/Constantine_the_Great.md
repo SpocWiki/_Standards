@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Constantine the Great"
 - "Flavius Valerius Constantinus"
@@ -133,17 +133,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Constantine_the_Great](Constantine_the_Great.md)) 
+### #is_/same_as :: [Constantine_the_Great](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.md) 
 
-### #is_/same_as :: [Constantine_the_Great.public](/_public/Society/Government/Leader/Ancient_Leaders/Constantine_the_Great.public.md) 
+### #is_/same_as :: [Constantine_the_Great.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.public.md) 
 
-### #is_/same_as :: [Constantine_the_Great.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Constantine_the_Great.internal.md) 
+### #is_/same_as :: [Constantine_the_Great.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.internal.md) 
 
-### #is_/same_as :: [Constantine_the_Great.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Constantine_the_Great.protect.md) 
+### #is_/same_as :: [Constantine_the_Great.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.protect.md) 
 
-### #is_/same_as :: [Constantine_the_Great.private](/_private/Society/Government/Leader/Ancient_Leaders/Constantine_the_Great.private.md) 
+### #is_/same_as :: [Constantine_the_Great.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.private.md) 
 
-### #is_/same_as :: [Constantine_the_Great.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Constantine_the_Great.personal.md) 
+### #is_/same_as :: [Constantine_the_Great.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.personal.md) 
 
-### #is_/same_as :: [Constantine_the_Great.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Constantine_the_Great.secret.md)
+### #is_/same_as :: [Constantine_the_Great.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.secret.md)
 

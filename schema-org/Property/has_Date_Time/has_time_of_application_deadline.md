@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - application-deadline
 - application_deadline

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Helicobasidium mompa"
 ---
 
@@ -43,7 +43,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Helicobasidium_mompa](Helicobasidium_mompa.md)) 
+### #is_/same_as :: [Helicobasidium_mompa](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.md) 
 
 ### #is_/same_as :: [Helicobasidium_mompa.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_mompa.public.md) 
 

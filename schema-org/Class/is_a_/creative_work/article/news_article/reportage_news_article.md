@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reportage-news-article
 - reportage_news_article

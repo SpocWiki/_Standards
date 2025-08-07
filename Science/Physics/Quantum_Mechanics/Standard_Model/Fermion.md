@@ -40,4 +40,19 @@ Commons_category: Fermions
 > [Wikipedia](https://en.wikipedia.org/wiki/Fermion) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fermion](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.md) 
+
+### #is_/same_as :: [Fermion.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.public.md) 
+
+### #is_/same_as :: [Fermion.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.internal.md) 
+
+### #is_/same_as :: [Fermion.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.protect.md) 
+
+### #is_/same_as :: [Fermion.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.private.md) 
+
+### #is_/same_as :: [Fermion.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.personal.md) 
+
+### #is_/same_as :: [Fermion.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion.secret.md)
 

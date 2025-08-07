@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_beds_occ
 - cvd-num-beds-occ

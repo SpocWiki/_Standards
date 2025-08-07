@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accessibility-hazard
 - accessibility_hazard

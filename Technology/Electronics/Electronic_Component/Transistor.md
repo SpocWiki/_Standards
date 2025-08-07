@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Transistors
 Dewey_Decimal_Classification:
 - 621.381528

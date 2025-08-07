@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parking-facility
 - parking_facility

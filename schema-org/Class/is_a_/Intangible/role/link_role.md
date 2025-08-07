@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - link-role
 - link_role

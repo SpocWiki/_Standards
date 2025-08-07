@@ -29,3 +29,20 @@ has_id_wikidata: Q3276756
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magenta) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Magenta](/_Standards/Technology/Design/Graphic_Design/Color/Magenta.md) 
+
+### #is_/same_as :: [Magenta.public](/_public/Technology/Design/Graphic_Design/Color/Magenta.public.md) 
+
+### #is_/same_as :: [Magenta.internal](/_internal/Technology/Design/Graphic_Design/Color/Magenta.internal.md) 
+
+### #is_/same_as :: [Magenta.protect](/_protect/Technology/Design/Graphic_Design/Color/Magenta.protect.md) 
+
+### #is_/same_as :: [Magenta.private](/_private/Technology/Design/Graphic_Design/Color/Magenta.private.md) 
+
+### #is_/same_as :: [Magenta.personal](/_personal/Technology/Design/Graphic_Design/Color/Magenta.personal.md) 
+
+### #is_/same_as :: [Magenta.secret](/_secret/Technology/Design/Graphic_Design/Color/Magenta.secret.md)
+

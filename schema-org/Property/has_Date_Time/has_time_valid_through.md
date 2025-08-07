@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - valid-through
 - valid_through

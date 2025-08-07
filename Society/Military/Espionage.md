@@ -57,3 +57,20 @@ Universal_Decimal_Classification: 341.326.12
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Espionage) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Espionage](/_Standards/Society/Military/Espionage.md) 
+
+### #is_/same_as :: [Espionage.public](/_public/Society/Military/Espionage.public.md) 
+
+### #is_/same_as :: [Espionage.internal](/_internal/Society/Military/Espionage.internal.md) 
+
+### #is_/same_as :: [Espionage.protect](/_protect/Society/Military/Espionage.protect.md) 
+
+### #is_/same_as :: [Espionage.private](/_private/Society/Military/Espionage.private.md) 
+
+### #is_/same_as :: [Espionage.personal](/_personal/Society/Military/Espionage.personal.md) 
+
+### #is_/same_as :: [Espionage.secret](/_secret/Society/Military/Espionage.secret.md)
+

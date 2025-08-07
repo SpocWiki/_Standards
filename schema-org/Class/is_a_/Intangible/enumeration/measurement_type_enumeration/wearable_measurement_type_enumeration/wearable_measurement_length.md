@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-length
 - wearable_measurement_length

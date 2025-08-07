@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mysticeti
 ---
 
@@ -150,7 +150,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mysticeti](Mysticeti.md)) 
+### #is_/same_as :: [Mysticeti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti.md) 
 
 ### #is_/same_as :: [Mysticeti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti.public.md) 
 

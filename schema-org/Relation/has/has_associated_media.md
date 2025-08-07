@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-media
 - associated_media

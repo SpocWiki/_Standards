@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - connected-to
 - connected_to

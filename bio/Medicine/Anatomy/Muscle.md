@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Muscles
 Commons_gallery: Muscle
 described_by_source:

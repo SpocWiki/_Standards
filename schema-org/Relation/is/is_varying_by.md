@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - varies-by
 - varying_by

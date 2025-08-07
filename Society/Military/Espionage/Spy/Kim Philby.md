@@ -47,3 +47,20 @@ He may have been the Model for [[Harry Lime]] in The [[Third Man(1949)]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kim%20Philby) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kim Philby](/_Standards/Society/Military/Espionage/Spy/Kim Philby.md) 
+
+### #is_/same_as :: [Kim Philby.public](/_public/Society/Military/Espionage/Spy/Kim Philby.public.md) 
+
+### #is_/same_as :: [Kim Philby.internal](/_internal/Society/Military/Espionage/Spy/Kim Philby.internal.md) 
+
+### #is_/same_as :: [Kim Philby.protect](/_protect/Society/Military/Espionage/Spy/Kim Philby.protect.md) 
+
+### #is_/same_as :: [Kim Philby.private](/_private/Society/Military/Espionage/Spy/Kim Philby.private.md) 
+
+### #is_/same_as :: [Kim Philby.personal](/_personal/Society/Military/Espionage/Spy/Kim Philby.personal.md) 
+
+### #is_/same_as :: [Kim Philby.secret](/_secret/Society/Military/Espionage/Spy/Kim Philby.secret.md)
+

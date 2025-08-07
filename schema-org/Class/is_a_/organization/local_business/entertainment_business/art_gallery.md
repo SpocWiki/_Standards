@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - art-gallery
 - art_gallery

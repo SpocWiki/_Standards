@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - audiobook-format
 - audiobook_format

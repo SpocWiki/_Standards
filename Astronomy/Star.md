@@ -100,6 +100,7 @@ unit: meters
 darkMode: false
 ```
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Star](/_Standards/Astronomy/Star.md) 
@@ -116,5 +117,3 @@ darkMode: false
 
 ### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
 
-
-![[_Star_DbFolder]]

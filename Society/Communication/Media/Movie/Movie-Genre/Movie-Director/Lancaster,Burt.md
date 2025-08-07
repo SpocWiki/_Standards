@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Burt Lancaster"
 - "Burton Stephen Lancaster"
@@ -69,4 +69,21 @@ aliases:
 > His final film role was in the Oscar-nominated [[Field_of_Dreams]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burt%20Lancaster)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lancaster,Burt](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.md) 
+
+### #is_/same_as :: [Lancaster,Burt.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.public.md) 
+
+### #is_/same_as :: [Lancaster,Burt.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.internal.md) 
+
+### #is_/same_as :: [Lancaster,Burt.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.protect.md) 
+
+### #is_/same_as :: [Lancaster,Burt.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.private.md) 
+
+### #is_/same_as :: [Lancaster,Burt.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.personal.md) 
+
+### #is_/same_as :: [Lancaster,Burt.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lancaster,Burt.secret.md)
 

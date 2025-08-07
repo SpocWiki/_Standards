@@ -1,4 +1,4 @@
-﻿---
+---
 title: Insectivora
 ---
 
@@ -116,7 +116,7 @@ Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Insectivora](Insectivora.md)) 
+### #is_/same_as :: [Insectivora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora.md) 
 
 ### #is_/same_as :: [Insectivora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - strength-unit
 - strength_unit

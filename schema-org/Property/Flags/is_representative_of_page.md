@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - representative-of-page
 - representative_of_page

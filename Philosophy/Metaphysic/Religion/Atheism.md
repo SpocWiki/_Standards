@@ -33,3 +33,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atheism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atheism](/_Standards/Philosophy/Metaphysic/Religion/Atheism.md) 
+
+### #is_/same_as :: [Atheism.public](/_public/Philosophy/Metaphysic/Religion/Atheism.public.md) 
+
+### #is_/same_as :: [Atheism.internal](/_internal/Philosophy/Metaphysic/Religion/Atheism.internal.md) 
+
+### #is_/same_as :: [Atheism.protect](/_protect/Philosophy/Metaphysic/Religion/Atheism.protect.md) 
+
+### #is_/same_as :: [Atheism.private](/_private/Philosophy/Metaphysic/Religion/Atheism.private.md) 
+
+### #is_/same_as :: [Atheism.personal](/_personal/Philosophy/Metaphysic/Religion/Atheism.personal.md) 
+
+### #is_/same_as :: [Atheism.secret](/_secret/Philosophy/Metaphysic/Religion/Atheism.secret.md)
+

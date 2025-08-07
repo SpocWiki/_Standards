@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cambarinae
 ---
 
@@ -55,7 +55,7 @@ Photo copyright © Keith A. Crandall
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cambarinae](Cambarinae.md)) 
+### #is_/same_as :: [Cambarinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae/Cambarinae.md) 
 
 ### #is_/same_as :: [Cambarinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae/Cambarinae.public.md) 
 

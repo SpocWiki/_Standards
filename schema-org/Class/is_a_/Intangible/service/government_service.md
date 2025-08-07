@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-service
 - government_service

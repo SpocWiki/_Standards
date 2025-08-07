@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Frequency
 defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle f={\\frac {1}{T}}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>f</mi>\n        <mo>=</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mi>T</mi>\n          </mfrac>\n        </mrow>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle f={\\frac {1}{T}}}</annotation>\n  </semantics>\n</math>"
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "An American Werewolf in London"
 - "American Werewolf"
@@ -20,4 +20,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/An%20American%20Werewolf%20in%20London) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [American_Werewolf_in_London](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.md) 
+
+### #is_/same_as :: [American_Werewolf_in_London.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.public.md) 
+
+### #is_/same_as :: [American_Werewolf_in_London.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.internal.md) 
+
+### #is_/same_as :: [American_Werewolf_in_London.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.protect.md) 
+
+### #is_/same_as :: [American_Werewolf_in_London.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.private.md) 
+
+### #is_/same_as :: [American_Werewolf_in_London.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.personal.md) 
+
+### #is_/same_as :: [American_Werewolf_in_London.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/American_Werewolf_in_London.secret.md)
 

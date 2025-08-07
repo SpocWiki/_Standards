@@ -1,4 +1,4 @@
-﻿---
+---
 ABS_ASCL_2011_code: 71
 aliases:
 - "Chinese language"

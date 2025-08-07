@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 9
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Sagittarius|Zodiac~Sagittarius]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Sagittarius.public|Zodiac~Sagittarius.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Sagittarius.internal|Zodiac~Sagittarius.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Sagittarius.protect|Zodiac~Sagittarius.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Sagittarius.private|Zodiac~Sagittarius.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Sagittarius.personal|Zodiac~Sagittarius.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Sagittarius.secret|Zodiac~Sagittarius.secret]] 
+
+### #is_/same_as :: [Zodiac~Sagittarius](/_Standards/Astronomy/Star~Constellation/Zodiac~Sagittarius.md) 
+
+### #is_/same_as :: [Zodiac~Sagittarius.public](/_public/Astronomy/Star~Constellation/Zodiac~Sagittarius.public.md) 
+
+### #is_/same_as :: [Zodiac~Sagittarius.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Sagittarius.internal.md) 
+
+### #is_/same_as :: [Zodiac~Sagittarius.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Sagittarius.protect.md) 
+
+### #is_/same_as :: [Zodiac~Sagittarius.private](/_private/Astronomy/Star~Constellation/Zodiac~Sagittarius.private.md) 
+
+### #is_/same_as :: [Zodiac~Sagittarius.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Sagittarius.personal.md) 
+
+### #is_/same_as :: [Zodiac~Sagittarius.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Sagittarius.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Team sport"
 Commons_category: "Sports seasons"

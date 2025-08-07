@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alcohol-consideration
 - alcohol_consideration

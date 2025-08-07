@@ -1,4 +1,4 @@
-﻿---
+---
 ABS_ASCL_2011_code: 43
 Commons_category: "Turkic languages"
 described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

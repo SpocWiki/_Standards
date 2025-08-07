@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - structural-class
 - structural_class

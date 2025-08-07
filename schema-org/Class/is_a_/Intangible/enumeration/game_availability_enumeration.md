@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-availability-enumeration
 - game_availability_enumeration

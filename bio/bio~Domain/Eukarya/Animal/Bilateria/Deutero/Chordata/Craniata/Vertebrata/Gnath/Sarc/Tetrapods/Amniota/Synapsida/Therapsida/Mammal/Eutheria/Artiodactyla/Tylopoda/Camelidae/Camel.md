@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Camelinae
 - Camel
@@ -45,8 +45,9 @@ UNSPSC_Code: 10101517
 
 # [[Camel]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Camelus,7375|WD~Camelus,7375]] 
-![](Camel/Alticamelus_alexandrae.jpg)
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Camelus,7375|WD~Camelus,7375]]  
+![](Camel/Alticamelus_alexandrae.jpg)![[Camel/Camelus_bactrianus.jpg]] 
+  
 
 > A **Camel** (from Latin: camelus and Ancient Greek: κάμηλος (kamēlos) from Ancient Semitic: gāmāl) 
 > is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as "humps" on its back. Camels have long been domesticated and, as livestock, they provide food (camel milk and meat) and textiles (fiber and felt from camel hair). Camels are working animals especially suited to their desert habitat and are a vital means of transport for passengers and cargo. There are three surviving species of camel. The one-humped dromedary makes up 94% of the world's camel population, and the two-humped Bactrian camel makes up 6%. The wild Bactrian camel is a distinct species that is not ancestral to the domestic Bactrian camel, and is now critically endangered, with fewer than 1,000 individuals.
@@ -140,7 +141,7 @@ View                 ventral, lateral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Camel](Camel.md)) 
+### #is_/same_as :: [Camel](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel.md) 
 
 ### #is_/same_as :: [Camel.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel.public.md) 
 

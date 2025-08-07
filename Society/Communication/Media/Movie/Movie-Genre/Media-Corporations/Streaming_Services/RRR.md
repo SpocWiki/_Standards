@@ -43,3 +43,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/RRR)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [RRR](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.md) 
+
+### #is_/same_as :: [RRR.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.public.md) 
+
+### #is_/same_as :: [RRR.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.internal.md) 
+
+### #is_/same_as :: [RRR.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.protect.md) 
+
+### #is_/same_as :: [RRR.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.private.md) 
+
+### #is_/same_as :: [RRR.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.personal.md) 
+
+### #is_/same_as :: [RRR.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/RRR.secret.md)
+

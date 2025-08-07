@@ -64,3 +64,20 @@ Commons_category: Battering rams
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Battering%20ram) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Battering_Ram](/_Standards/Society/Military/Military_Engineering/Battering_Ram.md) 
+
+### #is_/same_as :: [Battering_Ram.public](/_public/Society/Military/Military_Engineering/Battering_Ram.public.md) 
+
+### #is_/same_as :: [Battering_Ram.internal](/_internal/Society/Military/Military_Engineering/Battering_Ram.internal.md) 
+
+### #is_/same_as :: [Battering_Ram.protect](/_protect/Society/Military/Military_Engineering/Battering_Ram.protect.md) 
+
+### #is_/same_as :: [Battering_Ram.private](/_private/Society/Military/Military_Engineering/Battering_Ram.private.md) 
+
+### #is_/same_as :: [Battering_Ram.personal](/_personal/Society/Military/Military_Engineering/Battering_Ram.personal.md) 
+
+### #is_/same_as :: [Battering_Ram.secret](/_secret/Society/Military/Military_Engineering/Battering_Ram.secret.md)
+

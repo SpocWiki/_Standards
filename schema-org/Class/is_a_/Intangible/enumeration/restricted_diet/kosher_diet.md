@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - kosher-diet
 - kosher_diet

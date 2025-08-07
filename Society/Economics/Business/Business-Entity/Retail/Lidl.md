@@ -18,3 +18,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lidl) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lidl](/_Standards/Society/Economics/Business/Business-Entity/Retail/Lidl.md) 
+
+### #is_/same_as :: [Lidl.public](/_public/Society/Economics/Business/Business-Entity/Retail/Lidl.public.md) 
+
+### #is_/same_as :: [Lidl.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Lidl.internal.md) 
+
+### #is_/same_as :: [Lidl.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Lidl.protect.md) 
+
+### #is_/same_as :: [Lidl.private](/_private/Society/Economics/Business/Business-Entity/Retail/Lidl.private.md) 
+
+### #is_/same_as :: [Lidl.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Lidl.personal.md) 
+
+### #is_/same_as :: [Lidl.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Lidl.secret.md)
+

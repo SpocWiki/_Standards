@@ -44,4 +44,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Sandman%20(comic%20book))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sandman(Comic)](/_Standards/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).md) 
+
+### #is_/same_as :: [Sandman(Comic).public](/_public/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).public.md) 
+
+### #is_/same_as :: [Sandman(Comic).internal](/_internal/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).internal.md) 
+
+### #is_/same_as :: [Sandman(Comic).protect](/_protect/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).protect.md) 
+
+### #is_/same_as :: [Sandman(Comic).private](/_private/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).private.md) 
+
+### #is_/same_as :: [Sandman(Comic).personal](/_personal/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).personal.md) 
+
+### #is_/same_as :: [Sandman(Comic).secret](/_secret/Society/Communication/Media/Book/Author/Gaiman,Neil/Sandman(Comic).secret.md)
 

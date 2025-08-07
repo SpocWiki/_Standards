@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - willowherb
 - "evening primrose"
@@ -64,17 +64,17 @@ title: Onagraceae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Onagraceae](Onagraceae.md)) 
+### #is_/same_as :: [Onagraceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.md) 
 
-### #is_/same_as :: [Onagraceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.public.md) 
+### #is_/same_as :: [Onagraceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.public.md) 
 
-### #is_/same_as :: [Onagraceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.internal.md) 
+### #is_/same_as :: [Onagraceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.internal.md) 
 
-### #is_/same_as :: [Onagraceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.protect.md) 
+### #is_/same_as :: [Onagraceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.protect.md) 
 
-### #is_/same_as :: [Onagraceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.private.md) 
+### #is_/same_as :: [Onagraceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.private.md) 
 
-### #is_/same_as :: [Onagraceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.personal.md) 
+### #is_/same_as :: [Onagraceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.personal.md) 
 
-### #is_/same_as :: [Onagraceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.secret.md)
+### #is_/same_as :: [Onagraceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales/Onagraceae.secret.md)
 

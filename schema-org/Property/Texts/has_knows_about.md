@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - knows-about
 - knows_about

@@ -63,3 +63,20 @@ Dewey_Decimal_Classification: "538.768"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aurora) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aurora](/_Standards/Earth/Atmosphere,Earth/Aurora.md) 
+
+### #is_/same_as :: [Aurora.public](/_public/Earth/Atmosphere,Earth/Aurora.public.md) 
+
+### #is_/same_as :: [Aurora.internal](/_internal/Earth/Atmosphere,Earth/Aurora.internal.md) 
+
+### #is_/same_as :: [Aurora.protect](/_protect/Earth/Atmosphere,Earth/Aurora.protect.md) 
+
+### #is_/same_as :: [Aurora.private](/_private/Earth/Atmosphere,Earth/Aurora.private.md) 
+
+### #is_/same_as :: [Aurora.personal](/_personal/Earth/Atmosphere,Earth/Aurora.personal.md) 
+
+### #is_/same_as :: [Aurora.secret](/_secret/Earth/Atmosphere,Earth/Aurora.secret.md)
+

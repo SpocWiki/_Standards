@@ -157,3 +157,20 @@ birth_name: Robert Nesta Marley
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bob%20Marley) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marley,Bob](/_Standards/Society/Communication/Media/Music/Musician/Marley,Bob.md) 
+
+### #is_/same_as :: [Marley,Bob.public](/_public/Society/Communication/Media/Music/Musician/Marley,Bob.public.md) 
+
+### #is_/same_as :: [Marley,Bob.internal](/_internal/Society/Communication/Media/Music/Musician/Marley,Bob.internal.md) 
+
+### #is_/same_as :: [Marley,Bob.protect](/_protect/Society/Communication/Media/Music/Musician/Marley,Bob.protect.md) 
+
+### #is_/same_as :: [Marley,Bob.private](/_private/Society/Communication/Media/Music/Musician/Marley,Bob.private.md) 
+
+### #is_/same_as :: [Marley,Bob.personal](/_personal/Society/Communication/Media/Music/Musician/Marley,Bob.personal.md) 
+
+### #is_/same_as :: [Marley,Bob.secret](/_secret/Society/Communication/Media/Music/Musician/Marley,Bob.secret.md)
+

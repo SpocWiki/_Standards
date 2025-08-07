@@ -424,3 +424,19 @@ moment_generating_function: |-
 > [Wikipedia](https://en.wikipedia.org/wiki/Binomial%20distribution) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Binomial_Distribution](/_Standards/Mathematics/Probability_Theory/Binomial_Distribution.md) 
+
+### #is_/same_as :: [Binomial_Distribution.public](/_public/Mathematics/Probability_Theory/Binomial_Distribution.public.md) 
+
+### #is_/same_as :: [Binomial_Distribution.internal](/_internal/Mathematics/Probability_Theory/Binomial_Distribution.internal.md) 
+
+### #is_/same_as :: [Binomial_Distribution.protect](/_protect/Mathematics/Probability_Theory/Binomial_Distribution.protect.md) 
+
+### #is_/same_as :: [Binomial_Distribution.private](/_private/Mathematics/Probability_Theory/Binomial_Distribution.private.md) 
+
+### #is_/same_as :: [Binomial_Distribution.personal](/_personal/Mathematics/Probability_Theory/Binomial_Distribution.personal.md) 
+
+### #is_/same_as :: [Binomial_Distribution.secret](/_secret/Mathematics/Probability_Theory/Binomial_Distribution.secret.md)
+

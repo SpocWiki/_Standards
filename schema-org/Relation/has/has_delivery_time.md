@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-time
 - delivery_time

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Götz George"
 - "Götz Karl August George"
@@ -47,3 +47,21 @@ aliases:
 > His arguably best-known role is that of Duisburg detective Horst Schimanski in the TV crime series Tatort.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6tz%20George) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [George,Götz](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.md) 
+
+### #is_/same_as :: [George,Götz.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.public.md) 
+
+### #is_/same_as :: [George,Götz.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.internal.md) 
+
+### #is_/same_as :: [George,Götz.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.protect.md) 
+
+### #is_/same_as :: [George,Götz.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.private.md) 
+
+### #is_/same_as :: [George,Götz.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.personal.md) 
+
+### #is_/same_as :: [George,Götz.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/George,Götz.secret.md)
+

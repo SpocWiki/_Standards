@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree:
 - '[[_Standards/WikiData/WD~habilitation,308678]]'
 - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'

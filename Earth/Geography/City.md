@@ -1,4 +1,4 @@
-﻿---
+---
 award_received:
 - '[[_Standards/WikiData/WD~Iron_Cross,154554]]'
 - '[[_Standards/WikiData/WD~Imtiyaz_Medal,343913]]'

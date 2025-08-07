@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Philosophy of science"
 Basisklassifikation: 2.02

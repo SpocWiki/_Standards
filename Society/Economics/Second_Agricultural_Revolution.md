@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "British Agricultural Revolution"
 - "Second Agricultural Revolution"

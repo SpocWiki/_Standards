@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bed-details
 - bed_details

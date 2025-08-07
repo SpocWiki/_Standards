@@ -43,3 +43,20 @@ Das wertvollste Stück, die Epaulette mit dem großen weißen Diamanten bleibt w
 2017-03-27 Bode-Museum in Berlins Museum-Insel wird eine Big Maple Leaf 100kg Goldmünze gestohlen durch den [[../../../../../../../../_protect/Society/Sociology/Politics/German_Politics/Remmo-Clan]]. Wert ca. 4mio€ 
 crime family of Lebanese origin 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dr.No,1962](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.md) 
+
+### #is_/same_as :: [Dr.No,1962.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.public.md) 
+
+### #is_/same_as :: [Dr.No,1962.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.internal.md) 
+
+### #is_/same_as :: [Dr.No,1962.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.protect.md) 
+
+### #is_/same_as :: [Dr.No,1962.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.private.md) 
+
+### #is_/same_as :: [Dr.No,1962.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.personal.md) 
+
+### #is_/same_as :: [Dr.No,1962.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Dr.No,1962.secret.md)
+

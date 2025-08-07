@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-consumable-for
 - consumable_for

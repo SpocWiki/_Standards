@@ -1,4 +1,4 @@
-﻿---
+---
 title: Leotiomycetes
 ---
 
@@ -33,7 +33,7 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Leotiomycetes](Leotiomycetes.md)) 
+### #is_/same_as :: [Leotiomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.md) 
 
 ### #is_/same_as :: [Leotiomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Leotiomycetes.public.md) 
 

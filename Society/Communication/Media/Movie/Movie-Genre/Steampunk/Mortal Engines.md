@@ -10,5 +10,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Mortal%20Engines) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Mortal Engines](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.md) 
+
+### #is_/same_as :: [Mortal Engines.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.public.md) 
+
+### #is_/same_as :: [Mortal Engines.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.internal.md) 
+
+### #is_/same_as :: [Mortal Engines.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.protect.md) 
+
+### #is_/same_as :: [Mortal Engines.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.private.md) 
+
+### #is_/same_as :: [Mortal Engines.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.personal.md) 
+
+### #is_/same_as :: [Mortal Engines.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.secret.md)
 

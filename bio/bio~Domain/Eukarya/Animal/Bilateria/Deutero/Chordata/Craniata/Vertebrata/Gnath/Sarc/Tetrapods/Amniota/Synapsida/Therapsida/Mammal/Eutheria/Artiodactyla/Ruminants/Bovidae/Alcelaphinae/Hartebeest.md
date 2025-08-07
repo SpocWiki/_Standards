@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alcelaphus buselaphus"
 - kongoni
@@ -69,7 +69,7 @@ Copyright ::            © William M. Ciesla, Forest Health Management Internati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hartebeest](Hartebeest.md)) 
+### #is_/same_as :: [Hartebeest](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.md) 
 
 ### #is_/same_as :: [Hartebeest.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Hartebeest.public.md) 
 

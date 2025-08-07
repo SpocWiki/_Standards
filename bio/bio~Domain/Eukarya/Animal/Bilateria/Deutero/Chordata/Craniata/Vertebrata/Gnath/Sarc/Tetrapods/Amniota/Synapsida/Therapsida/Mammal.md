@@ -271,7 +271,7 @@ Copyright ::            © 1990 [Katja Schulz](mailto:treegrow@ag.arizona.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mammal](Mammal.md)) 
+### #is_/same_as :: [Mammal](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal.md) 
 
 ### #is_/same_as :: [Mammal.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal.public.md) 
 

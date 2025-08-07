@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - StackOverflow-Question
 - 
@@ -68,5 +68,19 @@ These are the Requirements from SO:
 - Follow up with additional information or clarifications as needed.
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [StackOverflow~Question](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.md) 
+
+### #is_/same_as :: [StackOverflow~Question.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.public.md) 
+
+### #is_/same_as :: [StackOverflow~Question.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.internal.md) 
+
+### #is_/same_as :: [StackOverflow~Question.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.protect.md) 
+
+### #is_/same_as :: [StackOverflow~Question.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.private.md) 
+
+### #is_/same_as :: [StackOverflow~Question.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.personal.md) 
+
+### #is_/same_as :: [StackOverflow~Question.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow/StackOverflow~Question.secret.md)
 

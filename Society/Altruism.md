@@ -49,3 +49,20 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/ALTRUIZM.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Altruism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Altruism](/_Standards/Society/Altruism.md) 
+
+### #is_/same_as :: [Altruism.public](/_public/Society/Altruism.public.md) 
+
+### #is_/same_as :: [Altruism.internal](/_internal/Society/Altruism.internal.md) 
+
+### #is_/same_as :: [Altruism.protect](/_protect/Society/Altruism.protect.md) 
+
+### #is_/same_as :: [Altruism.private](/_private/Society/Altruism.private.md) 
+
+### #is_/same_as :: [Altruism.personal](/_personal/Society/Altruism.personal.md) 
+
+### #is_/same_as :: [Altruism.secret](/_secret/Society/Altruism.secret.md)
+

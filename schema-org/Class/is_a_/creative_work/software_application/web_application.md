@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - web-application
 - web_application

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Werewolf of London"
 ---
@@ -18,4 +18,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Werewolf%20of%20London) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Werewolf_of_London](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.md) 
+
+### #is_/same_as :: [Werewolf_of_London.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.public.md) 
+
+### #is_/same_as :: [Werewolf_of_London.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.internal.md) 
+
+### #is_/same_as :: [Werewolf_of_London.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.protect.md) 
+
+### #is_/same_as :: [Werewolf_of_London.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.private.md) 
+
+### #is_/same_as :: [Werewolf_of_London.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.personal.md) 
+
+### #is_/same_as :: [Werewolf_of_London.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Werewolf_of_London.secret.md)
 

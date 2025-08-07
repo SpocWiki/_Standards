@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Magnificent Seven (2016)"
 ---
@@ -26,6 +26,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Magnificent%20Seven%20(2016%20film)) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Magnificent_Seven(2016)](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).md) 
 
+### #is_/same_as :: [Magnificent_Seven(2016).public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).public.md) 
+
+### #is_/same_as :: [Magnificent_Seven(2016).internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).internal.md) 
+
+### #is_/same_as :: [Magnificent_Seven(2016).protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).protect.md) 
+
+### #is_/same_as :: [Magnificent_Seven(2016).private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).private.md) 
+
+### #is_/same_as :: [Magnificent_Seven(2016).personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).personal.md) 
+
+### #is_/same_as :: [Magnificent_Seven(2016).secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).secret.md)
 

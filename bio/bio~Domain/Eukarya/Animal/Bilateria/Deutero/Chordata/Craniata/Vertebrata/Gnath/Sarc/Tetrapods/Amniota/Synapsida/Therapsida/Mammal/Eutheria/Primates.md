@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Primate
 - Primates
@@ -360,7 +360,7 @@ of extant primates. Nature 416:726-729.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Primates](Primates.md)) 
+### #is_/same_as :: [Primates](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.md) 
 
 ### #is_/same_as :: [Primates.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates.public.md) 
 

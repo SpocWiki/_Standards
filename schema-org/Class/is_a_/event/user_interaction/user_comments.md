@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-comments
 - user_comments

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "white supremacism"
 - "alt-right Movement"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geospatial-geometry
 - geospatial_geometry

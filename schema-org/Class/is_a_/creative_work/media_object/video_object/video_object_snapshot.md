@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-object-snapshot
 - video_object_snapshot

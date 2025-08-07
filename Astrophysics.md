@@ -69,3 +69,20 @@ Baidu_Tieba_name: 天体物理
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astrophysics) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astrophysics](/_Standards/Astrophysics.md) 
+
+### #is_/same_as :: [Astrophysics.public](/_public/Astrophysics.public.md) 
+
+### #is_/same_as :: [Astrophysics.internal](/_internal/Astrophysics.internal.md) 
+
+### #is_/same_as :: [Astrophysics.protect](/_protect/Astrophysics.protect.md) 
+
+### #is_/same_as :: [Astrophysics.private](/_private/Astrophysics.private.md) 
+
+### #is_/same_as :: [Astrophysics.personal](/_personal/Astrophysics.personal.md) 
+
+### #is_/same_as :: [Astrophysics.secret](/_secret/Astrophysics.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - physical-activity
 - physical_activity

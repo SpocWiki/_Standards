@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - acriss-code
 - acriss_code

@@ -18,3 +18,20 @@ has_id_wikidata: Q1845
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bible) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bible](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.md) 
+
+### #is_/same_as :: [Bible.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.public.md) 
+
+### #is_/same_as :: [Bible.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.internal.md) 
+
+### #is_/same_as :: [Bible.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.protect.md) 
+
+### #is_/same_as :: [Bible.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.private.md) 
+
+### #is_/same_as :: [Bible.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.personal.md) 
+
+### #is_/same_as :: [Bible.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Bible.secret.md)
+

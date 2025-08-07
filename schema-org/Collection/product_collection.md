@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - product-collection
 - product_collection

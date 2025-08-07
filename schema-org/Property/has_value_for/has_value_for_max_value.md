@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - max_value
 - max-value

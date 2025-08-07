@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comic-cover-art
 - comic_cover_art

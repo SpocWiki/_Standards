@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - total_price
 - total-price

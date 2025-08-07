@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bretton Woods Conference"
 - "Bretton Woods Agreement"

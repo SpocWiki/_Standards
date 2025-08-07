@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-office
 - government_office

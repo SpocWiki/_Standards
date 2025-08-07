@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - charitable-incorporated-organization
 - charitable_incorporated_organization

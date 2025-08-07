@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Air force"
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 358
@@ -38,4 +38,21 @@ U_S_National_Archives_Identifier: 10636847
 > Air forces are not just composed of pilots, but also rely on a significant amount of support from other personnel to operate. Logistics, security, intelligence, special operations, cyber space support, maintenance, weapons loaders, and many other specialties are required by all air forces.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Air%20force) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Air_force](/_Standards/Society/Military/War/Air_force.md) 
+
+### #is_/same_as :: [Air_force.public](/_public/Society/Military/War/Air_force.public.md) 
+
+### #is_/same_as :: [Air_force.internal](/_internal/Society/Military/War/Air_force.internal.md) 
+
+### #is_/same_as :: [Air_force.protect](/_protect/Society/Military/War/Air_force.protect.md) 
+
+### #is_/same_as :: [Air_force.private](/_private/Society/Military/War/Air_force.private.md) 
+
+### #is_/same_as :: [Air_force.personal](/_personal/Society/Military/War/Air_force.personal.md) 
+
+### #is_/same_as :: [Air_force.secret](/_secret/Society/Military/War/Air_force.secret.md)
 

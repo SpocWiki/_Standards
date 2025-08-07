@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - send-action
 - send_action

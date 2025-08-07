@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-status
 - delivery_status

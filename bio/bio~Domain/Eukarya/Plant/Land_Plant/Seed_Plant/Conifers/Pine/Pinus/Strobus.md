@@ -1,4 +1,4 @@
-﻿---
+---
 title: "subgenus Strobus"
 ---
 
@@ -40,17 +40,17 @@ title: "subgenus Strobus"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Strobus](Strobus.md)) 
+### #is_/same_as :: [Strobus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.md) 
 
-### #is_/same_as :: [Strobus.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.public.md) 
+### #is_/same_as :: [Strobus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.public.md) 
 
-### #is_/same_as :: [Strobus.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.internal.md) 
+### #is_/same_as :: [Strobus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.internal.md) 
 
-### #is_/same_as :: [Strobus.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.protect.md) 
+### #is_/same_as :: [Strobus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.protect.md) 
 
-### #is_/same_as :: [Strobus.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.private.md) 
+### #is_/same_as :: [Strobus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.private.md) 
 
-### #is_/same_as :: [Strobus.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.personal.md) 
+### #is_/same_as :: [Strobus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.personal.md) 
 
-### #is_/same_as :: [Strobus.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.secret.md)
+### #is_/same_as :: [Strobus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.secret.md)
 

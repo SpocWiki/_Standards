@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contact-option
 - contact_option

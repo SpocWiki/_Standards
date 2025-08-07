@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Epic of Gilgamesh"
 - "Gilgamesh Epic"

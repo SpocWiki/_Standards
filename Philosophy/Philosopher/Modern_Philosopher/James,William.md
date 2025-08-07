@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "William James"
 artist_files_at: '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
@@ -154,10 +154,6 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > - The Varieties of Religious Experience, an investigation of different forms of religious experience, including theories on mind-cure.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20James) 
-
-
-
-
 
 
 ## Confidential Links & Embeds: 

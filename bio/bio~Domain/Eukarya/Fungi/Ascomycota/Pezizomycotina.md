@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pezizomycotina
 ---
 
@@ -27,7 +27,7 @@ Containing group:[Ascomycota](../Ascomycota.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pezizomycotina](Pezizomycotina.md)) 
+### #is_/same_as :: [Pezizomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina.md) 
 
 ### #is_/same_as :: [Pezizomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina.public.md) 
 

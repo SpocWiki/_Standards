@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - energy-star-energy-efficiency-enumeration
 - energy_star_energy_efficiency_enumeration

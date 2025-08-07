@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - trial-design
 - trial_design

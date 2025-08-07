@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "María Eva Duarte de Perón"
 - "Eva Perón"
@@ -37,4 +37,21 @@ has_id_wikidata: Q40933
 > Eva Perón has become a part of international popular culture, most famously as the subject of the musical Evita (1976).  Cristina Álvarez Rodríguez has said that Eva Perón has never left the collective consciousness of Argentines. Cristina Fernández de Kirchner, the second female president of Argentina (after Juan Perón's third wife Isabel Perón), claims that women of her generation owe a debt to Eva Perón for "her example of passion and combativeness".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eva%20Per%C3%B3n) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Perón,Eva](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.md) 
+
+### #is_/same_as :: [Perón,Eva.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.public.md) 
+
+### #is_/same_as :: [Perón,Eva.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.internal.md) 
+
+### #is_/same_as :: [Perón,Eva.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.protect.md) 
+
+### #is_/same_as :: [Perón,Eva.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.private.md) 
+
+### #is_/same_as :: [Perón,Eva.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.personal.md) 
+
+### #is_/same_as :: [Perón,Eva.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Perón,Eva.secret.md)
 

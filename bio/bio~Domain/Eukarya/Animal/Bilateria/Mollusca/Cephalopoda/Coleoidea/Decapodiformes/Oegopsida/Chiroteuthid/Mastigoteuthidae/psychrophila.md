@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis psychrophila"
 ---
 
@@ -125,7 +125,7 @@ Mastigoteuthidae) from the Southern Ocean. Zoologichesky Zhurnal,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[psychrophila](psychrophila.md)) 
+### #is_/same_as :: [psychrophila](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.md) 
 
 ### #is_/same_as :: [psychrophila.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cash-back
 - paying_cash_back

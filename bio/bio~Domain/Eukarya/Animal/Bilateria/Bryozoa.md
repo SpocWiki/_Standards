@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bryozoa
 ---
 
@@ -100,7 +100,7 @@ Source Collection   [BioLib Online Library of Biological Books](http://www.bioli
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bryozoa](Bryozoa.md)) 
+### #is_/same_as :: [Bryozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.md) 
 
 ### #is_/same_as :: [Bryozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Bryozoa.public.md) 
 

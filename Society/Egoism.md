@@ -33,3 +33,20 @@ Commons_category: Selfishness
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Egoism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Egoism](/_Standards/Society/Egoism.md) 
+
+### #is_/same_as :: [Egoism.public](/_public/Society/Egoism.public.md) 
+
+### #is_/same_as :: [Egoism.internal](/_internal/Society/Egoism.internal.md) 
+
+### #is_/same_as :: [Egoism.protect](/_protect/Society/Egoism.protect.md) 
+
+### #is_/same_as :: [Egoism.private](/_private/Society/Egoism.private.md) 
+
+### #is_/same_as :: [Egoism.personal](/_personal/Society/Egoism.personal.md) 
+
+### #is_/same_as :: [Egoism.secret](/_secret/Society/Egoism.secret.md)
+

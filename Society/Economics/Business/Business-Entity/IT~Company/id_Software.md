@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "id Software LLC"
 - "id Software"
@@ -29,4 +29,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Id%20Software)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [id_Software](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/id_Software.md) 
+
+### #is_/same_as :: [id_Software.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/id_Software.public.md) 
+
+### #is_/same_as :: [id_Software.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/id_Software.internal.md) 
+
+### #is_/same_as :: [id_Software.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/id_Software.protect.md) 
+
+### #is_/same_as :: [id_Software.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/id_Software.private.md) 
+
+### #is_/same_as :: [id_Software.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/id_Software.personal.md) 
+
+### #is_/same_as :: [id_Software.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/id_Software.secret.md)
 

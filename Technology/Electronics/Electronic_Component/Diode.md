@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Diodes
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 has_id_wikidata: Q11656

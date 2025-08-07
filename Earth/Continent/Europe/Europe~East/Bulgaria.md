@@ -482,15 +482,15 @@ Sub-region_Name ::  [[Eastern Europe]]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 100 ]
-
-
+[	ISO3166-1-numeric	 :: 100 ] 
 
 SpocWebEntityId: 26846
 isDeleted: false
 confidential: public
 [ISO2::BG]
 [ISO3::BGR] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]] 
 
 ## #has_/map  
 

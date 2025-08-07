@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-identifier
 - id_legislation

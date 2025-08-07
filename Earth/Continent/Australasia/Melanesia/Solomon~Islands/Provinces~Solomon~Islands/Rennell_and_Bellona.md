@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rennell_and_Bellona
 confidential: public

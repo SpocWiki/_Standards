@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oryzomyini
 ---
 
@@ -76,7 +76,7 @@ Life Cycle Stage ::     Adult
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oryzomyini](Oryzomyini.md)) 
+### #is_/same_as :: [Oryzomyini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Oryzomyini.md) 
 
 ### #is_/same_as :: [Oryzomyini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Oryzomyini.public.md) 
 

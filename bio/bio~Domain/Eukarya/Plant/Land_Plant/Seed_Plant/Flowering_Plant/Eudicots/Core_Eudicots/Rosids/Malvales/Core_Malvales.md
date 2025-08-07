@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Core Malvales"
 ---
 
@@ -118,17 +118,17 @@ Copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany L
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Core_Malvales](Core_Malvales.md)) 
+### #is_/same_as :: [Core_Malvales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.md) 
 
-### #is_/same_as :: [Core_Malvales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.public.md) 
+### #is_/same_as :: [Core_Malvales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.public.md) 
 
-### #is_/same_as :: [Core_Malvales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.internal.md) 
+### #is_/same_as :: [Core_Malvales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.internal.md) 
 
-### #is_/same_as :: [Core_Malvales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.protect.md) 
+### #is_/same_as :: [Core_Malvales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.protect.md) 
 
-### #is_/same_as :: [Core_Malvales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.private.md) 
+### #is_/same_as :: [Core_Malvales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.private.md) 
 
-### #is_/same_as :: [Core_Malvales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.personal.md) 
+### #is_/same_as :: [Core_Malvales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.personal.md) 
 
-### #is_/same_as :: [Core_Malvales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.secret.md)
+### #is_/same_as :: [Core_Malvales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.secret.md)
 

@@ -46,3 +46,20 @@ NBN_System_Key: NBNSYS0000159361
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anatidae) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.md) 
+
+### #is_/same_as :: [Anatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.public.md) 
+
+### #is_/same_as :: [Anatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.internal.md) 
+
+### #is_/same_as :: [Anatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.protect.md) 
+
+### #is_/same_as :: [Anatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.private.md) 
+
+### #is_/same_as :: [Anatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.personal.md) 
+
+### #is_/same_as :: [Anatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae.secret.md)
+

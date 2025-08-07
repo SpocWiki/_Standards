@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ingmar Bergman"
 archives_at: '[[_Standards/WikiData/WD~Cinémathèque_Française,174274]]'

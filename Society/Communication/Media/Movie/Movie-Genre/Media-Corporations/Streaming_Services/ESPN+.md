@@ -36,3 +36,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ESPN+)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ESPN+](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.md) 
+
+### #is_/same_as :: [ESPN+.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.public.md) 
+
+### #is_/same_as :: [ESPN+.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.internal.md) 
+
+### #is_/same_as :: [ESPN+.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.protect.md) 
+
+### #is_/same_as :: [ESPN+.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.private.md) 
+
+### #is_/same_as :: [ESPN+.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.personal.md) 
+
+### #is_/same_as :: [ESPN+.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/ESPN+.secret.md)
+

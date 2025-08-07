@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Special relativity"
 Commons_category: "Special relativity"

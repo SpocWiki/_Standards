@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - physical-requirement
 - physical_requirement

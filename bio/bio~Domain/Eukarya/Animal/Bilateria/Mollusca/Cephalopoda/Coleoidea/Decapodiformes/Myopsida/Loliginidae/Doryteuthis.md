@@ -1,4 +1,4 @@
-﻿---
+---
 title: Doryteuthis
 ---
 
@@ -121,7 +121,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Doryteuthis](Doryteuthis.md)) 
+### #is_/same_as :: [Doryteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.md) 
 
 ### #is_/same_as :: [Doryteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Doryteuthis.public.md) 
 

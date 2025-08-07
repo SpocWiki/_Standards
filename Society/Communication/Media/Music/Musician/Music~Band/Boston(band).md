@@ -36,3 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Boston%20(band))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boston(band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).md) 
+
+### #is_/same_as :: [Boston(band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).public.md) 
+
+### #is_/same_as :: [Boston(band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).internal.md) 
+
+### #is_/same_as :: [Boston(band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).protect.md) 
+
+### #is_/same_as :: [Boston(band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).private.md) 
+
+### #is_/same_as :: [Boston(band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).personal.md) 
+
+### #is_/same_as :: [Boston(band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(band).secret.md)
+

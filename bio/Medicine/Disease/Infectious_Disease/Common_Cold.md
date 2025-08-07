@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Common cold"
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - receive-action
 - receive_action

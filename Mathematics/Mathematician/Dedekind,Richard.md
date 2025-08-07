@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Richard Dedekind"
 - "Julius Wilhelm Richard Dedekind"

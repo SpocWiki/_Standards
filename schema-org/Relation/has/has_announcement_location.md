@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - announcement-location
 - announcement_location

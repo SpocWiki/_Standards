@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Latin Script"
 - "Roman Script"

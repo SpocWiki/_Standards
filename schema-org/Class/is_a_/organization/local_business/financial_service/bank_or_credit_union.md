@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bank-or-credit-union
 - bank_or_credit_union

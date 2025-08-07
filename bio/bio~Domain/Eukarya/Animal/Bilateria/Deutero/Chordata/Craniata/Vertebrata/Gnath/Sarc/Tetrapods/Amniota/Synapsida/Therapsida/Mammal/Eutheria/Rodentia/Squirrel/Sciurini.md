@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sciurini
 ---
 
@@ -69,7 +69,7 @@ Containing group: [Squirrel](../Squirrel.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sciurini](Sciurini.md)) 
+### #is_/same_as :: [Sciurini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Sciurini.md) 
 
 ### #is_/same_as :: [Sciurini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Sciurini.public.md) 
 

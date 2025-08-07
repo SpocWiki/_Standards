@@ -89,5 +89,19 @@ Commons_category: Algorithms
 > [Wikipedia](https://en.wikipedia.org/wiki/Algorithm) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Algorithm](/_Standards/Mathematics/Algorithm.md) 
+
+### #is_/same_as :: [Algorithm.public](/_public/Mathematics/Algorithm.public.md) 
+
+### #is_/same_as :: [Algorithm.internal](/_internal/Mathematics/Algorithm.internal.md) 
+
+### #is_/same_as :: [Algorithm.protect](/_protect/Mathematics/Algorithm.protect.md) 
+
+### #is_/same_as :: [Algorithm.private](/_private/Mathematics/Algorithm.private.md) 
+
+### #is_/same_as :: [Algorithm.personal](/_personal/Mathematics/Algorithm.personal.md) 
+
+### #is_/same_as :: [Algorithm.secret](/_secret/Mathematics/Algorithm.secret.md)
 

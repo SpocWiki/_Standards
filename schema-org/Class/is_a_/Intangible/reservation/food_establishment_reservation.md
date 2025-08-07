@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - food-establishment-reservation
 - food_establishment_reservation

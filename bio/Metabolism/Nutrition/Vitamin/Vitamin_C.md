@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Vitamin_C
 - VitC

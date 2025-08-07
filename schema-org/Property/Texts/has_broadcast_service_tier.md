@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-service-tier
 - broadcast_service_tier

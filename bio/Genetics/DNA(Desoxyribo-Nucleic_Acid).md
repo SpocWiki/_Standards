@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20DNA-Doppelhelix%2020220603.stl"
 Biology_Online_Biology_Dictionary_entry: deoxyribonucleic-acid
 CAS_Registry_Number: 9007-49-2

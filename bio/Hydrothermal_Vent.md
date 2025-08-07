@@ -42,4 +42,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrothermal%20vent) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hydrothermal_Vent](/_Standards/bio/Hydrothermal_Vent.md) 
+
+### #is_/same_as :: [Hydrothermal_Vent.public](/_public/bio/Hydrothermal_Vent.public.md) 
+
+### #is_/same_as :: [Hydrothermal_Vent.internal](/_internal/bio/Hydrothermal_Vent.internal.md) 
+
+### #is_/same_as :: [Hydrothermal_Vent.protect](/_protect/bio/Hydrothermal_Vent.protect.md) 
+
+### #is_/same_as :: [Hydrothermal_Vent.private](/_private/bio/Hydrothermal_Vent.private.md) 
+
+### #is_/same_as :: [Hydrothermal_Vent.personal](/_personal/bio/Hydrothermal_Vent.personal.md) 
+
+### #is_/same_as :: [Hydrothermal_Vent.secret](/_secret/bio/Hydrothermal_Vent.secret.md)
 

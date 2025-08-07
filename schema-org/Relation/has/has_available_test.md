@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-test
 - available_test

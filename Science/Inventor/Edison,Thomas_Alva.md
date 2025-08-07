@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thomas Edison"
 - "Thomas Alva Edison"

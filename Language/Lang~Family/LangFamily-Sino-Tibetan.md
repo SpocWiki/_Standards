@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sino-Tibetan languages"
 Commons_category: "Sino-Tibetan languages"

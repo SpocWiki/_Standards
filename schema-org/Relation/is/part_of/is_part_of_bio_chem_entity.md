@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-part-of-bio-chem-entity
 - part_of_bio_chem_entity

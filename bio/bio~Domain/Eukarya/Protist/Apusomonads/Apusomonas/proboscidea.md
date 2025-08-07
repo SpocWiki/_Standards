@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Apusomonas proboscidea"
 ---
 
@@ -84,7 +84,7 @@ soil. Archiv für Protistenkunde 116:254-269.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[proboscidea](proboscidea.md)) 
+### #is_/same_as :: [proboscidea](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/proboscidea.md) 
 
 ### #is_/same_as :: [proboscidea.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/proboscidea.public.md) 
 

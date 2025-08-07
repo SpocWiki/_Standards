@@ -36,3 +36,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Verhoeven)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Verhoeven,Paul](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.md) 
+
+### #is_/same_as :: [Verhoeven,Paul.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.public.md) 
+
+### #is_/same_as :: [Verhoeven,Paul.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.internal.md) 
+
+### #is_/same_as :: [Verhoeven,Paul.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.protect.md) 
+
+### #is_/same_as :: [Verhoeven,Paul.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.private.md) 
+
+### #is_/same_as :: [Verhoeven,Paul.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.personal.md) 
+
+### #is_/same_as :: [Verhoeven,Paul.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Verhoeven,Paul.secret.md)
+

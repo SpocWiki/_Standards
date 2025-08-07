@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cambarellinae
 ---
 
@@ -35,7 +35,7 @@ Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cambarellinae](Cambarellinae.md)) 
+### #is_/same_as :: [Cambarellinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae/Cambarellinae.md) 
 
 ### #is_/same_as :: [Cambarellinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae/Cambarellinae.public.md) 
 

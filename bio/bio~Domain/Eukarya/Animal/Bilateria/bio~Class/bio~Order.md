@@ -66,7 +66,7 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bio~Order](bio~Order.md)) 
+### #is_/same_as :: [bio~Order](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.md) 
 
 ### #is_/same_as :: [bio~Order.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - short-story
 - short_story

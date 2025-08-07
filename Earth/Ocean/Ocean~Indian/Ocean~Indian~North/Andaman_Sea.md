@@ -62,3 +62,20 @@ P8189: "987007294728305171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andaman%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Andaman_Sea](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.md) 
+
+### #is_/same_as :: [Andaman_Sea.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.public.md) 
+
+### #is_/same_as :: [Andaman_Sea.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.internal.md) 
+
+### #is_/same_as :: [Andaman_Sea.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.protect.md) 
+
+### #is_/same_as :: [Andaman_Sea.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.private.md) 
+
+### #is_/same_as :: [Andaman_Sea.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.personal.md) 
+
+### #is_/same_as :: [Andaman_Sea.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.secret.md)
+

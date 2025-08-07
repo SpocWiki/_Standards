@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - update-action
 - update_action

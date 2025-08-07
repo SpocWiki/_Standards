@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_c19hosp_pats
 - cvd-num-c19hosp-pats

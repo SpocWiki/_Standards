@@ -1,4 +1,4 @@
-﻿---
+---
 title: Neanuridae
 ---
 
@@ -54,7 +54,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Neanuridae](Neanuridae.md)) 
+### #is_/same_as :: [Neanuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.md) 
 
 ### #is_/same_as :: [Neanuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha/Neanuridae.public.md) 
 

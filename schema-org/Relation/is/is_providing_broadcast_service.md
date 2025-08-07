@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - provides-broadcast-service
 - providing_broadcast_service

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Edwardsiidae
 ---
 
@@ -91,7 +91,7 @@ Lab, University of California is gratefully acknowledged.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Edwardsiidae](Edwardsiidae.md)) 
+### #is_/same_as :: [Edwardsiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.md) 
 
 ### #is_/same_as :: [Edwardsiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.public.md) 
 

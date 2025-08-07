@@ -52,3 +52,20 @@ male_form_of_label: Sekreterê Giştî yê Neteweyên Yekbûyî
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Secretary-General%20of%20the%20United%20Nations) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [UN~General_Secretary](/_Standards/UN(United_Nations)/UN~General_Secretary.md) 
+
+### #is_/same_as :: [UN~General_Secretary.public](/_public/UN(United_Nations)/UN~General_Secretary.public.md) 
+
+### #is_/same_as :: [UN~General_Secretary.internal](/_internal/UN(United_Nations)/UN~General_Secretary.internal.md) 
+
+### #is_/same_as :: [UN~General_Secretary.protect](/_protect/UN(United_Nations)/UN~General_Secretary.protect.md) 
+
+### #is_/same_as :: [UN~General_Secretary.private](/_private/UN(United_Nations)/UN~General_Secretary.private.md) 
+
+### #is_/same_as :: [UN~General_Secretary.personal](/_personal/UN(United_Nations)/UN~General_Secretary.personal.md) 
+
+### #is_/same_as :: [UN~General_Secretary.secret](/_secret/UN(United_Nations)/UN~General_Secretary.secret.md)
+

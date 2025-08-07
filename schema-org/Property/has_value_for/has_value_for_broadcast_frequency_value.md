@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast_frequency_value
 - broadcast-frequency-value

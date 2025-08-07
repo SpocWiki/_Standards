@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "European Union"
 - European_Union

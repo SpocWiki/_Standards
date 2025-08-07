@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Oreotragus oreotragus"
 - Oreotragus
@@ -70,7 +70,7 @@ Copyright ::            © 2006 [Ben Seese](http://flickr.com/people/benseese/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Klipspringer](Klipspringer.md)) 
+### #is_/same_as :: [Klipspringer](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Klipspringer.md) 
 
 ### #is_/same_as :: [Klipspringer.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Klipspringer.public.md) 
 

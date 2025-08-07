@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - seating-map
 - seating_map

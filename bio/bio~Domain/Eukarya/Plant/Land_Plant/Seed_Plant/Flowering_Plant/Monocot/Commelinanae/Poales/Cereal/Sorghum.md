@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q332062
 ---
 
@@ -13,17 +13,17 @@ has_id_wikidata: Q332062
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sorghum](Sorghum.md)) 
+### #is_/same_as :: [Sorghum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.md) 
 
-### #is_/same_as :: [Sorghum.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.public.md) 
+### #is_/same_as :: [Sorghum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.public.md) 
 
-### #is_/same_as :: [Sorghum.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.internal.md) 
+### #is_/same_as :: [Sorghum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.internal.md) 
 
-### #is_/same_as :: [Sorghum.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.protect.md) 
+### #is_/same_as :: [Sorghum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.protect.md) 
 
-### #is_/same_as :: [Sorghum.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.private.md) 
+### #is_/same_as :: [Sorghum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.private.md) 
 
-### #is_/same_as :: [Sorghum.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.personal.md) 
+### #is_/same_as :: [Sorghum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.personal.md) 
 
-### #is_/same_as :: [Sorghum.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.secret.md)
+### #is_/same_as :: [Sorghum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Sorghum.secret.md)
 

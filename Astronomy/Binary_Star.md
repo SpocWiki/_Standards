@@ -49,3 +49,20 @@ Commons_gallery: Binary Star
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Binary%20star) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Binary_Star](/_Standards/Astronomy/Binary_Star.md) 
+
+### #is_/same_as :: [Binary_Star.public](/_public/Astronomy/Binary_Star.public.md) 
+
+### #is_/same_as :: [Binary_Star.internal](/_internal/Astronomy/Binary_Star.internal.md) 
+
+### #is_/same_as :: [Binary_Star.protect](/_protect/Astronomy/Binary_Star.protect.md) 
+
+### #is_/same_as :: [Binary_Star.private](/_private/Astronomy/Binary_Star.private.md) 
+
+### #is_/same_as :: [Binary_Star.personal](/_personal/Astronomy/Binary_Star.personal.md) 
+
+### #is_/same_as :: [Binary_Star.secret](/_secret/Astronomy/Binary_Star.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Kubanochoerinae
 ---
 
@@ -43,7 +43,7 @@ title: Kubanochoerinae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Kubanochoerinae](Kubanochoerinae.md)) 
+### #is_/same_as :: [Kubanochoerinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Kubanochoerinae.md) 
 
 ### #is_/same_as :: [Kubanochoerinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Kubanochoerinae.public.md) 
 

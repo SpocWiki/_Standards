@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - definitive-legal-value
 - definitive_legal_value

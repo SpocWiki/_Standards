@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-at-kiosk
 - return_at_kiosk

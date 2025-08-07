@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hindu-temple
 - hindu_temple

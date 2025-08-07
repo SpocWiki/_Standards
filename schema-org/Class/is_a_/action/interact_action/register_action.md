@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - register-action
 - register_action

@@ -107,3 +107,20 @@ P8189: "987007283153005171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barents%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barents_Sea](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.md) 
+
+### #is_/same_as :: [Barents_Sea.public](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.public.md) 
+
+### #is_/same_as :: [Barents_Sea.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.internal.md) 
+
+### #is_/same_as :: [Barents_Sea.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.protect.md) 
+
+### #is_/same_as :: [Barents_Sea.private](/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.private.md) 
+
+### #is_/same_as :: [Barents_Sea.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.personal.md) 
+
+### #is_/same_as :: [Barents_Sea.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic/Barents_Sea.secret.md)
+

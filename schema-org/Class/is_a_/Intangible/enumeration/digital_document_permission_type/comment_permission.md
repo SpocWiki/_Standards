@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comment-permission
 - comment_permission

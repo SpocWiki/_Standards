@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - availability-ends
 - availability_ends

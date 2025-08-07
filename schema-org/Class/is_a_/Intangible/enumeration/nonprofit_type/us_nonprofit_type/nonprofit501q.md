@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501q
 - nonprofit501q

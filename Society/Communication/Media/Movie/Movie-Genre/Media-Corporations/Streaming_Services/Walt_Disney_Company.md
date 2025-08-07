@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Walt Disney Company"
 ---
@@ -30,4 +30,21 @@ aliases:
 > Disney is one of the biggest and best-known companies in the world and has been ranked number 53 on the 2022 Fortune 500 list of biggest companies in the United States by revenue. In 2023, the company's seat in Forbes Global 2000 was 87. Since its founding, the company has won 135 Academy Awards, 26 of which have been awarded to Walt. The company has been said to have produced some of the greatest films of all time, as well as revolutionizing the theme park industry. The company, which has been public since 1940, trades on the New York Stock Exchange (NYSE) with ticker symbol DIS and has been a component of the Dow Jones Industrial Average since 1991. In August 2020, about two-thirds of the stock was owned by large financial institutions. The company celebrated their 100th anniversary on October 16, 2023.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Walt%20Disney%20Company)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Walt_Disney_Company](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.md) 
+
+### #is_/same_as :: [Walt_Disney_Company.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.public.md) 
+
+### #is_/same_as :: [Walt_Disney_Company.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.internal.md) 
+
+### #is_/same_as :: [Walt_Disney_Company.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.protect.md) 
+
+### #is_/same_as :: [Walt_Disney_Company.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.private.md) 
+
+### #is_/same_as :: [Walt_Disney_Company.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.personal.md) 
+
+### #is_/same_as :: [Walt_Disney_Company.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.secret.md)
 

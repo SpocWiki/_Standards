@@ -1,4 +1,4 @@
-﻿---
+---
 award_received: '[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769]]'
 Commons_category: "Fagopyrum esculentum"
 Commons_gallery: "Fagopyrum esculentum"
@@ -106,17 +106,17 @@ UNII: B10M69172N
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Buckwheat](Buckwheat.md)) 
+### #is_/same_as :: [Buckwheat](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.md) 
 
-### #is_/same_as :: [Buckwheat.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.public.md) 
+### #is_/same_as :: [Buckwheat.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.public.md) 
 
-### #is_/same_as :: [Buckwheat.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.internal.md) 
+### #is_/same_as :: [Buckwheat.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.internal.md) 
 
-### #is_/same_as :: [Buckwheat.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.protect.md) 
+### #is_/same_as :: [Buckwheat.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.protect.md) 
 
-### #is_/same_as :: [Buckwheat.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.private.md) 
+### #is_/same_as :: [Buckwheat.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.private.md) 
 
-### #is_/same_as :: [Buckwheat.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.personal.md) 
+### #is_/same_as :: [Buckwheat.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.personal.md) 
 
-### #is_/same_as :: [Buckwheat.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.secret.md)
+### #is_/same_as :: [Buckwheat.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.secret.md)
 

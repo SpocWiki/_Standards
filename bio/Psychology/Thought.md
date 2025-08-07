@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Thinking
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 different_from: '[[_Standards/WikiData/WD~thinking_process,7784616]]'

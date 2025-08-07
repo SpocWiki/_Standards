@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Eoarchean
 end_time: -3600000000
 has_id_wikidata: Q731470

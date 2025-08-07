@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - allergies-health-aspect
 - allergies_health_aspect

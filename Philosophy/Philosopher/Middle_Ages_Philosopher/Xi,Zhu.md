@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Chu Hsi"
 - "Zhu Xi"

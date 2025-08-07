@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-responsible
 - legislation_responsible

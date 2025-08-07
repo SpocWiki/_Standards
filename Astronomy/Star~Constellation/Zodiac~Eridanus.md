@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Eridanus|Zodiac~Eridanus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Eridanus.public|Zodiac~Eridanus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Eridanus.internal|Zodiac~Eridanus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Eridanus.protect|Zodiac~Eridanus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Eridanus.private|Zodiac~Eridanus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Eridanus.personal|Zodiac~Eridanus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Eridanus.secret|Zodiac~Eridanus.secret]] 
+
+### #is_/same_as :: [Zodiac~Eridanus](/_Standards/Astronomy/Star~Constellation/Zodiac~Eridanus.md) 
+
+### #is_/same_as :: [Zodiac~Eridanus.public](/_public/Astronomy/Star~Constellation/Zodiac~Eridanus.public.md) 
+
+### #is_/same_as :: [Zodiac~Eridanus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Eridanus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Eridanus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Eridanus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Eridanus.private](/_private/Astronomy/Star~Constellation/Zodiac~Eridanus.private.md) 
+
+### #is_/same_as :: [Zodiac~Eridanus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Eridanus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Eridanus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Eridanus.secret.md)
+

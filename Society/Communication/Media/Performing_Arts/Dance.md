@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: NS
 Commons_category: Dance
 Commons_gallery: Dance

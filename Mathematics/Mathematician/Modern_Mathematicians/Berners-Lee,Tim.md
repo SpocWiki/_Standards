@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
 affiliation_string:
 - "MIT Computer Science and Artificial Intelligence Laboratory"

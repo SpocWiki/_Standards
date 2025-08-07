@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Vowels
 depicted_by: '[[_Standards/WikiData/WD~vowel_letter,9398093]]'
 described_by_source:

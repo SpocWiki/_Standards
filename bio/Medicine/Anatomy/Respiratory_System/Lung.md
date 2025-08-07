@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]'
 arterial_supply: '[[_Standards/WikiData/WD~pulmonary_artery,206280]]'
 Baidu_Tieba_name: 肺

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-unlimited-window
 - merchant_return_unlimited_window

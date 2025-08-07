@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Meiji Restoration"
 Commons_category: "Meiji Restoration"

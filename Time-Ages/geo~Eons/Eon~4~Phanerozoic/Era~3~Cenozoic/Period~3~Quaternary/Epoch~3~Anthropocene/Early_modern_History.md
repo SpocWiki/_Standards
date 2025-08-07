@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Early modern history"
 - "early modern period"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-group-plus
 - wearable_size_group_plus

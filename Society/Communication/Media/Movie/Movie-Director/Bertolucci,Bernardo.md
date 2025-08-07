@@ -51,3 +51,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bernardo%20Bertolucci) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bertolucci,Bernardo](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.md) 
+
+### #is_/same_as :: [Bertolucci,Bernardo.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.public.md) 
+
+### #is_/same_as :: [Bertolucci,Bernardo.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.internal.md) 
+
+### #is_/same_as :: [Bertolucci,Bernardo.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.protect.md) 
+
+### #is_/same_as :: [Bertolucci,Bernardo.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.private.md) 
+
+### #is_/same_as :: [Bertolucci,Bernardo.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.personal.md) 
+
+### #is_/same_as :: [Bertolucci,Bernardo.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.secret.md)
+

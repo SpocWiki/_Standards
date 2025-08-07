@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hours-available
 - hours_available

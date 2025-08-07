@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-performed
 - work_performed

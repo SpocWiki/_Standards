@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "autonomous sensory meridian response"
 ---
@@ -23,5 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/ASMR) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ASMR](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.md) 
+
+### #is_/same_as :: [ASMR.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.public.md) 
+
+### #is_/same_as :: [ASMR.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.internal.md) 
+
+### #is_/same_as :: [ASMR.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.protect.md) 
+
+### #is_/same_as :: [ASMR.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.private.md) 
+
+### #is_/same_as :: [ASMR.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.personal.md) 
+
+### #is_/same_as :: [ASMR.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/ASMR.secret.md)
 

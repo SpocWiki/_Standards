@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_c19overflow_pats
 - cvd-num-c19overflow-pats

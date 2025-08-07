@@ -50,3 +50,20 @@ Commons_category: Becquerel (unit)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Becquerel) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Becquerel](/_Standards/Dimension/Dim~Time/Becquerel.md) 
+
+### #is_/same_as :: [Becquerel.public](/_public/Dimension/Dim~Time/Becquerel.public.md) 
+
+### #is_/same_as :: [Becquerel.internal](/_internal/Dimension/Dim~Time/Becquerel.internal.md) 
+
+### #is_/same_as :: [Becquerel.protect](/_protect/Dimension/Dim~Time/Becquerel.protect.md) 
+
+### #is_/same_as :: [Becquerel.private](/_private/Dimension/Dim~Time/Becquerel.private.md) 
+
+### #is_/same_as :: [Becquerel.personal](/_personal/Dimension/Dim~Time/Becquerel.personal.md) 
+
+### #is_/same_as :: [Becquerel.secret](/_secret/Dimension/Dim~Time/Becquerel.secret.md)
+

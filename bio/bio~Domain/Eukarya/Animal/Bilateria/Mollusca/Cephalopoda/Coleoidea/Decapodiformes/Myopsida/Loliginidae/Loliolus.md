@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loliolus
 ---
 
@@ -170,7 +170,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Loliolus](Loliolus.md)) 
+### #is_/same_as :: [Loliolus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Loliolus.md) 
 
 ### #is_/same_as :: [Loliolus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Loliolus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bed-and-breakfast
 - bed_and_breakfast

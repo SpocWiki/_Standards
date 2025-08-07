@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-play-mode
 - game_play_mode

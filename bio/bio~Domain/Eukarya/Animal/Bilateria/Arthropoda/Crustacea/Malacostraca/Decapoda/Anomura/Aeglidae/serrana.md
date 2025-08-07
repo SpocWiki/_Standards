@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla serrana"
 ---
 
@@ -126,7 +126,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[serrana](serrana.md)) 
+### #is_/same_as :: [serrana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/serrana.md) 
 
 ### #is_/same_as :: [serrana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/serrana.public.md) 
 

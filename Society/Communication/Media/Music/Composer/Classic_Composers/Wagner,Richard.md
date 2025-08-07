@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Richard Wagner"
 - "Wilhelm Richard Wagner"

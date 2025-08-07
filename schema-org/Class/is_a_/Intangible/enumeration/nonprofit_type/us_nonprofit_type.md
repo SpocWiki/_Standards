@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - us-nonprofit-type
 - us_nonprofit_type

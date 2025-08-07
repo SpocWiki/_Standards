@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-instances
 - instances

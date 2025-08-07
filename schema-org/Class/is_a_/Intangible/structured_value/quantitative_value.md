@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - quantitative-value
 - quantitative_value

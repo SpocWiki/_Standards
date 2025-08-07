@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publishing-principles
 - publishing_principles

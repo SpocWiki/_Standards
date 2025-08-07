@@ -18,3 +18,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Threads%20(social%20network)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Threads(Meta)](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).md) 
+
+### #is_/same_as :: [Threads(Meta).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).public.md) 
+
+### #is_/same_as :: [Threads(Meta).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).internal.md) 
+
+### #is_/same_as :: [Threads(Meta).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).protect.md) 
+
+### #is_/same_as :: [Threads(Meta).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).private.md) 
+
+### #is_/same_as :: [Threads(Meta).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).personal.md) 
+
+### #is_/same_as :: [Threads(Meta).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Threads(Meta).secret.md)
+

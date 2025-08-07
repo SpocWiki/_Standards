@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alignment-type
 - alignment_type

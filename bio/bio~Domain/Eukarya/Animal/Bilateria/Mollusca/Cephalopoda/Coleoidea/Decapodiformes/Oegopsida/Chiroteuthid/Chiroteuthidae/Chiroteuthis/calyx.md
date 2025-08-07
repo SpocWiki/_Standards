@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis calyx"
 ---
 
@@ -157,7 +157,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[calyx](calyx.md)) 
+### #is_/same_as :: [calyx](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/calyx.md) 
 
 ### #is_/same_as :: [calyx.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/calyx.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Hard disks"
 Commons_gallery: "Hard disk"
 Common_Procurement_Vocabulary_code: 30233132

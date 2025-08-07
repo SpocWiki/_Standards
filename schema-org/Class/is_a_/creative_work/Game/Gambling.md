@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Gambling
 contributing_factor_of: '[[_Standards/WikiData/WD~problem_gambling,748309]]'
 described_by_source:

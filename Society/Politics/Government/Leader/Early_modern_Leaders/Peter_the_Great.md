@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Peter the Great"
 - "Pyotr I Alekseyevich"
@@ -141,17 +141,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Peter_the_Great](Peter_the_Great.md)) 
+### #is_/same_as :: [Peter_the_Great](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.md) 
 
-### #is_/same_as :: [Peter_the_Great.public](/_public/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.public.md) 
+### #is_/same_as :: [Peter_the_Great.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.public.md) 
 
-### #is_/same_as :: [Peter_the_Great.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.internal.md) 
+### #is_/same_as :: [Peter_the_Great.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.internal.md) 
 
-### #is_/same_as :: [Peter_the_Great.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.protect.md) 
+### #is_/same_as :: [Peter_the_Great.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.protect.md) 
 
-### #is_/same_as :: [Peter_the_Great.private](/_private/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.private.md) 
+### #is_/same_as :: [Peter_the_Great.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.private.md) 
 
-### #is_/same_as :: [Peter_the_Great.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.personal.md) 
+### #is_/same_as :: [Peter_the_Great.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.personal.md) 
 
-### #is_/same_as :: [Peter_the_Great.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Peter_the_Great.secret.md)
+### #is_/same_as :: [Peter_the_Great.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Peter_the_Great.secret.md)
 

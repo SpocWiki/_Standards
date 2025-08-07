@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Pyxis|Zodiac~Pyxis]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Pyxis.public|Zodiac~Pyxis.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Pyxis.internal|Zodiac~Pyxis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Pyxis.protect|Zodiac~Pyxis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Pyxis.private|Zodiac~Pyxis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Pyxis.personal|Zodiac~Pyxis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Pyxis.secret|Zodiac~Pyxis.secret]] 
+
+### #is_/same_as :: [Zodiac~Pyxis](/_Standards/Astronomy/Star~Constellation/Zodiac~Pyxis.md) 
+
+### #is_/same_as :: [Zodiac~Pyxis.public](/_public/Astronomy/Star~Constellation/Zodiac~Pyxis.public.md) 
+
+### #is_/same_as :: [Zodiac~Pyxis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pyxis.internal.md) 
+
+### #is_/same_as :: [Zodiac~Pyxis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pyxis.protect.md) 
+
+### #is_/same_as :: [Zodiac~Pyxis.private](/_private/Astronomy/Star~Constellation/Zodiac~Pyxis.private.md) 
+
+### #is_/same_as :: [Zodiac~Pyxis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pyxis.personal.md) 
+
+### #is_/same_as :: [Zodiac~Pyxis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pyxis.secret.md)
+

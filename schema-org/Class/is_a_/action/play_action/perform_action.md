@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - perform-action
 - perform_action

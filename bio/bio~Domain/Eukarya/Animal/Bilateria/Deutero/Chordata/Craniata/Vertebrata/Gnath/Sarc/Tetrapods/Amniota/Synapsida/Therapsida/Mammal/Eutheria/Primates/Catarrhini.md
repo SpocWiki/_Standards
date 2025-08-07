@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "catarrhine monkeys"
 - "Old World anthropoids"
@@ -225,7 +225,7 @@ Morotopithecus. Journal of Human Evolution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Catarrhini](Catarrhini.md)) 
+### #is_/same_as :: [Catarrhini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini.md) 
 
 ### #is_/same_as :: [Catarrhini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini.public.md) 
 

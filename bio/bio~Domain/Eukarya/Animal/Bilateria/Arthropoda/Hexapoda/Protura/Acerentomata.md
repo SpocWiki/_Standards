@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Acerentomata
 - Protura
@@ -54,7 +54,7 @@ title: Acerentomata
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Acerentomata](Acerentomata.md)) 
+### #is_/same_as :: [Acerentomata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.md) 
 
 ### #is_/same_as :: [Acerentomata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - physiological-benefits
 - physiological_benefits

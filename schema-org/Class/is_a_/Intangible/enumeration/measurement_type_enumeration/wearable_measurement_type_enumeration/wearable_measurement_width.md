@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-width
 - wearable_measurement_width

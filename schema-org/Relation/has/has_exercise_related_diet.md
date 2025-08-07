@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exercise-related-diet
 - exercise_related_diet

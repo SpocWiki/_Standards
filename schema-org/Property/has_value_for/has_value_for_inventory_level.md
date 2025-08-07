@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - inventory_level
 - inventory-level

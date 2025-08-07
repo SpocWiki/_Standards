@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - super-event
 - super_event

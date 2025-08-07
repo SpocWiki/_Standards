@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fuel_capacity
 - fuel-capacity

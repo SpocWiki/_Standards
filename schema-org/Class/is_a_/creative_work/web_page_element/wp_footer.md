@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wp-footer
 - wp_footer

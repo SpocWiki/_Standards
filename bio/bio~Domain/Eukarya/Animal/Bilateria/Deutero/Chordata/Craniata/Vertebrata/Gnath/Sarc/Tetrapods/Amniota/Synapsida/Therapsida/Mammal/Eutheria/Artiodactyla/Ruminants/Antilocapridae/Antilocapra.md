@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Antilocapra americana"
 ---
 
@@ -73,7 +73,7 @@ Specimen Condition   Live Specimen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Antilocapra](Antilocapra.md)) 
+### #is_/same_as :: [Antilocapra](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Antilocapridae/Antilocapra.md) 
 
 ### #is_/same_as :: [Antilocapra.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Antilocapridae/Antilocapra.public.md) 
 

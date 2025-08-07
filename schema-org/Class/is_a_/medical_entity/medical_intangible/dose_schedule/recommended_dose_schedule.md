@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recommended-dose-schedule
 - recommended_dose_schedule

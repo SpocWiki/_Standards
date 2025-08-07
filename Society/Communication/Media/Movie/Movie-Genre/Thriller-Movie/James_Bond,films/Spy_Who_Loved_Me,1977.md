@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The Spy Who Loved Me"
 ---
@@ -32,5 +32,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Spy%20Who%20Loved%20Me%20(film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Spy_Who_Loved_Me,1977](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.md) 
+
+### #is_/same_as :: [Spy_Who_Loved_Me,1977.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.public.md) 
+
+### #is_/same_as :: [Spy_Who_Loved_Me,1977.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.internal.md) 
+
+### #is_/same_as :: [Spy_Who_Loved_Me,1977.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.protect.md) 
+
+### #is_/same_as :: [Spy_Who_Loved_Me,1977.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.private.md) 
+
+### #is_/same_as :: [Spy_Who_Loved_Me,1977.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.personal.md) 
+
+### #is_/same_as :: [Spy_Who_Loved_Me,1977.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Spy_Who_Loved_Me,1977.secret.md)
 

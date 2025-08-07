@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - radio-season
 - radio_season

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_beds
 - number-of-beds

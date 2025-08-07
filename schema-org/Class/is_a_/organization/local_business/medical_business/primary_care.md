@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - primary-care
 - primary_care

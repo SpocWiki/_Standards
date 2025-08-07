@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-location
 - game_location

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Kökar
 confidential: public

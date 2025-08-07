@@ -36,3 +36,20 @@ Commons_category: Bologna process
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bologna%20Process) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bologna_Process](/_Standards/Earth/Continent/Europe/Bologna_Process.md) 
+
+### #is_/same_as :: [Bologna_Process.public](/_public/Earth/Continent/Europe/Bologna_Process.public.md) 
+
+### #is_/same_as :: [Bologna_Process.internal](/_internal/Earth/Continent/Europe/Bologna_Process.internal.md) 
+
+### #is_/same_as :: [Bologna_Process.protect](/_protect/Earth/Continent/Europe/Bologna_Process.protect.md) 
+
+### #is_/same_as :: [Bologna_Process.private](/_private/Earth/Continent/Europe/Bologna_Process.private.md) 
+
+### #is_/same_as :: [Bologna_Process.personal](/_personal/Earth/Continent/Europe/Bologna_Process.personal.md) 
+
+### #is_/same_as :: [Bologna_Process.secret](/_secret/Earth/Continent/Europe/Bologna_Process.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Boloceroidaria
 ---
 
@@ -59,7 +59,7 @@ Photo copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Boloceroidaria](Boloceroidaria.md)) 
+### #is_/same_as :: [Boloceroidaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.md) 
 
 ### #is_/same_as :: [Boloceroidaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.public.md) 
 

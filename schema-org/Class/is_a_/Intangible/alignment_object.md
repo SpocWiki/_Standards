@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alignment-object
 - alignment_object

@@ -123,3 +123,19 @@ writing_language: "[[_Standards/WikiData/WD~French,150]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie%20Amp%C3%A8re) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [André-Marie_Ampère](/_Standards/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.md) 
+
+### #is_/same_as :: [André-Marie_Ampère.public](/_public/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.public.md) 
+
+### #is_/same_as :: [André-Marie_Ampère.internal](/_internal/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.internal.md) 
+
+### #is_/same_as :: [André-Marie_Ampère.protect](/_protect/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.protect.md) 
+
+### #is_/same_as :: [André-Marie_Ampère.private](/_private/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.private.md) 
+
+### #is_/same_as :: [André-Marie_Ampère.personal](/_personal/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.personal.md) 
+
+### #is_/same_as :: [André-Marie_Ampère.secret](/_secret/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nematomorpha
 ---
 
@@ -67,7 +67,7 @@ Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nematomorpha](Nematomorpha.md)) 
+### #is_/same_as :: [Nematomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.md) 
 
 ### #is_/same_as :: [Nematomorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.public.md) 
 

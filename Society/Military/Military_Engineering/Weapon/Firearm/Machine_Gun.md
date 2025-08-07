@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Machine gun"
 Commons_category: "Machine guns"
@@ -39,17 +39,17 @@ U_S_National_Archives_Identifier: 10665147
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Machine_Gun](Machine_Gun.md)) 
+### #is_/same_as :: [Machine_Gun](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.md) 
 
-### #is_/same_as :: [Machine_Gun.public](/_public/Society/Military/Military_Engineering/Firearm/Machine_Gun.public.md) 
+### #is_/same_as :: [Machine_Gun.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.public.md) 
 
-### #is_/same_as :: [Machine_Gun.internal](/_internal/Society/Military/Military_Engineering/Firearm/Machine_Gun.internal.md) 
+### #is_/same_as :: [Machine_Gun.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.internal.md) 
 
-### #is_/same_as :: [Machine_Gun.protect](/_protect/Society/Military/Military_Engineering/Firearm/Machine_Gun.protect.md) 
+### #is_/same_as :: [Machine_Gun.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.protect.md) 
 
-### #is_/same_as :: [Machine_Gun.private](/_private/Society/Military/Military_Engineering/Firearm/Machine_Gun.private.md) 
+### #is_/same_as :: [Machine_Gun.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.private.md) 
 
-### #is_/same_as :: [Machine_Gun.personal](/_personal/Society/Military/Military_Engineering/Firearm/Machine_Gun.personal.md) 
+### #is_/same_as :: [Machine_Gun.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.personal.md) 
 
-### #is_/same_as :: [Machine_Gun.secret](/_secret/Society/Military/Military_Engineering/Firearm/Machine_Gun.secret.md)
+### #is_/same_as :: [Machine_Gun.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Machine_Gun.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - account_overdraft_limit
 - account-overdraft-limit

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - film-action
 - film_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - coding-system
 - coding_system

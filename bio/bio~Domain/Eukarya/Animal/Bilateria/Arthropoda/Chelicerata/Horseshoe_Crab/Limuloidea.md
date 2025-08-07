@@ -1,4 +1,4 @@
-﻿---
+---
 title: Limuloidea
 ---
 
@@ -69,7 +69,7 @@ Limuloid horseshoe crabs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Limuloidea](Limuloidea.md)) 
+### #is_/same_as :: [Limuloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.md) 
 
 ### #is_/same_as :: [Limuloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.public.md) 
 

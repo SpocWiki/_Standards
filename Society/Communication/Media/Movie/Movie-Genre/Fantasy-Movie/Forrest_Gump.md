@@ -36,3 +36,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Forrest%20Gump)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Forrest_Gump](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.md) 
+
+### #is_/same_as :: [Forrest_Gump.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.public.md) 
+
+### #is_/same_as :: [Forrest_Gump.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.internal.md) 
+
+### #is_/same_as :: [Forrest_Gump.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.protect.md) 
+
+### #is_/same_as :: [Forrest_Gump.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.private.md) 
+
+### #is_/same_as :: [Forrest_Gump.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.personal.md) 
+
+### #is_/same_as :: [Forrest_Gump.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - elementary-school
 - elementary_school

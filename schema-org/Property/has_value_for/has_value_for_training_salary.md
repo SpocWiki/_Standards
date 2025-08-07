@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - training_salary
 - training-salary

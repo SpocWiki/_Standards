@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jeffrey Dean Morgan"
 ---
@@ -30,4 +30,21 @@ aliases:
 > He also starred as a pivotal character in the History Channel's miniseries about the war with Mexico for the creation of Texas, Texas Rising (2015).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jeffrey%20Dean%20Morgan) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.md) 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.public.md) 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.internal.md) 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.protect.md) 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.private.md) 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.personal.md) 
+
+### #is_/same_as :: [Morgan,Jeffrey_Dean.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comic-Movie/Morgan,Jeffrey_Dean.secret.md)
 

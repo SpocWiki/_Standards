@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-delivery-method
 - available_delivery_method

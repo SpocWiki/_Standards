@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - references-order
 - referencing_order

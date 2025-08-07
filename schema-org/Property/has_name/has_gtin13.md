@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gtin13
 - gtin13

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - country-of-origin
 - country_of_origin

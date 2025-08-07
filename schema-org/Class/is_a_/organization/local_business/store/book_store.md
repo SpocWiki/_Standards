@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - book-store
 - book_store

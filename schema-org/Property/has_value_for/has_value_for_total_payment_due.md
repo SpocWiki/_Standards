@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - total_payment_due
 - total-payment-due

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amastigomonas
 ---
 
@@ -99,7 +99,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amastigomonas](Amastigomonas.md)) 
+### #is_/same_as :: [Amastigomonas](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.md) 
 
 ### #is_/same_as :: [Amastigomonas.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Military engineering"
 BHCL_UUID: c19d8b51-6631-477d-9e73-d7839569bfbf

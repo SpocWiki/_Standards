@@ -1,4 +1,4 @@
-﻿---
+---
 title: Decapodiformes
 ---
 
@@ -224,7 +224,7 @@ Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Decapodiformes](Decapodiformes.md)) 
+### #is_/same_as :: [Decapodiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.md) 
 
 ### #is_/same_as :: [Decapodiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes.public.md) 
 

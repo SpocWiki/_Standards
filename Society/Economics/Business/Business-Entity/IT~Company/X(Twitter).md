@@ -92,3 +92,20 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [X(Twitter)](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).md) 
+
+### #is_/same_as :: [X(Twitter).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).public.md) 
+
+### #is_/same_as :: [X(Twitter).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).internal.md) 
+
+### #is_/same_as :: [X(Twitter).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).protect.md) 
+
+### #is_/same_as :: [X(Twitter).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).private.md) 
+
+### #is_/same_as :: [X(Twitter).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).personal.md) 
+
+### #is_/same_as :: [X(Twitter).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/X(Twitter).secret.md)
+

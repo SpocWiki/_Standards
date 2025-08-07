@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - speech-to-text-markup
 - speech_to_text_markup

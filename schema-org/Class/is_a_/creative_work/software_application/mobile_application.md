@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mobile-application
 - mobile_application

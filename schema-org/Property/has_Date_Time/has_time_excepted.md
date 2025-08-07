@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - except-date
 - except_date

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Single-stranded DNA Viruses"
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - salary-currency
 - salary_currency

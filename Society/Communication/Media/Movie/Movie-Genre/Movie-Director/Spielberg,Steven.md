@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Steven Spielberg"
 - "Steven Allan Spielberg"
@@ -53,4 +53,21 @@ aliases:
 > [[../Move-Critics/Kael,Pauline]] called the young Spielberg "a magician in the age of movies." 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Spielberg)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spielberg,Steven](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.md) 
+
+### #is_/same_as :: [Spielberg,Steven.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.public.md) 
+
+### #is_/same_as :: [Spielberg,Steven.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.internal.md) 
+
+### #is_/same_as :: [Spielberg,Steven.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.protect.md) 
+
+### #is_/same_as :: [Spielberg,Steven.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.private.md) 
+
+### #is_/same_as :: [Spielberg,Steven.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.personal.md) 
+
+### #is_/same_as :: [Spielberg,Steven.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Spielberg,Steven.secret.md)
 

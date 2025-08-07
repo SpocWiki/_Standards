@@ -1,4 +1,4 @@
-﻿---
+---
 title: Garryales
 ---
 
@@ -55,17 +55,17 @@ Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Garryales](Garryales.md)) 
+### #is_/same_as :: [Garryales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.md) 
 
-### #is_/same_as :: [Garryales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.public.md) 
+### #is_/same_as :: [Garryales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.public.md) 
 
-### #is_/same_as :: [Garryales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.internal.md) 
+### #is_/same_as :: [Garryales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.internal.md) 
 
-### #is_/same_as :: [Garryales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.protect.md) 
+### #is_/same_as :: [Garryales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.protect.md) 
 
-### #is_/same_as :: [Garryales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.private.md) 
+### #is_/same_as :: [Garryales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.private.md) 
 
-### #is_/same_as :: [Garryales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.personal.md) 
+### #is_/same_as :: [Garryales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.personal.md) 
 
-### #is_/same_as :: [Garryales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.secret.md)
+### #is_/same_as :: [Garryales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Garryales.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-group-enumeration
 - size_group_enumeration

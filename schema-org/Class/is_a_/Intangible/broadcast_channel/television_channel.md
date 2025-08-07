@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - television-channel
 - television_channel

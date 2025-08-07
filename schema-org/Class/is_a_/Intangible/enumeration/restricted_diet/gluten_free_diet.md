@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gluten-free-diet
 - gluten_free_diet

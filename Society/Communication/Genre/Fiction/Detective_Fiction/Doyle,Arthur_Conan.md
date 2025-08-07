@@ -159,3 +159,20 @@ ISNI: "0000000122810491"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arthur%20Conan%20Doyle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Doyle,Arthur_Conan](/_Standards/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.md) 
+
+### #is_/same_as :: [Doyle,Arthur_Conan.public](/_public/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.public.md) 
+
+### #is_/same_as :: [Doyle,Arthur_Conan.internal](/_internal/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.internal.md) 
+
+### #is_/same_as :: [Doyle,Arthur_Conan.protect](/_protect/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.protect.md) 
+
+### #is_/same_as :: [Doyle,Arthur_Conan.private](/_private/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.private.md) 
+
+### #is_/same_as :: [Doyle,Arthur_Conan.personal](/_personal/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.personal.md) 
+
+### #is_/same_as :: [Doyle,Arthur_Conan.secret](/_secret/Society/Communication/Genre/Fiction/Detective_Fiction/Doyle,Arthur_Conan.secret.md)
+

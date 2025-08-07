@@ -1,4 +1,4 @@
-﻿---
+---
 title: Haloclavidae
 ---
 
@@ -85,7 +85,7 @@ Texel, Netherlands) is gratefully acknowledged.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Haloclavidae](Haloclavidae.md)) 
+### #is_/same_as :: [Haloclavidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.md) 
 
 ### #is_/same_as :: [Haloclavidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.public.md) 
 

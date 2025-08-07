@@ -104,3 +104,20 @@ P8189: "987007536275305171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Journalist) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Journalist](/_Standards/Society/Communication/Media/Journalism/Journalist.md) 
+
+### #is_/same_as :: [Journalist.public](/_public/Society/Communication/Media/Journalism/Journalist.public.md) 
+
+### #is_/same_as :: [Journalist.internal](/_internal/Society/Communication/Media/Journalism/Journalist.internal.md) 
+
+### #is_/same_as :: [Journalist.protect](/_protect/Society/Communication/Media/Journalism/Journalist.protect.md) 
+
+### #is_/same_as :: [Journalist.private](/_private/Society/Communication/Media/Journalism/Journalist.private.md) 
+
+### #is_/same_as :: [Journalist.personal](/_personal/Society/Communication/Media/Journalism/Journalist.personal.md) 
+
+### #is_/same_as :: [Journalist.secret](/_secret/Society/Communication/Media/Journalism/Journalist.secret.md)
+

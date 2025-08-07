@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Elizabeth I of England"
 BHCL_UUID: b49dc647-009b-4838-87b0-e63c25accff3
@@ -119,17 +119,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Elizabeth_I_of_England](Elizabeth_I_of_England.md)) 
+### #is_/same_as :: [Elizabeth_I_of_England](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.public](/_public/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.public.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.public.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.internal](/_internal/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.internal.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.internal.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.protect](/_protect/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.protect.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.protect.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.private](/_private/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.private.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.private.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.personal](/_personal/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.personal.md) 
+### #is_/same_as :: [Elizabeth_I_of_England.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.personal.md) 
 
-### #is_/same_as :: [Elizabeth_I_of_England.secret](/_secret/Society/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.secret.md)
+### #is_/same_as :: [Elizabeth_I_of_England.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Elizabeth_I_of_England.secret.md)
 

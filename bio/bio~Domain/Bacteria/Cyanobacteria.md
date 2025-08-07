@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "blue-green algae"
 - Blaualge

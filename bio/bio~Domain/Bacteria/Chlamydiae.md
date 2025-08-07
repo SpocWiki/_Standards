@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chlamydiae
 title: Chlamydiae

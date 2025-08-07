@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aspidogastrea
 ---
 
@@ -204,7 +204,7 @@ Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Aspidogastrea](Aspidogastrea.md)) 
+### #is_/same_as :: [Aspidogastrea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.md) 
 
 ### #is_/same_as :: [Aspidogastrea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Aspidogastrea.public.md) 
 

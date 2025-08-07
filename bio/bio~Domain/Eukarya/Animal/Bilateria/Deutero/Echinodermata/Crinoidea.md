@@ -1,4 +1,4 @@
-﻿---
+---
 title: Crinoidea
 ---
 
@@ -304,7 +304,7 @@ Copyright ::            © 1997 [Charles G. Messing](http://www.nova.edu/ocean/m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Crinoidea](Crinoidea.md)) 
+### #is_/same_as :: [Crinoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.md) 
 
 ### #is_/same_as :: [Crinoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.public.md) 
 

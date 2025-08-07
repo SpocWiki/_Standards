@@ -38,4 +38,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Stranger%20Things)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stranger_Things](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.md) 
+
+### #is_/same_as :: [Stranger_Things.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.public.md) 
+
+### #is_/same_as :: [Stranger_Things.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.internal.md) 
+
+### #is_/same_as :: [Stranger_Things.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.protect.md) 
+
+### #is_/same_as :: [Stranger_Things.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.private.md) 
+
+### #is_/same_as :: [Stranger_Things.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.personal.md) 
+
+### #is_/same_as :: [Stranger_Things.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Stranger_Things.secret.md)
 

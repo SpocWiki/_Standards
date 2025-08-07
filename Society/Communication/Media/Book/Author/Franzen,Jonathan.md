@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jonathan Franzen"
 ---
@@ -37,5 +37,19 @@ documents how the [[../../../../../../Life/Existential_Threat/Climate_Change|Cli
 but was delayed until 1995 and as of 2023 is subjected to even more denial. 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Franzen,Jonathan](/_Standards/Society/Communication/Media/Book/Author/Franzen,Jonathan.md) 
+
+### #is_/same_as :: [Franzen,Jonathan.public](/_public/Society/Communication/Media/Book/Author/Franzen,Jonathan.public.md) 
+
+### #is_/same_as :: [Franzen,Jonathan.internal](/_internal/Society/Communication/Media/Book/Author/Franzen,Jonathan.internal.md) 
+
+### #is_/same_as :: [Franzen,Jonathan.protect](/_protect/Society/Communication/Media/Book/Author/Franzen,Jonathan.protect.md) 
+
+### #is_/same_as :: [Franzen,Jonathan.private](/_private/Society/Communication/Media/Book/Author/Franzen,Jonathan.private.md) 
+
+### #is_/same_as :: [Franzen,Jonathan.personal](/_personal/Society/Communication/Media/Book/Author/Franzen,Jonathan.personal.md) 
+
+### #is_/same_as :: [Franzen,Jonathan.secret](/_secret/Society/Communication/Media/Book/Author/Franzen,Jonathan.secret.md)
 

@@ -71,3 +71,20 @@
 | 2015 | [[James_Bond,films/Spectre,2015]]                         | Spectre                        | 4                                               | Madeleine Swann  | Léa Seydoux                                | Ernst Stavro Blofeld | Christoph Waltz       |
 | 2021 | [[James_Bond,films/No_Time_to_Die,2021]]                  | Keine Zeit zu sterben          | 5                                               | Madeleine Swann  | Léa Seydoux                                | Lyutsifer Safin      | Lyutsifer Safin       |
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [James_Bond,films](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.md) 
+
+### #is_/same_as :: [James_Bond,films.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.public.md) 
+
+### #is_/same_as :: [James_Bond,films.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.internal.md) 
+
+### #is_/same_as :: [James_Bond,films.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.protect.md) 
+
+### #is_/same_as :: [James_Bond,films.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.private.md) 
+
+### #is_/same_as :: [James_Bond,films.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.personal.md) 
+
+### #is_/same_as :: [James_Bond,films.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films.secret.md)
+

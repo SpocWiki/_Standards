@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Anabar
 confidential: public

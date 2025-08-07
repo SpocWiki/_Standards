@@ -28,3 +28,20 @@ Commons_category: Beaufort Scale
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beaufort%20scale) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beaufort_Scale](/_Standards/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.md) 
+
+### #is_/same_as :: [Beaufort_Scale.public](/_public/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.public.md) 
+
+### #is_/same_as :: [Beaufort_Scale.internal](/_internal/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.internal.md) 
+
+### #is_/same_as :: [Beaufort_Scale.protect](/_protect/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.protect.md) 
+
+### #is_/same_as :: [Beaufort_Scale.private](/_private/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.private.md) 
+
+### #is_/same_as :: [Beaufort_Scale.personal](/_personal/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.personal.md) 
+
+### #is_/same_as :: [Beaufort_Scale.secret](/_secret/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.secret.md)
+

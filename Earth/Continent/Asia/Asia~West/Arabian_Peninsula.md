@@ -25,3 +25,19 @@ geojson: ARABIAN_PENINSULA-Pen_cape.geojson
 > [Wikipedia](https://en.wikipedia.org/wiki/Arabian%20Peninsula) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arabian_Peninsula](/_Standards/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.md) 
+
+### #is_/same_as :: [Arabian_Peninsula.public](/_public/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.public.md) 
+
+### #is_/same_as :: [Arabian_Peninsula.internal](/_internal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.internal.md) 
+
+### #is_/same_as :: [Arabian_Peninsula.protect](/_protect/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.protect.md) 
+
+### #is_/same_as :: [Arabian_Peninsula.private](/_private/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.private.md) 
+
+### #is_/same_as :: [Arabian_Peninsula.personal](/_personal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.personal.md) 
+
+### #is_/same_as :: [Arabian_Peninsula.secret](/_secret/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-component-type-enumeration
 - price_component_type_enumeration

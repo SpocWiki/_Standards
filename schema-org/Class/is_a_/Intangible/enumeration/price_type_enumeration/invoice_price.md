@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - invoice-price
 - invoice_price

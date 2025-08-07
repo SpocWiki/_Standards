@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cirrata
 ---
 
@@ -340,7 +340,7 @@ Amer. Malac. Union., 12: 91-112.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cirrata](Cirrata.md)) 
+### #is_/same_as :: [Cirrata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata.md) 
 
 ### #is_/same_as :: [Cirrata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata.public.md) 
 

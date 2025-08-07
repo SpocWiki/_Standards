@@ -49,3 +49,20 @@ has_id_wikidata: Q83197
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antimatter) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antimatter](/_Standards/Science/Physics/Antimatter.md) 
+
+### #is_/same_as :: [Antimatter.public](/_public/Science/Physics/Antimatter.public.md) 
+
+### #is_/same_as :: [Antimatter.internal](/_internal/Science/Physics/Antimatter.internal.md) 
+
+### #is_/same_as :: [Antimatter.protect](/_protect/Science/Physics/Antimatter.protect.md) 
+
+### #is_/same_as :: [Antimatter.private](/_private/Science/Physics/Antimatter.private.md) 
+
+### #is_/same_as :: [Antimatter.personal](/_personal/Science/Physics/Antimatter.personal.md) 
+
+### #is_/same_as :: [Antimatter.secret](/_secret/Science/Physics/Antimatter.secret.md)
+

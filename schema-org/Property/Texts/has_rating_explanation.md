@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rating-explanation
 - rating_explanation

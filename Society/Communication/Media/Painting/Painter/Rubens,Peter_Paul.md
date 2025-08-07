@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Peter Paul Rubens"
 artist_files_at:

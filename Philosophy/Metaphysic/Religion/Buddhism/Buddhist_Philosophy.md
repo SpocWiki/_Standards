@@ -38,3 +38,19 @@ P8189: "987007541111005171"
 > [Wikipedia](https://en.wikipedia.org/wiki/Buddhist%20philosophy)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Buddhist_Philosophy](/_Standards/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.md) 
+
+### #is_/same_as :: [Buddhist_Philosophy.public](/_public/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.public.md) 
+
+### #is_/same_as :: [Buddhist_Philosophy.internal](/_internal/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.internal.md) 
+
+### #is_/same_as :: [Buddhist_Philosophy.protect](/_protect/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.protect.md) 
+
+### #is_/same_as :: [Buddhist_Philosophy.private](/_private/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.private.md) 
+
+### #is_/same_as :: [Buddhist_Philosophy.personal](/_personal/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.personal.md) 
+
+### #is_/same_as :: [Buddhist_Philosophy.secret](/_secret/Philosophy/Metaphysic/Religion/Buddhism/Buddhist_Philosophy.secret.md)
+

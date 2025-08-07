@@ -196,3 +196,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arnold%20Sommerfeld) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sommerfeld,Arnold](/_Standards/Science/Physics/Physicist/Sommerfeld,Arnold.md) 
+
+### #is_/same_as :: [Sommerfeld,Arnold.public](/_public/Science/Physics/Physicist/Sommerfeld,Arnold.public.md) 
+
+### #is_/same_as :: [Sommerfeld,Arnold.internal](/_internal/Science/Physics/Physicist/Sommerfeld,Arnold.internal.md) 
+
+### #is_/same_as :: [Sommerfeld,Arnold.protect](/_protect/Science/Physics/Physicist/Sommerfeld,Arnold.protect.md) 
+
+### #is_/same_as :: [Sommerfeld,Arnold.private](/_private/Science/Physics/Physicist/Sommerfeld,Arnold.private.md) 
+
+### #is_/same_as :: [Sommerfeld,Arnold.personal](/_personal/Science/Physics/Physicist/Sommerfeld,Arnold.personal.md) 
+
+### #is_/same_as :: [Sommerfeld,Arnold.secret](/_secret/Science/Physics/Physicist/Sommerfeld,Arnold.secret.md)
+

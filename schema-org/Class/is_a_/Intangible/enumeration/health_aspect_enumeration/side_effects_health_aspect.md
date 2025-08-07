@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - side-effects-health-aspect
 - side_effects_health_aspect

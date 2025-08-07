@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contact-type
 - contact_type

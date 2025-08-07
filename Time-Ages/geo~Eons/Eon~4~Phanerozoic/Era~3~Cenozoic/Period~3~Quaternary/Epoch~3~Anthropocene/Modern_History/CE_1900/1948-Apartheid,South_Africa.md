@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Apartheid in South Africa"
 applies_to_jurisdiction:

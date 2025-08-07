@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - diversity-policy
 - diversity_policy

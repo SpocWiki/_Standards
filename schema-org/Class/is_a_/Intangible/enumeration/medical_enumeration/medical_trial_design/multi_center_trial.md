@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - multi-center-trial
 - multi_center_trial

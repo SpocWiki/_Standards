@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lodging-unit-description
 - lodging_unit_description

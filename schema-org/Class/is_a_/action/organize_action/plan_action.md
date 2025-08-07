@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - plan-action
 - plan_action

@@ -73,17 +73,17 @@ uses:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Firearm](Firearm.md)) 
+### #is_/same_as :: [Firearm](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm.md) 
 
-### #is_/same_as :: [Firearm.public](/_public/Society/Military/Military_Engineering/Firearm.public.md) 
+### #is_/same_as :: [Firearm.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm.public.md) 
 
-### #is_/same_as :: [Firearm.internal](/_internal/Society/Military/Military_Engineering/Firearm.internal.md) 
+### #is_/same_as :: [Firearm.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm.internal.md) 
 
-### #is_/same_as :: [Firearm.protect](/_protect/Society/Military/Military_Engineering/Firearm.protect.md) 
+### #is_/same_as :: [Firearm.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm.protect.md) 
 
-### #is_/same_as :: [Firearm.private](/_private/Society/Military/Military_Engineering/Firearm.private.md) 
+### #is_/same_as :: [Firearm.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm.private.md) 
 
-### #is_/same_as :: [Firearm.personal](/_personal/Society/Military/Military_Engineering/Firearm.personal.md) 
+### #is_/same_as :: [Firearm.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm.personal.md) 
 
-### #is_/same_as :: [Firearm.secret](/_secret/Society/Military/Military_Engineering/Firearm.secret.md)
+### #is_/same_as :: [Firearm.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm.secret.md)
 

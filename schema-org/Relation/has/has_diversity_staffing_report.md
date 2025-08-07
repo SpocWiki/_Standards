@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - diversity-staffing-report
 - diversity_staffing_report

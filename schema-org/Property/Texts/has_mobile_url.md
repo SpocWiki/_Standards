@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mobile-url
 - mobile_url

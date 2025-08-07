@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - estimated_cost
 - estimated-cost

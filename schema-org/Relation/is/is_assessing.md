@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - assesses
 - is_assessing

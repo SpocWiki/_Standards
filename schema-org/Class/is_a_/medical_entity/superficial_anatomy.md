@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - superficial-anatomy
 - superficial_anatomy

@@ -1,4 +1,4 @@
-﻿---
+---
 title: magnoliids
 ---
 
@@ -236,17 +236,17 @@ Copyright ::            © 2005 [Matyas Buzgo](ftp://ftp.flmnh.ufl.edu/Public/mb
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Magnoliids](Magnoliids.md)) 
+### #is_/same_as :: [Magnoliids](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.md) 
 
-### #is_/same_as :: [Magnoliids.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.public.md) 
+### #is_/same_as :: [Magnoliids.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.public.md) 
 
-### #is_/same_as :: [Magnoliids.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.internal.md) 
+### #is_/same_as :: [Magnoliids.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.internal.md) 
 
-### #is_/same_as :: [Magnoliids.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.protect.md) 
+### #is_/same_as :: [Magnoliids.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.protect.md) 
 
-### #is_/same_as :: [Magnoliids.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.private.md) 
+### #is_/same_as :: [Magnoliids.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.private.md) 
 
-### #is_/same_as :: [Magnoliids.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.personal.md) 
+### #is_/same_as :: [Magnoliids.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.personal.md) 
 
-### #is_/same_as :: [Magnoliids.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.secret.md)
+### #is_/same_as :: [Magnoliids.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.secret.md)
 

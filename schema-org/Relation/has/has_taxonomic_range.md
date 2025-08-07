@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - taxonomic-range
 - taxonomic_range

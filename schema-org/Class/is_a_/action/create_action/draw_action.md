@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - draw-action
 - draw_action

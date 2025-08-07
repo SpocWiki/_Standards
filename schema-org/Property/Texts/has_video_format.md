@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-format
 - video_format

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - usage-info
 - usage_info

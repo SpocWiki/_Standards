@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-plays
 - user_plays

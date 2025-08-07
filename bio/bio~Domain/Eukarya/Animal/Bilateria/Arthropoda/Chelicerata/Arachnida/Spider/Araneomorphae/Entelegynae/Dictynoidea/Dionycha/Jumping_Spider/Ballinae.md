@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ballinae
 ---
 
@@ -82,7 +82,7 @@ characters as well.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ballinae](Ballinae.md)) 
+### #is_/same_as :: [Ballinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Ballinae.md) 
 
 ### #is_/same_as :: [Ballinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Ballinae.public.md) 
 

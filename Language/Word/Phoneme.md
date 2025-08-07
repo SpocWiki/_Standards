@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Phonemes
 different_from:
 - '[[_Standards/WikiData/WD~allophone,146863]]'

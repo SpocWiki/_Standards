@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Scarborough_Reef
 confidential: public

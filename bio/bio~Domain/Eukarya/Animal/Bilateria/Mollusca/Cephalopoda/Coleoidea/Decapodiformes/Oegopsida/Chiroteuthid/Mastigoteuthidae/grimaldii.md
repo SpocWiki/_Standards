@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis grimaldii"
 ---
 
@@ -119,7 +119,7 @@ son yacht par Albert I Prince souverain de Monaco, 9:1-63.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[grimaldii](grimaldii.md)) 
+### #is_/same_as :: [grimaldii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/grimaldii.md) 
 
 ### #is_/same_as :: [grimaldii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/grimaldii.public.md) 
 

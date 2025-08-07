@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Cygnus|Zodiac~Cygnus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Cygnus.public|Zodiac~Cygnus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Cygnus.internal|Zodiac~Cygnus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Cygnus.protect|Zodiac~Cygnus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Cygnus.private|Zodiac~Cygnus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Cygnus.personal|Zodiac~Cygnus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Cygnus.secret|Zodiac~Cygnus.secret]] 
+
+### #is_/same_as :: [Zodiac~Cygnus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cygnus.md) 
+
+### #is_/same_as :: [Zodiac~Cygnus.public](/_public/Astronomy/Star~Constellation/Zodiac~Cygnus.public.md) 
+
+### #is_/same_as :: [Zodiac~Cygnus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cygnus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Cygnus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cygnus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Cygnus.private](/_private/Astronomy/Star~Constellation/Zodiac~Cygnus.private.md) 
+
+### #is_/same_as :: [Zodiac~Cygnus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cygnus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Cygnus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cygnus.secret.md)
+

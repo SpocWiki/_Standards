@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chtenopteryx
 ---
 
@@ -229,7 +229,7 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chtenopterygidae](Chtenopterygidae.md)) 
+### #is_/same_as :: [Chtenopterygidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.md) 
 
 ### #is_/same_as :: [Chtenopterygidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.public.md) 
 

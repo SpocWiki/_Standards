@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exchange-refund
 - exchange_refund

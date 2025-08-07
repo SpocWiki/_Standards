@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-received
 - date_received

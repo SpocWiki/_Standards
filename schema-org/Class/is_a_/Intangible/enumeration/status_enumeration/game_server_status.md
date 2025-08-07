@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-server-status
 - game_server_status

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-insurance-plan
 - health_insurance_plan

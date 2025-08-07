@@ -51,3 +51,20 @@ Wolfram_Language_entity_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yellow) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yellow](/_Standards/Technology/Design/Graphic_Design/Color/Yellow.md) 
+
+### #is_/same_as :: [Yellow.public](/_public/Technology/Design/Graphic_Design/Color/Yellow.public.md) 
+
+### #is_/same_as :: [Yellow.internal](/_internal/Technology/Design/Graphic_Design/Color/Yellow.internal.md) 
+
+### #is_/same_as :: [Yellow.protect](/_protect/Technology/Design/Graphic_Design/Color/Yellow.protect.md) 
+
+### #is_/same_as :: [Yellow.private](/_private/Technology/Design/Graphic_Design/Color/Yellow.private.md) 
+
+### #is_/same_as :: [Yellow.personal](/_personal/Technology/Design/Graphic_Design/Color/Yellow.personal.md) 
+
+### #is_/same_as :: [Yellow.secret](/_secret/Technology/Design/Graphic_Design/Color/Yellow.secret.md)
+

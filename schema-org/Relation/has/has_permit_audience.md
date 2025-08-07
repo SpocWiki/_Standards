@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - permit-audience
 - permit_audience

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - single-release
 - single_release

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - organize-action
 - organize_action

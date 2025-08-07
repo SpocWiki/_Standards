@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - self-storage
 - self_storage

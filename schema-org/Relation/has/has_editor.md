@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - editor
 - has_editor

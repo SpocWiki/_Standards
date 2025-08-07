@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - currency
 - currency

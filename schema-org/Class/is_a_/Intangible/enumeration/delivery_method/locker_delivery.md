@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - locker-delivery
 - locker_delivery

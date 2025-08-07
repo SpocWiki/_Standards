@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "horseshoe shrimp"
 title: Cephalocarida
@@ -66,7 +66,7 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cephalocarida](Cephalocarida.md)) 
+### #is_/same_as :: [Cephalocarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.md) 
 
 ### #is_/same_as :: [Cephalocarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Cephalocarida.public.md) 
 

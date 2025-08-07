@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Swords
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -55,17 +55,17 @@ used_by: '[[_Standards/WikiData/WD~swordfighter,11397897]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sword](Sword.md)) 
+### #is_/same_as :: [Sword](/_Standards/Society/Military/Military_Engineering/Weapon/Sword.md) 
 
-### #is_/same_as :: [Sword.public](/_public/Society/Military/Military_Engineering/Sword.public.md) 
+### #is_/same_as :: [Sword.public](/_public/Society/Military/Military_Engineering/Weapon/Sword.public.md) 
 
-### #is_/same_as :: [Sword.internal](/_internal/Society/Military/Military_Engineering/Sword.internal.md) 
+### #is_/same_as :: [Sword.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword.internal.md) 
 
-### #is_/same_as :: [Sword.protect](/_protect/Society/Military/Military_Engineering/Sword.protect.md) 
+### #is_/same_as :: [Sword.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword.protect.md) 
 
-### #is_/same_as :: [Sword.private](/_private/Society/Military/Military_Engineering/Sword.private.md) 
+### #is_/same_as :: [Sword.private](/_private/Society/Military/Military_Engineering/Weapon/Sword.private.md) 
 
-### #is_/same_as :: [Sword.personal](/_personal/Society/Military/Military_Engineering/Sword.personal.md) 
+### #is_/same_as :: [Sword.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword.personal.md) 
 
-### #is_/same_as :: [Sword.secret](/_secret/Society/Military/Military_Engineering/Sword.secret.md)
+### #is_/same_as :: [Sword.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword.secret.md)
 

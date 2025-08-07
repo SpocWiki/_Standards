@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - clip-number
 - clip_number

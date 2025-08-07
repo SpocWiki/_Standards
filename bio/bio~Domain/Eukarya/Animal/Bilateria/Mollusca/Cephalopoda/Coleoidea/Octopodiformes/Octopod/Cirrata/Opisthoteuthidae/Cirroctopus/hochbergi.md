@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cirroctopus hochbergi"
 ---
 
@@ -104,7 +104,7 @@ Mar. Sci. 20: 421-428.\'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[hochbergi](hochbergi.md)) 
+### #is_/same_as :: [hochbergi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/hochbergi.md) 
 
 ### #is_/same_as :: [hochbergi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/hochbergi.public.md) 
 

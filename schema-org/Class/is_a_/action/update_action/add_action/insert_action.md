@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - insert-action
 - insert_action

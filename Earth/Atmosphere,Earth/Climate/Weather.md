@@ -68,17 +68,17 @@ Wikidata_property: "weather history"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weather](/_Standards/Earth/Atmosphere/Climate/Weather.md) 
+### #is_/same_as :: [Weather](/_Standards/Earth/Atmosphere,Earth/Climate/Weather.md) 
 
-### #is_/same_as :: [Weather.public](/_public/Earth/Atmosphere/Climate/Weather.public.md) 
+### #is_/same_as :: [Weather.public](/_public/Earth/Atmosphere,Earth/Climate/Weather.public.md) 
 
-### #is_/same_as :: [Weather.internal](/_internal/Earth/Atmosphere/Climate/Weather.internal.md) 
+### #is_/same_as :: [Weather.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather.internal.md) 
 
-### #is_/same_as :: [Weather.protect](/_protect/Earth/Atmosphere/Climate/Weather.protect.md) 
+### #is_/same_as :: [Weather.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather.protect.md) 
 
-### #is_/same_as :: [Weather.private](/_private/Earth/Atmosphere/Climate/Weather.private.md) 
+### #is_/same_as :: [Weather.private](/_private/Earth/Atmosphere,Earth/Climate/Weather.private.md) 
 
-### #is_/same_as :: [Weather.personal](/_personal/Earth/Atmosphere/Climate/Weather.personal.md) 
+### #is_/same_as :: [Weather.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather.personal.md) 
 
-### #is_/same_as :: [Weather.secret](/_secret/Earth/Atmosphere/Climate/Weather.secret.md)
+### #is_/same_as :: [Weather.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather.secret.md)
 

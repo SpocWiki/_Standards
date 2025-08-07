@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tutong
 confidential: public

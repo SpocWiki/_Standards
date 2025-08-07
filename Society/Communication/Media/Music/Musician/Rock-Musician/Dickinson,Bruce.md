@@ -56,3 +56,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bruce%20Dickinson) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dickinson,Bruce](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.md) 
+
+### #is_/same_as :: [Dickinson,Bruce.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.public.md) 
+
+### #is_/same_as :: [Dickinson,Bruce.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.internal.md) 
+
+### #is_/same_as :: [Dickinson,Bruce.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.protect.md) 
+
+### #is_/same_as :: [Dickinson,Bruce.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.private.md) 
+
+### #is_/same_as :: [Dickinson,Bruce.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.personal.md) 
+
+### #is_/same_as :: [Dickinson,Bruce.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Dickinson,Bruce.secret.md)
+

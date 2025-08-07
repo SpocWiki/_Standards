@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - physical-therapy
 - physical_therapy

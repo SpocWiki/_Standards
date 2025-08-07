@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Volans|Zodiac~Volans]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Volans.public|Zodiac~Volans.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Volans.internal|Zodiac~Volans.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Volans.protect|Zodiac~Volans.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Volans.private|Zodiac~Volans.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Volans.personal|Zodiac~Volans.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Volans.secret|Zodiac~Volans.secret]] 
+
+### #is_/same_as :: [Zodiac~Volans](/_Standards/Astronomy/Star~Constellation/Zodiac~Volans.md) 
+
+### #is_/same_as :: [Zodiac~Volans.public](/_public/Astronomy/Star~Constellation/Zodiac~Volans.public.md) 
+
+### #is_/same_as :: [Zodiac~Volans.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Volans.internal.md) 
+
+### #is_/same_as :: [Zodiac~Volans.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Volans.protect.md) 
+
+### #is_/same_as :: [Zodiac~Volans.private](/_private/Astronomy/Star~Constellation/Zodiac~Volans.private.md) 
+
+### #is_/same_as :: [Zodiac~Volans.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Volans.personal.md) 
+
+### #is_/same_as :: [Zodiac~Volans.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Volans.secret.md)
+

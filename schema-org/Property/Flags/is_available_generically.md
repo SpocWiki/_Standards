@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-generically
 - available_generically

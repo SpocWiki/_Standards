@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Language
 Commons_category: Language
 Commons_gallery: Language

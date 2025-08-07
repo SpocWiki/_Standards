@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wp-side-bar
 - wp_side_bar

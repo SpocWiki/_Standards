@@ -1,4 +1,4 @@
-﻿---
+---
 title: Asteroidea
 ---
 
@@ -464,7 +464,7 @@ Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/inde
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Asteroidea](Asteroidea.md)) 
+### #is_/same_as :: [Asteroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.md) 
 
 ### #is_/same_as :: [Asteroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Asteroidea.public.md) 
 

@@ -77,3 +77,20 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/ARTILLERIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Artillery) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Artillery](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery.md) 
+
+### #is_/same_as :: [Artillery.public](/_public/Society/Military/Military_Engineering/Weapon/Artillery.public.md) 
+
+### #is_/same_as :: [Artillery.internal](/_internal/Society/Military/Military_Engineering/Weapon/Artillery.internal.md) 
+
+### #is_/same_as :: [Artillery.protect](/_protect/Society/Military/Military_Engineering/Weapon/Artillery.protect.md) 
+
+### #is_/same_as :: [Artillery.private](/_private/Society/Military/Military_Engineering/Weapon/Artillery.private.md) 
+
+### #is_/same_as :: [Artillery.personal](/_personal/Society/Military/Military_Engineering/Weapon/Artillery.personal.md) 
+
+### #is_/same_as :: [Artillery.secret](/_secret/Society/Military/Military_Engineering/Weapon/Artillery.secret.md)
+

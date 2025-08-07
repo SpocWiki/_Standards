@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-enumeration
 - medical_enumeration

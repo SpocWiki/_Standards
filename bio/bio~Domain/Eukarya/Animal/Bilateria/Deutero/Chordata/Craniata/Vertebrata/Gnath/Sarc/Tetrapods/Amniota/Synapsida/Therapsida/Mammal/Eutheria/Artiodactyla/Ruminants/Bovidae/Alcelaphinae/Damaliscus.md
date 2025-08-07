@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Damaliscus lunatus"
 ---
 
@@ -66,7 +66,7 @@ Copyright ::            © Chuck Bargeron, The University of Georgia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Damaliscus](Damaliscus.md)) 
+### #is_/same_as :: [Damaliscus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Damaliscus.md) 
 
 ### #is_/same_as :: [Damaliscus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Damaliscus.public.md) 
 

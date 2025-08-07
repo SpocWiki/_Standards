@@ -32,7 +32,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Meshuggah)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Meshuggah(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).md) 
 
+### #is_/same_as :: [Meshuggah(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).public.md) 
 
+### #is_/same_as :: [Meshuggah(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).internal.md) 
+
+### #is_/same_as :: [Meshuggah(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).protect.md) 
+
+### #is_/same_as :: [Meshuggah(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).private.md) 
+
+### #is_/same_as :: [Meshuggah(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).personal.md) 
+
+### #is_/same_as :: [Meshuggah(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Meshuggah(Band).secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - add-action
 - add_action

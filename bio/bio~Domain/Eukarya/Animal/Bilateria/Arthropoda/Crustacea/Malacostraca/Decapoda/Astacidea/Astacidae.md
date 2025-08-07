@@ -1,4 +1,4 @@
-﻿---
+---
 title: Astacidae
 ---
 
@@ -46,7 +46,7 @@ Photograph copyright © 1995 David Holdich
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Astacidae](Astacidae.md)) 
+### #is_/same_as :: [Astacidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.md) 
 
 ### #is_/same_as :: [Astacidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.public.md) 
 

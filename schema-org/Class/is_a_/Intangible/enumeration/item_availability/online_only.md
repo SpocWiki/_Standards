@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - online-only
 - online_only

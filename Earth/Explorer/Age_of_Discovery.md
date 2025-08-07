@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Age of Exploration"
 has_id_wikidata: Q133641
@@ -40,4 +40,21 @@ has_id_wikidata: Q133641
 > European exploration initiated the Columbian exchange between the Old World (Europe, Asia, and Africa) and New World (Americas). This exchange involved the transfer of plants, animals, human populations (including slaves), communicable diseases, and culture across the Eastern and Western Hemispheres. The Age of Discovery and European exploration involved mapping the world, shaping a new worldview and facilitating contact with distant civilizations. The continents drawn by European mapmakers developed from abstract "blobs" into the outlines more recognizable to us. Simultaneously, the spread of new diseases, especially affecting American Indians, led to rapid declines in some populations. The era saw widespread enslavement, exploitation and military conquest of indigenous peoples, concurrent with the growing economic influence and spread of Western culture, science and technology leading to a faster-than-exponential population growth world-wide.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Age%20of%20Discovery) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Age_of_Discovery](/_Standards/Earth/Explorer/Age_of_Discovery.md) 
+
+### #is_/same_as :: [Age_of_Discovery.public](/_public/Earth/Explorer/Age_of_Discovery.public.md) 
+
+### #is_/same_as :: [Age_of_Discovery.internal](/_internal/Earth/Explorer/Age_of_Discovery.internal.md) 
+
+### #is_/same_as :: [Age_of_Discovery.protect](/_protect/Earth/Explorer/Age_of_Discovery.protect.md) 
+
+### #is_/same_as :: [Age_of_Discovery.private](/_private/Earth/Explorer/Age_of_Discovery.private.md) 
+
+### #is_/same_as :: [Age_of_Discovery.personal](/_personal/Earth/Explorer/Age_of_Discovery.personal.md) 
+
+### #is_/same_as :: [Age_of_Discovery.secret](/_secret/Earth/Explorer/Age_of_Discovery.secret.md)
 

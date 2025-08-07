@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Torba
 confidential: public

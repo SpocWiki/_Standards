@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.33
 Colon_Classification: W4
 Commons_category: Monarchy
@@ -49,17 +49,17 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Monarchy::44v86\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Monarchy](Monarchy.md)) 
+### #is_/same_as :: [Monarchy](/_Standards/Society/Politics/Government/Monarchy.md) 
 
-### #is_/same_as :: [Monarchy.public](/_public/Society/Government/Monarchy.public.md) 
+### #is_/same_as :: [Monarchy.public](/_public/Society/Politics/Government/Monarchy.public.md) 
 
-### #is_/same_as :: [Monarchy.internal](/_internal/Society/Government/Monarchy.internal.md) 
+### #is_/same_as :: [Monarchy.internal](/_internal/Society/Politics/Government/Monarchy.internal.md) 
 
-### #is_/same_as :: [Monarchy.protect](/_protect/Society/Government/Monarchy.protect.md) 
+### #is_/same_as :: [Monarchy.protect](/_protect/Society/Politics/Government/Monarchy.protect.md) 
 
-### #is_/same_as :: [Monarchy.private](/_private/Society/Government/Monarchy.private.md) 
+### #is_/same_as :: [Monarchy.private](/_private/Society/Politics/Government/Monarchy.private.md) 
 
-### #is_/same_as :: [Monarchy.personal](/_personal/Society/Government/Monarchy.personal.md) 
+### #is_/same_as :: [Monarchy.personal](/_personal/Society/Politics/Government/Monarchy.personal.md) 
 
-### #is_/same_as :: [Monarchy.secret](/_secret/Society/Government/Monarchy.secret.md)
+### #is_/same_as :: [Monarchy.secret](/_secret/Society/Politics/Government/Monarchy.secret.md)
 

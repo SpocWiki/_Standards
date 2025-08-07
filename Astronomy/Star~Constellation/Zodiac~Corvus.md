@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Corvus|Zodiac~Corvus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Corvus.public|Zodiac~Corvus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Corvus.internal|Zodiac~Corvus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Corvus.protect|Zodiac~Corvus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Corvus.private|Zodiac~Corvus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Corvus.personal|Zodiac~Corvus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Corvus.secret|Zodiac~Corvus.secret]] 
+
+### #is_/same_as :: [Zodiac~Corvus](/_Standards/Astronomy/Star~Constellation/Zodiac~Corvus.md) 
+
+### #is_/same_as :: [Zodiac~Corvus.public](/_public/Astronomy/Star~Constellation/Zodiac~Corvus.public.md) 
+
+### #is_/same_as :: [Zodiac~Corvus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Corvus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Corvus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Corvus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Corvus.private](/_private/Astronomy/Star~Constellation/Zodiac~Corvus.private.md) 
+
+### #is_/same_as :: [Zodiac~Corvus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Corvus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Corvus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Corvus.secret.md)
+

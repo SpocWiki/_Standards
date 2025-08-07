@@ -1,4 +1,4 @@
-﻿---
+---
 title: Agaricales
 ---
 
@@ -465,7 +465,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Agaricales](Agaricales.md)) 
+### #is_/same_as :: [Agaricales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.md) 
 
 ### #is_/same_as :: [Agaricales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.public.md) 
 

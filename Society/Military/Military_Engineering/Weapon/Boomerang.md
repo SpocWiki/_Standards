@@ -30,3 +30,20 @@ has_id_wikidata: Q131536
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boomerang) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boomerang](/_Standards/Society/Military/Military_Engineering/Weapon/Boomerang.md) 
+
+### #is_/same_as :: [Boomerang.public](/_public/Society/Military/Military_Engineering/Weapon/Boomerang.public.md) 
+
+### #is_/same_as :: [Boomerang.internal](/_internal/Society/Military/Military_Engineering/Weapon/Boomerang.internal.md) 
+
+### #is_/same_as :: [Boomerang.protect](/_protect/Society/Military/Military_Engineering/Weapon/Boomerang.protect.md) 
+
+### #is_/same_as :: [Boomerang.private](/_private/Society/Military/Military_Engineering/Weapon/Boomerang.private.md) 
+
+### #is_/same_as :: [Boomerang.personal](/_personal/Society/Military/Military_Engineering/Weapon/Boomerang.personal.md) 
+
+### #is_/same_as :: [Boomerang.secret](/_secret/Society/Military/Military_Engineering/Weapon/Boomerang.secret.md)
+

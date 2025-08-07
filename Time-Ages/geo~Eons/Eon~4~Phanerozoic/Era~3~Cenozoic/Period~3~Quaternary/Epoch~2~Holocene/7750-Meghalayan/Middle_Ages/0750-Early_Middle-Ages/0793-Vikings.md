@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Vikings
 Commons_gallery: Vikings
 described_by_source:

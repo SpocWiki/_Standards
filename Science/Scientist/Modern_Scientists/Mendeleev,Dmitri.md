@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dmitri Ivanovich Mendeleev"
 - "Dmitri Mendeleev"

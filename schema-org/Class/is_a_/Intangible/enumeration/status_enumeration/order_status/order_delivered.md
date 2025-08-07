@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-delivered
 - order_delivered

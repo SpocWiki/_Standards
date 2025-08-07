@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cirroctopus glacialis"
 ---
 
@@ -98,7 +98,7 @@ Mar. Sci. 20: 421-428.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[glacialis](glacialis.md)) 
+### #is_/same_as :: [glacialis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.md) 
 
 ### #is_/same_as :: [glacialis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.public.md) 
 

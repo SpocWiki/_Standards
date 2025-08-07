@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Middle Ages"
 - Middle_Ages

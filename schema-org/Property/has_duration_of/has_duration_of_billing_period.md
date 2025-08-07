@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - billing-period
 - billing_period

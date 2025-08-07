@@ -47,3 +47,20 @@ Commons_category: Black Tortoise
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20Turtle-Snake) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Black_Tortoise](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.md) 
+
+### #is_/same_as :: [Black_Tortoise.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.public.md) 
+
+### #is_/same_as :: [Black_Tortoise.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.internal.md) 
+
+### #is_/same_as :: [Black_Tortoise.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.protect.md) 
+
+### #is_/same_as :: [Black_Tortoise.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.private.md) 
+
+### #is_/same_as :: [Black_Tortoise.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.personal.md) 
+
+### #is_/same_as :: [Black_Tortoise.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Black_Tortoise.secret.md)
+

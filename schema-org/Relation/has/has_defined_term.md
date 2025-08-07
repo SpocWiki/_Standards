@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-defined-term
 - defined_term

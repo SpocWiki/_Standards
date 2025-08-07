@@ -142,7 +142,7 @@ copyright © 2002 [Arie van der Meijden](mailto:Mail@arievandermeijden.nl).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Arachnida](Arachnida.md)) 
+### #is_/same_as :: [Arachnida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida.md) 
 
 ### #is_/same_as :: [Arachnida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida.public.md) 
 

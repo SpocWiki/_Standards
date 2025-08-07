@@ -1,4 +1,4 @@
-﻿---
+---
 title: Neoteuthidae
 ---
 
@@ -176,7 +176,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Neoteuthidae](Neoteuthidae.md)) 
+### #is_/same_as :: [Neoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.md) 
 
 ### #is_/same_as :: [Neoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Neoteuthidae.public.md) 
 

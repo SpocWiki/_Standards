@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offers
 - is_offering

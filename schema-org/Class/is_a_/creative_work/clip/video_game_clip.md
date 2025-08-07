@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-game-clip
 - video_game_clip

@@ -102,3 +102,20 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/ADLER_ALFRED.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20Adler) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Adler,Alfred](/_Standards/bio/Psychology/Psychologist/Adler,Alfred.md) 
+
+### #is_/same_as :: [Adler,Alfred.public](/_public/bio/Psychology/Psychologist/Adler,Alfred.public.md) 
+
+### #is_/same_as :: [Adler,Alfred.internal](/_internal/bio/Psychology/Psychologist/Adler,Alfred.internal.md) 
+
+### #is_/same_as :: [Adler,Alfred.protect](/_protect/bio/Psychology/Psychologist/Adler,Alfred.protect.md) 
+
+### #is_/same_as :: [Adler,Alfred.private](/_private/bio/Psychology/Psychologist/Adler,Alfred.private.md) 
+
+### #is_/same_as :: [Adler,Alfred.personal](/_personal/bio/Psychology/Psychologist/Adler,Alfred.personal.md) 
+
+### #is_/same_as :: [Adler,Alfred.secret](/_secret/bio/Psychology/Psychologist/Adler,Alfred.secret.md)
+

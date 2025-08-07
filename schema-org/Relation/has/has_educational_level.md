@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-level
 - educational_level

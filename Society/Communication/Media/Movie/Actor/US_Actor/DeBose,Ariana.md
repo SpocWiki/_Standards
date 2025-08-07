@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ariana DeBose"
 ---
@@ -25,4 +25,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ariana%20DeBose) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [DeBose,Ariana](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.md) 
+
+### #is_/same_as :: [DeBose,Ariana.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.public.md) 
+
+### #is_/same_as :: [DeBose,Ariana.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.internal.md) 
+
+### #is_/same_as :: [DeBose,Ariana.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.protect.md) 
+
+### #is_/same_as :: [DeBose,Ariana.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.private.md) 
+
+### #is_/same_as :: [DeBose,Ariana.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.personal.md) 
+
+### #is_/same_as :: [DeBose,Ariana.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/DeBose,Ariana.secret.md)
 

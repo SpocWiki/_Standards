@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo
 - has_location_

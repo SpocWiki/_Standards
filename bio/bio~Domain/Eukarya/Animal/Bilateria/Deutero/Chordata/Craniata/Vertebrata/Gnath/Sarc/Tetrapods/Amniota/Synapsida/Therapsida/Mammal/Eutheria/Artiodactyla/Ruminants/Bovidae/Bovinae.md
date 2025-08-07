@@ -11,7 +11,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bovinae](Bovinae.md) 
+### #is_/same_as :: [Bovinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae.md) 
 
 ### #is_/same_as :: [Bovinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Bovinae.public.md) 
 

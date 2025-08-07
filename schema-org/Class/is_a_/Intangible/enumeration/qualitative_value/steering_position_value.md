@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - steering-position-value
 - steering_position_value

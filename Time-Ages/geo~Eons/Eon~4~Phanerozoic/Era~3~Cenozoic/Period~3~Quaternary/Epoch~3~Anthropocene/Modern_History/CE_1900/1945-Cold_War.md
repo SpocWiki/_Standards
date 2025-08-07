@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cold War"
 Commons_category: "Cold War"

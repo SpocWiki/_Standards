@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-platform
 - game_platform

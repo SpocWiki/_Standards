@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - news-media-organization
 - news_media_organization

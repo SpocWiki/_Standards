@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - target-name
 - name_of_target

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - repayment-specification
 - repayment_specification

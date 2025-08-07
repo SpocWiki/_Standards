@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Marsupialia
 - Marsupial
@@ -120,7 +120,7 @@ Photographs copyright © 1995 [Greg and Mary Beth Dimijian](http://www.dimijiani
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Marsupialia](Marsupialia.md)) 
+### #is_/same_as :: [Marsupialia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia.md) 
 
 ### #is_/same_as :: [Marsupialia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia.public.md) 
 

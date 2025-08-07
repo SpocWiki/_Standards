@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - web-site
 - web_site

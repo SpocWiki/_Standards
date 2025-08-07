@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Newspaper
 Commons_category: Newspapers
@@ -138,36 +138,17 @@ U_S_National_Archives_Identifier:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Newspaper](Newspaper.md)) 
+### #is_/same_as :: [Newspaper](/_Standards/Society/Communication/Media/Journalism/Newspaper.md) 
 
-### #is_/same_as :: [Newspaper.public](/_public/Society/Communication/Media/Newspaper.public.md) 
+### #is_/same_as :: [Newspaper.public](/_public/Society/Communication/Media/Journalism/Newspaper.public.md) 
 
-### #is_/same_as :: [Newspaper.internal](/_internal/Society/Communication/Media/Newspaper.internal.md) 
+### #is_/same_as :: [Newspaper.internal](/_internal/Society/Communication/Media/Journalism/Newspaper.internal.md) 
 
-### #is_/same_as :: [Newspaper.protect](/_protect/Society/Communication/Media/Newspaper.protect.md) 
+### #is_/same_as :: [Newspaper.protect](/_protect/Society/Communication/Media/Journalism/Newspaper.protect.md) 
 
-### #is_/same_as :: [Newspaper.private](/_private/Society/Communication/Media/Newspaper.private.md) 
+### #is_/same_as :: [Newspaper.private](/_private/Society/Communication/Media/Journalism/Newspaper.private.md) 
 
-### #is_/same_as :: [Newspaper.personal](/_personal/Society/Communication/Media/Newspaper.personal.md) 
+### #is_/same_as :: [Newspaper.personal](/_personal/Society/Communication/Media/Journalism/Newspaper.personal.md) 
 
-### #is_/same_as :: [Newspaper.secret](/_secret/Society/Communication/Media/Newspaper.secret.md)
+### #is_/same_as :: [Newspaper.secret](/_secret/Society/Communication/Media/Journalism/Newspaper.secret.md)
 
-
-# [[Newspaper]] 
-
-#is_/part_of :: [[Newspaper]] 
-
-![[Newspaper.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

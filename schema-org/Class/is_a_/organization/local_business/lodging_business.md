@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lodging-business
 - lodging_business

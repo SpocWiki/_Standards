@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hindu-diet
 - hindu_diet

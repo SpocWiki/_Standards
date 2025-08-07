@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Al Pacino"
 - "Alfredo James Pacino"
@@ -68,4 +68,20 @@ aliases:
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Al%20Pacino) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pacino,Al](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.md) 
+
+### #is_/same_as :: [Pacino,Al.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.public.md) 
+
+### #is_/same_as :: [Pacino,Al.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.internal.md) 
+
+### #is_/same_as :: [Pacino,Al.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.protect.md) 
+
+### #is_/same_as :: [Pacino,Al.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.private.md) 
+
+### #is_/same_as :: [Pacino,Al.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.personal.md) 
+
+### #is_/same_as :: [Pacino,Al.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Pacino,Al.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Soviet Union"
 anthem: '[[_Standards/WikiData/WD~State_Anthem_of_the_Soviet_Union,251918]]'

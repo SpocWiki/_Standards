@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publisher
 - has_publisher

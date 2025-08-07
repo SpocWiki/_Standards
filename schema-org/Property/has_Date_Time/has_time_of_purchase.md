@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - purchase-date
 - purchase_date

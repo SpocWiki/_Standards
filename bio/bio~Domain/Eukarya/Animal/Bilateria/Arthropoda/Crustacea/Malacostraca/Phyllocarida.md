@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Phyllocarida
 - "Sea flea"
@@ -90,7 +90,7 @@ Drawing from R. La Follette. 1914. A Nebalia from Laguna Beach. Journal of Entom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Phyllocarida](Phyllocarida.md)) 
+### #is_/same_as :: [Phyllocarida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.md) 
 
 ### #is_/same_as :: [Phyllocarida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Phyllocarida.public.md) 
 

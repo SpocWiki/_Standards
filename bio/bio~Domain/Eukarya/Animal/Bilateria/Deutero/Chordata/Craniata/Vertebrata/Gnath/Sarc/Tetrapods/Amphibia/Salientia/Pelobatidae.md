@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pelobatidae
 ---
 
@@ -126,17 +126,17 @@ Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pelobatidae](Pelobatidae.md)) 
+### #is_/same_as :: [Pelobatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.md) 
 
-### #is_/same_as :: [Pelobatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pelobatidae.public.md) 
+### #is_/same_as :: [Pelobatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.public.md) 
 
-### #is_/same_as :: [Pelobatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pelobatidae.internal.md) 
+### #is_/same_as :: [Pelobatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.internal.md) 
 
-### #is_/same_as :: [Pelobatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pelobatidae.protect.md) 
+### #is_/same_as :: [Pelobatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.protect.md) 
 
-### #is_/same_as :: [Pelobatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pelobatidae.private.md) 
+### #is_/same_as :: [Pelobatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.private.md) 
 
-### #is_/same_as :: [Pelobatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pelobatidae.personal.md) 
+### #is_/same_as :: [Pelobatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.personal.md) 
 
-### #is_/same_as :: [Pelobatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pelobatidae.secret.md)
+### #is_/same_as :: [Pelobatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Pelobatidae.secret.md)
 

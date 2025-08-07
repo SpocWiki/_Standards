@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - open-trial
 - open_trial

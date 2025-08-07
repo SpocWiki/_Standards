@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - add-on
 - add_on

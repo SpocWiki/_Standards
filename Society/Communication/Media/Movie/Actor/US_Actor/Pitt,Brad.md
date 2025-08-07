@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Brad Pitt"
 ---
@@ -45,6 +45,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Brad%20Pitt)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Pitt,Brad](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.md) 
 
+### #is_/same_as :: [Pitt,Brad.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.public.md) 
+
+### #is_/same_as :: [Pitt,Brad.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.internal.md) 
+
+### #is_/same_as :: [Pitt,Brad.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.protect.md) 
+
+### #is_/same_as :: [Pitt,Brad.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.private.md) 
+
+### #is_/same_as :: [Pitt,Brad.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.personal.md) 
+
+### #is_/same_as :: [Pitt,Brad.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Pitt,Brad.secret.md)
 

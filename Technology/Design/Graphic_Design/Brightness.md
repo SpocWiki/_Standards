@@ -34,3 +34,20 @@ has_id_wikidata: Q221656
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brightness) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brightness](/_Standards/Technology/Design/Graphic_Design/Brightness.md) 
+
+### #is_/same_as :: [Brightness.public](/_public/Technology/Design/Graphic_Design/Brightness.public.md) 
+
+### #is_/same_as :: [Brightness.internal](/_internal/Technology/Design/Graphic_Design/Brightness.internal.md) 
+
+### #is_/same_as :: [Brightness.protect](/_protect/Technology/Design/Graphic_Design/Brightness.protect.md) 
+
+### #is_/same_as :: [Brightness.private](/_private/Technology/Design/Graphic_Design/Brightness.private.md) 
+
+### #is_/same_as :: [Brightness.personal](/_personal/Technology/Design/Graphic_Design/Brightness.personal.md) 
+
+### #is_/same_as :: [Brightness.secret](/_secret/Technology/Design/Graphic_Design/Brightness.secret.md)
+

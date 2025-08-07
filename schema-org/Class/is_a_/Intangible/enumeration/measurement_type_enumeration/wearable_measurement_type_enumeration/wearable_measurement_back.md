@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-back
 - wearable_measurement_back

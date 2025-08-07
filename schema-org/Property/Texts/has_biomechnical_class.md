@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - biomechnical-class
 - biomechnical_class

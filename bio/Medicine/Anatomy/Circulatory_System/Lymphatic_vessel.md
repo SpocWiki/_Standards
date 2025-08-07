@@ -64,20 +64,19 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 > [Wikipedia](https://en.wikipedia.org/wiki/Lymphatic%20vessel) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :[Lymphatic_vessel](Lymphatic_vessel.md) 
+### #is_/same_as :: [Lymphatic_vessel](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.md) 
 
-### #is_/same_as :: [lymphatic_vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.public.md) 
+### #is_/same_as :: [Lymphatic_vessel.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.public.md) 
 
-### #is_/same_as :: [lymphatic_vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md) 
+### #is_/same_as :: [Lymphatic_vessel.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.internal.md) 
 
-### #is_/same_as :: [lymphatic_vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect.md) 
+### #is_/same_as :: [Lymphatic_vessel.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.protect.md) 
 
-### #is_/same_as :: [lymphatic_vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private.md) 
+### #is_/same_as :: [Lymphatic_vessel.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.private.md) 
 
-### #is_/same_as :: [lymphatic_vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md) 
+### #is_/same_as :: [Lymphatic_vessel.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.personal.md) 
 
-### #is_/same_as :: [lymphatic_vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md)
+### #is_/same_as :: [Lymphatic_vessel.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.secret.md)
 

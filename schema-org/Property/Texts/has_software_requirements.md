@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - software-requirements
 - software_requirements

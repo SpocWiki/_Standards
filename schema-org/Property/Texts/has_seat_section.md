@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - seat-section
 - seat_section

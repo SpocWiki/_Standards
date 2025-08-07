@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bus-stop
 - bus_stop

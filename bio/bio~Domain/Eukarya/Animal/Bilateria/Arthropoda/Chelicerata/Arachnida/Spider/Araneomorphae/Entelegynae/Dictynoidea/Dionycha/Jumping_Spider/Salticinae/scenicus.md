@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Salticus scenicus"
 ---
 
@@ -32,7 +32,7 @@ title: "Salticus scenicus"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[scenicus](scenicus.md)) 
+### #is_/same_as :: [scenicus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Salticinae/scenicus.md) 
 
 ### #is_/same_as :: [scenicus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Salticinae/scenicus.public.md) 
 

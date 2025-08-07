@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stanley Kubrick"
 ---
@@ -70,5 +70,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Kubrick)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Kubrick,Stanley](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.md) 
+
+### #is_/same_as :: [Kubrick,Stanley.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.public.md) 
+
+### #is_/same_as :: [Kubrick,Stanley.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.internal.md) 
+
+### #is_/same_as :: [Kubrick,Stanley.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.protect.md) 
+
+### #is_/same_as :: [Kubrick,Stanley.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.private.md) 
+
+### #is_/same_as :: [Kubrick,Stanley.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.personal.md) 
+
+### #is_/same_as :: [Kubrick,Stanley.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kubrick,Stanley.secret.md)
 

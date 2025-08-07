@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Late_Antiquity
 - "Late Antiquity"

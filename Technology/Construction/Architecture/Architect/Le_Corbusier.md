@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles-Édouard Jeanneret"
 - "Le Corbusier"

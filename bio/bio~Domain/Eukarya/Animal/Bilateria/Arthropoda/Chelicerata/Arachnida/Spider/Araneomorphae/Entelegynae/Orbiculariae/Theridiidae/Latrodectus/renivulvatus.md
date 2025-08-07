@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Latrodectus renivulvatus"
 ---
 
@@ -64,7 +64,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[renivulvatus](renivulvatus.md)) 
+### #is_/same_as :: [renivulvatus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/renivulvatus.md) 
 
 ### #is_/same_as :: [renivulvatus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/renivulvatus.public.md) 
 

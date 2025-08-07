@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - plastic-surgery
 - plastic_surgery

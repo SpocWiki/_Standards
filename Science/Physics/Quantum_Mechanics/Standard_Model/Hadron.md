@@ -48,3 +48,20 @@ time_of_discovery_or_invention: 1962-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hadron) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hadron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.md) 
+
+### #is_/same_as :: [Hadron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.public.md) 
+
+### #is_/same_as :: [Hadron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.internal.md) 
+
+### #is_/same_as :: [Hadron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.protect.md) 
+
+### #is_/same_as :: [Hadron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.private.md) 
+
+### #is_/same_as :: [Hadron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.personal.md) 
+
+### #is_/same_as :: [Hadron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron.secret.md)
+

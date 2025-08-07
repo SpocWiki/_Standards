@@ -1,4 +1,4 @@
-﻿---
+---
 ancestral_home: '[[_Standards/WikiData/WD~Rencheng,113652092]]'
 art_name:
 - 酒仙翁

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Lolita (1962)"
 ---
@@ -30,4 +30,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lolita%20(1962%20film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lolita_(1962_film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).md) 
+
+### #is_/same_as :: [Lolita_(1962_film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).public.md) 
+
+### #is_/same_as :: [Lolita_(1962_film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).internal.md) 
+
+### #is_/same_as :: [Lolita_(1962_film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).protect.md) 
+
+### #is_/same_as :: [Lolita_(1962_film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).private.md) 
+
+### #is_/same_as :: [Lolita_(1962_film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).personal.md) 
+
+### #is_/same_as :: [Lolita_(1962_film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Lolita_(1962_film).secret.md)
 

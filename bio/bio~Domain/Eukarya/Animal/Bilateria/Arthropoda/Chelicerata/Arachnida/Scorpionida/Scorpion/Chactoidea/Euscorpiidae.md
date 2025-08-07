@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euscorpiidae
 ---
 
@@ -40,7 +40,7 @@ title: Euscorpiidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Euscorpiidae](Euscorpiidae.md)) 
+### #is_/same_as :: [Euscorpiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Euscorpiidae.md) 
 
 ### #is_/same_as :: [Euscorpiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Euscorpiidae.public.md) 
 

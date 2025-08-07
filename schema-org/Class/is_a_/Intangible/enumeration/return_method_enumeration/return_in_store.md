@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-in-store
 - return_in_store

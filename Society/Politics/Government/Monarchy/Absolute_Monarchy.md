@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Absolute monarchy"
 has_id_wikidata: Q184558
@@ -21,6 +21,19 @@ has_id_wikidata: Q184558
 > [Wikipedia](https://en.wikipedia.org/wiki/Absolute%20monarchy) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Absolute_Monarchy](/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy.md) 
 
+### #is_/same_as :: [Absolute_Monarchy.public](/_public/Society/Politics/Government/Monarchy/Absolute_Monarchy.public.md) 
+
+### #is_/same_as :: [Absolute_Monarchy.internal](/_internal/Society/Politics/Government/Monarchy/Absolute_Monarchy.internal.md) 
+
+### #is_/same_as :: [Absolute_Monarchy.protect](/_protect/Society/Politics/Government/Monarchy/Absolute_Monarchy.protect.md) 
+
+### #is_/same_as :: [Absolute_Monarchy.private](/_private/Society/Politics/Government/Monarchy/Absolute_Monarchy.private.md) 
+
+### #is_/same_as :: [Absolute_Monarchy.personal](/_personal/Society/Politics/Government/Monarchy/Absolute_Monarchy.personal.md) 
+
+### #is_/same_as :: [Absolute_Monarchy.secret](/_secret/Society/Politics/Government/Monarchy/Absolute_Monarchy.secret.md)
 

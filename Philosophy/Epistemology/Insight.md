@@ -23,3 +23,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Insight) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Insight](/_Standards/Philosophy/Epistemology/Insight.md) 
+
+### #is_/same_as :: [Insight.public](/_public/Philosophy/Epistemology/Insight.public.md) 
+
+### #is_/same_as :: [Insight.internal](/_internal/Philosophy/Epistemology/Insight.internal.md) 
+
+### #is_/same_as :: [Insight.protect](/_protect/Philosophy/Epistemology/Insight.protect.md) 
+
+### #is_/same_as :: [Insight.private](/_private/Philosophy/Epistemology/Insight.private.md) 
+
+### #is_/same_as :: [Insight.personal](/_personal/Philosophy/Epistemology/Insight.personal.md) 
+
+### #is_/same_as :: [Insight.secret](/_secret/Philosophy/Epistemology/Insight.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - map-type
 - map_type

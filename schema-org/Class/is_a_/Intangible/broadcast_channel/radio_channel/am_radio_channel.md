@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - am-radio-channel
 - am_radio_channel

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - movie-clip
 - movie_clip

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Julius Michael Johannes Maggi"
 ---

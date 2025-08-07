@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Eckerö
 confidential: public

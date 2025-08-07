@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Salticus peckhamae"
 ---
 
@@ -33,7 +33,7 @@ Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[peckhamae](peckhamae.md)) 
+### #is_/same_as :: [peckhamae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Salticinae/peckhamae.md) 
 
 ### #is_/same_as :: [peckhamae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Salticinae/peckhamae.public.md) 
 

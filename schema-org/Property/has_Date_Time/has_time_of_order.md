@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-date
 - order_date

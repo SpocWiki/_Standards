@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - research-project
 - research_project

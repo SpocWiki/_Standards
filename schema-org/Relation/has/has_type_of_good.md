@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - type-of-good
 - type_of_good

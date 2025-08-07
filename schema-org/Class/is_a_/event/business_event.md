@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - business-event
 - business_event

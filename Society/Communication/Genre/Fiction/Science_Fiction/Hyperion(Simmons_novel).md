@@ -25,5 +25,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyperion%20(Simmons%20novel)) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Hyperion(Simmons_novel)](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).md) 
+
+### #is_/same_as :: [Hyperion(Simmons_novel).public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).public.md) 
+
+### #is_/same_as :: [Hyperion(Simmons_novel).internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).internal.md) 
+
+### #is_/same_as :: [Hyperion(Simmons_novel).protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).protect.md) 
+
+### #is_/same_as :: [Hyperion(Simmons_novel).private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).private.md) 
+
+### #is_/same_as :: [Hyperion(Simmons_novel).personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).personal.md) 
+
+### #is_/same_as :: [Hyperion(Simmons_novel).secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).secret.md)
 

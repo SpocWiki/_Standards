@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - checkout-page
 - checkout_page

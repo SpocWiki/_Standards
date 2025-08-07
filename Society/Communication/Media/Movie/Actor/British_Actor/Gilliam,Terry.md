@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Terrence Vance Gilliam"
 - "Terry Gilliam"
@@ -49,4 +49,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Gilliam)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gilliam,Terry](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.md) 
+
+### #is_/same_as :: [Gilliam,Terry.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.public.md) 
+
+### #is_/same_as :: [Gilliam,Terry.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.internal.md) 
+
+### #is_/same_as :: [Gilliam,Terry.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.protect.md) 
+
+### #is_/same_as :: [Gilliam,Terry.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.private.md) 
+
+### #is_/same_as :: [Gilliam,Terry.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.personal.md) 
+
+### #is_/same_as :: [Gilliam,Terry.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.secret.md)
 

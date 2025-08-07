@@ -24,4 +24,19 @@ Commons_category: Astrometry
 > [Wikipedia](https://en.wikipedia.org/wiki/Astrometry) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astrometry](/_Standards/Astronomy/Astrometry.md) 
+
+### #is_/same_as :: [Astrometry.public](/_public/Astronomy/Astrometry.public.md) 
+
+### #is_/same_as :: [Astrometry.internal](/_internal/Astronomy/Astrometry.internal.md) 
+
+### #is_/same_as :: [Astrometry.protect](/_protect/Astronomy/Astrometry.protect.md) 
+
+### #is_/same_as :: [Astrometry.private](/_private/Astronomy/Astrometry.private.md) 
+
+### #is_/same_as :: [Astrometry.personal](/_personal/Astronomy/Astrometry.personal.md) 
+
+### #is_/same_as :: [Astrometry.secret](/_secret/Astronomy/Astrometry.secret.md)
 

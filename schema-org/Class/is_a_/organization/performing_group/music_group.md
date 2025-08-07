@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-group
 - music_group

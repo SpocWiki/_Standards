@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Kilogram
 conversion_to_SI_unit: 1
 conversion_to_standard_unit: 1000

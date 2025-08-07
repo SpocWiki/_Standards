@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-reviewed
 - item_reviewed

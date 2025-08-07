@@ -108,3 +108,20 @@ Facebook_username: AndreaBocelliOfficial
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andrea%20Bocelli) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bocelli,Andrea](/_Standards/Society/Communication/Media/Music/Musician/Bocelli,Andrea.md) 
+
+### #is_/same_as :: [Bocelli,Andrea.public](/_public/Society/Communication/Media/Music/Musician/Bocelli,Andrea.public.md) 
+
+### #is_/same_as :: [Bocelli,Andrea.internal](/_internal/Society/Communication/Media/Music/Musician/Bocelli,Andrea.internal.md) 
+
+### #is_/same_as :: [Bocelli,Andrea.protect](/_protect/Society/Communication/Media/Music/Musician/Bocelli,Andrea.protect.md) 
+
+### #is_/same_as :: [Bocelli,Andrea.private](/_private/Society/Communication/Media/Music/Musician/Bocelli,Andrea.private.md) 
+
+### #is_/same_as :: [Bocelli,Andrea.personal](/_personal/Society/Communication/Media/Music/Musician/Bocelli,Andrea.personal.md) 
+
+### #is_/same_as :: [Bocelli,Andrea.secret](/_secret/Society/Communication/Media/Music/Musician/Bocelli,Andrea.secret.md)
+

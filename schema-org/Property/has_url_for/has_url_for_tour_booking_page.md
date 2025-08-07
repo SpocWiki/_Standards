@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tour-booking-page
 - tour_booking_page

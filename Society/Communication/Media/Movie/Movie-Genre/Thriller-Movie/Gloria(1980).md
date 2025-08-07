@@ -13,6 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gloria%20(1980%20film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Gloria(1980)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).md) 
 
+### #is_/same_as :: [Gloria(1980).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).public.md) 
+
+### #is_/same_as :: [Gloria(1980).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).internal.md) 
+
+### #is_/same_as :: [Gloria(1980).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).protect.md) 
+
+### #is_/same_as :: [Gloria(1980).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).private.md) 
+
+### #is_/same_as :: [Gloria(1980).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).personal.md) 
+
+### #is_/same_as :: [Gloria(1980).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Gloria(1980).secret.md)
 

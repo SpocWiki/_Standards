@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amp-story
 - amp_story

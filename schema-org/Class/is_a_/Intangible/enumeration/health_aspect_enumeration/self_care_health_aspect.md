@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - self-care-health-aspect
 - self_care_health_aspect

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affiliation
 - has_affiliation_with

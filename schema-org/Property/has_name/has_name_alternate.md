@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alternate-name
 - alternate_name

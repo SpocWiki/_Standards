@@ -1,4 +1,4 @@
-﻿---
+---
 aliases: 
 Commons_category: "Abstract expressionism"
 has_id_wikidata: Q177725
@@ -26,5 +26,19 @@ subclass_of: '[[_Standards/WikiData/WD~abstract_art,128115]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Abstract%20expressionism) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Abstract_Expressionism](/_Standards/Society/Communication/Art/Abstract_Expressionism.md) 
+
+### #is_/same_as :: [Abstract_Expressionism.public](/_public/Society/Communication/Art/Abstract_Expressionism.public.md) 
+
+### #is_/same_as :: [Abstract_Expressionism.internal](/_internal/Society/Communication/Art/Abstract_Expressionism.internal.md) 
+
+### #is_/same_as :: [Abstract_Expressionism.protect](/_protect/Society/Communication/Art/Abstract_Expressionism.protect.md) 
+
+### #is_/same_as :: [Abstract_Expressionism.private](/_private/Society/Communication/Art/Abstract_Expressionism.private.md) 
+
+### #is_/same_as :: [Abstract_Expressionism.personal](/_personal/Society/Communication/Art/Abstract_Expressionism.personal.md) 
+
+### #is_/same_as :: [Abstract_Expressionism.secret](/_secret/Society/Communication/Art/Abstract_Expressionism.secret.md)
 

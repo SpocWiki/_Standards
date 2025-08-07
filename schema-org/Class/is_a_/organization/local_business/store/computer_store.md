@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - computer-store
 - computer_store

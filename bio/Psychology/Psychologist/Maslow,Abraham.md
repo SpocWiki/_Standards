@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree:
 - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 - '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
@@ -88,4 +88,19 @@ student_of: '[[_Standards/WikiData/WD~Alfred_Adler,152393]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Maslow)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Maslow,Abraham](/_Standards/bio/Psychology/Psychologist/Maslow,Abraham.md) 
+
+### #is_/same_as :: [Maslow,Abraham.public](/_public/bio/Psychology/Psychologist/Maslow,Abraham.public.md) 
+
+### #is_/same_as :: [Maslow,Abraham.internal](/_internal/bio/Psychology/Psychologist/Maslow,Abraham.internal.md) 
+
+### #is_/same_as :: [Maslow,Abraham.protect](/_protect/bio/Psychology/Psychologist/Maslow,Abraham.protect.md) 
+
+### #is_/same_as :: [Maslow,Abraham.private](/_private/bio/Psychology/Psychologist/Maslow,Abraham.private.md) 
+
+### #is_/same_as :: [Maslow,Abraham.personal](/_personal/bio/Psychology/Psychologist/Maslow,Abraham.personal.md) 
+
+### #is_/same_as :: [Maslow,Abraham.secret](/_secret/bio/Psychology/Psychologist/Maslow,Abraham.secret.md)
 

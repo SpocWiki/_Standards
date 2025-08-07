@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tragulidae
 ---
 
@@ -62,7 +62,7 @@ Reference         Miller, G. S. 1909. The mouse deer of the Rhio-Linga Archipela
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tragulidae](Tragulidae.md)) 
+### #is_/same_as :: [Tragulidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Tragulidae.md) 
 
 ### #is_/same_as :: [Tragulidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Tragulidae.public.md) 
 

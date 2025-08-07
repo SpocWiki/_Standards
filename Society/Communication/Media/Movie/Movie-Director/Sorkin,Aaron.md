@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Aaron Benjamin Sorkin"
 - "Aaron Sorkin"
@@ -70,5 +70,19 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Aaron%20Sorkin) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Sorkin,Aaron](/_Standards/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.md) 
+
+### #is_/same_as :: [Sorkin,Aaron.public](/_public/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.public.md) 
+
+### #is_/same_as :: [Sorkin,Aaron.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.internal.md) 
+
+### #is_/same_as :: [Sorkin,Aaron.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.protect.md) 
+
+### #is_/same_as :: [Sorkin,Aaron.private](/_private/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.private.md) 
+
+### #is_/same_as :: [Sorkin,Aaron.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.personal.md) 
+
+### #is_/same_as :: [Sorkin,Aaron.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Sorkin,Aaron.secret.md)
 

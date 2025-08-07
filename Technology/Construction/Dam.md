@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Dams
 Commons_gallery: Dam
 described_by_source:

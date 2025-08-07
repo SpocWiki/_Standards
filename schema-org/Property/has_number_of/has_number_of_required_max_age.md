@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - required-max-age
 - required_max_age

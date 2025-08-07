@@ -1,4 +1,4 @@
-﻿---
+---
 title: Asperoteuthis
 ---
 
@@ -176,7 +176,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Asperoteuthis](Asperoteuthis.md)) 
+### #is_/same_as :: [Asperoteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis.md) 
 
 ### #is_/same_as :: [Asperoteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis.public.md) 
 

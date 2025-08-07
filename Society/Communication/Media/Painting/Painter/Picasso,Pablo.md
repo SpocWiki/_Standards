@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pablo Picasso"
 - "Pablo Ruiz Picasso"

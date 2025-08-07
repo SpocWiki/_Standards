@@ -1,4 +1,4 @@
-﻿---
+---
 title: Valerianaceae
 ---
 
@@ -197,17 +197,17 @@ Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Valerianaceae](Valerianaceae.md)) 
+### #is_/same_as :: [Valerianaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.md) 
 
-### #is_/same_as :: [Valerianaceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.public.md) 
+### #is_/same_as :: [Valerianaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.public.md) 
 
-### #is_/same_as :: [Valerianaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.internal.md) 
+### #is_/same_as :: [Valerianaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.internal.md) 
 
-### #is_/same_as :: [Valerianaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.protect.md) 
+### #is_/same_as :: [Valerianaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.protect.md) 
 
-### #is_/same_as :: [Valerianaceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.private.md) 
+### #is_/same_as :: [Valerianaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.private.md) 
 
-### #is_/same_as :: [Valerianaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.personal.md) 
+### #is_/same_as :: [Valerianaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.personal.md) 
 
-### #is_/same_as :: [Valerianaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.secret.md)
+### #is_/same_as :: [Valerianaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Valerianaceae.secret.md)
 

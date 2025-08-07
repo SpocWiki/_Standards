@@ -15,3 +15,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atlas%20(mythology)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atlas(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).md) 
+
+### #is_/same_as :: [Atlas(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).public.md) 
+
+### #is_/same_as :: [Atlas(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).internal.md) 
+
+### #is_/same_as :: [Atlas(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).protect.md) 
+
+### #is_/same_as :: [Atlas(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).private.md) 
+
+### #is_/same_as :: [Atlas(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).personal.md) 
+
+### #is_/same_as :: [Atlas(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).secret.md)
+

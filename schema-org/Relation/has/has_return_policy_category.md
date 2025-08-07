@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-policy-category
 - return_policy_category

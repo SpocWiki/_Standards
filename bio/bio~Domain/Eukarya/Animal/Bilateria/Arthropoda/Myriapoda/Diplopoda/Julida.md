@@ -1,4 +1,4 @@
-﻿---
+---
 title: Julida
 ---
 
@@ -82,7 +82,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Julida](Julida.md)) 
+### #is_/same_as :: [Julida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.md) 
 
 ### #is_/same_as :: [Julida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.public.md) 
 

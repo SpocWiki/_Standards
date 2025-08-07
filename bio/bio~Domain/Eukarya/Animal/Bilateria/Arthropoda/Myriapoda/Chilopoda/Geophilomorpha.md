@@ -1,4 +1,4 @@
-﻿---
+---
 title: Geophilomorpha
 ---
 
@@ -44,7 +44,7 @@ Chichester, Weinheim, Brisbane, Singapore, Toronto.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Geophilomorpha](Geophilomorpha.md)) 
+### #is_/same_as :: [Geophilomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.md) 
 
 ### #is_/same_as :: [Geophilomorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.public.md) 
 

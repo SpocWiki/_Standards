@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Längsschnittstudie
 - Verlaufsstudie

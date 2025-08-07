@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hisponinae
 ---
 
@@ -58,7 +58,7 @@ fossils from the Baltic amber.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hisponinae](Hisponinae.md)) 
+### #is_/same_as :: [Hisponinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hisponinae.md) 
 
 ### #is_/same_as :: [Hisponinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hisponinae.public.md) 
 

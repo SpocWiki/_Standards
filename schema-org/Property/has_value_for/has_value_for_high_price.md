@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - high_price
 - high-price

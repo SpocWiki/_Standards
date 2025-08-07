@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Micrognathozoa
 - Limnognathia
@@ -63,7 +63,7 @@ title: "Limnognathia maerski"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Micrognathozoa](Micrognathozoa.md)) 
+### #is_/same_as :: [Micrognathozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.md) 
 
 ### #is_/same_as :: [Micrognathozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Micrognathozoa.public.md) 
 

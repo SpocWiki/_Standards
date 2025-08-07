@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c28
 - nonprofit501c28

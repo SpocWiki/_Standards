@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Neil Armstrong"
 ancestral_home: '[[_Standards/WikiData/WD~Germany,183]]'

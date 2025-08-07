@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mass media"
 - Media
@@ -83,10 +83,6 @@ U_S_National_Archives_Identifier: 10638171
 > (the latter are also sometimes known as mass media networks); they often form media conglomerates.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mass%20media)
-
-
-
-
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - discount-code
 - code_for_discount

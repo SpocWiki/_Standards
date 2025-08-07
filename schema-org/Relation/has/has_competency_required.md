@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - competency-required
 - competency_required

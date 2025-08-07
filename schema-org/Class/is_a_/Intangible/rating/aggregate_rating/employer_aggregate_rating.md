@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - employer-aggregate-rating
 - employer_aggregate_rating

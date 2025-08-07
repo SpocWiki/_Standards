@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gonatidae
 ---
 
@@ -296,7 +296,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gonatidae](Gonatidae.md)) 
+### #is_/same_as :: [Gonatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Gonatidae.md) 
 
 ### #is_/same_as :: [Gonatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Gonatidae.public.md) 
 

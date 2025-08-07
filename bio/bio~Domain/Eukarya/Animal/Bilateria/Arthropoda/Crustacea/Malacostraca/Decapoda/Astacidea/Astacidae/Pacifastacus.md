@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pacifastacus
 ---
 
@@ -52,7 +52,7 @@ Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pacifastacus](Pacifastacus.md)) 
+### #is_/same_as :: [Pacifastacus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.md) 
 
 ### #is_/same_as :: [Pacifastacus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.public.md) 
 

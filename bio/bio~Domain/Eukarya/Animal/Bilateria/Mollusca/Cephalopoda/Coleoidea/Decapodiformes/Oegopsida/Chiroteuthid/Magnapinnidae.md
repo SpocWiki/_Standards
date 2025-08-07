@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magnapinna
 ---
 
@@ -234,7 +234,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Magnapinnidae](Magnapinnidae.md)) 
+### #is_/same_as :: [Magnapinnidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.md) 
 
 ### #is_/same_as :: [Magnapinnidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.public.md) 
 

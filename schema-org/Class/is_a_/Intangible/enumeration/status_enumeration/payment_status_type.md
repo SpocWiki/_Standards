@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-status-type
 - payment_status_type

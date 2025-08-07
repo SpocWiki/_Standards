@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-engine
 - vehicle_engine

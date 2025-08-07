@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scolopendromorpha
 ---
 
@@ -44,7 +44,7 @@ Chichester, Weinheim, Brisbane, Singapore, Toronto.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scolopendromorpha](Scolopendromorpha.md)) 
+### #is_/same_as :: [Scolopendromorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.md) 
 
 ### #is_/same_as :: [Scolopendromorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.public.md) 
 

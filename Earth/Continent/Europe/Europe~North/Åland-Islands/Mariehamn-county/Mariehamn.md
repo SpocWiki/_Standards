@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Mariehamn
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 has_member: 
 ---
 
@@ -78,4 +78,20 @@ has_member:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kiss%20(band))
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kiss(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).md) 
+
+### #is_/same_as :: [Kiss(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).public.md) 
+
+### #is_/same_as :: [Kiss(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).internal.md) 
+
+### #is_/same_as :: [Kiss(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).protect.md) 
+
+### #is_/same_as :: [Kiss(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).private.md) 
+
+### #is_/same_as :: [Kiss(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).personal.md) 
+
+### #is_/same_as :: [Kiss(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - product-id
 - id_product

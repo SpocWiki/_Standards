@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-article
 - associated_article

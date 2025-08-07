@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dj-mix-album
 - dj_mix_album

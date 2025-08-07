@@ -1,4 +1,4 @@
-﻿---
+---
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~air,7391292]]'
 Commons_category: Respiration
 described_by_source:

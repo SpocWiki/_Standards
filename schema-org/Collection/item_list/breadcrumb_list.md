@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - breadcrumb-list
 - breadcrumb_list

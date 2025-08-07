@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - complete-data-feed
 - complete_data_feed

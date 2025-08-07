@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-frequency-specification
 - broadcast_frequency_specification

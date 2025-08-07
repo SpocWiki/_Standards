@@ -35,3 +35,20 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Microsoft](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.md) 
+
+### #is_/same_as :: [Microsoft.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.public.md) 
+
+### #is_/same_as :: [Microsoft.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.internal.md) 
+
+### #is_/same_as :: [Microsoft.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.protect.md) 
+
+### #is_/same_as :: [Microsoft.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.private.md) 
+
+### #is_/same_as :: [Microsoft.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.personal.md) 
+
+### #is_/same_as :: [Microsoft.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Microsoft.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eurypauropodidae
 ---
 
@@ -45,7 +45,7 @@ title: Eurypauropodidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eurypauropodidae](Eurypauropodidae.md)) 
+### #is_/same_as :: [Eurypauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.md) 
 
 ### #is_/same_as :: [Eurypauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.public.md) 
 

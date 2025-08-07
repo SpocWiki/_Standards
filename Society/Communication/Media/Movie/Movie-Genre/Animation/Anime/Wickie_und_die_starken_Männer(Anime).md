@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Vicky_the_Viking
 - "Wickie und die starken Männer"
@@ -17,4 +17,21 @@ and was followed by .
 > In 2013–2014, the series also existed in 3D animation produced by Studio 100.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vicky%20the%20Viking)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).md) 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).public.md) 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).internal.md) 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).protect.md) 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).private.md) 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).personal.md) 
+
+### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).secret.md)
 

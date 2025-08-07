@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Salvador Dalí"
 - "Salvador Domingo Felipe Jacinto Dalí i Domènech"

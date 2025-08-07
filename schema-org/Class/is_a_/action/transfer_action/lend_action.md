@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lend-action
 - lend_action

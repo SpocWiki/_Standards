@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Capital city"
 has_id_wikidata: Q5119

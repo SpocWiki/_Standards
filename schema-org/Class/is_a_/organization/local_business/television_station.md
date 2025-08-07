@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - television-station
 - television_station

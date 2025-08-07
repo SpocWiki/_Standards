@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - see-doctor-health-aspect
 - see_doctor_health_aspect

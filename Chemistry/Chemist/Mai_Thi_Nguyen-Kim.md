@@ -1,0 +1,30 @@
+
+
+#has_/time_/started :: 1987-08-07 
+#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
+
+## #has_/text_of_/abstract 
+
+> Mai Thi Nguyen-Kim (born 7 August 1987) 
+> is a German chemist, science communicator, television presenter and YouTuber. 
+> In June 2020 she was elected to the senate of the Max Planck Society.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mai%20Thi%20Nguyen-Kim)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim](/_Standards/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.md) 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim.public](/_public/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.public.md) 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim.internal](/_internal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.internal.md) 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim.protect](/_protect/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.protect.md) 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim.private](/_private/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.private.md) 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim.personal](/_personal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.personal.md) 
+
+### #is_/same_as :: [Mai_Thi_Nguyen-Kim.secret](/_secret/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.secret.md)
+

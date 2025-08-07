@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Patricia Clarkson"
 ---
@@ -51,4 +51,21 @@ aliases:
 > co-produced by AGC Television and Lionsgate Films.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Patricia%20Clarkson)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clarkson,Patricia](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.md) 
+
+### #is_/same_as :: [Clarkson,Patricia.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.public.md) 
+
+### #is_/same_as :: [Clarkson,Patricia.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.internal.md) 
+
+### #is_/same_as :: [Clarkson,Patricia.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.protect.md) 
+
+### #is_/same_as :: [Clarkson,Patricia.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.private.md) 
+
+### #is_/same_as :: [Clarkson,Patricia.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.personal.md) 
+
+### #is_/same_as :: [Clarkson,Patricia.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.secret.md)
 

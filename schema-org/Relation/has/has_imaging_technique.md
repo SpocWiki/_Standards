@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - imaging-technique
 - imaging_technique

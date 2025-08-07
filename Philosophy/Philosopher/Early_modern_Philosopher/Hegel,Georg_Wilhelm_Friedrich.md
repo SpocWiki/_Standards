@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 aliases:
 - "Georg Wilhelm Friedrich Hegel"

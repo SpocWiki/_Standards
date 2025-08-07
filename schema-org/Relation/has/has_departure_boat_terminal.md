@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - departure-boat-terminal
 - departure_boat_terminal
