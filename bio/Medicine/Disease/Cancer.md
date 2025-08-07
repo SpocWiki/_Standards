@@ -69,9 +69,17 @@ UMLS_CUI: C0006826
 U_S_National_Archives_Identifier: 10636616
 ---
 
+# [[Cancer]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Cancer,12078|WD~Cancer,12078]] 
+
 ## #has_/text_of_/abstract 
 
-> **Cancer** is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body. These contrast with benign tumors, which do not spread. Possible signs and symptoms include a lump, abnormal bleeding, prolonged cough, unexplained weight loss, and a change in bowel movements. While these symptoms may indicate cancer, they can also have other causes. Over 100 types of cancers affect humans.
+> **Cancer** is a group of diseases involving abnormal cell growth 
+> with the potential to invade or spread to other parts of the body. 
+> These contrast with benign tumors, which do not spread. 
+> 
+> Possible signs and symptoms include a lump, abnormal bleeding, prolonged cough, unexplained weight loss, and a change in bowel movements. While these symptoms may indicate cancer, they can also have other causes. Over 100 types of cancers affect humans.
 >
 > Tobacco use is the cause of about 22% of cancer deaths. Another 10% are due to obesity, poor diet, lack of physical activity or excessive alcohol consumption. Other factors include certain infections, exposure to ionizing radiation, and environmental pollutants. Infection with specific viruses, bacteria and parasites is an environmental factor causing approximately 16–18% of cancers worldwide.  These infectious agents include Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein–Barr virus, Human T-lymphotropic virus 1, Kaposi's sarcoma-associated herpesvirus and Merkel cell polyomavirus.  Human immunodeficiency virus (HIV) does not directly cause cancer but it causes immune deficiency that can magnify the risk due to other infections, sometimes up to several thousandfold (in the case of Kaposi's sarcoma). Importantly, vaccination against hepatitis B and human papillomavirus have been shown to nearly eliminate risk of cancers caused by these viruses in persons successfully vaccinated prior to infection.
 >

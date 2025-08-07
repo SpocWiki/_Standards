@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "G:33"
 Commons_category: Metabolism
 described_by_source:

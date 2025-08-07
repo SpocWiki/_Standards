@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hemp
 - Cannabis
@@ -50,6 +50,8 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Cannabis,5609335]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cannabis,10730069]]'
 UMLS_CUI: C0949248
 ---
+
+# [[Cannabis]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cannabis,79817|WD~Cannabis,79817]]
 

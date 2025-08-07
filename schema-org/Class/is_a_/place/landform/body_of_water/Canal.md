@@ -24,7 +24,7 @@ title: "is_a_canal Class"
 type: Type
 ---
 
-# [[Canal1]] 
+# [[Canal]] 
 
 
 Class of all canals.
