@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: NT
 Commons_category: Theatre
 Commons_gallery: Theatre
