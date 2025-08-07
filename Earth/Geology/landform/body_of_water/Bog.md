@@ -32,7 +32,7 @@ GeoNames_feature_code: H.BOG
 
 # [[Bog]] 
 
-#is_/same_as :: [[../../WikiData/WD~Bog,1681353|WD~Bog,1681353]] 
+#is_/same_as :: [[../../../../WikiData/WD~Bog,1681353|WD~Bog,1681353]] 
 
 ## #has_/text_of_/abstract 
 
