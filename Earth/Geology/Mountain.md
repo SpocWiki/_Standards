@@ -1,9 +1,9 @@
-﻿---
+---
 aliases:
-- Berg
-- mountain
-- Mountain
-- is_a_mountain
+  - Berg
+  - mountain
+  - Mountain
+  - is_a_mountain
 has_id_wikidata: Q8502
 confidential: public
 cssclasses: Type
@@ -12,16 +12,16 @@ expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
-- mountain
+  - mountain
 layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_mountain Class"
+license: CC BY-SA 4.0
+linkTitle: is_a_mountain Class
 publish: true
 publishDate: 
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_mountain Class"
+  - class/Class
+  - schema-org/Class
+title: is_a_mountain Class
 type: Type
 ---
 
