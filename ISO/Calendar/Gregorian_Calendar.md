@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Gregorian calendars"
 Commons_gallery: "Gregorian calendar"
 described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -37,6 +37,8 @@ Stack_Exchange_tag: "https://stackoverflow.com/tags/gregorian-calendar"
 ---
 
 #has_/time_/started :: 1582-10-15 
+
+#is_/same_as :: [[../../WikiData/WD~Gregorian_calendar,12138|WD~Gregorian_calendar,12138]] 
 
 The new [[Gregorian_Calendar]] better approximates the[[../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Julian_calendar]]], 
 which accumulated 10 days (11 minutes per year; 1 day every 129 years) 

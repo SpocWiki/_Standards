@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 98
 canonical_SMILES: '[Cf]'
 CAS_Registry_Number: 7440-71-3
@@ -51,7 +51,7 @@ Unicode_character: 鉲
 UNII: 975X05H15A
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Californium,1888]] 
+# [[Californium]]
 
 
 #chemic/Element 
@@ -80,6 +80,8 @@ UNII: 975X05H15A
 (GroupNo::32)
 []
 (Charge-e::98)
+
+#is_/same_as :: [[../../../WikiData/WD~Californium,1888]] 
 
 
 

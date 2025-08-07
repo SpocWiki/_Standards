@@ -47,7 +47,7 @@ UMLS_CUI: C0028645
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Numerical_Analysis](/_Standards/Mathematics/Analysis(Math)/Numerical_Analysis.md) 
+### #is_/same_as ::[Numerical_Analysis](Numerical_Analysis.md)) 
 
 ### #is_/same_as :: [Numerical_Analysis.public](/_public/Mathematics/Analysis(Math)/Numerical_Analysis.public.md) 
 

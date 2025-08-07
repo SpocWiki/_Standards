@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 20
 boiling_point: 1483.85
 canonical_SMILES: '[Ca]'
@@ -87,6 +87,8 @@ UNSPSC_Code: 11101511
 ZVG_number: 8160
 ---
 
+# [[Calcium]] 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
 
@@ -111,6 +113,8 @@ ZVG_number: 8160
 [FormEnergy-kj-mol::153.6]
 (PeriodNo::4)
 (GroupNo::2)
+
+#is_/same_as :: [[../../../WikiData/WD~Calcium,706|WD~Calcium,706]] 
 
 ## #has_/text_of_/abstract 
 

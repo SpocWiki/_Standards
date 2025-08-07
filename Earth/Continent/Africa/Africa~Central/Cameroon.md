@@ -676,10 +676,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 120 ]
 
+[ISO2::CM] 
+[ISO3::CMR] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Cameroon,1009|WD~Cameroon,1009]] 
 
-[ISO2::CM]
-[ISO3::CMR]
+## #has_/map  
+
 ```leaflet
 id: Cameroon
 zoomFeatures: true 

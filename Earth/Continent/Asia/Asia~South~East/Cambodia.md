@@ -425,10 +425,10 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 [	ISO3166-1-numeric	 :: 116 ]
 
-
-
 [ISO2::KH]
 [ISO3::KHM] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Cambodia,424|WD~Cambodia,424]] 
 
 ## #has_/map  
 
