@@ -1,4 +1,27 @@
 ---
+aliases:
+- ocean-body-of-water
+- ocean_body_of_water
+- OceanBodyOfWater
+- is_an_ocean_body_of_water
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- ocean_body_of_water
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_an_ocean_body_of_water Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_an_ocean_body_of_water Class"
+type: Type
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%202048.jpg"
 Commons_category: Oceans
 Commons_gallery: "Atlas of the Oceans"
@@ -51,6 +74,17 @@ Wolfram_Language_entity_type: Ocean
 ---
 
 # [[Ocean]] 
+
+Class of all ocean_body_of_waters.
+
+Tag Instances like this: 
+#is_an_/ocean_body_of_water
+
+An ocean (for example, the Pacific).
+
+[ #is_/sub_class_of :: [[../BodyOfWater]] ]
+
+[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 Oceans are not as well-bounded as Continents, 
 because they cover a larger Globe Area than Continents. 
