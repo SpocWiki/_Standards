@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "W:3"
 Commons_category: Government
 described_by_source:

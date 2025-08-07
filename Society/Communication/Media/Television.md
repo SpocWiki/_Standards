@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 05.36
 Colon_Classification: D65,45
 Commons_category: Television
