@@ -24,7 +24,7 @@ title: "is_a_landform Class"
 type: Type
 ---
 
-# [[Landforms]]
+# [[Landform]]
 
 Class of all landforms.
 

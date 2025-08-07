@@ -31,7 +31,7 @@ Tag Instances like this:
 
 A body of water, such as a sea, ocean, or lake.
 
-[ #is_/sub_class_of :[[../Landforms]]]] ]
+[ #is_/sub_class_of [[../Landform]]]]] ]
 
 [ #has_/sub_classes :: [ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ] ]
 
