@@ -1,4 +1,25 @@
 ---
+aliases:
+- Kanal
+- Canal
+- is_a_canal
+confidential: public
+cssclasses: Type
+draft: false
+isDeleted: false
+isReadOnly: false
+keywords:
+- canal
+layout: 
+license: "CC BY-SA 4.0"
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_canal Class"
+type: Type
+linkTitle: "is_a_canal Class"
+publish: true
 Commons_category: Canals
 Commons_gallery: Canal
 described_by_source:
@@ -36,6 +57,22 @@ subclass_of:
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_canal,6500619]]'
 Wolfram_Language_entity_type: Canal
 ---
+
+# [[Canal]] 
+
+
+Class of all canals.
+
+Tag Instances like this: 
+#is_a_/canal
+
+A canal, like the Panama Canal.
+
+[ #is_/sub_class_of :: [[../BodyOfWater]] ]
+
+[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Canal,12284|WD~Canal,12284]] 
 
 ## #has_/text_of_/abstract 
 
