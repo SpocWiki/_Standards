@@ -115,4 +115,5 @@ UNII: MNQ4O4WSI1
 
 ### #is_/same_as :: [Ytterbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.personal.md) 
 
-### #is_/same_as :: [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md)
+### #is_/same_as :: [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md)
+

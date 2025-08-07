@@ -7,12 +7,12 @@ has_id_wikidata: Q34095
 
 #is_/similar_to :: [[Brass]] 
 #is_/same_as :: [[../../../../WikiData/WD~Bronze,34095|WD~Bronze,34095]] 
-#has_/parts :: [[../../../chemic~Elements/Group-11-Copper/Copper|Copper]] 
-#has_/parts :: [[../../../chemic~Elements/Group-14-Carbon/Tin|Tin]]  
+#has_/parts :: [[../../../Chemical_Element/Group-11-Copper/Copper|Copper]] 
+#has_/parts :: [[../../../Chemical_Element/Group-14-Carbon/Tin|Tin]]  
 
 ## #has_/text_of_/abstract 
 
-> **Bronze** is an [[../Alloy|alloy]] consisting primarily of [[../../../chemic~Elements/Group-11-Copper/Copper|copper]], commonly with about 12–12.5% [[../../../chemic~Elements/Group-14-Carbon/Tin|tin]] 
+> **Bronze** is an [[../Alloy|alloy]] consisting primarily of [[../../../Chemical_Element/Group-11-Copper/Copper|copper]], commonly with about 12–12.5% [[../../../Chemical_Element/Group-14-Carbon/Tin|tin]] 
 > and often with the addition of other metals (including aluminium, manganese, nickel, or zinc) 
 > and sometimes non-metals (such as phosphorus) or metalloids (such as arsenic or silicon). 
 > These additions produce a range of alloys some of which are harder than copper alone 

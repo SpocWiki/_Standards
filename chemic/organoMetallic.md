@@ -3,10 +3,10 @@
 > chemical compounds containing at least one chemical bond 
 > - between a carbon atom of an organic molecule 
 > - and a metal, including alkali, alkaline earth, and transition metals, 
-> - and sometimes broadened to include metalloids like [[chemic~Elements/Group-13-Boron/Boron|boron]], [[chemic~Elements/Group-14-Carbon/Silicon|silicon]], and [[chemic~Elements/Group-16-Chalcogene/Selenium|selenium]], as well. 
+> - and sometimes broadened to include metalloids like [[Chemical_Element/Group-13-Boron/Boron|boron]], [[Chemical_Element/Group-14-Carbon/Silicon|silicon]], and [[Chemical_Element/Group-16-Chalcogene/Selenium|selenium]], as well. 
 > 
 > Aside from bonds to organyl fragments or molecules, 
-> bonds to 'inorganic' [[chemic~Elements/Group-14-Carbon/Carbon|carbon]], like carbon monoxide (metal carbonyls), cyanide, or carbide, 
+> bonds to 'inorganic' [[Chemical_Element/Group-14-Carbon/Carbon|carbon]], like carbon monoxide (metal carbonyls), cyanide, or carbide, 
 > are generally considered to be organometallic as well.  
 > 
 > Some related compounds such as transition metal hydrides and metal phosphine complexes 

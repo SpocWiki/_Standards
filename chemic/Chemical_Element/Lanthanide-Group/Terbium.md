@@ -109,4 +109,5 @@ UNII: 06SSF7P179
 
 ### #is_/same_as :: [Terbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Terbium.personal.md) 
 
-### #is_/same_as :: [Terbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Terbium.secret.md)
+### #is_/same_as :: [Terbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Terbium.secret.md)
+

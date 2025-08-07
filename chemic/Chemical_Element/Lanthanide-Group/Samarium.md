@@ -109,4 +109,5 @@ UNII: 42OD65L39F
 
 ### #is_/same_as :: [Samarium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Samarium.personal.md) 
 
-### #is_/same_as :: [Samarium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Samarium.secret.md)
+### #is_/same_as :: [Samarium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Samarium.secret.md)
+

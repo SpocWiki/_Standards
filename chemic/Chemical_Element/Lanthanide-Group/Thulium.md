@@ -98,4 +98,5 @@ UNII: 8RKC5ATI4P
 
 ### #is_/same_as :: [Thulium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Thulium.personal.md) 
 
-### #is_/same_as :: [Thulium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Thulium.secret.md)
+### #is_/same_as :: [Thulium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Thulium.secret.md)
+
