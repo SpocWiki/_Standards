@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lake-body-of-water
 - lake_body_of_water

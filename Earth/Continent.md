@@ -1,4 +1,27 @@
 ﻿---
+aliases:
+- Kontinent
+- continent
+- Continent
+- is_a_continent
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- continent
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_continent Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_continent Class"
+type: Type
 Commons_category: Continents
 Commons_gallery: Continents
 described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#continent"
@@ -50,6 +73,17 @@ on a global-scale
 Since geographical Information is voluminous, this Repository only contains Details down to the Country Level (with [[Continent/Antarctica|Antarctica]], [[Continent/Oceania|Oceania]] and [[Continent/America~Caribbean|America~Caribbean]] as exceptions). To add Details below this Level, check out the Repository into the corresponding Folder to obtain consistent Link-Paths. 
 
 They largely coincide with a subset of Tectonic plates, which can also form high Mountain Ranges like the Alps or the Himalayas, but except for the Ural (separating [[Continent/Europe]] from [[Continent/Asia]] , these are not typically used to distinguish Continents. 
+
+Class of all continents.
+
+Tag Instances like this: 
+#is_a_/continent
+
+One of the continents (for example, Europe or Africa).
+
+[ #is_/sub_class_of ::[[../landform]]] ]
+
+[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Abstract 
 
