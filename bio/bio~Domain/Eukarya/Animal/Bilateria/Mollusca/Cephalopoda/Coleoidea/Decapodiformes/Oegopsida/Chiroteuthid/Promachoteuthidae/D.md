@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Promachoteuthis sp. D"
 ---
 
@@ -132,7 +132,7 @@ from the WALTHER HERWIG at 1550 m depth.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[D](D.md)) 
+### #is_/same_as :: [D](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/D.md) 
 
 ### #is_/same_as :: [D.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/D.public.md) 
 

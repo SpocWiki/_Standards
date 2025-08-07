@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 眼睛
 Colon_Classification: L185
 Commons_category: Eyes

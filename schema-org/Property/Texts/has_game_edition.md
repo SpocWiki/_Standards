@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-edition
 - game_edition

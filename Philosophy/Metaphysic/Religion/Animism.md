@@ -40,3 +40,20 @@ OpenStreetMap_tag_or_key: Tag:religion=animist
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Animism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Animism](/_Standards/Philosophy/Metaphysic/Religion/Animism.md) 
+
+### #is_/same_as :: [Animism.public](/_public/Philosophy/Metaphysic/Religion/Animism.public.md) 
+
+### #is_/same_as :: [Animism.internal](/_internal/Philosophy/Metaphysic/Religion/Animism.internal.md) 
+
+### #is_/same_as :: [Animism.protect](/_protect/Philosophy/Metaphysic/Religion/Animism.protect.md) 
+
+### #is_/same_as :: [Animism.private](/_private/Philosophy/Metaphysic/Religion/Animism.private.md) 
+
+### #is_/same_as :: [Animism.personal](/_personal/Philosophy/Metaphysic/Religion/Animism.personal.md) 
+
+### #is_/same_as :: [Animism.secret](/_secret/Philosophy/Metaphysic/Religion/Animism.secret.md)
+

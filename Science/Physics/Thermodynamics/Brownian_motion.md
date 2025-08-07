@@ -23,3 +23,20 @@ has_id_wikidata: Q178036
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brownian%20motion) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brownian_motion](/_Standards/Science/Physics/Thermodynamics/Brownian_motion.md) 
+
+### #is_/same_as :: [Brownian_motion.public](/_public/Science/Physics/Thermodynamics/Brownian_motion.public.md) 
+
+### #is_/same_as :: [Brownian_motion.internal](/_internal/Science/Physics/Thermodynamics/Brownian_motion.internal.md) 
+
+### #is_/same_as :: [Brownian_motion.protect](/_protect/Science/Physics/Thermodynamics/Brownian_motion.protect.md) 
+
+### #is_/same_as :: [Brownian_motion.private](/_private/Science/Physics/Thermodynamics/Brownian_motion.private.md) 
+
+### #is_/same_as :: [Brownian_motion.personal](/_personal/Science/Physics/Thermodynamics/Brownian_motion.personal.md) 
+
+### #is_/same_as :: [Brownian_motion.secret](/_secret/Science/Physics/Thermodynamics/Brownian_motion.secret.md)
+

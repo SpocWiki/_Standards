@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-downloads
 - user_downloads

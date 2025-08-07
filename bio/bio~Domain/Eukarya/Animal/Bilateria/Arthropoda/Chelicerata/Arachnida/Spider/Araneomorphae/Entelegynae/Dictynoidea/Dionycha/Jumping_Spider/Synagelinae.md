@@ -1,4 +1,4 @@
-﻿---
+---
 title: Synagelinae
 ---
 
@@ -74,7 +74,7 @@ the New World.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Synagelinae](Synagelinae.md)) 
+### #is_/same_as :: [Synagelinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Synagelinae.md) 
 
 ### #is_/same_as :: [Synagelinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Synagelinae.public.md) 
 

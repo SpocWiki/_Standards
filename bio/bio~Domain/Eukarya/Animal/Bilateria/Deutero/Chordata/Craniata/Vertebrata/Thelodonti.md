@@ -1,4 +1,4 @@
-﻿---
+---
 title: Thelodonti
 ---
 
@@ -136,7 +136,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Thelodonti](Thelodonti.md)) 
+### #is_/same_as :: [Thelodonti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.md) 
 
 ### #is_/same_as :: [Thelodonti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Thelodonti.public.md) 
 

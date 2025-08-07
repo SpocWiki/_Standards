@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-drug
 - related_drug

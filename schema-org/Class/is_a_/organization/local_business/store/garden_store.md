@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - garden-store
 - garden_store

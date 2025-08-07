@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pregnancy-category
 - pregnancy_category

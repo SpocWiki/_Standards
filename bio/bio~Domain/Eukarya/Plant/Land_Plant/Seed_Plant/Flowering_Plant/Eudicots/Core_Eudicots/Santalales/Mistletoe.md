@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Mistletoe
 - Mistel
@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mistletoe](Mistletoe.md)) 
+### #is_/same_as :: [Mistletoe](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.md) 
 
-### #is_/same_as :: [Mistletoe.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.public.md) 
+### #is_/same_as :: [Mistletoe.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.public.md) 
 
-### #is_/same_as :: [Mistletoe.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.internal.md) 
+### #is_/same_as :: [Mistletoe.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.internal.md) 
 
-### #is_/same_as :: [Mistletoe.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.protect.md) 
+### #is_/same_as :: [Mistletoe.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.protect.md) 
 
-### #is_/same_as :: [Mistletoe.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.private.md) 
+### #is_/same_as :: [Mistletoe.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.private.md) 
 
-### #is_/same_as :: [Mistletoe.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.personal.md) 
+### #is_/same_as :: [Mistletoe.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.personal.md) 
 
-### #is_/same_as :: [Mistletoe.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.secret.md)
+### #is_/same_as :: [Mistletoe.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - benefits-summary-url
 - benefits_summary_url

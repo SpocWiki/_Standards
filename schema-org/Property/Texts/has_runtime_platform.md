@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - runtime-platform
 - runtime_platform

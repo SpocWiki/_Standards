@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bank-account-type
 - bank_account_type

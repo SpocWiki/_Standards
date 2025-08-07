@@ -138,3 +138,20 @@ P8189: "987007594503605171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apollo%2011) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apollo_11](/_Standards/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.md) 
+
+### #is_/same_as :: [Apollo_11.public](/_public/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.public.md) 
+
+### #is_/same_as :: [Apollo_11.internal](/_internal/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.internal.md) 
+
+### #is_/same_as :: [Apollo_11.protect](/_protect/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.protect.md) 
+
+### #is_/same_as :: [Apollo_11.private](/_private/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.private.md) 
+
+### #is_/same_as :: [Apollo_11.personal](/_personal/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.personal.md) 
+
+### #is_/same_as :: [Apollo_11.secret](/_secret/Technology/Spaceflight/Apollo_Space_Program/Apollo_11.secret.md)
+

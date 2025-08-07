@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fidel Alejandro Castro Ruz"
 - "Fidel Castro"
@@ -207,4 +207,21 @@ U_S_National_Archives_Identifier: 10580250
 > the exodus of many Cubans, and the impoverishment of the country's economy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fidel%20Castro) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Castro,Fidel](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.md) 
+
+### #is_/same_as :: [Castro,Fidel.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.public.md) 
+
+### #is_/same_as :: [Castro,Fidel.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.internal.md) 
+
+### #is_/same_as :: [Castro,Fidel.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.protect.md) 
+
+### #is_/same_as :: [Castro,Fidel.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.private.md) 
+
+### #is_/same_as :: [Castro,Fidel.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.personal.md) 
+
+### #is_/same_as :: [Castro,Fidel.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Castro,Fidel.secret.md)
 

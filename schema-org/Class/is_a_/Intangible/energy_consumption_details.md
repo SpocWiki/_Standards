@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - energy-consumption-details
 - energy_consumption_details

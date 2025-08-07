@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-occupational-program
 - educational_occupational_program

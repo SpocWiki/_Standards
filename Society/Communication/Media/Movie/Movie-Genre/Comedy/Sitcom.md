@@ -12,3 +12,20 @@ Allgemein folgt das Geschehen einer „zirkulären Dramaturgie“ –
 die Figuren sind am Ende der Episode so klug wie zuvor. 
 Dies hat zur Folge, dass Sitcoms prinzipiell eine eher konservative Ausrichtung haben
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sitcom](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.md) 
+
+### #is_/same_as :: [Sitcom.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.public.md) 
+
+### #is_/same_as :: [Sitcom.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.internal.md) 
+
+### #is_/same_as :: [Sitcom.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.protect.md) 
+
+### #is_/same_as :: [Sitcom.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.private.md) 
+
+### #is_/same_as :: [Sitcom.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.personal.md) 
+
+### #is_/same_as :: [Sitcom.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom.secret.md)
+

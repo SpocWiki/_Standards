@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - original-media-context-description
 - original_media_context_description

@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: X6
 Commons_category: Money
 Commons_gallery: Money

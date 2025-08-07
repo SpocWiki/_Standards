@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-item-status
 - order_item_status

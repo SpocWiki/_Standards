@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - time-of-day
 - time_of_day

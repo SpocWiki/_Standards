@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo_radius
 - geo-radius

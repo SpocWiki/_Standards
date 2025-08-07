@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - location-created
 - location_created

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-trip
 - part_of_trip

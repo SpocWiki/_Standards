@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-number
 - order_number

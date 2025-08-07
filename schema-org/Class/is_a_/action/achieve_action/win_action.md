@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - win-action
 - win_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - buddhist-temple
 - buddhist_temple

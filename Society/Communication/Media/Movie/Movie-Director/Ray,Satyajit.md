@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Satyajit Ray"
 award_received:

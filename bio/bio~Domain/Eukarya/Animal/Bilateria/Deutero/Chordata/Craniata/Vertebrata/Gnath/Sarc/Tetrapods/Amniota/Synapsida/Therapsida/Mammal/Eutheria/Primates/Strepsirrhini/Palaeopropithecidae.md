@@ -1,4 +1,4 @@
-﻿---
+---
 title: Palaeopropithecidae
 ---
 
@@ -57,7 +57,7 @@ University Primate Center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Palaeopropithecidae](Palaeopropithecidae.md)) 
+### #is_/same_as :: [Palaeopropithecidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Palaeopropithecidae.md) 
 
 ### #is_/same_as :: [Palaeopropithecidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Palaeopropithecidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dissorophoidea
 ---
 
@@ -202,7 +202,7 @@ Copyright ::            © [Adam Huttenlocker](http://www.geocities.com/paleo_bi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dissorophoidea](Dissorophoidea.md)) 
+### #is_/same_as :: [Dissorophoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.md) 
 
 ### #is_/same_as :: [Dissorophoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.public.md) 
 

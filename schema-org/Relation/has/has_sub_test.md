@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-test
 - sub_test

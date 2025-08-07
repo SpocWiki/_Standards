@@ -59,3 +59,20 @@ OpenStreetMap_tag_or_key: Tag:military=barracks
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barracks) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Barracks](/_Standards/Technology/Construction/Architecture/Barracks.md) 
+
+### #is_/same_as :: [Barracks.public](/_public/Technology/Construction/Architecture/Barracks.public.md) 
+
+### #is_/same_as :: [Barracks.internal](/_internal/Technology/Construction/Architecture/Barracks.internal.md) 
+
+### #is_/same_as :: [Barracks.protect](/_protect/Technology/Construction/Architecture/Barracks.protect.md) 
+
+### #is_/same_as :: [Barracks.private](/_private/Technology/Construction/Architecture/Barracks.private.md) 
+
+### #is_/same_as :: [Barracks.personal](/_personal/Technology/Construction/Architecture/Barracks.personal.md) 
+
+### #is_/same_as :: [Barracks.secret](/_secret/Technology/Construction/Architecture/Barracks.secret.md)
+

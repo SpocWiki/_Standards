@@ -31,3 +31,20 @@ hashtag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Camouflage) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Camouflage](/_Standards/Society/Military/Camouflage.md) 
+
+### #is_/same_as :: [Camouflage.public](/_public/Society/Military/Camouflage.public.md) 
+
+### #is_/same_as :: [Camouflage.internal](/_internal/Society/Military/Camouflage.internal.md) 
+
+### #is_/same_as :: [Camouflage.protect](/_protect/Society/Military/Camouflage.protect.md) 
+
+### #is_/same_as :: [Camouflage.private](/_private/Society/Military/Camouflage.private.md) 
+
+### #is_/same_as :: [Camouflage.personal](/_personal/Society/Military/Camouflage.personal.md) 
+
+### #is_/same_as :: [Camouflage.secret](/_secret/Society/Military/Camouflage.secret.md)
+

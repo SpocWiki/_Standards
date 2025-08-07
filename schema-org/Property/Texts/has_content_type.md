@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content-type
 - content_type

@@ -40,3 +40,20 @@ Commons_category: Astronautics
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronautics) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astronautics](/_Standards/Technology/Spaceflight/Astronautics.md) 
+
+### #is_/same_as :: [Astronautics.public](/_public/Technology/Spaceflight/Astronautics.public.md) 
+
+### #is_/same_as :: [Astronautics.internal](/_internal/Technology/Spaceflight/Astronautics.internal.md) 
+
+### #is_/same_as :: [Astronautics.protect](/_protect/Technology/Spaceflight/Astronautics.protect.md) 
+
+### #is_/same_as :: [Astronautics.private](/_private/Technology/Spaceflight/Astronautics.private.md) 
+
+### #is_/same_as :: [Astronautics.personal](/_personal/Technology/Spaceflight/Astronautics.personal.md) 
+
+### #is_/same_as :: [Astronautics.secret](/_secret/Technology/Spaceflight/Astronautics.secret.md)
+

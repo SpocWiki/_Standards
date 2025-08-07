@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "François-Marie Arouet"
 ---

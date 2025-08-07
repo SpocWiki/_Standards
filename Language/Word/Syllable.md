@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Syllable
 described_by_source:
 - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'

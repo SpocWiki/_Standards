@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - un-register-action
 - un_register_action

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Urediniomycotina
 ---
 
@@ -131,7 +131,7 @@ urediniomycetous yeasts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pucciniomycotina](Pucciniomycotina.md)) 
+### #is_/same_as :: [Pucciniomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.md) 
 
 ### #is_/same_as :: [Pucciniomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.public.md) 
 

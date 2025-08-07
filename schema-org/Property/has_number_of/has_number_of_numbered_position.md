@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - numbered_position
 - numbered-position

@@ -26,4 +26,19 @@ has_id_wikidata: Q8192
 > [Wikipedia](https://en.wikipedia.org/wiki/Writing%20system) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Writing_System](/_Standards/Society/Communication/Media/Writing/Writing_System.md) 
+
+### #is_/same_as :: [Writing_System.public](/_public/Society/Communication/Media/Writing/Writing_System.public.md) 
+
+### #is_/same_as :: [Writing_System.internal](/_internal/Society/Communication/Media/Writing/Writing_System.internal.md) 
+
+### #is_/same_as :: [Writing_System.protect](/_protect/Society/Communication/Media/Writing/Writing_System.protect.md) 
+
+### #is_/same_as :: [Writing_System.private](/_private/Society/Communication/Media/Writing/Writing_System.private.md) 
+
+### #is_/same_as :: [Writing_System.personal](/_personal/Society/Communication/Media/Writing/Writing_System.personal.md) 
+
+### #is_/same_as :: [Writing_System.secret](/_secret/Society/Communication/Media/Writing/Writing_System.secret.md)
 

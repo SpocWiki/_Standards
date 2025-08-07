@@ -34,3 +34,20 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [StackOverflow](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.md) 
+
+### #is_/same_as :: [StackOverflow.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.public.md) 
+
+### #is_/same_as :: [StackOverflow.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.internal.md) 
+
+### #is_/same_as :: [StackOverflow.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.protect.md) 
+
+### #is_/same_as :: [StackOverflow.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.private.md) 
+
+### #is_/same_as :: [StackOverflow.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.personal.md) 
+
+### #is_/same_as :: [StackOverflow.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/StackOverflow.secret.md)
+

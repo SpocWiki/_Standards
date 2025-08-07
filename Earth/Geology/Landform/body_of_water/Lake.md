@@ -54,19 +54,20 @@ A lake (for example, Lake Pontrachain).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [lake_body_of_water](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.md) 
+### #is_/same_as :: [Lake](/_Standards/Earth/Geology/Landform/body_of_water/Lake.md) 
 
-### #is_/same_as :: [lake_body_of_water.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.public.md) 
+### #is_/same_as :: [Lake.public](/_public/Earth/Geology/Landform/body_of_water/Lake.public.md) 
 
-### #is_/same_as :: [lake_body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.internal.md) 
+### #is_/same_as :: [Lake.internal](/_internal/Earth/Geology/Landform/body_of_water/Lake.internal.md) 
 
-### #is_/same_as :: [lake_body_of_water.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.protect.md) 
+### #is_/same_as :: [Lake.protect](/_protect/Earth/Geology/Landform/body_of_water/Lake.protect.md) 
 
-### #is_/same_as :: [lake_body_of_water.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.private.md) 
+### #is_/same_as :: [Lake.private](/_private/Earth/Geology/Landform/body_of_water/Lake.private.md) 
 
-### #is_/same_as :: [lake_body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.personal.md) 
+### #is_/same_as :: [Lake.personal](/_personal/Earth/Geology/Landform/body_of_water/Lake.personal.md) 
 
-### #is_/same_as :: [lake_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.secret.md)
+### #is_/same_as :: [Lake.secret](/_secret/Earth/Geology/Landform/body_of_water/Lake.secret.md)
 

@@ -8,3 +8,21 @@ This follows the logic to provide intuitive access to content relevant to the cu
 but putting it into a greater Context. 
 
 Ages of different Planets like Mars are described there. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Time-Ages](/_Standards/Time-Ages.md) 
+
+### #is_/same_as :: [Time-Ages.public](/_public/Time-Ages.public.md) 
+
+### #is_/same_as :: [Time-Ages.internal](/_internal/Time-Ages.internal.md) 
+
+### #is_/same_as :: [Time-Ages.protect](/_protect/Time-Ages.protect.md) 
+
+### #is_/same_as :: [Time-Ages.private](/_private/Time-Ages.private.md) 
+
+### #is_/same_as :: [Time-Ages.personal](/_personal/Time-Ages.personal.md) 
+
+### #is_/same_as :: [Time-Ages.secret](/_secret/Time-Ages.secret.md)
+

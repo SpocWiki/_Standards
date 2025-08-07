@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-release
 - broadcast_release

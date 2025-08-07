@@ -48,3 +48,20 @@ MeSH_tree_code: H01.158.273.540.553
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mycology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mycology](/_Standards/bio/Mycology.md) 
+
+### #is_/same_as :: [Mycology.public](/_public/bio/Mycology.public.md) 
+
+### #is_/same_as :: [Mycology.internal](/_internal/bio/Mycology.internal.md) 
+
+### #is_/same_as :: [Mycology.protect](/_protect/bio/Mycology.protect.md) 
+
+### #is_/same_as :: [Mycology.private](/_private/bio/Mycology.private.md) 
+
+### #is_/same_as :: [Mycology.personal](/_personal/bio/Mycology.personal.md) 
+
+### #is_/same_as :: [Mycology.secret](/_secret/bio/Mycology.secret.md)
+

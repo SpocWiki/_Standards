@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Illegal%20Mining%2C%20Peru%2C%202017-01-20%20by%20Planet%20Labs.jpg"
 atomic_number: 79
 boiling_point: 2940
@@ -155,17 +155,17 @@ ZVG_number: 8480
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gold](/_Standards/chemic/chemic~Elements/Group-11-Copper/Gold.md) 
+### #is_/same_as :: [Gold](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold.md) 
 
-### #is_/same_as :: [Gold.public](/_public/chemic/chemic~Elements/Group-11-Copper/Gold.public.md) 
+### #is_/same_as :: [Gold.public](/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public.md) 
 
-### #is_/same_as :: [Gold.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Gold.internal.md) 
+### #is_/same_as :: [Gold.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal.md) 
 
-### #is_/same_as :: [Gold.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Gold.protect.md) 
+### #is_/same_as :: [Gold.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect.md) 
 
-### #is_/same_as :: [Gold.private](/_private/chemic/chemic~Elements/Group-11-Copper/Gold.private.md) 
+### #is_/same_as :: [Gold.private](/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private.md) 
 
-### #is_/same_as :: [Gold.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Gold.personal.md) 
+### #is_/same_as :: [Gold.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal.md) 
 
-### #is_/same_as :: [Gold.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Gold.secret.md)
+### #is_/same_as :: [Gold.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret.md)
 

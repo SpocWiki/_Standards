@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~selenium_exposure,2268113]]'
 atomic_number: 34
 boiling_point: 1265
@@ -119,17 +119,17 @@ ZVG_number: 7340
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Selenium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.md) 
+### #is_/same_as :: [Selenium](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.md) 
 
-### #is_/same_as :: [Selenium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.public.md) 
+### #is_/same_as :: [Selenium.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.public.md) 
 
-### #is_/same_as :: [Selenium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.internal.md) 
+### #is_/same_as :: [Selenium.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.internal.md) 
 
-### #is_/same_as :: [Selenium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.protect.md) 
+### #is_/same_as :: [Selenium.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.protect.md) 
 
-### #is_/same_as :: [Selenium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.private.md) 
+### #is_/same_as :: [Selenium.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.private.md) 
 
-### #is_/same_as :: [Selenium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.personal.md) 
+### #is_/same_as :: [Selenium.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.personal.md) 
 
-### #is_/same_as :: [Selenium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.secret.md)
+### #is_/same_as :: [Selenium.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.secret.md)
 

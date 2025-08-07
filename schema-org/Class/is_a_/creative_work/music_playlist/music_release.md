@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-release
 - music_release

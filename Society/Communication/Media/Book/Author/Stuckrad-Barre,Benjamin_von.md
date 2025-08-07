@@ -192,3 +192,19 @@ Normdaten (Person): [GND](https://de.wikipedia.org/wiki/Gemeinsame_Normdatei "
 |GEBURTSORT|[Bremen](https://de.wikipedia.org/wiki/Bremen "Bremen")|
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von](/_Standards/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.md) 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.public](/_public/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.public.md) 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.internal](/_internal/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.internal.md) 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.protect](/_protect/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.protect.md) 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.private](/_private/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.private.md) 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.personal](/_personal/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.personal.md) 
+
+### #is_/same_as :: [Stuckrad-Barre,Benjamin_von.secret](/_secret/Society/Communication/Media/Book/Author/Stuckrad-Barre,Benjamin_von.secret.md)
+

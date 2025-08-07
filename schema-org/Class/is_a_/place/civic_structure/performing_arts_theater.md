@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - performing-arts-theater
 - performing_arts_theater

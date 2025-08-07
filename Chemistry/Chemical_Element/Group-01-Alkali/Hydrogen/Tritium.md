@@ -73,3 +73,20 @@ Krugosvet_article: nauka_i_tehnika/himiya/TRITI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tritium) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tritium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.md) 
+
+### #is_/same_as :: [Tritium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.public.md) 
+
+### #is_/same_as :: [Tritium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.internal.md) 
+
+### #is_/same_as :: [Tritium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.protect.md) 
+
+### #is_/same_as :: [Tritium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.private.md) 
+
+### #is_/same_as :: [Tritium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.personal.md) 
+
+### #is_/same_as :: [Tritium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Tritium.secret.md)
+

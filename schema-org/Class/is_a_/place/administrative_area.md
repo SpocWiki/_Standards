@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - administrative-area
 - administrative_area

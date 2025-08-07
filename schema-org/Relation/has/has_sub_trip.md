@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-trip
 - sub_trip

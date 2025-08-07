@@ -92,3 +92,20 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sex%E2%80%93gender%20distinction) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biological_Sex](/_Standards/bio/Reproduction/Biological_Sex.md) 
+
+### #is_/same_as :: [Biological_Sex.public](/_public/bio/Reproduction/Biological_Sex.public.md) 
+
+### #is_/same_as :: [Biological_Sex.internal](/_internal/bio/Reproduction/Biological_Sex.internal.md) 
+
+### #is_/same_as :: [Biological_Sex.protect](/_protect/bio/Reproduction/Biological_Sex.protect.md) 
+
+### #is_/same_as :: [Biological_Sex.private](/_private/bio/Reproduction/Biological_Sex.private.md) 
+
+### #is_/same_as :: [Biological_Sex.personal](/_personal/bio/Reproduction/Biological_Sex.personal.md) 
+
+### #is_/same_as :: [Biological_Sex.secret](/_secret/bio/Reproduction/Biological_Sex.secret.md)
+

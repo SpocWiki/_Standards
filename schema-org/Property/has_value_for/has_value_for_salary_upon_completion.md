@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - salary_upon_completion
 - salary-upon-completion

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Asperoteuthis mangoldae"
 ---
 
@@ -188,7 +188,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[mangoldae](mangoldae.md)) 
+### #is_/same_as :: [mangoldae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/mangoldae.md) 
 
 ### #is_/same_as :: [mangoldae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/mangoldae.public.md) 
 

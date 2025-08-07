@@ -15,6 +15,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Unbearable%20Lightness%20of%20Being)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Unbearable_Lightness_of_Being](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.md) 
 
+### #is_/same_as :: [Unbearable_Lightness_of_Being.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.public.md) 
+
+### #is_/same_as :: [Unbearable_Lightness_of_Being.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.internal.md) 
+
+### #is_/same_as :: [Unbearable_Lightness_of_Being.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.protect.md) 
+
+### #is_/same_as :: [Unbearable_Lightness_of_Being.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.private.md) 
+
+### #is_/same_as :: [Unbearable_Lightness_of_Being.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.personal.md) 
+
+### #is_/same_as :: [Unbearable_Lightness_of_Being.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Unbearable_Lightness_of_Being.secret.md)
 

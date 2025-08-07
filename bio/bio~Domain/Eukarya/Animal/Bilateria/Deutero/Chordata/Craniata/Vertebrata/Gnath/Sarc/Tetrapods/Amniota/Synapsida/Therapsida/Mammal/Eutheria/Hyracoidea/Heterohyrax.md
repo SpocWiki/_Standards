@@ -1,4 +1,4 @@
-﻿---
+---
 title: Heterohyrax
 ---
 
@@ -57,7 +57,7 @@ Copyright ::            © William M. Ciesla, Forest Health Management Internati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Heterohyrax](Heterohyrax.md)) 
+### #is_/same_as :: [Heterohyrax](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Hyracoidea/Heterohyrax.md) 
 
 ### #is_/same_as :: [Heterohyrax.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Hyracoidea/Heterohyrax.public.md) 
 

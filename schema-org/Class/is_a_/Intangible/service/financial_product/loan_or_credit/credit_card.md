@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - credit-card
 - credit_card

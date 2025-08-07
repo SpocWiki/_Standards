@@ -41,3 +41,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reduced%20instruction%20set%20computer)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [RISC-Processor](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.md) 
+
+### #is_/same_as :: [RISC-Processor.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.public.md) 
+
+### #is_/same_as :: [RISC-Processor.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.internal.md) 
+
+### #is_/same_as :: [RISC-Processor.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.protect.md) 
+
+### #is_/same_as :: [RISC-Processor.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.private.md) 
+
+### #is_/same_as :: [RISC-Processor.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.personal.md) 
+
+### #is_/same_as :: [RISC-Processor.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/RISC-Processor.secret.md)
+

@@ -45,3 +45,20 @@ point_in_time: "1931-01-01T00:00:00Z"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/1931%20China%20floods) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1931-China_floods](/_Standards/Society/Disaster/1931-China_floods.md) 
+
+### #is_/same_as :: [1931-China_floods.public](/_public/Society/Disaster/1931-China_floods.public.md) 
+
+### #is_/same_as :: [1931-China_floods.internal](/_internal/Society/Disaster/1931-China_floods.internal.md) 
+
+### #is_/same_as :: [1931-China_floods.protect](/_protect/Society/Disaster/1931-China_floods.protect.md) 
+
+### #is_/same_as :: [1931-China_floods.private](/_private/Society/Disaster/1931-China_floods.private.md) 
+
+### #is_/same_as :: [1931-China_floods.personal](/_personal/Society/Disaster/1931-China_floods.personal.md) 
+
+### #is_/same_as :: [1931-China_floods.secret](/_secret/Society/Disaster/1931-China_floods.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - motorcycle-dealer
 - motorcycle_dealer

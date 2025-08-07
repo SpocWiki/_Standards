@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-strength
 - drug_strength

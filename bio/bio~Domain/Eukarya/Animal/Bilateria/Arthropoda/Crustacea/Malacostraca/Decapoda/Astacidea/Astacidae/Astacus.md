@@ -1,4 +1,4 @@
-﻿---
+---
 title: Astacus
 ---
 
@@ -47,7 +47,7 @@ Copyright ::   © 1995 University of Kuopio and Ari Mannonen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Astacus](Astacus.md)) 
+### #is_/same_as :: [Astacus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Astacus.md) 
 
 ### #is_/same_as :: [Astacus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Astacus.public.md) 
 

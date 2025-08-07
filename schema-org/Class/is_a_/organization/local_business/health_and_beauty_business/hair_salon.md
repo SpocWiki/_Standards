@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hair-salon
 - hair_salon

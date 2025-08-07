@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-hips
 - wearable_measurement_hips

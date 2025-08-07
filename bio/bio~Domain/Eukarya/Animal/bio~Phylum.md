@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stamm
 - division
@@ -31,7 +31,7 @@ has_id_wikidata: Q38348
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bio~Phylum](bio~Phylum.md)) 
+### #is_/same_as :: [bio~Phylum](/_Standards/bio/bio~Domain/Eukarya/Animal/bio~Phylum.md) 
 
 ### #is_/same_as :: [bio~Phylum.public](/_public/bio/bio~Domain/Eukarya/Animal/bio~Phylum.public.md) 
 

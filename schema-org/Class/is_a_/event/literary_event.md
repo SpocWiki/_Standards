@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - literary-event
 - literary_event

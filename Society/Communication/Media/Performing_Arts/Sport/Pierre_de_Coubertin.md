@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pierre de Coubertin"
 - "Charles Pierre de Frédy"

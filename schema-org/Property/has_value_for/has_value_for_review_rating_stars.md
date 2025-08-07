@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - review_rating
 - review-rating

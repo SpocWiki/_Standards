@@ -1,4 +1,4 @@
-﻿---
+---
 class_of_agent_s_of_action:
 - '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
 - '[[_Standards/WikiData/WD~human,5]]'
@@ -70,4 +70,21 @@ WordLift_URL: "https://data.wordlift.io/wl76541/entity/criminal"
 > While every crime violates the law, not every violation of the law counts as a crime. Breaches of private law (torts and breaches of contract) are not automatically punished by the state, but can be enforced through civil procedure.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crime) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crime](/_Standards/Society/Criminology/Crime.md) 
+
+### #is_/same_as :: [Crime.public](/_public/Society/Criminology/Crime.public.md) 
+
+### #is_/same_as :: [Crime.internal](/_internal/Society/Criminology/Crime.internal.md) 
+
+### #is_/same_as :: [Crime.protect](/_protect/Society/Criminology/Crime.protect.md) 
+
+### #is_/same_as :: [Crime.private](/_private/Society/Criminology/Crime.private.md) 
+
+### #is_/same_as :: [Crime.personal](/_personal/Society/Criminology/Crime.personal.md) 
+
+### #is_/same_as :: [Crime.secret](/_secret/Society/Criminology/Crime.secret.md)
 

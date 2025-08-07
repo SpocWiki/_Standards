@@ -36,3 +36,19 @@ the Transistor-Radios used a 9V Block Battery (invented for this purpose)
 and thus fit into the Pocket. 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transistor-Radio](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.md) 
+
+### #is_/same_as :: [Transistor-Radio.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.public.md) 
+
+### #is_/same_as :: [Transistor-Radio.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.internal.md) 
+
+### #is_/same_as :: [Transistor-Radio.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.protect.md) 
+
+### #is_/same_as :: [Transistor-Radio.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.private.md) 
+
+### #is_/same_as :: [Transistor-Radio.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.personal.md) 
+
+### #is_/same_as :: [Transistor-Radio.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor-Radio.secret.md)
+

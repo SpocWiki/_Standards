@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Samba
 Commons_gallery: Samba
 country_of_origin: '[[_Standards/WikiData/WD~Brazil,155]]'

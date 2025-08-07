@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 46
 canonical_SMILES: '[Pd]'
 CAS_Registry_Number: 7440-05-3
@@ -133,17 +133,17 @@ ZVG_number: 8340
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palladium](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Palladium.md) 
+### #is_/same_as :: [Palladium](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.md) 
 
-### #is_/same_as :: [Palladium.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Palladium.public.md) 
+### #is_/same_as :: [Palladium.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.public.md) 
 
-### #is_/same_as :: [Palladium.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Palladium.internal.md) 
+### #is_/same_as :: [Palladium.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.internal.md) 
 
-### #is_/same_as :: [Palladium.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Palladium.protect.md) 
+### #is_/same_as :: [Palladium.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.protect.md) 
 
-### #is_/same_as :: [Palladium.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Palladium.private.md) 
+### #is_/same_as :: [Palladium.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.private.md) 
 
-### #is_/same_as :: [Palladium.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Palladium.personal.md) 
+### #is_/same_as :: [Palladium.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.personal.md) 
 
-### #is_/same_as :: [Palladium.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Palladium.secret.md)
+### #is_/same_as :: [Palladium.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.secret.md)
 

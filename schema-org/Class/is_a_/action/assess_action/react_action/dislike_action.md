@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dislike-action
 - dislike_action

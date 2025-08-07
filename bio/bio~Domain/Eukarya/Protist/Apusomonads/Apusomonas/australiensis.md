@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Apusomonas australiensis"
 ---
 
@@ -83,7 +83,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[australiensis](australiensis.md)) 
+### #is_/same_as :: [australiensis](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.md) 
 
 ### #is_/same_as :: [australiensis.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.public.md) 
 

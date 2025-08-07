@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-phone
 - service_phone

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Antibiotics
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from: '[[_Standards/WikiData/WD~bactericide,804539]]'

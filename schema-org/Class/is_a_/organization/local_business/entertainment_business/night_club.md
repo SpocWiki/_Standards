@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - night-club
 - night_club

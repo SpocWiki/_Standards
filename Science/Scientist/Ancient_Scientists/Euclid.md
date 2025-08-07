@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: ef1ab517-6202-4030-b10a-ac51bdad8b13
 birth_name: Εὐκλείδης
 Commons_category: Euclid

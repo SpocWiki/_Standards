@@ -69,3 +69,20 @@ Unicode_character: 🕯
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Candle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Candle](/_Standards/Technology/Construction/Building/House/Candle.md) 
+
+### #is_/same_as :: [Candle.public](/_public/Technology/Construction/Building/House/Candle.public.md) 
+
+### #is_/same_as :: [Candle.internal](/_internal/Technology/Construction/Building/House/Candle.internal.md) 
+
+### #is_/same_as :: [Candle.protect](/_protect/Technology/Construction/Building/House/Candle.protect.md) 
+
+### #is_/same_as :: [Candle.private](/_private/Technology/Construction/Building/House/Candle.private.md) 
+
+### #is_/same_as :: [Candle.personal](/_personal/Technology/Construction/Building/House/Candle.personal.md) 
+
+### #is_/same_as :: [Candle.secret](/_secret/Technology/Construction/Building/House/Candle.secret.md)
+

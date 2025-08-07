@@ -1,4 +1,4 @@
-﻿---
+---
 title: Caprinae
 ---
 
@@ -158,7 +158,7 @@ IUCN, Switzerland and Cambridge, Gland, 390 p.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Caprinae](Caprinae.md)) 
+### #is_/same_as :: [Caprinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae.md) 
 
 ### #is_/same_as :: [Caprinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ryan Gosling"
 - "Ryan Thomas Gosling"
@@ -35,4 +35,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ryan%20Gosling) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gosling,Ryan](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.md) 
+
+### #is_/same_as :: [Gosling,Ryan.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.public.md) 
+
+### #is_/same_as :: [Gosling,Ryan.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.internal.md) 
+
+### #is_/same_as :: [Gosling,Ryan.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.protect.md) 
+
+### #is_/same_as :: [Gosling,Ryan.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.private.md) 
+
+### #is_/same_as :: [Gosling,Ryan.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.personal.md) 
+
+### #is_/same_as :: [Gosling,Ryan.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.secret.md)
 

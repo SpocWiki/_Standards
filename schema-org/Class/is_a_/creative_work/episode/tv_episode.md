@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tv-episode
 - tv_episode

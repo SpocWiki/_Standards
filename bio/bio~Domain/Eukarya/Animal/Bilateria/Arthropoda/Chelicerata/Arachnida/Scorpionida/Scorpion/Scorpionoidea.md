@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scorpionoidea
 ---
 
@@ -49,7 +49,7 @@ title: Scorpionoidea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scorpionoidea](Scorpionoidea.md)) 
+### #is_/same_as :: [Scorpionoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea.md) 
 
 ### #is_/same_as :: [Scorpionoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea.public.md) 
 

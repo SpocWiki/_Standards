@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Organization of the Petroleum Exporting Countries"
 - "Organization of Petroleum Exporting Countries"

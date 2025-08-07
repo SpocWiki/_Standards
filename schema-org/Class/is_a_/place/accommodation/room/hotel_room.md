@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hotel-room
 - hotel_room

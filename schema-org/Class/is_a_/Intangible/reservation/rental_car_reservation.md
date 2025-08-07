@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rental-car-reservation
 - rental_car_reservation

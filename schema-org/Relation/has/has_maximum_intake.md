@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - maximum-intake
 - maximum_intake

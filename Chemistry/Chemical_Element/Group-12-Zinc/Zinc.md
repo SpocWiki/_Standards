@@ -160,17 +160,17 @@ ZVG_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zinc](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Zinc.md) 
+### #is_/same_as :: [Zinc](/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.md) 
 
-### #is_/same_as :: [Zinc.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Zinc.public.md) 
+### #is_/same_as :: [Zinc.public](/_public/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.public.md) 
 
-### #is_/same_as :: [Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Zinc.internal.md) 
+### #is_/same_as :: [Zinc.internal](/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.internal.md) 
 
-### #is_/same_as :: [Zinc.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Zinc.protect.md) 
+### #is_/same_as :: [Zinc.protect](/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.protect.md) 
 
-### #is_/same_as :: [Zinc.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Zinc.private.md) 
+### #is_/same_as :: [Zinc.private](/_private/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.private.md) 
 
-### #is_/same_as :: [Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Zinc.personal.md) 
+### #is_/same_as :: [Zinc.personal](/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.personal.md) 
 
-### #is_/same_as :: [Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Zinc.secret.md)
+### #is_/same_as :: [Zinc.secret](/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.secret.md)
 

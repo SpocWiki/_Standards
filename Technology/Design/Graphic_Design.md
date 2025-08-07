@@ -45,3 +45,20 @@ subreddit: graphic_design
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Graphic%20design) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Graphic_Design](/_Standards/Technology/Design/Graphic_Design.md) 
+
+### #is_/same_as :: [Graphic_Design.public](/_public/Technology/Design/Graphic_Design.public.md) 
+
+### #is_/same_as :: [Graphic_Design.internal](/_internal/Technology/Design/Graphic_Design.internal.md) 
+
+### #is_/same_as :: [Graphic_Design.protect](/_protect/Technology/Design/Graphic_Design.protect.md) 
+
+### #is_/same_as :: [Graphic_Design.private](/_private/Technology/Design/Graphic_Design.private.md) 
+
+### #is_/same_as :: [Graphic_Design.personal](/_personal/Technology/Design/Graphic_Design.personal.md) 
+
+### #is_/same_as :: [Graphic_Design.secret](/_secret/Technology/Design/Graphic_Design.secret.md)
+

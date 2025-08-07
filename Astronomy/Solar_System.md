@@ -132,19 +132,3 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 
 ### #is_/same_as :: [Solar_System.secret](/_secret/Astronomy/Solar_System.secret.md)
 
-
-# [[Solar_System]] 
-
-#is_/part_of :: [[Solar_System]] 
-
- 
-## Embedded Graph 
-
-![[Solar_System.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

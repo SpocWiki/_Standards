@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo-disjoint
 - geo_disjoint

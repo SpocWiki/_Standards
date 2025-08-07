@@ -1,4 +1,4 @@
-﻿---
+---
 title: Palpimanoidea
 ---
 
@@ -42,7 +42,7 @@ spiders (Spider). Annual Review of Ecology and Systematics 22:565-592.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Palpimanoidea](Palpimanoidea.md)) 
+### #is_/same_as :: [Palpimanoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.md) 
 
 ### #is_/same_as :: [Palpimanoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Palpimanoidea.public.md) 
 

@@ -102,7 +102,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fish,7112636]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fish](Fish.md) 
+### #is_/same_as :: [Fish](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.md) 
 
 ### #is_/same_as :: [Fish.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.public.md) 
 

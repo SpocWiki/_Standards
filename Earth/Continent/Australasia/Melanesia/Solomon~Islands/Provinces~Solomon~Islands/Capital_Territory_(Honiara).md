@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Capital_Territory_(Honiara)
 confidential: public

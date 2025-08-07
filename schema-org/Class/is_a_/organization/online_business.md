@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - online-business
 - online_business

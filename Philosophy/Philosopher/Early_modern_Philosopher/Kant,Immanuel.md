@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Immanuel Kant"
 ArhivX_LOD: 993

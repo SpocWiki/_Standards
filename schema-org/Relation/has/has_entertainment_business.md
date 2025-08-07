@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - entertainment-business
 - entertainment_business

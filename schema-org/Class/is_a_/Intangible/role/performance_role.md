@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - performance-role
 - performance_role

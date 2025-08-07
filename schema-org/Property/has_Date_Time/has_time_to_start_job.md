@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - job-start-date
 - job_start_date

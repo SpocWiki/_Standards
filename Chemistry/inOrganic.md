@@ -76,17 +76,17 @@ Universal_Decimal_Classification: 546
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [inOrganic](/_Standards/chemic/inOrganic.md) 
+### #is_/same_as :: [inOrganic](/_Standards/Chemistry/inOrganic.md) 
 
-### #is_/same_as :: [inOrganic.public](/_public/chemic/inOrganic.public.md) 
+### #is_/same_as :: [inOrganic.public](/_public/Chemistry/inOrganic.public.md) 
 
-### #is_/same_as :: [inOrganic.internal](/_internal/chemic/inOrganic.internal.md) 
+### #is_/same_as :: [inOrganic.internal](/_internal/Chemistry/inOrganic.internal.md) 
 
-### #is_/same_as :: [inOrganic.protect](/_protect/chemic/inOrganic.protect.md) 
+### #is_/same_as :: [inOrganic.protect](/_protect/Chemistry/inOrganic.protect.md) 
 
-### #is_/same_as :: [inOrganic.private](/_private/chemic/inOrganic.private.md) 
+### #is_/same_as :: [inOrganic.private](/_private/Chemistry/inOrganic.private.md) 
 
-### #is_/same_as :: [inOrganic.personal](/_personal/chemic/inOrganic.personal.md) 
+### #is_/same_as :: [inOrganic.personal](/_personal/Chemistry/inOrganic.personal.md) 
 
-### #is_/same_as :: [inOrganic.secret](/_secret/chemic/inOrganic.secret.md)
+### #is_/same_as :: [inOrganic.secret](/_secret/Chemistry/inOrganic.secret.md)
 

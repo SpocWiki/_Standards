@@ -60,22 +60,19 @@ has_id_wikidata: Q93196
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindi%20cinema) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bollywood](Bollywood.md) 
+### #is_/same_as :: [Bollywood](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Bollywood.md) 
 
-### #is_/same_as :: [Bollywood.public](/_public/Society/Communication/Media/Movie/Bollywood.public.md) 
+### #is_/same_as :: [Bollywood.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Bollywood.public.md) 
 
-### #is_/same_as :: [Bollywood.internal](/_internal/Society/Communication/Media/Movie/Bollywood.internal.md) 
+### #is_/same_as :: [Bollywood.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Bollywood.internal.md) 
 
-### #is_/same_as :: [Bollywood.protect](/_protect/Society/Communication/Media/Movie/Bollywood.protect.md) 
+### #is_/same_as :: [Bollywood.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Bollywood.protect.md) 
 
-### #is_/same_as :: [Bollywood.private](/_private/Society/Communication/Media/Movie/Bollywood.private.md) 
+### #is_/same_as :: [Bollywood.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Bollywood.private.md) 
 
-### #is_/same_as :: [Bollywood.personal](/_personal/Society/Communication/Media/Movie/Bollywood.personal.md) 
+### #is_/same_as :: [Bollywood.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Bollywood.personal.md) 
 
-### #is_/same_as :: [Bollywood.secret](/_secret/Society/Communication/Media/Movie/Bollywood.secret.md)
+### #is_/same_as :: [Bollywood.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Bollywood.secret.md)
 

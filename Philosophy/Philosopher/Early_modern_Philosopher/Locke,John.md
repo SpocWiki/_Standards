@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Locke"
 award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'

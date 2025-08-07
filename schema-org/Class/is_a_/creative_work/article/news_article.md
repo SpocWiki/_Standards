@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - news-article
 - news_article

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Cassiopeia|Zodiac~Cassiopeia]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Cassiopeia.public|Zodiac~Cassiopeia.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Cassiopeia.internal|Zodiac~Cassiopeia.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Cassiopeia.protect|Zodiac~Cassiopeia.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Cassiopeia.private|Zodiac~Cassiopeia.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Cassiopeia.personal|Zodiac~Cassiopeia.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Cassiopeia.secret|Zodiac~Cassiopeia.secret]] 
+
+### #is_/same_as :: [Zodiac~Cassiopeia](/_Standards/Astronomy/Star~Constellation/Zodiac~Cassiopeia.md) 
+
+### #is_/same_as :: [Zodiac~Cassiopeia.public](/_public/Astronomy/Star~Constellation/Zodiac~Cassiopeia.public.md) 
+
+### #is_/same_as :: [Zodiac~Cassiopeia.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cassiopeia.internal.md) 
+
+### #is_/same_as :: [Zodiac~Cassiopeia.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cassiopeia.protect.md) 
+
+### #is_/same_as :: [Zodiac~Cassiopeia.private](/_private/Astronomy/Star~Constellation/Zodiac~Cassiopeia.private.md) 
+
+### #is_/same_as :: [Zodiac~Cassiopeia.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cassiopeia.personal.md) 
+
+### #is_/same_as :: [Zodiac~Cassiopeia.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cassiopeia.secret.md)
+

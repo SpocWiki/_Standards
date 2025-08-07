@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Treaty of Versailles"
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~Western_Europe,27496]]'

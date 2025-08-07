@@ -109,17 +109,17 @@ UMLS_CUI: C1138416
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Flower](Flower.md)) 
+### #is_/same_as :: [Flower](/_Standards/bio/Botany/Flower.md) 
 
-### #is_/same_as :: [Flower.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Flower.public.md) 
+### #is_/same_as :: [Flower.public](/_public/bio/Botany/Flower.public.md) 
 
-### #is_/same_as :: [Flower.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Flower.internal.md) 
+### #is_/same_as :: [Flower.internal](/_internal/bio/Botany/Flower.internal.md) 
 
-### #is_/same_as :: [Flower.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Flower.protect.md) 
+### #is_/same_as :: [Flower.protect](/_protect/bio/Botany/Flower.protect.md) 
 
-### #is_/same_as :: [Flower.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Flower.private.md) 
+### #is_/same_as :: [Flower.private](/_private/bio/Botany/Flower.private.md) 
 
-### #is_/same_as :: [Flower.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Flower.personal.md) 
+### #is_/same_as :: [Flower.personal](/_personal/bio/Botany/Flower.personal.md) 
 
-### #is_/same_as :: [Flower.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Flower.secret.md)
+### #is_/same_as :: [Flower.secret](/_secret/bio/Botany/Flower.secret.md)
 

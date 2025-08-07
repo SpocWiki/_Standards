@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euapicomplexa
 ---
 
@@ -59,7 +59,7 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Euapicomplexa](Euapicomplexa.md)) 
+### #is_/same_as :: [Euapicomplexa](/_Standards/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.md) 
 
 ### #is_/same_as :: [Euapicomplexa.public](/_public/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa.public.md) 
 

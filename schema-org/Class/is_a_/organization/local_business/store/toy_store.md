@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - toy-store
 - toy_store

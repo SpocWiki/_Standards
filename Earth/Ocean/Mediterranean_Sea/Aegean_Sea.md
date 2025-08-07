@@ -1,4 +1,4 @@
-﻿---
+---
 area: 214000
 basin_country:
 - '[[_Standards/WikiData/WD~Turkey,43]]'
@@ -79,4 +79,19 @@ vertical_depth: 2100
 > [Wikipedia](https://en.wikipedia.org/wiki/Aegean%20Sea) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aegean_Sea](/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.md) 
+
+### #is_/same_as :: [Aegean_Sea.public](/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public.md) 
+
+### #is_/same_as :: [Aegean_Sea.internal](/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal.md) 
+
+### #is_/same_as :: [Aegean_Sea.protect](/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect.md) 
+
+### #is_/same_as :: [Aegean_Sea.private](/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private.md) 
+
+### #is_/same_as :: [Aegean_Sea.personal](/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal.md) 
+
+### #is_/same_as :: [Aegean_Sea.secret](/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret.md)
 

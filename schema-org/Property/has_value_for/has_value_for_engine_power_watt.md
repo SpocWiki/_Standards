@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - engine_power
 - engine-power

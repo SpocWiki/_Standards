@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cercopithecidae
 ---
 
@@ -86,7 +86,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cercopithecidae](Cercopithecidae.md)) 
+### #is_/same_as :: [Cercopithecidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.md) 
 
 ### #is_/same_as :: [Cercopithecidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Cercopithecidae.public.md) 
 

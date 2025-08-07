@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-accessory-or-spare-part-for
 - accessory_or_spare_part_for

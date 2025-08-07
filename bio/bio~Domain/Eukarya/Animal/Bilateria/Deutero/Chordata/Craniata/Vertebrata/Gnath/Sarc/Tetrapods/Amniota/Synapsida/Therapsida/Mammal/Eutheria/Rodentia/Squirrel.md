@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sciuridae
 - Squirrel
@@ -226,7 +226,7 @@ Specimen Condition   Live Specimen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Squirrel](Squirrel.md)) 
+### #is_/same_as :: [Squirrel](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel.md) 
 
 ### #is_/same_as :: [Squirrel.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel.public.md) 
 

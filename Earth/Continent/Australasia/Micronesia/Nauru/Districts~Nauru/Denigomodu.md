@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Denigomodu
 confidential: public

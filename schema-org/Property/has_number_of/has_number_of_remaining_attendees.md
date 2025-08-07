@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - remaining-attendee-capacity
 - remaining_attendee_capacity

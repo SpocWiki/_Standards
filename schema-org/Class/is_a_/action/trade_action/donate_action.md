@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - donate-action
 - donate_action

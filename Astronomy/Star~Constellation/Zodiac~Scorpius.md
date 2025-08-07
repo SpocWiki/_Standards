@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 8
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Scorpius|Zodiac~Scorpius]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Scorpius.public|Zodiac~Scorpius.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Scorpius.internal|Zodiac~Scorpius.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Scorpius.protect|Zodiac~Scorpius.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Scorpius.private|Zodiac~Scorpius.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Scorpius.personal|Zodiac~Scorpius.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Scorpius.secret|Zodiac~Scorpius.secret]] 
+
+### #is_/same_as :: [Zodiac~Scorpius](/_Standards/Astronomy/Star~Constellation/Zodiac~Scorpius.md) 
+
+### #is_/same_as :: [Zodiac~Scorpius.public](/_public/Astronomy/Star~Constellation/Zodiac~Scorpius.public.md) 
+
+### #is_/same_as :: [Zodiac~Scorpius.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Scorpius.internal.md) 
+
+### #is_/same_as :: [Zodiac~Scorpius.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Scorpius.protect.md) 
+
+### #is_/same_as :: [Zodiac~Scorpius.private](/_private/Astronomy/Star~Constellation/Zodiac~Scorpius.private.md) 
+
+### #is_/same_as :: [Zodiac~Scorpius.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Scorpius.personal.md) 
+
+### #is_/same_as :: [Zodiac~Scorpius.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Scorpius.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scorpionida
 ---
 
@@ -159,7 +159,7 @@ Specimen Condition   Fossil \-- Period: Carboniferous
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scorpionida](Scorpionida.md)) 
+### #is_/same_as :: [Scorpionida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.md) 
 
 ### #is_/same_as :: [Scorpionida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.public.md) 
 

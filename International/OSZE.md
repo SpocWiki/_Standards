@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Organization for Security and Co-operation in Europe"
 - OSZE

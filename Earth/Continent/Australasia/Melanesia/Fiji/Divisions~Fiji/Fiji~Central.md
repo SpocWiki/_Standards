@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Fiji~Central
 confidential: public

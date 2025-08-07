@@ -92,3 +92,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Art%20Deco) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Art_Deco](/_Standards/Technology/Construction/Architecture/Architectural_Style/Art_Deco.md) 
+
+### #is_/same_as :: [Art_Deco.public](/_public/Technology/Construction/Architecture/Architectural_Style/Art_Deco.public.md) 
+
+### #is_/same_as :: [Art_Deco.internal](/_internal/Technology/Construction/Architecture/Architectural_Style/Art_Deco.internal.md) 
+
+### #is_/same_as :: [Art_Deco.protect](/_protect/Technology/Construction/Architecture/Architectural_Style/Art_Deco.protect.md) 
+
+### #is_/same_as :: [Art_Deco.private](/_private/Technology/Construction/Architecture/Architectural_Style/Art_Deco.private.md) 
+
+### #is_/same_as :: [Art_Deco.personal](/_personal/Technology/Construction/Architecture/Architectural_Style/Art_Deco.personal.md) 
+
+### #is_/same_as :: [Art_Deco.secret](/_secret/Technology/Construction/Architecture/Architectural_Style/Art_Deco.secret.md)
+

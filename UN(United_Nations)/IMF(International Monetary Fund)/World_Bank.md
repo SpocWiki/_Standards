@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "World Bank"
 board_member:

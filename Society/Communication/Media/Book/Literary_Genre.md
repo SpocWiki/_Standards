@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Literary genre"
 different_from:

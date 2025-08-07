@@ -1,4 +1,4 @@
-﻿---
+---
 title: Remipedia
 ---
 
@@ -47,7 +47,7 @@ Drawing by Josée Soucie. Copyright © [BIODIDAC](http://biodidac.bio.uottawa.ca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Remipedia](Remipedia.md)) 
+### #is_/same_as :: [Remipedia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Remipedia.md) 
 
 ### #is_/same_as :: [Remipedia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Remipedia.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]'
 Commons_category: Polio
 described_by_source:

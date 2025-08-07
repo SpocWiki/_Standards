@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - creative-work-status
 - creative_work_status

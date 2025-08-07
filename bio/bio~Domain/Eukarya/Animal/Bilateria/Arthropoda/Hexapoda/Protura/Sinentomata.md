@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sinentomata
 ---
 
@@ -29,7 +29,7 @@ title: Sinentomata
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sinentomata](Sinentomata.md)) 
+### #is_/same_as :: [Sinentomata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.md) 
 
 ### #is_/same_as :: [Sinentomata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.public.md) 
 

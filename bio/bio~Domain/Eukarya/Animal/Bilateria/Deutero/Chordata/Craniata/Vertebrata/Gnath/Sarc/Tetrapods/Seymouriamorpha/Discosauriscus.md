@@ -1,4 +1,4 @@
-﻿---
+---
 title: Discosauriscus
 ---
 
@@ -186,7 +186,7 @@ Forschungshefte, Reihe C 400: 117-139.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Discosauriscus](Discosauriscus.md)) 
+### #is_/same_as :: [Discosauriscus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Discosauriscus.md) 
 
 ### #is_/same_as :: [Discosauriscus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Discosauriscus.public.md) 
 

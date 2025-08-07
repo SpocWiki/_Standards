@@ -50,3 +50,21 @@ H-O-S-O-H
 > [Wikipedia](https://en.wikipedia.org/wiki/Ammonium%20sulfate) 
 
 Both the S and the N Atoms have sp³ hybrid Orbitals to share the Hydrogen Atoms.
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ammonium_Sulfate](/_Standards/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.md) 
+
+### #is_/same_as :: [Ammonium_Sulfate.public](/_public/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.public.md) 
+
+### #is_/same_as :: [Ammonium_Sulfate.internal](/_internal/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.internal.md) 
+
+### #is_/same_as :: [Ammonium_Sulfate.protect](/_protect/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.protect.md) 
+
+### #is_/same_as :: [Ammonium_Sulfate.private](/_private/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.private.md) 
+
+### #is_/same_as :: [Ammonium_Sulfate.personal](/_personal/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.personal.md) 
+
+### #is_/same_as :: [Ammonium_Sulfate.secret](/_secret/Chemistry/inOrganic/Ammonia/Ammonium_Sulfate.secret.md)
+

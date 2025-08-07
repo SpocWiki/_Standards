@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-support-of
 - in_support_of

@@ -49,17 +49,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_organic_chemistry,711269
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [organic](/_Standards/chemic/organic.md) 
+### #is_/same_as :: [organic](/_Standards/Chemistry/organic.md) 
 
-### #is_/same_as :: [organic.public](/_public/chemic/organic.public.md) 
+### #is_/same_as :: [organic.public](/_public/Chemistry/organic.public.md) 
 
-### #is_/same_as :: [organic.internal](/_internal/chemic/organic.internal.md) 
+### #is_/same_as :: [organic.internal](/_internal/Chemistry/organic.internal.md) 
 
-### #is_/same_as :: [organic.protect](/_protect/chemic/organic.protect.md) 
+### #is_/same_as :: [organic.protect](/_protect/Chemistry/organic.protect.md) 
 
-### #is_/same_as :: [organic.private](/_private/chemic/organic.private.md) 
+### #is_/same_as :: [organic.private](/_private/Chemistry/organic.private.md) 
 
-### #is_/same_as :: [organic.personal](/_personal/chemic/organic.personal.md) 
+### #is_/same_as :: [organic.personal](/_personal/Chemistry/organic.personal.md) 
 
-### #is_/same_as :: [organic.secret](/_secret/chemic/organic.secret.md)
+### #is_/same_as :: [organic.secret](/_secret/Chemistry/organic.secret.md)
 

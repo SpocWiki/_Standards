@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - one-time-payments
 - one_time_payments

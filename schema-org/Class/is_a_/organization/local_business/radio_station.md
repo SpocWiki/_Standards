@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - radio-station
 - radio_station

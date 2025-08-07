@@ -35,3 +35,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Celestial.png
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomical%20coordinate%20systems) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astronomical_coordinate_systems](/_Standards/Astronomy/Astronomical_coordinate_systems.md) 
+
+### #is_/same_as :: [Astronomical_coordinate_systems.public](/_public/Astronomy/Astronomical_coordinate_systems.public.md) 
+
+### #is_/same_as :: [Astronomical_coordinate_systems.internal](/_internal/Astronomy/Astronomical_coordinate_systems.internal.md) 
+
+### #is_/same_as :: [Astronomical_coordinate_systems.protect](/_protect/Astronomy/Astronomical_coordinate_systems.protect.md) 
+
+### #is_/same_as :: [Astronomical_coordinate_systems.private](/_private/Astronomy/Astronomical_coordinate_systems.private.md) 
+
+### #is_/same_as :: [Astronomical_coordinate_systems.personal](/_personal/Astronomy/Astronomical_coordinate_systems.personal.md) 
+
+### #is_/same_as :: [Astronomical_coordinate_systems.secret](/_secret/Astronomy/Astronomical_coordinate_systems.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cirroctopus antarctica"
 ---
 
@@ -144,7 +144,7 @@ Mar. Sci. 20: 421-428.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[antarctica](antarctica.md)) 
+### #is_/same_as :: [antarctica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/antarctica.md) 
 
 ### #is_/same_as :: [antarctica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/antarctica.public.md) 
 

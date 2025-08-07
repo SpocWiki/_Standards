@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - security-screening
 - security_screening

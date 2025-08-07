@@ -23,3 +23,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bey) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bey](/_Standards/Society/Military/Military_Rank/Bey.md) 
+
+### #is_/same_as :: [Bey.public](/_public/Society/Military/Military_Rank/Bey.public.md) 
+
+### #is_/same_as :: [Bey.internal](/_internal/Society/Military/Military_Rank/Bey.internal.md) 
+
+### #is_/same_as :: [Bey.protect](/_protect/Society/Military/Military_Rank/Bey.protect.md) 
+
+### #is_/same_as :: [Bey.private](/_private/Society/Military/Military_Rank/Bey.private.md) 
+
+### #is_/same_as :: [Bey.personal](/_personal/Society/Military/Military_Rank/Bey.personal.md) 
+
+### #is_/same_as :: [Bey.secret](/_secret/Society/Military/Military_Rank/Bey.secret.md)
+

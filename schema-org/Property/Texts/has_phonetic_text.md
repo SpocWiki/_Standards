@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - phonetic-text
 - phonetic_text

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - single-center-trial
 - single_center_trial

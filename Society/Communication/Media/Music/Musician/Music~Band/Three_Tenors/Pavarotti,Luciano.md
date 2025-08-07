@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Luciano Pavarotti"
 ---
@@ -39,4 +39,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luciano%20Pavarotti)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pavarotti,Luciano](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.md) 
+
+### #is_/same_as :: [Pavarotti,Luciano.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.public.md) 
+
+### #is_/same_as :: [Pavarotti,Luciano.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.internal.md) 
+
+### #is_/same_as :: [Pavarotti,Luciano.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.protect.md) 
+
+### #is_/same_as :: [Pavarotti,Luciano.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.private.md) 
+
+### #is_/same_as :: [Pavarotti,Luciano.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.personal.md) 
+
+### #is_/same_as :: [Pavarotti,Luciano.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors/Pavarotti,Luciano.secret.md)
 

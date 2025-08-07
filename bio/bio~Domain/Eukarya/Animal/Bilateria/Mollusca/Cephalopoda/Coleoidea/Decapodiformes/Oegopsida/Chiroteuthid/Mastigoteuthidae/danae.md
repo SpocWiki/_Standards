@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis danae"
 ---
 
@@ -127,7 +127,7 @@ Beaufortia, 47: 91-108.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[danae](danae.md)) 
+### #is_/same_as :: [danae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/danae.md) 
 
 ### #is_/same_as :: [danae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/danae.public.md) 
 

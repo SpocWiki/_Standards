@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Water sport"
 Colon_Classification: MY25

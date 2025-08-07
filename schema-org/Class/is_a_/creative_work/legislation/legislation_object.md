@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-object
 - legislation_object

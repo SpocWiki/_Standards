@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - move-action
 - move_action

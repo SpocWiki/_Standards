@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ice-cream-shop
 - ice_cream_shop

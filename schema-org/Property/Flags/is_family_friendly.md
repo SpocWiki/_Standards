@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - family-friendly
 - family_friendly

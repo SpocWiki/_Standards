@@ -1,4 +1,4 @@
-﻿---
+---
 title: Opisthoteuthidae
 ---
 
@@ -176,7 +176,7 @@ morphology of cirrate octopods: locomotion and feeding. Vie Milieu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Opisthoteuthidae](Opisthoteuthidae.md)) 
+### #is_/same_as :: [Opisthoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae.md) 
 
 ### #is_/same_as :: [Opisthoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae.public.md) 
 

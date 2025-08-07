@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rent-action
 - rent_action

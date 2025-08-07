@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sitticinae
 ---
 
@@ -59,7 +59,7 @@ chelicerae. The fourth leg is much longer than the third leg.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sitticinae](Sitticinae.md)) 
+### #is_/same_as :: [Sitticinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Sitticinae.md) 
 
 ### #is_/same_as :: [Sitticinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Sitticinae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "American Civil War"
 Baidu_Tieba_name: 南北战争

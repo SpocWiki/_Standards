@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 91
 canonical_SMILES: '[Pa]'
 CAS_Registry_Number: 7440-13-3
@@ -128,17 +128,17 @@ UNII: 0S6855V29M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protactinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Protactinium.md) 
+### #is_/same_as :: [Protactinium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Protactinium.md) 
 
-### #is_/same_as :: [Protactinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Protactinium.public.md) 
+### #is_/same_as :: [Protactinium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Protactinium.public.md) 
 
-### #is_/same_as :: [Protactinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Protactinium.internal.md) 
+### #is_/same_as :: [Protactinium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Protactinium.internal.md) 
 
-### #is_/same_as :: [Protactinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Protactinium.protect.md) 
+### #is_/same_as :: [Protactinium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Protactinium.protect.md) 
 
-### #is_/same_as :: [Protactinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Protactinium.private.md) 
+### #is_/same_as :: [Protactinium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Protactinium.private.md) 
 
-### #is_/same_as :: [Protactinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Protactinium.personal.md) 
+### #is_/same_as :: [Protactinium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Protactinium.personal.md) 
 
-### #is_/same_as :: [Protactinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Protactinium.secret.md)
+### #is_/same_as :: [Protactinium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Protactinium.secret.md)
 

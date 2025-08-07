@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recipe-instructions
 - recipe_instructions

@@ -39,4 +39,19 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/amalgam.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Amalgam%20(chemistry)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amalgam(chemic)](/_Standards/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).md) 
+
+### #is_/same_as :: [Amalgam(chemic).public](/_public/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).public.md) 
+
+### #is_/same_as :: [Amalgam(chemic).internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).internal.md) 
+
+### #is_/same_as :: [Amalgam(chemic).protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).protect.md) 
+
+### #is_/same_as :: [Amalgam(chemic).private](/_private/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).private.md) 
+
+### #is_/same_as :: [Amalgam(chemic).personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).personal.md) 
+
+### #is_/same_as :: [Amalgam(chemic).secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).secret.md)
 

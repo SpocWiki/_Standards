@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - estimated_salary
 - estimated-salary

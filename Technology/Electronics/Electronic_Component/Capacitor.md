@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "electronic condenser"
 Commons_category: Capacitors

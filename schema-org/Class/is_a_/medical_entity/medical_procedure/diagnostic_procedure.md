@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - diagnostic-procedure
 - diagnostic_procedure

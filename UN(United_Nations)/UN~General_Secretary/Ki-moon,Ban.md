@@ -185,3 +185,20 @@ date_of_birth: 1944-06-13T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ban%20Ki-moon) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ki-moon,Ban](/_Standards/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.md) 
+
+### #is_/same_as :: [Ki-moon,Ban.public](/_public/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.public.md) 
+
+### #is_/same_as :: [Ki-moon,Ban.internal](/_internal/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.internal.md) 
+
+### #is_/same_as :: [Ki-moon,Ban.protect](/_protect/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.protect.md) 
+
+### #is_/same_as :: [Ki-moon,Ban.private](/_private/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.private.md) 
+
+### #is_/same_as :: [Ki-moon,Ban.personal](/_personal/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.personal.md) 
+
+### #is_/same_as :: [Ki-moon,Ban.secret](/_secret/UN(United_Nations)/UN~General_Secretary/Ki-moon,Ban.secret.md)
+

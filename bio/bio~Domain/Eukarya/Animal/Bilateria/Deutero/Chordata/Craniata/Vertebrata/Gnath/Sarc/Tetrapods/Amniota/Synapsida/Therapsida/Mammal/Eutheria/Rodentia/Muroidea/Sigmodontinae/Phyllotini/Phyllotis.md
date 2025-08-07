@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phyllotis
 ---
 
@@ -296,7 +296,7 @@ in -otis. J. Mamm. 74:544-546.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Phyllotis](Phyllotis.md)) 
+### #is_/same_as :: [Phyllotis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Phyllotis.md) 
 
 ### #is_/same_as :: [Phyllotis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Phyllotis.public.md) 
 

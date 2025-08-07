@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - search-results-page
 - search_results_page

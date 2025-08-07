@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - view-action
 - view_action

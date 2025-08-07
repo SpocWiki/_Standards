@@ -111,3 +111,20 @@ UMLS_CUI: C0242688
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronaut) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astronaut](/_Standards/Technology/Spaceflight/Astronautics/Astronaut.md) 
+
+### #is_/same_as :: [Astronaut.public](/_public/Technology/Spaceflight/Astronautics/Astronaut.public.md) 
+
+### #is_/same_as :: [Astronaut.internal](/_internal/Technology/Spaceflight/Astronautics/Astronaut.internal.md) 
+
+### #is_/same_as :: [Astronaut.protect](/_protect/Technology/Spaceflight/Astronautics/Astronaut.protect.md) 
+
+### #is_/same_as :: [Astronaut.private](/_private/Technology/Spaceflight/Astronautics/Astronaut.private.md) 
+
+### #is_/same_as :: [Astronaut.personal](/_personal/Technology/Spaceflight/Astronautics/Astronaut.personal.md) 
+
+### #is_/same_as :: [Astronaut.secret](/_secret/Technology/Spaceflight/Astronautics/Astronaut.secret.md)
+

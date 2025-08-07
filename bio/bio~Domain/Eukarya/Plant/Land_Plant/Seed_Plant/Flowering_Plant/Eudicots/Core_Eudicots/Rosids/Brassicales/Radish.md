@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Radish
 - Rettich
@@ -89,17 +89,17 @@ this_taxon_is_source_of: '[[_Standards/WikiData/WD~radish,33669098]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Radish](Radish.md)) 
+### #is_/same_as :: [Radish](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.md) 
 
-### #is_/same_as :: [Radish.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.public.md) 
+### #is_/same_as :: [Radish.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.public.md) 
 
-### #is_/same_as :: [Radish.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.internal.md) 
+### #is_/same_as :: [Radish.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.internal.md) 
 
-### #is_/same_as :: [Radish.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.protect.md) 
+### #is_/same_as :: [Radish.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.protect.md) 
 
-### #is_/same_as :: [Radish.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.private.md) 
+### #is_/same_as :: [Radish.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.private.md) 
 
-### #is_/same_as :: [Radish.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.personal.md) 
+### #is_/same_as :: [Radish.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.personal.md) 
 
-### #is_/same_as :: [Radish.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.secret.md)
+### #is_/same_as :: [Radish.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Radish.secret.md)
 

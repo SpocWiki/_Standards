@@ -1,4 +1,4 @@
-﻿---
+---
 title: Platydesmida
 ---
 
@@ -49,7 +49,7 @@ Containing group:[Diplopoda](../Diplopoda.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Platydesmida](Platydesmida.md)) 
+### #is_/same_as :: [Platydesmida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Platydesmida.md) 
 
 ### #is_/same_as :: [Platydesmida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Platydesmida.public.md) 
 

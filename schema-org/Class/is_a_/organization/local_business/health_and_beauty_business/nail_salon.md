@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nail-salon
 - nail_salon

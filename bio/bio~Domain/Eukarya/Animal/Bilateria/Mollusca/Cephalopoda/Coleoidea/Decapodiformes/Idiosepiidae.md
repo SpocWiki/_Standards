@@ -1,4 +1,4 @@
-﻿---
+---
 title: Idiosepiidae
 ---
 
@@ -149,7 +149,7 @@ Nat. Mus., 234: 1-180.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Idiosepiidae](Idiosepiidae.md)) 
+### #is_/same_as :: [Idiosepiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.md) 
 
 ### #is_/same_as :: [Idiosepiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.public.md) 
 

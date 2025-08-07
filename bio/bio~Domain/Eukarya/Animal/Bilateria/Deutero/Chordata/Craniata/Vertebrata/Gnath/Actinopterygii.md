@@ -1,4 +1,4 @@
-﻿---
+---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Aktinopterigoj.ogg"
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Actinopterygii
@@ -130,7 +130,7 @@ Copyright ::            © 2005 [Vearl Brown](http://flickr.com/people/80835774@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Actinopterygii](Actinopterygii.md)) 
+### #is_/same_as :: [Actinopterygii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.md) 
 
 ### #is_/same_as :: [Actinopterygii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.public.md) 
 

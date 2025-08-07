@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - street-address
 - address_street

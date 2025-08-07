@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~honorary_degree,209896]]'
 aliases:
 - "Michael Faraday"

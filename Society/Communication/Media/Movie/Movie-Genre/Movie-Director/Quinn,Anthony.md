@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Anthony Quinn"
 - "Manuel Antonio Rodolfo Quinn Oaxaca"
@@ -44,4 +44,21 @@ aliases:
 > a seminal figure of Latin-American representation in the media of the United States.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anthony%20Quinn)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quinn,Anthony](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.md) 
+
+### #is_/same_as :: [Quinn,Anthony.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.public.md) 
+
+### #is_/same_as :: [Quinn,Anthony.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.internal.md) 
+
+### #is_/same_as :: [Quinn,Anthony.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.protect.md) 
+
+### #is_/same_as :: [Quinn,Anthony.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.private.md) 
+
+### #is_/same_as :: [Quinn,Anthony.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.personal.md) 
+
+### #is_/same_as :: [Quinn,Anthony.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Quinn,Anthony.secret.md)
 

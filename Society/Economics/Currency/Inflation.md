@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Inflation
 described_by_source:
 - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'

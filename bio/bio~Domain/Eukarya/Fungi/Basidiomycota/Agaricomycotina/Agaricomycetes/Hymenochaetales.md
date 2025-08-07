@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hymenochaetoid clade"
 ---
 
@@ -388,7 +388,7 @@ Biotechnology Adv. 22(1-2):161-187.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hymenochaetales](Hymenochaetales.md)) 
+### #is_/same_as :: [Hymenochaetales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.md) 
 
 ### #is_/same_as :: [Hymenochaetales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.public.md) 
 

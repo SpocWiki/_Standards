@@ -40,4 +40,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/300%20(film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [300(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).md) 
+
+### #is_/same_as :: [300(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).public.md) 
+
+### #is_/same_as :: [300(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).internal.md) 
+
+### #is_/same_as :: [300(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).protect.md) 
+
+### #is_/same_as :: [300(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).private.md) 
+
+### #is_/same_as :: [300(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).personal.md) 
+
+### #is_/same_as :: [300(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).secret.md)
 

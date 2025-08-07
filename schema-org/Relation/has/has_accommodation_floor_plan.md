@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accommodation-floor-plan
 - accommodation_floor_plan

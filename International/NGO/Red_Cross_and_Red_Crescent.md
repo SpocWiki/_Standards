@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "International Red Cross and Red Crescent Movement"
 - "Red Cross"

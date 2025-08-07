@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Uhr%2020230505%20001.stl"
 Commons_category: Clocks
 Commons_gallery: Clock

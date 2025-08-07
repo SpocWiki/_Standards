@@ -22,3 +22,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alain%20Delon) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Delon,Alain](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.md) 
+
+### #is_/same_as :: [Delon,Alain.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.public.md) 
+
+### #is_/same_as :: [Delon,Alain.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.internal.md) 
+
+### #is_/same_as :: [Delon,Alain.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.protect.md) 
+
+### #is_/same_as :: [Delon,Alain.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.private.md) 
+
+### #is_/same_as :: [Delon,Alain.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.personal.md) 
+
+### #is_/same_as :: [Delon,Alain.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.secret.md)
+

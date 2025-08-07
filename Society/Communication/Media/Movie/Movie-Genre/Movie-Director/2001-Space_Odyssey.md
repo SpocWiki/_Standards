@@ -1,4 +1,4 @@
-﻿---
+---
 after_a_work_by: '[[_Standards/WikiData/WD~Arthur_C._Clarke,47087]]'
 aliases:
 - "2001:_A_Space_Odyssey"
@@ -206,4 +206,20 @@ Wolfram_Language_entity_code: "Entity[\"Movie\", \"2001:ASpaceOdyssey::4y48p\"]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/2001:%20A%20Space%20Odyssey)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [2001-Space_Odyssey](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.md) 
+
+### #is_/same_as :: [2001-Space_Odyssey.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.public.md) 
+
+### #is_/same_as :: [2001-Space_Odyssey.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.internal.md) 
+
+### #is_/same_as :: [2001-Space_Odyssey.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.protect.md) 
+
+### #is_/same_as :: [2001-Space_Odyssey.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.private.md) 
+
+### #is_/same_as :: [2001-Space_Odyssey.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.personal.md) 
+
+### #is_/same_as :: [2001-Space_Odyssey.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/2001-Space_Odyssey.secret.md)
 

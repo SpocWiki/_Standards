@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vegetarian-diet
 - vegetarian_diet

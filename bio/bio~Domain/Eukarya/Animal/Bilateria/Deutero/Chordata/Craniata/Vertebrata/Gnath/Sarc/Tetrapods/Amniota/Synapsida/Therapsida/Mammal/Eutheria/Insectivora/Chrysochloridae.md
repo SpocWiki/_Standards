@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chrysochloridae
 ---
 
@@ -81,7 +81,7 @@ Copyright ::            © 1999 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chrysochloridae](Chrysochloridae.md)) 
+### #is_/same_as :: [Chrysochloridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Chrysochloridae.md) 
 
 ### #is_/same_as :: [Chrysochloridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Chrysochloridae.public.md) 
 

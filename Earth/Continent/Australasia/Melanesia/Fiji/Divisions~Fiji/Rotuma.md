@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rotuma
 confidential: public

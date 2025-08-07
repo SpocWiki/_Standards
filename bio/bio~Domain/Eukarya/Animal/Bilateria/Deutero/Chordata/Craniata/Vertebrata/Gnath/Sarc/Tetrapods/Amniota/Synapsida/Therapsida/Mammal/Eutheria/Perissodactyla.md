@@ -1,4 +1,4 @@
-﻿---
+---
 title: Perissodactyla
 ---
 
@@ -109,7 +109,7 @@ Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Perissodactyla](Perissodactyla.md)) 
+### #is_/same_as :: [Perissodactyla](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla.md) 
 
 ### #is_/same_as :: [Perissodactyla.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla.public.md) 
 

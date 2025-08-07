@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Endangered species"
 different_from:
 - '[[_Standards/WikiData/WD~moderately_threatened,10677610]]'

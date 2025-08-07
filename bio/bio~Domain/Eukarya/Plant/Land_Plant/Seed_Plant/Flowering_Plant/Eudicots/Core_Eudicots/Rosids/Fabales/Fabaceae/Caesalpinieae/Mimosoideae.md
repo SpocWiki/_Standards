@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mimosoideae
 ---
 
@@ -149,17 +149,17 @@ Copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mimosoideae](Mimosoideae.md)) 
+### #is_/same_as :: [Mimosoideae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.md) 
 
-### #is_/same_as :: [Mimosoideae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.public.md) 
+### #is_/same_as :: [Mimosoideae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.public.md) 
 
-### #is_/same_as :: [Mimosoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.internal.md) 
+### #is_/same_as :: [Mimosoideae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.internal.md) 
 
-### #is_/same_as :: [Mimosoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.protect.md) 
+### #is_/same_as :: [Mimosoideae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.protect.md) 
 
-### #is_/same_as :: [Mimosoideae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.private.md) 
+### #is_/same_as :: [Mimosoideae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.private.md) 
 
-### #is_/same_as :: [Mimosoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.personal.md) 
+### #is_/same_as :: [Mimosoideae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.personal.md) 
 
-### #is_/same_as :: [Mimosoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.secret.md)
+### #is_/same_as :: [Mimosoideae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.secret.md)
 

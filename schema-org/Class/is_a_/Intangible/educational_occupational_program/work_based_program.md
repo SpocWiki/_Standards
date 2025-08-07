@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-based-program
 - work_based_program

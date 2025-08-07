@@ -32,6 +32,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Opeth)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Opeth](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Opeth.md) 
 
+### #is_/same_as :: [Opeth.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Opeth.public.md) 
+
+### #is_/same_as :: [Opeth.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Opeth.internal.md) 
+
+### #is_/same_as :: [Opeth.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Opeth.protect.md) 
+
+### #is_/same_as :: [Opeth.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Opeth.private.md) 
+
+### #is_/same_as :: [Opeth.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Opeth.personal.md) 
+
+### #is_/same_as :: [Opeth.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Opeth.secret.md)
 

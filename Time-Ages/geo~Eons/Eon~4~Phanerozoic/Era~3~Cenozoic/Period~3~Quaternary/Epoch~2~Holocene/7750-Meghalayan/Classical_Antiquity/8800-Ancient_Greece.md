@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ancient Greece"
 BHCL_UUID: fea2a69b-8216-4b76-ac71-c0552d7a259f

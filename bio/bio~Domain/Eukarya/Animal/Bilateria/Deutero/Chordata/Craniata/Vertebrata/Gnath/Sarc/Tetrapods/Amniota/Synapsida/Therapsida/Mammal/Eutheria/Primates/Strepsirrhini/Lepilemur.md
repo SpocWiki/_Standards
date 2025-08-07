@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lepilemur
 ---
 
@@ -64,7 +64,7 @@ title: Lepilemur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lepilemur](Lepilemur.md)) 
+### #is_/same_as :: [Lepilemur](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.md) 
 
 ### #is_/same_as :: [Lepilemur.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lepilemur.public.md) 
 

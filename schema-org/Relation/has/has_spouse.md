@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - spouse
 - has_spouse

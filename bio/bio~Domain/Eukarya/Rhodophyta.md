@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rhodophyta
 - "Red Algae"
@@ -165,7 +165,7 @@ Gabrielson 1990 \[and references within\], Ragan et al. 1994).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rhodophyta](Rhodophyta.md)) 
+### #is_/same_as :: [Rhodophyta](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta.md) 
 
 ### #is_/same_as :: [Rhodophyta.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta.public.md) 
 

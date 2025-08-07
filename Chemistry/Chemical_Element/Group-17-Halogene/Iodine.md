@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~iodine_exposure,21174767]]'
 atomic_number: 53
 boiling_point: 184.4
@@ -130,17 +130,17 @@ Unicode_character: 碘
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iodine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Iodine.md) 
+### #is_/same_as :: [Iodine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.md) 
 
-### #is_/same_as :: [Iodine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Iodine.public.md) 
+### #is_/same_as :: [Iodine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.public.md) 
 
-### #is_/same_as :: [Iodine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Iodine.internal.md) 
+### #is_/same_as :: [Iodine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.internal.md) 
 
-### #is_/same_as :: [Iodine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Iodine.protect.md) 
+### #is_/same_as :: [Iodine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.protect.md) 
 
-### #is_/same_as :: [Iodine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Iodine.private.md) 
+### #is_/same_as :: [Iodine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.private.md) 
 
-### #is_/same_as :: [Iodine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Iodine.personal.md) 
+### #is_/same_as :: [Iodine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.personal.md) 
 
-### #is_/same_as :: [Iodine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Iodine.secret.md)
+### #is_/same_as :: [Iodine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogene/Iodine.secret.md)
 

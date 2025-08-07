@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~abdominal_cavity,682466]]'
 arterial_supply: '[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]'
 Commons_category: "Small intestines"

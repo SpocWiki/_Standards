@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stanford University"
 ---
@@ -51,4 +51,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stanford%20University)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Stanford_University](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.md) 
+
+### #is_/same_as :: [Stanford_University.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.public.md) 
+
+### #is_/same_as :: [Stanford_University.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.internal.md) 
+
+### #is_/same_as :: [Stanford_University.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.protect.md) 
+
+### #is_/same_as :: [Stanford_University.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.private.md) 
+
+### #is_/same_as :: [Stanford_University.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.personal.md) 
+
+### #is_/same_as :: [Stanford_University.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Acorn_Computers/Stanford_University.secret.md)
 

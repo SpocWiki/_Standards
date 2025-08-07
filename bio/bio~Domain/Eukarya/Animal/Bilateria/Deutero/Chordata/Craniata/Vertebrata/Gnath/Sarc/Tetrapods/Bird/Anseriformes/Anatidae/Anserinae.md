@@ -28,3 +28,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anser%20(bird)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anserinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.md) 
+
+### #is_/same_as :: [Anserinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.public.md) 
+
+### #is_/same_as :: [Anserinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.internal.md) 
+
+### #is_/same_as :: [Anserinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.protect.md) 
+
+### #is_/same_as :: [Anserinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.private.md) 
+
+### #is_/same_as :: [Anserinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.personal.md) 
+
+### #is_/same_as :: [Anserinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Anseriformes/Anatidae/Anserinae.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recorded-at
 - recorded_at

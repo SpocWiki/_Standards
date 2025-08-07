@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amphitretidae
 ---
 
@@ -171,7 +171,7 @@ African Jour. Mar. Sci. (in press).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amphitretidae](Amphitretidae.md)) 
+### #is_/same_as :: [Amphitretidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.md) 
 
 ### #is_/same_as :: [Amphitretidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.public.md) 
 

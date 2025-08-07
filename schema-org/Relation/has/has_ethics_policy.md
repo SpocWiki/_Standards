@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ethics-policy
 - ethics_policy

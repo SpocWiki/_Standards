@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-location
 - body_location

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Dibranchiata
 - Coleoidea
@@ -248,7 +248,7 @@ Copyright ::            © 1999 Brad Seibel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Coleoidea](Coleoidea.md)) 
+### #is_/same_as :: [Coleoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.md) 
 
 ### #is_/same_as :: [Coleoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea.public.md) 
 

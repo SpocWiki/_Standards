@@ -32,3 +32,21 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/GlobalFoundries)
 
 It lizenses Procudction Processes from [[onsemi]] and [[STMicroelectronics]]. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [GlobalFoundries](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.md) 
+
+### #is_/same_as :: [GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public.md) 
+
+### #is_/same_as :: [GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal.md) 
+
+### #is_/same_as :: [GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect.md) 
+
+### #is_/same_as :: [GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private.md) 
+
+### #is_/same_as :: [GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal.md) 
+
+### #is_/same_as :: [GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret.md)
+

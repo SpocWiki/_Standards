@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Haemospororida
 - Haemosporida
@@ -42,7 +42,7 @@ title: Plasmodiidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Haemosporida](Haemosporida.md)) 
+### #is_/same_as :: [Haemosporida](/_Standards/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.md) 
 
 ### #is_/same_as :: [Haemosporida.public](/_public/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.public.md) 
 

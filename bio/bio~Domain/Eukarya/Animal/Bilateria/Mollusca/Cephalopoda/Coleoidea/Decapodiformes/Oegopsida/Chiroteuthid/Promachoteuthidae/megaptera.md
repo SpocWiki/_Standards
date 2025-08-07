@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Promachoteuthis megaptera"
 ---
 
@@ -128,7 +128,7 @@ Ser., 11: 203-214.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[megaptera](megaptera.md)) 
+### #is_/same_as :: [megaptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.md) 
 
 ### #is_/same_as :: [megaptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/megaptera.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - claim-interpreter
 - claim_interpreter

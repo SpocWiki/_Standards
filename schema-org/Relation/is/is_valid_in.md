@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - valid-in
 - valid_in

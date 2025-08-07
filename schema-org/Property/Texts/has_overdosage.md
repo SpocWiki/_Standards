@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - overdosage
 - overdosage

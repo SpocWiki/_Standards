@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "Y:492"
 Commons_category: Slavery
 Commons_gallery: Slavery

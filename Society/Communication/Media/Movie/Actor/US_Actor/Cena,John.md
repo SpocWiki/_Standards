@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Cena"
 - "John Felix Anthony Cena"
@@ -32,4 +32,21 @@ aliases:
 > and has granted the most wishes for the Make-A-Wish Foundation at over 650.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Cena) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cena,John](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.md) 
+
+### #is_/same_as :: [Cena,John.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.public.md) 
+
+### #is_/same_as :: [Cena,John.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.internal.md) 
+
+### #is_/same_as :: [Cena,John.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.protect.md) 
+
+### #is_/same_as :: [Cena,John.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.private.md) 
+
+### #is_/same_as :: [Cena,John.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.personal.md) 
+
+### #is_/same_as :: [Cena,John.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.secret.md)
 

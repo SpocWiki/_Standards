@@ -38,3 +38,20 @@ Commons_category: Cantatas
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cantata) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cantata](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.md) 
+
+### #is_/same_as :: [Cantata.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.public.md) 
+
+### #is_/same_as :: [Cantata.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.internal.md) 
+
+### #is_/same_as :: [Cantata.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.protect.md) 
+
+### #is_/same_as :: [Cantata.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.private.md) 
+
+### #is_/same_as :: [Cantata.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.personal.md) 
+
+### #is_/same_as :: [Cantata.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.secret.md)
+

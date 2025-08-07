@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: X8A
 Commons_category: "Industry (manufacturing)"
 described_by_source:

@@ -75,17 +75,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-01-Alkali](/_Standards/chemic/chemic~Elements/Group-01-Alkali.md) 
+### #is_/same_as :: [Group-01-Alkali](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali.md) 
 
-### #is_/same_as :: [Group-01-Alkali.public](/_public/chemic/chemic~Elements/Group-01-Alkali.public.md) 
+### #is_/same_as :: [Group-01-Alkali.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali.public.md) 
 
-### #is_/same_as :: [Group-01-Alkali.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali.internal.md) 
+### #is_/same_as :: [Group-01-Alkali.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali.internal.md) 
 
-### #is_/same_as :: [Group-01-Alkali.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali.protect.md) 
+### #is_/same_as :: [Group-01-Alkali.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali.protect.md) 
 
-### #is_/same_as :: [Group-01-Alkali.private](/_private/chemic/chemic~Elements/Group-01-Alkali.private.md) 
+### #is_/same_as :: [Group-01-Alkali.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali.private.md) 
 
-### #is_/same_as :: [Group-01-Alkali.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali.personal.md) 
+### #is_/same_as :: [Group-01-Alkali.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali.personal.md) 
 
-### #is_/same_as :: [Group-01-Alkali.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali.secret.md)
+### #is_/same_as :: [Group-01-Alkali.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali.secret.md)
 

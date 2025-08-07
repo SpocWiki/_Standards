@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apsis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apsis](/_Standards/Technology/Spaceflight/Apsis.md) 
+
+### #is_/same_as :: [Apsis.public](/_public/Technology/Spaceflight/Apsis.public.md) 
+
+### #is_/same_as :: [Apsis.internal](/_internal/Technology/Spaceflight/Apsis.internal.md) 
+
+### #is_/same_as :: [Apsis.protect](/_protect/Technology/Spaceflight/Apsis.protect.md) 
+
+### #is_/same_as :: [Apsis.private](/_private/Technology/Spaceflight/Apsis.private.md) 
+
+### #is_/same_as :: [Apsis.personal](/_personal/Technology/Spaceflight/Apsis.personal.md) 
+
+### #is_/same_as :: [Apsis.secret](/_secret/Technology/Spaceflight/Apsis.secret.md)
+

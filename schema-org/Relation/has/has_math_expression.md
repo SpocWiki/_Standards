@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - math-expression
 - math_expression

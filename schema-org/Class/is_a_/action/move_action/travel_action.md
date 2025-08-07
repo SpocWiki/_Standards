@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - travel-action
 - travel_action

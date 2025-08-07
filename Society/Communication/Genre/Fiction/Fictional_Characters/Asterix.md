@@ -116,3 +116,20 @@ Google_Doodle: asterix-comics-50th-anniversary-2009-goscinny-uderzo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asterix) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Asterix](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.md) 
+
+### #is_/same_as :: [Asterix.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.public.md) 
+
+### #is_/same_as :: [Asterix.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.internal.md) 
+
+### #is_/same_as :: [Asterix.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.protect.md) 
+
+### #is_/same_as :: [Asterix.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.private.md) 
+
+### #is_/same_as :: [Asterix.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.personal.md) 
+
+### #is_/same_as :: [Asterix.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Asterix.secret.md)
+

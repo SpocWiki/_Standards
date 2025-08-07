@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Achilles) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Achilles](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.md) 
+
+### #is_/same_as :: [Achilles.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.public.md) 
+
+### #is_/same_as :: [Achilles.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.internal.md) 
+
+### #is_/same_as :: [Achilles.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.protect.md) 
+
+### #is_/same_as :: [Achilles.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.private.md) 
+
+### #is_/same_as :: [Achilles.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.personal.md) 
+
+### #is_/same_as :: [Achilles.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Achilles.secret.md)
+

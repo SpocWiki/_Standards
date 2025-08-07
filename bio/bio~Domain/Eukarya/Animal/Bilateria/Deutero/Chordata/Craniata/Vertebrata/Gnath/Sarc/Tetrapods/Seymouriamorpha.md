@@ -1,4 +1,4 @@
-﻿---
+---
 title: Seymouriamorpha
 ---
 
@@ -319,7 +319,7 @@ seymouriamorphs in Xinjiang, China. Vertebrata PalAsiatica 22: 294-304.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Seymouriamorpha](Seymouriamorpha.md)) 
+### #is_/same_as :: [Seymouriamorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.md) 
 
 ### #is_/same_as :: [Seymouriamorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.public.md) 
 

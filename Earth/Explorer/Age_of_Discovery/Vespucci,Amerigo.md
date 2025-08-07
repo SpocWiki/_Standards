@@ -80,3 +80,20 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amerigo%20Vespucci) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vespucci,Amerigo](/_Standards/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.md) 
+
+### #is_/same_as :: [Vespucci,Amerigo.public](/_public/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.public.md) 
+
+### #is_/same_as :: [Vespucci,Amerigo.internal](/_internal/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.internal.md) 
+
+### #is_/same_as :: [Vespucci,Amerigo.protect](/_protect/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.protect.md) 
+
+### #is_/same_as :: [Vespucci,Amerigo.private](/_private/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.private.md) 
+
+### #is_/same_as :: [Vespucci,Amerigo.personal](/_personal/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.personal.md) 
+
+### #is_/same_as :: [Vespucci,Amerigo.secret](/_secret/Earth/Explorer/Age_of_Discovery/Vespucci,Amerigo.secret.md)
+

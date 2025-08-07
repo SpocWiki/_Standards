@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miscellaneous fossil bovids"
 ---
 
@@ -64,7 +64,7 @@ title: "Miscellaneous fossil bovids"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[fossil_bovids](fossil_bovids.md)) 
+### #is_/same_as :: [fossil_bovids](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/fossil_bovids.md) 
 
 ### #is_/same_as :: [fossil_bovids.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/fossil_bovids.public.md) 
 

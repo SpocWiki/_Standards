@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pronounceable-text
 - pronounceable_text

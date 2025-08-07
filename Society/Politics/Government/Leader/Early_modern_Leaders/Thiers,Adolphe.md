@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marie Joseph Louis Adolphe Thiers"
 - "Adolphe Thiers"
@@ -130,4 +130,21 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > Thiers was also a notable popular historian. He wrote the first large scale history of the French Revolution in 10 volumes, published 1823–1827. Historian Robert Tombs states it was, "A bold political act during the Bourbon Restoration...and it formed part of an intellectual upsurge of liberals against the counter-revolutionary offensive of the Ultra Royalists." He also wrote a twenty-volume history of the Consulate and Empire of Napoleon Bonaparte (Histoire du Consulat et de l'Empire). In 1834, he was elected to the Académie Française.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Adolphe%20Thiers) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thiers,Adolphe](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.md) 
+
+### #is_/same_as :: [Thiers,Adolphe.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.public.md) 
+
+### #is_/same_as :: [Thiers,Adolphe.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.internal.md) 
+
+### #is_/same_as :: [Thiers,Adolphe.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.protect.md) 
+
+### #is_/same_as :: [Thiers,Adolphe.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.private.md) 
+
+### #is_/same_as :: [Thiers,Adolphe.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.personal.md) 
+
+### #is_/same_as :: [Thiers,Adolphe.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Thiers,Adolphe.secret.md)
 

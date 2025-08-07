@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dictator game"
 ---
@@ -27,4 +27,21 @@ While the ultimatum game is informative, it can be considered an over simplified
 ## Application
 
 The initial game was developed by [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman "Daniel Kahneman") in the 1980s and involved three parties, with one active and two passive participants. However, it was only in 1994 that a paper by [Forsythe](https://en.wikipedia.org/wiki/Robert_E._Forsythe "Robert E. Forsythe") et al. simplified this to the contemporary form of this game with one decision-maker (the dictator) and one passive participant (the recipient).
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dictator_Game](/_Standards/Mathematics/Game_Theory/Dictator_Game.md) 
+
+### #is_/same_as :: [Dictator_Game.public](/_public/Mathematics/Game_Theory/Dictator_Game.public.md) 
+
+### #is_/same_as :: [Dictator_Game.internal](/_internal/Mathematics/Game_Theory/Dictator_Game.internal.md) 
+
+### #is_/same_as :: [Dictator_Game.protect](/_protect/Mathematics/Game_Theory/Dictator_Game.protect.md) 
+
+### #is_/same_as :: [Dictator_Game.private](/_private/Mathematics/Game_Theory/Dictator_Game.private.md) 
+
+### #is_/same_as :: [Dictator_Game.personal](/_personal/Mathematics/Game_Theory/Dictator_Game.personal.md) 
+
+### #is_/same_as :: [Dictator_Game.secret](/_secret/Mathematics/Game_Theory/Dictator_Game.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Liquid
 Commons_gallery: Liquid
 described_by_source:

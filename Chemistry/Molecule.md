@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Molecules
 described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
@@ -79,17 +79,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molecule](/_Standards/chemic/Molecule.md) 
+### #is_/same_as :: [Molecule](/_Standards/Chemistry/Molecule.md) 
 
-### #is_/same_as :: [Molecule.public](/_public/chemic/Molecule.public.md) 
+### #is_/same_as :: [Molecule.public](/_public/Chemistry/Molecule.public.md) 
 
-### #is_/same_as :: [Molecule.internal](/_internal/chemic/Molecule.internal.md) 
+### #is_/same_as :: [Molecule.internal](/_internal/Chemistry/Molecule.internal.md) 
 
-### #is_/same_as :: [Molecule.protect](/_protect/chemic/Molecule.protect.md) 
+### #is_/same_as :: [Molecule.protect](/_protect/Chemistry/Molecule.protect.md) 
 
-### #is_/same_as :: [Molecule.private](/_private/chemic/Molecule.private.md) 
+### #is_/same_as :: [Molecule.private](/_private/Chemistry/Molecule.private.md) 
 
-### #is_/same_as :: [Molecule.personal](/_personal/chemic/Molecule.personal.md) 
+### #is_/same_as :: [Molecule.personal](/_personal/Chemistry/Molecule.personal.md) 
 
-### #is_/same_as :: [Molecule.secret](/_secret/chemic/Molecule.secret.md)
+### #is_/same_as :: [Molecule.secret](/_secret/Chemistry/Molecule.secret.md)
 

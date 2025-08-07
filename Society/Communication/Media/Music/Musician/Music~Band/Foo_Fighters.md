@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Foo Fighters"
 ---
@@ -45,5 +45,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Foo%20Fighters)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Foo_Fighters](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.md) 
+
+### #is_/same_as :: [Foo_Fighters.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.public.md) 
+
+### #is_/same_as :: [Foo_Fighters.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.internal.md) 
+
+### #is_/same_as :: [Foo_Fighters.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.protect.md) 
+
+### #is_/same_as :: [Foo_Fighters.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.private.md) 
+
+### #is_/same_as :: [Foo_Fighters.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.personal.md) 
+
+### #is_/same_as :: [Foo_Fighters.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters.secret.md)
 

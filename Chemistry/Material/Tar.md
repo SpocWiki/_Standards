@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tar) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tar](/_Standards/Chemistry/Material/Tar.md) 
+
+### #is_/same_as :: [Tar.public](/_public/Chemistry/Material/Tar.public.md) 
+
+### #is_/same_as :: [Tar.internal](/_internal/Chemistry/Material/Tar.internal.md) 
+
+### #is_/same_as :: [Tar.protect](/_protect/Chemistry/Material/Tar.protect.md) 
+
+### #is_/same_as :: [Tar.private](/_private/Chemistry/Material/Tar.private.md) 
+
+### #is_/same_as :: [Tar.personal](/_personal/Chemistry/Material/Tar.personal.md) 
+
+### #is_/same_as :: [Tar.secret](/_secret/Chemistry/Material/Tar.secret.md)
+

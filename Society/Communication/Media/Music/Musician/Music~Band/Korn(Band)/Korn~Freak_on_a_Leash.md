@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Freak on a Leash"
 ---
@@ -23,4 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Freak%20on%20a%20Leash)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.md) 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.public.md) 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.internal.md) 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.protect.md) 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.private.md) 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.personal.md) 
+
+### #is_/same_as :: [Korn~Freak_on_a_Leash.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.secret.md)
 

@@ -36,8 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Shape%20of%20My%20Heart%20(Sting%20song))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).md) 
 
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).public.md) 
 
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).internal.md) 
 
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).protect.md) 
+
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).private.md) 
+
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).personal.md) 
+
+### #is_/same_as :: [Shape_of_My_Heart(Sting_song).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Shape_of_My_Heart(Sting_song).secret.md)
 

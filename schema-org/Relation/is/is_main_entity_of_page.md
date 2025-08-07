@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - main-entity-of-page
 - main_entity_of_page

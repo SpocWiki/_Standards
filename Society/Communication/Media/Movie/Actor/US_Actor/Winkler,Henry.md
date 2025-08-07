@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Henry Winkler"
 ---
@@ -30,4 +30,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Winkler)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Winkler,Henry](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.md) 
+
+### #is_/same_as :: [Winkler,Henry.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.public.md) 
+
+### #is_/same_as :: [Winkler,Henry.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.internal.md) 
+
+### #is_/same_as :: [Winkler,Henry.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.protect.md) 
+
+### #is_/same_as :: [Winkler,Henry.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.private.md) 
+
+### #is_/same_as :: [Winkler,Henry.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.personal.md) 
+
+### #is_/same_as :: [Winkler,Henry.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.secret.md)
 

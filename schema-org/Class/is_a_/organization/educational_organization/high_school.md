@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - high-school
 - high_school

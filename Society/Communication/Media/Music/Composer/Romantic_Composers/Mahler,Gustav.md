@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Gustav Mahler"
 BHCL_UUID:

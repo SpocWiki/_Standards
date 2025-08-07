@@ -17,3 +17,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Internet%20service%20provider) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [ISP(Internet-Service_provider)](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).md) 
+
+### #is_/same_as :: [ISP(Internet-Service_provider).public](/_public/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).public.md) 
+
+### #is_/same_as :: [ISP(Internet-Service_provider).internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).internal.md) 
+
+### #is_/same_as :: [ISP(Internet-Service_provider).protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).protect.md) 
+
+### #is_/same_as :: [ISP(Internet-Service_provider).private](/_private/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).private.md) 
+
+### #is_/same_as :: [ISP(Internet-Service_provider).personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).personal.md) 
+
+### #is_/same_as :: [ISP(Internet-Service_provider).secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider).secret.md)
+

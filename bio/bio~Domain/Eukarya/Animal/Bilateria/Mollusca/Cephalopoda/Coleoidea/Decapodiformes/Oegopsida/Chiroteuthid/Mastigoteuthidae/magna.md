@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis magna"
 ---
 
@@ -150,7 +150,7 @@ Alice (1898-1910). 3e Serie. Monaco.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[magna](magna.md)) 
+### #is_/same_as :: [magna](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.md) 
 
 ### #is_/same_as :: [magna.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/magna.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - source-organization
 - source_organization

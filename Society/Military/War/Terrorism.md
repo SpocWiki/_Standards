@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Terrorism
 described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 equivalent_class: "http://skos.um.es/unesco6/631013"

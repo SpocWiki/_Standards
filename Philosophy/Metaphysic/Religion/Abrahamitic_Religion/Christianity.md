@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Christianity](Christianity.md) 
+### #is_/same_as :: [Christianity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.md) 
 
-### #is_/same_as :: [Christianity.public](/_public/Philosophy/Metaphysic/Religion/Christianity.public.md) 
+### #is_/same_as :: [Christianity.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.public.md) 
 
-### #is_/same_as :: [Christianity.internal](/_internal/Philosophy/Metaphysic/Religion/Christianity.internal.md) 
+### #is_/same_as :: [Christianity.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.internal.md) 
 
-### #is_/same_as :: [Christianity.protect](/_protect/Philosophy/Metaphysic/Religion/Christianity.protect.md) 
+### #is_/same_as :: [Christianity.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.protect.md) 
 
-### #is_/same_as :: [Christianity.private](/_private/Philosophy/Metaphysic/Religion/Christianity.private.md) 
+### #is_/same_as :: [Christianity.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.private.md) 
 
-### #is_/same_as :: [Christianity.personal](/_personal/Philosophy/Metaphysic/Religion/Christianity.personal.md) 
+### #is_/same_as :: [Christianity.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.personal.md) 
 
-### #is_/same_as :: [Christianity.secret](/_secret/Philosophy/Metaphysic/Religion/Christianity.secret.md)
+### #is_/same_as :: [Christianity.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity.secret.md)
 

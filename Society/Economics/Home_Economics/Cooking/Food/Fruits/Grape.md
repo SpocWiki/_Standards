@@ -70,17 +70,17 @@ water_footprint:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Grape](Grape.md)) 
+### #is_/same_as :: [Grape](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.md) 
 
-### #is_/same_as :: [Grape.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Grape.public.md) 
+### #is_/same_as :: [Grape.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.public.md) 
 
-### #is_/same_as :: [Grape.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Grape.internal.md) 
+### #is_/same_as :: [Grape.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.internal.md) 
 
-### #is_/same_as :: [Grape.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Grape.protect.md) 
+### #is_/same_as :: [Grape.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.protect.md) 
 
-### #is_/same_as :: [Grape.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Grape.private.md) 
+### #is_/same_as :: [Grape.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.private.md) 
 
-### #is_/same_as :: [Grape.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Grape.personal.md) 
+### #is_/same_as :: [Grape.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.personal.md) 
 
-### #is_/same_as :: [Grape.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Grape.secret.md)
+### #is_/same_as :: [Grape.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Grape.secret.md)
 

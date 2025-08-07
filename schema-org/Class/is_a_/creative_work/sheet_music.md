@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sheet-music
 - sheet_music

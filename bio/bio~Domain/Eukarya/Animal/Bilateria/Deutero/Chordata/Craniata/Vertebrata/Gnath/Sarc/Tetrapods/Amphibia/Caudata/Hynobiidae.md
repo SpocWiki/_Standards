@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hynobiidae
 ---
 
@@ -218,17 +218,17 @@ Copyright ::            © 1996 J. Robert Macey
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hynobiidae](Hynobiidae.md)) 
+### #is_/same_as :: [Hynobiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.md) 
 
-### #is_/same_as :: [Hynobiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Hynobiidae.public.md) 
+### #is_/same_as :: [Hynobiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.public.md) 
 
-### #is_/same_as :: [Hynobiidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Hynobiidae.internal.md) 
+### #is_/same_as :: [Hynobiidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.internal.md) 
 
-### #is_/same_as :: [Hynobiidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Hynobiidae.protect.md) 
+### #is_/same_as :: [Hynobiidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.protect.md) 
 
-### #is_/same_as :: [Hynobiidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Hynobiidae.private.md) 
+### #is_/same_as :: [Hynobiidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.private.md) 
 
-### #is_/same_as :: [Hynobiidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Hynobiidae.personal.md) 
+### #is_/same_as :: [Hynobiidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.personal.md) 
 
-### #is_/same_as :: [Hynobiidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Hynobiidae.secret.md)
+### #is_/same_as :: [Hynobiidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Hynobiidae.secret.md)
 

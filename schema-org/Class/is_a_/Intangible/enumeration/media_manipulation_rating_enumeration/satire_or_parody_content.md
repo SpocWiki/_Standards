@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - satire-or-parody-content
 - satire_or_parody_content

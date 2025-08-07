@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ancyromonas
 ---
 
@@ -98,7 +98,7 @@ European Journal of Protistology 32:423-448.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ancyromonas](Ancyromonas.md)) 
+### #is_/same_as :: [Ancyromonas](/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas.md) 
 
 ### #is_/same_as :: [Ancyromonas.public](/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas.public.md) 
 

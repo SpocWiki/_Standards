@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-posted
 - date_posted

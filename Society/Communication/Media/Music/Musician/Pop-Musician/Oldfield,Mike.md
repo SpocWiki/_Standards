@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michael Gordon Oldfield"
 - "Mike Oldfield"
@@ -46,5 +46,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mike%20Oldfield) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Oldfield,Mike](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.md) 
+
+### #is_/same_as :: [Oldfield,Mike.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.public.md) 
+
+### #is_/same_as :: [Oldfield,Mike.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.internal.md) 
+
+### #is_/same_as :: [Oldfield,Mike.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.protect.md) 
+
+### #is_/same_as :: [Oldfield,Mike.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.private.md) 
+
+### #is_/same_as :: [Oldfield,Mike.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.personal.md) 
+
+### #is_/same_as :: [Oldfield,Mike.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.secret.md)
 

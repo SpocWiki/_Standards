@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 31
 canonical_SMILES: '[Ga]'
 CAS_Registry_Number: 7440-55-3

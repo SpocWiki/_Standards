@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - region-drained
 - region_drained

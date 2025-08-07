@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - job-title
 - job_title

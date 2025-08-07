@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pteromyini
 ---
 
@@ -62,7 +62,7 @@ title: Pteromyini
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pteromyini](Pteromyini.md)) 
+### #is_/same_as :: [Pteromyini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Pteromyini.md) 
 
 ### #is_/same_as :: [Pteromyini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Pteromyini.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giacomo Puccini"
 - Puccini,Giacomo

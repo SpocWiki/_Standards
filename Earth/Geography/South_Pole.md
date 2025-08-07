@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "South Pole"
 Commons_category: "South Pole"

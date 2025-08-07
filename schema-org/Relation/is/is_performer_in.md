@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - performer-in
 - performer_in

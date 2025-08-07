@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bio-chem-interaction
 - bio_chem_interaction

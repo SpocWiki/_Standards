@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - creative-work
 - creative_work

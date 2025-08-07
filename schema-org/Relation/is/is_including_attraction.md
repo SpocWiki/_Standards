@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - includes-attraction
 - including_attraction

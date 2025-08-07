@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spirostreptida
 ---
 
@@ -59,7 +59,7 @@ title: Spirostreptida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spirostreptida](Spirostreptida.md)) 
+### #is_/same_as :: [Spirostreptida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.md) 
 
 ### #is_/same_as :: [Spirostreptida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.public.md) 
 

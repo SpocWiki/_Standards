@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Actinides
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification:
@@ -68,17 +68,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actinide-Group](/_Standards/chemic/chemic~Elements/Actinide-Group.md) 
+### #is_/same_as :: [Actinide-Group](/_Standards/Chemistry/Chemical_Element/Actinide-Group.md) 
 
-### #is_/same_as :: [Actinide-Group.public](/_public/chemic/chemic~Elements/Actinide-Group.public.md) 
+### #is_/same_as :: [Actinide-Group.public](/_public/Chemistry/Chemical_Element/Actinide-Group.public.md) 
 
-### #is_/same_as :: [Actinide-Group.internal](/_internal/chemic/chemic~Elements/Actinide-Group.internal.md) 
+### #is_/same_as :: [Actinide-Group.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group.internal.md) 
 
-### #is_/same_as :: [Actinide-Group.protect](/_protect/chemic/chemic~Elements/Actinide-Group.protect.md) 
+### #is_/same_as :: [Actinide-Group.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group.protect.md) 
 
-### #is_/same_as :: [Actinide-Group.private](/_private/chemic/chemic~Elements/Actinide-Group.private.md) 
+### #is_/same_as :: [Actinide-Group.private](/_private/Chemistry/Chemical_Element/Actinide-Group.private.md) 
 
-### #is_/same_as :: [Actinide-Group.personal](/_personal/chemic/chemic~Elements/Actinide-Group.personal.md) 
+### #is_/same_as :: [Actinide-Group.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group.personal.md) 
 
-### #is_/same_as :: [Actinide-Group.secret](/_secret/chemic/chemic~Elements/Actinide-Group.secret.md)
+### #is_/same_as :: [Actinide-Group.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group.secret.md)
 

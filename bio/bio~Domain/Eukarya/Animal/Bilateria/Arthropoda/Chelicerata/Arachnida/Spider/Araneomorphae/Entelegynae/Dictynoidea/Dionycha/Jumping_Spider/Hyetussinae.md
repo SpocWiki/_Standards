@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyetussinae
 ---
 
@@ -83,7 +83,7 @@ hyetussines.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hyetussinae](Hyetussinae.md)) 
+### #is_/same_as :: [Hyetussinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae.md) 
 
 ### #is_/same_as :: [Hyetussinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae.public.md) 
 

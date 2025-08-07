@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - BILD
 ---
@@ -21,4 +21,21 @@ aliases:
 > the British national newspaper[[../The_Sun]]], the second-highest-selling European tabloid newspaper.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bild) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bild-Zeitung](/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.md) 
+
+### #is_/same_as :: [Bild-Zeitung.public](/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.public.md) 
+
+### #is_/same_as :: [Bild-Zeitung.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.internal.md) 
+
+### #is_/same_as :: [Bild-Zeitung.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.protect.md) 
+
+### #is_/same_as :: [Bild-Zeitung.private](/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.private.md) 
+
+### #is_/same_as :: [Bild-Zeitung.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.personal.md) 
+
+### #is_/same_as :: [Bild-Zeitung.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.secret.md)
 

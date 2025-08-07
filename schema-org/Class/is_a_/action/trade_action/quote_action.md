@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - quote-action
 - quote_action

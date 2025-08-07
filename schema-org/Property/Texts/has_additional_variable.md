@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - additional-variable
 - additional_variable

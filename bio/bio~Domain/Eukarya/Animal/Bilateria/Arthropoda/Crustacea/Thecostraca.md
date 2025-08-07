@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Thecostraca
 - Barnacle
@@ -67,7 +67,7 @@ Barnacles and their relatives
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Thecostraca](Thecostraca.md)) 
+### #is_/same_as :: [Thecostraca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Thecostraca.md) 
 
 ### #is_/same_as :: [Thecostraca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Thecostraca.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 94
 canonical_SMILES: '[Pu]'
 CAS_Registry_Number: 7440-07-5
@@ -138,17 +138,17 @@ UNII: 53023GN24M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plutonium](/_Standards/chemic/chemic~Elements/Actinide-Group/Plutonium.md) 
+### #is_/same_as :: [Plutonium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Plutonium.md) 
 
-### #is_/same_as :: [Plutonium.public](/_public/chemic/chemic~Elements/Actinide-Group/Plutonium.public.md) 
+### #is_/same_as :: [Plutonium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Plutonium.public.md) 
 
-### #is_/same_as :: [Plutonium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Plutonium.internal.md) 
+### #is_/same_as :: [Plutonium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Plutonium.internal.md) 
 
-### #is_/same_as :: [Plutonium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Plutonium.protect.md) 
+### #is_/same_as :: [Plutonium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Plutonium.protect.md) 
 
-### #is_/same_as :: [Plutonium.private](/_private/chemic/chemic~Elements/Actinide-Group/Plutonium.private.md) 
+### #is_/same_as :: [Plutonium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Plutonium.private.md) 
 
-### #is_/same_as :: [Plutonium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Plutonium.personal.md) 
+### #is_/same_as :: [Plutonium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Plutonium.personal.md) 
 
-### #is_/same_as :: [Plutonium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Plutonium.secret.md)
+### #is_/same_as :: [Plutonium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Plutonium.secret.md)
 

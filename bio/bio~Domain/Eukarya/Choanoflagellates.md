@@ -1,4 +1,4 @@
-﻿---
+---
 title: Choanoflagellates
 ---
 
@@ -194,7 +194,7 @@ ancestor and the earliest events in metazoan evolution.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Choanoflagellates](Choanoflagellates.md)) 
+### #is_/same_as :: [Choanoflagellates](/_Standards/bio/bio~Domain/Eukarya/Choanoflagellates.md) 
 
 ### #is_/same_as :: [Choanoflagellates.public](/_public/bio/bio~Domain/Eukarya/Choanoflagellates.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Three Tenors"
 - "3 Tenors"
@@ -20,4 +20,20 @@ with a more American Repertoire  like [[I_did_it_my_way]], [[I_want_to_be_in_Ame
 
 Again 4 years later during the Soccer WM 1998 they appeared. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Three_Tenors](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.md) 
+
+### #is_/same_as :: [Three_Tenors.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.public.md) 
+
+### #is_/same_as :: [Three_Tenors.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.internal.md) 
+
+### #is_/same_as :: [Three_Tenors.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.protect.md) 
+
+### #is_/same_as :: [Three_Tenors.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.private.md) 
+
+### #is_/same_as :: [Three_Tenors.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.personal.md) 
+
+### #is_/same_as :: [Three_Tenors.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.secret.md)
 

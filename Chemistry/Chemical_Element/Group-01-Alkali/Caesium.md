@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 55
 canonical_SMILES: '[Cs]'
 CAS_Registry_Number: 7440-46-2
@@ -138,17 +138,17 @@ ZVG_number: 7550
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caesium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Caesium.md) 
+### #is_/same_as :: [Caesium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.md) 
 
-### #is_/same_as :: [Caesium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Caesium.public.md) 
+### #is_/same_as :: [Caesium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public.md) 
 
-### #is_/same_as :: [Caesium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Caesium.internal.md) 
+### #is_/same_as :: [Caesium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal.md) 
 
-### #is_/same_as :: [Caesium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Caesium.protect.md) 
+### #is_/same_as :: [Caesium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect.md) 
 
-### #is_/same_as :: [Caesium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Caesium.private.md) 
+### #is_/same_as :: [Caesium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private.md) 
 
-### #is_/same_as :: [Caesium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Caesium.personal.md) 
+### #is_/same_as :: [Caesium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal.md) 
 
-### #is_/same_as :: [Caesium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Caesium.secret.md)
+### #is_/same_as :: [Caesium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tennis-complex
 - tennis_complex

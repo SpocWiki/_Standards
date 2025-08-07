@@ -1,4 +1,4 @@
-﻿---
+---
 title: Thysanura
 ---
 
@@ -70,7 +70,7 @@ Copyright ::            © 2003 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Thysanura](Thysanura.md)) 
+### #is_/same_as :: [Thysanura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.md) 
 
 ### #is_/same_as :: [Thysanura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.public.md) 
 

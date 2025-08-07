@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - food-establishment
 - food_establishment

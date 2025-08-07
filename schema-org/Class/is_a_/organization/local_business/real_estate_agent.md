@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - real-estate-agent
 - real_estate_agent

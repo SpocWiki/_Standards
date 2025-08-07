@@ -20,3 +20,20 @@ has_id_wikidata: Q28319
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lepidoptera) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lepidoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.md) 
+
+### #is_/same_as :: [Lepidoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.public.md) 
+
+### #is_/same_as :: [Lepidoptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.internal.md) 
+
+### #is_/same_as :: [Lepidoptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.protect.md) 
+
+### #is_/same_as :: [Lepidoptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.private.md) 
+
+### #is_/same_as :: [Lepidoptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.personal.md) 
+
+### #is_/same_as :: [Lepidoptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Lepidoptera.secret.md)
+

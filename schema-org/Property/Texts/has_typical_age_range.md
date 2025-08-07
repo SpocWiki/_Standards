@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - typical-age-range
 - typical_age_range

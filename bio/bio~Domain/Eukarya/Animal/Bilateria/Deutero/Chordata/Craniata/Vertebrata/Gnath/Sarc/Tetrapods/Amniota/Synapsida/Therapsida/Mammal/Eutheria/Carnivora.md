@@ -210,7 +210,7 @@ Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.co
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Carnivora](Carnivora.md)) 
+### #is_/same_as :: [Carnivora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora.md) 
 
 ### #is_/same_as :: [Carnivora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Carnivora.public.md) 
 

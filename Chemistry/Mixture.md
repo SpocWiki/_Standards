@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Chemical mixtures"
 has_id_wikidata: Q169336
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~pure_substance,578779]]'
@@ -36,17 +36,17 @@ subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mixture](/_Standards/chemic/Mixture.md) 
+### #is_/same_as :: [Mixture](/_Standards/Chemistry/Mixture.md) 
 
-### #is_/same_as :: [Mixture.public](/_public/chemic/Mixture.public.md) 
+### #is_/same_as :: [Mixture.public](/_public/Chemistry/Mixture.public.md) 
 
-### #is_/same_as :: [Mixture.internal](/_internal/chemic/Mixture.internal.md) 
+### #is_/same_as :: [Mixture.internal](/_internal/Chemistry/Mixture.internal.md) 
 
-### #is_/same_as :: [Mixture.protect](/_protect/chemic/Mixture.protect.md) 
+### #is_/same_as :: [Mixture.protect](/_protect/Chemistry/Mixture.protect.md) 
 
-### #is_/same_as :: [Mixture.private](/_private/chemic/Mixture.private.md) 
+### #is_/same_as :: [Mixture.private](/_private/Chemistry/Mixture.private.md) 
 
-### #is_/same_as :: [Mixture.personal](/_personal/chemic/Mixture.personal.md) 
+### #is_/same_as :: [Mixture.personal](/_personal/Chemistry/Mixture.personal.md) 
 
-### #is_/same_as :: [Mixture.secret](/_secret/chemic/Mixture.secret.md)
+### #is_/same_as :: [Mixture.secret](/_secret/Chemistry/Mixture.secret.md)
 

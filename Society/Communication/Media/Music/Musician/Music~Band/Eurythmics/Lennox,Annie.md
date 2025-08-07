@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Annie Lennox"
 - "Ann Lennox"
@@ -69,4 +69,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Annie%20Lennox) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lennox,Annie](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.md) 
+
+### #is_/same_as :: [Lennox,Annie.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.public.md) 
+
+### #is_/same_as :: [Lennox,Annie.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.internal.md) 
+
+### #is_/same_as :: [Lennox,Annie.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.protect.md) 
+
+### #is_/same_as :: [Lennox,Annie.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.private.md) 
+
+### #is_/same_as :: [Lennox,Annie.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.personal.md) 
+
+### #is_/same_as :: [Lennox,Annie.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.secret.md)
 

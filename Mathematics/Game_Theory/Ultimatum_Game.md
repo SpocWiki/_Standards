@@ -50,3 +50,20 @@ Thus, there are two sets of Nash equilibria for this game:
 
 In a non-repeated or finite-horizon ultimatum game, the first Nash equilibria (unfair offer, always accept) are the only that satisfy a stricter condition called [subgame perfection equilibrium](https://en.wikipedia.org/wiki/Subgame_perfect_equilibrium "Subgame perfect equilibrium") (SPE). The game can be viewed as having two subgames that repeat themselves: the subgame where the proposer makes a fair offer, and the subgame where the proposer makes an unfair offer. An SPE occurs when there are Nash Equilibria in every subgame, that players have no incentive to deviate from.[[2]](https://en.wikipedia.org/wiki/Ultimatum_game#cite_note-2) Using [backward induction](https://en.wikipedia.org/wiki/Backward_induction "Backward induction"), we see that in the final stage, the responder will always accept any offer. Therefore, in previous stages, the proposer will always offer the minimum amount. Thus, the responder's threat to reject unfair offers in the second Nash equilibrium is not credible in a finite setting.
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ultimatum_Game](/_Standards/Mathematics/Game_Theory/Ultimatum_Game.md) 
+
+### #is_/same_as :: [Ultimatum_Game.public](/_public/Mathematics/Game_Theory/Ultimatum_Game.public.md) 
+
+### #is_/same_as :: [Ultimatum_Game.internal](/_internal/Mathematics/Game_Theory/Ultimatum_Game.internal.md) 
+
+### #is_/same_as :: [Ultimatum_Game.protect](/_protect/Mathematics/Game_Theory/Ultimatum_Game.protect.md) 
+
+### #is_/same_as :: [Ultimatum_Game.private](/_private/Mathematics/Game_Theory/Ultimatum_Game.private.md) 
+
+### #is_/same_as :: [Ultimatum_Game.personal](/_personal/Mathematics/Game_Theory/Ultimatum_Game.personal.md) 
+
+### #is_/same_as :: [Ultimatum_Game.secret](/_secret/Mathematics/Game_Theory/Ultimatum_Game.secret.md)
+

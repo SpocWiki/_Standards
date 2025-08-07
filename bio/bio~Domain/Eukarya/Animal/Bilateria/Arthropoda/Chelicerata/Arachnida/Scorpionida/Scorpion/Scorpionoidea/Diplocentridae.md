@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diplocentridae
 ---
 
@@ -67,7 +67,7 @@ Copyright ::   © 1985 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Diplocentridae](Diplocentridae.md)) 
+### #is_/same_as :: [Diplocentridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.md) 
 
 ### #is_/same_as :: [Diplocentridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.public.md) 
 

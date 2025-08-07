@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Puppis|Zodiac~Puppis]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Puppis.public|Zodiac~Puppis.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Puppis.internal|Zodiac~Puppis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Puppis.protect|Zodiac~Puppis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Puppis.private|Zodiac~Puppis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Puppis.personal|Zodiac~Puppis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Puppis.secret|Zodiac~Puppis.secret]] 
+
+### #is_/same_as :: [Zodiac~Puppis](/_Standards/Astronomy/Star~Constellation/Zodiac~Puppis.md) 
+
+### #is_/same_as :: [Zodiac~Puppis.public](/_public/Astronomy/Star~Constellation/Zodiac~Puppis.public.md) 
+
+### #is_/same_as :: [Zodiac~Puppis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Puppis.internal.md) 
+
+### #is_/same_as :: [Zodiac~Puppis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Puppis.protect.md) 
+
+### #is_/same_as :: [Zodiac~Puppis.private](/_private/Astronomy/Star~Constellation/Zodiac~Puppis.private.md) 
+
+### #is_/same_as :: [Zodiac~Puppis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Puppis.personal.md) 
+
+### #is_/same_as :: [Zodiac~Puppis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Puppis.secret.md)
+

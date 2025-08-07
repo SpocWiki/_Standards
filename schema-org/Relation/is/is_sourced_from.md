@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sourced-from
 - sourced_from

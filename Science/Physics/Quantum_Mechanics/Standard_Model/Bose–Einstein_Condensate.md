@@ -244,4 +244,19 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "BoseEinsteinCondensate"]
 > [Wikipedia](https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein%20condensate) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bose–Einstein_Condensate](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.md) 
+
+### #is_/same_as :: [Bose–Einstein_Condensate.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.public.md) 
+
+### #is_/same_as :: [Bose–Einstein_Condensate.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.internal.md) 
+
+### #is_/same_as :: [Bose–Einstein_Condensate.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.protect.md) 
+
+### #is_/same_as :: [Bose–Einstein_Condensate.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.private.md) 
+
+### #is_/same_as :: [Bose–Einstein_Condensate.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.personal.md) 
+
+### #is_/same_as :: [Bose–Einstein_Condensate.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.secret.md)
 

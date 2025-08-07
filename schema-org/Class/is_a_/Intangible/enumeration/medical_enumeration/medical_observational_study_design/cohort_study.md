@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cohort-study
 - cohort_study

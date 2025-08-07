@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - monthly_minimum_repayment_amount
 - monthly-minimum-repayment-amount

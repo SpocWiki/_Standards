@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doktor_Nauk_in_Political_Science,12101787]]'
 affiliation:
 - '[[_Standards/WikiData/WD~Spartacus_League,156607]]'

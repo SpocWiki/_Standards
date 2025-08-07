@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Henry William Dalgliesh Cavill"
 - "Henry Cavill"
@@ -23,4 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Cavill) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cavill,Henry](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.md) 
+
+### #is_/same_as :: [Cavill,Henry.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.public.md) 
+
+### #is_/same_as :: [Cavill,Henry.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.internal.md) 
+
+### #is_/same_as :: [Cavill,Henry.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.protect.md) 
+
+### #is_/same_as :: [Cavill,Henry.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.private.md) 
+
+### #is_/same_as :: [Cavill,Henry.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.personal.md) 
+
+### #is_/same_as :: [Cavill,Henry.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Cavill,Henry.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chaerilus
 ---
 
@@ -22,7 +22,7 @@ title: Chaerilus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chaerilidae](Chaerilidae.md)) 
+### #is_/same_as :: [Chaerilidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Chaerilidae.md) 
 
 ### #is_/same_as :: [Chaerilidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Chaerilidae.public.md) 
 

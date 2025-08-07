@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suggested_measurement
 - suggested-measurement

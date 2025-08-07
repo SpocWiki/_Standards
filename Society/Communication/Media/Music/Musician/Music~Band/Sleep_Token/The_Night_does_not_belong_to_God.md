@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - The_Night_does_not_belong_to_God
 - 
@@ -61,4 +61,21 @@ The night comes down like heaven (turn black in the low light)
 The night comes down like heaven (in turning divine)  
 The night comes down like heaven (we tangle endlessly)
 ```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.md) 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.public.md) 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.internal.md) 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.protect.md) 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.private.md) 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.personal.md) 
+
+### #is_/same_as :: [The_Night_does_not_belong_to_God.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/The_Night_does_not_belong_to_God.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - stage_as_number
 - stage-as-number

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Irving,John
 - "John Winslow Irving"
@@ -30,4 +30,21 @@ aliases:
 > have been set in and around Phillips Exeter Academy in the town of Exeter, New Hampshire.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Irving)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Irving,John](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.md) 
+
+### #is_/same_as :: [Irving,John.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.public.md) 
+
+### #is_/same_as :: [Irving,John.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.internal.md) 
+
+### #is_/same_as :: [Irving,John.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.protect.md) 
+
+### #is_/same_as :: [Irving,John.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.private.md) 
+
+### #is_/same_as :: [Irving,John.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.personal.md) 
+
+### #is_/same_as :: [Irving,John.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Irving,John.secret.md)
 

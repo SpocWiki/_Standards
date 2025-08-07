@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-video-object
 - music_video_object

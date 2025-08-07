@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~cobalt_poisoning,5138720]]'
 atomic_number: 27
 boiling_point:
@@ -156,17 +156,17 @@ ZVG_number: 7270
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.md) 
+### #is_/same_as :: [Cobalt](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.md) 
 
-### #is_/same_as :: [Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.public.md) 
+### #is_/same_as :: [Cobalt.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.public.md) 
 
-### #is_/same_as :: [Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.internal.md) 
+### #is_/same_as :: [Cobalt.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.internal.md) 
 
-### #is_/same_as :: [Cobalt.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.protect.md) 
+### #is_/same_as :: [Cobalt.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.protect.md) 
 
-### #is_/same_as :: [Cobalt.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.private.md) 
+### #is_/same_as :: [Cobalt.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.private.md) 
 
-### #is_/same_as :: [Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.personal.md) 
+### #is_/same_as :: [Cobalt.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.personal.md) 
 
-### #is_/same_as :: [Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.secret.md)
+### #is_/same_as :: [Cobalt.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.secret.md)
 

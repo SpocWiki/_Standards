@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - by-month-no
 - by_month_no

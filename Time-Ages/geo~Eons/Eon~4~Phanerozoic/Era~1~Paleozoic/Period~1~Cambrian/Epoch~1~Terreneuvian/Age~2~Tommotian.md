@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cambrian Stage 2"
 ---

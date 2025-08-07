@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 21
 boiling_point: 2836.85
 canonical_SMILES: '[Sc]'
@@ -120,17 +120,17 @@ ZVG_number: 7210
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scandium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Scandium.md) 
+### #is_/same_as :: [Scandium](/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.md) 
 
-### #is_/same_as :: [Scandium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Scandium.public.md) 
+### #is_/same_as :: [Scandium.public](/_public/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.public.md) 
 
-### #is_/same_as :: [Scandium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Scandium.internal.md) 
+### #is_/same_as :: [Scandium.internal](/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.internal.md) 
 
-### #is_/same_as :: [Scandium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Scandium.protect.md) 
+### #is_/same_as :: [Scandium.protect](/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.protect.md) 
 
-### #is_/same_as :: [Scandium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Scandium.private.md) 
+### #is_/same_as :: [Scandium.private](/_private/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.private.md) 
 
-### #is_/same_as :: [Scandium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Scandium.personal.md) 
+### #is_/same_as :: [Scandium.personal](/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.personal.md) 
 
-### #is_/same_as :: [Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Scandium.secret.md)
+### #is_/same_as :: [Scandium.secret](/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.secret.md)
 

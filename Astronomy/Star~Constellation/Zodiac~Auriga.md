@@ -36,11 +36,20 @@ type: Zodiac
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Auriga) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Auriga|Zodiac~Auriga]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Auriga.public|Zodiac~Auriga.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Auriga.internal|Zodiac~Auriga.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Auriga.protect|Zodiac~Auriga.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Auriga.private|Zodiac~Auriga.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Auriga.personal|Zodiac~Auriga.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Auriga.secret|Zodiac~Auriga.secret]] 
+
+### #is_/same_as :: [Zodiac~Auriga](/_Standards/Astronomy/Star~Constellation/Zodiac~Auriga.md) 
+
+### #is_/same_as :: [Zodiac~Auriga.public](/_public/Astronomy/Star~Constellation/Zodiac~Auriga.public.md) 
+
+### #is_/same_as :: [Zodiac~Auriga.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Auriga.internal.md) 
+
+### #is_/same_as :: [Zodiac~Auriga.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Auriga.protect.md) 
+
+### #is_/same_as :: [Zodiac~Auriga.private](/_private/Astronomy/Star~Constellation/Zodiac~Auriga.private.md) 
+
+### #is_/same_as :: [Zodiac~Auriga.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Auriga.personal.md) 
+
+### #is_/same_as :: [Zodiac~Auriga.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Auriga.secret.md)
+

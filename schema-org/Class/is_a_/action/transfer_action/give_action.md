@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - give-action
 - give_action

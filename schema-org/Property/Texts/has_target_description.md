@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - target-description
 - target_description

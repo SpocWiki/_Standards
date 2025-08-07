@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - travel-bans
 - travel_bans

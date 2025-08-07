@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Australiteuthis aldrichi"
 ---
 
@@ -129,7 +129,7 @@ pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Australiteuthidae](Australiteuthidae.md)) 
+### #is_/same_as :: [Australiteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.md) 
 
 ### #is_/same_as :: [Australiteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.public.md) 
 

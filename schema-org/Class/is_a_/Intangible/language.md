@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - language
 - language

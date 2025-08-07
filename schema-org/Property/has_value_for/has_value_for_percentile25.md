@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - percentile25
 - percentile25

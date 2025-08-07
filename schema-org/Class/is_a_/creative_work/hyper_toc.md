@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hyper-toc
 - hyper_toc

@@ -222,3 +222,19 @@ date_of_birth: 1903-04-25T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Andrey%20Kolmogorov) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Andrey_Kolmogorov](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.md) 
+
+### #is_/same_as :: [Andrey_Kolmogorov.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.public.md) 
+
+### #is_/same_as :: [Andrey_Kolmogorov.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.internal.md) 
+
+### #is_/same_as :: [Andrey_Kolmogorov.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.protect.md) 
+
+### #is_/same_as :: [Andrey_Kolmogorov.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.private.md) 
+
+### #is_/same_as :: [Andrey_Kolmogorov.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.personal.md) 
+
+### #is_/same_as :: [Andrey_Kolmogorov.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Andrey_Kolmogorov.secret.md)
+

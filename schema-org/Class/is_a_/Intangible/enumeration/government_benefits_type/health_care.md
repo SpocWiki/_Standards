@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-care
 - health_care

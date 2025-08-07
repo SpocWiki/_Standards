@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - type-and-quantity-node
 - type_and_quantity_node

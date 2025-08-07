@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - monoisotopic_molecular_weight
 - monoisotopic-molecular-weight

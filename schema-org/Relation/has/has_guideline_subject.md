@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - guideline-subject
 - guideline_subject

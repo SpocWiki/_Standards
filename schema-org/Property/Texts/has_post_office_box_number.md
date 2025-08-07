@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - post-office-box-number
 - post_office_box_number

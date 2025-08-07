@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-operator
 - service_operator

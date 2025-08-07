@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Latrodectus indistinctus"
 ---
 
@@ -75,7 +75,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[indistinctus](indistinctus.md)) 
+### #is_/same_as :: [indistinctus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.md) 
 
 ### #is_/same_as :: [indistinctus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/indistinctus.public.md) 
 

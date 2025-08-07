@@ -29,3 +29,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brass) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brass](/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass.md) 
+
+### #is_/same_as :: [Brass.public](/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public.md) 
+
+### #is_/same_as :: [Brass.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal.md) 
+
+### #is_/same_as :: [Brass.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect.md) 
+
+### #is_/same_as :: [Brass.private](/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private.md) 
+
+### #is_/same_as :: [Brass.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal.md) 
+
+### #is_/same_as :: [Brass.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret.md)
+

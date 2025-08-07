@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-adult-consideration
 - adult_consideration

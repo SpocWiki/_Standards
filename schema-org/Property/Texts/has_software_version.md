@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - software-version
 - software_version

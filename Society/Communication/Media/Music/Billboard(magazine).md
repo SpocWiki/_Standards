@@ -80,3 +80,19 @@ Bluesky_handle: billboard.com
 > [Wikipedia](https://en.wikipedia.org/wiki/Billboard%20(magazine)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Billboard(magazine)](/_Standards/Society/Communication/Media/Music/Billboard(magazine).md) 
+
+### #is_/same_as :: [Billboard(magazine).public](/_public/Society/Communication/Media/Music/Billboard(magazine).public.md) 
+
+### #is_/same_as :: [Billboard(magazine).internal](/_internal/Society/Communication/Media/Music/Billboard(magazine).internal.md) 
+
+### #is_/same_as :: [Billboard(magazine).protect](/_protect/Society/Communication/Media/Music/Billboard(magazine).protect.md) 
+
+### #is_/same_as :: [Billboard(magazine).private](/_private/Society/Communication/Media/Music/Billboard(magazine).private.md) 
+
+### #is_/same_as :: [Billboard(magazine).personal](/_personal/Society/Communication/Media/Music/Billboard(magazine).personal.md) 
+
+### #is_/same_as :: [Billboard(magazine).secret](/_secret/Society/Communication/Media/Music/Billboard(magazine).secret.md)
+

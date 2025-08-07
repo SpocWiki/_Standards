@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vadim Nikolayevich Krasikov"
 - "Wadim Nikolajewitsch Krassikow"

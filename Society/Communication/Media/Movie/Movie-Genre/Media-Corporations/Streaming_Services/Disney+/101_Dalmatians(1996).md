@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "101 Dalmatians (1996 film)"
 ---
@@ -16,4 +16,21 @@ aliases:
 > 101 Dalmatians was released on November 27, 1996, and grossed $320.7 million in theaters against a $67 million budget, making it the sixth-highest-grossing film of 1996, despite receiving mixed to unfavorable reviews. Close was nominated for the Golden Globe Award for Best Actress in Motion Picture Musical or Comedy, while the film was nominated for a BAFTA Award for Best Makeup and Hair.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/101%20Dalmatians%20(1996%20film)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [101_Dalmatians(1996)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).md) 
+
+### #is_/same_as :: [101_Dalmatians(1996).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).public.md) 
+
+### #is_/same_as :: [101_Dalmatians(1996).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).internal.md) 
+
+### #is_/same_as :: [101_Dalmatians(1996).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).protect.md) 
+
+### #is_/same_as :: [101_Dalmatians(1996).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).private.md) 
+
+### #is_/same_as :: [101_Dalmatians(1996).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).personal.md) 
+
+### #is_/same_as :: [101_Dalmatians(1996).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).secret.md)
 

@@ -10,5 +10,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Metropolis) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Metropolis](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.md) 
+
+### #is_/same_as :: [Metropolis.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.public.md) 
+
+### #is_/same_as :: [Metropolis.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.internal.md) 
+
+### #is_/same_as :: [Metropolis.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.protect.md) 
+
+### #is_/same_as :: [Metropolis.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.private.md) 
+
+### #is_/same_as :: [Metropolis.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.personal.md) 
+
+### #is_/same_as :: [Metropolis.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Metropolis.secret.md)
 

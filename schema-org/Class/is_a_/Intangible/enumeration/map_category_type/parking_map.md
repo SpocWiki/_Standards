@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parking-map
 - parking_map

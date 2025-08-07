@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - data-catalog
 - data_catalog

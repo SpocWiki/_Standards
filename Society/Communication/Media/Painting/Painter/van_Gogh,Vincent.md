@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vincent van Gogh"
 - "Vincent Willem van Gogh"

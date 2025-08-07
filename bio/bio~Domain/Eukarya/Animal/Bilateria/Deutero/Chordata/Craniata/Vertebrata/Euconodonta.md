@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euconodonta
 ---
 
@@ -125,7 +125,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Euconodonta](Euconodonta.md)) 
+### #is_/same_as :: [Euconodonta](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.md) 
 
 ### #is_/same_as :: [Euconodonta.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.public.md) 
 

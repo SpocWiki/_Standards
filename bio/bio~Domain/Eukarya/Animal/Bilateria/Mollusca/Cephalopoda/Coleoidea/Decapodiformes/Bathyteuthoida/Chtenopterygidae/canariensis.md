@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chtenopteryx canariensis"
 ---
 
@@ -93,7 +93,7 @@ cephalopods from the Atlantic Ocean. Mitt. Hamb. Zool. Mus. Inst., 97:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[canariensis](canariensis.md)) 
+### #is_/same_as :: [canariensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/canariensis.md) 
 
 ### #is_/same_as :: [canariensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae/canariensis.public.md) 
 

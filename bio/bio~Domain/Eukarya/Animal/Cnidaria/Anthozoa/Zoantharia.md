@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zoantharia
 ---
 
@@ -853,7 +853,7 @@ pages.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Zoantharia](Zoantharia.md)) 
+### #is_/same_as :: [Zoantharia](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.md) 
 
 ### #is_/same_as :: [Zoantharia.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia.public.md) 
 

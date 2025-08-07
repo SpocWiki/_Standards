@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Spratly_Islands
 confidential: public

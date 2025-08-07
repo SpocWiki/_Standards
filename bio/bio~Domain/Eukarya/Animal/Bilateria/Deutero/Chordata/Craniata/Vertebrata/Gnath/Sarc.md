@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sarcopterygii
 - Sarc
@@ -326,7 +326,7 @@ of tetrapods and lungfish. Nature 418:767-770.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sarc](Sarc.md)) 
+### #is_/same_as :: [Sarc](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.md) 
 
 ### #is_/same_as :: [Sarc.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.public.md) 
 

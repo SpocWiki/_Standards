@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - causes-health-aspect
 - causes_health_aspect

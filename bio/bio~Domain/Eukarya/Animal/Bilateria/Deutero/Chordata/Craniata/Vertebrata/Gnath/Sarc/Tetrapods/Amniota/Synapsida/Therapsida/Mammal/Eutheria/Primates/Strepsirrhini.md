@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Strepsirrhini
 - Strepsirhini
@@ -106,7 +106,7 @@ Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianima
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Strepsirrhini](Strepsirrhini.md)) 
+### #is_/same_as :: [Strepsirrhini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini.md) 
 
 ### #is_/same_as :: [Strepsirrhini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini.public.md) 
 

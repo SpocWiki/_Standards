@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Greenlandian
 coordinate_location: "Point(-42.32 75.1)"
 end_time: -6236-01-01

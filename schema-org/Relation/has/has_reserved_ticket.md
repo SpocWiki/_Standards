@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reserved-ticket
 - reserved_ticket

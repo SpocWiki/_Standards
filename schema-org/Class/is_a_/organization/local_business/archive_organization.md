@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - archive-organization
 - archive_organization

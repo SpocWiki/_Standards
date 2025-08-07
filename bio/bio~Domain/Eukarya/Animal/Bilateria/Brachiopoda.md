@@ -1,4 +1,4 @@
-﻿---
+---
 title: Brachiopoda
 ---
 
@@ -97,7 +97,7 @@ Copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemaki
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Brachiopoda](Brachiopoda.md)) 
+### #is_/same_as :: [Brachiopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.md) 
 
 ### #is_/same_as :: [Brachiopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.public.md) 
 

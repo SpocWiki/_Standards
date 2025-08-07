@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-and-beauty-business
 - health_and_beauty_business

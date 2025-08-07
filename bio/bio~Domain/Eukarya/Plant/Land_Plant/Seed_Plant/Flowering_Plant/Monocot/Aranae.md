@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - aroid
 - Arana
@@ -78,17 +78,17 @@ close relationships to the alismatids is supported in most analyses.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Aranae](Aranae.md)) 
+### #is_/same_as :: [Aranae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.md) 
 
-### #is_/same_as :: [Aranae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.public.md) 
+### #is_/same_as :: [Aranae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.public.md) 
 
-### #is_/same_as :: [Aranae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.internal.md) 
+### #is_/same_as :: [Aranae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.internal.md) 
 
-### #is_/same_as :: [Aranae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.protect.md) 
+### #is_/same_as :: [Aranae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.protect.md) 
 
-### #is_/same_as :: [Aranae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.private.md) 
+### #is_/same_as :: [Aranae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.private.md) 
 
-### #is_/same_as :: [Aranae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.personal.md) 
+### #is_/same_as :: [Aranae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.personal.md) 
 
-### #is_/same_as :: [Aranae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.secret.md)
+### #is_/same_as :: [Aranae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Aranae.secret.md)
 

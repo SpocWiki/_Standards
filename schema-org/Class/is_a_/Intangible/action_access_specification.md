@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - action-access-specification
 - action_access_specification

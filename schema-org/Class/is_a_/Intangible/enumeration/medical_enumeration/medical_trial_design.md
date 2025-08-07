@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-trial-design
 - medical_trial_design

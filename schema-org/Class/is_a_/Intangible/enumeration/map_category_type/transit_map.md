@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - transit-map
 - transit_map

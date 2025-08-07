@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comic-issue
 - comic_issue

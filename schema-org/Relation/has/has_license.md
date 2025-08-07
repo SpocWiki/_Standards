@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - license
 - has_license

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis veranyi"
 ---
 
@@ -221,7 +221,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[veranyi](veranyi.md)) 
+### #is_/same_as :: [veranyi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.md) 
 
 ### #is_/same_as :: [veranyi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/veranyi.public.md) 
 

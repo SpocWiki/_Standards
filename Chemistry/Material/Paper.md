@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: M13
 Commons_category: Paper
 Commons_gallery: Paper
@@ -78,17 +78,17 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Paper::495t6\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paper](/_Standards/chemic/Material/Paper.md) 
+### #is_/same_as :: [Paper](/_Standards/Chemistry/Material/Paper.md) 
 
-### #is_/same_as :: [Paper.public](/_public/chemic/Material/Paper.public.md) 
+### #is_/same_as :: [Paper.public](/_public/Chemistry/Material/Paper.public.md) 
 
-### #is_/same_as :: [Paper.internal](/_internal/chemic/Material/Paper.internal.md) 
+### #is_/same_as :: [Paper.internal](/_internal/Chemistry/Material/Paper.internal.md) 
 
-### #is_/same_as :: [Paper.protect](/_protect/chemic/Material/Paper.protect.md) 
+### #is_/same_as :: [Paper.protect](/_protect/Chemistry/Material/Paper.protect.md) 
 
-### #is_/same_as :: [Paper.private](/_private/chemic/Material/Paper.private.md) 
+### #is_/same_as :: [Paper.private](/_private/Chemistry/Material/Paper.private.md) 
 
-### #is_/same_as :: [Paper.personal](/_personal/chemic/Material/Paper.personal.md) 
+### #is_/same_as :: [Paper.personal](/_personal/Chemistry/Material/Paper.personal.md) 
 
-### #is_/same_as :: [Paper.secret](/_secret/chemic/Material/Paper.secret.md)
+### #is_/same_as :: [Paper.secret](/_secret/Chemistry/Material/Paper.secret.md)
 

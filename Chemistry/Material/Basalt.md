@@ -51,3 +51,20 @@ Krugosvet_article: Earth_sciences/geologiya/BAZALT.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Basalt) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Basalt](/_Standards/Chemistry/Material/Basalt.md) 
+
+### #is_/same_as :: [Basalt.public](/_public/Chemistry/Material/Basalt.public.md) 
+
+### #is_/same_as :: [Basalt.internal](/_internal/Chemistry/Material/Basalt.internal.md) 
+
+### #is_/same_as :: [Basalt.protect](/_protect/Chemistry/Material/Basalt.protect.md) 
+
+### #is_/same_as :: [Basalt.private](/_private/Chemistry/Material/Basalt.private.md) 
+
+### #is_/same_as :: [Basalt.personal](/_personal/Chemistry/Material/Basalt.personal.md) 
+
+### #is_/same_as :: [Basalt.secret](/_secret/Chemistry/Material/Basalt.secret.md)
+

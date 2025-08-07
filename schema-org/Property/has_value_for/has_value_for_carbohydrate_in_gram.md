@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - carbohydrate_in_gram
 - carbohydrate-content

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drink-action
 - drink_action

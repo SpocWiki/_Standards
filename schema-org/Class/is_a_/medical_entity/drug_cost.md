@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-cost
 - drug_cost

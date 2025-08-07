@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reservation-id
 - id_reservation

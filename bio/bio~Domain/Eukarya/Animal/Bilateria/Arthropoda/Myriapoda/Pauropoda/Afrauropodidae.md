@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Afrauropus occiduus"
 ---
 
@@ -34,7 +34,7 @@ title: "Afrauropus occiduus"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Afrauropodidae](Afrauropodidae.md)) 
+### #is_/same_as :: [Afrauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.md) 
 
 ### #is_/same_as :: [Afrauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.public.md) 
 

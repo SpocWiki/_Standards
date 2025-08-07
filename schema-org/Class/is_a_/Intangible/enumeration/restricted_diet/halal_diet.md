@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - halal-diet
 - halal_diet

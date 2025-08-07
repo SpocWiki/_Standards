@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sold-out
 - sold_out

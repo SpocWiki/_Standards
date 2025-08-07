@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-availability-type
 - game_availability_type

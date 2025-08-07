@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rsvp-response-type
 - rsvp_response_type

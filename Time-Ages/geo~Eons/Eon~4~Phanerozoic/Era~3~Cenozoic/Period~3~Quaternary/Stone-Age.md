@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stone Age"
 Commons_category: "Stone Age"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - visual-arts-event
 - visual_arts_event

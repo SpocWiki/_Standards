@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - access-mode-sufficient
 - access_mode_sufficient

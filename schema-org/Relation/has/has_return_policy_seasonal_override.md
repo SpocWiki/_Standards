@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-policy-seasonal-override
 - return_policy_seasonal_override

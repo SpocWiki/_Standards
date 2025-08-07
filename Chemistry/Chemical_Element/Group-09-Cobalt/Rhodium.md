@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~rhodium_exposure,21175091]]'
 atomic_number: 45
 boiling_point: 6741
@@ -138,17 +138,17 @@ ZVG_number: 7450
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhodium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.md) 
+### #is_/same_as :: [Rhodium](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.md) 
 
-### #is_/same_as :: [Rhodium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.public.md) 
+### #is_/same_as :: [Rhodium.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.public.md) 
 
-### #is_/same_as :: [Rhodium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.internal.md) 
+### #is_/same_as :: [Rhodium.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.internal.md) 
 
-### #is_/same_as :: [Rhodium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.protect.md) 
+### #is_/same_as :: [Rhodium.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.protect.md) 
 
-### #is_/same_as :: [Rhodium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.private.md) 
+### #is_/same_as :: [Rhodium.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.private.md) 
 
-### #is_/same_as :: [Rhodium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.personal.md) 
+### #is_/same_as :: [Rhodium.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.personal.md) 
 
-### #is_/same_as :: [Rhodium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.secret.md)
+### #is_/same_as :: [Rhodium.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.secret.md)
 

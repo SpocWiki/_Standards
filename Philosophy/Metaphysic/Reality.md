@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Reality
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 different_from:
@@ -32,17 +32,17 @@ studied_in:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reality](Reality.md) 
+### #is_/same_as :: [Reality](/_Standards/Philosophy/Metaphysic/Reality.md) 
 
-### #is_/same_as :: [Reality.public](/_public/Philosophy/Metaphysics/Reality.public.md) 
+### #is_/same_as :: [Reality.public](/_public/Philosophy/Metaphysic/Reality.public.md) 
 
-### #is_/same_as :: [Reality.internal](/_internal/Philosophy/Metaphysics/Reality.internal.md) 
+### #is_/same_as :: [Reality.internal](/_internal/Philosophy/Metaphysic/Reality.internal.md) 
 
-### #is_/same_as :: [Reality.protect](/_protect/Philosophy/Metaphysics/Reality.protect.md) 
+### #is_/same_as :: [Reality.protect](/_protect/Philosophy/Metaphysic/Reality.protect.md) 
 
-### #is_/same_as :: [Reality.private](/_private/Philosophy/Metaphysics/Reality.private.md) 
+### #is_/same_as :: [Reality.private](/_private/Philosophy/Metaphysic/Reality.private.md) 
 
-### #is_/same_as :: [Reality.personal](/_personal/Philosophy/Metaphysics/Reality.personal.md) 
+### #is_/same_as :: [Reality.personal](/_personal/Philosophy/Metaphysic/Reality.personal.md) 
 
-### #is_/same_as :: [Reality.secret](/_secret/Philosophy/Metaphysics/Reality.secret.md)
+### #is_/same_as :: [Reality.secret](/_secret/Philosophy/Metaphysic/Reality.secret.md)
 

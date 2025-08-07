@@ -33,3 +33,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astrobiology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astrobiology](/_Standards/Astronomy/Astrobiology.md) 
+
+### #is_/same_as :: [Astrobiology.public](/_public/Astronomy/Astrobiology.public.md) 
+
+### #is_/same_as :: [Astrobiology.internal](/_internal/Astronomy/Astrobiology.internal.md) 
+
+### #is_/same_as :: [Astrobiology.protect](/_protect/Astronomy/Astrobiology.protect.md) 
+
+### #is_/same_as :: [Astrobiology.private](/_private/Astronomy/Astrobiology.private.md) 
+
+### #is_/same_as :: [Astrobiology.personal](/_personal/Astronomy/Astrobiology.personal.md) 
+
+### #is_/same_as :: [Astrobiology.secret](/_secret/Astronomy/Astrobiology.secret.md)
+

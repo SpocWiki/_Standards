@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - image-object
 - image_object

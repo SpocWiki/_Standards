@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cost-origin
 - cost_origin

@@ -1,4 +1,4 @@
-﻿---
+---
 ACM_Classification_Code_2012_: 10003260
 Commons_category: "World Wide Web"
 Commons_gallery: "World Wide Web"

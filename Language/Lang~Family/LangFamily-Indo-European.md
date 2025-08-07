@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Indo-European languages"
 has_id_wikidata: Q19860

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-copay-option
 - health_plan_copay_option

@@ -33,17 +33,17 @@ MeSH_tree_code: H01.181.216
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [chemic~Agriculture](/_Standards/chemic/chemic~Agriculture.md) 
+### #is_/same_as :: [chemic~Agriculture](/_Standards/Chemistry/chemic~Agriculture.md) 
 
-### #is_/same_as :: [chemic~Agriculture.public](/_public/chemic/chemic~Agriculture.public.md) 
+### #is_/same_as :: [chemic~Agriculture.public](/_public/Chemistry/chemic~Agriculture.public.md) 
 
-### #is_/same_as :: [chemic~Agriculture.internal](/_internal/chemic/chemic~Agriculture.internal.md) 
+### #is_/same_as :: [chemic~Agriculture.internal](/_internal/Chemistry/chemic~Agriculture.internal.md) 
 
-### #is_/same_as :: [chemic~Agriculture.protect](/_protect/chemic/chemic~Agriculture.protect.md) 
+### #is_/same_as :: [chemic~Agriculture.protect](/_protect/Chemistry/chemic~Agriculture.protect.md) 
 
-### #is_/same_as :: [chemic~Agriculture.private](/_private/chemic/chemic~Agriculture.private.md) 
+### #is_/same_as :: [chemic~Agriculture.private](/_private/Chemistry/chemic~Agriculture.private.md) 
 
-### #is_/same_as :: [chemic~Agriculture.personal](/_personal/chemic/chemic~Agriculture.personal.md) 
+### #is_/same_as :: [chemic~Agriculture.personal](/_personal/Chemistry/chemic~Agriculture.personal.md) 
 
-### #is_/same_as :: [chemic~Agriculture.secret](/_secret/chemic/chemic~Agriculture.secret.md)
+### #is_/same_as :: [chemic~Agriculture.secret](/_secret/Chemistry/chemic~Agriculture.secret.md)
 

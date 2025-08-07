@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eat-action
 - eat_action

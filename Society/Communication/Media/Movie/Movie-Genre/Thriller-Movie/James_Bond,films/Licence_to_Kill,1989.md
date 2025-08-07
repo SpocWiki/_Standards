@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Licence to Kill"
 ---
@@ -33,5 +33,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Licence%20to%20Kill)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Licence_to_Kill,1989](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.md) 
+
+### #is_/same_as :: [Licence_to_Kill,1989.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.public.md) 
+
+### #is_/same_as :: [Licence_to_Kill,1989.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.internal.md) 
+
+### #is_/same_as :: [Licence_to_Kill,1989.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.protect.md) 
+
+### #is_/same_as :: [Licence_to_Kill,1989.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.private.md) 
+
+### #is_/same_as :: [Licence_to_Kill,1989.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.personal.md) 
+
+### #is_/same_as :: [Licence_to_Kill,1989.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Licence_to_Kill,1989.secret.md)
 

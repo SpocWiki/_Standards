@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has_id_wikidata
 - "wikidata Entity-ID"

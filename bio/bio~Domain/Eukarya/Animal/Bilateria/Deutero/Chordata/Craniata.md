@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Craniate
 - Craniata
@@ -450,7 +450,7 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Craniata](Craniata.md)) 
+### #is_/same_as :: [Craniata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.md) 
 
 ### #is_/same_as :: [Craniata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata.public.md) 
 

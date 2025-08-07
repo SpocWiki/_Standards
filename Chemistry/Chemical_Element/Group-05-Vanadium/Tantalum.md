@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~tantalum_exposure,21175333]]'
 atomic_number: 73
 boiling_point: 9797
@@ -137,17 +137,17 @@ ZVG_number: 8440
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tantalum](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.md) 
+### #is_/same_as :: [Tantalum](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.md) 
 
-### #is_/same_as :: [Tantalum.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.public.md) 
+### #is_/same_as :: [Tantalum.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.public.md) 
 
-### #is_/same_as :: [Tantalum.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.internal.md) 
+### #is_/same_as :: [Tantalum.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.internal.md) 
 
-### #is_/same_as :: [Tantalum.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.protect.md) 
+### #is_/same_as :: [Tantalum.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.protect.md) 
 
-### #is_/same_as :: [Tantalum.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.private.md) 
+### #is_/same_as :: [Tantalum.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.private.md) 
 
-### #is_/same_as :: [Tantalum.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.personal.md) 
+### #is_/same_as :: [Tantalum.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.personal.md) 
 
-### #is_/same_as :: [Tantalum.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.secret.md)
+### #is_/same_as :: [Tantalum.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.secret.md)
 

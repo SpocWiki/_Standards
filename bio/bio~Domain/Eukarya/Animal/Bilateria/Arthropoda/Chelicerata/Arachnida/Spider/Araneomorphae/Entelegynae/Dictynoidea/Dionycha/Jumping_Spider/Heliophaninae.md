@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Heliophaninae
 - Chrysillini
@@ -109,7 +109,7 @@ Society 7: 101-106.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Heliophaninae](Heliophaninae.md)) 
+### #is_/same_as :: [Heliophaninae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Heliophaninae.md) 
 
 ### #is_/same_as :: [Heliophaninae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Heliophaninae.public.md) 
 

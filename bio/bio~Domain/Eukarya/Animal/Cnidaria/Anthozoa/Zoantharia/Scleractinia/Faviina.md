@@ -1,4 +1,4 @@
-﻿---
+---
 title: Faviina
 ---
 
@@ -54,7 +54,7 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Faviina](Faviina.md)) 
+### #is_/same_as :: [Faviina](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.md) 
 
 ### #is_/same_as :: [Faviina.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.public.md) 
 

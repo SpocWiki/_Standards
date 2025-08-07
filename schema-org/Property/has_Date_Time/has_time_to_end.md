@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - end-time
 - end_time

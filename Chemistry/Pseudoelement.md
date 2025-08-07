@@ -85,17 +85,17 @@ to obtain chemoselectivity in a subsequent chemical reaction, facilitating multi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudoelement](/_Standards/chemic/Pseudoelement.md) 
+### #is_/same_as :: [Pseudoelement](/_Standards/Chemistry/Pseudoelement.md) 
 
-### #is_/same_as :: [Pseudoelement.public](/_public/chemic/Pseudoelement.public.md) 
+### #is_/same_as :: [Pseudoelement.public](/_public/Chemistry/Pseudoelement.public.md) 
 
-### #is_/same_as :: [Pseudoelement.internal](/_internal/chemic/Pseudoelement.internal.md) 
+### #is_/same_as :: [Pseudoelement.internal](/_internal/Chemistry/Pseudoelement.internal.md) 
 
-### #is_/same_as :: [Pseudoelement.protect](/_protect/chemic/Pseudoelement.protect.md) 
+### #is_/same_as :: [Pseudoelement.protect](/_protect/Chemistry/Pseudoelement.protect.md) 
 
-### #is_/same_as :: [Pseudoelement.private](/_private/chemic/Pseudoelement.private.md) 
+### #is_/same_as :: [Pseudoelement.private](/_private/Chemistry/Pseudoelement.private.md) 
 
-### #is_/same_as :: [Pseudoelement.personal](/_personal/chemic/Pseudoelement.personal.md) 
+### #is_/same_as :: [Pseudoelement.personal](/_personal/Chemistry/Pseudoelement.personal.md) 
 
-### #is_/same_as :: [Pseudoelement.secret](/_secret/chemic/Pseudoelement.secret.md)
+### #is_/same_as :: [Pseudoelement.secret](/_secret/Chemistry/Pseudoelement.secret.md)
 

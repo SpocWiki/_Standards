@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - review-count
 - review_count

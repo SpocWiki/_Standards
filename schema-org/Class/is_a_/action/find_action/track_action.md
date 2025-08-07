@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - track-action
 - track_action

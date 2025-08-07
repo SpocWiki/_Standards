@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lorisiformes
 ---
 
@@ -70,7 +70,7 @@ Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lorisiformes](Lorisiformes.md)) 
+### #is_/same_as :: [Lorisiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lorisiformes.md) 
 
 ### #is_/same_as :: [Lorisiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lorisiformes.public.md) 
 

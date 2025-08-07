@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-identification-number
 - id_of_vehicle

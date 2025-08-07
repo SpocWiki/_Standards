@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Francisco José de Goya y Lucientes"
 - "Francisco Goya"

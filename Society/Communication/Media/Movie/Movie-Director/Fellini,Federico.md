@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Federico Fellini"
 award_received:

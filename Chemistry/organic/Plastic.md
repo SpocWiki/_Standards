@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2507
 Baidu_Tieba_name: 塑料
 Colon_Classification: F52
@@ -84,17 +84,17 @@ UMLS_CUI: C0032167
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plastic](/_Standards/chemic/organic/Plastic.md) 
+### #is_/same_as :: [Plastic](/_Standards/Chemistry/organic/Plastic.md) 
 
-### #is_/same_as :: [Plastic.public](/_public/chemic/organic/Plastic.public.md) 
+### #is_/same_as :: [Plastic.public](/_public/Chemistry/organic/Plastic.public.md) 
 
-### #is_/same_as :: [Plastic.internal](/_internal/chemic/organic/Plastic.internal.md) 
+### #is_/same_as :: [Plastic.internal](/_internal/Chemistry/organic/Plastic.internal.md) 
 
-### #is_/same_as :: [Plastic.protect](/_protect/chemic/organic/Plastic.protect.md) 
+### #is_/same_as :: [Plastic.protect](/_protect/Chemistry/organic/Plastic.protect.md) 
 
-### #is_/same_as :: [Plastic.private](/_private/chemic/organic/Plastic.private.md) 
+### #is_/same_as :: [Plastic.private](/_private/Chemistry/organic/Plastic.private.md) 
 
-### #is_/same_as :: [Plastic.personal](/_personal/chemic/organic/Plastic.personal.md) 
+### #is_/same_as :: [Plastic.personal](/_personal/Chemistry/organic/Plastic.personal.md) 
 
-### #is_/same_as :: [Plastic.secret](/_secret/chemic/organic/Plastic.secret.md)
+### #is_/same_as :: [Plastic.secret](/_secret/Chemistry/organic/Plastic.secret.md)
 

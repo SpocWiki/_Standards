@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - KKR
 - "Kohlberg Kravis Roberts"
@@ -24,4 +24,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kohlberg%20Kravis%20Roberts) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts)](/_Standards/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).md) 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).public](/_public/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).public.md) 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).internal](/_internal/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).internal.md) 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).protect](/_protect/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).protect.md) 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).private](/_private/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).private.md) 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).personal](/_personal/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).personal.md) 
+
+### #is_/same_as :: [KKR(Kohlberg_Kravis_Roberts).secret](/_secret/Society/Communication/Media/Journalism/KKR(Kohlberg_Kravis_Roberts).secret.md)
 

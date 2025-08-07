@@ -77,3 +77,20 @@ inception: -8000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Butter) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Butter](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.md) 
+
+### #is_/same_as :: [Butter.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.public.md) 
+
+### #is_/same_as :: [Butter.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.internal.md) 
+
+### #is_/same_as :: [Butter.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.protect.md) 
+
+### #is_/same_as :: [Butter.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.private.md) 
+
+### #is_/same_as :: [Butter.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.personal.md) 
+
+### #is_/same_as :: [Butter.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Butter.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - subtitle-language
 - subtitle_language

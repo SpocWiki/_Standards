@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Magnapinna talismani"
 ---
 
@@ -282,7 +282,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[talismani](talismani.md)) 
+### #is_/same_as :: [talismani](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/talismani.md) 
 
 ### #is_/same_as :: [talismani.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae/talismani.public.md) 
 

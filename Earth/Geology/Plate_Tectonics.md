@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Plate tectonics"
 has_id_wikidata: Q7950

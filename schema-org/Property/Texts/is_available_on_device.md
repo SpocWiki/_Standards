@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-on-device
 - available_on_device

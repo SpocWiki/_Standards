@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-therapy
 - related_therapy

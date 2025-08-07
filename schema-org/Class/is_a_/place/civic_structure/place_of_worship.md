@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - place-of-worship
 - place_of_worship

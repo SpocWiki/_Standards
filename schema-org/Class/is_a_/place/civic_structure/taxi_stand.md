@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - taxi-stand
 - taxi_stand

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Naval engineering"
 - "Marine Engineering"

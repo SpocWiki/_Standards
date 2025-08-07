@@ -83,3 +83,20 @@ NBN_System_Key: NHMSYS0000494983
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aloe) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aloe](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.md) 
+
+### #is_/same_as :: [Aloe.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.public.md) 
+
+### #is_/same_as :: [Aloe.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.internal.md) 
+
+### #is_/same_as :: [Aloe.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.protect.md) 
+
+### #is_/same_as :: [Aloe.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.private.md) 
+
+### #is_/same_as :: [Aloe.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.personal.md) 
+
+### #is_/same_as :: [Aloe.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asphodelaceae/Aloe.secret.md)
+

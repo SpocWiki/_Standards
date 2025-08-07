@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value-name
 - name_of_value

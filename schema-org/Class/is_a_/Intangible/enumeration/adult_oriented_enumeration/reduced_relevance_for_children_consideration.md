@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reduced-relevance-for-children-consideration
 - reduced_relevance_for_children_consideration

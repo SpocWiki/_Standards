@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ash_Sharqiyah
 ---

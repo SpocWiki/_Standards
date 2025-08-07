@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Musca|Zodiac~Musca]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Musca.public|Zodiac~Musca.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Musca.internal|Zodiac~Musca.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Musca.protect|Zodiac~Musca.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Musca.private|Zodiac~Musca.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Musca.personal|Zodiac~Musca.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Musca.secret|Zodiac~Musca.secret]] 
+
+### #is_/same_as :: [Zodiac~Musca](/_Standards/Astronomy/Star~Constellation/Zodiac~Musca.md) 
+
+### #is_/same_as :: [Zodiac~Musca.public](/_public/Astronomy/Star~Constellation/Zodiac~Musca.public.md) 
+
+### #is_/same_as :: [Zodiac~Musca.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Musca.internal.md) 
+
+### #is_/same_as :: [Zodiac~Musca.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Musca.protect.md) 
+
+### #is_/same_as :: [Zodiac~Musca.private](/_private/Astronomy/Star~Constellation/Zodiac~Musca.private.md) 
+
+### #is_/same_as :: [Zodiac~Musca.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Musca.personal.md) 
+
+### #is_/same_as :: [Zodiac~Musca.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Musca.secret.md)
+

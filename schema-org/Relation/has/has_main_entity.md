@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - main-entity
 - main_entity

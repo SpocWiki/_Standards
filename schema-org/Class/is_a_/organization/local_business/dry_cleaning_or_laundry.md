@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dry-cleaning-or-laundry
 - dry_cleaning_or_laundry

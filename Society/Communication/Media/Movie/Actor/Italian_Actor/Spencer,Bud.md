@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Carlo Pedersoli"
 - "Bud Spencer"
@@ -26,4 +26,21 @@ aliases:
 > and supported and funded many children's charities, including the Spencer Scholarship Fund.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bud%20Spencer)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Spencer,Bud](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.md) 
+
+### #is_/same_as :: [Spencer,Bud.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.public.md) 
+
+### #is_/same_as :: [Spencer,Bud.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.internal.md) 
+
+### #is_/same_as :: [Spencer,Bud.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.protect.md) 
+
+### #is_/same_as :: [Spencer,Bud.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.private.md) 
+
+### #is_/same_as :: [Spencer,Bud.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.personal.md) 
+
+### #is_/same_as :: [Spencer,Bud.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.secret.md)
 

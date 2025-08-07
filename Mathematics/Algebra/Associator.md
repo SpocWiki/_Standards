@@ -53,3 +53,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Associator)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Associator](/_Standards/Mathematics/Algebra/Associator.md) 
+
+### #is_/same_as :: [Associator.public](/_public/Mathematics/Algebra/Associator.public.md) 
+
+### #is_/same_as :: [Associator.internal](/_internal/Mathematics/Algebra/Associator.internal.md) 
+
+### #is_/same_as :: [Associator.protect](/_protect/Mathematics/Algebra/Associator.protect.md) 
+
+### #is_/same_as :: [Associator.private](/_private/Mathematics/Algebra/Associator.private.md) 
+
+### #is_/same_as :: [Associator.personal](/_personal/Mathematics/Algebra/Associator.personal.md) 
+
+### #is_/same_as :: [Associator.secret](/_secret/Mathematics/Algebra/Associator.secret.md)
+

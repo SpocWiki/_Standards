@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q28086552
 ---
 
@@ -21,17 +21,17 @@ has_id_wikidata: Q28086552
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nicotine](/_Standards/chemic/organic/Nicotine.md) 
+### #is_/same_as :: [Nicotine](/_Standards/Chemistry/organic/Nicotine.md) 
 
-### #is_/same_as :: [Nicotine.public](/_public/chemic/organic/Nicotine.public.md) 
+### #is_/same_as :: [Nicotine.public](/_public/Chemistry/organic/Nicotine.public.md) 
 
-### #is_/same_as :: [Nicotine.internal](/_internal/chemic/organic/Nicotine.internal.md) 
+### #is_/same_as :: [Nicotine.internal](/_internal/Chemistry/organic/Nicotine.internal.md) 
 
-### #is_/same_as :: [Nicotine.protect](/_protect/chemic/organic/Nicotine.protect.md) 
+### #is_/same_as :: [Nicotine.protect](/_protect/Chemistry/organic/Nicotine.protect.md) 
 
-### #is_/same_as :: [Nicotine.private](/_private/chemic/organic/Nicotine.private.md) 
+### #is_/same_as :: [Nicotine.private](/_private/Chemistry/organic/Nicotine.private.md) 
 
-### #is_/same_as :: [Nicotine.personal](/_personal/chemic/organic/Nicotine.personal.md) 
+### #is_/same_as :: [Nicotine.personal](/_personal/Chemistry/organic/Nicotine.personal.md) 
 
-### #is_/same_as :: [Nicotine.secret](/_secret/chemic/organic/Nicotine.secret.md)
+### #is_/same_as :: [Nicotine.secret](/_secret/Chemistry/organic/Nicotine.secret.md)
 

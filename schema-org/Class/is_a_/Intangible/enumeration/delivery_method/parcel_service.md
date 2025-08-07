@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parcel-service
 - parcel_service

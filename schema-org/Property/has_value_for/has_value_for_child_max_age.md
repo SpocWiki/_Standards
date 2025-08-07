@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - child_max_age
 - child-max-age

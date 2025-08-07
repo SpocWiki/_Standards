@@ -40,3 +40,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angstrom) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ångström](/_Standards/Dimension/Dim~Length/Ångström.md) 
+
+### #is_/same_as :: [Ångström.public](/_public/Dimension/Dim~Length/Ångström.public.md) 
+
+### #is_/same_as :: [Ångström.internal](/_internal/Dimension/Dim~Length/Ångström.internal.md) 
+
+### #is_/same_as :: [Ångström.protect](/_protect/Dimension/Dim~Length/Ångström.protect.md) 
+
+### #is_/same_as :: [Ångström.private](/_private/Dimension/Dim~Length/Ångström.private.md) 
+
+### #is_/same_as :: [Ångström.personal](/_personal/Dimension/Dim~Length/Ångström.personal.md) 
+
+### #is_/same_as :: [Ångström.secret](/_secret/Dimension/Dim~Length/Ångström.secret.md)
+

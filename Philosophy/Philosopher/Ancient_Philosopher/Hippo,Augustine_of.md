@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Augustine of Hippo"
 - "Aurelius Augustinus Hipponensis"

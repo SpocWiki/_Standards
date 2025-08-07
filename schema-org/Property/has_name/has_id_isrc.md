@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - id_isrc-code
 - id_isrc_code

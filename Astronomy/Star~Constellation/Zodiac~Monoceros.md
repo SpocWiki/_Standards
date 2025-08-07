@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -16,10 +16,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Monoceros|Zodiac~Monoceros]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Monoceros.public|Zodiac~Monoceros.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Monoceros.internal|Zodiac~Monoceros.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Monoceros.protect|Zodiac~Monoceros.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Monoceros.private|Zodiac~Monoceros.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Monoceros.personal|Zodiac~Monoceros.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Monoceros.secret|Zodiac~Monoceros.secret]] 
+
+### #is_/same_as :: [Zodiac~Monoceros](/_Standards/Astronomy/Star~Constellation/Zodiac~Monoceros.md) 
+
+### #is_/same_as :: [Zodiac~Monoceros.public](/_public/Astronomy/Star~Constellation/Zodiac~Monoceros.public.md) 
+
+### #is_/same_as :: [Zodiac~Monoceros.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Monoceros.internal.md) 
+
+### #is_/same_as :: [Zodiac~Monoceros.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Monoceros.protect.md) 
+
+### #is_/same_as :: [Zodiac~Monoceros.private](/_private/Astronomy/Star~Constellation/Zodiac~Monoceros.private.md) 
+
+### #is_/same_as :: [Zodiac~Monoceros.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Monoceros.personal.md) 
+
+### #is_/same_as :: [Zodiac~Monoceros.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Monoceros.secret.md)
+

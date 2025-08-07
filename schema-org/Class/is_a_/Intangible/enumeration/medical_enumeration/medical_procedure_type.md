@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-procedure-type
 - medical_procedure_type

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marcel Proust"
 archives_at: '[[_Standards/WikiData/WD~The_Rare_Book_&_Manuscript_Library,18749551]]'

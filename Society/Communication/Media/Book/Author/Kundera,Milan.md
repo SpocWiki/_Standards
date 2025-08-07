@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Milan Kundera"
 ---
@@ -30,4 +30,21 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Milan%20Kundera)
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kundera,Milan](/_Standards/Society/Communication/Media/Book/Author/Kundera,Milan.md) 
+
+### #is_/same_as :: [Kundera,Milan.public](/_public/Society/Communication/Media/Book/Author/Kundera,Milan.public.md) 
+
+### #is_/same_as :: [Kundera,Milan.internal](/_internal/Society/Communication/Media/Book/Author/Kundera,Milan.internal.md) 
+
+### #is_/same_as :: [Kundera,Milan.protect](/_protect/Society/Communication/Media/Book/Author/Kundera,Milan.protect.md) 
+
+### #is_/same_as :: [Kundera,Milan.private](/_private/Society/Communication/Media/Book/Author/Kundera,Milan.private.md) 
+
+### #is_/same_as :: [Kundera,Milan.personal](/_personal/Society/Communication/Media/Book/Author/Kundera,Milan.personal.md) 
+
+### #is_/same_as :: [Kundera,Milan.secret](/_secret/Society/Communication/Media/Book/Author/Kundera,Milan.secret.md)
 

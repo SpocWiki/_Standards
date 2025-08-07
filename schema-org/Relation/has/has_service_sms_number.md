@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-sms-number
 - service_sms_number

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wiedomyini
 ---
 
@@ -59,7 +59,7 @@ title: Wiedomyini
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Wiedomyini](Wiedomyini.md)) 
+### #is_/same_as :: [Wiedomyini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Wiedomyini.md) 
 
 ### #is_/same_as :: [Wiedomyini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Wiedomyini.public.md) 
 

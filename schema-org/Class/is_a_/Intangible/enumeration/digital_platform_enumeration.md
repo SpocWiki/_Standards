@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - digital-platform-enumeration
 - digital_platform_enumeration

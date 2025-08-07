@@ -81,3 +81,20 @@ P8189: "987007293069305171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alcoholism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alcoholism](/_Standards/bio/Medicine/Health/Addiction/Alcoholism.md) 
+
+### #is_/same_as :: [Alcoholism.public](/_public/bio/Medicine/Health/Addiction/Alcoholism.public.md) 
+
+### #is_/same_as :: [Alcoholism.internal](/_internal/bio/Medicine/Health/Addiction/Alcoholism.internal.md) 
+
+### #is_/same_as :: [Alcoholism.protect](/_protect/bio/Medicine/Health/Addiction/Alcoholism.protect.md) 
+
+### #is_/same_as :: [Alcoholism.private](/_private/bio/Medicine/Health/Addiction/Alcoholism.private.md) 
+
+### #is_/same_as :: [Alcoholism.personal](/_personal/bio/Medicine/Health/Addiction/Alcoholism.personal.md) 
+
+### #is_/same_as :: [Alcoholism.secret](/_secret/bio/Medicine/Health/Addiction/Alcoholism.secret.md)
+

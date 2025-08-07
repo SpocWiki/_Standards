@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - action-platform
 - action_platform

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Grimalditeuthis bonplandi"
 ---
 
@@ -226,7 +226,7 @@ waters. Bull. Mar. Sci. 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Grimalditeuthis](Grimalditeuthis.md)) 
+### #is_/same_as :: [Grimalditeuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.md) 
 
 ### #is_/same_as :: [Grimalditeuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Grimalditeuthis.public.md) 
 

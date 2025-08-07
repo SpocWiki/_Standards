@@ -64,3 +64,20 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bullying) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bullying](/_Standards/Society/Social_Issues/Discrimination/Bullying.md) 
+
+### #is_/same_as :: [Bullying.public](/_public/Society/Social_Issues/Discrimination/Bullying.public.md) 
+
+### #is_/same_as :: [Bullying.internal](/_internal/Society/Social_Issues/Discrimination/Bullying.internal.md) 
+
+### #is_/same_as :: [Bullying.protect](/_protect/Society/Social_Issues/Discrimination/Bullying.protect.md) 
+
+### #is_/same_as :: [Bullying.private](/_private/Society/Social_Issues/Discrimination/Bullying.private.md) 
+
+### #is_/same_as :: [Bullying.personal](/_personal/Society/Social_Issues/Discrimination/Bullying.personal.md) 
+
+### #is_/same_as :: [Bullying.secret](/_secret/Society/Social_Issues/Discrimination/Bullying.secret.md)
+

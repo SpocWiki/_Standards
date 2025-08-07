@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Organisation for Economic Co-operation and Development"
 - "Organisation de coopération et de développement économiques"

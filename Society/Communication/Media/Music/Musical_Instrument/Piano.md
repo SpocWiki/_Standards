@@ -1,4 +1,4 @@
-﻿---
+---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven%20-%20sonata%20no.%2014%20in%20c%20sharp%20minor%20%27moonlight%27%2C%20op.%2027%20no.%202%20-%20i.%20adagio%20sostenuto.ogg"
 Baidu_Tieba_name: 钢琴
 Colon_Classification: NR;34

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - end-offset
 - end_offset

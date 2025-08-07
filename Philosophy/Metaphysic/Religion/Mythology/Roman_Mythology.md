@@ -33,3 +33,20 @@ Commons_category: Roman mythology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20mythology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Roman_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.md) 
+
+### #is_/same_as :: [Roman_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.public.md) 
+
+### #is_/same_as :: [Roman_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.internal.md) 
+
+### #is_/same_as :: [Roman_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.protect.md) 
+
+### #is_/same_as :: [Roman_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.private.md) 
+
+### #is_/same_as :: [Roman_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.personal.md) 
+
+### #is_/same_as :: [Roman_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.secret.md)
+

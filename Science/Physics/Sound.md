@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: C3
 Commons_category: Sound
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-tip
 - how_to_tip

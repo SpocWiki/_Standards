@@ -38,5 +38,19 @@ UMLS_CUI: C0007066
 > [Wikipedia](https://en.wikipedia.org/wiki/Carboxylic%20acid) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Carboxylic_Acid](/_Standards/Chemistry/organic/Carboxylic_Acid.md) 
+
+### #is_/same_as :: [Carboxylic_Acid.public](/_public/Chemistry/organic/Carboxylic_Acid.public.md) 
+
+### #is_/same_as :: [Carboxylic_Acid.internal](/_internal/Chemistry/organic/Carboxylic_Acid.internal.md) 
+
+### #is_/same_as :: [Carboxylic_Acid.protect](/_protect/Chemistry/organic/Carboxylic_Acid.protect.md) 
+
+### #is_/same_as :: [Carboxylic_Acid.private](/_private/Chemistry/organic/Carboxylic_Acid.private.md) 
+
+### #is_/same_as :: [Carboxylic_Acid.personal](/_personal/Chemistry/organic/Carboxylic_Acid.personal.md) 
+
+### #is_/same_as :: [Carboxylic_Acid.secret](/_secret/Chemistry/organic/Carboxylic_Acid.secret.md)
 

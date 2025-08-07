@@ -54,3 +54,20 @@ P8189: "987007292689005171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bullet) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bullet](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.md) 
+
+### #is_/same_as :: [Bullet.public](/_public/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.public.md) 
+
+### #is_/same_as :: [Bullet.internal](/_internal/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.internal.md) 
+
+### #is_/same_as :: [Bullet.protect](/_protect/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.protect.md) 
+
+### #is_/same_as :: [Bullet.private](/_private/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.private.md) 
+
+### #is_/same_as :: [Bullet.personal](/_personal/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.personal.md) 
+
+### #is_/same_as :: [Bullet.secret](/_secret/Society/Military/Military_Engineering/Weapon/Ammunition/Bullet.secret.md)
+

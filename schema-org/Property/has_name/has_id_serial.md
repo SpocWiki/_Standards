@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - serial-number
 - id_serial

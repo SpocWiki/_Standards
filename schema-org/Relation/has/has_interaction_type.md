@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interaction-type
 - interaction_type

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 58
 canonical_SMILES: '[Ce]'
 CAS_Registry_Number: 7440-45-1
@@ -236,17 +236,17 @@ ZVG_number: 8430
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cerium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Cerium.md) 
+### #is_/same_as :: [Cerium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.md) 
 
-### #is_/same_as :: [Cerium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Cerium.public.md) 
+### #is_/same_as :: [Cerium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.public.md) 
 
-### #is_/same_as :: [Cerium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Cerium.internal.md) 
+### #is_/same_as :: [Cerium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.internal.md) 
 
-### #is_/same_as :: [Cerium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Cerium.protect.md) 
+### #is_/same_as :: [Cerium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.protect.md) 
 
-### #is_/same_as :: [Cerium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Cerium.private.md) 
+### #is_/same_as :: [Cerium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.private.md) 
 
-### #is_/same_as :: [Cerium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Cerium.personal.md) 
+### #is_/same_as :: [Cerium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.personal.md) 
 
-### #is_/same_as :: [Cerium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Cerium.secret.md)
+### #is_/same_as :: [Cerium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Cerium.secret.md)
 

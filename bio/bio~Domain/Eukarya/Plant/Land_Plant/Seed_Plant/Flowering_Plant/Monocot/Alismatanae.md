@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alismatanae
 ---
 
@@ -61,17 +61,17 @@ al, 1985; Dalgren and Bremer, 1985).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Alismatanae](Alismatanae.md)) 
+### #is_/same_as :: [Alismatanae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.md) 
 
-### #is_/same_as :: [Alismatanae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.public.md) 
+### #is_/same_as :: [Alismatanae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.public.md) 
 
-### #is_/same_as :: [Alismatanae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.internal.md) 
+### #is_/same_as :: [Alismatanae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.internal.md) 
 
-### #is_/same_as :: [Alismatanae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.protect.md) 
+### #is_/same_as :: [Alismatanae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.protect.md) 
 
-### #is_/same_as :: [Alismatanae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.private.md) 
+### #is_/same_as :: [Alismatanae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.private.md) 
 
-### #is_/same_as :: [Alismatanae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.personal.md) 
+### #is_/same_as :: [Alismatanae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.personal.md) 
 
-### #is_/same_as :: [Alismatanae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.secret.md)
+### #is_/same_as :: [Alismatanae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Alismatanae.secret.md)
 

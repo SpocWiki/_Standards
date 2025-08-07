@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Orion|Zodiac~Orion]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Orion.public|Zodiac~Orion.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Orion.internal|Zodiac~Orion.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Orion.protect|Zodiac~Orion.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Orion.private|Zodiac~Orion.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Orion.personal|Zodiac~Orion.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Orion.secret|Zodiac~Orion.secret]] 
+
+### #is_/same_as :: [Zodiac~Orion](/_Standards/Astronomy/Star~Constellation/Zodiac~Orion.md) 
+
+### #is_/same_as :: [Zodiac~Orion.public](/_public/Astronomy/Star~Constellation/Zodiac~Orion.public.md) 
+
+### #is_/same_as :: [Zodiac~Orion.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Orion.internal.md) 
+
+### #is_/same_as :: [Zodiac~Orion.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Orion.protect.md) 
+
+### #is_/same_as :: [Zodiac~Orion.private](/_private/Astronomy/Star~Constellation/Zodiac~Orion.private.md) 
+
+### #is_/same_as :: [Zodiac~Orion.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Orion.personal.md) 
+
+### #is_/same_as :: [Zodiac~Orion.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Orion.secret.md)
+

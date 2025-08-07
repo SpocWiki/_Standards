@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - financial-aid-eligible
 - financial_aid_eligible

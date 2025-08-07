@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - applies-to-delivery-method
 - applying_to_delivery_method

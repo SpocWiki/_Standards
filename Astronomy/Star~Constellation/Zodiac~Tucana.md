@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Tucana|Zodiac~Tucana]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Tucana.public|Zodiac~Tucana.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Tucana.internal|Zodiac~Tucana.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Tucana.protect|Zodiac~Tucana.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Tucana.private|Zodiac~Tucana.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Tucana.personal|Zodiac~Tucana.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Tucana.secret|Zodiac~Tucana.secret]] 
+
+### #is_/same_as :: [Zodiac~Tucana](/_Standards/Astronomy/Star~Constellation/Zodiac~Tucana.md) 
+
+### #is_/same_as :: [Zodiac~Tucana.public](/_public/Astronomy/Star~Constellation/Zodiac~Tucana.public.md) 
+
+### #is_/same_as :: [Zodiac~Tucana.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Tucana.internal.md) 
+
+### #is_/same_as :: [Zodiac~Tucana.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Tucana.protect.md) 
+
+### #is_/same_as :: [Zodiac~Tucana.private](/_private/Astronomy/Star~Constellation/Zodiac~Tucana.private.md) 
+
+### #is_/same_as :: [Zodiac~Tucana.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Tucana.personal.md) 
+
+### #is_/same_as :: [Zodiac~Tucana.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Tucana.secret.md)
+

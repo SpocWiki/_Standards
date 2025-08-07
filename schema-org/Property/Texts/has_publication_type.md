@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publication-type
 - publication_type

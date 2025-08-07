@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-audience
 - medical_audience

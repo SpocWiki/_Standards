@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - watch-action
 - watch_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - out-of-stock
 - out_of_stock

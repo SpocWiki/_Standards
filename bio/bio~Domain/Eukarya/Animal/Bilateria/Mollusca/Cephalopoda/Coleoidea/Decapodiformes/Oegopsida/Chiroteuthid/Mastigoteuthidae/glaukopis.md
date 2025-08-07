@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis glaukopis"
 ---
 
@@ -146,7 +146,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[glaukopis](glaukopis.md)) 
+### #is_/same_as :: [glaukopis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.md) 
 
 ### #is_/same_as :: [glaukopis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/glaukopis.public.md) 
 

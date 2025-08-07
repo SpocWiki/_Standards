@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ovis
 has_id_wikidata: Q7368
@@ -107,7 +107,7 @@ Mitochondrial control region sequence variation within argali wild sheep
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ovis](Ovis.md)) 
+### #is_/same_as :: [Ovis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ovis.md) 
 
 ### #is_/same_as :: [Ovis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ovis.public.md) 
 

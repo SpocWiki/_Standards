@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pituriaspida
 ---
 
@@ -76,7 +76,7 @@ an enigmatic pit adjacent to the eyes. (Based on Young 1991.)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pituriaspida](Pituriaspida.md)) 
+### #is_/same_as :: [Pituriaspida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.md) 
 
 ### #is_/same_as :: [Pituriaspida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.public.md) 
 

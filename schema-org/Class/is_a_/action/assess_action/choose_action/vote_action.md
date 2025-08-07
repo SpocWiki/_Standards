@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vote-action
 - vote_action

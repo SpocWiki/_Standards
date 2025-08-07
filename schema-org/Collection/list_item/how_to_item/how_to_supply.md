@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-supply
 - how_to_supply

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - read-action
 - read_action

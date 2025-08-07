@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -554,17 +554,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_ElementDB](/_Standards/chemic/chemic~Elements/_ElementDB.md) 
+### #is_/same_as :: [_ElementDB](/_Standards/Chemistry/Chemical_Element/_ElementDB.md) 
 
-### #is_/same_as :: [_ElementDB.public](/_public/chemic/chemic~Elements/_ElementDB.public.md) 
+### #is_/same_as :: [_ElementDB.public](/_public/Chemistry/Chemical_Element/_ElementDB.public.md) 
 
-### #is_/same_as :: [_ElementDB.internal](/_internal/chemic/chemic~Elements/_ElementDB.internal.md) 
+### #is_/same_as :: [_ElementDB.internal](/_internal/Chemistry/Chemical_Element/_ElementDB.internal.md) 
 
-### #is_/same_as :: [_ElementDB.protect](/_protect/chemic/chemic~Elements/_ElementDB.protect.md) 
+### #is_/same_as :: [_ElementDB.protect](/_protect/Chemistry/Chemical_Element/_ElementDB.protect.md) 
 
-### #is_/same_as :: [_ElementDB.private](/_private/chemic/chemic~Elements/_ElementDB.private.md) 
+### #is_/same_as :: [_ElementDB.private](/_private/Chemistry/Chemical_Element/_ElementDB.private.md) 
 
-### #is_/same_as :: [_ElementDB.personal](/_personal/chemic/chemic~Elements/_ElementDB.personal.md) 
+### #is_/same_as :: [_ElementDB.personal](/_personal/Chemistry/Chemical_Element/_ElementDB.personal.md) 
 
-### #is_/same_as :: [_ElementDB.secret](/_secret/chemic/chemic~Elements/_ElementDB.secret.md)
+### #is_/same_as :: [_ElementDB.secret](/_secret/Chemistry/Chemical_Element/_ElementDB.secret.md)
 

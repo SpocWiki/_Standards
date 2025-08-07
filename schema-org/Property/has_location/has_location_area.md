@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - area
 - area

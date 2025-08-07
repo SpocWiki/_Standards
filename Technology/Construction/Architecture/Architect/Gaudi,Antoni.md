@@ -45,3 +45,20 @@ has_id_wikidata: Q25328
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antoni%20Gaud%C3%AD) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gaudi,Antoni](/_Standards/Technology/Construction/Architecture/Architect/Gaudi,Antoni.md) 
+
+### #is_/same_as :: [Gaudi,Antoni.public](/_public/Technology/Construction/Architecture/Architect/Gaudi,Antoni.public.md) 
+
+### #is_/same_as :: [Gaudi,Antoni.internal](/_internal/Technology/Construction/Architecture/Architect/Gaudi,Antoni.internal.md) 
+
+### #is_/same_as :: [Gaudi,Antoni.protect](/_protect/Technology/Construction/Architecture/Architect/Gaudi,Antoni.protect.md) 
+
+### #is_/same_as :: [Gaudi,Antoni.private](/_private/Technology/Construction/Architecture/Architect/Gaudi,Antoni.private.md) 
+
+### #is_/same_as :: [Gaudi,Antoni.personal](/_personal/Technology/Construction/Architecture/Architect/Gaudi,Antoni.personal.md) 
+
+### #is_/same_as :: [Gaudi,Antoni.secret](/_secret/Technology/Construction/Architecture/Architect/Gaudi,Antoni.secret.md)
+

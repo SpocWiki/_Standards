@@ -49,3 +49,20 @@ Commons_category: Atomic orbitals
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atomic%20orbital) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atomic_Orbital](/_Standards/Science/Physics/Atom/Atomic_Orbital.md) 
+
+### #is_/same_as :: [Atomic_Orbital.public](/_public/Science/Physics/Atom/Atomic_Orbital.public.md) 
+
+### #is_/same_as :: [Atomic_Orbital.internal](/_internal/Science/Physics/Atom/Atomic_Orbital.internal.md) 
+
+### #is_/same_as :: [Atomic_Orbital.protect](/_protect/Science/Physics/Atom/Atomic_Orbital.protect.md) 
+
+### #is_/same_as :: [Atomic_Orbital.private](/_private/Science/Physics/Atom/Atomic_Orbital.private.md) 
+
+### #is_/same_as :: [Atomic_Orbital.personal](/_personal/Science/Physics/Atom/Atomic_Orbital.personal.md) 
+
+### #is_/same_as :: [Atomic_Orbital.secret](/_secret/Science/Physics/Atom/Atomic_Orbital.secret.md)
+

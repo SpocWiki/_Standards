@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~molybdenum_exposure,21174934]]'
 atomic_number: 42
 boiling_point: 8717
@@ -147,17 +147,17 @@ ZVG_number: 8330
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molybdenum](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.md) 
+### #is_/same_as :: [Molybdenum](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.md) 
 
-### #is_/same_as :: [Molybdenum.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.public.md) 
+### #is_/same_as :: [Molybdenum.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.public.md) 
 
-### #is_/same_as :: [Molybdenum.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.internal.md) 
+### #is_/same_as :: [Molybdenum.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.internal.md) 
 
-### #is_/same_as :: [Molybdenum.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.protect.md) 
+### #is_/same_as :: [Molybdenum.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.protect.md) 
 
-### #is_/same_as :: [Molybdenum.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.private.md) 
+### #is_/same_as :: [Molybdenum.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.private.md) 
 
-### #is_/same_as :: [Molybdenum.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.personal.md) 
+### #is_/same_as :: [Molybdenum.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.personal.md) 
 
-### #is_/same_as :: [Molybdenum.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.secret.md)
+### #is_/same_as :: [Molybdenum.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Molybdenum.secret.md)
 

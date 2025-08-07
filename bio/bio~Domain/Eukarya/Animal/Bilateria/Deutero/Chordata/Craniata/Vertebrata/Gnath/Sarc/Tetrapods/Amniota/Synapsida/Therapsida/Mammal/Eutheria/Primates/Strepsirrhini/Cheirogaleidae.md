@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cheirogaleidae
 ---
 
@@ -63,7 +63,7 @@ Reference         Günther, A. 1875. Notes on some Mammals from Madagascar. Proc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cheirogaleidae](Cheirogaleidae.md)) 
+### #is_/same_as :: [Cheirogaleidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Cheirogaleidae.md) 
 
 ### #is_/same_as :: [Cheirogaleidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Cheirogaleidae.public.md) 
 

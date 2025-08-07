@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Henri Matisse"
 archives_at: '[[_Standards/WikiData/WD~Departmental_archives_of_Yvelines,2860507]]'

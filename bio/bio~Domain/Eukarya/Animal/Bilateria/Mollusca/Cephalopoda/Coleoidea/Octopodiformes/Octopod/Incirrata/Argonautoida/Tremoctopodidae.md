@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tremoctopus
 ---
 
@@ -253,7 +253,7 @@ Mar. Sci. 27: 353-392.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tremoctopodidae](Tremoctopodidae.md)) 
+### #is_/same_as :: [Tremoctopodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.md) 
 
 ### #is_/same_as :: [Tremoctopodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Tremoctopodidae.public.md) 
 

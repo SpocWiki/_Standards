@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Diego Rodríguez de Silva y Velázquez"
 artist_files_at:

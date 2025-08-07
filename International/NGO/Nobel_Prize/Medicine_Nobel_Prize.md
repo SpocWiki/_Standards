@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nobel Prize in Physiology or Medicine"
 - "Nobelpriset i fysiologi eller medicin"

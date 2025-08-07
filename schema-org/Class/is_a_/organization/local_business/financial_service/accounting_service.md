@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accounting-service
 - accounting_service

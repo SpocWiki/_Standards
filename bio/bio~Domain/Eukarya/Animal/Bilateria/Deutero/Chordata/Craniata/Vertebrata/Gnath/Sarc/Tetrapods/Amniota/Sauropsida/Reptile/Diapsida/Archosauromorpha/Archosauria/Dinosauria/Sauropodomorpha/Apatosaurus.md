@@ -41,3 +41,20 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Apatos
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apatosaurus) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apatosaurus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.md) 
+
+### #is_/same_as :: [Apatosaurus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.public.md) 
+
+### #is_/same_as :: [Apatosaurus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.internal.md) 
+
+### #is_/same_as :: [Apatosaurus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.protect.md) 
+
+### #is_/same_as :: [Apatosaurus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.private.md) 
+
+### #is_/same_as :: [Apatosaurus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.personal.md) 
+
+### #is_/same_as :: [Apatosaurus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Sauropodomorpha/Apatosaurus.secret.md)
+

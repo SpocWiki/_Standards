@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - depart-action
 - depart_action

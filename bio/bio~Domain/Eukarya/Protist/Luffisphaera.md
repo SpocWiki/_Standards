@@ -1,4 +1,4 @@
-﻿---
+---
 title: Luffisphaera
 ---
 
@@ -52,7 +52,7 @@ sp. Journal of Eukaryotic Microbiology 40(3):272-287.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Luffisphaera](Luffisphaera.md)) 
+### #is_/same_as :: [Luffisphaera](/_Standards/bio/bio~Domain/Eukarya/Protist/Luffisphaera.md) 
 
 ### #is_/same_as :: [Luffisphaera.public](/_public/bio/bio~Domain/Eukarya/Protist/Luffisphaera.public.md) 
 

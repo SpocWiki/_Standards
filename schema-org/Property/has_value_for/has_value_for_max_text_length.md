@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value_max_text_length
 - value-max-text-length

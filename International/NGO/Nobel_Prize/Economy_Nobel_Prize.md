@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nobel Economics Prize"
 - "Nobel Memorial Prize in Economic Sciences"

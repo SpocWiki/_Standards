@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Great Influenza epidemic"
 - "Spanish flu"
@@ -53,4 +53,20 @@ UMLS_CUI: C3658260
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20flu) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1918-1920_flu_pandemic](/_Standards/Society/Disaster/1918-1920_flu_pandemic.md) 
+
+### #is_/same_as :: [1918-1920_flu_pandemic.public](/_public/Society/Disaster/1918-1920_flu_pandemic.public.md) 
+
+### #is_/same_as :: [1918-1920_flu_pandemic.internal](/_internal/Society/Disaster/1918-1920_flu_pandemic.internal.md) 
+
+### #is_/same_as :: [1918-1920_flu_pandemic.protect](/_protect/Society/Disaster/1918-1920_flu_pandemic.protect.md) 
+
+### #is_/same_as :: [1918-1920_flu_pandemic.private](/_private/Society/Disaster/1918-1920_flu_pandemic.private.md) 
+
+### #is_/same_as :: [1918-1920_flu_pandemic.personal](/_personal/Society/Disaster/1918-1920_flu_pandemic.personal.md) 
+
+### #is_/same_as :: [1918-1920_flu_pandemic.secret](/_secret/Society/Disaster/1918-1920_flu_pandemic.secret.md)
 

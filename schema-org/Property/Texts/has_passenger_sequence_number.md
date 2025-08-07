@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - passenger-sequence-number
 - passenger_sequence_number

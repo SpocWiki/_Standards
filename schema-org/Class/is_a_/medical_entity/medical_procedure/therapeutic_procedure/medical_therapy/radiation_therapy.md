@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - radiation-therapy
 - radiation_therapy

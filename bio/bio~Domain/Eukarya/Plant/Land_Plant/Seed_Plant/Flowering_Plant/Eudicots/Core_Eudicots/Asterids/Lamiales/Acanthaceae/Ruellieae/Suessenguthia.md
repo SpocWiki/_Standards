@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Suessenguthia
 title: Suessenguthia
@@ -83,17 +83,17 @@ Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Suessenguthia](Suessenguthia.md)) 
+### #is_/same_as :: [Suessenguthia](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.md) 
 
-### #is_/same_as :: [Suessenguthia.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.public.md) 
+### #is_/same_as :: [Suessenguthia.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.public.md) 
 
-### #is_/same_as :: [Suessenguthia.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.internal.md) 
+### #is_/same_as :: [Suessenguthia.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.internal.md) 
 
-### #is_/same_as :: [Suessenguthia.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.protect.md) 
+### #is_/same_as :: [Suessenguthia.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.protect.md) 
 
-### #is_/same_as :: [Suessenguthia.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.private.md) 
+### #is_/same_as :: [Suessenguthia.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.private.md) 
 
-### #is_/same_as :: [Suessenguthia.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.personal.md) 
+### #is_/same_as :: [Suessenguthia.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.personal.md) 
 
-### #is_/same_as :: [Suessenguthia.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.secret.md)
+### #is_/same_as :: [Suessenguthia.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Suessenguthia.secret.md)
 

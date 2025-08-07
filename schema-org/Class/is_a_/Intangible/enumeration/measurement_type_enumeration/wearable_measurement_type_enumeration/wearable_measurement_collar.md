@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-collar
 - wearable_measurement_collar

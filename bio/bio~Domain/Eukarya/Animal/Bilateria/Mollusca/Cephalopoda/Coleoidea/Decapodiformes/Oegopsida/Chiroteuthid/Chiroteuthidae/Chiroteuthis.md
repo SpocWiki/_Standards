@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chiroteuthis
 ---
 
@@ -254,7 +254,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chiroteuthis](Chiroteuthis.md)) 
+### #is_/same_as :: [Chiroteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis.md) 
 
 ### #is_/same_as :: [Chiroteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis.public.md) 
 

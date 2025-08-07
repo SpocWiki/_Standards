@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roman magistrate"
 ---
@@ -94,17 +94,17 @@ Roman Law usually restricted Power by Time.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Roman_Magistrate](Roman_Magistrate.md)) 
+### #is_/same_as :: [Roman_Magistrate](/_Standards/Society/Politics/Government/Roman_Magistrate.md) 
 
-### #is_/same_as :: [Roman_Magistrate.public](/_public/Society/Government/Roman_Magistrate.public.md) 
+### #is_/same_as :: [Roman_Magistrate.public](/_public/Society/Politics/Government/Roman_Magistrate.public.md) 
 
-### #is_/same_as :: [Roman_Magistrate.internal](/_internal/Society/Government/Roman_Magistrate.internal.md) 
+### #is_/same_as :: [Roman_Magistrate.internal](/_internal/Society/Politics/Government/Roman_Magistrate.internal.md) 
 
-### #is_/same_as :: [Roman_Magistrate.protect](/_protect/Society/Government/Roman_Magistrate.protect.md) 
+### #is_/same_as :: [Roman_Magistrate.protect](/_protect/Society/Politics/Government/Roman_Magistrate.protect.md) 
 
-### #is_/same_as :: [Roman_Magistrate.private](/_private/Society/Government/Roman_Magistrate.private.md) 
+### #is_/same_as :: [Roman_Magistrate.private](/_private/Society/Politics/Government/Roman_Magistrate.private.md) 
 
-### #is_/same_as :: [Roman_Magistrate.personal](/_personal/Society/Government/Roman_Magistrate.personal.md) 
+### #is_/same_as :: [Roman_Magistrate.personal](/_personal/Society/Politics/Government/Roman_Magistrate.personal.md) 
 
-### #is_/same_as :: [Roman_Magistrate.secret](/_secret/Society/Government/Roman_Magistrate.secret.md)
+### #is_/same_as :: [Roman_Magistrate.secret](/_secret/Society/Politics/Government/Roman_Magistrate.secret.md)
 

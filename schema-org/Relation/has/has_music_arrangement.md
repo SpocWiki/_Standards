@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-arrangement
 - music_arrangement

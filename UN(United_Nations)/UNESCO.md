@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "United Nations Educational, Scientific and Cultural Organization"
 archives_at: '[[_Standards/WikiData/WD~University_of_Maryland_Libraries,7895690]]'

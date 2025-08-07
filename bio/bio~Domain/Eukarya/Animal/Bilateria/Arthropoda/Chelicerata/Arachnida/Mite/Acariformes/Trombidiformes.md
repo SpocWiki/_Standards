@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trombidiformes
 ---
 
@@ -140,7 +140,7 @@ Copyright ::   © 1998 [Heather Proctor](http://www.biology.ualberta.ca/faculty/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Trombidiformes](Trombidiformes.md)) 
+### #is_/same_as :: [Trombidiformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.md) 
 
 ### #is_/same_as :: [Trombidiformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.public.md) 
 

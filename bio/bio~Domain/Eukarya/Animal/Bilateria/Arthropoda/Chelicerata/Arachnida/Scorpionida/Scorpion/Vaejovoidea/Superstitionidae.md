@@ -1,4 +1,4 @@
-﻿---
+---
 title: Superstitionidae
 ---
 
@@ -49,7 +49,7 @@ Copyright ::   © 1988 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Superstitionidae](Superstitionidae.md)) 
+### #is_/same_as :: [Superstitionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.md) 
 
 ### #is_/same_as :: [Superstitionidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.public.md) 
 

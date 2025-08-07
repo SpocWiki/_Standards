@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - performing-group
 - performing_group

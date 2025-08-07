@@ -12,3 +12,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/T-Mobile%20(brand)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [T-Mobile](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.md) 
+
+### #is_/same_as :: [T-Mobile.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.public.md) 
+
+### #is_/same_as :: [T-Mobile.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.internal.md) 
+
+### #is_/same_as :: [T-Mobile.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.protect.md) 
+
+### #is_/same_as :: [T-Mobile.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.private.md) 
+
+### #is_/same_as :: [T-Mobile.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.personal.md) 
+
+### #is_/same_as :: [T-Mobile.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/ISP(Internet-Service_provider)/T-Mobile.secret.md)
+

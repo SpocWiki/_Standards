@@ -23,17 +23,17 @@ icon: ":atom symbol:"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [chemic](/_Standards/chemic.md) 
+### #is_/same_as :: [Chemistry](/_Standards/Chemistry.md) 
 
-### #is_/same_as :: [chemic.public](/_public/chemic.public.md) 
+### #is_/same_as :: [Chemistry.public](/_public/Chemistry.public.md) 
 
-### #is_/same_as :: [chemic.internal](/_internal/chemic.internal.md) 
+### #is_/same_as :: [Chemistry.internal](/_internal/Chemistry.internal.md) 
 
-### #is_/same_as :: [chemic.protect](/_protect/chemic.protect.md) 
+### #is_/same_as :: [Chemistry.protect](/_protect/Chemistry.protect.md) 
 
-### #is_/same_as :: [chemic.private](/_private/chemic.private.md) 
+### #is_/same_as :: [Chemistry.private](/_private/Chemistry.private.md) 
 
-### #is_/same_as :: [chemic.personal](/_personal/chemic.personal.md) 
+### #is_/same_as :: [Chemistry.personal](/_personal/Chemistry.personal.md) 
 
-### #is_/same_as :: [chemic.secret](/_secret/chemic.secret.md)
+### #is_/same_as :: [Chemistry.secret](/_secret/Chemistry.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-service
 - available_service

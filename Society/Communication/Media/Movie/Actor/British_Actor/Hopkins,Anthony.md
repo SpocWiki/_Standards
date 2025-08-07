@@ -30,3 +30,20 @@ has_id_wikidata: Q65932
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anthony%20Hopkins) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Hopkins,Anthony](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.md) 
+
+### #is_/same_as :: [Hopkins,Anthony.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.public.md) 
+
+### #is_/same_as :: [Hopkins,Anthony.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.internal.md) 
+
+### #is_/same_as :: [Hopkins,Anthony.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.protect.md) 
+
+### #is_/same_as :: [Hopkins,Anthony.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.private.md) 
+
+### #is_/same_as :: [Hopkins,Anthony.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.personal.md) 
+
+### #is_/same_as :: [Hopkins,Anthony.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hopkins,Anthony.secret.md)
+

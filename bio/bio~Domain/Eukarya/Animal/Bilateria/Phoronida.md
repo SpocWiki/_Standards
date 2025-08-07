@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phoronida
 ---
 
@@ -90,7 +90,7 @@ Copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Phoronida](Phoronida.md)) 
+### #is_/same_as :: [Phoronida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.md) 
 
 ### #is_/same_as :: [Phoronida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Phoronida.public.md) 
 

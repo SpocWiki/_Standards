@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - endorsement-rating
 - endorsement_rating

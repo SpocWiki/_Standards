@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cost_per_unit
 - cost-per-unit

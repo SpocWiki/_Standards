@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Chamaeleon|Zodiac~Chamaeleon]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Chamaeleon.public|Zodiac~Chamaeleon.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Chamaeleon.internal|Zodiac~Chamaeleon.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Chamaeleon.protect|Zodiac~Chamaeleon.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Chamaeleon.private|Zodiac~Chamaeleon.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Chamaeleon.personal|Zodiac~Chamaeleon.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Chamaeleon.secret|Zodiac~Chamaeleon.secret]] 
+
+### #is_/same_as :: [Zodiac~Chamaeleon](/_Standards/Astronomy/Star~Constellation/Zodiac~Chamaeleon.md) 
+
+### #is_/same_as :: [Zodiac~Chamaeleon.public](/_public/Astronomy/Star~Constellation/Zodiac~Chamaeleon.public.md) 
+
+### #is_/same_as :: [Zodiac~Chamaeleon.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Chamaeleon.internal.md) 
+
+### #is_/same_as :: [Zodiac~Chamaeleon.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Chamaeleon.protect.md) 
+
+### #is_/same_as :: [Zodiac~Chamaeleon.private](/_private/Astronomy/Star~Constellation/Zodiac~Chamaeleon.private.md) 
+
+### #is_/same_as :: [Zodiac~Chamaeleon.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Chamaeleon.personal.md) 
+
+### #is_/same_as :: [Zodiac~Chamaeleon.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Chamaeleon.secret.md)
+

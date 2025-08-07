@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - solve-math-action
 - solve_math_action

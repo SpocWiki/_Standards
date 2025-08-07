@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Le Figaro"
 ---
@@ -21,4 +21,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Le%20Figaro) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Le_Figaro](/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.md) 
+
+### #is_/same_as :: [Le_Figaro.public](/_public/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.public.md) 
+
+### #is_/same_as :: [Le_Figaro.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.internal.md) 
+
+### #is_/same_as :: [Le_Figaro.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.protect.md) 
+
+### #is_/same_as :: [Le_Figaro.private](/_private/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.private.md) 
+
+### #is_/same_as :: [Le_Figaro.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.personal.md) 
+
+### #is_/same_as :: [Le_Figaro.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.secret.md)
 

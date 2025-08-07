@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Louis Armstrong"
 - "Louis Daniel Armstrong"

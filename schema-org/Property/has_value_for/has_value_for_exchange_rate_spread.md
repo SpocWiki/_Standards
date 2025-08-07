@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exchange_rate_spread
 - exchange-rate-spread

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - defence-establishment
 - defence_establishment

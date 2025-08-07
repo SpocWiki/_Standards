@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 12
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Pisces|Zodiac~Pisces]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Pisces.public|Zodiac~Pisces.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Pisces.internal|Zodiac~Pisces.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Pisces.protect|Zodiac~Pisces.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Pisces.private|Zodiac~Pisces.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Pisces.personal|Zodiac~Pisces.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Pisces.secret|Zodiac~Pisces.secret]] 
+
+### #is_/same_as :: [Zodiac~Pisces](/_Standards/Astronomy/Star~Constellation/Zodiac~Pisces.md) 
+
+### #is_/same_as :: [Zodiac~Pisces.public](/_public/Astronomy/Star~Constellation/Zodiac~Pisces.public.md) 
+
+### #is_/same_as :: [Zodiac~Pisces.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pisces.internal.md) 
+
+### #is_/same_as :: [Zodiac~Pisces.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pisces.protect.md) 
+
+### #is_/same_as :: [Zodiac~Pisces.private](/_private/Astronomy/Star~Constellation/Zodiac~Pisces.private.md) 
+
+### #is_/same_as :: [Zodiac~Pisces.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pisces.personal.md) 
+
+### #is_/same_as :: [Zodiac~Pisces.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pisces.secret.md)
+

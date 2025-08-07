@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ticker-symbol
 - ticker_symbol

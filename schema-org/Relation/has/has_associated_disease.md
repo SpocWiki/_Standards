@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-disease
 - associated_disease

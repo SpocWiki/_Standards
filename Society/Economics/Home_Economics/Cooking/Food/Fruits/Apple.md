@@ -127,17 +127,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Apple](Apple.md)) 
+### #is_/same_as :: [Apple](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.md) 
 
-### #is_/same_as :: [Apple.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Apple.public.md) 
+### #is_/same_as :: [Apple.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.public.md) 
 
-### #is_/same_as :: [Apple.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Apple.internal.md) 
+### #is_/same_as :: [Apple.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.internal.md) 
 
-### #is_/same_as :: [Apple.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Apple.protect.md) 
+### #is_/same_as :: [Apple.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.protect.md) 
 
-### #is_/same_as :: [Apple.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Apple.private.md) 
+### #is_/same_as :: [Apple.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.private.md) 
 
-### #is_/same_as :: [Apple.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Apple.personal.md) 
+### #is_/same_as :: [Apple.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.personal.md) 
 
-### #is_/same_as :: [Apple.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Apple.secret.md)
+### #is_/same_as :: [Apple.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.secret.md)
 

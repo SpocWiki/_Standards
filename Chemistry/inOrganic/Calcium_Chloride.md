@@ -87,3 +87,20 @@ RTECS_number: EV9800000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium%20chloride) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Calcium_Chloride](/_Standards/Chemistry/inOrganic/Calcium_Chloride.md) 
+
+### #is_/same_as :: [Calcium_Chloride.public](/_public/Chemistry/inOrganic/Calcium_Chloride.public.md) 
+
+### #is_/same_as :: [Calcium_Chloride.internal](/_internal/Chemistry/inOrganic/Calcium_Chloride.internal.md) 
+
+### #is_/same_as :: [Calcium_Chloride.protect](/_protect/Chemistry/inOrganic/Calcium_Chloride.protect.md) 
+
+### #is_/same_as :: [Calcium_Chloride.private](/_private/Chemistry/inOrganic/Calcium_Chloride.private.md) 
+
+### #is_/same_as :: [Calcium_Chloride.personal](/_personal/Chemistry/inOrganic/Calcium_Chloride.personal.md) 
+
+### #is_/same_as :: [Calcium_Chloride.secret](/_secret/Chemistry/inOrganic/Calcium_Chloride.secret.md)
+

@@ -35,3 +35,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pier%20Paolo%20Pasolini) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo](/_Standards/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.md) 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo.public](/_public/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.public.md) 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.internal.md) 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.protect.md) 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo.private](/_private/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.private.md) 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.personal.md) 
+
+### #is_/same_as :: [Pasolini,Pier_Paolo.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Pasolini,Pier_Paolo.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recognized-by
 - recognized_by

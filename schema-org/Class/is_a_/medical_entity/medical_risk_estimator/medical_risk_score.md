@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-risk-score
 - medical_risk_score

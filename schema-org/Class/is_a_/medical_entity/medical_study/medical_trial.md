@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-trial
 - medical_trial

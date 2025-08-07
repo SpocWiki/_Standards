@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hyper-toc-entry
 - hyper_toc_entry

@@ -44,3 +44,20 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=ayurveda
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ayurveda) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ayurveda](/_Standards/bio/Medicine/Ayurveda.md) 
+
+### #is_/same_as :: [Ayurveda.public](/_public/bio/Medicine/Ayurveda.public.md) 
+
+### #is_/same_as :: [Ayurveda.internal](/_internal/bio/Medicine/Ayurveda.internal.md) 
+
+### #is_/same_as :: [Ayurveda.protect](/_protect/bio/Medicine/Ayurveda.protect.md) 
+
+### #is_/same_as :: [Ayurveda.private](/_private/bio/Medicine/Ayurveda.private.md) 
+
+### #is_/same_as :: [Ayurveda.personal](/_personal/bio/Medicine/Ayurveda.personal.md) 
+
+### #is_/same_as :: [Ayurveda.secret](/_secret/bio/Medicine/Ayurveda.secret.md)
+

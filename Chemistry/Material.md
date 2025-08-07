@@ -41,17 +41,17 @@ Wikidata_property: "made from material"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Material](/_Standards/chemic/Material.md) 
+### #is_/same_as :: [Material](/_Standards/Chemistry/Material.md) 
 
-### #is_/same_as :: [Material.public](/_public/chemic/Material.public.md) 
+### #is_/same_as :: [Material.public](/_public/Chemistry/Material.public.md) 
 
-### #is_/same_as :: [Material.internal](/_internal/chemic/Material.internal.md) 
+### #is_/same_as :: [Material.internal](/_internal/Chemistry/Material.internal.md) 
 
-### #is_/same_as :: [Material.protect](/_protect/chemic/Material.protect.md) 
+### #is_/same_as :: [Material.protect](/_protect/Chemistry/Material.protect.md) 
 
-### #is_/same_as :: [Material.private](/_private/chemic/Material.private.md) 
+### #is_/same_as :: [Material.private](/_private/Chemistry/Material.private.md) 
 
-### #is_/same_as :: [Material.personal](/_personal/chemic/Material.personal.md) 
+### #is_/same_as :: [Material.personal](/_personal/Chemistry/Material.personal.md) 
 
-### #is_/same_as :: [Material.secret](/_secret/chemic/Material.secret.md)
+### #is_/same_as :: [Material.secret](/_secret/Chemistry/Material.secret.md)
 

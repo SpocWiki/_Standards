@@ -20,3 +20,19 @@ leaving the average(!) Person with only 1600kCal per day and the poorest were st
 This Film is deeply sad, so sad that you can hardly watch it! 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grave_of_the_Fireflies](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.md) 
+
+### #is_/same_as :: [Grave_of_the_Fireflies.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.public.md) 
+
+### #is_/same_as :: [Grave_of_the_Fireflies.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.internal.md) 
+
+### #is_/same_as :: [Grave_of_the_Fireflies.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.protect.md) 
+
+### #is_/same_as :: [Grave_of_the_Fireflies.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.private.md) 
+
+### #is_/same_as :: [Grave_of_the_Fireflies.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.personal.md) 
+
+### #is_/same_as :: [Grave_of_the_Fireflies.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.secret.md)
+

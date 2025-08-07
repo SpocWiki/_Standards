@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - email-message
 - email_message

@@ -39,3 +39,20 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Argument) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Argument](/_Standards/Society/Communication/Rethoric/Argument.md) 
+
+### #is_/same_as :: [Argument.public](/_public/Society/Communication/Rethoric/Argument.public.md) 
+
+### #is_/same_as :: [Argument.internal](/_internal/Society/Communication/Rethoric/Argument.internal.md) 
+
+### #is_/same_as :: [Argument.protect](/_protect/Society/Communication/Rethoric/Argument.protect.md) 
+
+### #is_/same_as :: [Argument.private](/_private/Society/Communication/Rethoric/Argument.private.md) 
+
+### #is_/same_as :: [Argument.personal](/_personal/Society/Communication/Rethoric/Argument.personal.md) 
+
+### #is_/same_as :: [Argument.secret](/_secret/Society/Communication/Rethoric/Argument.secret.md)
+

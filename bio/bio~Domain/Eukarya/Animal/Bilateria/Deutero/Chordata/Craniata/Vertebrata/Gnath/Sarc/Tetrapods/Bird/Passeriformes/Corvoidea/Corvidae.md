@@ -46,3 +46,20 @@ start_time: -16000000-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Corvidae) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Corvidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.md) 
+
+### #is_/same_as :: [Corvidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.public.md) 
+
+### #is_/same_as :: [Corvidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.internal.md) 
+
+### #is_/same_as :: [Corvidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.protect.md) 
+
+### #is_/same_as :: [Corvidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.private.md) 
+
+### #is_/same_as :: [Corvidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.personal.md) 
+
+### #is_/same_as :: [Corvidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae.secret.md)
+

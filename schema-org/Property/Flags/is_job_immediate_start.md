@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - job-immediate-start
 - job_immediate_start

@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: L2
 Commons_category: "Digestive system"
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'

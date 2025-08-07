@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "combustion engine"
 - "Internal combustion engine"

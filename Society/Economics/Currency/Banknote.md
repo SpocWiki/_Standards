@@ -29,3 +29,20 @@ has_id_wikidata: Q47433
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Banknote) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Banknote](/_Standards/Society/Economics/Currency/Banknote.md) 
+
+### #is_/same_as :: [Banknote.public](/_public/Society/Economics/Currency/Banknote.public.md) 
+
+### #is_/same_as :: [Banknote.internal](/_internal/Society/Economics/Currency/Banknote.internal.md) 
+
+### #is_/same_as :: [Banknote.protect](/_protect/Society/Economics/Currency/Banknote.protect.md) 
+
+### #is_/same_as :: [Banknote.private](/_private/Society/Economics/Currency/Banknote.private.md) 
+
+### #is_/same_as :: [Banknote.personal](/_personal/Society/Economics/Currency/Banknote.personal.md) 
+
+### #is_/same_as :: [Banknote.secret](/_secret/Society/Economics/Currency/Banknote.secret.md)
+

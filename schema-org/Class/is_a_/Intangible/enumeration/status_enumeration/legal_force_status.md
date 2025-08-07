@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legal-force-status
 - legal_force_status

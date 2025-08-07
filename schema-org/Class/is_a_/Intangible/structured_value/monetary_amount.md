@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - monetary-amount
 - monetary_amount

@@ -1,4 +1,4 @@
-﻿---
+---
 title: capricornia
 ---
 
@@ -100,7 +100,7 @@ Copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[capricornia](capricornia.md)) 
+### #is_/same_as :: [capricornia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.md) 
 
 ### #is_/same_as :: [capricornia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.public.md) 
 

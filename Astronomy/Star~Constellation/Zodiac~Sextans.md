@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Sextans|Zodiac~Sextans]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Sextans.public|Zodiac~Sextans.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Sextans.internal|Zodiac~Sextans.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Sextans.protect|Zodiac~Sextans.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Sextans.private|Zodiac~Sextans.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Sextans.personal|Zodiac~Sextans.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Sextans.secret|Zodiac~Sextans.secret]] 
+
+### #is_/same_as :: [Zodiac~Sextans](/_Standards/Astronomy/Star~Constellation/Zodiac~Sextans.md) 
+
+### #is_/same_as :: [Zodiac~Sextans.public](/_public/Astronomy/Star~Constellation/Zodiac~Sextans.public.md) 
+
+### #is_/same_as :: [Zodiac~Sextans.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Sextans.internal.md) 
+
+### #is_/same_as :: [Zodiac~Sextans.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Sextans.protect.md) 
+
+### #is_/same_as :: [Zodiac~Sextans.private](/_private/Astronomy/Star~Constellation/Zodiac~Sextans.private.md) 
+
+### #is_/same_as :: [Zodiac~Sextans.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Sextans.personal.md) 
+
+### #is_/same_as :: [Zodiac~Sextans.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Sextans.secret.md)
+

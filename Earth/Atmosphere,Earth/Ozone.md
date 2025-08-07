@@ -123,17 +123,17 @@ EC_number: 233-069-2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ozone](/_Standards/Earth/Ozone.md) 
+### #is_/same_as :: [Ozone](/_Standards/Earth/Atmosphere,Earth/Ozone.md) 
 
-### #is_/same_as :: [Ozone.public](/_public/Earth/Ozone.public.md) 
+### #is_/same_as :: [Ozone.public](/_public/Earth/Atmosphere,Earth/Ozone.public.md) 
 
-### #is_/same_as :: [Ozone.internal](/_internal/Earth/Ozone.internal.md) 
+### #is_/same_as :: [Ozone.internal](/_internal/Earth/Atmosphere,Earth/Ozone.internal.md) 
 
-### #is_/same_as :: [Ozone.protect](/_protect/Earth/Ozone.protect.md) 
+### #is_/same_as :: [Ozone.protect](/_protect/Earth/Atmosphere,Earth/Ozone.protect.md) 
 
-### #is_/same_as :: [Ozone.private](/_private/Earth/Ozone.private.md) 
+### #is_/same_as :: [Ozone.private](/_private/Earth/Atmosphere,Earth/Ozone.private.md) 
 
-### #is_/same_as :: [Ozone.personal](/_personal/Earth/Ozone.personal.md) 
+### #is_/same_as :: [Ozone.personal](/_personal/Earth/Atmosphere,Earth/Ozone.personal.md) 
 
-### #is_/same_as :: [Ozone.secret](/_secret/Earth/Ozone.secret.md)
+### #is_/same_as :: [Ozone.secret](/_secret/Earth/Atmosphere,Earth/Ozone.secret.md)
 

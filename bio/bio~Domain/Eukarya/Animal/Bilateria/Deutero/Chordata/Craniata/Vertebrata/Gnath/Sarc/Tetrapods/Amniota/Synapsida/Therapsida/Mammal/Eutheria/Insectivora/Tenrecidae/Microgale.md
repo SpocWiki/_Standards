@@ -1,4 +1,4 @@
-﻿---
+---
 title: Microgale
 ---
 
@@ -94,7 +94,7 @@ title: Microgale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Microgale](Microgale.md)) 
+### #is_/same_as :: [Microgale](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Microgale.md) 
 
 ### #is_/same_as :: [Microgale.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Microgale.public.md) 
 

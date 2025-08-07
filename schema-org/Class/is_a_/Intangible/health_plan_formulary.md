@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-formulary
 - health_plan_formulary

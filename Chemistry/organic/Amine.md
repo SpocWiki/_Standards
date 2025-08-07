@@ -68,3 +68,20 @@ Dewey_Decimal_Classification:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amine) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amine](/_Standards/Chemistry/organic/Amine.md) 
+
+### #is_/same_as :: [Amine.public](/_public/Chemistry/organic/Amine.public.md) 
+
+### #is_/same_as :: [Amine.internal](/_internal/Chemistry/organic/Amine.internal.md) 
+
+### #is_/same_as :: [Amine.protect](/_protect/Chemistry/organic/Amine.protect.md) 
+
+### #is_/same_as :: [Amine.private](/_private/Chemistry/organic/Amine.private.md) 
+
+### #is_/same_as :: [Amine.personal](/_personal/Chemistry/organic/Amine.personal.md) 
+
+### #is_/same_as :: [Amine.secret](/_secret/Chemistry/organic/Amine.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Arandaspida
 ---
 
@@ -118,7 +118,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Arandaspida](Arandaspida.md)) 
+### #is_/same_as :: [Arandaspida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.md) 
 
 ### #is_/same_as :: [Arandaspida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.public.md) 
 

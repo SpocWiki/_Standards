@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-page
 - item_page

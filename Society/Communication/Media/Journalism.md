@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Journalism
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 Dewey_Decimal_Classification:
@@ -72,4 +72,21 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_journalism,7112670]]'
 > than the rate of growth for digital revenues.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Journalism)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Journalism](/_Standards/Society/Communication/Media/Journalism.md) 
+
+### #is_/same_as :: [Journalism.public](/_public/Society/Communication/Media/Journalism.public.md) 
+
+### #is_/same_as :: [Journalism.internal](/_internal/Society/Communication/Media/Journalism.internal.md) 
+
+### #is_/same_as :: [Journalism.protect](/_protect/Society/Communication/Media/Journalism.protect.md) 
+
+### #is_/same_as :: [Journalism.private](/_private/Society/Communication/Media/Journalism.private.md) 
+
+### #is_/same_as :: [Journalism.personal](/_personal/Society/Communication/Media/Journalism.personal.md) 
+
+### #is_/same_as :: [Journalism.secret](/_secret/Society/Communication/Media/Journalism.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 SpocWebEntityId: 76724
@@ -33,17 +33,17 @@ Capital :: [[Hanoe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[DEMOCRATIC_REPUBLIC_OF_VIETNAM](DEMOCRATIC_REPUBLIC_OF_VIETNAM.md)) 
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM](/_Standards/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md) 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.public](/_public/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public.md) 
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.public](/_public/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public.md) 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal](/_internal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal.md) 
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal](/_internal/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal.md) 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect](/_protect/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect.md) 
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect](/_protect/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect.md) 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.private](/_private/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private.md) 
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.private](/_private/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private.md) 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal](/_personal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal.md) 
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal](/_personal/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal.md) 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret](/_secret/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md)
+### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret](/_secret/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md)
 

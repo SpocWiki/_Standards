@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pleosporomycetidae
 ---
 
@@ -30,7 +30,7 @@ Containing group:[Dothideomycetes](../Dothideomycetes.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pleosporomycetidae](Pleosporomycetidae.md)) 
+### #is_/same_as :: [Pleosporomycetidae](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Pleosporomycetidae.md) 
 
 ### #is_/same_as :: [Pleosporomycetidae.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Pleosporomycetidae.public.md) 
 

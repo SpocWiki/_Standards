@@ -1,4 +1,4 @@
-﻿---
+---
 title: Antelientomon
 ---
 
@@ -38,7 +38,7 @@ title: Antelientomon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Antelientomon](Antelientomon.md)) 
+### #is_/same_as :: [Antelientomon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.md) 
 
 ### #is_/same_as :: [Antelientomon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.public.md) 
 

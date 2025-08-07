@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - program-name
 - name_of_program

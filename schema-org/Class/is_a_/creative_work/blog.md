@@ -86,6 +86,7 @@ Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloq
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blog)
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [blog](/_Standards/schema-org/Class/is_a_/creative_work/blog.md) 

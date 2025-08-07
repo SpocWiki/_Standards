@@ -55,3 +55,20 @@ IPTC_NewsCode: mediatopic/20000541
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Board%20game) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Board_Game](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.md) 
+
+### #is_/same_as :: [Board_Game.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.public.md) 
+
+### #is_/same_as :: [Board_Game.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.internal.md) 
+
+### #is_/same_as :: [Board_Game.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.protect.md) 
+
+### #is_/same_as :: [Board_Game.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.private.md) 
+
+### #is_/same_as :: [Board_Game.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.personal.md) 
+
+### #is_/same_as :: [Board_Game.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Game/Board_Game.secret.md)
+

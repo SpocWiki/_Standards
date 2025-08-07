@@ -1,4 +1,4 @@
-﻿---
+---
 title: Entelegynae
 ---
 
@@ -75,7 +75,7 @@ Copyright ::            © [Jim Kalisch](http://entomology.unl.edu/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Entelegynae](Entelegynae.md)) 
+### #is_/same_as :: [Entelegynae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae.md) 
 
 ### #is_/same_as :: [Entelegynae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae.public.md) 
 

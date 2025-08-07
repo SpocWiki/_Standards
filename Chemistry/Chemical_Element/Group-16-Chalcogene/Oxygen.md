@@ -1,4 +1,4 @@
-﻿---
+---
 ATC_code: V03AN01
 atomic_number: 8
 CAS_Registry_Number: 17778-80-2
@@ -179,17 +179,17 @@ UNSPSC_Code: 12141904
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxygen](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.md) 
+### #is_/same_as :: [Oxygen](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.md) 
 
-### #is_/same_as :: [Oxygen.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.public.md) 
+### #is_/same_as :: [Oxygen.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.public.md) 
 
-### #is_/same_as :: [Oxygen.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.internal.md) 
+### #is_/same_as :: [Oxygen.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.internal.md) 
 
-### #is_/same_as :: [Oxygen.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.protect.md) 
+### #is_/same_as :: [Oxygen.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.protect.md) 
 
-### #is_/same_as :: [Oxygen.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.private.md) 
+### #is_/same_as :: [Oxygen.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.private.md) 
 
-### #is_/same_as :: [Oxygen.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.personal.md) 
+### #is_/same_as :: [Oxygen.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.personal.md) 
 
-### #is_/same_as :: [Oxygen.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.secret.md)
+### #is_/same_as :: [Oxygen.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - discussion-url
 - discussion_url

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "High Middle Ages"
 - "High Medieval Period"

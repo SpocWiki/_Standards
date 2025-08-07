@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-health-aspect
 - health_aspect

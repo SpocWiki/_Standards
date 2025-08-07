@@ -48,3 +48,19 @@ has_id_wikidata: Q31087
 > [Wikipedia](https://en.wikipedia.org/wiki/Calculator) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Calculator](/_Standards/Mathematics/Arithmetic/Calculator.md) 
+
+### #is_/same_as :: [Calculator.public](/_public/Mathematics/Arithmetic/Calculator.public.md) 
+
+### #is_/same_as :: [Calculator.internal](/_internal/Mathematics/Arithmetic/Calculator.internal.md) 
+
+### #is_/same_as :: [Calculator.protect](/_protect/Mathematics/Arithmetic/Calculator.protect.md) 
+
+### #is_/same_as :: [Calculator.private](/_private/Mathematics/Arithmetic/Calculator.private.md) 
+
+### #is_/same_as :: [Calculator.personal](/_personal/Mathematics/Arithmetic/Calculator.personal.md) 
+
+### #is_/same_as :: [Calculator.secret](/_secret/Mathematics/Arithmetic/Calculator.secret.md)
+

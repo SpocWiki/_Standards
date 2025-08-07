@@ -30,3 +30,20 @@ has_id_wikidata: Q177456
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Assault%20rifle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Assault_Rifle](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.md) 
+
+### #is_/same_as :: [Assault_Rifle.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.public.md) 
+
+### #is_/same_as :: [Assault_Rifle.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.internal.md) 
+
+### #is_/same_as :: [Assault_Rifle.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.protect.md) 
+
+### #is_/same_as :: [Assault_Rifle.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.private.md) 
+
+### #is_/same_as :: [Assault_Rifle.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.personal.md) 
+
+### #is_/same_as :: [Assault_Rifle.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Assault_Rifle.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - image-object-snapshot
 - image_object_snapshot

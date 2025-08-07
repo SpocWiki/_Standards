@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - online-store
 - online_store

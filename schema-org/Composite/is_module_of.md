@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - module-of
 - module_of

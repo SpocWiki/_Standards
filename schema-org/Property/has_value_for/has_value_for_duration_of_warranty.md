@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - duration_of_warranty
 - duration-of-warranty

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Caenogastropoda
 ---
 
@@ -38,7 +38,7 @@ title: Caenogastropoda
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Caenogastropoda](Caenogastropoda.md)) 
+### #is_/same_as :: [Caenogastropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda.md) 
 
 ### #is_/same_as :: [Caenogastropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda.public.md) 
 

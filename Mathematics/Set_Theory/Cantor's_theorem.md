@@ -39,3 +39,20 @@ Commons_category: Cantor's theorem
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cantor's%20theorem) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cantor's_theorem](/_Standards/Mathematics/Set_Theory/Cantor's_theorem.md) 
+
+### #is_/same_as :: [Cantor's_theorem.public](/_public/Mathematics/Set_Theory/Cantor's_theorem.public.md) 
+
+### #is_/same_as :: [Cantor's_theorem.internal](/_internal/Mathematics/Set_Theory/Cantor's_theorem.internal.md) 
+
+### #is_/same_as :: [Cantor's_theorem.protect](/_protect/Mathematics/Set_Theory/Cantor's_theorem.protect.md) 
+
+### #is_/same_as :: [Cantor's_theorem.private](/_private/Mathematics/Set_Theory/Cantor's_theorem.private.md) 
+
+### #is_/same_as :: [Cantor's_theorem.personal](/_personal/Mathematics/Set_Theory/Cantor's_theorem.personal.md) 
+
+### #is_/same_as :: [Cantor's_theorem.secret](/_secret/Mathematics/Set_Theory/Cantor's_theorem.secret.md)
+

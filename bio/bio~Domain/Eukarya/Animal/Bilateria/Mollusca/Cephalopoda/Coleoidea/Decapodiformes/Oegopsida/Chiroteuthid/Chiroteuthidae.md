@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chiroteuthidae
 ---
 
@@ -268,7 +268,7 @@ African Jour. Mar. Sci., 20: 393-420.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chiroteuthidae](Chiroteuthidae.md)) 
+### #is_/same_as :: [Chiroteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae.md) 
 
 ### #is_/same_as :: [Chiroteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae.public.md) 
 

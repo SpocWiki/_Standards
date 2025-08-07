@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Richard Attenborough"
 - "Richard Samuel Attenborough"
@@ -43,3 +43,21 @@ aliases:
 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Attenborough,Richard](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.md) 
+
+### #is_/same_as :: [Attenborough,Richard.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.public.md) 
+
+### #is_/same_as :: [Attenborough,Richard.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.internal.md) 
+
+### #is_/same_as :: [Attenborough,Richard.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.protect.md) 
+
+### #is_/same_as :: [Attenborough,Richard.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.private.md) 
+
+### #is_/same_as :: [Attenborough,Richard.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.personal.md) 
+
+### #is_/same_as :: [Attenborough,Richard.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Attenborough,Richard.secret.md)
+

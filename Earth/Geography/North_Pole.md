@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "North Pole"
 bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/IBCAO%20betamap.jpg"

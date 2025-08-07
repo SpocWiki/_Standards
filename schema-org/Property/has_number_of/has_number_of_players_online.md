@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - players-online
 - players_online

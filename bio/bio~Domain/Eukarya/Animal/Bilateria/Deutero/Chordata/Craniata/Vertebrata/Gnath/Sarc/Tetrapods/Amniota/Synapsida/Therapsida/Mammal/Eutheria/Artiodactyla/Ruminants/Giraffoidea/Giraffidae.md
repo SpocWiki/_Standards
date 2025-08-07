@@ -1,4 +1,4 @@
-﻿---
+---
 title: Giraffidae
 ---
 
@@ -88,7 +88,7 @@ Body Part            restored skeleton
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Giraffidae](Giraffidae.md)) 
+### #is_/same_as :: [Giraffidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Giraffoidea/Giraffidae.md) 
 
 ### #is_/same_as :: [Giraffidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Giraffoidea/Giraffidae.public.md) 
 

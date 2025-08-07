@@ -241,7 +241,7 @@ Sues, H. D. 1992. No paleocene mammal-like reptile. Nature 359:278-278.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Therapsida](Therapsida.md) 
+### #is_/same_as :: [Therapsida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida.md) 
 
 ### #is_/same_as :: [Therapsida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida.public.md) 
 

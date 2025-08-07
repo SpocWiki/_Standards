@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - isic-v4
 - isic_v4

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-media-review
 - associated_media_review

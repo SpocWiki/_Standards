@@ -1,4 +1,4 @@
-﻿---
+---
 title: Orbiculariae
 ---
 
@@ -161,7 +161,7 @@ America: an identification manual. American Arachnological Society,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Orbiculariae](Orbiculariae.md)) 
+### #is_/same_as :: [Orbiculariae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.md) 
 
 ### #is_/same_as :: [Orbiculariae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae.public.md) 
 

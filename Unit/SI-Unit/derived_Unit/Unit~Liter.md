@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Litre
 Commons_category: Litre

@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.11
 Commons_category: Conservatism
 Commons_gallery: Conservatism

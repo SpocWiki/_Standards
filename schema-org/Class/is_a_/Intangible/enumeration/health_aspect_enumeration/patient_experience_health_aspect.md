@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - patient-experience-health-aspect
 - patient_experience_health_aspect

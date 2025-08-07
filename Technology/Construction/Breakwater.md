@@ -24,3 +24,20 @@ has_id_wikidata: Q215635
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Breakwater%20(structure)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Breakwater](/_Standards/Technology/Construction/Breakwater.md) 
+
+### #is_/same_as :: [Breakwater.public](/_public/Technology/Construction/Breakwater.public.md) 
+
+### #is_/same_as :: [Breakwater.internal](/_internal/Technology/Construction/Breakwater.internal.md) 
+
+### #is_/same_as :: [Breakwater.protect](/_protect/Technology/Construction/Breakwater.protect.md) 
+
+### #is_/same_as :: [Breakwater.private](/_private/Technology/Construction/Breakwater.private.md) 
+
+### #is_/same_as :: [Breakwater.personal](/_personal/Technology/Construction/Breakwater.personal.md) 
+
+### #is_/same_as :: [Breakwater.secret](/_secret/Technology/Construction/Breakwater.secret.md)
+

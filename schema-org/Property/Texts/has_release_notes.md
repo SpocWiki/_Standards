@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - release-notes
 - release_notes

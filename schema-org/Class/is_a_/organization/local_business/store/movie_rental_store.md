@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - movie-rental-store
 - movie_rental_store

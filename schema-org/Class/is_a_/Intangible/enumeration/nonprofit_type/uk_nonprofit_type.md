@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - uk-nonprofit-type
 - uk_nonprofit_type

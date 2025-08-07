@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - clinical-pharmacology
 - clinical_pharmacology

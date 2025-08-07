@@ -53,4 +53,19 @@ Actors:
 | 1993             | _[Forward the Foundation](https://en.wikipedia.org/wiki/Forward_the_Foundation "Forward the Foundation")_ | —                                   |                          |                                                    |
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Foundation(Book_Series)](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).md) 
+
+### #is_/same_as :: [Foundation(Book_Series).public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).public.md) 
+
+### #is_/same_as :: [Foundation(Book_Series).internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).internal.md) 
+
+### #is_/same_as :: [Foundation(Book_Series).protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).protect.md) 
+
+### #is_/same_as :: [Foundation(Book_Series).private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).private.md) 
+
+### #is_/same_as :: [Foundation(Book_Series).personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).personal.md) 
+
+### #is_/same_as :: [Foundation(Book_Series).secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov/Foundation(Book_Series).secret.md)
 

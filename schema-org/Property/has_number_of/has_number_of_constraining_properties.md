@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - constraining-property
 - constraining_property

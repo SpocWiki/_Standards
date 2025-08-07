@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - supporting-data
 - supporting_data

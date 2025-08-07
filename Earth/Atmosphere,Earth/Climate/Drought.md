@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Drought
 described_by_source:
 - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
@@ -70,17 +70,17 @@ U_S_National_Archives_Identifier: 10640804
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drought](/_Standards/Earth/Atmosphere/Climate/Drought.md) 
+### #is_/same_as :: [Drought](/_Standards/Earth/Atmosphere,Earth/Climate/Drought.md) 
 
-### #is_/same_as :: [Drought.public](/_public/Earth/Atmosphere/Climate/Drought.public.md) 
+### #is_/same_as :: [Drought.public](/_public/Earth/Atmosphere,Earth/Climate/Drought.public.md) 
 
-### #is_/same_as :: [Drought.internal](/_internal/Earth/Atmosphere/Climate/Drought.internal.md) 
+### #is_/same_as :: [Drought.internal](/_internal/Earth/Atmosphere,Earth/Climate/Drought.internal.md) 
 
-### #is_/same_as :: [Drought.protect](/_protect/Earth/Atmosphere/Climate/Drought.protect.md) 
+### #is_/same_as :: [Drought.protect](/_protect/Earth/Atmosphere,Earth/Climate/Drought.protect.md) 
 
-### #is_/same_as :: [Drought.private](/_private/Earth/Atmosphere/Climate/Drought.private.md) 
+### #is_/same_as :: [Drought.private](/_private/Earth/Atmosphere,Earth/Climate/Drought.private.md) 
 
-### #is_/same_as :: [Drought.personal](/_personal/Earth/Atmosphere/Climate/Drought.personal.md) 
+### #is_/same_as :: [Drought.personal](/_personal/Earth/Atmosphere,Earth/Climate/Drought.personal.md) 
 
-### #is_/same_as :: [Drought.secret](/_secret/Earth/Atmosphere/Climate/Drought.secret.md)
+### #is_/same_as :: [Drought.secret](/_secret/Earth/Atmosphere,Earth/Climate/Drought.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unemployment-support
 - unemployment_support

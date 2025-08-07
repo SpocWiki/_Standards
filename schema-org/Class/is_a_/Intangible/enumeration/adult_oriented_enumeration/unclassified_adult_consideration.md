@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unclassified-adult-consideration
 - unclassified_adult_consideration

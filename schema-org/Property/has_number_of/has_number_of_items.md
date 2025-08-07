@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number-of-items
 - number_of_items

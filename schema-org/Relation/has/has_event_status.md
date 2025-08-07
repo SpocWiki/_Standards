@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-status
 - event_status

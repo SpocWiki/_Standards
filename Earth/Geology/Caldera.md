@@ -25,3 +25,20 @@ OpenStreetMap_tag_or_key: Tag:geological=volcanic_caldera_rim
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caldera) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caldera](/_Standards/Earth/Geology/Caldera.md) 
+
+### #is_/same_as :: [Caldera.public](/_public/Earth/Geology/Caldera.public.md) 
+
+### #is_/same_as :: [Caldera.internal](/_internal/Earth/Geology/Caldera.internal.md) 
+
+### #is_/same_as :: [Caldera.protect](/_protect/Earth/Geology/Caldera.protect.md) 
+
+### #is_/same_as :: [Caldera.private](/_private/Earth/Geology/Caldera.private.md) 
+
+### #is_/same_as :: [Caldera.personal](/_personal/Earth/Geology/Caldera.personal.md) 
+
+### #is_/same_as :: [Caldera.secret](/_secret/Earth/Geology/Caldera.secret.md)
+

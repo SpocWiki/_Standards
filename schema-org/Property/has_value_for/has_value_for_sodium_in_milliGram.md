@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sodium_in_gram
 - sodium-content

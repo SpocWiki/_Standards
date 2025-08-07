@@ -1,4 +1,4 @@
-﻿---
+---
 title: Russulales
 ---
 
@@ -35,7 +35,7 @@ Containing group:[Agaricomycetes](../Agaricomycetes.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Russulales](Russulales.md)) 
+### #is_/same_as :: [Russulales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.md) 
 
 ### #is_/same_as :: [Russulales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.public.md) 
 

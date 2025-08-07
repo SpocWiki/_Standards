@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ben Kingsley"
 ---
@@ -41,4 +41,21 @@ aliases:
 > Kingsley lent his voice to the films The Boxtrolls (2014), and The Jungle Book (2016).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ben%20Kingsley)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kingsley,Ben](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.md) 
+
+### #is_/same_as :: [Kingsley,Ben.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.public.md) 
+
+### #is_/same_as :: [Kingsley,Ben.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.internal.md) 
+
+### #is_/same_as :: [Kingsley,Ben.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.protect.md) 
+
+### #is_/same_as :: [Kingsley,Ben.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.private.md) 
+
+### #is_/same_as :: [Kingsley,Ben.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.personal.md) 
+
+### #is_/same_as :: [Kingsley,Ben.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Kingsley,Ben.secret.md)
 

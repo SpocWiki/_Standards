@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - on-site-pickup
 - on_site_pickup

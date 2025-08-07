@@ -1,4 +1,4 @@
-﻿---
+---
 title: Araneomorphae
 ---
 
@@ -55,7 +55,7 @@ Photograph copyright © Jim Kalisch, [Department of Entomology,     University o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Araneomorphae](Araneomorphae.md)) 
+### #is_/same_as :: [Araneomorphae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae.md) 
 
 ### #is_/same_as :: [Araneomorphae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae.public.md) 
 

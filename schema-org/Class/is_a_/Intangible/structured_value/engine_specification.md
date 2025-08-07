@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - engine-specification
 - engine_specification

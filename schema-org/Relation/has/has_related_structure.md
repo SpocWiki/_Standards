@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-structure
 - related_structure

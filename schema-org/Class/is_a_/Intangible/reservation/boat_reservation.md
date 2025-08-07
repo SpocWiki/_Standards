@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - boat-reservation
 - boat_reservation

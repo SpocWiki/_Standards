@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Felix Christian Klein"
 - "Felix Klein"
@@ -215,4 +215,21 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > at the Fourth International Congress of Mathematicians in Rome.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Felix%20Klein) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Klein,Felix](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.md) 
+
+### #is_/same_as :: [Klein,Felix.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.public.md) 
+
+### #is_/same_as :: [Klein,Felix.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.internal.md) 
+
+### #is_/same_as :: [Klein,Felix.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.protect.md) 
+
+### #is_/same_as :: [Klein,Felix.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.private.md) 
+
+### #is_/same_as :: [Klein,Felix.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.personal.md) 
+
+### #is_/same_as :: [Klein,Felix.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Klein,Felix.secret.md)
 

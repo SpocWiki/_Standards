@@ -54,3 +54,21 @@ P8189: "987007550891605171"
 > The quark model was independently proposed by physicists Murray Gell-Mann and George Zweig in 1964. Quarks were introduced as parts of an ordering scheme for hadrons, and there was little evidence for their physical existence until deep inelastic scattering experiments at the Stanford Linear Accelerator Center in 1968. Accelerator program experiments have provided evidence for all six flavors. The top quark, first observed at Fermilab in 1995, was the last to be discovered.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quark)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.md) 
+
+### #is_/same_as :: [Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.public.md) 
+
+### #is_/same_as :: [Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.internal.md) 
+
+### #is_/same_as :: [Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.protect.md) 
+
+### #is_/same_as :: [Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.private.md) 
+
+### #is_/same_as :: [Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.personal.md) 
+
+### #is_/same_as :: [Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepiella
 ---
 
@@ -108,7 +108,7 @@ Africa. Annals of the South African Museum, 59(10):193-313.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepiella](Sepiella.md)) 
+### #is_/same_as :: [Sepiella](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Sepiella.md) 
 
 ### #is_/same_as :: [Sepiella.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Sepiella.public.md) 
 

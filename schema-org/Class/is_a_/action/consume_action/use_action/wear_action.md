@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wear-action
 - wear_action

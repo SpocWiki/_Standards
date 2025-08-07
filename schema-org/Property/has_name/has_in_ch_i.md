@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-ch-i
 - in_ch_i

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis mega"
 ---
 
@@ -156,7 +156,7 @@ waters. Ann. South African Mus., 50: 61-88.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[mega](mega.md)) 
+### #is_/same_as :: [mega](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.md) 
 
 ### #is_/same_as :: [mega.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.public.md) 
 

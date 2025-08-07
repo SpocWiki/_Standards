@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-type-enumeration
 - body_measurement_type_enumeration

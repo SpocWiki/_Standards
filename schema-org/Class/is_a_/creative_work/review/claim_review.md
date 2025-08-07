@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - claim-review
 - claim_review

@@ -55,3 +55,20 @@ Commons_category: Bit and byte
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Byte) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Byte](/_Standards/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.md) 
+
+### #is_/same_as :: [Byte.public](/_public/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.public.md) 
+
+### #is_/same_as :: [Byte.internal](/_internal/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.internal.md) 
+
+### #is_/same_as :: [Byte.protect](/_protect/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.protect.md) 
+
+### #is_/same_as :: [Byte.private](/_private/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.private.md) 
+
+### #is_/same_as :: [Byte.personal](/_personal/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.personal.md) 
+
+### #is_/same_as :: [Byte.secret](/_secret/Mathematics/Number/Numeral_System/Binary_numeral_System/Byte.secret.md)
+

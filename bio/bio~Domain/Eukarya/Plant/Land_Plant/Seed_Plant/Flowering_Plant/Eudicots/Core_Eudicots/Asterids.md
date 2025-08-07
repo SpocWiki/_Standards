@@ -1,4 +1,4 @@
-﻿---
+---
 title: Asterids
 ---
 
@@ -79,17 +79,17 @@ Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Asterids](Asterids.md)) 
+### #is_/same_as :: [Asterids](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.md) 
 
-### #is_/same_as :: [Asterids.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.public.md) 
+### #is_/same_as :: [Asterids.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.public.md) 
 
-### #is_/same_as :: [Asterids.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.internal.md) 
+### #is_/same_as :: [Asterids.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.internal.md) 
 
-### #is_/same_as :: [Asterids.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.protect.md) 
+### #is_/same_as :: [Asterids.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.protect.md) 
 
-### #is_/same_as :: [Asterids.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.private.md) 
+### #is_/same_as :: [Asterids.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.private.md) 
 
-### #is_/same_as :: [Asterids.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.personal.md) 
+### #is_/same_as :: [Asterids.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.personal.md) 
 
-### #is_/same_as :: [Asterids.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.secret.md)
+### #is_/same_as :: [Asterids.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 89
 canonical_SMILES: '[Ac]'
 CAS_Registry_Number: 7440-34-8
@@ -120,17 +120,17 @@ UNII: NIK1K0956U
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Actinium.md) 
+### #is_/same_as :: [Actinium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Actinium.md) 
 
-### #is_/same_as :: [Actinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Actinium.public.md) 
+### #is_/same_as :: [Actinium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Actinium.public.md) 
 
-### #is_/same_as :: [Actinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Actinium.internal.md) 
+### #is_/same_as :: [Actinium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Actinium.internal.md) 
 
-### #is_/same_as :: [Actinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Actinium.protect.md) 
+### #is_/same_as :: [Actinium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Actinium.protect.md) 
 
-### #is_/same_as :: [Actinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Actinium.private.md) 
+### #is_/same_as :: [Actinium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Actinium.private.md) 
 
-### #is_/same_as :: [Actinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Actinium.personal.md) 
+### #is_/same_as :: [Actinium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Actinium.personal.md) 
 
-### #is_/same_as :: [Actinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Actinium.secret.md)
+### #is_/same_as :: [Actinium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Actinium.secret.md)
 

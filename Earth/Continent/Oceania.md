@@ -1,4 +1,4 @@
-﻿---
+---
 area: 9000000
 bathymetry_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Oceania%20satellite%20map.jpg"
 BHCL_UUID: b5efc949-58ad-4000-8e2b-a6c9962b9eca

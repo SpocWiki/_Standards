@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Africa
 area: 30271000
 Baidu_Tieba_name: 非洲

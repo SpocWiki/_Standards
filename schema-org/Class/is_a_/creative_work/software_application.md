@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - software-application
 - software_application

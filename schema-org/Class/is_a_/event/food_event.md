@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - food-event
 - food_event

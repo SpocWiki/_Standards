@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ancyromonas sigmoides"
 ---
 
@@ -74,7 +74,7 @@ London.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sigmoides](sigmoides.md)) 
+### #is_/same_as :: [sigmoides](/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.md) 
 
 ### #is_/same_as :: [sigmoides.public](/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas/sigmoides.public.md) 
 

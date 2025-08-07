@@ -57,3 +57,20 @@ Commons_category: Berries
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Berry) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Berry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.md) 
+
+### #is_/same_as :: [Berry.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.public.md) 
+
+### #is_/same_as :: [Berry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.internal.md) 
+
+### #is_/same_as :: [Berry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.protect.md) 
+
+### #is_/same_as :: [Berry.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.private.md) 
+
+### #is_/same_as :: [Berry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.personal.md) 
+
+### #is_/same_as :: [Berry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Berry.secret.md)
+

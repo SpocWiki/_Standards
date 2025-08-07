@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - disease-prevention-info
 - disease_prevention_info

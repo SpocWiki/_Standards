@@ -1,4 +1,4 @@
-﻿---
+---
 activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_photos,51728721]]'
 aliases:
 - "Taj Mahal"

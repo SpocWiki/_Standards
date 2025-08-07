@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - co-op
 - co_op

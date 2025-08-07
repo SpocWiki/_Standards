@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pterotracheidae
 ---
 
@@ -122,7 +122,7 @@ Copyright ::            © [Roger R. Seapy](mailto:rseapy@fullerton.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pterotracheidae](Pterotracheidae.md)) 
+### #is_/same_as :: [Pterotracheidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.md) 
 
 ### #is_/same_as :: [Pterotracheidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae.public.md) 
 

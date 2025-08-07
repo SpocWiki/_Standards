@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vegan-diet
 - vegan_diet

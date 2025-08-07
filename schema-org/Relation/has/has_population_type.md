@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - population-type
 - population_type

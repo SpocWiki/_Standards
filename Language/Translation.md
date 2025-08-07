@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 翻译
 Commons_category: Translation
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'

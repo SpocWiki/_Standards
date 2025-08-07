@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lacistemataceae
 ---
 
@@ -106,17 +106,17 @@ Copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:pa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lacistemataceae](Lacistemataceae.md)) 
+### #is_/same_as :: [Lacistemataceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.md) 
 
-### #is_/same_as :: [Lacistemataceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.public.md) 
+### #is_/same_as :: [Lacistemataceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.public.md) 
 
-### #is_/same_as :: [Lacistemataceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.internal.md) 
+### #is_/same_as :: [Lacistemataceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.internal.md) 
 
-### #is_/same_as :: [Lacistemataceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.protect.md) 
+### #is_/same_as :: [Lacistemataceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.protect.md) 
 
-### #is_/same_as :: [Lacistemataceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.private.md) 
+### #is_/same_as :: [Lacistemataceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.private.md) 
 
-### #is_/same_as :: [Lacistemataceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.personal.md) 
+### #is_/same_as :: [Lacistemataceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.personal.md) 
 
-### #is_/same_as :: [Lacistemataceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.secret.md)
+### #is_/same_as :: [Lacistemataceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.secret.md)
 

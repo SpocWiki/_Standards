@@ -131,4 +131,19 @@ Libris_URI: 0xbdf66j3xfhnj9
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexis%20de%20Tocqueville)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tocqueville,Alexis_de](/_Standards/Society/Politics/French_Politics/Tocqueville,Alexis_de.md) 
+
+### #is_/same_as :: [Tocqueville,Alexis_de.public](/_public/Society/Politics/French_Politics/Tocqueville,Alexis_de.public.md) 
+
+### #is_/same_as :: [Tocqueville,Alexis_de.internal](/_internal/Society/Politics/French_Politics/Tocqueville,Alexis_de.internal.md) 
+
+### #is_/same_as :: [Tocqueville,Alexis_de.protect](/_protect/Society/Politics/French_Politics/Tocqueville,Alexis_de.protect.md) 
+
+### #is_/same_as :: [Tocqueville,Alexis_de.private](/_private/Society/Politics/French_Politics/Tocqueville,Alexis_de.private.md) 
+
+### #is_/same_as :: [Tocqueville,Alexis_de.personal](/_personal/Society/Politics/French_Politics/Tocqueville,Alexis_de.personal.md) 
+
+### #is_/same_as :: [Tocqueville,Alexis_de.secret](/_secret/Society/Politics/French_Politics/Tocqueville,Alexis_de.secret.md)
 

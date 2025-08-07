@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exercise-plan
 - exercise_plan

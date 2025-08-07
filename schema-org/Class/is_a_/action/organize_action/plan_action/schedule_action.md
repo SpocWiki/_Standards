@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - schedule-action
 - schedule_action

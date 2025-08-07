@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Durante di Alighiero degli Alighieri"
 - "Dante Alighieri"

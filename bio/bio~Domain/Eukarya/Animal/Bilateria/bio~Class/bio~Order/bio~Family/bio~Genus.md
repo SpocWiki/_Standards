@@ -64,7 +64,7 @@ short_name: g.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bio~Genus](bio~Genus.md)) 
+### #is_/same_as :: [bio~Genus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.md) 
 
 ### #is_/same_as :: [bio~Genus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.public.md) 
 

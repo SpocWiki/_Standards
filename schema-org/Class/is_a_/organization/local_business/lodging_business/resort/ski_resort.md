@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ski-resort
 - ski_resort

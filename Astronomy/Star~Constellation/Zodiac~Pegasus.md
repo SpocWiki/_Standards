@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Pegasus|Zodiac~Pegasus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Pegasus.public|Zodiac~Pegasus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Pegasus.internal|Zodiac~Pegasus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Pegasus.protect|Zodiac~Pegasus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Pegasus.private|Zodiac~Pegasus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Pegasus.personal|Zodiac~Pegasus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Pegasus.secret|Zodiac~Pegasus.secret]] 
+
+### #is_/same_as :: [Zodiac~Pegasus](/_Standards/Astronomy/Star~Constellation/Zodiac~Pegasus.md) 
+
+### #is_/same_as :: [Zodiac~Pegasus.public](/_public/Astronomy/Star~Constellation/Zodiac~Pegasus.public.md) 
+
+### #is_/same_as :: [Zodiac~Pegasus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pegasus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Pegasus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pegasus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Pegasus.private](/_private/Astronomy/Star~Constellation/Zodiac~Pegasus.private.md) 
+
+### #is_/same_as :: [Zodiac~Pegasus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pegasus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Pegasus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pegasus.secret.md)
+

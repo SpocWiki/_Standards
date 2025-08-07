@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nutrition-information
 - nutrition_information

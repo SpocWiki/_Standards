@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Towers
 Commons_gallery: Tower
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - home-team
 - home_team

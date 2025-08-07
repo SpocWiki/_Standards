@@ -6,7 +6,7 @@ tags:
   - astro/Zodiac
 type: Zodiac
 aliases:
-  - Großer Hund
+  - Gro�er Hund
 has_id_wikidata: Q10538
 ---
 
@@ -39,10 +39,18 @@ has_id_wikidata: Q10538
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Canis_Major|Zodiac~Canis_Major]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Canis_Major.public|Zodiac~Canis_Major.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Canis_Major.internal|Zodiac~Canis_Major.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Canis_Major.protect|Zodiac~Canis_Major.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Canis_Major.private|Zodiac~Canis_Major.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Canis_Major.personal|Zodiac~Canis_Major.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Canis_Major.secret|Zodiac~Canis_Major.secret]] 
+
+### #is_/same_as :: [Zodiac~Canis_Major](/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Major.md) 
+
+### #is_/same_as :: [Zodiac~Canis_Major.public](/_public/Astronomy/Star~Constellation/Zodiac~Canis_Major.public.md) 
+
+### #is_/same_as :: [Zodiac~Canis_Major.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Major.internal.md) 
+
+### #is_/same_as :: [Zodiac~Canis_Major.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Major.protect.md) 
+
+### #is_/same_as :: [Zodiac~Canis_Major.private](/_private/Astronomy/Star~Constellation/Zodiac~Canis_Major.private.md) 
+
+### #is_/same_as :: [Zodiac~Canis_Major.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Major.personal.md) 
+
+### #is_/same_as :: [Zodiac~Canis_Major.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Major.secret.md)
+

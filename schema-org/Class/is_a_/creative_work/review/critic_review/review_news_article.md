@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - review-news-article
 - review_news_article

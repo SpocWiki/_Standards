@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Peter Shaffer"
 - "Sir Peter Levin Shaffer"
@@ -19,4 +19,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Shaffer)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shaffer,Peter](/_Standards/Society/Communication/Media/Book/Author/Shaffer,Peter.md) 
+
+### #is_/same_as :: [Shaffer,Peter.public](/_public/Society/Communication/Media/Book/Author/Shaffer,Peter.public.md) 
+
+### #is_/same_as :: [Shaffer,Peter.internal](/_internal/Society/Communication/Media/Book/Author/Shaffer,Peter.internal.md) 
+
+### #is_/same_as :: [Shaffer,Peter.protect](/_protect/Society/Communication/Media/Book/Author/Shaffer,Peter.protect.md) 
+
+### #is_/same_as :: [Shaffer,Peter.private](/_private/Society/Communication/Media/Book/Author/Shaffer,Peter.private.md) 
+
+### #is_/same_as :: [Shaffer,Peter.personal](/_personal/Society/Communication/Media/Book/Author/Shaffer,Peter.personal.md) 
+
+### #is_/same_as :: [Shaffer,Peter.secret](/_secret/Society/Communication/Media/Book/Author/Shaffer,Peter.secret.md)
 

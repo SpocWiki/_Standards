@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Leonardo di ser Piero da Vinci"
 - "Leonardo da Vinci"

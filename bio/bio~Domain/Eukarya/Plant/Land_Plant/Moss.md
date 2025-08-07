@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bryophyta
 - Moss
@@ -333,17 +333,17 @@ Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/acad
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Moss](Moss.md)) 
+### #is_/same_as :: [Moss](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.md) 
 
-### #is_/same_as :: [Moss.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Moss.public.md) 
+### #is_/same_as :: [Moss.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.public.md) 
 
-### #is_/same_as :: [Moss.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Moss.internal.md) 
+### #is_/same_as :: [Moss.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.internal.md) 
 
-### #is_/same_as :: [Moss.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Moss.protect.md) 
+### #is_/same_as :: [Moss.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.protect.md) 
 
-### #is_/same_as :: [Moss.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Moss.private.md) 
+### #is_/same_as :: [Moss.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.private.md) 
 
-### #is_/same_as :: [Moss.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Moss.personal.md) 
+### #is_/same_as :: [Moss.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.personal.md) 
 
-### #is_/same_as :: [Moss.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Moss.secret.md)
+### #is_/same_as :: [Moss.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Moss.secret.md)
 

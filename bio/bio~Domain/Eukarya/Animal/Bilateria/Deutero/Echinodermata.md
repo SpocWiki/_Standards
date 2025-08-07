@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - echinoderm
 title: Echinodermata
@@ -278,7 +278,7 @@ Copyright ::            © 1997 [Katja Schulz](mailto:treegrow@ag.arizona.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Echinodermata](Echinodermata.md)) 
+### #is_/same_as :: [Echinodermata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.md) 
 
 ### #is_/same_as :: [Echinodermata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.public.md) 
 

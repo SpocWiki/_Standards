@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - landmarks-or-historical-buildings
 - landmarks_or_historical_buildings

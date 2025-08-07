@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Eurypterids
 - "sea scorpion"
@@ -111,7 +111,7 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sea_Scorpion](Sea_Scorpion.md)) 
+### #is_/same_as :: [Sea_Scorpion](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.md) 
 
 ### #is_/same_as :: [Sea_Scorpion.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.public.md) 
 

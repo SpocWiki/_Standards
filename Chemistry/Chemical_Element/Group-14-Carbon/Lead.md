@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~lead_poisoning,110315]]'
 atomic_number: 82
 boiling_point:
@@ -175,17 +175,17 @@ Due to the large Silver Refining in the Roman Empire, it is likely that it was d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lead](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Lead.md) 
+### #is_/same_as :: [Lead](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Lead.md) 
 
-### #is_/same_as :: [Lead.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Lead.public.md) 
+### #is_/same_as :: [Lead.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Lead.public.md) 
 
-### #is_/same_as :: [Lead.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Lead.internal.md) 
+### #is_/same_as :: [Lead.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Lead.internal.md) 
 
-### #is_/same_as :: [Lead.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Lead.protect.md) 
+### #is_/same_as :: [Lead.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Lead.protect.md) 
 
-### #is_/same_as :: [Lead.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Lead.private.md) 
+### #is_/same_as :: [Lead.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Lead.private.md) 
 
-### #is_/same_as :: [Lead.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Lead.personal.md) 
+### #is_/same_as :: [Lead.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Lead.personal.md) 
 
-### #is_/same_as :: [Lead.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Lead.secret.md)
+### #is_/same_as :: [Lead.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Lead.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robert Redford"
 - "Charles Robert Redford Jr."
@@ -47,4 +47,21 @@ aliases:
 > he has been an executive producer on the television series Dark Winds since 2022.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Redford) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Redford,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.md) 
+
+### #is_/same_as :: [Redford,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.public.md) 
+
+### #is_/same_as :: [Redford,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.internal.md) 
+
+### #is_/same_as :: [Redford,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.protect.md) 
+
+### #is_/same_as :: [Redford,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.private.md) 
+
+### #is_/same_as :: [Redford,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.personal.md) 
+
+### #is_/same_as :: [Redford,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.secret.md)
 

@@ -259,17 +259,17 @@ of animals and their sibling groups within the broader context of eukaryotic div
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Animals](Animals.md) 
+### #is_/same_as :: [Animal](/_Standards/bio/bio~Domain/Eukarya/Animal.md) 
 
-### #is_/same_as :: [Animals.public](/_public/bio/bio~Domain/Eukarya/Animals.public.md) 
+### #is_/same_as :: [Animal.public](/_public/bio/bio~Domain/Eukarya/Animal.public.md) 
 
-### #is_/same_as :: [Animals.internal](/_internal/bio/bio~Domain/Eukarya/Animals.internal.md) 
+### #is_/same_as :: [Animal.internal](/_internal/bio/bio~Domain/Eukarya/Animal.internal.md) 
 
-### #is_/same_as :: [Animals.protect](/_protect/bio/bio~Domain/Eukarya/Animals.protect.md) 
+### #is_/same_as :: [Animal.protect](/_protect/bio/bio~Domain/Eukarya/Animal.protect.md) 
 
-### #is_/same_as :: [Animals.private](/_private/bio/bio~Domain/Eukarya/Animals.private.md) 
+### #is_/same_as :: [Animal.private](/_private/bio/bio~Domain/Eukarya/Animal.private.md) 
 
-### #is_/same_as :: [Animals.personal](/_personal/bio/bio~Domain/Eukarya/Animals.personal.md) 
+### #is_/same_as :: [Animal.personal](/_personal/bio/bio~Domain/Eukarya/Animal.personal.md) 
 
-### #is_/same_as :: [Animals.secret](/_secret/bio/bio~Domain/Eukarya/Animals.secret.md)
+### #is_/same_as :: [Animal.secret](/_secret/bio/bio~Domain/Eukarya/Animal.secret.md)
 

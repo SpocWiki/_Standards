@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cyrillic script"
 based_on: '[[_Standards/WikiData/WD~Greek_alphabet,8216]]'

@@ -92,3 +92,20 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATOMNAYA_MASSA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atomic%20mass) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atomic_Mass](/_Standards/Science/Physics/Atom/Atomic_Mass.md) 
+
+### #is_/same_as :: [Atomic_Mass.public](/_public/Science/Physics/Atom/Atomic_Mass.public.md) 
+
+### #is_/same_as :: [Atomic_Mass.internal](/_internal/Science/Physics/Atom/Atomic_Mass.internal.md) 
+
+### #is_/same_as :: [Atomic_Mass.protect](/_protect/Science/Physics/Atom/Atomic_Mass.protect.md) 
+
+### #is_/same_as :: [Atomic_Mass.private](/_private/Science/Physics/Atom/Atomic_Mass.private.md) 
+
+### #is_/same_as :: [Atomic_Mass.personal](/_personal/Science/Physics/Atom/Atomic_Mass.personal.md) 
+
+### #is_/same_as :: [Atomic_Mass.secret](/_secret/Science/Physics/Atom/Atomic_Mass.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - study-subject
 - study_subject

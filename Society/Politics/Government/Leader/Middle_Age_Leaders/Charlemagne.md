@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Charlemagne
 appointed_by: '[[_Standards/WikiData/WD~Leo_III,132086]]'
@@ -166,17 +166,17 @@ unmarried_partner:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Charlemagne](Charlemagne.md)) 
+### #is_/same_as :: [Charlemagne](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.md) 
 
-### #is_/same_as :: [Charlemagne.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.public.md) 
+### #is_/same_as :: [Charlemagne.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.public.md) 
 
-### #is_/same_as :: [Charlemagne.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.internal.md) 
+### #is_/same_as :: [Charlemagne.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.internal.md) 
 
-### #is_/same_as :: [Charlemagne.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.protect.md) 
+### #is_/same_as :: [Charlemagne.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.protect.md) 
 
-### #is_/same_as :: [Charlemagne.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.private.md) 
+### #is_/same_as :: [Charlemagne.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.private.md) 
 
-### #is_/same_as :: [Charlemagne.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.personal.md) 
+### #is_/same_as :: [Charlemagne.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.personal.md) 
 
-### #is_/same_as :: [Charlemagne.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Charlemagne.secret.md)
+### #is_/same_as :: [Charlemagne.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.secret.md)
 

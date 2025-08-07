@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - encodes-bio-chem-entity
 - encoding_bio_chem_entity

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-order
 - part_of_order

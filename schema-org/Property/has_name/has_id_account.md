@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - account-id
 - id_account

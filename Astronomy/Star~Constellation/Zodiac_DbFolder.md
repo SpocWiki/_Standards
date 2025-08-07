@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -182,3 +182,21 @@ filters:
   enabled: false
   conditions:
 ```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Zodiac_DbFolder](/_Standards/Astronomy/Star~Constellation/Zodiac_DbFolder.md) 
+
+### #is_/same_as :: [Zodiac_DbFolder.public](/_public/Astronomy/Star~Constellation/Zodiac_DbFolder.public.md) 
+
+### #is_/same_as :: [Zodiac_DbFolder.internal](/_internal/Astronomy/Star~Constellation/Zodiac_DbFolder.internal.md) 
+
+### #is_/same_as :: [Zodiac_DbFolder.protect](/_protect/Astronomy/Star~Constellation/Zodiac_DbFolder.protect.md) 
+
+### #is_/same_as :: [Zodiac_DbFolder.private](/_private/Astronomy/Star~Constellation/Zodiac_DbFolder.private.md) 
+
+### #is_/same_as :: [Zodiac_DbFolder.personal](/_personal/Astronomy/Star~Constellation/Zodiac_DbFolder.personal.md) 
+
+### #is_/same_as :: [Zodiac_DbFolder.secret](/_secret/Astronomy/Star~Constellation/Zodiac_DbFolder.secret.md)
+

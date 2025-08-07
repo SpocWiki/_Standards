@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Parthenon.stl"
 architect:
 - '[[_Standards/WikiData/WD~Callicrates,114112]]'

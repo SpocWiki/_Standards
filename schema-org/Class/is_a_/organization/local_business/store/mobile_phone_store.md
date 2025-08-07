@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mobile-phone-store
 - mobile_phone_store

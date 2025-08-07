@@ -53,3 +53,19 @@ Library_of_Congress_Classification: JF1501
 > [Wikipedia](https://en.wikipedia.org/wiki/Bureaucracy) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bureaucracy](/_Standards/Society/Law/Bureaucracy.md) 
+
+### #is_/same_as :: [Bureaucracy.public](/_public/Society/Law/Bureaucracy.public.md) 
+
+### #is_/same_as :: [Bureaucracy.internal](/_internal/Society/Law/Bureaucracy.internal.md) 
+
+### #is_/same_as :: [Bureaucracy.protect](/_protect/Society/Law/Bureaucracy.protect.md) 
+
+### #is_/same_as :: [Bureaucracy.private](/_private/Society/Law/Bureaucracy.private.md) 
+
+### #is_/same_as :: [Bureaucracy.personal](/_personal/Society/Law/Bureaucracy.personal.md) 
+
+### #is_/same_as :: [Bureaucracy.secret](/_secret/Society/Law/Bureaucracy.secret.md)
+

@@ -25,3 +25,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Shockley)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Shockley,William](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.md) 
+
+### #is_/same_as :: [Shockley,William.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.public.md) 
+
+### #is_/same_as :: [Shockley,William.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.internal.md) 
+
+### #is_/same_as :: [Shockley,William.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.protect.md) 
+
+### #is_/same_as :: [Shockley,William.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.private.md) 
+
+### #is_/same_as :: [Shockley,William.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.personal.md) 
+
+### #is_/same_as :: [Shockley,William.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Shockley,William.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 academic_thesis: '[[_Standards/WikiData/WD~Über_die_Vollständigkeit_des_Logikkalküls,109450144]]'
 ACM_Classification_Code_2012_: 10011419
 aliases:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Johannes Gutenberg"
 - "Johannes Gensfleisch"

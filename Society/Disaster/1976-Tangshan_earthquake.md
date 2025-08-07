@@ -26,5 +26,19 @@ has_id_wikidata: Q462195
 > [Wikipedia](https://en.wikipedia.org/wiki/1976%20Tangshan%20earthquake) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [1976-Tangshan_earthquake](/_Standards/Society/Disaster/1976-Tangshan_earthquake.md) 
+
+### #is_/same_as :: [1976-Tangshan_earthquake.public](/_public/Society/Disaster/1976-Tangshan_earthquake.public.md) 
+
+### #is_/same_as :: [1976-Tangshan_earthquake.internal](/_internal/Society/Disaster/1976-Tangshan_earthquake.internal.md) 
+
+### #is_/same_as :: [1976-Tangshan_earthquake.protect](/_protect/Society/Disaster/1976-Tangshan_earthquake.protect.md) 
+
+### #is_/same_as :: [1976-Tangshan_earthquake.private](/_private/Society/Disaster/1976-Tangshan_earthquake.private.md) 
+
+### #is_/same_as :: [1976-Tangshan_earthquake.personal](/_personal/Society/Disaster/1976-Tangshan_earthquake.personal.md) 
+
+### #is_/same_as :: [1976-Tangshan_earthquake.secret](/_secret/Society/Disaster/1976-Tangshan_earthquake.secret.md)
 

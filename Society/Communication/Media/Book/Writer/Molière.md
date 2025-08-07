@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jean-Baptiste Poquelin"
 ArhivX_LOD: 4236

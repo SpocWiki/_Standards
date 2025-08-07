@@ -1,4 +1,4 @@
-﻿---
+---
 active_ingredient_in:
 - '[[_Standards/WikiData/WD~Intrinsa,29006008]]'
 - '[[_Standards/WikiData/WD~Livensa,29006138]]'
@@ -153,17 +153,17 @@ ZVG_number: 492352
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Testosterone](/_Standards/chemic/organic/Biochemistry/Hormone/Testosterone.md) 
+### #is_/same_as :: [Testosterone](/_Standards/Chemistry/organic/Biochemistry/Hormone/Testosterone.md) 
 
-### #is_/same_as :: [Testosterone.public](/_public/chemic/organic/Biochemistry/Hormone/Testosterone.public.md) 
+### #is_/same_as :: [Testosterone.public](/_public/Chemistry/organic/Biochemistry/Hormone/Testosterone.public.md) 
 
-### #is_/same_as :: [Testosterone.internal](/_internal/chemic/organic/Biochemistry/Hormone/Testosterone.internal.md) 
+### #is_/same_as :: [Testosterone.internal](/_internal/Chemistry/organic/Biochemistry/Hormone/Testosterone.internal.md) 
 
-### #is_/same_as :: [Testosterone.protect](/_protect/chemic/organic/Biochemistry/Hormone/Testosterone.protect.md) 
+### #is_/same_as :: [Testosterone.protect](/_protect/Chemistry/organic/Biochemistry/Hormone/Testosterone.protect.md) 
 
-### #is_/same_as :: [Testosterone.private](/_private/chemic/organic/Biochemistry/Hormone/Testosterone.private.md) 
+### #is_/same_as :: [Testosterone.private](/_private/Chemistry/organic/Biochemistry/Hormone/Testosterone.private.md) 
 
-### #is_/same_as :: [Testosterone.personal](/_personal/chemic/organic/Biochemistry/Hormone/Testosterone.personal.md) 
+### #is_/same_as :: [Testosterone.personal](/_personal/Chemistry/organic/Biochemistry/Hormone/Testosterone.personal.md) 
 
-### #is_/same_as :: [Testosterone.secret](/_secret/chemic/organic/Biochemistry/Hormone/Testosterone.secret.md)
+### #is_/same_as :: [Testosterone.secret](/_secret/Chemistry/organic/Biochemistry/Hormone/Testosterone.secret.md)
 

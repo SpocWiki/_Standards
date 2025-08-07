@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - energy-efficiency-scale-max
 - energy_efficiency_scale_max

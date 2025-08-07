@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~bromine_exposure,21173316]]'
 atomic_number: 35
 Commons_category: Bromine
@@ -128,17 +128,17 @@ Unicode_character: 溴
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bromine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Bromine.md) 
+### #is_/same_as :: [Bromine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.md) 
 
-### #is_/same_as :: [Bromine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Bromine.public.md) 
+### #is_/same_as :: [Bromine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.public.md) 
 
-### #is_/same_as :: [Bromine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Bromine.internal.md) 
+### #is_/same_as :: [Bromine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.internal.md) 
 
-### #is_/same_as :: [Bromine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Bromine.protect.md) 
+### #is_/same_as :: [Bromine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.protect.md) 
 
-### #is_/same_as :: [Bromine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Bromine.private.md) 
+### #is_/same_as :: [Bromine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.private.md) 
 
-### #is_/same_as :: [Bromine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Bromine.personal.md) 
+### #is_/same_as :: [Bromine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.personal.md) 
 
-### #is_/same_as :: [Bromine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Bromine.secret.md)
+### #is_/same_as :: [Bromine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogene/Bromine.secret.md)
 

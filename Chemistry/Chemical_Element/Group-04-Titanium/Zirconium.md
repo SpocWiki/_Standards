@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
 atomic_number: 40
 boiling_point: 6471
@@ -130,17 +130,17 @@ ZVG_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zirconium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Zirconium.md) 
+### #is_/same_as :: [Zirconium](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.md) 
 
-### #is_/same_as :: [Zirconium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Zirconium.public.md) 
+### #is_/same_as :: [Zirconium.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public.md) 
 
-### #is_/same_as :: [Zirconium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Zirconium.internal.md) 
+### #is_/same_as :: [Zirconium.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal.md) 
 
-### #is_/same_as :: [Zirconium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Zirconium.protect.md) 
+### #is_/same_as :: [Zirconium.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect.md) 
 
-### #is_/same_as :: [Zirconium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Zirconium.private.md) 
+### #is_/same_as :: [Zirconium.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private.md) 
 
-### #is_/same_as :: [Zirconium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Zirconium.personal.md) 
+### #is_/same_as :: [Zirconium.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal.md) 
 
-### #is_/same_as :: [Zirconium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Zirconium.secret.md)
+### #is_/same_as :: [Zirconium.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret.md)
 

@@ -55,3 +55,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apartment) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apartment](/_Standards/Technology/Construction/Building/House/Apartment.md) 
+
+### #is_/same_as :: [Apartment.public](/_public/Technology/Construction/Building/House/Apartment.public.md) 
+
+### #is_/same_as :: [Apartment.internal](/_internal/Technology/Construction/Building/House/Apartment.internal.md) 
+
+### #is_/same_as :: [Apartment.protect](/_protect/Technology/Construction/Building/House/Apartment.protect.md) 
+
+### #is_/same_as :: [Apartment.private](/_private/Technology/Construction/Building/House/Apartment.private.md) 
+
+### #is_/same_as :: [Apartment.personal](/_personal/Technology/Construction/Building/House/Apartment.personal.md) 
+
+### #is_/same_as :: [Apartment.secret](/_secret/Technology/Construction/Building/House/Apartment.secret.md)
+

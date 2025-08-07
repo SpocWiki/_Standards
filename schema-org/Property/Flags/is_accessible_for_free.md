@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accessible-for-free
 - accessible_for_free

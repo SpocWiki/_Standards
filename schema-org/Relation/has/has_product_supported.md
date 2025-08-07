@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - product-supported
 - product_supported

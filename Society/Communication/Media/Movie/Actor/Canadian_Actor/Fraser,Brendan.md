@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Brendan Fraser"
 ---
@@ -34,5 +34,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Brendan%20Fraser) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Fraser,Brendan](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.md) 
+
+### #is_/same_as :: [Fraser,Brendan.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.public.md) 
+
+### #is_/same_as :: [Fraser,Brendan.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.internal.md) 
+
+### #is_/same_as :: [Fraser,Brendan.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.protect.md) 
+
+### #is_/same_as :: [Fraser,Brendan.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.private.md) 
+
+### #is_/same_as :: [Fraser,Brendan.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.personal.md) 
+
+### #is_/same_as :: [Fraser,Brendan.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Fraser,Brendan.secret.md)
 

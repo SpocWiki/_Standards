@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Reality Labs"
 ---
@@ -38,3 +38,21 @@ id Software announced that the _[BFG Edition](https://en.wikipedia.org/wiki/Doo
 would be compatible with head-mounted display units.
 
 Carmack later left id Software as he was hired as Oculus VR's [chief technology officer](https://en.wikipedia.org/wiki/Chief_technology_officer "Chief technology officer")
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Oculus_VR](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.md) 
+
+### #is_/same_as :: [Oculus_VR.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.public.md) 
+
+### #is_/same_as :: [Oculus_VR.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.internal.md) 
+
+### #is_/same_as :: [Oculus_VR.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.protect.md) 
+
+### #is_/same_as :: [Oculus_VR.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.private.md) 
+
+### #is_/same_as :: [Oculus_VR.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.personal.md) 
+
+### #is_/same_as :: [Oculus_VR.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Meta_Platforms/Oculus_VR.secret.md)
+

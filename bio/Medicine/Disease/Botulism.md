@@ -55,3 +55,20 @@ has_id_wikidata: Q154865
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Botulism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Botulism](/_Standards/bio/Medicine/Disease/Botulism.md) 
+
+### #is_/same_as :: [Botulism.public](/_public/bio/Medicine/Disease/Botulism.public.md) 
+
+### #is_/same_as :: [Botulism.internal](/_internal/bio/Medicine/Disease/Botulism.internal.md) 
+
+### #is_/same_as :: [Botulism.protect](/_protect/bio/Medicine/Disease/Botulism.protect.md) 
+
+### #is_/same_as :: [Botulism.private](/_private/bio/Medicine/Disease/Botulism.private.md) 
+
+### #is_/same_as :: [Botulism.personal](/_personal/bio/Medicine/Disease/Botulism.personal.md) 
+
+### #is_/same_as :: [Botulism.secret](/_secret/bio/Medicine/Disease/Botulism.secret.md)
+

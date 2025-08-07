@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - getting-access-health-aspect
 - getting_access_health_aspect

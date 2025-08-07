@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ferdinand Magellan"
 allegiance: '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'

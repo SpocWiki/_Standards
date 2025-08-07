@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - scheduled-time
 - scheduled_time

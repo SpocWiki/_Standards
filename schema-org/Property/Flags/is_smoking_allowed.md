@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - smoking-allowed
 - smoking_allowed

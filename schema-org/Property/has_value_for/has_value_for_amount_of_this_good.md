@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amount_of_this_good
 - amount-of-this-good

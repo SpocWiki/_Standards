@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Auto racing"
 has_id_wikidata: Q5386

@@ -1,4 +1,4 @@
-﻿---
+---
 based_on:
 - '[[_Standards/WikiData/WD~political_agenda,2920329]]'
 - '[[_Standards/WikiData/WD~hidden_agenda,121409158]]'

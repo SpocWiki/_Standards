@@ -21,3 +21,20 @@ has_id_wikidata: Q9103
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Breast) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Breast](/_Standards/bio/Medicine/Anatomy/Breast.md) 
+
+### #is_/same_as :: [Breast.public](/_public/bio/Medicine/Anatomy/Breast.public.md) 
+
+### #is_/same_as :: [Breast.internal](/_internal/bio/Medicine/Anatomy/Breast.internal.md) 
+
+### #is_/same_as :: [Breast.protect](/_protect/bio/Medicine/Anatomy/Breast.protect.md) 
+
+### #is_/same_as :: [Breast.private](/_private/bio/Medicine/Anatomy/Breast.private.md) 
+
+### #is_/same_as :: [Breast.personal](/_personal/bio/Medicine/Anatomy/Breast.personal.md) 
+
+### #is_/same_as :: [Breast.secret](/_secret/bio/Medicine/Anatomy/Breast.secret.md)
+

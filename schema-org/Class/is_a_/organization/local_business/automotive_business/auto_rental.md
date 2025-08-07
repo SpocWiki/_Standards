@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - auto-rental
 - auto_rental

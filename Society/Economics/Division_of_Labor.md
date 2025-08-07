@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Arbeitsteilung
 - "Division of Labor"

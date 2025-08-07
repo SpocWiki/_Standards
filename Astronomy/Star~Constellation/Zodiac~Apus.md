@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Apus|Zodiac~Apus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Apus.public|Zodiac~Apus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Apus.internal|Zodiac~Apus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Apus.protect|Zodiac~Apus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Apus.private|Zodiac~Apus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Apus.personal|Zodiac~Apus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Apus.secret|Zodiac~Apus.secret]] 
+
+### #is_/same_as :: [Zodiac~Apus](/_Standards/Astronomy/Star~Constellation/Zodiac~Apus.md) 
+
+### #is_/same_as :: [Zodiac~Apus.public](/_public/Astronomy/Star~Constellation/Zodiac~Apus.public.md) 
+
+### #is_/same_as :: [Zodiac~Apus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Apus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Apus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Apus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Apus.private](/_private/Astronomy/Star~Constellation/Zodiac~Apus.private.md) 
+
+### #is_/same_as :: [Zodiac~Apus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Apus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Apus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Apus.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - molecular-entity
 - molecular_entity

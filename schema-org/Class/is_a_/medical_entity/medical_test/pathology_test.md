@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pathology-test
 - pathology_test

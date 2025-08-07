@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - employment-agency
 - employment_agency

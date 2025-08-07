@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Periodic table group 16"
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from: '[[_Standards/WikiData/WD~aerobic_organism,193124]]'
@@ -53,17 +53,17 @@ UMLS_CUI: C0206763
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-16-Chalcogene](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene.md) 
+### #is_/same_as :: [Group-16-Chalcogene](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene.md) 
 
-### #is_/same_as :: [Group-16-Chalcogene.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene.public.md) 
+### #is_/same_as :: [Group-16-Chalcogene.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene.public.md) 
 
-### #is_/same_as :: [Group-16-Chalcogene.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene.internal.md) 
+### #is_/same_as :: [Group-16-Chalcogene.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene.internal.md) 
 
-### #is_/same_as :: [Group-16-Chalcogene.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene.protect.md) 
+### #is_/same_as :: [Group-16-Chalcogene.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene.protect.md) 
 
-### #is_/same_as :: [Group-16-Chalcogene.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene.private.md) 
+### #is_/same_as :: [Group-16-Chalcogene.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene.private.md) 
 
-### #is_/same_as :: [Group-16-Chalcogene.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene.personal.md) 
+### #is_/same_as :: [Group-16-Chalcogene.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene.personal.md) 
 
-### #is_/same_as :: [Group-16-Chalcogene.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene.secret.md)
+### #is_/same_as :: [Group-16-Chalcogene.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene.secret.md)
 

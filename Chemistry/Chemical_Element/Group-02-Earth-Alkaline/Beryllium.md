@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]'
 atomic_number: 4
 boiling_point:
@@ -161,17 +161,17 @@ ZVG_number: 8020
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beryllium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.md) 
+### #is_/same_as :: [Beryllium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.md) 
 
-### #is_/same_as :: [Beryllium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.public.md) 
+### #is_/same_as :: [Beryllium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.public.md) 
 
-### #is_/same_as :: [Beryllium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.internal.md) 
+### #is_/same_as :: [Beryllium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.internal.md) 
 
-### #is_/same_as :: [Beryllium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.protect.md) 
+### #is_/same_as :: [Beryllium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.protect.md) 
 
-### #is_/same_as :: [Beryllium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.private.md) 
+### #is_/same_as :: [Beryllium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.private.md) 
 
-### #is_/same_as :: [Beryllium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.personal.md) 
+### #is_/same_as :: [Beryllium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.personal.md) 
 
-### #is_/same_as :: [Beryllium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.secret.md)
+### #is_/same_as :: [Beryllium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.secret.md)
 

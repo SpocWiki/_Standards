@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dance-group
 - dance_group

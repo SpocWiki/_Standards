@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-test
 - medical_test

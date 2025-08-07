@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 41
 canonical_SMILES: '[Nb]'
 CAS_Registry_Number: 7440-03-1
@@ -129,17 +129,17 @@ ZVG_number: 7410
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niobium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Niobium.md) 
+### #is_/same_as :: [Niobium](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.md) 
 
-### #is_/same_as :: [Niobium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Niobium.public.md) 
+### #is_/same_as :: [Niobium.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public.md) 
 
-### #is_/same_as :: [Niobium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.internal.md) 
+### #is_/same_as :: [Niobium.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal.md) 
 
-### #is_/same_as :: [Niobium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Niobium.protect.md) 
+### #is_/same_as :: [Niobium.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect.md) 
 
-### #is_/same_as :: [Niobium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Niobium.private.md) 
+### #is_/same_as :: [Niobium.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private.md) 
 
-### #is_/same_as :: [Niobium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.personal.md) 
+### #is_/same_as :: [Niobium.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal.md) 
 
-### #is_/same_as :: [Niobium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Niobium.secret.md)
+### #is_/same_as :: [Niobium.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret.md)
 

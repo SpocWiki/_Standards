@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Russian Revolution"
 Commons_category: "Russian Revolution of 1917"

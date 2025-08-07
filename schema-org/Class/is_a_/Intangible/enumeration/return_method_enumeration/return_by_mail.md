@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-by-mail
 - return_by_mail

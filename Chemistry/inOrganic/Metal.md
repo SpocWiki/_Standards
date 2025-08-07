@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~metal_poisoning,4215775]]'
 Colon_Classification: E191
 Commons_category: Metals
@@ -112,17 +112,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metal](/_Standards/chemic/inOrganic/Metal.md) 
+### #is_/same_as :: [Metal](/_Standards/Chemistry/inOrganic/Metal.md) 
 
-### #is_/same_as :: [Metal.public](/_public/chemic/inOrganic/Metal.public.md) 
+### #is_/same_as :: [Metal.public](/_public/Chemistry/inOrganic/Metal.public.md) 
 
-### #is_/same_as :: [Metal.internal](/_internal/chemic/inOrganic/Metal.internal.md) 
+### #is_/same_as :: [Metal.internal](/_internal/Chemistry/inOrganic/Metal.internal.md) 
 
-### #is_/same_as :: [Metal.protect](/_protect/chemic/inOrganic/Metal.protect.md) 
+### #is_/same_as :: [Metal.protect](/_protect/Chemistry/inOrganic/Metal.protect.md) 
 
-### #is_/same_as :: [Metal.private](/_private/chemic/inOrganic/Metal.private.md) 
+### #is_/same_as :: [Metal.private](/_private/Chemistry/inOrganic/Metal.private.md) 
 
-### #is_/same_as :: [Metal.personal](/_personal/chemic/inOrganic/Metal.personal.md) 
+### #is_/same_as :: [Metal.personal](/_personal/Chemistry/inOrganic/Metal.personal.md) 
 
-### #is_/same_as :: [Metal.secret](/_secret/chemic/inOrganic/Metal.secret.md)
+### #is_/same_as :: [Metal.secret](/_secret/Chemistry/inOrganic/Metal.secret.md)
 

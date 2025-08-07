@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tommaso d'Aquino"
 - "Thomas of Aquino"

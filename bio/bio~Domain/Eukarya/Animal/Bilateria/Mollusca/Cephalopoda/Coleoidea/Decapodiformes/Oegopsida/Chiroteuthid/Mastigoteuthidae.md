@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mastigoteuthis
 ---
 
@@ -285,7 +285,7 @@ African Jour. Mar. Sci., 20: 393-420.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mastigoteuthidae](Mastigoteuthidae.md)) 
+### #is_/same_as :: [Mastigoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.md) 
 
 ### #is_/same_as :: [Mastigoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae.public.md) 
 

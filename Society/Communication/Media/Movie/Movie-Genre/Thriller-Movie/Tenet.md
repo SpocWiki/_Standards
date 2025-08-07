@@ -42,3 +42,19 @@ ROTAS
 > [Wikipedia](https://en.wikipedia.org/wiki/Tenet%20(film)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tenet](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.md) 
+
+### #is_/same_as :: [Tenet.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.public.md) 
+
+### #is_/same_as :: [Tenet.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.internal.md) 
+
+### #is_/same_as :: [Tenet.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.protect.md) 
+
+### #is_/same_as :: [Tenet.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.private.md) 
+
+### #is_/same_as :: [Tenet.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.personal.md) 
+
+### #is_/same_as :: [Tenet.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.secret.md)
+

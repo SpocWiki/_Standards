@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pulitzer Prize"
 ---
@@ -40,4 +40,21 @@ aliases:
 - National Reporting
 - Poetry
 - Public Service
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pulitzer_Prize](/_Standards/Society/Communication/Media/Journalism/Pulitzer_Prize.md) 
+
+### #is_/same_as :: [Pulitzer_Prize.public](/_public/Society/Communication/Media/Journalism/Pulitzer_Prize.public.md) 
+
+### #is_/same_as :: [Pulitzer_Prize.internal](/_internal/Society/Communication/Media/Journalism/Pulitzer_Prize.internal.md) 
+
+### #is_/same_as :: [Pulitzer_Prize.protect](/_protect/Society/Communication/Media/Journalism/Pulitzer_Prize.protect.md) 
+
+### #is_/same_as :: [Pulitzer_Prize.private](/_private/Society/Communication/Media/Journalism/Pulitzer_Prize.private.md) 
+
+### #is_/same_as :: [Pulitzer_Prize.personal](/_personal/Society/Communication/Media/Journalism/Pulitzer_Prize.personal.md) 
+
+### #is_/same_as :: [Pulitzer_Prize.secret](/_secret/Society/Communication/Media/Journalism/Pulitzer_Prize.secret.md)
 

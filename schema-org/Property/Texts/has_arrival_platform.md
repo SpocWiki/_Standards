@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrival-platform
 - arrival_platform

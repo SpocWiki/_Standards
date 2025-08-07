@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 11971241
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Romanza%20espa%C3%B1ola.ogg"
 award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'

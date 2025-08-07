@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "French Revolution"
 Archive_of_Our_Own_tag: "French Revolution RPF"

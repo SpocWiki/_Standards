@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - loan_mortgage_mandate_amount
 - loan-mortgage-mandate-amount

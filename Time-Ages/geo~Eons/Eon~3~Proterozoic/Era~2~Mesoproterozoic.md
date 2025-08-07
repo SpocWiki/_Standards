@@ -1,4 +1,4 @@
-﻿---
+---
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~Germany,183]]'
 has_id_wikidata: Q336530
 has_time_started: 1894-06-04

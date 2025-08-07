@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protoscorpiones
 ---
 
@@ -31,7 +31,7 @@ title: Protoscorpiones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Protoscorpiones](Protoscorpiones.md)) 
+### #is_/same_as :: [Protoscorpiones](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.md) 
 
 ### #is_/same_as :: [Protoscorpiones.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.public.md) 
 

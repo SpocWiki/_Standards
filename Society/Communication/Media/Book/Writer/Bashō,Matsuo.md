@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Matsuo Kinsaku"
 - "Matsuo Chūemon Munefusa"

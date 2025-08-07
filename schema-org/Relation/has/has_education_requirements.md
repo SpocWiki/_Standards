@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - education-requirements
 - education_requirements

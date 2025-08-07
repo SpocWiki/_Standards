@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Computer networks"
 Commons_gallery: "Computer network"
 connects_with: '[[_Standards/WikiData/WD~network_host,829281]]'

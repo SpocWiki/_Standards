@@ -83,3 +83,20 @@ P8189: "987007282303105171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Balkan%20Mountains) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Balkan_Mountains](/_Standards/Earth/Continent/Europe/Europe~East/Balkan_Mountains.md) 
+
+### #is_/same_as :: [Balkan_Mountains.public](/_public/Earth/Continent/Europe/Europe~East/Balkan_Mountains.public.md) 
+
+### #is_/same_as :: [Balkan_Mountains.internal](/_internal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.internal.md) 
+
+### #is_/same_as :: [Balkan_Mountains.protect](/_protect/Earth/Continent/Europe/Europe~East/Balkan_Mountains.protect.md) 
+
+### #is_/same_as :: [Balkan_Mountains.private](/_private/Earth/Continent/Europe/Europe~East/Balkan_Mountains.private.md) 
+
+### #is_/same_as :: [Balkan_Mountains.personal](/_personal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.personal.md) 
+
+### #is_/same_as :: [Balkan_Mountains.secret](/_secret/Earth/Continent/Europe/Europe~East/Balkan_Mountains.secret.md)
+

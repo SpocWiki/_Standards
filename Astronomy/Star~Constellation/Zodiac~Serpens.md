@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Serpens|Zodiac~Serpens]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Serpens.public|Zodiac~Serpens.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Serpens.internal|Zodiac~Serpens.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Serpens.protect|Zodiac~Serpens.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Serpens.private|Zodiac~Serpens.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Serpens.personal|Zodiac~Serpens.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Serpens.secret|Zodiac~Serpens.secret]] 
+
+### #is_/same_as :: [Zodiac~Serpens](/_Standards/Astronomy/Star~Constellation/Zodiac~Serpens.md) 
+
+### #is_/same_as :: [Zodiac~Serpens.public](/_public/Astronomy/Star~Constellation/Zodiac~Serpens.public.md) 
+
+### #is_/same_as :: [Zodiac~Serpens.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Serpens.internal.md) 
+
+### #is_/same_as :: [Zodiac~Serpens.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Serpens.protect.md) 
+
+### #is_/same_as :: [Zodiac~Serpens.private](/_private/Astronomy/Star~Constellation/Zodiac~Serpens.private.md) 
+
+### #is_/same_as :: [Zodiac~Serpens.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Serpens.personal.md) 
+
+### #is_/same_as :: [Zodiac~Serpens.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Serpens.secret.md)
+

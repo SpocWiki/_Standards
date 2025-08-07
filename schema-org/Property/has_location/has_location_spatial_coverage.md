@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - spatial-coverage
 - spatial_coverage

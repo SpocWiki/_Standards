@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reservation-package
 - reservation_package

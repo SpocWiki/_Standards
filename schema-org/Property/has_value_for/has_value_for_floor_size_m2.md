@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - floor_size
 - floor-size

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-series
 - part_of_series

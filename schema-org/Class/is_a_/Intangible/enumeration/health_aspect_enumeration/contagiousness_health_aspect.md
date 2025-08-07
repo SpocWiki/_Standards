@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contagiousness-health-aspect
 - contagiousness_health_aspect

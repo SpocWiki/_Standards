@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-label-customer-responsibility
 - return_label_customer_responsibility

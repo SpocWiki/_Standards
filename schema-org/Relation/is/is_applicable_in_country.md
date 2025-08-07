@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - applicable-country
 - applicable_country

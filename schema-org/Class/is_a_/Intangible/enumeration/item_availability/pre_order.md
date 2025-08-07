@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pre-order
 - pre_order

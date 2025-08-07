@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - step_value
 - step-value

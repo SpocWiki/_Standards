@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Statement
 - Semantic_Triple

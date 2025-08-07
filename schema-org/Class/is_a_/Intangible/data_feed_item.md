@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - data-feed-item
 - data_feed_item

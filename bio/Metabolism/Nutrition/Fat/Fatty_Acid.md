@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Fatty acids"
 CXSMILES: "OC([*])=O |$;;R;$|"
 E_number: E570

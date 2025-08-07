@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Krustentier
 Biology_Online_Biology_Dictionary_entry: crustacean
@@ -153,7 +153,7 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Crustacea](Crustacea.md)) 
+### #is_/same_as :: [Crustacea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.md) 
 
 ### #is_/same_as :: [Crustacea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea.public.md) 
 

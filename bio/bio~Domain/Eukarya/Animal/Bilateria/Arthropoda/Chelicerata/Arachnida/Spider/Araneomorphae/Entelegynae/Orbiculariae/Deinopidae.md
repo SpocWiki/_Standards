@@ -1,4 +1,4 @@
-﻿---
+---
 title: Deinopidae
 ---
 
@@ -108,7 +108,7 @@ Amer. Midland Nat. 85:85-96.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Deinopidae](Deinopidae.md)) 
+### #is_/same_as :: [Deinopidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.md) 
 
 ### #is_/same_as :: [Deinopidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Deinopidae.public.md) 
 

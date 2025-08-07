@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - money-transfer
 - money_transfer

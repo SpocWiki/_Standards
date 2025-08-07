@@ -1,4 +1,4 @@
-﻿---
+---
 ASHRAE_refrigerant_number: 720
 atomic_number: 10
 boiling_point: -246
@@ -123,17 +123,17 @@ ZVG_number: 7100
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.md) 
+### #is_/same_as :: [Neon](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.md) 
 
-### #is_/same_as :: [Neon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.public.md) 
+### #is_/same_as :: [Neon.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.public.md) 
 
-### #is_/same_as :: [Neon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.internal.md) 
+### #is_/same_as :: [Neon.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.internal.md) 
 
-### #is_/same_as :: [Neon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.protect.md) 
+### #is_/same_as :: [Neon.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.protect.md) 
 
-### #is_/same_as :: [Neon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.private.md) 
+### #is_/same_as :: [Neon.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.private.md) 
 
-### #is_/same_as :: [Neon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.personal.md) 
+### #is_/same_as :: [Neon.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.personal.md) 
 
-### #is_/same_as :: [Neon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.secret.md)
+### #is_/same_as :: [Neon.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.secret.md)
 

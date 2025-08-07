@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sale-price
 - sale_price

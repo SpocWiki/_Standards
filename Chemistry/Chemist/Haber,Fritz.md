@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fritz Haber"
 ---
@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haber,Fritz](/_Standards/chemic/Chemist/Haber,Fritz.md) 
+### #is_/same_as :: [Haber,Fritz](/_Standards/Chemistry/Chemist/Haber,Fritz.md) 
 
-### #is_/same_as :: [Haber,Fritz.public](/_public/chemic/Chemist/Haber,Fritz.public.md) 
+### #is_/same_as :: [Haber,Fritz.public](/_public/Chemistry/Chemist/Haber,Fritz.public.md) 
 
-### #is_/same_as :: [Haber,Fritz.internal](/_internal/chemic/Chemist/Haber,Fritz.internal.md) 
+### #is_/same_as :: [Haber,Fritz.internal](/_internal/Chemistry/Chemist/Haber,Fritz.internal.md) 
 
-### #is_/same_as :: [Haber,Fritz.protect](/_protect/chemic/Chemist/Haber,Fritz.protect.md) 
+### #is_/same_as :: [Haber,Fritz.protect](/_protect/Chemistry/Chemist/Haber,Fritz.protect.md) 
 
-### #is_/same_as :: [Haber,Fritz.private](/_private/chemic/Chemist/Haber,Fritz.private.md) 
+### #is_/same_as :: [Haber,Fritz.private](/_private/Chemistry/Chemist/Haber,Fritz.private.md) 
 
-### #is_/same_as :: [Haber,Fritz.personal](/_personal/chemic/Chemist/Haber,Fritz.personal.md) 
+### #is_/same_as :: [Haber,Fritz.personal](/_personal/Chemistry/Chemist/Haber,Fritz.personal.md) 
 
-### #is_/same_as :: [Haber,Fritz.secret](/_secret/chemic/Chemist/Haber,Fritz.secret.md)
+### #is_/same_as :: [Haber,Fritz.secret](/_secret/Chemistry/Chemist/Haber,Fritz.secret.md)
 

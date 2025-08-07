@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Renewable energy"
 Commons_category: "Renewable energy"

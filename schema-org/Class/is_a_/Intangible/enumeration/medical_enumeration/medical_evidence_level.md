@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-evidence-level
 - medical_evidence_level

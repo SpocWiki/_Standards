@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - trade-action
 - trade_action

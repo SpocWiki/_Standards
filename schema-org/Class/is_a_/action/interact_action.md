@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interact-action
 - interact_action

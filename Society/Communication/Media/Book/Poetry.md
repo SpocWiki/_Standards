@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: O,1
 Commons_category: Poetry
 described_by_source:

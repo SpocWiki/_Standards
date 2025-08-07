@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - civic-structure
 - civic_structure

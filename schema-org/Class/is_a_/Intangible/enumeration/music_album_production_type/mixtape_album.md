@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mixtape-album
 - mixtape_album

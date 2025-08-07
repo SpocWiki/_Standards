@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cyclopoida
 ---
 
@@ -68,7 +68,7 @@ Copyright ::          © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cyclopoida](Cyclopoida.md)) 
+### #is_/same_as :: [Cyclopoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.md) 
 
 ### #is_/same_as :: [Cyclopoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Thermotogae
 title: Thermotogae

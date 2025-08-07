@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - invite-action
 - invite_action

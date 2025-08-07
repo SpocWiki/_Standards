@@ -45,3 +45,20 @@ OpenStreetMap_tag_or_key: Tag:historic=cannon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cannon)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cannon](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.md) 
+
+### #is_/same_as :: [Cannon.public](/_public/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.public.md) 
+
+### #is_/same_as :: [Cannon.internal](/_internal/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.internal.md) 
+
+### #is_/same_as :: [Cannon.protect](/_protect/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.protect.md) 
+
+### #is_/same_as :: [Cannon.private](/_private/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.private.md) 
+
+### #is_/same_as :: [Cannon.personal](/_personal/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.personal.md) 
+
+### #is_/same_as :: [Cannon.secret](/_secret/Society/Military/Military_Engineering/Weapon/Artillery/Cannon.secret.md)
+

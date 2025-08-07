@@ -100,3 +100,20 @@ defining_formula: |-
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bernoulli's%20principle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bernoulli's_principle](/_Standards/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.md) 
+
+### #is_/same_as :: [Bernoulli's_principle.public](/_public/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.public.md) 
+
+### #is_/same_as :: [Bernoulli's_principle.internal](/_internal/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.internal.md) 
+
+### #is_/same_as :: [Bernoulli's_principle.protect](/_protect/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.protect.md) 
+
+### #is_/same_as :: [Bernoulli's_principle.private](/_private/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.private.md) 
+
+### #is_/same_as :: [Bernoulli's_principle.personal](/_personal/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.personal.md) 
+
+### #is_/same_as :: [Bernoulli's_principle.secret](/_secret/Science/Physics/Fluid_Mechanic/Bernoulli's_principle.secret.md)
+

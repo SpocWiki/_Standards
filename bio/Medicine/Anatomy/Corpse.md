@@ -39,3 +39,19 @@ has_id_wikidata: Q48422
 > [Wikipedia](https://en.wikipedia.org/wiki/Cadaver) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Corpse](/_Standards/bio/Medicine/Anatomy/Corpse.md) 
+
+### #is_/same_as :: [Corpse.public](/_public/bio/Medicine/Anatomy/Corpse.public.md) 
+
+### #is_/same_as :: [Corpse.internal](/_internal/bio/Medicine/Anatomy/Corpse.internal.md) 
+
+### #is_/same_as :: [Corpse.protect](/_protect/bio/Medicine/Anatomy/Corpse.protect.md) 
+
+### #is_/same_as :: [Corpse.private](/_private/bio/Medicine/Anatomy/Corpse.private.md) 
+
+### #is_/same_as :: [Corpse.personal](/_personal/bio/Medicine/Anatomy/Corpse.personal.md) 
+
+### #is_/same_as :: [Corpse.secret](/_secret/bio/Medicine/Anatomy/Corpse.secret.md)
+

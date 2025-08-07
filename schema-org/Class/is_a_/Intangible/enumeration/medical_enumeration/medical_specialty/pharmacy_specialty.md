@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pharmacy-specialty
 - pharmacy_specialty

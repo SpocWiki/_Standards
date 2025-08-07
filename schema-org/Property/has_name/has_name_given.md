@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - given-name
 - name_given

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - transit_time
 - transit-time

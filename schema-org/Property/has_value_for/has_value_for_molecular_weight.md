@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - molecular_weight
 - molecular-weight

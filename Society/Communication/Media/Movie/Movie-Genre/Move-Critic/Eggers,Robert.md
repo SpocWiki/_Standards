@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robert Eggers"
 - "Robert Houston Eggers"
@@ -16,5 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Eggers)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Eggers,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.md) 
+
+### #is_/same_as :: [Eggers,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.public.md) 
+
+### #is_/same_as :: [Eggers,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.internal.md) 
+
+### #is_/same_as :: [Eggers,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.protect.md) 
+
+### #is_/same_as :: [Eggers,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.private.md) 
+
+### #is_/same_as :: [Eggers,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.personal.md) 
+
+### #is_/same_as :: [Eggers,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Eggers,Robert.secret.md)
 

@@ -35,3 +35,20 @@
 > 
 > 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Disney+](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.md) 
+
+### #is_/same_as :: [Disney+.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.public.md) 
+
+### #is_/same_as :: [Disney+.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.internal.md) 
+
+### #is_/same_as :: [Disney+.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.protect.md) 
+
+### #is_/same_as :: [Disney+.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.private.md) 
+
+### #is_/same_as :: [Disney+.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.personal.md) 
+
+### #is_/same_as :: [Disney+.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+.secret.md)
+

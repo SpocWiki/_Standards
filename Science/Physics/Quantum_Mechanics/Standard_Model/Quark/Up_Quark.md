@@ -47,3 +47,20 @@ electric_charge: 0.6666666666666666
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Up%20quark) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Up_Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.md) 
+
+### #is_/same_as :: [Up_Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.public.md) 
+
+### #is_/same_as :: [Up_Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.internal.md) 
+
+### #is_/same_as :: [Up_Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.protect.md) 
+
+### #is_/same_as :: [Up_Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.private.md) 
+
+### #is_/same_as :: [Up_Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.personal.md) 
+
+### #is_/same_as :: [Up_Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Up_Quark.secret.md)
+

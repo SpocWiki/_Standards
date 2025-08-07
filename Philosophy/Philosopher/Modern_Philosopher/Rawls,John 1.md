@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Rawls"
 - "John Bordley Rawls"

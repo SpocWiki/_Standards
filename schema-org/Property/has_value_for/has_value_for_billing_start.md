@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - billing_start
 - billing-start

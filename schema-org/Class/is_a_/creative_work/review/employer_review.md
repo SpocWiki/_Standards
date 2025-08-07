@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - employer-review
 - employer_review

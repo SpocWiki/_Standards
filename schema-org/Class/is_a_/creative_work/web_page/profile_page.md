@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - profile-page
 - profile_page

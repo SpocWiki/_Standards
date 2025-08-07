@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-indication
 - medical_indication

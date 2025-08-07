@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - physical-exam
 - physical_exam

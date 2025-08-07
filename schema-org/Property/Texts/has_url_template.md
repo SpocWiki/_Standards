@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - url-template
 - url_template

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sipuncula
 ---
 
@@ -66,7 +66,7 @@ Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sipuncula](Sipuncula.md)) 
+### #is_/same_as :: [Sipuncula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.md) 
 
 ### #is_/same_as :: [Sipuncula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.public.md) 
 

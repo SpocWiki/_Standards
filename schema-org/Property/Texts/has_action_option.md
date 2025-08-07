@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - action-option
 - action_option

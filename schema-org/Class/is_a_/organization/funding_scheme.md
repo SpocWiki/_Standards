@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - funding-scheme
 - funding_scheme

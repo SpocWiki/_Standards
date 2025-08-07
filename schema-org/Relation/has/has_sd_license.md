@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sd-license
 - sd_license

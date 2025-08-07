@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cheat-code
 - cheat_code

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sumner,Gordon Matthew Thomas"
 ---
@@ -51,5 +51,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sting%20(musician))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Sting(musician)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).md) 
+
+### #is_/same_as :: [Sting(musician).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).public.md) 
+
+### #is_/same_as :: [Sting(musician).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).internal.md) 
+
+### #is_/same_as :: [Sting(musician).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).protect.md) 
+
+### #is_/same_as :: [Sting(musician).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).private.md) 
+
+### #is_/same_as :: [Sting(musician).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).personal.md) 
+
+### #is_/same_as :: [Sting(musician).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).secret.md)
 

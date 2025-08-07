@@ -1,4 +1,4 @@
-﻿---
+---
 title: Symphypleona
 ---
 
@@ -73,7 +73,7 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Symphypleona](Symphypleona.md)) 
+### #is_/same_as :: [Symphypleona](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.md) 
 
 ### #is_/same_as :: [Symphypleona.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.public.md) 
 

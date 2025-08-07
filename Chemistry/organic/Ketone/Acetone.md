@@ -234,5 +234,19 @@ ZVG_number: 11230
 > [Wikipedia](https://en.wikipedia.org/wiki/Acetone) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Acetone](/_Standards/Chemistry/organic/Ketone/Acetone.md) 
+
+### #is_/same_as :: [Acetone.public](/_public/Chemistry/organic/Ketone/Acetone.public.md) 
+
+### #is_/same_as :: [Acetone.internal](/_internal/Chemistry/organic/Ketone/Acetone.internal.md) 
+
+### #is_/same_as :: [Acetone.protect](/_protect/Chemistry/organic/Ketone/Acetone.protect.md) 
+
+### #is_/same_as :: [Acetone.private](/_private/Chemistry/organic/Ketone/Acetone.private.md) 
+
+### #is_/same_as :: [Acetone.personal](/_personal/Chemistry/organic/Ketone/Acetone.personal.md) 
+
+### #is_/same_as :: [Acetone.secret](/_secret/Chemistry/organic/Ketone/Acetone.secret.md)
 

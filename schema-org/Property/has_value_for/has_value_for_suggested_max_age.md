@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suggested_max_age
 - suggested-max-age

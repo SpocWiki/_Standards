@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - potential-action
 - potential_action

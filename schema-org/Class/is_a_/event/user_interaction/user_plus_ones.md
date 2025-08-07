@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-plus-ones
 - user_plus_ones

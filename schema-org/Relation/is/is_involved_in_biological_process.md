@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-involved-in-biological-process
 - involved_in_biological_process

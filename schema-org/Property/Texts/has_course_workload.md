@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - course-workload
 - course_workload

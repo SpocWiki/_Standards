@@ -17,3 +17,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parrot) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Psittaciformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.md) 
+
+### #is_/same_as :: [Psittaciformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.public.md) 
+
+### #is_/same_as :: [Psittaciformes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.internal.md) 
+
+### #is_/same_as :: [Psittaciformes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.protect.md) 
+
+### #is_/same_as :: [Psittaciformes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.private.md) 
+
+### #is_/same_as :: [Psittaciformes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.personal.md) 
+
+### #is_/same_as :: [Psittaciformes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Psittaciformes.secret.md)
+

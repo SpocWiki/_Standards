@@ -42,3 +42,20 @@ MeSH_tree_code: I01.076.368
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biological%20anthropology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biological_Anthropology](/_Standards/Society/Anthropology/Biological_Anthropology.md) 
+
+### #is_/same_as :: [Biological_Anthropology.public](/_public/Society/Anthropology/Biological_Anthropology.public.md) 
+
+### #is_/same_as :: [Biological_Anthropology.internal](/_internal/Society/Anthropology/Biological_Anthropology.internal.md) 
+
+### #is_/same_as :: [Biological_Anthropology.protect](/_protect/Society/Anthropology/Biological_Anthropology.protect.md) 
+
+### #is_/same_as :: [Biological_Anthropology.private](/_private/Society/Anthropology/Biological_Anthropology.private.md) 
+
+### #is_/same_as :: [Biological_Anthropology.personal](/_personal/Society/Anthropology/Biological_Anthropology.personal.md) 
+
+### #is_/same_as :: [Biological_Anthropology.secret](/_secret/Society/Anthropology/Biological_Anthropology.secret.md)
+

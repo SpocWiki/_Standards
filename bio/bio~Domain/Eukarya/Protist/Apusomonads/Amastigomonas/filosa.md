@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amastigomonas filosa"
 ---
 
@@ -60,7 +60,7 @@ tropical marine sediments. Journal of Natural History 24: 801-937.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[filosa](filosa.md)) 
+### #is_/same_as :: [filosa](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.md) 
 
 ### #is_/same_as :: [filosa.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.public.md) 
 

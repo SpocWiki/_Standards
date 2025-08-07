@@ -67,3 +67,20 @@ GeoNames_feature_code: T.ATOL
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atoll) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atoll](/_Standards/Earth/Ocean/Atoll.md) 
+
+### #is_/same_as :: [Atoll.public](/_public/Earth/Ocean/Atoll.public.md) 
+
+### #is_/same_as :: [Atoll.internal](/_internal/Earth/Ocean/Atoll.internal.md) 
+
+### #is_/same_as :: [Atoll.protect](/_protect/Earth/Ocean/Atoll.protect.md) 
+
+### #is_/same_as :: [Atoll.private](/_private/Earth/Ocean/Atoll.private.md) 
+
+### #is_/same_as :: [Atoll.personal](/_personal/Earth/Ocean/Atoll.personal.md) 
+
+### #is_/same_as :: [Atoll.secret](/_secret/Earth/Ocean/Atoll.secret.md)
+

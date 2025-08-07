@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Phaseoleae
 ---
@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Phaseoleae](Phaseoleae.md)) 
+### #is_/same_as :: [Phaseoleae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.md) 
 
-### #is_/same_as :: [Phaseoleae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.public.md) 
+### #is_/same_as :: [Phaseoleae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.public.md) 
 
-### #is_/same_as :: [Phaseoleae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.internal.md) 
+### #is_/same_as :: [Phaseoleae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.internal.md) 
 
-### #is_/same_as :: [Phaseoleae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.protect.md) 
+### #is_/same_as :: [Phaseoleae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.protect.md) 
 
-### #is_/same_as :: [Phaseoleae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.private.md) 
+### #is_/same_as :: [Phaseoleae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.private.md) 
 
-### #is_/same_as :: [Phaseoleae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.personal.md) 
+### #is_/same_as :: [Phaseoleae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.personal.md) 
 
-### #is_/same_as :: [Phaseoleae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.secret.md)
+### #is_/same_as :: [Phaseoleae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Phaseoleae.secret.md)
 

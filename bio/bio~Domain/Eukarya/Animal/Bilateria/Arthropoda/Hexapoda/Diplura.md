@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diplura
 ---
 
@@ -210,7 +210,7 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Diplura](Diplura.md)) 
+### #is_/same_as :: [Diplura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.md) 
 
 ### #is_/same_as :: [Diplura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Diplura.public.md) 
 

@@ -87,3 +87,19 @@ Reset my patient violence along both lines of a pathway higher
 Grow back your sharpest teeth, you know my desire
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.md) 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.public.md) 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.internal.md) 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.protect.md) 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.private.md) 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.personal.md) 
+
+### #is_/same_as :: [Sleep_Token-Take_me_back_to_Eden.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token/Sleep_Token-Take_me_back_to_Eden.secret.md)
+

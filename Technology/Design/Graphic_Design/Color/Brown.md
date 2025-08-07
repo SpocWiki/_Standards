@@ -23,3 +23,20 @@ has_id_wikidata: Q47071
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brown) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brown](/_Standards/Technology/Design/Graphic_Design/Color/Brown.md) 
+
+### #is_/same_as :: [Brown.public](/_public/Technology/Design/Graphic_Design/Color/Brown.public.md) 
+
+### #is_/same_as :: [Brown.internal](/_internal/Technology/Design/Graphic_Design/Color/Brown.internal.md) 
+
+### #is_/same_as :: [Brown.protect](/_protect/Technology/Design/Graphic_Design/Color/Brown.protect.md) 
+
+### #is_/same_as :: [Brown.private](/_private/Technology/Design/Graphic_Design/Color/Brown.private.md) 
+
+### #is_/same_as :: [Brown.personal](/_personal/Technology/Design/Graphic_Design/Color/Brown.personal.md) 
+
+### #is_/same_as :: [Brown.secret](/_secret/Technology/Design/Graphic_Design/Color/Brown.secret.md)
+

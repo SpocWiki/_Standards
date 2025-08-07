@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stomatopoda
 ---
 
@@ -61,7 +61,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Stomatopoda](Stomatopoda.md)) 
+### #is_/same_as :: [Stomatopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Stomatopoda.md) 
 
 ### #is_/same_as :: [Stomatopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Stomatopoda.public.md) 
 

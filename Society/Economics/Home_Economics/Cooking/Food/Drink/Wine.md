@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 2983386011
 Colon_Classification: F547
 color:

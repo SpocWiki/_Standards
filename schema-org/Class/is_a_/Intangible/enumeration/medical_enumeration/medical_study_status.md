@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-study-status
 - medical_study_status

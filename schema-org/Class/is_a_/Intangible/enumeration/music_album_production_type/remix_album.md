@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - remix-album
 - remix_album

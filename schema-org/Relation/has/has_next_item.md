@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - next-item
 - next_item

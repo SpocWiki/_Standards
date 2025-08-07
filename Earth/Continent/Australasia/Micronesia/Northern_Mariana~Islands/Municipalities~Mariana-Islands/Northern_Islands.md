@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Northern_Islands
 confidential: public

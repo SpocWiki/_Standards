@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Archaeognatha
 - Bristetail
@@ -120,7 +120,7 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Archaeognatha](Archaeognatha.md)) 
+### #is_/same_as :: [Archaeognatha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.md) 
 
 ### #is_/same_as :: [Archaeognatha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Archaeognatha.public.md) 
 

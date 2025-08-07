@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - radio-clip
 - radio_clip

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "general theory of relativity"
 - "general relativity"

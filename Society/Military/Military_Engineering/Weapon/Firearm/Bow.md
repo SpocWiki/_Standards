@@ -48,3 +48,19 @@ Commons_category: Bows (archery)
 > [Wikipedia](https://en.wikipedia.org/wiki/Bow%20and%20arrow) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bow](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Bow.md) 
+
+### #is_/same_as :: [Bow.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Bow.public.md) 
+
+### #is_/same_as :: [Bow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Bow.internal.md) 
+
+### #is_/same_as :: [Bow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Bow.protect.md) 
+
+### #is_/same_as :: [Bow.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Bow.private.md) 
+
+### #is_/same_as :: [Bow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Bow.personal.md) 
+
+### #is_/same_as :: [Bow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Bow.secret.md)
+

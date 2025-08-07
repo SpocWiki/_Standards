@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cover-art
 - cover_art

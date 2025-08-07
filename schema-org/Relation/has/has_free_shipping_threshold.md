@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - free-shipping-threshold
 - free_shipping_threshold

@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20heat%20is%20on%20ESA19461898.jpeg"
 aliases:
 - "Global warming"
@@ -74,17 +74,17 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/global_warming"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Global_Warming](/_Standards/Earth/Atmosphere/Climate/Global_Warming.md) 
+### #is_/same_as :: [Global_Warming](/_Standards/Earth/Atmosphere,Earth/Climate/Global_Warming.md) 
 
-### #is_/same_as :: [Global_Warming.public](/_public/Earth/Atmosphere/Climate/Global_Warming.public.md) 
+### #is_/same_as :: [Global_Warming.public](/_public/Earth/Atmosphere,Earth/Climate/Global_Warming.public.md) 
 
-### #is_/same_as :: [Global_Warming.internal](/_internal/Earth/Atmosphere/Climate/Global_Warming.internal.md) 
+### #is_/same_as :: [Global_Warming.internal](/_internal/Earth/Atmosphere,Earth/Climate/Global_Warming.internal.md) 
 
-### #is_/same_as :: [Global_Warming.protect](/_protect/Earth/Atmosphere/Climate/Global_Warming.protect.md) 
+### #is_/same_as :: [Global_Warming.protect](/_protect/Earth/Atmosphere,Earth/Climate/Global_Warming.protect.md) 
 
-### #is_/same_as :: [Global_Warming.private](/_private/Earth/Atmosphere/Climate/Global_Warming.private.md) 
+### #is_/same_as :: [Global_Warming.private](/_private/Earth/Atmosphere,Earth/Climate/Global_Warming.private.md) 
 
-### #is_/same_as :: [Global_Warming.personal](/_personal/Earth/Atmosphere/Climate/Global_Warming.personal.md) 
+### #is_/same_as :: [Global_Warming.personal](/_personal/Earth/Atmosphere,Earth/Climate/Global_Warming.personal.md) 
 
-### #is_/same_as :: [Global_Warming.secret](/_secret/Earth/Atmosphere/Climate/Global_Warming.secret.md)
+### #is_/same_as :: [Global_Warming.secret](/_secret/Earth/Atmosphere,Earth/Climate/Global_Warming.secret.md)
 

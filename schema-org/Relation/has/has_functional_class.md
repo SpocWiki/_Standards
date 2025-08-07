@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - functional-class
 - functional_class

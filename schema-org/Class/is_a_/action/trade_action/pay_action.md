@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pay-action
 - pay_action

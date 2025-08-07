@@ -33,3 +33,20 @@ has_id_wikidata: Q101849
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reformed%20Christianity) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Calvinism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.md) 
+
+### #is_/same_as :: [Calvinism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.public.md) 
+
+### #is_/same_as :: [Calvinism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.internal.md) 
+
+### #is_/same_as :: [Calvinism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.protect.md) 
+
+### #is_/same_as :: [Calvinism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.private.md) 
+
+### #is_/same_as :: [Calvinism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.personal.md) 
+
+### #is_/same_as :: [Calvinism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamitic_Religion/Christianity/Calvinism.secret.md)
+

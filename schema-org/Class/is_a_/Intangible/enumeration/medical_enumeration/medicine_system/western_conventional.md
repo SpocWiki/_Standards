@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - western-conventional
 - western_conventional

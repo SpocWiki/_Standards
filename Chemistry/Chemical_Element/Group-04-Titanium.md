@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Periodic table group 4"
 Dewey_Decimal_Classification: 546.51
 has_id_wikidata: Q189302
@@ -40,17 +40,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-04-Titanium](/_Standards/chemic/chemic~Elements/Group-04-Titanium.md) 
+### #is_/same_as :: [Group-04-Titanium](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium.md) 
 
-### #is_/same_as :: [Group-04-Titanium.public](/_public/chemic/chemic~Elements/Group-04-Titanium.public.md) 
+### #is_/same_as :: [Group-04-Titanium.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium.public.md) 
 
-### #is_/same_as :: [Group-04-Titanium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium.internal.md) 
+### #is_/same_as :: [Group-04-Titanium.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium.internal.md) 
 
-### #is_/same_as :: [Group-04-Titanium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium.protect.md) 
+### #is_/same_as :: [Group-04-Titanium.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium.protect.md) 
 
-### #is_/same_as :: [Group-04-Titanium.private](/_private/chemic/chemic~Elements/Group-04-Titanium.private.md) 
+### #is_/same_as :: [Group-04-Titanium.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium.private.md) 
 
-### #is_/same_as :: [Group-04-Titanium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium.personal.md) 
+### #is_/same_as :: [Group-04-Titanium.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium.personal.md) 
 
-### #is_/same_as :: [Group-04-Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium.secret.md)
+### #is_/same_as :: [Group-04-Titanium.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium.secret.md)
 

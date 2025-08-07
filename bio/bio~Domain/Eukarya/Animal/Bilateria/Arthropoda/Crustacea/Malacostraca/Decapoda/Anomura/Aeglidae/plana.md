@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla plana"
 ---
 
@@ -126,7 +126,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[plana](plana.md)) 
+### #is_/same_as :: [plana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/plana.md) 
 
 ### #is_/same_as :: [plana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/plana.public.md) 
 

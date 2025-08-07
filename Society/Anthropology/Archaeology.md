@@ -115,3 +115,20 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Archeol
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archaeology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Archaeology](/_Standards/Society/Anthropology/Archaeology.md) 
+
+### #is_/same_as :: [Archaeology.public](/_public/Society/Anthropology/Archaeology.public.md) 
+
+### #is_/same_as :: [Archaeology.internal](/_internal/Society/Anthropology/Archaeology.internal.md) 
+
+### #is_/same_as :: [Archaeology.protect](/_protect/Society/Anthropology/Archaeology.protect.md) 
+
+### #is_/same_as :: [Archaeology.private](/_private/Society/Anthropology/Archaeology.private.md) 
+
+### #is_/same_as :: [Archaeology.personal](/_personal/Society/Anthropology/Archaeology.personal.md) 
+
+### #is_/same_as :: [Archaeology.secret](/_secret/Society/Anthropology/Archaeology.secret.md)
+

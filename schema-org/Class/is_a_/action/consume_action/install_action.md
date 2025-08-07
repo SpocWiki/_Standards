@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - install-action
 - install_action

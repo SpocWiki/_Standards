@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roger Ebert"
 ---
@@ -56,4 +56,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Ebert)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ebert,Roger](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.md) 
+
+### #is_/same_as :: [Ebert,Roger.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.public.md) 
+
+### #is_/same_as :: [Ebert,Roger.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.internal.md) 
+
+### #is_/same_as :: [Ebert,Roger.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.protect.md) 
+
+### #is_/same_as :: [Ebert,Roger.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.private.md) 
+
+### #is_/same_as :: [Ebert,Roger.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.personal.md) 
+
+### #is_/same_as :: [Ebert,Roger.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Ebert,Roger.secret.md)
 

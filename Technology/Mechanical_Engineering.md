@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mechanical engineering"
 has_id_wikidata: Q101333

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 67
 boiling_point: 2873
 canonical_SMILES: '[Ho]'
@@ -111,17 +111,17 @@ ZVG_number: 7670
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holmium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Holmium.md) 
+### #is_/same_as :: [Holmium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.md) 
 
-### #is_/same_as :: [Holmium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Holmium.public.md) 
+### #is_/same_as :: [Holmium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.public.md) 
 
-### #is_/same_as :: [Holmium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Holmium.internal.md) 
+### #is_/same_as :: [Holmium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.internal.md) 
 
-### #is_/same_as :: [Holmium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Holmium.protect.md) 
+### #is_/same_as :: [Holmium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.protect.md) 
 
-### #is_/same_as :: [Holmium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Holmium.private.md) 
+### #is_/same_as :: [Holmium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.private.md) 
 
-### #is_/same_as :: [Holmium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Holmium.personal.md) 
+### #is_/same_as :: [Holmium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.personal.md) 
 
-### #is_/same_as :: [Holmium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Holmium.secret.md)
+### #is_/same_as :: [Holmium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Holmium.secret.md)
 

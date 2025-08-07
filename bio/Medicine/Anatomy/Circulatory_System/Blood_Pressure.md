@@ -27,3 +27,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blood%20pressure) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blood_Pressure](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.md) 
+
+### #is_/same_as :: [Blood_Pressure.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.public.md) 
+
+### #is_/same_as :: [Blood_Pressure.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.internal.md) 
+
+### #is_/same_as :: [Blood_Pressure.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.protect.md) 
+
+### #is_/same_as :: [Blood_Pressure.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.private.md) 
+
+### #is_/same_as :: [Blood_Pressure.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.personal.md) 
+
+### #is_/same_as :: [Blood_Pressure.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.secret.md)
+

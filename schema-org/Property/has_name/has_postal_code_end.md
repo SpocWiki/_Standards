@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - postal-code-end
 - postal_code_end

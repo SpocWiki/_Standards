@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-published
 - date_published

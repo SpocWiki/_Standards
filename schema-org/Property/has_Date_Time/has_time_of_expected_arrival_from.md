@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - expected-arrival-from
 - expected_arrival_from

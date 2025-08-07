@@ -1,4 +1,4 @@
-﻿---
+---
 area: 5400000
 Baidu_Tieba_name: 唐朝
 basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'

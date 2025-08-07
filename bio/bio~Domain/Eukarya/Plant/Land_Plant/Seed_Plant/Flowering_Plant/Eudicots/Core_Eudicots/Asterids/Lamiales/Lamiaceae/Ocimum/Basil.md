@@ -106,3 +106,20 @@ MeSH_tree_code: B01.875.800.575.912.250.583.520.647.500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Basil) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Basil](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.md) 
+
+### #is_/same_as :: [Basil.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.public.md) 
+
+### #is_/same_as :: [Basil.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.internal.md) 
+
+### #is_/same_as :: [Basil.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.protect.md) 
+
+### #is_/same_as :: [Basil.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.private.md) 
+
+### #is_/same_as :: [Basil.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.personal.md) 
+
+### #is_/same_as :: [Basil.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Ocimum/Basil.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 钻石
 CAS_Registry_Number: 7782-40-3
 chemical_formula: C
@@ -78,17 +78,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diam
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diamond](/_Standards/chemic/Material/Diamond.md) 
+### #is_/same_as :: [Diamond](/_Standards/Chemistry/Material/Diamond.md) 
 
-### #is_/same_as :: [Diamond.public](/_public/chemic/Material/Diamond.public.md) 
+### #is_/same_as :: [Diamond.public](/_public/Chemistry/Material/Diamond.public.md) 
 
-### #is_/same_as :: [Diamond.internal](/_internal/chemic/Material/Diamond.internal.md) 
+### #is_/same_as :: [Diamond.internal](/_internal/Chemistry/Material/Diamond.internal.md) 
 
-### #is_/same_as :: [Diamond.protect](/_protect/chemic/Material/Diamond.protect.md) 
+### #is_/same_as :: [Diamond.protect](/_protect/Chemistry/Material/Diamond.protect.md) 
 
-### #is_/same_as :: [Diamond.private](/_private/chemic/Material/Diamond.private.md) 
+### #is_/same_as :: [Diamond.private](/_private/Chemistry/Material/Diamond.private.md) 
 
-### #is_/same_as :: [Diamond.personal](/_personal/chemic/Material/Diamond.personal.md) 
+### #is_/same_as :: [Diamond.personal](/_personal/Chemistry/Material/Diamond.personal.md) 
 
-### #is_/same_as :: [Diamond.secret](/_secret/chemic/Material/Diamond.secret.md)
+### #is_/same_as :: [Diamond.secret](/_secret/Chemistry/Material/Diamond.secret.md)
 

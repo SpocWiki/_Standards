@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ceramiales
 ---
 
@@ -28,7 +28,7 @@ title: Ceramiales
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ceramiales](Ceramiales.md)) 
+### #is_/same_as :: [Ceramiales](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.md) 
 
 ### #is_/same_as :: [Ceramiales.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.public.md) 
 

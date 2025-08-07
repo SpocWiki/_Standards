@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - creative-work-season
 - creative_work_season

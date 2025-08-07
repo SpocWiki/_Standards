@@ -44,3 +44,20 @@ Wolfram_Language_entity_code: Entity["Concept", "AtlasMountains::339j9"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atlas%20Mountains) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atlas_Mountains](/_Standards/Earth/Continent/Africa/Africa~North/Atlas_Mountains.md) 
+
+### #is_/same_as :: [Atlas_Mountains.public](/_public/Earth/Continent/Africa/Africa~North/Atlas_Mountains.public.md) 
+
+### #is_/same_as :: [Atlas_Mountains.internal](/_internal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.internal.md) 
+
+### #is_/same_as :: [Atlas_Mountains.protect](/_protect/Earth/Continent/Africa/Africa~North/Atlas_Mountains.protect.md) 
+
+### #is_/same_as :: [Atlas_Mountains.private](/_private/Earth/Continent/Africa/Africa~North/Atlas_Mountains.private.md) 
+
+### #is_/same_as :: [Atlas_Mountains.personal](/_personal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.personal.md) 
+
+### #is_/same_as :: [Atlas_Mountains.secret](/_secret/Earth/Continent/Africa/Africa~North/Atlas_Mountains.secret.md)
+

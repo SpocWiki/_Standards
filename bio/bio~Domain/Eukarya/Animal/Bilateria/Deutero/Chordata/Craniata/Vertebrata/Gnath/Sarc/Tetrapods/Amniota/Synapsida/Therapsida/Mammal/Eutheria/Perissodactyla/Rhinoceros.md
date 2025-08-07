@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Rhinocerotidae
 - Rhinoceros
@@ -20,7 +20,7 @@ has_id_wikidata: Q34718
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rhinoceros](Rhinoceros.md)) 
+### #is_/same_as :: [Rhinoceros](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Rhinoceros.md) 
 
 ### #is_/same_as :: [Rhinoceros.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Rhinoceros.public.md) 
 

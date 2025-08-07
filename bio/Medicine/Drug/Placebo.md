@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Placebos
 Dewey_Decimal_Classification: 615.5
 different_from: '[[_Standards/WikiData/WD~Placebo,344161]]'

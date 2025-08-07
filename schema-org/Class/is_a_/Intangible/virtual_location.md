@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - virtual-location
 - virtual_location

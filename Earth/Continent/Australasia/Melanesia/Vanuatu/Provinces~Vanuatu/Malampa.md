@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Malampa
 confidential: public

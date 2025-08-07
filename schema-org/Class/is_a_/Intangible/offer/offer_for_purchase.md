@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offer-for-purchase
 - offer_for_purchase

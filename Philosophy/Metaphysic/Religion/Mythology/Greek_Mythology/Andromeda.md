@@ -36,4 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Andromeda%20(mythology)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Andromeda](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.md) 
+
+### #is_/same_as :: [Andromeda.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.public.md) 
+
+### #is_/same_as :: [Andromeda.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.internal.md) 
+
+### #is_/same_as :: [Andromeda.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.protect.md) 
+
+### #is_/same_as :: [Andromeda.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.private.md) 
+
+### #is_/same_as :: [Andromeda.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.personal.md) 
+
+### #is_/same_as :: [Andromeda.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Andromeda.secret.md)
 

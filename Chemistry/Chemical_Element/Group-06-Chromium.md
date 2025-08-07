@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Periodic table group 6"
 has_id_wikidata: Q193280
 has_part_s_:
@@ -40,17 +40,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-06-Chromium](/_Standards/chemic/chemic~Elements/Group-06-Chromium.md) 
+### #is_/same_as :: [Group-06-Chromium](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium.md) 
 
-### #is_/same_as :: [Group-06-Chromium.public](/_public/chemic/chemic~Elements/Group-06-Chromium.public.md) 
+### #is_/same_as :: [Group-06-Chromium.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium.public.md) 
 
-### #is_/same_as :: [Group-06-Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium.internal.md) 
+### #is_/same_as :: [Group-06-Chromium.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium.internal.md) 
 
-### #is_/same_as :: [Group-06-Chromium.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium.protect.md) 
+### #is_/same_as :: [Group-06-Chromium.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium.protect.md) 
 
-### #is_/same_as :: [Group-06-Chromium.private](/_private/chemic/chemic~Elements/Group-06-Chromium.private.md) 
+### #is_/same_as :: [Group-06-Chromium.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium.private.md) 
 
-### #is_/same_as :: [Group-06-Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium.personal.md) 
+### #is_/same_as :: [Group-06-Chromium.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium.personal.md) 
 
-### #is_/same_as :: [Group-06-Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium.secret.md)
+### #is_/same_as :: [Group-06-Chromium.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium.secret.md)
 

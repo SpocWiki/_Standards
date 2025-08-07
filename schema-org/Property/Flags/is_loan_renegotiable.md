@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - renegotiable-loan
 - loan_renegotiable

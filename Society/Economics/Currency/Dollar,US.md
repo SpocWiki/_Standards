@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "United States dollar"
 - "American dollar"

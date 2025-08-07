@@ -93,3 +93,20 @@ terms_of_service_URL: https://apnews.com/termsofservice
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Associated%20Press) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Associated_Press](/_Standards/Society/Communication/Media/Journalism/Associated_Press.md) 
+
+### #is_/same_as :: [Associated_Press.public](/_public/Society/Communication/Media/Journalism/Associated_Press.public.md) 
+
+### #is_/same_as :: [Associated_Press.internal](/_internal/Society/Communication/Media/Journalism/Associated_Press.internal.md) 
+
+### #is_/same_as :: [Associated_Press.protect](/_protect/Society/Communication/Media/Journalism/Associated_Press.protect.md) 
+
+### #is_/same_as :: [Associated_Press.private](/_private/Society/Communication/Media/Journalism/Associated_Press.private.md) 
+
+### #is_/same_as :: [Associated_Press.personal](/_personal/Society/Communication/Media/Journalism/Associated_Press.personal.md) 
+
+### #is_/same_as :: [Associated_Press.secret](/_secret/Society/Communication/Media/Journalism/Associated_Press.secret.md)
+

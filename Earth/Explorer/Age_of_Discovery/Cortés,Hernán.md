@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Hernán Cortés"
 - "Hernán Cortés de Monroy y Pizarro Altamirano"

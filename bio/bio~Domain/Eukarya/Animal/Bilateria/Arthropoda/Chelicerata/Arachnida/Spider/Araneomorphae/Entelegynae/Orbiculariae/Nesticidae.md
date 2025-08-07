@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nesticidae
 ---
 
@@ -58,7 +58,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nesticidae](Nesticidae.md)) 
+### #is_/same_as :: [Nesticidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Nesticidae.md) 
 
 ### #is_/same_as :: [Nesticidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Nesticidae.public.md) 
 

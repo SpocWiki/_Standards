@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - address
 - has_location_address

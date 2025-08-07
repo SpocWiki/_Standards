@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - property-value-specification
 - property_value_specification

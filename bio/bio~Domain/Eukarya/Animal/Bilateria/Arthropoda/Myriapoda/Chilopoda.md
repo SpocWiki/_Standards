@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chilopoda
 - Centipede
@@ -76,7 +76,7 @@ Copyright ::         © [Department of Entomology, University of Nebraska-Lincol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chilopoda](Chilopoda.md)) 
+### #is_/same_as :: [Chilopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.md) 
 
 ### #is_/same_as :: [Chilopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda.public.md) 
 

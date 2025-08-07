@@ -68,17 +68,17 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Broccoli\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Broccoli](Broccoli.md)) 
+### #is_/same_as :: [Broccoli](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.md) 
 
-### #is_/same_as :: [Broccoli.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.public.md) 
+### #is_/same_as :: [Broccoli.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.public.md) 
 
-### #is_/same_as :: [Broccoli.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.internal.md) 
+### #is_/same_as :: [Broccoli.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.internal.md) 
 
-### #is_/same_as :: [Broccoli.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.protect.md) 
+### #is_/same_as :: [Broccoli.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.protect.md) 
 
-### #is_/same_as :: [Broccoli.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.private.md) 
+### #is_/same_as :: [Broccoli.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.private.md) 
 
-### #is_/same_as :: [Broccoli.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.personal.md) 
+### #is_/same_as :: [Broccoli.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.personal.md) 
 
-### #is_/same_as :: [Broccoli.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.secret.md)
+### #is_/same_as :: [Broccoli.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Broccoli.secret.md)
 

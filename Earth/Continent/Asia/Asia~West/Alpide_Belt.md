@@ -51,3 +51,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alpide%20belt) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alpide_Belt](/_Standards/Earth/Continent/Asia/Asia~West/Alpide_Belt.md) 
+
+### #is_/same_as :: [Alpide_Belt.public](/_public/Earth/Continent/Asia/Asia~West/Alpide_Belt.public.md) 
+
+### #is_/same_as :: [Alpide_Belt.internal](/_internal/Earth/Continent/Asia/Asia~West/Alpide_Belt.internal.md) 
+
+### #is_/same_as :: [Alpide_Belt.protect](/_protect/Earth/Continent/Asia/Asia~West/Alpide_Belt.protect.md) 
+
+### #is_/same_as :: [Alpide_Belt.private](/_private/Earth/Continent/Asia/Asia~West/Alpide_Belt.private.md) 
+
+### #is_/same_as :: [Alpide_Belt.personal](/_personal/Earth/Continent/Asia/Asia~West/Alpide_Belt.personal.md) 
+
+### #is_/same_as :: [Alpide_Belt.secret](/_secret/Earth/Continent/Asia/Asia~West/Alpide_Belt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Platyhelminthes
 ---
 
@@ -92,7 +92,7 @@ Copyright ::   © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Platyhelminthes](Platyhelminthes.md)) 
+### #is_/same_as :: [Platyhelminthes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.md) 
 
 ### #is_/same_as :: [Platyhelminthes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes.public.md) 
 

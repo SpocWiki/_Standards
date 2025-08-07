@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-scheduled
 - event_scheduled

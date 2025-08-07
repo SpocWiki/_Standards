@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Promachoteuthis sulcus"
 ---
 
@@ -109,7 +109,7 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sulcus](sulcus.md)) 
+### #is_/same_as :: [sulcus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/sulcus.md) 
 
 ### #is_/same_as :: [sulcus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/sulcus.public.md) 
 

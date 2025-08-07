@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthid families"
 ---
 
@@ -122,7 +122,7 @@ Atlas.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chiroteuthid](Chiroteuthid.md)) 
+### #is_/same_as :: [Chiroteuthid](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.md) 
 
 ### #is_/same_as :: [Chiroteuthid.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.public.md) 
 

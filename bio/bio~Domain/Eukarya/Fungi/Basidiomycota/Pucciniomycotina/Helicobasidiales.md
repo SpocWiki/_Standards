@@ -1,4 +1,4 @@
-﻿---
+---
 title: Helicobasidiales
 ---
 
@@ -99,7 +99,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Helicobasidiales](Helicobasidiales.md)) 
+### #is_/same_as :: [Helicobasidiales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.md) 
 
 ### #is_/same_as :: [Helicobasidiales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.public.md) 
 

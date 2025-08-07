@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - loan_payment_amount
 - loan-payment-amount

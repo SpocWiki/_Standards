@@ -1,4 +1,4 @@
-﻿---
+---
 title: Andwakiidae
 ---
 
@@ -56,7 +56,7 @@ volume 1, number 1.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Andwakiidae](Andwakiidae.md)) 
+### #is_/same_as :: [Andwakiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.md) 
 
 ### #is_/same_as :: [Andwakiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.public.md) 
 

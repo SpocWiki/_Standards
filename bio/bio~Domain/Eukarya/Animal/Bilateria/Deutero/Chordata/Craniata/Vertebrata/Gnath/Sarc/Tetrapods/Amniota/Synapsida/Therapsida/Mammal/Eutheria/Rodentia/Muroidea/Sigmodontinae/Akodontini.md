@@ -1,4 +1,4 @@
-﻿---
+---
 title: Akodontini
 ---
 
@@ -75,7 +75,7 @@ title: Akodontini
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Akodontini](Akodontini.md)) 
+### #is_/same_as :: [Akodontini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Akodontini.md) 
 
 ### #is_/same_as :: [Akodontini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Akodontini.public.md) 
 

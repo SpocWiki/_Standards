@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - grantee
 - grantee

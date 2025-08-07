@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TV_series](TV_series.md) 
+### #is_/same_as :: [TV_series](/_Standards/Society/Communication/Media/Television/TV_series.md) 
 
-### #is_/same_as :: [TV_series.public](/_public/Society/Communication/Media/TV_series.public.md) 
+### #is_/same_as :: [TV_series.public](/_public/Society/Communication/Media/Television/TV_series.public.md) 
 
-### #is_/same_as :: [TV_series.internal](/_internal/Society/Communication/Media/TV_series.internal.md) 
+### #is_/same_as :: [TV_series.internal](/_internal/Society/Communication/Media/Television/TV_series.internal.md) 
 
-### #is_/same_as :: [TV_series.protect](/_protect/Society/Communication/Media/TV_series.protect.md) 
+### #is_/same_as :: [TV_series.protect](/_protect/Society/Communication/Media/Television/TV_series.protect.md) 
 
-### #is_/same_as :: [TV_series.private](/_private/Society/Communication/Media/TV_series.private.md) 
+### #is_/same_as :: [TV_series.private](/_private/Society/Communication/Media/Television/TV_series.private.md) 
 
-### #is_/same_as :: [TV_series.personal](/_personal/Society/Communication/Media/TV_series.personal.md) 
+### #is_/same_as :: [TV_series.personal](/_personal/Society/Communication/Media/Television/TV_series.personal.md) 
 
-### #is_/same_as :: [TV_series.secret](/_secret/Society/Communication/Media/TV_series.secret.md)
+### #is_/same_as :: [TV_series.secret](/_secret/Society/Communication/Media/Television/TV_series.secret.md)
 

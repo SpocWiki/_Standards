@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - required-collateral
 - required_collateral

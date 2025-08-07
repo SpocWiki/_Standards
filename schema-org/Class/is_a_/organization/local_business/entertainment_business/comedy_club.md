@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comedy-club
 - comedy_club

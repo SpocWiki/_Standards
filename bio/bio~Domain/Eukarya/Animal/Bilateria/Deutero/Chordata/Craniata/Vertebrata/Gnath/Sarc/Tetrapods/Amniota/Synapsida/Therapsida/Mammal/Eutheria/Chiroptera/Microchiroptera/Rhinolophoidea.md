@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rhinolophoidea
 ---
 
@@ -142,7 +142,7 @@ vol. 10. Lubbock: Texas Tech Univeristy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rhinolophoidea](Rhinolophoidea.md)) 
+### #is_/same_as :: [Rhinolophoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea.md) 
 
 ### #is_/same_as :: [Rhinolophoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea.public.md) 
 

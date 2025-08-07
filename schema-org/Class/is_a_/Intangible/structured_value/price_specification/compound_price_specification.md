@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - compound-price-specification
 - compound_price_specification

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - executable-library-name
 - name_executable_library

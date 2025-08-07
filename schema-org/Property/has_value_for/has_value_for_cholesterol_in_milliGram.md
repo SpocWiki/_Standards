@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cholesterol_in_gram
 - cholesterol-content

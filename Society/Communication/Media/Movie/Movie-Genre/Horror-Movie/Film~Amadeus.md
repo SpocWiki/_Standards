@@ -38,4 +38,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Amadeus%20(film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Film~Amadeus](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.md) 
+
+### #is_/same_as :: [Film~Amadeus.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.public.md) 
+
+### #is_/same_as :: [Film~Amadeus.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.internal.md) 
+
+### #is_/same_as :: [Film~Amadeus.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.protect.md) 
+
+### #is_/same_as :: [Film~Amadeus.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.private.md) 
+
+### #is_/same_as :: [Film~Amadeus.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.personal.md) 
+
+### #is_/same_as :: [Film~Amadeus.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.secret.md)
 

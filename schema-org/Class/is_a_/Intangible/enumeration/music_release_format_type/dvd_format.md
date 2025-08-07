@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dvd-format
 - dvd_format

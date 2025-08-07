@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dionycha
 ---
 
@@ -75,7 +75,7 @@ Photographs copyright © Jim Kalisch, [Department of Entomology,     University 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dionycha](Dionycha.md)) 
+### #is_/same_as :: [Dionycha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha.md) 
 
 ### #is_/same_as :: [Dionycha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha.public.md) 
 

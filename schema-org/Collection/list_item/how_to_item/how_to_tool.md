@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-tool
 - how_to_tool

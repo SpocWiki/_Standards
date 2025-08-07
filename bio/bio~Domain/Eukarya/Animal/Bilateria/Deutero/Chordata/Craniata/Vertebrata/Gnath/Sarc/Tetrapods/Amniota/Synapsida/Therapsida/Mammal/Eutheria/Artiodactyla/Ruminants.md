@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Wiederkäuer
 - Ruminants
@@ -102,7 +102,7 @@ Sex ::                Male
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ruminants](Ruminants.md)) 
+### #is_/same_as :: [Ruminants](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants.md) 
 
 ### #is_/same_as :: [Ruminants.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants.public.md) 
 

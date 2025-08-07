@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - funded-item
 - funding_item

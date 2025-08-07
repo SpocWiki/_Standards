@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - code-sample-type
 - code_of_sample_type

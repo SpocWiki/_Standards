@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Piscis_Australis.personal|Zodiac~Piscis_Australis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Piscis_Australis.secret|Zodiac~Piscis_Australis.secret]] 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis](/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.md) 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis.public](/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public.md) 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal.md) 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect.md) 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis.private](/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private.md) 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal.md) 
+
+### #is_/same_as :: [Zodiac~Piscis_Australis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret.md)
+

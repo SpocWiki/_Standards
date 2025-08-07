@@ -36,3 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pixar)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pixar](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.md) 
+
+### #is_/same_as :: [Pixar.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.public.md) 
+
+### #is_/same_as :: [Pixar.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.internal.md) 
+
+### #is_/same_as :: [Pixar.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.protect.md) 
+
+### #is_/same_as :: [Pixar.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.private.md) 
+
+### #is_/same_as :: [Pixar.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.personal.md) 
+
+### #is_/same_as :: [Pixar.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar.secret.md)
+

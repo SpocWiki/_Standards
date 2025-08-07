@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Promachoteuthis sloani"
 ---
 
@@ -140,7 +140,7 @@ Zool., No. 586: 55-68.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sloani](sloani.md)) 
+### #is_/same_as :: [sloani](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/sloani.md) 
 
 ### #is_/same_as :: [sloani.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Promachoteuthidae/sloani.public.md) 
 

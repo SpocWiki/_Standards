@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Steam engine"
 has_id_wikidata: Q12760

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-system-enumeration
 - size_system_enumeration

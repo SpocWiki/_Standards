@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - public-health
 - public_health

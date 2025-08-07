@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tuberculina sbrozzii"
 ---
 
@@ -67,7 +67,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tuberculina_sbrozzii](Tuberculina_sbrozzii.md)) 
+### #is_/same_as :: [Tuberculina_sbrozzii](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.md) 
 
 ### #is_/same_as :: [Tuberculina_sbrozzii.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.public.md) 
 

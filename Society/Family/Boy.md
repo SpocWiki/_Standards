@@ -36,3 +36,20 @@ P8189: "987007283981505171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boy](/_Standards/Society/Family/Boy.md) 
+
+### #is_/same_as :: [Boy.public](/_public/Society/Family/Boy.public.md) 
+
+### #is_/same_as :: [Boy.internal](/_internal/Society/Family/Boy.internal.md) 
+
+### #is_/same_as :: [Boy.protect](/_protect/Society/Family/Boy.protect.md) 
+
+### #is_/same_as :: [Boy.private](/_private/Society/Family/Boy.private.md) 
+
+### #is_/same_as :: [Boy.personal](/_personal/Society/Family/Boy.personal.md) 
+
+### #is_/same_as :: [Boy.secret](/_secret/Society/Family/Boy.secret.md)
+

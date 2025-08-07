@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amylum
 associated_hazard: '[[_Standards/WikiData/WD~starch_exposure,21175313]]'

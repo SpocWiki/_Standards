@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - departure-platform
 - departure_platform

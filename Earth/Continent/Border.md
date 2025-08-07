@@ -49,3 +49,20 @@ P8189: "987007283983005171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Border) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Border](/_Standards/Earth/Continent/Border.md) 
+
+### #is_/same_as :: [Border.public](/_public/Earth/Continent/Border.public.md) 
+
+### #is_/same_as :: [Border.internal](/_internal/Earth/Continent/Border.internal.md) 
+
+### #is_/same_as :: [Border.protect](/_protect/Earth/Continent/Border.protect.md) 
+
+### #is_/same_as :: [Border.private](/_private/Earth/Continent/Border.private.md) 
+
+### #is_/same_as :: [Border.personal](/_personal/Earth/Continent/Border.personal.md) 
+
+### #is_/same_as :: [Border.secret](/_secret/Earth/Continent/Border.secret.md)
+

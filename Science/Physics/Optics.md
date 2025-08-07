@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Optics) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Optics](/_Standards/Science/Physics/Optics.md) 
+
+### #is_/same_as :: [Optics.public](/_public/Science/Physics/Optics.public.md) 
+
+### #is_/same_as :: [Optics.internal](/_internal/Science/Physics/Optics.internal.md) 
+
+### #is_/same_as :: [Optics.protect](/_protect/Science/Physics/Optics.protect.md) 
+
+### #is_/same_as :: [Optics.private](/_private/Science/Physics/Optics.private.md) 
+
+### #is_/same_as :: [Optics.personal](/_personal/Science/Physics/Optics.personal.md) 
+
+### #is_/same_as :: [Optics.secret](/_secret/Science/Physics/Optics.secret.md)
+

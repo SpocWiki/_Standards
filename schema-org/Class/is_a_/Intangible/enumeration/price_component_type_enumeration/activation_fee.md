@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - activation-fee
 - activation_fee

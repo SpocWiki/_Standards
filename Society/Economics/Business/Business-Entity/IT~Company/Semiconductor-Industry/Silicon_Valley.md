@@ -49,3 +49,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicon%20Valley)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silicon_Valley](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.md) 
+
+### #is_/same_as :: [Silicon_Valley.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.public.md) 
+
+### #is_/same_as :: [Silicon_Valley.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.internal.md) 
+
+### #is_/same_as :: [Silicon_Valley.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.protect.md) 
+
+### #is_/same_as :: [Silicon_Valley.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.private.md) 
+
+### #is_/same_as :: [Silicon_Valley.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.personal.md) 
+
+### #is_/same_as :: [Silicon_Valley.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Silicon_Valley.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - iata-code
 - code_iata

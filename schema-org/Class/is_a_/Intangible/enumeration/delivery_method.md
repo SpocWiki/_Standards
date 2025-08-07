@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - delivery-method
 - delivery_method

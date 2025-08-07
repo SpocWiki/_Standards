@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robin Williams"
 - "Robin McLaurin Williams"
@@ -49,4 +49,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Williams)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Williams,Robin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.md) 
+
+### #is_/same_as :: [Williams,Robin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.public.md) 
+
+### #is_/same_as :: [Williams,Robin.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.internal.md) 
+
+### #is_/same_as :: [Williams,Robin.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.protect.md) 
+
+### #is_/same_as :: [Williams,Robin.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.private.md) 
+
+### #is_/same_as :: [Williams,Robin.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.personal.md) 
+
+### #is_/same_as :: [Williams,Robin.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Williams,Robin.secret.md)
 

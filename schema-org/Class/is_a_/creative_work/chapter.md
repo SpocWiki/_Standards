@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - chapter
 - chapter

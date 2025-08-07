@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - character-name
 - character_name

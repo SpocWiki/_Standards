@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "George Frideric Handel"
 - "George Frederick Handel"

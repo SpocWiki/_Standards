@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Taxonomy
 described_by_source: '[[_Standards/WikiData/WD~Baidu_Baike,803722]]'
 has_id_wikidata: Q11398

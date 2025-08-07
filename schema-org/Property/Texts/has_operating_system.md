@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - operating-system
 - operating_system

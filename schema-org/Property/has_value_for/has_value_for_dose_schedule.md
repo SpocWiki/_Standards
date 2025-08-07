@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dose_schedule
 - dose-schedule

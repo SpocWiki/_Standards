@@ -1,4 +1,4 @@
-﻿---
+---
 authority: '[[_Standards/WikiData/WD~International_Golf_Federation,1047626]]'
 BHCL_UUID: ed00f4f0-2704-4450-8fdf-6837543121b4
 Colon_Classification: MY2145

@@ -102,17 +102,17 @@ Commons_category: Comets
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comet](Comet.md) 
+### #is_/same_as :: [Comet](/_Standards/Astronomy/Solar_System/Comet.md) 
 
-### #is_/same_as :: [Comet.public](/_public/Astronomy/Comet.public.md) 
+### #is_/same_as :: [Comet.public](/_public/Astronomy/Solar_System/Comet.public.md) 
 
-### #is_/same_as :: [Comet.internal](/_internal/Astronomy/Comet.internal.md) 
+### #is_/same_as :: [Comet.internal](/_internal/Astronomy/Solar_System/Comet.internal.md) 
 
-### #is_/same_as :: [Comet.protect](/_protect/Astronomy/Comet.protect.md) 
+### #is_/same_as :: [Comet.protect](/_protect/Astronomy/Solar_System/Comet.protect.md) 
 
-### #is_/same_as :: [Comet.private](/_private/Astronomy/Comet.private.md) 
+### #is_/same_as :: [Comet.private](/_private/Astronomy/Solar_System/Comet.private.md) 
 
-### #is_/same_as :: [Comet.personal](/_personal/Astronomy/Comet.personal.md) 
+### #is_/same_as :: [Comet.personal](/_personal/Astronomy/Solar_System/Comet.personal.md) 
 
-### #is_/same_as :: [Comet.secret](/_secret/Astronomy/Comet.secret.md)
+### #is_/same_as :: [Comet.secret](/_secret/Astronomy/Solar_System/Comet.secret.md)
 

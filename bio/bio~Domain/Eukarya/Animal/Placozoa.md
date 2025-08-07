@@ -1,4 +1,4 @@
-﻿---
+---
 title: Placozoa
 ---
 
@@ -66,7 +66,7 @@ Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Placozoa](Placozoa.md)) 
+### #is_/same_as :: [Placozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Placozoa.md) 
 
 ### #is_/same_as :: [Placozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Placozoa.public.md) 
 

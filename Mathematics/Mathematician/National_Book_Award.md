@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "American Book Award"
 - "National Book Award"

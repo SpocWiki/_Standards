@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "William Kingdon Clifford"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accessibility-feature
 - accessibility_feature

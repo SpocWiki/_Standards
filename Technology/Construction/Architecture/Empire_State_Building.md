@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20State%20Building%20%28simplified%29.stl"
 aliases:
 - "Empire State Building"

@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 academic_thesis: '[[_Standards/WikiData/WD~Über_invariante_Eigenschaften_specieller_binärer_Formen,_insbesondere_der_Kugelfunctionen,57883806]]'
 ACM_Classification_Code_2012_: 10011384

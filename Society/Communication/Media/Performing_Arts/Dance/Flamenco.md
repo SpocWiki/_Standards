@@ -1,4 +1,4 @@
-﻿---
+---
 audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Flamenco%20sample%20by%20FRANCISCOKEEP.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Entre-dos-aguas-laucke-version-sample.flac"

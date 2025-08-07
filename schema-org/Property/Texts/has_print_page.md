@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - print-page
 - print_page

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jorge Luis Borges"
 - "Jorge Francisco Isidoro Luis Borges Acevedo"

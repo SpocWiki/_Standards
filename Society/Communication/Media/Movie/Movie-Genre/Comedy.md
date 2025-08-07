@@ -9,17 +9,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comedy](Comedy.md) 
+### #is_/same_as :: [Comedy](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy.md) 
 
-### #is_/same_as :: [Comedy.public](/_public/Society/Communication/Media/Movie/Comedy.public.md) 
+### #is_/same_as :: [Comedy.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy.public.md) 
 
-### #is_/same_as :: [Comedy.internal](/_internal/Society/Communication/Media/Movie/Comedy.internal.md) 
+### #is_/same_as :: [Comedy.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy.internal.md) 
 
-### #is_/same_as :: [Comedy.protect](/_protect/Society/Communication/Media/Movie/Comedy.protect.md) 
+### #is_/same_as :: [Comedy.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy.protect.md) 
 
-### #is_/same_as :: [Comedy.private](/_private/Society/Communication/Media/Movie/Comedy.private.md) 
+### #is_/same_as :: [Comedy.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy.private.md) 
 
-### #is_/same_as :: [Comedy.personal](/_personal/Society/Communication/Media/Movie/Comedy.personal.md) 
+### #is_/same_as :: [Comedy.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy.personal.md) 
 
-### #is_/same_as :: [Comedy.secret](/_secret/Society/Communication/Media/Movie/Comedy.secret.md)
+### #is_/same_as :: [Comedy.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy.secret.md)
 

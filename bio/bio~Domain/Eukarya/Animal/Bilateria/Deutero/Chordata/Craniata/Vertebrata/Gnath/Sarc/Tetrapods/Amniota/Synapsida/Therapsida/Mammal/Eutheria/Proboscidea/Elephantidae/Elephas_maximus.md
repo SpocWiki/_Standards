@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Elephas maximus"
 ---
 
@@ -63,7 +63,7 @@ title: "Elephas maximus"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Elephas_maximus](Elephas_maximus.md)) 
+### #is_/same_as :: [Elephas_maximus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.md) 
 
 ### #is_/same_as :: [Elephas_maximus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Elephas_maximus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - relevant-occupation
 - relevant_occupation

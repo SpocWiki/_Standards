@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - time-to-complete
 - time_to_complete

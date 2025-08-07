@@ -1,4 +1,4 @@
-﻿---
+---
 title: Uroteuthis
 ---
 
@@ -214,7 +214,7 @@ Cook University, North Queensland, Australia.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Uroteuthis](Uroteuthis.md)) 
+### #is_/same_as :: [Uroteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.md) 
 
 ### #is_/same_as :: [Uroteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.public.md) 
 

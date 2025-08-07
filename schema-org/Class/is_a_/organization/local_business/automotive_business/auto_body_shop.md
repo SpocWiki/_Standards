@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - auto-body-shop
 - auto_body_shop

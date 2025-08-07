@@ -146,3 +146,20 @@ and thus create a positive public Image.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Carnegie)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carnegie,Andrew](/_Standards/Society/Economics/Business/Business-Person/Carnegie,Andrew.md) 
+
+### #is_/same_as :: [Carnegie,Andrew.public](/_public/Society/Economics/Business/Business-Person/Carnegie,Andrew.public.md) 
+
+### #is_/same_as :: [Carnegie,Andrew.internal](/_internal/Society/Economics/Business/Business-Person/Carnegie,Andrew.internal.md) 
+
+### #is_/same_as :: [Carnegie,Andrew.protect](/_protect/Society/Economics/Business/Business-Person/Carnegie,Andrew.protect.md) 
+
+### #is_/same_as :: [Carnegie,Andrew.private](/_private/Society/Economics/Business/Business-Person/Carnegie,Andrew.private.md) 
+
+### #is_/same_as :: [Carnegie,Andrew.personal](/_personal/Society/Economics/Business/Business-Person/Carnegie,Andrew.personal.md) 
+
+### #is_/same_as :: [Carnegie,Andrew.secret](/_secret/Society/Economics/Business/Business-Person/Carnegie,Andrew.secret.md)
+

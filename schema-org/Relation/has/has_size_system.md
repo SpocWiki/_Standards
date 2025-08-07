@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-system
 - size_system

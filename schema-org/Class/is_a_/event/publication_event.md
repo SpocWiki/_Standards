@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publication-event
 - publication_event

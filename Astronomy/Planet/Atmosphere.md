@@ -11,3 +11,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atmosphere) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atmosphere](/_Standards/Astronomy/Planet/Atmosphere.md) 
+
+### #is_/same_as :: [Atmosphere.public](/_public/Astronomy/Planet/Atmosphere.public.md) 
+
+### #is_/same_as :: [Atmosphere.internal](/_internal/Astronomy/Planet/Atmosphere.internal.md) 
+
+### #is_/same_as :: [Atmosphere.protect](/_protect/Astronomy/Planet/Atmosphere.protect.md) 
+
+### #is_/same_as :: [Atmosphere.private](/_private/Astronomy/Planet/Atmosphere.private.md) 
+
+### #is_/same_as :: [Atmosphere.personal](/_personal/Astronomy/Planet/Atmosphere.personal.md) 
+
+### #is_/same_as :: [Atmosphere.secret](/_secret/Astronomy/Planet/Atmosphere.secret.md)
+

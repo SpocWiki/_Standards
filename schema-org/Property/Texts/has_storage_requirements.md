@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - storage-requirements
 - storage_requirements

@@ -43,3 +43,19 @@ has_id_wikidata: Q177567
 > [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20rainforest) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amazon_Rainforest](/_Standards/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.md) 
+
+### #is_/same_as :: [Amazon_Rainforest.public](/_public/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.public.md) 
+
+### #is_/same_as :: [Amazon_Rainforest.internal](/_internal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.internal.md) 
+
+### #is_/same_as :: [Amazon_Rainforest.protect](/_protect/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.protect.md) 
+
+### #is_/same_as :: [Amazon_Rainforest.private](/_private/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.private.md) 
+
+### #is_/same_as :: [Amazon_Rainforest.personal](/_personal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.personal.md) 
+
+### #is_/same_as :: [Amazon_Rainforest.secret](/_secret/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.secret.md)
+

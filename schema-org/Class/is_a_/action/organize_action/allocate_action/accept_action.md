@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accept-action
 - accept_action

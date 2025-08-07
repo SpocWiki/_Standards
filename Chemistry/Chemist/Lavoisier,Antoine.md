@@ -48,3 +48,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antoine%20Lavoisier) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Lavoisier,Antoine](/_Standards/Chemistry/Chemist/Lavoisier,Antoine.md) 
+
+### #is_/same_as :: [Lavoisier,Antoine.public](/_public/Chemistry/Chemist/Lavoisier,Antoine.public.md) 
+
+### #is_/same_as :: [Lavoisier,Antoine.internal](/_internal/Chemistry/Chemist/Lavoisier,Antoine.internal.md) 
+
+### #is_/same_as :: [Lavoisier,Antoine.protect](/_protect/Chemistry/Chemist/Lavoisier,Antoine.protect.md) 
+
+### #is_/same_as :: [Lavoisier,Antoine.private](/_private/Chemistry/Chemist/Lavoisier,Antoine.private.md) 
+
+### #is_/same_as :: [Lavoisier,Antoine.personal](/_personal/Chemistry/Chemist/Lavoisier,Antoine.personal.md) 
+
+### #is_/same_as :: [Lavoisier,Antoine.secret](/_secret/Chemistry/Chemist/Lavoisier,Antoine.secret.md)
+

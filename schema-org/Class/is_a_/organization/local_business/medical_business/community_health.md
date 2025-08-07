@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - community-health
 - community_health

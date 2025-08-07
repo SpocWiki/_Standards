@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - program-membership-used
 - program_membership_used

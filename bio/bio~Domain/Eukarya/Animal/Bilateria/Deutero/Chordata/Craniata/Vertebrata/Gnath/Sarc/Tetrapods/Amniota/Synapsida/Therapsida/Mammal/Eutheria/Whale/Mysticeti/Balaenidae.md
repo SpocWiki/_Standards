@@ -1,4 +1,4 @@
-﻿---
+---
 title: Balaenidae
 ---
 
@@ -65,7 +65,7 @@ title: Balaenidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Balaenidae](Balaenidae.md)) 
+### #is_/same_as :: [Balaenidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenidae.md) 
 
 ### #is_/same_as :: [Balaenidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Whale/Mysticeti/Balaenidae.public.md) 
 

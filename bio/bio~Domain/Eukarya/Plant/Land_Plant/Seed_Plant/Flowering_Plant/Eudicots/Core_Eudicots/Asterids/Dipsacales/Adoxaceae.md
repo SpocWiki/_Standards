@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adoxaceae
 ---
 
@@ -74,17 +74,17 @@ Copyright ::            © Dave Powell, USDA Forest Service
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Adoxaceae](Adoxaceae.md)) 
+### #is_/same_as :: [Adoxaceae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.md) 
 
-### #is_/same_as :: [Adoxaceae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.public.md) 
+### #is_/same_as :: [Adoxaceae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.public.md) 
 
-### #is_/same_as :: [Adoxaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.internal.md) 
+### #is_/same_as :: [Adoxaceae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.internal.md) 
 
-### #is_/same_as :: [Adoxaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.protect.md) 
+### #is_/same_as :: [Adoxaceae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.protect.md) 
 
-### #is_/same_as :: [Adoxaceae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.private.md) 
+### #is_/same_as :: [Adoxaceae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.private.md) 
 
-### #is_/same_as :: [Adoxaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.personal.md) 
+### #is_/same_as :: [Adoxaceae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.personal.md) 
 
-### #is_/same_as :: [Adoxaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.secret.md)
+### #is_/same_as :: [Adoxaceae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.secret.md)
 

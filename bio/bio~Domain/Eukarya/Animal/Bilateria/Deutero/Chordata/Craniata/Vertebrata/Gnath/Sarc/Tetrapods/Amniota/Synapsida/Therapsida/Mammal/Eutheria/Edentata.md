@@ -1,4 +1,4 @@
-﻿---
+---
 title: Edentata
 ---
 
@@ -85,7 +85,7 @@ Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.co
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Edentata](Edentata.md)) 
+### #is_/same_as :: [Edentata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Edentata.md) 
 
 ### #is_/same_as :: [Edentata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Edentata.public.md) 
 

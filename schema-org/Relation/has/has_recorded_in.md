@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recorded-in
 - recorded_in

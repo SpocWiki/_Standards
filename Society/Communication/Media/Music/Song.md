@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 歌曲
 Commons_category: Songs
 described_by_source:

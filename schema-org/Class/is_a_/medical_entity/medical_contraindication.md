@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-contraindication
 - medical_contraindication

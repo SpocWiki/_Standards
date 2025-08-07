@@ -101,3 +101,20 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ANTIBIOTIKI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antibiotic) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antibiotic](/_Standards/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.md) 
+
+### #is_/same_as :: [Antibiotic.public](/_public/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.public.md) 
+
+### #is_/same_as :: [Antibiotic.internal](/_internal/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.internal.md) 
+
+### #is_/same_as :: [Antibiotic.protect](/_protect/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.protect.md) 
+
+### #is_/same_as :: [Antibiotic.private](/_private/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.private.md) 
+
+### #is_/same_as :: [Antibiotic.personal](/_personal/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.personal.md) 
+
+### #is_/same_as :: [Antibiotic.secret](/_secret/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.secret.md)
+

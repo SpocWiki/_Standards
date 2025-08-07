@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - chemical-role
 - role_chemical

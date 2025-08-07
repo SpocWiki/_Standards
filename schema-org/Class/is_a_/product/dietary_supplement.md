@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dietary-supplement
 - dietary_supplement

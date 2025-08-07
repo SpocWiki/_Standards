@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salt](/_Standards/chemic/inOrganic/Salt.md) 
+### #is_/same_as :: [Salt](/_Standards/Chemistry/inOrganic/Salt.md) 
 
-### #is_/same_as :: [Salt.public](/_public/chemic/inOrganic/Salt.public.md) 
+### #is_/same_as :: [Salt.public](/_public/Chemistry/inOrganic/Salt.public.md) 
 
-### #is_/same_as :: [Salt.internal](/_internal/chemic/inOrganic/Salt.internal.md) 
+### #is_/same_as :: [Salt.internal](/_internal/Chemistry/inOrganic/Salt.internal.md) 
 
-### #is_/same_as :: [Salt.protect](/_protect/chemic/inOrganic/Salt.protect.md) 
+### #is_/same_as :: [Salt.protect](/_protect/Chemistry/inOrganic/Salt.protect.md) 
 
-### #is_/same_as :: [Salt.private](/_private/chemic/inOrganic/Salt.private.md) 
+### #is_/same_as :: [Salt.private](/_private/Chemistry/inOrganic/Salt.private.md) 
 
-### #is_/same_as :: [Salt.personal](/_personal/chemic/inOrganic/Salt.personal.md) 
+### #is_/same_as :: [Salt.personal](/_personal/Chemistry/inOrganic/Salt.personal.md) 
 
-### #is_/same_as :: [Salt.secret](/_secret/chemic/inOrganic/Salt.secret.md)
+### #is_/same_as :: [Salt.secret](/_secret/Chemistry/inOrganic/Salt.secret.md)
 

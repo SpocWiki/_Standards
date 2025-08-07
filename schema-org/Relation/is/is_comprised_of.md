@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comprised-of
 - comprised_of

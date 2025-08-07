@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-charge-specification
 - payment_charge_specification

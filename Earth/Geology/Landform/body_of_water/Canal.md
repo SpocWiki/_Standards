@@ -88,19 +88,20 @@ A canal, like the Panama Canal.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Canal)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [canal](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/canal.md) 
+### #is_/same_as :: [Canal](/_Standards/Earth/Geology/Landform/body_of_water/Canal.md) 
 
-### #is_/same_as :: [canal.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/canal.public.md) 
+### #is_/same_as :: [Canal.public](/_public/Earth/Geology/Landform/body_of_water/Canal.public.md) 
 
-### #is_/same_as :: [canal.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/canal.internal.md) 
+### #is_/same_as :: [Canal.internal](/_internal/Earth/Geology/Landform/body_of_water/Canal.internal.md) 
 
-### #is_/same_as :: [canal.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/canal.protect.md) 
+### #is_/same_as :: [Canal.protect](/_protect/Earth/Geology/Landform/body_of_water/Canal.protect.md) 
 
-### #is_/same_as :: [canal.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/canal.private.md) 
+### #is_/same_as :: [Canal.private](/_private/Earth/Geology/Landform/body_of_water/Canal.private.md) 
 
-### #is_/same_as :: [canal.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/canal.personal.md) 
+### #is_/same_as :: [Canal.personal](/_personal/Earth/Geology/Landform/body_of_water/Canal.personal.md) 
 
-### #is_/same_as :: [canal.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/canal.secret.md)
+### #is_/same_as :: [Canal.secret](/_secret/Earth/Geology/Landform/body_of_water/Canal.secret.md)
 

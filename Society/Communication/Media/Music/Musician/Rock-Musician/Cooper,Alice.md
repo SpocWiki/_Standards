@@ -125,3 +125,20 @@ birth_name: Vincent Damon Furnier
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alice%20Cooper) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cooper,Alice](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.md) 
+
+### #is_/same_as :: [Cooper,Alice.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.public.md) 
+
+### #is_/same_as :: [Cooper,Alice.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.internal.md) 
+
+### #is_/same_as :: [Cooper,Alice.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.protect.md) 
+
+### #is_/same_as :: [Cooper,Alice.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.private.md) 
+
+### #is_/same_as :: [Cooper,Alice.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.personal.md) 
+
+### #is_/same_as :: [Cooper,Alice.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Cooper,Alice.secret.md)
+

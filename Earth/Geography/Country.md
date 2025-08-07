@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Countries
 contains_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~first-level_administrative_division,10864048]]'
 described_at_URL: "https://www.whosonfirst.org/docs/placetypes/#country"

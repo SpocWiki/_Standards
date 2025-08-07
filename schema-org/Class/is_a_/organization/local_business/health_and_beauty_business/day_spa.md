@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - day-spa
 - day_spa

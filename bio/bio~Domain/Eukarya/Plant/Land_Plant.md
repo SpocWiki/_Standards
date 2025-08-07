@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Embryophyta
 - "land plants"
@@ -90,17 +90,17 @@ Copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Land_Plant](Land_Plant.md)) 
+### #is_/same_as :: [Land_Plant](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant.md) 
 
-### #is_/same_as :: [Land_Plant.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant.public.md) 
+### #is_/same_as :: [Land_Plant.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant.public.md) 
 
-### #is_/same_as :: [Land_Plant.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant.internal.md) 
+### #is_/same_as :: [Land_Plant.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant.internal.md) 
 
-### #is_/same_as :: [Land_Plant.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant.protect.md) 
+### #is_/same_as :: [Land_Plant.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant.protect.md) 
 
-### #is_/same_as :: [Land_Plant.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant.private.md) 
+### #is_/same_as :: [Land_Plant.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant.private.md) 
 
-### #is_/same_as :: [Land_Plant.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant.personal.md) 
+### #is_/same_as :: [Land_Plant.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant.personal.md) 
 
-### #is_/same_as :: [Land_Plant.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant.secret.md)
+### #is_/same_as :: [Land_Plant.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant.secret.md)
 

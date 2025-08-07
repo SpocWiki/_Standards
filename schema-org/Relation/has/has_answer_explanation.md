@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - answer-explanation
 - answer_explanation

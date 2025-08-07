@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bus-or-coach
 - bus_or_coach

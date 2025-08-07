@@ -33,3 +33,20 @@ has_id_wikidata: Q42299
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bernhard%20Riemann)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Riemann,Bernhard](/_Standards/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.md) 
+
+### #is_/same_as :: [Riemann,Bernhard.public](/_public/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.public.md) 
+
+### #is_/same_as :: [Riemann,Bernhard.internal](/_internal/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.internal.md) 
+
+### #is_/same_as :: [Riemann,Bernhard.protect](/_protect/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.protect.md) 
+
+### #is_/same_as :: [Riemann,Bernhard.private](/_private/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.private.md) 
+
+### #is_/same_as :: [Riemann,Bernhard.personal](/_personal/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.personal.md) 
+
+### #is_/same_as :: [Riemann,Bernhard.secret](/_secret/Mathematics/Mathematician/Modern_Mathematicians/Riemann,Bernhard.secret.md)
+

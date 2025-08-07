@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sell-action
 - sell_action

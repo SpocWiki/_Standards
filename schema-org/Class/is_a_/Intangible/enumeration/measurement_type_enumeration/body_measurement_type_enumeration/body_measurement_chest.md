@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-chest
 - body_measurement_chest

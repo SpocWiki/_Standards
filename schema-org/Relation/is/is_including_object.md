@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - includes-object
 - including_object

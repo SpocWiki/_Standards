@@ -133,3 +133,20 @@ MeSH_tree_code: F01.470.132
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anxiety) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anxiety](/_Standards/bio/Psychology/Emotion/Anxiety.md) 
+
+### #is_/same_as :: [Anxiety.public](/_public/bio/Psychology/Emotion/Anxiety.public.md) 
+
+### #is_/same_as :: [Anxiety.internal](/_internal/bio/Psychology/Emotion/Anxiety.internal.md) 
+
+### #is_/same_as :: [Anxiety.protect](/_protect/bio/Psychology/Emotion/Anxiety.protect.md) 
+
+### #is_/same_as :: [Anxiety.private](/_private/bio/Psychology/Emotion/Anxiety.private.md) 
+
+### #is_/same_as :: [Anxiety.personal](/_personal/bio/Psychology/Emotion/Anxiety.personal.md) 
+
+### #is_/same_as :: [Anxiety.secret](/_secret/bio/Psychology/Emotion/Anxiety.secret.md)
+

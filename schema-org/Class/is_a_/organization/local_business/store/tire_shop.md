@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tire-shop
 - tire_shop

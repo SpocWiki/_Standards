@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - holding-archive
 - holding_archive

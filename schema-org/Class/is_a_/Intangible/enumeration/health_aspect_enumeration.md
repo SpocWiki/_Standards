@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-aspect-enumeration
 - health_aspect_enumeration

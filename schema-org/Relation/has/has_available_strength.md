@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-strength
 - available_strength

@@ -28,3 +28,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Diamonds%20Are%20Forever%20(film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.md) 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.public.md) 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.internal.md) 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.protect.md) 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.private.md) 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.personal.md) 
+
+### #is_/same_as :: [Diamonds_Are_Forever,1971.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Diamonds_Are_Forever,1971.secret.md)
+

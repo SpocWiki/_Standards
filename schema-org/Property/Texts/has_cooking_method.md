@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cooking-method
 - cooking_method

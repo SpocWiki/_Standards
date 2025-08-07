@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 92
 canonical_SMILES: '[U]'
 CAS_Registry_Number: 7440-61-1
@@ -173,17 +173,17 @@ ZVG_number: 7920
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uranium](/_Standards/chemic/chemic~Elements/Actinide-Group/Uranium.md) 
+### #is_/same_as :: [Uranium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Uranium.md) 
 
-### #is_/same_as :: [Uranium.public](/_public/chemic/chemic~Elements/Actinide-Group/Uranium.public.md) 
+### #is_/same_as :: [Uranium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Uranium.public.md) 
 
-### #is_/same_as :: [Uranium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Uranium.internal.md) 
+### #is_/same_as :: [Uranium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Uranium.internal.md) 
 
-### #is_/same_as :: [Uranium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Uranium.protect.md) 
+### #is_/same_as :: [Uranium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Uranium.protect.md) 
 
-### #is_/same_as :: [Uranium.private](/_private/chemic/chemic~Elements/Actinide-Group/Uranium.private.md) 
+### #is_/same_as :: [Uranium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Uranium.private.md) 
 
-### #is_/same_as :: [Uranium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Uranium.personal.md) 
+### #is_/same_as :: [Uranium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Uranium.personal.md) 
 
-### #is_/same_as :: [Uranium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Uranium.secret.md)
+### #is_/same_as :: [Uranium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Uranium.secret.md)
 

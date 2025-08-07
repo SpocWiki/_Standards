@@ -41,3 +41,20 @@ Colon_Classification: S:31
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Attention) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Attention](/_Standards/bio/Psychology/Attention.md) 
+
+### #is_/same_as :: [Attention.public](/_public/bio/Psychology/Attention.public.md) 
+
+### #is_/same_as :: [Attention.internal](/_internal/bio/Psychology/Attention.internal.md) 
+
+### #is_/same_as :: [Attention.protect](/_protect/bio/Psychology/Attention.protect.md) 
+
+### #is_/same_as :: [Attention.private](/_private/bio/Psychology/Attention.private.md) 
+
+### #is_/same_as :: [Attention.personal](/_personal/bio/Psychology/Attention.personal.md) 
+
+### #is_/same_as :: [Attention.secret](/_secret/bio/Psychology/Attention.secret.md)
+

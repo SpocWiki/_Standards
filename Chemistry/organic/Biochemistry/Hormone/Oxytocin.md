@@ -33,17 +33,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oxytocin](/_Standards/chemic/organic/Biochemistry/Hormone/Oxytocin.md) 
+### #is_/same_as :: [Oxytocin](/_Standards/Chemistry/organic/Biochemistry/Hormone/Oxytocin.md) 
 
-### #is_/same_as :: [Oxytocin.public](/_public/chemic/organic/Biochemistry/Hormone/Oxytocin.public.md) 
+### #is_/same_as :: [Oxytocin.public](/_public/Chemistry/organic/Biochemistry/Hormone/Oxytocin.public.md) 
 
-### #is_/same_as :: [Oxytocin.internal](/_internal/chemic/organic/Biochemistry/Hormone/Oxytocin.internal.md) 
+### #is_/same_as :: [Oxytocin.internal](/_internal/Chemistry/organic/Biochemistry/Hormone/Oxytocin.internal.md) 
 
-### #is_/same_as :: [Oxytocin.protect](/_protect/chemic/organic/Biochemistry/Hormone/Oxytocin.protect.md) 
+### #is_/same_as :: [Oxytocin.protect](/_protect/Chemistry/organic/Biochemistry/Hormone/Oxytocin.protect.md) 
 
-### #is_/same_as :: [Oxytocin.private](/_private/chemic/organic/Biochemistry/Hormone/Oxytocin.private.md) 
+### #is_/same_as :: [Oxytocin.private](/_private/Chemistry/organic/Biochemistry/Hormone/Oxytocin.private.md) 
 
-### #is_/same_as :: [Oxytocin.personal](/_personal/chemic/organic/Biochemistry/Hormone/Oxytocin.personal.md) 
+### #is_/same_as :: [Oxytocin.personal](/_personal/Chemistry/organic/Biochemistry/Hormone/Oxytocin.personal.md) 
 
-### #is_/same_as :: [Oxytocin.secret](/_secret/chemic/organic/Biochemistry/Hormone/Oxytocin.secret.md)
+### #is_/same_as :: [Oxytocin.secret](/_secret/Chemistry/organic/Biochemistry/Hormone/Oxytocin.secret.md)
 

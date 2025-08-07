@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-album
 - music_album

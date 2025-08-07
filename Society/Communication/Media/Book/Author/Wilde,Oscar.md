@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Oscar Wilde"
 - "Oscar Fingal O'Flahertie Wills Wilde"
@@ -226,4 +226,21 @@ writing_language:
 > a long poem commemorating the harsh rhythms of prison life.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oscar%20Wilde)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wilde,Oscar](/_Standards/Society/Communication/Media/Book/Author/Wilde,Oscar.md) 
+
+### #is_/same_as :: [Wilde,Oscar.public](/_public/Society/Communication/Media/Book/Author/Wilde,Oscar.public.md) 
+
+### #is_/same_as :: [Wilde,Oscar.internal](/_internal/Society/Communication/Media/Book/Author/Wilde,Oscar.internal.md) 
+
+### #is_/same_as :: [Wilde,Oscar.protect](/_protect/Society/Communication/Media/Book/Author/Wilde,Oscar.protect.md) 
+
+### #is_/same_as :: [Wilde,Oscar.private](/_private/Society/Communication/Media/Book/Author/Wilde,Oscar.private.md) 
+
+### #is_/same_as :: [Wilde,Oscar.personal](/_personal/Society/Communication/Media/Book/Author/Wilde,Oscar.personal.md) 
+
+### #is_/same_as :: [Wilde,Oscar.secret](/_secret/Society/Communication/Media/Book/Author/Wilde,Oscar.secret.md)
 

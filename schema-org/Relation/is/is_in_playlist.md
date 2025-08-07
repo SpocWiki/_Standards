@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-playlist
 - in_playlist

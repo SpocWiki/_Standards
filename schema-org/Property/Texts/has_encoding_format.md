@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - encoding-format
 - encoding_format

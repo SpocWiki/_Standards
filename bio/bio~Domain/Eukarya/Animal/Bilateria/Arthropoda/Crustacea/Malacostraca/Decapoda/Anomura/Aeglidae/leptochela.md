@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla leptochela"
 ---
 
@@ -123,7 +123,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[leptochela](leptochela.md)) 
+### #is_/same_as :: [leptochela](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.md) 
 
 ### #is_/same_as :: [leptochela.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/leptochela.public.md) 
 

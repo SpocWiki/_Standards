@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 69
 canonical_SMILES: '[Tm]'
 CAS_Registry_Number: 7440-30-4
@@ -86,17 +86,17 @@ UNII: 8RKC5ATI4P
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thulium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Thulium.md) 
+### #is_/same_as :: [Thulium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.md) 
 
-### #is_/same_as :: [Thulium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Thulium.public.md) 
+### #is_/same_as :: [Thulium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.public.md) 
 
-### #is_/same_as :: [Thulium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Thulium.internal.md) 
+### #is_/same_as :: [Thulium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.internal.md) 
 
-### #is_/same_as :: [Thulium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Thulium.protect.md) 
+### #is_/same_as :: [Thulium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.protect.md) 
 
-### #is_/same_as :: [Thulium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Thulium.private.md) 
+### #is_/same_as :: [Thulium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.private.md) 
 
-### #is_/same_as :: [Thulium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Thulium.personal.md) 
+### #is_/same_as :: [Thulium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.personal.md) 
 
-### #is_/same_as :: [Thulium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Thulium.secret.md)
+### #is_/same_as :: [Thulium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Thulium.secret.md)
 

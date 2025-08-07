@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/MeshRad%2020221030.stl"
 Commons_category: Wheels
 connects_with: '[[_Standards/WikiData/WD~wheel_hub_assembly,2140339]]'

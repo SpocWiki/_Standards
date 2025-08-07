@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - product-model
 - product_model

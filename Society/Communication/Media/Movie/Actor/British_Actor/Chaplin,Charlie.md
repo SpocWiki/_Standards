@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles Spencer Chaplin"
 - "Charlie Chaplin"
@@ -188,17 +188,17 @@ X_username: ChaplinOfficial
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaplin,Charlie](Chaplin,Charlie.md) 
+### #is_/same_as :: [Chaplin,Charlie](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.public](/_public/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.public.md) 
+### #is_/same_as :: [Chaplin,Charlie.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.public.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.internal](/_internal/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.internal.md) 
+### #is_/same_as :: [Chaplin,Charlie.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.internal.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.protect](/_protect/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.protect.md) 
+### #is_/same_as :: [Chaplin,Charlie.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.protect.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.private](/_private/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.private.md) 
+### #is_/same_as :: [Chaplin,Charlie.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.private.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.personal](/_personal/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.personal.md) 
+### #is_/same_as :: [Chaplin,Charlie.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.personal.md) 
 
-### #is_/same_as :: [Chaplin,Charlie.secret](/_secret/Society/Communication/Media/Movie/Actor/Chaplin,Charlie.secret.md)
+### #is_/same_as :: [Chaplin,Charlie.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Chaplin,Charlie.secret.md)
 

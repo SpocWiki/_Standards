@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fujientomon
 ---
 
@@ -32,7 +32,7 @@ Containing group:[Sinentomata](../Sinentomata.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Fujientomon](Fujientomon.md)) 
+### #is_/same_as :: [Fujientomon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.md) 
 
 ### #is_/same_as :: [Fujientomon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.public.md) 
 

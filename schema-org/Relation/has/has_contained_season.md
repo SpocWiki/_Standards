@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contains-season
 - contains_season

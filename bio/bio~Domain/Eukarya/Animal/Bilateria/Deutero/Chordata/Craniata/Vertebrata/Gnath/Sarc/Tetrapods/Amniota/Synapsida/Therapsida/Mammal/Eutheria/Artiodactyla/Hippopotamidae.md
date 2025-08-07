@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hippopotamidae
 ---
 
@@ -93,7 +93,7 @@ Copyright ::            © 1993 [Greg and Marybeth Dimijian](http://www.dimijian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hippopotamidae](Hippopotamidae.md)) 
+### #is_/same_as :: [Hippopotamidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Hippopotamidae.md) 
 
 ### #is_/same_as :: [Hippopotamidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Hippopotamidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nsn
 - nsn

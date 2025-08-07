@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrive-action
 - arrive_action

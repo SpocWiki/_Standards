@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Joseph Priestley"
 ---
@@ -47,17 +47,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Priestley,Joseph](/_Standards/chemic/Chemist/Priestley,Joseph.md) 
+### #is_/same_as :: [Priestley,Joseph](/_Standards/Chemistry/Chemist/Priestley,Joseph.md) 
 
-### #is_/same_as :: [Priestley,Joseph.public](/_public/chemic/Chemist/Priestley,Joseph.public.md) 
+### #is_/same_as :: [Priestley,Joseph.public](/_public/Chemistry/Chemist/Priestley,Joseph.public.md) 
 
-### #is_/same_as :: [Priestley,Joseph.internal](/_internal/chemic/Chemist/Priestley,Joseph.internal.md) 
+### #is_/same_as :: [Priestley,Joseph.internal](/_internal/Chemistry/Chemist/Priestley,Joseph.internal.md) 
 
-### #is_/same_as :: [Priestley,Joseph.protect](/_protect/chemic/Chemist/Priestley,Joseph.protect.md) 
+### #is_/same_as :: [Priestley,Joseph.protect](/_protect/Chemistry/Chemist/Priestley,Joseph.protect.md) 
 
-### #is_/same_as :: [Priestley,Joseph.private](/_private/chemic/Chemist/Priestley,Joseph.private.md) 
+### #is_/same_as :: [Priestley,Joseph.private](/_private/Chemistry/Chemist/Priestley,Joseph.private.md) 
 
-### #is_/same_as :: [Priestley,Joseph.personal](/_personal/chemic/Chemist/Priestley,Joseph.personal.md) 
+### #is_/same_as :: [Priestley,Joseph.personal](/_personal/Chemistry/Chemist/Priestley,Joseph.personal.md) 
 
-### #is_/same_as :: [Priestley,Joseph.secret](/_secret/chemic/Chemist/Priestley,Joseph.secret.md)
+### #is_/same_as :: [Priestley,Joseph.secret](/_secret/Chemistry/Chemist/Priestley,Joseph.secret.md)
 

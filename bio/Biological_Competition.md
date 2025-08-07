@@ -50,3 +50,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20bucks%20of%20T
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Competition%20(biology)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biological_Competition](/_Standards/bio/Biological_Competition.md) 
+
+### #is_/same_as :: [Biological_Competition.public](/_public/bio/Biological_Competition.public.md) 
+
+### #is_/same_as :: [Biological_Competition.internal](/_internal/bio/Biological_Competition.internal.md) 
+
+### #is_/same_as :: [Biological_Competition.protect](/_protect/bio/Biological_Competition.protect.md) 
+
+### #is_/same_as :: [Biological_Competition.private](/_private/bio/Biological_Competition.private.md) 
+
+### #is_/same_as :: [Biological_Competition.personal](/_personal/bio/Biological_Competition.personal.md) 
+
+### #is_/same_as :: [Biological_Competition.secret](/_secret/bio/Biological_Competition.secret.md)
+

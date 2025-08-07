@@ -38,6 +38,19 @@ UNSPSC_Code: 12352003
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkyne) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Alkyne](/_Standards/Chemistry/organic/Alkyne.md) 
 
+### #is_/same_as :: [Alkyne.public](/_public/Chemistry/organic/Alkyne.public.md) 
+
+### #is_/same_as :: [Alkyne.internal](/_internal/Chemistry/organic/Alkyne.internal.md) 
+
+### #is_/same_as :: [Alkyne.protect](/_protect/Chemistry/organic/Alkyne.protect.md) 
+
+### #is_/same_as :: [Alkyne.private](/_private/Chemistry/organic/Alkyne.private.md) 
+
+### #is_/same_as :: [Alkyne.personal](/_personal/Chemistry/organic/Alkyne.personal.md) 
+
+### #is_/same_as :: [Alkyne.secret](/_secret/Chemistry/organic/Alkyne.secret.md)
 

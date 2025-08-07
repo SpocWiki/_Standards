@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Miloš Forman"
 - "Milos Forman"
@@ -37,4 +37,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Milo%C5%A1%20Forman)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Forman,Miloš](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.md) 
+
+### #is_/same_as :: [Forman,Miloš.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.public.md) 
+
+### #is_/same_as :: [Forman,Miloš.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.internal.md) 
+
+### #is_/same_as :: [Forman,Miloš.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.protect.md) 
+
+### #is_/same_as :: [Forman,Miloš.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.private.md) 
+
+### #is_/same_as :: [Forman,Miloš.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.personal.md) 
+
+### #is_/same_as :: [Forman,Miloš.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Forman,Miloš.secret.md)
 

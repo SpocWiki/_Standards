@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - visual-artwork
 - visual_artwork

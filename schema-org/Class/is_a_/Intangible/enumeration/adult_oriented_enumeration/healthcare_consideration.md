@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - healthcare-consideration
 - healthcare_consideration

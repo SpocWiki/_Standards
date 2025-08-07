@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reservation-for
 - reservation_for

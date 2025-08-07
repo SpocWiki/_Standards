@@ -26,3 +26,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicon%20carbide)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Silicon_Carbide](/_Standards/Chemistry/inOrganic/Silicon_Carbide.md) 
+
+### #is_/same_as :: [Silicon_Carbide.public](/_public/Chemistry/inOrganic/Silicon_Carbide.public.md) 
+
+### #is_/same_as :: [Silicon_Carbide.internal](/_internal/Chemistry/inOrganic/Silicon_Carbide.internal.md) 
+
+### #is_/same_as :: [Silicon_Carbide.protect](/_protect/Chemistry/inOrganic/Silicon_Carbide.protect.md) 
+
+### #is_/same_as :: [Silicon_Carbide.private](/_private/Chemistry/inOrganic/Silicon_Carbide.private.md) 
+
+### #is_/same_as :: [Silicon_Carbide.personal](/_personal/Chemistry/inOrganic/Silicon_Carbide.personal.md) 
+
+### #is_/same_as :: [Silicon_Carbide.secret](/_secret/Chemistry/inOrganic/Silicon_Carbide.secret.md)
+

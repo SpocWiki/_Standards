@@ -216,3 +216,20 @@ date_of_death: 2018-08-16T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aretha%20Franklin) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Franklin,Aretha](/_Standards/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.md) 
+
+### #is_/same_as :: [Franklin,Aretha.public](/_public/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.public.md) 
+
+### #is_/same_as :: [Franklin,Aretha.internal](/_internal/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.internal.md) 
+
+### #is_/same_as :: [Franklin,Aretha.protect](/_protect/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.protect.md) 
+
+### #is_/same_as :: [Franklin,Aretha.private](/_private/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.private.md) 
+
+### #is_/same_as :: [Franklin,Aretha.personal](/_personal/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.personal.md) 
+
+### #is_/same_as :: [Franklin,Aretha.secret](/_secret/Society/Communication/Media/Music/Musician/Soul-Singer/Franklin,Aretha.secret.md)
+

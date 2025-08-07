@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - not-yet-recruiting
 - not_yet_recruiting

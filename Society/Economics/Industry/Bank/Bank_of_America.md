@@ -172,3 +172,20 @@ official_name: Bank of America Corporation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bank%20of%20America) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bank_of_America](/_Standards/Society/Economics/Industry/Bank/Bank_of_America.md) 
+
+### #is_/same_as :: [Bank_of_America.public](/_public/Society/Economics/Industry/Bank/Bank_of_America.public.md) 
+
+### #is_/same_as :: [Bank_of_America.internal](/_internal/Society/Economics/Industry/Bank/Bank_of_America.internal.md) 
+
+### #is_/same_as :: [Bank_of_America.protect](/_protect/Society/Economics/Industry/Bank/Bank_of_America.protect.md) 
+
+### #is_/same_as :: [Bank_of_America.private](/_private/Society/Economics/Industry/Bank/Bank_of_America.private.md) 
+
+### #is_/same_as :: [Bank_of_America.personal](/_personal/Society/Economics/Industry/Bank/Bank_of_America.personal.md) 
+
+### #is_/same_as :: [Bank_of_America.secret](/_secret/Society/Economics/Industry/Bank/Bank_of_America.secret.md)
+

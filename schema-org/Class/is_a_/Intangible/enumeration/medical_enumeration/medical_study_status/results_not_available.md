@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - results-not-available
 - results_not_available

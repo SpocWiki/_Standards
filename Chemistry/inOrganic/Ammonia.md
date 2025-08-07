@@ -177,3 +177,20 @@ DSSTOX_compound_identifier: DTXCID803872
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ammonia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ammonia](/_Standards/Chemistry/inOrganic/Ammonia.md) 
+
+### #is_/same_as :: [Ammonia.public](/_public/Chemistry/inOrganic/Ammonia.public.md) 
+
+### #is_/same_as :: [Ammonia.internal](/_internal/Chemistry/inOrganic/Ammonia.internal.md) 
+
+### #is_/same_as :: [Ammonia.protect](/_protect/Chemistry/inOrganic/Ammonia.protect.md) 
+
+### #is_/same_as :: [Ammonia.private](/_private/Chemistry/inOrganic/Ammonia.private.md) 
+
+### #is_/same_as :: [Ammonia.personal](/_personal/Chemistry/inOrganic/Ammonia.personal.md) 
+
+### #is_/same_as :: [Ammonia.secret](/_secret/Chemistry/inOrganic/Ammonia.secret.md)
+

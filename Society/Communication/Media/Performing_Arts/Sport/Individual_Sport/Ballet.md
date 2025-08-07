@@ -62,3 +62,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Darcey%20Bussell%2C%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ballet) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ballet](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.md) 
+
+### #is_/same_as :: [Ballet.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.public.md) 
+
+### #is_/same_as :: [Ballet.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.internal.md) 
+
+### #is_/same_as :: [Ballet.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.protect.md) 
+
+### #is_/same_as :: [Ballet.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.private.md) 
+
+### #is_/same_as :: [Ballet.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.personal.md) 
+
+### #is_/same_as :: [Ballet.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Individual_Sport/Ballet.secret.md)
+

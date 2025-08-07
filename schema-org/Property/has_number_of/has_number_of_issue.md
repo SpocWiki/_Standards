@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - issue-number
 - issue_number

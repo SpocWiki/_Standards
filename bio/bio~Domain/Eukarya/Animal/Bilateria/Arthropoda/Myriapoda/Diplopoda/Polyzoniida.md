@@ -1,4 +1,4 @@
-﻿---
+---
 title: Polyzoniida
 ---
 
@@ -53,7 +53,7 @@ title: Polyzoniida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Polyzoniida](Polyzoniida.md)) 
+### #is_/same_as :: [Polyzoniida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Polyzoniida.md) 
 
 ### #is_/same_as :: [Polyzoniida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Polyzoniida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - refund-type
 - refund_type

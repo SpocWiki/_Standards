@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - programming-language
 - programming_language

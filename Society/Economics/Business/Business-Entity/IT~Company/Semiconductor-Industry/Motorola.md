@@ -90,3 +90,20 @@ By 1998, cellphones accounted for two thirds of Motorola's gross revenue.
 
 In June 2000, Motorola and [Cisco](https://en.wikipedia.org/wiki/Cisco "Cisco") supplied the world's first commercial [GPRS](https://en.wikipedia.org/wiki/GPRS "GPRS") cellular network to [BT Cellnet](https://en.wikipedia.org/wiki/BT_Cellnet "BT Cellnet") in the United Kingdom. Motorola also developed the world's first GPRS cell phone.
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Motorola](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.md) 
+
+### #is_/same_as :: [Motorola.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.public.md) 
+
+### #is_/same_as :: [Motorola.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.internal.md) 
+
+### #is_/same_as :: [Motorola.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.protect.md) 
+
+### #is_/same_as :: [Motorola.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.private.md) 
+
+### #is_/same_as :: [Motorola.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.personal.md) 
+
+### #is_/same_as :: [Motorola.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Motorola.secret.md)
+

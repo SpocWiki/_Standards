@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-building
 - government_building

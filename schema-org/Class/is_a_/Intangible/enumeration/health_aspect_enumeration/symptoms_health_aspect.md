@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - symptoms-health-aspect
 - symptoms_health_aspect

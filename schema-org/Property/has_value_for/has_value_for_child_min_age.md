@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - child_min_age
 - child-min-age

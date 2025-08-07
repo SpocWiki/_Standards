@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - violence-consideration
 - violence_consideration

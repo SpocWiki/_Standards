@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - evidence-level
 - evidence_level

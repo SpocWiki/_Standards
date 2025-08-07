@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - surgical-procedure
 - surgical_procedure

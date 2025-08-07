@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - 
 confidential: private
@@ -75,3 +75,21 @@ Moving / zipping Folder loses Details but that may be an advantage.
 		- no push commits 
 		- less than 5 repositories.
 	- 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [SW~Discourse](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.md) 
+
+### #is_/same_as :: [SW~Discourse.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.public.md) 
+
+### #is_/same_as :: [SW~Discourse.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.internal.md) 
+
+### #is_/same_as :: [SW~Discourse.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.protect.md) 
+
+### #is_/same_as :: [SW~Discourse.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.private.md) 
+
+### #is_/same_as :: [SW~Discourse.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.personal.md) 
+
+### #is_/same_as :: [SW~Discourse.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/SW~Discourse.secret.md)
+

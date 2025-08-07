@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cyatholipidae
 ---
 
@@ -50,7 +50,7 @@ research.amnh.org="" entomology="" spiders="" catalog="" index.html=""}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cyatholipidae](Cyatholipidae.md)) 
+### #is_/same_as :: [Cyatholipidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Cyatholipidae.md) 
 
 ### #is_/same_as :: [Cyatholipidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Cyatholipidae.public.md) 
 

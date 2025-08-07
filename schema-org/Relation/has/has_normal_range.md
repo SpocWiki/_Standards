@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - normal-range
 - normal_range

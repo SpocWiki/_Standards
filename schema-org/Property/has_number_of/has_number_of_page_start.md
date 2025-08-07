@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - page-start
 - page_start

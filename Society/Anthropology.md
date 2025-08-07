@@ -101,3 +101,20 @@ greek from Andos "Man" and "Logos"
 type: folder_brief_live
 ```
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anthropology](/_Standards/Society/Anthropology.md) 
+
+### #is_/same_as :: [Anthropology.public](/_public/Society/Anthropology.public.md) 
+
+### #is_/same_as :: [Anthropology.internal](/_internal/Society/Anthropology.internal.md) 
+
+### #is_/same_as :: [Anthropology.protect](/_protect/Society/Anthropology.protect.md) 
+
+### #is_/same_as :: [Anthropology.private](/_private/Society/Anthropology.private.md) 
+
+### #is_/same_as :: [Anthropology.personal](/_personal/Society/Anthropology.personal.md) 
+
+### #is_/same_as :: [Anthropology.secret](/_secret/Society/Anthropology.secret.md)
+

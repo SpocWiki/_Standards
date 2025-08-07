@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 6
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Virgo|Zodiac~Virgo]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Virgo.public|Zodiac~Virgo.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Virgo.internal|Zodiac~Virgo.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Virgo.protect|Zodiac~Virgo.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Virgo.private|Zodiac~Virgo.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Virgo.personal|Zodiac~Virgo.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Virgo.secret|Zodiac~Virgo.secret]] 
+
+### #is_/same_as :: [Zodiac~Virgo](/_Standards/Astronomy/Star~Constellation/Zodiac~Virgo.md) 
+
+### #is_/same_as :: [Zodiac~Virgo.public](/_public/Astronomy/Star~Constellation/Zodiac~Virgo.public.md) 
+
+### #is_/same_as :: [Zodiac~Virgo.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Virgo.internal.md) 
+
+### #is_/same_as :: [Zodiac~Virgo.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Virgo.protect.md) 
+
+### #is_/same_as :: [Zodiac~Virgo.private](/_private/Astronomy/Star~Constellation/Zodiac~Virgo.private.md) 
+
+### #is_/same_as :: [Zodiac~Virgo.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Virgo.personal.md) 
+
+### #is_/same_as :: [Zodiac~Virgo.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Virgo.secret.md)
+

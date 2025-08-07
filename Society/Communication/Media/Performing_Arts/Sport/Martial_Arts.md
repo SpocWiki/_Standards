@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 武术
 Commons_category: "Martial arts"
 GitHub_topic: martial-arts

@@ -92,7 +92,7 @@ Wolfram_Language_entity_type: FictionalCharacter
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fictional_Characters](Fictional_Characters.md) 
+### #is_/same_as :: [Fictional_Characters](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters.md) 
 
 ### #is_/same_as :: [Fictional_Characters.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters.public.md) 
 

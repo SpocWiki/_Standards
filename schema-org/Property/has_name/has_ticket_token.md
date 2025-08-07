@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ticket-token
 - ticket_token

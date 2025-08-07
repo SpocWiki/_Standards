@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Galenomys garleppi"
 ---
 
@@ -75,7 +75,7 @@ the appropriate view below.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Galenomys](Galenomys.md)) 
+### #is_/same_as :: [Galenomys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Galenomys.md) 
 
 ### #is_/same_as :: [Galenomys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Galenomys.public.md) 
 

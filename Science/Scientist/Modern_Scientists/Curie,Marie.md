@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree:
 - '[[_Standards/WikiData/WD~licentiate,749020]]'
 - '[[_Standards/WikiData/WD~doctorate,849697]]'

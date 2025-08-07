@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cirrothauma magna"
 ---
 
@@ -154,7 +154,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[magna](magna.md)) 
+### #is_/same_as :: [magna](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae/Cirrothauma/magna.md) 
 
 ### #is_/same_as :: [magna.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Cirroteuthidae/Cirrothauma/magna.public.md) 
 

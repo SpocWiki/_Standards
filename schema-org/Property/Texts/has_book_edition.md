@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - book-edition
 - book_edition

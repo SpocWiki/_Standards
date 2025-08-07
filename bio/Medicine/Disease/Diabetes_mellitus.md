@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 糖尿病
 Colon_Classification: "L293:46"
 Commons_category: "Diabetes mellitus"

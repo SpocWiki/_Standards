@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 academic_thesis: '[[_Standards/WikiData/WD~The_Difference_Between_the_Democritean_and_Epicurean_Philosophy_of_Nature,3027686]]'
 aliases:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hirse
 - Millet
@@ -18,17 +18,17 @@ has_id_wikidata: Q259438
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Millet](Millet.md)) 
+### #is_/same_as :: [Millet](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.md) 
 
-### #is_/same_as :: [Millet.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.public.md) 
+### #is_/same_as :: [Millet.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.public.md) 
 
-### #is_/same_as :: [Millet.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.internal.md) 
+### #is_/same_as :: [Millet.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.internal.md) 
 
-### #is_/same_as :: [Millet.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.protect.md) 
+### #is_/same_as :: [Millet.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.protect.md) 
 
-### #is_/same_as :: [Millet.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.private.md) 
+### #is_/same_as :: [Millet.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.private.md) 
 
-### #is_/same_as :: [Millet.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.personal.md) 
+### #is_/same_as :: [Millet.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.personal.md) 
 
-### #is_/same_as :: [Millet.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.secret.md)
+### #is_/same_as :: [Millet.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Millet.secret.md)
 

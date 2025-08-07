@@ -54,3 +54,20 @@ aliases:
 39. [Studio band](https://en.wikipedia.org/wiki/Studio_band "Studio band")
 40. [Tribute act](https://en.wikipedia.org/wiki/Tribute_act "Tribute act") 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Music~Band](/_Standards/Society/Communication/Media/Music/Musician/Music~Band.md) 
+
+### #is_/same_as :: [Music~Band.public](/_public/Society/Communication/Media/Music/Musician/Music~Band.public.md) 
+
+### #is_/same_as :: [Music~Band.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band.internal.md) 
+
+### #is_/same_as :: [Music~Band.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band.protect.md) 
+
+### #is_/same_as :: [Music~Band.private](/_private/Society/Communication/Media/Music/Musician/Music~Band.private.md) 
+
+### #is_/same_as :: [Music~Band.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band.personal.md) 
+
+### #is_/same_as :: [Music~Band.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band.secret.md)
+

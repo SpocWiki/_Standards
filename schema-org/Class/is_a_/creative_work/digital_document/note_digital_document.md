@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - note-digital-document
 - note_digital_document

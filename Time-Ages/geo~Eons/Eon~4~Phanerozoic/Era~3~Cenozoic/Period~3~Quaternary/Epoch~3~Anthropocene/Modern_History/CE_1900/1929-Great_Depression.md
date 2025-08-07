@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Great Depression"
 - "Große Depression"

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Chordata
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -336,7 +336,7 @@ Copyright ::            © 1995 Chris Brochu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chordata](Chordata.md)) 
+### #is_/same_as :: [Chordata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.md) 
 
 ### #is_/same_as :: [Chordata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.public.md) 
 

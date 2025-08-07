@@ -1,4 +1,4 @@
-﻿---
+---
 title: Priapulida
 ---
 
@@ -80,7 +80,7 @@ Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Priapulida](Priapulida.md)) 
+### #is_/same_as :: [Priapulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.md) 
 
 ### #is_/same_as :: [Priapulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.public.md) 
 

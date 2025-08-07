@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-store-only
 - in_store_only

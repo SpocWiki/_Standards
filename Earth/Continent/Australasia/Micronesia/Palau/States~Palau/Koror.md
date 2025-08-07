@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Koror
 confidential: public

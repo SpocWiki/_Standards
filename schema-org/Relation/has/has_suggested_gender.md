@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suggested-gender
 - suggested_gender

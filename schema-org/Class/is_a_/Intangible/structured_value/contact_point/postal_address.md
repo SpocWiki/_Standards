@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - postal-address
 - postal_address

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - trans_fat_in_gram
 - trans-fat-content

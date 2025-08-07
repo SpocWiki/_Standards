@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - death-place
 - death_place

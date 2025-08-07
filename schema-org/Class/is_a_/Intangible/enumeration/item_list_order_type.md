@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-list-order-type
 - item_list_order_type

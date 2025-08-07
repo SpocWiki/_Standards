@@ -1,4 +1,4 @@
-﻿---
+---
 title: Palaeobatrachidae
 ---
 
@@ -105,17 +105,17 @@ Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Palaeobatrachidae](Palaeobatrachidae.md)) 
+### #is_/same_as :: [Palaeobatrachidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.md) 
 
-### #is_/same_as :: [Palaeobatrachidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Palaeobatrachidae.public.md) 
+### #is_/same_as :: [Palaeobatrachidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.public.md) 
 
-### #is_/same_as :: [Palaeobatrachidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Palaeobatrachidae.internal.md) 
+### #is_/same_as :: [Palaeobatrachidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.internal.md) 
 
-### #is_/same_as :: [Palaeobatrachidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Palaeobatrachidae.protect.md) 
+### #is_/same_as :: [Palaeobatrachidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.protect.md) 
 
-### #is_/same_as :: [Palaeobatrachidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Palaeobatrachidae.private.md) 
+### #is_/same_as :: [Palaeobatrachidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.private.md) 
 
-### #is_/same_as :: [Palaeobatrachidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Palaeobatrachidae.personal.md) 
+### #is_/same_as :: [Palaeobatrachidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.personal.md) 
 
-### #is_/same_as :: [Palaeobatrachidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Palaeobatrachidae.secret.md)
+### #is_/same_as :: [Palaeobatrachidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Palaeobatrachidae.secret.md)
 

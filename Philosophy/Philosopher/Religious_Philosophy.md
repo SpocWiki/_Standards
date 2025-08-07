@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Religious philosophy"
 Commons_category: "Religious philosophy"

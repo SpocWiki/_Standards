@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lycosidae
 ---
 
@@ -180,7 +180,7 @@ spider genera (Spider, Lycosidae). J. Arachnol. 30:227--237.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lycosidae](Lycosidae.md)) 
+### #is_/same_as :: [Lycosidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.md) 
 
 ### #is_/same_as :: [Lycosidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.public.md) 
 

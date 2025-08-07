@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 23
 boiling_point: 3377
 canonical_SMILES: '[V]'
@@ -128,17 +128,17 @@ SpocWebEntityId: 21923
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vanadium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.md) 
+### #is_/same_as :: [Vanadium](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.md) 
 
-### #is_/same_as :: [Vanadium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.public.md) 
+### #is_/same_as :: [Vanadium.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.public.md) 
 
-### #is_/same_as :: [Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.internal.md) 
+### #is_/same_as :: [Vanadium.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.internal.md) 
 
-### #is_/same_as :: [Vanadium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.protect.md) 
+### #is_/same_as :: [Vanadium.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.protect.md) 
 
-### #is_/same_as :: [Vanadium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.private.md) 
+### #is_/same_as :: [Vanadium.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.private.md) 
 
-### #is_/same_as :: [Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.personal.md) 
+### #is_/same_as :: [Vanadium.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.personal.md) 
 
-### #is_/same_as :: [Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.secret.md)
+### #is_/same_as :: [Vanadium.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.secret.md)
 

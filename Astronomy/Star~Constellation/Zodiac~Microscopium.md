@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -16,10 +16,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Microscopium|Zodiac~Microscopium]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Microscopium.public|Zodiac~Microscopium.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Microscopium.internal|Zodiac~Microscopium.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Microscopium.protect|Zodiac~Microscopium.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Microscopium.private|Zodiac~Microscopium.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Microscopium.personal|Zodiac~Microscopium.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Microscopium.secret|Zodiac~Microscopium.secret]] 
+
+### #is_/same_as :: [Zodiac~Microscopium](/_Standards/Astronomy/Star~Constellation/Zodiac~Microscopium.md) 
+
+### #is_/same_as :: [Zodiac~Microscopium.public](/_public/Astronomy/Star~Constellation/Zodiac~Microscopium.public.md) 
+
+### #is_/same_as :: [Zodiac~Microscopium.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Microscopium.internal.md) 
+
+### #is_/same_as :: [Zodiac~Microscopium.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Microscopium.protect.md) 
+
+### #is_/same_as :: [Zodiac~Microscopium.private](/_private/Astronomy/Star~Constellation/Zodiac~Microscopium.private.md) 
+
+### #is_/same_as :: [Zodiac~Microscopium.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Microscopium.personal.md) 
+
+### #is_/same_as :: [Zodiac~Microscopium.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Microscopium.secret.md)
+

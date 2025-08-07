@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parent-taxon
 - parent_taxon

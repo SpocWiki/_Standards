@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - multicellular-parasite
 - multicellular_parasite

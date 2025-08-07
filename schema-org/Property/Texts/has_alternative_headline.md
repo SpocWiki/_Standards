@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - alternative-headline
 - alternative_headline

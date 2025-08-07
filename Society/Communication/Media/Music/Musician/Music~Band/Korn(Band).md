@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Band Korn"
 ---
@@ -50,4 +50,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Korn)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Korn(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).md) 
+
+### #is_/same_as :: [Korn(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).public.md) 
+
+### #is_/same_as :: [Korn(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).internal.md) 
+
+### #is_/same_as :: [Korn(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).protect.md) 
+
+### #is_/same_as :: [Korn(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).private.md) 
+
+### #is_/same_as :: [Korn(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).personal.md) 
+
+### #is_/same_as :: [Korn(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band).secret.md)
 

@@ -65,17 +65,17 @@ uses:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Photosynthesis](Photosynthesis.md)) 
+### #is_/same_as :: [Photosynthesis](/_Standards/bio/Botany/Photosynthesis.md) 
 
-### #is_/same_as :: [Photosynthesis.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Photosynthesis.public.md) 
+### #is_/same_as :: [Photosynthesis.public](/_public/bio/Botany/Photosynthesis.public.md) 
 
-### #is_/same_as :: [Photosynthesis.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Photosynthesis.internal.md) 
+### #is_/same_as :: [Photosynthesis.internal](/_internal/bio/Botany/Photosynthesis.internal.md) 
 
-### #is_/same_as :: [Photosynthesis.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Photosynthesis.protect.md) 
+### #is_/same_as :: [Photosynthesis.protect](/_protect/bio/Botany/Photosynthesis.protect.md) 
 
-### #is_/same_as :: [Photosynthesis.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Photosynthesis.private.md) 
+### #is_/same_as :: [Photosynthesis.private](/_private/bio/Botany/Photosynthesis.private.md) 
 
-### #is_/same_as :: [Photosynthesis.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Photosynthesis.personal.md) 
+### #is_/same_as :: [Photosynthesis.personal](/_personal/bio/Botany/Photosynthesis.personal.md) 
 
-### #is_/same_as :: [Photosynthesis.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Photosynthesis.secret.md)
+### #is_/same_as :: [Photosynthesis.secret](/_secret/bio/Botany/Photosynthesis.secret.md)
 

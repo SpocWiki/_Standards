@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - defined-region
 - defined_region

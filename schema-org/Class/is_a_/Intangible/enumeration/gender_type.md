@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gender-type
 - gender_type

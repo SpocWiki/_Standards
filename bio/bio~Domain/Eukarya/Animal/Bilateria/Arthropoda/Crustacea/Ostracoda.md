@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ostracoda
 ---
 
@@ -125,7 +125,7 @@ title: Ostracoda
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ostracoda](Ostracoda.md)) 
+### #is_/same_as :: [Ostracoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Ostracoda.md) 
 
 ### #is_/same_as :: [Ostracoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Ostracoda.public.md) 
 

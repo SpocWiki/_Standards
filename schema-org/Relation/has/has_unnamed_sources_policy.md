@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unnamed-sources-policy
 - unnamed_sources_policy

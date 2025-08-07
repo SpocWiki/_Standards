@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amastigomonas mutabilis"
 ---
 
@@ -100,7 +100,7 @@ European Journal of Protistology 27: 386-396.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[mutabilis](mutabilis.md)) 
+### #is_/same_as :: [mutabilis](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.md) 
 
 ### #is_/same_as :: [mutabilis.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.public.md) 
 

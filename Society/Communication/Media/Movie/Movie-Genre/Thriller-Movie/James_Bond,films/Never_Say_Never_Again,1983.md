@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Never Say Never Again"
 ---
@@ -24,5 +24,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Never%20Say%20Never%20Again)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Never_Say_Never_Again,1983](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.md) 
+
+### #is_/same_as :: [Never_Say_Never_Again,1983.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.public.md) 
+
+### #is_/same_as :: [Never_Say_Never_Again,1983.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.internal.md) 
+
+### #is_/same_as :: [Never_Say_Never_Again,1983.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.protect.md) 
+
+### #is_/same_as :: [Never_Say_Never_Again,1983.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.private.md) 
+
+### #is_/same_as :: [Never_Say_Never_Again,1983.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.personal.md) 
+
+### #is_/same_as :: [Never_Say_Never_Again,1983.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Never_Say_Never_Again,1983.secret.md)
 

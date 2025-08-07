@@ -93,3 +93,20 @@ MeSH_tree_code: F01.470.093
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anger) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anger](/_Standards/bio/Psychology/Emotion/Anger.md) 
+
+### #is_/same_as :: [Anger.public](/_public/bio/Psychology/Emotion/Anger.public.md) 
+
+### #is_/same_as :: [Anger.internal](/_internal/bio/Psychology/Emotion/Anger.internal.md) 
+
+### #is_/same_as :: [Anger.protect](/_protect/bio/Psychology/Emotion/Anger.protect.md) 
+
+### #is_/same_as :: [Anger.private](/_private/bio/Psychology/Emotion/Anger.private.md) 
+
+### #is_/same_as :: [Anger.personal](/_personal/bio/Psychology/Emotion/Anger.personal.md) 
+
+### #is_/same_as :: [Anger.secret](/_secret/bio/Psychology/Emotion/Anger.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-force
 - in_force

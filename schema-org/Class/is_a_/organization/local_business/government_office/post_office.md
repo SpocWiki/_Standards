@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - post-office
 - post_office

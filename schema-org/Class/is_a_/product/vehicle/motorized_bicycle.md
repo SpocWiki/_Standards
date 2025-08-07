@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - motorized-bicycle
 - motorized_bicycle

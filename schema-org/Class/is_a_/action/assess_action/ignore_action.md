@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ignore-action
 - ignore_action

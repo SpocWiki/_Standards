@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - camping-pitch
 - camping_pitch

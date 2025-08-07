@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Publius Ovidius Naso"
 ArhivX_LOD: 9275

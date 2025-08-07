@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Quantum of Solace"
 ---
@@ -42,4 +42,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20of%20Solace)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Quantum_of_Solace,2008](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.md) 
+
+### #is_/same_as :: [Quantum_of_Solace,2008.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.public.md) 
+
+### #is_/same_as :: [Quantum_of_Solace,2008.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.internal.md) 
+
+### #is_/same_as :: [Quantum_of_Solace,2008.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.protect.md) 
+
+### #is_/same_as :: [Quantum_of_Solace,2008.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.private.md) 
+
+### #is_/same_as :: [Quantum_of_Solace,2008.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.personal.md) 
+
+### #is_/same_as :: [Quantum_of_Solace,2008.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Quantum_of_Solace,2008.secret.md)
 

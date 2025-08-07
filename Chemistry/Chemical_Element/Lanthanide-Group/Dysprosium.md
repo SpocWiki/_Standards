@@ -1,4 +1,4 @@
-﻿---
+---
 ATC_code: V10AX03
 atomic_number: 66
 canonical_SMILES: '[Dy]'
@@ -95,17 +95,17 @@ ZVG_number: 7660
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dysprosium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.md) 
+### #is_/same_as :: [Dysprosium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.md) 
 
-### #is_/same_as :: [Dysprosium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.public.md) 
+### #is_/same_as :: [Dysprosium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.public.md) 
 
-### #is_/same_as :: [Dysprosium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.internal.md) 
+### #is_/same_as :: [Dysprosium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.internal.md) 
 
-### #is_/same_as :: [Dysprosium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.protect.md) 
+### #is_/same_as :: [Dysprosium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.protect.md) 
 
-### #is_/same_as :: [Dysprosium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.private.md) 
+### #is_/same_as :: [Dysprosium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.private.md) 
 
-### #is_/same_as :: [Dysprosium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.personal.md) 
+### #is_/same_as :: [Dysprosium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.personal.md) 
 
-### #is_/same_as :: [Dysprosium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.secret.md)
+### #is_/same_as :: [Dysprosium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Dysprosium.secret.md)
 

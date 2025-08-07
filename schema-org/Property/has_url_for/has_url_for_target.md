@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - target-url
 - target_url

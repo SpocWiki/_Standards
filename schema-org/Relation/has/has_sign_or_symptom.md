@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sign-or-symptom
 - sign_or_symptom

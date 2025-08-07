@@ -30,3 +30,19 @@ He wrote the famous self-help book "How to Win Friends and Influence People."
 > 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carnegie,Dale](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.md) 
+
+### #is_/same_as :: [Carnegie,Dale.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.public.md) 
+
+### #is_/same_as :: [Carnegie,Dale.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.internal.md) 
+
+### #is_/same_as :: [Carnegie,Dale.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.protect.md) 
+
+### #is_/same_as :: [Carnegie,Dale.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.private.md) 
+
+### #is_/same_as :: [Carnegie,Dale.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.personal.md) 
+
+### #is_/same_as :: [Carnegie,Dale.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale.secret.md)
+

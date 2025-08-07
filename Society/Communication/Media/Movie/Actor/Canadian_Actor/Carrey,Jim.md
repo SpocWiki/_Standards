@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jim Carrey"
 has_id_wikidata: Q40504
@@ -45,4 +45,20 @@ has_id_wikidata: Q40504
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jim%20Carrey)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carrey,Jim](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.md) 
+
+### #is_/same_as :: [Carrey,Jim.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.public.md) 
+
+### #is_/same_as :: [Carrey,Jim.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.internal.md) 
+
+### #is_/same_as :: [Carrey,Jim.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.protect.md) 
+
+### #is_/same_as :: [Carrey,Jim.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.private.md) 
+
+### #is_/same_as :: [Carrey,Jim.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.personal.md) 
+
+### #is_/same_as :: [Carrey,Jim.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.secret.md)
 

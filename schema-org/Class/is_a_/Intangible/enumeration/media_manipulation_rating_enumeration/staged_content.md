@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - staged-content
 - staged_content

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ixodida
 - Tick
@@ -165,7 +165,7 @@ Copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tick](Tick.md)) 
+### #is_/same_as :: [Tick](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.md) 
 
 ### #is_/same_as :: [Tick.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.public.md) 
 

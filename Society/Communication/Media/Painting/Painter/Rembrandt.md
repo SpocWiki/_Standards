@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rembrandt Harmenszoon van Rijn"
 artist_files_at:

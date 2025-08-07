@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 101
 canonical_SMILES: '[Md]'
 CAS_Registry_Number: 7440-11-1
@@ -104,17 +104,17 @@ UNII: LW3E571O0Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendelevium](/_Standards/chemic/chemic~Elements/Actinide-Group/Mendelevium.md) 
+### #is_/same_as :: [Mendelevium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.md) 
 
-### #is_/same_as :: [Mendelevium.public](/_public/chemic/chemic~Elements/Actinide-Group/Mendelevium.public.md) 
+### #is_/same_as :: [Mendelevium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.public.md) 
 
-### #is_/same_as :: [Mendelevium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Mendelevium.internal.md) 
+### #is_/same_as :: [Mendelevium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.internal.md) 
 
-### #is_/same_as :: [Mendelevium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Mendelevium.protect.md) 
+### #is_/same_as :: [Mendelevium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.protect.md) 
 
-### #is_/same_as :: [Mendelevium.private](/_private/chemic/chemic~Elements/Actinide-Group/Mendelevium.private.md) 
+### #is_/same_as :: [Mendelevium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.private.md) 
 
-### #is_/same_as :: [Mendelevium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Mendelevium.personal.md) 
+### #is_/same_as :: [Mendelevium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.personal.md) 
 
-### #is_/same_as :: [Mendelevium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Mendelevium.secret.md)
+### #is_/same_as :: [Mendelevium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Mendelevium.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gastrotricha
 ---
 
@@ -65,7 +65,7 @@ Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gastrotricha](Gastrotricha.md)) 
+### #is_/same_as :: [Gastrotricha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.md) 
 
 ### #is_/same_as :: [Gastrotricha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Gastrotricha.public.md) 
 

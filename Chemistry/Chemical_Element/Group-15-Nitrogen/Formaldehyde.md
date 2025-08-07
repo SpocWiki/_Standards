@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Methanal
 ---
@@ -30,17 +30,17 @@ H
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Formaldehyde](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.md) 
+### #is_/same_as :: [Formaldehyde](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.md) 
 
-### #is_/same_as :: [Formaldehyde.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.public.md) 
+### #is_/same_as :: [Formaldehyde.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.public.md) 
 
-### #is_/same_as :: [Formaldehyde.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.internal.md) 
+### #is_/same_as :: [Formaldehyde.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.internal.md) 
 
-### #is_/same_as :: [Formaldehyde.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.protect.md) 
+### #is_/same_as :: [Formaldehyde.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.protect.md) 
 
-### #is_/same_as :: [Formaldehyde.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.private.md) 
+### #is_/same_as :: [Formaldehyde.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.private.md) 
 
-### #is_/same_as :: [Formaldehyde.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.personal.md) 
+### #is_/same_as :: [Formaldehyde.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.personal.md) 
 
-### #is_/same_as :: [Formaldehyde.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Formaldehyde.secret.md)
+### #is_/same_as :: [Formaldehyde.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Formaldehyde.secret.md)
 

@@ -149,9 +149,6 @@ has_time_started: Date (and Time) of Creation/Birth
 has_time_destroyed: Date (and Time) of Destruction/Death/Dissolution/Demise 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [ReadMe](/_Standards/ReadMe.md) 

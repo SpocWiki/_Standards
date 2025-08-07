@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - category-code-set
 - category_code_set

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Björn Borg"
 ---

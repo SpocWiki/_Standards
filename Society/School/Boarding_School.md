@@ -29,3 +29,20 @@ has_id_wikidata: Q269770
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boarding%20school) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boarding_School](/_Standards/Society/School/Boarding_School.md) 
+
+### #is_/same_as :: [Boarding_School.public](/_public/Society/School/Boarding_School.public.md) 
+
+### #is_/same_as :: [Boarding_School.internal](/_internal/Society/School/Boarding_School.internal.md) 
+
+### #is_/same_as :: [Boarding_School.protect](/_protect/Society/School/Boarding_School.protect.md) 
+
+### #is_/same_as :: [Boarding_School.private](/_private/Society/School/Boarding_School.private.md) 
+
+### #is_/same_as :: [Boarding_School.personal](/_personal/Society/School/Boarding_School.personal.md) 
+
+### #is_/same_as :: [Boarding_School.secret](/_secret/Society/School/Boarding_School.secret.md)
+

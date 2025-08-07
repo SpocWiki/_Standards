@@ -73,7 +73,7 @@ Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Branchiopoda](Branchiopoda.md)) 
+### #is_/same_as :: [Branchiopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.md) 
 
 ### #is_/same_as :: [Branchiopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Branchiopoda.public.md) 
 

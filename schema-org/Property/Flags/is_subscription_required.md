@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - subscription-required
 - subscription_required

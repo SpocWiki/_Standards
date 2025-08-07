@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cargo_volume
 - cargo-volume

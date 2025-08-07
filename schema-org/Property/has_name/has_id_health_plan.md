@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-id
 - id_health_plan

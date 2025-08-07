@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-based-on
 - based_on

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - demo-album
 - demo_album

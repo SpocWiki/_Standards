@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - schedule-timezone
 - schedule_timezone

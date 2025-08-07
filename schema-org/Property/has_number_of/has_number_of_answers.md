@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - answer-count
 - answer_count

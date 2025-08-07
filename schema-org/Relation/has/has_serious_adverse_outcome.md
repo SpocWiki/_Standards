@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - serious-adverse-outcome
 - serious_adverse_outcome

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pauline Kael"
 ---
@@ -29,4 +29,21 @@ aliases:
 > She reinvented the form, and pioneered an entire aesthetic of writing."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pauline%20Kael)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Kael,Pauline](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.md) 
+
+### #is_/same_as :: [Kael,Pauline.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.public.md) 
+
+### #is_/same_as :: [Kael,Pauline.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.internal.md) 
+
+### #is_/same_as :: [Kael,Pauline.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.protect.md) 
+
+### #is_/same_as :: [Kael,Pauline.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.private.md) 
+
+### #is_/same_as :: [Kael,Pauline.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.personal.md) 
+
+### #is_/same_as :: [Kael,Pauline.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.secret.md)
 

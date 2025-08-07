@@ -1,4 +1,4 @@
-﻿---
+---
 title: Loxodontomys
 ---
 
@@ -87,7 +87,7 @@ the appropriate view below.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Loxodontomys](Loxodontomys.md)) 
+### #is_/same_as :: [Loxodontomys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Loxodontomys.md) 
 
 ### #is_/same_as :: [Loxodontomys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Loxodontomys.public.md) 
 

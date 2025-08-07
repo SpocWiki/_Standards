@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - discussion-forum-posting
 - discussion_forum_posting

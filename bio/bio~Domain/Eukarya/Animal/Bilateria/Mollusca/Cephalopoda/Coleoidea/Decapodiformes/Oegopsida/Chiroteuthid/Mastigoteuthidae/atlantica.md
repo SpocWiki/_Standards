@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis atlantica"
 ---
 
@@ -114,7 +114,7 @@ new series, 13: 1-49.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[atlantica](atlantica.md)) 
+### #is_/same_as :: [atlantica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/atlantica.md) 
 
 ### #is_/same_as :: [atlantica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/atlantica.public.md) 
 

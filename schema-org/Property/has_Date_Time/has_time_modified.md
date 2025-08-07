@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - modified-time
 - modified_time

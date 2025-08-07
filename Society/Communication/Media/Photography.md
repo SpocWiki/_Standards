@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%B7%20%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8.jpg"
 Colon_Classification: M95
 Commons_category: Photography
@@ -85,17 +85,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_photography,7112699]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photography](Photography.md) 
+### #is_/same_as :: [Photography](/_Standards/Society/Communication/Media/Photography.md) 
 
-### #is_/same_as :: [Photography.public](/_public/Society/Communication/Photography.public.md) 
+### #is_/same_as :: [Photography.public](/_public/Society/Communication/Media/Photography.public.md) 
 
-### #is_/same_as :: [Photography.internal](/_internal/Society/Communication/Photography.internal.md) 
+### #is_/same_as :: [Photography.internal](/_internal/Society/Communication/Media/Photography.internal.md) 
 
-### #is_/same_as :: [Photography.protect](/_protect/Society/Communication/Photography.protect.md) 
+### #is_/same_as :: [Photography.protect](/_protect/Society/Communication/Media/Photography.protect.md) 
 
-### #is_/same_as :: [Photography.private](/_private/Society/Communication/Photography.private.md) 
+### #is_/same_as :: [Photography.private](/_private/Society/Communication/Media/Photography.private.md) 
 
-### #is_/same_as :: [Photography.personal](/_personal/Society/Communication/Photography.personal.md) 
+### #is_/same_as :: [Photography.personal](/_personal/Society/Communication/Media/Photography.personal.md) 
 
-### #is_/same_as :: [Photography.secret](/_secret/Society/Communication/Photography.secret.md)
+### #is_/same_as :: [Photography.secret](/_secret/Society/Communication/Media/Photography.secret.md)
 

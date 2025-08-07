@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cutoff-time
 - cutoff_time

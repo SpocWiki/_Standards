@@ -63,17 +63,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fruit](Fruit.md) 
+### #is_/same_as :: [Fruit](/_Standards/bio/Botany/Fruit.md) 
 
-### #is_/same_as :: [Fruit.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Fruit.public.md) 
+### #is_/same_as :: [Fruit.public](/_public/bio/Botany/Fruit.public.md) 
 
-### #is_/same_as :: [Fruit.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit.internal.md) 
+### #is_/same_as :: [Fruit.internal](/_internal/bio/Botany/Fruit.internal.md) 
 
-### #is_/same_as :: [Fruit.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Fruit.protect.md) 
+### #is_/same_as :: [Fruit.protect](/_protect/bio/Botany/Fruit.protect.md) 
 
-### #is_/same_as :: [Fruit.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Fruit.private.md) 
+### #is_/same_as :: [Fruit.private](/_private/bio/Botany/Fruit.private.md) 
 
-### #is_/same_as :: [Fruit.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit.personal.md) 
+### #is_/same_as :: [Fruit.personal](/_personal/bio/Botany/Fruit.personal.md) 
 
-### #is_/same_as :: [Fruit.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Fruit.secret.md)
+### #is_/same_as :: [Fruit.secret](/_secret/bio/Botany/Fruit.secret.md)
 

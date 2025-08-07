@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chinchillula sahamae"
 ---
 
@@ -88,7 +88,7 @@ Figure 1. **Chinchillula sahamae**, copyright © O. Pearson.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chinchillula](Chinchillula.md)) 
+### #is_/same_as :: [Chinchillula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Chinchillula.md) 
 
 ### #is_/same_as :: [Chinchillula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/Chinchillula.public.md) 
 

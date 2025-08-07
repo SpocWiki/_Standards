@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - by-day
 - by_day

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - city-hall
 - city_hall

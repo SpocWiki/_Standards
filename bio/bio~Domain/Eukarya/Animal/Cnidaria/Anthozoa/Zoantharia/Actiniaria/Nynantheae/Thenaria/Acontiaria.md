@@ -1,4 +1,4 @@
-﻿---
+---
 title: Acontiaria
 ---
 
@@ -85,7 +85,7 @@ Photographs copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Acontiaria](Acontiaria.md)) 
+### #is_/same_as :: [Acontiaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.md) 
 
 ### #is_/same_as :: [Acontiaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria.public.md) 
 

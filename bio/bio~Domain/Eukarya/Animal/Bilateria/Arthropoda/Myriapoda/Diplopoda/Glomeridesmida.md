@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Glomeridesmus
 - Glomeridesmida
@@ -69,7 +69,7 @@ title: Glomeridesmus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Glomeridesmida](Glomeridesmida.md)) 
+### #is_/same_as :: [Glomeridesmida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.md) 
 
 ### #is_/same_as :: [Glomeridesmida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.public.md) 
 

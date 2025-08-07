@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - people-audience
 - people_audience

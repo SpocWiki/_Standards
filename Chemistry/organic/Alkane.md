@@ -64,5 +64,19 @@ UNSPSC_Code: 12352001
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkane) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Alkane](/_Standards/Chemistry/organic/Alkane.md) 
+
+### #is_/same_as :: [Alkane.public](/_public/Chemistry/organic/Alkane.public.md) 
+
+### #is_/same_as :: [Alkane.internal](/_internal/Chemistry/organic/Alkane.internal.md) 
+
+### #is_/same_as :: [Alkane.protect](/_protect/Chemistry/organic/Alkane.protect.md) 
+
+### #is_/same_as :: [Alkane.private](/_private/Chemistry/organic/Alkane.private.md) 
+
+### #is_/same_as :: [Alkane.personal](/_personal/Chemistry/organic/Alkane.personal.md) 
+
+### #is_/same_as :: [Alkane.secret](/_secret/Chemistry/organic/Alkane.secret.md)
 

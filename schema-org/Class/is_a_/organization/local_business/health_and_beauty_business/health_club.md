@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-club
 - health_club

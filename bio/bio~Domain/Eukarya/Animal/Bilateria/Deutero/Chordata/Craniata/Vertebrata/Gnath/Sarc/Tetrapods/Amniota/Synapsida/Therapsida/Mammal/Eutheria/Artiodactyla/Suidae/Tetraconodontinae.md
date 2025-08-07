@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tetraconodontinae
 ---
 
@@ -54,7 +54,7 @@ title: Tetraconodontinae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tetraconodontinae](Tetraconodontinae.md)) 
+### #is_/same_as :: [Tetraconodontinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Tetraconodontinae.md) 
 
 ### #is_/same_as :: [Tetraconodontinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Tetraconodontinae.public.md) 
 

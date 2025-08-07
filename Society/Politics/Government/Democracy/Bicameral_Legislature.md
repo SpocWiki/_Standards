@@ -37,3 +37,20 @@ Commons_category: Bicameral legislatures
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bicameralism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bicameral_Legislature](/_Standards/Society/Politics/Government/Democracy/Bicameral_Legislature.md) 
+
+### #is_/same_as :: [Bicameral_Legislature.public](/_public/Society/Politics/Government/Democracy/Bicameral_Legislature.public.md) 
+
+### #is_/same_as :: [Bicameral_Legislature.internal](/_internal/Society/Politics/Government/Democracy/Bicameral_Legislature.internal.md) 
+
+### #is_/same_as :: [Bicameral_Legislature.protect](/_protect/Society/Politics/Government/Democracy/Bicameral_Legislature.protect.md) 
+
+### #is_/same_as :: [Bicameral_Legislature.private](/_private/Society/Politics/Government/Democracy/Bicameral_Legislature.private.md) 
+
+### #is_/same_as :: [Bicameral_Legislature.personal](/_personal/Society/Politics/Government/Democracy/Bicameral_Legislature.personal.md) 
+
+### #is_/same_as :: [Bicameral_Legislature.secret](/_secret/Society/Politics/Government/Democracy/Bicameral_Legislature.secret.md)
+

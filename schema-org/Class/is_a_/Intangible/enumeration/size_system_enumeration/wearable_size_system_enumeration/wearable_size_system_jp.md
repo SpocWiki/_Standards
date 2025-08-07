@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-system-jp
 - wearable_size_system_jp

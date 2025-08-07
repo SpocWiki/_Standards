@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: G11
 Commons_category: Cells
 described_by_source:

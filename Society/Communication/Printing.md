@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: M14
 Commons_category: "Letterpress printing"
 described_by_source:

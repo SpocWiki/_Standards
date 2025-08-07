@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Arabic alphabet"
 based_on: '[[_Standards/WikiData/WD~Nabataean_script,855624]]'

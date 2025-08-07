@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - childrens-event
 - childrens_event

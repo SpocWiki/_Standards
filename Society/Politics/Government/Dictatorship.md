@@ -38,17 +38,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dictatorship](Dictatorship.md) 
+### #is_/same_as :: [Dictatorship](/_Standards/Society/Politics/Government/Dictatorship.md) 
 
-### #is_/same_as :: [Dictatorship.public](/_public/Society/Government/Dictatorship.public.md) 
+### #is_/same_as :: [Dictatorship.public](/_public/Society/Politics/Government/Dictatorship.public.md) 
 
-### #is_/same_as :: [Dictatorship.internal](../../../../_internal/Society/Politics/Government/Dictatorship.internal.md) 
+### #is_/same_as :: [Dictatorship.internal](/_internal/Society/Politics/Government/Dictatorship.internal.md) 
 
-### #is_/same_as :: [Dictatorship.protect](/_protect/Society/Government/Dictatorship.protect.md) 
+### #is_/same_as :: [Dictatorship.protect](/_protect/Society/Politics/Government/Dictatorship.protect.md) 
 
-### #is_/same_as :: [Dictatorship.private](/_private/Society/Government/Dictatorship.private.md) 
+### #is_/same_as :: [Dictatorship.private](/_private/Society/Politics/Government/Dictatorship.private.md) 
 
-### #is_/same_as :: [Dictatorship.personal](/_personal/Society/Government/Dictatorship.personal.md) 
+### #is_/same_as :: [Dictatorship.personal](/_personal/Society/Politics/Government/Dictatorship.personal.md) 
 
-### #is_/same_as :: [Dictatorship.secret](/_secret/Society/Government/Dictatorship.secret.md)
+### #is_/same_as :: [Dictatorship.secret](/_secret/Society/Politics/Government/Dictatorship.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nineteen Eighty-Four"
 - 
@@ -61,4 +61,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nineteen%20Eighty-Four)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nineteen_Eighty-Four](/_Standards/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.md) 
+
+### #is_/same_as :: [Nineteen_Eighty-Four.public](/_public/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.public.md) 
+
+### #is_/same_as :: [Nineteen_Eighty-Four.internal](/_internal/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.internal.md) 
+
+### #is_/same_as :: [Nineteen_Eighty-Four.protect](/_protect/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.protect.md) 
+
+### #is_/same_as :: [Nineteen_Eighty-Four.private](/_private/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.private.md) 
+
+### #is_/same_as :: [Nineteen_Eighty-Four.personal](/_personal/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.personal.md) 
+
+### #is_/same_as :: [Nineteen_Eighty-Four.secret](/_secret/Society/Communication/Media/Book/Author/Orwell,George/Nineteen_Eighty-Four.secret.md)
 

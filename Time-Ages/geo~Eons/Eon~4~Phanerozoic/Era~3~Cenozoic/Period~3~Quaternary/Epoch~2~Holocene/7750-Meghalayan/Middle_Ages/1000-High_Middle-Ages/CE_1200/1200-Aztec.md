@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Aztec
 currency:
 - '[[_Standards/WikiData/WD~Quachtli,105620744]]'

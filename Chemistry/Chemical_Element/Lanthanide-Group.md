@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 
@@ -26,17 +26,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lanthanide-Group](/_Standards/chemic/chemic~Elements/Lanthanide-Group.md) 
+### #is_/same_as :: [Lanthanide-Group](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group.md) 
 
-### #is_/same_as :: [Lanthanide-Group.public](/_public/chemic/chemic~Elements/Lanthanide-Group.public.md) 
+### #is_/same_as :: [Lanthanide-Group.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group.public.md) 
 
-### #is_/same_as :: [Lanthanide-Group.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group.internal.md) 
+### #is_/same_as :: [Lanthanide-Group.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group.internal.md) 
 
-### #is_/same_as :: [Lanthanide-Group.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group.protect.md) 
+### #is_/same_as :: [Lanthanide-Group.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group.protect.md) 
 
-### #is_/same_as :: [Lanthanide-Group.private](/_private/chemic/chemic~Elements/Lanthanide-Group.private.md) 
+### #is_/same_as :: [Lanthanide-Group.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group.private.md) 
 
-### #is_/same_as :: [Lanthanide-Group.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group.personal.md) 
+### #is_/same_as :: [Lanthanide-Group.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group.personal.md) 
 
-### #is_/same_as :: [Lanthanide-Group.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group.secret.md)
+### #is_/same_as :: [Lanthanide-Group.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group.secret.md)
 

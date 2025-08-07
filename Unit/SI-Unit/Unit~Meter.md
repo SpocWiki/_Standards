@@ -1,4 +1,4 @@
-﻿---
+---
 calculated_from:
 - '[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111]]'
 - '[[_Standards/WikiData/WD~second,11574]]'

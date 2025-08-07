@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - adverse-outcome
 - adverse_outcome

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ryan Reynolds"
 - "Ryan Rodney Reynolds"
@@ -46,4 +46,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ryan%20Reynolds) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reynolds,Ryan](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.md) 
+
+### #is_/same_as :: [Reynolds,Ryan.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.public.md) 
+
+### #is_/same_as :: [Reynolds,Ryan.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.internal.md) 
+
+### #is_/same_as :: [Reynolds,Ryan.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.protect.md) 
+
+### #is_/same_as :: [Reynolds,Ryan.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.private.md) 
+
+### #is_/same_as :: [Reynolds,Ryan.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.personal.md) 
+
+### #is_/same_as :: [Reynolds,Ryan.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Reynolds,Ryan.secret.md)
 

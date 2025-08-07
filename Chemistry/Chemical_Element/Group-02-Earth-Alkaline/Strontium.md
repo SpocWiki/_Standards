@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 38
 canonical_SMILES: '[Sr]'
 CAS_Registry_Number: 7440-24-6
@@ -131,17 +131,17 @@ ZVG_number: 8310
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strontium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.md) 
+### #is_/same_as :: [Strontium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.md) 
 
-### #is_/same_as :: [Strontium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.public.md) 
+### #is_/same_as :: [Strontium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public.md) 
 
-### #is_/same_as :: [Strontium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.internal.md) 
+### #is_/same_as :: [Strontium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal.md) 
 
-### #is_/same_as :: [Strontium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.protect.md) 
+### #is_/same_as :: [Strontium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect.md) 
 
-### #is_/same_as :: [Strontium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.private.md) 
+### #is_/same_as :: [Strontium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private.md) 
 
-### #is_/same_as :: [Strontium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.personal.md) 
+### #is_/same_as :: [Strontium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal.md) 
 
-### #is_/same_as :: [Strontium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.secret.md)
+### #is_/same_as :: [Strontium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret.md)
 

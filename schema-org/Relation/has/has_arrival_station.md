@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrival-station
 - arrival_station

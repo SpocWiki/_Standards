@@ -1,4 +1,4 @@
-﻿---
+---
 ABS_ASCL_2011_code: 1301
 aliases:
 - German

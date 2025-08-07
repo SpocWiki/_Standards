@@ -65,3 +65,20 @@ IEV_number: 881-03-41
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Binding%20energy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Binding_Energy](/_Standards/Chemistry/Binding_Energy.md) 
+
+### #is_/same_as :: [Binding_Energy.public](/_public/Chemistry/Binding_Energy.public.md) 
+
+### #is_/same_as :: [Binding_Energy.internal](/_internal/Chemistry/Binding_Energy.internal.md) 
+
+### #is_/same_as :: [Binding_Energy.protect](/_protect/Chemistry/Binding_Energy.protect.md) 
+
+### #is_/same_as :: [Binding_Energy.private](/_private/Chemistry/Binding_Energy.private.md) 
+
+### #is_/same_as :: [Binding_Energy.personal](/_personal/Chemistry/Binding_Energy.personal.md) 
+
+### #is_/same_as :: [Binding_Energy.secret](/_secret/Chemistry/Binding_Energy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - issued-by
 - issued_by

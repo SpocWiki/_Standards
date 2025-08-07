@@ -23,3 +23,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biomedical%20engineering) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biomedical_Engineering](/_Standards/Technology/Engineering/Biomedical_Engineering.md) 
+
+### #is_/same_as :: [Biomedical_Engineering.public](/_public/Technology/Engineering/Biomedical_Engineering.public.md) 
+
+### #is_/same_as :: [Biomedical_Engineering.internal](/_internal/Technology/Engineering/Biomedical_Engineering.internal.md) 
+
+### #is_/same_as :: [Biomedical_Engineering.protect](/_protect/Technology/Engineering/Biomedical_Engineering.protect.md) 
+
+### #is_/same_as :: [Biomedical_Engineering.private](/_private/Technology/Engineering/Biomedical_Engineering.private.md) 
+
+### #is_/same_as :: [Biomedical_Engineering.personal](/_personal/Technology/Engineering/Biomedical_Engineering.personal.md) 
+
+### #is_/same_as :: [Biomedical_Engineering.secret](/_secret/Technology/Engineering/Biomedical_Engineering.secret.md)
+

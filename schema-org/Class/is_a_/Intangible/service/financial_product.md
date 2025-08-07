@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - financial-product
 - financial_product

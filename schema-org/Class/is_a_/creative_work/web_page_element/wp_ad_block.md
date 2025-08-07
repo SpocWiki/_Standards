@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wp-ad-block
 - wp_ad_block

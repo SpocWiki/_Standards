@@ -10,5 +10,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Akira%20(1988%20film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Akira,1988](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.md) 
+
+### #is_/same_as :: [Akira,1988.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.public.md) 
+
+### #is_/same_as :: [Akira,1988.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.internal.md) 
+
+### #is_/same_as :: [Akira,1988.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.protect.md) 
+
+### #is_/same_as :: [Akira,1988.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.private.md) 
+
+### #is_/same_as :: [Akira,1988.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.personal.md) 
+
+### #is_/same_as :: [Akira,1988.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Akira,1988.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "New Stone Age"
 - Jungsteinzeit

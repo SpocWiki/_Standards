@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eurotiomycetes
 ---
 
@@ -27,7 +27,7 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eurotiomycetes](Eurotiomycetes.md)) 
+### #is_/same_as :: [Eurotiomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.md) 
 
 ### #is_/same_as :: [Eurotiomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.public.md) 
 

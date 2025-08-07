@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jurassic World"
 ---
@@ -29,4 +29,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurassic%20World) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jurassic_World](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.md) 
+
+### #is_/same_as :: [Jurassic_World.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.public.md) 
+
+### #is_/same_as :: [Jurassic_World.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.internal.md) 
+
+### #is_/same_as :: [Jurassic_World.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.protect.md) 
+
+### #is_/same_as :: [Jurassic_World.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.private.md) 
+
+### #is_/same_as :: [Jurassic_World.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.personal.md) 
+
+### #is_/same_as :: [Jurassic_World.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jurassic_World.secret.md)
 

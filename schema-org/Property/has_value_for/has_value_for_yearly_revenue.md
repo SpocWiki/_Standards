@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - yearly_revenue
 - yearly-revenue

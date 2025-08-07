@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "George Bernard Shaw"
 - "Bernard Shaw"
@@ -201,6 +201,19 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Bernard%20Shaw) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Shaw,George_Bernard](/_Standards/Society/Communication/Media/Book/Author/Shaw,George_Bernard.md) 
 
+### #is_/same_as :: [Shaw,George_Bernard.public](/_public/Society/Communication/Media/Book/Author/Shaw,George_Bernard.public.md) 
+
+### #is_/same_as :: [Shaw,George_Bernard.internal](/_internal/Society/Communication/Media/Book/Author/Shaw,George_Bernard.internal.md) 
+
+### #is_/same_as :: [Shaw,George_Bernard.protect](/_protect/Society/Communication/Media/Book/Author/Shaw,George_Bernard.protect.md) 
+
+### #is_/same_as :: [Shaw,George_Bernard.private](/_private/Society/Communication/Media/Book/Author/Shaw,George_Bernard.private.md) 
+
+### #is_/same_as :: [Shaw,George_Bernard.personal](/_personal/Society/Communication/Media/Book/Author/Shaw,George_Bernard.personal.md) 
+
+### #is_/same_as :: [Shaw,George_Bernard.secret](/_secret/Society/Communication/Media/Book/Author/Shaw,George_Bernard.secret.md)
 

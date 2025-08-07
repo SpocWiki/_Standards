@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content-location
 - content_location

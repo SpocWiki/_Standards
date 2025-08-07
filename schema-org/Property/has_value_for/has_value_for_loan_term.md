@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - loan_term
 - loan-term

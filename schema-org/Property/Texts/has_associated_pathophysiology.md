@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-pathophysiology
 - associated_pathophysiology

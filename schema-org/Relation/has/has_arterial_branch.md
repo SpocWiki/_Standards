@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arterial-branch
 - arterial_branch

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sports-organization
 - sports_organization

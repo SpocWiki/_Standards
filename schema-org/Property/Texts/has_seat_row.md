@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - seat-row
 - seat_row

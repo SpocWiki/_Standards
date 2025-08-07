@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-audience
 - educational_audience

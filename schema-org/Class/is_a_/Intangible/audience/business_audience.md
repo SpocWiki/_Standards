@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - business-audience
 - business_audience

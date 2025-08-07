@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shipping-rate-settings
 - shipping_rate_settings

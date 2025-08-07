@@ -20,3 +20,20 @@
 
 #has_/parts :: [[VW(Volkswagen)/Cariad_SE]] 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [VW(Volkswagen)](/_Standards/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).md) 
+
+### #is_/same_as :: [VW(Volkswagen).public](/_public/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).public.md) 
+
+### #is_/same_as :: [VW(Volkswagen).internal](/_internal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).internal.md) 
+
+### #is_/same_as :: [VW(Volkswagen).protect](/_protect/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).protect.md) 
+
+### #is_/same_as :: [VW(Volkswagen).private](/_private/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).private.md) 
+
+### #is_/same_as :: [VW(Volkswagen).personal](/_personal/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).personal.md) 
+
+### #is_/same_as :: [VW(Volkswagen).secret](/_secret/Society/Economics/Business/Business-Entity/Automotive/VW(Volkswagen).secret.md)
+

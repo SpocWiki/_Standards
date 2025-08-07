@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-interaction
 - user_interaction

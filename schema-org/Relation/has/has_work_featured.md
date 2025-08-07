@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-featured
 - work_featured

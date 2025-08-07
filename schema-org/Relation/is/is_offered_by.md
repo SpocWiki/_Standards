@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offered-by
 - offered_by

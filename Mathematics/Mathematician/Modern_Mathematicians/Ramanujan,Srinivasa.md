@@ -1,4 +1,4 @@
-﻿---
+---
 academic_thesis: '[[_Standards/WikiData/WD~Highly_Composite_Numbers,56168681]]'
 aliases:
 - "Srinivasa Ramanujan"

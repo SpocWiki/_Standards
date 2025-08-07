@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-policy-seasonal-override
 - merchant_return_policy_seasonal_override

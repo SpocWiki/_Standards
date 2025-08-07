@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-moved-online
 - event_moved_online

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - code-value
 - code_value

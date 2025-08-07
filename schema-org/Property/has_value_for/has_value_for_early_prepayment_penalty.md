@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - early_prepayment_penalty
 - early-prepayment-penalty

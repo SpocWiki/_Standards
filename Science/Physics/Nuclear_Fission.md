@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nuclear fission"
 Commons_category: "Nuclear fission"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "New Genus C"
 ---
 
@@ -87,7 +87,7 @@ Antarctic waters at 57° 21\'S., 74° 43\'W.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[C](C.md)) 
+### #is_/same_as :: [C](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/C.md) 
 
 ### #is_/same_as :: [C.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/C.public.md) 
 

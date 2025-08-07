@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q203764
 ---
 
@@ -17,3 +17,21 @@ has_id_wikidata: Q203764
 > Separating activism and terrorism can be difficult and has been described as a 'fine line'.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Activism)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Activism](/_Standards/Society/Activism.md) 
+
+### #is_/same_as :: [Activism.public](/_public/Society/Activism.public.md) 
+
+### #is_/same_as :: [Activism.internal](/_internal/Society/Activism.internal.md) 
+
+### #is_/same_as :: [Activism.protect](/_protect/Society/Activism.protect.md) 
+
+### #is_/same_as :: [Activism.private](/_private/Society/Activism.private.md) 
+
+### #is_/same_as :: [Activism.personal](/_personal/Society/Activism.personal.md) 
+
+### #is_/same_as :: [Activism.secret](/_secret/Society/Activism.secret.md)
+

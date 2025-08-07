@@ -1,4 +1,4 @@
-﻿---
+---
 color: '[[_Standards/WikiData/WD~white,23444]]'
 Commons_category: Snow
 Commons_gallery: Snow
@@ -60,17 +60,17 @@ winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Field-with-snow
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snow](/_Standards/Earth/Atmosphere/Climate/Weather/Snow.md) 
+### #is_/same_as :: [Snow](/_Standards/Earth/Atmosphere,Earth/Climate/Weather/Snow.md) 
 
-### #is_/same_as :: [Snow.public](/_public/Earth/Atmosphere/Climate/Weather/Snow.public.md) 
+### #is_/same_as :: [Snow.public](/_public/Earth/Atmosphere,Earth/Climate/Weather/Snow.public.md) 
 
-### #is_/same_as :: [Snow.internal](/_internal/Earth/Atmosphere/Climate/Weather/Snow.internal.md) 
+### #is_/same_as :: [Snow.internal](/_internal/Earth/Atmosphere,Earth/Climate/Weather/Snow.internal.md) 
 
-### #is_/same_as :: [Snow.protect](/_protect/Earth/Atmosphere/Climate/Weather/Snow.protect.md) 
+### #is_/same_as :: [Snow.protect](/_protect/Earth/Atmosphere,Earth/Climate/Weather/Snow.protect.md) 
 
-### #is_/same_as :: [Snow.private](/_private/Earth/Atmosphere/Climate/Weather/Snow.private.md) 
+### #is_/same_as :: [Snow.private](/_private/Earth/Atmosphere,Earth/Climate/Weather/Snow.private.md) 
 
-### #is_/same_as :: [Snow.personal](/_personal/Earth/Atmosphere/Climate/Weather/Snow.personal.md) 
+### #is_/same_as :: [Snow.personal](/_personal/Earth/Atmosphere,Earth/Climate/Weather/Snow.personal.md) 
 
-### #is_/same_as :: [Snow.secret](/_secret/Earth/Atmosphere/Climate/Weather/Snow.secret.md)
+### #is_/same_as :: [Snow.secret](/_secret/Earth/Atmosphere,Earth/Climate/Weather/Snow.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nutrition
 - has_nutrition

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Barry Sonnenfeld"
 ---
@@ -13,4 +13,21 @@ Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/6
 > the [[Men in Black]] trilogy (1997–2012), and [[../Steampunk/Wild Wild West]] (1999).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barry%20Sonnenfeld)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sonnenfeld,Barry](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.md) 
+
+### #is_/same_as :: [Sonnenfeld,Barry.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.public.md) 
+
+### #is_/same_as :: [Sonnenfeld,Barry.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.internal.md) 
+
+### #is_/same_as :: [Sonnenfeld,Barry.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.protect.md) 
+
+### #is_/same_as :: [Sonnenfeld,Barry.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.private.md) 
+
+### #is_/same_as :: [Sonnenfeld,Barry.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.personal.md) 
+
+### #is_/same_as :: [Sonnenfeld,Barry.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.secret.md)
 

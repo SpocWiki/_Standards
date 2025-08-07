@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Civil war"
 Commons_category: "Civil wars"

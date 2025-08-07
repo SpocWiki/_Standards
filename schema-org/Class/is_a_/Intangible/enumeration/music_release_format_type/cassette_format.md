@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cassette-format
 - cassette_format

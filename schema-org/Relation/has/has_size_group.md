@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-group
 - size_group

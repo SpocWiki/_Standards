@@ -43,3 +43,20 @@ Hederich_encyclopedia_article: Argonavtae
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Argonauts) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Argonauts](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.md) 
+
+### #is_/same_as :: [Argonauts.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.public.md) 
+
+### #is_/same_as :: [Argonauts.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.internal.md) 
+
+### #is_/same_as :: [Argonauts.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.protect.md) 
+
+### #is_/same_as :: [Argonauts.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.private.md) 
+
+### #is_/same_as :: [Argonauts.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.personal.md) 
+
+### #is_/same_as :: [Argonauts.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Argonauts.secret.md)
+

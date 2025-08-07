@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Oscar
 - "Academy Award"
@@ -131,3 +131,21 @@ U_S_National_Archives_Identifier: 10663067
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Academy_Award](/_Standards/Society/Communication/Media/Movie/Academy_Award.md) 
+
+### #is_/same_as :: [Academy_Award.public](/_public/Society/Communication/Media/Movie/Academy_Award.public.md) 
+
+### #is_/same_as :: [Academy_Award.internal](/_internal/Society/Communication/Media/Movie/Academy_Award.internal.md) 
+
+### #is_/same_as :: [Academy_Award.protect](/_protect/Society/Communication/Media/Movie/Academy_Award.protect.md) 
+
+### #is_/same_as :: [Academy_Award.private](/_private/Society/Communication/Media/Movie/Academy_Award.private.md) 
+
+### #is_/same_as :: [Academy_Award.personal](/_personal/Society/Communication/Media/Movie/Academy_Award.personal.md) 
+
+### #is_/same_as :: [Academy_Award.secret](/_secret/Society/Communication/Media/Movie/Academy_Award.secret.md)
+

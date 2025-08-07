@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Loxodonta africana"
 ---
 
@@ -59,7 +59,7 @@ Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianima
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Loxodonta_africana](Loxodonta_africana.md)) 
+### #is_/same_as :: [Loxodonta_africana](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.md) 
 
 ### #is_/same_as :: [Loxodonta_africana.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Loxodonta_africana.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Stramenopiles
 - heterokonts
@@ -99,7 +99,7 @@ Copyright ::                           © [Tom Gruber](http://flickr.com/people/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Stramenopiles](Stramenopiles.md)) 
+### #is_/same_as :: [Stramenopiles](/_Standards/bio/bio~Domain/Eukarya/Stramenopiles.md) 
 
 ### #is_/same_as :: [Stramenopiles.public](/_public/bio/bio~Domain/Eukarya/Stramenopiles.public.md) 
 

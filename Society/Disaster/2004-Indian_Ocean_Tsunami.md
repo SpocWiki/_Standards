@@ -82,5 +82,19 @@ video:
 > [Wikipedia](https://en.wikipedia.org/wiki/2004%20Indian%20Ocean%20earthquake%20and%20tsunami) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami](/_Standards/Society/Disaster/2004-Indian_Ocean_Tsunami.md) 
+
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami.public](/_public/Society/Disaster/2004-Indian_Ocean_Tsunami.public.md) 
+
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami.internal](/_internal/Society/Disaster/2004-Indian_Ocean_Tsunami.internal.md) 
+
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami.protect](/_protect/Society/Disaster/2004-Indian_Ocean_Tsunami.protect.md) 
+
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami.private](/_private/Society/Disaster/2004-Indian_Ocean_Tsunami.private.md) 
+
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami.personal](/_personal/Society/Disaster/2004-Indian_Ocean_Tsunami.personal.md) 
+
+### #is_/same_as :: [2004-Indian_Ocean_Tsunami.secret](/_secret/Society/Disaster/2004-Indian_Ocean_Tsunami.secret.md)
 

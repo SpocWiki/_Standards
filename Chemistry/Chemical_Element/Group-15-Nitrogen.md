@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Periodic table group 15"
 has_id_wikidata: Q106675
 has_part_s_:
@@ -44,17 +44,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-15-Nitrogen](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen.md) 
+### #is_/same_as :: [Group-15-Nitrogen](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen.md) 
 
-### #is_/same_as :: [Group-15-Nitrogen.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen.public.md) 
+### #is_/same_as :: [Group-15-Nitrogen.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public.md) 
 
-### #is_/same_as :: [Group-15-Nitrogen.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen.internal.md) 
+### #is_/same_as :: [Group-15-Nitrogen.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal.md) 
 
-### #is_/same_as :: [Group-15-Nitrogen.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen.protect.md) 
+### #is_/same_as :: [Group-15-Nitrogen.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen.protect.md) 
 
-### #is_/same_as :: [Group-15-Nitrogen.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen.private.md) 
+### #is_/same_as :: [Group-15-Nitrogen.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen.private.md) 
 
-### #is_/same_as :: [Group-15-Nitrogen.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen.personal.md) 
+### #is_/same_as :: [Group-15-Nitrogen.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen.personal.md) 
 
-### #is_/same_as :: [Group-15-Nitrogen.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen.secret.md)
+### #is_/same_as :: [Group-15-Nitrogen.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen.secret.md)
 

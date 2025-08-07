@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euneomys
 ---
 
@@ -103,7 +103,7 @@ the appropriate view below.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Euneomys](Euneomys.md)) 
+### #is_/same_as :: [Euneomys](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Euneomys.md) 
 
 ### #is_/same_as :: [Euneomys.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Euneomys.public.md) 
 

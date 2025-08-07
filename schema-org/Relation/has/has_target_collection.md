@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - target-collection
 - target_collection

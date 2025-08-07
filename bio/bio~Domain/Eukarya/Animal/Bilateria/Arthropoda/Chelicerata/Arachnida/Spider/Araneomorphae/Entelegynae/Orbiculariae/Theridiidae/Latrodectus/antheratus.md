@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Latrodectus antheratus"
 ---
 
@@ -90,7 +90,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[antheratus](antheratus.md)) 
+### #is_/same_as :: [antheratus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/antheratus.md) 
 
 ### #is_/same_as :: [antheratus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/antheratus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Feminism
 described_by_source:
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"

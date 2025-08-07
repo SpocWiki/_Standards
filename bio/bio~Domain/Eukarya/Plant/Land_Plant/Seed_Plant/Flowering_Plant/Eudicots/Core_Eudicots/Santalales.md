@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Santalales
 title: Santalales
@@ -67,17 +67,17 @@ title: Santalales
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Santalales](Santalales.md)) 
+### #is_/same_as :: [Santalales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.md) 
 
-### #is_/same_as :: [Santalales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.public.md) 
+### #is_/same_as :: [Santalales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.public.md) 
 
-### #is_/same_as :: [Santalales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.internal.md) 
+### #is_/same_as :: [Santalales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.internal.md) 
 
-### #is_/same_as :: [Santalales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.protect.md) 
+### #is_/same_as :: [Santalales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.protect.md) 
 
-### #is_/same_as :: [Santalales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.private.md) 
+### #is_/same_as :: [Santalales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.private.md) 
 
-### #is_/same_as :: [Santalales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.personal.md) 
+### #is_/same_as :: [Santalales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.personal.md) 
 
-### #is_/same_as :: [Santalales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.secret.md)
+### #is_/same_as :: [Santalales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales.secret.md)
 

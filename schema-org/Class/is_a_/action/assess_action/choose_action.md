@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - choose-action
 - choose_action

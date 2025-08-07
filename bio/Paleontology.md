@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 1911
 BHCL_UUID: ad3bb52a-21a0-4067-8081-1c26294bd0a0
 Colon_Classification: H6

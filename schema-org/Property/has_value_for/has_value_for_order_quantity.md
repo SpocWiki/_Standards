@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order_quantity
 - order-quantity

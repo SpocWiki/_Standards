@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Polyplacophora
 - Chiton
@@ -57,7 +57,7 @@ Copyright ::            © 1999 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chitons](Chitons.md)) 
+### #is_/same_as :: [Chitons](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.md) 
 
 ### #is_/same_as :: [Chitons.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Chitons.public.md) 
 

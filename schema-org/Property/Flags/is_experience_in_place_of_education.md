@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - experience-in-place-of-education
 - experience_in_place_of_education

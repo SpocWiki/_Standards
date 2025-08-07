@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fd-anot-evaluated
 - fd_anot_evaluated

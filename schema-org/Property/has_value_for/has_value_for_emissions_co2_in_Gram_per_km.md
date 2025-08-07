@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - emissions_co2
 - emissions-co2

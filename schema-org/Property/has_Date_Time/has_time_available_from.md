@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-from
 - available_from

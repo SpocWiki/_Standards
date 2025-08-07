@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Cepheus|Zodiac~Cepheus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Cepheus.public|Zodiac~Cepheus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Cepheus.internal|Zodiac~Cepheus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Cepheus.protect|Zodiac~Cepheus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Cepheus.private|Zodiac~Cepheus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Cepheus.personal|Zodiac~Cepheus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Cepheus.secret|Zodiac~Cepheus.secret]] 
+
+### #is_/same_as :: [Zodiac~Cepheus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cepheus.md) 
+
+### #is_/same_as :: [Zodiac~Cepheus.public](/_public/Astronomy/Star~Constellation/Zodiac~Cepheus.public.md) 
+
+### #is_/same_as :: [Zodiac~Cepheus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cepheus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Cepheus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cepheus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Cepheus.private](/_private/Astronomy/Star~Constellation/Zodiac~Cepheus.private.md) 
+
+### #is_/same_as :: [Zodiac~Cepheus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cepheus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Cepheus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cepheus.secret.md)
+

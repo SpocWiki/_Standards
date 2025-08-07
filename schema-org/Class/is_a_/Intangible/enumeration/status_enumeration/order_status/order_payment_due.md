@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-payment-due
 - order_payment_due

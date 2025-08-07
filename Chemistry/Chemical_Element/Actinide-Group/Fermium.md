@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 100
 canonical_SMILES: '[Fm]'
 CAS_Registry_Number: 7440-72-4
@@ -96,17 +96,17 @@ UNII: Q70I3KBF4W
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermium](/_Standards/chemic/chemic~Elements/Actinide-Group/Fermium.md) 
+### #is_/same_as :: [Fermium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Fermium.md) 
 
-### #is_/same_as :: [Fermium.public](/_public/chemic/chemic~Elements/Actinide-Group/Fermium.public.md) 
+### #is_/same_as :: [Fermium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Fermium.public.md) 
 
-### #is_/same_as :: [Fermium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Fermium.internal.md) 
+### #is_/same_as :: [Fermium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Fermium.internal.md) 
 
-### #is_/same_as :: [Fermium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Fermium.protect.md) 
+### #is_/same_as :: [Fermium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Fermium.protect.md) 
 
-### #is_/same_as :: [Fermium.private](/_private/chemic/chemic~Elements/Actinide-Group/Fermium.private.md) 
+### #is_/same_as :: [Fermium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Fermium.private.md) 
 
-### #is_/same_as :: [Fermium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Fermium.personal.md) 
+### #is_/same_as :: [Fermium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Fermium.personal.md) 
 
-### #is_/same_as :: [Fermium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Fermium.secret.md)
+### #is_/same_as :: [Fermium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Fermium.secret.md)
 

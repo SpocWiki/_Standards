@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michael Mann"
 ---
@@ -25,4 +25,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Mann)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mann,Michael](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.md) 
+
+### #is_/same_as :: [Mann,Michael.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.public.md) 
+
+### #is_/same_as :: [Mann,Michael.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.internal.md) 
+
+### #is_/same_as :: [Mann,Michael.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.protect.md) 
+
+### #is_/same_as :: [Mann,Michael.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.private.md) 
+
+### #is_/same_as :: [Mann,Michael.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.personal.md) 
+
+### #is_/same_as :: [Mann,Michael.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Mann,Michael.secret.md)
 

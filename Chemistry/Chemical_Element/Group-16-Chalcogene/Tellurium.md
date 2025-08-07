@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
 atomic_number: 52
 boiling_point: 1814
@@ -135,17 +135,17 @@ ZVG_number: 7520
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tellurium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.md) 
+### #is_/same_as :: [Tellurium](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.md) 
 
-### #is_/same_as :: [Tellurium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.public.md) 
+### #is_/same_as :: [Tellurium.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public.md) 
 
-### #is_/same_as :: [Tellurium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.internal.md) 
+### #is_/same_as :: [Tellurium.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal.md) 
 
-### #is_/same_as :: [Tellurium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.protect.md) 
+### #is_/same_as :: [Tellurium.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.protect.md) 
 
-### #is_/same_as :: [Tellurium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.private.md) 
+### #is_/same_as :: [Tellurium.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.private.md) 
 
-### #is_/same_as :: [Tellurium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.personal.md) 
+### #is_/same_as :: [Tellurium.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.personal.md) 
 
-### #is_/same_as :: [Tellurium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.secret.md)
+### #is_/same_as :: [Tellurium.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret.md)
 

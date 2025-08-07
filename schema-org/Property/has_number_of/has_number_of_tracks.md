@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - num-tracks
 - num_tracks

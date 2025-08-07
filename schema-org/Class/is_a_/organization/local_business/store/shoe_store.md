@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shoe-store
 - shoe_store

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501k
 - nonprofit501k

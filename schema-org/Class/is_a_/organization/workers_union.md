@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - workers-union
 - workers_union

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - identifying-exam
 - identifying_exam

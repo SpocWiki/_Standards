@@ -46,3 +46,20 @@ has_id_wikidata: Q474
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aqueduct%20(bridge)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aqueduct](/_Standards/Technology/Construction/Bridge/Aqueduct.md) 
+
+### #is_/same_as :: [Aqueduct.public](/_public/Technology/Construction/Bridge/Aqueduct.public.md) 
+
+### #is_/same_as :: [Aqueduct.internal](/_internal/Technology/Construction/Bridge/Aqueduct.internal.md) 
+
+### #is_/same_as :: [Aqueduct.protect](/_protect/Technology/Construction/Bridge/Aqueduct.protect.md) 
+
+### #is_/same_as :: [Aqueduct.private](/_private/Technology/Construction/Bridge/Aqueduct.private.md) 
+
+### #is_/same_as :: [Aqueduct.personal](/_personal/Technology/Construction/Bridge/Aqueduct.personal.md) 
+
+### #is_/same_as :: [Aqueduct.secret](/_secret/Technology/Construction/Bridge/Aqueduct.secret.md)
+

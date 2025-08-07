@@ -1,4 +1,4 @@
-﻿---
+---
 antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
 ASHRAE_refrigerant_number: 704
 ATC_code: V03AN03
@@ -132,17 +132,17 @@ ZVG_number: 7020
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helium](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.md) 
+### #is_/same_as :: [Helium](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.md) 
 
-### #is_/same_as :: [Helium.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.public.md) 
+### #is_/same_as :: [Helium.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public.md) 
 
-### #is_/same_as :: [Helium.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.internal.md) 
+### #is_/same_as :: [Helium.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal.md) 
 
-### #is_/same_as :: [Helium.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.protect.md) 
+### #is_/same_as :: [Helium.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.protect.md) 
 
-### #is_/same_as :: [Helium.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.private.md) 
+### #is_/same_as :: [Helium.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.private.md) 
 
-### #is_/same_as :: [Helium.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.personal.md) 
+### #is_/same_as :: [Helium.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal.md) 
 
-### #is_/same_as :: [Helium.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.secret.md)
+### #is_/same_as :: [Helium.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret.md)
 

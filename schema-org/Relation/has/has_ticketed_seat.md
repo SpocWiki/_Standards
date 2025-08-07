@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ticketed-seat
 - ticketed_seat

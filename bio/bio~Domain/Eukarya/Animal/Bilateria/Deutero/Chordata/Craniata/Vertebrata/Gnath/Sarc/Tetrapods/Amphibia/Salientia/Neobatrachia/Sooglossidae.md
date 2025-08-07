@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sooglossidae
 ---
 
@@ -122,17 +122,17 @@ inguinal amplexus and limnodynastines have axillary amplexus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sooglossidae](Sooglossidae.md)) 
+### #is_/same_as :: [Sooglossidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.md) 
 
-### #is_/same_as :: [Sooglossidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Sooglossidae.public.md) 
+### #is_/same_as :: [Sooglossidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.public.md) 
 
-### #is_/same_as :: [Sooglossidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Sooglossidae.internal.md) 
+### #is_/same_as :: [Sooglossidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.internal.md) 
 
-### #is_/same_as :: [Sooglossidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Sooglossidae.protect.md) 
+### #is_/same_as :: [Sooglossidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.protect.md) 
 
-### #is_/same_as :: [Sooglossidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Sooglossidae.private.md) 
+### #is_/same_as :: [Sooglossidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.private.md) 
 
-### #is_/same_as :: [Sooglossidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Sooglossidae.personal.md) 
+### #is_/same_as :: [Sooglossidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.personal.md) 
 
-### #is_/same_as :: [Sooglossidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Sooglossidae.secret.md)
+### #is_/same_as :: [Sooglossidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Sooglossidae.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - seat-number
 - seat_number

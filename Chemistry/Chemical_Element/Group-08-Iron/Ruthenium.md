@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 44
 canonical_SMILES: '[Ru]'
 CAS_Registry_Number: 7440-18-8
@@ -117,17 +117,17 @@ ZVG_number: 7440
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruthenium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Ruthenium.md) 
+### #is_/same_as :: [Ruthenium](/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.md) 
 
-### #is_/same_as :: [Ruthenium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Ruthenium.public.md) 
+### #is_/same_as :: [Ruthenium.public](/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public.md) 
 
-### #is_/same_as :: [Ruthenium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.internal.md) 
+### #is_/same_as :: [Ruthenium.internal](/_internal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.internal.md) 
 
-### #is_/same_as :: [Ruthenium.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Ruthenium.protect.md) 
+### #is_/same_as :: [Ruthenium.protect](/_protect/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.protect.md) 
 
-### #is_/same_as :: [Ruthenium.private](/_private/chemic/chemic~Elements/Group-08-Iron/Ruthenium.private.md) 
+### #is_/same_as :: [Ruthenium.private](/_private/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.private.md) 
 
-### #is_/same_as :: [Ruthenium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.personal.md) 
+### #is_/same_as :: [Ruthenium.personal](/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal.md) 
 
-### #is_/same_as :: [Ruthenium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Ruthenium.secret.md)
+### #is_/same_as :: [Ruthenium.secret](/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret.md)
 

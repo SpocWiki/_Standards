@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "Y:1"
 Commons_category: Civilizations
 described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'

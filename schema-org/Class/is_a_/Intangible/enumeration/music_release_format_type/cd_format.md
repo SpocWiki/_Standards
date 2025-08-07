@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cd-format
 - cd_format

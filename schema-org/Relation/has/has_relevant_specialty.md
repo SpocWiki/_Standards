@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - relevant-specialty
 - relevant_specialty

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Milbe
 - Mite
@@ -249,7 +249,7 @@ Copyright ::         © 1996 C. Podemski
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mite](Mite.md)) 
+### #is_/same_as :: [Mite](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.md) 
 
 ### #is_/same_as :: [Mite.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.public.md) 
 

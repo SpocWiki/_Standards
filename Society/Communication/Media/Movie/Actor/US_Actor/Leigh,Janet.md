@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Janet Leigh"
 - "Jeanette Helen Morrison"
@@ -29,4 +29,21 @@ aliases:
 > In addition to her work as an actress, Leigh also wrote four books between 1984 and 2002, two of which were novels. Leigh had two brief marriages as a teenager (one of which was annulled) before marrying actor Tony Curtis in 1951. The pair's highly publicized union ended in divorce in 1962, and after starring in The Manchurian Candidate that same year, Leigh remarried and scaled back her career. She died in 2004 at age 77, following a year-long battle with vasculitis.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Janet%20Leigh)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Leigh,Janet](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.md) 
+
+### #is_/same_as :: [Leigh,Janet.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.public.md) 
+
+### #is_/same_as :: [Leigh,Janet.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.internal.md) 
+
+### #is_/same_as :: [Leigh,Janet.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.protect.md) 
+
+### #is_/same_as :: [Leigh,Janet.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.private.md) 
+
+### #is_/same_as :: [Leigh,Janet.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.personal.md) 
+
+### #is_/same_as :: [Leigh,Janet.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leigh,Janet.secret.md)
 

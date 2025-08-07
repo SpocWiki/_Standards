@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - potential-action-status
 - potential_action_status

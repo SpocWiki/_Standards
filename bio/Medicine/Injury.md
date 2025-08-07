@@ -52,3 +52,20 @@ ICD_10_CM: S00.T98
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Injury) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Injury](/_Standards/bio/Medicine/Injury.md) 
+
+### #is_/same_as :: [Injury.public](/_public/bio/Medicine/Injury.public.md) 
+
+### #is_/same_as :: [Injury.internal](/_internal/bio/Medicine/Injury.internal.md) 
+
+### #is_/same_as :: [Injury.protect](/_protect/bio/Medicine/Injury.protect.md) 
+
+### #is_/same_as :: [Injury.private](/_private/bio/Medicine/Injury.private.md) 
+
+### #is_/same_as :: [Injury.personal](/_personal/bio/Medicine/Injury.personal.md) 
+
+### #is_/same_as :: [Injury.secret](/_secret/bio/Medicine/Injury.secret.md)
+

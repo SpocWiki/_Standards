@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - disagree-action
 - disagree_action

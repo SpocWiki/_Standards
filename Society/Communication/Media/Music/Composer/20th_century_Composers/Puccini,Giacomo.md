@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giacomo Puccini"
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Caruso%20-%20Nellie%20Melba%20-%20La%20boh%C3%A8me%20-%20O%20soave%20fanciulla%20%28restored%29.ogg"

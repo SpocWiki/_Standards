@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - x-path-type
 - x_path_type

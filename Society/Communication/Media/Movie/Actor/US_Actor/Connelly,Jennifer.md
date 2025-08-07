@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jennifer Connelly"
 - "Jennifer Lynn Connelly"
@@ -24,6 +24,19 @@ aliases:
 > [Wikipedia](https://de.wikipedia.org/wiki/Jennifer%20Connelly) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Connelly,Jennifer](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.md) 
 
+### #is_/same_as :: [Connelly,Jennifer.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.public.md) 
+
+### #is_/same_as :: [Connelly,Jennifer.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.internal.md) 
+
+### #is_/same_as :: [Connelly,Jennifer.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.protect.md) 
+
+### #is_/same_as :: [Connelly,Jennifer.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.private.md) 
+
+### #is_/same_as :: [Connelly,Jennifer.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.personal.md) 
+
+### #is_/same_as :: [Connelly,Jennifer.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Connelly,Jennifer.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - minimum-advertised-price
 - minimum_advertised_price

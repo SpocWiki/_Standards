@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pimoidae
 ---
 
@@ -101,7 +101,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pimoidae](Pimoidae.md)) 
+### #is_/same_as :: [Pimoidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.md) 
 
 ### #is_/same_as :: [Pimoidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - membership-number
 - id_membership

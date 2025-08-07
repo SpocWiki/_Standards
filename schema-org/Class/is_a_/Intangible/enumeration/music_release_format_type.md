@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-release-format-type
 - music_release_format_type

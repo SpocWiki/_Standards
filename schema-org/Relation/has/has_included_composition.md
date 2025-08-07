@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - included-composition
 - included_composition

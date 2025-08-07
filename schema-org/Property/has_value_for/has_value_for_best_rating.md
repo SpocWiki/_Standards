@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - best_rating
 - best-rating

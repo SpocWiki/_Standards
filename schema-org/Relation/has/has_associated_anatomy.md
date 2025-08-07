@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - associated-anatomy
 - associated_anatomy

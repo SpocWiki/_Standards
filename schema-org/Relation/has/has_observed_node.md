@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - observed-node
 - observed_node

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Martin Luther"
 archives_at: '[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]'

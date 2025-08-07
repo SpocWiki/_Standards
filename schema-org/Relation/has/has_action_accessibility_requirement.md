@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - action-accessibility-requirement
 - action_accessibility_requirement

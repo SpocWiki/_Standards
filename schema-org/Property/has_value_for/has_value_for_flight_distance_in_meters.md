@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - flight_distance
 - flight-distance

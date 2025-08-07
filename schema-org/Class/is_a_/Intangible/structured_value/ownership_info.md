@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ownership-info
 - ownership_info

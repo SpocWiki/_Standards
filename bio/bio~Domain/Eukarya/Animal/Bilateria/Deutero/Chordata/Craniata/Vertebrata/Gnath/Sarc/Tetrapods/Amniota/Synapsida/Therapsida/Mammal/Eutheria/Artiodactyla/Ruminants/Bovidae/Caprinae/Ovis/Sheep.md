@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ovis aries"
 - aries
@@ -96,7 +96,7 @@ Areas. Molecular Biology and Evolution 23(9):1776-1783.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sheep](Sheep.md)) 
+### #is_/same_as :: [Sheep](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ovis/Sheep.md) 
 
 ### #is_/same_as :: [Sheep.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ovis/Sheep.public.md) 
 

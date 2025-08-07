@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - typical-credits-per-term
 - typical_credits_per_term

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-section
 - how_to_section

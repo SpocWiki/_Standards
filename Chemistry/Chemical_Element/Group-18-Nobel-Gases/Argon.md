@@ -112,17 +112,17 @@ ZVG_number: 7180
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Argon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.md) 
+### #is_/same_as :: [Argon](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.md) 
 
-### #is_/same_as :: [Argon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.public.md) 
+### #is_/same_as :: [Argon.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public.md) 
 
-### #is_/same_as :: [Argon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.internal.md) 
+### #is_/same_as :: [Argon.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal.md) 
 
-### #is_/same_as :: [Argon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.protect.md) 
+### #is_/same_as :: [Argon.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.protect.md) 
 
-### #is_/same_as :: [Argon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.private.md) 
+### #is_/same_as :: [Argon.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.private.md) 
 
-### #is_/same_as :: [Argon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.personal.md) 
+### #is_/same_as :: [Argon.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.personal.md) 
 
-### #is_/same_as :: [Argon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.secret.md)
+### #is_/same_as :: [Argon.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret.md)
 

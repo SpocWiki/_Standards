@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offline-temporarily
 - offline_temporarily

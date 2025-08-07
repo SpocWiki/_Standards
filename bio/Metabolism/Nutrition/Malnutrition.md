@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Malnutrition
 exact_match: "http://purl.obolibrary.org/obo/HP_0004395"
 facet_of: '[[_Standards/WikiData/WD~poverty,10294]]'

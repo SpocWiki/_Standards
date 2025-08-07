@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - moving-company
 - moving_company

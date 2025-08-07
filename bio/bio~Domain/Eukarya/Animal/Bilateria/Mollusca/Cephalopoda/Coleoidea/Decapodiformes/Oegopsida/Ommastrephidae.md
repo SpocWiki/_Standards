@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ommastrephidae
 ---
 
@@ -168,7 +168,7 @@ Contr. Zool., No. 586:373-384..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ommastrephidae](Ommastrephidae.md)) 
+### #is_/same_as :: [Ommastrephidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.md) 
 
 ### #is_/same_as :: [Ommastrephidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.public.md) 
 

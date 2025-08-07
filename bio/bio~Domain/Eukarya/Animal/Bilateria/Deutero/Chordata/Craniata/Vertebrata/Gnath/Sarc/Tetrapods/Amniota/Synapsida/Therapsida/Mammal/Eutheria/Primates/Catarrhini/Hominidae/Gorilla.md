@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gorilla
 ---
 
@@ -89,7 +89,7 @@ title: Gorilla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gorilla](Gorilla.md)) 
+### #is_/same_as :: [Gorilla](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.md) 
 
 ### #is_/same_as :: [Gorilla.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.public.md) 
 

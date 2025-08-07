@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - toc-entry
 - toc_entry

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - edited-or-cropped-content
 - edited_or_cropped_content

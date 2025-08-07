@@ -53,3 +53,20 @@ without necessarily blending them into a new, cohesive belief system
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eclecticism)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Eclecticism](/_Standards/Society/Communication/Rethoric/Eclecticism.md) 
+
+### #is_/same_as :: [Eclecticism.public](/_public/Society/Communication/Rethoric/Eclecticism.public.md) 
+
+### #is_/same_as :: [Eclecticism.internal](/_internal/Society/Communication/Rethoric/Eclecticism.internal.md) 
+
+### #is_/same_as :: [Eclecticism.protect](/_protect/Society/Communication/Rethoric/Eclecticism.protect.md) 
+
+### #is_/same_as :: [Eclecticism.private](/_private/Society/Communication/Rethoric/Eclecticism.private.md) 
+
+### #is_/same_as :: [Eclecticism.personal](/_personal/Society/Communication/Rethoric/Eclecticism.personal.md) 
+
+### #is_/same_as :: [Eclecticism.secret](/_secret/Society/Communication/Rethoric/Eclecticism.secret.md)
+

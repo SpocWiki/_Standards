@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-event
 - music_event

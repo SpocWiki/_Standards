@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - css-selector
 - css_selector

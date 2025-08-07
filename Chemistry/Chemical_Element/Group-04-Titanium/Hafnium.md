@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
 atomic_number: 72
 boiling_point: 8316
@@ -121,17 +121,17 @@ ZVG_number: 7720
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hafnium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Hafnium.md) 
+### #is_/same_as :: [Hafnium](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.md) 
 
-### #is_/same_as :: [Hafnium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Hafnium.public.md) 
+### #is_/same_as :: [Hafnium.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public.md) 
 
-### #is_/same_as :: [Hafnium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.internal.md) 
+### #is_/same_as :: [Hafnium.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal.md) 
 
-### #is_/same_as :: [Hafnium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Hafnium.protect.md) 
+### #is_/same_as :: [Hafnium.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect.md) 
 
-### #is_/same_as :: [Hafnium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Hafnium.private.md) 
+### #is_/same_as :: [Hafnium.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private.md) 
 
-### #is_/same_as :: [Hafnium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.personal.md) 
+### #is_/same_as :: [Hafnium.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal.md) 
 
-### #is_/same_as :: [Hafnium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Hafnium.secret.md)
+### #is_/same_as :: [Hafnium.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Seymouria
 ---
 
@@ -164,7 +164,7 @@ of the Museum of Comparative Zoology 85: 325-409.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Seymouria](Seymouria.md)) 
+### #is_/same_as :: [Seymouria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Seymouria.md) 
 
 ### #is_/same_as :: [Seymouria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Seymouria.public.md) 
 

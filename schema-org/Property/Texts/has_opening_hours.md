@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - opening-hours
 - opening_hours

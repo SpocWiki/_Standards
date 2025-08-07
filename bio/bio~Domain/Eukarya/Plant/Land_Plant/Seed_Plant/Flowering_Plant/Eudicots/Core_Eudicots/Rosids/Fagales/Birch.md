@@ -1,4 +1,4 @@
-﻿---
+---
 award_received: '[[_Standards/WikiData/WD~Tree_of_the_Year_(Austria),91888146]]'
 Commons_category: Betula
 Commons_gallery: Betula
@@ -74,17 +74,17 @@ U_S_National_Archives_Identifier: 10665387
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Birch](Birch.md)) 
+### #is_/same_as :: [Birch](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.md) 
 
-### #is_/same_as :: [Birch.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.public.md) 
+### #is_/same_as :: [Birch.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.public.md) 
 
-### #is_/same_as :: [Birch.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.internal.md) 
+### #is_/same_as :: [Birch.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.internal.md) 
 
-### #is_/same_as :: [Birch.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.protect.md) 
+### #is_/same_as :: [Birch.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.protect.md) 
 
-### #is_/same_as :: [Birch.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.private.md) 
+### #is_/same_as :: [Birch.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.private.md) 
 
-### #is_/same_as :: [Birch.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.personal.md) 
+### #is_/same_as :: [Birch.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.personal.md) 
 
-### #is_/same_as :: [Birch.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.secret.md)
+### #is_/same_as :: [Birch.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Birch.secret.md)
 

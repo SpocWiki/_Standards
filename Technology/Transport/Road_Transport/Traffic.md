@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 55.84
 Commons_category: Transport
 Commons_gallery: Traffic

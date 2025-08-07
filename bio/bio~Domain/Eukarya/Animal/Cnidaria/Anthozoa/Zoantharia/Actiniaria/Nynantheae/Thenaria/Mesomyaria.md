@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mesomyaria
 ---
 
@@ -46,7 +46,7 @@ volume 1, number 1.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mesomyaria](Mesomyaria.md)) 
+### #is_/same_as :: [Mesomyaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.md) 
 
 ### #is_/same_as :: [Mesomyaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.public.md) 
 

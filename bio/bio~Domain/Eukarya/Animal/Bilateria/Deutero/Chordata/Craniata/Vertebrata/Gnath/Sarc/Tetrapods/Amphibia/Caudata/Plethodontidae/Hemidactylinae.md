@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hemidactylium scutatum"
 ---
 
@@ -162,17 +162,17 @@ Copyright ::            © 2005 [Michael Cravens](http://michaelcravens.com/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hemidactylinae](Hemidactylinae.md)) 
+### #is_/same_as :: [Hemidactylinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.md) 
 
-### #is_/same_as :: [Hemidactylinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Hemidactylinae.public.md) 
+### #is_/same_as :: [Hemidactylinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.public.md) 
 
-### #is_/same_as :: [Hemidactylinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Hemidactylinae.internal.md) 
+### #is_/same_as :: [Hemidactylinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.internal.md) 
 
-### #is_/same_as :: [Hemidactylinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Hemidactylinae.protect.md) 
+### #is_/same_as :: [Hemidactylinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.protect.md) 
 
-### #is_/same_as :: [Hemidactylinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Hemidactylinae.private.md) 
+### #is_/same_as :: [Hemidactylinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.private.md) 
 
-### #is_/same_as :: [Hemidactylinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Hemidactylinae.personal.md) 
+### #is_/same_as :: [Hemidactylinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.personal.md) 
 
-### #is_/same_as :: [Hemidactylinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Hemidactylinae.secret.md)
+### #is_/same_as :: [Hemidactylinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Hemidactylinae.secret.md)
 

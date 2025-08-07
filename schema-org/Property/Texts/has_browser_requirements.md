@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - browser-requirements
 - browser_requirements

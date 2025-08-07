@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jules Verne"
 - "Jules Gabriel Verne"

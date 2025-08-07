@@ -47,3 +47,20 @@ ATC_code: S01XA07
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alum](/_Standards/Chemistry/inOrganic/Alum.md) 
+
+### #is_/same_as :: [Alum.public](/_public/Chemistry/inOrganic/Alum.public.md) 
+
+### #is_/same_as :: [Alum.internal](/_internal/Chemistry/inOrganic/Alum.internal.md) 
+
+### #is_/same_as :: [Alum.protect](/_protect/Chemistry/inOrganic/Alum.protect.md) 
+
+### #is_/same_as :: [Alum.private](/_private/Chemistry/inOrganic/Alum.private.md) 
+
+### #is_/same_as :: [Alum.personal](/_personal/Chemistry/inOrganic/Alum.personal.md) 
+
+### #is_/same_as :: [Alum.secret](/_secret/Chemistry/inOrganic/Alum.secret.md)
+

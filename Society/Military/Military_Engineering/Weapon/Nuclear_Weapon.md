@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Weapon](Nuclear_Weapon.md) 
+### #is_/same_as :: [Nuclear_Weapon](/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.md) 
 
-### #is_/same_as :: [Nuclear_Weapon.public](/_public/Society/Military/Nuclear_Weapon.public.md) 
+### #is_/same_as :: [Nuclear_Weapon.public](/_public/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.public.md) 
 
-### #is_/same_as :: [Nuclear_Weapon.internal](/_internal/Society/Military/Nuclear_Weapon.internal.md) 
+### #is_/same_as :: [Nuclear_Weapon.internal](/_internal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.internal.md) 
 
-### #is_/same_as :: [Nuclear_Weapon.protect](/_protect/Society/Military/Nuclear_Weapon.protect.md) 
+### #is_/same_as :: [Nuclear_Weapon.protect](/_protect/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.protect.md) 
 
-### #is_/same_as :: [Nuclear_Weapon.private](/_private/Society/Military/Nuclear_Weapon.private.md) 
+### #is_/same_as :: [Nuclear_Weapon.private](/_private/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.private.md) 
 
-### #is_/same_as :: [Nuclear_Weapon.personal](/_personal/Society/Military/Nuclear_Weapon.personal.md) 
+### #is_/same_as :: [Nuclear_Weapon.personal](/_personal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.personal.md) 
 
-### #is_/same_as :: [Nuclear_Weapon.secret](/_secret/Society/Military/Nuclear_Weapon.secret.md)
+### #is_/same_as :: [Nuclear_Weapon.secret](/_secret/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.secret.md)
 

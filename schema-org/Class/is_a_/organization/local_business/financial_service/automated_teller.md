@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - automated-teller
 - automated_teller

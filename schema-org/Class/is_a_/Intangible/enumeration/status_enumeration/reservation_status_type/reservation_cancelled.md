@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reservation-cancelled
 - reservation_cancelled

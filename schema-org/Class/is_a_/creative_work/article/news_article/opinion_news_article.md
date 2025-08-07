@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - opinion-news-article
 - opinion_news_article

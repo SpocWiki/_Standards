@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - last-reviewed
 - last_reviewed

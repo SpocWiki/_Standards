@@ -53,12 +53,19 @@ official_name: Aries
 #is_/same_as :: [[../../WikiData/WD~Aries,10584|WD~Aries,10584]] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Aries|Zodiac~Aries]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Aries.public|Zodiac~Aries.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Aries.internal|Zodiac~Aries.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Aries.protect|Zodiac~Aries.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Aries.private|Zodiac~Aries.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Aries.personal|Zodiac~Aries.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Aries.secret|Zodiac~Aries.secret]] 
+
+### #is_/same_as :: [Zodiac~Aries](/_Standards/Astronomy/Star~Constellation/Zodiac~Aries.md) 
+
+### #is_/same_as :: [Zodiac~Aries.public](/_public/Astronomy/Star~Constellation/Zodiac~Aries.public.md) 
+
+### #is_/same_as :: [Zodiac~Aries.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Aries.internal.md) 
+
+### #is_/same_as :: [Zodiac~Aries.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Aries.protect.md) 
+
+### #is_/same_as :: [Zodiac~Aries.private](/_private/Astronomy/Star~Constellation/Zodiac~Aries.private.md) 
+
+### #is_/same_as :: [Zodiac~Aries.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Aries.personal.md) 
+
+### #is_/same_as :: [Zodiac~Aries.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Aries.secret.md)
+

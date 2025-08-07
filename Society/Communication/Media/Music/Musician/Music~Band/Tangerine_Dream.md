@@ -44,3 +44,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tangerine%20Dream) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tangerine_Dream](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.md) 
+
+### #is_/same_as :: [Tangerine_Dream.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.public.md) 
+
+### #is_/same_as :: [Tangerine_Dream.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.internal.md) 
+
+### #is_/same_as :: [Tangerine_Dream.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.protect.md) 
+
+### #is_/same_as :: [Tangerine_Dream.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.private.md) 
+
+### #is_/same_as :: [Tangerine_Dream.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.personal.md) 
+
+### #is_/same_as :: [Tangerine_Dream.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 37
 canonical_SMILES: '[Rb]'
 CAS_Registry_Number: 7440-17-7
@@ -130,17 +130,17 @@ ZVG_number: 7370
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rubidium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Rubidium.md) 
+### #is_/same_as :: [Rubidium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.md) 
 
-### #is_/same_as :: [Rubidium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Rubidium.public.md) 
+### #is_/same_as :: [Rubidium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public.md) 
 
-### #is_/same_as :: [Rubidium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.internal.md) 
+### #is_/same_as :: [Rubidium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal.md) 
 
-### #is_/same_as :: [Rubidium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Rubidium.protect.md) 
+### #is_/same_as :: [Rubidium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect.md) 
 
-### #is_/same_as :: [Rubidium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Rubidium.private.md) 
+### #is_/same_as :: [Rubidium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private.md) 
 
-### #is_/same_as :: [Rubidium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.personal.md) 
+### #is_/same_as :: [Rubidium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal.md) 
 
-### #is_/same_as :: [Rubidium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Rubidium.secret.md)
+### #is_/same_as :: [Rubidium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret.md)
 

@@ -188,7 +188,7 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Arthropoda](Arthropoda.md)) 
+### #is_/same_as :: [Arthropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.md) 
 
 ### #is_/same_as :: [Arthropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.public.md) 
 

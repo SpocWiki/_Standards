@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Parastacoidea
 - Parastacidae
@@ -148,7 +148,7 @@ Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Parastacoidea](Parastacoidea.md)) 
+### #is_/same_as :: [Parastacoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.md) 
 
 ### #is_/same_as :: [Parastacoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pickup-location
 - pickup_location

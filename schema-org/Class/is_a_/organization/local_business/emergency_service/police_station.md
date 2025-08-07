@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - police-station
 - police_station

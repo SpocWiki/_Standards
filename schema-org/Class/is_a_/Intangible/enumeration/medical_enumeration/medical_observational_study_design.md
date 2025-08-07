@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-observational-study-design
 - medical_observational_study_design

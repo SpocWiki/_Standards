@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - saturated_fat_in_gram
 - saturated-fat-content

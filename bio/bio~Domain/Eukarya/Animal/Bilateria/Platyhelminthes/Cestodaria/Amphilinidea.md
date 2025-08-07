@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amphilinidea
 ---
 
@@ -154,7 +154,7 @@ Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amphilinidea](Amphilinidea.md)) 
+### #is_/same_as :: [Amphilinidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.md) 
 
 ### #is_/same_as :: [Amphilinidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.public.md) 
 

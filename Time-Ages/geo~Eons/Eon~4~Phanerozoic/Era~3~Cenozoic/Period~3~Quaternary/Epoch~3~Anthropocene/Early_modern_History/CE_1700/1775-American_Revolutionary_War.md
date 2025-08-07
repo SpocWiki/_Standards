@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "American War of Independence"
 - "American Revolution"

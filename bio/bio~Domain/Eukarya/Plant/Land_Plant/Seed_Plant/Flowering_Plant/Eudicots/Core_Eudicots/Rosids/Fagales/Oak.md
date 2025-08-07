@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Oak
 - Eiche
@@ -178,17 +178,17 @@ winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Eiche%20winter.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oak](Oak.md)) 
+### #is_/same_as :: [Oak](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.md) 
 
-### #is_/same_as :: [Oak.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.public.md) 
+### #is_/same_as :: [Oak.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.public.md) 
 
-### #is_/same_as :: [Oak.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.internal.md) 
+### #is_/same_as :: [Oak.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.internal.md) 
 
-### #is_/same_as :: [Oak.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.protect.md) 
+### #is_/same_as :: [Oak.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.protect.md) 
 
-### #is_/same_as :: [Oak.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.private.md) 
+### #is_/same_as :: [Oak.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.private.md) 
 
-### #is_/same_as :: [Oak.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.personal.md) 
+### #is_/same_as :: [Oak.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.personal.md) 
 
-### #is_/same_as :: [Oak.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.secret.md)
+### #is_/same_as :: [Oak.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Oak.secret.md)
 

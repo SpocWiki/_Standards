@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Lacerta|Zodiac~Lacerta]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Lacerta.public|Zodiac~Lacerta.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Lacerta.internal|Zodiac~Lacerta.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Lacerta.protect|Zodiac~Lacerta.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Lacerta.private|Zodiac~Lacerta.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Lacerta.personal|Zodiac~Lacerta.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Lacerta.secret|Zodiac~Lacerta.secret]] 
+
+### #is_/same_as :: [Zodiac~Lacerta](/_Standards/Astronomy/Star~Constellation/Zodiac~Lacerta.md) 
+
+### #is_/same_as :: [Zodiac~Lacerta.public](/_public/Astronomy/Star~Constellation/Zodiac~Lacerta.public.md) 
+
+### #is_/same_as :: [Zodiac~Lacerta.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Lacerta.internal.md) 
+
+### #is_/same_as :: [Zodiac~Lacerta.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Lacerta.protect.md) 
+
+### #is_/same_as :: [Zodiac~Lacerta.private](/_private/Astronomy/Star~Constellation/Zodiac~Lacerta.private.md) 
+
+### #is_/same_as :: [Zodiac~Lacerta.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Lacerta.personal.md) 
+
+### #is_/same_as :: [Zodiac~Lacerta.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Lacerta.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - infectious-agent-class
 - infectious_agent_class

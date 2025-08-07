@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - grocery-store
 - grocery_store

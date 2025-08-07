@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - communicate-action
 - communicate_action

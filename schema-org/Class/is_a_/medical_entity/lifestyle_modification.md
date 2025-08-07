@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - lifestyle-modification
 - lifestyle_modification

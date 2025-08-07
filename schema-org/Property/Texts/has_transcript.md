@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - transcript
 - transcript

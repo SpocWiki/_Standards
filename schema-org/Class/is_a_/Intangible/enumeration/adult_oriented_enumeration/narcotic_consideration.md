@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - narcotic-consideration
 - narcotic_consideration

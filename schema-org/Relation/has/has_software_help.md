@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - software-help
 - software_help

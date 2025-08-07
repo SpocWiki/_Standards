@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ammotragus lervia"
 ---
 
@@ -69,7 +69,7 @@ biology, ecology and distribution. Annales Zoologici Fennici 35:149-162.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ammotragus](Ammotragus.md)) 
+### #is_/same_as :: [Ammotragus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ammotragus.md) 
 
 ### #is_/same_as :: [Ammotragus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Ammotragus.public.md) 
 

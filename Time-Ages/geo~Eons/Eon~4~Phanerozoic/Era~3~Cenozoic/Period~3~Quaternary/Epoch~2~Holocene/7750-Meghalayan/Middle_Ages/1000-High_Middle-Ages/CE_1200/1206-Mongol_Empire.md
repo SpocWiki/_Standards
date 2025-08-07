@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mongol Empire"
 area:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Watt"
 award_received:

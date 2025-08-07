@@ -1,4 +1,4 @@
-﻿---
+---
 described_by_source:
 - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - valid-for
 - valid_for

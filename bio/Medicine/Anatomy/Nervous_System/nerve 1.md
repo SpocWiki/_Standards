@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nerve
 - nerve
@@ -38,17 +38,17 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :[nerve 1](nerve%201.md))) 
+### #is_/same_as :: [nerve 1](/_Standards/bio/Medicine/Anatomy/Nervous_System/nerve 1.md) 
 
-### #is_/same_as :: [nerve.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.public.md) 
+### #is_/same_as :: [nerve 1.public](/_public/bio/Medicine/Anatomy/Nervous_System/nerve 1.public.md) 
 
-### #is_/same_as :: [nerve.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.internal.md) 
+### #is_/same_as :: [nerve 1.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/nerve 1.internal.md) 
 
-### #is_/same_as :: [nerve.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.protect.md) 
+### #is_/same_as :: [nerve 1.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/nerve 1.protect.md) 
 
-### #is_/same_as :: [nerve.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.private.md) 
+### #is_/same_as :: [nerve 1.private](/_private/bio/Medicine/Anatomy/Nervous_System/nerve 1.private.md) 
 
-### #is_/same_as :: [nerve.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.personal.md) 
+### #is_/same_as :: [nerve 1.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/nerve 1.personal.md) 
 
-### #is_/same_as :: [nerve.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.secret.md)
+### #is_/same_as :: [nerve 1.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/nerve 1.secret.md)
 

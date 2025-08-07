@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tuberculina maxima"
 ---
 
@@ -68,7 +68,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tuberculina_maxima](Tuberculina_maxima.md)) 
+### #is_/same_as :: [Tuberculina_maxima](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.md) 
 
 ### #is_/same_as :: [Tuberculina_maxima.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.public.md) 
 

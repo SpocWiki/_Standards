@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rabindranath Thakur"
 - "Rabindranath Tagore"

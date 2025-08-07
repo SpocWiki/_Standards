@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bathyteuthis
 ---
 
@@ -218,7 +218,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bathyteuthidae](Bathyteuthidae.md)) 
+### #is_/same_as :: [Bathyteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae.md) 
 
 ### #is_/same_as :: [Bathyteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae.public.md) 
 

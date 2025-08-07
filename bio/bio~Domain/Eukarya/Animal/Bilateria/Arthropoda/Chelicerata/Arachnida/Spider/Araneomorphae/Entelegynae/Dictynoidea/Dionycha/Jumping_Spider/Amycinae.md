@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amycinae
 ---
 
@@ -79,7 +79,7 @@ Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amycinae](Amycinae.md)) 
+### #is_/same_as :: [Amycinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Amycinae.md) 
 
 ### #is_/same_as :: [Amycinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Amycinae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - type-of-bed
 - type_of_bed

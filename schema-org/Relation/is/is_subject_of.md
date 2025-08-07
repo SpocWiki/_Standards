@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - subject-of
 - subject_of

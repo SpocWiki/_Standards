@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Encyclopedia
 Colon_Classification: k
 Commons_category: Encyclopedias

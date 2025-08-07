@@ -47,4 +47,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Elemental%20(2023%20film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Elemental(2023)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).md) 
+
+### #is_/same_as :: [Elemental(2023).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).public.md) 
+
+### #is_/same_as :: [Elemental(2023).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).internal.md) 
+
+### #is_/same_as :: [Elemental(2023).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).protect.md) 
+
+### #is_/same_as :: [Elemental(2023).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).private.md) 
+
+### #is_/same_as :: [Elemental(2023).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).personal.md) 
+
+### #is_/same_as :: [Elemental(2023).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).secret.md)
 

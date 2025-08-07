@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fire-station
 - fire_station

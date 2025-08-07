@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2709
 Colon_Classification: F56
 Commons_category: "Pharmaceutical drugs"

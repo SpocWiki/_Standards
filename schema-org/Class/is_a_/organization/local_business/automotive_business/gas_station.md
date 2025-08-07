@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gas-station
 - gas_station

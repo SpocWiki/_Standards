@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rental-vehicle-usage
 - rental_vehicle_usage

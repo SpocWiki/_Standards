@@ -51,3 +51,20 @@ MeSH_tree_code: F01.145.113.547.200
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cannibalism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cannibalism](/_Standards/bio/Metabolism/Cannibalism.md) 
+
+### #is_/same_as :: [Cannibalism.public](/_public/bio/Metabolism/Cannibalism.public.md) 
+
+### #is_/same_as :: [Cannibalism.internal](/_internal/bio/Metabolism/Cannibalism.internal.md) 
+
+### #is_/same_as :: [Cannibalism.protect](/_protect/bio/Metabolism/Cannibalism.protect.md) 
+
+### #is_/same_as :: [Cannibalism.private](/_private/bio/Metabolism/Cannibalism.private.md) 
+
+### #is_/same_as :: [Cannibalism.personal](/_personal/bio/Metabolism/Cannibalism.personal.md) 
+
+### #is_/same_as :: [Cannibalism.secret](/_secret/bio/Metabolism/Cannibalism.secret.md)
+

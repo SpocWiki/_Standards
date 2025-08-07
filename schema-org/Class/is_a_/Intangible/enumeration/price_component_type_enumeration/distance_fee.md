@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - distance-fee
 - distance_fee

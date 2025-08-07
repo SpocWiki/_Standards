@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 43
 canonical_SMILES: '[Tc]'
 CAS_Registry_Number: 7440-26-8
@@ -121,17 +121,17 @@ UNSPSC_Code: 12141742
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technetium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Technetium.md) 
+### #is_/same_as :: [Technetium](/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.md) 
 
-### #is_/same_as :: [Technetium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Technetium.public.md) 
+### #is_/same_as :: [Technetium.public](/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public.md) 
 
-### #is_/same_as :: [Technetium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Technetium.internal.md) 
+### #is_/same_as :: [Technetium.internal](/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal.md) 
 
-### #is_/same_as :: [Technetium.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Technetium.protect.md) 
+### #is_/same_as :: [Technetium.protect](/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect.md) 
 
-### #is_/same_as :: [Technetium.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Technetium.private.md) 
+### #is_/same_as :: [Technetium.private](/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private.md) 
 
-### #is_/same_as :: [Technetium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Technetium.personal.md) 
+### #is_/same_as :: [Technetium.personal](/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal.md) 
 
-### #is_/same_as :: [Technetium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Technetium.secret.md)
+### #is_/same_as :: [Technetium.secret](/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret.md)
 

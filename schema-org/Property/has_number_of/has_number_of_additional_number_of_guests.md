@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - additional_number_of_guests
 - additional-number-of-guests

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accessibility-control
 - accessibility_control

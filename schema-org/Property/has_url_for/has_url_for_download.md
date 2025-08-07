@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - download-url
 - download_url

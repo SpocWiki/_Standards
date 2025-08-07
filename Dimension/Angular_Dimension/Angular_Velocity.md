@@ -17,7 +17,6 @@ Speed is the first Derivative of the [[../../Mathematics/Geometry/Angle|Rotation
 #has_/unit_for_ :: "[[]]" 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Angular_Velocity](/_Standards/Dimension/Angular_Dimension/Angular_Velocity.md) 

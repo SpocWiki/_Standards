@@ -67,17 +67,17 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/animation"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Animation](Animation.md) 
+### #is_/same_as :: [Animation](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation.md) 
 
-### #is_/same_as :: [Animation.public](/_public/Society/Communication/Media/Movie/Animation.public.md) 
+### #is_/same_as :: [Animation.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation.public.md) 
 
-### #is_/same_as :: [Animation.internal](/_internal/Society/Communication/Media/Movie/Animation.internal.md) 
+### #is_/same_as :: [Animation.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation.internal.md) 
 
-### #is_/same_as :: [Animation.protect](/_protect/Society/Communication/Media/Movie/Animation.protect.md) 
+### #is_/same_as :: [Animation.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation.protect.md) 
 
-### #is_/same_as :: [Animation.private](/_private/Society/Communication/Media/Movie/Animation.private.md) 
+### #is_/same_as :: [Animation.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation.private.md) 
 
-### #is_/same_as :: [Animation.personal](/_personal/Society/Communication/Media/Movie/Animation.personal.md) 
+### #is_/same_as :: [Animation.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation.personal.md) 
 
-### #is_/same_as :: [Animation.secret](/_secret/Society/Communication/Media/Movie/Animation.secret.md)
+### #is_/same_as :: [Animation.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation.secret.md)
 

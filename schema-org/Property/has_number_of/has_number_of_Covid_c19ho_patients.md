@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd_num_c19ho_pats
 - cvd-num-c19ho-pats

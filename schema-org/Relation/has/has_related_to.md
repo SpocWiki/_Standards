@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-to
 - related_to

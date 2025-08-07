@@ -15,6 +15,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Hannah%20(actor)) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Hannah,John(actor)](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).md) 
 
+### #is_/same_as :: [Hannah,John(actor).public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).public.md) 
+
+### #is_/same_as :: [Hannah,John(actor).internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).internal.md) 
+
+### #is_/same_as :: [Hannah,John(actor).protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).protect.md) 
+
+### #is_/same_as :: [Hannah,John(actor).private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).private.md) 
+
+### #is_/same_as :: [Hannah,John(actor).personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).personal.md) 
+
+### #is_/same_as :: [Hannah,John(actor).secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hannah,John(actor).secret.md)
 

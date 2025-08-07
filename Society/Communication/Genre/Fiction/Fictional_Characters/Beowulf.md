@@ -162,3 +162,20 @@ inception: http://www.wikidata.org/.well-known/genid/ee93ab9ba2768cd9ba192bef82f
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beowulf) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beowulf](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.md) 
+
+### #is_/same_as :: [Beowulf.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.public.md) 
+
+### #is_/same_as :: [Beowulf.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.internal.md) 
+
+### #is_/same_as :: [Beowulf.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.protect.md) 
+
+### #is_/same_as :: [Beowulf.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.private.md) 
+
+### #is_/same_as :: [Beowulf.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.personal.md) 
+
+### #is_/same_as :: [Beowulf.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Beowulf.secret.md)
+

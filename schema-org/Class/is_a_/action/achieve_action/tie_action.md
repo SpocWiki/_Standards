@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tie-action
 - tie_action

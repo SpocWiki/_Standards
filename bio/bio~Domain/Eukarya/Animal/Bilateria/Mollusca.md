@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 42.73
 Colon_Classification: K7
 Commons_category: Mollusca
@@ -139,7 +139,7 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mollusca](Mollusca.md)) 
+### #is_/same_as :: [Mollusca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.md) 
 
 ### #is_/same_as :: [Mollusca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Renaissance
 Commons_gallery: Renaissance
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Miguel de Cervantes"
 - "Miguel de Cervantes Saavedra"

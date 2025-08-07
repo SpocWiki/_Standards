@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - android-platform
 - android_platform

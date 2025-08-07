@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -14,14 +14,19 @@ type: StarClass
 [Mass-sol::0.8]
 
 
-
-
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Class/Star-Class~K|Star-Class~K]] 
-- [[../../../_public/astro/Class/Star-Class~K.public|Star-Class~K.public]] 
-- [[../../../_internal/astro/Class/Star-Class~K.internal|Star-Class~K.internal]] 
-- [[../../../_protect/astro/Class/Star-Class~K.protect|Star-Class~K.protect]] 
-- [[../../../_private/astro/Class/Star-Class~K.private|Star-Class~K.private]] 
-- [[../../../_personal/astro/Class/Star-Class~K.personal|Star-Class~K.personal]] 
-- [[../../../_secret/astro/Class/Star-Class~K.secret|Star-Class~K.secret]]
+
+### #is_/same_as :: [Star-Class~K](/_Standards/Astronomy/Star~Class/Star-Class~K.md) 
+
+### #is_/same_as :: [Star-Class~K.public](/_public/Astronomy/Star~Class/Star-Class~K.public.md) 
+
+### #is_/same_as :: [Star-Class~K.internal](/_internal/Astronomy/Star~Class/Star-Class~K.internal.md) 
+
+### #is_/same_as :: [Star-Class~K.protect](/_protect/Astronomy/Star~Class/Star-Class~K.protect.md) 
+
+### #is_/same_as :: [Star-Class~K.private](/_private/Astronomy/Star~Class/Star-Class~K.private.md) 
+
+### #is_/same_as :: [Star-Class~K.personal](/_personal/Astronomy/Star~Class/Star-Class~K.personal.md) 
+
+### #is_/same_as :: [Star-Class~K.secret](/_secret/Astronomy/Star~Class/Star-Class~K.secret.md)
 

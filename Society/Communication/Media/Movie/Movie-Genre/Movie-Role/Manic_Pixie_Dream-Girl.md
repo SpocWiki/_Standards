@@ -23,4 +23,19 @@
 ### [[../Comedies/Scott_Pilgrim_vs.the_World]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.md) 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.public.md) 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.internal.md) 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.protect.md) 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.private.md) 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.personal.md) 
+
+### #is_/same_as :: [Manic_Pixie_Dream-Girl.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.secret.md)
 

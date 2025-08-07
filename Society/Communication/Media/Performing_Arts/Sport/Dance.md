@@ -81,3 +81,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Dance-At-Bougival.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dance) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dance](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Dance.md) 
+
+### #is_/same_as :: [Dance.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Dance.public.md) 
+
+### #is_/same_as :: [Dance.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Dance.internal.md) 
+
+### #is_/same_as :: [Dance.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Dance.protect.md) 
+
+### #is_/same_as :: [Dance.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Dance.private.md) 
+
+### #is_/same_as :: [Dance.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Dance.personal.md) 
+
+### #is_/same_as :: [Dance.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Dance.secret.md)
+

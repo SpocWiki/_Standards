@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - media-review
 - media_review

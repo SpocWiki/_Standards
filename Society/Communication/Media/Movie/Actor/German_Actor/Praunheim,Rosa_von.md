@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rosa von Praunheim"
 - 
@@ -77,4 +77,20 @@ der eine [Reminiszenz](https://de.wikipedia.org/wiki/Reminiszenz "Reminiszenz")
 den [homosexuelle](https://de.wikipedia.org/wiki/Homosexualit%C3%A4t "Homosexualität") Männer in der [Zeit des Nationalsozialismus](https://de.wikipedia.org/wiki/Zeit_des_Nationalsozialismus "Zeit des Nationalsozialismus") in [Konzentrationslagern](https://de.wikipedia.org/wiki/Deutsche_Konzentrationslager "Deutsche Konzentrationslager") tragen mussten, 
 sowie an den Frankfurter Stadtteil [Praunheim](https://de.wikipedia.org/wiki/Frankfurt-Praunheim "Frankfurt-Praunheim"), wo er als Jugendlicher aufgewachsen war. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Praunheim,Rosa_von](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.md) 
+
+### #is_/same_as :: [Praunheim,Rosa_von.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.public.md) 
+
+### #is_/same_as :: [Praunheim,Rosa_von.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.internal.md) 
+
+### #is_/same_as :: [Praunheim,Rosa_von.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.protect.md) 
+
+### #is_/same_as :: [Praunheim,Rosa_von.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.private.md) 
+
+### #is_/same_as :: [Praunheim,Rosa_von.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.personal.md) 
+
+### #is_/same_as :: [Praunheim,Rosa_von.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.secret.md)
 

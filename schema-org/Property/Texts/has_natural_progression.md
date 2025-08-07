@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - natural-progression
 - natural_progression

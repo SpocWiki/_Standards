@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - arrival-gate
 - arrival_gate

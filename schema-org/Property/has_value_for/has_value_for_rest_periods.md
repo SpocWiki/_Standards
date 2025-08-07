@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rest_periods
 - rest-periods

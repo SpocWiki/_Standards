@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Ophiuchus|Zodiac~Ophiuchus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Ophiuchus.public|Zodiac~Ophiuchus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Ophiuchus.internal|Zodiac~Ophiuchus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Ophiuchus.protect|Zodiac~Ophiuchus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Ophiuchus.private|Zodiac~Ophiuchus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Ophiuchus.personal|Zodiac~Ophiuchus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Ophiuchus.secret|Zodiac~Ophiuchus.secret]] 
+
+### #is_/same_as :: [Zodiac~Ophiuchus](/_Standards/Astronomy/Star~Constellation/Zodiac~Ophiuchus.md) 
+
+### #is_/same_as :: [Zodiac~Ophiuchus.public](/_public/Astronomy/Star~Constellation/Zodiac~Ophiuchus.public.md) 
+
+### #is_/same_as :: [Zodiac~Ophiuchus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Ophiuchus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Ophiuchus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Ophiuchus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Ophiuchus.private](/_private/Astronomy/Star~Constellation/Zodiac~Ophiuchus.private.md) 
+
+### #is_/same_as :: [Zodiac~Ophiuchus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Ophiuchus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Ophiuchus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Ophiuchus.secret.md)
+

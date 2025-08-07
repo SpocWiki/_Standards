@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - funding-agency
 - funding_agency

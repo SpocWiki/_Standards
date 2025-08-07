@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - encoding-type
 - encoding_type

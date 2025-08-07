@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-type-enumeration
 - wearable_measurement_type_enumeration

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - valid-until
 - valid_until

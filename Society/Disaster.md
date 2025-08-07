@@ -66,3 +66,20 @@ U_S_National_Archives_Identifier: 10642735
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Disaster) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Disaster](/_Standards/Society/Disaster.md) 
+
+### #is_/same_as :: [Disaster.public](/_public/Society/Disaster.public.md) 
+
+### #is_/same_as :: [Disaster.internal](/_internal/Society/Disaster.internal.md) 
+
+### #is_/same_as :: [Disaster.protect](/_protect/Society/Disaster.protect.md) 
+
+### #is_/same_as :: [Disaster.private](/_private/Society/Disaster.private.md) 
+
+### #is_/same_as :: [Disaster.personal](/_personal/Society/Disaster.personal.md) 
+
+### #is_/same_as :: [Disaster.secret](/_secret/Society/Disaster.secret.md)
+

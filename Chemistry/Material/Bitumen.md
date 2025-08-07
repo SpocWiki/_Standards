@@ -46,3 +46,20 @@ P8189: "987007282683105171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bitumen) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bitumen](/_Standards/Chemistry/Material/Bitumen.md) 
+
+### #is_/same_as :: [Bitumen.public](/_public/Chemistry/Material/Bitumen.public.md) 
+
+### #is_/same_as :: [Bitumen.internal](/_internal/Chemistry/Material/Bitumen.internal.md) 
+
+### #is_/same_as :: [Bitumen.protect](/_protect/Chemistry/Material/Bitumen.protect.md) 
+
+### #is_/same_as :: [Bitumen.private](/_private/Chemistry/Material/Bitumen.private.md) 
+
+### #is_/same_as :: [Bitumen.personal](/_personal/Chemistry/Material/Bitumen.personal.md) 
+
+### #is_/same_as :: [Bitumen.secret](/_secret/Chemistry/Material/Bitumen.secret.md)
+

@@ -40,7 +40,7 @@ Any part of the human body, typically a component of an anatomical system. Organ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[anatomical_structure](anatomical_structure.md)) 
+### #is_/same_as :: [anatomical_structure](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure.md) 
 
 ### #is_/same_as :: [anatomical_structure.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure.public.md) 
 

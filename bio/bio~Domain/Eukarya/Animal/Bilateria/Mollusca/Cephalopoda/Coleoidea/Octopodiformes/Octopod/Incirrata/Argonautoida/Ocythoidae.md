@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ocythoe tuberculata"
 ---
 
@@ -201,7 +201,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ocythoidae](Ocythoidae.md)) 
+### #is_/same_as :: [Ocythoidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.md) 
 
 ### #is_/same_as :: [Ocythoidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida/Ocythoidae.public.md) 
 

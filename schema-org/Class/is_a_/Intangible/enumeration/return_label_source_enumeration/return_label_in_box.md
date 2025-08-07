@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-label-in-box
 - return_label_in_box

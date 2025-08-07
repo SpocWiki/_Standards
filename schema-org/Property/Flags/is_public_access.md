@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - public-access
 - public_access

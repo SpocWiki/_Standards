@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scorpionidae
 ---
 
@@ -51,7 +51,7 @@ Copyright ::   © 1991 Scott A. Stockwell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scorpionidae](Scorpionidae.md)) 
+### #is_/same_as :: [Scorpionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.md) 
 
 ### #is_/same_as :: [Scorpionidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.public.md) 
 

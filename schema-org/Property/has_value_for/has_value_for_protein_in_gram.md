@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - protein_in_gram
 - protein-content

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 1712
 Amazon_com_browse_node: 229534
 Baidu_Tieba_name: 软件

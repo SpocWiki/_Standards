@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - margin_of_error
 - margin-of-error

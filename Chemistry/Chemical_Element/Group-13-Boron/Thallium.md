@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
 atomic_number: 81
 canonical_SMILES: '[Tl]'
@@ -110,17 +110,17 @@ ZVG_number: 7810
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Thallium.md) 
+### #is_/same_as :: [Thallium](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium.md) 
 
-### #is_/same_as :: [Thallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Thallium.public.md) 
+### #is_/same_as :: [Thallium.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public.md) 
 
-### #is_/same_as :: [Thallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Thallium.internal.md) 
+### #is_/same_as :: [Thallium.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal.md) 
 
-### #is_/same_as :: [Thallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Thallium.protect.md) 
+### #is_/same_as :: [Thallium.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect.md) 
 
-### #is_/same_as :: [Thallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Thallium.private.md) 
+### #is_/same_as :: [Thallium.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private.md) 
 
-### #is_/same_as :: [Thallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Thallium.personal.md) 
+### #is_/same_as :: [Thallium.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal.md) 
 
-### #is_/same_as :: [Thallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Thallium.secret.md)
+### #is_/same_as :: [Thallium.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret.md)
 

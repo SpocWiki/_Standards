@@ -19,3 +19,20 @@ has_id_wikidata: Q134192
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Butane) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Butane](/_Standards/Chemistry/organic/Alkane/Butane.md) 
+
+### #is_/same_as :: [Butane.public](/_public/Chemistry/organic/Alkane/Butane.public.md) 
+
+### #is_/same_as :: [Butane.internal](/_internal/Chemistry/organic/Alkane/Butane.internal.md) 
+
+### #is_/same_as :: [Butane.protect](/_protect/Chemistry/organic/Alkane/Butane.protect.md) 
+
+### #is_/same_as :: [Butane.private](/_private/Chemistry/organic/Alkane/Butane.private.md) 
+
+### #is_/same_as :: [Butane.personal](/_personal/Chemistry/organic/Alkane/Butane.personal.md) 
+
+### #is_/same_as :: [Butane.secret](/_secret/Chemistry/organic/Alkane/Butane.secret.md)
+

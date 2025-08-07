@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Land%20ocean%20ice%20cloud%201024.jpg"
 Baidu_Tieba_name: 地理
 Basisklassifikation: 74

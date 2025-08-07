@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "20000 Leagues Under the Sea"
 - "20,000 Leagues Under the Sea"
@@ -34,4 +34,21 @@ aliases:
 > which he saw at the Exposition Universelle in 1867.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Twenty%20Thousand%20Leagues%20Under%20the%20Seas) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.md) 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.public.md) 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.internal.md) 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.protect.md) 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.private.md) 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.personal.md) 
+
+### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - customer_remorse_return_shipping_fees_amount
 - customer-remorse-return-shipping-fees-amount

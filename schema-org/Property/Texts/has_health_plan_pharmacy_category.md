@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-pharmacy-category
 - health_plan_pharmacy_category

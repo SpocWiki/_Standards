@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - opening-hours-specification
 - opening_hours_specification

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Music genre"
 Commons_category: "Musical genres"

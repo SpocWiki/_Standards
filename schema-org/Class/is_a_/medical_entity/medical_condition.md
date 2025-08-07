@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-condition
 - medical_condition

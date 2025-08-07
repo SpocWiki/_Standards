@@ -1,4 +1,4 @@
-﻿---
+---
 title: Acariformes
 ---
 
@@ -136,7 +136,7 @@ Venter of acariform mite (Sarcoptiformes: Oribatida, Lohmanniidae:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Acariformes](Acariformes.md)) 
+### #is_/same_as :: [Acariformes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.md) 
 
 ### #is_/same_as :: [Acariformes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-pickup-available
 - order_pickup_available

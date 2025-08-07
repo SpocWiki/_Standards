@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - music-by
 - music_by

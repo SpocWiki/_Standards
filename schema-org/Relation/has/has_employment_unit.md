@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - employment-unit
 - employment_unit

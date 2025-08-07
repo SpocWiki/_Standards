@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spermophilopsis leptodactylus"
 ---
 
@@ -114,7 +114,7 @@ and Reeder 2005).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spermophilopsis](Spermophilopsis.md)) 
+### #is_/same_as :: [Spermophilopsis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Xerini/Spermophilopsis.md) 
 
 ### #is_/same_as :: [Spermophilopsis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae/Xerini/Spermophilopsis.public.md) 
 

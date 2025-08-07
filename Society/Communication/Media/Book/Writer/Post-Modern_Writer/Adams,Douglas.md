@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Douglas Noël Adams"
 - "Douglas Adams"
@@ -126,4 +126,21 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > Adams called himself a "radical atheist" and was an advocate for environmentalism and conservation. He was a lover of fast cars, technological innovation, and the Apple Macintosh.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20Adams) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Adams,Douglas](/_Standards/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.md) 
+
+### #is_/same_as :: [Adams,Douglas.public](/_public/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.public.md) 
+
+### #is_/same_as :: [Adams,Douglas.internal](/_internal/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.internal.md) 
+
+### #is_/same_as :: [Adams,Douglas.protect](/_protect/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.protect.md) 
+
+### #is_/same_as :: [Adams,Douglas.private](/_private/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.private.md) 
+
+### #is_/same_as :: [Adams,Douglas.personal](/_personal/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.personal.md) 
+
+### #is_/same_as :: [Adams,Douglas.secret](/_secret/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.secret.md)
 

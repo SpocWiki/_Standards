@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - application-suite
 - application_suite

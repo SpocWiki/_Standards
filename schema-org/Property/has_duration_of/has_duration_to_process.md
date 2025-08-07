@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - processing-time
 - processing_time

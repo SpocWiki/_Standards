@@ -1,4 +1,4 @@
-﻿---
+---
 Baidu_Tieba_name: 机器人
 Commons_category: Robots
 Commons_gallery: Robot
@@ -53,17 +53,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Robot](Robot.md)) 
+### #is_/same_as :: [Robot](/_Standards/Technology/IT/Robotics/Robot.md) 
 
-### #is_/same_as :: [Robot.public](/_public/Technology/Robotics/Robot.public.md) 
+### #is_/same_as :: [Robot.public](/_public/Technology/IT/Robotics/Robot.public.md) 
 
-### #is_/same_as :: [Robot.internal](/_internal/Technology/Robotics/Robot.internal.md) 
+### #is_/same_as :: [Robot.internal](/_internal/Technology/IT/Robotics/Robot.internal.md) 
 
-### #is_/same_as :: [Robot.protect](/_protect/Technology/Robotics/Robot.protect.md) 
+### #is_/same_as :: [Robot.protect](/_protect/Technology/IT/Robotics/Robot.protect.md) 
 
-### #is_/same_as :: [Robot.private](/_private/Technology/Robotics/Robot.private.md) 
+### #is_/same_as :: [Robot.private](/_private/Technology/IT/Robotics/Robot.private.md) 
 
-### #is_/same_as :: [Robot.personal](/_personal/Technology/Robotics/Robot.personal.md) 
+### #is_/same_as :: [Robot.personal](/_personal/Technology/IT/Robotics/Robot.personal.md) 
 
-### #is_/same_as :: [Robot.secret](/_secret/Technology/Robotics/Robot.secret.md)
+### #is_/same_as :: [Robot.secret](/_secret/Technology/IT/Robotics/Robot.secret.md)
 

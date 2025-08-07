@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - procedure-type
 - procedure_type

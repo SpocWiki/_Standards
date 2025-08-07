@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - supply-to
 - supply_to

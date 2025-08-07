@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q843941
 ---
 
@@ -17,4 +17,21 @@ has_id_wikidata: Q843941
 > Until the 1950s, guns firing ballistic munitions ranging from 7.62 mm (.30 in) to 152.4 mm (6 in) were the standard weapons; guided missiles then became dominant, except at the very shortest ranges (as with close-in weapon systems, which typically use rotary autocannons or, in very modern systems, surface-to-air adaptations of short-range air-to-air missiles, often combined in one system with rotary cannons).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anti-aircraft%20warfare)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Air_defense](/_Standards/Society/Military/War/Air_defense.md) 
+
+### #is_/same_as :: [Air_defense.public](/_public/Society/Military/War/Air_defense.public.md) 
+
+### #is_/same_as :: [Air_defense.internal](/_internal/Society/Military/War/Air_defense.internal.md) 
+
+### #is_/same_as :: [Air_defense.protect](/_protect/Society/Military/War/Air_defense.protect.md) 
+
+### #is_/same_as :: [Air_defense.private](/_private/Society/Military/War/Air_defense.private.md) 
+
+### #is_/same_as :: [Air_defense.personal](/_personal/Society/Military/War/Air_defense.personal.md) 
+
+### #is_/same_as :: [Air_defense.secret](/_secret/Society/Military/War/Air_defense.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Batoteuthis skolops"
 ---
 
@@ -144,7 +144,7 @@ Ser. 2: 185-202.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Batoteuthidae](Batoteuthidae.md)) 
+### #is_/same_as :: [Batoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.md) 
 
 ### #is_/same_as :: [Batoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.public.md) 
 

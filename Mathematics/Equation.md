@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: B23
 Commons_category: Equations
 described_by_source:

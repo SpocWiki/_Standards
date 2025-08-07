@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - role-name
 - role_

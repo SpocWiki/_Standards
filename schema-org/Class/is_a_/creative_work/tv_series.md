@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tv-series
 - tv_series

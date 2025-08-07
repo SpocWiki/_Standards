@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Geologic eons"
 different_from:
 - '[[_Standards/WikiData/WD~aeon,398085]]'

@@ -14,3 +14,20 @@ has_id_wikidata: Q7100
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biophysics) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biophysics](/_Standards/bio/Biophysics.md) 
+
+### #is_/same_as :: [Biophysics.public](/_public/bio/Biophysics.public.md) 
+
+### #is_/same_as :: [Biophysics.internal](/_internal/bio/Biophysics.internal.md) 
+
+### #is_/same_as :: [Biophysics.protect](/_protect/bio/Biophysics.protect.md) 
+
+### #is_/same_as :: [Biophysics.private](/_private/bio/Biophysics.private.md) 
+
+### #is_/same_as :: [Biophysics.personal](/_personal/bio/Biophysics.personal.md) 
+
+### #is_/same_as :: [Biophysics.secret](/_secret/bio/Biophysics.secret.md)
+

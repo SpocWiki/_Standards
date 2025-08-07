@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - low-fat-diet
 - low_fat_diet

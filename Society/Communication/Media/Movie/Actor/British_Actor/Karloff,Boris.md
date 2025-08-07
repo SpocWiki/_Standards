@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Boris Karloff"
 - "Karloff the Uncanny"
@@ -37,5 +37,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Boris%20Karloff) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Karloff,Boris](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.md) 
+
+### #is_/same_as :: [Karloff,Boris.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.public.md) 
+
+### #is_/same_as :: [Karloff,Boris.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.internal.md) 
+
+### #is_/same_as :: [Karloff,Boris.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.protect.md) 
+
+### #is_/same_as :: [Karloff,Boris.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.private.md) 
+
+### #is_/same_as :: [Karloff,Boris.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.personal.md) 
+
+### #is_/same_as :: [Karloff,Boris.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.secret.md)
 

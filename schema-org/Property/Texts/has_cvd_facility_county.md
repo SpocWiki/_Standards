@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cvd-facility-county
 - cvd_facility_county

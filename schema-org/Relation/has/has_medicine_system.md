@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medicine-system
 - medicine_system

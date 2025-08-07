@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amastigomonas terricola"
 ---
 
@@ -76,7 +76,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[terricola](terricola.md)) 
+### #is_/same_as :: [terricola](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.md) 
 
 ### #is_/same_as :: [terricola.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/terricola.public.md) 
 

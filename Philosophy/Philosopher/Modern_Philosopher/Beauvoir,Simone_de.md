@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~agrégation,397610]]'
 aliases:
 - "Simone de Beauvoir"

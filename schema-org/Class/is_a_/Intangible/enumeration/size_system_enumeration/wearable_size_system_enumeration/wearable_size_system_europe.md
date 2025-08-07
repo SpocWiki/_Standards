@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-system-europe
 - wearable_size_system_europe

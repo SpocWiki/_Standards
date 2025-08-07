@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 63
 canonical_SMILES: '[Eu]'
 CAS_Registry_Number: 7440-53-1
@@ -87,17 +87,17 @@ ZVG_number: 7630
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Europium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Europium.md) 
+### #is_/same_as :: [Europium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Europium.md) 
 
-### #is_/same_as :: [Europium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Europium.public.md) 
+### #is_/same_as :: [Europium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Europium.public.md) 
 
-### #is_/same_as :: [Europium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Europium.internal.md) 
+### #is_/same_as :: [Europium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Europium.internal.md) 
 
-### #is_/same_as :: [Europium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Europium.protect.md) 
+### #is_/same_as :: [Europium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Europium.protect.md) 
 
-### #is_/same_as :: [Europium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Europium.private.md) 
+### #is_/same_as :: [Europium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Europium.private.md) 
 
-### #is_/same_as :: [Europium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Europium.personal.md) 
+### #is_/same_as :: [Europium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Europium.personal.md) 
 
-### #is_/same_as :: [Europium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Europium.secret.md)
+### #is_/same_as :: [Europium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Europium.secret.md)
 

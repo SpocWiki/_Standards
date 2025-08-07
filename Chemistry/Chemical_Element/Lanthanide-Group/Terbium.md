@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 65
 canonical_SMILES: '[Tb]'
 CAS_Registry_Number: 7440-27-9
@@ -97,17 +97,17 @@ UNII: 06SSF7P179
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Terbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Terbium.md) 
+### #is_/same_as :: [Terbium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.md) 
 
-### #is_/same_as :: [Terbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Terbium.public.md) 
+### #is_/same_as :: [Terbium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.public.md) 
 
-### #is_/same_as :: [Terbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Terbium.internal.md) 
+### #is_/same_as :: [Terbium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.internal.md) 
 
-### #is_/same_as :: [Terbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Terbium.protect.md) 
+### #is_/same_as :: [Terbium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.protect.md) 
 
-### #is_/same_as :: [Terbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Terbium.private.md) 
+### #is_/same_as :: [Terbium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.private.md) 
 
-### #is_/same_as :: [Terbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Terbium.personal.md) 
+### #is_/same_as :: [Terbium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.personal.md) 
 
-### #is_/same_as :: [Terbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Terbium.secret.md)
+### #is_/same_as :: [Terbium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Terbium.secret.md)
 

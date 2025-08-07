@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - soundtrack-album
 - soundtrack_album

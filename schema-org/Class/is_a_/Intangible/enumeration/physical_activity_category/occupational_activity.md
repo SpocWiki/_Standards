@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - occupational-activity
 - occupational_activity

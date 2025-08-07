@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nippon Animation"
 ---
@@ -20,4 +20,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Nippon%20Animation)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nippon_Animation](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.md) 
+
+### #is_/same_as :: [Nippon_Animation.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.public.md) 
+
+### #is_/same_as :: [Nippon_Animation.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.internal.md) 
+
+### #is_/same_as :: [Nippon_Animation.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.protect.md) 
+
+### #is_/same_as :: [Nippon_Animation.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.private.md) 
+
+### #is_/same_as :: [Nippon_Animation.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.personal.md) 
+
+### #is_/same_as :: [Nippon_Animation.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nippon_Animation.secret.md)
 

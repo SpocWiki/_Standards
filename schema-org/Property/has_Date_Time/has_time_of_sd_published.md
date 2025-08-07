@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sd-date-published
 - sd_date_published

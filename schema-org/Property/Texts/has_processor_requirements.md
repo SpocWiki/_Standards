@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - processor-requirements
 - processor_requirements

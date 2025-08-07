@@ -51,3 +51,20 @@ Krugosvet_article: nauka_i_tehnika/fizika/ATOMNOGO_YADRA_STROENIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atomic%20nucleus) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atomic_nucleus](/_Standards/Science/Physics/Atom/Atomic_nucleus.md) 
+
+### #is_/same_as :: [Atomic_nucleus.public](/_public/Science/Physics/Atom/Atomic_nucleus.public.md) 
+
+### #is_/same_as :: [Atomic_nucleus.internal](/_internal/Science/Physics/Atom/Atomic_nucleus.internal.md) 
+
+### #is_/same_as :: [Atomic_nucleus.protect](/_protect/Science/Physics/Atom/Atomic_nucleus.protect.md) 
+
+### #is_/same_as :: [Atomic_nucleus.private](/_private/Science/Physics/Atom/Atomic_nucleus.private.md) 
+
+### #is_/same_as :: [Atomic_nucleus.personal](/_personal/Science/Physics/Atom/Atomic_nucleus.personal.md) 
+
+### #is_/same_as :: [Atomic_nucleus.secret](/_secret/Science/Physics/Atom/Atomic_nucleus.secret.md)
+

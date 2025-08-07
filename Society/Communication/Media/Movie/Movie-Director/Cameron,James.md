@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Cameron"
 - "James Francis Cameron"

@@ -43,4 +43,19 @@ UNSPSC_Code: 12352002
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkene) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alkene](/_Standards/Chemistry/organic/Alkene.md) 
+
+### #is_/same_as :: [Alkene.public](/_public/Chemistry/organic/Alkene.public.md) 
+
+### #is_/same_as :: [Alkene.internal](/_internal/Chemistry/organic/Alkene.internal.md) 
+
+### #is_/same_as :: [Alkene.protect](/_protect/Chemistry/organic/Alkene.protect.md) 
+
+### #is_/same_as :: [Alkene.private](/_private/Chemistry/organic/Alkene.private.md) 
+
+### #is_/same_as :: [Alkene.personal](/_personal/Chemistry/organic/Alkene.personal.md) 
+
+### #is_/same_as :: [Alkene.secret](/_secret/Chemistry/organic/Alkene.secret.md)
 

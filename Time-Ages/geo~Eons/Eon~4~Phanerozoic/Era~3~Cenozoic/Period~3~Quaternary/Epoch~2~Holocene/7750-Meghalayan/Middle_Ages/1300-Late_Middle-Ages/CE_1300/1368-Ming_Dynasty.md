@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ming Dynasty"
 has_id_wikidata: Q9903

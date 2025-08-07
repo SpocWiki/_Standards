@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - course-code
 - code_of_course

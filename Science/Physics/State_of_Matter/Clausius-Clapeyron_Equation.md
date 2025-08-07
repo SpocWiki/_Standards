@@ -28,3 +28,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clausius%E2%80%93Clapeyron%20relation) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation](/_Standards/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.md) 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation.public](/_public/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.public.md) 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation.internal](/_internal/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.internal.md) 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation.protect](/_protect/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.protect.md) 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation.private](/_private/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.private.md) 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation.personal](/_personal/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.personal.md) 
+
+### #is_/same_as :: [Clausius-Clapeyron_Equation.secret](/_secret/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.secret.md)
+

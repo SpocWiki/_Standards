@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tourist-information-center
 - tourist_information_center

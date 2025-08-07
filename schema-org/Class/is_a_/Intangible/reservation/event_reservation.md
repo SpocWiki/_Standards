@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-reservation
 - event_reservation

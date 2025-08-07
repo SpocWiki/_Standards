@@ -17,3 +17,21 @@
 #has_/feature_/song :: [[Shape_of_My_Heart(Sting_song)]] 
 #has_/feature_/song :: [[../../music/Song/Venus_as_a_Boy]] 
 #is_/using :: [[Shape_of_My_Heart(Sting_song)]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Léon-The_Professional](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.md) 
+
+### #is_/same_as :: [Léon-The_Professional.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.public.md) 
+
+### #is_/same_as :: [Léon-The_Professional.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.internal.md) 
+
+### #is_/same_as :: [Léon-The_Professional.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.protect.md) 
+
+### #is_/same_as :: [Léon-The_Professional.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.private.md) 
+
+### #is_/same_as :: [Léon-The_Professional.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.personal.md) 
+
+### #is_/same_as :: [Léon-The_Professional.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Léon-The_Professional.secret.md)
+

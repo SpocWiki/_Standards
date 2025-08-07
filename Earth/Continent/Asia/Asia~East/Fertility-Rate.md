@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Total Fertility Rate"
 ---

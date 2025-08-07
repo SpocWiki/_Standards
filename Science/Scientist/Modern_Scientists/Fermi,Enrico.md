@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 academic_thesis: '[[_Standards/WikiData/WD~Un_teorema_di_calcolo_delle_probabilità_ed_alcune_sue_applicazioni,106468787]]'
 aliases:

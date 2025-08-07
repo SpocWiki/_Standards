@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fuji TV"
 ---
@@ -41,4 +41,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fuji%20Television)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fuji_TV](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.md) 
+
+### #is_/same_as :: [Fuji_TV.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.public.md) 
+
+### #is_/same_as :: [Fuji_TV.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.internal.md) 
+
+### #is_/same_as :: [Fuji_TV.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.protect.md) 
+
+### #is_/same_as :: [Fuji_TV.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.private.md) 
+
+### #is_/same_as :: [Fuji_TV.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.personal.md) 
+
+### #is_/same_as :: [Fuji_TV.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.secret.md)
 

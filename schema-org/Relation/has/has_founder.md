@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - founder
 - has_founder

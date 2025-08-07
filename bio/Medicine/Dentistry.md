@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 3501
 Basisklassifikation: 44.96
 Commons_category: Dentistry

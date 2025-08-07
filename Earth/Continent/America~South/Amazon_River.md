@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Amazon River"
 basin_country:

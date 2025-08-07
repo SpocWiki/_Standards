@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - strength-training
 - strength_training

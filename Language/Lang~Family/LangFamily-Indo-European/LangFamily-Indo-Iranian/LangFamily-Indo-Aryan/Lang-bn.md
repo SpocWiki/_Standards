@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Bengali
 - "Bengali language"

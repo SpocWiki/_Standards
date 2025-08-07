@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - main-content-of-page
 - main_content_of_page

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - outlet-store
 - outlet_store

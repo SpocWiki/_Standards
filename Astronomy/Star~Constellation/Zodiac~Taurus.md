@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -18,10 +18,18 @@ ZodiacPos: 2
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Taurus|Zodiac~Taurus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Taurus.public|Zodiac~Taurus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Taurus.internal|Zodiac~Taurus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Taurus.protect|Zodiac~Taurus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Taurus.private|Zodiac~Taurus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Taurus.personal|Zodiac~Taurus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Taurus.secret|Zodiac~Taurus.secret]] 
+
+### #is_/same_as :: [Zodiac~Taurus](/_Standards/Astronomy/Star~Constellation/Zodiac~Taurus.md) 
+
+### #is_/same_as :: [Zodiac~Taurus.public](/_public/Astronomy/Star~Constellation/Zodiac~Taurus.public.md) 
+
+### #is_/same_as :: [Zodiac~Taurus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Taurus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Taurus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Taurus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Taurus.private](/_private/Astronomy/Star~Constellation/Zodiac~Taurus.private.md) 
+
+### #is_/same_as :: [Zodiac~Taurus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Taurus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Taurus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Taurus.secret.md)
+

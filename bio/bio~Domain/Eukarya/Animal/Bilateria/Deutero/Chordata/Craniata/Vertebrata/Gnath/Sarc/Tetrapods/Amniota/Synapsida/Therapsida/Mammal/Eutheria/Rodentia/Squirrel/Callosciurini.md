@@ -1,4 +1,4 @@
-﻿---
+---
 title: Callosciurini
 ---
 
@@ -85,7 +85,7 @@ title: Callosciurini
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Callosciurini](Callosciurini.md)) 
+### #is_/same_as :: [Callosciurini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Callosciurini.md) 
 
 ### #is_/same_as :: [Callosciurini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Callosciurini.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pregnancy-warning
 - pregnancy_warning

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - evidence-origin
 - evidence_origin

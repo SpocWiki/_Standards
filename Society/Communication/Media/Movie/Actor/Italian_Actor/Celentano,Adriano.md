@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Adriano Celentano"
 award_received:
@@ -110,4 +110,21 @@ X_Twitter_username: clancelentano
 > As an actor, Celentano has appeared in 39 films, mostly comedies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Adriano%20Celentano) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Celentano,Adriano](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.md) 
+
+### #is_/same_as :: [Celentano,Adriano.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.public.md) 
+
+### #is_/same_as :: [Celentano,Adriano.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.internal.md) 
+
+### #is_/same_as :: [Celentano,Adriano.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.protect.md) 
+
+### #is_/same_as :: [Celentano,Adriano.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.private.md) 
+
+### #is_/same_as :: [Celentano,Adriano.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.personal.md) 
+
+### #is_/same_as :: [Celentano,Adriano.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Celentano,Adriano.secret.md)
 

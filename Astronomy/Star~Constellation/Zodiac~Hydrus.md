@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Hydrus|Zodiac~Hydrus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Hydrus.public|Zodiac~Hydrus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Hydrus.internal|Zodiac~Hydrus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Hydrus.protect|Zodiac~Hydrus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Hydrus.private|Zodiac~Hydrus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Hydrus.personal|Zodiac~Hydrus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Hydrus.secret|Zodiac~Hydrus.secret]] 
+
+### #is_/same_as :: [Zodiac~Hydrus](/_Standards/Astronomy/Star~Constellation/Zodiac~Hydrus.md) 
+
+### #is_/same_as :: [Zodiac~Hydrus.public](/_public/Astronomy/Star~Constellation/Zodiac~Hydrus.public.md) 
+
+### #is_/same_as :: [Zodiac~Hydrus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Hydrus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Hydrus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Hydrus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Hydrus.private](/_private/Astronomy/Star~Constellation/Zodiac~Hydrus.private.md) 
+
+### #is_/same_as :: [Zodiac~Hydrus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Hydrus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Hydrus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Hydrus.secret.md)
+

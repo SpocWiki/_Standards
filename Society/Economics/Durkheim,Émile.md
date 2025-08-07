@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: 3ef73876-984c-43c0-b248-cb1bc24504bd
 birth_name: "David Émile Durkheim"
 cause_of_death: '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Die Welt"
 ---
@@ -32,4 +32,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Die%20Welt) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Die_Welt](/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.md) 
+
+### #is_/same_as :: [Die_Welt.public](/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.public.md) 
+
+### #is_/same_as :: [Die_Welt.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.internal.md) 
+
+### #is_/same_as :: [Die_Welt.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.protect.md) 
+
+### #is_/same_as :: [Die_Welt.private](/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.private.md) 
+
+### #is_/same_as :: [Die_Welt.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.personal.md) 
+
+### #is_/same_as :: [Die_Welt.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.secret.md)
 

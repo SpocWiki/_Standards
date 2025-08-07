@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-located-in-subcellular-location
 - located_in_subcellular_location

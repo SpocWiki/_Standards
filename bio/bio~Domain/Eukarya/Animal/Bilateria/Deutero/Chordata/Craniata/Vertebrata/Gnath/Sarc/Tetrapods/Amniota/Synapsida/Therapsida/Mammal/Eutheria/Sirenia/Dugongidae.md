@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dugongidae
 ---
 
@@ -97,7 +97,7 @@ View              lateral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dugongidae](Dugongidae.md)) 
+### #is_/same_as :: [Dugongidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Sirenia/Dugongidae.md) 
 
 ### #is_/same_as :: [Dugongidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Sirenia/Dugongidae.public.md) 
 

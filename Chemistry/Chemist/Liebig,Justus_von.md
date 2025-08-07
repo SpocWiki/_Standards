@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Justus Freiherr von Liebig"
 ---
@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liebig,Justus_von](/_Standards/chemic/Chemist/Liebig,Justus_von.md) 
+### #is_/same_as :: [Liebig,Justus_von](/_Standards/Chemistry/Chemist/Liebig,Justus_von.md) 
 
-### #is_/same_as :: [Liebig,Justus_von.public](/_public/chemic/Chemist/Liebig,Justus_von.public.md) 
+### #is_/same_as :: [Liebig,Justus_von.public](/_public/Chemistry/Chemist/Liebig,Justus_von.public.md) 
 
-### #is_/same_as :: [Liebig,Justus_von.internal](/_internal/chemic/Chemist/Liebig,Justus_von.internal.md) 
+### #is_/same_as :: [Liebig,Justus_von.internal](/_internal/Chemistry/Chemist/Liebig,Justus_von.internal.md) 
 
-### #is_/same_as :: [Liebig,Justus_von.protect](/_protect/chemic/Chemist/Liebig,Justus_von.protect.md) 
+### #is_/same_as :: [Liebig,Justus_von.protect](/_protect/Chemistry/Chemist/Liebig,Justus_von.protect.md) 
 
-### #is_/same_as :: [Liebig,Justus_von.private](/_private/chemic/Chemist/Liebig,Justus_von.private.md) 
+### #is_/same_as :: [Liebig,Justus_von.private](/_private/Chemistry/Chemist/Liebig,Justus_von.private.md) 
 
-### #is_/same_as :: [Liebig,Justus_von.personal](/_personal/chemic/Chemist/Liebig,Justus_von.personal.md) 
+### #is_/same_as :: [Liebig,Justus_von.personal](/_personal/Chemistry/Chemist/Liebig,Justus_von.personal.md) 
 
-### #is_/same_as :: [Liebig,Justus_von.secret](/_secret/chemic/Chemist/Liebig,Justus_von.secret.md)
+### #is_/same_as :: [Liebig,Justus_von.secret](/_secret/Chemistry/Chemist/Liebig,Justus_von.secret.md)
 

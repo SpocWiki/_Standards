@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Travolta"
 ---
@@ -37,6 +37,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Travolta)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Travolta,John](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.md) 
 
+### #is_/same_as :: [Travolta,John.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.public.md) 
+
+### #is_/same_as :: [Travolta,John.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.internal.md) 
+
+### #is_/same_as :: [Travolta,John.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.protect.md) 
+
+### #is_/same_as :: [Travolta,John.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.private.md) 
+
+### #is_/same_as :: [Travolta,John.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.personal.md) 
+
+### #is_/same_as :: [Travolta,John.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Travolta,John.secret.md)
 

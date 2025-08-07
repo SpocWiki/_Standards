@@ -123,3 +123,19 @@ described_at_URL: http://dbpedia.org/resource/B._F._Skinner
 > [Wikipedia](https://en.wikipedia.org/wiki/B.%20F.%20Skinner) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Skinner,B.F.](/_Standards/bio/Psychology/Psychologist/Skinner,B.F..md) 
+
+### #is_/same_as :: [Skinner,B.F..public](/_public/bio/Psychology/Psychologist/Skinner,B.F..public.md) 
+
+### #is_/same_as :: [Skinner,B.F..internal](/_internal/bio/Psychology/Psychologist/Skinner,B.F..internal.md) 
+
+### #is_/same_as :: [Skinner,B.F..protect](/_protect/bio/Psychology/Psychologist/Skinner,B.F..protect.md) 
+
+### #is_/same_as :: [Skinner,B.F..private](/_private/bio/Psychology/Psychologist/Skinner,B.F..private.md) 
+
+### #is_/same_as :: [Skinner,B.F..personal](/_personal/bio/Psychology/Psychologist/Skinner,B.F..personal.md) 
+
+### #is_/same_as :: [Skinner,B.F..secret](/_secret/bio/Psychology/Psychologist/Skinner,B.F..secret.md)
+

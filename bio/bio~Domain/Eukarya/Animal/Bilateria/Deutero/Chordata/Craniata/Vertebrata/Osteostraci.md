@@ -1,4 +1,4 @@
-﻿---
+---
 title: Osteostraci
 ---
 
@@ -245,7 +245,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Osteostraci](Osteostraci.md)) 
+### #is_/same_as :: [Osteostraci](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.md) 
 
 ### #is_/same_as :: [Osteostraci.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.public.md) 
 

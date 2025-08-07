@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Chaetognatha
 - chaetognath
@@ -109,7 +109,7 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Arrow_Worm](Arrow_Worm.md)) 
+### #is_/same_as :: [Arrow_Worm](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.md) 
 
 ### #is_/same_as :: [Arrow_Worm.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.public.md) 
 

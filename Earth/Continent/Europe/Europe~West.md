@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "West Europe"
 - "Western Europe"

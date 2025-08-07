@@ -1,4 +1,4 @@
-﻿---
+---
 keywords: "Tapire,Hauptseite,Anakondas,Argentinien,Art (Biologie),Backenzahn,Bergtapir,Brasilien,Bären,Diastema,Eckzahn"
 lang: de
 title: "Tapire - Wikipedia"
@@ -82,7 +82,7 @@ Stammesgeschichtlich sind die Tapire im Vergleich zu anderen Säugern eine durch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tapir](Tapir.md)) 
+### #is_/same_as :: [Tapir](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.md) 
 
 ### #is_/same_as :: [Tapir.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.public.md) 
 

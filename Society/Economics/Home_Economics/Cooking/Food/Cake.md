@@ -65,3 +65,20 @@ Wikidata_usage_instructions: Instances of this class are actual cakes.  Cake typ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cake) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cake](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Cake.md) 
+
+### #is_/same_as :: [Cake.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Cake.public.md) 
+
+### #is_/same_as :: [Cake.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Cake.internal.md) 
+
+### #is_/same_as :: [Cake.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Cake.protect.md) 
+
+### #is_/same_as :: [Cake.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Cake.private.md) 
+
+### #is_/same_as :: [Cake.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Cake.personal.md) 
+
+### #is_/same_as :: [Cake.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Cake.secret.md)
+

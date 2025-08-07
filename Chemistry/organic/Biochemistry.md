@@ -60,17 +60,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_biochemistry,7112566]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biochemistry](/_Standards/chemic/organic/Biochemistry.md) 
+### #is_/same_as :: [Biochemistry](/_Standards/Chemistry/organic/Biochemistry.md) 
 
-### #is_/same_as :: [Biochemistry.public](/_public/chemic/organic/Biochemistry.public.md) 
+### #is_/same_as :: [Biochemistry.public](/_public/Chemistry/organic/Biochemistry.public.md) 
 
-### #is_/same_as :: [Biochemistry.internal](/_internal/chemic/organic/Biochemistry.internal.md) 
+### #is_/same_as :: [Biochemistry.internal](/_internal/Chemistry/organic/Biochemistry.internal.md) 
 
-### #is_/same_as :: [Biochemistry.protect](/_protect/chemic/organic/Biochemistry.protect.md) 
+### #is_/same_as :: [Biochemistry.protect](/_protect/Chemistry/organic/Biochemistry.protect.md) 
 
-### #is_/same_as :: [Biochemistry.private](/_private/chemic/organic/Biochemistry.private.md) 
+### #is_/same_as :: [Biochemistry.private](/_private/Chemistry/organic/Biochemistry.private.md) 
 
-### #is_/same_as :: [Biochemistry.personal](/_personal/chemic/organic/Biochemistry.personal.md) 
+### #is_/same_as :: [Biochemistry.personal](/_personal/Chemistry/organic/Biochemistry.personal.md) 
 
-### #is_/same_as :: [Biochemistry.secret](/_secret/chemic/organic/Biochemistry.secret.md)
+### #is_/same_as :: [Biochemistry.secret](/_secret/Chemistry/organic/Biochemistry.secret.md)
 

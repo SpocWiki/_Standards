@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Xiphosura
 - Merostomata
@@ -89,7 +89,7 @@ and H. W. Shimer (eds.), A. G. Seiler & Co., New York, 1910.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Horseshoe_Crab](Horseshoe_Crab.md)) 
+### #is_/same_as :: [Horseshoe_Crab](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.md) 
 
 ### #is_/same_as :: [Horseshoe_Crab.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab.public.md) 
 

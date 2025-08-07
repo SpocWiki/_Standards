@@ -35,5 +35,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20League%20of%20Extraordinary%20Gentlemen%20(film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).md) 
+
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).public.md) 
+
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).internal.md) 
+
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).protect.md) 
+
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).private.md) 
+
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).personal.md) 
+
+### #is_/same_as :: [League_of_Extraordinary_Gentlemen(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/League_of_Extraordinary_Gentlemen(film).secret.md)
 

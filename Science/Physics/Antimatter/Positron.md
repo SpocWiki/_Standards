@@ -49,3 +49,20 @@ time_of_discovery_or_invention: 1932-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Positron) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Positron](/_Standards/Science/Physics/Antimatter/Positron.md) 
+
+### #is_/same_as :: [Positron.public](/_public/Science/Physics/Antimatter/Positron.public.md) 
+
+### #is_/same_as :: [Positron.internal](/_internal/Science/Physics/Antimatter/Positron.internal.md) 
+
+### #is_/same_as :: [Positron.protect](/_protect/Science/Physics/Antimatter/Positron.protect.md) 
+
+### #is_/same_as :: [Positron.private](/_private/Science/Physics/Antimatter/Positron.private.md) 
+
+### #is_/same_as :: [Positron.personal](/_personal/Science/Physics/Antimatter/Positron.personal.md) 
+
+### #is_/same_as :: [Positron.secret](/_secret/Science/Physics/Antimatter/Positron.secret.md)
+

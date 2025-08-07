@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Cleese"
 - "John Marwood Cleese"
@@ -143,4 +143,21 @@ That gives him a certain fascinating, arrogant freedom."
 > In 2023, he began presenting a talk show on GB News.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Cleese)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cleese,John](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.md) 
+
+### #is_/same_as :: [Cleese,John.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.public.md) 
+
+### #is_/same_as :: [Cleese,John.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.internal.md) 
+
+### #is_/same_as :: [Cleese,John.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.protect.md) 
+
+### #is_/same_as :: [Cleese,John.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.private.md) 
+
+### #is_/same_as :: [Cleese,John.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.personal.md) 
+
+### #is_/same_as :: [Cleese,John.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recommendation-strength
 - recommendation_strength

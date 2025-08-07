@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - web-feed
 - web_feed

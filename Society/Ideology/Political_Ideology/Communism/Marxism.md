@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Marxism
 described_by_source:
 - '[[_Standards/WikiData/WD~Historisch-kritisches_Wörterbuch_des_Marxismus,1308032]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - page-end
 - page_end

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mali Empire"
 basic_form_of_government: '[[_Standards/WikiData/WD~empire,48349]]'

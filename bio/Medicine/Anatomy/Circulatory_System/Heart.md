@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1072
 ---
 
@@ -17,17 +17,17 @@ has_id_wikidata: Q1072
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Heart](Heart.md)) 
+### #is_/same_as :: [Heart](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart.md) 
 
-### #is_/same_as :: [Heart.public](/_public/bio/Medicine/Anatomy/Heart.public.md) 
+### #is_/same_as :: [Heart.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart.public.md) 
 
-### #is_/same_as :: [Heart.internal](/_internal/bio/Medicine/Anatomy/Heart.internal.md) 
+### #is_/same_as :: [Heart.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart.internal.md) 
 
-### #is_/same_as :: [Heart.protect](/_protect/bio/Medicine/Anatomy/Heart.protect.md) 
+### #is_/same_as :: [Heart.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart.protect.md) 
 
-### #is_/same_as :: [Heart.private](/_private/bio/Medicine/Anatomy/Heart.private.md) 
+### #is_/same_as :: [Heart.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart.private.md) 
 
-### #is_/same_as :: [Heart.personal](/_personal/bio/Medicine/Anatomy/Heart.personal.md) 
+### #is_/same_as :: [Heart.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart.personal.md) 
 
-### #is_/same_as :: [Heart.secret](/_secret/bio/Medicine/Anatomy/Heart.secret.md)
+### #is_/same_as :: [Heart.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart.secret.md)
 

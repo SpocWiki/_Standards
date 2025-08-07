@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - math-solver
 - math_solver

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-observational-study
 - medical_observational_study

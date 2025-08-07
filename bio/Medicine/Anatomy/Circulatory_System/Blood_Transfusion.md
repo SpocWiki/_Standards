@@ -57,3 +57,20 @@ MeSH_tree_code: E02.095.135
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blood%20transfusion) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blood_Transfusion](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.md) 
+
+### #is_/same_as :: [Blood_Transfusion.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.public.md) 
+
+### #is_/same_as :: [Blood_Transfusion.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.internal.md) 
+
+### #is_/same_as :: [Blood_Transfusion.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.protect.md) 
+
+### #is_/same_as :: [Blood_Transfusion.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.private.md) 
+
+### #is_/same_as :: [Blood_Transfusion.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.personal.md) 
+
+### #is_/same_as :: [Blood_Transfusion.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood_Transfusion.secret.md)
+

@@ -35,3 +35,20 @@ Baidu_Tieba_name: 早餐
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Breakfast) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Breakfast](/_Standards/Society/Economics/Home_Economics/Breakfast.md) 
+
+### #is_/same_as :: [Breakfast.public](/_public/Society/Economics/Home_Economics/Breakfast.public.md) 
+
+### #is_/same_as :: [Breakfast.internal](/_internal/Society/Economics/Home_Economics/Breakfast.internal.md) 
+
+### #is_/same_as :: [Breakfast.protect](/_protect/Society/Economics/Home_Economics/Breakfast.protect.md) 
+
+### #is_/same_as :: [Breakfast.private](/_private/Society/Economics/Home_Economics/Breakfast.private.md) 
+
+### #is_/same_as :: [Breakfast.personal](/_personal/Society/Economics/Home_Economics/Breakfast.personal.md) 
+
+### #is_/same_as :: [Breakfast.secret](/_secret/Society/Economics/Home_Economics/Breakfast.secret.md)
+

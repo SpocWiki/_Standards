@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - domiciled-mortgage
 - mortgage_domiciled

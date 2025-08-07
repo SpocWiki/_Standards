@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - refund-type-enumeration
 - refund_type_enumeration

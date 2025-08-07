@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cancel-action
 - cancel_action

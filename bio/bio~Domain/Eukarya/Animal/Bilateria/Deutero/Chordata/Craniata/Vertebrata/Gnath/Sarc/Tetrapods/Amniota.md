@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amniota
 ---
 
@@ -560,7 +560,7 @@ the Transition to Land (1): 291-326. London: Academic Press.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amniota](Amniota.md)) 
+### #is_/same_as :: [Amniota](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.md) 
 
 ### #is_/same_as :: [Amniota.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.public.md) 
 

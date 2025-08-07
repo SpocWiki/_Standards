@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - screen_count
 - screen-count

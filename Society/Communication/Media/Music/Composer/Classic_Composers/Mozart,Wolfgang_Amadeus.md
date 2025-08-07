@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Wolfgang Amadeus Mozart"
 award_received: '[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]'

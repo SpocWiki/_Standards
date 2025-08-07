@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - travel-agency
 - travel_agency

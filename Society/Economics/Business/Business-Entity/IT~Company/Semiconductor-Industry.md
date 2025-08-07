@@ -565,3 +565,21 @@ History has shown that Europe’s governments and the European Union were more t
 But previous rounds of government money, R&D coordination, and forced company consolidations have yet to reverse the 
 
 situation. Will the EU CHIPS Act change course or just be more of the same?
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Semiconductor-Industry](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.md) 
+
+### #is_/same_as :: [Semiconductor-Industry.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.public.md) 
+
+### #is_/same_as :: [Semiconductor-Industry.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.internal.md) 
+
+### #is_/same_as :: [Semiconductor-Industry.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.protect.md) 
+
+### #is_/same_as :: [Semiconductor-Industry.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.private.md) 
+
+### #is_/same_as :: [Semiconductor-Industry.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.personal.md) 
+
+### #is_/same_as :: [Semiconductor-Industry.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry.secret.md)
+

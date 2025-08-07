@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - discover-action
 - discover_action

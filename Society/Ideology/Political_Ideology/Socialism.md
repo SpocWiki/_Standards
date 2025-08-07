@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.14
 Colon_Classification: XN
 Commons_category: Socialism

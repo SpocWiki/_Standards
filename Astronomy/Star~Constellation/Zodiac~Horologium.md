@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Horologium|Zodiac~Horologium]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Horologium.public|Zodiac~Horologium.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Horologium.internal|Zodiac~Horologium.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Horologium.protect|Zodiac~Horologium.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Horologium.private|Zodiac~Horologium.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Horologium.personal|Zodiac~Horologium.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Horologium.secret|Zodiac~Horologium.secret]] 
+
+### #is_/same_as :: [Zodiac~Horologium](/_Standards/Astronomy/Star~Constellation/Zodiac~Horologium.md) 
+
+### #is_/same_as :: [Zodiac~Horologium.public](/_public/Astronomy/Star~Constellation/Zodiac~Horologium.public.md) 
+
+### #is_/same_as :: [Zodiac~Horologium.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Horologium.internal.md) 
+
+### #is_/same_as :: [Zodiac~Horologium.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Horologium.protect.md) 
+
+### #is_/same_as :: [Zodiac~Horologium.private](/_private/Astronomy/Star~Constellation/Zodiac~Horologium.private.md) 
+
+### #is_/same_as :: [Zodiac~Horologium.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Horologium.personal.md) 
+
+### #is_/same_as :: [Zodiac~Horologium.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Horologium.secret.md)
+

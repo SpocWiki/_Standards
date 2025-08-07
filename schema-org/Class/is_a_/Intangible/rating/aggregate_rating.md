@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - aggregate-rating
 - aggregate_rating

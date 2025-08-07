@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The Devil Wears Prada (film)"
 ---
@@ -19,4 +19,20 @@ aliases:
 #is_/similar_to :: [[101_Dalmatians(1996)]] 
 #is_/similar_to :: [[Cruella(film)]]
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Devil_wears_Prada(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).md) 
+
+### #is_/same_as :: [Devil_wears_Prada(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).public.md) 
+
+### #is_/same_as :: [Devil_wears_Prada(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).internal.md) 
+
+### #is_/same_as :: [Devil_wears_Prada(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).protect.md) 
+
+### #is_/same_as :: [Devil_wears_Prada(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).private.md) 
+
+### #is_/same_as :: [Devil_wears_Prada(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).personal.md) 
+
+### #is_/same_as :: [Devil_wears_Prada(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Devil_wears_Prada(film).secret.md)
 

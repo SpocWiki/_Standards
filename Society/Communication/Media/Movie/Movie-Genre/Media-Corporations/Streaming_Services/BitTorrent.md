@@ -25,3 +25,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/BitTorrent)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BitTorrent](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.md) 
+
+### #is_/same_as :: [BitTorrent.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.public.md) 
+
+### #is_/same_as :: [BitTorrent.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.internal.md) 
+
+### #is_/same_as :: [BitTorrent.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.protect.md) 
+
+### #is_/same_as :: [BitTorrent.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.private.md) 
+
+### #is_/same_as :: [BitTorrent.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.personal.md) 
+
+### #is_/same_as :: [BitTorrent.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/BitTorrent.secret.md)
+

@@ -128,8 +128,19 @@ motto_text: Wir sind deins.
 > [Wikipedia](https://en.wikipedia.org/wiki/ARD%20(broadcaster)) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ARD(broadcaster)](/_Standards/Society/Communication/Media/Television/ARD(broadcaster).md) 
 
+### #is_/same_as :: [ARD(broadcaster).public](/_public/Society/Communication/Media/Television/ARD(broadcaster).public.md) 
 
+### #is_/same_as :: [ARD(broadcaster).internal](/_internal/Society/Communication/Media/Television/ARD(broadcaster).internal.md) 
 
+### #is_/same_as :: [ARD(broadcaster).protect](/_protect/Society/Communication/Media/Television/ARD(broadcaster).protect.md) 
+
+### #is_/same_as :: [ARD(broadcaster).private](/_private/Society/Communication/Media/Television/ARD(broadcaster).private.md) 
+
+### #is_/same_as :: [ARD(broadcaster).personal](/_personal/Society/Communication/Media/Television/ARD(broadcaster).personal.md) 
+
+### #is_/same_as :: [ARD(broadcaster).secret](/_secret/Society/Communication/Media/Television/ARD(broadcaster).secret.md)
 

@@ -81,17 +81,17 @@ composed of molecular entities of the same type or of different types' (source: 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [chemical_substance](/_Standards/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.md) 
+### #is_/same_as :: [Chemical_Substance](/_Standards/Chemistry/Chemical_Substance.md) 
 
-### #is_/same_as :: [chemical_substance.public](/_public/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.public.md) 
+### #is_/same_as :: [Chemical_Substance.public](/_public/Chemistry/Chemical_Substance.public.md) 
 
-### #is_/same_as :: [chemical_substance.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.internal.md) 
+### #is_/same_as :: [Chemical_Substance.internal](/_internal/Chemistry/Chemical_Substance.internal.md) 
 
-### #is_/same_as :: [chemical_substance.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.protect.md) 
+### #is_/same_as :: [Chemical_Substance.protect](/_protect/Chemistry/Chemical_Substance.protect.md) 
 
-### #is_/same_as :: [chemical_substance.private](/_private/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.private.md) 
+### #is_/same_as :: [Chemical_Substance.private](/_private/Chemistry/Chemical_Substance.private.md) 
 
-### #is_/same_as :: [chemical_substance.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.personal.md) 
+### #is_/same_as :: [Chemical_Substance.personal](/_personal/Chemistry/Chemical_Substance.personal.md) 
 
-### #is_/same_as :: [chemical_substance.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.secret.md)
+### #is_/same_as :: [Chemical_Substance.secret](/_secret/Chemistry/Chemical_Substance.secret.md)
 

@@ -78,3 +78,20 @@ P8189: "987007284759505171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Big%20Bang) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Big_Bang_Theory](/_Standards/Astronomy/Big_Bang_Theory.md) 
+
+### #is_/same_as :: [Big_Bang_Theory.public](/_public/Astronomy/Big_Bang_Theory.public.md) 
+
+### #is_/same_as :: [Big_Bang_Theory.internal](/_internal/Astronomy/Big_Bang_Theory.internal.md) 
+
+### #is_/same_as :: [Big_Bang_Theory.protect](/_protect/Astronomy/Big_Bang_Theory.protect.md) 
+
+### #is_/same_as :: [Big_Bang_Theory.private](/_private/Astronomy/Big_Bang_Theory.private.md) 
+
+### #is_/same_as :: [Big_Bang_Theory.personal](/_personal/Astronomy/Big_Bang_Theory.personal.md) 
+
+### #is_/same_as :: [Big_Bang_Theory.secret](/_secret/Astronomy/Big_Bang_Theory.secret.md)
+

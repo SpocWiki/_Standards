@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard:
 - '[[_Standards/WikiData/WD~chromium_toxicity,5113833]]'
 - '[[_Standards/WikiData/WD~chromium_exposure,21173579]]'
@@ -167,17 +167,17 @@ ZVG_number: 8190
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chromium](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Chromium.md) 
+### #is_/same_as :: [Chromium](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.md) 
 
-### #is_/same_as :: [Chromium.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Chromium.public.md) 
+### #is_/same_as :: [Chromium.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.public.md) 
 
-### #is_/same_as :: [Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Chromium.internal.md) 
+### #is_/same_as :: [Chromium.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.internal.md) 
 
-### #is_/same_as :: [Chromium.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Chromium.protect.md) 
+### #is_/same_as :: [Chromium.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.protect.md) 
 
-### #is_/same_as :: [Chromium.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Chromium.private.md) 
+### #is_/same_as :: [Chromium.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.private.md) 
 
-### #is_/same_as :: [Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Chromium.personal.md) 
+### #is_/same_as :: [Chromium.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.personal.md) 
 
-### #is_/same_as :: [Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Chromium.secret.md)
+### #is_/same_as :: [Chromium.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.secret.md)
 

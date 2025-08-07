@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - laboratory-science
 - laboratory_science

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "late medieval period"
 - "Late Middle Ages"

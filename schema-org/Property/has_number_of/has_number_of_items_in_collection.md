@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - collection-size
 - collection_size

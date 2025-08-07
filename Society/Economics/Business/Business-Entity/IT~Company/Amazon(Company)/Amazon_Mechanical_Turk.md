@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - MTurk
 ---
@@ -27,4 +27,21 @@ The Median Income of a [[Turker]] is 2$/hour, which makes it[[../../../../../Soc
 Die Trennung von Arbeit und Mensch und seinem Umfeld 
 
 No new Sources of Wealth. => all Slack will be removed from existing Sources => [[Exploitation]]. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.md) 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.public.md) 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.internal.md) 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.protect.md) 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.private.md) 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.personal.md) 
+
+### #is_/same_as :: [Amazon_Mechanical_Turk.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk.secret.md)
 

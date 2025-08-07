@@ -34,3 +34,20 @@ has_id_wikidata: Q11769
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bering%20Strait) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bering_Strait](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.md) 
+
+### #is_/same_as :: [Bering_Strait.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.public.md) 
+
+### #is_/same_as :: [Bering_Strait.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.internal.md) 
+
+### #is_/same_as :: [Bering_Strait.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.protect.md) 
+
+### #is_/same_as :: [Bering_Strait.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.private.md) 
+
+### #is_/same_as :: [Bering_Strait.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.personal.md) 
+
+### #is_/same_as :: [Bering_Strait.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.secret.md)
+

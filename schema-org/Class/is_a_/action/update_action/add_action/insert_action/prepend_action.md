@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prepend-action
 - prepend_action

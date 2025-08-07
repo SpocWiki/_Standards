@@ -56,3 +56,20 @@ OpenStreetMap_tag_or_key: Tag:colour=white
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/White) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [White](/_Standards/Technology/Design/Graphic_Design/Color/White.md) 
+
+### #is_/same_as :: [White.public](/_public/Technology/Design/Graphic_Design/Color/White.public.md) 
+
+### #is_/same_as :: [White.internal](/_internal/Technology/Design/Graphic_Design/Color/White.internal.md) 
+
+### #is_/same_as :: [White.protect](/_protect/Technology/Design/Graphic_Design/Color/White.protect.md) 
+
+### #is_/same_as :: [White.private](/_private/Technology/Design/Graphic_Design/Color/White.private.md) 
+
+### #is_/same_as :: [White.personal](/_personal/Technology/Design/Graphic_Design/Color/White.personal.md) 
+
+### #is_/same_as :: [White.secret](/_secret/Technology/Design/Graphic_Design/Color/White.secret.md)
+

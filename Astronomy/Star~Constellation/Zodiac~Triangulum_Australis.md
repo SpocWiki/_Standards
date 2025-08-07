@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]] 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis](/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis.public](/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis.private](/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal.md) 
+
+### #is_/same_as :: [Zodiac~Triangulum_Australis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret.md)
+

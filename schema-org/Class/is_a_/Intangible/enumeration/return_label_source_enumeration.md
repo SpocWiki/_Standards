@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-label-source-enumeration
 - return_label_source_enumeration

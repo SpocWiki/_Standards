@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kwame Nkrumah"
 - "Francis Kwame Nkrumah"
@@ -142,17 +142,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nkrumah,Kwame](Nkrumah,Kwame.md)) 
+### #is_/same_as :: [Nkrumah,Kwame](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.md) 
 
-### #is_/same_as :: [Nkrumah,Kwame.public](/_public/Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame.public.md) 
+### #is_/same_as :: [Nkrumah,Kwame.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.public.md) 
 
-### #is_/same_as :: [Nkrumah,Kwame.internal](/_internal/Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame.internal.md) 
+### #is_/same_as :: [Nkrumah,Kwame.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.internal.md) 
 
-### #is_/same_as :: [Nkrumah,Kwame.protect](/_protect/Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame.protect.md) 
+### #is_/same_as :: [Nkrumah,Kwame.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.protect.md) 
 
-### #is_/same_as :: [Nkrumah,Kwame.private](/_private/Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame.private.md) 
+### #is_/same_as :: [Nkrumah,Kwame.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.private.md) 
 
-### #is_/same_as :: [Nkrumah,Kwame.personal](/_personal/Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame.personal.md) 
+### #is_/same_as :: [Nkrumah,Kwame.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.personal.md) 
 
-### #is_/same_as :: [Nkrumah,Kwame.secret](/_secret/Society/Government/Leader/Modern_Leaders/Nkrumah,Kwame.secret.md)
+### #is_/same_as :: [Nkrumah,Kwame.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.secret.md)
 

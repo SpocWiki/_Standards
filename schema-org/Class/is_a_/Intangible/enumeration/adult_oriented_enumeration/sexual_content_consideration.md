@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sexual-content-consideration
 - sexual_content_consideration

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fees-and-commissions-specification
 - fees_and_commissions_specification

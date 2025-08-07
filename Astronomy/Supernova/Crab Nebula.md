@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Crab Nebula"
 - "NGC 1952"

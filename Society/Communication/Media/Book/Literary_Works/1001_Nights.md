@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "One Thousand and One Nights"
 - "Arabian Nights"

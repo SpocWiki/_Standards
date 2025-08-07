@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Infrared
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 does_not_have_characteristic: '[[_Standards/WikiData/WD~visibility,30301666]]'

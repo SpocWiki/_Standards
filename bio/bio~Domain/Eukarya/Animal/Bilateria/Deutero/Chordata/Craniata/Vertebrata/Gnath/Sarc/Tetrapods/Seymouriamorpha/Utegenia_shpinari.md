@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Utegenia shpinari"
 ---
 
@@ -118,7 +118,7 @@ Vertebrate Paleontology 29 pages, 6 figures.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Utegenia_shpinari](Utegenia_shpinari.md)) 
+### #is_/same_as :: [Utegenia_shpinari](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia_shpinari.md) 
 
 ### #is_/same_as :: [Utegenia_shpinari.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia_shpinari.public.md) 
 

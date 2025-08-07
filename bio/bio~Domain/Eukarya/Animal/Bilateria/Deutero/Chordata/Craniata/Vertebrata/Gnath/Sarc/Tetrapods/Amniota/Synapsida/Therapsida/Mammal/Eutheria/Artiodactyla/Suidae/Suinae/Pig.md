@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Sus
 - pigs
@@ -99,7 +99,7 @@ Copyright ::            © 2005 [Jayanth Sharma](http://flickr.com/people/jayant
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pig](Pig.md)) 
+### #is_/same_as :: [Pig](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Pig.md) 
 
 ### #is_/same_as :: [Pig.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Suidae/Suinae/Pig.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protura
 ---
 
@@ -97,7 +97,7 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Protura](Protura.md)) 
+### #is_/same_as :: [Protura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.md) 
 
 ### #is_/same_as :: [Protura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~eurozone,8268]]'
 award_received: '[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]'
 central_bank_issuer: '[[_Standards/WikiData/WD~European_Central_Bank,8901]]'

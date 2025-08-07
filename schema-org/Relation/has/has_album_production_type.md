@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - album-production-type
 - album_production_type

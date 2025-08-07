@@ -1,4 +1,4 @@
-﻿---
+---
 title: Manidae
 ---
 
@@ -80,7 +80,7 @@ Copyright ::            © 2006 [Callie de Wet](http://flickr.com/people/wildima
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Manidae](Manidae.md)) 
+### #is_/same_as :: [Manidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae.md) 
 
 ### #is_/same_as :: [Manidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Pholidota/Manidae.public.md) 
 

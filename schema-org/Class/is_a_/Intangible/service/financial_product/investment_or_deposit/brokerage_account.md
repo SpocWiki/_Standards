@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - brokerage-account
 - brokerage_account

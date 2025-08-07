@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dioscoreales
 ---
 
@@ -73,17 +73,17 @@ Copyright ::            © 1991 [Julie Kierstead Nelson](mailto:jknelson@fs.fed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dioscoreales](Dioscoreales.md)) 
+### #is_/same_as :: [Dioscoreales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.md) 
 
-### #is_/same_as :: [Dioscoreales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.public.md) 
+### #is_/same_as :: [Dioscoreales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.public.md) 
 
-### #is_/same_as :: [Dioscoreales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.internal.md) 
+### #is_/same_as :: [Dioscoreales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.internal.md) 
 
-### #is_/same_as :: [Dioscoreales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.protect.md) 
+### #is_/same_as :: [Dioscoreales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.protect.md) 
 
-### #is_/same_as :: [Dioscoreales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.private.md) 
+### #is_/same_as :: [Dioscoreales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.private.md) 
 
-### #is_/same_as :: [Dioscoreales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.personal.md) 
+### #is_/same_as :: [Dioscoreales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.personal.md) 
 
-### #is_/same_as :: [Dioscoreales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.secret.md)
+### #is_/same_as :: [Dioscoreales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Dioscoreales.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~phosphorus_poisoning,1616305]]'
 atomic_number: 15
 canonical_SMILES: '[P]'
@@ -167,17 +167,17 @@ so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phosphorus](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.md) 
+### #is_/same_as :: [Phosphorus](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.md) 
 
-### #is_/same_as :: [Phosphorus.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.public.md) 
+### #is_/same_as :: [Phosphorus.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.public.md) 
 
-### #is_/same_as :: [Phosphorus.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.internal.md) 
+### #is_/same_as :: [Phosphorus.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.internal.md) 
 
-### #is_/same_as :: [Phosphorus.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.protect.md) 
+### #is_/same_as :: [Phosphorus.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.protect.md) 
 
-### #is_/same_as :: [Phosphorus.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.private.md) 
+### #is_/same_as :: [Phosphorus.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.private.md) 
 
-### #is_/same_as :: [Phosphorus.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.personal.md) 
+### #is_/same_as :: [Phosphorus.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.personal.md) 
 
-### #is_/same_as :: [Phosphorus.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.secret.md)
+### #is_/same_as :: [Phosphorus.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.secret.md)
 

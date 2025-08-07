@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-action
 - return_action

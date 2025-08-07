@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation:
 - "https://dietbuddyhub.com/"
 - 44.21

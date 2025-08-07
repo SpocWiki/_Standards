@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - billing-address
 - address_billing

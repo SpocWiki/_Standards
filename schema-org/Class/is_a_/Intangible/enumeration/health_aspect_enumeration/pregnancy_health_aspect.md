@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pregnancy-health-aspect
 - pregnancy_health_aspect

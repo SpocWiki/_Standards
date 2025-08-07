@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Salticidae
 - "Jumping Spider"
@@ -196,7 +196,7 @@ Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Jumping_Spider](Jumping_Spider.md)) 
+### #is_/same_as :: [Jumping_Spider](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider.md) 
 
 ### #is_/same_as :: [Jumping_Spider.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider.public.md) 
 

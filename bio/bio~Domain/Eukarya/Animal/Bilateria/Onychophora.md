@@ -1,4 +1,4 @@
-﻿---
+---
 title: Onychophora
 ---
 
@@ -58,7 +58,7 @@ Velvet Worms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Onychophora](Onychophora.md)) 
+### #is_/same_as :: [Onychophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.md) 
 
 ### #is_/same_as :: [Onychophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Onychophora.public.md) 
 

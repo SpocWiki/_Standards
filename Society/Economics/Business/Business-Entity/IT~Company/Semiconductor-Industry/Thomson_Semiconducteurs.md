@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thomson SA"
 ---
@@ -17,4 +17,20 @@ It was from this company that the modern Thomson Group would evolve.
 by the French government's widespread nationalization of industries 
 following the [election of socialist François Mitterrand to the presidency](https://en.wikipedia.org/wiki/1981_French_presidential_election "1981 French presidential election"). 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thomson_Semiconducteurs](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.md) 
+
+### #is_/same_as :: [Thomson_Semiconducteurs.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.public.md) 
+
+### #is_/same_as :: [Thomson_Semiconducteurs.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.internal.md) 
+
+### #is_/same_as :: [Thomson_Semiconducteurs.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.protect.md) 
+
+### #is_/same_as :: [Thomson_Semiconducteurs.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.private.md) 
+
+### #is_/same_as :: [Thomson_Semiconducteurs.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.personal.md) 
+
+### #is_/same_as :: [Thomson_Semiconducteurs.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Thomson_Semiconducteurs.secret.md)
 

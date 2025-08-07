@@ -1,4 +1,4 @@
-﻿---
+---
 title: Platyrrhini
 ---
 
@@ -96,7 +96,7 @@ Copyright ::            © 2001 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Platyrrhini](Platyrrhini.md)) 
+### #is_/same_as :: [Platyrrhini](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Platyrrhini.md) 
 
 ### #is_/same_as :: [Platyrrhini.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Platyrrhini.public.md) 
 

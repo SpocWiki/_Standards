@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.21
 Commons_category: Fascism
 country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'

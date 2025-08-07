@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Human pregnancy"
 Commons_gallery: "Human pregnancy"
 described_by_source:

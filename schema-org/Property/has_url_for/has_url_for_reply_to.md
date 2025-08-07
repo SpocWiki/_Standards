@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reply-to-url
 - reply_to_url

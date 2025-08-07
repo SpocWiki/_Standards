@@ -1,4 +1,4 @@
-﻿---
+---
 title: Eosentomidae
 ---
 
@@ -42,7 +42,7 @@ title: Eosentomidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eosentomidae](Eosentomidae.md)) 
+### #is_/same_as :: [Eosentomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.md) 
 
 ### #is_/same_as :: [Eosentomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.public.md) 
 

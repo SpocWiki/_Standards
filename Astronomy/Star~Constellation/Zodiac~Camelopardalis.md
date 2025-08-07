@@ -54,11 +54,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CamelopardalisCC.jpg
 
 #is_/same_as :: [[../../WikiData/WD~Camelopardalis,8832|WD~Camelopardalis,8832]] 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Camelopardalis|Zodiac~Camelopardalis]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Camelopardalis.public|Zodiac~Camelopardalis.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Camelopardalis.internal|Zodiac~Camelopardalis.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Camelopardalis.protect|Zodiac~Camelopardalis.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Camelopardalis.private|Zodiac~Camelopardalis.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Camelopardalis.personal|Zodiac~Camelopardalis.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Camelopardalis.secret|Zodiac~Camelopardalis.secret]] 
+
+### #is_/same_as :: [Zodiac~Camelopardalis](/_Standards/Astronomy/Star~Constellation/Zodiac~Camelopardalis.md) 
+
+### #is_/same_as :: [Zodiac~Camelopardalis.public](/_public/Astronomy/Star~Constellation/Zodiac~Camelopardalis.public.md) 
+
+### #is_/same_as :: [Zodiac~Camelopardalis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Camelopardalis.internal.md) 
+
+### #is_/same_as :: [Zodiac~Camelopardalis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Camelopardalis.protect.md) 
+
+### #is_/same_as :: [Zodiac~Camelopardalis.private](/_private/Astronomy/Star~Constellation/Zodiac~Camelopardalis.private.md) 
+
+### #is_/same_as :: [Zodiac~Camelopardalis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Camelopardalis.personal.md) 
+
+### #is_/same_as :: [Zodiac~Camelopardalis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Camelopardalis.secret.md)
+

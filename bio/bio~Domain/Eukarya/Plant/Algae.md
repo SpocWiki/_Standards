@@ -51,17 +51,17 @@ taxon_name: Algae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algae](Algae.md) 
+### #is_/same_as :: [Algae](/_Standards/bio/bio~Domain/Eukarya/Plant/Algae.md) 
 
-### #is_/same_as :: [Algae.public](/_public/bio/bio~Domain/Eukarya/Plants/Algae.public.md) 
+### #is_/same_as :: [Algae.public](/_public/bio/bio~Domain/Eukarya/Plant/Algae.public.md) 
 
-### #is_/same_as :: [Algae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Algae.internal.md) 
+### #is_/same_as :: [Algae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Algae.internal.md) 
 
-### #is_/same_as :: [Algae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Algae.protect.md) 
+### #is_/same_as :: [Algae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Algae.protect.md) 
 
-### #is_/same_as :: [Algae.private](/_private/bio/bio~Domain/Eukarya/Plants/Algae.private.md) 
+### #is_/same_as :: [Algae.private](/_private/bio/bio~Domain/Eukarya/Plant/Algae.private.md) 
 
-### #is_/same_as :: [Algae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Algae.personal.md) 
+### #is_/same_as :: [Algae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Algae.personal.md) 
 
-### #is_/same_as :: [Algae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Algae.secret.md)
+### #is_/same_as :: [Algae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Algae.secret.md)
 

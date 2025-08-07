@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-device-purpose
 - medical_device_purpose

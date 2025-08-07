@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-legal-status
 - drug_legal_status

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 32
 canonical_SMILES: '[Ge]'
 CAS_Registry_Number: 7440-56-4
@@ -129,17 +129,17 @@ ZVG_number: 8270
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Germanium](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Germanium.md) 
+### #is_/same_as :: [Germanium](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.md) 
 
-### #is_/same_as :: [Germanium.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Germanium.public.md) 
+### #is_/same_as :: [Germanium.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.public.md) 
 
-### #is_/same_as :: [Germanium.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Germanium.internal.md) 
+### #is_/same_as :: [Germanium.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.internal.md) 
 
-### #is_/same_as :: [Germanium.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Germanium.protect.md) 
+### #is_/same_as :: [Germanium.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.protect.md) 
 
-### #is_/same_as :: [Germanium.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Germanium.private.md) 
+### #is_/same_as :: [Germanium.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.private.md) 
 
-### #is_/same_as :: [Germanium.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Germanium.personal.md) 
+### #is_/same_as :: [Germanium.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.personal.md) 
 
-### #is_/same_as :: [Germanium.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Germanium.secret.md)
+### #is_/same_as :: [Germanium.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.secret.md)
 

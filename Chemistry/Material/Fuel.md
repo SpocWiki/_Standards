@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2103
 Colon_Classification: F55
 Commons_category: Fuels
@@ -53,17 +53,17 @@ U_S_National_Archives_Identifier: 10639468
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fuel](/_Standards/chemic/Material/Fuel.md) 
+### #is_/same_as :: [Fuel](/_Standards/Chemistry/Material/Fuel.md) 
 
-### #is_/same_as :: [Fuel.public](/_public/chemic/Material/Fuel.public.md) 
+### #is_/same_as :: [Fuel.public](/_public/Chemistry/Material/Fuel.public.md) 
 
-### #is_/same_as :: [Fuel.internal](/_internal/chemic/Material/Fuel.internal.md) 
+### #is_/same_as :: [Fuel.internal](/_internal/Chemistry/Material/Fuel.internal.md) 
 
-### #is_/same_as :: [Fuel.protect](/_protect/chemic/Material/Fuel.protect.md) 
+### #is_/same_as :: [Fuel.protect](/_protect/Chemistry/Material/Fuel.protect.md) 
 
-### #is_/same_as :: [Fuel.private](/_private/chemic/Material/Fuel.private.md) 
+### #is_/same_as :: [Fuel.private](/_private/Chemistry/Material/Fuel.private.md) 
 
-### #is_/same_as :: [Fuel.personal](/_personal/chemic/Material/Fuel.personal.md) 
+### #is_/same_as :: [Fuel.personal](/_personal/Chemistry/Material/Fuel.personal.md) 
 
-### #is_/same_as :: [Fuel.secret](/_secret/chemic/Material/Fuel.secret.md)
+### #is_/same_as :: [Fuel.secret](/_secret/Chemistry/Material/Fuel.secret.md)
 

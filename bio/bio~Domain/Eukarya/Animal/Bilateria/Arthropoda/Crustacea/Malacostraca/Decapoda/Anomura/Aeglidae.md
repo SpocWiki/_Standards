@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aegla
 ---
 
@@ -109,7 +109,7 @@ Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/cra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Aeglidae](Aeglidae.md)) 
+### #is_/same_as :: [Aeglidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.md) 
 
 ### #is_/same_as :: [Aeglidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae.public.md) 
 

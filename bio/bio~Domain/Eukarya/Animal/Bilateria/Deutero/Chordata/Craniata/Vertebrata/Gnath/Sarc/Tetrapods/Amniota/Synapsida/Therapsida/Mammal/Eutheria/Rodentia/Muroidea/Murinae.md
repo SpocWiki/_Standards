@@ -1,4 +1,4 @@
-﻿---
+---
 title: Murinae
 ---
 
@@ -88,7 +88,7 @@ Copyright ::            © 2006 [Ulrike](http://flickr.com/people/64706470@N00)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Murinae](Murinae.md)) 
+### #is_/same_as :: [Murinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Murinae.md) 
 
 ### #is_/same_as :: [Murinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Murinae.public.md) 
 

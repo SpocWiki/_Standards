@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - link-relationship
 - link_relationship

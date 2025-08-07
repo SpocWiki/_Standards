@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Crab Supernova"
 - "SN 1054"

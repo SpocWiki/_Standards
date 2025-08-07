@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 59
 boiling_point: 3403
 canonical_SMILES: '[Pr]'
@@ -102,17 +102,17 @@ UNII: NKN7EZA750
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Praseodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.md) 
+### #is_/same_as :: [Praseodymium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.md) 
 
-### #is_/same_as :: [Praseodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.public.md) 
+### #is_/same_as :: [Praseodymium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.public.md) 
 
-### #is_/same_as :: [Praseodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.internal.md) 
+### #is_/same_as :: [Praseodymium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.internal.md) 
 
-### #is_/same_as :: [Praseodymium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.protect.md) 
+### #is_/same_as :: [Praseodymium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.protect.md) 
 
-### #is_/same_as :: [Praseodymium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.private.md) 
+### #is_/same_as :: [Praseodymium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.private.md) 
 
-### #is_/same_as :: [Praseodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.personal.md) 
+### #is_/same_as :: [Praseodymium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.personal.md) 
 
-### #is_/same_as :: [Praseodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.secret.md)
+### #is_/same_as :: [Praseodymium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Praseodymium.secret.md)
 

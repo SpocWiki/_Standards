@@ -50,3 +50,20 @@ Commons_category: Personal armour
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Armour) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Armour](/_Standards/Society/Military/Armour.md) 
+
+### #is_/same_as :: [Armour.public](/_public/Society/Military/Armour.public.md) 
+
+### #is_/same_as :: [Armour.internal](/_internal/Society/Military/Armour.internal.md) 
+
+### #is_/same_as :: [Armour.protect](/_protect/Society/Military/Armour.protect.md) 
+
+### #is_/same_as :: [Armour.private](/_private/Society/Military/Armour.private.md) 
+
+### #is_/same_as :: [Armour.personal](/_personal/Society/Military/Armour.personal.md) 
+
+### #is_/same_as :: [Armour.secret](/_secret/Society/Military/Armour.secret.md)
+

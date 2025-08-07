@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - respiratory-therapy
 - respiratory_therapy

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-location
 - work_location

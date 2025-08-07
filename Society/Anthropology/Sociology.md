@@ -1,4 +1,4 @@
-﻿---
+---
 ACM_Classification_Code_2012_: 10010461
 Basisklassifikation: 71.00
 Colon_Classification: Y
@@ -100,17 +100,17 @@ researches the Formation of "Society" and the Interaction with the Individual.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sociology](Sociology.md)) 
+### #is_/same_as :: [Sociology](/_Standards/Society/Anthropology/Sociology.md) 
 
-### #is_/same_as :: [Sociology.public](/_public/Society/Sociology.public.md) 
+### #is_/same_as :: [Sociology.public](/_public/Society/Anthropology/Sociology.public.md) 
 
-### #is_/same_as :: [Sociology.internal](/_internal/Society/Sociology.internal.md) 
+### #is_/same_as :: [Sociology.internal](/_internal/Society/Anthropology/Sociology.internal.md) 
 
-### #is_/same_as :: [Sociology.protect](/_protect/Society/Sociology.protect.md) 
+### #is_/same_as :: [Sociology.protect](/_protect/Society/Anthropology/Sociology.protect.md) 
 
-### #is_/same_as :: [Sociology.private](/_private/Society/Sociology.private.md) 
+### #is_/same_as :: [Sociology.private](/_private/Society/Anthropology/Sociology.private.md) 
 
-### #is_/same_as :: [Sociology.personal](/_personal/Society/Sociology.personal.md) 
+### #is_/same_as :: [Sociology.personal](/_personal/Society/Anthropology/Sociology.personal.md) 
 
-### #is_/same_as :: [Sociology.secret](/_secret/Society/Sociology.secret.md)
+### #is_/same_as :: [Sociology.secret](/_secret/Society/Anthropology/Sociology.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~silver_exposure,21175303]]'
 atomic_number: 47
 boiling_point:
@@ -174,17 +174,17 @@ ZVG_number: 8350
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silver](/_Standards/chemic/chemic~Elements/Group-11-Copper/Silver.md) 
+### #is_/same_as :: [Silver](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Silver.md) 
 
-### #is_/same_as :: [Silver.public](/_public/chemic/chemic~Elements/Group-11-Copper/Silver.public.md) 
+### #is_/same_as :: [Silver.public](/_public/Chemistry/Chemical_Element/Group-11-Copper/Silver.public.md) 
 
-### #is_/same_as :: [Silver.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Silver.internal.md) 
+### #is_/same_as :: [Silver.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper/Silver.internal.md) 
 
-### #is_/same_as :: [Silver.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Silver.protect.md) 
+### #is_/same_as :: [Silver.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper/Silver.protect.md) 
 
-### #is_/same_as :: [Silver.private](/_private/chemic/chemic~Elements/Group-11-Copper/Silver.private.md) 
+### #is_/same_as :: [Silver.private](/_private/Chemistry/Chemical_Element/Group-11-Copper/Silver.private.md) 
 
-### #is_/same_as :: [Silver.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Silver.personal.md) 
+### #is_/same_as :: [Silver.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper/Silver.personal.md) 
 
-### #is_/same_as :: [Silver.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Silver.secret.md)
+### #is_/same_as :: [Silver.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper/Silver.secret.md)
 

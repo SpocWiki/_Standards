@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - d-dx-element
 - d_dx_element

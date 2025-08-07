@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gastropoda
 ---
 
@@ -71,7 +71,7 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gastropoda](Gastropoda.md)) 
+### #is_/same_as :: [Gastropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.md) 
 
 ### #is_/same_as :: [Gastropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda.public.md) 
 

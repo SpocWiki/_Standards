@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - id_rxcui
 - id_rxcui

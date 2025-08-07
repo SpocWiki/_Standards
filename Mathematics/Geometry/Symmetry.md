@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Symmetry
 Commons_gallery: Symmetry
 described_by_source:

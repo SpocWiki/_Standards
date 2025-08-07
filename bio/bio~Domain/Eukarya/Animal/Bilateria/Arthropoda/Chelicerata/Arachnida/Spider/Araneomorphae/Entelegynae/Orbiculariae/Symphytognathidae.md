@@ -1,4 +1,4 @@
-﻿---
+---
 title: Symphytognathidae
 ---
 
@@ -77,7 +77,7 @@ Araneoidea). Zoologica Scripta 32:129-151.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Symphytognathidae](Symphytognathidae.md)) 
+### #is_/same_as :: [Symphytognathidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.md) 
 
 ### #is_/same_as :: [Symphytognathidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.public.md) 
 

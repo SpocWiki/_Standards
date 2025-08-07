@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amenity-feature
 - amenity_feature

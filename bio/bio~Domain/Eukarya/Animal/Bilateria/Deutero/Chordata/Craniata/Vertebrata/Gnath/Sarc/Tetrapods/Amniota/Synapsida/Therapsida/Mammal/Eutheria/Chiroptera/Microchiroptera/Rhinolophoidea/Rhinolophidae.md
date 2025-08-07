@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rhinolophidae
 ---
 
@@ -142,7 +142,7 @@ of Natural History. 235:1-182.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rhinolophidae](Rhinolophidae.md)) 
+### #is_/same_as :: [Rhinolophidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.md) 
 
 ### #is_/same_as :: [Rhinolophidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinolophoidea/Rhinolophidae.public.md) 
 

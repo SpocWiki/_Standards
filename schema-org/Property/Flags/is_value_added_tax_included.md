@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - value-added-tax-included
 - value_added_tax_included

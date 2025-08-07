@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_axles
 - number-of-axles

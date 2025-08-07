@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - aggregate-offer
 - aggregate_offer

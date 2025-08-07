@@ -1,4 +1,4 @@
-﻿---
+---
 title: Agaricomycetes
 ---
 
@@ -560,7 +560,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Agaricomycetes](Agaricomycetes.md)) 
+### #is_/same_as :: [Agaricomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.md) 
 
 ### #is_/same_as :: [Agaricomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.public.md) 
 

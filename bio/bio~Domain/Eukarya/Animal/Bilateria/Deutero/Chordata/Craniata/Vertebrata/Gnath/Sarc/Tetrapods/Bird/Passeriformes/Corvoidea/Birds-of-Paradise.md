@@ -19,3 +19,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bird-of-paradise) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Birds-of-Paradise](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.md) 
+
+### #is_/same_as :: [Birds-of-Paradise.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.public.md) 
+
+### #is_/same_as :: [Birds-of-Paradise.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.internal.md) 
+
+### #is_/same_as :: [Birds-of-Paradise.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.protect.md) 
+
+### #is_/same_as :: [Birds-of-Paradise.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.private.md) 
+
+### #is_/same_as :: [Birds-of-Paradise.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.personal.md) 
+
+### #is_/same_as :: [Birds-of-Paradise.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Birds-of-Paradise.secret.md)
+

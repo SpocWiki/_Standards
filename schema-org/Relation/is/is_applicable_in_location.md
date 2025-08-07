@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - applicable-location
 - applicable_location

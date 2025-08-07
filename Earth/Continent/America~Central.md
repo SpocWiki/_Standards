@@ -1,4 +1,4 @@
-﻿---
+---
 area: 560988
 BHCL_UUID: 2ce78fb2-a86c-4d32-8a5d-6fbc4908ec56
 category_for_maps_or_plans: '[[_Standards/WikiData/WD~Maps_of_Central_America,6035984]]'

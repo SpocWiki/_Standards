@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-item
 - how_to_item

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - coverage-end-time
 - coverage_end_time

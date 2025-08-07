@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Hugo Gernsback"
 - "Hugo Gernsbacher"

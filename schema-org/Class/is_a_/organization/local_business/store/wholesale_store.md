@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wholesale-store
 - wholesale_store

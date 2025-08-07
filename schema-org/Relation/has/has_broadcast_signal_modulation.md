@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-signal-modulation
 - broadcast_signal_modulation

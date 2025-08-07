@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard:
 - '[[_Standards/WikiData/WD~manganism,2480013]]'
 - '[[_Standards/WikiData/WD~manganese_exposure,21174827]]'
@@ -152,17 +152,17 @@ ZVG_number: 8200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manganese](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Manganese.md) 
+### #is_/same_as :: [Manganese](/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.md) 
 
-### #is_/same_as :: [Manganese.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Manganese.public.md) 
+### #is_/same_as :: [Manganese.public](/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public.md) 
 
-### #is_/same_as :: [Manganese.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Manganese.internal.md) 
+### #is_/same_as :: [Manganese.internal](/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal.md) 
 
-### #is_/same_as :: [Manganese.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Manganese.protect.md) 
+### #is_/same_as :: [Manganese.protect](/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.protect.md) 
 
-### #is_/same_as :: [Manganese.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Manganese.private.md) 
+### #is_/same_as :: [Manganese.private](/_private/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.private.md) 
 
-### #is_/same_as :: [Manganese.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Manganese.personal.md) 
+### #is_/same_as :: [Manganese.personal](/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal.md) 
 
-### #is_/same_as :: [Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Manganese.secret.md)
+### #is_/same_as :: [Manganese.secret](/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret.md)
 

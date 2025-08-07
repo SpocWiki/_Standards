@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accepted-answer
 - accepted_answer

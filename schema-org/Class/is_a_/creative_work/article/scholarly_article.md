@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - scholarly-article
 - scholarly_article

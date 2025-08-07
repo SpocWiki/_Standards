@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Human_Rights
 Basisklassifikation: 86.85

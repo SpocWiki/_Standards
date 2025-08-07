@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - multiple-value
 - multiple_value

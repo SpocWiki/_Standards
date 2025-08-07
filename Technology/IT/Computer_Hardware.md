@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Computer hardware"
 Amazon_com_browse_node: 541966

@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Violin.stl"
 Amazon_com_browse_node: 11971521
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Whiskey-youre-the-devil-violin.ogg"

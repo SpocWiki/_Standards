@@ -1,4 +1,4 @@
-﻿---
+---
 title: Euophryinae
 ---
 
@@ -144,7 +144,7 @@ and thus the euophyines may be paraphyletic (Maddison, 1996).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Euophryinae](Euophryinae.md)) 
+### #is_/same_as :: [Euophryinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Euophryinae.md) 
 
 ### #is_/same_as :: [Euophryinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Euophryinae.public.md) 
 

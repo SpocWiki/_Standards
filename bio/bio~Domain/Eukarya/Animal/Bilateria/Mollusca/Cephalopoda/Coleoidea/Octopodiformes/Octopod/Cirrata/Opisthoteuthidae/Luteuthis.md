@@ -1,4 +1,4 @@
-﻿---
+---
 title: Luteuthis
 ---
 
@@ -118,7 +118,7 @@ Cephalopoda: Cirroctopoda) from the South China Sea. Zoological Studies,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Luteuthis](Luteuthis.md)) 
+### #is_/same_as :: [Luteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Luteuthis.md) 
 
 ### #is_/same_as :: [Luteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Luteuthis.public.md) 
 

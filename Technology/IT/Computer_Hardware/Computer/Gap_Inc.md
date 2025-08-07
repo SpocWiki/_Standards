@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Gap Inc"
 - "The Gap, Inc"

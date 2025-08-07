@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - account_minimum_inflow
 - account-minimum-inflow

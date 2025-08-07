@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vladimir Ilyich Ulyanov"
 - "Vladimir Lenin"
@@ -221,17 +221,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lenin,Vladimir](Lenin,Vladimir.md)) 
+### #is_/same_as :: [Lenin,Vladimir](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.md) 
 
-### #is_/same_as :: [Lenin,Vladimir.public](/_public/Society/Government/Leader/Modern_Leaders/Lenin,Vladimir.public.md) 
+### #is_/same_as :: [Lenin,Vladimir.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.public.md) 
 
-### #is_/same_as :: [Lenin,Vladimir.internal](/_internal/Society/Government/Leader/Modern_Leaders/Lenin,Vladimir.internal.md) 
+### #is_/same_as :: [Lenin,Vladimir.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.internal.md) 
 
-### #is_/same_as :: [Lenin,Vladimir.protect](/_protect/Society/Government/Leader/Modern_Leaders/Lenin,Vladimir.protect.md) 
+### #is_/same_as :: [Lenin,Vladimir.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.protect.md) 
 
-### #is_/same_as :: [Lenin,Vladimir.private](/_private/Society/Government/Leader/Modern_Leaders/Lenin,Vladimir.private.md) 
+### #is_/same_as :: [Lenin,Vladimir.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.private.md) 
 
-### #is_/same_as :: [Lenin,Vladimir.personal](/_personal/Society/Government/Leader/Modern_Leaders/Lenin,Vladimir.personal.md) 
+### #is_/same_as :: [Lenin,Vladimir.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.personal.md) 
 
-### #is_/same_as :: [Lenin,Vladimir.secret](/_secret/Society/Government/Leader/Modern_Leaders/Lenin,Vladimir.secret.md)
+### #is_/same_as :: [Lenin,Vladimir.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.secret.md)
 

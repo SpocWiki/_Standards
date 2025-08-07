@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legal-status
 - legal_status

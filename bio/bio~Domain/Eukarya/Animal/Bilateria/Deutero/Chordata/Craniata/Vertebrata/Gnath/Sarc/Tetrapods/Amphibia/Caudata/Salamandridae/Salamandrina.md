@@ -1,4 +1,4 @@
-﻿---
+---
 title: Salamandrina
 ---
 
@@ -50,17 +50,17 @@ title: Salamandrina
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Salamandrina](Salamandrina.md)) 
+### #is_/same_as :: [Salamandrina](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.md) 
 
-### #is_/same_as :: [Salamandrina.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandrina.public.md) 
+### #is_/same_as :: [Salamandrina.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.public.md) 
 
-### #is_/same_as :: [Salamandrina.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandrina.internal.md) 
+### #is_/same_as :: [Salamandrina.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.internal.md) 
 
-### #is_/same_as :: [Salamandrina.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandrina.protect.md) 
+### #is_/same_as :: [Salamandrina.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.protect.md) 
 
-### #is_/same_as :: [Salamandrina.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandrina.private.md) 
+### #is_/same_as :: [Salamandrina.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.private.md) 
 
-### #is_/same_as :: [Salamandrina.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandrina.personal.md) 
+### #is_/same_as :: [Salamandrina.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.personal.md) 
 
-### #is_/same_as :: [Salamandrina.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandrina.secret.md)
+### #is_/same_as :: [Salamandrina.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Salamandridae/Salamandrina.secret.md)
 

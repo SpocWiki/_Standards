@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prevention-health-aspect
 - prevention_health_aspect

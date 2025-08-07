@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "L35:4261"
 Commons_category: Malaria
 described_by_source:

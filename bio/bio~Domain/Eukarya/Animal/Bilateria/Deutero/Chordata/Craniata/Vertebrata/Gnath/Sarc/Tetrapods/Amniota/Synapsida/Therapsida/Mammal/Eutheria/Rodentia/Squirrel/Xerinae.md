@@ -1,4 +1,4 @@
-﻿---
+---
 title: Xerinae
 ---
 
@@ -60,7 +60,7 @@ Copyright ::            © 2006 [Nigel Dennis](http://www.nigeldennis.com/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Xerinae](Xerinae.md)) 
+### #is_/same_as :: [Xerinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae.md) 
 
 ### #is_/same_as :: [Xerinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Squirrel/Xerinae.public.md) 
 

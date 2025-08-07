@@ -69,3 +69,20 @@ has_id_wikidata: Q35500
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aphrodite) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aphrodite](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.md) 
+
+### #is_/same_as :: [Aphrodite.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.public.md) 
+
+### #is_/same_as :: [Aphrodite.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.internal.md) 
+
+### #is_/same_as :: [Aphrodite.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.protect.md) 
+
+### #is_/same_as :: [Aphrodite.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.private.md) 
+
+### #is_/same_as :: [Aphrodite.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.personal.md) 
+
+### #is_/same_as :: [Aphrodite.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Aphrodite.secret.md)
+

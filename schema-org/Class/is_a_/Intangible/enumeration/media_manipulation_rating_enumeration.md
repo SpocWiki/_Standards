@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - media-manipulation-rating-enumeration
 - media_manipulation_rating_enumeration

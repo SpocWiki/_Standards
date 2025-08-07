@@ -47,3 +47,20 @@ Commons_category: Calligraphy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calligraphy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Calligraphy](/_Standards/Language/Writing_System/Calligraphy.md) 
+
+### #is_/same_as :: [Calligraphy.public](/_public/Language/Writing_System/Calligraphy.public.md) 
+
+### #is_/same_as :: [Calligraphy.internal](/_internal/Language/Writing_System/Calligraphy.internal.md) 
+
+### #is_/same_as :: [Calligraphy.protect](/_protect/Language/Writing_System/Calligraphy.protect.md) 
+
+### #is_/same_as :: [Calligraphy.private](/_private/Language/Writing_System/Calligraphy.private.md) 
+
+### #is_/same_as :: [Calligraphy.personal](/_personal/Language/Writing_System/Calligraphy.personal.md) 
+
+### #is_/same_as :: [Calligraphy.secret](/_secret/Language/Writing_System/Calligraphy.secret.md)
+

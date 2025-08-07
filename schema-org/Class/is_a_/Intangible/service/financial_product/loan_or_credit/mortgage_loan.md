@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mortgage-loan
 - mortgage_loan

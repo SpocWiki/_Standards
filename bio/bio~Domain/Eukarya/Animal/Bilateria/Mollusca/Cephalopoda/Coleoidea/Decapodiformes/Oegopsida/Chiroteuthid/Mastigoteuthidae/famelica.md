@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis famelica"
 ---
 
@@ -218,7 +218,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[famelica](famelica.md)) 
+### #is_/same_as :: [famelica](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.md) 
 
 ### #is_/same_as :: [famelica.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/famelica.public.md) 
 

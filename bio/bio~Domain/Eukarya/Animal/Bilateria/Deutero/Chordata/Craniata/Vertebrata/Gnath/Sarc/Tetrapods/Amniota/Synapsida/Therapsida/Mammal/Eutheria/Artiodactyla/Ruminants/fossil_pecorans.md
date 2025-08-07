@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miscellaneous fossil pecorans"
 ---
 
@@ -54,7 +54,7 @@ title: "Miscellaneous fossil pecorans"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[fossil_pecorans](fossil_pecorans.md)) 
+### #is_/same_as :: [fossil_pecorans](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/fossil_pecorans.md) 
 
 ### #is_/same_as :: [fossil_pecorans.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/fossil_pecorans.public.md) 
 

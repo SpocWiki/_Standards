@@ -1,4 +1,4 @@
-﻿---
+---
 title: Molossoidea
 ---
 
@@ -121,7 +121,7 @@ of Natural History. 235:1-82.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Molossoidea](Molossoidea.md)) 
+### #is_/same_as :: [Molossoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Molossoidea.md) 
 
 ### #is_/same_as :: [Molossoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Molossoidea.public.md) 
 

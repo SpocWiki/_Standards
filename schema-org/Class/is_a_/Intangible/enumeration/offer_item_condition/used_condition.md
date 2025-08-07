@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - used-condition
 - used_condition

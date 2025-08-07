@@ -1,4 +1,4 @@
-﻿---
+---
 title: Parasitengona
 ---
 
@@ -100,7 +100,7 @@ Copyright ::   © 1998 H. Proctor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Parasitengona](Parasitengona.md)) 
+### #is_/same_as :: [Parasitengona](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.md) 
 
 ### #is_/same_as :: [Parasitengona.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes/Parasitengona.public.md) 
 

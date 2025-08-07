@@ -113,3 +113,21 @@ A type of blood vessel that specifically carries blood away from the heart.
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Artery](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Artery.md) 
+
+### #is_/same_as :: [Artery.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Artery.public.md) 
+
+### #is_/same_as :: [Artery.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Artery.internal.md) 
+
+### #is_/same_as :: [Artery.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Artery.protect.md) 
+
+### #is_/same_as :: [Artery.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Artery.private.md) 
+
+### #is_/same_as :: [Artery.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Artery.personal.md) 
+
+### #is_/same_as :: [Artery.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Artery.secret.md)
+

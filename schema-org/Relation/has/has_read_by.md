@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - read-by
 - read_by

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - misconceptions-health-aspect
 - misconceptions_health_aspect

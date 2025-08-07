@@ -26,3 +26,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Mummy%20(1932%20film)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mummy(1932)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).md) 
+
+### #is_/same_as :: [Mummy(1932).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).public.md) 
+
+### #is_/same_as :: [Mummy(1932).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).internal.md) 
+
+### #is_/same_as :: [Mummy(1932).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).protect.md) 
+
+### #is_/same_as :: [Mummy(1932).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).private.md) 
+
+### #is_/same_as :: [Mummy(1932).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).personal.md) 
+
+### #is_/same_as :: [Mummy(1932).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Mummy(1932).secret.md)
+

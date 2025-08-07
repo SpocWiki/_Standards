@@ -1,4 +1,4 @@
-﻿---
+---
 active_ingredient_in:
 - '[[_Standards/WikiData/WD~rectified_spirit,266143]]'
 - '[[_Standards/WikiData/WD~alcoholic_beverage,154]]'
@@ -307,17 +307,17 @@ it is advantageous be able to digest them without severe intoxication.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethanol](/_Standards/chemic/organic/Alcohol/Ethanol.md) 
+### #is_/same_as :: [Ethanol](/_Standards/Chemistry/organic/Alcohol/Ethanol.md) 
 
-### #is_/same_as :: [Ethanol.public](/_public/chemic/organic/Alcohol/Ethanol.public.md) 
+### #is_/same_as :: [Ethanol.public](/_public/Chemistry/organic/Alcohol/Ethanol.public.md) 
 
-### #is_/same_as :: [Ethanol.internal](/_internal/chemic/organic/Alcohol/Ethanol.internal.md) 
+### #is_/same_as :: [Ethanol.internal](/_internal/Chemistry/organic/Alcohol/Ethanol.internal.md) 
 
-### #is_/same_as :: [Ethanol.protect](/_protect/chemic/organic/Alcohol/Ethanol.protect.md) 
+### #is_/same_as :: [Ethanol.protect](/_protect/Chemistry/organic/Alcohol/Ethanol.protect.md) 
 
-### #is_/same_as :: [Ethanol.private](/_private/chemic/organic/Alcohol/Ethanol.private.md) 
+### #is_/same_as :: [Ethanol.private](/_private/Chemistry/organic/Alcohol/Ethanol.private.md) 
 
-### #is_/same_as :: [Ethanol.personal](/_personal/chemic/organic/Alcohol/Ethanol.personal.md) 
+### #is_/same_as :: [Ethanol.personal](/_personal/Chemistry/organic/Alcohol/Ethanol.personal.md) 
 
-### #is_/same_as :: [Ethanol.secret](/_secret/chemic/organic/Alcohol/Ethanol.secret.md)
+### #is_/same_as :: [Ethanol.secret](/_secret/Chemistry/organic/Alcohol/Ethanol.secret.md)
 

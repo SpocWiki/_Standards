@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spirobolida
 ---
 
@@ -84,7 +84,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spirobolida](Spirobolida.md)) 
+### #is_/same_as :: [Spirobolida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.md) 
 
 ### #is_/same_as :: [Spirobolida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.public.md) 
 

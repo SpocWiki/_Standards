@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - report-number
 - report_number

@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 3308
 Basisklassifikation: 86.00
 Colon_Classification: Z

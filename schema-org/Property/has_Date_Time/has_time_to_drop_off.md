@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dropoff-time
 - dropoff_time

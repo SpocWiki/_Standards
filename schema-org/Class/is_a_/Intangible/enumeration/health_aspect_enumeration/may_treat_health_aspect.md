@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - may-treat-health-aspect
 - may_treat_health_aspect

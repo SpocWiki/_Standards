@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - hearing-impaired-supported
 - hearing_impaired_supported

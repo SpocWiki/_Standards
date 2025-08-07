@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Yeoh Choo Kheng"
 - "Michelle Yeoh"
@@ -47,4 +47,21 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Michelle%20Yeoh)
 
 [[Tony_Leung_Chiu-wai]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Yeoh,Michelle](/_Standards/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.md) 
+
+### #is_/same_as :: [Yeoh,Michelle.public](/_public/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.public.md) 
+
+### #is_/same_as :: [Yeoh,Michelle.internal](/_internal/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.internal.md) 
+
+### #is_/same_as :: [Yeoh,Michelle.protect](/_protect/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.protect.md) 
+
+### #is_/same_as :: [Yeoh,Michelle.private](/_private/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.private.md) 
+
+### #is_/same_as :: [Yeoh,Michelle.personal](/_personal/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.personal.md) 
+
+### #is_/same_as :: [Yeoh,Michelle.secret](/_secret/Society/Communication/Media/Movie/Actor/Asian_Actor/Yeoh,Michelle.secret.md)
 

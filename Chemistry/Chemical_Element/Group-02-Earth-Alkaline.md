@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 
@@ -22,17 +22,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline.md) 
+### #is_/same_as :: [Group-02-Earth-Alkaline](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.md) 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline.public.md) 
+### #is_/same_as :: [Group-02-Earth-Alkaline.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.public.md) 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline.internal.md) 
+### #is_/same_as :: [Group-02-Earth-Alkaline.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.internal.md) 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline.protect.md) 
+### #is_/same_as :: [Group-02-Earth-Alkaline.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.protect.md) 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline.private.md) 
+### #is_/same_as :: [Group-02-Earth-Alkaline.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.private.md) 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline.personal.md) 
+### #is_/same_as :: [Group-02-Earth-Alkaline.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.personal.md) 
 
-### #is_/same_as :: [Group-02-Earth-Alkaline.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline.secret.md)
+### #is_/same_as :: [Group-02-Earth-Alkaline.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.secret.md)
 

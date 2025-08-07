@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - quantitative-value-distribution
 - quantitative_value_distribution

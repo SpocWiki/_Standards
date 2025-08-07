@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - approved-indication
 - approved_indication

@@ -56,3 +56,20 @@ P8189: "987007293764905171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cable%20television) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cable_Television](/_Standards/Society/Communication/Media/Television/Cable_Television.md) 
+
+### #is_/same_as :: [Cable_Television.public](/_public/Society/Communication/Media/Television/Cable_Television.public.md) 
+
+### #is_/same_as :: [Cable_Television.internal](/_internal/Society/Communication/Media/Television/Cable_Television.internal.md) 
+
+### #is_/same_as :: [Cable_Television.protect](/_protect/Society/Communication/Media/Television/Cable_Television.protect.md) 
+
+### #is_/same_as :: [Cable_Television.private](/_private/Society/Communication/Media/Television/Cable_Television.private.md) 
+
+### #is_/same_as :: [Cable_Television.personal](/_personal/Society/Communication/Media/Television/Cable_Television.personal.md) 
+
+### #is_/same_as :: [Cable_Television.secret](/_secret/Society/Communication/Media/Television/Cable_Television.secret.md)
+

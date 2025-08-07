@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - authorize-action
 - authorize_action

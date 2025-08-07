@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scutigeromorpha
 ---
 
@@ -67,7 +67,7 @@ Lower Cretaceous of Brazil. Palaeontology 44:489-495.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Notostigmophora](Notostigmophora.md)) 
+### #is_/same_as :: [Notostigmophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.md) 
 
 ### #is_/same_as :: [Notostigmophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Chilopoda/Notostigmophora.public.md) 
 

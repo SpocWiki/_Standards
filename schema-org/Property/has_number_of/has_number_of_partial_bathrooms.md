@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_partial_bathrooms
 - number-of-partial-bathrooms

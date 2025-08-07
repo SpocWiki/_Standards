@@ -24,3 +24,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Howl's%20Moving%20Castle%20(novel)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Howl’s Moving Castle](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.md) 
+
+### #is_/same_as :: [Howl’s Moving Castle.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.public.md) 
+
+### #is_/same_as :: [Howl’s Moving Castle.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.internal.md) 
+
+### #is_/same_as :: [Howl’s Moving Castle.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.protect.md) 
+
+### #is_/same_as :: [Howl’s Moving Castle.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.private.md) 
+
+### #is_/same_as :: [Howl’s Moving Castle.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.personal.md) 
+
+### #is_/same_as :: [Howl’s Moving Castle.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Howl’s Moving Castle.secret.md)
+

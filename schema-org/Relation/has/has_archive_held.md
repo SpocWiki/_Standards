@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - archive-held
 - archive_held

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - works-for
 - works_for

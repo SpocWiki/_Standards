@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Circinus|Zodiac~Circinus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Circinus.public|Zodiac~Circinus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Circinus.internal|Zodiac~Circinus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Circinus.protect|Zodiac~Circinus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Circinus.private|Zodiac~Circinus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Circinus.personal|Zodiac~Circinus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Circinus.secret|Zodiac~Circinus.secret]] 
+
+### #is_/same_as :: [Zodiac~Circinus](/_Standards/Astronomy/Star~Constellation/Zodiac~Circinus.md) 
+
+### #is_/same_as :: [Zodiac~Circinus.public](/_public/Astronomy/Star~Constellation/Zodiac~Circinus.public.md) 
+
+### #is_/same_as :: [Zodiac~Circinus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Circinus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Circinus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Circinus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Circinus.private](/_private/Astronomy/Star~Constellation/Zodiac~Circinus.private.md) 
+
+### #is_/same_as :: [Zodiac~Circinus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Circinus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Circinus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Circinus.secret.md)
+

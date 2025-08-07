@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Hercules|Zodiac~Hercules]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Hercules.public|Zodiac~Hercules.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Hercules.internal|Zodiac~Hercules.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Hercules.protect|Zodiac~Hercules.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Hercules.private|Zodiac~Hercules.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Hercules.personal|Zodiac~Hercules.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Hercules.secret|Zodiac~Hercules.secret]] 
+
+### #is_/same_as :: [Zodiac~Hercules](/_Standards/Astronomy/Star~Constellation/Zodiac~Hercules.md) 
+
+### #is_/same_as :: [Zodiac~Hercules.public](/_public/Astronomy/Star~Constellation/Zodiac~Hercules.public.md) 
+
+### #is_/same_as :: [Zodiac~Hercules.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Hercules.internal.md) 
+
+### #is_/same_as :: [Zodiac~Hercules.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Hercules.protect.md) 
+
+### #is_/same_as :: [Zodiac~Hercules.private](/_private/Astronomy/Star~Constellation/Zodiac~Hercules.private.md) 
+
+### #is_/same_as :: [Zodiac~Hercules.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Hercules.personal.md) 
+
+### #is_/same_as :: [Zodiac~Hercules.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Hercules.secret.md)
+

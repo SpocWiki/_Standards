@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - seating-type
 - seating_type

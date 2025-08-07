@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - inverse-of
 - inverse_of

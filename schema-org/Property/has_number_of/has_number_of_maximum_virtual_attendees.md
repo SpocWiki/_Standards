@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - maximum-virtual-attendee-capacity
 - maximum_virtual_attendee_capacity

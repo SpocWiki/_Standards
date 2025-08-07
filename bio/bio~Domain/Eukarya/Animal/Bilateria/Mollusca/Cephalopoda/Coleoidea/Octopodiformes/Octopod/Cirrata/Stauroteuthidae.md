@@ -1,4 +1,4 @@
-﻿---
+---
 title: Stauroteuthis
 ---
 
@@ -250,7 +250,7 @@ Copyright ::            © 2005 [Per R. Flood](mailto:per.r.flood@bathybiologica
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Stauroteuthidae](Stauroteuthidae.md)) 
+### #is_/same_as :: [Stauroteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Stauroteuthidae.md) 
 
 ### #is_/same_as :: [Stauroteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Stauroteuthidae.public.md) 
 

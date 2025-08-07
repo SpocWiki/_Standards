@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-alignment
 - educational_alignment

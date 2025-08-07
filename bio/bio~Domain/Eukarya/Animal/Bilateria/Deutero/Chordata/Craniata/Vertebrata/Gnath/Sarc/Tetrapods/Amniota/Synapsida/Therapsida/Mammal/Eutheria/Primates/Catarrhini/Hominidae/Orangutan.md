@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pongo
 - Orangutan
@@ -80,7 +80,7 @@ title: Pongo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Orangutan](Orangutan.md)) 
+### #is_/same_as :: [Orangutan](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Orangutan.md) 
 
 ### #is_/same_as :: [Orangutan.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Orangutan.public.md) 
 

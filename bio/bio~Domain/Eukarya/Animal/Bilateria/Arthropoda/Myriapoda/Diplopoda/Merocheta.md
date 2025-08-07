@@ -1,4 +1,4 @@
-﻿---
+---
 title: Polydesmida
 ---
 
@@ -92,7 +92,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Merocheta](Merocheta.md)) 
+### #is_/same_as :: [Merocheta](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.md) 
 
 ### #is_/same_as :: [Merocheta.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.public.md) 
 

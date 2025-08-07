@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jamie Lee Curtis"
 ---
@@ -51,4 +51,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jamie%20Lee%20Curtis)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Curtis,Jamie_Lee](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.md) 
+
+### #is_/same_as :: [Curtis,Jamie_Lee.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.public.md) 
+
+### #is_/same_as :: [Curtis,Jamie_Lee.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.internal.md) 
+
+### #is_/same_as :: [Curtis,Jamie_Lee.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.protect.md) 
+
+### #is_/same_as :: [Curtis,Jamie_Lee.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.private.md) 
+
+### #is_/same_as :: [Curtis,Jamie_Lee.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.personal.md) 
+
+### #is_/same_as :: [Curtis,Jamie_Lee.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Jamie_Lee.secret.md)
 

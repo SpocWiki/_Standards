@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 08.38
 Colon_Classification: R4
 Commons_category: Ethics

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - advertiser-content-article
 - advertiser_content_article

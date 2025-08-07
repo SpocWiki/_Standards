@@ -1,4 +1,4 @@
-﻿---
+---
 category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59690478,59690478]]'
 Commons_category: Admirals
 depicted_by: '[[_Standards/WikiData/WD~Portrait_of_an_admiral,131579657]]'
@@ -38,4 +38,21 @@ U_S_National_Archives_Identifier: 10665246
 > **Admiral** is one of the highest ranks in many navies. In the Commonwealth nations and the United States, a "full" admiral is equivalent to a "full" general in the army or the air force. Admiral is ranked above vice admiral and below admiral of the fleet, or fleet admiral.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Admiral) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Admiral](/_Standards/Society/Military/Military_Rank/Admiral.md) 
+
+### #is_/same_as :: [Admiral.public](/_public/Society/Military/Military_Rank/Admiral.public.md) 
+
+### #is_/same_as :: [Admiral.internal](/_internal/Society/Military/Military_Rank/Admiral.internal.md) 
+
+### #is_/same_as :: [Admiral.protect](/_protect/Society/Military/Military_Rank/Admiral.protect.md) 
+
+### #is_/same_as :: [Admiral.private](/_private/Society/Military/Military_Rank/Admiral.private.md) 
+
+### #is_/same_as :: [Admiral.personal](/_personal/Society/Military/Military_Rank/Admiral.personal.md) 
+
+### #is_/same_as :: [Admiral.secret](/_secret/Society/Military/Military_Rank/Admiral.secret.md)
 

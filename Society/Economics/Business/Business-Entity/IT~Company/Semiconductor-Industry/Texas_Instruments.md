@@ -74,3 +74,20 @@ The [7400 series](https://en.wikipedia.org/wiki/7400_series "7400 series") of�
 developed by Texas Instruments in the 1960s, 
 popularized the use of integrated circuits in computer logic.
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Texas_Instruments](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.md) 
+
+### #is_/same_as :: [Texas_Instruments.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.public.md) 
+
+### #is_/same_as :: [Texas_Instruments.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.internal.md) 
+
+### #is_/same_as :: [Texas_Instruments.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.protect.md) 
+
+### #is_/same_as :: [Texas_Instruments.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.private.md) 
+
+### #is_/same_as :: [Texas_Instruments.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.personal.md) 
+
+### #is_/same_as :: [Texas_Instruments.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Texas_Instruments.secret.md)
+

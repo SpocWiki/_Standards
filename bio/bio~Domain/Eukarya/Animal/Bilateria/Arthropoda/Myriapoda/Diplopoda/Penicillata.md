@@ -1,4 +1,4 @@
-﻿---
+---
 title: Polyxenida
 ---
 
@@ -67,7 +67,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Penicillata](Penicillata.md)) 
+### #is_/same_as :: [Penicillata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.md) 
 
 ### #is_/same_as :: [Penicillata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.public.md) 
 

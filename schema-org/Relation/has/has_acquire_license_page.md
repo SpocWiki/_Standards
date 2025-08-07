@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - acquire-license-page
 - acquire_license_page

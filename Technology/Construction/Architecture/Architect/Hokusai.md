@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Katsushika Hokusai"
 child:

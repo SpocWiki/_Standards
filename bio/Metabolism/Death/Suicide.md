@@ -1,4 +1,4 @@
-﻿---
+---
 Archive_of_Our_Own_tag: Suicide
 Commons_category: Suicide
 described_by_source:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - uses-device
 - using_device

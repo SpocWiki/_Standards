@@ -22,4 +22,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bertelsmann)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bertelsmann](/_Standards/Society/Communication/Media/Book/Publisher/Bertelsmann.md) 
+
+### #is_/same_as :: [Bertelsmann.public](/_public/Society/Communication/Media/Book/Publisher/Bertelsmann.public.md) 
+
+### #is_/same_as :: [Bertelsmann.internal](/_internal/Society/Communication/Media/Book/Publisher/Bertelsmann.internal.md) 
+
+### #is_/same_as :: [Bertelsmann.protect](/_protect/Society/Communication/Media/Book/Publisher/Bertelsmann.protect.md) 
+
+### #is_/same_as :: [Bertelsmann.private](/_private/Society/Communication/Media/Book/Publisher/Bertelsmann.private.md) 
+
+### #is_/same_as :: [Bertelsmann.personal](/_personal/Society/Communication/Media/Book/Publisher/Bertelsmann.personal.md) 
+
+### #is_/same_as :: [Bertelsmann.secret](/_secret/Society/Communication/Media/Book/Publisher/Bertelsmann.secret.md)
 

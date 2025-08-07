@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - elevation_meters
 - elevation

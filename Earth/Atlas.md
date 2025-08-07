@@ -47,3 +47,19 @@ entry_in_abbreviations_table: атл.
 > [Wikipedia](https://en.wikipedia.org/wiki/Atlas) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Atlas](/_Standards/Earth/Atlas.md) 
+
+### #is_/same_as :: [Atlas.public](/_public/Earth/Atlas.public.md) 
+
+### #is_/same_as :: [Atlas.internal](/_internal/Earth/Atlas.internal.md) 
+
+### #is_/same_as :: [Atlas.protect](/_protect/Earth/Atlas.protect.md) 
+
+### #is_/same_as :: [Atlas.private](/_private/Earth/Atlas.private.md) 
+
+### #is_/same_as :: [Atlas.personal](/_personal/Earth/Atlas.personal.md) 
+
+### #is_/same_as :: [Atlas.secret](/_secret/Earth/Atlas.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - activate-action
 - activate_action

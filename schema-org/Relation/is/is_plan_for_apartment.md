@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-plan-for-apartment
 - plan_for_apartment

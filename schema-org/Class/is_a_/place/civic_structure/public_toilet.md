@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - public-toilet
 - public_toilet

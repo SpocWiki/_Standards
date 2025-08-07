@@ -1,4 +1,4 @@
-﻿---
+---
 Alexa_rank: 109
 aliases:
 - "New York Times"
@@ -182,3 +182,21 @@ X_Twitter_username:
 > and has received 137 [[Pulitzer_Prize]]s as of 2023, the most of any publication, among other accolades.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20New%20York%20Times)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [New_York_Times](/_Standards/Society/Communication/Media/Journalism/Newspaper/New_York_Times.md) 
+
+### #is_/same_as :: [New_York_Times.public](/_public/Society/Communication/Media/Journalism/Newspaper/New_York_Times.public.md) 
+
+### #is_/same_as :: [New_York_Times.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/New_York_Times.internal.md) 
+
+### #is_/same_as :: [New_York_Times.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/New_York_Times.protect.md) 
+
+### #is_/same_as :: [New_York_Times.private](/_private/Society/Communication/Media/Journalism/Newspaper/New_York_Times.private.md) 
+
+### #is_/same_as :: [New_York_Times.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/New_York_Times.personal.md) 
+
+### #is_/same_as :: [New_York_Times.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/New_York_Times.secret.md)
+

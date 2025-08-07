@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - chemical-composition
 - chemical_composition

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Latrodectus mirabilis"
 ---
 
@@ -109,7 +109,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[mirabilis](mirabilis.md)) 
+### #is_/same_as :: [mirabilis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/mirabilis.md) 
 
 ### #is_/same_as :: [mirabilis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/mirabilis.public.md) 
 

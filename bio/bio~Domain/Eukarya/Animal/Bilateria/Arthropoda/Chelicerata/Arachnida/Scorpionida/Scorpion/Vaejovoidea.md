@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vaejovoidea
 ---
 
@@ -50,7 +50,7 @@ of Medical Entomology, 29(3):407-422.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Vaejovoidea](Vaejovoidea.md)) 
+### #is_/same_as :: [Vaejovoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea.md) 
 
 ### #is_/same_as :: [Vaejovoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea.public.md) 
 

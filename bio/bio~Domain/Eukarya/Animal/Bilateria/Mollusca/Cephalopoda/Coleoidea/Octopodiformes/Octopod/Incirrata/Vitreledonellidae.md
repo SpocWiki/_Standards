@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Vitreledonella richardi"
 ---
 
@@ -173,7 +173,7 @@ Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Vitreledonellidae](Vitreledonellidae.md)) 
+### #is_/same_as :: [Vitreledonellidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.md) 
 
 ### #is_/same_as :: [Vitreledonellidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Vitreledonellidae.public.md) 
 

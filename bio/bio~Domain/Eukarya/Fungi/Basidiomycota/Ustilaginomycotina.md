@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ustilaginomycetes
 ---
 
@@ -336,7 +336,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ustilaginomycotina](Ustilaginomycotina.md)) 
+### #is_/same_as :: [Ustilaginomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.md) 
 
 ### #is_/same_as :: [Ustilaginomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.public.md) 
 

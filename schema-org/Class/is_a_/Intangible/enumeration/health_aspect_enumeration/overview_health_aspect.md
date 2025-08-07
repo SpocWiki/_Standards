@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - overview-health-aspect
 - overview_health_aspect

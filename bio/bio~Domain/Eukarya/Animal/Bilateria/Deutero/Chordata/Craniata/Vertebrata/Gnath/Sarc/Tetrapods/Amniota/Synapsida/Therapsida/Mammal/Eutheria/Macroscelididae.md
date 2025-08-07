@@ -1,4 +1,4 @@
-﻿---
+---
 title: Macroscelididae
 ---
 
@@ -104,7 +104,7 @@ Copyright ::                           © 2006 [Joachim S. Müller](http://flick
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Macroscelididae](Macroscelididae.md)) 
+### #is_/same_as :: [Macroscelididae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae.md) 
 
 ### #is_/same_as :: [Macroscelididae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Macroscelididae.public.md) 
 

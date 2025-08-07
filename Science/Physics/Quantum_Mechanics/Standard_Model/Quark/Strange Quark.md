@@ -40,3 +40,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Strange%20quark.svg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strange%20quark) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Strange Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.md) 
+
+### #is_/same_as :: [Strange Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.public.md) 
+
+### #is_/same_as :: [Strange Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.internal.md) 
+
+### #is_/same_as :: [Strange Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.protect.md) 
+
+### #is_/same_as :: [Strange Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.private.md) 
+
+### #is_/same_as :: [Strange Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.personal.md) 
+
+### #is_/same_as :: [Strange Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Quark/Strange Quark.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - some-products
 - some_products

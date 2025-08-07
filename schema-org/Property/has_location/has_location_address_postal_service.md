@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-postal-address
 - service_postal_address

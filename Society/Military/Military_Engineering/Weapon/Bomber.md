@@ -33,3 +33,20 @@ Commons_category: Bomber aircraft
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bomber) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bomber](/_Standards/Society/Military/Military_Engineering/Weapon/Bomber.md) 
+
+### #is_/same_as :: [Bomber.public](/_public/Society/Military/Military_Engineering/Weapon/Bomber.public.md) 
+
+### #is_/same_as :: [Bomber.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomber.internal.md) 
+
+### #is_/same_as :: [Bomber.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomber.protect.md) 
+
+### #is_/same_as :: [Bomber.private](/_private/Society/Military/Military_Engineering/Weapon/Bomber.private.md) 
+
+### #is_/same_as :: [Bomber.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomber.personal.md) 
+
+### #is_/same_as :: [Bomber.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomber.secret.md)
+

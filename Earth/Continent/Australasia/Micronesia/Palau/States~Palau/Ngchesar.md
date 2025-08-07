@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ngchesar
 confidential: public

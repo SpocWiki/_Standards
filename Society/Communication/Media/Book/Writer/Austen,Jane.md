@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jane Austen"
 Archive_of_Our_Own_tag: "AUSTEN Jane - Works"

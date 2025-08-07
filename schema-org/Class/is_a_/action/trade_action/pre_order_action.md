@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - pre-order-action
 - pre_order_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - release-of
 - release_of

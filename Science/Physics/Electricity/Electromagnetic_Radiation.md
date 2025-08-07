@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Electromagnetic radiation"
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'

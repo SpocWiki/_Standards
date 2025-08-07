@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Atlantic horseshoe crab"
 - "Limulus polyphemus"
@@ -70,7 +70,7 @@ Copyright ::           © 2000 [John White](mailto:reptiles@erols.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Limulus_polyphemus](Limulus_polyphemus.md)) 
+### #is_/same_as :: [Limulus_polyphemus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.md) 
 
 ### #is_/same_as :: [Limulus_polyphemus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.public.md) 
 

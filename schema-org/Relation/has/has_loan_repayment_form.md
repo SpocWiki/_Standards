@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - loan-repayment-form
 - loan_repayment_form

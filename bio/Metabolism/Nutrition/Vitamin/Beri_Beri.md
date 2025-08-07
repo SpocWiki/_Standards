@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Beri Beri"
 - "Thiamine deficiency"

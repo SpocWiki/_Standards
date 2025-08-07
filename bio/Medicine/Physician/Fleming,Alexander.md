@@ -117,3 +117,20 @@ Krugosvet_article: nauka_i_tehnika/biologiya/FLEMING_ALEKSANDER.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Fleming) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fleming,Alexander](/_Standards/bio/Medicine/Physician/Fleming,Alexander.md) 
+
+### #is_/same_as :: [Fleming,Alexander.public](/_public/bio/Medicine/Physician/Fleming,Alexander.public.md) 
+
+### #is_/same_as :: [Fleming,Alexander.internal](/_internal/bio/Medicine/Physician/Fleming,Alexander.internal.md) 
+
+### #is_/same_as :: [Fleming,Alexander.protect](/_protect/bio/Medicine/Physician/Fleming,Alexander.protect.md) 
+
+### #is_/same_as :: [Fleming,Alexander.private](/_private/bio/Medicine/Physician/Fleming,Alexander.private.md) 
+
+### #is_/same_as :: [Fleming,Alexander.personal](/_personal/bio/Medicine/Physician/Fleming,Alexander.personal.md) 
+
+### #is_/same_as :: [Fleming,Alexander.secret](/_secret/bio/Medicine/Physician/Fleming,Alexander.secret.md)
+

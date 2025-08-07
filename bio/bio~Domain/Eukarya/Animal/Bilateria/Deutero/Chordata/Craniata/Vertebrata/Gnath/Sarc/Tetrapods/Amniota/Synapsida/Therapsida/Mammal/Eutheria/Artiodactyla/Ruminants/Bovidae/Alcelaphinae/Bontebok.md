@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Damaliscus pygargus"
 - Bontebok
@@ -67,7 +67,7 @@ Copyright ::            © 2004 [marsden.joseph](http://flickr.com/people/805322
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bontebok](Bontebok.md)) 
+### #is_/same_as :: [Bontebok](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Bontebok.md) 
 
 ### #is_/same_as :: [Bontebok.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Alcelaphinae/Bontebok.public.md) 
 

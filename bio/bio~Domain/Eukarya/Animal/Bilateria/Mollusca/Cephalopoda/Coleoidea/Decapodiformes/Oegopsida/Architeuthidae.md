@@ -1,4 +1,4 @@
-﻿---
+---
 title: Architeuthis
 ---
 
@@ -382,7 +382,7 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Architeuthidae](Architeuthidae.md)) 
+### #is_/same_as :: [Architeuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.md) 
 
 ### #is_/same_as :: [Architeuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.public.md) 
 

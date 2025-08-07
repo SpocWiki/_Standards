@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Anthropozän
 has_id_wikidata: Q26841

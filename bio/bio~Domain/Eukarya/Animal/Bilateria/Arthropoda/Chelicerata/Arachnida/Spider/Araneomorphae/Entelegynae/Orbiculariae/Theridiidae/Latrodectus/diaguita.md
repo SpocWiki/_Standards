@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Latrodectus diaguita"
 ---
 
@@ -92,7 +92,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[diaguita](diaguita.md)) 
+### #is_/same_as :: [diaguita](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/diaguita.md) 
 
 ### #is_/same_as :: [diaguita.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/diaguita.public.md) 
 

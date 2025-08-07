@@ -37,3 +37,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/RoboCop)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [RoboCop](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.md) 
+
+### #is_/same_as :: [RoboCop.public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.public.md) 
+
+### #is_/same_as :: [RoboCop.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.internal.md) 
+
+### #is_/same_as :: [RoboCop.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.protect.md) 
+
+### #is_/same_as :: [RoboCop.private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.private.md) 
+
+### #is_/same_as :: [RoboCop.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.personal.md) 
+
+### #is_/same_as :: [RoboCop.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/RoboCop.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - traditional-chinese
 - traditional_chinese

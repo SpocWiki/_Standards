@@ -192,3 +192,20 @@ MeSH_tree_code: C14.907.489
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertension) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Arterial_hypertension](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.md) 
+
+### #is_/same_as :: [Arterial_hypertension.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.public.md) 
+
+### #is_/same_as :: [Arterial_hypertension.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.internal.md) 
+
+### #is_/same_as :: [Arterial_hypertension.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.protect.md) 
+
+### #is_/same_as :: [Arterial_hypertension.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.private.md) 
+
+### #is_/same_as :: [Arterial_hypertension.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.personal.md) 
+
+### #is_/same_as :: [Arterial_hypertension.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Arterial_hypertension.secret.md)
+

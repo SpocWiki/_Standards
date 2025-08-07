@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legal-value-level
 - legal_value_level

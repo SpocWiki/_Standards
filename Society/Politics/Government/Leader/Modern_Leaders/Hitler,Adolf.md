@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Adolf Hitler"
 archives_at: '[[_Standards/WikiData/WD~Herbert_Hoover_Presidential_Library_and_Museum,5734521]]'
@@ -120,17 +120,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hitler,Adolf](Hitler,Adolf.md)) 
+### #is_/same_as :: [Hitler,Adolf](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.md) 
 
-### #is_/same_as :: [Hitler,Adolf.public](/_public/Society/Government/Leader/Modern_Leaders/Hitler,Adolf.public.md) 
+### #is_/same_as :: [Hitler,Adolf.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.public.md) 
 
-### #is_/same_as :: [Hitler,Adolf.internal](/_internal/Society/Government/Leader/Modern_Leaders/Hitler,Adolf.internal.md) 
+### #is_/same_as :: [Hitler,Adolf.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.internal.md) 
 
-### #is_/same_as :: [Hitler,Adolf.protect](/_protect/Society/Government/Leader/Modern_Leaders/Hitler,Adolf.protect.md) 
+### #is_/same_as :: [Hitler,Adolf.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.protect.md) 
 
-### #is_/same_as :: [Hitler,Adolf.private](/_private/Society/Government/Leader/Modern_Leaders/Hitler,Adolf.private.md) 
+### #is_/same_as :: [Hitler,Adolf.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.private.md) 
 
-### #is_/same_as :: [Hitler,Adolf.personal](/_personal/Society/Government/Leader/Modern_Leaders/Hitler,Adolf.personal.md) 
+### #is_/same_as :: [Hitler,Adolf.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.personal.md) 
 
-### #is_/same_as :: [Hitler,Adolf.secret](/_secret/Society/Government/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
+### #is_/same_as :: [Hitler,Adolf.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
 

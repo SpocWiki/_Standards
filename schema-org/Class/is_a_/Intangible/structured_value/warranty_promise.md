@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - warranty-promise
 - warranty_promise

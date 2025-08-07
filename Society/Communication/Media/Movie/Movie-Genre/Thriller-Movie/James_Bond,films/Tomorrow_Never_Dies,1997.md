@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tomorrow Never Dies"
 ---
@@ -25,4 +25,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tomorrow%20Never%20Dies)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.md) 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.public.md) 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.internal.md) 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.protect.md) 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.private.md) 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.personal.md) 
+
+### #is_/same_as :: [Tomorrow_Never_Dies,1997.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.secret.md)
 

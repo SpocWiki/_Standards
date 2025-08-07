@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 16318651
 Archive_of_Our_Own_tag: Water
 ASHRAE_refrigerant_number: 718
@@ -269,17 +269,17 @@ ZVG_number: 1140
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water](/_Standards/chemic/inOrganic/Water.md) 
+### #is_/same_as :: [Water](/_Standards/Chemistry/inOrganic/Water.md) 
 
-### #is_/same_as :: [Water.public](/_public/chemic/inOrganic/Water.public.md) 
+### #is_/same_as :: [Water.public](/_public/Chemistry/inOrganic/Water.public.md) 
 
-### #is_/same_as :: [Water.internal](/_internal/chemic/inOrganic/Water.internal.md) 
+### #is_/same_as :: [Water.internal](/_internal/Chemistry/inOrganic/Water.internal.md) 
 
-### #is_/same_as :: [Water.protect](/_protect/chemic/inOrganic/Water.protect.md) 
+### #is_/same_as :: [Water.protect](/_protect/Chemistry/inOrganic/Water.protect.md) 
 
-### #is_/same_as :: [Water.private](/_private/chemic/inOrganic/Water.private.md) 
+### #is_/same_as :: [Water.private](/_private/Chemistry/inOrganic/Water.private.md) 
 
-### #is_/same_as :: [Water.personal](/_personal/chemic/inOrganic/Water.personal.md) 
+### #is_/same_as :: [Water.personal](/_personal/Chemistry/inOrganic/Water.personal.md) 
 
-### #is_/same_as :: [Water.secret](/_secret/chemic/inOrganic/Water.secret.md)
+### #is_/same_as :: [Water.secret](/_secret/Chemistry/inOrganic/Water.secret.md)
 

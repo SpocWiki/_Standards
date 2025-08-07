@@ -50,5 +50,19 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LogicGates.svg
 > [Wikipedia](https://en.wikipedia.org/wiki/Boolean%20algebra)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Boolean_Algebra](/_Standards/Mathematics/Algebra/Boolean_Algebra.md) 
+
+### #is_/same_as :: [Boolean_Algebra.public](/_public/Mathematics/Algebra/Boolean_Algebra.public.md) 
+
+### #is_/same_as :: [Boolean_Algebra.internal](/_internal/Mathematics/Algebra/Boolean_Algebra.internal.md) 
+
+### #is_/same_as :: [Boolean_Algebra.protect](/_protect/Mathematics/Algebra/Boolean_Algebra.protect.md) 
+
+### #is_/same_as :: [Boolean_Algebra.private](/_private/Mathematics/Algebra/Boolean_Algebra.private.md) 
+
+### #is_/same_as :: [Boolean_Algebra.personal](/_personal/Mathematics/Algebra/Boolean_Algebra.personal.md) 
+
+### #is_/same_as :: [Boolean_Algebra.secret](/_secret/Mathematics/Algebra/Boolean_Algebra.secret.md)
 

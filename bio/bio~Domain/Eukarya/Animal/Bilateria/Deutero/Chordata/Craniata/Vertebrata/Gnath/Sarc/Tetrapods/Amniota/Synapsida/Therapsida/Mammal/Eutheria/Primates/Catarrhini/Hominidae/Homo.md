@@ -1,4 +1,4 @@
-﻿---
+---
 title: Homo
 ---
 
@@ -60,7 +60,7 @@ title: Homo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Homo](Homo.md)) 
+### #is_/same_as :: [Homo](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo.md) 
 
 ### #is_/same_as :: [Homo.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo.public.md) 
 

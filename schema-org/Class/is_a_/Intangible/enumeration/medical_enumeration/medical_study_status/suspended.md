@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suspended
 - suspended

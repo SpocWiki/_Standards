@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - suitable-for-diet
 - suitable_for_diet

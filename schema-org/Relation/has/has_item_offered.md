@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - item-offered
 - item_offered

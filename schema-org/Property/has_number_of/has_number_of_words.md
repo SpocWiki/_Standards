@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - word-count
 - word_count

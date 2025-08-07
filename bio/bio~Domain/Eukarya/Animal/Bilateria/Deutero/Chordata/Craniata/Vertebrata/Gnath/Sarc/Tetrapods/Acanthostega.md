@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Acanthostega gunnari"
 ---
 
@@ -254,7 +254,7 @@ Copyright ::            © 1997 Richard Hammond
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Acanthostega](Acanthostega.md)) 
+### #is_/same_as :: [Acanthostega](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Acanthostega.md) 
 
 ### #is_/same_as :: [Acanthostega.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Acanthostega.public.md) 
 

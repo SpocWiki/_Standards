@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - character-attribute
 - character_attribute

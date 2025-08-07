@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Colonialism
 described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]'
@@ -33,17 +33,17 @@ UMLS_CUI: C0009372
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Colonialism](Colonialism.md)) 
+### #is_/same_as :: [Colonialism](/_Standards/Society/Politics/Government/Colonialism.md) 
 
-### #is_/same_as :: [Colonialism.public](/_public/Society/Government/Colonialism.public.md) 
+### #is_/same_as :: [Colonialism.public](/_public/Society/Politics/Government/Colonialism.public.md) 
 
-### #is_/same_as :: [Colonialism.internal](/_internal/Society/Government/Colonialism.internal.md) 
+### #is_/same_as :: [Colonialism.internal](/_internal/Society/Politics/Government/Colonialism.internal.md) 
 
-### #is_/same_as :: [Colonialism.protect](/_protect/Society/Government/Colonialism.protect.md) 
+### #is_/same_as :: [Colonialism.protect](/_protect/Society/Politics/Government/Colonialism.protect.md) 
 
-### #is_/same_as :: [Colonialism.private](/_private/Society/Government/Colonialism.private.md) 
+### #is_/same_as :: [Colonialism.private](/_private/Society/Politics/Government/Colonialism.private.md) 
 
-### #is_/same_as :: [Colonialism.personal](/_personal/Society/Government/Colonialism.personal.md) 
+### #is_/same_as :: [Colonialism.personal](/_personal/Society/Politics/Government/Colonialism.personal.md) 
 
-### #is_/same_as :: [Colonialism.secret](/_secret/Society/Government/Colonialism.secret.md)
+### #is_/same_as :: [Colonialism.secret](/_secret/Society/Politics/Government/Colonialism.secret.md)
 

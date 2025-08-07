@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tv-season
 - tv_season

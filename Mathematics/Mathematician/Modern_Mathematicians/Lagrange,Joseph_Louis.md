@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Joseph Louis Lagrange"
 - "Giuseppe Luigi Lagrangia"

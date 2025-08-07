@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-broadcast-channel
 - broadcast_channel

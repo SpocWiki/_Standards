@@ -23,3 +23,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gandhi%20(film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gandhi(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).md) 
+
+### #is_/same_as :: [Gandhi(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).public.md) 
+
+### #is_/same_as :: [Gandhi(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).internal.md) 
+
+### #is_/same_as :: [Gandhi(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).protect.md) 
+
+### #is_/same_as :: [Gandhi(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).private.md) 
+
+### #is_/same_as :: [Gandhi(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).personal.md) 
+
+### #is_/same_as :: [Gandhi(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Gandhi(film).secret.md)
+

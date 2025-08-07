@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - embedded-text-caption
 - embedded_text_caption

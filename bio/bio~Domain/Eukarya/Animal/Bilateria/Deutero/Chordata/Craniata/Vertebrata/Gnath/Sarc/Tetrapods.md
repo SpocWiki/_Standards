@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Tetrapods
 - "Terrestrial Vertebrates"
@@ -497,7 +497,7 @@ Copyright ::            © 1995 Alfred Kamajian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tetrapods](Tetrapods.md)) 
+### #is_/same_as :: [Tetrapods](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.md) 
 
 ### #is_/same_as :: [Tetrapods.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.public.md) 
 

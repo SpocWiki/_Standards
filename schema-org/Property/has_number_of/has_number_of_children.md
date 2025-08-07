@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - num-children
 - num_children

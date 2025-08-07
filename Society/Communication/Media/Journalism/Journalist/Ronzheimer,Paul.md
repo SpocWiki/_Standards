@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Paul_Ronzheimer
 - "Paul Ronzheimer"
@@ -18,4 +18,21 @@ aliases:
 > about global issues.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Ronzheimer) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ronzheimer,Paul](/_Standards/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.md) 
+
+### #is_/same_as :: [Ronzheimer,Paul.public](/_public/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.public.md) 
+
+### #is_/same_as :: [Ronzheimer,Paul.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.internal.md) 
+
+### #is_/same_as :: [Ronzheimer,Paul.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.protect.md) 
+
+### #is_/same_as :: [Ronzheimer,Paul.private](/_private/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.private.md) 
+
+### #is_/same_as :: [Ronzheimer,Paul.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.personal.md) 
+
+### #is_/same_as :: [Ronzheimer,Paul.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.secret.md)
 

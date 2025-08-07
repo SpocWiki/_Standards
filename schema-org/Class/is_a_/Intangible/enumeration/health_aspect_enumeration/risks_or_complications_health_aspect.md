@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - risks-or-complications-health-aspect
 - risks_or_complications_health_aspect

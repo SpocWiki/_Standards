@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tomoceridae
 ---
 
@@ -70,7 +70,7 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tomoceridae](Tomoceridae.md)) 
+### #is_/same_as :: [Tomoceridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.md) 
 
 ### #is_/same_as :: [Tomoceridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.public.md) 
 

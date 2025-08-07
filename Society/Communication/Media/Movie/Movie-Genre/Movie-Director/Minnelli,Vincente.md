@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vincente Minnelli"
 ---
@@ -49,4 +49,21 @@ aliases:
 > Ten years later, in 1986, Minnelli died at his Beverly Hills residence, at age 83.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vincente%20Minnelli)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Minnelli,Vincente](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.md) 
+
+### #is_/same_as :: [Minnelli,Vincente.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.public.md) 
+
+### #is_/same_as :: [Minnelli,Vincente.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.internal.md) 
+
+### #is_/same_as :: [Minnelli,Vincente.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.protect.md) 
+
+### #is_/same_as :: [Minnelli,Vincente.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.private.md) 
+
+### #is_/same_as :: [Minnelli,Vincente.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.personal.md) 
+
+### #is_/same_as :: [Minnelli,Vincente.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Minnelli,Vincente.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stainless steel"
 - inox
@@ -60,17 +60,17 @@ UMLS_CUI: C0038126
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stainless_Steel](/_Standards/chemic/Material/Metallurgy/Alloy/Stainless_Steel.md) 
+### #is_/same_as :: [Stainless_Steel](/_Standards/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.md) 
 
-### #is_/same_as :: [Stainless_Steel.public](/_public/chemic/Material/Metallurgy/Alloy/Stainless_Steel.public.md) 
+### #is_/same_as :: [Stainless_Steel.public](/_public/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.public.md) 
 
-### #is_/same_as :: [Stainless_Steel.internal](/_internal/chemic/Material/Metallurgy/Alloy/Stainless_Steel.internal.md) 
+### #is_/same_as :: [Stainless_Steel.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.internal.md) 
 
-### #is_/same_as :: [Stainless_Steel.protect](/_protect/chemic/Material/Metallurgy/Alloy/Stainless_Steel.protect.md) 
+### #is_/same_as :: [Stainless_Steel.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.protect.md) 
 
-### #is_/same_as :: [Stainless_Steel.private](/_private/chemic/Material/Metallurgy/Alloy/Stainless_Steel.private.md) 
+### #is_/same_as :: [Stainless_Steel.private](/_private/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.private.md) 
 
-### #is_/same_as :: [Stainless_Steel.personal](/_personal/chemic/Material/Metallurgy/Alloy/Stainless_Steel.personal.md) 
+### #is_/same_as :: [Stainless_Steel.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.personal.md) 
 
-### #is_/same_as :: [Stainless_Steel.secret](/_secret/chemic/Material/Metallurgy/Alloy/Stainless_Steel.secret.md)
+### #is_/same_as :: [Stainless_Steel.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.secret.md)
 

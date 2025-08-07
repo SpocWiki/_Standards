@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - office-equipment-store
 - office_equipment_store

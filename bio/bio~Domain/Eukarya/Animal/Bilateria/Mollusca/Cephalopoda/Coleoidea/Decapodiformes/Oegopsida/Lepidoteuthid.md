@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lepidoteuthid families"
 ---
 
@@ -154,7 +154,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lepidoteuthid](Lepidoteuthid.md)) 
+### #is_/same_as :: [Lepidoteuthid](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.md) 
 
 ### #is_/same_as :: [Lepidoteuthid.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.public.md) 
 

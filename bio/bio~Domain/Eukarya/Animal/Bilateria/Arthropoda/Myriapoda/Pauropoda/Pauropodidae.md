@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pauropodidae
 ---
 
@@ -56,7 +56,7 @@ title: Pauropodidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pauropodidae](Pauropodidae.md)) 
+### #is_/same_as :: [Pauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.md) 
 
 ### #is_/same_as :: [Pauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Pauropodidae.public.md) 
 

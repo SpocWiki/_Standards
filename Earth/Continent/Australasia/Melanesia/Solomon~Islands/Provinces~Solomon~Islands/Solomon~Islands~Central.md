@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Solomon~Islands~Central
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - work-example
 - work_example

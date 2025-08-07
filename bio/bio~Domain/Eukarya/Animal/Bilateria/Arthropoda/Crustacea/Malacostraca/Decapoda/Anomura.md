@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Anomura
 - Anomala
@@ -65,7 +65,7 @@ Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Anomura](Anomura.md)) 
+### #is_/same_as :: [Anomura](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.md) 
 
 ### #is_/same_as :: [Anomura.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.public.md) 
 

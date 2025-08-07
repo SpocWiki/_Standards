@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - failed-action-status
 - failed_action_status

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - how-to-direction
 - how_to_direction

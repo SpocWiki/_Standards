@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~silicon_exposure,21175300]]'
 atomic_number: 14
 boiling_point: 4271
@@ -135,17 +135,17 @@ ZVG_number: 8110
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silicon](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Silicon.md) 
+### #is_/same_as :: [Silicon](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.md) 
 
-### #is_/same_as :: [Silicon.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Silicon.public.md) 
+### #is_/same_as :: [Silicon.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public.md) 
 
-### #is_/same_as :: [Silicon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Silicon.internal.md) 
+### #is_/same_as :: [Silicon.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal.md) 
 
-### #is_/same_as :: [Silicon.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Silicon.protect.md) 
+### #is_/same_as :: [Silicon.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect.md) 
 
-### #is_/same_as :: [Silicon.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Silicon.private.md) 
+### #is_/same_as :: [Silicon.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private.md) 
 
-### #is_/same_as :: [Silicon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Silicon.personal.md) 
+### #is_/same_as :: [Silicon.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal.md) 
 
-### #is_/same_as :: [Silicon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Silicon.secret.md)
+### #is_/same_as :: [Silicon.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret.md)
 

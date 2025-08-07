@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Endocrine system"
 Commons_gallery: "Endocrine system"
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~endocrine_system_development,21425993]]'

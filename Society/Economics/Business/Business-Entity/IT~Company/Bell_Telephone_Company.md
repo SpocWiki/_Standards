@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - American_Bell_Telephone_Company
 ---
@@ -49,3 +49,21 @@ In 1899, American Telephone & Telegraph (AT&T) acquired the assets of its parent
 American Bell had created AT&T to provide long-distance calls between New York and Chicago and beyond. 
 AT&T became the parent of American Bell Telephone Company, and thus the head of the Bell System, 
 because regulatory and tax rules were leaner in New York than in Boston, where American Bell was headquartered.
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bell_Telephone_Company](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.md) 
+
+### #is_/same_as :: [Bell_Telephone_Company.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.public.md) 
+
+### #is_/same_as :: [Bell_Telephone_Company.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.internal.md) 
+
+### #is_/same_as :: [Bell_Telephone_Company.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.protect.md) 
+
+### #is_/same_as :: [Bell_Telephone_Company.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.private.md) 
+
+### #is_/same_as :: [Bell_Telephone_Company.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.personal.md) 
+
+### #is_/same_as :: [Bell_Telephone_Company.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Bell_Telephone_Company.secret.md)
+

@@ -33,3 +33,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/2020%20Beirut%20explosion)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [2020-Beirut_Explosion](/_Standards/Society/Disaster/2020-Beirut_Explosion.md) 
+
+### #is_/same_as :: [2020-Beirut_Explosion.public](/_public/Society/Disaster/2020-Beirut_Explosion.public.md) 
+
+### #is_/same_as :: [2020-Beirut_Explosion.internal](/_internal/Society/Disaster/2020-Beirut_Explosion.internal.md) 
+
+### #is_/same_as :: [2020-Beirut_Explosion.protect](/_protect/Society/Disaster/2020-Beirut_Explosion.protect.md) 
+
+### #is_/same_as :: [2020-Beirut_Explosion.private](/_private/Society/Disaster/2020-Beirut_Explosion.private.md) 
+
+### #is_/same_as :: [2020-Beirut_Explosion.personal](/_personal/Society/Disaster/2020-Beirut_Explosion.personal.md) 
+
+### #is_/same_as :: [2020-Beirut_Explosion.secret](/_secret/Society/Disaster/2020-Beirut_Explosion.secret.md)
+

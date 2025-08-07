@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - educational-role
 - educational_role

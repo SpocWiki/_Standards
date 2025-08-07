@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - review-aspect
 - review_aspect

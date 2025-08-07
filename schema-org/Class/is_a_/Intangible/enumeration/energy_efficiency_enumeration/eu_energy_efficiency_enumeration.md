@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eu-energy-efficiency-enumeration
 - eu_energy_efficiency_enumeration

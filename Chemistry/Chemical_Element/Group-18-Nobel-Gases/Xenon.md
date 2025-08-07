@@ -1,4 +1,4 @@
-﻿---
+---
 ATC_code: N01AX15
 atomic_number: 54
 canonical_SMILES: '[Xe]'
@@ -103,17 +103,17 @@ ZVG_number: 7540
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xenon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.md) 
+### #is_/same_as :: [Xenon](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.md) 
 
-### #is_/same_as :: [Xenon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.public.md) 
+### #is_/same_as :: [Xenon.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.public.md) 
 
-### #is_/same_as :: [Xenon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.internal.md) 
+### #is_/same_as :: [Xenon.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.internal.md) 
 
-### #is_/same_as :: [Xenon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.protect.md) 
+### #is_/same_as :: [Xenon.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.protect.md) 
 
-### #is_/same_as :: [Xenon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.private.md) 
+### #is_/same_as :: [Xenon.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.private.md) 
 
-### #is_/same_as :: [Xenon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.personal.md) 
+### #is_/same_as :: [Xenon.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.personal.md) 
 
-### #is_/same_as :: [Xenon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.secret.md)
+### #is_/same_as :: [Xenon.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.secret.md)
 

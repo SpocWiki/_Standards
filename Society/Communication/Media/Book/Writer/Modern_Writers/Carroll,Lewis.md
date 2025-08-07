@@ -193,4 +193,19 @@ Europeana_entity: agent/base/120840
 > [Wikipedia](https://en.wikipedia.org/wiki/Lewis%20Carroll)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carroll,Lewis](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.md) 
+
+### #is_/same_as :: [Carroll,Lewis.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.public.md) 
+
+### #is_/same_as :: [Carroll,Lewis.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.internal.md) 
+
+### #is_/same_as :: [Carroll,Lewis.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.protect.md) 
+
+### #is_/same_as :: [Carroll,Lewis.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.private.md) 
+
+### #is_/same_as :: [Carroll,Lewis.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.personal.md) 
+
+### #is_/same_as :: [Carroll,Lewis.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Carroll,Lewis.secret.md)
 

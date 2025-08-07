@@ -1,4 +1,4 @@
-﻿---
+---
 has_member:
 - '[[../Europe~North/Norway|Norway]]'
 - '[[Switzerland]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - drug-unit
 - drug_unit

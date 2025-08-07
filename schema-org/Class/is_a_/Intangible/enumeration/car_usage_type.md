@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - car-usage-type
 - car_usage_type

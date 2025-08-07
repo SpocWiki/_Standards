@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tony Leung Chiu-wai"
 - "Liáng Cháowěi"
@@ -45,5 +45,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Leung%20Chiu-wai)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Tony_Leung_Chiu-wai](/_Standards/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.md) 
+
+### #is_/same_as :: [Tony_Leung_Chiu-wai.public](/_public/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.public.md) 
+
+### #is_/same_as :: [Tony_Leung_Chiu-wai.internal](/_internal/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.internal.md) 
+
+### #is_/same_as :: [Tony_Leung_Chiu-wai.protect](/_protect/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.protect.md) 
+
+### #is_/same_as :: [Tony_Leung_Chiu-wai.private](/_private/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.private.md) 
+
+### #is_/same_as :: [Tony_Leung_Chiu-wai.personal](/_personal/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.personal.md) 
+
+### #is_/same_as :: [Tony_Leung_Chiu-wai.secret](/_secret/Society/Communication/Media/Movie/Actor/Asian_Actor/Tony_Leung_Chiu-wai.secret.md)
 

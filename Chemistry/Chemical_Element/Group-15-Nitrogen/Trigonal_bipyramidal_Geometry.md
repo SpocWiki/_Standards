@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.md) 
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.md) 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.public.md) 
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.public.md) 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.internal.md) 
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.internal.md) 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.protect.md) 
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.protect.md) 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.private.md) 
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.private.md) 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.personal.md) 
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.personal.md) 
 
-### #is_/same_as :: [Trigonal_bipyramidal_Geometry.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.secret.md)
+### #is_/same_as :: [Trigonal_bipyramidal_Geometry.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.secret.md)
 

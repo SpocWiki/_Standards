@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Core Eudicots"
 - "Core Tricolpates"
@@ -385,17 +385,17 @@ Copyright ::           © 2000 [California Academy of Sciences](http://www.calac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Core_Eudicots](Core_Eudicots.md)) 
+### #is_/same_as :: [Core_Eudicots](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.md) 
 
-### #is_/same_as :: [Core_Eudicots.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.public.md) 
+### #is_/same_as :: [Core_Eudicots.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.public.md) 
 
-### #is_/same_as :: [Core_Eudicots.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.internal.md) 
+### #is_/same_as :: [Core_Eudicots.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.internal.md) 
 
-### #is_/same_as :: [Core_Eudicots.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.protect.md) 
+### #is_/same_as :: [Core_Eudicots.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.protect.md) 
 
-### #is_/same_as :: [Core_Eudicots.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.private.md) 
+### #is_/same_as :: [Core_Eudicots.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.private.md) 
 
-### #is_/same_as :: [Core_Eudicots.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.personal.md) 
+### #is_/same_as :: [Core_Eudicots.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.personal.md) 
 
-### #is_/same_as :: [Core_Eudicots.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.secret.md)
+### #is_/same_as :: [Core_Eudicots.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - venue-map
 - venue_map

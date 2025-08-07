@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Isaac Newton"
 - "Sir Isaac Newton"

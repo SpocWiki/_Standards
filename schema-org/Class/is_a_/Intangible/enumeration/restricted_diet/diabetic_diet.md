@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - diabetic-diet
 - diabetic_diet

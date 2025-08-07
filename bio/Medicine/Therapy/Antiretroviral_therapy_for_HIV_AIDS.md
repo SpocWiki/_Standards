@@ -58,4 +58,19 @@ Commons_category: Antiretroviral drugs
 > [Wikipedia](https://en.wikipedia.org/wiki/Management%20of%20HIV/AIDS) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS](/_Standards/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.md) 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.public](/_public/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.public.md) 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.internal](/_internal/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.internal.md) 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.protect](/_protect/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.protect.md) 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.private](/_private/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.private.md) 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.personal](/_personal/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.personal.md) 
+
+### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.secret](/_secret/bio/Medicine/Therapy/Antiretroviral_therapy_for_HIV_AIDS.secret.md)
 

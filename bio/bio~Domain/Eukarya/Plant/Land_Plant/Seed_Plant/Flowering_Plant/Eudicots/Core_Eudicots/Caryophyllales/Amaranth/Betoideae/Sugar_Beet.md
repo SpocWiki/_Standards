@@ -40,17 +40,17 @@ leading to a sucrose content of around 18% in modern varieties
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sugar_beet](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.md) 
+### #is_/same_as :: [Sugar_Beet](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.md) 
 
-### #is_/same_as :: [Sugar_beet.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.public.md) 
+### #is_/same_as :: [Sugar_Beet.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.public.md) 
 
-### #is_/same_as :: [Sugar_beet.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.internal.md) 
+### #is_/same_as :: [Sugar_Beet.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.internal.md) 
 
-### #is_/same_as :: [Sugar_beet.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.protect.md) 
+### #is_/same_as :: [Sugar_Beet.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.protect.md) 
 
-### #is_/same_as :: [Sugar_beet.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.private.md) 
+### #is_/same_as :: [Sugar_Beet.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.private.md) 
 
-### #is_/same_as :: [Sugar_beet.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.personal.md) 
+### #is_/same_as :: [Sugar_Beet.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.personal.md) 
 
-### #is_/same_as :: [Sugar_beet.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.secret.md)
+### #is_/same_as :: [Sugar_Beet.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.secret.md)
 

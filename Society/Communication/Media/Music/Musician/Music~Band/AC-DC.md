@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - AC/DC
 has_id_wikidata: Q27593
@@ -60,4 +60,19 @@ has_id_wikidata: Q27593
 > [Wikipedia](https://en.wikipedia.org/wiki/AC/DC)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [AC-DC](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.md) 
+
+### #is_/same_as :: [AC-DC.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.public.md) 
+
+### #is_/same_as :: [AC-DC.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.internal.md) 
+
+### #is_/same_as :: [AC-DC.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.protect.md) 
+
+### #is_/same_as :: [AC-DC.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.private.md) 
+
+### #is_/same_as :: [AC-DC.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.personal.md) 
+
+### #is_/same_as :: [AC-DC.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/AC-DC.secret.md)
 

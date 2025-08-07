@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - user-tweets
 - user_tweets

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roman Empire"
 - Roman_Empire

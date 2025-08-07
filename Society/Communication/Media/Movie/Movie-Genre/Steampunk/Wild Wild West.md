@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Wild Wild West"
 ---
@@ -16,4 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Wild%20Wild%20West) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wild Wild West](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.md) 
+
+### #is_/same_as :: [Wild Wild West.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.public.md) 
+
+### #is_/same_as :: [Wild Wild West.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.internal.md) 
+
+### #is_/same_as :: [Wild Wild West.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.protect.md) 
+
+### #is_/same_as :: [Wild Wild West.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.private.md) 
+
+### #is_/same_as :: [Wild Wild West.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.personal.md) 
+
+### #is_/same_as :: [Wild Wild West.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.secret.md)
 

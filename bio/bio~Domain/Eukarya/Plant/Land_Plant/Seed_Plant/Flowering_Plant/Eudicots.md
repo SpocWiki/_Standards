@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Eudicot
 - Tricolpate
@@ -97,17 +97,17 @@ Copyright ::          © 2001 University of Basel, Basel, Switzerland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Eudicots](Eudicots.md)) 
+### #is_/same_as :: [Eudicots](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.md) 
 
-### #is_/same_as :: [Eudicots.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.public.md) 
+### #is_/same_as :: [Eudicots.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.public.md) 
 
-### #is_/same_as :: [Eudicots.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.internal.md) 
+### #is_/same_as :: [Eudicots.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.internal.md) 
 
-### #is_/same_as :: [Eudicots.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.protect.md) 
+### #is_/same_as :: [Eudicots.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.protect.md) 
 
-### #is_/same_as :: [Eudicots.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.private.md) 
+### #is_/same_as :: [Eudicots.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.private.md) 
 
-### #is_/same_as :: [Eudicots.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.personal.md) 
+### #is_/same_as :: [Eudicots.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.personal.md) 
 
-### #is_/same_as :: [Eudicots.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.secret.md)
+### #is_/same_as :: [Eudicots.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots.secret.md)
 

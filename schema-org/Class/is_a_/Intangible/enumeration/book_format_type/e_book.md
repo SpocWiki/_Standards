@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - e-book
 - e_book

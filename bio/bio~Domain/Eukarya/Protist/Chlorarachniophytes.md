@@ -1,4 +1,4 @@
-﻿---
+---
 title: Chlorarachniophytes
 ---
 
@@ -416,7 +416,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Chlorarachniophytes](Chlorarachniophytes.md)) 
+### #is_/same_as :: [Chlorarachniophytes](/_Standards/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.md) 
 
 ### #is_/same_as :: [Chlorarachniophytes.public](/_public/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.public.md) 
 

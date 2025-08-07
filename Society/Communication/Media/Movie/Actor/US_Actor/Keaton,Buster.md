@@ -30,3 +30,20 @@ has_id_wikidata: Q103949
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buster%20Keaton) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Keaton,Buster](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.md) 
+
+### #is_/same_as :: [Keaton,Buster.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.public.md) 
+
+### #is_/same_as :: [Keaton,Buster.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.internal.md) 
+
+### #is_/same_as :: [Keaton,Buster.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.protect.md) 
+
+### #is_/same_as :: [Keaton,Buster.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.private.md) 
+
+### #is_/same_as :: [Keaton,Buster.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.personal.md) 
+
+### #is_/same_as :: [Keaton,Buster.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.secret.md)
+

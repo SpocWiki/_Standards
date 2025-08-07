@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - benefits-health-aspect
 - benefits_health_aspect

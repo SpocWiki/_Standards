@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mygalomorphae
 ---
 
@@ -53,7 +53,7 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mygalomorphae](Mygalomorphae.md)) 
+### #is_/same_as :: [Mygalomorphae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.md) 
 
 ### #is_/same_as :: [Mygalomorphae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.public.md) 
 

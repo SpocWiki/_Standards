@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Brian Cranston"
 - "Bryan Lee Cranston"
@@ -27,4 +27,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bryan%20Cranston) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cranston,Bryan](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.md) 
+
+### #is_/same_as :: [Cranston,Bryan.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.public.md) 
+
+### #is_/same_as :: [Cranston,Bryan.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.internal.md) 
+
+### #is_/same_as :: [Cranston,Bryan.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.protect.md) 
+
+### #is_/same_as :: [Cranston,Bryan.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.private.md) 
+
+### #is_/same_as :: [Cranston,Bryan.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.personal.md) 
+
+### #is_/same_as :: [Cranston,Bryan.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.secret.md)
 

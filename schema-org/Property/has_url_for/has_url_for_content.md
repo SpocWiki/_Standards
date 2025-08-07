@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content-url
 - content_url

@@ -1,4 +1,4 @@
-﻿---
+---
 chemical_structure: "http://commons.wikimedia.org/wiki/Special:FilePath/Ketone%20Structural%20Formulae%20V.1.png"
 Commons_category: Ketones
 conjugate_base: '[[_Standards/WikiData/WD~ketone_enolate,6395432]]'
@@ -47,4 +47,21 @@ UMLS_CUI: C0022634
 > Examples include many sugars (ketoses), many steroids, e.g., testosterone, and the solvent acetone.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ketone) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ketone](/_Standards/Chemistry/organic/Ketone.md) 
+
+### #is_/same_as :: [Ketone.public](/_public/Chemistry/organic/Ketone.public.md) 
+
+### #is_/same_as :: [Ketone.internal](/_internal/Chemistry/organic/Ketone.internal.md) 
+
+### #is_/same_as :: [Ketone.protect](/_protect/Chemistry/organic/Ketone.protect.md) 
+
+### #is_/same_as :: [Ketone.private](/_private/Chemistry/organic/Ketone.private.md) 
+
+### #is_/same_as :: [Ketone.personal](/_personal/Chemistry/organic/Ketone.personal.md) 
+
+### #is_/same_as :: [Ketone.secret](/_secret/Chemistry/organic/Ketone.secret.md)
 

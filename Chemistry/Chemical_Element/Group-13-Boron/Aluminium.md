@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - aluminum
 associated_hazard: '[[_Standards/WikiData/WD~aluminium_exposure,21167711]]'
@@ -167,17 +167,17 @@ ZVG_number: 7130
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aluminium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Aluminium.md) 
+### #is_/same_as :: [Aluminium](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.md) 
 
-### #is_/same_as :: [Aluminium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Aluminium.public.md) 
+### #is_/same_as :: [Aluminium.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.public.md) 
 
-### #is_/same_as :: [Aluminium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Aluminium.internal.md) 
+### #is_/same_as :: [Aluminium.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.internal.md) 
 
-### #is_/same_as :: [Aluminium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Aluminium.protect.md) 
+### #is_/same_as :: [Aluminium.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.protect.md) 
 
-### #is_/same_as :: [Aluminium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Aluminium.private.md) 
+### #is_/same_as :: [Aluminium.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.private.md) 
 
-### #is_/same_as :: [Aluminium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Aluminium.personal.md) 
+### #is_/same_as :: [Aluminium.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.personal.md) 
 
-### #is_/same_as :: [Aluminium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Aluminium.secret.md)
+### #is_/same_as :: [Aluminium.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.secret.md)
 

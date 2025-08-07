@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mileage_from_odometer
 - mileage-from-odometer

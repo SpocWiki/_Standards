@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Capital punishment"
 Commons_category: "Death penalty"

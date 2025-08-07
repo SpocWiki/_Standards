@@ -215,3 +215,19 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Body%20mass%20index) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [BMI(Body_Mass_Index)](/_Standards/bio/Medicine/Health/BMI(Body_Mass_Index).md) 
+
+### #is_/same_as :: [BMI(Body_Mass_Index).public](/_public/bio/Medicine/Health/BMI(Body_Mass_Index).public.md) 
+
+### #is_/same_as :: [BMI(Body_Mass_Index).internal](/_internal/bio/Medicine/Health/BMI(Body_Mass_Index).internal.md) 
+
+### #is_/same_as :: [BMI(Body_Mass_Index).protect](/_protect/bio/Medicine/Health/BMI(Body_Mass_Index).protect.md) 
+
+### #is_/same_as :: [BMI(Body_Mass_Index).private](/_private/bio/Medicine/Health/BMI(Body_Mass_Index).private.md) 
+
+### #is_/same_as :: [BMI(Body_Mass_Index).personal](/_personal/bio/Medicine/Health/BMI(Body_Mass_Index).personal.md) 
+
+### #is_/same_as :: [BMI(Body_Mass_Index).secret](/_secret/bio/Medicine/Health/BMI(Body_Mass_Index).secret.md)
+

@@ -73,3 +73,20 @@ MeSH_tree_code: G01.249.600
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meson) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Meson](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.md) 
+
+### #is_/same_as :: [Meson.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.public.md) 
+
+### #is_/same_as :: [Meson.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.internal.md) 
+
+### #is_/same_as :: [Meson.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.protect.md) 
+
+### #is_/same_as :: [Meson.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.private.md) 
+
+### #is_/same_as :: [Meson.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.personal.md) 
+
+### #is_/same_as :: [Meson.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Meson.secret.md)
+

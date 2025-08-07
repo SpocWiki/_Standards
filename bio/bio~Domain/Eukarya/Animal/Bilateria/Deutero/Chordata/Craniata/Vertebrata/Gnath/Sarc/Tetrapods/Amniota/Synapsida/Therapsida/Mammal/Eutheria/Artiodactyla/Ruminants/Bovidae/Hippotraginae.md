@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Hippotraginae
 - Hippotragini
@@ -77,7 +77,7 @@ Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hippotraginae](Hippotraginae.md)) 
+### #is_/same_as :: [Hippotraginae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Hippotraginae.md) 
 
 ### #is_/same_as :: [Hippotraginae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Hippotraginae.public.md) 
 

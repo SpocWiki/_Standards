@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - unsaturated_fat_in_gram
 - unsaturated-fat-content

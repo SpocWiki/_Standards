@@ -40,3 +40,20 @@ hashtag: Q910979
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biological%20pigment) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biological_Pigment](/_Standards/bio/Biological_Pigment.md) 
+
+### #is_/same_as :: [Biological_Pigment.public](/_public/bio/Biological_Pigment.public.md) 
+
+### #is_/same_as :: [Biological_Pigment.internal](/_internal/bio/Biological_Pigment.internal.md) 
+
+### #is_/same_as :: [Biological_Pigment.protect](/_protect/bio/Biological_Pigment.protect.md) 
+
+### #is_/same_as :: [Biological_Pigment.private](/_private/bio/Biological_Pigment.private.md) 
+
+### #is_/same_as :: [Biological_Pigment.personal](/_personal/bio/Biological_Pigment.personal.md) 
+
+### #is_/same_as :: [Biological_Pigment.secret](/_secret/bio/Biological_Pigment.secret.md)
+

@@ -84,3 +84,20 @@ UNII: P3S2JWI2PA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asparagus) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Asparagus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.md) 
+
+### #is_/same_as :: [Asparagus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.public.md) 
+
+### #is_/same_as :: [Asparagus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.internal.md) 
+
+### #is_/same_as :: [Asparagus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.protect.md) 
+
+### #is_/same_as :: [Asparagus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.private.md) 
+
+### #is_/same_as :: [Asparagus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.personal.md) 
+
+### #is_/same_as :: [Asparagus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagus.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - currencies-accepted
 - currencies_accepted

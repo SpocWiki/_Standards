@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mens-clothing-store
 - mens_clothing_store

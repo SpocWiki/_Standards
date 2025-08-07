@@ -36,3 +36,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bench%20(furniture)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bench](/_Standards/Technology/Construction/Building/Bench.md) 
+
+### #is_/same_as :: [Bench.public](/_public/Technology/Construction/Building/Bench.public.md) 
+
+### #is_/same_as :: [Bench.internal](/_internal/Technology/Construction/Building/Bench.internal.md) 
+
+### #is_/same_as :: [Bench.protect](/_protect/Technology/Construction/Building/Bench.protect.md) 
+
+### #is_/same_as :: [Bench.private](/_private/Technology/Construction/Building/Bench.private.md) 
+
+### #is_/same_as :: [Bench.personal](/_personal/Technology/Construction/Building/Bench.personal.md) 
+
+### #is_/same_as :: [Bench.secret](/_secret/Technology/Construction/Building/Bench.secret.md)
+

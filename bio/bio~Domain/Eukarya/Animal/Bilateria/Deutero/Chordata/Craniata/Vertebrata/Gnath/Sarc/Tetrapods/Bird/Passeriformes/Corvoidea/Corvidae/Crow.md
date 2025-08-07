@@ -49,3 +49,20 @@ short_name: C. corone
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Crow) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Crow](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.md) 
+
+### #is_/same_as :: [Crow.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.public.md) 
+
+### #is_/same_as :: [Crow.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.internal.md) 
+
+### #is_/same_as :: [Crow.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.protect.md) 
+
+### #is_/same_as :: [Crow.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.private.md) 
+
+### #is_/same_as :: [Crow.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.personal.md) 
+
+### #is_/same_as :: [Crow.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Passeriformes/Corvoidea/Corvidae/Crow.secret.md)
+

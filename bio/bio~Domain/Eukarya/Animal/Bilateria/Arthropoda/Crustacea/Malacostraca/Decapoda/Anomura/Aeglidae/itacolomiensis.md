@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aegla itacolomiensis"
 ---
 
@@ -121,7 +121,7 @@ Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[itacolomiensis](itacolomiensis.md)) 
+### #is_/same_as :: [itacolomiensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.md) 
 
 ### #is_/same_as :: [itacolomiensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.public.md) 
 

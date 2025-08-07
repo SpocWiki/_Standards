@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Butch Cassidy and the Sundance Kid"
 ---
@@ -26,4 +26,21 @@ aliases:
 > as the 7th-greatest Western of all time in the AFI's 10 Top 10 list in 2008.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Butch%20Cassidy%20and%20the%20Sundance%20Kid) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.md) 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.public.md) 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.internal.md) 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.protect.md) 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.private.md) 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.personal.md) 
+
+### #is_/same_as :: [Butch_Cassidy_and_the_Sundance_Kid.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Butch_Cassidy_and_the_Sundance_Kid.secret.md)
 

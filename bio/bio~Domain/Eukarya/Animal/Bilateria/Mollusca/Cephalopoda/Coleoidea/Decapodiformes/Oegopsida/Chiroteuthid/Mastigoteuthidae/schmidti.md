@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis schmidti"
 ---
 
@@ -134,7 +134,7 @@ Type locality: North Atlantic, Bay of Biscay at 46°30\'N, 7°00\'W.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[schmidti](schmidti.md)) 
+### #is_/same_as :: [schmidti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.md) 
 
 ### #is_/same_as :: [schmidti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/schmidti.public.md) 
 

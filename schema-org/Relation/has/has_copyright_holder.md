@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - copyright-holder
 - copyright_holder

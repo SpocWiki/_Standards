@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-group-womens
 - wearable_size_group_womens

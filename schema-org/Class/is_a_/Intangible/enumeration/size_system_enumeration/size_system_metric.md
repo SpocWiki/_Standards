@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-system-metric
 - size_system_metric

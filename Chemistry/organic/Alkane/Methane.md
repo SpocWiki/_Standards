@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Methane](Methane.md) 
+### #is_/same_as :: [Methane](/_Standards/Chemistry/organic/Alkane/Methane.md) 
 
-### #is_/same_as :: [Methane.public](/_public/chemic/organic/Methane.public.md) 
+### #is_/same_as :: [Methane.public](/_public/Chemistry/organic/Alkane/Methane.public.md) 
 
-### #is_/same_as :: [Methane.internal](/_internal/chemic/organic/Methane.internal.md) 
+### #is_/same_as :: [Methane.internal](/_internal/Chemistry/organic/Alkane/Methane.internal.md) 
 
-### #is_/same_as :: [Methane.protect](/_protect/chemic/organic/Methane.protect.md) 
+### #is_/same_as :: [Methane.protect](/_protect/Chemistry/organic/Alkane/Methane.protect.md) 
 
-### #is_/same_as :: [Methane.private](/_private/chemic/organic/Methane.private.md) 
+### #is_/same_as :: [Methane.private](/_private/Chemistry/organic/Alkane/Methane.private.md) 
 
-### #is_/same_as :: [Methane.personal](/_personal/chemic/organic/Methane.personal.md) 
+### #is_/same_as :: [Methane.personal](/_personal/Chemistry/organic/Alkane/Methane.personal.md) 
 
-### #is_/same_as :: [Methane.secret](/_secret/chemic/organic/Methane.secret.md)
+### #is_/same_as :: [Methane.secret](/_secret/Chemistry/organic/Alkane/Methane.secret.md)
 

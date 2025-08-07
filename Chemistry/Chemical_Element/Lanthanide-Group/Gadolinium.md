@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 64
 canonical_SMILES: '[Gd]'
 CAS_Registry_Number: 7440-54-2
@@ -92,17 +92,17 @@ ZVG_number: 7640
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gadolinium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.md) 
+### #is_/same_as :: [Gadolinium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.md) 
 
-### #is_/same_as :: [Gadolinium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.public.md) 
+### #is_/same_as :: [Gadolinium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.public.md) 
 
-### #is_/same_as :: [Gadolinium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.internal.md) 
+### #is_/same_as :: [Gadolinium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.internal.md) 
 
-### #is_/same_as :: [Gadolinium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.protect.md) 
+### #is_/same_as :: [Gadolinium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.protect.md) 
 
-### #is_/same_as :: [Gadolinium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.private.md) 
+### #is_/same_as :: [Gadolinium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.private.md) 
 
-### #is_/same_as :: [Gadolinium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.personal.md) 
+### #is_/same_as :: [Gadolinium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.personal.md) 
 
-### #is_/same_as :: [Gadolinium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.secret.md)
+### #is_/same_as :: [Gadolinium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Gadolinium.secret.md)
 

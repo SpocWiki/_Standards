@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - covid-testing-facility
 - covid_testing_facility

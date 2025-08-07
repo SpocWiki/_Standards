@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geographic-area
 - geographic_area

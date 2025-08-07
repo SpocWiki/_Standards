@@ -10,3 +10,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toei%20Animation)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Toei_Animation](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.md) 
+
+### #is_/same_as :: [Toei_Animation.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.public.md) 
+
+### #is_/same_as :: [Toei_Animation.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.internal.md) 
+
+### #is_/same_as :: [Toei_Animation.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.protect.md) 
+
+### #is_/same_as :: [Toei_Animation.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.private.md) 
+
+### #is_/same_as :: [Toei_Animation.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.personal.md) 
+
+### #is_/same_as :: [Toei_Animation.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.secret.md)
+

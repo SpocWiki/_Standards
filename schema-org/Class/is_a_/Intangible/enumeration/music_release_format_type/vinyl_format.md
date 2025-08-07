@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vinyl-format
 - vinyl_format

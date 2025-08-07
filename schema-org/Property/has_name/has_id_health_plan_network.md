@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-network-id
 - id_health_plan_network

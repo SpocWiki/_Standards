@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - translation-of-work
 - translation_of_work

@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Perseus|Zodiac~Perseus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Perseus.public|Zodiac~Perseus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Perseus.internal|Zodiac~Perseus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Perseus.protect|Zodiac~Perseus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Perseus.private|Zodiac~Perseus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Perseus.personal|Zodiac~Perseus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Perseus.secret|Zodiac~Perseus.secret]] 
+
+### #is_/same_as :: [Zodiac~Perseus](/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus.md) 
+
+### #is_/same_as :: [Zodiac~Perseus.public](/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public.md) 
+
+### #is_/same_as :: [Zodiac~Perseus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Perseus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Perseus.private](/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private.md) 
+
+### #is_/same_as :: [Zodiac~Perseus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Perseus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret.md)
+

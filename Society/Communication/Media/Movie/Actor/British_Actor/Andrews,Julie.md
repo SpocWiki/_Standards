@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Julie Andrews"
 - "Julia Elizabeth Wells"
@@ -72,5 +72,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Julie%20Andrews) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Andrews,Julie](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.md) 
+
+### #is_/same_as :: [Andrews,Julie.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.public.md) 
+
+### #is_/same_as :: [Andrews,Julie.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.internal.md) 
+
+### #is_/same_as :: [Andrews,Julie.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.protect.md) 
+
+### #is_/same_as :: [Andrews,Julie.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.private.md) 
+
+### #is_/same_as :: [Andrews,Julie.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.personal.md) 
+
+### #is_/same_as :: [Andrews,Julie.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.secret.md)
 

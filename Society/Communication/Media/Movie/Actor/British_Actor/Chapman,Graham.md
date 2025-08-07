@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Graham Chapman"
 ---
@@ -45,4 +45,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Graham%20Chapman)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chapman,Graham](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.md) 
+
+### #is_/same_as :: [Chapman,Graham.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.public.md) 
+
+### #is_/same_as :: [Chapman,Graham.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.internal.md) 
+
+### #is_/same_as :: [Chapman,Graham.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.protect.md) 
+
+### #is_/same_as :: [Chapman,Graham.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.private.md) 
+
+### #is_/same_as :: [Chapman,Graham.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.personal.md) 
+
+### #is_/same_as :: [Chapman,Graham.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.secret.md)
 

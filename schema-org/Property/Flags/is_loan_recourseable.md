@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recourse-loan
 - loan_recourseable

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - education-event
 - education_event

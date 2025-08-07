@@ -47,3 +47,19 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20from%20A%20to
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20vector) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Vector](/_Standards/Mathematics/Geometry/Vector.md) 
+
+### #is_/same_as :: [Vector.public](/_public/Mathematics/Geometry/Vector.public.md) 
+
+### #is_/same_as :: [Vector.internal](/_internal/Mathematics/Geometry/Vector.internal.md) 
+
+### #is_/same_as :: [Vector.protect](/_protect/Mathematics/Geometry/Vector.protect.md) 
+
+### #is_/same_as :: [Vector.private](/_private/Mathematics/Geometry/Vector.private.md) 
+
+### #is_/same_as :: [Vector.personal](/_personal/Mathematics/Geometry/Vector.personal.md) 
+
+### #is_/same_as :: [Vector.secret](/_secret/Mathematics/Geometry/Vector.secret.md)
+

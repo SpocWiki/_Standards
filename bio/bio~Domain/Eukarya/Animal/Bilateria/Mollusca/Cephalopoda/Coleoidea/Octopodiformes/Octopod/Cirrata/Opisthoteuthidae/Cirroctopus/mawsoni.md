@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cirroctopus mawsoni"
 ---
 
@@ -126,7 +126,7 @@ Mar. Sci. 20: 421-428.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[mawsoni](mawsoni.md)) 
+### #is_/same_as :: [mawsoni](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/mawsoni.md) 
 
 ### #is_/same_as :: [mawsoni.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/mawsoni.public.md) 
 

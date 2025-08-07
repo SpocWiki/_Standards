@@ -1,4 +1,4 @@
-﻿---
+---
 title: Protentomidae
 ---
 
@@ -38,7 +38,7 @@ title: Protentomidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Protentomidae](Protentomidae.md)) 
+### #is_/same_as :: [Protentomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.md) 
 
 ### #is_/same_as :: [Protentomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Platycopioida
 ---
 
@@ -45,7 +45,7 @@ Platycopiidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Platycopioida](Platycopioida.md)) 
+### #is_/same_as :: [Platycopioida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Platycopioida.md) 
 
 ### #is_/same_as :: [Platycopioida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Platycopioida.public.md) 
 

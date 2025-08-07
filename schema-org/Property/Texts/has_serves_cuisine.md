@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - serves-cuisine
 - serves_cuisine

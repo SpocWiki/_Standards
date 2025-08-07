@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recognizing-authority
 - recognizing_authority

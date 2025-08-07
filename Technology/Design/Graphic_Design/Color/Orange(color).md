@@ -28,4 +28,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Orange%20(colour)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orange(color)](/_Standards/Technology/Design/Graphic_Design/Color/Orange(color).md) 
+
+### #is_/same_as :: [Orange(color).public](/_public/Technology/Design/Graphic_Design/Color/Orange(color).public.md) 
+
+### #is_/same_as :: [Orange(color).internal](/_internal/Technology/Design/Graphic_Design/Color/Orange(color).internal.md) 
+
+### #is_/same_as :: [Orange(color).protect](/_protect/Technology/Design/Graphic_Design/Color/Orange(color).protect.md) 
+
+### #is_/same_as :: [Orange(color).private](/_private/Technology/Design/Graphic_Design/Color/Orange(color).private.md) 
+
+### #is_/same_as :: [Orange(color).personal](/_personal/Technology/Design/Graphic_Design/Color/Orange(color).personal.md) 
+
+### #is_/same_as :: [Orange(color).secret](/_secret/Technology/Design/Graphic_Design/Color/Orange(color).secret.md)
 

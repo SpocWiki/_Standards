@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 11970521
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20drum.ogg"
 Commons_category: Drums

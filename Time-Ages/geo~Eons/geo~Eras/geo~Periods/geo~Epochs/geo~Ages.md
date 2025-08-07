@@ -1,4 +1,4 @@
-﻿---
+---
 different_from:
 - '[[_Standards/WikiData/WD~age_of_the_Earth,935310]]'
 - '[[_Standards/WikiData/WD~age,100343219]]'

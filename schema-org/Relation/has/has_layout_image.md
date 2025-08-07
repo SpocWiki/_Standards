@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - layout-image
 - layout_image

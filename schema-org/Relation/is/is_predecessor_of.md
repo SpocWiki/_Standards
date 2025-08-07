@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - predecessor-of
 - predecessor_of

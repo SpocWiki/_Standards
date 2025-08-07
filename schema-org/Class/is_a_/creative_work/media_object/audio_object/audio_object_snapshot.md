@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - audio-object-snapshot
 - audio_object_snapshot

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - related-condition
 - related_condition

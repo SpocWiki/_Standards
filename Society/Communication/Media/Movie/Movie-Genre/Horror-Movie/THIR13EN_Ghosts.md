@@ -15,3 +15,20 @@
 This Film showed how a Lawyer was cut in half vertically by Glass-Doors, 
 similar to [[Cell,film@2000]] or the [[Cube_(film_series)]]. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [THIR13EN_Ghosts](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.md) 
+
+### #is_/same_as :: [THIR13EN_Ghosts.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.public.md) 
+
+### #is_/same_as :: [THIR13EN_Ghosts.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.internal.md) 
+
+### #is_/same_as :: [THIR13EN_Ghosts.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.protect.md) 
+
+### #is_/same_as :: [THIR13EN_Ghosts.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.private.md) 
+
+### #is_/same_as :: [THIR13EN_Ghosts.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.personal.md) 
+
+### #is_/same_as :: [THIR13EN_Ghosts.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.secret.md)
+

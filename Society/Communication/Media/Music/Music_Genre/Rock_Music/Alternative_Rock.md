@@ -51,5 +51,19 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Portrayal%20-%2001%20-
 > [Wikipedia](https://en.wikipedia.org/wiki/Alternative%20rock) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Alternative_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.md) 
+
+### #is_/same_as :: [Alternative_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.public.md) 
+
+### #is_/same_as :: [Alternative_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.internal.md) 
+
+### #is_/same_as :: [Alternative_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.protect.md) 
+
+### #is_/same_as :: [Alternative_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.private.md) 
+
+### #is_/same_as :: [Alternative_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.personal.md) 
+
+### #is_/same_as :: [Alternative_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.secret.md)
 

@@ -447,10 +447,9 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
   -----------------------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Basidiomycota](Basidiomycota.md)) 
+### #is_/same_as :: [Basidiomycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota.md) 
 
 ### #is_/same_as :: [Basidiomycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota.public.md) 
 

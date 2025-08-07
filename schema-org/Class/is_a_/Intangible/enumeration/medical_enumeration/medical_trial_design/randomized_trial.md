@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - randomized-trial
 - randomized_trial

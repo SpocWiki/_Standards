@@ -27,3 +27,20 @@ has_id_wikidata: Q245551
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/1970%20Bhola%20cyclone) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [1970-Bhola_cyclone](/_Standards/Society/Disaster/1970-Bhola_cyclone.md) 
+
+### #is_/same_as :: [1970-Bhola_cyclone.public](/_public/Society/Disaster/1970-Bhola_cyclone.public.md) 
+
+### #is_/same_as :: [1970-Bhola_cyclone.internal](/_internal/Society/Disaster/1970-Bhola_cyclone.internal.md) 
+
+### #is_/same_as :: [1970-Bhola_cyclone.protect](/_protect/Society/Disaster/1970-Bhola_cyclone.protect.md) 
+
+### #is_/same_as :: [1970-Bhola_cyclone.private](/_private/Society/Disaster/1970-Bhola_cyclone.private.md) 
+
+### #is_/same_as :: [1970-Bhola_cyclone.personal](/_personal/Society/Disaster/1970-Bhola_cyclone.personal.md) 
+
+### #is_/same_as :: [1970-Bhola_cyclone.secret](/_secret/Society/Disaster/1970-Bhola_cyclone.secret.md)
+

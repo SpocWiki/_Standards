@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Pinales
 - Conifer
@@ -97,17 +97,17 @@ Copyright ::            © 1999 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Conifers](Conifers.md)) 
+### #is_/same_as :: [Conifers](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.md) 
 
-### #is_/same_as :: [Conifers.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers.public.md) 
+### #is_/same_as :: [Conifers.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.public.md) 
 
-### #is_/same_as :: [Conifers.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers.internal.md) 
+### #is_/same_as :: [Conifers.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.internal.md) 
 
-### #is_/same_as :: [Conifers.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers.protect.md) 
+### #is_/same_as :: [Conifers.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.protect.md) 
 
-### #is_/same_as :: [Conifers.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers.private.md) 
+### #is_/same_as :: [Conifers.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.private.md) 
 
-### #is_/same_as :: [Conifers.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers.personal.md) 
+### #is_/same_as :: [Conifers.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.personal.md) 
 
-### #is_/same_as :: [Conifers.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Conifers.secret.md)
+### #is_/same_as :: [Conifers.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers.secret.md)
 

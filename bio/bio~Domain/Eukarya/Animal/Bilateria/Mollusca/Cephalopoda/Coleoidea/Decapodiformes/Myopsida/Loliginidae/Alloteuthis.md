@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alloteuthis
 ---
 
@@ -146,7 +146,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Alloteuthis](Alloteuthis.md)) 
+### #is_/same_as :: [Alloteuthis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Alloteuthis.md) 
 
 ### #is_/same_as :: [Alloteuthis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Alloteuthis.public.md) 
 

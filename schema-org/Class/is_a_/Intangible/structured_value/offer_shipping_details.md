@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - offer-shipping-details
 - offer_shipping_details

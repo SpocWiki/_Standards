@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - feature-list
 - feature_list

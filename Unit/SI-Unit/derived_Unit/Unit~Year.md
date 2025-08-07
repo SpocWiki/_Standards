@@ -1,4 +1,4 @@
-﻿---
+---
 based_on: '[[_Standards/WikiData/WD~heliocentric_orbit,737809]]'
 Commons_category: Years
 conversion_to_standard_unit:

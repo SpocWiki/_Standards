@@ -77,17 +77,17 @@ U_S_National_Archives_Identifier: 10646992
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alloy](/_Standards/chemic/Material/Metallurgy/Alloy.md) 
+### #is_/same_as :: [Alloy](/_Standards/Chemistry/Material/Metallurgy/Alloy.md) 
 
-### #is_/same_as :: [Alloy.public](/_public/chemic/Material/Metallurgy/Alloy.public.md) 
+### #is_/same_as :: [Alloy.public](/_public/Chemistry/Material/Metallurgy/Alloy.public.md) 
 
-### #is_/same_as :: [Alloy.internal](/_internal/chemic/Material/Metallurgy/Alloy.internal.md) 
+### #is_/same_as :: [Alloy.internal](/_internal/Chemistry/Material/Metallurgy/Alloy.internal.md) 
 
-### #is_/same_as :: [Alloy.protect](/_protect/chemic/Material/Metallurgy/Alloy.protect.md) 
+### #is_/same_as :: [Alloy.protect](/_protect/Chemistry/Material/Metallurgy/Alloy.protect.md) 
 
-### #is_/same_as :: [Alloy.private](/_private/chemic/Material/Metallurgy/Alloy.private.md) 
+### #is_/same_as :: [Alloy.private](/_private/Chemistry/Material/Metallurgy/Alloy.private.md) 
 
-### #is_/same_as :: [Alloy.personal](/_personal/chemic/Material/Metallurgy/Alloy.personal.md) 
+### #is_/same_as :: [Alloy.personal](/_personal/Chemistry/Material/Metallurgy/Alloy.personal.md) 
 
-### #is_/same_as :: [Alloy.secret](/_secret/chemic/Material/Metallurgy/Alloy.secret.md)
+### #is_/same_as :: [Alloy.secret](/_secret/Chemistry/Material/Metallurgy/Alloy.secret.md)
 

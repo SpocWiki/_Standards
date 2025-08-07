@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - print-column
 - print_column

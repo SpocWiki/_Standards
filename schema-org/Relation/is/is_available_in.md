@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - available-in
 - available_in

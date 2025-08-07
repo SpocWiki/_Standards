@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - train-trip
 - train_trip

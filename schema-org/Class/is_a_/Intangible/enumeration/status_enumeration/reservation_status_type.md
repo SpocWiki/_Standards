@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reservation-status-type
 - reservation_status_type

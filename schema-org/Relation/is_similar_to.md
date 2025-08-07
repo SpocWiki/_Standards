@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - is-similar-to
 - similar_to

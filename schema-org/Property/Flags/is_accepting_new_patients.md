@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - accepting-new-patients
 - accepting_new_patients

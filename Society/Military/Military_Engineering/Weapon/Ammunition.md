@@ -16,3 +16,20 @@ has_id_wikidata: Q185785
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ammunition) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ammunition](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition.md) 
+
+### #is_/same_as :: [Ammunition.public](/_public/Society/Military/Military_Engineering/Weapon/Ammunition.public.md) 
+
+### #is_/same_as :: [Ammunition.internal](/_internal/Society/Military/Military_Engineering/Weapon/Ammunition.internal.md) 
+
+### #is_/same_as :: [Ammunition.protect](/_protect/Society/Military/Military_Engineering/Weapon/Ammunition.protect.md) 
+
+### #is_/same_as :: [Ammunition.private](/_private/Society/Military/Military_Engineering/Weapon/Ammunition.private.md) 
+
+### #is_/same_as :: [Ammunition.personal](/_personal/Society/Military/Military_Engineering/Weapon/Ammunition.personal.md) 
+
+### #is_/same_as :: [Ammunition.secret](/_secret/Society/Military/Military_Engineering/Weapon/Ammunition.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20Table%20-%20Atomic%20Radius%20%28Tolle%20via%20Thingiverse%29.stl"
 aliases:
 - "Periodic table"
@@ -67,17 +67,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Periodic_Table](/_Standards/chemic/chemic~Elements/Periodic_Table.md) 
+### #is_/same_as :: [Periodic_Table](/_Standards/Chemistry/Chemical_Element/Periodic_Table.md) 
 
-### #is_/same_as :: [Periodic_Table.public](/_public/chemic/chemic~Elements/Periodic_Table.public.md) 
+### #is_/same_as :: [Periodic_Table.public](/_public/Chemistry/Chemical_Element/Periodic_Table.public.md) 
 
-### #is_/same_as :: [Periodic_Table.internal](/_internal/chemic/chemic~Elements/Periodic_Table.internal.md) 
+### #is_/same_as :: [Periodic_Table.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table.internal.md) 
 
-### #is_/same_as :: [Periodic_Table.protect](/_protect/chemic/chemic~Elements/Periodic_Table.protect.md) 
+### #is_/same_as :: [Periodic_Table.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table.protect.md) 
 
-### #is_/same_as :: [Periodic_Table.private](/_private/chemic/chemic~Elements/Periodic_Table.private.md) 
+### #is_/same_as :: [Periodic_Table.private](/_private/Chemistry/Chemical_Element/Periodic_Table.private.md) 
 
-### #is_/same_as :: [Periodic_Table.personal](/_personal/chemic/chemic~Elements/Periodic_Table.personal.md) 
+### #is_/same_as :: [Periodic_Table.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table.personal.md) 
 
-### #is_/same_as :: [Periodic_Table.secret](/_secret/chemic/chemic~Elements/Periodic_Table.secret.md)
+### #is_/same_as :: [Periodic_Table.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table.secret.md)
 

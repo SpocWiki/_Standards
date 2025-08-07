@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cleaning-fee
 - cleaning_fee

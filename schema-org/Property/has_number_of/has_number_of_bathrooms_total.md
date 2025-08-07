@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number-of-bathrooms-total
 - number_of_bathrooms_total

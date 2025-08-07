@@ -1,4 +1,4 @@
-﻿---
+---
 title: Symphyla
 ---
 
@@ -74,7 +74,7 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Symphyla](Symphyla.md)) 
+### #is_/same_as :: [Symphyla](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Symphyla.md) 
 
 ### #is_/same_as :: [Symphyla.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Symphyla.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nobel Prize in Literature"
 - "Nobelpriset i litteratur"

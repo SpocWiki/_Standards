@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - includes-health-plan-formulary
 - including_health_plan_formulary

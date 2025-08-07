@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - install-url
 - install_url

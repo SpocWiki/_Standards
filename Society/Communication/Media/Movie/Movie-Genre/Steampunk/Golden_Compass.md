@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The Golden Compass"
 - "Northern Lights"
@@ -16,5 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Northern%20Lights%20(Pullman%20novel)) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Golden_Compass](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.md) 
+
+### #is_/same_as :: [Golden_Compass.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.public.md) 
+
+### #is_/same_as :: [Golden_Compass.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.internal.md) 
+
+### #is_/same_as :: [Golden_Compass.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.protect.md) 
+
+### #is_/same_as :: [Golden_Compass.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.private.md) 
+
+### #is_/same_as :: [Golden_Compass.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.personal.md) 
+
+### #is_/same_as :: [Golden_Compass.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Golden_Compass.secret.md)
 

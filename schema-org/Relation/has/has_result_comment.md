@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - result-comment
 - result_comment

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stauroteuthis syrtensis"
 ---
 
@@ -120,7 +120,7 @@ Size              ca. 90 mm ML, 72 mm ML (2)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[syrtensis](syrtensis.md)) 
+### #is_/same_as :: [syrtensis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Stauroteuthidae/syrtensis.md) 
 
 ### #is_/same_as :: [syrtensis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Stauroteuthidae/syrtensis.public.md) 
 

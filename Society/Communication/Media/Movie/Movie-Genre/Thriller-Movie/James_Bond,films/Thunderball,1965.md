@@ -17,3 +17,21 @@
 > The film was exceptionally successful: its worldwide box-office receipts of $141.2 million (equivalent to $1,365,200,000 in 2023) exceeded not only that of each of its predecessors but that of every one of the next five Bond films that followed it. Thunderball remains the most financially successful film of the series in North America when adjusted for ticket price inflation. In 1966, John Stears won the Academy Award for Best Visual Effects and BAFTA nominated production designer Ken Adam for an award. Some critics and viewers praised the film and branded it a welcome addition to the series, while others found the aquatic action repetitious. The movie was followed by 1967's You Only Live Twice. In 1983, Warner Bros. released a second film adaptation of the Thunderball novel under the title Never Say Never Again, with McClory as executive producer.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thunderball%20(film))
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Thunderball,1965](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.md) 
+
+### #is_/same_as :: [Thunderball,1965.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.public.md) 
+
+### #is_/same_as :: [Thunderball,1965.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.internal.md) 
+
+### #is_/same_as :: [Thunderball,1965.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.protect.md) 
+
+### #is_/same_as :: [Thunderball,1965.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.private.md) 
+
+### #is_/same_as :: [Thunderball,1965.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.personal.md) 
+
+### #is_/same_as :: [Thunderball,1965.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Thunderball,1965.secret.md)
+

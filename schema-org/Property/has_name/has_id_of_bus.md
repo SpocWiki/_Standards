@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bus-number
 - id_of_bus

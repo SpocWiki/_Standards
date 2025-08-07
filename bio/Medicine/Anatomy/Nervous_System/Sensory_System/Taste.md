@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: "S:22"
 Commons_category: Taste
 described_by_source:

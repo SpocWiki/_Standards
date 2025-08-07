@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michael Jackson"
 - "Michael Joseph Jackson"

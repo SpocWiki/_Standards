@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Sexually transmitted diseases and disorders"
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

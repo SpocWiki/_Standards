@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "International System of Units"
 based_on: '[[_Standards/WikiData/WD~MKS_system_of_units,512417]]'

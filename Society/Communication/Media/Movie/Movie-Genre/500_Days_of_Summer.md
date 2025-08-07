@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "500 Days of Summer"
 ---
@@ -28,4 +28,21 @@ aliases:
 
 
 It has strong autobiographical streaks of Scott Neustadter
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [500_Days_of_Summer](/_Standards/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.md) 
+
+### #is_/same_as :: [500_Days_of_Summer.public](/_public/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.public.md) 
+
+### #is_/same_as :: [500_Days_of_Summer.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.internal.md) 
+
+### #is_/same_as :: [500_Days_of_Summer.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.protect.md) 
+
+### #is_/same_as :: [500_Days_of_Summer.private](/_private/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.private.md) 
+
+### #is_/same_as :: [500_Days_of_Summer.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.personal.md) 
+
+### #is_/same_as :: [500_Days_of_Summer.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.secret.md)
 

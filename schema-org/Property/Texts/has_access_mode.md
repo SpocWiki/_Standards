@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - access-mode
 - access_mode

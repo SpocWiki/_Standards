@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - during-media
 - during_media

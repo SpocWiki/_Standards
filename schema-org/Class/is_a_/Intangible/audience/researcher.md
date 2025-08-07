@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - researcher
 - researcher

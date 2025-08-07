@@ -1,4 +1,4 @@
-﻿---
+---
 title: Baphetidae
 ---
 
@@ -151,7 +151,7 @@ Copyright ::          © 1977 Royal Society, London
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Baphetidae](Baphetidae.md)) 
+### #is_/same_as :: [Baphetidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.md) 
 
 ### #is_/same_as :: [Baphetidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae.public.md) 
 

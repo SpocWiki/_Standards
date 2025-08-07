@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rhinopomatoidea
 ---
 
@@ -133,7 +133,7 @@ Senkenbergiana Biologica, 73(1-2):1-24.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rhinopomatoidea](Rhinopomatoidea.md)) 
+### #is_/same_as :: [Rhinopomatoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinopomatoidea.md) 
 
 ### #is_/same_as :: [Rhinopomatoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/Microchiroptera/Rhinopomatoidea.public.md) 
 

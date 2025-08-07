@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - guideline-date
 - guideline_date

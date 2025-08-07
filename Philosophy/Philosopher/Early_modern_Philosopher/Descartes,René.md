@@ -1,4 +1,4 @@
-﻿---
+---
 academic_thesis: "[[_Standards/WikiData/WD~Descartes'_1616_Law_Thesis,116810497]]"
 aliases:
 - "René Descartes"

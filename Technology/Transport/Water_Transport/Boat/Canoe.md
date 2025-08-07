@@ -44,3 +44,20 @@ name: kom
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Canoe) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Canoe](/_Standards/Technology/Transport/Water_Transport/Boat/Canoe.md) 
+
+### #is_/same_as :: [Canoe.public](/_public/Technology/Transport/Water_Transport/Boat/Canoe.public.md) 
+
+### #is_/same_as :: [Canoe.internal](/_internal/Technology/Transport/Water_Transport/Boat/Canoe.internal.md) 
+
+### #is_/same_as :: [Canoe.protect](/_protect/Technology/Transport/Water_Transport/Boat/Canoe.protect.md) 
+
+### #is_/same_as :: [Canoe.private](/_private/Technology/Transport/Water_Transport/Boat/Canoe.private.md) 
+
+### #is_/same_as :: [Canoe.personal](/_personal/Technology/Transport/Water_Transport/Boat/Canoe.personal.md) 
+
+### #is_/same_as :: [Canoe.secret](/_secret/Technology/Transport/Water_Transport/Boat/Canoe.secret.md)
+

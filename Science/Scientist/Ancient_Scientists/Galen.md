@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Aelius Galenus"
 - "Claudius Galenus"

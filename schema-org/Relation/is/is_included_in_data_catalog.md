@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - included-in-data-catalog
 - included_in_data_catalog

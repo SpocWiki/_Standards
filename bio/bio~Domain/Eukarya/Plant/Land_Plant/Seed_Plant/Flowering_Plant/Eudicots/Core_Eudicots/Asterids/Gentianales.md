@@ -1,4 +1,4 @@
-﻿---
+---
 title: Gentianales
 ---
 
@@ -78,17 +78,17 @@ Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gentianales](Gentianales.md)) 
+### #is_/same_as :: [Gentianales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.md) 
 
-### #is_/same_as :: [Gentianales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.public.md) 
+### #is_/same_as :: [Gentianales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.public.md) 
 
-### #is_/same_as :: [Gentianales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.internal.md) 
+### #is_/same_as :: [Gentianales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.internal.md) 
 
-### #is_/same_as :: [Gentianales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.protect.md) 
+### #is_/same_as :: [Gentianales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.protect.md) 
 
-### #is_/same_as :: [Gentianales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.private.md) 
+### #is_/same_as :: [Gentianales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.private.md) 
 
-### #is_/same_as :: [Gentianales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.personal.md) 
+### #is_/same_as :: [Gentianales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.personal.md) 
 
-### #is_/same_as :: [Gentianales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.secret.md)
+### #is_/same_as :: [Gentianales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.secret.md)
 

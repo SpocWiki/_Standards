@@ -19,3 +19,20 @@ Named after the City [[Ramstein]] where 1988 Planes crashed during a Flight Show
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rammstein)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rammstein](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.md) 
+
+### #is_/same_as :: [Rammstein.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.public.md) 
+
+### #is_/same_as :: [Rammstein.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.internal.md) 
+
+### #is_/same_as :: [Rammstein.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.protect.md) 
+
+### #is_/same_as :: [Rammstein.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.private.md) 
+
+### #is_/same_as :: [Rammstein.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.personal.md) 
+
+### #is_/same_as :: [Rammstein.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Rammstein.secret.md)
+

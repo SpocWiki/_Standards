@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "On Her Majesty's Secret Service"
 ---
@@ -34,4 +34,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/On%20Her%20Majesty's%20Secret%20Service%20(film))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.md) 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.public.md) 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.internal.md) 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.protect.md) 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.private.md) 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.personal.md) 
+
+### #is_/same_as :: [On_Her_Majesty's_Secret_Service,1969.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/On_Her_Majesty's_Secret_Service,1969.secret.md)
 

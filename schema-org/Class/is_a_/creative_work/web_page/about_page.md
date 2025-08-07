@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - about-page
 - about_page

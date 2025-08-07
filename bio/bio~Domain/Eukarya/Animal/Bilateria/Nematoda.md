@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Nematode
 - Nematoda
@@ -108,7 +108,7 @@ Source Collection   [Public Health Image Library](http://phil.cdc.gov/Phil/defau
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nematoda](Nematoda.md)) 
+### #is_/same_as :: [Nematoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.md) 
 
 ### #is_/same_as :: [Nematoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematoda.public.md) 
 

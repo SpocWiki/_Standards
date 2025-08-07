@@ -87,3 +87,20 @@ Unicode_character: 🛏
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bed) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bed](/_Standards/Technology/Construction/Building/House/Apartment/Bedroom/Bed.md) 
+
+### #is_/same_as :: [Bed.public](/_public/Technology/Construction/Building/House/Apartment/Bedroom/Bed.public.md) 
+
+### #is_/same_as :: [Bed.internal](/_internal/Technology/Construction/Building/House/Apartment/Bedroom/Bed.internal.md) 
+
+### #is_/same_as :: [Bed.protect](/_protect/Technology/Construction/Building/House/Apartment/Bedroom/Bed.protect.md) 
+
+### #is_/same_as :: [Bed.private](/_private/Technology/Construction/Building/House/Apartment/Bedroom/Bed.private.md) 
+
+### #is_/same_as :: [Bed.personal](/_personal/Technology/Construction/Building/House/Apartment/Bedroom/Bed.personal.md) 
+
+### #is_/same_as :: [Bed.secret](/_secret/Technology/Construction/Building/House/Apartment/Bedroom/Bed.secret.md)
+

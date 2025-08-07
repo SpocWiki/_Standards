@@ -1,4 +1,4 @@
-﻿---
+---
 title: Oryzorictes
 ---
 
@@ -53,7 +53,7 @@ title: Oryzorictes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Oryzorictes](Oryzorictes.md)) 
+### #is_/same_as :: [Oryzorictes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Oryzorictes.md) 
 
 ### #is_/same_as :: [Oryzorictes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Insectivora/Tenrecidae/Oryzorictes.public.md) 
 

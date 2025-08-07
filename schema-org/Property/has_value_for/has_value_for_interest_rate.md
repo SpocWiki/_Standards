@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - interest_rate
 - interest-rate

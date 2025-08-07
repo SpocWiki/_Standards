@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - infectious-agent
 - infectious_agent

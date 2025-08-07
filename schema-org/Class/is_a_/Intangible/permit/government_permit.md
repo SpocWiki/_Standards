@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - government-permit
 - government_permit

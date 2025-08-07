@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c9
 - nonprofit501c9

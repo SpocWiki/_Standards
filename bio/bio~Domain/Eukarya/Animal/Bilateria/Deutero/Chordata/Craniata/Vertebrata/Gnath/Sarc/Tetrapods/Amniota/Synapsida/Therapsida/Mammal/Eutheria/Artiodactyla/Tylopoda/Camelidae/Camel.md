@@ -141,7 +141,7 @@ View                 ventral, lateral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Camel](Camel.md)) 
+### #is_/same_as :: [Camel](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel.md) 
 
 ### #is_/same_as :: [Camel.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel.public.md) 
 

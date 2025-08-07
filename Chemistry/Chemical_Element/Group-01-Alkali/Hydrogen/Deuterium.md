@@ -68,3 +68,20 @@ mass_excess: 13135.72176
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deuterium) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Deuterium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.md) 
+
+### #is_/same_as :: [Deuterium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.public.md) 
+
+### #is_/same_as :: [Deuterium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.internal.md) 
+
+### #is_/same_as :: [Deuterium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.protect.md) 
+
+### #is_/same_as :: [Deuterium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.private.md) 
+
+### #is_/same_as :: [Deuterium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.personal.md) 
+
+### #is_/same_as :: [Deuterium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.secret.md)
+

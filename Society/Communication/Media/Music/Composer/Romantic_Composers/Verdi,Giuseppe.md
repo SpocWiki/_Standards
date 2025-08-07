@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giuseppe Verdi"
 - "Giuseppe Fortunino Francesco Verdi"

@@ -45,3 +45,20 @@ IMDb_keyword: bathtub
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bathtub) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bathtub](/_Standards/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.md) 
+
+### #is_/same_as :: [Bathtub.public](/_public/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.public.md) 
+
+### #is_/same_as :: [Bathtub.internal](/_internal/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.internal.md) 
+
+### #is_/same_as :: [Bathtub.protect](/_protect/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.protect.md) 
+
+### #is_/same_as :: [Bathtub.private](/_private/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.private.md) 
+
+### #is_/same_as :: [Bathtub.personal](/_personal/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.personal.md) 
+
+### #is_/same_as :: [Bathtub.secret](/_secret/Technology/Construction/Building/House/Apartment/Bathroom/Bathtub.secret.md)
+

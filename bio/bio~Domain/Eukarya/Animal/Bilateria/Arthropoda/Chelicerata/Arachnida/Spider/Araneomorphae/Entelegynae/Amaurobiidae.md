@@ -1,4 +1,4 @@
-﻿---
+---
 title: Amaurobiidae
 ---
 
@@ -127,7 +127,7 @@ Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebriz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Amaurobiidae](Amaurobiidae.md)) 
+### #is_/same_as :: [Amaurobiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Amaurobiidae.md) 
 
 ### #is_/same_as :: [Amaurobiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Amaurobiidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shipping-destination
 - shipping_destination

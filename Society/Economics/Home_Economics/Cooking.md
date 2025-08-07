@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Cooking
 described_at_URL: "https://neal.fun/earth-reviews/cooking"
 described_by_source:

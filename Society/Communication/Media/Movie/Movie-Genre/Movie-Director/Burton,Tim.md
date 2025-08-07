@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tim Burton"
 has_id_wikidata: Q56008
@@ -48,4 +48,20 @@ has_id_wikidata: Q56008
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tim%20Burton)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Burton,Tim](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.md) 
+
+### #is_/same_as :: [Burton,Tim.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.public.md) 
+
+### #is_/same_as :: [Burton,Tim.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.internal.md) 
+
+### #is_/same_as :: [Burton,Tim.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.protect.md) 
+
+### #is_/same_as :: [Burton,Tim.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.private.md) 
+
+### #is_/same_as :: [Burton,Tim.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.personal.md) 
+
+### #is_/same_as :: [Burton,Tim.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Burton,Tim.secret.md)
 

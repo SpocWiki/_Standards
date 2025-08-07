@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-risk-factor
 - medical_risk_factor

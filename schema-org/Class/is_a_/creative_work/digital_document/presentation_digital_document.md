@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - presentation-digital-document
 - presentation_digital_document

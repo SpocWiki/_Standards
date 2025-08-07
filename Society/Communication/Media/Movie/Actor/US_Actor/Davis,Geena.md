@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Geena Davis"
 ---
@@ -47,6 +47,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Geena%20Davis)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Davis,Geena](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.md) 
 
+### #is_/same_as :: [Davis,Geena.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.public.md) 
+
+### #is_/same_as :: [Davis,Geena.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.internal.md) 
+
+### #is_/same_as :: [Davis,Geena.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.protect.md) 
+
+### #is_/same_as :: [Davis,Geena.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.private.md) 
+
+### #is_/same_as :: [Davis,Geena.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.personal.md) 
+
+### #is_/same_as :: [Davis,Geena.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Davis,Geena.secret.md)
 

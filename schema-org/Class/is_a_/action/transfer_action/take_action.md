@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - take-action
 - take_action

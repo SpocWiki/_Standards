@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cnidaria
 ---
 
@@ -240,7 +240,7 @@ Copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/ce
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cnidaria](Cnidaria.md)) 
+### #is_/same_as :: [Cnidaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria.md) 
 
 ### #is_/same_as :: [Cnidaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria.public.md) 
 

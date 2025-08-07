@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Talk-Show
 - "Talk Show"
@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Talk-Show](Talk-Show.md) 
+### #is_/same_as :: [Talk-Show](/_Standards/Society/Communication/Media/Television/Talk-Show.md) 
 
-### #is_/same_as :: [Talk-Show.public](/_public/Society/Communication/Media/Talk-Show.public.md) 
+### #is_/same_as :: [Talk-Show.public](/_public/Society/Communication/Media/Television/Talk-Show.public.md) 
 
-### #is_/same_as :: [Talk-Show.internal](/_internal/Society/Communication/Media/Talk-Show.internal.md) 
+### #is_/same_as :: [Talk-Show.internal](/_internal/Society/Communication/Media/Television/Talk-Show.internal.md) 
 
-### #is_/same_as :: [Talk-Show.protect](/_protect/Society/Communication/Media/Talk-Show.protect.md) 
+### #is_/same_as :: [Talk-Show.protect](/_protect/Society/Communication/Media/Television/Talk-Show.protect.md) 
 
-### #is_/same_as :: [Talk-Show.private](/_private/Society/Communication/Media/Talk-Show.private.md) 
+### #is_/same_as :: [Talk-Show.private](/_private/Society/Communication/Media/Television/Talk-Show.private.md) 
 
-### #is_/same_as :: [Talk-Show.personal](/_personal/Society/Communication/Media/Talk-Show.personal.md) 
+### #is_/same_as :: [Talk-Show.personal](/_personal/Society/Communication/Media/Television/Talk-Show.personal.md) 
 
-### #is_/same_as :: [Talk-Show.secret](/_secret/Society/Communication/Media/Talk-Show.secret.md)
+### #is_/same_as :: [Talk-Show.secret](/_secret/Society/Communication/Media/Television/Talk-Show.secret.md)
 

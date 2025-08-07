@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Semitic languages"
 has_id_wikidata: Q34049

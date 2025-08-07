@@ -1,4 +1,4 @@
-﻿---
+---
 title: Muroidea
 ---
 
@@ -87,7 +87,7 @@ Copyright ::            © 2002 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Muroidea](Muroidea.md)) 
+### #is_/same_as :: [Muroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea.md) 
 
 ### #is_/same_as :: [Muroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea.public.md) 
 

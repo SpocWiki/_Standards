@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - used-to-diagnose
 - used_to_diagnose

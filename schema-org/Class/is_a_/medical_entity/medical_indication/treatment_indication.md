@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - treatment-indication
 - treatment_indication

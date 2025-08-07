@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - expected-prognosis
 - expected_prognosis

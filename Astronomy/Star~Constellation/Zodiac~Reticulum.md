@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Reticulum|Zodiac~Reticulum]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Reticulum.public|Zodiac~Reticulum.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Reticulum.internal|Zodiac~Reticulum.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Reticulum.protect|Zodiac~Reticulum.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Reticulum.private|Zodiac~Reticulum.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Reticulum.personal|Zodiac~Reticulum.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Reticulum.secret|Zodiac~Reticulum.secret]] 
+
+### #is_/same_as :: [Zodiac~Reticulum](/_Standards/Astronomy/Star~Constellation/Zodiac~Reticulum.md) 
+
+### #is_/same_as :: [Zodiac~Reticulum.public](/_public/Astronomy/Star~Constellation/Zodiac~Reticulum.public.md) 
+
+### #is_/same_as :: [Zodiac~Reticulum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Reticulum.internal.md) 
+
+### #is_/same_as :: [Zodiac~Reticulum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Reticulum.protect.md) 
+
+### #is_/same_as :: [Zodiac~Reticulum.private](/_private/Astronomy/Star~Constellation/Zodiac~Reticulum.private.md) 
+
+### #is_/same_as :: [Zodiac~Reticulum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Reticulum.personal.md) 
+
+### #is_/same_as :: [Zodiac~Reticulum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Reticulum.secret.md)
+

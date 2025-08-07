@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - urologic
 - urologic

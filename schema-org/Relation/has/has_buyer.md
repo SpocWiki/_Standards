@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - buyer
 - buyer

@@ -1,4 +1,4 @@
-﻿---
+---
 Academia_edu_profile_URL: "https://www.academia.edu/People/Mao_Zedong"
 aliases:
 - "Mao Zedong"
@@ -143,17 +143,17 @@ work_period_end_: 1976
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mao_Zedong](Mao_Zedong.md)) 
+### #is_/same_as :: [Mao_Zedong](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.md) 
 
-### #is_/same_as :: [Mao_Zedong.public](/_public/Society/Government/Leader/Modern_Leaders/Mao_Zedong.public.md) 
+### #is_/same_as :: [Mao_Zedong.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.public.md) 
 
-### #is_/same_as :: [Mao_Zedong.internal](/_internal/Society/Government/Leader/Modern_Leaders/Mao_Zedong.internal.md) 
+### #is_/same_as :: [Mao_Zedong.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.internal.md) 
 
-### #is_/same_as :: [Mao_Zedong.protect](/_protect/Society/Government/Leader/Modern_Leaders/Mao_Zedong.protect.md) 
+### #is_/same_as :: [Mao_Zedong.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.protect.md) 
 
-### #is_/same_as :: [Mao_Zedong.private](/_private/Society/Government/Leader/Modern_Leaders/Mao_Zedong.private.md) 
+### #is_/same_as :: [Mao_Zedong.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.private.md) 
 
-### #is_/same_as :: [Mao_Zedong.personal](/_personal/Society/Government/Leader/Modern_Leaders/Mao_Zedong.personal.md) 
+### #is_/same_as :: [Mao_Zedong.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.personal.md) 
 
-### #is_/same_as :: [Mao_Zedong.secret](/_secret/Society/Government/Leader/Modern_Leaders/Mao_Zedong.secret.md)
+### #is_/same_as :: [Mao_Zedong.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.secret.md)
 

@@ -87,19 +87,20 @@ The anatomical location at which two or more bones make contact.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joint) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :[Joint](Joint.md))) 
+### #is_/same_as :: [Joint](/_Standards/bio/Medicine/Anatomy/Skeleton/Joint.md) 
 
-### #is_/same_as :: [joint.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.public.md) 
+### #is_/same_as :: [Joint.public](/_public/bio/Medicine/Anatomy/Skeleton/Joint.public.md) 
 
-### #is_/same_as :: [joint.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.internal.md) 
+### #is_/same_as :: [Joint.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Joint.internal.md) 
 
-### #is_/same_as :: [joint.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.protect.md) 
+### #is_/same_as :: [Joint.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Joint.protect.md) 
 
-### #is_/same_as :: [joint.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.private.md) 
+### #is_/same_as :: [Joint.private](/_private/bio/Medicine/Anatomy/Skeleton/Joint.private.md) 
 
-### #is_/same_as :: [joint.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.personal.md) 
+### #is_/same_as :: [Joint.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Joint.personal.md) 
 
-### #is_/same_as :: [joint.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.secret.md)
+### #is_/same_as :: [Joint.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Joint.secret.md)
 

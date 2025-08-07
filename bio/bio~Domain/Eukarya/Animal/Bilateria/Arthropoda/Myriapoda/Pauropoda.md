@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pauropoda
 ---
 
@@ -104,7 +104,7 @@ Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pauropoda](Pauropoda.md)) 
+### #is_/same_as :: [Pauropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.md) 
 
 ### #is_/same_as :: [Pauropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda.public.md) 
 

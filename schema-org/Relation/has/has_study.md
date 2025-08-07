@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - study
 - study

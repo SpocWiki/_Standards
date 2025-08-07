@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cdcpmd-record
 - cdcpmd_record

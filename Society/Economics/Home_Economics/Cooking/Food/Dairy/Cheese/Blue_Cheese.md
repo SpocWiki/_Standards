@@ -24,3 +24,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blue%20cheese) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blue_Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.md) 
+
+### #is_/same_as :: [Blue_Cheese.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.public.md) 
+
+### #is_/same_as :: [Blue_Cheese.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.internal.md) 
+
+### #is_/same_as :: [Blue_Cheese.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.protect.md) 
+
+### #is_/same_as :: [Blue_Cheese.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.private.md) 
+
+### #is_/same_as :: [Blue_Cheese.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.personal.md) 
+
+### #is_/same_as :: [Blue_Cheese.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.secret.md)
+

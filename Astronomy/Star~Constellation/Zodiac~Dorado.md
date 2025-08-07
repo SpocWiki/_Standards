@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Dorado|Zodiac~Dorado]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Dorado.public|Zodiac~Dorado.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Dorado.internal|Zodiac~Dorado.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Dorado.protect|Zodiac~Dorado.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Dorado.private|Zodiac~Dorado.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Dorado.personal|Zodiac~Dorado.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Dorado.secret|Zodiac~Dorado.secret]] 
+
+### #is_/same_as :: [Zodiac~Dorado](/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado.md) 
+
+### #is_/same_as :: [Zodiac~Dorado.public](/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public.md) 
+
+### #is_/same_as :: [Zodiac~Dorado.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal.md) 
+
+### #is_/same_as :: [Zodiac~Dorado.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect.md) 
+
+### #is_/same_as :: [Zodiac~Dorado.private](/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private.md) 
+
+### #is_/same_as :: [Zodiac~Dorado.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal.md) 
+
+### #is_/same_as :: [Zodiac~Dorado.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret.md)
+

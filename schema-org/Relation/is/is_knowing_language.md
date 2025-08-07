@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - knows-language
 - knows_language

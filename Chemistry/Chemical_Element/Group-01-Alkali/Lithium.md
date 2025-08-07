@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Hedi Slimane"
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
@@ -109,17 +109,17 @@ require Graphite instead of amorphous Carbon which can be used with [[Natrium]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lithium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Lithium.md) 
+### #is_/same_as :: [Lithium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.md) 
 
-### #is_/same_as :: [Lithium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Lithium.public.md) 
+### #is_/same_as :: [Lithium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public.md) 
 
-### #is_/same_as :: [Lithium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Lithium.internal.md) 
+### #is_/same_as :: [Lithium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal.md) 
 
-### #is_/same_as :: [Lithium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Lithium.protect.md) 
+### #is_/same_as :: [Lithium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect.md) 
 
-### #is_/same_as :: [Lithium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Lithium.private.md) 
+### #is_/same_as :: [Lithium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private.md) 
 
-### #is_/same_as :: [Lithium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Lithium.personal.md) 
+### #is_/same_as :: [Lithium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal.md) 
 
-### #is_/same_as :: [Lithium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Lithium.secret.md)
+### #is_/same_as :: [Lithium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret.md)
 

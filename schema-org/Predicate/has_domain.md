@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - domain_includes
 - domainIncludes

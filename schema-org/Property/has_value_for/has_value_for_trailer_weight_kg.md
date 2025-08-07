@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - trailer_weight
 - trailer-weight

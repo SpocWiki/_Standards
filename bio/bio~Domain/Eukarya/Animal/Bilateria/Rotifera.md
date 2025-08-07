@@ -1,4 +1,4 @@
-﻿---
+---
 title: Rotifera
 ---
 
@@ -87,7 +87,7 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Rotifera](Rotifera.md)) 
+### #is_/same_as :: [Rotifera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.md) 
 
 ### #is_/same_as :: [Rotifera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Rotifera.public.md) 
 

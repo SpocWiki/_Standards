@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - adult-entertainment
 - adult_entertainment

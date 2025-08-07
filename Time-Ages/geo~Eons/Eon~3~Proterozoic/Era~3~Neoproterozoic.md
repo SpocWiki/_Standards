@@ -1,4 +1,4 @@
-﻿---
+---
 BHCL_UUID: 80ae7b88-2e5e-44a1-a3ce-07f81767cee6
 canonization_status: '[[_Standards/WikiData/WD~saint,43115]]'
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/CoatOfArmsOfStefan%20LazarevicHrebeljanovic.png"

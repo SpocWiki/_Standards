@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lemuridae
 ---
 
@@ -71,7 +71,7 @@ Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_da
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lemuridae](Lemuridae.md)) 
+### #is_/same_as :: [Lemuridae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.md) 
 
 ### #is_/same_as :: [Lemuridae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Strepsirrhini/Lemuridae.public.md) 
 

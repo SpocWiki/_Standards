@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-procedure
 - medical_procedure

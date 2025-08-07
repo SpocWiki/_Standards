@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "F.Murray Abraham"
 ---
@@ -35,4 +35,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/F.%20Murray%20Abraham)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Abraham,F.Murray](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.md) 
+
+### #is_/same_as :: [Abraham,F.Murray.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.public.md) 
+
+### #is_/same_as :: [Abraham,F.Murray.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.internal.md) 
+
+### #is_/same_as :: [Abraham,F.Murray.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.protect.md) 
+
+### #is_/same_as :: [Abraham,F.Murray.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.private.md) 
+
+### #is_/same_as :: [Abraham,F.Murray.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.personal.md) 
+
+### #is_/same_as :: [Abraham,F.Murray.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.secret.md)
 

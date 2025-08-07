@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dissolution-date
 - dissolution_date

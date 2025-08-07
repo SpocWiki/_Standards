@@ -78,3 +78,20 @@ IPTC_NewsCode: mediatopic/20000033
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Design) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Design](/_Standards/Technology/Design.md) 
+
+### #is_/same_as :: [Design.public](/_public/Technology/Design.public.md) 
+
+### #is_/same_as :: [Design.internal](/_internal/Technology/Design.internal.md) 
+
+### #is_/same_as :: [Design.protect](/_protect/Technology/Design.protect.md) 
+
+### #is_/same_as :: [Design.private](/_private/Technology/Design.private.md) 
+
+### #is_/same_as :: [Design.personal](/_personal/Technology/Design.personal.md) 
+
+### #is_/same_as :: [Design.secret](/_secret/Technology/Design.secret.md)
+

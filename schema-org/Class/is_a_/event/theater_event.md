@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - theater-event
 - theater_event

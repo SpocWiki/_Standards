@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "cross-sectional study"
 - "cross-sectional studies"

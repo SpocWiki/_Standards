@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - first-performance
 - first_performance

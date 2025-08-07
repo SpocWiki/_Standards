@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - identifying-test
 - identifying_test

@@ -58,3 +58,20 @@ Krugosvet_article: nauka_i_tehnika/matematika/VARIATSIONNOE_ISCHISLENIE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calculus%20of%20variations) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Calculus_of_Variations](/_Standards/Mathematics/Calculus/Calculus_of_Variations.md) 
+
+### #is_/same_as :: [Calculus_of_Variations.public](/_public/Mathematics/Calculus/Calculus_of_Variations.public.md) 
+
+### #is_/same_as :: [Calculus_of_Variations.internal](/_internal/Mathematics/Calculus/Calculus_of_Variations.internal.md) 
+
+### #is_/same_as :: [Calculus_of_Variations.protect](/_protect/Mathematics/Calculus/Calculus_of_Variations.protect.md) 
+
+### #is_/same_as :: [Calculus_of_Variations.private](/_private/Mathematics/Calculus/Calculus_of_Variations.private.md) 
+
+### #is_/same_as :: [Calculus_of_Variations.personal](/_personal/Mathematics/Calculus/Calculus_of_Variations.personal.md) 
+
+### #is_/same_as :: [Calculus_of_Variations.secret](/_secret/Mathematics/Calculus/Calculus_of_Variations.secret.md)
+

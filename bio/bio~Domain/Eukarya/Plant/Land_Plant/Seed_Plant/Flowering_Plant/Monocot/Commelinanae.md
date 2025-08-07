@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Commelinales
 title: Commelinanae
@@ -81,17 +81,17 @@ annulate pollen apertures, and apical placentation (Linder and Kellogg, 1993).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Commelinanae](Commelinanae.md)) 
+### #is_/same_as :: [Commelinanae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.md) 
 
-### #is_/same_as :: [Commelinanae.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.public.md) 
+### #is_/same_as :: [Commelinanae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.public.md) 
 
-### #is_/same_as :: [Commelinanae.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.internal.md) 
+### #is_/same_as :: [Commelinanae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.internal.md) 
 
-### #is_/same_as :: [Commelinanae.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.protect.md) 
+### #is_/same_as :: [Commelinanae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.protect.md) 
 
-### #is_/same_as :: [Commelinanae.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.private.md) 
+### #is_/same_as :: [Commelinanae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.private.md) 
 
-### #is_/same_as :: [Commelinanae.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.personal.md) 
+### #is_/same_as :: [Commelinanae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.personal.md) 
 
-### #is_/same_as :: [Commelinanae.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.secret.md)
+### #is_/same_as :: [Commelinanae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae.secret.md)
 

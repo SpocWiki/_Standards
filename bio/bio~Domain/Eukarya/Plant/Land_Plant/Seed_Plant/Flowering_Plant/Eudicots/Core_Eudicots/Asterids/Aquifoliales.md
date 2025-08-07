@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aquifoliales
 ---
 
@@ -53,17 +53,17 @@ Copyright ::            © 1986 [Joseph M. DiTomaso](mailto:ditomaso@vegmail.ucd
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Aquifoliales](Aquifoliales.md)) 
+### #is_/same_as :: [Aquifoliales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.md) 
 
-### #is_/same_as :: [Aquifoliales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.public.md) 
+### #is_/same_as :: [Aquifoliales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.public.md) 
 
-### #is_/same_as :: [Aquifoliales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.internal.md) 
+### #is_/same_as :: [Aquifoliales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.internal.md) 
 
-### #is_/same_as :: [Aquifoliales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.protect.md) 
+### #is_/same_as :: [Aquifoliales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.protect.md) 
 
-### #is_/same_as :: [Aquifoliales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.private.md) 
+### #is_/same_as :: [Aquifoliales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.private.md) 
 
-### #is_/same_as :: [Aquifoliales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.personal.md) 
+### #is_/same_as :: [Aquifoliales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.personal.md) 
 
-### #is_/same_as :: [Aquifoliales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.secret.md)
+### #is_/same_as :: [Aquifoliales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crassigyrinus scoticus"
 ---
 
@@ -152,7 +152,7 @@ Copyright ::            © 1990 Royal Society of Edinburgh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Crassigyrinus](Crassigyrinus.md)) 
+### #is_/same_as :: [Crassigyrinus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.md) 
 
 ### #is_/same_as :: [Crassigyrinus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.public.md) 
 

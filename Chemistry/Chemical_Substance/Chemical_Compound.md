@@ -88,17 +88,17 @@ Wolfram_Language_entity_type: Chemical
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Compound](/_Standards/chemic/Chemical_Compound.md) 
+### #is_/same_as :: [Chemical_Compound](/_Standards/Chemistry/Chemical_Substance/Chemical_Compound.md) 
 
-### #is_/same_as :: [Chemical_Compound.public](/_public/chemic/Chemical_Compound.public.md) 
+### #is_/same_as :: [Chemical_Compound.public](/_public/Chemistry/Chemical_Substance/Chemical_Compound.public.md) 
 
-### #is_/same_as :: [Chemical_Compound.internal](/_internal/chemic/Chemical_Compound.internal.md) 
+### #is_/same_as :: [Chemical_Compound.internal](/_internal/Chemistry/Chemical_Substance/Chemical_Compound.internal.md) 
 
-### #is_/same_as :: [Chemical_Compound.protect](/_protect/chemic/Chemical_Compound.protect.md) 
+### #is_/same_as :: [Chemical_Compound.protect](/_protect/Chemistry/Chemical_Substance/Chemical_Compound.protect.md) 
 
-### #is_/same_as :: [Chemical_Compound.private](/_private/chemic/Chemical_Compound.private.md) 
+### #is_/same_as :: [Chemical_Compound.private](/_private/Chemistry/Chemical_Substance/Chemical_Compound.private.md) 
 
-### #is_/same_as :: [Chemical_Compound.personal](/_personal/chemic/Chemical_Compound.personal.md) 
+### #is_/same_as :: [Chemical_Compound.personal](/_personal/Chemistry/Chemical_Substance/Chemical_Compound.personal.md) 
 
-### #is_/same_as :: [Chemical_Compound.secret](/_secret/chemic/Chemical_Compound.secret.md)
+### #is_/same_as :: [Chemical_Compound.secret](/_secret/Chemistry/Chemical_Substance/Chemical_Compound.secret.md)
 

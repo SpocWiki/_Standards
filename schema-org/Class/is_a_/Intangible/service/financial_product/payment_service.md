@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-service
 - payment_service

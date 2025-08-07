@@ -179,17 +179,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Augustus](Augustus.md)) 
+### #is_/same_as :: [Augustus](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.md) 
 
-### #is_/same_as :: [Augustus.public](/_public/Society/Government/Leader/Ancient_Leaders/Augustus.public.md) 
+### #is_/same_as :: [Augustus.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.public.md) 
 
-### #is_/same_as :: [Augustus.internal](/_internal/Society/Government/Leader/Ancient_Leaders/Augustus.internal.md) 
+### #is_/same_as :: [Augustus.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.internal.md) 
 
-### #is_/same_as :: [Augustus.protect](/_protect/Society/Government/Leader/Ancient_Leaders/Augustus.protect.md) 
+### #is_/same_as :: [Augustus.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.protect.md) 
 
-### #is_/same_as :: [Augustus.private](/_private/Society/Government/Leader/Ancient_Leaders/Augustus.private.md) 
+### #is_/same_as :: [Augustus.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.private.md) 
 
-### #is_/same_as :: [Augustus.personal](/_personal/Society/Government/Leader/Ancient_Leaders/Augustus.personal.md) 
+### #is_/same_as :: [Augustus.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.personal.md) 
 
-### #is_/same_as :: [Augustus.secret](/_secret/Society/Government/Leader/Ancient_Leaders/Augustus.secret.md)
+### #is_/same_as :: [Augustus.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Augustus.secret.md)
 

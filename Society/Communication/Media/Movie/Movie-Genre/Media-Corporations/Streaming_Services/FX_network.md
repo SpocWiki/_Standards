@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "FX network"
 - "Fox eXtended"
@@ -30,4 +30,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/FX%20(TV%20channel))
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [FX_network](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.md) 
+
+### #is_/same_as :: [FX_network.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.public.md) 
+
+### #is_/same_as :: [FX_network.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.internal.md) 
+
+### #is_/same_as :: [FX_network.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.protect.md) 
+
+### #is_/same_as :: [FX_network.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.private.md) 
+
+### #is_/same_as :: [FX_network.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.personal.md) 
+
+### #is_/same_as :: [FX_network.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/FX_network.secret.md)
 

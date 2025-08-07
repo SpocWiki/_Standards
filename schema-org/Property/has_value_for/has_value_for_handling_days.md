@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - handling_time
 - handling-time

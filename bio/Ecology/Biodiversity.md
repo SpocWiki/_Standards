@@ -82,3 +82,20 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biodiversity) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biodiversity](/_Standards/bio/Ecology/Biodiversity.md) 
+
+### #is_/same_as :: [Biodiversity.public](/_public/bio/Ecology/Biodiversity.public.md) 
+
+### #is_/same_as :: [Biodiversity.internal](/_internal/bio/Ecology/Biodiversity.internal.md) 
+
+### #is_/same_as :: [Biodiversity.protect](/_protect/bio/Ecology/Biodiversity.protect.md) 
+
+### #is_/same_as :: [Biodiversity.private](/_private/bio/Ecology/Biodiversity.private.md) 
+
+### #is_/same_as :: [Biodiversity.personal](/_personal/bio/Ecology/Biodiversity.personal.md) 
+
+### #is_/same_as :: [Biodiversity.secret](/_secret/bio/Ecology/Biodiversity.secret.md)
+

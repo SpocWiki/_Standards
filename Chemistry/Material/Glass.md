@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Glass
 Commons_gallery: Glass
 CosIng_number: 56178
@@ -76,17 +76,17 @@ UMLS_CUI: C0017596
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glass](/_Standards/chemic/Material/Glass.md) 
+### #is_/same_as :: [Glass](/_Standards/Chemistry/Material/Glass.md) 
 
-### #is_/same_as :: [Glass.public](/_public/chemic/Material/Glass.public.md) 
+### #is_/same_as :: [Glass.public](/_public/Chemistry/Material/Glass.public.md) 
 
-### #is_/same_as :: [Glass.internal](/_internal/chemic/Material/Glass.internal.md) 
+### #is_/same_as :: [Glass.internal](/_internal/Chemistry/Material/Glass.internal.md) 
 
-### #is_/same_as :: [Glass.protect](/_protect/chemic/Material/Glass.protect.md) 
+### #is_/same_as :: [Glass.protect](/_protect/Chemistry/Material/Glass.protect.md) 
 
-### #is_/same_as :: [Glass.private](/_private/chemic/Material/Glass.private.md) 
+### #is_/same_as :: [Glass.private](/_private/Chemistry/Material/Glass.private.md) 
 
-### #is_/same_as :: [Glass.personal](/_personal/chemic/Material/Glass.personal.md) 
+### #is_/same_as :: [Glass.personal](/_personal/Chemistry/Material/Glass.personal.md) 
 
-### #is_/same_as :: [Glass.secret](/_secret/chemic/Material/Glass.secret.md)
+### #is_/same_as :: [Glass.secret](/_secret/Chemistry/Material/Glass.secret.md)
 

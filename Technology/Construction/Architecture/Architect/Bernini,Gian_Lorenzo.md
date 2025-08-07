@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giovanni Lorenzo Bernini"
 - "Gian Lorenzo Bernini"

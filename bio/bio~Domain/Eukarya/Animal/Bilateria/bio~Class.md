@@ -41,7 +41,7 @@ part_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bio~Class](bio~Class.md)) 
+### #is_/same_as :: [bio~Class](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class.md) 
 
 ### #is_/same_as :: [bio~Class.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/bio~Class.public.md) 
 

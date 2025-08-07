@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - opponent
 - opponent

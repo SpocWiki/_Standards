@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - active-action-status
 - active_action_status

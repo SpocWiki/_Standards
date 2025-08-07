@@ -252,3 +252,20 @@ MeSH_tree_code: Z01.756.217
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Black%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Black_Sea](/_Standards/Earth/Ocean/Mediterranean_Sea/Black_Sea.md) 
+
+### #is_/same_as :: [Black_Sea.public](/_public/Earth/Ocean/Mediterranean_Sea/Black_Sea.public.md) 
+
+### #is_/same_as :: [Black_Sea.internal](/_internal/Earth/Ocean/Mediterranean_Sea/Black_Sea.internal.md) 
+
+### #is_/same_as :: [Black_Sea.protect](/_protect/Earth/Ocean/Mediterranean_Sea/Black_Sea.protect.md) 
+
+### #is_/same_as :: [Black_Sea.private](/_private/Earth/Ocean/Mediterranean_Sea/Black_Sea.private.md) 
+
+### #is_/same_as :: [Black_Sea.personal](/_personal/Earth/Ocean/Mediterranean_Sea/Black_Sea.personal.md) 
+
+### #is_/same_as :: [Black_Sea.secret](/_secret/Earth/Ocean/Mediterranean_Sea/Black_Sea.secret.md)
+

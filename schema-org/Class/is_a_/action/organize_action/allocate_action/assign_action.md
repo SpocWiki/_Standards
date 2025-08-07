@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - assign-action
 - assign_action

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - diet-nutrition
 - diet_nutrition

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ambystomatidae
 ---
 
@@ -309,17 +309,17 @@ Copyright ::            © 1996 Sorin Damian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ambystomatidae](Ambystomatidae.md)) 
+### #is_/same_as :: [Ambystomatidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.md) 
 
-### #is_/same_as :: [Ambystomatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Ambystomatidae.public.md) 
+### #is_/same_as :: [Ambystomatidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.public.md) 
 
-### #is_/same_as :: [Ambystomatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Ambystomatidae.internal.md) 
+### #is_/same_as :: [Ambystomatidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.internal.md) 
 
-### #is_/same_as :: [Ambystomatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Ambystomatidae.protect.md) 
+### #is_/same_as :: [Ambystomatidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.protect.md) 
 
-### #is_/same_as :: [Ambystomatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Ambystomatidae.private.md) 
+### #is_/same_as :: [Ambystomatidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.private.md) 
 
-### #is_/same_as :: [Ambystomatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Ambystomatidae.personal.md) 
+### #is_/same_as :: [Ambystomatidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.personal.md) 
 
-### #is_/same_as :: [Ambystomatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Ambystomatidae.secret.md)
+### #is_/same_as :: [Ambystomatidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Ambystomatidae.secret.md)
 

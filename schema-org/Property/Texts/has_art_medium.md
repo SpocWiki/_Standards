@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - art-medium
 - art_medium

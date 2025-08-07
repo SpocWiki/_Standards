@@ -120,20 +120,19 @@ Below 3km
   but 10,000 km is often considered the upper limit of Earth's atmosphere.
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmosphere](/_Standards/Earth/Atmosphere.md) 
+### #is_/same_as :: [Atmosphere,Earth](/_Standards/Earth/Atmosphere,Earth.md) 
 
-### #is_/same_as :: [Atmosphere.public](/_public/Earth/Atmosphere.public.md) 
+### #is_/same_as :: [Atmosphere,Earth.public](/_public/Earth/Atmosphere,Earth.public.md) 
 
-### #is_/same_as :: [Atmosphere.internal](/_internal/Earth/Atmosphere.internal.md) 
+### #is_/same_as :: [Atmosphere,Earth.internal](/_internal/Earth/Atmosphere,Earth.internal.md) 
 
-### #is_/same_as :: [Atmosphere.protect](/_protect/Earth/Atmosphere.protect.md) 
+### #is_/same_as :: [Atmosphere,Earth.protect](/_protect/Earth/Atmosphere,Earth.protect.md) 
 
-### #is_/same_as :: [Atmosphere.private](/_private/Earth/Atmosphere.private.md) 
+### #is_/same_as :: [Atmosphere,Earth.private](/_private/Earth/Atmosphere,Earth.private.md) 
 
-### #is_/same_as :: [Atmosphere.personal](/_personal/Earth/Atmosphere.personal.md) 
+### #is_/same_as :: [Atmosphere,Earth.personal](/_personal/Earth/Atmosphere,Earth.personal.md) 
 
-### #is_/same_as :: [Atmosphere.secret](/_secret/Earth/Atmosphere.secret.md)
+### #is_/same_as :: [Atmosphere,Earth.secret](/_secret/Earth/Atmosphere,Earth.secret.md)
 

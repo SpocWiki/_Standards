@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - distinguishing-sign
 - distinguishing_sign

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dame Agatha Mary Clarissa Christie"
 - "Agatha Mary Clarissa Christie"
@@ -203,4 +203,20 @@ YouTube_handle: AgathaChristieOfficial
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Agatha%20Christie) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Christie,Agatha](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.md) 
+
+### #is_/same_as :: [Christie,Agatha.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.public.md) 
+
+### #is_/same_as :: [Christie,Agatha.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.internal.md) 
+
+### #is_/same_as :: [Christie,Agatha.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.protect.md) 
+
+### #is_/same_as :: [Christie,Agatha.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.private.md) 
+
+### #is_/same_as :: [Christie,Agatha.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.personal.md) 
+
+### #is_/same_as :: [Christie,Agatha.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Christie,Agatha.secret.md)
 

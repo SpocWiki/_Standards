@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - emergency-service
 - emergency_service

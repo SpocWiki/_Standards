@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-stock
 - in_stock

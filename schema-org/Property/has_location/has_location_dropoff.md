@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dropoff-location
 - dropoff_location

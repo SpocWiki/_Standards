@@ -37,3 +37,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jerry%20Lewis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jerry Lewis](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.md) 
+
+### #is_/same_as :: [Jerry Lewis.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.public.md) 
+
+### #is_/same_as :: [Jerry Lewis.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.internal.md) 
+
+### #is_/same_as :: [Jerry Lewis.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.protect.md) 
+
+### #is_/same_as :: [Jerry Lewis.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.private.md) 
+
+### #is_/same_as :: [Jerry Lewis.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.personal.md) 
+
+### #is_/same_as :: [Jerry Lewis.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jerry Lewis.secret.md)
+

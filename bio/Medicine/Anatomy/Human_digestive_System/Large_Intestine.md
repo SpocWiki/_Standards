@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/3DPX-002736%20Large%20intestine%20Nevit%20Dilmen.stl"
 arterial_supply:
 - '[[_Standards/WikiData/WD~superior_mesenteric_artery,367570]]'

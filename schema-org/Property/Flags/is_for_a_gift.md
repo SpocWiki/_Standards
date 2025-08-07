@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gift
 - for_a_gift

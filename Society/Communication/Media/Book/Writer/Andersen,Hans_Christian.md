@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Hans Christian Andersen"
 ArhivX_LOD: 45469

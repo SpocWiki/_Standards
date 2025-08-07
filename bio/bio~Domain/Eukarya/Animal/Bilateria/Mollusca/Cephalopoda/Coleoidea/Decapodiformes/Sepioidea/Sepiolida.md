@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepiolida
 ---
 
@@ -72,7 +72,7 @@ Copyright ::         © 2004 Mark Noman, Thomas Burch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepiolida](Sepiolida.md)) 
+### #is_/same_as :: [Sepiolida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida.md) 
 
 ### #is_/same_as :: [Sepiolida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida.public.md) 
 

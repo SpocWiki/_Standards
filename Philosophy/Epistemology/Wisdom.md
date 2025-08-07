@@ -52,3 +52,20 @@ P8189: "987007558574105171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wisdom) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wisdom](/_Standards/Philosophy/Epistemology/Wisdom.md) 
+
+### #is_/same_as :: [Wisdom.public](/_public/Philosophy/Epistemology/Wisdom.public.md) 
+
+### #is_/same_as :: [Wisdom.internal](/_internal/Philosophy/Epistemology/Wisdom.internal.md) 
+
+### #is_/same_as :: [Wisdom.protect](/_protect/Philosophy/Epistemology/Wisdom.protect.md) 
+
+### #is_/same_as :: [Wisdom.private](/_private/Philosophy/Epistemology/Wisdom.private.md) 
+
+### #is_/same_as :: [Wisdom.personal](/_personal/Philosophy/Epistemology/Wisdom.personal.md) 
+
+### #is_/same_as :: [Wisdom.secret](/_secret/Philosophy/Epistemology/Wisdom.secret.md)
+

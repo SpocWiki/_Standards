@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Katzenjammer Kids"
 ---
@@ -30,6 +30,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Katzenjammer%20Kids)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Katzenjammer_Kids](/_Standards/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.md) 
 
+### #is_/same_as :: [Katzenjammer_Kids.public](/_public/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.public.md) 
+
+### #is_/same_as :: [Katzenjammer_Kids.internal](/_internal/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.internal.md) 
+
+### #is_/same_as :: [Katzenjammer_Kids.protect](/_protect/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.protect.md) 
+
+### #is_/same_as :: [Katzenjammer_Kids.private](/_private/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.private.md) 
+
+### #is_/same_as :: [Katzenjammer_Kids.personal](/_personal/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.personal.md) 
+
+### #is_/same_as :: [Katzenjammer_Kids.secret](/_secret/Society/Communication/Media/Book/Author/Busch,Wilhelm/Katzenjammer_Kids.secret.md)
 

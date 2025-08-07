@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bus-station
 - bus_station

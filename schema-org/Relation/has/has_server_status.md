@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - server-status
 - server_status

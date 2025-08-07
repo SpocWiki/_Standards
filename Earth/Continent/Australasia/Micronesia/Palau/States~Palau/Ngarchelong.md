@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ngarchelong
 confidential: public

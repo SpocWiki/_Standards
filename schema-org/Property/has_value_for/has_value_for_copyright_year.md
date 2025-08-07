@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - copyright_year
 - copyright-year

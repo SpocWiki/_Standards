@@ -52,3 +52,20 @@ OpenStreetMap_tag_or_key: Tag:military_service=navy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Navy)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Navy](/_Standards/Society/Military/Navy.md) 
+
+### #is_/same_as :: [Navy.public](/_public/Society/Military/Navy.public.md) 
+
+### #is_/same_as :: [Navy.internal](/_internal/Society/Military/Navy.internal.md) 
+
+### #is_/same_as :: [Navy.protect](/_protect/Society/Military/Navy.protect.md) 
+
+### #is_/same_as :: [Navy.private](/_private/Society/Military/Navy.private.md) 
+
+### #is_/same_as :: [Navy.personal](/_personal/Society/Military/Navy.personal.md) 
+
+### #is_/same_as :: [Navy.secret](/_secret/Society/Military/Navy.secret.md)
+

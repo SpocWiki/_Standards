@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sale-event
 - sale_event

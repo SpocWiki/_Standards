@@ -1,4 +1,4 @@
-﻿---
+---
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~Italy,38]]'
 Commons_category: Business
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
@@ -152,5 +152,19 @@ Colloquially, Business is anything that keeps you occupied / busy.
 > [Wikipedia](https://en.wikipedia.org/wiki/Business)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Business](/_Standards/Society/Economics/Business.md) 
+
+### #is_/same_as :: [Business.public](/_public/Society/Economics/Business.public.md) 
+
+### #is_/same_as :: [Business.internal](/_internal/Society/Economics/Business.internal.md) 
+
+### #is_/same_as :: [Business.protect](/_protect/Society/Economics/Business.protect.md) 
+
+### #is_/same_as :: [Business.private](/_private/Society/Economics/Business.private.md) 
+
+### #is_/same_as :: [Business.personal](/_personal/Society/Economics/Business.personal.md) 
+
+### #is_/same_as :: [Business.secret](/_secret/Society/Economics/Business.secret.md)
 

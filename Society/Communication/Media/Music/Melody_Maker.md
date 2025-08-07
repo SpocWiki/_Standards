@@ -16,3 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Melody%20Maker) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Melody_Maker](/_Standards/Society/Communication/Media/Music/Melody_Maker.md) 
+
+### #is_/same_as :: [Melody_Maker.public](/_public/Society/Communication/Media/Music/Melody_Maker.public.md) 
+
+### #is_/same_as :: [Melody_Maker.internal](/_internal/Society/Communication/Media/Music/Melody_Maker.internal.md) 
+
+### #is_/same_as :: [Melody_Maker.protect](/_protect/Society/Communication/Media/Music/Melody_Maker.protect.md) 
+
+### #is_/same_as :: [Melody_Maker.private](/_private/Society/Communication/Media/Music/Melody_Maker.private.md) 
+
+### #is_/same_as :: [Melody_Maker.personal](/_personal/Society/Communication/Media/Music/Melody_Maker.personal.md) 
+
+### #is_/same_as :: [Melody_Maker.secret](/_secret/Society/Communication/Media/Music/Melody_Maker.secret.md)
+

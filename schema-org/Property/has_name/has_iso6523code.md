@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - iso6523code
 - iso6523code

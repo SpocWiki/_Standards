@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "George Orwell"
 - "Eric Arthur Blair"
@@ -159,4 +159,20 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Orwell)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Orwell,George](/_Standards/Society/Communication/Media/Book/Author/Orwell,George.md) 
+
+### #is_/same_as :: [Orwell,George.public](/_public/Society/Communication/Media/Book/Author/Orwell,George.public.md) 
+
+### #is_/same_as :: [Orwell,George.internal](/_internal/Society/Communication/Media/Book/Author/Orwell,George.internal.md) 
+
+### #is_/same_as :: [Orwell,George.protect](/_protect/Society/Communication/Media/Book/Author/Orwell,George.protect.md) 
+
+### #is_/same_as :: [Orwell,George.private](/_private/Society/Communication/Media/Book/Author/Orwell,George.private.md) 
+
+### #is_/same_as :: [Orwell,George.personal](/_personal/Society/Communication/Media/Book/Author/Orwell,George.personal.md) 
+
+### #is_/same_as :: [Orwell,George.secret](/_secret/Society/Communication/Media/Book/Author/Orwell,George.secret.md)
 

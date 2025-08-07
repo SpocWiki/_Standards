@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis picteti"
 ---
 
@@ -186,7 +186,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[picteti](picteti.md)) 
+### #is_/same_as :: [picteti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.md) 
 
 ### #is_/same_as :: [picteti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/picteti.public.md) 
 

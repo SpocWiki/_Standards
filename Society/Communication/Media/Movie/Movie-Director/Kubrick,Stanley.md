@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stanley Kubrick"
 archives_at: '[[_Standards/WikiData/WD~University_of_the_Arts_London_Archives_and_Special_Collections,81165666]]'

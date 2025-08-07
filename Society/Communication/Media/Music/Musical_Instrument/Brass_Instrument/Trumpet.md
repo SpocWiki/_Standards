@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 11971791
 award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
 Commons_category: Trumpets
@@ -42,17 +42,17 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Trumpet::4g5j6\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trumpet](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Trumpet.md) 
+### #is_/same_as :: [Trumpet](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.md) 
 
-### #is_/same_as :: [Trumpet.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Trumpet.public.md) 
+### #is_/same_as :: [Trumpet.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.public.md) 
 
-### #is_/same_as :: [Trumpet.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Trumpet.internal.md) 
+### #is_/same_as :: [Trumpet.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.internal.md) 
 
-### #is_/same_as :: [Trumpet.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Trumpet.protect.md) 
+### #is_/same_as :: [Trumpet.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.protect.md) 
 
-### #is_/same_as :: [Trumpet.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Trumpet.private.md) 
+### #is_/same_as :: [Trumpet.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.private.md) 
 
-### #is_/same_as :: [Trumpet.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Trumpet.personal.md) 
+### #is_/same_as :: [Trumpet.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.personal.md) 
 
-### #is_/same_as :: [Trumpet.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Trumpet.secret.md)
+### #is_/same_as :: [Trumpet.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Trumpet.secret.md)
 

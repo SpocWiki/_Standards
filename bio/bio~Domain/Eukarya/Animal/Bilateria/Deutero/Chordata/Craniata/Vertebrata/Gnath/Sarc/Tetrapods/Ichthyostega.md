@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ichthyostega
 ---
 
@@ -230,7 +230,7 @@ Copyright ::            © 2005 [Jennifer A. Clack](http://www.zoo.cam.ac.uk/mus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ichthyostega](Ichthyostega.md)) 
+### #is_/same_as :: [Ichthyostega](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.md) 
 
 ### #is_/same_as :: [Ichthyostega.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.public.md) 
 

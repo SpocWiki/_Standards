@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Quintus Horatius Flaccus"
 - "Q. Horatius Flaccus"

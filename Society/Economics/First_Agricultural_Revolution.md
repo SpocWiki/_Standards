@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "First Agricultural Revolution"
 - "Neolithic Revolution"

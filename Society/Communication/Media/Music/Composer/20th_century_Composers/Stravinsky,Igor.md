@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Igor Stravinsky"
 - "Igor Fyodorovich Stravinsky"

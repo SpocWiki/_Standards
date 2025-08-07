@@ -1,4 +1,4 @@
-﻿---
+---
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 aliases:
 - "Martin Luther King, Jr."
@@ -198,17 +198,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[King,Martin_Luther](King,Martin_Luther.md)) 
+### #is_/same_as :: [King,Martin_Luther](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.md) 
 
-### #is_/same_as :: [King,Martin_Luther.public](/_public/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.public.md) 
+### #is_/same_as :: [King,Martin_Luther.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.public.md) 
 
-### #is_/same_as :: [King,Martin_Luther.internal](/_internal/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.internal.md) 
+### #is_/same_as :: [King,Martin_Luther.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.internal.md) 
 
-### #is_/same_as :: [King,Martin_Luther.protect](/_protect/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.protect.md) 
+### #is_/same_as :: [King,Martin_Luther.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.protect.md) 
 
-### #is_/same_as :: [King,Martin_Luther.private](/_private/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.private.md) 
+### #is_/same_as :: [King,Martin_Luther.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.private.md) 
 
-### #is_/same_as :: [King,Martin_Luther.personal](/_personal/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.personal.md) 
+### #is_/same_as :: [King,Martin_Luther.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.personal.md) 
 
-### #is_/same_as :: [King,Martin_Luther.secret](/_secret/Society/Government/Leader/Modern_Leaders/King,Martin_Luther.secret.md)
+### #is_/same_as :: [King,Martin_Luther.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/King,Martin_Luther.secret.md)
 

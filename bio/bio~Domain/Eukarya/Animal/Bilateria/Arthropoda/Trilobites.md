@@ -1,4 +1,4 @@
-﻿---
+---
 title: Trilobites
 ---
 
@@ -77,7 +77,7 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Trilobites](Trilobites.md)) 
+### #is_/same_as :: [Trilobites](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.md) 
 
 ### #is_/same_as :: [Trilobites.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.public.md) 
 

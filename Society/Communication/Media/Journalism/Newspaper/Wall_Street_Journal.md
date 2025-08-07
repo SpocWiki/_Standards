@@ -1,4 +1,4 @@
-﻿---
+---
 account_charge_subscription_fee:
 - 700
 - 2199
@@ -106,4 +106,19 @@ Z39_5_abbreviation: "Wall St J East Ed"
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Wall%20Street%20Journal) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wall_Street_Journal](/_Standards/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.md) 
+
+### #is_/same_as :: [Wall_Street_Journal.public](/_public/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.public.md) 
+
+### #is_/same_as :: [Wall_Street_Journal.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.internal.md) 
+
+### #is_/same_as :: [Wall_Street_Journal.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.protect.md) 
+
+### #is_/same_as :: [Wall_Street_Journal.private](/_private/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.private.md) 
+
+### #is_/same_as :: [Wall_Street_Journal.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.personal.md) 
+
+### #is_/same_as :: [Wall_Street_Journal.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Wall_Street_Journal.secret.md)
 

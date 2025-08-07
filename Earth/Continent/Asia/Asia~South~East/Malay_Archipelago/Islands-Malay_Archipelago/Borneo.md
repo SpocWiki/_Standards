@@ -89,3 +89,20 @@ markerFolder: ./Borneo/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Borneo) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Borneo](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.md) 
+
+### #is_/same_as :: [Borneo.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.public.md) 
+
+### #is_/same_as :: [Borneo.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.internal.md) 
+
+### #is_/same_as :: [Borneo.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.protect.md) 
+
+### #is_/same_as :: [Borneo.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.private.md) 
+
+### #is_/same_as :: [Borneo.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.personal.md) 
+
+### #is_/same_as :: [Borneo.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay_Archipelago/Borneo.secret.md)
+

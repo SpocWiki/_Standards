@@ -31,3 +31,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfuric%20acid) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sulfuric_Acid](/_Standards/Chemistry/inOrganic/Sulfuric_Acid.md) 
+
+### #is_/same_as :: [Sulfuric_Acid.public](/_public/Chemistry/inOrganic/Sulfuric_Acid.public.md) 
+
+### #is_/same_as :: [Sulfuric_Acid.internal](/_internal/Chemistry/inOrganic/Sulfuric_Acid.internal.md) 
+
+### #is_/same_as :: [Sulfuric_Acid.protect](/_protect/Chemistry/inOrganic/Sulfuric_Acid.protect.md) 
+
+### #is_/same_as :: [Sulfuric_Acid.private](/_private/Chemistry/inOrganic/Sulfuric_Acid.private.md) 
+
+### #is_/same_as :: [Sulfuric_Acid.personal](/_personal/Chemistry/inOrganic/Sulfuric_Acid.personal.md) 
+
+### #is_/same_as :: [Sulfuric_Acid.secret](/_secret/Chemistry/inOrganic/Sulfuric_Acid.secret.md)
+

@@ -46,3 +46,20 @@ Commons_category: Anvils
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anvil) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anvil](/_Standards/Chemistry/Material/Metallurgy/Anvil.md) 
+
+### #is_/same_as :: [Anvil.public](/_public/Chemistry/Material/Metallurgy/Anvil.public.md) 
+
+### #is_/same_as :: [Anvil.internal](/_internal/Chemistry/Material/Metallurgy/Anvil.internal.md) 
+
+### #is_/same_as :: [Anvil.protect](/_protect/Chemistry/Material/Metallurgy/Anvil.protect.md) 
+
+### #is_/same_as :: [Anvil.private](/_private/Chemistry/Material/Metallurgy/Anvil.private.md) 
+
+### #is_/same_as :: [Anvil.personal](/_personal/Chemistry/Material/Metallurgy/Anvil.personal.md) 
+
+### #is_/same_as :: [Anvil.secret](/_secret/Chemistry/Material/Metallurgy/Anvil.secret.md)
+

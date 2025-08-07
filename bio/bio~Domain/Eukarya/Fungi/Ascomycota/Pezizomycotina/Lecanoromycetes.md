@@ -1,4 +1,4 @@
-﻿---
+---
 title: Lecanoromycetes
 ---
 
@@ -27,7 +27,7 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lecanoromycetes](Lecanoromycetes.md)) 
+### #is_/same_as :: [Lecanoromycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.md) 
 
 ### #is_/same_as :: [Lecanoromycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.public.md) 
 

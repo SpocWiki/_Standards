@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - event-attendance-mode-enumeration
 - event_attendance_mode_enumeration

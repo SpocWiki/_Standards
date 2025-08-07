@@ -38,3 +38,20 @@ has_id_wikidata: Q58373
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amun) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Amun](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.md) 
+
+### #is_/same_as :: [Amun.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.public.md) 
+
+### #is_/same_as :: [Amun.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.internal.md) 
+
+### #is_/same_as :: [Amun.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.protect.md) 
+
+### #is_/same_as :: [Amun.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.private.md) 
+
+### #is_/same_as :: [Amun.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.personal.md) 
+
+### #is_/same_as :: [Amun.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Amun.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Glomerida
 ---
 
@@ -48,7 +48,7 @@ title: Glomerida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Glomerida](Glomerida.md)) 
+### #is_/same_as :: [Glomerida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.md) 
 
 ### #is_/same_as :: [Glomerida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - measured-property
 - measured_property

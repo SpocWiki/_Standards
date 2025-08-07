@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - disease-spread-statistics
 - disease_spread_statistics

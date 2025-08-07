@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Castle in the Sky"
 - "Laputa: Castle in the Sky"
@@ -15,5 +15,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Castle%20in%20the%20Sky) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Castle_in_the_Sky](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.md) 
+
+### #is_/same_as :: [Castle_in_the_Sky.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.public.md) 
+
+### #is_/same_as :: [Castle_in_the_Sky.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.internal.md) 
+
+### #is_/same_as :: [Castle_in_the_Sky.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.protect.md) 
+
+### #is_/same_as :: [Castle_in_the_Sky.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.private.md) 
+
+### #is_/same_as :: [Castle_in_the_Sky.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.personal.md) 
+
+### #is_/same_as :: [Castle_in_the_Sky.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Castle_in_the_Sky.secret.md)
 

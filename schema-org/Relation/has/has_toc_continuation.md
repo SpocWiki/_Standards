@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - toc-continuation
 - toc_continuation

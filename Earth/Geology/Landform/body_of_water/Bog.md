@@ -44,3 +44,20 @@ GeoNames_feature_code: H.BOG
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bog) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bog](/_Standards/Earth/Geology/Landform/body_of_water/Bog.md) 
+
+### #is_/same_as :: [Bog.public](/_public/Earth/Geology/Landform/body_of_water/Bog.public.md) 
+
+### #is_/same_as :: [Bog.internal](/_internal/Earth/Geology/Landform/body_of_water/Bog.internal.md) 
+
+### #is_/same_as :: [Bog.protect](/_protect/Earth/Geology/Landform/body_of_water/Bog.protect.md) 
+
+### #is_/same_as :: [Bog.private](/_private/Earth/Geology/Landform/body_of_water/Bog.private.md) 
+
+### #is_/same_as :: [Bog.personal](/_personal/Earth/Geology/Landform/body_of_water/Bog.personal.md) 
+
+### #is_/same_as :: [Bog.secret](/_secret/Earth/Geology/Landform/body_of_water/Bog.secret.md)
+

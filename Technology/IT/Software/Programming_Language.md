@@ -1,4 +1,4 @@
-﻿---
+---
 ArchWiki_article:
 - Programming_languages
 - Programming_languages_(Español)

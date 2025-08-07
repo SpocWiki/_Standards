@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - reservation-accepted
 - reservation_accepted

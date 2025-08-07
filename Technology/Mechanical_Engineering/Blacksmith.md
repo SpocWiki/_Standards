@@ -89,3 +89,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20tourist%20helping%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blacksmith) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blacksmith](/_Standards/Technology/Mechanical_Engineering/Blacksmith.md) 
+
+### #is_/same_as :: [Blacksmith.public](/_public/Technology/Mechanical_Engineering/Blacksmith.public.md) 
+
+### #is_/same_as :: [Blacksmith.internal](/_internal/Technology/Mechanical_Engineering/Blacksmith.internal.md) 
+
+### #is_/same_as :: [Blacksmith.protect](/_protect/Technology/Mechanical_Engineering/Blacksmith.protect.md) 
+
+### #is_/same_as :: [Blacksmith.private](/_private/Technology/Mechanical_Engineering/Blacksmith.private.md) 
+
+### #is_/same_as :: [Blacksmith.personal](/_personal/Technology/Mechanical_Engineering/Blacksmith.personal.md) 
+
+### #is_/same_as :: [Blacksmith.secret](/_secret/Technology/Mechanical_Engineering/Blacksmith.secret.md)
+

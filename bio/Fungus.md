@@ -1,4 +1,4 @@
-﻿---
+---
 AlgaeBase_URL: "https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070"
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]'
 Colon_Classification: I23

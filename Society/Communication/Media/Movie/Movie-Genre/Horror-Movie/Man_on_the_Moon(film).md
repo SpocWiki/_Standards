@@ -35,5 +35,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Man%20on%20the%20Moon%20(film))
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Man_on_the_Moon(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).md) 
+
+### #is_/same_as :: [Man_on_the_Moon(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).public.md) 
+
+### #is_/same_as :: [Man_on_the_Moon(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).internal.md) 
+
+### #is_/same_as :: [Man_on_the_Moon(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).protect.md) 
+
+### #is_/same_as :: [Man_on_the_Moon(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).private.md) 
+
+### #is_/same_as :: [Man_on_the_Moon(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).personal.md) 
+
+### #is_/same_as :: [Man_on_the_Moon(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).secret.md)
 

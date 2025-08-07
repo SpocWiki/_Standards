@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - basic-income
 - basic_income

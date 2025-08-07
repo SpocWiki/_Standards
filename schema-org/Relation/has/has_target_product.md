@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - target-product
 - target_product

@@ -80,3 +80,20 @@ Commons_gallery: Archive
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archive) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Archive](/_Standards/Society/Communication/Media/Archive.md) 
+
+### #is_/same_as :: [Archive.public](/_public/Society/Communication/Media/Archive.public.md) 
+
+### #is_/same_as :: [Archive.internal](/_internal/Society/Communication/Media/Archive.internal.md) 
+
+### #is_/same_as :: [Archive.protect](/_protect/Society/Communication/Media/Archive.protect.md) 
+
+### #is_/same_as :: [Archive.private](/_private/Society/Communication/Media/Archive.private.md) 
+
+### #is_/same_as :: [Archive.personal](/_personal/Society/Communication/Media/Archive.personal.md) 
+
+### #is_/same_as :: [Archive.secret](/_secret/Society/Communication/Media/Archive.secret.md)
+

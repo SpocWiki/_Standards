@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-organization
 - medical_organization

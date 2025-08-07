@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - video-frame-size
 - video_frame_size

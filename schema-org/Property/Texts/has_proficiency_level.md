@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - proficiency-level
 - proficiency_level

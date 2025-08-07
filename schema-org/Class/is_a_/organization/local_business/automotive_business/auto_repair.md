@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - auto-repair
 - auto_repair

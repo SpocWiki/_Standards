@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-system-continental
 - wearable_size_system_continental

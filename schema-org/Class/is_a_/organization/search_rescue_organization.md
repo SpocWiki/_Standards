@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - search-rescue-organization
 - search_rescue_organization

@@ -1,4 +1,4 @@
-﻿---
+---
 icon: fas_location_dot
 ---
 

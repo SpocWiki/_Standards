@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-system-en13402
 - wearable_size_system_en13402

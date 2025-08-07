@@ -1,4 +1,4 @@
-﻿---
+---
 title: Florideophyceae
 ---
 
@@ -159,7 +159,7 @@ Copyright ::         © 2000 K. T. Bird
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Florideophyceae](Florideophyceae.md)) 
+### #is_/same_as :: [Florideophyceae](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.md) 
 
 ### #is_/same_as :: [Florideophyceae.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.public.md) 
 

@@ -22,3 +22,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Argylle) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Argylle](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.md) 
+
+### #is_/same_as :: [Argylle.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.public.md) 
+
+### #is_/same_as :: [Argylle.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.internal.md) 
+
+### #is_/same_as :: [Argylle.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.protect.md) 
+
+### #is_/same_as :: [Argylle.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.private.md) 
+
+### #is_/same_as :: [Argylle.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.personal.md) 
+
+### #is_/same_as :: [Argylle.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Argylle.secret.md)
+

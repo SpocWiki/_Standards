@@ -168,36 +168,17 @@ expiryDate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mercury,Planet](Mercury,Planet.md)) 
+### #is_/same_as :: [Mercury,Planet](/_Standards/Astronomy/Solar_System/Mercury,Planet.md) 
 
-### #is_/same_as :: [Mercury.public](/_public/Astronomy/Solar_System/Mercury.public.md) 
+### #is_/same_as :: [Mercury,Planet.public](/_public/Astronomy/Solar_System/Mercury,Planet.public.md) 
 
-### #is_/same_as :: [Mercury.internal](/_internal/Astronomy/Solar_System/Mercury.internal.md) 
+### #is_/same_as :: [Mercury,Planet.internal](/_internal/Astronomy/Solar_System/Mercury,Planet.internal.md) 
 
-### #is_/same_as :: [Mercury.protect](/_protect/Astronomy/Solar_System/Mercury.protect.md) 
+### #is_/same_as :: [Mercury,Planet.protect](/_protect/Astronomy/Solar_System/Mercury,Planet.protect.md) 
 
-### #is_/same_as :: [Mercury.private](/_private/Astronomy/Solar_System/Mercury.private.md) 
+### #is_/same_as :: [Mercury,Planet.private](/_private/Astronomy/Solar_System/Mercury,Planet.private.md) 
 
-### #is_/same_as :: [Mercury.personal](/_personal/Astronomy/Solar_System/Mercury.personal.md) 
+### #is_/same_as :: [Mercury,Planet.personal](/_personal/Astronomy/Solar_System/Mercury,Planet.personal.md) 
 
-### #is_/same_as :: [Mercury.secret](/_secret/Astronomy/Solar_System/Mercury.secret.md)
+### #is_/same_as :: [Mercury,Planet.secret](/_secret/Astronomy/Solar_System/Mercury,Planet.secret.md)
 
-
-# [[Mercury,Planet]] 
-
-#is_/part_of :: [[Mercury,Planet]] 
-
-![[Mercury,Planet.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

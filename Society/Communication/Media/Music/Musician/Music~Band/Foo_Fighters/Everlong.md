@@ -91,3 +91,20 @@ If anything could ever be this good again
 The only thing I'll ever ask of you
 You've got to promise not to stop when I say you win
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Everlong](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.md) 
+
+### #is_/same_as :: [Everlong.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.public.md) 
+
+### #is_/same_as :: [Everlong.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.internal.md) 
+
+### #is_/same_as :: [Everlong.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.protect.md) 
+
+### #is_/same_as :: [Everlong.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.private.md) 
+
+### #is_/same_as :: [Everlong.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.personal.md) 
+
+### #is_/same_as :: [Everlong.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.secret.md)
+

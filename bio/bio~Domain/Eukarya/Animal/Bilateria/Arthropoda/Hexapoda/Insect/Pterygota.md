@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pterygota
 ---
 
@@ -167,7 +167,7 @@ Copyright ::            © 2002 [California Academy of Sciences](http://www.cala
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pterygota](Pterygota.md)) 
+### #is_/same_as :: [Pterygota](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.md) 
 
 ### #is_/same_as :: [Pterygota.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.public.md) 
 

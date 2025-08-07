@@ -1,4 +1,4 @@
-﻿---
+---
 title: Latrodectus
 ---
 
@@ -276,7 +276,7 @@ sacrifice. Behav. Ecol. 15:785-792.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Latrodectus](Latrodectus.md)) 
+### #is_/same_as :: [Latrodectus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus.md) 
 
 ### #is_/same_as :: [Latrodectus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus.public.md) 
 

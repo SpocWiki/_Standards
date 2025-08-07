@@ -1,4 +1,4 @@
-﻿---
+---
 Amazon_com_browse_node: 16318171
 Commons_category: "Juices (drink)"
 described_by_source:

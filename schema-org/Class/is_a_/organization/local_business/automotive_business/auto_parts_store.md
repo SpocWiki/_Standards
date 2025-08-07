@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - auto-parts-store
 - auto_parts_store

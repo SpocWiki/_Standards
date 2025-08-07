@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Verrucomicrobia
 title: Verrucomicrobia

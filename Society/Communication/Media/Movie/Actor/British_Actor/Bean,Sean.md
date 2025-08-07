@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sean Bean"
 - "Shaun Mark Bean"
@@ -49,4 +49,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sean%20Bean)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bean,Sean](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.md) 
+
+### #is_/same_as :: [Bean,Sean.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.public.md) 
+
+### #is_/same_as :: [Bean,Sean.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.internal.md) 
+
+### #is_/same_as :: [Bean,Sean.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.protect.md) 
+
+### #is_/same_as :: [Bean,Sean.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.private.md) 
+
+### #is_/same_as :: [Bean,Sean.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.personal.md) 
+
+### #is_/same_as :: [Bean,Sean.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Bean,Sean.secret.md)
 

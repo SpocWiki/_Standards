@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-defined-term-set
 - in_defined_term_set

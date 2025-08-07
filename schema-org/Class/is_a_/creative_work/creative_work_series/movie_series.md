@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - movie-series
 - movie_series

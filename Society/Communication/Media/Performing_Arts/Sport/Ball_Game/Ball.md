@@ -69,3 +69,20 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ball) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ball](/_Standards/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.md) 
+
+### #is_/same_as :: [Ball.public](/_public/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.public.md) 
+
+### #is_/same_as :: [Ball.internal](/_internal/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.internal.md) 
+
+### #is_/same_as :: [Ball.protect](/_protect/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.protect.md) 
+
+### #is_/same_as :: [Ball.private](/_private/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.private.md) 
+
+### #is_/same_as :: [Ball.personal](/_personal/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.personal.md) 
+
+### #is_/same_as :: [Ball.secret](/_secret/Society/Communication/Media/Performing_Arts/Sport/Ball_Game/Ball.secret.md)
+

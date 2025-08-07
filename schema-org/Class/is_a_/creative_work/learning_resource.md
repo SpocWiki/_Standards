@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - learning-resource
 - learning_resource

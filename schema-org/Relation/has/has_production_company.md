@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - production-company
 - production_company

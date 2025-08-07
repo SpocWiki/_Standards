@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nautilidae
 ---
 
@@ -111,7 +111,7 @@ Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Nautiloidea](Nautiloidea.md)) 
+### #is_/same_as :: [Nautiloidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.md) 
 
 ### #is_/same_as :: [Nautiloidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Nautiloidea.public.md) 
 

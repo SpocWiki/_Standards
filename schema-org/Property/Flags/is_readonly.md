@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - readonly-value
 - readonly

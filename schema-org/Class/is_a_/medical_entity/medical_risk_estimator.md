@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - medical-risk-estimator
 - medical_risk_estimator

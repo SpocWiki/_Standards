@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - measurement-technique
 - measurement_technique

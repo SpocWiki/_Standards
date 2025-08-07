@@ -65,3 +65,20 @@ P8189: "987007282406205171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beaufort%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beaufort_Sea](/_Standards/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.md) 
+
+### #is_/same_as :: [Beaufort_Sea.public](/_public/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.public.md) 
+
+### #is_/same_as :: [Beaufort_Sea.internal](/_internal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.internal.md) 
+
+### #is_/same_as :: [Beaufort_Sea.protect](/_protect/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.protect.md) 
+
+### #is_/same_as :: [Beaufort_Sea.private](/_private/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.private.md) 
+
+### #is_/same_as :: [Beaufort_Sea.personal](/_personal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.personal.md) 
+
+### #is_/same_as :: [Beaufort_Sea.secret](/_secret/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.secret.md)
+

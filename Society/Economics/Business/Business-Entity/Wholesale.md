@@ -35,3 +35,19 @@ Commons_category: Wholesale trade
 > [Wikipedia](https://en.wikipedia.org/wiki/Wholesaling) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Wholesale](/_Standards/Society/Economics/Business/Business-Entity/Wholesale.md) 
+
+### #is_/same_as :: [Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md) 
+
+### #is_/same_as :: [Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md) 
+
+### #is_/same_as :: [Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md) 
+
+### #is_/same_as :: [Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md) 
+
+### #is_/same_as :: [Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md) 
+
+### #is_/same_as :: [Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)
+

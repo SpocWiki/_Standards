@@ -16,11 +16,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Physician) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Physician](/_Standards/bio/Medicine/Physician.md) 

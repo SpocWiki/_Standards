@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - content_rating
 - content-rating

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sirenia
 ---
 
@@ -98,7 +98,7 @@ Life Cycle Stage ::     cow and calf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sirenia](Sirenia.md)) 
+### #is_/same_as :: [Sirenia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Sirenia.md) 
 
 ### #is_/same_as :: [Sirenia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Sirenia.public.md) 
 

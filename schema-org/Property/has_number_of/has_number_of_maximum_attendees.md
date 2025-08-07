@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - maximum-attendee-capacity
 - maximum_attendee_capacity

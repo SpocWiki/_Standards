@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - business-days
 - business_days

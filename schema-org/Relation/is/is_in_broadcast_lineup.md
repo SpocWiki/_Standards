@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - in-broadcast-lineup
 - in_broadcast_lineup

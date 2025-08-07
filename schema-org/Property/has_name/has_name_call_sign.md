@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - call-sign
 - call_sign

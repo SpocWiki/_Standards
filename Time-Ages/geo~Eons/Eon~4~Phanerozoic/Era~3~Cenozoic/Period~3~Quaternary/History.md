@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 1202
 Archive_of_Our_Own_tag: Historical
 Baidu_Tieba_name: 历史

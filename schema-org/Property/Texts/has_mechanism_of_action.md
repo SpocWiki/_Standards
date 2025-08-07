@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mechanism-of-action
 - mechanism_of_action

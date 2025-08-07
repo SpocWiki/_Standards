@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Columba|Zodiac~Columba]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Columba.public|Zodiac~Columba.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Columba.internal|Zodiac~Columba.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Columba.protect|Zodiac~Columba.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Columba.private|Zodiac~Columba.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Columba.personal|Zodiac~Columba.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Columba.secret|Zodiac~Columba.secret]] 
+
+### #is_/same_as :: [Zodiac~Columba](/_Standards/Astronomy/Star~Constellation/Zodiac~Columba.md) 
+
+### #is_/same_as :: [Zodiac~Columba.public](/_public/Astronomy/Star~Constellation/Zodiac~Columba.public.md) 
+
+### #is_/same_as :: [Zodiac~Columba.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Columba.internal.md) 
+
+### #is_/same_as :: [Zodiac~Columba.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Columba.protect.md) 
+
+### #is_/same_as :: [Zodiac~Columba.private](/_private/Astronomy/Star~Constellation/Zodiac~Columba.private.md) 
+
+### #is_/same_as :: [Zodiac~Columba.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Columba.personal.md) 
+
+### #is_/same_as :: [Zodiac~Columba.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Columba.secret.md)
+

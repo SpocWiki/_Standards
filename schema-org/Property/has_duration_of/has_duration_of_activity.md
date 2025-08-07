@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - activity-duration
 - activity

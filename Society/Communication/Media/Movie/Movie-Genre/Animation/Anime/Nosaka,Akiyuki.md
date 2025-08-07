@@ -21,3 +21,20 @@ He himself was incarcered for stealing food and saw many of his youth peers star
 
 The Author sad that he felt guilty to have survived both his sisters and for his prison-peers. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Nosaka,Akiyuki](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.md) 
+
+### #is_/same_as :: [Nosaka,Akiyuki.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.public.md) 
+
+### #is_/same_as :: [Nosaka,Akiyuki.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.internal.md) 
+
+### #is_/same_as :: [Nosaka,Akiyuki.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.protect.md) 
+
+### #is_/same_as :: [Nosaka,Akiyuki.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.private.md) 
+
+### #is_/same_as :: [Nosaka,Akiyuki.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.personal.md) 
+
+### #is_/same_as :: [Nosaka,Akiyuki.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.secret.md)
+

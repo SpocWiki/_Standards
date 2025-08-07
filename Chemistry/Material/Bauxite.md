@@ -54,3 +54,20 @@ OpenStreetMap_tag_or_key: Tag:resource=bauxite
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bauxite) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bauxite](/_Standards/Chemistry/Material/Bauxite.md) 
+
+### #is_/same_as :: [Bauxite.public](/_public/Chemistry/Material/Bauxite.public.md) 
+
+### #is_/same_as :: [Bauxite.internal](/_internal/Chemistry/Material/Bauxite.internal.md) 
+
+### #is_/same_as :: [Bauxite.protect](/_protect/Chemistry/Material/Bauxite.protect.md) 
+
+### #is_/same_as :: [Bauxite.private](/_private/Chemistry/Material/Bauxite.private.md) 
+
+### #is_/same_as :: [Bauxite.personal](/_personal/Chemistry/Material/Bauxite.personal.md) 
+
+### #is_/same_as :: [Bauxite.secret](/_secret/Chemistry/Material/Bauxite.secret.md)
+

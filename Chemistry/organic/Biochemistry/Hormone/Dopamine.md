@@ -65,17 +65,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dopamine](/_Standards/chemic/organic/Biochemistry/Hormone/Dopamine.md) 
+### #is_/same_as :: [Dopamine](/_Standards/Chemistry/organic/Biochemistry/Hormone/Dopamine.md) 
 
-### #is_/same_as :: [Dopamine.public](/_public/chemic/organic/Biochemistry/Hormone/Dopamine.public.md) 
+### #is_/same_as :: [Dopamine.public](/_public/Chemistry/organic/Biochemistry/Hormone/Dopamine.public.md) 
 
-### #is_/same_as :: [Dopamine.internal](/_internal/chemic/organic/Biochemistry/Hormone/Dopamine.internal.md) 
+### #is_/same_as :: [Dopamine.internal](/_internal/Chemistry/organic/Biochemistry/Hormone/Dopamine.internal.md) 
 
-### #is_/same_as :: [Dopamine.protect](/_protect/chemic/organic/Biochemistry/Hormone/Dopamine.protect.md) 
+### #is_/same_as :: [Dopamine.protect](/_protect/Chemistry/organic/Biochemistry/Hormone/Dopamine.protect.md) 
 
-### #is_/same_as :: [Dopamine.private](/_private/chemic/organic/Biochemistry/Hormone/Dopamine.private.md) 
+### #is_/same_as :: [Dopamine.private](/_private/Chemistry/organic/Biochemistry/Hormone/Dopamine.private.md) 
 
-### #is_/same_as :: [Dopamine.personal](/_personal/chemic/organic/Biochemistry/Hormone/Dopamine.personal.md) 
+### #is_/same_as :: [Dopamine.personal](/_personal/Chemistry/organic/Biochemistry/Hormone/Dopamine.personal.md) 
 
-### #is_/same_as :: [Dopamine.secret](/_secret/chemic/organic/Biochemistry/Hormone/Dopamine.secret.md)
+### #is_/same_as :: [Dopamine.secret](/_secret/Chemistry/organic/Biochemistry/Hormone/Dopamine.secret.md)
 

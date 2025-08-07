@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Eric Idle"
 ---
@@ -46,4 +46,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Idle)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Idle,Eric](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.md) 
+
+### #is_/same_as :: [Idle,Eric.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.public.md) 
+
+### #is_/same_as :: [Idle,Eric.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.internal.md) 
+
+### #is_/same_as :: [Idle,Eric.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.protect.md) 
+
+### #is_/same_as :: [Idle,Eric.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.private.md) 
+
+### #is_/same_as :: [Idle,Eric.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.personal.md) 
+
+### #is_/same_as :: [Idle,Eric.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Idle,Eric.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comment-count
 - comment_count

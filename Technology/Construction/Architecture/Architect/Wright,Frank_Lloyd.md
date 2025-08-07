@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frank Lloyd Wright"
 - Wright,Frank_Lloyd

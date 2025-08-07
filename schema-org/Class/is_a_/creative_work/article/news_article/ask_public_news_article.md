@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ask-public-news-article
 - ask_public_news_article

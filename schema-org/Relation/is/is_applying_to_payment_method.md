@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - applies-to-payment-method
 - applying_to_payment_method

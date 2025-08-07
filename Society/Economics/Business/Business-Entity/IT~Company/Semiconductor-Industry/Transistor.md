@@ -110,3 +110,20 @@ The key advantages of a MOSFET transistors over BJTs are that
 they __consume no current__ _except_ when switching states (unlike TTL-ICs) 
 and they have faster switching speed (ideal for digital signals).
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Transistor](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.md) 
+
+### #is_/same_as :: [Transistor.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.public.md) 
+
+### #is_/same_as :: [Transistor.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.internal.md) 
+
+### #is_/same_as :: [Transistor.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.protect.md) 
+
+### #is_/same_as :: [Transistor.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.private.md) 
+
+### #is_/same_as :: [Transistor.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.personal.md) 
+
+### #is_/same_as :: [Transistor.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Transistor.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Siphonophorida
 ---
 
@@ -46,7 +46,7 @@ title: Siphonophorida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Siphonophorida](Siphonophorida.md)) 
+### #is_/same_as :: [Siphonophorida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Siphonophorida.md) 
 
 ### #is_/same_as :: [Siphonophorida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Diplopoda/Siphonophorida.public.md) 
 

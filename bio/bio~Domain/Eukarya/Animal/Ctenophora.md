@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Ctenophora
 title: Ctenophora
@@ -67,7 +67,7 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Ctenophora](Ctenophora.md)) 
+### #is_/same_as :: [Ctenophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Ctenophora.md) 
 
 ### #is_/same_as :: [Ctenophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Ctenophora.public.md) 
 

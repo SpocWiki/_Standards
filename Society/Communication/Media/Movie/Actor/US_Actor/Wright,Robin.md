@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robin Wright"
 - "Robin Gayle Wright"
@@ -40,6 +40,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Wright)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Wright,Robin](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.md) 
 
+### #is_/same_as :: [Wright,Robin.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.public.md) 
+
+### #is_/same_as :: [Wright,Robin.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.internal.md) 
+
+### #is_/same_as :: [Wright,Robin.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.protect.md) 
+
+### #is_/same_as :: [Wright,Robin.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.private.md) 
+
+### #is_/same_as :: [Wright,Robin.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.personal.md) 
+
+### #is_/same_as :: [Wright,Robin.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Wright,Robin.secret.md)
 

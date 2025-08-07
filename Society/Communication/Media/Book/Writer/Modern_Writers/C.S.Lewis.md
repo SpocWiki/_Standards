@@ -176,3 +176,20 @@ subreddit: CSLewis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/C.%20S.%20Lewis)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [C.S.Lewis](/_Standards/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.md) 
+
+### #is_/same_as :: [C.S.Lewis.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.public.md) 
+
+### #is_/same_as :: [C.S.Lewis.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.internal.md) 
+
+### #is_/same_as :: [C.S.Lewis.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.protect.md) 
+
+### #is_/same_as :: [C.S.Lewis.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.private.md) 
+
+### #is_/same_as :: [C.S.Lewis.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.personal.md) 
+
+### #is_/same_as :: [C.S.Lewis.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/C.S.Lewis.secret.md)
+

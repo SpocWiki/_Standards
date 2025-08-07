@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepioidea
 ---
 
@@ -165,7 +165,7 @@ Copyright ::         © 2004 Mark Norman, Thomas burch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepioidea](Sepioidea.md)) 
+### #is_/same_as :: [Sepioidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea.md) 
 
 ### #is_/same_as :: [Sepioidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea.public.md) 
 

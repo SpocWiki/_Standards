@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Natrium
 atomic_number: 11
@@ -194,17 +194,17 @@ But they don't require rare Graphite and can work with amorphous [[../Group-14-C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Sodium.md) 
+### #is_/same_as :: [Sodium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.md) 
 
-### #is_/same_as :: [Sodium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Sodium.public.md) 
+### #is_/same_as :: [Sodium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.public.md) 
 
-### #is_/same_as :: [Sodium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Sodium.internal.md) 
+### #is_/same_as :: [Sodium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.internal.md) 
 
-### #is_/same_as :: [Sodium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Sodium.protect.md) 
+### #is_/same_as :: [Sodium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.protect.md) 
 
-### #is_/same_as :: [Sodium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Sodium.private.md) 
+### #is_/same_as :: [Sodium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.private.md) 
 
-### #is_/same_as :: [Sodium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Sodium.personal.md) 
+### #is_/same_as :: [Sodium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.personal.md) 
 
-### #is_/same_as :: [Sodium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Sodium.secret.md)
+### #is_/same_as :: [Sodium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.secret.md)
 

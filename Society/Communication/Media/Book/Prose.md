@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Prose
 described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'

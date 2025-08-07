@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - single-family-residence
 - single_family_residence

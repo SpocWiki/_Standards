@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Domesticated animals"
 different_from: '[[_Standards/WikiData/WD~Domestication_and_foreignization,5290237]]'
 facet_of: '[[_Standards/WikiData/WD~history_of_civilization,10300571]]'

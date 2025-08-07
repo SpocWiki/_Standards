@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Three Gorges Dam"
 annual_energy_output: 103.65

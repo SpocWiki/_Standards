@@ -81,7 +81,7 @@ U_S_National_Archives_Identifier: 10639193
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fiction](Fiction.md) 
+### #is_/same_as :: [Fiction](/_Standards/Society/Communication/Genre/Fiction.md) 
 
 ### #is_/same_as :: [Fiction.public](/_public/Society/Communication/Genre/Fiction.public.md) 
 
@@ -95,22 +95,3 @@ U_S_National_Archives_Identifier: 10639193
 
 ### #is_/same_as :: [Fiction.secret](/_secret/Society/Communication/Genre/Fiction.secret.md)
 
-
-# [[Fiction]] 
-
-#is_/part_of :: [[Fiction]] 
-
-![[Fiction.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

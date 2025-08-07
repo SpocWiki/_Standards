@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - online-full
 - online_full

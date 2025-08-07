@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shipping_rate
 - shipping-rate

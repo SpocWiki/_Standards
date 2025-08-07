@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Industrial Revolution"
 Commons_category: "Industrial revolution"

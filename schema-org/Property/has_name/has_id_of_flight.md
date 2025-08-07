@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - flight-number
 - id_of_flight

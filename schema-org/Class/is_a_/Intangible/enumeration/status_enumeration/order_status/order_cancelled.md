@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - order-cancelled
 - order_cancelled

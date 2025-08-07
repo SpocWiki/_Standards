@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - contained-in
 - contained_in

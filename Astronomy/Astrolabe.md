@@ -78,3 +78,20 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "Astrolabe"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astrolabe) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Astrolabe](/_Standards/Astronomy/Astrolabe.md) 
+
+### #is_/same_as :: [Astrolabe.public](/_public/Astronomy/Astrolabe.public.md) 
+
+### #is_/same_as :: [Astrolabe.internal](/_internal/Astronomy/Astrolabe.internal.md) 
+
+### #is_/same_as :: [Astrolabe.protect](/_protect/Astronomy/Astrolabe.protect.md) 
+
+### #is_/same_as :: [Astrolabe.private](/_private/Astronomy/Astrolabe.private.md) 
+
+### #is_/same_as :: [Astrolabe.personal](/_personal/Astronomy/Astrolabe.personal.md) 
+
+### #is_/same_as :: [Astrolabe.secret](/_secret/Astronomy/Astrolabe.secret.md)
+

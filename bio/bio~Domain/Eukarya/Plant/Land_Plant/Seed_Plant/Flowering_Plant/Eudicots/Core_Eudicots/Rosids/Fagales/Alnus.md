@@ -64,3 +64,20 @@ NBN_System_Key: NHMSYS0000455769
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alder) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Alnus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.md) 
+
+### #is_/same_as :: [Alnus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.public.md) 
+
+### #is_/same_as :: [Alnus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.internal.md) 
+
+### #is_/same_as :: [Alnus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.protect.md) 
+
+### #is_/same_as :: [Alnus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.private.md) 
+
+### #is_/same_as :: [Alnus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.personal.md) 
+
+### #is_/same_as :: [Alnus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fagales/Alnus.secret.md)
+

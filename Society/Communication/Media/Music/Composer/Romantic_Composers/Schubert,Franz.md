@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Franz Schubert"
 - "Franz Peter Schubert"

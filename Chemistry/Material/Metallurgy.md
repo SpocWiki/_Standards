@@ -48,17 +48,17 @@ U_S_National_Archives_Identifier: 10644494
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metallurgy](/_Standards/chemic/Material/Metallurgy.md) 
+### #is_/same_as :: [Metallurgy](/_Standards/Chemistry/Material/Metallurgy.md) 
 
-### #is_/same_as :: [Metallurgy.public](/_public/chemic/Material/Metallurgy.public.md) 
+### #is_/same_as :: [Metallurgy.public](/_public/Chemistry/Material/Metallurgy.public.md) 
 
-### #is_/same_as :: [Metallurgy.internal](/_internal/chemic/Material/Metallurgy.internal.md) 
+### #is_/same_as :: [Metallurgy.internal](/_internal/Chemistry/Material/Metallurgy.internal.md) 
 
-### #is_/same_as :: [Metallurgy.protect](/_protect/chemic/Material/Metallurgy.protect.md) 
+### #is_/same_as :: [Metallurgy.protect](/_protect/Chemistry/Material/Metallurgy.protect.md) 
 
-### #is_/same_as :: [Metallurgy.private](/_private/chemic/Material/Metallurgy.private.md) 
+### #is_/same_as :: [Metallurgy.private](/_private/Chemistry/Material/Metallurgy.private.md) 
 
-### #is_/same_as :: [Metallurgy.personal](/_personal/chemic/Material/Metallurgy.personal.md) 
+### #is_/same_as :: [Metallurgy.personal](/_personal/Chemistry/Material/Metallurgy.personal.md) 
 
-### #is_/same_as :: [Metallurgy.secret](/_secret/chemic/Material/Metallurgy.secret.md)
+### #is_/same_as :: [Metallurgy.secret](/_secret/Chemistry/Material/Metallurgy.secret.md)
 

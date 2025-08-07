@@ -1,4 +1,4 @@
-﻿---
+---
 ATC_code: V03AN04
 atomic_number: 7
 CAS_Registry_Number: 17778-88-0
@@ -152,17 +152,17 @@ Nitrogen is hard to involve chemical reactions and used to be rare.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nitrogen](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.md) 
+### #is_/same_as :: [Nitrogen](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.md) 
 
-### #is_/same_as :: [Nitrogen.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.public.md) 
+### #is_/same_as :: [Nitrogen.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.public.md) 
 
-### #is_/same_as :: [Nitrogen.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.internal.md) 
+### #is_/same_as :: [Nitrogen.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.internal.md) 
 
-### #is_/same_as :: [Nitrogen.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.protect.md) 
+### #is_/same_as :: [Nitrogen.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.protect.md) 
 
-### #is_/same_as :: [Nitrogen.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.private.md) 
+### #is_/same_as :: [Nitrogen.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.private.md) 
 
-### #is_/same_as :: [Nitrogen.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.personal.md) 
+### #is_/same_as :: [Nitrogen.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.personal.md) 
 
-### #is_/same_as :: [Nitrogen.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.secret.md)
+### #is_/same_as :: [Nitrogen.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.secret.md)
 

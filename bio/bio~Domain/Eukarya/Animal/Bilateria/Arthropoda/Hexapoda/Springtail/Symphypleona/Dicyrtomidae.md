@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dicyrtomidae
 ---
 
@@ -60,7 +60,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dicyrtomidae](Dicyrtomidae.md)) 
+### #is_/same_as :: [Dicyrtomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.md) 
 
 ### #is_/same_as :: [Dicyrtomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.public.md) 
 

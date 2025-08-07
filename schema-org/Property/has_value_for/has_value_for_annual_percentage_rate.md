@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - annual_percentage_rate
 - annual-percentage-rate

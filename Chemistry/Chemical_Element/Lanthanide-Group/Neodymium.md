@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 60
 canonical_SMILES: '[Nd]'
 CAS_Registry_Number: 7440-00-8
@@ -120,17 +120,17 @@ ZVG_number: 7600
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Neodymium.md) 
+### #is_/same_as :: [Neodymium](/_Standards/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.md) 
 
-### #is_/same_as :: [Neodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Neodymium.public.md) 
+### #is_/same_as :: [Neodymium.public](/_public/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.public.md) 
 
-### #is_/same_as :: [Neodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.internal.md) 
+### #is_/same_as :: [Neodymium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.internal.md) 
 
-### #is_/same_as :: [Neodymium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Neodymium.protect.md) 
+### #is_/same_as :: [Neodymium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.protect.md) 
 
-### #is_/same_as :: [Neodymium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Neodymium.private.md) 
+### #is_/same_as :: [Neodymium.private](/_private/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.private.md) 
 
-### #is_/same_as :: [Neodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.personal.md) 
+### #is_/same_as :: [Neodymium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.personal.md) 
 
-### #is_/same_as :: [Neodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Neodymium.secret.md)
+### #is_/same_as :: [Neodymium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide-Group/Neodymium.secret.md)
 

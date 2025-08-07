@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Heterololigo bleekeri"
 ---
 
@@ -121,7 +121,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Heterololigo](Heterololigo.md)) 
+### #is_/same_as :: [Heterololigo](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.md) 
 
 ### #is_/same_as :: [Heterololigo.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.public.md) 
 

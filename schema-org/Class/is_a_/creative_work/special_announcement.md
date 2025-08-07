@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - special-announcement
 - special_announcement

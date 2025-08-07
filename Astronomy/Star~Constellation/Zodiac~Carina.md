@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Carina|Zodiac~Carina]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Carina.public|Zodiac~Carina.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Carina.internal|Zodiac~Carina.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Carina.protect|Zodiac~Carina.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Carina.private|Zodiac~Carina.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Carina.personal|Zodiac~Carina.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Carina.secret|Zodiac~Carina.secret]] 
+
+### #is_/same_as :: [Zodiac~Carina](/_Standards/Astronomy/Star~Constellation/Zodiac~Carina.md) 
+
+### #is_/same_as :: [Zodiac~Carina.public](/_public/Astronomy/Star~Constellation/Zodiac~Carina.public.md) 
+
+### #is_/same_as :: [Zodiac~Carina.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Carina.internal.md) 
+
+### #is_/same_as :: [Zodiac~Carina.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Carina.protect.md) 
+
+### #is_/same_as :: [Zodiac~Carina.private](/_private/Astronomy/Star~Constellation/Zodiac~Carina.private.md) 
+
+### #is_/same_as :: [Zodiac~Carina.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Carina.personal.md) 
+
+### #is_/same_as :: [Zodiac~Carina.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Carina.secret.md)
+

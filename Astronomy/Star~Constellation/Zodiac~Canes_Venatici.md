@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Canes_Venatici|Zodiac~Canes_Venatici]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Canes_Venatici.public|Zodiac~Canes_Venatici.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Canes_Venatici.internal|Zodiac~Canes_Venatici.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Canes_Venatici.protect|Zodiac~Canes_Venatici.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Canes_Venatici.private|Zodiac~Canes_Venatici.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Canes_Venatici.personal|Zodiac~Canes_Venatici.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Canes_Venatici.secret|Zodiac~Canes_Venatici.secret]] 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici](/_Standards/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.md) 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici.public](/_public/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.public.md) 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.internal.md) 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.protect.md) 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici.private](/_private/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.private.md) 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.personal.md) 
+
+### #is_/same_as :: [Zodiac~Canes_Venatici.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Canes_Venatici.secret.md)
+

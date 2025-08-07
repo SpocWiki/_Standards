@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-measurement-cup
 - wearable_measurement_cup

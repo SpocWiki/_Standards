@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - birth-date
 - birth_date

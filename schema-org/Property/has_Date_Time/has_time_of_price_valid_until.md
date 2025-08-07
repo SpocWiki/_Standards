@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-valid-until
 - price_valid_until

@@ -57,17 +57,17 @@ Universal_Decimal_Classification: 517
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Analysis(Math)](Analysis(Math).md) 
+### #is_/same_as :: [Analysis(Math)](/_Standards/Mathematics/Calculus/Analysis(Math).md) 
 
-### #is_/same_as :: [Analysis(Math).public](/_public/Mathematics/Analysis(Math).public.md) 
+### #is_/same_as :: [Analysis(Math).public](/_public/Mathematics/Calculus/Analysis(Math).public.md) 
 
-### #is_/same_as :: [Analysis(Math).internal](/_internal/Mathematics/Analysis(Math).internal.md) 
+### #is_/same_as :: [Analysis(Math).internal](/_internal/Mathematics/Calculus/Analysis(Math).internal.md) 
 
-### #is_/same_as :: [Analysis(Math).protect](/_protect/Mathematics/Analysis(Math).protect.md) 
+### #is_/same_as :: [Analysis(Math).protect](/_protect/Mathematics/Calculus/Analysis(Math).protect.md) 
 
-### #is_/same_as :: [Analysis(Math).private](/_private/Mathematics/Analysis(Math).private.md) 
+### #is_/same_as :: [Analysis(Math).private](/_private/Mathematics/Calculus/Analysis(Math).private.md) 
 
-### #is_/same_as :: [Analysis(Math).personal](/_personal/Mathematics/Analysis(Math).personal.md) 
+### #is_/same_as :: [Analysis(Math).personal](/_personal/Mathematics/Calculus/Analysis(Math).personal.md) 
 
-### #is_/same_as :: [Analysis(Math).secret](/_secret/Mathematics/Analysis(Math).secret.md)
+### #is_/same_as :: [Analysis(Math).secret](/_secret/Mathematics/Calculus/Analysis(Math).secret.md)
 

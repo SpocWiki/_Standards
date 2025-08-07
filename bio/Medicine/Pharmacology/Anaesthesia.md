@@ -43,3 +43,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anesthesia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anaesthesia](/_Standards/bio/Medicine/Pharmacology/Anaesthesia.md) 
+
+### #is_/same_as :: [Anaesthesia.public](/_public/bio/Medicine/Pharmacology/Anaesthesia.public.md) 
+
+### #is_/same_as :: [Anaesthesia.internal](/_internal/bio/Medicine/Pharmacology/Anaesthesia.internal.md) 
+
+### #is_/same_as :: [Anaesthesia.protect](/_protect/bio/Medicine/Pharmacology/Anaesthesia.protect.md) 
+
+### #is_/same_as :: [Anaesthesia.private](/_private/bio/Medicine/Pharmacology/Anaesthesia.private.md) 
+
+### #is_/same_as :: [Anaesthesia.personal](/_personal/bio/Medicine/Pharmacology/Anaesthesia.personal.md) 
+
+### #is_/same_as :: [Anaesthesia.secret](/_secret/bio/Medicine/Pharmacology/Anaesthesia.secret.md)
+

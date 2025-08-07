@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - train-number
 - train_number

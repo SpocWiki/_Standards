@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Philosophical logic"
 Commons_category: "Philosophical logic"

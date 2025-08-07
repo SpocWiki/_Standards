@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Horse%20smooth.stl"
 aliases:
 - Pferd
@@ -127,7 +127,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"EquusCaballus::x93n2\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Horse](Horse.md)) 
+### #is_/same_as :: [Horse](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse.md) 
 
 ### #is_/same_as :: [Horse.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Equidae/Horse.public.md) 
 

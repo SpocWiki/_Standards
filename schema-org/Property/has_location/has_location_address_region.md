@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - address-region
 - address_region

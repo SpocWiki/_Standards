@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - dose-unit
 - dose_unit

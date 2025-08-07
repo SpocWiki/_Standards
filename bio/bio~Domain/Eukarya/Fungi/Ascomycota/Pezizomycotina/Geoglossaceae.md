@@ -1,4 +1,4 @@
-﻿---
+---
 title: Geoglossaceae
 ---
 
@@ -33,7 +33,7 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Geoglossaceae](Geoglossaceae.md)) 
+### #is_/same_as :: [Geoglossaceae](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.md) 
 
 ### #is_/same_as :: [Geoglossaceae.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.public.md) 
 

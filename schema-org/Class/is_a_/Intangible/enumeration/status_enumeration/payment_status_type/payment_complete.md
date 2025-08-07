@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-complete
 - payment_complete

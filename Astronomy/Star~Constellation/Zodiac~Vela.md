@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Vela|Zodiac~Vela]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Vela.public|Zodiac~Vela.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Vela.internal|Zodiac~Vela.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Vela.protect|Zodiac~Vela.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Vela.private|Zodiac~Vela.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Vela.personal|Zodiac~Vela.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Vela.secret|Zodiac~Vela.secret]] 
+
+### #is_/same_as :: [Zodiac~Vela](/_Standards/Astronomy/Star~Constellation/Zodiac~Vela.md) 
+
+### #is_/same_as :: [Zodiac~Vela.public](/_public/Astronomy/Star~Constellation/Zodiac~Vela.public.md) 
+
+### #is_/same_as :: [Zodiac~Vela.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Vela.internal.md) 
+
+### #is_/same_as :: [Zodiac~Vela.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Vela.protect.md) 
+
+### #is_/same_as :: [Zodiac~Vela.private](/_private/Astronomy/Star~Constellation/Zodiac~Vela.private.md) 
+
+### #is_/same_as :: [Zodiac~Vela.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Vela.personal.md) 
+
+### #is_/same_as :: [Zodiac~Vela.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Vela.secret.md)
+

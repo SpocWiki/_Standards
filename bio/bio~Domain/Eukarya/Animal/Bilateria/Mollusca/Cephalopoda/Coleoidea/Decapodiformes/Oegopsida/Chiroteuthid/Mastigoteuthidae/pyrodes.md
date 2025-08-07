@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis pyrodes"
 ---
 
@@ -127,7 +127,7 @@ Zool., 97: 1-159.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[pyrodes](pyrodes.md)) 
+### #is_/same_as :: [pyrodes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.md) 
 
 ### #is_/same_as :: [pyrodes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.public.md) 
 

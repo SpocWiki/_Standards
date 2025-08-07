@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - size-system-imperial
 - size_system_imperial

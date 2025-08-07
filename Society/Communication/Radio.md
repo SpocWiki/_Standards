@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 05.35
 Commons_category: Radio
 Commons_gallery: Radio

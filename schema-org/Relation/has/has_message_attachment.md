@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - message-attachment
 - message_attachment

@@ -41,3 +41,20 @@ Commons_category: Altiplano
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Altiplano) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Altiplano](/_Standards/Earth/Continent/America~South/Altiplano.md) 
+
+### #is_/same_as :: [Altiplano.public](/_public/Earth/Continent/America~South/Altiplano.public.md) 
+
+### #is_/same_as :: [Altiplano.internal](/_internal/Earth/Continent/America~South/Altiplano.internal.md) 
+
+### #is_/same_as :: [Altiplano.protect](/_protect/Earth/Continent/America~South/Altiplano.protect.md) 
+
+### #is_/same_as :: [Altiplano.private](/_private/Earth/Continent/America~South/Altiplano.private.md) 
+
+### #is_/same_as :: [Altiplano.personal](/_personal/Earth/Continent/America~South/Altiplano.personal.md) 
+
+### #is_/same_as :: [Altiplano.secret](/_secret/Earth/Continent/America~South/Altiplano.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Economics
 Colon_Classification: X

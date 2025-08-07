@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-class-of
 - subclass-of

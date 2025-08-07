@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mission-coverage-priorities-policy
 - mission_coverage_priorities_policy

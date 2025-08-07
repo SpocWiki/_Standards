@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - upload-date
 - upload_date

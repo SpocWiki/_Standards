@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hesperentomidae
 ---
 
@@ -35,7 +35,7 @@ title: Hesperentomidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hesperentomidae](Hesperentomidae.md)) 
+### #is_/same_as :: [Hesperentomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.md) 
 
 ### #is_/same_as :: [Hesperentomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.public.md) 
 

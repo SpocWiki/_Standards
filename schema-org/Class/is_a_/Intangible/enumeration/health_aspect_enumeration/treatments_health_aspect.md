@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - treatments-health-aspect
 - treatments_health_aspect

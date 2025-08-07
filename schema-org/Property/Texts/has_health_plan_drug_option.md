@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-drug-option
 - health_plan_drug_option

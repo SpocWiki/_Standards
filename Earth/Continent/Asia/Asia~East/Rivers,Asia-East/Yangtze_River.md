@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Yangtze River"
 basin_country:

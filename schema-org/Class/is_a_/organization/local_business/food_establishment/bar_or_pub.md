@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bar-or-pub
 - bar_or_pub

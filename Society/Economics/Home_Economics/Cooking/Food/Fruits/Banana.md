@@ -94,17 +94,17 @@ Amazon_com_browse_node:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Banana](Banana.md)) 
+### #is_/same_as :: [Banana](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.md) 
 
-### #is_/same_as :: [Banana.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Banana.public.md) 
+### #is_/same_as :: [Banana.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.public.md) 
 
-### #is_/same_as :: [Banana.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Banana.internal.md) 
+### #is_/same_as :: [Banana.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.internal.md) 
 
-### #is_/same_as :: [Banana.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Banana.protect.md) 
+### #is_/same_as :: [Banana.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.protect.md) 
 
-### #is_/same_as :: [Banana.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Banana.private.md) 
+### #is_/same_as :: [Banana.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.private.md) 
 
-### #is_/same_as :: [Banana.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Banana.personal.md) 
+### #is_/same_as :: [Banana.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.personal.md) 
 
-### #is_/same_as :: [Banana.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Fruit/Banana.secret.md)
+### #is_/same_as :: [Banana.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Banana.secret.md)
 

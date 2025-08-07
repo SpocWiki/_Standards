@@ -1,4 +1,4 @@
-﻿---
+---
 antiparticle: '[[_Standards/WikiData/WD~antihydrogen,216121]]'
 atomic_number: 1
 boiling_point: -252.87
@@ -196,17 +196,17 @@ Hydrogen is classified by **"color labels"** to indicate the **primary energy so
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrogen](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.md) 
+### #is_/same_as :: [Hydrogen](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.md) 
 
-### #is_/same_as :: [Hydrogen.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.public.md) 
+### #is_/same_as :: [Hydrogen.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public.md) 
 
-### #is_/same_as :: [Hydrogen.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.internal.md) 
+### #is_/same_as :: [Hydrogen.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal.md) 
 
-### #is_/same_as :: [Hydrogen.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.protect.md) 
+### #is_/same_as :: [Hydrogen.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect.md) 
 
-### #is_/same_as :: [Hydrogen.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.private.md) 
+### #is_/same_as :: [Hydrogen.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private.md) 
 
-### #is_/same_as :: [Hydrogen.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.personal.md) 
+### #is_/same_as :: [Hydrogen.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal.md) 
 
-### #is_/same_as :: [Hydrogen.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.secret.md)
+### #is_/same_as :: [Hydrogen.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret.md)
 

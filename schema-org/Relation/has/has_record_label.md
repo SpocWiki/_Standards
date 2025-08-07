@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - record-label
 - record_label

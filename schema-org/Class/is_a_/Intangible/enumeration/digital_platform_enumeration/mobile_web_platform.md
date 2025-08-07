@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - mobile-web-platform
 - mobile_web_platform

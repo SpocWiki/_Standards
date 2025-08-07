@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - guanaco
 - "Lama guanicoe"
@@ -68,7 +68,7 @@ Copyright ::            © 2005 [Alastair Rae](http://flickr.com/people/merula/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Guanaco](Guanaco.md)) 
+### #is_/same_as :: [Guanaco](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel/Lamini/Guanaco.md) 
 
 ### #is_/same_as :: [Guanaco.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Tylopoda/Camelidae/Camel/Lamini/Guanaco.public.md) 
 

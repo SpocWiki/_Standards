@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tycho's Supernova"
 - "Tycho's Star"

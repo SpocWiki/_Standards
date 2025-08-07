@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - measured-value
 - measured_value

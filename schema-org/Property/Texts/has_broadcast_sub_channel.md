@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - broadcast-sub-channel
 - broadcast_sub_channel

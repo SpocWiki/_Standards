@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Haber Process"
 - "Haber–Bosch Process"
@@ -235,17 +235,17 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haber–Bosch_Process](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.md) 
+### #is_/same_as :: [Haber–Bosch_Process](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.md) 
 
-### #is_/same_as :: [Haber–Bosch_Process.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.public.md) 
+### #is_/same_as :: [Haber–Bosch_Process.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.public.md) 
 
-### #is_/same_as :: [Haber–Bosch_Process.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.internal.md) 
+### #is_/same_as :: [Haber–Bosch_Process.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.internal.md) 
 
-### #is_/same_as :: [Haber–Bosch_Process.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.protect.md) 
+### #is_/same_as :: [Haber–Bosch_Process.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.protect.md) 
 
-### #is_/same_as :: [Haber–Bosch_Process.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.private.md) 
+### #is_/same_as :: [Haber–Bosch_Process.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.private.md) 
 
-### #is_/same_as :: [Haber–Bosch_Process.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.personal.md) 
+### #is_/same_as :: [Haber–Bosch_Process.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.personal.md) 
 
-### #is_/same_as :: [Haber–Bosch_Process.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.secret.md)
+### #is_/same_as :: [Haber–Bosch_Process.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.secret.md)
 

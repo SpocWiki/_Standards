@@ -476,7 +476,7 @@ Auwera et al., 1995).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Fungi](Fungi.md)) 
+### #is_/same_as :: [Fungi](/_Standards/bio/bio~Domain/Eukarya/Fungi.md) 
 
 ### #is_/same_as :: [Fungi.public](/_public/bio/bio~Domain/Eukarya/Fungi.public.md) 
 

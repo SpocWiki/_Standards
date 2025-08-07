@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-network-tier
 - health_plan_network_tier

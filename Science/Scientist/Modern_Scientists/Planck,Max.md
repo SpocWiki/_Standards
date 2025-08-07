@@ -1,4 +1,4 @@
-﻿---
+---
 academic_thesis: '[[_Standards/WikiData/WD~Über_den_zweiten_Hauptsatz_der_mechanischen_Wärmetheorie,55713946]]'
 aliases:
 - "Max Planck"

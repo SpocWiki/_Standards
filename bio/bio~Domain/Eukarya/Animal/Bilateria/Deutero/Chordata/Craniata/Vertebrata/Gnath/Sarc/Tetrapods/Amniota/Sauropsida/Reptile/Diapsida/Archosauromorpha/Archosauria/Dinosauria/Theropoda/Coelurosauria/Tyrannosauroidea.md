@@ -1,4 +1,4 @@
-﻿---
+---
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20rex%20skeleton.stl"
 Commons_category: Tyrannosaurus
 Commons_gallery: Tyrannosaurus
@@ -175,17 +175,17 @@ these species, regardless of their position relative to
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tyrannosauroidea](Tyrannosauroidea.md)) 
+### #is_/same_as :: [Tyrannosauroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.md) 
 
-### #is_/same_as :: [Tyrannosauroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.public.md) 
+### #is_/same_as :: [Tyrannosauroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.public.md) 
 
-### #is_/same_as :: [Tyrannosauroidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.internal.md) 
+### #is_/same_as :: [Tyrannosauroidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.internal.md) 
 
-### #is_/same_as :: [Tyrannosauroidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.protect.md) 
+### #is_/same_as :: [Tyrannosauroidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.protect.md) 
 
-### #is_/same_as :: [Tyrannosauroidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.private.md) 
+### #is_/same_as :: [Tyrannosauroidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.private.md) 
 
-### #is_/same_as :: [Tyrannosauroidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.personal.md) 
+### #is_/same_as :: [Tyrannosauroidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.personal.md) 
 
-### #is_/same_as :: [Tyrannosauroidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.secret.md)
+### #is_/same_as :: [Tyrannosauroidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Sauropsida/Reptile/Diapsida/Archosauromorpha/Archosauria/Dinosauria/Theropoda/Coelurosauria/Tyrannosauroidea.secret.md)
 

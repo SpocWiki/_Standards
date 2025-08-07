@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - studio-album
 - studio_album

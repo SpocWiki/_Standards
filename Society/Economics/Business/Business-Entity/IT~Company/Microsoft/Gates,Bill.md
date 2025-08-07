@@ -61,3 +61,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bill%20Gates) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Gates,Bill](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.md) 
+
+### #is_/same_as :: [Gates,Bill.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.public.md) 
+
+### #is_/same_as :: [Gates,Bill.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.internal.md) 
+
+### #is_/same_as :: [Gates,Bill.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.protect.md) 
+
+### #is_/same_as :: [Gates,Bill.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.private.md) 
+
+### #is_/same_as :: [Gates,Bill.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.personal.md) 
+
+### #is_/same_as :: [Gates,Bill.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Microsoft/Gates,Bill.secret.md)
+

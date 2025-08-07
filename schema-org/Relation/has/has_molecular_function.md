@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-molecular-function
 - molecular_function

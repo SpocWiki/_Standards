@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 77
 canonical_SMILES: '[Ir]'
 CAS_Registry_Number: 7439-88-5
@@ -115,17 +115,17 @@ ZVG_number: 8460
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iridium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Iridium.md) 
+### #is_/same_as :: [Iridium](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.md) 
 
-### #is_/same_as :: [Iridium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Iridium.public.md) 
+### #is_/same_as :: [Iridium.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public.md) 
 
-### #is_/same_as :: [Iridium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.internal.md) 
+### #is_/same_as :: [Iridium.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal.md) 
 
-### #is_/same_as :: [Iridium.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Iridium.protect.md) 
+### #is_/same_as :: [Iridium.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect.md) 
 
-### #is_/same_as :: [Iridium.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Iridium.private.md) 
+### #is_/same_as :: [Iridium.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private.md) 
 
-### #is_/same_as :: [Iridium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.personal.md) 
+### #is_/same_as :: [Iridium.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal.md) 
 
-### #is_/same_as :: [Iridium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Iridium.secret.md)
+### #is_/same_as :: [Iridium.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret.md)
 

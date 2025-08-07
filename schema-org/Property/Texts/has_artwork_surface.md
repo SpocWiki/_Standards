@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - artwork-surface
 - artwork_surface

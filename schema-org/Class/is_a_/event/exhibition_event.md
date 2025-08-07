@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - exhibition-event
 - exhibition_event

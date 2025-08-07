@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Mammuthus
 - Mammoth
@@ -83,7 +83,7 @@ View                 lateral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mammoth](Mammoth.md)) 
+### #is_/same_as :: [Mammoth](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Mammoth.md) 
 
 ### #is_/same_as :: [Mammoth.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Proboscidea/Elephantidae/Mammoth.public.md) 
 

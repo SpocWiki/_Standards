@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - review
 - has_review

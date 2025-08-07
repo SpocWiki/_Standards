@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - address-locality
 - address_locality

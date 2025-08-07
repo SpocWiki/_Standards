@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - living-with-health-aspect
 - living_with_health_aspect

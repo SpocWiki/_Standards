@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sensory-requirement
 - sensory_requirement

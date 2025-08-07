@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - disambiguating-description
 - disambiguating_description

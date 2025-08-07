@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~tungsten_exposure,21175400]]'
 atomic_number: 74
 boiling_point:
@@ -159,17 +159,17 @@ ZVG_number: 7740
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tungsten](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Tungsten.md) 
+### #is_/same_as :: [Tungsten](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.md) 
 
-### #is_/same_as :: [Tungsten.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Tungsten.public.md) 
+### #is_/same_as :: [Tungsten.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.public.md) 
 
-### #is_/same_as :: [Tungsten.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Tungsten.internal.md) 
+### #is_/same_as :: [Tungsten.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.internal.md) 
 
-### #is_/same_as :: [Tungsten.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Tungsten.protect.md) 
+### #is_/same_as :: [Tungsten.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.protect.md) 
 
-### #is_/same_as :: [Tungsten.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Tungsten.private.md) 
+### #is_/same_as :: [Tungsten.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.private.md) 
 
-### #is_/same_as :: [Tungsten.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Tungsten.personal.md) 
+### #is_/same_as :: [Tungsten.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.personal.md) 
 
-### #is_/same_as :: [Tungsten.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Tungsten.secret.md)
+### #is_/same_as :: [Tungsten.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.secret.md)
 

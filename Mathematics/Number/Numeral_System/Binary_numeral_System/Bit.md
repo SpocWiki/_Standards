@@ -57,3 +57,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bit) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bit](/_Standards/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.md) 
+
+### #is_/same_as :: [Bit.public](/_public/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.public.md) 
+
+### #is_/same_as :: [Bit.internal](/_internal/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.internal.md) 
+
+### #is_/same_as :: [Bit.protect](/_protect/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.protect.md) 
+
+### #is_/same_as :: [Bit.private](/_private/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.private.md) 
+
+### #is_/same_as :: [Bit.personal](/_personal/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.personal.md) 
+
+### #is_/same_as :: [Bit.secret](/_secret/Mathematics/Number/Numeral_System/Binary_numeral_System/Bit.secret.md)
+

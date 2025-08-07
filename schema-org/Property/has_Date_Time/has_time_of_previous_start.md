@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - previous-start-date
 - previous_start_date

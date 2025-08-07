@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Hundred Year War"
 - "Hundred Years War"

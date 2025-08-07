@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_accommodation_units
 - number-of-accommodation-units

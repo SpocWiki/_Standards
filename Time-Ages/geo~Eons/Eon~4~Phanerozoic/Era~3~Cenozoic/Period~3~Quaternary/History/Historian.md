@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Historians
 - Historiker

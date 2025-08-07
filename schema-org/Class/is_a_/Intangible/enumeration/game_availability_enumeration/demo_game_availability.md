@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - demo-game-availability
 - demo_game_availability

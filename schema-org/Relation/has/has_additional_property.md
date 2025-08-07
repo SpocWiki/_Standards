@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - additional-property
 - additional_property

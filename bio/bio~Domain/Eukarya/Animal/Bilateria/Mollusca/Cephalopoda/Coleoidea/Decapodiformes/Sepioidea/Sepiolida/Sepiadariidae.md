@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepiadariidae
 ---
 
@@ -109,7 +109,7 @@ No. 513: 1-282.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepiadariidae](Sepiadariidae.md)) 
+### #is_/same_as :: [Sepiadariidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.md) 
 
 ### #is_/same_as :: [Sepiadariidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiadariidae.public.md) 
 

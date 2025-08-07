@@ -53,3 +53,20 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cabinetry) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cabinet(Furniture)](/_Standards/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).md) 
+
+### #is_/same_as :: [Cabinet(Furniture).public](/_public/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).public.md) 
+
+### #is_/same_as :: [Cabinet(Furniture).internal](/_internal/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).internal.md) 
+
+### #is_/same_as :: [Cabinet(Furniture).protect](/_protect/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).protect.md) 
+
+### #is_/same_as :: [Cabinet(Furniture).private](/_private/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).private.md) 
+
+### #is_/same_as :: [Cabinet(Furniture).personal](/_personal/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).personal.md) 
+
+### #is_/same_as :: [Cabinet(Furniture).secret](/_secret/Technology/Construction/Building/House/Apartment/Furniture/Cabinet(Furniture).secret.md)
+

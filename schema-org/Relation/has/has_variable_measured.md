@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - variable-measured
 - variable_measured

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Chris Pratt"
 ---
@@ -36,4 +36,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chris%20Pratt) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pratt,Chris](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.md) 
+
+### #is_/same_as :: [Pratt,Chris.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.public.md) 
+
+### #is_/same_as :: [Pratt,Chris.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.internal.md) 
+
+### #is_/same_as :: [Pratt,Chris.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.protect.md) 
+
+### #is_/same_as :: [Pratt,Chris.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.private.md) 
+
+### #is_/same_as :: [Pratt,Chris.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.personal.md) 
+
+### #is_/same_as :: [Pratt,Chris.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Pratt,Chris.secret.md)
 

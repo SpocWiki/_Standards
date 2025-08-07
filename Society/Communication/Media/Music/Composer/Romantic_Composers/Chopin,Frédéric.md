@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frédéric Chopin"
 - "Frédéric François Chopin"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - listen-action
 - listen_action

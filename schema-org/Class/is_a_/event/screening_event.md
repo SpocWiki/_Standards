@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - screening-event
 - screening_event

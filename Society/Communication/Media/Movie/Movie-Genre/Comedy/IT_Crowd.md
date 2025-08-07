@@ -19,3 +19,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20IT%20Crowd) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [IT_Crowd](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.md) 
+
+### #is_/same_as :: [IT_Crowd.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.public.md) 
+
+### #is_/same_as :: [IT_Crowd.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.internal.md) 
+
+### #is_/same_as :: [IT_Crowd.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.protect.md) 
+
+### #is_/same_as :: [IT_Crowd.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.private.md) 
+
+### #is_/same_as :: [IT_Crowd.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.personal.md) 
+
+### #is_/same_as :: [IT_Crowd.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.secret.md)
+

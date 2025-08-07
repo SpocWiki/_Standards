@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - special-opening-hours-specification
 - special_opening_hours_specification

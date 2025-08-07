@@ -52,3 +52,20 @@ Commons_category: Taxonomy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taxonomy%20(biology)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Biological_Classification](/_Standards/bio/bio~Domain/Biological_Classification.md) 
+
+### #is_/same_as :: [Biological_Classification.public](/_public/bio/bio~Domain/Biological_Classification.public.md) 
+
+### #is_/same_as :: [Biological_Classification.internal](/_internal/bio/bio~Domain/Biological_Classification.internal.md) 
+
+### #is_/same_as :: [Biological_Classification.protect](/_protect/bio/bio~Domain/Biological_Classification.protect.md) 
+
+### #is_/same_as :: [Biological_Classification.private](/_private/bio/bio~Domain/Biological_Classification.private.md) 
+
+### #is_/same_as :: [Biological_Classification.personal](/_personal/bio/bio~Domain/Biological_Classification.personal.md) 
+
+### #is_/same_as :: [Biological_Classification.secret](/_secret/bio/bio~Domain/Biological_Classification.secret.md)
+

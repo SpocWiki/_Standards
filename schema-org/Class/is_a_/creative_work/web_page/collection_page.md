@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - collection-page
 - collection_page

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyetussa
 ---
 
@@ -66,7 +66,7 @@ rainforest of the Cuyabeno Reserve, Ecuador.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hyetussa](Hyetussa.md)) 
+### #is_/same_as :: [Hyetussa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae/Hyetussa.md) 
 
 ### #is_/same_as :: [Hyetussa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Dictynoidea/Dionycha/Jumping_Spider/Hyetussinae/Hyetussa.public.md) 
 

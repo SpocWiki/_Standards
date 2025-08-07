@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q189294
 type: ElementGroup
 ---
@@ -34,17 +34,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-13-Boron](/_Standards/chemic/chemic~Elements/Group-13-Boron.md) 
+### #is_/same_as :: [Group-13-Boron](/_Standards/Chemistry/Chemical_Element/Group-13-Boron.md) 
 
-### #is_/same_as :: [Group-13-Boron.public](/_public/chemic/chemic~Elements/Group-13-Boron.public.md) 
+### #is_/same_as :: [Group-13-Boron.public](/_public/Chemistry/Chemical_Element/Group-13-Boron.public.md) 
 
-### #is_/same_as :: [Group-13-Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron.internal.md) 
+### #is_/same_as :: [Group-13-Boron.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron.internal.md) 
 
-### #is_/same_as :: [Group-13-Boron.protect](/_protect/chemic/chemic~Elements/Group-13-Boron.protect.md) 
+### #is_/same_as :: [Group-13-Boron.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron.protect.md) 
 
-### #is_/same_as :: [Group-13-Boron.private](/_private/chemic/chemic~Elements/Group-13-Boron.private.md) 
+### #is_/same_as :: [Group-13-Boron.private](/_private/Chemistry/Chemical_Element/Group-13-Boron.private.md) 
 
-### #is_/same_as :: [Group-13-Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron.personal.md) 
+### #is_/same_as :: [Group-13-Boron.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron.personal.md) 
 
-### #is_/same_as :: [Group-13-Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron.secret.md)
+### #is_/same_as :: [Group-13-Boron.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron.secret.md)
 

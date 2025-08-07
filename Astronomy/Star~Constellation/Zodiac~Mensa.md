@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Mensa|Zodiac~Mensa]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Mensa.public|Zodiac~Mensa.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Mensa.internal|Zodiac~Mensa.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Mensa.protect|Zodiac~Mensa.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Mensa.private|Zodiac~Mensa.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Mensa.personal|Zodiac~Mensa.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Mensa.secret|Zodiac~Mensa.secret]] 
+
+### #is_/same_as :: [Zodiac~Mensa](/_Standards/Astronomy/Star~Constellation/Zodiac~Mensa.md) 
+
+### #is_/same_as :: [Zodiac~Mensa.public](/_public/Astronomy/Star~Constellation/Zodiac~Mensa.public.md) 
+
+### #is_/same_as :: [Zodiac~Mensa.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Mensa.internal.md) 
+
+### #is_/same_as :: [Zodiac~Mensa.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Mensa.protect.md) 
+
+### #is_/same_as :: [Zodiac~Mensa.private](/_private/Astronomy/Star~Constellation/Zodiac~Mensa.private.md) 
+
+### #is_/same_as :: [Zodiac~Mensa.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Mensa.personal.md) 
+
+### #is_/same_as :: [Zodiac~Mensa.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Mensa.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_full_bathrooms
 - number-of-full-bathrooms

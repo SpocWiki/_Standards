@@ -56,3 +56,20 @@ MeSH_tree_code: D02.455.426.559
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aromatic%20compound) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aromatic_Compound](/_Standards/Chemistry/organic/Aromatic_Compound.md) 
+
+### #is_/same_as :: [Aromatic_Compound.public](/_public/Chemistry/organic/Aromatic_Compound.public.md) 
+
+### #is_/same_as :: [Aromatic_Compound.internal](/_internal/Chemistry/organic/Aromatic_Compound.internal.md) 
+
+### #is_/same_as :: [Aromatic_Compound.protect](/_protect/Chemistry/organic/Aromatic_Compound.protect.md) 
+
+### #is_/same_as :: [Aromatic_Compound.private](/_private/Chemistry/organic/Aromatic_Compound.private.md) 
+
+### #is_/same_as :: [Aromatic_Compound.personal](/_personal/Chemistry/organic/Aromatic_Compound.personal.md) 
+
+### #is_/same_as :: [Aromatic_Compound.secret](/_secret/Chemistry/organic/Aromatic_Compound.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Salt (chemistry)"
 Commons_category: Salts
@@ -53,17 +53,17 @@ UMLS_CUI: C0036140
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salt(chemistry)](/_Standards/chemic/inOrganic/Salt(chemistry).md) 
+### #is_/same_as :: [Salt(chemistry)](/_Standards/Chemistry/inOrganic/Salt(chemistry).md) 
 
-### #is_/same_as :: [Salt(chemistry).public](/_public/chemic/inOrganic/Salt(chemistry).public.md) 
+### #is_/same_as :: [Salt(chemistry).public](/_public/Chemistry/inOrganic/Salt(chemistry).public.md) 
 
-### #is_/same_as :: [Salt(chemistry).internal](/_internal/chemic/inOrganic/Salt(chemistry).internal.md) 
+### #is_/same_as :: [Salt(chemistry).internal](/_internal/Chemistry/inOrganic/Salt(chemistry).internal.md) 
 
-### #is_/same_as :: [Salt(chemistry).protect](/_protect/chemic/inOrganic/Salt(chemistry).protect.md) 
+### #is_/same_as :: [Salt(chemistry).protect](/_protect/Chemistry/inOrganic/Salt(chemistry).protect.md) 
 
-### #is_/same_as :: [Salt(chemistry).private](/_private/chemic/inOrganic/Salt(chemistry).private.md) 
+### #is_/same_as :: [Salt(chemistry).private](/_private/Chemistry/inOrganic/Salt(chemistry).private.md) 
 
-### #is_/same_as :: [Salt(chemistry).personal](/_personal/chemic/inOrganic/Salt(chemistry).personal.md) 
+### #is_/same_as :: [Salt(chemistry).personal](/_personal/Chemistry/inOrganic/Salt(chemistry).personal.md) 
 
-### #is_/same_as :: [Salt(chemistry).secret](/_secret/chemic/inOrganic/Salt(chemistry).secret.md)
+### #is_/same_as :: [Salt(chemistry).secret](/_secret/Chemistry/inOrganic/Salt(chemistry).secret.md)
 

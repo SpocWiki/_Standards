@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Peace
 Commons_gallery: Peace
 described_by_source:

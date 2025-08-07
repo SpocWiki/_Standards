@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bathyteuthoida
 ---
 
@@ -154,7 +154,7 @@ the United States National Museum, 291:1-210.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Bathyteuthoida](Bathyteuthoida.md)) 
+### #is_/same_as :: [Bathyteuthoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.md) 
 
 ### #is_/same_as :: [Bathyteuthoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida.public.md) 
 

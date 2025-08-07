@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - limited-availability
 - limited_availability

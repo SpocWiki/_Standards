@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - check-action
 - check_action

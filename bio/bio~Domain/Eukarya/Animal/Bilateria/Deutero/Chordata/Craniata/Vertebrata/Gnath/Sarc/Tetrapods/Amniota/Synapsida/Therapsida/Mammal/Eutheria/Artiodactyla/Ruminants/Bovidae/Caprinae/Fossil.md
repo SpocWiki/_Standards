@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fossil Caprinae"
 ---
 
@@ -125,7 +125,7 @@ Species Level. Columbia University Press, New York.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Fossil](Fossil.md)) 
+### #is_/same_as :: [Fossil](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Fossil.md) 
 
 ### #is_/same_as :: [Fossil.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Caprinae/Fossil.public.md) 
 

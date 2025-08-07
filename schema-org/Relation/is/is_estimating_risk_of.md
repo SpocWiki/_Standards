@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - estimates-risk-of
 - estimating_risk_of

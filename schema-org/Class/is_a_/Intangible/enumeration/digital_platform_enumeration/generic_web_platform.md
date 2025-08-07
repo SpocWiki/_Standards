@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - generic-web-platform
 - generic_web_platform

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cause-of
 - cause_of

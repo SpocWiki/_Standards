@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-energy-efficiency-category
 - energy_efficiency_category

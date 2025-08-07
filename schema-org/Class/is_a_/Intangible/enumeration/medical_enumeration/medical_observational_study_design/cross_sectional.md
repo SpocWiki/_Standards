@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cross-sectional
 - cross_sectional

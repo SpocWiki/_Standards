@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard: '[[_Standards/WikiData/WD~fluorine_exposure,21174321]]'
 atomic_number: 9
 boiling_point: -307
@@ -120,17 +120,17 @@ vapor_pressure: 1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fluorine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Fluorine.md) 
+### #is_/same_as :: [Fluorine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.md) 
 
-### #is_/same_as :: [Fluorine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Fluorine.public.md) 
+### #is_/same_as :: [Fluorine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.public.md) 
 
-### #is_/same_as :: [Fluorine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Fluorine.internal.md) 
+### #is_/same_as :: [Fluorine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.internal.md) 
 
-### #is_/same_as :: [Fluorine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Fluorine.protect.md) 
+### #is_/same_as :: [Fluorine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.protect.md) 
 
-### #is_/same_as :: [Fluorine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Fluorine.private.md) 
+### #is_/same_as :: [Fluorine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.private.md) 
 
-### #is_/same_as :: [Fluorine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Fluorine.personal.md) 
+### #is_/same_as :: [Fluorine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.personal.md) 
 
-### #is_/same_as :: [Fluorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Fluorine.secret.md)
+### #is_/same_as :: [Fluorine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogene/Fluorine.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - befriend-action
 - befriend_action

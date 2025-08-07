@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - satirical-article
 - satirical_article

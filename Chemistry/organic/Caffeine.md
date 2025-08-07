@@ -267,3 +267,20 @@ ATC_code: N06BC01
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caffeine) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caffeine](/_Standards/Chemistry/organic/Caffeine.md) 
+
+### #is_/same_as :: [Caffeine.public](/_public/Chemistry/organic/Caffeine.public.md) 
+
+### #is_/same_as :: [Caffeine.internal](/_internal/Chemistry/organic/Caffeine.internal.md) 
+
+### #is_/same_as :: [Caffeine.protect](/_protect/Chemistry/organic/Caffeine.protect.md) 
+
+### #is_/same_as :: [Caffeine.private](/_private/Chemistry/organic/Caffeine.private.md) 
+
+### #is_/same_as :: [Caffeine.personal](/_personal/Chemistry/organic/Caffeine.personal.md) 
+
+### #is_/same_as :: [Caffeine.secret](/_secret/Chemistry/organic/Caffeine.secret.md)
+

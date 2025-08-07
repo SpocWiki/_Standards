@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michael Bay"
 ---
@@ -28,4 +28,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Bay)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bay,Michael](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.md) 
+
+### #is_/same_as :: [Bay,Michael.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.public.md) 
+
+### #is_/same_as :: [Bay,Michael.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.internal.md) 
+
+### #is_/same_as :: [Bay,Michael.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.protect.md) 
+
+### #is_/same_as :: [Bay,Michael.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.private.md) 
+
+### #is_/same_as :: [Bay,Michael.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.personal.md) 
+
+### #is_/same_as :: [Bay,Michael.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Bay,Michael.secret.md)
 

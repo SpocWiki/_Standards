@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Monocotyledons
 - monocots
@@ -172,17 +172,17 @@ monocots sampled except Araceae and Alismataceae (Qui & Palmer, 1996).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Monocot](Monocot.md)) 
+### #is_/same_as :: [Monocot](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.md) 
 
-### #is_/same_as :: [Monocot.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.public.md) 
+### #is_/same_as :: [Monocot.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.public.md) 
 
-### #is_/same_as :: [Monocot.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.internal.md) 
+### #is_/same_as :: [Monocot.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.internal.md) 
 
-### #is_/same_as :: [Monocot.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.protect.md) 
+### #is_/same_as :: [Monocot.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.protect.md) 
 
-### #is_/same_as :: [Monocot.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.private.md) 
+### #is_/same_as :: [Monocot.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.private.md) 
 
-### #is_/same_as :: [Monocot.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.personal.md) 
+### #is_/same_as :: [Monocot.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.personal.md) 
 
-### #is_/same_as :: [Monocot.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.secret.md)
+### #is_/same_as :: [Monocot.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.secret.md)
 

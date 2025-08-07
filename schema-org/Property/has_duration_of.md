@@ -1,4 +1,4 @@
-﻿---
+---
 icon: luc_timer_reset
 ---
 

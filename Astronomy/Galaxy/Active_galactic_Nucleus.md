@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q46587
 ---
 
@@ -14,4 +14,20 @@ has_id_wikidata: Q46587
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Active%20galactic%20nucleus) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Active_galactic_Nucleus](/_Standards/Astronomy/Galaxy/Active_galactic_Nucleus.md) 
+
+### #is_/same_as :: [Active_galactic_Nucleus.public](/_public/Astronomy/Galaxy/Active_galactic_Nucleus.public.md) 
+
+### #is_/same_as :: [Active_galactic_Nucleus.internal](/_internal/Astronomy/Galaxy/Active_galactic_Nucleus.internal.md) 
+
+### #is_/same_as :: [Active_galactic_Nucleus.protect](/_protect/Astronomy/Galaxy/Active_galactic_Nucleus.protect.md) 
+
+### #is_/same_as :: [Active_galactic_Nucleus.private](/_private/Astronomy/Galaxy/Active_galactic_Nucleus.private.md) 
+
+### #is_/same_as :: [Active_galactic_Nucleus.personal](/_personal/Astronomy/Galaxy/Active_galactic_Nucleus.personal.md) 
+
+### #is_/same_as :: [Active_galactic_Nucleus.secret](/_secret/Astronomy/Galaxy/Active_galactic_Nucleus.secret.md)
 

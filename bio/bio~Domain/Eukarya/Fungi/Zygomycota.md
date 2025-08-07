@@ -1,4 +1,4 @@
-﻿---
+---
 title: Zygomycota
 ---
 
@@ -585,7 +585,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Zygomycota](Zygomycota.md)) 
+### #is_/same_as :: [Zygomycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Zygomycota.md) 
 
 ### #is_/same_as :: [Zygomycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Zygomycota.public.md) 
 

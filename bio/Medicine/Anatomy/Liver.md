@@ -1,4 +1,4 @@
-﻿---
+---
 anatomical_location: '[[_Standards/WikiData/WD~abdominal_cavity,682466]]'
 arterial_supply: '[[_Standards/WikiData/WD~hepatic_artery_proper,542166]]'
 Commons_category: Livers

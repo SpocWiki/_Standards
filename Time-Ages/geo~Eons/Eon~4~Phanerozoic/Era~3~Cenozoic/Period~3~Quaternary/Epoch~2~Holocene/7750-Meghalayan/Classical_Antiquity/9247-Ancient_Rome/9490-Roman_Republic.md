@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roman Republic"
 - Roman_Republic

@@ -1,4 +1,4 @@
-﻿---
+---
 associated_hazard:
 - '[[_Standards/WikiData/WD~platinosis,7202318]]'
 - '[[_Standards/WikiData/WD~platinum_exposure,21175066]]'
@@ -131,17 +131,17 @@ Wolfram_Language_entity_code: "Entity[\"Mineral\", \"Platinum\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Platinum](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Platinum.md) 
+### #is_/same_as :: [Platinum](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.md) 
 
-### #is_/same_as :: [Platinum.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Platinum.public.md) 
+### #is_/same_as :: [Platinum.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public.md) 
 
-### #is_/same_as :: [Platinum.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Platinum.internal.md) 
+### #is_/same_as :: [Platinum.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal.md) 
 
-### #is_/same_as :: [Platinum.protect](/_protect/chemic/chemic~Elements/Group-10-Nickel/Platinum.protect.md) 
+### #is_/same_as :: [Platinum.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect.md) 
 
-### #is_/same_as :: [Platinum.private](/_private/chemic/chemic~Elements/Group-10-Nickel/Platinum.private.md) 
+### #is_/same_as :: [Platinum.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private.md) 
 
-### #is_/same_as :: [Platinum.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Platinum.personal.md) 
+### #is_/same_as :: [Platinum.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal.md) 
 
-### #is_/same_as :: [Platinum.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Platinum.secret.md)
+### #is_/same_as :: [Platinum.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret.md)
 

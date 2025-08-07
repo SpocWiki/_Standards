@@ -69,3 +69,20 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Batte
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20battery) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Electric_Battery](/_Standards/Chemistry/inOrganic/Electric_Battery.md) 
+
+### #is_/same_as :: [Electric_Battery.public](/_public/Chemistry/inOrganic/Electric_Battery.public.md) 
+
+### #is_/same_as :: [Electric_Battery.internal](/_internal/Chemistry/inOrganic/Electric_Battery.internal.md) 
+
+### #is_/same_as :: [Electric_Battery.protect](/_protect/Chemistry/inOrganic/Electric_Battery.protect.md) 
+
+### #is_/same_as :: [Electric_Battery.private](/_private/Chemistry/inOrganic/Electric_Battery.private.md) 
+
+### #is_/same_as :: [Electric_Battery.personal](/_personal/Chemistry/inOrganic/Electric_Battery.personal.md) 
+
+### #is_/same_as :: [Electric_Battery.secret](/_secret/Chemistry/inOrganic/Electric_Battery.secret.md)
+

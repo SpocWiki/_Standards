@@ -43,7 +43,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[bio~Kingdom](bio~Kingdom.md)) 
+### #is_/same_as :: [bio~Kingdom](/_Standards/bio/bio~Domain/Eukarya/bio~Kingdom.md) 
 
 ### #is_/same_as :: [bio~Kingdom.public](/_public/bio/bio~Domain/Eukarya/bio~Kingdom.public.md) 
 

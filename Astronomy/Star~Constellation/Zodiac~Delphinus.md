@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Delphinus|Zodiac~Delphinus]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Delphinus.public|Zodiac~Delphinus.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Delphinus.private|Zodiac~Delphinus.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]] 
+
+### #is_/same_as :: [Zodiac~Delphinus](/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus.md) 
+
+### #is_/same_as :: [Zodiac~Delphinus.public](/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public.md) 
+
+### #is_/same_as :: [Zodiac~Delphinus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal.md) 
+
+### #is_/same_as :: [Zodiac~Delphinus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect.md) 
+
+### #is_/same_as :: [Zodiac~Delphinus.private](/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private.md) 
+
+### #is_/same_as :: [Zodiac~Delphinus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal.md) 
+
+### #is_/same_as :: [Zodiac~Delphinus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret.md)
+

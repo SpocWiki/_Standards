@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - teaches
 - is_teaching

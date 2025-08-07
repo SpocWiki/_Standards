@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Fossil fuels"
 Common_Procurement_Vocabulary_code: 09111300
 described_by_source: '[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]'
@@ -43,17 +43,17 @@ U_S_National_Archives_Identifier: 10636986
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fossil_Fuel](/_Standards/chemic/Material/Fuel/Fossil_Fuel.md) 
+### #is_/same_as :: [Fossil_Fuel](/_Standards/Chemistry/Material/Fuel/Fossil_Fuel.md) 
 
-### #is_/same_as :: [Fossil_Fuel.public](/_public/chemic/Material/Fuel/Fossil_Fuel.public.md) 
+### #is_/same_as :: [Fossil_Fuel.public](/_public/Chemistry/Material/Fuel/Fossil_Fuel.public.md) 
 
-### #is_/same_as :: [Fossil_Fuel.internal](/_internal/chemic/Material/Fuel/Fossil_Fuel.internal.md) 
+### #is_/same_as :: [Fossil_Fuel.internal](/_internal/Chemistry/Material/Fuel/Fossil_Fuel.internal.md) 
 
-### #is_/same_as :: [Fossil_Fuel.protect](/_protect/chemic/Material/Fuel/Fossil_Fuel.protect.md) 
+### #is_/same_as :: [Fossil_Fuel.protect](/_protect/Chemistry/Material/Fuel/Fossil_Fuel.protect.md) 
 
-### #is_/same_as :: [Fossil_Fuel.private](/_private/chemic/Material/Fuel/Fossil_Fuel.private.md) 
+### #is_/same_as :: [Fossil_Fuel.private](/_private/Chemistry/Material/Fuel/Fossil_Fuel.private.md) 
 
-### #is_/same_as :: [Fossil_Fuel.personal](/_personal/chemic/Material/Fuel/Fossil_Fuel.personal.md) 
+### #is_/same_as :: [Fossil_Fuel.personal](/_personal/Chemistry/Material/Fuel/Fossil_Fuel.personal.md) 
 
-### #is_/same_as :: [Fossil_Fuel.secret](/_secret/chemic/Material/Fuel/Fossil_Fuel.secret.md)
+### #is_/same_as :: [Fossil_Fuel.secret](/_secret/Chemistry/Material/Fuel/Fossil_Fuel.secret.md)
 

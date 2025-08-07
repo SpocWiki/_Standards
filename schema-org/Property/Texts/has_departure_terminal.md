@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - departure-terminal
 - departure_terminal

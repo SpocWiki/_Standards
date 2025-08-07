@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: B5
 Commons_category: Trigonometry
 described_by_source:

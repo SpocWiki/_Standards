@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - nonprofit501c21
 - nonprofit501c21

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - special-commitments
 - special_commitments

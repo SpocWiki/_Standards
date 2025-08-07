@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Raffaello Sanzio da Urbino"
 - Raffael

@@ -52,3 +52,20 @@ Wolfram_Language_entity_code: Entity["Concept", "BrassInstrument::ssx22"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brass%20instrument) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brass_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.md) 
+
+### #is_/same_as :: [Brass_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.public.md) 
+
+### #is_/same_as :: [Brass_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.internal.md) 
+
+### #is_/same_as :: [Brass_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.protect.md) 
+
+### #is_/same_as :: [Brass_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.private.md) 
+
+### #is_/same_as :: [Brass_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.personal.md) 
+
+### #is_/same_as :: [Brass_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument.secret.md)
+

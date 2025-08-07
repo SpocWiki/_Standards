@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Poor Things"
 ---
@@ -36,4 +36,19 @@ become an independent person.
 Max McCandles is played by ???
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Poor_Things](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.md) 
+
+### #is_/same_as :: [Poor_Things.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.public.md) 
+
+### #is_/same_as :: [Poor_Things.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.internal.md) 
+
+### #is_/same_as :: [Poor_Things.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.protect.md) 
+
+### #is_/same_as :: [Poor_Things.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.private.md) 
+
+### #is_/same_as :: [Poor_Things.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.personal.md) 
+
+### #is_/same_as :: [Poor_Things.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.secret.md)
 

@@ -53,3 +53,20 @@ Commons_category: Brown dwarfs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brown%20dwarf) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Brown_Dwarf](/_Standards/Astronomy/Brown_Dwarf.md) 
+
+### #is_/same_as :: [Brown_Dwarf.public](/_public/Astronomy/Brown_Dwarf.public.md) 
+
+### #is_/same_as :: [Brown_Dwarf.internal](/_internal/Astronomy/Brown_Dwarf.internal.md) 
+
+### #is_/same_as :: [Brown_Dwarf.protect](/_protect/Astronomy/Brown_Dwarf.protect.md) 
+
+### #is_/same_as :: [Brown_Dwarf.private](/_private/Astronomy/Brown_Dwarf.private.md) 
+
+### #is_/same_as :: [Brown_Dwarf.personal](/_personal/Astronomy/Brown_Dwarf.personal.md) 
+
+### #is_/same_as :: [Brown_Dwarf.secret](/_secret/Astronomy/Brown_Dwarf.secret.md)
+

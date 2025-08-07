@@ -18,4 +18,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Fediverse)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Fediverse](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.md) 
+
+### #is_/same_as :: [Fediverse.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.public.md) 
+
+### #is_/same_as :: [Fediverse.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.internal.md) 
+
+### #is_/same_as :: [Fediverse.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.protect.md) 
+
+### #is_/same_as :: [Fediverse.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.private.md) 
+
+### #is_/same_as :: [Fediverse.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.personal.md) 
+
+### #is_/same_as :: [Fediverse.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Fediverse.secret.md)
 

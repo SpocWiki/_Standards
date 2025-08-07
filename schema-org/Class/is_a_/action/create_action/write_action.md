@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - write-action
 - write_action

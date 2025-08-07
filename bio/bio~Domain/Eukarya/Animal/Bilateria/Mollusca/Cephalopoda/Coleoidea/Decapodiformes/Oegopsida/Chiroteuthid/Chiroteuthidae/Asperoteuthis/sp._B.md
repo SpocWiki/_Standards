@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Asperoteuthis sp. B"
 ---
 
@@ -117,7 +117,7 @@ Neptune City, NJ, 351pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[sp._B](sp._B.md)) 
+### #is_/same_as :: [sp._B](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp._B.md) 
 
 ### #is_/same_as :: [sp._B.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp._B.public.md) 
 

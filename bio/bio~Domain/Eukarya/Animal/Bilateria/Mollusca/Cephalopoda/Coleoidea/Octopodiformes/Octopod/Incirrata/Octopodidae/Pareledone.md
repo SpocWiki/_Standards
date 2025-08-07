@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pareledone
 ---
 
@@ -137,7 +137,7 @@ Copyright ::         © 1998 [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Pareledone](Pareledone.md)) 
+### #is_/same_as :: [Pareledone](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Pareledone.md) 
 
 ### #is_/same_as :: [Pareledone.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Octopodidae/Pareledone.public.md) 
 

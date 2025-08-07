@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scorpiopsidae
 ---
 
@@ -33,7 +33,7 @@ title: Scorpiopsidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Scorpiopsidae](Scorpiopsidae.md)) 
+### #is_/same_as :: [Scorpiopsidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Scorpiopsidae.md) 
 
 ### #is_/same_as :: [Scorpiopsidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea/Scorpiopsidae.public.md) 
 

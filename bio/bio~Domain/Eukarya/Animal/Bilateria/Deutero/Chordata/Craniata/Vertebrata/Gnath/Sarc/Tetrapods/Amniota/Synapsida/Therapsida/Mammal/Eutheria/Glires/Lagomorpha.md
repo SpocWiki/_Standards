@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Lagomorpha
 - Rabbit
@@ -80,7 +80,7 @@ Photograph by Dick Hensel. Courtesy of the [U.S. Fish and Wildlife Service](http
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Lagomorpha](Lagomorpha.md)) 
+### #is_/same_as :: [Lagomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha.md) 
 
 ### #is_/same_as :: [Lagomorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Glires/Lagomorpha.public.md) 
 

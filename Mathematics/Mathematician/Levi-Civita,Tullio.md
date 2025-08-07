@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tullio Levi-Civita"
 ---

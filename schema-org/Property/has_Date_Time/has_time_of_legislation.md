@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - legislation-date
 - legislation_date

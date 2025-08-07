@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-enumeration
 - merchant_return_enumeration

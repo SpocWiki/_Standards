@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Helicobasidium longisporum"
 ---
 
@@ -71,7 +71,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Helicobasidium_longisporum](Helicobasidium_longisporum.md)) 
+### #is_/same_as :: [Helicobasidium_longisporum](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.md) 
 
 ### #is_/same_as :: [Helicobasidium_longisporum.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.public.md) 
 

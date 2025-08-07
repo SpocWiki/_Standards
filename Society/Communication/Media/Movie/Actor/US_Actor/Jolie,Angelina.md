@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Angelina Jolie"
 ---
@@ -52,4 +52,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angelina%20Jolie)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jolie,Angelina](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.md) 
+
+### #is_/same_as :: [Jolie,Angelina.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.public.md) 
+
+### #is_/same_as :: [Jolie,Angelina.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.internal.md) 
+
+### #is_/same_as :: [Jolie,Angelina.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.protect.md) 
+
+### #is_/same_as :: [Jolie,Angelina.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.private.md) 
+
+### #is_/same_as :: [Jolie,Angelina.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.personal.md) 
+
+### #is_/same_as :: [Jolie,Angelina.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.secret.md)
 

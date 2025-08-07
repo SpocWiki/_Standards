@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Aischýlos
 BHCL_UUID: f55ad3ba-9397-41ef-9336-970df64ad792
@@ -99,4 +99,19 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Aeschylus) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aeschylus](/_Standards/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.md) 
+
+### #is_/same_as :: [Aeschylus.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.public.md) 
+
+### #is_/same_as :: [Aeschylus.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.internal.md) 
+
+### #is_/same_as :: [Aeschylus.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.protect.md) 
+
+### #is_/same_as :: [Aeschylus.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.private.md) 
+
+### #is_/same_as :: [Aeschylus.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.personal.md) 
+
+### #is_/same_as :: [Aeschylus.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Aeschylus.secret.md)
 

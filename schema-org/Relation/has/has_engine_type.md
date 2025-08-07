@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - engine-type
 - engine_type

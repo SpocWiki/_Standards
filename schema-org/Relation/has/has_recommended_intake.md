@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - recommended-intake
 - recommended_intake

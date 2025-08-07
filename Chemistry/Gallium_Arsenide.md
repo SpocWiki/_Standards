@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - GaAs
 - Galliumarsenid
@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gallium_Arsenide](/_Standards/chemic/Gallium_Arsenide.md) 
+### #is_/same_as :: [Gallium_Arsenide](/_Standards/Chemistry/Gallium_Arsenide.md) 
 
-### #is_/same_as :: [Gallium_Arsenide.public](/_public/chemic/Gallium_Arsenide.public.md) 
+### #is_/same_as :: [Gallium_Arsenide.public](/_public/Chemistry/Gallium_Arsenide.public.md) 
 
-### #is_/same_as :: [Gallium_Arsenide.internal](/_internal/chemic/Gallium_Arsenide.internal.md) 
+### #is_/same_as :: [Gallium_Arsenide.internal](/_internal/Chemistry/Gallium_Arsenide.internal.md) 
 
-### #is_/same_as :: [Gallium_Arsenide.protect](/_protect/chemic/Gallium_Arsenide.protect.md) 
+### #is_/same_as :: [Gallium_Arsenide.protect](/_protect/Chemistry/Gallium_Arsenide.protect.md) 
 
-### #is_/same_as :: [Gallium_Arsenide.private](/_private/chemic/Gallium_Arsenide.private.md) 
+### #is_/same_as :: [Gallium_Arsenide.private](/_private/Chemistry/Gallium_Arsenide.private.md) 
 
-### #is_/same_as :: [Gallium_Arsenide.personal](/_personal/chemic/Gallium_Arsenide.personal.md) 
+### #is_/same_as :: [Gallium_Arsenide.personal](/_personal/Chemistry/Gallium_Arsenide.personal.md) 
 
-### #is_/same_as :: [Gallium_Arsenide.secret](/_secret/chemic/Gallium_Arsenide.secret.md)
+### #is_/same_as :: [Gallium_Arsenide.secret](/_secret/Chemistry/Gallium_Arsenide.secret.md)
 

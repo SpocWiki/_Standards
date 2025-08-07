@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Thomasomyine group and Sigmodontinae incertae sedis"
 ---
 
@@ -66,7 +66,7 @@ Copyright ::         © 1996 Darrin Lunde
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Thomasomyine](Thomasomyine.md)) 
+### #is_/same_as :: [Thomasomyine](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Thomasomyine.md) 
 
 ### #is_/same_as :: [Thomasomyine.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Thomasomyine.public.md) 
 

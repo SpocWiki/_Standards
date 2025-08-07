@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-system-gs1
 - wearable_size_system_gs1

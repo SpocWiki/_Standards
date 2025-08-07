@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Materialism
 described_by_source:
 - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
@@ -36,17 +36,17 @@ part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Materialism](Materialism.md) 
+### #is_/same_as :: [Materialism](/_Standards/Philosophy/Metaphysic/Materialism.md) 
 
-### #is_/same_as :: [Materialism.public](/_public/Philosophy/Metaphysics/Materialism.public.md) 
+### #is_/same_as :: [Materialism.public](/_public/Philosophy/Metaphysic/Materialism.public.md) 
 
-### #is_/same_as :: [Materialism.internal](/_internal/Philosophy/Metaphysics/Materialism.internal.md) 
+### #is_/same_as :: [Materialism.internal](/_internal/Philosophy/Metaphysic/Materialism.internal.md) 
 
-### #is_/same_as :: [Materialism.protect](/_protect/Philosophy/Metaphysics/Materialism.protect.md) 
+### #is_/same_as :: [Materialism.protect](/_protect/Philosophy/Metaphysic/Materialism.protect.md) 
 
-### #is_/same_as :: [Materialism.private](/_private/Philosophy/Metaphysics/Materialism.private.md) 
+### #is_/same_as :: [Materialism.private](/_private/Philosophy/Metaphysic/Materialism.private.md) 
 
-### #is_/same_as :: [Materialism.personal](/_personal/Philosophy/Metaphysics/Materialism.personal.md) 
+### #is_/same_as :: [Materialism.personal](/_personal/Philosophy/Metaphysic/Materialism.personal.md) 
 
-### #is_/same_as :: [Materialism.secret](/_secret/Philosophy/Metaphysics/Materialism.secret.md)
+### #is_/same_as :: [Materialism.secret](/_secret/Philosophy/Metaphysic/Materialism.secret.md)
 

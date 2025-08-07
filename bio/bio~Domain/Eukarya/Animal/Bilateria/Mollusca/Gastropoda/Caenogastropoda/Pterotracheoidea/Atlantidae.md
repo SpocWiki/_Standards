@@ -1,4 +1,4 @@
-﻿---
+---
 title: Atlantidae
 ---
 
@@ -103,7 +103,7 @@ Copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Atlantidae](Atlantidae.md)) 
+### #is_/same_as :: [Atlantidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.md) 
 
 ### #is_/same_as :: [Atlantidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae.public.md) 
 

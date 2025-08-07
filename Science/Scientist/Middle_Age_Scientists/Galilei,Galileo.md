@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Galileo Galilei"
 - "Galileo di Vincenzo Bonaiuti de' Galilei"

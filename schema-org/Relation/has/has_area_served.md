@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - area-served
 - area_served

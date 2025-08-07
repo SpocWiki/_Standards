@@ -135,17 +135,17 @@ ZVG_number: 8390
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antimony](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.md) 
+### #is_/same_as :: [Antimony](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.md) 
 
-### #is_/same_as :: [Antimony.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.public.md) 
+### #is_/same_as :: [Antimony.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.public.md) 
 
-### #is_/same_as :: [Antimony.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.internal.md) 
+### #is_/same_as :: [Antimony.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.internal.md) 
 
-### #is_/same_as :: [Antimony.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.protect.md) 
+### #is_/same_as :: [Antimony.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.protect.md) 
 
-### #is_/same_as :: [Antimony.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.private.md) 
+### #is_/same_as :: [Antimony.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.private.md) 
 
-### #is_/same_as :: [Antimony.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.personal.md) 
+### #is_/same_as :: [Antimony.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.personal.md) 
 
-### #is_/same_as :: [Antimony.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.secret.md)
+### #is_/same_as :: [Antimony.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Antimony.secret.md)
 

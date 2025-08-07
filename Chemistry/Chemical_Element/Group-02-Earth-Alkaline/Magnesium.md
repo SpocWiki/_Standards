@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 12
 boiling_point: 1100
 canonical_SMILES: '[Mg]'
@@ -158,17 +158,17 @@ ZVG_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnesium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.md) 
+### #is_/same_as :: [Magnesium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.md) 
 
-### #is_/same_as :: [Magnesium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.public.md) 
+### #is_/same_as :: [Magnesium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.public.md) 
 
-### #is_/same_as :: [Magnesium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.internal.md) 
+### #is_/same_as :: [Magnesium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.internal.md) 
 
-### #is_/same_as :: [Magnesium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.protect.md) 
+### #is_/same_as :: [Magnesium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.protect.md) 
 
-### #is_/same_as :: [Magnesium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.private.md) 
+### #is_/same_as :: [Magnesium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.private.md) 
 
-### #is_/same_as :: [Magnesium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.personal.md) 
+### #is_/same_as :: [Magnesium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.personal.md) 
 
-### #is_/same_as :: [Magnesium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.secret.md)
+### #is_/same_as :: [Magnesium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Magnesium.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - by-artist
 - by_artist

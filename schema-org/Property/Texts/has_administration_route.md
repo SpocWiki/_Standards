@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - administration-route
 - administration_route

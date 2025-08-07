@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: J588
 Commons_category: "Glycine max"
 Commons_gallery: "Glycine max"
@@ -126,17 +126,17 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Soybean](Soybean.md)) 
+### #is_/same_as :: [Soybean](/_Standards/bio/Botany/Soybean.md) 
 
-### #is_/same_as :: [Soybean.public](/_public/bio/bio~Domain/Eukarya/Plants/Botany/Soybean.public.md) 
+### #is_/same_as :: [Soybean.public](/_public/bio/Botany/Soybean.public.md) 
 
-### #is_/same_as :: [Soybean.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Botany/Soybean.internal.md) 
+### #is_/same_as :: [Soybean.internal](/_internal/bio/Botany/Soybean.internal.md) 
 
-### #is_/same_as :: [Soybean.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Botany/Soybean.protect.md) 
+### #is_/same_as :: [Soybean.protect](/_protect/bio/Botany/Soybean.protect.md) 
 
-### #is_/same_as :: [Soybean.private](/_private/bio/bio~Domain/Eukarya/Plants/Botany/Soybean.private.md) 
+### #is_/same_as :: [Soybean.private](/_private/bio/Botany/Soybean.private.md) 
 
-### #is_/same_as :: [Soybean.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Botany/Soybean.personal.md) 
+### #is_/same_as :: [Soybean.personal](/_personal/bio/Botany/Soybean.personal.md) 
 
-### #is_/same_as :: [Soybean.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Botany/Soybean.secret.md)
+### #is_/same_as :: [Soybean.secret](/_secret/bio/Botany/Soybean.secret.md)
 

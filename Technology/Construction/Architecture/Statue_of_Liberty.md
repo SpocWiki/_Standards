@@ -1,4 +1,4 @@
-﻿---
+---
 aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%20%2836491259596%29.jpg"
 aliases:
 - "Statue of Liberty"

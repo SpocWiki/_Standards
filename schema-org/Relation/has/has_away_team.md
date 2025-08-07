@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - away-team
 - away_team

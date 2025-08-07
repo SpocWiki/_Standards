@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thriller-Movie](Thriller-Movie.md) 
+### #is_/same_as :: [Thriller-Movie](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.md) 
 
-### #is_/same_as :: [Thriller-Movie.public](/_public/Society/Communication/Media/Movie/Thriller-Movie.public.md) 
+### #is_/same_as :: [Thriller-Movie.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.public.md) 
 
-### #is_/same_as :: [Thriller-Movie.internal](/_internal/Society/Communication/Media/Movie/Thriller-Movie.internal.md) 
+### #is_/same_as :: [Thriller-Movie.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.internal.md) 
 
-### #is_/same_as :: [Thriller-Movie.protect](/_protect/Society/Communication/Media/Movie/Thriller-Movie.protect.md) 
+### #is_/same_as :: [Thriller-Movie.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.protect.md) 
 
-### #is_/same_as :: [Thriller-Movie.private](/_private/Society/Communication/Media/Movie/Thriller-Movie.private.md) 
+### #is_/same_as :: [Thriller-Movie.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.private.md) 
 
-### #is_/same_as :: [Thriller-Movie.personal](/_personal/Society/Communication/Media/Movie/Thriller-Movie.personal.md) 
+### #is_/same_as :: [Thriller-Movie.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.personal.md) 
 
-### #is_/same_as :: [Thriller-Movie.secret](/_secret/Society/Communication/Media/Movie/Thriller-Movie.secret.md)
+### #is_/same_as :: [Thriller-Movie.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie.secret.md)
 

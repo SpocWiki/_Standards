@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Republic
 described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
@@ -69,17 +69,17 @@ In summary, while both terms relate to systems where power ultimately resides wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Republic](Republic.md)) 
+### #is_/same_as :: [Republic](/_Standards/Society/Politics/Government/Republic.md) 
 
-### #is_/same_as :: [Republic.public](/_public/Society/Government/Republic.public.md) 
+### #is_/same_as :: [Republic.public](/_public/Society/Politics/Government/Republic.public.md) 
 
-### #is_/same_as :: [Republic.internal](/_internal/Society/Government/Republic.internal.md) 
+### #is_/same_as :: [Republic.internal](/_internal/Society/Politics/Government/Republic.internal.md) 
 
-### #is_/same_as :: [Republic.protect](/_protect/Society/Government/Republic.protect.md) 
+### #is_/same_as :: [Republic.protect](/_protect/Society/Politics/Government/Republic.protect.md) 
 
-### #is_/same_as :: [Republic.private](/_private/Society/Government/Republic.private.md) 
+### #is_/same_as :: [Republic.private](/_private/Society/Politics/Government/Republic.private.md) 
 
-### #is_/same_as :: [Republic.personal](/_personal/Society/Government/Republic.personal.md) 
+### #is_/same_as :: [Republic.personal](/_personal/Society/Politics/Government/Republic.personal.md) 
 
-### #is_/same_as :: [Republic.secret](/_secret/Society/Government/Republic.secret.md)
+### #is_/same_as :: [Republic.secret](/_secret/Society/Politics/Government/Republic.secret.md)
 

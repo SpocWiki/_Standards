@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - job-location-type
 - job_location_type

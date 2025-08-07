@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chiroteuthis spoeli"
 ---
 
@@ -175,7 +175,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[spoeli](spoeli.md)) 
+### #is_/same_as :: [spoeli](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.md) 
 
 ### #is_/same_as :: [spoeli.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/spoeli.public.md) 
 

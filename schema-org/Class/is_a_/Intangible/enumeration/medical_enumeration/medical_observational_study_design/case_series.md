@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - case-series
 - case_series

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hemiphractinae
 ---
 
@@ -49,17 +49,17 @@ title: Hemiphractinae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hemiphractinae](Hemiphractinae.md)) 
+### #is_/same_as :: [Hemiphractinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.md) 
 
-### #is_/same_as :: [Hemiphractinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hemiphractinae.public.md) 
+### #is_/same_as :: [Hemiphractinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.public.md) 
 
-### #is_/same_as :: [Hemiphractinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hemiphractinae.internal.md) 
+### #is_/same_as :: [Hemiphractinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.internal.md) 
 
-### #is_/same_as :: [Hemiphractinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hemiphractinae.protect.md) 
+### #is_/same_as :: [Hemiphractinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.protect.md) 
 
-### #is_/same_as :: [Hemiphractinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hemiphractinae.private.md) 
+### #is_/same_as :: [Hemiphractinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.private.md) 
 
-### #is_/same_as :: [Hemiphractinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hemiphractinae.personal.md) 
+### #is_/same_as :: [Hemiphractinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.personal.md) 
 
-### #is_/same_as :: [Hemiphractinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Hylidae/Hemiphractinae.secret.md)
+### #is_/same_as :: [Hemiphractinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Hylidae/Hemiphractinae.secret.md)
 

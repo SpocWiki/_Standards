@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 96
 canonical_SMILES: '[Cm]'
 CAS_Registry_Number: 7440-51-9
@@ -110,17 +110,17 @@ UNII: M5LL84MZ2W
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curium](/_Standards/chemic/chemic~Elements/Actinide-Group/Curium.md) 
+### #is_/same_as :: [Curium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Curium.md) 
 
-### #is_/same_as :: [Curium.public](/_public/chemic/chemic~Elements/Actinide-Group/Curium.public.md) 
+### #is_/same_as :: [Curium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Curium.public.md) 
 
-### #is_/same_as :: [Curium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Curium.internal.md) 
+### #is_/same_as :: [Curium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Curium.internal.md) 
 
-### #is_/same_as :: [Curium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Curium.protect.md) 
+### #is_/same_as :: [Curium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Curium.protect.md) 
 
-### #is_/same_as :: [Curium.private](/_private/chemic/chemic~Elements/Actinide-Group/Curium.private.md) 
+### #is_/same_as :: [Curium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Curium.private.md) 
 
-### #is_/same_as :: [Curium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Curium.personal.md) 
+### #is_/same_as :: [Curium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Curium.personal.md) 
 
-### #is_/same_as :: [Curium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Curium.secret.md)
+### #is_/same_as :: [Curium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Curium.secret.md)
 

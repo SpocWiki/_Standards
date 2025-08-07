@@ -96,3 +96,20 @@ MeSH_tree_code: J01.937.817
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ship) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ship](/_Standards/Technology/Transport/Water_Transport/Ship.md) 
+
+### #is_/same_as :: [Ship.public](/_public/Technology/Transport/Water_Transport/Ship.public.md) 
+
+### #is_/same_as :: [Ship.internal](/_internal/Technology/Transport/Water_Transport/Ship.internal.md) 
+
+### #is_/same_as :: [Ship.protect](/_protect/Technology/Transport/Water_Transport/Ship.protect.md) 
+
+### #is_/same_as :: [Ship.private](/_private/Technology/Transport/Water_Transport/Ship.private.md) 
+
+### #is_/same_as :: [Ship.personal](/_personal/Technology/Transport/Water_Transport/Ship.personal.md) 
+
+### #is_/same_as :: [Ship.secret](/_secret/Technology/Transport/Water_Transport/Ship.secret.md)
+

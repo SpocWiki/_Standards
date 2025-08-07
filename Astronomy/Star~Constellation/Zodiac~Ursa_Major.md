@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Ursa_Major|Zodiac~Ursa_Major]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Ursa_Major.public|Zodiac~Ursa_Major.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Ursa_Major.internal|Zodiac~Ursa_Major.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Ursa_Major.protect|Zodiac~Ursa_Major.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Ursa_Major.private|Zodiac~Ursa_Major.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Ursa_Major.personal|Zodiac~Ursa_Major.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Ursa_Major.secret|Zodiac~Ursa_Major.secret]] 
+
+### #is_/same_as :: [Zodiac~Ursa_Major](/_Standards/Astronomy/Star~Constellation/Zodiac~Ursa_Major.md) 
+
+### #is_/same_as :: [Zodiac~Ursa_Major.public](/_public/Astronomy/Star~Constellation/Zodiac~Ursa_Major.public.md) 
+
+### #is_/same_as :: [Zodiac~Ursa_Major.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Ursa_Major.internal.md) 
+
+### #is_/same_as :: [Zodiac~Ursa_Major.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Ursa_Major.protect.md) 
+
+### #is_/same_as :: [Zodiac~Ursa_Major.private](/_private/Astronomy/Star~Constellation/Zodiac~Ursa_Major.private.md) 
+
+### #is_/same_as :: [Zodiac~Ursa_Major.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Ursa_Major.personal.md) 
+
+### #is_/same_as :: [Zodiac~Ursa_Major.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Ursa_Major.secret.md)
+

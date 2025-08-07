@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - release-date
 - release_date

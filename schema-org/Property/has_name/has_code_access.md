@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - access-code
 - access_code

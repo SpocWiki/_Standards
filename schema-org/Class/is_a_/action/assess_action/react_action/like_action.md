@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - like-action
 - like_action

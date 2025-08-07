@@ -59,3 +59,20 @@ Wolfram_Language_entity_code: Entity["Mineral", "Beryl"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beryl) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Beryl](/_Standards/Chemistry/Material/Beryl.md) 
+
+### #is_/same_as :: [Beryl.public](/_public/Chemistry/Material/Beryl.public.md) 
+
+### #is_/same_as :: [Beryl.internal](/_internal/Chemistry/Material/Beryl.internal.md) 
+
+### #is_/same_as :: [Beryl.protect](/_protect/Chemistry/Material/Beryl.protect.md) 
+
+### #is_/same_as :: [Beryl.private](/_private/Chemistry/Material/Beryl.private.md) 
+
+### #is_/same_as :: [Beryl.personal](/_personal/Chemistry/Material/Beryl.personal.md) 
+
+### #is_/same_as :: [Beryl.secret](/_secret/Chemistry/Material/Beryl.secret.md)
+

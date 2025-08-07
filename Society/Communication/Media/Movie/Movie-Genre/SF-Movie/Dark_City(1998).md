@@ -27,3 +27,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dark%20City%20(1998%20film))  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Dark_City(1998)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).md) 
+
+### #is_/same_as :: [Dark_City(1998).public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).public.md) 
+
+### #is_/same_as :: [Dark_City(1998).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).internal.md) 
+
+### #is_/same_as :: [Dark_City(1998).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).protect.md) 
+
+### #is_/same_as :: [Dark_City(1998).private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).private.md) 
+
+### #is_/same_as :: [Dark_City(1998).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).personal.md) 
+
+### #is_/same_as :: [Dark_City(1998).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Dark_City(1998).secret.md)
+

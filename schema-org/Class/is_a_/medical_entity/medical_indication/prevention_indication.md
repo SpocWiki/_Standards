@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - prevention-indication
 - prevention_indication

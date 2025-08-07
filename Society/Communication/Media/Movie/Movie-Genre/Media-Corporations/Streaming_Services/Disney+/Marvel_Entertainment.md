@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marvel Entertainment"
 - "Marvel Enterprises"
@@ -41,4 +41,19 @@ aliases:
 ### [[Marvel_Entertainment/Moon_Knight(2022)|Moon_Knight(2022)]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Marvel_Entertainment](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.md) 
+
+### #is_/same_as :: [Marvel_Entertainment.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.public.md) 
+
+### #is_/same_as :: [Marvel_Entertainment.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.internal.md) 
+
+### #is_/same_as :: [Marvel_Entertainment.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.protect.md) 
+
+### #is_/same_as :: [Marvel_Entertainment.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.private.md) 
+
+### #is_/same_as :: [Marvel_Entertainment.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.personal.md) 
+
+### #is_/same_as :: [Marvel_Entertainment.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Marvel_Entertainment.secret.md)
 

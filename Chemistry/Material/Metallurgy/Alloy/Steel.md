@@ -1,4 +1,4 @@
-﻿---
+---
 Colon_Classification: F182
 color: '[[_Standards/WikiData/WD~grey,42519]]'
 Commons_category: Steel
@@ -67,17 +67,17 @@ U_S_National_Archives_Identifier: 10644079
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steel](/_Standards/chemic/Material/Metallurgy/Alloy/Steel.md) 
+### #is_/same_as :: [Steel](/_Standards/Chemistry/Material/Metallurgy/Alloy/Steel.md) 
 
-### #is_/same_as :: [Steel.public](/_public/chemic/Material/Metallurgy/Alloy/Steel.public.md) 
+### #is_/same_as :: [Steel.public](/_public/Chemistry/Material/Metallurgy/Alloy/Steel.public.md) 
 
-### #is_/same_as :: [Steel.internal](/_internal/chemic/Material/Metallurgy/Alloy/Steel.internal.md) 
+### #is_/same_as :: [Steel.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Steel.internal.md) 
 
-### #is_/same_as :: [Steel.protect](/_protect/chemic/Material/Metallurgy/Alloy/Steel.protect.md) 
+### #is_/same_as :: [Steel.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Steel.protect.md) 
 
-### #is_/same_as :: [Steel.private](/_private/chemic/Material/Metallurgy/Alloy/Steel.private.md) 
+### #is_/same_as :: [Steel.private](/_private/Chemistry/Material/Metallurgy/Alloy/Steel.private.md) 
 
-### #is_/same_as :: [Steel.personal](/_personal/chemic/Material/Metallurgy/Alloy/Steel.personal.md) 
+### #is_/same_as :: [Steel.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Steel.personal.md) 
 
-### #is_/same_as :: [Steel.secret](/_secret/chemic/Material/Metallurgy/Alloy/Steel.secret.md)
+### #is_/same_as :: [Steel.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Steel.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sepiolidae
 ---
 
@@ -179,7 +179,7 @@ Neptune City, NJ, 351pp.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Sepiolidae](Sepiolidae.md)) 
+### #is_/same_as :: [Sepiolidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.md) 
 
 ### #is_/same_as :: [Sepiolidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiolida/Sepiolidae.public.md) 
 

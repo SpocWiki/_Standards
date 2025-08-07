@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tissue-sample
 - tissue_sample

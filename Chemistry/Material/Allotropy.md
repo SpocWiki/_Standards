@@ -45,3 +45,20 @@ Krugosvet_article: nauka_i_tehnika/himiya/ALLOTROPIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Allotropy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Allotropy](/_Standards/Chemistry/Material/Allotropy.md) 
+
+### #is_/same_as :: [Allotropy.public](/_public/Chemistry/Material/Allotropy.public.md) 
+
+### #is_/same_as :: [Allotropy.internal](/_internal/Chemistry/Material/Allotropy.internal.md) 
+
+### #is_/same_as :: [Allotropy.protect](/_protect/Chemistry/Material/Allotropy.protect.md) 
+
+### #is_/same_as :: [Allotropy.private](/_private/Chemistry/Material/Allotropy.private.md) 
+
+### #is_/same_as :: [Allotropy.personal](/_personal/Chemistry/Material/Allotropy.personal.md) 
+
+### #is_/same_as :: [Allotropy.secret](/_secret/Chemistry/Material/Allotropy.secret.md)
+

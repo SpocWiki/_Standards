@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - fuel_consumption
 - fuel-consumption

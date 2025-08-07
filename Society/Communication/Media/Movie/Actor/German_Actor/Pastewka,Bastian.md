@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Bastian Pastewka"
 ---
@@ -27,4 +27,19 @@ aliases:
 > [Wikipedia](https://de.wikipedia.org/wiki/Bastian%20Pastewka)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pastewka,Bastian](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.md) 
+
+### #is_/same_as :: [Pastewka,Bastian.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.public.md) 
+
+### #is_/same_as :: [Pastewka,Bastian.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.internal.md) 
+
+### #is_/same_as :: [Pastewka,Bastian.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.protect.md) 
+
+### #is_/same_as :: [Pastewka,Bastian.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.private.md) 
+
+### #is_/same_as :: [Pastewka,Bastian.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.personal.md) 
+
+### #is_/same_as :: [Pastewka,Bastian.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.secret.md)
 

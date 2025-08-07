@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - media-item-appearance
 - media_item_appearance

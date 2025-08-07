@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number_of_forward_gears
 - number-of-forward-gears

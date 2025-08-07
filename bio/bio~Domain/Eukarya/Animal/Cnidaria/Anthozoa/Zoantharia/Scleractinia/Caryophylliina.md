@@ -1,4 +1,4 @@
-﻿---
+---
 title: Caryophylliina
 ---
 
@@ -147,7 +147,7 @@ Left to right:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Caryophylliina](Caryophylliina.md)) 
+### #is_/same_as :: [Caryophylliina](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.md) 
 
 ### #is_/same_as :: [Caryophylliina.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.public.md) 
 

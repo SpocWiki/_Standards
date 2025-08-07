@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number-of-episodes
 - number_of_episodes

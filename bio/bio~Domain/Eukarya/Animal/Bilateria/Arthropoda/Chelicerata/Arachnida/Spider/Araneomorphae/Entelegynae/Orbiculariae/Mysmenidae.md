@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mysmenidae
 ---
 
@@ -80,7 +80,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md))
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Mysmenidae](Mysmenidae.md)) 
+### #is_/same_as :: [Mysmenidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Mysmenidae.md) 
 
 ### #is_/same_as :: [Mysmenidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Mysmenidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-height
 - body_measurement_height

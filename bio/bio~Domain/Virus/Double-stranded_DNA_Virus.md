@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Double-stranded DNA Viruses"
 ---
 

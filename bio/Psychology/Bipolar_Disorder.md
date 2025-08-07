@@ -27,3 +27,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bipolar%20disorder) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Bipolar_Disorder](/_Standards/bio/Psychology/Bipolar_Disorder.md) 
+
+### #is_/same_as :: [Bipolar_Disorder.public](/_public/bio/Psychology/Bipolar_Disorder.public.md) 
+
+### #is_/same_as :: [Bipolar_Disorder.internal](/_internal/bio/Psychology/Bipolar_Disorder.internal.md) 
+
+### #is_/same_as :: [Bipolar_Disorder.protect](/_protect/bio/Psychology/Bipolar_Disorder.protect.md) 
+
+### #is_/same_as :: [Bipolar_Disorder.private](/_private/bio/Psychology/Bipolar_Disorder.private.md) 
+
+### #is_/same_as :: [Bipolar_Disorder.personal](/_personal/bio/Psychology/Bipolar_Disorder.personal.md) 
+
+### #is_/same_as :: [Bipolar_Disorder.secret](/_secret/bio/Psychology/Bipolar_Disorder.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis agassizii"
 ---
 
@@ -153,7 +153,7 @@ Academy of Sciences, 5: 259-446.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[agassizii](agassizii.md)) 
+### #is_/same_as :: [agassizii](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.md) 
 
 ### #is_/same_as :: [agassizii.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/agassizii.public.md) 
 

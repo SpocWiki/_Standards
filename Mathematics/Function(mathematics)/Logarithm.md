@@ -1,4 +1,4 @@
-﻿---
+---
 approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
 Commons_category: Logarithm
 Commons_gallery: Logarithm

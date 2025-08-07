@@ -1,4 +1,4 @@
-﻿---
+---
 Basisklassifikation: 89.91
 BHCL_UUID: 29b481ef-efe3-4144-b80e-62ee7cef8d6e
 Commons_category: Imperialism

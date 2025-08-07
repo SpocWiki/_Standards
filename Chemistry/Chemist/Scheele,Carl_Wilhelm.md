@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm](/_Standards/chemic/Chemist/Scheele,Carl_Wilhelm.md) 
+### #is_/same_as :: [Scheele,Carl_Wilhelm](/_Standards/Chemistry/Chemist/Scheele,Carl_Wilhelm.md) 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm.public](/_public/chemic/Chemist/Scheele,Carl_Wilhelm.public.md) 
+### #is_/same_as :: [Scheele,Carl_Wilhelm.public](/_public/Chemistry/Chemist/Scheele,Carl_Wilhelm.public.md) 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm.internal](/_internal/chemic/Chemist/Scheele,Carl_Wilhelm.internal.md) 
+### #is_/same_as :: [Scheele,Carl_Wilhelm.internal](/_internal/Chemistry/Chemist/Scheele,Carl_Wilhelm.internal.md) 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm.protect](/_protect/chemic/Chemist/Scheele,Carl_Wilhelm.protect.md) 
+### #is_/same_as :: [Scheele,Carl_Wilhelm.protect](/_protect/Chemistry/Chemist/Scheele,Carl_Wilhelm.protect.md) 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm.private](/_private/chemic/Chemist/Scheele,Carl_Wilhelm.private.md) 
+### #is_/same_as :: [Scheele,Carl_Wilhelm.private](/_private/Chemistry/Chemist/Scheele,Carl_Wilhelm.private.md) 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm.personal](/_personal/chemic/Chemist/Scheele,Carl_Wilhelm.personal.md) 
+### #is_/same_as :: [Scheele,Carl_Wilhelm.personal](/_personal/Chemistry/Chemist/Scheele,Carl_Wilhelm.personal.md) 
 
-### #is_/same_as :: [Scheele,Carl_Wilhelm.secret](/_secret/chemic/Chemist/Scheele,Carl_Wilhelm.secret.md)
+### #is_/same_as :: [Scheele,Carl_Wilhelm.secret](/_secret/Chemistry/Chemist/Scheele,Carl_Wilhelm.secret.md)
 

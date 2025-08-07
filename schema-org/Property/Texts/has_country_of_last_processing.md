@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - country-of-last-processing
 - country_of_last_processing

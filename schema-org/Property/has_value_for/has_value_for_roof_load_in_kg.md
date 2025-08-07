@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - roof_load
 - roof-load

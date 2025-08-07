@@ -1,4 +1,4 @@
-﻿---
+---
 title: Brachypauropodidae
 ---
 
@@ -35,7 +35,7 @@ title: Brachypauropodidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Brachypauropodidae](Brachypauropodidae.md)) 
+### #is_/same_as :: [Brachypauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.md) 
 
 ### #is_/same_as :: [Brachypauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.public.md) 
 

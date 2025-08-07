@@ -31,5 +31,19 @@ Commons_category: Alto saxophones
 > [Wikipedia](https://en.wikipedia.org/wiki/Alto%20saxophone) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Alto_Saxophone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.md) 
+
+### #is_/same_as :: [Alto_Saxophone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.public.md) 
+
+### #is_/same_as :: [Alto_Saxophone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.internal.md) 
+
+### #is_/same_as :: [Alto_Saxophone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.protect.md) 
+
+### #is_/same_as :: [Alto_Saxophone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.private.md) 
+
+### #is_/same_as :: [Alto_Saxophone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.personal.md) 
+
+### #is_/same_as :: [Alto_Saxophone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Alto_Saxophone.secret.md)
 

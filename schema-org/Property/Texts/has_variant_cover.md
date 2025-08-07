@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - variant-cover
 - variant_cover

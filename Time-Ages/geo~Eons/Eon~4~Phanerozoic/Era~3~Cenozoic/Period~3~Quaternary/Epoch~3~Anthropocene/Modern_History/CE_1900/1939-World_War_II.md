@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Great Patriotic War"
 - "World War II"

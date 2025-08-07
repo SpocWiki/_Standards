@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - icao-code
 - code_icao

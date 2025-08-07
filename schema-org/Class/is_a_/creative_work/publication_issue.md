@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - publication-issue
 - publication_issue

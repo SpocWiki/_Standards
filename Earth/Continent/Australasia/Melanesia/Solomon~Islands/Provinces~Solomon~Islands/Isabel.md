@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Isabel
 confidential: public

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - death-date
 - death_date

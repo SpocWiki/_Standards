@@ -146,3 +146,20 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "BoylesLaw"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boyle's%20law) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boyle's_law](/_Standards/Science/Physics/Thermodynamics/Boyle's_law.md) 
+
+### #is_/same_as :: [Boyle's_law.public](/_public/Science/Physics/Thermodynamics/Boyle's_law.public.md) 
+
+### #is_/same_as :: [Boyle's_law.internal](/_internal/Science/Physics/Thermodynamics/Boyle's_law.internal.md) 
+
+### #is_/same_as :: [Boyle's_law.protect](/_protect/Science/Physics/Thermodynamics/Boyle's_law.protect.md) 
+
+### #is_/same_as :: [Boyle's_law.private](/_private/Science/Physics/Thermodynamics/Boyle's_law.private.md) 
+
+### #is_/same_as :: [Boyle's_law.personal](/_personal/Science/Physics/Thermodynamics/Boyle's_law.personal.md) 
+
+### #is_/same_as :: [Boyle's_law.secret](/_secret/Science/Physics/Thermodynamics/Boyle's_law.secret.md)
+

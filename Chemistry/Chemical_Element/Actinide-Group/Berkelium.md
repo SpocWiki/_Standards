@@ -102,17 +102,17 @@ UNII: 2YQA718KUU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berkelium](/_Standards/chemic/chemic~Elements/Actinide-Group/Berkelium.md) 
+### #is_/same_as :: [Berkelium](/_Standards/Chemistry/Chemical_Element/Actinide-Group/Berkelium.md) 
 
-### #is_/same_as :: [Berkelium.public](/_public/chemic/chemic~Elements/Actinide-Group/Berkelium.public.md) 
+### #is_/same_as :: [Berkelium.public](/_public/Chemistry/Chemical_Element/Actinide-Group/Berkelium.public.md) 
 
-### #is_/same_as :: [Berkelium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Berkelium.internal.md) 
+### #is_/same_as :: [Berkelium.internal](/_internal/Chemistry/Chemical_Element/Actinide-Group/Berkelium.internal.md) 
 
-### #is_/same_as :: [Berkelium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Berkelium.protect.md) 
+### #is_/same_as :: [Berkelium.protect](/_protect/Chemistry/Chemical_Element/Actinide-Group/Berkelium.protect.md) 
 
-### #is_/same_as :: [Berkelium.private](/_private/chemic/chemic~Elements/Actinide-Group/Berkelium.private.md) 
+### #is_/same_as :: [Berkelium.private](/_private/Chemistry/Chemical_Element/Actinide-Group/Berkelium.private.md) 
 
-### #is_/same_as :: [Berkelium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Berkelium.personal.md) 
+### #is_/same_as :: [Berkelium.personal](/_personal/Chemistry/Chemical_Element/Actinide-Group/Berkelium.personal.md) 
 
-### #is_/same_as :: [Berkelium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Berkelium.secret.md)
+### #is_/same_as :: [Berkelium.secret](/_secret/Chemistry/Chemical_Element/Actinide-Group/Berkelium.secret.md)
 

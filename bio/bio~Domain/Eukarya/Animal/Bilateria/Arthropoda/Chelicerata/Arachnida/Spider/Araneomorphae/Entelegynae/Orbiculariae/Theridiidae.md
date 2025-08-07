@@ -1,4 +1,4 @@
-﻿---
+---
 title: Theridiidae
 ---
 
@@ -199,7 +199,7 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Theridiidae](Theridiidae.md)) 
+### #is_/same_as :: [Theridiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.md) 
 
 ### #is_/same_as :: [Theridiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae.public.md) 
 

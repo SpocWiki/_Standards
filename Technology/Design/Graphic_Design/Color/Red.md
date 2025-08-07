@@ -86,3 +86,19 @@ OpenStreetMap_tag_or_key: Tag:colour=red
 > [Wikipedia](https://en.wikipedia.org/wiki/Red) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Red](/_Standards/Technology/Design/Graphic_Design/Color/Red.md) 
+
+### #is_/same_as :: [Red.public](/_public/Technology/Design/Graphic_Design/Color/Red.public.md) 
+
+### #is_/same_as :: [Red.internal](/_internal/Technology/Design/Graphic_Design/Color/Red.internal.md) 
+
+### #is_/same_as :: [Red.protect](/_protect/Technology/Design/Graphic_Design/Color/Red.protect.md) 
+
+### #is_/same_as :: [Red.private](/_private/Technology/Design/Graphic_Design/Color/Red.private.md) 
+
+### #is_/same_as :: [Red.personal](/_personal/Technology/Design/Graphic_Design/Color/Red.personal.md) 
+
+### #is_/same_as :: [Red.secret](/_secret/Technology/Design/Graphic_Design/Color/Red.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - gated-residence-community
 - gated_residence_community

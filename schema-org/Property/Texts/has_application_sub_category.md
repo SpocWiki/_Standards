@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - application-sub-category
 - application_sub_category

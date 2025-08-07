@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - passenger-priority-status
 - passenger_priority_status

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - date-created
 - date_created

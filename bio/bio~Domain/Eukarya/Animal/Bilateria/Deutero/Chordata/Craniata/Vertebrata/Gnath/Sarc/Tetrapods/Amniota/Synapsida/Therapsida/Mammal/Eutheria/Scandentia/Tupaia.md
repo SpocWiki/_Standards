@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tupaia
 ---
 
@@ -68,7 +68,7 @@ Creator           Chromolithograph by Joseph Wolf (1865)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Tupaia](Tupaia.md)) 
+### #is_/same_as :: [Tupaia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Scandentia/Tupaia.md) 
 
 ### #is_/same_as :: [Tupaia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Scandentia/Tupaia.public.md) 
 

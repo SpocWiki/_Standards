@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-link
 - merchant_return_link

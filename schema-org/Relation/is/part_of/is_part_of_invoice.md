@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - part-of-invoice
 - part_of_invoice

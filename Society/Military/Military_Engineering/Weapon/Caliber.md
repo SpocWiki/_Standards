@@ -44,3 +44,20 @@ Commons_category: Pistol and rifle cartridges
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caliber) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caliber](/_Standards/Society/Military/Military_Engineering/Weapon/Caliber.md) 
+
+### #is_/same_as :: [Caliber.public](/_public/Society/Military/Military_Engineering/Weapon/Caliber.public.md) 
+
+### #is_/same_as :: [Caliber.internal](/_internal/Society/Military/Military_Engineering/Weapon/Caliber.internal.md) 
+
+### #is_/same_as :: [Caliber.protect](/_protect/Society/Military/Military_Engineering/Weapon/Caliber.protect.md) 
+
+### #is_/same_as :: [Caliber.private](/_private/Society/Military/Military_Engineering/Weapon/Caliber.private.md) 
+
+### #is_/same_as :: [Caliber.personal](/_personal/Society/Military/Military_Engineering/Weapon/Caliber.personal.md) 
+
+### #is_/same_as :: [Caliber.secret](/_secret/Society/Military/Military_Engineering/Weapon/Caliber.secret.md)
+

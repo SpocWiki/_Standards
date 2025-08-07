@@ -1,4 +1,4 @@
-﻿---
+---
 title: "non-core Caryophyllales"
 ---
 
@@ -120,17 +120,17 @@ Copyright ::            © 2006 [Chien Lee](http://www.wildborneo.com.my/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Polygonales](Polygonales.md)) 
+### #is_/same_as :: [Polygonales](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.md) 
 
-### #is_/same_as :: [Polygonales.public](/_public/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.public.md) 
+### #is_/same_as :: [Polygonales.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.public.md) 
 
-### #is_/same_as :: [Polygonales.internal](/_internal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.internal.md) 
+### #is_/same_as :: [Polygonales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.internal.md) 
 
-### #is_/same_as :: [Polygonales.protect](/_protect/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.protect.md) 
+### #is_/same_as :: [Polygonales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.protect.md) 
 
-### #is_/same_as :: [Polygonales.private](/_private/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.private.md) 
+### #is_/same_as :: [Polygonales.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.private.md) 
 
-### #is_/same_as :: [Polygonales.personal](/_personal/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.personal.md) 
+### #is_/same_as :: [Polygonales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.personal.md) 
 
-### #is_/same_as :: [Polygonales.secret](/_secret/bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.secret.md)
+### #is_/same_as :: [Polygonales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales.secret.md)
 

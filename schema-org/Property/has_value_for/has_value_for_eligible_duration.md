@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - eligible_duration
 - eligible-duration

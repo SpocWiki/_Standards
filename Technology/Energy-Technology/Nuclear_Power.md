@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nuclear power"
 has_id_wikidata: Q12739

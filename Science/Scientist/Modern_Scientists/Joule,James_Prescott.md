@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Prescott Joule"
 award_received:

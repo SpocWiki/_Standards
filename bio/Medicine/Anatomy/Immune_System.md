@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: "Immune system"
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~immune_system_development,14863467]]'
 has_effect: '[[_Standards/WikiData/WD~immunity,182581]]'

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - required-min-age
 - required_min_age

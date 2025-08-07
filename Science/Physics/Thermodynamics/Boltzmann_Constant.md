@@ -121,3 +121,20 @@ quantity_symbol_LaTeX_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boltzmann%20constant) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Boltzmann_Constant](/_Standards/Science/Physics/Thermodynamics/Boltzmann_Constant.md) 
+
+### #is_/same_as :: [Boltzmann_Constant.public](/_public/Science/Physics/Thermodynamics/Boltzmann_Constant.public.md) 
+
+### #is_/same_as :: [Boltzmann_Constant.internal](/_internal/Science/Physics/Thermodynamics/Boltzmann_Constant.internal.md) 
+
+### #is_/same_as :: [Boltzmann_Constant.protect](/_protect/Science/Physics/Thermodynamics/Boltzmann_Constant.protect.md) 
+
+### #is_/same_as :: [Boltzmann_Constant.private](/_private/Science/Physics/Thermodynamics/Boltzmann_Constant.private.md) 
+
+### #is_/same_as :: [Boltzmann_Constant.personal](/_personal/Science/Physics/Thermodynamics/Boltzmann_Constant.personal.md) 
+
+### #is_/same_as :: [Boltzmann_Constant.secret](/_secret/Science/Physics/Thermodynamics/Boltzmann_Constant.secret.md)
+

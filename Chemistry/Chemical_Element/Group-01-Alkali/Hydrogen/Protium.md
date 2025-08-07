@@ -44,3 +44,20 @@ mass: 1.00782503224
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Isotopes%20of%20hydrogen) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Protium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.md) 
+
+### #is_/same_as :: [Protium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public.md) 
+
+### #is_/same_as :: [Protium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal.md) 
+
+### #is_/same_as :: [Protium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect.md) 
+
+### #is_/same_as :: [Protium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private.md) 
+
+### #is_/same_as :: [Protium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal.md) 
+
+### #is_/same_as :: [Protium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret.md)
+

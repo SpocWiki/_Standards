@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - study-location
 - study_location

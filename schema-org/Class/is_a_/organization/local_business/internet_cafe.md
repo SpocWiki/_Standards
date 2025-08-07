@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - internet-cafe
 - internet_cafe

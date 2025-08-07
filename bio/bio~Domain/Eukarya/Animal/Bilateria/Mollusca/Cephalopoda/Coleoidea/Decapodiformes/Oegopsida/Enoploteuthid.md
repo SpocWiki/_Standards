@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Enoploteuthid families"
 ---
 
@@ -156,7 +156,7 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Enoploteuthid](Enoploteuthid.md)) 
+### #is_/same_as :: [Enoploteuthid](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.md) 
 
 ### #is_/same_as :: [Enoploteuthid.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.public.md) 
 

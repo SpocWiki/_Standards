@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - encodes-creative-work
 - encoding_creative_work

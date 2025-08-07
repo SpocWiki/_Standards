@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - repeat-frequency
 - repeat_frequency

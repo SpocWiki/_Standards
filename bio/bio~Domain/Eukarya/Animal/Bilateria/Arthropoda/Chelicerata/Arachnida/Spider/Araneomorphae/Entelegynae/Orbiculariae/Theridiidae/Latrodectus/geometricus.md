@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Latrodectus geometricus"
 ---
 
@@ -73,7 +73,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[geometricus](geometricus.md)) 
+### #is_/same_as :: [geometricus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.md) 
 
 ### #is_/same_as :: [geometricus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Theridiidae/Latrodectus/geometricus.public.md) 
 

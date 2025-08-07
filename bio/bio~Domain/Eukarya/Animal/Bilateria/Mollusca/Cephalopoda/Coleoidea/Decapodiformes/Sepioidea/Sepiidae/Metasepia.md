@@ -1,4 +1,4 @@
-﻿---
+---
 title: Metasepia
 ---
 
@@ -98,7 +98,7 @@ Hokkaido Imperial University, 20(supplement):357 pages.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Metasepia](Metasepia.md)) 
+### #is_/same_as :: [Metasepia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.md) 
 
 ### #is_/same_as :: [Metasepia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.public.md) 
 

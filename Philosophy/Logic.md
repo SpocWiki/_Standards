@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2609
 Colon_Classification: R1
 Commons_category: Logic

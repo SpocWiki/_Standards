@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - edit-eidr
 - id_entertain_edit

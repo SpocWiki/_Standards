@@ -12,5 +12,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ImageNet](/_Standards/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.md) 
+
+### #is_/same_as :: [ImageNet.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.public.md) 
+
+### #is_/same_as :: [ImageNet.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.internal.md) 
+
+### #is_/same_as :: [ImageNet.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.protect.md) 
+
+### #is_/same_as :: [ImageNet.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.private.md) 
+
+### #is_/same_as :: [ImageNet.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.personal.md) 
+
+### #is_/same_as :: [ImageNet.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Amazon(Company)/ImageNet.secret.md)
 

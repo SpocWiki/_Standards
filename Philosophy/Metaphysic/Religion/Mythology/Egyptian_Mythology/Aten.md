@@ -30,3 +30,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aten) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Aten](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.md) 
+
+### #is_/same_as :: [Aten.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.public.md) 
+
+### #is_/same_as :: [Aten.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.internal.md) 
+
+### #is_/same_as :: [Aten.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.protect.md) 
+
+### #is_/same_as :: [Aten.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.private.md) 
+
+### #is_/same_as :: [Aten.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.personal.md) 
+
+### #is_/same_as :: [Aten.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Aten.secret.md)
+

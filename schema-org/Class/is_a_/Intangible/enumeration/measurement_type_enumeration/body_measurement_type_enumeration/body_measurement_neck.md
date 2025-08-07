@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-neck
 - body_measurement_neck

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - game-item
 - game_item

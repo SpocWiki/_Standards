@@ -1,4 +1,4 @@
-﻿---
+---
 title: Anthozoa
 ---
 
@@ -296,7 +296,7 @@ Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Anthozoa](Anthozoa.md)) 
+### #is_/same_as :: [Anthozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.md) 
 
 ### #is_/same_as :: [Anthozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis hjorti"
 ---
 
@@ -164,7 +164,7 @@ Technical Report NMFS 152: 1-58.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[hjorti](hjorti.md)) 
+### #is_/same_as :: [hjorti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.md) 
 
 ### #is_/same_as :: [hjorti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.public.md) 
 

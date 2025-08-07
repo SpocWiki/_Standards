@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Myriapoda
 described_by_source:
 - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
@@ -59,7 +59,7 @@ UMLS_CUI: C0597910
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Myriapoda](Myriapoda.md)) 
+### #is_/same_as :: [Myriapoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda.md) 
 
 ### #is_/same_as :: [Myriapoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - health-plan-cost-sharing
 - health_plan_cost_sharing

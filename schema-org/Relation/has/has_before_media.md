@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - before-media
 - before_media

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - affected-by
 - affected_by

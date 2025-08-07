@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ursula K. Le Guin"
 - "Ursula Kroeber Le Guin"
@@ -77,4 +77,21 @@ aliases:
 > while author Michael Chabon referred to her as the "greatest American writer of her generation".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ursula%20K.%20Le%20Guin) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Le_Guin,Ursula_K.](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..md) 
+
+### #is_/same_as :: [Le_Guin,Ursula_K..public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..public.md) 
+
+### #is_/same_as :: [Le_Guin,Ursula_K..internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..internal.md) 
+
+### #is_/same_as :: [Le_Guin,Ursula_K..protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..protect.md) 
+
+### #is_/same_as :: [Le_Guin,Ursula_K..private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..private.md) 
+
+### #is_/same_as :: [Le_Guin,Ursula_K..personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..personal.md) 
+
+### #is_/same_as :: [Le_Guin,Ursula_K..secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..secret.md)
 

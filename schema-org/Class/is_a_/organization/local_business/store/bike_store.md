@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - bike-store
 - bike_store

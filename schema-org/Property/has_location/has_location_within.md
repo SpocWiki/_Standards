@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - geo-within
 - geo_within

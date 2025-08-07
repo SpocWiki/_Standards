@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - allocate-action
 - allocate_action

@@ -9,7 +9,7 @@ ZodiacPos: 4
 has_id_wikidata: Q8849
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
@@ -35,7 +35,7 @@ official_name: Cancer
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cancer%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cancer%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CancerCC.jpg
-Baidu_Tieba_name: 巨蟹座
+Baidu_Tieba_name: ???
 short_name: Cnc
 ---
 
@@ -60,10 +60,18 @@ short_name: Cnc
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Cancer|Zodiac~Cancer]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Cancer.public|Zodiac~Cancer.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Cancer.internal|Zodiac~Cancer.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Cancer.protect|Zodiac~Cancer.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Cancer.private|Zodiac~Cancer.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Cancer.personal|Zodiac~Cancer.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Cancer.secret|Zodiac~Cancer.secret]] 
+
+### #is_/same_as :: [Zodiac~Cancer](/_Standards/Astronomy/Star~Constellation/Zodiac~Cancer.md) 
+
+### #is_/same_as :: [Zodiac~Cancer.public](/_public/Astronomy/Star~Constellation/Zodiac~Cancer.public.md) 
+
+### #is_/same_as :: [Zodiac~Cancer.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cancer.internal.md) 
+
+### #is_/same_as :: [Zodiac~Cancer.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cancer.protect.md) 
+
+### #is_/same_as :: [Zodiac~Cancer.private](/_private/Astronomy/Star~Constellation/Zodiac~Cancer.private.md) 
+
+### #is_/same_as :: [Zodiac~Cancer.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cancer.personal.md) 
+
+### #is_/same_as :: [Zodiac~Cancer.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cancer.secret.md)
+

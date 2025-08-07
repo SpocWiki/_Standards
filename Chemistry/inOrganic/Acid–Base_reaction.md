@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q378751
 ---
 
@@ -17,5 +17,19 @@ has_id_wikidata: Q378751
 > [Wikipedia](https://en.wikipedia.org/wiki/Acid%E2%80%93base%20reaction) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Acid–Base_reaction](/_Standards/Chemistry/inOrganic/Acid–Base_reaction.md) 
+
+### #is_/same_as :: [Acid–Base_reaction.public](/_public/Chemistry/inOrganic/Acid–Base_reaction.public.md) 
+
+### #is_/same_as :: [Acid–Base_reaction.internal](/_internal/Chemistry/inOrganic/Acid–Base_reaction.internal.md) 
+
+### #is_/same_as :: [Acid–Base_reaction.protect](/_protect/Chemistry/inOrganic/Acid–Base_reaction.protect.md) 
+
+### #is_/same_as :: [Acid–Base_reaction.private](/_private/Chemistry/inOrganic/Acid–Base_reaction.private.md) 
+
+### #is_/same_as :: [Acid–Base_reaction.personal](/_personal/Chemistry/inOrganic/Acid–Base_reaction.personal.md) 
+
+### #is_/same_as :: [Acid–Base_reaction.secret](/_secret/Chemistry/inOrganic/Acid–Base_reaction.secret.md)
 

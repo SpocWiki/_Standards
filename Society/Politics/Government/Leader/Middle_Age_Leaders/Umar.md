@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Umar
 - "Umar ibn al-Khattab"
@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Umar](Umar.md)) 
+### #is_/same_as :: [Umar](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.md) 
 
-### #is_/same_as :: [Umar.public](/_public/Society/Government/Leader/Middle_Age_Leaders/Umar.public.md) 
+### #is_/same_as :: [Umar.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.public.md) 
 
-### #is_/same_as :: [Umar.internal](/_internal/Society/Government/Leader/Middle_Age_Leaders/Umar.internal.md) 
+### #is_/same_as :: [Umar.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.internal.md) 
 
-### #is_/same_as :: [Umar.protect](/_protect/Society/Government/Leader/Middle_Age_Leaders/Umar.protect.md) 
+### #is_/same_as :: [Umar.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.protect.md) 
 
-### #is_/same_as :: [Umar.private](/_private/Society/Government/Leader/Middle_Age_Leaders/Umar.private.md) 
+### #is_/same_as :: [Umar.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.private.md) 
 
-### #is_/same_as :: [Umar.personal](/_personal/Society/Government/Leader/Middle_Age_Leaders/Umar.personal.md) 
+### #is_/same_as :: [Umar.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.personal.md) 
 
-### #is_/same_as :: [Umar.secret](/_secret/Society/Government/Leader/Middle_Age_Leaders/Umar.secret.md)
+### #is_/same_as :: [Umar.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Umar.secret.md)
 

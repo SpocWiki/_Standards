@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - return-label-download-and-print
 - return_label_download_and_print

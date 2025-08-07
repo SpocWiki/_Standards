@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cephalophus nigrifrons"
 ---
 
@@ -55,7 +55,7 @@ Containing group: [Cephalophinae](../Cephalophinae.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[nigrifrons](nigrifrons.md)) 
+### #is_/same_as :: [nigrifrons](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Cephalophinae/nigrifrons.md) 
 
 ### #is_/same_as :: [nigrifrons.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Artiodactyla/Ruminants/Bovidae/Cephalophinae/nigrifrons.public.md) 
 

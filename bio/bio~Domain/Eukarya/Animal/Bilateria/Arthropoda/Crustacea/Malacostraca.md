@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Malacostraca
 described_by_source:
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
@@ -92,7 +92,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Malacostraca,14334371]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Malacostraca](Malacostraca.md)) 
+### #is_/same_as :: [Malacostraca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca.md) 
 
 ### #is_/same_as :: [Malacostraca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca.public.md) 
 

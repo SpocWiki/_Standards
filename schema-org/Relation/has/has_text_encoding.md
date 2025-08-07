@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Text Encoding"
 - "Character Encoding"

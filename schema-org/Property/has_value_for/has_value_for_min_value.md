@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - min_value
 - min-value

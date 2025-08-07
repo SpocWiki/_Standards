@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Aiwo
 confidential: public

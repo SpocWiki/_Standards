@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marco Polo"
 ArhivX_LOD: 6457

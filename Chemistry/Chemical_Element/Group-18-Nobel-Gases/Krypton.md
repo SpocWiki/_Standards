@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 36
 canonical_SMILES: '[Kr]'
 CAS_Registry_Number: 7439-90-9
@@ -107,17 +107,17 @@ ZVG_number: 7360
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Krypton](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.md) 
+### #is_/same_as :: [Krypton](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.md) 
 
-### #is_/same_as :: [Krypton.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.public.md) 
+### #is_/same_as :: [Krypton.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.public.md) 
 
-### #is_/same_as :: [Krypton.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.internal.md) 
+### #is_/same_as :: [Krypton.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.internal.md) 
 
-### #is_/same_as :: [Krypton.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.protect.md) 
+### #is_/same_as :: [Krypton.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.protect.md) 
 
-### #is_/same_as :: [Krypton.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.private.md) 
+### #is_/same_as :: [Krypton.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.private.md) 
 
-### #is_/same_as :: [Krypton.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.personal.md) 
+### #is_/same_as :: [Krypton.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.personal.md) 
 
-### #is_/same_as :: [Krypton.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.secret.md)
+### #is_/same_as :: [Krypton.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.secret.md)
 

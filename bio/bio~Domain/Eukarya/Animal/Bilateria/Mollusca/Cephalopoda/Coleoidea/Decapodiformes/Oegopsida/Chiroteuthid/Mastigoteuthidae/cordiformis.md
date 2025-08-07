@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastigoteuthis cordiformis"
 ---
 
@@ -137,7 +137,7 @@ Nat. Mus., 234: 1-180.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[cordiformis](cordiformis.md)) 
+### #is_/same_as :: [cordiformis](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/cordiformis.md) 
 
 ### #is_/same_as :: [cordiformis.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/cordiformis.public.md) 
 

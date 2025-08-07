@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "William Goldman"
 ---
@@ -20,4 +20,21 @@ aliases:
 > both of which he also adapted for film versions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Goldman) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Goldman,William](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.md) 
+
+### #is_/same_as :: [Goldman,William.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.public.md) 
+
+### #is_/same_as :: [Goldman,William.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.internal.md) 
+
+### #is_/same_as :: [Goldman,William.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.protect.md) 
+
+### #is_/same_as :: [Goldman,William.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.private.md) 
+
+### #is_/same_as :: [Goldman,William.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.personal.md) 
+
+### #is_/same_as :: [Goldman,William.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Goldman,William.secret.md)
 

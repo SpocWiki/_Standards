@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - comment-action
 - comment_action

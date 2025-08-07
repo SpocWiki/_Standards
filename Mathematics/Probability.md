@@ -1,4 +1,4 @@
-﻿---
+---
 All_Science_Journal_Classification_Codes: 2613
 Commons_category: Probability
 contributing_factor_of: '[[_Standards/WikiData/WD~uncertainty,13649246]]'

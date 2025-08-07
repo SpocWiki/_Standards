@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Hormones
 described_by_source:
 - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -56,17 +56,17 @@ UMLS_CUI: C0019932
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hormone](/_Standards/chemic/organic/Biochemistry/Hormone.md) 
+### #is_/same_as :: [Hormone](/_Standards/Chemistry/organic/Biochemistry/Hormone.md) 
 
-### #is_/same_as :: [Hormone.public](/_public/chemic/organic/Biochemistry/Hormone.public.md) 
+### #is_/same_as :: [Hormone.public](/_public/Chemistry/organic/Biochemistry/Hormone.public.md) 
 
-### #is_/same_as :: [Hormone.internal](/_internal/chemic/organic/Biochemistry/Hormone.internal.md) 
+### #is_/same_as :: [Hormone.internal](/_internal/Chemistry/organic/Biochemistry/Hormone.internal.md) 
 
-### #is_/same_as :: [Hormone.protect](/_protect/chemic/organic/Biochemistry/Hormone.protect.md) 
+### #is_/same_as :: [Hormone.protect](/_protect/Chemistry/organic/Biochemistry/Hormone.protect.md) 
 
-### #is_/same_as :: [Hormone.private](/_private/chemic/organic/Biochemistry/Hormone.private.md) 
+### #is_/same_as :: [Hormone.private](/_private/Chemistry/organic/Biochemistry/Hormone.private.md) 
 
-### #is_/same_as :: [Hormone.personal](/_personal/chemic/organic/Biochemistry/Hormone.personal.md) 
+### #is_/same_as :: [Hormone.personal](/_personal/Chemistry/organic/Biochemistry/Hormone.personal.md) 
 
-### #is_/same_as :: [Hormone.secret](/_secret/chemic/organic/Biochemistry/Hormone.secret.md)
+### #is_/same_as :: [Hormone.secret](/_secret/Chemistry/organic/Biochemistry/Hormone.secret.md)
 

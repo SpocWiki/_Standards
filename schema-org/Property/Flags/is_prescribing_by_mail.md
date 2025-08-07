@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - has-prescription-by-mail
 - prescribing_by_mail

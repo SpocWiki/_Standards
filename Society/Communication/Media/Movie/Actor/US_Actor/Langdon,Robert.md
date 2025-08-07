@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Robert Langdon"
 ---
@@ -22,4 +22,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Langdon)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Langdon,Robert](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.md) 
+
+### #is_/same_as :: [Langdon,Robert.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.public.md) 
+
+### #is_/same_as :: [Langdon,Robert.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.internal.md) 
+
+### #is_/same_as :: [Langdon,Robert.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.protect.md) 
+
+### #is_/same_as :: [Langdon,Robert.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.private.md) 
+
+### #is_/same_as :: [Langdon,Robert.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.personal.md) 
+
+### #is_/same_as :: [Langdon,Robert.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Langdon,Robert.secret.md)
 

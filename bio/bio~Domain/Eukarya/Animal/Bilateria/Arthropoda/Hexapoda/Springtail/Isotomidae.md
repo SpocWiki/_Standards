@@ -1,4 +1,4 @@
-﻿---
+---
 title: Isotomidae
 ---
 
@@ -58,7 +58,7 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Isotomidae](Isotomidae.md)) 
+### #is_/same_as :: [Isotomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.md) 
 
 ### #is_/same_as :: [Isotomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cranchiidae
 ---
 
@@ -176,7 +176,7 @@ Voss N. A., S. J. Stephen and Zh. Dong 1992. Family Cranchiidae Prosch,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cranchiidae](Cranchiidae.md)) 
+### #is_/same_as :: [Cranchiidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Cranchiidae.md) 
 
 ### #is_/same_as :: [Cranchiidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Cranchiidae.public.md) 
 

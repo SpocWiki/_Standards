@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - wearable-size-group-juniors
 - wearable_size_group_juniors

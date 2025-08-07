@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - auto-dealer
 - auto_dealer

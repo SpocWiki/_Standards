@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - service-type
 - service_type

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Malaita
 confidential: public

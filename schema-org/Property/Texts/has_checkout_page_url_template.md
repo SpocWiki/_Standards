@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - checkout-page-url-template
 - checkout_page_url_template

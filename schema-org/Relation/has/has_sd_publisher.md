@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sd-publisher
 - sd_publisher

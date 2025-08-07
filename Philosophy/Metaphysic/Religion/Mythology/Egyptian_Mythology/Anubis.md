@@ -80,3 +80,20 @@ native_label: 𓇋𓈖𓊪𓃣
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anubis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Anubis](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.md) 
+
+### #is_/same_as :: [Anubis.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.public.md) 
+
+### #is_/same_as :: [Anubis.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.internal.md) 
+
+### #is_/same_as :: [Anubis.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.protect.md) 
+
+### #is_/same_as :: [Anubis.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.private.md) 
+
+### #is_/same_as :: [Anubis.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.personal.md) 
+
+### #is_/same_as :: [Anubis.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Anubis.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Yuri Gagarin"
 - "Yuri Alekseyevich Gagarin"

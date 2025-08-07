@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - body-measurement-foot
 - body_measurement_foot

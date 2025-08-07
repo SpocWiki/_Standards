@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - photograph-action
 - photograph_action

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Planctoteuthis oligobessa"
 ---
 
@@ -181,7 +181,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[oligobessa](oligobessa.md)) 
+### #is_/same_as :: [oligobessa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/oligobessa.md) 
 
 ### #is_/same_as :: [oligobessa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Planctoteuthis/oligobessa.public.md) 
 

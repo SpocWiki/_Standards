@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - weapon-consideration
 - weapon_consideration

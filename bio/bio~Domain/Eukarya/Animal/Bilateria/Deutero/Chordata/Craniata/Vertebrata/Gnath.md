@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Gnathostomata
 - Gnath
@@ -310,7 +310,7 @@ Copyright ::         © 1997 [Greg and Marybeth Dimijian](http://www.dimijianima
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Gnath](Gnath.md)) 
+### #is_/same_as :: [Gnath](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.md) 
 
 ### #is_/same_as :: [Gnath.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sporting-goods-store
 - sporting_goods_store

@@ -1,4 +1,4 @@
-﻿---
+---
 atomic_number: 103
 canonical_SMILES: '[Lr]'
 CAS_Registry_Number: 22537-19-5
@@ -109,17 +109,17 @@ UNII: QRT37X99RQ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawrencium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.md) 
+### #is_/same_as :: [Lawrencium](/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.md) 
 
-### #is_/same_as :: [Lawrencium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.public.md) 
+### #is_/same_as :: [Lawrencium.public](/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public.md) 
 
-### #is_/same_as :: [Lawrencium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.internal.md) 
+### #is_/same_as :: [Lawrencium.internal](/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.internal.md) 
 
-### #is_/same_as :: [Lawrencium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.protect.md) 
+### #is_/same_as :: [Lawrencium.protect](/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.protect.md) 
 
-### #is_/same_as :: [Lawrencium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.private.md) 
+### #is_/same_as :: [Lawrencium.private](/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.private.md) 
 
-### #is_/same_as :: [Lawrencium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.personal.md) 
+### #is_/same_as :: [Lawrencium.personal](/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal.md) 
 
-### #is_/same_as :: [Lawrencium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.secret.md)
+### #is_/same_as :: [Lawrencium.secret](/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - oestrogen
 Commons_category: Estrogens
@@ -61,17 +61,17 @@ WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/estrogen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Estrogen](/_Standards/chemic/organic/Biochemistry/Hormone/Estrogen.md) 
+### #is_/same_as :: [Estrogen](/_Standards/Chemistry/organic/Biochemistry/Hormone/Estrogen.md) 
 
-### #is_/same_as :: [Estrogen.public](/_public/chemic/organic/Biochemistry/Hormone/Estrogen.public.md) 
+### #is_/same_as :: [Estrogen.public](/_public/Chemistry/organic/Biochemistry/Hormone/Estrogen.public.md) 
 
-### #is_/same_as :: [Estrogen.internal](/_internal/chemic/organic/Biochemistry/Hormone/Estrogen.internal.md) 
+### #is_/same_as :: [Estrogen.internal](/_internal/Chemistry/organic/Biochemistry/Hormone/Estrogen.internal.md) 
 
-### #is_/same_as :: [Estrogen.protect](/_protect/chemic/organic/Biochemistry/Hormone/Estrogen.protect.md) 
+### #is_/same_as :: [Estrogen.protect](/_protect/Chemistry/organic/Biochemistry/Hormone/Estrogen.protect.md) 
 
-### #is_/same_as :: [Estrogen.private](/_private/chemic/organic/Biochemistry/Hormone/Estrogen.private.md) 
+### #is_/same_as :: [Estrogen.private](/_private/Chemistry/organic/Biochemistry/Hormone/Estrogen.private.md) 
 
-### #is_/same_as :: [Estrogen.personal](/_personal/chemic/organic/Biochemistry/Hormone/Estrogen.personal.md) 
+### #is_/same_as :: [Estrogen.personal](/_personal/Chemistry/organic/Biochemistry/Hormone/Estrogen.personal.md) 
 
-### #is_/same_as :: [Estrogen.secret](/_secret/chemic/organic/Biochemistry/Hormone/Estrogen.secret.md)
+### #is_/same_as :: [Estrogen.secret](/_secret/Chemistry/organic/Biochemistry/Hormone/Estrogen.secret.md)
 

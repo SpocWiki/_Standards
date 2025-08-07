@@ -1,4 +1,4 @@
-﻿---
+---
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -17,10 +17,18 @@ type: Zodiac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/astro/Zodiac/Zodiac~Phoenix|Zodiac~Phoenix]] 
-- [[../../../_public/astro/Zodiac/Zodiac~Phoenix.public|Zodiac~Phoenix.public]] 
-- [[../../../_internal/astro/Zodiac/Zodiac~Phoenix.internal|Zodiac~Phoenix.internal]] 
-- [[../../../_protect/astro/Zodiac/Zodiac~Phoenix.protect|Zodiac~Phoenix.protect]] 
-- [[../../../_private/astro/Zodiac/Zodiac~Phoenix.private|Zodiac~Phoenix.private]] 
-- [[../../../_personal/astro/Zodiac/Zodiac~Phoenix.personal|Zodiac~Phoenix.personal]] 
-- [[../../../_secret/astro/Zodiac/Zodiac~Phoenix.secret|Zodiac~Phoenix.secret]] 
+
+### #is_/same_as :: [Zodiac~Phoenix](/_Standards/Astronomy/Star~Constellation/Zodiac~Phoenix.md) 
+
+### #is_/same_as :: [Zodiac~Phoenix.public](/_public/Astronomy/Star~Constellation/Zodiac~Phoenix.public.md) 
+
+### #is_/same_as :: [Zodiac~Phoenix.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Phoenix.internal.md) 
+
+### #is_/same_as :: [Zodiac~Phoenix.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Phoenix.protect.md) 
+
+### #is_/same_as :: [Zodiac~Phoenix.private](/_private/Astronomy/Star~Constellation/Zodiac~Phoenix.private.md) 
+
+### #is_/same_as :: [Zodiac~Phoenix.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Phoenix.personal.md) 
+
+### #is_/same_as :: [Zodiac~Phoenix.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Phoenix.secret.md)
+

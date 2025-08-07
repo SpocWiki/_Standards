@@ -85,3 +85,20 @@ OpenStreetMap_tag_or_key: Tag:colour=blue
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blue) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blue](/_Standards/Technology/Design/Graphic_Design/Color/Blue.md) 
+
+### #is_/same_as :: [Blue.public](/_public/Technology/Design/Graphic_Design/Color/Blue.public.md) 
+
+### #is_/same_as :: [Blue.internal](/_internal/Technology/Design/Graphic_Design/Color/Blue.internal.md) 
+
+### #is_/same_as :: [Blue.protect](/_protect/Technology/Design/Graphic_Design/Color/Blue.protect.md) 
+
+### #is_/same_as :: [Blue.private](/_private/Technology/Design/Graphic_Design/Color/Blue.private.md) 
+
+### #is_/same_as :: [Blue.personal](/_personal/Technology/Design/Graphic_Design/Color/Blue.personal.md) 
+
+### #is_/same_as :: [Blue.secret](/_secret/Technology/Design/Graphic_Design/Color/Blue.secret.md)
+

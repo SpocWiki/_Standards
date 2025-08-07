@@ -1,4 +1,4 @@
-﻿---
+---
 title: Spelerpinae
 ---
 
@@ -208,17 +208,17 @@ Copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_hor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Spelerpinae](Spelerpinae.md)) 
+### #is_/same_as :: [Spelerpinae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.md) 
 
-### #is_/same_as :: [Spelerpinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.public.md) 
+### #is_/same_as :: [Spelerpinae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.public.md) 
 
-### #is_/same_as :: [Spelerpinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.internal.md) 
+### #is_/same_as :: [Spelerpinae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.internal.md) 
 
-### #is_/same_as :: [Spelerpinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.protect.md) 
+### #is_/same_as :: [Spelerpinae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.protect.md) 
 
-### #is_/same_as :: [Spelerpinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.private.md) 
+### #is_/same_as :: [Spelerpinae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.private.md) 
 
-### #is_/same_as :: [Spelerpinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.personal.md) 
+### #is_/same_as :: [Spelerpinae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.personal.md) 
 
-### #is_/same_as :: [Spelerpinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Spelerpinae.secret.md)
+### #is_/same_as :: [Spelerpinae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Spelerpinae.secret.md)
 

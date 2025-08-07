@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cafe-or-coffee-shop
 - cafe_or_coffee_shop

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - price-component
 - price_component

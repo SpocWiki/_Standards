@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ask-action
 - ask_action

@@ -22,3 +22,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blackberry) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Blackberry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.md) 
+
+### #is_/same_as :: [Blackberry.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.public.md) 
+
+### #is_/same_as :: [Blackberry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.internal.md) 
+
+### #is_/same_as :: [Blackberry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.protect.md) 
+
+### #is_/same_as :: [Blackberry.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.private.md) 
+
+### #is_/same_as :: [Blackberry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.personal.md) 
+
+### #is_/same_as :: [Blackberry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.secret.md)
+

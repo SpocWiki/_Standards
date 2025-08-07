@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - vehicle-model-date
 - vehicle_model_date

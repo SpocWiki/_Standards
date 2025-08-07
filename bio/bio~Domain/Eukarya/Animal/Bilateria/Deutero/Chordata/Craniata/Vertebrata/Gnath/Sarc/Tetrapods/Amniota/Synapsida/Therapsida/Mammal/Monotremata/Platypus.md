@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Schnabeltier
 Commons_category: "Ornithorhynchus anatinus"
@@ -106,7 +106,7 @@ UMLS_CUI: C0032212
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Platypus](Platypus.md)) 
+### #is_/same_as :: [Platypus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypus.md) 
 
 ### #is_/same_as :: [Platypus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Monotremata/Platypus.public.md) 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - by-month-week
 - by_month_week

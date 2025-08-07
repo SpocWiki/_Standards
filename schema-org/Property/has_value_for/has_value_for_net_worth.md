@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - net_worth
 - net-worth

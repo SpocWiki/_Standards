@@ -26,3 +26,21 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cube%20(film%20series))
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cube_(film_series)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).md) 
+
+### #is_/same_as :: [Cube_(film_series).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).public.md) 
+
+### #is_/same_as :: [Cube_(film_series).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).internal.md) 
+
+### #is_/same_as :: [Cube_(film_series).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).protect.md) 
+
+### #is_/same_as :: [Cube_(film_series).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).private.md) 
+
+### #is_/same_as :: [Cube_(film_series).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).personal.md) 
+
+### #is_/same_as :: [Cube_(film_series).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).secret.md)
+

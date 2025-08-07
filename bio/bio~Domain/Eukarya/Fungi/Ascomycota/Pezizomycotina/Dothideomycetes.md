@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dothideomycetes
 ---
 
@@ -265,7 +265,7 @@ loci. 2006. Mycologia 98:1043-1054
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Dothideomycetes](Dothideomycetes.md)) 
+### #is_/same_as :: [Dothideomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.md) 
 
 ### #is_/same_as :: [Dothideomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.public.md) 
 

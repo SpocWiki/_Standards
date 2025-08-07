@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ottoman Empire"
 anthem: '[[_Standards/WikiData/WD~Imperial_anthems_of_the_Ottoman_Empire,1192863]]'

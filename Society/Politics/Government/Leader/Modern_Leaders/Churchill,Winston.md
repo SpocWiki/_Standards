@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Winston Churchill"
 - "Winston Leonard Spencer Churchill"
@@ -248,17 +248,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Churchill,Winston](Churchill,Winston.md)) 
+### #is_/same_as :: [Churchill,Winston](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.md) 
 
-### #is_/same_as :: [Churchill,Winston.public](/_public/Society/Government/Leader/Modern_Leaders/Churchill,Winston.public.md) 
+### #is_/same_as :: [Churchill,Winston.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.public.md) 
 
-### #is_/same_as :: [Churchill,Winston.internal](/_internal/Society/Government/Leader/Modern_Leaders/Churchill,Winston.internal.md) 
+### #is_/same_as :: [Churchill,Winston.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.internal.md) 
 
-### #is_/same_as :: [Churchill,Winston.protect](/_protect/Society/Government/Leader/Modern_Leaders/Churchill,Winston.protect.md) 
+### #is_/same_as :: [Churchill,Winston.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.protect.md) 
 
-### #is_/same_as :: [Churchill,Winston.private](/_private/Society/Government/Leader/Modern_Leaders/Churchill,Winston.private.md) 
+### #is_/same_as :: [Churchill,Winston.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.private.md) 
 
-### #is_/same_as :: [Churchill,Winston.personal](/_personal/Society/Government/Leader/Modern_Leaders/Churchill,Winston.personal.md) 
+### #is_/same_as :: [Churchill,Winston.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.personal.md) 
 
-### #is_/same_as :: [Churchill,Winston.secret](/_secret/Society/Government/Leader/Modern_Leaders/Churchill,Winston.secret.md)
+### #is_/same_as :: [Churchill,Winston.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Churchill,Winston.secret.md)
 

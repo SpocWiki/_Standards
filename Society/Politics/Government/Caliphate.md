@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caliphate) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caliphate](/_Standards/Society/Politics/Government/Caliphate.md) 
+
+### #is_/same_as :: [Caliphate.public](/_public/Society/Politics/Government/Caliphate.public.md) 
+
+### #is_/same_as :: [Caliphate.internal](/_internal/Society/Politics/Government/Caliphate.internal.md) 
+
+### #is_/same_as :: [Caliphate.protect](/_protect/Society/Politics/Government/Caliphate.protect.md) 
+
+### #is_/same_as :: [Caliphate.private](/_private/Society/Politics/Government/Caliphate.private.md) 
+
+### #is_/same_as :: [Caliphate.personal](/_personal/Society/Politics/Government/Caliphate.personal.md) 
+
+### #is_/same_as :: [Caliphate.secret](/_secret/Society/Politics/Government/Caliphate.secret.md)
+

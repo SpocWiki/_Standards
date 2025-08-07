@@ -1,4 +1,4 @@
-﻿---
+---
 title: Hyperotreti
 ---
 
@@ -147,7 +147,7 @@ Copyright ::   © 1997 Philippe Janvier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Hyperotreti](Hyperotreti.md)) 
+### #is_/same_as :: [Hyperotreti](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.md) 
 
 ### #is_/same_as :: [Hyperotreti.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.public.md) 
 

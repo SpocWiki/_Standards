@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ineligible-region
 - ineligible_region

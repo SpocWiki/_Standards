@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "International Court of Justice"
 - "Cour internationale de justice"

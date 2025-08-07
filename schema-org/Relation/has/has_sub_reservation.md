@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - sub-reservation
 - sub_reservation

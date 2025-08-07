@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - shipping-label
 - shipping_label

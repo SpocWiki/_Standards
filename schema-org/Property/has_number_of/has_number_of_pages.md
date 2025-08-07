@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - number-of-pages
 - number_of_pages

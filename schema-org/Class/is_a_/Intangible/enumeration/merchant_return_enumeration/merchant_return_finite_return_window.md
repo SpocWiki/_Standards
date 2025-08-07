@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - merchant-return-finite-return-window
 - merchant_return_finite_return_window

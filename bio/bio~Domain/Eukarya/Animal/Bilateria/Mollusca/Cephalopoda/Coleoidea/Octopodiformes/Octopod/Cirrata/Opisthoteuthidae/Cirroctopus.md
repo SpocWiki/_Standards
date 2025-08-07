@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cirroctopus
 ---
 
@@ -195,7 +195,7 @@ Vecchione and Young, 1997).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Cirroctopus](Cirroctopus.md)) 
+### #is_/same_as :: [Cirroctopus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.md) 
 
 ### #is_/same_as :: [Cirroctopus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus.public.md) 
 

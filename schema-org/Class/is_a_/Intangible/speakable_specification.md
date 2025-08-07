@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - speakable-specification
 - speakable_specification

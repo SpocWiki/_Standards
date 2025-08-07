@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - verification-fact-checking-policy
 - verification_fact_checking_policy

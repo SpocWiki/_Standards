@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - news-updates-and-guidelines
 - news_updates_and_guidelines

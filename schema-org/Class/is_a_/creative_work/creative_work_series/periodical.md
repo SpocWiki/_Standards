@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - periodical
 - periodical

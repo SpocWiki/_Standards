@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - api-reference
 - api_reference

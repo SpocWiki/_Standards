@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - completed-action-status
 - completed_action_status

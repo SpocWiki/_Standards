@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Brian Russell De Palma"
 ---
@@ -27,5 +27,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Brian%20De%20Palma)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Palma,Brian_De](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.md) 
+
+### #is_/same_as :: [Palma,Brian_De.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.public.md) 
+
+### #is_/same_as :: [Palma,Brian_De.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.internal.md) 
+
+### #is_/same_as :: [Palma,Brian_De.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.protect.md) 
+
+### #is_/same_as :: [Palma,Brian_De.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.private.md) 
+
+### #is_/same_as :: [Palma,Brian_De.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.personal.md) 
+
+### #is_/same_as :: [Palma,Brian_De.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Director/Palma,Brian_De.secret.md)
 

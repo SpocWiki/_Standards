@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Vulkan
 - volcano
@@ -55,17 +55,17 @@ A volcano, like Fujisan.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volcano](/_Standards/Earth/Geology/Volcano.md) 
+### #is_/same_as :: [Volcano](/_Standards/Earth/Geology/Landform/Volcano.md) 
 
-### #is_/same_as :: [Volcano.public](/_public/Earth/Geology/Volcano.public.md) 
+### #is_/same_as :: [Volcano.public](/_public/Earth/Geology/Landform/Volcano.public.md) 
 
-### #is_/same_as :: [Volcano.internal](/_internal/Earth/Geology/Volcano.internal.md) 
+### #is_/same_as :: [Volcano.internal](/_internal/Earth/Geology/Landform/Volcano.internal.md) 
 
-### #is_/same_as :: [Volcano.protect](/_protect/Earth/Geology/Volcano.protect.md) 
+### #is_/same_as :: [Volcano.protect](/_protect/Earth/Geology/Landform/Volcano.protect.md) 
 
-### #is_/same_as :: [Volcano.private](/_private/Earth/Geology/Volcano.private.md) 
+### #is_/same_as :: [Volcano.private](/_private/Earth/Geology/Landform/Volcano.private.md) 
 
-### #is_/same_as :: [Volcano.personal](/_personal/Earth/Geology/Volcano.personal.md) 
+### #is_/same_as :: [Volcano.personal](/_personal/Earth/Geology/Landform/Volcano.personal.md) 
 
-### #is_/same_as :: [Volcano.secret](/_secret/Earth/Geology/Volcano.secret.md)
+### #is_/same_as :: [Volcano.secret](/_secret/Earth/Geology/Landform/Volcano.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - ep-release
 - ep_release

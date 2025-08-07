@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - rv-park
 - rv_park

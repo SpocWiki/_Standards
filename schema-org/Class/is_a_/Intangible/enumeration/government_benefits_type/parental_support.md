@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - parental-support
 - parental_support

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - cardiovascular
 - cardiovascular

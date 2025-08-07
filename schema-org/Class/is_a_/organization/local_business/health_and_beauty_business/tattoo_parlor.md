@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - tattoo-parlor
 - tattoo_parlor

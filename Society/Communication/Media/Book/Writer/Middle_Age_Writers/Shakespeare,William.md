@@ -1,4 +1,4 @@
-﻿---
+---
 affiliation:
 - "[[_Standards/WikiData/WD~Lord_Chamberlain's_Men,1899451]]"
 - "[[_Standards/WikiData/WD~King's_Men,2715005]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 Commons_category: Grammar
 Commons_gallery: Grammar
 described_by_source:

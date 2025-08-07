@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Thysanoteuthis rhombus"
 ---
 
@@ -167,7 +167,7 @@ Zool., No. 586: 55-68.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Thysanoteuthidae](Thysanoteuthidae.md)) 
+### #is_/same_as :: [Thysanoteuthidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.md) 
 
 ### #is_/same_as :: [Thysanoteuthidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Thysanoteuthidae.public.md) 
 

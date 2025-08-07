@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - episode-number
 - episode_number

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - payment-automatically-applied
 - payment_automatically_applied

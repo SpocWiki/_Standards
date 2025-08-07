@@ -39,3 +39,20 @@ O    O
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium%20carbonate) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Calcium_Carbonate](/_Standards/Chemistry/inOrganic/Calcium_Carbonate.md) 
+
+### #is_/same_as :: [Calcium_Carbonate.public](/_public/Chemistry/inOrganic/Calcium_Carbonate.public.md) 
+
+### #is_/same_as :: [Calcium_Carbonate.internal](/_internal/Chemistry/inOrganic/Calcium_Carbonate.internal.md) 
+
+### #is_/same_as :: [Calcium_Carbonate.protect](/_protect/Chemistry/inOrganic/Calcium_Carbonate.protect.md) 
+
+### #is_/same_as :: [Calcium_Carbonate.private](/_private/Chemistry/inOrganic/Calcium_Carbonate.private.md) 
+
+### #is_/same_as :: [Calcium_Carbonate.personal](/_personal/Chemistry/inOrganic/Calcium_Carbonate.personal.md) 
+
+### #is_/same_as :: [Calcium_Carbonate.secret](/_secret/Chemistry/inOrganic/Calcium_Carbonate.secret.md)
+

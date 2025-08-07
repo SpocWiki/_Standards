@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
 - Lang_Family
 type: LangFamily

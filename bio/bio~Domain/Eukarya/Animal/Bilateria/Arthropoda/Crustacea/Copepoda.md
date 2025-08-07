@@ -1,4 +1,4 @@
-﻿---
+---
 title: Copepoda
 ---
 
@@ -99,7 +99,7 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[Copepoda](Copepoda.md)) 
+### #is_/same_as :: [Copepoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda.md) 
 
 ### #is_/same_as :: [Copepoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda.public.md) 
 
