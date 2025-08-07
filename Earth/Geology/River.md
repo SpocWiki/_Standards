@@ -1,4 +1,27 @@
-﻿---
+---
+aliases:
+- river-body-of-water
+- river_body_of_water
+- RiverBodyOfWater
+- is_a_river_body_of_water
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- river_body_of_water
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_river_body_of_water Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_river_body_of_water Class"
+type: Type
 Commons_category: Rivers
 Commons_gallery: River
 described_by_source:
@@ -90,6 +113,18 @@ U_S_National_Archives_Identifier: 10643808
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Bedrohtes%20%C3%96kosystem%20Fluss.webm"
 Wolfram_Language_entity_type: River
 ---
+
+Class of all river_body_of_waters.
+
+Tag Instances like this: 
+#is_a_/river_body_of_water
+
+A river (for example, the broad majestic Shannon).
+
+[ #is_/sub_class_of :: [[../BodyOfWater]] ]
+
+[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+
 
 ## #has_/text_of_/abstract 
 
