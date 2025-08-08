@@ -198,9 +198,14 @@ work_period_end_: 1778
 work_period_start_: 1722
 ---
 
+# [[Linnaeus,Carl]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Carl_Linnaeus,1043|WD~Carl_Linnaeus,1043]] 
+
 ## #has_/text_of_/abstract 
 
-> **Carl Linnaeus** (23 May 1707 – 10 January 1778), also known after ennoblement in 1761 as Carl von Linné, 
+> **Carl Linnaeus** (23 May 1707 – 10 January 1778), 
+> also known after ennoblement in 1761 as Carl von Linné, 
 > was a Swedish biologist and physician who formalised binomial nomenclature, 
 > the modern system of naming organisms. He is known as the "father of modern taxonomy". 
 > Many of his writings were in Latin; 

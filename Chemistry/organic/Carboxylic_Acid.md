@@ -29,11 +29,31 @@ UMLS_CUI: C0007066
 
 # [[Carboxylic_Acid]] 
 
+
+#has_/formula_/sum :: R−C(O)OH 
+
+## #has_/formula_/structural 
+```
+O-H O
+ \ /
+ (C)
+  |
+  R
+```
+
 #is_/same_as :: [[../../WikiData/WD~Carboxylic_acid,134856]] 
 
 ## #has_/text_of_/abstract 
 
-> In organic chemistry, a **carboxylic acid** is an organic acid that contains a carboxyl group (−C(=O)−OH) attached to an R-group. The general formula of a carboxylic acid is often written as R−COOH or R−CO2H, sometimes as R−C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), or hydrogen, or other groups. Carboxylic acids occur widely. Important examples include the amino acids and fatty acids. Deprotonation of a carboxylic acid gives a carboxylate anion.
+> In organic chemistry, a **carboxylic acid** is an organic acid 
+> that contains a carboxyl group (−C(=O)−OH) attached to an R-group. 
+> The general formula of a carboxylic acid is often written as R−COOH or R−CO2H, 
+> sometimes as R−C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), 
+> or hydrogen, or other groups. 
+> 
+> Carboxylic acids occur widely. 
+> Important examples include the amino acids and fatty acids. 
+> Deprotonation of a carboxylic acid gives a carboxylate anion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carboxylic%20acid) 
 

@@ -162,6 +162,10 @@ writing_language:
 - '[[_Standards/WikiData/WD~German,188]]'
 ---
 
+# [[Gauss,Carl_Friedrich]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Carl_Friedrich_Gauss,6722|WD~Carl_Friedrich_Gauss,6722]] 
+
 ## #has_/text_of_/abstract 
 
 > Johann **Carl Friedrich Gauss** (German: Gauß [kaʁl ˈfʁiːdʁɪç ˈɡaʊs] ; Latin: Carolus Fridericus Gauss; 

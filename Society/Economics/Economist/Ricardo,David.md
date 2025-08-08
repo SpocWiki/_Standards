@@ -96,7 +96,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > At 21, he eloped with a Quaker and converted to Unitarianism, causing estrangement from his family. 
 > He made his fortune financing government borrowing and later retired to an estate in Gloucestershire. 
 > Ricardo served as High Sheriff of Gloucestershire and bought a seat in Parliament as a reformer. 
-> He was friends with prominent figures like James Mill, [[../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Bentham,Jeremy|Jeremy Bentham]], and Thomas Malthus, 
+> He was friends with prominent figures like James Mill, [[../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Bentham,Jeremy|Jeremy Bentham]], and Thomas Malthus, 
 > engaging in debates over various topics. 
 > Ricardo was also a member of The Geological Society, and his youngest sister was an author.
 >
@@ -136,7 +136,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ricardo,David](/_Standards/Society/Economics/Ricardo,David.md) 
+### #is_/same_as :: [Ricardo,David](Ricardo,David.md) 
 
 ### #is_/same_as :: [Ricardo,David.public](/_public/Society/Economics/Ricardo,David.public.md) 
 

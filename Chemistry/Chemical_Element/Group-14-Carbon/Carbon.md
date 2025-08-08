@@ -73,7 +73,7 @@ Wolfram_Language_entity_code: "Entity[\"Element\", \"Carbon\"]"
 ZVG_number: 8040
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Carbon,623]] 
+# [[Carbon]] 
 
 
 #chemic/Element 
@@ -98,6 +98,8 @@ ZVG_number: 8040
 [FormEnergy-kj-mol::355.8]
 (PeriodNo::2)
 (GroupNo::14)
+
+#is_/same_as :: [[../../../WikiData/WD~Carbon,623]] 
 
 
 ## #has_/text_of_/abstract 
