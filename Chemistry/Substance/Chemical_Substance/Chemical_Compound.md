@@ -72,14 +72,23 @@ Wolfram_Language_entity_type: Chemical
 
 # [[Chemical_Compound]] 
 
-#is_/same_as :: [[../../WikiData/WD~Chemical_compound,11173|WD~Chemical_compound,11173]] 
+#is_/same_as :: [[../../../WikiData/WD~Chemical_compound,11173|WD~Chemical_compound,11173]] 
 
 ## #has_/text_of_/abstract 
 
-> A **Chemical compound** is a chemical substance composed of many identical molecules 
-> (or molecular entities) containing atoms from more than one chemical element held together by chemical bonds. A molecule consisting of atoms of only one element is therefore not a compound. A compound can be transformed into a different substance by a chemical reaction, which may involve interactions with other substances. In this process, bonds between atoms may be broken or new bonds formed or both.
+> A **Chemical compound** is a chemical substance composed of many identical molecules (or molecular entities) 
+> containing atoms from more than one chemical element held together by chemical bonds. 
+> A molecule consisting of atoms of only one element is therefore not a compound. 
+> A compound can be transformed into a different substance by a chemical reaction, 
+> which may involve interactions with other substances. 
+> In this process, bonds between atoms may be broken or new bonds formed or both.
 >
-> There are four major types of compounds, distinguished by how the constituent atoms are bonded together. Molecular compounds are held together by covalent bonds; ionic compounds are held together by ionic bonds; intermetallic compounds are held together by metallic bonds; coordination complexes are held together by coordinate covalent bonds. Non-stoichiometric compounds form a disputed marginal case.
+> There are four major types of compounds, distinguished by how the constituent atoms are bonded together. 
+> - Molecular compounds are held together by covalent bonds; 
+> 	- coordination complexes are held together by coordinate covalent bonds. 
+> - ionic compounds are held together by ionic bonds; 
+> - intermetallic compounds are held together by metallic bonds; 
+> - Non-stoichiometric compounds form a disputed marginal case.
 >
 > A chemical formula specifies the number of atoms of each element in a compound molecule, using the standard chemical symbols with numerical subscripts. Many chemical compounds have a unique CAS number identifier assigned by the Chemical Abstracts Service. Globally, more than 350,000 chemical compounds (including mixtures of chemicals) have been registered for production and use.
 >
@@ -88,7 +97,7 @@ Wolfram_Language_entity_type: Chemical
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Compound](/_Standards/Chemistry/Chemical_Substance/Chemical_Compound.md) 
+### #is_/same_as :: [Chemical_Compound](Chemical_Compound.md) 
 
 ### #is_/same_as :: [Chemical_Compound.public](/_public/Chemistry/Chemical_Substance/Chemical_Compound.public.md) 
 

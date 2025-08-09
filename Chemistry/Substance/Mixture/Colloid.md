@@ -1,0 +1,61 @@
+---
+aliases: 
+has_id_wikidata: Q181780
+subclass_of: "[[db/dispersion]]"
+practiced_by: "[[db/interface_and_colloid_science]]"
+studied_by: "[[db/interface_and_colloid_science]]"
+described_by_source:
+  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
+  - "[[db/Armenian_Soviet_Encyclopedia,_vol._5]]"
+said_to_be_the_same_as: "[[db/colloidal_dispersion]]"
+Dewey_Decimal_Classification:
+  - "546"
+  - "541.345"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/SEM%20Image%20of%20Colloidal%20Particles.jpg
+P8189: "987007284744005171"
+Commons_category: Colloids
+MeSH_tree_code:
+  - D20.280
+  - D26.255.165
+Colon_Classification: E:235
+---
+
+# [[Colloid]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Colloid,181780|WD~Colloid,181780]] 
+
+## #has_/text_of_/abstract 
+
+> A colloid is a mixture in which one substance consisting of 
+> microscopically dispersed insoluble particles is suspended throughout another substance. 
+> Some definitions specify that the particles must be dispersed in a liquid, 
+> while others extend the definition to include substances like aerosols and gels. 
+> 
+> The term colloidal suspension refers unambiguously to the overall mixture 
+> (although a narrower sense of the word suspension is distinguished from **colloids** by larger particle size). 
+> A colloid has a dispersed phase (the suspended particles) and a continuous phase (the medium of suspension). 
+>
+> Since the definition of a colloid is so ambiguous, 
+> the International Union of Pure and Applied Chemistry (IUPAC) formalized a modern definition of colloids: 
+> "The term colloidal refers to a state of subdivision, 
+> implying that the molecules or polymolecular particles dispersed in a medium 
+> have at least in one direction a dimension roughly between 1 nanometre and 1 micrometre, 
+> or that in a system discontinuities are found at distances of that order. 
+> It is not necessary for all three dimensions to be in the colloidal range…
+> Nor is it necessary for the units of a colloidal system to be discrete…
+> The size limits given above are not rigid since they will depend to some extent on the properties under consideration.” 
+> 
+> This IUPAC definition is particularly important because it highlights the flexibility inherent in colloidal systems. 
+> However, much of the confusion surrounding colloids arises from oversimplifications. 
+> IUPAC makes it clear that exceptions exist, and the definition should not be viewed as a rigid rule. 
+> D.H. Everett—the scientist who wrote the IUPAC definition—
+> emphasized that colloids are often better understood through examples rather than strict definitions.
+>
+> Some colloids are translucent because of the Tyndall effect, which is the scattering of light by particles in the colloid. Other colloids may be opaque or have a slight color.
+>
+> Colloidal suspensions are the subject of interface and colloid science. 
+> This field of study began in 1845 by Francesco Selmi, who called them pseudosolutions, 
+> and expanded by Michael Faraday and Thomas Graham, who coined the term colloid in 1861.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Colloid) 
+

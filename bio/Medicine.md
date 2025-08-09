@@ -65,13 +65,36 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_medicine,7112684]]'
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/medicine"
 ---
 
+# [[Medicine]] 
+
 ## #has_/text_of_/abstract 
 
-> **Medicine** is the science and practice of caring for patients, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness. Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through pharmaceuticals or surgery, but also through therapies as diverse as psychotherapy, external splints and traction, medical devices, biologics, and ionizing radiation, amongst others.
+> **Medicine** is the science and practice of caring for patients, managing the diagnosis, prognosis, 
+> prevention, treatment, palliation of their injury or disease, and promoting their health. 
+> 
+> Medicine encompasses a variety of health care practices 
+> evolved to maintain and restore health by the prevention and treatment of illness. 
+> Contemporary medicine applies biomedical sciences, biomedical research, genetics, 
+> and medical technology to diagnose, treat, and prevent injury and disease, 
+> typically through pharmaceuticals or surgery, but also through therapies as diverse as psychotherapy, external splints and traction, medical devices, biologics, and ionizing radiation, amongst others.
 >
-> Medicine has been practiced since prehistoric times, and for most of this time it was an art (an area of creativity and skill), frequently having connections to the religious and philosophical beliefs of local culture. For example, a medicine man would apply herbs and say prayers for healing, or an ancient philosopher and physician would apply bloodletting according to the theories of humorism. In recent centuries, since the advent of modern science, most medicine has become a combination of art and science (both basic and applied, under the umbrella of medical science). For example, while stitching technique for sutures is an art learned through practice, knowledge of what happens at the cellular and molecular level in the tissues being stitched arises through science.
+> Medicine has been practiced since prehistoric times, 
+> and for most of this time it was an art (an area of creativity and skill), 
+> frequently having connections to the religious and philosophical beliefs of local culture. 
+> 
+> For example, a medicine man would apply herbs and say prayers for healing, 
+> or an ancient philosopher and physician would apply bloodletting according to the theories of humorism. 
+> 
+> In recent centuries, since the advent of modern science, 
+> most medicine has become a combination of art and science 
+> (both basic and applied, under the umbrella of medical science). 
+> 
+> For example, while stitching technique for sutures is an art learned through practice, 
+> knowledge of what happens at the cellular and molecular level in the tissues being stitched arises through science.
 >
-> Prescientific forms of medicine, now known as traditional medicine or folk medicine, remain commonly used in the absence of scientific medicine and are thus called alternative medicine. Alternative treatments outside of scientific medicine with ethical, safety and efficacy concerns are termed quackery.
+> Prescientific forms of medicine, now known as traditional medicine or folk medicine, 
+> remain commonly used in the absence of scientific medicine and are thus called alternative medicine. 
+> Alternative treatments outside of scientific medicine with ethical, safety and efficacy concerns are termed quackery.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Medicine)
 
