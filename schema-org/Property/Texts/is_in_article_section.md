@@ -25,7 +25,7 @@ title: has_text_of_article_section
 type: Pred_Text
 ---
 
-[[../../Predicate|Predicate]] to name the Section this [[../../Class/is_a_/creative_work/article|Article]] belongs to.
+[[../../Predicate|Predicate]] to name the Section this [[../../../Society/Communication/Media/Creative_Work/Article|Article]] belongs to.
 Articles may belong to one or more "sections" 
 in a magazine or newspaper, such as "Sports", "Lifestyle", etc.
 
@@ -34,7 +34,7 @@ Use it like this:
 - [ is_in_article_section :: [[../../Class/is_a_/data_type/text|Text]] ] 
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/creative_work/article|Article]] ] 
+[ #has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Article|Article]] ] 
 ( #has_/name :: is_in_article_section ) 
 ( #has_/range :: [[../../Class/is_a_/data_type/text|Text]] ) 
 

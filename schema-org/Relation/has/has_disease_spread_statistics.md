@@ -33,7 +33,7 @@ Use it like this:
 - [ has_disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
 
 Statistical information about the spread of a disease, either as [[WebContent]], or
-  described directly as a [[Dataset]], or the specific [[Observation]]s in the dataset. When a [[WebContent]] URL is
+  described directly as a [[../../../Society/Communication/Media/Creative_Work/Dataset]], or the specific [[Observation]]s in the dataset. When a [[WebContent]] URL is
   provided, the page indicated might also contain more such markup.
 
 Relation describes that: 

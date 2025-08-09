@@ -35,13 +35,13 @@ Tag Instances like this:
 Content coded 'edited or cropped content' in a [[MediaReview]], 
 considered in the context of how it was published or shared.
 
-# For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
+# For a [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Video_Object|VideoObject]]: 
 The video has been edited or rearranged. This category applies to time edits, including editing multiple videos together to alter the story being told or editing out large portions from a video.
 
-# For an [[../../../creative_work/media_object/image_object|ImageObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Image_Object|ImageObject]]: 
 Presenting a part of an image from a larger whole to mislead the viewer.
 
-# For an [[../../../creative_work/media_object/audio_object|AudioObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Audio_Object|AudioObject]]: 
 The audio has been edited or rearranged. This category applies to time edits, 
 including editing multiple audio clips together to alter the story being told
 or editing out large portions from the recording.

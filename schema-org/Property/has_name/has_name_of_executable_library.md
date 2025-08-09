@@ -28,7 +28,7 @@ type: Pred_Text
 ---
 
 Library file name, e.g., mscorlib.dll, system.web.dll. 
-Predicate to describe the Text of [[../../Class/is_a_/creative_work/article/tech_article/api_reference|APIReference]].
+Predicate to describe the Text of [[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference|APIReference]].
 
 Use it like this: 
 - [ #has_/name_executable_library :: Text ] or 

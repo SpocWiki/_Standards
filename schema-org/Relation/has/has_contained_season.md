@@ -32,13 +32,13 @@ type: Predi_Relation
 A season that is part of the media series.
 
 Use it like this: 
-- [ #has_/contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] or 
+- [ #has_/contained_season :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] ] or 
 - [ has_contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] 
 
 [[../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../Class/is_a_/creative_work/creative_work_series/radio_series|RadioSeries]], [[../../Class/is_a_/creative_work/tv_series|TVSeries]], [[../../Class/is_a_/creative_work/creative_work_series/video_game_series|VideoGameSeries]] ] ] 
+[ #has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Media/Creative_Work/Tv_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ] ] 
 ( #has_/name :: has_contained_season )
-( #has_/range :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] )
+( #has_/range :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] )
 
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ]
 

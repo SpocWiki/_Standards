@@ -80,7 +80,7 @@ P8189: "987007259572305171"
 
 # [[Carnegie,Andrew]] 
 
-#is_/different_from :: [[../../../Communication/Media/Book/Writer/Modern_Writers/Carnegie,Dale]] 
+#is_/different_from :: [[../../../Communication/Media/Writing/Book/Writer/Modern_Writers/Carnegie,Dale]] 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
@@ -96,7 +96,7 @@ He wrote the "[[Gospel of Wealth]]",
 where he considered **not** inheriting Wealth to descendants, 
 but donate it to public causes. 
 
-[[../../../../../../_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper|Newspaper]]s regularly publish Reports about Donations 
+[[../../../Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper|Newspaper]]s regularly publish Reports about Donations 
 and thus create a positive public Image. 
 
 

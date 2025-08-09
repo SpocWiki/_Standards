@@ -26,7 +26,7 @@ version: 2.0
 # Guide
 This is a kind of [[FileClass~CreativeWork]]
 
-[[Guide]] is a page or article that recommends specific products or services, or aspects of a thing for a user to consider. A [[Guide]] may represent a Buying Guide and detail aspects of products or services for a user to consider. A [[Guide]] may represent a Product Guide and recommend specific products or services. A [[Guide]] may represent a Ranked List and recommend specific products or services with ranking.
+[[../../../Society/Communication/Media/Creative_Work/Guide]] is a page or article that recommends specific products or services, or aspects of a thing for a user to consider. A [[../../../Society/Communication/Media/Creative_Work/Guide]] may represent a Buying Guide and detail aspects of products or services for a user to consider. A [[../../../Society/Communication/Media/Creative_Work/Guide]] may represent a Product Guide and recommend specific products or services. A [[../../../Society/Communication/Media/Creative_Work/Guide]] may represent a Ranked List and recommend specific products or services with ranking.
 
 
 ## Use one of these Tags for Objects of this Type:

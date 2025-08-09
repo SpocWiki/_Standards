@@ -36,7 +36,7 @@ indicating the authenticity of a media object (in the context of how it was publ
 
 In general, these codes are not mutually exclusive,
 although some combinations (such as 'original' versus 'transformed', 'edited' and 'staged') would be contradictory
-if applied in the same [[../../creative_work/review/media_review]]. 
+if applied in the same [[../../../../../Society/Communication/Media/Creative_Work/Review/Media_Review]]. 
 
 Note that the application of these codes is with regard to a piece of media shared or published in a particular context.
 

@@ -91,7 +91,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > 
 > Durkheim formally established the academic discipline of sociology 
 > and is commonly cited as one of the principal architects of modern social science, 
-> along with both [[../Communication/Media/Book/Writer/Political_Writers/Marx,Karl|Karl Marx]] and[[../Anthropology/Sociology/Sociologist/Weber,Max|Max Weber]]].
+> along with both [[../Communication/Media/Writing/Book/Writer/Political_Writers/Marx,Karl|Karl Marx]] and[[../Anthropology/Sociology/Sociologist/Weber,Max|Max Weber]]].
 >
 > Much of Durkheim's work was concerned with 
 > how societies can maintain their integrity and coherence in modernity, 

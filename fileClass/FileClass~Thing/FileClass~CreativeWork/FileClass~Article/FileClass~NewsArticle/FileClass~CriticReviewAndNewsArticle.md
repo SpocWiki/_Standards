@@ -98,7 +98,7 @@ An associated [[MediaReview]], related by specific common content, topic or clai
 AssociatedMediaReview:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
 
 ### AssociatedReview
-An associated [[Review]].
+An associated [[../../../../../Society/Communication/Media/Creative_Work/Review]].
 
 AssociatedReview:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
 
@@ -109,7 +109,7 @@ ItemReviewed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### NegativeNotes
 Provides negative considerations regarding something, most typically in pro/con lists for reviews (alongside [[positiveNotes]]). For symmetry  
- In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described. Since product descriptions  
+ In the case of a [[../../../../../Society/Communication/Media/Creative_Work/Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described. Since product descriptions  
  tend to emphasise positive claims, it may be relatively unusual to find [[negativeNotes]] used in this way. Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[Product]].  
  The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most negative is at the beginning of the list).
 
@@ -117,7 +117,7 @@ NegativeNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ### PositiveNotes
 Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.  
- In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.  
+ In the case of a [[../../../../../Society/Communication/Media/Creative_Work/Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.  
  The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most positive is at the beginning of the list).
 
 PositiveNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}

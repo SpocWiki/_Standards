@@ -31,15 +31,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/part_of_/series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] or 
+- [ #is_/part_of_/series :: [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]] ] or 
 - [ is_part_of_series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] 
 
 The series to which this episode or season belongs.
 
 [[../../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../../Class/is_a_/creative_work/clip|Clip]], [[../../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]], [[../../../Class/is_a_/creative_work/episode|Episode]] ] ]
+[ #has_/domain  :: [ [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]], [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ] ]
 ( #has_/name :: is_part_of_series )
-( #has_/range :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] )
+( #has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]] )
 
 [ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 

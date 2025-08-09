@@ -25,18 +25,18 @@ title: has_toc_entry
 type: Predi_Relation
 ---
 
-Indicates a [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] in a [[../../Class/is_a_/creative_work/hyper_toc|HyperToc]]. 
+Indicates a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] in a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]. 
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/toc_entry :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ] or 
+- [ #has_/toc_entry :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] ] or 
 - [ has_toc_entry :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/creative_work/hyper_toc|HyperToc]] ] 
+[ #has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]] ] 
 ( #has_/name :: is_toc_entry ) 
-( #has_/range :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ) 
+( #has_/range :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] ) 
 
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 

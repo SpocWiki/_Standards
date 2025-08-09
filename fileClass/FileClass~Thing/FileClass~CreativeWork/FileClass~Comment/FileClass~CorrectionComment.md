@@ -21,7 +21,7 @@ version: 2.0
 # CorrectionComment
 This is a kind of [[FileClass~Comment]]
 
-A [[comment]] that corrects [[CreativeWork]].
+A [[../../../../Society/Communication/Media/Creative_Work/Comment]] that corrects [[CreativeWork]].
 
 
 ## Use one of these Tags for Objects of this Type:

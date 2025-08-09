@@ -29,6 +29,10 @@ U_S_National_Archives_Identifier: 10643339
 water_footprint: 2925
 ---
 
+# [[Tobacco]] 
+
+#is_/same_as :: [[../../../WikiData/WD~Tobacco,1566|WD~Tobacco,1566]] 
+
 ## #has_/text_of_/abstract 
 
 > **Tobacco** is the common name of several plants in the genus Nicotiana of the family Solanaceae, 

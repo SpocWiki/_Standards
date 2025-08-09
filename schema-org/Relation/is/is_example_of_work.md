@@ -26,7 +26,7 @@ title: has_example_of_work
 type: Predi_Relation
 ---
 
-A [[../../Class/is_a_/creative_work|creative_work]] that this work is an example/instance/realization/derivation of.
+A [[../../../Society/Communication/Media/Creative_Work|creative_work]] that this work is an example/instance/realization/derivation of.
 
 Inverse Relation of [[has_work_example]] and . 
 

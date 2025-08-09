@@ -21,7 +21,7 @@ version: 2.0
 # AdvertiserContentArticle
 This is a kind of [[FileClass~Article]]
 
-An [[Article]] that an external entity has paid to place or to produce to its specifications. Includes [advertorials](https://en.wikipedia.org/wiki/Advertorial), sponsored content, native advertising and other paid content.
+An [[../../../../Society/Communication/Media/Creative_Work/Article]] that an external entity has paid to place or to produce to its specifications. Includes [advertorials](https://en.wikipedia.org/wiki/Advertorial), sponsored content, native advertising and other paid content.
 
 
 ## Use one of these Tags for Objects of this Type:

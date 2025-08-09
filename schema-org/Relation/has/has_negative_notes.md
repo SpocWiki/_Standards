@@ -42,7 +42,7 @@ Provides negative considerations regarding something,
 most typically in pro/con lists for reviews (alongside [[positiveNotes]]). 
 
 
-In the case of a [[Review]], 
+In the case of a [[../../../Society/Communication/Media/Creative_Work/Review]], 
 the property describes the [[itemReviewed]] from the perspective of the review; 
 in the case of a [[Product]], the product itself is being described. 
 

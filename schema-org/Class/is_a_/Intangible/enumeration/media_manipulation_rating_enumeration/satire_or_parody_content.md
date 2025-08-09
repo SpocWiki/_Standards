@@ -34,14 +34,14 @@ Tag Instances like this:
 
 Content coded 'satire or parody content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-# For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
+# For a [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Video_Object|VideoObject]]: 
 A video that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
 
-# For an [[../../../creative_work/media_object/image_object|ImageObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Image_Object|ImageObject]]: 
 An image that was created as political or humorous commentary and is presented in that context.
 (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
 
-# For an [[../../../creative_work/media_object/audio_object|AudioObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Audio_Object|AudioObject]]: 
 Audio that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
 
 [ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]

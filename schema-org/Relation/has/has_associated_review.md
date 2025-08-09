@@ -31,7 +31,7 @@ Use it like this:
 - [ #has_/associated_review :: Review ] or 
 - [ has_associated_review :: Review ] 
 
-An associated [[Review]].
+An associated [[../../../Society/Communication/Media/Creative_Work/Review]].
 
 Relation describes that: 
 [ #has_/domain  :: Review ]

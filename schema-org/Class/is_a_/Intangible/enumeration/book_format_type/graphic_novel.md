@@ -32,7 +32,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://bib.schema.org ]
 
-Book format: [[graphic_novel]]. May represent a bound collection of [[../../../creative_work/publication_issue/comic_issue|comic-issue]] instances.
+Book format: [[graphic_novel]]. May represent a bound collection of [[../../../../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|comic-issue]] instances.
 
 [ #is_/enum_of :: [[../Book_Format_Type]] ]
 

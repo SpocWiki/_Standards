@@ -28,7 +28,7 @@ type: Type
 Class of all user_tweets-Counts.
 
 [[User_Interaction]] and its subtypes are an old way of counting users interacting with pages. 
-It is better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/interact_action/communicate_action/comment_action|CommentAction]] with the [[../../creative_work/article/social_media_posting|SocialMediaPosting]], alongside types such as [[Comment]].
+It is better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/interact_action/communicate_action/comment_action|CommentAction]] with the [[../../../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting|SocialMediaPosting]], alongside types such as [[../../../../../Society/Communication/Media/Creative_Work/Comment]].
 
 Tag Instances like this: 
 #is_a_/user_tweets

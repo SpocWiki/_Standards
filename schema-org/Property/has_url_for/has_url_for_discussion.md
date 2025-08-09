@@ -24,7 +24,7 @@ title: has_url_for_discussion_url
 type: Predi_Url
 ---
 
-Predicate to specify the Url of [[../../Class/is_a_/creative_work|CreativeWork]].
+Predicate to specify the Url of [[../../../Society/Communication/Media/Creative_Work|CreativeWork]].
 
 Use it like this: 
 - [ #has_/url_for_/discussion :: URL ] or 

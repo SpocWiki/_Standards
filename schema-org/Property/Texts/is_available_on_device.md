@@ -30,7 +30,7 @@ type: Pred_Text
 Device required to run the application. 
 Used in cases where a specific make/model is required to run the application.
 
-Predicate to describe a [[../../Class/is_a_/creative_work/software_application|SoftwareApplication]].
+Predicate to describe a [[../../../Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]].
 
 Use it like this: 
 - [ #has_/text_of_/available_on_device :: Text ] or 

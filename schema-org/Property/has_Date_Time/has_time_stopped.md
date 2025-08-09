@@ -46,7 +46,7 @@ Use it like this:
 - [ #has_/time_/stopped ::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 
-The date and time an item was removed from a [[../../Class/is_a_/creative_work/dataset/data_feed|DataFeed]].
+The date and time an item was removed from a [[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]].
 
 Formal Predicate: 
 [domain::DataFeedItem] 

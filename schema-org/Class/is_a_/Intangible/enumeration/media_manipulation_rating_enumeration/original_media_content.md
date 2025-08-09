@@ -34,14 +34,14 @@ Tag Instances like this:
 
 Content coded 'as original media content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-# For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
+# For a [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Video_Object|VideoObject]]: 
 No evidence the footage has been misleadingly altered or manipulated,
 though it may contain false or misleading claims.
 
-# For an [[../../../creative_work/media_object/image_object|ImageObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Image_Object|ImageObject]]: 
 No evidence the image has been misleadingly altered or manipulated, though it may still contain false or misleading claims.
 
-# For an [[../../../creative_work/media_object/audio_object|AudioObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Audio_Object|AudioObject]]: 
 No evidence the audio has been misleadingly altered or manipulated, though it may contain false or misleading claims.
 
 [ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]

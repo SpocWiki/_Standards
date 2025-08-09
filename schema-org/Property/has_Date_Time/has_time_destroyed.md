@@ -42,7 +42,7 @@ Alternatively use the equivalent #cancelled  , because the is supported in [[../
 #is_/similar_to :: #cancelled  
 #is_/similar_to :: #has_/time_/stopped 
 
-The date and time an item was removed from a [[../../Class/is_a_/creative_work/dataset/data_feed|DataFeed]].
+The date and time an item was removed from a [[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]].
 
 Formal Predicate: 
 [domain::DataFeedItem]

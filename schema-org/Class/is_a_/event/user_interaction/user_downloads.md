@@ -28,7 +28,7 @@ type: Type
 Class of all [[user_downloads]].
 
 [[User_Interaction]] and its subtypes are an old way of counting users interacting with pages. 
-It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/transfer_action/download_action|Download-Action]], alongside types such as [[Comment]].
+It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/transfer_action/download_action|Download-Action]], alongside types such as [[../../../../../Society/Communication/Media/Creative_Work/Comment]].
 
 Tag Instances like this: 
 #is_a_/user_downloads

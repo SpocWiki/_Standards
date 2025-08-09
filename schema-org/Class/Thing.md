@@ -21,7 +21,7 @@ expiryDate:
 has_sub_classes:
   - "[[./Class/is_a_/action|Action]]"
   - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
-  - "[[Class/is_a_/creative_work|creative_work]]"
+  - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
   - "[[Class/is_a_/event|event]]"
   - "[[Class/is_a_/Intangible|Intangible]]"
   - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
@@ -78,7 +78,7 @@ There is no larger Class:  [ #is_/sub_class_of :: [[./Thing|Thing]] ]
 
 #has_/sub_classes :: [[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[Product]], [[stupid_Type]], [[Taxon]] ] 
 
-has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[Class/is_a_/creative_work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Organization|organization]]", "[[Class/is_a_/person|person]]", "[[Class/is_a_/product|product]]", "[[Class/is_a_/taxon|taxon]]" ]
+has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Organization|organization]]", "[[Class/is_a_/person|person]]", "[[Class/is_a_/product|product]]", "[[Class/is_a_/taxon|taxon]]" ]
 
 [[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

@@ -50,7 +50,7 @@ A medical service available from this provider.
 AvailableService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')"}}
 
 ### HealthcareReportingData
-Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[Dataset]].
+Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../../../../Society/Communication/Media/Creative_Work/Dataset]].
 
 HealthcareReportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/CDCPMDRecord')"}}
 

@@ -7,7 +7,7 @@
 > The League of Extraordinary Gentlemen, also promoted as LXG, 
 > is a 2003 steampunk/dieselpunk superhero film 
 > loosely based on the first volume of the comic book series of the same name 
-> by [[../../../Book/Author/Moore,Alan]] and Kevin O'Neill. 
+> by [[../../../Writing/Book/Author/Moore,Alan]] and Kevin O'Neill. 
 > 
 > Distributed by 20th Century Fox, it was released on 11 July 2003 in the United States, 
 > and 17 October in the United Kingdom. 

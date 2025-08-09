@@ -107,7 +107,7 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/UATHED_ALFRED_NORT.html
 > 
 > Principia Mathematica is considered one of the twentieth century's most important works in mathematical logic, and 
 > placed 23rd in a list of the top 100 English-language nonfiction books of the twentieth century 
-> by[[../../Society/Communication/Media/Book/Publisher/Modern_Library]]].
+> by[[../../Society/Communication/Media/Writing/Book/Publisher/Modern_Library]]].
 >
 > Beginning in the late 1910s and early 1920s, 
 > Whitehead gradually turned his attention from mathematics to philosophy of science, 

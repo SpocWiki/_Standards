@@ -3,7 +3,7 @@ aliases:
   - drug
   - Drug
   - is_a_drug
-  - "{ newTitle: null }": 
+  - Droge
 confidential: private
 cssclasses:
   - Type
@@ -26,14 +26,14 @@ tags:
   - class/Class
   - schema-org/Class
   - excalidraw
-  - "{ newTitle: null }": 
 title:
   "{ newTitle: null }": 
 type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-has_Template: "[[Extract~Note~Template]]"
+has_Template:
+  - "[[Extract~Note~Template]]"
 has_time_started:
   "{ \"date:YYYY-MM-DD\": null }": 
 lang: en
@@ -51,7 +51,8 @@ described_by_source:
 has_characteristic: "[[db/dose_response_relationship]]"
 has_effect: "[[db/drug_allergy]]"
 said_to_be_the_same_as: "[[db/Q12034587]]"
-properties_for_this_type: route of administration
+properties_for_this_type:
+  - route of administration
 hashtag_: drug
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Psychoactive%20Drugs.jpg
 IMDb_keyword: drugs
@@ -61,7 +62,8 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Droge.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Rauschgift.ogg
 Iconclass_notation: 41C75
-subreddit: AskDrugNerds
+subreddit:
+  - AskDrugNerds
 ---
 
 # [[Drug]] 

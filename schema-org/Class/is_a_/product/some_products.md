@@ -24,7 +24,7 @@ title: "is_a_some_products Class"
 type: Type
 ---
 
-Class of all some_productss.
+Class of all some_products.
 
 Tag Instances like this: 
 #is_a_/some_products
