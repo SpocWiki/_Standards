@@ -5,7 +5,7 @@ aliases:
 
 # [[Atlas(Mythology)]] 
 
-#is_/different_from :: [[../../../../../Society/Communication/Media/Creative_Work/Atlas|Atlas]]
+#is_/different_from :: [[../../../../../Earth/Atlas|Atlas]]
 #is_/same_as :: [[../../../../../WikiData/WD~Atlas,130818|WD~Atlas,130818]] 
 #is_a_ :: [[Titan(Mythology)]]
 

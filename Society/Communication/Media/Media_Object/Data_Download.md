@@ -30,7 +30,7 @@ Class of all data_downloads.
 Tag Instances like this: 
 #is_a_/data_download
 
-All or part of a [[../Dataset]] in downloadable form.
+All or part of a [[../Creative_Work/Dataset]] in downloadable form.
 
 [ #is_/sub_class_of :: [[../MediaObject]] ]
 

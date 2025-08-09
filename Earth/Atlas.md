@@ -1,26 +1,33 @@
 ---
 aliases:
-- atlas
-- Atlas
-- is_an_atlas
-confidential: public
-cssclasses: Type
-draft: false
+  - atlas
+  - Atlas
+  - is_an_atlas
+  - "{ newTitle: null }": 
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
 expiryDate: 
 isDeleted: false
 isReadOnly: false
 keywords:
-- atlas
+  - atlas
 layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_an_atlas Class"
-publish: true
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: null }": 
+publish: false
 publishDate: 
 tags:
-- class/Class
-- schema-org/Class
-title: "is_an_atlas Class"
-type: Type
+  - class/Class
+  - schema-org/Class
+  - "{ newTitle: null }": 
+  - excalidraw
+title:
+  "{ newTitle: null }": 
+type: private_note
 has_id_wikidata: Q162827
 instance_of:
   - "[[_Standards/WikiData/WD~literary_genre,223393]]"
@@ -54,6 +61,13 @@ equivalent_class:
 P8189: "987007295068605171"
 UMLS_CUI: C0004171
 entry_in_abbreviations_table: атл.
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
 ---
 
 # [[Atlas]] 
@@ -99,3 +113,22 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ### #is_/same_as :: [Atlas.secret](/_secret/Earth/Atlas.secret.md)
 
+
+# [[Atlas]] 
+
+#is_/part_of :: [[Atlas]] 
+
+![[Atlas.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

@@ -34,16 +34,16 @@ Tag Instances like this:
 
 Content coded 'transformed content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-# For a [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Video_Object|VideoObject]]: 
+# For a [[../../../../../../Society/Communication/Media/Media_Object/Video_Object|VideoObject]]: 
 Some or all of the video has been manipulated to transform the footage itself. 
 This category includes using tools like the Adobe Suite to change the speed of the video,
 add or remove visual elements or dub audio.
 Deepfakes are also a subset of transformation.
 
-# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Image_Object|ImageObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Media_Object/Image_Object|ImageObject]]: 
 Adding or deleting visual elements to give the image a different meaning with the intention to mislead.
 
-# For an [[../../../../../../Society/Communication/Media/Creative_Work/Media_Object/Audio_Object|AudioObject]]: 
+# For an [[../../../../../../Society/Communication/Media/Media_Object/Audio_Object|AudioObject]]: 
 Part or all of the audio has been manipulated to alter the words or sounds, or the audio has been synthetically generated, such as to create a sound-alike voice.
 
 [ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
