@@ -69,7 +69,7 @@ Tag Instances like this:
 
 A chemical or biologic substance, used as a medical therapy, 
 that has a physiological effect on an organism. 
-Here the term drug is used interchangeably with the term medicine or medication 
+Here the term drug is used interchangeably with the term medicine or medication, 
 although clinical knowledge makes a clear difference between them.
 
 #is_/sub_class_of :: [[../../Chemistry/Substance|Substance]]  
