@@ -1,13 +1,11 @@
 ---
 aliases:
-  - ionic bonding 
-  - Ionenbindung 
+  - ionic bonding
+  - Ionenbindung
 has_id_wikidata: Q62500
-different_from: "[[db/polar_bond]]"
-has_part_s_of_the_class:
-  - "[[db/ion]]"
-subclass_of:
-  - "[[db/chemical_bond]]"
+different_from: "[[_Standards/WikiData/WD~polar_bond,2101022]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~ion,36496]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NaF.gif
 Commons_category: Ionic bond
 ---

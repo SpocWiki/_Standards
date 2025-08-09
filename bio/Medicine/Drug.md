@@ -10,7 +10,7 @@ cssclasses:
   - private
   - note
 draft: true
-equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/410942007
+equivalent_class: http://dbpedia.org/ontology/Drug
 expiryDate: 
 isDeleted: false
 isReadOnly: false
@@ -39,20 +39,19 @@ has_time_started:
 lang: en
 has_id_wikidata: Q8386
 different_from:
-  - "[[db/Stoff]]"
-  - "[[db/narcotic]]"
-  - "[[db/medication]]"
+  - "[[_Standards/WikiData/WD~Stoff,341867]]"
+  - "[[_Standards/WikiData/WD~narcotic,940]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
 subclass_of:
-  - "[[db/xenobiotic]]"
-  - "[[db/chemical_compound]]"
+  - "[[_Standards/WikiData/WD~xenobiotic,409205]]"
+  - "[[_Standards/WikiData/WD~chemical_compound,11173]]"
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Gujin_Tushu_Jicheng]]"
-has_characteristic: "[[db/dose_response_relationship]]"
-has_effect: "[[db/drug_allergy]]"
-said_to_be_the_same_as: "[[db/Q12034587]]"
-properties_for_this_type:
-  - route of administration
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+has_characteristic: "[[_Standards/WikiData/WD~dose_response_relationship,1251001]]"
+has_effect: "[[_Standards/WikiData/WD~drug_allergy,2068896]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12034587,12034587]]"
+properties_for_this_type: route of administration
 hashtag_: drug
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Psychoactive%20Drugs.jpg
 IMDb_keyword: drugs
@@ -62,8 +61,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Droge.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/De-Rauschgift.ogg
 Iconclass_notation: 41C75
-subreddit:
-  - AskDrugNerds
+subreddit: AskDrugNerds
 ---
 
 # [[Drug]] 

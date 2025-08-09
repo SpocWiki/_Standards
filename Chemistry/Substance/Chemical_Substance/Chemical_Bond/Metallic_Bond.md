@@ -4,10 +4,10 @@ aliases:
   - metallic bonding
 has_id_wikidata: Q191390
 has_effect:
-  - "[[db/electrical_conductivity]]"
-  - "[[db/electron_delocalization]]"
-partially_coincident_with: "[[db/metal_metal_bond]]"
-subclass_of: "[[db/chemical_bond]]"
+  - "[[_Standards/WikiData/WD~electrical_conductivity,4593291]]"
+  - "[[_Standards/WikiData/WD~electron_delocalization,56627491]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~metal_metal_bond,100701043]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 Commons_category: Metallic bonding
 ---
 

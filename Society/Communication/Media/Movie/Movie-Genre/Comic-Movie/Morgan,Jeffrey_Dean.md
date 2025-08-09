@@ -5,8 +5,7 @@ aliases:
 
 # [[Morgan,Jeffrey_Dean]] 
 
-#isanactor 
-#isactor
+#is_a_ :: [[../../Actor/US_Actor|US_Actor]] 
 
 ## #has_/text_of_/abstract 
 

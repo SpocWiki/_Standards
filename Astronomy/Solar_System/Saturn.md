@@ -243,7 +243,7 @@ Wolfram_Language_entity_code: "Entity[\"Planet\", \"Saturn\"]"
 > with a smaller amount of rocky debris and dust. 
 > At least 146 moons are known to orbit the planet, of which 63 are officially named; 
 > this does not include the hundreds of moonlets in its rings. 
-> [[Titan]], Saturn's largest moon and the second largest in the Solar System, 
+> [[../../Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology)]], Saturn's largest moon and the second largest in the Solar System, 
 > is larger (while less massive) than the planet Mercury 
 > and is the only moon in the Solar System to have a substantial atmosphere.
 >

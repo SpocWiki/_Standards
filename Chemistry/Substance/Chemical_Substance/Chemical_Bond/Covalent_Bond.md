@@ -3,11 +3,9 @@ aliases:
   - Elektronenpaarbindung
   - covalent bonding
 has_id_wikidata: Q127920
-has_part_s_:
-  - "[[db/Bonding_electron]]"
-described_by_source: "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
-subclass_of:
-  - "[[db/chemical_bond]]"
+has_part_s_: "[[_Standards/WikiData/WD~Bonding_electron,863666]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Covalent.png
 Commons_category: Covalent bond
 Biology_Online_Biology_Dictionary_entry: covalent-bond

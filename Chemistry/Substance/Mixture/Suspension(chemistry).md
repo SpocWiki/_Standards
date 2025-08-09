@@ -1,14 +1,14 @@
 ---
 aliases: 
 has_id_wikidata: Q26100
-subclass_of: "[[db/dispersion]]"
+subclass_of: "[[_Standards/WikiData/WD~dispersion,178697]]"
 described_by_source:
-  - "[[db/Armenian_Soviet_Encyclopedia]]"
-  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
-different_from: "[[db/Q97370817]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Q97370817,97370817]]"
 has_part_s_:
-  - "[[db/liquid]]"
-  - "[[db/solid]]"
+  - "[[_Standards/WikiData/WD~liquid,11435]]"
+  - "[[_Standards/WikiData/WD~solid,11438]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/WaterAndFlourSuspensionLiquid.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Weizenbier-ukko.jpg

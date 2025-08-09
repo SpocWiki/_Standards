@@ -3,31 +3,31 @@ aliases:
   - Kalziumchlorid
 has_id_wikidata: Q208451
 has_part_s_:
-  - "[[db/chloride_ion]]"
-  - "[[db/calcium(2+)]]"
+  - "[[_Standards/WikiData/WD~chloride_ion,108200]]"
+  - "[[_Standards/WikiData/WD~calcium(2+),23905776]]"
 has_use:
-  - "[[db/food_additive]]"
-  - "[[db/medication]]"
+  - "[[_Standards/WikiData/WD~food_additive,189567]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
 medical_condition_treated:
-  - "[[db/cardiac_arrest]]"
-  - "[[db/tetany]]"
+  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
+  - "[[_Standards/WikiData/WD~tetany,511818]]"
 has_characteristic:
-  - "[[db/hygroscopy]]"
-  - "[[db/bitterness]]"
+  - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+  - "[[_Standards/WikiData/WD~bitterness,1517187]]"
 subclass_of:
-  - "[[db/calcium_salt]]"
-  - "[[db/chloride]]"
-permanent_duplicated_item: "[[db/pharmaceutical_preparation_of_calcium_chloride]]"
+  - "[[_Standards/WikiData/WD~calcium_salt,4427704]]"
+  - "[[_Standards/WikiData/WD~chloride,44791900]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]"
 different_from:
-  - "[[db/calcium_chloride_hexahydrate]]"
-  - "[[db/calcium_chloride_monohydrate]]"
-  - "[[db/calcium_chloride_dihydrate]]"
-  - "[[db/calcium_chloride_tetrahydrate]]"
-  - "[[db/Calcium_chloride]]"
-safety_classification_and_labelling: "[[db/NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response]]"
-instance_of: "[[db/type_of_chemical_entity]]"
-described_by_source: "[[db/Armenian_Soviet_Encyclopedia,_vol._5]]"
-color: "[[db/white]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357]]"
+  - "[[_Standards/WikiData/WD~Calcium_chloride,130291008]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+color: "[[_Standards/WikiData/WD~white,23444]]"
 defined_daily_dose: 0.2
 density: 2.15
 melting_point:

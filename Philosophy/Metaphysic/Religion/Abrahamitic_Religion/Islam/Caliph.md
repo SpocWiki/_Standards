@@ -2,22 +2,22 @@
 aliases:
   - Kalif
 has_id_wikidata: Q65997
-organization_directed_by_the_office_or_position: "[[db/caliphate]]"
+organization_directed_by_the_office_or_position: "[[_Standards/WikiData/WD~caliphate,131401]]"
 instance_of:
-  - "[[db/title_of_authority]]"
-  - "[[db/position]]"
-  - "[[db/hereditary_title]]"
+  - "[[_Standards/WikiData/WD~title_of_authority,480319]]"
+  - "[[_Standards/WikiData/WD~position,4164871]]"
+  - "[[_Standards/WikiData/WD~hereditary_title,5737899]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Armenian_Soviet_Encyclopedia]]"
-  - "[[db/The_Nuttall_Encyclopædia]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-has_list: "[[db/caliph_of_Islam]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+has_list: "[[_Standards/WikiData/WD~caliph_of_Islam,1416228]]"
 subclass_of:
-  - "[[db/religious_leader]]"
-  - "[[db/monarch]]"
-  - "[[db/head_of_state]]"
+  - "[[_Standards/WikiData/WD~religious_leader,15995642]]"
+  - "[[_Standards/WikiData/WD~monarch,116]]"
+  - "[[_Standards/WikiData/WD~head_of_state,48352]]"
 inception: 0632-01-01T00:00:00Z
 native_label:
   - خَلِيفَة

@@ -5,37 +5,33 @@ aliases:
   - slug
 has_id_wikidata: Q174583
 part_of:
-  - "[[db/ammunition]]"
-  - "[[db/cartridge]]"
+  - "[[_Standards/WikiData/WD~ammunition,185785]]"
+  - "[[_Standards/WikiData/WD~cartridge,37144]]"
 subclass_of:
-  - "[[db/ammunition]]"
-  - "[[db/component]]"
-  - "[[db/projectile]]"
+  - "[[_Standards/WikiData/WD~ammunition,185785]]"
+  - "[[_Standards/WikiData/WD~component,1310239]]"
+  - "[[_Standards/WikiData/WD~projectile,49393]]"
 different_from:
-  - "[[db/Bala]]"
-  - "[[db/Balle]]"
-  - "[[db/Bullet]]"
-  - "[[db/Glans]]"
-  - "[[db/Luoti]]"
-  - "[[db/Metak]]"
-model_item:
-  - "[[db/shell]]"
+  - "[[_Standards/WikiData/WD~Bala,295877]]"
+  - "[[_Standards/WikiData/WD~Balle,346068]]"
+  - "[[_Standards/WikiData/WD~Bullet,422906]]"
+  - "[[_Standards/WikiData/WD~Glans,1529209]]"
+  - "[[_Standards/WikiData/WD~Luoti,11879870]]"
+  - "[[_Standards/WikiData/WD~Metak,12636721]]"
+model_item: "[[_Standards/WikiData/WD~shell,318028]]"
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 maintained_by_WikiProject:
-  - "[[db/WikiProject_Firearms]]"
-  - "[[db/WikiProject_Weaponry]]"
-  - "[[db/Military_science,_technology,_and_theory_task_force]]"
-has_part_s_:
-  - "[[db/bullet_jacket]]"
-instance_of:
-  - "[[db/weapon_functional_class]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Firearms,11031794]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Weaponry,19588592]]"
+  - "[[_Standards/WikiData/WD~Military_science,_technology,_and_theory_task_force,21830399]]"
+has_part_s_: "[[_Standards/WikiData/WD~bullet_jacket,11832525]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_functional_class,124078422]]"
 Nomenclature_for_Museum_Cataloging: "7742"
 IMDb_keyword: bullet
 Commons_category: Bullets
-video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bullet%20Wiki.ogv
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Bullet%20Wiki.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pocisk%20%282%29.jpg
 P8189: "987007292689005171"
 ---

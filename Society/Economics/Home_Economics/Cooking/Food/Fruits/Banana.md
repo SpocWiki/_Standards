@@ -7,31 +7,31 @@ Wikidata_usage_instructions:
   - 栽培品種はQ10757112、属名はQ8666090を参照
   - 有关最著名物种，请参见Q10757112；有关生物属，请参见Q8666090
 natural_product_of_taxon:
-  - "[[db/Musa_balbisiana]]"
-  - "[[db/Musa_acuminata]]"
-  - "[[db/Musa]]"
-  - "[[db/Musa_paradisiaca]]"
-  - "[[db/banana_tree]]"
+  - "[[_Standards/WikiData/WD~Musa_balbisiana,94643]]"
+  - "[[_Standards/WikiData/WD~Musa_acuminata,132970]]"
+  - "[[_Standards/WikiData/WD~Musa,8666090]]"
+  - "[[_Standards/WikiData/WD~Musa_paradisiaca,10757112]]"
+  - "[[_Standards/WikiData/WD~banana_tree,75195775]]"
 different_from:
-  - "[[db/cooking_banana]]"
-  - "[[db/Musa]]"
+  - "[[_Standards/WikiData/WD~cooking_banana,165449]]"
+  - "[[_Standards/WikiData/WD~Musa,8666090]]"
 subclass_of:
-  - "[[db/tropical_fruit]]"
-  - "[[db/fruit]]"
-  - "[[db/tropical_and_subtropical_fruit]]"
-  - "[[db/berry]]"
+  - "[[_Standards/WikiData/WD~tropical_fruit,844144]]"
+  - "[[_Standards/WikiData/WD~fruit,3314483]]"
+  - "[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647]]"
+  - "[[_Standards/WikiData/WD~berry,13184]]"
 described_by_source:
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Pax_Leksikon]]"
-  - "[[db/The_New_Student's_Reference_Work]]"
-  - "[[db/Great_Soviet_Encyclopedia_(1926_1947)]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 color:
-  - "[[db/purple]]"
-  - "[[db/yellow]]"
-  - "[[db/green]]"
-  - "[[db/brown]]"
-instance_of: "[[db/fruit]]"
-permanent_duplicated_item: "[[db/Q135485501]]"
+  - "[[_Standards/WikiData/WD~purple,3257809]]"
+  - "[[_Standards/WikiData/WD~yellow,943]]"
+  - "[[_Standards/WikiData/WD~green,3133]]"
+  - "[[_Standards/WikiData/WD~brown,47071]]"
+instance_of: "[[_Standards/WikiData/WD~fruit,3314483]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q135485501,135485501]]"
 carbon_footprint:
   - 0.6
   - 0.8
@@ -48,9 +48,9 @@ USDA_NDB_number:
 OmegaWiki_Defined_Meaning: "369665"
 Commons_category: Bananas
 image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Bananas%20on%20black%20background%2002.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cavendish%20banana%20from%20Maracaibo.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Banana%20on%20whitebackground.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bananas%20on%20black%20background%2002.jpg
 Commons_gallery: Banana
 Baidu_Tieba_name: 蕉
 exact_match:
@@ -65,6 +65,7 @@ UNII: 4AJZ4765R9
 Amazon_com_browse_node:
   - "6464950011"
   - "6507135011"
+hashtag_: banana
 ---
 
 # [[Banana]] 

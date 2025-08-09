@@ -3,17 +3,17 @@ aliases:
   - Variationsrechnung
 has_id_wikidata: Q216861
 has_use:
-  - "[[db/mathematical_optimization]]"
-  - "[[db/physics]]"
-instance_of: "[[db/calculus]]"
+  - "[[_Standards/WikiData/WD~mathematical_optimization,141495]]"
+  - "[[_Standards/WikiData/WD~physics,413]]"
+instance_of: "[[_Standards/WikiData/WD~calculus,149972]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-named_after: "[[db/Q3658674]]"
-maintained_by_WikiProject: "[[db/WikiProject_Mathematics]]"
-part_of: "[[db/calculus_of_variations,_systems_theory_and_control_theory]]"
-subclass_of: "[[db/mathematical_analysis]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+named_after: "[[_Standards/WikiData/WD~Q3658674,3658674]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+part_of: "[[_Standards/WikiData/WD~calculus_of_variations,_systems_theory_and_control_theory,113208892]]"
+subclass_of: "[[_Standards/WikiData/WD~mathematical_analysis,7754]]"
 P8189: "987007293785905171"
 Commons_category: Calculus of variations
 Krugosvet_article: nauka_i_tehnika/matematika/VARIATSIONNOE_ISCHISLENIE.html

@@ -3,18 +3,18 @@ aliases:
   - Tarnung
 has_id_wikidata: Q196113
 different_from:
-  - "[[db/military_camouflage]]"
-  - "[[db/camouflage_pattern]]"
-subclass_of:
-  - "[[db/technique]]"
-described_by_source: "[[db/1922_Encyclopædia_Britannica]]"
-studied_by: "[[db/biology_of_colour]]"
+  - "[[_Standards/WikiData/WD~military_camouflage,196086]]"
+  - "[[_Standards/WikiData/WD~camouflage_pattern,1763187]]"
+subclass_of: "[[_Standards/WikiData/WD~technique,2695280]]"
+described_by_source: "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+studied_by: "[[_Standards/WikiData/WD~biology_of_colour,105582462]]"
 Commons_gallery: Camouflage
 Commons_category: Camouflage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2005-Draco-dussumieri.jpg
 P8189: "987007283385905171"
 hashtag:
   - Q196113
+hashtag_: Q196113
 ---
 
 # [[Camouflage]] 
