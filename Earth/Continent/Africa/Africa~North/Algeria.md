@@ -536,7 +536,7 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 [Alcohol-l::1]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::3.05]
 [has_place_latitude::36.78]
 

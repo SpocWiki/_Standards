@@ -557,7 +557,7 @@ Capital :: [[Pretoria]]
 [Alcohol-l::9.5]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::22.87]
 [has_place_latitude::-28.8175]
 

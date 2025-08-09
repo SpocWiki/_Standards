@@ -138,7 +138,7 @@ Capital :: [[Port_Moresby]]
 [Alcohol-l::3.5] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::147.117] 
 [has_place_latitude::-9.5] 
 

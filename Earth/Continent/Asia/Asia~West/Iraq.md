@@ -483,7 +483,7 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 [Alcohol-l::0.4]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::44.42]
 [has_place_latitude::33.34]
 

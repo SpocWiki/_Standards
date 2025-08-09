@@ -533,7 +533,7 @@ Capital :: [[Bukarest]]
 [Alcohol-l::15.3]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::24.9906]
 [has_place_latitude::46.2258]
 

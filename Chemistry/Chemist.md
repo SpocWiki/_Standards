@@ -1,4 +1,88 @@
-# [[Chemist]]] 
+---
+aliases:
+  - Chemic
+has_id_wikidata: Q593644
+female_form_of_label:
+  - kemiista
+  - kemičarka
+  - kimiste
+  - хемичарка
+  - jikiemavan
+  - chimica
+  - כימאית
+  - chimiste
+  - química
+  - química
+  - Chemikerin
+  - chemička
+  - كيميائية
+  - chemiczka
+  - química
+  - química
+  - química
+  - química
+  - chimistă
+  - كيميائيه
+  - kemiistino
+  - chemikarka
+  - kemiistino
+  - Cheemikerin
+  - chemikė
+  - ķīmiķe
+male_form_of_label:
+  - kemiisto
+  - hikiemavan
+  - chimico
+  - chimiste
+  - químico
+  - químico
+  - Chemiker
+  - хімік
+  - chemik
+  - kemik
+  - químico
+  - كيميائى
+  - kemiistulo
+  - Cheemiker
+  - chemikas
+  - ķīmiķe
+has_list: "[[_Standards/WikiData/WD~list_of_chemists,816854]]"
+uses:
+  - "[[_Standards/WikiData/WD~chemical_literature,1069437]]"
+  - "[[_Standards/WikiData/WD~chemical_terminology,12168123]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q58212005,58212005]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~chemistry_term,87196290]]"
+  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]"
+  - "[[_Standards/WikiData/WD~profession,28640]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~physical_and_earth_science_professionals,108289376]]"
+  - "[[_Standards/WikiData/WD~physical_scientist,124637774]]"
+field_of_this_occupation: "[[_Standards/WikiData/WD~chemistry,2329]]"
+model_item: "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
+ISCO_08_occupation_class: "2113"
+ISCO_88_occupation_class: "2113"
+CNO_11_occupation_code: "2413"
+OmegaWiki_Defined_Meaning: "8435"
+KldB_2010_occupation_code: "41304"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20D.%20Foster%2C%20in%20Lab%2C%204%20October%201919.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Julie%20Perkins%20at%20LLNL.jpg
+Commons_category: Chemists
+Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 022.061-010
+SOC_Code_2010_: 19-2031
+CPP_2010: "2113.0"
+Dewey_Decimal_Classification: "540.92"
+P8189:
+  - "987007285059905171"
+  - "987007546359705171"
+UMLS_CUI: C0334707
+Wolfram_Language_entity_code: Entity["Concept", "Chemist::5ffsp"]
+Provenio_UUID: f83caaf6-c4ad-4caa-8727-11e1effec5d9
+---
+# [[Chemist]]  
+
+#is_/same_as :: [[../WikiData/WD~Chemist,593644|WD~Chemist,593644]] 
 
 ## #has_/text_of_/abstract 
 

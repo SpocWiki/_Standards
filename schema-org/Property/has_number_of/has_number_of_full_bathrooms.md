@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/number_of_/number_of_full_bathrooms :: Number ] or 
 - [ has_number_of_full_bathrooms :: Number ] 
 
-Number of full bathrooms - The total number of full and � bathrooms in an [[Accommodation]]. This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field">BathroomsFull field in RESO</a>.
+Number of full bathrooms - The total number of full and � bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field">BathroomsFull field in RESO</a>.
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation, FloorPlan ]

@@ -525,7 +525,7 @@ Krugosvet_article: strany_mira/POLSHA.html
 
 #is_a_/Country 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::17.6996]
 [has_place_latitude::52.0027]
 

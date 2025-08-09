@@ -399,7 +399,7 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 [Alcohol-l::10.6]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::55.45]
 [has_place_latitude::-4.61667]
 

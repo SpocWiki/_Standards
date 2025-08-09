@@ -32,7 +32,7 @@ Use it like this:
 The drug or supplement's legal status, including any controlled substance schedules that apply.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/product/dietary_supplement|DietarySupplement]], [[../../Class/is_a_/product/drug|Drug]], [[../../Class/is_a_/medical_entity|MedicalEntity]] ]
+[ #has_/domain  :: [[../../Class/is_a_/product/dietary_supplement|DietarySupplement]], [[../../../bio/Medicine/Drug|Drug]], [[../../../bio/Medicine/Medical_Entity|MedicalEntity]] ]
 ( #has_/name :: has_legal_status )
 ( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
 

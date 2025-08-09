@@ -1446,7 +1446,7 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 [Alcohol-l::2.6]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::78.9354]
 [has_place_latitude::20.3923]
 

@@ -37,7 +37,7 @@ UMLS_CUI: C0562690
 
 ## Dogs, cats, bears, raccoons, weasels, mongooses, hyenas, seals, walruses, etc. 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Carnivora,25306|WD~Carnivora,25306]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Carnivora,25306|WD~Carnivora,25306]]  
 
 ## #has_/text_of_/abstract 
 

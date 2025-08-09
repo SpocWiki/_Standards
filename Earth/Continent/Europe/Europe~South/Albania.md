@@ -470,7 +470,7 @@ Capital :: [[Tirana]]
 [Alcohol-l::6.7]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::19.9565]
 [has_place_latitude::40.793]
 

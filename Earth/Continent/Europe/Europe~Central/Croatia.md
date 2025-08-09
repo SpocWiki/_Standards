@@ -504,7 +504,7 @@ Capital :: [[Zagreb]]
 [Alcohol-l::15.1]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::15.97]
 [has_place_latitude::45.8]
 

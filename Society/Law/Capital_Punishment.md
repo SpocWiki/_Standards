@@ -41,6 +41,10 @@ subclass_of:
 U_S_National_Archives_Identifier: 10638012
 ---
 
+# [[Capital_Punishment]] 
+
+#is_/same_as :: [[../../WikiData/WD~Capital_punishment,8454|WD~Capital_punishment,8454]] 
+
 ## #has_/text_of_/abstract 
 
 > **Capital punishment**, also known as the death penalty and formerly called judicial homicide, 

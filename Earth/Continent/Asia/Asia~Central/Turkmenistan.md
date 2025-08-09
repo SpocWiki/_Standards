@@ -411,7 +411,7 @@ Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]
 [Alcohol-l::4.6]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::58.3333]
 [has_place_latitude::37.9667]
 

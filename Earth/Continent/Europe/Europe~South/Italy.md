@@ -808,7 +808,7 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 [Alcohol-l::10.7]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::11.8169]
 [has_place_latitude::43.4809]
 

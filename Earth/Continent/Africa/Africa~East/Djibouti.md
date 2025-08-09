@@ -402,7 +402,7 @@ Capital :: [[Djibouti]]
 [Alcohol-l::1.9]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::43.1667]
 [has_place_latitude::11.6]
 

@@ -12,7 +12,7 @@ and from Workshop to Manufacturing and Factories and eventually Assembly Lines.
 The concrete example was making needles. 
 
 ## Theory of Comparative Advantage 
-[[Ricardo,David]]'s Theory of Comparative Advantage in addition proves that, 
+[[Economist/Ricardo,David]]'s Theory of Comparative Advantage in addition proves that, 
 Specialization and international Trade is always beneficial, 
 even if one country is more competitive in every area than its trading counterpart. 
 
@@ -24,7 +24,7 @@ even if one country is more competitive in every area than its trading counterpa
 | Main Assumption  | __Labor__ is the only production factor                  | Multiple factors: labor, __capital__, __land__                   |
 | Trade Prediction | Countries specialize based on **relative productivity**  | Countries export goods that use **abundant factors intensively** |
 | Empirical Fit    | Strong for simple models and historical trade flows      | Better for modern, complex economies with diverse inputs         |
-| Developed by     | [[Ricardo,David\|David Ricardo]] (1817)                                     | Eli Heckscher (1919), Bertil Ohlin (1933)                        |
+| Developed by     | [[Economist/Ricardo,David\|David Ricardo]] (1817)                                     | Eli Heckscher (1919), Bertil Ohlin (1933)                        |
 
 
 ## Confidential Links & Embeds: 

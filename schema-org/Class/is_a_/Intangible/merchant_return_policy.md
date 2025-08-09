@@ -36,7 +36,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A MerchantReturnPolicy provides information about product return policies associated with an [[Organization]], [[Product]], or [[Offer]].
+A MerchantReturnPolicy provides information about product return policies associated with an [[../../../../Society/Organization]], [[Product]], or [[Offer]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

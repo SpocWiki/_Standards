@@ -639,7 +639,7 @@ Major Cities with Population in 1000s as of @2024
 [Alcohol-l::7.8]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::11.4588]
 [has_place_latitude::61.8685]
 

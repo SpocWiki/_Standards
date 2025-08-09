@@ -423,7 +423,7 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 [Alcohol-l::0.5]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::45.33]
 [has_place_latitude::2.02]
 

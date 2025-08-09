@@ -31,7 +31,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_public_access :: Boolean ] 
 
-A flag to signal that the [[Place]] Subject is open to public visitors.  
+A flag to signal that the [[../../../Earth/Geography/Place]] Subject is open to public visitors.  
 If this property is omitted there is no assumed default boolean value
 
 Predicate describes that: 

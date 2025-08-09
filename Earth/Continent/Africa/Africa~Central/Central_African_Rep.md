@@ -46,7 +46,7 @@ Capital :: [[Bangui]]
 [Alcohol-l::3.4]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::18.5833]
 [has_place_latitude::4.36667]
 

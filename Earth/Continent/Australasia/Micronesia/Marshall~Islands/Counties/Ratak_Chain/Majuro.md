@@ -15,7 +15,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::171.3667] 
 [has_place_latitude::7.116667] 
 [name::Majuro] 

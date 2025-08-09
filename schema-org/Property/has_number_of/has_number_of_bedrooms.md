@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/number_of_/number_of_bedrooms :: Number, QuantitativeValue ] or 
 - [ has_number_of_bedrooms :: Number, QuantitativeValue ] 
 
-The total integer number of bedrooms in a some [[Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
+The total integer number of bedrooms in a some [[../../../Earth/Geography/Place/Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation, ApartmentComplex, FloorPlan ]

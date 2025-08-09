@@ -33,7 +33,7 @@ Use it like this:
 - [ #has_/text_of_/floor_level :: Text ] or 
 - [ has_text_of_floor_level :: Text ] 
 
-The floor level for an [[Accommodation]] in a multi-storey building. Since counting
+The floor level for an [[../../../Earth/Geography/Place/Accommodation]] in a multi-storey building. Since counting
   systems [vary internationally](https://en.wikipedia.org/wiki/Storey#Consecutive_number_floor_designations), the local system should be used where possible.
 
 Predicated describes that: 

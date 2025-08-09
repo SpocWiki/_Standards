@@ -495,7 +495,7 @@ Capital :: [[Bratislava]]
 [Alcohol-l::13.3]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::17.1]
 [has_place_latitude::48.13]
 

@@ -117,12 +117,12 @@ An accommodation is a place that can accommodate human beings, e.g. a hotel room
 ## Properties:
 
 ### AccommodationCategory
-Category of an [[Accommodation]], following real estate conventions, e.g. RESO (see [PropertySubType](https://ddwiki.reso.org/display/DDW17/PropertySubType+Field), and [PropertyType](https://ddwiki.reso.org/display/DDW17/PropertyType+Field) fields  for suggested values).
+Category of an [[../../../Earth/Geography/Place/Accommodation]], following real estate conventions, e.g. RESO (see [PropertySubType](https://ddwiki.reso.org/display/DDW17/PropertySubType+Field), and [PropertyType](https://ddwiki.reso.org/display/DDW17/PropertyType+Field) fields  for suggested values).
 
 AccommodationCategory:: {"type":"Input","options":{}}
 
 ### AccommodationFloorPlan
-A floorplan of some [[Accommodation]].
+A floorplan of some [[../../../Earth/Geography/Place/Accommodation]].
 
 AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/FloorPlan')"}}
 
@@ -133,7 +133,7 @@ The type of bed or beds included in the accommodation. For the single case of ju
 Bed:: {"type":"Input","options":{}}
 
 ### FloorLevel
-The floor level for an [[Accommodation]] in a multi-storey building. Since counting  
+The floor level for an [[../../../Earth/Geography/Place/Accommodation]] in a multi-storey building. Since counting  
  systems [vary internationally](https://en.wikipedia.org/wiki/Storey#Consecutive\_number\_floor\_designations), the local system should be used where possible.
 
 FloorLevel:: {"type":"Input","options":{}}
@@ -145,27 +145,27 @@ The size of the accommodation, e.g. in square meter or squarefoot.
 FloorSize:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 ### LeaseLength
-Length of the lease for some [[Accommodation]], either particular to some [[Offer]] or in some cases intrinsic to the property.
+Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[Offer]] or in some cases intrinsic to the property.
 
 LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ### NumberOfBathroomsTotal
-The total integer number of bathrooms in some [[Accommodation]], following real estate conventions as [documented in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field): "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also [[numberOfRooms]].
+The total integer number of bathrooms in some [[../../../Earth/Geography/Place/Accommodation]], following real estate conventions as [documented in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field): "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also [[numberOfRooms]].
 
 NumberOfBathroomsTotal:: {"type":"Number","options":{}}
 
 ### NumberOfBedrooms
-The total integer number of bedrooms in a some [[Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
+The total integer number of bedrooms in a some [[../../../Earth/Geography/Place/Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
 
 NumberOfBedrooms:: {"type":"Number","options":{}}
 
 ### NumberOfFullBathrooms
-Number of full bathrooms - The total number of full and ¾ bathrooms in an [[Accommodation]]. This corresponds to the [BathroomsFull field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field).
+Number of full bathrooms - The total number of full and ¾ bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. This corresponds to the [BathroomsFull field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field).
 
 NumberOfFullBathrooms:: {"type":"Number","options":{}}
 
 ### NumberOfPartialBathrooms
-Number of partial bathrooms - The total number of half and ¼ bathrooms in an [[Accommodation]]. This corresponds to the [BathroomsPartial field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsPartial+Field).
+Number of partial bathrooms - The total number of half and ¼ bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. This corresponds to the [BathroomsPartial field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsPartial+Field).
 
 NumberOfPartialBathrooms:: {"type":"Number","options":{}}
 
@@ -192,7 +192,7 @@ Indicates whether pets are allowed to enter the accommodation or lodging busines
 PetsAllowed:: {"type":"Boolean","options":{}}
 
 ### YearBuilt
-The year an [[Accommodation]] was constructed. This corresponds to the [YearBuilt field in RESO](https://ddwiki.reso.org/display/DDW17/YearBuilt+Field).
+The year an [[../../../Earth/Geography/Place/Accommodation]] was constructed. This corresponds to the [YearBuilt field in RESO](https://ddwiki.reso.org/display/DDW17/YearBuilt+Field).
 
 YearBuilt:: {"type":"Number","options":{}}
 

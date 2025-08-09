@@ -473,7 +473,7 @@ Capital :: [[Tripolis=Tripoli]]
 [Alcohol-l::0.1]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::13.19]
 [has_place_latitude::32.89]
 

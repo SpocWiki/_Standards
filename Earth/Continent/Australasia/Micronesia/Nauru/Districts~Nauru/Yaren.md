@@ -34,7 +34,7 @@ type:
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../Geography/Place]] 
 [has_place_longitude::166.9208] 
 [has_place_latitude::-0.5477778] 
 [name::Yaren] 

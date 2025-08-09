@@ -396,7 +396,7 @@ Capital :: [[Maseru]]
 [Alcohol-l::5.6]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::27.9333]
 [has_place_latitude::-29.4667]
 

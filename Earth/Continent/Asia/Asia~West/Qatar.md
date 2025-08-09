@@ -402,7 +402,7 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 [Alcohol-l::1.3]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::51.53]
 [has_place_latitude::25.28]
 

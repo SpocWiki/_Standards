@@ -9,6 +9,7 @@ There are many Units for Time-Duration,
 but the SI-Unit is the [[../Unit/SI-Unit/Unit~Second|Unit~Second]].    
 
 #is_/same_as :: [[../WikiData/WD~Time,11471|WD~Time,11471]] 
+#has_/reciprocal :: [[Frequency]]  
 
 ## #has_/text_of_/abstract 
 

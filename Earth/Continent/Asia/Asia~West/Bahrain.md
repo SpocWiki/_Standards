@@ -414,7 +414,7 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 [Alcohol-l::3.7]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::50.58]
 [has_place_latitude::26.2]
 

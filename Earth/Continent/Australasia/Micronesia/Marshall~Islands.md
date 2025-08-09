@@ -372,7 +372,7 @@ Capital :: [[Majuro]]
 [Alcohol-l::] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::168.348] 
 [has_place_latitude::9.34833] 
 

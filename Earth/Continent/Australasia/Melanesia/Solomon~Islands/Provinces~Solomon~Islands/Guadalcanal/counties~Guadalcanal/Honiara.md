@@ -12,7 +12,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../../Geography/Place]] 
 [has_place_longitude::159.8167] 
 [has_place_latitude::-9.466666] 
 [name::Honiara] 

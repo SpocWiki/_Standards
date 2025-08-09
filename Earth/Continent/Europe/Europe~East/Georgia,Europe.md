@@ -453,7 +453,7 @@ Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]
 [Alcohol-l::6.4]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::44.7833]
 [has_place_latitude::41.7167]
 

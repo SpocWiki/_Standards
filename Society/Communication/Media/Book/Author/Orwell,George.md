@@ -120,7 +120,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
-#has_/disease :: [[Tuberculosis]] 
+#has_/disease :: [[../../../../../bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Tuberculosis]] 
 
 #is_/same_as :: [[../../../../../../_Standards/WikiData/WD~George_Orwell,3335]] 
 

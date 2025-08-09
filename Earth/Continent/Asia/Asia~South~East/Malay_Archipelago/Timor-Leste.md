@@ -389,7 +389,7 @@ Capital :: [[Dili]]
 [Alcohol-l::0.9] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::125.567] 
 [has_place_latitude::-8.56667] 
 

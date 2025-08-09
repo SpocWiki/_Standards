@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/value_for_/year_built :: Number ] or 
 - [ has_value_for_year_built :: Number ] 
 
-The year an [[Accommodation]] was constructed. 
+The year an [[../../../Earth/Geography/Place/Accommodation]] was constructed. 
 This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/YearBuilt+Field">YearBuilt field in RESO</a>.
 
 Predicate describes that: 

@@ -360,7 +360,7 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 [Alcohol-l::4.2]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::15.2833]
 [has_place_latitude::-4.26667]
 

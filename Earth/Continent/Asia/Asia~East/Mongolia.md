@@ -454,7 +454,7 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 [Alcohol-l::3.2]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::106.883]
 [has_place_latitude::47.9167]
 

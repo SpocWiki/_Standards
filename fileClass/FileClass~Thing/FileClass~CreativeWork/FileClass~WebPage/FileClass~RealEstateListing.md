@@ -53,7 +53,7 @@ Publication date of an online listing.
 DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 ### LeaseLength
-Length of the lease for some [[Accommodation]], either particular to some [[Offer]] or in some cases intrinsic to the property.
+Length of the lease for some [[../../../../Earth/Geography/Place/Accommodation]], either particular to some [[Offer]] or in some cases intrinsic to the property.
 
 LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 

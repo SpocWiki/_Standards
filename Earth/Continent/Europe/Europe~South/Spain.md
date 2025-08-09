@@ -799,7 +799,7 @@ Capital :: [[Spain/Provinces~Spain/Madrid,Region]]
 [Alcohol-l::11.6]
 [Language-Id::492]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::-2.86673]
 [has_place_latitude::40.0911]
 

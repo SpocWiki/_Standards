@@ -45,7 +45,7 @@ the Event can be appended like so:
 #has_/place_/started 
 #has_/place_/stopped  
 
-Preferably use [[../../Class/is_a_/place|place]], because it is not limited to the earth and is better recognizable for known Locations. 
+Preferably use [[../../../Earth/Geography/Place|place]], because it is not limited to the earth and is better recognizable for known Locations. 
 
 Use it like this: 
 - [ #has_/location_/ :: Place, PostalAddress, Text, VirtualLocation ] or 

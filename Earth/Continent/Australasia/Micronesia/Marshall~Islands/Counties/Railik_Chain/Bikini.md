@@ -12,7 +12,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::165.33] 
 [has_place_latitude::11.58] 
 [name::Bikini] 

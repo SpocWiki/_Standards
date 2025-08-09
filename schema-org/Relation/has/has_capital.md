@@ -25,15 +25,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/capital :: [[../../Class/is_a_/place/administrative_area/city|city]] ] or 
+- [ #has_/capital :: [[../../../Earth/Geography/Place/Administrative_Area/City|city]] ] or 
 - [ has_capital :: [[../../Class/is_a_/place/administrative_area/city|city]] ] 
 
 The capital for this Country or State. For downloadable machine formats (closed capital, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/place/administrative_area/country|country]],[[../../Class/is_a_/place/administrative_area/State|state]]] ]
+[ #has_/domain  :: [[../../../Earth/Geography/Place/Administrative_Area/Country|country]],[[../../../Earth/Geography/Place/Administrative_Area/State|state]]] ]
 ( #has_/name :: has_capital )
-( #has_/range :: [[../../Class/is_a_/place/administrative_area/city|city]] )
+( #has_/range :: [[../../../Earth/Geography/Place/Administrative_Area/City|city]] )
 
 
 ## Confidential Links & Embeds: 

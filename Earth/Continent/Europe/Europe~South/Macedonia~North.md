@@ -476,7 +476,7 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 [Alcohol-l::8.5]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::21.43] 
 [has_place_latitude::41.98]
 

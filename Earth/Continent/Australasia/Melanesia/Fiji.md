@@ -386,7 +386,7 @@ Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]
 [Alcohol-l::2.4] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::178.45] 
 [has_place_latitude::-18.1667] 
 

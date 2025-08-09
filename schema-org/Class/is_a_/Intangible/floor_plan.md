@@ -37,7 +37,7 @@ allowing the provision of common information (room counts, sizes, layout diagram
 In typical use, some [[ApartmentComplex]] has an [[accommodationFloorPlan]] which is a [[FloorPlan]]. 
 
 A FloorPlan is always in the context of a particular place, 
-either a larger [[ApartmentComplex]] or a single[[../place/accommodation/apartment]]]. 
+either a larger [[ApartmentComplex]] or a single[[../../../../Earth/Geography/Place/Accommodation/Apartment]]]. 
 
 The visual/spatial aspects of a floor plan (i.e. room layout, <a href="https://en.wikipedia.org/wiki/Floor_plan">see wikipedia</a>) 
 can be indicated using [[image]].

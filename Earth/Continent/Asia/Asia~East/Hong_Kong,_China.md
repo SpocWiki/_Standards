@@ -31,7 +31,7 @@ Capital :: [[China/Hong_Kong]]
 [Alcohol-l::]
 [Language-Id::485]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::114.159]
 [has_place_latitude::22.2783]
 

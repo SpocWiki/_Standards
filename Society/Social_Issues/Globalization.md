@@ -64,7 +64,7 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Globalisation::zbks4\"]"
 > large parts of the history of globalization, and of modern globalization.
 >
 > Economically, globalization involves goods, services, data, technology, 
-> and the economic resources of [[Capital]]. 
+> and the economic resources of [[../Ideology/Economic_Ideology/Capitalism/Capital(Economics)]]. 
 > 
 > The expansion of global markets liberalizes the economic activities of the exchange of goods and funds. Removal of cross-border trade barriers has made the formation of global markets more feasible. Advances in transportation, like the steam locomotive, steamship, jet engine, and container ships, and developments in telecommunication infrastructure such as the telegraph, the Internet, mobile phones, and smartphones, have been major factors in globalization and have generated further interdependence of economic and cultural activities around the globe.
 >

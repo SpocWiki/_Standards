@@ -486,7 +486,7 @@ Capital :: [[Wellington]]
 [Alcohol-l::9.6]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::174.78]
 [has_place_latitude::-41.28]
 

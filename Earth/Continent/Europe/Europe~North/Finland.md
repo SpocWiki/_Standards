@@ -674,7 +674,7 @@ Capital :: [[Helsingfors]]
 [Alcohol-l::12.5]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::25.4668]
 [has_place_latitude::62.3173]
 

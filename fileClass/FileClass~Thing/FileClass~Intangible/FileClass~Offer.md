@@ -474,7 +474,7 @@ An item being offered (or demanded). The transactional nature of the offer or de
 ItemOffered:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')"}}
 
 ### LeaseLength
-Length of the lease for some [[Accommodation]], either particular to some [[Offer]] or in some cases intrinsic to the property.
+Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[Offer]] or in some cases intrinsic to the property.
 
 LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 

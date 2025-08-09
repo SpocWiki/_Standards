@@ -8,7 +8,7 @@ icon: ":atom symbol:"
 
  Chemistry is a wide Field; therefore it is broken up into 
 - [Chemical Elements](Chemistry/Chemical_Element.md) 
-- [[Chemistry/Chemical_Substance/Chemical_Compound|Chemical_Compound]] 
+- [[Chemistry/Substance/Chemical_Substance/Chemical_Compound|Chemical_Compound]] 
 	- [organic Chemistry](Chemistry/organic.md) and 
 	- [inOrganic Chemistry](Chemistry/inOrganic.md)
 

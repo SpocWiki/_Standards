@@ -636,7 +636,7 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 [Alcohol-l::1]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::51.555]
 [has_place_latitude::34.175]
 

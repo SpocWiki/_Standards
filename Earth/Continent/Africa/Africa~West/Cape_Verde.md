@@ -390,10 +390,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [	ISO3166-1-numeric	 :: 132 ]
 
+[ISO2::CV] 
+[ISO3::CPV] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]] 
 
-[ISO2::CV]
-[ISO3::CPV]
+## #has_/map 
+
 ```leaflet
 id: Cape Verde
 zoomFeatures: true 

@@ -35,7 +35,7 @@ Use it like this:
 A [[../../Class/is_a_/creative_work/review|review]] of the item.
 
 [[../../Relation|Relation]] describes that: 
-[#has_/domain  :: [ [[../../Class/is_a_/Intangible/brand|Brand]], [[../../Class/is_a_/creative_work|CreativeWork]], [[../../Class/is_a_/event|Event]], [[../../Class/is_a_/Intangible/offer|Offer]], [[../../Class/is_a_/organization|Organization]], [[../../Class/is_a_/place|Place]], [[../../Class/is_a_/product|Product]], [[../../Class/is_a_/Intangible/service|Service]] ] ]
+[#has_/domain  :: [ [[../../Class/is_a_/Intangible/brand|Brand]], [[../../Class/is_a_/creative_work|CreativeWork]], [[../../Class/is_a_/event|Event]], [[../../Class/is_a_/Intangible/offer|Offer]], [[../../../Society/Organization|Organization]], [[../../../Earth/Geography/Place|Place]], [[../../Class/is_a_/product|Product]], [[../../Class/is_a_/Intangible/service|Service]] ] ]
 ( #has_/name :: has_review )
 ( #has_/range :: [[../../Class/is_a_/creative_work/review|Review]] )
 

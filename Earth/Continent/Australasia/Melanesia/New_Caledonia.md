@@ -131,7 +131,7 @@ Capital :: [[Nouméa]]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::166.458]
 [has_place_latitude::-22.2758]
 

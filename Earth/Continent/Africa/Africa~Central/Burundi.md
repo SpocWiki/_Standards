@@ -409,7 +409,7 @@ Capital :: [[Bujumbura]]
 [Alcohol-l::9.5]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::30]
 [has_place_latitude::-3.5]
 

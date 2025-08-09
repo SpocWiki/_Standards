@@ -479,7 +479,7 @@ Capital :: [[Laos/Counties/Vientiane]]
 [Alcohol-l::6.7]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::102.6]
 [has_place_latitude::17.9667]
 

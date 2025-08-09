@@ -435,7 +435,7 @@ Capital :: [[Gaborone]]
 [Alcohol-l::8]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::25.9167]
 [has_place_latitude::-24.6333]
 

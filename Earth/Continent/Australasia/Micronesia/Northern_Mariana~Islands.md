@@ -129,7 +129,7 @@ Capital :: [[Saipan]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::145.75] 
 [has_place_latitude::15.1833] 
 

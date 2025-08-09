@@ -510,7 +510,7 @@ Capital :: [[Tallinn]]
 [Alcohol-l::15.6]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::24.75]
 [has_place_latitude::59.4167]
 

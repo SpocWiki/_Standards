@@ -422,7 +422,7 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 [Alcohol-l::2.6]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::32.53]
 [has_place_latitude::15.6]
 

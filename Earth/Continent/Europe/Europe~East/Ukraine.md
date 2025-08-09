@@ -520,7 +520,7 @@ Capital :: [[Kiew]]
 [Alcohol-l::15.6]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::30.5]
 [has_place_latitude::50.45]
 

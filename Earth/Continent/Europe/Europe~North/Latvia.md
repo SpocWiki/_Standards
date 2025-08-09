@@ -593,7 +593,7 @@ Capital :: [[./Latvia/Counties/Riga]]
 [Alcohol-l::12.5]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::24.11]
 [has_place_latitude::56.95]
 

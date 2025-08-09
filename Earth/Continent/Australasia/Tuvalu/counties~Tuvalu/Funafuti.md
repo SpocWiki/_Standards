@@ -15,7 +15,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::179.2167] 
 [has_place_latitude::-8.516666] 
 [name::Funafuti] 

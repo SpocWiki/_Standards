@@ -716,7 +716,7 @@ Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/S
 [Alcohol-l::11.1]
 [Language-Id::497]
 #is_a_/Place  
-#is_a_ :: [place](_Standards/schema-org/Class/is_a_/place.md) 
+#is_a_ :: [Place](../../../Geography/Place.md) 
 [has_place_longitude::8.46058]
 [has_place_latitude::46.8963]
 

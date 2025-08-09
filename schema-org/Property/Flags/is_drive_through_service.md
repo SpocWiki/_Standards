@@ -24,10 +24,10 @@ title: is_drive_through_service
 type: Pred_Bool
 ---
 
-Indicates whether some facility (e.g. [[Food_Establishment]], [[Covid_Testing_Facility]]) 
+Indicates whether some facility (e.g. [[../../../Society/Organization/Local_Business/food_establishment]], [[../../../Society/Organization/Local_Business/medical_business/medical_clinic/covid_testing_facility]]) 
 offers a service that can be used by driving through in a car. 
 
-In the case of [[Covid_Testing_Facility]] 
+In the case of [[../../../Society/Organization/Local_Business/medical_business/medical_clinic/covid_testing_facility]] 
 such facilities could potentially help with social distancing from other potentially-infected users.
 
 Renamed from `hasDriveThroughService`, because it is a boolean Type. 
@@ -42,7 +42,7 @@ Or write it as a Triple:
 [ is_drive_through_service :: Boolean ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[Place]] ]
+[ #has_/domain  :: [[../../../Earth/Geography/Place]] ]
 ( #has_/name :: is_drive_through_service )
 ( #has_/range :: Boolean )
 

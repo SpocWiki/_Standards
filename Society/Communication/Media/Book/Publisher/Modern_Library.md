@@ -3,7 +3,7 @@ aliases:
 - "Modern Library"
 ---
 
-#is_a_ :: [[../../../../../../_Standards/schema-org/Class/is_a_/organization/corporation|Corporation]] 
+#is_a_ :: [[../../../../Organization/corporation|Corporation]] 
 
 
 > The **Modern Library** is an American book publishing imprint 

@@ -31,10 +31,10 @@ Use it like this:
 - [ #has_/event :: Event ] or 
 - [ has_event :: Event ] 
 
-Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../Class/is_a_/place|Place]], [[../../Class/is_a_/organization|Organization]], or [[../../Class/is_a_/action|Action]].
+Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../../Earth/Geography/Place|Place]], [[../../../Society/Organization|Organization]], or [[../../Class/is_a_/action|Action]].
 
 [[../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/action/interact_action/communicate_action/inform_action|InformAction]], [[../../Class/is_a_/action/interact_action/communicate_action/invite_action|InviteAction]], [[../../Class/is_a_/action/interact_action/join_action|JoinAction]], [[../../Class/is_a_/action/interact_action/leave_action|LeaveAction]], [[../../Class/is_a_/organization|Organization]], [[../../Class/is_a_/place|Place]], [[../../Class/is_a_/action/play_action|PlayAction]] ]
+[ #has_/domain  :: [[../../Class/is_a_/action/interact_action/communicate_action/inform_action|InformAction]], [[../../Class/is_a_/action/interact_action/communicate_action/invite_action|InviteAction]], [[../../Class/is_a_/action/interact_action/join_action|JoinAction]], [[../../Class/is_a_/action/interact_action/leave_action|LeaveAction]], [[../../../Society/Organization|Organization]], [[../../../Earth/Geography/Place|Place]], [[../../Class/is_a_/action/play_action|PlayAction]] ]
 ( #has_/name :: has_event )
 ( #has_/range :: [[../../Class/is_a_/event|Event]] )
 

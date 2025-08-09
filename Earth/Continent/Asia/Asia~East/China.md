@@ -1087,7 +1087,7 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing,City]]
 [Alcohol-l::5.9]
 [Language-Id::485]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::117.985]
 [has_place_latitude::35.6637]
 

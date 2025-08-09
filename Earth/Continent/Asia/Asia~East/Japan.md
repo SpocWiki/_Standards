@@ -756,7 +756,7 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 [Alcohol-l::8]
 [Language-Id::466]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::137.199]
 [has_place_latitude::36.8617]
 

@@ -1,6 +1,6 @@
 
 
-#is_a_ :: [[../../../../../../_Standards/schema-org/Class/is_a_/organization/corporation|Corporation]] 
+#is_a_ :: [[../../../../Organization/corporation|Corporation]] 
 
 
 > The **Bertelsmann** SE & Co. KGaA, commonly known as Bertelsmann 

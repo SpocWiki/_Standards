@@ -463,7 +463,7 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 [Alcohol-l::11.4]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::44.5167]
 [has_place_latitude::40.18]
 

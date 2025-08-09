@@ -1,0 +1,99 @@
+---
+Commons_category: "Mental and behavioural diseases and disorders"
+described_at_URL: "https://www.hilarispublisher.com/scholarly/mental-health-morbidity-journals-articles-ppts-list-2525.html"
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+Dewey_Decimal_Classification: 616.89
+different_from:
+- '[[_Standards/WikiData/WD~mental_health,317309]]'
+- '[[_Standards/WikiData/WD~mental_illness,1499013]]'
+- '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
+DiseasesDB: 28852
+drug_or_therapy_used_for_treatment:
+- '[[_Standards/WikiData/WD~antidepressant,76560]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~antipsychotics,208144]]'
+- '[[_Standards/WikiData/WD~tranquilizer,1941660]]'
+- '[[_Standards/WikiData/WD~mood_stabilizer,2622367]]'
+- '[[_Standards/WikiData/WD~anxiolytic,62903]]'
+exact_match:
+- "http://identifiers.org/doid/DOID:150"
+- "http://purl.obolibrary.org/obo/DOID_150"
+handled_mitigated_or_managed_by:
+- '[[_Standards/WikiData/WD~treatment_of_mental_disorders,3984210]]'
+- '[[_Standards/WikiData/WD~prevention_of_mental_disorders,48998239]]'
+has_cause: '[[_Standards/WikiData/WD~causes_of_mental_disorders,5054620]]'
+has_effect:
+- '[[_Standards/WikiData/WD~damage,481609]]'
+- '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
+- '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~death,4]]'
+has_id_wikidata: Q12135
+has_list: '[[_Standards/WikiData/WD~list_of_mental_disorders,2182963]]'
+health_specialty:
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~clinical_psychology,199906]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+ICD_10_CM:
+- F99
+- F99-F99
+ICD_9_CM:
+- V11.9
+- 290-299.99
+- 298.8
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Gautier%20-%20Salpetriere.JPG"
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+MeSH_tree_code: F03
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+opposite_of: '[[_Standards/WikiData/WD~mental_health,317309]]'
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Starry%20night%20banner.jpg"
+partially_coincident_with:
+- '[[_Standards/WikiData/WD~neurological_disorder,3339235]]'
+- '[[_Standards/WikiData/WD~psychosomatic_disease,10267833]]'
+PhilPapers_topic:
+- mental-disorders
+- mental-illness
+possible_treatment:
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~psychopharmacology,1515727]]'
+properties_for_this_type: "DSM-IV classification"
+subclass_of: '[[_Standards/WikiData/WD~disease,12136]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Mental_disorders,8096255]]'
+UMLS_CUI:
+- C4046029
+- C0376338
+- C0004936
+- C0029516
+---
+
+## #has_/text_of_/abstract 
+
+> A **Mental disorder**, also referred to as a mental illness, a mental health condition, or a psychiatric disability, is a behavioral or mental pattern that causes significant distress or impairment of personal functioning. A mental disorder is also characterized by a clinically significant disturbance in an individual's cognition, emotional regulation, or behavior, often in a social context. Such disturbances may occur as single episodes, may be persistent, or may be relapsing–remitting. There are many different types of mental disorders, with signs and symptoms that vary widely between specific disorders. A mental disorder is one aspect of mental health.
+>
+> The causes of mental disorders are often unclear. Theories incorporate findings from a range of fields.  Disorders may be associated with particular regions or functions of the brain. Disorders are usually diagnosed or assessed by a mental health professional, such as a clinical psychologist, psychiatrist, psychiatric nurse, or clinical social worker, using various methods such as psychometric tests, but often relying on observation and questioning. Cultural and religious beliefs, as well as social norms, should be taken into account when making a diagnosis.
+>
+> Services for mental disorders are usually based in psychiatric hospitals, outpatient clinics, or in the community, Treatments are provided by mental health professionals. Common treatment options are  psychotherapy or psychiatric medication, while lifestyle changes, social interventions, peer support, and self-help are also options. In a minority of cases, there may be involuntary detention or treatment. Prevention programs have been shown to reduce depression.
+>
+> In 2019, common mental disorders around the globe include: depression, which affects about 264 million people; dementia, which affects about 50 million; bipolar disorder, which affects about 45 million; and schizophrenia and other psychoses, which affect about 20 million people. Neurodevelopmental disorders include attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), and intellectual disability, of which onset occurs early in the developmental period. Stigma and discrimination can add to the suffering and disability associated with mental disorders, leading to various social movements attempting to increase understanding and challenge social exclusion.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mental%20disorder)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mental_Disorder](Mental_Disorder.md) 
+
+### #is_/same_as :: [Mental_Disorder.public](/_public/bio/Medicine/Disease/Mental_Disorder.public.md) 
+
+### #is_/same_as :: [Mental_Disorder.internal](/_internal/bio/Medicine/Disease/Mental_Disorder.internal.md) 
+
+### #is_/same_as :: [Mental_Disorder.protect](/_protect/bio/Medicine/Disease/Mental_Disorder.protect.md) 
+
+### #is_/same_as :: [Mental_Disorder.private](/_private/bio/Medicine/Disease/Mental_Disorder.private.md) 
+
+### #is_/same_as :: [Mental_Disorder.personal](/_personal/bio/Medicine/Disease/Mental_Disorder.personal.md) 
+
+### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Medicine/Disease/Mental_Disorder.secret.md)
+

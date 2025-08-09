@@ -673,7 +673,7 @@ Capital :: [[Istanbul]]
 [Alcohol-l::2.9]
 [Language-Id::456]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::32.37]
 [has_place_latitude::39.3233]
 

@@ -456,7 +456,7 @@ Capital :: [[Phnom_Penh]]
 [Alcohol-l::4.8]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::104.917]
 [has_place_latitude::11.55]
 

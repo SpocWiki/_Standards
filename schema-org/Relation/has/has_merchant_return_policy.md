@@ -41,7 +41,7 @@ Use it like this:
 Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] that may be applicable to a [[../../Class/is_a_/product|Product]].
 
 [[../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../Class/is_a_/Intangible/offer|Offer]], [[../../Class/is_a_/organization|Organization]], [[../../Class/is_a_/product|Product]] ] ]
+[ #has_/domain  :: [ [[../../Class/is_a_/Intangible/offer|Offer]], [[../../../Society/Organization|Organization]], [[../../Class/is_a_/product|Product]] ] ]
 ( #has_/name :: has_merchant_return_policy )
 ( #has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
 

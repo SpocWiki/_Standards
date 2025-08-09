@@ -1,6 +1,6 @@
 
 
-#is_a_ :: [[../../../../../../_Standards/schema-org/Class/is_a_/organization/corporation|Corporation]] 
+#is_a_ :: [[../../../../Organization/corporation|Corporation]] 
 
 > BMG Rights Management GmbH (also known simply as BMG) is an international music company 
 > based in Berlin, Germany. It combines the activities of a music publisher and a record label. 

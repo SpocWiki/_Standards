@@ -670,7 +670,7 @@ Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 [Alcohol-l::15.2]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::14.52]
 [has_place_latitude::46.05]
 

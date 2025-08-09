@@ -1,7 +1,13 @@
 ---
 aliases:
-- Inventors
+  - Inventors
+  - Erfinder
+has_id_wikidata:
 ---
+
+# [[Inventor]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~inventor,205375]] 
 
 ## #has_/text_of_/abstract 
 

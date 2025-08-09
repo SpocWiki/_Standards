@@ -15,7 +15,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::114.9422] 
 [has_place_latitude::4.890283] 
 [name::Bandar Seri Begawan] 

@@ -43,7 +43,7 @@ water_footprint: 2925
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tobacco](/_Standards/bio/Medicine/Drug/Tobacco.md) 
+### #is_/same_as :: [Tobacco](Tobacco.md) 
 
 ### #is_/same_as :: [Tobacco.public](/_public/bio/Medicine/Drug/Tobacco.public.md) 
 

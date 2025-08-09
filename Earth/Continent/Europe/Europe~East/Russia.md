@@ -1066,7 +1066,7 @@ Capital :: [Moskwa](Moskwa)
 [Alcohol-l::15.8]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [place](Place.md) 
+#is_a_ :: [place](../../../Geography/Place.md) 
 [has_place_longitude::47.4574]
 [has_place_latitude::52.6418]
 

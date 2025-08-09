@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A type of blood vessel that specifically carries lymph fluid unidirectionally toward the heart.
 
-[ #is_/sub_class_of [[../../../../schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel]]]]] ]
+[ #is_/sub_class_of [[Vessel]]]]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, originatesFrom, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, runsTo, sameAs, study, subStructure, subjectOf, url ] ]
 

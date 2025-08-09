@@ -39,9 +39,9 @@ version: 2.0
 # Grant
 This is a kind of [[FileClass~Intangible]]
 
-A grant, typically financial or otherwise quantifiable, of resources. Typically a [[funder]] sponsors some [[MonetaryAmount]] to an [[Organization]] or [[../../../schema-org/Class/is_a_/Person]],  
- sometimes not necessarily via a dedicated or long-lived [[Project]], resulting in one or more outputs, or [[fundedItem]]s. For financial sponsorship, indicate the [[funder]] of a [[MonetaryGrant]]. For non-financial support, indicate [[sponsor]] of [[Grant]]s of resources (e.g. office space).  
- Grants support  activities directed towards some agreed collective goals, often but not always organized as [[Project]]s. Long-lived projects are sometimes sponsored by a variety of grants over time, but it is also common for a project to be associated with a single grant.  
+A grant, typically financial or otherwise quantifiable, of resources. Typically a [[funder]] sponsors some [[MonetaryAmount]] to an [[../../../Society/Organization]] or [[../../../schema-org/Class/is_a_/Person]],  
+ sometimes not necessarily via a dedicated or long-lived [[../../../Society/Organization/project]], resulting in one or more outputs, or [[fundedItem]]s. For financial sponsorship, indicate the [[funder]] of a [[MonetaryGrant]]. For non-financial support, indicate [[sponsor]] of [[Grant]]s of resources (e.g. office space).  
+ Grants support  activities directed towards some agreed collective goals, often but not always organized as [[../../../Society/Organization/project]]s. Long-lived projects are sometimes sponsored by a variety of grants over time, but it is also common for a project to be associated with a single grant.  
  The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]].
 
 

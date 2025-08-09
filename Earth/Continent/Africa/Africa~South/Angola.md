@@ -470,7 +470,7 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 [Alcohol-l::5.4]
 [Language-Id::467]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::13.23]
 [has_place_latitude::-8.8]
 

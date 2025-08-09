@@ -61,7 +61,12 @@ U_S_National_Archives_Identifier: 10637707
 
 ## #has_/text_of_/abstract 
 
-> Athletics is a group of sporting events that involves competitive running, jumping and throwing. The most common types of athletics competitions are track and field, road running, cross-country running, and racewalking.
+> Athletics is a group of sporting events that involves competitive running, jumping and throwing. 
+> The most common types of athletics competitions are 
+> - track and field, 
+> - road running, 
+> - cross-country running, and 
+> - racewalking.
 >
 > The results of racing events are decided by finishing position (or time, where measured), while the jumps and throws are won by the athlete that achieves the highest or furthest measurement from a series of attempts. The simplicity of the competitions, and the lack of a need for expensive equipment, makes athletics one of the most common types of sports in the world. Athletics is mostly an individual sport, with the exception of relay races and competitions which combine athletes' performances for a team score, such as cross country.
 >

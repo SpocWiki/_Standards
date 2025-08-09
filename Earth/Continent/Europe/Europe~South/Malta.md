@@ -422,7 +422,7 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 [Alcohol-l::4.3]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::14.52]
 [has_place_latitude::35.9]
 
