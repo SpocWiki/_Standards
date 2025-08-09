@@ -1,13 +1,15 @@
 ---
 aliases:
   - drug
-  - drug
   - Drug
   - is_a_drug
-confidential: public
+  - "{ newTitle: null }": 
+confidential: private
 cssclasses:
   - Type
-draft: false
+  - private
+  - note
+draft: true
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/410942007
 expiryDate: 
 isDeleted: false
@@ -15,21 +17,23 @@ isReadOnly: false
 keywords:
   - drug
 layout: 
-license: CC BY-SA 4.0
-linkTitle: is_a_drug Class
-publish: true
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: null }": 
+publish: false
 publishDate: 
 tags:
   - class/Class
   - schema-org/Class
   - excalidraw
-title: is_a_drug Class
-type: Type
+  - "{ newTitle: null }": 
+title:
+  "{ newTitle: null }": 
+type: private_note
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-has_Template:
-  - "[[Extract~Note~Template]]"
+has_Template: "[[Extract~Note~Template]]"
 has_time_started:
   "{ \"date:YYYY-MM-DD\": null }": 
 lang: en
@@ -124,6 +128,25 @@ which derives from the Middle Dutch term "droge" which means "dried".
 ## Embedded Graph 
 
 ![[Drug.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
+
+# [[Drug]] 
+
+#is_/part_of :: [[Drug]] 
+
+![[Drug.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
 
 
 %%
