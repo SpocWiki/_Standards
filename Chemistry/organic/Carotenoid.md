@@ -50,11 +50,22 @@ MeSH_tree_code:
 > - xanthophylls (which contain oxygen) and 
 > - carotenes (which are purely hydrocarbons and contain no oxygen).
 >
-> All are derivatives of tetraterpenes, meaning that they are produced from 8 isoprene units and contain 40 carbon atoms. In general, carotenoids absorb wavelengths ranging from 400 to 550 nanometers (violet to green light). This causes the compounds to be deeply colored yellow, orange, or red. Carotenoids are the dominant pigment in autumn leaf coloration of about 15-30% of tree species, but many plant colors, especially reds and purples, are due to polyphenols.
+> All are derivatives of tetraterpenes, meaning that 
+> they are produced from 8 isoprene units and contain 40 carbon atoms. 
+> In general, carotenoids absorb wavelengths ranging from 400 to 550 nanometers 
+> (violet to green light). 
+> This causes the compounds to be deeply colored yellow, orange, or red. 
+> Carotenoids are the dominant pigment in autumn leaf coloration of about 15-30% of tree species, 
+> but many plant colors, especially reds and purples, are due to polyphenols.
 >
-> 
->
-> Carotenoids serve two key roles in plants and algae: they absorb light energy for use in photosynthesis, and they provide photoprotection via non-photochemical quenching. Carotenoids that contain unsubstituted beta-ionone rings  (including β-carotene, α-carotene, β-cryptoxanthin, and γ-carotene) have vitamin A activity (meaning that they can be converted to retinol). In the eye, lutein, meso-zeaxanthin, and zeaxanthin are present as macular pigments whose importance in visual function, as of 2016, remains under clinical research.
+> Carotenoids serve two key roles in plants and algae: 
+> - they absorb light energy for use in photosynthesis, 
+> - and they provide photoprotection via non-photochemical quenching. 
+> Carotenoids that contain unsubstituted beta-ionone rings  
+> (including β-carotene, α-carotene, β-cryptoxanthin, and γ-carotene) have vitamin A activity 
+> (meaning that they can be converted to retinol). 
+> In the eye, lutein, meso-zeaxanthin, and zeaxanthin are present as macular pigments 
+> whose importance in visual function, as of 2016, remains under clinical research.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carotenoid) 
 
