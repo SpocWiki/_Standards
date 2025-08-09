@@ -87,7 +87,7 @@ The expected departure time.
 DepartureTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 ### Itinerary
-Destination(s) ( [[Place]] ) that make up a trip. For a trip where destination order is important use [[ItemList]] to specify that order (see examples).
+Destination(s) ( [[../../../Earth/Geography/Place]] ) that make up a trip. For a trip where destination order is important use [[ItemList]] to specify that order (see examples).
 
 Itinerary:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 

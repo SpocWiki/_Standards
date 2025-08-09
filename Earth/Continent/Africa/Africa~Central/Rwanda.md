@@ -406,7 +406,7 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 [Alcohol-l::9.8]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::30.0595]
 [has_place_latitude::-1.94388]
 

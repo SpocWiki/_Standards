@@ -538,7 +538,7 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 [Alcohol-l::3.5]
 [Language-Id::459]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::125.75]
 [has_place_latitude::39.0333]
 

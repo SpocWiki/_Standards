@@ -684,7 +684,7 @@ Capital :: [[Kuala_Lumpur]]
 [Alcohol-l::0.8]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::101.7]
 [has_place_latitude::3.17]
 

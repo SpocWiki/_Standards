@@ -142,7 +142,7 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 [Alcohol-l::10.6]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::49.83]
 [has_place_latitude::40.42]
 

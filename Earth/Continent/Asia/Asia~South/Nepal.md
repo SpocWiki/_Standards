@@ -568,7 +568,7 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 [Alcohol-l::2.4]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::85.3167]
 [has_place_latitude::27.7]
 

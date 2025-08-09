@@ -138,7 +138,7 @@ Capital :: [[San_Marino]]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::12.45]
 [has_place_latitude::43.93]
 

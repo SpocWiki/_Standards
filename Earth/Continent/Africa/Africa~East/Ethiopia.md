@@ -551,7 +551,7 @@ Capital :: [[Addis_Abeba]]
 [Alcohol-l::4]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::38.7]
 [has_place_latitude::9.05]
 

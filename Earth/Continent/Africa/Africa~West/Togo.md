@@ -442,7 +442,7 @@ Capital :: [[Lomé]]
 [Alcohol-l::2]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::1.21667]
 [has_place_latitude::6.11667]
 

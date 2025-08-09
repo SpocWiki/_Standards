@@ -21,7 +21,7 @@ version: 2.0
 # CampingPitch
 This is a kind of [[FileClass~Accommodation]]
 
-A [[CampingPitch]] is an individual place for overnight stay in the outdoors, typically being part of a larger camping site, or [[Campground]].
+A [[CampingPitch]] is an individual place for overnight stay in the outdoors, typically being part of a larger camping site, or [[../../../../Earth/Geography/Place/Civic_Structure/Campground]].
 
   
  In British English a campsite, or campground, is an area, usually divided into a number of pitches, where people can camp overnight using tents or camper vans or caravans; this British English use of the word is synonymous with the American English expression campground. In American English the term campsite generally means an area where an individual, family, group, or military unit can pitch a tent or park a camper; a campground may contain many campsites.  

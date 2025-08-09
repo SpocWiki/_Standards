@@ -67,12 +67,12 @@ For a [[NewsMediaOrganization]], a statement on coverage priorities, including a
 MissionCoveragePrioritiesPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 ### NoBylinesPolicy
-For a [[NewsMediaOrganization]] or other news-related [[Organization]], a statement explaining when authors of articles are not named in bylines.
+For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Organization]], a statement explaining when authors of articles are not named in bylines.
 
 NoBylinesPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 ### VerificationFactCheckingPolicy
-Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[Organization]].
+Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[../../../Society/Organization]].
 
 VerificationFactCheckingPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 

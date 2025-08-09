@@ -87,7 +87,7 @@ version: 2.0
 # FloorPlan
 This is a kind of [[FileClass~Intangible]]
 
-A FloorPlan is an explicit representation of a collection of similar accommodations, allowing the provision of common information (room counts, sizes, layout diagrams) and offers for rental or sale. In typical use, some [[ApartmentComplex]] has an [[accommodationFloorPlan]] which is a [[FloorPlan]].  A FloorPlan is always in the context of a particular place, either a larger [[ApartmentComplex]] or a single[[../../../schema-org/Class/is_a_/place/accommodation/apartment]]]. The visual/spatial aspects of a floor plan (i.e. room layout, [see wikipedia](https://en.wikipedia.org/wiki/Floor\_plan)) can be indicated using [[image]].
+A FloorPlan is an explicit representation of a collection of similar accommodations, allowing the provision of common information (room counts, sizes, layout diagrams) and offers for rental or sale. In typical use, some [[ApartmentComplex]] has an [[accommodationFloorPlan]] which is a [[FloorPlan]].  A FloorPlan is always in the context of a particular place, either a larger [[ApartmentComplex]] or a single[[../../../Earth/Geography/Place/Accommodation/Apartment]]]. The visual/spatial aspects of a floor plan (i.e. room layout, [see wikipedia](https://en.wikipedia.org/wiki/Floor\_plan)) can be indicated using [[image]].
 
 
 ## Use one of these Tags for Objects of this Type:
@@ -130,22 +130,22 @@ Indicates the number of available accommodation units in an [[ApartmentComplex]]
 NumberOfAvailableAccommodationUnits:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 ### NumberOfBathroomsTotal
-The total integer number of bathrooms in some [[Accommodation]], following real estate conventions as [documented in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field): "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also [[numberOfRooms]].
+The total integer number of bathrooms in some [[../../../Earth/Geography/Place/Accommodation]], following real estate conventions as [documented in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field): "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also [[numberOfRooms]].
 
 NumberOfBathroomsTotal:: {"type":"Number","options":{}}
 
 ### NumberOfBedrooms
-The total integer number of bedrooms in a some [[Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
+The total integer number of bedrooms in a some [[../../../Earth/Geography/Place/Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
 
 NumberOfBedrooms:: {"type":"Number","options":{}}
 
 ### NumberOfFullBathrooms
-Number of full bathrooms - The total number of full and ¾ bathrooms in an [[Accommodation]]. This corresponds to the [BathroomsFull field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field).
+Number of full bathrooms - The total number of full and ¾ bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. This corresponds to the [BathroomsFull field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field).
 
 NumberOfFullBathrooms:: {"type":"Number","options":{}}
 
 ### NumberOfPartialBathrooms
-Number of partial bathrooms - The total number of half and ¼ bathrooms in an [[Accommodation]]. This corresponds to the [BathroomsPartial field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsPartial+Field).
+Number of partial bathrooms - The total number of half and ¼ bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. This corresponds to the [BathroomsPartial field in RESO](https://ddwiki.reso.org/display/DDW17/BathroomsPartial+Field).
 
 NumberOfPartialBathrooms:: {"type":"Number","options":{}}
 

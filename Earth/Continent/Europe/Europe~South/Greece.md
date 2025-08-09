@@ -581,7 +581,7 @@ Capital :: [[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]
 [Alcohol-l::10.8]
 [Language-Id::491]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::23.0356]
 [has_place_latitude::38.6175]
 

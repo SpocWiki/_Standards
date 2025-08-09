@@ -37,7 +37,7 @@ tag it as a [[has_serious_adverse_outcome]] instead.
 Relation describes that: 
 [ #has_/domain  :: MedicalDevice, TherapeuticProcedure ]
 ( #has_/name :: has_adverse_outcome )
-( #has_/range :: [[Medical_Entity]] )
+( #has_/range :: [[../../../bio/Medicine/Medical_Entity]] )
 
 
 ## Confidential Links & Embeds: 

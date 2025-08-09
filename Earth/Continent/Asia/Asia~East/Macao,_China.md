@@ -31,7 +31,7 @@ has_place_continent:: [[Asia]]
 [Alcohol-l::]
 [Language-Id::467]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::113.55]
 [has_place_latitude::22.1667]
 

@@ -460,7 +460,7 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 [Alcohol-l::2.2]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::35.5]
 [has_place_latitude::33.87]
 

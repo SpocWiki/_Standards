@@ -583,7 +583,7 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 [Alcohol-l::0.1]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::70.1033]
 [has_place_latitude::29.2633]
 

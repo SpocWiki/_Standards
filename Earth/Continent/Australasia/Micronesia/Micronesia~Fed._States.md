@@ -39,7 +39,7 @@ Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]
 [Alcohol-l::5.5] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::158.15] 
 [has_place_latitude::6.91667] 
 

@@ -32,7 +32,7 @@ This is also a common category in most other Upper-Level Ontologies like [[cyc~I
 
 Intangibles have no Time and Space Properties, because they could exist universally, in any computational Structure or symbolic Storage. 
 Ideas are concrete Instances of Intangibles and these have definite Origins in Time (when the first Person thought of it), Space (the Head of the Person) and Creators but rarely Destructors. 
-These Properties are added only by the Sibling Concepts of [[place]] and [[event]] . 
+These Properties are added only by the Sibling Concepts of [[../../../Earth/Geography/Place]] and [[event]] . 
 
 Tag Instances like this: 
 #is_an_/intangible

@@ -345,7 +345,7 @@ Capital :: [[Yaren]]
 [Alcohol-l::4.8] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::166.921] 
 [has_place_latitude::-0.547778] 
 

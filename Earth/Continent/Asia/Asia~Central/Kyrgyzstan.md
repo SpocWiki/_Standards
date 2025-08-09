@@ -433,7 +433,7 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 [Alcohol-l::5.1]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::74.6]
 [has_place_latitude::42.8667]
 

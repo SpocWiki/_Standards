@@ -531,7 +531,7 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 [Alcohol-l::0.3]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::43.27]
 [has_place_latitude::23.05]
 

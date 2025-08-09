@@ -708,7 +708,7 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 [Alcohol-l::7.6]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::10.6]
 [has_place_latitude::3.94]
 

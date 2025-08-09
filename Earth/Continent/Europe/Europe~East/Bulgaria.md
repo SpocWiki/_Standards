@@ -518,7 +518,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 [Alcohol-l::12.4]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::25.3029]
 [has_place_latitude::42.9342]
 

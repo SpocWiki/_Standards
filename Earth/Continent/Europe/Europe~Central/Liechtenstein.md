@@ -417,7 +417,7 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 [Alcohol-l::]
 [Language-Id::497]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::9.529]
 [has_place_latitude::47.158]
 

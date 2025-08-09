@@ -616,7 +616,7 @@ Capital :: [[Copenhagen]]
 [Alcohol-l::13.4]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::10.5]
 [has_place_latitude::55.6789]
 

@@ -372,7 +372,7 @@ Capital :: [[Melekeok]]
 [Alcohol-l::10.1] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::134.467] 
 [has_place_latitude::7.35] 
 

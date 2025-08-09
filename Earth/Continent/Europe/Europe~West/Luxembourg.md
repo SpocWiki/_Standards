@@ -472,7 +472,7 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 [Alcohol-l::13]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::6.07904]
 [has_place_latitude::49.6827]
 

@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/diversity_staffing_report :: Article, URL ] or 
 - [ has_diversity_staffing_report :: Article, URL ] 
 
-For an [[Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
+For an [[../../../Society/Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization, Organization ]

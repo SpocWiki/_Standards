@@ -452,7 +452,7 @@ Capital :: [[Niamey]]
 [Alcohol-l::0.3]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::2.08333]
 [has_place_latitude::13.5333]
 

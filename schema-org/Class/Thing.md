@@ -1,50 +1,50 @@
 ---
 aliases:
-- Object
-- Thing
-- Instance
-- Entity
-- "owl:Thing"
-- SomeThing
-- AnyThing
-- "schema:Thing"
-- is_a_
-- is_a_thing
-- "rdfs:Resource"
-- things
-- sumo~Entity
+  - Object
+  - Thing
+  - Instance
+  - Entity
+  - owl:Thing
+  - SomeThing
+  - AnyThing
+  - schema:Thing
+  - is_a_
+  - is_a_thing
+  - rdfs:Resource
+  - things
+  - sumo~Entity
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
 expiryDate: 
 has_sub_classes:
-- '[[./Class/is_a_/action|Action]]'
-- '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
-- '[[Class/is_a_/creative_work|creative_work]]'
-- '[[Class/is_a_/event|event]]'
-- '[[Class/is_a_/Intangible|Intangible]]'
-- '[[Class/is_a_/medical_entity|medical-entity]]'
-- '[[Class/is_a_/place.md|place]]'
-- '[[Class/is_a_/organization|organization]]'
-- '[[Class/is_a_/person|person]]'
-- '[[Class/is_a_/product|product]]'
-- '[[Class/is_a_/taxon|taxon]]'
+  - "[[./Class/is_a_/action|Action]]"
+  - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
+  - "[[Class/is_a_/creative_work|creative_work]]"
+  - "[[Class/is_a_/event|event]]"
+  - "[[Class/is_a_/Intangible|Intangible]]"
+  - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
+  - "[[../../Earth/Geography/Place|place]]"
+  - "[[../../Society/Organization|organization]]"
+  - "[[Class/is_a_/person|person]]"
+  - "[[Class/is_a_/product|product]]"
+  - "[[Class/is_a_/taxon|taxon]]"
 has_time_started: 2023-10-02
 isDeleted: false
 isReadOnly: false
 keywords:
-- thing
+  - thing
 lang: en
 layout: 
-license: "CC BY-SA 4.0"
-linkTitle: "is_a_thing Class"
+license: CC BY-SA 4.0
+linkTitle: is_a_thing Class
 publish: true
 publishDate: 
 tags:
-- schema-org/Class
-- class/Class
-title: "is_a_thing Class"
+  - schema-org/Class
+  - class/Class
+title: is_a_thing Class
 type: Type
 ---
 
@@ -78,7 +78,7 @@ There is no larger Class:  [ #is_/sub_class_of :: [[./Thing|Thing]] ]
 
 #has_/sub_classes :: [[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[Product]], [[stupid_Type]], [[Taxon]] ] 
 
-has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[Class/is_a_/creative_work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[Class/is_a_/medical_entity|medical-entity]]", "[[Class/is_a_/place.md|place]]", "[[Class/is_a_/organization|organization]]", "[[Class/is_a_/person|person]]", "[[Class/is_a_/product|product]]", "[[Class/is_a_/taxon|taxon]]" ]
+has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[Class/is_a_/creative_work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Organization|organization]]", "[[Class/is_a_/person|person]]", "[[Class/is_a_/product|product]]", "[[Class/is_a_/taxon|taxon]]" ]
 
 [[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

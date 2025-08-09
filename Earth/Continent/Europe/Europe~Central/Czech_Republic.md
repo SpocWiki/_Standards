@@ -508,7 +508,7 @@ Capital :: [[Praha]]
 [Alcohol-l::16.5]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::15.8734]
 [has_place_latitude::49.7633]
 

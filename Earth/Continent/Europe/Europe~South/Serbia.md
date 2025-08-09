@@ -542,7 +542,7 @@ Capital :: [[Serbia/districts~Serbia/Beograd]]
 [Alcohol-l::11.1]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::20.48]
 [has_place_latitude::44.82]
 

@@ -34,7 +34,7 @@ Capital :: [[Saigon]]
 [Alcohol-l::]
 [Language-Id::460]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::106.667]
 [has_place_latitude::10.75]
 

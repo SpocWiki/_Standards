@@ -460,7 +460,7 @@ Capital :: [[Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/
 [Alcohol-l::2.4]
 [Language-Id::467]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::33.7917]
 [has_place_latitude::-22.1]
 

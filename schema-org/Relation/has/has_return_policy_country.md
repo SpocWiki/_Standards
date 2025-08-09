@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/return_policy_country :: Country, Text ] or 
 - [ has_return_policy_country :: Country, Text ] 
 
-The country where the product has to be sent to for returns, for example "Ireland" using the [[name]] property of[[../../Class/is_a_/place/administrative_area/country]]]. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1). Note that this can be different from the country where the product was originally shipped from or sent to.
+The country where the product has to be sent to for returns, for example "Ireland" using the [[name]] property of[[../../../Earth/Geography/Place/Administrative_Area/Country]]]. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1). Note that this can be different from the country where the product was originally shipped from or sent to.
 
 Relation describes that: 
 [ #has_/domain  :: MerchantReturnPolicy ]

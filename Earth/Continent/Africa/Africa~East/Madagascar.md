@@ -134,7 +134,7 @@ Capital :: [[Antananarivo]]
 [Alcohol-l::1.3]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::47.5083]
 [has_place_latitude::-18.8933]
 

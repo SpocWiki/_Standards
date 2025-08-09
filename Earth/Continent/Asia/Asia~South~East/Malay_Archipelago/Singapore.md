@@ -514,7 +514,7 @@ Capital :: [[Singapore=Singapur]]
 [Alcohol-l::1.6]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::103.85]
 [has_place_latitude::1.28]
 

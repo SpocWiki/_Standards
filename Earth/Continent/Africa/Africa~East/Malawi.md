@@ -417,7 +417,7 @@ Capital :: [[Lilongwe]]
 [Alcohol-l::1.7]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::33.7]
 [has_place_latitude::-13.95]
 

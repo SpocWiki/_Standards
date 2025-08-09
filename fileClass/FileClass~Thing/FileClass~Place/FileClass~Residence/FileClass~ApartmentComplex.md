@@ -65,7 +65,7 @@ Indicates the number of available accommodation units in an [[ApartmentComplex]]
 NumberOfAvailableAccommodationUnits:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 ### NumberOfBedrooms
-The total integer number of bedrooms in a some [[Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
+The total integer number of bedrooms in a some [[../../../../Earth/Geography/Place/Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
 
 NumberOfBedrooms:: {"type":"Number","options":{}}
 

@@ -12,7 +12,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../../../Geography/Place]] 
 [has_place_longitude::178.45] 
 [has_place_latitude::-18.16667] 
 [name::Suva] 

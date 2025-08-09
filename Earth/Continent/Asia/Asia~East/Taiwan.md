@@ -563,7 +563,7 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 [Alcohol-l::]
 [Language-Id::485]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::121.55]
 [has_place_latitude::25.08]
 

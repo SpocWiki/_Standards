@@ -625,7 +625,7 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 [Alcohol-l::16.3]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::19.1508]
 [has_place_latitude::47.2796]
 

@@ -614,7 +614,7 @@ Capital ::[[Austria/Austrias_States/Wien,State/Wien,City]]]
 [Alcohol-l::13.2]
 [Language-Id::497]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::14.381]
 [has_place_latitude::47.712]
 

@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/accommodation_floor_plan :: FloorPlan ] or 
 - [ has_accommodation_floor_plan :: FloorPlan ] 
 
-A floorplan of some [[Accommodation]].
+A floorplan of some [[../../../Earth/Geography/Place/Accommodation]].
 
 Relation describes that: 
 [ #has_/domain  :: Accommodation, Residence ]

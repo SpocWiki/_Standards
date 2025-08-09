@@ -565,7 +565,7 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 [Alcohol-l::0]
 [Language-Id::455]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::69.2]
 [has_place_latitude::34.5]
 

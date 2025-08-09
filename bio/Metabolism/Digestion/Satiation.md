@@ -14,7 +14,7 @@ aliases:
 > satiety signals overrule hunger signals, 
 > but satiety slowly fades as hunger increases.
 >
-> The satiety center in animals is located in ventromedial nucleus of the [[../../Medicine/Disease/Headache/Hypothalamus|hypothalamus]].
+> The satiety center in animals is located in ventromedial nucleus of the [[../../Medicine/Medical_Condition/Disease/Headache/Hypothalamus|hypothalamus]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satiety) 
 

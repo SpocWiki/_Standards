@@ -34,7 +34,7 @@ has_place_continent:: [[Africa]]
 [Alcohol-l::]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::34.854]
 [has_place_latitude::-6.307]
 

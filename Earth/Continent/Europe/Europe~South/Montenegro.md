@@ -457,7 +457,7 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::19.4667]
 [has_place_latitude::42.7833]
 

@@ -445,7 +445,7 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 [Alcohol-l::3.5]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::69.3]
 [has_place_latitude::41.33]
 

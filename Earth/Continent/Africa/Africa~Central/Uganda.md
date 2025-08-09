@@ -586,7 +586,7 @@ Capital :: [[Kampala]]
 [Alcohol-l::11.9]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::32.5811]
 [has_place_latitude::0.313611]
 

@@ -296,7 +296,7 @@ Capital :: [[Hagåtña]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::144.75] 
 [has_place_latitude::13.4792] 
 

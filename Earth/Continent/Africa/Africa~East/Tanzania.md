@@ -585,7 +585,7 @@ Capital :: [[Dodoma]]
 [Alcohol-l::6.8]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::35.7419]
 [has_place_latitude::-6.17306]
 

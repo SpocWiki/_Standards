@@ -414,13 +414,10 @@ Languages:
 # [[Tunisia]] 
 
 
-
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Tunisia 
 
 [[Tunisia/ReadMe]] 
-
-
 
 [	ISO4217-currency_alphabetic	 :: TND ]
 [	ISO4217-currency_name	 :: Tunisian Dinar ]
@@ -485,10 +482,13 @@ Sub-region_Name ::  [[Northern Africa]]
 
 [	ISO3166-1-numeric	 :: 788 ]
 
-
-
 [ISO2::TN]
 [ISO3::TUN]
+
+#is_/same_as :: [[../../../../WikiData/WD~Tunisia,948|WD~Tunisia,948]] 
+
+## #has_/map  
+
 ```leaflet
 id: Tunisia
 zoomFeatures: true 
@@ -504,7 +504,7 @@ markerFolder: ./Tunisia//
 [Area-Land::155360]
 has_place_continent:: [[Africa]]  
 [VehicleCode::TN]
-Capital :: [[Tunis]]  
+Capital :: [[Tunisia/governorates~Tunisia/Tunis]]  
 
 ![[Coat_of_arms_of_Tunisia.svg|350]]
 
@@ -515,7 +515,7 @@ Capital :: [[Tunis]]
 [Alcohol-l::1.3]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::10.18]
 [has_place_latitude::36.8]
 

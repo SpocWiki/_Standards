@@ -459,7 +459,7 @@ Capital :: [[Cyprus/districts~Cyprus/Nicosia]]
 [Alcohol-l::9.3]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::33.4667]
 [has_place_latitude::35.1333]
 

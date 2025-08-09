@@ -1339,7 +1339,7 @@ Capital :: [[Djakarta]]
 [Alcohol-l::0.6]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::109.755]
 [has_place_latitude::-6.695]
 

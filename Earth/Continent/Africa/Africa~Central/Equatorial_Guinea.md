@@ -404,7 +404,7 @@ Capital :: [[Malabo]]
 [Alcohol-l::6.1]
 [Language-Id::492]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::8.78333]
 [has_place_latitude::3.75]
 

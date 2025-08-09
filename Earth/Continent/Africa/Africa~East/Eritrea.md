@@ -394,7 +394,7 @@ Capital :: [[Asmara]]
 [Alcohol-l::1.5]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::38.9167]
 [has_place_latitude::15.3333]
 

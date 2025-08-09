@@ -420,7 +420,7 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 [Alcohol-l::0.6]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::90.435]
 [has_place_latitude::27.417]
 

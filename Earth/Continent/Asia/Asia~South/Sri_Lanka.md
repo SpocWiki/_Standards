@@ -443,7 +443,7 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 [Alcohol-l::0.8]
 [Language-Id::458]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::80.425]
 [has_place_latitude::6.86]
 

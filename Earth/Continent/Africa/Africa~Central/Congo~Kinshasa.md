@@ -595,7 +595,7 @@ Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ]
 [Alcohol-l::3.3]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::15.3]
 [has_place_latitude::-4.3]
 

@@ -33,7 +33,7 @@ Use it like this:
 - [ #has_/verification_fact_checking_policy :: CreativeWork, URL ] or 
 - [ has_verification_fact_checking_policy :: CreativeWork, URL ] 
 
-Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[Organization]].
+Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[../../../Society/Organization]].
 
 Relation describes that: 
 [ #has_/domain  :: NewsMediaOrganization ]

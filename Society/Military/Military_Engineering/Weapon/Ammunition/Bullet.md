@@ -1,6 +1,8 @@
 ---
 aliases:
   - Kugel
+  - shot
+  - slug
 has_id_wikidata: Q174583
 part_of:
   - "[[db/ammunition]]"
@@ -16,7 +18,8 @@ different_from:
   - "[[db/Glans]]"
   - "[[db/Luoti]]"
   - "[[db/Metak]]"
-model_item: "[[db/shell]]"
+model_item:
+  - "[[db/shell]]"
 described_by_source:
   - "[[db/Encyclopædia_Britannica_11th_edition]]"
   - "[[db/Meyers_Konversations_Lexikon,_4th_edition_(1885_1890)]]"
@@ -24,12 +27,15 @@ maintained_by_WikiProject:
   - "[[db/WikiProject_Firearms]]"
   - "[[db/WikiProject_Weaponry]]"
   - "[[db/Military_science,_technology,_and_theory_task_force]]"
-has_part_s_: "[[db/bullet_jacket]]"
-instance_of: "[[db/weapon_functional_class]]"
+has_part_s_:
+  - "[[db/bullet_jacket]]"
+instance_of:
+  - "[[db/weapon_functional_class]]"
 Nomenclature_for_Museum_Cataloging: "7742"
 IMDb_keyword: bullet
 Commons_category: Bullets
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Bullet%20Wiki.ogv
+video:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Bullet%20Wiki.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pocisk%20%282%29.jpg
 P8189: "987007292689005171"
 ---

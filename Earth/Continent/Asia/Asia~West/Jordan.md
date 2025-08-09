@@ -425,7 +425,7 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 [Alcohol-l::0.7]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::35.93]
 [has_place_latitude::31.95]
 

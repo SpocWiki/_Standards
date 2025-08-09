@@ -360,7 +360,7 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 [Alcohol-l::0.2]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::44.61]
 [has_place_latitude::14.06]
 

@@ -570,7 +570,7 @@ Capital :: [[Bangkok]]
 [Alcohol-l::7.1]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::100.5]
 [has_place_latitude::13.73]
 

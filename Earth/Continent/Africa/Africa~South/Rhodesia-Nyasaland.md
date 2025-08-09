@@ -31,7 +31,7 @@ Capital :: [[Harare]]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::31.0297]
 [has_place_latitude::-17.8639]
 

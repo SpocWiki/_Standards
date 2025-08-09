@@ -22,7 +22,7 @@ OpenStreetMap_tag_or_key: Tag:amenity=mobile_library
 # [[Bookmobile]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bookmobile,720920|WD~Bookmobile,720920]] 
-#is_/sub_class_of :: [[../../../../schema-org/Class/is_a_/organization/local_business/Library|Library]] 
+#is_/sub_class_of :: [[../../../Organization/Local_Business/library|Library]] 
 
 ## #has_/text_of_/abstract 
 

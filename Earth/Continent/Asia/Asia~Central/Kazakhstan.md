@@ -477,7 +477,7 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 [Alcohol-l::11]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::71.4167]
 [has_place_latitude::51.1667]
 

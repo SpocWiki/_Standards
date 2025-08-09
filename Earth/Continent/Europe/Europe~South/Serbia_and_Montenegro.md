@@ -34,7 +34,7 @@ has_place_continent:: [[Europe]]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::20.4667]
 [has_place_latitude::44.8167]
 

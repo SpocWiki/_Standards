@@ -846,7 +846,7 @@ Capital :: [[Paris]]
 [Alcohol-l::13.7]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::2.33663]
 [has_place_latitude::46.8944]
 

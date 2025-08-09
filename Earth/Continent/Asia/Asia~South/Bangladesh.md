@@ -530,7 +530,7 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 [Alcohol-l::0.2]
 [Language-Id::468]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::90.36]
 [has_place_latitude::23.7]
 

@@ -1,3 +1,39 @@
+---
+aliases:
+- drug-class
+- drug_class
+- DrugClass
+- is_a_drug_class
+confidential: public
+cssclasses: Type
+draft: false
+expiryDate: 
+isDeleted: false
+isReadOnly: false
+keywords:
+- drug_class
+layout: 
+license: "CC BY-SA 4.0"
+linkTitle: "is_a_drug_class Class"
+publish: true
+publishDate: 
+tags:
+- class/Class
+- schema-org/Class
+title: "is_a_drug_class Class"
+type: Type
+---
+
+Class of all drug_classs.
+
+Tag Instances like this: 
+#is_a_/drug_class
+
+A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc.
+
+[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+
+[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 
 ## #has_/text_of_/abstract 

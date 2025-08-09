@@ -89,7 +89,7 @@ A technique, method or technology used in an [[Observation]], [[StatisticalVaria
 MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasurementMethodEnum"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 ### ObservationAbout
-The [[observationAbout]] property identifies an entity, often a [[Place]], associated with an [[Observation]].
+The [[observationAbout]] property identifies an entity, often a [[../../../../../Earth/Geography/Place]], associated with an [[Observation]].
 
 ObservationAbout:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 

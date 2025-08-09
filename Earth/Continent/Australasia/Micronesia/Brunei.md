@@ -407,7 +407,7 @@ Capital :: [[Brunei/Bandar_Seri_Begawan]]
 [Alcohol-l::2] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::114.942] 
 [has_place_latitude::4.89028] 
 

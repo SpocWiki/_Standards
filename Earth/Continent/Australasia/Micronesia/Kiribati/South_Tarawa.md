@@ -15,7 +15,7 @@ type: City
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::172.9667] 
 [has_place_latitude::1.4] 
 [name::South Tarawa] 

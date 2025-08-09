@@ -438,7 +438,7 @@ Capital :: [[Libreville]]
 [Alcohol-l::9.3]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::9.45]
 [has_place_latitude::0.383333]
 

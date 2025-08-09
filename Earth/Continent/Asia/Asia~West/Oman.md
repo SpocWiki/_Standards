@@ -420,7 +420,7 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 [Alcohol-l::0.9]
 [Language-Id::472]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::58.55]
 [has_place_latitude::23.48]
 

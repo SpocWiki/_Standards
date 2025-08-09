@@ -439,7 +439,7 @@ Capital :: [[Port_Louis]]
 [Alcohol-l::3.7]
 [Language-Id::499]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::57.5167]
 [has_place_latitude::-20.1667] 
 

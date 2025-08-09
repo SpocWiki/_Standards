@@ -475,7 +475,7 @@ Capital :: [[Porto-Novo1]]
 [Alcohol-l::2.2]
 [Language-Id::496]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../Geography/Place]] 
 [has_place_longitude::2.6]
 [has_place_latitude::6.46667]
 
