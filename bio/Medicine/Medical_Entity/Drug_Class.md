@@ -20,44 +20,32 @@ publishDate:
 tags:
 - class/Class
 - schema-org/Class
+- excalidraw
 title: "is_a_drug_class Class"
-type: Type
+type: private_note
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
 ---
 
-Class of all drug_classs.
+# [[Drug_Class]] 
+
+Class of all drug_classes.
 
 Tag Instances like this: 
 #is_a_/drug_class
 
-A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc.
+A class of medical drugs, e.g., statins. 
+Classes can represent general pharmacological class, 
+common mechanisms of action, common physiological effects, etc.
 
 [ #is_/sub_class_of :: [[../MedicalEntity]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
-
-
-## #has_/text_of_/abstract 
-
-> A **Drug** is any chemical substance  other than a nutrient or an essential dietary ingredient, 
-> which, when administered to a living organism, produces a biological effect. 
-> Consumption of drugs can be via inhalation, injection, smoking, ingestion, 
-> absorption via a patch on the skin, suppository, or dissolution under the tongue.
->
-> In pharmacology, a drug is a chemical substance, typically of known structure, 
-> which, when administered to a living organism, produces a biological effect. 
-> 
-> A pharmaceutical drug, also called a medication or medicine, is a chemical substance 
-> used to treat, cure, prevent, or diagnose a disease or to promote well-being. 
-> 
-> Traditionally drugs were obtained through extraction from medicinal plants, 
-> but more recently also by organic synthesis. 
-> Pharmaceutical drugs may be used for a limited duration, or on a regular basis for chronic disorders.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Drug)
-
-The name 'Drug' is derived from the fact that Drugs were traditionally produced from dried Plants. 
-It is believed to originate from the Old French word "drogue", 
-which possibly derives from the Middle Dutch term "droge". 
 
 
 ## Confidential Links & Embeds: 
@@ -76,3 +64,19 @@ which possibly derives from the Middle Dutch term "droge".
 
 ### #is_/same_as :: [drug_class.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_class.secret.md)
 
+
+# [[Drug_Class]] 
+
+#is_/part_of :: [[Drug_Class]] 
+
+
+## Embedded Graph 
+
+![[Drug_Class.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

@@ -65,7 +65,7 @@ Wikidata_property: "drug or therapy used for treatment"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pharmaceutical_Drug](/_Standards/bio/Medicine/Drug/Pharmaceutical_Drug.md) 
+### #is_/same_as :: [Pharmaceutical_Drug](Pharmaceutical_Drug.md) 
 
 ### #is_/same_as :: [Pharmaceutical_Drug.public](/_public/bio/Medicine/Drug/Pharmaceutical_Drug.public.md) 
 

@@ -1,40 +1,50 @@
 ---
 aliases:
-- drug-class
-- drug_class
-- DrugClass
-- is_a_drug_class
+- drug
+- drug
+- Drug
+- is_a_drug
 confidential: public
 cssclasses: Type
 draft: false
+equivalent_class: "http://purl.bioontology.org/ontology/SNOMEDCT/410942007"
 expiryDate: 
 isDeleted: false
 isReadOnly: false
 keywords:
-- drug_class
+- drug
 layout: 
 license: "CC BY-SA 4.0"
-linkTitle: "is_a_drug_class Class"
+linkTitle: "is_a_drug Class"
 publish: true
 publishDate: 
 tags:
-- class/Class
-- schema-org/Class
-title: "is_a_drug_class Class"
+  - class/Class
+  - schema-org/Class
+  - excalidraw
+title: "is_a_drug Class"
 type: Type
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
 ---
 
-Class of all drug_classs.
+# [[Drug]] 
+
+Class of all drugs.
 
 Tag Instances like this: 
-#is_a_/drug_class
+#is_a_/drug
 
-A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc.
+A chemical or biologic substance, used as a medical therapy, that has a physiological effect on an organism. Here the term drug is used interchangeably with the term medicine although clinical knowledge makes a clear difference between them.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+[ #is_/sub_class_of :: [[../Product, Substance]] ]
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
-
+[ #has_/properties :: [ activeIngredient, additionalProperty, additionalType, administrationRoute, aggregateRating, alcoholWarning, alternateName, asin, audience, availableStrength, award, awards, brand, breastfeedingWarning, category, clincalPharmacology, clinicalPharmacology, code, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, dosageForm, doseSchedule, drugClass, drugUnit, foodWarning, funding, gtin, gtin12, gtin13, gtin14, gtin8, guideline, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, includedInHealthInsurancePlan, interactingDrug, isAccessoryOrSparePartFor, isAvailableGenerically, isConsumableFor, isFamilyFriendly, isProprietary, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, labelDetails, legalStatus, logo, mainEntityOfPage, manufacturer, material, maximumIntake, mechanismOfAction, medicineSystem, mobileUrl, model, mpn, name, negativeNotes, nonProprietaryName, nsn, offers, overdosage, pattern, positiveNotes, potentialAction, pregnancyCategory, pregnancyWarning, prescribingInfo, prescriptionStatus, productID, productionDate, proprietaryName, purchaseDate, recognizingAuthority, relatedDrug, releaseDate, relevantSpecialty, review, reviews, rxcui, sameAs, size, sku, slogan, study, subjectOf, url, warning, weight, width ] ]
 
 ## #has_/text_of_/abstract 
 
@@ -76,3 +86,16 @@ which possibly derives from the Middle Dutch term "droge".
 
 ### #is_/same_as :: [Drug.secret](/_secret/bio/Medicine/Drug.secret.md)
 
+
+
+
+## Embedded Graph 
+
+![[Drug.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
