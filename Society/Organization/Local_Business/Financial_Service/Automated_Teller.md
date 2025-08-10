@@ -38,17 +38,17 @@ ATM/cash machine.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [automated_teller](automated_teller.md) 
+### #is_/same_as :: [Automated_Teller](/_Standards/Society/Organization/Local_Business/Financial_Service/Automated_Teller.md) 
 
-### #is_/same_as :: [automated_teller.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.public.md) 
+### #is_/same_as :: [Automated_Teller.public](/_public/Society/Organization/Local_Business/Financial_Service/Automated_Teller.public.md) 
 
-### #is_/same_as :: [automated_teller.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.internal.md) 
+### #is_/same_as :: [Automated_Teller.internal](/_internal/Society/Organization/Local_Business/Financial_Service/Automated_Teller.internal.md) 
 
-### #is_/same_as :: [automated_teller.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.protect.md) 
+### #is_/same_as :: [Automated_Teller.protect](/_protect/Society/Organization/Local_Business/Financial_Service/Automated_Teller.protect.md) 
 
-### #is_/same_as :: [automated_teller.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.private.md) 
+### #is_/same_as :: [Automated_Teller.private](/_private/Society/Organization/Local_Business/Financial_Service/Automated_Teller.private.md) 
 
-### #is_/same_as :: [automated_teller.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.personal.md) 
+### #is_/same_as :: [Automated_Teller.personal](/_personal/Society/Organization/Local_Business/Financial_Service/Automated_Teller.personal.md) 
 
-### #is_/same_as :: [automated_teller.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/automated_teller.secret.md)
+### #is_/same_as :: [Automated_Teller.secret](/_secret/Society/Organization/Local_Business/Financial_Service/Automated_Teller.secret.md)
 

@@ -130,17 +130,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adams,Douglas](Adams,Douglas.md) 
+### #is_/same_as :: [Adams,Douglas](/_Standards/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.md) 
 
-### #is_/same_as :: [Adams,Douglas.public](/_public/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.public.md) 
+### #is_/same_as :: [Adams,Douglas.public](/_public/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.public.md) 
 
-### #is_/same_as :: [Adams,Douglas.internal](/_internal/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.internal.md) 
+### #is_/same_as :: [Adams,Douglas.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.internal.md) 
 
-### #is_/same_as :: [Adams,Douglas.protect](/_protect/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.protect.md) 
+### #is_/same_as :: [Adams,Douglas.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.protect.md) 
 
-### #is_/same_as :: [Adams,Douglas.private](/_private/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.private.md) 
+### #is_/same_as :: [Adams,Douglas.private](/_private/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.private.md) 
 
-### #is_/same_as :: [Adams,Douglas.personal](/_personal/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.personal.md) 
+### #is_/same_as :: [Adams,Douglas.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.personal.md) 
 
-### #is_/same_as :: [Adams,Douglas.secret](/_secret/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Adams,Douglas.secret.md)
+### #is_/same_as :: [Adams,Douglas.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.secret.md)
 

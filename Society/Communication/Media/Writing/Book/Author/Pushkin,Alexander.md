@@ -210,17 +210,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pushkin,Alexander](Pushkin,Alexander.md) 
+### #is_/same_as :: [Pushkin,Alexander](/_Standards/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.public](/_public/Society/Communication/Media/Book/Author/Pushkin,Alexander.public.md) 
+### #is_/same_as :: [Pushkin,Alexander.public](/_public/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.public.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/Society/Communication/Media/Book/Author/Pushkin,Alexander.internal.md) 
+### #is_/same_as :: [Pushkin,Alexander.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.internal.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/Society/Communication/Media/Book/Author/Pushkin,Alexander.protect.md) 
+### #is_/same_as :: [Pushkin,Alexander.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.protect.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.private](/_private/Society/Communication/Media/Book/Author/Pushkin,Alexander.private.md) 
+### #is_/same_as :: [Pushkin,Alexander.private](/_private/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.private.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/Society/Communication/Media/Book/Author/Pushkin,Alexander.personal.md) 
+### #is_/same_as :: [Pushkin,Alexander.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.personal.md) 
 
-### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/Society/Communication/Media/Book/Author/Pushkin,Alexander.secret.md)
+### #is_/same_as :: [Pushkin,Alexander.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Pushkin,Alexander.secret.md)
 

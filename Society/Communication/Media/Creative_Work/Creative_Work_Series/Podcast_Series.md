@@ -40,17 +40,17 @@ A podcast is an episodic series of digital audio or video files which a user can
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podcast_Series](Podcast_Series.md) 
+### #is_/same_as :: [Podcast_Series](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.md) 
 
-### #is_/same_as :: [podcast_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.public.md) 
+### #is_/same_as :: [Podcast_Series.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.public.md) 
 
-### #is_/same_as :: [podcast_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.internal.md) 
+### #is_/same_as :: [Podcast_Series.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.internal.md) 
 
-### #is_/same_as :: [podcast_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.protect.md) 
+### #is_/same_as :: [Podcast_Series.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.protect.md) 
 
-### #is_/same_as :: [podcast_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.private.md) 
+### #is_/same_as :: [Podcast_Series.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.private.md) 
 
-### #is_/same_as :: [podcast_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.personal.md) 
+### #is_/same_as :: [Podcast_Series.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.personal.md) 
 
-### #is_/same_as :: [podcast_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.secret.md)
+### #is_/same_as :: [Podcast_Series.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.secret.md)
 

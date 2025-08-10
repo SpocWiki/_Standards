@@ -38,17 +38,17 @@ A TV episode which can be part of a series or season.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tv_Episode](Tv_Episode.md) 
+### #is_/same_as :: [Tv_Episode](/_Standards/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.md) 
 
-### #is_/same_as :: [tv_episode.public](/_public/schema-org/Class/is_a_/creative_work/episode/tv_episode.public.md) 
+### #is_/same_as :: [Tv_Episode.public](/_public/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.public.md) 
 
-### #is_/same_as :: [tv_episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode/tv_episode.internal.md) 
+### #is_/same_as :: [Tv_Episode.internal](/_internal/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.internal.md) 
 
-### #is_/same_as :: [tv_episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode/tv_episode.protect.md) 
+### #is_/same_as :: [Tv_Episode.protect](/_protect/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.protect.md) 
 
-### #is_/same_as :: [tv_episode.private](/_private/schema-org/Class/is_a_/creative_work/episode/tv_episode.private.md) 
+### #is_/same_as :: [Tv_Episode.private](/_private/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.private.md) 
 
-### #is_/same_as :: [tv_episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode/tv_episode.personal.md) 
+### #is_/same_as :: [Tv_Episode.personal](/_personal/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.personal.md) 
 
-### #is_/same_as :: [tv_episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode/tv_episode.secret.md)
+### #is_/same_as :: [Tv_Episode.secret](/_secret/Society/Communication/Media/Creative_Work/Episode/Tv_Episode.secret.md)
 

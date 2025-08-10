@@ -43,17 +43,17 @@ and its topic via [[../../../../schema-org/Relation/is/is_about|is_about]] prope
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comment](Comment.md) 
+### #is_/same_as :: [Comment](/_Standards/Society/Communication/Media/Creative_Work/Comment.md) 
 
-### #is_/same_as :: [comment.public](/_public/schema-org/Class/is_a_/creative_work/comment.public.md) 
+### #is_/same_as :: [Comment.public](/_public/Society/Communication/Media/Creative_Work/Comment.public.md) 
 
-### #is_/same_as :: [comment.internal](/_internal/schema-org/Class/is_a_/creative_work/comment.internal.md) 
+### #is_/same_as :: [Comment.internal](/_internal/Society/Communication/Media/Creative_Work/Comment.internal.md) 
 
-### #is_/same_as :: [comment.protect](/_protect/schema-org/Class/is_a_/creative_work/comment.protect.md) 
+### #is_/same_as :: [Comment.protect](/_protect/Society/Communication/Media/Creative_Work/Comment.protect.md) 
 
-### #is_/same_as :: [comment.private](/_private/schema-org/Class/is_a_/creative_work/comment.private.md) 
+### #is_/same_as :: [Comment.private](/_private/Society/Communication/Media/Creative_Work/Comment.private.md) 
 
-### #is_/same_as :: [comment.personal](/_personal/schema-org/Class/is_a_/creative_work/comment.personal.md) 
+### #is_/same_as :: [Comment.personal](/_personal/Society/Communication/Media/Creative_Work/Comment.personal.md) 
 
-### #is_/same_as :: [comment.secret](/_secret/schema-org/Class/is_a_/creative_work/comment.secret.md)
+### #is_/same_as :: [Comment.secret](/_secret/Society/Communication/Media/Creative_Work/Comment.secret.md)
 

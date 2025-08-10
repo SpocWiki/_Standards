@@ -68,17 +68,17 @@ has_id_wikidata: Q129104
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthrax](Anthrax.md) 
+### #is_/same_as :: [Anthrax](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.md) 
 
-### #is_/same_as :: [Anthrax.public](/_public/bio/Medicine/Disease/Infectious_Disease/Anthrax.public.md) 
+### #is_/same_as :: [Anthrax.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.public.md) 
 
-### #is_/same_as :: [Anthrax.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Anthrax.internal.md) 
+### #is_/same_as :: [Anthrax.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.internal.md) 
 
-### #is_/same_as :: [Anthrax.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Anthrax.protect.md) 
+### #is_/same_as :: [Anthrax.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.protect.md) 
 
-### #is_/same_as :: [Anthrax.private](/_private/bio/Medicine/Disease/Infectious_Disease/Anthrax.private.md) 
+### #is_/same_as :: [Anthrax.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.private.md) 
 
-### #is_/same_as :: [Anthrax.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Anthrax.personal.md) 
+### #is_/same_as :: [Anthrax.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.personal.md) 
 
-### #is_/same_as :: [Anthrax.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Anthrax.secret.md)
+### #is_/same_as :: [Anthrax.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Anthrax.secret.md)
 

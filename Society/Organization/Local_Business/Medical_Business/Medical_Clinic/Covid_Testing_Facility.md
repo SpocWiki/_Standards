@@ -43,17 +43,17 @@ A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Cor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [covid_testing_facility](covid_testing_facility.md) 
+### #is_/same_as :: [Covid_Testing_Facility](/_Standards/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.md) 
 
-### #is_/same_as :: [covid_testing_facility.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.public.md) 
+### #is_/same_as :: [Covid_Testing_Facility.public](/_public/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.public.md) 
 
-### #is_/same_as :: [covid_testing_facility.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.internal.md) 
+### #is_/same_as :: [Covid_Testing_Facility.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.internal.md) 
 
-### #is_/same_as :: [covid_testing_facility.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.protect.md) 
+### #is_/same_as :: [Covid_Testing_Facility.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.protect.md) 
 
-### #is_/same_as :: [covid_testing_facility.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.private.md) 
+### #is_/same_as :: [Covid_Testing_Facility.private](/_private/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.private.md) 
 
-### #is_/same_as :: [covid_testing_facility.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.personal.md) 
+### #is_/same_as :: [Covid_Testing_Facility.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.personal.md) 
 
-### #is_/same_as :: [covid_testing_facility.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.secret.md)
+### #is_/same_as :: [Covid_Testing_Facility.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Medical_Clinic/Covid_Testing_Facility.secret.md)
 

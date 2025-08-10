@@ -38,17 +38,17 @@ Animal shelter.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [animal_shelter](animal_shelter.md) 
+### #is_/same_as :: [Animal_Shelter](/_Standards/Society/Organization/Local_Business/Animal_Shelter.md) 
 
-### #is_/same_as :: [animal_shelter.public](/_public/schema-org/Class/is_a_/organization/local_business/animal_shelter.public.md) 
+### #is_/same_as :: [Animal_Shelter.public](/_public/Society/Organization/Local_Business/Animal_Shelter.public.md) 
 
-### #is_/same_as :: [animal_shelter.internal](/_internal/schema-org/Class/is_a_/organization/local_business/animal_shelter.internal.md) 
+### #is_/same_as :: [Animal_Shelter.internal](/_internal/Society/Organization/Local_Business/Animal_Shelter.internal.md) 
 
-### #is_/same_as :: [animal_shelter.protect](/_protect/schema-org/Class/is_a_/organization/local_business/animal_shelter.protect.md) 
+### #is_/same_as :: [Animal_Shelter.protect](/_protect/Society/Organization/Local_Business/Animal_Shelter.protect.md) 
 
-### #is_/same_as :: [animal_shelter.private](/_private/schema-org/Class/is_a_/organization/local_business/animal_shelter.private.md) 
+### #is_/same_as :: [Animal_Shelter.private](/_private/Society/Organization/Local_Business/Animal_Shelter.private.md) 
 
-### #is_/same_as :: [animal_shelter.personal](/_personal/schema-org/Class/is_a_/organization/local_business/animal_shelter.personal.md) 
+### #is_/same_as :: [Animal_Shelter.personal](/_personal/Society/Organization/Local_Business/Animal_Shelter.personal.md) 
 
-### #is_/same_as :: [animal_shelter.secret](/_secret/schema-org/Class/is_a_/organization/local_business/animal_shelter.secret.md)
+### #is_/same_as :: [Animal_Shelter.secret](/_secret/Society/Organization/Local_Business/Animal_Shelter.secret.md)
 

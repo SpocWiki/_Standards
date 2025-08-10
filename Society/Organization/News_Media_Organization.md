@@ -40,17 +40,17 @@ A News/Media organization such as a newspaper or TV station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [news_media_organization](news_media_organization.md) 
+### #is_/same_as :: [News_Media_Organization](/_Standards/Society/Organization/News_Media_Organization.md) 
 
-### #is_/same_as :: [news_media_organization.public](/_public/schema-org/Class/is_a_/organization/news_media_organization.public.md) 
+### #is_/same_as :: [News_Media_Organization.public](/_public/Society/Organization/News_Media_Organization.public.md) 
 
-### #is_/same_as :: [news_media_organization.internal](/_internal/schema-org/Class/is_a_/organization/news_media_organization.internal.md) 
+### #is_/same_as :: [News_Media_Organization.internal](/_internal/Society/Organization/News_Media_Organization.internal.md) 
 
-### #is_/same_as :: [news_media_organization.protect](/_protect/schema-org/Class/is_a_/organization/news_media_organization.protect.md) 
+### #is_/same_as :: [News_Media_Organization.protect](/_protect/Society/Organization/News_Media_Organization.protect.md) 
 
-### #is_/same_as :: [news_media_organization.private](/_private/schema-org/Class/is_a_/organization/news_media_organization.private.md) 
+### #is_/same_as :: [News_Media_Organization.private](/_private/Society/Organization/News_Media_Organization.private.md) 
 
-### #is_/same_as :: [news_media_organization.personal](/_personal/schema-org/Class/is_a_/organization/news_media_organization.personal.md) 
+### #is_/same_as :: [News_Media_Organization.personal](/_personal/Society/Organization/News_Media_Organization.personal.md) 
 
-### #is_/same_as :: [news_media_organization.secret](/_secret/schema-org/Class/is_a_/organization/news_media_organization.secret.md)
+### #is_/same_as :: [News_Media_Organization.secret](/_secret/Society/Organization/News_Media_Organization.secret.md)
 

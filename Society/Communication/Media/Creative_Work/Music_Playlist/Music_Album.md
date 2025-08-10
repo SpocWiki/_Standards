@@ -38,17 +38,17 @@ A collection of music tracks.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Album](Music_Album.md) 
+### #is_/same_as :: [Music_Album](/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.md) 
 
-### #is_/same_as :: [music_album.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist/music_album.public.md) 
+### #is_/same_as :: [Music_Album.public](/_public/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.public.md) 
 
-### #is_/same_as :: [music_album.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist/music_album.internal.md) 
+### #is_/same_as :: [Music_Album.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.internal.md) 
 
-### #is_/same_as :: [music_album.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist/music_album.protect.md) 
+### #is_/same_as :: [Music_Album.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.protect.md) 
 
-### #is_/same_as :: [music_album.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist/music_album.private.md) 
+### #is_/same_as :: [Music_Album.private](/_private/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.private.md) 
 
-### #is_/same_as :: [music_album.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist/music_album.personal.md) 
+### #is_/same_as :: [Music_Album.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.personal.md) 
 
-### #is_/same_as :: [music_album.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist/music_album.secret.md)
+### #is_/same_as :: [Music_Album.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.secret.md)
 

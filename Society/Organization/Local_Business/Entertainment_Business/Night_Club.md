@@ -38,17 +38,17 @@ A nightclub or discotheque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Night_Club](Night_Club.md) 
+### #is_/same_as :: [Night_Club](/_Standards/Society/Organization/Local_Business/Entertainment_Business/Night_Club.md) 
 
-### #is_/same_as :: [night_club.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.public.md) 
+### #is_/same_as :: [Night_Club.public](/_public/Society/Organization/Local_Business/Entertainment_Business/Night_Club.public.md) 
 
-### #is_/same_as :: [night_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.internal.md) 
+### #is_/same_as :: [Night_Club.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business/Night_Club.internal.md) 
 
-### #is_/same_as :: [night_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.protect.md) 
+### #is_/same_as :: [Night_Club.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business/Night_Club.protect.md) 
 
-### #is_/same_as :: [night_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.private.md) 
+### #is_/same_as :: [Night_Club.private](/_private/Society/Organization/Local_Business/Entertainment_Business/Night_Club.private.md) 
 
-### #is_/same_as :: [night_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.personal.md) 
+### #is_/same_as :: [Night_Club.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business/Night_Club.personal.md) 
 
-### #is_/same_as :: [night_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.secret.md)
+### #is_/same_as :: [Night_Club.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business/Night_Club.secret.md)
 

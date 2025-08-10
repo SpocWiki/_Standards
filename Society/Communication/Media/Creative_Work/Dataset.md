@@ -41,17 +41,17 @@ A body of structured information describing some topic(s) of interest.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dataset](Dataset.md) 
+### #is_/same_as :: [Dataset](/_Standards/Society/Communication/Media/Creative_Work/Dataset.md) 
 
-### #is_/same_as :: [dataset.public](/_public/schema-org/Class/is_a_/creative_work/dataset.public.md) 
+### #is_/same_as :: [Dataset.public](/_public/Society/Communication/Media/Creative_Work/Dataset.public.md) 
 
-### #is_/same_as :: [dataset.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset.internal.md) 
+### #is_/same_as :: [Dataset.internal](/_internal/Society/Communication/Media/Creative_Work/Dataset.internal.md) 
 
-### #is_/same_as :: [dataset.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset.protect.md) 
+### #is_/same_as :: [Dataset.protect](/_protect/Society/Communication/Media/Creative_Work/Dataset.protect.md) 
 
-### #is_/same_as :: [dataset.private](/_private/schema-org/Class/is_a_/creative_work/dataset.private.md) 
+### #is_/same_as :: [Dataset.private](/_private/Society/Communication/Media/Creative_Work/Dataset.private.md) 
 
-### #is_/same_as :: [dataset.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset.personal.md) 
+### #is_/same_as :: [Dataset.personal](/_personal/Society/Communication/Media/Creative_Work/Dataset.personal.md) 
 
-### #is_/same_as :: [dataset.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset.secret.md)
+### #is_/same_as :: [Dataset.secret](/_secret/Society/Communication/Media/Creative_Work/Dataset.secret.md)
 

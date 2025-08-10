@@ -38,17 +38,17 @@ A city or town.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [City](City.md) 
+### #is_/same_as :: [City](/_Standards/Earth/Geography/Place/Administrative_Area/City.md) 
 
-### #is_/same_as :: [city.public](/_public/schema-org/Class/is_a_/place/administrative_area/city.public.md) 
+### #is_/same_as :: [City.public](/_public/Earth/Geography/Place/Administrative_Area/City.public.md) 
 
-### #is_/same_as :: [city.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/city.internal.md) 
+### #is_/same_as :: [City.internal](/_internal/Earth/Geography/Place/Administrative_Area/City.internal.md) 
 
-### #is_/same_as :: [city.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/city.protect.md) 
+### #is_/same_as :: [City.protect](/_protect/Earth/Geography/Place/Administrative_Area/City.protect.md) 
 
-### #is_/same_as :: [city.private](/_private/schema-org/Class/is_a_/place/administrative_area/city.private.md) 
+### #is_/same_as :: [City.private](/_private/Earth/Geography/Place/Administrative_Area/City.private.md) 
 
-### #is_/same_as :: [city.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/city.personal.md) 
+### #is_/same_as :: [City.personal](/_personal/Earth/Geography/Place/Administrative_Area/City.personal.md) 
 
-### #is_/same_as :: [city.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/city.secret.md)
+### #is_/same_as :: [City.secret](/_secret/Earth/Geography/Place/Administrative_Area/City.secret.md)
 

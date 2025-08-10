@@ -39,17 +39,17 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [plastic_surgery](plastic_surgery.md) 
+### #is_/same_as :: [Plastic_Surgery](/_Standards/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.md) 
 
-### #is_/same_as :: [plastic_surgery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.public.md) 
+### #is_/same_as :: [Plastic_Surgery.public](/_public/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.public.md) 
 
-### #is_/same_as :: [plastic_surgery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.internal.md) 
+### #is_/same_as :: [Plastic_Surgery.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.internal.md) 
 
-### #is_/same_as :: [plastic_surgery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.protect.md) 
+### #is_/same_as :: [Plastic_Surgery.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.protect.md) 
 
-### #is_/same_as :: [plastic_surgery.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.private.md) 
+### #is_/same_as :: [Plastic_Surgery.private](/_private/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.private.md) 
 
-### #is_/same_as :: [plastic_surgery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.personal.md) 
+### #is_/same_as :: [Plastic_Surgery.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.personal.md) 
 
-### #is_/same_as :: [plastic_surgery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.secret.md)
+### #is_/same_as :: [Plastic_Surgery.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Plastic_Surgery.secret.md)
 

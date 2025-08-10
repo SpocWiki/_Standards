@@ -57,17 +57,17 @@ Baidu_Tieba_name: 烧伤
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burn](Burn.md) 
+### #is_/same_as :: [Burn](/_Standards/bio/Medicine/Medical_Condition/Injury/Burn.md) 
 
-### #is_/same_as :: [Burn.public](/_public/bio/Medicine/Injury/Burn.public.md) 
+### #is_/same_as :: [Burn.public](/_public/bio/Medicine/Medical_Condition/Injury/Burn.public.md) 
 
-### #is_/same_as :: [Burn.internal](/_internal/bio/Medicine/Injury/Burn.internal.md) 
+### #is_/same_as :: [Burn.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Burn.internal.md) 
 
-### #is_/same_as :: [Burn.protect](/_protect/bio/Medicine/Injury/Burn.protect.md) 
+### #is_/same_as :: [Burn.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Burn.protect.md) 
 
-### #is_/same_as :: [Burn.private](/_private/bio/Medicine/Injury/Burn.private.md) 
+### #is_/same_as :: [Burn.private](/_private/bio/Medicine/Medical_Condition/Injury/Burn.private.md) 
 
-### #is_/same_as :: [Burn.personal](/_personal/bio/Medicine/Injury/Burn.personal.md) 
+### #is_/same_as :: [Burn.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Burn.personal.md) 
 
-### #is_/same_as :: [Burn.secret](/_secret/bio/Medicine/Injury/Burn.secret.md)
+### #is_/same_as :: [Burn.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Burn.secret.md)
 

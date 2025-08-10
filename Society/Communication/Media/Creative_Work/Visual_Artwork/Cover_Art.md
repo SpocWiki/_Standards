@@ -42,17 +42,17 @@ The artwork on the outer surface of a CreativeWork.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cover_Art](Cover_Art.md) 
+### #is_/same_as :: [Cover_Art](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.md) 
 
-### #is_/same_as :: [cover_art.public](/_public/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.public.md) 
+### #is_/same_as :: [Cover_Art.public](/_public/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.public.md) 
 
-### #is_/same_as :: [cover_art.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.internal.md) 
+### #is_/same_as :: [Cover_Art.internal](/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.internal.md) 
 
-### #is_/same_as :: [cover_art.protect](/_protect/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.protect.md) 
+### #is_/same_as :: [Cover_Art.protect](/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.protect.md) 
 
-### #is_/same_as :: [cover_art.private](/_private/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.private.md) 
+### #is_/same_as :: [Cover_Art.private](/_private/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.private.md) 
 
-### #is_/same_as :: [cover_art.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.personal.md) 
+### #is_/same_as :: [Cover_Art.personal](/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.personal.md) 
 
-### #is_/same_as :: [cover_art.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork/cover_art.secret.md)
+### #is_/same_as :: [Cover_Art.secret](/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork/Cover_Art.secret.md)
 

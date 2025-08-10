@@ -86,17 +86,17 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/GRIMM_YAKOB_I_VILGELM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brothers_Grimm](Brothers_Grimm.md) 
+### #is_/same_as :: [Brothers_Grimm](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.md) 
 
-### #is_/same_as :: [Brothers_Grimm.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Brothers_Grimm.public.md) 
+### #is_/same_as :: [Brothers_Grimm.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.public.md) 
 
-### #is_/same_as :: [Brothers_Grimm.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Brothers_Grimm.internal.md) 
+### #is_/same_as :: [Brothers_Grimm.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.internal.md) 
 
-### #is_/same_as :: [Brothers_Grimm.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Brothers_Grimm.protect.md) 
+### #is_/same_as :: [Brothers_Grimm.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.protect.md) 
 
-### #is_/same_as :: [Brothers_Grimm.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Brothers_Grimm.private.md) 
+### #is_/same_as :: [Brothers_Grimm.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.private.md) 
 
-### #is_/same_as :: [Brothers_Grimm.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Brothers_Grimm.personal.md) 
+### #is_/same_as :: [Brothers_Grimm.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.personal.md) 
 
-### #is_/same_as :: [Brothers_Grimm.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Brothers_Grimm.secret.md)
+### #is_/same_as :: [Brothers_Grimm.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Brothers_Grimm.secret.md)
 

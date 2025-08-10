@@ -38,17 +38,17 @@ A page devoted to a single item, such as a particular product or hotel.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_Page](Item_Page.md) 
+### #is_/same_as :: [Item_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.md) 
 
-### #is_/same_as :: [item_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/item_page.public.md) 
+### #is_/same_as :: [Item_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.public.md) 
 
-### #is_/same_as :: [item_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/item_page.internal.md) 
+### #is_/same_as :: [Item_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.internal.md) 
 
-### #is_/same_as :: [item_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/item_page.protect.md) 
+### #is_/same_as :: [Item_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.protect.md) 
 
-### #is_/same_as :: [item_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/item_page.private.md) 
+### #is_/same_as :: [Item_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.private.md) 
 
-### #is_/same_as :: [item_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/item_page.personal.md) 
+### #is_/same_as :: [Item_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.personal.md) 
 
-### #is_/same_as :: [item_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/item_page.secret.md)
+### #is_/same_as :: [Item_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.secret.md)
 

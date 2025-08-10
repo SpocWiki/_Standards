@@ -38,17 +38,17 @@ An office equipment store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [office_equipment_store](office_equipment_store.md) 
+### #is_/same_as :: [Office_Equipment_Store](/_Standards/Society/Organization/Local_Business/Store/Office_Equipment_Store.md) 
 
-### #is_/same_as :: [office_equipment_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/office_equipment_store.public.md) 
+### #is_/same_as :: [Office_Equipment_Store.public](/_public/Society/Organization/Local_Business/Store/Office_Equipment_Store.public.md) 
 
-### #is_/same_as :: [office_equipment_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/office_equipment_store.internal.md) 
+### #is_/same_as :: [Office_Equipment_Store.internal](/_internal/Society/Organization/Local_Business/Store/Office_Equipment_Store.internal.md) 
 
-### #is_/same_as :: [office_equipment_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/office_equipment_store.protect.md) 
+### #is_/same_as :: [Office_Equipment_Store.protect](/_protect/Society/Organization/Local_Business/Store/Office_Equipment_Store.protect.md) 
 
-### #is_/same_as :: [office_equipment_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/office_equipment_store.private.md) 
+### #is_/same_as :: [Office_Equipment_Store.private](/_private/Society/Organization/Local_Business/Store/Office_Equipment_Store.private.md) 
 
-### #is_/same_as :: [office_equipment_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/office_equipment_store.personal.md) 
+### #is_/same_as :: [Office_Equipment_Store.personal](/_personal/Society/Organization/Local_Business/Store/Office_Equipment_Store.personal.md) 
 
-### #is_/same_as :: [office_equipment_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/office_equipment_store.secret.md)
+### #is_/same_as :: [Office_Equipment_Store.secret](/_secret/Society/Organization/Local_Business/Store/Office_Equipment_Store.secret.md)
 

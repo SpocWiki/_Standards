@@ -40,17 +40,17 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poster](Poster.md) 
+### #is_/same_as :: [Poster](/_Standards/Society/Communication/Media/Creative_Work/Poster.md) 
 
-### #is_/same_as :: [poster.public](/_public/schema-org/Class/is_a_/creative_work/poster.public.md) 
+### #is_/same_as :: [Poster.public](/_public/Society/Communication/Media/Creative_Work/Poster.public.md) 
 
-### #is_/same_as :: [poster.internal](/_internal/schema-org/Class/is_a_/creative_work/poster.internal.md) 
+### #is_/same_as :: [Poster.internal](/_internal/Society/Communication/Media/Creative_Work/Poster.internal.md) 
 
-### #is_/same_as :: [poster.protect](/_protect/schema-org/Class/is_a_/creative_work/poster.protect.md) 
+### #is_/same_as :: [Poster.protect](/_protect/Society/Communication/Media/Creative_Work/Poster.protect.md) 
 
-### #is_/same_as :: [poster.private](/_private/schema-org/Class/is_a_/creative_work/poster.private.md) 
+### #is_/same_as :: [Poster.private](/_private/Society/Communication/Media/Creative_Work/Poster.private.md) 
 
-### #is_/same_as :: [poster.personal](/_personal/schema-org/Class/is_a_/creative_work/poster.personal.md) 
+### #is_/same_as :: [Poster.personal](/_personal/Society/Communication/Media/Creative_Work/Poster.personal.md) 
 
-### #is_/same_as :: [poster.secret](/_secret/schema-org/Class/is_a_/creative_work/poster.secret.md)
+### #is_/same_as :: [Poster.secret](/_secret/Society/Communication/Media/Creative_Work/Poster.secret.md)
 

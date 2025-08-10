@@ -38,17 +38,17 @@ Web page type: Video gallery page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Gallery](Video_Gallery.md) 
+### #is_/same_as :: [Video_Gallery](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.md) 
 
-### #is_/same_as :: [video_gallery.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.public.md) 
+### #is_/same_as :: [Video_Gallery.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.public.md) 
 
-### #is_/same_as :: [video_gallery.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.internal.md) 
+### #is_/same_as :: [Video_Gallery.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.internal.md) 
 
-### #is_/same_as :: [video_gallery.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.protect.md) 
+### #is_/same_as :: [Video_Gallery.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.protect.md) 
 
-### #is_/same_as :: [video_gallery.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.private.md) 
+### #is_/same_as :: [Video_Gallery.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.private.md) 
 
-### #is_/same_as :: [video_gallery.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.personal.md) 
+### #is_/same_as :: [Video_Gallery.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.personal.md) 
 
-### #is_/same_as :: [video_gallery.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.secret.md)
+### #is_/same_as :: [Video_Gallery.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.secret.md)
 

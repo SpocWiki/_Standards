@@ -179,17 +179,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marx,Karl](Marx,Karl.md) 
+### #is_/same_as :: [Marx,Karl](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.md) 
 
-### #is_/same_as :: [Marx,Karl.public](/_public/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.public.md) 
+### #is_/same_as :: [Marx,Karl.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.public.md) 
 
-### #is_/same_as :: [Marx,Karl.internal](/_internal/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.internal.md) 
+### #is_/same_as :: [Marx,Karl.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.internal.md) 
 
-### #is_/same_as :: [Marx,Karl.protect](/_protect/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.protect.md) 
+### #is_/same_as :: [Marx,Karl.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.protect.md) 
 
-### #is_/same_as :: [Marx,Karl.private](/_private/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.private.md) 
+### #is_/same_as :: [Marx,Karl.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.private.md) 
 
-### #is_/same_as :: [Marx,Karl.personal](/_personal/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.personal.md) 
+### #is_/same_as :: [Marx,Karl.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.personal.md) 
 
-### #is_/same_as :: [Marx,Karl.secret](/_secret/Society/Communication/Media/Book/Writer/Political_Writers/Marx,Karl.secret.md)
+### #is_/same_as :: [Marx,Karl.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Marx,Karl.secret.md)
 

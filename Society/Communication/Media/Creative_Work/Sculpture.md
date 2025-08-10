@@ -38,17 +38,17 @@ A piece of sculpture.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sculpture](Sculpture.md) 
+### #is_/same_as :: [Sculpture](/_Standards/Society/Communication/Media/Creative_Work/Sculpture.md) 
 
-### #is_/same_as :: [sculpture.public](/_public/schema-org/Class/is_a_/creative_work/sculpture.public.md) 
+### #is_/same_as :: [Sculpture.public](/_public/Society/Communication/Media/Creative_Work/Sculpture.public.md) 
 
-### #is_/same_as :: [sculpture.internal](/_internal/schema-org/Class/is_a_/creative_work/sculpture.internal.md) 
+### #is_/same_as :: [Sculpture.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture.internal.md) 
 
-### #is_/same_as :: [sculpture.protect](/_protect/schema-org/Class/is_a_/creative_work/sculpture.protect.md) 
+### #is_/same_as :: [Sculpture.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture.protect.md) 
 
-### #is_/same_as :: [sculpture.private](/_private/schema-org/Class/is_a_/creative_work/sculpture.private.md) 
+### #is_/same_as :: [Sculpture.private](/_private/Society/Communication/Media/Creative_Work/Sculpture.private.md) 
 
-### #is_/same_as :: [sculpture.personal](/_personal/schema-org/Class/is_a_/creative_work/sculpture.personal.md) 
+### #is_/same_as :: [Sculpture.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture.personal.md) 
 
-### #is_/same_as :: [sculpture.secret](/_secret/schema-org/Class/is_a_/creative_work/sculpture.secret.md)
+### #is_/same_as :: [Sculpture.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture.secret.md)
 

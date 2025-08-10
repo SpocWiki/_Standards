@@ -45,17 +45,17 @@ A satirical article is sometimes but not necessarily also a [[NewsArticle]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satirical_Article](Satirical_Article.md) 
+### #is_/same_as :: [Satirical_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/Satirical_Article.md) 
 
-### #is_/same_as :: [satirical_article.public](/_public/schema-org/Class/is_a_/creative_work/article/satirical_article.public.md) 
+### #is_/same_as :: [Satirical_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/Satirical_Article.public.md) 
 
-### #is_/same_as :: [satirical_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/satirical_article.internal.md) 
+### #is_/same_as :: [Satirical_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Satirical_Article.internal.md) 
 
-### #is_/same_as :: [satirical_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/satirical_article.protect.md) 
+### #is_/same_as :: [Satirical_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Satirical_Article.protect.md) 
 
-### #is_/same_as :: [satirical_article.private](/_private/schema-org/Class/is_a_/creative_work/article/satirical_article.private.md) 
+### #is_/same_as :: [Satirical_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/Satirical_Article.private.md) 
 
-### #is_/same_as :: [satirical_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/satirical_article.personal.md) 
+### #is_/same_as :: [Satirical_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Satirical_Article.personal.md) 
 
-### #is_/same_as :: [satirical_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/satirical_article.secret.md)
+### #is_/same_as :: [Satirical_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Satirical_Article.secret.md)
 

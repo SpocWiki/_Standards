@@ -43,17 +43,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brain_Tumor](Brain_Tumor.md) 
+### #is_/same_as :: [Brain_Tumor](/_Standards/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.md) 
 
-### #is_/same_as :: [Brain_Tumor.public](/_public/bio/Medicine/Disease/Cancer/Brain_Tumor.public.md) 
+### #is_/same_as :: [Brain_Tumor.public](/_public/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.public.md) 
 
-### #is_/same_as :: [Brain_Tumor.internal](/_internal/bio/Medicine/Disease/Cancer/Brain_Tumor.internal.md) 
+### #is_/same_as :: [Brain_Tumor.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.internal.md) 
 
-### #is_/same_as :: [Brain_Tumor.protect](/_protect/bio/Medicine/Disease/Cancer/Brain_Tumor.protect.md) 
+### #is_/same_as :: [Brain_Tumor.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.protect.md) 
 
-### #is_/same_as :: [Brain_Tumor.private](/_private/bio/Medicine/Disease/Cancer/Brain_Tumor.private.md) 
+### #is_/same_as :: [Brain_Tumor.private](/_private/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.private.md) 
 
-### #is_/same_as :: [Brain_Tumor.personal](/_personal/bio/Medicine/Disease/Cancer/Brain_Tumor.personal.md) 
+### #is_/same_as :: [Brain_Tumor.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.personal.md) 
 
-### #is_/same_as :: [Brain_Tumor.secret](/_secret/bio/Medicine/Disease/Cancer/Brain_Tumor.secret.md)
+### #is_/same_as :: [Brain_Tumor.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Cancer/Brain_Tumor.secret.md)
 

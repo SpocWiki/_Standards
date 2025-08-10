@@ -38,17 +38,17 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Superficial_Anatomy](Superficial_Anatomy.md) 
+### #is_/same_as :: [Superficial_Anatomy](/_Standards/bio/Medicine/Medical_Entity/Superficial_Anatomy.md) 
 
-### #is_/same_as :: [superficial_anatomy.public](/_public/schema-org/Class/is_a_/medical_entity/superficial_anatomy.public.md) 
+### #is_/same_as :: [Superficial_Anatomy.public](/_public/bio/Medicine/Medical_Entity/Superficial_Anatomy.public.md) 
 
-### #is_/same_as :: [superficial_anatomy.internal](/_internal/schema-org/Class/is_a_/medical_entity/superficial_anatomy.internal.md) 
+### #is_/same_as :: [Superficial_Anatomy.internal](/_internal/bio/Medicine/Medical_Entity/Superficial_Anatomy.internal.md) 
 
-### #is_/same_as :: [superficial_anatomy.protect](/_protect/schema-org/Class/is_a_/medical_entity/superficial_anatomy.protect.md) 
+### #is_/same_as :: [Superficial_Anatomy.protect](/_protect/bio/Medicine/Medical_Entity/Superficial_Anatomy.protect.md) 
 
-### #is_/same_as :: [superficial_anatomy.private](/_private/schema-org/Class/is_a_/medical_entity/superficial_anatomy.private.md) 
+### #is_/same_as :: [Superficial_Anatomy.private](/_private/bio/Medicine/Medical_Entity/Superficial_Anatomy.private.md) 
 
-### #is_/same_as :: [superficial_anatomy.personal](/_personal/schema-org/Class/is_a_/medical_entity/superficial_anatomy.personal.md) 
+### #is_/same_as :: [Superficial_Anatomy.personal](/_personal/bio/Medicine/Medical_Entity/Superficial_Anatomy.personal.md) 
 
-### #is_/same_as :: [superficial_anatomy.secret](/_secret/schema-org/Class/is_a_/medical_entity/superficial_anatomy.secret.md)
+### #is_/same_as :: [Superficial_Anatomy.secret](/_secret/bio/Medicine/Medical_Entity/Superficial_Anatomy.secret.md)
 

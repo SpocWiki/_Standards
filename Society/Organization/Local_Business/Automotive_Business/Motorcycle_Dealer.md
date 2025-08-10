@@ -38,17 +38,17 @@ A motorcycle dealer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [motorcycle_dealer](motorcycle_dealer.md) 
+### #is_/same_as :: [Motorcycle_Dealer](/_Standards/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.md) 
 
-### #is_/same_as :: [motorcycle_dealer.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.public.md) 
+### #is_/same_as :: [Motorcycle_Dealer.public](/_public/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.public.md) 
 
-### #is_/same_as :: [motorcycle_dealer.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.internal.md) 
+### #is_/same_as :: [Motorcycle_Dealer.internal](/_internal/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.internal.md) 
 
-### #is_/same_as :: [motorcycle_dealer.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.protect.md) 
+### #is_/same_as :: [Motorcycle_Dealer.protect](/_protect/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.protect.md) 
 
-### #is_/same_as :: [motorcycle_dealer.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.private.md) 
+### #is_/same_as :: [Motorcycle_Dealer.private](/_private/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.private.md) 
 
-### #is_/same_as :: [motorcycle_dealer.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.personal.md) 
+### #is_/same_as :: [Motorcycle_Dealer.personal](/_personal/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.personal.md) 
 
-### #is_/same_as :: [motorcycle_dealer.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.secret.md)
+### #is_/same_as :: [Motorcycle_Dealer.secret](/_secret/Society/Organization/Local_Business/Automotive_Business/Motorcycle_Dealer.secret.md)
 

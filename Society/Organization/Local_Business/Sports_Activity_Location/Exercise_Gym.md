@@ -38,17 +38,17 @@ A gym.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [exercise_gym](exercise_gym.md) 
+### #is_/same_as :: [Exercise_Gym](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.md) 
 
-### #is_/same_as :: [exercise_gym.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.public.md) 
+### #is_/same_as :: [Exercise_Gym.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.public.md) 
 
-### #is_/same_as :: [exercise_gym.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.internal.md) 
+### #is_/same_as :: [Exercise_Gym.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.internal.md) 
 
-### #is_/same_as :: [exercise_gym.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.protect.md) 
+### #is_/same_as :: [Exercise_Gym.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.protect.md) 
 
-### #is_/same_as :: [exercise_gym.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.private.md) 
+### #is_/same_as :: [Exercise_Gym.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.private.md) 
 
-### #is_/same_as :: [exercise_gym.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.personal.md) 
+### #is_/same_as :: [Exercise_Gym.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.personal.md) 
 
-### #is_/same_as :: [exercise_gym.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/exercise_gym.secret.md)
+### #is_/same_as :: [Exercise_Gym.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Exercise_Gym.secret.md)
 

@@ -40,17 +40,17 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [User_Review](User_Review.md) 
+### #is_/same_as :: [User_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/User_Review.md) 
 
-### #is_/same_as :: [user_review.public](/_public/schema-org/Class/is_a_/creative_work/review/user_review.public.md) 
+### #is_/same_as :: [User_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/User_Review.public.md) 
 
-### #is_/same_as :: [user_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/user_review.internal.md) 
+### #is_/same_as :: [User_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/User_Review.internal.md) 
 
-### #is_/same_as :: [user_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/user_review.protect.md) 
+### #is_/same_as :: [User_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/User_Review.protect.md) 
 
-### #is_/same_as :: [user_review.private](/_private/schema-org/Class/is_a_/creative_work/review/user_review.private.md) 
+### #is_/same_as :: [User_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/User_Review.private.md) 
 
-### #is_/same_as :: [user_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/user_review.personal.md) 
+### #is_/same_as :: [User_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/User_Review.personal.md) 
 
-### #is_/same_as :: [user_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/user_review.secret.md)
+### #is_/same_as :: [User_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/User_Review.secret.md)
 

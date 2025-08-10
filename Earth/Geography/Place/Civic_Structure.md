@@ -40,17 +40,17 @@ A public structure, such as a town hall or concert hall.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civic_Structure](Civic_Structure.md) 
+### #is_/same_as :: [Civic_Structure](/_Standards/Earth/Geography/Place/Civic_Structure.md) 
 
-### #is_/same_as :: [civic_structure.public](/_public/schema-org/Class/is_a_/place/civic_structure.public.md) 
+### #is_/same_as :: [Civic_Structure.public](/_public/Earth/Geography/Place/Civic_Structure.public.md) 
 
-### #is_/same_as :: [civic_structure.internal](/_internal/schema-org/Class/is_a_/place/civic_structure.internal.md) 
+### #is_/same_as :: [Civic_Structure.internal](/_internal/Earth/Geography/Place/Civic_Structure.internal.md) 
 
-### #is_/same_as :: [civic_structure.protect](/_protect/schema-org/Class/is_a_/place/civic_structure.protect.md) 
+### #is_/same_as :: [Civic_Structure.protect](/_protect/Earth/Geography/Place/Civic_Structure.protect.md) 
 
-### #is_/same_as :: [civic_structure.private](/_private/schema-org/Class/is_a_/place/civic_structure.private.md) 
+### #is_/same_as :: [Civic_Structure.private](/_private/Earth/Geography/Place/Civic_Structure.private.md) 
 
-### #is_/same_as :: [civic_structure.personal](/_personal/schema-org/Class/is_a_/place/civic_structure.personal.md) 
+### #is_/same_as :: [Civic_Structure.personal](/_personal/Earth/Geography/Place/Civic_Structure.personal.md) 
 
-### #is_/same_as :: [civic_structure.secret](/_secret/schema-org/Class/is_a_/place/civic_structure.secret.md)
+### #is_/same_as :: [Civic_Structure.secret](/_secret/Earth/Geography/Place/Civic_Structure.secret.md)
 

@@ -42,17 +42,17 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Content](Web_Content.md) 
+### #is_/same_as :: [Web_Content](/_Standards/Society/Communication/Media/Creative_Work/Web_Content.md) 
 
-### #is_/same_as :: [web_content.public](/_public/schema-org/Class/is_a_/creative_work/web_content.public.md) 
+### #is_/same_as :: [Web_Content.public](/_public/Society/Communication/Media/Creative_Work/Web_Content.public.md) 
 
-### #is_/same_as :: [web_content.internal](/_internal/schema-org/Class/is_a_/creative_work/web_content.internal.md) 
+### #is_/same_as :: [Web_Content.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content.internal.md) 
 
-### #is_/same_as :: [web_content.protect](/_protect/schema-org/Class/is_a_/creative_work/web_content.protect.md) 
+### #is_/same_as :: [Web_Content.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content.protect.md) 
 
-### #is_/same_as :: [web_content.private](/_private/schema-org/Class/is_a_/creative_work/web_content.private.md) 
+### #is_/same_as :: [Web_Content.private](/_private/Society/Communication/Media/Creative_Work/Web_Content.private.md) 
 
-### #is_/same_as :: [web_content.personal](/_personal/schema-org/Class/is_a_/creative_work/web_content.personal.md) 
+### #is_/same_as :: [Web_Content.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content.personal.md) 
 
-### #is_/same_as :: [web_content.secret](/_secret/schema-org/Class/is_a_/creative_work/web_content.secret.md)
+### #is_/same_as :: [Web_Content.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content.secret.md)
 

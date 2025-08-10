@@ -37,17 +37,17 @@ A zoo.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zoo](Zoo.md) 
+### #is_/same_as :: [Zoo](/_Standards/Earth/Geography/Place/Civic_Structure/Zoo.md) 
 
-### #is_/same_as :: [zoo.public](/_public/schema-org/Class/is_a_/place/civic_structure/zoo.public.md) 
+### #is_/same_as :: [Zoo.public](/_public/Earth/Geography/Place/Civic_Structure/Zoo.public.md) 
 
-### #is_/same_as :: [zoo.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/zoo.internal.md) 
+### #is_/same_as :: [Zoo.internal](/_internal/Earth/Geography/Place/Civic_Structure/Zoo.internal.md) 
 
-### #is_/same_as :: [zoo.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/zoo.protect.md) 
+### #is_/same_as :: [Zoo.protect](/_protect/Earth/Geography/Place/Civic_Structure/Zoo.protect.md) 
 
-### #is_/same_as :: [zoo.private](/_private/schema-org/Class/is_a_/place/civic_structure/zoo.private.md) 
+### #is_/same_as :: [Zoo.private](/_private/Earth/Geography/Place/Civic_Structure/Zoo.private.md) 
 
-### #is_/same_as :: [zoo.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/zoo.personal.md) 
+### #is_/same_as :: [Zoo.personal](/_personal/Earth/Geography/Place/Civic_Structure/Zoo.personal.md) 
 
-### #is_/same_as :: [zoo.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/zoo.secret.md)
+### #is_/same_as :: [Zoo.secret](/_secret/Earth/Geography/Place/Civic_Structure/Zoo.secret.md)
 

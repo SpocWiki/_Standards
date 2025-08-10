@@ -38,17 +38,17 @@ A car wash business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [auto_wash](auto_wash.md) 
+### #is_/same_as :: [Auto_Wash](/_Standards/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.md) 
 
-### #is_/same_as :: [auto_wash.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.public.md) 
+### #is_/same_as :: [Auto_Wash.public](/_public/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.public.md) 
 
-### #is_/same_as :: [auto_wash.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.internal.md) 
+### #is_/same_as :: [Auto_Wash.internal](/_internal/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.internal.md) 
 
-### #is_/same_as :: [auto_wash.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.protect.md) 
+### #is_/same_as :: [Auto_Wash.protect](/_protect/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.protect.md) 
 
-### #is_/same_as :: [auto_wash.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.private.md) 
+### #is_/same_as :: [Auto_Wash.private](/_private/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.private.md) 
 
-### #is_/same_as :: [auto_wash.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.personal.md) 
+### #is_/same_as :: [Auto_Wash.personal](/_personal/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.personal.md) 
 
-### #is_/same_as :: [auto_wash.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_wash.secret.md)
+### #is_/same_as :: [Auto_Wash.secret](/_secret/Society/Organization/Local_Business/Automotive_Business/Auto_Wash.secret.md)
 

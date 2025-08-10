@@ -40,17 +40,17 @@ A specific and exact (byte-for-byte) version of a [[VideoObject]]. Two byte-for-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Object_Snapshot](Video_Object_Snapshot.md) 
+### #is_/same_as :: [Video_Object_Snapshot](/_Standards/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.md) 
 
-### #is_/same_as :: [video_object_snapshot.public](/_public/schema-org/Class/is_a_/creative_work/media_object/video_object/video_object_snapshot.public.md) 
+### #is_/same_as :: [Video_Object_Snapshot.public](/_public/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.public.md) 
 
-### #is_/same_as :: [video_object_snapshot.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/video_object/video_object_snapshot.internal.md) 
+### #is_/same_as :: [Video_Object_Snapshot.internal](/_internal/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.internal.md) 
 
-### #is_/same_as :: [video_object_snapshot.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/video_object/video_object_snapshot.protect.md) 
+### #is_/same_as :: [Video_Object_Snapshot.protect](/_protect/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.protect.md) 
 
-### #is_/same_as :: [video_object_snapshot.private](/_private/schema-org/Class/is_a_/creative_work/media_object/video_object/video_object_snapshot.private.md) 
+### #is_/same_as :: [Video_Object_Snapshot.private](/_private/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.private.md) 
 
-### #is_/same_as :: [video_object_snapshot.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/video_object/video_object_snapshot.personal.md) 
+### #is_/same_as :: [Video_Object_Snapshot.personal](/_personal/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.personal.md) 
 
-### #is_/same_as :: [video_object_snapshot.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/video_object/video_object_snapshot.secret.md)
+### #is_/same_as :: [Video_Object_Snapshot.secret](/_secret/Society/Communication/Media/Media_Object/Video_Object/Video_Object_Snapshot.secret.md)
 

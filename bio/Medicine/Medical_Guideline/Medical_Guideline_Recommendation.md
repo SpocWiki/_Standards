@@ -38,17 +38,17 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Guideline_Recommendation](Medical_Guideline_Recommendation.md) 
+### #is_/same_as :: [Medical_Guideline_Recommendation](/_Standards/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.md) 
 
-### #is_/same_as :: [medical_guideline_recommendation.public](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.public.md) 
+### #is_/same_as :: [Medical_Guideline_Recommendation.public](/_public/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.public.md) 
 
-### #is_/same_as :: [medical_guideline_recommendation.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.internal.md) 
+### #is_/same_as :: [Medical_Guideline_Recommendation.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.internal.md) 
 
-### #is_/same_as :: [medical_guideline_recommendation.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.protect.md) 
+### #is_/same_as :: [Medical_Guideline_Recommendation.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.protect.md) 
 
-### #is_/same_as :: [medical_guideline_recommendation.private](/_private/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.private.md) 
+### #is_/same_as :: [Medical_Guideline_Recommendation.private](/_private/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.private.md) 
 
-### #is_/same_as :: [medical_guideline_recommendation.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.personal.md) 
+### #is_/same_as :: [Medical_Guideline_Recommendation.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.personal.md) 
 
-### #is_/same_as :: [medical_guideline_recommendation.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.secret.md)
+### #is_/same_as :: [Medical_Guideline_Recommendation.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Guideline_Recommendation.secret.md)
 

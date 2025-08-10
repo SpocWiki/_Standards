@@ -39,17 +39,17 @@ A specific branch of medical science that is concerned with the diagnosis and tr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geriatric](geriatric.md) 
+### #is_/same_as :: [Geriatric](/_Standards/Society/Organization/Local_Business/Medical_Business/Geriatric.md) 
 
-### #is_/same_as :: [geriatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.public.md) 
+### #is_/same_as :: [Geriatric.public](/_public/Society/Organization/Local_Business/Medical_Business/Geriatric.public.md) 
 
-### #is_/same_as :: [geriatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.internal.md) 
+### #is_/same_as :: [Geriatric.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Geriatric.internal.md) 
 
-### #is_/same_as :: [geriatric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.protect.md) 
+### #is_/same_as :: [Geriatric.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Geriatric.protect.md) 
 
-### #is_/same_as :: [geriatric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.private.md) 
+### #is_/same_as :: [Geriatric.private](/_private/Society/Organization/Local_Business/Medical_Business/Geriatric.private.md) 
 
-### #is_/same_as :: [geriatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.personal.md) 
+### #is_/same_as :: [Geriatric.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Geriatric.personal.md) 
 
-### #is_/same_as :: [geriatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.secret.md)
+### #is_/same_as :: [Geriatric.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Geriatric.secret.md)
 

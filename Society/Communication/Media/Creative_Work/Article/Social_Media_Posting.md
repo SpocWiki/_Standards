@@ -40,17 +40,17 @@ A post to a social media platform, including blog posts, tweets, Facebook posts,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Media_Posting](Social_Media_Posting.md) 
+### #is_/same_as :: [Social_Media_Posting](/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.md) 
 
-### #is_/same_as :: [social_media_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting.public.md) 
+### #is_/same_as :: [Social_Media_Posting.public](/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.public.md) 
 
-### #is_/same_as :: [social_media_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting.internal.md) 
+### #is_/same_as :: [Social_Media_Posting.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.internal.md) 
 
-### #is_/same_as :: [social_media_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting.protect.md) 
+### #is_/same_as :: [Social_Media_Posting.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.protect.md) 
 
-### #is_/same_as :: [social_media_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting.private.md) 
+### #is_/same_as :: [Social_Media_Posting.private](/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.private.md) 
 
-### #is_/same_as :: [social_media_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting.personal.md) 
+### #is_/same_as :: [Social_Media_Posting.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.personal.md) 
 
-### #is_/same_as :: [social_media_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting.secret.md)
+### #is_/same_as :: [Social_Media_Posting.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.secret.md)
 

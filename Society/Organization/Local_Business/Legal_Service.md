@@ -42,17 +42,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [legal_service](legal_service.md) 
+### #is_/same_as :: [Legal_Service](/_Standards/Society/Organization/Local_Business/Legal_Service.md) 
 
-### #is_/same_as :: [legal_service.public](/_public/schema-org/Class/is_a_/organization/local_business/legal_service.public.md) 
+### #is_/same_as :: [Legal_Service.public](/_public/Society/Organization/Local_Business/Legal_Service.public.md) 
 
-### #is_/same_as :: [legal_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service.internal.md) 
+### #is_/same_as :: [Legal_Service.internal](/_internal/Society/Organization/Local_Business/Legal_Service.internal.md) 
 
-### #is_/same_as :: [legal_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service.protect.md) 
+### #is_/same_as :: [Legal_Service.protect](/_protect/Society/Organization/Local_Business/Legal_Service.protect.md) 
 
-### #is_/same_as :: [legal_service.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service.private.md) 
+### #is_/same_as :: [Legal_Service.private](/_private/Society/Organization/Local_Business/Legal_Service.private.md) 
 
-### #is_/same_as :: [legal_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service.personal.md) 
+### #is_/same_as :: [Legal_Service.personal](/_personal/Society/Organization/Local_Business/Legal_Service.personal.md) 
 
-### #is_/same_as :: [legal_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service.secret.md)
+### #is_/same_as :: [Legal_Service.secret](/_secret/Society/Organization/Local_Business/Legal_Service.secret.md)
 

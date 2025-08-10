@@ -150,3 +150,22 @@ ISNI: "0000000121282295"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Sagan) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Sagan,Carl_Edward](/_Standards/Astronomy/Astrophysicist/Sagan,Carl_Edward.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.public](/_public/Astronomy/Astrophysicist/Sagan,Carl_Edward.public.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.internal](/_internal/Astronomy/Astrophysicist/Sagan,Carl_Edward.internal.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.protect](/_protect/Astronomy/Astrophysicist/Sagan,Carl_Edward.protect.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.private](/_private/Astronomy/Astrophysicist/Sagan,Carl_Edward.private.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.personal](/_personal/Astronomy/Astrophysicist/Sagan,Carl_Edward.personal.md) 
+
+### #is_/same_as :: [Sagan,Carl_Edward.secret](/_secret/Astronomy/Astrophysicist/Sagan,Carl_Edward.secret.md)
+

@@ -36,3 +36,22 @@ has_id_wikidata: Q1247
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caribbean%20Sea) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caribbean_Sea](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.md) 
+
+### #is_/same_as :: [Caribbean_Sea.public](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.public.md) 
+
+### #is_/same_as :: [Caribbean_Sea.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.internal.md) 
+
+### #is_/same_as :: [Caribbean_Sea.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.protect.md) 
+
+### #is_/same_as :: [Caribbean_Sea.private](/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.private.md) 
+
+### #is_/same_as :: [Caribbean_Sea.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.personal.md) 
+
+### #is_/same_as :: [Caribbean_Sea.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.secret.md)
+

@@ -40,17 +40,17 @@ A HyperToc represents a hypertext table of contents for complex media objects, s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hyper_Toc](Hyper_Toc.md) 
+### #is_/same_as :: [Hyper_Toc](/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc.md) 
 
-### #is_/same_as :: [hyper_toc.public](/_public/schema-org/Class/is_a_/creative_work/hyper_toc.public.md) 
+### #is_/same_as :: [Hyper_Toc.public](/_public/Society/Communication/Media/Creative_Work/Hyper_Toc.public.md) 
 
-### #is_/same_as :: [hyper_toc.internal](/_internal/schema-org/Class/is_a_/creative_work/hyper_toc.internal.md) 
+### #is_/same_as :: [Hyper_Toc.internal](/_internal/Society/Communication/Media/Creative_Work/Hyper_Toc.internal.md) 
 
-### #is_/same_as :: [hyper_toc.protect](/_protect/schema-org/Class/is_a_/creative_work/hyper_toc.protect.md) 
+### #is_/same_as :: [Hyper_Toc.protect](/_protect/Society/Communication/Media/Creative_Work/Hyper_Toc.protect.md) 
 
-### #is_/same_as :: [hyper_toc.private](/_private/schema-org/Class/is_a_/creative_work/hyper_toc.private.md) 
+### #is_/same_as :: [Hyper_Toc.private](/_private/Society/Communication/Media/Creative_Work/Hyper_Toc.private.md) 
 
-### #is_/same_as :: [hyper_toc.personal](/_personal/schema-org/Class/is_a_/creative_work/hyper_toc.personal.md) 
+### #is_/same_as :: [Hyper_Toc.personal](/_personal/Society/Communication/Media/Creative_Work/Hyper_Toc.personal.md) 
 
-### #is_/same_as :: [hyper_toc.secret](/_secret/schema-org/Class/is_a_/creative_work/hyper_toc.secret.md)
+### #is_/same_as :: [Hyper_Toc.secret](/_secret/Society/Communication/Media/Creative_Work/Hyper_Toc.secret.md)
 

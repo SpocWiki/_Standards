@@ -38,17 +38,17 @@ A hair salon.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [hair_salon](hair_salon.md) 
+### #is_/same_as :: [Hair_Salon](/_Standards/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.md) 
 
-### #is_/same_as :: [hair_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.public.md) 
+### #is_/same_as :: [Hair_Salon.public](/_public/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.public.md) 
 
-### #is_/same_as :: [hair_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.internal.md) 
+### #is_/same_as :: [Hair_Salon.internal](/_internal/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.internal.md) 
 
-### #is_/same_as :: [hair_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.protect.md) 
+### #is_/same_as :: [Hair_Salon.protect](/_protect/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.protect.md) 
 
-### #is_/same_as :: [hair_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.private.md) 
+### #is_/same_as :: [Hair_Salon.private](/_private/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.private.md) 
 
-### #is_/same_as :: [hair_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.personal.md) 
+### #is_/same_as :: [Hair_Salon.personal](/_personal/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.personal.md) 
 
-### #is_/same_as :: [hair_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.secret.md)
+### #is_/same_as :: [Hair_Salon.secret](/_secret/Society/Organization/Local_Business/Health_and_Beauty_Business/Hair_Salon.secret.md)
 

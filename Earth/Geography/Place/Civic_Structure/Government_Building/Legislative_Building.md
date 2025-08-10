@@ -38,17 +38,17 @@ A legislative building—for example, the state capitol.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legislative_Building](Legislative_Building.md) 
+### #is_/same_as :: [Legislative_Building](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.md) 
 
-### #is_/same_as :: [legislative_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.public.md) 
+### #is_/same_as :: [Legislative_Building.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.public.md) 
 
-### #is_/same_as :: [legislative_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.internal.md) 
+### #is_/same_as :: [Legislative_Building.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.internal.md) 
 
-### #is_/same_as :: [legislative_building.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.protect.md) 
+### #is_/same_as :: [Legislative_Building.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.protect.md) 
 
-### #is_/same_as :: [legislative_building.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.private.md) 
+### #is_/same_as :: [Legislative_Building.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.private.md) 
 
-### #is_/same_as :: [legislative_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.personal.md) 
+### #is_/same_as :: [Legislative_Building.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.personal.md) 
 
-### #is_/same_as :: [legislative_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.secret.md)
+### #is_/same_as :: [Legislative_Building.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Legislative_Building.secret.md)
 

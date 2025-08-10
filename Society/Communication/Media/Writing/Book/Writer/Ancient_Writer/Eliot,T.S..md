@@ -188,17 +188,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eliot,T.S.](Eliot,T.S..md) 
+### #is_/same_as :: [Eliot,T.S.](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..md) 
 
-### #is_/same_as :: [Eliot,T.S..public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Eliot,T.S..public.md) 
+### #is_/same_as :: [Eliot,T.S..public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..public.md) 
 
-### #is_/same_as :: [Eliot,T.S..internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Eliot,T.S..internal.md) 
+### #is_/same_as :: [Eliot,T.S..internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..internal.md) 
 
-### #is_/same_as :: [Eliot,T.S..protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Eliot,T.S..protect.md) 
+### #is_/same_as :: [Eliot,T.S..protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..protect.md) 
 
-### #is_/same_as :: [Eliot,T.S..private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Eliot,T.S..private.md) 
+### #is_/same_as :: [Eliot,T.S..private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..private.md) 
 
-### #is_/same_as :: [Eliot,T.S..personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Eliot,T.S..personal.md) 
+### #is_/same_as :: [Eliot,T.S..personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..personal.md) 
 
-### #is_/same_as :: [Eliot,T.S..secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Eliot,T.S..secret.md)
+### #is_/same_as :: [Eliot,T.S..secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..secret.md)
 

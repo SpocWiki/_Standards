@@ -38,17 +38,17 @@ Web applications.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Application](Web_Application.md) 
+### #is_/same_as :: [Web_Application](/_Standards/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.md) 
 
-### #is_/same_as :: [web_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application/web_application.public.md) 
+### #is_/same_as :: [Web_Application.public](/_public/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.public.md) 
 
-### #is_/same_as :: [web_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application/web_application.internal.md) 
+### #is_/same_as :: [Web_Application.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.internal.md) 
 
-### #is_/same_as :: [web_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application/web_application.protect.md) 
+### #is_/same_as :: [Web_Application.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.protect.md) 
 
-### #is_/same_as :: [web_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application/web_application.private.md) 
+### #is_/same_as :: [Web_Application.private](/_private/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.private.md) 
 
-### #is_/same_as :: [web_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application/web_application.personal.md) 
+### #is_/same_as :: [Web_Application.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.personal.md) 
 
-### #is_/same_as :: [web_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application/web_application.secret.md)
+### #is_/same_as :: [Web_Application.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Application/Web_Application.secret.md)
 

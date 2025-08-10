@@ -40,17 +40,17 @@ A terminal for boats, ships, and other water vessels.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boat_Terminal](Boat_Terminal.md) 
+### #is_/same_as :: [Boat_Terminal](/_Standards/Earth/Geography/Place/Civic_Structure/Boat_Terminal.md) 
 
-### #is_/same_as :: [boat_terminal.public](/_public/schema-org/Class/is_a_/place/civic_structure/boat_terminal.public.md) 
+### #is_/same_as :: [Boat_Terminal.public](/_public/Earth/Geography/Place/Civic_Structure/Boat_Terminal.public.md) 
 
-### #is_/same_as :: [boat_terminal.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/boat_terminal.internal.md) 
+### #is_/same_as :: [Boat_Terminal.internal](/_internal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.internal.md) 
 
-### #is_/same_as :: [boat_terminal.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/boat_terminal.protect.md) 
+### #is_/same_as :: [Boat_Terminal.protect](/_protect/Earth/Geography/Place/Civic_Structure/Boat_Terminal.protect.md) 
 
-### #is_/same_as :: [boat_terminal.private](/_private/schema-org/Class/is_a_/place/civic_structure/boat_terminal.private.md) 
+### #is_/same_as :: [Boat_Terminal.private](/_private/Earth/Geography/Place/Civic_Structure/Boat_Terminal.private.md) 
 
-### #is_/same_as :: [boat_terminal.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/boat_terminal.personal.md) 
+### #is_/same_as :: [Boat_Terminal.personal](/_personal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.personal.md) 
 
-### #is_/same_as :: [boat_terminal.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/boat_terminal.secret.md)
+### #is_/same_as :: [Boat_Terminal.secret](/_secret/Earth/Geography/Place/Civic_Structure/Boat_Terminal.secret.md)
 

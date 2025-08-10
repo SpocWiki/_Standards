@@ -40,17 +40,17 @@ A media object, such as an image, video, or audio object embedded in a web page 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Object](Media_Object.md) 
+### #is_/same_as :: [Media_Object](/_Standards/Society/Communication/Media/Media_Object.md) 
 
-### #is_/same_as :: [media_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object.public.md) 
+### #is_/same_as :: [Media_Object.public](/_public/Society/Communication/Media/Media_Object.public.md) 
 
-### #is_/same_as :: [media_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object.internal.md) 
+### #is_/same_as :: [Media_Object.internal](/_internal/Society/Communication/Media/Media_Object.internal.md) 
 
-### #is_/same_as :: [media_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object.protect.md) 
+### #is_/same_as :: [Media_Object.protect](/_protect/Society/Communication/Media/Media_Object.protect.md) 
 
-### #is_/same_as :: [media_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object.private.md) 
+### #is_/same_as :: [Media_Object.private](/_private/Society/Communication/Media/Media_Object.private.md) 
 
-### #is_/same_as :: [media_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object.personal.md) 
+### #is_/same_as :: [Media_Object.personal](/_personal/Society/Communication/Media/Media_Object.personal.md) 
 
-### #is_/same_as :: [media_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object.secret.md)
+### #is_/same_as :: [Media_Object.secret](/_secret/Society/Communication/Media/Media_Object.secret.md)
 

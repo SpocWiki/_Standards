@@ -38,17 +38,17 @@ A cafe or coffee shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cafe_or_coffee_shop](cafe_or_coffee_shop.md) 
+### #is_/same_as :: [Cafe_or_Coffee_Shop](/_Standards/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.md) 
 
-### #is_/same_as :: [cafe_or_coffee_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.public.md) 
+### #is_/same_as :: [Cafe_or_Coffee_Shop.public](/_public/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.public.md) 
 
-### #is_/same_as :: [cafe_or_coffee_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.internal.md) 
+### #is_/same_as :: [Cafe_or_Coffee_Shop.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.internal.md) 
 
-### #is_/same_as :: [cafe_or_coffee_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.protect.md) 
+### #is_/same_as :: [Cafe_or_Coffee_Shop.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.protect.md) 
 
-### #is_/same_as :: [cafe_or_coffee_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.private.md) 
+### #is_/same_as :: [Cafe_or_Coffee_Shop.private](/_private/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.private.md) 
 
-### #is_/same_as :: [cafe_or_coffee_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.personal.md) 
+### #is_/same_as :: [Cafe_or_Coffee_Shop.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.personal.md) 
 
-### #is_/same_as :: [cafe_or_coffee_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.secret.md)
+### #is_/same_as :: [Cafe_or_Coffee_Shop.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Cafe_or_Coffee_Shop.secret.md)
 

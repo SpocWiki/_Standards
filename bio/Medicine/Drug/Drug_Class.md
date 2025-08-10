@@ -81,35 +81,20 @@ common mechanisms of action, common physiological effects, etc.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Drug%20class)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Class](Drug_Class.md) 
+### #is_/same_as :: [Drug_Class](/_Standards/bio/Medicine/Drug/Drug_Class.md) 
 
-### #is_/same_as :: [drug_class.public](/_public/schema-org/Class/is_a_/medical_entity/drug_class.public.md) 
+### #is_/same_as :: [Drug_Class.public](/_public/bio/Medicine/Drug/Drug_Class.public.md) 
 
-### #is_/same_as :: [drug_class.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_class.internal.md) 
+### #is_/same_as :: [Drug_Class.internal](/_internal/bio/Medicine/Drug/Drug_Class.internal.md) 
 
-### #is_/same_as :: [drug_class.protect](/_protect/schema-org/Class/is_a_/medical_entity/drug_class.protect.md) 
+### #is_/same_as :: [Drug_Class.protect](/_protect/bio/Medicine/Drug/Drug_Class.protect.md) 
 
-### #is_/same_as :: [drug_class.private](/_private/schema-org/Class/is_a_/medical_entity/drug_class.private.md) 
+### #is_/same_as :: [Drug_Class.private](/_private/bio/Medicine/Drug/Drug_Class.private.md) 
 
-### #is_/same_as :: [drug_class.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_class.personal.md) 
+### #is_/same_as :: [Drug_Class.personal](/_personal/bio/Medicine/Drug/Drug_Class.personal.md) 
 
-### #is_/same_as :: [drug_class.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_class.secret.md)
+### #is_/same_as :: [Drug_Class.secret](/_secret/bio/Medicine/Drug/Drug_Class.secret.md)
 
-
-# [[Drug_Class]] 
-
-#is_/part_of :: [[Drug_Class]] 
-
-
-## Embedded Graph 
-
-![[Drug_Class.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

@@ -40,17 +40,17 @@ A publication containing information about varied topics that are pertinent to g
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newspaper](Newspaper.md) 
+### #is_/same_as :: [Newspaper](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.md) 
 
-### #is_/same_as :: [newspaper.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.public.md) 
+### #is_/same_as :: [Newspaper.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.public.md) 
 
-### #is_/same_as :: [newspaper.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.internal.md) 
+### #is_/same_as :: [Newspaper.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.internal.md) 
 
-### #is_/same_as :: [newspaper.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.protect.md) 
+### #is_/same_as :: [Newspaper.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.protect.md) 
 
-### #is_/same_as :: [newspaper.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.private.md) 
+### #is_/same_as :: [Newspaper.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.private.md) 
 
-### #is_/same_as :: [newspaper.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.personal.md) 
+### #is_/same_as :: [Newspaper.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.personal.md) 
 
-### #is_/same_as :: [newspaper.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.secret.md)
+### #is_/same_as :: [Newspaper.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.secret.md)
 

@@ -38,17 +38,17 @@ A hospital.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [hospital](hospital.md) 
+### #is_/same_as :: [Hospital](/_Standards/Society/Organization/Local_Business/Emergency_Service/Hospital.md) 
 
-### #is_/same_as :: [hospital.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service/hospital.public.md) 
+### #is_/same_as :: [Hospital.public](/_public/Society/Organization/Local_Business/Emergency_Service/Hospital.public.md) 
 
-### #is_/same_as :: [hospital.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service/hospital.internal.md) 
+### #is_/same_as :: [Hospital.internal](/_internal/Society/Organization/Local_Business/Emergency_Service/Hospital.internal.md) 
 
-### #is_/same_as :: [hospital.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service/hospital.protect.md) 
+### #is_/same_as :: [Hospital.protect](/_protect/Society/Organization/Local_Business/Emergency_Service/Hospital.protect.md) 
 
-### #is_/same_as :: [hospital.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service/hospital.private.md) 
+### #is_/same_as :: [Hospital.private](/_private/Society/Organization/Local_Business/Emergency_Service/Hospital.private.md) 
 
-### #is_/same_as :: [hospital.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service/hospital.personal.md) 
+### #is_/same_as :: [Hospital.personal](/_personal/Society/Organization/Local_Business/Emergency_Service/Hospital.personal.md) 
 
-### #is_/same_as :: [hospital.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service/hospital.secret.md)
+### #is_/same_as :: [Hospital.secret](/_secret/Society/Organization/Local_Business/Emergency_Service/Hospital.secret.md)
 

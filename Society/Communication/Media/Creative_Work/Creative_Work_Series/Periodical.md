@@ -43,17 +43,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Periodical](Periodical.md) 
+### #is_/same_as :: [Periodical](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.md) 
 
-### #is_/same_as :: [periodical.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.public.md) 
+### #is_/same_as :: [Periodical.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.public.md) 
 
-### #is_/same_as :: [periodical.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.internal.md) 
+### #is_/same_as :: [Periodical.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.internal.md) 
 
-### #is_/same_as :: [periodical.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.protect.md) 
+### #is_/same_as :: [Periodical.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.protect.md) 
 
-### #is_/same_as :: [periodical.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.private.md) 
+### #is_/same_as :: [Periodical.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.private.md) 
 
-### #is_/same_as :: [periodical.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.personal.md) 
+### #is_/same_as :: [Periodical.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.personal.md) 
 
-### #is_/same_as :: [periodical.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical.secret.md)
+### #is_/same_as :: [Periodical.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical.secret.md)
 

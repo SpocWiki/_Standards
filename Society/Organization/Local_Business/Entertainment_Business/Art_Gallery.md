@@ -38,17 +38,17 @@ An art gallery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Art_Gallery](Art_Gallery.md) 
+### #is_/same_as :: [Art_Gallery](/_Standards/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.md) 
 
-### #is_/same_as :: [art_gallery.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.public.md) 
+### #is_/same_as :: [Art_Gallery.public](/_public/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.public.md) 
 
-### #is_/same_as :: [art_gallery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.internal.md) 
+### #is_/same_as :: [Art_Gallery.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.internal.md) 
 
-### #is_/same_as :: [art_gallery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.protect.md) 
+### #is_/same_as :: [Art_Gallery.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.protect.md) 
 
-### #is_/same_as :: [art_gallery.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.private.md) 
+### #is_/same_as :: [Art_Gallery.private](/_private/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.private.md) 
 
-### #is_/same_as :: [art_gallery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.personal.md) 
+### #is_/same_as :: [Art_Gallery.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.personal.md) 
 
-### #is_/same_as :: [art_gallery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.secret.md)
+### #is_/same_as :: [Art_Gallery.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business/Art_Gallery.secret.md)
 

@@ -38,17 +38,17 @@ A business that provides Heating, Ventilation and Air Conditioning services.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [hvac_business](hvac_business.md) 
+### #is_/same_as :: [Hvac_Business](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.md) 
 
-### #is_/same_as :: [hvac_business.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/hvac_business.public.md) 
+### #is_/same_as :: [Hvac_Business.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.public.md) 
 
-### #is_/same_as :: [hvac_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/hvac_business.internal.md) 
+### #is_/same_as :: [Hvac_Business.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.internal.md) 
 
-### #is_/same_as :: [hvac_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/hvac_business.protect.md) 
+### #is_/same_as :: [Hvac_Business.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.protect.md) 
 
-### #is_/same_as :: [hvac_business.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/hvac_business.private.md) 
+### #is_/same_as :: [Hvac_Business.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.private.md) 
 
-### #is_/same_as :: [hvac_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/hvac_business.personal.md) 
+### #is_/same_as :: [Hvac_Business.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.personal.md) 
 
-### #is_/same_as :: [hvac_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/hvac_business.secret.md)
+### #is_/same_as :: [Hvac_Business.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Hvac_Business.secret.md)
 

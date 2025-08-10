@@ -79,3 +79,22 @@ P8189: "987007284881905171"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carpet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carpet](/_Standards/Technology/Construction/Building/House/Apartment/Furniture/Carpet.md) 
+
+### #is_/same_as :: [Carpet.public](/_public/Technology/Construction/Building/House/Apartment/Furniture/Carpet.public.md) 
+
+### #is_/same_as :: [Carpet.internal](/_internal/Technology/Construction/Building/House/Apartment/Furniture/Carpet.internal.md) 
+
+### #is_/same_as :: [Carpet.protect](/_protect/Technology/Construction/Building/House/Apartment/Furniture/Carpet.protect.md) 
+
+### #is_/same_as :: [Carpet.private](/_private/Technology/Construction/Building/House/Apartment/Furniture/Carpet.private.md) 
+
+### #is_/same_as :: [Carpet.personal](/_personal/Technology/Construction/Building/House/Apartment/Furniture/Carpet.personal.md) 
+
+### #is_/same_as :: [Carpet.secret](/_secret/Technology/Construction/Building/House/Apartment/Furniture/Carpet.secret.md)
+

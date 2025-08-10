@@ -40,17 +40,17 @@ A thesis or dissertation document submitted in support of candidature for an aca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thesis](Thesis.md) 
+### #is_/same_as :: [Thesis](/_Standards/Society/Communication/Media/Creative_Work/Thesis.md) 
 
-### #is_/same_as :: [thesis.public](/_public/schema-org/Class/is_a_/creative_work/thesis.public.md) 
+### #is_/same_as :: [Thesis.public](/_public/Society/Communication/Media/Creative_Work/Thesis.public.md) 
 
-### #is_/same_as :: [thesis.internal](/_internal/schema-org/Class/is_a_/creative_work/thesis.internal.md) 
+### #is_/same_as :: [Thesis.internal](/_internal/Society/Communication/Media/Creative_Work/Thesis.internal.md) 
 
-### #is_/same_as :: [thesis.protect](/_protect/schema-org/Class/is_a_/creative_work/thesis.protect.md) 
+### #is_/same_as :: [Thesis.protect](/_protect/Society/Communication/Media/Creative_Work/Thesis.protect.md) 
 
-### #is_/same_as :: [thesis.private](/_private/schema-org/Class/is_a_/creative_work/thesis.private.md) 
+### #is_/same_as :: [Thesis.private](/_private/Society/Communication/Media/Creative_Work/Thesis.private.md) 
 
-### #is_/same_as :: [thesis.personal](/_personal/schema-org/Class/is_a_/creative_work/thesis.personal.md) 
+### #is_/same_as :: [Thesis.personal](/_personal/Society/Communication/Media/Creative_Work/Thesis.personal.md) 
 
-### #is_/same_as :: [thesis.secret](/_secret/schema-org/Class/is_a_/creative_work/thesis.secret.md)
+### #is_/same_as :: [Thesis.secret](/_secret/Society/Communication/Media/Creative_Work/Thesis.secret.md)
 

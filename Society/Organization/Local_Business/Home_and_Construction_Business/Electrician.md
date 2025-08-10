@@ -38,17 +38,17 @@ An electrician.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [electrician](electrician.md) 
+### #is_/same_as :: [Electrician](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.md) 
 
-### #is_/same_as :: [electrician.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.public.md) 
+### #is_/same_as :: [Electrician.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.public.md) 
 
-### #is_/same_as :: [electrician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.internal.md) 
+### #is_/same_as :: [Electrician.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.internal.md) 
 
-### #is_/same_as :: [electrician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.protect.md) 
+### #is_/same_as :: [Electrician.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.protect.md) 
 
-### #is_/same_as :: [electrician.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.private.md) 
+### #is_/same_as :: [Electrician.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.private.md) 
 
-### #is_/same_as :: [electrician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.personal.md) 
+### #is_/same_as :: [Electrician.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.personal.md) 
 
-### #is_/same_as :: [electrician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.secret.md)
+### #is_/same_as :: [Electrician.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Electrician.secret.md)
 

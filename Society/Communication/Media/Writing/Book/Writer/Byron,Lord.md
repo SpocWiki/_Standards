@@ -293,17 +293,17 @@ Colon_Classification: O111,1L88
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Byron,Lord](Byron,Lord.md) 
+### #is_/same_as :: [Byron,Lord](/_Standards/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.md) 
 
-### #is_/same_as :: [Byron,Lord.public](/_public/Society/Communication/Media/Book/Writer/Byron,Lord.public.md) 
+### #is_/same_as :: [Byron,Lord.public](/_public/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.public.md) 
 
-### #is_/same_as :: [Byron,Lord.internal](/_internal/Society/Communication/Media/Book/Writer/Byron,Lord.internal.md) 
+### #is_/same_as :: [Byron,Lord.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.internal.md) 
 
-### #is_/same_as :: [Byron,Lord.protect](/_protect/Society/Communication/Media/Book/Writer/Byron,Lord.protect.md) 
+### #is_/same_as :: [Byron,Lord.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.protect.md) 
 
-### #is_/same_as :: [Byron,Lord.private](/_private/Society/Communication/Media/Book/Writer/Byron,Lord.private.md) 
+### #is_/same_as :: [Byron,Lord.private](/_private/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.private.md) 
 
-### #is_/same_as :: [Byron,Lord.personal](/_personal/Society/Communication/Media/Book/Writer/Byron,Lord.personal.md) 
+### #is_/same_as :: [Byron,Lord.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.personal.md) 
 
-### #is_/same_as :: [Byron,Lord.secret](/_secret/Society/Communication/Media/Book/Writer/Byron,Lord.secret.md)
+### #is_/same_as :: [Byron,Lord.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Byron,Lord.secret.md)
 

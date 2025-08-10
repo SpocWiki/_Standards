@@ -38,17 +38,17 @@ A photograph.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photograph](Photograph.md) 
+### #is_/same_as :: [Photograph](/_Standards/Society/Communication/Media/Creative_Work/Photograph.md) 
 
-### #is_/same_as :: [photograph.public](/_public/schema-org/Class/is_a_/creative_work/photograph.public.md) 
+### #is_/same_as :: [Photograph.public](/_public/Society/Communication/Media/Creative_Work/Photograph.public.md) 
 
-### #is_/same_as :: [photograph.internal](/_internal/schema-org/Class/is_a_/creative_work/photograph.internal.md) 
+### #is_/same_as :: [Photograph.internal](/_internal/Society/Communication/Media/Creative_Work/Photograph.internal.md) 
 
-### #is_/same_as :: [photograph.protect](/_protect/schema-org/Class/is_a_/creative_work/photograph.protect.md) 
+### #is_/same_as :: [Photograph.protect](/_protect/Society/Communication/Media/Creative_Work/Photograph.protect.md) 
 
-### #is_/same_as :: [photograph.private](/_private/schema-org/Class/is_a_/creative_work/photograph.private.md) 
+### #is_/same_as :: [Photograph.private](/_private/Society/Communication/Media/Creative_Work/Photograph.private.md) 
 
-### #is_/same_as :: [photograph.personal](/_personal/schema-org/Class/is_a_/creative_work/photograph.personal.md) 
+### #is_/same_as :: [Photograph.personal](/_personal/Society/Communication/Media/Creative_Work/Photograph.personal.md) 
 
-### #is_/same_as :: [photograph.secret](/_secret/schema-org/Class/is_a_/creative_work/photograph.secret.md)
+### #is_/same_as :: [Photograph.secret](/_secret/Society/Communication/Media/Creative_Work/Photograph.secret.md)
 

@@ -41,17 +41,17 @@ A retail good store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [store](store.md) 
+### #is_/same_as :: [Store](/_Standards/Society/Organization/Local_Business/Store.md) 
 
-### #is_/same_as :: [store.public](/_public/schema-org/Class/is_a_/organization/local_business/store.public.md) 
+### #is_/same_as :: [Store.public](/_public/Society/Organization/Local_Business/Store.public.md) 
 
-### #is_/same_as :: [store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store.internal.md) 
+### #is_/same_as :: [Store.internal](/_internal/Society/Organization/Local_Business/Store.internal.md) 
 
-### #is_/same_as :: [store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store.protect.md) 
+### #is_/same_as :: [Store.protect](/_protect/Society/Organization/Local_Business/Store.protect.md) 
 
-### #is_/same_as :: [store.private](/_private/schema-org/Class/is_a_/organization/local_business/store.private.md) 
+### #is_/same_as :: [Store.private](/_private/Society/Organization/Local_Business/Store.private.md) 
 
-### #is_/same_as :: [store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store.personal.md) 
+### #is_/same_as :: [Store.personal](/_personal/Society/Organization/Local_Business/Store.personal.md) 
 
-### #is_/same_as :: [store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store.secret.md)
+### #is_/same_as :: [Store.secret](/_secret/Society/Organization/Local_Business/Store.secret.md)
 

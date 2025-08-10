@@ -40,17 +40,17 @@ A house is a building or structure that has the ability to be occupied for habit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [House](House.md) 
+### #is_/same_as :: [House](/_Standards/Earth/Geography/Place/Accommodation/House.md) 
 
-### #is_/same_as :: [house.public](/_public/schema-org/Class/is_a_/place/accommodation/house.public.md) 
+### #is_/same_as :: [House.public](/_public/Earth/Geography/Place/Accommodation/House.public.md) 
 
-### #is_/same_as :: [house.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house.internal.md) 
+### #is_/same_as :: [House.internal](/_internal/Earth/Geography/Place/Accommodation/House.internal.md) 
 
-### #is_/same_as :: [house.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house.protect.md) 
+### #is_/same_as :: [House.protect](/_protect/Earth/Geography/Place/Accommodation/House.protect.md) 
 
-### #is_/same_as :: [house.private](/_private/schema-org/Class/is_a_/place/accommodation/house.private.md) 
+### #is_/same_as :: [House.private](/_private/Earth/Geography/Place/Accommodation/House.private.md) 
 
-### #is_/same_as :: [house.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house.personal.md) 
+### #is_/same_as :: [House.personal](/_personal/Earth/Geography/Place/Accommodation/House.personal.md) 
 
-### #is_/same_as :: [house.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house.secret.md)
+### #is_/same_as :: [House.secret](/_secret/Earth/Geography/Place/Accommodation/House.secret.md)
 

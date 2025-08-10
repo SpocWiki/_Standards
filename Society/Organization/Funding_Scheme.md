@@ -42,17 +42,17 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [funding_scheme](funding_scheme.md) 
+### #is_/same_as :: [Funding_Scheme](/_Standards/Society/Organization/Funding_Scheme.md) 
 
-### #is_/same_as :: [funding_scheme.public](/_public/schema-org/Class/is_a_/organization/funding_scheme.public.md) 
+### #is_/same_as :: [Funding_Scheme.public](/_public/Society/Organization/Funding_Scheme.public.md) 
 
-### #is_/same_as :: [funding_scheme.internal](/_internal/schema-org/Class/is_a_/organization/funding_scheme.internal.md) 
+### #is_/same_as :: [Funding_Scheme.internal](/_internal/Society/Organization/Funding_Scheme.internal.md) 
 
-### #is_/same_as :: [funding_scheme.protect](/_protect/schema-org/Class/is_a_/organization/funding_scheme.protect.md) 
+### #is_/same_as :: [Funding_Scheme.protect](/_protect/Society/Organization/Funding_Scheme.protect.md) 
 
-### #is_/same_as :: [funding_scheme.private](/_private/schema-org/Class/is_a_/organization/funding_scheme.private.md) 
+### #is_/same_as :: [Funding_Scheme.private](/_private/Society/Organization/Funding_Scheme.private.md) 
 
-### #is_/same_as :: [funding_scheme.personal](/_personal/schema-org/Class/is_a_/organization/funding_scheme.personal.md) 
+### #is_/same_as :: [Funding_Scheme.personal](/_personal/Society/Organization/Funding_Scheme.personal.md) 
 
-### #is_/same_as :: [funding_scheme.secret](/_secret/schema-org/Class/is_a_/organization/funding_scheme.secret.md)
+### #is_/same_as :: [Funding_Scheme.secret](/_secret/Society/Organization/Funding_Scheme.secret.md)
 

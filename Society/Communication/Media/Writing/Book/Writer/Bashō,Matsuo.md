@@ -113,17 +113,17 @@ writing_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bashō,Matsuo](Bashō,Matsuo.md) 
+### #is_/same_as :: [Bashō,Matsuo](/_Standards/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.md) 
 
-### #is_/same_as :: [Bashō,Matsuo.public](/_public/Society/Communication/Media/Book/Writer/Bashō,Matsuo.public.md) 
+### #is_/same_as :: [Bashō,Matsuo.public](/_public/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.public.md) 
 
-### #is_/same_as :: [Bashō,Matsuo.internal](/_internal/Society/Communication/Media/Book/Writer/Bashō,Matsuo.internal.md) 
+### #is_/same_as :: [Bashō,Matsuo.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.internal.md) 
 
-### #is_/same_as :: [Bashō,Matsuo.protect](/_protect/Society/Communication/Media/Book/Writer/Bashō,Matsuo.protect.md) 
+### #is_/same_as :: [Bashō,Matsuo.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.protect.md) 
 
-### #is_/same_as :: [Bashō,Matsuo.private](/_private/Society/Communication/Media/Book/Writer/Bashō,Matsuo.private.md) 
+### #is_/same_as :: [Bashō,Matsuo.private](/_private/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.private.md) 
 
-### #is_/same_as :: [Bashō,Matsuo.personal](/_personal/Society/Communication/Media/Book/Writer/Bashō,Matsuo.personal.md) 
+### #is_/same_as :: [Bashō,Matsuo.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.personal.md) 
 
-### #is_/same_as :: [Bashō,Matsuo.secret](/_secret/Society/Communication/Media/Book/Writer/Bashō,Matsuo.secret.md)
+### #is_/same_as :: [Bashō,Matsuo.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Bashō,Matsuo.secret.md)
 

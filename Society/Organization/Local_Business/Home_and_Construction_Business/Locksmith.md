@@ -38,17 +38,17 @@ A locksmith.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [locksmith](locksmith.md) 
+### #is_/same_as :: [Locksmith](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.md) 
 
-### #is_/same_as :: [locksmith.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.public.md) 
+### #is_/same_as :: [Locksmith.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.public.md) 
 
-### #is_/same_as :: [locksmith.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.internal.md) 
+### #is_/same_as :: [Locksmith.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.internal.md) 
 
-### #is_/same_as :: [locksmith.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.protect.md) 
+### #is_/same_as :: [Locksmith.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.protect.md) 
 
-### #is_/same_as :: [locksmith.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.private.md) 
+### #is_/same_as :: [Locksmith.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.private.md) 
 
-### #is_/same_as :: [locksmith.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.personal.md) 
+### #is_/same_as :: [Locksmith.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.personal.md) 
 
-### #is_/same_as :: [locksmith.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.secret.md)
+### #is_/same_as :: [Locksmith.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Locksmith.secret.md)
 

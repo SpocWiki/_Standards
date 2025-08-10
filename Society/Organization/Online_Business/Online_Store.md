@@ -40,17 +40,17 @@ An eCommerce site.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [online_store](online_store.md) 
+### #is_/same_as :: [Online_Store](/_Standards/Society/Organization/Online_Business/Online_Store.md) 
 
-### #is_/same_as :: [online_store.public](/_public/schema-org/Class/is_a_/organization/online_business/online_store.public.md) 
+### #is_/same_as :: [Online_Store.public](/_public/Society/Organization/Online_Business/Online_Store.public.md) 
 
-### #is_/same_as :: [online_store.internal](/_internal/schema-org/Class/is_a_/organization/online_business/online_store.internal.md) 
+### #is_/same_as :: [Online_Store.internal](/_internal/Society/Organization/Online_Business/Online_Store.internal.md) 
 
-### #is_/same_as :: [online_store.protect](/_protect/schema-org/Class/is_a_/organization/online_business/online_store.protect.md) 
+### #is_/same_as :: [Online_Store.protect](/_protect/Society/Organization/Online_Business/Online_Store.protect.md) 
 
-### #is_/same_as :: [online_store.private](/_private/schema-org/Class/is_a_/organization/online_business/online_store.private.md) 
+### #is_/same_as :: [Online_Store.private](/_private/Society/Organization/Online_Business/Online_Store.private.md) 
 
-### #is_/same_as :: [online_store.personal](/_personal/schema-org/Class/is_a_/organization/online_business/online_store.personal.md) 
+### #is_/same_as :: [Online_Store.personal](/_personal/Society/Organization/Online_Business/Online_Store.personal.md) 
 
-### #is_/same_as :: [online_store.secret](/_secret/schema-org/Class/is_a_/organization/online_business/online_store.secret.md)
+### #is_/same_as :: [Online_Store.secret](/_secret/Society/Organization/Online_Business/Online_Store.secret.md)
 

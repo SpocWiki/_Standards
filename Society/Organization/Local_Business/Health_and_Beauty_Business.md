@@ -40,17 +40,17 @@ Health and beauty.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [health_and_beauty_business](health_and_beauty_business.md) 
+### #is_/same_as :: [Health_and_Beauty_Business](/_Standards/Society/Organization/Local_Business/Health_and_Beauty_Business.md) 
 
-### #is_/same_as :: [health_and_beauty_business.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business.public.md) 
+### #is_/same_as :: [Health_and_Beauty_Business.public](/_public/Society/Organization/Local_Business/Health_and_Beauty_Business.public.md) 
 
-### #is_/same_as :: [health_and_beauty_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business.internal.md) 
+### #is_/same_as :: [Health_and_Beauty_Business.internal](/_internal/Society/Organization/Local_Business/Health_and_Beauty_Business.internal.md) 
 
-### #is_/same_as :: [health_and_beauty_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business.protect.md) 
+### #is_/same_as :: [Health_and_Beauty_Business.protect](/_protect/Society/Organization/Local_Business/Health_and_Beauty_Business.protect.md) 
 
-### #is_/same_as :: [health_and_beauty_business.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business.private.md) 
+### #is_/same_as :: [Health_and_Beauty_Business.private](/_private/Society/Organization/Local_Business/Health_and_Beauty_Business.private.md) 
 
-### #is_/same_as :: [health_and_beauty_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business.personal.md) 
+### #is_/same_as :: [Health_and_Beauty_Business.personal](/_personal/Society/Organization/Local_Business/Health_and_Beauty_Business.personal.md) 
 
-### #is_/same_as :: [health_and_beauty_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business.secret.md)
+### #is_/same_as :: [Health_and_Beauty_Business.secret](/_secret/Society/Organization/Local_Business/Health_and_Beauty_Business.secret.md)
 

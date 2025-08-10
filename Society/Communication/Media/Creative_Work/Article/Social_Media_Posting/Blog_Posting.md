@@ -40,17 +40,17 @@ A blog post.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blog_Posting](Blog_Posting.md) 
+### #is_/same_as :: [Blog_Posting](/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.md) 
 
-### #is_/same_as :: [blog_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.public.md) 
+### #is_/same_as :: [Blog_Posting.public](/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.public.md) 
 
-### #is_/same_as :: [blog_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.internal.md) 
+### #is_/same_as :: [Blog_Posting.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.internal.md) 
 
-### #is_/same_as :: [blog_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.protect.md) 
+### #is_/same_as :: [Blog_Posting.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.protect.md) 
 
-### #is_/same_as :: [blog_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.private.md) 
+### #is_/same_as :: [Blog_Posting.private](/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.private.md) 
 
-### #is_/same_as :: [blog_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.personal.md) 
+### #is_/same_as :: [Blog_Posting.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.personal.md) 
 
-### #is_/same_as :: [blog_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.secret.md)
+### #is_/same_as :: [Blog_Posting.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.secret.md)
 

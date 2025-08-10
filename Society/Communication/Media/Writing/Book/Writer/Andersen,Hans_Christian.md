@@ -174,17 +174,17 @@ writing_language: '[[_Standards/WikiData/WD~Danish,9035]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andersen,Hans_Christian](Andersen,Hans_Christian.md) 
+### #is_/same_as :: [Andersen,Hans_Christian](/_Standards/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.md) 
 
-### #is_/same_as :: [Andersen,Hans_Christian.public](/_public/Society/Communication/Media/Book/Writer/Andersen,Hans_Christian.public.md) 
+### #is_/same_as :: [Andersen,Hans_Christian.public](/_public/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.public.md) 
 
-### #is_/same_as :: [Andersen,Hans_Christian.internal](/_internal/Society/Communication/Media/Book/Writer/Andersen,Hans_Christian.internal.md) 
+### #is_/same_as :: [Andersen,Hans_Christian.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.internal.md) 
 
-### #is_/same_as :: [Andersen,Hans_Christian.protect](/_protect/Society/Communication/Media/Book/Writer/Andersen,Hans_Christian.protect.md) 
+### #is_/same_as :: [Andersen,Hans_Christian.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.protect.md) 
 
-### #is_/same_as :: [Andersen,Hans_Christian.private](/_private/Society/Communication/Media/Book/Writer/Andersen,Hans_Christian.private.md) 
+### #is_/same_as :: [Andersen,Hans_Christian.private](/_private/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.private.md) 
 
-### #is_/same_as :: [Andersen,Hans_Christian.personal](/_personal/Society/Communication/Media/Book/Writer/Andersen,Hans_Christian.personal.md) 
+### #is_/same_as :: [Andersen,Hans_Christian.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.personal.md) 
 
-### #is_/same_as :: [Andersen,Hans_Christian.secret](/_secret/Society/Communication/Media/Book/Writer/Andersen,Hans_Christian.secret.md)
+### #is_/same_as :: [Andersen,Hans_Christian.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Andersen,Hans_Christian.secret.md)
 

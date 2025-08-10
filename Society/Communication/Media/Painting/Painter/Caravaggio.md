@@ -208,3 +208,22 @@ Europeana_entity: agent/base/59787
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caravaggio) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caravaggio](/_Standards/Society/Communication/Media/Painting/Painter/Caravaggio.md) 
+
+### #is_/same_as :: [Caravaggio.public](/_public/Society/Communication/Media/Painting/Painter/Caravaggio.public.md) 
+
+### #is_/same_as :: [Caravaggio.internal](/_internal/Society/Communication/Media/Painting/Painter/Caravaggio.internal.md) 
+
+### #is_/same_as :: [Caravaggio.protect](/_protect/Society/Communication/Media/Painting/Painter/Caravaggio.protect.md) 
+
+### #is_/same_as :: [Caravaggio.private](/_private/Society/Communication/Media/Painting/Painter/Caravaggio.private.md) 
+
+### #is_/same_as :: [Caravaggio.personal](/_personal/Society/Communication/Media/Painting/Painter/Caravaggio.personal.md) 
+
+### #is_/same_as :: [Caravaggio.secret](/_secret/Society/Communication/Media/Painting/Painter/Caravaggio.secret.md)
+

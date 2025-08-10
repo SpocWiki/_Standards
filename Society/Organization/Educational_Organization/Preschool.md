@@ -38,17 +38,17 @@ A preschool.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Preschool](Preschool.md) 
+### #is_/same_as :: [Preschool](/_Standards/Society/Organization/Educational_Organization/Preschool.md) 
 
-### #is_/same_as :: [preschool.public](/_public/schema-org/Class/is_a_/organization/educational_organization/preschool.public.md) 
+### #is_/same_as :: [Preschool.public](/_public/Society/Organization/Educational_Organization/Preschool.public.md) 
 
-### #is_/same_as :: [preschool.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/preschool.internal.md) 
+### #is_/same_as :: [Preschool.internal](/_internal/Society/Organization/Educational_Organization/Preschool.internal.md) 
 
-### #is_/same_as :: [preschool.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/preschool.protect.md) 
+### #is_/same_as :: [Preschool.protect](/_protect/Society/Organization/Educational_Organization/Preschool.protect.md) 
 
-### #is_/same_as :: [preschool.private](/_private/schema-org/Class/is_a_/organization/educational_organization/preschool.private.md) 
+### #is_/same_as :: [Preschool.private](/_private/Society/Organization/Educational_Organization/Preschool.private.md) 
 
-### #is_/same_as :: [preschool.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/preschool.personal.md) 
+### #is_/same_as :: [Preschool.personal](/_personal/Society/Organization/Educational_Organization/Preschool.personal.md) 
 
-### #is_/same_as :: [preschool.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/preschool.secret.md)
+### #is_/same_as :: [Preschool.secret](/_secret/Society/Organization/Educational_Organization/Preschool.secret.md)
 

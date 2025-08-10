@@ -40,17 +40,17 @@ Quiz: A test of knowledge, skills and abilities.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quiz](Quiz.md) 
+### #is_/same_as :: [Quiz](/_Standards/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.md) 
 
-### #is_/same_as :: [quiz.public](/_public/schema-org/Class/is_a_/creative_work/learning_resource/quiz.public.md) 
+### #is_/same_as :: [Quiz.public](/_public/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.public.md) 
 
-### #is_/same_as :: [quiz.internal](/_internal/schema-org/Class/is_a_/creative_work/learning_resource/quiz.internal.md) 
+### #is_/same_as :: [Quiz.internal](/_internal/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.internal.md) 
 
-### #is_/same_as :: [quiz.protect](/_protect/schema-org/Class/is_a_/creative_work/learning_resource/quiz.protect.md) 
+### #is_/same_as :: [Quiz.protect](/_protect/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.protect.md) 
 
-### #is_/same_as :: [quiz.private](/_private/schema-org/Class/is_a_/creative_work/learning_resource/quiz.private.md) 
+### #is_/same_as :: [Quiz.private](/_private/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.private.md) 
 
-### #is_/same_as :: [quiz.personal](/_personal/schema-org/Class/is_a_/creative_work/learning_resource/quiz.personal.md) 
+### #is_/same_as :: [Quiz.personal](/_personal/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.personal.md) 
 
-### #is_/same_as :: [quiz.secret](/_secret/schema-org/Class/is_a_/creative_work/learning_resource/quiz.secret.md)
+### #is_/same_as :: [Quiz.secret](/_secret/Society/Communication/Media/Creative_Work/Learning_Resource/Quiz.secret.md)
 

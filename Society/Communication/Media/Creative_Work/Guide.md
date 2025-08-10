@@ -40,17 +40,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guide](Guide.md) 
+### #is_/same_as :: [Guide](/_Standards/Society/Communication/Media/Creative_Work/Guide.md) 
 
-### #is_/same_as :: [guide.public](/_public/schema-org/Class/is_a_/creative_work/guide.public.md) 
+### #is_/same_as :: [Guide.public](/_public/Society/Communication/Media/Creative_Work/Guide.public.md) 
 
-### #is_/same_as :: [guide.internal](/_internal/schema-org/Class/is_a_/creative_work/guide.internal.md) 
+### #is_/same_as :: [Guide.internal](/_internal/Society/Communication/Media/Creative_Work/Guide.internal.md) 
 
-### #is_/same_as :: [guide.protect](/_protect/schema-org/Class/is_a_/creative_work/guide.protect.md) 
+### #is_/same_as :: [Guide.protect](/_protect/Society/Communication/Media/Creative_Work/Guide.protect.md) 
 
-### #is_/same_as :: [guide.private](/_private/schema-org/Class/is_a_/creative_work/guide.private.md) 
+### #is_/same_as :: [Guide.private](/_private/Society/Communication/Media/Creative_Work/Guide.private.md) 
 
-### #is_/same_as :: [guide.personal](/_personal/schema-org/Class/is_a_/creative_work/guide.personal.md) 
+### #is_/same_as :: [Guide.personal](/_personal/Society/Communication/Media/Creative_Work/Guide.personal.md) 
 
-### #is_/same_as :: [guide.secret](/_secret/schema-org/Class/is_a_/creative_work/guide.secret.md)
+### #is_/same_as :: [Guide.secret](/_secret/Society/Communication/Media/Creative_Work/Guide.secret.md)
 

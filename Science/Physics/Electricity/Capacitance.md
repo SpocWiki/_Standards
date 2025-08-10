@@ -33,3 +33,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capacitance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Capacitance](/_Standards/Science/Physics/Electricity/Capacitance.md) 
+
+### #is_/same_as :: [Capacitance.public](/_public/Science/Physics/Electricity/Capacitance.public.md) 
+
+### #is_/same_as :: [Capacitance.internal](/_internal/Science/Physics/Electricity/Capacitance.internal.md) 
+
+### #is_/same_as :: [Capacitance.protect](/_protect/Science/Physics/Electricity/Capacitance.protect.md) 
+
+### #is_/same_as :: [Capacitance.private](/_private/Science/Physics/Electricity/Capacitance.private.md) 
+
+### #is_/same_as :: [Capacitance.personal](/_personal/Science/Physics/Electricity/Capacitance.personal.md) 
+
+### #is_/same_as :: [Capacitance.secret](/_secret/Science/Physics/Electricity/Capacitance.secret.md)
+

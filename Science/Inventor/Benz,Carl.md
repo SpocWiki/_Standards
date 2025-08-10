@@ -30,3 +30,22 @@ has_id_wikidata: Q40224
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Benz) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Benz,Carl](/_Standards/Science/Inventor/Benz,Carl.md) 
+
+### #is_/same_as :: [Benz,Carl.public](/_public/Science/Inventor/Benz,Carl.public.md) 
+
+### #is_/same_as :: [Benz,Carl.internal](/_internal/Science/Inventor/Benz,Carl.internal.md) 
+
+### #is_/same_as :: [Benz,Carl.protect](/_protect/Science/Inventor/Benz,Carl.protect.md) 
+
+### #is_/same_as :: [Benz,Carl.private](/_private/Science/Inventor/Benz,Carl.private.md) 
+
+### #is_/same_as :: [Benz,Carl.personal](/_personal/Science/Inventor/Benz,Carl.personal.md) 
+
+### #is_/same_as :: [Benz,Carl.secret](/_secret/Science/Inventor/Benz,Carl.secret.md)
+

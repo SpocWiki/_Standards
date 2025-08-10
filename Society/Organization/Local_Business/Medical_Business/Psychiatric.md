@@ -39,17 +39,17 @@ A specific branch of medical science that is concerned with the study, treatment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [psychiatric](psychiatric.md) 
+### #is_/same_as :: [Psychiatric](/_Standards/Society/Organization/Local_Business/Medical_Business/Psychiatric.md) 
 
-### #is_/same_as :: [psychiatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.public.md) 
+### #is_/same_as :: [Psychiatric.public](/_public/Society/Organization/Local_Business/Medical_Business/Psychiatric.public.md) 
 
-### #is_/same_as :: [psychiatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.internal.md) 
+### #is_/same_as :: [Psychiatric.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Psychiatric.internal.md) 
 
-### #is_/same_as :: [psychiatric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.protect.md) 
+### #is_/same_as :: [Psychiatric.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Psychiatric.protect.md) 
 
-### #is_/same_as :: [psychiatric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.private.md) 
+### #is_/same_as :: [Psychiatric.private](/_private/Society/Organization/Local_Business/Medical_Business/Psychiatric.private.md) 
 
-### #is_/same_as :: [psychiatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.personal.md) 
+### #is_/same_as :: [Psychiatric.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Psychiatric.personal.md) 
 
-### #is_/same_as :: [psychiatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.secret.md)
+### #is_/same_as :: [Psychiatric.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Psychiatric.secret.md)
 

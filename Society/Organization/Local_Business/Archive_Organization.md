@@ -40,17 +40,17 @@ An organization with archival holdings. An organization which keeps and preserve
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [archive_organization](archive_organization.md) 
+### #is_/same_as :: [Archive_Organization](/_Standards/Society/Organization/Local_Business/Archive_Organization.md) 
 
-### #is_/same_as :: [archive_organization.public](/_public/schema-org/Class/is_a_/organization/local_business/archive_organization.public.md) 
+### #is_/same_as :: [Archive_Organization.public](/_public/Society/Organization/Local_Business/Archive_Organization.public.md) 
 
-### #is_/same_as :: [archive_organization.internal](/_internal/schema-org/Class/is_a_/organization/local_business/archive_organization.internal.md) 
+### #is_/same_as :: [Archive_Organization.internal](/_internal/Society/Organization/Local_Business/Archive_Organization.internal.md) 
 
-### #is_/same_as :: [archive_organization.protect](/_protect/schema-org/Class/is_a_/organization/local_business/archive_organization.protect.md) 
+### #is_/same_as :: [Archive_Organization.protect](/_protect/Society/Organization/Local_Business/Archive_Organization.protect.md) 
 
-### #is_/same_as :: [archive_organization.private](/_private/schema-org/Class/is_a_/organization/local_business/archive_organization.private.md) 
+### #is_/same_as :: [Archive_Organization.private](/_private/Society/Organization/Local_Business/Archive_Organization.private.md) 
 
-### #is_/same_as :: [archive_organization.personal](/_personal/schema-org/Class/is_a_/organization/local_business/archive_organization.personal.md) 
+### #is_/same_as :: [Archive_Organization.personal](/_personal/Society/Organization/Local_Business/Archive_Organization.personal.md) 
 
-### #is_/same_as :: [archive_organization.secret](/_secret/schema-org/Class/is_a_/organization/local_business/archive_organization.secret.md)
+### #is_/same_as :: [Archive_Organization.secret](/_secret/Society/Organization/Local_Business/Archive_Organization.secret.md)
 

@@ -39,17 +39,17 @@ A specific branch of medical science that deals with benign and malignant tumors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [oncologic](oncologic.md) 
+### #is_/same_as :: [Oncologic](/_Standards/Society/Organization/Local_Business/Medical_Business/Oncologic.md) 
 
-### #is_/same_as :: [oncologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.public.md) 
+### #is_/same_as :: [Oncologic.public](/_public/Society/Organization/Local_Business/Medical_Business/Oncologic.public.md) 
 
-### #is_/same_as :: [oncologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.internal.md) 
+### #is_/same_as :: [Oncologic.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Oncologic.internal.md) 
 
-### #is_/same_as :: [oncologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.protect.md) 
+### #is_/same_as :: [Oncologic.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Oncologic.protect.md) 
 
-### #is_/same_as :: [oncologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.private.md) 
+### #is_/same_as :: [Oncologic.private](/_private/Society/Organization/Local_Business/Medical_Business/Oncologic.private.md) 
 
-### #is_/same_as :: [oncologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.personal.md) 
+### #is_/same_as :: [Oncologic.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Oncologic.personal.md) 
 
-### #is_/same_as :: [oncologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.secret.md)
+### #is_/same_as :: [Oncologic.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Oncologic.secret.md)
 

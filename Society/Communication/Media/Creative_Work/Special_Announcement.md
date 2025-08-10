@@ -118,17 +118,17 @@ e.g. "application/rss+xml" or "application/atom+xml".
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Special_Announcement](Special_Announcement.md) 
+### #is_/same_as :: [Special_Announcement](/_Standards/Society/Communication/Media/Creative_Work/Special_Announcement.md) 
 
-### #is_/same_as :: [special_announcement.public](/_public/schema-org/Class/is_a_/creative_work/special_announcement.public.md) 
+### #is_/same_as :: [Special_Announcement.public](/_public/Society/Communication/Media/Creative_Work/Special_Announcement.public.md) 
 
-### #is_/same_as :: [special_announcement.internal](/_internal/schema-org/Class/is_a_/creative_work/special_announcement.internal.md) 
+### #is_/same_as :: [Special_Announcement.internal](/_internal/Society/Communication/Media/Creative_Work/Special_Announcement.internal.md) 
 
-### #is_/same_as :: [special_announcement.protect](/_protect/schema-org/Class/is_a_/creative_work/special_announcement.protect.md) 
+### #is_/same_as :: [Special_Announcement.protect](/_protect/Society/Communication/Media/Creative_Work/Special_Announcement.protect.md) 
 
-### #is_/same_as :: [special_announcement.private](/_private/schema-org/Class/is_a_/creative_work/special_announcement.private.md) 
+### #is_/same_as :: [Special_Announcement.private](/_private/Society/Communication/Media/Creative_Work/Special_Announcement.private.md) 
 
-### #is_/same_as :: [special_announcement.personal](/_personal/schema-org/Class/is_a_/creative_work/special_announcement.personal.md) 
+### #is_/same_as :: [Special_Announcement.personal](/_personal/Society/Communication/Media/Creative_Work/Special_Announcement.personal.md) 
 
-### #is_/same_as :: [special_announcement.secret](/_secret/schema-org/Class/is_a_/creative_work/special_announcement.secret.md)
+### #is_/same_as :: [Special_Announcement.secret](/_secret/Society/Communication/Media/Creative_Work/Special_Announcement.secret.md)
 

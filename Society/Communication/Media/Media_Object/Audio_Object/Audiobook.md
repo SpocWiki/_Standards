@@ -40,17 +40,17 @@ An audiobook.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audiobook](Audiobook.md) 
+### #is_/same_as :: [Audiobook](/_Standards/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.md) 
 
-### #is_/same_as :: [audiobook.public](/_public/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.public.md) 
+### #is_/same_as :: [Audiobook.public](/_public/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.public.md) 
 
-### #is_/same_as :: [audiobook.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.internal.md) 
+### #is_/same_as :: [Audiobook.internal](/_internal/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.internal.md) 
 
-### #is_/same_as :: [audiobook.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.protect.md) 
+### #is_/same_as :: [Audiobook.protect](/_protect/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.protect.md) 
 
-### #is_/same_as :: [audiobook.private](/_private/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.private.md) 
+### #is_/same_as :: [Audiobook.private](/_private/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.private.md) 
 
-### #is_/same_as :: [audiobook.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.personal.md) 
+### #is_/same_as :: [Audiobook.personal](/_personal/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.personal.md) 
 
-### #is_/same_as :: [audiobook.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.secret.md)
+### #is_/same_as :: [Audiobook.secret](/_secret/Society/Communication/Media/Media_Object/Audio_Object/Audiobook.secret.md)
 

@@ -38,17 +38,17 @@ A simple system that adds up the number of risk factors to yield a score that is
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Risk_Score](Medical_Risk_Score.md) 
+### #is_/same_as :: [Medical_Risk_Score](/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.md) 
 
-### #is_/same_as :: [medical_risk_score.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.public.md) 
+### #is_/same_as :: [Medical_Risk_Score.public](/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.public.md) 
 
-### #is_/same_as :: [medical_risk_score.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.internal.md) 
+### #is_/same_as :: [Medical_Risk_Score.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.internal.md) 
 
-### #is_/same_as :: [medical_risk_score.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.protect.md) 
+### #is_/same_as :: [Medical_Risk_Score.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.protect.md) 
 
-### #is_/same_as :: [medical_risk_score.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.private.md) 
+### #is_/same_as :: [Medical_Risk_Score.private](/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.private.md) 
 
-### #is_/same_as :: [medical_risk_score.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.personal.md) 
+### #is_/same_as :: [Medical_Risk_Score.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.personal.md) 
 
-### #is_/same_as :: [medical_risk_score.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.secret.md)
+### #is_/same_as :: [Medical_Risk_Score.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Score.secret.md)
 

@@ -43,17 +43,17 @@ Entities that have a somewhat fixed, physical extension.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Place](Place.md) 
+### #is_/same_as :: [Place](/_Standards/Earth/Geography/Place.md) 
 
-### #is_/same_as :: [place.public](/_public/schema-org/Class/is_a_/place.public.md) 
+### #is_/same_as :: [Place.public](/_public/Earth/Geography/Place.public.md) 
 
-### #is_/same_as :: [place.internal](/_internal/schema-org/Class/is_a_/place.internal.md) 
+### #is_/same_as :: [Place.internal](/_internal/Earth/Geography/Place.internal.md) 
 
-### #is_/same_as :: [place.protect](/_protect/schema-org/Class/is_a_/place.protect.md) 
+### #is_/same_as :: [Place.protect](/_protect/Earth/Geography/Place.protect.md) 
 
-### #is_/same_as :: [place.private](/_private/schema-org/Class/is_a_/place.private.md) 
+### #is_/same_as :: [Place.private](/_private/Earth/Geography/Place.private.md) 
 
-### #is_/same_as :: [place.personal](/_personal/schema-org/Class/is_a_/place.personal.md) 
+### #is_/same_as :: [Place.personal](/_personal/Earth/Geography/Place.personal.md) 
 
-### #is_/same_as :: [place.secret](/_secret/schema-org/Class/is_a_/place.secret.md)
+### #is_/same_as :: [Place.secret](/_secret/Earth/Geography/Place.secret.md)
 

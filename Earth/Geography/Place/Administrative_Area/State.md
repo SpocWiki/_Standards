@@ -106,17 +106,17 @@ Tag Instances like this: #is_a_/state
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [State](State.md) 
+### #is_/same_as :: [State](/_Standards/Earth/Geography/Place/Administrative_Area/State.md) 
 
-### #is_/same_as :: [state.public](/_public/schema-org/Class/is_a_/place/administrative_area/state.public.md) 
+### #is_/same_as :: [State.public](/_public/Earth/Geography/Place/Administrative_Area/State.public.md) 
 
-### #is_/same_as :: [state.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/state.internal.md) 
+### #is_/same_as :: [State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State.internal.md) 
 
-### #is_/same_as :: [state.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/state.protect.md) 
+### #is_/same_as :: [State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State.protect.md) 
 
-### #is_/same_as :: [state.private](/_private/schema-org/Class/is_a_/place/administrative_area/state.private.md) 
+### #is_/same_as :: [State.private](/_private/Earth/Geography/Place/Administrative_Area/State.private.md) 
 
-### #is_/same_as :: [state.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/state.personal.md) 
+### #is_/same_as :: [State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State.personal.md) 
 
-### #is_/same_as :: [state.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/state.secret.md)
+### #is_/same_as :: [State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State.secret.md)
 

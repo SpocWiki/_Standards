@@ -38,17 +38,17 @@ An amusement park.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amusement_Park](Amusement_Park.md) 
+### #is_/same_as :: [Amusement_Park](/_Standards/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.md) 
 
-### #is_/same_as :: [amusement_park.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/amusement_park.public.md) 
+### #is_/same_as :: [Amusement_Park.public](/_public/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.public.md) 
 
-### #is_/same_as :: [amusement_park.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/amusement_park.internal.md) 
+### #is_/same_as :: [Amusement_Park.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.internal.md) 
 
-### #is_/same_as :: [amusement_park.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/amusement_park.protect.md) 
+### #is_/same_as :: [Amusement_Park.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.protect.md) 
 
-### #is_/same_as :: [amusement_park.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/amusement_park.private.md) 
+### #is_/same_as :: [Amusement_Park.private](/_private/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.private.md) 
 
-### #is_/same_as :: [amusement_park.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/amusement_park.personal.md) 
+### #is_/same_as :: [Amusement_Park.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.personal.md) 
 
-### #is_/same_as :: [amusement_park.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/amusement_park.secret.md)
+### #is_/same_as :: [Amusement_Park.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business/Amusement_Park.secret.md)
 

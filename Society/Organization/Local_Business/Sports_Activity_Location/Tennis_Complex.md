@@ -38,17 +38,17 @@ A tennis complex.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [tennis_complex](tennis_complex.md) 
+### #is_/same_as :: [Tennis_Complex](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.md) 
 
-### #is_/same_as :: [tennis_complex.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.public.md) 
+### #is_/same_as :: [Tennis_Complex.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.public.md) 
 
-### #is_/same_as :: [tennis_complex.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.internal.md) 
+### #is_/same_as :: [Tennis_Complex.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.internal.md) 
 
-### #is_/same_as :: [tennis_complex.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.protect.md) 
+### #is_/same_as :: [Tennis_Complex.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.protect.md) 
 
-### #is_/same_as :: [tennis_complex.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.private.md) 
+### #is_/same_as :: [Tennis_Complex.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.private.md) 
 
-### #is_/same_as :: [tennis_complex.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.personal.md) 
+### #is_/same_as :: [Tennis_Complex.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.personal.md) 
 
-### #is_/same_as :: [tennis_complex.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.secret.md)
+### #is_/same_as :: [Tennis_Complex.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Tennis_Complex.secret.md)
 

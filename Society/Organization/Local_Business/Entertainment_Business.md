@@ -40,17 +40,17 @@ A business providing entertainment.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Entertainment_Business](Entertainment_Business.md) 
+### #is_/same_as :: [Entertainment_Business](/_Standards/Society/Organization/Local_Business/Entertainment_Business.md) 
 
-### #is_/same_as :: [entertainment_business.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business.public.md) 
+### #is_/same_as :: [Entertainment_Business.public](/_public/Society/Organization/Local_Business/Entertainment_Business.public.md) 
 
-### #is_/same_as :: [entertainment_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business.internal.md) 
+### #is_/same_as :: [Entertainment_Business.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business.internal.md) 
 
-### #is_/same_as :: [entertainment_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business.protect.md) 
+### #is_/same_as :: [Entertainment_Business.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business.protect.md) 
 
-### #is_/same_as :: [entertainment_business.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business.private.md) 
+### #is_/same_as :: [Entertainment_Business.private](/_private/Society/Organization/Local_Business/Entertainment_Business.private.md) 
 
-### #is_/same_as :: [entertainment_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business.personal.md) 
+### #is_/same_as :: [Entertainment_Business.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business.personal.md) 
 
-### #is_/same_as :: [entertainment_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business.secret.md)
+### #is_/same_as :: [Entertainment_Business.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business.secret.md)
 

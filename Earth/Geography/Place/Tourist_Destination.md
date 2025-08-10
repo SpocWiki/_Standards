@@ -41,17 +41,17 @@ A tourist destination. In principle any [[../../../../Earth/Geography/Place]] ca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tourist_Destination](Tourist_Destination.md) 
+### #is_/same_as :: [Tourist_Destination](/_Standards/Earth/Geography/Place/Tourist_Destination.md) 
 
-### #is_/same_as :: [tourist_destination.public](/_public/schema-org/Class/is_a_/place/tourist_destination.public.md) 
+### #is_/same_as :: [Tourist_Destination.public](/_public/Earth/Geography/Place/Tourist_Destination.public.md) 
 
-### #is_/same_as :: [tourist_destination.internal](/_internal/schema-org/Class/is_a_/place/tourist_destination.internal.md) 
+### #is_/same_as :: [Tourist_Destination.internal](/_internal/Earth/Geography/Place/Tourist_Destination.internal.md) 
 
-### #is_/same_as :: [tourist_destination.protect](/_protect/schema-org/Class/is_a_/place/tourist_destination.protect.md) 
+### #is_/same_as :: [Tourist_Destination.protect](/_protect/Earth/Geography/Place/Tourist_Destination.protect.md) 
 
-### #is_/same_as :: [tourist_destination.private](/_private/schema-org/Class/is_a_/place/tourist_destination.private.md) 
+### #is_/same_as :: [Tourist_Destination.private](/_private/Earth/Geography/Place/Tourist_Destination.private.md) 
 
-### #is_/same_as :: [tourist_destination.personal](/_personal/schema-org/Class/is_a_/place/tourist_destination.personal.md) 
+### #is_/same_as :: [Tourist_Destination.personal](/_personal/Earth/Geography/Place/Tourist_Destination.personal.md) 
 
-### #is_/same_as :: [tourist_destination.secret](/_secret/schema-org/Class/is_a_/place/tourist_destination.secret.md)
+### #is_/same_as :: [Tourist_Destination.secret](/_secret/Earth/Geography/Place/Tourist_Destination.secret.md)
 

@@ -38,17 +38,17 @@ A medical laboratory that offers on-site or off-site diagnostic services.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [diagnostic_lab](diagnostic_lab.md) 
+### #is_/same_as :: [Diagnostic_Lab](/_Standards/Society/Organization/Medical_Organization/Diagnostic_Lab.md) 
 
-### #is_/same_as :: [diagnostic_lab.public](/_public/schema-org/Class/is_a_/organization/medical_organization/diagnostic_lab.public.md) 
+### #is_/same_as :: [Diagnostic_Lab.public](/_public/Society/Organization/Medical_Organization/Diagnostic_Lab.public.md) 
 
-### #is_/same_as :: [diagnostic_lab.internal](/_internal/schema-org/Class/is_a_/organization/medical_organization/diagnostic_lab.internal.md) 
+### #is_/same_as :: [Diagnostic_Lab.internal](/_internal/Society/Organization/Medical_Organization/Diagnostic_Lab.internal.md) 
 
-### #is_/same_as :: [diagnostic_lab.protect](/_protect/schema-org/Class/is_a_/organization/medical_organization/diagnostic_lab.protect.md) 
+### #is_/same_as :: [Diagnostic_Lab.protect](/_protect/Society/Organization/Medical_Organization/Diagnostic_Lab.protect.md) 
 
-### #is_/same_as :: [diagnostic_lab.private](/_private/schema-org/Class/is_a_/organization/medical_organization/diagnostic_lab.private.md) 
+### #is_/same_as :: [Diagnostic_Lab.private](/_private/Society/Organization/Medical_Organization/Diagnostic_Lab.private.md) 
 
-### #is_/same_as :: [diagnostic_lab.personal](/_personal/schema-org/Class/is_a_/organization/medical_organization/diagnostic_lab.personal.md) 
+### #is_/same_as :: [Diagnostic_Lab.personal](/_personal/Society/Organization/Medical_Organization/Diagnostic_Lab.personal.md) 
 
-### #is_/same_as :: [diagnostic_lab.secret](/_secret/schema-org/Class/is_a_/organization/medical_organization/diagnostic_lab.secret.md)
+### #is_/same_as :: [Diagnostic_Lab.secret](/_secret/Society/Organization/Medical_Organization/Diagnostic_Lab.secret.md)
 

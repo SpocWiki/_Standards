@@ -46,17 +46,17 @@ Wolfram_Language_entity_code: "Entity[\"Book\", \"ArtOfWar\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Art_of_War](Art_of_War.md) 
+### #is_/same_as :: [Art_of_War](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.md) 
 
-### #is_/same_as :: [Art_of_War.public](/_public/Society/Communication/Media/Book/Literary_Works/Art_of_War.public.md) 
+### #is_/same_as :: [Art_of_War.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.public.md) 
 
-### #is_/same_as :: [Art_of_War.internal](/_internal/Society/Communication/Media/Book/Literary_Works/Art_of_War.internal.md) 
+### #is_/same_as :: [Art_of_War.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.internal.md) 
 
-### #is_/same_as :: [Art_of_War.protect](/_protect/Society/Communication/Media/Book/Literary_Works/Art_of_War.protect.md) 
+### #is_/same_as :: [Art_of_War.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.protect.md) 
 
-### #is_/same_as :: [Art_of_War.private](/_private/Society/Communication/Media/Book/Literary_Works/Art_of_War.private.md) 
+### #is_/same_as :: [Art_of_War.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.private.md) 
 
-### #is_/same_as :: [Art_of_War.personal](/_personal/Society/Communication/Media/Book/Literary_Works/Art_of_War.personal.md) 
+### #is_/same_as :: [Art_of_War.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.personal.md) 
 
-### #is_/same_as :: [Art_of_War.secret](/_secret/Society/Communication/Media/Book/Literary_Works/Art_of_War.secret.md)
+### #is_/same_as :: [Art_of_War.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Art_of_War.secret.md)
 

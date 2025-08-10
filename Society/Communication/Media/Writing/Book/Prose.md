@@ -30,17 +30,17 @@ subclass_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prose](Prose.md) 
+### #is_/same_as :: [Prose](/_Standards/Society/Communication/Media/Writing/Book/Prose.md) 
 
-### #is_/same_as :: [Prose.public](/_public/Society/Communication/Media/Book/Prose.public.md) 
+### #is_/same_as :: [Prose.public](/_public/Society/Communication/Media/Writing/Book/Prose.public.md) 
 
-### #is_/same_as :: [Prose.internal](/_internal/Society/Communication/Media/Book/Prose.internal.md) 
+### #is_/same_as :: [Prose.internal](/_internal/Society/Communication/Media/Writing/Book/Prose.internal.md) 
 
-### #is_/same_as :: [Prose.protect](/_protect/Society/Communication/Media/Book/Prose.protect.md) 
+### #is_/same_as :: [Prose.protect](/_protect/Society/Communication/Media/Writing/Book/Prose.protect.md) 
 
-### #is_/same_as :: [Prose.private](/_private/Society/Communication/Media/Book/Prose.private.md) 
+### #is_/same_as :: [Prose.private](/_private/Society/Communication/Media/Writing/Book/Prose.private.md) 
 
-### #is_/same_as :: [Prose.personal](/_personal/Society/Communication/Media/Book/Prose.personal.md) 
+### #is_/same_as :: [Prose.personal](/_personal/Society/Communication/Media/Writing/Book/Prose.personal.md) 
 
-### #is_/same_as :: [Prose.secret](/_secret/Society/Communication/Media/Book/Prose.secret.md)
+### #is_/same_as :: [Prose.secret](/_secret/Society/Communication/Media/Writing/Book/Prose.secret.md)
 

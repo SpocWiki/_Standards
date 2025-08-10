@@ -40,17 +40,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [accounting_service](accounting_service.md) 
+### #is_/same_as :: [Accounting_Service](/_Standards/Society/Organization/Local_Business/Financial_Service/Accounting_Service.md) 
 
-### #is_/same_as :: [accounting_service.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/accounting_service.public.md) 
+### #is_/same_as :: [Accounting_Service.public](/_public/Society/Organization/Local_Business/Financial_Service/Accounting_Service.public.md) 
 
-### #is_/same_as :: [accounting_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/accounting_service.internal.md) 
+### #is_/same_as :: [Accounting_Service.internal](/_internal/Society/Organization/Local_Business/Financial_Service/Accounting_Service.internal.md) 
 
-### #is_/same_as :: [accounting_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/accounting_service.protect.md) 
+### #is_/same_as :: [Accounting_Service.protect](/_protect/Society/Organization/Local_Business/Financial_Service/Accounting_Service.protect.md) 
 
-### #is_/same_as :: [accounting_service.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/accounting_service.private.md) 
+### #is_/same_as :: [Accounting_Service.private](/_private/Society/Organization/Local_Business/Financial_Service/Accounting_Service.private.md) 
 
-### #is_/same_as :: [accounting_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/accounting_service.personal.md) 
+### #is_/same_as :: [Accounting_Service.personal](/_personal/Society/Organization/Local_Business/Financial_Service/Accounting_Service.personal.md) 
 
-### #is_/same_as :: [accounting_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/accounting_service.secret.md)
+### #is_/same_as :: [Accounting_Service.secret](/_secret/Society/Organization/Local_Business/Financial_Service/Accounting_Service.secret.md)
 

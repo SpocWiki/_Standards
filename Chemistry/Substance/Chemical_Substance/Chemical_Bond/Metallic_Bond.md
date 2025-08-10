@@ -34,3 +34,22 @@ Commons_category: Metallic bonding
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallic%20bonding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Metallic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.md) 
+
+### #is_/same_as :: [Metallic_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.public.md) 
+
+### #is_/same_as :: [Metallic_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.internal.md) 
+
+### #is_/same_as :: [Metallic_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.protect.md) 
+
+### #is_/same_as :: [Metallic_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.private.md) 
+
+### #is_/same_as :: [Metallic_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.personal.md) 
+
+### #is_/same_as :: [Metallic_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.secret.md)
+

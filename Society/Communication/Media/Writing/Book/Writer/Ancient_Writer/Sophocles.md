@@ -111,17 +111,17 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sophocles](Sophocles.md) 
+### #is_/same_as :: [Sophocles](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.md) 
 
-### #is_/same_as :: [Sophocles.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.public.md) 
+### #is_/same_as :: [Sophocles.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.public.md) 
 
-### #is_/same_as :: [Sophocles.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.internal.md) 
+### #is_/same_as :: [Sophocles.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.internal.md) 
 
-### #is_/same_as :: [Sophocles.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.protect.md) 
+### #is_/same_as :: [Sophocles.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.protect.md) 
 
-### #is_/same_as :: [Sophocles.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.private.md) 
+### #is_/same_as :: [Sophocles.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.private.md) 
 
-### #is_/same_as :: [Sophocles.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.personal.md) 
+### #is_/same_as :: [Sophocles.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.personal.md) 
 
-### #is_/same_as :: [Sophocles.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Sophocles.secret.md)
+### #is_/same_as :: [Sophocles.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Sophocles.secret.md)
 

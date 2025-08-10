@@ -38,17 +38,17 @@ Residence type: Apartment complex.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apartment_Complex](Apartment_Complex.md) 
+### #is_/same_as :: [Apartment_Complex](/_Standards/Earth/Geography/Place/Residence/Apartment_Complex.md) 
 
-### #is_/same_as :: [apartment_complex.public](/_public/schema-org/Class/is_a_/place/residence/apartment_complex.public.md) 
+### #is_/same_as :: [Apartment_Complex.public](/_public/Earth/Geography/Place/Residence/Apartment_Complex.public.md) 
 
-### #is_/same_as :: [apartment_complex.internal](/_internal/schema-org/Class/is_a_/place/residence/apartment_complex.internal.md) 
+### #is_/same_as :: [Apartment_Complex.internal](/_internal/Earth/Geography/Place/Residence/Apartment_Complex.internal.md) 
 
-### #is_/same_as :: [apartment_complex.protect](/_protect/schema-org/Class/is_a_/place/residence/apartment_complex.protect.md) 
+### #is_/same_as :: [Apartment_Complex.protect](/_protect/Earth/Geography/Place/Residence/Apartment_Complex.protect.md) 
 
-### #is_/same_as :: [apartment_complex.private](/_private/schema-org/Class/is_a_/place/residence/apartment_complex.private.md) 
+### #is_/same_as :: [Apartment_Complex.private](/_private/Earth/Geography/Place/Residence/Apartment_Complex.private.md) 
 
-### #is_/same_as :: [apartment_complex.personal](/_personal/schema-org/Class/is_a_/place/residence/apartment_complex.personal.md) 
+### #is_/same_as :: [Apartment_Complex.personal](/_personal/Earth/Geography/Place/Residence/Apartment_Complex.personal.md) 
 
-### #is_/same_as :: [apartment_complex.secret](/_secret/schema-org/Class/is_a_/place/residence/apartment_complex.secret.md)
+### #is_/same_as :: [Apartment_Complex.secret](/_secret/Earth/Geography/Place/Residence/Apartment_Complex.secret.md)
 

@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ministry_of_Truth](Ministry_of_Truth.md) 
+### #is_/same_as :: [Ministry_of_Truth](/_Standards/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.md) 
 
-### #is_/same_as :: [Ministry_of_Truth.public](/_public/Society/Communication/Media/Book/Author/Orwell,George/Ministry_of_Truth.public.md) 
+### #is_/same_as :: [Ministry_of_Truth.public](/_public/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.public.md) 
 
-### #is_/same_as :: [Ministry_of_Truth.internal](/_internal/Society/Communication/Media/Book/Author/Orwell,George/Ministry_of_Truth.internal.md) 
+### #is_/same_as :: [Ministry_of_Truth.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.internal.md) 
 
-### #is_/same_as :: [Ministry_of_Truth.protect](/_protect/Society/Communication/Media/Book/Author/Orwell,George/Ministry_of_Truth.protect.md) 
+### #is_/same_as :: [Ministry_of_Truth.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.protect.md) 
 
-### #is_/same_as :: [Ministry_of_Truth.private](/_private/Society/Communication/Media/Book/Author/Orwell,George/Ministry_of_Truth.private.md) 
+### #is_/same_as :: [Ministry_of_Truth.private](/_private/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.private.md) 
 
-### #is_/same_as :: [Ministry_of_Truth.personal](/_personal/Society/Communication/Media/Book/Author/Orwell,George/Ministry_of_Truth.personal.md) 
+### #is_/same_as :: [Ministry_of_Truth.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.personal.md) 
 
-### #is_/same_as :: [Ministry_of_Truth.secret](/_secret/Society/Communication/Media/Book/Author/Orwell,George/Ministry_of_Truth.secret.md)
+### #is_/same_as :: [Ministry_of_Truth.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Orwell,George/Ministry_of_Truth.secret.md)
 

@@ -38,17 +38,17 @@ An ice cream shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ice_cream_shop](ice_cream_shop.md) 
+### #is_/same_as :: [Ice_Cream_Shop](/_Standards/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.md) 
 
-### #is_/same_as :: [ice_cream_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.public.md) 
+### #is_/same_as :: [Ice_Cream_Shop.public](/_public/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.public.md) 
 
-### #is_/same_as :: [ice_cream_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.internal.md) 
+### #is_/same_as :: [Ice_Cream_Shop.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.internal.md) 
 
-### #is_/same_as :: [ice_cream_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.protect.md) 
+### #is_/same_as :: [Ice_Cream_Shop.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.protect.md) 
 
-### #is_/same_as :: [ice_cream_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.private.md) 
+### #is_/same_as :: [Ice_Cream_Shop.private](/_private/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.private.md) 
 
-### #is_/same_as :: [ice_cream_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.personal.md) 
+### #is_/same_as :: [Ice_Cream_Shop.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.personal.md) 
 
-### #is_/same_as :: [ice_cream_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.secret.md)
+### #is_/same_as :: [Ice_Cream_Shop.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Ice_Cream_Shop.secret.md)
 

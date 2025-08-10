@@ -38,17 +38,17 @@ A golf course.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [golf_course](golf_course.md) 
+### #is_/same_as :: [Golf_Course](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.md) 
 
-### #is_/same_as :: [golf_course.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.public.md) 
+### #is_/same_as :: [Golf_Course.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.public.md) 
 
-### #is_/same_as :: [golf_course.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.internal.md) 
+### #is_/same_as :: [Golf_Course.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.internal.md) 
 
-### #is_/same_as :: [golf_course.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.protect.md) 
+### #is_/same_as :: [Golf_Course.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.protect.md) 
 
-### #is_/same_as :: [golf_course.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.private.md) 
+### #is_/same_as :: [Golf_Course.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.private.md) 
 
-### #is_/same_as :: [golf_course.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.personal.md) 
+### #is_/same_as :: [Golf_Course.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.personal.md) 
 
-### #is_/same_as :: [golf_course.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.secret.md)
+### #is_/same_as :: [Golf_Course.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Golf_Course.secret.md)
 

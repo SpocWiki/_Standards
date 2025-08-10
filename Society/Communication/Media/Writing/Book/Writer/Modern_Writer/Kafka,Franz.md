@@ -181,17 +181,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kafka,Franz](Kafka,Franz.md) 
+### #is_/same_as :: [Kafka,Franz](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.md) 
 
-### #is_/same_as :: [Kafka,Franz.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.public.md) 
+### #is_/same_as :: [Kafka,Franz.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.public.md) 
 
-### #is_/same_as :: [Kafka,Franz.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.internal.md) 
+### #is_/same_as :: [Kafka,Franz.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.internal.md) 
 
-### #is_/same_as :: [Kafka,Franz.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.protect.md) 
+### #is_/same_as :: [Kafka,Franz.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.protect.md) 
 
-### #is_/same_as :: [Kafka,Franz.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.private.md) 
+### #is_/same_as :: [Kafka,Franz.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.private.md) 
 
-### #is_/same_as :: [Kafka,Franz.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.personal.md) 
+### #is_/same_as :: [Kafka,Franz.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.personal.md) 
 
-### #is_/same_as :: [Kafka,Franz.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Kafka,Franz.secret.md)
+### #is_/same_as :: [Kafka,Franz.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Kafka,Franz.secret.md)
 

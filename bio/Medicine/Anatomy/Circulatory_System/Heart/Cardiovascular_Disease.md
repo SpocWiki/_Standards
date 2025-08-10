@@ -85,3 +85,22 @@ UMLS_CUI:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cardiovascular%20disease) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cardiovascular_Disease](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.md) 
+
+### #is_/same_as :: [Cardiovascular_Disease.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.public.md) 
+
+### #is_/same_as :: [Cardiovascular_Disease.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.internal.md) 
+
+### #is_/same_as :: [Cardiovascular_Disease.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.protect.md) 
+
+### #is_/same_as :: [Cardiovascular_Disease.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.private.md) 
+
+### #is_/same_as :: [Cardiovascular_Disease.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.personal.md) 
+
+### #is_/same_as :: [Cardiovascular_Disease.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiovascular_Disease.secret.md)
+

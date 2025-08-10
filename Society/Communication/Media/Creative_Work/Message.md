@@ -40,17 +40,17 @@ A single message from a sender to one or more organizations or people.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Message](Message.md) 
+### #is_/same_as :: [Message](/_Standards/Society/Communication/Media/Creative_Work/Message.md) 
 
-### #is_/same_as :: [message.public](/_public/schema-org/Class/is_a_/creative_work/message.public.md) 
+### #is_/same_as :: [Message.public](/_public/Society/Communication/Media/Creative_Work/Message.public.md) 
 
-### #is_/same_as :: [message.internal](/_internal/schema-org/Class/is_a_/creative_work/message.internal.md) 
+### #is_/same_as :: [Message.internal](/_internal/Society/Communication/Media/Creative_Work/Message.internal.md) 
 
-### #is_/same_as :: [message.protect](/_protect/schema-org/Class/is_a_/creative_work/message.protect.md) 
+### #is_/same_as :: [Message.protect](/_protect/Society/Communication/Media/Creative_Work/Message.protect.md) 
 
-### #is_/same_as :: [message.private](/_private/schema-org/Class/is_a_/creative_work/message.private.md) 
+### #is_/same_as :: [Message.private](/_private/Society/Communication/Media/Creative_Work/Message.private.md) 
 
-### #is_/same_as :: [message.personal](/_personal/schema-org/Class/is_a_/creative_work/message.personal.md) 
+### #is_/same_as :: [Message.personal](/_personal/Society/Communication/Media/Creative_Work/Message.personal.md) 
 
-### #is_/same_as :: [message.secret](/_secret/schema-org/Class/is_a_/creative_work/message.secret.md)
+### #is_/same_as :: [Message.secret](/_secret/Society/Communication/Media/Creative_Work/Message.secret.md)
 

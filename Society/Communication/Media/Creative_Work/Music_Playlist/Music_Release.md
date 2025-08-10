@@ -38,17 +38,17 @@ A MusicRelease is a specific release of a music album.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Release](Music_Release.md) 
+### #is_/same_as :: [Music_Release](/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.md) 
 
-### #is_/same_as :: [music_release.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist/music_release.public.md) 
+### #is_/same_as :: [Music_Release.public](/_public/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.public.md) 
 
-### #is_/same_as :: [music_release.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist/music_release.internal.md) 
+### #is_/same_as :: [Music_Release.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.internal.md) 
 
-### #is_/same_as :: [music_release.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist/music_release.protect.md) 
+### #is_/same_as :: [Music_Release.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.protect.md) 
 
-### #is_/same_as :: [music_release.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist/music_release.private.md) 
+### #is_/same_as :: [Music_Release.private](/_private/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.private.md) 
 
-### #is_/same_as :: [music_release.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist/music_release.personal.md) 
+### #is_/same_as :: [Music_Release.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.personal.md) 
 
-### #is_/same_as :: [music_release.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist/music_release.secret.md)
+### #is_/same_as :: [Music_Release.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release.secret.md)
 

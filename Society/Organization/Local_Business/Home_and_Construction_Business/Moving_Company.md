@@ -38,17 +38,17 @@ A moving company.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [moving_company](moving_company.md) 
+### #is_/same_as :: [Moving_Company](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.md) 
 
-### #is_/same_as :: [moving_company.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.public.md) 
+### #is_/same_as :: [Moving_Company.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.public.md) 
 
-### #is_/same_as :: [moving_company.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.internal.md) 
+### #is_/same_as :: [Moving_Company.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.internal.md) 
 
-### #is_/same_as :: [moving_company.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.protect.md) 
+### #is_/same_as :: [Moving_Company.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.protect.md) 
 
-### #is_/same_as :: [moving_company.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.private.md) 
+### #is_/same_as :: [Moving_Company.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.private.md) 
 
-### #is_/same_as :: [moving_company.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.personal.md) 
+### #is_/same_as :: [Moving_Company.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.personal.md) 
 
-### #is_/same_as :: [moving_company.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.secret.md)
+### #is_/same_as :: [Moving_Company.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Moving_Company.secret.md)
 

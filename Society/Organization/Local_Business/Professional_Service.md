@@ -42,17 +42,17 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [professional_service](professional_service.md) 
+### #is_/same_as :: [Professional_Service](/_Standards/Society/Organization/Local_Business/Professional_Service.md) 
 
-### #is_/same_as :: [professional_service.public](/_public/schema-org/Class/is_a_/organization/local_business/professional_service.public.md) 
+### #is_/same_as :: [Professional_Service.public](/_public/Society/Organization/Local_Business/Professional_Service.public.md) 
 
-### #is_/same_as :: [professional_service.internal](/_internal/schema-org/Class/is_a_/organization/local_business/professional_service.internal.md) 
+### #is_/same_as :: [Professional_Service.internal](/_internal/Society/Organization/Local_Business/Professional_Service.internal.md) 
 
-### #is_/same_as :: [professional_service.protect](/_protect/schema-org/Class/is_a_/organization/local_business/professional_service.protect.md) 
+### #is_/same_as :: [Professional_Service.protect](/_protect/Society/Organization/Local_Business/Professional_Service.protect.md) 
 
-### #is_/same_as :: [professional_service.private](/_private/schema-org/Class/is_a_/organization/local_business/professional_service.private.md) 
+### #is_/same_as :: [Professional_Service.private](/_private/Society/Organization/Local_Business/Professional_Service.private.md) 
 
-### #is_/same_as :: [professional_service.personal](/_personal/schema-org/Class/is_a_/organization/local_business/professional_service.personal.md) 
+### #is_/same_as :: [Professional_Service.personal](/_personal/Society/Organization/Local_Business/Professional_Service.personal.md) 
 
-### #is_/same_as :: [professional_service.secret](/_secret/schema-org/Class/is_a_/organization/local_business/professional_service.secret.md)
+### #is_/same_as :: [Professional_Service.secret](/_secret/Society/Organization/Local_Business/Professional_Service.secret.md)
 

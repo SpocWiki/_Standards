@@ -92,17 +92,17 @@ work_period_start_: "1934-01-01T00:00:00Z"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golding,William](Golding,William.md) 
+### #is_/same_as :: [Golding,William](/_Standards/Society/Communication/Media/Writing/Book/Author/Golding,William.md) 
 
-### #is_/same_as :: [Golding,William.public](/_public/Society/Communication/Media/Book/Author/Golding,William.public.md) 
+### #is_/same_as :: [Golding,William.public](/_public/Society/Communication/Media/Writing/Book/Author/Golding,William.public.md) 
 
-### #is_/same_as :: [Golding,William.internal](/_internal/Society/Communication/Media/Book/Author/Golding,William.internal.md) 
+### #is_/same_as :: [Golding,William.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Golding,William.internal.md) 
 
-### #is_/same_as :: [Golding,William.protect](/_protect/Society/Communication/Media/Book/Author/Golding,William.protect.md) 
+### #is_/same_as :: [Golding,William.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Golding,William.protect.md) 
 
-### #is_/same_as :: [Golding,William.private](/_private/Society/Communication/Media/Book/Author/Golding,William.private.md) 
+### #is_/same_as :: [Golding,William.private](/_private/Society/Communication/Media/Writing/Book/Author/Golding,William.private.md) 
 
-### #is_/same_as :: [Golding,William.personal](/_personal/Society/Communication/Media/Book/Author/Golding,William.personal.md) 
+### #is_/same_as :: [Golding,William.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Golding,William.personal.md) 
 
-### #is_/same_as :: [Golding,William.secret](/_secret/Society/Communication/Media/Book/Author/Golding,William.secret.md)
+### #is_/same_as :: [Golding,William.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Golding,William.secret.md)
 

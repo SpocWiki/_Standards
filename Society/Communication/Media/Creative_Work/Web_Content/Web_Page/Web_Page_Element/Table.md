@@ -38,17 +38,17 @@ A table on a Web page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Table](Table.md) 
+### #is_/same_as :: [Table](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.md) 
 
-### #is_/same_as :: [table.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/table.public.md) 
+### #is_/same_as :: [Table.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.public.md) 
 
-### #is_/same_as :: [table.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/table.internal.md) 
+### #is_/same_as :: [Table.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.internal.md) 
 
-### #is_/same_as :: [table.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/table.protect.md) 
+### #is_/same_as :: [Table.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.protect.md) 
 
-### #is_/same_as :: [table.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/table.private.md) 
+### #is_/same_as :: [Table.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.private.md) 
 
-### #is_/same_as :: [table.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/table.personal.md) 
+### #is_/same_as :: [Table.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.personal.md) 
 
-### #is_/same_as :: [table.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/table.secret.md)
+### #is_/same_as :: [Table.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table.secret.md)
 

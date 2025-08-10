@@ -38,17 +38,17 @@ A sports club.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [sports_club](sports_club.md) 
+### #is_/same_as :: [Sports_Club](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.md) 
 
-### #is_/same_as :: [sports_club.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.public.md) 
+### #is_/same_as :: [Sports_Club.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.public.md) 
 
-### #is_/same_as :: [sports_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.internal.md) 
+### #is_/same_as :: [Sports_Club.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.internal.md) 
 
-### #is_/same_as :: [sports_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.protect.md) 
+### #is_/same_as :: [Sports_Club.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.protect.md) 
 
-### #is_/same_as :: [sports_club.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.private.md) 
+### #is_/same_as :: [Sports_Club.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.private.md) 
 
-### #is_/same_as :: [sports_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.personal.md) 
+### #is_/same_as :: [Sports_Club.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.personal.md) 
 
-### #is_/same_as :: [sports_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.secret.md)
+### #is_/same_as :: [Sports_Club.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Sports_Club.secret.md)
 

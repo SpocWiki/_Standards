@@ -40,17 +40,17 @@ A quotation. Often but not necessarily from some written work, attributable to a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quotation](Quotation.md) 
+### #is_/same_as :: [Quotation](/_Standards/Society/Communication/Media/Creative_Work/Quotation.md) 
 
-### #is_/same_as :: [quotation.public](/_public/schema-org/Class/is_a_/creative_work/quotation.public.md) 
+### #is_/same_as :: [Quotation.public](/_public/Society/Communication/Media/Creative_Work/Quotation.public.md) 
 
-### #is_/same_as :: [quotation.internal](/_internal/schema-org/Class/is_a_/creative_work/quotation.internal.md) 
+### #is_/same_as :: [Quotation.internal](/_internal/Society/Communication/Media/Creative_Work/Quotation.internal.md) 
 
-### #is_/same_as :: [quotation.protect](/_protect/schema-org/Class/is_a_/creative_work/quotation.protect.md) 
+### #is_/same_as :: [Quotation.protect](/_protect/Society/Communication/Media/Creative_Work/Quotation.protect.md) 
 
-### #is_/same_as :: [quotation.private](/_private/schema-org/Class/is_a_/creative_work/quotation.private.md) 
+### #is_/same_as :: [Quotation.private](/_private/Society/Communication/Media/Creative_Work/Quotation.private.md) 
 
-### #is_/same_as :: [quotation.personal](/_personal/schema-org/Class/is_a_/creative_work/quotation.personal.md) 
+### #is_/same_as :: [Quotation.personal](/_personal/Society/Communication/Media/Creative_Work/Quotation.personal.md) 
 
-### #is_/same_as :: [quotation.secret](/_secret/schema-org/Class/is_a_/creative_work/quotation.secret.md)
+### #is_/same_as :: [Quotation.secret](/_secret/Society/Communication/Media/Creative_Work/Quotation.secret.md)
 

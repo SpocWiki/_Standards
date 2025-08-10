@@ -38,17 +38,17 @@ A sidebar section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Side_Bar](Wp_Side_Bar.md) 
+### #is_/same_as :: [Wp_Side_Bar](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.md) 
 
-### #is_/same_as :: [wp_side_bar.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_side_bar.public.md) 
+### #is_/same_as :: [Wp_Side_Bar.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.public.md) 
 
-### #is_/same_as :: [wp_side_bar.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_side_bar.internal.md) 
+### #is_/same_as :: [Wp_Side_Bar.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.internal.md) 
 
-### #is_/same_as :: [wp_side_bar.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_side_bar.protect.md) 
+### #is_/same_as :: [Wp_Side_Bar.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.protect.md) 
 
-### #is_/same_as :: [wp_side_bar.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_side_bar.private.md) 
+### #is_/same_as :: [Wp_Side_Bar.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.private.md) 
 
-### #is_/same_as :: [wp_side_bar.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_side_bar.personal.md) 
+### #is_/same_as :: [Wp_Side_Bar.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.personal.md) 
 
-### #is_/same_as :: [wp_side_bar.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_side_bar.secret.md)
+### #is_/same_as :: [Wp_Side_Bar.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Side_Bar.secret.md)
 

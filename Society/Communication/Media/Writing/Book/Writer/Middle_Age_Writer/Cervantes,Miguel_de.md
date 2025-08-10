@@ -157,17 +157,17 @@ writing_language: '[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cervantes,Miguel_de](Cervantes,Miguel_de.md) 
+### #is_/same_as :: [Cervantes,Miguel_de](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.md) 
 
-### #is_/same_as :: [Cervantes,Miguel_de.public](/_public/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Cervantes,Miguel_de.public.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.public.md) 
 
-### #is_/same_as :: [Cervantes,Miguel_de.internal](/_internal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Cervantes,Miguel_de.internal.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.internal.md) 
 
-### #is_/same_as :: [Cervantes,Miguel_de.protect](/_protect/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Cervantes,Miguel_de.protect.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.protect.md) 
 
-### #is_/same_as :: [Cervantes,Miguel_de.private](/_private/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Cervantes,Miguel_de.private.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.private.md) 
 
-### #is_/same_as :: [Cervantes,Miguel_de.personal](/_personal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Cervantes,Miguel_de.personal.md) 
+### #is_/same_as :: [Cervantes,Miguel_de.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.personal.md) 
 
-### #is_/same_as :: [Cervantes,Miguel_de.secret](/_secret/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Cervantes,Miguel_de.secret.md)
+### #is_/same_as :: [Cervantes,Miguel_de.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de.secret.md)
 

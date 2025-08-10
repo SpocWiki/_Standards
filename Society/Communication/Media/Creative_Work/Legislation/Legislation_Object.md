@@ -40,17 +40,17 @@ A specific object or file containing a Legislation. Note that the same Legislati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legislation_Object](Legislation_Object.md) 
+### #is_/same_as :: [Legislation_Object](/_Standards/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.md) 
 
-### #is_/same_as :: [legislation_object.public](/_public/schema-org/Class/is_a_/creative_work/legislation/legislation_object.public.md) 
+### #is_/same_as :: [Legislation_Object.public](/_public/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.public.md) 
 
-### #is_/same_as :: [legislation_object.internal](/_internal/schema-org/Class/is_a_/creative_work/legislation/legislation_object.internal.md) 
+### #is_/same_as :: [Legislation_Object.internal](/_internal/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.internal.md) 
 
-### #is_/same_as :: [legislation_object.protect](/_protect/schema-org/Class/is_a_/creative_work/legislation/legislation_object.protect.md) 
+### #is_/same_as :: [Legislation_Object.protect](/_protect/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.protect.md) 
 
-### #is_/same_as :: [legislation_object.private](/_private/schema-org/Class/is_a_/creative_work/legislation/legislation_object.private.md) 
+### #is_/same_as :: [Legislation_Object.private](/_private/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.private.md) 
 
-### #is_/same_as :: [legislation_object.personal](/_personal/schema-org/Class/is_a_/creative_work/legislation/legislation_object.personal.md) 
+### #is_/same_as :: [Legislation_Object.personal](/_personal/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.personal.md) 
 
-### #is_/same_as :: [legislation_object.secret](/_secret/schema-org/Class/is_a_/creative_work/legislation/legislation_object.secret.md)
+### #is_/same_as :: [Legislation_Object.secret](/_secret/Society/Communication/Media/Creative_Work/Legislation/Legislation_Object.secret.md)
 

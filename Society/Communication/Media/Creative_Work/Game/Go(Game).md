@@ -70,17 +70,17 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/go"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Go(Game)](Go(Game).md) 
+### #is_/same_as :: [Go(Game)](/_Standards/Society/Communication/Media/Creative_Work/Game/Go(Game).md) 
 
-### #is_/same_as :: [Go(game).public](/_public/schema-org/Class/is_a_/creative_work/Game/Go(game).public.md) 
+### #is_/same_as :: [Go(Game).public](/_public/Society/Communication/Media/Creative_Work/Game/Go(Game).public.md) 
 
-### #is_/same_as :: [Go(game).internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Go(game).internal.md) 
+### #is_/same_as :: [Go(Game).internal](/_internal/Society/Communication/Media/Creative_Work/Game/Go(Game).internal.md) 
 
-### #is_/same_as :: [Go(game).protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Go(game).protect.md) 
+### #is_/same_as :: [Go(Game).protect](/_protect/Society/Communication/Media/Creative_Work/Game/Go(Game).protect.md) 
 
-### #is_/same_as :: [Go(game).private](/_private/schema-org/Class/is_a_/creative_work/Game/Go(game).private.md) 
+### #is_/same_as :: [Go(Game).private](/_private/Society/Communication/Media/Creative_Work/Game/Go(Game).private.md) 
 
-### #is_/same_as :: [Go(game).personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Go(game).personal.md) 
+### #is_/same_as :: [Go(Game).personal](/_personal/Society/Communication/Media/Creative_Work/Game/Go(Game).personal.md) 
 
-### #is_/same_as :: [Go(game).secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Go(game).secret.md)
+### #is_/same_as :: [Go(Game).secret](/_secret/Society/Communication/Media/Creative_Work/Game/Go(Game).secret.md)
 

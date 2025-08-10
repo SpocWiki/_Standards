@@ -40,17 +40,17 @@ A creative work with a visual storytelling format intended to be viewed online, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amp_Story](Amp_Story.md) 
+### #is_/same_as :: [Amp_Story](/_Standards/Society/Communication/Media/Creative_Work/Amp_Story.md) 
 
-### #is_/same_as :: [amp_story.public](/_public/schema-org/Class/is_a_/creative_work/amp_story.public.md) 
+### #is_/same_as :: [Amp_Story.public](/_public/Society/Communication/Media/Creative_Work/Amp_Story.public.md) 
 
-### #is_/same_as :: [amp_story.internal](/_internal/schema-org/Class/is_a_/creative_work/amp_story.internal.md) 
+### #is_/same_as :: [Amp_Story.internal](/_internal/Society/Communication/Media/Creative_Work/Amp_Story.internal.md) 
 
-### #is_/same_as :: [amp_story.protect](/_protect/schema-org/Class/is_a_/creative_work/amp_story.protect.md) 
+### #is_/same_as :: [Amp_Story.protect](/_protect/Society/Communication/Media/Creative_Work/Amp_Story.protect.md) 
 
-### #is_/same_as :: [amp_story.private](/_private/schema-org/Class/is_a_/creative_work/amp_story.private.md) 
+### #is_/same_as :: [Amp_Story.private](/_private/Society/Communication/Media/Creative_Work/Amp_Story.private.md) 
 
-### #is_/same_as :: [amp_story.personal](/_personal/schema-org/Class/is_a_/creative_work/amp_story.personal.md) 
+### #is_/same_as :: [Amp_Story.personal](/_personal/Society/Communication/Media/Creative_Work/Amp_Story.personal.md) 
 
-### #is_/same_as :: [amp_story.secret](/_secret/schema-org/Class/is_a_/creative_work/amp_story.secret.md)
+### #is_/same_as :: [Amp_Story.secret](/_secret/Society/Communication/Media/Creative_Work/Amp_Story.secret.md)
 

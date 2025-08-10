@@ -38,17 +38,17 @@ A radio station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [radio_station](radio_station.md) 
+### #is_/same_as :: [Radio_Station](/_Standards/Society/Organization/Local_Business/Radio_Station.md) 
 
-### #is_/same_as :: [radio_station.public](/_public/schema-org/Class/is_a_/organization/local_business/radio_station.public.md) 
+### #is_/same_as :: [Radio_Station.public](/_public/Society/Organization/Local_Business/Radio_Station.public.md) 
 
-### #is_/same_as :: [radio_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/radio_station.internal.md) 
+### #is_/same_as :: [Radio_Station.internal](/_internal/Society/Organization/Local_Business/Radio_Station.internal.md) 
 
-### #is_/same_as :: [radio_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/radio_station.protect.md) 
+### #is_/same_as :: [Radio_Station.protect](/_protect/Society/Organization/Local_Business/Radio_Station.protect.md) 
 
-### #is_/same_as :: [radio_station.private](/_private/schema-org/Class/is_a_/organization/local_business/radio_station.private.md) 
+### #is_/same_as :: [Radio_Station.private](/_private/Society/Organization/Local_Business/Radio_Station.private.md) 
 
-### #is_/same_as :: [radio_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/radio_station.personal.md) 
+### #is_/same_as :: [Radio_Station.personal](/_personal/Society/Organization/Local_Business/Radio_Station.personal.md) 
 
-### #is_/same_as :: [radio_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/radio_station.secret.md)
+### #is_/same_as :: [Radio_Station.secret](/_secret/Society/Organization/Local_Business/Radio_Station.secret.md)
 

@@ -63,3 +63,22 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Lucretius%2C%20De%20re
 > [Wikipedia](https://en.wikipedia.org/wiki/Reading) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Reading](/_Standards/Society/Communication/Media/Reading.md) 
+
+### #is_/same_as :: [Reading.public](/_public/Society/Communication/Media/Reading.public.md) 
+
+### #is_/same_as :: [Reading.internal](/_internal/Society/Communication/Media/Reading.internal.md) 
+
+### #is_/same_as :: [Reading.protect](/_protect/Society/Communication/Media/Reading.protect.md) 
+
+### #is_/same_as :: [Reading.private](/_private/Society/Communication/Media/Reading.private.md) 
+
+### #is_/same_as :: [Reading.personal](/_personal/Society/Communication/Media/Reading.personal.md) 
+
+### #is_/same_as :: [Reading.secret](/_secret/Society/Communication/Media/Reading.secret.md)
+

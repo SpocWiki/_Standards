@@ -38,17 +38,17 @@ A software application designed specifically to work well on a mobile device suc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mobile_Application](Mobile_Application.md) 
+### #is_/same_as :: [Mobile_Application](/_Standards/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.md) 
 
-### #is_/same_as :: [mobile_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application/mobile_application.public.md) 
+### #is_/same_as :: [Mobile_Application.public](/_public/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.public.md) 
 
-### #is_/same_as :: [mobile_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application/mobile_application.internal.md) 
+### #is_/same_as :: [Mobile_Application.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.internal.md) 
 
-### #is_/same_as :: [mobile_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application/mobile_application.protect.md) 
+### #is_/same_as :: [Mobile_Application.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.protect.md) 
 
-### #is_/same_as :: [mobile_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application/mobile_application.private.md) 
+### #is_/same_as :: [Mobile_Application.private](/_private/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.private.md) 
 
-### #is_/same_as :: [mobile_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application/mobile_application.personal.md) 
+### #is_/same_as :: [Mobile_Application.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.personal.md) 
 
-### #is_/same_as :: [mobile_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application/mobile_application.secret.md)
+### #is_/same_as :: [Mobile_Application.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Application/Mobile_Application.secret.md)
 

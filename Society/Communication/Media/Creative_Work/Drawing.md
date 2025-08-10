@@ -40,17 +40,17 @@ A picture or diagram made with a pencil, pen, or crayon rather than paint.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drawing](Drawing.md) 
+### #is_/same_as :: [Drawing](/_Standards/Society/Communication/Media/Creative_Work/Drawing.md) 
 
-### #is_/same_as :: [drawing.public](/_public/schema-org/Class/is_a_/creative_work/drawing.public.md) 
+### #is_/same_as :: [Drawing.public](/_public/Society/Communication/Media/Creative_Work/Drawing.public.md) 
 
-### #is_/same_as :: [drawing.internal](/_internal/schema-org/Class/is_a_/creative_work/drawing.internal.md) 
+### #is_/same_as :: [Drawing.internal](/_internal/Society/Communication/Media/Creative_Work/Drawing.internal.md) 
 
-### #is_/same_as :: [drawing.protect](/_protect/schema-org/Class/is_a_/creative_work/drawing.protect.md) 
+### #is_/same_as :: [Drawing.protect](/_protect/Society/Communication/Media/Creative_Work/Drawing.protect.md) 
 
-### #is_/same_as :: [drawing.private](/_private/schema-org/Class/is_a_/creative_work/drawing.private.md) 
+### #is_/same_as :: [Drawing.private](/_private/Society/Communication/Media/Creative_Work/Drawing.private.md) 
 
-### #is_/same_as :: [drawing.personal](/_personal/schema-org/Class/is_a_/creative_work/drawing.personal.md) 
+### #is_/same_as :: [Drawing.personal](/_personal/Society/Communication/Media/Creative_Work/Drawing.personal.md) 
 
-### #is_/same_as :: [drawing.secret](/_secret/schema-org/Class/is_a_/creative_work/drawing.secret.md)
+### #is_/same_as :: [Drawing.secret](/_secret/Society/Communication/Media/Creative_Work/Drawing.secret.md)
 

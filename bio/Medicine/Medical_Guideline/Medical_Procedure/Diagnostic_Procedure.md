@@ -38,17 +38,17 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diagnostic_Procedure](Diagnostic_Procedure.md) 
+### #is_/same_as :: [Diagnostic_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.md) 
 
-### #is_/same_as :: [diagnostic_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.public.md) 
+### #is_/same_as :: [Diagnostic_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.public.md) 
 
-### #is_/same_as :: [diagnostic_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.internal.md) 
+### #is_/same_as :: [Diagnostic_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.internal.md) 
 
-### #is_/same_as :: [diagnostic_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.protect.md) 
+### #is_/same_as :: [Diagnostic_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.protect.md) 
 
-### #is_/same_as :: [diagnostic_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.private.md) 
+### #is_/same_as :: [Diagnostic_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.private.md) 
 
-### #is_/same_as :: [diagnostic_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.personal.md) 
+### #is_/same_as :: [Diagnostic_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.personal.md) 
 
-### #is_/same_as :: [diagnostic_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.secret.md)
+### #is_/same_as :: [Diagnostic_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.secret.md)
 

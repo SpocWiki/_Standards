@@ -38,17 +38,17 @@ A public swimming pool.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [public_swimming_pool](public_swimming_pool.md) 
+### #is_/same_as :: [Public_Swimming_Pool](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.md) 
 
-### #is_/same_as :: [public_swimming_pool.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.public.md) 
+### #is_/same_as :: [Public_Swimming_Pool.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.public.md) 
 
-### #is_/same_as :: [public_swimming_pool.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.internal.md) 
+### #is_/same_as :: [Public_Swimming_Pool.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.internal.md) 
 
-### #is_/same_as :: [public_swimming_pool.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.protect.md) 
+### #is_/same_as :: [Public_Swimming_Pool.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.protect.md) 
 
-### #is_/same_as :: [public_swimming_pool.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.private.md) 
+### #is_/same_as :: [Public_Swimming_Pool.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.private.md) 
 
-### #is_/same_as :: [public_swimming_pool.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.personal.md) 
+### #is_/same_as :: [Public_Swimming_Pool.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.personal.md) 
 
-### #is_/same_as :: [public_swimming_pool.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/public_swimming_pool.secret.md)
+### #is_/same_as :: [Public_Swimming_Pool.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Public_Swimming_Pool.secret.md)
 

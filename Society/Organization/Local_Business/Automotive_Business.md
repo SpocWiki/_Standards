@@ -40,17 +40,17 @@ Car repair, sales, or parts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Automotive_Business](Automotive_Business.md) 
+### #is_/same_as :: [Automotive_Business](/_Standards/Society/Organization/Local_Business/Automotive_Business.md) 
 
-### #is_/same_as :: [automotive_business.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business.public.md) 
+### #is_/same_as :: [Automotive_Business.public](/_public/Society/Organization/Local_Business/Automotive_Business.public.md) 
 
-### #is_/same_as :: [automotive_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business.internal.md) 
+### #is_/same_as :: [Automotive_Business.internal](/_internal/Society/Organization/Local_Business/Automotive_Business.internal.md) 
 
-### #is_/same_as :: [automotive_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business.protect.md) 
+### #is_/same_as :: [Automotive_Business.protect](/_protect/Society/Organization/Local_Business/Automotive_Business.protect.md) 
 
-### #is_/same_as :: [automotive_business.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business.private.md) 
+### #is_/same_as :: [Automotive_Business.private](/_private/Society/Organization/Local_Business/Automotive_Business.private.md) 
 
-### #is_/same_as :: [automotive_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business.personal.md) 
+### #is_/same_as :: [Automotive_Business.personal](/_personal/Society/Organization/Local_Business/Automotive_Business.personal.md) 
 
-### #is_/same_as :: [automotive_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business.secret.md)
+### #is_/same_as :: [Automotive_Business.secret](/_secret/Society/Organization/Local_Business/Automotive_Business.secret.md)
 

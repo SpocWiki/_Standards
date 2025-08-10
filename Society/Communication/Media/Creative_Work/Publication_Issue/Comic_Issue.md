@@ -45,17 +45,17 @@ Individual comic issues are serially published as
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comic_Issue](Comic_Issue.md) 
+### #is_/same_as :: [Comic_Issue](/_Standards/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.md) 
 
-### #is_/same_as :: [comic_issue.public](/_public/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.public.md) 
+### #is_/same_as :: [Comic_Issue.public](/_public/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.public.md) 
 
-### #is_/same_as :: [comic_issue.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.internal.md) 
+### #is_/same_as :: [Comic_Issue.internal](/_internal/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.internal.md) 
 
-### #is_/same_as :: [comic_issue.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.protect.md) 
+### #is_/same_as :: [Comic_Issue.protect](/_protect/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.protect.md) 
 
-### #is_/same_as :: [comic_issue.private](/_private/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.private.md) 
+### #is_/same_as :: [Comic_Issue.private](/_private/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.private.md) 
 
-### #is_/same_as :: [comic_issue.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.personal.md) 
+### #is_/same_as :: [Comic_Issue.personal](/_personal/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.personal.md) 
 
-### #is_/same_as :: [comic_issue.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_issue/comic_issue.secret.md)
+### #is_/same_as :: [Comic_Issue.secret](/_secret/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.secret.md)
 

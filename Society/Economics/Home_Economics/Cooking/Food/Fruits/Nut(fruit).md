@@ -49,17 +49,17 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Nut\"]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nut(fruit)](Nut(fruit).md) 
+### #is_/same_as :: [Nut(fruit)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).md) 
 
-### #is_/same_as :: [Nut(fruit).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Nut(fruit).public.md) 
+### #is_/same_as :: [Nut(fruit).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).public.md) 
 
-### #is_/same_as :: [Nut(fruit).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Nut(fruit).internal.md) 
+### #is_/same_as :: [Nut(fruit).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).internal.md) 
 
-### #is_/same_as :: [Nut(fruit).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Nut(fruit).protect.md) 
+### #is_/same_as :: [Nut(fruit).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).protect.md) 
 
-### #is_/same_as :: [Nut(fruit).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Nut(fruit).private.md) 
+### #is_/same_as :: [Nut(fruit).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).private.md) 
 
-### #is_/same_as :: [Nut(fruit).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Nut(fruit).personal.md) 
+### #is_/same_as :: [Nut(fruit).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).personal.md) 
 
-### #is_/same_as :: [Nut(fruit).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Nut(fruit).secret.md)
+### #is_/same_as :: [Nut(fruit).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Nut(fruit).secret.md)
 

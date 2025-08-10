@@ -40,17 +40,17 @@ A government office—for example, an IRS or DMV office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [government_office](government_office.md) 
+### #is_/same_as :: [Government_Office](/_Standards/Society/Organization/Local_Business/Government_Office.md) 
 
-### #is_/same_as :: [government_office.public](/_public/schema-org/Class/is_a_/organization/local_business/government_office.public.md) 
+### #is_/same_as :: [Government_Office.public](/_public/Society/Organization/Local_Business/Government_Office.public.md) 
 
-### #is_/same_as :: [government_office.internal](/_internal/schema-org/Class/is_a_/organization/local_business/government_office.internal.md) 
+### #is_/same_as :: [Government_Office.internal](/_internal/Society/Organization/Local_Business/Government_Office.internal.md) 
 
-### #is_/same_as :: [government_office.protect](/_protect/schema-org/Class/is_a_/organization/local_business/government_office.protect.md) 
+### #is_/same_as :: [Government_Office.protect](/_protect/Society/Organization/Local_Business/Government_Office.protect.md) 
 
-### #is_/same_as :: [government_office.private](/_private/schema-org/Class/is_a_/organization/local_business/government_office.private.md) 
+### #is_/same_as :: [Government_Office.private](/_private/Society/Organization/Local_Business/Government_Office.private.md) 
 
-### #is_/same_as :: [government_office.personal](/_personal/schema-org/Class/is_a_/organization/local_business/government_office.personal.md) 
+### #is_/same_as :: [Government_Office.personal](/_personal/Society/Organization/Local_Business/Government_Office.personal.md) 
 
-### #is_/same_as :: [government_office.secret](/_secret/schema-org/Class/is_a_/organization/local_business/government_office.secret.md)
+### #is_/same_as :: [Government_Office.secret](/_secret/Society/Organization/Local_Business/Government_Office.secret.md)
 

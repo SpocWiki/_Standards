@@ -38,17 +38,17 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maximum_Dose_Schedule](Maximum_Dose_Schedule.md) 
+### #is_/same_as :: [Maximum_Dose_Schedule](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.md) 
 
-### #is_/same_as :: [maximum_dose_schedule.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.public.md) 
+### #is_/same_as :: [Maximum_Dose_Schedule.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.public.md) 
 
-### #is_/same_as :: [maximum_dose_schedule.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.internal.md) 
+### #is_/same_as :: [Maximum_Dose_Schedule.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.internal.md) 
 
-### #is_/same_as :: [maximum_dose_schedule.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.protect.md) 
+### #is_/same_as :: [Maximum_Dose_Schedule.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.protect.md) 
 
-### #is_/same_as :: [maximum_dose_schedule.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.private.md) 
+### #is_/same_as :: [Maximum_Dose_Schedule.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.private.md) 
 
-### #is_/same_as :: [maximum_dose_schedule.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.personal.md) 
+### #is_/same_as :: [Maximum_Dose_Schedule.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.personal.md) 
 
-### #is_/same_as :: [maximum_dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/maximum_dose_schedule.secret.md)
+### #is_/same_as :: [Maximum_Dose_Schedule.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Maximum_Dose_Schedule.secret.md)
 

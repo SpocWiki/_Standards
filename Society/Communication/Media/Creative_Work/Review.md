@@ -40,17 +40,17 @@ A review of an item - for example, of a restaurant, movie, or store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Review](Review.md) 
+### #is_/same_as :: [Review](/_Standards/Society/Communication/Media/Creative_Work/Review.md) 
 
-### #is_/same_as :: [review.public](/_public/schema-org/Class/is_a_/creative_work/review.public.md) 
+### #is_/same_as :: [Review.public](/_public/Society/Communication/Media/Creative_Work/Review.public.md) 
 
-### #is_/same_as :: [review.internal](/_internal/schema-org/Class/is_a_/creative_work/review.internal.md) 
+### #is_/same_as :: [Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review.internal.md) 
 
-### #is_/same_as :: [review.protect](/_protect/schema-org/Class/is_a_/creative_work/review.protect.md) 
+### #is_/same_as :: [Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review.protect.md) 
 
-### #is_/same_as :: [review.private](/_private/schema-org/Class/is_a_/creative_work/review.private.md) 
+### #is_/same_as :: [Review.private](/_private/Society/Communication/Media/Creative_Work/Review.private.md) 
 
-### #is_/same_as :: [review.personal](/_personal/schema-org/Class/is_a_/creative_work/review.personal.md) 
+### #is_/same_as :: [Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review.personal.md) 
 
-### #is_/same_as :: [review.secret](/_secret/schema-org/Class/is_a_/creative_work/review.secret.md)
+### #is_/same_as :: [Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review.secret.md)
 

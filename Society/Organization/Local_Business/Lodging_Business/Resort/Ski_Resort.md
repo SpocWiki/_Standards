@@ -38,17 +38,17 @@ A ski resort.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ski_resort](ski_resort.md) 
+### #is_/same_as :: [Ski_Resort](/_Standards/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.md) 
 
-### #is_/same_as :: [ski_resort.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.public.md) 
+### #is_/same_as :: [Ski_Resort.public](/_public/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.public.md) 
 
-### #is_/same_as :: [ski_resort.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.internal.md) 
+### #is_/same_as :: [Ski_Resort.internal](/_internal/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.internal.md) 
 
-### #is_/same_as :: [ski_resort.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.protect.md) 
+### #is_/same_as :: [Ski_Resort.protect](/_protect/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.protect.md) 
 
-### #is_/same_as :: [ski_resort.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.private.md) 
+### #is_/same_as :: [Ski_Resort.private](/_private/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.private.md) 
 
-### #is_/same_as :: [ski_resort.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.personal.md) 
+### #is_/same_as :: [Ski_Resort.personal](/_personal/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.personal.md) 
 
-### #is_/same_as :: [ski_resort.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.secret.md)
+### #is_/same_as :: [Ski_Resort.secret](/_secret/Society/Organization/Local_Business/Lodging_Business/Resort/Ski_Resort.secret.md)
 

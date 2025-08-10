@@ -40,17 +40,17 @@ An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Analysis_News_Article](Analysis_News_Article.md) 
+### #is_/same_as :: [Analysis_News_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.md) 
 
-### #is_/same_as :: [analysis_news_article.public](/_public/schema-org/Class/is_a_/creative_work/article/news_article/analysis_news_article.public.md) 
+### #is_/same_as :: [Analysis_News_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.public.md) 
 
-### #is_/same_as :: [analysis_news_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/news_article/analysis_news_article.internal.md) 
+### #is_/same_as :: [Analysis_News_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.internal.md) 
 
-### #is_/same_as :: [analysis_news_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/news_article/analysis_news_article.protect.md) 
+### #is_/same_as :: [Analysis_News_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.protect.md) 
 
-### #is_/same_as :: [analysis_news_article.private](/_private/schema-org/Class/is_a_/creative_work/article/news_article/analysis_news_article.private.md) 
+### #is_/same_as :: [Analysis_News_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.private.md) 
 
-### #is_/same_as :: [analysis_news_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/news_article/analysis_news_article.personal.md) 
+### #is_/same_as :: [Analysis_News_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.personal.md) 
 
-### #is_/same_as :: [analysis_news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article/analysis_news_article.secret.md)
+### #is_/same_as :: [Analysis_News_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/News_Article/Analysis_News_Article.secret.md)
 

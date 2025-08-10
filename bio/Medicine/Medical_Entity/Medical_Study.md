@@ -40,17 +40,17 @@ A medical study is an umbrella type covering all kinds of research studies relat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Study](Medical_Study.md) 
+### #is_/same_as :: [Medical_Study](/_Standards/bio/Medicine/Medical_Entity/Medical_Study.md) 
 
-### #is_/same_as :: [medical_study.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study.public.md) 
+### #is_/same_as :: [Medical_Study.public](/_public/bio/Medicine/Medical_Entity/Medical_Study.public.md) 
 
-### #is_/same_as :: [medical_study.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study.internal.md) 
+### #is_/same_as :: [Medical_Study.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Study.internal.md) 
 
-### #is_/same_as :: [medical_study.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_study.protect.md) 
+### #is_/same_as :: [Medical_Study.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Study.protect.md) 
 
-### #is_/same_as :: [medical_study.private](/_private/schema-org/Class/is_a_/medical_entity/medical_study.private.md) 
+### #is_/same_as :: [Medical_Study.private](/_private/bio/Medicine/Medical_Entity/Medical_Study.private.md) 
 
-### #is_/same_as :: [medical_study.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study.personal.md) 
+### #is_/same_as :: [Medical_Study.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Study.personal.md) 
 
-### #is_/same_as :: [medical_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study.secret.md)
+### #is_/same_as :: [Medical_Study.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Study.secret.md)
 

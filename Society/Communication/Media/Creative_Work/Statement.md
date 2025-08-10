@@ -40,17 +40,17 @@ A statement about something, for example a fun or interesting fact. If known, th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statement](Statement.md) 
+### #is_/same_as :: [Statement](/_Standards/Society/Communication/Media/Creative_Work/Statement.md) 
 
-### #is_/same_as :: [statement.public](/_public/schema-org/Class/is_a_/creative_work/statement.public.md) 
+### #is_/same_as :: [Statement.public](/_public/Society/Communication/Media/Creative_Work/Statement.public.md) 
 
-### #is_/same_as :: [statement.internal](/_internal/schema-org/Class/is_a_/creative_work/statement.internal.md) 
+### #is_/same_as :: [Statement.internal](/_internal/Society/Communication/Media/Creative_Work/Statement.internal.md) 
 
-### #is_/same_as :: [statement.protect](/_protect/schema-org/Class/is_a_/creative_work/statement.protect.md) 
+### #is_/same_as :: [Statement.protect](/_protect/Society/Communication/Media/Creative_Work/Statement.protect.md) 
 
-### #is_/same_as :: [statement.private](/_private/schema-org/Class/is_a_/creative_work/statement.private.md) 
+### #is_/same_as :: [Statement.private](/_private/Society/Communication/Media/Creative_Work/Statement.private.md) 
 
-### #is_/same_as :: [statement.personal](/_personal/schema-org/Class/is_a_/creative_work/statement.personal.md) 
+### #is_/same_as :: [Statement.personal](/_personal/Society/Communication/Media/Creative_Work/Statement.personal.md) 
 
-### #is_/same_as :: [statement.secret](/_secret/schema-org/Class/is_a_/creative_work/statement.secret.md)
+### #is_/same_as :: [Statement.secret](/_secret/Society/Communication/Media/Creative_Work/Statement.secret.md)
 

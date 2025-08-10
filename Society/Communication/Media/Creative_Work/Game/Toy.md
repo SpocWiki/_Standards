@@ -63,17 +63,17 @@ U_S_National_Archives_Identifier: 10665548
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toy](Toy.md) 
+### #is_/same_as :: [Toy](/_Standards/Society/Communication/Media/Creative_Work/Game/Toy.md) 
 
-### #is_/same_as :: [Toy.public](/_public/schema-org/Class/is_a_/creative_work/Game/Toy.public.md) 
+### #is_/same_as :: [Toy.public](/_public/Society/Communication/Media/Creative_Work/Game/Toy.public.md) 
 
-### #is_/same_as :: [Toy.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Toy.internal.md) 
+### #is_/same_as :: [Toy.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Toy.internal.md) 
 
-### #is_/same_as :: [Toy.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Toy.protect.md) 
+### #is_/same_as :: [Toy.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Toy.protect.md) 
 
-### #is_/same_as :: [Toy.private](/_private/schema-org/Class/is_a_/creative_work/Game/Toy.private.md) 
+### #is_/same_as :: [Toy.private](/_private/Society/Communication/Media/Creative_Work/Game/Toy.private.md) 
 
-### #is_/same_as :: [Toy.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Toy.personal.md) 
+### #is_/same_as :: [Toy.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Toy.personal.md) 
 
-### #is_/same_as :: [Toy.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Toy.secret.md)
+### #is_/same_as :: [Toy.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Toy.secret.md)
 

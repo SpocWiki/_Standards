@@ -136,17 +136,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ricardo,David](Ricardo,David.md) 
+### #is_/same_as :: [Ricardo,David](/_Standards/Society/Economics/Economist/Ricardo,David.md) 
 
-### #is_/same_as :: [Ricardo,David.public](/_public/Society/Economics/Ricardo,David.public.md) 
+### #is_/same_as :: [Ricardo,David.public](/_public/Society/Economics/Economist/Ricardo,David.public.md) 
 
-### #is_/same_as :: [Ricardo,David.internal](/_internal/Society/Economics/Ricardo,David.internal.md) 
+### #is_/same_as :: [Ricardo,David.internal](/_internal/Society/Economics/Economist/Ricardo,David.internal.md) 
 
-### #is_/same_as :: [Ricardo,David.protect](/_protect/Society/Economics/Ricardo,David.protect.md) 
+### #is_/same_as :: [Ricardo,David.protect](/_protect/Society/Economics/Economist/Ricardo,David.protect.md) 
 
-### #is_/same_as :: [Ricardo,David.private](/_private/Society/Economics/Ricardo,David.private.md) 
+### #is_/same_as :: [Ricardo,David.private](/_private/Society/Economics/Economist/Ricardo,David.private.md) 
 
-### #is_/same_as :: [Ricardo,David.personal](/_personal/Society/Economics/Ricardo,David.personal.md) 
+### #is_/same_as :: [Ricardo,David.personal](/_personal/Society/Economics/Economist/Ricardo,David.personal.md) 
 
-### #is_/same_as :: [Ricardo,David.secret](/_secret/Society/Economics/Ricardo,David.secret.md)
+### #is_/same_as :: [Ricardo,David.secret](/_secret/Society/Economics/Economist/Ricardo,David.secret.md)
 

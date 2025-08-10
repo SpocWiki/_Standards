@@ -31,3 +31,22 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suspension%20(chemistry)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Suspension(chemistry)](/_Standards/Chemistry/Substance/Mixture/Suspension(chemistry).md) 
+
+### #is_/same_as :: [Suspension(chemistry).public](/_public/Chemistry/Substance/Mixture/Suspension(chemistry).public.md) 
+
+### #is_/same_as :: [Suspension(chemistry).internal](/_internal/Chemistry/Substance/Mixture/Suspension(chemistry).internal.md) 
+
+### #is_/same_as :: [Suspension(chemistry).protect](/_protect/Chemistry/Substance/Mixture/Suspension(chemistry).protect.md) 
+
+### #is_/same_as :: [Suspension(chemistry).private](/_private/Chemistry/Substance/Mixture/Suspension(chemistry).private.md) 
+
+### #is_/same_as :: [Suspension(chemistry).personal](/_personal/Chemistry/Substance/Mixture/Suspension(chemistry).personal.md) 
+
+### #is_/same_as :: [Suspension(chemistry).secret](/_secret/Chemistry/Substance/Mixture/Suspension(chemistry).secret.md)
+

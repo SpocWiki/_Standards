@@ -155,3 +155,22 @@ EPPO_Code: ANAOC
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cashew) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Cashew](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.md) 
+
+### #is_/same_as :: [Cashew.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.public.md) 
+
+### #is_/same_as :: [Cashew.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.internal.md) 
+
+### #is_/same_as :: [Cashew.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.protect.md) 
+
+### #is_/same_as :: [Cashew.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.private.md) 
+
+### #is_/same_as :: [Cashew.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.personal.md) 
+
+### #is_/same_as :: [Cashew.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.secret.md)
+

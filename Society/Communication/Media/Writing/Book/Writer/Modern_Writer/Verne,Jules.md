@@ -60,17 +60,17 @@ His Novels were used to educate children on Technology.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Verne,Jules](Verne,Jules.md) 
+### #is_/same_as :: [Verne,Jules](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.md) 
 
-### #is_/same_as :: [Verne,Jules.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Verne,Jules.public.md) 
+### #is_/same_as :: [Verne,Jules.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.public.md) 
 
-### #is_/same_as :: [Verne,Jules.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Verne,Jules.internal.md) 
+### #is_/same_as :: [Verne,Jules.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.internal.md) 
 
-### #is_/same_as :: [Verne,Jules.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Verne,Jules.protect.md) 
+### #is_/same_as :: [Verne,Jules.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.protect.md) 
 
-### #is_/same_as :: [Verne,Jules.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Verne,Jules.private.md) 
+### #is_/same_as :: [Verne,Jules.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.private.md) 
 
-### #is_/same_as :: [Verne,Jules.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Verne,Jules.personal.md) 
+### #is_/same_as :: [Verne,Jules.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.personal.md) 
 
-### #is_/same_as :: [Verne,Jules.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Verne,Jules.secret.md)
+### #is_/same_as :: [Verne,Jules.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules.secret.md)
 

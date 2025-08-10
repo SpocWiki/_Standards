@@ -42,17 +42,17 @@ This is the equivalent of Atom's element as defined in Feed Paging and Archiving
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Complete_Data_Feed](Complete_Data_Feed.md) 
+### #is_/same_as :: [Complete_Data_Feed](/_Standards/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.md) 
 
-### #is_/same_as :: [complete_data_feed.public](/_public/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.public.md) 
+### #is_/same_as :: [Complete_Data_Feed.public](/_public/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.public.md) 
 
-### #is_/same_as :: [complete_data_feed.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md) 
+### #is_/same_as :: [Complete_Data_Feed.internal](/_internal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.internal.md) 
 
-### #is_/same_as :: [complete_data_feed.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md) 
+### #is_/same_as :: [Complete_Data_Feed.protect](/_protect/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.protect.md) 
 
-### #is_/same_as :: [complete_data_feed.private](/_private/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md) 
+### #is_/same_as :: [Complete_Data_Feed.private](/_private/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.private.md) 
 
-### #is_/same_as :: [complete_data_feed.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md) 
+### #is_/same_as :: [Complete_Data_Feed.personal](/_personal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.personal.md) 
 
-### #is_/same_as :: [complete_data_feed.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md)
+### #is_/same_as :: [Complete_Data_Feed.secret](/_secret/Society/Communication/Media/Creative_Work/Dataset/Data_Feed/Complete_Data_Feed.secret.md)
 

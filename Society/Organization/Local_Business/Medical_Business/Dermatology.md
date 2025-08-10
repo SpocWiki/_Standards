@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [dermatology](dermatology.md) 
+### #is_/same_as :: [Dermatology](/_Standards/Society/Organization/Local_Business/Medical_Business/Dermatology.md) 
 
-### #is_/same_as :: [dermatology.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.public.md) 
+### #is_/same_as :: [Dermatology.public](/_public/Society/Organization/Local_Business/Medical_Business/Dermatology.public.md) 
 
-### #is_/same_as :: [dermatology.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.internal.md) 
+### #is_/same_as :: [Dermatology.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Dermatology.internal.md) 
 
-### #is_/same_as :: [dermatology.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.protect.md) 
+### #is_/same_as :: [Dermatology.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Dermatology.protect.md) 
 
-### #is_/same_as :: [dermatology.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.private.md) 
+### #is_/same_as :: [Dermatology.private](/_private/Society/Organization/Local_Business/Medical_Business/Dermatology.private.md) 
 
-### #is_/same_as :: [dermatology.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.personal.md) 
+### #is_/same_as :: [Dermatology.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Dermatology.personal.md) 
 
-### #is_/same_as :: [dermatology.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.secret.md)
+### #is_/same_as :: [Dermatology.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Dermatology.secret.md)
 

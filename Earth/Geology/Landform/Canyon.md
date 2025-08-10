@@ -41,6 +41,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Roca%20de%20la%20Ley%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Canyon) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [Canyon](/_Standards/Earth/Geology/Landform/Canyon.md) 

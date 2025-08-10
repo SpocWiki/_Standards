@@ -38,17 +38,17 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Cause](Medical_Cause.md) 
+### #is_/same_as :: [Medical_Cause](/_Standards/bio/Medicine/Medical_Entity/Medical_Cause.md) 
 
-### #is_/same_as :: [medical_cause.public](/_public/schema-org/Class/is_a_/medical_entity/medical_cause.public.md) 
+### #is_/same_as :: [Medical_Cause.public](/_public/bio/Medicine/Medical_Entity/Medical_Cause.public.md) 
 
-### #is_/same_as :: [medical_cause.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_cause.internal.md) 
+### #is_/same_as :: [Medical_Cause.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Cause.internal.md) 
 
-### #is_/same_as :: [medical_cause.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_cause.protect.md) 
+### #is_/same_as :: [Medical_Cause.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Cause.protect.md) 
 
-### #is_/same_as :: [medical_cause.private](/_private/schema-org/Class/is_a_/medical_entity/medical_cause.private.md) 
+### #is_/same_as :: [Medical_Cause.private](/_private/bio/Medicine/Medical_Entity/Medical_Cause.private.md) 
 
-### #is_/same_as :: [medical_cause.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_cause.personal.md) 
+### #is_/same_as :: [Medical_Cause.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Cause.personal.md) 
 
-### #is_/same_as :: [medical_cause.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_cause.secret.md)
+### #is_/same_as :: [Medical_Cause.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Cause.secret.md)
 

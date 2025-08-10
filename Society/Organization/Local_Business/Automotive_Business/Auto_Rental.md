@@ -38,17 +38,17 @@ A car rental business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [auto_rental](auto_rental.md) 
+### #is_/same_as :: [Auto_Rental](/_Standards/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.md) 
 
-### #is_/same_as :: [auto_rental.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.public.md) 
+### #is_/same_as :: [Auto_Rental.public](/_public/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.public.md) 
 
-### #is_/same_as :: [auto_rental.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.internal.md) 
+### #is_/same_as :: [Auto_Rental.internal](/_internal/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.internal.md) 
 
-### #is_/same_as :: [auto_rental.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.protect.md) 
+### #is_/same_as :: [Auto_Rental.protect](/_protect/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.protect.md) 
 
-### #is_/same_as :: [auto_rental.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.private.md) 
+### #is_/same_as :: [Auto_Rental.private](/_private/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.private.md) 
 
-### #is_/same_as :: [auto_rental.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.personal.md) 
+### #is_/same_as :: [Auto_Rental.personal](/_personal/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.personal.md) 
 
-### #is_/same_as :: [auto_rental.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.secret.md)
+### #is_/same_as :: [Auto_Rental.secret](/_secret/Society/Organization/Local_Business/Automotive_Business/Auto_Rental.secret.md)
 

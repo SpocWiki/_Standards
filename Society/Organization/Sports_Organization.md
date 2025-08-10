@@ -40,17 +40,17 @@ Represents the collection of all sports organizations, including sports teams, g
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [sports_organization](sports_organization.md) 
+### #is_/same_as :: [Sports_Organization](/_Standards/Society/Organization/Sports_Organization.md) 
 
-### #is_/same_as :: [sports_organization.public](/_public/schema-org/Class/is_a_/organization/sports_organization.public.md) 
+### #is_/same_as :: [Sports_Organization.public](/_public/Society/Organization/Sports_Organization.public.md) 
 
-### #is_/same_as :: [sports_organization.internal](/_internal/schema-org/Class/is_a_/organization/sports_organization.internal.md) 
+### #is_/same_as :: [Sports_Organization.internal](/_internal/Society/Organization/Sports_Organization.internal.md) 
 
-### #is_/same_as :: [sports_organization.protect](/_protect/schema-org/Class/is_a_/organization/sports_organization.protect.md) 
+### #is_/same_as :: [Sports_Organization.protect](/_protect/Society/Organization/Sports_Organization.protect.md) 
 
-### #is_/same_as :: [sports_organization.private](/_private/schema-org/Class/is_a_/organization/sports_organization.private.md) 
+### #is_/same_as :: [Sports_Organization.private](/_private/Society/Organization/Sports_Organization.private.md) 
 
-### #is_/same_as :: [sports_organization.personal](/_personal/schema-org/Class/is_a_/organization/sports_organization.personal.md) 
+### #is_/same_as :: [Sports_Organization.personal](/_personal/Society/Organization/Sports_Organization.personal.md) 
 
-### #is_/same_as :: [sports_organization.secret](/_secret/schema-org/Class/is_a_/organization/sports_organization.secret.md)
+### #is_/same_as :: [Sports_Organization.secret](/_secret/Society/Organization/Sports_Organization.secret.md)
 

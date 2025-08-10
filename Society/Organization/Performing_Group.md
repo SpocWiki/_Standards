@@ -40,17 +40,17 @@ A performance group, such as a band, an orchestra, or a circus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [performing_group](performing_group.md) 
+### #is_/same_as :: [Performing_Group](/_Standards/Society/Organization/Performing_Group.md) 
 
-### #is_/same_as :: [performing_group.public](/_public/schema-org/Class/is_a_/organization/performing_group.public.md) 
+### #is_/same_as :: [Performing_Group.public](/_public/Society/Organization/Performing_Group.public.md) 
 
-### #is_/same_as :: [performing_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group.internal.md) 
+### #is_/same_as :: [Performing_Group.internal](/_internal/Society/Organization/Performing_Group.internal.md) 
 
-### #is_/same_as :: [performing_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group.protect.md) 
+### #is_/same_as :: [Performing_Group.protect](/_protect/Society/Organization/Performing_Group.protect.md) 
 
-### #is_/same_as :: [performing_group.private](/_private/schema-org/Class/is_a_/organization/performing_group.private.md) 
+### #is_/same_as :: [Performing_Group.private](/_private/Society/Organization/Performing_Group.private.md) 
 
-### #is_/same_as :: [performing_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group.personal.md) 
+### #is_/same_as :: [Performing_Group.personal](/_personal/Society/Organization/Performing_Group.personal.md) 
 
-### #is_/same_as :: [performing_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group.secret.md)
+### #is_/same_as :: [Performing_Group.secret](/_secret/Society/Organization/Performing_Group.secret.md)
 

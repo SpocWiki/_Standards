@@ -166,17 +166,17 @@ translator:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tale_of_Genji](Tale_of_Genji.md) 
+### #is_/same_as :: [Tale_of_Genji](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.md) 
 
-### #is_/same_as :: [Tale_of_Genji.public](/_public/Society/Communication/Media/Book/Literary_Works/Tale_of_Genji.public.md) 
+### #is_/same_as :: [Tale_of_Genji.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.public.md) 
 
-### #is_/same_as :: [Tale_of_Genji.internal](/_internal/Society/Communication/Media/Book/Literary_Works/Tale_of_Genji.internal.md) 
+### #is_/same_as :: [Tale_of_Genji.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.internal.md) 
 
-### #is_/same_as :: [Tale_of_Genji.protect](/_protect/Society/Communication/Media/Book/Literary_Works/Tale_of_Genji.protect.md) 
+### #is_/same_as :: [Tale_of_Genji.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.protect.md) 
 
-### #is_/same_as :: [Tale_of_Genji.private](/_private/Society/Communication/Media/Book/Literary_Works/Tale_of_Genji.private.md) 
+### #is_/same_as :: [Tale_of_Genji.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.private.md) 
 
-### #is_/same_as :: [Tale_of_Genji.personal](/_personal/Society/Communication/Media/Book/Literary_Works/Tale_of_Genji.personal.md) 
+### #is_/same_as :: [Tale_of_Genji.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.personal.md) 
 
-### #is_/same_as :: [Tale_of_Genji.secret](/_secret/Society/Communication/Media/Book/Literary_Works/Tale_of_Genji.secret.md)
+### #is_/same_as :: [Tale_of_Genji.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Tale_of_Genji.secret.md)
 

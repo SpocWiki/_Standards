@@ -40,17 +40,17 @@ A software application.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Software_Application](Software_Application.md) 
+### #is_/same_as :: [Software_Application](/_Standards/Society/Communication/Media/Creative_Work/Software_Application.md) 
 
-### #is_/same_as :: [software_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application.public.md) 
+### #is_/same_as :: [Software_Application.public](/_public/Society/Communication/Media/Creative_Work/Software_Application.public.md) 
 
-### #is_/same_as :: [software_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application.internal.md) 
+### #is_/same_as :: [Software_Application.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Application.internal.md) 
 
-### #is_/same_as :: [software_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application.protect.md) 
+### #is_/same_as :: [Software_Application.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Application.protect.md) 
 
-### #is_/same_as :: [software_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application.private.md) 
+### #is_/same_as :: [Software_Application.private](/_private/Society/Communication/Media/Creative_Work/Software_Application.private.md) 
 
-### #is_/same_as :: [software_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application.personal.md) 
+### #is_/same_as :: [Software_Application.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Application.personal.md) 
 
-### #is_/same_as :: [software_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application.secret.md)
+### #is_/same_as :: [Software_Application.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Application.secret.md)
 

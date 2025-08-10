@@ -58,17 +58,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Campbell,John_Wood](Campbell,John_Wood.md) 
+### #is_/same_as :: [Campbell,John_Wood](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.md) 
 
-### #is_/same_as :: [Campbell,John_Wood.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,John_Wood.public.md) 
+### #is_/same_as :: [Campbell,John_Wood.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.public.md) 
 
-### #is_/same_as :: [Campbell,John_Wood.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,John_Wood.internal.md) 
+### #is_/same_as :: [Campbell,John_Wood.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.internal.md) 
 
-### #is_/same_as :: [Campbell,John_Wood.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,John_Wood.protect.md) 
+### #is_/same_as :: [Campbell,John_Wood.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.protect.md) 
 
-### #is_/same_as :: [Campbell,John_Wood.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,John_Wood.private.md) 
+### #is_/same_as :: [Campbell,John_Wood.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.private.md) 
 
-### #is_/same_as :: [Campbell,John_Wood.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,John_Wood.personal.md) 
+### #is_/same_as :: [Campbell,John_Wood.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.personal.md) 
 
-### #is_/same_as :: [Campbell,John_Wood.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Campbell,John_Wood.secret.md)
+### #is_/same_as :: [Campbell,John_Wood.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.secret.md)
 

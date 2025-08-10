@@ -38,17 +38,17 @@ A tourist information center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [tourist_information_center](tourist_information_center.md) 
+### #is_/same_as :: [Tourist_Information_Center](/_Standards/Society/Organization/Local_Business/Tourist_Information_Center.md) 
 
-### #is_/same_as :: [tourist_information_center.public](/_public/schema-org/Class/is_a_/organization/local_business/tourist_information_center.public.md) 
+### #is_/same_as :: [Tourist_Information_Center.public](/_public/Society/Organization/Local_Business/Tourist_Information_Center.public.md) 
 
-### #is_/same_as :: [tourist_information_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/tourist_information_center.internal.md) 
+### #is_/same_as :: [Tourist_Information_Center.internal](/_internal/Society/Organization/Local_Business/Tourist_Information_Center.internal.md) 
 
-### #is_/same_as :: [tourist_information_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/tourist_information_center.protect.md) 
+### #is_/same_as :: [Tourist_Information_Center.protect](/_protect/Society/Organization/Local_Business/Tourist_Information_Center.protect.md) 
 
-### #is_/same_as :: [tourist_information_center.private](/_private/schema-org/Class/is_a_/organization/local_business/tourist_information_center.private.md) 
+### #is_/same_as :: [Tourist_Information_Center.private](/_private/Society/Organization/Local_Business/Tourist_Information_Center.private.md) 
 
-### #is_/same_as :: [tourist_information_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/tourist_information_center.personal.md) 
+### #is_/same_as :: [Tourist_Information_Center.personal](/_personal/Society/Organization/Local_Business/Tourist_Information_Center.personal.md) 
 
-### #is_/same_as :: [tourist_information_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/tourist_information_center.secret.md)
+### #is_/same_as :: [Tourist_Information_Center.secret](/_secret/Society/Organization/Local_Business/Tourist_Information_Center.secret.md)
 

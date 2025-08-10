@@ -40,17 +40,17 @@ The artwork on the cover of a comic.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comic_Cover_Art](Comic_Cover_Art.md) 
+### #is_/same_as :: [Comic_Cover_Art](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.md) 
 
-### #is_/same_as :: [comic_cover_art.public](/_public/schema-org/Class/is_a_/creative_work/comic_story/comic_cover_art.public.md) 
+### #is_/same_as :: [Comic_Cover_Art.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.public.md) 
 
-### #is_/same_as :: [comic_cover_art.internal](/_internal/schema-org/Class/is_a_/creative_work/comic_story/comic_cover_art.internal.md) 
+### #is_/same_as :: [Comic_Cover_Art.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.internal.md) 
 
-### #is_/same_as :: [comic_cover_art.protect](/_protect/schema-org/Class/is_a_/creative_work/comic_story/comic_cover_art.protect.md) 
+### #is_/same_as :: [Comic_Cover_Art.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.protect.md) 
 
-### #is_/same_as :: [comic_cover_art.private](/_private/schema-org/Class/is_a_/creative_work/comic_story/comic_cover_art.private.md) 
+### #is_/same_as :: [Comic_Cover_Art.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.private.md) 
 
-### #is_/same_as :: [comic_cover_art.personal](/_personal/schema-org/Class/is_a_/creative_work/comic_story/comic_cover_art.personal.md) 
+### #is_/same_as :: [Comic_Cover_Art.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.personal.md) 
 
-### #is_/same_as :: [comic_cover_art.secret](/_secret/schema-org/Class/is_a_/creative_work/comic_story/comic_cover_art.secret.md)
+### #is_/same_as :: [Comic_Cover_Art.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Comic_Cover_Art.secret.md)
 

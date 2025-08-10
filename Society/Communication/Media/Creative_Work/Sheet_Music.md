@@ -40,17 +40,17 @@ Printed music, as opposed to performed or recorded music.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sheet_Music](Sheet_Music.md) 
+### #is_/same_as :: [Sheet_Music](/_Standards/Society/Communication/Media/Creative_Work/Sheet_Music.md) 
 
-### #is_/same_as :: [sheet_music.public](/_public/schema-org/Class/is_a_/creative_work/sheet_music.public.md) 
+### #is_/same_as :: [Sheet_Music.public](/_public/Society/Communication/Media/Creative_Work/Sheet_Music.public.md) 
 
-### #is_/same_as :: [sheet_music.internal](/_internal/schema-org/Class/is_a_/creative_work/sheet_music.internal.md) 
+### #is_/same_as :: [Sheet_Music.internal](/_internal/Society/Communication/Media/Creative_Work/Sheet_Music.internal.md) 
 
-### #is_/same_as :: [sheet_music.protect](/_protect/schema-org/Class/is_a_/creative_work/sheet_music.protect.md) 
+### #is_/same_as :: [Sheet_Music.protect](/_protect/Society/Communication/Media/Creative_Work/Sheet_Music.protect.md) 
 
-### #is_/same_as :: [sheet_music.private](/_private/schema-org/Class/is_a_/creative_work/sheet_music.private.md) 
+### #is_/same_as :: [Sheet_Music.private](/_private/Society/Communication/Media/Creative_Work/Sheet_Music.private.md) 
 
-### #is_/same_as :: [sheet_music.personal](/_personal/schema-org/Class/is_a_/creative_work/sheet_music.personal.md) 
+### #is_/same_as :: [Sheet_Music.personal](/_personal/Society/Communication/Media/Creative_Work/Sheet_Music.personal.md) 
 
-### #is_/same_as :: [sheet_music.secret](/_secret/schema-org/Class/is_a_/creative_work/sheet_music.secret.md)
+### #is_/same_as :: [Sheet_Music.secret](/_secret/Society/Communication/Media/Creative_Work/Sheet_Music.secret.md)
 

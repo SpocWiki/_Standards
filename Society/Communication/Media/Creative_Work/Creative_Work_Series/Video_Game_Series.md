@@ -38,17 +38,17 @@ A video game series.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game_Series](Video_Game_Series.md) 
+### #is_/same_as :: [Video_Game_Series](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.md) 
 
-### #is_/same_as :: [video_game_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.public.md) 
+### #is_/same_as :: [Video_Game_Series.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.public.md) 
 
-### #is_/same_as :: [video_game_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.internal.md) 
+### #is_/same_as :: [Video_Game_Series.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.internal.md) 
 
-### #is_/same_as :: [video_game_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.protect.md) 
+### #is_/same_as :: [Video_Game_Series.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.protect.md) 
 
-### #is_/same_as :: [video_game_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.private.md) 
+### #is_/same_as :: [Video_Game_Series.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.private.md) 
 
-### #is_/same_as :: [video_game_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.personal.md) 
+### #is_/same_as :: [Video_Game_Series.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.personal.md) 
 
-### #is_/same_as :: [video_game_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.secret.md)
+### #is_/same_as :: [Video_Game_Series.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.secret.md)
 

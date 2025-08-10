@@ -40,17 +40,17 @@ A short TV or radio program or a segment/part of a program.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clip](Clip.md) 
+### #is_/same_as :: [Clip](/_Standards/Society/Communication/Media/Creative_Work/Clip.md) 
 
-### #is_/same_as :: [clip.public](/_public/schema-org/Class/is_a_/creative_work/clip.public.md) 
+### #is_/same_as :: [Clip.public](/_public/Society/Communication/Media/Creative_Work/Clip.public.md) 
 
-### #is_/same_as :: [clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip.internal.md) 
+### #is_/same_as :: [Clip.internal](/_internal/Society/Communication/Media/Creative_Work/Clip.internal.md) 
 
-### #is_/same_as :: [clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip.protect.md) 
+### #is_/same_as :: [Clip.protect](/_protect/Society/Communication/Media/Creative_Work/Clip.protect.md) 
 
-### #is_/same_as :: [clip.private](/_private/schema-org/Class/is_a_/creative_work/clip.private.md) 
+### #is_/same_as :: [Clip.private](/_private/Society/Communication/Media/Creative_Work/Clip.private.md) 
 
-### #is_/same_as :: [clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip.personal.md) 
+### #is_/same_as :: [Clip.personal](/_personal/Society/Communication/Media/Creative_Work/Clip.personal.md) 
 
-### #is_/same_as :: [clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip.secret.md)
+### #is_/same_as :: [Clip.secret](/_secret/Society/Communication/Media/Creative_Work/Clip.secret.md)
 

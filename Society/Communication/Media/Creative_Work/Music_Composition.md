@@ -38,17 +38,17 @@ A musical composition.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Composition](Music_Composition.md) 
+### #is_/same_as :: [Music_Composition](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition.md) 
 
-### #is_/same_as :: [music_composition.public](/_public/schema-org/Class/is_a_/creative_work/music_composition.public.md) 
+### #is_/same_as :: [Music_Composition.public](/_public/Society/Communication/Media/Creative_Work/Music_Composition.public.md) 
 
-### #is_/same_as :: [music_composition.internal](/_internal/schema-org/Class/is_a_/creative_work/music_composition.internal.md) 
+### #is_/same_as :: [Music_Composition.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Composition.internal.md) 
 
-### #is_/same_as :: [music_composition.protect](/_protect/schema-org/Class/is_a_/creative_work/music_composition.protect.md) 
+### #is_/same_as :: [Music_Composition.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Composition.protect.md) 
 
-### #is_/same_as :: [music_composition.private](/_private/schema-org/Class/is_a_/creative_work/music_composition.private.md) 
+### #is_/same_as :: [Music_Composition.private](/_private/Society/Communication/Media/Creative_Work/Music_Composition.private.md) 
 
-### #is_/same_as :: [music_composition.personal](/_personal/schema-org/Class/is_a_/creative_work/music_composition.personal.md) 
+### #is_/same_as :: [Music_Composition.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Composition.personal.md) 
 
-### #is_/same_as :: [music_composition.secret](/_secret/schema-org/Class/is_a_/creative_work/music_composition.secret.md)
+### #is_/same_as :: [Music_Composition.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition.secret.md)
 

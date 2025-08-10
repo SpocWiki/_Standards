@@ -113,22 +113,3 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ### #is_/same_as :: [Atlas.secret](/_secret/Earth/Atlas.secret.md)
 
-
-# [[Atlas]] 
-
-#is_/part_of :: [[Atlas]] 
-
-![[Atlas.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

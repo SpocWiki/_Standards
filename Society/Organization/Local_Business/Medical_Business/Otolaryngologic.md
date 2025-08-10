@@ -39,17 +39,17 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [otolaryngologic](otolaryngologic.md) 
+### #is_/same_as :: [Otolaryngologic](/_Standards/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.md) 
 
-### #is_/same_as :: [otolaryngologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.public.md) 
+### #is_/same_as :: [Otolaryngologic.public](/_public/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.public.md) 
 
-### #is_/same_as :: [otolaryngologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md) 
+### #is_/same_as :: [Otolaryngologic.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.internal.md) 
 
-### #is_/same_as :: [otolaryngologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md) 
+### #is_/same_as :: [Otolaryngologic.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.protect.md) 
 
-### #is_/same_as :: [otolaryngologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.private.md) 
+### #is_/same_as :: [Otolaryngologic.private](/_private/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.private.md) 
 
-### #is_/same_as :: [otolaryngologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md) 
+### #is_/same_as :: [Otolaryngologic.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.personal.md) 
 
-### #is_/same_as :: [otolaryngologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md)
+### #is_/same_as :: [Otolaryngologic.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Otolaryngologic.secret.md)
 

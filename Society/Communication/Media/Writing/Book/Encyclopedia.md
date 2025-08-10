@@ -72,17 +72,17 @@ UNSPSC_Code: 55101525
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Encyclopedia](Encyclopedia.md) 
+### #is_/same_as :: [Encyclopedia](/_Standards/Society/Communication/Media/Writing/Book/Encyclopedia.md) 
 
-### #is_/same_as :: [Encyclopedia.public](/_public/Society/Communication/Media/Book/Encyclopedia.public.md) 
+### #is_/same_as :: [Encyclopedia.public](/_public/Society/Communication/Media/Writing/Book/Encyclopedia.public.md) 
 
-### #is_/same_as :: [Encyclopedia.internal](/_internal/Society/Communication/Media/Book/Encyclopedia.internal.md) 
+### #is_/same_as :: [Encyclopedia.internal](/_internal/Society/Communication/Media/Writing/Book/Encyclopedia.internal.md) 
 
-### #is_/same_as :: [Encyclopedia.protect](/_protect/Society/Communication/Media/Book/Encyclopedia.protect.md) 
+### #is_/same_as :: [Encyclopedia.protect](/_protect/Society/Communication/Media/Writing/Book/Encyclopedia.protect.md) 
 
-### #is_/same_as :: [Encyclopedia.private](/_private/Society/Communication/Media/Book/Encyclopedia.private.md) 
+### #is_/same_as :: [Encyclopedia.private](/_private/Society/Communication/Media/Writing/Book/Encyclopedia.private.md) 
 
-### #is_/same_as :: [Encyclopedia.personal](/_personal/Society/Communication/Media/Book/Encyclopedia.personal.md) 
+### #is_/same_as :: [Encyclopedia.personal](/_personal/Society/Communication/Media/Writing/Book/Encyclopedia.personal.md) 
 
-### #is_/same_as :: [Encyclopedia.secret](/_secret/Society/Communication/Media/Book/Encyclopedia.secret.md)
+### #is_/same_as :: [Encyclopedia.secret](/_secret/Society/Communication/Media/Writing/Book/Encyclopedia.secret.md)
 

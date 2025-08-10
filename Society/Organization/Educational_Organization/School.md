@@ -51,36 +51,17 @@ A school.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [School](School.md) 
+### #is_/same_as :: [School](/_Standards/Society/Organization/Educational_Organization/School.md) 
 
-### #is_/same_as :: [school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/school.public.md) 
+### #is_/same_as :: [School.public](/_public/Society/Organization/Educational_Organization/School.public.md) 
 
-### #is_/same_as :: [school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/school.internal.md) 
+### #is_/same_as :: [School.internal](/_internal/Society/Organization/Educational_Organization/School.internal.md) 
 
-### #is_/same_as :: [school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/school.protect.md) 
+### #is_/same_as :: [School.protect](/_protect/Society/Organization/Educational_Organization/School.protect.md) 
 
-### #is_/same_as :: [school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/school.private.md) 
+### #is_/same_as :: [School.private](/_private/Society/Organization/Educational_Organization/School.private.md) 
 
-### #is_/same_as :: [school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/school.personal.md) 
+### #is_/same_as :: [School.personal](/_personal/Society/Organization/Educational_Organization/School.personal.md) 
 
-### #is_/same_as :: [school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/school.secret.md)
+### #is_/same_as :: [School.secret](/_secret/Society/Organization/Educational_Organization/School.secret.md)
 
-
-# [[School]] 
-
-#is_/part_of :: [[School]] 
-
-![[School.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

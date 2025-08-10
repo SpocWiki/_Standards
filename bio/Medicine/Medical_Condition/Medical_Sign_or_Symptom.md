@@ -40,17 +40,17 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom](Medical_Sign_or_Symptom.md) 
+### #is_/same_as :: [Medical_Sign_or_Symptom](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.md) 
 
-### #is_/same_as :: [medical_sign_or_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.public.md) 
+### #is_/same_as :: [Medical_Sign_or_Symptom.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.public.md) 
 
-### #is_/same_as :: [medical_sign_or_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.internal.md) 
+### #is_/same_as :: [Medical_Sign_or_Symptom.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.internal.md) 
 
-### #is_/same_as :: [medical_sign_or_symptom.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.protect.md) 
+### #is_/same_as :: [Medical_Sign_or_Symptom.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.protect.md) 
 
-### #is_/same_as :: [medical_sign_or_symptom.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.private.md) 
+### #is_/same_as :: [Medical_Sign_or_Symptom.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.private.md) 
 
-### #is_/same_as :: [medical_sign_or_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.personal.md) 
+### #is_/same_as :: [Medical_Sign_or_Symptom.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.personal.md) 
 
-### #is_/same_as :: [medical_sign_or_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.secret.md)
+### #is_/same_as :: [Medical_Sign_or_Symptom.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.secret.md)
 

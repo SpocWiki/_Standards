@@ -38,17 +38,17 @@ Organization: Non-governmental Organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ngo](ngo.md) 
+### #is_/same_as :: [Ngo](/_Standards/Society/Organization/Ngo.md) 
 
-### #is_/same_as :: [ngo.public](/_public/schema-org/Class/is_a_/organization/ngo.public.md) 
+### #is_/same_as :: [Ngo.public](/_public/Society/Organization/Ngo.public.md) 
 
-### #is_/same_as :: [ngo.internal](/_internal/schema-org/Class/is_a_/organization/ngo.internal.md) 
+### #is_/same_as :: [Ngo.internal](/_internal/Society/Organization/Ngo.internal.md) 
 
-### #is_/same_as :: [ngo.protect](/_protect/schema-org/Class/is_a_/organization/ngo.protect.md) 
+### #is_/same_as :: [Ngo.protect](/_protect/Society/Organization/Ngo.protect.md) 
 
-### #is_/same_as :: [ngo.private](/_private/schema-org/Class/is_a_/organization/ngo.private.md) 
+### #is_/same_as :: [Ngo.private](/_private/Society/Organization/Ngo.private.md) 
 
-### #is_/same_as :: [ngo.personal](/_personal/schema-org/Class/is_a_/organization/ngo.personal.md) 
+### #is_/same_as :: [Ngo.personal](/_personal/Society/Organization/Ngo.personal.md) 
 
-### #is_/same_as :: [ngo.secret](/_secret/schema-org/Class/is_a_/organization/ngo.secret.md)
+### #is_/same_as :: [Ngo.secret](/_secret/Society/Organization/Ngo.secret.md)
 

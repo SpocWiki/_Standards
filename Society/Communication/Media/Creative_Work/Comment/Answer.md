@@ -38,17 +38,17 @@ An answer offered to a question; perhaps correct, perhaps opinionated or wrong.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Answer](Answer.md) 
+### #is_/same_as :: [Answer](/_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md) 
 
-### #is_/same_as :: [answer.public](/_public/schema-org/Class/is_a_/creative_work/comment/answer.public.md) 
+### #is_/same_as :: [Answer.public](/_public/Society/Communication/Media/Creative_Work/Comment/Answer.public.md) 
 
-### #is_/same_as :: [answer.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/answer.internal.md) 
+### #is_/same_as :: [Answer.internal](/_internal/Society/Communication/Media/Creative_Work/Comment/Answer.internal.md) 
 
-### #is_/same_as :: [answer.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/answer.protect.md) 
+### #is_/same_as :: [Answer.protect](/_protect/Society/Communication/Media/Creative_Work/Comment/Answer.protect.md) 
 
-### #is_/same_as :: [answer.private](/_private/schema-org/Class/is_a_/creative_work/comment/answer.private.md) 
+### #is_/same_as :: [Answer.private](/_private/Society/Communication/Media/Creative_Work/Comment/Answer.private.md) 
 
-### #is_/same_as :: [answer.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/answer.personal.md) 
+### #is_/same_as :: [Answer.personal](/_personal/Society/Communication/Media/Creative_Work/Comment/Answer.personal.md) 
 
-### #is_/same_as :: [answer.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/answer.secret.md)
+### #is_/same_as :: [Answer.secret](/_secret/Society/Communication/Media/Creative_Work/Comment/Answer.secret.md)
 

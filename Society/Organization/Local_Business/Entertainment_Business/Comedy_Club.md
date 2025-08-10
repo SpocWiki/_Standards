@@ -38,17 +38,17 @@ A comedy club.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comedy_Club](Comedy_Club.md) 
+### #is_/same_as :: [Comedy_Club](/_Standards/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.md) 
 
-### #is_/same_as :: [comedy_club.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.public.md) 
+### #is_/same_as :: [Comedy_Club.public](/_public/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.public.md) 
 
-### #is_/same_as :: [comedy_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.internal.md) 
+### #is_/same_as :: [Comedy_Club.internal](/_internal/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.internal.md) 
 
-### #is_/same_as :: [comedy_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.protect.md) 
+### #is_/same_as :: [Comedy_Club.protect](/_protect/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.protect.md) 
 
-### #is_/same_as :: [comedy_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.private.md) 
+### #is_/same_as :: [Comedy_Club.private](/_private/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.private.md) 
 
-### #is_/same_as :: [comedy_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.personal.md) 
+### #is_/same_as :: [Comedy_Club.personal](/_personal/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.personal.md) 
 
-### #is_/same_as :: [comedy_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.secret.md)
+### #is_/same_as :: [Comedy_Club.secret](/_secret/Society/Organization/Local_Business/Entertainment_Business/Comedy_Club.secret.md)
 

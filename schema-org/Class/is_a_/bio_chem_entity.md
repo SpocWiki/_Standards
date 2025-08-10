@@ -47,6 +47,7 @@ For example: a protein; a gene; a chemical; a synthetic chemical.
 
 #is_/same_as :: 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [bio_chem_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity.md) 

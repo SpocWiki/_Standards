@@ -38,17 +38,17 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prevention_Indication](Prevention_Indication.md) 
+### #is_/same_as :: [Prevention_Indication](/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.md) 
 
-### #is_/same_as :: [prevention_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.public.md) 
+### #is_/same_as :: [Prevention_Indication.public](/_public/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.public.md) 
 
-### #is_/same_as :: [prevention_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.internal.md) 
+### #is_/same_as :: [Prevention_Indication.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.internal.md) 
 
-### #is_/same_as :: [prevention_indication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.protect.md) 
+### #is_/same_as :: [Prevention_Indication.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.protect.md) 
 
-### #is_/same_as :: [prevention_indication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.private.md) 
+### #is_/same_as :: [Prevention_Indication.private](/_private/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.private.md) 
 
-### #is_/same_as :: [prevention_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.personal.md) 
+### #is_/same_as :: [Prevention_Indication.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.personal.md) 
 
-### #is_/same_as :: [prevention_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.secret.md)
+### #is_/same_as :: [Prevention_Indication.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Prevention_Indication.secret.md)
 

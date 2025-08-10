@@ -38,17 +38,17 @@ A music video file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Video_Object](Music_Video_Object.md) 
+### #is_/same_as :: [Music_Video_Object](/_Standards/Society/Communication/Media/Media_Object/Music_Video_Object.md) 
 
-### #is_/same_as :: [music_video_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/music_video_object.public.md) 
+### #is_/same_as :: [Music_Video_Object.public](/_public/Society/Communication/Media/Media_Object/Music_Video_Object.public.md) 
 
-### #is_/same_as :: [music_video_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/music_video_object.internal.md) 
+### #is_/same_as :: [Music_Video_Object.internal](/_internal/Society/Communication/Media/Media_Object/Music_Video_Object.internal.md) 
 
-### #is_/same_as :: [music_video_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/music_video_object.protect.md) 
+### #is_/same_as :: [Music_Video_Object.protect](/_protect/Society/Communication/Media/Media_Object/Music_Video_Object.protect.md) 
 
-### #is_/same_as :: [music_video_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/music_video_object.private.md) 
+### #is_/same_as :: [Music_Video_Object.private](/_private/Society/Communication/Media/Media_Object/Music_Video_Object.private.md) 
 
-### #is_/same_as :: [music_video_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/music_video_object.personal.md) 
+### #is_/same_as :: [Music_Video_Object.personal](/_personal/Society/Communication/Media/Media_Object/Music_Video_Object.personal.md) 
 
-### #is_/same_as :: [music_video_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/music_video_object.secret.md)
+### #is_/same_as :: [Music_Video_Object.secret](/_secret/Society/Communication/Media/Media_Object/Music_Video_Object.secret.md)
 

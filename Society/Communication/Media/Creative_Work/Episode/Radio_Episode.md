@@ -38,17 +38,17 @@ A radio episode which can be part of a series or season.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Episode](Radio_Episode.md) 
+### #is_/same_as :: [Radio_Episode](/_Standards/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.md) 
 
-### #is_/same_as :: [radio_episode.public](/_public/schema-org/Class/is_a_/creative_work/episode/radio_episode.public.md) 
+### #is_/same_as :: [Radio_Episode.public](/_public/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.public.md) 
 
-### #is_/same_as :: [radio_episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode/radio_episode.internal.md) 
+### #is_/same_as :: [Radio_Episode.internal](/_internal/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.internal.md) 
 
-### #is_/same_as :: [radio_episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode/radio_episode.protect.md) 
+### #is_/same_as :: [Radio_Episode.protect](/_protect/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.protect.md) 
 
-### #is_/same_as :: [radio_episode.private](/_private/schema-org/Class/is_a_/creative_work/episode/radio_episode.private.md) 
+### #is_/same_as :: [Radio_Episode.private](/_private/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.private.md) 
 
-### #is_/same_as :: [radio_episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode/radio_episode.personal.md) 
+### #is_/same_as :: [Radio_Episode.personal](/_personal/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.personal.md) 
 
-### #is_/same_as :: [radio_episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode/radio_episode.secret.md)
+### #is_/same_as :: [Radio_Episode.secret](/_secret/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.secret.md)
 

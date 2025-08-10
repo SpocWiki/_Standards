@@ -38,17 +38,17 @@ An email message.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Email_Message](Email_Message.md) 
+### #is_/same_as :: [Email_Message](/_Standards/Society/Communication/Media/Creative_Work/Message/Email_Message.md) 
 
-### #is_/same_as :: [email_message.public](/_public/schema-org/Class/is_a_/creative_work/message/email_message.public.md) 
+### #is_/same_as :: [Email_Message.public](/_public/Society/Communication/Media/Creative_Work/Message/Email_Message.public.md) 
 
-### #is_/same_as :: [email_message.internal](/_internal/schema-org/Class/is_a_/creative_work/message/email_message.internal.md) 
+### #is_/same_as :: [Email_Message.internal](/_internal/Society/Communication/Media/Creative_Work/Message/Email_Message.internal.md) 
 
-### #is_/same_as :: [email_message.protect](/_protect/schema-org/Class/is_a_/creative_work/message/email_message.protect.md) 
+### #is_/same_as :: [Email_Message.protect](/_protect/Society/Communication/Media/Creative_Work/Message/Email_Message.protect.md) 
 
-### #is_/same_as :: [email_message.private](/_private/schema-org/Class/is_a_/creative_work/message/email_message.private.md) 
+### #is_/same_as :: [Email_Message.private](/_private/Society/Communication/Media/Creative_Work/Message/Email_Message.private.md) 
 
-### #is_/same_as :: [email_message.personal](/_personal/schema-org/Class/is_a_/creative_work/message/email_message.personal.md) 
+### #is_/same_as :: [Email_Message.personal](/_personal/Society/Communication/Media/Creative_Work/Message/Email_Message.personal.md) 
 
-### #is_/same_as :: [email_message.secret](/_secret/schema-org/Class/is_a_/creative_work/message/email_message.secret.md)
+### #is_/same_as :: [Email_Message.secret](/_secret/Society/Communication/Media/Creative_Work/Message/Email_Message.secret.md)
 

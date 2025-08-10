@@ -43,17 +43,17 @@ subreddit: backgammon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Backgammon](Backgammon.md) 
+### #is_/same_as :: [Backgammon](/_Standards/Society/Communication/Media/Creative_Work/Game/Backgammon.md) 
 
-### #is_/same_as :: [Backgammon.public](/_public/schema-org/Class/is_a_/creative_work/Game/Backgammon.public.md) 
+### #is_/same_as :: [Backgammon.public](/_public/Society/Communication/Media/Creative_Work/Game/Backgammon.public.md) 
 
-### #is_/same_as :: [Backgammon.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Backgammon.internal.md) 
+### #is_/same_as :: [Backgammon.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Backgammon.internal.md) 
 
-### #is_/same_as :: [Backgammon.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Backgammon.protect.md) 
+### #is_/same_as :: [Backgammon.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Backgammon.protect.md) 
 
-### #is_/same_as :: [Backgammon.private](/_private/schema-org/Class/is_a_/creative_work/Game/Backgammon.private.md) 
+### #is_/same_as :: [Backgammon.private](/_private/Society/Communication/Media/Creative_Work/Game/Backgammon.private.md) 
 
-### #is_/same_as :: [Backgammon.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Backgammon.personal.md) 
+### #is_/same_as :: [Backgammon.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Backgammon.personal.md) 
 
-### #is_/same_as :: [Backgammon.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Backgammon.secret.md)
+### #is_/same_as :: [Backgammon.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Backgammon.secret.md)
 

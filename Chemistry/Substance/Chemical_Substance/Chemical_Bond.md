@@ -48,3 +48,22 @@ PhilPapers_topic: chemical-bonding
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20bond) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Chemical_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond.md) 
+
+### #is_/same_as :: [Chemical_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond.public.md) 
+
+### #is_/same_as :: [Chemical_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.internal.md) 
+
+### #is_/same_as :: [Chemical_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond.protect.md) 
+
+### #is_/same_as :: [Chemical_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond.private.md) 
+
+### #is_/same_as :: [Chemical_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.personal.md) 
+
+### #is_/same_as :: [Chemical_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond.secret.md)
+

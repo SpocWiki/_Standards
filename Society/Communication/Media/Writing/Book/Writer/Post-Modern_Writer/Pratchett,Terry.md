@@ -51,17 +51,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pratchett,Terry](Pratchett,Terry.md) 
+### #is_/same_as :: [Pratchett,Terry](/_Standards/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.md) 
 
-### #is_/same_as :: [Pratchett,Terry.public](/_public/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Pratchett,Terry.public.md) 
+### #is_/same_as :: [Pratchett,Terry.public](/_public/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.public.md) 
 
-### #is_/same_as :: [Pratchett,Terry.internal](/_internal/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Pratchett,Terry.internal.md) 
+### #is_/same_as :: [Pratchett,Terry.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.internal.md) 
 
-### #is_/same_as :: [Pratchett,Terry.protect](/_protect/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Pratchett,Terry.protect.md) 
+### #is_/same_as :: [Pratchett,Terry.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.protect.md) 
 
-### #is_/same_as :: [Pratchett,Terry.private](/_private/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Pratchett,Terry.private.md) 
+### #is_/same_as :: [Pratchett,Terry.private](/_private/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.private.md) 
 
-### #is_/same_as :: [Pratchett,Terry.personal](/_personal/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Pratchett,Terry.personal.md) 
+### #is_/same_as :: [Pratchett,Terry.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.personal.md) 
 
-### #is_/same_as :: [Pratchett,Terry.secret](/_secret/Society/Communication/Media/Book/Writer/Post-Modern_Writer/Pratchett,Terry.secret.md)
+### #is_/same_as :: [Pratchett,Terry.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Pratchett,Terry.secret.md)
 

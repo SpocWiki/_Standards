@@ -52,3 +52,22 @@ OpenStreetMap_tag_or_key: Key:carriage
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carriage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carriage](/_Standards/Technology/Transport/Road_Transport/Carriage.md) 
+
+### #is_/same_as :: [Carriage.public](/_public/Technology/Transport/Road_Transport/Carriage.public.md) 
+
+### #is_/same_as :: [Carriage.internal](/_internal/Technology/Transport/Road_Transport/Carriage.internal.md) 
+
+### #is_/same_as :: [Carriage.protect](/_protect/Technology/Transport/Road_Transport/Carriage.protect.md) 
+
+### #is_/same_as :: [Carriage.private](/_private/Technology/Transport/Road_Transport/Carriage.private.md) 
+
+### #is_/same_as :: [Carriage.personal](/_personal/Technology/Transport/Road_Transport/Carriage.personal.md) 
+
+### #is_/same_as :: [Carriage.secret](/_secret/Technology/Transport/Road_Transport/Carriage.secret.md)
+

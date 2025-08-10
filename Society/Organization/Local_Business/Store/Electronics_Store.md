@@ -38,17 +38,17 @@ An electronics store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [electronics_store](electronics_store.md) 
+### #is_/same_as :: [Electronics_Store](/_Standards/Society/Organization/Local_Business/Store/Electronics_Store.md) 
 
-### #is_/same_as :: [electronics_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/electronics_store.public.md) 
+### #is_/same_as :: [Electronics_Store.public](/_public/Society/Organization/Local_Business/Store/Electronics_Store.public.md) 
 
-### #is_/same_as :: [electronics_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/electronics_store.internal.md) 
+### #is_/same_as :: [Electronics_Store.internal](/_internal/Society/Organization/Local_Business/Store/Electronics_Store.internal.md) 
 
-### #is_/same_as :: [electronics_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/electronics_store.protect.md) 
+### #is_/same_as :: [Electronics_Store.protect](/_protect/Society/Organization/Local_Business/Store/Electronics_Store.protect.md) 
 
-### #is_/same_as :: [electronics_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/electronics_store.private.md) 
+### #is_/same_as :: [Electronics_Store.private](/_private/Society/Organization/Local_Business/Store/Electronics_Store.private.md) 
 
-### #is_/same_as :: [electronics_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/electronics_store.personal.md) 
+### #is_/same_as :: [Electronics_Store.personal](/_personal/Society/Organization/Local_Business/Store/Electronics_Store.personal.md) 
 
-### #is_/same_as :: [electronics_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/electronics_store.secret.md)
+### #is_/same_as :: [Electronics_Store.secret](/_secret/Society/Organization/Local_Business/Store/Electronics_Store.secret.md)
 

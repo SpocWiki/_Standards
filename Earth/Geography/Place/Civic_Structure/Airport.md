@@ -38,17 +38,17 @@ An airport.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Airport](Airport.md) 
+### #is_/same_as :: [Airport](/_Standards/Earth/Geography/Place/Civic_Structure/Airport.md) 
 
-### #is_/same_as :: [airport.public](/_public/schema-org/Class/is_a_/place/civic_structure/airport.public.md) 
+### #is_/same_as :: [Airport.public](/_public/Earth/Geography/Place/Civic_Structure/Airport.public.md) 
 
-### #is_/same_as :: [airport.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/airport.internal.md) 
+### #is_/same_as :: [Airport.internal](/_internal/Earth/Geography/Place/Civic_Structure/Airport.internal.md) 
 
-### #is_/same_as :: [airport.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/airport.protect.md) 
+### #is_/same_as :: [Airport.protect](/_protect/Earth/Geography/Place/Civic_Structure/Airport.protect.md) 
 
-### #is_/same_as :: [airport.private](/_private/schema-org/Class/is_a_/place/civic_structure/airport.private.md) 
+### #is_/same_as :: [Airport.private](/_private/Earth/Geography/Place/Civic_Structure/Airport.private.md) 
 
-### #is_/same_as :: [airport.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/airport.personal.md) 
+### #is_/same_as :: [Airport.personal](/_personal/Earth/Geography/Place/Civic_Structure/Airport.personal.md) 
 
-### #is_/same_as :: [airport.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/airport.secret.md)
+### #is_/same_as :: [Airport.secret](/_secret/Earth/Geography/Place/Civic_Structure/Airport.secret.md)
 

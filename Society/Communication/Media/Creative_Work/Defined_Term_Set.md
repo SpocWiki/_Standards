@@ -42,17 +42,17 @@ A set of defined terms, for example a set of categories or a classification sche
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Defined_Term_Set](Defined_Term_Set.md) 
+### #is_/same_as :: [Defined_Term_Set](/_Standards/Society/Communication/Media/Creative_Work/Defined_Term_Set.md) 
 
-### #is_/same_as :: [defined_term_set.public](/_public/schema-org/Class/is_a_/creative_work/defined_term_set.public.md) 
+### #is_/same_as :: [Defined_Term_Set.public](/_public/Society/Communication/Media/Creative_Work/Defined_Term_Set.public.md) 
 
-### #is_/same_as :: [defined_term_set.internal](/_internal/schema-org/Class/is_a_/creative_work/defined_term_set.internal.md) 
+### #is_/same_as :: [Defined_Term_Set.internal](/_internal/Society/Communication/Media/Creative_Work/Defined_Term_Set.internal.md) 
 
-### #is_/same_as :: [defined_term_set.protect](/_protect/schema-org/Class/is_a_/creative_work/defined_term_set.protect.md) 
+### #is_/same_as :: [Defined_Term_Set.protect](/_protect/Society/Communication/Media/Creative_Work/Defined_Term_Set.protect.md) 
 
-### #is_/same_as :: [defined_term_set.private](/_private/schema-org/Class/is_a_/creative_work/defined_term_set.private.md) 
+### #is_/same_as :: [Defined_Term_Set.private](/_private/Society/Communication/Media/Creative_Work/Defined_Term_Set.private.md) 
 
-### #is_/same_as :: [defined_term_set.personal](/_personal/schema-org/Class/is_a_/creative_work/defined_term_set.personal.md) 
+### #is_/same_as :: [Defined_Term_Set.personal](/_personal/Society/Communication/Media/Creative_Work/Defined_Term_Set.personal.md) 
 
-### #is_/same_as :: [defined_term_set.secret](/_secret/schema-org/Class/is_a_/creative_work/defined_term_set.secret.md)
+### #is_/same_as :: [Defined_Term_Set.secret](/_secret/Society/Communication/Media/Creative_Work/Defined_Term_Set.secret.md)
 

@@ -216,17 +216,17 @@ writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dickens,Charles](Dickens,Charles.md) 
+### #is_/same_as :: [Dickens,Charles](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.md) 
 
-### #is_/same_as :: [Dickens,Charles.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Dickens,Charles.public.md) 
+### #is_/same_as :: [Dickens,Charles.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.public.md) 
 
-### #is_/same_as :: [Dickens,Charles.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Dickens,Charles.internal.md) 
+### #is_/same_as :: [Dickens,Charles.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.internal.md) 
 
-### #is_/same_as :: [Dickens,Charles.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Dickens,Charles.protect.md) 
+### #is_/same_as :: [Dickens,Charles.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.protect.md) 
 
-### #is_/same_as :: [Dickens,Charles.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Dickens,Charles.private.md) 
+### #is_/same_as :: [Dickens,Charles.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.private.md) 
 
-### #is_/same_as :: [Dickens,Charles.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Dickens,Charles.personal.md) 
+### #is_/same_as :: [Dickens,Charles.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.personal.md) 
 
-### #is_/same_as :: [Dickens,Charles.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Dickens,Charles.secret.md)
+### #is_/same_as :: [Dickens,Charles.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Dickens,Charles.secret.md)
 

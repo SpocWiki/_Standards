@@ -38,17 +38,17 @@ Residence type: Single-family home.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Family_Residence](Single_Family_Residence.md) 
+### #is_/same_as :: [Single_Family_Residence](/_Standards/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.md) 
 
-### #is_/same_as :: [single_family_residence.public](/_public/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.public.md) 
+### #is_/same_as :: [Single_Family_Residence.public](/_public/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.public.md) 
 
-### #is_/same_as :: [single_family_residence.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.internal.md) 
+### #is_/same_as :: [Single_Family_Residence.internal](/_internal/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.internal.md) 
 
-### #is_/same_as :: [single_family_residence.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.protect.md) 
+### #is_/same_as :: [Single_Family_Residence.protect](/_protect/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.protect.md) 
 
-### #is_/same_as :: [single_family_residence.private](/_private/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.private.md) 
+### #is_/same_as :: [Single_Family_Residence.private](/_private/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.private.md) 
 
-### #is_/same_as :: [single_family_residence.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.personal.md) 
+### #is_/same_as :: [Single_Family_Residence.personal](/_personal/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.personal.md) 
 
-### #is_/same_as :: [single_family_residence.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.secret.md)
+### #is_/same_as :: [Single_Family_Residence.secret](/_secret/Earth/Geography/Place/Accommodation/House/Single_Family_Residence.secret.md)
 

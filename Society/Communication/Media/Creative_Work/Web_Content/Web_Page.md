@@ -40,17 +40,17 @@ A web page. Every web page is implicitly assumed to be declared to be of type We
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Page](Web_Page.md) 
+### #is_/same_as :: [Web_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.md) 
 
-### #is_/same_as :: [web_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page.public.md) 
+### #is_/same_as :: [Web_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.public.md) 
 
-### #is_/same_as :: [web_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page.internal.md) 
+### #is_/same_as :: [Web_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.internal.md) 
 
-### #is_/same_as :: [web_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page.protect.md) 
+### #is_/same_as :: [Web_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.protect.md) 
 
-### #is_/same_as :: [web_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page.private.md) 
+### #is_/same_as :: [Web_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.private.md) 
 
-### #is_/same_as :: [web_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page.personal.md) 
+### #is_/same_as :: [Web_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.personal.md) 
 
-### #is_/same_as :: [web_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page.secret.md)
+### #is_/same_as :: [Web_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.secret.md)
 

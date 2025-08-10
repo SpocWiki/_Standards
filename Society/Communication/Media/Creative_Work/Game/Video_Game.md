@@ -38,17 +38,17 @@ A video game is an electronic game that involves human interaction with a user i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game](Video_Game.md) 
+### #is_/same_as :: [Video_Game](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game.md) 
 
-### #is_/same_as :: [video_game.public](/_public/schema-org/Class/is_a_/creative_work/Game/video_game.public.md) 
+### #is_/same_as :: [Video_Game.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game.public.md) 
 
-### #is_/same_as :: [video_game.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/video_game.internal.md) 
+### #is_/same_as :: [Video_Game.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game.internal.md) 
 
-### #is_/same_as :: [video_game.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/video_game.protect.md) 
+### #is_/same_as :: [Video_Game.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game.protect.md) 
 
-### #is_/same_as :: [video_game.private](/_private/schema-org/Class/is_a_/creative_work/Game/video_game.private.md) 
+### #is_/same_as :: [Video_Game.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game.private.md) 
 
-### #is_/same_as :: [video_game.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/video_game.personal.md) 
+### #is_/same_as :: [Video_Game.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game.personal.md) 
 
-### #is_/same_as :: [video_game.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/video_game.secret.md)
+### #is_/same_as :: [Video_Game.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game.secret.md)
 

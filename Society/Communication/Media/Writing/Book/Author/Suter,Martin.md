@@ -76,17 +76,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suter,Martin](Suter,Martin.md) 
+### #is_/same_as :: [Suter,Martin](/_Standards/Society/Communication/Media/Writing/Book/Author/Suter,Martin.md) 
 
-### #is_/same_as :: [Suter,Martin.public](/_public/Society/Communication/Media/Book/Author/Suter,Martin.public.md) 
+### #is_/same_as :: [Suter,Martin.public](/_public/Society/Communication/Media/Writing/Book/Author/Suter,Martin.public.md) 
 
-### #is_/same_as :: [Suter,Martin.internal](/_internal/Society/Communication/Media/Book/Author/Suter,Martin.internal.md) 
+### #is_/same_as :: [Suter,Martin.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Suter,Martin.internal.md) 
 
-### #is_/same_as :: [Suter,Martin.protect](/_protect/Society/Communication/Media/Book/Author/Suter,Martin.protect.md) 
+### #is_/same_as :: [Suter,Martin.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Suter,Martin.protect.md) 
 
-### #is_/same_as :: [Suter,Martin.private](/_private/Society/Communication/Media/Book/Author/Suter,Martin.private.md) 
+### #is_/same_as :: [Suter,Martin.private](/_private/Society/Communication/Media/Writing/Book/Author/Suter,Martin.private.md) 
 
-### #is_/same_as :: [Suter,Martin.personal](/_personal/Society/Communication/Media/Book/Author/Suter,Martin.personal.md) 
+### #is_/same_as :: [Suter,Martin.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Suter,Martin.personal.md) 
 
-### #is_/same_as :: [Suter,Martin.secret](/_secret/Society/Communication/Media/Book/Author/Suter,Martin.secret.md)
+### #is_/same_as :: [Suter,Martin.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Suter,Martin.secret.md)
 

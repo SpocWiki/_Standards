@@ -46,3 +46,22 @@ Commons_category: Ionic bond
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ionic%20bonding) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ionic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.md) 
+
+### #is_/same_as :: [Ionic_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.public.md) 
+
+### #is_/same_as :: [Ionic_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.internal.md) 
+
+### #is_/same_as :: [Ionic_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.protect.md) 
+
+### #is_/same_as :: [Ionic_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.private.md) 
+
+### #is_/same_as :: [Ionic_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.personal.md) 
+
+### #is_/same_as :: [Ionic_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.secret.md)
+

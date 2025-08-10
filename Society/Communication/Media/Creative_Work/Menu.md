@@ -38,17 +38,17 @@ A structured representation of food or drink items available from a FoodEstablis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Menu](Menu.md) 
+### #is_/same_as :: [Menu](/_Standards/Society/Communication/Media/Creative_Work/Menu.md) 
 
-### #is_/same_as :: [menu.public](/_public/schema-org/Class/is_a_/creative_work/menu.public.md) 
+### #is_/same_as :: [Menu.public](/_public/Society/Communication/Media/Creative_Work/Menu.public.md) 
 
-### #is_/same_as :: [menu.internal](/_internal/schema-org/Class/is_a_/creative_work/menu.internal.md) 
+### #is_/same_as :: [Menu.internal](/_internal/Society/Communication/Media/Creative_Work/Menu.internal.md) 
 
-### #is_/same_as :: [menu.protect](/_protect/schema-org/Class/is_a_/creative_work/menu.protect.md) 
+### #is_/same_as :: [Menu.protect](/_protect/Society/Communication/Media/Creative_Work/Menu.protect.md) 
 
-### #is_/same_as :: [menu.private](/_private/schema-org/Class/is_a_/creative_work/menu.private.md) 
+### #is_/same_as :: [Menu.private](/_private/Society/Communication/Media/Creative_Work/Menu.private.md) 
 
-### #is_/same_as :: [menu.personal](/_personal/schema-org/Class/is_a_/creative_work/menu.personal.md) 
+### #is_/same_as :: [Menu.personal](/_personal/Society/Communication/Media/Creative_Work/Menu.personal.md) 
 
-### #is_/same_as :: [menu.secret](/_secret/schema-org/Class/is_a_/creative_work/menu.secret.md)
+### #is_/same_as :: [Menu.secret](/_secret/Society/Communication/Media/Creative_Work/Menu.secret.md)
 

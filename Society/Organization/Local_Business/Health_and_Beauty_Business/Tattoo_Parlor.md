@@ -38,17 +38,17 @@ A tattoo parlor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [tattoo_parlor](tattoo_parlor.md) 
+### #is_/same_as :: [Tattoo_Parlor](/_Standards/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.md) 
 
-### #is_/same_as :: [tattoo_parlor.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.public.md) 
+### #is_/same_as :: [Tattoo_Parlor.public](/_public/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.public.md) 
 
-### #is_/same_as :: [tattoo_parlor.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.internal.md) 
+### #is_/same_as :: [Tattoo_Parlor.internal](/_internal/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.internal.md) 
 
-### #is_/same_as :: [tattoo_parlor.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.protect.md) 
+### #is_/same_as :: [Tattoo_Parlor.protect](/_protect/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.protect.md) 
 
-### #is_/same_as :: [tattoo_parlor.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.private.md) 
+### #is_/same_as :: [Tattoo_Parlor.private](/_private/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.private.md) 
 
-### #is_/same_as :: [tattoo_parlor.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.personal.md) 
+### #is_/same_as :: [Tattoo_Parlor.personal](/_personal/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.personal.md) 
 
-### #is_/same_as :: [tattoo_parlor.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.secret.md)
+### #is_/same_as :: [Tattoo_Parlor.secret](/_secret/Society/Organization/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.secret.md)
 

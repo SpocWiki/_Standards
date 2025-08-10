@@ -119,17 +119,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virgil](Virgil.md) 
+### #is_/same_as :: [Virgil](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.md) 
 
-### #is_/same_as :: [Virgil.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Virgil.public.md) 
+### #is_/same_as :: [Virgil.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.public.md) 
 
-### #is_/same_as :: [Virgil.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Virgil.internal.md) 
+### #is_/same_as :: [Virgil.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.internal.md) 
 
-### #is_/same_as :: [Virgil.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Virgil.protect.md) 
+### #is_/same_as :: [Virgil.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.protect.md) 
 
-### #is_/same_as :: [Virgil.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Virgil.private.md) 
+### #is_/same_as :: [Virgil.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.private.md) 
 
-### #is_/same_as :: [Virgil.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Virgil.personal.md) 
+### #is_/same_as :: [Virgil.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.personal.md) 
 
-### #is_/same_as :: [Virgil.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Virgil.secret.md)
+### #is_/same_as :: [Virgil.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Virgil.secret.md)
 

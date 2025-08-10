@@ -187,17 +187,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shelley,Mary](Shelley,Mary.md) 
+### #is_/same_as :: [Shelley,Mary](/_Standards/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.md) 
 
-### #is_/same_as :: [Shelley,Mary.public](/_public/Society/Communication/Media/Book/Author/Shelley,Mary.public.md) 
+### #is_/same_as :: [Shelley,Mary.public](/_public/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.public.md) 
 
-### #is_/same_as :: [Shelley,Mary.internal](/_internal/Society/Communication/Media/Book/Author/Shelley,Mary.internal.md) 
+### #is_/same_as :: [Shelley,Mary.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.internal.md) 
 
-### #is_/same_as :: [Shelley,Mary.protect](/_protect/Society/Communication/Media/Book/Author/Shelley,Mary.protect.md) 
+### #is_/same_as :: [Shelley,Mary.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.protect.md) 
 
-### #is_/same_as :: [Shelley,Mary.private](/_private/Society/Communication/Media/Book/Author/Shelley,Mary.private.md) 
+### #is_/same_as :: [Shelley,Mary.private](/_private/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.private.md) 
 
-### #is_/same_as :: [Shelley,Mary.personal](/_personal/Society/Communication/Media/Book/Author/Shelley,Mary.personal.md) 
+### #is_/same_as :: [Shelley,Mary.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.personal.md) 
 
-### #is_/same_as :: [Shelley,Mary.secret](/_secret/Society/Communication/Media/Book/Author/Shelley,Mary.secret.md)
+### #is_/same_as :: [Shelley,Mary.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Shelley,Mary.secret.md)
 

@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doublethink](Doublethink.md) 
+### #is_/same_as :: [Doublethink](/_Standards/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.md) 
 
-### #is_/same_as :: [Doublethink.public](/_public/Society/Communication/Media/Book/Author/Orwell,George/Doublethink.public.md) 
+### #is_/same_as :: [Doublethink.public](/_public/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.public.md) 
 
-### #is_/same_as :: [Doublethink.internal](/_internal/Society/Communication/Media/Book/Author/Orwell,George/Doublethink.internal.md) 
+### #is_/same_as :: [Doublethink.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.internal.md) 
 
-### #is_/same_as :: [Doublethink.protect](/_protect/Society/Communication/Media/Book/Author/Orwell,George/Doublethink.protect.md) 
+### #is_/same_as :: [Doublethink.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.protect.md) 
 
-### #is_/same_as :: [Doublethink.private](/_private/Society/Communication/Media/Book/Author/Orwell,George/Doublethink.private.md) 
+### #is_/same_as :: [Doublethink.private](/_private/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.private.md) 
 
-### #is_/same_as :: [Doublethink.personal](/_personal/Society/Communication/Media/Book/Author/Orwell,George/Doublethink.personal.md) 
+### #is_/same_as :: [Doublethink.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.personal.md) 
 
-### #is_/same_as :: [Doublethink.secret](/_secret/Society/Communication/Media/Book/Author/Orwell,George/Doublethink.secret.md)
+### #is_/same_as :: [Doublethink.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Orwell,George/Doublethink.secret.md)
 

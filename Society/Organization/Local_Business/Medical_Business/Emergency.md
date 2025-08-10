@@ -39,17 +39,17 @@ A specific branch of medical science that deals with the evaluation and initial 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [emergency](emergency.md) 
+### #is_/same_as :: [Emergency](/_Standards/Society/Organization/Local_Business/Medical_Business/Emergency.md) 
 
-### #is_/same_as :: [emergency.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.public.md) 
+### #is_/same_as :: [Emergency.public](/_public/Society/Organization/Local_Business/Medical_Business/Emergency.public.md) 
 
-### #is_/same_as :: [emergency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.internal.md) 
+### #is_/same_as :: [Emergency.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Emergency.internal.md) 
 
-### #is_/same_as :: [emergency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.protect.md) 
+### #is_/same_as :: [Emergency.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Emergency.protect.md) 
 
-### #is_/same_as :: [emergency.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.private.md) 
+### #is_/same_as :: [Emergency.private](/_private/Society/Organization/Local_Business/Medical_Business/Emergency.private.md) 
 
-### #is_/same_as :: [emergency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.personal.md) 
+### #is_/same_as :: [Emergency.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Emergency.personal.md) 
 
-### #is_/same_as :: [emergency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.secret.md)
+### #is_/same_as :: [Emergency.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Emergency.secret.md)
 

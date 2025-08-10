@@ -38,17 +38,17 @@ A park.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Park](Park.md) 
+### #is_/same_as :: [Park](/_Standards/Earth/Geography/Place/Civic_Structure/Park.md) 
 
-### #is_/same_as :: [park.public](/_public/schema-org/Class/is_a_/place/civic_structure/park.public.md) 
+### #is_/same_as :: [Park.public](/_public/Earth/Geography/Place/Civic_Structure/Park.public.md) 
 
-### #is_/same_as :: [park.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/park.internal.md) 
+### #is_/same_as :: [Park.internal](/_internal/Earth/Geography/Place/Civic_Structure/Park.internal.md) 
 
-### #is_/same_as :: [park.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/park.protect.md) 
+### #is_/same_as :: [Park.protect](/_protect/Earth/Geography/Place/Civic_Structure/Park.protect.md) 
 
-### #is_/same_as :: [park.private](/_private/schema-org/Class/is_a_/place/civic_structure/park.private.md) 
+### #is_/same_as :: [Park.private](/_private/Earth/Geography/Place/Civic_Structure/Park.private.md) 
 
-### #is_/same_as :: [park.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/park.personal.md) 
+### #is_/same_as :: [Park.personal](/_personal/Earth/Geography/Place/Civic_Structure/Park.personal.md) 
 
-### #is_/same_as :: [park.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/park.secret.md)
+### #is_/same_as :: [Park.secret](/_secret/Earth/Geography/Place/Civic_Structure/Park.secret.md)
 

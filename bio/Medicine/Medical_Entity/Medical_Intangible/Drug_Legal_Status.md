@@ -38,17 +38,17 @@ The legal availability status of a medical drug.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Legal_Status](Drug_Legal_Status.md) 
+### #is_/same_as :: [Drug_Legal_Status](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.md) 
 
-### #is_/same_as :: [drug_legal_status.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.public.md) 
+### #is_/same_as :: [Drug_Legal_Status.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.public.md) 
 
-### #is_/same_as :: [drug_legal_status.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.internal.md) 
+### #is_/same_as :: [Drug_Legal_Status.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.internal.md) 
 
-### #is_/same_as :: [drug_legal_status.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.protect.md) 
+### #is_/same_as :: [Drug_Legal_Status.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.protect.md) 
 
-### #is_/same_as :: [drug_legal_status.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.private.md) 
+### #is_/same_as :: [Drug_Legal_Status.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.private.md) 
 
-### #is_/same_as :: [drug_legal_status.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.personal.md) 
+### #is_/same_as :: [Drug_Legal_Status.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.personal.md) 
 
-### #is_/same_as :: [drug_legal_status.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.secret.md)
+### #is_/same_as :: [Drug_Legal_Status.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Legal_Status.secret.md)
 

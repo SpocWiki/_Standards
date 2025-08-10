@@ -40,17 +40,17 @@ A sports location, such as a playing field.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [sports_activity_location](sports_activity_location.md) 
+### #is_/same_as :: [Sports_Activity_Location](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location.md) 
 
-### #is_/same_as :: [sports_activity_location.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location.public.md) 
+### #is_/same_as :: [Sports_Activity_Location.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location.public.md) 
 
-### #is_/same_as :: [sports_activity_location.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location.internal.md) 
+### #is_/same_as :: [Sports_Activity_Location.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location.internal.md) 
 
-### #is_/same_as :: [sports_activity_location.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location.protect.md) 
+### #is_/same_as :: [Sports_Activity_Location.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location.protect.md) 
 
-### #is_/same_as :: [sports_activity_location.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location.private.md) 
+### #is_/same_as :: [Sports_Activity_Location.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location.private.md) 
 
-### #is_/same_as :: [sports_activity_location.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location.personal.md) 
+### #is_/same_as :: [Sports_Activity_Location.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location.personal.md) 
 
-### #is_/same_as :: [sports_activity_location.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location.secret.md)
+### #is_/same_as :: [Sports_Activity_Location.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location.secret.md)
 

@@ -168,17 +168,17 @@ writing_language: "[[_Standards/WikiData/WD~Russian,7737]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chekhov,Anton](Chekhov,Anton.md) 
+### #is_/same_as :: [Chekhov,Anton](/_Standards/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.md) 
 
-### #is_/same_as :: [Chekhov,Anton.public](/_public/Society/Communication/Media/Book/Writer/Chekhov,Anton.public.md) 
+### #is_/same_as :: [Chekhov,Anton.public](/_public/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.public.md) 
 
-### #is_/same_as :: [Chekhov,Anton.internal](/_internal/Society/Communication/Media/Book/Writer/Chekhov,Anton.internal.md) 
+### #is_/same_as :: [Chekhov,Anton.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.internal.md) 
 
-### #is_/same_as :: [Chekhov,Anton.protect](/_protect/Society/Communication/Media/Book/Writer/Chekhov,Anton.protect.md) 
+### #is_/same_as :: [Chekhov,Anton.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.protect.md) 
 
-### #is_/same_as :: [Chekhov,Anton.private](/_private/Society/Communication/Media/Book/Writer/Chekhov,Anton.private.md) 
+### #is_/same_as :: [Chekhov,Anton.private](/_private/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.private.md) 
 
-### #is_/same_as :: [Chekhov,Anton.personal](/_personal/Society/Communication/Media/Book/Writer/Chekhov,Anton.personal.md) 
+### #is_/same_as :: [Chekhov,Anton.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.personal.md) 
 
-### #is_/same_as :: [Chekhov,Anton.secret](/_secret/Society/Communication/Media/Book/Writer/Chekhov,Anton.secret.md)
+### #is_/same_as :: [Chekhov,Anton.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Chekhov,Anton.secret.md)
 

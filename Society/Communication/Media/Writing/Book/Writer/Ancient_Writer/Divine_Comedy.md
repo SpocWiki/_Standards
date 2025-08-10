@@ -304,17 +304,17 @@ used_metre: '[[_Standards/WikiData/WD~Terza_rima,968679]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Divine_Comedy](Divine_Comedy.md) 
+### #is_/same_as :: [Divine_Comedy](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.md) 
 
-### #is_/same_as :: [Divine_Comedy.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.public.md) 
+### #is_/same_as :: [Divine_Comedy.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.public.md) 
 
-### #is_/same_as :: [Divine_Comedy.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.internal.md) 
+### #is_/same_as :: [Divine_Comedy.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.internal.md) 
 
-### #is_/same_as :: [Divine_Comedy.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.protect.md) 
+### #is_/same_as :: [Divine_Comedy.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.protect.md) 
 
-### #is_/same_as :: [Divine_Comedy.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.private.md) 
+### #is_/same_as :: [Divine_Comedy.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.private.md) 
 
-### #is_/same_as :: [Divine_Comedy.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.personal.md) 
+### #is_/same_as :: [Divine_Comedy.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.personal.md) 
 
-### #is_/same_as :: [Divine_Comedy.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Divine_Comedy.secret.md)
+### #is_/same_as :: [Divine_Comedy.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Divine_Comedy.secret.md)
 

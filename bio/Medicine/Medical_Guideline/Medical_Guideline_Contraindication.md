@@ -38,17 +38,17 @@ A guideline contraindication that designates a process as harmful and where qual
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Guideline_Contraindication](Medical_Guideline_Contraindication.md) 
+### #is_/same_as :: [Medical_Guideline_Contraindication](/_Standards/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.md) 
 
-### #is_/same_as :: [medical_guideline_contraindication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.public.md) 
+### #is_/same_as :: [Medical_Guideline_Contraindication.public](/_public/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.public.md) 
 
-### #is_/same_as :: [medical_guideline_contraindication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.internal.md) 
+### #is_/same_as :: [Medical_Guideline_Contraindication.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.internal.md) 
 
-### #is_/same_as :: [medical_guideline_contraindication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.protect.md) 
+### #is_/same_as :: [Medical_Guideline_Contraindication.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.protect.md) 
 
-### #is_/same_as :: [medical_guideline_contraindication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.private.md) 
+### #is_/same_as :: [Medical_Guideline_Contraindication.private](/_private/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.private.md) 
 
-### #is_/same_as :: [medical_guideline_contraindication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.personal.md) 
+### #is_/same_as :: [Medical_Guideline_Contraindication.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.personal.md) 
 
-### #is_/same_as :: [medical_guideline_contraindication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.secret.md)
+### #is_/same_as :: [Medical_Guideline_Contraindication.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Guideline_Contraindication.secret.md)
 

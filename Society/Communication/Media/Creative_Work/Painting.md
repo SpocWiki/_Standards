@@ -38,17 +38,17 @@ A painting.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Painting](Painting.md) 
+### #is_/same_as :: [Painting](/_Standards/Society/Communication/Media/Creative_Work/Painting.md) 
 
-### #is_/same_as :: [painting.public](/_public/schema-org/Class/is_a_/creative_work/painting.public.md) 
+### #is_/same_as :: [Painting.public](/_public/Society/Communication/Media/Creative_Work/Painting.public.md) 
 
-### #is_/same_as :: [painting.internal](/_internal/schema-org/Class/is_a_/creative_work/painting.internal.md) 
+### #is_/same_as :: [Painting.internal](/_internal/Society/Communication/Media/Creative_Work/Painting.internal.md) 
 
-### #is_/same_as :: [painting.protect](/_protect/schema-org/Class/is_a_/creative_work/painting.protect.md) 
+### #is_/same_as :: [Painting.protect](/_protect/Society/Communication/Media/Creative_Work/Painting.protect.md) 
 
-### #is_/same_as :: [painting.private](/_private/schema-org/Class/is_a_/creative_work/painting.private.md) 
+### #is_/same_as :: [Painting.private](/_private/Society/Communication/Media/Creative_Work/Painting.private.md) 
 
-### #is_/same_as :: [painting.personal](/_personal/schema-org/Class/is_a_/creative_work/painting.personal.md) 
+### #is_/same_as :: [Painting.personal](/_personal/Society/Communication/Media/Creative_Work/Painting.personal.md) 
 
-### #is_/same_as :: [painting.secret](/_secret/schema-org/Class/is_a_/creative_work/painting.secret.md)
+### #is_/same_as :: [Painting.secret](/_secret/Society/Communication/Media/Creative_Work/Painting.secret.md)
 

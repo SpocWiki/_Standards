@@ -38,17 +38,17 @@ A wholesale store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [wholesale_store](wholesale_store.md) 
+### #is_/same_as :: [Wholesale_Store](/_Standards/Society/Organization/Local_Business/Store/Wholesale_Store.md) 
 
-### #is_/same_as :: [wholesale_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.public.md) 
+### #is_/same_as :: [Wholesale_Store.public](/_public/Society/Organization/Local_Business/Store/Wholesale_Store.public.md) 
 
-### #is_/same_as :: [wholesale_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.internal.md) 
+### #is_/same_as :: [Wholesale_Store.internal](/_internal/Society/Organization/Local_Business/Store/Wholesale_Store.internal.md) 
 
-### #is_/same_as :: [wholesale_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.protect.md) 
+### #is_/same_as :: [Wholesale_Store.protect](/_protect/Society/Organization/Local_Business/Store/Wholesale_Store.protect.md) 
 
-### #is_/same_as :: [wholesale_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.private.md) 
+### #is_/same_as :: [Wholesale_Store.private](/_private/Society/Organization/Local_Business/Store/Wholesale_Store.private.md) 
 
-### #is_/same_as :: [wholesale_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.personal.md) 
+### #is_/same_as :: [Wholesale_Store.personal](/_personal/Society/Organization/Local_Business/Store/Wholesale_Store.personal.md) 
 
-### #is_/same_as :: [wholesale_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.secret.md)
+### #is_/same_as :: [Wholesale_Store.secret](/_secret/Society/Organization/Local_Business/Store/Wholesale_Store.secret.md)
 

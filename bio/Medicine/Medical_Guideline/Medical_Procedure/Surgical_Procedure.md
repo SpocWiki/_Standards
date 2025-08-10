@@ -39,17 +39,17 @@ A medical procedure involving an incision with instruments; performed for diagno
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surgical_Procedure](Surgical_Procedure.md) 
+### #is_/same_as :: [Surgical_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.md) 
 
-### #is_/same_as :: [surgical_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.public.md) 
+### #is_/same_as :: [Surgical_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.public.md) 
 
-### #is_/same_as :: [surgical_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.internal.md) 
+### #is_/same_as :: [Surgical_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.internal.md) 
 
-### #is_/same_as :: [surgical_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.protect.md) 
+### #is_/same_as :: [Surgical_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.protect.md) 
 
-### #is_/same_as :: [surgical_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.private.md) 
+### #is_/same_as :: [Surgical_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.private.md) 
 
-### #is_/same_as :: [surgical_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.personal.md) 
+### #is_/same_as :: [Surgical_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.personal.md) 
 
-### #is_/same_as :: [surgical_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.secret.md)
+### #is_/same_as :: [Surgical_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Surgical_Procedure.secret.md)
 

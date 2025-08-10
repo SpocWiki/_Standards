@@ -38,17 +38,17 @@ Brewery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [brewery](brewery.md) 
+### #is_/same_as :: [Brewery](/_Standards/Society/Organization/Local_Business/Food_Establishment/Brewery.md) 
 
-### #is_/same_as :: [brewery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/brewery.public.md) 
+### #is_/same_as :: [Brewery.public](/_public/Society/Organization/Local_Business/Food_Establishment/Brewery.public.md) 
 
-### #is_/same_as :: [brewery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/brewery.internal.md) 
+### #is_/same_as :: [Brewery.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Brewery.internal.md) 
 
-### #is_/same_as :: [brewery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/brewery.protect.md) 
+### #is_/same_as :: [Brewery.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Brewery.protect.md) 
 
-### #is_/same_as :: [brewery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/brewery.private.md) 
+### #is_/same_as :: [Brewery.private](/_private/Society/Organization/Local_Business/Food_Establishment/Brewery.private.md) 
 
-### #is_/same_as :: [brewery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/brewery.personal.md) 
+### #is_/same_as :: [Brewery.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Brewery.personal.md) 
 
-### #is_/same_as :: [brewery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/brewery.secret.md)
+### #is_/same_as :: [Brewery.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Brewery.secret.md)
 

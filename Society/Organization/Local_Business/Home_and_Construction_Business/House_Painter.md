@@ -38,17 +38,17 @@ A house painting service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [house_painter](house_painter.md) 
+### #is_/same_as :: [House_Painter](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.md) 
 
-### #is_/same_as :: [house_painter.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.public.md) 
+### #is_/same_as :: [House_Painter.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.public.md) 
 
-### #is_/same_as :: [house_painter.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.internal.md) 
+### #is_/same_as :: [House_Painter.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.internal.md) 
 
-### #is_/same_as :: [house_painter.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.protect.md) 
+### #is_/same_as :: [House_Painter.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.protect.md) 
 
-### #is_/same_as :: [house_painter.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.private.md) 
+### #is_/same_as :: [House_Painter.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.private.md) 
 
-### #is_/same_as :: [house_painter.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.personal.md) 
+### #is_/same_as :: [House_Painter.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.personal.md) 
 
-### #is_/same_as :: [house_painter.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/house_painter.secret.md)
+### #is_/same_as :: [House_Painter.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/House_Painter.secret.md)
 

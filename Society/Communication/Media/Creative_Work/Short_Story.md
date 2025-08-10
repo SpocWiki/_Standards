@@ -40,17 +40,17 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Short_Story](Short_Story.md) 
+### #is_/same_as :: [Short_Story](/_Standards/Society/Communication/Media/Creative_Work/Short_Story.md) 
 
-### #is_/same_as :: [short_story.public](/_public/schema-org/Class/is_a_/creative_work/short_story.public.md) 
+### #is_/same_as :: [Short_Story.public](/_public/Society/Communication/Media/Creative_Work/Short_Story.public.md) 
 
-### #is_/same_as :: [short_story.internal](/_internal/schema-org/Class/is_a_/creative_work/short_story.internal.md) 
+### #is_/same_as :: [Short_Story.internal](/_internal/Society/Communication/Media/Creative_Work/Short_Story.internal.md) 
 
-### #is_/same_as :: [short_story.protect](/_protect/schema-org/Class/is_a_/creative_work/short_story.protect.md) 
+### #is_/same_as :: [Short_Story.protect](/_protect/Society/Communication/Media/Creative_Work/Short_Story.protect.md) 
 
-### #is_/same_as :: [short_story.private](/_private/schema-org/Class/is_a_/creative_work/short_story.private.md) 
+### #is_/same_as :: [Short_Story.private](/_private/Society/Communication/Media/Creative_Work/Short_Story.private.md) 
 
-### #is_/same_as :: [short_story.personal](/_personal/schema-org/Class/is_a_/creative_work/short_story.personal.md) 
+### #is_/same_as :: [Short_Story.personal](/_personal/Society/Communication/Media/Creative_Work/Short_Story.personal.md) 
 
-### #is_/same_as :: [short_story.secret](/_secret/schema-org/Class/is_a_/creative_work/short_story.secret.md)
+### #is_/same_as :: [Short_Story.secret](/_secret/Society/Communication/Media/Creative_Work/Short_Story.secret.md)
 

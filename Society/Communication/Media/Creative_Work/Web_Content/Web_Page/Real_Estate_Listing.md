@@ -41,17 +41,17 @@ A [[RealEstateListing]] is a listing that describes one or more real-estate [[Of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Real_Estate_Listing](Real_Estate_Listing.md) 
+### #is_/same_as :: [Real_Estate_Listing](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.md) 
 
-### #is_/same_as :: [real_estate_listing.public](/_public/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.public.md) 
+### #is_/same_as :: [Real_Estate_Listing.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.public.md) 
 
-### #is_/same_as :: [real_estate_listing.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.internal.md) 
+### #is_/same_as :: [Real_Estate_Listing.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.internal.md) 
 
-### #is_/same_as :: [real_estate_listing.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.protect.md) 
+### #is_/same_as :: [Real_Estate_Listing.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.protect.md) 
 
-### #is_/same_as :: [real_estate_listing.private](/_private/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.private.md) 
+### #is_/same_as :: [Real_Estate_Listing.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.private.md) 
 
-### #is_/same_as :: [real_estate_listing.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.personal.md) 
+### #is_/same_as :: [Real_Estate_Listing.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.personal.md) 
 
-### #is_/same_as :: [real_estate_listing.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.secret.md)
+### #is_/same_as :: [Real_Estate_Listing.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Real_Estate_Listing.secret.md)
 

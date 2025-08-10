@@ -38,17 +38,17 @@ An organization that provides flights for passengers.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [airline](airline.md) 
+### #is_/same_as :: [Airline](/_Standards/Society/Organization/Airline.md) 
 
-### #is_/same_as :: [airline.public](/_public/schema-org/Class/is_a_/organization/airline.public.md) 
+### #is_/same_as :: [Airline.public](/_public/Society/Organization/Airline.public.md) 
 
-### #is_/same_as :: [airline.internal](/_internal/schema-org/Class/is_a_/organization/airline.internal.md) 
+### #is_/same_as :: [Airline.internal](/_internal/Society/Organization/Airline.internal.md) 
 
-### #is_/same_as :: [airline.protect](/_protect/schema-org/Class/is_a_/organization/airline.protect.md) 
+### #is_/same_as :: [Airline.protect](/_protect/Society/Organization/Airline.protect.md) 
 
-### #is_/same_as :: [airline.private](/_private/schema-org/Class/is_a_/organization/airline.private.md) 
+### #is_/same_as :: [Airline.private](/_private/Society/Organization/Airline.private.md) 
 
-### #is_/same_as :: [airline.personal](/_personal/schema-org/Class/is_a_/organization/airline.personal.md) 
+### #is_/same_as :: [Airline.personal](/_personal/Society/Organization/Airline.personal.md) 
 
-### #is_/same_as :: [airline.secret](/_secret/schema-org/Class/is_a_/organization/airline.secret.md)
+### #is_/same_as :: [Airline.secret](/_secret/Society/Organization/Airline.secret.md)
 

@@ -119,17 +119,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luxemburg,Rosa](Luxemburg,Rosa.md) 
+### #is_/same_as :: [Luxemburg,Rosa](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.md) 
 
-### #is_/same_as :: [Luxemburg,Rosa.public](/_public/Society/Communication/Media/Book/Writer/Political_Writers/Luxemburg,Rosa.public.md) 
+### #is_/same_as :: [Luxemburg,Rosa.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.public.md) 
 
-### #is_/same_as :: [Luxemburg,Rosa.internal](/_internal/Society/Communication/Media/Book/Writer/Political_Writers/Luxemburg,Rosa.internal.md) 
+### #is_/same_as :: [Luxemburg,Rosa.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.internal.md) 
 
-### #is_/same_as :: [Luxemburg,Rosa.protect](/_protect/Society/Communication/Media/Book/Writer/Political_Writers/Luxemburg,Rosa.protect.md) 
+### #is_/same_as :: [Luxemburg,Rosa.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.protect.md) 
 
-### #is_/same_as :: [Luxemburg,Rosa.private](/_private/Society/Communication/Media/Book/Writer/Political_Writers/Luxemburg,Rosa.private.md) 
+### #is_/same_as :: [Luxemburg,Rosa.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.private.md) 
 
-### #is_/same_as :: [Luxemburg,Rosa.personal](/_personal/Society/Communication/Media/Book/Writer/Political_Writers/Luxemburg,Rosa.personal.md) 
+### #is_/same_as :: [Luxemburg,Rosa.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.personal.md) 
 
-### #is_/same_as :: [Luxemburg,Rosa.secret](/_secret/Society/Communication/Media/Book/Writer/Political_Writers/Luxemburg,Rosa.secret.md)
+### #is_/same_as :: [Luxemburg,Rosa.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.secret.md)
 

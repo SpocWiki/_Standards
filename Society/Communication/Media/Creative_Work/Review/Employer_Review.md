@@ -40,17 +40,17 @@ An [[EmployerReview]] is a review of an [[../../../../../Society/Organization]] 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Employer_Review](Employer_Review.md) 
+### #is_/same_as :: [Employer_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/Employer_Review.md) 
 
-### #is_/same_as :: [employer_review.public](/_public/schema-org/Class/is_a_/creative_work/review/employer_review.public.md) 
+### #is_/same_as :: [Employer_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/Employer_Review.public.md) 
 
-### #is_/same_as :: [employer_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/employer_review.internal.md) 
+### #is_/same_as :: [Employer_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Employer_Review.internal.md) 
 
-### #is_/same_as :: [employer_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/employer_review.protect.md) 
+### #is_/same_as :: [Employer_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Employer_Review.protect.md) 
 
-### #is_/same_as :: [employer_review.private](/_private/schema-org/Class/is_a_/creative_work/review/employer_review.private.md) 
+### #is_/same_as :: [Employer_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/Employer_Review.private.md) 
 
-### #is_/same_as :: [employer_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/employer_review.personal.md) 
+### #is_/same_as :: [Employer_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Employer_Review.personal.md) 
 
-### #is_/same_as :: [employer_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/employer_review.secret.md)
+### #is_/same_as :: [Employer_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Employer_Review.secret.md)
 

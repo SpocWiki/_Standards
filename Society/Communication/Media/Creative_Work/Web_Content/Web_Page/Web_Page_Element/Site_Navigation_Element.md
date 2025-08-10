@@ -38,17 +38,17 @@ A navigation element of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Site_Navigation_Element](Site_Navigation_Element.md) 
+### #is_/same_as :: [Site_Navigation_Element](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.md) 
 
-### #is_/same_as :: [site_navigation_element.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.public.md) 
+### #is_/same_as :: [Site_Navigation_Element.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.public.md) 
 
-### #is_/same_as :: [site_navigation_element.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.internal.md) 
+### #is_/same_as :: [Site_Navigation_Element.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.internal.md) 
 
-### #is_/same_as :: [site_navigation_element.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.protect.md) 
+### #is_/same_as :: [Site_Navigation_Element.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.protect.md) 
 
-### #is_/same_as :: [site_navigation_element.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.private.md) 
+### #is_/same_as :: [Site_Navigation_Element.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.private.md) 
 
-### #is_/same_as :: [site_navigation_element.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.personal.md) 
+### #is_/same_as :: [Site_Navigation_Element.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.personal.md) 
 
-### #is_/same_as :: [site_navigation_element.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.secret.md)
+### #is_/same_as :: [Site_Navigation_Element.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.secret.md)
 

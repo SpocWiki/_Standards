@@ -38,17 +38,17 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychological_Treatment](Psychological_Treatment.md) 
+### #is_/same_as :: [Psychological_Treatment](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.md) 
 
-### #is_/same_as :: [psychological_treatment.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.public.md) 
+### #is_/same_as :: [Psychological_Treatment.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.public.md) 
 
-### #is_/same_as :: [psychological_treatment.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.internal.md) 
+### #is_/same_as :: [Psychological_Treatment.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.internal.md) 
 
-### #is_/same_as :: [psychological_treatment.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.protect.md) 
+### #is_/same_as :: [Psychological_Treatment.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.protect.md) 
 
-### #is_/same_as :: [psychological_treatment.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.private.md) 
+### #is_/same_as :: [Psychological_Treatment.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.private.md) 
 
-### #is_/same_as :: [psychological_treatment.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.personal.md) 
+### #is_/same_as :: [Psychological_Treatment.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.personal.md) 
 
-### #is_/same_as :: [psychological_treatment.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.secret.md)
+### #is_/same_as :: [Psychological_Treatment.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Psychological_Treatment.secret.md)
 

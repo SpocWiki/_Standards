@@ -95,17 +95,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Mahabharata,5754633]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahabharata](Mahabharata.md) 
+### #is_/same_as :: [Mahabharata](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.md) 
 
-### #is_/same_as :: [Mahabharata.public](/_public/Society/Communication/Media/Book/Literary_Works/Mahabharata.public.md) 
+### #is_/same_as :: [Mahabharata.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.public.md) 
 
-### #is_/same_as :: [Mahabharata.internal](/_internal/Society/Communication/Media/Book/Literary_Works/Mahabharata.internal.md) 
+### #is_/same_as :: [Mahabharata.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.internal.md) 
 
-### #is_/same_as :: [Mahabharata.protect](/_protect/Society/Communication/Media/Book/Literary_Works/Mahabharata.protect.md) 
+### #is_/same_as :: [Mahabharata.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.protect.md) 
 
-### #is_/same_as :: [Mahabharata.private](/_private/Society/Communication/Media/Book/Literary_Works/Mahabharata.private.md) 
+### #is_/same_as :: [Mahabharata.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.private.md) 
 
-### #is_/same_as :: [Mahabharata.personal](/_personal/Society/Communication/Media/Book/Literary_Works/Mahabharata.personal.md) 
+### #is_/same_as :: [Mahabharata.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.personal.md) 
 
-### #is_/same_as :: [Mahabharata.secret](/_secret/Society/Communication/Media/Book/Literary_Works/Mahabharata.secret.md)
+### #is_/same_as :: [Mahabharata.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Mahabharata.secret.md)
 

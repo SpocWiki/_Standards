@@ -43,17 +43,17 @@ See also the dedicated <a href="https://schema.org/docs/hotels.html">document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Camping_Pitch](Camping_Pitch.md) 
+### #is_/same_as :: [Camping_Pitch](/_Standards/Earth/Geography/Place/Accommodation/Camping_Pitch.md) 
 
-### #is_/same_as :: [camping_pitch.public](/_public/schema-org/Class/is_a_/place/accommodation/camping_pitch.public.md) 
+### #is_/same_as :: [Camping_Pitch.public](/_public/Earth/Geography/Place/Accommodation/Camping_Pitch.public.md) 
 
-### #is_/same_as :: [camping_pitch.internal](/_internal/schema-org/Class/is_a_/place/accommodation/camping_pitch.internal.md) 
+### #is_/same_as :: [Camping_Pitch.internal](/_internal/Earth/Geography/Place/Accommodation/Camping_Pitch.internal.md) 
 
-### #is_/same_as :: [camping_pitch.protect](/_protect/schema-org/Class/is_a_/place/accommodation/camping_pitch.protect.md) 
+### #is_/same_as :: [Camping_Pitch.protect](/_protect/Earth/Geography/Place/Accommodation/Camping_Pitch.protect.md) 
 
-### #is_/same_as :: [camping_pitch.private](/_private/schema-org/Class/is_a_/place/accommodation/camping_pitch.private.md) 
+### #is_/same_as :: [Camping_Pitch.private](/_private/Earth/Geography/Place/Accommodation/Camping_Pitch.private.md) 
 
-### #is_/same_as :: [camping_pitch.personal](/_personal/schema-org/Class/is_a_/place/accommodation/camping_pitch.personal.md) 
+### #is_/same_as :: [Camping_Pitch.personal](/_personal/Earth/Geography/Place/Accommodation/Camping_Pitch.personal.md) 
 
-### #is_/same_as :: [camping_pitch.secret](/_secret/schema-org/Class/is_a_/place/accommodation/camping_pitch.secret.md)
+### #is_/same_as :: [Camping_Pitch.secret](/_secret/Earth/Geography/Place/Accommodation/Camping_Pitch.secret.md)
 

@@ -38,17 +38,17 @@ Web page type: Contact page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contact_Page](Contact_Page.md) 
+### #is_/same_as :: [Contact_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.md) 
 
-### #is_/same_as :: [contact_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/contact_page.public.md) 
+### #is_/same_as :: [Contact_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.public.md) 
 
-### #is_/same_as :: [contact_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/contact_page.internal.md) 
+### #is_/same_as :: [Contact_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.internal.md) 
 
-### #is_/same_as :: [contact_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/contact_page.protect.md) 
+### #is_/same_as :: [Contact_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.protect.md) 
 
-### #is_/same_as :: [contact_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/contact_page.private.md) 
+### #is_/same_as :: [Contact_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.private.md) 
 
-### #is_/same_as :: [contact_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/contact_page.personal.md) 
+### #is_/same_as :: [Contact_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.personal.md) 
 
-### #is_/same_as :: [contact_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/contact_page.secret.md)
+### #is_/same_as :: [Contact_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Contact_Page.secret.md)
 

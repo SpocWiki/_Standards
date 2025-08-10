@@ -38,17 +38,17 @@ CreativeWorkSeries dedicated to radio broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Series](Radio_Series.md) 
+### #is_/same_as :: [Radio_Series](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.md) 
 
-### #is_/same_as :: [radio_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/radio_series.public.md) 
+### #is_/same_as :: [Radio_Series.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.public.md) 
 
-### #is_/same_as :: [radio_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/radio_series.internal.md) 
+### #is_/same_as :: [Radio_Series.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.internal.md) 
 
-### #is_/same_as :: [radio_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/radio_series.protect.md) 
+### #is_/same_as :: [Radio_Series.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.protect.md) 
 
-### #is_/same_as :: [radio_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/radio_series.private.md) 
+### #is_/same_as :: [Radio_Series.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.private.md) 
 
-### #is_/same_as :: [radio_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/radio_series.personal.md) 
+### #is_/same_as :: [Radio_Series.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.personal.md) 
 
-### #is_/same_as :: [radio_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/radio_series.secret.md)
+### #is_/same_as :: [Radio_Series.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.secret.md)
 

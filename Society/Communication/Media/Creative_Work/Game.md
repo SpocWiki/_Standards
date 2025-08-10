@@ -120,17 +120,17 @@ The Game type represents things which are games. These are typically rule-govern
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game](Game.md) 
+### #is_/same_as :: [Game](/_Standards/Society/Communication/Media/Creative_Work/Game.md) 
 
-### #is_/same_as :: [Game.public](/_public/schema-org/Class/is_a_/creative_work/Game.public.md) 
+### #is_/same_as :: [Game.public](/_public/Society/Communication/Media/Creative_Work/Game.public.md) 
 
-### #is_/same_as :: [Game.internal](/_internal/schema-org/Class/is_a_/creative_work/Game.internal.md) 
+### #is_/same_as :: [Game.internal](/_internal/Society/Communication/Media/Creative_Work/Game.internal.md) 
 
-### #is_/same_as :: [Game.protect](/_protect/schema-org/Class/is_a_/creative_work/Game.protect.md) 
+### #is_/same_as :: [Game.protect](/_protect/Society/Communication/Media/Creative_Work/Game.protect.md) 
 
-### #is_/same_as :: [Game.private](/_private/schema-org/Class/is_a_/creative_work/Game.private.md) 
+### #is_/same_as :: [Game.private](/_private/Society/Communication/Media/Creative_Work/Game.private.md) 
 
-### #is_/same_as :: [Game.personal](/_personal/schema-org/Class/is_a_/creative_work/Game.personal.md) 
+### #is_/same_as :: [Game.personal](/_personal/Society/Communication/Media/Creative_Work/Game.personal.md) 
 
-### #is_/same_as :: [Game.secret](/_secret/schema-org/Class/is_a_/creative_work/Game.secret.md)
+### #is_/same_as :: [Game.secret](/_secret/Society/Communication/Media/Creative_Work/Game.secret.md)
 

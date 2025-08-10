@@ -40,17 +40,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Publication_Volume](Publication_Volume.md) 
+### #is_/same_as :: [Publication_Volume](/_Standards/Society/Communication/Media/Creative_Work/Publication_Volume.md) 
 
-### #is_/same_as :: [publication_volume.public](/_public/schema-org/Class/is_a_/creative_work/publication_volume.public.md) 
+### #is_/same_as :: [Publication_Volume.public](/_public/Society/Communication/Media/Creative_Work/Publication_Volume.public.md) 
 
-### #is_/same_as :: [publication_volume.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_volume.internal.md) 
+### #is_/same_as :: [Publication_Volume.internal](/_internal/Society/Communication/Media/Creative_Work/Publication_Volume.internal.md) 
 
-### #is_/same_as :: [publication_volume.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_volume.protect.md) 
+### #is_/same_as :: [Publication_Volume.protect](/_protect/Society/Communication/Media/Creative_Work/Publication_Volume.protect.md) 
 
-### #is_/same_as :: [publication_volume.private](/_private/schema-org/Class/is_a_/creative_work/publication_volume.private.md) 
+### #is_/same_as :: [Publication_Volume.private](/_private/Society/Communication/Media/Creative_Work/Publication_Volume.private.md) 
 
-### #is_/same_as :: [publication_volume.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_volume.personal.md) 
+### #is_/same_as :: [Publication_Volume.personal](/_personal/Society/Communication/Media/Creative_Work/Publication_Volume.personal.md) 
 
-### #is_/same_as :: [publication_volume.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_volume.secret.md)
+### #is_/same_as :: [Publication_Volume.secret](/_secret/Society/Communication/Media/Creative_Work/Publication_Volume.secret.md)
 

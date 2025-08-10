@@ -19,3 +19,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caramel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Caramel](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.md) 
+
+### #is_/same_as :: [Caramel.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.public.md) 
+
+### #is_/same_as :: [Caramel.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.internal.md) 
+
+### #is_/same_as :: [Caramel.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.protect.md) 
+
+### #is_/same_as :: [Caramel.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.private.md) 
+
+### #is_/same_as :: [Caramel.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.personal.md) 
+
+### #is_/same_as :: [Caramel.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Candy/Caramel.secret.md)
+

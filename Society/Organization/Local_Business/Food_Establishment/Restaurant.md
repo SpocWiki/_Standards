@@ -38,17 +38,17 @@ A restaurant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [restaurant](restaurant.md) 
+### #is_/same_as :: [Restaurant](/_Standards/Society/Organization/Local_Business/Food_Establishment/Restaurant.md) 
 
-### #is_/same_as :: [restaurant.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/restaurant.public.md) 
+### #is_/same_as :: [Restaurant.public](/_public/Society/Organization/Local_Business/Food_Establishment/Restaurant.public.md) 
 
-### #is_/same_as :: [restaurant.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/restaurant.internal.md) 
+### #is_/same_as :: [Restaurant.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Restaurant.internal.md) 
 
-### #is_/same_as :: [restaurant.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/restaurant.protect.md) 
+### #is_/same_as :: [Restaurant.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Restaurant.protect.md) 
 
-### #is_/same_as :: [restaurant.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/restaurant.private.md) 
+### #is_/same_as :: [Restaurant.private](/_private/Society/Organization/Local_Business/Food_Establishment/Restaurant.private.md) 
 
-### #is_/same_as :: [restaurant.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/restaurant.personal.md) 
+### #is_/same_as :: [Restaurant.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Restaurant.personal.md) 
 
-### #is_/same_as :: [restaurant.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/restaurant.secret.md)
+### #is_/same_as :: [Restaurant.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Restaurant.secret.md)
 

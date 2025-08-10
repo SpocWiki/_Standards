@@ -40,17 +40,17 @@ A media episode (e.g. TV, radio, video game) which can be part of a series or se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Episode](Episode.md) 
+### #is_/same_as :: [Episode](/_Standards/Society/Communication/Media/Creative_Work/Episode.md) 
 
-### #is_/same_as :: [episode.public](/_public/schema-org/Class/is_a_/creative_work/episode.public.md) 
+### #is_/same_as :: [Episode.public](/_public/Society/Communication/Media/Creative_Work/Episode.public.md) 
 
-### #is_/same_as :: [episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode.internal.md) 
+### #is_/same_as :: [Episode.internal](/_internal/Society/Communication/Media/Creative_Work/Episode.internal.md) 
 
-### #is_/same_as :: [episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode.protect.md) 
+### #is_/same_as :: [Episode.protect](/_protect/Society/Communication/Media/Creative_Work/Episode.protect.md) 
 
-### #is_/same_as :: [episode.private](/_private/schema-org/Class/is_a_/creative_work/episode.private.md) 
+### #is_/same_as :: [Episode.private](/_private/Society/Communication/Media/Creative_Work/Episode.private.md) 
 
-### #is_/same_as :: [episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode.personal.md) 
+### #is_/same_as :: [Episode.personal](/_personal/Society/Communication/Media/Creative_Work/Episode.personal.md) 
 
-### #is_/same_as :: [episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode.secret.md)
+### #is_/same_as :: [Episode.secret](/_secret/Society/Communication/Media/Creative_Work/Episode.secret.md)
 

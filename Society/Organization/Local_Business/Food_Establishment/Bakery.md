@@ -38,17 +38,17 @@ A bakery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bakery](bakery.md) 
+### #is_/same_as :: [Bakery](/_Standards/Society/Organization/Local_Business/Food_Establishment/Bakery.md) 
 
-### #is_/same_as :: [bakery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/bakery.public.md) 
+### #is_/same_as :: [Bakery.public](/_public/Society/Organization/Local_Business/Food_Establishment/Bakery.public.md) 
 
-### #is_/same_as :: [bakery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/bakery.internal.md) 
+### #is_/same_as :: [Bakery.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Bakery.internal.md) 
 
-### #is_/same_as :: [bakery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/bakery.protect.md) 
+### #is_/same_as :: [Bakery.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Bakery.protect.md) 
 
-### #is_/same_as :: [bakery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/bakery.private.md) 
+### #is_/same_as :: [Bakery.private](/_private/Society/Organization/Local_Business/Food_Establishment/Bakery.private.md) 
 
-### #is_/same_as :: [bakery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/bakery.personal.md) 
+### #is_/same_as :: [Bakery.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Bakery.personal.md) 
 
-### #is_/same_as :: [bakery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/bakery.secret.md)
+### #is_/same_as :: [Bakery.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Bakery.secret.md)
 

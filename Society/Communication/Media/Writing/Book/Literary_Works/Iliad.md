@@ -187,17 +187,17 @@ Libris_URI: 86lpxg5s21zpr23
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iliad](Iliad.md) 
+### #is_/same_as :: [Iliad](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.md) 
 
-### #is_/same_as :: [Iliad.public](/_public/Society/Communication/Media/Book/Literary_Works/Iliad.public.md) 
+### #is_/same_as :: [Iliad.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.public.md) 
 
-### #is_/same_as :: [Iliad.internal](/_internal/Society/Communication/Media/Book/Literary_Works/Iliad.internal.md) 
+### #is_/same_as :: [Iliad.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.internal.md) 
 
-### #is_/same_as :: [Iliad.protect](/_protect/Society/Communication/Media/Book/Literary_Works/Iliad.protect.md) 
+### #is_/same_as :: [Iliad.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.protect.md) 
 
-### #is_/same_as :: [Iliad.private](/_private/Society/Communication/Media/Book/Literary_Works/Iliad.private.md) 
+### #is_/same_as :: [Iliad.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.private.md) 
 
-### #is_/same_as :: [Iliad.personal](/_personal/Society/Communication/Media/Book/Literary_Works/Iliad.personal.md) 
+### #is_/same_as :: [Iliad.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.personal.md) 
 
-### #is_/same_as :: [Iliad.secret](/_secret/Society/Communication/Media/Book/Literary_Works/Iliad.secret.md)
+### #is_/same_as :: [Iliad.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/Iliad.secret.md)
 

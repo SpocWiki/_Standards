@@ -83,17 +83,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mental_Disorder](Mental_Disorder.md) 
+### #is_/same_as :: [Mental_Disorder](/_Standards/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.md) 
 
-### #is_/same_as :: [Mental_Disorder.public](/_public/bio/Medicine/Disease/Mental_Disorder.public.md) 
+### #is_/same_as :: [Mental_Disorder.public](/_public/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.public.md) 
 
-### #is_/same_as :: [Mental_Disorder.internal](/_internal/bio/Medicine/Disease/Mental_Disorder.internal.md) 
+### #is_/same_as :: [Mental_Disorder.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.internal.md) 
 
-### #is_/same_as :: [Mental_Disorder.protect](/_protect/bio/Medicine/Disease/Mental_Disorder.protect.md) 
+### #is_/same_as :: [Mental_Disorder.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.protect.md) 
 
-### #is_/same_as :: [Mental_Disorder.private](/_private/bio/Medicine/Disease/Mental_Disorder.private.md) 
+### #is_/same_as :: [Mental_Disorder.private](/_private/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.private.md) 
 
-### #is_/same_as :: [Mental_Disorder.personal](/_personal/bio/Medicine/Disease/Mental_Disorder.personal.md) 
+### #is_/same_as :: [Mental_Disorder.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.personal.md) 
 
-### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Medicine/Disease/Mental_Disorder.secret.md)
+### #is_/same_as :: [Mental_Disorder.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Mental_Disorder.secret.md)
 

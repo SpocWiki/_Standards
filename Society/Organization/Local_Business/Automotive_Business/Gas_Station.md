@@ -38,17 +38,17 @@ A gas station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [gas_station](gas_station.md) 
+### #is_/same_as :: [Gas_Station](/_Standards/Society/Organization/Local_Business/Automotive_Business/Gas_Station.md) 
 
-### #is_/same_as :: [gas_station.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/gas_station.public.md) 
+### #is_/same_as :: [Gas_Station.public](/_public/Society/Organization/Local_Business/Automotive_Business/Gas_Station.public.md) 
 
-### #is_/same_as :: [gas_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/gas_station.internal.md) 
+### #is_/same_as :: [Gas_Station.internal](/_internal/Society/Organization/Local_Business/Automotive_Business/Gas_Station.internal.md) 
 
-### #is_/same_as :: [gas_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/gas_station.protect.md) 
+### #is_/same_as :: [Gas_Station.protect](/_protect/Society/Organization/Local_Business/Automotive_Business/Gas_Station.protect.md) 
 
-### #is_/same_as :: [gas_station.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/gas_station.private.md) 
+### #is_/same_as :: [Gas_Station.private](/_private/Society/Organization/Local_Business/Automotive_Business/Gas_Station.private.md) 
 
-### #is_/same_as :: [gas_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/gas_station.personal.md) 
+### #is_/same_as :: [Gas_Station.personal](/_personal/Society/Organization/Local_Business/Automotive_Business/Gas_Station.personal.md) 
 
-### #is_/same_as :: [gas_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/gas_station.secret.md)
+### #is_/same_as :: [Gas_Station.secret](/_secret/Society/Organization/Local_Business/Automotive_Business/Gas_Station.secret.md)
 

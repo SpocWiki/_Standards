@@ -40,15 +40,17 @@ A particular physical business or branch of an organization. Examples of LocalBu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [local_business](local_busin[Local_Business](Local_Business.md)l_business.public](/_public/schema-org/Class/is_a_/organization/local_business.public.md) 
+### #is_/same_as :: [Local_Business](/_Standards/Society/Organization/Local_Business.md) 
 
-### #is_/same_as :: [local_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business.internal.md) 
+### #is_/same_as :: [Local_Business.public](/_public/Society/Organization/Local_Business.public.md) 
 
-### #is_/same_as :: [local_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business.protect.md) 
+### #is_/same_as :: [Local_Business.internal](/_internal/Society/Organization/Local_Business.internal.md) 
 
-### #is_/same_as :: [local_business.private](/_private/schema-org/Class/is_a_/organization/local_business.private.md) 
+### #is_/same_as :: [Local_Business.protect](/_protect/Society/Organization/Local_Business.protect.md) 
 
-### #is_/same_as :: [local_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business.personal.md) 
+### #is_/same_as :: [Local_Business.private](/_private/Society/Organization/Local_Business.private.md) 
 
-### #is_/same_as :: [local_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business.secret.md)
+### #is_/same_as :: [Local_Business.personal](/_personal/Society/Organization/Local_Business.personal.md) 
+
+### #is_/same_as :: [Local_Business.secret](/_secret/Society/Organization/Local_Business.secret.md)
 

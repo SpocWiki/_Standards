@@ -40,17 +40,17 @@ A [[../Comment]] that corrects [[CreativeWork]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Correction_Comment](Correction_Comment.md) 
+### #is_/same_as :: [Correction_Comment](/_Standards/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.md) 
 
-### #is_/same_as :: [correction_comment.public](/_public/schema-org/Class/is_a_/creative_work/comment/correction_comment.public.md) 
+### #is_/same_as :: [Correction_Comment.public](/_public/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.public.md) 
 
-### #is_/same_as :: [correction_comment.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/correction_comment.internal.md) 
+### #is_/same_as :: [Correction_Comment.internal](/_internal/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.internal.md) 
 
-### #is_/same_as :: [correction_comment.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/correction_comment.protect.md) 
+### #is_/same_as :: [Correction_Comment.protect](/_protect/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.protect.md) 
 
-### #is_/same_as :: [correction_comment.private](/_private/schema-org/Class/is_a_/creative_work/comment/correction_comment.private.md) 
+### #is_/same_as :: [Correction_Comment.private](/_private/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.private.md) 
 
-### #is_/same_as :: [correction_comment.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/correction_comment.personal.md) 
+### #is_/same_as :: [Correction_Comment.personal](/_personal/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.personal.md) 
 
-### #is_/same_as :: [correction_comment.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/correction_comment.secret.md)
+### #is_/same_as :: [Correction_Comment.secret](/_secret/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.secret.md)
 

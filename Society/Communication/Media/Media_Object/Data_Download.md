@@ -39,17 +39,17 @@ All or part of a [[../Creative_Work/Dataset]] in downloadable form.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Download](Data_Download.md) 
+### #is_/same_as :: [Data_Download](/_Standards/Society/Communication/Media/Media_Object/Data_Download.md) 
 
-### #is_/same_as :: [data_download.public](/_public/schema-org/Class/is_a_/creative_work/media_object/data_download.public.md) 
+### #is_/same_as :: [Data_Download.public](/_public/Society/Communication/Media/Media_Object/Data_Download.public.md) 
 
-### #is_/same_as :: [data_download.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/data_download.internal.md) 
+### #is_/same_as :: [Data_Download.internal](/_internal/Society/Communication/Media/Media_Object/Data_Download.internal.md) 
 
-### #is_/same_as :: [data_download.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/data_download.protect.md) 
+### #is_/same_as :: [Data_Download.protect](/_protect/Society/Communication/Media/Media_Object/Data_Download.protect.md) 
 
-### #is_/same_as :: [data_download.private](/_private/schema-org/Class/is_a_/creative_work/media_object/data_download.private.md) 
+### #is_/same_as :: [Data_Download.private](/_private/Society/Communication/Media/Media_Object/Data_Download.private.md) 
 
-### #is_/same_as :: [data_download.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/data_download.personal.md) 
+### #is_/same_as :: [Data_Download.personal](/_personal/Society/Communication/Media/Media_Object/Data_Download.personal.md) 
 
-### #is_/same_as :: [data_download.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/data_download.secret.md)
+### #is_/same_as :: [Data_Download.secret](/_secret/Society/Communication/Media/Media_Object/Data_Download.secret.md)
 

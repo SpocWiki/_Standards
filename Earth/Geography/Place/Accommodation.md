@@ -43,17 +43,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Accommodation](Accommodation.md) 
+### #is_/same_as :: [Accommodation](/_Standards/Earth/Geography/Place/Accommodation.md) 
 
-### #is_/same_as :: [accommodation.public](/_public/schema-org/Class/is_a_/place/accommodation.public.md) 
+### #is_/same_as :: [Accommodation.public](/_public/Earth/Geography/Place/Accommodation.public.md) 
 
-### #is_/same_as :: [accommodation.internal](/_internal/schema-org/Class/is_a_/place/accommodation.internal.md) 
+### #is_/same_as :: [Accommodation.internal](/_internal/Earth/Geography/Place/Accommodation.internal.md) 
 
-### #is_/same_as :: [accommodation.protect](/_protect/schema-org/Class/is_a_/place/accommodation.protect.md) 
+### #is_/same_as :: [Accommodation.protect](/_protect/Earth/Geography/Place/Accommodation.protect.md) 
 
-### #is_/same_as :: [accommodation.private](/_private/schema-org/Class/is_a_/place/accommodation.private.md) 
+### #is_/same_as :: [Accommodation.private](/_private/Earth/Geography/Place/Accommodation.private.md) 
 
-### #is_/same_as :: [accommodation.personal](/_personal/schema-org/Class/is_a_/place/accommodation.personal.md) 
+### #is_/same_as :: [Accommodation.personal](/_personal/Earth/Geography/Place/Accommodation.personal.md) 
 
-### #is_/same_as :: [accommodation.secret](/_secret/schema-org/Class/is_a_/place/accommodation.secret.md)
+### #is_/same_as :: [Accommodation.secret](/_secret/Earth/Geography/Place/Accommodation.secret.md)
 

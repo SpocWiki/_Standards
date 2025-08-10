@@ -21,7 +21,7 @@ version: 2.0
 # BackgroundNewsArticle
 This is a kind of [[FileClass~NewsArticle]]
 
-A [[NewsArticle]] providing historical context, definition and detail on a specific topic (aka "explainer" or "backgrounder"). For example, an in-depth article or frequently-asked-questions ([FAQ](https://en.wikipedia.org/wiki/FAQ)) document on topics such as Climate Change or the European Union. Other kinds of background material from a non-news setting are often described using[[../../../../../Society/Communication/Media/Creative_Work/Book]]] or [[../../../../../Society/Communication/Media/Creative_Work/Article]], in particular [[ScholarlyArticle]]. See also [[NewsArticle]] for related vocabulary from a learning/education perspective.
+A [[NewsArticle]] providing historical context, definition and detail on a specific topic (aka "explainer" or "backgrounder"). For example, an in-depth article or frequently-asked-questions ([FAQ](https://en.wikipedia.org/wiki/FAQ)) document on topics such as Climate Change or the European Union. Other kinds of background material from a non-news setting are often described using[[../../../../../Society/Communication/Media/Writing/Book]]] or [[../../../../../Society/Communication/Media/Creative_Work/Article]], in particular [[ScholarlyArticle]]. See also [[NewsArticle]] for related vocabulary from a learning/education perspective.
 
 
 ## Use one of these Tags for Objects of this Type:

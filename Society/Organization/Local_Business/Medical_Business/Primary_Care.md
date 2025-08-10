@@ -39,17 +39,17 @@ The medical care by a physician, or other health-care professional, who is the p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [primary_care](primary_care.md) 
+### #is_/same_as :: [Primary_Care](/_Standards/Society/Organization/Local_Business/Medical_Business/Primary_Care.md) 
 
-### #is_/same_as :: [primary_care.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.public.md) 
+### #is_/same_as :: [Primary_Care.public](/_public/Society/Organization/Local_Business/Medical_Business/Primary_Care.public.md) 
 
-### #is_/same_as :: [primary_care.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.internal.md) 
+### #is_/same_as :: [Primary_Care.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Primary_Care.internal.md) 
 
-### #is_/same_as :: [primary_care.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.protect.md) 
+### #is_/same_as :: [Primary_Care.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Primary_Care.protect.md) 
 
-### #is_/same_as :: [primary_care.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.private.md) 
+### #is_/same_as :: [Primary_Care.private](/_private/Society/Organization/Local_Business/Medical_Business/Primary_Care.private.md) 
 
-### #is_/same_as :: [primary_care.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.personal.md) 
+### #is_/same_as :: [Primary_Care.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Primary_Care.personal.md) 
 
-### #is_/same_as :: [primary_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.secret.md)
+### #is_/same_as :: [Primary_Care.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Primary_Care.secret.md)
 

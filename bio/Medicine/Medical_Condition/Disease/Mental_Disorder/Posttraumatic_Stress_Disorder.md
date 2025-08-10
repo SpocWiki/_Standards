@@ -120,17 +120,17 @@ WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/post-tra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder](Posttraumatic_Stress_Disorder.md) 
+### #is_/same_as :: [Posttraumatic_Stress_Disorder](/_Standards/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.md) 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder.public](/_public/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.public.md) 
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.public](/_public/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.public.md) 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder.internal](/_internal/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.internal.md) 
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.internal.md) 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder.protect](/_protect/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.protect.md) 
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.protect.md) 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder.private](/_private/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.private.md) 
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.private](/_private/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.private.md) 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder.personal](/_personal/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.personal.md) 
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.personal.md) 
 
-### #is_/same_as :: [Posttraumatic_Stress_Disorder.secret](/_secret/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.secret.md)
+### #is_/same_as :: [Posttraumatic_Stress_Disorder.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.secret.md)
 

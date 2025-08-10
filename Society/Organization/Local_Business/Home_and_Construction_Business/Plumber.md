@@ -38,17 +38,17 @@ A plumbing service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [plumber](plumber.md) 
+### #is_/same_as :: [Plumber](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.md) 
 
-### #is_/same_as :: [plumber.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/plumber.public.md) 
+### #is_/same_as :: [Plumber.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.public.md) 
 
-### #is_/same_as :: [plumber.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/plumber.internal.md) 
+### #is_/same_as :: [Plumber.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.internal.md) 
 
-### #is_/same_as :: [plumber.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/plumber.protect.md) 
+### #is_/same_as :: [Plumber.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.protect.md) 
 
-### #is_/same_as :: [plumber.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/plumber.private.md) 
+### #is_/same_as :: [Plumber.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.private.md) 
 
-### #is_/same_as :: [plumber.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/plumber.personal.md) 
+### #is_/same_as :: [Plumber.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.personal.md) 
 
-### #is_/same_as :: [plumber.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/plumber.secret.md)
+### #is_/same_as :: [Plumber.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business/Plumber.secret.md)
 

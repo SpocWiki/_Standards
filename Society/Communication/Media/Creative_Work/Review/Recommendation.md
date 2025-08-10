@@ -40,17 +40,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recommendation](Recommendation.md) 
+### #is_/same_as :: [Recommendation](/_Standards/Society/Communication/Media/Creative_Work/Review/Recommendation.md) 
 
-### #is_/same_as :: [recommendation.public](/_public/schema-org/Class/is_a_/creative_work/review/recommendation.public.md) 
+### #is_/same_as :: [Recommendation.public](/_public/Society/Communication/Media/Creative_Work/Review/Recommendation.public.md) 
 
-### #is_/same_as :: [recommendation.internal](/_internal/schema-org/Class/is_a_/creative_work/review/recommendation.internal.md) 
+### #is_/same_as :: [Recommendation.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Recommendation.internal.md) 
 
-### #is_/same_as :: [recommendation.protect](/_protect/schema-org/Class/is_a_/creative_work/review/recommendation.protect.md) 
+### #is_/same_as :: [Recommendation.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Recommendation.protect.md) 
 
-### #is_/same_as :: [recommendation.private](/_private/schema-org/Class/is_a_/creative_work/review/recommendation.private.md) 
+### #is_/same_as :: [Recommendation.private](/_private/Society/Communication/Media/Creative_Work/Review/Recommendation.private.md) 
 
-### #is_/same_as :: [recommendation.personal](/_personal/schema-org/Class/is_a_/creative_work/review/recommendation.personal.md) 
+### #is_/same_as :: [Recommendation.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Recommendation.personal.md) 
 
-### #is_/same_as :: [recommendation.secret](/_secret/schema-org/Class/is_a_/creative_work/review/recommendation.secret.md)
+### #is_/same_as :: [Recommendation.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Recommendation.secret.md)
 

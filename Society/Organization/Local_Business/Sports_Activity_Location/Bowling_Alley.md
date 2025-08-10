@@ -38,17 +38,17 @@ A bowling alley.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bowling_alley](bowling_alley.md) 
+### #is_/same_as :: [Bowling_Alley](/_Standards/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.md) 
 
-### #is_/same_as :: [bowling_alley.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.public.md) 
+### #is_/same_as :: [Bowling_Alley.public](/_public/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.public.md) 
 
-### #is_/same_as :: [bowling_alley.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.internal.md) 
+### #is_/same_as :: [Bowling_Alley.internal](/_internal/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.internal.md) 
 
-### #is_/same_as :: [bowling_alley.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.protect.md) 
+### #is_/same_as :: [Bowling_Alley.protect](/_protect/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.protect.md) 
 
-### #is_/same_as :: [bowling_alley.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.private.md) 
+### #is_/same_as :: [Bowling_Alley.private](/_private/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.private.md) 
 
-### #is_/same_as :: [bowling_alley.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.personal.md) 
+### #is_/same_as :: [Bowling_Alley.personal](/_personal/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.personal.md) 
 
-### #is_/same_as :: [bowling_alley.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.secret.md)
+### #is_/same_as :: [Bowling_Alley.secret](/_secret/Society/Organization/Local_Business/Sports_Activity_Location/Bowling_Alley.secret.md)
 

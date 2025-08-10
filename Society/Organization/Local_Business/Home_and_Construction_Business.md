@@ -44,17 +44,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [home_and_construction_business](home_and_construction_business.md) 
+### #is_/same_as :: [Home_and_Construction_Business](/_Standards/Society/Organization/Local_Business/Home_and_Construction_Business.md) 
 
-### #is_/same_as :: [home_and_construction_business.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business.public.md) 
+### #is_/same_as :: [Home_and_Construction_Business.public](/_public/Society/Organization/Local_Business/Home_and_Construction_Business.public.md) 
 
-### #is_/same_as :: [home_and_construction_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business.internal.md) 
+### #is_/same_as :: [Home_and_Construction_Business.internal](/_internal/Society/Organization/Local_Business/Home_and_Construction_Business.internal.md) 
 
-### #is_/same_as :: [home_and_construction_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business.protect.md) 
+### #is_/same_as :: [Home_and_Construction_Business.protect](/_protect/Society/Organization/Local_Business/Home_and_Construction_Business.protect.md) 
 
-### #is_/same_as :: [home_and_construction_business.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business.private.md) 
+### #is_/same_as :: [Home_and_Construction_Business.private](/_private/Society/Organization/Local_Business/Home_and_Construction_Business.private.md) 
 
-### #is_/same_as :: [home_and_construction_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business.personal.md) 
+### #is_/same_as :: [Home_and_Construction_Business.personal](/_personal/Society/Organization/Local_Business/Home_and_Construction_Business.personal.md) 
 
-### #is_/same_as :: [home_and_construction_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business.secret.md)
+### #is_/same_as :: [Home_and_Construction_Business.secret](/_secret/Society/Organization/Local_Business/Home_and_Construction_Business.secret.md)
 

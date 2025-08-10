@@ -135,17 +135,17 @@ ISNI: "0000000084029206"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lindgren,Astrid](Lindgren,Astrid.md) 
+### #is_/same_as :: [Lindgren,Astrid](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.md) 
 
-### #is_/same_as :: [Lindgren,Astrid.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Lindgren,Astrid.public.md) 
+### #is_/same_as :: [Lindgren,Astrid.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.public.md) 
 
-### #is_/same_as :: [Lindgren,Astrid.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Lindgren,Astrid.internal.md) 
+### #is_/same_as :: [Lindgren,Astrid.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.internal.md) 
 
-### #is_/same_as :: [Lindgren,Astrid.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Lindgren,Astrid.protect.md) 
+### #is_/same_as :: [Lindgren,Astrid.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.protect.md) 
 
-### #is_/same_as :: [Lindgren,Astrid.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Lindgren,Astrid.private.md) 
+### #is_/same_as :: [Lindgren,Astrid.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.private.md) 
 
-### #is_/same_as :: [Lindgren,Astrid.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Lindgren,Astrid.personal.md) 
+### #is_/same_as :: [Lindgren,Astrid.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.personal.md) 
 
-### #is_/same_as :: [Lindgren,Astrid.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Lindgren,Astrid.secret.md)
+### #is_/same_as :: [Lindgren,Astrid.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.secret.md)
 

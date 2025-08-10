@@ -38,17 +38,17 @@ A music store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [music_store](music_store.md) 
+### #is_/same_as :: [Music_Store](/_Standards/Society/Organization/Local_Business/Store/Music_Store.md) 
 
-### #is_/same_as :: [music_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/music_store.public.md) 
+### #is_/same_as :: [Music_Store.public](/_public/Society/Organization/Local_Business/Store/Music_Store.public.md) 
 
-### #is_/same_as :: [music_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/music_store.internal.md) 
+### #is_/same_as :: [Music_Store.internal](/_internal/Society/Organization/Local_Business/Store/Music_Store.internal.md) 
 
-### #is_/same_as :: [music_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/music_store.protect.md) 
+### #is_/same_as :: [Music_Store.protect](/_protect/Society/Organization/Local_Business/Store/Music_Store.protect.md) 
 
-### #is_/same_as :: [music_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/music_store.private.md) 
+### #is_/same_as :: [Music_Store.private](/_private/Society/Organization/Local_Business/Store/Music_Store.private.md) 
 
-### #is_/same_as :: [music_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/music_store.personal.md) 
+### #is_/same_as :: [Music_Store.personal](/_personal/Society/Organization/Local_Business/Store/Music_Store.personal.md) 
 
-### #is_/same_as :: [music_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/music_store.secret.md)
+### #is_/same_as :: [Music_Store.secret](/_secret/Society/Organization/Local_Business/Store/Music_Store.secret.md)
 

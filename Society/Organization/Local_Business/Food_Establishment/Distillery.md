@@ -38,17 +38,17 @@ A distillery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [distillery](distillery.md) 
+### #is_/same_as :: [Distillery](/_Standards/Society/Organization/Local_Business/Food_Establishment/Distillery.md) 
 
-### #is_/same_as :: [distillery.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.public.md) 
+### #is_/same_as :: [Distillery.public](/_public/Society/Organization/Local_Business/Food_Establishment/Distillery.public.md) 
 
-### #is_/same_as :: [distillery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.internal.md) 
+### #is_/same_as :: [Distillery.internal](/_internal/Society/Organization/Local_Business/Food_Establishment/Distillery.internal.md) 
 
-### #is_/same_as :: [distillery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.protect.md) 
+### #is_/same_as :: [Distillery.protect](/_protect/Society/Organization/Local_Business/Food_Establishment/Distillery.protect.md) 
 
-### #is_/same_as :: [distillery.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.private.md) 
+### #is_/same_as :: [Distillery.private](/_private/Society/Organization/Local_Business/Food_Establishment/Distillery.private.md) 
 
-### #is_/same_as :: [distillery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.personal.md) 
+### #is_/same_as :: [Distillery.personal](/_personal/Society/Organization/Local_Business/Food_Establishment/Distillery.personal.md) 
 
-### #is_/same_as :: [distillery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/distillery.secret.md)
+### #is_/same_as :: [Distillery.secret](/_secret/Society/Organization/Local_Business/Food_Establishment/Distillery.secret.md)
 

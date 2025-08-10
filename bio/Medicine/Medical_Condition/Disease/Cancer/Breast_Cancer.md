@@ -154,17 +154,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20DCIS%20histop
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breast_Cancer](Breast_Cancer.md) 
+### #is_/same_as :: [Breast_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.md) 
 
-### #is_/same_as :: [Breast_Cancer.public](/_public/bio/Medicine/Disease/Cancer/Breast_Cancer.public.md) 
+### #is_/same_as :: [Breast_Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.public.md) 
 
-### #is_/same_as :: [Breast_Cancer.internal](/_internal/bio/Medicine/Disease/Cancer/Breast_Cancer.internal.md) 
+### #is_/same_as :: [Breast_Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.internal.md) 
 
-### #is_/same_as :: [Breast_Cancer.protect](/_protect/bio/Medicine/Disease/Cancer/Breast_Cancer.protect.md) 
+### #is_/same_as :: [Breast_Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.protect.md) 
 
-### #is_/same_as :: [Breast_Cancer.private](/_private/bio/Medicine/Disease/Cancer/Breast_Cancer.private.md) 
+### #is_/same_as :: [Breast_Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.private.md) 
 
-### #is_/same_as :: [Breast_Cancer.personal](/_personal/bio/Medicine/Disease/Cancer/Breast_Cancer.personal.md) 
+### #is_/same_as :: [Breast_Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.personal.md) 
 
-### #is_/same_as :: [Breast_Cancer.secret](/_secret/bio/Medicine/Disease/Cancer/Breast_Cancer.secret.md)
+### #is_/same_as :: [Breast_Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Cancer/Breast_Cancer.secret.md)
 

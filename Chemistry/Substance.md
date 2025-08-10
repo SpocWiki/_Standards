@@ -89,19 +89,20 @@ whose origin may be biological, mineral or chemical.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Matter) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Substance](Substance.md) 
+### #is_/same_as :: [Substance](/_Standards/Chemistry/Substance.md) 
 
-### #is_/same_as :: [substance.public](/_public/schema-org/Class/is_a_/medical_entity/substance.public.md) 
+### #is_/same_as :: [Substance.public](/_public/Chemistry/Substance.public.md) 
 
-### #is_/same_as :: [substance.internal](/_internal/schema-org/Class/is_a_/medical_entity/substance.internal.md) 
+### #is_/same_as :: [Substance.internal](/_internal/Chemistry/Substance.internal.md) 
 
-### #is_/same_as :: [substance.protect](/_protect/schema-org/Class/is_a_/medical_entity/substance.protect.md) 
+### #is_/same_as :: [Substance.protect](/_protect/Chemistry/Substance.protect.md) 
 
-### #is_/same_as :: [substance.private](/_private/schema-org/Class/is_a_/medical_entity/substance.private.md) 
+### #is_/same_as :: [Substance.private](/_private/Chemistry/Substance.private.md) 
 
-### #is_/same_as :: [substance.personal](/_personal/schema-org/Class/is_a_/medical_entity/substance.personal.md) 
+### #is_/same_as :: [Substance.personal](/_personal/Chemistry/Substance.personal.md) 
 
-### #is_/same_as :: [substance.secret](/_secret/schema-org/Class/is_a_/medical_entity/substance.secret.md)
+### #is_/same_as :: [Substance.secret](/_secret/Chemistry/Substance.secret.md)
 

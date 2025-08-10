@@ -105,17 +105,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Horace](Horace.md) 
+### #is_/same_as :: [Horace](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.md) 
 
-### #is_/same_as :: [Horace.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.public.md) 
+### #is_/same_as :: [Horace.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.public.md) 
 
-### #is_/same_as :: [Horace.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.internal.md) 
+### #is_/same_as :: [Horace.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.internal.md) 
 
-### #is_/same_as :: [Horace.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.protect.md) 
+### #is_/same_as :: [Horace.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.protect.md) 
 
-### #is_/same_as :: [Horace.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.private.md) 
+### #is_/same_as :: [Horace.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.private.md) 
 
-### #is_/same_as :: [Horace.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.personal.md) 
+### #is_/same_as :: [Horace.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.personal.md) 
 
-### #is_/same_as :: [Horace.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Horace.secret.md)
+### #is_/same_as :: [Horace.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Horace.secret.md)
 

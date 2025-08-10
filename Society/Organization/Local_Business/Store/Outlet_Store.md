@@ -38,17 +38,17 @@ An outlet store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [outlet_store](outlet_store.md) 
+### #is_/same_as :: [Outlet_Store](/_Standards/Society/Organization/Local_Business/Store/Outlet_Store.md) 
 
-### #is_/same_as :: [outlet_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/outlet_store.public.md) 
+### #is_/same_as :: [Outlet_Store.public](/_public/Society/Organization/Local_Business/Store/Outlet_Store.public.md) 
 
-### #is_/same_as :: [outlet_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/outlet_store.internal.md) 
+### #is_/same_as :: [Outlet_Store.internal](/_internal/Society/Organization/Local_Business/Store/Outlet_Store.internal.md) 
 
-### #is_/same_as :: [outlet_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/outlet_store.protect.md) 
+### #is_/same_as :: [Outlet_Store.protect](/_protect/Society/Organization/Local_Business/Store/Outlet_Store.protect.md) 
 
-### #is_/same_as :: [outlet_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/outlet_store.private.md) 
+### #is_/same_as :: [Outlet_Store.private](/_private/Society/Organization/Local_Business/Store/Outlet_Store.private.md) 
 
-### #is_/same_as :: [outlet_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/outlet_store.personal.md) 
+### #is_/same_as :: [Outlet_Store.personal](/_personal/Society/Organization/Local_Business/Store/Outlet_Store.personal.md) 
 
-### #is_/same_as :: [outlet_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/outlet_store.secret.md)
+### #is_/same_as :: [Outlet_Store.secret](/_secret/Society/Organization/Local_Business/Store/Outlet_Store.secret.md)
 

@@ -140,17 +140,17 @@ work_period_start_: 1932
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahfouz,Naguib](Mahfouz,Naguib.md) 
+### #is_/same_as :: [Mahfouz,Naguib](/_Standards/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.md) 
 
-### #is_/same_as :: [Mahfouz,Naguib.public](/_public/Society/Communication/Media/Book/Writer/Mahfouz,Naguib.public.md) 
+### #is_/same_as :: [Mahfouz,Naguib.public](/_public/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.public.md) 
 
-### #is_/same_as :: [Mahfouz,Naguib.internal](/_internal/Society/Communication/Media/Book/Writer/Mahfouz,Naguib.internal.md) 
+### #is_/same_as :: [Mahfouz,Naguib.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.internal.md) 
 
-### #is_/same_as :: [Mahfouz,Naguib.protect](/_protect/Society/Communication/Media/Book/Writer/Mahfouz,Naguib.protect.md) 
+### #is_/same_as :: [Mahfouz,Naguib.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.protect.md) 
 
-### #is_/same_as :: [Mahfouz,Naguib.private](/_private/Society/Communication/Media/Book/Writer/Mahfouz,Naguib.private.md) 
+### #is_/same_as :: [Mahfouz,Naguib.private](/_private/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.private.md) 
 
-### #is_/same_as :: [Mahfouz,Naguib.personal](/_personal/Society/Communication/Media/Book/Writer/Mahfouz,Naguib.personal.md) 
+### #is_/same_as :: [Mahfouz,Naguib.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.personal.md) 
 
-### #is_/same_as :: [Mahfouz,Naguib.secret](/_secret/Society/Communication/Media/Book/Writer/Mahfouz,Naguib.secret.md)
+### #is_/same_as :: [Mahfouz,Naguib.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Mahfouz,Naguib.secret.md)
 

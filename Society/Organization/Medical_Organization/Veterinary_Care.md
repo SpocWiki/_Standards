@@ -38,17 +38,17 @@ A vet's office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [veterinary_care](veterinary_care.md) 
+### #is_/same_as :: [Veterinary_Care](/_Standards/Society/Organization/Medical_Organization/Veterinary_Care.md) 
 
-### #is_/same_as :: [veterinary_care.public](/_public/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.public.md) 
+### #is_/same_as :: [Veterinary_Care.public](/_public/Society/Organization/Medical_Organization/Veterinary_Care.public.md) 
 
-### #is_/same_as :: [veterinary_care.internal](/_internal/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.internal.md) 
+### #is_/same_as :: [Veterinary_Care.internal](/_internal/Society/Organization/Medical_Organization/Veterinary_Care.internal.md) 
 
-### #is_/same_as :: [veterinary_care.protect](/_protect/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.protect.md) 
+### #is_/same_as :: [Veterinary_Care.protect](/_protect/Society/Organization/Medical_Organization/Veterinary_Care.protect.md) 
 
-### #is_/same_as :: [veterinary_care.private](/_private/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.private.md) 
+### #is_/same_as :: [Veterinary_Care.private](/_private/Society/Organization/Medical_Organization/Veterinary_Care.private.md) 
 
-### #is_/same_as :: [veterinary_care.personal](/_personal/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.personal.md) 
+### #is_/same_as :: [Veterinary_Care.personal](/_personal/Society/Organization/Medical_Organization/Veterinary_Care.personal.md) 
 
-### #is_/same_as :: [veterinary_care.secret](/_secret/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.secret.md)
+### #is_/same_as :: [Veterinary_Care.secret](/_secret/Society/Organization/Medical_Organization/Veterinary_Care.secret.md)
 

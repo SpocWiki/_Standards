@@ -72,17 +72,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wells,H.G.](Wells,H.G..md) 
+### #is_/same_as :: [Wells,H.G.](/_Standards/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..md) 
 
-### #is_/same_as :: [Wells,H.G..public](/_public/Society/Communication/Media/Book/Writer/Wells,H.G..public.md) 
+### #is_/same_as :: [Wells,H.G..public](/_public/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..public.md) 
 
-### #is_/same_as :: [Wells,H.G..internal](/_internal/Society/Communication/Media/Book/Writer/Wells,H.G..internal.md) 
+### #is_/same_as :: [Wells,H.G..internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..internal.md) 
 
-### #is_/same_as :: [Wells,H.G..protect](/_protect/Society/Communication/Media/Book/Writer/Wells,H.G..protect.md) 
+### #is_/same_as :: [Wells,H.G..protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..protect.md) 
 
-### #is_/same_as :: [Wells,H.G..private](/_private/Society/Communication/Media/Book/Writer/Wells,H.G..private.md) 
+### #is_/same_as :: [Wells,H.G..private](/_private/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..private.md) 
 
-### #is_/same_as :: [Wells,H.G..personal](/_personal/Society/Communication/Media/Book/Writer/Wells,H.G..personal.md) 
+### #is_/same_as :: [Wells,H.G..personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..personal.md) 
 
-### #is_/same_as :: [Wells,H.G..secret](/_secret/Society/Communication/Media/Book/Writer/Wells,H.G..secret.md)
+### #is_/same_as :: [Wells,H.G..secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Wells,H.G..secret.md)
 

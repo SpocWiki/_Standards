@@ -34,3 +34,22 @@ has_id_wikidata: Q56019
 > [Wikipedia](https://en.wikipedia.org/wiki/Military%20rank) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Military_Rank](/_Standards/Society/Military/Military_Rank.md) 
+
+### #is_/same_as :: [Military_Rank.public](/_public/Society/Military/Military_Rank.public.md) 
+
+### #is_/same_as :: [Military_Rank.internal](/_internal/Society/Military/Military_Rank.internal.md) 
+
+### #is_/same_as :: [Military_Rank.protect](/_protect/Society/Military/Military_Rank.protect.md) 
+
+### #is_/same_as :: [Military_Rank.private](/_private/Society/Military/Military_Rank.private.md) 
+
+### #is_/same_as :: [Military_Rank.personal](/_personal/Society/Military/Military_Rank.personal.md) 
+
+### #is_/same_as :: [Military_Rank.secret](/_secret/Society/Military/Military_Rank.secret.md)
+

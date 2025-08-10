@@ -40,17 +40,17 @@ An audio file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audio_Object](Audio_Object.md) 
+### #is_/same_as :: [Audio_Object](/_Standards/Society/Communication/Media/Media_Object/Audio_Object.md) 
 
-### #is_/same_as :: [audio_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/audio_object.public.md) 
+### #is_/same_as :: [Audio_Object.public](/_public/Society/Communication/Media/Media_Object/Audio_Object.public.md) 
 
-### #is_/same_as :: [audio_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/audio_object.internal.md) 
+### #is_/same_as :: [Audio_Object.internal](/_internal/Society/Communication/Media/Media_Object/Audio_Object.internal.md) 
 
-### #is_/same_as :: [audio_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/audio_object.protect.md) 
+### #is_/same_as :: [Audio_Object.protect](/_protect/Society/Communication/Media/Media_Object/Audio_Object.protect.md) 
 
-### #is_/same_as :: [audio_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/audio_object.private.md) 
+### #is_/same_as :: [Audio_Object.private](/_private/Society/Communication/Media/Media_Object/Audio_Object.private.md) 
 
-### #is_/same_as :: [audio_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/audio_object.personal.md) 
+### #is_/same_as :: [Audio_Object.personal](/_personal/Society/Communication/Media/Media_Object/Audio_Object.personal.md) 
 
-### #is_/same_as :: [audio_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/audio_object.secret.md)
+### #is_/same_as :: [Audio_Object.secret](/_secret/Society/Communication/Media/Media_Object/Audio_Object.secret.md)
 

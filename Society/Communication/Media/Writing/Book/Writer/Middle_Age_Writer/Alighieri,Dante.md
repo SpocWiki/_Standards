@@ -217,17 +217,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alighieri,Dante](Alighieri,Dante.md) 
+### #is_/same_as :: [Alighieri,Dante](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.md) 
 
-### #is_/same_as :: [Alighieri,Dante.public](/_public/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.public.md) 
+### #is_/same_as :: [Alighieri,Dante.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.public.md) 
 
-### #is_/same_as :: [Alighieri,Dante.internal](/_internal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.internal.md) 
+### #is_/same_as :: [Alighieri,Dante.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.internal.md) 
 
-### #is_/same_as :: [Alighieri,Dante.protect](/_protect/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.protect.md) 
+### #is_/same_as :: [Alighieri,Dante.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.protect.md) 
 
-### #is_/same_as :: [Alighieri,Dante.private](/_private/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.private.md) 
+### #is_/same_as :: [Alighieri,Dante.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.private.md) 
 
-### #is_/same_as :: [Alighieri,Dante.personal](/_personal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.personal.md) 
+### #is_/same_as :: [Alighieri,Dante.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.personal.md) 
 
-### #is_/same_as :: [Alighieri,Dante.secret](/_secret/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Alighieri,Dante.secret.md)
+### #is_/same_as :: [Alighieri,Dante.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante.secret.md)
 

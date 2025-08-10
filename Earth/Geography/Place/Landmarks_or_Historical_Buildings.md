@@ -38,17 +38,17 @@ An historical landmark or building.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings](Landmarks_or_Historical_Buildings.md) 
+### #is_/same_as :: [Landmarks_or_Historical_Buildings](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings.md) 
 
-### #is_/same_as :: [landmarks_or_historical_buildings.public](/_public/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.public.md) 
+### #is_/same_as :: [Landmarks_or_Historical_Buildings.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public.md) 
 
-### #is_/same_as :: [landmarks_or_historical_buildings.internal](/_internal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.internal.md) 
+### #is_/same_as :: [Landmarks_or_Historical_Buildings.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal.md) 
 
-### #is_/same_as :: [landmarks_or_historical_buildings.protect](/_protect/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.protect.md) 
+### #is_/same_as :: [Landmarks_or_Historical_Buildings.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect.md) 
 
-### #is_/same_as :: [landmarks_or_historical_buildings.private](/_private/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.private.md) 
+### #is_/same_as :: [Landmarks_or_Historical_Buildings.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private.md) 
 
-### #is_/same_as :: [landmarks_or_historical_buildings.personal](/_personal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.personal.md) 
+### #is_/same_as :: [Landmarks_or_Historical_Buildings.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal.md) 
 
-### #is_/same_as :: [landmarks_or_historical_buildings.secret](/_secret/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.secret.md)
+### #is_/same_as :: [Landmarks_or_Historical_Buildings.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret.md)
 

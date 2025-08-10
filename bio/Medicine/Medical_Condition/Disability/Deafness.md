@@ -63,17 +63,17 @@ WordLift_URL: "http://data.medicalrecords.com/medicalrecords/healthwise/hearing_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deafness](Deafness.md) 
+### #is_/same_as :: [Deafness](/_Standards/bio/Medicine/Medical_Condition/Disability/Deafness.md) 
 
-### #is_/same_as :: [Deafness.public](/_public/bio/Medicine/Disability/Deafness.public.md) 
+### #is_/same_as :: [Deafness.public](/_public/bio/Medicine/Medical_Condition/Disability/Deafness.public.md) 
 
-### #is_/same_as :: [Deafness.internal](/_internal/bio/Medicine/Disability/Deafness.internal.md) 
+### #is_/same_as :: [Deafness.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Deafness.internal.md) 
 
-### #is_/same_as :: [Deafness.protect](/_protect/bio/Medicine/Disability/Deafness.protect.md) 
+### #is_/same_as :: [Deafness.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Deafness.protect.md) 
 
-### #is_/same_as :: [Deafness.private](/_private/bio/Medicine/Disability/Deafness.private.md) 
+### #is_/same_as :: [Deafness.private](/_private/bio/Medicine/Medical_Condition/Disability/Deafness.private.md) 
 
-### #is_/same_as :: [Deafness.personal](/_personal/bio/Medicine/Disability/Deafness.personal.md) 
+### #is_/same_as :: [Deafness.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Deafness.personal.md) 
 
-### #is_/same_as :: [Deafness.secret](/_secret/bio/Medicine/Disability/Deafness.secret.md)
+### #is_/same_as :: [Deafness.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Deafness.secret.md)
 

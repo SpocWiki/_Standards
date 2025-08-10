@@ -38,17 +38,17 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diet](Diet.md) 
+### #is_/same_as :: [Diet](/_Standards/Society/Communication/Media/Creative_Work/Diet.md) 
 
-### #is_/same_as :: [diet.public](/_public/schema-org/Class/is_a_/creative_work/diet.public.md) 
+### #is_/same_as :: [Diet.public](/_public/Society/Communication/Media/Creative_Work/Diet.public.md) 
 
-### #is_/same_as :: [diet.internal](/_internal/schema-org/Class/is_a_/creative_work/diet.internal.md) 
+### #is_/same_as :: [Diet.internal](/_internal/Society/Communication/Media/Creative_Work/Diet.internal.md) 
 
-### #is_/same_as :: [diet.protect](/_protect/schema-org/Class/is_a_/creative_work/diet.protect.md) 
+### #is_/same_as :: [Diet.protect](/_protect/Society/Communication/Media/Creative_Work/Diet.protect.md) 
 
-### #is_/same_as :: [diet.private](/_private/schema-org/Class/is_a_/creative_work/diet.private.md) 
+### #is_/same_as :: [Diet.private](/_private/Society/Communication/Media/Creative_Work/Diet.private.md) 
 
-### #is_/same_as :: [diet.personal](/_personal/schema-org/Class/is_a_/creative_work/diet.personal.md) 
+### #is_/same_as :: [Diet.personal](/_personal/Society/Communication/Media/Creative_Work/Diet.personal.md) 
 
-### #is_/same_as :: [diet.secret](/_secret/schema-org/Class/is_a_/creative_work/diet.secret.md)
+### #is_/same_as :: [Diet.secret](/_secret/Society/Communication/Media/Creative_Work/Diet.secret.md)
 

@@ -56,3 +56,22 @@ female_form_of_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Titans) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Titan(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).md) 
+
+### #is_/same_as :: [Titan(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).public.md) 
+
+### #is_/same_as :: [Titan(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).internal.md) 
+
+### #is_/same_as :: [Titan(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).protect.md) 
+
+### #is_/same_as :: [Titan(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).private.md) 
+
+### #is_/same_as :: [Titan(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).personal.md) 
+
+### #is_/same_as :: [Titan(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Titan(Mythology).secret.md)
+

@@ -149,17 +149,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hearst,William_Randolph](Hearst,William_Randolph.md) 
+### #is_/same_as :: [Hearst,William_Randolph](/_Standards/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.md) 
 
-### #is_/same_as :: [Hearst,William_Randolph.public](/_public/Society/Communication/Media/Book/Author/Hearst,William_Randolph.public.md) 
+### #is_/same_as :: [Hearst,William_Randolph.public](/_public/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.public.md) 
 
-### #is_/same_as :: [Hearst,William_Randolph.internal](/_internal/Society/Communication/Media/Book/Author/Hearst,William_Randolph.internal.md) 
+### #is_/same_as :: [Hearst,William_Randolph.internal](/_internal/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.internal.md) 
 
-### #is_/same_as :: [Hearst,William_Randolph.protect](/_protect/Society/Communication/Media/Book/Author/Hearst,William_Randolph.protect.md) 
+### #is_/same_as :: [Hearst,William_Randolph.protect](/_protect/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.protect.md) 
 
-### #is_/same_as :: [Hearst,William_Randolph.private](/_private/Society/Communication/Media/Book/Author/Hearst,William_Randolph.private.md) 
+### #is_/same_as :: [Hearst,William_Randolph.private](/_private/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.private.md) 
 
-### #is_/same_as :: [Hearst,William_Randolph.personal](/_personal/Society/Communication/Media/Book/Author/Hearst,William_Randolph.personal.md) 
+### #is_/same_as :: [Hearst,William_Randolph.personal](/_personal/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.personal.md) 
 
-### #is_/same_as :: [Hearst,William_Randolph.secret](/_secret/Society/Communication/Media/Book/Author/Hearst,William_Randolph.secret.md)
+### #is_/same_as :: [Hearst,William_Randolph.secret](/_secret/Society/Communication/Media/Writing/Book/Author/Hearst,William_Randolph.secret.md)
 

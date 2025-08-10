@@ -38,17 +38,17 @@ An indication for a medical therapy that has been formally specified or approved
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Approved_Indication](Approved_Indication.md) 
+### #is_/same_as :: [Approved_Indication](/_Standards/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.md) 
 
-### #is_/same_as :: [approved_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.public.md) 
+### #is_/same_as :: [Approved_Indication.public](/_public/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.public.md) 
 
-### #is_/same_as :: [approved_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.internal.md) 
+### #is_/same_as :: [Approved_Indication.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.internal.md) 
 
-### #is_/same_as :: [approved_indication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.protect.md) 
+### #is_/same_as :: [Approved_Indication.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.protect.md) 
 
-### #is_/same_as :: [approved_indication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.private.md) 
+### #is_/same_as :: [Approved_Indication.private](/_private/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.private.md) 
 
-### #is_/same_as :: [approved_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.personal.md) 
+### #is_/same_as :: [Approved_Indication.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.personal.md) 
 
-### #is_/same_as :: [approved_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.secret.md)
+### #is_/same_as :: [Approved_Indication.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Indication/Approved_Indication.secret.md)
 

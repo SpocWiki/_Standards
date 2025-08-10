@@ -177,17 +177,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molière](Molière.md) 
+### #is_/same_as :: [Molière](/_Standards/Society/Communication/Media/Writing/Book/Writer/Molière.md) 
 
-### #is_/same_as :: [Molière.public](/_public/Society/Communication/Media/Book/Writer/Molière.public.md) 
+### #is_/same_as :: [Molière.public](/_public/Society/Communication/Media/Writing/Book/Writer/Molière.public.md) 
 
-### #is_/same_as :: [Molière.internal](/_internal/Society/Communication/Media/Book/Writer/Molière.internal.md) 
+### #is_/same_as :: [Molière.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Molière.internal.md) 
 
-### #is_/same_as :: [Molière.protect](/_protect/Society/Communication/Media/Book/Writer/Molière.protect.md) 
+### #is_/same_as :: [Molière.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Molière.protect.md) 
 
-### #is_/same_as :: [Molière.private](/_private/Society/Communication/Media/Book/Writer/Molière.private.md) 
+### #is_/same_as :: [Molière.private](/_private/Society/Communication/Media/Writing/Book/Writer/Molière.private.md) 
 
-### #is_/same_as :: [Molière.personal](/_personal/Society/Communication/Media/Book/Writer/Molière.personal.md) 
+### #is_/same_as :: [Molière.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Molière.personal.md) 
 
-### #is_/same_as :: [Molière.secret](/_secret/Society/Communication/Media/Book/Writer/Molière.secret.md)
+### #is_/same_as :: [Molière.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Molière.secret.md)
 

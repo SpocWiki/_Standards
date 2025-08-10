@@ -42,17 +42,17 @@ A particular online business, either standalone or the online part of a broader 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [online_business](online_business.md) 
+### #is_/same_as :: [Online_Business](/_Standards/Society/Organization/Online_Business.md) 
 
-### #is_/same_as :: [online_business.public](/_public/schema-org/Class/is_a_/organization/online_business.public.md) 
+### #is_/same_as :: [Online_Business.public](/_public/Society/Organization/Online_Business.public.md) 
 
-### #is_/same_as :: [online_business.internal](/_internal/schema-org/Class/is_a_/organization/online_business.internal.md) 
+### #is_/same_as :: [Online_Business.internal](/_internal/Society/Organization/Online_Business.internal.md) 
 
-### #is_/same_as :: [online_business.protect](/_protect/schema-org/Class/is_a_/organization/online_business.protect.md) 
+### #is_/same_as :: [Online_Business.protect](/_protect/Society/Organization/Online_Business.protect.md) 
 
-### #is_/same_as :: [online_business.private](/_private/schema-org/Class/is_a_/organization/online_business.private.md) 
+### #is_/same_as :: [Online_Business.private](/_private/Society/Organization/Online_Business.private.md) 
 
-### #is_/same_as :: [online_business.personal](/_personal/schema-org/Class/is_a_/organization/online_business.personal.md) 
+### #is_/same_as :: [Online_Business.personal](/_personal/Society/Organization/Online_Business.personal.md) 
 
-### #is_/same_as :: [online_business.secret](/_secret/schema-org/Class/is_a_/organization/online_business.secret.md)
+### #is_/same_as :: [Online_Business.secret](/_secret/Society/Organization/Online_Business.secret.md)
 

@@ -38,17 +38,17 @@ Season dedicated to radio broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Season](Radio_Season.md) 
+### #is_/same_as :: [Radio_Season](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.md) 
 
-### #is_/same_as :: [radio_season.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_season/radio_season.public.md) 
+### #is_/same_as :: [Radio_Season.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.public.md) 
 
-### #is_/same_as :: [radio_season.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_season/radio_season.internal.md) 
+### #is_/same_as :: [Radio_Season.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.internal.md) 
 
-### #is_/same_as :: [radio_season.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_season/radio_season.protect.md) 
+### #is_/same_as :: [Radio_Season.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.protect.md) 
 
-### #is_/same_as :: [radio_season.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_season/radio_season.private.md) 
+### #is_/same_as :: [Radio_Season.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.private.md) 
 
-### #is_/same_as :: [radio_season.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_season/radio_season.personal.md) 
+### #is_/same_as :: [Radio_Season.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.personal.md) 
 
-### #is_/same_as :: [radio_season.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_season/radio_season.secret.md)
+### #is_/same_as :: [Radio_Season.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season/Radio_Season.secret.md)
 

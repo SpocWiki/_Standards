@@ -38,17 +38,17 @@ Car repair business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [auto_repair](auto_repair.md) 
+### #is_/same_as :: [Auto_Repair](/_Standards/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.md) 
 
-### #is_/same_as :: [auto_repair.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.public.md) 
+### #is_/same_as :: [Auto_Repair.public](/_public/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.public.md) 
 
-### #is_/same_as :: [auto_repair.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.internal.md) 
+### #is_/same_as :: [Auto_Repair.internal](/_internal/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.internal.md) 
 
-### #is_/same_as :: [auto_repair.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.protect.md) 
+### #is_/same_as :: [Auto_Repair.protect](/_protect/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.protect.md) 
 
-### #is_/same_as :: [auto_repair.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.private.md) 
+### #is_/same_as :: [Auto_Repair.private](/_private/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.private.md) 
 
-### #is_/same_as :: [auto_repair.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.personal.md) 
+### #is_/same_as :: [Auto_Repair.personal](/_personal/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.personal.md) 
 
-### #is_/same_as :: [auto_repair.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.secret.md)
+### #is_/same_as :: [Auto_Repair.secret](/_secret/Society/Organization/Local_Business/Automotive_Business/Auto_Repair.secret.md)
 

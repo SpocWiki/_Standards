@@ -147,17 +147,17 @@ writing_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Márquez,Gabriel_García](Márquez,Gabriel_García.md) 
+### #is_/same_as :: [Márquez,Gabriel_García](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.md) 
 
-### #is_/same_as :: [Márquez,Gabriel_García.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Márquez,Gabriel_García.public.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.public.md) 
 
-### #is_/same_as :: [Márquez,Gabriel_García.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Márquez,Gabriel_García.internal.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.internal.md) 
 
-### #is_/same_as :: [Márquez,Gabriel_García.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Márquez,Gabriel_García.protect.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.protect.md) 
 
-### #is_/same_as :: [Márquez,Gabriel_García.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Márquez,Gabriel_García.private.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.private.md) 
 
-### #is_/same_as :: [Márquez,Gabriel_García.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Márquez,Gabriel_García.personal.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.personal.md) 
 
-### #is_/same_as :: [Márquez,Gabriel_García.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Márquez,Gabriel_García.secret.md)
+### #is_/same_as :: [Márquez,Gabriel_García.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Márquez,Gabriel_García.secret.md)
 

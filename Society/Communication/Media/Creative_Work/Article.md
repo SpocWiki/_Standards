@@ -42,19 +42,20 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, articleBody, articleSection, assesses, associatedMedia, audience, audio, author, award, awards, backstory, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pageEnd, pageStart, pagination, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, speakable, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, wordCount, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Article](Article.md) 
+### #is_/same_as :: [Article](/_Standards/Society/Communication/Media/Creative_Work/Article.md) 
 
-### #is_/same_as :: [article.public](/_public/schema-org/Class/is_a_/creative_work/article.public.md) 
+### #is_/same_as :: [Article.public](/_public/Society/Communication/Media/Creative_Work/Article.public.md) 
 
-### #is_/same_as :: [article.internal](/_internal/schema-org/Class/is_a_/creative_work/article.internal.md) 
+### #is_/same_as :: [Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article.internal.md) 
 
-### #is_/same_as :: [article.protect](/_protect/schema-org/Class/is_a_/creative_work/article.protect.md) 
+### #is_/same_as :: [Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article.protect.md) 
 
-### #is_/same_as :: [article.private](/_private/schema-org/Class/is_a_/creative_work/article.private.md) 
+### #is_/same_as :: [Article.private](/_private/Society/Communication/Media/Creative_Work/Article.private.md) 
 
-### #is_/same_as :: [article.personal](/_personal/schema-org/Class/is_a_/creative_work/article.personal.md) 
+### #is_/same_as :: [Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article.personal.md) 
 
-### #is_/same_as :: [article.secret](/_secret/schema-org/Class/is_a_/creative_work/article.secret.md)
+### #is_/same_as :: [Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article.secret.md)
 

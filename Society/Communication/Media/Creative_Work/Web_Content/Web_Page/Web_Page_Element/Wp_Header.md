@@ -38,17 +38,17 @@ The header section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Header](Wp_Header.md) 
+### #is_/same_as :: [Wp_Header](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.md) 
 
-### #is_/same_as :: [wp_header.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.public.md) 
+### #is_/same_as :: [Wp_Header.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.public.md) 
 
-### #is_/same_as :: [wp_header.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.internal.md) 
+### #is_/same_as :: [Wp_Header.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.internal.md) 
 
-### #is_/same_as :: [wp_header.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.protect.md) 
+### #is_/same_as :: [Wp_Header.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.protect.md) 
 
-### #is_/same_as :: [wp_header.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.private.md) 
+### #is_/same_as :: [Wp_Header.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.private.md) 
 
-### #is_/same_as :: [wp_header.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.personal.md) 
+### #is_/same_as :: [Wp_Header.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.personal.md) 
 
-### #is_/same_as :: [wp_header.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.secret.md)
+### #is_/same_as :: [Wp_Header.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Header.secret.md)
 

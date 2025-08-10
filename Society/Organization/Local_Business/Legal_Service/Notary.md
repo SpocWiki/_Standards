@@ -38,17 +38,17 @@ A notary.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [notary](notary.md) 
+### #is_/same_as :: [Notary](/_Standards/Society/Organization/Local_Business/Legal_Service/Notary.md) 
 
-### #is_/same_as :: [notary.public](/_public/schema-org/Class/is_a_/organization/local_business/legal_service/notary.public.md) 
+### #is_/same_as :: [Notary.public](/_public/Society/Organization/Local_Business/Legal_Service/Notary.public.md) 
 
-### #is_/same_as :: [notary.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.internal.md) 
+### #is_/same_as :: [Notary.internal](/_internal/Society/Organization/Local_Business/Legal_Service/Notary.internal.md) 
 
-### #is_/same_as :: [notary.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service/notary.protect.md) 
+### #is_/same_as :: [Notary.protect](/_protect/Society/Organization/Local_Business/Legal_Service/Notary.protect.md) 
 
-### #is_/same_as :: [notary.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service/notary.private.md) 
+### #is_/same_as :: [Notary.private](/_private/Society/Organization/Local_Business/Legal_Service/Notary.private.md) 
 
-### #is_/same_as :: [notary.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service/notary.personal.md) 
+### #is_/same_as :: [Notary.personal](/_personal/Society/Organization/Local_Business/Legal_Service/Notary.personal.md) 
 
-### #is_/same_as :: [notary.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service/notary.secret.md)
+### #is_/same_as :: [Notary.secret](/_secret/Society/Organization/Local_Business/Legal_Service/Notary.secret.md)
 

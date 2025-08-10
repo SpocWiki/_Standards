@@ -40,17 +40,17 @@ A bus (also omnibus or autobus) is a road vehicle designed to carry passengers. 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bus_or_Coach](Bus_or_Coach.md) 
+### #is_/same_as :: [Bus_or_Coach](/_Standards/Technology/Transport/Road_Transport/Bus_or_Coach.md) 
 
-### #is_/same_as :: [bus_or_coach.public](/_public/schema-org/Class/is_a_/product/vehicle/bus_or_coach.public.md) 
+### #is_/same_as :: [Bus_or_Coach.public](/_public/Technology/Transport/Road_Transport/Bus_or_Coach.public.md) 
 
-### #is_/same_as :: [bus_or_coach.internal](/_internal/schema-org/Class/is_a_/product/vehicle/bus_or_coach.internal.md) 
+### #is_/same_as :: [Bus_or_Coach.internal](/_internal/Technology/Transport/Road_Transport/Bus_or_Coach.internal.md) 
 
-### #is_/same_as :: [bus_or_coach.protect](/_protect/schema-org/Class/is_a_/product/vehicle/bus_or_coach.protect.md) 
+### #is_/same_as :: [Bus_or_Coach.protect](/_protect/Technology/Transport/Road_Transport/Bus_or_Coach.protect.md) 
 
-### #is_/same_as :: [bus_or_coach.private](/_private/schema-org/Class/is_a_/product/vehicle/bus_or_coach.private.md) 
+### #is_/same_as :: [Bus_or_Coach.private](/_private/Technology/Transport/Road_Transport/Bus_or_Coach.private.md) 
 
-### #is_/same_as :: [bus_or_coach.personal](/_personal/schema-org/Class/is_a_/product/vehicle/bus_or_coach.personal.md) 
+### #is_/same_as :: [Bus_or_Coach.personal](/_personal/Technology/Transport/Road_Transport/Bus_or_Coach.personal.md) 
 
-### #is_/same_as :: [bus_or_coach.secret](/_secret/schema-org/Class/is_a_/product/vehicle/bus_or_coach.secret.md)
+### #is_/same_as :: [Bus_or_Coach.secret](/_secret/Technology/Transport/Road_Transport/Bus_or_Coach.secret.md)
 

@@ -136,3 +136,22 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/GRANT_KERI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cary%20Grant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grant,Cary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.md) 
+
+### #is_/same_as :: [Grant,Cary.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.public.md) 
+
+### #is_/same_as :: [Grant,Cary.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.internal.md) 
+
+### #is_/same_as :: [Grant,Cary.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.protect.md) 
+
+### #is_/same_as :: [Grant,Cary.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.private.md) 
+
+### #is_/same_as :: [Grant,Cary.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.personal.md) 
+
+### #is_/same_as :: [Grant,Cary.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.secret.md)
+

@@ -40,17 +40,17 @@ A facility, often associated with a hospital or medical school, that is devoted 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [medical_clinic](medical_clinic.md) 
+### #is_/same_as :: [Medical_Clinic](/_Standards/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.md) 
 
-### #is_/same_as :: [medical_clinic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.public.md) 
+### #is_/same_as :: [Medical_Clinic.public](/_public/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.public.md) 
 
-### #is_/same_as :: [medical_clinic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.internal.md) 
+### #is_/same_as :: [Medical_Clinic.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.internal.md) 
 
-### #is_/same_as :: [medical_clinic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.protect.md) 
+### #is_/same_as :: [Medical_Clinic.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.protect.md) 
 
-### #is_/same_as :: [medical_clinic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.private.md) 
+### #is_/same_as :: [Medical_Clinic.private](/_private/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.private.md) 
 
-### #is_/same_as :: [medical_clinic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.personal.md) 
+### #is_/same_as :: [Medical_Clinic.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.personal.md) 
 
-### #is_/same_as :: [medical_clinic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/medical_clinic.secret.md)
+### #is_/same_as :: [Medical_Clinic.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Medical_Clinic.secret.md)
 

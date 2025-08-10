@@ -150,17 +150,17 @@ described_at_URL: http://www.digiporta.net/index.php?id=172583468
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brecht,Bertolt](Brecht,Bertolt.md) 
+### #is_/same_as :: [Brecht,Bertolt](/_Standards/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.md) 
 
-### #is_/same_as :: [Brecht,Bertolt.public](/_public/Society/Communication/Media/Book/Writer/Brecht,Bertolt.public.md) 
+### #is_/same_as :: [Brecht,Bertolt.public](/_public/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.public.md) 
 
-### #is_/same_as :: [Brecht,Bertolt.internal](/_internal/Society/Communication/Media/Book/Writer/Brecht,Bertolt.internal.md) 
+### #is_/same_as :: [Brecht,Bertolt.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.internal.md) 
 
-### #is_/same_as :: [Brecht,Bertolt.protect](/_protect/Society/Communication/Media/Book/Writer/Brecht,Bertolt.protect.md) 
+### #is_/same_as :: [Brecht,Bertolt.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.protect.md) 
 
-### #is_/same_as :: [Brecht,Bertolt.private](/_private/Society/Communication/Media/Book/Writer/Brecht,Bertolt.private.md) 
+### #is_/same_as :: [Brecht,Bertolt.private](/_private/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.private.md) 
 
-### #is_/same_as :: [Brecht,Bertolt.personal](/_personal/Society/Communication/Media/Book/Writer/Brecht,Bertolt.personal.md) 
+### #is_/same_as :: [Brecht,Bertolt.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.personal.md) 
 
-### #is_/same_as :: [Brecht,Bertolt.secret](/_secret/Society/Communication/Media/Book/Writer/Brecht,Bertolt.secret.md)
+### #is_/same_as :: [Brecht,Bertolt.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Brecht,Bertolt.secret.md)
 

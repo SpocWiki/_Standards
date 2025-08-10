@@ -38,17 +38,17 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_to_Tip](How_to_Tip.md) 
+### #is_/same_as :: [How_to_Tip](/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.md) 
 
-### #is_/same_as :: [how_to_tip.public](/_public/schema-org/Class/is_a_/creative_work/how_to_tip.public.md) 
+### #is_/same_as :: [How_to_Tip.public](/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.public.md) 
 
-### #is_/same_as :: [how_to_tip.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_tip.internal.md) 
+### #is_/same_as :: [How_to_Tip.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.internal.md) 
 
-### #is_/same_as :: [how_to_tip.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_tip.protect.md) 
+### #is_/same_as :: [How_to_Tip.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.protect.md) 
 
-### #is_/same_as :: [how_to_tip.private](/_private/schema-org/Class/is_a_/creative_work/how_to_tip.private.md) 
+### #is_/same_as :: [How_to_Tip.private](/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.private.md) 
 
-### #is_/same_as :: [how_to_tip.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_tip.personal.md) 
+### #is_/same_as :: [How_to_Tip.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.personal.md) 
 
-### #is_/same_as :: [how_to_tip.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_tip.secret.md)
+### #is_/same_as :: [How_to_Tip.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.secret.md)
 

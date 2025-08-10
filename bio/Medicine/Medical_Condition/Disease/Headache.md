@@ -79,17 +79,17 @@ ZVG_number: 8260
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Headache](Headache.md) 
+### #is_/same_as :: [Headache](/_Standards/bio/Medicine/Medical_Condition/Disease/Headache.md) 
 
-### #is_/same_as :: [Headache.public](/_public/bio/Medicine/Disease/Headache.public.md) 
+### #is_/same_as :: [Headache.public](/_public/bio/Medicine/Medical_Condition/Disease/Headache.public.md) 
 
-### #is_/same_as :: [Headache.internal](/_internal/bio/Medicine/Disease/Headache.internal.md) 
+### #is_/same_as :: [Headache.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Headache.internal.md) 
 
-### #is_/same_as :: [Headache.protect](/_protect/bio/Medicine/Disease/Headache.protect.md) 
+### #is_/same_as :: [Headache.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Headache.protect.md) 
 
-### #is_/same_as :: [Headache.private](/_private/bio/Medicine/Disease/Headache.private.md) 
+### #is_/same_as :: [Headache.private](/_private/bio/Medicine/Medical_Condition/Disease/Headache.private.md) 
 
-### #is_/same_as :: [Headache.personal](/_personal/bio/Medicine/Disease/Headache.personal.md) 
+### #is_/same_as :: [Headache.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Headache.personal.md) 
 
-### #is_/same_as :: [Headache.secret](/_secret/bio/Medicine/Disease/Headache.secret.md)
+### #is_/same_as :: [Headache.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Headache.secret.md)
 

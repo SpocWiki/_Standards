@@ -38,17 +38,17 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recipe](Recipe.md) 
+### #is_/same_as :: [Recipe](/_Standards/Society/Communication/Media/Creative_Work/How_To/Recipe.md) 
 
-### #is_/same_as :: [recipe.public](/_public/schema-org/Class/is_a_/creative_work/how_to/recipe.public.md) 
+### #is_/same_as :: [Recipe.public](/_public/Society/Communication/Media/Creative_Work/How_To/Recipe.public.md) 
 
-### #is_/same_as :: [recipe.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to/recipe.internal.md) 
+### #is_/same_as :: [Recipe.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/Recipe.internal.md) 
 
-### #is_/same_as :: [recipe.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to/recipe.protect.md) 
+### #is_/same_as :: [Recipe.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/Recipe.protect.md) 
 
-### #is_/same_as :: [recipe.private](/_private/schema-org/Class/is_a_/creative_work/how_to/recipe.private.md) 
+### #is_/same_as :: [Recipe.private](/_private/Society/Communication/Media/Creative_Work/How_To/Recipe.private.md) 
 
-### #is_/same_as :: [recipe.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to/recipe.personal.md) 
+### #is_/same_as :: [Recipe.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/Recipe.personal.md) 
 
-### #is_/same_as :: [recipe.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to/recipe.secret.md)
+### #is_/same_as :: [Recipe.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/Recipe.secret.md)
 

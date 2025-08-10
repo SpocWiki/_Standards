@@ -38,17 +38,17 @@ A health club.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [health_club](health_club.md) 
+### #is_/same_as :: [Health_Club](/_Standards/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.md) 
 
-### #is_/same_as :: [health_club.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.public.md) 
+### #is_/same_as :: [Health_Club.public](/_public/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.public.md) 
 
-### #is_/same_as :: [health_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.internal.md) 
+### #is_/same_as :: [Health_Club.internal](/_internal/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.internal.md) 
 
-### #is_/same_as :: [health_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.protect.md) 
+### #is_/same_as :: [Health_Club.protect](/_protect/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.protect.md) 
 
-### #is_/same_as :: [health_club.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.private.md) 
+### #is_/same_as :: [Health_Club.private](/_private/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.private.md) 
 
-### #is_/same_as :: [health_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.personal.md) 
+### #is_/same_as :: [Health_Club.personal](/_personal/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.personal.md) 
 
-### #is_/same_as :: [health_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.secret.md)
+### #is_/same_as :: [Health_Club.secret](/_secret/Society/Organization/Local_Business/Health_and_Beauty_Business/Health_Club.secret.md)
 

@@ -48,3 +48,22 @@ and therefore (since the average momentum is 0), also lower-energy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Covalent%20bond) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Covalent_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.md) 
+
+### #is_/same_as :: [Covalent_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.public.md) 
+
+### #is_/same_as :: [Covalent_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.internal.md) 
+
+### #is_/same_as :: [Covalent_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.protect.md) 
+
+### #is_/same_as :: [Covalent_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.private.md) 
+
+### #is_/same_as :: [Covalent_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.personal.md) 
+
+### #is_/same_as :: [Covalent_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.secret.md)
+

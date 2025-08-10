@@ -228,17 +228,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shakespeare,William](Shakespeare,William.md) 
+### #is_/same_as :: [Shakespeare,William](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.md) 
 
-### #is_/same_as :: [Shakespeare,William.public](/_public/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.public.md) 
+### #is_/same_as :: [Shakespeare,William.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.public.md) 
 
-### #is_/same_as :: [Shakespeare,William.internal](/_internal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.internal.md) 
+### #is_/same_as :: [Shakespeare,William.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.internal.md) 
 
-### #is_/same_as :: [Shakespeare,William.protect](/_protect/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.protect.md) 
+### #is_/same_as :: [Shakespeare,William.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.protect.md) 
 
-### #is_/same_as :: [Shakespeare,William.private](/_private/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.private.md) 
+### #is_/same_as :: [Shakespeare,William.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.private.md) 
 
-### #is_/same_as :: [Shakespeare,William.personal](/_personal/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.personal.md) 
+### #is_/same_as :: [Shakespeare,William.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.personal.md) 
 
-### #is_/same_as :: [Shakespeare,William.secret](/_secret/Society/Communication/Media/Book/Writer/Middle_Age_Writers/Shakespeare,William.secret.md)
+### #is_/same_as :: [Shakespeare,William.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Shakespeare,William.secret.md)
 

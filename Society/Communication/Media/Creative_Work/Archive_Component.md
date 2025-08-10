@@ -40,17 +40,17 @@ An intangible type to be applied to any archive content, carrying with it a set 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archive_Component](Archive_Component.md) 
+### #is_/same_as :: [Archive_Component](/_Standards/Society/Communication/Media/Creative_Work/Archive_Component.md) 
 
-### #is_/same_as :: [archive_component.public](/_public/schema-org/Class/is_a_/creative_work/archive_component.public.md) 
+### #is_/same_as :: [Archive_Component.public](/_public/Society/Communication/Media/Creative_Work/Archive_Component.public.md) 
 
-### #is_/same_as :: [archive_component.internal](/_internal/schema-org/Class/is_a_/creative_work/archive_component.internal.md) 
+### #is_/same_as :: [Archive_Component.internal](/_internal/Society/Communication/Media/Creative_Work/Archive_Component.internal.md) 
 
-### #is_/same_as :: [archive_component.protect](/_protect/schema-org/Class/is_a_/creative_work/archive_component.protect.md) 
+### #is_/same_as :: [Archive_Component.protect](/_protect/Society/Communication/Media/Creative_Work/Archive_Component.protect.md) 
 
-### #is_/same_as :: [archive_component.private](/_private/schema-org/Class/is_a_/creative_work/archive_component.private.md) 
+### #is_/same_as :: [Archive_Component.private](/_private/Society/Communication/Media/Creative_Work/Archive_Component.private.md) 
 
-### #is_/same_as :: [archive_component.personal](/_personal/schema-org/Class/is_a_/creative_work/archive_component.personal.md) 
+### #is_/same_as :: [Archive_Component.personal](/_personal/Society/Communication/Media/Creative_Work/Archive_Component.personal.md) 
 
-### #is_/same_as :: [archive_component.secret](/_secret/schema-org/Class/is_a_/creative_work/archive_component.secret.md)
+### #is_/same_as :: [Archive_Component.secret](/_secret/Society/Communication/Media/Creative_Work/Archive_Component.secret.md)
 

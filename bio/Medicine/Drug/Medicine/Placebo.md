@@ -37,17 +37,17 @@ UMLS_CUI: C0032042
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Placebo](Placebo.md) 
+### #is_/same_as :: [Placebo](/_Standards/bio/Medicine/Drug/Medicine/Placebo.md) 
 
-### #is_/same_as :: [Placebo.public](/_public/bio/Medicine/Drug/Placebo.public.md) 
+### #is_/same_as :: [Placebo.public](/_public/bio/Medicine/Drug/Medicine/Placebo.public.md) 
 
-### #is_/same_as :: [Placebo.internal](/_internal/bio/Medicine/Drug/Placebo.internal.md) 
+### #is_/same_as :: [Placebo.internal](/_internal/bio/Medicine/Drug/Medicine/Placebo.internal.md) 
 
-### #is_/same_as :: [Placebo.protect](/_protect/bio/Medicine/Drug/Placebo.protect.md) 
+### #is_/same_as :: [Placebo.protect](/_protect/bio/Medicine/Drug/Medicine/Placebo.protect.md) 
 
-### #is_/same_as :: [Placebo.private](/_private/bio/Medicine/Drug/Placebo.private.md) 
+### #is_/same_as :: [Placebo.private](/_private/bio/Medicine/Drug/Medicine/Placebo.private.md) 
 
-### #is_/same_as :: [Placebo.personal](/_personal/bio/Medicine/Drug/Placebo.personal.md) 
+### #is_/same_as :: [Placebo.personal](/_personal/bio/Medicine/Drug/Medicine/Placebo.personal.md) 
 
-### #is_/same_as :: [Placebo.secret](/_secret/bio/Medicine/Drug/Placebo.secret.md)
+### #is_/same_as :: [Placebo.secret](/_secret/bio/Medicine/Drug/Medicine/Placebo.secret.md)
 

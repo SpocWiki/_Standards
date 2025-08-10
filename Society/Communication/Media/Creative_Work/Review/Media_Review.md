@@ -43,17 +43,17 @@ A [[MediaReview]] is a more specialized form of Review dedicated to the evaluati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Review](Media_Review.md) 
+### #is_/same_as :: [Media_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/Media_Review.md) 
 
-### #is_/same_as :: [media_review.public](/_public/schema-org/Class/is_a_/creative_work/review/media_review.public.md) 
+### #is_/same_as :: [Media_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/Media_Review.public.md) 
 
-### #is_/same_as :: [media_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/media_review.internal.md) 
+### #is_/same_as :: [Media_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Media_Review.internal.md) 
 
-### #is_/same_as :: [media_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/media_review.protect.md) 
+### #is_/same_as :: [Media_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Media_Review.protect.md) 
 
-### #is_/same_as :: [media_review.private](/_private/schema-org/Class/is_a_/creative_work/review/media_review.private.md) 
+### #is_/same_as :: [Media_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/Media_Review.private.md) 
 
-### #is_/same_as :: [media_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/media_review.personal.md) 
+### #is_/same_as :: [Media_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Media_Review.personal.md) 
 
-### #is_/same_as :: [media_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/media_review.secret.md)
+### #is_/same_as :: [Media_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Media_Review.secret.md)
 

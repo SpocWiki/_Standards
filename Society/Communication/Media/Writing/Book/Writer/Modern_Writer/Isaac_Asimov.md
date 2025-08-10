@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isaac_Asimov](Isaac_Asimov.md) 
+### #is_/same_as :: [Isaac_Asimov](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.md) 
 
-### #is_/same_as :: [Isaac_Asimov.public](/_public/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov.public.md) 
+### #is_/same_as :: [Isaac_Asimov.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.public.md) 
 
-### #is_/same_as :: [Isaac_Asimov.internal](/_internal/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov.internal.md) 
+### #is_/same_as :: [Isaac_Asimov.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.internal.md) 
 
-### #is_/same_as :: [Isaac_Asimov.protect](/_protect/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov.protect.md) 
+### #is_/same_as :: [Isaac_Asimov.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.protect.md) 
 
-### #is_/same_as :: [Isaac_Asimov.private](/_private/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov.private.md) 
+### #is_/same_as :: [Isaac_Asimov.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.private.md) 
 
-### #is_/same_as :: [Isaac_Asimov.personal](/_personal/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov.personal.md) 
+### #is_/same_as :: [Isaac_Asimov.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.personal.md) 
 
-### #is_/same_as :: [Isaac_Asimov.secret](/_secret/Society/Communication/Media/Book/Writer/Modern_Writers/Isaac_Asimov.secret.md)
+### #is_/same_as :: [Isaac_Asimov.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Isaac_Asimov.secret.md)
 

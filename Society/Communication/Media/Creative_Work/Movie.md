@@ -38,17 +38,17 @@ A movie.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie](Movie.md) 
+### #is_/same_as :: [Movie](/_Standards/Society/Communication/Media/Creative_Work/Movie.md) 
 
-### #is_/same_as :: [movie.public](/_public/schema-org/Class/is_a_/creative_work/movie.public.md) 
+### #is_/same_as :: [Movie.public](/_public/Society/Communication/Media/Creative_Work/Movie.public.md) 
 
-### #is_/same_as :: [movie.internal](/_internal/schema-org/Class/is_a_/creative_work/movie.internal.md) 
+### #is_/same_as :: [Movie.internal](/_internal/Society/Communication/Media/Creative_Work/Movie.internal.md) 
 
-### #is_/same_as :: [movie.protect](/_protect/schema-org/Class/is_a_/creative_work/movie.protect.md) 
+### #is_/same_as :: [Movie.protect](/_protect/Society/Communication/Media/Creative_Work/Movie.protect.md) 
 
-### #is_/same_as :: [movie.private](/_private/schema-org/Class/is_a_/creative_work/movie.private.md) 
+### #is_/same_as :: [Movie.private](/_private/Society/Communication/Media/Creative_Work/Movie.private.md) 
 
-### #is_/same_as :: [movie.personal](/_personal/schema-org/Class/is_a_/creative_work/movie.personal.md) 
+### #is_/same_as :: [Movie.personal](/_personal/Society/Communication/Media/Creative_Work/Movie.personal.md) 
 
-### #is_/same_as :: [movie.secret](/_secret/schema-org/Class/is_a_/creative_work/movie.secret.md)
+### #is_/same_as :: [Movie.secret](/_secret/Society/Communication/Media/Creative_Work/Movie.secret.md)
 

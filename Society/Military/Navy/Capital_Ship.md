@@ -22,3 +22,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capital%20ship) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Capital_Ship](/_Standards/Society/Military/Navy/Capital_Ship.md) 
+
+### #is_/same_as :: [Capital_Ship.public](/_public/Society/Military/Navy/Capital_Ship.public.md) 
+
+### #is_/same_as :: [Capital_Ship.internal](/_internal/Society/Military/Navy/Capital_Ship.internal.md) 
+
+### #is_/same_as :: [Capital_Ship.protect](/_protect/Society/Military/Navy/Capital_Ship.protect.md) 
+
+### #is_/same_as :: [Capital_Ship.private](/_private/Society/Military/Navy/Capital_Ship.private.md) 
+
+### #is_/same_as :: [Capital_Ship.personal](/_personal/Society/Military/Navy/Capital_Ship.personal.md) 
+
+### #is_/same_as :: [Capital_Ship.secret](/_secret/Society/Military/Navy/Capital_Ship.secret.md)
+

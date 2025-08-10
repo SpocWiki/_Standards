@@ -40,17 +40,17 @@ A government building.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Government_Building](Government_Building.md) 
+### #is_/same_as :: [Government_Building](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building.md) 
 
-### #is_/same_as :: [government_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building.public.md) 
+### #is_/same_as :: [Government_Building.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building.public.md) 
 
-### #is_/same_as :: [government_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building.internal.md) 
+### #is_/same_as :: [Government_Building.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building.internal.md) 
 
-### #is_/same_as :: [government_building.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building.protect.md) 
+### #is_/same_as :: [Government_Building.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building.protect.md) 
 
-### #is_/same_as :: [government_building.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building.private.md) 
+### #is_/same_as :: [Government_Building.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building.private.md) 
 
-### #is_/same_as :: [government_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building.personal.md) 
+### #is_/same_as :: [Government_Building.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building.personal.md) 
 
-### #is_/same_as :: [government_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building.secret.md)
+### #is_/same_as :: [Government_Building.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building.secret.md)
 

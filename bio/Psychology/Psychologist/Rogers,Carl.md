@@ -25,3 +25,22 @@ has_id_wikidata: Q191004
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Rogers) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Rogers,Carl](/_Standards/bio/Psychology/Psychologist/Rogers,Carl.md) 
+
+### #is_/same_as :: [Rogers,Carl.public](/_public/bio/Psychology/Psychologist/Rogers,Carl.public.md) 
+
+### #is_/same_as :: [Rogers,Carl.internal](/_internal/bio/Psychology/Psychologist/Rogers,Carl.internal.md) 
+
+### #is_/same_as :: [Rogers,Carl.protect](/_protect/bio/Psychology/Psychologist/Rogers,Carl.protect.md) 
+
+### #is_/same_as :: [Rogers,Carl.private](/_private/bio/Psychology/Psychologist/Rogers,Carl.private.md) 
+
+### #is_/same_as :: [Rogers,Carl.personal](/_personal/bio/Psychology/Psychologist/Rogers,Carl.personal.md) 
+
+### #is_/same_as :: [Rogers,Carl.secret](/_secret/bio/Psychology/Psychologist/Rogers,Carl.secret.md)
+

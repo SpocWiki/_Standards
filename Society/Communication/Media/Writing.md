@@ -74,3 +74,22 @@ Library_of_Congress_Classification: Z40-Z104.5
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Writing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Writing](/_Standards/Society/Communication/Media/Writing.md) 
+
+### #is_/same_as :: [Writing.public](/_public/Society/Communication/Media/Writing.public.md) 
+
+### #is_/same_as :: [Writing.internal](/_internal/Society/Communication/Media/Writing.internal.md) 
+
+### #is_/same_as :: [Writing.protect](/_protect/Society/Communication/Media/Writing.protect.md) 
+
+### #is_/same_as :: [Writing.private](/_private/Society/Communication/Media/Writing.private.md) 
+
+### #is_/same_as :: [Writing.personal](/_personal/Society/Communication/Media/Writing.personal.md) 
+
+### #is_/same_as :: [Writing.secret](/_secret/Society/Communication/Media/Writing.secret.md)
+

@@ -38,17 +38,17 @@ A day spa.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [day_spa](day_spa.md) 
+### #is_/same_as :: [Day_Spa](/_Standards/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.md) 
 
-### #is_/same_as :: [day_spa.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/day_spa.public.md) 
+### #is_/same_as :: [Day_Spa.public](/_public/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.public.md) 
 
-### #is_/same_as :: [day_spa.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/day_spa.internal.md) 
+### #is_/same_as :: [Day_Spa.internal](/_internal/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.internal.md) 
 
-### #is_/same_as :: [day_spa.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/day_spa.protect.md) 
+### #is_/same_as :: [Day_Spa.protect](/_protect/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.protect.md) 
 
-### #is_/same_as :: [day_spa.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/day_spa.private.md) 
+### #is_/same_as :: [Day_Spa.private](/_private/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.private.md) 
 
-### #is_/same_as :: [day_spa.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/day_spa.personal.md) 
+### #is_/same_as :: [Day_Spa.personal](/_personal/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.personal.md) 
 
-### #is_/same_as :: [day_spa.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/day_spa.secret.md)
+### #is_/same_as :: [Day_Spa.secret](/_secret/Society/Organization/Local_Business/Health_and_Beauty_Business/Day_Spa.secret.md)
 

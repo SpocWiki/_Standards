@@ -97,17 +97,17 @@ writing_language: '[[_Standards/WikiData/WD~Persian,9168]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hafez](Hafez.md) 
+### #is_/same_as :: [Hafez](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.md) 
 
-### #is_/same_as :: [Hafez.public](/_public/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.public.md) 
+### #is_/same_as :: [Hafez.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.public.md) 
 
-### #is_/same_as :: [Hafez.internal](/_internal/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.internal.md) 
+### #is_/same_as :: [Hafez.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.internal.md) 
 
-### #is_/same_as :: [Hafez.protect](/_protect/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.protect.md) 
+### #is_/same_as :: [Hafez.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.protect.md) 
 
-### #is_/same_as :: [Hafez.private](/_private/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.private.md) 
+### #is_/same_as :: [Hafez.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.private.md) 
 
-### #is_/same_as :: [Hafez.personal](/_personal/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.personal.md) 
+### #is_/same_as :: [Hafez.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.personal.md) 
 
-### #is_/same_as :: [Hafez.secret](/_secret/Society/Communication/Media/Book/Writer/Ancient_Writers/Hafez.secret.md)
+### #is_/same_as :: [Hafez.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Hafez.secret.md)
 

@@ -38,17 +38,17 @@ A file containing slides or used for a presentation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Presentation_Digital_Document](Presentation_Digital_Document.md) 
+### #is_/same_as :: [Presentation_Digital_Document](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.md) 
 
-### #is_/same_as :: [presentation_digital_document.public](/_public/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.public.md) 
+### #is_/same_as :: [Presentation_Digital_Document.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.public.md) 
 
-### #is_/same_as :: [presentation_digital_document.internal](/_internal/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.internal.md) 
+### #is_/same_as :: [Presentation_Digital_Document.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.internal.md) 
 
-### #is_/same_as :: [presentation_digital_document.protect](/_protect/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.protect.md) 
+### #is_/same_as :: [Presentation_Digital_Document.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.protect.md) 
 
-### #is_/same_as :: [presentation_digital_document.private](/_private/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.private.md) 
+### #is_/same_as :: [Presentation_Digital_Document.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.private.md) 
 
-### #is_/same_as :: [presentation_digital_document.personal](/_personal/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.personal.md) 
+### #is_/same_as :: [Presentation_Digital_Document.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.personal.md) 
 
-### #is_/same_as :: [presentation_digital_document.secret](/_secret/schema-org/Class/is_a_/creative_work/digital_document/presentation_digital_document.secret.md)
+### #is_/same_as :: [Presentation_Digital_Document.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document.secret.md)
 

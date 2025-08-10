@@ -38,17 +38,17 @@ An advertising section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Ad_Block](Wp_Ad_Block.md) 
+### #is_/same_as :: [Wp_Ad_Block](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.md) 
 
-### #is_/same_as :: [wp_ad_block.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.public.md) 
+### #is_/same_as :: [Wp_Ad_Block.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.public.md) 
 
-### #is_/same_as :: [wp_ad_block.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.internal.md) 
+### #is_/same_as :: [Wp_Ad_Block.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.internal.md) 
 
-### #is_/same_as :: [wp_ad_block.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.protect.md) 
+### #is_/same_as :: [Wp_Ad_Block.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.protect.md) 
 
-### #is_/same_as :: [wp_ad_block.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.private.md) 
+### #is_/same_as :: [Wp_Ad_Block.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.private.md) 
 
-### #is_/same_as :: [wp_ad_block.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.personal.md) 
+### #is_/same_as :: [Wp_Ad_Block.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.personal.md) 
 
-### #is_/same_as :: [wp_ad_block.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_ad_block.secret.md)
+### #is_/same_as :: [Wp_Ad_Block.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.secret.md)
 

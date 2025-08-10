@@ -40,17 +40,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bed_and_breakfast](bed_and_breakfast.md) 
+### #is_/same_as :: [Bed_and_Breakfast](/_Standards/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.md) 
 
-### #is_/same_as :: [bed_and_breakfast.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.public.md) 
+### #is_/same_as :: [Bed_and_Breakfast.public](/_public/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.public.md) 
 
-### #is_/same_as :: [bed_and_breakfast.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.internal.md) 
+### #is_/same_as :: [Bed_and_Breakfast.internal](/_internal/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.internal.md) 
 
-### #is_/same_as :: [bed_and_breakfast.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.protect.md) 
+### #is_/same_as :: [Bed_and_Breakfast.protect](/_protect/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.protect.md) 
 
-### #is_/same_as :: [bed_and_breakfast.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.private.md) 
+### #is_/same_as :: [Bed_and_Breakfast.private](/_private/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.private.md) 
 
-### #is_/same_as :: [bed_and_breakfast.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.personal.md) 
+### #is_/same_as :: [Bed_and_Breakfast.personal](/_personal/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.personal.md) 
 
-### #is_/same_as :: [bed_and_breakfast.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.secret.md)
+### #is_/same_as :: [Bed_and_Breakfast.secret](/_secret/Society/Organization/Local_Business/Lodging_Business/Bed_and_Breakfast.secret.md)
 

@@ -40,17 +40,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_Topic_Content](Health_Topic_Content.md) 
+### #is_/same_as :: [Health_Topic_Content](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.md) 
 
-### #is_/same_as :: [health_topic_content.public](/_public/schema-org/Class/is_a_/creative_work/web_content/health_topic_content.public.md) 
+### #is_/same_as :: [Health_Topic_Content.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.public.md) 
 
-### #is_/same_as :: [health_topic_content.internal](/_internal/schema-org/Class/is_a_/creative_work/web_content/health_topic_content.internal.md) 
+### #is_/same_as :: [Health_Topic_Content.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.internal.md) 
 
-### #is_/same_as :: [health_topic_content.protect](/_protect/schema-org/Class/is_a_/creative_work/web_content/health_topic_content.protect.md) 
+### #is_/same_as :: [Health_Topic_Content.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.protect.md) 
 
-### #is_/same_as :: [health_topic_content.private](/_private/schema-org/Class/is_a_/creative_work/web_content/health_topic_content.private.md) 
+### #is_/same_as :: [Health_Topic_Content.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.private.md) 
 
-### #is_/same_as :: [health_topic_content.personal](/_personal/schema-org/Class/is_a_/creative_work/web_content/health_topic_content.personal.md) 
+### #is_/same_as :: [Health_Topic_Content.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.personal.md) 
 
-### #is_/same_as :: [health_topic_content.secret](/_secret/schema-org/Class/is_a_/creative_work/web_content/health_topic_content.secret.md)
+### #is_/same_as :: [Health_Topic_Content.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Health_Topic_Content.secret.md)
 

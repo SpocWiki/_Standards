@@ -39,17 +39,17 @@ The science or practice of testing visual acuity and prescribing corrective lens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [optometric](optometric.md) 
+### #is_/same_as :: [Optometric](/_Standards/Society/Organization/Local_Business/Medical_Business/Optometric.md) 
 
-### #is_/same_as :: [optometric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.public.md) 
+### #is_/same_as :: [Optometric.public](/_public/Society/Organization/Local_Business/Medical_Business/Optometric.public.md) 
 
-### #is_/same_as :: [optometric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.internal.md) 
+### #is_/same_as :: [Optometric.internal](/_internal/Society/Organization/Local_Business/Medical_Business/Optometric.internal.md) 
 
-### #is_/same_as :: [optometric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.protect.md) 
+### #is_/same_as :: [Optometric.protect](/_protect/Society/Organization/Local_Business/Medical_Business/Optometric.protect.md) 
 
-### #is_/same_as :: [optometric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.private.md) 
+### #is_/same_as :: [Optometric.private](/_private/Society/Organization/Local_Business/Medical_Business/Optometric.private.md) 
 
-### #is_/same_as :: [optometric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.personal.md) 
+### #is_/same_as :: [Optometric.personal](/_personal/Society/Organization/Local_Business/Medical_Business/Optometric.personal.md) 
 
-### #is_/same_as :: [optometric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.secret.md)
+### #is_/same_as :: [Optometric.secret](/_secret/Society/Organization/Local_Business/Medical_Business/Optometric.secret.md)
 

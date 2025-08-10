@@ -106,17 +106,17 @@ vocalized_name: "أَلْفُ لَيْلَةٍ وَلَيْلَة"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1001_Nights](1001_Nights.md) 
+### #is_/same_as :: [1001_Nights](/_Standards/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.md) 
 
-### #is_/same_as :: [1001_Nights.public](/_public/Society/Communication/Media/Book/Literary_Works/1001_Nights.public.md) 
+### #is_/same_as :: [1001_Nights.public](/_public/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.public.md) 
 
-### #is_/same_as :: [1001_Nights.internal](/_internal/Society/Communication/Media/Book/Literary_Works/1001_Nights.internal.md) 
+### #is_/same_as :: [1001_Nights.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.internal.md) 
 
-### #is_/same_as :: [1001_Nights.protect](/_protect/Society/Communication/Media/Book/Literary_Works/1001_Nights.protect.md) 
+### #is_/same_as :: [1001_Nights.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.protect.md) 
 
-### #is_/same_as :: [1001_Nights.private](/_private/Society/Communication/Media/Book/Literary_Works/1001_Nights.private.md) 
+### #is_/same_as :: [1001_Nights.private](/_private/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.private.md) 
 
-### #is_/same_as :: [1001_Nights.personal](/_personal/Society/Communication/Media/Book/Literary_Works/1001_Nights.personal.md) 
+### #is_/same_as :: [1001_Nights.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.personal.md) 
 
-### #is_/same_as :: [1001_Nights.secret](/_secret/Society/Communication/Media/Book/Literary_Works/1001_Nights.secret.md)
+### #is_/same_as :: [1001_Nights.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Works/1001_Nights.secret.md)
 

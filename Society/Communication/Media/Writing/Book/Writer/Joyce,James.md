@@ -203,17 +203,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joyce,James](Joyce,James.md) 
+### #is_/same_as :: [Joyce,James](/_Standards/Society/Communication/Media/Writing/Book/Writer/Joyce,James.md) 
 
-### #is_/same_as :: [Joyce,James.public](/_public/Society/Communication/Media/Book/Writer/Joyce,James.public.md) 
+### #is_/same_as :: [Joyce,James.public](/_public/Society/Communication/Media/Writing/Book/Writer/Joyce,James.public.md) 
 
-### #is_/same_as :: [Joyce,James.internal](/_internal/Society/Communication/Media/Book/Writer/Joyce,James.internal.md) 
+### #is_/same_as :: [Joyce,James.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Joyce,James.internal.md) 
 
-### #is_/same_as :: [Joyce,James.protect](/_protect/Society/Communication/Media/Book/Writer/Joyce,James.protect.md) 
+### #is_/same_as :: [Joyce,James.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Joyce,James.protect.md) 
 
-### #is_/same_as :: [Joyce,James.private](/_private/Society/Communication/Media/Book/Writer/Joyce,James.private.md) 
+### #is_/same_as :: [Joyce,James.private](/_private/Society/Communication/Media/Writing/Book/Writer/Joyce,James.private.md) 
 
-### #is_/same_as :: [Joyce,James.personal](/_personal/Society/Communication/Media/Book/Writer/Joyce,James.personal.md) 
+### #is_/same_as :: [Joyce,James.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Joyce,James.personal.md) 
 
-### #is_/same_as :: [Joyce,James.secret](/_secret/Society/Communication/Media/Book/Writer/Joyce,James.secret.md)
+### #is_/same_as :: [Joyce,James.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Joyce,James.secret.md)
 

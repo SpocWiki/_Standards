@@ -50,17 +50,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Novels,11774360]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Novel](Novel.md) 
+### #is_/same_as :: [Novel](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel.md) 
 
-### #is_/same_as :: [Novel.public](/_public/Society/Communication/Media/Book/Prose/Novel.public.md) 
+### #is_/same_as :: [Novel.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel.public.md) 
 
-### #is_/same_as :: [Novel.internal](/_internal/Society/Communication/Media/Book/Prose/Novel.internal.md) 
+### #is_/same_as :: [Novel.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel.internal.md) 
 
-### #is_/same_as :: [Novel.protect](/_protect/Society/Communication/Media/Book/Prose/Novel.protect.md) 
+### #is_/same_as :: [Novel.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel.protect.md) 
 
-### #is_/same_as :: [Novel.private](/_private/Society/Communication/Media/Book/Prose/Novel.private.md) 
+### #is_/same_as :: [Novel.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel.private.md) 
 
-### #is_/same_as :: [Novel.personal](/_personal/Society/Communication/Media/Book/Prose/Novel.personal.md) 
+### #is_/same_as :: [Novel.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel.personal.md) 
 
-### #is_/same_as :: [Novel.secret](/_secret/Society/Communication/Media/Book/Prose/Novel.secret.md)
+### #is_/same_as :: [Novel.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel.secret.md)
 

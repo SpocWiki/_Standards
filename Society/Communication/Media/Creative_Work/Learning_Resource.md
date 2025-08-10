@@ -33,7 +33,7 @@ Tag Instances like this:
 
 The LearningResource type can be used to indicate [[CreativeWork]]s (whether physical or digital) that have a particular and explicit orientation towards learning, education, skill acquisition, and other educational purposes.
 
-[[LearningResource]] is expected to be used as an addition to a primary type such as[[Book]]], [[VideoObject]], [[Product]] etc.
+[[LearningResource]] is expected to be used as an addition to a primary type such as[[../Writing/Book]]], [[VideoObject]], [[Product]] etc.
 
 [[EducationEvent]] serves a similar purpose for event-like things (e.g. a [[Trip]]). A [[LearningResource]] may be created as a result of an [[EducationEvent]], for example by recording one.
 
@@ -46,17 +46,17 @@ The LearningResource type can be used to indicate [[CreativeWork]]s (whether phy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Learning_Resource](Learning_Resource.md) 
+### #is_/same_as :: [Learning_Resource](/_Standards/Society/Communication/Media/Creative_Work/Learning_Resource.md) 
 
-### #is_/same_as :: [learning_resource.public](/_public/schema-org/Class/is_a_/creative_work/learning_resource.public.md) 
+### #is_/same_as :: [Learning_Resource.public](/_public/Society/Communication/Media/Creative_Work/Learning_Resource.public.md) 
 
-### #is_/same_as :: [learning_resource.internal](/_internal/schema-org/Class/is_a_/creative_work/learning_resource.internal.md) 
+### #is_/same_as :: [Learning_Resource.internal](/_internal/Society/Communication/Media/Creative_Work/Learning_Resource.internal.md) 
 
-### #is_/same_as :: [learning_resource.protect](/_protect/schema-org/Class/is_a_/creative_work/learning_resource.protect.md) 
+### #is_/same_as :: [Learning_Resource.protect](/_protect/Society/Communication/Media/Creative_Work/Learning_Resource.protect.md) 
 
-### #is_/same_as :: [learning_resource.private](/_private/schema-org/Class/is_a_/creative_work/learning_resource.private.md) 
+### #is_/same_as :: [Learning_Resource.private](/_private/Society/Communication/Media/Creative_Work/Learning_Resource.private.md) 
 
-### #is_/same_as :: [learning_resource.personal](/_personal/schema-org/Class/is_a_/creative_work/learning_resource.personal.md) 
+### #is_/same_as :: [Learning_Resource.personal](/_personal/Society/Communication/Media/Creative_Work/Learning_Resource.personal.md) 
 
-### #is_/same_as :: [learning_resource.secret](/_secret/schema-org/Class/is_a_/creative_work/learning_resource.secret.md)
+### #is_/same_as :: [Learning_Resource.secret](/_secret/Society/Communication/Media/Creative_Work/Learning_Resource.secret.md)
 

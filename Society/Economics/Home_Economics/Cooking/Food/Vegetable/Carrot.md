@@ -79,3 +79,22 @@ UNII: L56Z1JK48B
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carrot) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carrot](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.md) 
+
+### #is_/same_as :: [Carrot.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.public.md) 
+
+### #is_/same_as :: [Carrot.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.internal.md) 
+
+### #is_/same_as :: [Carrot.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.protect.md) 
+
+### #is_/same_as :: [Carrot.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.private.md) 
+
+### #is_/same_as :: [Carrot.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.personal.md) 
+
+### #is_/same_as :: [Carrot.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.secret.md)
+

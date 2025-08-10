@@ -38,17 +38,17 @@ A theater or other performing art center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performing_Arts_Theater](Performing_Arts_Theater.md) 
+### #is_/same_as :: [Performing_Arts_Theater](/_Standards/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.md) 
 
-### #is_/same_as :: [performing_arts_theater.public](/_public/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.public.md) 
+### #is_/same_as :: [Performing_Arts_Theater.public](/_public/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.public.md) 
 
-### #is_/same_as :: [performing_arts_theater.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.internal.md) 
+### #is_/same_as :: [Performing_Arts_Theater.internal](/_internal/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.internal.md) 
 
-### #is_/same_as :: [performing_arts_theater.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.protect.md) 
+### #is_/same_as :: [Performing_Arts_Theater.protect](/_protect/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.protect.md) 
 
-### #is_/same_as :: [performing_arts_theater.private](/_private/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.private.md) 
+### #is_/same_as :: [Performing_Arts_Theater.private](/_private/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.private.md) 
 
-### #is_/same_as :: [performing_arts_theater.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.personal.md) 
+### #is_/same_as :: [Performing_Arts_Theater.personal](/_personal/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.personal.md) 
 
-### #is_/same_as :: [performing_arts_theater.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/performing_arts_theater.secret.md)
+### #is_/same_as :: [Performing_Arts_Theater.secret](/_secret/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.secret.md)
 

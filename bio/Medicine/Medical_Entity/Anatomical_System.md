@@ -38,17 +38,17 @@ An anatomical system is a group of anatomical structures that work together to p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anatomical_System](Anatomical_System.md) 
+### #is_/same_as :: [Anatomical_System](/_Standards/bio/Medicine/Medical_Entity/Anatomical_System.md) 
 
-### #is_/same_as :: [anatomical_system.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_system.public.md) 
+### #is_/same_as :: [Anatomical_System.public](/_public/bio/Medicine/Medical_Entity/Anatomical_System.public.md) 
 
-### #is_/same_as :: [anatomical_system.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_system.internal.md) 
+### #is_/same_as :: [Anatomical_System.internal](/_internal/bio/Medicine/Medical_Entity/Anatomical_System.internal.md) 
 
-### #is_/same_as :: [anatomical_system.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_system.protect.md) 
+### #is_/same_as :: [Anatomical_System.protect](/_protect/bio/Medicine/Medical_Entity/Anatomical_System.protect.md) 
 
-### #is_/same_as :: [anatomical_system.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_system.private.md) 
+### #is_/same_as :: [Anatomical_System.private](/_private/bio/Medicine/Medical_Entity/Anatomical_System.private.md) 
 
-### #is_/same_as :: [anatomical_system.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_system.personal.md) 
+### #is_/same_as :: [Anatomical_System.personal](/_personal/bio/Medicine/Medical_Entity/Anatomical_System.personal.md) 
 
-### #is_/same_as :: [anatomical_system.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_system.secret.md)
+### #is_/same_as :: [Anatomical_System.secret](/_secret/bio/Medicine/Medical_Entity/Anatomical_System.secret.md)
 

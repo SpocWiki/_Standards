@@ -142,17 +142,17 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [corporation](corporation.md) 
+### #is_/same_as :: [Corporation](/_Standards/Society/Organization/Corporation.md) 
 
-### #is_/same_as :: [corporation.public](/_public/schema-org/Class/is_a_/organization/corporation.public.md) 
+### #is_/same_as :: [Corporation.public](/_public/Society/Organization/Corporation.public.md) 
 
-### #is_/same_as :: [corporation.internal](/_internal/schema-org/Class/is_a_/organization/corporation.internal.md) 
+### #is_/same_as :: [Corporation.internal](/_internal/Society/Organization/Corporation.internal.md) 
 
-### #is_/same_as :: [corporation.protect](/_protect/schema-org/Class/is_a_/organization/corporation.protect.md) 
+### #is_/same_as :: [Corporation.protect](/_protect/Society/Organization/Corporation.protect.md) 
 
-### #is_/same_as :: [corporation.private](/_private/schema-org/Class/is_a_/organization/corporation.private.md) 
+### #is_/same_as :: [Corporation.private](/_private/Society/Organization/Corporation.private.md) 
 
-### #is_/same_as :: [corporation.personal](/_personal/schema-org/Class/is_a_/organization/corporation.personal.md) 
+### #is_/same_as :: [Corporation.personal](/_personal/Society/Organization/Corporation.personal.md) 
 
-### #is_/same_as :: [corporation.secret](/_secret/schema-org/Class/is_a_/organization/corporation.secret.md)
+### #is_/same_as :: [Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)
 

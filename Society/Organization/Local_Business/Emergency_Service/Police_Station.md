@@ -38,17 +38,17 @@ A police station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [police_station](police_station.md) 
+### #is_/same_as :: [Police_Station](/_Standards/Society/Organization/Local_Business/Emergency_Service/Police_Station.md) 
 
-### #is_/same_as :: [police_station.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.public.md) 
+### #is_/same_as :: [Police_Station.public](/_public/Society/Organization/Local_Business/Emergency_Service/Police_Station.public.md) 
 
-### #is_/same_as :: [police_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.internal.md) 
+### #is_/same_as :: [Police_Station.internal](/_internal/Society/Organization/Local_Business/Emergency_Service/Police_Station.internal.md) 
 
-### #is_/same_as :: [police_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.protect.md) 
+### #is_/same_as :: [Police_Station.protect](/_protect/Society/Organization/Local_Business/Emergency_Service/Police_Station.protect.md) 
 
-### #is_/same_as :: [police_station.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.private.md) 
+### #is_/same_as :: [Police_Station.private](/_private/Society/Organization/Local_Business/Emergency_Service/Police_Station.private.md) 
 
-### #is_/same_as :: [police_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.personal.md) 
+### #is_/same_as :: [Police_Station.personal](/_personal/Society/Organization/Local_Business/Emergency_Service/Police_Station.personal.md) 
 
-### #is_/same_as :: [police_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.secret.md)
+### #is_/same_as :: [Police_Station.secret](/_secret/Society/Organization/Local_Business/Emergency_Service/Police_Station.secret.md)
 

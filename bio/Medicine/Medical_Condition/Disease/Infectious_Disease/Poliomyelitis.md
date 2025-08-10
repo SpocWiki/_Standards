@@ -105,17 +105,17 @@ U_S_National_Archives_Identifier: 10644486
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poliomyelitis](Poliomyelitis.md) 
+### #is_/same_as :: [Poliomyelitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.md) 
 
-### #is_/same_as :: [Poliomyelitis.public](/_public/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.public.md) 
+### #is_/same_as :: [Poliomyelitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.public.md) 
 
-### #is_/same_as :: [Poliomyelitis.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.internal.md) 
+### #is_/same_as :: [Poliomyelitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.internal.md) 
 
-### #is_/same_as :: [Poliomyelitis.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.protect.md) 
+### #is_/same_as :: [Poliomyelitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.protect.md) 
 
-### #is_/same_as :: [Poliomyelitis.private](/_private/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.private.md) 
+### #is_/same_as :: [Poliomyelitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.private.md) 
 
-### #is_/same_as :: [Poliomyelitis.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.personal.md) 
+### #is_/same_as :: [Poliomyelitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.personal.md) 
 
-### #is_/same_as :: [Poliomyelitis.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.secret.md)
+### #is_/same_as :: [Poliomyelitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Poliomyelitis.secret.md)
 

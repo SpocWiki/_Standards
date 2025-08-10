@@ -39,17 +39,17 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Device](Medical_Device.md) 
+### #is_/same_as :: [Medical_Device](/_Standards/bio/Medicine/Medical_Entity/Medical_Device.md) 
 
-### #is_/same_as :: [medical_device.public](/_public/schema-org/Class/is_a_/medical_entity/medical_device.public.md) 
+### #is_/same_as :: [Medical_Device.public](/_public/bio/Medicine/Medical_Entity/Medical_Device.public.md) 
 
-### #is_/same_as :: [medical_device.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_device.internal.md) 
+### #is_/same_as :: [Medical_Device.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Device.internal.md) 
 
-### #is_/same_as :: [medical_device.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_device.protect.md) 
+### #is_/same_as :: [Medical_Device.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Device.protect.md) 
 
-### #is_/same_as :: [medical_device.private](/_private/schema-org/Class/is_a_/medical_entity/medical_device.private.md) 
+### #is_/same_as :: [Medical_Device.private](/_private/bio/Medicine/Medical_Entity/Medical_Device.private.md) 
 
-### #is_/same_as :: [medical_device.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_device.personal.md) 
+### #is_/same_as :: [Medical_Device.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Device.personal.md) 
 
-### #is_/same_as :: [medical_device.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_device.secret.md)
+### #is_/same_as :: [Medical_Device.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Device.secret.md)
 

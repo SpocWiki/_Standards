@@ -38,17 +38,17 @@ A short TV program or a segment/part of a TV program.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tv_Clip](Tv_Clip.md) 
+### #is_/same_as :: [Tv_Clip](/_Standards/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.md) 
 
-### #is_/same_as :: [tv_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/tv_clip.public.md) 
+### #is_/same_as :: [Tv_Clip.public](/_public/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.public.md) 
 
-### #is_/same_as :: [tv_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/tv_clip.internal.md) 
+### #is_/same_as :: [Tv_Clip.internal](/_internal/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.internal.md) 
 
-### #is_/same_as :: [tv_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/tv_clip.protect.md) 
+### #is_/same_as :: [Tv_Clip.protect](/_protect/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.protect.md) 
 
-### #is_/same_as :: [tv_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/tv_clip.private.md) 
+### #is_/same_as :: [Tv_Clip.private](/_private/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.private.md) 
 
-### #is_/same_as :: [tv_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/tv_clip.personal.md) 
+### #is_/same_as :: [Tv_Clip.personal](/_personal/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.personal.md) 
 
-### #is_/same_as :: [tv_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/tv_clip.secret.md)
+### #is_/same_as :: [Tv_Clip.secret](/_secret/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.secret.md)
 

@@ -62,3 +62,22 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/PADEZH.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Grammatical%20case) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Grammatical_Case](/_Standards/Language/Grammar/Grammatical_Case.md) 
+
+### #is_/same_as :: [Grammatical_Case.public](/_public/Language/Grammar/Grammatical_Case.public.md) 
+
+### #is_/same_as :: [Grammatical_Case.internal](/_internal/Language/Grammar/Grammatical_Case.internal.md) 
+
+### #is_/same_as :: [Grammatical_Case.protect](/_protect/Language/Grammar/Grammatical_Case.protect.md) 
+
+### #is_/same_as :: [Grammatical_Case.private](/_private/Language/Grammar/Grammatical_Case.private.md) 
+
+### #is_/same_as :: [Grammatical_Case.personal](/_personal/Language/Grammar/Grammatical_Case.personal.md) 
+
+### #is_/same_as :: [Grammatical_Case.secret](/_secret/Language/Grammar/Grammatical_Case.secret.md)
+

@@ -38,17 +38,17 @@ An infectious disease is a clinically evident human disease resulting from the p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infectious_Disease](Infectious_Disease.md) 
+### #is_/same_as :: [Infectious_Disease](/_Standards/bio/Medicine/Medical_Condition/Infectious_Disease.md) 
 
-### #is_/same_as :: [infectious_disease.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.public.md) 
+### #is_/same_as :: [Infectious_Disease.public](/_public/bio/Medicine/Medical_Condition/Infectious_Disease.public.md) 
 
-### #is_/same_as :: [infectious_disease.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.internal.md) 
+### #is_/same_as :: [Infectious_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Infectious_Disease.internal.md) 
 
-### #is_/same_as :: [infectious_disease.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.protect.md) 
+### #is_/same_as :: [Infectious_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Infectious_Disease.protect.md) 
 
-### #is_/same_as :: [infectious_disease.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.private.md) 
+### #is_/same_as :: [Infectious_Disease.private](/_private/bio/Medicine/Medical_Condition/Infectious_Disease.private.md) 
 
-### #is_/same_as :: [infectious_disease.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.personal.md) 
+### #is_/same_as :: [Infectious_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Infectious_Disease.personal.md) 
 
-### #is_/same_as :: [infectious_disease.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.secret.md)
+### #is_/same_as :: [Infectious_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Infectious_Disease.secret.md)
 

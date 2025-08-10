@@ -38,17 +38,17 @@ A map.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Map](Map.md) 
+### #is_/same_as :: [Map](/_Standards/Society/Communication/Media/Creative_Work/Map.md) 
 
-### #is_/same_as :: [map.public](/_public/schema-org/Class/is_a_/creative_work/map.public.md) 
+### #is_/same_as :: [Map.public](/_public/Society/Communication/Media/Creative_Work/Map.public.md) 
 
-### #is_/same_as :: [map.internal](/_internal/schema-org/Class/is_a_/creative_work/map.internal.md) 
+### #is_/same_as :: [Map.internal](/_internal/Society/Communication/Media/Creative_Work/Map.internal.md) 
 
-### #is_/same_as :: [map.protect](/_protect/schema-org/Class/is_a_/creative_work/map.protect.md) 
+### #is_/same_as :: [Map.protect](/_protect/Society/Communication/Media/Creative_Work/Map.protect.md) 
 
-### #is_/same_as :: [map.private](/_private/schema-org/Class/is_a_/creative_work/map.private.md) 
+### #is_/same_as :: [Map.private](/_private/Society/Communication/Media/Creative_Work/Map.private.md) 
 
-### #is_/same_as :: [map.personal](/_personal/schema-org/Class/is_a_/creative_work/map.personal.md) 
+### #is_/same_as :: [Map.personal](/_personal/Society/Communication/Media/Creative_Work/Map.personal.md) 
 
-### #is_/same_as :: [map.secret](/_secret/schema-org/Class/is_a_/creative_work/map.secret.md)
+### #is_/same_as :: [Map.secret](/_secret/Society/Communication/Media/Creative_Work/Map.secret.md)
 

@@ -80,17 +80,17 @@ U_S_National_Archives_Identifier: 10638161
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Literature](Literature.md) 
+### #is_/same_as :: [Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature.md) 
 
-### #is_/same_as :: [Literature.public](/_public/Society/Communication/Media/Book/Literature.public.md) 
+### #is_/same_as :: [Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature.public.md) 
 
-### #is_/same_as :: [Literature.internal](/_internal/Society/Communication/Media/Book/Literature.internal.md) 
+### #is_/same_as :: [Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature.internal.md) 
 
-### #is_/same_as :: [Literature.protect](/_protect/Society/Communication/Media/Book/Literature.protect.md) 
+### #is_/same_as :: [Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature.protect.md) 
 
-### #is_/same_as :: [Literature.private](/_private/Society/Communication/Media/Book/Literature.private.md) 
+### #is_/same_as :: [Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature.private.md) 
 
-### #is_/same_as :: [Literature.personal](/_personal/Society/Communication/Media/Book/Literature.personal.md) 
+### #is_/same_as :: [Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature.personal.md) 
 
-### #is_/same_as :: [Literature.secret](/_secret/Society/Communication/Media/Book/Literature.secret.md)
+### #is_/same_as :: [Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature.secret.md)
 
