@@ -2,7 +2,9 @@
 title: "Rana ridibunda"
 ---
 
-## *Rana ridibunda* [Pallas 1771] 
+# [[Rana_ridibunda]] 
+
+#has_/creator :: Pallas 1771
 
 [Peter Beerli](http://www.tolweb.org/)
 

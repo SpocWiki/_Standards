@@ -2,7 +2,9 @@
 title: "Rana cerigensis"
 ---
 
-## *Rana cerigensis* [Beerli, Hotz, Tunner, Heppich, and Uzzell 1994] 
+# [[Rana_cerigensis]] 
+
+#has_/creator :: Beerli, Hotz, Tunner, Heppich, and Uzzell 1994] 
 
 [Peter Beerli](http://www.tolweb.org/)
 

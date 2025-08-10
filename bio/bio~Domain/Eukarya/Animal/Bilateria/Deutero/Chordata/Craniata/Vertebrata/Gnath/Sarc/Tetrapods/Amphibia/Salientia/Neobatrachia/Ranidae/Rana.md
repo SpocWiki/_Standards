@@ -32,7 +32,7 @@ tags:
 type: private_note
 ---
 
-# Rana
+# [[Rana]] 
 
 True Frogs 
 

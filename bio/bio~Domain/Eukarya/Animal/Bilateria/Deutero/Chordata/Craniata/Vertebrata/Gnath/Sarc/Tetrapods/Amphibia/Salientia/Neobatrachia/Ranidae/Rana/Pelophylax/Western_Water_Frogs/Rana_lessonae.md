@@ -2,7 +2,9 @@
 title: "Rana lessonae"
 ---
 
-## *Rana lessonae* [Camerano 1882] 
+# [[Rana_lessonae]] 
+
+#has_/creator :: Camerano 1882 
 
 [Peter Beerli](http://www.tolweb.org/)
 

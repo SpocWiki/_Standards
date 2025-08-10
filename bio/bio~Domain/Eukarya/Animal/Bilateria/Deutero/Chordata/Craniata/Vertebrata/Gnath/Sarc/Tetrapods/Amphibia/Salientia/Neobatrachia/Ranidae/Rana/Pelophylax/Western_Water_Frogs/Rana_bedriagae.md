@@ -2,7 +2,9 @@
 title: "Rana bedriagae"
 ---
 
-## *Rana bedriagae* [Camerano 1882] 
+# [[Rana_bedriagae]] 
+
+#has_/creator :: Camerano 1882 
 
 [Peter Beerli](http://www.tolweb.org/)
 
@@ -51,29 +53,6 @@ Valid name: *Rana (Pelophylax) bedriagae* Camerano 1882
 Synonyms: Rana esculenta var. bedriagae Camerano 1882, Rana ridibunda
 caralitana Arikan 1988, Rana levantina Schneider, Sinsch, and Nevo 1993.
 
-### References
-
-Beerli, P. 1994. Genetic isolation and calibration of an average protein
-clock in western Palearctic water frogs of the Aegean region.
-Dissertation Universität Zürich 1994.
-\[[Summary](http://www.tolweb.org/accessory/Genetic_Isolation_in_Western_Palearctic_Water_Frogs?acc_id=580)\]
-
-Camerano, L. 1882. Recherches sur les variations de la *Rana esculenta*
-et du *Bufo viridis* dans le bassin del la Méditerranée. C. r. Soc. fr.
-Av. Sci. 10: 680-692.
-
-Dubois, A. 1992. Note sur la classification des Ranidae (Amphibiens
-Anoures). Bulletin mensuel de la société linnéenne de Lyon 61(10):
-305-352.
-
-Schneider, H. and T.S. Sofianidou. 1985. The mating call of *Rana
-ridibunda* (Amphibia, Anura) in northern Greece as compared with those
-of Yugoslavian and Israeli populations: proposal of a new subspecies.
-Zoologischer Anzeiger 214(5/6): 309-319.
-
-Schneider, H., U. Sinsch, and E. Nevo. 1993. The lake frog in Israel
-represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
-
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -108,6 +87,29 @@ represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
     -   [Rana ridibunda](Rana_ridibunda.md)
 
 -   » Sub-Groups 
+
+### References
+
+Beerli, P. 1994. Genetic isolation and calibration of an average protein
+clock in western Palearctic water frogs of the Aegean region.
+Dissertation Universität Zürich 1994.
+\[[Summary](http://www.tolweb.org/accessory/Genetic_Isolation_in_Western_Palearctic_Water_Frogs?acc_id=580)\]
+
+Camerano, L. 1882. Recherches sur les variations de la *Rana esculenta*
+et du *Bufo viridis* dans le bassin del la Méditerranée. C. r. Soc. fr.
+Av. Sci. 10: 680-692.
+
+Dubois, A. 1992. Note sur la classification des Ranidae (Amphibiens
+Anoures). Bulletin mensuel de la société linnéenne de Lyon 61(10):
+305-352.
+
+Schneider, H. and T.S. Sofianidou. 1985. The mating call of *Rana
+ridibunda* (Amphibia, Anura) in northern Greece as compared with those
+of Yugoslavian and Israeli populations: proposal of a new subspecies.
+Zoologischer Anzeiger 214(5/6): 309-319.
+
+Schneider, H., U. Sinsch, and E. Nevo. 1993. The lake frog in Israel
+represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
 
 ## Title Illustrations
 

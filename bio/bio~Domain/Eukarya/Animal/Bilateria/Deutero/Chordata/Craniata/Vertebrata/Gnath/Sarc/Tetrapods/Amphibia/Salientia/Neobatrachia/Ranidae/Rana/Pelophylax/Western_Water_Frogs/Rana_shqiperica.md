@@ -2,7 +2,9 @@
 title: "Rana shqiperica"
 ---
 
-## *Rana shqiperica* [Hotz, Uzzell, Günther, Tunner and Heppich 1987] 
+# [[Rana_shqiperica]] 
+
+#has_/creator :: Hotz, Uzzell, Günther, Tunner and Heppich 1987
 
 [Peter Beerli](http://www.tolweb.org/)
 

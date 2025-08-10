@@ -2,7 +2,9 @@
 title: "Rana perezi"
 ---
 
-## *Rana perezi* [Seoane 1885] 
+# [[Rana_perezi]] 
+
+#has_/creator :: Seoane 1885 
 
 [Peter Beerli](http://www.tolweb.org/)
 

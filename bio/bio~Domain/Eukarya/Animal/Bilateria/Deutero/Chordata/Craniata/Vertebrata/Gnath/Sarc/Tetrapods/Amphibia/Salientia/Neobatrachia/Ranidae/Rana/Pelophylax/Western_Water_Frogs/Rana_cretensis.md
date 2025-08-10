@@ -2,7 +2,9 @@
 title: "Rana cretensis"
 ---
 
-## *Rana cretensis* [Beerli, Hotz, Tunner, Heppich, and Uzzell 1994] 
+# [[Rana_cretensis]] 
+
+#has_/creator :: Beerli, Hotz, Tunner, Heppich, and Uzzell 1994] 
 
 [Peter Beerli](http://www.tolweb.org/)
 
